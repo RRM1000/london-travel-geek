@@ -102,13 +102,13 @@ These are homes, not a sight, so there is nothing to enter. Keep to the towpath 
 
 **Wapping Woods** runs alongside it: a wood planted on the filled-in dock, with paths through the trees and benches by the water. It is free, open at all times and almost always empty. The canal ends at **Shadwell Basin**, the last large piece of open dock water in Wapping.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## 5. Wapping Docklands Market
 
 Where the canal ends, on **Brussels Wharf** at the edge of Shadwell Basin.
 
 **Saturdays only, 10am to 5pm.** Fresh produce, independent stalls, street food, drink and live music, with tables looking over the water. It is the reason to walk this route on a Saturday, and it comes at the right point for lunch.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 6. The Prospect of Whitby
 
@@ -199,8 +199,6 @@ For more, the area guides cover both ends: [Wapping](/articles/wapping-area-guid
 
 **On time of day:** start by 11am on a Saturday and you reach the market at lunchtime and Narrow Street mid-afternoon.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Getting there and back
 
 **Start:** Tower Hill (District, Circle) or Tower Gateway (DLR), both about five minutes from St Katharine Docks.
@@ -210,6 +208,14 @@ For more, the area guides cover both ends: [Wapping](/articles/wapping-area-guid
 **Cutting it short:** Wapping (Overground) is a few minutes from stops 3 and 4; Shadwell (Overground, DLR) is north of stop 6; Limehouse (DLR, c2c) is by stops 8 and 9; Westferry (DLR) is on the last leg.
 
 **Walked the other way**, it works just as well, but this direction finishes on the doorstep of the walk to Greenwich.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Carry on walking
+
+- **[Canary Wharf to Greenwich](/articles/canary-wharf-greenwich-walk/)** — starts at Crossrail Place, where this one ends. Carry on under the river.
+- **[City of London: Bank to Tower Bridge](/articles/city-of-london-walk/)** — ends at St Katharine Docks, so walk it first.
+- **[South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)** — ends at Tower Bridge, beside St Katharine Docks.
 
 ## What to do with the rest of the day
 

@@ -324,6 +324,12 @@ The route is **flat and short**, and it never leaves a dense grid of streets, so
 
 Walked in reverse — Somerset House to Leicester Square — it works, but it puts the crowded half first and the quiet half last, which is the wrong way round in a district that fills up as the day goes on.
 
+## Carry on walking
+
+- **[Westminster](/articles/westminster-walk/)** — Trafalgar Square is on it, at the bottom of Covent Garden.
+- **[South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)** — over Waterloo Bridge from the Strand.
+- **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — Fitzrovia starts just north of Seven Dials.
+
 ## What to do with the rest of the day
 
 - **[Where to stay in Covent Garden](/articles/where-to-stay-covent-garden/)** — if you want to be inside this route rather than travelling to it.

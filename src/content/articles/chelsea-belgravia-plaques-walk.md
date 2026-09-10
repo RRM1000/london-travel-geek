@@ -210,6 +210,11 @@ For the fuller picture, the [Chelsea](/articles/chelsea-area-guide/#where-to-eat
 
 The route is **flat and step-free on pavements throughout**. Walked in reverse it works but ends at the river with a longer walk to a station.
 
+## Carry on walking
+
+- **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — Hyde Park Corner, at the top of Belgravia, is the west end of Green Park.
+- **[Westminster](/articles/westminster-walk/)** — Victoria and Westminster Cathedral are just east of Belgravia.
+
 ## What to do with the rest of the day
 
 - **[The Chelsea area guide](/articles/chelsea-area-guide/)** and **[the Belgravia area guide](/articles/belgravia-area-guide/)** — the King's Road, the pubs, the garden squares and where to stay.

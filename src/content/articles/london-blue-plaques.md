@@ -201,7 +201,7 @@ Chalk Farm is five minutes away, and **Primrose Hill itself is two streets up** 
 
 ### Sylvia Plath's Primrose Hill Home
 
-Plath lived here early in her marriage to Ted Hughes, in a house **W.B. Yeats had lived in before her** — a coincidence she noted herself and took as an omen.
+Plath and Ted Hughes lived here from 1960 to 1961, early in their marriage. **The Yeats house is round the corner at 23 Fitzroy Road**, where she moved after they separated, taking it as a good omen that W.B. Yeats had lived there as a boy, and where she died in 1963.
 
 **3 Chalcot Square.** Private, viewable from the pavement, free at any hour.
 

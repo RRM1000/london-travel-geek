@@ -298,6 +298,10 @@ For the full picture at either end, the area guides cover it: [Canary Wharf](/ar
 
 **Walked the other way**, Greenwich to Canary Wharf, it works and the tunnel is just as good. But you do the hill first, before you know what you are looking at, and you finish at an office estate rather than a view. This direction is better.
 
+## Carry on walking
+
+- **[Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/)** — ends at Crossrail Place, where this one starts, so walk it first.
+
 ## What to do with the rest of the day
 
 - **[The South Bank walk](/articles/south-bank-walk/)** — the other river route, on the opposite bank and eleven stops of its own.

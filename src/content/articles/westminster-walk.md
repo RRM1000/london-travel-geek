@@ -125,6 +125,8 @@ Three things are worth the twenty minutes:
 
 > ⚠️ **Airport-style security every time you enter**, and the court's own guidance is that queues build **between 9.30 and 10.30 and between 1.45 and 2.15**. Come at 11 or at 3.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 4. Westminster Abbey
 
 ![Westminster Abbey's twin west towers rising above a red London bus in the foreground](../../assets/articles/westminster-walk/westminster-abbey-towers.jpg)
@@ -142,8 +144,6 @@ Two things about the price are worth knowing and are easy to miss:
 **And you do not have to pay at all.** Attending a daily service is free, entry is through the Great West Door, and you are welcome to come in for private prayer during opening hours — the Abbey says so on its [prices and entry times page](https://www.westminster-abbey.org/visit-us/prices-and-entry-times), which is not where most people look.
 
 **St Margaret's Church** stands in the Abbey's shadow on the same site, is free, and keeps its own shorter hours — the Abbey lists them on the same page as its own.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. The Cenotaph and Downing Street
 
@@ -205,6 +205,8 @@ It is not a stop so much as **fifteen minutes of walking that you should not sho
 
 Two-thirds of the way along, look right through the trees: the lake, the bridge you were standing on twenty minutes ago, and the back of Whitehall again from the other side.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 10. Horse Guards
 
 ![Mounted Household Cavalry on parade at Horse Guards, Whitehall](../../assets/articles/westminster-walk/horse-guards-parade.jpg)
@@ -233,8 +235,6 @@ Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which 
 **Inside is the [Household Cavalry Museum](https://householdcavalrymuseum.co.uk/visit/)**, where a glass screen looks into the working stables. **£11 adult, £8 students and children aged 5 to 15, £9.50 over-60s, £29 for a family** of two adults and up to three children, with a multimedia guide included in nine languages. Open **10am to 6pm April to October and 10am to 5pm November to March**, last admission an hour before closing, and closed on Marathon Day, Easter Friday, Remembrance Sunday, Christmas Eve to Boxing Day and New Year's Day.
 
 **Straight across Whitehall is the Banqueting House**, the only surviving fragment of the old Whitehall Palace, with a Rubens ceiling painted for Charles I and the site of his execution in 1649 outside it. **It is barely open any more.** Historic Royal Palaces runs a summer season, **1 August to 20 September 2026**, and after that the only dates open to the general public are **Sunday 1 November and Sunday 20 December**. When it does open it is **£10 adult and free for children aged 5 to 15**, and pre-booking is recommended. Check the [Banqueting House visiting page](https://www.hrp.org.uk/banqueting-house/visit/) before you count on it — the rest of the year the building is given over to schools, community partners and private events.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 11. Trafalgar Square and the National Gallery
 
@@ -311,6 +311,12 @@ The route is **flat, paved and step-free throughout**, and the only stairs are o
 **Westminster Pier is at stop one**, next to the bridge, with river services east to Tower Bridge and Greenwich — see the [river boats guide](/articles/how-to-use-london-river-boats/) if you would rather leave by water.
 
 Walked in reverse — Trafalgar Square to Westminster Bridge — it works and ends on the better view. The reason we run it this way is the finish: Trafalgar Square gives you a free gallery open until six, and the bridge gives you a photograph and a road.
+
+## Carry on walking
+
+- **[Covent Garden: Seven Dials to the Piazza](/articles/covent-garden-walk/)** — Trafalgar Square is the edge of Covent Garden.
+- **[South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)** — starts across Westminster Bridge, where this one begins.
+- **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — finishes at Green Park, across the Mall from Buckingham Palace.
 
 ## What to do with the rest of the day
 

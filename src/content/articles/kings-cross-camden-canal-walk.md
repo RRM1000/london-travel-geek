@@ -261,6 +261,11 @@ The towpath itself is **flat and step-free the whole way** — no locks to climb
 
 Walked in reverse it still works, and Camden to King's Cross is the version most Londoners do. It just ends at a station rather than a lunch.
 
+## Carry on walking
+
+- **[Hampstead Heath to Primrose Hill](/articles/hampstead-heath-primrose-hill-walk/)** — ends on Primrose Hill, a short walk from Camden.
+- **[Baker Street to Marylebone through Regent's Park](/articles/regents-park-marylebone-walk/)** — Regent's Park is a short walk west of Camden along the canal.
+
 ## What to do with the rest of the day
 
 - **[Where to stay in King's Cross](/articles/where-to-stay-kings-cross/)** — the walk starts on its doorstep, and it is the best-connected place to sleep in London.

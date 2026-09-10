@@ -84,7 +84,9 @@ The ponds charge a small fee and are open all year, including winter, when the w
 
 The best formal gardens in London, plus the Open Air Theatre, London Zoo and Primrose Hill at the north end for the skyline.
 
-**Queen Mary's Gardens** holds London's largest rose collection - around 12,000 roses - and peaks in early June, which is the single best week to come. The park was laid out by John Nash in the 1810s as the setting for the terraces that still ring it.
+**Queen Mary's Gardens** holds London's largest rose collection, in 85 beds, and peaks in early June, which is the single best week to come. The park was laid out by John Nash in the 1810s as the setting for the terraces that still ring it.
+
+To walk it properly, our [Regent's Park and Marylebone walking route](/articles/regents-park-marylebone-walk/) crosses from Baker Street past the rose garden and the Nash terraces to Bond Street.
 
 Primrose Hill is technically separate and just to the north, and its view south over the city is another of the protected ones. It is a five-minute walk from the top of the park.
 

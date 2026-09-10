@@ -50,6 +50,8 @@ Every one of these is free, mapped stop by stop, and says what is open on which 
 - **[King's Cross to Camden](/articles/kings-cross-camden-canal-walk/)** — along the Regent's Canal
 - **[Hampstead Heath and Primrose Hill](/articles/hampstead-heath-primrose-hill-walk/)** — Kenwood and two free skyline views
 - **[Chelsea and Belgravia](/articles/chelsea-belgravia-plaques-walk/)** — a walk between blue plaques
+- **[Baker Street to Marylebone](/articles/regents-park-marylebone-walk/)** — through Regent's Park to Marylebone High Street
+- **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — Fitzroy Square to Savile Row, the arcades and Green Park
 - **[Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/)** — old docks, riverside pubs and Limehouse Basin
 - **[Canary Wharf to Greenwich](/articles/canary-wharf-greenwich-walk/)** — under the river through the foot tunnel
 
@@ -65,6 +67,8 @@ Every one of these is free, mapped stop by stop, and says what is open on which 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-itineraries-by-days-and-interests-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Book before you fly
 
 Four things genuinely sell out. Everything else can wait.
@@ -79,8 +83,6 @@ Four things genuinely sell out. Everything else can wait.
 **Almost everything else is free and needs no booking** — the British Museum, National Gallery, Tate Modern, V&A, Natural History Museum, Science Museum and British Library all charge nothing to walk in.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-itineraries-by-days-and-interests-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Planning rules
 

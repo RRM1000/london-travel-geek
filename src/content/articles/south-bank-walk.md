@@ -92,8 +92,6 @@ They are aimed squarely at families and they queue like it. If you are walking w
 
 > 💡 **The detour: Leake Street.** Five minutes inland from here, under Waterloo station, is a road tunnel where spraying the walls is **legal**. It is free, open at all hours, and repainted so constantly that nobody has ever seen it twice. It is the most-missed thing on this stretch of river and it is worth the ten-minute round trip. See the section below.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## 3. Southbank Centre and the Undercroft
 
 The concrete arts complex that everyone has an opinion about. The **Royal Festival Hall is free to walk into**, has free toilets, and its upper levels have seats and a view over the river — the best free indoor sit-down on the walk, which matters more than it sounds in February.
@@ -103,6 +101,8 @@ Underneath it is the **Undercroft**, London's oldest skate spot, in continuous u
 ![The Undercroft skate space beneath the Southbank Centre, every concrete pillar, wall and bank covered in layered graffiti, with a skater in the distance and a banked slope in the foreground](../../assets/articles/south-bank-walk/southbank-undercroft.jpg)
 
 *Every surface is painted and repainted, and none of the concrete was built for this — it is a 1960s service undercroft the skaters simply took.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 4. The book market under Waterloo Bridge
 
@@ -248,6 +248,12 @@ For the full picture — the chains that fill the gaps, and the restaurants wort
 The route is **flat, paved and step-free throughout**, and it never leaves the river for more than a couple of minutes, so it is easy to cut short — London Bridge at stop nine is the natural halfway exit.
 
 Walked east to west it works equally well and ends at Westminster, which is a better finish if you are heading on to Parliament or St James's.
+
+## Carry on walking
+
+- **[Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/)** — starts at St Katharine Docks, beside Tower Bridge where this one ends.
+- **[City of London: Bank to Tower Bridge](/articles/city-of-london-walk/)** — cross Tower Bridge and walk it backwards, or start it properly at Bank.
+- **[Westminster](/articles/westminster-walk/)** — starts across Westminster Bridge from the London Eye.
 
 ## What to do with the rest of the day
 

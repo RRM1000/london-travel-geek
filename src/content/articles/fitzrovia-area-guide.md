@@ -22,6 +22,10 @@ area:
   timeNeeded: "An evening, or half a day with lunch"
   budget: "££"
   bestDay: "Any evening; quieter than Soho at weekends"
+  walkingRoute:
+    slug: "fitzrovia-mayfair-walk"
+    label: "Fitzrovia to Mayfair"
+    detail: "11 stops · 5.6km · 3–4 hours"
   bestFor:
     - Restaurants
     - Walking between the West End and Bloomsbury
@@ -188,7 +192,13 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 
 **Seventeen different cuisines sit within a ten-minute walk here** — West African, Thai, Japanese, Mexican, Greek, Spanish, Chinese, Italian, Indian, Turkish, French and more. No other central district comes close to that range in the same space.
 
-## Suggested two-hour walking route
+## Walking routes
+
+**[A Walk from Fitzrovia to Mayfair →](/articles/fitzrovia-mayfair-walk/)**
+
+Our full route starts at **Fitzroy Square** and runs south through All Saints, Savile Row and the arcades to Green Park: **eleven numbered stops**, 5.6km, with a map, a Google Maps walking link and what is open on which day.
+
+### The short version, if you only have two hours
 
 1. **Start:** Goodge Street station. South down Charlotte Street.
 2. **Charlotte Street:** The full run, past the restaurants, to the Charlotte Street Hotel.

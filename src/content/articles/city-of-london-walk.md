@@ -97,8 +97,6 @@ It is **free**, it is genuinely good — the gold bar you can try to lift is the
 
 If you are walking at a weekend, this stop simply is not available, and no amount of planning gets around it.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## 3. Leadenhall Market
 
 ![The painted maroon, cream and gold arcade of Leadenhall Market under its glass roof, with the Lamb Tavern on the left and drinkers at barrel tables along the lane](../../assets/articles/city-of-london-walk/leadenhall-market-arcade.jpg)
@@ -112,6 +110,8 @@ The lanes are **public and open around the clock** — you can walk through at m
 It is also the reason to time this walk around lunch: see the eating section below.
 
 > ⚠️ **Scaffolding is currently up** for essential maintenance. The market is fully open and you can walk it as normal, but the photograph you have seen is not quite the photograph you will get.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 4. The tower cluster
 
@@ -171,8 +171,6 @@ Two things are worth going in for, and both are free. A **Roman tessellated pave
 
 Open to visitors **Monday to Friday 8am to 5pm, Saturday 10am to 5pm and Sunday 12.30pm to 5pm** — the one church on this route that reliably opens seven days. Times can move with staffing.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## 9. The Tower of London
 
 The one paid ticket on the route, and a **half-day in its own right** rather than a stop on a walk.
@@ -182,6 +180,8 @@ If you are doing it, **book ahead and go at opening** — the Crown Jewels queue
 ![The Middle Tower and outer curtain wall of the Tower of London above the dry moat, with contractors' hoarding and site cabins along the near side](../../assets/articles/city-of-london-walk/tower-of-london-entrance.jpg)
 
 *The west entrance, and the moat you cross to reach it. The hoarding along the near side is current works — you walk past it either way.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 10. Tower Bridge
 
@@ -262,6 +262,12 @@ Everything else that makes this walk — the tower cluster, St Dunstan, All Hall
 The route is **step-free on pavements throughout** and there is no point at which you are more than five minutes from a station, so it is easy to cut short. The one climb is the Monument's 311 steps, which is optional.
 
 Walked the other way — Tower Bridge to Bank — it works, but it front-loads the famous things and ends at a road junction. This direction is better.
+
+## Carry on walking
+
+- **[Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/)** — starts at St Katharine Docks, exactly where this one ends.
+- **[South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)** — across Tower Bridge on the south bank.
+- **[Shoreditch and Spitalfields](/articles/shoreditch-spitalfields-walk/)** — Spitalfields is a short walk north of Bank, where this one starts.
 
 ## What to do with the rest of the day
 

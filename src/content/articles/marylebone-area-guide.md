@@ -22,6 +22,10 @@ area:
   timeNeeded: "Half a day"
   budget: "££"
   bestDay: "Sunday for the farmers' market; any weekday for the shops"
+  walkingRoute:
+    slug: "regents-park-marylebone-walk"
+    label: "Baker Street to Bond Street through Regent's Park"
+    detail: "11 stops · 5km · 3–4 hours"
   bestFor:
     - Independent shopping
     - Free galleries
@@ -56,7 +60,7 @@ faq:
   - q: "Is 221B Baker Street a real address?"
     a: "It was not when Conan Doyle wrote the stories — Baker Street numbers did not reach that high. The Sherlock Holmes Museum now occupies the site and is signed 221B by special arrangement, though the building sits physically between 237 and 241. It is ticketed, small, and there is usually a queue outside."
   - q: "When is Marylebone Farmers' Market?"
-    a: "Sunday mornings, roughly 10:00 to 14:00, in the Cramer Street car park just off Marylebone High Street. It is one of the largest genuine farmers' markets in London — producers only, no resellers."
+    a: "Every Sunday, 10:00 to 14:00, rain or shine, on St Vincent Street, Aybrook Street and the top of Moxon Street, just west of Marylebone High Street. It is one of the largest genuine farmers' markets in London — producers only, no resellers."
   - q: "Is Marylebone worth visiting?"
     a: "Yes, if you like independent shops and a slower pace. Marylebone High Street runs parallel to Oxford Street a few minutes north and is its complete opposite: low-rise, largely independent and calm. Add the free Wallace Collection and Regent's Park at the top and it is an easy, pleasant half day."
   - q: "What is Daunt Books?"
@@ -86,7 +90,7 @@ Marylebone has its own share of the commemorative plaques marking where notable 
 1. **The Wallace Collection** — Free, in a Manchester Square townhouse. *The Laughing Cavalier*, Titian, Rembrandt, Velázquez, and one of Europe's great armour collections. Astonishingly quiet for what it holds.
 2. **Marylebone High Street** — The spine. Independent shops, delis, a cheesemonger and cafes with pavement tables.
 3. **Daunt Books** — An Edwardian shop with oak galleries and a stained-glass window, its main room arranged **by country** rather than genre. Free to browse.
-4. **Marylebone Farmers' Market** — Sundays, 10:00 to 14:00, in the Cramer Street car park. Producers only.
+4. **Marylebone Farmers' Market** — Sundays, 10:00 to 14:00, on St Vincent Street, Aybrook Street and the top of Moxon Street. Producers only.
 5. **Regent's Park** — Ten minutes north. Queen Mary's rose garden, the boating lake, the open-air theatre and London Zoo at the top.
 6. **Wigmore Hall** — A 1901 chamber music hall with near-perfect acoustics. Sunday morning coffee concerts are cheap and excellent.
 7. **The Sherlock Holmes Museum and Madame Tussauds** — Both on Baker Street, both ticketed, both usually with a queue. Manage expectations.
@@ -104,7 +108,7 @@ Marylebone has its own share of the commemorative plaques marking where notable 
 ### Marylebone High Street
 The centre, and **the street Londoners actually recommend** — low-rise, largely independent, and the opposite of Oxford Street four minutes south.
 
-**Daunt Books** is the anchor: an Edwardian bookshop with a galleried oak room and a stained-glass skylight, shelved by country rather than genre, which is the reason it is famous. **La Fromagerie**, Cadenhead's whisky shop and a run of delis fill the rest.
+**Daunt Books** is the anchor: an Edwardian bookshop with a galleried oak room, skylights and a stained-glass window at the back, shelved by country rather than genre, which is the reason it is famous. **La Fromagerie**, Cadenhead's whisky shop and a run of delis fill the rest.
 
 **A farmers' market runs behind it on Sundays**, which is the one day the street is genuinely busy. Ordinary shop hours otherwise, and about eight minutes from Bond Street.
 
@@ -125,7 +129,7 @@ A garden square two minutes east of the high street, holding **the Wallace Colle
 
 Frans Hals's *Laughing Cavalier* is here, along with Fragonard's *The Swing*.
 
-**It is free, it is never crowded, and it has a glazed courtyard restaurant** — which together make it the best wet-afternoon option in Marylebone by a distance. Closed only on a handful of days a year.
+**It is free, it is never crowded, and it has a glazed courtyard restaurant** — which together make it the best wet-afternoon option in Marylebone by a distance. Open daily 10:00 to 17:00, and closed only 24 to 26 December.
 
 ### Baker Street and Marylebone Road
 North, and **the least pleasant part of Marylebone** — a four-lane road, constant traffic, and the two attractions that generate the longest queues in the area.
@@ -144,6 +148,8 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 ![The green Edwardian shopfront of Daunt Books on Marylebone High Street](../../assets/articles/marylebone-area-guide/daunt-books.jpg)
 
 *Daunt Books, an Edwardian shop built for a bookseller and still one. The travel section is arranged by country. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2417477044), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -181,9 +187,13 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 
 **Note:** The high street is largely shut by early evening. Marylebone is a daytime area.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+## Walking routes
 
-## Suggested half-day route
+**[A Walk from Baker Street to Marylebone Through Regent's Park →](/articles/regents-park-marylebone-walk/)**
+
+Our full route for this area: **eleven numbered stops** over about 5km and three to four hours, with a map, a Google Maps walking link for your phone, and what is open on which day. It starts at 221b, crosses the park past the boating lake and Queen Mary's Gardens, loops past Nash's terraces to Park Crescent, and comes down the high street to the Wallace Collection and Bond Street. **On a Sunday, leave Baker Street by 10am**: the farmers' market at stop nine closes at 2pm.
+
+### The short version, if you only have half a day
 
 1. **Start:** Bond Street station, **Marylebone Lane** exit.
 2. **Marylebone Lane:** North along the curving lane to the high street.

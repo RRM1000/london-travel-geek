@@ -22,6 +22,10 @@ area:
   timeNeeded: "A full day"
   budget: "££"
   bestDay: "Any day; the Heath is best on a clear morning"
+  walkingRoute:
+    slug: "hampstead-heath-primrose-hill-walk"
+    label: "Hampstead village to Primrose Hill"
+    detail: "10 stops · 9km · 4–5 hours"
   bestFor:
     - Heath walks and views
     - Wild swimming
@@ -52,9 +56,9 @@ area:
       note: "Across the Heath on foot for Highgate Cemetery and another village high street."
 faq:
   - q: "Can you swim in the Hampstead Heath ponds?"
-    a: "Yes. There are three: the Men's Pond, the Ladies' Pond and the Mixed Pond. All are open year-round, including winter, and all are lifeguarded. There is a charge, and in summer the Mixed Pond in particular can reach capacity by late morning. The water is natural, unheated and genuinely cold — around 4°C in winter."
+    a: "Yes. There are three: the Men's Pond, the Ladies' Pond and the Mixed Pond. The Men's and Ladies' ponds are open year-round, including winter; the Mixed Pond opens April to October only. All are lifeguarded. A swim costs £5, or £3 for concessions and under-16s, and in summer the Mixed Pond in particular can reach capacity by late morning. The water is natural, unheated and genuinely cold — around 4°C in winter."
   - q: "Is Kenwood House free?"
-    a: "Yes. The house and its art collection are free to enter, as are the grounds. The collection includes a Rembrandt self-portrait, a Vermeer, Gainsboroughs and a Turner — an extraordinary set for a free house on the edge of a park. It is run by English Heritage and closes on some days, so check before travelling."
+    a: "Yes. The house and its art collection are free to enter, as are the grounds. The collection includes a Rembrandt self-portrait, a Vermeer, Gainsboroughs and a Turner — an extraordinary set for a free house on the edge of a park. It is run by English Heritage and opens every day except 24–26 December: the house from 10am, closing at 5pm in summer and 4pm in winter."
   - q: "What is the view from Parliament Hill?"
     a: "A protected panorama south across the whole of London — the City cluster, the Shard, St Paul's, the Eye. It is one of a small number of legally protected sightlines in London, meaning buildings cannot be put up to block it. The hill is a short but real climb from the south side of the Heath."
   - q: "How big is Hampstead Heath?"
@@ -86,7 +90,7 @@ Hampstead has its own share of the commemorative plaques marking where notable p
 1. **Hampstead Heath** — 800 acres of woodland, meadow and pond, deliberately left semi-wild. Easy to get lost in.
 2. **Parliament Hill** — The protected view south over the City, the Shard and St Paul's. A short but real climb.
 3. **Kenwood House** — Free. A Robert Adam interior and a collection including a **Rembrandt self-portrait**, a **Vermeer**, Gainsboroughs and a Turner. The grounds run down to a lake.
-4. **The bathing ponds** — Men's, Ladies' and Mixed, all lifeguarded and open year-round. Small charge. Unheated and properly cold in winter.
+4. **The bathing ponds** — Men's, Ladies' and Mixed, all lifeguarded. The Men's and Ladies' open year-round, the Mixed Pond April to October. £5 a swim. Unheated and properly cold in winter.
 5. **Hampstead village** — Georgian lanes off the high street: Flask Walk, Well Walk, Church Row. Narrow, quiet and largely unchanged.
 6. **The Spaniards Inn** — A 1585 coaching inn on the Heath's northern edge, associated with Dick Turpin and mentioned in *Dracula*. Big garden.
 7. **Keats House** — The Hampstead villa where Keats wrote *Ode to a Nightingale*. Small, ticketed and quiet.
@@ -114,7 +118,7 @@ The names are literal: **Hampstead was a spa town**, and these streets are where
 ### Parliament Hill and the south Heath
 The south-east corner, and the part of the Heath most people mean. **The view from the top is one of London's protected vistas** — St Paul's and the City are legally guaranteed to stay visible, so nothing can be built into it.
 
-The **bathing ponds** are here, open year-round: separate men's and women's ponds and a mixed one, plus the **lido**, which is a chlorinated 60-metre pool rather than a pond.
+The **bathing ponds** are here: separate men's and women's ponds, open year-round, and a mixed one that opens April to October, plus the **lido**, which is a chlorinated 60-metre pool rather than a pond.
 
 **Hampstead Heath Overground is the closest station**, five minutes from the foot of the hill, and considerably easier than walking down from Hampstead village and back up.
 
@@ -151,7 +155,7 @@ A genuine hamlet marooned inside the Heath itself, near North End — a handful 
 
 ## Go deeper
 
-- **[The Hampstead Heath and Primrose Hill walk](/articles/hampstead-heath-primrose-hill-walk/)** — the Heath end to end, with Parliament Hill, the ponds and the route down to Primrose Hill.
+- **[The Hampstead Heath and Primrose Hill walk](/articles/hampstead-heath-primrose-hill-walk/)** — ten numbered stops from the village to Primrose Hill, with a map and what is open on which day.
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — where the Heath sits against the royal parks, and why it feels nothing like them.
 
 ## Where to eat and drink
@@ -168,7 +172,7 @@ A genuine hamlet marooned inside the Heath itself, near North End — a handful 
 
 ![One of the Hampstead Heath bathing ponds, ringed by trees, with a swimmers' noticeboard in the foreground](../../assets/articles/hampstead-area-guide/hampstead-heath-bathing-pond.jpg)
 
-*One of the Heath's bathing ponds. They are open year-round, and there are separate men's, ladies' and mixed ponds.*
+*One of the Heath's bathing ponds. There are separate men's, ladies' and mixed ponds; the mixed one closes from November to March.*
 
 ## Getting there
 
@@ -195,7 +199,13 @@ A genuine hamlet marooned inside the Heath itself, near North End — a handful 
 
 **Note:** The Heath is unlit and genuinely dark after sunset. Plan to be off it by dusk.
 
-## Suggested full-day route
+## Walking routes
+
+**[The Hampstead Heath to Primrose Hill Walk: Two Free Skyline Views →](/articles/hampstead-heath-primrose-hill-walk/)**
+
+Our full route for this area: **ten numbered stops** over about 9km and four to five hours, from Flask Walk over the Heath to Kenwood, Parliament Hill and on to Primrose Hill, with a map, a Google Maps walking link and a day-by-day breakdown of what is open. It is built around the fact that **Burgh House and Keats House both close on Mondays, Tuesdays and Saturdays**, while Kenwood opens every day.
+
+### The short version, if you only have four hours
 
 1. **Start:** Hampstead Heath Overground.
 2. **Parliament Hill:** Up for the protected view over the City.

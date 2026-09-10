@@ -286,8 +286,6 @@ Three answers, and the day decides between them rather than the food.
 
 **Brick Lane's curry houses** are at stop eight and are a separate decision from this walk. Be selective, ignore the touts, and see the [area guide](/articles/shoreditch-area-guide/#where-to-eat-and-drink) for the full picture.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-spitalfields-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The best day to go
 
 **Sunday, and it is not close.** This is one of the few walks in London where a single day gets you everything and the other six get you a fraction.
@@ -311,6 +309,8 @@ The Sunday version is the better *day out*. The weekday version is the better *s
 
 **On time of day:** if it is Sunday, be at Columbia Road for 8am — that single decision does more for the day than anything else on this page. You will reach Brick Lane by ten as the street market opens, Old Spitalfields by early afternoon, and Petticoat Lane before it packs up at three.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-spitalfields-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Getting there and back
 
 **Start:** Hoxton (London Overground) is the closest station to Columbia Road, about five minutes; Bethnal Green (Central) and Old Street (Northern) are around fifteen. **Finish:** Liverpool Street (Elizabeth line, Central, Circle, Metropolitan, Hammersmith & City and rail) five minutes from Petticoat Lane, or Aldgate East (District, Hammersmith & City).
@@ -320,6 +320,10 @@ The Sunday version is the better *day out*. The weekday version is the better *s
 The walk is **flat and paved throughout** and never more than about five minutes from a station, so it is easy to cut short. The one climb is the four steps up to the bandstand at Arnold Circus.
 
 **Walked south to north** it also works, and finishes at Columbia Road — but only if it is a Sunday and only if you can be there before three, which is exactly the constraint that argues for doing it this way round.
+
+## Carry on walking
+
+- **[City of London: Bank to Tower Bridge](/articles/city-of-london-walk/)** — starts at Bank, a short walk south of Spitalfields.
 
 ## What to do with the rest of the day
 

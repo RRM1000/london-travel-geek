@@ -1,0 +1,98 @@
+import type { RouteMapStop } from "../routeMaps";
+
+// Coordinates from OSM Nominatim except where noted. Kenwood House is the house
+// building's OSM way (the Nominatim hit is the car park); Parliament Hill and
+// Primrose Hill are their OSM summit nodes; the two ponds are the OSM swimming
+// areas. Stop 9 is Chalcot Square, standing in for Regent's Park Road.
+export const stops: RouteMapStop[] = [
+  {
+    stop: "1",
+    name: "Flask Walk",
+    note: "Hampstead's spa-town passage, and the Flask pub. Two minutes from the Tube.",
+    latitude: 51.556511,
+    longitude: -0.177626,
+    articleAnchor: "#1-flask-walk",
+    onRoute: true,
+  },
+  {
+    stop: "2",
+    name: "Burgh House",
+    note: "Free museum in a Queen Anne house. Wed–Fri and Sun, 10am–4pm.",
+    latitude: 51.558191,
+    longitude: -0.175038,
+    articleAnchor: "#2-burgh-house",
+    onRoute: true,
+  },
+  {
+    stop: "3",
+    name: "The Vale of Health",
+    note: "A hamlet with the Heath on every side.",
+    latitude: 51.562939,
+    longitude: -0.176282,
+    articleAnchor: "#3-the-vale-of-health",
+    onRoute: true,
+  },
+  {
+    stop: "4",
+    name: "Kenwood House",
+    note: "Free: a Vermeer and a Rembrandt. Daily from 10am.",
+    latitude: 51.571545,
+    longitude: -0.16736,
+    articleAnchor: "#4-kenwood-house",
+    onRoute: true,
+  },
+  {
+    stop: "5",
+    name: "The Ladies' Pond and the Highgate ponds",
+    note: "The chain of ponds down the Heath's east side. Swimming £5.",
+    latitude: 51.567,
+    longitude: -0.160462,
+    articleAnchor: "#5-the-ladies-pond-and-the-highgate-ponds",
+    onRoute: true,
+  },
+  {
+    stop: "6",
+    name: "Parliament Hill",
+    note: "The skyline view, 98 metres up. Free, always open.",
+    latitude: 51.559647,
+    longitude: -0.159756,
+    articleAnchor: "#6-parliament-hill",
+    onRoute: true,
+  },
+  {
+    stop: "7",
+    name: "The Mixed Pond",
+    note: "The pond anyone can swim in. April to October only.",
+    latitude: 51.560321,
+    longitude: -0.166108,
+    articleAnchor: "#7-the-mixed-pond",
+    onRoute: true,
+  },
+  {
+    stop: "8",
+    name: "Keats House",
+    note: "Where Keats wrote the Nightingale ode. Wed, Thu, Fri and Sun.",
+    latitude: 51.555522,
+    longitude: -0.167935,
+    articleAnchor: "#8-keats-house",
+    onRoute: true,
+  },
+  {
+    stop: "9",
+    name: "Regent's Park Road and Chalcot Square",
+    note: "Primrose Hill's village street, and the Engels and Plath plaques.",
+    latitude: 51.541041,
+    longitude: -0.155826,
+    articleAnchor: "#9-regents-park-road-and-chalcot-square",
+    onRoute: true,
+  },
+  {
+    stop: "10",
+    name: "Primrose Hill",
+    note: "The second view, 64 metres up. The finish.",
+    latitude: 51.539538,
+    longitude: -0.160757,
+    articleAnchor: "#10-primrose-hill",
+    onRoute: true,
+  },
+];

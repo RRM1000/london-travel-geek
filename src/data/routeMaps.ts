@@ -29,8 +29,14 @@ import { stops as canaryWharfGreenwichWalk } from "./routes/canary-wharf-greenwi
 import { stops as chelseaBelgraviaPlaquesWalk } from "./routes/chelsea-belgravia-plaques-walk";
 import { stops as shoreditchSpitalfieldsWalk } from "./routes/shoreditch-spitalfields-walk";
 import { stops as wappingCanaryWharfWalk } from "./routes/wapping-canary-wharf-walk";
+import { stops as regentsParkMaryleboneWalk } from "./routes/regents-park-marylebone-walk";
+import { stops as hampsteadHeathPrimroseHillWalk } from "./routes/hampstead-heath-primrose-hill-walk";
+import { stops as fitzroviaMayfairWalk } from "./routes/fitzrovia-mayfair-walk";
 
 export const routeMaps: Record<string, RouteMapStop[]> = {
+  "fitzrovia-mayfair-walk": fitzroviaMayfairWalk,
+  "regents-park-marylebone-walk": regentsParkMaryleboneWalk,
+  "hampstead-heath-primrose-hill-walk": hampsteadHeathPrimroseHillWalk,
   "south-bank-walk": southBankWalk,
   "city-of-london-walk": cityOfLondonWalk,
   "westminster-walk": westminsterWalk,

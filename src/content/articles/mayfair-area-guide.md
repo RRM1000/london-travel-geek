@@ -21,7 +21,11 @@ area:
   walkability: 5
   timeNeeded: "Half a day"
   budget: "£££"
-  bestDay: "Weekdays; many galleries close at weekends"
+  bestDay: "Tuesday to Friday; the RA shuts on Mondays"
+  walkingRoute:
+    slug: "fitzrovia-mayfair-walk"
+    label: "Fitzrovia to Mayfair"
+    detail: "11 stops · 5.6km · 3–4 hours"
   bestFor:
     - Galleries and art
     - Window shopping
@@ -110,7 +114,7 @@ Four covered Victorian shopping arcades within a few hundred metres — **Burlin
 
 **Burlington Arcade opened in 1819** and is the oldest and grandest. It is still patrolled by **Beadles** in top hats and frock coats, the oldest small police force in the world, and they enforce the original rules: **no running, no whistling, no singing, and no opening an umbrella inside.** They will stop you, politely.
 
-**The Royal Academy** is through the courtyard next door, Tuesday to Saturday 10am to 6pm. Its exhibitions are ticketed but the courtyard, the shop and parts of the building are free to enter.
+**The Royal Academy** is through the courtyard next door. It is **closed on Mondays**, open Tuesday to Saturday 10am to 6pm and until 9pm on Fridays, and the free Fine Rooms also open on Sundays, 11am to 4pm. Its exhibitions are ticketed but the courtyard, the shop and parts of the building are free to enter.
 
 **Cecconi's at 5A Burlington Gardens** is the all-day Italian at the back of the arcade, and it takes bookings — most of Mayfair at this end does not do walk-ins well.
 
@@ -122,7 +126,7 @@ Two parallel streets doing two different trades, both free to walk down, and bot
 
 **Savile Row is bespoke tailoring**, and the shopfronts are worth the walk even if a suit is not: Huntsman at number 11 supplied the Kingsman films with their entire premise. **Gieves & Hawkes at number 1** has been at that address since 1912.
 
-**Both close at weekends.** Galleries typically run Tuesday to Saturday and tailors Monday to Friday, so a Sunday walk down either street gets you shuttered windows. Green Park and Piccadilly Circus are each about five minutes.
+**Come on a weekday.** Galleries typically run Tuesday to Saturday. Henry Poole opens Monday to Friday only and Huntsman shuts at 3pm on Saturdays, though Gieves & Hawkes at No. 1 opens every day. Green Park and Piccadilly Circus are each about five minutes.
 
 ### Shepherd Market
 
@@ -148,6 +152,8 @@ The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terr
 
 *Two blue plaques, next door to each other. Handel lived at 25 Brook Street; Jimi Hendrix lived at 23, two centuries later. Photo: [HandelandHendrix](https://commons.wikimedia.org/w/index.php?curid=150507869), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -163,7 +169,7 @@ The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terr
 
 **By Tube.** **Green Park** (Piccadilly, Victoria, Jubilee) is best for the arcades and the Royal Academy. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the north. Oxford Circus serves the north-east corner.
 
-**Best exit.** From Green Park, take the **Piccadilly North** exit and Burlington Arcade is four minutes west along Piccadilly.
+**Best exit.** From Green Park, take the **Piccadilly North** exit and Burlington Arcade is four minutes east along Piccadilly.
 
 **On foot.** Ten minutes to Soho, twelve to Marylebone, twenty through Green Park to Buckingham Palace.
 
@@ -175,16 +181,20 @@ The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terr
 | **Half a day** | Add Shepherd Market, Mount Street and Berkeley Square |
 | **A full day** | Add Handel Hendrix House and a Royal Academy exhibition |
 
-**Best time:** Weekday daytime. Many commercial galleries close at weekends entirely, and Mayfair is dead on a Sunday.
+**Best time:** Tuesday to Friday, in the daytime. The Royal Academy shuts on Mondays, the galleries mostly on Sundays, and Henry Poole opens on weekdays only.
 
 **Note:** The Summer Exhibition runs roughly June to August and is the busiest the Royal Academy gets.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+## Walking routes
 
-## Suggested two-hour walking route
+**[A Walk from Fitzrovia to Mayfair →](/articles/fitzrovia-mayfair-walk/)**
+
+Our full route comes down from Fitzroy Square through Savile Row, both arcades, Grosvenor Square, Mount Street and Shepherd Market to Green Park: **eleven numbered stops**, 5.6km, with a map, a Google Maps walking link and the day-by-day of what is open. The Royal Academy is shut on Mondays; the arcades and Gieves & Hawkes open on Sundays.
+
+### The short version, if you only have two hours
 
 1. **Start:** Green Park station, **Piccadilly North** exit.
-2. **Burlington Arcade:** West along Piccadilly, then through the arcade.
+2. **Burlington Arcade:** East along Piccadilly, then through the arcade.
 3. **Royal Academy:** Next door. The free courtyard and Fine Rooms.
 4. **Cork Street:** North through the commercial galleries.
 5. **Bond Street and Mount Street:** West and north past Sotheby's.
