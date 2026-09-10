@@ -88,7 +88,6 @@ Table barbecue is the format: **galbi** — marinated short rib — and pork bel
 ![Seafood grilling on a sunken table grill at Jin Go Gae - squid, a razor clam, mussels and a whole prawn with sliced garlic, ringed by banchan, pickled vegetables and a bowl of kimchi](../../assets/articles/best-korean-restaurants-london/jin-go-gae-seafood-grill.jpg)
 
 *The grill is not only for galbi and pork belly — squid, razor clams, mussels and prawns go on it too, and the banchan arrives regardless.*
-*New Malden has one of the largest Korean communities in Europe, and its high street reflects it. Photo: [sludgegulper](https://commons.wikimedia.org/wiki/File:Korean_Restaurant,_New_Malden_KT3.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Imone, New Malden High Street
