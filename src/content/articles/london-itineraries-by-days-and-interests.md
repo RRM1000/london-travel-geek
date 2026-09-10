@@ -38,6 +38,23 @@ The city's famous sights are scattered across a wide area, so a plan built from 
 
 ---
 
+## Or build the day around a walk
+
+Every one of these is free, mapped stop by stop, and says what is open on which day.
+
+- **[Westminster](/articles/westminster-walk/)** — Big Ben to Trafalgar Square
+- **[South Bank](/articles/south-bank-walk/)** — Westminster to Tower Bridge along the river
+- **[City of London](/articles/city-of-london-walk/)** — Bank to Tower Bridge
+- **[Covent Garden](/articles/covent-garden-walk/)** — Seven Dials to the Piazza
+- **[Shoreditch and Spitalfields](/articles/shoreditch-spitalfields-walk/)** — Brick Lane and the markets
+- **[King's Cross to Camden](/articles/kings-cross-camden-canal-walk/)** — along the Regent's Canal
+- **[Hampstead Heath and Primrose Hill](/articles/hampstead-heath-primrose-hill-walk/)** — Kenwood and two free skyline views
+- **[Chelsea and Belgravia](/articles/chelsea-belgravia-plaques-walk/)** — a walk between blue plaques
+- **[Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/)** — old docks, riverside pubs and Limehouse Basin
+- **[Canary Wharf to Greenwich](/articles/canary-wharf-greenwich-walk/)** — under the river through the foot tunnel
+
+[All walks →](/tags/walks/)
+
 ## How many days does London actually need?
 
 * **One day** — enough for one theme done properly. Not enough for "the highlights", and trying will cost you a third of the day underground.

@@ -6,7 +6,7 @@ publishedAt: 2026-08-30
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-tags: [walking, free things to do, Hampstead Heath, parks, things to do]
+tags: [walks, free things to do, Hampstead Heath, parks, things to do]
 draft: false
 faq:
   - q: "How long does the Hampstead Heath to Primrose Hill walk take?"
