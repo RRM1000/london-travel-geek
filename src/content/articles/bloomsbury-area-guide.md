@@ -148,8 +148,6 @@ A short run of antiquarian bookshops, print dealers and map sellers between the 
 
 *48 Doughty Street, where Dickens wrote Oliver Twist and Nicholas Nickleby. He lived here under three years. Photo: [Matt From London](https://www.flickr.com/photos/57868312@N00/38375015794), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bloomsbury-area-guide-british-museum-guided-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="British Museum guided tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Go deeper
 
 - **[The best museums in London](/articles/best-museums-london/)** — how to do the British Museum without the crush, and the smaller collections nearby.
@@ -185,6 +183,8 @@ A short run of antiquarian bookshops, print dealers and map sellers between the 
 **Best time:** Weekday mornings at opening. The British Museum's late Friday opening is also much calmer than a weekend afternoon.
 
 **Avoid:** Weekend middays at the museum, when the Great Russell Street queue is at its longest.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bloomsbury-area-guide-british-museum-guided-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="British Museum guided tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Suggested two-hour walking route
 

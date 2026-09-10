@@ -235,6 +235,8 @@ One of several Orwell addresses across London, marking a working writer's lodgin
 
 **It is a very ordinary building for a very large reputation**, which is rather the point of the scheme. Kensington Gardens is ten minutes north if you want to make a walk of it.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Soho and the City
 
 ### Karl Marx, 28 Dean Street, Soho
@@ -286,8 +288,6 @@ Where Van Gogh lodged as a young art dealer in his twenties, **years before he h
 **It is the furthest plaque on this page from the others** and does not combine with anything. Stockwell is about ten minutes' walk, Oval about the same — go because you want this one, not as part of a route.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Elsewhere
 

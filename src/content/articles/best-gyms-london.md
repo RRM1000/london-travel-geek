@@ -118,6 +118,8 @@ The thing to work out is which tier you want, not which contract. At Islington t
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-gyms-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Premium: £160 to £345
 
 **Virgin Active publishes a price for five of its 32 London clubs.** Mayfair, Chiswick Riverside, Kensington, Canary Riverside and Strand have a rates page with figures on it. The other 27 — Aldersgate, Bank, Barbican, Clapham, Islington Angel, Moorgate, Notting Hill, Swiss Cottage, Tower Bridge, Wimbledon and the rest — show no price at all. You book a tour to find out.
@@ -135,8 +137,6 @@ The one genuinely useful thing Virgin Active publishes is its **seven-tier club 
 **Equinox has three London clubs — Bishopsgate, Kensington and St James's — and publishes no price, no joining fee and no facility list for any of them.** Its London clubs page renders a permanent "Finding Clubs…" state with no clubs underneath, and the only offer shown on it is denominated in US dollars: "$0 initiation." The Kensington page lists yoga and boxing studios, a strength floor and a spa. No swimming.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-gyms-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Public leisure, and why it is not automatically cheaper
 
@@ -188,6 +188,8 @@ Membership price is not where public leisure separates from private. Residency i
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-gyms-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## When pay-as-you-go beats a membership
 
 The operators' own break-even claim is twice a week. Everyone Active states it in its FAQ: "if you intend to visit the centre at least twice a week then a membership will normally be the best value option for you." On Better's published numbers, for a swimmer, that is optimistic.
@@ -203,8 +205,6 @@ The operators' own break-even claim is twice a week. Everyone Active states it i
 **In the boutique world the answer flips.** The studios have already run this calculation and the membership always wins on unit price: Psycle is £29 a single credit against £15.67 a class on PSYCLE15; 1Rebel £26 a session against £14.58 on All-Access 12; Heartcore £35 against £22.14; SoulCycle £28 against £19.50. Which is exactly why every one of those memberships carries a minimum term and an expiry.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-gyms-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Boutique studios: the price is per class
 

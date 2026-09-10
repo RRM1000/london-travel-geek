@@ -183,6 +183,8 @@ What you give up is the choice of venue and the off-peak pricing that does most 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The rules that actually decide the day
 
 * **Everybody taps their own card.** Twelve people cannot share one, and mixing a phone and a physical card splits the capping. The **Zones 1–2 daily cap is £8.90**, buses and trams are **£1.75** with a **£5.25** cap, and the **Hopper fare** gives unlimited bus journeys within 60 minutes for one fare. Never buy a paper day Travelcard — it carries a £16.60 to £23.60 surcharge. See the [transport costs guide](/articles/london-public-transport-costs-and-fares/) and the [Oyster card guide](/articles/oyster-card-guide-london/).
@@ -195,8 +197,6 @@ What you give up is the choice of venue and the off-peak pricing that does most 
 * **Bodean's BBQ has closed.** Its own website is now a single closure notice. It is still on most hen-do listicles as the group dinner answer; it is not one.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

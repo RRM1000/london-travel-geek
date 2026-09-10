@@ -267,6 +267,8 @@ The only place in London where a celebration can start at 2am and end with sunri
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="special-occasion-restaurants-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Cheaper ways into serious kitchens
 
 The gap between lunch and dinner at a starred restaurant is the single biggest saving available in London dining, and it is for the same kitchen and the same room.
@@ -288,8 +290,6 @@ The gap between lunch and dinner at a starred restaurant is the single biggest s
 * **Trullo** — what London chefs recommend when they are paying themselves.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="special-occasion-restaurants-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

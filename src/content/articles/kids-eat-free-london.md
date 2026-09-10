@@ -70,6 +70,8 @@ Three different things get sold under the same headline, and they are not equall
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kids-eat-free-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Offers that run all year
 
 These are the ones worth building a habit around, because they do not vanish the week term restarts.
@@ -112,8 +114,6 @@ The catch is geographical. Of the ten Morrisons nearest Covent Garden — Southw
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kids-eat-free-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The two that survive the school holidays
 
 Most of the big chains treat kids-eat-free as a school-holiday campaign: it appears a week or two before half term and is withdrawn the day the term restarts. **ASK Italian, Zizzi, TGI Fridays and Toby Carvery all ran one over summer 2026 and all closed it in early September.** Expect them back around **autumn half term, which most London boroughs run from Monday 26 October to Friday 30 October 2026**, then Christmas from **Saturday 19 December**, and **February half term on 15 to 19 February 2027**. Academies and individual boroughs shift by a day or two.
@@ -134,6 +134,8 @@ Two Zizzi exclusions apply whichever route you use. The offer "cannot be used in
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kids-eat-free-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Kids eat free at breakfast
 
 This is the section that matters if you are staying overnight, and it is the best-value part of the whole page.
@@ -153,8 +155,6 @@ This is the section that matters if you are staying overnight, and it is the bes
 > ⚠️ **Whitbread has withdrawn its London pub-restaurants from public use.** Brewers Fayre Winsor House in Beckton closed to walk-in customers on 7 September 2026, with the Beefeaters at Woolwich and Harrow following on 10 September. Whitbread's notice says Premier Inn guests continue to get breakfast, evening meals and drinks — so in London the £11.99 kids-eat-free breakfast is now an overnight-guest benefit rather than something you can walk in for.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kids-eat-free-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## By area: what is actually near you
 

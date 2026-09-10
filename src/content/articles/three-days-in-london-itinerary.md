@@ -87,6 +87,8 @@ If you would rather drink than watch, our [cocktail bars guide](/articles/best-c
 
 *The end of day one. The South Bank walk is flat, continuous and free, and it is the stretch that makes London look like itself.*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Day 2: The Tower and the whole South Bank
 
 *About 5 to 6 miles. The longest day, but it is one continuous riverside walk and you can stop anywhere.*
@@ -117,8 +119,6 @@ The Southbank Centre foyers have **free live music most days**. Otherwise dinner
 > **If the weather turns**, this is the day to change. Tate Modern, the Globe's indoor exhibition and Borough Market's covered sections absorb a wet afternoon. See [London in the rain](/articles/london-in-the-rain/).
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Day 3: One museum district
 
@@ -190,6 +190,8 @@ Add them on a longer trip: see [five days in London](/articles/five-days-in-lond
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to stay for this plan
 
 **Zone 1 is not the answer.** You pay a premium for a postcode you will walk out of every morning anyway. What matters is a direct line to the middle and a station you can walk back to at midnight.
@@ -203,8 +205,6 @@ For maximum walking, base yourself in [Covent Garden](/articles/covent-garden-ar
 For rail convenience and better value, [King's Cross](/articles/kings-cross-area-guide/) or [Bloomsbury](/articles/bloomsbury-area-guide/), which also sets up Day 3 Option B.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

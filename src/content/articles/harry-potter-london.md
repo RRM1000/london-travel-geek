@@ -113,8 +113,6 @@ At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on mos
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Harry Potter and the Cursed Child
 
 The original two-part production ends its London run on 20 September 2026. From **9 October 2026 the play runs as a single show in one sitting**, currently booking through late June 2027.
@@ -168,6 +166,8 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 
 **House of MinaLima** — **157 Wardour Street, Soho, W1F 8WQ, open daily 11am-6.45pm including bank holidays.** Miraphora Mina and Eduardo Lima designed the graphics and printed props for the films — the newspapers, the sweet wrappers, the Marauder's Map — and this is their own gallery and shop. Licensed work rather than a Warner Bros. shop, though their sections appear inside the official stores in New York and Chicago. It is free, it takes twenty minutes, and it is the most genuinely interesting thing on this list. Two warnings from the house itself: the gallery is down a flight of stairs with no alternative access, and there is no toilet, no cloakroom and no eating or drinking inside. Older guides still print 26 Greek Street — that address is out of date.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Filming locations you can actually visit
 
 The all-films version of this walk, with Bond, *Slow Horses* and the rest, is in our [London filming locations guide](/articles/london-filming-locations/). Here is what a Harry Potter fan actually finds on arrival.
@@ -210,8 +210,6 @@ This is where the internet is least reliable: London's unofficial wizarding venu
 **Enigma Quests**, 86 Fetter Lane, EC4A 1EQ, runs a wizarding-school escape room at **£35 per person for 60 minutes**, private bookings for teams of two to five, with a £35 surcharge on a two-person Saturday booking. Under-11s need an adult in the room with them.
 
 Two that used to be here and no longer are: the wizarding afternoon tea at the **Great Northern Hotel** by King's Cross, whose restaurant now serves a railway-themed tea instead, and **The Potion Room** at Cutter & Squidge in Soho, which is off the menu. Both still appear in guides. Neither is bookable.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Tours
 
@@ -278,8 +276,6 @@ Day one as above without the theatre. Day two: Euston at 9am, Watford Junction, 
 
 **For a family of four the Studio Tour ticket drops to £188** — £47 a head rather than £58.50 — making the two-day version roughly £370 for two adults and two children including all transport and lunches. Add the theatre and you are near £470, since children need full-price seats and under-5s are not admitted at all.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## What is not worth it
 
 **The Ministry of Magic phone box.** There isn't one. It was a prop. Great Scotland Yard is a fifteen-minute detour to look at a street.
@@ -299,6 +295,8 @@ Day one as above without the theatre. Day two: Euston at 9am, Watford Junction, 
 **The paid Platform 9¾ photograph, unless you want the professional one.** The queue is the same either way and your own phone is free.
 
 > 📅 **Every price, address, opening time and policy on this page was checked against the operator's own website on 3 September 2026** — wbstudiotour.co.uk, the official Cursed Child site and Nimax box office, harrypottershop.co.uk, minalima.com and each venue's own pages. Prices move. Check before you book.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

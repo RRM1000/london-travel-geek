@@ -132,6 +132,8 @@ Charities buy entries from the organisers — £400 plus VAT each — and give t
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-greenwich-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Route 3: Good For Age
 
 If you are fast, this is a far better bet than the ballot — and most people who would qualify never check.
@@ -164,8 +166,6 @@ Things that catch people out:
 Applications for the 2026 race opened on 2 October and closed at the end of the month, so expect a similar short October window.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-greenwich-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Route 4: Championship entry
 

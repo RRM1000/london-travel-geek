@@ -74,6 +74,8 @@ This is where set lunch stops being a discount and becomes a different propositi
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="restaurant-deals-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Reliable mid-range set lunches
 
 | Restaurant | Deal | When |
@@ -103,8 +105,6 @@ This is where set lunch stops being a discount and becomes a different propositi
 **Trishna in Marylebone** deserves its own line, because the pricing is tiered: one course £25 and two £35 **at weekday lunches only**, while three at £45 and four at £50 are also available in the early evening, 5–6.15pm.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="restaurant-deals-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Chains and mini-chains that do it properly
 

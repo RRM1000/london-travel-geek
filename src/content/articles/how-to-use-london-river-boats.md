@@ -199,8 +199,6 @@ Looking for evening entertainment on the water? The [River Bus Comedy Night](htt
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-london-river-boats-uber-boat-thames-clippers-ticket" data-gyg-partner-id="WWP7I0R" data-gyg-q="Uber Boat Thames Clippers ticket"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## 7 Common river boat mistakes to avoid
 
 1. **Assuming river fares count towards daily Tube caps:** River Bus fares are billed separately and do NOT count towards daily TfL capping limits.
@@ -212,6 +210,8 @@ Looking for evening entertainment on the water? The [River Bus Comedy Night](htt
 7. **Missing the last boat back from Greenwich:** Night sailings end earlier than Tube trains—check final pier departure times!
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-london-river-boats-uber-boat-thames-clippers-ticket" data-gyg-partner-id="WWP7I0R" data-gyg-q="Uber Boat Thames Clippers ticket"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Related London Transport Guides
 

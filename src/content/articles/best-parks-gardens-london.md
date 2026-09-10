@@ -276,6 +276,8 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-parks-gardens-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## All free, with a few exceptions
 
 **Almost every park in this guide is free and open every day**, which is the single best thing about London as a city to spend time in. Nearly half its surface area is green space, and it was designated the world's first National Park City in 2019.
@@ -298,8 +300,6 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 * **Deckchairs in the royal parks** are the one thing that catches people out — they are hired, not free, and the attendant will find you.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-parks-gardens-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

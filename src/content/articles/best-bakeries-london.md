@@ -389,8 +389,6 @@ A **fresh pasta counter** with the pasta made daily and sold by weight, plus a f
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-bakeries-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Best value
 
 Bakeries are one of the few areas where the best thing in the category is also nearly the cheapest.
@@ -401,6 +399,8 @@ Bakeries are one of the few areas where the best thing in the category is also n
 * **Chatsworth Bakehouse** — pizza by the slice and focaccia sandwiches, for lunch rather than breakfast.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-bakeries-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Planning a bakery morning
 

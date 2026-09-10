@@ -60,6 +60,8 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-london-buses-and-trams-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## How the Hopper Fare works
 
 The **Hopper fare** is TfL's automatic transfer discount system for buses and trams.
@@ -79,8 +81,6 @@ The **Hopper fare** is TfL's automatic transfer discount system for buses and tr
 | **Bus ➔ Bus** *(after 60 mins)* | £1.75 + £1.75 = **£3.50** |
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-london-buses-and-trams-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The Weekend Hopper trial has ended
 

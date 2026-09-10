@@ -198,8 +198,6 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 
 *Leake Street Arches. The whole tunnel is repainted every few days.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-area-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -226,8 +224,6 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 
 **By river.** Piers at the London Eye, Bankside and London Bridge City. See the [river boats guide](/articles/how-to-use-london-river-boats/).
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-area-guide-borough-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## How long to spend, and when to go
 
 | If you have | Do this |
@@ -239,6 +235,8 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 **Best time:** Late afternoon into sunset. The walk faces north across the river, so the light on St Paul's and the City in the evening is the best of the day.
 
 **For Borough Market:** Before midday, Tuesday to Friday. Saturday is the fullest market and the hardest to move through.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-area-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Walking routes
 
@@ -255,7 +253,7 @@ Our full route for this area: **eleven numbered stops** over about 3km and two t
 5. **Borough Market:** Inland at Southwark Cathedral for lunch.
 6. **Finish:** East past **HMS Belfast** to **Tower Bridge**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-area-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-area-guide-borough-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

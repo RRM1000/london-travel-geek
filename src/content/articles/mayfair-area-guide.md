@@ -148,8 +148,6 @@ The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terr
 
 *Two blue plaques, next door to each other. Handel lived at 25 Brook Street; Jimi Hendrix lived at 23, two centuries later. Photo: [HandelandHendrix](https://commons.wikimedia.org/w/index.php?curid=150507869), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -180,6 +178,8 @@ The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terr
 **Best time:** Weekday daytime. Many commercial galleries close at weekends entirely, and Mayfair is dead on a Sunday.
 
 **Note:** The Summer Exhibition runs roughly June to August and is the busiest the Royal Academy gets.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Suggested two-hour walking route
 

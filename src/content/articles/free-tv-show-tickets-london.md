@@ -66,6 +66,8 @@ The line-up turns over constantly, but the shape of it does not. In early Septem
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="free-tv-show-tickets-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The over-issue, and what it means for you
 
 This is the part that decides whether your evening works.
@@ -90,8 +92,6 @@ So the queue forms long before the stated check-in time, and the people at the f
 **If you do not get in**, the compensation is real but conditional: SRO rescan your ticket and issue **priority tickets to a future show of your choice**, subject to availability. You have to **leave your details at the event** to get that. Walking away in disgust forfeits it.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="free-tv-show-tickets-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What gets you turned away
 

@@ -58,6 +58,8 @@ Nobody plans a London trip around this until the moment they need one, and then 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="public-toilets-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Free, by area
 
 Pulled from the same database, filtered to active listings only. This isn't every free toilet in London — it's the ones worth knowing about.
@@ -118,8 +120,6 @@ Pulled from the same database, filtered to active listings only. This isn't ever
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="public-toilets-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The Community Toilet Scheme: free at pubs, cafes and libraries
 
 This is a real, named UK council scheme, not an informal courtesy. Camden's own wording: they pay participating businesses **up to £750 a year** to let the public use their toilet **"without the need to buy goods or services."** The City of London runs an identically-named scheme with its own interactive map. Southwark runs the same idea under a different name — asking businesses "to make their toilets available to all, without the need to be paying customers." Westminster and Islington don't use the "Community Toilet Scheme" name, but point residents to the same Great British Public Toilet Map and a "Toilets4London" app for the same effect.
@@ -172,6 +172,8 @@ Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman'
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="public-toilets-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What to know before you go
 
 * **Royal Parks toilets are card and contactless only.** Cash was phased out — if you're relying on one, make sure you have a card or phone wallet on you.
@@ -181,8 +183,6 @@ Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman'
 * **Accessible toilets often need a RADAR key**, not just a different door — worth carrying one if you'll need it more than once.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="public-toilets-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

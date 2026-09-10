@@ -190,8 +190,6 @@ West of the stations, between Euston Road and Camden, and a quiet residential po
 
 **The Library closes earlier than you would expect on Sundays**, and the Treasures gallery keeps its own hours separate from the building's — worth checking if it is the only reason you are going.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-harry-potter-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Harry Potter London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -208,6 +206,8 @@ West of the stations, between Euston Road and Camden, and a quiet residential po
 **By rail.** King's Cross for the East Coast Main Line. St Pancras for **Eurostar**, East Midlands and Thameslink. Thameslink runs direct to **Gatwick** and **Luton Airport Parkway** from St Pancras — see the [Gatwick guide](/articles/gatwick-airport-to-london/) and [Luton guide](/articles/luton-airport-to-london/).
 
 **Best exit.** Follow signs for **"King's Cross Square"** for the stations and Platform 9¾, or **"Granary Square"** for Coal Drops Yard and the canal.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-harry-potter-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Harry Potter London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How long to spend, and when to go
 

@@ -152,6 +152,8 @@ Our view: on five days, don't. Greenwich gives you the change of scene, the rive
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="five-days-in-london-itinerary-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes
 
 1. **Taking the DLR to Greenwich because it is faster.** The river is the experience. The DLR is the way back.
@@ -162,8 +164,6 @@ Our view: on five days, don't. Greenwich gives you the change of scene, the rive
 6. **Doing both museum districts.** Day 3 is one of them. The other keeps.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="five-days-in-london-itinerary-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

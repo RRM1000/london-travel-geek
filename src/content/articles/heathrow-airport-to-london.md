@@ -75,6 +75,8 @@ When arriving at London Heathrow (LHR), the fastest-looking train to Paddington 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 1. Elizabeth Line (Recommended for Most Visitors)
 
 The **Elizabeth line** (purple line) is the premier choice for most travelers arriving at Heathrow. Its long, spacious, air-conditioned trains feature dedicated luggage racks, free Wi-Fi, and 100% step-free access at all central stations.
@@ -84,8 +86,6 @@ The **Elizabeth line** (purple line) is the premier choice for most travelers ar
 * **Capping:** Elizabeth line journeys from Heathrow count towards TfL daily capping.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 2. Piccadilly Line (Best Budget Option)
 
@@ -138,6 +138,8 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-airport-transfer-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow airport transfer London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Arriving at Heathrow: SIM Cards & Wi-Fi
 
 * **Free Airport Wi-Fi:** Unlimited free Wi-Fi is available across all terminals under **_Heathrow Wi-Fi**.
@@ -145,8 +147,6 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 * **Smart Tip:** For a complete breakdown of airport SIM markups vs eSIM options, read our guide: [Should You Buy a SIM Card at the Airport?](/articles/should-you-buy-sim-card-at-airport/).
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-airport-transfer-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow airport transfer London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Related Heathrow & Transport Guides
 

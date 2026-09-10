@@ -193,6 +193,8 @@ The package is not a mark-up on the games, then; it is a bundle of a bed, a book
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The rules that actually decide the weekend
 
 * **Everyone taps their own card.** Twelve people cannot share one, and using a phone on one journey and a card on the next splits the capping. **Zones 1–2 cap at £8.90 a day**, buses and trams are **£1.75** with a **£5.25** cap, and the **Hopper fare** buys unlimited buses within 60 minutes for a single fare. Never buy a paper day Travelcard: the surcharge is £16.60 to £23.60. See the [transport costs guide](/articles/london-public-transport-costs-and-fares/) and the [Oyster card guide](/articles/oyster-card-guide-london/).
@@ -204,8 +206,6 @@ The package is not a mark-up on the games, then; it is a bundle of a bed, a book
 * **A stadium tour is not a group deal.** Wembley's own booking page offers group rates only for **parties of 25 or more**, so a stag of twelve pays the walk-up price like everyone else.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

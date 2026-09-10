@@ -120,8 +120,6 @@ What is at North Greenwich: **The O2**, one of the busiest arenas in the world, 
 
 *The southern rotunda of the Greenwich Foot Tunnel, beside the Cutty Sark. Since the refurbishment the lifts run 24 hours; the stairs are the fallback.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-cutty-sark-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Cutty Sark tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ### Maritime Greenwich
@@ -227,6 +225,8 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 **Best time:** Arrive by boat in the morning and walk up the hill before the coach parties. The hill view is best in afternoon light looking back towards the City.
 
 **Note:** The Observatory, Cutty Sark and Painted Hall are three separate tickets from two separate organisations. Royal Museums Greenwich sells a **day pass covering the Observatory and the Cutty Sark for £38 adult and £19 child**; the Painted Hall belongs to the Old Royal Naval College and is bought separately.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-cutty-sark-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Cutty Sark tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Walking routes
 

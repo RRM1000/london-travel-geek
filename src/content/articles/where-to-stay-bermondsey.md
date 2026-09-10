@@ -142,11 +142,11 @@ If the market and the arches are why you picked Bermondsey, the booking should s
 
 One good midweek fact: **the Sainsbury's on Bermondsey Square is open until midnight**, which is what makes a kitchen at Bermonds Locke useful rather than theoretical. And **The Arzner**, on the same square, is London's first LGBTQ+ cinema — a 50-seat screen with a cocktail bar attached, screening daily, the bar open to 11pm Sunday to Thursday and to midnight on Friday and Saturday.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What you are staying for
 
 Our [Bermondsey area guide](/articles/bermondsey-area-guide/) covers the market, the Beer Mile arches, White Cube and the Shad Thames warehouse canyon — what to do once you have a room. For the stretch immediately west, the [South Bank guide](/articles/south-bank-area-guide/) covers Borough Market, HMS Belfast and Tower Bridge, including the £3 benefits ticket for HMS Belfast that almost nobody mentions.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting in and out
 

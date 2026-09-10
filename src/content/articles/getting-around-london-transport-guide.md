@@ -80,6 +80,8 @@ Opened in 2022, the **Elizabeth line** (line color: purple) is London's newest r
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="getting-around-london-transport-guide-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## London Overground & DLR
 
 ### London Overground (Orange Network)
@@ -95,8 +97,6 @@ The **DLR** is an automated, driverless light-rail network serving East London, 
 * **Step-Free Access:** Every single DLR station features 100% step-free street-to-train access.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="getting-around-london-transport-guide-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## National Rail (Suburban Trains & Express Lines)
 

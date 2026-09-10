@@ -20,7 +20,11 @@
 // A guide that matches neither heading returns the body unchanged and empty
 // fragments elsewhere, so a future area guide that does not follow this
 // template degrades to "nothing moves" rather than a build error.
-const ROUTE_HEADING = /^##\s+Suggested\b.*\broute\b.*$/im;
+// "## Walking routes" is the same section on guides that link a full
+// walking-route article - the walking-route skill renames it to that - so it
+// has to match too. Until 10 September 2026 it did not, and on the eleven
+// guides renamed that way the route note sat mid-page instead of closing it.
+const ROUTE_HEADING = /^##\s+(?:Suggested\b.*\broute\b.*|Walking routes?\s*)$/im;
 const MISTAKES_HEADING = /^##\s+Common mistakes to avoid\s*$/im;
 const STAY_HEADING = /^##\s+Where to stay\s*$/im;
 const NEXT_H2 = /^##\s+/m;

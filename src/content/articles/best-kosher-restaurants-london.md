@@ -52,6 +52,8 @@ This guide is the registers, read together, plus what you need to know to use th
 
 **Kedassia's register is the significant gap.** Its site does not resolve at all, and it is the authority most used in Stamford Hill — which is why the published registers show only one certified establishment there, Tasti Pizza on Amhurst Park, while the neighbourhood plainly has more. If you are eating in Stamford Hill, ask locally rather than trusting any list, including this one.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-kosher-restaurants-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The distinctions that actually decide where you eat
 
 **Meat or dairy, and it applies to the whole kitchen.** This is the difference visitors most often miss. A certified restaurant is one or the other — a meat kitchen serves no dairy at all, a dairy kitchen no meat — and the register prints which in the venue's own name.
@@ -68,8 +70,6 @@ Same name, next door, two kitchens, because they cannot be one. **Novellino** do
 **Almost everything closes for Shabbat.** From Friday afternoon to Saturday night, and for festivals. Novellino's own site says it plainly: apart from the Jewish Sabbath and festivals, it is open every day. A Saturday plan will not work; a Friday lunch or a Sunday will.
 
 **Two things the registers guarantee that menus do not mention.** All KLBD dairy restaurants use Chalav Yisrael milk and all its meat restaurants are Glatt. The SKA says the same of its licensees and adds that all use Yashan grain. If those matter to you, they are settled by the certification rather than by asking.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-kosher-restaurants-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where they are
 

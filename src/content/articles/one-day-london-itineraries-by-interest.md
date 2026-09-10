@@ -139,6 +139,8 @@ Three major museums within *five minutes of each other*, all **free**.
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="one-day-london-itineraries-by-interest-london-in-one-day-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London in one day tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Food lovers
 
 *About 3 miles, and it lives or dies on market days.*
@@ -154,8 +156,6 @@ Three major museums within *five minutes of each other*, all **free**.
 > **Monday is the day to avoid.** Borough is shut, and it is the one market this plan is built on. **Sunday is the best day for it** — Borough trades until 4pm, and Brick Lane, Columbia Road and Spitalfields are all at full stretch at the same time.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="one-day-london-itineraries-by-interest-london-in-one-day-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London in one day tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Low-walking and step-free
 
@@ -279,6 +279,8 @@ Three major museums within *five minutes of each other*, all **free**.
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="one-day-london-itineraries-by-interest-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Film and TV locations
 
 *About 3 miles, and free apart from lunch.*
@@ -296,8 +298,6 @@ Three major museums within *five minutes of each other*, all **free**.
 **[The full filming locations guide →](/articles/london-filming-locations/)**
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="one-day-london-itineraries-by-interest-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What all thirteen have in common
 

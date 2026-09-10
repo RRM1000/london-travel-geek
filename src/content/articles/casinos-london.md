@@ -393,6 +393,8 @@ There is a bar doing cocktails and small bites, and a dining room for members an
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="casinos-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Closed, and worth saying so
 
 The section other guides leave out, and the reason people still turn up at dark doors on Curzon Street.
@@ -404,8 +406,6 @@ The section other guides leave out, and the reason people still turn up at dark 
 **Napoleons has no London venue**, despite frequently appearing in London casino lists — its own site covers Bradford, Hull, Leeds, Sheffield and Manchester only.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="casinos-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Play safely
 

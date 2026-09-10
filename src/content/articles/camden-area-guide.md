@@ -170,8 +170,6 @@ North-west across the railway, and a different world within ten minutes' walk �
 
 *Chalcot Crescent, Primrose Hill. The Browns' house in the Paddington films is on this curve — these are private homes, so photograph from the pavement.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-camden-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Camden Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -184,6 +182,8 @@ North-west across the railway, and a different world within ten minutes' walk �
 | **Namaaste Kitchen** | Indian grill | ££ | Parkway; a step up from the market food |
 | **The Lansdowne** | Gastropub | ££ | Primrose Hill; where locals go to escape the market |
 | **Chin Chin Labs** | Ice cream | £ | Liquid-nitrogen ice cream made in front of you |
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-camden-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Camden Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Canal boat trips from Camden
 
@@ -207,8 +207,6 @@ Five different operators run from Camden Lock, and they are genuinely different 
 
 > ⚠️ Timetables are seasonal and several of these run a reduced winter service or stop entirely. Check before travelling for a specific boat, and note that one-way tickets mean walking or taking the Tube back.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Getting there
 
 **By Tube.** **Camden Town** (Northern) is the obvious choice, but it is severely congested at weekends. For years it ran **exit-only on Sunday afternoons**; that was lifted in 2019, so you can board there again, but queues to enter still build badly. **Chalk Farm** one stop north is the better approach, and it puts you at the Stables Market end.
@@ -230,6 +228,8 @@ Five different operators run from Camden Lock, and they are genuinely different 
 **Best time:** Weekday mornings. Same markets, a fraction of the people.
 
 **Avoid:** Sunday afternoon, the single busiest period, when queues build just to get into Camden Town station.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Walking routes
 

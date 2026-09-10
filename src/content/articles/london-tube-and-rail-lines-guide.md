@@ -326,6 +326,8 @@ TfL is replacing the older fleet with spacious, walk-through B23 trains. The new
 
 *Canary Wharf DLR station. Photo: [It's No Game](https://commons.wikimedia.org/wiki/File:Canary_Wharf_DLR.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tube-and-rail-lines-guide-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## <span class="line-name line-name--overground"><span aria-hidden="true" class="line-name__swatch"></span>London Overground</span>
 
 London Overground is the orange network that circles and crosses inner and outer London. Its six routes now have individual names.
@@ -344,8 +346,6 @@ All London Overground trains are walk-through and air-conditioned. Several lines
 ![A London Overground Class 710 train at Liverpool Street station.](../../assets/articles/oyster-train-lines/london-overground-liverpool-street.jpg)
 
 *A Class 710 London Overground train at Liverpool Street. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:London_Overground_train_710113_at_Liverpool_Street.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tube-and-rail-lines-guide-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Best choices for comfort
 

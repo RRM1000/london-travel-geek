@@ -103,8 +103,6 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 **Entire dormitories can be booked out.** Leicester Place's rooms run from 3 to 100 capsules, so a group can take a small one and have it to themselves — the cheapest way for six or eight people to sleep together in the West End.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## What it costs
 
 Rates below are the cheapest and dearest we saw across five sampled dates: a quiet Sunday, a February midweek, an October Saturday, the second Saturday of December, and a Saturday in April.
@@ -123,6 +121,8 @@ Two things worth knowing about these numbers.
 **Capsules hold their price when hotels do not.** A Zedwell berth roughly doubled between the cheapest and dearest night we sampled; a windowless private room at the same address tripled. So a capsule saves you most in December and least on a quiet Sunday — which is the opposite of how people tend to think about budget accommodation.
 
 **The GreenHouse is the flattest price in London**, moving £11 across the whole year. That makes it dearer than Zone 1 in October and cheaper in December. Its Zone 2 address buys you nothing on a quiet night.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The five, and which to book
 

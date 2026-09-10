@@ -144,8 +144,6 @@ South-west of the station, and the best-value eating anywhere near Paddington. A
 
 *Paddington Basin, the canal's dead end, rebuilt in glass. The rolling and fan bridges here open on schedule. Photo: [trolvag](https://commons.wikimedia.org/w/index.php?curid=56959884), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paddington-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -169,6 +167,8 @@ South-west of the station, and the best-value eating anywhere near Paddington. A
 
 **Best exit.** Paddington is large and poorly signposted for visitors. Follow signs for **"Paddington Basin"** for the canal and modern waterfront, or leave via **Praed Street** for the hotels and Bayswater.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paddington-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## How long to spend, and when to go
 
 | If you have | Do this |
@@ -181,8 +181,6 @@ South-west of the station, and the best-value eating anywhere near Paddington. A
 
 **Note:** Waterbus services to Camden are much reduced outside summer. Check timetables before planning a trip around one.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paddington-area-guide-paddington-bear-london-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Paddington Bear London tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Common mistakes to avoid
 
 1. **Getting lost in the station.** Paddington is a large interchange with poorly marked exits. Know whether you want Praed Street or Paddington Basin before you leave the platform.
@@ -190,6 +188,8 @@ South-west of the station, and the best-value eating anywhere near Paddington. A
 3. **Paying walk-up Heathrow Express fares.** Advance tickets are dramatically cheaper, and the Elizabeth line is cheaper still.
 4. **Expecting Little Venice to be near the station.** It is a 10–12 minute walk north, or one stop on the Bakerloo line to Warwick Avenue.
 5. **Judging the area by Praed Street.** The canal quarter a few minutes north is a completely different place.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paddington-area-guide-paddington-bear-london-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Paddington Bear London tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

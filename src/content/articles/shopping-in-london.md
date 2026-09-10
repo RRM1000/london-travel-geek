@@ -253,6 +253,8 @@ Different proposition from the malls above: **last season's stock at a discount*
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shopping-in-london-bicester-village-shopping-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bicester Village shopping day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What things actually cost
 
 Rough, honest bands for planning:
@@ -268,8 +270,6 @@ Rough, honest bands for planning:
 **Sales:** the big ones are **late December to January** and **late June to July**. **Bicester Village** an hour out is the outlet option, and it is extremely busy at weekends.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shopping-in-london-bicester-village-shopping-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bicester Village shopping day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Practicalities
 

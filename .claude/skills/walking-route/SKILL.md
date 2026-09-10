@@ -172,7 +172,10 @@ has a section on the same stretch. **Two pages must not chase one phrase.**
 
 - **The area guide**: convert `## Suggested … walking route` into `## Walking
   routes`, with the full route linked as a lead paragraph and the old numbered list
-  demoted to `### The short version, if you only have N hours`.
+  demoted to `### The short version, if you only have N hours`. Use exactly that
+  heading: `src/lib/splitAreaGuideBody.ts` recognises it and moves the section,
+  with Common mistakes, below the generated sections as the page's closing note.
+  Any other wording strands it mid-page.
 - **A themed page whose heading is the exact-match phrase**: either keep the
   heading and compress the body to a summary plus a prominent handoff (the canal
   page), or rename the heading and move the exact phrase into the anchor text

@@ -183,8 +183,6 @@ None of the published London lists groups these together, which is why the patte
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-barbecue-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## What is not here, and why
 
 **Korean, Turkish and Japanese barbecue have their own guides.** Removing Korean tabletop grilling, Turkish ocakbaşı and Japanese yakiniku costs each published London list only one to three names out of twelve to nineteen, which is what makes this guide worth writing separately rather than as a section of a bigger one. For those, see our [Korean](/articles/best-korean-restaurants-london/) and [Turkish](/articles/best-turkish-restaurants-london/) guides.

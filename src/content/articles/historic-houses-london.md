@@ -109,6 +109,8 @@ Outside, 112 acres of Humphry Repton landscape running into Hampstead Heath, wit
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-hampton-court-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Palaces
 
 ### Hampton Court Palace
@@ -173,8 +175,6 @@ Some of the palace is behind hoardings during the reservicing works — **the Wh
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-hampton-court-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Greenwich
 
 ### The Painted Hall, Old Royal Naval College
@@ -212,6 +212,8 @@ Also free to walk to: the remains of Greenwich Palace, where Henry VIII, Mary I 
 *Wren's colonnades at the Old Royal Naval College. The grounds are free and open until 11pm.*
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Churches
 
@@ -283,8 +285,6 @@ Inside: the **Thomas Arne memorial carved with the opening bars of "Rule Britann
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Still in use
 
 ### Royal Hospital Chelsea
@@ -323,6 +323,8 @@ Every English monarch since 1066 has been crowned here, and more than three thou
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What they cost, and which are free
 
 Historic houses are the one category where London does not give everything away — but several of the best are still free, and most of the ticketed ones have a way in that is cheaper than the headline price.
@@ -351,8 +353,6 @@ Historic houses are the one category where London does not give everything away 
 **Worth knowing:** several are **seasonal**, closing entirely over winter or opening only a few days a week. Strawberry Hill and Ham House in particular are not year-round propositions, so check before travelling.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

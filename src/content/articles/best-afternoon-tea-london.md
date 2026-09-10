@@ -420,8 +420,6 @@ The most reliable value in London afternoon tea, and the rooms are the reason to
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Afternoon tea that moves
 
 Two of them go somewhere while you eat. Both are genuinely cheaper than the grand hotels, both take ninety minutes, and both are a sightseeing trip you happen to be eating on — which is either the appeal or the objection, depending on what you came for.
@@ -457,6 +455,8 @@ Vegetarian, vegan or gluten-free are all available, **but not vegan and gluten-f
 Neither will beat The Ritz or Claridge's on the tea itself. Both beat them comfortably on price, and both are far easier to book.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

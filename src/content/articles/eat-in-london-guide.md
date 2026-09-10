@@ -84,6 +84,8 @@ Still to write: a dedicated **rooftop and riverside dining** guide that treats t
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-in-london-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Restaurants by Cuisine
 
 These guides compare restaurants within specific cuisines to highlight distinct choices based on budget, regional cooking, and location:
@@ -118,8 +120,6 @@ Every one of these is ranked by how many independent awards, critics and reviewe
 * [**Vegetarian and Vegan**](/articles/best-vegetarian-vegan-restaurants-london/) — Fully plant-based kitchens and the vegetarian menus worth crossing London for.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-in-london-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Markets, Food Halls and Street Food
 

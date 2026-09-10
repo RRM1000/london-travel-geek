@@ -164,8 +164,6 @@ Two short residential streets that appear constantly on social media — **St Lu
 
 > ⚠️ **These are people's homes, and the residents have had enough.** Both streets are permanently busy with photographers, some of whom sit on doorsteps and block the pavement. Look, take a picture from the road, and keep the noise down — several London mews have started putting up signs about exactly this.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-area-guide-portobello-market-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -204,6 +202,8 @@ Two short residential streets that appear constantly on social media — **St Lu
 **Best time:** Before 10am. Portobello Road on a Saturday afternoon is shoulder-to-shoulder from the Westway southwards, and the arcades become difficult to browse properly.
 
 **Avoid:** Sunday, when the market does not run and much of the road is shut. Also the August bank holiday weekend unless you are specifically coming for Carnival.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-area-guide-portobello-market-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Walking routes
 

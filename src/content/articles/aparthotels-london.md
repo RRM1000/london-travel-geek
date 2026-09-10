@@ -45,8 +45,6 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 **The second trade is the layout.** A great many London aparthotels are **studios** — one room with a bed, a sofa and a kitchen along the wall. That is comfortable for one or two and cramped for four, and the booking pages are not always clear which you are getting. Separate bedrooms exist, but they are the expensive end.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="aparthotels-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## What the six operators actually differ on
 
 | Operator | London sites | Format | The distinguishing thing |
@@ -76,7 +74,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 **Genuinely outer, and genuinely cheaper.** Staycity Deptford Bridge is on the DLR one stop from Greenwich. [Native Fulham Broadway](hotel:native-fulham-broadway) is Zone 2 on the District line, ten minutes from Stamford Bridge. Templeton Place sits on an Earl's Court garden square where the District and Piccadilly both stop — Heathrow without a change, South Kensington in four minutes, and the cheapest Supercity address in London.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="aparthotels-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="aparthotels-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## When it is worth it, and when it is not
 

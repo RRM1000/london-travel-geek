@@ -249,8 +249,6 @@ What the pass adds at London's free museums is a **British Museum audio tour (£
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-pass-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The "37 exclusive experiences", examined
 
 The All-Inclusive pass carries 113 attractions against the Explorer's 76. The difference — the 37 "exclusive experiences" that justify paying £30 to £120 more — breaks down like this:
@@ -264,6 +262,8 @@ The All-Inclusive pass carries 113 attractions against the Explorer's 76. The di
 **That leaves exactly one major London landmark: the State Rooms at Buckingham Palace.** And the State Rooms open **9 July to 27 September** — eleven weeks a year. For nine and a half months, the thing that most distinguishes the expensive pass from the cheap one is shut.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-pass-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What is missing
 
@@ -361,8 +361,6 @@ The 90-day window is the other half of the case, and it is where this beats The 
 The baseline, and for most readers the answer. Book in advance, on the attraction's own site, and you get the advance price rather than the walk-up price — which is where the real saving in London sightseeing lives. On the London Eye that gap is **£10 an adult**; on Madame Tussauds it is **£15.37**.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-pass-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## So who should buy it?
 

@@ -189,9 +189,8 @@ Two different things get muddled here, and the difference decides whether you ca
 > **We have deliberately not listed stations**, because the list changes every few weeks and a stale one is worse than none. [TfL's connectivity page](https://tfl.gov.uk/travel-information/improvements-and-projects/improving-digital-connectivity-on-our-network) is the live version — check it if signal matters for a specific journey.
 
 **If being reachable underground genuinely matters** — you are working, or meeting someone off a train — route the journey on the Elizabeth line where you can. It is the only line where that is a safe assumption today.
----
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-the-london-underground-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+---
 
 ## 7 Common Tube mistakes to avoid
 
@@ -204,6 +203,8 @@ Two different things get muddled here, and the difference decides whether you ca
 7. **Not checking lift status:** If traveling with heavy bags or a wheelchair, verify lift operating status on the TfL Go app beforehand.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-the-london-underground-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Related London Transport Guides
 

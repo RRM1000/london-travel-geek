@@ -170,6 +170,8 @@ Reedbed, lagoon and marsh in a loop of the Thames at Barnes, made out of four di
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-with-children-sea-life-london-aquarium-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="SEA LIFE London Aquarium tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Rides and running about
 
 ### Babylon Park, Camden
@@ -208,7 +210,7 @@ A guided walkthrough on the South Bank with live actors, built sets and a 4D fly
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-with-children-sea-life-london-aquarium-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="SEA LIFE London Aquarium tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-with-children-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The big attractions, and whether they are worth it with children
 
@@ -273,8 +275,6 @@ Expensive, always busy, and entirely about whether your child wants a photograph
 * **Museums are quietest in the last two hours** before closing.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-with-children-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The one pass that is genuinely aimed at families
 

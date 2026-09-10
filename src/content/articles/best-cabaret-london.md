@@ -498,8 +498,6 @@ The show has returned to its home in the Hippodrome's own theatre, and performan
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cabaret-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Closed — and worth saying so
 
 This is the section other guides leave out, and it is why people turn up at locked doors.
@@ -530,6 +528,8 @@ This is the section other guides leave out, and it is why people turn up at lock
 * **NoFit State Circus** — the best contemporary circus in Britain, and **no London dates are published at all.** They bring their own big top when they come; there is currently nothing to book.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cabaret-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

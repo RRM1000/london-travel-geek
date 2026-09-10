@@ -229,6 +229,8 @@ People still search for all of these.
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bonfire-night-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Practicalities
 
 **Dress for standing still in the cold.** London's November average is about **11°C by day and 5°C overnight**, so an evening on an exposed hilltop sits somewhere between the two — and the clear, calm nights that make for the best viewing are the coldest ones. November is also one of the wetter months in the south east, and no café is open on Parliament Hill at 8pm. Hat, gloves and a flask.
@@ -236,8 +238,6 @@ People still search for all of these.
 **Fireworks are banned in the Royal Parks and on Hampstead Heath**, and the rules are enforced by the police. Setting off your own is legal elsewhere until **midnight on Bonfire Night**, and 11pm on other nights.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bonfire-night-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Why we do this at all
 

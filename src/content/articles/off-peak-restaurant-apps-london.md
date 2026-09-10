@@ -83,6 +83,8 @@ Diners rate it very differently depending where you look: **4.9 out of 5 from 8,
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="off-peak-restaurant-apps-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## EatClub
 
 **Free app. 25–40% off the total bill, drinks included. 1,069 London venues.**
@@ -110,8 +112,6 @@ The second is the **Yums** loyalty scheme, where the arithmetic is worth doing. 
 **Verdict: take the percentage offers, ignore the points.** Ten meals for £20 is a rounding error.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="off-peak-restaurant-apps-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Too Good To Go
 
@@ -187,6 +187,8 @@ Worth knowing too: **the same table is often sold through several apps at once.*
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="off-peak-restaurant-apps-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The catches worth knowing
 
 - **Service charge is calculated before the discount** on both First Table and EatClub — about £5 you did not expect on a £110 bill.
@@ -197,8 +199,6 @@ Worth knowing too: **the same table is often sold through several apps at once.*
 - **Saturday is the hard day**, not Friday — only four of ten Soho restaurants had First Table slots on Saturday 12 September.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="off-peak-restaurant-apps-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

@@ -163,8 +163,6 @@ Because there are others, and they are the reason this section is not just one s
 
 If you are chasing blossom rather than houses, the [parks and gardens guide](/articles/best-parks-gardens-london/) covers where else in London to find it, with room to stand.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Getting there and when to go
 
 **Start at Notting Hill Gate** (Central, District and Circle lines) and finish at **Ladbroke Grove** (Circle and Hammersmith & City). Walking it the other way works equally well but ends with the quietest streets, which is an anticlimax.
@@ -174,6 +172,8 @@ If you are chasing blossom rather than houses, the [parks and gardens guide](/ar
 **On light**, this route was walked on a clear early September afternoon and the frontages on the Hillgate streets and Lancaster Road were lit from about two o'clock onwards. In midwinter, when the sun stays low, the narrow streets are in shade for much of the day.
 
 The whole route is free, outdoors and step-free on pavements throughout.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to do with the rest of the day
 

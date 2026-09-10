@@ -62,6 +62,8 @@ London Stansted (STN) is London's primary hub for low-cost airlines like Ryanair
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stansted-airport-to-london-stansted-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stansted Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Detailed Transport Breakdown
 
 ### 1. Stansted Express Train
@@ -76,8 +78,6 @@ London Stansted (STN) is London's primary hub for low-cost airlines like Ryanair
 * **Advantage:** Great for late-night flight arrivals when trains are suspended overnight.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stansted-airport-to-london-stansted-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stansted Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Single Terminal Layout & Flight Times
 

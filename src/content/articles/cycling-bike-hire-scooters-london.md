@@ -79,6 +79,8 @@ The docking stations thin out considerably beyond Zone 1, which is the scheme's 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london-london-bike-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London bike tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Forest and Lime: dockless e-bikes
 
 App-unlocked e-bikes left on the street rather than in docks. They reach much further out than Santander Cycles, and you end the ride wherever you finish.
@@ -96,8 +98,6 @@ App-unlocked e-bikes left on the street rather than in docks. They reach much fu
 Never leave a bike blocking a doorway, a driveway, a shopfront or a dropped kerb — that is what caused the crackdown.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london-london-bike-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London bike tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## E-scooters: the law, properly explained
 
@@ -155,6 +155,8 @@ Central London traffic is not the whole picture. These are traffic-free or near 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What to know
 
 * **Contactless works for Santander Cycles at the terminal**, so you can hire without downloading anything.
@@ -165,8 +167,6 @@ Central London traffic is not the whole picture. These are traffic-free or near 
 * **If you only want the views**, the river bus is a better ride than a bike. See [how to use London's river boats](/articles/how-to-use-london-river-boats/).
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

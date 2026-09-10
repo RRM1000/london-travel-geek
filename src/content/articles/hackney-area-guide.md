@@ -133,8 +133,6 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 
 **Free and always open.** Come on a Sunday morning for the football, or any weekday if what you want is space and nobody in it.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-east-london-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="East London street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Go deeper
 
 - **[The best canal walks in London](/articles/best-canal-walks-london/)** — the Regent's Canal through Hackney and Victoria Park, and where to join it.
@@ -160,6 +158,8 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 **By canal.** The Regent's Canal towpath runs west to King's Cross in about 35 minutes and east to the Olympic Park in 20. Flat and traffic-free.
 
 **By bus.** The 55 and 388 run from central London and are useful in the evening when the Overground thins out.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-east-london-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="East London street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How long to spend, and when to go
 

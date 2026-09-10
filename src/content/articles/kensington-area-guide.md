@@ -148,8 +148,6 @@ The stucco terraces and private garden squares between the two parks — among t
 
 Walk it as a link between the two parks rather than as a destination.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Go deeper
 
 - **[London's historic houses](/articles/historic-houses-london/)** — Kensington Palace and Leighton House, the second of which almost nobody visits.
@@ -187,6 +185,8 @@ Walk it as a link between the two parks rather than as a destination.
 **Best time:** First thing. The Kyoto Garden is small and gets busy from mid-morning, and the peacocks are most active early.
 
 **Seasonal:** The Serpentine Pavilion runs June to October. Opera Holland Park runs June to August. The Sunken Garden is at its best in late spring.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Suggested half-day route
 

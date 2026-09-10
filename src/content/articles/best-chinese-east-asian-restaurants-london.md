@@ -212,6 +212,8 @@ The **roast duck** is the order, on rice or on its own; roast pork and char siu 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Dim sum
 
 Dim sum is Chinese, so it belongs on this page — but it has enough rooms in London to need its own, and [**The Best Dim Sum in London**](/articles/best-dim-sum-london/) compares 15 of them properly, with the trolley rooms and the booking-required ones separated out.
@@ -219,8 +221,6 @@ Dim sum is Chinese, so it belongs on this page — but it has enough rooms in Lo
 The short version: **A. Wong** in Victoria is the two-starred lunch and the most-cited dim sum in the city; **Royal China** in Marylebone and **Yauatcha** in Soho are the reliable mid-range rooms; **Dumplings' Legend** and **Joy King Lau** are the Chinatown standbys; and **Pearl Liang** near Paddington is the one that is worth the odd location.
 
 ---
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The Chinatown institutions
 
 ### Wong Kei, Chinatown
@@ -293,6 +293,8 @@ Chinese food is where London's cheap eating is strongest, and almost none of it 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Also named, with less behind them
 
 Everything else the Chinese sources carry by two or more independent publications.
@@ -314,8 +316,6 @@ Everything else the Chinese sources carry by two or more independent publication
 | **Pochawa Grill** | Chinatown | £££ | 2 | Korean barbecue on the Chinatown grid |
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

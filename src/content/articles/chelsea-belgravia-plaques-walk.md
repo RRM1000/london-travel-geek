@@ -102,13 +102,13 @@ It is the one green stop on the route and it is genuinely a garden rather than a
 
 > ⚠️ **Open Sunday to Friday, 11am to 5pm, last entry 4pm — closed all day Saturday**, which catches people who assumed a garden opens at weekends. £15 adult, £6.50 for ages 5–25, under-5s free.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-belgravia-plaques-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 4. George Eliot on Cheyne Walk
 
 Number 4, and the inscription is the interesting part: **"George Eliot 1819–1880 novelist died here."**
 
 She moved in with her new husband in December 1880 and was dead within three weeks. Most plaques say *lived here*; the handful that say *died here* are doing something different, and this is the sharpest example on the walk.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-belgravia-plaques-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. Tite Street: Oscar Wilde and Peter Warlock
 

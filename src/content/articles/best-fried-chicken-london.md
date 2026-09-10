@@ -193,8 +193,6 @@ Family-owned, and the local reference point. The chicken is **double-fried** for
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-fried-chicken-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## By tradition, because they are not the same food
 
 The word covers at least six different things in London, and a reader who wants Nashville heat will not be satisfied by a Taiwanese popcorn cup.
@@ -212,6 +210,8 @@ The word covers at least six different things in London, and a reader who wants 
 **Levantine and Malaysian.** **The Best Broasted** in Willesden Green does Syrian broasted chicken with toum, pickles and chips. **Normah's** in Queensway Market does lightly spiced Malaysian wings — **and releases bookings in monthly batches**, so it needs planning that nothing else here does.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-fried-chicken-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

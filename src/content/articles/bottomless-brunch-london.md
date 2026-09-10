@@ -91,8 +91,6 @@ Sorted by price. The per-minute column is simply the price divided by the drinki
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bottomless-brunch-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The best bottomless brunches in London
 
 **Big Easy** is the clearest value in the city and it is not close. The weekend Boozy Brunch is £35.50 for **unlimited** home-smoked barbecue — ribs, chicken, pulled pork, cornbread, beans and slaw — with one drink included, and £5 to £6 more upgrades that drink to unlimited Prosecco, beer, frozen mojito or wine for two hours. Nothing else on this page gives you unlimited food and unlimited drink for the same money. It runs Saturday, Sunday **and Monday** until 4pm, with a maximum table of twelve and a last seating at 3.45pm. Two honest caveats: you pick one drink and stay with it, no mixing, and drinks orders stop fifteen minutes before your two hours are up. Canary Wharf, Covent Garden and Chelsea.
@@ -112,6 +110,8 @@ Sorted by price. The per-minute column is simply the price divided by the drinki
 **Flight Club** deserves a place here for the opposite reason. £33 for two hours across Bloomsbury, Islington, Shoreditch and Victoria, with bottomless sharing pizza and an hour of darts, is a good afternoon. But **the drinks are not bottomless at all**: each guest picks a bottle of Prosecco, four bottles of beer, a bottle of 0% Prosecco or four 0% beers. It is a fixed allocation. If that is what you want it is well priced; if you booked expecting free-flowing drinks it is not.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bottomless-brunch-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Cheap bottomless brunches, under £35
 

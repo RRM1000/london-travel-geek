@@ -56,6 +56,8 @@ It runs east from the station, turns north beneath Exhibition Road and comes out
 
 **One caution, and it is a big one.** The tunnel is step-free at the museum end and the station above it is not. South Kensington has no lifts to its platforms at all, so arriving here with a heavy case or a pram means stairs. Stay within walking distance and you simply never use the station for the museums — which is, in the end, the strongest argument for sleeping in SW7 rather than commuting in.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to stay
 
 ### The Ampersand Hotel — the one that leans into the museums
@@ -108,8 +110,6 @@ A Victorian townhouse at the top of Queen's Gate with its cornicing and fireplac
 
 By Astor's own reckoning the Natural History Museum is ten minutes' walk and the V&A eleven. You approach from Queen's Gate, so the museum's **West Entrance — step-free, with a ramp** — is the one to head for. **No lift, and townhouse stairs with a case.**
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The evening problem, and the two nights it does not apply
 
 This is the honest reason South Kensington suits families and museum trips and suits almost nobody else. **The Natural History Museum closes at 17.50 with last entry at 17.30. The Science Museum closes at 18.00, last entry 17.15, and starts closing galleries half an hour before that. The V&A closes at 17.45.** By half past six the pavements belong to people walking dogs.
@@ -122,6 +122,8 @@ There are exactly two standing exceptions, and both are free:
 
 Beyond those, the answer is to walk. Sloane Square and the King's Road are one stop east on the District and Circle lines, and the Old Brompton Road heading south-west has the everyday restaurants and pubs that the museum end does not. **Budget twenty minutes each way to eat properly**, and treat any hotel restaurant here as a genuine convenience rather than a compromise.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Breakfast, and the ten o'clock start
 
 Everything in South Kensington opens at 10.00. All three museums, without exception. That single fact should change how you book, because **an early hotel breakfast buys you nothing at all** — there is nowhere to be until mid-morning.
@@ -129,8 +131,6 @@ Everything in South Kensington opens at 10.00. All three museums, without except
 What that means in practice: pay for breakfast only where it is good or included, and use the extra hour. Astor Hyde Park puts it in the rate. The Ampersand, The Exhibitionist and Cheval all charge extra. Nell Gwynn House does not serve any, which is fine because it has a kitchen.
 
 The better move is the local one — the streets around Bute Street are the centre of French London and the bakeries there are open long before the museums are. Our [South Kensington area guide](/articles/south-kensington-area-guide/) covers where to eat and what to see once you are through the doors.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay just outside — for the money, or for an evening
 
@@ -168,13 +168,13 @@ Notting Hill is not a South Kensington substitute. It is twenty-five minutes on 
 
 Take this if the museums are one day of a longer trip. Do not take it if they are the trip — you will walk that route twice a day and resent it by Wednesday.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What you are staying for
 
 The three museums are all free and none of them needs a ticket bought in advance, though the Natural History Museum's free timed entry is worth booking because standby queues at weekends are long. Our [best museums in London](/articles/best-museums-london/) guide covers which halls in each are worth your time, and the [Kensington area guide](/articles/kensington-area-guide/) picks up the ground north of here — Kensington Palace, Holland Park and Kensington High Street — if you are staying more than two days.
 
 For the other two ways of doing London on a budget from this side of town, our [aparthotels guide](/articles/aparthotels-london/) compares the kitchens-and-washing-machine option properly, and the [windowless rooms guide](/articles/windowless-hotel-rooms-london/) explains what you are actually buying at Zedwell.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting in and out
 

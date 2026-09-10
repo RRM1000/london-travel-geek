@@ -128,8 +128,6 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 
 *The Almeida. Three hundred and twenty-five seats, and a habit of sending its productions to the West End. Photo: [Photo: Andreas Praefcke](https://commons.wikimedia.org/w/index.php?curid=15582698), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -167,6 +165,8 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 
 **Book ahead:** The Almeida, Sadler's Wells and Union Chapel gigs all sell out regularly.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Suggested route
 
 1. **Start:** Angel station. North to **Camden Passage** for the antique arcades.
@@ -176,6 +176,8 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 5. **Highbury Corner:** North to **Highbury Fields** and the **Union Chapel**.
 6. **Finish:** Dinner on Upper Street, or the Overground east to Hackney.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-sadler-s-wells-dance-show" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sadler's Wells dance show"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Confusing Camden Passage with Camden Market.** Different places, two miles apart.
@@ -184,8 +186,6 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 4. **Treating Islington as a daytime sightseeing stop.** There is nothing to see. Come for the evening.
 5. **Not booking the Almeida.** 325 seats and a national reputation — it sells out.
 6. **Walking the whole of Upper Street.** It is a mile. The interesting half is the southern end.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-sadler-s-wells-dance-show" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sadler's Wells dance show"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

@@ -199,8 +199,6 @@ The theatre spine of Covent Garden, and several of the West End's biggest houses
 
 For a drink between the theatres, **Bar Cicoria's terrace** is free to walk into and overlooks the whole Piazza.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-covent-garden-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Covent Garden walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -231,6 +229,8 @@ For a drink between the theatres, **Bar Cicoria's terrace** is free to walk into
 **Best time:** Weekday mornings before 11am for the market halls without the crush. Performers start around 10am and run until early evening.
 
 **Avoid:** Saturday afternoons, when the Piazza is at its worst. Matinee days (usually Wednesday and Saturday) also put heavy pressure on restaurants from midday.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-covent-garden-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Covent Garden walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Walking routes
 

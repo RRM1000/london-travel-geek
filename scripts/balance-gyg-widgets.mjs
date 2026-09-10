@@ -1,8 +1,13 @@
 // Decides how many GetYourGuide widgets a post should carry, and spreads them.
 //
-//   node scripts/balance-gyg-widgets.mjs --dry     what it would change
-//   node scripts/balance-gyg-widgets.mjs           apply
-//   node scripts/balance-gyg-widgets.mjs --report  current spacing, change nothing
+//   node scripts/balance-gyg-widgets.mjs --dry          what it would change
+//   node scripts/balance-gyg-widgets.mjs                apply
+//   node scripts/balance-gyg-widgets.mjs --report       current spacing, change nothing
+//   node scripts/balance-gyg-widgets.mjs --only=a,b     just these posts, by slug
+//
+// Run it after `npm run build`. Positions are read off the built pages in
+// dist/, and a post with no build to read falls back to its markdown - see
+// WHERE.
 //
 // WHY THIS REPLACES add-gyg-widgets.mjs
 // That script appended. If a post already had a widget above its closing
@@ -33,25 +38,44 @@
 // rather than on a search that quietly returns an airport lounge.
 //
 // WHERE
-// Targets are spread across the body, and two hard rules apply: nothing in
+// Targets are spread across the page, and two hard rules apply: nothing in
 // the first 25%, where the reader is still deciding whether to trust the page,
-// and never two within 12% of each other. Where a post's headings are bunched
-// too tightly to honour both, it gets fewer widgets rather than crowded ones.
+// and never two within 12% of each other - counting the hand-placed
+// availability widgets, which this script never moves, as well as its own.
+// Where the usable headings are bunched too tightly to honour both, a post
+// gets fewer widgets rather than crowded ones.
+//
+// "The page" is the page as served, measured in words read off the build in
+// dist/ (scripts/lib/rendered-geometry.mjs). Until 10 September 2026 it was
+// the markdown, which is not the page wherever the layout adds to it. An area
+// guide renders a map, what's on, things to do, hidden London and its hotel
+// list after the markdown, and moves its closing sections below all of that:
+// spread evenly through the markdown, the Shoreditch guide's three widgets
+// landed at 32%, 35% and 39% of the page with 4,000 words of nothing after
+// them, and fifteen posts broke one rule or both the same way. A post with no
+// build to read - a draft - still falls back to its markdown position, and the
+// output says so.
 //
 // Every widget lands on the blank line before a top-level heading. A widget
 // dropped inside a table or a blockquote breaks the page, and headings are the
 // only reliably safe boundary.
 import fs from "node:fs";
+import { readGeometry, slotPositions } from "./lib/rendered-geometry.mjs";
 
 const DIR = "src/content/articles";
 const dry = process.argv.includes("--dry");
 const reportOnly = process.argv.includes("--report");
+const only = new Set(
+  (process.argv.find((a) => a.startsWith("--only="))?.slice(7) ?? "")
+    .split(",")
+    .filter(Boolean),
+);
 const PARTNER = "WWP7I0R";
 
 const wantCount = (words) =>
   words < 1500 ? 1 : words < 3500 ? 2 : words < 6000 ? 3 : 4;
 
-// Spread targets, as a fraction of the body.
+// Spread targets, as a fraction of the page.
 const targets = (n) =>
   n === 1 ? [0.55]
   : n === 2 ? [0.42, 0.90]
@@ -129,6 +153,7 @@ const rows = [];
 
 for (const file of fs.readdirSync(DIR).filter((f) => f.endsWith(".md"))) {
   const slug = file.replace(/\.md$/, "");
+  if (only.size && !only.has(slug)) continue;
   const path = `${DIR}/${file}`;
   const raw = fs.readFileSync(path, "utf8");
   const eol = raw.includes("\r\n") ? "\r\n" : "\n";
@@ -173,35 +198,66 @@ for (const file of fs.readdirSync(DIR).filter((f) => f.endsWith(".md"))) {
   if (heads.length < 2) { rows.push(`  SKIP ${slug} — too few headings`); continue; }
 
   const body = lines.length - fmEnd;
-  const pctOf = (i) => (i - fmEnd) / body;
+
+  // Where a widget on the line before each heading would sit, as a fraction of
+  // the page: read off the build when there is one, otherwise the heading's
+  // place in the markdown - which is still right for a page the layout adds
+  // nothing to. Every heading after the first has to be found on the built
+  // page; one missing means the build predates an edit, and a half-measured
+  // page is worse than an unmeasured one.
+  const geometry = readGeometry(`dist/articles/${slug}/index.html`);
+  const slots = geometry &&
+    slotPositions(heads.map((h) => lines[h].replace(/^## /, "")), geometry);
+  const measured = !!slots && slots.slice(1).every((s) => s !== null);
+  const pctOf = measured
+    ? (h) => slots[heads.indexOf(h)] / geometry.total
+    : (h) => (h - fmEnd) / body;
+
+  // Widgets this script does not own still count for spacing. An availability
+  // widget sits beside the paragraph that sells its product, and an activities
+  // widget dropped next to it is the same stack arrived at another way.
+  const fixed = measured
+    ? geometry.widgets
+        .filter((w) => w.kind !== "activities")
+        .map((w) => w.at / geometry.total)
+    : lines.flatMap((l, i) =>
+        i > fmEnd && l.includes("data-gyg-widget=") && !isWidget(l)
+          ? [(i - fmEnd) / body]
+          : []);
 
   // Two constraints beyond "nearest to target". Nothing above 25%, because the
   // opening of a guide is where it earns trust and is the wrong place to sell.
-  // And nothing within 12% of a widget already placed — that gap is the whole
+  // And nothing within 12% of a widget already there — that gap is the whole
   // reason this script exists.
   const MIN_PCT = 0.25;
   const MIN_GAP = 0.12;
 
   const chosen = [];
   for (const t of targets(want)) {
-    const ideal = fmEnd + body * t;
-    const free = heads.filter((h) =>
-      !chosen.includes(h) &&
-      pctOf(h) >= MIN_PCT &&
-      chosen.every((c) => Math.abs(pctOf(h) - pctOf(c)) >= MIN_GAP));
+    const free = heads.filter((h) => {
+      const p = pctOf(h);
+      return p !== null && !Number.isNaN(p) &&
+        !chosen.includes(h) &&
+        p >= MIN_PCT &&
+        chosen.every((c) => Math.abs(p - pctOf(c)) >= MIN_GAP) &&
+        fixed.every((f) => Math.abs(p - f) >= MIN_GAP);
+    });
     // If the gap rule leaves nothing, stop. A post with headings bunched at
     // the end gets three well-spread widgets rather than four with two of them
     // touching — crowding is the fault this script was written to fix.
     if (!free.length) break;
     chosen.push(free.reduce((b, h) =>
-      Math.abs(h - ideal) < Math.abs(b - ideal) ? h : b, free[0]));
+      Math.abs(pctOf(h) - t) < Math.abs(pctOf(b) - t) ? h : b, free[0]));
   }
   chosen.sort((a, b) => a - b);
   // A page with too few usable headings gets fewer widgets, not crowded ones.
   while (plan.length > chosen.length) plan.pop();
 
   const before = existing.length;
-  const pcts = chosen.map((c) => Math.round(((c - fmEnd) / body) * 100));
+  const pcts = chosen.map((c) => Math.round(pctOf(c) * 100));
+  if (!measured) {
+    rows.push(`  NOTE ${slug} — ${geometry ? "built page does not match the markdown, rebuild" : "no build in dist/"}; placed by markdown position`);
+  }
 
   if (!reportOnly) {
     // Insert bottom-up so earlier indices stay valid.

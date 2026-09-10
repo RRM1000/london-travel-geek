@@ -89,6 +89,8 @@ More in our [King's Cross guide](/articles/kings-cross-area-guide/) and [hidden 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-canal-walks-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## King's Cross to Angel, and the tunnel problem
 
 *About 1 mile · 25 minutes · then a detour*
@@ -100,8 +102,6 @@ A short, pleasant stretch past **Battlebridge Basin** — where the London Canal
 > **Walkers go over the top.** The pavements above are waymarked so the two halves of the towpath connect. It is about fifteen minutes through Islington's back streets, and you rejoin at the east portal near City Road Lock.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-canal-walks-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Angel to Victoria Park
 

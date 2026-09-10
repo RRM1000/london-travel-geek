@@ -420,6 +420,8 @@ The split most guides blur. A 1970s Tooting curry house and a Mayfair tasting me
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-indian-restaurants-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Worth knowing, briefly
 
 Restaurants the sources back that did not earn a full entry, either because only one or two guides name them or because they sit further out.
@@ -446,8 +448,6 @@ Restaurants the sources back that did not earn a full entry, either because only
 [See all 50 Indian restaurants →](/restaurants/cuisine/indian) · [See all 6 Pakistani restaurants →](/restaurants/cuisine/pakistani)
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-indian-restaurants-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Booking and dietary essentials
 

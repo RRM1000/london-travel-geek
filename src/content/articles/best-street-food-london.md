@@ -108,6 +108,8 @@ London's street food is not one thing, and the difference that actually decides 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-street-food-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Covered food halls
 
 Trade most days, seat everybody, work in the rain. If you are travelling with people who want different things and nobody wants to make a decision, this is the format.
@@ -202,7 +204,7 @@ Forty-plus independents across 17,000 square feet, and the range is the reason t
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-street-food-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-street-food-london-camden-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Camden Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Markets where the food is the point
 
@@ -296,8 +298,6 @@ Spanish tapas and paella, Greek gyros, Thai curries, Indian chaat and fresh Ital
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-street-food-london-camden-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Camden Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Container yards and regeneration sites
 
 Outdoor, sociable, drink-led, and the format most likely to have changed since you last looked.
@@ -347,6 +347,8 @@ Standing only, no seating, and a two-to-four hour window. These are for people w
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-street-food-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Seasonal, and once a year
 
 * **Southbank Centre Winter Market** — Alpine chalets on the Queen's Walk, **3 November to 4 January**, daily. It displaces the regular food market for those weeks.
@@ -358,8 +360,6 @@ Standing only, no seating, and a two-to-four hour window. These are for people w
 * **Victoria Park Market** — **Sundays**, and you eat in one of London's best parks.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-street-food-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Going, or already gone
 

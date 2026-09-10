@@ -145,8 +145,6 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 
 *Daunt Books, an Edwardian shop built for a bookseller and still one. The travel section is arranged by country. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2417477044), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to eat and drink
 
 ![The Barley Mow pub on Dorset Street, its frontage hung with flowers and a painted sign reading the oldest pub in Marylebone](../../assets/articles/marylebone-area-guide/barley-mow-marylebone.jpg)
@@ -182,6 +180,8 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 **Best time:** Sunday morning for the farmers' market, then the Wallace Collection when it opens.
 
 **Note:** The high street is largely shut by early evening. Marylebone is a daytime area.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Suggested half-day route
 

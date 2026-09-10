@@ -105,6 +105,8 @@ What the rest of the estate does well is the **local special** — a different b
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The disagreement
 
 **The award and the critics are not measuring the same burger.**
@@ -118,8 +120,6 @@ And the listings sites measure a third thing again: how easy it is to get to. Th
 None of the three is wrong. They answer "best" for different evenings. If you want the burger a jury picked, go to Liverpool Street. If you want the one London's critics keep going back to, go to Finsbury Park.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Smash burgers
 

@@ -182,8 +182,6 @@ South along the river from Parliament towards Tate Britain, and much the quietes
 
 **Pimlico is the nearest station to Tate Britain**, five minutes, rather than Westminster — which is a fifteen-minute walk back along the river.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -229,7 +227,7 @@ Our full route for this area: **eleven numbered stops** over about 4km and two t
 5. **The Mall and Horse Guards:** East along The Mall to **Horse Guards Parade** and Whitehall.
 6. **Finish:** **Trafalgar Square** and the National Gallery.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-houses-of-parliament-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Houses of Parliament tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

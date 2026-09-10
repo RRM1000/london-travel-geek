@@ -195,8 +195,6 @@ The cooking is modern French. Two sites — the **Covent Garden** room is a wine
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wine-bars-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Natural or classical, because the market has already split
 
 The clearest evidence for how to divide this subject is what the publications themselves do: **eight of the sources in this pass run a separate natural wine guide alongside their general one.** No other distinction has produced that — nobody publishes a guide to London's classical wine bars, and a search for sherry specialists returns nothing at all.
@@ -208,6 +206,8 @@ The clearest evidence for how to divide this subject is what the publications th
 **The hybrids** are the London format worth knowing: a bottle shop with a bar in it, or the reverse. Stable Wines on Essex Road is a cave beneath a bottle shop with **no written list at all** — the staff talk you through it and pour tastes. Winemakers Club sells and imports as well as pours.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wine-bars-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

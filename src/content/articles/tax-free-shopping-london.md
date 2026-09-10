@@ -82,6 +82,8 @@ What each retailer publishes on its own site, checked on 3 September 2026:
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="tax-free-shopping-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What still works: duty free at the airport
 
 **"Duty free" and "tax free" are two different things, and only one of them survived.**
@@ -101,8 +103,6 @@ The published discounts show the shape of it. Gatwick's World Duty Free advertis
 | **Luton** | Aelia Duty Free Click and Collect | Up to **20%** off high street on beauty | Before travel |
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="tax-free-shopping-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What still works: goods that never had VAT
 
@@ -155,6 +155,8 @@ First, the arithmetic almost everyone gets wrong. **VAT is already inside the pr
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="tax-free-shopping-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Ways to spend less anyway
 
 * **Bicester Village.** Direct from **London Marylebone in 56 minutes** on Chiltern Railways, and the station is a **two-minute walk** from the Village. The thing that catches people out: **Oyster and contactless are not valid** on that line, so buy a ticket. There is a Bicester kiosk at Marylebone, open 08:45–16:30 daily.
@@ -166,8 +168,6 @@ First, the arithmetic almost everyone gets wrong. **VAT is already inside the pr
 *Every legal and policy fact above comes from GOV.UK, HMRC notices or the retailer's own website, and every figure was checked on **3 September 2026**. Rules change; retailer terms change faster. Confirm with the shop before you commit to a £1,500 purchase.*
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="tax-free-shopping-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

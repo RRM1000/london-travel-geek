@@ -181,8 +181,6 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 
 *Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. It played Diagon Alley in the first Harry Potter film.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Go deeper
 
 - **[The best views in London](/articles/best-views-london/)** — Horizon 22, the Lookout and Sky Garden are all in the Square Mile, all free, and all need booking on different timetables.
@@ -217,6 +215,8 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 **Best time:** Weekday mornings for atmosphere and open pubs. Early Sunday morning for photography with empty streets.
 
 **Book ahead:** Tower of London, Horizon 22, Sky Garden and the Temple of Mithras all need booking, and the free ones go fastest.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Walking routes
 

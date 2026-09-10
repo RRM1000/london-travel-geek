@@ -182,8 +182,6 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 *The World's End, at the far end of the King's Road. The stretch around it is where the punk shops were. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/5506552067), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-chelsea-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Chelsea walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Go deeper
 
 - **[London's historic houses](/articles/historic-houses-london/)** — including the Royal Hospital Chelsea, whose grounds are more visitable than most people realise.
@@ -206,6 +204,8 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 ![Albert Bridge over the Thames, its cast-iron towers and cables painted in pale pink, green and blue](../../assets/articles/chelsea-area-guide/albert-bridge.jpg)
 
 *Albert Bridge, repainted in 1992 in the pink, green and blue it wears now. Troops crossing it are still told to break step.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-chelsea-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Chelsea walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there
 

@@ -175,8 +175,6 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 *The hot tub boats run year-round. The chimney is a wood burner, and the water is properly hot in January.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Go deeper
 
 - **[The best views in London](/articles/best-views-london/)** — what you can actually get up, given that One Canada Square has no public viewing floor.
@@ -234,6 +232,8 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 **Best time:** Early evening gives the best photographs, with the towers lit and reflecting in the docks. Weekday lunchtimes are the busiest and most alive; weekends are quieter on the walkways but the water and the restaurants are now the reason to come.
 
 **Sundays are no longer a write-off.** The malls keep short Sunday hours and some older chain units shorten further, so do not plan a shopping trip. Everything else — Eden Dock, the pool, the museum, the roof garden, Wood Wharf — runs as normal.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Walking routes
 

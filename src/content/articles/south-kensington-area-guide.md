@@ -156,8 +156,6 @@ Harrods is free to walk into and worth it for the food halls alone, which are th
 
 **Ten minutes, and mostly uphill.** The 14 and 74 buses run the same route if you would rather not walk it twice.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-kensington-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Go deeper
 
 - **[The best museums in London](/articles/best-museums-london/)** — the V&A, the Natural History Museum and the Science Museum compared, with which halls are worth your time and when to book.
@@ -192,6 +190,8 @@ Harrods is free to walk into and worth it for the food halls alone, which are th
 **Best time:** Right at opening, usually 10:00. The first hour is dramatically quieter, and it is the only time you will get Hintze Hall without crowds.
 
 **Avoid:** Weekends and school holidays if you can, particularly at the Natural History Museum, which is the busiest free attraction in the country.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-kensington-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Suggested three-hour route
 
