@@ -25,6 +25,8 @@ faq:
     a: "Central, on a big night. Novotel London Wembley was £426.60 for the England v Czechia Tuesday against £131.40 an ordinary Tuesday a week later, and on the match night there was one room type left in the building. Novotel Waterloo, same brand and same booking engine, was £300.60 on that match night with seven room types free — £126 cheaper, and on the Jubilee line direct to Wembley Park. On an ordinary night it reverses completely: Wembley was £131.40 against £315.90 in Waterloo. Wembley is the bargain on a normal night and the trap on an event night."
   - q: "Is Boxpark Wembley open on event days?"
     a: "Often not. Boxpark runs ticketed Fanparks on stadium event dates and its own closures page lists them as ALL DAY, not just from the evening — so a plan to sit there for four hours before doors fails on exactly the day you are going. Even when it is open, Boxpark states that happy hour pricing does not apply during Fanparks, arena dates or televised England games. Check Boxpark's closures page against your own event date before you build an afternoon around it."
+  - q: "Can you buy alcohol in Wembley on a match day?"
+    a: "Yes. There is no blanket ban on shops selling alcohol on event days, but some Wembley licences carry Brent's event-day conditions: no sales one hour before the event and one hour after, none to anyone in team colours, and a four-can limit. You also cannot drink it on the street: Wembley Park's street-drinking order lets officers take your alcohol, sealed cans included, with a £100 fine for refusing."
   - q: "Can you do the Wembley Stadium tour on a match day?"
     a: "No. The tour does not run on stadium event days at all, and in the days beforehand it is replaced by a cut-down Express Tour that the operator says does not include the player areas or the dressing rooms. Tour availability across three separate booking windows lined up exactly with the stadium's event calendar — every blank date was an event date. If you want the tour and the match, you need two separate days, and ideally not the day before either. The full guided tour is £28 for an adult, £19 for a child or concession, £75 for a family, and lasts about 90 minutes."
   - q: "What size bag can you take into Wembley Stadium?"
@@ -417,7 +419,33 @@ Beyond LDO and Boxpark, Wembley Park claims over 50 eateries, among them **Bread
 
 OVO Arena Wembley's concourse kiosks do hot dogs, burgers, pizzas and nachos, with bars on cocktails, wine, craft beer and soft drinks, and bundle deals. It is **completely cashless and there are no cash machines in the building**. **Free water is available on the concourses.** You may bring confectionery; drinks and hot food are prohibited. Photo ID is required for alcohol if you look under 25. Wembley Stadium is cashless too — no kiosk there takes cash.
 
-> ⚠️ **Olympic Way is a no-street-drinking zone** for big concerts and showcase sporting events, under a Public Space Protection Order. Brent's own wording is that people drinking on Olympic Way and surrounding streets will be asked to hand over their alcohol, with enforcement action possible.
+---
+
+## Drinking on event days
+
+**You can buy alcohol in Wembley on an event day. There is no blanket ban on shops**, and the Tesco Express, Sainsbury's Local and Co-op on the estate list their normal hours. What catches people out is narrower than the rumour, and it comes in two parts.
+
+**Some shops will still refuse you, because their licence says so.** Brent's [licensing policy](https://www.brent.gov.uk/-/media/files/business-documents/licencing/statement-of-licensing-policy---2025-2030.pdf?rev=18ceab9f9de6419badbee8d6ec57a872) sets special conditions for Wembley on major event days: "no sale of alcohol one hour before the event, and one hour after", no off-sales to anyone wearing "game day paraphernalia" (a team shirt, in other words), and no more than four cans a customer. These go onto individual licences rather than applying to every shop, so one shop may serve you and the next may not, and a team shirt can be enough to get you refused.
+
+> ⚠️ **And you cannot drink it on the street.** A [Public Spaces Protection Order](https://www.brent.gov.uk/nuisance-crime-and-community-safety/public-spaces-protection-orders) covers Wembley Park at all times until January 2029, and the same rule runs across the rest of Brent. An officer can make you stop drinking in public and hand over your alcohol, **sealed cans included**. Refusing is a **£100 fixed penalty**, or up to £500 in court. Brent enforces it as a No Street Drinking Zone on Olympic Way on big event days. A pub's own terrace or garden is exempt. So the classic plan of cans from the Tesco, drunk on Olympic Way, is the one that gets your drink taken off you.
+
+**Inside the stadium, it depends on the fixture.** At concerts, NFL and rugby league the concourse bars serve as normal. At football nobody may drink in view of the pitch, and at competitive UEFA and FIFA games **alcohol is sold only in restaurants and hospitality, not on the level 1 and level 5 concourses**. That includes England's autumn 2026 Nations League games against Spain, Czechia and Croatia. You cannot bring any in: the only drink container allowed is one empty, clear plastic bottle of up to 500ml for the free water points, and not in the pitch standing area at concerts. The arena has no readmission, so stepping out for a drink ends your night.
+
+### Where to go for a drink
+
+**On football days, Brent allocates pubs to one set of fans or the other** by the side of the stadium your ticket is for, and pubs near the ground often let in only ticket holders for their team. The list changes with every fixture and goes up on [Brent's event-days page](https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days) ahead of big matches. There are no allocations for concerts.
+
+| Where | Walk to the stadium | What to know |
+| --- | --- | --- |
+| **The White Horse** (Fuller's), Arena Square | 5 min | Football: often one set of fans only, with tickets checked at the door. **No alcohol from an hour before kick-off to 15 minutes after**, drinks in plastic, and it does not show the match. Concerts: no allocation and no cut-off |
+| **Sky Bar 9**, ninth floor of the Hilton | 7 min | Rooftop bar, walk-in only. Normally open until midnight, 01:00 on Fridays and Saturdays, but hours can change on event days and the 2-for-1 cocktail hour is off |
+| **Boxpark**, 18 Olympic Way | 9 min | A ticketed Fanpark on some event days, all day (see above). 18+ after 20:00 with physical ID |
+| **Feed the Yak**, 51 Olympic Way | 9 min | Craft-beer sports bar with 20 taps. Closed Mondays |
+| **The Green Man**, Dagmar Avenue | 15 min | Pub and hotel at the top of Wembley Hill. It also sells event-day parking: £40 for the stadium, £20 for the arena, booked by phone |
+| **The Torch** (Greene King), Bridge Road | 16 min | Beside Wembley Park station, handy if that is your way home |
+| **J.J. Moon's** (Wetherspoon), High Road | 19 min | On the Wembley Central side |
+
+*Walking times are TfL's.*
 
 ---
 

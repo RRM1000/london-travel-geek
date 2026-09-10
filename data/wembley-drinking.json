@@ -1,0 +1,543 @@
+{
+  "_meta": {
+    "purpose": "Research for a London Travel Geek section on drinking around Wembley Stadium and OVO Arena Wembley on an event day: (1) whether shops near the stadium are barred from selling alcohol on event days, and in what legal form; (2) where you can actually drink nearby and what each place does on an event day.",
+    "checkedOn": "2026-09-10",
+    "sourceRule": "Council, legislation, venue and operator sources only. Brent Council pages and documents, legislation.gov.uk, wembleystadium.com and its help portal, ovoarena.co.uk, wembleypark.com (Quintain, the estate operator), and each pub, bar or retailer's own site. Archived copies of Brent's own pages (web.archive.org) are used only to show what Brent itself published on past football days. No forums, listicles or fan blogs are relied on; one fan site is recorded under folkloreCheck as evidence, not as a source.",
+    "companionFiles": ["data/wembley-transport.json", "data/wembley-stay-eat.json"],
+    "methodNotes": [
+      "Walking times are TfL Journey Planner API results (mode=walking, shortest journey returned) from each venue's postcode centroid (postcodes.io) to the centroid of HA9 0WS (Wembley Stadium) and HA9 0AA (OVO Arena). Postcode centroids can sit 50-150 m from the actual door, so treat every figure as plus or minus 2 minutes. Where an operator publishes its own walking time it is recorded alongside, and conflicts are flagged.",
+      "PSPO coverage was tested by point-in-polygon against Brent's own map layer for the Wembley Park PSPO (https://www.brent.gov.uk/-/media/maps/external/wembley_park_pspo.json), the file Brent's PSPO map loads. The boundary is Brent's; the in/out calls are mine from their data.",
+      "Brent's licensing policy was read from the PDF linked on Brent's 'Licences and permits' page. Page numbers are the PDF's printed page numbers."
+    ]
+  },
+
+  "headlineAnswer": {
+    "claimTested": "You cannot buy alcohol from the supermarkets and shops around Wembley on match days or gig days.",
+    "verdict": "Not true as a blanket statement, and no official source says it. There is no borough-wide or area-wide ban on shops selling alcohol on event days, statutory or voluntary. What does exist has three separate legal shapes, and people run them together.",
+    "theThreeThingsThatActuallyExist": [
+      "1. LICENCE CONDITIONS (statutory, but premises-by-premises). Brent's Statement of Licensing Policy 2025-2030, Policy 9, says the council imposes 'special conditions in Wembley' for major event days, including no alcohol sales in the hour before an event, no off-sales to anyone wearing 'game day paraphernalia', and a four-can limit. Where a condition is on a licence it is legally binding on that shop or pub. But the policy's own appendix says these conditions are considered only 'where there is a relevant representation', which means they are attached case by case when a licence is granted, varied or reviewed. They are not automatically on every licence, and Brent does not publish which licences carry them.",
+      "2. A STREET-DRINKING ORDER (statutory, but about drinking, not selling). The Wembley Park Public Spaces Protection Order, in force from 1 February 2026 to 31 January 2029, lets a police officer, PCSO or council officer make you stop drinking in a public place and surrender your alcohol, including sealed containers. Refusing is an offence: GBP 100 fixed penalty, up to GBP 500 on prosecution. Brent publicises this as a 'No Street Drinking Zone' on named big events. It does not restrict sales at all.",
+      "3. A CUMULATIVE IMPACT POLICY (statutory, but about new licences). Wembley Park and Wembley Central are Cumulative Impact Zones where new off-licences, or variations that increase sales, are presumed refused. Brent states existing licences are not affected. It has nothing to do with event days."
+    ],
+    "howToPutItToReaders": "Shops near the stadium are licensed to sell alcohol and there is no general event-day ban. Some licences carry Brent's event-day conditions, so a shop may refuse to sell in the hour before an event, refuse anyone in team colours, or cap you at four cans. And even if you do buy, you cannot drink it on the street: officers can take it off you under the PSPO, sealed cans included.",
+    "whatWouldBeWrongToPrint": "'You can't buy alcohol in Wembley on event days' overstates it. 'Some shops choose not to sell' understates it, because for some premises it is a licence condition, not a choice. The accurate position is: event-day sales restrictions exist as conditions on individual licences, not as a blanket rule."
+  },
+
+  "questionOne_alcoholSalesRestriction": {
+
+    "licensingPolicyEventDayConditions": {
+      "legalForm": "Statutory, via conditions on individual premises licences under the Licensing Act 2003. Brent is the licensing authority. Breaching a licence condition is carrying on a licensable activity other than in accordance with the licence, which is a criminal offence.",
+      "document": "London Borough of Brent, Statement of Licensing Policy 2025 - 2030",
+      "source": "https://www.brent.gov.uk/-/media/files/business-documents/licencing/statement-of-licensing-policy---2025-2030.pdf?rev=18ceab9f9de6419badbee8d6ec57a872",
+      "linkedFrom": "https://www.brent.gov.uk/business/licences-and-permits ('Licensing Policy 2025 - 2030')",
+      "policy9": {
+        "location": "Policy 9: Impact of major entertainment venues, page 22",
+        "policyStatement_verbatim": "The council will continue the policy of imposing special conditions in Wembley for dealing with alcohol-related issues during major events.",
+        "conditionsListed_verbatim": [
+          "No sale of alcohol one hour before the event, and one hour after.",
+          "No alcohol to be sold off-licence to those wearing game day paraphernalia.",
+          "Customers shall not be allowed to congregate outside the premises.",
+          "No glass bottles shall be handed over the bar but shall be decanted into plastic vessels.",
+          "The DPS shall work in partnership with the Police and comply with any direction given by the most senior Police Office on duty at the event.",
+          "No alcohol of `alcopop' type drinks shall be displayed or sold in glass containers with the exception of wines and spirits.",
+          "No more than 4 cans of alcohol can be sold to a customer."
+        ]
+      },
+      "appendixVersion": {
+        "location": "Appendix section 'Major events at Wembley Stadium', pages 39-40 (listed in the contents at page 40)",
+        "trigger_verbatim": "During major events at Wembley Stadium the following recommended conditions will be considered where there is a relevant representation:",
+        "conditionsListed_verbatim": [
+          "No sale of alcohol one hour before the event.",
+          "Customers shall not be allowed to congregate outside the premises.",
+          "No glass bottles shall be handed over the bar but shall be decanted into plastic vessels.",
+          "The DPS shall work in partnership with the Police and comply with any direction given by the most senior Police Office on duty at the event.",
+          "No alcohol of `alcopop' type drinks shall be displayed or sold in glass containers with the exception of wines and spirits.",
+          "No more than 4 cans of alcohol shall be sold per customer."
+        ],
+        "differenceFromPolicy9": "The appendix list drops both 'and one hour after' and the 'game day paraphernalia' off-licence condition. The policy contradicts itself, and it does not say which list governs."
+      },
+      "whatThisMeansInPractice": [
+        "It is a menu of conditions Brent applies to Wembley premises when their licence comes before it, not a rule that switches on for every shop on every event day.",
+        "The 'game day paraphernalia' condition is aimed at off-licences, meaning any premises selling for consumption off the premises. That would include a supermarket or a convenience store if its licence carries it. In practice it means a fan in a team shirt can be refused even where nobody else is.",
+        "The police-direction condition is how a police request to stop selling becomes enforceable. For a premises whose licence carries it, a direction from the senior officer on duty is binding. For a premises without it, a police request is only a request, unless the police obtain a court closure order (see section160ClosureOrders)."
+      ],
+      "doesItApplyToEveryEvent": "Not stated. Policy 9 says 'major events' and 'major event days'; the appendix says 'major events at Wembley Stadium'. Neither defines a major event or says whether OVO Arena shows count. The one pub that publishes its own conditions, The White Horse, applies its sales cut-off to football matches only and not to stadium concerts (see questionTwo).",
+      "whichPremises": "Premises 'in Wembley' (no boundary given in the policy). Only those whose licences actually carry the conditions.",
+      "hours": "Policy 9: one hour before the event and one hour after. Appendix: one hour before the event. 'One hour after' is not defined as after the start or after the end. The White Horse describes its own version as stopping sales one hour before kick-off until 15 minutes after kick-off.",
+      "supermarketsOffLicencesPetrolStations": "The policy draws no distinction between them. Each condition binds whatever premises it is written onto. The paraphernalia condition is framed around off-sales, so it is the one that bites on shops. No petrol station was identified inside the zone during this check."
+    },
+
+    "pspoStreetDrinking": {
+      "legalForm": "Statutory. Public Spaces Protection Order made under section 59 of the Anti-social Behaviour, Crime and Policing Act 2014. It controls CONSUMPTION in public places. It contains nothing about the sale of alcohol.",
+      "order": "Brent Council Public Spaces Protection Order (Borough Wide, Parks Open Spaces Cemeteries and Graveyards, and Wembley Park), made 30 January 2026, in force from 12:01 on 1 February 2026 to 11:59 on 31 January 2029. Made by Nigel Chapman, Corporate Director for Children, Young People and Community Development.",
+      "orderSource": "https://www.brent.gov.uk/-/media/files/resident-documents/nuisances-crime-and-safety-documents/boroughwide-popsc--wp-pspo-extension.pdf?rev=93a91fe083db4d46b4240bdee9162130&hash=98A23E191D306CE5047D253E921C2A6E",
+      "pspoPage": "https://www.brent.gov.uk/nuisance-crime-and-community-safety/public-spaces-protection-orders",
+      "alcoholProhibition_verbatim": {
+        "heading": "Consumption of alcohol in a public place to cause alarm, distress or harassment",
+        "text": "Any person(s) who intend(s) to, is or has been consuming alcohol, without reasonable excuse. This person must: a. cease the consumption of alcohol immediately b. surrender any alcohol that the authorised officer reasonably believes to be, alcohol or a container for alcohol (this includes any sealed containers). c. A reasonable excuse includes: i. an area adjoining a premises which is licensed to supply and permit the consumption of alcohol. ii. Another licensed area where alcohol consumption is permitted."
+      },
+      "notes": [
+        "The same alcohol clause appears in all three restricted areas: borough-wide, parks, and Wembley Park. Street drinking is therefore controllable anywhere in Brent, not just at Wembley.",
+        "The heading mentions 'alarm, distress or harassment' but the operative text does not. As written, it covers anyone consuming alcohol in a public place without reasonable excuse.",
+        "Sealed cans can be taken: the order says so expressly. Brent's licensing policy (Policy 12, page 23) still describes the older wording 'other than a sealed container'. The 2026 order is the operative text.",
+        "A pub's own terrace or beer garden is a 'reasonable excuse' under the order."
+      ],
+      "penalties": "Failing to comply with the alcohol requirement: Fixed Penalty Notice GBP 100, payable within 14 days, or a fine up to level 2 (GBP 500) on prosecution. Source: the order and Brent's PSPO page.",
+      "whenItApplies": "The order has no event-day limit. It is in force at all times for its three-year life. What changes on event days is enforcement. Brent says it and its partners 'are enforcing a No Street Drinking Zone on Olympic Way and the surrounding area' during named events.",
+      "namedEventsOnBrentsPage2026": {
+        "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days",
+        "pageLastUpdated": "10/08/26",
+        "wording": "Enforced 'during a number of big music concerts and showcase sporting events at Wembley Stadium this year'.",
+        "datesListed": ["The Weeknd: 14, 15, 16, 18, 19 August 2026", "Bon Jovi: 4, 6, 9 September 2026", "Diljit Dosanjh (Brent spells it 'Dilijit'): 12 September 2026"],
+        "notListedAsOf10Sep": "England v Spain (26 Sep), the Union Jack Classic (19 Sep), England v Czechia (6 Oct), the NFL game (18 Oct) and England v Croatia (12 Nov) do not appear yet. Past practice (below) shows Brent adds football fixtures to the page closer to the date."
+      },
+      "stadiumsVersion": {
+        "source": "https://help.wembleystadium.com/support/solutions/articles/7000073543-public-space-protection-order",
+        "modified": "10 Feb 2026",
+        "summary": "The stadium says Brent and its partners have enforced the no-street-drinking zone on Olympic Way and the surrounding area for ALL events at the stadium since 2022. Fans drinking there will be asked to hand over alcohol and may face enforcement. It points fans to licensed bars, pubs and restaurants instead."
+      },
+      "conflict": "Brent says named events; the stadium says all events. Both describe enforcement of an order that legally applies at all times, so the safe line for readers is that street drinking can be stopped on any day, and is actively policed on event days.",
+      "pastEnforcementOnBrentsOwnPages": [
+        { "date": "2022-07-31", "event": "UEFA Women's EURO final", "archivedBrentPage": "https://web.archive.org/web/20220705055716/https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/match-days" },
+        { "date": "2023-06/08", "event": "Harry Styles (4 dates), Def Leppard and Motley Crue, Blur (2 dates), The Weeknd", "archivedBrentPage": "https://web.archive.org/web/20230606202941/https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days" },
+        { "date": "2023-08-06", "event": "FA Community Shield, Arsenal v Manchester City", "archivedBrentPage": "https://web.archive.org/web/20230804185625/https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/match-days" }
+      ],
+      "areaCovered": {
+        "boundaryAsDescribedInTheOrder": "Wembley Park restricted area: from Wembley Stadium station along the railway to Hannah Close, then the railway up to Bridge Road; up to the first section of Forty Avenue and Forty Lane; back down via Empire Way, Wembley Hill Road and Wembley Park Drive to Park Lane, including King Edward VII Park; down to High Road, Wembley; along Harrow Road one way to the junction with Napier Road and the other way to the junction with Berkhamsted Avenue; including the first section of Oakington Manor Drive; and back to the railway at Wembley Stadium station. The map also takes in the first sections of some side roads, such as Brook Avenue by Wembley Park station.",
+        "radius": "None. It is a drawn area, not a radius.",
+        "extentFromBrentsMapLayer": "Bounding box roughly longitude -0.3039 to -0.2568, latitude 51.5438 to 51.5661.",
+        "venuesTestedInside": "Every venue and shop in this file tested inside the Wembley Park area, from J.J. Moon's on the High Road to The Torch by Wembley Park station, the Green Man on Dagmar Avenue and the Corner House on Harrow Road. In practice the whole walk between any of these pubs and the stadium is inside the zone.",
+        "boroughWideToo": "The borough-wide area carries the same alcohol clause, so leaving the Wembley Park zone does not take you outside the rule."
+      },
+      "otherWembleyParkProhibitionsReadersWillMeet": [
+        "Stadium concourse: no entering or remaining on the concourse around gates A-M without a valid ticket for that day's event.",
+        "No ticket touting, unlicensed street trading or unlicensed merchandise selling.",
+        "No pyrotechnics, flares or smoke devices; no drones without landowner consent."
+      ]
+    },
+
+    "cumulativeImpactZones": {
+      "legalForm": "Statutory. Cumulative Impact Policy under the Licensing Act 2003 (section 5A), set out in the licensing policy (Policy 11 and Appendix 6).",
+      "effect": "Brent's page says the Cumulative Impact Policy applies only to off-licences. Applications for new off-licences, or variations that would increase alcohol sales including longer hours, are presumed refused unless the applicant shows no negative cumulative impact. Existing licence holders are not affected unless they apply to vary in a way that adds impact. The policy (page 23) adds that the zones 'will not cause any existing licences to be changed'.",
+      "wembleyZones": {
+        "wembleyPark": "From the junction of Barn Rise and Forty Avenue to Wembley Triangle: Empire Way, South Way, Wembley Hill Road, Engineers Way, Grand Parade (Forty Avenue), Olympic Way, Bridge Road, Wembley Park Drive.",
+        "wembleyCentral": "North of the North Circular to Talbot Road: High Road, Lancelot Road, Harrow Road (Wembley, north of the North Circular), London Road, Central Square, Wembley Park Drive."
+      },
+      "whyItMatters": "The evidence base (policy page 53) notes the areas immediately around the stadium and arena are again a crime hotspot since events returned after Covid. That is a reason Brent limits new off-licences there. It is not an event-day sales ban.",
+      "source": "https://www.brent.gov.uk/business/licences-and-permits/alcohol-club-and-entertainment-licences/premises-licence#ciz"
+    },
+
+    "section160ClosureOrders": {
+      "legalForm": "Statutory. Licensing Act 2003, section 160, still in force.",
+      "whatItAllows": "Where there is or is expected to be disorder, a magistrates' court may order all premises with a premises licence or temporary event notice at or near the place to close for up to 24 hours. Only a police officer of superintendent rank or above can apply, and only if closure is necessary to prevent disorder. This covers shops and pubs alike.",
+      "found": "No Brent, Met, stadium or operator source found that says such an order has been made for a Wembley event. This is the only route by which every licensed premises in an area could lawfully be shut on a given fixture.",
+      "source": "https://www.legislation.gov.uk/ukpga/2003/17/section/160"
+    },
+
+    "voluntarySchemes": {
+      "found": "Brent's policy encourages voluntary measures: Policy 15 (a voluntary ban on high-strength alcohol) and Policy 20 (voluntary schemes such as Pubwatch). Both are borough-wide and aimed at street drinking. Neither is an event-day agreement.",
+      "eventDayVoluntaryAgreement": "No voluntary event-day agreement between Brent, the Met and local retailers was found in any Brent, Met, stadium, arena, Quintain or retailer source."
+    },
+
+    "shopsOnTheEstate": [
+      {
+        "name": "Tesco Express (Tesco calls the store 'Wembley Stadium Express')",
+        "address": "Unit 3, 20 Wembley Park Boulevard, HA9 0HP",
+        "hours": "Tesco's store page: closes 23:00. Wembley Park: Monday to Sunday 07:00-23:00.",
+        "eventDayNotice": "None on Tesco's store page or on Wembley Park's page.",
+        "walkToStadium": "5 min (TfL; same postcode as The White Horse)",
+        "sources": ["https://www.tesco.com/store-locator/london/unit-3-20-wembley-park-blvd", "https://wembleypark.com/shops-markets/tesco-express-wembley-park/"]
+      },
+      {
+        "name": "Sainsbury's Local",
+        "address": "Brent Civic Centre, Engineers Way, HA9 0FJ",
+        "hours": "Wembley Park: Monday 06:00-23:00, Tuesday to Saturday 06:00-00:00, Sunday 12:00-18:00.",
+        "eventDayNotice": "None on Wembley Park's page. Sainsbury's own store page was not found; see gaps.",
+        "walkToStadium": "8 min (TfL)",
+        "sources": ["https://wembleypark.com/shops-markets/sainsburys-local-wembley-park/"]
+      },
+      {
+        "name": "Co-op",
+        "address": "25 Olympic Way, HA9 0FR",
+        "hours": "Wembley Park: Monday to Sunday 07:00-22:00.",
+        "eventDayNotice": "None on Co-op's store page. Quintain's own copy actually invites visitors to stock up there before a big match or concert.",
+        "walkToStadium": "8 min (TfL)",
+        "sources": ["https://www.coop.co.uk/store-finder/HA9-0FR/25-olympic-way", "https://wembleypark.com/shops-markets/co-op-wembley-park/"]
+      },
+      {
+        "name": "Capitol Food & Wine (independent off-licence)",
+        "address": "107 Wembley Park Drive, HA9 8HG",
+        "licence": "Premises licence 150416, granted. Off-sales permitted Monday to Saturday 08:00-23:00, Sunday 10:00-22:30.",
+        "note": "Found on Brent's online register. The register entry shows hours, activities and the DPS, but no conditions, so it cannot say whether this shop carries the event-day conditions.",
+        "walkToStadium": "13 min (TfL)",
+        "sources": ["https://portal.brent.gov.uk/registers/index.html?fa=licence_register&licence_id=1050&council_id=12"]
+      }
+    ],
+    "otherEstateGroceryShopsNotChecked": ["The Grocery Store Wembley Park", "Tian Tian Supermarket (both listed on wembleypark.com; their pages returned no readable detail)"],
+
+    "folkloreCheck": {
+      "summary": "The only place a blanket 'off-licences stop selling' rule turned up in any search was a fan site, euro2028fan.com. None of its specifics match Brent's documents.",
+      "item": {
+        "url": "https://euro2028fan.com/en/news/wembley-matchday-alcohol-rules-2028/",
+        "dated": "18 June 2026, billed as a one-minute read",
+        "claims": "That Brent has 'confirmed' a EURO 2028 regime: a 1.2 km PSPO radius from 11:00 to 02:00 on every matchday, and off-licences in the zone stopping sales two hours before kick-off.",
+        "whyItIsNotCredible": "The sealed PSPO has no radius and no hours. The licensing policy says one hour, not two. The piece attributes everything to Brent with no link or document. It fits the content-farm pattern.",
+        "searchesItWasTheSoleAnswerTo": ["Wembley stadium event day shops not selling alcohol police request", "Metropolitan Police Wembley stadium event day alcohol dispersal order"]
+      },
+      "likelyOriginOfTheBelief": "The genuine 'no off-sales to those wearing game day paraphernalia' condition, together with PSPO confiscations of sealed cans, would feel to a fan like 'the shops won't sell to you'. That is plausible but is my inference, not a sourced fact."
+    },
+
+    "whatCouldNotBeEstablished": [
+      "WHICH shops carry the event-day conditions. Brent's online register shows permitted hours but not licence conditions. It also only surfaces the first 50 of 1,058 current licences and ignores its own street filter, so it cannot even list every off-licence near the stadium.",
+      "Whether Tesco Wembley Stadium Express, Sainsbury's Local (Civic Centre) or the Co-op on Olympic Way have any event-day condition on their licences.",
+      "What counts as a 'major event' for the conditions, whether OVO Arena shows count, and what 'one hour after' means.",
+      "Any Metropolitan Police event-day advice on alcohol. met.police.uk refuses automated access and two searches surfaced nothing from the Met. Brent lists the Met's Brent licensing mailbox (NWMailbox.LicensingBrent@met.police.uk) as a responsible authority.",
+      "Any instance of a section 160 closure order, or a documented police request to shops, for a Wembley fixture.",
+      "Any published event-day notice from Sainsbury's (its own store page was not found)."
+    ]
+  },
+
+  "questionTwo_whereToDrink": {
+
+    "howFootballDaysWork": {
+      "summary": "On football days Brent publishes which pubs are hosting which fans, split by the side of the stadium your ticket is on. Pubs near the ground often admit only ticket holders for their allocated team. For concerts there is no allocation.",
+      "brentsWording": "Brent's archived match-day pages list venues 'including which ones are hosting which fans' and group them by stadium side.",
+      "theWhiteHorseConfirms": "The White Horse's football page tells fans of the team not allocated to it to check Brent's event-days page for the pubs, venues and fan zones allocated to their team.",
+      "allocationExamples": {
+        "2022-07-31_WomensEuroFinal": {
+          "west": ["BOXPARK", "The Green Man", "Crystals", "The Arch", "Station 31 (now Bombay Chow Bar)", "The Liquor Station (now The Robin)", "J.J. Moon's", "La Regina"],
+          "east": ["Black Sheep", "The White Horse", "The Blue Check", "Wembley Tavern", "Stadium Sports Bar", "The Torch", "Crock of Gold"],
+          "notAllocated": ["Swan", "Arena Lounge", "The Barrel & Corner", "Trader Wembley", "TGI Fridays", "Pasta Remoli", "Masalchi", "Bread Ahead", "London Designer Outlet restaurants"]
+        },
+        "2023-08-06_CommunityShield": {
+          "eastArsenal": ["BOXPARK", "The Blue Check", "Wembley Tavern", "Stadium Sports Bar", "The Torch", "Crock of Gold", "The White Horse"],
+          "westManCity": ["The Green Man", "Crystals", "The Arch", "Station 31", "The Liquor Station", "J.J. Moon's", "La Regina", "Black Sheep", "Sixty Six Bar & Grill", "The Corner House"],
+          "notAllocated": "London Designer Outlet restaurants and other pubs"
+        },
+        "note": "Allocations change by fixture: BOXPARK was west in 2022 and east in 2023, and Black Sheep swapped the other way. Readers must check Brent's page for their own match."
+      },
+      "brentsPageNow": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days carries the 2026 concert list and a flat list of bars (no sides). As of 10 September it has no allocations yet for England v Spain (26 Sep, UEFA Nations League)."
+    },
+
+    "insideTheVenues": {
+      "wembleyStadium": {
+        "alcoholOnSale": "Yes. Draught bars and bottle bars on the general-admission levels 1 and 5. Level 2 has TapHouse Social, Camden Town Brewery bars and two M&S Food stores, open to level-2 ticket holders only. The stadium is cashless.",
+        "rulesByEventType": {
+          "concerts": "Sale and consumption generally permitted.",
+          "rugbyLeagueAndAmericanFootball": "Permitted. That covers the Union Jack Classic (19 Sep 2026) and the NFL game (18 Oct 2026).",
+          "englandFriendliesFaCupFootballLeague": "Permitted on concourses and in restaurants and private hospitality.",
+          "competitiveUefaAndFifaFixtures": "Only in restaurants and private hospitality areas. Not on the public concourses, which includes anyone with a block number starting 1 or 5.",
+          "allFootball": "No alcohol may be consumed in the main bowl or within view of the pitch, including at the FA Cup Final, semi-finals and other cup finals."
+        },
+        "thisAutumnsEnglandGames": "England v Spain (26 Sep), England v Czechia (6 Oct) and England v Croatia (12 Nov), all 19:45, are all UEFA Nations League fixtures on the stadium's own event pages. Under the stadium's rule that means no alcohol on the level 1 and level 5 concourses at any of them.",
+        "groundRegulations": "Regulation 15 cites the Sporting Events (Control of Alcohol etc) Act 1985. It is an offence to try to enter, or to be inside, while drunk. It is also an offence to have alcohol, or a bottle, can or similar container, when entering or in a public area from which the event can be directly viewed. Arrest and a banning order are possible.",
+        "bringYourOwn": "No food or drink may be brought in from outside. 'Alcohol, food & drink (except permitted items)' is on the restricted list, as are cans, flasks, and glass, hard-plastic and metal bottles. The only exception is one empty, crushable, clear plastic bottle of up to 500 ml without a lid, in seated areas only, for filling at the free water stations. For concerts, bottles are not allowed in pitch standing areas.",
+        "sources": [
+          "https://help.wembleystadium.com/support/solutions/articles/7000028399-purchasing-alcohol-at-wembley-stadium",
+          "https://www.wembleystadium.com/plan-your-visit/stadium-guide/stadium-facilities",
+          "https://help.wembleystadium.com/support/solutions/articles/7000028416-food-and-drink-availability-locations-and-dietary-requirements",
+          "https://www.wembleystadium.com/plan-your-visit/stadium-guide/rules-and-regulations",
+          "https://help.wembleystadium.com/support/solutions/articles/7000096413-restricted-and-prohibited-items",
+          "https://help.wembleystadium.com/support/solutions/articles/7000094232-bringing-your-own-food-and-drink-to-the-stadium",
+          "https://www.wembleystadium.com/events/2026/England-v-Spain"
+        ]
+      },
+      "ovoArenaWembley": {
+        "alcoholOnSale": "Yes. Concourse kiosks sell cocktails, spirits and mixers, wine and prosecco, craft beer, lager and cider. The premium lounges serve the same range. Cashless. Selected food and drink can be ordered through the arena app for collection.",
+        "idPolicy": "Challenge 25: anyone who looks under 25 should expect to show photo ID to buy alcohol.",
+        "bringYourOwn": "You may bring confectionery but no drinks. Alcohol may not be brought in; it is sold at the bars inside. Glass, cans, aluminium bottles and flasks are refused. At standing events all reusable drinks bottles are prohibited.",
+        "readmission": "None. Anyone who leaves, including to smoke, cannot come back in.",
+        "viewOfStage": "The arena publishes no rule restricting drinking in view of the stage or in the auditorium.",
+        "sources": ["https://www.ovoarena.co.uk/your-visit/food-drink", "https://www.ovoarena.co.uk/your-visit/faqs", "https://www.ovoarena.co.uk/your-visit/staying-safe"]
+      }
+    },
+
+    "onTheWembleyParkEstate": [
+      {
+        "name": "The White Horse (Fuller's)",
+        "address": "4 Wembley Park Boulevard, HA9 0HP (Arena Square, opposite OVO Arena, beside the steps up to the stadium)",
+        "walkToStadium": "5 min (TfL); 2 min to the arena",
+        "normalHours": "Monday to Friday 12:00-23:00, Saturday 12:00-23:00 (Fuller's also shows a 10:00 Saturday opening), Sunday 12:00-22:30.",
+        "eventDay_football": [
+          "Often allocated one set of fans. It then admits only match-ticket holders for its allocated team, booked or walk-in, and door staff check every ticket.",
+          "Stops selling alcohol from one hour before kick-off until 15 minutes after kick-off. The pub says it is required to do this, among several additions to its licence for football days. A bell rings 20 minutes before the cut-off.",
+          "All drinks served in plastic.",
+          "Pre-stadium dining is in the first-floor restaurant, for groups of up to six, for up to 90 minutes, with a main course per head required. Booking is recommended and tables are released after 15 minutes.",
+          "Does not screen the match being played in the stadium.",
+          "Garden furniture is removed and garden numbers are capped; the garden closes at 21:30.",
+          "Opens at noon, earlier for early kick-offs. Under-18s usually admitted until 20:00. ID for anyone who looks under 25, and bag searches."
+        ],
+        "eventDay_concerts": "No fan allocation and no published sales cut-off. The first-floor restaurant takes 'stadium day dining' bookings, drinks are often served in plastic, and the same door checks apply.",
+        "leavingWithADrink": "Not allowed. The pub warns of a GBP 100 on-the-spot fine under the street-drinking rules.",
+        "brentAllocations": "East side in 2022; east (Arsenal) in 2023.",
+        "sources": ["https://www.whitehorsewembley.co.uk/wembley-stadium-days", "https://www.whitehorsewembley.co.uk/wembley-stadium-concerts", "https://www.whitehorsewembley.co.uk/"]
+      },
+      {
+        "name": "BOXPARK Wembley",
+        "address": "18 Olympic Way, HA9 0JT",
+        "walkToStadium": "9 min (TfL); 5 min to the arena",
+        "normalHours": "BOXPARK's own site: daily 09:00-23:00. Wembley Park's page says 11:00-23:00. BOXPARK's own figure is preferred.",
+        "normalEntry": "Free entry unless there is a paid event. Walk-ins welcome; table bookings for groups of six or more only. 18+ after 20:00 with physical ID; under-18s admitted earlier with a parent or guardian.",
+        "eventDay": [
+          "On selected stadium dates BOXPARK becomes a Fanpark and lists the day on its 'closures' page. In 2026 those are Bon Jovi (4, 6 and 9 Sep) and Diljit Dosanjh (12 Sep), ticketed through Eventbrite.",
+          "The Bon Jovi tickets were free but did not guarantee entry: first come, first served.",
+          "Union Jack Classic, 19 Sep 2026: a post-game Fanpark from 17:00 to 23:00 for stadium ticket holders only.",
+          "Happy-hour prices are not offered during Fanparks, arena dates or televised England games.",
+          "BOXPARK says it regularly hosts private parties and ticket-only events, so readers should check the closures page before going."
+        ],
+        "englandGames": "No England v Spain arrangement had been published as of 10 September.",
+        "brentAllocations": "West in 2022; east (Arsenal) in 2023.",
+        "sources": ["https://www.boxpark.co.uk/venues/wembley", "https://www.boxpark.co.uk/venues/wembley/blog/closures", "https://www.eventbrite.com/e/bon-jovi-fanpark-tickets-1981427382640", "https://www.eventbrite.co.uk/e/diljit-dosanjh-fanpark-tickets-1998954122591", "https://wembleypark.com/whats-on/boxpark-wembley-union-jack-classic-arizona-v-kansas-fanpark-19-sept-26/", "https://wembleypark.com/eat-drink/boxpark-wembley-drinks/"]
+      },
+      {
+        "name": "Feed the Yak Wembley",
+        "address": "51 Olympic Way, HA9 0EG",
+        "walkToStadium": "9 min (TfL); 5 min to the arena. Wembley Park describes it as at the foot of the stadium.",
+        "normalHours": "Open Tuesday to Sunday (its own site gives days, not times).",
+        "what": "Craft-beer sports bar with 20 taps and hundreds of cans and bottles; shows Premier League, Champions League, NFL, rugby and F1.",
+        "eventDay": "Nothing published. Its own site says nothing about event-day entry, ticketing or fan allocation, and its What's On calendar was empty when checked.",
+        "brentAllocations": "Not in Brent's 2022, 2023 or 2026 lists.",
+        "dataNote": "Postcode HA9 0EG was terminated in February 2026 (ONS, via postcodes.io). The bar still uses it. The walking time uses the terminated postcode's coordinates.",
+        "sources": ["https://www.feedtheyak.com/wembley", "https://wembleypark.com/eat-drink/feed-the-yak-wembley-park/"]
+      },
+      {
+        "name": "Sky Bar 9 (Hilton London Wembley, ninth floor)",
+        "address": "Hilton London Wembley, Lakeside Way, HA9 0BU",
+        "walkToStadium": "7 min (TfL); 2 min to the arena. Wembley Park says the Hilton is a 3-minute walk (0.2 miles).",
+        "normalHours": "Sunday to Thursday 10:00-00:00, Friday and Saturday 10:00-01:00. Lunch 12:00-17:00; no food after 17:00 (Wembley Park).",
+        "entry": "Walk-in only; no reservations, first come first served. Billed as the only public rooftop bar in Wembley. No residents-only or ticket rule is published.",
+        "eventDay": "The bar's own site says its hours and service may change without notice because of event schedules, and advises checking with the team. The 2-for-1 cocktail happy hour (17:00-19:00) is not valid during arena, stadium or ballroom events.",
+        "alsoAtTheHilton": "Icons Bar, Grill and Terrace, open daily 10:00-17:00. The Association restaurant, which Wembley Park says runs a buffet on event days.",
+        "sources": ["https://skybar9.com/", "https://www.hilton.com/en/hotels/lonlwhi-hilton-london-wembley/dining/", "https://wembleypark.com/eat-drink/hilton-london-wembley-sky-bar-9/", "https://wembleypark.com/eat-drink/hilton-london-wembley-the-association/"]
+      },
+      {
+        "name": "Other hotel bars on or by the estate (Novotel London Wembley, ibis London Wembley)",
+        "what": "Accor lists a bar among each hotel's facilities.",
+        "eventDay": "Neither hotel publishes any event-day or event-night term. No bar-specific event-day policy was found.",
+        "source": "data/wembley-stay-eat.json (read from Accor's own hotel pages on 2026-09-09)"
+      },
+      {
+        "name": "TGI Fridays (London Designer Outlet)",
+        "address": "1 Wembley Park Boulevard, HA9 0TG",
+        "walkToStadium": "7 min (TfL)",
+        "normalHours": "Sunday to Thursday 10:00-22:00, Friday and Saturday 10:00-22:30 (Wembley Park).",
+        "eventDay": "Nothing published. Brent lists it among venues not allocated to a team.",
+        "source": "https://wembleypark.com/eat-drink/london-designer-outlet-tgi-fridays-wembley/"
+      },
+      {
+        "name": "Estadio Lounge",
+        "address": "10 Wembley Park Boulevard, HA9 0HP",
+        "walkToStadium": "5 min (TfL)",
+        "what": "All-day bar and restaurant with cocktails, beer, wine and spirits.",
+        "normalHours": "As printed by Wembley Park: Sunday to Thursday 09:00-23:00, Thursday to Saturday 09:00-00:00 (the listing overlaps on Thursday).",
+        "eventDay": "Nothing published.",
+        "source": "https://wembleypark.com/eat-drink/estadio-lounge-wembley-park/"
+      },
+      {
+        "name": "Meat & Social",
+        "address": "22 Olympic Way, HA9 0FU",
+        "walkToStadium": "8 min (TfL)",
+        "normalHours": "Sunday to Thursday 12:00-22:30, Friday and Saturday 12:00-23:00.",
+        "eventDay": "Nothing published.",
+        "source": "https://wembleypark.com/eat-drink/meat-and-social/"
+      },
+      {
+        "name": "Black Sheep (Black Sheep Coffee)",
+        "address": "Brent lists 2 Olympic Way, HA9 0GU. Wembley Park lists branches at the London Designer Outlet and White Horse Square.",
+        "walkToStadium": "9 min (TfL, 2 Olympic Way)",
+        "what": "Coffee shop that also serves cocktails and cold cans (Wembley Park). LDO branch hours: Monday to Friday 06:00-21:00, weekends 06:30-21:00.",
+        "brentAllocations": "East in 2022; west (Manchester City) in 2023.",
+        "source": "https://wembleypark.com/eat-drink/black-sheep-coffee/"
+      },
+      {
+        "name": "London Designer Outlet restaurants",
+        "venues": ["Las Iguanas", "Wagamama", "Zizzi", "Pizza Express", "Frankie & Benny's", "Nando's", "Big Moe's Diner", "JRC Global Buffet"],
+        "eventDay": "LDO's event-day guide mentions restaurants with special event-day menus. It publishes no alcohol or entry restrictions. Brent lists these venues as not allocated to a team.",
+        "sources": ["https://www.londondesigneroutlet.com/wembley-event-day-guide/", "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days"]
+      }
+    ],
+
+    "traditionalPubsWithinWalkingDistance": [
+      {
+        "name": "The Green Man (pub and hotel)",
+        "address": "Dagmar Avenue, HA9 8DF (top of Wembley Hill)",
+        "walkToStadium": "15 min (TfL); 10 min to the arena. The pub's own site says its car park is 300 m from the stadium. That looks optimistic against TfL's figure and should be checked before printing.",
+        "what": "Pub, restaurant and large beer garden; big-screen sport. Its own site says it is known for a lively atmosphere on concert and match days, with a barbecue on match days.",
+        "eventDay": "No entry charge, ticketing or fan restriction is published. It sells event-day parking: GBP 40 for stadium events and GBP 20 for arena events, car park open from 08:00, book by phone and pay on arrival. Those prices are PARKING, not pub entry.",
+        "brentAllocations": "West in 2022; west (Manchester City) in 2023.",
+        "phone": "020 8903 1441 or 07595 051937 (Brent)",
+        "dataWarning": "An older site, thegreenmanhotelatwembley.co.uk, is frozen at 2015 and has spam injected into it. Do not use it.",
+        "sources": ["https://www.thegreenmanpubandhotel.london/", "https://www.thegreenmanpubandhotel.london/parking-for-wembley/", "https://www.thegreenmanpubandhotel.london/wembley-events/"]
+      },
+      {
+        "name": "J.J. Moon's (Wetherspoon)",
+        "address": "397 High Road, Wembley, HA9 6AA",
+        "walkToStadium": "19 min (TfL); 16 min to the arena",
+        "normalHours": "Monday to Thursday and Sunday 08:00-00:00, Friday and Saturday 08:00-01:00.",
+        "eventDay": "Nothing published on Wetherspoon's page.",
+        "brentAllocations": "West in 2022; west (Manchester City) in 2023.",
+        "source": "https://www.jdwetherspoon.com/pubs/j-j-moons-wembley/"
+      },
+      {
+        "name": "The Robin",
+        "address": "397A High Road, HA9 6AA",
+        "walkToStadium": "19 min (TfL)",
+        "eventDay": "No operator website found. It is on Brent's 2026 list. Brent's 2022 and 2023 lists show 'The Liquor Station' at the same address, allocated west.",
+        "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days"
+      },
+      {
+        "name": "The Torch (Greene King, Flaming Grill)",
+        "address": "1-5 Bridge Road, HA9 9AB (by Wembley Park station)",
+        "walkToStadium": "16 min (TfL); 12 min to the arena",
+        "normalHours": "Thursday 11:00-23:00 shown when checked (food 11:00-21:00).",
+        "what": "Sky Sports and TNT Sports, beer garden, car park, coaches accepted.",
+        "eventDay": "Nothing published on Greene King's page.",
+        "brentAllocations": "East in 2022; east (Arsenal) in 2023.",
+        "source": "https://www.flaminggrillpubs.co.uk/pubs/middlesex/torch"
+      },
+      {
+        "name": "Crock of Gold",
+        "address": "23 Bridge Road, HA9 9AB",
+        "walkToStadium": "16 min (TfL)",
+        "eventDay": "No operator website found; a Facebook page only.",
+        "brentAllocations": "East in 2022 and 2023.",
+        "phone": "020 8908 6933 (Brent)"
+      },
+      {
+        "name": "Wembley Tavern",
+        "address": "121 Wembley Park Drive, HA9 8HG",
+        "walkToStadium": "13 min (TfL)",
+        "licence": "Premises licence 156248, granted (Brent register).",
+        "eventDay": "No operator website found; a Facebook page only.",
+        "brentAllocations": "East in 2022 and 2023.",
+        "phone": "07956 849648 or 020 8903 2955 (Brent)"
+      },
+      {
+        "name": "Stadium Sports Bar",
+        "address": "125 Wembley Park Drive, HA9 8HQ",
+        "walkToStadium": "13 min (TfL)",
+        "eventDay": "No operator website found.",
+        "brentAllocations": "East in 2022 and 2023.",
+        "phone": "07503 000 096 (Brent)"
+      },
+      {
+        "name": "The Blue Check",
+        "address": "12-13 Empire Way (Empire Parade), HA9 0RQ",
+        "walkToStadium": "12 min (TfL); Wembley Park also says 12 minutes.",
+        "what": "Wembley Park calls it a football bar, known for pizzas and pints, with a projector and four large TVs.",
+        "eventDay": "No operator website found.",
+        "brentAllocations": "East in 2022; east (Arsenal) in 2023.",
+        "source": "https://wembleypark.com/things-to-do/bars-and-pubs-around-wembley-stadium/"
+      },
+      {
+        "name": "Crystals (Sports Bar & Aqua Lounge)",
+        "address": "1 Popin Building, Southway, HA9 0HB",
+        "walkToStadium": "6 min (TfL)",
+        "eventDay": "No operator website checked.",
+        "brentAllocations": "West in 2022 and 2023."
+      },
+      {
+        "name": "Sixty Six Bar & Grill",
+        "address": "3 South Way, HA9 0JU",
+        "walkToStadium": "10 min (TfL)",
+        "brentAllocations": "West (Manchester City) in 2023."
+      },
+      {
+        "name": "La Regina (St George's Hotel)",
+        "address": "43-51 Wembley Hill Road, HA9 8AU",
+        "walkToStadium": "11 min (TfL)",
+        "brentAllocations": "West in 2022 and 2023."
+      },
+      {
+        "name": "The Arch",
+        "address": "324 Harrow Road, HA9 6LL",
+        "walkToStadium": "14 min (TfL)",
+        "brentAllocations": "West in 2022 and 2023."
+      },
+      {
+        "name": "The Corner House",
+        "address": "313 Harrow Road, HA9 6BA",
+        "walkToStadium": "14 min (TfL). Wembley Park calls it a 9-minute walk; the gap should be checked.",
+        "what": "Wembley Park describes it as a classic pub.",
+        "brentAllocations": "West (Manchester City) in 2023.",
+        "note": "Brent's 2026 list also has a second Corner House at 2-4 Slough Lane, NW9 8QL, which is not within walking distance."
+      },
+      {
+        "name": "Bombay Chow Bar & Restaurant",
+        "address": "299-303 Harrow Road, HA9 6BD",
+        "walkToStadium": "15 min (TfL)",
+        "brentAllocations": "Allocated west in 2022 and 2023, under its former name Station 31."
+      }
+    ],
+
+    "tooFarToWalkForMost": [
+      { "name": "The Barrel & Corner", "address": "610-612 High Road, HA0 2AF", "walkToStadium": "27 min (TfL)", "brent": "not allocated to a team" },
+      { "name": "Arena Lounge", "address": "652 Harrow Road, HA0 2HA", "walkToStadium": "37 min (TfL)", "brent": "not allocated to a team" },
+      { "name": "Swan", "address": "789 Harrow Road, HA0 2LP", "walkToStadium": "not computed (TfL returned no route); further out along Harrow Road than Arena Lounge", "brent": "not allocated to a team", "wembleyPark": "Named with the Fox and Goose Hotel as places to watch the pre-game." },
+      { "name": "Trader Wembley", "address": "87 Ealing Road, HA0 4BD", "walkToStadium": "not computed", "brent": "not allocated to a team" }
+    ]
+  },
+
+  "gapsForRob": [
+    {
+      "gap": "Which shops' licences carry Brent's event-day conditions",
+      "whyItMatters": "This decides whether a named supermarket can legally sell to a fan in team colours, or in the hour before kick-off. The online register cannot answer it: it shows hours, not conditions.",
+      "howToSettle": "Ask Brent licensing (business.licence@brent.gov.uk) for the conditions on the premises licences of Tesco Wembley Stadium Express (20 Wembley Park Boulevard), Sainsbury's Local (Brent Civic Centre), Co-op (25 Olympic Way) and Capitol Food & Wine (107 Wembley Park Drive)."
+    },
+    {
+      "gap": "What 'major event' means in Policy 9, and which list governs",
+      "whyItMatters": "The policy's two lists differ: the paraphernalia condition and 'one hour after' are only in Policy 9. Neither says whether arena shows or concerts count.",
+      "howToSettle": "Same email to Brent licensing."
+    },
+    {
+      "gap": "Whether the No Street Drinking Zone is enforced at every event or only named ones",
+      "whyItMatters": "The stadium says all events since 2022. Brent names specific events, and as of 10 September its list has no football fixtures. The order itself applies at all times, so the reader line 'you can be made to hand over alcohol on any day' is safe either way.",
+      "howToSettle": "Re-check Brent's event-days page in the week of England v Spain (26 Sep); past football days show Brent adds fixtures and pub allocations closer to the date."
+    },
+    {
+      "gap": "Met Police event-day advice",
+      "detail": "Nothing found from the Met. Its site refuses automated access, and two searches surfaced only the fan site noted under folkloreCheck.",
+      "howToSettle": "Check the Met's Brent social channels on a match week, or ask the Met's Brent licensing mailbox, which Brent lists as a responsible authority."
+    },
+    {
+      "gap": "Event-day policies of Feed the Yak, the Green Man, J.J. Moon's, the Torch and the independents",
+      "detail": "None publishes one. Brent's allocation lists are the only official evidence of how they operate on football days.",
+      "howToSettle": "Phone them in the week of a match, or print the Brent-allocation rule rather than venue-by-venue claims."
+    },
+    {
+      "gap": "The Green Man's walking distance",
+      "detail": "The pub says its car park is 300 m from the stadium; TfL routes 15 minutes from its postcode.",
+      "howToSettle": "Walk or map it before printing a figure."
+    },
+    {
+      "gap": "Sainsbury's own store page",
+      "detail": "Not found, so there is no retailer-side check for Sainsbury's. Tesco's and Co-op's pages carry no event-day notice."
+    }
+  ],
+
+  "sources": [
+    { "url": "https://www.brent.gov.uk/-/media/files/business-documents/licencing/statement-of-licensing-policy---2025-2030.pdf?rev=18ceab9f9de6419badbee8d6ec57a872", "for": "Policy 9 event-day conditions (p.22), appendix 'Major events at Wembley Stadium' (pp.39-40), Policy 11 CIZ, Policy 12 PSPO, Policies 15 and 20 voluntary schemes", "checked": "2026-09-10" },
+    { "url": "https://www.brent.gov.uk/business/licences-and-permits", "for": "Link to the licensing policy", "checked": "2026-09-10" },
+    { "url": "https://www.brent.gov.uk/business/licences-and-permits/alcohol-club-and-entertainment-licences/premises-licence", "for": "Cumulative Impact Zones and the Wembley street lists", "checked": "2026-09-10" },
+    { "url": "https://www.brent.gov.uk/nuisance-crime-and-community-safety/public-spaces-protection-orders", "for": "The five PSPOs, their dates, and penalties", "checked": "2026-09-10" },
+    { "url": "https://www.brent.gov.uk/nuisance-crime-and-community-safety/public-spaces-protection-orders/pspo-large-map", "for": "Wembley Park PSPO prohibitions and map", "checked": "2026-09-10" },
+    { "url": "https://www.brent.gov.uk/-/media/files/resident-documents/nuisances-crime-and-safety-documents/boroughwide-popsc--wp-pspo-extension.pdf?rev=93a91fe083db4d46b4240bdee9162130&hash=98A23E191D306CE5047D253E921C2A6E", "for": "Sealed PSPO text, restricted area, dates, signatory", "checked": "2026-09-10" },
+    { "url": "https://www.brent.gov.uk/-/media/maps/external/wembley_park_pspo.json?rev=1aeb5e849fce4aa69f1fa48011ef967a", "for": "Wembley Park PSPO boundary used for the point-in-polygon tests", "checked": "2026-09-10" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days", "for": "2026 No Street Drinking Zone dates and Brent's bar list", "checked": "2026-09-10" },
+    { "url": "https://web.archive.org/web/20220705055716/https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/match-days", "for": "Brent's own 2022 match-day page with pub allocations by stadium side", "checked": "2026-09-10" },
+    { "url": "https://web.archive.org/web/20230804185625/https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/match-days", "for": "Brent's own 2023 Community Shield page with pub allocations by team", "checked": "2026-09-10" },
+    { "url": "https://web.archive.org/web/20230606202941/https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days", "for": "Brent's own 2023 concert-season page", "checked": "2026-09-10" },
+    { "url": "https://portal.brent.gov.uk/registers/index.html?fa=licence_register", "for": "Licence register: shows hours but not conditions; example entry licence_id=1050 (Capitol Food & Wine)", "checked": "2026-09-10" },
+    { "url": "https://www.legislation.gov.uk/ukpga/2003/17/section/160", "for": "Section 160 area closure orders", "checked": "2026-09-10" },
+    { "url": "https://help.wembleystadium.com/support/solutions/articles/7000073543-public-space-protection-order", "for": "Stadium's account of the no-street-drinking zone", "checked": "2026-09-10" },
+    { "url": "https://help.wembleystadium.com/support/solutions/articles/7000028399-purchasing-alcohol-at-wembley-stadium", "for": "Alcohol rules inside the stadium by event type", "checked": "2026-09-10" },
+    { "url": "https://www.wembleystadium.com/plan-your-visit/stadium-guide/rules-and-regulations", "for": "Ground regulation 15", "checked": "2026-09-10" },
+    { "url": "https://www.wembleystadium.com/events/2026/England-v-Spain", "for": "Competition (UEFA Nations League); likewise the England-v-Czechia and England-v-Croatia pages", "checked": "2026-09-10" },
+    { "url": "https://www.ovoarena.co.uk/your-visit/faqs", "for": "Arena drink, bring-your-own and readmission rules", "checked": "2026-09-10" },
+    { "url": "https://www.whitehorsewembley.co.uk/wembley-stadium-days", "for": "Pub's own football-day rules", "checked": "2026-09-10" },
+    { "url": "https://www.boxpark.co.uk/venues/wembley/blog/closures", "for": "Fanpark dates, hours and happy-hour exclusions", "checked": "2026-09-10" },
+    { "url": "https://skybar9.com/", "for": "Sky Bar 9 hours, walk-in policy and event caveats", "checked": "2026-09-10" },
+    { "url": "https://wembleypark.com/things-to-do/bars-and-pubs-around-wembley-stadium/", "for": "Quintain's own bar list and walking claims", "checked": "2026-09-10" },
+    { "url": "https://api.tfl.gov.uk/Journey/JourneyResults/", "for": "Walking times (mode=walking)", "checked": "2026-09-10" }
+  ]
+}
