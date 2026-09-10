@@ -157,7 +157,7 @@ Then the towpath tightens into its best stretch: low bridges, tunnels under the 
 
 *Limehouse Basin, where the Regent's Canal meets the Thames. The lock down to the river is at the southern corner.*
 
-**Limehouse DLR** is two minutes away, and Canary Wharf is one stop.
+**Limehouse DLR** is two minutes away, and Canary Wharf is one stop. Or walk there: the basin is stop 9 of our [Wapping to Canary Wharf walk](/articles/wapping-canary-wharf-walk/), which finishes along Narrow Street.
 
 ---
 

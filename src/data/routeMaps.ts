@@ -28,6 +28,7 @@ import { stops as kingsCrossCamdenCanalWalk } from "./routes/kings-cross-camden-
 import { stops as canaryWharfGreenwichWalk } from "./routes/canary-wharf-greenwich-walk";
 import { stops as chelseaBelgraviaPlaquesWalk } from "./routes/chelsea-belgravia-plaques-walk";
 import { stops as shoreditchSpitalfieldsWalk } from "./routes/shoreditch-spitalfields-walk";
+import { stops as wappingCanaryWharfWalk } from "./routes/wapping-canary-wharf-walk";
 
 export const routeMaps: Record<string, RouteMapStop[]> = {
   "south-bank-walk": southBankWalk,
@@ -38,9 +39,28 @@ export const routeMaps: Record<string, RouteMapStop[]> = {
   "canary-wharf-greenwich-walk": canaryWharfGreenwichWalk,
   "chelsea-belgravia-plaques-walk": chelseaBelgraviaPlaquesWalk,
   "shoreditch-spitalfields-walk": shoreditchSpitalfieldsWalk,
+  "wapping-canary-wharf-walk": wappingCanaryWharfWalk,
 };
 
 export const routeConnections: Record<string, RouteConnection[]> = {
+  "wapping-canary-wharf-walk": [
+    {
+      slug: "canary-wharf-greenwich-walk",
+      label: "Canary Wharf to Greenwich under the river",
+      where: "Crossrail Place",
+      detail:
+        "This walk ends at the roof garden where that one starts. Carry on south through the foot tunnel. 11 stops, 6.5km.",
+    },
+  ],
+  "canary-wharf-greenwich-walk": [
+    {
+      slug: "wapping-canary-wharf-walk",
+      label: "Wapping to Canary Wharf along the docks",
+      where: "Crossrail Place",
+      detail:
+        "Finishes at the roof garden where this one starts, so walk it first from St Katharine Docks. 11 stops, 6.5km.",
+    },
+  ],
   "south-bank-walk": [
     {
       slug: "city-of-london-walk",

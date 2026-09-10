@@ -21,7 +21,11 @@ area:
   walkability: 4
   timeNeeded: "Two to three hours"
   budget: "££"
-  bestDay: "Any day; sunny afternoons are best for the pub terraces"
+  bestDay: "Any day; Saturday for the market on Shadwell Basin, sunny afternoons for the pub terraces"
+  walkingRoute:
+    slug: "wapping-canary-wharf-walk"
+    label: "Wapping to Canary Wharf along the docks"
+    detail: "11 stops · 6km · 3–4 hours"
   bestFor:
     - Historic pubs
     - River walks
@@ -46,7 +50,7 @@ area:
     - name: "Canary Wharf"
       slug: "canary-wharf-area-guide"
       minutes: 20
-      note: "East along the river path, or two stops on the Overground and DLR."
+      note: "Two stops on the Overground and DLR, or about 6km on foot along our Wapping to Canary Wharf walk."
     - name: "Bermondsey"
       slug: "bermondsey-area-guide"
       minutes: 15
@@ -76,7 +80,7 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 
 **Come here if** you like old pubs and river walks. Wapping has the best concentration of genuinely historic riverside pubs in London, all with terraces over the water, and you can walk the whole area in an hour.
 
-**Skip it if** you want things to do. There is no museum, no gallery and no market. Wapping is a walk and a pub, and it is best combined with the Tower or Bermondsey rather than visited alone.
+**Skip it if** you want things to do. There is no museum and no gallery, and the one market, on Shadwell Basin, runs on Saturdays only. Wapping is a walk and a pub, and it is best combined with the Tower or Bermondsey rather than visited alone.
 
 ## Top sights and activities
 
@@ -85,7 +89,7 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 3. **Execution Dock** — On the foreshore near the Town of Ramsgate. Pirates were hanged here until 1830 with a shortened rope; Captain Kidd died here in 1701. There is no monument, only the replica noose along the river.
 4. **Wapping High Street** — Barely a street: a cobbled canyon of converted warehouses with their original hoist beams and bridges still in place.
 5. **St Katharine Docks** — Fifteen minutes west. A working marina beside the Tower, with yachts, a lock and a run of restaurants.
-6. **Spirit Quay** — A terrace of gabled brick townhouses built around a still dock basin off East Smithfield, perfectly reflected in the water on a calm day. Residential rather than a sight with an entrance, but worth the two-minute detour from St Katharine Docks.
+6. **Spirit Quay** — A terrace of gabled brick townhouses along the western end of the Ornamental Canal, perfectly reflected in the water on a calm day. Residential rather than a sight with an entrance, and about five minutes east of St Katharine Docks.
 7. **Brunel's Thames Tunnel** — The first tunnel ever built under a navigable river, completed 1843. It now carries Overground trains between Wapping and Rotherhithe. The **Brunel Museum** on the far side opens the original shaft.
 8. **Wapping Rose Garden and the Thames Path** — Small riverside gardens with clear views across to Rotherhithe and downstream to Canary Wharf.
 
@@ -95,7 +99,7 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 
 ![A terrace of gabled brick townhouses at Spirit Quay reflected in the still water of a dock basin](../../assets/articles/wapping-area-guide/spirit-quay.jpg)
 
-*Spirit Quay, just off St Katharine Docks. No entrance and no ticket — just a quiet dock worth the short detour.*
+*Spirit Quay, where the Ornamental Canal starts. No entrance and no ticket — just still water and a terrace worth the short walk from St Katharine Docks.*
 
 ![People eating outside a quayside cafe under hanging flower baskets at St Katharine Docks, boats moored alongside](../../assets/articles/wapping-area-guide/st-katharine-docks-quayside.jpg)
 
@@ -135,8 +139,10 @@ An **outdoor activity centre** runs kayaking and sailing on it, so there is usua
 
 **Free to walk round.** The [Ornamental Canal](/articles/hidden-london-secret-places/) runs from here back towards Tobacco Dock, which is the best way to link this to the rest of the area on foot.
 
+**On Saturdays**, Wapping Docklands Market sets up on Brussels Wharf at the basin's river end, across the Glamis Road bridge from the Prospect of Whitby: produce, independent stalls, street food and live music, 10am to 5pm.
+
 ### Tobacco Dock
-North. A **Grade I listed warehouse of 1811**, built to hold imported tobacco and now one of the more striking event spaces in London — brick vaults below, timber and iron above. Two replica sailing ships sit in the dry dock outside.
+North. A **Grade I listed warehouse of 1812**, built to hold imported tobacco and now one of the more striking event spaces in London — brick vaults below, timber and iron above. Two replica sailing ships sit in the dry dock outside.
 
 > ⚠️ **It is not open to the public most of the time.** It trades as a venue, so unless there is a public event on you will be looking at it from the outside. Check what is on before making the walk — the ships and the exterior are visible either way.
 
@@ -169,13 +175,19 @@ North. A **Grade I listed warehouse of 1811**, built to hold imported tobacco an
 | --- | --- |
 | **One hour** | Wapping High Street and one riverside pub |
 | **Two to three hours** | The full walk from Tower Hill through St Katharine Docks to Wapping Wall |
-| **Half a day** | Continue east along the river towards Limehouse and Canary Wharf |
+| **Half a day** | Carry on east through Limehouse to Canary Wharf on the [walking route](/articles/wapping-canary-wharf-walk/) |
 
 **Best time:** A sunny afternoon, for the pub terraces over the water. Low tide exposes the foreshore at Wapping Old Stairs, which is when the Execution Dock site makes most sense.
 
 **Note:** Wapping is genuinely quiet. Some pubs shut earlier here than elsewhere in London — check before a late evening.
 
-## Suggested two-hour route
+## Walking routes
+
+**[A Walk from Wapping to Canary Wharf: Docks, a Canal and the River in Eleven Stops →](/articles/wapping-canary-wharf-walk/)**
+
+Our full route out of this area: **eleven numbered stops** over just under 6km and three to four hours, with a map, a Google Maps walking link and what is open on which day. It starts at **St Katharine Docks**, follows the **Ornamental Canal** past Spirit Quay, Tobacco Dock and Wapping Woods, stops at the **Prospect of Whitby** and the **Saturday market** on Shadwell Basin, crosses Tideway's new **King Edward Memorial Park Foreshore**, and finishes via **Limehouse Basin** and **Narrow Street** at Canary Wharf, where the walk to Greenwich begins.
+
+### The short version, if you only have two hours
 
 1. **Start:** Tower Hill station. East along the river into **St Katharine Docks**.
 2. **Wapping High Street:** Continue east into the warehouse canyon.

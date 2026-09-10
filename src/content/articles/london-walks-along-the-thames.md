@@ -70,6 +70,8 @@ The oldest pubs in London, in order, along the river.
 
 **The route:** Tower Bridge → St Katharine Docks → **The Town of Ramsgate** (a pub here since 1545) → Wapping Old Stairs → **Turner's Old Star** → **The Captain Kidd** → **The Prospect of Whitby** → **The Grapes** in Limehouse.
 
+**[Going on to Canary Wharf? We have that stop by stop →](/articles/wapping-canary-wharf-walk/)** — the **Wapping to Canary Wharf walk**: eleven numbered stops through the docks, the Ornamental Canal, Tideway's new riverside park at Shadwell and Narrow Street, with a map and what is open on which day. It swaps this page's riverside pubs for the water inside Wapping.
+
 ![Yachts moored in St Katharine Docks beside a domed bandstand and the old warehouse buildings](../../assets/articles/london-walks-along-the-thames/st-katharine-docks.jpg)
 
 *St Katharine Docks, five minutes east of Tower Bridge. London's first docks to close, and the first to be rebuilt as a marina.*
