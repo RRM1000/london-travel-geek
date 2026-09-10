@@ -85,13 +85,19 @@ Table barbecue is the format: **galbi** — marinated short rib — and pork bel
 
 **£££, book a few days ahead** for a weekend table. Named by four independent sources, more than either of London's Michelin-starred Korean restaurants.
 
-![The frontage of a Korean restaurant on a New Malden street](../../assets/articles/best-korean-restaurants-london/korean-restaurant-new-malden.jpg)
+![Seafood grilling on a sunken table grill at Jin Go Gae - squid, a razor clam, mussels and a whole prawn with sliced garlic, ringed by banchan, pickled vegetables and a bowl of kimchi](../../assets/articles/best-korean-restaurants-london/jin-go-gae-seafood-grill.jpg)
+
+*The grill is not only for galbi and pork belly — squid, razor clams, mussels and prawns go on it too, and the banchan arrives regardless.*
 *New Malden has one of the largest Korean communities in Europe, and its high street reflects it. Photo: [sludgegulper](https://commons.wikimedia.org/wiki/File:Korean_Restaurant,_New_Malden_KT3.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Imone, New Malden High Street
 
-*££ · family-run* · Cited by 4 sources
+*££ · family-run* · Cited by 4 sources
+
+![A cast-iron platter of sizzling beef bulgogi with onion, spring onion and sesame at Imone, with bowls of cabbage kimchi, seasoned bean sprouts and cubed radish kimchi beside it](../../assets/articles/best-korean-restaurants-london/imone-bulgogi.jpg)
+
+*The banchan comes unasked and gets refilled — three bowls here for one plate of bulgogi.*
 
 **A small family-run room on New Malden high street**, and the one locals send you to — strong on seafood, and with **halal chicken options** that most Korean kitchens do not offer.
 
@@ -114,7 +120,11 @@ Grilled meats at the table and a long list of **jjigae** — the bubbling stews 
 
 ### Cah Chi, Kingston Road
 
-*££ · long-standing local favourite* · Cited by 2 sources
+*££ · long-standing local favourite* · Cited by 2 sources
+
+![Marinated and plain beef cooking on a domed table grill at Cah Chi, with a wooden box of three kimchis, a bowl of purple rice, dipping sauces and a bowl of spring onion salad](../../assets/articles/best-korean-restaurants-london/cah-chi-table-grill.jpg)
+
+*It does the barbecue too, but the stews are what people come back for.*
 
 One of the **oldest Korean restaurants in New Malden**, family-run and considerably plainer than the newer grills — the room people go to for the stews rather than the barbecue.
 
@@ -168,7 +178,11 @@ Korean fried chicken done the same double-fried way as its neighbours, in plain,
 
 ### Olle, Soho
 
-*£££ · 3 min from Leicester Square* · Cited by 3 sources
+*£££ · 3 min from Leicester Square* · Cited by 3 sources
+
+![Heavily marbled raw beef laid out on a domed grill at Olle, with a boat-shaped tray of kimchi and pickled cucumber, a plate of egg fried rice and a plate of fried chicken](../../assets/articles/best-korean-restaurants-london/olle-marbled-beef.jpg)
+
+*The marbling is the argument for the price. Fried rice and fried chicken come alongside rather than instead.*
 
 **Table grills in the middle of Soho**, so the New Malden format without the forty-minute train — which is the entire argument for it and a reasonable one.
 
@@ -178,7 +192,11 @@ Charcoal barbecue at the table: **marinated galbi**, pork belly and brisket cook
 
 ### Pochawa Grill, Chinatown
 
-*£££ · 3 min from Piccadilly Circus* · Cited by 2 sources
+*£££ · 3 min from Piccadilly Circus* · Cited by 2 sources
+
+![A table at Pochawa Grill under pink and blue neon, an extractor hood over the grill, a steel platter of raw marinated beef and rolled pork belly, and a bowl of kimchi fried rice topped with a fried egg](../../assets/articles/best-korean-restaurants-london/pochawa-grill-table.jpg)
+
+*The neon is not a filter. Kimchi fried rice with an egg on top is the thing to order once the grilling is done.*
 
 **A neon-pink Korean pub format dropped into Chinatown** — a *pojangmacha*, the street-tent drinking spot, rebuilt indoors. You grill at the table and the room is built for a night rather than a meal.
 
