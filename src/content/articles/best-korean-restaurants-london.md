@@ -75,6 +75,10 @@ Thirty minutes from Waterloo, and the reason to make the trip.
 
 The restaurants run along **three streets** rather than one: New Malden High Street, Burlington Road and Kingston Road. Thirty minutes from Waterloo, and the reason to make the trip.
 
+![The HanJan bar and karaoke sign above a Korean-run unit on a New Malden street, a Tesco next door and a chalkboard of offers in the window](../../assets/articles/best-korean-restaurants-london/hanjan-new-malden.jpg)
+
+*Burlington Road and the High Street carry most of it — the train from Waterloo takes about half an hour. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:HanJan,_New_Malden,_KT3.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ### Jin Go Gae, Burlington Road
 
 *£££ · charcoal, not gas* · Cited by 4 sources
@@ -170,10 +174,6 @@ Korean fried chicken done the same double-fried way as its neighbours, in plain,
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-korean-restaurants-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Central
-
-![HanJan, a Korean restaurant in New Malden](../../assets/articles/best-korean-restaurants-london/hanjan-new-malden.jpg)
-
-*Burlington Road and the High Street carry most of it — the train from Waterloo takes about half an hour. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:HanJan,_New_Malden,_KT3.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### Olle, Soho
 
