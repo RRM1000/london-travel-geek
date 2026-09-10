@@ -380,9 +380,9 @@ When it is open, Boxpark runs **09:00 to 23:00 seven days a week** with more tha
 
 *The London Designer Outlet, ten minutes from Wembley Park station. Over 70 stores, and the balcony banner above the doors names most of the restaurants — Las Iguanas, JRC Global Buffet, Frankie & Benny's, Afrikana, Big Moe's Diner.*
 
-### The London Designer Outlet does not stay open for you
+### The London Designer Outlet keeps normal hours
 
-**LDO does not extend its hours for stadium events.** On the Wednesday of the Bon Jovi concert the centre shut at 20:00 as usual, and on the Saturday of the Diljit Dosanjh show it shut at 21:00 as usual. Only the restaurants trade later, and they run their own hours.
+**LDO opens as normal on event days.** The restaurants keep their own, later hours.
 
 | Day | Centre hours |
 | --- | --- |
