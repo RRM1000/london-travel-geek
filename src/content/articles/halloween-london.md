@@ -30,7 +30,7 @@ heroImageAlt: "The cast of Beetlejuice taking their curtain call at the Prince E
 
 ---
 
-> 🧭 **Plan the rest of it:** [Bonfire Night, the week after](/articles/bonfire-night-london/) · [Immersive experiences](/articles/immersive-experiences-london/) · [London theatre guide](/articles/london-theatre-guide/)
+> 🧭 **Plan the rest of it:** [Bonfire Night, the week after](/articles/bonfire-night-london/) · [Immersive experiences](/articles/immersive-experiences-london/) · [London theatre guide](/articles/london-theatre-guide/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/)
 
 ## Scare attractions
 

@@ -48,7 +48,7 @@ The part that catches people out is the calendar. **The programme is out — it 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Cheap cinema tickets](/articles/cinema-deals-london/) · [Best independent cinemas](/articles/best-cinemas-london/) · [Late-night eating](/articles/late-night-eating-london/)
+> 🧭 **Plan the rest of it:** [Cheap cinema tickets](/articles/cinema-deals-london/) · [Best independent cinemas](/articles/best-cinemas-london/) · [Late-night eating](/articles/late-night-eating-london/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/)
 
 ## The dates that matter
 
