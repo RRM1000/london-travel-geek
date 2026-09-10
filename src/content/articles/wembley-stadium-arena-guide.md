@@ -293,15 +293,13 @@ Everything here is a few minutes from both venues.
 
 When it is open: **09:00 to 23:00 daily**, more than twenty kitchens — Zia Lucia, The Athenian, Neat Burger, Molo Fish & Chips and others — and a sports bar. The 17:00–20:00 weekday happy hour does not apply on Fanpark, arena or televised England nights.
 
-### Coffee and fast food
+### Fast food
 
 ![Greggs and Slim Chickens side by side on the ground floor of a modern block, with red umbrellas and outdoor tables in front](../../assets/articles/wembley-stadium-arena-guide/greggs-slim-chickens.jpg)
 
 *Greggs and Slim Chickens, next door to each other near the London Designer Outlet.*
 
 Outside Boxpark, the quick options are **Greggs** and **Slim Chickens**, side by side near the outlet, plus **Five Guys** and **itsu** on the estate. Inside LDO there is **Nando's** (11:30–22:00 every day), **Subway** (from 06:00) and **Beirut Wonders** for shawarma and falafel.
-
-For coffee, **Black Sheep Coffee** has branches on White Horse Square and in LDO; the LDO one is open 06:00–21:00 on weekdays and serves cocktails and cans too. **Costa** and the Greek bakery **Opa!**, both in LDO, open at 06:30 on weekdays. **Pret** shuts by 18:30 on weekdays, too early for an evening event.
 
 On event days, temporary fast-food stalls go up outside the ground, and there are more inside. **Eat before you go in** — the food inside the stadium is not very good.
 
