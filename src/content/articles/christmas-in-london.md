@@ -30,6 +30,8 @@ heroImageAlt: "Covent Garden's illuminated Christmas tree at night in the Piazza
 
 ---
 
+> 🧭 **Plan the rest of it:** [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
+
 ## Hyde Park Winter Wonderland
 
 ![The Bavarian-style entrance gate to Hyde Park Winter Wonderland, with a working clock tower and illuminated stars above the "Hyde Park Winter Wonderland" sign](../../assets/articles/christmas-in-london/winter-wonderland-entrance-gate.jpg)

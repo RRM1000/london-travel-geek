@@ -48,6 +48,8 @@ The part that catches people out is the calendar. **The programme is out — it 
 
 ---
 
+> 🧭 **Plan the rest of it:** [Cheap cinema tickets](/articles/cinema-deals-london/) · [Best independent cinemas](/articles/best-cinemas-london/) · [Late-night eating](/articles/late-night-eating-london/)
+
 ## The dates that matter
 
 | Date | Time | What happens |

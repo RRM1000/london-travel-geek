@@ -56,6 +56,8 @@ There are a small number of legitimate ways in, and the All England Club control
 
 ---
 
+> 🧭 **Plan the rest of it:** [Where to stay in London](/articles/best-areas-to-stay-in-london/) · [Getting around London](/articles/getting-around-london-transport-guide/) · [Transport costs and fares](/articles/london-public-transport-costs-and-fares/)
+
 ## The dates you need for 2027
 
 | What | When | Notes |

@@ -30,6 +30,8 @@ heroImageAlt: "The cast of Beetlejuice taking their curtain call at the Prince E
 
 ---
 
+> 🧭 **Plan the rest of it:** [Bonfire Night, the week after](/articles/bonfire-night-london/) · [Immersive experiences](/articles/immersive-experiences-london/) · [London theatre guide](/articles/london-theatre-guide/)
+
 ## Scare attractions
 
 Most of London's big scare attractions are a train ride out — Thorpe Park and Chessington are in Surrey, Tulleys is in Sussex. If you want a proper scare without leaving the city, there is now one option.

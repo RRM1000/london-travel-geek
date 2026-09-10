@@ -36,6 +36,8 @@ That gap between the two is the whole thing. Half a million £1 tickets get peop
 
 ---
 
+> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
+
 ## The short version
 
 - **Dates:** 19 November 2026 – 3 January 2027. **Closed Christmas Day only** — last year it also shut on three November dates, and this year it does not.
