@@ -59,8 +59,6 @@ Two stops from Baker Street on the Metropolitan, and on the Jubilee. You come ou
 
 One stop and about ten minutes from **Marylebone** on Chiltern. On event days it is staffed, with extra trains and colour-coded queues. Oyster and contactless work; it is Zone 4.
 
-> ⚠️ **Step-free is awkward here.** The route between the platforms runs via the street, about 300m, and the platform lifts were out of order on 9 September 2026. Book assistance two hours ahead on **03456 005 165** (07:00–20:00 daily).
-
 ### Wembley Central: the long walk with the best connections
 
 A **15 to 20 minute** walk (1.25km), or buses **18, 92 and 182**. It is on the **Bakerloo** and the **Overground** from Watford Junction to Euston, so from Paddington or Euston it can beat Wembley Park door to door. Step-free means street to platform only: there is a step up into the train on both lines.
