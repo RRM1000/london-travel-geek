@@ -76,6 +76,8 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 **The front desk line is the one to read twice.** Zedwell staffs reception around the clock. Otherwander and The GreenHouse have no front desk at all — you complete registration online, and a smart-lock code or access code arrives by email in the 24 hours before you arrive. That is fine when it works and a problem at midnight when it does not.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The rules that catch people out
 
 **Zedwell does not give you a lock.** The capsule closes with a catch on the inside, so you are secure while you are in it — but if you want it locked while you are *out*, you have to supply that yourself. Either **bring a 38mm padlock** or **buy one on site for £8** from a vending machine. There is no third option and nothing is issued at check-in, so arriving without one means paying the £8 or leaving your capsule open all day. Otherwander and The GreenHouse do not work this way: their entry is a smart lock and an access code respectively.
@@ -101,7 +103,7 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 **Entire dormitories can be booked out.** Leicester Place's rooms run from 3 to 100 capsules, so a group can take a small one and have it to themselves — the cheapest way for six or eight people to sleep together in the West End.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What it costs
 
@@ -186,7 +188,7 @@ It is very small — eight units — with no front desk and entry by access code
 
 The problem is arithmetic: **£42 in Zone 2 against £33 in Zone 1** on a quiet night. It earns its place in December, when Zedwell climbs and this does not.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What gets miscalled a capsule hotel
 

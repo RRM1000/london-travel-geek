@@ -275,7 +275,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **If you are not here on a Sunday**, run it the other way: **Borough Market** (closed Mondays), **Seven Dials Market**, and **Maltby Street** on a Saturday.
 
-**[The full markets guide →](/articles/best-london-markets/)** · **[Street food and food halls →](/articles/best-street-food-london/)**
+**[The full markets guide →](/articles/best-london-markets/)** · **[Street food and food halls →](/articles/best-street-food-london/)** · **[This day as a numbered walking route →](/articles/shoreditch-spitalfields-walk/)**
 
 ---
 

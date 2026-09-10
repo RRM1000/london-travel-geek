@@ -100,6 +100,8 @@ This is the question the category answers worst, because "female dorm" on a book
 
 **In a private room, check twice.** Astor's doubles and twins are en-suite. Kabannas' Nest is en-suite with air conditioning. YHA sells private rooms *and* private en-suite rooms as separate products, and its standard private room has a wash basin in the room with the shower down the hall. Barmy Badger's private double has a washbasin and a shared bathroom. Onefam's private twin and Urbany's private double are both shared-bathroom.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Age limits, the thing that catches people out
 
 Nobody expects a hostel to have an upper age limit. Three here do.
@@ -280,8 +282,6 @@ It draws the most enthusiastic writing of any hostel in our community research �
 **Half the rooms are en-suite and half use shared bathrooms, some with full-size baths.** Private rooms have two single beds. A kitchenette with an induction hob, a real coffee machine, fridges and a combination microwave-grill-oven; free superfast Wi-Fi, free shower gel and soap, free left luggage, coin-operated laundry, a lounge. Continental breakfast £5 a day, parking £10 a day, towels £5 once with free exchange. Two Zipcars outside the door.
 
 The operator calls it "a very small hostel" and caps groups at eight. It welcomes families, but **under-10s cannot use a dorm at all** and need a private family room with an adult. Mile End is a good Tube location and a walk to very little.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ### The Walrus
 

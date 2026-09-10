@@ -230,6 +230,8 @@ The densest concentration in London, and it changes month to month. **Rivington 
 
 **Sunday is the day.** Brick Lane, Columbia Road and Spitalfields markets all run, the streets fill, and the area is at its best. Shoreditch High Street and Liverpool Street are both a few minutes' walk.
 
+**[Our numbered Shoreditch and Spitalfields walking route →](/articles/shoreditch-spitalfields-walk/)** takes in both mural clusters with a map and a day-by-day table of what is open.
+
 ### Hackney Wick
 
 *Free · canal towpath · open at all hours*

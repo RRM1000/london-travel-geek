@@ -88,8 +88,6 @@ Evenings are the thin part. Bloomsbury is academic and residential, so it goes q
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Nightlife and going out
 
 Stay where the night is, or stay ten minutes from it. The in-between gives you the noise without the short walk home. And the areas with the best nights out are the hardest to sleep in, because they are the same streets.
@@ -125,6 +123,8 @@ Food after midnight is better here than anywhere else in London. **Beigel Bake o
 **[Batty Langley's](hotel:batty-langleys)** is about £230 on cobbled Folgate Street, all dark walls, silk curtains and oil paintings, and next door to Dennis Severs' House. **It has no lift and no air conditioning** — a genuine problem in July or with a heavy case, and the price of a real Georgian building. **[Leman Locke](hotel:leman-locke)** is the studio-with-a-kitchen option, five minutes from Aldgate East, and the one that started the aparthotel format in London.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Museums, and going with children
 
@@ -162,8 +162,6 @@ A maritime village with the Cutty Sark, the Old Royal Naval College, the Nationa
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## On a budget
 
 The cheapest beds in London are in Zone 1, and they are cheap because the room is small rather than because the postcode is bad. Moving outwards only pays when the saving is large enough to survive the travelling.
@@ -199,6 +197,8 @@ The cheapest rooms in this guide, and the only outer-zone entry that earns its p
 The rest of the time, be honest about the maths. It is Zone 4: the daily fare cap rises to £12.80 against £8.90 for Zones 1–2, and Wembley Park is ten Jubilee line stops from Bond Street, each way, every day. **[ibis London Wembley](hotel:ibis-london-wembley)** is about £75 and under a five-minute walk from the stadium. **[Novotel London Wembley](hotel:novotel-london-wembley)** is about £120 on Olympic Way, has parking, and sells out months ahead for the big events.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Quiet and residential
 
@@ -236,8 +236,6 @@ A hilltop village with the Heath attached, swimming ponds, Kenwood House and vie
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Arriving late, or leaving early
 
 If a flight or a Eurostar bookends the trip, choose the base around the station rather than the sights, at least for that night.
@@ -274,7 +272,7 @@ The best airport base in London by a distance. **Heathrow Express is 15 minutes 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The mistakes people make choosing a base
 

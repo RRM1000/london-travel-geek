@@ -193,7 +193,7 @@ A short street market off Camden High Street, west of the crowds — produce, st
 
 *Most days*
 
-A covered Victorian market hall of 1887, restored and now half market and half restaurants, with **a different theme on different days**: antiques on Thursday, vintage on Friday, and a general mix of independent traders, art and fashion the rest of the week.
+A covered Victorian market hall of 1887, restored and now half market and half restaurants, with **a different theme on different days**: antiques on Thursday, when the hall opens early at 8am; **records on the first and third Friday of the month** rather than every Friday; makers on Wednesday; and a general mix of independent traders, art and fashion the rest of the week.
 
 **Check the day against what you want.** Turning up on a Thursday hoping for vintage clothes gets you a hall of dealers' antiques instead, and the two crowds barely overlap.
 
@@ -237,7 +237,7 @@ On Sundays the whole stretch turns into a patchwork of markets — **Upmarket, B
 
 **The Brick Lane Vintage Market itself runs seven days a week**, in the basement at F Block, 85 Brick Lane: Mon–Fri 11am–6.30pm, Sat 11am–6pm, Sun 10am–6pm. It is the biggest vintage market in London and covers the 1920s to the 1990s — so if you only want the clothes and records, **come on a weekday** and skip the crowds entirely.
 
-Go early on a Sunday if you want the vintage, late if you want the food.
+Go early on a Sunday if you want the vintage, late if you want the food. **[Our Shoreditch and Spitalfields walking route →](/articles/shoreditch-spitalfields-walk/)** strings Columbia Road, Brick Lane, Spitalfields and Petticoat Lane into one numbered walk with the days set out stop by stop.
 
 ![A pink-painted entrance lit by vertical neon tubes, signed Huge Vintage Clothing Market Downstairs, on Brick Lane](../../assets/articles/best-london-markets/brick-lane-vintage-market.jpg)
 
