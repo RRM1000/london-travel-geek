@@ -131,6 +131,7 @@ It adds **2,600 square metres** to King Edward Memorial Park: terraces stepping 
 > ⚠️ **Part of it floods by design.** On higher tides the river overtops the wall onto the western end of the lower walkway. Tideway calls that the chance to dip your toes in the Thames; if you are here at high water, it means using the upper terrace.
 
 ## 8. The Yurt Café
+![Inside the Yurt Café: a round timber-ribbed ceiling hung with lights and flowers, wooden tables on a patterned rug and the counter at the back](../../assets/articles/wapping-canary-wharf-walk/yurt-cafe.jpg)
 
 **A café inside an actual Mongolian yurt**, in the grounds of the Royal Foundation of St Katharine on Butcher Row. The charity has been on the site since 1950, opened the café in 2016 and runs it as a social enterprise.
 
@@ -140,7 +141,7 @@ It does breakfast, brunch and lunch: a full English, focaccias, soups and Missio
 
 ## 9. Limehouse Basin
 
-![Narrowboats and cruisers moored in Limehouse Basin, surrounded by brick apartment buildings](../../assets/articles/wapping-canary-wharf-walk/limehouse-basin-narrowboats.jpg)
+![Limehouse Basin on a bright afternoon, narrowboats and cruisers moored along the pontoons and brick warehouse flats around the water](../../assets/articles/wapping-canary-wharf-walk/limehouse-basin.jpg)
 
 **Where the Regent's Canal reaches the Thames.** Once the busiest freight interchange in London, it is now a marina ringed with flats, with narrowboats and yachts side by side.
 
@@ -158,9 +159,9 @@ Walk the south side to the lock, where the basin drops to the river, and come ou
 
 ## 11. Into Canary Wharf
 
-![Inside the Crossrail Place Roof Garden, with dense planting beneath a triangulated timber and glass roof](../../assets/articles/wapping-canary-wharf-walk/crossrail-place-roof-garden.jpg)
+![Crossrail Place rising out of the dock at Canary Wharf, its curved timber lattice roof in front of the glass office towers](../../assets/articles/wapping-canary-wharf-walk/crossrail-place-dock.jpg)
 
-*The finish, and the first stop of the walk to Greenwich.*
+*Crossrail Place and the towers of Canary Wharf: the finish, and the first stop of the walk to Greenwich.*
 
 About 1.5km: past Westferry Circus and along the dock edge to **Crossrail Place**, whose free roof garden sits on top of the Elizabeth line station.
 
