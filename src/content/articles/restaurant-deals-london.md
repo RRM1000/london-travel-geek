@@ -1,6 +1,6 @@
 ---
 title: "London Restaurant Deals: Set Lunch and Pre-Theatre Menus"
-seoTitle: "London Restaurant Deals 2026: Set Lunch & Pre-Theatre Prices"
+seoTitle: "London Restaurant Deals 2026: Set Lunch & Pre-Theatre"
 description: "Verified fixed-price menus across London — set lunch, pre-theatre and early evening — from £12.50 to Michelin-starred, with the real prices, the days and times they run, and what the same food costs at dinner."
 publishedAt: 2026-09-01
 updatedAt: 2026-09-01

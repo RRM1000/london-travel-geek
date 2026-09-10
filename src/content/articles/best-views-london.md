@@ -1,6 +1,6 @@
 ---
 title: "The Best Views in London: 38 Viewpoints, Most of Them Free"
-seoTitle: "Best Views in London 2026: Free Viewpoints & Rooftops Compared"
+seoTitle: "Best Views in London 2026: Free Viewpoints & Rooftops"
 description: "The free City viewpoint that is higher than The Shard, a keyhole through a hedge in Richmond Park aimed at St Paul's ten miles away, and the protected panoramas with their own Act of Parliament."
 heroImage: "../../assets/articles/best-views-london/best-views-london.jpg"
 heroImageAlt: "The River Thames and the City of London skyline seen from above"

@@ -1,6 +1,6 @@
 ---
 title: "The Best Korean Restaurants in London and New Malden"
-seoTitle: "Best Korean Restaurants London 2026: New Malden & Central"
+seoTitle: "Best Korean Restaurants London 2026: New Malden & More"
 description: "One of Europe's largest Korean communities is thirty minutes from Waterloo — charcoal grills, fried chicken and home cooking along three New Malden streets, plus the central options."
 heroImage: "../../assets/articles/best-korean-restaurants-london/best-korean-restaurants-london.jpg"
 heroImageAlt: "Meat flaming on a Korean barbecue grill surrounded by dishes of banchan"

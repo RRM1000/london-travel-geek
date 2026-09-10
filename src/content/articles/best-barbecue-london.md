@@ -1,6 +1,6 @@
 ---
 title: "The Best Barbecue in London, Cross-Referenced Across Every Major List"
-seoTitle: "Best Barbecue London 2026: Ranked Across Every Major List"
+seoTitle: "Best Barbecue London 2026: Ranked Across Major Lists"
 description: "Fifteen independent sources, no judged award, and a search for the best brisket in London that returns no journalism at all. What each smokehouse actually cooks, and when they are shut."
 heroImage: "../../assets/articles/best-barbecue-london/smokestak-hero.jpg"
 heroImageAlt: "A tray of sliced beef brisket with a black bark and a pink smoke ring, glazed pork ribs and pulled pork, with pickles and a pot of sauce on a wooden table"

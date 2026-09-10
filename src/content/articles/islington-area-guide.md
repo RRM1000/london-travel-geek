@@ -1,6 +1,6 @@
 ---
 title: "Islington Area Guide: Upper Street, Camden Passage and the Canal"
-seoTitle: "Islington Guide: Upper Street, Camden Passage & Theatres"
+seoTitle: "Islington Guide: Upper Street & Camden Passage"
 description: "A complete Islington guide: Camden Passage antiques, Upper Street dining, the Angel canal tunnel, Sadler's Wells and the small theatres worth booking."
 publishedAt: 2026-08-16
 updatedAt: 2026-08-16

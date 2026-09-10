@@ -1,6 +1,6 @@
 ---
 title: "Hen Do in London (2026): Activities, Prices, Where to Stay and How to Plan It"
-seoTitle: "Hen Do London 2026: Real Prices, Group Rules, Where to Stay"
+seoTitle: "Hen Do London 2026: Real Prices, Rules & Where to Stay"
 description: "Three London cocktail bars refuse hen parties outright, Flight Club will not take fewer than six on a Saturday, and a speedboat for twelve costs less per head than a public sailing. Priced from the operators' own sites."
 publishedAt: 2026-09-03
 updatedAt: 2026-09-03

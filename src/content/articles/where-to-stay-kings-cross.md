@@ -1,6 +1,6 @@
 ---
 title: "Where to Stay in King's Cross and St Pancras"
-seoTitle: "Where to Stay in King's Cross & St Pancras 2026: Hotels Compared"
+seoTitle: "Where to Stay in King's Cross & St Pancras 2026"
 description: "Eurostar wants you inside St Pancras 75 minutes before departure and the first Tube is 05:29. King's Cross hotels compared, plus the cheaper areas just outside."
 publishedAt: 2026-09-08
 updatedAt: 2026-09-09

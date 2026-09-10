@@ -1,6 +1,6 @@
 ---
 title: "South Kensington Area Guide: The Museum Quarter and Exhibition Road"
-seoTitle: "South Kensington Guide: Museums, Free Entry & Best Times"
+seoTitle: "South Kensington Guide: Free Museums & Best Times"
 description: "A complete South Kensington guide: the three free museums, the tunnel from the station, when to book timed entry, and how to avoid museum fatigue."
 publishedAt: 2026-07-28
 updatedAt: 2026-09-08

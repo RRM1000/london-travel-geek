@@ -1,6 +1,6 @@
 ---
 title: "Best Areas to Stay in London: Where to Sleep, Not Where to Visit"
-seoTitle: "Best Areas to Stay in London 2026: Compared by Trip Type"
+seoTitle: "Best Areas to Stay in London 2026: By Trip Type"
 description: "The area you most want to visit is often the worst one to sleep in. London's areas compared on what a room costs, how much you can walk to, and what is open in the evening."
 heroImage: "../../assets/articles/best-areas-to-stay-in-london/covent-garden-piazza-aerial.jpg"
 heroImageAlt: "Covent Garden piazza seen from above in late afternoon light: the glass-roofed market building and its colonnade, cafe umbrellas and crowds on the cobbles below, and central London rooftops stretching away behind"

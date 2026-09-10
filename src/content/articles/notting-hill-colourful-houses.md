@@ -1,6 +1,6 @@
 ---
 title: "Notting Hill's Colourful Houses: Which Streets Actually Have Them"
-seoTitle: "Notting Hill Colourful Houses: Best Streets + Walking Route Map"
+seoTitle: "Notting Hill Colourful Houses: Best Streets + Map"
 description: "The pastel streets are not on Portobello Road. A walking route through the eleven streets that actually have the colour, plus where the cherry blossom is in spring."
 heroImage: "../../assets/articles/notting-hill-colourful-houses/hillgate-place-corner.jpg"
 heroImageAlt: "A corner terrace of small houses on Hillgate Place painted pale blue, red, cream and yellow under a clear sky"

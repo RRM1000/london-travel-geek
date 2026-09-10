@@ -1,6 +1,6 @@
 ---
 title: "The Best Seafood Restaurants in London, Cross-Referenced Across Every Major Guide and Award of the Year"
-seoTitle: "Best Seafood Restaurants London 2026: Ranked by Consensus"
+seoTitle: "Best Seafood Restaurants in London 2026, Ranked"
 description: "Not our opinion. Every restaurant here is ranked by how many independent guides, awards and reviewers name it — from 1742 oyster houses to £2 happy hours."
 heroImage: "../../assets/articles/best-seafood-restaurants-london/best-seafood-restaurants-london.jpg"
 heroImageAlt: "Crates of fish on ice at Billingsgate Fish Market in London before dawn"

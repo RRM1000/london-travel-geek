@@ -1,6 +1,6 @@
 ---
 title: "Christmas in London: Markets, Lights and Winter Wonderland"
-seoTitle: "Christmas in London 2026: Markets, Lights & Winter Wonderland"
+seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market worth knowing about, the best streets for lights, the ice rinks and light trails still running - and the ones that have quietly stopped."
 publishedAt: 2026-08-29
 updatedAt: 2026-09-01

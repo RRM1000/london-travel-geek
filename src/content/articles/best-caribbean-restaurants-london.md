@@ -1,6 +1,6 @@
 ---
 title: "The Best Caribbean Restaurants in London, Cross-Referenced Across Every Major List"
-seoTitle: "Best Caribbean Restaurants London 2026: Ranked Across Every Major List"
+seoTitle: "Best Caribbean Restaurants in London 2026, Ranked"
 description: "Thirteen independent sources across 83 venues — and the reason a guide built only on magazines gets this subject wrong. Trinidadian, Jamaican, Guyanese and where each one actually is."
 heroImage: "../../assets/articles/best-caribbean-restaurants-london/fish-wings-tings-hero.jpg"
 heroImageAlt: "The counter at Fish, Wings & Tings in Brixton Village, yellow and green signage above an open kitchen with two chefs working, and a chalkboard listing jerk chicken, rotis and cod fish fritters"

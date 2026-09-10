@@ -1,6 +1,6 @@
 ---
 title: "Where to Stay in Soho and the West End"
-seoTitle: "Where to Stay in Soho & the West End 2026: Hotels and Prices"
+seoTitle: "Where to Stay in Soho & the West End 2026"
 description: "West End hotels compared — including the windowless rooms that make Piccadilly Circus cheaper than its reputation — plus the quieter areas five minutes out."
 heroImage: "../../assets/articles/where-to-stay-soho-west-end/the-devonshire-soho.jpg"
 heroImageAlt: "The Devonshire on the corner of Denman Street in Soho: a red-brick Victorian pub with dark green tiling and gold lettering reading 'Ales, stouts, wines and spirits, Soho since 1793', ivy along the ground floor and a planted roof terrace above, with a modern glass office building rising behind it"

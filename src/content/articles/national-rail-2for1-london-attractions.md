@@ -1,6 +1,6 @@
 ---
 title: "National Rail 2FOR1: How to Actually Get Two-for-One on London Attractions"
-seoTitle: "National Rail 2FOR1 London 2026: Rules, Attractions & Catches"
+seoTitle: "National Rail 2FOR1 London 2026: Rules & Attractions"
 description: "The 2FOR1 scheme explained properly — why Oyster and contactless do not qualify, which attractions are included, which ones are only a third off, and when it is not worth the trouble."
 publishedAt: 2026-09-01
 updatedAt: 2026-09-01

@@ -1,6 +1,6 @@
 ---
 title: "The Best Dim Sum in London: 15 Rooms Compared"
-seoTitle: "Best Dim Sum London 2026: Chinatown to Two Michelin Stars"
+seoTitle: "Best Dim Sum London 2026: Chinatown to Michelin Stars"
 description: "London dim sum from a two-starred kitchen in Victoria to a Chinatown room doing it the trolley-era way — with which serve all day and which are half the price."
 heroImage: "../../assets/articles/best-dim-sum-london/best-dim-sum-london.jpg"
 heroImageAlt: "Bamboo steamers of prawn dumplings and other dim sum on a dark table"

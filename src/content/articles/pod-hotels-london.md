@@ -1,6 +1,6 @@
 ---
 title: "London's Capsule Hotels: What a Night in One Is Really Like"
-seoTitle: "Capsule Hotels London 2026: All Five Compared, With Prices"
+seoTitle: "Capsule Hotels London 2026: All Five Compared"
 description: "London has five real capsule hotels, not the eleven the listicles claim. What the berth is like, what's shared, the rules nobody mentions, and which one to book."
 heroImage: "../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg"
 heroImageAlt: "A corridor of sleeping capsules at a Zedwell capsule hotel, lit strips along the floor and signage reading Cocoon 5.163-5.164 and Toilets Showers"

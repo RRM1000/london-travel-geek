@@ -1,6 +1,6 @@
 ---
 title: "City of London Area Guide: St Paul's, the Tower and the Square Mile"
-seoTitle: "City of London Guide: St Paul's, Tower & Free Skyline Views"
+seoTitle: "City of London Guide: St Paul's, Tower & Free Views"
 description: "Half a million people work in the Square Mile and about eight thousand live there, which makes it a crush on a weekday and empty on a Sunday morning. St Paul's, the Tower, the Roman remains and the skyline viewpoints that cost nothing."
 publishedAt: 2026-07-28
 updatedAt: 2026-08-16

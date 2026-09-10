@@ -1,6 +1,6 @@
 ---
 title: "The Best Japanese Restaurants in London: Omakase to Ramen"
-seoTitle: "Best Japanese Restaurants London 2026: Sushi, Ramen & Omakase"
+seoTitle: "Best Japanese Restaurants London 2026: Sushi to Omakase"
 description: "London's Japanese restaurants by format — seven-seat omakase counters, charcoal yakitori, izakaya small plates and ramen — with what each actually costs."
 heroImage: "../../assets/articles/best-japanese-restaurants-london/best-japanese-restaurants-london.jpg"
 heroImageAlt: "The counter of a Japanese restaurant with stacked plates and handwritten menu boards"

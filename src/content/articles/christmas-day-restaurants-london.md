@@ -1,6 +1,6 @@
 ---
 title: "Christmas Dinner in London: Where to Eat on Christmas Day"
-seoTitle: "Christmas Day Restaurants London 2026: Where to Eat and What It Costs"
+seoTitle: "Christmas Day Restaurants London 2026: What It Costs"
 description: "Almost nothing opens on 25 December, and no transport runs to get you there. What actually opens, what the price bands buy, and why booking is non-refundable."
 publishedAt: 2026-09-04
 updatedAt: 2026-09-04

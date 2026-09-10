@@ -2,6 +2,10 @@ import { defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 import { z } from "astro/zod";
 
+// Longest seoTitle (or title) a published article may have. See the check
+// at the end of the articles schema.
+const SEO_TITLE_MAX = 55;
+
 const articles = defineCollection({
   loader: glob({
     base: "./src/content/articles",
@@ -74,6 +78,19 @@ const articles = defineCollection({
       heroImageSource: z.url().optional(),
       heroImageLicense: z.string().optional(),
       heroImageLicenseUrl: z.url().optional(),
+    })
+    // Google shows about 600px of a title - roughly 55 characters - and cuts
+    // the rest. The result uses seoTitle, or title when there is none.
+    .superRefine((data, ctx) => {
+      const shown = data.seoTitle ?? data.title;
+      const length = [...shown].length;
+      if (!data.draft && length > SEO_TITLE_MAX) {
+        ctx.addIssue({
+          code: "custom",
+          path: [data.seoTitle ? "seoTitle" : "title"],
+          message: `${length} characters, and Google cuts titles after about ${SEO_TITLE_MAX}. Shorten it: "${shown}"`,
+        });
+      }
     }),
 });
 

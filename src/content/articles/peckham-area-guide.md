@@ -1,6 +1,6 @@
 ---
 title: "Peckham Area Guide: Rye Lane, Rooftop Bars and the Best Cheap Eating in South London"
-seoTitle: "Peckham Guide: Rye Lane, Rooftops, Bussey Building & Where to Eat"
+seoTitle: "Peckham Guide: Rye Lane, Rooftops & Where to Eat"
 description: "A complete Peckham guide: Rye Lane and its market, the Bussey Building and Peckham Levels, rooftop drinking on a car park, and a run of restaurants that punches far above the postcode."
 publishedAt: 2026-08-18
 updatedAt: 2026-08-18

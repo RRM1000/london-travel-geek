@@ -145,7 +145,7 @@ does anything unusual.
 
 ## 6. The article
 
-Frontmatter as the models: `title`, `seoTitle` (include "Walking Route" and "Map"),
+Frontmatter as the models: `title`, `seoTitle` (include "Walking Route" and "Map", and keep it to 55 characters or the build fails),
 `description`, `heroImage`, `heroImageAlt`, `publishedAt`, `sites: [london]`,
 `canonicalSite: london`, `category: "London areas"`, `tags`, `draft: false`, and 5–6
 `faq` entries. Sections in this order:

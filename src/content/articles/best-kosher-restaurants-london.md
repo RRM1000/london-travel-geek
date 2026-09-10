@@ -1,6 +1,6 @@
 ---
 title: "Kosher Restaurants in London: The Certified List, and How to Read It"
-seoTitle: "Kosher Restaurants London 2026: Certified List by Authority and Area"
+seoTitle: "Kosher Restaurants London 2026: Certified List by Area"
 description: "Four authorities license London's kosher restaurants and each publishes a different list. What is on them, why meat and dairy sit next door to each other, and the register that has gone offline."
 heroImage: "../../assets/articles/best-kosher-restaurants-london/best-kosher-restaurants-london.jpg"
 heroImageAlt: "A parade of kosher shops on Golders Green Road - Kay's, signed 'the home of kosher food', with Kay's Plus and the Leveyuson fishmonger alongside - below Tudor-revival flats, with traffic passing on the road in front"

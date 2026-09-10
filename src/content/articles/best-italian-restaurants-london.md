@@ -1,6 +1,6 @@
 ---
 title: "The Best Italian Restaurants in London, Cross-Referenced Across Every Major Guide and Award of the Year"
-seoTitle: "Best Italian Restaurants in London: What the Critics Agree On"
+seoTitle: "Best Italian Restaurants in London 2026, Ranked"
 description: "Not our opinion. Every restaurant here is ranked by how many independent awards, critics and reviewers name it — then split by region, by price, and by the rooms worth booking for the room alone."
 heroImage: "../../assets/articles/best-italian-restaurants-london/best-italian-restaurants-london.jpg"
 heroImageAlt: "The frontage of an Italian restaurant on a Clerkenwell street in London"
@@ -277,7 +277,7 @@ Six or seven pastas at a time, rolled in the room and rotated constantly: **caci
 
 ### Ornella, London Fields — Milanese
 
-*£££ · 7 min from Hackney Central*
+*££ · 7 min from Hackney Central*
 
 **Milanese cooking on Wilton Way** from the team behind Roman-influenced Lupa in Highbury — a butter-yellow corner site done simply, and the only kitchen in this guide cooking the north specifically.
 
@@ -337,7 +337,7 @@ The cooking is the classic Italian repertoire done properly rather than reinvent
 
 ### Cecconi's, Mayfair
 
-*£££ · 3 min from Green Park · Cited by 3 sources*
+*££££ · 3 min from Green Park · Cited by 3 sources*
 
 **A Mayfair fixture since 1978**, now part of the Soho House group — the Burlington Gardens room where the fashion and art trade eats, and one of the few places in London that is busy at every hour it is open.
 
@@ -389,7 +389,7 @@ Backed by the sources but not written up above, either because only two guides n
 | **Al Boccon di'vino** | Richmond | £££ | No menu at all — course after course of whatever is cooked that night | 2 sources |
 | **Langosteria London** | Westminster | ££££ | The Milan seafood group inside the Old War Office on Whitehall | — |
 | **Sale e Pepe Mare** | Marylebone | ££££ | Ligurian seafood in The Langham; cacio e pepe finished in the wheel | — |
-| **Ornella** | London Fields | £££ | *(see above)* — Milanese, a neighbourhood restaurant rather than a destination | — |
+| **Ornella** | London Fields | ££ | *(see above)* — Milanese, a neighbourhood restaurant rather than a destination | — |
 | **Macellaio RC** | South Kensington | £££ | *(see above)* — Piedmontese Fassona beef, cut to order | — |
 
 ![The neon frontage of Bar Italia on Frith Street at night](../../assets/articles/best-italian-restaurants-london/bar-italia.jpg)

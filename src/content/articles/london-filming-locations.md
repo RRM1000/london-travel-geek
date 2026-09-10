@@ -1,6 +1,6 @@
 ---
 title: "London Filming Locations: 34 Places You Have Already Seen"
-seoTitle: "London Filming Locations 2026: Harry Potter, Bond, Slow Horses"
+seoTitle: "London Filming Locations: Harry Potter, Bond & More"
 description: "Gringotts is a working embassy, Sherlock's flat is on the wrong street, and Slough House is a real door in Aldersgate — London's film and TV locations, mapped."
 heroImage: "../../assets/articles/best-london-markets/leadenhall-market.jpg"
 heroImageAlt: "The cream, maroon and green painted ironwork of Leadenhall Market's arcade under its glass roof, with shopfronts and lanterns down both sides"

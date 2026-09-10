@@ -1,6 +1,6 @@
 ---
 title: "Stag Do in London (2026): Activities, Prices, Where to Stay and How to Plan It"
-seoTitle: "Stag Do London 2026: Real Prices, Door Policies, Where to Stay"
+seoTitle: "Stag Do London 2026: Real Prices, Rules & Where to Stay"
 description: "Cirque le Soir turns away all-male groups, Swift refuses stag parties outright, Capital Karts no longer lists a London track and Bodean's has closed. Every price checked against the operator's own site."
 publishedAt: 2026-09-03
 updatedAt: 2026-09-03

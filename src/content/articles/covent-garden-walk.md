@@ -1,6 +1,6 @@
 ---
 title: "A Walk Around Covent Garden: Leicester Square to Somerset House in Eleven Stops"
-seoTitle: "Covent Garden Walking Route: Seven Dials to the Piazza + Map"
+seoTitle: "Covent Garden Walking Route Map: Seven Dials to Piazza"
 description: "A numbered walking route through Covent Garden, from the Leicester Square ticket booth to Somerset House, taking in a Victorian bookselling alley, Seven Dials, the Apple Market and a free rooftop terrace over the Piazza. With the one day the markets change."
 heroImage: "../../assets/articles/covent-garden-walk/covent-garden-market-hall.jpg"
 heroImageAlt: "The interior of Covent Garden Market, its green cast-iron arches and glass roof above a crowd watching a street performer"

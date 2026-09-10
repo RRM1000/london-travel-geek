@@ -1,6 +1,6 @@
 ---
 title: "Hyde Park Winter Wonderland: Every Price, Ride and Show for 2026"
-seoTitle: "Hyde Park Winter Wonderland 2026: Prices, Tickets & What's New"
+seoTitle: "Hyde Park Winter Wonderland 2026: Prices & Tickets"
 description: "A complete guide to Hyde Park Winter Wonderland 2026-27: every attraction price, the £1 tickets, the new K-Pop circus, free live music, and the quietest times to go."
 publishedAt: 2026-09-01
 updatedAt: 2026-09-01

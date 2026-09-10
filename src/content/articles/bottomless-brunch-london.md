@@ -1,6 +1,6 @@
 ---
 title: "Bottomless Brunch in London: 38 Deals Compared by Price and Time"
-seoTitle: "Bottomless Brunch London 2026: Prices, Time Limits & Catches"
+seoTitle: "Bottomless Brunch London 2026: Prices & Time Limits"
 description: "Every London bottomless brunch price read off the venue's own booking page — the exact cost, the exact time limit, what the drinks list actually covers, and the small print that shortens your session."
 publishedAt: 2026-09-03
 updatedAt: 2026-09-03

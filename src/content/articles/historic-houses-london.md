@@ -1,6 +1,6 @@
 ---
 title: "London's Historic Houses and Churches: 17 to Visit"
-seoTitle: "Historic Houses London 2026: Palaces, Churches & House Museums"
+seoTitle: "Historic Houses London 2026: Palaces & House Museums"
 description: "A house preserved by Act of Parliament, an art deco mansion built onto Henry VIII's childhood palace, and a Blitz-gutted church left as a shell."
 heroImage: "../../assets/articles/historic-houses-london/historic-houses-london.jpg"
 heroImageAlt: "The white neoclassical frontage of Kenwood House on Hampstead Heath"

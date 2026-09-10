@@ -1,6 +1,6 @@
 ---
 title: "Belgravia Area Guide: Elizabeth Street, Eccleston Yards and the Quietest Streets in London"
-seoTitle: "Belgravia London Guide: Elizabeth Street, Eccleston Yards & Walks"
+seoTitle: "Belgravia Guide: Elizabeth Street & Eccleston Yards"
 description: "A complete Belgravia guide: the two shopping streets worth the walk, London's best blue-plaque route, where to eat, and why the grandest squares are the least interesting part."
 publishedAt: 2026-09-06
 sites:

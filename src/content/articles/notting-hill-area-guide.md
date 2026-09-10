@@ -1,6 +1,6 @@
 ---
 title: "Notting Hill Area Guide: Portobello Road, Pastel Streets and Carnival"
-seoTitle: "Notting Hill Guide: Portobello Market, Best Streets & Times"
+seoTitle: "Notting Hill Guide: Portobello Market & Best Streets"
 description: "A complete Notting Hill guide: when Portobello Road Market actually runs, which streets have the pastel houses, where to eat, and how long to spend."
 publishedAt: 2026-08-16
 updatedAt: 2026-08-16

@@ -1,6 +1,6 @@
 ---
 title: "The Best Wine Bars in London, Cross-Referenced Across Every Major List"
-seoTitle: "Best Wine Bars London 2026: Ranked Across Every Major List"
+seoTitle: "Best Wine Bars London 2026: Ranked Across Major Lists"
 description: "Fifteen independent sources across 158 wine bars. Which ones the critics actually agree on, what a bottle costs if you drink it where you bought it, and the award that almost never goes to a wine bar."
 heroImage: "../../assets/articles/best-wine-bars-london/bar-crispin-hero.jpg"
 heroImageAlt: "The green shopfront of Bar Crispin on Kingly Street, with a by-the-glass list chalked on a board outside and laid tables on the pavement"

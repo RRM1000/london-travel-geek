@@ -1,6 +1,6 @@
 ---
 title: "Five Days in London: The Itinerary With Room to Breathe"
-seoTitle: "Five Days in London Itinerary 2026: Day by Day, With Walking Times"
+seoTitle: "Five Days in London Itinerary 2026: Day by Day"
 description: "A five-day London plan: the central essentials in three days, Greenwich by river on day four, and a full neighbourhood day on day five."
 publishedAt: 2026-07-28
 updatedAt: 2026-09-01

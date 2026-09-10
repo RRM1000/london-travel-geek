@@ -1,6 +1,6 @@
 ---
 title: "London's Historic Pubs and Dining Rooms"
-seoTitle: "Historic Pubs & Dining Rooms London 2026: Where to Drink in History"
+seoTitle: "Historic Pubs London 2026: Where to Drink in History"
 description: "A 1667 warren off Fleet Street, a Thames pub trading five centuries, a banking hall and an old Westminster library — the London rooms worth going to for the room."
 heroImage: "../../assets/articles/historic-pubs-dining-rooms-london/historic-pubs-dining-rooms-london.jpg"
 heroImageAlt: "The ornate Victorian interior of a London pub, with etched glass and dark panelling"

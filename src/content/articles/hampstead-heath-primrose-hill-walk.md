@@ -1,6 +1,6 @@
 ---
 title: "The Hampstead Heath to Primrose Hill Walk: Two Free Skyline Views"
-seoTitle: "Hampstead Heath Walk 2026: Kite Hill, Kenwood & Primrose Hill"
+seoTitle: "Hampstead Heath Walking Route: Kenwood to Primrose Hill"
 description: "Hampstead village to Kenwood House, over Kite Hill's legally protected skyline view, through the hamlet in the middle of the Heath, and up again to Primrose Hill for a second one."
 publishedAt: 2026-08-30
 sites: [london]

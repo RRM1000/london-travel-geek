@@ -1,6 +1,6 @@
 ---
 title: "London Plaques: A Guide to How They Work"
-seoTitle: "London Plaques Explained: The Schemes, Colours and Rules"
+seoTitle: "London Plaques Explained: Schemes, Colours & Rules"
 description: "Who puts up London's commemorative plaques, what the different colours indicate, and the rules a person has to meet before one goes up."
 heroImage: "../../assets/articles/london-plaques-guide/london-plaques-guide.jpg"
 heroImageAlt: "A brown London Borough of Hackney plaque on a brick wall, reading FIRST PLASTIC IN THE WORLD"

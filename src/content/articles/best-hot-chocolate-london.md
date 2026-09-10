@@ -1,6 +1,6 @@
 ---
 title: "The Best Hot Chocolate in London, Cross-Referenced Across Every Major List"
-seoTitle: "Best Hot Chocolate London 2026: Ranked Across Every Major List"
+seoTitle: "Best Hot Chocolate in London 2026, Ranked"
 description: "Nine venues named by two or more independent sources, with what each one actually pours and what it costs — plus the widely-shared list that turned out to be half closed."
 heroImage: "../../assets/articles/best-hot-chocolate-london/italian-bear-chocolate-hero.webp"
 heroImageAlt: "A cup of thick Italian hot chocolate dusted with cocoa, the cup lined with melted chocolate that has run down the outside and pooled on the saucer"

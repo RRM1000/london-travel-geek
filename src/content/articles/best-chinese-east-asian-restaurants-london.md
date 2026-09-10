@@ -1,6 +1,6 @@
 ---
 title: "The Best Chinese Restaurants in London, Cross-Referenced Across Every Major Guide of the Year"
-seoTitle: "Best Chinese Restaurants London 2026: Ranked by Consensus"
+seoTitle: "Best Chinese Restaurants in London 2026, Ranked"
 description: "Not our opinion. Every restaurant here is ranked by how many independent guides and awards name it — Sichuan, Shaanxi, Uyghur and Cantonese, kept apart rather than filed under one word."
 heroImage: "../../assets/articles/best-chinese-east-asian-restaurants-london/best-chinese-east-asian-restaurants-london.jpg"
 heroImageAlt: "Red and gold lanterns strung in rows above Gerrard Street in London's Chinatown"

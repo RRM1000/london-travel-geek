@@ -1,6 +1,6 @@
 ---
 title: "Soho Guide: Chinatown, Carnaby Street and After Dark"
-seoTitle: "Soho London Guide: Chinatown, Carnaby Street & Nightlife"
+seoTitle: "Soho Guide: Chinatown, Carnaby Street & Nightlife"
 description: "Soho is two places depending on when you arrive: a working media district with quiet streets and good coffee by day, the busiest nightlife in London after six. Chinatown, Carnaby Street, Old Compton Street and where to eat late."
 publishedAt: 2026-07-28
 updatedAt: 2026-08-16

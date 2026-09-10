@@ -1,6 +1,6 @@
 ---
 title: "Stratford Area Guide: The Olympic Park, East Bank and Westfield"
-seoTitle: "Stratford Guide: Olympic Park, the Orbit Slide & Westfield"
+seoTitle: "Stratford Guide: Olympic Park, Orbit Slide & Westfield"
 description: "Six lines meet at Stratford and the Elizabeth line reaches Liverpool Street in nine minutes. The Olympic Park, the Orbit slide, swimming in the Aquatics Centre pool, East Bank and Westfield — 560 acres that were contaminated industrial land until 2012."
 publishedAt: 2026-08-16
 updatedAt: 2026-08-16

@@ -1,6 +1,6 @@
 ---
 title: "BFI London Film Festival 2026: Dates, Tickets and How to Get Them"
-seoTitle: "BFI London Film Festival 2026: Tickets, Dates and Prices"
+seoTitle: "BFI London Film Festival 2026: Tickets, Dates & Prices"
 description: "When LFF 2026 tickets go on sale, what they cost, the £6 rate for under-25s, and the practical routes into a sold-out screening — returns, standby and face-value resale."
 publishedAt: 2026-08-29
 updatedAt: 2026-09-04

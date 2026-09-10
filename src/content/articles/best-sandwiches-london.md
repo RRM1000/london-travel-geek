@@ -1,6 +1,6 @@
 ---
 title: "The Best Sandwiches in London: Salt Beef, Sandos and Toasties"
-seoTitle: "Best Sandwiches London 2026: Salt Beef, Toasties & Sandos"
+seoTitle: "Best Sandwiches in London 2026: Salt Beef to Sandos"
 description: "A 24-hour salt beef beigel on Brick Lane, a four-cheese toastie sold three days a week, and the Marylebone deli that has been cutting sandwiches into triangles since 1900."
 heroImage: "../../assets/articles/best-sandwiches-london/best-sandwiches-london.jpg"
 heroImageAlt: "A pastrami sandwich with pickles and salad in a soft bun, cut in half"

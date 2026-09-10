@@ -1,6 +1,6 @@
 ---
 title: "Where to Stay in South Kensington — and Why a Victorian Tunnel Decides It"
-seoTitle: "Where to Stay in South Kensington 2026: Hotels by the Museums"
+seoTitle: "Where to Stay in South Kensington 2026: By the Museums"
 description: "A 433-metre tiled tunnel runs from the Tube to the museums, and it is the reason to sleep here. South Kensington hotels compared, the evening nobody warns you about, and the areas nearby."
 publishedAt: 2026-09-08
 updatedAt: 2026-09-09

@@ -1,6 +1,6 @@
 ---
 title: "Where to Stay in Bermondsey and London Bridge — and the Walk Nobody Prices In"
-seoTitle: "Where to Stay in Bermondsey & London Bridge 2026: Hotels Compared"
+seoTitle: "Where to Stay in Bermondsey & London Bridge 2026"
 description: "Bermondsey hotels from a £180 boutique to a room in the Shard. The night train that actually serves the area, and why its two ends are three-quarters of a mile apart."
 publishedAt: 2026-09-08
 updatedAt: 2026-09-09

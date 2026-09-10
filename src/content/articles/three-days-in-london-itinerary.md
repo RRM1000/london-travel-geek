@@ -1,6 +1,6 @@
 ---
 title: "Three Days in London: A First-Time Itinerary That Works"
-seoTitle: "Three Days in London Itinerary 2026: Walking Times & What to Book"
+seoTitle: "Three Days in London Itinerary 2026: What to Book"
 description: "A realistic three-day London plan with walking times between every stop, what to book before you fly, what it costs, and what to leave out."
 publishedAt: 2026-07-28
 updatedAt: 2026-09-01

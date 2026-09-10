@@ -1,6 +1,6 @@
 ---
 title: "Competitive Socialising in London: Darts, Golf and Immersive Games"
-seoTitle: "Competitive Socialising London 2026: Darts, Golf, Escape Rooms"
+seoTitle: "Competitive Socialising London 2026: Darts, Golf & More"
 description: "An escape room inside a disused Tube station, twenty-one glass cubes from the television show, and a 1990s video rental shop rebuilt in full."
 heroImage: "../../assets/articles/competitive-socialising-london/babylon-park-rides.jpg"
 heroImageAlt: "Neon-lit alien-themed rides and arcade machines inside Babylon Park in Camden"

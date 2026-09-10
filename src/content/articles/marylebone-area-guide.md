@@ -1,6 +1,6 @@
 ---
 title: "Marylebone Area Guide: The High Street, the Wallace Collection and Baker Street"
-seoTitle: "Marylebone Guide: High Street, Wallace Collection & Baker St"
+seoTitle: "Marylebone Guide: High Street & Wallace Collection"
 description: "A complete Marylebone guide: the village high street, the free Wallace Collection, Daunt Books, the Sherlock Holmes museum and Regent's Park on the doorstep."
 publishedAt: 2026-08-16
 updatedAt: 2026-08-16

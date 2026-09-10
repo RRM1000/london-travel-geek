@@ -1,6 +1,6 @@
 ---
 title: "The Best Pizza in London, Cross-Referenced Across Every Major List and Review of the Year"
-seoTitle: "Best Pizza in London 2026: Ranked Across Every Major List"
+seoTitle: "Best Pizza in London 2026: Ranked Across Major Lists"
 description: "Not our opinion. Every pizzeria here is ranked by how many independent awards, critics and reviewers name it."
 publishedAt: 2026-08-22
 updatedAt: 2026-08-30

@@ -1,6 +1,6 @@
 ---
 title: "A Walk Through Westminster: Westminster Bridge to Trafalgar Square in Eleven Stops"
-seoTitle: "Westminster Walking Route: Big Ben to Trafalgar Square + Map"
+seoTitle: "Westminster Walking Route Map: Big Ben to Trafalgar"
 description: "A numbered walking route through Westminster, from the bridge to Trafalgar Square, taking in the free court most people walk past, a free view over the park and the ceremony that only happens three days a week. With what is open on which day."
 heroImage: "../../assets/articles/westminster-walk/westminster-bridge-parliament.jpg"
 heroImageAlt: "The Thames, the Houses of Parliament, Westminster Bridge and the London Eye seen from the Albert Embankment"

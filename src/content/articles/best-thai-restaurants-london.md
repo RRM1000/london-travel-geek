@@ -1,6 +1,6 @@
 ---
 title: "The Best Thai Restaurants in London: Isaan, Southern and Live Fire"
-seoTitle: "Best Thai Restaurants London 2026: Isaan, Southern & Regional"
+seoTitle: "Best Thai Restaurants London 2026: Isaan to Southern"
 description: "London's Thai kitchens arranged by the region they actually cook — Isaan sour-and-fermented, Southern curry-over-rice, and the UK's only Michelin-starred Thai restaurant."
 heroImage: "../../assets/articles/best-thai-restaurants-london/best-thai-restaurants-london.jpg"
 heroImageAlt: "Thai curry and a stir-fry served in blue patterned bowls on a wooden table"

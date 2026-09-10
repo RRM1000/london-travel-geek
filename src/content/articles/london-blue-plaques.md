@@ -1,6 +1,6 @@
 ---
 title: "London Blue Plaques: The Ones Worth Walking To"
-seoTitle: "London Blue Plaques 2026: Famous Homes & Where to Find Them"
+seoTitle: "London Blue Plaques: Famous Homes & Where to Find Them"
 description: "Mozart wrote his first symphony here aged eight, Engels hosted Marx for twenty years, and Hendrix and Handel lived in adjoining houses two centuries apart."
 heroImage: "../../assets/articles/london-blue-plaques/london-blue-plaques.jpg"
 heroImageAlt: "A round blue English Heritage plaque mounted on a London brick wall"

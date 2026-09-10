@@ -1,6 +1,6 @@
 ---
 title: "The Best French Restaurants in London"
-seoTitle: "Best French Restaurants London 2026: Bistro to Three Stars"
+seoTitle: "Best French Restaurants London 2026: Bistros to 3 Stars"
 description: "Duck pressed at your table, unapologetic bourgeois cooking above a Farringdon pub, and two of London's six three-star kitchens."
 heroImage: "../../assets/articles/best-french-restaurants-london/best-french-restaurants-london.jpg"
 heroImageAlt: "A bistro dining room laid with white tablecloths, wine glasses and wooden chairs"

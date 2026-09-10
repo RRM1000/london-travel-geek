@@ -1,6 +1,6 @@
 ---
 title: "Thirteen One-Day London Itineraries for Different Interests"
-seoTitle: "One Day in London: 13 Itineraries by Interest, With Walking Times"
+seoTitle: "One Day in London: 13 Itineraries by Interest"
 description: "Thirteen one-day London plans — first-time sights, theatre, museums, families, food, royal London, a free day, a rainy day, views, books, markets, film locations and a night out — each grouped so you barely use the Tube."
 publishedAt: 2026-07-28
 updatedAt: 2026-09-01

@@ -1,6 +1,6 @@
 ---
 title: "Paddington Area Guide: Little Venice, Canals and the Heathrow Gateway"
-seoTitle: "Paddington Guide: Little Venice, Canal Walks & Where to Stay"
+seoTitle: "Paddington Guide: Little Venice, Canal Walks & Hotels"
 description: "A practical Paddington guide covering Little Venice, the canal walk to Camden, station navigation, and whether it is a good base for your London trip."
 publishedAt: 2026-07-28
 updatedAt: 2026-08-16

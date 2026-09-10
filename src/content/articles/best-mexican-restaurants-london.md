@@ -1,6 +1,6 @@
 ---
 title: "The Best Mexican Restaurants in London"
-seoTitle: "Best Mexican Restaurants London 2026: Tacos to Fine Dining"
+seoTitle: "Best Mexican Restaurants London 2026: Tacos and Beyond"
 description: "Mexican technique on entirely British ingredients, grasshopper guacamole in Bermondsey, and a Walthamstow stall pressing its own tortillas."
 heroImage: "../../assets/articles/best-mexican-restaurants-london/best-mexican-restaurants-london.jpg"
 heroImageAlt: "Tacos al pastor topped with onion and coriander, with lime wedges alongside"

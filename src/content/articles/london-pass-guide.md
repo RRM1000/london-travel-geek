@@ -1,6 +1,6 @@
 ---
 title: "Is the London Pass Worth It? The Arithmetic, Done Properly"
-seoTitle: "London Pass 2026: Real Prices, Worked Examples & When It Loses"
+seoTitle: "London Pass 2026: Real Prices & When It Loses Money"
 description: "A 2-day pass is £149. The classic big five cost £139.70 at the gate. Here is exactly which itineraries the London Pass pays on, which it loses on, and the memberships that beat it outright."
 publishedAt: 2026-09-01
 updatedAt: 2026-09-01

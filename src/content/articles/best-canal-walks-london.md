@@ -1,6 +1,6 @@
 ---
 title: "The Best Canal Walks in London: Little Venice to Limehouse"
-seoTitle: "Best London Canal Walks 2026: Regent's Canal Section by Section"
+seoTitle: "Best Canal Walks in London 2026: Regent's Canal Guide"
 description: "The Regent's Canal broken into walkable sections with real distances, where the towpath disappears, and the two tunnels you have to walk over rather than through."
 publishedAt: 2026-08-27
 sites: [london]

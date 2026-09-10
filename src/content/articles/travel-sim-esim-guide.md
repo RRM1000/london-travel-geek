@@ -1,6 +1,6 @@
 ---
 title: "Travel SIM Cards and eSIMs in the UK: The Complete Visitor Guide"
-seoTitle: "UK & London Travel SIM Cards & eSIMs Guide: Best Plans Compared"
+seoTitle: "UK Travel SIM & eSIM Guide: Best Plans Compared"
 description: "A comprehensive guide to UK travel SIMs and eSIMs, comparing EE, O2, Vodafone, Three, giffgaff, Lyca, Airalo, Maya, and Nomad by price, 5G, and setup."
 publishedAt: 2026-07-28
 updatedAt: 2026-08-01

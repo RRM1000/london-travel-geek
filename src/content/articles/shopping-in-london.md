@@ -1,6 +1,6 @@
 ---
 title: "Shopping in London: Every Street, Market and Store Worth Your Time"
-seoTitle: "Shopping in London 2026: Best Areas, Markets & Price Guide"
+seoTitle: "Shopping in London 2026: Best Areas, Markets & Prices"
 description: "Where to shop in London by what you actually want to buy — department stores, streets, markets, arcades and malls — with real price guides, and the two rules that catch every visitor out."
 publishedAt: 2026-09-01
 updatedAt: 2026-09-01

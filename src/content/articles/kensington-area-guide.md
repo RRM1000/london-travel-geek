@@ -1,6 +1,6 @@
 ---
 title: "Kensington Area Guide: The Palace, Holland Park and the Kyoto Garden"
-seoTitle: "Kensington Guide: Kensington Palace, Holland Park & Gardens"
+seoTitle: "Kensington Guide: Kensington Palace & Holland Park"
 description: "A complete Kensington guide: Kensington Palace and Gardens, Holland Park and the Kyoto Garden, the Design Museum, Leighton House and opera under canvas."
 publishedAt: 2026-08-16
 updatedAt: 2026-08-16

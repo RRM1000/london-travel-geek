@@ -1,6 +1,6 @@
 ---
 title: "The Best Fried Chicken in London, Cross-Referenced Across Every Major List"
-seoTitle: "Best Fried Chicken London 2026: Ranked Across Every Major List"
+seoTitle: "Best Fried Chicken in London 2026, Ranked"
 description: "Fourteen independent sources, one judged championship, and the awkward fact that the judges' champion appears on nobody's list. What each place actually fries, and where."
 heroImage: "../../assets/articles/best-fried-chicken-london/butchies-tenders-hero.jpg"
 heroImageAlt: "Buttermilk-fried chicken tenders on a metal tray lined with branded paper, with cheese-covered fries alongside"

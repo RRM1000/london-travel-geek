@@ -1,6 +1,6 @@
 ---
 title: "The Best Middle Eastern and Eastern Mediterranean Restaurants in London"
-seoTitle: "Best Middle Eastern Restaurants London 2026: Levantine to Greek"
+seoTitle: "Best Middle Eastern Restaurants London 2026, Ranked"
 description: "Levantine mezze, Palestinian and Syrian kitchens, Persian and Kurdish cooking, and modern Greek small plates — arranged by tradition, with the best cheap falafel in London."
 heroImage: "../../assets/articles/best-middle-eastern-restaurants-london/best-middle-eastern-restaurants-london.jpg"
 heroImageAlt: "Bowls of hummus, muhammara and labneh with flatbread on a stone table"

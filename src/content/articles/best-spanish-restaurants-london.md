@@ -1,6 +1,6 @@
 ---
 title: "The Best Spanish Restaurants in London: Tapas to Basque Asador"
-seoTitle: "Best Spanish Restaurants London 2026: Tapas & Basque Grills"
+seoTitle: "Best Spanish Restaurants London 2026: Tapas & Basque"
 description: "Aged Galician beef over coals, a standing-room sherry bar with a handful of stools, and suckling pig roasted upstairs — London's Spanish kitchens by region."
 heroImage: "../../assets/articles/best-spanish-restaurants-london/best-spanish-restaurants-london.jpg"
 heroImageAlt: "Whole jamón legs hanging above a counter lined with wine bottles"

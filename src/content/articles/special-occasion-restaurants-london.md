@@ -1,6 +1,6 @@
 ---
 title: "Special Occasion Restaurants in London: Where to Book"
-seoTitle: "Special Occasion Restaurants London 2026: Michelin & Showstoppers"
+seoTitle: "Special Occasion Restaurants London 2026: Showstoppers"
 description: "All six of London's three-Michelin-star restaurants, the rooms worth booking for the room alone, and which take months rather than weeks."
 heroImage: "../../assets/articles/special-occasion-restaurants-london/special-occasion-restaurants-london.jpg"
 heroImageAlt: "A long table set with candles and glassware in a darkened private dining room"

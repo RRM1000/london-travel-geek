@@ -1,6 +1,6 @@
 ---
 title: "Hampstead Area Guide: The Heath, Kenwood House and the Village"
-seoTitle: "Hampstead Guide: The Heath, Kenwood House & Swimming Ponds"
+seoTitle: "Hampstead Guide: The Heath, Kenwood & Swimming Ponds"
 description: "A complete Hampstead guide: Parliament Hill's protected view, free Rembrandts at Kenwood House, swimming in the Heath ponds, and the village pubs."
 publishedAt: 2026-08-16
 updatedAt: 2026-08-16

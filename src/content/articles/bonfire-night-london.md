@@ -1,6 +1,6 @@
 ---
 title: "Bonfire Night in London: Every Display, and Where to Watch for Free"
-seoTitle: "Bonfire Night London 2026: Fireworks Displays and Free Views"
+seoTitle: "Bonfire Night London 2026: Fireworks and Free Views"
 description: "Every London fireworks display for Bonfire Night 2026 with dates, prices and booking links, which famous ones no longer run, and the free viewpoints that are actually open after dark."
 publishedAt: 2026-08-29
 updatedAt: 2026-09-08

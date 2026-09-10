@@ -1,6 +1,6 @@
 ---
 title: "Hackney Area Guide: Broadway Market, London Fields and Victoria Park"
-seoTitle: "Hackney Guide: Broadway Market, London Fields & the Lido"
+seoTitle: "Hackney Guide: Broadway Market, London Fields & Lido"
 description: "A complete Hackney guide: Broadway Market on Saturdays, the London Fields lido, Victoria Park, Hackney Wick's warehouses and the canal walk east."
 publishedAt: 2026-08-16
 updatedAt: 2026-08-16

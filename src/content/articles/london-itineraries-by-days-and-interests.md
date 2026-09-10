@@ -1,6 +1,6 @@
 ---
 title: "How to Plan a London Itinerary That Actually Works"
-seoTitle: "London Itinerary Planner: How Many Days You Need & What to Book"
+seoTitle: "London Itinerary Planner: How Many Days You Need"
 description: "How many days London really needs, which plan to follow, what to book before you fly, and the planning rules that stop an itinerary falling apart."
 publishedAt: 2026-07-28
 updatedAt: 2026-08-27

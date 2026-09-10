@@ -1,6 +1,6 @@
 ---
 title: "The Best Indian Restaurants in London, Cross-Referenced Across Every Major Guide and Award of the Year"
-seoTitle: "Best Indian Restaurants in London 2026: Ranked by Consensus"
+seoTitle: "Best Indian Restaurants in London 2026, Ranked"
 description: "Not our opinion. Every restaurant here is ranked by how many independent awards, critics and reviewers name it."
 publishedAt: 2026-07-28
 updatedAt: 2026-08-30

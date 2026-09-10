@@ -1,6 +1,6 @@
 ---
 title: "The Best Vietnamese Restaurants in London, Cross-Referenced Across Every Major List"
-seoTitle: "Best Vietnamese Restaurants London 2026: Ranked Across Every Major List"
+seoTitle: "Best Vietnamese Restaurants in London 2026, Ranked"
 description: "Thirteen independent sources, one Michelin Bib Gourmand, and the question the lists keep dancing around: is Kingsland Road still where the best Vietnamese food in London is?"
 heroImage: "../../assets/articles/best-vietnamese-restaurants-london/song-que-hero.jpg"
 heroImageAlt: "A clay pot of caramel-braised fish topped with sliced red chilli and spring onion, photographed from above on a white plate"

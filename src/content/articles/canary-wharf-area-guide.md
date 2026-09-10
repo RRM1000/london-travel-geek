@@ -1,6 +1,6 @@
 ---
 title: "Canary Wharf Area Guide: Docks, Swimming and the Roof Garden"
-seoTitle: "Canary Wharf Guide 2026: Eden Dock, Swimming & What to Do"
+seoTitle: "Canary Wharf Guide 2026: Eden Dock & What to Do"
 description: "A complete Canary Wharf guide: Eden Dock, a 50-metre floating pool, the Crossrail roof garden, the free Docklands museum and the Wood Wharf restaurants."
 publishedAt: 2026-08-16
 updatedAt: 2026-08-27

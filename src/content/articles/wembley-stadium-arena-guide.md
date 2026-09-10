@@ -1,6 +1,6 @@
 ---
 title: "How to Get to Wembley Stadium and OVO Arena: Parking, Trains and Getting Home"
-seoTitle: "Wembley Stadium Parking and Travel 2026: Where to Park, How to Get Home"
+seoTitle: "Wembley Stadium Parking & Travel 2026: How to Get Home"
 description: "Where to park for Wembley without a £130 penalty, which station to use, the Night Tube that changes the evening, and why a Wembley hotel is £426 on a match night against £131 on an ordinary Tuesday."
 publishedAt: 2026-09-10
 sites: [london]
