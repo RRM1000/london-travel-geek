@@ -322,9 +322,7 @@ The night *after* an England international at Wembley costs **£91**. The night 
 
 **[Hilton London Wembley](hotel:hilton-london-wembley)** — the four-star on Lakeside Way, and the one with the indoor pool, an executive lounge and the rooftop **Sky Bar 9**, which takes walk-ins and no reservations. **Icons Bar, Grill and Terrace** is open daily 10:00 to 17:00, with afternoon tea Friday to Sunday 13:00 to 17:00 on 48 hours' notice — so it is an option before an evening event, not after one. Self-parking is **£15 per 24 hours in the Gold car park**, with **no in-out privileges**, which matters on an event day: you cannot take the car out and bring it back. No room rate is quoted here because Hilton's live rates sit behind a path its own robots.txt disallows, so none was taken.
 
-**[ibis London Wembley](hotel:ibis-london-wembley)** — the budget option, on South Way on the south side of the ground, a minute from Wembley Stadium station.
-
-> ⚠️ **Ring the ibis before you count on it.** Accor's own booking engine returned "this accommodation is unavailable on our site" for **every one of twelve dates sampled** across September, October and November 2026 — event nights and ordinary midweek nights alike. That is not an event-night sell-out: a random Wednesday in mid-November was just as unavailable as a match Saturday, and the Novotel priced normally through the same engine on the same dates. The hotel's page is otherwise live. Whatever the explanation, do not assume you can book it: **+44 20 8453 5100**.
+**[ibis London Wembley](hotel:ibis-london-wembley)** — the budget option, on South Way on the south side of the ground, a minute from Wembley Stadium station. Online prices are currently unavailable.
 
 If you would rather stay central and travel out, our [guide to the best areas to stay in London](/articles/best-areas-to-stay-in-london/) covers the Jubilee line neighbourhoods that keep the journey to a single train.
 
