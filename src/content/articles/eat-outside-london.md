@@ -22,7 +22,7 @@ faq:
   - q: "What is the place near Liverpool Street where everyone takes photos?"
     a: "Two candidates, and both are worth the walk. Exchange Square is the raised park at Broadgate, built over the railway approach, with lawns, amphitheatre seating and a stream. Just outside the Broadgate entrance to the station stands Richard Serra's Fulcrum, five leaning plates of weathered steel about 17 metres high, installed in 1987 and used as a meeting point ever since."
   - q: "Is Crossrail Place Roof Garden outdoors?"
-    a: "Not really. It sits under Foster + Partners' timber lattice roof at Canary Wharf and Canary Wharf's own website describes it as the indoor space. It is free, open daily until 9pm or sunset in summer, and it is a lovely place to sit with a coffee — but if you want sky above you, walk down to Eden Dock or Harbour Quay instead."
+    a: "Not really. It sits under Foster + Partners' timber lattice roof at Canary Wharf, which encloses the whole garden. It is free, open daily until 9pm or sunset in summer, and it is a lovely place to sit with a coffee — but if you want sky above you, walk down to Eden Dock or Harbour Quay instead."
   - q: "Which market days should I avoid getting wrong?"
     a: "Borough Market is closed on Mondays. Maltby Street is Saturday and Sunday only, plus Friday evenings in summer. Duke of York Square's food market is Saturday only, 10am to 4pm. Broadway Market is Saturday 9am to 5pm with a smaller Sunday market. Vinegar Yard is closed Sunday to Tuesday. Frank's Café in Peckham runs mid-May to mid-September, Wednesday to Sunday."
 ---
@@ -35,7 +35,7 @@ Two things separate them, and almost nobody prints either. **The first is whethe
 
 Both are settled below, place by place.
 
-> 💡 **The Short Version:** **Coal Drops Yard** is the one that still works in October — its terraces are covered and heated by design rather than by patio umbrella. **Canary Wharf** is the largest of them: waterside terraces on Water Street, new steps down to the water at Eden Dock, and three parks you can picnic in. **Exchange Square** at Broadgate is 420 square metres of free lawn on a deck above the railway. **Eccleston Yards** is a single courtyard five minutes from Victoria, and you cannot hear the station from it. For bring-your-own, go to **Battersea Power Station**, which puts out free deck chairs. And **Crossrail Place Roof Garden is indoors** — Canary Wharf's own website says so.
+> 💡 **The Short Version:** **Coal Drops Yard** is the one that still works in October — its terraces are covered and heated by design rather than by patio umbrella. **Canary Wharf** is the largest of them: waterside terraces on Water Street, new steps down to the water at Eden Dock, and three parks you can picnic in. **Exchange Square** at Broadgate is 420 square metres of free lawn on a deck above the railway. **Eccleston Yards** is a single courtyard five minutes from Victoria, and you cannot hear the station from it. For bring-your-own, go to **Battersea Power Station**, which puts out free deck chairs. And **Crossrail Place Roof Garden is indoors**, whatever the name suggests.
 
 ## Where they are
 
@@ -112,7 +112,7 @@ Sixteen acres of landscaped squares, docksides and parks with about eighty café
 
 **And the parks are yours.** **Jubilee Park** is designed for lying on the grass at lunchtime. **Canada Square Park** hosts open-air film screenings in summer and big-screen sport, ringed by bars and by The Ivy in the Park's terraces. **Harbour Quay** is a waterside boardwalk with trees, and the estate itself recommends it for picnics. **Montgomery Square** has free ping pong and minigolf, and **The Lunch Market** brings a rotating line-up of street food traders in on Thursday lunchtimes through the warmer months.
 
-> ⚠️ **Crossrail Place Roof Garden is not an outdoor garden.** It sits under Foster + Partners' timber lattice roof and Canary Wharf's own website calls it "the indoor space". It is free, open daily until 9pm or sunset in summer, planted by hemisphere either side of the Meridian line, and has an 80-seat amphitheatre. Somewhere to sit, then, but not somewhere outside. **Big Easy** and **Pergola on the Wharf** lead off it.
+> ⚠️ **Crossrail Place Roof Garden is not an outdoor garden.** It sits under Foster + Partners' timber lattice roof, which encloses the whole thing. It is free, open daily until 9pm or sunset in summer, planted by hemisphere either side of the Meridian line, and has an 80-seat amphitheatre. Somewhere to sit, then, but not somewhere outside. **Big Easy** and **Pergola on the Wharf** lead off it.
 
 Elsewhere on the estate: **ROKA** has a heated terrace over Canada Square Park, **Caravan** at Reuters Plaza is a summer sun trap that hands out blankets in winter, **Boisdale** runs a garden terrace with heaters and blankets, **Ibérica's La Terraza** on Cabot Square is spring and summer only, and **The Sipping Room** at West India Quay puts igloos on its Thames-side terrace in winter.
 
