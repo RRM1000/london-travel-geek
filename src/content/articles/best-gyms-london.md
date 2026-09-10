@@ -2,12 +2,8 @@
 title: "Best Gyms in London: Prices, Joining Fees and Pools Compared"
 seoTitle: "Best Gyms in London 2026: £20 to £345 a Month, Compared"
 description: "Every London gym chain on the terms it buries — Fitness4Less at £20 flat against Third Space at £345, joining fees from £0 to £250, and the council pool at £3.20 a swim that beats all of them."
-heroImage: "../../assets/articles/best-gyms-london/best-gyms-london.jpg"
-heroImageAlt: "A quiet gym floor lined with resistance machines under high windows, a functional training rig at the far end"
-heroImageCredit: "Total Shape"
-heroImageSource: "https://www.pexels.com/photo/6046979/"
-heroImageLicense: "Pexels License"
-heroImageLicenseUrl: "https://www.pexels.com/license/"
+heroImage: "../../assets/articles/best-gyms-london/uk-fitness-club.jpg"
+heroImageAlt: "UK Fitness Club's East Ham gym floor under blue light: neon chevrons across a black ceiling, a long row of cross-trainers down the right and resistance machines along the left"
 publishedAt: 2026-09-10
 sites: [london]
 canonicalSite: london
@@ -51,6 +47,7 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 | **PureGym** | 87 | £22.99–£49.99 | £0–£25; commonest is £15 | Rolling, or fixed term | No |
 | **The Gym Group** | 86 | £23.99–£39.99 | £0, £10, £15 or £20 | Rolling, or 9/12-month saver | No |
 | **JD Gyms** | 3 | £25.99–£34.99 | **None, as standing policy** | Rolling, or 14-months-for-12 | No |
+| **UK Fitness Club** | 3 | £25.99–£29.99 | £15 or £20 | No contract, or 6/12 months upfront | No |
 | **énergie Fitness** | 18 | Not published | £0 at all 18 today, framed as an offer | Both offered | No |
 | **Snap Fitness** | 10 | Not published | £30, waived at some clubs | Rolling or fixed term | No |
 | **Bannatyne** | 4 | £49.99–£69.99 | Charged, half price today, amount not published | Not published | Yes, all four |
@@ -88,6 +85,12 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 **The Gym Group is the same shape with a tighter ceiling** — **£23.99** at Alperton, Colindale and Wembley Central to **£39.99** at Monument, and off-peak from £16.99 at 79 of its 86 clubs. The off-peak hours are the awkward part: there are **eleven distinct schedules** across the London estate, one of which chops the day into 00:00–06:00, 09:00–11:00 and 13:00–16:30. Classes are free on every tier. Personal training is not — the trainers are freelance and set their own rates — though new members get one free session inside 60 days. Lockers need your own padlock or £5 from the vending machine.
 
 **JD Gyms has only three London clubs, and the honest joining-fee policy.** Charlton, Enfield and Uxbridge, **£25.99 to £34.99**, all three open 24/7, saunas in the changing rooms included, classes included even on a day pass. "No Joining Fee" appears as a permanent feature bullet on every membership card at every club — not a banner, not a countdown. The trap here is the opposite of the usual one: **the teaser rate is not the price.** Enfield and Uxbridge both advertise "£15 1st month" and then charge £34.99 and £25.99. Charlton has no teaser and charges £29.99 from month one, which makes the club that looks dearest on the shelf the cheapest of the three over a year.
+
+![A long gym floor lit blue, neon chevrons across a black ceiling, cross-trainers in a row down one side and resistance machines down the other](../../assets/articles/best-gyms-london/uk-fitness-club.jpg)
+
+*UK Fitness Club's East Ham floor. It is the only one of its clubs with a sauna and jacuzzi, at £4.99 a session on top of the membership.*
+
+**UK Fitness Club is a small east London independent, and its real price is the year paid upfront.** Three London clubs: Barking, East Ham, and a women-only club next door to East Ham on Castle Street (a fourth is in Tilbury, Essex). Direct debit with no contract is **£25.99** at Barking, £28.99 at East Ham and £29.99 at the women-only club, plus a £15–£20 sign-up fee; paying monthly without a direct debit costs £4 to £6 more. A year upfront at Barking is **£219.99 — £18.33 a month, and £91.89 less than twelve direct debits**. East Ham adds the sauna and jacuzzi (£6.99 a session for non-members) and a family membership covering up to three people for £73.99 a month. Barking and East Ham open 06:00–23:00 every day; the women-only club closes at 22:30 on weekdays and keeps 09:00–21:00 at weekends. There is no personal training to buy, and the FAQ's "from just £16.66/month" matches no plan on the price list.
 
 **Snap Fitness and énergie both decline to publish a monthly price.** Snap's ten London clubs route membership to a "Submit Interest" form; its £30 joining fee is confirmed only because some clubs advertise "Save £30" when waiving it. What Snap does publish is unusually generous multi-site access — every plan covers all 1,000+ Snap gyms worldwide, with no tier cap — and unusually punitive local rules, of which more below. énergie's eighteen London clubs all run a no-joining-fee offer today and every one frames it as temporary, which tells you the fee is real; Cricklewood's still advertises an offer whose own end date has passed.
 
@@ -318,7 +321,7 @@ PureGym's own footnote is "†Most gyms open 24/7", and 19 of its 87 open London
 
 You do not have to join anything. Almost every operator here sells a way in for a day or a fortnight, and for a visitor the public pool is usually both the cheapest and the most interesting option.
 
-**Day passes at the chains.** The Gym Group sells one day for **£9.99–£16.99** depending on the club (£9.99 at Alperton, Colindale and East Croydon; £16.99 at Monument), with three- and five-day passes at Oxford Street for £26.99 and £33.99. JD Gyms is **£10.99** at Uxbridge and **£11.99** at Charlton and Enfield, bought as a QR code in the app and valid 24 hours with full access including classes. Snap Fitness is **£15** for a day or **£39.99** for fourteen at Elephant and Castle, during staffed hours. PureGym sells passes from one to thirty days with "no contract or sign up fees", priced per gym. Nuffield offers a complimentary three-day gym pass at club level. **Gymbox and énergie both offer a free trial with no card details.** Third Space sells no day pass at all.
+**Day passes at the chains.** The Gym Group sells one day for **£9.99–£16.99** depending on the club (£9.99 at Alperton, Colindale and East Croydon; £16.99 at Monument), with three- and five-day passes at Oxford Street for £26.99 and £33.99. JD Gyms is **£10.99** at Uxbridge and **£11.99** at Charlton and Enfield, bought as a QR code in the app and valid 24 hours with full access including classes. UK Fitness Club is **£6.99** at Barking, £7.99 at East Ham and £8.99 at its women-only club. Snap Fitness is **£15** for a day or **£39.99** for fourteen at Elephant and Castle, during staffed hours. PureGym sells passes from one to thirty days with "no contract or sign up fees", priced per gym. Nuffield offers a complimentary three-day gym pass at club level. **Gymbox and énergie both offer a free trial with no card details.** Third Space sells no day pass at all.
 
 **Public leisure.** Better charges **£15 for a day and £30 for a week** at most centres, with thirty days at £54.95–£75 — but £25 a day at Oasis, £20 a day at Jubilee Hall, and £41 a day at Charlton Lido. Everyone Active's card is free to register: at the Aquatics Centre a gym session is £15.00, a swim £7.90 peak or £7.30 off-peak, a class £14.40.
 
