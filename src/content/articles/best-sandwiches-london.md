@@ -64,7 +64,7 @@ The modern shops are worth your time too — but there is a pattern in them wort
 
 *£7.50 salt beef beigel · open 24 hours, every day*
 
-**The white shopfront.** Opened in 1974 by Asher Cohen after a falling-out with his brother, who ran — and whose family still runs — the shop a few doors down. It makes around three thousand beigels a day.
+**The white shopfront.** Opened in 1979 by Asher Cohen after a falling-out with his brother, who ran — and whose family still runs — the shop a few doors down. It makes around three thousand beigels a day.
 
 The **salt beef beigel is £7.50**, with mustard and a gherkin, and the salt beef sandwich £8.50. Smoked salmon and cream cheese is £4.50. There is no menu beyond the traditional list and there never has been.
 
