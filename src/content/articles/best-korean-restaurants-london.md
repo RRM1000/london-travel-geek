@@ -134,7 +134,11 @@ One of the **oldest Korean restaurants in New Malden**, family-run and considera
 
 ### Chick and Beers, Burlington Road
 
-*£ · Korean fried chicken* · Cited by 4 sources
+*£ · Korean fried chicken* · Cited by 4 sources
+
+![A metal tray of Korean fried chicken lined with newspaper, the pieces glazed a deep amber and scattered with crisp fried shallots](../../assets/articles/best-korean-restaurants-london/chick-and-beers-wings.jpg)
+
+*Double-fried, glazed, and finished with fried shallots — the shell stays crisp under the sauce, which is the whole reason for frying it twice.*
 
 **Family-owned, double-fried, and widely held to be the best Korean fried chicken in London** — in the middle of New Malden's Koreatown rather than in town, which is why it stays honest.
 
