@@ -29,6 +29,8 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 > - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay ARE accepted at Southend Airport station, but **Oyster cards are NOT valid**!  
 > - **Smart Interchange Tip:** Change at **Stratford** for the Elizabeth line to reach Paddington, Farringdon, or Canary Wharf faster than staying on the train to Liverpool Street!
 
+> 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
+
 ---
 
 ## Southend Transport Options Compared

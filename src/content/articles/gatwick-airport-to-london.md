@@ -33,6 +33,8 @@ London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km
 > - **Cheapest Budget Option:** **National Express / Megabus** (from **£6.00** advance, 75–120 mins to Victoria Coach Station).  
 > - **Contactless Accepted:** Tap your contactless card, Apple Pay, or Oyster card at the station turnstiles for Southern and Thameslink.
 
+> 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
+
 ---
 
 ## Gatwick Transport Options Compared

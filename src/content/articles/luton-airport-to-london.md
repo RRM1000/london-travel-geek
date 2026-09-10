@@ -31,6 +31,8 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 > - **Crucial Ticket Rule:** When buying train tickets online or at machines, select **"Luton Airport (LUA)"** as your destination so the £4.90 DART shuttle fee is automatically included! (Selecting "Luton Airport Parkway" excludes the DART).  
 > - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay ARE accepted, but **Oyster cards are NOT valid** to Luton!
 
+> 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
+
 ---
 
 ## Luton Transport Options Compared

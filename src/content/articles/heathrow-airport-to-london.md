@@ -39,6 +39,8 @@ When arriving at London Heathrow (LHR), the fastest-looking train to Paddington 
 > - **Best for Paddington & Advance Deals:** Take the **Heathrow Express** (15 mins non-stop to Paddington, best if pre-booked for £10).  
 > - **Best for Groups & Heavy Bags:** Pre-book a private transfer or take a licensed London Black Cab.
 
+> 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
+
 ---
 
 ## Heathrow transport options at a glance

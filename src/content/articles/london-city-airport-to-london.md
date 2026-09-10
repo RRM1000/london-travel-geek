@@ -32,6 +32,8 @@ London City Airport (LCY) is the most centrally located airport in London, situa
 >   - Change at **Canning Town** (2 stops) for the **Jubilee Line** to London Bridge, Westminster, and Waterloo.  
 > - **Full TfL Acceptance:** Contactless bank cards, Apple/Google Pay, Oyster cards, and Travelcards are fully valid!
 
+> 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
+
 ---
 
 ## London City Transport Options Compared

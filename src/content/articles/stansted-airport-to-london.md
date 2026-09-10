@@ -30,6 +30,8 @@ London Stansted (STN) is London's primary hub for low-cost airlines like Ryanair
 > - **Cheapest Budget Option:** **National Express / Airport Bus** (from **£5.00** advance). Takes 50–100 mins depending on traffic to Stratford, Victoria, or Baker Street.  
 > - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay ARE accepted on Stansted Express, but **Oyster cards are NOT accepted**!
 
+> 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
+
 ---
 
 ## Stansted Transport Options Compared
