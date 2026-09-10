@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-09",
- "count": 218,
+ "generated": "2026-09-10",
+ "count": 219,
  "hotels": [
   {
    "slug": "astor-hyde-park",
@@ -1845,6 +1845,32 @@
     "best-value"
    ],
    "website": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-tower-bridge.html"
+  },
+  {
+   "slug": "premier-inn-london-wembley-stadium",
+   "name": "Premier Inn London Wembley Stadium",
+   "propertyType": "hotel",
+   "style": "Budget chain hotel at the ground",
+   "brand": "premier-inn",
+   "chainType": "chain",
+   "area": "Wembley",
+   "borough": "Brent",
+   "zone": "4",
+   "district": "North West",
+   "postcode": "HA9 0GG",
+   "priceBand": "££",
+   "whyGo": "The Premier Inn at the ground, by Wembley Stadium, the arena and the London Designer Outlet - on an event night you walk back to the room instead of queueing for a train.",
+   "opNote": "NEEDS VERIFYING: street address, star rating, breakfast and luggage storage not yet checked. Postcode HA9 0GG and the location wording are from Premier Inn's own hotel page. Not to be confused with Premier Inn London Wembley Park (HA9 8HQ), 180m from Wembley Park station. Premier Inn sells direct, so this links to premierinn.com, not an affiliate.",
+   "goodFor": [
+    "families",
+    "budget",
+    "groups"
+   ],
+   "lists": [
+    "venues",
+    "wembley"
+   ],
+   "website": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-wembley-stadium.html"
   },
   {
    "slug": "ruby-zoe",

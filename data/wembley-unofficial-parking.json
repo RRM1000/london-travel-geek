@@ -1,0 +1,478 @@
+{
+  "meta": {
+    "topic": "Unofficial and private event-day parking around Wembley Stadium and OVO Arena Wembley (HA9)",
+    "startedOn": "2026-09-10",
+    "lastUpdated": "2026-09-10",
+    "status": "complete (time-boxed): businesses, driveways, community, official position all saved. Gaps listed in unconfirmed[].",
+    "context": "Brent event-day zone bans visitor on-street parking up to 3.26km from the stadium; official parking is £50 via Wembley Official Parking. Owner reports businesses and households charging roughly £10-30 on event days.",
+    "rules": "Primary sources preferred. No invented or estimated prices. Anything unconfirmed goes in unconfirmed[]. Quotes kept under 15 words, one per source; the rest paraphrased - follow the URL for full wording.",
+    "justparkNote": "JustPark 'Reserve from' figures (search page) and 'from £X' figures (listing page titles) are the lowest bookable price at fetch time (10 Sep 2026, a date with no stadium or arena event on the Green Man's calendar), not event-day prices. Event-day JustPark quotes were not obtained.",
+    "officialBenchmark": "Wembley Park's own car parks (the official ones): flat £50 per car on stadium event days (midnight to midnight) and £20 per car on OVO Arena event days, per https://www.londondesigneroutlet.com/wembley-event-day-guide/ (fetched 10 Sep 2026)."
+  },
+  "businesses": [
+    {
+      "name": "The Greenman Pub and Hotel (The Green Man)",
+      "type": "pub / hotel",
+      "address": "Dagmar Avenue, Wembley HA9 8DF",
+      "price": "£40 per car on Wembley Stadium event days; £20 for OVO Arena events (all vehicles); minibuses from £40; coaches up to £59.99",
+      "events": "Stadium and arena events. Price list examples: Bon Jovi 4, 6, 9 Sep 2026 £40; Diljit Dosanjh 12 Sep 2026 £40; England v Spain 26 Sep 2026 £40; England v Czechia 6 Oct 2026 £40; ITZY (arena) 11 Sep 2026 £20; Andre Rieu 17-18 Sep 2026 £20",
+      "booking": "Ring 07595 051937 or text 07583 333378 naming the event; pay on arrival; no forms. Also on JustPark as 'The Greenman Hotel Wembley Car Park' (managed by Greenman Wembley; 'Daily - £22.50', 'Session - £130.00'; 4.73 stars from 1,547 reviews; 1000+ bookings).",
+      "details": "Park from 08:00 all day on event days. Site says it is 300m from the stadium and claims a quicker getaway 'with no blocking in'. Its JustPark listing says cars may be arranged on event days: 'there might be an organisation of cars to allow for maximum occupancy'.",
+      "sourceUrl": "https://www.thegreenmanpubandhotel.london/parking-for-wembley/",
+      "sourceType": "operator's own page",
+      "sourceDate": "undated; event price list covers Aug-Nov 2026; fetched 2026-09-10",
+      "secondarySources": ["https://www.justpark.com/uk/parking/wembley/s/dagmar-avenue-wembley-ha9-8df-p58ff5a0cc4f06/"],
+      "evidence": "primary - confirmed (re-confirms the £40 stadium / £20 arena by-phone arrangement)"
+    },
+    {
+      "name": "Wembley Primary School car park (sold by The Combined Services Provider)",
+      "type": "school",
+      "address": "Wembley Primary School, East Lane, Wembley HA9 7NW",
+      "price": "£20.00 per car (£18.50 + £1.50 booking fee)",
+      "events": "Stadium event days, e.g. Diljit Dosanjh & OVO Arena Mis-Teeq, Sat 12 Sep 2026 (4:15pm-11:30pm); Union Jack Classic (Arizona State v Kansas), Sat 19 Sep 2026; England v Spain & OVO Arena Anastacia, Sat 26 Sep 2026; England v Czechia, Tue 6 Oct 2026. Also sold for Linkin Park, 28 Jun 2025.",
+      "booking": "Online, prepaid, via parking.gotocsp.com (The Combined Services Provider, which also runs Tottenham Hotspur Stadium event parking)",
+      "sourceUrl": "https://parking.gotocsp.com/checkout/view-event/id/8747935/chk/eedbf70e4d41a5df090fb6087a8b820b",
+      "sourceType": "booking agent's checkout page",
+      "sourceDate": "fetched 2026-09-10 (events Sep-Oct 2026)",
+      "secondarySources": [
+        "https://parking.gotocsp.com/events/thecombinedservicesprovider",
+        "https://parking.gotocsp.com/checkout/view-event/id/8747942/chk/851a4e2a2c268a5a7af7308cfafdbe77",
+        "https://parking.gotocsp.com/checkout/view-event/id/7599244/chk/c157",
+        "https://parking.gotocsp.com/checkout/view-event/id/8221786/chk/0a58",
+        "https://parking.gotocsp.com/events/thecombinedservicesprovider/1710566"
+      ],
+      "evidence": "primary - confirmed"
+    },
+    {
+      "name": "Empire Way Car Park (Green Parking)",
+      "type": "commercial car park (private operator, not part of Wembley Official Parking)",
+      "address": "Empire Way, Wembley HA9 0RJ (opposite London Designer Outlet)",
+      "price": "Stadium event day: cars £40, vans £45. Arena event day: cars £25, vans £25. Non-event: up to 2 hours £2.50, all day £10 (cars).",
+      "events": "Stadium and OVO Arena event days, flat rate for the day; sessions end 23:59",
+      "booking": "Pre-book on JustPark (location code 162343); 80 pre-bookable spaces, 2.1m barrier at one entrance; JustPark listing 4.46 stars from 5,368 reviews",
+      "sourceUrl": "https://green-parking.co.uk/car-park/wembley-empire-way-car-park/",
+      "sourceType": "operator's own page",
+      "sourceDate": "undated; fetched 2026-09-10",
+      "secondarySources": ["https://www.justpark.com/uk/parking/wembley/s/empire-way-wembley-ha9-0rj-p579634d35cc1b/"],
+      "evidence": "primary - confirmed. Shows the event-day uplift clearly (£10 all day normally, £40 on stadium days)."
+    },
+    {
+      "name": "Ramezani London Ltd (JustPark: 'Parking space on Fourth Way & Atlas Road, HA9')",
+      "type": "industrial-estate unit (Wembley Stadium Industrial Estate)",
+      "address": "Unit 38, Fourth Way & Atlas Road, Wembley HA9 0LH",
+      "price": "JustPark 'Reserve from' £17.00 on search page; listing page 'from £23.70'. Event-day price not obtained.",
+      "events": "Listing is headed 'Wembley Stadium parking for events'; one or two staff on site to direct cars",
+      "booking": "JustPark (host 'Houman'); 4.73 stars from 218 reviews; 1000+ bookings",
+      "sourceUrl": "https://www.justpark.com/uk/parking/wembley/s/fourth-way-atlas-road-wembley-ha9/",
+      "sourceType": "JustPark listing (host-written)",
+      "sourceDate": "fetched 2026-09-10",
+      "evidence": "primary listing - business confirmed, event price not confirmed"
+    },
+    {
+      "name": "Parking on Fourth Way, HA9 (JustPark host 'Iftikhar')",
+      "type": "industrial-estate yard (Wembley Stadium Industrial Estate)",
+      "address": "Fourth Way, Wembley HA9 0LH",
+      "price": "JustPark 'Reserve from' £10.00 on search page; listing page 'from £20.20'. Event-day price not obtained.",
+      "events": "Listing: 3-minute walk to the stadium, arena, Boxpark and outlet; park in a marked bay",
+      "booking": "JustPark; 4.45 stars from 413 reviews; 1000+ bookings; display the JustPark printout",
+      "sourceUrl": "https://www.justpark.com/uk/parking/wembley/s/fourth-way-wembley-ha9-0lh-p60b280dc7c72b/",
+      "sourceType": "JustPark listing (host-written)",
+      "sourceDate": "fetched 2026-09-10",
+      "evidence": "primary listing - event price not confirmed"
+    },
+    {
+      "name": "Parking on Fifth Way, HA9 (YourParkingSpace)",
+      "type": "industrial-estate spaces (Wembley Stadium Industrial Estate)",
+      "address": "Fifth Way, Wembley HA9",
+      "price": "Quote for Thu 10 Sep 2026, 1pm-7pm: £50.00 + £0.39 reservation fee + £2.49 service fee = £52.88. Event-day price not obtained.",
+      "events": "Listed under Bubble Planet Wembley; CCTV and on-site staff",
+      "booking": "YourParkingSpace; 5.0 stars from 41 reviews",
+      "sourceUrl": "https://www.yourparkingspace.co.uk/locations/show/579690781",
+      "sourceType": "YourParkingSpace listing",
+      "sourceDate": "fetched 2026-09-10",
+      "evidence": "primary listing"
+    },
+    {
+      "name": "St Augustine's Church, Wembley Park",
+      "type": "place of worship",
+      "address": "Per JustPark listing: 'Wembley Road Hill' [sic], Wembley Park HA9 8EW (from listing URL/title)",
+      "price": "JustPark 'Reserve from' £12.00. Event-day price not obtained.",
+      "events": "Car park at the rear, down the lane next to the church; vans accepted; multiple entry/exit",
+      "booking": "JustPark, managed by 'St Augustines Wembley Park'; 4.98 stars from 44 reviews; 1000+ bookings",
+      "sourceUrl": "https://www.justpark.com/uk/parking/wembley/s/wembley-road-hill-wembley-ha9-8ew-p69820ddcdd8cf/",
+      "sourceType": "JustPark listing (operator-managed)",
+      "sourceDate": "fetched 2026-09-10",
+      "evidence": "primary listing - event price not confirmed"
+    },
+    {
+      "name": "ASDA Wembley Car Park",
+      "type": "supermarket",
+      "address": "Forty Lane, Wembley HA9 9EX",
+      "price": "JustPark tariffs: up to 1 hour £2.50 rising to 4-5 hours £12.50 (weekly £87.50); a second tariff: up to 1 hour £3.30, daily £16.50. Listing page 'from £6.34'. Event-day uplift not confirmed.",
+      "events": "Not event-specific; open 24/7; multiple entry/exit during the session",
+      "booking": "JustPark, managed by ASDA; must enter vehicle registration or risk a Parking Charge Notice",
+      "sourceUrl": "https://www.justpark.com/uk/parking/wembley/s/forty-lane-wembley-ha9-9ex/",
+      "sourceType": "JustPark listing (operator-managed)",
+      "sourceDate": "fetched 2026-09-10",
+      "evidence": "primary listing"
+    },
+    {
+      "name": "Holiday Inn Wembley (YourParkingSpace)",
+      "type": "hotel",
+      "address": "Listed as 'Holiday Inn Wembley, HA9'",
+      "price": "£9.00 for 6 hours, quoted for Thu 10 Sep 2026 12:30-18:30 (not an event day). Event-day price not obtained.",
+      "events": "n/a",
+      "booking": "YourParkingSpace; 3.5 stars from 303 reviews",
+      "sourceUrl": "https://www.yourparkingspace.co.uk/wembley/ovo-arena-wembley",
+      "sourceType": "YourParkingSpace search results",
+      "sourceDate": "fetched 2026-09-10",
+      "evidence": "primary listing - non-event price only"
+    },
+    {
+      "name": "Elm Road Car Park and Dukes Way Car Park (Abri / Octavia housing-association garages)",
+      "type": "housing-association car parks",
+      "address": "Elm Road, Wembley HA9 7BF; Dukes Way, Wembley HA9 7JA",
+      "price": "JustPark 'Reserve from' £2.00 (Elm Road) and £1.00 (Dukes Way); listing pages 'from £2.25'. Elm Road listing says event-day pricing applies for stadium events (amount not shown).",
+      "events": "Elm Road: 'The listing is subject to event day pricing for events at the Stadium.' Dukes Way: gates close 00:30 on event dates; 1.9m height limit; 17-minute walk to the stadium.",
+      "booking": "JustPark, managed by Abri Octavia",
+      "sourceUrl": "https://www.justpark.com/uk/parking/wembley/s/elm-road-wembley-ha9-7bf/",
+      "sourceType": "JustPark listing (operator-managed)",
+      "sourceDate": "fetched 2026-09-10",
+      "secondarySources": ["https://www.justpark.com/uk/parking/london/s/dukes-way-wembley-london-ha9-7ja/"],
+      "evidence": "primary listing - event price not confirmed"
+    },
+    {
+      "name": "London Designer Outlet event-day parking offer",
+      "type": "shopping centre (inside the official Wembley Park estate - not a pop-up)",
+      "address": "Wembley Park Boulevard, HA9 0FD (nearest: Red Car Park, HA9 0DS)",
+      "price": "Flat event-day tariffs in Wembley Park car parks: £50 per car on stadium days, £20 on arena days. Shoppers spending over £40 at LDO shops, restaurants or Cineworld can instead pay the normal tariff for the first six hours, subject to availability, excluding pre-booked parking.",
+      "events": "Stadium and OVO Arena event days",
+      "booking": "Turn up; first come, first served",
+      "sourceUrl": "https://www.londondesigneroutlet.com/wembley-event-day-guide/",
+      "sourceType": "operator's own page",
+      "sourceDate": "fetched 2026-09-10",
+      "evidence": "primary - official estate, useful as the price benchmark"
+    }
+  ],
+  "driveways": {
+    "platforms": [
+      {
+        "platform": "JustPark",
+        "url": "https://www.justpark.com/uk/parking/wembley-stadium/",
+        "notes": "Claims over 5,220 reservable spaces near Wembley Stadium: driveways plus a church, a school, industrial units, Asda, housing-association garages and Green Parking. Listings warn that an unregistered vehicle may get a Parking Charge Notice."
+      },
+      {
+        "platform": "YourParkingSpace",
+        "url": "https://www.yourparkingspace.co.uk/wembley/ovo-arena-wembley",
+        "notes": "Wembley page says 823 space owners in the area and 'prices start from as low as £2'. Search results give 6-hour totals including fees."
+      },
+      {
+        "platform": "Stashbee",
+        "url": "https://stashbee.com/parking-spaces/west-london/brent/wembley-stadium",
+        "notes": "Monthly rentals only: low £140, average £226, high £518 a month. Not an event-day option."
+      },
+      {
+        "platform": "ParkOnMyDrive",
+        "url": "https://www.parkonmydrive.com/",
+        "notes": "Named by a Reddit user (2019) as the site they used for NFL games at Wembley, at £10-£20. Not checked directly."
+      }
+    ],
+    "examples": [
+      {
+        "name": "Parking on Manor Drive, HA9 (YourParkingSpace, nine separate listings)",
+        "address": "Manor Drive / Manor Dr, Wembley HA9",
+        "price": "£32.13 to £84.13 for 6 hours (listings at £32.13, £32.13, £40.38, £44.63, £46.63, £52.88, £57.88, £66.63, £84.13), quoted for Thu 10 Sep 2026 12:30-18:30",
+        "url": "https://www.yourparkingspace.co.uk/wembley/ovo-arena-wembley",
+        "date": "fetched 2026-09-10"
+      },
+      {
+        "name": "Hillcroft Crescent, HA9 (YourParkingSpace)",
+        "address": "Hillcroft Crescent, Wembley HA9",
+        "price": "£40.38 for 6 hours, quoted for Thu 10 Sep 2026 12:30-18:30",
+        "url": "https://www.yourparkingspace.co.uk/wembley/ovo-arena-wembley",
+        "date": "fetched 2026-09-10"
+      },
+      {
+        "name": "1 Wellers Way, Fulton Road HA9 (YourParkingSpace)",
+        "address": "1 Wellers Way, Fulton Road, Wembley HA9 (industrial side of the stadium)",
+        "price": "£82.88 for 6 hours, quoted for Thu 10 Sep 2026 12:30-18:30",
+        "url": "https://www.yourparkingspace.co.uk/wembley/ovo-arena-wembley",
+        "date": "fetched 2026-09-10"
+      },
+      {
+        "name": "Parking on Manor Drive, HA9 (JustPark host 'Kevin')",
+        "address": "Manor Drive, Wembley HA9",
+        "price": "JustPark 'Reserve from' £15.00",
+        "notes": "Driveway for three cars; '3 minutes walk' to the stadium and arena; 4.93 stars (336)",
+        "url": "https://www.justpark.com/uk/parking/wembley/s/manor-drive-wembley-ha9-p54da7451ba53f/",
+        "date": "fetched 2026-09-10"
+      },
+      {
+        "name": "Parking on Brook Avenue, HA9 (JustPark host 'Agudiwala')",
+        "address": "Brook Avenue, Wembley HA9 8PH",
+        "price": "JustPark 'Reserve from' £6.50",
+        "notes": "4 spaces; 3 min from Wembley Park station, 10 min to stadium; 4.89 stars (173)",
+        "url": "https://www.justpark.com/uk/parking/wembley/s/brook-avenue-wembley-ha9-8ph-p5ceb0d2a5033b/",
+        "date": "fetched 2026-09-10"
+      },
+      {
+        "name": "Parking on Wembley Park Drive, HA9 (JustPark host 'Satpal Singh')",
+        "address": "Wembley Park Drive, Wembley HA9 8HB",
+        "price": "not captured",
+        "notes": "3 spaces, 6-7 min walk; drivers told to leave room for two other cars; 4.94 stars (266)",
+        "url": "https://www.justpark.com/uk/parking/wembley/s/wembley-park-drive-wembley-ha9-8hb-p637391eb11f6f/",
+        "date": "fetched 2026-09-10"
+      }
+    ],
+    "priceRange": {
+      "summary": "No event-day driveway quote was captured. Non-event quotes on 10 Sep 2026: JustPark minimums £6.50-£15 for driveways; YourParkingSpace 6-hour totals £32.13-£84.13 on Manor Drive, Hillcroft Crescent and Fulton Road. Community reports put event-day driveway parking at £10-£20 (Reddit, 2019).",
+      "doPricesRiseOnEventDays": "Yes where stated: Green Parking goes from £10 all day to £40 (stadium) / £25 (arena); Abri's Elm Road listing applies 'event day pricing' for stadium events; Concert Parking says prices may rise with demand. No driveway-specific before/after pair captured."
+    }
+  },
+  "community": [
+    {
+      "source": "Reddit r/london, comment on 'Parking around Wembley Stadium on Event Days'",
+      "url": "https://www.reddit.com/r/london/comments/c2tagp/_/ermfqcn/",
+      "date": "2019-06-20",
+      "quote": "loads of local businesses will rent out their spaces. Usually around £20.",
+      "shows": "Industrial-estate business parking about £20; same comment points readers to Fifth Way",
+      "evidenceType": "Reddit comment (community evidence)"
+    },
+    {
+      "source": "Reddit r/london, same thread",
+      "url": "https://www.reddit.com/r/london/comments/c2tagp/_/erminxx/",
+      "date": "2019-06-20",
+      "quote": "The one in the industrial area are way expensive",
+      "shows": "Says residents near the stadium rent spaces (names Clifton Avenue); industrial-area parking dearer and slow to exit to the North Circular",
+      "evidenceType": "Reddit comment (community evidence)"
+    },
+    {
+      "source": "Reddit r/london, same thread",
+      "url": "https://www.reddit.com/r/london/comments/c2tagp/_/ern4zk5/",
+      "date": "2019-06-20",
+      "quote": "There's a school that allow people to use their car park near the Asda",
+      "shows": "School car park near Asda (Forty Lane) used for event parking",
+      "evidenceType": "Reddit comment (community evidence)"
+    },
+    {
+      "source": "Reddit r/london, same thread",
+      "url": "https://www.reddit.com/r/london/comments/c2tagp/_/f0448dy/",
+      "date": "2019-09-13",
+      "quote": "a bit surreal just driving up and leaving your car on a random drive",
+      "shows": "JustPark driveway booking worked as described",
+      "evidenceType": "Reddit comment (community evidence)"
+    },
+    {
+      "source": "Reddit r/london, comment on 'Parking options on event day in/around Wembley?' (OVO Arena event)",
+      "url": "https://www.reddit.com/r/london/comments/u2amrn/_/i4k6ugr/",
+      "date": "2022-04-13",
+      "quote": "open up their car parks on event nights for about £15 a car",
+      "shows": "Local companies charging about £15 on arena nights",
+      "evidenceType": "Reddit comment (community evidence)"
+    },
+    {
+      "source": "Reddit r/london, same thread",
+      "url": "https://www.reddit.com/r/london/comments/u2amrn/_/i4j2pa2/",
+      "date": "2022-04-13",
+      "quote": "Last time I went it was like £15.",
+      "shows": "Corroborates about £15",
+      "evidenceType": "Reddit comment (community evidence)"
+    },
+    {
+      "source": "Reddit r/AskUK, comment on 'What's the parking like at Wembley stadium?'",
+      "url": "https://www.reddit.com/r/AskUK/comments/b0xq50/_/eihwq0a/",
+      "date": "2019-03-14",
+      "quote": "pretty reasonable (£10 - £20) and normally 10 - 20 minutes walk away",
+      "shows": "Driveway rental via ParkOnMyDrive for NFL games at £10-£20",
+      "evidenceType": "Reddit comment (community evidence)"
+    },
+    {
+      "source": "Reddit r/AskUK, same thread",
+      "url": "https://www.reddit.com/r/AskUK/comments/b0xq50/_/eijpt6j/",
+      "date": "2019-03-14",
+      "quote": "they're £40 on an event day",
+      "shows": "Official car parks next to the stadium were £40 in 2019 (now £50)",
+      "evidenceType": "Reddit comment (community evidence)"
+    },
+    {
+      "source": "Reddit r/AEWOfficial, comment on 'ALL In Wembley stadium - anyone know parking areas?'",
+      "url": "https://www.reddit.com/r/AEWOfficial/comments/14qradm/_/jqok0sh/",
+      "date": "2023-07-04",
+      "quote": "pretty extortionate as well at £40 for one car",
+      "shows": "Official parking £40 in 2023; commenter uses JustPark driveways instead, 'usually much cheaper'",
+      "evidenceType": "Reddit comment (community evidence)"
+    }
+  ],
+  "officialPosition": {
+    "stadium": [
+      {
+        "source": "Wembley Stadium help centre: 'Official Parking, Blue Badge, Coach and Bicycle Parking' (section headed 'Unauthorised Car Parking')",
+        "url": "https://help.wembleystadium.com/support/solutions/articles/7000028427-official-parking-blue-badge-coach-and-bicycle-parking",
+        "date": "Modified on Tue, 10 Feb 2026",
+        "quote": "There are a number of unauthorised car parking operators within the Wembley area.",
+        "paraphrase": "Strongly advises against using them, for three reasons headed Insurance Risk (they may not be insured to run a commercial car park, so you are not covered on their site if they are at fault), Car Crime (numerous reports in unofficial car parks) and Poor Lighting (car parks and pedestrian approach roads). Recommends drivers use only Wembley Official Parking, which the stadium says it does not manage."
+      },
+      {
+        "source": "Wembley Stadium: Parking at Wembley",
+        "url": "https://www.wembleystadium.com/plan-your-visit/getting-to-wembley/parking-at-wembley",
+        "date": "undated; fetched 2026-09-10",
+        "quote": "Avoid 'pop-up' car parks - many private car parks appear on event days",
+        "paraphrase": "Warns that pop-ups probably lack the correct insurance (you are not covered if they are at fault), are not patrolled so car crime does happen, and are poorly lit. Also says to use only official car parks and that street parking is reserved for residents."
+      }
+    ],
+    "arena": [
+      {
+        "source": "OVO Arena Wembley: Getting here",
+        "url": "https://www.ovoarena.co.uk/your-visit/getting-here-accommodation",
+        "date": "undated; fetched 2026-09-10",
+        "quote": "Wembley Park's 24-hour car parks are official event car parks.",
+        "paraphrase": "Describes them as CCTV-monitored and officially marshalled on event days, and says to pre-book. No explicit warning about unofficial or pop-up car parks found on the arena's Getting here, FAQs or Staying safe pages."
+      }
+    ],
+    "brent": [
+      {
+        "source": "Brent Council: Wembley Event days",
+        "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days",
+        "date": "Last updated 10/08/26",
+        "quote": "we ask that you only use official stadium car parks",
+        "paraphrase": "Given under 'Travelling to Wembley', addressed to anyone coming by car."
+      },
+      {
+        "source": "Brent Council: Wembley event day parking restrictions",
+        "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/wembley-event-day-parking-restrictions",
+        "date": "Last updated 14/11/25",
+        "quote": "you will get a parking ticket and may have your vehicle removed",
+        "paraphrase": "Only residents and businesses with an event-day permit may park in the zone. Restrictions run 8am to midnight on main roads and generally 10am to midnight in residential areas (zone T 24/7). Brent can enforce only on the public highway, not on private or unadopted roads. Separate event-day permit categories exist for places of worship and schools."
+      },
+      {
+        "source": "Brent committee papers: 'Public Space Protection Order (PSPO) Renewal - Wembley Stadium Response' (Appendix 29, written by Wembley National Stadium Ltd)",
+        "url": "https://democracy.brent.gov.uk/documents/s128041/Appendix%2029%20-%20Wembley%20Stadium%20Statement.pdf",
+        "date": "undated; written after the EURO 2020 final (July 2021)",
+        "quote": "can monitor and shut down unauthorised activities e.g. drone activity and unauthorised parking",
+        "paraphrase": "The PSPO (in force since 2017) lists 'No unauthorised vehicles' among Major Event Day prohibitions; joint event-day enforcement teams from the stadium, Brent and Wembley Park Ltd can issue Fixed Penalty Notices."
+      }
+    ],
+    "other": [
+      {
+        "source": "Foxes Trust (Leicester City supporters' trust): Going to Wembley",
+        "url": "https://foxestrust.co.uk/4587/going-to-wembley",
+        "date": "2016-08-01",
+        "quote": "unauthorised car parking operators within the Industrial Estate on the approach",
+        "paraphrase": "An older version of the stadium's advice that named the industrial estate specifically; gives the same insurance, car-crime and lighting reasons plus 'Patrols' (not patrolled during or after the event)."
+      },
+      {
+        "source": "Concert Parking (Lyon Park Primary School car park) FAQ - lock-in risk",
+        "url": "https://concertparking.co.uk/faq",
+        "date": "undated; fetched 2026-09-10",
+        "quote": "Vehicles not collected in time will be locked in and incur a £200 penalty.",
+        "paraphrase": "Closes about an hour after the event (11.30pm for summer concerts); no re-entry, no overnight parking, bookings non-refundable; release may not be possible until the next day."
+      },
+      {
+        "source": "The Greenman Hotel Wembley Car Park, JustPark listing - blocking-in risk",
+        "url": "https://www.justpark.com/uk/parking/wembley/s/dagmar-avenue-wembley-ha9-8df-p58ff5a0cc4f06/",
+        "date": "fetched 2026-09-10",
+        "quote": "there might be an organisation of cars to allow for maximum occupancy",
+        "paraphrase": "Applies on event days; contrasts with the pub's own site claiming 'no blocking in'. JustPark host listings generally warn that a wrong or missing registration can bring a Parking Charge Notice."
+      },
+      {
+        "source": "Football Ground Guide: Where to Park Near Wembley Stadium 2026",
+        "url": "https://footballgroundguide.com/news/where-to-park-near-wembley-stadium-official-car-parks-private-spaces-and-nearby-options.html",
+        "date": "2026-06-23 (search-engine date)",
+        "quote": "Be cautious of \"pop-up\" event-day",
+        "paraphrase": "Independent guide repeating the caution about pop-up car parks while recommending pre-booked driveway platforms."
+      }
+    ]
+  },
+  "unconfirmed": [
+    {
+      "item": "Wembley Central Car Parking at Oakington Manor School (school car park, proceeds to the school)",
+      "found": "Operator site confirms event-day parking for stadium and arena, attendant, CCTV, toilets, first aider, '20 to 25 minute walk to the stadium'. Contact lettings@oakmanor.brent.sch.uk, 020 8795 7517 / 07825 050 394. Says it has no connection to Wembley Stadium.",
+      "missing": "Price and postcode not published on the pages fetched; booking calendar is script-rendered.",
+      "url": "https://www.wembleycarparking.org.uk/secure-parking"
+    },
+    {
+      "item": "Concert Parking Wembley at Lyon Park Primary School, Mount Pleasant, Wembley",
+      "found": "Manned, CCTV-monitored school car park; FAQ lists Wembley events at this site (Matchday Parking is the same group, which also runs Tottenham).",
+      "missing": "Price not shown ('Prices vary by event'). Postcode conflicts: HA0 1SH on the Wembley page, HA0 1UA in the FAQ.",
+      "url": "https://concertparking.co.uk/wembley"
+    },
+    {
+      "item": "JustPark 'East Ln, Wembley HA9 7NW' listing",
+      "found": "Same postcode as Wembley Primary School; the JustPark Wembley page carries a review under 'Wembley Primary School Car Park'. Listing page title 'from £20'.",
+      "missing": "Could not confirm the listing is the school (name is rendered client-side).",
+      "url": "https://www.justpark.com/uk/parking/london/s/east-ln-wembley-london-ha9-7nw/"
+    },
+    {
+      "item": "Freddie's Corner, Fulton Road & Fifth Way, Wembley",
+      "found": "Listed as a 24/7 car park on Parking Management Network (search result).",
+      "missing": "No price on the page fetched.",
+      "url": "https://parkingmanagementnetwork.co.uk/listing/freddies-corner-fulton-road-fifth-way-wembley/"
+    },
+    {
+      "item": "Event-day prices for the JustPark industrial-estate, church and driveway listings",
+      "found": "Only 'from' prices at a non-event time (10 Sep 2026).",
+      "missing": "Quote for a real event date (e.g. Sat 12 Sep 2026) needs the JustPark app or site with dates entered."
+    },
+    {
+      "item": "Brent planning enforcement, 28-day temporary-use rule, licensing for event-day car parks",
+      "found": "Nothing specific found. Searches run: 'brent council unauthorised car parks wembley event days planning enforcement'; '\"event day car parking\" Brent planning Wembley enforcement OR application' (no results). Only the PSPO statement on shutting down unauthorised parking.",
+      "missing": "Brent planning portal and enforcement register not searched."
+    },
+    {
+      "item": "Car washes, garages, sports clubs, mosques and temples selling event parking",
+      "found": "None found in the time available.",
+      "missing": "Not searched beyond one DuckDuckGo query for places of worship (which returned only generic mosque directories)."
+    },
+    {
+      "item": "thegreenmanhotelatwembley.co.uk/parking.htm (second Green Man site; search title says 'Wembley Stadium Free Parking')",
+      "found": "curl could not connect on 2026-09-10.",
+      "missing": "The operator's other site confirms £40 / £20; the 'free parking' wording is probably for hotel guests but is unconfirmed."
+    },
+    {
+      "item": "Wider Reddit search via arctic-shift",
+      "found": "Global text search needs a subreddit or author (HTTP 400); subreddit searches returned 'Timeout. Maybe slow down a bit' (HTTP 422) and were stopped. Thread comments pulled by link_id for 8 threads found through DuckDuckGo instead.",
+      "missing": "A slower targeted pass (scratchpad arctic2.js: 26 subreddits x 6 terms) was written but not run."
+    },
+    {
+      "item": "wembleyparking.net",
+      "found": "Undated booking FAQ: 'Prices for Wembley Arena parking start from £8', rising closer to the event.",
+      "missing": "Unclear who operates it or whether it is current."
+    }
+  ],
+  "sources": [
+    "https://www.thegreenmanpubandhotel.london/parking-for-wembley/",
+    "https://parking.gotocsp.com/events/thecombinedservicesprovider",
+    "https://parking.gotocsp.com/checkout/view-event/id/8747935/chk/eedbf70e4d41a5df090fb6087a8b820b",
+    "https://parking.gotocsp.com/checkout/view-event/id/8747942/chk/851a4e2a2c268a5a7af7308cfafdbe77",
+    "https://parking.gotocsp.com/checkout/view-event/id/7599244/chk/c157",
+    "https://parking.gotocsp.com/checkout/view-event/id/8221786/chk/0a58",
+    "https://green-parking.co.uk/car-park/wembley-empire-way-car-park/",
+    "https://www.justpark.com/uk/parking/wembley-stadium/",
+    "https://www.justpark.com/uk/parking/wembley/s/fourth-way-atlas-road-wembley-ha9/",
+    "https://www.justpark.com/uk/parking/wembley/s/fourth-way-wembley-ha9-0lh-p60b280dc7c72b/",
+    "https://www.justpark.com/uk/parking/wembley/s/wembley-road-hill-wembley-ha9-8ew-p69820ddcdd8cf/",
+    "https://www.justpark.com/uk/parking/wembley/s/forty-lane-wembley-ha9-9ex/",
+    "https://www.justpark.com/uk/parking/wembley/s/elm-road-wembley-ha9-7bf/",
+    "https://www.justpark.com/uk/parking/london/s/dukes-way-wembley-london-ha9-7ja/",
+    "https://www.justpark.com/uk/parking/wembley/s/dagmar-avenue-wembley-ha9-8df-p58ff5a0cc4f06/",
+    "https://www.yourparkingspace.co.uk/wembley/ovo-arena-wembley",
+    "https://www.yourparkingspace.co.uk/locations/show/579690781",
+    "https://stashbee.com/parking-spaces/west-london/brent/wembley-stadium",
+    "https://www.londondesigneroutlet.com/wembley-event-day-guide/",
+    "https://www.wembleycarparking.org.uk/secure-parking",
+    "https://concertparking.co.uk/wembley",
+    "https://concertparking.co.uk/faq",
+    "https://help.wembleystadium.com/support/solutions/articles/7000028427-official-parking-blue-badge-coach-and-bicycle-parking",
+    "https://www.wembleystadium.com/plan-your-visit/getting-to-wembley/parking-at-wembley",
+    "https://www.ovoarena.co.uk/your-visit/getting-here-accommodation",
+    "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days",
+    "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/wembley-event-day-parking-restrictions",
+    "https://democracy.brent.gov.uk/documents/s128041/Appendix%2029%20-%20Wembley%20Stadium%20Statement.pdf",
+    "https://foxestrust.co.uk/4587/going-to-wembley",
+    "https://footballgroundguide.com/news/where-to-park-near-wembley-stadium-official-car-parks-private-spaces-and-nearby-options.html",
+    "https://www.reddit.com/r/london/comments/c2tagp/",
+    "https://www.reddit.com/r/london/comments/u2amrn/",
+    "https://www.reddit.com/r/AskUK/comments/b0xq50/",
+    "https://www.reddit.com/r/AEWOfficial/comments/14qradm/"
+  ]
+}

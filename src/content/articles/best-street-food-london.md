@@ -310,9 +310,9 @@ Outdoor, sociable, drink-led, and the format most likely to have changed since y
 * **Boxpark Camden** — on the old Buck Street Market site by the station, 10am–11pm daily. Birria tacos, Nepali momo, Vietnamese pho and Black Bear Burger.
 * **Boxpark Wembley and Croydon** — 22 to 24 units each. Wembley is a matchday and gig venue first; **its hours change for stadium events**. Croydon is the latest-opening and the most local-feeling.
 
-![The East End entrance to Boxpark Wembley, the big perforated-steel BOXPARK sign above a two-storey unit, with crowd barriers along the front and an events board beside the doors](../../assets/articles/best-street-food-london/boxpark-wembley.jpg)
+![Inside Boxpark Wembley: a long black bar under a high warehouse roof with a mirror ball, and diners at long tables along the windows](../../assets/articles/best-street-food-london/boxpark-wembley.jpg)
 
-*Boxpark Wembley on an ordinary afternoon, and the crowd barriers already out. The events board by the door is the thing to read before you travel — the hours move for whatever is on at the stadium.*
+*Inside Boxpark Wembley. Its hours change for stadium events, so check before you travel.*
 * **Hackney Bridge**, Hackney Wick — eight kitchens plus a canalside garden, **closed Mondays**. The last of the Wick's canal yards still doing this properly.
 * **Vinegar Yard**, London Bridge — scrap-metal dinosaurs, a weekend flea market and a handful of traders. **Closed Mondays and it does not open until late afternoon midweek**, which surprises lunchtime visitors.
 * **Flat Iron Square**, Southwark — five food traders, two bars and a taproom in railway arches. More beer garden than food market, and its own site publishes conflicting hours.

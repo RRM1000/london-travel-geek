@@ -53,6 +53,10 @@ Wembley is easy to reach and easy to get wrong. Up to 90,000 people arrive throu
 
 Two stops from Baker Street on the Metropolitan, and on the Jubilee. You come out at the top of **Olympic Way** and walk straight down it to the Olympic Steps. It has **33 ticket gates across two ticket halls**, against 12 at Wembley Central and none at Wembley Stadium station, which is why it takes most of the crowd. It is also the station for the arena, Boxpark and the London Designer Outlet.
 
+![Wembley Stadium's glass front and arch seen from the foot of the Olympic Steps, bollards across the plaza in the foreground](../../assets/articles/wembley-stadium-arena-guide/olympic-steps.jpg)
+
+*The Olympic Steps at the end of Olympic Way, the stadium's main approach.*
+
 > ⚠️ **Lift works.** Until **autumn 2026** there is **no lift between the street and the ticket hall** on the Olympic Way side; step-free access is via the **Bridge Road entrance**. Lifts to the platforms are unaffected. The operators give different end dates for the work, so check TfL's station page on the day.
 
 ### Wembley Stadium station: an event station
@@ -85,7 +89,6 @@ For a concert with 5pm doors, **road closures went in from 3pm and parking restr
 The only legal way to park on a street in the zone is with one of a resident's **two paper visitor permits**; anything sold online is not a Brent permit. [Brent's CPZ map](https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/controlled-parking-zones/cpz-map) shows whether an address is inside the zone.
 
 - **Private roads** inside the zone are outside Brent's enforcement, but the landowner can clamp or tow.
-- **Pop-up car parks** are warned against by both venues.
 - **Motorcycles** park free in bays, with no time limit, unless the bay is suspended.
 - **ULEZ applies** at **£12.50 a day**, midnight to midnight, so a late exit can cost you two days. Wembley is outside the Congestion Charge zone.
 
@@ -113,8 +116,13 @@ Prices are set per event. Quintain advertises stadium parking from £40 and aren
 | **Pink** | HA9 0HX | 8 min | 2.10m | Car, minibus, **coach**, EV (levels 1–3) — **no Blue Badge bays** |
 | **Red** | HA9 0FD | 9 min | 2.45m | Car, **motorbike** (level 2), **Blue Badge**, EV (6 bays, level 1) |
 | **Gold** | — | 10 min | **2.00m** | Car, Blue Badge — the **Hilton's** car park, off Lakeside Way. No charging |
+| **Green** | — | 5 min | **4.8m** | Car, **coach** — no Blue Badge bays, and not offered for every event |
 
 **Blue** has a bridge on level 3 straight onto the stadium concourse. **Red** is opposite the London Designer Outlet.
+
+![The entrance to Green Parking at Wembley Park, a green sign over the mouth of a multi-storey car park and a yellow 4.8m height restriction sign](../../assets/articles/wembley-stadium-arena-guide/green-parking.jpg)
+
+*Green Parking takes coaches as well as cars, with a 4.8m height limit.*
 
 > ⚠️ **Book early.** Blue Badge and wheelchair bays can sell out **more than two weeks ahead**, and EV bays sell out too. Refunds are only for cancellations **more than 72 hours** before, and never cover the booking fee.
 
@@ -134,6 +142,17 @@ The day rate matches the official £50, but **three hours is £10 even on an eve
 ### The London Designer Outlet's £40 loophole
 
 LDO charges **£50 per car** on stadium event days and **£20** on arena days. Spend **more than £40** in its shops, restaurants or cinema that day and you pay the **normal tariff for the first six hours**, subject to space. Red car park only, not for pre-booked parking, and validate the ticket at the **Red Car Park Office** before you leave.
+
+### Unofficial parking
+
+On event days, businesses on the industrial estate east of the stadium, around Fourth Way and Fifth Way, and some households sell parking on their own land, usually for £10 to £30. Parking there does not break the event-day rules, which only cover the street. Some you can book:
+
+- **The Green Man**, Dagmar Avenue HA9 8DF — £40 on stadium days, £20 for the arena. Call 07595 051937 or text 07583 333378 with the event, and pay on arrival.
+- **Wembley Primary School**, East Lane HA9 7NW — £20, prepaid at [parking.gotocsp.com](https://parking.gotocsp.com/).
+- **Empire Way car park**, opposite the London Designer Outlet — £40 on stadium days, £25 for the arena, on JustPark.
+- **Yards and driveways** on JustPark and YourParkingSpace, including industrial units on Fourth Way and the car park behind St Augustine's Church.
+
+> ⚠️ **The stadium advises against unofficial car parks.** They may not be insured, car crime has been reported in them, and they are poorly lit. Brent asks drivers to use the official car parks only.
 
 ---
 
@@ -219,13 +238,19 @@ An event adds trains — fifteen Chiltern departures after 22:00 on a midweek co
 - **Or stay the night after** and travel home the next day.
 - **Luggage storage matters more than the room** — see [the bag problem](#the-bag-problem).
 
-### The three hotels at the ground
+### The hotels at the ground
+
+![The front of Novotel London Wembley: copper-coloured panels and angled windows above a glass ground floor, the NOVOTEL sign over the entrance](../../assets/articles/wembley-stadium-arena-guide/novotel-london-wembley.jpg)
+
+*Novotel London Wembley, on Olympic Way.*
 
 **[Novotel London Wembley](hotel:novotel-london-wembley)** — 235 rooms at 5 Olympic Way, on the approach itself, with parking, a restaurant, a bar and a gym, two minutes from the arena. Check-in from 15:00, out by 12:00.
 
 **[Hilton London Wembley](hotel:hilton-london-wembley)** — the four-star on Lakeside Way, with an indoor pool, an executive lounge and the rooftop **Sky Bar 9**. Parking is **£15 per 24 hours in the Gold car park** with **no in-out**, so you cannot take the car out and come back.
 
 **[ibis London Wembley](hotel:ibis-london-wembley)** — the budget option, on South Way, a minute from Wembley Stadium station. Online prices are currently unavailable.
+
+**[Premier Inn London Wembley Stadium](hotel:premier-inn-london-wembley-stadium)** — the Premier Inn at the ground, near the arena and the London Designer Outlet (HA9 0GG). Not to be confused with Premier Inn London Wembley Park, by the tube station.
 
 To stay central and travel out, our [guide to the best areas to stay in London](/articles/best-areas-to-stay-in-london/) covers the Jubilee line neighbourhoods.
 
@@ -260,13 +285,25 @@ Everything here is a few minutes from both venues.
 
 ## Eating and drinking, and the Boxpark trap
 
-![Boxpark Wembley's black frontage seen from below through trees, the white BOXPARK sign along the roofline, EAST END lettering over the doors and crowd barriers set out in front](../../assets/articles/wembley-stadium-arena-guide/boxpark-wembley.jpg)
+![Inside Boxpark Wembley: a long black bar under a high warehouse roof with a mirror ball, and diners at long tables along the windows](../../assets/articles/wembley-stadium-arena-guide/boxpark-wembley.jpg)
 
-*On stadium event days Boxpark often becomes a ticketed Fanpark, closed to everyone else all day.*
+*Inside Boxpark Wembley. On many stadium event days it becomes a ticketed Fanpark, closed to everyone else all day.*
 
 **Boxpark Wembley often closes to the public on stadium event days**, becoming a ticketed **Fanpark** all day, not just in the evening. "We'll eat at Boxpark first" is the plan almost everyone makes, and it fails on the day you are going. Closures are listed only a few dates ahead, so **check [Boxpark's closures page](https://www.boxpark.co.uk/venues/wembley/blog/closures) against your event date.**
 
 When it is open: **09:00 to 23:00 daily**, more than twenty kitchens — Zia Lucia, The Athenian, Neat Burger, Molo Fish & Chips and others — and a sports bar. The 17:00–20:00 weekday happy hour does not apply on Fanpark, arena or televised England nights.
+
+### Coffee and fast food
+
+![Greggs and Slim Chickens side by side on the ground floor of a modern block, with red umbrellas and outdoor tables in front](../../assets/articles/wembley-stadium-arena-guide/greggs-slim-chickens.jpg)
+
+*Greggs and Slim Chickens, next door to each other near the London Designer Outlet.*
+
+Outside Boxpark, the quick options are **Greggs** and **Slim Chickens**, side by side near the outlet, plus **Five Guys** and **itsu** on the estate. Inside LDO there is **Nando's** (11:30–22:00 every day), **Subway** (from 06:00) and **Beirut Wonders** for shawarma and falafel.
+
+For coffee, **Black Sheep Coffee** has branches on White Horse Square and in LDO; the LDO one is open 06:00–21:00 on weekdays and serves cocktails and cans too. **Costa** and the Greek bakery **Opa!**, both in LDO, open at 06:30 on weekdays. **Pret** shuts by 18:30 on weekdays, too early for an evening event.
+
+On event days, temporary fast-food stalls go up outside the ground, and there are more inside. **Eat before you go in** — the food inside the stadium is not very good.
 
 ![The entrance to the London Designer Outlet at Wembley Park, with giant gold LDO letters standing on grass plinths in front of a red brick and glass frontage, Holland & Barrett and MOSS inside the doorway and an Amorino gelato shop to the right](../../assets/articles/wembley-stadium-arena-guide/london-designer-outlet.jpg)
 
@@ -303,9 +340,13 @@ A 19:45 kick-off finishes around 21:40; a concert curfew is usually 22:00 to 22:
 
 > ⚠️ **On a midweek night, eat before, not after.** You reach the concourse at about 21:40 and most of LDO shuts at 22:00. Only Las Iguanas stays open later, until 22:30.
 
-Also on the estate: **Bread Ahead**, **Pasta Remoli**, **Estadio Lounge**, **Five Guys** and **Choppaluna**. Check their own hours before relying on them after an event.
+Also on the estate: **Bread Ahead**, **Pasta Remoli**, **Estadio Lounge** and **Choppaluna**.
 
 ### Inside the arena
+
+![OVO Arena Wembley's white facade across an empty Arena Square, with the Hilton to the left](../../assets/articles/wembley-stadium-arena-guide/ovo-arena.jpg)
+
+*OVO Arena Wembley on Arena Square, with the Hilton behind.*
 
 OVO Arena's kiosks do hot dogs, burgers, pizza and nachos, with bars for cocktails, wine and craft beer. It is **cashless, with no cash machines**, and there is **free water** on the concourses. You can bring sweets but no drinks or hot food, and you need photo ID for alcohol if you look under 25. Wembley Stadium is cashless too.
 
@@ -322,6 +363,10 @@ OVO Arena's kiosks do hot dogs, burgers, pizza and nachos, with bars for cocktai
 **Inside the stadium, it depends on the fixture.** At concerts, NFL and rugby league the bars serve as normal. At football nobody may drink in view of the pitch, and at competitive UEFA and FIFA games — including England's autumn 2026 Nations League matches against Spain, Czechia and Croatia — **alcohol is sold only in restaurants and hospitality, not on the level 1 and level 5 concourses**. You cannot bring any in: the only container allowed is one empty, clear plastic bottle of up to 500ml for the water points, and not in the pitch standing area at concerts. The arena has no readmission.
 
 ### Where to go for a drink
+
+![The White Horse pub on the ground floor of a tall apartment block on Wembley Park Boulevard, with outdoor tables and people walking past](../../assets/articles/wembley-stadium-arena-guide/white-horse.jpg)
+
+*The White Horse, five minutes from the stadium and two from the arena.*
 
 **On football days Brent allocates pubs to one set of fans or the other**, by the side of the stadium on your ticket, and pubs near the ground often admit only ticket holders for their team. The list changes each fixture and goes up on [Brent's event-days page](https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days). There are no allocations for concerts.
 
@@ -349,7 +394,7 @@ If your checkout is 12:00 and doors are at 18:30, you cannot carry a bag around 
 
 Bags over the stadium limit **will not be allowed in**, and folding a half-empty bag smaller does not count. A handbag is your one bag. The rules differ from the **NFL Clear Bag Policy**, so check before an NFL game. The arena points people to Stasher for storage nearby.
 
-> 💡 **Use the hotel.** All three Wembley hotels offer luggage storage, which on an event day is worth more than the room.
+> 💡 **Use the hotel.** The Novotel, Hilton and ibis all offer luggage storage, which on an event day is worth more than the room.
 
 ---
 
