@@ -333,7 +333,7 @@ London offers exceptionally generous discounts for families travelling with chil
 | **Age 16–17** | Adult fare *(unless holding 16+ Zip Photocard)* | Adult fare | Use contactless card or adult Oyster. |
 
 > 🧒 **How to get the 50% Young Visitor Discount:**  
-> If you are visiting London with children aged 11–15, buy a standard Oyster card for each child. Ask a member of TfL staff at any Underground station or Visitor Centre to apply the **Young Visitor Discount**. The child must be present. Staff will instantly program a **50% discount** on all single fares and daily caps for up to 14 days (e.g., reducing the Zone 1–2 daily cap to just **£4.45**).
+> If you are visiting London with children aged 11–15, buy a standard Oyster card for each child. Ask a member of TfL staff at any Underground station or Visitor Centre to apply the **Young Visitor Discount**. The child must be present. Staff will instantly programme a **50% discount** on all single fares and daily caps for up to 14 days (e.g., reducing the Zone 1–2 daily cap to just **£4.45**).
 
 > 👴 **Senior & Overseas Concessions:**  
 > Free senior travel passes (such as the 60+ London Oyster or Freedom Pass) are strictly reserved for London or UK residents. Overseas senior citizen cards, student IDs, or international disability badges are **not accepted** for discounts on TfL services. However, any visitor holding an eligible UK Railcard (e.g. Senior Railcard or Two Together Railcard) can link it to a physical Oyster card at a station to get 34% off off-peak fares.

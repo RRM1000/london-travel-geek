@@ -119,7 +119,7 @@ Contactless is often more flexible at the outer edge of London, but foreign card
 If you do choose an Oyster card, you can pick between a **Standard Blue Oyster card** or a **Visitor Oyster card**:
 
 * **Standard Blue Oyster Card (£10.50 fee):** Can be purchased instantly at any Tube or Elizabeth line station ticket machine upon arrival in London using credit card or cash. You can load 7-Day Travelcards onto it and link National Railcards.
-* **Visitor Oyster Card (£10.50 fee + postage):** Must be ordered online before you leave home and mailed to your home address. It functions identically for pay-as-you-go fares but **cannot hold 7-Day Travelcards**.
+* **Visitor Oyster Card (£10.50 including postage):** Must be ordered online before you leave home and mailed to your home address. It functions identically for pay-as-you-go fares but **cannot hold 7-Day Travelcards**.
 
 > 💡 **Recommendation:** There is no fare discount for using a Visitor Oyster card over a Standard Blue Oyster card—both charge identical adult fares. If you want an Oyster card, wait until you arrive in London and buy the Standard Blue version at a station machine to avoid international shipping fees.
 
@@ -200,4 +200,4 @@ If using an Oyster card, keep your balance topped up at any station ticket machi
 
 ---
 
-*Fares and card fees checked on 16 August 2026. Standard Oyster and Visitor Oyster card activation fees are £10.50. Always check [Transport for London](https://tfl.gov.uk/) for live fare updates.*
+*Fares and card fees checked on 16 August 2026. The Standard Oyster card fee is £10.50, and the Visitor Oyster card is £10.50 including postage (TfL fees and charges 2026–27). Always check [Transport for London](https://tfl.gov.uk/) for live fare updates.*

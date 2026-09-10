@@ -59,11 +59,11 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="luton-airport-to-london-luton-airport-transfer-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Luton airport transfer London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Book Airport Transfers & Experiences
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="luton-airport-to-london-luton-airport-transfer-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Luton airport transfer London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How the Luton DART Works
 
@@ -84,7 +84,7 @@ The **Luton DART** is a state-of-the-art automated cable-hauled shuttle.
 1. **Selecting "Luton Airport Parkway (LTN)" instead of "Luton Airport (LUA)":** Selecting Parkway excludes the £4.90 DART shuttle fee, requiring a second standalone ticket.
 2. **Trying to use an Oyster card:** Oyster cards are **NOT valid** to Luton Airport (contactless bank cards or train tickets are required).
 3. **Taking Luton Express to St Pancras when heading to London Bridge:** Take Thameslink directly to London Bridge instead of transferring to the Tube at St Pancras.
-4. **Confusing Luton Town station with Luton Airport:** Luton Town station is a separate stop inside the town center—stay on the DART/train for Luton Airport!
+4. **Confusing Luton Town station with Luton Airport:** Luton Town station is a separate stop inside the town centre—stay on the DART/train for Luton Airport!
 5. **Switching payment devices between taps:** Tapping in with a bank card and out with Apple Pay creates two incomplete journey penalties.
 6. **Hailing unlicensed taxis:** Always use official terminal taxi desks or pre-booked private hire.
 
