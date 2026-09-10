@@ -69,7 +69,7 @@ Routes **18, 83, 92, 182, 206, 223, 297 and 483** serve the area, and the **N18 
 
 ---
 
-## Driving: the zone that costs £130
+## Driving: no street parking on event days
 
 Brent Council's **Wembley Stadium Event Day Protective Parking Scheme** is far bigger than anyone expects. Its furthest point is **3.26km from the stadium**, taking in Wembley Park, Wembley Central, Preston Road, Neasden, Stonebridge Park and Sudbury Town. On an event day **only residents and businesses with a permit may park on the street** — not even in a pay-and-display bay.
 
