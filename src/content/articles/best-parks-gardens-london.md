@@ -240,6 +240,10 @@ Three hundred acres of botanic garden with the Victorian Palm House, the Tempera
 
 *Ticketed*
 
+![A spiral of rusted steel bands engraved with names, wound around a small tree at the Chelsea Physic Garden, with autumn borders of purple monkshood and verbena in front and a red-brick house beyond the wall](../../assets/articles/best-parks-gardens-london/chelsea-physic-garden.jpg)
+
+*The walled four acres on the Embankment. The brick and the river together make it the warmest corner of London, which is why things fruit here that fruit nowhere else in the city.*
+
 Founded by the Apothecaries in **1673 to grow medicinal plants**, and still growing 5,000 of them behind a high wall on the Embankment. It is the oldest botanic garden in London.
 
 The walls and the river together make it **the warmest corner of the city**, which is why olives, grapefruit and pomegranates fruit outdoors here when they will not elsewhere in Britain.

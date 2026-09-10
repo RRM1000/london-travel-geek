@@ -1,0 +1,576 @@
+{
+  "topic": "Wembley on an event day: where to stay, eat and what to do",
+  "audience": "Someone holding a ticket for Wembley Stadium or OVO Arena Wembley, with hours to fill before doors and possibly needing a bed afterwards.",
+  "researchedOn": "2026-09-09",
+  "sourcingRule": "Every figure below is taken from the operator's own website or its own booking engine. No booking aggregators, no listicles.",
+  "importantCaveats": [
+    "All hotel prices are SAMPLES read from the operator's own booking engine on 2026-09-09 for the dates stated. They are not quotes and they will move.",
+    "Accor rates are 'Member rate' unless the public rate is also given. All are for 1 night, 2 adults, 1 room, taxes and fees included, as stated by Accor's own booking engine.",
+    "Opening hours were read on 2026-09-09 and several operators publish only a rolling 7-day window, so they are a snapshot of that week."
+  ],
+
+  "eventCalendarUsed": {
+    "source": "https://www.wembleystadium.com/events",
+    "checked": "2026-09-09",
+    "note": "Used to choose event nights vs ordinary nights for the price test. Times shown are as published by the stadium.",
+    "stadiumEvents": [
+      { "date": "2026-09-09", "day": "Wednesday", "event": "Bon Jovi, Forever Tour", "time": "TBC" },
+      { "date": "2026-09-12", "day": "Saturday", "event": "Diljit Dosanjh, Aura World Tour", "time": "TBC" },
+      { "date": "2026-09-19", "day": "Saturday", "event": "Union Jack Classic (Arizona State Sun Devils v Kansas Jayhawks)", "time": "TBC" },
+      { "date": "2026-09-26", "day": "Saturday", "event": "England v Spain", "time": "19:45" },
+      { "date": "2026-10-06", "day": "Tuesday", "event": "England v Czechia", "time": "19:45" },
+      { "date": "2026-10-18", "day": "Sunday", "event": "Houston Texans @ Jacksonville Jaguars", "time": "14:30" },
+      { "date": "2026-11-12", "day": "Thursday", "event": "England v Croatia", "time": "19:45" },
+      { "date": "2027-07-23", "day": "Friday", "event": "Noah Kahan, The Last of the Bugs World Tour", "time": "TBC" },
+      { "date": "2027-07-24", "day": "Saturday", "event": "Noah Kahan, The Last of the Bugs World Tour", "time": "TBC" }
+    ]
+  },
+
+  "partOne_hotels": {
+
+    "headlineAnswer": {
+      "question": "Is staying in Wembley on an event night good value, or is it cheaper to stay central and travel out?",
+      "verdict": "On an ordinary night Wembley is outstanding value and central London is roughly two and a half times the price. On a stadium event night that reverses completely: the Wembley surge is severe and entirely local, and staying central is both cheaper and far more available. The cleanest test below is the same hotel brand on two Tuesdays three weeks apart.",
+      "theCleanTest": {
+        "why": "Two Tuesdays, one week apart, same hotel, same occupancy, same booking engine, both read on the same day. This removes the weekend effect and isolates the event.",
+        "eventNight": "2026-10-06, Tuesday, England v Czechia, 19:45 kick-off",
+        "ordinaryNight": "2026-10-13, Tuesday, no stadium event",
+        "novotelLondonWembley": {
+          "onEventNight": "Only 1 room type left in the whole hotel: the 61m2 Suite, member GBP 426.60 / public GBP 474.00",
+          "onOrdinaryNight": "6 room types available, entry-level Superior from member GBP 131.40 / public GBP 146.00; the same 61m2 Suite member GBP 222.30 / public GBP 247.00",
+          "likeForLikeSameSuite": "GBP 222.30 -> GBP 426.60 member. Up 92 per cent, or 1.92x, for the identical room.",
+          "cheapestAvailableRoom": "GBP 131.40 -> GBP 426.60. A reader who just wants a bed pays 3.25x, because the cheap rooms do not exist on match night at all.",
+          "source": "https://all.accor.com/booking/en/accor/hotel/9389",
+          "checked": "2026-09-09"
+        },
+        "novotelLondonWaterloo_centralControl": {
+          "whyThisHotel": "Same brand and same booking engine, and it sits on the Jubilee line which runs direct to Wembley Park. A genuine 'stay central and travel out' option.",
+          "onEventNight": "7 room types available, cheapest member GBP 300.60",
+          "onOrdinaryNight": "6 room types available, cheapest member GBP 315.90",
+          "reading": "Central London does not move for a Wembley event. It was in fact GBP 15.30 CHEAPER on the match night than on the ordinary Tuesday. The surge is a Wembley phenomenon, not a London one.",
+          "source": "https://all.accor.com/booking/en/accor/hotel/1785",
+          "checked": "2026-09-09"
+        },
+        "theComparison": {
+          "eventNight_2026_10_06": "Wembley GBP 426.60 (one suite, take it or leave it) vs Waterloo GBP 300.60 (seven rooms to choose from). Central is GBP 126.00 cheaper AND has choice.",
+          "ordinaryNight_2026_10_13": "Wembley GBP 131.40 vs Waterloo GBP 315.90. Wembley is GBP 184.50 cheaper.",
+          "soTheRuleIs": "Wembley is the bargain on a normal night and the trap on an event night."
+        }
+      },
+      "secondDataPoint_saturdays": {
+        "eventNight": "2026-09-26, Saturday, England v Spain, 19:45",
+        "novotelLondonWembley": "SOLD OUT. Accor's own engine returned 'This accommodation is unavailable on our site from September 26 to September 27' - 17 days before the match.",
+        "surroundingNightsFromAccorsOwnFlexibleDateStrip": [
+          { "date": "2026-09-24", "day": "Thursday", "from": "GBP 134" },
+          { "date": "2026-09-25", "day": "Friday", "from": "GBP 171" },
+          { "date": "2026-09-26", "day": "Saturday (England v Spain)", "from": "Not available - sold out" },
+          { "date": "2026-09-27", "day": "Sunday", "from": "GBP 91, flagged by Accor as 'Best price'" },
+          { "date": "2026-09-28", "day": "Monday", "from": "GBP 99" }
+        ],
+        "ordinarySaturdayBaseline": {
+          "date": "2026-10-03",
+          "result": "6 room types available, cheapest member GBP 177.30, 61m2 Suite member GBP 276.30"
+        },
+        "reading": "The night after an England international at Wembley costs GBP 91. The night of it cannot be bought at all. That gap is the story.",
+        "source": "https://all.accor.com/booking/en/accor/hotel/9389",
+        "checked": "2026-09-09"
+      },
+      "practicalAdviceForTheReader": [
+        "For a big stadium fixture, book the Wembley hotels months out or do not bother - by 17 days before England v Spain the Novotel had nothing at all.",
+        "If you are booking late for an event night, price a central hotel on a direct line before you assume Wembley is cheaper. On the Tuesday tested it was GBP 126 cheaper in Waterloo.",
+        "Consider staying the night AFTER instead. Sunday 27 September was GBP 91 at the Novotel against a sold-out Saturday.",
+        "Wembley Park is on the Jubilee and Metropolitan lines, so a central base on the Jubilee line keeps the journey to a single train."
+      ]
+    },
+
+    "hotels": [
+      {
+        "slug": "novotel-london-wembley",
+        "name": "Novotel London Wembley",
+        "operatorSite": "https://all.accor.com/hotel/9389/index.en.shtml",
+        "accorHotelCode": "9389",
+        "checked": "2026-09-09",
+        "address": "5 Olympic Way, Wembley, HA9 0NP",
+        "rooms": "235",
+        "checkIn": "From 15:00",
+        "checkOut": "By 12:00",
+        "walkingTimes_asPublishedByAccor": {
+          "ovoArenaWembley": "480 m / 0.3 mi, 2 min walk",
+          "londonDesignerOutlet": "640 m / 0.4 mi, 3 min walk",
+          "wembleyParkRestaurantAndCafeDistrict": "640 m / 0.4 mi, 3 min walk",
+          "wembleyStadiumRailStation": "1.13 km / 0.7 mi, 8 min walk / 3 min drive",
+          "wembleyCentral": "2.25 km / 1.4 mi, 24 min walk / 6 min drive",
+          "note": "Accor lists Boxpark Wembley and Troubadour Wembley Park Theatre as neighbours without a distance. Accor's 'Wembley Stadium' entry at 8 min is tagged as a RAILWAY STATION, not the stadium bowl - the hotel is on Olympic Way, the approach to the stadium itself. Our existing hotels.json says about a 5 minute walk to the stadium; nothing on Accor's page contradicts that."
+        },
+        "onSite": ["Car park", "Restaurant", "Bar", "Fitness centre", "Air conditioning", "Room service", "Pets welcome", "Wheelchair accessible", "Meeting rooms", "100% non-smoking"],
+        "guestRating_operatorsOwn": "4.5/5 from 1,415 reviews (ALL Rating)",
+        "eventNightPolicyOrMinimumStay": "NONE PUBLISHED. The hotel page carries no minimum-stay rule, no event-night policy and no event-night deposit or cancellation term. Searched the page for minimum stay, two-night, event night, deposit and non-refundable - none appear. The event effect shows up purely as price and availability.",
+        "rateSamples_1night_2adults_taxesAndFeesIncluded": [
+          { "date": "2026-09-24", "context": "Thursday, ordinary", "from": "GBP 134", "type": "Accor 'from' price on flexible-date strip" },
+          { "date": "2026-09-25", "context": "Friday, ordinary", "from": "GBP 171", "type": "Accor 'from' price on flexible-date strip" },
+          { "date": "2026-09-26", "context": "Saturday, England v Spain 19:45", "from": "SOLD OUT", "type": "Accor returned 'unavailable on our site'" },
+          { "date": "2026-09-27", "context": "Sunday, ordinary", "from": "GBP 91", "type": "Accor 'from' price, flagged 'Best price'" },
+          { "date": "2026-09-28", "context": "Monday, ordinary", "from": "GBP 99", "type": "Accor 'from' price on flexible-date strip" },
+          { "date": "2026-10-03", "context": "Saturday, ordinary", "from": "GBP 177.30 member", "roomsAvailable": 6, "suite61m2": "GBP 276.30 member" },
+          { "date": "2026-10-06", "context": "Tuesday, England v Czechia 19:45", "from": "GBP 426.60 member / GBP 474.00 public", "roomsAvailable": 1, "note": "The only room left in the hotel was the 61m2 Suite" },
+          { "date": "2026-10-13", "context": "Tuesday, ordinary", "from": "GBP 131.40 member / GBP 146.00 public", "roomsAvailable": 6, "executive42m2": "GBP 176.40 member / GBP 196.00 public", "suite61m2": "GBP 222.30 member / GBP 247.00 public" }
+        ]
+      },
+      {
+        "slug": "ibis-london-wembley",
+        "name": "ibis London Wembley",
+        "operatorSite": "https://all.accor.com/hotel/3141/index.en.shtml",
+        "accorHotelCode": "3141",
+        "checked": "2026-09-09",
+        "address": "South Way, Wembley, HA9 6BA (Accor also gives Sat Nav HA9 0HB)",
+        "checkIn": "From 15:00",
+        "checkOut": "By 12:00",
+        "walkingTimes_asPublishedByAccor": {
+          "wembleyStadium": "80 m / 0.05 mi, 3 min walk",
+          "wembleyStadiumRailStation": "80 m / 0.05 mi, 1 min walk",
+          "wembleyParkStation": "1 km / 0.62 mi, 5 min walk",
+          "wembleyCentral": "2 km / 1.24 mi, 10 min walk",
+          "londonDesignerOutlet": "Accor's copy says 'London Designer Outlet shopping area minutes walk away. Discount available for hotel guests'",
+          "DATA_WARNING": "Accor also lists WEMBLEY ARENA at 80 m / 3 min walk - the identical figure it gives for the stadium. That looks like a duplicated record. The ibis is on South Way on the south side of the ground; the OVO Arena is on the north side by Olympic Way. Do NOT repeat 3 minutes to the arena. Our hotels.json is safe: it only claims a 5 minute walk to the STADIUM."
+        },
+        "onSite": ["Restaurant", "Bar", "Wi-Fi", "Breakfast", "Wheelchair accessible", "100% non-smoking"],
+        "guestRating_operatorsOwn": "4.4/5 from 261 reviews (ALL Rating)",
+        "operatorsOwnBlurb": "Accor pitches it explicitly at our reader: 'be at the heart of the action from football games to concerts and NFL'.",
+        "eventNightPolicyOrMinimumStay": "NONE PUBLISHED. Same as the Novotel - no minimum stay, no event-night term anywhere on the hotel page.",
+        "FLAG_NOT_BOOKABLE": {
+          "finding": "ibis London Wembley returned 'This accommodation is unavailable on our site' for EVERY date sampled, not just event nights.",
+          "datesSampled": ["2026-09-26", "2026-10-03", "2026-10-11", "2026-10-12", "2026-10-13", "2026-10-14", "2026-10-15", "2026-11-16", "2026-11-17", "2026-11-18", "2026-11-19", "2026-11-20"],
+          "control": "The Novotel returned live prices for the same dates through the same engine on the same day, so this is specific to the ibis and not a site-wide fault.",
+          "whatThisIsNot": "This is NOT evidence of an event-night sell-out. An ordinary midweek night in mid-November is just as unavailable as an event Saturday.",
+          "whatItCouldBe": "Closed or refurbishing, or withdrawn from Accor direct distribution. The hotel page itself is still live with description, ratings and check-in times.",
+          "ROB_TO_CONFIRM": "Worth a phone call before the article recommends it. Accor lists the hotel phone as +44 20 8453 5100 and email H3141@accor.com. Our hotels.json currently sells it as 'the cheapest bed within walking distance' - if it is not bookable that line needs to change.",
+          "checked": "2026-09-09"
+        },
+        "rateSamples": "None obtainable - see FLAG_NOT_BOOKABLE above. No price is recorded for this hotel because the operator's own engine offered none."
+      },
+      {
+        "slug": "hilton-london-wembley",
+        "name": "Hilton London Wembley",
+        "operatorSite": "https://www.hilton.com/en-gb/hotels/lonlwhi-hilton-london-wembley/",
+        "hiltonPropertyCode": "LONLWHI",
+        "checked": "2026-09-09",
+        "address": "Lakeside Way, Wembley Park, London, Wembley HA9 0BU",
+        "checkIn": "15:00",
+        "checkOut": "12:00",
+        "contact": "+44 20 8150 8090, LONLW.RES@hilton.com",
+        "locationInHiltonsOwnWords": "'Next to Wembley Arena and Wembley Stadium. Access via Lakeside Way.'",
+        "whatsNearby_asPublishedByHilton": {
+          "londonDesignerOutlet": "0 miles",
+          "wembleyStadium": "0 miles",
+          "troubadourWembleyTheatre": "0.40 miles",
+          "cityCentre": "6 miles",
+          "heathrowAirport": "14 miles",
+          "note": "Hilton publishes distances only, no walking times. Our hotels.json says about an 8 minute walk to the stadium; Hilton's page does not contradict it but does not confirm a minute figure either."
+        },
+        "parking": {
+          "selfParking": "GBP 15.00 per day (Hilton's detail line: 'GBP 15.00 per 24 hrs. Gold Car Park only.')",
+          "valet": "Not available",
+          "secured": "Not available",
+          "covered": "Not available",
+          "inOutPrivileges": "Not available",
+          "evCharging": "Nearby, 0.30 miles",
+          "readerNote": "No in/out privileges matters on an event day - you cannot pop the car out and back."
+        },
+        "onSite": ["Indoor pool", "Fitness centre", "Executive lounge", "On-site restaurant", "Room service", "Concierge", "Business centre", "Meeting rooms", "Free Wi-Fi", "Digital Key", "Connecting rooms"],
+        "breakfast": "Available for a fee, buffet",
+        "pets": "Allowed, GBP 30.00 non-refundable fee, 35 kg maximum, up to 2 small pets per room",
+        "kids": "Cribs available, kids menu available, confirmed connecting rooms available",
+        "dining_fromHiltonsOwnDiningPage": [
+          { "name": "Sky Bar 9", "what": "Rooftop bar with views over Wembley Park; champagnes and classic cocktails by their mixologists", "booking": "First-come, first-served. No reservations taken, walk-ins welcome.", "hoursPublished": "Not published on the page - see gaps" },
+          { "name": "Icons Bar, Grill and Terrace", "what": "Modern bar with outdoor terrace, drinks and light bites; afternoon tea with Hope & Glory Teas", "hours": "Open daily 10:00-17:00", "afternoonTea": "Fridays, Saturdays and Sundays 13:00-17:00, 48-hour pre-booking required" },
+          { "name": "The Association Restaurant", "what": "British fine dining, seasonal menu, breakfast lunch and dinner; signature breakfast buffet by Executive Chef Jasbeer Dawar", "hoursPublished": "Not published on the page - see gaps" }
+        ],
+        "policiesListed": ["Cancellation", "Check-in/Check-out", "Payment", "Accessibility", "Check-In Policy - Age and Identification", "EMEA Family Experience", "Pool Policy", "Pre-Event Hospitality Terms"],
+        "eventNightPolicyOrMinimumStay": "Hilton lists a policy headed 'Pre-Event Hospitality Terms' among its policies, which relates to its hospitality packages rather than to ordinary room bookings. No minimum stay and no event-night room policy is published on the hotel-info page.",
+        "rateSamples": "NOT SAMPLED. Hilton's own robots.txt disallows /book/ and /search/ for general agents, which is where its live room rates live, so no Hilton price was taken. The Accor comparison above stands on its own and is like-for-like. See gaps - Rob may want to price this one by hand."
+      }
+    ],
+
+    "methodNote": "The like-for-like test used one brand (Novotel) at two locations across two matched Tuesdays, all read from Accor's own booking engine within the same hour on 2026-09-09. Occupancy was held at 1 room / 2 adults throughout and all prices are taxes-and-fees-included as Accor states."
+  },
+
+  "partTwo_eating": {
+
+    "boxparkWembley": {
+      "name": "BOXPARK Wembley",
+      "operatorSite": "https://www.boxpark.co.uk/venues/wembley",
+      "checked": "2026-09-09",
+      "address": "Olympic Way, Wembley, London, HA9 0JT",
+      "contact": "020 7186 8800, wembley@boxpark.co.uk",
+      "openingHours": "09:00-23:00, seven days a week",
+      "happyHour": "17:00-20:00 Monday to Friday. No happy hour Saturday or Sunday.",
+
+      "THE_EVENT_DAY_CATCH": {
+        "answer": "YES - Boxpark Wembley regularly closes to the general public on stadium event days and becomes a ticketed 'Fanpark'. This is the single biggest trap in the area and it is easy to miss.",
+        "operatorsOwnWords": "Boxpark runs a standing page titled 'Upcoming BOXPARK Wembley Closures' which says: 'We regularly host private parties and ticket only events. Plan before you visit by checking dates here.'",
+        "closuresPage": "https://www.boxpark.co.uk/venues/wembley/blog/closures",
+        "liveExamplesOnThatPageOn_2026_09_09": [
+          { "date": "09 SEPT", "scope": "ALL DAY", "event": "Bon Jovi Fanpark", "ticketing": "Ticketed - the closures page links straight to an Eventbrite listing", "matchesStadiumEvent": "Bon Jovi at Wembley Stadium, 2026-09-09" },
+          { "date": "12 SEPT", "scope": "ALL DAY", "event": "Diljit Dosanjh Fanpark", "ticketing": "Ticketed - Eventbrite listing linked", "matchesStadiumEvent": "Diljit Dosanjh at Wembley Stadium, 2026-09-12" }
+        ],
+        "criticalDetail": "Both listed closures are ALL DAY, not just from the evening. Turning up at 2pm on a stadium event day expecting to sit in Boxpark for four hours before doors will not work.",
+        "sitewideBanner": "Boxpark runs a permanent banner across every Wembley page reading 'Advance Warning - Closures This Week - Find Out More'. Tell the reader to check that closures page against their own event date before they plan their afternoon around it.",
+        "secondaryCatch": "Even when it is open, Boxpark states: 'Happy Hour pricing is not available during Fanparks, Arena dates or televised England games.' So the 17:00-20:00 happy hour is switched off on precisely the evenings our reader is there."
+      },
+
+      "whatIsInItNow_traderList_from_operatorsOwnFoodPage": [
+        "Badbird", "Boki Coffee", "Funky Chips", "German Doner Kebab (an GBP 11 meal deal is advertised)", "Hola Guacamole", "Ipanema Barbecue", "Jungle Berry", "Khaao", "Kokodoo", "Love Churros", "Molo Fish & Chips", "Neat Burger", "Sides", "Smoky Boys", "T4 (Tea For You)", "Thai Express", "The Athenian", "The Cheese Wheel", "The Wild Buffalo", "Tortilla", "Viva Falafel", "Yorkshire Burrito", "Zia Lucia"
+      ],
+      "traderListNote": "Boxpark's own page tags Kokodoo as 'JUST OPENED' and flags at least one slot as 'COMING SOON', so the roster moves. Checked 2026-09-09.",
+      "beyondFood": {
+        "sportsBar": "Boxpark bills itself as a sports bar showing Premier League, UEFA Champions League, Formula One, NFL, rugby and major boxing. Table service by QR code - scan, pay, drink arrives, no app needed.",
+        "playbox": "Glow-in-the-dark games room and bar: pool tables, glow pong, air hockey, Moto GP racing, dance machines, Time Crisis, Bullseye Crack Shot, Mario Kart DX, mini basketball and beer pong. 18+ only after 20:00. Bookable for table or venue hire.",
+        "sixesCricket": "Sixes Social Cricket batting cages inside Boxpark Wembley, booked through the Sixes website.",
+        "source": "https://www.boxpark.co.uk/venues/wembley/play and https://www.boxpark.co.uk/venues/wembley/sports-bar"
+      }
+    },
+
+    "londonDesignerOutlet": {
+      "name": "London Designer Outlet (LDO)",
+      "operatorSite": "https://www.londondesigneroutlet.com/",
+      "checked": "2026-09-09",
+      "address": "Wembley Park Boulevard, Wembley, London HA9 0FD",
+      "walkFromStation": "LDO's own homepage says '10 mins walk from Wembley Park or Wembley Stadium tube stations'. Its event-day guide says it is 'only a few minutes walk from Wembley Park underground station... carry on walking and LDO is only a few minutes walk past the OVO Arena'. The two figures on its own site do not quite agree; 10 minutes is the safer one to print.",
+      "centreOpeningTimes_weekOf_2026_09_09": [
+        { "date": "2026-09-09", "day": "Wed", "hours": "10:00-20:00", "note": "This was a Bon Jovi stadium night and the centre still shut at 20:00" },
+        { "date": "2026-09-10", "day": "Thu", "hours": "10:00-21:00" },
+        { "date": "2026-09-11", "day": "Fri", "hours": "10:00-21:00" },
+        { "date": "2026-09-12", "day": "Sat", "hours": "10:00-21:00", "note": "Diljit Dosanjh stadium night - no extended hours" },
+        { "date": "2026-09-13", "day": "Sun", "hours": "11:00-19:00" },
+        { "date": "2026-09-14", "day": "Mon", "hours": "10:00-20:00" },
+        { "date": "2026-09-15", "day": "Tue", "hours": "10:00-20:00" }
+      ],
+      "keyReading": "LDO does NOT extend its hours for stadium events. The shops shut at 20:00-21:00 whatever is happening under the arch. Only the restaurants trade later, and they run their own hours.",
+      "sundayQuirk": "On Sundays the larger stores split: Skechers, Next and M&S open 11:00-17:00; Nike, Adidas, Tommy Hilfiger, Calvin Klein and Guess open 12:00-18:00.",
+      "sizeClaim": "LDO's own copy says 'over 70 stores'.",
+      "toilets": "Wembley Park's own site says public toilets are in London Designer Outlet and Brent Civic Centre.",
+
+      "foodAndDrinkInside_withHoursForTheWeekOf_2026_09_09": [
+        { "name": "Pizza Express", "hours": { "Wed": "11:30-22:00", "Thu": "11:30-22:00", "Fri": "11:30-23:30", "Sat": "11:30-23:30", "Sun": "11:30-22:00", "Mon": "11:30-22:00", "Tue": "11:30-22:00" }, "latestCloser": true },
+        { "name": "Las Iguanas", "hours": { "Wed": "11:00-22:30", "Thu": "11:00-22:30", "Fri": "11:00-23:00", "Sat": "11:00-23:00", "Sun": "11:00-22:00", "Mon": "11:00-22:30", "Tue": "11:00-22:30" } },
+        { "name": "Wagamama", "hours": { "Wed": "11:00-22:00", "Thu": "11:00-22:00", "Fri": "11:00-23:00", "Sat": "11:00-23:00", "Sun": "11:00-22:00", "Mon": "11:00-22:00", "Tue": "11:00-22:00" } },
+        { "name": "Zizzi", "hours": { "Wed": "11:30-22:00", "Thu": "11:30-22:00", "Fri": "11:30-23:00", "Sat": "11:30-23:00", "Sun": "11:30-22:00", "Mon": "11:30-22:00", "Tue": "11:30-22:00" } },
+        { "name": "You Me Sushi", "hours": { "Wed": "11:00-22:00", "Thu": "11:00-22:30", "Fri": "11:00-23:00", "Sat": "11:00-23:00", "Sun": "11:00-22:30", "Mon": "11:00-22:00", "Tue": "11:00-22:00" } },
+        { "name": "TGI Fridays", "hours": { "Wed": "10:00-22:00", "Thu": "10:00-22:00", "Fri": "10:00-22:30", "Sat": "10:00-22:30", "Sun": "10:00-22:00", "Mon": "10:00-22:00", "Tue": "10:00-22:00" }, "phone": "020 3031 4901" },
+        { "name": "Big Moe's Diner", "hours": { "Wed": "11:30-21:45", "Thu": "11:30-21:45", "Fri": "11:30-22:30", "Sat": "09:00-22:30", "Sun": "09:00-21:45", "Mon": "11:30-21:45", "Tue": "11:30-21:45" }, "what": "50s-style diner, burgers and chocolate milkshakes" },
+        { "name": "JRC Global Buffet", "hours": { "Wed": "13:00-21:30", "Thu": "13:00-21:30", "Fri": "13:00-22:00", "Sat": "12:00-22:30", "Sun": "12:00-21:30", "Mon": "13:00-21:30", "Tue": "13:00-21:30" } },
+        { "name": "Nando's Wembley", "hours": { "Wed": "11:30-22:00", "Thu": "11:30-22:00", "Fri": "11:30-22:00", "Sat": "11:30-22:00", "Sun": "11:30-22:00", "Mon": "11:30-22:00", "Tue": "11:30-22:00" }, "note": "Same hours every day - the reliable one" },
+        { "name": "Afrikana", "hours": { "Wed": "12:00-22:00", "Thu": "12:00-22:00", "Fri": "12:00-22:00", "Sat": "11:00-23:00", "Sun": "11:00-23:00", "Mon": "12:00-22:00", "Tue": "12:00-22:00" }, "DATA_NOTE": "LDO's feed publishes these as '12:00 - 10:00' and '11:00 - 11:00', i.e. 12-hour clock without am/pm. Read as 22:00 and 23:00. Worth a check before printing a closing time for Afrikana." },
+        { "name": "Frankie & Benny's", "hours": { "Wed": "12:00-21:00", "Thu": "12:00-21:00", "Fri": "11:00-22:00", "Sat": "11:00-22:00", "Sun": "11:00-21:00", "Mon": "12:00-21:00", "Tue": "12:00-21:00" }, "offer": "Buy one get one for GBP 1, advertised 07/09/2026 to 02/10/2026" },
+        { "name": "Mowchi", "hours": { "Wed": "08:00-21:00", "Thu": "08:00-21:00", "Fri": "08:00-22:00", "Sat": "08:00-22:00", "Sun": "08:00-21:00", "Mon": "08:00-21:00", "Tue": "08:00-21:00" } },
+        { "name": "Tandoori Fusion", "hours": { "Wed": "11:00-21:00", "Thu": "11:00-21:00", "Fri": "11:00-21:00", "Sat": "11:00-21:00", "Sun": "11:00-20:00", "Mon": "11:00-21:00", "Tue": "11:00-21:00" } },
+        { "name": "Subway", "hours": { "Wed": "06:00-21:00", "Thu": "06:00-21:00", "Fri": "06:00-21:00", "Sat": "06:00-21:00", "Sun": "06:00-20:00", "Mon": "06:00-21:00", "Tue": "06:00-21:00" }, "note": "Opens at 06:00 - the earliest thing in the centre" },
+        { "name": "Cineworld Complex", "hours": { "Wed": "10:00-20:00", "Thu": "10:00-21:00", "Fri": "10:00-21:00", "Sat": "10:00-21:00", "Sun": "11:00-19:00", "Mon": "10:00-20:00", "Tue": "10:00-20:00" }, "what": "Nine screens", "note": "These are the listed centre-aligned hours; last screenings will run past them" },
+        { "name": "Amorino", "hours": { "Wed": "10:00-20:00", "Thu": "10:00-21:00", "Fri": "10:00-21:00", "Sat": "10:00-21:00", "Sun": "11:00-19:00", "Mon": "10:00-20:00", "Tue": "10:00-20:00" }, "what": "Gelato" },
+        { "name": "DumDum Donutterie", "hours": { "Wed": "10:00-20:00", "Thu": "10:00-21:00", "Fri": "10:00-21:00", "Sat": "10:00-21:00", "Sun": "11:00-19:00", "Mon": "10:00-20:00", "Tue": "10:00-20:00" } },
+        { "name": "Beirut Wonders", "hours": { "Wed": "10:00-20:00", "Thu": "10:00-20:00", "Fri": "09:00-21:00", "Sat": "09:00-21:00", "Sun": "11:00-18:00", "Mon": "10:00-20:00", "Tue": "10:00-20:00" }, "what": "Lebanese street food - hummus, falafel, chicken shawarma" },
+        { "name": "Opa! Greek Bakery & Patisserie", "hours": { "Wed": "06:30-20:00", "Thu": "06:30-20:00", "Fri": "06:30-20:00", "Sat": "06:30-20:00", "Sun": "07:30-18:00", "Mon": "06:30-20:00", "Tue": "06:30-20:00" } },
+        { "name": "Costa Coffee", "hours": { "Wed": "06:30-20:00", "Thu": "06:30-20:00", "Fri": "06:30-20:00", "Sat": "19:00-20:00", "Sun": "08:00-19:00", "Mon": "06:30-20:00", "Tue": "06:30-20:00" }, "DATA_NOTE": "The Saturday 12 September entry reads 19:00-20:00, a single hour, on the Diljit Dosanjh stadium event day. That is either an event-day restriction or a data error in LDO's feed. Worth confirming - if event-day trading really is cut back it is a useful warning." },
+        { "name": "Chaboba Bubble Tea", "hours": { "Wed": "10:15-19:45", "Thu": "10:15-19:45", "Fri": "10:15-19:45", "Sat": "10:15-19:45", "Sun": "10:00-18:45", "Mon": "10:15-19:45", "Tue": "10:15-19:45" } },
+        { "name": "Churros Buenos", "hours": { "Wed": "10:00-19:00", "Thu": "10:00-19:00", "Fri": "10:00-19:00", "Sat": "10:00-19:00", "Sun": "11:00-19:00", "Mon": "10:00-19:00", "Tue": "10:00-19:00" } },
+        { "name": "Pret A Manger", "hours": { "Wed": "07:00-18:30", "Thu": "07:00-18:30", "Fri": "07:00-18:30", "Sat": "08:00-19:30", "Sun": "08:30-18:30", "Mon": "07:00-18:00", "Tue": "07:00-18:30" }, "note": "Shuts before most kick-offs - not a pre-doors option for an evening event" },
+        { "name": "Wenzel's The Bakers", "hours": { "Wed": "07:30-18:00", "Thu": "07:30-18:00", "Fri": "07:30-18:00", "Sat": "07:30-18:00", "Sun": "07:30-18:00", "Mon": "07:30-18:00", "Tue": "07:30-18:00" } }
+      ],
+      "alsoListedInLDOsFoodDirectoryWithoutHoursCaptured": ["Mowchi", "Chaboba Bubble Tea"],
+      "hoursSource": "London Designer Outlet's own store pages and its own opening-times feed at /wp-json/realm-centre/v1/, read 2026-09-09",
+
+      "eventDayParking_fromLDOsOwnEventDayGuide": {
+        "source": "https://www.londondesigneroutlet.com/wembley-event-day-guide/",
+        "checked": "2026-09-09",
+        "stadiumEventDays": "A flat rate of GBP 50.00 per car per day applies on the day of any and all Stadium events, midnight to midnight.",
+        "arenaEventDays": "A flat rate of GBP 20.00 per car per day applies from 1 hour before the event on the day of all Arena events.",
+        "theLoophole": "Spend more than GBP 40 at LDO's shops, restaurants and/or Cineworld Wembley on an event day and, subject to availability, you park at the normal tariff for the first six hours. The ticket must be validated at the Red Car Park Office before you leave. Red Parking only, excludes all other car parks, excludes pre-booked parking.",
+        "closestCarPark": "Red Car Park, HA9 0DS, the closest to LDO. Designated disabled bays across the Wembley Park car parks.",
+        "warning": "Spaces are first-come, first-served and limited."
+      },
+      "otherEventDayNotes": [
+        "LDO runs a 'Glam Squad' on concert days offering free glitter tattoos and make-up, plus a resident DJ - its own copy calls it 'the ultimate pre-concert party'.",
+        "LDO points readers to the venues' own bag policies for taking shopping into events, which matters because neither venue has storage - see the bag trap below."
+      ]
+    },
+
+    "atTheOvoArenaItself": {
+      "source": "https://www.ovoarena.co.uk/your-visit/food-drink and https://www.ovoarena.co.uk/your-visit/faqs",
+      "checked": "2026-09-09",
+      "concourseKiosks": "Hot dogs, gourmet burgers, pizzas, nachos and more. Bars serve classic cocktails, spirits and mixers, wine and Prosecco, craft beer, lager and cider, soft drinks, tea and coffee. Bundle deals available.",
+      "premiumLounges": "Chef-prepared small plates, main courses and desserts, described as a pre-show meal option away from the concourse.",
+      "cashless": "The arena's food stalls and bars are cashless - all major credit and debit cards. There are no cash machines in the venue.",
+      "freeWater": "Free water is available on the concourses.",
+      "byoFood": "You can bring confectionery. Drinks cannot be brought in. Hot food is on the prohibited list.",
+      "challenge25": "Photo ID required for alcohol if you look under 25."
+    },
+
+    "wembleyParkBeyondBoxparkAndLDO": {
+      "source": "https://wembleypark.com/eat-drink/",
+      "checked": "2026-09-09",
+      "estateClaim": "Wembley Park's own site says the estate has 'over 50 eateries'.",
+      "namedIndependentsAndChainsOutsideLDOAndBoxpark": [
+        { "name": "Bread Ahead", "what": "Independent bakery, restaurant and baking school - bread, pastries and their doughnuts" },
+        { "name": "Pasta Remoli", "what": "Italian trattoria" },
+        { "name": "Black Sheep Coffee", "what": "Coffee, cocktails and quick bites" },
+        { "name": "Five Guys Wembley Park", "what": "Burgers" },
+        { "name": "Estadio Lounge", "what": "Open all day for breakfast, brunch, lunch, dinner and drinks" },
+        { "name": "Choppaluna", "what": "Salads, melts and soups" },
+        { "name": "Buy & Bite", "what": "Japanese street food, located at Macaroni Penguin" },
+        { "name": "Feed The Yak", "what": "Drinks and street food" }
+      ],
+      "note": "Hours for these were not published on the estate's directory listing pages. If any of them are named in the article, check each operator's own site for hours first."
+    },
+
+    "WHAT_STAYS_OPEN_AFTER_AN_EVENT": {
+      "theProblem": "A 19:45 kick-off finishes around 21:40; a concert curfew is usually 22:00-22:30. Almost everything in Wembley Park is built around shopping hours and shuts as the crowd comes out.",
+      "shutBeforeYouGetOut": "London Designer Outlet's shops close at 20:00-21:00 and do not extend for events. Boxpark's licence runs to 23:00 but on Fanpark days it is ticketed and shut to the public all day anyway.",
+      "openLatestOnAFridayOrSaturday": [
+        "Pizza Express, until 23:30 - the latest kitchen in LDO",
+        "Las Iguanas, until 23:00",
+        "Wagamama, until 23:00",
+        "Zizzi, until 23:00",
+        "You Me Sushi, until 23:00",
+        "Afrikana, until 23:00 on Sat and Sun (see data note)",
+        "TGI Fridays, until 22:30",
+        "Big Moe's Diner, until 22:30",
+        "JRC Global Buffet, until 22:30 on Saturday",
+        "Boxpark Wembley, until 23:00 - but ONLY if it is not a ticketed Fanpark day"
+      ],
+      "openLatestMidweek": [
+        "Las Iguanas, until 22:30 - the latest thing in LDO on a weekday",
+        "Then a cluster at 22:00: TGI Fridays, Nando's, Wagamama, Pizza Express, Zizzi, You Me Sushi",
+        "Big Moe's Diner, 21:45"
+      ],
+      "blunt": "On a midweek England night the whole of London Designer Outlet is closed or closing as you walk out of the ground. Las Iguanas at 22:30 is realistically the only sit-down option, and you will be racing it. Eat before, not after - or head back into town.",
+      "checked": "2026-09-09"
+    }
+  },
+
+  "partThree_beforeDoors": {
+
+    "framing": "This is a 90-minutes-to-kill problem, not a day trip. Everything below is within a few minutes' walk of the two venues.",
+
+    "wembleyParkArtTrail": {
+      "name": "Wembley Park Art Trail",
+      "source": "https://wembleypark.com/attractions/wembley-park-art-trail/",
+      "checked": "2026-09-09",
+      "whatItIs": "A free, open-air art gallery of 26 artworks by local and international artists, spread across Wembley Park.",
+      "runsUntil": "Published run 01 Aug 2024 to 31 Dec 2028",
+      "cost": "Free - the operator's own FAQ answers 'Yes! The art trail in Wembley Park is completely free'",
+      "howLong": "Wembley Park's own FAQ says 30 minutes to 1 hour depending on pace. That is the perfect fit for the gap before doors.",
+      "accessibility": "Their FAQ says the trail and Wembley Park are both completely accessible.",
+      "whereToStart": "They recommend starting outside Wembley Park Tube Station and following the numbered works in sequence.",
+      "app": "A free CityTrotter app navigates the trail by GPS, on iOS and Android.",
+      "toilets": "Their FAQ points to toilets in London Designer Outlet and Brent Civic Centre.",
+      "photos": "Encouraged - they ask for @wembleyparkldn or #WembleyPark",
+      "pickOfTheWorks": [
+        { "n": 1, "title": "I'm Mr. Mercury", "artist": "Frank Styles", "location": "Spanish Steps, Wembley Park Boulevard", "what": "Large-scale anamorphic portrait of Freddie Mercury" },
+        { "n": 3, "title": "Bobby Moore Bridge Tile Mural", "location": "Bobby Moore Bridge Underpass" },
+        { "n": 5, "title": "Reverb", "artist": "Paul Marks", "location": "Olympic Way", "what": "Tile mural reflecting on the legacy of Live Aid" },
+        { "n": 12, "title": "Bobby Moore Statue", "artist": "Philip Jackson", "location": "In front of the stadium", "what": "6m tall bronze - the classic pre-match photo" },
+        { "n": 13, "title": "Square of Fame", "location": "Arena Square" },
+        { "n": 15, "title": "Lana Del Rey Mural", "location": "Lana Lane, side of the Spanish Steps" },
+        { "n": 16, "title": "Ready For It", "artist": "HUMOR x Murwalls", "location": "Spanish Steps, known as the Swiftie Steps", "what": "Giant tapestry of lyrics and imagery inspired by Taylor Swift" },
+        { "n": 20, "title": "Warrior Tree", "location": "Inside London Designer Outlet" },
+        { "n": 23, "title": "Shadow Wall", "artist": "Jason Bruges", "location": "Royal Route Underpass, Wembley Park Boulevard", "what": "Fully interactive - it mimics passers-by on a light-based canvas" },
+        { "n": 24, "title": "Royal Wave", "artist": "Jason Bruges", "location": "Royal Route Underpass", "what": "Lenticular wave generated from local residents" },
+        { "n": 25, "title": "Flight", "artist": "Mark Anthony (ATM)", "location": "Concrete wall above Wembley Stadium Station Platform 1, best seen from Platform 2", "what": "Mural celebrating the red kite's revival, created 2022" },
+        { "n": 8, "title": "Fire and Water", "artist": "Suiko", "location": "Elvin Gardens" },
+        { "n": 11, "title": "Think Independently, Together", "artist": "Lois O'Hara", "location": "Samovar Space" }
+      ],
+      "note": "Other works include Crossover by miriamandtom on Bobby Moore Bridge, Impossible Greenhouses by Jenny Cox, The Mr. Doodle Caravan and Mr. Doodle Concrete Blocks, Landscapes of Women by Laxmi Hussain, Tilia Tree Totems by Stephen Stockbridge, Aurora's Embrace by Ian Chan, the Beton Mural by Muzeo, Cartographer's Fugue by Vivien Zhang inside The Hive, Better Together by Pref, How Beautiful Change Can Truly Be by Zoe Slatter, and the Wall of Wonder at LDO."
+    },
+
+    "squareOfFame": {
+      "name": "Square of Fame",
+      "source": "https://wembleypark.com/attractions/square-of-fame/",
+      "checked": "2026-09-09",
+      "location": "Arena Square, Wembley Park - literally on the doorstep of OVO Arena Wembley",
+      "whatItIs": "Wembley Park describes it as London's answer to the Hollywood Walk of Fame - a series of cold cast bronze plaques set with the handprints of performers who have played the arena.",
+      "namesOnTheOperatorsOwnList": ["Kylie Minogue", "Sir Cliff Richard", "Status Quo", "Dolly Parton", "Bryan Adams", "Lionel Richie", "Westlife", "Dame Shirley Bassey"],
+      "cost": "Free, outdoors, no ticket, no opening hours",
+      "whyItWorks": "It is the single best five-minute filler for an arena ticket-holder because you are standing on it while you queue."
+    },
+
+    "wembleyStadiumTour": {
+      "name": "Wembley Stadium Tour",
+      "operatorSite": "https://bookings.wembleytours.com/stadiumtours/booking/wembley-guided-stadium-tours.htm",
+      "checked": "2026-09-09",
+
+      "DOES_IT_RUN_ON_EVENT_DAYS": {
+        "answer": "NO. The tour does not run on stadium event days, and it is suspended for a day or more either side. Do not tell a reader with a match ticket to do the tour that afternoon - they cannot.",
+        "howThisWasEstablished": "The stadium's own booking engine was queried across three separate date windows and the offered dates compared against the stadium's own event calendar.",
+        "evidence": [
+          { "window": "searched from 18 Sep 2026", "toursOffered": ["Mon 21", "Tue 22", "Wed 23", "Thu 24", "Sun 27", "Mon 28", "Tue 29 Sep"], "blank": ["Fri 18", "Sat 19 (Union Jack Classic)", "Sun 20", "Fri 25", "Sat 26 (England v Spain)"] },
+          { "window": "searched from 1 Oct 2026", "toursOffered": ["Thu 1", "Fri 2", "Sat 3", "Sun 4", "Wed 7", "Thu 8", "Fri 9 Oct"], "blank": ["Mon 5", "Tue 6 (England v Czechia)"] },
+          { "window": "searched from 15 Oct 2026", "toursOffered": ["Tue 20", "Wed 21", "Thu 22", "Fri 23", "Sat 24", "Sun 25", "Mon 26 Oct"], "blank": ["Thu 15", "Fri 16", "Sat 17", "Sun 18 (NFL, Texans at Jaguars)", "Mon 19"] }
+        ],
+        "whyThisIsWatertight": "Fridays, Saturdays and Sundays all run normally in the 1 Oct window (Fri 2, Sat 3, Sun 4). So the blank Fridays and Saturdays in September are not a weekend pattern - they line up exactly with stadium events. Tuesday 6 October is blank while every other Tuesday runs, and that is England v Czechia.",
+        "theRunUpDowngrade": "In the days before an event the tour is replaced by a cut-down 'Wembley Stadium Express Tour'. The operator's own note reads: 'due to preparations for an upcoming event, this tour does not include access to the player areas (including Dressing Rooms).' That was running 14-17 Sep 2026 ahead of the 19 Sep event.",
+        "practicalAdvice": "If a reader wants the tour AND a match, they need two separate days - and ideally not the day before either, or they get the Express version without the dressing rooms."
+      },
+
+      "prices": {
+        "adult": "GBP 28.00",
+        "child": "GBP 19.00",
+        "concession": "GBP 19.00",
+        "accessible": "GBP 19.00",
+        "englandPlusAdult": "GBP 28.00",
+        "family": "GBP 75.00",
+        "under5": "Free",
+        "carer": "Free",
+        "checked": "2026-09-09"
+      },
+      "duration": "Guided tours last approximately 90 minutes. The operator recommends allowing 2 hours to give at least 30 minutes for the exhibition spaces.",
+      "whatsIncluded": "90-minute tour with a private tour host, a new green screen photo experience, Europe's largest press conference room, the dressing rooms, the players' tunnel and pitch-side.",
+      "typicalStartTimes": "Roughly half-hourly from 09:30 to 15:30 on a full-tour day; hourly 10:00-16:00 on Express days.",
+      "booking": "Tickets can be bought in advance or on the day at the stadium, but the operator strongly recommends pre-booking.",
+      "cloakroom": "No cloakroom for the tour. Large bags and suitcases are not permitted inside, and all belongings must stay with you.",
+      "groups": "Parties of 25 or more get 15 per cent off the pre-booked public rate; group tours available daily via the enquiry form.",
+      "parkingWarning": "The tour FAQ warns that on OVO Arena event days parking prices may be higher than usual even if you are only there for the tour, and that the car park is about 500 metres from the tour entrance across public roads.",
+
+      "vipMatchdayTourExperience": {
+        "whatItIs": "A separate product, and NOT what a reader with a ticket wants. The operator bills it as the 'Only Public Matchday Tour - Match Ticket Included'.",
+        "includes": "45-minute behind-the-scenes VIP tour, pitch-side visit to watch the warm-up, souvenir matchday programme, FA gift pack, and a ticket to the match itself.",
+        "example": "Three Lions Matchday Tour Experience - Czechia, Tuesday 6 October 2026, 18:45",
+        "warning": "Tickets are strictly non-transferable, must not be resold, and photographic ID is required on arrival - if the ID does not match the name on the ticket you will not be admitted. The match ticket is handed over at the end of the tour.",
+        "readerNote": "Because it bundles a match ticket, it is no use to someone who already has one. Worth saying so plainly.",
+        "source": "https://bookings.wembleytours.com/stadiumtours/booking/wembley-matchday-tours.htm"
+      },
+      "siteNote": "The tours site carries a stale pop-up dated 24.11.21 saying bookings are open 'until the end of May 2022'. Ignore it - the live availability calendar is current. Do not quote it."
+    },
+
+    "atTheOvoArena": {
+      "source": "https://www.ovoarena.co.uk/your-visit/faqs",
+      "checked": "2026-09-09",
+      "address": "Arena Square, Engineers Way, Wembley Park, Wembley, HA9 0AA",
+      "boxOffice": "Opens on event days only, no earlier than 1 hour before doors, and closes about 15 minutes after the main act goes on stage. It is at the front right of the building on Arena Square. Tickets left for collection after that go to Reception at the Door One entrance.",
+      "doorAndStageTimes": "Doors, event start and curfew times are published on each individual event page as soon as the arena has them. They do not publish individual stage times because these are approximate and set by the touring party. Events finish no later than the published curfew.",
+      "advice": "The arena tells customers to plan around doors and curfew and to arrive as early as possible.",
+      "premiumOptions": "Terrace Suites, Empire Seats, Club Seats, VIP Seats, lounge upgrades and the Sky VIP lounge."
+    },
+
+    "THE_BAG_TRAP": {
+      "whyItMatters": "This is the practical thing that ruins a Wembley day and neither venue is generous about it. If your hotel checkout is 12:00 and doors are at 18:30, you cannot simply carry your bag around with you.",
+      "wembleyStadium": {
+        "rule": "One small bag per person, no bigger than A4: height 297mm, width 210mm, depth 210mm. That is the overall bag size - bags that are half full and folded over to reduce their size will not be accepted.",
+        "enforcement": "The stadium states in capitals that anyone carrying bags that do not meet the criteria WILL NOT BE ALLOWED IN.",
+        "handbags": "Allowed, but a handbag counts as your one small bag.",
+        "note": "The stadium points out its policy differs from the NFL Clear Bag Policy, which matters for the NFL fixtures.",
+        "source": "https://www.wembleystadium.com/plan-your-visit/stadium-guide/restricted-bag-policy"
+      },
+      "ovoArena": {
+        "rule": "No storage facilities at the venue and no cloakroom. Customers with luggage will not be permitted entry.",
+        "sizeLimits": "The arena's own FAQ gives two different figures on the same page: one answer says bags larger than 30cm wide x 40cm long x 20cm deep (approx A3) are strictly prohibited; another says all adult backpacks and rucksacks of any size, plus any other bags larger than 40 x 35 x 19 cm, are not allowed. FLAG - the operator contradicts itself. Print the stricter reading and tell people to check their event page.",
+        "theirOwnSuggestion": "The arena points customers to Stasher to find bag storage in the local area.",
+        "source": "https://www.ovoarena.co.uk/your-visit/faqs"
+      },
+      "theAngle": "All three Wembley hotels in our data offer luggage storage. On an event day that is worth more than the room - it is the difference between killing three hours comfortably and dragging a holdall up Olympic Way to be turned away at the turnstile."
+    },
+
+    "otherThingsWithinWalkingDistance": {
+      "source": "https://wembleypark.com/attractions/ and https://wembleypark.com/",
+      "checked": "2026-09-09",
+      "list": [
+        { "name": "Boxpark Wembley (PLAYBOX)", "what": "Glow-in-the-dark games room - pool, air hockey, shuffleboard, Mario Kart DX, beer pong. 18+ after 20:00. Bookable.", "warning": "Closed to the public on ticketed Fanpark days" },
+        { "name": "Sixes Social Cricket", "what": "Batting cages inside Boxpark Wembley, booked via the Sixes site", "warning": "Same Fanpark caveat" },
+        { "name": "meetspaceVR", "what": "Virtual reality" },
+        { "name": "Bad Axe", "what": "Axe throwing" },
+        { "name": "Wembley Padel", "what": "Padel courts" },
+        { "name": "Rollerscape", "what": "Roller skating" },
+        { "name": "Pop Golf", "what": "Golf" },
+        { "name": "Union Park", "what": "Wembley Park's own copy calls it the first major park to open in Wembley Park in 150 years - free, open air" },
+        { "name": "Children's Play Park", "what": "Free play park" },
+        { "name": "Troubadour Wembley Park Theatre", "what": "Theatre - Wembley Park lists Starlight Express there", "note": "Novotel puts it 'walking distance'; Hilton lists it at 0.40 miles" },
+        { "name": "Wembley Library / Brent Civic Centre", "what": "Free, indoors, has public toilets - a genuinely useful wet-weather option" },
+        { "name": "Wembley Park Market", "what": "Local makers and live music on selected weekends - check dates" },
+        { "name": "Cineworld Wembley", "what": "Nine screens inside LDO" }
+      ],
+      "note": "Several of these are bookable paid attractions with their own operators. If any are named in the article, get hours and prices from each operator's own site first - only the free outdoor ones above were verified for cost and duration."
+    }
+  },
+
+  "gapsAndThingsToConfirm": [
+    {
+      "gap": "ibis London Wembley is not bookable on Accor's own site",
+      "detail": "Returned 'unavailable' on all 12 dates sampled across September, October and November 2026, while the Novotel priced normally through the same engine on the same dates. Its Accor page is otherwise live.",
+      "whyItMatters": "hotels.json currently sells it as 'the cheapest bed within walking distance of the stadium'. If it is closed, refurbishing or off Accor distribution, that line and the affiliate link need attention before publication.",
+      "howToSettle": "Ring the hotel: +44 20 8453 5100, or H3141@accor.com."
+    },
+    {
+      "gap": "No Hilton London Wembley room rate was sampled",
+      "detail": "Hilton's live rates sit behind /book/ and /search/, which its own robots.txt disallows for general agents, so no price was taken rather than take one improperly.",
+      "whyItMatters": "The event-night verdict rests on the Novotel comparison, which is clean and like-for-like on its own. A Hilton figure would be a useful third point, especially as it is the four-star with the pool.",
+      "howToSettle": "Price it by hand on hilton.com for 2026-10-06 versus 2026-10-13, 1 night, 2 adults, to match the Accor test exactly."
+    },
+    {
+      "gap": "Sky Bar 9 and The Association Restaurant opening hours",
+      "detail": "Hilton's dining page publishes hours for Icons Bar (10:00-17:00 daily) but the hours panels for the rooftop Sky Bar 9 and The Association Restaurant did not render any times.",
+      "whyItMatters": "Sky Bar 9 takes walk-ins and no reservations, so it is a strong before-doors or after-event suggestion - but only if we know when it shuts.",
+      "howToSettle": "Ring the hotel on +44 20 8150 8090."
+    },
+    {
+      "gap": "OVO Arena contradicts itself on bag sizes",
+      "detail": "Its own FAQ page gives both '30cm x 40cm x 20cm (approx A3)' and '40 x 35 x 19 cm' as the limit.",
+      "howToSettle": "customerservices@ovoarena.co.uk, or the accessible booking line 020 8782 5629."
+    },
+    {
+      "gap": "Accor lists the OVO Arena at 80m / 3 min walk from the ibis",
+      "detail": "That is the identical figure Accor gives for the stadium and looks like a duplicated record. The ibis is on South Way, the arena is up by Olympic Way.",
+      "howToSettle": "Do not print an ibis-to-arena walking time until it is checked on the ground or with the hotel."
+    },
+    {
+      "gap": "Costa Coffee at LDO shows 19:00-20:00 on Saturday 12 September",
+      "detail": "A single trading hour, on a stadium event day (Diljit Dosanjh). Either a genuine event-day restriction or a feed error.",
+      "whyItMatters": "If LDO units really do restrict trading on event days, that is a second event-day trap worth its own line in the article.",
+      "howToSettle": "Ask LDO guest services."
+    },
+    {
+      "gap": "Afrikana's closing times are published on a 12-hour clock without am/pm",
+      "detail": "LDO's feed gives '12:00 - 10:00' and '11:00 - 11:00'. Read as 22:00 and 23:00, but not certain."
+    },
+    {
+      "gap": "LDO gives two different walking times from the station on its own site",
+      "detail": "'10 mins walk from Wembley Park or Wembley Stadium tube stations' on the homepage versus 'only a few minutes walk' in the event day guide."
+    },
+    {
+      "gap": "Wembley Park's wider restaurants have no published hours",
+      "detail": "Bread Ahead, Pasta Remoli, Estadio Lounge, Five Guys, Black Sheep Coffee, Choppaluna, Buy & Bite and Feed The Yak are all listed by the estate without opening times. None are included in the 'open after an event' list because their hours are unverified."
+    },
+    {
+      "gap": "The Boxpark closures page only lists the next few dates",
+      "detail": "On 2026-09-09 it showed only 9 and 12 September. It is a rolling list, not a season-long calendar, so the article should send readers to the page rather than print dates that will expire."
+    }
+  ],
+
+  "sourcesUsed": [
+    { "url": "https://www.wembleystadium.com/events", "for": "Stadium event calendar", "checked": "2026-09-09" },
+    { "url": "https://www.wembleystadium.com/plan-your-visit/stadium-guide/restricted-bag-policy", "for": "Stadium bag policy", "checked": "2026-09-09" },
+    { "url": "https://bookings.wembleytours.com/stadiumtours/booking/wembley-guided-stadium-tours.htm", "for": "Tour prices and availability", "checked": "2026-09-09" },
+    { "url": "https://bookings.wembleytours.com/stadiumtours/booking/default.htm", "for": "Tour availability searches across three date windows", "checked": "2026-09-09" },
+    { "url": "https://bookings.wembleytours.com/stadiumtours/booking/wembley-matchday-tours.htm", "for": "VIP Matchday Tour Experience", "checked": "2026-09-09" },
+    { "url": "https://bookings.wembleytours.com/stadiumtours/faq.htm", "for": "Tour duration, bags, groups, parking warning", "checked": "2026-09-09" },
+    { "url": "https://www.boxpark.co.uk/venues/wembley", "for": "Boxpark hours, traders, happy hour", "checked": "2026-09-09" },
+    { "url": "https://www.boxpark.co.uk/venues/wembley/blog/closures", "for": "Event-day Fanpark closures - the key finding", "checked": "2026-09-09" },
+    { "url": "https://www.boxpark.co.uk/venues/wembley/play", "for": "PLAYBOX and Sixes", "checked": "2026-09-09" },
+    { "url": "https://www.boxpark.co.uk/venues/wembley/sports-bar", "for": "Sports bar and table service", "checked": "2026-09-09" },
+    { "url": "https://www.londondesigneroutlet.com/opening-times/", "for": "Centre opening times", "checked": "2026-09-09" },
+    { "url": "https://www.londondesigneroutlet.com/wembley-event-day-guide/", "for": "Event-day parking tariffs and the GBP 40 validation loophole", "checked": "2026-09-09" },
+    { "url": "https://www.londondesigneroutlet.com/store-category/food-films/", "for": "Food directory", "checked": "2026-09-09" },
+    { "url": "https://www.londondesigneroutlet.com/stores/", "for": "Individual restaurant hours via LDO's own opening-times feed", "checked": "2026-09-09" },
+    { "url": "https://www.ovoarena.co.uk/your-visit/food-drink", "for": "Arena food and drink", "checked": "2026-09-09" },
+    { "url": "https://www.ovoarena.co.uk/your-visit/faqs", "for": "Box office, doors, bags, cashless, no cloakroom", "checked": "2026-09-09" },
+    { "url": "https://wembleypark.com/attractions/wembley-park-art-trail/", "for": "Art trail, 26 works, duration, cost, accessibility", "checked": "2026-09-09" },
+    { "url": "https://wembleypark.com/attractions/square-of-fame/", "for": "Square of Fame", "checked": "2026-09-09" },
+    { "url": "https://wembleypark.com/eat-drink/", "for": "Wider Wembley Park eateries", "checked": "2026-09-09" },
+    { "url": "https://all.accor.com/hotel/9389/index.en.shtml", "for": "Novotel London Wembley facts and distances", "checked": "2026-09-09" },
+    { "url": "https://all.accor.com/booking/en/accor/hotel/9389", "for": "Novotel London Wembley rate samples", "checked": "2026-09-09" },
+    { "url": "https://all.accor.com/hotel/3141/index.en.shtml", "for": "ibis London Wembley facts and distances", "checked": "2026-09-09" },
+    { "url": "https://all.accor.com/booking/en/accor/hotel/3141", "for": "ibis London Wembley availability test", "checked": "2026-09-09" },
+    { "url": "https://all.accor.com/booking/en/accor/hotel/1785", "for": "Novotel London Waterloo central control rates", "checked": "2026-09-09" },
+    { "url": "https://www.hilton.com/en-gb/hotels/lonlwhi-hilton-london-wembley/hotel-info/", "for": "Hilton check-in/out, parking, amenities, policies", "checked": "2026-09-09" },
+    { "url": "https://www.hilton.com/en-gb/hotels/lonlwhi-hilton-london-wembley/hotel-location/", "for": "Hilton location and distances", "checked": "2026-09-09" },
+    { "url": "https://www.hilton.com/en-gb/hotels/lonlwhi-hilton-london-wembley/dining/", "for": "Sky Bar 9, Icons, The Association", "checked": "2026-09-09" }
+  ]
+}

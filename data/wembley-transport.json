@@ -1,0 +1,907 @@
+{
+  "_meta": {
+    "purpose": "Research for a London Travel Geek guide to getting to, and parking at, Wembley Stadium and OVO Arena Wembley on an event day. Written for a reader with a ticket, a fixed date and a fixed kick-off, who has never been.",
+    "checkedOn": "2026-09-09",
+    "sourceRule": "Every figure below comes from the venue operator, the transport operator (TfL, Chiltern, National Rail) or Brent Council's own website. No booking engines, comparison sites or listicles. wembleyofficialparking.com is treated as an operator source because both wembleystadium.com and wembleypark.com designate it as the official parking channel.",
+    "researchNotes": [
+      "9 September 2026 was itself a Wembley Stadium event day (Bon Jovi), so several live operator notices quoted below are real event-day text captured on the day rather than generic advice.",
+      "Distances marked 'straight-line, measured' are my own haversine calculations from TfL StopPoint coordinates, not operator figures. They are there as a sanity check on the operators' walking times, which vary between operators.",
+      "The event-day zone and CPZ verdicts are point-in-polygon tests I ran against Brent Council's own published map layers (event-day.json and cpz.json, the files their CPZ map loads). The boundaries are Brent's; the in/out calls are mine from their data."
+    ],
+    "gapsForRob": [
+      "Whether the TfL car park AT Wembley Park station (71 spaces, see officialParking.tflWembleyParkStationCarPark) actually operates for the public on stadium event days. TfL's own data says open 24 hours Mon-Sun and gives a tariff, but neither TfL, Brent nor Quintain says anything about event days, and 71 spaces on the doorstep of a 90,000-capacity stadium looks too good to be true. Worth a phone call before printing it.",
+      "The exact list of roads closed on an event day and the full closure window. Brent publishes the timing per event ('road closures in place from 3pm' for 9 Sep 2026) but not a named-street list. Brent points to the One.network roadworks map instead.",
+      "Whether private hire (Uber, Bolt, minicabs booked by app) can pick up near the ground after an event and where. Wembley Stadium names only a black-cab rank on Engineers Way. No operator publishes a PHV pick-up point.",
+      "Whether the Wembley Park Olympic Way lift is back in service. Three operators give three different end dates for the replacement works: TfL says 'Autumn 2026', OVO Arena says 'Monday 7 September 2026', Wembley Stadium says 'September 2026'. TfL's live status page still showed the lift out of service when checked on 9 Sep 2026, and TfL runs the station, so TfL should win - but it is worth re-checking on the day of publication.",
+      "Brent's four suburban car park pages (Preston Road, Northwick Park, Neasden, Kingsbury Road) all carry 'Last updated 27/03/23'. The tariffs are Brent's own published figures but they are nearly three and a half years old. The Brent Civic Centre page, by contrast, was updated 03/10/25.",
+      "Whether Green Parking is open for every stadium event. Quintain says four car parks open on event days (Red, Pink, Green, Blue) but the England v Spain booking page on 9 Sep 2026 offered only Pink, Blue and Red."
+    ]
+  },
+
+  "venues": {
+    "wembleyStadium": {
+      "officialName": "Wembley Stadium connected by EE",
+      "postcodeForSatNav": "HA9 0WS is not given by the operator; Wembley Park's own advice is to use HA9 0FA",
+      "coordinates": { "lat": 51.555973, "lng": -0.279564 },
+      "capacityOnABigNight": "up to 90,000 people attending an event",
+      "capacitySource": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/wembley-event-day-parking-restrictions"
+    },
+    "ovoArenaWembley": {
+      "address": "Arena Square, Engineers Way, Wembley Park, Wembley, HA9 0AA",
+      "coordinates": { "lat": 51.558134, "lng": -0.28282 },
+      "operator": "Legends Global (Legends Global Facilities Limited)",
+      "accessibleBookingLine": "020 8782 5629",
+      "source": "https://www.ovoarena.co.uk/your-visit/getting-here-accommodation"
+    }
+  },
+
+  "partOne_theThreeStations": {
+    "operatorFraming": {
+      "quote": "Wembley Stadium is easily accessible from three railway stations. Wembley Park Station is only two stops from Baker Street on the London Underground Metropolitan line, and is also served by the Jubilee line for further connections across the Underground network. Wembley Stadium Station is one stop from London Marylebone on Chiltern Railways, and Wembley Central Station is on the London Underground Bakerloo line and London Overground line from Watford Junction to London Euston.",
+      "source": "https://www.wembleystadium.com/plan-your-visit/getting-to-wembley",
+      "checked": "2026-09-09"
+    },
+
+    "wembleyPark": {
+      "lines": ["Jubilee", "Metropolitan"],
+      "fareZone": 4,
+      "address": "Wembley Park Station, Bridge Road, Wembley, Middlesex, HA9 9AA",
+      "tflStopId": "940GZZLUWYP",
+      "coordinates": { "lat": 51.563198, "lng": -0.279262 },
+      "isTheMainApproach": true,
+      "walkToStadium": {
+        "operatorFigures": [
+          { "minutes": 10, "source": "https://wembleypark.com/get-here/", "wording": "Wembley Park tube station is in the heart of Wembley Park, only 10 minutes walk to Wembley Stadium and OVO Arena Wembley" },
+          { "minutes": 10, "source": "https://help.wembleystadium.com/support/solutions/articles/7000028434-coach-and-rail-options-for-wembley-stadium", "wording": "Wembley Park (Zone 4) (10 minute walk from Wembley Stadium)" }
+        ],
+        "straightLineMeasured": "803 m",
+        "route": "Out of the station and straight down Olympic Way - the road everyone calls Wembley Way - to the Olympic Steps and the stadium concourse. It is pedestrianised, it is the route the crowd takes, and it is impossible to get wrong.",
+        "routeConfirmation": {
+          "olympicWayUpgrade": "The 1970s concrete ramp known as the pedway, which used to carry people from Olympic Way up to the stadium, has been demolished and replaced by the Olympic Steps. Olympic Way itself has been widened by 50% and extended so that it now meets Engineers Way. The project was delivered by Quintain, given planning permission by Brent Council in 2018, and is complete and operational.",
+          "accessibility": "Four new lifts run from ground level to the Wembley Stadium concourse. Each lift takes three wheelchairs, giving a capacity of 12 wheelchairs at a time. The steps were designed after consultation with Level Playing Field. The old pedway ramp did not comply with current accessibility legislation - it was too steep for wheelchair users.",
+          "source": "https://wembleypark.com/olympicsteps/",
+          "checked": "2026-09-09"
+        }
+      },
+      "walkToArena": {
+        "operatorFigures": [
+          { "minutes": 10, "source": "https://www.ovoarena.co.uk/your-visit/getting-here-accommodation", "wording": "Our closest tube station, Wembley Park, is a 10 minute walk. It's in Zone 4 and is on the Metropolitan or Jubilee Lines." }
+        ],
+        "straightLineMeasured": "614 m",
+        "note": "The arena sits on Arena Square off Engineers Way, to the left of Olympic Way as you walk down from the station. It is slightly nearer than the stadium."
+      },
+      "whichEntrancesItSuits": "Everything. This is the station the stadium is designed around - you arrive at the top of Olympic Way and walk straight into the north concourse and the turnstile ring. It is also the station for the arena and for BOXPARK (5 minutes) and the London Designer Outlet (15 minutes).",
+      "stationScale": {
+        "ticketBarriers": 33,
+        "ticketHalls": 2,
+        "lifts": 5,
+        "escalators": 0,
+        "toilets": "yes (male, female, disabled/baby-changing)",
+        "note": "33 gates across two ticket halls. For comparison, Wembley Central has 12 gates and Wembley Stadium station has none at all. This is why Wembley Park absorbs most of the crowd.",
+        "source": "TfL Unified API StopPoint 940GZZLUWYP, checked 2026-09-09"
+      },
+      "stepFree": {
+        "status": "Step-free, street to train, via lift - but with a live caveat on the day this was checked.",
+        "tflLiveNotice": "WEMBLEY PARK STATION: From Monday 10 March until Autumn 2026, no lift service between the street (Wembley Way / car park) and ticket hall. Step-free access is still available by using the entrance/exit on Bridge Road which is level between street and ticket hall. Lifts remain available to all platforms.",
+        "tflNoticeSource": "https://tfl.gov.uk/tube/stop/940GZZLUWYP/wembley-park-underground-station/",
+        "boardingNote": "If you are travelling to Wembley Park from stations east of Westminster and require level access, please ensure that you board the correct carriage. (TfL StopPoint accessibility note, 940GZZLUWYP)",
+        "jubileeRampNote": "If you are using the Jubilee line, it requires a manual boarding ramp in operation. Just tell a TfL staff member at your origin station, and they'll help arrange this. (https://wembleypark.com/accessibility-around-wembley-park/)",
+        "boardingRamps": "yes",
+        "blueBadgeCarParkSpaces": 6,
+        "checked": "2026-09-09"
+      },
+      "taxis": "TfL's facilities record for the station lists 'taxi ranks outside station'. Note the same record's structured TaxiRankOutsideStation flag says No - the two TfL fields contradict each other."
+    },
+
+    "wembleyStadiumStation": {
+      "lines": ["Chiltern Railways, from London Marylebone"],
+      "nationalRailCode": "WCX",
+      "fareZone": 4,
+      "address": "Wembley Stadium station, Wembley Hill Road, Wembley, Greater London, HA9 8BQ",
+      "coordinates": { "lat": 51.554416, "lng": -0.285608 },
+      "journeyFromMarylebone": {
+        "operatorFigures": [
+          { "text": "less than ten minutes from London Marylebone", "source": "https://www.chilternrailways.co.uk/wembley-events-travel-information" },
+          { "text": "catching a Chiltern Railways train from Marylebone will only take 9 minutes", "source": "https://wembleypark.com/get-here/" }
+        ],
+        "observedOnAnEventDay": "Live National Rail departure board at Wembley Stadium on 9 Sep 2026 showed journey times of 10-15 minutes to Marylebone, one stop."
+      },
+      "walkToStadium": {
+        "operatorFigures": [
+          { "minutes": 5, "source": "https://www.chilternrailways.co.uk/destinations/wembley", "wording": "Start with a visit to the iconic Wembley Stadium, just five minutes from the station" },
+          { "minutes": 10, "source": "https://help.wembleystadium.com/support/solutions/articles/7000028434-coach-and-rail-options-for-wembley-stadium", "wording": "Wembley Stadium (Zone 4) (10 minute walk from Wembley Stadium)" }
+        ],
+        "straightLineMeasured": "452 m",
+        "discrepancyNote": "Chiltern says 5 minutes, the stadium says 10. The straight-line distance is 452 m, so the truth is somewhere in between - the walk crosses the White Horse Bridge rather than going as the crow flies. Both figures are the operators' own."
+      },
+      "walkToArena": {
+        "operatorFigures": [
+          { "minutes": 7, "source": "https://www.chilternrailways.co.uk/destinations/wembley", "wording": "Right next door, the OVO Arena Wembley is one of London's premier entertainment venues... it's only a seven-minute stroll away" }
+        ],
+        "straightLineMeasured": "456 m"
+      },
+      "whichEntrancesItSuits": "The south and east side of the ground - you come up from Wembley Hill Road and South Way rather than down Olympic Way. Best if your seat is in the south or east of the stadium.",
+      "stationCharacter": {
+        "staffing": "This station is staffed only on Wembley National Stadium football or concert event days.",
+        "ticketOffice": "Not available",
+        "ticketGates": "Not available (no barriers)",
+        "toilets": "Not available",
+        "waitingRoom": "Not available - there are waiting shelters (unheated) on both platforms with perch seating. On both platforms there is accessible seating.",
+        "cycleStorage": "Spaces: 0",
+        "wifi": "Available throughout the station",
+        "ticketing": "Oyster and contactless are valid (Oyster is valid as far as West Ruislip). Zone 4 Travelcard.",
+        "source": "https://www.chilternrailways.co.uk/train-stations/wembley-stadium",
+        "readerPoint": "This is an event station, not a commuter station. On a normal Tuesday it is an unstaffed halt with two shelters. On event days Chiltern staffs it, runs a colour-coded queuing system and puts on extra trains."
+      },
+      "stepFree": {
+        "chilternCategory": "Step Free Access Category B2: Some step free access to all platforms. Access between platforms may be via the street. The step-free route between platforms via the side entrances is approx. 300m via the street. Coverage: partial Station.",
+        "chilternSource": "https://www.chilternrailways.co.uk/train-stations/wembley-stadium",
+        "nationalRailCategory": "Step-free category B1: there is step-free access to all platforms which may be accessed via long or steep ramps or via streets",
+        "nationalRailSource": "https://www.nationalrail.co.uk/stations/wembley-stadium/",
+        "categoryDiscrepancy": "Chiltern's own station page says B2, National Rail's says B1. Both agree the step-free route between the two platforms is via the street, not inside the station.",
+        "liveNotice": "The lifts are out of order between platforms 1, 2 and the footbridge at Wembley Stadium station. (National Rail station page and live departure board, checked 2026-09-09)",
+        "assistance": "We strongly recommend that you book assistance at least 2 hours in advance for travel to or from this station to allow us time to arrange for staff to attend and assist you with your journey, alternatively you can use the Help Points on either platform. Ramp for train access: available. Assistance helpline 03456 005 165, 07:00-20:00 daily.",
+        "parking": "No parking spaces. No accessible parking spaces. (National Rail station page)"
+      }
+    },
+
+    "wembleyCentral": {
+      "lines": ["Bakerloo", "London Overground (Watford Junction to London Euston)", "Southern", "West Midlands / London Northwestern"],
+      "fareZone": 4,
+      "address": "Wembley Central, High Road, Wembley, HA9 7AJ",
+      "tflStopId": "HUBWMB",
+      "coordinates": { "lat": 51.55232, "lng": -0.296642 },
+      "walkToStadium": {
+        "operatorFigures": [
+          { "minutes": 20, "source": "https://help.wembleystadium.com/support/solutions/articles/7000028434-coach-and-rail-options-for-wembley-stadium", "wording": "Wembley Central Station (Zone 4) (20 minute walk from Wembley Stadium) (Bus to Wembley Stadium: 18, 92, 182)" },
+          { "minutes": 13, "source": "https://wembleypark.com/get-here/", "wording": "The journey time between Wembley Central Station and Wembley Stadium is around 13 min." }
+        ],
+        "straightLineMeasured": "1248 m",
+        "discrepancyNote": "The stadium's own help centre says 20 minutes; Quintain says around 13. 1.25 km straight-line makes 15-20 minutes the realistic figure for a walk through streets with a crowd on them. The stadium also gives bus routes 18, 92 and 182 as an alternative to the walk, which tells you what it thinks of the distance."
+      },
+      "walkToArena": {
+        "operatorFigures": [
+          { "minutes": 15, "source": "https://www.ovoarena.co.uk/your-visit/getting-here-accommodation", "wording": "Alternatively, you could travel to nearby Wembley Central, it's a 15-minute walk." }
+        ],
+        "straightLineMeasured": "1153 m"
+      },
+      "whichEntrancesItSuits": "The west and south-west of the ground. You walk up Wembley Hill Road or along the High Road. It is the furthest of the three and the only one where the walk is a real walk rather than a stroll - but it is also the only one on the Bakerloo and Overground, so for anyone coming from Paddington, Euston, Watford Junction or south London it can still be the fastest door-to-door.",
+      "stationScale": {
+        "ticketBarriers": 12,
+        "ticketHalls": 1,
+        "lifts": 2,
+        "source": "TfL Unified API StopPoint HUBWMB, checked 2026-09-09"
+      },
+      "stepFree": {
+        "stadiumWording": "Step-free access and low-level ticket machines are available at all three stations. However, Wembley Central Station is step-free from street to platform, but not from platform to train.",
+        "stadiumSource": "https://www.wembleystadium.com/plan-your-visit/getting-to-wembley",
+        "nationalRailCategory": "Step-free category A: there is step-free access to all platforms",
+        "nationalRailSource": "https://www.nationalrail.co.uk/stations/wembley-central/",
+        "quintainWording": "Sadly, neither the Bakerloo nor the London Overground lines have level access. However, there is a lift for platform access. (https://wembleypark.com/accessibility-around-wembley-park/)",
+        "liveNotice": "The lifts are out of order between platform 5 and the station entrance / exit at Wembley Central station. (National Rail, checked 2026-09-09)",
+        "readerPoint": "Street-to-platform is step-free. Platform-to-train is not - there is a step up into the carriage. That is the distinction three separate operators all make, in different words."
+      }
+    },
+
+    "buses": {
+      "routes": "18/N18, 83/N83, 92, 182, 206, 223, 297 and 483",
+      "source": "https://www.wembleystadium.com/plan-your-visit/getting-to-wembley",
+      "accessibility": "It's easy to get to Wembley Park on bus routes 83, 182, 206, 223, and 297, all of which are fully wheelchair accessible. (https://wembleypark.com/accessibility-around-wembley-park/)",
+      "note": "The N18 and N83 are night buses, so buses are the fallback on a midweek night after the last tube."
+    },
+
+    "bicycle": {
+      "provision": "Bicycle parking is available on street level (B2) in the north east corner of the stadium. Please contact a member of staff for support on the day.",
+      "source": "https://help.wembleystadium.com/support/solutions/articles/7000028427-official-parking-blue-badge-coach-and-bicycle-parking",
+      "wembleyParkNote": "Over 400 cycle spaces in public areas across Wembley Park, plus secure storage bookable via the Spokesafe app, and a bicycle repair station on Weaver Walk. (https://wembleypark.com/get-here/travelling-in-and-around-wembley-park/)"
+    }
+  },
+
+  "partTwo_gettingHome": {
+    "headline": "Every operator that runs a station here publishes an event-day queuing arrangement, and TfL publishes the actual window during which you will be queuing. Nobody hides it - it is just not where people look.",
+
+    "queuingSystems": {
+      "wembleyParkTfL": {
+        "notice": "WEMBLEY PARK STATION: Friday 4, Sunday 6 and Wednesday 9 September, between 2230 and 2340 approximately each evening, the station will be busy due to concerts at Wembley Stadium. The Bridge Road entrance will be exit only until the queue to enter the station clears. Entry to the station, including step-free access via lift, will be via Olympic Way. Please allow extra time for your journey",
+        "source": "https://tfl.gov.uk/tube/stop/940GZZLUWYP/wembley-park-underground-station/",
+        "checked": "2026-09-09",
+        "whatItMeans": "TfL's own published window for a sell-out concert is roughly 22:30 to 23:40 - about seventy minutes during which the station is running a managed queue. The Bridge Road entrance becomes exit-only; everyone entering goes in via Olympic Way, including step-free entry by lift. This is the closest thing to a published waiting time anyone gives you."
+      },
+      "wembleyCentralTfL": {
+        "notice": "WEMBLEY CENTRAL STATION: Friday 4, Sunday 6 and Wednesday 9 September, between 2240 and 2330 approximately each evening, the station will be busy due to concerts at Wembley Stadium. The main High Road entrance will be exit only until the queue to enter the station clears. If you require step-free access to the platforms, please ask a member of staff. Main entry to the station will be via the London Road events entrance which is not step-free.",
+        "source": "https://tfl.gov.uk/tube/stop/940GZZLUWYC/wembley-central-underground-station/",
+        "checked": "2026-09-09",
+        "whatItMeans": "A shorter published window than Wembley Park - roughly 22:40 to 23:30, about fifty minutes. Wembley Central has a separate events entrance on London Road that opens for the crowd; the main High Road entrance goes exit-only. The events entrance is not step-free, so anyone who needs step-free access has to ask staff."
+      },
+      "wembleyStadiumStationChiltern": {
+        "system": "A colour-coded queue, by destination, on the forecourt after the event.",
+        "queues": {
+          "Blue Queue": "Marylebone only",
+          "Pink Queue": "Haddenham & Thame Parkway, Bicester North and stations to Birmingham",
+          "Yellow Queue": "Denham and stations to Aylesbury (via High Wycombe)",
+          "Green Queue": "Bicester Village and the Oxford stations",
+          "Orange Queue": "Northolt Park, South Ruislip and West Ruislip"
+        },
+        "operatorWording": "There will be a queuing system in place after this evening's event. If you are travelling to Wembley Stadium, after the concert please join the correct queue for your journey home.",
+        "sources": [
+          "https://www.chilternrailways.co.uk/wembley-events-travel-information",
+          "https://www.nationalrail.co.uk/live-trains/departures/wembley-stadium/"
+        ],
+        "checked": "2026-09-09",
+        "whatItMeans": "Chiltern sorts the crowd by destination before it gets near a platform. If you are going to Marylebone you want the Blue Queue and nothing else. On a night when engineering work cuts the route back - as on Sat 12 Sep 2026 - Chiltern runs a Marylebone-only shuttle and there is just one queue: 'Please join the Blue queue for your journey back to London Marylebone.'"
+      }
+    },
+
+    "whichLineClearsFastest": {
+      "verdict": "No operator publishes a ranking, so this has to be assembled from their own numbers. On those numbers the answer is Wembley Park, then Wembley Stadium station, then Wembley Central.",
+      "evidence": [
+        "Wembley Park has 33 ticket gates across two ticket halls and two separate lines out (Jubilee and Metropolitan), so it can push people onto trains in two directions. TfL StopPoint 940GZZLUWYP.",
+        "Wembley Central has 12 ticket gates and one ticket hall. TfL StopPoint HUBWMB.",
+        "Wembley Stadium station has no ticket gates at all and two platforms - but on an event night Chiltern floods it with trains. See eventDayServiceLevels below.",
+        "TfL's own published busy windows differ: Wembley Park roughly 22:30-23:40, Wembley Central roughly 22:40-23:30. Wembley Park's window is longer because far more people use it."
+      ],
+      "practicalAdvice": "The genuinely fastest exit for most people is the one nobody queues for: walk twenty minutes to Wembley Central, or take the Chiltern train if Marylebone suits you. The crush is concentrated on Olympic Way and Wembley Park because that is where the signage points."
+    },
+
+    "nightTube": {
+      "answer": "Yes. The Jubilee line Night Tube serves Wembley Park on Friday and Saturday nights, roughly every ten minutes, all night. The Metropolitan line does not run a Night Tube at all.",
+      "tflConfirmation": [
+        "The Night Tube is currently running on the Central, Jubilee, Northern, Piccadilly, Victoria and Windrush lines. Night Tube runs on Friday and Saturday nights. (https://tfl.gov.uk/modes/tube/night-tube)",
+        "TfL's Jubilee line page gives the night service pattern as Stanmore - Stratford, which runs through Wembley Park. (https://tfl.gov.uk/tube/route/jubilee/)",
+        "TfL's own station record for Wembley Park carries the ServiceInfo property 'Night = yes'. (TfL Unified API StopPoint 940GZZLUWYP)",
+        "Step-free access at Night Tube stations is the same as during the day service. (TfL Night Tube page)",
+        "Night Tube fares are off-peak. (TfL Night Tube page)"
+      ],
+      "frequencyObserved": {
+        "method": "TfL Journey Planner API, Wembley Park to Waterloo, tube only",
+        "saturdaySmallHours_13Sep2026": "01:34, 01:44, 01:54 ... 03:34, 03:44, 03:54 - a train every ten minutes",
+        "fridayNightIntoSaturday_12Sep2026": "00:35, 00:41, 00:47, then 01:34, 01:44, 01:54, then 02:34, 02:44, 02:54",
+        "sundayNight_14Sep2026": "Nothing between roughly 00:30 and 05:05 - no Night Tube, as expected",
+        "checked": "2026-09-09"
+      },
+      "readerPoint": "This is the single most useful fact for a Friday or Saturday gig. If your event is on a Friday or Saturday night you have all night at Wembley Park and you can let the crush clear before you go anywhere near the station. Any other night, you are chasing the last train."
+    },
+
+    "lastTrains": {
+      "chilternToMarylebone": {
+        "method": "TfL Journey Planner API, Wembley Stadium (910GWEMBLSM) to London Marylebone (910GMARYLBN), national-rail mode, queried 2026-09-09",
+        "eventDay_Wed9Sep2026_BonJovi": {
+          "departures": ["22:03", "22:11", "22:21", "22:32", "22:46", "22:58", "23:05", "23:11", "23:17", "23:25", "23:34", "23:42", "23:48", "23:56", "00:06"],
+          "lastTrain": "00:06, arriving Marylebone 00:17",
+          "note": "Fifteen departures between 22:00 and the last train - roughly one every six to eight minutes for two hours."
+        },
+        "eventDay_Sat19Sep2026_1700KickOff": {
+          "departures": ["20:25", "20:30", "20:39", "20:51", "21:02", "21:13", "21:25", "21:30", "21:40", "21:48", "21:56", "22:01", "22:07", "22:17", "22:24", "22:32", "22:40", "22:46", "22:58", "23:06", "23:18", "23:32", "23:44"],
+          "lastTrain": "23:44",
+          "note": "Every five to ten minutes for three hours after a 17:00 kick-off."
+        },
+        "ordinaryThursday_17Sep2026_noEvent": {
+          "departures": ["22:11", "22:34", "23:04", "23:15", "23:29", "00:05"],
+          "lastTrain": "00:05, arriving Marylebone 00:16",
+          "note": "Two or three an hour."
+        },
+        "ordinarySunday_20Sep2026_noEvent": {
+          "departures": ["21:26", "21:50", "22:26", "22:51", "23:50"],
+          "lastTrain": "23:50"
+        },
+        "sat26Sep2026": { "lastTrain": "00:15" },
+        "roundedAnswerForTheReader": "The last Chiltern train from Wembley Stadium to Marylebone goes somewhere around midnight - typically just after midnight Monday to Saturday, and about 23:50 on a Sunday. On an event day the frequency into that window is transformed, but the last train itself is not necessarily later. Note the counter-intuitive one: the last train on an ordinary Thursday (00:05) was LATER than the last train after the Saturday 17:00 kick-off (23:44). Do not assume an event buys you extra time at the end of the night - it buys you frequency in the middle."
+      },
+      "lastTubeFromWembleyPark": {
+        "eventNight_Wed9Sep2026_toBakerStreet": ["23:57", "00:03", "00:07", "00:13", "00:20", "00:27", "00:32"],
+        "lastTrainObserved": "00:32, then nothing until 05:00",
+        "wembleyCentralToEuston_sameNight": ["23:31", "23:46", "00:02"],
+        "method": "TfL Journey Planner API, queried 2026-09-09",
+        "readerPoint": "On a midweek night you have until roughly half past midnight at Wembley Park. Wembley Central runs out earlier."
+      }
+    },
+
+    "eventDayServiceLevels": {
+      "chiltern": {
+        "whatTheyDo": "An enhanced timetable will be in operation during the afternoon and evening, with additional Wembley Stadium stops in trains, and also some additional trains.",
+        "afterTheEvent": "Additional services will call at Wembley Stadium during the afternoon and evening, and also after the concert, to get you home.",
+        "theCatch": "The enhanced Wembley service is paid for out of the rest of the network. On 9 Sep 2026 Chiltern cancelled the 07:21 Princes Risborough - Marylebone, the 17:37 Marylebone - Princes Risborough, the 17:53 Marylebone - West Ruislip and the 17:21 Birmingham Moor Street - Leamington Spa, and re-routed others, to release the trains.",
+        "engineeringWorkWarning": "On 12 Sep 2026 engineering works meant 'a limited shuttle service will operate between Marylebone and Wembley Stadium before and after the event... due to the planned engineering works, it will not be possible to travel to this event from the High Wycombe direction.' Weekend engineering can cut Wembley Stadium station back to a Marylebone shuttle only.",
+        "source": "https://www.chilternrailways.co.uk/wembley-events-travel-information",
+        "checked": "2026-09-09",
+        "readerAction": "Chiltern publishes a per-event page listing the amended timetable and the queue colours for that specific event. Send the reader there rather than to a generic timetable."
+      },
+      "tube": {
+        "publishedPosition": "TfL does not publish an event-day timetable uplift for the Jubilee or Metropolitan at Wembley Park. What it publishes instead is the crowd-management arrangement - queue windows, exit-only entrances and a single entry point - listed under queuingSystems above.",
+        "checked": "2026-09-09"
+      }
+    },
+
+    "carParkClosingTime": {
+      "fact": "Wembley Park's official car parks close at 03:00.",
+      "operatorWording": "CAR PARK OPENING TIMES. Unless otherwise stated this car park's opening times are as follows: Monday - Sunday 07:00 - 03:00 - Stadium events. Monday - Sunday 07:00 - 03:00 - OVO Arena events.",
+      "source": "https://www.wembleyofficialparking.com/PL.aspx?s=61 (Wembley Park event day parking terms and conditions)",
+      "checked": "2026-09-09",
+      "readerPoint": "If you drove, you have until three in the morning. That is the strongest argument for driving: you can sit in a pub for two hours and let the whole thing empty out."
+    },
+
+    "coachHome": {
+      "operatorWording": "You'll also enjoy the peace of mind of a guaranteed seat home. And they'll even wait if your event overruns - so you don't need to worry about missing a moment of the action.",
+      "source": "https://www.wembleystadium.com/plan-your-visit/national-express",
+      "note": "National Express is the stadium's Official Coach Supplier, running Wembley Express services direct to the stadium from over 50 UK locations. Booking: nationalexpress.com or 08717 81 81 81."
+    }
+  },
+
+  "partThree_parking": {
+
+    "officialParking": {
+      "howItWorks": {
+        "bookingChannel": "https://www.wembleyofficialparking.com/",
+        "operatorWording": "All parking for events at Wembley, including Blue Badge Parking, is booked via www.wembleyofficialparking.com. Please note, this is not managed by the stadium. If you have any questions, please get in touch with Wembley Official Parking directly. It is recommended that any guests wishing to drive to the stadium only use Wembley Official Parking. To avoid disappointment, please book your space early.",
+        "source": "https://help.wembleystadium.com/support/solutions/articles/7000028427-official-parking-blue-badge-coach-and-bicycle-parking",
+        "mustPreBook": "if you have to come by car you should only use official stadium parking, and a parking space must be booked in advance (https://www.wembleystadium.com/plan-your-visit/getting-to-wembley)",
+        "whoRunsIt": "The car parks are Quintain's, on the Wembley Park estate. The stadium is explicit that 'parking at the Stadium is not owned or operated by Wembley Stadium'. The booking platform is provided by EP Data Services Ltd.",
+        "estateSize": "Wembley Park has over 3,000 secure parking spaces across five car parks (Red, Pink, Blue, Green, Gold). Four are open on event days: Red, Pink, Green and Blue.",
+        "security": "Park Mark Award accreditation from the British Parking Association and Metropolitan Police. Open 24 hours a day, seven days a week, with all-day security patrols and CCTV. All car parks controlled by ANPR. On major event days, marshals on site.",
+        "sources": ["https://wembleypark.com/get-here/parking-wembley-park/", "https://wembleypark.com/get-here/"]
+      },
+
+      "eventDayRates_stadium": {
+        "quintainsPublishedFrom": "Wembley Stadium Event Day Parking: pre-booked parking starts from £40 per car per day and will be in effect on the day of any and all Stadium events. (https://wembleypark.com/get-here/parking-wembley-park/)",
+        "actualPricesSeen": {
+          "note": "PRICES ARE PER EVENT, NOT A STANDARD TARIFF. These are the live prices published on the official booking site on 9 September 2026 for three different stadium events. All three showed the same car price, but the 'starts from £40' language means it can be lower for smaller fixtures - do not present a single number as the price.",
+          "checked": "2026-09-09",
+          "events": [
+            {
+              "event": "Diljit Dosanjh",
+              "date": "2026-09-12",
+              "pink_HA9_0HX": { "car": "£50.00", "coach": "£120.00", "accessibleCoach": "£120.00", "minibusLimo": "£75.00", "evCharging": "£50.00 (SOLD OUT)" },
+              "blue_HA9_0TU": { "blueBadge": "£25.00 (SOLD OUT)", "wheelchair": "£25.00 (SOLD OUT)" },
+              "availabilityNote": "Pink car had 2 tickets left three days before the event; Blue Badge and wheelchair bays were already sold out."
+            },
+            {
+              "event": "England v Spain",
+              "date": "2026-09-26",
+              "pink_HA9_0HX": { "car": "£50.00", "coach": "£120.00", "minibusLimo": "£75.00", "evCharging": "£50.00 (SOLD OUT)" },
+              "blue_HA9_0TU": { "blueBadge": "£25.00 (SOLD OUT)", "wheelchair": "£25.00 (SOLD OUT)" },
+              "red_HA9_0FD": { "car": "£50.00" },
+              "availabilityNote": "Blue Badge and wheelchair sold out seventeen days out. Pink car 166 left, Red car 244 left."
+            },
+            {
+              "event": "NFL Jacksonville Jaguars vs Houston Texans",
+              "date": "2026-10-18",
+              "pink_HA9_0HX": { "car": "£50.00", "coach": "£120.00", "accessibleCoach": "£120.00", "minibusLimo": "£75.00", "evCharging": "£50.00 (SOLD OUT)" },
+              "blue_HA9_0TU": { "blueBadge": "£25.00", "wheelchair": "£25.00" },
+              "availabilityNote": "Pink car 458 left, Blue Badge 13 left, wheelchair 22 left."
+            }
+          ]
+        },
+        "bookingFees": "From 1st March 2023, all bookings have an additional £2.50 booking fee for cars and Blue Badge parking, £1 booking fee for motorbikes, £3.50 booking fee for minibuses and £5 booking fee for coaches.",
+        "bookingFeeSource": "https://wembleypark.com/get-here/parking-wembley-park/",
+        "doTheySellOut": {
+          "answer": "Yes - and Blue Badge goes first.",
+          "evidence": "On 9 September 2026, Blue Badge and wheelchair bays were already SOLD OUT for both the 12 September concert and the 26 September England international. EV charging bays were sold out for all three stadium events checked. Pink car parking for the 12 September concert was down to 2 tickets.",
+          "operatorWording": "It's best to book parking in advance on Wembley Stadium and OVO Arena Wembley event days, as car parks tend to be very busy. (Quintain) / Please only use official stadium car parks - but book early as they fill up. (Wembley Stadium)"
+        },
+        "refundPolicy": "Cancellations made more than 72 hours before the entry date specified in your Booking will receive a refund. No refund will be given for cancellations made 72 hours or less before the entry date. We will not refund any booking administration charge or credit card surcharge. (https://www.wembleyofficialparking.com/PL.aspx?s=61)"
+      },
+
+      "eventDayRates_arena": {
+        "quintainsPublishedFrom": "OVO Arena Wembley Event Day Parking: pre-booked parking starts from £16.25 per car per day and will be in effect on the day of all Arena events. (https://wembleypark.com/get-here/parking-wembley-park/)",
+        "actualPricesSeen": {
+          "event": "Spiritbox",
+          "date": "2026-09-19",
+          "checked": "2026-09-09",
+          "red_HA9_0FD": { "car": "£22.50 (SOLD OUT)", "blueBadge": "£18.50 (SOLD OUT)" },
+          "pink_HA9_0HX": { "coach": "£40.00", "minibus": "£40.00", "evCharging": "£22.50 (SOLD OUT)" },
+          "note": "Arena parking is roughly half the stadium rate, but it still sells out. Car, Blue Badge and EV were all gone ten days before the show."
+        }
+      },
+
+      "theCarParksThemselves": {
+        "source": "https://www.wembleyofficialparking.com/PL.aspx?s=76 (Wembley Park Parking FAQs, operator's own walking times)",
+        "checked": "2026-09-09",
+        "green": { "walkToVenue": "5 mins", "heightRestriction": "4.8 m", "takes": ["car", "minibus", "coach"], "blueBadge": "There are no Blue Badge spaces in this car park." },
+        "blue": { "postcode": "HA9 0TU", "walkToVenue": "6 mins", "heightRestriction": "2.6 m", "takes": ["car", "Blue Badge", "wheelchair", "EV"], "ev": "10 EV charging bays on level 2, run by Pod Point, payment through the app", "specialFeature": "The bridge to the stadium concourse is located on level 3. This is the one that connects straight into the ground." },
+        "pink": { "postcode": "HA9 0HX", "walkToVenue": "8 mins", "heightRestriction": "2.10 m", "takes": ["car", "minibus", "coach", "EV"], "blueBadge": "There are no Blue Badge spaces in this car park.", "note": "Europe's first multi-storey coach and car park, five storeys. This is where coaches go.", "ev": "EV charging bays on levels 1, 2 and 3, run by EV Smart, payment through the app" },
+        "red": { "postcode": "HA9 0FD", "walkToVenue": "9 mins", "heightRestriction": "2.45 m", "takes": ["car", "motorbike", "Blue Badge", "EV"], "blueBadge": "Blue Badge bays are located on Level 1, Level 1 External and Level 2. All Blue Badge bays will be coned off for Blue Badge customers so please speak to a member of staff to open the space for you. There are lifts located on each level for access.", "motorbike": "Motorbike parking is located on level 2. Please remember to chain your motorbike up before leaving.", "ev": "6 EV charging bays on level 1", "note": "Multi-storey opposite the main entrance of the London Designer Outlet." },
+        "gold": { "walkToVenue": "10 mins", "heightRestriction": "2.00 m", "takes": ["car", "Blue Badge"], "note": "Next to the London Designer Outlet, accessed from Lakeside Way; the car park for the Hilton London Wembley. No charging points." },
+        "operationalNotes": [
+          "The car parks are barrierless and work on ANPR. You do not need to visit a pay machine.",
+          "You can change the registration on a car booking up to 1 hour before the start of the event; coach bookings, 24 hours before.",
+          "Customers who cannot produce their parking reference on arrival will be charged at the full daily rate.",
+          "Booking confirmation carries a QR code which is scanned on arrival."
+        ]
+      },
+
+      "nonEventDayRates": {
+        "note": "Only useful as a contrast. On a non-event day the same car parks cost a fraction of the event rate.",
+        "redAndPinkTariff": { "0-1h": "£2.50", "1-2h": "£3.50", "2-3h": "£4.50", "3-4h": "£5.50", "4-5h": "£6.50", "5-6h": "£7.50", "6-8h": "£11.50", "8-12h": "£15.50", "12-24h": "£28.00" },
+        "goldTariff": { "2h": "£6", "4h": "£11", "6h": "£16", "8h": "£20", "12h": "£25", "24h": "£35", "lostTicket": "£35" },
+        "ev": "EV Parking is currently charged from 65p per kWh.",
+        "prebooking": "There is no need to prebook non-event day parking.",
+        "source": "https://wembleypark.com/get-here/parking-wembley-park/",
+        "contrast": "£28 for 24 hours on a normal day; £50 plus a £2.50 booking fee for a stadium event. Event-day pricing is a different tariff, not a surcharge on the normal one."
+      },
+
+      "brentCivicCentreCarPark": {
+        "whyItMatters": "This is the one official car park nobody mentions - a Brent Council car park on Engineers Way, right beside the arena and a few minutes from the stadium, that you do not book through Wembley Official Parking.",
+        "address": "Brent Civic Centre, Engineers Way, Wembley, HA9 0FJ",
+        "distanceFromStadium": "0.37 km straight-line, measured",
+        "directions": "Access from Engineers Way is just before the building on your left if you are proceeding from Empire Way, with Wembley Arena on your right. If driving from First Way, with Wembley Stadium on your left, the entrance is just past the Civic Centre on your right.",
+        "tariff": {
+          "note": "Car park charges are priced and incurred per calendar day.",
+          "upTo1Hour": { "normal": "£3", "eventDay": "£3" },
+          "upTo2Hours": { "normal": "£6", "eventDay": "£6" },
+          "upTo3Hours": { "normal": "£10", "eventDay": "£10" },
+          "wholeDay": { "normal": "£25", "eventDay": "£50" }
+        },
+        "blueBadge": "Blue Badge holders can park free of charge for up to 3 hours with no return within 1 hour using designated disabled person's parking spaces where these are available. If none are available then normal visitor spaces can be used.",
+        "otherNote": "Brent's car parks are free on Sundays with the exception of the Civic Centre and Wembley event day restrictions.",
+        "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/car-parks/brent-civic-centre-car-park",
+        "pageLastUpdated": "03/10/25",
+        "checked": "2026-09-09",
+        "readerPoint": "£50 for the day on a stadium event day - the same as Quintain's £50 car rate, and it is a council car park you can reach without a pre-booking. But short stays are the interesting bit: 3 hours for £10, event day or not. And Blue Badge holders get 3 hours free, which is the only free disabled parking anywhere near the ground."
+      },
+
+      "tflWembleyParkStationCarPark": {
+        "flag": "SEE GAPS. TfL's own data says there is a 71-space London Underground car park at Wembley Park station itself, open 24 hours, £5 a day. No operator says what happens to it on an event day. Verify before printing.",
+        "name": "Wembley Park Stn (LUL)",
+        "address": "Wembley Park Station, Bridge Road, Wembley, Middlesex, HA9 9AA",
+        "coordinates": { "lat": 51.56375, "lng": -0.28215 },
+        "spaces": 71,
+        "disabledBays": 10,
+        "maxHeight": "1.95 m",
+        "openingHours": "Mo-Su 24 Hr",
+        "tariff": { "cashDaily": "£5.20", "cashlessDaily": "£5.00", "saturdayAndBankHoliday": "£2.00", "sunday": "£1.50" },
+        "seasonTickets": { "daily": "£2", "weekly": "£24", "monthly": "£96", "quarterly": "£300", "annually": "£1,100" },
+        "payment": "Cash, Debit Card, Credit Card. Pay & Display, plus DASH pay-by-phone.",
+        "features": "CCTV, staffed site, patrolled site, 24hr contact centre. Not in the Congestion Charge zone.",
+        "telephone": "0345 050 7080",
+        "source": "TfL Unified API, Place/Type/CarPark, checked 2026-09-09",
+        "eventDayZoneStatus": "Inside Brent's Wembley Stadium Event Day Protective Parking Scheme area - but the scheme restricts on-street parking, not off-street car parks."
+      }
+    },
+
+    "parkAStopOut": {
+      "theQuestion": "Rob's idea: park a stop or two down the line and take the tube in. Two things decide it for each station - is there a car park you can actually leave a car in, and does Brent's event-day parking zone swallow the streets around it.",
+
+      "theVerdict": "It works, but not at most of the stations you would first think of, and never on the street. Three of the six candidates - Preston Road, Neasden and Stonebridge Park - sit inside Brent's event-day zone, so on-street parking there is out. Of those three, only Preston Road has an off-street answer, and it is a good one: Brent runs a 164-space car park at the station with a £10 all-day event-day ticket. Northwick Park and Kingsbury are outside the zone and both have Brent car parks. Harrow-on-the-Hill is outside the zone and has a TfL car park. Neasden and Stonebridge Park do not work at all.",
+
+      "criticalDistinction": "The event-day zone bans non-permit parking ON THE STREET. It does not close off-street car parks. Two of the four Brent car parks inside the zone (Preston Road and Neasden) have their own published event-day tariffs, which is how you know Brent expects event-goers to use them. Getting this distinction wrong is the difference between a £10 ticket and a £130 penalty.",
+
+      "stationByStation": [
+        {
+          "station": "Preston Road",
+          "line": "Metropolitan",
+          "stopsToWembleyPark": 1,
+          "distanceFromStadium": "2.08 km straight-line, measured",
+          "eventDayZone": "INSIDE the Wembley Stadium Event Day Protective Parking Scheme (Brent event-day layer, area_code 27). On-street parking without a permit is out.",
+          "tflStationCarPark": "None. TfL's own station record for Preston Road says 'Car park: no'.",
+          "brentCarPark": {
+            "name": "Preston Road car park",
+            "bays": "164 including three disabled and four parent and child bays as well as two electric charging points",
+            "openingHours": "Top level - 24 hours. Lower level - only open on Event Days.",
+            "chargedHours": "Monday to Saturday - 8am to 6.30pm. Wembley event days - 8am to 12 midnight.",
+            "normalCharges": { "firstHour": "no charge", "1to3Hours": "£1 for one hour then 20p per six minutes", "3to5Hours": "£4.50 for three hours then 25p per ten minutes", "over5Hours": "£7.50" },
+            "eventDayCharges": {
+              "shortStay": { "firstHour": "no charge", "1to3Hours": "£1 for one hour then 20p per six minutes", "3to5Hours": "£4.50 for three hours then 25p per ten minutes - five hours is the maximum stay on short stay" },
+              "eventDayTicket": "£10 all day"
+            },
+            "payment": "Cash (additional charge of £0.50 for payments made using cash). Pay via RingGo online reference 5005. Call to Park: 0203 046 0010 reference 5005.",
+            "heightRestriction": "Top level 2.2 m; lower level 2.1 m",
+            "blueBadge": "Disabled badge holders may park for free for an unlimited period when displaying a valid disabled badge.",
+            "residentsNote": "Holders of a valid residents parking permit issued by the London Borough of Brent may park for an unlimited period free of charge. Visitor household permits and daily visitor parking sessions do NOT give free parking in Brent car parks.",
+            "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/car-parks/preston-road",
+            "pageLastUpdated": "27/03/23"
+          },
+          "stationFacilities": "3 ticket gates, 1 ticket hall, 0 lifts. Not step-free.",
+          "verdict": "WORKS - and it is the best of the six. Brent opens a second level of the car park specifically for event days and sells a £10 all-day event ticket. One stop on the Metropolitan to Wembley Park. The catch is 164 spaces and three ticket gates: it is not a large station and it will fill.",
+          "warning": "Do not park on the street at Preston Road. The station is inside the event-day zone and there is a Preston Road pay-and-display CPZ right at the station whose hours extend on event days."
+        },
+        {
+          "station": "Northwick Park",
+          "line": "Metropolitan",
+          "stopsToWembleyPark": 2,
+          "distanceFromStadium": "3.65 km straight-line, measured (station); the car park is 3.30 km",
+          "eventDayZone": "OUTSIDE the event-day zone. The nearest boundary is 436 m from the station and 460 m from the car park.",
+          "cpz": "The car park is not in a CPZ; the nearest CPZ boundary is 721 m away.",
+          "tflStationCarPark": "None. TfL's own record says 'Car park: no'.",
+          "brentCarPark": {
+            "name": "Northwick Park car park",
+            "address": "Capital Ring, Harrow, Brent, HA1 3GY (the postcode sits in Brent, Northwick Park ward)",
+            "bays": "96 (inc 3 disabled parking bays)",
+            "chargedHours": "Monday to Friday - 8am to 6pm",
+            "charges": { "upTo3Hours": "free of charge, no return within 2 hours", "allDay": "£3" },
+            "payment": "Mobile phone using RingGo reference 5096. Free parking sessions booked between Monday and Friday must be booked through RingGo.",
+            "heightRestriction": "2 metres",
+            "blueBadge": "Disabled badge holders may park for free for an unlimited period when displaying a valid disabled badge. There is no requirement to book a parking session through RingGo.",
+            "seasonTicket": "Available",
+            "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/car-parks/northwick-park",
+            "pageLastUpdated": "27/03/23"
+          },
+          "stationFacilities": "3 ticket gates, 1 ticket hall, 0 lifts, no toilet. Not step-free (TfL AccessViaLift: No).",
+          "verdict": "WORKS, and it is by far the cheapest. £3 all day, and charges only apply Monday to Friday 8am to 6pm - so for a Saturday match or an evening kick-off it is free. Two stops on the Metropolitan to Wembley Park. Comfortably outside the event-day zone.",
+          "caveat": "96 spaces, and the station serves Northwick Park Hospital, so weekday demand is real. Two-metre height limit rules out most vans and roof boxes. No event-day tariff is published for this car park, which reads as Brent not expecting event traffic here - worth checking the machine on the day."
+        },
+        {
+          "station": "Kingsbury",
+          "line": "Jubilee",
+          "stopsToWembleyPark": 3,
+          "distanceFromStadium": "3.21 km straight-line, measured (station); the car park is 3.26 km",
+          "eventDayZone": "OUTSIDE the event-day zone, and comfortably so - the nearest boundary is 991 m from the station, 1,079 m from the car park.",
+          "cpz": "The station and car park are in Brent CPZ 'Y', which operates 8.00am - 6.30pm Monday to Saturday, with no event-day extension. Restrictions do not apply on bank holidays. So on-street around Kingsbury is controlled in the daytime Mon-Sat and free in the evenings and on Sundays.",
+          "tflStationCarPark": "None. TfL's own record says 'Car park: no'.",
+          "brentCarPark": {
+            "name": "Kingsbury Road car park",
+            "address": "Car park rear of 469-513 Kingsbury Road, London, NW9 9ED",
+            "bays": "48 including 4 disabled, 15 business and 4 motorcycle bays",
+            "openingHours": "24 hours",
+            "chargedHours": "Monday to Saturday - 8am to 6.30pm",
+            "charges": { "1hour": "£1", "2hours": "£3", "3hours": "£4.50", "allDay": "£7.50" },
+            "eventDayCharges": "None published - unlike Preston Road and Neasden, this car park's page carries no Wembley event day tariff, consistent with it sitting outside the event-day zone.",
+            "payment": "Cash (additional charge of £0.50 for cash). Mobile phone using RingGo reference 5002.",
+            "blueBadge": "Disabled badge holders may park for free for an unlimited period when displaying a valid disabled badge.",
+            "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/car-parks/kingsbury-road",
+            "pageLastUpdated": "27/03/23"
+          },
+          "stationFacilities": "3 ticket gates, 1 ticket hall, 2 lifts, step-free via lift, toilet. Jubilee Night Tube: yes.",
+          "verdict": "WORKS. £7.50 all day, free on a Sunday, three stops down the Jubilee. It is step-free, unlike Preston Road and Northwick Park. And because it is on the Jubilee it has Night Tube on Friday and Saturday nights - so you can come back at your own pace. 48 spaces is tiny, though."
+        },
+        {
+          "station": "Neasden",
+          "line": "Jubilee",
+          "stopsToWembleyPark": "2 (via Wembley Park in the other direction - Neasden is south-east of Wembley Park)",
+          "distanceFromStadium": "2.07 km straight-line, measured",
+          "eventDayZone": "INSIDE the event-day zone (area_code 20 for the station, 21 for the car park). On-street is out.",
+          "cpz": "The car park is in CPZ 'NC2', 8.00am - 6.30pm Monday to Saturday, extended on event days.",
+          "tflStationCarPark": "None. TfL's own record says 'Car park: no'.",
+          "brentCarPark": {
+            "name": "Neasden car park",
+            "address": "237 Neasden Lane, London, NW10 0AA",
+            "bays": "38 (no dedicated disabled bays)",
+            "openingHours": "24 hours",
+            "chargedHours": "Monday to Saturday - 8am to 6.30pm. Wembley event days - 8am to 12 midnight.",
+            "normalCharges": { "1hour": "£1", "2hours": "£3", "3hours": "£4.50", "allDay": "£7.50" },
+            "eventDayCharges": { "1hour": "£1", "2hours": "£3 for two hours maximum stay" },
+            "theKillerDetail": "On a Wembley event day the maximum stay at Neasden is TWO HOURS. There is no all-day event ticket. You cannot leave a car here and go to a match.",
+            "payment": "Cash (additional charge of £0.50 for cash). Mobile phone using RingGo reference 5004.",
+            "blueBadge": "Disabled badge holders may park for free for an unlimited period when displaying a valid disabled badge.",
+            "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/car-parks/neasden",
+            "pageLastUpdated": "27/03/23"
+          },
+          "verdict": "DOES NOT WORK. The station sits inside the event-day zone so the streets are out, and Brent caps the station car park at a two-hour maximum stay on event days - which is Brent deliberately shutting the door on exactly this idea. Neasden also has no lifts, so it is not step-free.",
+          "note": "The Blue Badge exemption is absolute here - 'free for an unlimited period' - so it may still work for a badge holder. Worth confirming that the unlimited-period wording survives the event-day two-hour cap."
+        },
+        {
+          "station": "Stonebridge Park",
+          "lines": ["Bakerloo", "London Overground"],
+          "distanceFromStadium": "1.35 km straight-line, measured",
+          "eventDayZone": "INSIDE the event-day zone (area_code 3). It is only 1.35 km from the ground - well inside the ring.",
+          "tflStationCarPark": "None. TfL's own record says 'Car park: no', and Stonebridge Park does not appear in TfL's list of 58 station car parks.",
+          "brentCarPark": "None. Stonebridge Park is not among Brent's published public car parks.",
+          "stationFacilities": "4 ticket gates, 1 ticket hall, 0 lifts.",
+          "verdict": "DOES NOT WORK. No station car park of any kind, and the streets around it are inside the event-day zone. There is nowhere legal to leave a car."
+        },
+        {
+          "station": "Harrow-on-the-Hill",
+          "lines": ["Metropolitan", "Chiltern"],
+          "stopsToWembleyPark": "3 on the Metropolitan (fast) to 5 (all stations)",
+          "distanceFromStadium": "4.75 km straight-line, measured",
+          "eventDayZone": "OUTSIDE the event-day zone by a wide margin - 1,752 m from the nearest boundary. Also 1,234 m from the nearest Brent CPZ.",
+          "tflStationCarPark": {
+            "name": "Harrow on the Hill Stn (LUL)",
+            "address": "Harrow on the Hill Station, HA1 1BB",
+            "spaces": 113,
+            "openingHours": "Mo-Su 24 Hr",
+            "maxHeight": "1.9 m",
+            "tariff": { "cashDaily": "£5.20", "cashlessDaily": "£5.00", "saturdayAndBankHoliday": "£2.00", "sunday": "£1.50" },
+            "payment": "Cash, Debit Card, Credit Card. DASH pay-by-phone site.",
+            "narrative": "London Underground Site opened on the 10-NOV-2002 but as a season only site. Change to paying on the 8th April 2013. No Mag stripe in P&D so will not take NCP cards.",
+            "source": "TfL Unified API, Place/Type/CarPark, checked 2026-09-09"
+          },
+          "stationFacilities": "16 ticket gates, 1 ticket hall, 5 lifts.",
+          "verdict": "WORKS. This is the only one of Rob's six with a genuine TfL station car park. 113 spaces, £5 a day (£2 on Saturdays and bank holidays, £1.50 on Sundays), open round the clock, and a proper interchange station with 16 gates and 5 lifts. It is the furthest out at 4.75 km, but it is also the most capable at absorbing a crowd, and it is on both the Metropolitan and Chiltern.",
+          "caveat": "1.9 m height limit. Metropolitan line only for the tube leg - no Night Tube, so on a Friday or Saturday night the Jubilee stations are the better bet if you want to linger."
+        }
+      ],
+
+      "otherStationsWorthKnowing": {
+        "whyIncluded": "Wembley Stadium publishes its own park-and-ride list, and every station on it is further out than the ones Rob named. That is itself the finding: the stadium's own advice starts beyond the event-day zone.",
+        "stadiumsOwnParkAndRideList": {
+          "operatorWording": "Please find a list of Park and Ride options which are accessible to Wembley Stadium connected by EE. Please note, Park and Ride locations are not managed or operated by Wembley Stadium connected by EE. Any specific questions or queries regarding Park and Ride locations please contact TfL direct on 0343 222 1234.",
+          "source": "https://help.wembleystadium.com/support/solutions/articles/7000028393-park-and-ride-options-near-wembley-stadium",
+          "articleLastModified": "Tue, 10 Feb 2026",
+          "jubileeLine": [
+            { "station": "Stanmore", "spaces": 450, "journeyToWembley": "11 minutes" },
+            { "station": "Canons Park", "spaces": 156, "journeyToWembley": "11 minutes" },
+            { "station": "Queensbury", "spaces": 73, "journeyToWembley": "11 minutes" }
+          ],
+          "metropolitanUxbridge": [
+            { "station": "Eastcote", "spaces": 50, "journeyToWembley": "20 minutes" },
+            { "station": "Ruislip", "spaces": 153, "journeyToWembley": "20 minutes" },
+            { "station": "Ickenham", "spaces": 176, "journeyToWembley": "23 minutes" },
+            { "station": "Hillingdon", "spaces": 283, "journeyToWembley": "23 minutes" }
+          ],
+          "metropolitanAmersham": [
+            { "station": "Northwood", "spaces": 175, "journeyToWembley": "20 minutes" },
+            { "station": "Moor Park", "spaces": 103, "journeyToWembley": "22 minutes" },
+            { "station": "Chorleywood", "spaces": 238, "journeyToWembley": "30 minutes" },
+            { "station": "Chalfont & Latimer", "spaces": 487, "journeyToWembley": "35 minutes" }
+          ]
+        },
+        "tflTariffsForThose": {
+          "note": "TfL's own car park tariffs, cross-checked against Brent's event-day zone. All the following are outside the zone.",
+          "checked": "2026-09-09",
+          "rows": [
+            { "carPark": "Queensbury Stn (LUL)", "kmFromStadium": 4.32, "spaces": 73, "disabledBays": 5, "cashDaily": "£5.20", "cashlessDaily": "£5.00", "satAndBankHol": "£2.00", "sunday": "£1.50", "maxHeight": "1.9 m", "hours": "24 hr", "zone": "outside event-day zone (1,870 m clear); in Brent CPZ 'QA', 10am-3pm Mon-Sat, no event-day extension", "line": "Jubilee - Night Tube" },
+            { "carPark": "Canons Park Stn (LUL)", "kmFromStadium": 6.00, "spaces": 156, "disabledBays": 5, "cashDaily": "£5.20", "cashlessDaily": "£5.00", "satAndBankHol": "£2.00", "sunday": "£1.50", "maxHeight": "1.9 m", "hours": "24 hr", "zone": "outside event-day zone (3,493 m clear); no CPZ", "line": "Jubilee - Night Tube" },
+            { "carPark": "Stanmore Stn (LUL)", "kmFromStadium": 7.28, "spaces": 450, "disabledBays": 12, "cashDaily": "£5.20", "cashlessDaily": "£5.00", "satAndBankHol": "£2.00", "sunday": "£1.50", "maxHeight": "1.9 m", "hours": "24 hr", "zone": "outside event-day zone (4,761 m clear); no CPZ", "line": "Jubilee terminus - Night Tube, and you get a seat" },
+            { "carPark": "Harrow & Wealdstone Stn (LUL)", "kmFromStadium": 5.44, "spaces": 115, "disabledBays": 5, "cashDaily": "£6.20", "cashlessDaily": "£6.00", "satAndBankHol": "£5.00", "sunday": "£2.00", "maxHeight": "2.08 m", "hours": "24 hr", "zone": "outside event-day zone", "line": "Bakerloo and Overground - direct to Wembley Central" },
+            { "carPark": "Sudbury Town Stn (LUL)", "kmFromStadium": 2.53, "spaces": 78, "cashDaily": "£4.10", "cashlessDaily": "£4.00", "satAndBankHol": "£2.00", "sunday": "£1.50", "maxHeight": "2.08 m", "hours": "24 hr", "zone": "INSIDE the event-day zone, and in CPZ 'ST' whose hours extend on event days - but this is an off-street LU car park, so the on-street restriction does not close it", "line": "Piccadilly - needs a change to reach Wembley, which is why it is not really a contender despite being the closest" },
+            { "carPark": "Colindale Stn (LUL)", "kmFromStadium": 4.82, "spaces": 21, "disabledBays": 2, "cashlessDaily": "£5.00", "zone": "outside event-day zone", "line": "Northern - not a direct route" },
+            { "carPark": "Brent Cross Stn (LUL)", "kmFromStadium": 5.14, "spaces": 22, "disabledBays": 2, "cashlessDaily": "£5.00", "zone": "outside event-day zone", "line": "Northern - not a direct route" }
+          ]
+        },
+        "bestOfAll": "If the reader wants the safest version of Rob's trick, it is Queensbury, Canons Park or Stanmore on the Jubilee: TfL's own car parks, £5 a day (£2 on a Saturday, £1.50 on a Sunday), 24 hours, comfortably outside the event-day zone, direct to Wembley Park in eleven minutes on the stadium's own figures, and on a Night Tube line so Friday and Saturday nights are covered. Stanmore is the terminus, so you also get a seat and 450 spaces."
+      }
+    },
+
+    "theCPZ": {
+      "headline": "This is the whole answer, and it is bigger than people expect. Brent's event-day scheme is a ring roughly three kilometres deep around the stadium, and inside it non-residents cannot park on the street at all - not for a fee, not in a pay-and-display bay. There is no visitor option you can buy on the day.",
+
+      "officialName": "Wembley Stadium Event Day Protective Parking Scheme (abbreviated WSPPS, occasionally WSPSS on Brent's own pages)",
+
+      "theRule": {
+        "quote": "On Wembley Stadium event days, there can be up to 90,000 people attending an event. To minimise disruption to the local community, when there are events, only residents and businesses with an event day permit are allowed to park in the Wembley event day zone. If you are parked without a permit, you will get a parking ticket and may have your vehicle removed.",
+        "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/wembley-event-day-parking-restrictions",
+        "pageLastUpdated": "14/11/25",
+        "checked": "2026-09-09"
+      },
+
+      "hours": {
+        "quote": "Event day restrictions operate 8am to midnight on main roads to the stadium and generally 10am to midnight elsewhere in residential areas outside controlled parking zones. In controlled parking zones within the Wembley Stadium Event Day Protective Parking Scheme area the restrictions are 8am to midnight, with exceptions of zone 'SA' which is 10am to midnight and zone 'T' which operates 24/7. Some bus lanes and existing CPZs within Wembley will also have restrictions which start earlier.",
+        "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/wembley-event-day-parking-restrictions",
+        "summary": {
+          "mainRoadsToTheStadium": "8am to midnight",
+          "residentialAreasOutsideCPZs": "generally 10am to midnight",
+          "CPZsInsideTheScheme": "8am to midnight",
+          "zoneSA": "10am to midnight",
+          "zoneT": "24/7"
+        },
+        "aRealExample": "Bon Jovi are bringing the Forever Tour to Wembley Stadium on Wednesday 9 September. Doors open at 5pm, with road closures in place from 3pm. Parking restrictions will apply from 8am until midnight. (https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking, captured 2026-09-09). Note the shape of that: an 8am start for a 5pm doors time. The restrictions are in force nine hours before anyone arrives."
+      },
+
+      "theSize": {
+        "method": "Point-in-polygon and edge-distance analysis of Brent's own published event-day boundary layer (the file their CPZ map loads: https://www.brent.gov.uk/-/media/maps/external/event-day.json), 35 polygons, checked 2026-09-09.",
+        "polygons": 35,
+        "boundingBox": "longitude -0.32357 to -0.23994, latitude 51.54017 to 51.57781",
+        "furthestPointFromStadium": "3,259 m (3.26 km)",
+        "extentFromStadium": { "west": "3,043 m", "east": "2,740 m", "north": "2,428 m", "south": "1,758 m" },
+        "plainEnglish": "Roughly two to three kilometres in every direction. It swallows Wembley Park, Wembley Central, Wembley Stadium station, Preston Road, Neasden, Stonebridge Park and Sudbury Town. It stops short of Northwick Park (436 m short), Kingsbury (991 m short), Queensbury (1,870 m short) and Harrow-on-the-Hill (1,752 m short)."
+      },
+
+      "permits": {
+        "whoCanGetOne": "Residents and businesses inside the scheme area but outside a controlled parking zone, plus places of worship and schools inside the zone. Residents of private roads within the scheme are also entitled to permits.",
+        "cost": "£15",
+        "types": {
+          "resident": "Up to three per household. Virtual. Valid three years.",
+          "visitor": "Up to two per household. Paper-based, must be clearly displayed inside the vehicle. Valid three years. NOT available to residents of private roads within the zone.",
+          "business": "Up to two. Virtual. Valid three years.",
+          "placeOfWorshipOrSchool": "Up to 20 each."
+        },
+        "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/parking-permits/wembley-event-day-permits",
+        "whatThisMeansForTheReader": "There is no permit a visitor can buy. The only way a non-resident parks legally on a Wembley street on an event day is if a resident inside the zone gives them one of their two paper visitor permits. That is it. Anything a website offers you for money is not a Brent permit."
+      },
+
+      "thePenalty": {
+        "higherRate": "£130 (band A) or £110 (band B) depending on location charge band - higher rate contraventions, e.g. parking on yellow lines",
+        "lowerRate": "£80 (band A) or £60 (band B) - lower rate contraventions, e.g. overstaying in a pay & display bay",
+        "discount": "A 50% discount is applied if payment is received within 14 days from the date the PCN was issued.",
+        "removal": "If a vehicle remains in place for 30 minutes or more after a PCN has been issued, it may be removed. Some contraventions may result in the immediate removal of a vehicle.",
+        "whoSetsIt": "Parking penalties in London are set by London Councils' Transport and Environment Committee (TEC).",
+        "enforcement": "Civil Enforcement Officers patrol the whole of Brent. The Council works in partnership with NSL, the contractor responsible for parking management and enforcement. Moving traffic contraventions and bus stop parking are enforced using CCTV cameras and CCTV-equipped vehicles.",
+        "pound": "NSL Car Pound, 10 Lumen Road, East Lane Business Park, Wembley, HA9 7RE, open 9am to 7pm Monday to Sunday.",
+        "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/controlled-parking-zones and https://www.brent.gov.uk/parking-roads-and-travel/parking/parking-permits/wembley-event-day-permits",
+        "checked": "2026-09-09"
+      },
+
+      "privateAndUnadoptedRoads": {
+        "quote": "We can only enforce these restrictions on the public highway. Residents of private or unadopted roads within the event day area do not benefit from our parking enforcement.",
+        "warningForTheReader": "This is not a loophole. A private road is private property - Brent will not ticket you there, but the landowner can clamp, tow or issue a private charge, and none of Brent's appeal rights apply."
+      },
+
+      "motorcycles": {
+        "quote": "A motorcycle may be left in a parking space without charge or time limit, provided that the use of that part of the parking space in which the vehicle is left has not been suspended.",
+        "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/wembley-event-day-parking-restrictions",
+        "note": "Brent's general CPZ page adds that motorcycles do not need a permit. Motorcycle parking at Wembley Park is on level 2 of Red Parking."
+      },
+
+      "howToCheckAnAddress": {
+        "brentTool": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/controlled-parking-zones/cpz-map - enter a postcode; the map shows both CPZs and the event-day zone.",
+        "note": "This is the tool to point readers at rather than describing the boundary in prose. It is Brent's own and it is postcode-searchable."
+      },
+
+      "whatTheOperatorsSayAboutStreetParking": [
+        "Street parking is a no-no - it's reserved for local residents. (https://www.wembleystadium.com/plan-your-visit/getting-to-wembley/parking-at-wembley)",
+        "If you come to this event by car, we ask that you only use official stadium car parks. (Brent Council, https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days)"
+      ],
+
+      "popUpCarParks": {
+        "warning": "Both the stadium and the arena warn against them by name.",
+        "stadiumWording": "Avoid 'pop-up' car parks - many private car parks appear on event days, but be warned: They probably don't have the correct insurance in place - so you're not covered if something happens to your car and they're at fault; They're not patrolled, so car crime can - and does - happen; Poor lighting means they're difficult to navigate for cars and people.",
+        "stadiumHelpCentreWording": "There are a number of unauthorised car parking operators within the Wembley area. We would strongly advise that you do not use them for the following reasons: Insurance Risk | Unauthorised car parks may not be correctly insured to operate commercial car parks, which means that you are not covered on their site if they are at fault. Car Crime | There are numerous reports of car crime in unofficial car parks. Poor Lighting | Unofficial car parks can be poorly lit as are the approach roads for pedestrians.",
+        "arenaWording": "Unofficial car parks on your way to the venue are further away and might not be secure - we'd recommend avoiding them.",
+        "sources": [
+          "https://www.wembleystadium.com/plan-your-visit/getting-to-wembley/parking-at-wembley",
+          "https://help.wembleystadium.com/support/solutions/articles/7000028427-official-parking-blue-badge-coach-and-bicycle-parking",
+          "https://www.ovoarena.co.uk/your-visit/getting-here-accommodation"
+        ]
+      }
+    },
+
+    "disabledParkingAndBlueBadge": {
+      "theRule": "Blue Badge parking at the stadium and arena is not free and it is not on the street. It is booked, per event, through the official parking site, in the Blue and Red car parks.",
+      "operatorWording": [
+        "Blue Badge Parking is available to purchase directly via Wembley Official Parking. (https://help.wembleystadium.com/support/solutions/articles/7000028427-official-parking-blue-badge-coach-and-bicycle-parking)",
+        "If you're going to an event at Wembley Stadium or the OVO Arena Wembley, you'll find Blue Badge parking in the Blue Car Park and Red Car Park. Blue Badge holders attending an event at Wembley Stadium or OVO Arena Wembley will receive a reduced price for car-sized vehicles but do note that there is no free parking available. Usual parking rates apply for Blue Badge holders who are not attending an event. (https://wembleypark.com/accessibility-around-wembley-park/)",
+        "Wembley Park car parks offer more than 200 accessible parking spaces for Blue-Badge holders."
+      ],
+      "pricesSeen": {
+        "checked": "2026-09-09",
+        "stadiumEvents": "£25.00 per Blue Badge or wheelchair space plus a £2.50 booking fee, in Blue Parking (HA9 0TU), across all three stadium events checked. Compare £50 for a standard car - so the reduced rate is exactly half.",
+        "arenaEvent": "£18.50 plus £2.50 booking fee in Red Parking (HA9 0FD) for Spiritbox on 19 Sep 2026, against £22.50 for a standard car.",
+        "availability": "SOLD OUT for the 12 Sep concert and the 26 Sep England match when checked on 9 Sep. Book the moment you have a ticket."
+      },
+      "whichCarParks": {
+        "blueParking": "HA9 0TU. 6 minute walk. Blue Badge and wheelchair bays. The bridge to the stadium concourse is on level 3.",
+        "redParking": "HA9 0FD. 9 minute walk. Blue Badge bays on Level 1, Level 1 External and Level 2, coned off - speak to a member of staff to open the space for you. Lifts on each level.",
+        "goldParking": "10 minute walk. Takes Blue Badge.",
+        "noBlueBadgeAt": "Pink Parking and Green Parking have no Blue Badge spaces at all."
+      },
+      "freeBlueBadgeParkingThatDoesExist": [
+        "Brent Civic Centre car park, Engineers Way HA9 0FJ: Blue Badge holders can park free of charge for up to 3 hours with no return within 1 hour using designated disabled person's parking spaces where these are available. If none are available then normal visitor spaces can be used.",
+        "All Brent Council car parks (Preston Road, Northwick Park, Neasden, Kingsbury Road and the rest): Disabled badge holders may park for free for an unlimited period when displaying a valid disabled badge.",
+        "Harrow Council car parks and on-street bays: All our parking spaces are free for vehicles that display Blue Badges. (https://www.harrow.gov.uk/parking-permits/council-car-parks-street-parking)"
+      ],
+      "disabledAccessShuttle": {
+        "whatItIs": "A complimentary, wheelchair-accessible shuttle between Wembley Park station and the stadium, run for the stadium by Brent Community Transport.",
+        "operatorWording": "Wembley Stadium connected by EE operates a complimentary shuttle service from Wembley Park Station to Wembley Stadium. The operating hours for the shuttle will vary from event to event, however, generally the shuttle will operate from 30 minutes pre gates opening to 1 hour post final whistle or the event finishing. The shuttle runs on a rotational basis approximately every 30 minutes from outside Wembley Park tube station directly to the junction of Rutherford and Engineers way without stopping and can fit up to 10 people. The shuttle is wheelchair accessible.",
+        "meetingPoint": "The meeting point for the shuttle from Wembley Park Station is by the entry of the lift at Wembley Park tube station, adjacent to Olympic Way. The Customer Engagement Team will be on hand at the drop-off point to offer directions or any additional support required.",
+        "afterTheEvent": "At the end of the event, the shuttle bus collection point will be at the junction of Rutherford Way and Engineers Way and will drop off at Wembley Park Station.",
+        "chaperoneService": "If guests require additional support from the drop-off point, the Customer Engagement Team operate a 'pushing and chaperone' service for guests who require additional support on the day in terms of travel to and from their seat, similar to an airport. This service is not pre-bookable and can be accessed across all events at the stadium.",
+        "caveat": "Please note, the shuttle is operated by Brent Community Transport and whilst we advise on operational times any decisions on timings are ultimately made by them.",
+        "source": "https://help.wembleystadium.com/support/solutions/articles/7000028432-disabled-access-shuttle",
+        "articleLastModified": "Tue, 19 May 2026",
+        "checked": "2026-09-09"
+      },
+      "inTheGround": {
+        "lifts": "Four lifts from ground level to the Wembley Stadium concourse as part of the Olympic Steps, each taking three wheelchairs - 12 wheelchairs at a time. Plus dedicated lifts at each entrance with enough room for two wheelchair users and their assistants, and lifts to the concourse and every stadium level.",
+        "other": "147 accessible toilets (RADAR key, or ask a steward or information point). Two dog relieving stations for service dogs, next to turnstiles B and M on the east and west external concourse. Wheelchairs available to loan. Free BSL interpretation of every concert, interpreter at Block 102/103 or 141/142.",
+        "disabledAccessPhoneLine": "0800 093 0824",
+        "source": "https://wembleypark.com/accessibility-around-wembley-park/ and https://help.wembleystadium.com/support/solutions/articles/7000099934-england-v-spain-saturday-26-september-2026"
+      }
+    },
+
+    "coaches": {
+      "whereTheyGo": "Coach Parking is located directly adjacent to Wembley Stadium connected by EE to the West of the venue. Coach Companies and Operators can pre-book their coach parking space by contacting Wembley Park by following the webpage Wembley Official Parking.",
+      "source": "https://help.wembleystadium.com/support/solutions/articles/7000028427-official-parking-blue-badge-coach-and-bicycle-parking",
+      "whichCarPark": "Pink Parking (HA9 0HX), which Quintain describes as 'Europe's first multi-storey coach and car park'. Coach spaces must be pre-booked for Wembley Stadium events. Green Parking also takes coaches (5 minute walk, 4.8 m height limit).",
+      "prices": {
+        "checked": "2026-09-09",
+        "stadiumEvent": "£120.00 per coach plus a £5.00 booking fee (Pink Parking). Accessible coaches the same. Minibus or limo £75.00 plus £3.50.",
+        "arenaEvent": "£40.00 per coach or minibus plus a £5.00 booking fee (Pink Parking), Spiritbox 19 Sep 2026."
+      },
+      "rules": {
+        "quote": "Only online pre-booked coaches will be allowed entry into the car parks. It is a condition of entry that no alcohol is allowed on coaches. No hold luggage is allowed without exception. Any coaches 'unknown' or without an online booking or those who fail to follow the 'no alcohol/no luggage in the hold' policy will be rejected and directed to leave site with no refund. Coaches will be subject to a random mandatory security check prior to entry to the parking areas.",
+          "source": "https://www.wembleyofficialparking.com/PL.aspx?s=61",
+        "other": [
+          "Coach registration can be changed up to 24 hours before the event; book with a dummy registration if you do not have it yet.",
+          "If you have booked a coach that will need to use its accessible ramp please email the parking team in advance at parking@wembleypark.com.",
+          "No alcohol is permitted in the car park. Please do not release any waste from the toilets in the car park. No idling - turn off your engine once parked up."
+        ]
+      },
+      "driversLounge": "Wembley Stadium has a lounge for coach drivers to relax during events however, spaces are limited and issued on a first come first-served basis. (https://wembleypark.com/get-here/parking-wembley-park/)",
+      "nationalExpress": {
+        "status": "Official Coach Supplier to Wembley Stadium connected by EE",
+        "service": "Wembley Express services drop you direct to the stadium from over 50 locations across the UK",
+        "booking": "nationalexpress.com or 08717 81 81 81",
+        "theSellingPoint": "You'll also enjoy the peace of mind of a guaranteed seat home. And they'll even wait if your event overruns.",
+        "source": "https://www.wembleystadium.com/plan-your-visit/national-express"
+      }
+    },
+
+    "taxisAndPrivateHire": {
+      "whatIsPublished": {
+        "eventDayRank": "An event day taxi rank is located on Engineers Way next to Wembley Arena.",
+        "source": "https://www.wembleystadium.com/plan-your-visit/getting-to-wembley",
+        "stadiumAdvice": "Public transport is the best way to get to Wembley, especially during peak traffic. But if you really need a taxi outside peak traffic times, please only use a licensed cab.",
+        "stationRank": "TfL's facilities record for Wembley Park station lists 'taxi ranks outside station' under Other Facilities - though the same record's structured TaxiRankOutsideStation flag says No.",
+        "roadClosures": "Road closures were in place from 3pm for a 5pm doors time on 9 September 2026 (Brent Council). Engineers Way, where the rank is, is inside that area.",
+        "trafficInfo": "For real-time traffic information visit the Highways England website or call 0300 123 5000. (Wembley Stadium)"
+      },
+      "gap": "See gapsForRob. No operator publishes whether private hire vehicles booked by app can reach the ground on an event day, or where they can pick up. The stadium names only a black-cab rank on Engineers Way. Given road closures from 3pm and a pedestrianised Olympic Way, the honest answer is probably 'not close', but no operator says so and I will not guess in print."
+    },
+
+    "ulez": {
+      "applies": true,
+      "charge": "£12.50 daily",
+      "tflWording": "The Ultra Low Emission Zone (ULEZ) operates 24 hours a day, 7 days a week, every day of the year, except Christmas Day (25 December). The zone operates across all London boroughs, and does not include the M25. If your vehicle doesn't meet the ULEZ emissions standards and isn't exempt, you need to pay a £12.50 daily charge to drive within the zone. This applies to cars, motorcycles, vans and specialist vehicles (up to and including 3.5 tonnes) and minibuses (up to and including 5 tonnes).",
+      "tflSource": "https://tfl.gov.uk/modes/driving/ultra-low-emission-zone",
+      "stadiumWording": "On 29 August, 2023 ULEZ was further expanded to incorporate all London boroughs, including Brent and Wembley Stadium... Everybody who travels by vehicle to Wembley, will be subject to the ULEZ.",
+      "theMidnightTrap": "Please also be mindful of the charge timings, these are set between 00:00-00:00, so if you are travelling overnight, you may be subject to 2 x charges - up until 23:59 on one day, and from 00:01 the next, when it resets. (Wembley Stadium's own warning - and with car parks open until 03:00, a late departure from an evening gig will cross midnight.)",
+      "congestionCharge": "Wembley is NOT in the Congestion Charge zone. TfL's own car park record for Wembley Park station station has CongestionChargeZone: False.",
+      "checked": "2026-09-09"
+    }
+  },
+
+  "smallDetailsWorthHaving": {
+    "alcoholRestrictions": {
+      "rule": "Brent Council and its partners are enforcing a No Street Drinking Zone on Olympic Way and the surrounding area, during a number of big music concerts and showcase sporting events at Wembley Stadium.",
+      "enforcement": "People drinking on Olympic Way and the surrounding streets will be asked to hand over their alcohol and enforcement action may be considered.",
+      "legalBasis": "Public Space Protection Order",
+      "source": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days",
+      "onTrains": "Please note, the area around Wembley Stadium is an alcohol-free zone and the stadium also has a strict bag policy. (Chiltern Railways). There may also be alcohol restrictions on coach services so please check before you travel. (Brent)"
+    },
+    "cashless": "Wembley Stadium is a cashless venue. NO kiosks will accept cash.",
+    "ageRestriction": "No under 2s are permitted inside the stadium.",
+    "what3words": "The stadium and the official parking site both publish what3words references. Pink Parking: ///events.ship.rating. Red Parking: ///courier.drives.party. Blue Parking: ///goals.nature.scale.",
+    "satNavPostcodes": {
+      "wembleyPark": "HA9 0FA (Quintain's own recommendation)",
+      "ovoArena": "HA9 0AA",
+      "redParking": "HA9 0FD",
+      "pinkParking": "HA9 0HX",
+      "blueParking": "HA9 0TU",
+      "brentCivicCentre": "HA9 0FJ",
+      "wembleyStadiumStation": "HA9 8BQ",
+      "wembleyParkStation": "HA9 9AA",
+      "wembleyCentralStation": "HA9 7AJ"
+    },
+    "drivingDirections": "To reach Wembley Park by car, use the postcode HA9 0FA in your Sat Nav. Or just follow signs for Wembley Stadium when you reach the A406 North Circular from the M1, A40 or M25. (https://wembleypark.com/get-here/)",
+    "residentsBallot": "Residents living in the Wembley Event Day parking zone can apply for free tickets to upcoming Wembley Stadium events through Brent's residents' ticket ballot. A nice detail if the piece touches on what living inside the zone is like. https://www.brent.gov.uk/events-in-brent/wembley-events-landing-page/wembley-stadium-residents-ballot"
+  },
+
+  "sourceIndex": [
+    { "url": "https://www.wembleystadium.com/plan-your-visit/getting-to-wembley", "operator": "Wembley Stadium", "checked": "2026-09-09" },
+    { "url": "https://www.wembleystadium.com/plan-your-visit/getting-to-wembley/parking-at-wembley", "operator": "Wembley Stadium", "checked": "2026-09-09" },
+    { "url": "https://www.wembleystadium.com/plan-your-visit/national-express", "operator": "Wembley Stadium", "checked": "2026-09-09" },
+    { "url": "https://help.wembleystadium.com/support/solutions/articles/7000028427-official-parking-blue-badge-coach-and-bicycle-parking", "operator": "Wembley Stadium help centre", "checked": "2026-09-09" },
+    { "url": "https://help.wembleystadium.com/support/solutions/articles/7000028393-park-and-ride-options-near-wembley-stadium", "operator": "Wembley Stadium help centre", "lastModified": "2026-02-10", "checked": "2026-09-09" },
+    { "url": "https://help.wembleystadium.com/support/solutions/articles/7000028432-disabled-access-shuttle", "operator": "Wembley Stadium help centre", "lastModified": "2026-05-19", "checked": "2026-09-09" },
+    { "url": "https://help.wembleystadium.com/support/solutions/articles/7000028434-coach-and-rail-options-for-wembley-stadium", "operator": "Wembley Stadium help centre", "checked": "2026-09-09" },
+    { "url": "https://help.wembleystadium.com/support/solutions/articles/7000079409-getting-here", "operator": "Wembley Stadium help centre", "checked": "2026-09-09" },
+    { "url": "https://help.wembleystadium.com/support/solutions/articles/7000096225-accessible-transport-and-travel", "operator": "Wembley Stadium help centre", "checked": "2026-09-09" },
+    { "url": "https://www.ovoarena.co.uk/your-visit/getting-here-accommodation", "operator": "OVO Arena Wembley", "checked": "2026-09-09" },
+    { "url": "https://wembleypark.com/get-here/", "operator": "Quintain / Wembley Park", "checked": "2026-09-09" },
+    { "url": "https://wembleypark.com/get-here/parking-wembley-park/", "operator": "Quintain / Wembley Park", "checked": "2026-09-09" },
+    { "url": "https://wembleypark.com/accessibility-around-wembley-park/", "operator": "Quintain / Wembley Park", "checked": "2026-09-09" },
+    { "url": "https://wembleypark.com/olympicsteps/", "operator": "Quintain / Wembley Park", "checked": "2026-09-09" },
+    { "url": "https://wembleypark.com/get-here/travelling-in-and-around-wembley-park/", "operator": "Quintain / Wembley Park", "checked": "2026-09-09" },
+    { "url": "https://www.wembleyofficialparking.com/", "operator": "Wembley Official Parking (designated by both the stadium and Wembley Park)", "checked": "2026-09-09" },
+    { "url": "https://www.wembleyofficialparking.com/PL.aspx?s=61", "note": "Event day parking terms and conditions - car park opening times, refunds, coach rules", "checked": "2026-09-09" },
+    { "url": "https://www.wembleyofficialparking.com/PL.aspx?s=76", "note": "Wembley Park Parking FAQs - per car park walking times, height limits, Blue Badge locations", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking", "operator": "Brent Council", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/wembley-event-day-parking-restrictions", "operator": "Brent Council", "pageLastUpdated": "14/11/25", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days", "operator": "Brent Council", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/parking-permits/wembley-event-day-permits", "operator": "Brent Council", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/controlled-parking-zones", "operator": "Brent Council", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/controlled-parking-zones/cpz-map", "operator": "Brent Council", "note": "The map itself; its data layers are event-day.json and cpz.json", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/-/media/maps/external/event-day.json", "operator": "Brent Council", "note": "The published event-day zone boundary, 35 polygons", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/-/media/maps/external/cpz.json", "operator": "Brent Council", "note": "The published CPZ boundaries, 71 polygons with hours", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/car-parks/preston-road", "operator": "Brent Council", "pageLastUpdated": "27/03/23", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/car-parks/northwick-park", "operator": "Brent Council", "pageLastUpdated": "27/03/23", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/car-parks/neasden", "operator": "Brent Council", "pageLastUpdated": "27/03/23", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/car-parks/kingsbury-road", "operator": "Brent Council", "pageLastUpdated": "27/03/23", "checked": "2026-09-09" },
+    { "url": "https://www.brent.gov.uk/parking-roads-and-travel/parking/where-you-can-park/car-parks/brent-civic-centre-car-park", "operator": "Brent Council", "pageLastUpdated": "03/10/25", "checked": "2026-09-09" },
+    { "url": "https://www.harrow.gov.uk/parking-permits/council-car-parks-street-parking", "operator": "Harrow Council", "note": "Checked for a Harrow equivalent of the Wembley event-day scheme. There isn't one - Harrow publishes ordinary CPZs only, and gives free Blue Badge parking and one free hour a day.", "checked": "2026-09-09" },
+    { "url": "https://tfl.gov.uk/tube/stop/940GZZLUWYP/wembley-park-underground-station/", "operator": "TfL", "checked": "2026-09-09" },
+    { "url": "https://tfl.gov.uk/tube/stop/940GZZLUWYC/wembley-central-underground-station/", "operator": "TfL", "checked": "2026-09-09" },
+    { "url": "https://tfl.gov.uk/modes/tube/night-tube", "operator": "TfL", "checked": "2026-09-09" },
+    { "url": "https://tfl.gov.uk/tube/route/jubilee/", "operator": "TfL", "checked": "2026-09-09" },
+    { "url": "https://tfl.gov.uk/modes/driving/ultra-low-emission-zone", "operator": "TfL", "checked": "2026-09-09" },
+    { "url": "https://api.tfl.gov.uk/StopPoint/{id}", "operator": "TfL Unified API", "note": "Station facilities, accessibility, Night Tube flag, gate and lift counts", "checked": "2026-09-09" },
+    { "url": "https://api.tfl.gov.uk/Place/Type/CarPark", "operator": "TfL Unified API", "note": "All 58 London Underground station car parks with tariffs, space counts and disabled bays", "checked": "2026-09-09" },
+    { "url": "https://api.tfl.gov.uk/Journey/JourneyResults/...", "operator": "TfL Unified API", "note": "Used for last-train and Night Tube frequency observations", "checked": "2026-09-09" },
+    { "url": "https://www.chilternrailways.co.uk/train-stations/wembley-stadium", "operator": "Chiltern Railways", "checked": "2026-09-09" },
+    { "url": "https://www.chilternrailways.co.uk/wembley-events-travel-information", "operator": "Chiltern Railways", "note": "The per-event page with amended timetables and queue colours - the single best link for a reader with a fixed date", "checked": "2026-09-09" },
+    { "url": "https://www.chilternrailways.co.uk/destinations/wembley", "operator": "Chiltern Railways", "checked": "2026-09-09" },
+    { "url": "https://www.nationalrail.co.uk/stations/wembley-stadium/", "operator": "National Rail", "checked": "2026-09-09" },
+    { "url": "https://www.nationalrail.co.uk/stations/wembley-central/", "operator": "National Rail", "checked": "2026-09-09" },
+    { "url": "https://www.nationalrail.co.uk/live-trains/departures/wembley-stadium/", "operator": "National Rail", "note": "Live board on an event day, carrying Chiltern's queue notice", "checked": "2026-09-09" }
+  ]
+}

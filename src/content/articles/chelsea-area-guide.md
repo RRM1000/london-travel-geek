@@ -94,6 +94,10 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 6. **Albert Bridge** — Cast-iron, painted pink and green, and lit by 4,000 bulbs at night. Still signed to ask troops to break step when crossing.
 7. **Duke of York Square** — A pedestrian square off the King's Road with a Saturday fine food market and the Saatchi Gallery behind it.
 
+![A spiral of rusted steel bands engraved with names, wound around a small tree at the Chelsea Physic Garden, with autumn borders of purple monkshood and verbena in front and a red-brick house beyond the wall](../../assets/articles/chelsea-area-guide/chelsea-physic-garden.jpg)
+
+*The walled four acres on the Embankment. The brick and the river together make it the warmest corner of London, which is why things fruit here that fruit nowhere else in the city.*
+
 ![A white-walled gallery room at the Saatchi Gallery hung with framed prints](../../assets/articles/chelsea-area-guide/saatchi-gallery.jpg)
 
 *The Saatchi Gallery in the old Duke of York's HQ. Free to enter, and the rooms are as much of the draw as what is hung in them.*

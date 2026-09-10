@@ -92,6 +92,10 @@ Thomas Carlyle lived at 24 Cheyne Row from 1834 until his death in 1881, and the
 
 ## 3. Chelsea Physic Garden
 
+![A spiral of rusted steel bands engraved with names, wound around a small tree at the Chelsea Physic Garden, with autumn borders of purple monkshood and verbena in front and a red-brick house beyond the wall](../../assets/articles/chelsea-belgravia-plaques-walk/chelsea-physic-garden.jpg)
+
+*Stop three, and the only green one on the route. Closed all day Saturday, which catches people who assume a garden opens at weekends.*
+
 Four acres of walled botanic garden, founded in 1673 by the Society of Apothecaries to grow medicinal plants — **the second-oldest botanic garden in Britain**, and completely invisible from the street.
 
 It is the one green stop on the route and it is genuinely a garden rather than a park: glasshouses, a rock garden built partly from Icelandic lava, and beds arranged by what the plants are *for* rather than where they come from.

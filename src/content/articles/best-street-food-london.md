@@ -140,6 +140,10 @@ Tottenham Court Road has seven kitchens including **Plaza Khao Gaeng** for South
 
 *25+ kiosks · daily · Cited by 3 sources*
 
+![The interior of Bang Bang Oriental, a timber-ceilinged food hall with long communal tables full of people eating, kiosks including a Yo Tokyo sushi and ramen counter along the far wall](../../assets/articles/best-street-food-london/bang-bang-oriental.jpg)
+
+*450 covers and 25-odd kitchens under one timber roof. It is strip-lit and functional, and nobody comes for the room.*
+
 **The deepest pan-Asian food hall in Britain** and the successor to the much-missed Oriental City — Chinese, Korean, Japanese, Vietnamese, Malaysian, Singaporean and Taiwanese counters around 450 covers.
 
 It is strip-lit and functional rather than handsome, and that is the point: this is where you go for regional cooking that central London does not do, not for the room. Expect **hand-pulled noodles, Hong Kong roast duck and char siu over rice, Malaysian nasi goreng and laksa, Korean fried chicken, Taiwanese bao and bubble tea, Vietnamese pho** and a proper dim sum counter, with a large Asian supermarket attached.
