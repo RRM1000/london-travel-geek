@@ -348,7 +348,7 @@
       "typical": "October, and September and October in some seasons",
       "established": "The NFL's own international site states that the NFL returns to Tottenham Hotspur Stadium in London in October and that tickets are on sale, with an official ticketing link.",
       "missing": "Exact dates and fixtures for the year in hand - the NFL's own listings did not surface them in a form I could confirm.",
-      "status": "SPORT - FLAGGED, DELIBERATELY NOT BUILT INTO THE SPINE. data/worklist.json carries `sport-in-monthly-guides` as an open decision. Do not add this or any other sport fixture to `fixtures` until that decision is made. Recorded here only so the question is answered with evidence rather than from memory."
+      "status": "SPORT - DECIDED 10 SEP 2026, MAJOR EVENTS ONLY: see sport-in-monthly-guides under decided in data/worklist.json. The NFL London games and England internationals qualify; club football and club rugby do not. The earlier flag follows, kept for the record: data/worklist.json carries `sport-in-monthly-guides` as an open decision. Do not add this or any other sport fixture to `fixtures` until that decision is made. Recorded here only so the question is answered with evidence rather than from memory."
     },
     {
       "name": "Football, rugby and the rest of the autumn sporting calendar",
@@ -356,7 +356,7 @@
       "typical": "Throughout October",
       "established": "That October is a full month of London sport is not in doubt.",
       "missing": "A decision on whether this series covers sport at all.",
-      "status": "SPORT - FLAGGED, DELIBERATELY NOT BUILT INTO THE SPINE. Same reason as above: `sport-in-monthly-guides` in data/worklist.json. If the answer turns out to be yes, October is the month to start, because it is the first month where sport is the reason some readers are in the city."
+      "status": "SPORT - DECIDED 10 SEP 2026, MAJOR EVENTS ONLY: see sport-in-monthly-guides under decided in data/worklist.json. The NFL London games and England internationals qualify; club football and club rugby do not. The earlier flag follows, kept for the record: Same reason as above: `sport-in-monthly-guides` in data/worklist.json. If the answer turns out to be yes, October is the month to start, because it is the first month where sport is the reason some readers are in the city."
     }
   ]
 }

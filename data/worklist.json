@@ -21,12 +21,6 @@
       "added": "2026-09-08"
     },
     {
-      "id": "sport-in-monthly-guides",
-      "what": "Decide whether the monthly guides cover sport at all. September is the start of the football season and the fixture list is public.",
-      "why": "Flagged while writing September and still open. It changes the shape of every month from here.",
-      "added": "2026-09-08"
-    },
-    {
       "id": "clink78-vs-clink261",
       "what": "Clink78 is in the sheet and marked closed in data/closed-hotels.json. The community pass found Clink261 - a DIFFERENT Clink hostel, 5 minutes from King's Cross St Pancras, with a first-hand 'no complaints' from r/uktravel. Worth swapping the closed row for the open one.",
       "needs": "a sheet edit - swap Clink78 for Clink261, or add Clink261 alongside"
@@ -257,6 +251,12 @@
       "date": "2026-09-09",
       "decision": "Use Official London Theatre's ?last_chance=true FILTER for closing dates, and read the JSON-LD. The bare last-chance URL 404s, which is why this looked unsourceable.",
       "why": "Found while compiling October. It also carries a trap: OLT's endDate is a BOOKING HORIZON for open-ended runs, not a closing date. Moulin Rouge! appears under last-chance with 17 October and is still selling December performances. Only treat a date as a closing if the run is limited and began this year."
+    },
+    {
+      "id": "sport-in-monthly-guides",
+      "date": "2026-09-10",
+      "decision": "Yes, but major events only: international football (England at Wembley), international cricket, international rugby (England's men and the Red Roses), the big tennis events (Wimbledon and Queen's), the NFL and other American football played in London, major athletics meetings, and the London Marathon. No club football - no Premier League, EFL or Champions League - and no club rugby.",
+      "why": "Rob's call, 10 September 2026. These are events people plan a trip around; a club fixture list is a weekly schedule, not an event. Applied to the September and October guides the same day."
     }
   ]
 }

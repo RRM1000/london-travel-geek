@@ -203,6 +203,16 @@ Alexandra Palace has the busiest month of any venue in London. **Annie Mac on th
 
 For something entirely different, the **Monteverdi Choir performs Rossini's *Petite Messe Solennelle* at Ally Pally on 18 September**.
 
+## Sport: the last Saturday is the big one
+
+**Saturday 26 September puts two England teams on in London on the same day.** The men play **Spain at Wembley** in the UEFA Nations League, and the **Red Roses** play **New Zealand at Allianz Stadium, Twickenham**, kicking off at 3pm, with tickets from £20.
+
+**American college football comes to Wembley a week earlier.** The **Union Jack Classic** on **Saturday 19 September** is Arizona State Sun Devils against Kansas Jayhawks. The NFL follows in October, with three games on consecutive Sundays.
+
+**The Wimbledon 2027 public ballot is due.** The All England Club told myWimbledon members on 27 August that it opens soon, and last year's ran for three weeks in September. How to enter, and the other routes in if you are not drawn, are in our [Wimbledon tickets guide](/articles/wimbledon-tickets-guide/).
+
+Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## New restaurants and bars

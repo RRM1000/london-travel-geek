@@ -29,6 +29,8 @@ faq:
     a: "About as good as it gets — 31 October 2026 falls on a Saturday, so events run at full strength instead of being squeezed onto the nearest weekend. It also closes an already stacked week: the clocks have just gone back, half term is ending, and MCM Comic Con and Diwali on the Square both land on the Sunday before it. Our [Halloween in London guide](/articles/halloween-london/) has the scare attractions, club nights and where to still hire a costume."
   - q: "What festivals are on in London in October 2026?"
     a: "More than any other month. The BFI London Film Festival runs 7 to 18 October, Dance Umbrella 7 to 27 October, Bloomsbury Festival and Black History Month all month, the London Literature Festival from 20 October into November, and Diwali on the Square in Trafalgar Square on Sunday 25 October. Layer the five Frieze Week art fairs on top of that and the middle fortnight of October is the densest the London calendar gets."
+  - q: "Are there NFL games in London in October 2026?"
+    a: "Three, on consecutive Sundays: Indianapolis Colts v Washington Commanders on 4 October and Philadelphia Eagles v Jacksonville Jaguars on 11 October, both at Tottenham Hotspur Stadium, then Houston Texans v Jacksonville Jaguars at Wembley on 18 October."
 ---
 
 October is the month London's cultural year peaks, and then, in its last week, the month the city quietly turns the lights off. For the first three weeks that is a good trade: the summer crowds have gone, the autumn exhibitions and festivals are landing one after another, and the weather — cooler and wetter than September, but not yet given up on — still allows an evening outdoors.
@@ -89,8 +91,6 @@ The deliberate counterweight to Frieze, in the same week: contemporary work from
 
 The UK's largest public film festival closes on the same Sunday Frieze Week ends. General booking runs from 10am on 17 September, so by October the obvious galas are largely gone — but a genuine second chance opens at **10am on 1 October**, when the festival releases a batch of held-back tickets, and it is worth more than most people assume. Standard tickets start at £10, or **£6 if you are 25 or under** through the free BFI 25 & Under scheme. Full dates, prices and the routes into a sold-out screening are in our [BFI London Film Festival guide](/articles/london-film-festival/).
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The rest of October's annual fixtures
 
 ### Black History Month — the whole of October
@@ -116,6 +116,24 @@ The autumn edition of the American Express-led restaurant festival runs across O
 ### Asian Art in London — opens 29 October
 
 A city-wide programme of selling exhibitions, auctions, lectures and museum events across the London Asian art trade, running **29 October to 10 November** across Mayfair and St James's galleries, the auction houses and museum partners. It belongs in this guide because it opens in October, even though most of its run falls in November — largely free to walk into the gallery exhibitions.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Sport: three NFL Sundays and England at Wembley
+
+**The NFL plays three games in London this month, on consecutive Sundays.**
+
+| Date | Game | Stadium |
+| --- | --- | --- |
+| Sunday 4 October | Indianapolis Colts v Washington Commanders | Tottenham Hotspur Stadium |
+| Sunday 11 October | Philadelphia Eagles v Jacksonville Jaguars | Tottenham Hotspur Stadium |
+| Sunday 18 October | Houston Texans v Jacksonville Jaguars | Wembley Stadium |
+
+The Jaguars play London twice, a week apart, at two different stadiums.
+
+**England play Czechia at Wembley on Tuesday 6 October**, a midweek Nations League match two days after the first NFL game.
+
+Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
 
 ## The last eight days: dark, full of children, and Halloween on a Saturday
 
@@ -251,13 +269,15 @@ The most perishable section on this page: where a restaurant has not named its o
 
 ## Looking ahead to November and December
 
-Three things worth knowing about now, even though none of them happen in October.
+A few things worth knowing about now, even though none of them happen in October.
 
 **Bonfire Night** is **5 November**. Every display, which of them need tickets, the free viewpoints and which famous ones no longer run are in our [Bonfire Night guide](/articles/bonfire-night-london/).
 
 **Hyde Park Winter Wonderland** runs **19 November 2026 to 3 January 2027**, and booking is already open: advance entry is **£1** for off-peak slots and **£8.25** at peak, with everything inside — rides, the ice rink, the circus — charged separately. Full prices, gates and what's new for 2026 are in our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/).
 
 **Christmas in London** starts earlier than most people expect: Trafalgar Square's market opens on **6 November** and its Norway spruce is lit on **3 December**. Our [Christmas in London guide](/articles/christmas-in-london/) tracks the other markets and light switch-ons as their dates are announced, and what has quietly stopped running.
+
+**November is the big month for international sport.** England's men play three Nations Championship matches at Allianz Stadium, Twickenham: **Australia on Sunday 8 November**, **Japan on Saturday 14 November** and **New Zealand on Saturday 21 November**, with tickets from £79, £51 and £103 respectively. England's footballers play **Croatia at Wembley on Thursday 12 November**.
 
 ## Practical: October in London
 

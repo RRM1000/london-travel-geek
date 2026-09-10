@@ -947,5 +947,82 @@
     "THE NEW-VENUE PASS WORKS AND SHOULD BE STANDING. Searching deliberately for openings that are neither restaurants nor gigs found Absurd City, the Lightroom show and EbonyLife Place - none of which would surface from Hot Dinners or a venue's what's-on page. Blue Note was the September lesson; this month it paid off.",
     "CHECK WHAT AN INSTITUTION CALLS A THING. Two entries in the stub's exhibition-closing list turned out to be a short course and a selling display. The RA's own site labels each category explicitly.",
     "SEARCH ENGINES: DuckDuckGo HTML and Mojeek both rate-limited or served a captcha after a handful of curl queries on 9 September. Google via the browser pane worked throughout and is the reliable route for SERP-first discovery here."
-  ]
+  ],
+  "sport": {
+    "note": "Major events only - see sport-in-monthly-guides under decided in data/worklist.json. Checked 2026-09-10 against each venue's or governing body's own listing. The competition for England's football matches is from the Wembley guide.",
+    "events": [
+      {
+        "name": "Indianapolis Colts v Washington Commanders",
+        "sport": "NFL",
+        "date": "2026-10-04",
+        "venue": "Tottenham Hotspur Stadium",
+        "official": "https://www.tottenhamhotspurstadium.com/events/1069172/nfl-2026",
+        "verified": "2026-09-10"
+      },
+      {
+        "name": "England v Czechia",
+        "sport": "Football, UEFA Nations League",
+        "date": "2026-10-06",
+        "venue": "Wembley Stadium",
+        "official": "https://www.wembleystadium.com/events/2026/England-v-Czechia",
+        "verified": "2026-09-10"
+      },
+      {
+        "name": "Philadelphia Eagles v Jacksonville Jaguars",
+        "sport": "NFL",
+        "date": "2026-10-11",
+        "venue": "Tottenham Hotspur Stadium",
+        "official": "https://www.tottenhamhotspurstadium.com/events/1069172/nfl-2026",
+        "verified": "2026-09-10"
+      },
+      {
+        "name": "Houston Texans v Jacksonville Jaguars",
+        "sport": "NFL",
+        "date": "2026-10-18",
+        "venue": "Wembley Stadium",
+        "official": "https://www.wembleystadium.com/events/2026/Jacksonville-Jaguars",
+        "verified": "2026-09-10"
+      }
+    ],
+    "lookingAhead": [
+      {
+        "name": "England Men v Australia",
+        "sport": "Rugby union, Nations Championship 2026",
+        "date": "2026-11-08",
+        "kickOff": "15:10",
+        "venue": "Allianz Stadium, Twickenham",
+        "price": "From £79",
+        "official": "https://www.englandrugby.com/fixtures-and-results",
+        "verified": "2026-09-10"
+      },
+      {
+        "name": "England v Croatia",
+        "sport": "Football, UEFA Nations League",
+        "date": "2026-11-12",
+        "venue": "Wembley Stadium",
+        "official": "https://www.wembleystadium.com/events/2026/England-v-Croatia",
+        "verified": "2026-09-10"
+      },
+      {
+        "name": "England Men v Japan",
+        "sport": "Rugby union, Nations Championship 2026",
+        "date": "2026-11-14",
+        "kickOff": "16:40",
+        "venue": "Allianz Stadium, Twickenham",
+        "price": "From £51",
+        "official": "https://www.englandrugby.com/fixtures-and-results",
+        "verified": "2026-09-10"
+      },
+      {
+        "name": "England Men v New Zealand",
+        "sport": "Rugby union, Nations Championship 2026",
+        "date": "2026-11-21",
+        "kickOff": "14:10",
+        "venue": "Allianz Stadium, Twickenham",
+        "price": "From £103",
+        "official": "https://www.englandrugby.com/fixtures-and-results",
+        "verified": "2026-09-10"
+      }
+    ]
+  }
 }

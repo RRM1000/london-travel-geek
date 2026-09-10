@@ -50,7 +50,7 @@ just delete it.
 
 ## Questions to settle
 
-- Does this site cover **sport**? It changes the shape of every monthly guide.
+- ~~Does this site cover **sport**?~~ Yes, major events only. Decided 10 September 2026: see `sport-in-monthly-guides` under `decided` in `data/worklist.json`.
 - Is there a source you trust for **West End closing dates**?
 
 ---

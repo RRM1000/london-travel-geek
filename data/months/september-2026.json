@@ -399,5 +399,37 @@
       "verified": "2026-09-08",
       "why": "Biggest music venue opening in London in years. Found by Rob, not by any of my passes - the openings research covered restaurants via Hot Dinners and gigs via existing venue listings, and a NEW venue falls between the two. Worth a dedicated check each month."
     }
-  ]
+  ],
+  "sport": {
+    "note": "Major events only - see sport-in-monthly-guides under decided in data/worklist.json. Checked 2026-09-10 against each venue's or governing body's own listing. The competition for England's football matches is from the Wembley guide.",
+    "events": [
+      {
+        "name": "Union Jack Classic: Arizona State Sun Devils v Kansas Jayhawks",
+        "sport": "American college football",
+        "date": "2026-09-19",
+        "venue": "Wembley Stadium",
+        "official": "https://www.wembleystadium.com/events/2026/Arizona-State-Sun-Devils-v-Kansas-Jayhawks",
+        "verified": "2026-09-10"
+      },
+      {
+        "name": "England v Spain",
+        "sport": "Football, UEFA Nations League",
+        "date": "2026-09-26",
+        "venue": "Wembley Stadium",
+        "official": "https://www.wembleystadium.com/events/2026/England-v-Spain",
+        "verified": "2026-09-10"
+      },
+      {
+        "name": "Red Roses v New Zealand",
+        "sport": "Women's rugby union, WXV Global Series 2026",
+        "date": "2026-09-26",
+        "kickOff": "15:00",
+        "venue": "Allianz Stadium, Twickenham",
+        "price": "From £20",
+        "official": "https://www.englandrugby.com/fixtures-and-results",
+        "verified": "2026-09-10"
+      }
+    ],
+    "notInLondon": "The Red Roses' other two WXV Global Series matches this month are in Salford (v Australia, 12 September) and Exeter (v Canada, 19 September)."
+  }
 }
