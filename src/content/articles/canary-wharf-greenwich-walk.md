@@ -1,7 +1,7 @@
 ---
 title: "A Walk from Canary Wharf to Greenwich: Under the River in Eleven Stops"
 seoTitle: "Canary Wharf to Greenwich Walk: Foot Tunnel Route + Map"
-description: "A numbered walking route from the Crossrail roof garden to the Prime Meridian, going under the Thames through the 1902 Greenwich Foot Tunnel at the halfway point. With the lift situation, and what is open on which day."
+description: "A numbered walking route from the Crossrail roof garden to the Prime Meridian, going under the Thames through the 1902 Greenwich Foot Tunnel. With prices and what is open on which day."
 heroImage: "../../assets/articles/canary-wharf-greenwich-walk/greenwich-hill-view.jpg"
 heroImageAlt: "The view from Greenwich Park over the Old Royal Naval College and the Thames to Canary Wharf's towers, with both ends of the walk in one frame"
 publishedAt: 2026-09-09
@@ -12,28 +12,22 @@ tags: [Canary Wharf, Greenwich, walks, free things to do, Thames, neighbourhoods
 draft: false
 faq:
   - q: "Can you walk from Canary Wharf to Greenwich?"
-    a: "Yes, and you never cross a bridge. Walk south down the Isle of Dogs to Island Gardens, go under the Thames through the Greenwich Foot Tunnel, and come up beside the Cutty Sark. It is about 6.5km with eleven stops and takes three to four hours at a walking pace — Google Maps gives the pure walking time as an hour and a half, and everything else is time spent standing still."
+    a: "Yes, and without crossing a bridge. Walk south down the Isle of Dogs to Island Gardens, go under the Thames through the Greenwich Foot Tunnel, and come up beside the Cutty Sark. It is about 6.5km with eleven stops: an hour and a half of walking, three to four hours with stops."
   - q: "Is the Greenwich Foot Tunnel step-free?"
-    a: "Yes, when the lifts are running, and they now run around the clock. The refurbishment installed four new lifts across the two Thames foot tunnels which the Royal Borough of Greenwich says are operational 24 hours every day, and the council publishes a live status page for both ends. Over the thirty days to 9 September 2026 the Greenwich tunnel's south lift was available 99.91% of the time and the north lift 99.93%. The spiral stairs are the fallback rather than the default."
-  - q: "Does Google Maps route through the Greenwich Foot Tunnel?"
-    a: "It does. Ask for walking directions from Island Gardens to the Cutty Sark and Google returns a nine-minute, 0.3-mile route labelled 'via Greenwich Foot Tunnel', drawn straight under the river. It does not send you round by a bridge or put you on the DLR, which is the thing worth checking before you trust a route across water."
+    a: "Yes, when the lifts are running, and they run 24 hours a day. The Royal Borough of Greenwich publishes a live status page for both ends, so check it before you go. If a lift is down, there are spiral stairs."
   - q: "Is Greenwich Market closed on Mondays?"
-    a: "Not any more, and a lot of guides have not caught up. The market's own site gives its hours as daily, 10am to 5.30pm, including weekends and bank holidays. The only closures it lists are Christmas Day and the first six Mondays of the year, when the traders take a break after Christmas."
+    a: "No. It is open daily, 10am to 5.30pm. It closes only on Christmas Day and the first six Mondays of the year."
   - q: "What does the Canary Wharf to Greenwich walk cost?"
-    a: "Eight of the eleven stops are free outright: the Crossrail Place Roof Garden, London Museum Docklands, the dock walks, Mudchute Farm, Island Gardens, the foot tunnel, Greenwich Market and the National Maritime Museum. The three ticketed ones are the Cutty Sark at £22 adult and £11 child, the Painted Hall at £19 with children free, and the Royal Observatory at £24 and £12. You can do the whole walk without paying anything."
-  - q: "Which direction should you walk it, Canary Wharf to Greenwich or the other way?"
-    a: "North to south. You spend the first half among towers and dock water, come out of a Victorian tunnel into a UNESCO World Heritage Site, and finish by climbing Greenwich Park to look back at everything you walked past. Reversed, you start with the famous half and end at an office estate — and you do the hill at the beginning, when you do not yet know what you are looking at."
+    a: "Nothing, if you want. Eight of the eleven stops are free. The three ticketed ones are the Cutty Sark (£22 adult, £11 child), the Painted Hall (£19, children free) and the Royal Observatory (£24 adult, £12 child)."
+  - q: "Which direction should you walk it?"
+    a: "North to south. You finish on Greenwich hill looking back at Canary Wharf, and you save the climb for the end."
 ---
 
-There are two good half-days here and almost nobody joins them up. Canary Wharf gets an hour from people waiting for a train; Greenwich gets a day trip that arrives by boat and leaves by boat. They are on opposite banks of the same reach of river, and the crossing between them is free and takes five minutes.
+Canary Wharf and Greenwich face each other across the Thames, and the crossing between them is a free, five-minute walk under the river. This route joins them: **eleven stops, about 6.5km, three to four hours**, with the 1902 **Greenwich Foot Tunnel** in the middle. Eight of the stops are free.
 
-**This walk uses it.** Eleven stops, five on each bank, with the **Greenwich Foot Tunnel** exactly in the middle at stop six: a white-tiled 1902 tunnel under the Thames that you go down into at Island Gardens and come up out of beside the *Cutty Sark*. It is about **6.5km and takes three to four hours** with stops, or a full day if you go into the Observatory and the ship properly.
+For where to stay and eat at either end, see the [Canary Wharf](/articles/canary-wharf-area-guide/) and [Greenwich](/articles/greenwich-area-guide/) area guides.
 
-Eight of the eleven stops are free. The route also has a spine most people miss: **the Prime Meridian runs through both ends of it.** Crossrail Place at stop one sits almost exactly on the line and is planted by hemisphere because of it; the Royal Observatory at stop eleven is where the line was drawn.
-
-For the areas either side — where to stay, where to eat, the O2, the swimming — see the [Canary Wharf area guide](/articles/canary-wharf-area-guide/) and the [Greenwich area guide](/articles/greenwich-area-guide/). This is the walking route that joins them.
-
-> 💡 **The Short Version:** Walk **north to south**, starting at the free **Crossrail Place Roof Garden** and finishing on **Greenwich hill**. The **foot tunnel is free, open around the clock, and its lifts now run 24 hours** — the council publishes a live status page, so you can check before you commit to it. **Greenwich Market is open daily now**, whatever older guides say. Do the free museums before the paid ones: **London Museum Docklands** and the **National Maritime Museum** cost nothing and are better than their reputations. And you can trust your phone here — **Google Maps routes walkers through the tunnel** rather than sending you round by a bridge.
+> 💡 **The Short Version:** Walk **north to south**, from the free **Crossrail Place Roof Garden** to **Greenwich hill**. The **foot tunnel is free and open around the clock**, with lifts running 24 hours. **Greenwich Market is open daily.** Do the free **London Museum Docklands** and **National Maritime Museum** before paying for anything.
 
 ## The route
 
@@ -53,7 +47,7 @@ For the areas either side — where to stay, where to eat, the O2, the swimming 
   </noscript>
 </details>
 
-**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.506102,-0.017603&destination=51.477362,-0.000846&waypoints=51.507634,-0.023869%7C51.505302,-0.022872%7C51.492045,-0.011673%7C51.486998,-0.008210%7C51.483291,-0.010166%7C51.482933,-0.009614%7C51.481583,-0.009045%7C51.481784,-0.006632%7C51.480776,-0.005123&travelmode=walking)** — all eleven stops in walking order, set to walking directions, which is the version to put on your phone. It comes back as **4.0 miles and about an hour and a half of actual walking**, with 377 feet of ascent — almost all of it in the last ten minutes.
+**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.506102,-0.017603&destination=51.477362,-0.000846&waypoints=51.507634,-0.023869%7C51.505302,-0.022872%7C51.492045,-0.011673%7C51.486998,-0.008210%7C51.483291,-0.010166%7C51.482933,-0.009614%7C51.481583,-0.009045%7C51.481784,-0.006632%7C51.480776,-0.005123&travelmode=walking)** — all eleven stops, set to walking directions, including the tunnel.
 
 | # | Stop | Cost | Open |
 | --- | --- | --- | --- |
@@ -77,119 +71,61 @@ For the areas either side — where to stay, where to eat, the O2, the swimming 
 
 ![Inside the Crossrail Place Roof Garden, with dense planting beneath a triangulated timber and glass roof](../../assets/articles/canary-wharf-greenwich-walk/crossrail-place-roof-garden.jpg)
 
-*The best thing in Canary Wharf is on top of a station, and it is free. Most people walk underneath it to a train without knowing it is there.*
+*A free garden on top of the Elizabeth line station.*
 
-**Start on the roof of the Elizabeth line station**, in a garden that hardly anyone visits.
+**Free and open daily**, until 9pm or sunset in summer. The garden sits almost exactly on the Prime Meridian and is planted by hemisphere: Asian plants to the east of the line, plants from the Americas to the west. The walk ends where the line was drawn.
 
-Crossrail Place is a timber lattice hull built into the old North Dock, so the whole structure sits in water. The **roof garden inside it is free to visit and open daily** — Canary Wharf's own line is that it is open "until 9pm or sunset in summer", and it is one of the largest roof gardens in London.
-
-Here is the detail that makes it the right opening for this particular walk. **Crossrail Place sits almost exactly on the Meridian line**, and the planting is arranged by which hemisphere the species come from: **Asian plants such as bamboos to the east of the line, ferns and others from the Americas to the west.** You are standing on longitude zero, more or less, at the start of a walk that ends where longitude zero was invented.
-
-There is an amphitheatre in the middle of it that local groups and schools use for free performances, and a food court on the level below if you want to start with coffee.
-
-> 💡 **You can reach it without going outside.** Come up from the Elizabeth line, Jubilee or DLR platforms and follow signs for Crossrail Place. In heavy rain this stop and the next are both indoors.
+Signs from the Elizabeth line, Jubilee and DLR platforms lead straight up to it.
 
 ## 2. London Museum Docklands
 
 ![The brick Georgian warehouse on West India Quay that houses the Museum of London Docklands](../../assets/articles/canary-wharf-greenwich-walk/museum-of-london-docklands.jpg)
 
-*A Georgian sugar warehouse with a museum inside it, five minutes north across the footbridge. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/6455266221), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*A Georgian sugar warehouse on West India Quay. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/6455266221), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-**Free, open seven days, and the best hour on the north bank.** It is now called **London Museum Docklands** rather than the Museum of London Docklands, which is why you may not find it where you expect.
-
-It occupies **No. 1 Warehouse on West India Quay**, a Georgian sugar warehouse that is one of the few things here older than the 1980s, and it covers four hundred years of the river, the port and London's part in the transatlantic slave trade across three floors. Its own guidance is that **entry is free with no need to book**, that it is **open 10am to 5pm every day**, and that you should allow at least an hour. The galleries start clearing twenty minutes before closing.
-
-It is rarely busy, which is remarkable for a free museum this good five minutes from a Zone 2 station.
+**Free, no booking, open 10am to 5pm every day.** Four hundred years of the river and the port, including London's part in the transatlantic slave trade, across three floors. Allow an hour. It is rarely busy.
 
 ![Georgian warehouses and a preserved dockside crane at West India Quay, with the City skyline in the distance](../../assets/articles/canary-wharf-greenwich-walk/west-india-quay.jpg)
-
-*West India Quay itself. The low brick terrace on the left is the warehouse range; the crane is one of several left standing along the dock.*
 
 ## 3. Cabot Square and the docks
 
 ![Office towers and moored boats reflected in a Canary Wharf dock at sunset](../../assets/articles/canary-wharf-greenwich-walk/dock-sunset.jpg)
 
-*The docks face west, so this is what the last hour of light does to them. Worth timing an evening walk for, though it makes the hill at the far end a climb in the dark.*
+Twenty minutes of walking beside the old West India Docks, through **Cabot Square** and then **south across South Dock**, where the towers give way to the Isle of Dogs within ten minutes.
 
-Back over the footbridge and into the middle of the estate. This is **less a stop than twenty minutes of walking beside water** — which is the whole argument for doing this on foot rather than taking the DLR two stops.
-
-Canary Wharf is built on the **West India Docks**, which handled sugar and rum from the 1800s until they closed in 1980. The water was kept. **Cabot Square** is the formal centre, with its fountain, and almost every walkway off it runs along a dock edge: Middle Dock, the Wood Wharf boardwalks, the basins under the DLR viaduct. Nothing here is ticketed and nothing closes.
-
-Head **south across South Dock** and you leave the towers behind quickly. Within ten minutes the buildings drop to four storeys and you are on the Isle of Dogs proper.
-
-> 💡 **The detour: Wood Wharf and Eden Dock.** Ten minutes east is the newest quarter — a waterside restaurant strip with a floating Hawksmoor, and **Eden Dock**, a set of planted floating islands and wetland walkways installed in Middle Dock. Both are free to walk. It adds twenty minutes to the round trip and it is the part of Canary Wharf that is busiest at weekends.
+> 💡 **Detour: Wood Wharf and Eden Dock.** Ten minutes east: a waterside restaurant strip with a floating Hawksmoor, and Eden Dock's planted floating islands. Free, and busiest at weekends.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 4. Mudchute Park and Farm
 
-**Working farmland in Zone 2, with the towers still visible over the fence.** This is the surprise of the walk and the reason to come down the middle of the island rather than along the river.
-
-Mudchute is a community charity rather than an attraction, and it says so plainly: **32 acres, over a hundred animals, open every day, free of charge.** The **farm is open 9am to 4pm** — the animals start going in at 3pm, so arrive before then if the animals are the point — and the **park is open dawn to dusk**. There is a café in the courtyard, open Tuesday to Sunday.
-
-The name is the giveaway about what the ground is. Mudchute's own history is that the land was **created from the spoil of dredging Millwall Dock** and then left alone for decades — and that in **1974 the Greater London Council earmarked it for a high-rise estate**. The islanders campaigned, the estate was never built, and the Mudchute Association was formed in 1977 to keep it. Everything you are standing in is the result of that.
+**A 32-acre city farm in Zone 2, free, with over a hundred animals.** The farm is open 9am to 4pm (the animals go in from 3pm) and the park dawn to dusk. The courtyard café is open Tuesday to Sunday. The land was nearly a high-rise estate in 1974 until islanders campaigned to keep it.
 
 ![Swans and pigeons on a floating dock in an Isle of Dogs marina, with the converted Victorian warehouse flats behind and Canary Wharf's towers rising in the distance](../../assets/articles/canary-wharf-greenwich-walk/isle-of-dogs-marina-swans.jpg)
 
-*The docks on the way down — now marinas ringed with moorings and warehouse conversions. This stretch is easy to have almost entirely to yourself.*
-
 ## 5. Island Gardens
 
-**A small riverside park at the southern tip of the Isle of Dogs, and the single best free view on the north bank.**
+**The best free view on the north bank.** Directly across the river: the two wings of the Old Royal Naval College, the Queen's House framed between them, and the Observatory on the hill behind. Canaletto painted it from about here in 1751.
 
-You come out of the trees onto a river wall and the whole of Maritime Greenwich is laid out directly opposite: **the Old Royal Naval College split into two wings, the Queen's House framed dead centre in the gap between them, and Greenwich Park rising behind with the Observatory on top.** Nothing about that composition is accidental, and it is the reason this is the arrival to walk towards rather than away from.
-
-This is the **Canaletto view**, painted from about this spot in 1751, and it is protected in London's planning rules as a designated townscape view. It costs nothing and there is a bench.
-
-**Look, then walk a minute west** along the river wall to the round brick building with the glass dome. That is the way across.
+The round brick building with the glass dome, a minute west along the river wall, is the way across.
 
 ## 6. The Greenwich Foot Tunnel
 
 ![The red brick and glass domed rotunda entrance to the Greenwich Foot Tunnel beside the Thames](../../assets/articles/canary-wharf-greenwich-walk/greenwich-foot-tunnel-rotunda.jpg)
 
-*The southern rotunda, on the Greenwich side. There is an identical one at Island Gardens, and you would walk past either without registering it.*
-
-**The hinge of the walk, and the reason to do it in this order.** You go down through a glazed rotunda on the Isle of Dogs, walk under the Thames through 1902 white tile, and come up in a UNESCO World Heritage Site.
-
-The **former London County Council built it in 1902** so that workers living south of the river could reach the docks and shipyards on the north bank in any weather — the Woolwich tunnel followed in 1912. The **Royal Borough of Greenwich runs it on behalf of Tower Hamlets**, and it is free.
-
-**The lift question is the one that matters, and the answer is now good.** The refurbishment delivered **four new lifts across the two tunnels which the council states are operational 24 hours every day**, along with CCTV throughout, new lighting, new rotunda roofs and external signs showing lift availability.
-
-> 💡 **Check the lifts before you commit.** The council publishes a **[live status page for both ends of both tunnels](https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels)**, with thirty-day availability figures beside each one. On 9 September 2026 both Greenwich lifts were in service, with **99.91% availability on the south lift and 99.93% on the north** over the previous thirty days. That is the number to look at rather than any guidebook, including this one. If a lift is down, the spiral stairs still work; if the tunnel itself is shut, the **DLR runs between Cutty Sark and Island Gardens** and takes three minutes.
-
-Two rules people break. **You must not cycle through** — dismount and push. And **e-bikes are barred from the tunnel altogether**, which catches out hire-bike riders: you have to end the ride before you go in and start a new one on the other side.
-
-One oddity worth knowing if you are walking in the evening: the tunnels are **wet-cleaned monthly, on the first Tuesday and Wednesday of the month between 8pm and 10pm**. It stays open, but there is a fair amount of water underfoot.
+**Free, open around the clock, about five minutes under the Thames.** Built in 1902 so dockworkers could cross in any weather, it brings you up beside the *Cutty Sark*. The lifts run 24 hours; the council's **[live status page](https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels)** shows whether they are working. If the tunnel is ever shut, the DLR runs from Island Gardens to Cutty Sark in three minutes.
 
 ![The cast-iron ribbed interior of the Greenwich Foot Tunnel running under the Thames](../../assets/articles/canary-wharf-greenwich-walk/foot-tunnel-interior.jpg)
 
-*Inside. Straight, lit, and about five minutes of walking — the sound is the part people remember.*
-
-**Your phone will get this right, which is not a given for a river crossing.** Ask Google Maps for walking directions from Island Gardens to the Cutty Sark and it returns a **nine-minute, 0.3-mile route labelled "via Greenwich Foot Tunnel"**, drawn straight under the water. It does not send you round by Tower Bridge and it does not quietly put you on the DLR. The Google Maps link at the top of this page uses the tunnel too.
-
-> ⚠️ **The council has applied to replace the lifts entirely.** Its submission to the Department for Transport's Structures Fund says the lifts and parts of the structure are at end of life, and a decision is expected in autumn 2026. Nothing about that affects a visit today, but it is the reason to check the status page rather than assume.
-
 ## 7. The Cutty Sark
 
-**You come up and it is directly in front of you** — the last surviving tea clipper, in a dry dock and raised so that you can walk about underneath the hull, which is the part of the ticket that is actually worth the money.
-
-**£22 adult and £11 child, open daily 10am to 5pm with last entry at 4.15pm.** Royal Museums Greenwich sells a **day pass covering the Cutty Sark and the Royal Observatory together for £38 adult and £19 child**, which is the saving to make if you intend to do both — and on this route you may well not.
-
-If you are not going in, the ship is free to walk around and the dry dock is open to the street. **The Gipsy Moth** next to it has a large beer garden, and Greenwich Market runs a street food market on Cutty Sark Gardens.
+**The last surviving tea clipper, raised in a dry dock so you can walk underneath the hull.** £22 adult, £11 child, daily 10am to 5pm (last entry 4.15pm). A day pass with the Royal Observatory is £38 adult, £19 child. The ship is free to look at from outside, and **the Gipsy Moth** next to it has a big beer garden.
 
 ## 8. Greenwich Market
 
 ![Food stalls under the glass and iron roof of Greenwich Market, with banners reading I Heart Greenwich Market](../../assets/articles/canary-wharf-greenwich-walk/greenwich-market-stalls.jpg)
 
-*Under a roof, which makes it the wet-weather lunch stop as well as the good-weather one.*
-
-Two minutes inland, and the lunch stop.
-
-> ⚠️ **Ignore anything that tells you it shuts on Mondays.** The market's own guidance is now **daily, 10am to 5.30pm, including weekends and bank holidays**. The only closures it publishes are **Christmas Day and the first six Mondays of the year**, when the traders take a break after the Christmas rush. A great many guides — ours included, until we checked — still carry the old Tuesday-to-Sunday line.
-
-It is covered, it is free to walk into, and it mixes crafts, antiques and makers with food rather than being one or the other, which is unusual for London. **Goddards at Greenwich** has been selling pie and mash a few doors away since 1890 — its own claim, and its recipes have not changed since — and it is the most Greenwich lunch available.
-
-**Weekends are shoulder-to-shoulder.** A weekday gets you the same market with room to look at the stalls.
+**The lunch stop: covered, and open daily 10am to 5.30pm.** Crafts, antiques and street food together. It closes only on Christmas Day and the first six Mondays of the year. **Goddards** has sold pie and mash a few doors away since 1890. Weekends are packed; weekdays have room.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -197,106 +133,63 @@ It is covered, it is free to walk into, and it mixes crafts, antiques and makers
 
 ![Looking straight up at the ornate painted dome ceiling of the Painted Hall in the Old Royal Naval College](../../assets/articles/canary-wharf-greenwich-walk/painted-hall-ceiling.jpg)
 
-*Nineteen years of one man's work. Thornhill was paid a pound a square yard for the walls and three for the ceiling. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Painted Hall took James Thornhill nineteen years. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-**Wren's hospital for seamen, and the grandest set of buildings on the river.** Three different things here have three different answers on cost, so it is worth separating them.
-
-**The grounds are free and open daily 8am to 11pm** — much longer than anything else on this walk, and the reason this is a good evening stop.
-
-**The Chapel of St Peter and St Paul is open daily to everyone, 10am to 5pm.** It was built to Wren's design between 1696 and 1712, burned, and was rebuilt in 1779 by James 'Athenian' Stuart, whose neo-classical interior is the version you see. It is still an active place of worship and it is one of the finest rooms in London that most visitors walk straight past.
-
-**The Painted Hall is the ticket: £19 general admission, and children go free** — up to four per paying adult. James Thornhill spent **nineteen years** on it, which is the fact everyone repeats, and the ticket converts into an annual pass at no extra cost, which is the fact nobody mentions. It includes a multimedia guide in eight languages including BSL, the Skittle Alley and the Discover Greenwich museum, and there are talks about the ceiling every half hour from 11am to 4pm.
-
-> ⚠️ **The ticket desk and the Painted Hall are not the same building.** The Visitor Centre is 98m from the Cutty Sark; the Painted Hall is a further **245m** from the Visitor Centre. Allow for the walk. On access: the site is step-free between the gates, but the **toilets in the King William Undercroft below the Painted Hall currently have no step-free access, because the lift there is broken.**
+**Wren's hospital for seamen.** The **grounds are free, 8am to 11pm daily**, and the **Chapel** is free, 10am to 5pm. The **Painted Hall** is £19, children free, and the ticket works as an annual pass. Buy it at the Visitor Centre by the Cutty Sark, not at the hall.
 
 ![The colonnade beside the Queen's House at the Old Royal Naval College, its white columns throwing long shadows across the flagstones](../../assets/articles/canary-wharf-greenwich-walk/naval-college-colonnade.jpg)
 
-*The colonnade running down to the Queen's House. Everything left on this walk is within five minutes of this spot.*
-
-> 💡 **The detour: the Trafalgar Tavern.** Five minutes east along the river past the College is a pub that **opened in 1837**, the year Victoria came to the throne, and that Dickens used as the setting for Bella Wilfer's wedding breakfast in *Our Mutual Friend*. **Whitebait** is the thing to order — the whitebait dinners are what made it famous. One honest caveat from its own history: it shut in 1915 and did not reopen as a pub until **1965**, when the interior was gutted and remodelled by craftsmen from Pinewood Studios, so the Regency opulence you are sitting in is largely a film set. It is the best place on the route to stop if you have decided against the hill.
+> 💡 **Detour: the Trafalgar Tavern.** Five minutes east along the river, a Dickens pub from 1837, known for its whitebait. The best stop if you are skipping the hill.
 
 ## 10. The National Maritime Museum and the Queen's House
 
 ![The National Maritime Museum's columned entrance, with two giant white anchors standing either side of the doorway](../../assets/articles/canary-wharf-greenwich-walk/national-maritime-museum.jpg)
 
-*Free, and consistently underrated because it sits between two things that charge.*
-
-**Both of these are free, and both are open daily 10am to 5pm with last entry at 4.15pm.** Royal Museums Greenwich recommends booking online, but neither needs a paid ticket.
-
-The **National Maritime Museum** is the largest maritime museum in the world. **Nelson's Trafalgar coat** is the object people come out talking about — the museum's own description is that the bullet hole from the French sharpshooter who hit him is visible in the left shoulder, with blood on the tails and left sleeve thought to be his secretary's. The children's galleries are genuinely good rather than dutiful.
-
-The **Queen's House** next door is the building framed in the gap you were looking at from Island Gardens. It is Inigo Jones's villa, it holds the art collection — including the Armada Portrait of Elizabeth I — and the **Tulip Stairs** inside it are, in the museum's words, the **first geometric self-supporting spiral stair in Britain**. Walking up them costs nothing. The house closes on 24, 25 and 26 December and otherwise runs seven days.
-
-**Do these before the Observatory, not after.** They are free, they are at the bottom of the hill, and by the time you have climbed the hill you will not want to come back down for them.
+**Both free, daily 10am to 5pm** (last entry 4.15pm). The museum has Nelson's Trafalgar coat, with the bullet hole in the shoulder. The **Queen's House** has the Armada Portrait and the **Tulip Stairs**, Britain's first self-supporting spiral stair. Do these before the hill, not after.
 
 ## 11. Greenwich Park and the Royal Observatory
 
 ![Greenwich Park looking down over the Old Royal Naval College to the Thames, Canary Wharf and the O2](../../assets/articles/canary-wharf-greenwich-walk/greenwich-park-view.jpg)
 
-*The end of the walk, looking back at the beginning of it. The towers on the horizon are stop one.*
+*Looking back at the start: the towers on the horizon are stop one.*
 
-**The climb is steeper than it looks from the bottom.** Allow ten minutes from the Maritime Museum, take the path rather than the grass in wet weather, and know that there is a gentler approach from Blackheath Gate if you would rather not do it in one go. Google's profile for this route gives **377 feet of ascent**, and essentially all of it is here.
+**A steep ten-minute climb to a free view** over the Naval College, the river, Canary Wharf and the O2. The park gates are open 6am to 8pm.
 
-**Greenwich Park is free and its pedestrian gates are open 6am to 8pm.** It is the oldest enclosed royal park in London, there has been a deer herd in The Wilderness since the seventeenth century, and **the view from the top of the hill is free** — the Naval College and Queen's House directly below, the river, Canary Wharf opposite and the O2 to the right.
-
-**The Royal Observatory at the summit is ticketed: £24 adult, £12 child.** Standard hours are 10am to 5pm with last entry at 4pm; through **September it opens until 6pm with last entry at 5pm**. That buys the Prime Meridian line in the courtyard, Wren's Octagon Room and the Great Equatorial Telescope, plus optional daily Treasures tours at 11am and 3pm for £5 more.
-
-**You do not have to pay to finish this walk well.** The view from the hill outside is the famous one and it is free, and after eleven stops and a river crossing, standing on the hill looking back at Canary Wharf is a better ending than a queue.
+The **Royal Observatory** at the top is £24 adult, £12 child, 10am to 5pm (to 6pm in September), with the Prime Meridian line in the courtyard. The view outside is free, and it is the better ending.
 
 ---
 
 ## Where to eat
 
-The good news about this route is that the food is at both ends and in the middle, so you are never more than half an hour from lunch.
-
-**Greenwich Market at stop eight is the answer.** Covered, daily, and stalls rather than restaurants — go before noon or after two, and go on a weekday if you want to be able to see what is on the tables. **Goddards** for pie and mash is a few doors away.
-
-If you want to eat before you cross:
-
-- **Wood Wharf** (££–£££) — the waterside restaurant strip on the detour at stop three, including a Hawksmoor that floats on the dock. The best sit-down food on the north bank and the busiest part of Canary Wharf at weekends.
-- **Mercato Metropolitano** (£) at 10 George Street — a food hall, and the budget option on that side.
-- **The West India Quay arches** (££) at stop two — chain restaurants, but they face the water and they open at weekends.
-- **Mudchute Kitchen** (£) at stop four — a farm café, Tuesday to Sunday, and the only food on the middle third of the walk.
-
-And after:
-
-- **The Trafalgar Tavern** (££) — the Dickens pub on the river, five minutes east of the Naval College.
-- **The Old Brewery** (££) — inside the Naval College grounds, so it works as a stop rather than a detour.
-- **The Gipsy Moth** (££) — beside the Cutty Sark, with a large beer garden.
-
-For the full picture at either end, the area guides cover it: [Canary Wharf](/articles/canary-wharf-area-guide/#where-to-eat-and-drink) and [Greenwich](/articles/greenwich-area-guide/#where-to-eat-and-drink).
+- **Greenwich Market** (£) at stop 8 — the best lunch on the route, with **Goddards** pie and mash nearby.
+- **Wood Wharf** (££–£££) — on the stop 3 detour, the best sit-down food on the north bank.
+- **Mudchute Kitchen** (£) at stop 4 — the only food in the middle third, Tuesday to Sunday.
+- **The Old Brewery** (££) — inside the Naval College grounds.
+- **The Trafalgar Tavern** or **the Gipsy Moth** (££) — for a pint at the end.
 
 ## The best day to go
 
-**Any day works, which is unusual for a London walk.** Nothing you would build the day around has a weekly closure — the two free museums, the market, the Cutty Sark, the Painted Hall, the tunnel and the parks all run seven days. This route has no Borough Market problem.
+**Any day.** Nothing on the route closes weekly.
 
 | Day | What you get |
 | --- | --- |
-| **Tue–Thu** | The quietest version. Greenwich Market with room to browse and Canary Wharf at full working pace |
-| **Monday** | Everything open. Mudchute's courtyard café is the one thing shut, outside school holidays |
-| **Friday** | Same as above, and Canary Wharf's bars fill from about 5pm |
-| **Saturday** | Greenwich shoulder-to-shoulder; Wood Wharf and Eden Dock at their best |
-| **Sunday** | Greenwich busy, Canary Wharf's malls on short hours, everything else normal |
+| **Tue–Thu** | The quietest: room at Greenwich Market |
+| **Monday** | Everything open except the Mudchute café |
+| **Weekend** | Greenwich packed; Wood Wharf at its best |
 
-**What actually closes:** almost nothing. **Greenwich Market** shuts on Christmas Day and the **first six Mondays of the year**. The **Queen's House** closes 24 to 26 December. Canary Wharf's shopping malls keep short Sunday hours, which matters only if you were planning to shop.
-
-**On time of day:** start at 10am and you reach the market at about one and the hill in the late afternoon, with the light behind you looking back at the City — which is when that view is at its best. Start later than midday in winter and you will be climbing the hill in the dark.
-
-**On the season:** the tunnel, the parks and the docks work in any weather, and both museums and the market are indoors, so this is a better wet-day walk than it sounds.
+Start around 10am and you reach the market for lunch and the hill in the late afternoon. In winter, start before midday or you will climb the hill in the dark.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 
-**Start:** Canary Wharf (Elizabeth line, Jubilee, DLR). The Elizabeth line is six minutes from Liverpool Street and about thirteen from Bond Street, and the roof garden is directly above the platforms.
+**Start:** Canary Wharf (Elizabeth line, Jubilee, DLR), six minutes from Liverpool Street on the Elizabeth line.
 
-**Finish:** Greenwich or Cutty Sark (DLR and, at Greenwich, National Rail), or **Greenwich Pier** for Uber Boat by Thames Clippers, which is the best way to leave. Cutty Sark station closed for a full escalator replacement in 2025 and is **open and running normally again**.
+**Finish:** Greenwich or Cutty Sark (DLR; National Rail at Greenwich), or **Greenwich Pier** for the Uber Boat back into town.
 
-**Cutting it short** is easy for the first two-thirds: the DLR shadows the whole Isle of Dogs, with stations at Heron Quays, South Quay, Crossharbour, Mudchute and Island Gardens, so you are never more than five minutes from a train. After the tunnel you are in Greenwich and everything is walkable.
+**Cutting it short:** the DLR runs the length of the Isle of Dogs, so you are never far from a station before the tunnel.
 
-**On step-free access:** the route is flat and paved from stop one to stop ten. The two pinch points are the **foot tunnel**, which depends on the lifts — running 24 hours, with the status page above to check — and the **climb to the Observatory**, which is a genuine hill with no lift at all. Stopping at stop ten gives you a step-free walk end to end.
-
-**Walked the other way**, Greenwich to Canary Wharf, it works and the tunnel is just as good. But you do the hill first, before you know what you are looking at, and you finish at an office estate rather than a view. This direction is better.
+**Step-free:** flat from stop 1 to stop 10, with the tunnel lifts. The hill to the Observatory has no lift, so finish at stop 10 for a step-free walk.
 
 ## Carry on walking
 
@@ -304,9 +197,7 @@ For the full picture at either end, the area guides cover it: [Canary Wharf](/ar
 
 ## What to do with the rest of the day
 
-- **[The South Bank walk](/articles/south-bank-walk/)** — the other river route, on the opposite bank and eleven stops of its own.
-
-- **[The Greenwich area guide](/articles/greenwich-area-guide/)** — the O2, North Greenwich, the river boats and where to stay.
-- **[The Canary Wharf area guide](/articles/canary-wharf-area-guide/)** — the swimming, Eden Dock, Winter Lights and the rest of the estate.
-- **[Walks along the Thames](/articles/london-walks-along-the-thames/)** — six more river stretches, including Rotherhithe to Greenwich, which arrives at stop seven from the other direction.
+- **[The Greenwich area guide](/articles/greenwich-area-guide/)** — the O2, the river boats and where to stay.
+- **[The Canary Wharf area guide](/articles/canary-wharf-area-guide/)** — swimming, Eden Dock and Winter Lights.
+- **[Walks along the Thames](/articles/london-walks-along-the-thames/)** — more river stretches, including Rotherhithe to Greenwich.
 - **[Free things to do in London](/free/)** — eight of these eleven stops cost nothing.
