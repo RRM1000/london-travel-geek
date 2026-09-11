@@ -13,8 +13,6 @@ draft: false
 faq:
   - q: "Can you walk from Canary Wharf to Greenwich?"
     a: "Yes, and without crossing a bridge. Walk south down the Isle of Dogs to Island Gardens, go under the Thames through the Greenwich Foot Tunnel, and come up beside the Cutty Sark. It is about 6.5km with eleven stops: an hour and a half of walking, three to four hours with stops."
-  - q: "Is the Greenwich Foot Tunnel step-free?"
-    a: "Yes, when the lifts are running, and they run 24 hours a day. The Royal Borough of Greenwich publishes a live status page for both ends, so check it before you go. If a lift is down, there are spiral stairs."
   - q: "Is Greenwich Market closed on Mondays?"
     a: "No. It is open daily, 10am to 5.30pm. It closes only on Christmas Day and the first six Mondays of the year."
   - q: "What does the Canary Wharf to Greenwich walk cost?"
@@ -27,7 +25,7 @@ Canary Wharf and Greenwich face each other across the Thames, and the crossing b
 
 For where to stay and eat at either end, see the [Canary Wharf](/articles/canary-wharf-area-guide/) and [Greenwich](/articles/greenwich-area-guide/) area guides.
 
-> 💡 **The Short Version:** Walk **north to south**, from the free **Crossrail Place Roof Garden** to **Greenwich hill**. The **foot tunnel is free and open around the clock**, with lifts running 24 hours. **Greenwich Market is open daily.** Do the free **London Museum Docklands** and **National Maritime Museum** before paying for anything.
+> 💡 **The Short Version:** Walk **north to south**, from the free **Crossrail Place Roof Garden** to **Greenwich hill**. The **foot tunnel is free and open around the clock**. **Greenwich Market is open daily.** Do the free **London Museum Docklands** and **National Maritime Museum** before paying for anything.
 
 ## The route
 
@@ -113,7 +111,7 @@ The round brick building with the glass dome, a minute west along the river wall
 
 ![The red brick and glass domed rotunda entrance to the Greenwich Foot Tunnel beside the Thames](../../assets/articles/canary-wharf-greenwich-walk/greenwich-foot-tunnel-rotunda.jpg)
 
-**Free, open around the clock, about five minutes under the Thames.** Built in 1902 so dockworkers could cross in any weather, it brings you up beside the *Cutty Sark*. The lifts run 24 hours; the council's **[live status page](https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels)** shows whether they are working. If the tunnel is ever shut, the DLR runs from Island Gardens to Cutty Sark in three minutes.
+**Free, open around the clock, about five minutes under the Thames.** Built in 1902 so dockworkers could cross in any weather, it brings you up beside the *Cutty Sark*. There are spiral stairs at each end, and lifts if you need them. If the tunnel is ever shut, the DLR runs from Island Gardens to Cutty Sark in three minutes.
 
 ![The cast-iron ribbed interior of the Greenwich Foot Tunnel running under the Thames](../../assets/articles/canary-wharf-greenwich-walk/foot-tunnel-interior.jpg)
 
