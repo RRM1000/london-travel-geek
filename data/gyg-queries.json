@@ -281,6 +281,10 @@
       "slot1": "pick:food-tours",
       "slot2": "pick:food-tours"
     },
+    "best-walking-tours-london": {
+      "slot1": "London walking tour",
+      "slot2": "London Jack the Ripper tour"
+    },
     "cheap-eats-london": {
       "slot1": "pick:food-tours",
       "slot2": "London food market tour"

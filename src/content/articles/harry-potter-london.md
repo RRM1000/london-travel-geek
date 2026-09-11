@@ -231,7 +231,7 @@ It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, L
 
 In between: **Platform 9¾, Leadenhall Market, London Bridge, Southwark Cathedral, Borough Market, the Millennium Bridge, St Paul's and Great Scotland Yard**, with two short Tube hops rather than a coach. Guides work in **English and Spanish**. Reviewers are consistent that there is a lot of walking, which is the trade for covering more ground than the bus.
 
-**Best for** adults and older children who would rather walk than sit, and anyone who wants the south-bank stretch the bus skips.
+**Best for** adults and older children who would rather walk than sit, and anyone who wants the south-bank stretch the bus skips. For the other Potter walks, and the rest of London's themed tours, see [the best walking tours in London](/articles/best-walking-tours-london/#harry-potter).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="772912" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

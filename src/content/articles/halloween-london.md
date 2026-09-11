@@ -156,6 +156,8 @@ It is worth knowing what this is not: there are no actors, no jump scares and no
 
 Jack the Ripper walks are a genuine London institution, not just a Halloween novelty — the two best have been running year-round for decades. A couple of things to know before booking: **the Ripper walks don't all run every night**, so check the schedule against 31 October specifically, and the walking-tour trade has its share of copycats trading on famous names, so stick to operators with a long track record and a real review history.
 
+Outside Halloween, our [guide to the best walking tours in London](/articles/best-walking-tours-london/#jack-the-ripper) compares the Ripper and ghost walks you can book on GetYourGuide.
+
 ### Jack the Ripper Walking Tour, London Walks
 
 Run by London's oldest walking-tour company for more than 50 years, and the closest thing to a definitive version. The guides are the draw — London Walks uses professional guides, several of them actors and historians, rather than a script handed to whoever is available.

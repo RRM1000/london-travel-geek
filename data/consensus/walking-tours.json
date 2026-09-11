@@ -1,0 +1,141 @@
+{
+  "cuisine": "walking-tours",
+  "note": "Seeded 2026-09-11 from the Google UK results for 'best walking tours london' and 'london walking tours'. best-walking-tours-london only lists tours sold on GetYourGuide, so these are what each source recommended whether or not GetYourGuide sells it. Time Out's 2023 and 2025 news stories on the Tripadvisor awards are syndication of the award, not separate sources. Tripadvisor's walking-tour ranking is the platform's own order and changes daily.",
+  "recorded": "2026-09-11",
+  "excluded": [
+    {
+      "url": "https://www.world-tourism.org/the-15-best-walking-tours-in-london/",
+      "why": "Content farm, not the UN body its name suggests: the WordPress archive is templated 'How to Book...' posts across Spanish cities, several a day in April 2026, and its London list is GetYourGuide product titles verbatim."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tripadvisor Travellers' Choice Best of the Best Things to Do 2026",
+      "url": "https://tripadvisor.mediaroom.com/best-of-the-best-things-to-do-2026",
+      "scope": "walking-tours",
+      "names": [
+        "London Small Group Tour of Historical Pubs",
+        "Street Art Tour and Spray Painting Workshop in London"
+      ],
+      "quotes": {
+        "London Small Group Tour of Historical Pubs": "No. 7, Top Experiences in the World. Operator Liquid History Tours (Viator product 5452DRINK); GetYourGuide 27204.",
+        "Street Art Tour and Spray Painting Workshop in London": "No. 14, Once in a Lifetime Experiences in the World. Operator Alternative London; GetYourGuide 70507."
+      }
+    },
+    {
+      "name": "Tripadvisor Travellers' Choice Best of the Best Things to Do 2025",
+      "url": "https://tripadvisor.mediaroom.com/Travellers-Choice-Best-of-the-Best-Things-To-Do-2025",
+      "scope": "walking-tours",
+      "names": [
+        "London Small Group Tour of Historical Pubs",
+        "Eating London: Brick Lane, Shoreditch & Spitalfields Food Tour"
+      ],
+      "quotes": {
+        "London Small Group Tour of Historical Pubs": "No. 1, Top Experiences UK; No. 4 in the world.",
+        "Eating London: Brick Lane, Shoreditch & Spitalfields Food Tour": "No. 12, Food & Drink experiences in the world. GetYourGuide 136652."
+      }
+    },
+    {
+      "name": "Time Out - The 18 best walking tours in London",
+      "url": "https://www.timeout.com/london/attractions/london-walking-tours",
+      "scope": "walking-tours",
+      "names": [
+        "Babylon Tours' British Museum Tour",
+        "Women of Westminster Walking Tour",
+        "Unseen Tours",
+        "Harry Potter Walking Tour",
+        "Westminster and the Churchill War Rooms",
+        "The Great Brixton History & Culture Experience",
+        "Changing of the Guard Guided Walking Tour",
+        "Gangster London East End Walking Tour",
+        "Rebel Tours' Plant Powered Tour of Camden Market",
+        "Historic Pub Walking Tour",
+        "Beyond the Streets' Whitechapel Women Walking Tour",
+        "Private Sherlock Holmes Walking Tour",
+        "Stumble London's Queer History Walking Tour",
+        "Greenwich Highlights Tour",
+        "Kensington Palace Gardens tour with Royal High Tea",
+        "Secret British Food Tour",
+        "Bowl of Chalk Walking Tours",
+        "East End Street Art Walking Tour"
+      ],
+      "quotes": {
+        "Historic Pub Walking Tour": "Three-hour afternoon tour from Southwark to the West End, at least four pubs; daily 2pm and 7pm, £29. Operator not named in the text.",
+        "Harry Potter Walking Tour": "150 minutes; daily 10.30am, 2.30pm and 7pm; £21, under-fours free. Operator not named in the text."
+      }
+    },
+    {
+      "name": "Visit London - 21 best London walking tours",
+      "url": "https://www.visitlondon.com/things-to-do/sightseeing/sightseeing-tours/walking-tour",
+      "scope": "walking-tours",
+      "names": [
+        "Welcome to London Guided Walking Tour",
+        "Royal Walking Tour",
+        "Westminster by Night Walking Tour",
+        "Westminster Walking Tour with Churchill War Rooms",
+        "The Wizard Walk of London",
+        "Beatles Walking Tour of London",
+        "Paddington Bear Walking Tour",
+        "Silent Disco Walking Tours",
+        "Sherlock Holmes Walking Tour",
+        "Rock'n'Roll Walking Tour of Camden",
+        "Notting Hill Walking Tour",
+        "James Bond Walking Tour",
+        "Jack the Ripper Walking Tour",
+        "Ghastly Ghost Tour - Meet the Streets",
+        "Borough Market Food Tour",
+        "Gourmaze",
+        "Brick Lane Indian Food Tour",
+        "Theatreland Walking Tour",
+        "London Underground tours",
+        "Shoreditch Street Art Tours",
+        "The Natural History Museum Guided Tour"
+      ]
+    },
+    {
+      "name": "Nomadic Matt - 8 Best Walking Tour Companies in London",
+      "url": "https://www.nomadicmatt.com/travel-blogs/best-walking-tour-london/",
+      "scope": "walking-tours",
+      "names": [
+        "Take Walks",
+        "Tours by Foot",
+        "Devour Food Tours",
+        "Magical London: Harry Potter Walking Tour",
+        "Changing of the Guards at Buckingham Palace",
+        "Westminster in World War II",
+        "Historic Pubs of Central London",
+        "London Walks",
+        "Liquid History",
+        "Jack the Ripper Tours",
+        "London Greeters"
+      ],
+      "quotes": {
+        "Magical London: Harry Potter Walking Tour": "GetYourGuide pick, linked to 174648.",
+        "Changing of the Guards at Buckingham Palace": "GetYourGuide pick, linked to 413142.",
+        "Historic Pubs of Central London": "GetYourGuide pick, linked to 27204 (Liquid History Tours)."
+      }
+    },
+    {
+      "name": "Tripadvisor - London walking tours",
+      "url": "https://www.tripadvisor.co.uk/Attractions-g186338-Activities-c42-t183-London_England.html",
+      "scope": "walking-tours",
+      "names": [
+        "Ultimate Jack the Ripper: Guided Tour of London",
+        "Buckingham Palace Entrance Ticket & Changing of the Guard Tour",
+        "Westminster Abbey, Big Ben, Buckingham Guided Tour of London",
+        "London Jack the Ripper Guided Tour with Ripper-Vision",
+        "London Small Group Tour of Historical Pubs",
+        "London 30 Top Sights with Fun Local Guide",
+        "The Great British Rock and Roll Walking Tour"
+      ],
+      "quotes": {
+        "Ultimate Jack the Ripper: Guided Tour of London": "4.9 from 1,474 on 11 Sep 2026. Not matched to a GetYourGuide listing.",
+        "Westminster Abbey, Big Ben, Buckingham Guided Tour of London": "4.9 from 349 (Blue Badge guide); GetYourGuide 512555, Rosotravel.",
+        "London Jack the Ripper Guided Tour with Ripper-Vision": "4.6 from 3,091; GetYourGuide 104249.",
+        "London Small Group Tour of Historical Pubs": "5.0 from 10,007.",
+        "London 30 Top Sights with Fun Local Guide": "4.9 from 2,008; GetYourGuide 169045, Top Sights Tours.",
+        "The Great British Rock and Roll Walking Tour": "5.0 from 1,640; GetYourGuide 453983, Experience Local."
+      }
+    }
+  ]
+}

@@ -410,7 +410,7 @@ There are two completely separate markets here and they have almost nothing to d
 **Nothing.** This is the most genuinely free thing to do in London, and one of the very few that changes week to week.
 
 * **Walk it yourself.** Shoreditch, Hackney Wick, Camden, Brixton, Croydon and Penge all reward an aimless hour, and everything in this guide is on a public street.
-* **Guided tours** run roughly £15–£30 and are worth it once, because the good guides know which pieces are painted over what, and who fell out with whom. The free walking tours are tip-based rather than actually free.
+* **Guided tours** run roughly £15–£30 and are worth it once, because the good guides know which pieces are painted over what, and who fell out with whom. The free walking tours are tip-based rather than actually free. Our [walking tours guide](/articles/best-walking-tours-london/#street-art) covers Alternative London's two, with and without a spray-painting workshop.
 * **Leake Street tunnel** under Waterloo is legal, free, open all hours, and repainted constantly — the only place in London you can watch it being made.
 * **The two indoor shows are the exception to the free rule.** The Art of Banksy is £19.50 and closes 29 September; Moco Museum is from £16.90 and runs year-round. Both have gift shops.
 * **Buying it is a different question entirely.** A print by a working street artist from a Shoreditch gallery runs from the low tens to a few hundred pounds. A resale Banksy starts around £2,450 for a Di-Faced Tenner and climbs steeply from there. See **Where to buy it** above.

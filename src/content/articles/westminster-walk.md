@@ -321,6 +321,7 @@ Walked in reverse — Trafalgar Square to Westminster Bridge — it works and en
 ## What to do with the rest of the day
 
 - **[The Westminster area guide](/articles/westminster-area-guide/)** — the Cathedral, Millbank and Tate Britain, where to eat properly, and where to stay.
+- **[The best walking tours in London](/articles/best-walking-tours-london/)** — the same ground with a guide, from a Blue Badge walk round the Abbey to the Changing of the Guard.
 - **[The South Bank walk](/articles/south-bank-walk/)** — starts on the far side of Westminster Bridge and runs east to Tower Bridge. The two make a full day.
 - **[Free things to do in London](/free/)** — nine of these eleven stops cost nothing.
 - **[The best views in London](/articles/best-views-london/)** — including the Westminster Cathedral tower, which is on this page as a detour and is one of the cheapest good views in the city.
