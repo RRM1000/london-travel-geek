@@ -1,26 +1,33 @@
 // Makes article tables readable on a phone, site-wide, without touching any
-// markdown. Two independent things happen to every table that markdown
-// produced, at build time:
+// markdown. At build time every table that markdown produced is wrapped in a
+// plain `<div class="table-scroll">` - a safety net: below the mobile
+// breakpoint CSS gives it `overflow-x: auto`, so a token too wide to fit
+// scrolls inside its own box instead of the page doing it. Then, by width:
 //
-//   1. It is wrapped in a plain `<div class="table-scroll">`. This is a
-//      safety net, not the primary fix: CSS gives it `overflow-x: auto`
-//      below the mobile breakpoint, so if a row ever contains a token too
-//      wide to fit even after (2), that row scrolls sideways inside its
-//      own box instead of the page doing it. See the `.table-scroll` rules
-//      in ArticleLayout.astro.
+//   2 columns   left alone. Each column gets about 170px at 375px, enough for
+//               prose to wrap on spaces.
 //
-//   2. If the table's header row has three or more cells, every body cell
-//      gets a `data-label` attribute copied from its column's header text.
-//      CSS (`.table--stack` in ArticleLayout.astro) uses that below the
-//      mobile breakpoint to print the header via `::before` and lay the
-//      row out as a labelled card instead of a table row - the header text
-//      makes the trip from thead to tbody so nothing is lost for a reader
-//      who can no longer see the (visually hidden, but still real) header
-//      row above it. Two-column tables are left alone: each column gets
-//      about 170px at 375px, enough for prose to wrap on spaces. The line
-//      started at four columns. Measured on 11 September 2026, three-column
-//      tables at 375px still had columns down to 71px, a few long words
-//      breaking mid-word and cells over 300px tall, so it moved to three.
+//   3 columns   the table gets `table--scroll` and its wrapper
+//               `table-scroll--x`. On a phone it stays a table: the first
+//               column is pinned and the other two, each as wide as the
+//               space beside it, scroll sideways behind a fade at the right
+//               edge. From 36rem to the breakpoint all three fit side by
+//               side, so there it is an ordinary table.
+//
+//   4 or more   every body cell gets a `data-label` copied from its column's
+//               header, and the table gets `table--stack`. On a phone each row
+//               becomes a labelled card; the header row stays in the markup,
+//               visually hidden, for screen readers.
+//
+// The CSS for all three lives in ArticleLayout.astro.
+//
+// HOW THE LINES WERE DRAWN, 11 SEPTEMBER 2026
+// Cards went first to 4+ columns, then to 3+ once measurement showed
+// three-column tables at 375px with columns down to 71px, a few words still
+// breaking mid-word and cells over 300px tall. The site owner then preferred a
+// sideways scroll for three columns - it keeps the columns lined up for
+// comparing rows, which cards give up - so three columns scroll and four or
+// more stack.
 //
 // Both steps are skipped for a table that already has a class. The one
 // exception in the whole site is the hand-authored `.underground-comparison`
@@ -28,7 +35,8 @@
 // london-tube-and-rail-lines-guide.md, which already ships its own
 // data-label attributes and its own responsive CSS - this plugin leaves it
 // completely alone rather than double up on it.
-const STACK_MIN_COLUMNS = 3;
+const STACK_MIN_COLUMNS = 4;
+const SCROLL_COLUMNS = 3;
 
 function isElement(node, tagName) {
   return Boolean(node) && node.type === "element" && (!tagName || node.tagName === tagName);
@@ -53,21 +61,25 @@ function addClass(table, className) {
   table.properties = { ...table.properties, className: classes };
 }
 
-// Copies each column's header text onto every body cell as data-label, and
-// marks the table as a stacking candidate, when there are enough columns
-// to need it. No-ops quietly for anything that does not look like a normal
-// GFM table (no thead, no tbody) - it is still wrapped for the scroll
-// safety net either way.
+// Decides how a table behaves on a phone and marks it up for that, returning
+// "stack", "scroll" or null. Anything that does not look like a normal GFM
+// table (no thead or no tbody) is left as it is - it is still wrapped for the
+// scroll safety net either way.
 function enhanceTable(table) {
   const thead = table.children.find((child) => isElement(child, "thead"));
   const tbody = table.children.find((child) => isElement(child, "tbody"));
   const headerRow = thead?.children.find((child) => isElement(child, "tr"));
-  if (!headerRow || !tbody) return;
+  if (!headerRow || !tbody) return null;
 
   const headerCells = headerRow.children.filter(
     (child) => isElement(child, "th") || isElement(child, "td"),
   );
-  if (headerCells.length < STACK_MIN_COLUMNS) return;
+
+  if (headerCells.length === SCROLL_COLUMNS) {
+    addClass(table, "table--scroll");
+    return "scroll";
+  }
+  if (headerCells.length < STACK_MIN_COLUMNS) return null;
 
   const labels = headerCells.map((cell) => textContent(cell).trim());
 
@@ -83,13 +95,16 @@ function enhanceTable(table) {
   }
 
   addClass(table, "table--stack");
+  return "stack";
 }
 
-function wrapInScrollContainer(table) {
+function wrapInScrollContainer(table, mode) {
   return {
     type: "element",
     tagName: "div",
-    properties: { className: ["table-scroll"] },
+    properties: {
+      className: mode === "scroll" ? ["table-scroll", "table-scroll--x"] : ["table-scroll"],
+    },
     children: [table],
     // Astro's dev-time source-mapping pads output with blank lines to keep
     // an element's line number matching its markdown source; a synthetic
@@ -107,9 +122,9 @@ function walk(node) {
       return child;
     }
     if (hasExistingClass(child)) return child;
-    enhanceTable(child);
+    const mode = enhanceTable(child);
     walk(child); // in case a cell ever contains a nested table of its own
-    return wrapInScrollContainer(child);
+    return wrapInScrollContainer(child, mode);
   });
 }
 

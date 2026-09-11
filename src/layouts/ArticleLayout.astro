@@ -1470,7 +1470,7 @@ const breadcrumbs = [
     }
 
     /* Belt and braces for every table that keeps its normal row/column
-       layout at this width - every two-column table, plus anything the
+       layout at this width - every two- and three-column table, plus anything the
        build-time plugin could not read a header row from. th/td two
        screens up are overflow-wrap: anywhere, which counts toward each
        column's minimum width; once table-layout: auto has to shrink
@@ -1484,7 +1484,7 @@ const breadcrumbs = [
       overflow-wrap: break-word;
     }
 
-    /* Three-or-more column tables: a list of labelled cards instead of a
+    /* Four-or-more column tables: a list of labelled cards instead of a
        table squeezed sideways. rehype-table-responsive.mjs adds this class
        and the data-label attribute the ::before below prints. */
     .article__body :global(.table--stack) {
@@ -1583,6 +1583,70 @@ const breadcrumbs = [
 
     .article__body :global(.table--stack td:first-child::before) {
       display: none;
+    }
+  }
+
+  /* Three-column tables on a phone stay tables and scroll sideways - the
+     site owner preferred that to cards for this shape on 11 September 2026,
+     because the columns stay lined up for comparing rows. The first column,
+     the row's subject, stays pinned. Each of the other two is exactly as
+     wide as the space beside it, so a swipe snaps from one to the other and
+     neither is ever left partly under the pinned column. The right edge
+     fades so it is plain there is more, and the wrapper's end padding lets
+     the last column scroll clear of the fade. From 36rem up to the 48rem
+     breakpoint all three columns fit side by side, so there they are
+     ordinary tables. The fixed 13rem columns are the fallback for browsers
+     without container query units. */
+  @media (max-width: 36rem) {
+    .article__body :global(.table-scroll--x) {
+      padding-right: 1.75rem;
+      -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 1.75rem), transparent);
+      mask-image: linear-gradient(to right, #000 calc(100% - 1.75rem), transparent);
+    }
+
+    .article__body :global(.table--scroll) {
+      table-layout: fixed;
+      width: 34.5rem;
+    }
+
+    .article__body :global(.table--scroll th),
+    .article__body :global(.table--scroll td) {
+      width: 13rem;
+    }
+
+    .article__body :global(.table--scroll th:first-child),
+    .article__body :global(.table--scroll td:first-child) {
+      position: sticky;
+      left: 0;
+      z-index: 1;
+      width: 8.5rem;
+      box-shadow: 1px 0 0 var(--line);
+    }
+
+    .article__body :global(.table--scroll td:first-child) {
+      background: var(--surface);
+    }
+
+    .article__body :global(.table--scroll tbody tr:nth-child(even) td:first-child) {
+      background: var(--bg);
+    }
+
+    @supports (width: 1cqi) {
+      .article__body :global(.table-scroll--x) {
+        container-type: inline-size;
+        scroll-snap-type: x mandatory;
+        scroll-padding-left: 8.5rem;
+      }
+
+      .article__body :global(.table--scroll) {
+        width: calc(200cqi - 8.5rem);
+      }
+
+      .article__body :global(.table--scroll th:not(:first-child)),
+      .article__body :global(.table--scroll td:not(:first-child)) {
+        width: calc(100cqi - 8.5rem);
+        scroll-snap-align: start;
+      }
     }
   }
 
