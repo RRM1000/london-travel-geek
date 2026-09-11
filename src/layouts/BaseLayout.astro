@@ -188,13 +188,6 @@ const jsonLd = JSON.stringify(
 
     <title>{pageTitle}</title>
     <script type="application/ld+json" set:html={jsonLd} is:inline></script>
-    <script
-      is:inline
-      async
-      defer
-      src="https://widget.getyourguide.com/dist/pa.umd.production.min.js"
-      data-gyg-partner-id="WWP7I0R"
-    ></script>
     <!--
       The GetYourGuide partner widget rewrites the rel on every getyourguide.com
       link it finds, replacing "sponsored nofollow noopener" with
@@ -365,6 +358,39 @@ const jsonLd = JSON.stringify(
       <slot />
     </main>
     <SiteFooter site={activeSite} />
+    {/*
+      ONE ACTIVITY ON A PHONE, THREE ON A DESKTOP.
+      Every activities widget ships as data-gyg-number-of-items="3", and the
+      GetYourGuide loader copies that into the iframe it builds as
+      number_of_items=3. Three full-width cards stacked in the middle of an
+      article is a lot of scrolling on a phone, so below the site's 48rem
+      breakpoint the attribute drops to 1 before the loader reads it. The
+      markdown keeps saying 3: that is the desktop default, and the balancer
+      never needs to know.
+
+      Order is the whole trick, and it is why the loader now sits here rather
+      than in <head>. An async script in the head can run before this does. As
+      a plain inline script immediately above the loader tag, this has always
+      finished before the loader element even exists, so the loader can only
+      ever see the corrected value. Availability widgets - one named product
+      each - are left alone.
+    */}
+    <script is:inline>
+      if (window.matchMedia("(max-width: 48rem)").matches) {
+        document
+          .querySelectorAll('[data-gyg-widget="activities"]')
+          .forEach(function (el) {
+            el.setAttribute("data-gyg-number-of-items", "1");
+          });
+      }
+    </script>
+    <script
+      is:inline
+      async
+      defer
+      src="https://widget.getyourguide.com/dist/pa.umd.production.min.js"
+      data-gyg-partner-id="WWP7I0R"
+    ></script>
     <script>
       for (const link of document.querySelectorAll<HTMLAnchorElement>(
         'a[href^="http://"], a[href^="https://"]',
