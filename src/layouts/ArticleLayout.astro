@@ -1448,6 +1448,144 @@ const breadcrumbs = [
     display: none;
   }
 
+  /* Every table rehype-table-responsive.mjs did not skip (i.e. everything
+     except the hand-authored .underground-comparison / .line-attractions
+     above) arrives wrapped in this. The margin that used to live on
+     <table> moves here instead, so a wrapped table takes up exactly the
+     same space as before: below, overflow-x: auto opens a new block
+     formatting context on this element, which would otherwise stop the
+     table's own margin collapsing with whatever sits above and below it. */
+  .article__body :global(.table-scroll) {
+    margin-block: 1.5rem 2rem;
+  }
+
+  .article__body :global(.table-scroll table) {
+    margin-block: 0;
+  }
+
+  @media (max-width: 48rem) {
+    .article__body :global(.table-scroll) {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    /* Belt and braces for every table that keeps its normal row/column
+       layout at this width - every 2-3 column table, plus anything the
+       build-time plugin could not read a header row from. th/td two
+       screens up are overflow-wrap: anywhere, which counts toward each
+       column's minimum width; once table-layout: auto has to shrink
+       several columns to fit 375px, "anywhere" lets that minimum shrink to
+       a single character. That is what splits "Russell Square" into
+       "Russ / ell Squ / are" in the site owner's screenshot. break-word
+       only breaks a token that is, by itself, wider than the column -
+       ordinary words wrap on the space between them instead. */
+    .article__body :global(td),
+    .article__body :global(th) {
+      overflow-wrap: break-word;
+    }
+
+    /* Four-or-more column tables: a list of labelled cards instead of a
+       table squeezed sideways. rehype-table-responsive.mjs adds this class
+       and the data-label attribute the ::before below prints. */
+    .article__body :global(.table--stack) {
+      display: block;
+      overflow: visible;
+      border: 0;
+      border-radius: 0;
+      background: transparent;
+      box-shadow: none;
+    }
+
+    /* Visually hidden, not display: none - a screen reader still announces
+       the column headers inside the table, just not on screen. */
+    .article__body :global(.table--stack thead) {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+
+    .article__body :global(.table--stack tbody) {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .article__body :global(.table--stack tr) {
+      display: block;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: var(--card-radius);
+      background: var(--surface);
+      box-shadow: 0 0.5rem 1.5rem rgb(15 39 54 / 0.06);
+    }
+
+    .article__body :global(.table--stack tbody tr:nth-child(even)),
+    .article__body :global(.table--stack tbody tr:hover) {
+      background: var(--surface);
+    }
+
+    /* :nth-child(n) matches every cell regardless of index - same trick as
+       .underground-comparison above, needed here so this reliably beats a
+       table that also carries a per-column width class (overground-comparison
+       gets its class from a client-side script, after this plugin has
+       already stacked it - there is no build-time signal to skip it by). */
+    .article__body :global(.table--stack td:nth-child(n)) {
+      display: block;
+      width: auto;
+      min-width: 0;
+      padding: 0.65rem 0.9rem;
+      border: 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .article__body :global(.table--stack td:last-child) {
+      border-bottom: 0;
+    }
+
+    .article__body :global(.table--stack td::before) {
+      display: block;
+      margin-bottom: 0.2rem;
+      color: var(--muted);
+      font-family: var(--display);
+      font-size: 0.7rem;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      content: attr(data-label);
+    }
+
+    /* The first column is the row's subject almost everywhere in these
+       tables - a name (Neighbourhood, Hostel, Venue...) or, in a
+       comparison matrix with a blank corner cell (pod-hotels-london), the
+       attribute the rest of the row is about. Styling it as the card's
+       title reads better than "label: value" for both shapes. */
+    .article__body :global(.table--stack td:first-child) {
+      padding-block: 0.75rem;
+      background: var(--ink);
+      color: var(--accent-contrast);
+      font-family: var(--display);
+      font-size: 1.02rem;
+      font-weight: 800;
+    }
+
+    /* strong inside .article__body is hard-coded to --ink (dark) so bold
+       body text stays readable; th strong two screens up already has to
+       undo that for the same reason this does - bold text on the --ink
+       title band below would otherwise be dark text on a dark band. */
+    .article__body :global(.table--stack td:first-child strong),
+    .article__body :global(.table--stack td:first-child a) {
+      color: inherit;
+    }
+
+    .article__body :global(.table--stack td:first-child::before) {
+      display: none;
+    }
+  }
+
   @media (max-width: 48rem) {
     .article__body :global(.underground-comparison) {
       display: block;
