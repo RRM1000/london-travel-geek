@@ -132,21 +132,6 @@ The headline rate is the bed. These are the operators' own charges on top.
 
 **Parking.** Almost none of them, in a city where that is normal. **Palmers Lodge has car parking** and **Park Villa charges £10 a day**, and those are the only two.
 
-## Check-in, check-out, and the day that gets eaten
-
-| Hostel | Check-in | Check-out |
-| --- | --- | --- |
-| Wombat's | 2pm | — |
-| St Christopher's (all four) | 3pm | 11am |
-| Onefam | 3pm | 11am |
-| Urbany | 3pm | 11am |
-| Kabannas | 3pm | 11am |
-| **Clink 261** | **4pm** | **10am** |
-
-**Clink 261 is the tightest turnaround in London** — in at 4pm, out at 10am — which is worth pricing in if you arrive on an early train or leave on a late flight. Late checkout to noon is available for a charge, as is early check-in. Kabannas, Safestay and Clink all sell early check-in and late checkout as add-ons.
-
-**Nobody here has a curfew for adults.** Clink states no curfew for guests aged 18 and over at any of its properties (under-18s get an 11pm curfew, though Clink 261 has no under-18s to apply it to). Onefam's FAQ answers the curfew question with "Nope". Wombat's, Generator, Kabannas, St Christopher's and YHA London Central all run 24-hour reception.
-
 ## Booking direct matters more here than in hotels
 
 Hostels give away a larger share to the booking platforms than hotels do, and several of them pay you to skip it.
@@ -160,8 +145,6 @@ Hostels give away a larger share to the booking platforms than hotels do, and se
 **Two things to have ready.** Clink requires **valid photo ID at check-in, no photocopies, and the name on your payment card must match it**. And Clink 261 does not permit outside food deliveries — no Deliveroo, no Uber Eats.
 
 **One more Clink detail worth the money:** a **bottom bunk can be pre-booked as a paid add-on** when you book online. If you have ever climbed into a top bunk at 1am, that is the best few pounds in this guide.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The hostels, one by one
 
@@ -187,7 +170,7 @@ One honest note: the four branches draw sharply different reviews, and the Villa
 
 261–265 Gray's Inn Road, WC1X 8QT, ten minutes from King's Cross St Pancras. Pod beds with privacy screens, mixed dorms sleeping 1 to 18, female dorms 4 to 10, private rooms 1 to 6, a self-catering kitchen, a bar and a café. **Every one of those room types uses a shared bathroom.**
 
-Strict 18+, no exceptions. Check-in 4pm, check-out 10am — the tightest here. Every pod bed has its own locker; larger ones cost extra; towels are included in private rooms and rented to dorm guests. No curfew, 24-hour reception, no outside food deliveries. Book direct with `SEEYOUSOON` for up to 15% off.
+Strict 18+, no exceptions. Check-in is **4pm** and check-out **10am**: a late check-in and an early check-out, so plan around it if you arrive on an early train or leave on a late flight. Early check-in, and late checkout to noon, are sold as extras. Every pod bed has its own locker; larger ones cost extra; towels are included in private rooms and rented to dorm guests. No curfew, 24-hour reception, no outside food deliveries. Book direct with `SEEYOUSOON` for up to 15% off.
 
 **Do not book Clink78 by mistake.** It is around the corner, it is closed for renovation until 2027, and guides and booking sites still list it.
 
@@ -294,7 +277,7 @@ The operator calls it "a very small hostel" and caps groups at eight. It welcome
 **Check-in is self-service from 2.30pm** with documents sent before noon, or reception between 3pm and 11pm. **Check-out is 10am**, which is early. Luggage storage is free before check-in and **£3 a bag afterwards**, 8am to 11pm. Groups need a minimum of two nights, and cancellation is 72 hours.
 
 The operator does not publish its dorm bathroom arrangement, whether it runs a female-only dorm, or an age policy, so those columns are blank above rather than guessed.
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What we left out, and why
 
