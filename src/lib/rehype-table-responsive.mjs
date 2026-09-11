@@ -9,16 +9,18 @@
 //      own box instead of the page doing it. See the `.table-scroll` rules
 //      in ArticleLayout.astro.
 //
-//   2. If the table's header row has four or more cells, every body cell
+//   2. If the table's header row has three or more cells, every body cell
 //      gets a `data-label` attribute copied from its column's header text.
 //      CSS (`.table--stack` in ArticleLayout.astro) uses that below the
 //      mobile breakpoint to print the header via `::before` and lay the
 //      row out as a labelled card instead of a table row - the header text
 //      makes the trip from thead to tbody so nothing is lost for a reader
 //      who can no longer see the (visually hidden, but still real) header
-//      row above it. Two and three column tables are left alone: there is
-//      enough width per column at 375px for prose to wrap on spaces
-//      instead of the letter-by-letter breaks four or more columns forces.
+//      row above it. Two-column tables are left alone: each column gets
+//      about 170px at 375px, enough for prose to wrap on spaces. The line
+//      started at four columns. Measured on 11 September 2026, three-column
+//      tables at 375px still had columns down to 71px, a few long words
+//      breaking mid-word and cells over 300px tall, so it moved to three.
 //
 // Both steps are skipped for a table that already has a class. The one
 // exception in the whole site is the hand-authored `.underground-comparison`
@@ -26,7 +28,7 @@
 // london-tube-and-rail-lines-guide.md, which already ships its own
 // data-label attributes and its own responsive CSS - this plugin leaves it
 // completely alone rather than double up on it.
-const STACK_MIN_COLUMNS = 4;
+const STACK_MIN_COLUMNS = 3;
 
 function isElement(node, tagName) {
   return Boolean(node) && node.type === "element" && (!tagName || node.tagName === tagName);

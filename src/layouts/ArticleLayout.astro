@@ -1470,7 +1470,7 @@ const breadcrumbs = [
     }
 
     /* Belt and braces for every table that keeps its normal row/column
-       layout at this width - every 2-3 column table, plus anything the
+       layout at this width - every two-column table, plus anything the
        build-time plugin could not read a header row from. th/td two
        screens up are overflow-wrap: anywhere, which counts toward each
        column's minimum width; once table-layout: auto has to shrink
@@ -1484,7 +1484,7 @@ const breadcrumbs = [
       overflow-wrap: break-word;
     }
 
-    /* Four-or-more column tables: a list of labelled cards instead of a
+    /* Three-or-more column tables: a list of labelled cards instead of a
        table squeezed sideways. rehype-table-responsive.mjs adds this class
        and the data-label attribute the ::before below prints. */
     .article__body :global(.table--stack) {
