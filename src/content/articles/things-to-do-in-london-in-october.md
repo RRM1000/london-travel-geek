@@ -91,6 +91,12 @@ The deliberate counterweight to Frieze, in the same week: contemporary work from
 
 The UK's largest public film festival closes on the same Sunday Frieze Week ends. General booking runs from 10am on 17 September, so by October the obvious galas are largely gone — but a genuine second chance opens at **10am on 1 October**, when the festival releases a batch of held-back tickets, and it is worth more than most people assume. Standard tickets start at £10, or **£6 if you are 25 or under** through the free BFI 25 & Under scheme. Full dates, prices and the routes into a sold-out screening are in our [BFI London Film Festival guide](/articles/london-film-festival/).
 
+![BFI Southbank's glass-panelled building on the South Bank, with BFI SOUTHBANK signage and a Cinemas and Box Office entrance, cars parked on the street outside under an overcast sky](../../assets/articles/london-film-festival/bfi-southbank-box-office.jpg)
+
+*BFI Southbank, the festival's centre of gravity: its box office is where returns and the standby queue are handled.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The rest of October's annual fixtures
 
 ### Black History Month — the whole of October
@@ -117,8 +123,6 @@ The autumn edition of the American Express-led restaurant festival runs across O
 
 A city-wide programme of selling exhibitions, auctions, lectures and museum events across the London Asian art trade, running **29 October to 10 November** across Mayfair and St James's galleries, the auction houses and museum partners. It belongs in this guide because it opens in October, even though most of its run falls in November — largely free to walk into the gallery exhibitions.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Sport: three NFL Sundays and England at Wembley
 
 **The NFL plays three games in London this month, on consecutive Sundays.**
@@ -132,6 +136,10 @@ A city-wide programme of selling exhibitions, auctions, lectures and museum even
 The Jaguars play London twice, a week apart, at two different stadiums.
 
 **England play Czechia at Wembley on Tuesday 6 October**, a midweek Nations League match two days after the first NFL game.
+
+![A crowd walking up Olympic Way towards Wembley Stadium at dusk, banners either side advertising the UEFA Nations League and the stadium's white steel arch overhead](../../assets/articles/wembley-stadium-arena-guide/olympic-way-matchnight.jpg)
+
+*Fans walking up Olympic Way to Wembley Stadium on a Nations League match night.*
 
 Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
 
@@ -233,6 +241,10 @@ The Globe's open-air season closes in the same week half term begins: **Much Ado
 
 The month's biggest straight-play opening is **The Cherry Orchard** at the Harold Pinter Theatre from **3 October**, running into January. **High School Musical** opens at Troubadour Wembley Park on **12 October**, timed for the week before half term and running to **3 January**. **Jesus Christ Superstar** takes the Drury Lane stage from **16 October**, two weeks after The Last Ship vacates it, also running into January — as does **The Lives of Others** at the Adelphi from **14 October**.
 
+![Poster for The Cherry Orchard at the Harold Pinter Theatre: a black-and-white portrait of Kristin Scott Thomas with leaf shadows falling across her face, beside the title in red capitals and credits for Anton Chekhov, Conor McPherson and Ian Rickson](../../assets/articles/things-to-do-in-london-in-october/the-cherry-orchard.jpg)
+
+*Kristin Scott Thomas leads Conor McPherson's new version of Chekhov, directed by Ian Rickson, at the Harold Pinter Theatre from 3 October. Artwork: Sonia Friedman Productions.*
+
 At the London Coliseum, English National Opera stages **Angel's Bone** from **16 October** and **Tosca** from **30 October**. **Cirque Berserk!** takes the Garrick for half term from **21 October**, and **Ceilidh** opens at Shoreditch Town Hall on **22 October**. The cheapest opening of the month is **The Bridge** at the Bush from **28 October**, from £13.
 
 One naming note still worth carrying: the **Duke of York's Theatre is now the Tom Stoppard Theatre**, and you will see both names in circulation for a while yet.
@@ -256,6 +268,8 @@ The New York jazz club's first UK venue, which opened on St Martin's Lane in Sep
 ## Gigs worth planning around
 
 Not a listings page — see the Blue Note run above for the room defining October's jazz calendar. Beyond that, Alexandra Palace carries the month: **Beth Orton on 22 October**, **Fat Freddy's Drop on 23 October**, the **Crouch End Festival Chorus performing Mozart's Requiem on 25 October** — the cheapest way into the building, and a good pairing with Diwali on the Square earlier that same day — **Overmono on 28 October**, and **Skindred closing out Halloween night, 31 October**.
+
+**Angine de Poitrine play the Troxy on Monday 19 October**, and it has sold out, which shows how far a joke can travel. The anonymous Quebec duo, Khn de Poitrine on guitar and bass and Klek de Poitrine on drums, perform in oversized papier-mâché masks and polka-dot suits and play microtonal math rock: music built from the notes that fall between the frets of an ordinary guitar. The band began as a gag for a local venue in Saguenay; a live set KEXP released in February passed millions of views and turned it into an international tour. Ticketmaster has none left, but will email if more are released. Over-14s, doors 7pm.
 
 ## New restaurants and bars
 
