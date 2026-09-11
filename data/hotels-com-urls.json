@@ -7,7 +7,10 @@
     "redchurch-townhouse - no Hotels.com listing surfaced; may not be sold there",
     "bermondsey-square-hotel - no listing surfaced",
     "the-grafton-arms - listed as 'The Grafton Arms Pub & Rooms' but no property url returned",
-    "london-marriott-hotel-canary-wharf - no listing surfaced"
+    "london-marriott-hotel-canary-wharf - no listing surfaced",
+    "onefam-notting-hill - not sold on Hotels.com; the only Onefam London listing is Onefam Waterloo (ho351784), a different hostel, listed as 18-36 years old",
+    "barmy-badger-backpackers - the property-name search returns nothing",
+    "park-villa-hostel - the property-name search returns nothing"
   ],
   "aethos-london-shoreditch": {
     "url": "https://uk.hotels.com/ho678838/nobu-hotel-shoreditch-london-united-kingdom/",
@@ -213,5 +216,29 @@
   "zedwell-piccadilly-circus": {
     "url": "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/",
     "note": "RESOLVED 2026-09-07 by the pod research: Zedwell runs two products at Piccadilly Circus. This is the ROOMS listing, which is what this row is. The capsule dormitory is ho3624527296 and has its own row."
+  },
+  "clink261": {
+    "url": "https://uk.hotels.com/ho461799/clink-261-hostel-london-united-kingdom/",
+    "note": "Found 2026-09-11 with the Hotels.com search filtered by property name (hotelName=), which returned exactly one property. Listing name: Clink 261 Hostel. Not Clink78, which is ho461849 and closed until 2027."
+  },
+  "palmers-lodge-swiss-cottage": {
+    "url": "https://uk.hotels.com/ho336155/palmers-lodge-swiss-cottage-hostel-london-united-kingdom/",
+    "note": "Found 2026-09-11 with the Hotels.com search filtered by property name (hotelName=), which returned exactly one property. Listing name: Palmers Lodge Swiss Cottage - Hostel."
+  },
+  "yha-london-central": {
+    "url": "https://uk.hotels.com/ho532721/yha-london-central-hostel-london-united-kingdom/",
+    "note": "Found 2026-09-11 with the Hotels.com search filtered by property name (hotelName=), which returned exactly one property. Listing name: YHA London Central - Hostel."
+  },
+  "astor-victoria": {
+    "url": "https://uk.hotels.com/ho514990528/astor-victoria-hostel-adults-only-london-united-kingdom/",
+    "note": "Found 2026-09-11 with the Hotels.com search filtered by property name (hotelName=), which returned exactly one property. Listing name: Astor Victoria Hostel 18 to 39 years."
+  },
+  "safestay-kensington-holland-park": {
+    "url": "https://uk.hotels.com/ho557618/safestay-holland-park-london-united-kingdom/",
+    "note": "Found 2026-09-11 with the Hotels.com search filtered by property name (hotelName=), which returned exactly one property. Listing name: Safestay London Kensington Holland Park (the url slug keeps the old Holland Park name; Elephant & Castle is the other Safestay, ho557617)."
+  },
+  "urbany-hostel-london": {
+    "url": "https://uk.hotels.com/ho3825690752/",
+    "note": "Found 2026-09-11 with the Hotels.com search filtered by property name (hotelName=), which returned exactly one property. Listing name: Urbany Hostel London 18 - 40 years old. A bare /hoNNN/ url with no slug, as Hotels.com serves it."
   }
 }

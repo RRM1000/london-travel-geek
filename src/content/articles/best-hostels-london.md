@@ -148,7 +148,7 @@ Hostels give away a larger share to the booking platforms than hotels do, and se
 
 ## The hostels, one by one
 
-### Wombat's City Hostel — book this one
+### [Wombat's City Hostel](hotel:wombats-city-hostel-london) — book this one
 
 7 Dock Street, E1 8LL, between Shadwell DLR and Aldgate East, ten minutes' walk from Tower Bridge. A refurbished sailors' hostel, and **the only London hostel where every dorm has a private shower and toilet en-suite**.
 
@@ -160,7 +160,7 @@ It is the most-recommended London hostel in our community research by a distance
 
 St Christopher's runs **four London hostels**: The Inn and The Village on Borough High Street, Shepherd's Bush, and Liverpool Street. All four check in at 3pm and out at 11am, include linen, charge for towels, and sit above a bar — Belushi's at the Village and Shepherd's Bush, the pub at The Inn, the Flying Horse at Liverpool Street.
 
-**The Village** is the one to book, and specifically for **Oasis**: a female-only space with its own bathrooms, showers and key card access. It is also the UK's first capsule hostel, with Japanese-inspired pods and private rooms with a view of the Shard, two minutes from Borough Market.
+**[The Village](hotel:st-christophers-village)** is the one to book, and specifically for **Oasis**: a female-only space with its own bathrooms, showers and key card access. It is also the UK's first capsule hostel, with Japanese-inspired pods and private rooms with a view of the Shard, two minutes from Borough Market.
 
 **Liverpool Street** is the quiet answer of the four: female-only dorms with female-only bathrooms, privacy curtains and lockers in the female rooms, **air conditioning**, key card access to rooms, charging points at every bed and work-friendly desks.
 
@@ -248,7 +248,7 @@ The model is a **free dinner** most evenings rather than a bar, plus a nightly o
 
 Its published room list is a **private twin and a private double, both with shared bathrooms, and 4, 6 and 8-bed mixed dorms**. As above: the same page also advertises female-only dorms, and they are not in that list. Confirm before booking.
 
-It draws the most enthusiastic writing of any hostel in our community research — 55 mentions across 17 threads, for the free dinner, the pub crawls and quiet hours that are actually enforced after 10pm. That enthusiasm is not universal, and the dissent came from a solo female traveller. **One thing you will read online that is not true:** Reddit asserts repeatedly that Onefam refuses over-35s. Nobody quotes a policy, and Onefam's own FAQ states no age restriction, only age-specific discounts.
+It draws the most enthusiastic writing of any hostel in our community research — 55 mentions across 17 threads, for the free dinner, the pub crawls and quiet hours that are actually enforced after 10pm. That enthusiasm is not universal, and the dissent came from a solo female traveller. **If you are over 35, check before you book.** Reddit says repeatedly that Onefam turns away over-35s. Onefam's own site states no age limit for Notting Hill, but its Waterloo hostel is sold on Hotels.com as "Onefam Waterloo 18-36 years old", so the rule may be real.
 
 ### [Urbany Hostel London](hotel:urbany-hostel-london) — read the age line first
 

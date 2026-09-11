@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10",
+ "generated": "2026-09-11",
  "count": 219,
  "hotels": [
   {
@@ -67,7 +67,10 @@
     "budget",
     "hostels"
    ],
-   "website": "https://www.astorhostels.com/hostels/victoria"
+   "website": "https://www.astorhostels.com/hostels/victoria",
+   "hotelsUrl": "https://uk.hotels.com/ho514990528/astor-victoria-hostel-adults-only-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho514990528/astor-victoria-hostel-adults-only-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "barmy-badger-backpackers",
@@ -125,7 +128,10 @@
     "hostels",
     "budget"
    ],
-   "website": "https://www.clinkhostels.com/london/clink261/"
+   "website": "https://www.clinkhostels.com/london/clink261/",
+   "hotelsUrl": "https://uk.hotels.com/ho461799/clink-261-hostel-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho461799/clink-261-hostel-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "generator-london",
@@ -255,7 +261,10 @@
     "hostels",
     "budget"
    ],
-   "website": "https://palmerslodge.uk/"
+   "website": "https://palmerslodge.uk/",
+   "hotelsUrl": "https://uk.hotels.com/ho336155/palmers-lodge-swiss-cottage-hostel-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho336155/palmers-lodge-swiss-cottage-hostel-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "park-villa-hostel",
@@ -308,7 +317,10 @@
     "hostels",
     "budget"
    ],
-   "website": "https://www.safestay.com/venue/safestay-london-kensington-holland-park/"
+   "website": "https://www.safestay.com/venue/safestay-london-kensington-holland-park/",
+   "hotelsUrl": "https://uk.hotels.com/ho557618/safestay-holland-park-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho557618/safestay-holland-park-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "st-christophers-village",
@@ -443,7 +455,10 @@
     "hostels",
     "budget"
    ],
-   "website": "https://urbanyhostels.com/london/"
+   "website": "https://urbanyhostels.com/london/",
+   "hotelsUrl": "https://uk.hotels.com/ho3825690752/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho3825690752/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "wombats-city-hostel-london",
@@ -513,7 +528,10 @@
     "hostels",
     "budget"
    ],
-   "website": "https://www.yha.org.uk/hostel/yha-london-central"
+   "website": "https://www.yha.org.uk/hostel/yha-london-central",
+   "hotelsUrl": "https://uk.hotels.com/ho532721/yha-london-central-hostel-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho532721/yha-london-central-hostel-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "yha-london-st-pancras",
@@ -1099,7 +1117,10 @@
     "venues",
     "wembley"
    ],
-   "website": "https://www.hilton.com/"
+   "website": "https://www.hilton.com/",
+   "hotelsUrl": "https://uk.hotels.com/ho403798/hilton-london-wembley-wembley-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho403798/hilton-london-wembley-wembley-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "holiday-inn-express-greenwich-peninsula",
