@@ -2,6 +2,12 @@
 title: "Where to Stay in Bermondsey and London Bridge — and the Walk Nobody Prices In"
 seoTitle: "Where to Stay in Bermondsey & London Bridge 2026"
 description: "Bermondsey hotels from a £180 boutique to a room in the Shard. The night train that actually serves the area, and why its two ends are three-quarters of a mile apart."
+heroImage: "../../assets/articles/where-to-stay-bermondsey/shad-thames-gantries.jpg"
+heroImageAlt: "Shad Thames in black and white: tall Victorian brick warehouses either side of a narrow street, crossed overhead by a row of iron gantry walkways receding into the distance"
+heroImageCredit: "Rob Oo"
+heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=152631540"
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-09-08
 updatedAt: 2026-09-09
 sites: [london]

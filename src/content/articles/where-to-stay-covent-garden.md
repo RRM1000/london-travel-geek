@@ -2,6 +2,8 @@
 title: "Where to Stay in Covent Garden — and What the Premium Actually Buys"
 seoTitle: "Where to Stay in Covent Garden 2026: Hotels & Prices"
 description: "The identical hotel room is £100 in Covent Garden and £70 ten minutes east in Holborn. The hotels compared, the windowless rooms nobody flags, and where to stay instead."
+heroImage: "../../assets/articles/covent-garden-area-guide/covent-garden-piazza-terrace.jpg"
+heroImageAlt: "Covent Garden Piazza at dusk: the market building's stone colonnade and balustraded upper gallery above a Caffè Concerto terrace of yellow chairs and white umbrellas, with hedging in the foreground and crowds crossing the cobbles beyond"
 publishedAt: 2026-09-08
 updatedAt: 2026-09-09
 sites: [london]

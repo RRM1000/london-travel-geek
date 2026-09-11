@@ -2,6 +2,8 @@
 title: "Where to Stay in King's Cross and St Pancras"
 seoTitle: "Where to Stay in King's Cross & St Pancras 2026"
 description: "Eurostar wants you inside St Pancras 75 minutes before departure and the first Tube is 05:29. King's Cross hotels compared, plus the cheaper areas just outside."
+heroImage: "../../assets/articles/kings-cross-area-guide/coal-drops-yard-roofs.jpg"
+heroImageAlt: "Coal Drops Yard's curved zinc kissing-roof sweeping up to meet the glass-walled upper level, with a cast-iron gasholder frame and glass apartments behind, crowds on the railed walkway above brick arches and a busy plaza with market stalls below"
 publishedAt: 2026-09-08
 updatedAt: 2026-09-09
 sites: [london]
