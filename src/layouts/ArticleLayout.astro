@@ -22,7 +22,6 @@ import restaurantMapData from "../data/restaurants.json";
 import AreaHotels from "../components/AreaHotels.astro";
 import ListHotels from "../components/ListHotels.astro";
 import PublicToiletsMap from "../components/PublicToiletsMap.astro";
-import ColourfulStreetsMap from "../components/ColourfulStreetsMap.astro";
 import CombineWith from "../components/CombineWith.astro";
 import ArticleFaq from "../components/ArticleFaq.astro";
 import { activeSite } from "../sites";
@@ -312,7 +311,6 @@ const breadcrumbs = [
             and the anchor link at the top of the markdown was a patch over it. */}
         {articleId === "public-toilets-london" && <PublicToiletsMap />}
         <slot />
-        {articleId === "notting-hill-colourful-houses" && <ColourfulStreetsMap />}
         {/* Themed accommodation guides have no area, so AreaHotels cannot reach
             them and both pages were carrying no booking links at all. These select
             on the sheet's `lists` column instead. */}

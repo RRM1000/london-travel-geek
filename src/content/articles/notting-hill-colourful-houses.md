@@ -33,7 +33,38 @@ It is deliberately only about the houses. For the market, the antique arcades, G
 
 > 💡 **The Short Version:** Start at **Hillgate Place** — four minutes from Notting Hill Gate and the prettiest of the lot, with a fraction of the crowd. **Lancaster Road** has the strongest colours and the most photographers. **Lansdowne Road** and **Elgin Crescent** are the grand pale stucco version. And **Portobello Road** itself is shopfronts, not houses — which is why so many people leave disappointed. Go there for [the market](/articles/best-london-markets/), not the colour.
 
-**[Open the walking route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.507849,-0.197386&destination=51.518114,-0.201957&waypoints=51.508330,-0.196849%7C51.507978,-0.197469%7C51.508261,-0.196213%7C51.506982,-0.207985%7C51.512531,-0.208447%7C51.514703,-0.206171%7C51.512318,-0.204402%7C51.513229,-0.201630%7C51.518025,-0.204169&travelmode=walking)** — all eleven streets in the order below, set to walking directions. Notting Hill Gate is two minutes from the first stop and Ladbroke Grove two minutes from the last.
+## The route
+
+<details class="restaurant-map-shell" open>
+  <summary>
+    <span>Map of the walk, numbered in walking order</span>
+  </summary>
+  <div class="restaurant-map" data-route-map="notting-hill-colourful-houses" role="region" aria-label="Numbered map of the walking route through Notting Hill's colourful streets">
+    <p>Loading the map…</p>
+  </div>
+  <div class="restaurant-map-legend" aria-label="Map key">
+    <span><i class="route-map-marker" aria-hidden="true">1</i> On the route, in walking order</span>
+  </div>
+  <noscript>
+    <p>The map needs JavaScript. Every street below is numbered in walking order.</p>
+  </noscript>
+</details>
+
+**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.5081,-0.1963&destination=51.5178,-0.2028&waypoints=51.5086,-0.1971%7C51.5079,-0.1973%7C51.5078,-0.196%7C51.5085,-0.2094%7C51.513,-0.2077%7C51.5132,-0.2095%7C51.5123,-0.2044%7C51.5132,-0.2016%7C51.5177,-0.2054&travelmode=walking)** — all eleven streets in walking order, set to walking directions. Notting Hill Gate is two minutes from the first stop and Ladbroke Grove two minutes from the last. About 3.5km, or two hours at a photographing pace.
+
+| # | Street | What to look for |
+| --- | --- | --- |
+| **1** | Hillgate Place | The best of the four, and the one to see first |
+| **2** | Farmer Street | Blue, pink and cream in a row |
+| **3** | Hillgate Street | Long view down the pastels |
+| **4** | Jameson Street | Pink corner house |
+| **5** | Portland Road | Painted shops and houses around Clarendon Cross |
+| **6** | Lansdowne Road | Bigger, grander, softer colours |
+| **7** | Elgin Crescent | Butter yellow and powder blue stucco |
+| **8** | Stanley Crescent | The cherry blossom street, in spring |
+| **9** | Denbigh Terrace | Pink, blue and cream in a tight row |
+| **10** | Lancaster Road | The postcard row: the strongest colours of the lot |
+| **11** | St Luke's Mews | Cobbled mews, and the Love Actually pink house |
 
 ## Start with the four streets nobody visits
 

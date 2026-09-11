@@ -32,9 +32,11 @@ import { stops as wappingCanaryWharfWalk } from "./routes/wapping-canary-wharf-w
 import { stops as regentsParkMaryleboneWalk } from "./routes/regents-park-marylebone-walk";
 import { stops as hampsteadHeathPrimroseHillWalk } from "./routes/hampstead-heath-primrose-hill-walk";
 import { stops as fitzroviaMayfairWalk } from "./routes/fitzrovia-mayfair-walk";
+import { stops as nottingHillColourfulHouses } from "./routes/notting-hill-colourful-houses";
 
 export const routeMaps: Record<string, RouteMapStop[]> = {
   "fitzrovia-mayfair-walk": fitzroviaMayfairWalk,
+  "notting-hill-colourful-houses": nottingHillColourfulHouses,
   "regents-park-marylebone-walk": regentsParkMaryleboneWalk,
   "hampstead-heath-primrose-hill-walk": hampsteadHeathPrimroseHillWalk,
   "south-bank-walk": southBankWalk,
