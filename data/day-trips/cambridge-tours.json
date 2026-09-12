@@ -1,0 +1,315 @@
+{
+  "subject": "GetYourGuide products that include Cambridge, read for what they actually include",
+  "checkedAt": "2026-09-12",
+  "source": "data/day-trips/gyg-inventory.json (destinations.Cambridge, London departures) plus the Cambridge location page l439 for products sold in Cambridge itself",
+  "method": "Each product opened in the browser at https://www.getyourguide.com/en-gb/activity/-t{id}. Inclusions and exclusions read from the product page's own lists; from-price and price unit read from the page's booking bar and the product:price:amount meta tag. Twelve pages read.",
+  "theTest": "Does the includes list name a college or attraction entry without an 'if option selected' clause? A title is not evidence.",
+  "doorPriceBaseline": {
+    "King's College": "GBP 16.75 adult, booked early; 17-18 otherwise",
+    "Scudamore's self-hire punt": "GBP 28.50 per punt for one hour, up to 6 people",
+    "Great St Mary's tower": "not checked"
+  },
+  "groups": {
+    "cambridgeAlone_walking": [
+      {
+        "id": 91614,
+        "title": "Cambridge Walking Tour by Alumni™ & optional King's",
+        "fromPrice": "GBP 23",
+        "priceUnit": "per person",
+        "duration": "1.5 - 2.5 hours",
+        "rating": 4.7,
+        "reviews": 1427,
+        "includes": [
+          "Guided walking tour of Cambridge University led by a Cambridge student or graduate",
+          "Insights into college history, architecture and student life",
+          "Visits to key landmarks such as the Mathematical Bridge, Senate House and The Eagle Pub",
+          "Optional self-guided entry to King's College Chapel (if upgrade selected)"
+        ],
+        "excludes": [
+          "Entry to King's College Chapel (unless upgrade selected)",
+          "Access inside colleges or buildings beyond public areas",
+          "Food, drinks or tips",
+          "Hotel pick-up or drop-off services",
+          "Punting tour or other add-on activities"
+        ],
+        "kingsEntry": "conditional"
+      },
+      {
+        "id": 339406,
+        "title": "Cambridge: University Alumni Tour with Kings College Option",
+        "provider": "Footprints Tours",
+        "fromPrice": "GBP 40",
+        "metaPrice": "39.99",
+        "priceUnit": "per person",
+        "duration": "2 hours",
+        "rating": 4.7,
+        "reviews": 1410,
+        "includes": [
+          "Cambridge University student guide",
+          "Entrance to King's College (if option selected)",
+          "Entrance to King's College Chapel (if option selected)"
+        ],
+        "excludes": ["Tips", "Entrance to King's College (if option is not selected)"],
+        "kingsEntry": "conditional"
+      }
+    ],
+    "cambridgeAlone_punting": [
+      {
+        "id": 472139,
+        "title": "Cambridge: Shared Punting Tour with Guide",
+        "fromPrice": "GBP 15",
+        "priceUnit": "per person",
+        "shared": true,
+        "duration": "50 minutes",
+        "rating": 4.8,
+        "reviews": 752,
+        "includes": ["Punter", "Historical tour", "Raised seats", "Tables", "Blankets", "Umbrellas"],
+        "excludes": ["Food and drinks"],
+        "kingsEntry": "none"
+      },
+      {
+        "id": 281312,
+        "title": "Cambridge: Chauffeured Punting Tour",
+        "fromPrice": "GBP 25",
+        "priceUnit": "per group up to 2",
+        "shared": "shared punt holding up to 12, sold by the row; private or small groups available",
+        "duration": "50 minutes",
+        "rating": 4.8,
+        "reviews": 136,
+        "includes": ["45-50 minute tour with chauffeur/guide", "Cushions and blankets on the punt (umbrellas when needed)"],
+        "excludes": ["Food and drink", "Tips"],
+        "kingsEntry": "none"
+      },
+      {
+        "id": 137081,
+        "title": "Cambridge: Guided River Cam Punting Tour",
+        "provider": "Scholars Punting Cambridge",
+        "fromPrice": "GBP 55",
+        "priceUnit": "per group up to 3",
+        "shared": "shared, private group available",
+        "duration": "45 minutes",
+        "rating": 4.7,
+        "reviews": 1552,
+        "includes": ["Punting tour on the river", "Guide", "Live commentary"],
+        "excludes": [],
+        "kingsEntry": "none",
+        "note": "Most-reviewed punting product in Cambridge. Priced by the row, so it only competes at three people."
+      },
+      {
+        "id": 1259465,
+        "title": "Cambridge Self-Rental Punting",
+        "provider": "Granta Moorings Cambridge",
+        "fromPrice": "GBP 38",
+        "priceUnit": "per group up to 6",
+        "shared": "private group, self-hire",
+        "duration": "1 hour",
+        "rating": 4.6,
+        "reviews": 32,
+        "includes": ["Punt rental", "60-minute rental", "Tuition", "Life jackets", "Canadian open canoes", "Cambridge Colleges", "Grantchester Meadows"],
+        "excludes": ["Extra time exceeding 60 mins charged pro rata", "ID deposit required"],
+        "kingsEntry": "none",
+        "note": "Scudamore's charges GBP 28.50 for the same hour booked direct. Granta is the station allowed upriver to Grantchester."
+      }
+    ],
+    "cambridgeAlone_walkAndPunt": [
+      {
+        "id": 146070,
+        "title": "Cambridge Walk & Punt Tour by Alumni™ & optional King's",
+        "fromPrice": "GBP 55",
+        "priceUnit": "per person",
+        "duration": "165 - 225 minutes",
+        "rating": 4.56,
+        "reviews": 477,
+        "includes": [
+          "University of Cambridge graduate or current student guide",
+          "Historical walking tour",
+          "Insights into student life",
+          "Entry to King's College Chapel (if option selected)",
+          "45-minute chauffeured punting tour with a local guide"
+        ],
+        "excludes": ["Tips", "Indoor access to structures unless booked in advance", "Food and drink"],
+        "kingsEntry": "conditional",
+        "puntingIncluded": "yes, 45-minute chauffeured, no clause"
+      }
+    ],
+    "oxfordAndCambridge": [
+      {
+        "id": 85239,
+        "title": "London: Oxford and Cambridge University Town Tour with Guide",
+        "fromPrice": "GBP 85",
+        "priceUnit": "per person",
+        "duration": "11.5 hours",
+        "rating": 4.2,
+        "reviews": 78,
+        "includes": [
+          "Round-trip bus travel from central London",
+          "Walking tour of Oxford and some free time",
+          "Entrance to the Tower of St Mary the Great in Cambridge",
+          "Free time to explore Cambridge",
+          "Tour guide"
+        ],
+        "excludes": ["Food and drinks", "Tips"],
+        "kingsEntry": "none",
+        "unconditionalEntry": "Tower of Great St Mary's, Cambridge",
+        "note": "The only Oxford-and-Cambridge product carrying an entry with no option clause. Cambridge is free time, not a guided walk."
+      },
+      {
+        "id": 18407,
+        "title": "From London: Oxford & Cambridge Iconic Universities Day Tour",
+        "provider": "Golden Tours - Gray Line London",
+        "fromPrice": "GBP 99",
+        "priceUnit": "per person",
+        "duration": "10 hours",
+        "rating": 3.9,
+        "reviews": 222,
+        "includes": [
+          "Walking tour of Oxford and Cambridge",
+          "Visit to Christ Church College (if selected)",
+          "Visit to King's College (if selected)",
+          "Professional guide",
+          "Transport by luxury air-conditioned bus"
+        ],
+        "excludes": ["Tips (optional)"],
+        "kingsEntry": "conditional"
+      },
+      {
+        "id": 2095,
+        "title": "From London: Oxford and Cambridge Universities Tour",
+        "fromPrice": "GBP 119",
+        "priceUnit": "per person",
+        "duration": "10 hours",
+        "rating": 4.2,
+        "reviews": 326,
+        "includes": [
+          "Expert tour guide",
+          "Walking tour of Oxford",
+          "Walking tour of Cambridge",
+          "Personal audio headset with the guide's live commentary",
+          "Transport by bus with free Wi-Fi and USB charging"
+        ],
+        "excludes": [
+          "Food and drinks",
+          "Tip",
+          "Entry to King's College and Christ Church College (if selecting the option excluding college entries)"
+        ],
+        "kingsEntry": "conditional",
+        "note": "Two return train fares are GBP 70.10 (Cambridge 32.40 + Oxford 37.70), so this is 48.90 more for less time in each city."
+      }
+    ],
+    "cambridgeWithSurroundings": [
+      {
+        "id": 799068,
+        "title": "From London: Cambridge and Medieval England Small Group Tour",
+        "provider": "Rabbie's Small Group Tours",
+        "fromPrice": "GBP 84",
+        "priceUnit": "per person",
+        "duration": "9.5 hours",
+        "rating": 4.5,
+        "reviews": 36,
+        "departurePoint": "Stance 3, Greenline Coach Station, Bulleid Way, Victoria SW1W 9SH - explicitly NOT Victoria Coach Station",
+        "includes": [
+          "Transport in a 16-seat Mercedes minibus",
+          "Air conditioning as standard",
+          "The stories and services of an English-speaking driver-guide"
+        ],
+        "excludes": ["Lunch and refreshments", "Entrance fees unless specified", "Tips (optional)"],
+        "kingsEntry": "none",
+        "itinerary": "Thaxted (Essex wool town, St John the Baptist church) then Cambridge"
+      },
+      {
+        "id": 1387613,
+        "title": "London: Private History Tour to Audley End & Cambridge",
+        "provider": "Beijing Taoxi International Culture & Travel Co., Ltd.",
+        "fromPrice": "GBP 886.28",
+        "priceUnit": "per group up to 6",
+        "duration": "10 hours",
+        "rating": null,
+        "reviews": 0,
+        "includes": [
+          "Private 10-hour tour",
+          "Premium Mercedes-Benz V-Class or similar luxury vehicle",
+          "Professional driver-chauffeur (English- or Chinese-speaking)",
+          "Door-to-door pick-up and drop-off from London hotel or residence",
+          "Visit to Audley End House and Gardens",
+          "Visit to Imperial War Museum Duxford",
+          "Visit to Cambridge University and City Centre",
+          "Optional visit to Ely Cathedral"
+        ],
+        "excludes": ["Food and drinks", "Entrance fees to attractions"],
+        "kingsEntry": "none",
+        "note": "Every entrance fee excluded, including Duxford and Audley End. New activity, no reviews."
+      }
+    ],
+    "privateOrSmallGroup": [
+      {
+        "id": 1110176,
+        "title": "London: Cambridge University and King's College Day Trip",
+        "provider": "Footprints Tours",
+        "fromPrice": "GBP 130",
+        "priceUnit": "per person",
+        "duration": "10 hours",
+        "rating": 4.3,
+        "reviews": 3,
+        "departurePoint": "Gloucester Road Underground Station",
+        "includes": [
+          "Tours from students at Cambridge University",
+          "Collection from central London at Gloucester Road Underground Station",
+          "Return to the same location",
+          "Guided tour inside Cambridge University",
+          "Visit to King's College",
+          "View the most famous Colleges at Cambridge University",
+          "Exploration of hidden alleyways"
+        ],
+        "excludes": ["Meals", "Personal expenses"],
+        "kingsEntry": "unconditional",
+        "note": "The only London-departure product whose includes list names King's College with no option clause. Only 3 reviews."
+      },
+      { "id": 1387613, "seeGroup": "cambridgeWithSurroundings" },
+      { "id": 1259465, "seeGroup": "cambridgeAlone_punting", "note": "private group self-hire" },
+      { "id": 137081, "seeGroup": "cambridgeAlone_punting", "note": "private group available" }
+    ]
+  },
+  "conditionalEntryIds": [91614, 339406, 146070, 18407, 2095],
+  "unconditionalEntryIds": [1110176, 85239],
+  "puntingPriceStructure": {
+    "perPerson": [472139],
+    "perRow": [281312, 137081],
+    "perPunt": [1259465],
+    "note": "GetYourGuide prints the unit in small type under the fare. 281312 at GBP 25 per row of two beats 472139 at GBP 15 per person as soon as there are two of you; 137081 at GBP 55 per group of three works out at GBP 18.33 each."
+  },
+  "notVerified": [
+    {
+      "id": 1408855,
+      "title": "From London: Oxford and Cambridge Guided Day Trip",
+      "reason": "GBP 109.73 with no reviews; product page not opened, so inclusions unconfirmed"
+    },
+    {
+      "id": 1104390,
+      "title": "London: Greenwich, Cambridge Chinese Day Tour with Lunch",
+      "reason": "Chinese-language guide, 22 reviews; product page not opened"
+    },
+    {
+      "id": 1393329,
+      "title": "London: Cambridge-Newton to Nobel Prizes Guided Walking Tour",
+      "reason": "GBP 70.96 for 2 hours with no reviews; product page not opened"
+    },
+    {
+      "id": 91836,
+      "title": "Cambridge University: Guided Punting Tour on the River Cam",
+      "reason": "In the page widget and verified live in data/day-trips/cambridge.json, but inclusions and price unit not read this session"
+    },
+    {
+      "id": 1125423,
+      "title": "Cambridge English Punting Tour with Student Guides",
+      "reason": "4.6 from 106 reviews, from GBP 30 on the listing card; product page not opened"
+    },
+    {
+      "id": 310918,
+      "title": "Cambridge: Bridge of Sighs Punting Tour",
+      "reason": "product page not opened this session"
+    },
+    "Great St Mary's tower door price, needed to value the GBP 85 Oxford-and-Cambridge tour's only unconditional inclusion.",
+    "Whether the King's College upgrade on 91614 and 339406 is priced at, above or below the GBP 16.75 door price - the upgrade cost only appears inside the date picker.",
+    "No overlap with data/day-trips/stonehenge-tours.json, bath-tours.json or windsor-tours.json: none of the Cambridge product ids appears in any of them, so no sibling findings could be reused."
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "subject": "GetYourGuide day tours that include Oxford, grouped by what the day covers",
+  "checkedAt": "2026-09-12",
+  "source": "data/day-trips/gyg-inventory.json (destinations.Oxford, 31 London-departure product ids) plus the Blenheim Palace bucket and the Oxford-departure walking tours found on the product pages' own recommendation rails. Pages opened in the browser pane at https://www.getyourguide.com/en-gb/activity/-t<id>; curl 403s after a couple of requests.",
+  "method": "Twelve product pages read on 12 September 2026. Inclusions and exclusions were taken from the DOM rows (inclusion-N-horizontal-1-title-text) and classified by the tick or cross icon on the same row, not by the title or by reading order, so a line reading 'Entry to X (if option selected)' is recorded as conditional even though it sits in the INCLUDES list. Prices are each page's own live adult 'from' price, which on several products differs from the cached SEO title and from the inventory figure. Findings for 71373, 18405, 234277, 60796, 1345509 and 2095's group context are reused from the sibling passes in stonehenge-tours.json, windsor-tours.json and bath-tours.json rather than re-read.",
+  "doorPriceBaseline": {
+    "trainFromLondon": "GBP 37.70 Off-Peak return from either London terminus; Advance singles from GBP 18 Paddington, GBP 15 Marylebone",
+    "oxfordTubeCoach": "GBP 28 adult return, 24 hours a day, no last coach",
+    "christChurch": "GBP 22.95 adult on a Michaelmas term weekday, GBP 2 less booked ahead",
+    "bodleianDivinitySchool": "GBP 3 self-guided",
+    "newCollege": "GBP 12",
+    "blenheimPalaceParkAndGardens": "not checked on this pass"
+  },
+  "conditionalEntryPattern": "The same trap as the Stonehenge, Bath and Windsor passes. The attraction is in the title and the inclusions row reads 'if selected' or 'if option selected', so the headline price is the option WITHOUT the ticket. On the Oxford set it hits Warwick Castle, Shakespeare's Birthplace, Christ Church, King's College Cambridge, Windsor Castle, Stonehenge and Blenheim Palace.",
+  "groups": [
+    {
+      "group": "Oxford alone, or Oxford with a walking tour",
+      "verdict": "No London coach product goes to Oxford and nowhere else at a coach price. The one London-departure Oxford-only product is a GBP 150 guided day with three entries genuinely included. Cheaper and better value: take the train or the Oxford Tube and buy a walking tour in Oxford.",
+      "leadProductId": 1071749,
+      "products": [
+        {
+          "id": 1071749,
+          "title": "London: Oxford Tour with Christ Church & Bodleian Library",
+          "pageFromPrice": "GBP 150",
+          "inventoryPrice": "GBP 149.99",
+          "duration": "10 hours",
+          "rating": 4.7,
+          "reviews": 57,
+          "departurePoint": "Outside Gloucester Road Underground station, corner of Gloucester Road and Courtfield Road",
+          "includes": ["Return transport from London", "Guided tour by Oxford University student", "Entry to Bodleian Library (Divinity School only)", "Entry to Christ Church College", "Entry to an additional Oxford College", "Free time to explore at your own pace"],
+          "excludes": ["Tips"],
+          "entryIncluded": "Christ Church, the Divinity School and one further college, all unconditional",
+          "conditional": false,
+          "note": "Small groups of 16. The only product read on this pass that includes Christ Church entry from a London departure. The same three entries bought yourself with an Off-Peak return come to about GBP 64, so GBP 150 buys the student guide and the seat."
+        },
+        {
+          "id": 60796,
+          "title": "From London: Cotswolds and Oxford Guided Day Trip",
+          "pageFromPrice": "GBP 79",
+          "duration": "10.5 hours",
+          "rating": 4.6,
+          "reviews": 4445,
+          "includes": ["Guide", "Transport by air-conditioned vehicle"],
+          "excludes": ["Food and drinks", "Tips"],
+          "entryIncluded": "None - no college, no Bodleian, no Christ Church",
+          "conditional": false,
+          "note": "The most-booked Oxford product on the platform at 4,445 reviews. Not a trap in the conditional sense, but a reader picturing Christ Church gets a guide and a coach seat. Read during the inventory pass, not re-opened here."
+        }
+      ]
+    },
+    {
+      "group": "Bought in Oxford after your own train - walking tours with college entry",
+      "verdict": "The honest answer for anyone who only wants Oxford. All three include real entry, all start in Oxford, and they add to a GBP 28 coach or GBP 37.70 train rather than replacing it.",
+      "leadProductId": 331461,
+      "products": [
+        {
+          "id": 29999,
+          "title": "Oxford: University and City Walking Tour with College entry",
+          "pageFromPrice": "GBP 27",
+          "duration": "1.5 hours",
+          "rating": 4.6,
+          "reviews": 2832,
+          "operator": "Oxford Walking Tours",
+          "includes": ["College admission", "Walking tour", "Guide"],
+          "entryIncluded": "One historic college, unconditional",
+          "conditional": false,
+          "note": "The page says which college is visited varies with availability, so it is not a route to a specific college."
+        },
+        {
+          "id": 386138,
+          "title": "Oxford: University Walking Tour with Christ Church Visit",
+          "pageFromPrice": "GBP 80",
+          "duration": "3 - 10 hours",
+          "rating": 4.7,
+          "reviews": 1192,
+          "includes": ["Oxford University student guide", "Entry to the Bodleian Library", "Enter Christ Church College", "Entry to one of the oldest Colleges at Oxford", "Entry to one of the largest Colleges at Oxford", "Entry to Weston Library", "Small-group tour", "Multiple Harry Potter film sites"],
+          "entryIncluded": "Christ Church, the Bodleian and two further colleges, all unconditional",
+          "conditional": false,
+          "note": "The URL slug reads 'with-optional-christ-church' but the rendered inclusions list carries Christ Church entry with a tick and no conditional clause. Worth re-checking at the option step."
+        },
+        {
+          "id": 331461,
+          "title": "Oxford: Harry Potter Walking Tour Including New College",
+          "pageFromPrice": "GBP 35",
+          "duration": "1.5 - 10 hours",
+          "rating": 4.7,
+          "reviews": 1764,
+          "operator": "Footprints Tours",
+          "includes": ["Guide", "Entrance to Divinity School", "Entrance to New College", "Harry Potter quiz"],
+          "entryIncluded": "New College (GBP 12 on the door) and the Divinity School (GBP 3), unconditional",
+          "conditional": false,
+          "note": "Student-led. The two entries it includes are the two genuine film locations the article already names, and together they cost GBP 15 at the door."
+        }
+      ]
+    },
+    {
+      "group": "Oxford and Windsor",
+      "verdict": "One clean product, and the platform's two biggest sellers both make Windsor Castle a paid option.",
+      "leadProductId": 1249245,
+      "products": [
+        {
+          "id": 1249245,
+          "title": "From London: Windsor Castle & Oxford Small Group Tour",
+          "pageFromPrice": "GBP 129",
+          "duration": "9 hours",
+          "rating": 4.9,
+          "reviews": 15,
+          "includes": ["Expert guide", "Walking tour of Windsor and Oxford", "Entry to Windsor Castle", "Small group vehicle", "Free Wi-Fi and USB charging", "Personal audio headset"],
+          "excludes": ["Meals", "Hotel pickup/drop-off", "Tips"],
+          "entryIncluded": "Windsor Castle, unconditional",
+          "conditional": false,
+          "note": "Only 15 reviews, but the only Oxford-and-Windsor product read whose castle ticket is in the headline price. St George's Chapel closed to visitors on Sundays."
+        },
+        {
+          "id": 71373,
+          "title": "London: Full-Day Windsor, Stonehenge and Oxford Tour",
+          "pageFromPrice": "GBP 71.10",
+          "duration": "11 hours",
+          "rating": 4.4,
+          "reviews": 5879,
+          "conditional": true,
+          "conditionalLines": ["Entry to Stonehenge (if option selected)", "Entry to Windsor Castle (if option selected)"],
+          "entryIncluded": "None at the headline price; a walking tour of Oxford is included",
+          "note": "Most-reviewed product in the whole Oxford, Windsor and Stonehenge set. Both named attractions are options. Reused from stonehenge-tours.json and windsor-tours.json, not re-opened."
+        },
+        {
+          "id": 18405,
+          "title": "From London: Windsor, Oxford & Stonehenge Full-Day Trip",
+          "pageFromPrice": "GBP 71.10",
+          "duration": "10 - 12 hours",
+          "rating": 4.3,
+          "reviews": 2825,
+          "conditional": true,
+          "conditionalLines": ["Admission to Windsor Castle (if selected)", "Admission to Stonehenge (if selected)"],
+          "note": "Reused from the sibling passes."
+        }
+      ]
+    },
+    {
+      "group": "Oxford and Stonehenge",
+      "verdict": "The one multi-stop day where the big admission is genuinely in the price.",
+      "leadProductId": 234277,
+      "products": [
+        {
+          "id": 234277,
+          "title": "From London: Stonehenge and Oxford Day Tour With Admission",
+          "pageFromPrice": "GBP 79",
+          "duration": "11 hours",
+          "rating": 4.7,
+          "reviews": 613,
+          "departurePoint": "Near 29 Cromwell Road, South Kensington, by the Lycee Francais",
+          "includes": ["Admission to Stonehenge", "Walking tour of Oxford", "Air-conditioned minibus", "Small group", "Free time in Oxford"],
+          "excludes": ["Food and drinks", "Tips"],
+          "entryIncluded": "Stonehenge, unconditional. No Oxford college entry.",
+          "conditional": false,
+          "note": "Read on the Stonehenge pass (stonehenge-tours.json), not re-opened here."
+        }
+      ]
+    },
+    {
+      "group": "Oxford with Stratford, the Cotswolds and Warwick Castle",
+      "verdict": "Four stops, and no product read includes an admission as standard. The GBP 79 sellers make Warwick Castle and Shakespeare's Birthplace paid options; the GBP 154 small-group day excludes them outright and says so.",
+      "leadProductId": 965,
+      "products": [
+        {
+          "id": 965,
+          "title": "London: Oxford, Stratford, Cotswolds and Warwick Day Trip",
+          "pageFromPrice": "GBP 79",
+          "duration": "10 - 11 hours",
+          "rating": 4.4,
+          "reviews": 852,
+          "includes": ["Walking tour of Oxford", "Drive through the Cotswolds", "Transport by air-conditioned bus", "Guide"],
+          "conditionalLines": ["Entry tickets into Warwick Castle with medieval host (if selected)", "Entry to Shakespeare's Birthplace (if selected)"],
+          "excludes": ["Food and drinks", "Hotel pick-up and drop-off"],
+          "conditional": true,
+          "entryIncluded": "None at GBP 79",
+          "options": ["Tour in English with Entrance Fees", "Tour in English with Warwick Castle Entrance", "Flexible Tour Option in English without Entrance", "Signature - English", "plus Spanish and Italian variants"],
+          "note": "Was linked from this article's book-direct list before this check and is now labelled as conditional on the page."
+        },
+        {
+          "id": 44382,
+          "title": "London: Small Group Oxford, Stratford and Cotswolds Day Tour",
+          "pageFromPrice": "GBP 154",
+          "titleFromPrice": "GBP 138",
+          "inventoryPrice": "GBP 138.60",
+          "duration": "11.5 hours",
+          "rating": 4.9,
+          "reviews": 122,
+          "operator": "The English Bus",
+          "includes": ["Transport by a comfortable air-conditioned 16-seat Mercedes minibus", "Professional and friendly driver and guide", "Personalised tour experience", "Walking tour of Stratford and Oxford", "Bottled water", "Drop-off in central London zone 1 on return"],
+          "excludes": ["Optional admission to Shakespeare's birthplace", "Lunch"],
+          "entryIncluded": "None, stated plainly rather than gated behind an option",
+          "conditional": false,
+          "note": "Best-rated Oxford product on the platform. The live from-price is GBP 154, not the GBP 138.60 in the inventory or the GBP 139 this article previously printed. Shakespeare's Birthplace closed 8 to 19 of a stated month for conservation - dates not fully captured. Minimum age 3."
+        },
+        {
+          "id": 71368,
+          "title": "From London: Warwick, Oxford, Stratford & Cotswolds Day Tour",
+          "price": "GBP 79",
+          "rating": 4.1,
+          "reviews": 312,
+          "verified": "not opened"
+        },
+        {
+          "id": 16090,
+          "title": "From London: Oxford, Stratford, Cotswolds & Warwick Castle",
+          "price": "GBP 79",
+          "rating": 4.4,
+          "reviews": 116,
+          "verified": "not opened"
+        },
+        {
+          "id": 437,
+          "title": "From London: Oxford, Stratford-upon-Avon & Cotswolds Trip",
+          "price": "GBP 75",
+          "rating": 4.6,
+          "reviews": 71,
+          "verified": "not opened"
+        }
+      ]
+    },
+    {
+      "group": "Oxford and the Cotswolds villages",
+      "verdict": "Nothing to include, because the villages charge nothing. The fair use of a coach on this page.",
+      "leadProductId": 173892,
+      "products": [
+        {
+          "id": 173892,
+          "title": "From London: Oxford and Cotswolds Villages Small Group Tour",
+          "pageFromPrice": "GBP 74",
+          "inventoryPrice": "GBP 97",
+          "duration": "10 hours",
+          "rating": 4.6,
+          "reviews": 1949,
+          "includes": ["Transport", "Guide"],
+          "entryIncluded": "None, and none needed - the villages are free to walk",
+          "conditional": false,
+          "note": "Live from-price GBP 74, well under the GBP 97 recorded in the inventory."
+        }
+      ]
+    },
+    {
+      "group": "Oxford and Cambridge in a day",
+      "verdict": "Two cities, 10 hours, and a walking tour in each. The GBP 119 product includes no college at all and does not pretend to; the GBP 99 one names Christ Church and King's in its inclusions and marks both 'if selected'.",
+      "leadProductId": 2095,
+      "products": [
+        {
+          "id": 2095,
+          "title": "From London: Oxford and Cambridge Universities Tour",
+          "pageFromPrice": "GBP 119",
+          "duration": "10 hours",
+          "rating": 4.2,
+          "reviews": 326,
+          "operator": "Evan Evans Tours",
+          "includes": ["Expert tour guide", "Walking tour of Oxford", "Walking tour of Cambridge", "Personal audio headset with the guide's live commentary", "Transport by bus with free Wi-Fi and USB charging"],
+          "entryIncluded": "None; no college entry appears anywhere in the inclusions, conditional or otherwise",
+          "conditional": false,
+          "note": "The inclusions list only rendered after scrolling the page; first two loads showed the booking widget in its place."
+        },
+        {
+          "id": 18407,
+          "title": "From London: Oxford & Cambridge Iconic Universities Day Tour",
+          "pageFromPrice": "GBP 99",
+          "duration": "10 hours",
+          "rating": 3.9,
+          "reviews": 220,
+          "includes": ["Walking tour of Oxford and Cambridge", "Professional guide", "Transport by luxury air-conditioned bus"],
+          "conditionalLines": ["Visit to Christ Church College (if selected)", "Visit to King's College (if selected)"],
+          "excludes": ["Tips (optional)"],
+          "conditional": true,
+          "entryIncluded": "None at GBP 99",
+          "options": ["Tour in English with Christ Church and Kings College Chapel", "Flexible Tour Option without entries in English", "Signature - English", "plus Spanish variants"],
+          "note": "Lowest-rated product in the group at 3.9. Its own page warns both colleges can close at short notice."
+        },
+        {
+          "id": 85239,
+          "title": "London: Oxford and Cambridge University Town Tour with Guide",
+          "price": "GBP 85",
+          "rating": 4.2,
+          "reviews": 78,
+          "verified": "not opened"
+        }
+      ]
+    },
+    {
+      "group": "Oxford and Bath",
+      "verdict": "One product, two reviews, transport only. The train does this pair better.",
+      "leadProductId": 1345509,
+      "products": [
+        {
+          "id": 1345509,
+          "title": "From London: Oxford and Bath Small-Group Day Trip",
+          "pageFromPrice": "GBP 99",
+          "duration": "10 hours",
+          "rating": 4.5,
+          "reviews": 2,
+          "operator": "Celestia Travel Ltd",
+          "includes": ["Transport", "Driver-guide", "Free time in both cities"],
+          "excludes": ["Guided tours in Oxford and Bath", "Entrance tickets to attractions", "Meals and drinks"],
+          "entryIncluded": "None",
+          "conditional": false,
+          "note": "Read on the Bath pass (bath-tours.json), not re-opened here."
+        }
+      ]
+    },
+    {
+      "group": "Blenheim Palace",
+      "verdict": "No London coach product pairs Oxford with Blenheim. The Blenheim days are their own trip, and the admission is included on the small one and optional on the big one.",
+      "leadProductId": 1116311,
+      "products": [
+        {
+          "id": 1116311,
+          "title": "From London: Blenheim Palace Day Trip with Admission",
+          "pageFromPrice": "GBP 69",
+          "duration": "1 day",
+          "rating": 4.2,
+          "reviews": 16,
+          "operator": "Evan Evans Tours",
+          "includes": ["Blenheim Palace, Park & Gardens admission ticket", "Return transfer on board a superior coach", "Access to the downloadable audio guide app in 10 languages", "Free Wi-Fi and USB charging on board"],
+          "excludes": ["Tour guide", "Hotel pickup/drop-off", "Meals and refreshments"],
+          "entryIncluded": "Blenheim Palace, Park and Gardens, unconditional",
+          "conditional": false,
+          "note": "No guide and no Oxford stop. Bring headphones - the audio guide is an app on your own phone."
+        },
+        {
+          "id": 2259,
+          "title": "From London: The Cotswolds and Blenheim Palace",
+          "pageFromPrice": "GBP 79",
+          "duration": "10 hours",
+          "rating": 4.4,
+          "reviews": 853,
+          "includes": ["Tour", "Transport by air-conditioned coach with Wi-Fi and USB chargers", "Guide", "Visit to Bampton, the Downton Abbey village", "Personal audio headset", "Blenheim Palace audio guide via a free downloadable app"],
+          "conditionalLines": ["Blenheim Palace entry (if option selected)"],
+          "conditional": true,
+          "entryIncluded": "None at GBP 79 - the palace in the title is the option",
+          "note": "Does not stop in Oxford. Inclusions only rendered after scrolling."
+        }
+      ]
+    },
+    {
+      "group": "Harry Potter themed",
+      "verdict": "Christ Church is the draw and two products get you inside it - 1071749 from London and 386138 in Oxford. 331461 is the cheapest that includes any genuine film location, and the genuine ones are the Divinity School and New College.",
+      "leadProductId": 331461,
+      "products": [
+        {
+          "id": 331461,
+          "note": "See the Oxford-departure group above. Divinity School and New College entry included, GBP 35."
+        },
+        {
+          "id": 386138,
+          "note": "See the Oxford-departure group above. Christ Church and Bodleian entry included, GBP 80."
+        },
+        {
+          "id": 1071749,
+          "note": "See the Oxford-alone group above. Christ Church, Divinity School and a third college from a London departure, GBP 150."
+        },
+        {
+          "id": 35599,
+          "title": "Oxford: Christ Church Harry Potter Insight & University Tour",
+          "price": "EUR 60 (recorded in data/day-trips/oxford.json)",
+          "verified": "not opened on this pass - make no claim about its inclusions"
+        }
+      ]
+    }
+  ],
+  "conditionalEntryIds": {
+    "readOnThePageInThisPass": [965, 18407, 2259],
+    "reusedFromSiblingPasses": [71373, 18405, 166535, 945, 52393, 156657, 50354, 70842, 713574, 7319, 977, 44098, 565163, 502413, 15627],
+    "unconditionalEntryConfirmedThisPass": [1071749, 1249245, 1116311, 29999, 386138, 331461],
+    "unconditionalEntryConfirmedBySiblings": [234277],
+    "noEntryIncludedButStatedPlainly": [44382, 173892, 2095, 60796, 1345509]
+  },
+  "articleChanges": {
+    "bookDirectList": "The old three-link list (965, 44382, 2095) was folded into the new comparison section. 965 stays on the page only inside the conditional-entry warning; 44382's price was corrected from GBP 139 to GBP 154 and 2095's from GBP 119 held.",
+    "widgetIds": "The top widget's data-gyg-tour-ids changed from 965,44382,2095 to 234277,44382,2095 - 965 was the one conditional-entry product in the set."
+  },
+  "notVerified": [
+    "t61450 'London: Harry Potter Studio Tour and Oxford Day Trip' (GBP 152.67, 4.7 / 5,374 in the inventory - the second most-reviewed product in the Oxford set). Four loads across two URL forms returned the GetYourGuide homepage shell with no product content, the same rendering failure the Stonehenge pass hit on 18730 and 525528. Nothing about its inclusions is stated in the article and it is not linked.",
+    "Option-level pricing on every conditional product. What the 'with Entrance Fees' option on 965, 18407 or 2259 costs against the gate price sits behind the date picker and was not read.",
+    "Nineteen of the 31 Oxford product ids were not opened: 1101374, 437, 71368, 16090, 85239, 1276899, 1408855, 1446148, 1441567, 388694, 76972, 61450, 533868, 388704, 1179734, 1383633, 910089, 441811, 699896. All are under 700 reviews except 61450 and 76972 (Downton Abbey with Highclere, Bampton and Oxford, 672 reviews), which was out of scope for the groups requested.",
+    "Child and concession pricing on every product; only the adult from-price was read.",
+    "Blenheim Palace's own gate price was not checked on this pass, so the article does not compare 1116311's GBP 69 with it."
+  ]
+}
