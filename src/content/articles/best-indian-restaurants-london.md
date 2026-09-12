@@ -284,6 +284,10 @@ Awadhi cooking is slow and perfumed rather than hot: **dum biryani** sealed and 
 
 *££ · Islington · Cited by 4 sources*
 
+![The Tamil Crown Sunday roast on a steel thali: tandoori chicken, roast potatoes, parathas, poppadoms, red cabbage and curry sauces](../../assets/articles/best-indian-restaurants-london/tamil-crown-roast.jpg)
+
+*Its sibling The Tamil Crown does this on a Sunday — see the [Sunday roast guide](/articles/best-sunday-roast-london/).*
+
 **A Victorian pub with a Tamil kitchen in it** — the format London does better than anywhere, and this is the room that made it fashionable. Prince Durairaj cooks the food of Tamil Nadu and Sri Lanka in a proper Islington boozer with the carpet and the bar intact.
 
 The **Chettinad chicken** and the **lamb kari dosa** are the orders, with heat that is not moderated for the pub setting, and breads and sambals alongside. The Sunday roast comes with masala gravy.
