@@ -104,9 +104,9 @@ The photo package covers the green screen broomstick flight and the printed extr
 
 ## Food, drink and Butterbeer
 
-![Diagon Alley on the Studio Tour, the shopfronts lit purple and red down the length of the crooked street](../../assets/articles/harry-potter-studio-tour/diagon-alley.jpg)
+![A three-tier afternoon tea stand at the Studio Tour: sandwiches below, savoury tarts in the middle and red iced cakes, macarons and a chocolate cauldron on top, with a golden snitch on the handle](../../assets/articles/harry-potter-studio-tour/afternoon-tea.jpg)
 
-*Diagon Alley, towards the end of the walk.*
+*Afternoon tea at The Hogwarts Table, £42.50 a head. It is in the dining room by the entrance, not on the Great Hall set.*
 
 **Butterbeer is sold in exactly one place:** the Butterbeer Bar next to the Backlot Café, roughly halfway round. You cannot buy it before you start or after you finish.
 
@@ -122,6 +122,10 @@ The photo package covers the green screen broomstick flight and the printed extr
 Elsewhere: the **Backlot Café** does burgers, hot dogs and salads halfway round, with outdoor seating facing the Knight Bus. In the entrance hub, before or after, the **Food Hall** serves breakfast until 11:30 and pizzas, pies and burgers after that, the **Dragon Roasted Café** does coffee and the **Frog Café** does hot chocolate, cakes and ice cream. The Food Hall closes at 20:00 at weekends and in school holidays, 17:00 otherwise.
 
 ## What is on, and when it is shut
+
+![Diagon Alley on the Studio Tour, the shopfronts lit purple and red down the length of the crooked street](../../assets/articles/harry-potter-studio-tour/diagon-alley.jpg)
+
+*Diagon Alley, towards the end of the walk.*
 
 | Feature | Dates | Extra cost |
 | --- | --- | --- |
