@@ -1,0 +1,371 @@
+{
+  "subject": "Warner Bros. Studio Tour London - The Making of Harry Potter",
+  "probedAt": "2026-09-12",
+  "method": "widget.getyourguide.com/default/activities.frame, partner_id=WWP7I0R, locale_code=en-GB, currency=GBP, browser User-Agent - the same frame the site's data-gyg-q embeds hit. Prices and durations parsed out of the frame's island props. Inclusions read off the GetYourGuide product pages in the browser where the page would render; GetYourGuide rate-limits after a handful of product pages, so some are marked unverified.",
+  "operatorBaseline": {
+    "source": "https://www.wbstudiotour.co.uk/plan-your-visit/tickets/ and /plan-your-visit/getting-here/ and /tickets/travel-partners/",
+    "adult": "GBP 58.50",
+    "child5to15": "GBP 47.00",
+    "family": "GBP 188",
+    "under4s": "free",
+    "carer": "free",
+    "watfordJunctionShuttle": "Free electric shuttle bus from Watford Junction, ~15 minutes, at least every 30 minutes from 09:20 - included in the entry ticket, not an extra anyone needs to buy",
+    "soldDirect": [
+      "Standard timed entry tickets",
+      "Tickets and Breakfast / Dinner / Afternoon Tea packages",
+      "Tickets and Hotel short breaks (via Holiday Extras)",
+      "Deluxe Tour"
+    ],
+    "notSoldDirect": [
+      "Coach transfer from central London",
+      "Hotel pickup",
+      "Private transfer",
+      "A guided version of the tour",
+      "Any combination with Oxford or a Thames cruise"
+    ],
+    "resaleRule": "The operator's Travel Partners page states tickets bought through approved distributors 'must be sold as part of a package and cannot be re-sold directly on a standalone basis'. That is why GetYourGuide has no entrance-only Studio Tour ticket - every listing bundles transport, a cruise or a guide.",
+    "approvedDistributorsRelevantHere": [
+      "Premium Tours (provider of tour 31392)",
+      "Golden Tours",
+      "H.I.S. (provider of tour 679208)",
+      "Evan Evans Tours",
+      "City Wonders",
+      "Holiday Extras"
+    ]
+  },
+  "products": [
+    {
+      "id": 31392,
+      "title": "London: Harry Potter Warner Bros Studio Tour with Transfers",
+      "price": "GBP 85",
+      "priceNumeric": 85,
+      "wasPrice": null,
+      "duration": "7 hours (about 4 hours at the studio)",
+      "rating": 4.7,
+      "reviews": 27951,
+      "provider": "Premium Tours",
+      "category": "entry + return coach from central London",
+      "includes": [
+        "Return air-conditioned coach from Victoria Coach Station (reviewers note departure is inside the station, not on the street)",
+        "Entry ticket",
+        "A representative at the studio to exchange the voucher for the ticket"
+      ],
+      "excludes": ["Tour guide", "Meals and drinks", "Audio guide (payable at the studio)"],
+      "url": "https://www.getyourguide.com/london-l57/warner-bros-studio-tour-london-the-making-of-harry-potter-t31392/",
+      "notes": "Cheapest coach-from-central-London option and by far the most reviewed. Free cancellation up to 3 days. Ranked first in every probe run. Caution: its own GetYourGuide highlights list ends with 'Wander the pretty streets of royal Windsor', which is copy from a different tour - the itinerary does not go to Windsor. Do not repeat that line.",
+      "verified": "inclusions read from the product page"
+    },
+    {
+      "id": 679208,
+      "title": "London: Warner Bros. Studio Tour & Round-trip Train Ticket",
+      "price": "GBP 75",
+      "priceNumeric": 75,
+      "wasPrice": "GBP 149",
+      "duration": "not stated",
+      "rating": 4.7,
+      "reviews": 151,
+      "provider": "H.I.S. (approved ticket distributor)",
+      "category": "entry + return train from Euston",
+      "includes": [
+        "Round-trip train ticket between London Euston and Watford Junction",
+        "Free shuttle bus from Watford Junction to the Studio Tour",
+        "Entry to the Studio Tour"
+      ],
+      "excludes": ["Food and drinks", "Guided tour (digital guide GBP 5.25, souvenir guidebook GBP 9.95 at the studio)"],
+      "url": "https://www.getyourguide.com/london-l57/from-london-warner-bros-studio-tour-with-train-tickets-t679208/",
+      "notes": "Cheapest way to get the ticket plus transport in one booking: GBP 75 against GBP 58.50 at the door plus roughly GBP 11-14 for a return to Watford Junction. Voucher only arrives 24 hours before. Thin review count (151) next to the coach products. Warns that engineering works and strikes can slow the train.",
+      "verified": "inclusions read from the product page"
+    },
+    {
+      "id": 505308,
+      "title": "London: Warner Bros. Studio Harry Potter Tour with Transfers",
+      "price": "GBP 88",
+      "priceNumeric": 88,
+      "wasPrice": "GBP 115",
+      "duration": "7 - 8 hours",
+      "rating": 4.7,
+      "reviews": 12730,
+      "category": "entry + return coach from central London",
+      "includes": ["Return coach transfer", "Entry ticket"],
+      "url": "https://www.getyourguide.com/london-l57/london-warner-bros-studio-harry-potter-tour-with-transfers-t505308/",
+      "notes": "Already embedded on src/content/articles/harry-potter-london.md as an availability widget. Second most reviewed coach option.",
+      "verified": "price, duration, rating from the widget frame; product page returned 403 / an empty shell on every attempt, so the inclusions list is from the abstract, not the page"
+    },
+    {
+      "id": 52391,
+      "title": "London: Warner Bros. Studio Harry Potter Tour with Transfers",
+      "price": "GBP 88",
+      "priceNumeric": 88,
+      "duration": "7 - 9 hours",
+      "rating": 4.6,
+      "reviews": 11037,
+      "category": "entry + return coach from central London",
+      "url": "https://www.getyourguide.com/london-l57/london-warner-bros-studio-harry-potter-tour-branded-bus-t52391/",
+      "notes": "Branded-bus product. Same price as 505308 with a slightly lower rating and a wider duration window.",
+      "verified": "widget frame only"
+    },
+    {
+      "id": 82665,
+      "title": "Harry Potter: Warner Bros. Studio Tour from King's Cross",
+      "price": "GBP 97",
+      "priceNumeric": 97,
+      "wasPrice": "GBP 125",
+      "duration": "7.5 hours",
+      "rating": 4.7,
+      "reviews": 6680,
+      "category": "entry + return branded bus from King's Cross",
+      "includes": [
+        "Round-trip transport by branded bus (subject to availability)",
+        "Free Wi-Fi on board",
+        "Admission ticket"
+      ],
+      "excludes": ["Food and beverages", "Digital guide (GBP 5.25 to rent at the studio)"],
+      "url": "https://www.getyourguide.com/london-l57/harry-potter-warner-bros-studio-tour-from-king-s-cross-t82665/",
+      "notes": "Departs King's Cross, which is the thematic pick and useful for anyone staying north of the river. Describes itself as a Preferred Partner. Journey about 1.5 hours each way.",
+      "verified": "inclusions read from the product page"
+    },
+    {
+      "id": 16403,
+      "title": "London: Harry Potter Warner Bros. Studio Tour & Branded Bus",
+      "price": "GBP 97",
+      "priceNumeric": 97,
+      "wasPrice": "GBP 125",
+      "duration": "7.5 hours",
+      "rating": 4.7,
+      "reviews": 20040,
+      "category": "entry + return branded bus from central London",
+      "url": "https://www.getyourguide.com/london-l57/london-warner-bros-studio-harry-potter-tour-branded-bus-t16403/",
+      "notes": "Same price, inclusions and duration as 82665 with three times the reviews; looks like the same operator selling a different departure point.",
+      "verified": "widget frame only"
+    },
+    {
+      "id": 491628,
+      "title": "London: Harry Potter Warner Bros. Studio Tour with Transfer",
+      "price": "GBP 90",
+      "priceNumeric": 90,
+      "duration": "not stated",
+      "rating": 4.6,
+      "reviews": 625,
+      "category": "entry + transfer from central London",
+      "url": "https://www.getyourguide.com/london-l57/london-harry-potter-warner-bros-studio-tour-transfers-t491628/",
+      "notes": "Self-guided visit with a transfer from central London. Dearer than 31392 with a fraction of the reviews - no reason to lead with it.",
+      "verified": "widget frame only"
+    },
+    {
+      "id": 297085,
+      "title": "London: Warner Bros. Studio Tour with Hotel Pickup",
+      "price": "GBP 155",
+      "priceNumeric": 155,
+      "duration": "7 hours",
+      "rating": 4.7,
+      "reviews": 1146,
+      "category": "entry + hotel pickup, small group",
+      "includes": [
+        "Hotel pickup from a London Zone 1 address",
+        "Shared transfer in an executive vehicle with a professional driver, maximum 8 people",
+        "Entry ticket (4 hours at the studio)",
+        "Return transfer back to the pickup point"
+      ],
+      "excludes": ["Food and drinks", "Tips"],
+      "url": "https://www.getyourguide.com/london-l57/london-small-group-warner-bros-studio-tour-t297085/",
+      "notes": "The only door-to-door option. Book at least 48 hours ahead to secure the Zone 1 pickup; the pickup time is a 45-minute window. Explicitly not a guided or private experience. Free cancellation up to 14 days. Not suitable for wheelchair users or people with mobility impairments.",
+      "verified": "inclusions read from the product page"
+    },
+    {
+      "id": 63735,
+      "title": "London: Exclusive Warner Bros. Harry Potter Guided Tour",
+      "price": "GBP 100",
+      "priceNumeric": 100,
+      "duration": "6 hours",
+      "rating": 4.7,
+      "reviews": 3058,
+      "category": "guided visit",
+      "url": "https://www.getyourguide.com/london-l57/warner-bros-studio-tour-london-making-of-harry-potter-t63735/",
+      "notes": "Describes itself as 'the only fully guided Warner Bros. Studio Tour' - a live guide through the Great Hall, Diagon Alley and the Hogwarts Express. The operator sells no guided version direct, so this is genuinely something the door price cannot buy. Whether transport is included is NOT established: the product page returned 403 / an empty shell on every attempt. Verify before making a claim about transfers.",
+      "verified": "price, duration, rating from the widget frame only - product page never rendered"
+    },
+    {
+      "id": 61450,
+      "title": "London: Harry Potter Studio Tour and Oxford Day Trip",
+      "price": "GBP 153",
+      "priceNumeric": 153,
+      "duration": "11 hours",
+      "rating": 4.7,
+      "reviews": 5374,
+      "category": "combined day trip",
+      "url": "https://www.getyourguide.com/london-l57/harry-potter-studio-tour-oxford-t61450/",
+      "notes": "Coach day trip out of London: a guided walk round Oxford in the morning, then the Studio Tour. The only Oxford combination with real review volume. Inclusions not read from the page (403).",
+      "verified": "widget frame only"
+    },
+    {
+      "id": 469400,
+      "title": "London: Warner Bros. Studio Tour and River Thames Cruise",
+      "price": "GBP 59",
+      "priceNumeric": 59,
+      "wasPrice": "GBP 89",
+      "duration": "1 day",
+      "rating": 4.8,
+      "reviews": 984,
+      "category": "entry + hop-on hop-off Thames cruise",
+      "includes": [
+        "Entrance to the Studio Tour (timed entry)",
+        "Complimentary shuttle bus from Watford Junction station (which is free with any ticket anyway)",
+        "Hop-on hop-off Thames cruise, usable on any day up to 30 December 2026"
+      ],
+      "excludes": ["Hotel pickup and drop-off"],
+      "url": "https://www.getyourguide.com/london-l57/london-warner-bros-studio-tour-and-river-thames-cruise-t469400/",
+      "notes": "CHECK BEFORE QUOTING. At GBP 59 this is 50p above the door price for the ticket plus a cruise, which is either a real loss-leader or a 'from' price for an option that is not the full bundle - 408850 sells a same-named bundle at GBP 85. No transport from central London is included: the reader still has to get themselves to Watford Junction. The cruise needs a printed voucher, not a phone.",
+      "verified": "inclusions read from the product page; the price itself needs a second look"
+    },
+    {
+      "id": 408850,
+      "title": "London: Warner Bros. Studio Tour and River Thames Cruise",
+      "price": "GBP 85",
+      "priceNumeric": 85,
+      "duration": "not stated",
+      "rating": 4.8,
+      "reviews": 994,
+      "category": "entry + hop-on hop-off Thames cruise",
+      "url": "https://www.getyourguide.com/london-l57/london-warner-bros-studio-tour-and-river-thames-cruise-t408850/",
+      "notes": "Near-identical title, rating and review count to 469400 at GBP 26 more. Whatever the difference is, it is not visible from the listing - do not put both in front of a reader.",
+      "verified": "widget frame only"
+    },
+    {
+      "id": 596540,
+      "title": "London to or from Warner Bros Studio - Private Transfer",
+      "price": "GBP 120",
+      "priceNumeric": 120,
+      "duration": "not stated",
+      "rating": 4.8,
+      "reviews": 30,
+      "category": "private transfer, NO entry ticket",
+      "url": "https://www.getyourguide.com/london-l57/central-london-tofrom-warner-bros-studio-private-transfer-t596540/",
+      "notes": "AVOID as a way to book the Studio Tour. The listing states in its own abstract: 'Entry tickets must be purchased separately via the official website.' Private vehicle for the group, central London to the studio. Only useful alongside a door-price ticket, and only for a group.",
+      "verified": "widget frame abstract"
+    },
+    {
+      "id": 652990,
+      "title": "Warner Bros. Studios to London Airports | Private Transfers",
+      "price": "GBP 108",
+      "priceNumeric": 108,
+      "duration": "not stated",
+      "rating": 4.5,
+      "reviews": 5,
+      "category": "private transfer, NO entry ticket",
+      "url": "https://www.getyourguide.com/london-l57/warner-bros-studios-to-london-airports-private-transfers-t652990/",
+      "notes": "AVOID. Transfer only, entry tickets not included, five reviews.",
+      "verified": "widget frame abstract"
+    }
+  ],
+  "queryProbes": {
+    "note": "Counts are at number_of_items=3, which is what every data-gyg-q embed on the site uses. Five runs per query. 'studioHits' is how many of the three results were Warner Bros. Studio Tour London products, per run.",
+    "results": [
+      {
+        "query": "Harry Potter Studio Tour",
+        "resultsReturned": 3,
+        "studioHits": [0, 0, 0, 0, 0],
+        "cleanRuns": "0/5",
+        "firstThree": [
+          "NYC: Harry Potter and the Cursed Child on Broadway",
+          "New Year's Eve Fireworks Cruise with Open Bar",
+          "NYC: SUMMIT One Vanderbilt Tickets"
+        ],
+        "verdict": "DEAD. Returns New York theatre, helicopter and cruise products priced in euros, every single run. Never use."
+      },
+      {
+        "query": "Harry Potter Studio Tour transfer",
+        "resultsReturned": 3,
+        "studioHits": [0, 0, 0, 0, 0],
+        "cleanRuns": "0/5",
+        "firstThree": [
+          "NYC: Harry Potter and the Cursed Child on Broadway",
+          "New Year's Eve Fireworks Cruise with Open Bar",
+          "NYC: SUMMIT One Vanderbilt Tickets"
+        ],
+        "verdict": "DEAD. Same New York fallback. Never use."
+      },
+      {
+        "query": "Warner Bros Studio Tour London",
+        "resultsReturned": 3,
+        "studioHits": [3, 3, 3, 1, 3],
+        "cleanRuns": "4/5",
+        "firstThree": [
+          "Warner Bros. Studio Tour London - The Making of Harry Potter (31392)",
+          "London: Warner Bros. Studio Harry Potter Tour & Branded Bus",
+          "London: Warner Bros. Studio Harry Potter Tour with Transfers"
+        ],
+        "verdict": "BEST query. 31392 came first in all five runs. The one bad run led with Tower of London and Madame Tussauds."
+      },
+      {
+        "query": "Harry Potter London tour",
+        "resultsReturned": 3,
+        "studioHits": [2, 2, 3, 1, 2],
+        "cleanRuns": "1/5",
+        "firstThree": [
+          "London: Tower of London and Crown Jewels Exhibition Ticket",
+          "Warner Bros. Studio Tour London - The Making of Harry Potter (31392)",
+          "London: Warner Bros. Studio Harry Potter Tour with Transfers"
+        ],
+        "verdict": "Usable but leaky. Tower of London, Madame Tussauds and Harry Potter walking tours push a Studio Tour product out of the three roughly four runs in five."
+      },
+      {
+        "query": "Warner Bros Studio Harry Potter Tour London",
+        "resultsReturned": 3,
+        "studioHits": [3, 3, 1, 1, 1],
+        "cleanRuns": "2/5",
+        "firstThree": [
+          "Warner Bros. Studio Tour London - The Making of Harry Potter (31392)",
+          "London: Warner Bros. Studio Harry Potter Tour with Transfers",
+          "London: Warner Bros. Studio Harry Potter Tour & Branded Bus"
+        ],
+        "verdict": "Worse than the shorter 'Warner Bros Studio Tour London'. Degrades into Tower of London and The Shard."
+      },
+      {
+        "query": "Warner Bros Studio Tour London tickets",
+        "resultsReturned": 3,
+        "studioHits": [1],
+        "cleanRuns": "0/1",
+        "firstThree": [
+          "London: Tower of London and Crown Jewels Exhibition Ticket",
+          "London: Madame Tussauds London",
+          "Warner Bros. Studio Tour London - The Making of Harry Potter (31392)"
+        ],
+        "verdict": "Adding 'tickets' makes it worse, not better - it pulls in every other London attraction ticket. At number_of_items=20 the same query returns nine Studio Tour products in the first nine, so the damage is specific to a three-slot widget."
+      },
+      {
+        "query": "Warner Bros Studio Tour transfer",
+        "resultsReturned": 3,
+        "studioHits": [1],
+        "cleanRuns": "0/1",
+        "firstThree": [
+          "Venice: Bus Transfer between Marco Polo Airport and City",
+          "Nevsehir or Kayseri Airport Private-Shared Transfer Service",
+          "Warner Bros. Studio Tour London - The Making of Harry Potter (31392)"
+        ],
+        "verdict": "Bad. The word 'transfer' without 'London' pulls in airport transfers anywhere in the world. At 20 results it also returns Warner Bros. Studio Tour Hollywood, Warner Park Madrid and Warner Bros. Studio Tour Tokyo."
+      }
+    ]
+  },
+  "findings": [
+    "GetYourGuide search is not deterministic. The same query, same parameters, minutes apart, returns a different three. 'Warner Bros Studio Tour London' came back all-Studio-Tour four runs in five and Tower of London plus Madame Tussauds on the fifth. No data-gyg-q value can be trusted to show the right products every page view - use data-gyg-tour-ids for anything the article's argument depends on, and keep a query slot only where a stray Tower of London ticket would do no harm.",
+    "Any query missing the words 'Warner Bros' AND 'London' can fall back to the viewer's own location. From here that meant New York products priced in euros. A reader in London would presumably get London junk instead, but it would still be junk.",
+    "Adding &location_id=57 to the frame URL fixed the dead 'Harry Potter Studio Tour' query and returned London results. Whether the embed script exposes a matching data attribute is untested - worth checking before relying on it.",
+    "There is no entrance-only ticket on GetYourGuide, and that is by design: the operator's Travel Partners page requires approved distributors to sell tickets as part of a package. Everything GetYourGuide lists bundles transport, a cruise or a guide, so nothing on the platform is a bare markup on the GBP 58.50 door price.",
+    "What GetYourGuide sells that the operator does not: a return coach from Victoria (31392, GBP 85) or King's Cross (82665, GBP 97), a return train package from Euston (679208, GBP 75), Zone 1 hotel pickup in a small executive vehicle (297085, GBP 155), a fully guided visit (63735, GBP 100), a private vehicle (596540, GBP 120), and combinations with Oxford (61450) or a Thames cruise (469400, 408850).",
+    "The free electric shuttle from Watford Junction is already included in the door price. Two listings (469400, 679208) name it as an inclusion, which is accurate but adds nothing on its own - do not let it read as a reason to pay more.",
+    "No reseller was found charging far above the door price for entry alone. The nearest thing to a bad-value listing is 408850 at GBP 85 next to 469400 at GBP 59 for what reads as the same Studio Tour plus Thames cruise bundle."
+  ],
+  "avoid": [
+    "596540 (GBP 120) and 652990 (GBP 108) are private transfers with NO entry ticket - their own listings say tickets must be bought separately from the official site. Never present either as a way to book the Studio Tour.",
+    "Do not quote 469400's GBP 59 without checking what that option actually buys: it is 50p above the door price for a ticket plus a Thames cruise, and a same-named bundle (408850) sells at GBP 85.",
+    "Do not repeat 31392's highlights line about wandering 'the pretty streets of royal Windsor' - it is copy from a different tour and the itinerary does not go to Windsor.",
+    "Broad or location-free queries return, variously: NYC Broadway shows and helicopter tours in euros, Venice and Nevsehir airport transfers, Warner Bros. Studio Tour Hollywood (55864), Warner Park Madrid (400697), Warner Bros. Studio Tour Tokyo (975381), Tower of London, Madame Tussauds, The Shard, West End musicals and a junior inflatable park ticket.",
+    "63735's transport arrangements are unverified - its page would not render. Do not write that the guided tour includes or excludes a transfer until someone has opened it."
+  ],
+  "recommendedEmbeds": {
+    "mainPicks": "data-gyg-tour-ids=\"31392,679208,297085\" - the cheapest coach from central London, the cheapest train-plus-ticket package, and the only door-to-door option. Three clearly different answers rather than three near-identical coach products.",
+    "transportComparison": "data-gyg-tour-ids=\"31392,82665,679208\" - Victoria coach, King's Cross bus, Euston train.",
+    "combinations": "data-gyg-tour-ids=\"61450,469400,63735\" - Oxford day trip, Thames cruise bundle, guided visit. Check 469400's price and 63735's transport first.",
+    "querySlotIfNeeded": "data-gyg-q=\"Warner Bros Studio Tour London\" - the only query that held up, and even it failed one run in five."
+  }
+}

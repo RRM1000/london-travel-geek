@@ -1,0 +1,848 @@
+{
+  "_meta": {
+    "subject": "Warner Bros. Studio Tour London – The Making of Harry Potter",
+    "researchedOn": "2026-09-12",
+    "researchedBy": "Claude Code research pass for londontravelgeek.co.uk",
+    "sourcePolicy": "Every fact below is taken from the operator's own site (wbstudiotour.co.uk), the operator's own booking flow (book.wbstudiotour.com), the operator's own PDFs, the operator's named official transfer partner reached via the operator's own redirect (wbstudiotour.gttickets.com), National Rail, TfL, or Google Maps. No blogs, no third-party ticket resellers.",
+    "currency": "GBP",
+    "warning": "Prices and dates were live on 12 September 2026. Re-verify before publication; the operator says prices are liable to change at any time."
+  },
+
+  "venue": {
+    "legalOperator": "Warner Bros. Studios Leavesden Limited (company no. 330764, VAT 988 1404 86)",
+    "address": "Warner Bros. Studio Tour London, Studio Tour Drive, Leavesden, WD25 7LR",
+    "what3wordsDropOff": "///stocks.jelly.film",
+    "what3wordsTaxiPickUp": "///dame.palace.fairly",
+    "phone": "+44 (0)800 640 4550 (Rest of world 00 44 800 640 4550)",
+    "visitorServicesHours": "Mon–Fri 08:30–17:30, Sat–Sun 10:00–17:00 plus bank holidays",
+    "distanceFromCentralLondon": "20 miles (operator's own terms and conditions)",
+    "sources": [
+      {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/getting-here/", "accessed": "2026-09-12"},
+      {"url": "https://www.wbstudiotour.co.uk/terms-and-conditions/", "accessed": "2026-09-12"},
+      {"url": "https://www.wbstudiotour.co.uk/contact-us/", "accessed": "2026-09-12"}
+    ]
+  },
+
+  "tickets": {
+    "standardPrices": {
+      "adult16plus": 58.50,
+      "child5to15": 47.00,
+      "family": 188.00,
+      "under4s": 0,
+      "essentialCompanionCarer": 0,
+      "note": "Family price is not sold as a separate product. In the booking flow it is applied automatically as a line called 'Family (2+2) Web  −£23.00' when the basket holds 2 adults + 2 children (2×£58.50 + 2×£47.00 = £211.00, less £23.00 = £188.00). A family ticket admits two adults and two children, OR one adult and three children, at the same price.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/tickets/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (event_type_id=2, basket 2 adults + 2 children, visit 19 Dec 2026 18:30)", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/ticket-information-faqs/", "accessed": "2026-09-12"}
+      ]
+    },
+    "ageRules": {
+      "adult": "16 years or older",
+      "child": "5 to 15 years inclusive",
+      "freeAge": "4 and under — free, but each child still needs a (free) ticket booked for the time slot",
+      "supervision": "All children under 16 must be accompanied by a person aged 16 or over. The operator recommends no more than six children per adult; groups must keep a minimum 1:10 adult-to-child ratio.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/terms-and-conditions/", "accessed": "2026-09-12"}
+    },
+    "priceVariationByDateOrTime": {
+      "answer": "No. Standard Studio Tour admission was £58.50 adult / £47.00 child on every date tested, including a peak Hogwarts in the Snow Saturday (19 December 2026) and a quiet September Tuesday (22 September 2026). The tickets landing page shows 'from £58.50' but the booking flow charged the same on both dates.",
+      "method": "Priced 2 adults on Tue 22 Sep 2026 16:00 (£117.00) and 2 adults + 2 children on Sat 19 Dec 2026 18:30 (£188.00 after family saving) in the operator's own booking flow.",
+      "source": {"url": "https://book.wbstudiotour.com/", "accessed": "2026-09-12"}
+    },
+    "bookingWindow": {
+      "currentlyOnSaleUntil": "31 December 2026",
+      "note": "The site header states 'Tickets currently available until 31st December 2026'. The operator does not publish a schedule for how far ahead the rolling release goes, or when the next window opens.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/faqs/top-frequently-asked-questions/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/contact-us/", "accessed": "2026-09-12"}
+      ]
+    },
+    "onTheDayTickets": {
+      "possible": false,
+      "quote": "All tickets must be pre-booked and access is only available to those with a valid booking confirmation which will be checked on arrival prior to entry to the Studio Tour car park.",
+      "detail": "The operator holds nothing back: 'We do not hold back additional tickets for sale over the phone or on the day.' Once a time slot is sold out no further visitors can be added. A valid ticket for the date is also required just to enter the shops.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/ticket-information-faqs/", "accessed": "2026-09-12"}
+      ]
+    },
+    "changesRefundsResale": {
+      "refunds": "Tickets are non-refundable. Group tickets are non-amendable and non-refundable.",
+      "dateChange": "£10 administration fee per change, by phone only (payment details are not stored), subject to availability, and must be done before the visit date. The operator notes that sold-out dates sometimes reopen because other people have paid this fee to move.",
+      "resale": "Tickets are non-transferable, void if altered, and not for resale — 'Any such resale shall have the effect of rendering that Ticket void.' Only tickets bought direct or from an approved distributor are valid; tickets from unauthorised third parties including online auction sites are not valid for entry. Tickets we reasonably suspect have been transferred or altered will not be honoured.",
+      "nameChange": "The original purchaser can phone Visitor Services to add names to the booking; the added person then brings ID to collect at the ticket window.",
+      "cancellationByVenue": "If the operator moves your entry time by four hours or more you may accept it, rebook, or cancel for a full refund.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/terms-and-conditions/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/ticket-information-faqs/", "accessed": "2026-09-12"}
+      ]
+    },
+    "payment": {
+      "cardsAccepted": "Visa, Visa Debit, MasterCard, American Express. No cheques (except registered charities, county councils and UK schools) and no cash or foreign currency online.",
+      "deliveryOptions": "E-ticket by email free; postal delivery £3.95 at checkout. Postal delivery can take up to 21 days (UK) / 28 days (overseas) before the visit.",
+      "onSite": "Free-to-use cash machine in the lobby. Only pound sterling accepted on site.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/faqs/payment-information-faqs/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (checkout step)", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/terms-and-conditions/", "accessed": "2026-09-12"}
+      ]
+    },
+    "giftTickets": {
+      "souvenirGiftTicket": {
+        "adult": 58.50,
+        "child5to15": 47.00,
+        "under4s": 0,
+        "deliveryUK": 12.00,
+        "deliveryEurope": 18.00,
+        "deliveryRestOfWorld": 18.00,
+        "detail": "Hogwarts-acceptance-letter styled printed ticket, personal message up to 100 characters, posted in a plain unbranded white envelope. Dispatched within 5 business days; arrives within 8 (UK) / 14 (Europe) / 19 (rest of world) business days. One souvenir letter per transaction however many tickets are bought. Non-refundable because personalised, unless faulty."
+      },
+      "giftETicket": {
+        "adult": 58.50,
+        "child5to15": 47.00,
+        "under4s": 0,
+        "delivery": "Emailed as soon as the order is processed; free"
+      },
+      "printableGiftCards": "Free downloadable designs (Great Hall, Hogwarts Castle, Diagon Alley, Gringotts, Professor Sprout's Greenhouse, Festive Hogwarts Castle) to print yourself.",
+      "redemption": "Gift tickets are undated. They must be redeemed (i.e. a date and time slot booked) within 12 months of purchase. A souvenir gift ticket can only be redeemed 72 hours after the purchase date. Tickets bought after 11 November 2020 can be redeemed online; earlier ones by phone. You must book by the expiry date but the visit itself can be after it. Multiple gift tickets with different reference numbers must be redeemed separately. You cannot add extra paid tickets during redemption — make a second booking.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/tickets/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/tickets/souvenir-gift-ticket/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/tickets/gift-e-tickets/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/gift-ticket-redemption-faqs/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/tickets/printable-gift-cards/", "accessed": "2026-09-12"}
+      ]
+    },
+    "groups": {
+      "tenPlus": "Groups of 10+ must book through Visitor Services (+44 (0)800 640 4550), paid in full at booking. Minimum 1 adult per 10 children. Large groups may be split across time slots. Group numbers are limited during school holidays. Up to nine people can book online.",
+      "schools": "UK schools and colleges educating up to age 18 get school rates on selected off-peak weekday dates, booked at least 6 weeks ahead. Universities, language schools, summer schools and non-UK schools pay standard prices.",
+      "tradePartners": "Tour operators must buy through approved distributors; tickets must be sold as part of a package and cannot be resold standalone. Blue Badge Guides go free when accompanying a group; coach drivers get one free ticket per coach.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/tickets/group-bookings/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/tickets/travel-partners/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/ticket-information-faqs/", "accessed": "2026-09-12"}
+      ]
+    }
+  },
+
+  "upgradeTickets": [
+    {
+      "name": "Deluxe Tour",
+      "price": {"adult": 250.00, "child": 250.00},
+      "note": "No child discount — the booking flow lists 'Deluxe Package £250.00' and 'Deluxe Child Package £250.00'.",
+      "includes": [
+        "2½-hour guided tour in a small group with an expert guide",
+        "Breakfast in the Food Hall with unlimited tea, coffee and fruit juice",
+        "Priority Parking next to the entrance",
+        "All digital green screen photographs and videos from the broomstick flight over London AND the Hogwarts Express carriage, plus 1 × A3 printed wanted poster and 1 × printed Ministry of Magic ID card",
+        "Butterbeer or Butterbeer Ice Cream in the Backlot Café with souvenir cup",
+        "Re-entry to the Studio Tour after the guided tour to explore at your own pace",
+        "Exclusive photo in front of the Great Hall doors (Deluxe only)",
+        "Souvenir Guidebook and lanyard"
+      ],
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/tickets/deluxe/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/?event_type_id=3&site_id=1", "accessed": "2026-09-12"}
+      ]
+    },
+    {
+      "name": "Twilight Tours",
+      "price": {"perPerson": 105.00},
+      "priceConflict": "The What's On page and the tickets landing page both say £105 per person; the /tickets/twilight-tours/ page still says '£102.49 Per person'. Treat £105 as current and flag the £102.49 as stale.",
+      "runs": "Selected Fridays throughout 2026",
+      "includes": [
+        "Studio Tour entry",
+        "20-minute drink reception in the Great Hall with a smaller group",
+        "One glass of Champagne per person, or a non-alcoholic alternative",
+        "Part-guided tour through the Hogwarts interior sets before the Forbidden Forest, then self-guided"
+      ],
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/twilight-tours/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/tickets/twilight-tours/", "accessed": "2026-09-12"}
+      ]
+    },
+    {
+      "name": "Relaxed Tours",
+      "price": {"perPerson": 58.50, "note": "Standard entrance rate"},
+      "dates2026": ["Saturday 6 June 2026", "Sunday 27 September 2026", "Saturday 5 December 2026"],
+      "detail": "Adapted experience for visitors with autism and related conditions. Car park and doors open 07:30; the adapted experience runs from 08:00 until 10:00 (reduced visitor numbers, changed lighting, quieter sound), after which normal operation resumes. Visitors may stay on past 10:00. Also bookable by phone.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/relaxed-tours/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/tour-accessibility/", "accessed": "2026-09-12"}
+      ]
+    },
+    {
+      "name": "Tickets and Breakfast Package (Breakfast at The Hogwarts Table)",
+      "price": {"perPerson": 127.00},
+      "includes": ["Studio Tour entry", "Premium breakfast at The Hogwarts Table (continental buffet plus a hot dish from a prix fixe menu)", "Butterbeer in a souvenir tankard", "Souvenir Guidebook"],
+      "detail": "Does NOT take place on the Great Hall set. Tables up to six people. Selected days only, pre-book only. Allergies must be notified at least 48 hours ahead.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/tickets/tickets-and-breakfast-package/", "accessed": "2026-09-12"}
+    },
+    {
+      "name": "Tickets and Dinner Package (Dinner at The Hogwarts Table)",
+      "price": {"perPerson": 157.50},
+      "includes": ["Studio Tour entry at 14:00, 14:30 or 15:30", "Three-course dinner at The Hogwarts Table served at 18:00, 18:30 or 19:30 (each entry time maps to a specific dining time)", "Butterbeer in a souvenir tankard", "Souvenir Guidebook"],
+      "detail": "Does NOT take place on the Great Hall set. Tables up to six. Entry times vary by date and availability.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/tickets/tickets-and-dinner-package/", "accessed": "2026-09-12"}
+    },
+    {
+      "name": "Tickets, Hotel & Breakfast Package",
+      "price": {"from": 81.00},
+      "detail": "Provided by Holiday Extras, an approved distributor, not by the Studio Tour. Overnight stay at a 3*, 4* or 5* hotel with hotel breakfast.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/tickets/", "accessed": "2026-09-12"}
+    },
+    {
+      "name": "Tickets & Transfer Package",
+      "price": {"from": 94.00},
+      "detail": "Provided by Golden Tours. Return travel from central London on a branded double-decker bus; private return transfer options available. See gettingThere.goldenTours for the itemised prices on the partner's own booking site.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/tickets/", "accessed": "2026-09-12"}
+    }
+  ],
+
+  "optionalExtras": {
+    "_note": "Prices confirmed inside the operator's own booking flow (Extras step) on 12 September 2026 unless stated. The Extras step warns: 'If you don't see an extra listed, it may be sold out for your selected date.'",
+    "digitalGuide": {
+      "prePurchase": 4.75,
+      "onArrival": 5.75,
+      "included": false,
+      "conflict": "The Enhance Your Visit page says £5.25 on arrival. The booking flow says 'Save £1 by pre-purchasing' against £4.75 (implying £5.75), and the operator's own Golden Tours partner page states 'available to hire at the Studio Tour for £5.75'. Two sources say £5.75, one says £5.25 — treat £5.25 as stale but flag.",
+      "detail": "Handheld audio-visual guide, English narration by Evanna Lynch (Luna Lovegood), with filmmaking facts, exclusive behind-the-scenes footage, cast and crew interviews, wayfinding and interactive filmmaking activities. Subtitled in English, French, German, Italian, Japanese, Russian, Spanish, Mandarin and Brazilian Portuguese, with audio dubbing on various exhibit videos. Collected from the Digital Guide desk in the lobby. NOT an audio-descriptive guide for blind or visually impaired visitors — audio descriptive tours are separate and free.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/enhance-your-visit/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (Extras step)", "accessed": "2026-09-12"},
+        {"url": "https://wbstudiotour.gttickets.com/en/london-warner-bros-studio-tour-london-the-making-of-harry-potter-with-return-transport", "accessed": "2026-09-12"}
+      ]
+    },
+    "audioGuide": {
+      "exists": "There is no separate paid 'audio guide' — the Digital Guide is the audio-visual guide. Free accessibility alternatives exist: Audio Descriptive Tours (free, an Interactor accompanies you, max 8 per Interactor, subject to availability, book via Visitor Services), Tactile Tours (free, ask an Interactor, available on any ticket), tactile braille and large-print image books from the Information Desk, personal induction loops from the Digital Guide desk, and free BSL tours with a qualified interpreter (max 8 per interpreter, book at least 14 days ahead).",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/tour-accessibility/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/additional-needs-faqs/", "accessed": "2026-09-12"}
+      ]
+    },
+    "souvenirGuidebook": {
+      "prePurchase": 7.95,
+      "onTheDay": 9.95,
+      "included": false,
+      "detail": "Paperback, exclusive 25th Anniversary Edition with four filmmaker interviews. Pre-book to collect on arrival, or buy in the Studio Shop or online at harrypottershop.com for £9.95. Included free in the Deluxe, Breakfast and Dinner packages.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/enhance-your-visit/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (Extras step)", "accessed": "2026-09-12"}
+      ]
+    },
+    "digitalPhotographyAndVideoPackage": {
+      "prePurchase": 22.50,
+      "onTheDay": "Around £30 — the booking flow says 'Save at least £7.50 per person when you pre-purchase', with additional savings for groups of 3–4. Exact walk-up price not published online.",
+      "included": false,
+      "detail": "Per person. Entitles one visitor to multiple digital photographs and one full-length video from the Broomstick Green Screen area, plus multiple digital photographs from the Wanted Poster experience. All downloadable digitally. The Hogwarts Express carriage photography is explicitly EXCLUDED from this package. Show proof of purchase at the Broomstick Green Screen area.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/enhance-your-visit/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (Extras step)", "accessed": "2026-09-12"}
+      ]
+    },
+    "greenScreenExperiences": {
+      "included": "Riding the broomstick and sitting in the Hogwarts Express carriage are included in your admission; the resulting photos and videos are not. Photographs are sold 'in a variety of packages' on the day, or pre-bought as the Digital Photography and Video Package above.",
+      "broomstick": "Fly a broomstick over London against green screen, just as the cast did.",
+      "flyingCar": "Not separately listed by the operator as a current green-screen experience. The published green-screen experiences are the broomstick flight and the Hogwarts Express carriage. Treat any flying-Ford-Anglia green screen as unconfirmed.",
+      "hogwartsExpressCarriage": "Step into a carriage with friends and relive the journey to Hogwarts; filmed against green/blue screen. Photos from this are sold separately and are not in the Digital Photography and Video Package.",
+      "wantedPoster": "Wanted Poster experience — multiple digital photographs, included in the pre-bought package.",
+      "accessibility": "Both green screen areas offer one fully accessible photo opportunity each.",
+      "note": "The terms and conditions reserve the right to require an additional ticket for access to the green screen areas: 'Subject to availability and at our absolute discretion, visitors may be asked to purchase additional tickets to obtain access to the green screen areas of the Studio Tour.'",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/enhance-your-visit/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/terms-and-conditions/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/wp-content/uploads/2026/02/3011-accessibility-guide-update-2025-3011.pdf", "accessed": "2026-09-12"}
+      ]
+    },
+    "butterbeerPrePurchase": {
+      "price": 7.95,
+      "included": false,
+      "detail": "Pre-buy a classic draught Butterbeer in a souvenir tankard as an add-on at booking, redeemed at the Butterbeer Bar. Same price as buying it there.",
+      "source": {"url": "https://book.wbstudiotour.com/ (Extras step)", "accessed": "2026-09-12"}
+    },
+    "happeeBirthdaeCake": {
+      "price": 39.95,
+      "included": false,
+      "detail": "Six-inch chocolate fudge cake with pink and green frosting, serves 6–10, eat in the Food Hall or take away. Suitable for vegetarians; no other allergen, dietary or personalisation requests can be accommodated. Must be bought at least 72 hours before the visit date; to add to an existing booking, phone Visitor Services.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/enhance-your-visit/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (Extras step)", "accessed": "2026-09-12"}
+      ]
+    },
+    "afternoonTea": {
+      "adult": 42.50,
+      "child": 16.50,
+      "included": false,
+      "detail": "At The Hogwarts Table, before or after the tour, minimum two people, tables up to six, 90-minute slot — book the tour entry time with that in mind and pick the same day as your admission ticket. This does NOT take place on the Great Hall set. Champagne upgrade available. Vegan, vegetarian and made-without-gluten menus; children's version served in a miniature Hogwarts trunk. Add-on only — cannot be booked without a Studio Tour ticket. 20-minute arrival grace period. Allergies must be notified at least 48 hours ahead. To add to an existing booking, contact Visitor Services at least 24 hours before the visit.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/tickets/afternoon-tea/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (Extras step)", "accessed": "2026-09-12"}
+      ]
+    },
+    "priorityParking": {
+      "price": 10.00,
+      "included": false,
+      "detail": "Bays next to the entrance. Online pre-book only — explicitly cannot be bought on the day. One ticket per vehicle; valid from opening until closing. Delivered with your tickets (email attachment or printed). Present it at the first car park checkpoint for a windscreen sticker. Blue badge bays and EV charging bays are free of charge and do not need this.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/getting-here-faqs/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (Extras step)", "accessed": "2026-09-12"}
+      ]
+    },
+    "activityPassport": {
+      "price": 0,
+      "included": true,
+      "detail": "Complimentary. Golden Snitch hunt, puzzles, trivia and space for souvenir stamps collected at points such as Platform 9¾ and Gringotts Wizarding Bank. Collect from any staff member during the tour. Expanded for each seasonal feature.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/enhance-your-visit/", "accessed": "2026-09-12"}
+    },
+    "wandLessons": {
+      "status": "There is no paid 'wand lesson' add-on. The operator sells no wand lesson in its booking flow. What exists and is included: duelling technique demonstrations in the Defence Against the Dark Arts classroom during the Dark Arts feature, and the Wand Room (section 19 of the tour) at the end of the walk. Replica wands are sold in the Studio Shop.",
+      "sources": [
+        {"url": "https://book.wbstudiotour.com/ (Extras step, full list captured)", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/dark-arts/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/wp-content/uploads/2026/02/3011-accessibility-guide-update-2025-3011.pdf", "accessed": "2026-09-12"}
+      ]
+    },
+    "completeExtrasListAtCheckout": [
+      "Digital Guide — £4.75",
+      "Paperback Souvenir Guidebook — £7.95",
+      "Digital Photography and Video Package — £22.50",
+      "Butterbeer in the Butterbeer Bar — £7.95",
+      "Happee Birthdae Harry Cake — £39.95",
+      "Afternoon Tea — £42.50 adult / £16.50 child (minimum of two)",
+      "Priority Parking — £10.00"
+    ],
+    "extrasListSource": {"url": "https://book.wbstudiotour.com/ (Extras step, 2 adults, Tue 22 Sep 2026 16:00)", "accessed": "2026-09-12"}
+  },
+
+  "includedInStandardTicket": {
+    "sets": ["The Great Hall", "Hogwarts interior sets including Gryffindor common room and Dumbledore's Office", "Platform 9¾ with the original Hogwarts Express locomotive and a carriage you can step into", "The Forbidden Forest", "Gringotts Wizarding Bank and the Lestrange Vault (photo with the Sword of Gryffindor and Hufflepuff Cup)", "Diagon Alley", "Professor Sprout's Greenhouse", "The Hogwarts Bridge, Knight Bus and Number Four, Privet Drive in the Backlot", "The Hogwarts castle model in the Model Room", "The Wand Room"],
+    "tourSectionsInOrder": ["Hub", "Tour Entrance", "Experience Corridor", "The Great Hall", "Filmmakers", "Interior Sets", "Quidditch", "SFX & VFX", "Ministry of Magic", "Forbidden Forest", "Platform 9¾", "The Backlot", "Backlot Stage", "Creature Effects", "Gringotts", "The Vaults", "Diagon Alley", "Art Department", "Model Room", "Wand Room", "Tour End"],
+    "alsoIncluded": ["Free shuttle bus from Watford Junction", "Free car parking", "Free cloakroom", "Free Activity Passport", "Free WiFi", "Free manual wheelchairs and folding stools from the Information Desk", "Free Sensory Support Bags and Sunflower Lanyards", "Two Sensory Rooms", "Multi-faith room", "Water refill stations", "All extra content for whichever seasonal feature is running"],
+    "notIncluded": ["Digital Guide", "Souvenir Guidebook", "Green screen photos and videos", "Butterbeer and all food and drink", "Afternoon Tea and the Hogwarts Table meals", "Priority Parking"],
+    "sources": [
+      {"url": "https://www.wbstudiotour.co.uk/wp-content/uploads/2026/02/3011-accessibility-guide-update-2025-3011.pdf", "accessed": "2026-09-12"},
+      {"url": "https://www.wbstudiotour.co.uk/the-experience/explore-the-tour/sets/", "accessed": "2026-09-12"},
+      {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/first-year-at-hogwarts/", "accessed": "2026-09-12"}
+    ]
+  },
+
+  "foodAndDrink": {
+    "beforeAndAfterTheTour": [
+      {
+        "name": "Dragon Roasted Café",
+        "type": "Coffee shop",
+        "location": "Studio Tour Hub — pre and post tour",
+        "hours": "Open all day",
+        "detail": "Sustainably sourced coffee beneath the Ukrainian Ironbelly dragon; flat whites, teas, Butterbeer Lattes, snacks."
+      },
+      {
+        "name": "Frog Café",
+        "type": "Patisserie",
+        "location": "Studio Tour Hub — pre and post tour",
+        "hours": "Open all day",
+        "detail": "Previously known as the Chocolate Frog Café. Luxury hot chocolate, ice creams, artisan milkshakes and hand-crafted cakes. Chocolate Frog card mirrors for selfies."
+      },
+      {
+        "name": "The Food Hall",
+        "type": "Casual dining",
+        "location": "Studio Tour Hub — pre and post tour",
+        "hours": "Closes 20:00 at weekends and in school holidays, 17:00 on all other days",
+        "detail": "Breakfast served daily until 11:30 (Butterbeer Pancakes, toasted English breakfast muffins, full English). From 11:30 stone-baked pizzas, pies, burgers, salads, children's meals. Menu changes with every seasonal feature."
+      },
+      {
+        "name": "The Hogwarts Table",
+        "type": "Signature dining, reservation required",
+        "location": "Studio Tour Hub — pre and post tour",
+        "detail": "Home of the Breakfast package, Afternoon Tea and the Dinner package. Pre-book only. Not on the Great Hall set."
+      }
+    ],
+    "insideTheTour": [
+      {
+        "name": "Backlot Café",
+        "type": "Casual dining",
+        "location": "Halfway through the tour",
+        "hours": "Open all day",
+        "detail": "Burgers, chicken wings, hot dogs, salads. Indoor and outdoor seating with views of the Knight Bus, Number Four Privet Drive and the Hogwarts Bridge. Parent and baby room next door; staff will warm bottles and baby food."
+      },
+      {
+        "name": "Butterbeer Bar",
+        "type": "Butterbeer-themed bar",
+        "location": "Halfway through the tour, by the Backlot Café",
+        "hours": "Open all day",
+        "detail": "The only place Butterbeer is served. Draught Butterbeer, Frozen Butterbeer (a European first), Butterbeer Ice Cream and Butterbeer-inspired treats."
+      }
+    ],
+    "butterbeerWhereServed": "The Butterbeer Bar, next to the Backlot Café, roughly halfway through the tour — you cannot buy it before you start or after you finish the walk.",
+    "butterbeerMenuPrices": {
+      "butterbeerInSouvenirTankard": 7.95,
+      "frozenButterbeer": 7.95,
+      "butterbeerLatte": 5.65,
+      "butterbeerIceCreamSouvenirSundaeDish": 8.45,
+      "butterbeerIceCreamWaffleCone": 6.95,
+      "butterbeerSharingFlight": 21.90,
+      "butterbeerDoughnut": 4.95,
+      "butterbeerMeringue": 5.25,
+      "butterbeerCupcake": 5.95,
+      "butterbeerCookie": 3.95,
+      "latte": 4.25,
+      "cappuccino": 4.25,
+      "americano": 3.95,
+      "espresso": 2.95,
+      "tea": 3.15,
+      "source": {"url": "https://www.wbstudiotour.co.uk/wp-content/uploads/2026/08/BUTTERBEER_BAR_DIGITAL_PORTRAIT.pdf", "accessed": "2026-09-12"}
+    },
+    "butterbeerFacts": "Vegan, non-alcoholic, reminiscent of shortbread and butterscotch. Suitable for gluten, wheat and nut allergies. Souvenir tankards and dishes are yours to take home.",
+    "ownFood": {
+      "allowed": true,
+      "detail": "You may bring your own food and eat it in the Backlot area or the outdoor picnic areas at the front of the Studio Tour. The operator asks that you do not eat it elsewhere. Food cannot be stored in the cloakroom."
+    },
+    "sources": [
+      {"url": "https://www.wbstudiotour.co.uk/the-experience/food-drink/", "accessed": "2026-09-12"},
+      {"url": "https://www.wbstudiotour.co.uk/faqs/tour-facilities-faqs/", "accessed": "2026-09-12"},
+      {"url": "https://www.wbstudiotour.co.uk/wp-content/uploads/2026/02/3011-accessibility-guide-update-2025-3011.pdf", "accessed": "2026-09-12"}
+    ]
+  },
+
+  "shops": {
+    "studioShop": "In the lobby, opens 09:30 (one page says 10:00 — see conflicts). Collectibles, replica wands, confectionery, apparel. A valid ticket for the date of your visit is required to enter — you cannot come just to shop.",
+    "christmasShop": "Also called the Forbidden Forest shop, inside the Forbidden Forest. Seasonal items, stock changes through the year and is not always available elsewhere on site.",
+    "railwayShop": "On Platform 9¾. Souvenirs, gifts, homeware, apparel, Peppermint Toads and Chocolate Frogs.",
+    "returns": "30 days with a valid receipt, unused and in original packaging. No refund or exchange on earrings, food and drink, face coverings, underwear, beauty products or bespoke products unless faulty. Items bought from 1 November can be returned up to 31 January. Purchases can be left in the cloakroom free while you finish the tour.",
+    "online": "harrypottershop.co.uk",
+    "sources": [
+      {"url": "https://www.wbstudiotour.co.uk/the-experience/studio-shops/", "accessed": "2026-09-12"},
+      {"url": "https://www.wbstudiotour.co.uk/returns-policy/", "accessed": "2026-09-12"},
+      {"url": "https://www.wbstudiotour.co.uk/faqs/tour-experience-faqs/", "accessed": "2026-09-12"}
+    ]
+  },
+
+  "seasonalFeaturesAndEvents": [
+    {
+      "name": "First Year at Hogwarts",
+      "dates": "7 May – 7 September 2026",
+      "status": "Finished",
+      "extraCost": "None — included in the ticket price",
+      "detail": "25th anniversary of Harry Potter and the Philosopher's Stone. Great Hall with Gryffindor banners and floating hats, Secrets of Sound Effects show at the Backlot Stage, Quidditch polearm rig, Fluffy's paw mould and the self-playing harp, a Wizard Chess photo opportunity with moving pieces.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/first-year-at-hogwarts/", "accessed": "2026-09-12"}
+    },
+    {
+      "name": "Back to Hogwarts",
+      "dates": "1 September 2026 (one day)",
+      "status": "Finished",
+      "extraCost": "None",
+      "detail": "Announcement at 11:00 broadcast site-wide, then every 30 minutes at Platform 9¾. Animatronic Hagrid demonstrations, exclusive photo opportunities, themed food and drink, a Hogwarts train ticket in the Activity Passport, a digital quiz in the Butterbeer Café.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/back-to-hogwarts/", "accessed": "2026-09-12"}
+    },
+    {
+      "name": "Dark Arts",
+      "dates": "16 September – 8 November 2026",
+      "status": "Coming soon (starts 16 Sep 2026)",
+      "extraCost": "None — 'all extra features for Dark Arts are included in the ticket price'",
+      "detail": "Over 100 floating pumpkins above a sweet feast in the Great Hall. Death Eaters in costume throughout with sinister choreography; duelling techniques taught in the Defence Against the Dark Arts classroom. Dementors lurking in the Forbidden Forest. New for 2026: Secrets of Sound Effects with a Hallowe'en twist, and Nagini behind-the-scenes in the Creatures Workshop (a practical model of Nagini is displayed). Dark Arts food and drink at the Dragon Roasted Café, Food Hall, Frog Café and Backlot Café, plus Dark Arts menus at The Hogwarts Table.",
+      "warnings": "Death Eater performance actors with lighting, sound effects and pyrotechnics at Hagrid's hut, the Hogwarts Express and Diagon Alley. From 18:00, lighting and sound effects also at the Hogwarts Bridge in the Backlot. Dementor demonstration in the Forbidden Forest with lighting and water-based smoke. Flashing lights may be used. Ask a team member to bypass any of these.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/dark-arts/", "accessed": "2026-09-12"}
+    },
+    {
+      "name": "Nox",
+      "dates": "29, 30 and 31 October 2026",
+      "status": "SOLD OUT",
+      "price": {"perPerson": 150.00, "carer": 80.00},
+      "ageRestriction": "Over 12s only (the operator's 2025 terms said 16+ — see conflicts)",
+      "capacity": "450 tickets per night",
+      "maxPerPurchaser": 9,
+      "includes": ["After-hours admission during the Dark Arts feature", "One misting mocktail or cocktail served in the Great Hall", "One piece of confectionery at each trick-or-treat station", "Free souvenir digital photograph", "Drink bars for additional purchases"],
+      "itinerary": "From 18:00 event registration opens; from your entry time until 23:45 explore after hours — Death Eaters, the Forbidden Forest lit only by lanterns, an epic duel at the Hogwarts bridge, chocolate coins at Gringotts, Death Eaters patrolling Diagon Alley; midnight the Studio Tour closes.",
+      "shuttle": "A complimentary shuttle runs between Watford Junction and the venue; first service from 18:00, a return shuttle on standby. Event tickets must be shown to board.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/nox/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/nox-terms-and-conditions/", "accessed": "2026-09-12"}
+      ]
+    },
+    {
+      "name": "Hogwarts in the Snow",
+      "dates": "14 November 2026 – 17 January 2027",
+      "status": "Coming soon",
+      "extraCost": "None — 'all extra features for Hogwarts in the Snow are included in the ticket price'",
+      "detail": "Sets dressed for Christmas. Great Hall with floating candles, towering Christmas trees, a festive feast and flaming puddings, with Harry and Ron playing Wizard Chess on one of the long tables. Gryffindor and Slytherin common rooms with garlands, wreaths and the hand-drawn Christmas cards the crew made during filming. Yule Ball waltz steps in the Defence Against the Dark Arts classroom. Frosted Forbidden Forest trees, icy Diagon Alley windows, the Hogwarts castle model under filmmaking snow with a miniscule hidden snowman. New for 2026: festive sound effects revealed at the Backlot Stage, plus filmmaking snow settling over the Backlot.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/hogwarts-in-the-snow/", "accessed": "2026-09-12"}
+    },
+    {
+      "name": "Dinner in the Great Hall (adult only)",
+      "dates": "Monday 7, Tuesday 8 and Wednesday 9 December 2026",
+      "status": "SOLD OUT",
+      "price": {"perPerson": 285.00, "carer": 165.00},
+      "priceConflict": "The terms and conditions write it as 'two hundred and seventy-five pounds sterling (£285)' — words and figures disagree. Figure given is £285.",
+      "ageRestriction": "18+ only",
+      "capacity": "200 tickets per evening, tables of 10 or 12, max 9 tickets per purchaser, 5 carer tickets per evening (phone only)",
+      "generalTicketRelease": "Thursday 2 July 2026 from 10:00",
+      "includes": ["Welcome drinks and canapés on arrival", "Exclusive after-hours access to the Studio Tour", "Three-course menu in the Great Hall with half a bottle of wine or three bottled beers per person plus unlimited mineral water", "A misting cocktail/mocktail at the Potions classroom", "A glass of wine, beer or soft drink at Platform 9¾", "A tankard of Butterbeer in the Backlot Café", "A green screen photo souvenir", "A celebration wand"],
+      "itinerary": "18:00 drinks and canapés reception; 18:45 Studio Tour commences; 19:15 seated in the Great Hall; 21:00 tour continues with misting drinks in the Potions classroom; 21:30 drinks at Platform 9¾; midnight close.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/dinner-in-the-great-hall/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/dinner-in-the-great-hall-terms-and-conditions/", "accessed": "2026-09-12"}
+      ]
+    },
+    {
+      "name": "Family Dinner in the Great Hall",
+      "dates": "Friday 4 December 2026",
+      "status": "SOLD OUT",
+      "price": {"adult": 285.00, "child": 270.00, "carer": 165.00},
+      "ageRestriction": "Adults must bring at least one child; the event page says ages 8–17, the terms and conditions say no children under 12 are permitted — see conflicts",
+      "capacity": "220 tickets, tables of 10 or 12, max 9 per purchaser, 5 carer tickets (phone only)",
+      "generalTicketRelease": "Thursday 2 July 2026 at 10:00",
+      "detail": "Prosecco or sparkling elderflower plus canapés reception, two-course dinner at round tables in the Great Hall with a Yule Ball display, Christmas crackers, after-hours tour with a misting drink at the Potions classroom, a souvenir gift from the Christmas shop, dessert canapés and a drink at Platform 9¾, and a Butterbeer in a souvenir tankard in the Backlot Café.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/family-dinner-in-the-great-hall/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/family-dinner-in-the-great-hall-terms-and-conditions/", "accessed": "2026-09-12"}
+      ]
+    },
+    {
+      "name": "Hogwarts House Spirit",
+      "dates": "23 January – 19 April 2027",
+      "status": "Coming soon — details not yet published",
+      "detail": "A brand-new feature celebrating Gryffindor, Ravenclaw, Hufflepuff and Slytherin, from the Great Hall to the Hogwarts castle model. 'More details to be revealed soon.'",
+      "source": {"url": "https://www.wbstudiotour.co.uk/the-experience/whats-on/hogwarts-house-spirit/", "accessed": "2026-09-12"}
+    },
+    {
+      "name": "Mastering the Magic",
+      "detail": "A workshop led by the Learning Team plus Studio Tour entry. Adults and children pay the same price; no child concession. Max 35 tickets per event day, including up to 5 essential companion places. Ticket release for the 2026 run: 10 tickets per event in a Harry Potter Fan Club 24-hour pre-sale on 4 February 2026 from 10:00; general release 5 February 2026 from 10:00. Price is not published on the terms page.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/mastering-the-magic-terms-and-conditions/", "accessed": "2026-09-12"}
+    }
+  ],
+
+  "planningTheVisit": {
+    "howLong": {
+      "averageVisit": "Approximately three and a half hours",
+      "bookingFlowGuidance": "'We recommend allowing 3½ hours to complete the Studio Tour.'",
+      "accessibilityGuide": "'On average visitors will spend approximately 3–4 hours at the Studio Tour.'",
+      "timeLimit": "None — 'there is no limit imposed on your time at the attraction'.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/faqs/tour-experience-faqs/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (Visit step)", "accessed": "2026-09-12"}
+      ]
+    },
+    "timeSlots": {
+      "interval": "Every 30 minutes",
+      "rule": "You may enter at any point during your 30-minute time slot. You will not be allowed in before your allocated entry time.",
+      "arriveBy": "Arrive 20 minutes before your ticketed time. Before the tour starts you have access to the Food Hall, Dragon Roasted Café, Studio Shop, cloakroom and toilets.",
+      "exampleAvailability": "On Tue 22 Sep 2026 only 15:00, 15:30 and 16:00 remained; on Sat 19 Dec 2026 only 18:00 and 18:30 remained. Sat 18 and Sat 19 Sep 2026 were entirely sold out.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/faqs/ticket-information-faqs/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (Visit step)", "accessed": "2026-09-12"}
+      ]
+    },
+    "ifYouAreLate": {
+      "policy": "Visitors who miss their allocated entry time are NOT guaranteed entry. Staff will advise the next available slot, but at busy times there may be nothing left that day, in which case you must rebook (and pay the £10 amendment fee). Those arriving after the last tour of the day cannot be guaranteed entry. If you know you will arrive after your 30-minute slot, contact the venue.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/terms-and-conditions/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/ticket-information-faqs/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/", "accessed": "2026-09-12"}
+      ]
+    },
+    "openingTimes": {
+      "note": "Times vary by date. Taken from the operator's own calendar data file, which covered 9 September – 31 December 2026 (generated 9 September 2026).",
+      "typicalWeekday": {"firstBus": "09:20", "opens": "09:30", "firstTour": "10:00", "finalTour": "16:00", "closes": "20:00", "lastBus": "20:00"},
+      "typicalWeekendAndPeak": {"firstBus": "08:15", "opens": "08:30", "firstTour": "09:00", "finalTour": "18:30", "closes": "22:00", "lastBus": "22:00"},
+      "otherPatterns": [
+        "Some autumn weekdays: first bus 09:20, opens 09:30, first tour 10:00, final tour 18:30, closes 22:00",
+        "Hogwarts in the Snow weekdays from 24 Nov: first bus 09:20, opens 09:30, first tour 10:00, final tour 17:00, closes 21:00",
+        "Nox nights 29–31 Oct: first tour 09:00, final tour 18:00, closes 22:00",
+        "24 and 31 December 2026: first tour 09:00, FINAL TOUR 14:30, closes 18:00"
+      ],
+      "closedDates": ["9 November 2026", "10 November 2026", "11 November 2026", "12 November 2026", "13 November 2026", "25 December 2026", "26 December 2026"],
+      "closureReason": "The 9–13 November closure falls exactly between the end of Dark Arts (8 Nov) and the start of Hogwarts in the Snow (14 Nov) — the sets are being redressed. The operator warns to check the calendar before booking transport or hotels.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/opening-times/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/wp-content/uploads/wbstl-calendar-data.json", "accessed": "2026-09-12"}
+      ]
+    },
+    "bagsAndSecurity": {
+      "policy": "You and your bags are checked before entry. Photography is not permitted in the search area. The operator requests you do not bring large or multiple items of baggage. Suitcases and large bags go through baggage scanners.",
+      "cloakroomMustStore": ["Folding penknife with blade under 3in / 7.62cm", "Alcohol of any quantity", "Scissors", "Anything else Security deems unsuitable or unsafe"],
+      "confiscatedNotReturned": ["Folding penknife with blade over 3in / 7.62cm or any lock knife", "Flick, butterfly or disguised knives", "Pepper / CS spray", "Firearms and imitation firearms", "Knuckle dusters, kobutans, friction lock batons, side handled batons", "Illegal drugs"],
+      "alsoProhibited": ["Fireworks, flares, smoke bombs", "Glass bottles", "Skateboards, scooters and rollerblades", "Drones", "E-scooters (also banned on the shuttle bus and on site)", "Legal highs"],
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/prohibited-items/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/security/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/", "accessed": "2026-09-12"}
+      ]
+    },
+    "cloakroomAndLockers": {
+      "cloakroom": "Free for the duration of your visit. Coats, bags, suitcases, buggies and prams, and shopping bought in the Studio Shop. Items left at the visitor's risk. Food cannot be stored.",
+      "lockers": "The operator does not advertise lockers — the free staffed cloakroom is the storage provision.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/facilities/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/tour-facilities-faqs/", "accessed": "2026-09-12"}
+      ]
+    },
+    "pushchairs": {
+      "policy": "Pushchairs and buggies are welcome — it is a self-guided walking tour and it is pushchair friendly. But space inside is limited and the operator asks you to leave them in the free cloakroom where possible, subject to space.",
+      "parentAndBaby": "Private parent and baby room next to the Backlot Café with nursing chair, changing table and space for a pushchair. Baby changing in every toilet block. Staff in the Food Hall, Backlot Café and Butterbeer Bar will warm bottles and baby food.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/faqs/tour-experience-faqs/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/facilities/", "accessed": "2026-09-12"}
+      ]
+    },
+    "photography": {
+      "allowed": "Handheld cameras and mobile devices in all areas EXCEPT the security search area, the pre-show cinema and the green screen areas.",
+      "banned": "Tripods and other specialist photographic equipment, including drones, anywhere on site — including exterior areas such as the car park.",
+      "press": "Press, camera crews and commercial photographers must contact the venue first.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/tour-experience-faqs/", "accessed": "2026-09-12"}
+      ]
+    },
+    "accessibility": {
+      "essentialCompanion": "One free essential companion ticket per paying disabled visitor. Not added for under-4s (already free). Proof of entitlement required on entry: DLA/PIP, ESA or Attendance Allowance letter, Freedom Pass with the 'D' logo, Blue Badge, DID card or Access Card, a diagnosis or doctor's letter, or any international equivalent. Collect at the ticket window or add by phone after booking online.",
+      "stepFree": "Level access throughout the majority of the tour. Exceptions: the Hogwarts Express interior (short staircase and a corridor too narrow for wheelchairs — an accessible viewing carriage sits at the end of Platform 9¾), the Hogwarts Bridge (short staircase, no alternative access because it is an original set piece with an uneven surface), and the Knight Bus (short boarding platform). Difficult surfaces: Diagon Alley's cobbled street, which is also on an incline; the Great Hall's slate floor; the Forbidden Forest's spongy surface; Privet Drive's narrow doorway.",
+      "wheelchairs": "Free manual wheelchairs and free lightweight folding stools from the Information Desk, first come first served, cannot be pre-booked. Manual and electric wheelchairs welcome. Tell Visitor Services in advance if your group has three or more wheelchairs — cinema seating and the later part of the tour have limits.",
+      "accessibleFacilities": "Accessible toilets throughout, stoma friendly with a shelf for medical supplies. A Changing Places facility in the lobby, RADAR key (or ask staff), with hoist, height-adjustable changing bench and basin, shower, WC and alarm pull cord — big enough for a wheelchair user and two carers. Bring your own sling. Evacusafe chairs and trained staff. Qualified Ambulance Technician, trained First Aiders and AEDs on site.",
+      "sensory": "Two Sensory Rooms — one beside the Food Hall, one beside the Backlot Café. Free Sensory Support Bags from the Information Desk (fidget toys, ear defenders, Sunflower Lanyard). Free Sunflower Lanyards from the ticket window or Information Desk.",
+      "hearing": "Induction loops at the ticket windows, Information Desk, holding room and cinema. Personal induction loops from the Digital Guide desk. Subtitles on media throughout except the holding room and cinema, for which a portable subtitled iPad can be pre-booked. Free BSL tours with a qualified interpreter, max 8 per interpreter, book at least 14 days ahead.",
+      "sight": "Free Audio Descriptive Tours (max 8 per Interactor). Free Tactile Tours — touch authentic props and fabrics; ask any Interactor; available on any ticket. Tactile braille and large-print image books with an accessible map from the Information Desk.",
+      "assistanceDogs": "All trained guide, assistance, buddy, hearing and medical alert dogs welcome; guide dogs in training need formal ID such as the blue jacket. A spending area off the Backlot. Water bowls on request. No other dogs or pets — and pets cannot be left in vehicles, so visitors arriving with a pet will not be admitted or allowed to remain in the car park.",
+      "effectsToAvoid": "Smoke machines and occasional strobe lighting in the Forbidden Forest. Special effects lighting and water-based haze in immersive sections. Flashing lights during features such as Dark Arts. Aragog appears in both the Forbidden Forest and the Creature Effects area — ask an Interactor for an alternative route. Visitors with high blood pressure, heart conditions or other pre-existing conditions are advised to ask staff and avoid those areas.",
+      "multiFaith": "Multi-faith room off the lobby with dual-level basin, storage for personal items and shoes, adjustable lighting and temperature.",
+      "guides": [
+        "https://www.wbstudiotour.co.uk/wp-content/uploads/2026/02/3011-accessibility-guide-update-2025-3011.pdf",
+        "https://www.wbstudiotour.co.uk/wp-content/uploads/2026/02/3012-autism-guide-update-2025-digital-1-3012.pdf"
+      ],
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/tour-accessibility/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/additional-needs-faqs/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/facilities/", "accessed": "2026-09-12"}
+      ]
+    },
+    "otherFacilities": "Free WiFi. Free-withdrawal cash machine in the lobby. Water refill stations. Smoking and vaping only in designated areas outside the Food Hall and in the outdoor Backlot area. Lost property held for a limited time; postal return charged by size and weight.",
+    "bestTimesToBook": {
+      "evidence": "Quiet days are weekday mornings outside school holidays: those dates open latest (first tour 10:00) and close earliest (20:00), which is the operator's own signal of low demand, and are the only dates offered to schools at off-peak rates. Weekends and school holidays run the extended 09:00–22:00 pattern. In a live check on 12 September 2026 the next two weekend days (18 and 19 September) were completely sold out while the Tuesday and Wednesday after still had slots.",
+      "operatorGuidance": "'As spaces are limited, we strongly suggest you reserve tickets early for your preferred date and time.' Sold-out slots cannot be reopened, and nothing is held back for phone or walk-up sale.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/wp-content/uploads/wbstl-calendar-data.json", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/ticket-information-faqs/", "accessed": "2026-09-12"},
+        {"url": "https://book.wbstudiotour.com/ (Visit step)", "accessed": "2026-09-12"}
+      ]
+    }
+  },
+
+  "gettingThere": {
+    "trainEustonToWatfordJunction": {
+      "operators": "West Midlands Trains (trading as London Northwestern Railway) run the fast direct services; TfL's London Overground Lioness line runs the all-stations Watford DC line service. Watford Junction station is managed by London Northwestern Railway; London Euston is managed by Network Rail.",
+      "journeyTimeFast": "18–21 minutes direct (the operator's own site says 20 minutes)",
+      "journeyTimeOverground": "48 minutes direct on the Lioness line",
+      "frequency": "Roughly every 5–15 minutes across both services in the middle of the day",
+      "fares": {
+        "offPeakSingle": 7.20,
+        "peakSingle": 11.10,
+        "note": "Pay-as-you-go contactless/Oyster fare. National Rail's own journey planner quotes the same £7.20 and £11.10 and labels it 'Price based on contactless fare'. The same fare applies whether you take the fast train or the slow Overground.",
+        "peakDefinition": "On this route TfL applies peak fares FROM Watford Junction towards Euston (southbound) Mon–Fri 06:30–09:30, and FROM Euston towards Watford Junction (northbound) Mon–Fri 16:00–19:00, excluding public holidays. Everything else is off-peak — so a morning trip out to the Studio Tour is off-peak even on a weekday.",
+        "sources": [
+          {"url": "https://api.tfl.gov.uk/Journey/JourneyResults/1000077/to/1001317 (TfL Unified API, 16 Sep 2026 departures at 08:00, 11:00 and 17:30)", "accessed": "2026-09-12"},
+          {"url": "https://tfl.gov.uk/fares/find-fares/tube-and-rail-fares", "accessed": "2026-09-12"},
+          {"url": "https://www.nationalrail.co.uk/journey-planner/ (EUS to WFJ, 16 Sep 2026)", "accessed": "2026-09-12"}
+        ]
+      },
+      "oysterAndContactless": "Valid. The operator states 'Oyster cards are valid between London Euston and Watford Junction.' TfL treats the route as a special pay-as-you-go corridor.",
+      "otherDirectServices": "Direct trains also arrive from Birmingham New Street (1 hour). Other non-direct services run from Euston but take longer.",
+      "stepFree": "Both ends are National Rail step-free category A: step-free access to all platforms, with lifts, at London Euston and at Watford Junction. Watford Junction has Passenger Assistance meeting points, staff help 24/7, accessible toilets and a Changing Places toilet. Note the platforms at Watford Junction are above the level of the main entrance.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/getting-here/", "accessed": "2026-09-12"},
+        {"url": "https://www.nationalrail.co.uk/stations/watford-junction/", "accessed": "2026-09-12"},
+        {"url": "https://www.nationalrail.co.uk/stations/london-euston/", "accessed": "2026-09-12"}
+      ]
+    },
+    "shuttleBus": {
+      "price": 0,
+      "included": true,
+      "quote": "This journey is included as part of your entry ticket.",
+      "from": "Watford Junction railway station",
+      "journeyTime": "Around 15 minutes",
+      "frequency": "At least every 30 minutes from 09:20, with additional services from 08:15 when the first tour is at 09:00",
+      "lastReturn": "The last return shuttle to Watford Junction departs the Studio Tour when the tour closes — see the opening times calendar for the exact time each day (typically 20:00 on quiet weekdays, 22:00 on busy days).",
+      "preBook": "No pre-booking. You must show a valid Studio Tour ticket or booking confirmation for that date to the Security team member at the bus stop.",
+      "fleet": "Electric buses — the operator describes the journey as carbon-free. Live bus tracker at https://wbstl.liftango.com/home",
+      "accessibility": "Ramp-fitted and wheelchair accessible; one wheelchair per journey.",
+      "restrictions": "E-scooters are not permitted on the shuttle bus or on site.",
+      "unconfirmed": "The operator does not publish which stand or bay at Watford Junction the shuttle leaves from — only 'the bus stop', staffed by their own Security team. Worth confirming on the ground.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/getting-here/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/security/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/wp-content/uploads/2026/02/3011-accessibility-guide-update-2025-3011.pdf", "accessed": "2026-09-12"}
+      ]
+    },
+    "publicBusAlternative": {
+      "route": "Arriva route 20 from Watford Junction (stop 6) serves 'Leavesden Studios (for Warner Bros. Studio Tour)'.",
+      "note": "This is the ordinary public bus, not the free shuttle, and is not promoted by the operator. Listed on National Rail's official Watford Junction onward travel poster.",
+      "source": {"url": "https://assets.nationalrail.co.uk/e8xgegruud3g/wfjOnwardTravelMap/666cd993e155562d89c8edfc835f89c1/Watford_Junction_WFJ.pdf", "accessed": "2026-09-12"}
+    },
+    "goldenTours": {
+      "status": "The Studio Tour's named preferred coach partner. Reached through the operator's own redirect at https://www.wbstudiotour.co.uk/interstitial/redirecting-to-golden-tours/ which lands on the official co-branded site wbstudiotour.gttickets.com.",
+      "departurePoints": [
+        "Victoria — Golden Tours Visitor Centre, Bus Stop 1, Bulleid Way, London SW1W 9SR (what3words ///eager.play.forks)",
+        "Baker Street — 144 Marylebone Road, London NW1 5PH, near Baker Street station (approx. 10 minutes after Victoria, traffic permitting)",
+        "King's Cross — King's Cross Station, Pancras Road, Bus Stop T, London N1C 4TB. Wheelchair users should NOT book a King's Cross departure."
+      ],
+      "products": [
+        {"name": "Studio Tour with Return Transport", "adult": 125.00, "child5to15": 120.00, "duration": "7 hours", "includes": "Return transport on a branded bus + Studio Tour entry ticket. Digital Guide NOT included."},
+        {"name": "Transport Only (return or one-way)", "adult": 45.00, "child5to15": 40.00, "wasAdult": 71.00, "wasChild": 71.00, "duration": "7 hours", "includes": "Transfers only. You MUST already hold your own Studio Tour entry ticket or you will not be allowed on the bus."},
+        {"name": "Studio Tour with Private Return Transport", "perPerson": 315.00, "duration": "7 hours", "includes": "Private transport from a central London location + entry ticket"},
+        {"name": "Studio Tour with VIP Electric Transportation", "perPerson": 149.50, "duration": "7 hours", "includes": "Entry + pick-up and drop-off anywhere within the M25 in a fully electric people carrier + bottle of water. Min 2, max 8 travellers. Food, drink and audio guide excluded."},
+        {"name": "Studio Tour with Transport + 1-day Hop-on Hop-off London Bus Tour", "adult": 154.00, "child5to15": 134.00, "duration": "7 hours", "includes": "Entry + return transport + 1 calendar day hop-on hop-off bus ticket + hotel pick-up. Food and drink excluded."}
+      ],
+      "timetable": "Hourly departures from Victoria matched to Studio Tour entry times. 9am entry departs Victoria 07:30 (check in 07:15), returns to Victoria approx. 14:30. 10am entry departs 08:00. 11am entry departs 09:00. 12pm entry departs 10:00. 1pm entry departs 11:00. 2pm entry departs 12:00. 3pm entry departs 13:00. 4pm entry departs 14:00. 5pm entry departs 15:00. 6pm entry departs 16:00. Each gives roughly 4–6 hours at the Studio Tour. Check in 15 minutes before departure.",
+      "flexibleReturn": "A flexible return ticket lets you take any return bus subject to availability, available on all departures up to 12:00. The last bus back to London leaves the Studio Tour at 20:00.",
+      "warnings": "The bus departs on time and will not wait for latecomers. No toilet on board. Once booked, tickets cannot be cancelled. Infants 2 and under travel free but need a ticket; a transport fee is charged for children aged 3 and 4 because they need a seat. Branded buses are subject to availability — a plain coach may be used at peak times. The first half of Philosopher's Stone is played on the way out, the second half on the way back.",
+      "sources": [
+        {"url": "https://wbstudiotour.gttickets.com/en/warner-bros-harry-potter-studio-tour-london", "accessed": "2026-09-12"},
+        {"url": "https://wbstudiotour.gttickets.com/en/london-warner-bros-studio-tour-london-the-making-of-harry-potter-with-return-transport", "accessed": "2026-09-12"},
+        {"url": "https://wbstudiotour.gttickets.com/en/london-warner-bros-studio-tour-london-the-making-of-harry-potter-transport-only", "accessed": "2026-09-12"}
+      ]
+    },
+    "driving": {
+      "postcode": "WD25 7LR",
+      "what3words": "///stocks.jelly.film",
+      "parkingCost": 0,
+      "parkingDetail": "Free on-site car park directly outside the Studio Tour, a short walk from the entrance. Have your booking confirmation ready to show the Car Parking Team at the entrance — every vehicle needs one, even within a group. You cannot return to the car park until the end of your visit.",
+      "priorityParking": "£10, pre-book online only, bays next to the entrance.",
+      "blueBadge": "Free blue badge bays next to the entrance. Display your badge.",
+      "evCharging": "Pod Point charging stations. You must download the Pod Point Open Charge app and bring your own EV cable. Pod Point is a third-party service under its own terms. EV charging bays are free of charge (i.e. no Priority Parking fee needed to use them).",
+      "dropOff": "Drop-off and pick-up point in the on-site car park. You can drop people before the car park entrance if you are not visiting. Arrive 20 minutes before the time slot for drop-offs. A valid ticket is required for each person entering the car park.",
+      "roadPosition": "Less than three miles from M1 junction 6 and less than three miles from M25 junctions 19 and 20; signposted with brown 'Warner Bros. Studio Tour' signs.",
+      "googleMapsFromCharingCross": "Approximately 50 minutes and 21.7 miles via the M1 (Google Maps flags tolls on this route); alternatives 51 min / 22.1 miles via M1 and A41, or 57 min / 32.5 miles via A40 and M25.",
+      "sources": [
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/getting-here/", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/faqs/getting-here-faqs/", "accessed": "2026-09-12"},
+        {"url": "https://www.google.com/maps/dir/Charing+Cross,+London/Warner+Bros.+Studio+Tour+London", "accessed": "2026-09-12"}
+      ]
+    },
+    "taxi": {
+      "dropOff": "Navigate to WD25 7LR or ///stocks.jelly.film.",
+      "pickUp": "///dame.palace.fairly",
+      "advice": "The operator recommends only pre-booked licensed taxis. The Information Desk in the lobby holds a list of local taxi numbers and a phone you can use. A number of local taxi ranks serve Leavesden.",
+      "source": {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/getting-here/", "accessed": "2026-09-12"}
+    },
+    "elizabethLineAndOverground": {
+      "elizabethLine": "The Elizabeth line does not serve Watford Junction and is not a route to the Studio Tour. Do not offer it as an alternative.",
+      "overground": "The London Overground Lioness line (the old Watford DC line) runs Euston–Watford Junction all stations in 48 minutes for the same £7.20 off-peak / £11.10 peak pay-as-you-go fare. Slower than the fast train but it is the same ticket, so it is a fallback if the fast services are disrupted.",
+      "note": "Watford Underground (Metropolitan line) is a different station roughly 1.5 miles from Watford Junction and is not the shuttle bus pick-up point — the shuttle runs from Watford Junction only.",
+      "sources": [
+        {"url": "https://api.tfl.gov.uk/Journey/JourneyResults/1000077/to/1001317?mode=overground", "accessed": "2026-09-12"},
+        {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/getting-here/", "accessed": "2026-09-12"}
+      ]
+    },
+    "airports": {
+      "note": "Distances given by the operator",
+      "londonLuton": "17 miles",
+      "londonHeathrow": "23 miles",
+      "londonStansted": "47 miles",
+      "londonGatwick": "58 miles",
+      "source": {"url": "https://www.wbstudiotour.co.uk/plan-your-visit/getting-here/", "accessed": "2026-09-12"}
+    }
+  },
+
+  "firstTimerMistakes": [
+    {
+      "mistake": "Turning up without a ticket",
+      "operatorWarning": "All tickets must be pre-booked. You cannot buy at the door, nothing is held back for the day, and you need a valid booking confirmation just to get into the car park. Even the Studio Shop needs a valid ticket for that date.",
+      "source": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/"
+    },
+    {
+      "mistake": "Treating the entry time as flexible",
+      "operatorWarning": "You get a 30-minute window and you may not enter early. Miss it and entry is not guaranteed; at busy times you may have to rebook and pay the £10 fee.",
+      "source": "https://www.wbstudiotour.co.uk/terms-and-conditions/"
+    },
+    {
+      "mistake": "Arriving exactly at the ticketed time",
+      "operatorWarning": "Arrive 20 minutes early — there is a security search, ticket collection and a cloakroom to get through first.",
+      "source": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/"
+    },
+    {
+      "mistake": "Bringing luggage",
+      "operatorWarning": "'We request that you do not bring large or multiple items of baggage.' Suitcases go through baggage scanners.",
+      "source": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/"
+    },
+    {
+      "mistake": "Expecting a theme park",
+      "operatorWarning": "'The Studio Tour isn't a theme park and as such doesn't feature rides or experiences of this nature.' It is a walking tour.",
+      "source": "https://www.wbstudiotour.co.uk/faqs/tour-experience-faqs/"
+    },
+    {
+      "mistake": "Planning to nip back to the car",
+      "operatorWarning": "'The nature of the attraction means that visitors cannot return to the car park until the end of their visit.' One ticket admits you once — leave and you need a new ticket to re-enter.",
+      "source": "https://www.wbstudiotour.co.uk/plan-your-visit/visit-information/"
+    },
+    {
+      "mistake": "Bringing a dog",
+      "operatorWarning": "No pets, and they cannot be left in the car either. Visitors who arrive with a pet will not be admitted and will not be allowed to remain in the car park. Only trained assistance dogs are welcome.",
+      "source": "https://www.wbstudiotour.co.uk/faqs/tour-experience-faqs/"
+    },
+    {
+      "mistake": "Booking travel or a hotel before checking the calendar",
+      "operatorWarning": "'The Studio Tour is occasionally closed for general maintenance or to redress the sets for special events. Please check our opening times calendar before booking transport and/or hotels for your visit.' It is closed 9–13 November 2026 and 25–26 December 2026.",
+      "source": "https://www.wbstudiotour.co.uk/faqs/ticket-information-faqs/"
+    },
+    {
+      "mistake": "Buying from a third party",
+      "operatorWarning": "Tickets from unauthorised third parties, including online auction sites, are not valid for entry. Resale voids the ticket.",
+      "source": "https://www.wbstudiotour.co.uk/terms-and-conditions/"
+    },
+    {
+      "mistake": "Booking a late slot in winter",
+      "operatorWarning": "On 24 and 31 December 2026 the final tour begins at 14:30. On quiet weekdays the final tour begins at 16:00 and the last shuttle bus back to Watford Junction goes at 20:00 — allow 3½ hours from your entry time.",
+      "source": "https://www.wbstudiotour.co.uk/wp-content/uploads/wbstl-calendar-data.json"
+    },
+    {
+      "mistake": "Forgetting a ticket for a toddler",
+      "operatorWarning": "Under-4s are free but each still needs a booked ticket for the time slot. If you forget, phone Visitor Services before the visit.",
+      "source": "https://www.wbstudiotour.co.uk/faqs/ticket-information-faqs/"
+    },
+    {
+      "mistake": "Assuming the paid photo package covers everything",
+      "operatorWarning": "The Digital Photography and Video Package excludes the Hogwarts Express photography opportunity.",
+      "source": "https://www.wbstudiotour.co.uk/plan-your-visit/enhance-your-visit/"
+    },
+    {
+      "mistake": "Assuming the Hogwarts Table meals are in the Great Hall",
+      "operatorWarning": "The Breakfast, Afternoon Tea and Dinner packages explicitly do NOT take place on the Great Hall set. Only the December Dinner in the Great Hall events do.",
+      "source": "https://www.wbstudiotour.co.uk/tickets/afternoon-tea/"
+    },
+    {
+      "mistake": "Being surprised by the effects",
+      "operatorWarning": "Smoke machines, strobe lighting and sudden loud effects are used, notably in the Forbidden Forest and during Dark Arts. Aragog appears in the Forbidden Forest and the Creature Effects area. Ask an Interactor for an alternative route.",
+      "source": "https://www.wbstudiotour.co.uk/faqs/tour-experience-faqs/"
+    },
+    {
+      "mistake": "Arriving before 09:30 expecting to shop",
+      "operatorWarning": "The Studio Shop opens at 09:30 (one page says 10am), so arriving very early for a 09:00 slot means the shop is not yet open.",
+      "source": "https://www.wbstudiotour.co.uk/faqs/tour-experience-faqs/"
+    }
+  ],
+
+  "conflictsInOperatorSources": [
+    "Digital Guide on the day: Enhance Your Visit page says £5.25; the booking flow implies £5.75 ('Save £1' against £4.75) and the operator's Golden Tours partner page states £5.75. Two to one for £5.75.",
+    "Twilight Tours: /tickets/twilight-tours/ says £102.49 per person; the What's On page and tickets landing page say £105. Treat £105 as current.",
+    "Studio Shop opening: Visit Information says the shop opens at 10am; the Tour Experience FAQ says 09:30.",
+    "Dinner in the Great Hall price: the T&Cs write 'two hundred and seventy-five pounds sterling (£285)' — words and figure disagree.",
+    "Family Dinner in the Great Hall minimum child age: the event page says 8–17; the T&Cs say no children under 12 are permitted.",
+    "Nox terms and conditions page still carries the 2025 event text (dates 29–31 October 2025, release 9 July 2025, 16+ age limit) while the event page advertises 29–31 October 2026 and says over-12s only. The £150 price and £80 carer price come from that 2025 T&Cs page and may not be the 2026 figures.",
+    "The Tour Accessibility page repeats the assistance-dogs paragraph under the 'Mobility Vehicles' and 'Seating' headings — those two sections have no real content on the live page."
+  ],
+
+  "unconfirmed": [
+    "How far ahead tickets are released and on what schedule. The operator only publishes 'Tickets currently available until 31st December 2026' and gives no release cadence or next-window date.",
+    "The walk-up price of the Digital Photography and Video Package. The booking flow says you save 'at least £7.50 per person' on £22.50, implying around £30, but no on-the-day price is published.",
+    "The prices charged at the green screen counters for individual printed photos and the various photo packages sold on the day — the operator says only 'available in a variety of packages'.",
+    "Whether a green-screen flying Ford Anglia experience exists. The operator's published green screen experiences are the broomstick flight and the Hogwarts Express carriage only.",
+    "Which stand or bay at Watford Junction the free shuttle bus departs from. The operator says only 'the bus stop', staffed by its Security team.",
+    "Any paid wand lesson. No such product exists in the operator's booking flow; duelling demonstrations in the Defence Against the Dark Arts classroom are free and part of the Dark Arts feature.",
+    "Lockers. The operator advertises a free staffed cloakroom and never mentions lockers.",
+    "The price of Mastering the Magic — the T&Cs say only 'the price listed on the bookings page'.",
+    "Nox 2026 ticket release date and 2026 price — the T&Cs page on the site is the 2025 version.",
+    "Whether prices will differ by date for 2027 dates. Every 2026 date tested charged the same £58.50 adult / £47.00 child.",
+    "Opening times beyond 31 December 2026 — the operator's calendar data file ends there.",
+    "Whether the Congestion Charge or ULEZ applies to the drive; Google Maps flags 'This route has tolls' on the M1 route from Charing Cross but does not itemise which charge."
+  ]
+}

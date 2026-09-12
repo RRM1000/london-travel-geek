@@ -58,6 +58,8 @@ Harry Potter is the most written-about subject in London tourism and the worst w
 
 ## Warner Bros. Studio Tour London — The Making of Harry Potter
 
+> 📍 **There is a full guide to this one:** [The Harry Potter Studio Tour: tickets, extras and how to get there](/articles/harry-potter-studio-tour/) covers every optional extra with its price, the upgrade packages, Butterbeer, the seasonal features and each way of getting there. The short version is below.
+
 The real thing: two soundstages and a backlot of original sets, costumes and props from the eight films, at the studio where they were shot. It is **not a theme park and there are no rides** — the operator says so itself, and people who turn up expecting one are the only unhappy visitors it produces.
 
 **Warner Bros. Studio Tour London, Studio Tour Drive, Leavesden, WD25 7LR.**
