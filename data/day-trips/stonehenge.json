@@ -1,0 +1,210 @@
+{
+  "subject": "Stonehenge as a day trip from London",
+  "checkedAt": "2026-09-12",
+  "method": "English Heritage website and its own propertypricesopeningtimes API, The Stonehenge Tour (Salisbury Reds) website and its DigiTickets shop, National Rail journey planner, Google Maps, and data/day-trips/gyg-inventory.json for GetYourGuide products.",
+  "admission": {
+    "source": "https://www.english-heritage.org.uk/visit/places/stonehenge/prices-and-opening-times/ and https://www.english-heritage.org.uk/api/propertypricesopeningtimes/191605",
+    "note": "Prices are date-banded. The website labels the three bands Standard / Saver / Super Saver; the API calls the same bands Peak / Standard / Off-Peak. Advance online is exactly 15% below the on-the-day price in every band. Every price has a 'with donation' (Gift Aid, +10%) and a 'without donation' version; the figures below are with donation first, without donation second.",
+    "publishedWindow": "2026-09-09 to 2027-03-16",
+    "bands": {
+      "standard_peak": {
+        "whenObserved": "Weekends up to 27 September 2026; also 24 Dec - 3 Jan period weekends and New Year's Day",
+        "adultAdvance": "32.30 / 29.32",
+        "adultOnTheDay": "38.00 / 34.50",
+        "childAdvance": "16.15 / 14.62",
+        "childOnTheDay": "19.00 / 17.20",
+        "family2AdultsUpTo3ChildrenAdvance": "80.75 / 73.35",
+        "family2AdultsUpTo3ChildrenOnTheDay": "95.00 / 86.30",
+        "family1AdultUpTo3ChildrenAdvance": "48.45 / 44.03",
+        "concession": "not offered in this band"
+      },
+      "saver_apiStandard": {
+        "whenObserved": "Weekdays up to 27 September 2026; weekends 28 September - 20 December 2026",
+        "adultAdvance": "29.75 / 27.03",
+        "adultOnTheDay": "35.00 / 31.80",
+        "childAdvance": "14.87 / 13.51",
+        "childOnTheDay": "17.50 / 15.90",
+        "concessionAdvance": "27.20 / 24.65",
+        "family2AdultsUpTo3ChildrenAdvance": "74.37 / 67.57",
+        "family1AdultUpTo3ChildrenAdvance": "44.62 / 40.54"
+      },
+      "superSaver_apiOffPeak": {
+        "whenObserved": "Weekdays 28 September 2026 - 14 March 2027",
+        "adultAdvance": "27.20 / 24.65",
+        "adultOnTheDay": "32.00 / 29.00",
+        "childAdvance": "13.60 / 12.32",
+        "childOnTheDay": "16.00 / 14.50",
+        "concessionAdvance": "24.65 / 22.35",
+        "family2AdultsUpTo3ChildrenAdvance": "68.00 / 61.79",
+        "family1AdultUpTo3ChildrenAdvance": "40.80 / 37.06"
+      }
+    },
+    "membersFree": true,
+    "nationalTrustEnglandMembersFree": "Yes, free entry; book online with code G03ANZ and bring the NT card plus photo ID. England only.",
+    "refugeeOrDisplacedStatus": "Free entry to English Heritage sites.",
+    "advanceDeadline": "Book online until midnight the day before to get the advance price.",
+    "timedTickets": "The prices page says tickets are valid all day and you can arrive any time within opening hours. The booking flow still issues an arrival time slot, and the FAQ covers being more than half an hour late for it; the shuttle bus is not tied to the slot. Time-of-day pricing also applies - later slots can be cheaper.",
+    "whatIsIncluded": "Stone circle, shuttle bus from the visitor centre, the exhibition (250+ objects, the reconstructed face of a 5,500-year-old man), the Neolithic houses, free orientation leaflet. The audio tour is a free download to your own phone - bring headphones. Guidebook is extra.",
+    "parking": "GBP 4 for non-members. The plan-your-visit page names the RingGo app; the prices page names Pay By Phone. Members and associated members (CSSC, NT England, CADW, Historic Scotland) park free.",
+    "openingHours": {
+      "dailyThroughTo2027-03-16": "09:30 - 17:00, seven days a week",
+      "summer": "Facilities close at 19:00 in June, July and August per the FAQ, so the site closes at 19:00 in those months",
+      "lastAdmission": "Two hours before the advertised closing time",
+      "lastTicketSold": "14:30, or 16:30 in June/July/August",
+      "closures": "Christmas Day 2026 only. Open 09:30-17:00 on Christmas Eve, Boxing Day, New Year's Eve and New Year's Day.",
+      "solsticeNote": "English Heritage notes that opening times on the summer solstice (21 June) and the winter solstice (22 December 2026) are subject to change."
+    },
+    "phone": "0370 333 1181",
+    "address": "Near Amesbury, Wiltshire, SP4 7DE"
+  },
+  "stoneCircleExperience": {
+    "source": "https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/stone-circle-access-visits/",
+    "what": "One hour, early morning or evening, outside normal visiting hours. Guided; you go inside the circle. Two groups, guided tour of the inside of the circle plus the surrounding landscape (Slaughter Stone, Heel Stone). No standing on or touching the stones.",
+    "capacity": "Maximum 52 people per session, split into two groups of 26 at the stones.",
+    "price": "From GBP 70 adult (18+), from GBP 40 child 5-17, under 5 free. English Heritage member discounts available.",
+    "bookingWindow": "Now booking to March 2027 (as at 12 September 2026).",
+    "blackout": "No Stone Circle Experiences in October or November.",
+    "timings": "Be ready to board the shuttle bus 10 minutes before the session start. Morning sessions: cafe open 09:00, exhibition from 09:30. Evening sessions: on site one hour before the site closes to day visitors; 5pm close means arrive by 4pm, 6pm close means arrive by 5pm. 28 March - 21 September the visitor centre closes at 18:00.",
+    "private": "Meditation, yoga or handfasting must be a private booking of the whole session - call 0370 333 1181.",
+    "accessNeeds": "Call 0370 333 1181.",
+    "notVerified": "How far ahead sessions actually sell out - English Heritage publishes only 'very limited availability' and the booking window."
+  },
+  "solsticeAndEquinox": {
+    "summerSolstice2026": {
+      "source": "https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/solstice/summer-solstice-2026/",
+      "dates": "Free access Saturday 20 - Sunday 21 June 2026",
+      "carPark": "Opened 19:00 on 20 June; last parking admission 04:15; vacate by 12:00 on 21 June. Parking had to be pre-booked and sold out. Accessible blue-badge parking was GBP 25 per vehicle pre-booked.",
+      "sun": "Sunset 21:26 on 20 June, sunrise 04:52 on 21 June",
+      "transport": "Salisbury Reds ran special services from Salisbury rail station and Salisbury city centre (New Canal) via Amesbury. Walk from the visitor centre to the stones 25-30 minutes, about 1.25 miles / 2km, uneven National Trust downland; shuttle bus also ran with priority boarding for accessibility needs.",
+      "conditions": "No touching or climbing the stones. No drugs or alcohol. No drones, glass, bladed items, naked flames, sleeping bags or tents, amplified music, pets other than assistance dogs. Bags limited to about 30 x 25 x 15cm. Take rubbish home.",
+      "tourBus": "The Stonehenge Tour finished early on Saturday 20 June (last from Salisbury 12:05, last from Stonehenge 14:55) and did not run at all on Sunday 21 June.",
+      "notVerified": "The standard (non-blue-badge) solstice car park charge - the page only said parking had sold out."
+    },
+    "autumnEquinox2026": {
+      "source": "https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/autumn-equinox/",
+      "date": "Wednesday 23 September 2026, free managed open access",
+      "timings": "Car park entry 05:15, monument field opens as soon as light allows, sunrise approx 06:54, open access ends 08:30, vacate the car park by 10:00",
+      "transport": "No public transport operates for the equinox. Car, taxi, bicycle, motorcycle or on foot. Roads stay open as normal.",
+      "notVerified": "Whether an equinox car park charge applies - the page does not state one."
+    },
+    "winterSolstice2026": "22 December 2026, per the opening-times note. Free access is English Heritage's pattern but the 2026 winter page was not published at the time of checking."
+  },
+  "onSite": {
+    "shuttle": "Visitor shuttle from outside the shop, no pre-booking, every few minutes, 5-10 minutes to the stones. Stops at Fargo Plantation roughly halfway so you can walk part of the way. Fully wheelchair accessible; Class 2 mobility scooters fit, max 600mm wide by 1000mm long. Dogs other than assistance dogs not allowed on it.",
+    "walking": "A marked route across National Trust open-access land past Bronze Age burial mounds. 25-40 minutes each way depending on pace. Round trip from the visitor centre and back is about 2.6 miles / 4km, much of it fields and unmade paths. A dedicated walker's lane on the left of the bus road on the return.",
+    "atTheStones": "One-way visitor path all the way around, hard-standing and grass; closest approach about 5m. No shelter, no toilets at the stones. You can stay as long as you like.",
+    "accessibility": "22 accessible parking bays; set-down in the accessible bays 100m from the visitor centre. Two wheelchairs loaned free, first come first served at the admissions tills; mobility scooter loan. Path from the bus stop to the circle about 200m, suitable for wheelchairs with a slight gradient. Grass paths around the monument wheelchair accessible weather permitting. The wider landscape is not accessible to standard wheelchairs. Carer or companion free - book their place online or say so on arrival. Braille guides and signage, induction loops on all audio items and tills, subtitles and BSL on spoken exhibits, audio described tour, tactile objects plus two touching stones by the Neolithic houses, Changing Places facility (bring a RADAR key).",
+    "howLong": "English Heritage publishes three itineraries: Stonehenge in two hours, half a day, and a full day taking in historic Wiltshire.",
+    "security": "Bag searches and hand-held body scans possible on arrival. No cloakroom or left luggage. Penknives and scissors not permitted.",
+    "dogs": "Assistance dogs everywhere. Other dogs at the visitor centre only - not the stone circle field, not the grazed National Trust land, not the shuttle bus.",
+    "food": "Cafe at the visitor centre: grab-and-go hot and cold, pasties, soup, hot-pots, Marshfield ice cream, English beer and fruit wines, vegan and free-from options, children's pick-and-mix lunch boxes. Picnics allowed. Baby changing and microwaves for warming milk."
+  },
+  "gettingThereWithoutATour": {
+    "train": {
+      "source": "National Rail journey planner, searched 12 September 2026 for Tuesday 15 September 2026",
+      "route": "London Waterloo to Salisbury, direct, twice an hour, 1h23 to 1h30",
+      "outboundLowestSingles": "GBP 16.40 to GBP 36.60 depending on departure; GBP 23.30 on the 10:20, GBP 20.60 on the 10:50",
+      "sameDayLowestReturns": "GBP 32.80 to GBP 53.00 depending on outbound train",
+      "eveningReturnSingles": "GBP 23.30 to GBP 32.30 on departures from Salisbury between 18:26 and 20:26",
+      "salisburyToBathSpa": "Direct, hourly, 54 to 57 minutes, from GBP 23.50 single",
+      "notVerified": "The named walk-up Off-Peak Day Return fare for Waterloo to Salisbury. The National Rail planner would not advance past journey selection and brfares.com would not render its fares table."
+    },
+    "stonehengeTourBus": {
+      "source": "https://www.thestonehengetour.info/ and https://gosouthcoast.digitickets.co.uk/tickets?branches.branchID=799, checked 12 September 2026",
+      "operator": "Salisbury Reds (Go South Coast)",
+      "route": "Hop-on hop-off from Salisbury rail station forecourt and Salisbury New Canal Stand U, to Stonehenge, returning via Old Sarum. Commentary in 10 languages.",
+      "journeyTime": "About 35 minutes Salisbury rail station to Stonehenge; 40 minutes back via Old Sarum. Whole loop about 1h11.",
+      "prices": {
+        "busOnly": "Adult GBP 20.50, child 5-15 GBP 14.00, family 2+3 GBP 55.00 - return, valid all day, hop on and off",
+        "busPlusOldSarumPlusStonehenge": "Adult GBP 43.50, child GBP 29.00, family GBP 131.00",
+        "busPlusOldSarumPlusStonehengePlusSalisburyCathedral": "Adult GBP 53.00, child GBP 37.00, family GBP 155.00"
+      },
+      "includesAdmission": "Only on the combined tickets. The bus-only ticket does not include Stonehenge entry. The combined ticket includes the Stonehenge visitor shuttle and means you do not need to book a time slot. Cathedral entry on the all-in ticket is valid for 48 hours after the tour date. The Stonehenge audio tour is not included.",
+      "timetableWinterFrom2026-09-07": {
+        "fromSalisburyRailStation": ["10:05", "11:05", "12:05", "13:05", "14:05"],
+        "arriveStonehenge": ["10:40", "11:40", "12:40", "13:40", "14:40"],
+        "departStonehenge": ["10:55", "11:55", "12:55", "13:55", "14:55", "16:05", "17:15"],
+        "arriveSalisburyRailStation": ["11:29", "12:29", "13:29", "14:29", "15:29", "16:39", "17:35"]
+      },
+      "timetableSummer2026-03-28_to_2026-09-06": {
+        "fromSalisburyRailStation": ["10:05", "11:05", "12:05", "13:05", "14:05", "15:05"],
+        "departStonehenge": ["10:55", "11:55", "12:55", "13:55", "14:55", "15:55", "17:05", "18:15"],
+        "arriveSalisburyRailStation": ["11:29", "12:29", "13:29", "14:29", "15:29", "16:29", "17:39", "18:35"]
+      },
+      "buyingOn": "Online, at Salisbury rail station, at Salisbury Tourist Information Centre, or from the driver - over GBP 100 must be cash.",
+      "operatorAdvice": "Allow about five hours for Stonehenge plus Old Sarum plus the Cathedral.",
+      "phone": "01202 338420"
+    },
+    "taxi": "Available at Salisbury station. Stonehenge is 12 miles / 19km from Salisbury.",
+    "realisticTotals": {
+      "oneAdultWinterWeekday": "Advance return from Waterloo roughly GBP 33-40, plus the combined bus-and-admission ticket at GBP 43.50, so roughly GBP 77-84 all in - and the bus is the constraint, not the train.",
+      "twoAdultsTwoChildren": "Family combined bus-and-entry ticket GBP 131.00 plus four rail fares.",
+      "doorToDoor": "Google Maps gives 2h36 Charing Cross to Stonehenge by public transport. Realistically 3 to 3.5 hours each way once you include the wait for the bus at Salisbury.",
+      "whyMostPeopleTakeACoach": "The winter bus timetable has only five outbound journeys, all between 10:05 and 14:05, and the last one back leaves Stonehenge at 17:15. Miss a connection and the day collapses. A coach tour from London is one booking, one vehicle and a fixed return."
+    }
+  },
+  "driving": {
+    "source": "Google Maps and English Heritage, 12 September 2026",
+    "londonToStonehenge": "88.7 miles, 2h11 from Charing Cross via M3 and A303 (tolls on that routing); 95.2 miles, 2h15 via M4. English Heritage says about 2 hours from central London. Sat nav SP4 7DE.",
+    "parking": "GBP 4 for non-members, paid by app."
+  },
+  "combining": {
+    "bath": {
+      "byCar": "33.7 miles, 56 minutes via B390 and A36; 40.7 miles, 1h03 via A303 and A36",
+      "byPublicTransport": "1h55 Stonehenge to Bath Spa (bus plus GWR); Salisbury to Bath Spa is direct, hourly, 54-57 minutes from GBP 23.50",
+      "verdict": "The standard combined coach day, 11 hours door to door on GYG product 61147. Works, but Bath gets about 3 hours and the Roman Baths entry is extra on that product."
+    },
+    "salisbury": {
+      "distance": "12 miles / 19km, about 25 minutes; the tour bus returns via Old Sarum",
+      "verdict": "The natural pairing if you go by train, and the one the bus ticket is built around. Old Sarum plus the Cathedral plus Stonehenge is the operator's own five-hour suggestion."
+    },
+    "windsor": {
+      "byCar": "68.1 miles, 1h17 via A303 and M3",
+      "verdict": "Geographically on the way home, but Windsor Castle wants 1.5 to 2 hours of its own and is shut Tuesdays and Wednesdays. The cheap combined coach products make both admissions optional extras."
+    }
+  },
+  "getYourGuide": {
+    "sourceFile": "data/day-trips/gyg-inventory.json",
+    "widgetIds": "219849,16096,61147",
+    "why": "These are the only high-volume Stonehenge products whose pages list the entry ticket in the includes without an 'if option selected' clause.",
+    "products": [
+      {
+        "id": 219849,
+        "title": "From London: Stonehenge Morning Day Trip with Admission",
+        "price": "GBP 66",
+        "duration": "6h 30m",
+        "rating": 4.8,
+        "reviews": 3952,
+        "departurePoint": "Outside the Lycee Francais, 29-35 Cromwell Road SW7 2DG, South Kensington"
+      },
+      {
+        "id": 16096,
+        "title": "From London: Stonehenge Half-Day Trip",
+        "price": "GBP 69.30",
+        "duration": "6 hours",
+        "rating": 4.5,
+        "reviews": 2128,
+        "departurePoint": "Varies by option"
+      },
+      {
+        "id": 61147,
+        "title": "From London: Stonehenge and Bath Day Trip with Entry Ticket",
+        "price": "GBP 85",
+        "duration": "11 hours",
+        "rating": 4.8,
+        "reviews": 3158,
+        "departurePoint": "Opposite Gloucester Road Underground station, outside the Stanhope Arms, SW7 4SS; departs 07:00",
+        "note": "Roman Baths entry is excluded"
+      }
+    ],
+    "conditionalEntryTrap": "Of 23 product pages opened during the inventory research, 10 named an attraction in the title and then made its entry an 'if option selected' paid extra, between them holding about 22,000 reviews. Stonehenge is the worst-affected destination: the cheapest Stonehenge-and-Bath coach seat on the platform has a page 'from' price of GBP 27 that buys transport to the car park and nothing else. Do not use data-gyg-q for this destination.",
+    "doorPriceBaseline": "Stonehenge Admission Ticket sold on GetYourGuide at the destination, GBP 27.20, 4.6 from 7,014 reviews."
+  },
+  "notVerified": [
+    "The named walk-up Off-Peak Day Return fare, London Waterloo to Salisbury",
+    "How far ahead the Stone Circle Experience sells out",
+    "The standard solstice car park charge (the 2026 page showed only sold-out status and the GBP 25 blue-badge rate)",
+    "Whether the autumn equinox car park carries a charge",
+    "Winter Solstice 2026 access arrangements - the page was not published at the time of checking"
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "subject": "Bath as a day trip from London",
+  "checkedAt": "2026-09-12",
+  "method": "Primary sources only, fetched with curl using a browser user-agent, plus the Browser pane for GetYourGuide product pages (which 403 curl) and for DuckDuckGo lookups. National Rail fares read off ojp.nationalrail.co.uk/service/timesandfares, which renders without JavaScript.",
+  "gettingThere": {
+    "train": {
+      "route": "London Paddington to Bath Spa, Great Western Railway, direct",
+      "journeyTime": "1h15 fastest direct (the 09:30 Paddington departure, arriving 10:45, checked for Tue 15 Sep 2026); evening direct services run 1h22-1h28",
+      "offPeakReturn": "GBP 75.90, walk-up Off-Peak Return, quoted for travel on 15 September 2026 booked 12 September 2026",
+      "offPeakSingle": "GBP 40.50",
+      "advanceSingles": "GBP 22.60 out and GBP 25.00 back for Tue 13 October 2026 booked 12 September 2026, so GBP 47.60 for the round trip against GBP 75.90 walk-up - about GBP 28, or 37%, cheaper",
+      "cheapestSameDay": "GBP 29.40 single, but that is the 09:44 routed via Waterloo and Salisbury, 3h26 with two changes",
+      "walkFromStation": "Under 10 minutes from Bath Spa to the Roman Baths (romanbaths.co.uk/visit)",
+      "oysterContactless": "Not checked. Bath Spa is far outside the TfL pay-as-you-go area.",
+      "source": "https://ojp.nationalrail.co.uk/service/timesandfares/PAD/BTH/..."
+    },
+    "lastTrainsBack": {
+      "weekday": "Bath Spa 23:05, arrives Paddington 00:39 (direct). Previous direct 22:13, arrives 23:59. Checked for Tue 13 October 2026.",
+      "saturday": "Bath Spa 22:45, arrives 00:24 (direct). Checked for Sat 17 October 2026.",
+      "sunday": "Bath Spa 22:41, arrives 00:15 (direct). The next service after it, the 23:35, takes 6h54 with a change and arrives 06:29. Checked for Sun 18 October 2026.",
+      "sundayMornings": "On the Sundays checked (20 and 27 September, 18 October 2026) the first departures after 09:30 ran 1h49-1h51 with a change; the first direct train was around 10:28-10:32 taking 1h20. One Sunday also showed a 2h56 option with two changes."
+    },
+    "coach": {
+      "operator": "National Express service 403",
+      "route": "London Victoria Coach Station to Bath Spa Bus Station, Dorchester Street, 1 minute from Bath Spa rail station",
+      "frequency": "up to 10 times a day",
+      "fastestJourney": "2h50",
+      "fare": "from GBP 5.40 one way, price includes a GBP 1.50 booking fee (no fee when logged into My Account on the site or app). Fares stated correct 13.07.2026 for travel 13.07.2026-09.11.2026.",
+      "firstLast": "first 07:00 from Victoria arriving 10:00; last 22:30 arriving 01:20",
+      "distance": "190km approx by road",
+      "source": "https://www.nationalexpress.com/en/destinations/bath/london-to-bath"
+    },
+    "driving": {
+      "distance": "Bath is 100 miles (160km) west of London (Roman Baths' own figure); 10 miles from M4 Junction 18 via the A46",
+      "driveTime": "NOT VERIFIED - no primary source checked",
+      "parkAndRide": "Three sites, all outside the Clean Air Zone: Lansdown (service 31, to Milsom Street), Newbridge (21, to Westgate Buildings), Odd Down (41 and 4, to SouthGate and the RUH). Parking free at most sites; you pay the bus fare only. Bus fares NOT VERIFIED.",
+      "cityCentre": "Charlotte Street is the long-stay car park with no height restriction, recommended for vans, motorhomes and campervans; open 24 hours, no maximum stay, MiPermit cashless. Its tariff table returned 'No data' on the council page. On-street charges apply every day 08:00-19:00; free outside those hours and on bank holidays. Motorcycles free in designated bays.",
+      "sources": [
+        "https://www.bathnes.gov.uk/find-car-parks-bath",
+        "https://www.bathnes.gov.uk/node/50",
+        "https://travelwest.info/park-ride/bath"
+      ]
+    },
+    "cleanAirZone": {
+      "class": "Class C charging clean air zone covering the city centre, 7 days a week, midnight to midnight, all year",
+      "notCharged": "Cars and motorbikes are NOT charged, whatever their emissions - this includes M1 cars, SUVs, four-by-fours and campervans with the M1 category, cars with a historical vehicle tax class, PLG-class cars registered before 1 March 2001, and most motorcycles, even when used for work",
+      "charged": [
+        "Taxis and private hire vehicles (M1 car or M2 minibus), Euro 1-5/V diesel or Euro 1-3 petrol or earlier: GBP 9 a day",
+        "Minibuses (M2), same emission standards: GBP 9 a day",
+        "Vans, light goods vehicles, pick-ups and some campervans and four-by-fours (N1 under 3.5 tonnes, or PLG vans registered before 1 March 2001): GBP 9 a day",
+        "Coaches and buses (M3), Euro 1-5/V diesel or Euro 1-3 petrol or earlier: GBP 100 a day",
+        "Trucks and lorries (N2 over 3.5t, N3 over 12t): GBP 100 a day",
+        "Private heavy goods vehicles such as horse transporters and motorhomes (PHGV): GBP 100, reduced to GBP 9 if registered with the council"
+      ],
+      "trap": "Some SUVs, four-by-fours and campervans are registered as N1 rather than M1 and are therefore chargeable; the council tells drivers to check the registration on the GOV.UK vehicle checker",
+      "checkAndPay": "https://www.gov.uk/clean-air-zones",
+      "sources": [
+        "https://www.bathnes.gov.uk/baths-clean-air-zone",
+        "https://www.bathnes.gov.uk/find-out-bath-clean-air-zone-charges"
+      ]
+    }
+  },
+  "romanBaths": {
+    "advancePrices_1Sep_31Oct2026": {
+      "note": "Advance prices. Tickets bought on the day cost GBP 2 more per ticket. Bank holiday pricing may vary.",
+      "adult19plus": { "weekday": 26.5, "weekend": 29.0 },
+      "student": { "weekday": 25.5, "weekend": 28.0 },
+      "senior65plus": { "weekday": 25.5, "weekend": 28.0 },
+      "child6to18": { "weekday": 19.5, "weekend": 22.0 },
+      "family2adults2to4children": { "weekday": 69.0, "weekend": 77.0 },
+      "family2adults1child": { "weekday": 63.0, "weekend": 70.0 },
+      "family1adult2to4children": { "weekday": 51.0, "weekend": 57.0 }
+    },
+    "advancePrices_November2026": {
+      "adult19plus": { "weekday": 23.5, "weekend": 26.5 },
+      "child6to18": { "weekday": 16.5, "weekend": 19.5 },
+      "family2adults2to4children": { "weekday": 59.0, "weekend": 69.0 }
+    },
+    "advancePrices_December2026": {
+      "adult19plus": { "weekday": 26.5, "weekend": 29.0 },
+      "child6to18": { "weekday": 19.5, "weekend": 22.0 },
+      "family2adults2to4children": { "weekday": 69.0, "weekend": 77.0 }
+    },
+    "pricingPattern": "Prices differ both by day of week (weekday versus weekend/bank holiday) and by season: November is the cheapest month checked, December returns to the September-October level.",
+    "openingHours": "Autumn hours 1 September - 31 October 2026: daily 09:00-18:00, last admission 17:00. Open every day except Christmas Day and Boxing Day. Hours for other seasons are not published on the site.",
+    "timedEntry": "Yes. Every ticket carries an allocated time slot and you cannot join the queue or enter without one. Allow up to 15 minutes for entry from the booked slot. Tickets often sell out in advance, especially in summer; the museum recommends booking at least 24 hours ahead. Non-refundable, but the date and time can be changed before the visit by phone or email, subject to availability.",
+    "audioGuide": "Included in the price, 13 languages (English, Dutch, French, German, Ukrainian, Italian, Japanese, Korean, Mandarin, Polish, Portuguese, Russian, Spanish). Children's audio guide narrated by Michael Rosen in English, French, Ukrainian, German and Mandarin. Hand-held BSL video guide and an enhanced audio-description guide free. You can bring your own headphones. A new audio guide includes spoken Latin recorded with Sir Stephen Fry.",
+    "howLong": "The museum recommends 90 minutes to 2 hours. It warns that the last slots of the day may not be long enough to see everything.",
+    "included": "Audio guide, plus a taste of the spa water.",
+    "guidedTours": "Shared one-hour tours from the Great Bath hourly 10:00-15:00 daily, GBP 8 per person on top of admission, free for under-6s, maximum 16 people. Private tours daily at 11:00 and 15:00, up to 10 people, GBP 80 per tour on top of admission.",
+    "otherRules": "No re-entry (one-way route). Threat-detection screening and possible bag search on arrival. Backpacks up to 30 litres only; no luggage storage on site. Water in a sealed bottle only. Pushchairs must be left in the reception hall. Assistance dogs only. Guidebook GBP 7. Children's activity book GBP 5.",
+    "concessions": "GBP 1 tickets for UK visitors on Universal Credit, Pension Credit or ESA. Free for Discovery Card holders and for full-time students at Bath Spa University, University of Bath and Bath College with ID. Free carer or companion ticket. Blue Peter badge holders free. Under-6s free but must be reserved.",
+    "saverTicket": "NOT FOUND. There is no joint or saver ticket with the Fashion Museum (closed, reopening 2030) or the Victoria Art Gallery. The only thing covering both is the residents' Discovery Card, which gives free entry to the Roman Baths and the Victoria Art Gallery.",
+    "sources": [
+      "https://www.romanbaths.co.uk/tickets",
+      "https://www.romanbaths.co.uk/tickets/2026-11-november",
+      "https://www.romanbaths.co.uk/tickets/2026-12-december",
+      "https://www.romanbaths.co.uk/visit",
+      "https://www.romanbaths.co.uk/faqs-rb"
+    ]
+  },
+  "thermaeBathSpa": {
+    "thermaeWelcome": "2-hour spa session with towel and robe: GBP 44 Monday-Friday, GBP 49 Saturday-Sunday. Gives access to the open-air Rooftop Pool, the indoor Minerva Bath, the Wellness Suite (infrared room, Celestial Relaxation Room, ice chamber, two aroma steam rooms) and the Springs Cafe.",
+    "minimumAge": "16 for admission to the main spa, 18 for treatments. Adults-only spa.",
+    "booksOut": "Only a limited number of Thermae Welcome slots are pre-bookable. Additional walk-in slots are released on the day, first come first served, run as a virtual queue until the day's capacity is reached; the spa says these are very popular and recommends arriving early.",
+    "openingHours": "Main spa 09:00-21:30, pools and Wellness Suite close 21:00, every day except Christmas Day, Boxing Day and New Year's Day (09:00-20:00, pools close 19:30, on Christmas Eve and New Year's Eve).",
+    "twilightPackage": "GBP 60 for one, GBP 100 for two - the two-person price flagged as a special offer for Monday-Thursday in September, full price on Monday and Friday. Includes a 2-hour spa session each plus a sharing platter with a seasonal side and one glass of wine, beer, juice or water each in the Springs Cafe. Monday-Friday excluding bank holidays, entry from 15:00 with last full entry 18:00. Phone booking only on 01225 33 1234. The spa warns Friday evenings are very popular.",
+    "crossBath": "Separate open-air thermal bath. 90-minute sessions Tuesdays only at 10:00, 12:00, 14:00, 16:00 and 18:00, GBP 40 per person including towel and robe, booked by phone. Under-12s not permitted; 12-15 must be accompanied 1:1. Exclusive hire for up to 10 people GBP 800 Monday-Friday, GBP 1,000 weekends.",
+    "spaPackages": "Treatment packages GBP 130-GBP 190 Sunday-Friday (Renew & Nourish GBP 130; Thermae Unwind, Retreat, Serenity and Swedish Cryo Globe GBP 145; Lava Shells and Classic Thermae GBP 160; Thermae Indulgence and Radiance GBP 190), Saturday GBP 160 (Saturday Special, Thermae Refresh). 'Time for Two' GBP 300 Monday-Thursday, GBP 320 Friday-Sunday. All booked by phone.",
+    "amendments": "Date or time changes GBP 5 each with 24 hours' notice; cancellation carries a GBP 10 admin charge.",
+    "sources": [
+      "https://www.thermaebathspa.com/spa-sessions-new-royal-bath",
+      "https://www.thermaebathspa.com/opening-times",
+      "https://www.thermaebathspa.com/news-info/FAQs",
+      "https://www.thermaebathspa.com/treatments/spapackages/package/twilight/",
+      "https://www.thermaebathspa.com/cross-bath/swim-sessions"
+    ]
+  },
+  "bathAbbey": {
+    "admission": "Abbey and Discovery Museum: adult GBP 9.00, student GBP 7.50 with valid ID, child 5-15 GBP 5.00, families 10% discount for one or two adults with accompanying children. Free for Discovery Card holders and BA1/BA2 residents with card or proof of address. Carers free.",
+    "towerTour": "Adult GBP 18.00, student GBP 15.00, child 5-15 GBP 12.00. Includes the guided tower tour plus the Abbey floor and Discovery Museum, so you do not buy both tickets. Runs Monday-Saturday subject to availability. No under-5s; 5-15s must be accompanied. No bags up the tower. Not advised for poor mobility, claustrophobia or vertigo. Sensible closed footwear required - no flip flops, heels or sandals.",
+    "audioGuide": "GBP 3.50, 'The Highlights of Bath Abbey' in English, French, Spanish, German and Italian, or 'Memorials & Empire' in English. Downloaded to your phone on arrival.",
+    "openingTimes": "Monday-Friday 10:00-17:30, Saturday 10:00-18:00, Sunday 13:00-15:30. Last entry 30 minutes before closing. Shop Monday-Saturday 10:00-17:30, Sunday 11:00-15:30.",
+    "closures2026": "5 September closing 17:00; 8 September opening 11:00; 12 September closed 12:00-14:30; 2 October closed until 13:30; 19 October closed; 22 October closed for visiting but tower tours and shop running; 8 November closed for Remembrance services.",
+    "note": "Admission was reduced for the summer period 25 June - 1 September 2026 following the VAT announcement, per the Abbey's own notice.",
+    "sources": [
+      "https://www.bathabbey.org/visiting/opening-times-getting-here-parking/",
+      "https://www.bathabbey.org/visiting/tours/"
+    ]
+  },
+  "no1RoyalCrescent": {
+    "admission": "Adult GBP 16.00, concessions GBP 14.50, under-18s free with an accompanying adult at a maximum of one adult to four children. Temporary exhibition GBP 7 on its own or GBP 2.50 added to main entry. 25% off for Discovery Card holders with code DISCOVERY26; 50% off for Art Fund members with ARTFUND26.",
+    "reuse": "A ticket can be reused for free entry for up to 12 months for the named holder - bring the original ticket.",
+    "openingTimes": "31 January 2026 to 3 January 2027: Tuesday-Sunday 10:00-17:30, last entry 16:30. Closed Mondays except during local school holidays and bank holidays. Closed 16-28 November and 25-26 December 2026.",
+    "booking": "Tickets available on the door but online booking recommended to secure a time slot. Released on a scheduled basis, so slots more than two months out may not show.",
+    "access": "No prams or buggies through the house.",
+    "location": "No 1 Royal Crescent, Bath BA1 2LR, 15-20 minutes' walk from Bath Spa station, 10 minutes from the city centre. Nearest car park Charlotte Street, 5 minutes' walk, with a possible 4-hour minimum stay.",
+    "history": "No.1 is Grade I listed, built to designs by John Wood the Younger between 1767 and 1772. It is the first house in the Royal Crescent, a Bath stone crescent of thirty houses built 1767-75. The Circus, by his father John Wood the Elder, was built 1754-69; Queen Square 1729-34.",
+    "sources": [
+      "https://no1royalcrescent.org.uk/visit/",
+      "https://no1royalcrescent.org.uk/about/history/"
+    ]
+  },
+  "janeAustenCentre": {
+    "prices": "Adult online GBP 18, child GBP 9.95, concessions (students and over-60s) GBP 16.30, small family (1 adult + up to 3 children) GBP 30.45, family (2 adults + up to 3 children) GBP 40.95, carer free with a full-price ticket. Prices include booking fees. Pre-booking highly recommended.",
+    "openingHours": "Spring (5 April - 30 June) daily 09:45-17:30; Summer (1 July - 21 September) daily 09:45-18:00; Autumn (22 September - 2 November) daily 10:00-17:30; Winter (3 November - 4 April) Sunday-Friday 10:00-16:30, Saturday 10:00-17:30. Last entry one hour before closing.",
+    "address": "40 Gay Street, Bath BA1 2NT",
+    "alsoHas": "Regency Tea Room on site, and character actors in the exhibition.",
+    "source": "https://janeausten.co.uk/pages/jane-austen-centre-in-bath"
+  },
+  "fashionMuseum": {
+    "status": "Temporarily closed, reopening in 2030 in a new building in the centre of Bath. The collection is touring as 'Fashion Unpacked: A Mini Museum on the Move'.",
+    "source": "https://www.fashionmuseum.co.uk/"
+  },
+  "victoriaArtGallery": {
+    "upperGallery": "Free, permanent collection, ticket bookable in advance, about 45 minutes to an hour",
+    "ticketedExhibitions": "Until 19 Nov 2026: adult GBP 9.00, student GBP 8.50, senior GBP 8.50, child 6-18 GBP 4.00, under-6 free, family 2+4 GBP 20.50, family 1+4 GBP 14.50. From 20 Nov 2026: adult GBP 10.00, student/senior GBP 9.50, child GBP 5.00, family 2+4 GBP 22.50, family 1+4 GBP 15.00. Art Fund members 50% off. Carer free.",
+    "source": "https://www.victoriagal.org.uk/tickets-prices"
+  },
+  "bathWorldHeritageCentre": {
+    "admission": "Free",
+    "hours": "Daily 10:00-17:00, closed 25 and 26 December",
+    "source": "https://www.bathworldheritage.org.uk/visit-bath-world-heritage-centre"
+  },
+  "priorPark": {
+    "operator": "National Trust",
+    "prices": "From 1 March 2026: adult GBP 12.00 (GBP 13.20 with Gift Aid), child 5-17 GBP 6.00 (GBP 6.60), family 2 adults + up to 3 children GBP 30.00 (GBP 33.00), 1 adult + up to 3 children GBP 18.00 (GBP 19.80). Under-5s free. No pre-booking needed.",
+    "hours": "Garden and Tea Cabin 10:00-16:00 on 12 September 2026",
+    "getting there": "No onsite parking at all, and none at Prior Park College which shares the postcode; limited accessible parking by prior phone call on 01225 833422. Prior Park College has limited paid parking on Sundays only, not National Trust. Bus 2 from Dorchester Street / North Parade stops in front of the entrance gate, every 10 minutes Monday-Saturday and every 20 minutes Sunday. Bath Spa station 1 mile; the walk to the main entrance is 1 mile and very steep uphill from the rear of the station.",
+    "address": "Ralph Allen Drive, Bath BA2 5AH",
+    "note": "One of only four Palladian bridges in the world",
+    "source": "https://www.nationaltrust.org.uk/visit/bath-bristol/prior-park-landscape-garden"
+  },
+  "bathSkyline": {
+    "cost": "Free. No National Trust car park on the Skyline.",
+    "walks": "A 6-mile (9.6km) circular walk through meadows, woodland and farmland; a 3-mile circular from the city centre out to the Skyline; and a 2-mile accessible circular around Claverton Down.",
+    "start": "Closest point to the centre is Bathwick Fields, 0.9 miles from Bath Abbey; the start of the walk is 0.8 miles (1.3km) from Bath Spa station. Bus U1 or U18 from Bath bus station / Dorchester Street, alight at Cleveland Walk on Bathwick Hill.",
+    "note": "Sheep and cattle graze parts of the route; dogs on leads through livestock fields.",
+    "source": "https://www.nationaltrust.org.uk/visit/bath-bristol/bath-skyline"
+  },
+  "pulteneyBridge": {
+    "facts": "Grade I listed, designed by Robert Adam from 1769 to 1774 for William Johnstone Pulteney, with shops on both sides. Free to walk across.",
+    "source": "https://historicengland.org.uk/local/locations/bath-and-north-east-somerset/"
+  },
+  "nationalRail2for1": {
+    "inTheScheme": [
+      "Mary Shelley's House of Frankenstein - 2FOR1 when you travel by train to Bath",
+      "Bridgerton Tour of Bath walking tour - 20% off when you travel to Bath by train"
+    ],
+    "notInTheScheme": [
+      "The Roman Baths (no Days Out Guide page)",
+      "Thermae Bath Spa (no page)",
+      "Bath Abbey (no page)",
+      "The Jane Austen Centre (no page)"
+    ],
+    "method": "Checked daysoutguide.co.uk URL slugs directly (404 for the four above) and a site: search on DuckDuckGo for Bath entries.",
+    "source": "https://www.daysoutguide.co.uk/"
+  },
+  "getYourGuide": {
+    "inventory": "data/day-trips/gyg-inventory.json, probed 12 September 2026. Bath has 36 live London-departure products, all single-day.",
+    "widgetIdsUsed": "61147,43772,602620",
+    "why": {
+      "61147": "From London: Stonehenge and Bath Day Trip with Entry Ticket. GBP 85, 4.8 from 3,158 reviews. Inventory read the product page: includes Stonehenge express entry, shuttle, audio guide and exhibition, transport, a guided tour in Bath and free time in Bath, with no conditional clause. Its excludes list names the Roman Baths entry ticket outright, so nothing is hidden.",
+      "43772": "London: Small Group Stonehenge and Bath Tour & Secret Site. GBP 143.10, 4.9 from 172 reviews. Product page re-read 12 September 2026 in the browser: includes 16-seat minicoach, driver-guide, walking tour of Bath, bottled water and a zone 1 drop-off, and states in the includes block that Stonehenge entry is not in the price, listing the current door prices by season and day of week.",
+      "602620": "From London: Small Group Stonehenge, Bath & Cotswolds Tour. GBP 154, 4.9 from 166 reviews. Product page re-read 12 September 2026: minibus, driver-guide, panoramic driving tour of Bath with a Royal Crescent photo stop, optional walking tour and a highlights map, with the same plain statement that Stonehenge entry is extra and the door prices listed."
+    },
+    "conditionalInclusionTrap": {
+      "pattern": "Many products name an attraction in the title and then make its entry an optional paid extra, so the headline price buys a coach seat only.",
+      "examplesVerifiedToday": [
+        {
+          "id": 1408799,
+          "title": "From London: Bath and Cotswolds Day Trip with Roman Baths",
+          "includesLine": "Entry to the Roman Baths (ONLY IF PURCHASED)",
+          "alsoSays": "Admission fees not included unless booked and paid as per the option selected",
+          "checkedVia": "browser, 12 September 2026"
+        },
+        {
+          "id": 173901,
+          "title": "From London: Bath, Avebury and Lacock Village Day Trip",
+          "note": "Description says the optional Roman Baths visit cannot be guaranteed as tickets sometimes sell out; the includes block merges included and excluded lines, so treat it as unconfirmed",
+          "checkedVia": "browser, 12 September 2026"
+        }
+      ],
+      "examplesFromInventory": [
+        { "id": 945, "includesLine": "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)", "reviews": 5821 },
+        { "id": 52393, "includesLine": "Entry ticket to the Roman Baths (ONLY if option selected)", "pageFromPrice": "GBP 27" },
+        { "id": 50354, "includesLine": "Entry to Roman Baths Museum (ONLY if option selected)", "reviews": 1500 },
+        { "id": 70842, "includesLine": "Roman Baths entry ticket (depending on the option chosen) - and the same line appears in the excludes list", "reviews": 1459 },
+        { "id": 15627, "note": "Title itself says 'with Optional Roman Baths'" }
+      ],
+      "doNotEmbed": "Inventory's avoidInAnyWidget list includes 945, 52393, 50354 and 70842 among the Bath products."
+    },
+    "noBathEntryIncludedProduct": "No product in the inventory, and none of the four re-checked today, puts Roman Baths admission in its includes list without a conditional clause. Treat Roman Baths entry as something the reader buys themselves."
+  },
+  "dayShape": {
+    "roundTrip": "1h15 each way plus 90 minutes to 2 hours in the Roman Baths leaves a comfortable full day. A 09:30 from Paddington is in Bath at 10:45; the city centre is walkable and the Roman Baths, Abbey, Pulteney Bridge, the Circus and the Royal Crescent are all within 15 minutes of each other on foot.",
+    "timeTraps": [
+      "Roman Baths last admission 17:00 in autumn, and the last slots may be too short",
+      "Bath Abbey Sunday visiting is only 13:00-15:30",
+      "No.1 Royal Crescent is closed Mondays outside local school holidays and bank holidays, last entry 16:30",
+      "Prior Park garden closed at 16:00 on the date checked and is a steep 1-mile walk or a bus ride from the station",
+      "Thermae walk-in slots run out; the Twilight package is Monday-Friday only and phone-booked"
+    ]
+  },
+  "unverified": [
+    "Drive time from London by car",
+    "Park and ride bus fares in Bath",
+    "Charlotte Street car park tariff (the council page returns 'No data')",
+    "Roman Baths opening hours outside 1 September - 31 October 2026",
+    "Whether Oyster or contactless is accepted at Bath Spa (not checked; Bath is far outside the pay-as-you-go area)",
+    "Whether specific Sunday dates carry rail replacement buses on the Paddington-Bath route"
+  ]
+}
