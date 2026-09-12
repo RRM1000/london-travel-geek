@@ -298,6 +298,8 @@ The **egg-shaped lavatory pods** upstairs remain, and remain the second reason p
 
 ### The Wolseley, Piccadilly
 
+![The Wolseley's vaulted dining room, black and white floor, pillars and low-hung lamps, full of diners](../../assets/articles/best-afternoon-tea-london/wolseley-room.jpg)
+
 *£££ · 3 min from Green Park · Cited by 5 sources*
 
 The grand café on Piccadilly — a 1920s car showroom with vaulted ceilings and black lacquer, and the **most affordable serious afternoon tea in central London** by a wide margin. It is a room Londoners actually use rather than a destination sitting.

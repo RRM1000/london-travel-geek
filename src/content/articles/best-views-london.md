@@ -488,6 +488,10 @@ Terrace hours are **4pm–11pm Monday to Wednesday, to midnight Thursday, to 1am
 
 ### Duck & Waffle, City
 
+![Duck & Waffle's dining room on the fortieth floor, floor-to-ceiling windows over London with hanging bulbs and trailing plants](../../assets/articles/best-views-london/duck-and-waffle-dining-room.jpg)
+
+*Brunch is the cheapest way into this room — see the [brunch guide](/articles/best-breakfast-brunch-london/).*
+
 *40th floor · open 24 hours, every day*
 
 Forty floors up in the Heron Tower and **the only London viewpoint open at four in the morning**, which genuinely makes sunrise an option — and the reason to come, because at that hour you have the City to yourself and no ticket exists that would sell you the same thing.

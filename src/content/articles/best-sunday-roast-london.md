@@ -300,6 +300,8 @@ The **confit potatoes** are the signature and among the most famous side dishes 
 
 ### Fallow, Piccadilly
 
+![A roast at Fallow: sliced pink beef, a tall Yorkshire pudding, roast carrots and gravy](../../assets/articles/best-sunday-roast-london/fallow-roast.jpg)
+
 *£££ · Piccadilly Circus · Cited by 2 sources, both video*
 
 **Whole-animal and root-to-stem cooking pushed further than anywhere else in London** — offcuts, byproducts and discarded species treated as the menu rather than a footnote.

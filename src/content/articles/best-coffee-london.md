@@ -313,6 +313,8 @@ Perrins Court is a pedestrian lane, so there are outdoor tables and no traffic.
 
 ### Beany Green, Little Venice
 
+![The counter at Beany Green, its bright painted walls and food display with customers queuing](../../assets/articles/best-coffee-london/beany-green.jpg)
+
 *££ · the towpath*
 
 Australian brunch on the canal with a big terrace — **the easiest good coffee within walking distance of Paddington**, which is otherwise a desert for it.
