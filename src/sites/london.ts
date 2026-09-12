@@ -34,6 +34,19 @@ export const londonSite: SiteConfig = {
         { label: "Cheap eats", href: "/articles/cheap-eats-london/" },
         { label: "All food & drink guides", href: "/topics/food-and-drink/" },
       ],
+      // The money pages. Every panel now carries a third column (see the
+      // three-column rule in SiteHeader), and this is the strand the eight
+      // above cannot hold: the reader who has already chosen where to eat and
+      // wants to pay less for it. Four, like every rail.
+      secondary: {
+        title: "Deals",
+        children: [
+          { label: "Set lunch & pre-theatre deals", href: "/articles/restaurant-deals-london/" },
+          { label: "Restaurant discount cards", href: "/articles/restaurant-discount-cards-london/" },
+          { label: "Kids eat free", href: "/articles/kids-eat-free-london/" },
+          { label: "Off-peak restaurant apps", href: "/articles/off-peak-restaurant-apps-london/" },
+        ],
+      },
     },
     {
       label: "Things to Do",
@@ -108,16 +121,20 @@ export const londonSite: SiteConfig = {
         { label: "Camden", href: "/articles/camden-area-guide/" },
         { label: "All 29 area guides", href: "/topics/london-areas/" },
       ],
-      // The ones worth a journey that nobody types into a search box. Same
-      // mechanism as the seasonal rail, with no months, so it always shows -
-      // and the same four-deep cap, so the rail cannot outgrow the panel.
+      // Walks, not more areas. This rail used to be "Further out" - Hampstead,
+      // Richmond, Peckham, Hackney - which was a second helping of the column
+      // beside it, and all four are one tap away on the page the eighth link
+      // points at. The fourteen numbered walking routes had no entry in the
+      // menu at all, and they are what a reader standing in an area actually
+      // wants next. Three routes plus the tag page that holds the rest; same
+      // four-deep cap as every other rail.
       secondary: {
-        title: "Further out",
+        title: "Walks",
         children: [
-          { label: "Hampstead", href: "/articles/hampstead-area-guide/" },
-          { label: "Richmond", href: "/articles/richmond-area-guide/" },
-          { label: "Peckham", href: "/articles/peckham-area-guide/" },
-          { label: "Hackney", href: "/articles/hackney-area-guide/" },
+          { label: "The South Bank walk", href: "/articles/south-bank-walk/" },
+          { label: "The City of London walk", href: "/articles/city-of-london-walk/" },
+          { label: "Wapping to Canary Wharf", href: "/articles/wapping-canary-wharf-walk/" },
+          { label: "All walking routes", href: "/tags/walks/" },
         ],
       },
     },
@@ -135,19 +152,40 @@ export const londonSite: SiteConfig = {
       href: "/stay/",
       description: "Where to stay, by area and by kind of room.",
       imageKey: "stay",
-      // Three areas and three kinds of room, which is the split readers arrive
-      // with. Shoreditch loses its place to keep it to eight; it is one tap
-      // away on the areas-to-stay page that leads the list.
+      // Two questions, not one mixed list - the same split the Plan panel
+      // uses. The eight answer "which part of London", so the areas that lost
+      // their place to pod hotels and aparthotels get it back: Shoreditch and
+      // Bermondsey were both one tap away and both are where the cheaper rooms
+      // are. "Which kind of room" moved to the rail, where it reads as a
+      // choice rather than as four more area pages.
       children: [
         { label: "Best areas to stay", href: "/articles/best-areas-to-stay-in-london/" },
         { label: "Soho & the West End", href: "/articles/where-to-stay-soho-west-end/" },
         { label: "Covent Garden", href: "/articles/where-to-stay-covent-garden/" },
         { label: "King's Cross & St Pancras", href: "/articles/where-to-stay-kings-cross/" },
-        { label: "Capsule & pod hotels", href: "/articles/pod-hotels-london/" },
-        { label: "Aparthotels", href: "/articles/aparthotels-london/" },
+        { label: "Shoreditch", href: "/articles/where-to-stay-shoreditch/" },
+        // Labelled by the area alone, like Shoreditch and Covent Garden above
+        // it: "Bermondsey & London Bridge" was the one label in any panel long
+        // enough to wrap onto a second line and stand the whole panel a row
+        // deeper than the other five.
+        { label: "Bermondsey", href: "/articles/where-to-stay-bermondsey/" },
         { label: "Best hostels", href: "/articles/best-hostels-london/" },
         { label: "All places to stay", href: "/stay/" },
       ],
+      // The constraint pages, which is how a reader with a long layover or a
+      // tight budget actually searches. Day rooms and windowless rooms had no
+      // nav entry at all; pods and aparthotels move here from the column above
+      // rather than being listed twice in one panel. Hostels stays on the left
+      // - it is the one of the five that is also a way of travelling.
+      secondary: {
+        title: "By type of room",
+        children: [
+          { label: "Day rooms (no overnight)", href: "/articles/day-rooms-london/" },
+          { label: "Windowless rooms", href: "/articles/windowless-hotel-rooms-london/" },
+          { label: "Capsule & pod hotels", href: "/articles/pod-hotels-london/" },
+          { label: "Aparthotels", href: "/articles/aparthotels-london/" },
+        ],
+      },
     },
     {
       label: "Day Trips",
@@ -169,6 +207,21 @@ export const londonSite: SiteConfig = {
         { label: "The Cotswolds", href: "/articles/cotswolds-day-trip/" },
         { label: "All day trips compared", href: "/articles/day-trips-from-london/" },
       ],
+      // Car hire was dropped from the column above as a transport guide with no
+      // home; this is the home. The rail is the admin a day trip needs before
+      // the ticket is bought - how you get there, what the fare costs, the
+      // two-for-one you only get by arriving by train, and the entry permit
+      // that applies before any of it. The Studio Tour is not here: it already
+      // leads the eight.
+      secondary: {
+        title: "Before you go",
+        children: [
+          { label: "Hiring a car & driving", href: "/articles/car-hire-driving-uk/" },
+          { label: "National Rail 2FOR1", href: "/articles/national-rail-2for1-london-attractions/" },
+          { label: "Transport costs & fares", href: "/articles/london-public-transport-costs-and-fares/" },
+          { label: "The UK ETA", href: "/articles/uk-eta-guide/" },
+        ],
+      },
     },
     {
       label: "Plan",

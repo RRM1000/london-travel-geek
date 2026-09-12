@@ -133,18 +133,28 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
                       </ul>
 
                       {seasonal.length > 0 && item.secondary && (
-                        <div class="mega-panel__seasonal">
-                          <p class="mega-panel__seasonal-title">{item.secondary.title}</p>
-                          <ul>
-                            {seasonal.map((child) => (
-                              <li>
-                                <a href={child.href} aria-current={isCurrent(child.href) ? "page" : undefined}>
-                                  {child.label}
-                                </a>
-                              </li>
-                            ))}
-                          </ul>
-                        </div>
+                        <>
+                          {/* The divider is its own grid item in a 1px column,
+                              not a border on the rail: a border is only as tall
+                              as the rail's own content, so it stopped at a
+                              different height in every panel. This stretches to
+                              the row. It lives inside the desktop panel only -
+                              the mobile accordion has its own left rule. */}
+                          <span class="mega-panel__rule" aria-hidden="true"></span>
+
+                          <div class="mega-panel__seasonal">
+                            <p class="mega-panel__seasonal-title">{item.secondary.title}</p>
+                            <ul>
+                              {seasonal.map((child) => (
+                                <li>
+                                  <a href={child.href} aria-current={isCurrent(child.href) ? "page" : undefined}>
+                                    {child.label}
+                                  </a>
+                                </li>
+                              ))}
+                            </ul>
+                          </div>
+                        </>
                       )}
                     </div>
                   </div>
@@ -502,16 +512,40 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
     transition-delay: 0s;
   }
 
+  /* THREE COLUMNS IN EVERY PANEL: image, eight links, one titled rail, with a
+     1px rule column between the last two. All four tracks are fixed or
+     fractional rather than content-sized, so the rule lands at the same x in
+     all six panels - an `auto` rail put the divider wherever that section's
+     longest label happened to end, which is what made the six read as six
+     different menus. 14.5rem holds "Set lunch & pre-theatre deals", the longest
+     rail label on the site, on one line; anything wider starts wrapping the
+     longest link label in the column beside it and the panel grows a row. */
   .mega-panel__inner {
     display: grid;
-    grid-template-columns: 22rem minmax(0, 1fr) auto;
-    gap: var(--space-5);
+    grid-template-columns: 22rem minmax(0, 1fr) 1px 14.5rem;
+    gap: var(--space-4);
     padding-block: var(--space-5);
   }
 
-  /* Panels with no seasonal column collapse to two. */
+  /* The panel is chrome, not an article, so it takes the same width as the bar
+     above it rather than the page measure - see the note on
+     .site-header__inner. At --page-width the panel started 73px inside the
+     logo, which read as a misalignment, and the three columns had 160px less
+     room than the bar they hang from. */
+  .mega-panel__inner.container {
+    width: min(calc(100% - 2.5rem), 86rem);
+  }
+
+  /* Guard, not a layout: every section in the config now has a rail. A future
+     one added without one must not be left holding an empty 1px column. */
   .mega-panel__inner:not(:has(.mega-panel__seasonal)) {
     grid-template-columns: 22rem minmax(0, 1fr);
+  }
+
+  /* Same token as every other hairline on the dark chrome, so it holds in both
+     the editorial and utility themes. */
+  .mega-panel__rule {
+    background: color-mix(in srgb, var(--chrome-text) 15%, transparent);
   }
 
   .mega-panel__feature {
@@ -602,10 +636,11 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
   }
 
   /* ---------------------------------------------------- seasonal rail --- */
+  /* Width and the hairline beside it now belong to the panel grid above; the
+     rail itself only has to start at the top of the row, level with the image
+     and the first link. */
   .mega-panel__seasonal {
-    min-width: 13rem;
-    padding-left: var(--space-4);
-    border-left: 1px solid color-mix(in srgb, var(--chrome-text) 15%, transparent);
+    align-self: start;
   }
 
   .mega-panel__seasonal-title {
@@ -991,6 +1026,18 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
 
     .header-search__key {
       display: none;
+    }
+  }
+
+  /* The last 100px of desktop. The three columns are fixed widths around one
+     fractional track, so everything the panel loses on a narrower screen comes
+     out of the links - and at about 1300px "One day — 13 plans by interest"
+     stopped fitting on one line, which stood the Plan panel a row deeper than
+     the other five. The image gives up the 4rem instead; it is decoration, and
+     the eight links are what the panel is for. */
+  @media (max-width: 82rem) {
+    .mega-panel__inner {
+      grid-template-columns: 18rem minmax(0, 1fr) 1px 14.5rem;
     }
   }
 

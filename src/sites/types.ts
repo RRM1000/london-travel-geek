@@ -35,9 +35,14 @@ export interface NavigationItem {
   /** Links listed in the mega-menu panel. Absent = plain link, no panel. */
   children?: NavigationChild[];
   /**
-   * An optional second, titled column in the panel - used for the seasonal
-   * strand, where what a visitor wants in October is not what they want in
-   * June. Entries carrying `months` are filtered to the current one.
+   * The panel's third column: a titled rail of up to four links, set off by a
+   * vertical rule. Every section in the London nav has one, because a panel
+   * without it is a different shape from the panel next to it - but it stays
+   * optional so a section can be added before its rail is written.
+   *
+   * It began as the seasonal strand, where what a visitor wants in October is
+   * not what they want in June, and entries carrying `months` are still
+   * filtered to the current one. Rails with no `months` simply always show.
    */
   secondary?: NavigationSection;
   /** Shown when every `secondary` entry is out of season. */
