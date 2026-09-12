@@ -131,6 +131,10 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+![A State Apartment at Windsor Castle: crimson walls, gilded ceiling, chandeliers and portraits above a marble fireplace](../../assets/articles/windsor-day-trip/state-apartments.jpg)
+
+*The State Apartments, which are what the £32 ticket buys.*
+
 ## What 2FOR1 does and does not cover
 
 **Windsor Castle is not in the National Rail 2FOR1 scheme.** Neither is any other Royal Collection Trust site. The Castle is full price however you arrive.

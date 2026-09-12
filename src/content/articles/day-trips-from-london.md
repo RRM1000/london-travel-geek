@@ -6,10 +6,10 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-heroImage: "../../assets/articles/day-trips-from-london/windsor-castle-gate.jpg"
-heroImageAlt: "Visitors walking up to Windsor Castle's gatehouse, its two round towers rising above the crowd"
-heroImageCredit: "Eren Cebeci"
-heroImageSource: "https://www.pexels.com/photo/18222773/"
+heroImage: "../../assets/articles/day-trips-from-london/castle-combe-street.jpg"
+heroImageAlt: "The main street of Castle Combe: honey-coloured stone cottages either side of an empty road running down through the village"
+heroImageCredit: "Adrian Limani"
+heroImageSource: "https://www.pexels.com/photo/34219242/"
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 tags: [day trips, getting around, things to do, trains]

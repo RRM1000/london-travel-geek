@@ -39,6 +39,10 @@ Oxford is 55 minutes from Paddington and small enough to cross on foot in twenty
 
 ## Getting there
 
+![Merton College's tower above Merton Street, with the college's windows and a stone wall running down the empty cobbled lane](../../assets/articles/oxford-day-trip/merton-street.jpg)
+
+*Photo: Quintin Sanders, Pexels.*
+
 ### Train from Paddington, which is the fast one
 
 **Great Western Railway runs Paddington to Oxford in 55 minutes** direct. Trains with a change at Reading take about the same, 58 minutes, so an awkward-looking itinerary is not a penalty.
@@ -91,9 +95,9 @@ Parking alone at Thornhill is free for the first hour and £2.50 up to 16 hours 
 
 ## The colleges: which charge, and what they shut
 
-![Merton College's tower above Merton Street, with the college's windows and a stone wall running down the empty cobbled lane](../../assets/articles/oxford-day-trip/merton-street.jpg)
+![Students in Oxford sub fusc — dark suits, gowns and white bow ties — gathered outside a college in exam season](../../assets/articles/oxford-day-trip/oxford-subfusc.jpg)
 
-*Photo: Quintin Sanders, Pexels.*
+*Exam season is when the colleges shut to visitors. Photo: Amine Kubranur Cakiroglu, Pexels.*
 
 Colleges are working institutions, not attractions. Two patterns catch people out: **halls close over lunch** because students are eating in them, and **free colleges open in the afternoon only**.
 
