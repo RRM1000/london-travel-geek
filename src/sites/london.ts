@@ -31,7 +31,7 @@ export const londonSite: SiteConfig = {
         { label: "Best fish and chips", href: "/articles/best-fish-and-chips-london/" },
         { label: "Best Sunday roasts", href: "/articles/best-sunday-roast-london/" },
         { label: "Best afternoon tea", href: "/articles/best-afternoon-tea-london/" },
-        { label: "Cheap eats", href: "/articles/cheap-eats-london/" },
+        { label: "Best street food", href: "/articles/best-street-food-london/" },
         { label: "All food & drink guides", href: "/topics/food-and-drink/" },
       ],
       // The money pages. Every panel now carries a third column (see the
