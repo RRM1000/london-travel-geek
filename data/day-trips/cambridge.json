@@ -1,0 +1,344 @@
+{
+  "_comment": [
+    "Primary-source research for src/content/articles/cambridge-day-trip.md.",
+    "Every price carries the date it was checked. Sources are the operator's own",
+    "site, the college's own site, National Rail Enquiries' own journey planner,",
+    "or Cambridge City Council - no aggregators, no travel blogs.",
+    "Fares were read off the National Rail journey planner for a specific date",
+    "rather than from a published fare table, so they are 'what the planner",
+    "quoted', which is what a reader will see."
+  ],
+  "checkedOn": "2026-09-12",
+  "gettingThere": {
+    "trainKingsCross": {
+      "operator": "Great Northern / Thameslink (King's Cross)",
+      "fastestDirect": "49 minutes",
+      "slowDirect": "1h 29m - 1h 30m",
+      "viaChange": "1h 19m",
+      "examples": [
+        "09:24 KGX -> 10:13 CBG, 49m direct",
+        "09:35 KGX -> 11:05 CBG, 1h30 direct",
+        "10:54 KGX -> 11:43 CBG, 49m direct"
+      ],
+      "offPeakReturn": "£32.40",
+      "offPeakReturnNote": "Lowest standard return quoted for Tue 15 Sep 2026 out 10:30, back 18:00. The same return was quoted on the 49-minute 10:54 fast train.",
+      "peakFastTrainReturn": "£48.10",
+      "peakFastTrainNote": "The 09:24 fast departure was quoted at £48.10 return on the same day, so the cheap return is not valid on the earliest fast trains.",
+      "advanceSingle": "£15.20",
+      "advanceSingleNote": "Single quoted for Tue 13 Oct 2026 (a month out); the return for the same day was £30.40, i.e. two of those singles.",
+      "firstClassFrom": "£45.60 return (15 Sep 2026)",
+      "source": "https://www.nationalrail.co.uk/journey-planner/"
+    },
+    "trainLiverpoolStreet": {
+      "operator": "Greater Anglia",
+      "fastestDirect": "1h 25m (10:24 LST -> 11:49 CBG)",
+      "greaterAngliaOwnClaim": "fastest train time 1h 5m, Advance from £8.00 each way",
+      "offPeakReturn": "£27.50",
+      "offPeakReturnNote": "Lowest standard return quoted for Tue 15 Sep 2026, and only on the direct Greater Anglia trains; routes changing at King's Cross were quoted £39.30.",
+      "sources": [
+        "https://www.nationalrail.co.uk/journey-planner/",
+        "https://www.greateranglia.co.uk/travel-information/station-information/cbg"
+      ]
+    },
+    "contactless": {
+      "valid": false,
+      "evidence": "Greater Anglia's own Cambridge station information page states: 'Oyster cards are not valid at this station'. Cambridge is outside the TfL pay as you go area, which covers London Zones 1-9 and some services just beyond Zone 9.",
+      "sources": [
+        "https://www.greateranglia.co.uk/travel-information/station-information/cbg",
+        "https://tfl.gov.uk/fares/ways-to-pay/pay-as-you-go"
+      ]
+    },
+    "lastTrainsBack": {
+      "kingsCrossLast": "23:51 CBG -> 01:04 KGX (Tue 15 Sep 2026), direct, 1h13",
+      "kingsCrossFastLate": "22:42 CBG -> 23:32 KGX, 50m direct",
+      "liverpoolStreetLastDirect": "22:48 CBG -> 00:18 LST, 1h30",
+      "liverpoolStreetLater": "23:51 CBG -> 01:40 LST with one change",
+      "source": "https://www.nationalrail.co.uk/journey-planner/"
+    },
+    "coach": {
+      "operator": "National Express",
+      "cheapestOneWay": "£6.20",
+      "fastestJourney": "1h 15m, London (Stratford) to Cambridge (Trumpington)",
+      "victoriaService": "Service 491, London Victoria Coach Station to Cambridge (Parkside), up to once a day; the page lists first and last daily journey from Victoria as 15:00",
+      "stops": ["Cambridge (Parkside) city centre", "Cambridge (Trumpington)", "Cambridge (Trumpington Park and Ride)"],
+      "distance": "approx 106km",
+      "source": "https://www.nationalexpress.com/en/destinations/cambridge/london-to-cambridge"
+    },
+    "driving": {
+      "motorway": "M11; Trinity College directs drivers off at Junction 13 for Madingley Road, or in from the A14 on the Huntingdon Road",
+      "parkAndRide": {
+        "sites": ["Babraham Road", "Madingley Road", "Milton", "Newmarket Road", "Trumpington"],
+        "parking": "Free for up to 18 hours",
+        "overstay": "18-24 hours £10, 24-48 hours £20, 48-72 hours £30, paid within the first hour via RingGo",
+        "busAdultReturn": "£4.50",
+        "busChildReturn": "£1.00, and up to four under-5s travel free with each paying adult",
+        "groupDayTickets": "£10 small group (up to 3), £15 large group (up to 5), valid all day in the Cambridge town zone",
+        "payment": "Cash or contactless, bought from the driver",
+        "source": "https://www.cambridgeparkandride.info/pricing.shtml"
+      },
+      "cityCentreCarPark": {
+        "name": "Grand Arcade, Cambridge City Council",
+        "weekdayDaytime": "8am-6pm Mon-Fri: 1hr £3.70, 2hrs £7.40, 3hrs £11.10, 4hrs £16.00, 5hrs £26.80, over 5hrs £33.50",
+        "weekendDaytime": "8am-6pm Sat, 10am-6pm Sun: 1hr £4.70, 2hrs £9.40, 3hrs £14.10, 4hrs £19.20, 5hrs £29.70, over 5hrs £36.50",
+        "evening": "£1.80 per hour from 6pm",
+        "blueBadge": "Three hours free, badge scanned at the machine",
+        "source": "https://www.cambridge.gov.uk/grand-arcade-car-park"
+      },
+      "stationCarPark": {
+        "operator": "Saba",
+        "spaces": 330,
+        "daily": "£17.50",
+        "source": "https://www.greateranglia.co.uk/travel-information/station-information/cbg"
+      }
+    },
+    "stationToCentre": {
+      "distance": "About a mile, 20-25 minutes on foot",
+      "buses": "Stagecoach Citi 1, 3 and 7 serve the station to the city centre; PLUSBUS can be added to a rail ticket",
+      "cycleParking": "2,850 sheltered CCTV spaces at the Cyclepoint",
+      "ticketOffice": "Mon-Sat 05:10-23:00, Sun 07:00-22:55",
+      "postcode": "CB1 2JW",
+      "source": "https://www.greateranglia.co.uk/travel-information/station-information/cbg"
+    }
+  },
+  "colleges": {
+    "kings": {
+      "product": "King's College Chapel & Grounds - Self-Guided Visit, sold in 15-minute arrival slots",
+      "earlyBirdAdult": "£16.75 (Sat 19 Sep 2026 slot, booked before the Sunday cut-off)",
+      "earlyBirdStudentChild": "£14.25, ages 5-17",
+      "familyEarlyBird": "£43.25 for 1 adult + 2 or 3 children; £59.00 for 2 adults + 2 or 3 children",
+      "standardAdult": "£17.00-£18.00 depending on the day",
+      "standardStudentChild": "£14.50-£15.50",
+      "groupAdult": "£16.50 for groups of 15+, one free group leader per 15 paying",
+      "earlyBirdRule": "The discounted price for a week ends on the Sunday night before it",
+      "slots": "09:30 to 16:00 every 30 minutes on the Saturday checked; some afternoon slots are marked 'Closed to visitors' and the pattern differs day to day",
+      "refunds": "Non-refundable",
+      "noToilets": "The college states there are no public toilet facilities on site",
+      "chapelServices": "Free and open to visitors; no admission once a service has begun; allow up to an hour for Evensong, an hour and a quarter for Holy Communion; bags no larger than airline hand luggage; no photography",
+      "sources": [
+        "https://www.kings.cam.ac.uk/opening-times-and-tickets",
+        "https://www.tickettailor.com/events/kings",
+        "https://www.kings.cam.ac.uk/chapel/attend-chapel-services"
+      ]
+    },
+    "trinity": {
+      "courtsOpenToPublic": false,
+      "courtsNote": "Great Court and the other courts are not open to the public",
+      "guidedTour": "£10 per person, under 12s free, card on the day, daily at 10:00 and 14:00, booked in advance, led by the college Porters, meeting at the Great Gate on Trinity Street",
+      "tourCaveat": "Some areas may be closed for renovation and the Dining Hall is not currently included",
+      "backs": "The Backs, the grounds beside the Cam, are free and normally open 09:00-17:00, but can close for events - phone the Porters' Lodge on +44 (0)1223 338400",
+      "wrenLibrary": "Free. Normally noon-14:00 Monday to Friday and 10:30-12:30 on Saturday mornings in term time, entered from Garrett Hostel Lane",
+      "rules": "No bicycles, no dogs, no walking on the grass, no picnics or BBQs",
+      "source": "https://www.trin.cam.ac.uk/about/visiting-trinity-college/"
+    },
+    "stJohns": {
+      "adult": "£17",
+      "child": "£10 for ages 12-16, reduced to £8 between 25 June and 1 September",
+      "seniorStudentDisabled": "£10 for over-66s, students and National Disability Card holders",
+      "groupRate": "£10 per person, and commercial groups of five or more must be led by a Cantab Tours guide",
+      "tourismWindow": "Paid general entry runs 6 July 2026 to 30 September 2026 only, 09:30-16:30",
+      "grounds": "Grounds open 09:30-16:30, but may close at short notice",
+      "freeEntry": "Alumni and guests, University card holders plus two guests, CAMCard holders plus two guests, Cambridge residents with a CB postcode, prospective students plus two guests, and anyone attending a chapel service or college event",
+      "payment": "Bank card only, no American Express. No re-entry after admission. No dogs except assistance dogs. No bicycles.",
+      "closures2026": [
+        "11 September 2026 - closed to visitors except Cambridge Colleges Open Day attendees",
+        "13 September 2026 - open 09:30-12:00 only, for the Arthur Rank Hospice 'Bridge the Gap' walk"
+      ],
+      "source": "https://www.joh.cam.ac.uk/visit-us/visitor-information"
+    },
+    "queens": {
+      "adult": "£5.00 per visitor, self-guided, up to six people",
+      "children": "Under 12s free with an adult",
+      "hours": "10:00-16:00",
+      "entrance": "Visitors' Gate in Queens' Lane, or the Porters' Lodge on Silver Street if the Old Gate is shut",
+      "groups": "Six or more counts as a group at £5 each and must be led by a Cambridge Blue Badge Guide; parties without one are refused",
+      "closures2026": [
+        "28 February - MA Graduation",
+        "12 April - private function",
+        "19 April to 4 July - examination period",
+        "2 July - General Admission",
+        "9-10 July - Open Days",
+        "11 July - private function",
+        "23 July - Degree Congregation",
+        "8 August - private function",
+        "15 August - private function",
+        "11 September - Open Day",
+        "13 September - Bridge the Gap",
+        "29 September to 6 October - Freshers' week"
+      ],
+      "closedAlso": "Christmas holidays and certain ceremonial days",
+      "notOpen": "President's Lodge, Old Library, War Memorial Library, Cripps Dining Hall, all rooms and staircases",
+      "source": "https://www.queens.cam.ac.uk/visiting-the-college/tourist-information/"
+    }
+  },
+  "punting": {
+    "licensing": {
+      "authority": "The Conservators of the River Cam",
+      "licensedStations": [
+        "La Mimosa, corner of Jesus Green",
+        "Quayside",
+        "Trinity College, inside the college grounds",
+        "The Mill Pond on Silver Street",
+        "Mill Lane",
+        "The Granta mill pond near Sheep's Green"
+      ],
+      "rule": "Licensed companies only operate near their own punting station. Buy at a station.",
+      "touting": "A Public Spaces Protection Order prohibits touting for punt custom anywhere in Cambridge. Breach is a criminal offence carrying a £100 fixed penalty notice or prosecution; uniformed enforcement officers and police patrol for it. Unlicensed operators sell on King's Parade and Market Square.",
+      "codeOfPractice": "Companies at the authorised stations have signed a voluntary code limiting touting to areas near their own station, limiting the number of touts and requiring them to be identifiable.",
+      "sources": [
+        "https://www.cambridge.gov.uk/punting",
+        "https://www.cambridge.gov.uk/complaints-about-punt-touts",
+        "https://www.cambridge.gov.uk/public-spaces-protection-orders"
+      ]
+    },
+    "scudamores": {
+      "stations": [
+        "Mill Lane Punting Station, Granta Place, Mill Lane, CB2 1RS",
+        "Quayside Punting Station, Magdalene Bridge, CB5 8AB"
+      ],
+      "sharedChauffeured": {
+        "length": "45 minutes, returning to the same station",
+        "from": "£41.00",
+        "familyFrom": "£35.00",
+        "soldBy": "The row or section, not per head - a row of up to 2, a row of up to 3, a section of up to 4, a section of up to 6",
+        "boat": "Up to 12 passengers on 4 benches; babies and toddlers count",
+        "kiosk": "On-the-day kiosk prices vary from online prices for chauffeured tours"
+      },
+      "privateChauffeured": {
+        "collegeBacks45min": "from £115 per punt",
+        "grantchesterOneWay": "from £284, by phone or email only",
+        "puntAndWalk": "from £220, 45-minute private punt plus a 60-minute private walking tour, 105 minutes combined, booked 48 hours ahead"
+      },
+      "selfHireCollegeBacks": {
+        "60min": "£28.50",
+        "90min": "£35.50",
+        "3hr": "£54.00",
+        "perBoat": true,
+        "capacity": "6 people maximum - 5 seated plus 1 punting",
+        "overtime": "£3.50 per 6 minutes",
+        "deposit": "Contactless card hire deposit at check-in, plus a signed Conditions of Hire",
+        "minAge": "16 to hire without an adult; under-16s must be with an adult of 18+",
+        "arrive": "15 minutes before the slot",
+        "kiosk": "On-the-day kiosk prices are the same as online prices for self-hire",
+        "restriction": "College Backs hires run between Mill Lane and Quayside and cannot go upriver to Grantchester"
+      },
+      "selfHireGrantchester": {
+        "90min": "£35.50",
+        "3hr": "£54.00",
+        "6hr": "£72.00",
+        "thirteenPersonPunt": "from £71.50",
+        "overtime": "£3.50 per 6 minutes for a 6-person punt, £7 for a 13-person punt"
+      },
+      "cancellation": "Refunds up to 48 hours ahead less an admin fee of 30% of the booking capped at £50; no refunds inside 48 hours except in dangerous conditions. Rescheduling is free up to 1 hour before departure.",
+      "accessibility": "Wheelchair access at Mill Lane only; pets allowed on shared tours subject to other passengers",
+      "sources": [
+        "https://www.scudamores.com/college-backs-punt-tour",
+        "https://www.scudamores.com/college-backs-punt-hire",
+        "https://www.scudamores.com/cambridge-punt-tour",
+        "https://www.scudamores.com/grantchester-punt-hire",
+        "https://www.scudamores.com/punt-and-walk"
+      ]
+    }
+  },
+  "freeAndCheap": {
+    "fitzwilliamMuseum": {
+      "admission": "Free, including the collections and displays",
+      "hours": "Tuesday to Saturday 10:00-17:00, Sunday 12:00-17:00, last entry 16:40. Closed Mondays.",
+      "cafe": "Courtyard Kitchen, Tue-Sat 10:00-16:50, Sun 12:00-16:50",
+      "exhibitions": "Ticketed exhibitions are free for under-18s; pay what you can on the first Sunday of the month; free for 18-25s and students who join the Fitz List",
+      "groups": "£5 per person for groups of 10 or more, excluding UK schools and universities",
+      "bags": "Bags over 40 x 26 x 15cm must be carried or put in a locker; lockers take a £1 coin or a free token from the desk",
+      "address": "Trumpington Street, CB2 1RB. No visitor parking.",
+      "source": "https://fitzmuseum.cam.ac.uk/plan-your-visit"
+    },
+    "botanicGarden": {
+      "adultOnTheGate": "£8.60 standard",
+      "adultAdvance": "£7.74, a 10% discount for booking up to a day ahead",
+      "adultWithDonation": "£9.50 on the gate, £8.64 in advance - the donation version is the one the site shows first",
+      "children": "0-16 free, accompanied by an adult",
+      "free": "Friends of CUBG, University of Cambridge students, essential carers",
+      "hours": "Open every day except the Christmas closure. February-March 10:00-17:00, April-September 10:00-18:00, October 10:00-17:00, November-January 10:00-16:00. Last paid admission 30 minutes before closing.",
+      "gates": "Brookside Gate on Trumpington Road and Station Road Gate on Hills Road",
+      "walkFromStation": "5 minutes",
+      "advanceCaveat": "The advance discount does not apply on special event days such as Apple Day and Cambridge Botanic Lights",
+      "sources": [
+        "https://www.botanic.cam.ac.uk/visit-us/",
+        "https://www.botanic.cam.ac.uk/book-tickets/"
+      ]
+    },
+    "roundChurch": {
+      "admission": "Not free - £3.50 standard, £1.00 teenagers and students",
+      "freeEntry": "Cambridge and Anglia Ruskin students, Cambridge residents in CB1-CB5, children under 13 with a responsible adult",
+      "hours": "Wednesday to Saturday 10:00-17:00, last entry 16:45; Monday and Tuesday vary by season; closed Sundays",
+      "whatItIs": "12th-century round church, founded between 1114 and 1131, one of four surviving medieval round churches in England; exhibition plus a 23-minute film narrated by Sir David Suchet",
+      "booking": "No online booking and no need to book unless a group of more than 10; cash or card on arrival",
+      "guidedWalk": "£16 standard, £14 students and 13-18s, under-13s free; 90 minutes to 2 hours; includes entry to the church; meets inside the Round Church; small online booking fee",
+      "address": "Bridge Street, CB2 1UB",
+      "sources": [
+        "https://roundchurchcambridge.org/visit/",
+        "https://roundchurchcambridge.org/guided-walks/"
+      ]
+    },
+    "market": {
+      "location": "Market Hill, Cambridge, CB1 0SS",
+      "hours": "10:00-16:00 every day except Christmas Day, Boxing Day and New Year's Day",
+      "what": "Street food and ingredients, art, plants, clothes, jewellery, books, music",
+      "source": "https://www.cambridge.gov.uk/cambridge-market"
+    },
+    "grantchester": {
+      "orchardTeaGarden": {
+        "address": "47 Mill Way, Grantchester, CB3 9ND",
+        "publishedWinterHours": "Wednesday to Sunday 10:00-16:00, weather permitting - the notice on the site dates from October 2022, so worth a call",
+        "bookings": "No bookings for brunch, lunch, morning coffee or cream teas unless a party of 10 or more",
+        "servedOutside": "Under the fruit trees in late spring, summer and early autumn; indoors in the Rupert Brooke Room otherwise"
+      },
+      "ownWalks": [
+        "Orchard Tea Garden circular, approx 1km",
+        "Orchard Tea Garden to Byron's Pool, approx 2km, past The Old Vicarage and the Rupert Brooke statue",
+        "Orchard Tea Garden to Grantchester Meadows, approx 3.5km, river path and kissing gates, returning past the Red Lion and the Green Man"
+      ],
+      "byPunt": "Scudamore's Grantchester self-hire goes upriver past Sheep's Green and the Paradise Nature Reserve; College Backs hires may not go that way",
+      "sources": [
+        "https://www.theorchardteagarden.co.uk/walks-maps/",
+        "https://www.theorchardteagarden.co.uk/"
+      ]
+    },
+    "otherFree": "The Backs, Jesus Green, Midsummer Common and Parker's Piece are all free and open. Trinity's Wren Library is free in term time. King's chapel services are free."
+  },
+  "twoForOne": {
+    "scheme": "National Rail 2FOR1 via Days Out Guide, which needs a National Rail ticket - not Oyster or contactless",
+    "cambridgeOffers": [
+      { "attraction": "Rutherford's Punting Cambridge, shared punting experience", "offer": "2FOR1", "url": "https://www.daysoutguide.co.uk/rutherfords-punting-cambridge-shared-punting-experience" },
+      { "attraction": "Museum of Cambridge", "offer": "2FOR1", "url": "https://www.daysoutguide.co.uk/museum-of-cambridge" },
+      { "attraction": "Scholars Punting Cambridge", "offer": "20% off", "url": "https://www.daysoutguide.co.uk/scholars-punting-cambridge" },
+      { "attraction": "Cambridge Bike Tour", "offer": "Discounted tickets, amount not stated in the page title", "url": "https://www.daysoutguide.co.uk/cambridge-bike-tours" },
+      { "attraction": "The Fitzwilliam Museum", "offer": "Listed on Days Out Guide but free anyway, and no discount named", "url": "https://www.daysoutguide.co.uk/the-fitzwilliam-museum" }
+    ],
+    "notCovered": "No college is in the scheme, and Scudamore's is not either.",
+    "source": "https://www.daysoutguide.co.uk/sitemap.xml and the individual offer pages"
+  },
+  "getYourGuide": {
+    "verifiedOn": "2026-09-12",
+    "method": "Each id fetched at https://www.getyourguide.com/activity/-t{id} and checked for a 200, the right title, and a rating.",
+    "used": [
+      { "id": "137081", "title": "Cambridge: Guided River Cam Punting Tour", "rating": 4.66, "reviews": 1552 },
+      { "id": "146070", "title": "Cambridge Walk & Punt Tour by Alumni, optional King's College", "rating": 4.56, "reviews": 477 },
+      { "id": "91836", "title": "Cambridge University: Guided Punting Tour on the River Cam", "rating": 4.62, "reviews": 309 }
+    ],
+    "verifiedNotUsed": [
+      { "id": "310918", "title": "Cambridge: Bridge of Sighs Punting Tour", "rating": 4.79, "reviews": 65 },
+      { "id": "1125423", "title": "Cambridge English Punting Tour with Student Guides", "rating": 4.63, "reviews": 106 },
+      { "id": "281312", "title": "Cambridge: Chauffeured Punting Tour", "rating": 4.85, "reviews": 136 }
+    ],
+    "rejected": [
+      { "id": "67550", "reason": "404 - the London-departure Cambridge day trip is gone" },
+      { "id": "1393091", "reason": "403 behind Cloudflare, so the title and rating could not be confirmed" }
+    ]
+  },
+  "notVerified": [
+    "King's College closures during the April-June examination term. The college sells tickets on a rolling weekly window that only reached 1 November 2026 when checked, so there is no published spring calendar to read.",
+    "Walking distance and time from central Cambridge to Grantchester. The Orchard Tea Garden publishes distances for its own circular walks but not for the route in from the city.",
+    "Driving time from central London. No primary source gives one; National Express puts the road distance at about 106km.",
+    "Per-person price for a Scudamore's shared chauffeured tour. The booking widget sells rows and sections and its price API could not be read, so only the site's own 'from' figures are recorded.",
+    "Whether the Cambridge Bike Tour offer on Days Out Guide is 2FOR1 or a percentage - the page title says only 'Discounted tickets'."
+  ]
+}

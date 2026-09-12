@@ -1,0 +1,439 @@
+{
+  "topic": "Hiring a car in the UK and driving here, for visitors based in London",
+  "checkedOn": "2026-09-12",
+  "sourcePolicy": "Primary sources only: gov.uk, TfL, DVLA, National Highways, Dart Charge (gov.uk), local authorities, and the hire companies' own published terms.",
+  "licence": {
+    "visitorsAnyCountry": {
+      "rule": "A visitor to Great Britain may drive any small vehicle listed on their full and valid licence for 12 months from when they last entered Great Britain.",
+      "source": "https://www.gov.uk/driving-nongb-licence/y/a-visitor-to-great-britain/any-other-country",
+      "checked": "2026-09-12"
+    },
+    "euEea": {
+      "rule": "12 months from entry. If bringing your own vehicle insured in the EU, Andorra, Iceland, Liechtenstein, Norway, Serbia or Switzerland, carry a green card or other insurer-issued proof of insurance. Green cards from Belarus or Russia are not accepted.",
+      "source": "https://www.gov.uk/driving-nongb-licence/y/a-visitor-to-great-britain/european-union-or-european-economic-area",
+      "checked": "2026-09-12"
+    },
+    "niGibraltarCrownDependencies": {
+      "rule": "12 months from last entry for small vehicles.",
+      "source": "https://www.gov.uk/driving-nongb-licence/y/a-visitor-to-great-britain/northern-ireland",
+      "checked": "2026-09-12"
+    },
+    "idp": {
+      "lawForVisitors": "No IDP requirement appears in the gov.uk visitor guidance; the licence itself is enough to drive legally.",
+      "hireCompanyRules": [
+        {
+          "company": "Enterprise UK",
+          "rule": "Full valid licence required; digital licences not accepted. If the licence is written in a language or characters different to the country of rental, an International Driving Permit is also required. Licences from countries not in the IDP agreement need a certified translation. Visitors must also provide proof of return travel and accommodation.",
+          "source": "https://www.enterprise.co.uk/en/car-hire-faqs/uk-renter-requirements/what-is-needed-to-hire-a-car.html",
+          "checked": "2026-09-12"
+        },
+        {
+          "company": "Hertz UK",
+          "rule": "Licence must have been held at least 1 year. IDP highly recommended for non-EU renters and is not valid on its own. Digital licences not accepted. Laminated paper licences not accepted. Licences from China or Japan need a Hertz certification form; Vietnamese licences need a Ministry of Transport translation.",
+          "source": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=LICENSE&EOAG=LHR",
+          "checked": "2026-09-12"
+        },
+        {
+          "company": "Sixt UK",
+          "rule": "Licence held at least 1 year for all approved drivers. EU licences accepted without further preconditions. Licences printed in a non-Roman alphabet must be accompanied by an international driving permit; non-treaty countries need an official translation. Indian licences need an IDP unless the card has a chip. Non-UK residents need a passport or ID valid at least 3 months beyond the rental. Residing in the UK more than one year means a UK licence is mandatory.",
+          "source": "https://www.sixt.co.uk/rental-information/",
+          "checked": "2026-09-12"
+        }
+      ]
+    },
+    "dvlaCheckCode": {
+      "rule": "UK licence holders generate a check code at gov.uk/view-driving-licence to share their driving record with a hire company. The code is valid for 21 days. You need your licence number, National Insurance number and the postcode on your licence.",
+      "source": "https://www.gov.uk/view-driving-licence",
+      "hireCompanyUse": [
+        {
+          "company": "Hertz UK",
+          "detail": "Check code or evidence of endorsements required for all UK licence holders renting in the UK. Codes over 21 days old are invalid and codes are case sensitive.",
+          "source": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=LICENSE&EOAG=LHR"
+        },
+        {
+          "company": "Sixt UK",
+          "detail": "A valid DVLA check code or printed endorsement record is required for all approved drivers. Maximum 8 penalty points.",
+          "source": "https://www.sixt.co.uk/rental-information/"
+        }
+      ],
+      "checked": "2026-09-12"
+    },
+    "automaticOnlyCode": {
+      "rule": "DVLA licence code 78 means the holder is restricted to vehicles with automatic transmission.",
+      "source": "https://www.gov.uk/driving-licence-codes",
+      "checked": "2026-09-12"
+    }
+  },
+  "ageAndFees": {
+    "enterprise": {
+      "minimum": "25, no maximum age restriction. 30+ for full size MPVs, Luton vans, premium and 4x4 vehicles. Enterprise Car Club takes drivers from 19 who have held a licence 12 months.",
+      "source": "https://www.enterprise.co.uk/en/car-hire-faqs/uk-renter-requirements/how-old-do-you-have-to-be-to-hire-a-car.html",
+      "checked": "2026-09-12"
+    },
+    "hertz": {
+      "minimum": "25 for most groups. Smaller groups (Picanto, Corsa, Astra, C'eed, Fiesta and small vans) can be rented from 21 with a young driver surcharge.",
+      "youngDriverSurcharge": "GBP 61.43 per day including tax, GBP 430.00 per week, capped at GBP 1,719.98 per rental",
+      "higherMinimums": "27 for Audi Q7 / Mercedes V Class / Range Rover Velar; 28 for Porsche Boxster, Cayenne S, Range Rover Sport Supercharged; 30 for Jaguar F-Type, C63 AMG, R8, Bentley, 992 4S, Panamera, Range Rover Autobiography; 35 for the 17-seat Transit",
+      "upperAgeLimit": "none published",
+      "source": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=AGE&EOAG=LHR",
+      "checked": "2026-09-12"
+    },
+    "sixt": {
+      "minimum": "21, 23, 25 or 30 depending on vehicle group, each with one year's licence held",
+      "youngDriverSurcharge": "applies to drivers under 28",
+      "note": "Loss damage waiver with minimum excess is not available to renters under 25",
+      "source": "https://www.sixt.co.uk/rental-information/",
+      "checked": "2026-09-12"
+    },
+    "additionalDriverHertz": {
+      "perDay": "GBP 20.60",
+      "perWeek": "GBP 144.23",
+      "maxPerRental": "GBP 206.04",
+      "note": "Fees include tax. Additional drivers can be added at any UK branch with licence and passport, main driver present.",
+      "source": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=ADD&EOAG=LHR",
+      "checked": "2026-09-12"
+    },
+    "childSeatHertz": {
+      "perDay": "GBP 13.79",
+      "perWeek": "GBP 96.47",
+      "maxPerRental": "GBP 137.81",
+      "lossOrDamagePenalty": "GBP 114.00",
+      "coverage": "children 9-36 kg",
+      "notice": "48 hours at licensee locations, 24 hours elsewhere; confirmed at booking at named airports and London Marble Arch, Russell Square and Victoria Station",
+      "law": "Child seats are mandatory for children up to 12 years old or 1.35 m in height",
+      "source": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=CHILDSEATS&EOAG=LHR",
+      "checked": "2026-09-12"
+    }
+  },
+  "insuranceAndExcess": {
+    "thirdPartyIncluded": {
+      "detail": "Third Party Liability is included: unlimited cover for death or injury to a third party, and up to GBP 5,000,000 for damage to their property.",
+      "source": "https://www.sixt.co.uk/rental-information/",
+      "checked": "2026-09-12"
+    },
+    "hertzNonWaivableExcess": {
+      "detail": "Even with CDW accepted or included, a non-waivable excess applies",
+      "examples": {
+        "Kia Picanto or similar (A)": "GBP 1,700.00",
+        "Vauxhall Corsa or similar (B)": "GBP 1,700.00",
+        "Vauxhall Astra or similar (C)": "GBP 1,900.00",
+        "Kia C'eed or similar (E)": "GBP 1,900.00",
+        "Skoda Octavia or similar (D/F)": "GBP 2,100.00",
+        "Mercedes C Class / E Class (G/H)": "GBP 2,800.00",
+        "Audi R8 Spider / Bentley GTC Speed": "GBP 5,250.00"
+      },
+      "ifCdwDeclined": "Liable up to the replacement value of the vehicle",
+      "excessReduction": "SuperCover is optional, bought in the booking flow or at the counter, and waives or further reduces the excess. It does not cover accessories, missing removable parts such as keys, charging cables and spare wheels, or negligent damage (kerbed wheel rims, wrong fuel, height strikes, lost keys).",
+      "source": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=CDW&EOAG=LHR",
+      "checked": "2026-09-12"
+    },
+    "sixtExcess": {
+      "detail": "With loss damage waiver including theft protection accepted, the deductible is GBP 1,600.00 to GBP 3,000.00 depending on the vehicle, plus an administration fee per damage event. Reduction is available but minimum-excess LDW is not sold to under-25s.",
+      "source": "https://www.sixt.co.uk/rental-information/",
+      "checked": "2026-09-12"
+    },
+    "europcarTiers": {
+      "detail": "Three protection tiers for UK rentals: Basic (full excess), Medium (reduced excess), Premium (zero excess). Glass, lights and tyres are covered only from Medium upwards. None of the tiers cover negligence, wrong fuel, lost keys or unauthorised drivers.",
+      "source": "https://www.europcar.co.uk/en-gb/p/legal-information/protection-unitedkingdom",
+      "checked": "2026-09-12"
+    },
+    "deposits": {
+      "enterprise": "GBP 200 for most vehicles, GBP 500 for premium and 4x4. Deposit and excess are separate things; the deposit is refundable.",
+      "enterpriseSource": "https://www.enterprise.co.uk/en/car-hire-faqs/uk-renter-requirements/can-i-hire-a-car-without-an-excess-deposit.html",
+      "hertz": "Pay at location: the greater of the full rental cost plus a tank of fuel, or GBP 200, plus GBP 500 more if SuperCover is not purchased. Pre-pay online: the greater of extras plus a tank of fuel, or GBP 200, plus GBP 500 without SuperCover. Dollar/Thrifty hold GBP 750, or GBP 200 with SuperCover. Release can take up to 30 days to show.",
+      "hertzSource": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=DEPOSIT&EOAG=LHR",
+      "checked": "2026-09-12"
+    },
+    "cards": {
+      "hertz": "Debit cards must carry Visa or Mastercard. Visa Electron, Maestro and entertainment cards are not accepted. Cash is no longer accepted for UK rentals. A pre-paid booking must be collected with the same card, in the renter's name.",
+      "hertzSource": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=PAYMENT&EOAG=LHR",
+      "enterprise": "All major debit cards except Maestro, Electron and pre-paid cards. A credit card is required for People Carrier, Compact Elite, SUV, Premium, Luxury and Executive vehicles. All cards must carry the main driver's name.",
+      "enterpriseSource": "https://www.enterprise.co.uk/en/car-hire-faqs/uk-renter-requirements/can-i-rent-a-car-with-a-debit-card.html",
+      "checked": "2026-09-12"
+    }
+  },
+  "fuelAndCharging": {
+    "hertzFuelPolicy": {
+      "detail": "Rates exclude fuel. Cars are rented full and must be returned full, or a local refuelling charge of GBP 25.00 including tax applies on top of the cost of the fuel.",
+      "source": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=FUEL&EOAG=LHR",
+      "checked": "2026-09-12"
+    },
+    "hertzEvPolicy": {
+      "detail": "Return with the same charge level as collection or 80%, whichever is lower. Returning at 10% or less adds a GBP 22.68 administration fee. Network charging means Shell Recharge, plus Tesla Superchargers for a Tesla, accessed with the key fob or card supplied. Third-party networks and idle fees are the renter's cost.",
+      "source": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=EVFUEL&EOAG=LHR",
+      "checked": "2026-09-12"
+    },
+    "sixtFuelPolicy": {
+      "detail": "Return refuelled or pay the branch tariff for fuelling plus the fuel. Prepaid fuel and a fuelling service are sold as extras; unused fuel is not refunded.",
+      "source": "https://www.sixt.co.uk/rental-information/",
+      "checked": "2026-09-12"
+    },
+    "pumpPrices": {
+      "weekCommencing": "2026-09-07",
+      "published": "2026-09-08",
+      "unleadedPetrolPencePerLitre": 164.4,
+      "dieselPencePerLitre": 186.36,
+      "source": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
+      "dataFile": "https://assets.publishing.service.gov.uk/media/6a9ec4516beb5206555555d2/CSV__2018_-__.csv",
+      "checked": "2026-09-12"
+    },
+    "publicChargePointRegulations2023": {
+      "detail": "Contactless payment must be provided at certain public charge points; operators must offer at least one third-party roaming provider; rapid charge point networks must average 99% reliability and publish it; a free 24/7 staffed helpline is required; the total rate must be displayed in pence per kilowatt hour.",
+      "source": "https://www.gov.uk/guidance/regulations-public-charge-points",
+      "checked": "2026-09-12"
+    }
+  },
+  "oneWayAndBranchFees": {
+    "hertz": {
+      "oneWay": "Allowed subject to location and vehicle restrictions; the fee is quoted at reservation. Not allowed from the UK mainland to the Isle of Wight, the Scottish islands, Jersey or Guernsey, and not allowed on the premium groups.",
+      "heathrowReturn": "All vehicles must be returned to the Hertz main compound. Returning elsewhere costs a GBP 50.00 collection fee plus parking charges; cars left outside terminals are towed at the renter's cost.",
+      "locationServiceCharge": "Charged at certain locations such as airports and railway stations to reflect the higher cost of providing services from there.",
+      "sources": [
+        "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=ONEWAY&EOAG=LHR",
+        "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=LOCATION&EOAG=LHR",
+        "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=LSC&EOAG=LHR"
+      ],
+      "checked": "2026-09-12"
+    },
+    "sixt": {
+      "oneWay": "International one-way rentals are not allowed. Late return adds a usage fee equal to the daily rate, plus a GBP 28.80 Flexi Return Service fee if the delay is not reported. Cancellation before the rental starts costs GBP 99.",
+      "source": "https://www.sixt.co.uk/rental-information/",
+      "checked": "2026-09-12"
+    },
+    "enterprise": {
+      "oneWay": "Optional extras and one-way or cross-border charges may apply; reviewed in the charges section of the rental agreement. Pre-pay saves up to 15% with free cancellation up to 3 days before.",
+      "sources": [
+        "https://www.enterprise.co.uk/en/car-hire-faqs/uk-renter-requirements/are-there-any-add-on-charges.html",
+        "https://www.enterprise.co.uk/en/car-hire/locations/uk/london.html"
+      ],
+      "checked": "2026-09-12"
+    }
+  },
+  "hireCompanyAdminFeesOnCharges": {
+    "hertz": {
+      "fee": "GBP 46.20 including tax per parking, traffic or congestion charge fine",
+      "congestionCharge": "Hire vehicles are not exempt from the Congestion Charge. It is the renter's responsibility, including visitors from abroad, not Hertz's, to pay the charge for each day driven in the zone. Hertz will not accept liability for these charges.",
+      "note": "Hertz's own terms page still quoted a GBP 15.00 Congestion Charge and a GBP 17.50 late rate on 12 September 2026, which is out of date against TfL. Use TfL's figures.",
+      "sources": [
+        "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=FINES&EOAG=LHR",
+        "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=CONGESTION&EOAG=LHR"
+      ],
+      "checked": "2026-09-12"
+    },
+    "sixt": {
+      "fee": "GBP 40.00 administration fee for every transaction handled by Sixt, for congestion charges and for traffic fines and tolls",
+      "autoApplied": "For rentals starting from a branch inside a Congestion Charge zone, the Congestion Charge is automatically added to the rental agreement to cover the first day of hire. The renter remains liable for any other days.",
+      "source": "https://www.sixt.co.uk/rental-information/",
+      "checked": "2026-09-12"
+    },
+    "dartCharge": {
+      "hertz": "Dart Charge may apply through the Dartford Tunnel or over the QE2 Bridge; payment is the driver's, online at gov.uk/dart-charge, by phone or at a Payzone outlet.",
+      "source": "https://www.hertz.com/rentacar/reservation/reviewmodifycancel/templates/rentalTerms.jsp?KEYWORD=QE2&EOAG=LHR",
+      "checked": "2026-09-12"
+    }
+  },
+  "londonCharges": {
+    "congestionCharge": {
+      "daily": "GBP 18.00 paid in advance or on the day of travel; GBP 21.00 if paid by midnight of the third day after travel",
+      "hours": "07:00-18:00 Monday to Friday, 12:00-18:00 Saturday, Sunday and bank holidays",
+      "freePeriod": "No charge from Christmas Day to New Year's Day bank holiday inclusive",
+      "electricCars": "25% Cleaner Vehicle Discount for electric cars on Auto Pay, so GBP 13.50; 50% for electric vans, HGVs and quadricycles, so GBP 9.00. The old 100% discount has ended. Discount only applies if the vehicle is on Auto Pay.",
+      "futureChange": "From 4 March 2030 the electric car discount falls to 12.5% and the van/HGV discount to 25%",
+      "residents": "90% Residents' Discount holders pay GBP 1.80",
+      "onceADay": "One payment covers any number of entries on the same day",
+      "pcn": "GBP 180, reduced to GBP 90 if paid within 14 days, Charge Certificate GBP 270. 28 days to pay or challenge.",
+      "sources": [
+        "https://tfl.gov.uk/modes/driving/congestion-charge",
+        "https://tfl.gov.uk/modes/driving/congestion-charge/congestion-charge-changes",
+        "https://tfl.gov.uk/modes/driving/congestion-charge/paying-the-congestion-charge",
+        "https://tfl.gov.uk/modes/driving/congestion-charge/penalties-and-enforcement"
+      ],
+      "checked": "2026-09-12"
+    },
+    "ulez": {
+      "daily": "GBP 12.50",
+      "hours": "24 hours a day, every day of the year except Christmas Day",
+      "area": "All London boroughs; the M25 itself is not included",
+      "carStandards": "Petrol Euro 4 (NOx), diesel Euro 6 (NOx and PM). Compliant petrol cars are generally those first registered after 2005; compliant diesels generally those first registered after September 2015.",
+      "nonUkVehicles": "Non-UK registered vehicles must meet the standards or pay, and must be registered with TfL even if compliant",
+      "pcn": "GBP 180, GBP 90 if paid within 14 days",
+      "sources": [
+        "https://tfl.gov.uk/modes/driving/ultra-low-emission-zone",
+        "https://tfl.gov.uk/modes/driving/ultra-low-emission-zone/cars",
+        "https://tfl.gov.uk/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez"
+      ],
+      "checked": "2026-09-12"
+    },
+    "lez": {
+      "detail": "The Low Emission Zone targets the most polluting heavy diesel vehicles: lorries, vans and specialist heavy vehicles over 3.5 tonnes, and buses, minibuses and coaches over 5 tonnes. It covers most of Greater London, 24 hours a day every day. A hire car never pays it.",
+      "source": "https://tfl.gov.uk/modes/driving/low-emission-zone",
+      "checked": "2026-09-12"
+    },
+    "blackwallSilvertownTunnels": {
+      "carsNow": "GBP 4.00 per crossing paid online or by phone at any charging time; GBP 1.50 off-peak on Auto Pay; GBP 4.00 Auto Pay peak",
+      "carsFrom21September2026": "GBP 4.20 paid online or by phone; GBP 1.55 off-peak on Auto Pay",
+      "hours": "06:00-22:00 seven days a week, both directions, per crossing. No charge 22:00-06:00. Charges apply on bank holidays except Christmas Day.",
+      "peak": "06:00-10:00 northbound and 16:00-19:00 southbound, weekdays only",
+      "payBy": "Midnight on the third day after the journey",
+      "source": "https://tfl.gov.uk/modes/driving/silvertown-blackwall-tunnels-charge/paying-blackwall-and-silvertown-tunnel-charges",
+      "checked": "2026-09-12"
+    },
+    "speedLimits20": {
+      "detail": "A 20mph limit across central London was completed in March 2020. 267km of TfL's roads are at 20mph, over half of London's roads have a 20mph limit, and it is the policy of two thirds of boroughs to apply it on most roads.",
+      "source": "https://tfl.gov.uk/corporate/safety-and-security/road-safety/safe-speeds",
+      "checked": "2026-09-12"
+    },
+    "redRoutes": {
+      "detail": "Red routes are the TfL Road Network: 5% of London's road length carrying more than 30% of its traffic. TfL enforces parking, loading, yellow box junctions, bus lanes, cycle lanes, banned turns and no stopping on red lines. Roads with yellow lines, meters or residents' bays belong to the boroughs.",
+      "source": "https://tfl.gov.uk/modes/driving/red-routes/rules-of-red-routes",
+      "checked": "2026-09-12"
+    }
+  },
+  "onTheRoad": {
+    "speedLimits": {
+      "builtUp": "30 mph in England, Scotland and Northern Ireland; 20 mph in Wales",
+      "singleCarriageway": "60 mph",
+      "dualCarriageway": "70 mph",
+      "motorway": "70 mph",
+      "source": "https://www.gov.uk/speed-limits",
+      "checked": "2026-09-12"
+    },
+    "roundabouts": {
+      "detail": "Highway Code rules 184 to 190. Act on signs, lights and lane markings on approach. Check whether markings let you enter without giving way; otherwise give way to traffic already on the roundabout. Turning left: signal left, approach and stay in the left lane. Turning right: signal right, approach in the right lane, keep right until you change lanes to exit. Going straight on: choose the appropriate lane and stay in it until you alter course to exit. Give priority to cyclists and horse riders, who may stay in the left lane while continuing round.",
+      "source": "https://www.gov.uk/guidance/the-highway-code/using-the-road-159-to-203",
+      "checked": "2026-09-12"
+    },
+    "motorways": {
+      "overtaking": "Overtake only on the right. Do not overtake on the left or move left to overtake, though in congestion you may keep up with traffic in your lane.",
+      "laneClosures": "Lane and road closures shown by red flashing lights are enforced by the police; you must not go beyond the sign in any lane or use the hard shoulder to avoid a closure unless directed by a police or traffic officer.",
+      "source": "https://www.gov.uk/guidance/the-highway-code/motorways-253-to-273",
+      "checked": "2026-09-12"
+    },
+    "smartMotorways": {
+      "share": "Around 25 per cent of the motorway network is smart motorway",
+      "breakdownAdvice": "Go left, get safe, get help. Leave at the next exit or services if you can; do not stop in a live lane unless absolutely necessary. Pull into an emergency area, lay-by or hard shoulder, stop as far left as possible with wheels turned left, hazards on, exit on the side away from traffic and get behind a barrier. Do not return to the vehicle, attempt repairs or place a warning triangle. If you cannot get left, stay in the vehicle with seatbelts and hazards on and call 999 or press the SOS button. Call National Highways on 0300 123 5000 for assistance. Do not leave an emergency area without speaking to National Highways first.",
+      "source": "https://nationalhighways.co.uk/safety/driving-on-our-roads/driving-on-motorways/",
+      "checked": "2026-09-12"
+    },
+    "variableSpeedLimits": {
+      "detail": "Variable speed limits shown in a red circle are mandatory and enforceable whatever the reason for them. A blank or unlit display means the previous instruction still applies. Enforcement cameras self-check when a limit changes, which can produce a flash that does not mean you were caught.",
+      "source": "https://nationalhighways.co.uk/safety/driving-on-our-roads/variable-speed-limits/",
+      "checked": "2026-09-12"
+    },
+    "redX": {
+      "detail": "A Red X means the lane is closed and it is illegal to drive in it, whether shown on a verge sign or an overhead gantry. A fixed penalty of up to GBP 100 and three points, and in some cases more severe penalties or a court appearance.",
+      "source": "https://nationalhighways.co.uk/safety/driving-on-our-roads/red-x/",
+      "checked": "2026-09-12"
+    }
+  },
+  "tollsAndZonesOutsideLondon": {
+    "dartfordCrossing": {
+      "carCharge": "GBP 3.50 for a one-off payment or pay as you go; GBP 2.80 on a pre-pay account (up to 20% discount)",
+      "motorcycles": "Free",
+      "hours": "Charges apply 06:00-22:00 every day including weekends and bank holidays; free overnight",
+      "deadline": "Pay by midnight the day after you cross. Advance payments stay valid 12 months.",
+      "payment": "Online at gov.uk, by phone on 0300 300 0120, cash at a Payzone store, or by post. No barriers or booths.",
+      "pcn": "GBP 70, reduced to GBP 35 within 14 days, increased to GBP 105 if unpaid, on top of the crossing charge",
+      "sources": [
+        "https://www.gov.uk/pay-dartford-crossing-charge",
+        "https://www.gov.uk/pay-dartford-crossing-charge/charges",
+        "https://www.gov.uk/pay-dartford-crossing-charge/fines-penalty-charge-notices"
+      ],
+      "checked": "2026-09-12"
+    },
+    "m6Toll": {
+      "carFullLength": "GBP 12.00 standard, GBP 10.20 with a Breeze account",
+      "carShorterJourneys": "GBP 4.00 for a single zone, GBP 4.90 across two zones (standard rates)",
+      "payment": "Tap a card or device on the contactless reader at the plaza; the card issuer pre-authorises the maximum toll for the class",
+      "carClass": "Class 2 is a 2-axle vehicle under 1.3 m at the first axle",
+      "source": "https://www.m6toll.co.uk/prices/",
+      "checked": "2026-09-12"
+    },
+    "cleanAirZonesEngland": {
+      "zones": {
+        "Bath": "Class C - cars are not charged",
+        "Birmingham": "Class D - cars are charged if non-compliant",
+        "Bradford": "Class C - cars are not charged",
+        "Bristol": "Class D - cars are charged if non-compliant",
+        "Portsmouth": "Class B - cars are not charged",
+        "Sheffield": "Class C - cars are not charged",
+        "Tyneside (Newcastle and Gateshead)": "Class C - cars are not charged"
+      },
+      "carStandard": "Euro 6 diesel and Euro 4 petrol to avoid a charge",
+      "birminghamDailyFee": "GBP 8 per day for non-compliant cars, taxis and vans; GBP 50 for coaches, buses and HGVs. Midnight to midnight. Pay up to 6 days before or 6 days after.",
+      "hours": "24 hours a day, 7 days a week, every day of the year. Pay by 23:59 on the sixth day after driving in.",
+      "sources": [
+        "https://www.gov.uk/guidance/driving-in-a-clean-air-zone",
+        "https://www.gov.uk/clean-air-zones",
+        "https://www.brumbreathes.co.uk/info/25/welcome-2/45/charges-operation-1/3"
+      ],
+      "checked": "2026-09-12"
+    },
+    "oxfordZez": {
+      "detail": "Oxford's Zero Emission Zone pilot charges by emissions band, 07:00-19:00 seven days a week all year. Zero emission GBP 0, ultra-low emission (under 75 g/km CO2) GBP 2, low emission (Euro 4 petrol or Euro 6 diesel) GBP 4, anything else GBP 10. The daily charge covers the whole day and parked vehicles that do not move are not charged. Pay up to six days in advance, on the day, or in the following six days. No vehicle is banned.",
+      "note": "Unlike a Clean Air Zone, a compliant modern petrol hire car still pays, usually GBP 4",
+      "source": "https://www.oxfordshire.gov.uk/transport-and-travel/oxford-zero-emission-zone-zez/charges-oxfords-zez",
+      "checked": "2026-09-12"
+    },
+    "scotlandLez": {
+      "detail": "Four Low Emission Zones, in the city centres of Aberdeen, Dundee, Edinburgh and Glasgow, operating 24 hours a day 7 days a week including Christmas Day. Non-compliant vehicles are not allowed in: there is no daily charge and you cannot prepay to avoid a fine. ANPR cameras enforce with Penalty Charge Notices. Blue Badge holders can register an exemption.",
+      "source": "https://www.lowemissionzones.scot/",
+      "checked": "2026-09-12"
+    }
+  },
+  "parking": {
+    "yellowLines": {
+      "detail": "You must not wait or park on yellow lines during the times shown on nearby time plates, or on the zone entry signs in a Controlled Parking Zone. Double yellow lines mean no waiting at any time, even with no upright sign. Red routes mean no stopping unless signs say otherwise.",
+      "otherRules": "No parking within 10 metres of a junction except in an authorised space. No parking partially or wholly on the pavement in London or Scotland. No parking at night facing against the traffic flow unless in a recognised space. Do not load or unload where kerb markings and signs restrict it.",
+      "source": "https://www.gov.uk/guidance/the-highway-code/waiting-and-parking-238-to-252",
+      "checked": "2026-09-12"
+    },
+    "payByPhoneWestminster": {
+      "detail": "Payment terminals and pay and display machines have been removed from Westminster streets. You pay by app - RingGo, PayByPhone or JustPark, all at the same tariff - by phone through RingGo on 020 7125 9090, or with scratchcard Parking Cards bought from a Westminster library. Each operator adds an end-user charge of up to 30p per transaction; optional booking and expiry text messages cost 20p each. There is no visitor permit scheme; outside controlled hours you may park on single yellow lines.",
+      "scamWarning": "Scam 'Scan to Pay' QR code stickers have been found on Westminster pay-to-park signs, especially in zones E (Mayfair and St James's) and F (Hyde Park, Marylebone and Fitzrovia). The council does not use QR codes for payment.",
+      "source": "https://www.westminster.gov.uk/parking/visitor-parking-information",
+      "checked": "2026-09-12"
+    },
+    "westminsterTariffs": {
+      "effectiveFrom": "2026-03-02",
+      "basis": "Emissions-based, set from a DVLA lookup at the point of purchase, with five CO2 bands per zone and a 50% diesel surcharge on pre-2015 diesels",
+      "band3_91to150gkm": {
+        "A zone": "GBP 5.35 per hour",
+        "B zone": "GBP 4.34 per hour",
+        "C zone": "GBP 2.46 per hour",
+        "D zone": "GBP 3.59 per hour",
+        "E zone (Mayfair and St James's)": "GBP 7.43 per hour",
+        "F zone (Hyde Park, Marylebone, Fitzrovia)": "GBP 7.78 per hour",
+        "G zone": "GBP 7.78 per hour"
+      },
+      "band1_zeroEmission": {
+        "A zone": "GBP 3.29 per hour",
+        "E zone": "GBP 4.56 per hour",
+        "F zone": "GBP 4.78 per hour"
+      },
+      "source": "https://www.westminster.gov.uk/sites/default/files/media/documents/parking-prices-from-2-march-2026.pdf",
+      "checked": "2026-09-12"
+    },
+    "londonPcnLevels": {
+      "bandA": { "higher": "GBP 160", "lower": "GBP 110" },
+      "bandB": { "higher": "GBP 140", "lower": "GBP 90" },
+      "bandACoverage": "Barnet, Brent, Camden, City of London, Croydon, Ealing, Enfield, Greenwich, Hackney, Hammersmith & Fulham, Haringey, Hounslow, Islington, Kensington & Chelsea, Merton, Newham, Redbridge, Tower Hamlets, Waltham Forest, City of Westminster, plus the north of Wandsworth, Lambeth, Southwark and Lewisham, the west of Barking and Dagenham, and the town centres of several outer boroughs",
+      "higherVsLower": "Higher level penalties are for more serious contraventions such as parking on yellow lines or causing an obstruction; lower level penalties are for contravening the rules where parking is permitted, such as overstaying in a pay and display bay",
+      "busLaneAndMovingTraffic": "GBP 160",
+      "earlyPayment": "50% discount if paid within 14 days, or 21 days if the PCN was issued by a CCTV operation",
+      "escalation": "Unpaid after 28 days you get a charge certificate and 14 days to pay the original fine plus 50%; then a court order",
+      "recovery": "Wheel clamp release GBP 100, release from a pound GBP 280, daily storage GBP 55, vehicle disposal GBP 100",
+      "sources": [
+        "https://www.londoncouncils.gov.uk/services/parking-services/parking-and-traffic-charges-london",
+        "https://www.gov.uk/parking-tickets"
+      ],
+      "checked": "2026-09-12"
+    }
+  },
+  "notVerified": [
+    "Typical base daily rates from a central London branch and from Heathrow. Hertz, Avis, Enterprise, Europcar and Sixt all quote rates only inside a booking flow that needs a form submission, and none publishes a rate card. No primary figure was obtained.",
+    "One-way fee amounts. Hertz, Enterprise and Europcar all say a one-way fee may apply and is quoted at reservation, without publishing the amount.",
+    "Avis UK minimum age and young driver surcharge. The avis.co.uk terms portal only resolved to a non-production host, so no citable figure.",
+    "The share of UK hire fleets that is automatic. No free primary dataset (SMMT data is behind its Data Shop)."
+  ]
+}

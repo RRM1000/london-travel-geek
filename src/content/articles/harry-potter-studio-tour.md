@@ -6,7 +6,7 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-tags: [harry potter, Watford, family, things to do, days out]
+tags: [harry potter, Watford, family, things to do, days out, day trips]
 draft: false
 faq:
   - q: "How much is the Harry Potter Studio Tour?"
@@ -43,8 +43,6 @@ The family price is not a separate product. Put two adults and two children in t
 
 **The price does not move with the date.** A quiet September Tuesday and a peak Hogwarts in the Snow Saturday both charged £58.50. What changes with demand is availability, not price.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-tickets-and-transport" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="679208,31392,297085"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Booking, and the rules that catch people out
 
 - **Tickets are on sale until 31 December 2026** at the time of writing, on a rolling window the operator does not publish a schedule for.
@@ -79,6 +77,8 @@ The tour runs in one direction through 21 sections, starting with the doors of t
 The photo package covers the green screen broomstick flight and the printed extras, **but not the Hogwarts Express carriage photo**, which is sold separately.
 
 **The free accessibility alternatives are worth knowing about:** audio descriptive tours, tactile tours, braille and large-print image books, induction loops, and BSL tours with a qualified interpreter, all free — the BSL tours need 14 days' notice.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The upgrades
 
@@ -140,8 +140,6 @@ If you would rather not buy the two separately, the packages below include entry
 
 > ⚠️ **Do not buy a transfer without a ticket by mistake.** Some listings sell the coach seat only, and you will be refused boarding without your own Studio Tour ticket. Check that entry is included before you pay.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-with-transfers" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,679208,505308"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### The official coach
 
 Golden Tours is the Studio Tour's own coach partner, leaving from **Victoria, Baker Street and King's Cross**. Return transport with entry is **£125 adult, £120 child**; transport on its own, if you already have a ticket, is **£45 adult, £40 child**. Wheelchair users are told not to book the King's Cross departure.
@@ -162,6 +160,8 @@ Every car needs a booking confirmation to get in, and **you cannot go back to th
 
 Entry slots run every 30 minutes. Saturdays and school holidays sell out first; late-afternoon slots are the ones left when a date is nearly full, and they work well — the tour has no closing rush because there is no time limit once you are in.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What people get wrong
 
 - **Turning up without a ticket.** You cannot buy at the door, and you cannot even reach the shop.
@@ -178,3 +178,4 @@ Entry slots run every 30 minutes. Saturdays and school holidays sell out first; 
 - 🎬 **[London filming locations](/articles/london-filming-locations/)** — Harry Potter, Bond, Paddington and more.
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless capping works on days like this one.
 - 👨‍👩‍👧 **[London with kids](/articles/london-with-children/)** — free farms, zoos and family days out.
+- 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.

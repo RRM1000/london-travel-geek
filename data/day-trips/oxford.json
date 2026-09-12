@@ -1,0 +1,327 @@
+{
+  "_comment": [
+    "Oxford day trip from London. Primary sources only: National Rail Enquiries",
+    "journey planner, Chiltern Railways, Stagecoach Oxford Tube, Oxford Bus",
+    "Company, Oxfordshire County Council, the colleges' own visitor pages, the",
+    "Bodleian, the Ashmolean, the Pitt Rivers, the Museum of Natural History, the",
+    "University Church, the two punt stations and National Rail's Days Out Guide.",
+    "",
+    "Every price was read off the operator's or venue's own page on the date in",
+    "checked. Train times and fares were sampled for Tuesday 15 September 2026 on",
+    "the National Rail journey planner, which is the only way to see a live fare.",
+    "",
+    "NOT RECORDED because no primary source gave a figure: Christ Church guided",
+    "tour prices (only in the booking engine, released weekly), the Oxford Tube's",
+    "own end-to-end journey time (the operator publishes frequency, not duration),",
+    "the airline's fares, Oxford Castle and Prison admission (TLS handshake to",
+    "their site failed), and Oxford Botanic Garden admission."
+  ],
+  "checked": "2026-09-12",
+  "train": {
+    "source": "https://ojp.nationalrail.co.uk/ (times and fares sampled for Tue 15 September 2026)",
+    "paddington": {
+      "operator": "Great Western Railway",
+      "fastestDirect": "55 min (10:23 dep, 11:18 arr)",
+      "viaReading": "58 min with one change",
+      "offPeakSingle": "GBP 37.60 (Off-Peak, any permitted route)",
+      "advanceSingleFrom": "GBP 18.00 on the sampled date"
+    },
+    "marylebone": {
+      "operator": "Chiltern Railways",
+      "fastestDirectToOxford": "1 h 18 m (10:40 dep, 11:58 arr); 10:06 dep arrives 11:28, 1 h 22 m",
+      "toOxfordParkway": "1 h 11 m to 1 h 14 m direct",
+      "offPeakSingle": "GBP 40.60",
+      "advanceSingleFrom": "GBP 15.00 on the sampled date",
+      "chilternOwnClaims": {
+        "source": "https://www.chilternrailways.co.uk/destinations/oxford",
+        "advanceFrom": "GBP 5.40 one-way",
+        "journeyTimeClaim": "'under an hour' - the 15 September 2026 timetable shows no Marylebone-Oxford service under 1 h 18 m",
+        "offPeakStarts": "after 09:30 weekdays",
+        "stationToCentre": "10-minute walk",
+        "plusBus": "GBP 4.50 adult, GBP 2.50 child"
+      }
+    },
+    "offPeakReturn": "GBP 37.70 London Terminals to Oxford, any permitted route, so valid from either Paddington or Marylebone. Some itineraries price at GBP 43.70.",
+    "lastTrainsBack": {
+      "toPaddington": "23:06 arr 00:12 direct; a 00:10 departure arrives 01:16",
+      "toMarylebone": "22:44 arr 00:16 direct"
+    }
+  },
+  "coach": {
+    "oxfordTube": {
+      "source": "https://www.oxfordtube.com/buy-tickets and /stops and /help-and-contact",
+      "operator": "Stagecoach",
+      "frequency": "up to every 10 minutes, 24 hours a day, 7 days a week, no last coach",
+      "booking": "no need to pre-book, no peak or off-peak pricing",
+      "londonStops": ["Victoria", "Marble Arch", "Notting Hill Gate", "Shepherd's Bush", "Acton Main Line", "Hillingdon", "Baker Street (weekday morning express only)"],
+      "oxfordTerminus": "Gloucester Green",
+      "fares": {
+        "adultSingle": "GBP 18.50",
+        "adultReturn": "GBP 28.00",
+        "childSingle": "GBP 9.00",
+        "childReturn": "GBP 14.00",
+        "concessionSingle": "GBP 16.50 (student, young person, senior)",
+        "concessionReturn": "GBP 25.00",
+        "familySingle": "GBP 46.00",
+        "familyReturn": "GBP 70.00",
+        "dayTicket": "GBP 28.00 adult, GBP 14.00 child, also valid on Stagecoach West local buses",
+        "multiTrip12": "GBP 63.00 child, GBP 113.40 student or senior"
+      },
+      "journeyTime": "the operator's own suggested day out allows 2 hours from a 07:45 Victoria departure; no end-to-end duration is published",
+      "journeyTimeSource": "https://www.oxfordtube.com/offers-events/offers/a-perfect-day-out-in-oxford"
+    },
+    "airline": {
+      "source": "https://www.oxfordbus.co.uk/the-airline/",
+      "operator": "Oxford Bus Company",
+      "whatItIs": "direct airport coach between Oxford or High Wycombe and Heathrow and Gatwick terminals, 24 hours a day, 365 days a year. Not a central London service.",
+      "note": "the GBP 3 park and ride combined ticket is not valid on the airline or the Oxford Tube"
+    }
+  },
+  "driving": {
+    "congestionCharge": {
+      "source": "https://www.oxfordshire.gov.uk/transport-and-travel/oxfords-temporary-congestion-charge-cars/about-congestion-charge",
+      "daily": "GBP 5",
+      "appliesTo": "cars and motorhomes (M1) only; electric cars are not exempt; vans, motorbikes and lorries pay nothing",
+      "locations": "six temporary charging locations, signed 280 yards ahead",
+      "when": "all year round including bank holidays",
+      "payBy": "midnight the day after passing a charge location",
+      "ends": "replaced by Oxford's traffic filter trial on Monday 28 September 2026"
+    },
+    "parkAndRide": {
+      "source": "https://www.oxfordshire.gov.uk/transport-and-travel/oxfords-temporary-congestion-charge-cars/park-and-ride-combined-ticket",
+      "combinedTicket": "GBP 3 from 17 August 2026 to 31 March 2027: up to 16 hours' parking for one car plus return bus travel for up to five people of any age",
+      "sites": ["Redbridge", "Pear Tree", "Seacourt", "Thornhill", "Oxford Parkway"],
+      "howToBuy": "car park ticket machine or RingGo app, selecting the Parking & Bus option; show the ticket or active session to the driver both ways",
+      "validOn": "any Stagecoach, Oxford Bus Company or Thames Travel bus stopping within a park and ride site",
+      "notValidOn": "the airline and the Oxford Tube",
+      "parkingOnlyThornhill": "first hour free, up to 16 hours GBP 2.50, 16-24 hours GBP 4.50, 24-48 hours GBP 8.50"
+    }
+  },
+  "collegesThatCharge": [
+    {
+      "name": "Christ Church",
+      "source": "https://www.chch.ox.ac.uk/visit/daily-multimedia-tours and /visit/known-closures and /visit/things-to-see",
+      "ticket": "multimedia guide required and included in admission",
+      "onTheDayMichaelmasTerm": "4 October to 12 December 2026: adult GBP 22.95 weekday, GBP 24.95 weekend; senior or student GBP 20.50 / GBP 22.50; child 5-17 GBP 17.50 / GBP 19.50",
+      "onTheDayVacations": "2 September to 3 October and 13 to 31 December 2026: adult GBP 24.95 weekday, GBP 26.95 weekend; senior or student GBP 22.50 / GBP 24.50; child GBP 19.50 / GBP 21.50",
+      "advanceSaving": "GBP 2 per ticket booked online or at the Visitor Centre in advance",
+      "under5": "free with a paying adult, collected on the day, no multimedia guide",
+      "carer": "free carer ticket at the till with proof of entitlement",
+      "release": "tickets released each Friday at about 10am for the following week",
+      "changes": "non-refundable; free reschedule online up to two hours before with an account, otherwise GBP 2 per ticket",
+      "hours": "Mon-Sat from 10am, exit by 5pm; Sundays from 1.30pm (summer vacation) or 2pm (term)",
+      "hallClosures": "Great Hall closed Mon-Fri 12pm-2pm, and Saturdays 10.30am-2pm in Michaelmas term, for student meals; Sunday Hall opens 2pm; Saturdays the Cathedral closes 4.45pm for choir practice",
+      "fullClosures2026": ["17 September (guided tours only, morning)", "18 September", "4 October", "5 October (guided tours only)", "24 December from midday", "25 December"],
+      "hallClosedAllDay": ["8 October", "9 October"],
+      "harryPotter": "the college's own page says the Hall staircase in Bodley Tower, with 1638 fan vaulting, 'has been used in a number of film and television projects including Lewis and Harry Potter'. The Great Hall itself is the 1520s dining hall, not a film set.",
+      "meadow": "Christ Church Meadow is free all year except 25 December",
+      "notRecorded": "guided tour prices (40-minute college tour, 60-minute college and cathedral tour) are only shown in the weekly booking release"
+    },
+    {
+      "name": "Magdalen",
+      "source": "https://www.magd.ox.ac.uk/visiting-magdalen-college/",
+      "adult": "GBP 10.00",
+      "concession": "GBP 9.00 over-65s, children, students",
+      "family": "GBP 28.00, two adults and up to three children aged 7 or over",
+      "jointWithBotanicGarden": "GBP 17 adult, GBP 15 concession, one entry at each venue within 12 months",
+      "free": ["under 7s", "alumni", "local residents and one guest", "Oxford University, OUP or alumni card holders and one guest", "prospective students and families", "carers with proof"],
+      "hours": "every day 5 January to 21 December, 10am to dusk or 5pm, whichever is earlier; 6.30pm in July, August and September. Last admission 30 minutes before closing.",
+      "closures2026": ["26, 27 and 28 June", "24 September 10am-1pm only", "25 September", "4 October", "22-31 December"],
+      "notes": "card payment only; the Hall may be closed over lunchtime"
+    },
+    {
+      "name": "New College",
+      "source": "https://www.new.ox.ac.uk/visiting-the-college and /planned-closures",
+      "adult": "GBP 12 (from 1 August 2025)",
+      "concession": "GBP 11 seniors, under-16s, full-time students",
+      "family": "GBP 32, two adults and up to three children aged 7 or over",
+      "free": ["under 7s", "Oxford City permanent residents with proof", "old members and families", "prospective students and families", "Bodleian card holders and Oxford alumni plus one guest"],
+      "hoursSummer": "10 March to 31 October, 10am-5pm daily, last entry 4.30pm",
+      "hoursWinter": "1 November to 9 March: Mondays closed entirely; Tue, Wed, Thu, Fri and Sun 1.30-4.30pm, last entry 4pm; Saturdays 10am-4.30pm or dusk",
+      "hallClosure": "Hall closed daily 11.45am-2pm",
+      "closures2026": ["17 September chapel 2-3.45pm", "18 September all day", "23 September all day", "25 September all day", "26 September all day", "8 and 9 October dining hall", "7 and 14 November cloisters 12-3pm", "12 December all day", "23 December to 4 January"],
+      "notes": "card only; advance booking only for groups of 10 or more"
+    },
+    {
+      "name": "Trinity",
+      "source": "https://www.trinity.ox.ac.uk/visiting",
+      "adult": "GBP 7 (from 1 August 2025)",
+      "concession": "GBP 5 concessions, students and groups",
+      "free": ["under 12s"],
+      "hoursTerm": "10am-12pm and 2pm-5pm",
+      "hoursVacation": "10am-12pm and 1pm-5pm",
+      "open": "Dining Hall, Chapel and gardens",
+      "notes": "hours vary for private events; the college asks visitors to ring the Porter's Lodge on 01865 279900 before arriving"
+    },
+    {
+      "name": "Balliol",
+      "source": "https://www.balliol.ox.ac.uk/visit-balliol",
+      "adult": "GBP 6",
+      "concession": "GBP 3 concessions and students",
+      "free": ["potential applicants", "members of Oxford University and Oxford alumni"],
+      "hours": "10am-5pm or dusk, whichever is sooner",
+      "open": "gardens, Chapel and Hall; admission includes a free map and guide",
+      "termRestriction": "during term (weeks 0-9), summer exam periods and the admissions period, groups are limited to eight people including a guide; Green and Blue Badge guides may bring 19",
+      "notes": "phone 01865 277777 on the day to check it is open"
+    },
+    {
+      "name": "Merton",
+      "source": "https://www.merton.ox.ac.uk/visitor-information",
+      "adult": "GBP 5.00",
+      "concession": "GBP 3.00 ages 65+ and children 13-17",
+      "free": ["alumni", "members of the University with up to four guests", "accompanied children 12 and under", "prospective students"],
+      "hours": "Mon-Fri 2-5pm, Sat 10am-5pm, Sun noon-5pm, last admission 4.30pm",
+      "closedAreas": "the Hall, Fellows' Garden and residential areas are typically closed to all visitors, including alumni",
+      "closures": ["5 September", "7 November", "5, 6 and 7 January 2027"],
+      "notes": "card payments only at the Lodge"
+    }
+  ],
+  "collegesFree": [
+    {
+      "name": "Lincoln",
+      "source": "https://lincoln.ox.ac.uk/discover/the-college/visiting-lincoln",
+      "hours": "members of the public generally 2-5pm",
+      "access": "Front Quad and Chapel Quad; all chapel services including Evensong are open to the public",
+      "notes": "phone or email the Porters' Lodge (01865 279800) to confirm the college is open that day; no large tour groups; closed two weeks over Christmas"
+    },
+    {
+      "name": "Keble",
+      "source": "https://www.keble.ox.ac.uk/visiting-keble/",
+      "hours": "daily 2pm-5pm",
+      "notes": "closed for college events at times; contact the Porters before planning a visit. Closed to the public 8 and 22 August 2026."
+    },
+    {
+      "name": "St John's",
+      "source": "https://www.sjc.ox.ac.uk/discover/visit-us/",
+      "hours": "daily 2-5pm in summer, until 4pm in winter",
+      "access": "Front Quad, Canterbury Quad, the Chapel, Kendrew Quad and the gardens; Chapel open Thu-Tue 1.30-5pm, closed Wednesdays",
+      "notes": "closed during University closure periods; the Great Lawn is closed for maintenance as of 1 July 2026, the Daisy Lawn stays open"
+    },
+    {
+      "name": "Worcester",
+      "source": "https://www.worc.ox.ac.uk/about/visit",
+      "status": "NOT open to walk-in tourists",
+      "rule": "tourists may visit only on an official tour led by a member of the Oxford Guild of Tour Guides, or by attending a public event",
+      "free": "OX1 and OX2 residents, prospective applicants, University members and alumni card holders, 12.30pm-4pm seven days a week",
+      "notes": "group sizes limited to six; closed to all visitors 12 September 2026"
+    }
+  ],
+  "freeThings": [
+    {
+      "name": "Ashmolean Museum",
+      "source": "https://www.ashmolean.org/plan-your-visit",
+      "address": "Beaumont Street, OX1 2PH",
+      "price": "free, no booking for general admission",
+      "hours": "10am-5pm, last entry 4.45pm",
+      "ticketed": "major exhibitions: In Bloom: How Plants Changed Our World; Aphrodite: The Making of a Goddess from 8 October 2026",
+      "closures": "four Level 3 Mezzanine Western Art galleries closed 1 June to mid-October 2026 - Sickert (63), Pissarro (65), Pre-Raphaelites (66), 19th Century Art (67). Turner's High Street and Millais's John Ruskin moved to Gallery 44 for the summer."
+    },
+    {
+      "name": "Pitt Rivers Museum",
+      "source": "https://www.prm.ox.ac.uk/visit-us",
+      "price": "free",
+      "entrance": "via the Museum of Natural History, Parks Road, OX1 3PW",
+      "hours": "Mondays 12-5pm (bank holiday and half-term Mondays 10-5), Tuesday to Sunday 10am-5pm",
+      "note": "opens at noon on Saturday 10 October 2026"
+    },
+    {
+      "name": "Oxford University Museum of Natural History",
+      "source": "https://oumnh.ox.ac.uk/visit-us",
+      "price": "free and unticketed",
+      "address": "Parks Road, OX1 3PW",
+      "hours": "daily 10am-5pm, last admission 4.45pm",
+      "closed": "24, 25 and 26 December",
+      "note": "audioguides in nine languages; five-minute walk from the Bodleian"
+    },
+    {
+      "name": "The Covered Market",
+      "source": "https://oxford-coveredmarket.co.uk/",
+      "price": "free",
+      "hours": "Mon-Wed 8am-5.30pm, Thu-Sat 8am-10pm, Sun and bank holidays 10am-5pm",
+      "note": "over 50 independent shops, cafes and bars; individual traders' hours vary"
+    },
+    {
+      "name": "Bodleian Library",
+      "source": "https://visit.bodleian.ox.ac.uk/plan-your-visit and /plan-your-visit/our-spaces and /tours",
+      "publicHours": "Mon-Fri 9am-5pm, Sat and Sun 10am-5pm",
+      "free": [
+        "Blackwell Hall, the ground floor of the Weston Library - drop in, no ticket",
+        "the free exhibitions there: Pets & their People to 27 September 2026, Wonder of Birds to 3 January 2027",
+        "the Old Schools Quadrangle courtyard, whenever the gates are open"
+      ],
+      "paid": {
+        "divinitySchool": "GBP 3 per person self-guided, 15 minutes - the infirmary in the Harry Potter films, in the Bodleian's own words",
+        "outdoorAudioTrail": "from GBP 5.50, seven languages",
+        "tour30min": "from GBP 12.50 - includes Duke Humfrey's Library",
+        "tour60min": "from GBP 17.50",
+        "cityWalkingTour": "from GBP 25, daily",
+        "radcliffeCameraAndCityTour": "from GBP 30, Saturdays and Sundays - the only way inside the Radcliffe Camera",
+        "literaryTour": "from GBP 25, selected dates",
+        "childrensLiteratureTour": "GBP 7 children, GBP 15 adults",
+        "originsOfTheUniversity": "GBP 40, set dates",
+        "afterHoursTour": "GBP 25, Tue-Thu 30 June to 10 September 2026"
+      },
+      "closures": "Divinity School closed all day 10 September 2026 and from 2pm on 11 September; free 10am-4pm on 13 September for Oxford Open Doors",
+      "radcliffeCamera": "exterior is free to look at in Radcliffe Square; inside only on the Radcliffe Camera tour"
+    },
+    {
+      "name": "University Church of St Mary the Virgin",
+      "source": "https://www.universitychurch.ox.ac.uk/content/tower-visit",
+      "church": "free",
+      "tower": "GBP 7.00, minimum age 8",
+      "hours": "Mon-Sat 9.30am-6pm, Sun noon-6pm, last tower admission 5.30pm",
+      "climb": "127 steps up a medieval turret staircase, past the Clore Old Library and the bell ringing chamber; views over Radcliffe Square",
+      "address": "High Street, OX1 4BJ"
+    }
+  ],
+  "punting": [
+    {
+      "name": "Magdalen Bridge Boathouse",
+      "source": "https://www.oxfordpunting.co.uk/",
+      "where": "under Magdalen College tower, the lower end of the High Street",
+      "selfHire": "GBP 35 per hour, punts take up to 5 people",
+      "chauffeured": "GBP 50 per 30 minutes, up to 4 passengers, hand-crafted Oxford punts, picnic hamper available to pre-order",
+      "season": "7 days a week, 1 February to 30 November, weather permitting",
+      "hours": "9.30am-9pm or one hour before sunset",
+      "booking": "not required, but advisable on a busy weekend",
+      "lateReturn": "more than 5 minutes late adds 15 minutes' hire, and again at 20 minutes"
+    },
+    {
+      "name": "Cherwell Boathouse",
+      "source": "https://www.cherwellboathouse.co.uk/punting",
+      "where": "Bardwell Road, north Oxford, upstream of the University Parks",
+      "selfHire": "weekdays GBP 25 per hour or GBP 125 a day; weekends GBP 27 per hour or GBP 135 a day",
+      "capacity": "punts fit 6 - five seated plus a punter",
+      "season": "mid-March to mid-October, 10am until dusk, punt hire closes an hour before closing",
+      "fleet": "around 80 handmade boats, plus rowing boats and Canadian canoes; availability usually good midweek, weekends much busier",
+      "nearby": "about half an hour upstream to the Victoria Arms; downstream runs through the University Parks"
+    }
+  ],
+  "nationalRail2for1": {
+    "source": "https://www.daysoutguide.co.uk/days-out-in-great-britain/days-out-in-england/2for1-oxford plus each attraction page title",
+    "twoForOne": ["Oxford Castle and Prison", "The Story Museum", "Soldiers of Oxfordshire Museum"],
+    "fifteenPercentOff": [
+      "Oxford Official University and City Walking Tour",
+      "Oxford Official Ghost Tour",
+      "C.S. Lewis & J.R.R. Tolkien Oxford Tour",
+      "Oxford Official On Screen Tour"
+    ],
+    "listedButFree": ["Ashmolean Museum", "History of Science Museum"],
+    "notCovered": "no college, the Bodleian, the Pitt Rivers, the Museum of Natural History or either punt station appears in the scheme",
+    "ourArticle": "/articles/national-rail-2for1-london-attractions/"
+  },
+  "getyourguide": {
+    "verifiedIds": [
+      { "id": "393316", "title": "Oxford Official University & City Walking Tour", "from": "EUR 28", "url": "https://www.getyourguide.com/oxford-l441/the-official-university-and-city-tour-of-oxford-t393316/" },
+      { "id": "35599", "title": "Oxford: Christ Church Harry Potter Insight & University Tour", "from": "EUR 60", "url": "https://www.getyourguide.com/oxford-l441/oxford-christ-church-harry-potter-film-locations-tour-t35599/" },
+      { "id": "60796", "title": "From London: Cotswolds and Oxford Guided Day-Trip", "from": "EUR 79", "url": "https://www.getyourguide.com/london-l57/from-london-cotswolds-and-oxford-guided-day-trip-t60796/" }
+    ],
+    "widgetProbe": "all three ids echoed back with prices from widget.getyourguide.com/default/activities.frame with partner_id=WWP7I0R on 12 September 2026",
+    "otherCandidatesSeenButNotUsed": [
+      { "id": "331461", "title": "Oxford: Harry Potter Walking Tour Including New College" },
+      { "id": "29999", "title": "Oxford: University and City Walking Tour with College entry" },
+      { "id": "173892", "title": "From London: Oxford and Cotswolds Villages Small Group Tour" },
+      { "id": "1447811", "title": "Oxford Morning & Afternoon Tours with Lunch & College Entry" }
+    ]
+  }
+}

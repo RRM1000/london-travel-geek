@@ -1,0 +1,218 @@
+{
+  "subject": "Windsor day trip from London",
+  "checkedAt": "2026-09-12",
+  "method": "Primary sources only, fetched with a browser User-Agent: Royal Collection Trust (rct.uk), National Rail (nationalrail.co.uk), TfL (tfl.gov.uk and the api.tfl.gov.uk Single Fare Finder / Journey Planner endpoints that back it), LEGOLAND Windsor Resort, Reading Buses (Green Line 702/703), The Crown Estate's Windsor Great Park site, French Brothers, Eton College Collections, RBWM (council car parks), Days Out Guide, Google Maps for driving distance, and the GetYourGuide widget frame for activity ids. Prices are what those sites showed on 12 September 2026.",
+
+  "gettingThere": {
+    "paddingtonViaSlough": {
+      "route": "London Paddington to Slough (GWR or Elizabeth line), change for the Windsor branch to Windsor & Eton Central",
+      "journeyTime": "28-38 minutes end to end; the Slough-Windsor branch itself is 6 minutes",
+      "frequency": "roughly every 30 minutes; the branch runs every 20-30 minutes on weekdays and every 30 minutes on Sundays",
+      "contactlessSingle": { "offPeak": "GBP 7.90", "peak": "GBP 12.40" },
+      "peakDefinition": "Monday to Friday 06:30-09:30 and 16:00-19:00",
+      "dailyCap": { "peak": "GBP 34.50", "offPeak": "GBP 24.10", "weekly": "GBP 121.40" },
+      "touchInTime": "09:15 - touch in at Windsor & Eton Central between 09:15 and 09:30 on a weekday and you pay a peak fare, but it counts towards the off-peak cap",
+      "sources": [
+        "https://api.tfl.gov.uk/Stoppoint/910GPADTON/FareTo/910GWINDSEC",
+        "https://api.tfl.gov.uk/Journey/JourneyResults/1000174/to/1001855",
+        "https://www.nationalrail.co.uk/tickets-railcards-and-offers/buying-a-ticket/pay-as-you-go-with-contactless/pay-as-you-go-with-contactless-caps/"
+      ]
+    },
+    "waterlooDirect": {
+      "route": "London Waterloo to Windsor & Eton Riverside, South Western Railway, no change",
+      "journeyTime": "53 minutes",
+      "frequency": "every 30 minutes",
+      "contactlessSingle": { "offPeak": "GBP 8.90", "peak": "GBP 13.00" },
+      "dailyCap": { "peak": "GBP 36.70", "offPeak": "GBP 26.00", "weekly": "GBP 123.70" },
+      "touchInTime": "09:10",
+      "sources": [
+        "https://api.tfl.gov.uk/Stoppoint/910GWATRLMN/FareTo/910GWSORAER",
+        "https://api.tfl.gov.uk/Journey/JourneyResults/1000254/to/910GWSORAER"
+      ]
+    },
+    "contactless": {
+      "works": true,
+      "oysterAccepted": false,
+      "detail": "Both Windsor stations are inside the pay-as-you-go area and appear on National Rail's contactless stations map (grid B5, map dated 8 March 2026). TfL's Single Fare Finder data marks both with fareCategory 'ContactlessOnly' and contactlessPAYGOnlyFare true - a contactless bank card or device works, an Oyster card does not. The TfL 'Fares beyond Zone 9' caps PDF lists the Elizabeth line corridor (Iver to Reading) but not Windsor, which is why the Windsor caps have to be read off the National Rail caps table instead.",
+      "sources": [
+        "https://assets.nationalrail.co.uk/e8xgegruud3g/5R3x3OGztK6dm9Lh76tKWs/a82f98aa8e27734155c861f5f93ce577/Contactless_stations_map_8_March_26.pdf",
+        "https://tfl.gov.uk/fares/find-fares/fares-beyond-zone-9",
+        "https://content.tfl.gov.uk/national-rail-adult-fares.pdf"
+      ]
+    },
+    "whichIsBetter": "Paddington is faster and cheaper but needs a change at Slough; Windsor & Eton Central puts you a two-minute walk from the Castle entrance. Waterloo is slower and a pound more but direct, which suits pushchairs, luggage and anyone south of the river; Riverside is about five minutes' walk and has 192 parking spaces, where Central has none.",
+    "lastTrainsBack": {
+      "weekdayToPaddington": "23:56 from Windsor & Eton Central, arriving Paddington 00:28",
+      "saturdayToPaddington": "23:20, arriving 23:58",
+      "sundayToPaddington": "23:05 direct-style via Slough; 23:25 via the Elizabeth line",
+      "weekdayToWaterloo": "22:53 direct (arr 23:49); 23:37 with a change at Staines (arr 00:34)",
+      "saturdayToWaterloo": "23:21 direct, arriving 00:22",
+      "sundayToWaterloo": "22:59, and Sunday evenings are routed via Hounslow - up to 2 hours",
+      "caveat": "Sunday engineering work closes the Slough-Windsor branch outright some weeks. A check on Sunday 20 September 2026 returned no evening service at all from Windsor & Eton Central, while Sunday 27 September was normal. Check the date before committing to a late Sunday return."
+    },
+    "coach": {
+      "greenLine702": "Reading Buses' London Line 702, hourly between central London and LEGOLAND via Slough and Windsor. Connects with the Tube and National Rail at Victoria and Hammersmith and passes the Royal Albert Hall. Flightline 703 is hourly from Heathrow Terminal 5 via Datchet, under 60 minutes.",
+      "fares": "Every single fare on the 702 and 703 is capped at GBP 3 under the government fare scheme; adult return GBP 6 bought on the bus. A group ticket for up to four people all day is GBP 60 on the bus, GBP 50 in the app.",
+      "legolandExpress": "Evan Evans runs the LEGOLAND Windsor Resort Express, a branded coach from Victoria Coach Station, about 1 hour.",
+      "sources": [
+        "https://www.reading-buses.co.uk/windsor-express-routes",
+        "https://www.reading-buses.co.uk/windsor-express-fares",
+        "https://www.legoland.co.uk/plan-your-day/before-you-visit/directions/"
+      ]
+    },
+    "driving": {
+      "distance": "23.0 miles / about 52 minutes from Charing Cross via the A4 and M4; 25.2 miles / 58 minutes via the M4 (Google Maps, 12 September 2026)",
+      "castleParking": "None. Royal Collection Trust: 'There is no visitor car parking at Windsor Castle.'",
+      "townCarParks": {
+        "victoriaStreet": "RBWM multi-storey, 206 spaces, closest to the Castle. Charges 09:00-21:00 every day including bank holidays: 1hr GBP 2.60, 2hr GBP 4.40, 3hr GBP 7.10, 4hr GBP 14.50, 5hr GBP 17.00, over 5 hours GBP 22.00",
+        "alexandraGardens": "RBWM surface car park, Alma Road SL4 3HY, 198 spaces. 1hr GBP 2.30, 2hr GBP 4.60, 3hr GBP 7.00, 4hr GBP 10.00, 5hr GBP 15.00, over 5 hours GBP 19.00. The one RBWM car park that allows overnight parking.",
+        "homeParkAndKingEdwardVII": "Crown Estate car parks (SL4 1QF and SL4 6HX), charges 09:00-21:00 daily: 1hr GBP 2.20, 2hr GBP 4.40, 3hr GBP 7.00, 4hr GBP 9.30, 5hr GBP 11.20, over 5 hours GBP 13.00. Cheapest full day and next to the Long Walk. May close at weekends and during events.",
+        "windsorGreatPark": "Crown Estate park car parks: 1hr GBP 3.20, 2hr GBP 6.40, 3hr GBP 9.90, 4hr GBP 13.00, 4 hours or more GBP 16.00. Card only. Motorcycles and cyclists free, Blue Badge free, lost ticket GBP 16. Open 07:00 with last entry 19:00. No overnight parking."
+      },
+      "sources": [
+        "https://www.rct.uk/visit/windsor-castle/practical-information",
+        "https://www.rbwm.gov.uk/transport-and-streets/parking/car-parks-and-park-and-ride/car-park/victoria-street",
+        "https://www.rbwm.gov.uk/transport-and-streets/parking/car-parks-and-park-and-ride/car-park/alexandra-gardens",
+        "https://www.windsorgreatpark.co.uk/visit/parking/"
+      ]
+    }
+  },
+
+  "windsorCastle": {
+    "source": "https://www.rct.uk/visit/windsor-castle and /practical-information and /highlights-of-windsor-castle",
+    "prices": {
+      "note": "Advance price versus on-the-day price (on the day is subject to availability). There is no family ticket - 'Children go half price' and each person needs a ticket, including children of all ages.",
+      "adult": { "advance": "GBP 32.00", "onTheDay": "GBP 36.00" },
+      "youngPerson18to24": { "advance": "GBP 21.00", "onTheDay": "GBP 24.00" },
+      "child5to17": { "advance": "GBP 16.00", "onTheDay": "GBP 18.00" },
+      "disabledPerson": { "advance": "GBP 16.00", "onTheDay": "GBP 18.00" },
+      "accessCompanion": "free",
+      "under5": "free, but still needs a ticket",
+      "twoAdultsTwoChildren": "GBP 96.00 in advance, GBP 108.00 on the day",
+      "onePoundTickets": "GBP 1 tickets for people on Universal Credit and other named UK benefits",
+      "groups": "15 or more, discounted, must be pre-booked",
+      "rbwmAdvantageCard": "50% off, one child free per adult cardholder, not available on days when parts of the Castle are closed because a reduced price already applies",
+      "mod90dds": "free standard admission once a year with up to 4 guests, entry after 12 noon",
+      "addOns": {
+        "conquerTheTowerTour": "Adult GBP 42.00 advance / GBP 46.00 on the day; child GBP 21.00 / GBP 23.00. 1 Aug - 28 Sept 2026. Children must be 1.3m tall.",
+        "greatKitchenTour": "Adult GBP 40.00 advance / GBP 44.00 on the day; child GBP 20.00 / GBP 22.00. 30 Jul - 28 Sept 2026."
+      }
+    },
+    "openingDays": "Closed Tuesdays and Wednesdays, open Thursday to Monday. Exceptions: Tuesday 22 and Tuesday 29 December 2026 the Castle is open.",
+    "openingTimes": {
+      "1Nov-28Feb": { "opens": "10:00", "lastAdmission": "15:00", "closes": "16:15" },
+      "1Mar-31Oct": { "opens": "10:00", "lastAdmission": "16:00", "closes": "17:15" },
+      "stateApartments": "the entrance closes 30 minutes after the last admission time"
+    },
+    "timedEntry": "Tickets are booked for an entry time slot. 1-Year Pass holders turning up on the day may have to wait for the next available slot.",
+    "closures2026": [
+      "Saturday 17 and Sunday 18 October 2026 - St George's Hall and the Semi-State Rooms closed",
+      "Monday 19 October 2026 - Castle closed",
+      "Thursday 24 to Saturday 26 December 2026 - Castle closed",
+      "Semi-State Rooms closed until Thursday 1 October 2026 (they open autumn to spring)",
+      "Thursday 8 October 2026 - St George's Chapel closes early at 14:00",
+      "Monday 7 December 2026 - St George's Chapel closes early at 12:00"
+    ],
+    "stGeorgesChapel": {
+      "closedSundays": true,
+      "detail": "The Chapel is not part of the visit on Sunday, when it is open only for worship; worshippers are welcome at the services. On other open days the Chapel takes its last entry at 16:00 and closes at 16:15 to prepare for the 17:15 evening service, which visitors may attend. Eleven monarchs are buried there including Queen Elizabeth II, George VI, Henry VIII and Charles I. No photography inside."
+    },
+    "changingTheGuard": {
+      "thursdayAndSaturday": "Guards arrive just before 11:00, marching through Windsor town into the Castle, where the guard change ceremony takes place",
+      "mondayAndFriday": "A smaller Captain's Inspection, inside the Castle only, starting just before 11:00",
+      "tuesdayWednesday": "No ceremony for visitors - the Castle is closed",
+      "notes": "Weather permitting, and to watch the full ceremony inside the Castle you need an admission ticket. RCT points to the British Army website for the up-to-date schedule because it changes."
+    },
+    "howLongToAllow": "Royal Collection Trust suggests 1.5 to 2 hours. The Castle is at the top of a steep hill and the route covers long distances, all one-way.",
+    "oneYearPass": {
+      "how": "Before you leave, print and sign your name in the spaces on your ticket and it becomes a 1-Year Pass - your ticket purchase is treated as a donation.",
+      "valid": "12 months from the date of your first visit, on any date the site is open to the public, subject to availability",
+      "returning": "Pre-book by phone on +44 (0)303 123 7334 to guarantee a time slot - GBP 2.00 transaction fee - or turn up and show the signed pass plus proof of signature (passport, driving licence, credit or debit card). Under-18s do not need proof of signature.",
+      "excluded": "Complimentary tickets, GBP 1 tickets, St James's Palace tickets, and anything booked through a tour operator or ticket agent cannot be converted."
+    },
+    "included": "A free multimedia guide introduced by The King, in 9 languages plus BSL with subtitles, and a family version narrated by Scorch the dragon for ages 7-11. Free children's activity trails.",
+    "practical": "Airport-style security screening on arrival. No photography in the State Apartments or St George's Chapel. Large backpacks and pushchairs are not allowed in the State Apartments - there is a cloakroom at the China Museum, a 10-minute mostly uphill walk from the Admission Centre. No animals except assistance animals. Undercroft Café on site."
+  },
+
+  "restOfTheDay": {
+    "longWalk": {
+      "source": "https://www.windsorgreatpark.co.uk/explore/the-park/the-long-walk-deer-park/",
+      "detail": "Created by Charles II between 1682 and 1685, almost 2.5 miles (4.02km) of tree-lined avenue running from the Castle to the Copper Horse, the 1831 statue of George III at the top of the rise. Free, open all year. The Deer Park it crosses holds about 500 red deer, descended from forty hinds and two stags introduced in 1979. Deer rutting runs from September to early November and the Deer Park is sometimes closed for it. No cycles, scooters, rollerblades or skateboards on the Long Walk or in the Deer Park, even pushed."
+    },
+    "windsorGreatPark": "Free to enter and open all year; the charges are for parking, the Savill Garden and Adventure Play.",
+    "savillGarden": {
+      "prices": "Advance adult GBP 14.95, child 5-15 GBP 6.50, toddler 2-4 free, carer free. On the day adult GBP 18.95, child GBP 8.50. Cream tea with entry and parking GBP 20; afternoon tea with entry and parking GBP 40, both booked 72 hours ahead.",
+      "times": "09:00-18:00 daily, last entry 17:00. Allow 2-3 hours. Parking free for garden visitors.",
+      "caveat": "Satnav TW20 0UJ - it is across the Great Park from Windsor town and realistically needs a car. 1.8 miles' walk from its own car park just to reach the Copper Horse.",
+      "source": "https://www.windsorgreatpark.co.uk/explore/the-gardens/the-savill-garden/"
+    },
+    "river": {
+      "operator": "French Brothers, boarding at Windsor Promenade, SL4 1QX",
+      "fortyMinuteRoundTrip": "Adult GBP 13.50 on the day / GBP 11.90 online; child 3-13 GBP 9.00 / GBP 7.90; senior 65+ GBP 12.15 / GBP 11.00; family 2+2 GBP 36.00 / GBP 31.70; family 2+3 GBP 40.50 / GBP 35.65. Under-3s free, dogs free. Open ticket, valid for any 40-minute sailing that day.",
+      "twoHourRoundTrip": "Adult GBP 22.00 on the day / GBP 19.40 online; child GBP 14.70 / GBP 12.90. Goes through Romney Lock and the private grounds of Windsor Castle to Albert Bridge.",
+      "sailings": "14 Feb - 1 Nov 2026 daily, at least every 30 minutes, 10:00-17:00. 2 Nov - 20 Dec weekends hourly 10:00-15:00.",
+      "source": "https://www.frenchbrothers.co.uk/public-trips/windsor-40-minute-round-trip"
+    },
+    "eton": {
+      "source": "https://collections.etoncollege.com/visit-us/ and /whats-on/heritage-tours/",
+      "museums": "Eton College's museums and special exhibitions gallery are open to the public free of charge on Sunday afternoons, 13:30-16:00. The Museum of Eton Life is in Brewhouse Yard, off Eton High Street via Baldwin's Shore; the Natural History Museum and the Museum of Antiquities are on South Meadow Lane, SL4 6EW; the Verey Gallery is entered through the Museum of Eton Life.",
+      "heritageTours": "There is no Heritage Tours programme in 2026 because of essential building works; the 2027 offer is to be announced.",
+      "walk": "Eton High Street is across Windsor Bridge from Windsor town centre, with cafés and restaurants."
+    },
+    "legoland": {
+      "source": "https://www.legoland.co.uk/tickets-and-passes/ and /plan-your-day/before-you-visit/directions/ and /opening-hours/ and /tickets-passes/extras/parking/",
+      "address": "Winkfield Road, Windsor, Berkshire SL4 4AY - on the B3022 Windsor/Ascot Road, two miles from Windsor town centre",
+      "tickets": "Day tickets from GBP 32 booked online; the site's own comparison references a GBP 29.75 off-peak ticket available March-October. Annual passes from GBP 64.",
+      "parking": "GBP 13 booked online in advance, GBP 15 on the day. Priority Parking GBP 18 per car, with EV charging. Passholder parking GBP 6. ANPR barriers.",
+      "openingTimes": "Typically 10:00-18:00, some dates to 20:30. Needs a full day for 55 rides and attractions - it is its own day out, not an afternoon bolt-on to the Castle.",
+      "shuttle": "There is a shuttle bus to the park from stops close to both rail stations. LEGOLAND is explicit that it is a chargeable service and is not operated by the park.",
+      "bus": "Green Line 702 and 703 between them give a half-hourly service to central Windsor and Slough; the 702 continues hourly to London Victoria and the 703 hourly to Heathrow Terminal 5. Both are Reading Buses."
+    },
+    "whereToEat": [
+      "Undercroft Café, inside the Castle - one of the oldest surviving spaces in the building. Sandwiches, wraps, salads, teas and cakes. Water fountain after the Security Hall; no eating in the State Apartments or the Chapel except bottled water.",
+      "The Two Brewers, Park Street - Grade II listed pub in a 1709 building, serving since 1792, by the Cambridge Gate end of the Long Walk. Children on the outdoor benches only, indoors is 18+. Bookings by phone, 01753 855426.",
+      "The Boatman, 10 Thames Side SL4 1QN - Windsor's only pub on the river, below the Castle by Eton Bridge, with a riverside terrace. 01753 620010.",
+      "Windsor Royal, 5 Goswell Hill SL4 1RH - the shopping centre built into the Victorian station next to Windsor & Eton Central, merging the former Windsor Royal Station and Windsor Yards centres. The easy option straight off the train.",
+      "Eton High Street - cafés and restaurants a few minutes over Windsor Bridge."
+    ]
+  },
+
+  "nationalRail2for1": {
+    "windsorCastle": "Not in the scheme. Days Out Guide has no Windsor Castle page at all - its sitemap (534 URLs, checked 12 September 2026) lists no Royal Collection Trust site. Windsor Castle is full price however you arrive.",
+    "legolandWindsorResort": "In the scheme at one third off, not 2FOR1 - consistent with every other Merlin attraction. https://www.daysoutguide.co.uk/legoland-windsor-resort",
+    "alsoListedNearWindsor": [
+      "https://www.daysoutguide.co.uk/windsor-hop-on-hop-off-open-top-bus-tour-golden-tours",
+      "https://www.daysoutguide.co.uk/royal-windsor-afternoon-tea-bus-tour-golden-tours"
+    ],
+    "conditions": "The offer needs a valid National Rail ticket and an eVoucher, and two people - contactless and Oyster do not qualify. See /articles/national-rail-2for1-london-attractions/.",
+    "theTrap": "Contactless is the cheapest way to reach Windsor and is also the thing that disqualifies you from 2FOR1. For the Castle it makes no difference, because the Castle is not in the scheme."
+  },
+
+  "howLongTheDayTakes": "Travel 30 minutes to an hour each way, 1.5 to 2 hours in the Castle, and the Castle closes at 17:15 in summer and 16:15 in winter. A Castle-only trip is a comfortable half day. Castle plus the Long Walk to the Copper Horse and back (about 5 miles) or Castle plus a river trip and Eton fills a full day. LEGOLAND is a separate day.",
+
+  "getyourguide": {
+    "verifiedAt": "2026-09-12",
+    "method": "widget.getyourguide.com/default/activities.frame with partner_id=WWP7I0R, locale_code=en-GB, currency=GBP and tour_ids, one request at a time; then each product page opened directly and its <title> read.",
+    "widgetUsed": "53858,7319,18405",
+    "ids": [
+      { "id": "53858", "slug": "windsor-castle-entrance-ticket", "pageTitle": "Windsor Castle Admission Ticket - From £32", "note": "Matches the Royal Collection Trust advance adult price of GBP 32." },
+      { "id": "7319", "slug": "windsor-castle-stonehenge-bath-day-tour-from-london", "pageTitle": "London: Windsor Castle, Stonehenge & Bath Full-Day Tour - From £71" },
+      { "id": "18405", "slug": "windsor-oxford-and-stonehenge-day-tour-from-london", "pageTitle": "From London: Windsor, Oxford & Stonehenge Full-Day Trip" }
+    ],
+    "otherRealIdsFound": [
+      { "id": "945", "slug": "windsor-roman-baths-and-pump-room-stonehenge" },
+      { "id": "71088", "slug": "windsor-half-day" },
+      { "id": "18994", "slug": "from-london-windsor-castle-royal-afternoon-sightseeing-tour" },
+      { "id": "166535", "slug": "from-london-royal-windsor-afternoon-tour" }
+    ],
+    "check": "A frame requested with number_of_items=3 and tour_ids=53858,7319,18405 echoed back exactly those three slugs and nothing else. Asking for six pads the carousel with unrelated recommendations, which is why the embed uses three."
+  },
+
+  "notVerified": [
+    "The price and operator of the Windsor station to LEGOLAND shuttle. LEGOLAND says only that it is chargeable and not run by the park, and names no operator or fare.",
+    "The LEGOLAND Windsor Resort Express coach fare from Victoria Coach Station (Evan Evans); LEGOLAND names the service but publishes no price.",
+    "LEGOLAND's winter closed season dates - the opening-hours page serves a live rolling calendar rather than a published season start and end.",
+    "Whether the GBP 3 cap on Green Line 702 single fares has an end date.",
+    "Eton College's 2027 visitor offer, which the college says is still to be decided."
+  ]
+}
