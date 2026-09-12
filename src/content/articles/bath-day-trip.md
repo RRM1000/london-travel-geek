@@ -35,6 +35,10 @@ It is also the rare day trip where the station puts you in the middle of everyth
 
 > 💡 **The Short Version:** **Paddington to Bath Spa, 1h15 direct.** Off-Peak Return **£75.90**, or **£47.60** in Advance singles booked a month out. **Roman Baths £26.50 weekday, £29.00 weekend** in advance, **£2 more on the door**, timed slots, **allow 90 minutes to 2 hours**. **Thermae Bath Spa rooftop pool £44 weekdays, £49 weekends**, two hours, **16 and over only**, and walk-in slots run out. **Bath Abbey £9**, tower tour **£18**, and Sunday visiting is only **13:00–15:30**. **No.1 Royal Crescent £16**, closed Mondays. **Cars pay nothing in the Clean Air Zone**; older vans pay £9. **2FOR1 covers almost nothing here.** Last direct train back **23:05** on a weekday.
 
+![Pulteney Bridge seen from the river, its arches and the shops built along it, with Georgian buildings behind](../../assets/articles/bath-day-trip/pulteney-bridge-river.jpg)
+
+*Photo: Lebele, Pexels.*
+
 ## Getting there
 
 ### The train
@@ -98,6 +102,8 @@ Charges apply only to **Euro 1–5/V diesel and Euro 1–3 petrol or earlier**, 
 
 > ⚠️ **No Bath coach tour we checked includes Roman Baths admission as standard.** Several name it in the title and then sell entry as an optional extra, so you pay the £26.50 on top. Read the includes list, not the title, and budget for the ticket.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-stonehenge-and-bath-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="61147,43772,602620"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The Roman Baths
 
 This is the reason to come, and its pricing moves on two axes at once: the day of the week and the time of year.
@@ -152,7 +158,6 @@ Bath is the only city in Britain with naturally hot springs you can actually get
 
 Date and time changes cost £5 with 24 hours' notice; cancelling carries a £10 admin charge.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-stonehenge-and-bath-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="61147,43772,602620"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 > ⚠️ **Read the includes list, not the title, on any coach tour.** A large share of the Bath products sold out of London name an attraction in the title and then make its entry an optional paid extra — one called "Bath and Cotswolds Day Trip with Roman Baths" lists "Entry to the Roman Baths (ONLY IF PURCHASED)" and adds that admission fees are not included unless the paid option is selected. Another of the most-booked trips puts "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" in its inclusions. **Assume the Roman Baths ticket is yours to buy**, and treat the includes list as the only thing that counts. The three tours above are the ones whose pages say plainly what is and is not in the price.
 
@@ -160,9 +165,9 @@ Most Stonehenge trips from London bundle Bath in, which is the other way round t
 
 ## The rest of the day
 
-![Pulteney Bridge and the curved weir on the River Avon, shops built along the length of the bridge](../../assets/articles/bath-day-trip/pulteney-bridge-weir.jpg)
+![A Bath street of honey-coloured Georgian terraces with shopfronts at street level](../../assets/articles/bath-day-trip/georgian-street.jpg)
 
-*Pulteney Bridge and the weir, free and two minutes from the Baths. Photo: yoldakocayanlaar uk, Pexels.*
+*Photo: Amine Kubranur Cakiroglu, Pexels.*
 
 ### Bath Abbey
 
@@ -183,6 +188,10 @@ Most Stonehenge trips from London bundle Bath in, which is the other way round t
 Free for Discovery Card holders and BA1 and BA2 residents with proof of address; carers free.
 
 ### The Royal Crescent, the Circus and Pulteney Bridge
+
+![Pulteney Bridge and the curved weir on the River Avon, shops built along the length of the bridge](../../assets/articles/bath-day-trip/pulteney-bridge-weir.jpg)
+
+*Pulteney Bridge and the weir, free and two minutes from the Baths. Photo: yoldakocayanlaar uk, Pexels.*
 
 **These are free, and they are the best thing in Bath after the Baths.** The **Royal Crescent** is thirty Bath stone houses built between 1767 and 1775 to designs by John Wood the Younger; **the Circus**, by his father John Wood the Elder, came first, in 1754 to 1769, and **Queen Square** before that, in 1729 to 1734. Walk up from the Abbey through Queen Square, the Circus and Brock Street and you get all three in about fifteen minutes, finishing on the lawn in front of the Crescent.
 
@@ -227,9 +236,9 @@ Less than anywhere else worth visiting this far from London, and none of the hea
 
 ## How long the day takes, and the trains home
 
-![A Bath street of honey-coloured Georgian terraces with shopfronts at street level](../../assets/articles/bath-day-trip/georgian-street.jpg)
+![Bath from above: rooftops, the abbey tower and the main street running through the middle of the city, hills behind](../../assets/articles/bath-day-trip/bath-from-above.jpg)
 
-*Photo: Amine Kubranur Cakiroglu, Pexels.*
+*Photo: Jocelyn Erskine-Kellie, Pexels.*
 
 **Leave Paddington at 09:30 and you are in Bath at 10:45, which makes this a genuine full day rather than a rush.** A working shape: Roman Baths on a pre-booked late-morning slot, lunch, the walk up through Queen Square to the Circus and the Royal Crescent, the Abbey or No.1 Royal Crescent in the afternoon, and the spa from 15:00 if you have booked the Twilight package.
 
@@ -243,10 +252,6 @@ Less than anywhere else worth visiting this far from London, and none of the hea
 > ⚠️ **Sundays are a different railway on this route.** After the 22:41 the next service takes **6 hours 54 minutes** with a change, arriving 06:29 — so the last Sunday direct is a hard deadline, not a soft one. Sunday mornings are affected too: on the three Sundays we checked, departures around 09:30 ran 1h49 to 1h51 with a change, and the first direct train was not until about 10:30. One of them also showed a 2h56 routing with two changes. Check your actual date before planning a Sunday around an early arrival.
 
 ## What people get wrong
-
-![Bath from above: rooftops, the abbey tower and the main street running through the middle of the city, hills behind](../../assets/articles/bath-day-trip/bath-from-above.jpg)
-
-*Photo: Jocelyn Erskine-Kellie, Pexels.*
 
 - **Buying the train ticket on the day.** £75.90 walk-up against £47.60 in Advance singles is the single biggest saving on this trip.
 - **Taking the £29.40 "cheapest" same-day fare** and discovering it goes via Salisbury in 3 hours 26 minutes.
