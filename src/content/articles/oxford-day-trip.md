@@ -35,6 +35,8 @@ Oxford is 55 minutes from Paddington and small enough to cross on foot in twenty
 
 > 💡 **The Short Version:** **Train from Paddington, 55 minutes**, Off-Peak return **£37.70**, Advance singles from **£18**. **Oxford Tube coach from Victoria, £28 return**, every 10 minutes, **24 hours a day**. **Christ Church £22.95** on a term weekday (its Great Hall shuts 12–2pm for student lunch), **New College £12**, **Magdalen £10**, **Trinity £7**, **Merton £5**. **Lincoln, Keble and St John's are free**, all afternoons only. The **Ashmolean, Pitt Rivers and Natural History Museum are free**. **Punting is £25–£35 an hour**, or £50 per half hour with someone else doing the work. Driving means a **£5 congestion charge** — park and ride instead, **£3 for the car and up to five people**.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="965,44382,2095"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Getting there
 
 ### Train from Paddington, which is the fast one
