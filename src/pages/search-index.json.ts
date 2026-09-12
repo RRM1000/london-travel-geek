@@ -36,6 +36,22 @@ export const GET: APIRoute = async () => {
   const articles = (await getCollection("articles")).filter(
     (a) => !a.data.draft && a.data.sites.includes(activeSite.id),
   );
+
+  // slug -> the first article whose body links to that hotel. Without this a
+  // hotel in an area with no guide (Wembley, say) had nowhere to point and the
+  // result sent the reader to the front page.
+  const hotelArticle = new Map<string, string>();
+  for (const a of articles) {
+    for (const m of a.body?.matchAll(/\]\(hotel:([a-z0-9-]+)\)/g) ?? []) {
+      const slug = a.id.replace(/\.mdx?$/, "");
+      const held = hotelArticle.get(m[1]);
+      // First article wins, unless a later one is named after the place: the
+      // Novotel is linked from both the citywide stay guide and the Wembley
+      // guide, and somebody searching Wembley wants the Wembley one.
+      if (!held) hotelArticle.set(m[1], slug);
+      else if (!held.includes("area-guide") && slug.length < held.length) hotelArticle.set(m[1], slug);
+    }
+  }
   for (const a of articles) {
     records.push({
       t: "g",
@@ -70,7 +86,7 @@ export const GET: APIRoute = async () => {
     records.push({
       t: "a",
       n: v.name,
-      u: v.guide ? `/articles/${v.guide}/#things-to-do` : "/",
+      u: v.guide ? `/articles/${v.guide}/#things-to-do` : "/topics/things-to-do/",
       d: v.whyGo,
       k: [v.type, v.area, v.style, v.price].filter(Boolean).join(" "),
     });
@@ -83,7 +99,7 @@ export const GET: APIRoute = async () => {
     records.push({
       t: "e",
       n: e.name,
-      u: e.guide ? `/articles/${e.guide}/#whats-on` : "/",
+      u: e.guide ? `/articles/${e.guide}/#whats-on` : "/topics/things-to-do/",
       d: e.whyGo,
       k: [e.type, e.area, e.style, e.venue].filter(Boolean).join(" "),
     });
@@ -91,10 +107,20 @@ export const GET: APIRoute = async () => {
 
   for (const h of hotelData.hotels as any[]) {
     if (!h.name) continue;
+    // An article whose slug carries the hotel area beats a citywide guide.
+    const areaSlug = String(h.area ?? "").toLowerCase().replace(/[^a-z0-9]+/g, "-");
+    const areaMatch = areaSlug
+      ? [...hotelArticle.entries()].find(([slug, art]) => slug === h.slug && art.includes(areaSlug))?.[1]
+      : undefined;
+    const featured = areaMatch ?? hotelArticle.get(h.slug);
     records.push({
       t: "h",
       n: h.name,
-      u: h.guide ? `/articles/${h.guide}/#places-to-stay` : "/",
+      u: h.guide
+        ? `/articles/${h.guide}/#places-to-stay`
+        : featured
+          ? `/articles/${featured}/`
+          : "/stay/",
       d: h.whyGo,
       k: [h.propertyType, h.area, h.style, h.priceBand].filter(Boolean).join(" "),
     });
@@ -105,7 +131,7 @@ export const GET: APIRoute = async () => {
     records.push({
       t: "s",
       n: s.name,
-      u: s.guide ? `/articles/${s.guide}/#hidden-london` : "/",
+      u: s.guide ? `/articles/${s.guide}/#hidden-london` : "/articles/hidden-london-secret-places/",
       d: s.whyGo,
       k: [s.type, s.subject, s.area].filter(Boolean).join(" "),
     });

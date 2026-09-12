@@ -225,7 +225,10 @@ export const londonSite: SiteConfig = {
     },
     {
       label: "Plan",
-      href: "/topics/london-itineraries/",
+      // Was /topics/london-itineraries/, which lists four articles. The panel
+      // now carries transport and pre-trip guides as well, so the section
+      // landing page has to be the broader one.
+      href: "/topics/plan-your-trip/",
       description: "Itineraries built around how much time you really have.",
       imageKey: "plan",
       // Two questions, not one list. The left column answers "how long have I
