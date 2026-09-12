@@ -119,6 +119,40 @@ export const londonSite: SiteConfig = {
     // there are enough stay pages to fill a panel: hostels, cheap rooms, and
     // the constraint pages the Hotels sheet already has columns for.
     {
+      label: "Stay",
+      href: "/stay/",
+      description: "Where to stay, by area and by kind of room.",
+      imageKey: "stay",
+      children: [
+        { label: "Best areas to stay", href: "/articles/best-areas-to-stay-in-london/" },
+        { label: "Soho & the West End", href: "/articles/where-to-stay-soho-west-end/" },
+        { label: "Covent Garden", href: "/articles/where-to-stay-covent-garden/" },
+        { label: "Shoreditch", href: "/articles/where-to-stay-shoreditch/" },
+        { label: "King's Cross & St Pancras", href: "/articles/where-to-stay-kings-cross/" },
+        { label: "Capsule & pod hotels", href: "/articles/pod-hotels-london/" },
+        { label: "Aparthotels", href: "/articles/aparthotels-london/" },
+        { label: "Best hostels", href: "/articles/best-hostels-london/" },
+        { label: "All places to stay", href: "/stay/" },
+      ],
+    },
+    {
+      label: "Day Trips",
+      href: "/articles/day-trips-from-london/",
+      description: "Out of London and back in a day, priced and timed.",
+      imageKey: "dayTrips",
+      children: [
+        { label: "Start here: every day trip compared", href: "/articles/day-trips-from-london/" },
+        { label: "Harry Potter Studio Tour", href: "/articles/harry-potter-studio-tour/" },
+        { label: "Windsor", href: "/articles/windsor-day-trip/" },
+        { label: "Oxford", href: "/articles/oxford-day-trip/" },
+        { label: "Cambridge", href: "/articles/cambridge-day-trip/" },
+        { label: "Bath", href: "/articles/bath-day-trip/" },
+        { label: "Stonehenge", href: "/articles/stonehenge-day-trip/" },
+        { label: "The Cotswolds", href: "/articles/cotswolds-day-trip/" },
+        { label: "Hiring a car & driving", href: "/articles/car-hire-driving-uk/" },
+      ],
+    },
+    {
       label: "Plan",
       href: "/topics/london-itineraries/",
       description: "Itineraries built around how much time you really have.",
@@ -131,38 +165,28 @@ export const londonSite: SiteConfig = {
         { label: "One day — 13 plans by interest", href: "/articles/one-day-london-itineraries-by-interest/" },
         { label: "Three days in London", href: "/articles/three-days-in-london-itinerary/" },
         { label: "Five days in London", href: "/articles/five-days-in-london-itinerary/" },
+        { label: "London on a budget", href: "/articles/london-on-a-budget/" },
+        { label: "Is the London Pass worth it?", href: "/articles/london-pass-guide/" },
+        { label: "Travel SIM & eSIM", href: "/topics/travel-sim-cards/" },
+        { label: "Public toilets", href: "/articles/public-toilets-london/" },
         { label: "All itineraries", href: "/topics/london-itineraries/" },
       ],
       secondary: {
-        title: "Before you go",
+        title: "Getting around",
         children: [
-          { label: "London on a budget", href: "/articles/london-on-a-budget/" },
-          { label: "Is the London Pass worth it?", href: "/articles/london-pass-guide/" },
-          { label: "Travel SIM & eSIM", href: "/topics/travel-sim-cards/" },
+          { label: "Getting around London", href: "/articles/getting-around-london-transport-guide/" },
+          { label: "Oyster card guide", href: "/articles/oyster-card-guide-london/" },
+          { label: "Using the Underground", href: "/articles/how-to-use-the-london-underground/" },
+          { label: "Fares & travelcards", href: "/articles/london-public-transport-costs-and-fares/" },
+          { label: "Heathrow to London", href: "/articles/heathrow-airport-to-london/" },
+          { label: "All transport guides", href: "/topics/getting-around-london/" },
           // "Getting around London" used to sit here as well as leading the
           // Getting Around panel next door. A nav section underlines when the
           // page is any of its children, so being in two sections underlined
           // both Plan and Getting Around at once. It belongs to the section
           // named after it, and that section is one click away regardless.
-          { label: "Public toilets", href: "/articles/public-toilets-london/" },
         ],
       },
-    },
-    {
-      // "Getting Around" rather than "Transport": it is the site's own
-      // category name, and it says what the reader is trying to do.
-      label: "Getting Around",
-      href: "/topics/getting-around-london/",
-      description: "Oyster, the Tube, buses and every airport - decoded.",
-      imageKey: "transport",
-      children: [
-        { label: "Getting around London", href: "/articles/getting-around-london-transport-guide/" },
-        { label: "Oyster card guide", href: "/articles/oyster-card-guide-london/" },
-        { label: "Using the Underground", href: "/articles/how-to-use-the-london-underground/" },
-        { label: "Fares & travelcards", href: "/articles/london-public-transport-costs-and-fares/" },
-        { label: "Buses and trams", href: "/articles/how-to-use-london-buses-and-trams/" },
-        { label: "Heathrow to London", href: "/articles/heathrow-airport-to-london/" },
-      ],
     },
     // "All Guides" is deliberately NOT here. Six top-level items plus the
     // logo and the search field overran the bar at every laptop width, and

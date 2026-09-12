@@ -82,10 +82,10 @@ Euston to Watford Junction is 18 minutes, and **the shuttle bus from there is fr
 
 Some of these places are easy by train. Others — Stonehenge, the Cotswolds, Highclere — have no useful station, and a coach tour is the only sensible way to do them in a day. These are the cheapest credible prices we found, checked on 12 September 2026:
 
-| Where | From | Worth it because |
+| Where | Price | Worth it because |
 | --- | --- | --- |
-| <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">**Stonehenge**, with entry</a> | **£66** | There is no direct train, and the bus from Salisbury eats the day |
-| <a href="https://www.getyourguide.com/activity/-t215430?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">**The Cotswolds**</a> | **£89** | No village-to-village transport at all |
+| <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, with entry</a> | **£66** | There is no direct train, and the bus from Salisbury eats the day |
+| <a href="https://www.getyourguide.com/activity/-t215430?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Cotswolds</a> | **£89** | No village-to-village transport at all |
 | <a href="https://www.getyourguide.com/activity/-t71088?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, with castle entry</a> | £80 | Cheap by train instead, if you only want the castle |
 | <a href="https://www.getyourguide.com/activity/-t391446?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Canterbury and the White Cliffs</a> | £79 | Two places, one coach |
 | <a href="https://www.getyourguide.com/activity/-t2259?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Blenheim Palace and the Cotswolds</a> | £79 | Awkward pairing by train |
@@ -94,7 +94,7 @@ Some of these places are easy by train. Others — Stonehenge, the Cotswolds, Hi
 | <a href="https://www.getyourguide.com/activity/-t388125?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court with Windsor Castle</a> | £89 | Both palaces in a day |
 | <a href="https://www.getyourguide.com/activity/-t1309?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Leeds Castle, Canterbury and Dover</a> | £105 | Leeds Castle has no station |
 | <a href="https://www.getyourguide.com/activity/-t122247?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Brighton and the Seven Sisters</a> | £109 | The cliffs are the bit buses do badly |
-| <a href="https://www.getyourguide.com/activity/-t123059?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">**Highclere Castle** (Downton Abbey)</a> | £229 | Opens to visitors on limited dates |
+| <a href="https://www.getyourguide.com/activity/-t123059?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Highclere Castle (Downton Abbey)</a> | £229 | Opens to visitors on limited dates |
 | <a href="https://www.getyourguide.com/activity/-t11108?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Paris, by Eurostar</a> | £254 | A long but real day |
 | <a href="https://www.getyourguide.com/activity/-t2275?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Edinburgh</a> | £239 | Realistically an overnight sold as a day |
 
