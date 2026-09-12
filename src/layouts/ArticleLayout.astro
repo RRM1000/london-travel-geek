@@ -895,6 +895,27 @@ const breadcrumbs = [
     font-size: 1.08rem;
   }
 
+  /* Two photographs of one place read as a pair, not as a stack that
+     pushes the next heading off the screen. One column on a phone. */
+  .article__body :global(.photo-row) {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+    margin: 1.5rem 0;
+  }
+
+  .article__body :global(.photo-row img) {
+    margin: 0;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @media (width <= 40rem) {
+    .article__body :global(.photo-row) {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+
   .article__body :global(h2) {
     margin: 3.25rem 0 1rem;
     font-size: clamp(1.8rem, 4vw, 2.65rem);

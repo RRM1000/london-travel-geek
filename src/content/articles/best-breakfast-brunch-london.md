@@ -63,9 +63,9 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 
 ### The Wolseley, Piccadilly
 
-![The Wolseley's vaulted dining room, black and white floor, pillars and low-hung lamps, full of diners](../../assets/articles/best-breakfast-brunch-london/wolseley.jpg)
-
 *£££ · 3 min from Green Park* · Cited by 2 sources
+
+![The Wolseley's vaulted dining room, black and white floor, pillars and low-hung lamps, full of diners](../../assets/articles/best-breakfast-brunch-london/wolseley.jpg)
 
 A 1920s Wolseley Motors showroom on Piccadilly, turned into a Viennese-style grand café — vaulted ceilings, black lacquer and brass, and a room designed to be walked into slowly. **The London power breakfast**: if you want to see how the city does business over eggs, sit here at 8am on a weekday.
 
@@ -81,16 +81,22 @@ The first of them, opened in **2010** by cousins Shamil and Kavi Thakrar, and a 
 
 The **bacon naan roll** is the dish that turned a dinner restaurant into a breakfast destination — smoked streaky bacon, cream cheese, chilli-tomato jam and herbs in a fresh naan, and there is a double version at £9. Beside it, **akuri** (soft eggs with chilli, coriander and ginger), the Big Bombay, and chai poured from a height.
 
-**Breakfast and lunch barely queue, unlike the evenings**, and any party size can book before 6pm ([book a table](https://www.sevenrooms.com/explore/dishoom/reservations/create/search?venues=dishoombattersea%2Cdishoomcarnaby%2Cdishoomcanarywharf%2Cdishoomcoventgarden%2Cdishoomkensington%2Cdishoomkingscross%2Cdishoomshoreditch%2Cdishoombirmingham%2Cdishoomedinburgh%2Cdishoomglasgow%2Cdishoomleeds%2Cdishoommanche)). Eleven sites across the UK now, seven of them in London, with Borough opening — but Covent Garden is the original.
+<div class="photo-row">
 
 ![A bacon naan roll from Dishoom, folded open in a takeaway box](../../assets/articles/best-breakfast-brunch-london/dishoom-bacon-naan.jpg)
+
 ![A Dishoom breakfast plate with bacon, sausages, mushrooms, baked beans, akuri scrambled eggs and buttered buns](../../assets/articles/best-breakfast-brunch-london/dishoom-breakfast.jpg)
+
+</div>
+
+**Breakfast and lunch barely queue, unlike the evenings**, and any party size can book before 6pm ([book a table](https://www.sevenrooms.com/explore/dishoom/reservations/create/search?venues=dishoombattersea%2Cdishoomcarnaby%2Cdishoomcanarywharf%2Cdishoomcoventgarden%2Cdishoomkensington%2Cdishoomkingscross%2Cdishoomshoreditch%2Cdishoombirmingham%2Cdishoomedinburgh%2Cdishoomglasgow%2Cdishoomleeds%2Cdishoommanche)). Eleven sites across the UK now, seven of them in London, with Borough opening — but Covent Garden is the original.
+
 
 ### Duck & Waffle, City of London
 
-![Brunch plates at Duck & Waffle: waffles with duck egg, a full breakfast with bacon and tomato, and pancakes](../../assets/articles/best-breakfast-brunch-london/duck-and-waffle.jpg)
-
 *££££ · 3 min from Liverpool Street · 24 hours · one site* · Cited by 2 sources
+
+![Brunch plates at Duck & Waffle: waffles with duck egg, a full breakfast with bacon and tomato, and pancakes](../../assets/articles/best-breakfast-brunch-london/duck-and-waffle.jpg)
 
 The **40th floor of Heron Tower**, wraparound floor-to-ceiling windows, and **open around the clock** — the only place in London where you can watch the sun come up over the City with a plate in front of you. There is an open kitchen in the middle of the room and a 24-seat indoor-outdoor bar, so it is livelier at 2am than most places are at 8pm.
 
@@ -110,9 +116,9 @@ Breakfast runs daily, with brunch on Saturday and a Sunday lunch. Worth booking 
 
 ### Hide, Mayfair
 
-![Hide's dining room in pale wood, with its curved timber staircase rising behind the tables](../../assets/articles/best-breakfast-brunch-london/hide.jpg)
-
 *££££ · Michelin-starred · one site* · Cited by 2 sources
+
+![Hide's dining room in pale wood, with its curved timber staircase rising behind the tables](../../assets/articles/best-breakfast-brunch-london/hide.jpg)
 
 **Ollie Dabbous's** restaurant at 85 Piccadilly, opened with Hedonism Wines and looking straight out over **Green Park**. Breakfast is served in **Ground**, the ground-floor room, under a sculptural oak staircase that spirals up through all three floors — one of the few dining rooms in London people photograph for the joinery.
 
@@ -124,9 +130,9 @@ The most expensive breakfast in this guide by a distance, and the one most likel
 
 ### Fallow, St James's
 
-![Brunch at Fallow on a marble counter: a croissant sandwich, an egg-topped muffin and mushrooms on toast](../../assets/articles/best-breakfast-brunch-london/fallow.jpg)
-
 *£££ · nose-to-tail* · Cited by 2 sources
+
+![Brunch at Fallow on a marble counter: a croissant sandwich, an egg-topped muffin and mushrooms on toast](../../assets/articles/best-breakfast-brunch-london/fallow.jpg)
 
 The St James's Market kitchen from two ex-Dinner chefs, built around using the whole animal and the parts other restaurants throw out — the dinner menu is known for a **smoked cod's head with sriracha butter** and ex-dairy-cow steak. Breakfast is built on the same thinking rather than being a separate, safer menu.
 
@@ -142,9 +148,9 @@ The format that changed London breakfast, still done best by the people who brou
 
 ### Granger & Co, Notting Hill
 
-![A Granger & Co plate of poached eggs, smoked salmon, avocado, spinach and grilled sourdough](../../assets/articles/best-breakfast-brunch-london/granger-and-co.jpg)
-
 *£££ · Bill Granger* · Cited by 4 sources
+
+![A Granger & Co plate of poached eggs, smoked salmon, avocado, spinach and grilled sourdough](../../assets/articles/best-breakfast-brunch-london/granger-and-co.jpg)
 
 Bill Granger brought Sydney brunch to London in 2011 and effectively invented the format the rest of this section follows. The Notting Hill room is the original and the **smallest of the four**, all white walls and communal light — closer to Bondi than to Westbourne Grove.
 
@@ -182,9 +188,9 @@ The coffee is taken as seriously as the food: **an exclusive roast with Assembly
 
 ### Beany Green, Little Venice
 
-![The counter at Beany Green, its bright painted walls and food display with customers queuing](../../assets/articles/best-breakfast-brunch-london/beany-green.jpg)
-
 *££ · the towpath*
+
+![The counter at Beany Green, its bright painted walls and food display with customers queuing](../../assets/articles/best-breakfast-brunch-london/beany-green.jpg)
 
 Part of the Australian **Daisy Green** group, sitting right on the canal towpath at Paddington Basin with a big terrace — the easiest genuinely good breakfast within walking distance of Paddington station, and the only one on this list where you eat beside narrowboats.
 
