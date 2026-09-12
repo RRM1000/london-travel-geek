@@ -103,6 +103,16 @@ On money, one adult mid-week in winter is roughly **£33 to £40 for the rail re
 
 **88.7 miles and 2h11 from Charing Cross** via the M3 and A303. Sat nav **SP4 7DE**. **Parking is £4** for non-members, paid by app; members park free with the sticker displayed.
 
+## Seeing it free, from the National Trust land
+
+**The stones sit in 2,100 acres of National Trust downland, and that land is free and open all year.** Public byways and bridleways cross it, so you can walk to within a field of the circle without a ticket — the view from **King Barrow Ridge**, across the Avenue, is the one worth walking for.
+
+The catch is parking. **There is no parking anywhere in the landscape**, and the only car park is English Heritage's at the visitor centre, which costs **£4** (free if you have a ticket or are a member). So the free version works best on foot: it is about **1½ miles from Amesbury**, using the underpass beneath the A303 roundabout, or a mile from Durrington and Woodhenge.
+
+You also get a good look at the circle from the **A303** as you drive past, which is how most people in Britain have seen it. You cannot stop on that road, so treat it as a glimpse rather than a visit.
+
+**Free is not the same as close.** Inside the fence you walk right up to the stones; from the byways you are a few hundred metres away and will want a zoom lens. If the point of the day is the stones themselves, pay.
+
 ## Inside the circle: the Stone Circle Experience
 
 ![Close view of Stonehenge's sarsen trilithons, the lintels balanced on their uprights against the sky](../../assets/articles/stonehenge-day-trip/stonehenge-stones.jpg)
