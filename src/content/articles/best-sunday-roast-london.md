@@ -105,6 +105,8 @@ That combination — high placement, low price, no booking required — does not
 
 *££ · Angel · Cited by 2 sources · #17, Estrella Damm Top 50 Gastropubs 2026*
 
+![The Baring's bar: blue panelled counter, wooden stools and tables by tall windows, empty before service](../../assets/articles/best-sunday-roast-london/the-baring.jpg)
+
 **Seventeenth in the country in the 2026 Estrella Damm Top 50**, and in The Infatuation's description more a sit-down restaurant than a pub you can drink in — which is the fair way to set expectations.
 
 The roast is a proper plated one rather than a pub carvery: **beef with a Yorkshire pudding that arrives properly risen**, roast potatoes in beef fat, and greens that have been cooked rather than boiled. Gravy comes in a jug and is refillable, which is the test.
@@ -143,6 +145,8 @@ A straightforward, well-executed roast: beef or chicken, **roast potatoes, Yorks
 
 *££ · Angel · Cited by 3 sources · #35, Estrella Damm Top 50 Gastropubs 2026*
 
+![The Tamil Crown's Sunday roast on a steel thali: tandoori chicken, roast potatoes, parathas, poppadoms, red cabbage and curry sauces](../../assets/articles/best-sunday-roast-london/tamil-crown-roast.jpg)
+
 **The second pub from The Tamil Prince team**, doing the same Tamil-kitchen-in-a-Victorian-boozer format that London does better than anywhere else — and the Sunday roast is where the two traditions collide.
 
 The roast comes with the trimmings you expect and **masala-spiced gravy and potatoes** that you do not. It should not work and it does. The rest of the menu is the Tamil cooking the group is known for.
@@ -152,6 +156,8 @@ The roast comes with the trimmings you expect and **masala-spiced gravy and pota
 ### The Harwood Arms, Fulham
 
 *£££ · Fulham Broadway · Cited by 3 sources · #36, Estrella Damm Top 50 Gastropubs 2026*
+
+![A roast at the Harwood Arms on a board: two tall Yorkshire puddings, roast potatoes, pink beef and broccoli](../../assets/articles/best-sunday-roast-london/harwood-arms-roast.jpg)
 
 **London's only Michelin-starred pub**, and **the venison comes from the owners' own stalking** — which is the fact that explains the whole menu.
 

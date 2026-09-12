@@ -37,11 +37,7 @@ Contactless does not work. That trips people up at the gate, and it also costs t
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="137081,146070,91836"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-**Book a tour direct:**
-
-- **£119** — <a href="https://www.getyourguide.com/activity/-t2095?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford and Cambridge in a day</a>
-
-**One tour, and it is the one to think twice about.** Two college cities in a day is £119 to be driven between them, when each is a straightforward train ride on its own — [Oxford from London](/articles/oxford-day-trip/) is 55 minutes from Paddington, with an Off-Peak return at £37.70 and the same college-by-college pricing problem this page has. Do them on separate days and you pay less for more of each.
+**Not one of those includes King's College at the price on the card.** [Day tours that include Cambridge, compared](#day-tours-that-include-cambridge-compared) is further down, with what each one actually buys you.
 
 ![King's College Chapel in Cambridge, its pinnacles and great east window lit pink at dusk](../../assets/articles/cambridge-day-trip/kings-college-chapel.jpg)
 
@@ -149,6 +145,61 @@ Scudamore's has been going since 1910 and runs the Mill Lane station at Granta P
 **The shared chauffeured tour is sold by the row or the section**, not by the head: a row of up to two, a row of up to three, a section of four or a section of six, on a punt carrying twelve across four benches. It lasts 45 minutes and finishes where it started.
 
 > 💡 **College Backs hires cannot go upriver.** If you want Grantchester and the meadows, book the Grantchester boats from the Granta station — a College Backs punt is not allowed up there.
+
+## Day tours that include Cambridge, compared
+
+**A coach from London earns nothing here.** Cambridge is 49 minutes and £32.40 return, so the useful question is not how to get there — it is what to book for the hours once you arrive. GetYourGuide lists nine day trips from London that stop at Cambridge, against dozens for Windsor, and the products that matter are mostly sold in Cambridge itself.
+
+We read the includes and excludes lists on twelve product pages on 12 September 2026. **Every walking tour that puts King's College in its title makes the £16.75 entry an upgrade**, and two of the three punting prices are per boat, not per head. Links below are affiliate links; the price is the same either way.
+
+| The day | Length | From | What entry is included |
+| --- | --- | --- | --- |
+| **Guided walk, Cambridge only** | 1½–2½ hours | **£23 per person** | **Nothing** — King's is an upgrade on every one |
+| Shared punt, Cambridge only | 45–50 min | £15 per person, or £25 a row | The river, and nothing else |
+| Self-hire punt | 1 hour | £38 per punt, up to 6 | — |
+| **Walk and punt together** | 2¾–3¾ hours | **£55 per person** | **Punting yes**, King's an upgrade |
+| Oxford and Cambridge by coach | 10–11½ hours | £85 | Great St Mary's tower on the £85; colleges optional on the rest |
+| Cambridge from London by coach | 9½–10 hours | £84 | Nothing at £84; King's on the £130 |
+| Private, with Duxford and Audley End | 10 hours | £886 per car, up to 6 | Nothing — all entrance fees excluded |
+
+### The walking tours, and the King's upgrade
+
+<a href="https://www.getyourguide.com/activity/-t91614?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Cambridge Walking Tour by Alumni</a> is **£23**, 1½ to 2½ hours, 4.7 from 1,427 reviews, and led by a current student or graduate. Its excludes list is unusually honest: **"Entry to King's College Chapel (unless upgrade selected)"**, along with any indoor access beyond public areas. <a href="https://www.getyourguide.com/activity/-t339406?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Footprints Tours version</a> is **£40**, two hours, 4.7 from 1,410 reviews, and does the same thing from the other side — "Entrance to King's College (if option selected)" sits in its **includes** list with a tick beside it.
+
+**£23 plus £16.75 at the King's desk is £39.75.** That is the number to beat before you pay £40 for a walk that still does not include the chapel.
+
+### Punting: a seat, a row, or the whole boat
+
+> ⚠️ **Check the unit before you check the price.** GetYourGuide shows "per person" or "per group up to 3" in small type under the fare, and the cheapest headline is not the cheapest trip.
+
+- <a href="https://www.getyourguide.com/activity/-t472139?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Shared Punting Tour with Guide</a> — **£15 per person**, 50 minutes, 4.8 from 752 reviews. Seven colleges and nine bridges on the College Backs, with a punter, raised seats, blankets and umbrellas. The one to book on your own.
+- <a href="https://www.getyourguide.com/activity/-t281312?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Chauffeured Punting Tour</a> — **£25 per group up to 2**, 50 minutes, 4.8 from 136 reviews. A row on a twelve-seat punt, sold exactly the way the Scudamore's kiosk sells it. **Cheaper than the £15 seat once there are two of you.**
+- <a href="https://www.getyourguide.com/activity/-t137081?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Guided River Cam Punting Tour</a> — **£55 per group up to 3**, 45 minutes, 4.7 from 1,552 reviews and the most-booked punt in Cambridge, run by Scholars Punting. At three people that is £18.33 each; at one it is £55.
+- <a href="https://www.getyourguide.com/activity/-t1259465?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Self-Rental Punting</a> — **£38 per punt up to 6** for an hour from Granta Moorings, with tuition and buoyancy aids and an ID deposit. **Scudamore's charges £28.50 for the same hour booked direct**, so this one only makes sense if you want the Granta station, which is the one allowed upriver to Grantchester.
+
+<a href="https://www.getyourguide.com/activity/-t146070?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Walk and Punt Tour by Alumni</a> puts both together — **£55 per person**, 2¾ to 3¾ hours, the alumni walking tour plus a **45-minute chauffeured punt**, which is listed flat with no clause. King's Chapel is still "if option selected".
+
+### Oxford and Cambridge in one day
+
+**Two trains beat the coach.** A Cambridge Off-Peak return is £32.40 and [Oxford from London](/articles/oxford-day-trip/) is £37.70 — **£70.10 for both days**, against £119 for one day split between them.
+
+<a href="https://www.getyourguide.com/activity/-t2095?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford and Cambridge Universities Tour</a> is that **£119**, ten hours, 4.2 from 326 reviews, with a guided walk in each city, a coach and audio headsets. Its excludes list reads "Entry to King's College and Christ Church College (if selecting the option excluding college entries)" — so the £119 is the option without either. <a href="https://www.getyourguide.com/activity/-t18407?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Golden Tours day</a> is **£99** and 3.9 from 222 reviews, with both colleges "if selected".
+
+<a href="https://www.getyourguide.com/activity/-t85239?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The £85 University Town Tour</a> is the cheapest and the only one carrying an entry with no conditions — **the tower of Great St Mary's in Cambridge**. It is 11½ hours, 4.2 from 78 reviews, and Cambridge is free time rather than a guided walk.
+
+### Cambridge with the villages, and the private day
+
+<a href="https://www.getyourguide.com/activity/-t799068?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Cambridge and Medieval England</a> is Rabbie's, **£84**, 9½ hours, 4.5 from 36 reviews, in a 16-seat Mercedes minibus. It adds **Thaxted**, the timber-framed Essex wool town, before Cambridge. Entrance fees and lunch are excluded outright. It leaves from **Stance 3, Greenline Coach Station, Bulleid Way SW1W 9SH** — not Victoria Coach Station.
+
+<a href="https://www.getyourguide.com/activity/-t1110176?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Cambridge University and King's College Day Trip</a> is **£130** from Gloucester Road station, ten hours, and **the only London-departure product whose includes list says "Visit to King's College" with no clause attached**. It has three reviews.
+
+<a href="https://www.getyourguide.com/activity/-t1387613?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The private history tour to Audley End and Cambridge</a> is **£886.28 per group up to six**, ten hours door to door in a V-Class, taking in **Duxford and Audley End** with Ely Cathedral as an optional extra stop. Every entrance fee is excluded, and it has no reviews yet.
+
+### What to actually book
+
+- **A guided walk:** the <a href="https://www.getyourguide.com/activity/-t91614?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£23 alumni walking tour</a>, and buy King's separately at the door for £16.75 if the upgrade costs more than that.
+- **Punting:** <a href="https://www.getyourguide.com/activity/-t472139?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£15 a head shared</a> on your own, <a href="https://www.getyourguide.com/activity/-t281312?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£25 a row</a> for two, and Scudamore's direct at £28.50 if you want to punt yourself.
+- **Both universities:** do them on separate days by train. If you will not, <a href="https://www.getyourguide.com/activity/-t85239?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £85 tour</a> is the least bad, and the £119 is £48.90 more than both return fares combined.
 
 ## What costs nothing, and what costs almost nothing
 
