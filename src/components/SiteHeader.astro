@@ -46,13 +46,23 @@ const sectionCurrent = (item: (typeof site.navigation)[number]) =>
 // Seasonal links are filtered at BUILD time. Every deploy rebuilds, so the
 // season turns over on publish; the fallback covers a long gap between builds
 // and any month nothing is tagged for.
+//
+// Four, not five. A rail is a title plus its links, and five links made it the
+// tallest thing in the panel - taller than the eight primary links and taller
+// than the image, so October's panel stood a row deeper than September's. Four
+// lands level with both. The cap belongs here rather than in the config because
+// the seasonal list is month-filtered: October has five entries in season, and
+// this is what keeps that month the same height as every other.
+const RAIL_MAX = 4;
 const month = new Date().getMonth() + 1;
 const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => {
   if (!item.secondary) return [];
   const hits = item.secondary.children.filter(
     (c) => !c.months || c.months.includes(month),
   );
-  return hits.length ? hits.slice(0, 5) : (item.seasonalFallback ?? []).slice(0, 5);
+  return hits.length
+    ? hits.slice(0, RAIL_MAX)
+    : (item.seasonalFallback ?? []).slice(0, RAIL_MAX);
 };
 ---
 

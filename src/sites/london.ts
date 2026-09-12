@@ -8,18 +8,24 @@ export const londonSite: SiteConfig = {
   description:
     "Practical, carefully researched London travel guides for getting around, exploring top neighbourhoods and making more of every day.",
   accentLabel: "The No-Fluff Travel Handbook",
+  // EIGHT primary links per panel, no more and no fewer, with the eighth being
+  // the "All <section>" link. The links render as a two-column grid, so eight
+  // is two columns of four - which is the height of the panel image beside
+  // them. Nine made one column four deep and the other five, and every panel a
+  // different height from the last. Nothing is lost by trimming: the section's
+  // topic page lists everything, and that is what the eighth link is for.
   navigation: [
     {
       label: "Eat & Drink",
       href: "/topics/food-and-drink/",
       description: "Where to actually eat, researched list by list.",
       imageKey: "eat",
-      // Nine, not the twelve this used to carry. The panel was twice the
-      // height of the Areas one and the cuisine list could never be complete
-      // anyway - the last link does that job.
+      // Eight, not the twelve this used to carry. The cuisine list could never
+      // be complete anyway - the last link does that job. What stays: the hub,
+      // the five consensus-researched guides with the most searched-for
+      // subjects, and the budget page.
       children: [
         { label: "Where to eat in London", href: "/articles/eat-in-london-guide/" },
-        { label: "Best street food", href: "/articles/best-street-food-london/" },
         { label: "Best Indian restaurants", href: "/articles/best-indian-restaurants-london/" },
         { label: "Best pizza", href: "/articles/best-pizza-london/" },
         { label: "Best fish and chips", href: "/articles/best-fish-and-chips-london/" },
@@ -34,22 +40,30 @@ export const londonSite: SiteConfig = {
       href: "/topics/things-to-do/",
       description: "Museums, views, music and the parts of London people miss.",
       imageKey: "doing",
+      // The widest section on the site, so the eight have to cover ground
+      // rather than pile up: free, museums, views, music, shopping, the
+      // offbeat, and families. Immersive experiences, cabaret and the blue
+      // plaques map came out - they are the narrowest of the eleven, and the
+      // topic page opens with all of them.
       children: [
         { label: "Free things to do", href: "/free/" },
         { label: "Best museums", href: "/articles/best-museums-london/" },
         { label: "Best views", href: "/articles/best-views-london/" },
-        { label: "Immersive experiences", href: "/articles/immersive-experiences-london/" },
         { label: "Best live music venues", href: "/articles/best-live-music-venues-london/" },
-        { label: "Best cabaret", href: "/articles/best-cabaret-london/" },
         { label: "Shopping in London", href: "/articles/shopping-in-london/" },
         { label: "Hidden London", href: "/articles/hidden-london-secret-places/" },
-        { label: "Blue plaques map", href: "/plaques/" },
         { label: "London with children", href: "/articles/london-with-children/" },
         { label: "All things to do", href: "/topics/things-to-do/" },
       ],
       // Filtered to the current month at build time. This is where the site's
       // freshest and most-searched work lives, and the nav had no idea it
       // existed.
+      //
+      // Ten entries, but never ten at once: the busiest month is October, where
+      // five of these are in season. The rail renders the first four of
+      // whatever matches (see inSeason in SiteHeader), which is the number that
+      // stands the same height as the eight links and the image. Order matters
+      // in October, then - the first four listed are the four that show.
       secondary: {
         title: "This season",
         children: [
@@ -80,23 +94,23 @@ export const londonSite: SiteConfig = {
       description: "Every neighbourhood worth your time, compared honestly.",
       imageKey: "areas",
       // Twenty-eight area guides exist and the panel was showing three of
-      // them. These are the ones people arrive already knowing the name of.
+      // them. These are the ones people arrive already knowing the name of -
+      // the hub plus one area per part of town, so the seven read as a map of
+      // London rather than a list of the West End. Greenwich, Kensington, the
+      // City and Notting Hill come out of the panel, not off the site.
       children: [
         { label: "Best areas to visit", href: "/articles/best-areas-to-visit-london/" },
         { label: "Covent Garden", href: "/articles/covent-garden-area-guide/" },
         { label: "Soho", href: "/articles/soho-area-guide/" },
+        { label: "Westminster", href: "/articles/westminster-area-guide/" },
+        { label: "South Bank", href: "/articles/south-bank-area-guide/" },
         { label: "Shoreditch", href: "/articles/shoreditch-area-guide/" },
         { label: "Camden", href: "/articles/camden-area-guide/" },
-        { label: "Notting Hill", href: "/articles/notting-hill-area-guide/" },
-        { label: "South Bank", href: "/articles/south-bank-area-guide/" },
-        { label: "Greenwich", href: "/articles/greenwich-area-guide/" },
-        { label: "Westminster", href: "/articles/westminster-area-guide/" },
-        { label: "Kensington", href: "/articles/kensington-area-guide/" },
-        { label: "The City of London", href: "/articles/city-of-london-area-guide/" },
         { label: "All 29 area guides", href: "/topics/london-areas/" },
       ],
       // The ones worth a journey that nobody types into a search box. Same
-      // mechanism as the seasonal rail, with no months, so it always shows.
+      // mechanism as the seasonal rail, with no months, so it always shows -
+      // and the same four-deep cap, so the rail cannot outgrow the panel.
       secondary: {
         title: "Further out",
         children: [
@@ -104,8 +118,6 @@ export const londonSite: SiteConfig = {
           { label: "Richmond", href: "/articles/richmond-area-guide/" },
           { label: "Peckham", href: "/articles/peckham-area-guide/" },
           { label: "Hackney", href: "/articles/hackney-area-guide/" },
-          { label: "Stratford", href: "/articles/stratford-area-guide/" },
-          { label: "Belgravia", href: "/articles/belgravia-area-guide/" },
         ],
       },
     },
@@ -123,11 +135,13 @@ export const londonSite: SiteConfig = {
       href: "/stay/",
       description: "Where to stay, by area and by kind of room.",
       imageKey: "stay",
+      // Three areas and three kinds of room, which is the split readers arrive
+      // with. Shoreditch loses its place to keep it to eight; it is one tap
+      // away on the areas-to-stay page that leads the list.
       children: [
         { label: "Best areas to stay", href: "/articles/best-areas-to-stay-in-london/" },
         { label: "Soho & the West End", href: "/articles/where-to-stay-soho-west-end/" },
         { label: "Covent Garden", href: "/articles/where-to-stay-covent-garden/" },
-        { label: "Shoreditch", href: "/articles/where-to-stay-shoreditch/" },
         { label: "King's Cross & St Pancras", href: "/articles/where-to-stay-kings-cross/" },
         { label: "Capsule & pod hotels", href: "/articles/pod-hotels-london/" },
         { label: "Aparthotels", href: "/articles/aparthotels-london/" },
@@ -140,8 +154,12 @@ export const londonSite: SiteConfig = {
       href: "/articles/day-trips-from-london/",
       description: "Out of London and back in a day, priced and timed.",
       imageKey: "dayTrips",
+      // Seven destinations and then the comparison page, which is this
+      // section's "All" link - it used to lead the list as "Start here", but
+      // every other panel ends with the page that holds the rest, and this one
+      // should read the same way. Car hire moved out: it is a transport guide
+      // and it sits on the transport topic page the Plan panel links to.
       children: [
-        { label: "Start here: every day trip compared", href: "/articles/day-trips-from-london/" },
         { label: "Harry Potter Studio Tour", href: "/articles/harry-potter-studio-tour/" },
         { label: "Windsor", href: "/articles/windsor-day-trip/" },
         { label: "Oxford", href: "/articles/oxford-day-trip/" },
@@ -149,7 +167,7 @@ export const londonSite: SiteConfig = {
         { label: "Bath", href: "/articles/bath-day-trip/" },
         { label: "Stonehenge", href: "/articles/stonehenge-day-trip/" },
         { label: "The Cotswolds", href: "/articles/cotswolds-day-trip/" },
-        { label: "Hiring a car & driving", href: "/articles/car-hire-driving-uk/" },
+        { label: "All day trips compared", href: "/articles/day-trips-from-london/" },
       ],
     },
     {
@@ -159,7 +177,9 @@ export const londonSite: SiteConfig = {
       imageKey: "plan",
       // Two questions, not one list. The left column answers "how long have I
       // got"; the right answers "what do I need to sort before I fly". Mixed
-      // together they read as seven unrelated links.
+      // together they read as seven unrelated links. Public toilets was the
+      // ninth and answers neither question, so it leaves the panel - it is
+      // still in the guides index, in search and in the articles that need it.
       children: [
         { label: "Start here: which plan fits", href: "/articles/london-itineraries-by-days-and-interests/" },
         { label: "One day — 13 plans by interest", href: "/articles/one-day-london-itineraries-by-interest/" },
@@ -168,16 +188,16 @@ export const londonSite: SiteConfig = {
         { label: "London on a budget", href: "/articles/london-on-a-budget/" },
         { label: "Is the London Pass worth it?", href: "/articles/london-pass-guide/" },
         { label: "Travel SIM & eSIM", href: "/topics/travel-sim-cards/" },
-        { label: "Public toilets", href: "/articles/public-toilets-london/" },
         { label: "All itineraries", href: "/topics/london-itineraries/" },
       ],
+      // Four, like every other rail. Fares and the Underground how-to are both
+      // one click on from the guide that leads this list, and the airport run
+      // is the thing a reader needs before either of them.
       secondary: {
         title: "Getting around",
         children: [
           { label: "Getting around London", href: "/articles/getting-around-london-transport-guide/" },
           { label: "Oyster card guide", href: "/articles/oyster-card-guide-london/" },
-          { label: "Using the Underground", href: "/articles/how-to-use-the-london-underground/" },
-          { label: "Fares & travelcards", href: "/articles/london-public-transport-costs-and-fares/" },
           { label: "Heathrow to London", href: "/articles/heathrow-airport-to-london/" },
           { label: "All transport guides", href: "/topics/getting-around-london/" },
           // "Getting around London" used to sit here as well as leading the
