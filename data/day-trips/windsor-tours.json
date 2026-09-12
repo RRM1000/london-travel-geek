@@ -1,0 +1,335 @@
+{
+  "subject": "GetYourGuide day tours from London that include Windsor, grouped by what the day covers",
+  "checkedAt": "2026-09-12",
+  "source": "data/day-trips/gyg-inventory.json (36 Windsor product ids) plus product pages opened one by one in the browser pane at https://www.getyourguide.com/en-gb/activity/-t<id>",
+  "method": "14 product pages opened and read on 12 September 2026. For each one the inclusions and exclusions rows were read off the page by their tick/cross icon, not from the title, so a line reading 'Entry to Windsor Castle (if option selected)' is recorded as conditional even though it sits in the INCLUDES list. Prices are the page's own adult 'from' price on the date checked; where the page showed a struck-through price both are recorded. Durations, departure points, ratings and review counts are the product page's own.",
+  "doorPriceBaseline": {
+    "windsorCastleAdult": "GBP 32.00 in advance, GBP 36.00 on the day (Royal Collection Trust)",
+    "windsorCastleClosedDays": "every Tuesday and Wednesday",
+    "trainFromLondon": "GBP 7.90 off-peak contactless single from Paddington via Slough; GBP 8.90 from Waterloo direct",
+    "gygCastleTicketOnly": "id 53858, GBP 32, 4.7 from 7,945 reviews",
+    "legolandGate": "GBP 32 booked online"
+  },
+  "conditionalEntryPattern": "The single trap on this destination. A product names Windsor Castle in its title, then its inclusions list carries the line 'Entry to Windsor Castle (if option selected)'. The headline 'from' price is the option WITHOUT the ticket, so a reader who books the cheapest option arrives at Windsor with no castle ticket and pays GBP 36 at the gate. Of the 14 pages read, 9 do this with the castle.",
+  "groups": [
+    {
+      "group": "Windsor Castle alone",
+      "verdict": "The only group where the castle ticket is reliably in the price.",
+      "products": [
+        {
+          "id": 71088,
+          "title": "From London: Half-Day Trip to Windsor with Castle Tickets",
+          "price": "GBP 80 (page shows GBP 89 struck to GBP 80)",
+          "duration": "4 hours",
+          "rating": 4.4,
+          "reviews": 980,
+          "operator": "Anderson Tours",
+          "departurePoint": "Opposite Earls Court Underground station, Warwick Road exit, Bus Stop C, SW5 9TB, departs 09:00",
+          "itinerary": "45 min coach, 2.5 hours at Windsor Castle, 45 min coach back to Earl's Court",
+          "includes": ["Luxury and air-conditioned vehicle", "Pick-up and drop-off from designated meeting points in London", "Expert tour guide for live commentary on board", "Entry or admission fee to Windsor Castle"],
+          "excludes": ["Food and drinks", "Tips"],
+          "castleEntry": "INCLUDED, unconditional",
+          "pick": true
+        },
+        {
+          "id": 18994,
+          "title": "From London: Windsor Castle Royal Afternoon Sightseeing Tour",
+          "price": "GBP 69",
+          "duration": "5.5 - 6 hours",
+          "rating": 4.3,
+          "reviews": 290,
+          "includes": ["Entry to Windsor Castle State Apartments", "Visit Queen Mary's Dolls' House & St George's Chapel", "Transport to Windsor Castle from central London and back", "Audio guides in 8 languages at the castle"],
+          "excludes": ["Live guide", "Food and drink"],
+          "castleEntry": "INCLUDED, unconditional",
+          "note": "Cheapest unconditional castle-entry product read. No live guide - the castle's own audio guide does the work."
+        },
+        {
+          "id": 1447244,
+          "title": "London: Windsor Castle Entry, Audio Guide & Transport",
+          "price": "GBP 83 (page shows GBP 93 struck to GBP 83)",
+          "duration": "6 hours",
+          "rating": null,
+          "reviews": 0,
+          "operator": "Click Tours",
+          "departurePoint": "Bulleid Way, behind Victoria station",
+          "includes": ["Entry to Windsor Castle State Apartments", "Queen Mary's Dolls' House & St George's Chapel", "Return transport from central London", "Audio guide in 8 languages"],
+          "excludes": ["Live guide"],
+          "castleEntry": "INCLUDED, unconditional",
+          "note": "New listing, no reviews yet, and GBP 14 more than 18994 for the same thing. Not recommended."
+        },
+        {
+          "id": 166535,
+          "title": "From London: Windsor Castle with Transport",
+          "price": "GBP 39 headline",
+          "rating": 4.2,
+          "reviews": 965,
+          "castleEntry": "CONDITIONAL - 'only if selecting the inclusive option'. The GBP 39 is a coach seat.",
+          "avoid": true
+        }
+      ]
+    },
+    {
+      "group": "Windsor with Stonehenge",
+      "verdict": "One product includes the castle ticket without a condition; the cheap ones include neither entry.",
+      "products": [
+        {
+          "id": 502413,
+          "title": "From London: Stonehenge & Windsor Castle Tour with Tickets",
+          "price": "GBP 122 (page shows GBP 135 struck to GBP 122)",
+          "duration": "11 hours",
+          "rating": 4.6,
+          "reviews": 398,
+          "operator": "Anderson Tours",
+          "departurePoint": "Earls Court, Bus Stop C, Warwick Road, opposite the Warwick Road exit of Earls Court station",
+          "itinerary": "2.5 hours coach, 2 hours guided at Stonehenge, 100 min coach, 3 hours guided at Windsor, 45 min back to Earls Court",
+          "includes": ["Return transport from London", "Driver/guide", "Windsor Castle ticket", "Live commentary on board", "Hotel pick-up and drop-off"],
+          "conditional": ["Stonehenge visit with tickets included (if this tour option is selected)"],
+          "excludes": ["Food and drinks", "Tips"],
+          "castleEntry": "INCLUDED, unconditional",
+          "pick": true
+        },
+        {
+          "id": 565163,
+          "title": "From London: Stonehenge & Windsor Tour",
+          "price": "GBP 69",
+          "duration": "9.5 hours - 1 day",
+          "rating": 4.5,
+          "reviews": 366,
+          "operator": "Evan Evans Tours",
+          "departurePoint": "Victoria Coach Station, returns to Victoria station",
+          "includes": ["Guide", "Coach transport", "Wi-Fi and USB charging", "Live commentary", "Personal audio headset"],
+          "conditional": ["Entry to Stonehenge (if option selected)", "Entry to Windsor Castle (if option selected)"],
+          "excludes": ["Hotel pick-up and drop-off", "Lunch", "Entry to Stonehenge & Windsor (unless selecting inclusive options)"],
+          "castleEntry": "CONDITIONAL",
+          "note": "Windsor is a photo stop, visit and free time on the itinerary - not a castle visit at the GBP 69 price."
+        },
+        {
+          "id": 1247476,
+          "title": "From London: Stonehenge and Windsor Castle Guided Day Trip",
+          "price": "GBP 87",
+          "duration": "10 hours",
+          "rating": 4.5,
+          "reviews": 17,
+          "operator": "Premium Tours",
+          "conditional": ["Entry to Stonehenge (if selected)", "Entry to Windsor Castle (if selected)"],
+          "excludes": ["Food/drink", "Tips"],
+          "castleEntry": "CONDITIONAL",
+          "options": ["Stonehenge & Windsor Entry", "Stonehenge Entry", "Tour Only (No Entry)"]
+        },
+        {
+          "id": 156657,
+          "title": "From London: Extended Visit to Windsor Castle and Stonehenge",
+          "price": "GBP 69 headline",
+          "rating": 4.3,
+          "reviews": 509,
+          "castleEntry": "CONDITIONAL - both entries 'if option selected' (recorded in gyg-inventory.json flags)",
+          "avoid": true
+        }
+      ]
+    },
+    {
+      "group": "Windsor, Stonehenge and Bath",
+      "verdict": "The most-booked shape of the day and the worst for conditional entry. Exactly one of the five read includes both big admissions.",
+      "products": [
+        {
+          "id": 18402,
+          "title": "From London: Windsor Castle, Bath and Stonehenge Day Trip",
+          "price": "GBP 122 (page shows GBP 135 struck to GBP 122)",
+          "duration": "11 hours",
+          "rating": 4.4,
+          "reviews": 159,
+          "operator": "Golden Tours - Gray Line London",
+          "departurePoint": "Stop Z6 outside 50 Grosvenor Gardens, London SW1W 0DH; drops at Gloucester Road",
+          "includes": ["Admissions to Windsor Castle and Stonehenge", "Transport by luxury air-conditioned coach", "Guide", "25% off Stonehenge guidebooks"],
+          "excludes": ["Admission to Roman Baths", "Tips", "Food and drinks", "Hotel pick-up and drop-off"],
+          "castleEntry": "INCLUDED, unconditional. Stonehenge INCLUDED too. Roman Baths explicitly excluded, so Bath is a walk around the city.",
+          "pick": true
+        },
+        {
+          "id": 945,
+          "title": "London: Windsor, Stonehenge, Bath and Roman Baths Day Trip",
+          "price": "GBP 71 headline, page 'from' GBP 79",
+          "duration": "11 - 12 hours",
+          "rating": 4.5,
+          "reviews": 5821,
+          "castleEntry": "CONDITIONAL - inclusions read 'Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)'",
+          "note": "Three attraction names in the title, none of them necessarily paid for. Ranks near the top of almost every Windsor and Stonehenge query, so it is the product a reader is most likely to misread. Recorded in gyg-inventory.json flags.",
+          "avoid": true
+        },
+        {
+          "id": 7319,
+          "title": "London: Windsor Castle, Stonehenge & Bath Full-Day Tour",
+          "price": "GBP 71 (page shows GBP 79 struck to GBP 71)",
+          "duration": "11 hours - 1 day",
+          "rating": 4.5,
+          "reviews": 3549,
+          "departurePoint": "Victoria Coach Station, returns to Victoria station",
+          "itinerary": "1 hour coach, 2 hours Windsor, 1 hour Stonehenge, 2 hours Bath, 2 hours back",
+          "includes": ["Tour guide", "Coach with air conditioning, Wi-Fi and USB chargers", "Personal audio headset"],
+          "conditional": ["Entry to Stonehenge (if option selected)", "Entry to Windsor Castle (if option selected)", "Entry to Roman Baths (if option selected)"],
+          "excludes": ["Food and drinks", "Tips", "Hotel pickup/drop-off"],
+          "castleEntry": "CONDITIONAL (all three)"
+        },
+        {
+          "id": 44098,
+          "title": "London: Windsor, Stonehenge & Bath with 14th-Century Pub",
+          "price": "GBP 75",
+          "duration": "12.5 hours",
+          "rating": 4.6,
+          "reviews": 819,
+          "operator": "Premium Tours",
+          "departurePoint": "Victoria Coach Station, drops at Gloucester Road",
+          "itinerary": "1.5 hours coach, 2 hours Windsor Castle, 1 hour Bath, lunch at Lacock, 1.5 hours Stonehenge, 2 hours back",
+          "includes": ["Traditional pub lunch (fish and chips)", "Local guide", "Panoramic tour of Bath", "Transport by luxury air-conditioned coach"],
+          "conditional": ["Entry to Windsor Castle (if option selected)", "Entry to Stonehenge (if option selected)"],
+          "excludes": ["Entry to Roman Baths", "Drinks", "Tips"],
+          "castleEntry": "CONDITIONAL. Roman Baths entry is in the EXCLUDES list with a cross, not conditional at all.",
+          "note": "The included lunch is real and the only one of the trio that feeds you."
+        },
+        {
+          "id": 325,
+          "title": "London: Windsor Castle, Stonehenge and Bath Day Trip",
+          "price": "GBP 79",
+          "duration": "12 hours",
+          "rating": 4.5,
+          "reviews": 532,
+          "operator": "Premium Tours",
+          "departurePoint": "Victoria Coach Station, drops at Gloucester Road",
+          "includes": ["Luxury air-conditioned coach", "Professional guide", "Entry to Stonehenge", "Panoramic coach tour in Bath"],
+          "conditional": ["Entry to Windsor Castle (if option selected)", "Entry to the Roman Baths (if option selected)"],
+          "excludes": ["Tips"],
+          "castleEntry": "CONDITIONAL. Stonehenge entry IS unconditional here, which is unusual for this group."
+        }
+      ]
+    },
+    {
+      "group": "Windsor with Hampton Court",
+      "verdict": "Two palaces, both entries conditional. Only the named 'with Entrance Fees Included' option gets you inside either.",
+      "products": [
+        {
+          "id": 388125,
+          "title": "London: Windsor Castle & Henry VIII's Hampton Court Palace",
+          "price": "GBP 89",
+          "duration": "7 - 9 hours",
+          "rating": 4.7,
+          "reviews": 150,
+          "operator": "Golden Tours - Gray Line London",
+          "includes": ["Panoramic tour of London", "Transport by luxury air-conditioned bus", "Meet and greet at Hampton Court Palace", "Professional guide"],
+          "conditional": ["Hampton Court Palace and Gardens entry ticket (if option selected)", "Windsor Castle State Apartments entry ticket (if option selected)"],
+          "excludes": ["Food and drink"],
+          "castleEntry": "CONDITIONAL",
+          "options": ["Tour in English with Entrance Fees Included", "Flexible Tour Option without entries in English", "Signature - English"],
+          "pick": true,
+          "pickCaveat": "Best rating in its group and the only pairing that links two palaces a train cannot link easily, but you must pick the 'with Entrance Fees Included' option.",
+          "note": "This id was previously listed on the page as 'Windsor Castle and Hampton Court' at GBP 89 with no warning. Its own page states the castle is closed Tuesday and Wednesday and from 24 to 26 December."
+        }
+      ]
+    },
+    {
+      "group": "Windsor with Oxford or the Cotswolds",
+      "verdict": "The two big sellers both make the castle conditional. Both sell an 'Entrance Fees included' option at a higher price.",
+      "products": [
+        {
+          "id": 71373,
+          "title": "London: Full-Day Windsor, Stonehenge and Oxford Tour",
+          "price": "GBP 71 (page shows GBP 79 struck to GBP 71)",
+          "duration": "11 hours - 1 day",
+          "rating": 4.4,
+          "reviews": 5876,
+          "departurePoint": "Victoria Coach Station, returns to Victoria station",
+          "itinerary": "1.5 hours coach, 2 hours Windsor, 1.5 hours Stonehenge, 1.5 hours Oxford, 2 hours back",
+          "includes": ["Return transport by superior coach", "Wi-Fi and USB chargers", "Guide", "Visit to Stonehenge site", "Visit to Windsor", "Walking tour of Oxford", "Personal audio headset"],
+          "conditional": ["Entry to Stonehenge (if option selected)", "Entry to Windsor Castle (if option selected)"],
+          "excludes": ["Hotel pick-up and drop-off", "Food and drinks", "Tips"],
+          "castleEntry": "CONDITIONAL",
+          "options": ["Tour in English with Stonehenge and Windsor Castle Entry", "Tour with Stonehenge Entry Only", "and language variants"],
+          "pick": true,
+          "pickCaveat": "Most reviewed Windsor product on the platform and the only one of the three-stop shapes that includes a guided walking tour of Oxford. Pick the 'with Stonehenge and Windsor Castle Entry' option."
+        },
+        {
+          "id": 18405,
+          "title": "From London: Windsor, Oxford & Stonehenge Full-Day Trip",
+          "price": "GBP 71 (page shows GBP 79 struck to GBP 71)",
+          "duration": "10 - 12 hours",
+          "rating": 4.3,
+          "reviews": 2828,
+          "operator": "Golden Tours",
+          "departurePoint": "Green Line Coach Station, Bulleid Way; drops at Gloucester Road",
+          "includes": ["Walking tour of Oxford", "Transport by luxury air-conditioned coach", "Professional guide", "25% discount off Stonehenge guidebooks"],
+          "conditional": ["Admission to Windsor Castle (if selected)", "Admission to Stonehenge (if selected)"],
+          "excludes": ["Tips", "Drinks"],
+          "castleEntry": "CONDITIONAL",
+          "options": ["Tour in English with Entrance Fees included", "Tour in English with Stonehenge entry included", "Flexible Tour Option", "Spanish variants"]
+        }
+      ]
+    },
+    {
+      "group": "LEGOLAND Windsor",
+      "verdict": "Park entry genuinely included, but it is a GBP 53 coach seat on top of a GBP 32 gate ticket.",
+      "products": [
+        {
+          "id": 645578,
+          "title": "From London: LEGOLAND Windsor Resort Entry & Coach Transfer",
+          "price": "GBP 85",
+          "duration": "9 hours",
+          "rating": 4.0,
+          "reviews": 136,
+          "departurePoint": "Victoria station, London",
+          "includes": ["Entry to the LEGOLAND Windsor Resort", "Return transfer on a superior coach", "Wi-Fi and USB charging", "Guest service assistant"],
+          "excludes": ["Transport to the meeting point", "Food and drinks"],
+          "castleEntry": "n/a - no castle on this one",
+          "pick": true,
+          "pickCaveat": "The only London-departure LEGOLAND product with the ticket in it, but the gate price is GBP 32 and the Green Line 702 from Victoria is capped at GBP 3 a single. For a family of four the coach is roughly a GBP 150 premium. Lowest rating of any major Windsor product."
+        },
+        {
+          "id": 713574,
+          "title": "Legoland to or from Central London | Private Transfers",
+          "price": "GBP 129",
+          "castleEntry": "n/a",
+          "note": "A car, no park ticket.",
+          "avoid": true
+        },
+        {
+          "id": 1221192,
+          "title": "London: LEGOLAND Windsor Resort Private Day Trip",
+          "price": "GBP 900",
+          "reviews": 0,
+          "avoid": true
+        }
+      ]
+    },
+    {
+      "group": "Stonehenge Inner Circle with Windsor",
+      "verdict": "The only thing on this list a train genuinely cannot buy. Castle entry is still an option, not a given.",
+      "products": [
+        {
+          "id": 320558,
+          "title": "From London: Stonehenge Inner Circle and Windsor Day Trip",
+          "price": "GBP 189",
+          "duration": "11 hours",
+          "rating": 4.9,
+          "reviews": 439,
+          "operator": "Evan Evans Tours",
+          "departurePoint": "Evan Evans Tours, central London; finishes at Victoria station",
+          "itinerary": "2.25 hours coach, 2.25 hours at Stonehenge including the private Inner Circle visit, 105 min coach, 3.25 hours at Windsor Castle, 75 min back to Victoria",
+          "includes": ["Expert tour guide", "Return transport by luxury bus with Wi-Fi and USB chargers", "Private visit to the Inner Circle at Stonehenge", "Interactive map and audio content for Stonehenge", "Personal audio headset"],
+          "conditional": ["Walking tour of the town of Windsor (if option selected)", "Entry to Windsor Castle (if option selected)"],
+          "excludes": ["Food and drinks", "Hotel pickup and drop-off"],
+          "castleEntry": "CONDITIONAL - the four options split into 'Early/Late Departure with Windsor Walking Tour' and 'Early/Late Departure with Windsor Castle Entry'",
+          "rating_note": "Highest rated Windsor product on the platform.",
+          "pick": true
+        }
+      ]
+    }
+  ],
+  "conditionalEntryIds": {
+    "readOnThePageInThisPass": [565163, 7319, 44098, 325, 388125, 71373, 18405, 320558, 1247476],
+    "alreadyFlaggedInInventory": [166535, 945, 52393, 156657, 50354, 70842, 713574],
+    "castleEntryUnconditionalAndConfirmed": [71088, 18994, 1447244, 502413, 18402]
+  },
+  "notVerified": [
+    "The 22 Windsor products not opened in this pass, including 977, 45885, 538628, 1249245, 1455301, 1101374, 1276899, 1408831, 1409283, 1432883, 1453215, 1456664, 1460124, 441811, 487769, 858224, 388704, 18994 option-level detail, 1221192.",
+    "Whether the 'with Entrance Fees Included' option on 388125, 71373, 18405, 7319, 44098, 325, 565163 and 1247476 prices the castle at more or less than the GBP 32 gate - the option prices sit behind the date picker and were not read.",
+    "Child and concession pricing on every product; only the adult 'from' price was read."
+  ]
+}

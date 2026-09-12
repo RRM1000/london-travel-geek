@@ -43,6 +43,8 @@ Oxford is 55 minutes from Paddington and small enough to cross on foot in twenty
 - **£139** — <a href="https://www.getyourguide.com/activity/-t44382?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford, Stratford and the Cotswolds, small group</a>
 - **£119** — <a href="https://www.getyourguide.com/activity/-t2095?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford and Cambridge in a day</a>
 
+**Note what all three have in common: none of them is only Oxford.** The coach trade treats the city as the gateway to places with no station, and the Cotswolds is the clearest case — there is no railway between the villages and the buses largely stop on Sundays, which is why a seat on a coach is a fair answer there and a poor one here. [The Cotswolds from London](/articles/cotswolds-day-trip/) sets out which villages you can reach yourself, and one of them starts at this end: the X52 runs from Oxford through Witney to Burford and on to Cheltenham. [Cambridge](/articles/cambridge-day-trip/) is the outlier on that list, because it needs no coach at all — an Off-Peak return from King's Cross is £32.40 and the fast train takes 49 minutes, so give it a day of its own.
+
 ## Getting there
 
 ![Merton College's tower above Merton Street, with the college's windows and a stone wall running down the empty cobbled lane](../../assets/articles/oxford-day-trip/merton-street.jpg)

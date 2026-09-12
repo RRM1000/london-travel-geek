@@ -293,7 +293,7 @@ Korean barbecue is not cheap. Almost everything else on a Korean menu is.
 
 * **Seoul Bakery**, Bloomsbury — the cheapest proper Korean food in central London, in a room the size of a corridor.
 * **Dotori**, Finsbury Park — cash only, walk-in only, and the reason there is always a queue.
-* **Chick and Beers** or **Tongdak**, New Malden — fried chicken feeds two for the price of one barbecue cover.
+* **Chick and Beers** or **Tongdak**, New Malden — fried chicken feeds two for the price of one barbecue cover. Korean fried chicken is a scene in its own right in London, and it sits inside a bigger one: our [fried chicken guide](/articles/best-fried-chicken-london/) sets the Korean double-fry against the Taiwanese counter in Chinatown that more sources name than anything else.
 * **Stews and rice dishes** — kimchi jjigae, sundubu and bibimbap run roughly £12–£16 almost everywhere, *including* at the barbecue restaurants. Order those and the same room becomes affordable.
 
 #### Supermarkets and food halls

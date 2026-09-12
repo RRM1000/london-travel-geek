@@ -111,7 +111,7 @@ The centre of the redevelopment, and the part worth walking even if you buy noth
 
 **Coal Drops Yard** is the shopping half, in Victorian arches built in the 1850s to drop coal from rail wagons into carts below, with Thomas Heatherwick's two roofs kissing in the middle. Free to walk through.
 
-**The canal steps below the square are the best free seat in King's Cross** — a wide flight of stone terraces down to the water, facing west, and they fill on a warm evening.
+**The canal steps below the square are the best free seat in King's Cross** — a wide flight of stone terraces down to the water, facing west, and they fill on a warm evening. They belong to the small and useful category of outdoor seating that belongs to nobody, so you can bring your own lunch and sit down without buying anything; our guide to [eating outside in London](/articles/eat-outside-london/) maps the rest of them, and notes that Coal Drops Yard is one of the few places whose terraces are heated and covered enough to work in October.
 
 **It is dead early and busiest from mid-afternoon.** The shops keep normal retail hours but the bars and the steps run late, so evening is the better visit.
 

@@ -1,0 +1,438 @@
+{
+  "subject": "GetYourGuide day tours from London that include Stonehenge",
+  "checkedAt": "2026-09-12",
+  "source": "data/day-trips/gyg-inventory.json for the product set (destinations.Stonehenge, 60 ids), then product pages opened one at a time in the browser at https://www.getyourguide.com/en-gb/activity/-t<id>. Price, rating and review count taken from each page's own application/ld+json Product block; includes and excludes read from the inclusions accordion in the rendered DOM.",
+  "method": "Nine pages were already read during the inventory pass (657, 219849, 61147, 16096, 50354, 70842, 52393, 156657, 945). Nineteen more were opened on 12 September 2026, eighteen of them new. Twenty-seven of the sixty Stonehenge products have now had their includes and excludes lists read. Curl returns 403 on product pages after a couple of requests; the browser with a throttle between loads works, though three pages refused to render at all - see notVerified.",
+  "theTest": "A product is only recorded as entry-included when the word 'entry', 'entrance', 'admission' or 'access' appears in the inclusions list with no conditional clause after it. 'if option selected', 'ONLY if option selected', 'if purchased', 'if selected' and 'If This Tour Option is Selected' all count as conditional, whatever the title says.",
+
+  "groups": {
+    "stonehengeAlone": {
+      "hours": "6 to 7",
+      "fromPrice": "GBP 36.80",
+      "entryIncluded": "all four read",
+      "bestPick": 219849,
+      "productsRead": [219849, 657, 16096, 619]
+    },
+    "stonehengeAndBath": {
+      "hours": "10 to 12",
+      "fromPrice": "GBP 69",
+      "entryIncluded": "one of the six read",
+      "bestPick": 61147,
+      "productsRead": [61147, 52393, 50354, 70842, 15627, 43772]
+    },
+    "windsorOrOxfordStonehengeBath": {
+      "hours": "10 to 12.5",
+      "fromPrice": "GBP 71.10",
+      "entryIncluded": "none of the nine read - a paid option on every one",
+      "bestPick": 502413,
+      "bestPickNote": "Windsor Castle ticket is unconditional, the Stonehenge ticket is not. There is no product in this group with both entries included as standard; the alternative is to take the named inclusive option on 71373.",
+      "productsRead": [945, 7319, 71373, 18405, 44098, 156657, 565163, 502413, 977]
+    },
+    "stonehengeAndCotswolds": {
+      "hours": "10 to 11",
+      "fromPrice": "GBP 85",
+      "entryIncluded": "yes on the minibus, no on the small-group day",
+      "bestPick": 876613,
+      "productsRead": [876613, 602620]
+    },
+    "stonehengeWithAveburyGlastonburyOrLacock": {
+      "hours": "10 to 11",
+      "fromPrice": "GBP 98",
+      "entryIncluded": "both read include Stonehenge",
+      "bestPick": 46107,
+      "bestPickNote": "46107 is the only product read that includes three paid admissions outright. 65388 is cheaper and includes Stonehenge, but makes the Avebury leg itself option-dependent.",
+      "productsRead": [65388, 46107]
+    },
+    "stonehengeAndOxford": {
+      "hours": "11",
+      "fromPrice": "GBP 79",
+      "entryIncluded": "yes",
+      "bestPick": 234277,
+      "productsRead": [234277]
+    },
+    "innerCircle": {
+      "hours": "11 to 12",
+      "fromPrice": "GBP 140.25",
+      "entryIncluded": "all three read include inner-circle access",
+      "bestPick": 11109,
+      "productsRead": [11109, 137303, 320558]
+    },
+    "privateCarWithDriver": {
+      "hours": "8 to 12",
+      "fromPrice": "GBP 345",
+      "entryIncluded": "not established - no page in this group was read",
+      "bestPick": null,
+      "productIds": [1458253, 921501, 1129278, 487769, 441811, 1347110],
+      "note": "Prices and durations echoed back by the widget frame during the inventory pass only. Do not state what any of these include."
+    }
+  },
+
+  "entryConfirmedIncluded": [
+    {
+      "id": 219849,
+      "title": "From London: Stonehenge Morning Day Trip with Admission",
+      "price": "GBP 66",
+      "duration": "6h 30m",
+      "rating": 4.8,
+      "reviews": 3952,
+      "departure": "Outside the Lycee Francais, 29-35 Cromwell Road SW7 2DG, South Kensington",
+      "includes": ["Admission to Stonehenge Monument & Exhibition", "Air-conditioned transport", "Driver/guide", "Downloadable audio guide at Stonehenge"],
+      "excludes": ["Food and drinks", "Tips"],
+      "optionalExtras": [],
+      "readAt": "inventory pass, re-confirmed against the same page 12 Sep 2026"
+    },
+    {
+      "id": 657,
+      "title": "London: Stonehenge Morning or Afternoon Tour with Optional Lunch",
+      "price": "GBP 36.80",
+      "duration": "6.5 hours",
+      "rating": 4.4,
+      "reviews": 4747,
+      "departure": "Varies by option (two options: Tour, Tour with Fish & Chips)",
+      "includes": ["Transport by air-conditioned coach", "Entrance fee to Stonehenge", "Use of the shuttle service to the stones", "Downloadable audio guide (on your own device)", "Fish and chips after tour (if option selected)"],
+      "excludes": ["Services of a live guide", "Hotel pick-up and drop-off", "Tips"],
+      "optionalExtras": ["Fish and chips"],
+      "readAt": "2026-09-12",
+      "priceAnomalyResolved": "The inventory recorded a GBP 27 page 'from' price for this product and flagged it as below the gate ticket. That GBP 27 was the Stonehenge Admission Ticket card in the page's 'You might also like' rail, not this product. The page's own ld+json lowPrice is 36.8, and both of its two options carry the entrance fee unconditionally. No anomaly. The operator is Premium Tours and there is no live guide, which is where the saving comes from."
+    },
+    {
+      "id": 16096,
+      "title": "From London: Stonehenge Half-Day Trip",
+      "price": "GBP 69.30",
+      "duration": "6 hours",
+      "rating": 4.5,
+      "reviews": 2128,
+      "departure": "Varies by option",
+      "includes": ["Admission to Stonehenge", "Transport by air-conditioned coach", "25% off Stonehenge guidebooks"],
+      "excludes": ["Tips", "Additional refreshments"],
+      "optionalExtras": [],
+      "readAt": "inventory pass"
+    },
+    {
+      "id": 619,
+      "title": "From London: Stonehenge Half-Day Tour",
+      "price": "GBP 65",
+      "duration": "7 hours",
+      "rating": 4.3,
+      "reviews": 1657,
+      "departure": "Evan Evans, check in at gate one inside the coach station",
+      "includes": ["Return transfer from London by bus", "Entrance fee to Stonehenge", "Audio guide for Stonehenge", "Host (accompanying the trip)"],
+      "excludes": ["Lunch", "Live tour guide", "Hotel pick-up and drop-off"],
+      "optionalExtras": [],
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 61147,
+      "title": "From London: Stonehenge and Bath Day Trip with Entry Ticket",
+      "price": "GBP 85",
+      "duration": "11 hours",
+      "rating": 4.8,
+      "reviews": 3158,
+      "departure": "Opposite Gloucester Road Underground station, outside the Stanhope Arms, SW7 4SS; departs 07:00",
+      "includes": ["Express entry ticket to Stonehenge", "Stonehenge shuttle", "Audio guide at Stonehenge", "Admission to Stonehenge exhibition", "Transport by comfortable vehicle", "Guided tour in Bath", "Free time in Bath"],
+      "excludes": ["Food and drinks", "Entry ticket to the Roman Baths", "Additional admission fees", "Tips"],
+      "optionalExtras": [],
+      "note": "The only Stonehenge-and-Bath coach read that commits to the Stonehenge ticket. The Roman Baths are a flat exclusion, not a conditional inclusion - about GBP 23.50 bought separately.",
+      "readAt": "inventory pass"
+    },
+    {
+      "id": 234277,
+      "title": "From London: Stonehenge and Oxford Day Tour With Admission",
+      "price": "GBP 79",
+      "duration": "11 hours",
+      "rating": 4.7,
+      "reviews": 613,
+      "departure": "Near 29 Cromwell Road, South Kensington, by the Lycee Francais",
+      "includes": ["Admission to Stonehenge", "Walking tour of Oxford", "Air-conditioned minibus", "Small group", "Free time in Oxford"],
+      "excludes": ["Food and drinks", "Tips"],
+      "optionalExtras": [],
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 876613,
+      "title": "London: Stonehenge and Cotswolds Minibus day trip and ticket",
+      "price": "GBP 85",
+      "duration": "10 hours",
+      "rating": 4.7,
+      "reviews": 113,
+      "departure": "Opposite Gloucester Road station, outside the Stanhope Arms pub and the Tesco Express",
+      "includes": ["Early access to Stonehenge", "Admission to Stonehenge Exhibition Centre", "Guided driving tour of The Cotswolds", "Stop for 1.5 hours in Bourton-on-the-Water", "Transport by coach"],
+      "excludes": ["Hotel pick-up and drop-off", "Meals"],
+      "optionalExtras": [],
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 65388,
+      "title": "From London: Stonehenge & The Stone Circles of Avebury Tour",
+      "price": "GBP 98",
+      "duration": "10 hours",
+      "rating": 4.6,
+      "reviews": 200,
+      "departure": "Opposite Earls Court Underground station (Warwick Road exit), bus stop C, SW5 9TB, 08:30",
+      "includes": ["Tour guide", "Small-group tour (maximum 19 participants)", "Return transport by luxury coach from London", "Entrance to Stonehenge", "Visit The Stone Circles of Avebury (If this option is selected)", "Visit to West Kennet Long Barrow"],
+      "excludes": ["Food and drinks"],
+      "optionalExtras": ["The Avebury leg itself"],
+      "note": "Stonehenge entry is unconditional. The conditional clause here is on Avebury - the second attraction in the title - rather than on the admission.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 46107,
+      "title": "London: Stonehenge, Glastonbury & Avebury Small Group Tour",
+      "price": "GBP 182",
+      "duration": "11 hours",
+      "rating": 4.6,
+      "reviews": 96,
+      "departure": "Outside Gloucester Road Tube station, at the station exit",
+      "includes": ["Transport by executive minibus", "Professional guide", "Admission to Stonehenge", "Admission to Glastonbury Abbey", "Photo stop at Glastonbury Tor", "Admission to Avebury Stone Circle"],
+      "excludes": ["Tips", "Food and drinks"],
+      "optionalExtras": [],
+      "note": "The only product read that includes three paid admissions outright with no conditional clause anywhere.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 11109,
+      "title": "From London: Stonehenge Private Inner Circle Tour with Bath",
+      "price": "GBP 140.25",
+      "duration": "12 hours",
+      "rating": 4.9,
+      "reviews": 208,
+      "departure": "Varies by option (Sunset/Sunrise, with or without Roman Baths)",
+      "includes": ["Exclusive access to the inner circle at Stonehenge (private access when the site is closed to the public)", "Entrance to the Roman Baths Museum (if option selected)", "Visit to a 14th-century pub in Lacock with an optional pub meal", "Expert guide", "Transport by luxury, air-conditioned coach"],
+      "excludes": ["Food and drinks", "Tips"],
+      "optionalExtras": ["Roman Baths entry", "Pub meal"],
+      "note": "Cheapest inner-circle access read. The conditional clause is on the Roman Baths, which the title does not name.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 137303,
+      "title": "Stonehenge Special Access - Evening Tour from London",
+      "price": "GBP 155",
+      "duration": "11 hours",
+      "rating": 4.8,
+      "reviews": 101,
+      "departure": "Opposite Earls Court Underground station (Warwick Road exit), bus stop C, SW5 9TB",
+      "includes": ["Transport by luxury coach", "Entrance to inner circle of Stonehenge", "Guided tour and free time in Avebury", "Visit to West Kennet Long Barrow", "Services of a tour manager"],
+      "excludes": ["Food and drinks"],
+      "optionalExtras": [],
+      "note": "No conditional clause anywhere in the inclusions list.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 320558,
+      "title": "From London: Stonehenge Inner Circle and Windsor Day Trip",
+      "price": "GBP 189",
+      "duration": "11 hours",
+      "rating": 4.9,
+      "reviews": 439,
+      "includes": ["Expert tour guide", "Return transport by luxury bus with Wi-Fi and USB chargers", "Private visit to the Inner Circle at Stonehenge", "Interactive map and audio content for Stonehenge", "Walking tour of the town of Windsor (if option selected)", "Entry to Windsor Castle (if option selected)", "Personal audio headset"],
+      "excludes": ["Food and drinks", "Hotel pickup and drop-off"],
+      "optionalExtras": ["Windsor walking tour", "Windsor Castle entry"],
+      "note": "Most-reviewed inner-circle product. The inner-circle visit is unconditional; the Windsor Castle ticket named in the title is the option.",
+      "readAt": "2026-09-12"
+    }
+  ],
+
+  "conditionalEntry": [
+    {
+      "id": 71373,
+      "title": "London: Full-Day Windsor, Stonehenge and Oxford Tour",
+      "price": "GBP 71.10",
+      "duration": "11 hours - 1 day",
+      "rating": 4.4,
+      "reviews": 5876,
+      "conditional": ["Entry to Stonehenge (if option selected)", "Entry to Windsor Castle (if option selected)"],
+      "note": "Most-booked of all sixty Stonehenge products. The option list does contain 'Tour in English with Stonehenge and Windsor Castle Entry', and also 'Tour excluding entrances'.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 945,
+      "title": "London: Windsor, Stonehenge, Bath and Roman Baths Day Trip",
+      "price": "GBP 71.10",
+      "duration": "11 - 12 hours",
+      "rating": 4.5,
+      "reviews": 5821,
+      "conditional": ["Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)"],
+      "note": "The owner's example. Four attractions in the title, all three paid entries conditional on one clause, and it ranks near the top of most Stonehenge and Windsor searches. Second most-booked of the sixty.",
+      "readAt": "inventory pass"
+    },
+    {
+      "id": 7319,
+      "title": "London: Windsor Castle, Stonehenge & Bath Full-Day Tour",
+      "price": "GBP 71.10",
+      "duration": "11 hours - 1 day",
+      "rating": 4.5,
+      "reviews": 3549,
+      "conditional": ["Entry to Stonehenge (if option selected)", "Entry to Windsor Castle (if option selected)", "Entry to Roman Baths (if option selected)"],
+      "note": "Three conditional entries and nothing unconditional beyond the coach, the guide and the headset.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 18405,
+      "title": "From London: Windsor, Oxford & Stonehenge Full-Day Trip",
+      "price": "GBP 71.10",
+      "duration": "10 - 12 hours",
+      "rating": 4.3,
+      "reviews": 2828,
+      "conditional": ["Admission to Windsor Castle (if selected)", "Admission to Stonehenge (if selected)"],
+      "note": "Options include 'Flexible Tour Option without entries'.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 977,
+      "title": "London: Stonehenge, Windsor and Bath Day Trip by Bus",
+      "price": "GBP 71.10",
+      "duration": "10 - 11 hours",
+      "rating": 4.5,
+      "reviews": 1353,
+      "conditional": ["Entry ticket to Windsor Castle (if option selected)", "Entry ticket to Stonehenge (if option selected)", "Entry ticket to Roman Baths (if option selected)"],
+      "note": "Three conditional entries. Headphones are a flat exclusion on a bus tour with a guide.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 50354,
+      "title": "From London: Stonehenge & Roman Baths Full-Day Trip",
+      "price": "GBP 85",
+      "duration": "11 hours",
+      "rating": 4.7,
+      "reviews": 1500,
+      "conditional": ["Entry to Stonehenge (ONLY if option selected)", "Entry to Roman Baths Museum (ONLY if option selected)"],
+      "readAt": "inventory pass"
+    },
+    {
+      "id": 70842,
+      "title": "From London: Stonehenge and Bath Full-Day Tour with Guide",
+      "price": "GBP 88.20",
+      "duration": "12 hours",
+      "rating": 4.6,
+      "reviews": 1459,
+      "conditional": ["Entrance to Stonehenge (ONLY if Stonehenge option purchased)", "Roman Baths entry ticket (depending on the option chosen)"],
+      "note": "Worst drafted of the set: the Stonehenge ticket appears in the includes list and the excludes list.",
+      "readAt": "inventory pass"
+    },
+    {
+      "id": 52393,
+      "title": "Stonehenge & Bath: Full-Day Coach Tour from London",
+      "price": "GBP 69",
+      "duration": "10 hours",
+      "rating": 4.5,
+      "reviews": 978,
+      "conditional": ["Entry ticket to the Roman Baths (ONLY if option selected)", "Entry ticket to Stonehenge (ONLY if option selected)"],
+      "readAt": "inventory pass"
+    },
+    {
+      "id": 44098,
+      "title": "London: Windsor, Stonehenge & Bath with 14th-Century Pub",
+      "price": "GBP 75",
+      "duration": "12.5 hours",
+      "rating": 4.6,
+      "reviews": 819,
+      "conditional": ["Entry to Windsor Castle (if option selected)", "Entry to Stonehenge (if option selected)"],
+      "note": "The option list ends with a plain 'Transport only'. Roman Baths entry is a flat exclusion.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 15627,
+      "title": "London: Stonehenge & Bath Day Trip with Optional Roman Baths",
+      "price": "GBP 85",
+      "duration": "11 hours",
+      "rating": 4.7,
+      "reviews": 557,
+      "conditional": ["Entry to Stonehenge (if option selected)", "Entry to Roman Baths Museum (if option selected)"],
+      "note": "The title flags one optional entry and there are two. The excludes list says 'Stonehenge (unless option selected)' in as many words.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 156657,
+      "title": "From London: Extended Visit to Windsor Castle and Stonehenge",
+      "price": "GBP 69",
+      "duration": "10 hours",
+      "rating": 4.3,
+      "reviews": 509,
+      "conditional": ["Windsor Castle entry ticket (ONLY if option selected)", "Stonehenge entry ticket (ONLY if option selected)"],
+      "readAt": "inventory pass"
+    },
+    {
+      "id": 502413,
+      "title": "From London: Stonehenge & Windsor Castle Tour with Tickets",
+      "price": "GBP 121.50",
+      "duration": "11 hours",
+      "rating": 4.6,
+      "reviews": 398,
+      "conditional": ["Stonehenge Visit with Tickets Included (If This Tour Option is Selected)"],
+      "unconditional": ["Windsor Castle ticket", "Return transport from London", "Driver/guide", "Live commentary on board"],
+      "note": "Titled 'with Tickets' and means one of the two. Still the nearest thing to a clean Stonehenge-plus-Windsor booking, because the Windsor ticket at least is unconditional.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 565163,
+      "title": "From London: Stonehenge & Windsor Tour",
+      "price": "GBP 69",
+      "duration": "9.5 hours - 1 day",
+      "rating": 4.5,
+      "reviews": 366,
+      "conditional": ["Entry to Stonehenge (if option selected)", "Entry to Windsor Castle (if option selected)"],
+      "note": "Excludes list: 'Entry to Stonehenge & Windsor (unless selecting inclusive options)'. Option list ends with 'Excluding entrances'.",
+      "readAt": "2026-09-12"
+    }
+  ],
+
+  "entryExcludedButStatedPlainly": [
+    {
+      "id": 602620,
+      "title": "From London: Small Group Stonehenge, Bath & Cotswolds Tour",
+      "price": "GBP 154",
+      "duration": "11 hours",
+      "rating": 4.9,
+      "reviews": 167,
+      "departure": "Varies by option: Victoria, or the London Eye",
+      "note": "Not a trap. The excludes list states outright that the Stonehenge ticket is not in the price, prints the full English Heritage price table by date band, and explains that the guide sells tickets for cash or card on the day. Budget the gate price on top.",
+      "readAt": "2026-09-12"
+    },
+    {
+      "id": 43772,
+      "title": "London: Small Group Stonehenge and Bath Tour & Secret Site",
+      "price": "GBP 143.10",
+      "duration": "11.5 hours",
+      "rating": 4.9,
+      "reviews": 172,
+      "departure": "Varies by option: the London Eye, or Victoria",
+      "note": "Same operator wording as 602620, and the same honest handling. 16-seat Mercedes minicoach, drop-off at a zone 1 location.",
+      "readAt": "2026-09-12"
+    }
+  ],
+
+  "departuresFromBath": {
+    "note": "Tours that start in Bath rather than London exist and suit someone already staying there. Not a London departure, so not in the inventory's Stonehenge bucket.",
+    "products": [
+      {
+        "id": 525528,
+        "title": "From Bath: Stonehenge & the Cotswolds Day Tour with Entry",
+        "price": "GBP 95",
+        "duration": "1 day",
+        "rating": 4.8,
+        "reviews": 775,
+        "verified": "Price, duration, rating and review count read off GetYourGuide's own recommendation card on product page t657 on 12 Sep 2026. The product page itself would not render - see notVerified. Make no claim about what it includes."
+      }
+    ]
+  },
+
+  "recommendations": {
+    "stonehengeOnly": { "id": 219849, "price": "GBP 66", "why": "Admission unconditional, 4.8 from 3,952, shortest sensible day at 6h30." },
+    "stonehengeOnlyCheapest": { "id": 657, "price": "GBP 36.80", "why": "Entrance fee and shuttle in both options, but no live guide." },
+    "stonehengePlusBath": { "id": 61147, "price": "GBP 85", "why": "Only Stonehenge-and-Bath coach read whose Stonehenge ticket is unconditional. Roman Baths not included." },
+    "stonehengePlusWindsor": { "id": 502413, "price": "GBP 121.50", "why": "No product in this group includes both entries as standard. This one at least commits to the Windsor ticket; tick the Stonehenge option on top." },
+    "innerCircle": { "id": 11109, "price": "GBP 140.25", "why": "Cheapest confirmed inner-circle access, 4.9 from 208, plus Bath and Lacock." },
+    "cotswolds": { "id": 876613, "price": "GBP 85", "why": "Entry included, where the GBP 154 small-group alternative excludes it." },
+    "stoneCirclesAndAbbeys": { "id": 46107, "price": "GBP 182", "why": "Three paid admissions included outright." },
+    "oxford": { "id": 234277, "price": "GBP 79", "why": "Admission included and the title honest about it." }
+  },
+
+  "notVerified": [
+    "t18730 'From London: Stonehenge Inner Circle Private Viewing Tour' (GBP 139, 4.8 / 122 in the inventory). Four loads across two attempts, both the /activity/-t18730 and the full slug URL, returned the GetYourGuide homepage shell with no product ld+json and no inclusions in the DOM. Nothing about it is stated in the article.",
+    "t525528 'From Bath: Stonehenge & the Cotswolds' - same rendering failure on the product page. Only the recommendation-card figures are recorded above; its includes and excludes are unread.",
+    "The six private car-and-driver products (1458253, 921501, 1129278, 487769, 441811, 1347110). Prices come from the widget frame during the inventory pass; no page was opened, so no inclusion is recorded and the article makes none.",
+    "t46257 'From London: Stonehenge and Bath Full-Day Tour' (GBP 89.10, 4.4 / 110) - same rendering failure as 18730 and 525528.",
+    "Thirty-three of the sixty Stonehenge products have never had a page read, all of them under 700 reviews and most under 200: 1101374, 1456664, 325, 1324137, 1297, 173901, 1460124, 1247476, 1455798, 46257, 1337114, 1453215, 1276899, 1432883, 1409283, 1408831, 18402, 1149750, 18730, 48787, 1384618, 548723, 1037768, 1409685, 45885, 46161, 388704, 1458253, 921501, 1129278, 487769, 441811, 1347110. Assume nothing about their inclusions. The largest unread listing is 325 'Windsor Castle, Stonehenge and Bath Day Trip' at 532 reviews; everything above that has been read.",
+    "Child and family pricing on every tour above. Only the adult 'from' price was read."
+  ]
+}

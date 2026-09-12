@@ -45,7 +45,7 @@ October is the month London's cultural year peaks, and then, in its last week, t
 
 *British Museum, Room 30 · exhibition runs to 11 July 2027*
 
-September's guide told you the Bayeux Tapestry had arrived in London for the first time in nearly a thousand years. The update, checked on the museum's own site this week: **if you are visiting in October, you cannot buy a ticket for your own trip.** Every ticket for 10 September to 31 December 2026, including the members' priority allocation, is sold out.
+[September's guide](/articles/things-to-do-in-london-in-september/) told you the Bayeux Tapestry had arrived in London for the first time in nearly a thousand years. The update, checked on the museum's own site this week: **if you are visiting in October, you cannot buy a ticket for your own trip.** Every ticket for 10 September to 31 December 2026, including the members' priority allocation, is sold out.
 
 What you can do instead is free. The **Bayeux Tapestry Opening Festival** runs across the second weekend of the month: **Bayeux Late: medieval making** on **Friday 9 October, 5.30pm to 8.30pm**, drop in any time, non-ticketed; and the **Big Bayeux Bash** on **Saturday 10 and Sunday 11 October**, a weekend of free family activities inspired by the medieval world, first-come first-served. Contributors to the Friday session include Matilda Ngute of The Textile Club, Olivia Swarthout of Weird Medieval Guys, and master embroidery artist Bella Lane.
 

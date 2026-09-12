@@ -39,9 +39,9 @@ It is also the rare day trip where the station puts you in the middle of everyth
 
 **Book a tour direct:**
 
-- **£69** — <a href="https://www.getyourguide.com/activity/-t1204515?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath day trip by coach</a>
-- **£85** — <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Bath, with Stonehenge entry</a>
-- **£102** — <a href="https://www.getyourguide.com/activity/-t1408818?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath and the Cotswolds</a>
+- **£85** — <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Bath, with Stonehenge entry included</a>
+- **£119** — <a href="https://www.getyourguide.com/activity/-t593863?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath and the Cotswolds, with Roman Baths entry included</a>
+- **£84** — <a href="https://www.getyourguide.com/activity/-t173901?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath, Avebury and Lacock village, 16-seat minibus</a>
 
 ![Pulteney Bridge seen from the river, its arches and the shops built along it, with Georgian buildings behind](../../assets/articles/bath-day-trip/pulteney-bridge-river.jpg)
 
@@ -94,21 +94,28 @@ Charges apply only to **Euro 1–5/V diesel and Euro 1–3 petrol or earlier**, 
 
 ## The coach day trips, and what they include
 
-**Most people who visit Bath from London do it on a coach tour, usually paired with Stonehenge**, and that is a fair choice: the two are 40 minutes apart and awkward to link by train. Prices from London, at the time of writing:
+**Most people who visit Bath from London do it on a coach tour, usually paired with Stonehenge**, and that is a fair choice: the two are 40 minutes apart and awkward to link by train. There are 36 Bath tours on GetYourGuide; we opened fourteen of the product pages and read the includes and excludes lists. **Two of the fourteen include an attraction ticket with no conditions attached.**
 
-| Trip | From |
-| --- | --- |
-| **Stonehenge and Bath** | **£69** |
-| Windsor, Stonehenge and Bath | £71 |
-| **Stonehenge and Bath, with Stonehenge entry included** | **£85** |
-| Bath, Avebury and Lacock village | £84 |
-| Oxford and Bath, small group | £99 |
-| Bath and the Cotswolds | £102 |
-| Small group Stonehenge, Bath and the Cotswolds | £154 |
+| What the day covers | The one to look at | Hours | From | Entry included |
+| --- | --- | --- | --- | --- |
+| Bath only | <a href="https://www.getyourguide.com/activity/-t1204515?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath Day Trip from London</a> | 11 | £69 | None — the Roman Baths are a paid upgrade |
+| **Stonehenge and Bath** | <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Bath with Entry Ticket</a> | 11 | **£85** | **Stonehenge**, express entry, worth £25 |
+| Windsor, Stonehenge and Bath | <a href="https://www.getyourguide.com/activity/-t44098?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge and Bath with pub lunch</a> | 12.5 | £75 | Fish and chips. Castle and stones are paid options |
+| **Bath and the Cotswolds** | <a href="https://www.getyourguide.com/activity/-t593863?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath and the Cotswolds Full-day Tour</a> | 12 | **£119** | **The Roman Baths**, with no conditions |
+| Bath, Avebury and Lacock | <a href="https://www.getyourguide.com/activity/-t173901?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath, Avebury and Lacock Village</a> | 10.5 | £84 | None — but both village stops are free anyway |
+| Oxford and Bath | <a href="https://www.getyourguide.com/activity/-t1345509?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford and Bath Small-Group</a> | 10 | £99 | None, and no guided time in either city |
+| Small group, 16 seats | <a href="https://www.getyourguide.com/activity/-t602620?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and the Cotswolds</a> | 11 | £154 | None — Stonehenge tickets from the guide, about £27 |
+| **Starting in Bath, not London** | <a href="https://www.getyourguide.com/activity/-t525528?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and the Cotswolds from Bath</a> | Full day | **£95** | **Stonehenge** |
 
-**The train still wins if Bath itself is the point.** A tour gives you two or three hours in the city, which is enough for the Roman Baths or a wander, not both. Advance train tickets at £47.60 return give you the whole day.
+**The train still wins if Bath itself is the point.** A tour gives you two or three hours in the city, which is enough for the Roman Baths or a wander, not both, and the one coach product that goes to Bath and nowhere else is unescorted, rated 3.4, and sells the Baths as an upgrade — its reviewers report four to six hours in the city against an advertised eleven-hour day. Advance train tickets at £47.60 return give you the whole day.
 
-> ⚠️ **No Bath coach tour we checked includes Roman Baths admission as standard.** Several name it in the title and then sell entry as an optional extra, so you pay the £26.50 on top. Read the includes list, not the title, and budget for the ticket.
+**Bath with Stonehenge: <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £85 Day Tours London trip</a>.** Express entry to Stonehenge is genuinely in the price and the Roman Baths are plainly excluded. It leaves Gloucester Road at 07:00, reaches the stones at 09:30 as they open, and is in Bath from about 12:15 to 15:00. **4.8 from 3,167 reviews**, the best-reviewed Bath tour on the platform.
+
+**Bath with the Cotswolds: <a href="https://www.getyourguide.com/activity/-t593863?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Golden Tours at £119</a>** — the only Bath product we read whose includes list carries **Roman Baths entry with no "if selected" clause**. You get the Baths, a guided walk in Bath and Bourton-on-the-Water in twelve hours from Bulleid Way behind Victoria. It rates 4.0 from 71 reviews, so it is a better deal than it is a tour; the £102 Cotswolds trips that look cheaper are the conditional version of the same day.
+
+**Staying in Bath rather than London?** <a href="https://www.getyourguide.com/activity/-t525528?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Rabbie's runs out of Terrace Walk at £95</a> with the Stonehenge ticket included, 4.8 from 781 reviews, back by about 18:00.
+
+> ⚠️ **The title is not the includes list, and on this route the two often disagree.** <a href="https://www.getyourguide.com/activity/-t1408799?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">One £102 tour called "Bath and Cotswolds Day Trip with Roman Baths"</a> lists "Entry to the Roman Baths (ONLY IF PURCHASED)", and <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the most-booked Bath trip of all</a> puts "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" in its inclusions. Seven of the fourteen pages we read do this. **Assume the £26.50 Roman Baths ticket is yours to buy** unless the includes list says otherwise without a clause — and note that the 16-seat small-group operators exclude the Stonehenge ticket openly, and print its price, which is the honest version of the same arrangement.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-stonehenge-and-bath-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="61147,43772,602620"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -167,9 +174,9 @@ Bath is the only city in Britain with naturally hot springs you can actually get
 Date and time changes cost £5 with 24 hours' notice; cancelling carries a £10 admin charge.
 
 
-> ⚠️ **Read the includes list, not the title, on any coach tour.** A large share of the Bath products sold out of London name an attraction in the title and then make its entry an optional paid extra — one called "Bath and Cotswolds Day Trip with Roman Baths" lists "Entry to the Roman Baths (ONLY IF PURCHASED)" and adds that admission fees are not included unless the paid option is selected. Another of the most-booked trips puts "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" in its inclusions. **Assume the Roman Baths ticket is yours to buy**, and treat the includes list as the only thing that counts. The three tours above are the ones whose pages say plainly what is and is not in the price.
-
 Most Stonehenge trips from London bundle Bath in, which is the other way round to think about this day — see [Stonehenge from London](/articles/stonehenge-day-trip/) for which of those actually include the stones.
+
+**The Cotswolds is the other standing pairing**, sold as a £119 coach day or a £154 small group with Stonehenge added, and nothing in those villages charges admission, so there is no hidden ticket waiting in Bourton-on-the-Water. It is also the one pairing with a thread running between the two ends: Bath is the southern terminus of the **Cotswold Way**, 102 miles down from Chipping Campden. Which villages you can reach by train and bus rather than coach is in [the Cotswolds from London](/articles/cotswolds-day-trip/) — the short answer is Moreton-in-Marsh, Stow and Bourton, and not Castle Combe, which is twelve miles from here and belongs to a Bath day instead.
 
 ## The rest of the day
 
@@ -279,6 +286,7 @@ All prices checked 12 September 2026.
 
 - 🗿 **[Stonehenge from London](/articles/stonehenge-day-trip/)** — the trip most Bath coach tours are really selling, and which ones include the stones.
 - 🏰 **[Windsor from London](/articles/windsor-day-trip/)** — the shortest of the big day trips, and the one with a closed-on-Tuesdays problem.
+- 🐑 **[The Cotswolds from London](/articles/cotswolds-day-trip/)** — the northern end of the Cotswold Way, and which villages a train and a bus can actually reach.
 - 🎓 **[Cambridge from London](/articles/cambridge-day-trip/)** — priced and timed the same way, with a cheaper walk-up fare.
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — the rules, the eVouchers, and why contactless disqualifies you.
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.

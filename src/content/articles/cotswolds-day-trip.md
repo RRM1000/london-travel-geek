@@ -90,6 +90,8 @@ One route does almost all the work. The rest are thin, and three of the five sto
 
 **Broadway and Chipping Campden are reachable from Moreton station** on Stagecoach service 1/2/3 — 28 minutes to Broadway on three journeys a day, about six a day to Chipping Campden — Monday to Saturday only, per Warwickshire County Council's own timetable listing.
 
+**The X52 is the one that comes at this from the other direction.** It starts in Oxford and runs out through Witney to Burford, Northleach and Cheltenham every two hours, with five journeys on a Sunday — which makes Burford the one southern village you can reach on a Sunday without a car, and makes [Oxford](/articles/oxford-day-trip/) the sensible place to join or leave the Cotswolds. Oxford is 55 minutes from Paddington on a train that runs all day, and the coach back to London from there runs through the night, so it forgives a bus that does not turn up.
+
 > 💡 **Get the day ticket.** Every Pulhams single is capped at **£3** and a return at **£6**, and a **CotswoldZone day ticket is £8.00 in the Pulhams app or £8.50 on the bus**, £6.50 for 18s and under, £22 for a group of up to five on the bus. Two hops pay for it.
 
 The museum in Bourton puts it more plainly than any timetable does: *"There are buses from Bourton to the main towns and Moreton-in-Marsh for rail connections, but they are not very regular and timetables change between summer and winter."*
@@ -140,7 +142,7 @@ Castle Combe is the same story in Wiltshire: a pay-and-display car park up in Up
 - **Bibury** — Arlington Row, built around 1380 as a monastic wool store and converted into weavers' cottages in the 17th century, plus the Rack Isle water meadow and the Trout Farm. Twenty minutes of looking, and an hour of parking hassle.
 - **Broadway** — a wide green High Street of honey-coloured stone, with Broadway Tower on the escarpment a mile above it and Snowshill Manor signed from the village.
 - **Chipping Campden** — the Market Hall on the High Street, built in 1627 by Sir Baptist Hicks, Grade I listed and handed to the National Trust in the 1940s; free to walk through. It is also the northern end of the **Cotswold Way**, 102 miles to Bath.
-- **Burford** — one long High Street dropping to a bridge over the Windrush, free parking, and the X52 to Oxford or Cheltenham if you are doing this without a car.
+- **Burford** — one long High Street dropping to a bridge over the Windrush, free parking, and the X52 to [Oxford](/articles/oxford-day-trip/) or Cheltenham if you are doing this without a car.
 - **Cirencester** — the Roman town of Corinium, with the Corinium Museum, St John Baptist church and the Abbey Grounds. The hub of the 855 and the 882, so the natural base for the southern villages.
 - **Castle Combe** — genuinely one of the prettiest, and 12 miles from Bath on the far southern edge. Treat it as a Bath day.
 

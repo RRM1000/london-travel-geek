@@ -199,7 +199,7 @@ The cooking is modern French. Two sites — the **Covent Garden** room is a wine
 
 The clearest evidence for how to divide this subject is what the publications themselves do: **eight of the sources in this pass run a separate natural wine guide alongside their general one.** No other distinction has produced that — nobody publishes a guide to London's classical wine bars, and a search for sherry specialists returns nothing at all.
 
-**Natural and low-intervention** clusters east and south. Dalston alone has Dan's, Binch — a twelve-seater on Greenwood Road — and Newcomer Wines on Dalston Lane, which took the 2026 Best Austrian Wine List and is the only wine bar in the country's Gold Stars. Peckham has Bar Levan and Peckham Cellars; Bermondsey has 40 Maltby Street.
+**Natural and low-intervention** clusters east and south. Dalston alone has Dan's, Binch — a twelve-seater on Greenwood Road — and Newcomer Wines on Dalston Lane, which took the 2026 Best Austrian Wine List and is the only wine bar in the country's Gold Stars. Peckham has Bar Levan and Peckham Cellars, both within a walk of Rye Lane — the [Peckham area guide](/articles/peckham-area-guide/) has the rest of that evening. Bermondsey has 40 Maltby Street, on the street the [Bermondsey area guide](/articles/bermondsey-area-guide/) is largely about, and a short walk from the Beer Mile if the table does not come free.
 
 **Classical** is where the central rooms sit. Farm Shop on South Audley Street is beneath a Mayfair deli, heavy on Burgundy and Bordeaux, with a courtyard — and **it closes at 8pm**, which makes it a long-lunch proposition rather than an evening one. The 10 Cases and Noble Rot belong here too.
 
@@ -215,7 +215,7 @@ The clearest evidence for how to divide this subject is what the publications th
 
 **Booking policy varies more than it does in restaurants.** Dan's takes none. Noble Rot keeps walk-in-only bar space beside a bookable dining room. Winemakers Club gives you the table all night. 40 Maltby Street is genuinely hard. There is no safe default, so check the one you are going to.
 
-**Closing times are early more often than you would expect.** Farm Shop stops at 8pm. Several of the smaller rooms shut at the start of the week — Bonne Route in Harringay opens Wednesday to Saturday, Lower in Waterloo Tuesday to Saturday.
+**Closing times are early more often than you would expect.** Farm Shop stops at 8pm. Several of the smaller rooms shut at the start of the week — Bonne Route in Harringay opens Wednesday to Saturday, Lower in Waterloo Tuesday to Saturday. If the evening needs to run on past the room, [the best cocktail bars in London](/articles/best-cocktail-bars-london/) is the next drink and [late-night eating](/articles/late-night-eating-london/) is what is still cooking after midnight, by area.
 
 **A wine list award is not a wine bar award.** Star Wine List's UK Gold Stars are worth reading if you want a great list with dinner, and they will send you to Claridge's, Trivet or a Tuscan restaurant on Dean Street. Only one of them is a wine bar, so the award is doing a different job from this page.
 

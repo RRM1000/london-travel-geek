@@ -222,11 +222,11 @@ A lot of London's best free things do not exist most of the year. These are wort
 * **Open-air theatre and film screenings** in the parks are mostly ticketed, but the **Scoop at More London**, beside Tower Bridge, runs free performances and screenings through the summer.
 * **BBC Proms**, July to September. Not free, but **£8 standing tickets** on the day at the Royal Albert Hall are close, and it is the cheapest way into world-class classical music anywhere.
 * **Notting Hill Carnival**, August bank holiday. Free, enormous, and Europe's largest street festival.
-* **Free outdoor swimming** is not a thing — the Hampstead ponds charge — but **the Serpentine and the Royal Parks are free to walk, and the lidos are cheap rather than free.**
+* **Free outdoor swimming** is not a thing — the Hampstead ponds charge — but **the Serpentine and the Royal Parks are free to walk, and the lidos are cheap rather than free.** A council pool is the cheap end of swimming indoors: **£3.20 to £11.50 a single swim**, and several boroughs let residents swim for nothing. Our guide to [London's gyms and leisure centres](/articles/best-gyms-london/) has the casual-use prices alongside every membership, which is the comparison that matters if you are here for a week rather than a year.
 
 ### Autumn
 
-* **Open House London**, September — the single best free weekend of the year. Hundreds of buildings that are normally shut, from private houses to City skyscrapers and government offices, open free. Some ballot, most just queue.
+* **Open House London**, September — the single best free weekend of the year. Hundreds of buildings that are normally shut, from private houses to City skyscrapers and government offices, open free. Some ballot, most just queue. It lands in the same nine days as the London Design Festival and Heritage Open Days, which makes the middle of the month the busiest and best-value stretch of the year; [things to do in London in September](/articles/things-to-do-in-london-in-september/) has the dates and the overlaps.
 * **Totally Thames**, September — a month of free river events and installations.
 * **Bonfire Night**, early November. Several of London's big displays are **free to watch** — Alexandra Palace charges, but plenty of borough displays do not. [Our guide](/articles/bonfire-night-london/) sorts the free from the ticketed.
 * **Diwali in Trafalgar Square** and **the Lord Mayor's Show** in November are both free.

@@ -199,7 +199,7 @@ The word covers at least six different things in London, and a reader who wants 
 
 **Korean.** Double-fried, sauced, and built for sharing over beer. **New Malden is the centre** — Chick and Beers, **Tongdak** on Kingston Road (seven seasonings, and a 20–30 minute wait because it is fried to order) and **Imone** on the High Street (kan pung gi, in a smoky, spicy sauce) are all in the same quarter. In the centre, **CheeMc** has Elephant and Castle and Soho branches and sells seven flavours, of which the honey butter powder is the best-known.
 
-**Taiwanese.** Lighter batter, boneless, seasoned from a shaker rather than sauced. Good Friend and Bao.
+**Taiwanese.** Lighter batter, boneless, seasoned from a shaker rather than sauced. Good Friend, on the Chinatown grid our [Chinese and East Asian guide](/articles/best-chinese-east-asian-restaurants-london/) walks you round, and Bao a few streets north on Lexington Street.
 
 **Nashville hot.** Cayenne-heavy oil, served in a bun with pickles. **Lucky's Hot Chicken** at Seven Dials Market and Mikkeller on Exmouth Market twice-fries its strips and sandos, with heat levels from "country" up to an XXX seasoning. **Manna** inside Arcade Food Hall on New Oxford Street does the bun version with cheese, pickles and a house sauce.
 

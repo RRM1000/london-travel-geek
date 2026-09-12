@@ -101,6 +101,7 @@ Every one of these is ranked by how many independent awards, critics and reviewe
 * [**Japanese**](/articles/best-japanese-restaurants-london/) — Omakase counters at one end, ramen and izakaya at the other.
 * [**Korean**](/articles/best-korean-restaurants-london/) — Central barbecue rooms and the New Malden restaurants Londoners drive to.
 * [**Thai**](/articles/best-thai-restaurants-london/) — Isaan, southern and live-fire cooking rather than the pad thai default.
+* [**Vietnamese**](/articles/best-vietnamese-restaurants-london/) — Kingsland Road's Pho Mile, and the Peckham room that took the only Bib Gourmand.
 
 **European and Mediterranean**
 
@@ -114,10 +115,15 @@ Every one of these is ranked by how many independent awards, critics and reviewe
 **The Americas, and by ingredient**
 
 * [**Mexican**](/articles/best-mexican-restaurants-london/) — Taquerias, masa pressed to order and the regional kitchens.
+* [**Caribbean**](/articles/best-caribbean-restaurants-london/) — Trinidadian roti, Guyanese stews and Jamaican jerk, and why the best of it is as often a counter as a dining room.
+* [**Barbecue**](/articles/best-barbecue-london/) — The smokehouses, what each one actually cooks, and the days they are shut.
+* [**Fried Chicken**](/articles/best-fried-chicken-london/) — Taiwanese, Korean and Nashville, and the judged champion who appears on nobody's list.
 * [**Burgers**](/articles/best-burgers-london/) — Smash versus dry-aged, and which of the winners is served at only one branch.
 * [**Steak**](/articles/best-steak-restaurants-london/) — Dry-aged British beef, the chop houses and what the cuts actually mean.
 * [**Seafood**](/articles/best-seafood-restaurants-london/) — Oyster bars, fishmonger counters and the whole-fish grills.
 * [**Vegetarian and Vegan**](/articles/best-vegetarian-vegan-restaurants-london/) — Fully plant-based kitchens and the vegetarian menus worth crossing London for.
+
+**Eating to a rule rather than to a cuisine** works differently, because somebody else has already published the list. [Kosher restaurants](/articles/best-kosher-restaurants-london/) is the guide built that way: four separate certifying registers read together, because no single authority publishes the others' licensees, and checking one gives you a partial answer with no warning that it is partial.
 
 ---
 
@@ -191,7 +197,9 @@ Full guide: [**Cheap Eats in London**](/articles/cheap-eats-london/) for the fir
 
 * [**Special occasions**](/articles/special-occasion-restaurants-london/) — What to book, how far ahead, and which rooms actually feel like an event.
 * [**Cocktail bars**](/articles/best-cocktail-bars-london/) — 21 compared, for before or instead of dinner.
+* [**Wine bars**](/articles/best-wine-bars-london/) — The rooms the critics agree on, and the shop-and-bar hybrids where the same bottle costs less off the shelf.
 * [**Ice cream**](/articles/best-ice-cream-london/) — Gelato, soft serve and the cult queues, for afterwards.
+* [**Eating outside**](/articles/eat-outside-london/) — The yards, squares and waterfronts, which ones are heated in winter, and where you can sit down with food you brought yourself.
 * **Group feasts and food halls** — sharing menus and communal seating; see [markets and food halls](/articles/best-london-markets/) above.
 
 ---
@@ -222,13 +230,15 @@ Classic culinary experiences that belong on every London itinerary:
 
 One place, in case you would rather scan a list than a page.
 
-**By cuisine:** [Indian](/articles/best-indian-restaurants-london/) · [Chinese and East Asian](/articles/best-chinese-east-asian-restaurants-london/) · [Dim sum](/articles/best-dim-sum-london/) · [Hot pot](/articles/best-hot-pot-london/) · [Japanese](/articles/best-japanese-restaurants-london/) · [Korean](/articles/best-korean-restaurants-london/) · [Thai](/articles/best-thai-restaurants-london/) · [Italian](/articles/best-italian-restaurants-london/) · [Pizza](/articles/best-pizza-london/) · [French](/articles/best-french-restaurants-london/) · [Spanish](/articles/best-spanish-restaurants-london/) · [Turkish](/articles/best-turkish-restaurants-london/) · [Middle Eastern](/articles/best-middle-eastern-restaurants-london/) · [Mexican](/articles/best-mexican-restaurants-london/) · [Vegetarian and vegan](/articles/best-vegetarian-vegan-restaurants-london/)
+**By cuisine:** [Indian](/articles/best-indian-restaurants-london/) · [Chinese and East Asian](/articles/best-chinese-east-asian-restaurants-london/) · [Dim sum](/articles/best-dim-sum-london/) · [Hot pot](/articles/best-hot-pot-london/) · [Japanese](/articles/best-japanese-restaurants-london/) · [Korean](/articles/best-korean-restaurants-london/) · [Thai](/articles/best-thai-restaurants-london/) · [Vietnamese](/articles/best-vietnamese-restaurants-london/) · [Italian](/articles/best-italian-restaurants-london/) · [Pizza](/articles/best-pizza-london/) · [French](/articles/best-french-restaurants-london/) · [Spanish](/articles/best-spanish-restaurants-london/) · [Turkish](/articles/best-turkish-restaurants-london/) · [Middle Eastern](/articles/best-middle-eastern-restaurants-london/) · [Mexican](/articles/best-mexican-restaurants-london/) · [Caribbean](/articles/best-caribbean-restaurants-london/) · [Vegetarian and vegan](/articles/best-vegetarian-vegan-restaurants-london/)
 
-**By dish:** [Burgers](/articles/best-burgers-london/) · [Steak](/articles/best-steak-restaurants-london/) · [Seafood](/articles/best-seafood-restaurants-london/) · [Fish and chips](/articles/best-fish-and-chips-london/) · [Sunday roast](/articles/best-sunday-roast-london/) · [Sandwiches](/articles/best-sandwiches-london/) · [Ice cream](/articles/best-ice-cream-london/)
+**By dish:** [Burgers](/articles/best-burgers-london/) · [Steak](/articles/best-steak-restaurants-london/) · [Barbecue](/articles/best-barbecue-london/) · [Fried chicken](/articles/best-fried-chicken-london/) · [Seafood](/articles/best-seafood-restaurants-london/) · [Fish and chips](/articles/best-fish-and-chips-london/) · [Sunday roast](/articles/best-sunday-roast-london/) · [Sandwiches](/articles/best-sandwiches-london/) · [Ice cream](/articles/best-ice-cream-london/)
 
-**By time of day:** [Breakfast and brunch](/articles/best-breakfast-brunch-london/) · [Coffee](/articles/best-coffee-london/) · [Hot chocolate](/articles/best-hot-chocolate-london/) · [Bakeries](/articles/best-bakeries-london/) · [Afternoon tea](/articles/best-afternoon-tea-london/) · [Cocktail bars](/articles/best-cocktail-bars-london/) · [Late-night eating](/articles/late-night-eating-london/)
+**By time of day:** [Breakfast and brunch](/articles/best-breakfast-brunch-london/) · [Coffee](/articles/best-coffee-london/) · [Hot chocolate](/articles/best-hot-chocolate-london/) · [Bakeries](/articles/best-bakeries-london/) · [Afternoon tea](/articles/best-afternoon-tea-london/) · [Cocktail bars](/articles/best-cocktail-bars-london/) · [Wine bars](/articles/best-wine-bars-london/) · [Late-night eating](/articles/late-night-eating-london/)
 
-**By budget, occasion and room:** [Street food](/articles/best-street-food-london/) · [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Rooms worth photographing](/articles/most-instagrammable-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
+**By dietary rule:** [Kosher](/articles/best-kosher-restaurants-london/) · [Vegetarian and vegan](/articles/best-vegetarian-vegan-restaurants-london/)
+
+**By budget, occasion and room:** [Street food](/articles/best-street-food-london/) · [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Eating outside](/articles/eat-outside-london/) · [Rooms worth photographing](/articles/most-instagrammable-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
 
 **By occasion and for paying less:** [Bottomless brunch](/articles/bottomless-brunch-london/) · [Restaurant deals](/articles/restaurant-deals-london/) · [Off-peak booking apps](/articles/off-peak-restaurant-apps-london/) · [Discount cards](/articles/restaurant-discount-cards-london/) · [Kids eat free](/articles/kids-eat-free-london/) · [Open on Christmas Day](/articles/christmas-day-restaurants-london/)
 

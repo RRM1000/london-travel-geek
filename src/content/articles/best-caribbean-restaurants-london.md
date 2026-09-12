@@ -52,6 +52,8 @@ There is a second thing the published lists get wrong, and it is bigger. **They 
 
 **Price guide:** **£** under £15 a head · **££** £15–£30 · **£££** £35+.
 
+Brixton and Peckham carry most of this list between them, and Rye Lane is where the groundwork sits: the [Peckham area guide](/articles/peckham-area-guide/) covers the Caribbean grocers, butchers and the sixty-unit indoor market that the cooking here comes out of.
+
 ---
 
 ## The most-cited
@@ -167,5 +169,7 @@ A guide built only on magazines describes a dining scene. The actual one include
 The most thorough source in this pass runs to thirty-nine names and around two dozen appear nowhere else: **Jay Dees Catering, Crystal Caterers, Sunvalley Jerk, Jerk in Da Park, Cool Runnings Jerk Centre, Bokit'la, Rainbow Cook Out, Mum's Caribbean Takeaway, a Jamaican tuck shop, and a café inside the Peckham bus garage.**
 
 These are caterers, food trucks, drums on a pavement and counters with no seats. They are not lesser versions of the restaurants — for a lot of this food they are the normal form of it, and the reason to know they exist is that turning up expecting a table is the mistake.
+
+If that is the form you want, two other guides carry it further. [The best street food in London](/articles/best-street-food-london/) compares every multi-trader market, food hall and container yard on traders, seating and — the part that actually decides your afternoon — which days each one exists. And [cheap eats in London](/articles/cheap-eats-london/) is the same under-£15 territory across every other cuisine in the city, which is where most of the counters on this page would sit if they were not Caribbean.
 
 *Evidence built 8 September 2026 from thirteen independent sources. Addresses and dishes are from the sources named against each entry. Takeaway counters and market stalls change hours more often than restaurants do — check before travelling.*

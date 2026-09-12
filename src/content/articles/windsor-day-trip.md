@@ -37,11 +37,7 @@ It is, otherwise, the easiest big day trip out of London: half an hour from Padd
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71088,645578,53858"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-**Book a tour direct:**
-
-- **£80** — <a href="https://www.getyourguide.com/activity/-t71088?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor half-day with castle entry</a>
-- **£85** — <a href="https://www.getyourguide.com/activity/-t645578?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">LEGOLAND Windsor, entry and coach</a>
-- **£89** — <a href="https://www.getyourguide.com/activity/-t388125?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor Castle and Hampton Court</a>
+**The coach tour most people end up booking does not get you inside the Castle.** Windsor, Stonehenge and Bath in a single day, from £71, is among the most-booked day trips out of London, and its inclusions list reads "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" — so the tickets are yours to buy on top, and on a Tuesday or Wednesday there is nothing to go into at the Windsor end. [Which tours include what](#day-tours-that-include-windsor-compared) is further down this page, read off fourteen product pages. [Stonehenge from London](/articles/stonehenge-day-trip/) and [Bath from London](/articles/bath-day-trip/) price the other two stops properly.
 
 ## Getting there
 
@@ -76,6 +72,8 @@ Reading Buses' **Green Line 702** runs hourly between central London and LEGOLAN
 | **Home Park Public and King Edward VII** (Crown Estate) | **£13.00** |
 
 Home Park and King Edward VII are the cheapest full day and they sit beside the Long Walk, which is where you want to be anyway. They can close at weekends and during events, so check before you set off.
+
+**None of which is an argument for hiring a car.** Twenty-three miles is a short drive and £13 is cheap parking, but a £7.90 train drops you two minutes from the ticket desk, and Windsor is on the short list of places our guide to [hiring a car and driving in the UK](/articles/car-hire-driving-uk/) tells you not to bother. If you already have the car — because the Cotswolds or Stonehenge are in the same trip — Home Park is the place to put it.
 
 ## Windsor Castle
 
@@ -146,6 +144,49 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 **Windsor Castle is not in the National Rail 2FOR1 scheme.** Neither is any other Royal Collection Trust site. The Castle is full price however you arrive.
 
 **LEGOLAND Windsor Resort is in it, at one third off** rather than two-for-one — the same treatment every Merlin attraction gets. Two Golden Tours bus tours of Windsor are listed too. The offer needs two people, a valid National Rail ticket and an eVoucher, and contactless does not qualify, which is the whole trick of it: the cheapest way to reach Windsor is the thing that disqualifies you. Full rules in our guide to [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/).
+
+## Day tours that include Windsor, compared
+
+**A tour only earns its place when it links stops the trains do not.** Windsor on its own is a £7.90 contactless fare and a two-minute walk, so the question is never "coach or train" — it is whether the second and third stop are worth £40 to £90 a head.
+
+GetYourGuide sells 36 day trips from London that stop at Windsor. We read the includes and excludes lists on fourteen of them on 12 September 2026, because the titles are not reliable: **nine of the fourteen name an attraction in the title and then list its entry as "if option selected"**, which means the headline price buys a coach seat. Links below are affiliate links and the price is the same either way.
+
+| The day | Length | From | What entry is included |
+| --- | --- | --- | --- |
+| **Windsor Castle alone** | 4–6 hours | **£69** | **Castle entry, no conditions** |
+| Windsor + Stonehenge | 9½–11 hours | £69 | Nothing at £69; castle entry at £122 |
+| Windsor + Stonehenge + Bath | 11–12½ hours | £71 | Nothing at £71; castle and Stonehenge at £122, never the Roman Baths |
+| Windsor + Hampton Court | 7–9 hours | £89 | Neither palace unless you pick the entry option |
+| Windsor + Stonehenge + Oxford | 10–12 hours | £71 | Oxford walking tour always; both entries optional |
+| **LEGOLAND** | 9 hours | **£85** | **Park entry, no conditions** |
+| Stonehenge Inner Circle + Windsor | 11 hours | £189 | **Inner Circle always**; castle only on the entry option |
+
+### If you only want the Castle, take the train
+
+£7.90 each way and £32 at the desk is **£47.80 for the day**, against £69 for the cheapest tour that genuinely includes entry. That one is <a href="https://www.getyourguide.com/activity/-t18994?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the Windsor Castle Royal Afternoon Sightseeing Tour</a> — State Apartments, Dolls' House and St George's Chapel, coach both ways, 4.3 from 290 reviews, and no live guide, just the castle's own audio guide. <a href="https://www.getyourguide.com/activity/-t71088?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The half-day trip with castle tickets</a> is **£80**, 4.4 from 980 reviews, leaves **Bus Stop C opposite Earls Court station at 09:00** and gives you 2½ hours inside with a guide on the coach. Either is a door-to-door convenience purchase, not a saving.
+
+> ⚠️ **Do not book the £39 one.** <a href="https://www.getyourguide.com/activity/-t166535?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor Castle with Transport</a> has 965 reviews and its own page says entry applies "only if selecting the inclusive option". At £39 it is a coach seat, and you will pay £36 at the gate.
+
+### Castle plus Stonehenge: £122, and check the option
+
+This is where a coach earns its fare — Stonehenge has no useful train. <a href="https://www.getyourguide.com/activity/-t502413?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Windsor Castle Tour with Tickets</a> is **£122**, 11 hours from Earls Court Bus Stop C, 4.6 from 398 reviews, with **2 hours at the stones and 3 at Windsor**. It is the only one in its group whose includes list carries "Windsor Castle ticket" flat, with no clause — the Stonehenge ticket is still "if this tour option is selected", so pick the option that names both. The <a href="https://www.getyourguide.com/activity/-t565163?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£69 Stonehenge and Windsor Tour</a> and the <a href="https://www.getyourguide.com/activity/-t1247476?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£87 Premium Tours version</a> include neither entry at the headline price, and the cheaper one treats Windsor as a photo stop.
+
+### A three-stop day: one product includes the admissions
+
+<a href="https://www.getyourguide.com/activity/-t18402?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor Castle, Bath and Stonehenge</a> — **£122**, 11 hours, from Stop Z6 at Grosvenor Gardens SW1W 0DH, 4.4 from 159 reviews — is the only Bath trio we read that lists **"Admissions to Windsor Castle and Stonehenge"** with no option clause. The **Roman Baths are explicitly excluded**, so Bath is a walk round the city; [our Bath guide](/articles/bath-day-trip/) has that ticket price.
+
+The £71 to £79 versions all make the Castle conditional: <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge, Bath and Roman Baths</a> (5,821 reviews, the one that ranks first), <a href="https://www.getyourguide.com/activity/-t7319?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor Castle, Stonehenge and Bath</a> (3,549) and <a href="https://www.getyourguide.com/activity/-t325?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £79 Premium Tours day</a>, which at least includes Stonehenge entry outright. <a href="https://www.getyourguide.com/activity/-t44098?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The £75 day with the 14th-century pub</a> is the only one that feeds you — fish and chips at Lacock — and it excludes the Roman Baths outright rather than conditionally.
+
+Swap Bath for Oxford and you get <a href="https://www.getyourguide.com/activity/-t71373?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge and Oxford</a>, the most-reviewed Windsor tour on the platform at 4.4 from 5,876, which always includes a **guided walk round Oxford** — but book the option named "with Stonehenge and Windsor Castle Entry" or you see the Castle from the outside. <a href="https://www.getyourguide.com/activity/-t18405?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Golden Tours equivalent</a> is the same price and the same trap.
+
+### The two tours a train cannot replace
+
+- <a href="https://www.getyourguide.com/activity/-t320558?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge Inner Circle and Windsor</a> — **£189**, 11 hours, **4.9 from 439 reviews**, the best-rated Windsor product there is. A private visit **inside the stone circle outside opening hours**, which is not sold any other way, then 3¼ hours at Windsor. Castle entry comes only on the "with Windsor Castle Entry" option; the other options give you a walking tour of the town instead.
+- <a href="https://www.getyourguide.com/activity/-t388125?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor Castle and Hampton Court Palace</a> — **£89**, 7 to 9 hours, 4.7 from 150 reviews. Two palaces on opposite sides of the western suburbs, which is a genuinely awkward pair by train. Both tickets read "if option selected", so book the "with Entrance Fees Included" option.
+
+And for LEGOLAND, <a href="https://www.getyourguide.com/activity/-t645578?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the entry-and-coach package from Victoria</a> does include the park ticket — but at **£85** against a £32 gate price and a £3 capped single on the Green Line 702, you are paying about £53 for a coach seat, and £150 of premium for a family of four. It is rated 4.0 from 136 reviews, the lowest of any big Windsor product.
+
+> ⚠️ **"Entry" inside the includes list is not entry.** Nine of the fourteen pages we read put the Castle in the **includes** list with a tick and then qualify it — "Entry to Windsor Castle (if option selected)" — and the from-price is always the option without the ticket. The worst-worded is <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge, Bath and Roman Baths</a>: "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)". Before you pay, check the **option name in the date picker** says "with Entry" — and remember the Castle is shut Tuesdays and Wednesdays whichever option you buy.
 
 ## What fills the rest of the day
 

@@ -191,6 +191,8 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 | **Brick Lane Sunday food halls** | Street food | £ | Truman Brewery; dozens of traders under cover |
 | **Upmarket, Brick Lane** | Street food | £ | Truman Brewery food hall, Mon–Sat 11am–6pm and Sun 10am–6pm, and the cheapest grazing here |
 
+**Shoreditch also holds the single most-recommended smokehouse in London.** Smokestak is named by nine of the fifteen sources behind our [barbecue guide](/articles/best-barbecue-london/), more than anything else in the city, and it has a Michelin Bib Gourmand — the brisket goes over English oak for twelve to fourteen hours overnight. The same guide explains why so much of this cooking happens in brewery yards a few stops up the Overground in Dalston and Hackney: the smokers need the space and the extraction.
+
 ![Shipping-container units and long wooden benches at Boxpark Shoreditch](../../assets/articles/shoreditch-area-guide/boxpark-shoreditch.jpg)
 
 *Boxpark, built out of shipping containers in 2011. The upper deck is food stalls and long shared tables. Photo: [JasonParis](https://www.flickr.com/photos/94064020@N00/8063833095), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*

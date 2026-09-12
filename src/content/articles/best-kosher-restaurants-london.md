@@ -65,7 +65,7 @@ It produces the clearest illustration in London, on one street in Hendon:
 
 Same name, next door, two kitchens, because they cannot be one. **Novellino** does the same on Golders Green Road — the dairy restaurant at 103, the meat bistro at 111a.
 
-**Certified is not the same as kosher-style.** Kosher-style means food that looks like Jewish cooking without rabbinical supervision. It is a genuine and much-loved category — a great deal of London's salt beef is kosher-style — but it is not kosher, and guides conflate the two constantly. One London list of "Jewish and kosher" restaurants describes **four of its ten entries as not kosher in its own text**. If it matters to you, the only reliable check is a register above, not a listicle.
+**Certified is not the same as kosher-style.** Kosher-style means food that looks like Jewish cooking without rabbinical supervision. It is a genuine and much-loved category — a great deal of London's salt beef is kosher-style — but it is not kosher, and guides conflate the two constantly. One London list of "Jewish and kosher" restaurants describes **four of its ten entries as not kosher in its own text**. If it matters to you, the only reliable check is a register above, not a listicle. The clearest example is the most-recommended sandwich in London — the salt beef beigel sold 24 hours a day on Brick Lane, which appears in our [best sandwiches in London](/articles/best-sandwiches-london/) guide and on none of the four registers here.
 
 **Almost everything closes for Shabbat.** From Friday afternoon to Saturday night, and for festivals. Novellino's own site says it plainly: apart from the Jewish Sabbath and festivals, it is open every day. A Saturday plan will not work; a Friday lunch or a Sunday will.
 
@@ -110,5 +110,7 @@ Thirty-three establishments, of which thirty are in London — **Balagan** and *
 **Do not plan a Saturday.** Friday lunch, Sunday, or a weekday evening.
 
 **In Stamford Hill, ask locally.** The authority most used there does not currently publish a reachable register, so no written list of that neighbourhood is complete right now.
+
+**And if certification is not the thing you are solving for**, this page is the wrong one: our [guide to eating in London](/articles/eat-in-london-guide/) arranges everything else by cuisine, dish and area, and the [vegetarian and vegan guide](/articles/best-vegetarian-vegan-restaurants-london/) is the nearest thing to this one in shape — a rule about what a kitchen does rather than where its cooking comes from.
 
 *Registers read on 8 September 2026 from each authority's own site. Counts are what those registers listed on that date; certification is added and withdrawn, so check the register itself before relying on it. Kedassia's site did not resolve on that date and its licensees are not represented here.*

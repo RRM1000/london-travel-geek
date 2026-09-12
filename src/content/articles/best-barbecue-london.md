@@ -155,7 +155,7 @@ It takes bookings and does a Sunday roast.
 
 A local couple, **Sufia Khan and Abidur Tarafder**, working with **Tiberius Tudor**, a Romanian-born American barbecue specialist. It has become a serious local fixture in a part of London the guides rarely reach.
 
-The cooking is **Texas-style rather than British-live-fire**: smoked brisket is the thing to order, with smash burgers alongside it for anyone who is not in the mood for a tray of meat. Seating is communal, so a table for two on a Saturday means sitting with other people.
+The cooking is **Texas-style rather than British-live-fire**: smoked brisket is the thing to order, with smash burgers alongside it for anyone who is not in the mood for a tray of meat — those burgers also put it in our [burgers guide](/articles/best-burgers-london/), as one of only two halal burgers in London named by critics rather than by halal listings. Seating is communal, so a table for two on a Saturday means sitting with other people.
 
 **It is out at Leyton**, which is the whole reason it is under-covered - twenty-odd minutes on the Central line from Oxford Circus, and none of the mastheads that write about Shoreditch make the trip.
 

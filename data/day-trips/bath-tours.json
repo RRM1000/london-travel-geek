@@ -1,0 +1,263 @@
+{
+  "subject": "GetYourGuide day tours from London that include Bath, grouped by what the day covers",
+  "checkedAt": "2026-09-12",
+  "method": "Started from data/day-trips/gyg-inventory.json (destinations.Bath, 36 product ids). Opened 14 product pages in the browser at https://www.getyourguide.com/en-gb/activity/-t<id> and read the includes and excludes lists off the page, separating them by the checkmark and cross icons in the DOM rather than by reading order. Prices are the live sidebar from-price on the date checked, which on several products is higher than the cached SEO title and the widget figure.",
+  "headline": "Of the 14 pages read, exactly two include an attraction admission with no conditional clause attached: 61147 (Stonehenge) and 593863 (Roman Baths). 525528, which starts in Bath rather than London, includes Stonehenge. Everything else either excludes admissions plainly or gates them behind a paid booking option.",
+  "groups": [
+    {
+      "group": "Bath alone",
+      "leadProductId": 1204515,
+      "otherProductIds": [684218],
+      "verdict": "No credible London coach product goes to Bath and nowhere else. Recommend the train."
+    },
+    {
+      "group": "Stonehenge and Bath",
+      "leadProductId": 61147,
+      "otherProductIds": [52393, 50354, 70842, 15627, 46257, 1324137, 11109, 48787, 921501, 1409685],
+      "verdict": "61147 is the pick: Stonehenge express entry genuinely included, best reviewed Bath product on the platform."
+    },
+    {
+      "group": "Windsor, Stonehenge and Bath",
+      "leadProductId": 945,
+      "otherProductIds": [7319, 977, 44098, 325, 18402, 1432883, 1408831, 1409283, 1456664, 45885],
+      "verdict": "Every product read in this group gates entry behind a paid option. Nothing to recommend unconditionally."
+    },
+    {
+      "group": "Bath and the Cotswolds",
+      "leadProductId": 593863,
+      "otherProductIds": [1408818, 1408799, 1337114, 1384618],
+      "verdict": "593863 is the only product read whose includes list carries Roman Baths entry with no conditional clause. The two Click Tours products at GBP 102 are the conditional version of the same day."
+    },
+    {
+      "group": "Bath with Avebury and Lacock",
+      "leadProductId": 173901,
+      "otherProductIds": [46161],
+      "verdict": "No admissions included, but Avebury's stone circle and Lacock village are free to walk, so there is no hidden ticket unless you want Lacock Abbey."
+    },
+    {
+      "group": "Oxford and Bath",
+      "leadProductId": 1345509,
+      "otherProductIds": [],
+      "verdict": "Transport and driver only. No guided time in either city, 2 reviews."
+    },
+    {
+      "group": "Small group",
+      "leadProductId": 602620,
+      "otherProductIds": [43772, 46161, 1337114, 1384618, 1409685, 1347110],
+      "verdict": "The English Bus products are the honest ones: Stonehenge tickets are plainly excluded and sold by the driver-guide on the day, with the full price table printed on the product page."
+    },
+    {
+      "group": "Starting in Bath rather than London",
+      "leadProductId": 525528,
+      "otherProductIds": [],
+      "verdict": "For someone staying in Bath. Rabbie's 16-seater from Terrace Walk with Stonehenge entry included. Not in the London-departure inventory, so it was found by direct id lookup."
+    }
+  ],
+  "productsVerified": [
+    {
+      "id": 61147,
+      "title": "From London: Stonehenge and Bath Day Trip with Entry Ticket",
+      "provider": "Day Tours London",
+      "pageFromPrice": "GBP 85",
+      "duration": "11 hours",
+      "departurePoint": "Gloucester Road Station, Gloucester Rd, South Kensington, London SW7 4SF; leaves 07:00",
+      "rating": 4.8,
+      "reviews": 3167,
+      "entryIncluded": "Stonehenge express entry, shuttle and exhibition, stated as worth GBP 25",
+      "entryExcluded": "Roman Baths, additional admission fees, food and drinks, tips",
+      "conditional": false,
+      "timeInBath": "2.75 hours; usually in Bath 12:15 to 15:00, back in London about 18:00"
+    },
+    {
+      "id": 593863,
+      "title": "From London: Bath and the Cotswolds Full-day Tour",
+      "provider": "Golden Tours - Gray Line London",
+      "pageFromPrice": "GBP 119",
+      "duration": "12 hours",
+      "departurePoint": "Golden Tours, Bulleid Way Departure Point, Stop 1, Bulleid Way, London SW1W 9SR; may end at Gloucester Road",
+      "rating": 4.0,
+      "reviews": 71,
+      "ratingValueForMoney": 3.7,
+      "entryIncluded": "Entry to the Roman Baths, with no conditional clause anywhere on the page; plus return transport, a guided walking tour of Bath and Bourton-on-the-Water",
+      "entryExcluded": "Tips, food and drinks, hotel pick-up",
+      "conditional": false
+    },
+    {
+      "id": 525528,
+      "title": "From Bath: Stonehenge & the Cotswolds Day Tour with Entry",
+      "provider": "Rabbie's Small Group Tours",
+      "pageFromPrice": "GBP 95",
+      "duration": "1 day, back about 18:00",
+      "departurePoint": "Terrace Walk, Bath BA1 1LN",
+      "rating": 4.8,
+      "reviews": 781,
+      "entryIncluded": "Stonehenge entry ticket; driver/guide; 16-seat Mercedes minibus",
+      "entryExcluded": "Hotel pick-up, food and drinks, tips",
+      "conditional": false
+    },
+    {
+      "id": 173901,
+      "title": "From London: Bath, Avebury and Lacock Village Day Trip",
+      "provider": "Rabbie's Small Group Tours",
+      "pageFromPrice": "GBP 84",
+      "duration": "10.5 hours, back about 19:30",
+      "departurePoint": "Greenline Coach Terminal, Bulleid Way, Victoria, London SW1W 9SH",
+      "rating": 4.6,
+      "reviews": 168,
+      "entryIncluded": "Nothing; transport and driver-guide only",
+      "entryExcluded": "Entry fees to visitor attractions, hotel pick-up, food and drinks, tips",
+      "conditional": false,
+      "note": "No under-5s. Avebury and Lacock village cost nothing to walk, so the exclusion costs you little."
+    },
+    {
+      "id": 602620,
+      "title": "From London: Small Group Stonehenge, Bath & Cotswolds Tour",
+      "provider": "The English Bus",
+      "pageFromPrice": "GBP 154",
+      "duration": "11 hours",
+      "departurePoint": "Varies by option",
+      "rating": 4.9,
+      "reviews": 167,
+      "entryIncluded": "Nothing; Mercedes minibus, driver-guide, panoramic drive of Bath with a Royal Crescent photo stop, optional walking tour, highlights map",
+      "entryExcluded": "Stonehenge entry, stated plainly, booked in advance by the operator and paid to the guide on the day; the page prints the full seasonal price table, GBP 24.65 to GBP 29.32 adult",
+      "conditional": false
+    },
+    {
+      "id": 43772,
+      "title": "London: Small Group Stonehenge and Bath Tour & Secret Site",
+      "provider": "The English Bus",
+      "pageFromPrice": "GBP 159",
+      "inventoryPrice": "GBP 143.10",
+      "duration": "11.5 hours",
+      "departurePoint": "Varies by option; drop-off at a zone 1 location",
+      "rating": 4.9,
+      "reviews": 172,
+      "entryIncluded": "Nothing; minicoach, driver-guide, walking tour of Bath, bottled water",
+      "entryExcluded": "Stonehenge entry, stated plainly with the seasonal price table, paid to the guide on the day",
+      "conditional": false
+    },
+    {
+      "id": 1204515,
+      "title": "Bath Day Trip from London",
+      "provider": "Golden Tours - Gray Line London",
+      "pageFromPrice": "GBP 69",
+      "duration": "11 hours",
+      "departurePoint": "Golden Tours, Bulleid Way Departure Point, Stop 1, Bulleid Way, London SW1W 9SR",
+      "rating": 3.4,
+      "reviews": 9,
+      "entryIncluded": "Nothing unconditionally. Includes reads 'Choose to visit the iconic Roman Baths'; the page states entry is optional and must be selected when booking",
+      "entryExcluded": "Food and drinks, hotel pick-up, tips",
+      "conditional": true,
+      "note": "Unescorted. Reviewers report 4 to 6 hours in the city against the advertised 11-hour day, and one early-return complaint."
+    },
+    {
+      "id": 1345509,
+      "title": "From London: Oxford and Bath Small-Group Day Trip",
+      "provider": "Celestia Travel Ltd",
+      "pageFromPrice": "GBP 99",
+      "duration": "10 hours",
+      "departurePoint": "73 Old Brompton Rd, South Kensington, London SW7 3JS",
+      "rating": 4.5,
+      "reviews": 2,
+      "entryIncluded": "Nothing; transport, driver-guide and free time in both cities",
+      "entryExcluded": "Guided tours in Oxford and Bath, entrance tickets to attractions, meals and drinks",
+      "conditional": false
+    },
+    {
+      "id": 7319,
+      "title": "London: Windsor Castle, Stonehenge & Bath Full-Day Tour",
+      "provider": "Evan Evans Tours",
+      "pageFromPrice": "GBP 79",
+      "titleFromPrice": "GBP 71",
+      "duration": "11 hours - 1 day",
+      "departurePoint": "Victoria Coach Station, 164 Buckingham Palace Rd, London SW1W 9TP",
+      "rating": 4.5,
+      "reviews": 3549,
+      "entryIncluded": "Entry to Stonehenge, Windsor Castle and the Roman Baths all marked 'if option selected'",
+      "entryExcluded": "Food and drinks, tips, hotel pick-up",
+      "conditional": true,
+      "note": "Windsor Castle closed Tuesdays and Wednesdays; St George's Chapel closed Sundays."
+    },
+    {
+      "id": 977,
+      "title": "London: Stonehenge, Windsor and Bath Day Trip by Bus",
+      "provider": "Golden Tours - Gray Line London",
+      "pageFromPrice": "GBP 79",
+      "titleFromPrice": "GBP 71",
+      "duration": "10 - 11 hours",
+      "departurePoint": "Varies by option",
+      "rating": 4.5,
+      "reviews": 1353,
+      "entryIncluded": "Windsor Castle, Stonehenge and Roman Baths entry all 'if option selected'",
+      "entryExcluded": "Food and drinks, tips",
+      "conditional": true
+    },
+    {
+      "id": 44098,
+      "title": "London: Windsor, Stonehenge & Bath with 14th-Century Pub",
+      "provider": "Premium Tours",
+      "pageFromPrice": "GBP 75",
+      "duration": "12.5 hours",
+      "departurePoint": "Varies by option",
+      "rating": 4.6,
+      "reviews": 819,
+      "entryIncluded": "Traditional pub lunch of fish and chips, local guide, panoramic tour of Bath. Windsor Castle and Stonehenge entry both 'if option selected'",
+      "entryExcluded": "Entry to Roman Baths, stated plainly; drinks; tips",
+      "conditional": true,
+      "note": "The only three-city product read that is straight about the Roman Baths, and the only one including a meal."
+    },
+    {
+      "id": 15627,
+      "title": "London: Stonehenge & Bath Day Trip with Optional Roman Baths",
+      "provider": "Premium Tours",
+      "pageFromPrice": "GBP 85",
+      "duration": "11 hours",
+      "departurePoint": "Victoria Coach Station, London SW1W 9TN",
+      "rating": 4.7,
+      "reviews": 557,
+      "entryIncluded": "Entry to Stonehenge and to the Roman Baths Museum, both 'if option selected'; walking tour of Bath, guide, coach",
+      "entryExcluded": "Lunch; entry to the Roman Baths unless the option is selected; Stonehenge unless the option is selected",
+      "conditional": true,
+      "note": "Conditional, but the only product in the set that says so in its own title."
+    },
+    {
+      "id": 1408818,
+      "title": "From London: Bath and Cotswolds Guided Day Trip",
+      "provider": "Click Tours",
+      "pageFromPrice": "GBP 102",
+      "duration": "12 hours",
+      "departurePoint": "Golden Tours, Bulleid Way Departure Point, Stop 1, Bulleid Way, London SW1W 9SR",
+      "rating": null,
+      "reviews": 0,
+      "entryIncluded": "Guide, walking tour of Bath, Bourton-on-the-Water. 'Entry to the Roman Baths (only if purchased)'",
+      "entryExcluded": "Admission fees not included unless booked and paid as per the option selected",
+      "conditional": true,
+      "note": "New activity, no reviews. Was linked from this article's book-direct list before this check and has been replaced."
+    },
+    {
+      "id": 1408799,
+      "title": "From London: Bath and Cotswolds Day Trip with Roman Baths",
+      "provider": "Click Tours",
+      "pageFromPrice": "GBP 102",
+      "duration": "12 hours",
+      "departurePoint": "Golden Tours, Bulleid Way Departure Point, Stop 1, Bulleid Way, London SW1W 9SR",
+      "rating": null,
+      "reviews": 0,
+      "entryIncluded": "Guide, walking tour of Bath, Bourton-on-the-Water. 'Entry to the Roman Baths (ONLY IF PURCHASED)'",
+      "entryExcluded": "Admission fees not included unless booked and paid as per the option selected",
+      "conditional": true,
+      "note": "The worst-drafted product in the Bath set: the Roman Baths are in the title and capitalised as conditional in the inclusions."
+    }
+  ],
+  "conditionalEntryProductIds": [1204515, 7319, 977, 44098, 15627, 1408818, 1408799, 945, 52393, 50354, 70842, 166535, 156657],
+  "unconditionalEntryProductIds": [61147, 593863, 525528],
+  "notChecked": {
+    "note": "22 of the 36 Bath product ids were not opened on this pass. They are the thinly reviewed, the private and the duplicated-itinerary products, and the low-review Windsor-Stonehenge-Bath variants.",
+    "ids": [945, 52393, 50354, 70842, 325, 1297, 11109, 18402, 46257, 48787, 46161, 45885, 1324137, 1337114, 1432883, 1408831, 1384618, 921501, 684218, 1456664, 1409283, 1409685, 1347110]
+  },
+  "caveats": [
+    "GetYourGuide from-prices move. Several products show a higher live sidebar price than the cached SEO title and than the inventory figure: 7319 and 977 at GBP 79 against GBP 71, 43772 at GBP 159 against GBP 143.",
+    "945 (5,821 reviews, the most-booked Bath product) was not reopened on this pass; its 'IF PURCHASED' inclusions line is carried over from the page read recorded in gyg-inventory.json.",
+    "Ratings and review counts drift daily; 61147 read 3,167 reviews against the 3,158 in the inventory."
+  ]
+}

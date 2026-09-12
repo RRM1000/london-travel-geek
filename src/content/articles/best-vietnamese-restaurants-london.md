@@ -63,6 +63,8 @@ The strip is real and it still holds the top of the list: **the two most-cited V
 
 So: start on Kingsland Road, but do not finish there.
 
+The Mile runs north out of Shoreditch, which makes it an easy evening bolted onto a day around Brick Lane and Spitalfields — the [Shoreditch area guide](/articles/shoreditch-area-guide/) covers that end. The other end of this list is Rye Lane, where Lai Rai sits among the market counters and grocers of the [Peckham area guide](/articles/peckham-area-guide/).
+
 ### Sông Quê Café — the most-cited Vietnamese restaurant in London
 
 *£ · Kingsland Road, Shoreditch · Cited by 8 sources*
@@ -137,7 +139,7 @@ Order the **quails marinated in lemongrass** off the charcoal, and the *bánh kh
 
 Chef patron **Bình Nguyễn left Hanoi at fourteen** to work in Hong Kong kitchens, became expert in both cuisines, and came to Britain in the 1990s to help other Vietnamese families start restaurants. His own kitchen fuses the two deliberately rather than by accident.
 
-The **Lạng Sơn roast duck**, spiced with *hạt*, is the dish he travels to Vietnam looking for ideas for. There is a fresh papaya salad with beef jerky (*gỏi đu đủ bò khô*) as well. It is the most central serious Vietnamese room in London.
+The **Lạng Sơn roast duck**, spiced with *hạt*, is the dish he travels to Vietnam looking for ideas for. There is a fresh papaya salad with beef jerky (*gỏi đu đủ bò khô*) as well. It is the most central serious Vietnamese room in London, and the one place on this page that would sit just as comfortably in our [Chinese and East Asian guide](/articles/best-chinese-east-asian-restaurants-london/).
 
 ### Green Papaya — the one London Fields keeps quiet
 

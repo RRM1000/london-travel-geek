@@ -41,7 +41,7 @@ The harder question is how you get there. Stonehenge sits in a field off the A30
 
 - **£66** — <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge morning trip, entry included</a>
 - **£85** — <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Bath, with Stonehenge entry</a>
-- **£189** — <a href="https://www.getyourguide.com/activity/-t320558?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge Inner Circle and Windsor</a>
+- **£140.25** — <a href="https://www.getyourguide.com/activity/-t11109?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Inner Circle access, inside the stones</a>
 
 ## What it costs
 
@@ -111,6 +111,8 @@ On money, one adult mid-week in winter is roughly **£33 to £40 for the rail re
 
 **88.7 miles and 2h11 from Charing Cross** via the M3 and A303. Sat nav **SP4 7DE**. **Parking is £4** for non-members, paid by app; members park free with the sticker displayed.
 
+**This is one of the few day trips where driving genuinely wins.** Two hours each way against three, no five-a-day bus to miss at Salisbury, and £4 to park at the other end — and the car then makes Salisbury, Avebury or the Cotswolds possible on the same day in a way the timetable does not. What a day's hire actually costs, including the excess and the charges visitors do not see coming, is in our guide to [hiring a car and driving in the UK](/articles/car-hire-driving-uk/).
+
 ## Seeing it free, from the National Trust land
 
 **The stones sit in 2,100 acres of National Trust downland, and that land is free and open all year.** Public byways and bridleways cross it, so you can walk to within a field of the circle without a ticket — the view from **King Barrow Ridge**, across the Avenue, is the one worth walking for.
@@ -164,13 +166,56 @@ The conditions are the same every time: do not touch or climb the stones, no alc
 
 Bags may be searched and there is no cloakroom or left luggage, so travel light. Assistance dogs go everywhere; other dogs are limited to the visitor centre and cannot board the shuttle or enter the stone circle field.
 
-## The coach tours, and the trap in their titles
+## The coach tours
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-entry-confirmed" data-gyg-tour-ids="219849,16096,61147" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-Three products, all checked against their own inclusions list: a **6½-hour morning trip with admission at £66**, departing from Cromwell Road in South Kensington; a **6-hour half-day at £69.30**; and an **11-hour Stonehenge-and-Bath day at £85** from Gloucester Road at 07:00, which includes Stonehenge entry but not the Roman Baths.
+Three products whose own inclusions list puts the admission in the price with no condition attached: a **6½-hour morning trip at £66**, a **6-hour half-day at £69.30**, and an **11-hour Stonehenge-and-Bath day at £85**.
 
-> ⚠️ **A headline price that looks too good usually is, because the admission is an optional extra.** Across this site's survey of day-trip listings, ten products named an attraction in the title and then buried its entry ticket in an "if option selected" clause — between them holding around 22,000 reviews. Stonehenge is the worst affected: the cheapest Stonehenge coach seat on the market advertises from £27, and that buys a ride to the car park and nothing else. **Read the inclusions list, not the title, and check that the words "entry" or "admission" appear without a condition attached.**
+## Which Stonehenge tour to book
+
+Sixty GetYourGuide products leave London for the stones. They sort into seven kinds of day, and the thing that really separates them is not the headline price — it is whether the £27.20 gate ticket is inside it. We have read the includes and excludes lists on twenty-seven of them, nineteen of those on 12 September 2026.
+
+| The day | Hours | From | Stonehenge entry in that price? |
+| --- | --- | --- | --- |
+| **Stonehenge alone** | 6–7 | **£36.80** | **Yes** — all four we read |
+| **Stonehenge and Bath** | 10–12 | £69 | **One** of the six we read |
+| **Windsor or Oxford, Stonehenge and Bath** | 10–12½ | £71.10 | **No** — a paid option on all nine |
+| **Stonehenge and the Cotswolds** | 10–11 | £85 | Yes on the minibus, no on the small-group day |
+| **Stonehenge with Avebury or Glastonbury** | 10–11 | £98 | **Yes** |
+| **Inside the circle** | 11–12 | £140.25 | Yes, and you stand among the stones |
+| **Private car with driver** | 8–12 | £345 | Check the option list before booking |
+
+### Stonehenge only: £66
+
+<a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge Morning Day Trip with Admission</a> — **£66, 6½ hours, 4.8 from 3,952 reviews.** Admission to the monument and exhibition, transport, driver-guide and the downloadable audio guide, all unconditional. Meets outside the Lycée Français, 29–35 Cromwell Road SW7 2DG.
+
+**Cheaper, with the entry still in it:** <a href="https://www.getyourguide.com/activity/-t657?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge Morning or Afternoon Tour</a> at **£36.80** (4.4 from 4,747) lists the entrance fee and the site shuttle in both of its two options — but there is no live guide, only the audio guide on your own phone. <a href="https://www.getyourguide.com/activity/-t619?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Evan Evans' 7-hour half-day</a> at £65 and the <a href="https://www.getyourguide.com/activity/-t16096?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">6-hour half-day</a> at £69.30 both include it too.
+
+### Stonehenge plus Bath: £85
+
+<a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Bath Day Trip with Entry Ticket</a> — **£85, 11 hours, 4.8 from 3,158 reviews**, leaving opposite Gloucester Road station at 07:00. Express entry to Stonehenge, the shuttle, the audio guide and the exhibition are in the price; **the Roman Baths are in the exclusions list**, and cost about £23.50 bought separately. It is the only Stonehenge-and-Bath coach we read that commits to the Stonehenge ticket.
+
+### Stonehenge plus Windsor: nothing includes both as standard
+
+Every Windsor-plus-Stonehenge product we opened makes one or both entry tickets a paid option. The nearest thing to a clean booking is <a href="https://www.getyourguide.com/activity/-t502413?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge &amp; Windsor Castle Tour with Tickets</a> — **£121.50, 11 hours, 4.6 from 398** — where the Windsor Castle ticket is unconditional and only the Stonehenge one depends on the option you pick. Otherwise go to <a href="https://www.getyourguide.com/activity/-t71373?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £71.10 Windsor, Stonehenge and Oxford day</a> (4.4 from 5,876, the most-booked of all sixty) and choose the option literally named "with Stonehenge and Windsor Castle Entry" rather than the cheapest one on the list. Check Windsor's Tuesday and Wednesday closures first.
+
+### Inside the circle: £140.25
+
+<a href="https://www.getyourguide.com/activity/-t11109?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge Private Inner Circle Tour with Bath</a> — **£140.25, 12 hours, 4.9 from 208.** Access to the inner circle when the site is closed to the public, sunrise or sunset, plus Bath and a 14th-century pub in Lacock; Roman Baths entry is the one option. <a href="https://www.getyourguide.com/activity/-t137303?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge Special Access evening tour</a> at £155 (4.8 from 101) swaps Bath for Avebury and West Kennet Long Barrow, from Earls Court. The most-reviewed is <a href="https://www.getyourguide.com/activity/-t320558?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Inner Circle and Windsor</a> at £189 (4.9 from 439) — the inner-circle visit is included, the Windsor Castle ticket is the option.
+
+All three are cheaper than doing it yourself only if you count the coach: English Heritage sells the Stone Circle Experience from £70, and you still have to get to Wiltshire at 05:00.
+
+### The other shapes of day
+
+- **With the Cotswolds** — <a href="https://www.getyourguide.com/activity/-t876613?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Cotswolds minibus</a>, **£85**, 10 hours, 4.7 from 113, early access to the stones and the exhibition included, then 1½ hours in Bourton-on-the-Water.
+- **With the other stone circles** — <a href="https://www.getyourguide.com/activity/-t65388?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Avebury</a>, **£98**, max 19 people, Stonehenge entry included — though the Avebury leg itself is option-dependent. <a href="https://www.getyourguide.com/activity/-t46107?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Glastonbury and Avebury</a> at £182 includes all three admissions outright, which almost nothing else does.
+- **With Oxford** — <a href="https://www.getyourguide.com/activity/-t234277?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Oxford with Admission</a>, **£79**, 4.7 from 613, small minibus from Cromwell Road, admission included and the title honest about it.
+- **Already in Bath?** A <a href="https://www.getyourguide.com/activity/-t525528?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Cotswolds day that starts in Bath</a> is listed at £95 with 4.8 from 775 reviews — useful if you are not coming out of London at all.
+
+> ⚠️ **The pattern that costs people money: the entry ticket is named in the title and then made conditional in the inclusions list.** The wording to look for is **"if option selected"**, and it is usually buried among genuinely-included things like Wi-Fi and an audio headset. <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge, Bath and Roman Baths</a> — 5,821 reviews, near the top of most searches — names four things and lists "Admissions to Windsor Castle, Stonehenge and Roman Baths (if purchased)". <a href="https://www.getyourguide.com/activity/-t15627?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge &amp; Bath with Optional Roman Baths</a> flags one optional entry in the title and quietly makes the Stonehenge ticket optional too. <a href="https://www.getyourguide.com/activity/-t502413?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge &amp; Windsor Castle Tour with Tickets</a> says "with Tickets" and means one of the two. Thirteen of the twenty-seven pages we have read do this, including the two most-booked products of all sixty. **Open the inclusions list and check that "entry" or "admission" appears with no condition after it — then, at checkout, pick the option that names the ticket.**
+
+**Two small-group operators handle it honestly and are worth knowing about:** <a href="https://www.getyourguide.com/activity/-t602620?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and the Cotswolds</a> at £154 (4.9 from 167) and <a href="https://www.getyourguide.com/activity/-t43772?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and a secret site</a> at £143.10 (4.9 from 172) both state flatly that the Stonehenge ticket is not in the price, print the full English Heritage price table in their exclusions, and sell you the ticket from the guide on the day. No trap — just a number you have to add on.
 
 ## Does anything else fit in the same day?
 
@@ -178,9 +223,11 @@ Three products, all checked against their own inclusions list: a **6½-hour morn
 | --- | --- | --- |
 | **Salisbury** | 12 miles, ~25 min on the tour bus | **The natural one.** Old Sarum is on the bus route home, and the all-in ticket adds the Cathedral. The operator's own suggestion is five hours for all three. |
 | **Bath** | 56 min by car, 1h55 by public transport | **Works, just about.** The standard 11-hour coach day. Bath gets around three hours, which is enough for the Roman Baths or a wander, not both. |
-| **Windsor** | 1h17 by car from Stonehenge | **Too much.** Windsor Castle wants 1½ to 2 hours of its own and is shut Tuesdays and Wednesdays. |
+| **Windsor** | 1h17 by car from Stonehenge | **Too much.** [Windsor Castle](/articles/windsor-day-trip/) wants 1½ to 2 hours of its own and is shut Tuesdays and Wednesdays. |
 
 **Salisbury to Bath Spa is direct, hourly and 54 to 57 minutes, from £23.50** — so doing the pair under your own steam is genuinely viable: Waterloo out, the bus to the stones, then the train on to Bath and home from Paddington. It makes for a long day, and it is the one itinerary where buying it as one coach ticket saves real effort. More on the Georgian end of it in our [Bath day trip guide](/articles/bath-day-trip/).
+
+**The operators pair it two other ways.** The most-sold shape is Windsor, Stonehenge and Bath in one day from £71.10 — three places for an hour or two each, and the group where no product includes the entry tickets as standard; [Windsor from London](/articles/windsor-day-trip/) is where to check whether the Castle end of it is even open on your date, because it is closed every Tuesday and Wednesday. The other is the small-group Stonehenge, Bath and the Cotswolds day at £154 plus the gate ticket, and that one has a real argument behind it: the Cotswold villages have no railway between them and their buses largely stop on Sundays, which is the one case where a coach seat beats doing it yourself. [The Cotswolds from London](/articles/cotswolds-day-trip/) has the village-by-village version.
 
 ## What people get wrong
 

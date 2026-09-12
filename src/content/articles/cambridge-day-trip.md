@@ -41,6 +41,8 @@ Contactless does not work. That trips people up at the gate, and it also costs t
 
 - **£119** — <a href="https://www.getyourguide.com/activity/-t2095?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford and Cambridge in a day</a>
 
+**One tour, and it is the one to think twice about.** Two college cities in a day is £119 to be driven between them, when each is a straightforward train ride on its own — [Oxford from London](/articles/oxford-day-trip/) is 55 minutes from Paddington, with an Off-Peak return at £37.70 and the same college-by-college pricing problem this page has. Do them on separate days and you pay less for more of each.
+
 ![King's College Chapel in Cambridge, its pinnacles and great east window lit pink at dusk](../../assets/articles/cambridge-day-trip/kings-college-chapel.jpg)
 
 *King's College Chapel, the £16.75 ticket that most visitors buy. Photo: The IOP, Pexels.*

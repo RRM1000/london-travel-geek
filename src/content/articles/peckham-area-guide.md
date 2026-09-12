@@ -98,7 +98,7 @@ Peckham has its own share of the commemorative plaques marking where notable peo
 
 The spine, and the reason to come. Loud, crowded, and the part of Peckham that has changed least — African and Caribbean grocers, fabric shops, butchers, hair and beauty, phone repair and shipping agents, with the newer places threaded between them rather than replacing them.
 
-**Rye Lane Market** at number 48 is the indoor one: **over 60 units under one roof, open seven days**, roughly 9.30am to 8pm Monday to Saturday and 11am to 5pm on Sunday. The food inside is Mexican, Peruvian, Salvadoran, Honduran, Congolese, Guyanese, Caribbean and West African, alongside tailors, herbalists, key cutters and a crystal stall. Southwark also runs a scatter of street-market pitches on the roads off Rye Lane — **Choumert Road, Atwell Road, Parkstone Road** — though the council publishes no trading days for any of them, so treat those as luck.
+**Rye Lane Market** at number 48 is the indoor one: **over 60 units under one roof, open seven days**, roughly 9.30am to 8pm Monday to Saturday and 11am to 5pm on Sunday. The food inside is Mexican, Peruvian, Salvadoran, Honduran, Congolese, Guyanese, [Caribbean](/articles/best-caribbean-restaurants-london/) and West African, alongside tailors, herbalists, key cutters and a crystal stall. Southwark also runs a scatter of street-market pitches on the roads off Rye Lane — **Choumert Road, Atwell Road, Parkstone Road** — though the council publishes no trading days for any of them, so treat those as luck.
 
 **Cornerhouse** at 133A is the newer end of the street in one building: Tonkotsu for ramen, **Forza Wine on the roof**, a basement club, a coffee shop and co-working above.
 
@@ -165,6 +165,8 @@ Peckham eats well and cheaply. This is a selection — see the [full restaurant 
 | **Mr Bao** | Taiwanese | ££ | Gua bao and Taiwanese small plates |
 | **Guacamoles** | Birria tacos | £ | Tortillas pressed to order and dipped in birria juice, in Rye Lane Market |
 | **Old Spike** | Coffee | £ | Trains and employs people who have experienced homelessness; the Peckham Rye site is a cafe, the roastery has moved to Brixton |
+
+**Two things Rye Lane holds that nowhere else in London does.** **Lai Rai** has the only Michelin Bib Gourmand for Vietnamese cooking in the UK and Ireland, awarded in February 2026 — which is a real answer to the assumption that [Vietnamese food in London](/articles/best-vietnamese-restaurants-london/) means Kingsland Road. And **Peckham Cellars** on Queens Road is one of three [wine bars](/articles/best-wine-bars-london/) named by more independent sources than any other in the city, with a shop alongside the bar, so the same bottle is usually cheaper off the shelf than off the list.
 
 ## Suggested two-hour walking route
 
