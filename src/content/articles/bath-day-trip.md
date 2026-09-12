@@ -35,6 +35,8 @@ It is also the rare day trip where the station puts you in the middle of everyth
 
 > 💡 **The Short Version:** **Paddington to Bath Spa, 1h15 direct.** Off-Peak Return **£75.90**, or **£47.60** in Advance singles booked a month out. **Roman Baths £26.50 weekday, £29.00 weekend** in advance, **£2 more on the door**, timed slots, **allow 90 minutes to 2 hours**. **Thermae Bath Spa rooftop pool £44 weekdays, £49 weekends**, two hours, **16 and over only**, and walk-in slots run out. **Bath Abbey £9**, tower tour **£18**, and Sunday visiting is only **13:00–15:30**. **No.1 Royal Crescent £16**, closed Mondays. **Cars pay nothing in the Clean Air Zone**; older vans pay £9. **2FOR1 covers almost nothing here.** Last direct train back **23:05** on a weekday.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="61147,43772,602620"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ![Pulteney Bridge seen from the river, its arches and the shops built along it, with Georgian buildings behind](../../assets/articles/bath-day-trip/pulteney-bridge-river.jpg)
 
 *Photo: Lebele, Pexels.*

@@ -35,6 +35,8 @@ The harder question is how you get there. Stonehenge sits in a field off the A30
 
 > 💡 **The Short Version:** **Adult advance £27.20–£32.30** by date, **15% more on the day**, children half price, **members free** — and **National Trust England members free too**. **Open 09:30–17:00 daily**, shut only on Christmas Day, **last ticket sold 14:30**. Train **Waterloo to Salisbury, 1h23, from £16.40**, then the **Stonehenge Tour bus, £43.50 including admission** — but only **five buses out in winter, the last at 14:05**. **Inside the circle is the Stone Circle Experience only, from £70.** **Free at the solstices and equinoxes** — next up **23 September 2026**. **Allow two hours** on site. Parking **£4**.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What it costs
 
 | Adult ticket | In advance | On the day |

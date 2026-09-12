@@ -35,6 +35,8 @@ Contactless does not work. That trips people up at the gate, and it also costs t
 
 > 💡 **The Short Version:** **King's Cross, 49 minutes**, Off-Peak return **£32.40**, Advance singles from **£15.20**. **Liverpool Street is cheaper at £27.50** but takes 1h25. **Oyster and contactless are not valid.** **King's College £16.75** booked early, **St John's £17** but summer only, **Queens' £5**, and **Trinity does not admit the public to its courts** — £10 for a Porter-led tour. The **Fitzwilliam Museum is free**, the **Botanic Garden £7.74** in advance, the **Round Church £3.50**. **Punting is £28.50 an hour** for a whole self-hire punt, or **from £41** chauffeured. **Never buy punting from someone on King's Parade** — touting is a criminal offence in Cambridge and those sellers are unlicensed. Last direct train back **23:51**.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="137081,146070,91836"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Getting there
 
 ### The train, and the 49-minute one

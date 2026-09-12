@@ -35,6 +35,8 @@ It is, otherwise, the easiest big day trip out of London: half an hour from Padd
 
 > 💡 **The Short Version:** **£32.00 adult in advance, £16.00 child, £96.00 for two and two.** **Closed Tuesdays and Wednesdays.** **Paddington via Slough, 28–38 minutes, £7.90 off-peak**, or **Waterloo direct, 53 minutes, £8.90**. **Contactless works, Oyster does not.** **St George's Chapel is shut to visitors on Sundays.** **Changing of the Guard is Thursday and Saturday at 11:00.** Allow **1½ to 2 hours** inside. **2FOR1 does not cover the Castle.** Sign your ticket on the way out and it becomes a **free pass for a year**.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71088,645578,53858"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Getting there
 
 | | Paddington → Windsor & Eton Central | Waterloo → Windsor & Eton Riverside |
