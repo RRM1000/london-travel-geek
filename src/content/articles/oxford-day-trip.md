@@ -37,6 +37,12 @@ Oxford is 55 minutes from Paddington and small enough to cross on foot in twenty
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="965,44382,2095"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+**Book a tour direct:**
+
+- **£79** — <a href="https://www.getyourguide.com/activity/-t965?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford, Stratford, the Cotswolds and Warwick Castle</a>
+- **£139** — <a href="https://www.getyourguide.com/activity/-t44382?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford, Stratford and the Cotswolds, small group</a>
+- **£119** — <a href="https://www.getyourguide.com/activity/-t2095?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford and Cambridge in a day</a>
+
 ## Getting there
 
 ![Merton College's tower above Merton Street, with the college's windows and a stone wall running down the empty cobbled lane](../../assets/articles/oxford-day-trip/merton-street.jpg)

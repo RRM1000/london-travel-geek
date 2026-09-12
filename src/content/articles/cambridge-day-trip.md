@@ -37,6 +37,10 @@ Contactless does not work. That trips people up at the gate, and it also costs t
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="137081,146070,91836"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+**Book a tour direct:**
+
+- **£119** — <a href="https://www.getyourguide.com/activity/-t2095?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford and Cambridge in a day</a>
+
 ![King's College Chapel in Cambridge, its pinnacles and great east window lit pink at dusk](../../assets/articles/cambridge-day-trip/kings-college-chapel.jpg)
 
 *King's College Chapel, the £16.75 ticket that most visitors buy. Photo: The IOP, Pexels.*

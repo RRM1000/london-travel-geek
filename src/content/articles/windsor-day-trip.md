@@ -37,6 +37,12 @@ It is, otherwise, the easiest big day trip out of London: half an hour from Padd
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71088,645578,53858"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+**Book a tour direct:**
+
+- **£80** — <a href="https://www.getyourguide.com/activity/-t71088?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor half-day with castle entry</a>
+- **£85** — <a href="https://www.getyourguide.com/activity/-t645578?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">LEGOLAND Windsor, entry and coach</a>
+- **£89** — <a href="https://www.getyourguide.com/activity/-t388125?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor Castle and Hampton Court</a>
+
 ## Getting there
 
 | | Paddington → Windsor & Eton Central | Waterloo → Windsor & Eton Riverside |

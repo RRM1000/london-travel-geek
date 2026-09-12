@@ -37,6 +37,12 @@ It is also the rare day trip where the station puts you in the middle of everyth
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="61147,43772,602620"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+**Book a tour direct:**
+
+- **£69** — <a href="https://www.getyourguide.com/activity/-t1204515?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath day trip by coach</a>
+- **£85** — <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Bath, with Stonehenge entry</a>
+- **£102** — <a href="https://www.getyourguide.com/activity/-t1408818?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath and the Cotswolds</a>
+
 ![Pulteney Bridge seen from the river, its arches and the shops built along it, with Georgian buildings behind](../../assets/articles/bath-day-trip/pulteney-bridge-river.jpg)
 
 *Photo: Lebele, Pexels.*

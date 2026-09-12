@@ -37,7 +37,7 @@ The northern Cotswolds — Moreton-in-Marsh, Stow, Bourton, Broadway, Chipping C
 
 ## By train
 
-All five run from Paddington. Returns were quoted for a Tuesday mid-morning departure; the cheap fare disappears on afternoon departures from about 15:20.
+All six run from Paddington. Returns were quoted for a Tuesday mid-morning departure; the cheap fare disappears on afternoon departures from about 15:20.
 
 | Station | Fastest | Off-peak return | What it actually puts you near |
 | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ All five run from Paddington. Returns were quoted for a Tuesday mid-morning depa
 
 ## The buses, honestly
 
-One route does almost all the work. The rest are thin, and four of the five stop dead on Sundays.
+One route does almost all the work. The rest are thin, and three of the five stop dead on Sundays.
 
 | Route | Where it goes | Frequency | Sunday |
 | --- | --- | --- | --- |
@@ -143,7 +143,7 @@ National Trust prices are the without-Gift-Aid ones. Snowshill and Hidcote are f
 
 ## The one-day pairings that work
 
-**Without a car, from Moreton-in-Marsh.** Take the 10:53 out of Paddington, or the 10:44 on a Sunday. The 801 to Bourton, the 2.6-mile flat walk up to Lower and Upper Slaughter, back on the 801 to Stow for the square and an early dinner, then the 801 to the station. All of it runs on a Sunday, but it ends earlier: be on the **17:15 out of Bourton or the 17:33 out of Stow**, because the later Sunday buses stop short of Moreton.
+**Without a car, from Moreton-in-Marsh.** Take the 10:53 out of Paddington, or the 10:44 on a Sunday. The 801 to Bourton, the flat walk up to Lower and Upper Slaughter and back — 2.6 miles each way, no bus serves the Slaughters — then the 801 on to Stow for the square and an early dinner, and the 801 again to the station. All of it runs on a Sunday, but it ends earlier: be on the **17:15 out of Bourton or the 17:33 out of Stow**, because the later Sunday buses stop short of Moreton.
 
 **With a car, in the north.** Broadway and Chipping Campden, twenty minutes apart, with either Snowshill Manor or Hidcote between them and Broadway Tower for the view.
 
