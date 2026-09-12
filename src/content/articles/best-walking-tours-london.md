@@ -155,7 +155,7 @@ The highest-rated Harry Potter walk with more than 1,000 reviews, and the longes
 
 It starts where you'd hope: inside **King's Cross**, at the stairs up to the Parcel Yard beside the Platform 9¾ shop. From there it takes in the **Millennium Bridge**, the Leaky Cauldron, the **Palace Theatre** where *Harry Potter and the Cursed Child* plays, Leicester Square and the House of Spells shop. The listing says kids go free, which makes it the cheap family option.
 
-![The luggage trolley half-buried in the wall at Platform 9¾ in King's Cross, with a trunk and an owl cage on it, staff in Hogwarts robes and a roped queue alongside](../../assets/articles/best-walking-tours-london/platform-nine-three-quarters-trolley.jpg)
+![A luggage trolley loaded with trunks and an owl cage, standing against the brick wall beneath the Platform 9¾ sign at King's Cross](../../assets/articles/best-walking-tours-london/platform-nine-three-quarters-trolley.jpg)
 *The Platform 9¾ trolley at King's Cross, where the Harry Potter Movies walk begins.*
 
 ## Film, TV and books

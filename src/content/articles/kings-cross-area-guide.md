@@ -137,7 +137,7 @@ The centre of the redevelopment, and the part worth walking even if you buy noth
 
 *The Western Concourse, opened in 2012. The lattice is a single fan of steel springing from one central funnel — and Platform 9¾ is against the wall on the left.*
 
-![A luggage trolley half-embedded in the wall at Platform 9 3/4, with an owl cage on top](../../assets/articles/kings-cross-area-guide/platform-nine-three-quarters-trolley.jpg)
+![A luggage trolley loaded with trunks and an owl cage, standing against the brick wall beneath the Platform 9¾ sign at King's Cross](../../assets/articles/kings-cross-area-guide/platform-nine-three-quarters-trolley.jpg)
 
 *The Platform 9¾ trolley. Queuing is free; the photograph taken by the staff photographer is not, and the shop beside it is where the queue ends.*
 

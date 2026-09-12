@@ -145,7 +145,7 @@ Bands vary by night: a Saturday evening costs more at every level than a Tuesday
 
 ## Platform 9¾
 
-![The luggage trolley half-buried in the wall at Platform 9¾ in King's Cross, with a trunk and an owl cage on it, staff in Hogwarts robes and a roped queue alongside](../../assets/articles/harry-potter-london/platform-nine-three-quarters-trolley.jpg)
+![A luggage trolley loaded with trunks and an owl cage, standing against the brick wall beneath the Platform 9¾ sign at King's Cross](../../assets/articles/harry-potter-london/platform-nine-three-quarters-trolley.jpg)
 *The queue, the barrier and the shop staff are all part of it. The trolley is never photographed alone.*
 
 The trolley half-buried in a wall at King's Cross, with a member of staff to fling the scarf and a photographer to sell you the result.

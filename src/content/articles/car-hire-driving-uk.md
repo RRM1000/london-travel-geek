@@ -6,6 +6,12 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Getting around London"
+heroImage: "../../assets/articles/car-hire-driving-uk/motorway.jpg"
+heroImageAlt: "Traffic running in both directions on a British motorway, cars and lorries in three lanes under a bright sky"
+heroImageCredit: "Mike Bird"
+heroImageSource: "https://www.pexels.com/photo/15610894/"
+heroImageLicense: "Pexels License"
+heroImageLicenseUrl: "https://www.pexels.com/license/"
 tags: [driving, day trips, car hire, road trip, getting around]
 draft: false
 faq:
@@ -145,6 +151,10 @@ Checked 12 September 2026. Hertz figures include tax.
 
 ## Driving in London, and why you probably shouldn't
 
+![A London street of red-brick terraces with cars parked along a red route and traffic heading towards the city](../../assets/articles/car-hire-driving-uk/london-street.jpg)
+
+*Photo: captrodcocker, Pexels.*
+
 **Three separate schemes can charge the same car on the same day**, and a hire car is exempt from none of them.
 
 | Scheme | Cost | When |
@@ -180,6 +190,10 @@ Eight hours in a Mayfair bay is **£59.44**, before the £18 Congestion Charge a
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## On the road
+
+![A British roundabout seen from directly above, cars circling a grass island with four roads feeding into it](../../assets/articles/car-hire-driving-uk/roundabout.jpg)
+
+*The thing visitors dread, from above. Give way to the right. Photo: Altaf Shah, Pexels.*
 
 **You drive on the left, and the car will be right-hand drive.** Give yourself a quiet road for the first ten minutes; the two things that catch people out are drifting left into the kerb and reaching for the gearstick with the wrong hand.
 
@@ -219,6 +233,10 @@ Checked 12 September 2026.
 > ⚠️ **Miss the Dart Charge and it is £70.** Reduced to £35 within 14 days, increased to £105 if you leave it — on top of the £3.50 you should have paid. There are no barriers at Dartford, so nothing stops you crossing and forgetting.
 
 ## Parking, and the fine you get for guessing
+
+![The view through a windscreen of a small car waiting at a red traffic light on a wet road](../../assets/articles/car-hire-driving-uk/traffic-lights.jpg)
+
+*Photo: Luke Seago, Pexels.*
 
 **Learn three markings and you will avoid most of it.**
 

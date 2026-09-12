@@ -6,6 +6,8 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
+heroImage: "../../assets/articles/harry-potter-studio-tour/studio-tour-entrance.jpg"
+heroImageAlt: "The curved black frontage of Warner Bros. Studio Tour London, with the Making of Harry Potter lettering above the entrance and the chess knight statues outside"
 tags: [harry potter, Watford, family, things to do, days out, day trips]
 draft: false
 faq:
@@ -56,6 +58,10 @@ The family price is not a separate product. Put two adults and two children in t
 
 ## What the ticket includes
 
+![The Hogwarts castle model lit from above in the Model Room, its towers and courtyards in fine detail](../../assets/articles/harry-potter-studio-tour/hogwarts-castle-model.jpg)
+
+*The castle model in the Model Room, near the end of the tour.*
+
 The tour runs in one direction through 21 sections, starting with the doors of the Great Hall opening.
 
 **The sets:** the Great Hall, the Gryffindor common room and Dumbledore's office, Platform 9¾ with the original Hogwarts Express locomotive and a carriage you can walk into, the Forbidden Forest, Gringotts and the Lestrange vault, Diagon Alley, Professor Sprout's greenhouse, the Backlot with the Knight Bus, the Hogwarts bridge and Number Four Privet Drive, the castle model, and the Wand Room.
@@ -63,6 +69,10 @@ The tour runs in one direction through 21 sections, starting with the doors of t
 **Free with any ticket:** the shuttle bus from Watford Junction, car parking, the cloakroom, the Activity Passport for children, WiFi, water refill stations, manual wheelchairs and folding stools, sensory support bags, two sensory rooms and a multi-faith room. **All the seasonal content is included too** — Dark Arts and Hogwarts in the Snow cost nothing extra.
 
 ## The optional extras, and what each costs
+
+![The Great Hall set with its long tables laid for a feast, house banners hanging above and costumes on either side](../../assets/articles/harry-potter-studio-tour/great-hall.jpg)
+
+*The Great Hall, where the tour starts.*
 
 | Extra | Pre-booked | On the day |
 | --- | --- | --- |
@@ -94,6 +104,10 @@ The photo package covers the green screen broomstick flight and the printed extr
 
 ## Food, drink and Butterbeer
 
+![Diagon Alley on the Studio Tour, the shopfronts lit purple and red down the length of the crooked street](../../assets/articles/harry-potter-studio-tour/diagon-alley.jpg)
+
+*Diagon Alley, towards the end of the walk.*
+
 **Butterbeer is sold in exactly one place:** the Butterbeer Bar next to the Backlot Café, roughly halfway round. You cannot buy it before you start or after you finish.
 
 | Butterbeer | Price |
@@ -119,6 +133,10 @@ Elsewhere: the **Backlot Café** does burgers, hot dogs and salads halfway round
 > ⚠️ **The tour is closed 9–13 November 2026**, between the two seasonal runs, while the sets are redressed, and on **25 and 26 December**. On **24 and 31 December the last tour starts at 14:30**. Check the calendar before you book trains or a hotel.
 
 ## Getting there
+
+![The Hogwarts Express locomotive, number 5972, standing at the recreated Platform 9¾ inside the Studio Tour](../../assets/articles/harry-potter-studio-tour/hogwarts-express.jpg)
+
+*The Hogwarts Express, halfway round, where the green screen carriage photo is taken.*
 
 ### Train and the free shuttle, which is the cheapest way
 

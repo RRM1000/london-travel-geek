@@ -6,6 +6,12 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
+heroImage: "../../assets/articles/windsor-day-trip/windsor-castle-upper-ward.jpg"
+heroImageAlt: "Windsor Castle's Upper Ward, the State Apartments and round towers behind a wide lawn under a blue sky"
+heroImageCredit: "Marvin Sacdalan"
+heroImageSource: "https://www.pexels.com/photo/13020632/"
+heroImageLicense: "Pexels License"
+heroImageLicenseUrl: "https://www.pexels.com/license/"
 tags: [day trips, Windsor, castles, royal London, family, things to do]
 draft: false
 faq:
@@ -64,6 +70,10 @@ Reading Buses' **Green Line 702** runs hourly between central London and LEGOLAN
 Home Park and King Edward VII are the cheapest full day and they sit beside the Long Walk, which is where you want to be anyway. They can close at weekends and during events, so check before you set off.
 
 ## Windsor Castle
+
+![Visitors walking up to Windsor Castle's gatehouse, its two round towers rising above the crowd](../../assets/articles/windsor-day-trip/windsor-castle-gate.jpg)
+
+*The way in. Photo: Eren Cebeci, Pexels.*
 
 | Ticket | In advance | On the day |
 | --- | --- | --- |
@@ -127,6 +137,10 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 ## What fills the rest of the day
 
+![The Long Walk at Windsor, a straight avenue of trees running away from the castle with people strolling down it](../../assets/articles/windsor-day-trip/the-long-walk.jpg)
+
+*The Long Walk: free, and the best thing in Windsor after the castle. Photo: Eren Cebeci, Pexels.*
+
 ### The Long Walk
 
 **Free, and the best thing in Windsor after the Castle.** Charles II laid it out between 1682 and 1685: almost **2.5 miles** of tree-lined avenue running dead straight from the Castle up to the **Copper Horse**, the 1831 statue of George III at the top of the rise. The view back down to the Castle is the one on the postcards. There and back is about five miles.
@@ -162,6 +176,10 @@ Which sets up a neat trade: **Sunday is the one day the Chapel is shut and the o
 - **Eton High Street**, for cafés and restaurants without the coach parties.
 
 ## Last trains, and how long the day really takes
+
+![Windsor Castle's Henry VIII Gate and battlements at dusk, lit by street lamps](../../assets/articles/windsor-day-trip/henry-viii-gate.jpg)
+
+*Photo: Spencer Davis, Pexels.*
 
 | Route | Weekday | Saturday | Sunday |
 | --- | --- | --- | --- |
