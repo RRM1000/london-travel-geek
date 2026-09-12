@@ -1,0 +1,376 @@
+{
+  "_comment": [
+    "Primary-source research for src/content/articles/cotswolds-day-trip.md.",
+    "Fares were read off the National Rail journey planner for named dates, so they",
+    "are 'what the planner quoted', which is what a reader will see. Bus times come",
+    "from the operator's own live timetable feed (Pulhams is operated by Go-Ahead and",
+    "publishes through oxfordbus.co.uk) or from the operator's own PDF. Parking comes",
+    "from the district or county council that owns the car park. Attraction prices",
+    "come from the attraction's own site or its own booking API - no aggregators."
+  ],
+  "checkedOn": "2026-09-12",
+  "gettingThere": {
+    "_note": "All returns quoted for Tue 15 Sep 2026, out mid-morning, back 18:00-19:00. Singles quoted for Tue 13 Oct 2026 (a month out) to test for Advance fares.",
+    "source": "https://www.nationalrail.co.uk/journey-planner/",
+    "stations": [
+      {
+        "station": "Moreton-in-Marsh (MIM)",
+        "line": "Cotswold Line, direct from Paddington",
+        "journeyTime": "1h 25m - 1h 29m direct, roughly hourly",
+        "offPeakReturn": "£54.00",
+        "offPeakReturnNote": "Quoted from the 10:53 departure onwards. The 09:52 and departures from 15:23 were quoted at £72.00, and the 16:58 at £106.00.",
+        "singleAMonthOut": "£53.00",
+        "singleNote": "Every departure on Tue 13 Oct 2026 was quoted at the same £53.00, so the planner offered no Advance bargain. GWR's own booking engine quoted an Anytime Day Single of £53.60 for travel on 12 Sep 2026 and no Off-Peak or Advance fare at all that day. The practical reading: the return costs about £1 more than a single, so always buy the return.",
+        "sundayReturn": "£54.00, hourly at :44 from Paddington, 1h 39m",
+        "sundaySingle": "£35.50",
+        "lastTrainBackWeekday": "23:31, arriving Paddington 01:16. Last sensible one 21:46, in at 23:29.",
+        "lastTrainBackSunday": "21:46, arriving Paddington 23:40",
+        "putsYouWithin": "Moreton town centre is a two-minute walk from the platform. Batsford Arboretum is 1.9 miles / 44 minutes on foot via Arboretum Walk (Google Maps, walking). Everything else needs the 801 bus, which calls at the station."
+      },
+      {
+        "station": "Kingham (KGM)",
+        "line": "Cotswold Line, direct from Paddington",
+        "journeyTime": "1h 16m - 1h 21m direct",
+        "offPeakReturn": "£46.80",
+        "note": "Cheaper and faster than Moreton-in-Marsh, and the Cotswold Motoring Museum's own travel page puts Kingham 5 miles from Bourton against Moreton's 8. But no useful bus connects it, so it is a taxi station."
+      },
+      {
+        "station": "Kemble (KEM)",
+        "journeyTime": "1h 06m - 1h 10m direct, hourly",
+        "offPeakReturn": "£63.20",
+        "putsYouWithin": "Cirencester, 12 minutes on Stagecoach 882 (Kemble Railway Station 11:50 -> Cirencester Old Station Car Park 12:02). Only about five or six journeys a day, Monday to Saturday, and the published timetable has no Sunday column.",
+        "busSource": "https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/West/2026/Stroud/882_120426.pdf"
+      },
+      {
+        "station": "Stroud (STD)",
+        "journeyTime": "1h 22m - 1h 26m direct, hourly",
+        "offPeakReturn": "£63.20",
+        "putsYouWithin": "Stroud itself - a working Five Valleys market town, not a chocolate-box village. No village of the postcard kind is within walking distance."
+      },
+      {
+        "station": "Charlbury (CBY)",
+        "line": "Cotswold Line, direct from Paddington",
+        "journeyTime": "1h 05m - 1h 12m direct",
+        "offPeakReturn": "£45.70",
+        "offPeakReturnNote": "Cheapest of the five. Departures from 15:23 were quoted at £60.70 and from 16:58 at £92.20.",
+        "putsYouWithin": "Charlbury itself: Market Street is 0.3 mile / 9 minutes from the station on foot (Google Maps, walking). Nothing else is walkable."
+      },
+      {
+        "station": "Cheltenham Spa (CNM)",
+        "journeyTime": "1h 59m - 2h direct, 1h 50m with a change",
+        "offPeakReturn": "£70.90 direct, £78.10 on the routes with a change",
+        "putsYouWithin": "Cheltenham. The reason to come here is Royal Well bus station, where the 801, 606 and X52 all start - 1.1 miles / 25 minutes on foot from the railway station (Google Maps, walking)."
+      }
+    ]
+  },
+  "buses": {
+    "operator": "Pulhams Coaches (Go-Ahead). Live timetables published at oxfordbus.co.uk/services/PULH/<number>.",
+    "fares": {
+      "singleCap": "£3",
+      "returnCap": "£6",
+      "cotswoldZoneDayTicket": "Adult £8.00 in the Pulhams app, £8.50 on the bus. 18 and under £6.50 either way. Group £20 app / £22 on bus.",
+      "source": "https://www.pulhams.co.uk/busservices/fares-tickets/"
+    },
+    "routes": [
+      {
+        "number": "801",
+        "route": "Cheltenham - Andoversford - Bourton-on-the-Water - Stow-on-the-Wold - Moreton-in-Marsh - Chipping Norton",
+        "verdict": "The one genuinely useful bus, and the only one that runs on Sundays.",
+        "weekday": "From Moreton-in-Marsh Railway Station: 06:30, 08:00, 08:45, then 09:45 to 13:45 hourly, 15:05, 15:55, 16:55, 17:35, 18:20, 19:10, 19:40, 20:40, 21:40.",
+        "sunday": "From Moreton-in-Marsh Railway Station hourly, 07:45 to 18:45.",
+        "journeyTimes": "Moreton station to Stow-on-the-Wold Library 20 min; Moreton station to Bourton-on-the-Water 40 min; Bourton to Stow 18 min.",
+        "lastBackWeekday": "Bourton 21:15 -> Moreton station 21:40",
+        "lastBackSunday": "Bourton 17:15 -> Moreton station 17:45. The 18:15 and 19:15 do not continue to Moreton.",
+        "checkedDates": "Mon 14 Sep, Sun 13 Sep and Sun 20 Sep 2026"
+      },
+      {
+        "number": "855",
+        "route": "Bourton-on-the-Water - Northleach - Bibury - Cirencester",
+        "verdict": "The only bus to Bibury.",
+        "weekday": "Bourton-on-the-Water Newsagent to Bibury, The Square: 06:00, 07:00, then 09:00 to 14:00 hourly, 16:00, 17:00 (32 minutes). Return from Bibury, The Square: 07:18, 08:08, then 09:21 to 14:21 hourly, 15:18, 17:18, 18:18 (26 minutes to Bourton).",
+        "saturday": "Runs, hourly from Cirencester 08:05 to 18:05.",
+        "sunday": "NO SERVICE. The feed returns 'this service does not run in this direction on the provided date' for both directions on Sunday 13 September 2026.",
+        "checkedDates": "Sat 12 Sep, Sun 13 Sep, Mon 14 Sep 2026"
+      },
+      {
+        "number": "606",
+        "route": "Chipping Campden - Willersey - Broadway - Winchcombe - Bishop's Cleeve - Cheltenham",
+        "weekday": "Chipping Campden Noel Arms to Broadway The Lygon Arms: 06:45, 08:54, 10:54, 12:54, 14:59, 17:19. About 19 minutes.",
+        "sunday": "NO SERVICE.",
+        "checkedDates": "Mon 14 Sep, Sun 13 Sep 2026"
+      },
+      {
+        "number": "X52",
+        "route": "Oxford - Witney - Burford - Northleach - Andoversford - Cheltenham",
+        "weekday": "Roughly every two hours. Burford Oxford Road Layby at 07:43, 09:48, 11:48, 13:48, 15:59, 18:18, 18:48 towards Cheltenham.",
+        "sunday": "Runs - five journeys, Oxford 08:50, 10:50, 12:50, 14:50, 16:50, calling Burford 58 minutes later.",
+        "checkedDates": "Mon 14 Sep, Sun 13 Sep 2026"
+      },
+      {
+        "number": "1 / 2 / 3 (Stagecoach)",
+        "route": "Stratford-upon-Avon - Mickleton - Broadway - Chipping Campden - Blockley - Moreton-in-Marsh",
+        "operator": "Stagecoach Midlands",
+        "daysOfOperation": "Monday to Saturday only - Warwickshire County Council's timetable record lists Monday to Saturday and no Sunday.",
+        "moretonToBroadway": "Moreton-in-Marsh Station 09:23 -> Broadway The Lygon Arms 09:51; also 12:26 -> 12:54 and 17:25 -> 17:53 (Mon-Fri). 28 minutes. Three journeys a day.",
+        "moretonToChippingCampden": "Moreton-in-Marsh Station 09:23 -> Chipping Campden Town Hall 10:11 (via Broadway), 10:45 -> 11:13 (direct via Blockley), 12:26 -> 13:14, 15:28 -> 15:56, 17:25 -> 18:13, 18:45 -> 19:13.",
+        "broadwayToMoreton": "Broadway The Lygon Arms 10:00 -> Moreton-in-Marsh Station 10:29; also 14:05 -> 14:34 and 18:10 -> 18:39 (Mon-Fri).",
+        "sources": [
+          "https://www.warwickshire.gov.uk/directory-record/7473/",
+          "https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/Midlands/Leamington%20Timetables/Current/S123_TT_220725.pdf"
+        ]
+      },
+      {
+        "number": "882 (Stagecoach West)",
+        "route": "Gloucester - Cirencester - Kemble - Tetbury",
+        "note": "Kemble Railway Station to Cirencester, about 12 minutes. Monday to Friday and Saturday columns only; no Sunday."
+      }
+    ],
+    "operatorsOwnWords": "The Cotswold Motoring Museum's own travel page: 'There are buses from Bourton to the main towns and Moreton-in-Marsh for rail connections, but they are not very regular and timetables change between summer and winter.'"
+  },
+  "driving": {
+    "source": "Google Maps, driving directions from Charing Cross, London, checked 12 September 2026",
+    "bourtonOnTheWater": "2h 14m, 88.1 miles via M40 and A40; or 2h 19m, 109 miles via M4",
+    "bibury": "2h 08m, 83.7 miles via M40 and A40; or 2h 09m, 101 miles via M4",
+    "broadway": "2h 28m, 97.5 miles via M40 and A44",
+    "castleCombe": "2h 12m, 102 miles via M4"
+  },
+  "parking": {
+    "cotswoldDistrictCouncil": {
+      "source": "https://www.cotswold.gov.uk/parking-travel-and-visitors/where-to-park/",
+      "bourtonRissingtonRoad": {
+        "postcode": "GL54 2BN",
+        "spaces": "192 standard, 9 disabled, 8 EV",
+        "charges": "2hr £4.40, 3hr £5.50, 5hr £7.30, 10hr £10.60",
+        "hours": "Charges apply 10:00-20:00 Monday to Sunday; open overnight",
+        "note": "Blue badge holders free up to 10 hours. Cashless or PayByPhone location 804760."
+      },
+      "moretonOldMarketWay": {
+        "postcode": "GL56 0JY",
+        "spaces": "40 standard, 3 disabled, 6 rapid EV, 2 free bays",
+        "charges": "30min 80p, 1hr £1.20, 2hr £2.40, 10hr £3.40",
+        "hours": "08:00-18:00 Mon-Sat, 10:00-18:00 Sunday"
+      },
+      "stowFosseway": {
+        "postcode": "GL54 1BX",
+        "spaces": "98 standard, 3 disabled",
+        "charges": "Free",
+        "hours": "Seven days a week including overnight"
+      },
+      "stowMaugersburyRoad": {
+        "postcode": "GL54 1HH",
+        "spaces": "62 standard, 5 coach bays",
+        "charges": "2hr £4.40, 3hr £5.50, 5hr £7.30, 10hr £10.60"
+      },
+      "chippingCampdenMarketSquare": {
+        "postcode": "GL55 6AW",
+        "spaces": "32",
+        "charges": "First 20 minutes free, 1hr £1, 2hr £2",
+        "hours": "07:00-19:00 every day",
+        "note": "Not owned by the council; blue badge holders pay here."
+      }
+    },
+    "burford": {
+      "source": "https://www.westoxon.gov.uk/parking-travel-and-visitors/where-to-park/",
+      "quote": "Parking is free in all of our car parks.",
+      "carPark": "Guildenford, Burford OX18 4SE, long stay up to 10 hours, seven days a week including overnight"
+    },
+    "bibury": {
+      "parishCouncil": "Bibury Parish Council: 'public parking is limited in Bibury, there is some parking bays provided by Gloucestershire County Council - opposite the Trout Farm (including Two Coach Bays) and along The Street.' (page last updated 2019)",
+      "nationalTrust": "National Trust Bibury page: 'Free parking opposite the Trout Farm and along the Highway (not National Trust). Can be busy.' Sat nav GL7 5NP.",
+      "arlingtonRowAccess": "National Trust, in its own words: 'Please take care to respect the privacy of residents living in Arlington Row and be aware that vehicular access is restricted to residents because of the steep and narrow access road and the lack of turning or parking space.' The cottages are private homes; Nos. 1 and 9 are National Trust holiday lets; there is no public access to the cottages or gardens.",
+      "coachBaysRemoved": "Gloucestershire County Council, reviewed 25 July 2025: the coach parking bays in the centre of Bibury have been removed and replaced with a bus stop clearway with a 10-minute wait limit. Coaches are asked to turn round at Cirencester services, which GCC concedes 'adds 15-20 minutes to journey times'.",
+      "paidAlternative": "Bibury Trout Farm charges £10 for its car park.",
+      "sources": [
+        "https://www.biburyparishcouncil.gov.uk/car-parks",
+        "https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/bibury",
+        "https://www.gloucestershire.gov.uk/parking/general-information-parking-and-bus-lane/information-for-coach-operators-coach-parking-changes-in-bibury/"
+      ]
+    },
+    "castleCombe": {
+      "source": "https://castlecombeparishcouncil.gov.uk/visitors-to-castle-combe-urged-to-plan-ahead/",
+      "detail": "Pay-and-display car park in Dunns Lane, Upper Castle Combe. 'Enforcement officers regularly patrol to monitor and deter illegal parking in the village.' Visitors are asked not to park across businesses or private residences or on yellow lines."
+    },
+    "broadwayTower": {
+      "source": "https://broadwaytower.co.uk/location/",
+      "charges": "£3 for up to 4 hours, £6 all day, pay and display",
+      "hours": "Car park open 08:00-17:00; gates locked 17:15"
+    }
+  },
+  "villages": {
+    "bourtonOnTheWater": {
+      "what": "The River Windrush runs through the middle under low stone footbridges. Three paid attractions on one street plus the green.",
+      "crowding": "Bourton-on-the-Water Parish Council, 9 September 2025: 'the increased visitor numbers this year have placed significant pressure not only on the village centre but also on surrounding residential and commercial areas' and 'The Parish Council has no control over visitor numbers and has no power to close the village.' An Experimental Traffic Regulation Order on Meadow Way to manage coach traffic was due to run for a year to September 2026. The council also says Gloucestershire Highways has refused a residents' parking permit scheme.",
+      "source": "https://www.bourtononthewater-pc.gov.uk/2025/09/statement-from-bourton-on-the-water-parish-council-update-on-tourism-mitigation-measures/"
+    },
+    "stowOnTheWold": {
+      "what": "Market square at the top of the hill where the Fosse Way crosses, antique shops, St Edward's Church with its yew-flanked north door. The 801 stops at the Library.",
+      "parking": "Free at Fosseway, GL54 1BX, 98 spaces."
+    },
+    "lowerSlaughter": {
+      "what": "The Old Mill on the River Eye, a lane of stone cottages and no through traffic.",
+      "walk": "Bourton-on-the-Water to Lower Slaughter to Upper Slaughter is 2.6 miles and about 58 minutes on foot, mostly flat (Google Maps, walking)."
+    },
+    "bibury": {
+      "what": "Arlington Row (National Trust, c.1380 as a monastic wool store, converted to weavers' cottages in the 17th century), the Rack Isle water meadow, and Bibury Trout Farm."
+    },
+    "broadway": {
+      "what": "A wide green High Street; Broadway Tower on the escarpment a mile above the village; Snowshill Manor is signed from here."
+    },
+    "chippingCampden": {
+      "what": "The Market Hall on the High Street, built 1627 by Sir Baptist Hicks, Grade I listed and given to the National Trust in the 1940s; free to walk through. The northern end of the Cotswold Way.",
+      "cotswoldWay": "102 miles / 164 km, Chipping Campden to Bath (National Trails).",
+      "sources": [
+        "https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/market-hall",
+        "https://www.nationaltrail.co.uk/en_GB/trails/cotswold-way/"
+      ]
+    },
+    "burford": {
+      "what": "One long High Street dropping to a bridge over the Windrush; free council parking; on the X52 between Oxford and Cheltenham."
+    },
+    "cirencester": {
+      "what": "A Roman town - Corinium - with the Corinium Museum, St John Baptist parish church and the Abbey Grounds. The hub of the 855 and the 882."
+    },
+    "castleCombe": {
+      "what": "In Wiltshire, on the southern edge of the Cotswolds, 12 miles from Bath. Nothing in the north Cotswolds pairs with it in a day."
+    }
+  },
+  "paidAttractions": [
+    {
+      "name": "The Model Village, Bourton-on-the-Water",
+      "adult": "£4.95",
+      "child": "£4.00 (3-13), under 3 free",
+      "senior": "£4.50 (over 60)",
+      "hours": "10:00-17:30 British Summer Time, 10:00-15:30 GMT",
+      "closed": "Christmas Day and Boxing Day; closes for snow",
+      "notes": "Card payments only, no pre-booking. A 1/9th scale replica of Bourton, Grade II listed since 2013. Separate £1 fee for the Exhibition of Miniatures. No pushchairs, walking frames or wheelchairs on the narrow paths.",
+      "source": "https://www.theoldnewinn.co.uk/model-village/"
+    },
+    {
+      "name": "Birdland Park and Gardens, Bourton-on-the-Water",
+      "adult": "£14.95 at the gate, £13.95 online",
+      "child": "£11.50 gate / £10.50 online (3-15), under 3 free",
+      "senior": "£13.95 gate / £12.95 online",
+      "bookingFee": "£1.50 per online booking",
+      "hours": "10:00-17:00 daily, last entry 16:00",
+      "closed": "Christmas Eve and Christmas Day only",
+      "source": "https://www.birdland.co.uk/visit/admission-prices-opening-times/"
+    },
+    {
+      "name": "Cotswold Motoring Museum and Toy Collection, Bourton-on-the-Water",
+      "adult": "£9.95",
+      "child": "£6.95 (5-16), under 5 free",
+      "family": "£27.00 (2 adults, 2 children)",
+      "hours": "10:00-18:00 daily, last admission 17:15",
+      "source": "https://www.cotswoldmotoringmuseum.co.uk/plan-your-visit/"
+    },
+    {
+      "name": "Broadway Tower",
+      "towerMuseumAndGrounds": "Adult £14.00 (£14.82 with booking fee), child 11-16 £6.00, child 6-10 £3.00, under 6 free",
+      "groundsOnly": "Adult £4.00 (£4.24), child 6-16 £2.00, under 6 free",
+      "nuclearBunker": "Adult £12.00",
+      "combined": "Adult £20.00 (bunker, tower museum and grounds)",
+      "parking": "£3 up to 4 hours, £6 all day, on top of admission",
+      "hours": "April to October: Tower Museum 10:00-17:00 daily, last admission 16:45. Nuclear Bunker on selected dates only - April to October weekends, bank holidays and select days, guided tours up to 45 minutes, access by ladder, minimum age 10.",
+      "closed": "Christmas Day, Boxing Day and New Year's Day",
+      "sources": [
+        "https://broadwaytower.co.uk/",
+        "https://broadwaytower.co.uk/location/",
+        "https://api.beyonk.com/api/v1/buy/experience/e7hh9nlr (the tower's own booking system)"
+      ]
+    },
+    {
+      "name": "Snowshill Manor and Garden (National Trust), near Broadway WR12 7JU",
+      "mainSeason": "To 1 November: adult £18.00 without Gift Aid (£19.80 with), child 5-17 £9.00, family £45.00, one-adult family £27.00",
+      "lateSeason": "From 2 November: adult £13.00 without Gift Aid, child £6.50, family £32.50",
+      "hours": "Manor house 11:30-16:30, garden 11:00-17:30. Last admission to the Manor 15:30 in main season, 14:30 from 25 October to 1 November, 13:30 from 7 to 29 November.",
+      "parking": "Free, 500 yards from the manor",
+      "source": "https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/snowshill-manor-and-garden"
+    },
+    {
+      "name": "Hidcote (National Trust), near Chipping Campden GL55 6LR",
+      "standard": "14 March to 1 November: adult £20.00 without Gift Aid (£22.00 with), child 5-17 £10.00, family £50.00",
+      "winter": "2 November to 31 December: adult £12.00; 1 January to 13 March: adult £11.00",
+      "hours": "Garden 10:00-17:00",
+      "source": "https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/hidcote"
+    },
+    {
+      "name": "Sudeley Castle, Winchcombe",
+      "adult": "£24.00 (16+)",
+      "senior": "£23.00 (60+)",
+      "child": "£10.50 (3-15), under 3 free",
+      "family": "£59.50 (2 adults, up to 3 children)",
+      "season": "Open daily 14 March to 1 November 2026 inclusive",
+      "hours": "Opens 10:00, last admission 15:00, castle closes 16:00, adventure playground closes 16:45",
+      "exceptionalClosure": "8 August",
+      "source": "https://sudeleycastle.co.uk/plan-your-visit/opening-times-and-prices"
+    },
+    {
+      "name": "Bibury Trout Farm",
+      "adult": "£9.50",
+      "child": "£8.00 (3-15)",
+      "senior": "£8.50 (60+)",
+      "family": "£49.50",
+      "disabled": "Free",
+      "carPark": "£10",
+      "hours": "Farm 09:00-17:30, last entry 16:45; shop 09:00-18:00; catch your own 10:00-16:30, last rods 16:00",
+      "note": "No booking required. Prices updated for 2026 from 23 May.",
+      "source": "https://biburytroutfarm.co.uk/"
+    },
+    {
+      "name": "Corinium Museum, Cirencester",
+      "adult": "£8.70",
+      "senior": "£7.15 (65+)",
+      "child": "£4.00 (5-16), under 5 free",
+      "family": "£23.10 (up to 2 adults and 4 children)",
+      "hours": "Monday to Saturday 10:00-16:00, Sunday 14:00-16:00",
+      "source": "https://coriniummuseum.org/plan-your-visit/opening-times-and-prices/"
+    },
+    {
+      "name": "Batsford Arboretum, near Moreton-in-Marsh",
+      "adult": "£10.90 without Gift Aid (£12.00 with)",
+      "child": "£3.15 without Gift Aid (4-16), under 4 free",
+      "family": "£26.30 without Gift Aid",
+      "hours": "09:30-17:00 Monday to Saturday, 10:00-17:00 Sunday, last entry 16:00",
+      "note": "1.9 miles / 44 minutes on foot from Moreton-in-Marsh station",
+      "source": "https://batsarb.co.uk/tickets/"
+    }
+  ],
+  "getYourGuide": {
+    "widgetIds": "215430,795342,1153007",
+    "fromInventory": "data/day-trips/gyg-inventory.json, recommendedEmbeds.cotswolds",
+    "products": [
+      {
+        "id": 215430,
+        "title": "From London: Full-Day Cotswolds Small-Group Tour",
+        "price": "GBP 89",
+        "rating": "4.8 from 5,191 reviews",
+        "duration": "9.5 hours",
+        "departurePoint": "Urban Baristas coffee shop near South Kensington station; departs 08:25"
+      },
+      {
+        "id": 795342,
+        "title": "From London: Full-Day Cotswolds Villages Group Tour",
+        "price": "GBP 74",
+        "rating": "4.3 from 897 reviews",
+        "duration": "10 hours",
+        "departurePoint": "Paddington Station / Eastbourne Terrace, Stop E, opposite Chilworth Street",
+        "villages": "Burford, Bibury, Bourton-on-the-Water"
+      },
+      {
+        "id": 1153007,
+        "title": "From London: Small-Group Full-Day Cotswolds Guided Tour",
+        "price": "GBP 78",
+        "rating": "4.8 from 346 reviews",
+        "duration": "10 hours",
+        "villages": "Burford, Bibury, Bourton-on-the-Water, Stow-on-the-Wold, Broadway Tower",
+        "departurePoint": "not recorded in the inventory"
+      }
+    ],
+    "inventoryNote": "The inventory records 47 Cotswolds products and notes that nothing in the Cotswolds needs an entry ticket, so the conditional-inclusion problem that dogs other destinations does not apply - which is why it calls the Cotswolds the cleanest destination to sell. It also records that the Cotswolds is one of only three destinations in the inventory that is realistically not doable by train instead."
+  },
+  "notFound": [
+    "Blenheim Palace admission prices - the site's ticket pages render prices only inside a JavaScript booking engine and no public JSON endpoint was reachable, so Blenheim is left out of the article.",
+    "Snowshill Manor's closed days of the week - the National Trust opening calendar is drawn by JavaScript and the underlying data was not reachable from the page source.",
+    "Wychavon District Council's Broadway village car park tariffs - the council's parking page redirected and was not read."
+  ]
+}

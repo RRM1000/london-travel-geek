@@ -6,6 +6,12 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
+heroImage: "../../assets/articles/cotswolds-day-trip/arlington-row-bibury.jpg"
+heroImageAlt: "Arlington Row at Bibury: a terrace of steep-gabled stone weavers' cottages along a narrow lane"
+heroImageCredit: "Mahmure Koseoglu"
+heroImageSource: "https://www.pexels.com/photo/14750386/"
+heroImageLicense: "Pexels License"
+heroImageLicenseUrl: "https://www.pexels.com/license/"
 tags: [day trips, Cotswolds, trains, villages, driving, things to do]
 draft: false
 faq:
@@ -28,6 +34,14 @@ faq:
 There is a train-and-bus day that genuinely works. It is narrower than you would like, and it runs through Moreton-in-Marsh.
 
 > 💡 **The Short Version:** **Paddington to Moreton-in-Marsh, 1h25, £54.00 off-peak return** — and a single is £53.00, so always buy the return. The **Pulhams 801** leaves the station for **Stow in 20 minutes and Bourton in 40**, hourly, **including Sundays**. The **855 to Bibury runs Monday to Saturday and not at all on Sunday**; nor does the **606** to Broadway or the Stagecoach **1/2/3** to Chipping Campden. A **£8.50 day ticket** on the bus covers the lot. Driving is **2h14 and 88 miles** to Bourton, where 10 hours' parking is **£10.60** — against **free** at Stow Fosseway and **free** at Burford. **Bibury has no car park.** Nothing in the Cotswolds needs a ticket, so the paid attractions are all optional.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,1153007"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+**Book a tour direct:**
+
+- **£89** — <a href="https://www.getyourguide.com/activity/-t215430?partner_id=WWP7I0R&amp;cmp=cotswolds-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Cotswolds villages, small group</a>
+- **£79** — <a href="https://www.getyourguide.com/activity/-t2259?partner_id=WWP7I0R&amp;cmp=cotswolds-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Cotswolds and Blenheim Palace</a>
+- **£154** — <a href="https://www.getyourguide.com/activity/-t602620?partner_id=WWP7I0R&amp;cmp=cotswolds-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and the Cotswolds, small group</a>
 
 ## First, which Cotswolds
 
@@ -55,6 +69,10 @@ All six run from Paddington. Returns were quoted for a Tuesday mid-morning depar
 **Kingham is the frustrating one.** It is eight minutes quicker and £7.20 cheaper than Moreton, and the Cotswold Motoring Museum's own directions page puts it 5 miles from Bourton against Moreton's 8. There is simply no bus, so unless you are booking a taxi at the other end, ignore it.
 
 ## The buses, honestly
+
+![The Porch House at Stow-on-the-Wold, a honey-stone inn with its sign over the pavement](../../assets/articles/cotswolds-day-trip/porch-house-stow.jpg)
+
+*Stow-on-the-Wold, twenty minutes from Moreton-in-Marsh on the 801. Photo: Daria Agafonova, Pexels.*
 
 One route does almost all the work. The rest are thin, and three of the five stop dead on Sundays.
 
@@ -112,6 +130,10 @@ Castle Combe is the same story in Wiltshire: a pay-and-display car park up in Up
 
 ## What is actually in each village
 
+![Stone cottages at Castle Combe, wisteria and flowers along their fronts, beside a low wall](../../assets/articles/cotswolds-day-trip/castle-combe-cottages.jpg)
+
+*Castle Combe. Photo: Adrian Limani, Pexels.*
+
 - **Bourton-on-the-Water** — the River Windrush running down the middle of the green under low stone footbridges, and three paid attractions on one street. The busiest place in the Cotswolds by a distance.
 - **Stow-on-the-Wold** — a proper market square at the top of the hill where the Fosse Way crosses, antique shops, and St Edward's Church with its famous yew-flanked north door. Free parking, an 801 stop, and half the crowds of Bourton.
 - **Lower Slaughter** — the Old Mill on the River Eye and a lane of stone cottages with no through traffic. **Bourton to Lower Slaughter to Upper Slaughter is 2.6 miles and about 58 minutes on foot, mostly flat**, which is the best free thing in the north Cotswolds.
@@ -123,6 +145,10 @@ Castle Combe is the same story in Wiltshire: a pay-and-display car park up in Up
 - **Castle Combe** — genuinely one of the prettiest, and 12 miles from Bath on the far southern edge. Treat it as a Bath day.
 
 ## The paid attractions, and what they cost
+
+![A thatched Cotswold cottage almost buried in ivy and hedging under a blue sky](../../assets/articles/cotswolds-day-trip/thatched-cottage.jpg)
+
+*Photo: Merve Orhan, Pexels.*
 
 | | Adult | Child | Notes |
 | --- | --- | --- | --- |
@@ -143,6 +169,10 @@ National Trust prices are the without-Gift-Aid ones. Snowshill and Hidcote are f
 
 ## The one-day pairings that work
 
+![The old mill and cottages reflected in the millpond at Lower Slaughter, ducks on the water](../../assets/articles/cotswolds-day-trip/lower-slaughter-mill.jpg)
+
+*Lower Slaughter, on the walk from Bourton. Photo: Michelle Chadwick, Pexels.*
+
 **Without a car, from Moreton-in-Marsh.** Take the 10:53 out of Paddington, or the 10:44 on a Sunday. The 801 to Bourton, the flat walk up to Lower and Upper Slaughter and back — 2.6 miles each way, no bus serves the Slaughters — then the 801 on to Stow for the square and an early dinner, and the 801 again to the station. All of it runs on a Sunday, but it ends earlier: be on the **17:15 out of Bourton or the 17:33 out of Stow**, because the later Sunday buses stop short of Moreton.
 
 **With a car, in the north.** Broadway and Chipping Campden, twenty minutes apart, with either Snowshill Manor or Hidcote between them and Broadway Tower for the view.
@@ -152,6 +182,10 @@ National Trust prices are the without-Gift-Aid ones. Snowshill and Hidcote are f
 **Do not attempt** Bourton and Bibury and Broadway in one self-driven day. That is a 10-hour coach itinerary with a professional driver, and you will spend it in the car.
 
 ## When to go, and when not to
+
+![A row of thatched village shops painted green and pink, with a curving road in front](../../assets/articles/cotswolds-day-trip/thatched-shops.jpg)
+
+*Photo: Jordan Coleman, Pexels.*
 
 **Not a summer weekend in Bourton.** Its own parish council said in September 2025 that visitor numbers had *"placed significant pressure not only on the village centre but also on surrounding residential and commercial areas"* and added, flatly, that it *"has no control over visitor numbers and has no power to close the village."* An experimental traffic order restricting coaches on Meadow Way has been running towards September 2026, and the county council has refused the parish a residents' parking scheme. Go on a weekday, or go early.
 

@@ -109,7 +109,7 @@ These do not have their own guides yet, but they are the ones worth the day:
 - **Coast:** Brighton for the pier and the Lanes, Whitstable for oysters, Margate for Dreamland and the Turner, Broadstairs, Hastings, and the Seven Sisters cliffs at Eastbourne.
 - **Cities and towns:** Bath for the Roman Baths and the Georgian streets, Canterbury and Dover together on the high-speed line, Winchester, Rye, St Albans and Rochester.
 - **Castles and houses:** Leeds Castle, Hever, Arundel, Warwick, Blenheim Palace, Hatfield House and Highclere, better known as Downton Abbey.
-- **Countryside:** the Cotswolds, the Chilterns, Box Hill and the South Downs — the places where [hiring a car](/articles/car-hire-driving-uk/) genuinely helps.
+- **Countryside:** [the Cotswolds](/articles/cotswolds-day-trip/), the Chilterns, Box Hill and the South Downs — the places where [hiring a car](/articles/car-hire-driving-uk/) genuinely helps.
 - **Theme parks:** Legoland at Windsor, Thorpe Park, Chessington, and Alton Towers if you are prepared to stay over.
 - **Prehistory:** Stonehenge, which is hard to reach without a tour or a car.
 - **Abroad:** Paris by Eurostar, which is two and a half hours and a real day out if you start early.
