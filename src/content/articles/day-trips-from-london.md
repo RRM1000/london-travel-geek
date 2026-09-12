@@ -6,6 +6,12 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
+heroImage: "../../assets/articles/day-trips-from-london/windsor-castle-gate.jpg"
+heroImageAlt: "Visitors walking up to Windsor Castle's gatehouse, its two round towers rising above the crowd"
+heroImageCredit: "Eren Cebeci"
+heroImageSource: "https://www.pexels.com/photo/18222773/"
+heroImageLicense: "Pexels License"
+heroImageLicenseUrl: "https://www.pexels.com/license/"
 tags: [day trips, getting around, things to do, trains]
 draft: false
 faq:

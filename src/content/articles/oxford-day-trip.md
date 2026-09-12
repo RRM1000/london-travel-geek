@@ -6,6 +6,12 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
+heroImage: "../../assets/articles/oxford-day-trip/radcliffe-camera.jpg"
+heroImageAlt: "The domed Radcliffe Camera in Oxford, honey-coloured stone lit by low sun with college roofs behind"
+heroImageCredit: "Jess Buckle"
+heroImageSource: "https://www.pexels.com/photo/10706578/"
+heroImageLicense: "Pexels License"
+heroImageLicenseUrl: "https://www.pexels.com/license/"
 tags: [day trips, Oxford, Harry Potter, trains, things to do]
 draft: false
 faq:
@@ -83,6 +89,10 @@ Parking alone at Thornhill is free for the first hour and £2.50 up to 16 hours 
 
 ## The colleges: which charge, and what they shut
 
+![Merton College's tower above Merton Street, with the college's windows and a stone wall running down the empty cobbled lane](../../assets/articles/oxford-day-trip/merton-street.jpg)
+
+*Photo: Quintin Sanders, Pexels.*
+
 Colleges are working institutions, not attractions. Two patterns catch people out: **halls close over lunch** because students are eating in them, and **free colleges open in the afternoon only**.
 
 | College | Adult | Concession | Hours |
@@ -139,6 +149,10 @@ The other genuine location is the Bodleian's **Divinity School**, which the libr
 **Worcester no longer takes walk-in tourists at all.** Its own page limits tourist access to official tours led by an Oxford Guild of Tour Guides member, or to public events. Residents of OX1 and OX2, applicants and alumni still get in free, 12:30–16:00.
 
 ## What is free, and it is a lot
+
+![Broad Street in Oxford, the Clarendon Building and Sheldonian railings on the right and a car passing on the empty street](../../assets/articles/oxford-day-trip/broad-street.jpg)
+
+*Photo: Vitalina, Pexels.*
 
 | Free | Hours |
 | --- | --- |
@@ -205,6 +219,10 @@ The rules are the part people get wrong — it needs a National Rail ticket and 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How long the day takes
+
+![A narrow Oxford lane between a college wall and a stone boundary wall, autumn leaves on the pavement](../../assets/articles/oxford-day-trip/college-lane.jpg)
+
+*Photo: Jess Buckle, Pexels.*
 
 **Seven hours in Oxford is plenty, and it fits inside a normal day.** Out on the 09:30-ish train, back on something around 18:00, and you have had a paying college, a free museum, lunch in the market and an hour on the river without hurrying.
 

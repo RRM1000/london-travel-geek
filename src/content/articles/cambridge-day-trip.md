@@ -6,6 +6,12 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
+heroImage: "../../assets/articles/cambridge-day-trip/kings-college-aerial.jpg"
+heroImageAlt: "King's College Cambridge from the air: the chapel, the Gibbs Building and the lawns running down to the Backs"
+heroImageCredit: "Cara Denison"
+heroImageSource: "https://www.pexels.com/photo/36145595/"
+heroImageLicense: "Pexels License"
+heroImageLicenseUrl: "https://www.pexels.com/license/"
 tags: [day trips, Cambridge, trains, punting, things to do]
 draft: false
 faq:
@@ -75,6 +81,10 @@ Cambridge is about 106km by road, off the M11 at Junction 13 for Madingley Road.
 
 ## The colleges
 
+![The Bridge of Sighs at St John's College, its covered stone arch crossing the River Cam between college buildings](../../assets/articles/cambridge-day-trip/bridge-of-sighs.jpg)
+
+*The Bridge of Sighs at St John's. Photo: Jean-Luc Benazet, Pexels.*
+
 This is the part worth getting right, because the colleges are not a set of equivalent tickets and two of the famous four are shut for large parts of the year.
 
 | College | Adult | What you get |
@@ -102,6 +112,10 @@ This is the part worth getting right, because the colleges are not a set of equi
 
 ## Punting, and the men on King's Parade
 
+![Punts on the River Cam passing under the wooden Mathematical Bridge at Queens' College](../../assets/articles/cambridge-day-trip/mathematical-bridge-punts.jpg)
+
+*Photo: Merve Aktas Yalman, Pexels.*
+
 **Punting is the thing people get ripped off on, and the mechanism is specific.** The Conservators of the River Cam licence exactly **six punting stations**: La Mimosa on the corner of Jesus Green, Quayside, Trinity College, the Mill Pond on Silver Street, Mill Lane, and the Granta mill pond near Sheep's Green. Licensed companies trade at their own station and nowhere else.
 
 > ⚠️ **Anyone selling you a punt trip on King's Parade or Market Square is unlicensed.** Cambridge City Council has a Public Spaces Protection Order prohibiting touting for punt custom anywhere in the city. Breaching it is a criminal offence carrying a £100 fixed penalty notice or prosecution, and uniformed enforcement officers and police patrol for it. **Buy at a punting station**, where the price is posted and the boat is the company's own.
@@ -125,6 +139,10 @@ Scudamore's has been going since 1910 and runs the Mill Lane station at Granta P
 > 💡 **College Backs hires cannot go upriver.** If you want Grantchester and the meadows, book the Grantchester boats from the Granta station — a College Backs punt is not allowed up there.
 
 ## What costs nothing, and what costs almost nothing
+
+![Cambridge rooftops from above, the market square and shopfronts below with college lawns beyond](../../assets/articles/cambridge-day-trip/city-from-above.jpg)
+
+*Photo: Cara Denison, Pexels.*
 
 | | Price | Hours |
 | --- | --- | --- |
