@@ -80,6 +80,24 @@ Charges apply only to **Euro 1–5/V diesel and Euro 1–3 petrol or earlier**, 
 
 **The three park and ride sites all sit outside the zone**, which is the simplest way to sidestep the question entirely: Lansdown on service 31 into Milsom Street, Newbridge on the 21 into Westgate Buildings, and Odd Down on the 41 and 4 into SouthGate. Parking is free at most sites and you pay only the bus fare. In the centre, **Charlotte Street is the long-stay car park with no height restriction**, open 24 hours with no maximum stay — and the one the council points vans, motorhomes and campervans towards. On-street parking charges apply every day from 08:00 to 19:00, and it is free outside those hours and on bank holidays.
 
+## The coach day trips, and what they include
+
+**Most people who visit Bath from London do it on a coach tour, usually paired with Stonehenge**, and that is a fair choice: the two are 40 minutes apart and awkward to link by train. Prices from London, at the time of writing:
+
+| Trip | From |
+| --- | --- |
+| **Stonehenge and Bath** | **£69** |
+| Windsor, Stonehenge and Bath | £71 |
+| **Stonehenge and Bath, with Stonehenge entry included** | **£85** |
+| Bath, Avebury and Lacock village | £84 |
+| Oxford and Bath, small group | £99 |
+| Bath and the Cotswolds | £102 |
+| Small group Stonehenge, Bath and the Cotswolds | £154 |
+
+**The train still wins if Bath itself is the point.** A tour gives you two or three hours in the city, which is enough for the Roman Baths or a wander, not both. Advance train tickets at £47.60 return give you the whole day.
+
+> ⚠️ **No Bath coach tour we checked includes Roman Baths admission as standard.** Several name it in the title and then sell entry as an optional extra, so you pay the £26.50 on top. Read the includes list, not the title, and budget for the ticket.
+
 ## The Roman Baths
 
 This is the reason to come, and its pricing moves on two axes at once: the day of the week and the time of year.
