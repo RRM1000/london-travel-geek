@@ -2,6 +2,8 @@
 title: "The Best Wetherspoons in London, and the Case for the Chain"
 seoTitle: "Best Wetherspoons London 2026: Pubs, Prices, Perks"
 description: "Six landmark branches verified building by building, four more by mainline stations, and the real numbers behind the beer, the breakfast and the £1.89 bottomless coffee."
+heroImage: "../../assets/articles/best-wetherspoons-pubs-london/hamilton-hall.jpg"
+heroImageAlt: "The gilded former ballroom of Hamilton Hall, a Wetherspoons inside Liverpool Street station, with chandeliers and ornate plasterwork"
 publishedAt: 2026-09-13
 sites: [london]
 canonicalSite: london
@@ -78,17 +80,29 @@ Still real, still current as of the branch menus checked for this guide in Septe
 
 The former headquarters of the Hongkong and Shanghai Banking Corporation, designed by W Campbell Jones and opened for business on 22 October 1913 — marble columns, a glass-domed ceiling, and a banking hall running the length of the room. Wetherspoon has traded here since 1999. The name is older than the building: an inn called The Crosse Keys stood nearby from the 16th century, licensed for plays performed by the Queen's Men, and was a busy coaching inn by the early 1800s.
 
+![The banking hall interior of The Crosse Keys, with marble columns, hanging lamps and a stained-glass domed skylight above the bar](../../assets/articles/best-wetherspoons-pubs-london/the-crosse-keys.jpg)
+
+*The banking hall itself — marble columns down the room and a glass dome overhead, at Wetherspoon prices since 1999.*
+
 ### Hamilton Hall, Liverpool Street
 
 *Street-level concourse, Liverpool Street station, EC2M 7PY · opens 7am Mon–Sat, 9am Sun, closes 11.30pm (10.30pm Sun)*
 
 The former ballroom of the Great Eastern Hotel, named after Lord Claud Hamilton, chairman of the Great Eastern Railway from 1893 to 1923 — gilded plasterwork, chandeliers and cornicing kept intact under a Grade II listing. It opened as a Wetherspoons on 6 December 1991, and it matters more than the average branch for one reason: it was **the company's first pub in central London, and its first inside a train station**, a format the chain has since repeated at four more mainline termini (below). CAMRA records around ten handpumps on the bar.
 
+![The gilded former ballroom of Hamilton Hall at Liverpool Street station, with ornate plasterwork, chandeliers and tall arched windows](../../assets/articles/best-wetherspoons-pubs-london/hamilton-hall.jpg)
+
+*The Great Eastern Hotel's old ballroom — gilded plasterwork and chandeliers, and the chain's first pub in central London.*
+
 ### The Liberty Bounds, Tower Hill
 
 *15 Trinity Square, EC3N 4AA · closes midnight*
 
 Named for its position just outside the old boundary, or "liberty," that the City of London once controlled from this point — and standing close to the site of the Tower Hill scaffold, where prisoners from the Tower met their end through the 16th and 17th centuries. Wetherspoon has run it since 1999. It's the one branch here without a distinct building story of its own — but a useful stop regardless: breakfast runs until noon, with free refills on tea and Lavazza coffee all day.
+
+![The self-service coffee station inside The Liberty Bounds near Tower Hill, with a free refills sign above the machines](../../assets/articles/best-wetherspoons-pubs-london/the-liberty-bounds.jpg)
+
+*Free refills on tea and Lavazza coffee all day — the one thing this branch is known for, absent a building story of its own.*
 
 ### The Ledger Building, Canary Wharf
 
@@ -97,6 +111,10 @@ Named for its position just outside the old boundary, or "liberty," that the Cit
 An early-1800s dock building standing at the northwest corner of the old Import Dock, named for its original job storing the ledgers of the West India Docks. CAMRA lists the building Grade I — the highest tier of protection, and a step above the Grade II carried by Hamilton Hall. It's a colonnaded, quayside room that predates every tower around it by close to two centuries, and by some distance the cheapest place to eat or drink at Canary Wharf. Wetherspoon has traded here since 2001.
 
 The Crosse Keys, Hamilton Hall and this one get a fuller architectural write-up in our [historic pubs and dining rooms guide](/articles/historic-pubs-dining-rooms-london/), alongside the free Museum of London Docklands next door.
+
+![The white colonnaded portico of The Ledger Building at West India Quay, a modern tower rising behind the early-1800s dock building](../../assets/articles/best-wetherspoons-pubs-london/the-ledger-building.jpg)
+
+*The colonnaded dock office at West India Quay, predating every tower now built up around it by close to two centuries.*
 
 ## Near the mainline stations
 
@@ -108,11 +126,19 @@ Besides Hamilton Hall, above, four more London termini have a Wetherspoons worth
 
 St Pancras's train shed sits on a raised iron deck, designed by the engineer William Barlow to clear the natural slope of the land — and the vast undercroft beneath it, supported by hundreds of cast-iron columns, was used historically to store thousands of barrels of Burton beer. That's the name, and it sits inside the station itself, on the King's Cross/St Pancras interchange.
 
+![The entrance to The Barrel Vault inside St Pancras International, with rows of barrel-shaped light fixtures hanging above the bar](../../assets/articles/best-wetherspoons-pubs-london/the-barrel-vault.jpg)
+
+*Barrel-shaped lights over the bar, on the same iron deck where Burton beer barrels were once stored below.*
+
 ### The Captain Flinders, Euston
 
 *34–38 Eversholt Street, NW1 1DA · opened February 2024 · closes 10.30pm*
 
 Named for Captain Matthew Flinders, the Royal Navy explorer who led the first circumnavigation of Australia (1801–03) and whose work popularised the country's name. His remains were discovered by archaeologists during the HS2 dig at Euston; a statue of Flinders leaning over a map, with his pet cat Trim, now stands on the station's main concourse. One of the newest Wetherspoons in London.
+
+![The corner exterior of The Captain Flinders near Euston, with a hanging pub sign portrait of Captain Matthew Flinders in naval dress](../../assets/articles/best-wetherspoons-pubs-london/the-captain-flinders.jpg)
+
+*The sign portrait of Captain Matthew Flinders, whose remains turned up nearby during the HS2 dig at Euston.*
 
 ### The Sir Alexander Fleming, Paddington
 
@@ -120,11 +146,19 @@ Named for Captain Matthew Flinders, the Royal Navy explorer who led the first ci
 
 The newest branch in this guide, barely a year old at time of writing, in the modern Merchant Square development by Paddington station. Alexander Fleming discovered penicillin at St Mary's Hospital, Paddington, in 1928 — almost certainly the reason for the name.
 
+![The bar inside The Sir Alexander Fleming, with phenoxymethylpenicillin spelled out in large letters above the taps](../../assets/articles/best-wetherspoons-pubs-london/the-sir-alexander-fleming.jpg)
+
+*Phenoxymethylpenicillin spelled out above the bar — a nod to the discovery made a short walk away at St Mary's Hospital.*
+
 ### The Lion, The Unicorn, Waterloo
 
 *Upper-Ground Floor, The Sidings (under platforms 20–24), Waterloo station, SE1 7BH · opened September 2024*
 
 Named after the Lion and Unicorn Pavilion, one of the structures built for the 1951 Festival of Britain on the South Bank alongside the Dome of Discovery and the 90-metre Skylon. The pavilion held two large straw figures — "symbols of Britain's character" — in a steel-framed hall with a long mural of British history inside. Everything from that festival was demolished except the Royal Festival Hall; this pub is the only place left that carries its name.
+
+![Signage for The Lion, The Unicorn at Waterloo station, seen from the concourse beneath the platforms with exposed ceiling ductwork above](../../assets/articles/best-wetherspoons-pubs-london/the-lion-the-unicorn.jpg)
+
+*Under the platforms at Waterloo — the last place in London still carrying the name of the 1951 Festival of Britain pavilion.*
 
 Victoria has two branches rather than a standout single one: **Willow Walk** on Wilton Road, named after a tree-lined thoroughfare that grew up on a causeway once crossing marshland toward Westminster Abbey, and a branch inside the station itself that has traded, plainly, as **Wetherspoons** since March 1993 — among the earliest of the London branches in this guide, behind only Hamilton Hall and The Rochester Castle.
 
@@ -136,11 +170,19 @@ Victoria has two branches rather than a standout single one: **Willow Walk** on 
 
 The earliest recorded pub on this site was The Green Dragon, trading by at least 1702. The current building replaced it in 1801 and takes its name from its builder, Richard Payne, who came from Rochester. Wetherspoon has run it since 5 May 1991, making it one of the company's earliest London conversions alongside Hamilton Hall.
 
+![The ornate red-brick and terracotta frontage of The Rochester Castle on Stoke Newington High Street, with its Dutch-style gable and bunting strung across the entrance](../../assets/articles/best-wetherspoons-pubs-london/the-rochester-castle.jpg)
+
+*The 1801 building on Stoke Newington High Street, trading as a Wetherspoons since May 1991 — one of the company's earliest London pubs.*
+
 ### The Mossy Well, Muswell Hill
 
 *258 Muswell Hill Broadway, N10 3SH · closes midnight*
 
 Muswell Hill itself takes its name from a medieval "mossy well" — a holy well that became a place of pilgrimage after a Scottish king was said to have been cured by its water. This particular building was Belle Vue Lodge by the early 1800s, an Express Dairy tea room from 1900 with a milk depot behind it, and licensed premises from the early 1980s before Wetherspoon took it over in October 2015 — decades after the other five branches above, and a useful reminder that not every London Wetherspoons is a 1990s conversion. The very first Wetherspoons pub of all opened less than a mile from here, on Colney Hatch Lane, on 9 December 1979 — a former bookmaker's shop that traded for a month as "Martin's Free House" before being renamed. It's a separate, older building from The Mossy Well itself.
+
+![The white gabled frontage of The Mossy Well in Muswell Hill, with the date 1900 set into the tilework above the entrance](../../assets/articles/best-wetherspoons-pubs-london/the-mossy-well.jpg)
+
+*The 1900 datestone from the building's years as an Express Dairy tea room, before Wetherspoon took it over in 2015.*
 
 ### The Montagu Pyke, Soho
 
@@ -148,11 +190,16 @@ Muswell Hill itself takes its name from a medieval "mossy well" — a holy well 
 
 Built in 1911 as Pyke's Cambridge Circus Cinematograph Theatre — the 16th and last of the cinemas opened by the pioneering exhibitor Montagu Pyke. A fire gutted it in 1915; rebuilt as the Super Cinema, it later traded as the Tatler, then Filmcenta, then a three-screen Cannon. In 1988 it became a home of the Marquee Club, the music venue that hosted decades of British rock before finally closing here in 1996. Wetherspoon moved in afterwards.
 
+![The double-height former cinema auditorium inside The Montagu Pyke, with a barrel-vaulted ceiling, round windows and framed rock posters on the walls](../../assets/articles/best-wetherspoons-pubs-london/the-montagu-pyke.jpg)
+
+*The old cinema auditorium, later the Marquee Club — the rock posters on the wall are the only reminder of its years as a music venue.*
+
 Looking for a proper sit-down Sunday lunch rather than a fry-up? Wetherspoons serves a roast, but it isn't the destination version — our [best Sunday roast guide](/articles/best-sunday-roast-london/) covers the pubs actually worth booking ahead for. And for more of London's cheapest good meals beyond this one chain, see our [cheap eats guide](/articles/cheap-eats-london/) and [best breakfast and brunch guide](/articles/best-breakfast-brunch-london/), both of which cover further branches of their own.
 
 ## Continue planning your London trip
 
 - 🍺 **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**
+- 🍻 **[The Best Craft Beer Pubs in London](/articles/best-craft-beer-pubs-london/)**
 - 🥩 **[The Best Sunday Roast in London](/articles/best-sunday-roast-london/)**
 - 🍳 **[The Best Breakfast and Brunch in London](/articles/best-breakfast-brunch-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
