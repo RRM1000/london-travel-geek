@@ -136,6 +136,16 @@ Elsewhere: the **Backlot Café** does burgers, hot dogs and salads halfway round
 
 > ⚠️ **The tour is closed 9–13 November 2026**, between the two seasonal runs, while the sets are redressed, and on **25 and 26 December**. On **24 and 31 December the last tour starts at 14:30**. Check the calendar before you book trains or a hotel.
 
+## When to go
+
+| | Typical weekday | Weekend and peak |
+| --- | --- | --- |
+| First tour | 10:00 | 09:00 |
+| Last tour | 16:00 | 18:30 |
+| Closes | 20:00 | 22:00 |
+
+Entry slots run every 30 minutes. Saturdays and school holidays sell out first; late-afternoon slots are the ones left when a date is nearly full, and they work well — the tour has no closing rush because there is no time limit once you are in.
+
 ## Getting there
 
 ![The Hogwarts Express locomotive, number 5972, standing at the recreated Platform 9¾ inside the Studio Tour](../../assets/articles/harry-potter-studio-tour/hogwarts-express.jpg)
@@ -152,16 +162,6 @@ Peak fares apply northbound out of Euston only from **16:00 to 19:00 on weekdays
 
 Both stations are step-free to the platforms, and Watford Junction has staff on hand around the clock.
 
-### Tickets bundled with travel
-
-If you would rather not buy the two separately, the packages below include entry and the transport, and a rep who swaps your voucher for the real ticket:
-
-- **About £75** — <a href="https://www.getyourguide.com/activity/-t679208?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour with a return train from Euston</a>, which is only a little over the £58.50 door price plus the fare.
-- **About £85** — <a href="https://www.getyourguide.com/activity/-t31392?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour with a return coach from Victoria</a>, so no change of transport, and a rep swaps your voucher for the ticket.
-- **About £155** — <a href="https://www.getyourguide.com/activity/-t297085?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour with hotel pickup</a>, a private vehicle from a central London hotel, for up to eight people.
-
-> ⚠️ **Do not buy a transfer without a ticket by mistake.** Some listings sell the coach seat only, and you will be refused boarding without your own Studio Tour ticket. Check that entry is included before you pay.
-
 ### The official coach
 
 Golden Tours is the Studio Tour's own coach partner, leaving from **Victoria, Baker Street and King's Cross**. Return transport with entry is **£125 adult, £120 child**; transport on its own, if you already have a ticket, is **£45 adult, £40 child**. Wheelchair users are told not to book the King's Cross departure.
@@ -172,15 +172,43 @@ Golden Tours is the Studio Tour's own coach partner, leaving from **Victoria, Ba
 
 Every car needs a booking confirmation to get in, and **you cannot go back to the car during your visit** — so take what you need with you.
 
-## When to go
+## Tour packages compared, and what they really cost
 
-| | Typical weekday | Weekend and peak |
-| --- | --- | --- |
-| First tour | 10:00 | 09:00 |
-| Last tour | 16:00 | 18:30 |
-| Closes | 20:00 | 22:00 |
+**Doing it yourself costs £72.90:** the £58.50 ticket, two £7.20 off-peak train fares and the free shuttle. Every package has to beat that. GetYourGuide's "from" prices are the cheapest date on the calendar, and on the dates we checked the same packages cost far more.
 
-Entry slots run every 30 minutes. Saturdays and school holidays sell out first; late-afternoon slots are the ones left when a date is nearly full, and they work well — the tour has no closing rush because there is no time limit once you are in.
+| Package | Transport | Leaves from | Entry included | Takes | Adult price on dates checked |
+| --- | --- | --- | --- | --- | --- |
+| **Do it yourself** | Train and free shuttle | Euston, every few minutes | Book direct | About 35 minutes each way | **£72.90** |
+| <a href="https://www.getyourguide.com/activity/-t31392?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour with coach from Victoria</a> | Coach | Victoria Coach Station, 08:15–13:45 | Yes | 7 hours, at least 4 inside | **£87–£114** |
+| <a href="https://www.getyourguide.com/activity/-t52391?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour with transfers from Victoria, Paddington or Marble Arch</a> | Coach | Victoria, Paddington or Marble Arch | Yes | 7–9 hours, 4 inside or about 6 on the extended stay | £105–£124 standard stay |
+| <a href="https://www.getyourguide.com/activity/-t16403?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour and branded bus</a> | Double-decker | Victoria, hourly | Yes | 7½ hours, 4 inside | £98–£125 |
+| <a href="https://www.getyourguide.com/activity/-t679208?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour and return train</a> | Train and free shuttle | Euston, on your own | Yes | Your own day | £119–£149 |
+| <a href="https://www.getyourguide.com/activity/-t297085?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour with hotel pickup</a> | Shared car, up to 8 people | Your Zone 1 hotel | Yes | 7 hours, 4 inside | £159 |
+| <a href="https://www.getyourguide.com/activity/-t63735?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Guided Studio Tour</a> | Train and shuttle, with a guide | Euston, 11:05 or 12:05 | Yes | 6 hours | £175–£194 |
+
+*One adult, checked on 13 September 2026 for 19 and 22 September, 13 October and 24 November. Package prices move with the date; the operator's £58.50 does not.*
+
+**What the extra money buys:**
+
+- **The coach** gets you a seat from central London and a rep who hands out the tickets. It takes 75 to 90 minutes each way, against about 35 by train and shuttle.
+- **The train package buys nothing.** It is the same Euston train and the same free bus you would use anyway, for £46 to £76 more.
+- **Hotel pickup** is the only door-to-door option: a shared car from a Zone 1 address, a 45-minute pickup window, and free cancellation up to 14 days before.
+- **A guide** is otherwise only sold as the £250 Deluxe Tour. The guided package takes a group of up to eight round the sets, then gives you free time inside.
+- **A ticket on a sold-out day.** This is the best reason to pay. On 12 September the operator had nothing left for Saturday 19 September; the next day the Victoria coach still had seats for £87.
+
+**The coach packages are one product sold by several companies.** Four resellers run the same day out — a coach from central London, about four hours inside, a rep with the tickets — from Victoria, Bloomsbury, King's Cross, Paddington and Marble Arch. The Victoria coach has the most reviews, 4.7 from almost 28,000, and was the cheapest on three of the four dates checked, so book that one. Only two others add something: the Victoria, Paddington or Marble Arch coach sells an extended stay of about six hours inside, and the branded bus, run by Golden Tours, is the only one listed as wheelchair accessible — at the same price as Golden Tours charges direct, or less.
+
+The <a href="https://www.getyourguide.com/activity/-t408850?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour and Thames cruise</a>, £84.50, is the ticket and a hop-on hop-off cruise with **no transport at all**.
+
+### Which to book
+
+- **From central London:** do it yourself. If your date is sold out on the operator's site, or you would rather not change at Watford Junction, the <a href="https://www.getyourguide.com/activity/-t31392?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">coach from Victoria</a>, £87–£114.
+- **With children:** do it yourself. The £188 family price is only available direct, so two adults and two children pay **£188** plus the train, against **£392** on the Victoria coach on 24 November, where each child cost £93 rather than £47. The train is also 20 minutes, not 75 or more on a coach.
+- **Door to door:** the <a href="https://www.getyourguide.com/activity/-t297085?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">hotel pickup</a>, £159, in a shared car of up to eight. It is not suitable for wheelchair users.
+
+**Do it yourself whenever the operator still has tickets for your date.** For anyone who can manage a 20-minute train from Euston, that is at least £14 a head cheaper than any transport package here, with no fixed coach time to be back for.
+
+> ⚠️ **Do not buy a transfer without a ticket by mistake.** Some listings sell the coach seat only, and you will be refused boarding without your own Studio Tour ticket. Check that entry is included before you pay.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
