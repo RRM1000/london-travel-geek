@@ -60,6 +60,10 @@ Nearly a thousand soundproofed rooms above Piccadilly Circus, sold by how many p
 
 Two catches. **From Cocoon 4 upwards the beds are doubles in bunks** — a Cocoon 4 is two doubles, not four berths. And rooms are **cleaned every four days**, with no kettle, no television and no breakfast; a hairdryer or iron delivered costs £10.
 
+![A Cocoon room at Zedwell Piccadilly Circus, with the bed on a backlit wood plinth, a hat resting on the side shelf and a handbag and heels on the platform](../../assets/articles/where-to-stay-soho-west-end/zedwell-piccadilly-circus-room.jpg)
+
+*A Cocoon room at Zedwell Piccadilly Circus, on its backlit wood plinth.*
+
 ### Zedwell Capsule Piccadilly Circus — £33 a night in the middle of the West End
 
 *£33–£68 a capsule · Shared dormitory, shared bathrooms · London Pavilion, W1J 0DA · 18+ · [check prices](hotel:zedwell-piccadilly-capsule)*
@@ -69,6 +73,10 @@ The largest capsule hotel in the UK, on five floors of the Grade II London Pavil
 **It is the price-stable one**, which matters more than the headline. The berth moved 2.1 times between the cheapest and dearest of five sampled dates while the rooms moved three times, so the capsule saves you most in December and least on a quiet Sunday. There is a 24-hour front desk and a female-only floor at about £7 more.
 
 **Zedwell does not give you a padlock.** The shutter latches from inside while you sleep; locking it while you are out means bringing a 38mm padlock or paying £8 at a vending machine. Luggage is **£15 a piece, non-refundable**, and check-out is 10am. Our [capsule hotels guide](/articles/pod-hotels-london/) covers all five in London.
+
+![Two numbered Cocoon capsule berths at Zedwell Capsule Piccadilly Circus, each lit from within, with fold-down wooden steps beside them](../../assets/articles/where-to-stay-soho-west-end/zedwell-piccadilly-capsule-berths.jpg)
+
+*Numbered Cocoon berths at Zedwell Capsule Piccadilly Circus.*
 
 ### Otherwander Soho — a Dean Street address, and nobody at the desk
 
@@ -80,6 +88,16 @@ Sold as **"nests"**, upper and lower, in singles and doubles, and the double gen
 
 **The arithmetic is the argument against it.** It ran roughly double the Zedwell capsule on every sampled date — **£62 against £33** on the cheapest night we checked — and on a quiet night a single nest costs more than a private windowless room at Tottenham Court Road, which starts from £81 and has a door and a shower of its own. Reviewers report hearing corridor conversation despite the soundproofing, and taller guests find the upper nests awkward. Adults only.
 
+<div class="photo-row">
+
+![Inside a nest at Otherwander Soho, with the made-up bed, a hanging jacket and backpack on hooks, and a wall-mounted control panel](../../assets/articles/where-to-stay-soho-west-end/otherwander-soho-nest.jpg)
+
+![The shared bathroom at Otherwander Soho, with a long vanity counter holding several inset sinks and a corridor of stalls beyond](../../assets/articles/where-to-stay-soho-west-end/otherwander-soho-bathroom.jpg)
+
+</div>
+
+*A nest at Otherwander Soho, and the shared bathroom down the corridor.*
+
 ### The Z Hotel Covent Garden — the cheapest room in the West End with a window
 
 *£70 windowless, £100 with a window · 113 rooms · 31–33 Bedford Street, WC2E 9ED · Breakfast is charged separately · [check prices](hotel:z-hotel-covent-garden)*
@@ -89,6 +107,16 @@ A hundred and thirteen compact rooms on Bedford Street, three minutes from both 
 **The window costs £20, and that is the whole decision.** A Z Inside Single is 8 sq m at £70 with **no window at all**; an Inside Double is 9 sq m at £80; a Z Double is the same 9 sq m at £100 and has one. A Z Queen is 11 sq m at £105, and a Z Family is 12 sq m sleeping four at £155.
 
 **The catch is that people book the Inside grades by accident**, because the booking page does not lead with the missing window. It is the same trap as the Shoreditch branch. Pay the £20 unless you genuinely do not mind, and note that Z runs seven more addresses in and around the West End — Soho, Piccadilly, Leicester Square, Strand, Tottenham Court Road, Trafalgar and Holborn — so compare a few on your own dates before you settle.
+
+<div class="photo-row">
+
+![A compact room at the Z Hotel Covent Garden, with a wall-mounted television showing the Z Hotels welcome screen and a sash window onto the building opposite](../../assets/articles/where-to-stay-soho-west-end/z-hotel-covent-garden-room.jpg)
+
+![The ensuite bathroom of a Z Hotel Covent Garden room, with frosted-glass cubicle doors and chrome grab rails](../../assets/articles/where-to-stay-soho-west-end/z-hotel-covent-garden-bathroom.jpg)
+
+</div>
+
+*A compact room at the Z Hotel Covent Garden, and its ensuite bathroom.*
 
 ### Strand Palace — the big reliable one, and the one with availability
 
@@ -100,6 +128,10 @@ The grades are published by size and worth reading before you book, because the 
 
 There is a complimentary gym, sixteen meeting rooms, and Haxells restaurant and bar downstairs doing pre-theatre dinner, which is the reason to be on the Strand in the first place — the theatres are a five-minute walk. The original 1930s art deco entrance now sits in the V&A's collection.
 
+![A guest room at the Strand Palace, with a dark upholstered headboard, a mirrored panel above it and two tan leather armchairs by the window](../../assets/articles/where-to-stay-soho-west-end/strand-palace-room.jpg)
+
+*A guest room at the Strand Palace, with a sitting area beside the window.*
+
 ### Broadwick Soho — the best of the expensive ones
 
 *About £450 · 57 rooms · 20 Broadwick Street, W1F 8HT · [check prices](hotel:broadwick-soho)*
@@ -109,6 +141,16 @@ Leopard print, velvet and deliberately clashing colour by Martin Brudnizki, buil
 Eight grades run from Standard to the Penthouse, by way of Deluxe, Superior, Luxury, Junior Suite, Broadwick Suite and Family Suite. Rooms have queen beds, Frette linen and an in-room Nespresso machine, and there is a packing and unpacking service if that is your sort of thing.
 
 **Check the floor space before you commit.** The Standard averages **18 sq m and the Superior 20 sq m** — smaller than a Deluxe at Hotel Café Royal for £150 less a night. You are paying for the building and the crowd, not the square metres. Flute, the rooftop bar, and the ground-floor restaurant take non-residents, so you can see the place without staying. Fifty-seven rooms means it books out.
+
+<div class="photo-row">
+
+![A bedroom at Broadwick Soho, with sage-green wallpaper patterned with elephants and tigers, twin arched mirrors flanking the headboard and a blue geometric rug](../../assets/articles/where-to-stay-soho-west-end/broadwick-soho-room.jpg)
+
+![The bathroom at Broadwick Soho, with a green marble double vanity, white subway tile and traditional cross-head taps](../../assets/articles/where-to-stay-soho-west-end/broadwick-soho-bathroom.jpg)
+
+</div>
+
+*A bedroom at Broadwick Soho, with its animal-print wallpaper, and the green marble double-vanity bathroom.*
 
 ### Ham Yard Hotel — the one built around a courtyard
 
@@ -129,6 +171,10 @@ Ninety-six bedrooms and suites behind a plain red-brick front on a mews off Dean
 Kit Kemp's interiors again, with a Fernando Botero cat in the lobby that is the most photographed object in any hotel on this page. Refuel is the bar and restaurant, there is a gym, and Soholistic Spa treatments are available in the treatment rooms.
 
 **Two screening rooms, one large and one small**, and the Firmdale Film Club runs **every weekend** and is open to non-residents: a film and lunch for a fraction of a room rate. If you want to know whether you like the hotel before spending £480 on it, book that instead.
+
+![The bathroom at The Soho Hotel, with book-matched grey marble walls, twin pedestal sinks and a marble-surrounded bathtub](../../assets/articles/where-to-stay-soho-west-end/the-soho-hotel-bathroom.jpg)
+
+*The marble bathroom at The Soho Hotel, with twin sinks and a separate bath and shower.*
 
 ### Hotel Café Royal — the grandest, and by far the biggest rooms
 
@@ -154,27 +200,81 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 **[Sanderson London](hotel:sanderson-london)** is about £280 on Berners Street: Philippe Starck's interior of drifting curtains and surrealist furniture, the eighty-foot Long Bar, a courtyard garden and the Mad Hatters afternoon tea. It now trades under the **Morgans Originals** name, so some booking sites and older guides still file it under the old branding.
 
+<div class="photo-row">
+
+![A bedroom at Sanderson London, with a grey leather-look sleigh bed, a round yellow breakfast table and glass doors open to a private terrace](../../assets/articles/where-to-stay-soho-west-end/sanderson-london-room.jpg)
+
+![The bathroom at Sanderson London, with a white vessel basin on a marble console table, sheer curtains and a glass-walled shower](../../assets/articles/where-to-stay-soho-west-end/sanderson-london-bathroom.jpg)
+
+</div>
+
+*A bedroom at Sanderson London opening onto its own terrace, and the bathroom's vessel basin on a marble console.*
+
 **[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 for fifty-two Firmdale rooms with one Michelin Key and a private screening room, standing **on Charlotte Street itself** — the densest restaurant run in central London, which means dinner is downstairs rather than across town. The full picture is in our [Fitzrovia area guide](/articles/fitzrovia-area-guide/).
+
+![A bedroom at Charlotte Street Hotel, with star-patterned blue walls following a sloped attic ceiling and an ornate patterned headboard](../../assets/articles/where-to-stay-soho-west-end/charlotte-street-hotel-room.jpg)
+
+*A bedroom at Charlotte Street Hotel, set under a sloped attic ceiling with star-patterned walls.*
 
 ### Bloomsbury — the same windowless room for less
 
 **[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** is the value pick of the whole windowless format: **£81 to £206** across five sampled dates, and it **undercut the Piccadilly flagship on every one of them**, by £16 to £81, for the same product two stops away. It is 206 rooms carved out of a disused underground car park beneath Great Russell Street, London's first hotel entirely below ground, two minutes from the British Museum. Rooms stop at Cocoon 4, so a group of six has to go back to Piccadilly. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) has the full comparison.
 
+<div class="photo-row">
+
+![A Cocoon room at Zedwell Tottenham Court Road, with the bed on a wood platform and a jacket hanging beside a full-length mirror](../../assets/articles/where-to-stay-soho-west-end/zedwell-tottenham-court-road-room.jpg)
+
+![The ensuite bathroom at Zedwell Tottenham Court Road, with a round backlit mirror, Zedwell-branded toiletries and a walk-in shower](../../assets/articles/where-to-stay-soho-west-end/zedwell-tottenham-court-road-bathroom.jpg)
+
+</div>
+
+*A Cocoon room at Zedwell Tottenham Court Road, and its ensuite bathroom.*
+
 **[Generator London](hotel:generator-london)** is about £26 a bed at 37 Tavistock Place, with dorms of four, six, eight and larger, female-only dorms, private rooms, shared bathrooms on every floor and a 24-hour reception. **It is a party hostel and says so**, with a bar running live music, sport and karaoke nights — the right choice if meeting people is the point of the trip and the wrong one before an early flight.
+
+<div class="photo-row">
 
 ![A dorm room at Generator London, with a white-framed bunk bed against an orange geometric mural wall](../../assets/articles/where-to-stay-soho-west-end/generator-london-dorm.jpg)
 
-*A dorm room at Generator London.*
+![The shared bathroom at Generator London, with white subway tile, wall-mounted soap dispensers and a row of sink basins below a long mirror](../../assets/articles/where-to-stay-soho-west-end/generator-london-bathroom.jpg)
+
+</div>
+
+*A dorm room at Generator London, and the shared bathroom facilities down the hall.*
 
 ### Mayfair — a W1K postcode at Zedwell money
 
 **[Zedwell Park Lane](hotel:zedwell-park-lane)** is the oddest value in London: **£90 to £207** for a Mayfair address, one minute from Hyde Park Corner and eight from Marble Arch. It sells **one room type only**, a Cocoon 2 sleeping two, so there is no single rate and no family option, and it is entirely underground like the Bloomsbury site. It is also the newest and least reviewed of the Zedwells, which is the honest reason to hesitate rather than the price.
 
+![A Cocoon room at Zedwell Park Lane, with the bed on a backlit wood plinth, a shearling coat on the hook and trainers on the platform](../../assets/articles/where-to-stay-soho-west-end/zedwell-park-lane-room.jpg)
+
+*A Cocoon room at Zedwell Park Lane, on its backlit wood plinth.*
+
 **[Native Mayfair](hotel:native-mayfair)** is the other approach: studios and apartments with **fully fitted kitchens** — fridge, freezer, dishwasher and a dining table — on a mews off Grosvenor Square, three minutes from Bond Street and its Elizabeth line platforms. Native files it under apartments for longer stays rather than under its aparthotels, so expect it to reward a week more than two nights. Our [aparthotels guide](/articles/aparthotels-london/) compares twenty-six of them.
+
+<div class="photo-row">
+
+![A studio at Native Mayfair, with a living area of an orange leather chair, navy sofa and marble coffee table, and the bedroom visible through an open door](../../assets/articles/where-to-stay-soho-west-end/native-mayfair-room.jpg)
+
+![The bathroom at Native Mayfair, with a freestanding bathtub, a wood bath caddy and a walk-in glass shower alongside](../../assets/articles/where-to-stay-soho-west-end/native-mayfair-bathroom.jpg)
+
+</div>
+
+*A studio at Native Mayfair, with the bedroom visible through the open door, and its bathroom with a freestanding tub and walk-in shower.*
 
 ### Marylebone — the calm one, ten minutes out
 
 **[Treehouse Hotel London](hotel:treehouse-hotel-london)** is about £250 at 14–15 Langham Place, next door to BBC Broadcasting House. It occupies the **top floors of the building**, so every room has a panorama rather than a light well, and the rooms come with magic 8 balls, cuckoo clocks and Paddington Bears without tipping into gimmick. Green Key Gold certified, and Time Out gave it five out of five. The Nest rooftop bar and Madera, its Mexican restaurant, are both open to non-residents. Oxford Circus is four minutes' walk, which puts Soho ten minutes away and Marylebone High Street five in the other direction.
+
+<div class="photo-row">
+
+![A bedroom at Treehouse Hotel London, with a window seat running the width of the room over the London skyline and a blue throw on the bed](../../assets/articles/where-to-stay-soho-west-end/treehouse-hotel-london-room.jpg)
+
+![The bathroom at Treehouse Hotel London, with silver birch branches built into the tiled wall beside the walk-in shower](../../assets/articles/where-to-stay-soho-west-end/treehouse-hotel-london-bathroom.jpg)
+
+</div>
+
+*A bedroom at Treehouse Hotel London, with its window seat over the skyline, and the bathroom's birch-branch feature wall.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-soho-west-end-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
