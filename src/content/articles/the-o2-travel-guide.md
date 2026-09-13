@@ -2,6 +2,12 @@
 title: "How to Get to The O2: Parking, Trains, the Cable Car and Getting Home"
 seoTitle: "The O2 Travel Guide: Parking, Trains and Getting Home"
 description: "Where to park for a show at The O2, why North Greenwich is a one-line station, why the cable car and the last boat rarely get you home, and why a Greenwich hotel is £465 on a concert night against £261 a week later."
+heroImage: "../../assets/articles/the-o2-travel-guide/the-o2-exterior.jpg"
+heroImageAlt: "The O2's white dome and yellow support masts seen from the empty forecourt under a grey sky"
+heroImageCredit: "DizzyDJC"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:1_-_panoramio_(42).jpg"
+heroImageLicense: "CC BY 3.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 publishedAt: 2026-09-13
 sites: [london]
 canonicalSite: london

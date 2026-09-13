@@ -2,6 +2,8 @@
 title: "How to Get to London Stadium: Parking, Trains and Getting Home"
 seoTitle: "London Stadium 2026: Parking, Trains, Getting Home"
 description: "Why London Stadium has almost no parking of its own, which of Stratford's seven rail and tube services to actually use for West Ham, an athletics meet or a concert, the walk through Queen Elizabeth Olympic Park, and getting home again on the Central and Jubilee lines."
+heroImage: "../../assets/articles/london-stadium-travel-guide/london-stadium-bowl.jpg"
+heroImageAlt: "Inside London Stadium during the Novuna London Athletics Meet, a packed crowd under the distinctive roof and \"LONDON STADIUM\" branding on the pitch-side screens"
 publishedAt: 2026-09-13
 sites: [london]
 canonicalSite: london
@@ -132,6 +134,10 @@ The Gold Top accessible car park reopens roughly 20–30 minutes after the final
 This venue's event mix is unusually wide, and the club's own paperwork treats them differently. **Football** is the frequent case — a roughly two-hour window with the hold-and-release egress described above, and away supporters have their own turnstile allocation and up to 19 wheelchair-accessible spaces in the visitors' section. The next home fixture as this was written is a Carabao Cup tie against Fulham on 15 September 2026.
 
 **Athletics** happens once a year rather than most weekends: the Novuna London Athletics Meet returned to London Stadium on **18 July 2026**, and has run annually since the venue's post-Olympics conversion. It's a different shape of day — a single long afternoon-into-evening session rather than a 90-minute match.
+
+![The track and infield at London Stadium during a full house for the athletics meet, the running track and field events visible under the open roof](../../assets/articles/london-stadium-travel-guide/london-stadium-track.jpg)
+
+*A full house for the Novuna London Athletics Meet — the same bowl a West Ham crowd fills on a match day.*
 
 **Concerts** are the least frequent case of all. At the time of writing, London Stadium has no music events on sale for the remainder of 2026 — the next confirmed one, Fontaines D.C., is booked for 2027. If a concert is announced for your dates, treat the general transport advice in this guide as the starting point and check the venue's own site for that specific event's doors and curfew times.
 
