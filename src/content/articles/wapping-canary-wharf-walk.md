@@ -13,7 +13,7 @@ tags: [Wapping, Limehouse, Canary Wharf, walks, free things to do, Thames, river
 draft: false
 faq:
   - q: "Which pubs are on the Wapping to Canary Wharf walk?"
-    a: "Four, in walking order: the Town of Ramsgate at 62 Wapping High Street, the Captain Kidd at 108 Wapping High Street, the Prospect of Whitby on Wapping Wall and The Grapes at 76 Narrow Street in Limehouse. They are stops 3, 4, 7 and 10 of eleven, and all four have a terrace or balcony over the Thames."
+    a: "Four, in walking order: the Town of Ramsgate at 62 Wapping High Street, the Captain Kidd at 108 Wapping High Street, the Prospect of Whitby on Wapping Wall and The Grapes at 76 Narrow Street in Limehouse. They are stops 3, 4, 6 and 10 of eleven, and all four have a terrace or balcony over the Thames."
   - q: "What time do the Wapping riverside pubs open?"
     a: "The Prospect of Whitby opens at 11am Monday to Saturday and noon on Sunday. The Town of Ramsgate, the Captain Kidd and The Grapes all open at noon, seven days. Monday to Saturday the Prospect, the Ramsgate and the Kidd shut at 11pm; on Sunday the Prospect closes at 10pm and the other three at 10.30pm. Checked with each pub on 13 September 2026."
   - q: "Do the Wapping pubs take bookings?"
@@ -32,7 +32,7 @@ Wapping has the oldest riverside pubs in London, and the usual way to see them i
 
 For the rest of both areas, see the [Wapping area guide](/articles/wapping-area-guide/) and the [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
 
-> 💡 **The Short Version:** Four pubs, at stops **3, 4, 7 and 10**. **None of the four pubs opens before 11am, and only the Prospect of Whitby opens then** — the other three open at noon, so start about 11.30. Walk it on a **Saturday** for **Wapping Docklands Market** at stop 6, 10am to 5pm, the only day it runs. **The Grapes takes no table bookings at any time**; the Town of Ramsgate books diners but not drinkers. Hours and kitchen times here were checked with each pub on **13 September 2026**.
+> 💡 **The Short Version:** Four pubs, at stops **3, 4, 6 and 10**. **None of the four pubs opens before 11am, and only the Prospect of Whitby opens then** — the other three open at noon, so start about 11.30. Walk it on a **Saturday** for **Wapping Docklands Market** at stop 7, 10am to 5pm, the only day it runs. **The Grapes takes no table bookings at any time**; the Town of Ramsgate books diners but not drinkers. Hours and kitchen times here were checked with each pub on **13 September 2026**.
 
 ## The route
 
@@ -52,7 +52,7 @@ For the rest of both areas, see the [Wapping area guide](/articles/wapping-area-
   </noscript>
 </details>
 
-**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.507128,-0.069687&destination=51.506102,-0.017603&waypoints=51.505955,-0.063321%7C51.503406,-0.062047%7C51.503272,-0.057920%7C51.508025,-0.056244%7C51.507965,-0.051713%7C51.507071,-0.051074%7C51.508350,-0.048000%7C51.510500,-0.036800%7C51.508835,-0.033975&travelmode=walking)** — all eleven stops in walking order, set to walking directions, which is the version to put on your phone.
+**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.507128,-0.069687&destination=51.506102,-0.017603&waypoints=51.505955,-0.063321%7C51.503406,-0.062047%7C51.503272,-0.057920%7C51.508025,-0.056244%7C51.507071,-0.051074%7C51.507965,-0.051713%7C51.508350,-0.048000%7C51.510500,-0.036800%7C51.508835,-0.033975&travelmode=walking)** — all eleven stops in walking order, set to walking directions, which is the version to put on your phone.
 
 | # | Stop | Cost | Open |
 | --- | --- | --- | --- |
@@ -60,13 +60,14 @@ For the rest of both areas, see the [Wapping area guide](/articles/wapping-area-
 | **2** | Spirit Quay | Free | Always |
 | **3** | The Town of Ramsgate | Pub | Noon–11pm; **Sun noon–10.30pm** |
 | **4** | The Captain Kidd | Pub | Noon–11pm; **Sun noon–10.30pm** |
-| **5** | Ornamental Canal & Wapping Woods | Free | Always |
-| **6** | Wapping Docklands Market | Free to browse | **Saturdays only**, 10am–5pm |
-| **7** | The Prospect of Whitby | Pub | 11am–11pm; **Sun noon–10pm** |
+| **5** | The Ornamental Canal | Free | Always |
+| **6** | The Prospect of Whitby | Pub | 11am–11pm; **Sun noon–10pm** |
+| **7** | Wapping Docklands Market | Free to browse | **Saturdays only**, 10am–5pm |
 | **8** | King Edward Memorial Park Foreshore | Free | Always |
 | **9** | Limehouse Basin | Free | Always |
 | **10** | Narrow Street & The Grapes | Pub | Noon–11pm; **Sun noon–10.30pm** |
 | **11** | Canary Wharf | Free | Always |
+| **+** | Wapping Woods | Free | Always |
 | **+** | Tobacco Dock | Free to look | Outside only, except during public events |
 | **+** | The Yurt Café | £ | Breakfast to lunch; evenings Mon–Sat |
 
@@ -112,7 +113,7 @@ Inside is one narrow room running back from the bar to a small **riverside terra
 
 It is a Samuel Smith's pub, so everything behind the bar is Samuel Smith's, the cask Old Brewery Bitter comes from oak casks in the cellar, and the brewery's house rules apply: **no televisions, no background music, and no phones or laptops**.
 
-## 5. The Ornamental Canal and Wapping Woods
+## 5. The Ornamental Canal
 
 ![The Ornamental Canal in Wapping, autumn leaves on still water, brick housing on both banks and the tower of St George in the East on the skyline](../../assets/articles/wapping-canary-wharf-walk/wapping-ornamental-canal.jpg)
 
@@ -120,17 +121,11 @@ It is a Samuel Smith's pub, so everything behind the bar is Samuel Smith's, the 
 
 **The quietest fifteen minutes in east London**, and the stretch that makes this a walk rather than a pub crawl. The canal was laid out in the 1980s along the line of the London Docks, so it goes nowhere and exists only to be walked beside.
 
-**Wapping Woods** runs alongside it: a wood planted on the filled-in dock, with paths through the trees and benches by the water. Free, open at all times and almost always empty. **Tobacco Dock** faces the canal here, and is the first of the two detours below. The canal ends at **Shadwell Basin**, the last large piece of open dock water in Wapping.
+**Wapping Woods** runs alongside it, and **Tobacco Dock** faces the canal too — both are among the three detours below, if you want ten minutes under the trees or a proper look at the warehouse frontage rather than a glance in passing. The canal ends at **Shadwell Basin**, the last large piece of open dock water in Wapping.
 
-## 6. Wapping Docklands Market
+## 6. The Prospect of Whitby
 
-Where the canal ends, on **Brussels Wharf** at the edge of Shadwell Basin.
-
-**Saturdays only, 10am to 5pm.** Fresh produce, independent stalls, street food, drink and live music, with tables looking over the water. It lands at almost exactly halfway, which is why Saturday is the day to walk this.
-
-## 7. The Prospect of Whitby
-
-Across the red Glamis Road bridge from the market.
+Follow Wapping Wall along the south side of Shadwell Basin, past the old Hydraulic Power Station, to Pelican Stairs.
 
 ![The white weatherboarded Prospect of Whitby pub seen from the Thames at low tide](../../assets/articles/wapping-canary-wharf-walk/prospect-of-whitby.jpg)
 
@@ -140,7 +135,15 @@ Across the red Glamis Road bridge from the market.
 
 **Open 11am to 11pm Monday to Saturday and noon to 10pm on Sunday, with food from noon to 9pm every day.** It is the only one of the four pubs open before noon, and its kitchen has no afternoon break, so it works as a late lunch as well as a mid-walk pint. It takes table bookings.
 
+## 7. Wapping Docklands Market
+
+Back past the power station, on **Brussels Wharf** at the edge of Shadwell Basin.
+
+**Saturdays only, 10am to 5pm.** Fresh produce, independent stalls, street food, drink and live music, with tables looking over the water. It lands at almost exactly halfway, which is why Saturday is the day to walk this.
+
 ## 8. King Edward Memorial Park Foreshore
+
+Across the red Glamis Road bridge from the market.
 
 **London's newest riverside space, opened by Tideway at the end of July 2026** on top of the super sewer works that replaced one of the river's worst sewage overflows.
 
@@ -181,9 +184,11 @@ About 1.5km: past Westferry Circus and along the dock edge to **Crossrail Place*
 
 It is also stop 1 of our **[Canary Wharf to Greenwich walk](/articles/canary-wharf-greenwich-walk/)**, which carries on south through the docks and under the Thames by the Greenwich Foot Tunnel. Walk both and you have gone from the Tower to the Prime Meridian.
 
-## The detours: Tobacco Dock and the Yurt Café
+## The detours: Wapping Woods, Tobacco Dock and the Yurt Café
 
-Two places worth five minutes each, neither of them on the line.
+Three places worth five minutes each, none of them on the direct line.
+
+**Wapping Woods** is the wood the canal runs beside at stop 5 — planted on the filled-in dock, with benches by the water and paths that wander in among the trees instead of sticking to the towpath. Free, open at all times and almost always empty. **Worth the five minutes if** you want to walk under the trees rather than stay on the straight path beside the water.
 
 **Tobacco Dock** is a Grade I listed warehouse built in 1812 for imported tobacco, brick vaults below and a timber and iron roof above, now an events venue. The canal runs along its south side at stop 5, so you pass the outside whatever you do, and it opens to the public only for public events, which it lists on its own site. **Worth the five minutes if** there is an event on, or you want to walk the full length of the frontage and look at the brickwork properly.
 
@@ -199,10 +204,10 @@ Two places worth five minutes each, neither of them on the line.
 
 - **The Town of Ramsgate** (stop 3, ££) — kitchen noon to 4pm and 5pm to 9pm, seven days.
 - **The Captain Kidd** (stop 4, ££) — kitchen noon to 3pm and 5pm to 9pm on weekdays, noon to 9pm on Saturday, noon to 6pm on Sunday.
-- **The Prospect of Whitby** (stop 7, ££) — food noon to 9pm, seven days, with no afternoon gap.
+- **The Prospect of Whitby** (stop 6, ££) — food noon to 9pm, seven days, with no afternoon gap.
 - **The Grapes** (stop 10, ££) — no bookings, so it is first come. A bar menu downstairs and on the deck.
 
-**On a Saturday**, the market at stop 6 is street food with seating over Shadwell Basin, at almost exactly halfway. **The cheapest meal** on the route is the Yurt Café detour. **A full dinner** means Bread Street Kitchen & Bar or La Figa on Narrow Street.
+**On a Saturday**, the market at stop 7 is street food with seating over Shadwell Basin, at almost exactly halfway. **The cheapest meal** on the route is the Yurt Café detour. **A full dinner** means Bread Street Kitchen & Bar or La Figa on Narrow Street.
 
 For more, the area guides cover both ends: [Wapping](/articles/wapping-area-guide/#where-to-eat-and-drink) and [Canary Wharf](/articles/canary-wharf-area-guide/#where-to-eat-and-drink).
 
@@ -232,7 +237,7 @@ For more, the area guides cover both ends: [Wapping](/articles/wapping-area-guid
 
 **Finish:** Canary Wharf (Elizabeth line, Jubilee, DLR). The Elizabeth line is back in the City in about six minutes.
 
-**Cutting it short:** Wapping (Overground) is on the High Street between stops 4 and 5; Shadwell (Overground, DLR) is north of stop 7; Limehouse (DLR, c2c) is by stop 9 and the Yurt Café detour; Westferry (DLR) is on the last leg.
+**Cutting it short:** Wapping (Overground) is on the High Street between stops 4 and 5; Shadwell (Overground, DLR) is north of stop 6; Limehouse (DLR, c2c) is by stop 9 and the Yurt Café detour; Westferry (DLR) is on the last leg.
 
 **Walked the other way**, it works just as well, but this direction finishes on the doorstep of the walk to Greenwich.
 
