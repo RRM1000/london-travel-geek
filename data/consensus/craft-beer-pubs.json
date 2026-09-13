@@ -7,7 +7,9 @@
       "name": "CAMRA Bexley Branch - Pub of the Year",
       "url": "http://bexley.camra.org.uk",
       "scope": "craft-beer-pubs",
-      "names": ["The Robin Hood & Little John"],
+      "names": [
+        "The Robin Hood & Little John"
+      ],
       "quotes": {
         "The Robin Hood & Little John": "Branch homepage news, presented 22 July 2026: 'The Pub of the Year Silver award was presented to The Robin Hood & Little John on 22nd July.' No separate Gold/branch-level announcement was found on the page - FLAG: read as Bexley's own branch Pub of the Year 2026, which then placed Silver at the Greater London regional round (the same two-stage pattern Bromley's entry below shows explicitly). Corroborated independently: the pub's own site and multiple directory listings say it 'has won CAMRA London Pub of the year on three occasions, plus CAMRA Local Pub of the year on ten occasions' and local press (News Shopper, 9 Aug 2024) already named it 'best pub in Bexley' in a previous CAMRA cycle, so it is a repeat, credible branch champion, not a one-off reading of an ambiguous page."
       }
@@ -16,7 +18,9 @@
       "name": "CAMRA Bromley Branch - Pub of the Year",
       "url": "https://bromley.camra.org.uk/other-resources/pub-of-the-year/",
       "scope": "craft-beer-pubs",
-      "names": ["The Cockpit"],
+      "names": [
+        "The Cockpit"
+      ],
       "quotes": {
         "The Cockpit": "Branch Pub of the Year 2026, presented 3 June 2026, AND 2026 Greater London Pub of the Year - 'Bromley AND Greater London CAMRA Pub of the Year 2026.' A micropub at 4 Royal Parade, Chislehurst BR7 6NR, which the branch says has now won four years running (2023-2026). This is the clearest, best-corroborated CAMRA result collected."
       }
@@ -25,7 +29,10 @@
       "name": "CAMRA Croydon & Sutton Branch - Pub of the Year",
       "url": "https://croydon.camra.org.uk",
       "scope": "craft-beer-pubs",
-      "names": ["The Dark Horse", "The Hope"],
+      "names": [
+        "The Dark Horse",
+        "The Hope"
+      ],
       "quotes": {
         "The Dark Horse": "Croydon borough Pub of the Year 2026 - 'Congratulations to The Dark Horse, Selhurst... for winning the branch Pub of the Year competition in Croydon borough.' Proceeds to the CAMRA regional round.",
         "The Hope": "Sutton borough Pub of the Year 2026 - 'and to The Hope, Carshalton for winning the branch Pub of the Year competition in... Sutton borough respectively.' FLAG: cross-tier confirmation - ShortList's own, editorially independent 'The 11 best craft beer bars and pubs in London' names this same pub (48 West Street, Carshalton SM5 2PR) as its #1 pick, with no mention of the CAMRA award, so the two citations are genuinely independent."
@@ -36,7 +43,9 @@
       "name": "CAMRA Enfield & Barnet Branch - Pub of the Year",
       "url": "https://enfieldandbarnet.camra.org.uk/viewnode.php?id=885",
       "scope": "craft-beer-pubs",
-      "names": ["Ye Olde Mitre Inne"],
+      "names": [
+        "Ye Olde Mitre Inne"
+      ],
       "quotes": {
         "Ye Olde Mitre Inne": "Most recent branch Pub of the Year on the branch's own awards table is 2025, not 2026 - no 2026 result is published there yet (FLAG: stale by one cycle, not a full gap). Location: 58 High Street, Barnet EN5 5SJ. TRAP CAUGHT: this is NOT the same pub as 'Ye Olde Mitre' in Holborn (1 Ely Court EC1N 6SJ) cited separately below by ShortList and Secret London - two different, similarly-named historic pubs, confirmed via the Barnet pub's own listings and a dedicated Wikipedia article ('Mitre Inn, Chipping Barnet'). Recorded with the 'Inne' spelling the branch itself uses, to help keep them apart."
       }
@@ -45,10 +54,13 @@
       "name": "CAMRA Kingston & Leatherhead Branch - Pub of the Year",
       "url": "https://kandl.camra.org.uk/viewnode.php?id=134407",
       "scope": "craft-beer-pubs",
-      "names": ["The Antelope", "Jolly Coopers"],
+      "names": [
+        "The Antelope, Kingston",
+        "Jolly Coopers"
+      ],
       "quotes": {
-        "The Antelope": "Joint Branch Pub of the Year 2026. 'Original home of the Big Smoke brewery, from which two or three cask beers are usually available in cask.' FLAG: cross-tier confirmation - Rebel Atlas's independent craft beer guide separately names 'The Antelope, 76 Mitcham Road SW17' as a Tooting stop with 'rotating cask' - worth checking this is the same Antelope (Kingston & Leatherhead's patch does not obviously include Tooting, so this may be a DIFFERENT pub of the same common name; left unmerged, flagged rather than assumed).",
-        "Jolly Coopers": "Joint Branch Pub of the Year 2026, Epsom. 'This pub was built in 1859 and is situated in the middle of a residential area just over half a mile west of the town centre.'"
+        "Jolly Coopers": "Joint Branch Pub of the Year 2026, Epsom. 'This pub was built in 1859 and is situated in the middle of a residential area just over half a mile west of the town centre.'",
+        "The Antelope, Kingston": "Joint Branch Pub of the Year 2026. 'Original home of the Big Smoke brewery, from which two or three cask beers are usually available in cask.' FLAG: cross-tier confirmation - Rebel Atlas's independent craft beer guide separately names 'The Antelope, 76 Mitcham Road SW17' as a Tooting stop with 'rotating cask' - worth checking this is the same Antelope (Kingston & Leatherhead's patch does not obviously include Tooting, so this may be a DIFFERENT pub of the same common name; left unmerged, flagged rather than assumed)."
       },
       "note": "Two joint winners for 2026, both recorded as the branch's citation."
     },
@@ -56,7 +68,9 @@
       "name": "CAMRA North London Branch - Pub of the Year",
       "url": "https://www.northlondon.camra.org.uk/news",
       "scope": "craft-beer-pubs",
-      "names": ["The Wenlock Arms"],
+      "names": [
+        "The Wenlock Arms"
+      ],
       "quotes": {
         "The Wenlock Arms": "Branch Pub of the Year 2026, a second-time winner. 'This is a classic story of rags to riches then back to rags and finally riches.' (2025's winner was The Magdala, Hampstead, for context/recency only - not double-counted as a citation here.)"
       }
@@ -65,7 +79,9 @@
       "name": "CAMRA Richmond & Hounslow Branch - Pub of the Year",
       "url": "http://www.rh.camra.org.uk/poty.html",
       "scope": "craft-beer-pubs",
-      "names": ["The Mitre"],
+      "names": [
+        "The Mitre"
+      ],
       "quotes": {
         "The Mitre": "Branch Pub of the Year 2026, presented May 2026 at 20 St Mary's Grove, Richmond TW9 1UY. 'Chris French of the Mitre, Richmond, was presented with the Pub of the Year award by Bob Gordon Branch Chairman during a Pizza Night Branch social.' Shortlisted but NOT recorded as winners: the Black Dog (Brentford) and the Builders Arms (Teddington) - FLAG: a 'Black Dog, Vauxhall' also appears independently in Rebel Atlas's guide; almost certainly a different pub (Brentford vs Vauxhall) given the common name, left unmerged."
       }
@@ -74,7 +90,9 @@
       "name": "CAMRA South East London Branch - Pub of the Year",
       "url": "https://sel.camra.org.uk",
       "scope": "craft-beer-pubs",
-      "names": ["Hand & Marigold"],
+      "names": [
+        "Hand & Marigold"
+      ],
       "quotes": {
         "Hand & Marigold": "Overall branch Pub of the Year 2026, Bermondsey Street - 'After judging visits by volunteers the overall winner of the branch Pub of the Year 2026 is Hand & Marigold, Bermondsey Street.' This is the branch-level final the topic config anticipated (SE London runs district rounds first). FLAG: strong independent cross-tier confirmation - Will Hawkes' own London Beer City newsletter (October 2025) separately names 'Hand and Marigold (Bermondsey)... run by Alice and Oli Carter-Esdale', with no mention of the CAMRA award, so the citations are genuinely independent."
       }
@@ -83,7 +101,9 @@
       "name": "CAMRA South West London Branch - Pub of the Year",
       "url": "https://swl.camra.org.uk/",
       "scope": "craft-beer-pubs",
-      "names": ["The Sultan"],
+      "names": [
+        "The Sultan"
+      ],
       "quotes": {
         "The Sultan": "'The South West London CAMRA Pub of the Year for 2023 is the Sultan' (78 Norman Road, South Wimbledon SW19 1BT). FLAG - STALE: this branch's site has no content newer than March 2023; its OWN listed domain (camraswl.org.uk, given on london.camra.org.uk's branch list) has its domain registration fully EXPIRED and now serves a Namecheap parking page. This alternate URL (found via camra.org.uk's national branch page) is live but three years stale. FLAG: cross-tier confirmation - Rebel Atlas's independent guide separately calls it 'a revered Hop Back pub and south-west London cask beacon', with no mention of CAMRA, so the citations are independent even though this one is old."
       }
@@ -92,7 +112,9 @@
       "name": "CAMRA West London Branch - Pub of the Year",
       "url": "https://westlondon.camra.org.uk",
       "scope": "craft-beer-pubs",
-      "names": ["The Bear"],
+      "names": [
+        "The Bear"
+      ],
       "quotes": {
         "The Bear": "Branch Pub of the Year 2026, Paddington, presented 'on a bright spring day'. Runners-up named but NOT recorded as winners: The Lyric (Soho) and The Harp. FLAG: 'The Lyric Soho' also appears independently in Rebel Atlas's guide ('Independent free house with a smaller but well-chosen cask and craft selection') - that is a legitimate separate Tier C citation for The Lyric in its own right, just not a West London CAMRA win."
       }
@@ -101,7 +123,9 @@
       "name": "CAMRA West Middlesex Branch - Pub of the Year",
       "url": "https://westmiddx.camra.org.uk/news",
       "scope": "craft-beer-pubs",
-      "names": ["The Dodo Micropub"],
+      "names": [
+        "The Dodo Micropub"
+      ],
       "quotes": {
         "The Dodo Micropub": "Branch Pub of the Year AND Ealing Borough Pub of the Year 2025, per branch news: 'Branch Pub of the Year and Ealing Borough Pub of the Year; The Dodo Micropub, Ealing' (presentation scheduled 20 August 2025). FLAG - the branch's OWN dedicated Pub of the Year page (viewnode.php?id=134690) is stale and stops at 2024 (The Owl and the Pussycat, West Ealing); this 2025 result comes from the branch's news feed instead, and no 2026 result has been published anywhere on the site yet (trap 6 applied - found the more current page rather than accepting the stale list). Also visible in the same news feed, NOT recorded as branch-level winners: Hillingdon Borough POTY (J.J. Moon's, Ruislip) and Harrow & Brent Borough POTY (The Castle, Harrow) - sub-district heats within this branch, per the topic config's rule."
       }
@@ -138,7 +162,7 @@
         "The Park Tavern",
         "Bank of Friendship",
         "The Southampton Arms",
-        "The Lamb",
+        "The Lamb (Time Out - Irish pub, live music)",
         "The Cock Tavern"
       ],
       "quotes": {
@@ -147,10 +171,12 @@
         "The Park Tavern": "#32 of 50 in 'The 50 Best Pubs in London'. 'Real ale pub at the edges of Richmond Park', family-owned.",
         "Bank of Friendship": "#41 of 50 in 'The 50 Best Pubs in London'. 'A solid pub on the coolest road in London' with Deya on tap.",
         "The Southampton Arms": "#44 of 50 in 'The 50 Best Pubs in London'. 'A lovely little Victorian ale house near Hampstead Heath' with craft offerings.",
-        "The Lamb": "#48 of 50 in 'The 50 Best Pubs in London'. 'An eccentric Irish pub with live music', serving craft beer and real ale. FLAG: Secret London's separate '50 Best Pubs' list also names a 'The Lamb, Chiswick' with a completely different description (seasonal food, real ales and craft beers, a lovely garden) - the two read as different pubs sharing a very common name and are left unmerged; whoever builds this topic should check which (if either) matches a Restaurants v2 / hotel-corpus row.",
-        "The Cock Tavern": "#50 of 50 in 'The 50 Best Pubs in London'. 'An atmospheric ale-drinkers' paradise' with serious cask ales and ciders. FLAG: no address given in the extract. ShortList's brewery-taprooms piece says Howling Hops 'originally operat[ed] out of Hackney's Cock Tavern' on Mare Street before moving to Queen's Yard in 2015 - this may or may not be the same building under independent ownership again; left unmerged with Howling Hops (a clearly different, separate business either way) and flagged for a human check."
+        "The Cock Tavern": "#50 of 50 in 'The 50 Best Pubs in London'. 'An atmospheric ale-drinkers' paradise' with serious cask ales and ciders. FLAG: no address given in the extract. ShortList's brewery-taprooms piece says Howling Hops 'originally operat[ed] out of Hackney's Cock Tavern' on Mare Street before moving to Queen's Yard in 2015 - this may or may not be the same building under independent ownership again; left unmerged with Howling Hops (a clearly different, separate business either way) and flagged for a human check.",
+        "The Lamb (Time Out - Irish pub, live music)": "#48 of 50 in 'The 50 Best Pubs in London'. 'An eccentric Irish pub with live music', serving craft beer and real ale. FLAG: Secret London's separate '50 Best Pubs' list also names a 'The Lamb, Chiswick' with a completely different description (seasonal food, real ales and craft beers, a lovely garden) - the two read as different pubs sharing a very common name and are left unmerged; whoever builds this topic should check which (if either) matches a Restaurants v2 / hotel-corpus row."
       },
-      "alsoAt": ["https://www.timeout.com/london/bars-and-pubs/the-best-pubs-in-london"],
+      "alsoAt": [
+        "https://www.timeout.com/london/bars-and-pubs/the-best-pubs-in-london"
+      ],
       "note": "Two Time Out URLs merged into one source per the counting rule (one masthead). The taproom guide (22 venues, numbered 1-22) is the primary craft-beer list. 'The 50 Best Pubs in London' (15 Oct 2025, explicitly ranked - 'we've done the impossible and ranked the 50 best pubs in London') is a general pubs list; only the 6 entries whose own description names craft beer, real ale, cask ale, a taproom or a brewery were pulled in, per the task's instruction to check it for craft-relevant names rather than import all 50. Ranks are preserved in the quotes for both lists but the two numbering sequences are NOT comparable to each other (1-22 vs 1-50 are different lists)."
     },
     {
@@ -183,7 +209,9 @@
         "The Dog & Bell": "Presented as #6 of 11. Brad Evans's pick, Deptford: 'The Dog & Bell was voted CAMRA pub of the year for Lewisham in 2025 and has been my spiritual home of beer for over two decades... the best Irish pub in town.' SYNDICATION CHECK: this names a CAMRA sub-district (Lewisham) result in passing, inside ShortList's own first-person review - the review itself is independent evidence (not merely relaying the award), so it is counted here as ShortList's citation; the Lewisham mention is NOT separately recorded as a CAMRA branch citation (Lewisham is not one of the 13 branches in scope and reads as an SE London branch district heat, not the branch-level final).",
         "The Kernel": "From the separate 'best brewery taprooms' piece (2 June 2026, with beer writer Will Hawkes), same masthead so merged here. 'The Kernel is London's most important independent brewery... the taproom is so unique... a modern, almost Scandinavian space where Japanese comfort food shares top billing.'"
       },
-      "alsoAt": ["https://www.shortlist.com/food-and-drink/londons-best-brewery-taprooms"],
+      "alsoAt": [
+        "https://www.shortlist.com/food-and-drink/londons-best-brewery-taprooms"
+      ],
       "note": "Two ShortList URLs merged per the counting rule. The first article numbers 1-11, but the numbering runs sequentially across three different contributors' picks (Jonny Garrett's 4, Brad Evans's 2, ShortList's own 3, two reader picks) rather than a single best-to-worst judgement, so treated as UNRANKED despite the numbers (trap: numbered-but-unordered). The second article is explicitly organised by contributor with no numbers at all. Overlapping names between the two articles (Howling Hops, Bullfinch, Signature Brew) counted once."
     },
     {
@@ -200,7 +228,7 @@
         "The Five Points Brewery Taproom & Courtyard",
         "The Wolfpack Inn",
         "Supercute Brewhouse",
-        "The Victoria",
+        "The Victoria (DesignMyNight)",
         "The Whippet Inn",
         "26 Curtain Road",
         "Hiver Taproom",
@@ -290,15 +318,17 @@
         "The Montpellier",
         "The Market Porter",
         "The Alma",
-        "The Lamb"
+        "The Lamb, Chiswick"
       ],
       "quotes": {
         "Cask Pub & Kitchen": "#1 of 15 in '15 Brilliant Craft Beer Pubs And Bars In London For A Refreshing Pint (Or Two)' (Jack Rattenbury, 28 Feb 2024), Pimlico. 'Award-winning pub' with an 'extensive list of draught beer'.",
         "Craft Beer Company": "#9 of 15, Clerkenwell. 'Local chain with seven locations; West End branch has \"over forty taps\" offering UK's biggest beer selections.' FLAG: a mini-chain (see also Rebel Atlas's separate 'Craft Beer Co.' branches in Covent Garden and Old Street) - branch-level vs brand-level citation not resolved here, surfaced for a human decision the way Blacklock/Hawksmoor branches were for other topics.",
         "The Bull": "From the separate '50 Best Pubs In London' list (Samuel Hopkins, 29 Apr 2025), same masthead so merged here. Highgate: 'Popular independent Highgate pub... has its own on-site brewery.' Per data/name-aliases.json this is confirmed distinct from 'The Bull & Last' (a different Highgate pub 500m away) - correctly NOT merged.",
-        "The Lamb": "From the '50 Best Pubs In London' list: 'The Lamb, Chiswick - Top spot for seasonal food, real ales and craft beers... particularly lovely garden.' FLAG: see the note on Time Out's separate 'The Lamb' (Irish pub, live music) above - likely a different pub sharing a common name; left unmerged."
+        "The Lamb, Chiswick": "From the '50 Best Pubs In London' list: 'The Lamb, Chiswick - Top spot for seasonal food, real ales and craft beers... particularly lovely garden.' FLAG: see the note on Time Out's separate 'The Lamb' (Irish pub, live music) above - likely a different pub sharing a common name; left unmerged."
       },
-      "alsoAt": ["https://secretldn.com/best-pubs-in-london/"],
+      "alsoAt": [
+        "https://secretldn.com/best-pubs-in-london/"
+      ],
       "note": "Two Secret London URLs merged per the counting rule. The primary craft-beer page numbers 1-15 as a countdown (ranked). The second, general '50 Best Pubs' page (29 Apr 2025) is organised by area with no overall rank; only its 10 craft/real-ale/cask-flagged entries were pulled in (one, The Southampton Arms, duplicated the primary list and was not double-counted)."
     },
     {
@@ -338,7 +368,7 @@
         "Hackney Church Brew Co",
         "The Cock Tavern",
         "Mother Kelly's - Bethnal Green",
-        "The King's Arms",
+        "The King's Arms (Rebel Atlas)",
         "Howl at the Moon",
         "Earl of Essex",
         "Hammerton Brewery Taproom",
@@ -367,17 +397,17 @@
         "BrewDog Wandsworth",
         "Wimbledon Brewery Taproom",
         "The Sultan",
-        "The Antelope",
+        "The Antelope, Tooting",
         "Brixton Brewery Taproom",
         "Ghost Whale Brixton",
         "Canopy Beer Co"
       ],
       "quotes": {
         "The Sultan": "'A revered Hop Back pub and south-west London cask beacon... immaculate condition, sensible prices.' FLAG: independently matches South West London CAMRA's 2023 (stale) Pub of the Year, above.",
-        "The Antelope": "'A big, buzzy Victorian local with an upgraded beer offer... right by Tooting Broadway' (SW17). FLAG: shares its name with Kingston & Leatherhead CAMRA's 2026 joint winner 'The Antelope' - Tooting is not obviously in that branch's patch, so these may be different pubs; left unmerged.",
         "The Black Dog": "112 Vauxhall Walk SE11. 'Award-winning freehouse on the edge of Vauxhall Pleasure Gardens with rotating Cask Marque-accredited ales.' FLAG: Richmond & Hounslow CAMRA's 2026 shortlist named a runner-up 'Black Dog' in Brentford, a different part of London - likely a different pub sharing a name; left unmerged.",
         "The Lyric Soho": "37 Great Windmill Street. 'Independent free house with a smaller but well-chosen cask and craft selection.' FLAG: matches the name of West London CAMRA's 2026 runner-up 'The Lyric, Soho' - Soho is not in West London CAMRA's own patch, so this is plausibly the same pub cited as a runner-up by one source and independently by another; recorded as its own Tier C citation regardless, since it did not win the CAMRA award.",
-        "Hackney Church Brew Co": "16-17 Bohemia Place E8 (Hackney Central/Homerton), 'Brewpub energy under the Overground.' Given as the site address here, which supports the FLAG on DesignMyNight's separate 'Blackhorse Lane' version of this name above being a probable labelling error rather than a second site."
+        "Hackney Church Brew Co": "16-17 Bohemia Place E8 (Hackney Central/Homerton), 'Brewpub energy under the Overground.' Given as the site address here, which supports the FLAG on DesignMyNight's separate 'Blackhorse Lane' version of this name above being a probable labelling error rather than a second site.",
+        "The Antelope, Tooting": "'A big, buzzy Victorian local with an upgraded beer offer... right by Tooting Broadway' (SW17). FLAG: shares its name with Kingston & Leatherhead CAMRA's 2026 joint winner 'The Antelope' - Tooting is not obviously in that branch's patch, so these may be different pubs; left unmerged."
       },
       "note": "A very detailed, byline'd (Michael Wilson), dated (9 Sept 2026) area-by-area craft beer crawl guide on a general 'alternative travel guides' site (rebelatlas.com covers many cities/topics, not beer exclusively) - NOT a masthead, reads as a genuine specialist piece rather than a generic repeat of other lists (most of its ~65 venues do not appear on any other source collected here). Domain is NOT currently in data/sources.json; will default to tier C with a warning under the registry's own rule, which matches the tier assigned here. Several 'BrewDog' and 'Mother Kelly's' branches are named individually by this source (a multi-site chain each) - brand-level vs branch-level merging is NOT resolved here and is flagged for a human decision, the same open question as DesignMyNight's Craft Beer Company branches above."
     },
@@ -399,7 +429,7 @@
         "The Tankard",
         "BrewDog Brixton",
         "BrewDog Shoreditch",
-        "The King's Arms",
+        "The King's Arms (Will Hawkes)",
         "Hand and Marigold",
         "Angel and Red Lion and Sun",
         "Wood Street Bear",
@@ -426,7 +456,9 @@
         "The Tankard": "October 2025, Kennington: described as 'a Brewdog location that has been jettisoned' - a closure/trade note, not a recommendation; kept for accuracy.",
         "BrewDog Brixton": "October 2025: 'currently on the market' - a closure/trade note, not a recommendation; kept for accuracy."
       },
-      "alsoAt": ["https://www.willhawkes.net/blog/2026/6/15/october-2025-kings-queens-and-a-hip-new-beer-called-bass"],
+      "alsoAt": [
+        "https://www.willhawkes.net/blog/2026/6/15/october-2025-kings-queens-and-a-hip-new-beer-called-bass"
+      ],
       "note": "Will Hawkes is a named, professional beer and pubs writer (Telegraph contributor bio: 'specialises in beer and pubs'; author of two beer books) publishing his own monthly 'London Beer City' newsletter independent of any masthead - a genuine single-subject specialist per the tier C definition. Two of his own monthly issues were read directly and merged as one source (one publication, per the counting rule); six further issues were found in the blog archive but NOT included here because their content was not independently verified against the actual post (avoiding trap: never record a name from a page you didn't actually read). Several mentions above are news/trade items (a closure, a sale, an opening) rather than recommendations - quoted accurately as such rather than folded into positive citations. Domain not currently in data/sources.json; will default to tier C with a warning, matching the tier used here."
     },
     {
@@ -466,7 +498,7 @@
         "Mikkeller Brewpub London",
         "Brick Brewery Taproom",
         "People's Park Tavern",
-        "The King's Arms",
+        "The King's Arms (The Craft Beer Channel, East London stout crawl)",
         "The Stag"
       ],
       "quotes": {
@@ -479,8 +511,8 @@
         "Mikkeller Brewpub London": "'The Cuckoo has landed: touring Mikkeller Brewpub London' (12 Aug 2020) - tour of the East London brewpub with brewer Tom and operations manager Mads. Matches Rebel Atlas's 'Mikkeller Brewpub London' exactly.",
         "Brick Brewery Taproom": "'Brick Brewery must be London's most underrated brewer' (19 Aug 2020) - tour with founder Ian, tasting with the team, Peckham. Matches Time Out's 'Brick Brewery Taproom'.",
         "People's Park Tavern": "'Beer Log: A stout & porter crawl of East London' (21 Feb 2018), chapter list. Matches Secret London's 'People's Park Tavern' exactly.",
-        "The King's Arms": "Same East London stout crawl. FLAG - COMMON NAME: at least four other sources in this corpus name a 'King's Arms' / 'Kings Arms' with no address (BrewDog's own chapter list below, Will Hawkes, Rebel Atlas, Travels Unfiltered, and Linleys 360's Southwark tour below), plus one WITH an address (Pubs of London's Bethnal Green Kings Arms, below). All left unmerged rather than assumed to be the same pub.",
-        "The Stag": "'Show us your local: the Stag hampstead' (22 Feb 2015), filmed for Jamie's Drinks Tube's #showusyourlocal campaign for London Beer Week. Independently confirmed by Linleys 360's Hampstead tour, below (Fleet Road / Lawn Road)."
+        "The Stag": "'Show us your local: the Stag hampstead' (22 Feb 2015), filmed for Jamie's Drinks Tube's #showusyourlocal campaign for London Beer Week. Independently confirmed by Linleys 360's Hampstead tour, below (Fleet Road / Lawn Road).",
+        "The King's Arms (The Craft Beer Channel, East London stout crawl)": "Same East London stout crawl. FLAG - COMMON NAME: at least four other sources in this corpus name a 'King's Arms' / 'Kings Arms' with no address (BrewDog's own chapter list below, Will Hawkes, Rebel Atlas, Travels Unfiltered, and Linleys 360's Southwark tour below), plus one WITH an address (Pubs of London's Bethnal Green Kings Arms, below). All left unmerged rather than assumed to be the same pub."
       },
       "note": "Hosted by Jonny Garrett and Brad Evans, who also write ShortList's craft beer pieces recorded above as a tier B citation - counted there as ShortList, here as their own channel and publishing imprint ('Beer School' and 'The London Craft Beer Guide', both self-published books), because the two are different publishers and, on the videos read here, name different venues to their ShortList picks (The Hope, The Dog & Bell). Same handling as Shu/@dejashu across Broadsheet and her own channel on the hot pot corpus. 176K subscribers, the most substantial specialist channel found in this pass. Eleven relevant London videos were found across the four search queries run; five yielded no readable venue name and were not used: 'London's best craft brewery taprooms guide' (names its 'four favourite' without saying which), 'Beer Log: 5 London pubs that time forgot' (describes two pubs by riddle rather than naming them), 'British Pub Culture (Keep Cask Alive p11)' (a cultural essay), 'Beer school: what is real ale?' (an explainer), and 'City Guide: best craft beer bars in Manchester' (NOT LONDON - trap 12, excluded outright). No gifted or hosted disclosure found on any video; sponsorship throughout is Patreon and the channel's own book/merch sales."
     },
@@ -728,7 +760,7 @@
       "names": [
         "The Seven Stars",
         "The Selkirk",
-        "The King's Arms",
+        "The King's Arms (Travels Unfiltered, #3 of 10)",
         "The George Tavern",
         "The Coach & Horses",
         "The Mayflower Pub",
@@ -739,9 +771,9 @@
       ],
       "quotes": {
         "The Seven Stars": "'10 HISTORIC London Pubs You Need to Visit' (1 Jan 2025) - ranked #1 of 10, Carey Street, Holborn.",
-        "The King's Arms": "Ranked #3 of 10, no address given. FLAG - COMMON NAME: yet another unaddressed 'King's Arms'/'Kings Arms', see the flag on The Craft Beer Channel's entry above.",
         "The Coach & Horses": "Ranked #5 of 10, no address given. FLAG - COMMON NAME: 'Coach and Horses' is one of the most repeated pub names in London; a DW Food video (below, not counted) separately features a 'Coach & Horses' as an interview location with no address either - left unmerged, may or may not be the same pub.",
-        "Prospect of Whitby": "Ranked #8 of 10. Matches Linleys 360's 'Prospect of Whitby', above (Linleys' chapter title shortens it to 'The Prospect')."
+        "Prospect of Whitby": "Ranked #8 of 10. Matches Linleys 360's 'Prospect of Whitby', above (Linleys' chapter title shortens it to 'The Prospect').",
+        "The King's Arms (Travels Unfiltered, #3 of 10)": "Ranked #3 of 10, no address given. FLAG - COMMON NAME: yet another unaddressed 'King's Arms'/'Kings Arms', see the flag on The Craft Beer Channel's entry above."
       },
       "note": "Ranked #10 to #1, order preserved per the counting rule. Agency-produced (credits list a separate project manager, researcher, script writer, voice-over artist, editor and thumbnail designer) rather than a single hobbyist's channel, and monetised through unrelated hotel/itinerary affiliate links - surfaced here rather than hidden, though none of it touches the specific pubs named, so the paid-placement rule is not triggered (same handling as a channel sponsor elsewhere in this corpus). All ten pubs are real, well-known, correctly named historic London houses. 16.2K subscribers."
     },
