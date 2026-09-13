@@ -180,7 +180,7 @@ Grade II listed and reopened after a long refurbishment, with the ballroom decor
 
 **£, walk-in. On the station concourse**, which makes it the most useful of these if you are killing time before a train rather than making a trip of it.
 
-**Wetherspoon menu and prices** under the ballroom ceiling: cooked breakfast from 8am, burgers and pub standards after. Order at the bar or by app; there is no table service.
+**Wetherspoon menu and prices** under the ballroom ceiling: cooked breakfast from 7am Monday to Saturday, 9am Sunday, burgers and pub standards after. Order at the bar or by app; there is no table service.
 
 ### The Ledger Building, Canary Wharf
 

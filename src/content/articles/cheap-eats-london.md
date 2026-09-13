@@ -405,7 +405,7 @@ Fish bought fresh and **fried to order in a crisp, light batter with hand-cut ch
 
 ## Wetherspoons, and why they earn a mention
 
-Nobody needs telling that Wetherspoons is cheap, and with around 37 branches in central London alone — roughly 800 across the UK — you are rarely far from one. What is worth knowing is that four of the London ones are in buildings people would pay to look at, and that all four open at 8am for a cooked breakfast that costs less than a coffee and pastry almost anywhere else.
+Nobody needs telling that Wetherspoons is cheap, and with around 37 branches in central London alone — roughly 800 across the UK — you are rarely far from one. What is worth knowing is that four of the London ones are in buildings people would pay to look at, and each opens early enough for a cooked breakfast that costs less than a coffee and pastry almost anywhere else.
 
 Order at the bar or through the app. No table service, no music, no booking.
 
@@ -421,11 +421,11 @@ Order at the bar or through the app. No table service, no music, no booking.
 
 ### Hamilton Hall, Liverpool Street
 
-*£ · Liverpool Street Station concourse · from 8am*
+*£ · Liverpool Street Station concourse · from 7am Mon–Sat, 9am Sun*
 
 **The former ballroom of the Great Eastern Hotel**, off the Liverpool Street concourse — gilded plasterwork, chandeliers and cornicing kept intact, modelled on a salon at Versailles.
 
-**Wetherspoon menu and prices** under that ceiling: **cooked breakfast from 8am**, burgers and pub standards after. Grade II listed, and reopened after a long refurbishment.
+**Wetherspoon menu and prices** under that ceiling: **cooked breakfast from 7am Monday to Saturday, 9am Sunday**, burgers and pub standards after. Grade II listed, and reopened after a long refurbishment.
 
 **£, walk-in. On the station concourse**, which makes it the most useful of these if you are killing time before a train.
 
