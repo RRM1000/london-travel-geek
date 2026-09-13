@@ -86,16 +86,6 @@ Premier Inn's compact format at an address that would cost triple under almost a
 
 Breakfast is continental and charged separately, and there is no car park, which on St Martin's Lane is no loss whatsoever.
 
-<div class="photo-row">
-
-![A hub by Premier Inn room, with a wall-mounted television and an illustrated local-area map above the bed](../../assets/articles/where-to-stay-covent-garden/hub-premier-inn-room.jpg)
-
-![The ensuite bathroom of a hub by Premier Inn room, with green tiling in the shower](../../assets/articles/where-to-stay-covent-garden/hub-premier-inn-bathroom.jpg)
-
-</div>
-
-*A hub by Premier Inn room, with the illustrated area map above the bed, and its green-tiled ensuite shower.*
-
 ### Strand Palace — the one that still has rooms
 
 *About £140 · 785 rooms · 372 Strand, WC2R 0JJ · Breakfast £18 · [check prices](hotel:strand-palace)*
