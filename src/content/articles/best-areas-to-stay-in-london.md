@@ -64,7 +64,19 @@ Nowhere else puts you inside a fifteen-minute walk of the theatres, the river, S
 
 The trade is that it is relentless. The Piazza has street performers from mid-morning until late, the surrounding streets carry theatre crowds twice a night, and the area has no quiet hour between about ten in the morning and midnight. It is also short of ordinary shops — you will struggle to buy milk.
 
-**[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** is about £130, on the condition that you read the room grade: **the cheapest rate is an "Inside" room with no window**, and people book it by accident constantly. **[Strand Palace](hotel:strand-palace)** is about £140, has nearly eight hundred rooms and an art deco frontage from 1909, and is the one with availability when the boutiques are full. Our full [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) prices the area against Holborn ten minutes east.
+**[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** is about £130, on the condition that you read the room grade: **the cheapest rate is an "Inside" room with no window**, and people book it by accident constantly.
+
+![A Z Hotel Covent Garden room with a dark upholstered headboard, a wall-mounted TV showing the Z Hotels welcome screen, and a tall sash window facing a brick light well](../../assets/articles/best-areas-to-stay-in-london/z-hotel-covent-garden.jpg)
+
+*This room has a window onto the light well - the cheapest "Inside" rate above has none.*
+
+**[Strand Palace](hotel:strand-palace)** is about £140, has nearly eight hundred rooms and an art deco frontage from 1909, and is the one with availability when the boutiques are full.
+
+![A Strand Palace guest room with white bedding, two tan leather armchairs around a round table, and a mirrored panel behind the headboard](../../assets/articles/best-areas-to-stay-in-london/strand-palace.jpg)
+
+*One of Strand Palace's nearly eight hundred rooms, with its pair of tan leather chairs.*
+
+Our full [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) prices the area against Holborn ten minutes east.
 
 ### South Bank — the river, the galleries and three stations
 
@@ -74,7 +86,17 @@ The best walk in London runs past your front door and most of what is on it is f
 
 Three stations serve the strip, so wherever along it you end up you are close to a train — Waterloo has the Jubilee and the Northern, Southwark and London Bridge the Jubilee. Borough Market is closed on Mondays, which matters more than it sounds if you were counting on it for food.
 
-**[citizenM Bankside](hotel:citizenm-bankside)** is about £160 for one room type with a wall-to-wall window and a tablet that runs the blinds — and the rooms are genuinely small, the bed filling the width, which shocks people who have not seen the format. **[Native Bankside](hotel:native-bankside)** is on a quiet cut-through behind Shakespeare's Globe and puts a kitchen in the room.
+**[citizenM Bankside](hotel:citizenm-bankside)** is about £160 for one room type with a wall-to-wall window and a tablet that runs the blinds — and the rooms are genuinely small, the bed filling the width, which shocks people who have not seen the format.
+
+![A compact citizenM room with a city-view window, the bed filling almost the full width, and a floating shelf beside it](../../assets/articles/best-areas-to-stay-in-london/citizenm-bankside.jpg)
+
+*A citizenM room's tightly filled bed width, the format's signature small-but-clever layout.*
+
+**[Native Bankside](hotel:native-bankside)** is on a quiet cut-through behind Shakespeare's Globe and puts a kitchen in the room.
+
+![A Native Bankside studio's living area with an orange armchair, a navy sofa, a blue-and-white geometric rug, and the bedroom visible through the open door](../../assets/articles/best-areas-to-stay-in-london/native-bankside.jpg)
+
+*The studio's living space, bedroom visible through the open door beyond.*
 
 ### Bloomsbury — the cheapest good decision in Zone 1
 
@@ -84,7 +106,17 @@ The calmest streets in central London, five minutes from the British Museum, ten
 
 Evenings are the thin part. Bloomsbury is academic and residential, so it goes quiet early and the restaurant choice is nothing like Soho's. Soho is ten minutes' walk west when you want it, and out of earshot when you do not, which is why people sleep well here.
 
-**[Generator London](hotel:generator-london)** is about £26 a bed with 750 rooms, a bar built into a bus and a 24-hour reception — and it is unashamedly a party hostel, so it is the wrong call for an early start. **[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** runs £81 to £206 for a private windowless room two minutes from the British Museum, and it undercut the Piccadilly flagship on every date sampled.
+**[Generator London](hotel:generator-london)** is about £26 a bed with 750 rooms, a bar built into a bus and a 24-hour reception — and it is unashamedly a party hostel, so it is the wrong call for an early start.
+
+![A Generator London dorm room with a bright pink, orange and teal geometric wall mural, bunk beds and a small desk](../../assets/articles/best-areas-to-stay-in-london/generator-london.jpg)
+
+*One of Generator's brightly muralled dorm rooms.*
+
+**[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** runs £81 to £206 for a private windowless room two minutes from the British Museum, and it undercut the Piccadilly flagship on every date sampled.
+
+![A windowless Zedwell Tottenham Court Road Cocoon room with a wood-panelled bed alcove lit by a soft light strip, a mirror, and a jacket hanging beside it](../../assets/articles/best-areas-to-stay-in-london/zedwell-tottenham-court-road.jpg)
+
+*One of the private windowless Cocoon rooms - no window, as the room grade promises.*
 
 ---
 
@@ -100,7 +132,37 @@ The densest concentration of bars, theatres, restaurants and late food in Britai
 
 **It is very loud and it is not a place to sleep lightly.** Every one of Soho's streets carries people until the early hours, and a room facing one of them is a compromise you are making deliberately. Ask for a high floor and an internal room, at booking rather than at check-in.
 
-At the bottom, **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is £33 to £68 for a berth one minute from the Tube, and **[Otherwander Soho](hotel:otherwander-soho)** is £62 to £119 on Dean Street. In the middle, **[Zedwell Piccadilly Circus](hotel:zedwell-piccadilly-circus)** does private windowless rooms at £97 to £287, where the second guest adds about £5. At the top, **[Broadwick Soho](hotel:broadwick-soho)** is about £450 and was named the UK's best hotel at the 2026 Muddy Stilettos Awards, and **[Ham Yard Hotel](hotel:ham-yard-hotel)** is about £500 with a 1950s bowling alley in the basement. Our full [Soho and West End hotel guide](/articles/where-to-stay-soho-west-end/) compares nine of them and the four areas five minutes out.
+At the bottom, **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is £33 to £68 for a berth one minute from the Tube.
+
+![A wood-panelled sleeping capsule at Zedwell's Piccadilly Circus capsule hotel, lit by a warm light strip around the pillow](../../assets/articles/best-areas-to-stay-in-london/zedwell-piccadilly-capsule.jpg)
+
+*One of the capsule berths here, each its own lit wooden nook.*
+
+**[Otherwander Soho](hotel:otherwander-soho)** is £62 to £119 on Dean Street.
+
+![An Otherwander Soho sleeping pod with a folded duvet, an orange jacket and a purple backpack hanging beside it, and a bedside touchscreen control panel](../../assets/articles/best-areas-to-stay-in-london/otherwander-soho.jpg)
+
+*One of Otherwander's pods, touchscreen control panel included.*
+
+In the middle, **[Zedwell Piccadilly Circus](hotel:zedwell-piccadilly-circus)** does private windowless rooms at £97 to £287, where the second guest adds about £5.
+
+![A windowless Zedwell Piccadilly Circus room with a raised platform bed, a wall mirror, and a pair of heels and a handbag on the floor](../../assets/articles/best-areas-to-stay-in-london/zedwell-piccadilly-circus.jpg)
+
+*No window in sight - one of the private windowless rooms here.*
+
+At the top, **[Broadwick Soho](hotel:broadwick-soho)** is about £450 and was named the UK's best hotel at the 2026 Muddy Stilettos Awards.
+
+![A Broadwick Soho bedroom with green wallpaper patterned with tigers, elephants and palm trees, an ornate arched mirror, pink table lamps and a floral armchair](../../assets/articles/best-areas-to-stay-in-london/broadwick-soho.jpg)
+
+*The animal-print wallpaper and floral armchair typical of Broadwick's rooms.*
+
+**[Ham Yard Hotel](hotel:ham-yard-hotel)** is about £500 with a 1950s bowling alley in the basement.
+
+![A Ham Yard Hotel bedroom with a brightly patterned forest-scene headboard, cream walls, olive curtains and a mustard armchair](../../assets/articles/best-areas-to-stay-in-london/ham-yard-hotel.jpg)
+
+*One of Ham Yard's rooms, headboard printed with a forest scene.*
+
+Our full [Soho and West End hotel guide](/articles/where-to-stay-soho-west-end/) compares nine of them and the four areas five minutes out.
 
 ### Shoreditch — the best design hotels, and not cheap
 
@@ -110,7 +172,25 @@ The best run of design hotels in London, and not the bargain it is still sold as
 
 **There is no Tube station called Shoreditch**, which catches people out at the booking page. Old Street is the Northern line, Shoreditch High Street is the Overground's Windrush line, and Liverpool Street ten minutes south is the useful one, with the Central line and the Elizabeth line under the same roof. If you are out very late on a Friday, Old Street is the one with no night service — that is the Charing Cross branch business above — while Shoreditch High Street and Liverpool Street both have one.
 
-**[The Hoxton](hotel:the-hoxton-shoreditch)** is about £200 with breakfast hung on your door in a bag, and its room grades are named by size so a Shoebox is exactly that. **[The Z Hotel Shoreditch](hotel:z-hotel-shoreditch)** is about £110 with the same windowless-cheapest-rate catch as the Covent Garden branch. **[nhow London](hotel:nhow-london)** is about £150 with a Big Ben rocket in the lobby. Our full [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares nine of them and five cheaper areas within fifteen minutes.
+**[The Hoxton](hotel:the-hoxton-shoreditch)** is about £200 with breakfast hung on your door in a bag, and its room grades are named by size so a Shoebox is exactly that.
+
+![A Hoxton Shoreditch room with a scalloped grey headboard, a mustard armchair, a desk, and a window looking onto bare trees](../../assets/articles/best-areas-to-stay-in-london/the-hoxton-shoreditch.jpg)
+
+*One of the Hoxton's rooms, desk and reading chair included.*
+
+**[The Z Hotel Shoreditch](hotel:z-hotel-shoreditch)** is about £110 with the same windowless-cheapest-rate catch as the Covent Garden branch.
+
+![A Z Hotel Shoreditch room with a light-wood wall unit holding the TV, and a window looking onto the building opposite](../../assets/articles/best-areas-to-stay-in-london/z-hotel-shoreditch.jpg)
+
+*This room has a window - the windowless catch above applies to the cheapest rate, not every room.*
+
+**[nhow London](hotel:nhow-london)** is about £150 with a Big Ben rocket in the lobby.
+
+![An nhow London room with a pink pop-art portrait of the Queen on a wood-panelled wall, the words "IT'S A LONDON THING" painted beside it, and a Union Jack-patterned rug](../../assets/articles/best-areas-to-stay-in-london/nhow-london.jpg)
+
+*nhow London's playful, London-themed room design - portrait, slogan and Union Jack rug included.*
+
+Our full [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares nine of them and five cheaper areas within fifteen minutes.
 
 ### Spitalfields — Shoreditch's nightlife at sleeping distance
 
@@ -120,7 +200,17 @@ The Georgian streets south of Shoreditch, and the best compromise on this page i
 
 Food after midnight is better here than anywhere else in London. **Beigel Bake on Brick Lane is open twenty-four hours** and sells a salt beef beigel for £7.50, and the Polo Bar opposite Liverpool Street has traded around the clock since 1953.
 
-**[Batty Langley's](hotel:batty-langleys)** is about £230 on cobbled Folgate Street, all dark walls, silk curtains and oil paintings, and next door to Dennis Severs' House. **It has no lift and no air conditioning** — a genuine problem in July or with a heavy case, and the price of a real Georgian building. **[Leman Locke](hotel:leman-locke)** is the studio-with-a-kitchen option, five minutes from Aldgate East, and the one that started the aparthotel format in London.
+**[Batty Langley's](hotel:batty-langleys)** is about £230 on cobbled Folgate Street, all dark walls, silk curtains and oil paintings, and next door to Dennis Severs' House.
+
+![A Batty Langley's bedroom with an ornately carved dark wood four-poster headboard, an antique oil portrait on the wall, and purple damask cushions](../../assets/articles/best-areas-to-stay-in-london/batty-langleys.jpg)
+
+*The carved wood and oil paintings that give Batty Langley's its Georgian character.*
+
+**It has no lift and no air conditioning** — a genuine problem in July or with a heavy case, and the price of a real Georgian building. **[Leman Locke](hotel:leman-locke)** is the studio-with-a-kitchen option, five minutes from Aldgate East, and the one that started the aparthotel format in London.
+
+![A Leman Locke studio with a pink sofa in the foreground and the bed, with its grey headboard and diamond-patterned throw, visible beyond](../../assets/articles/best-areas-to-stay-in-london/leman-locke.jpg)
+
+*The studio layout at Leman Locke, sofa and bed in one open room.*
 
 ---
 
@@ -138,7 +228,13 @@ Three world-class museums — the Natural History Museum, the Science Museum and
 
 South Kensington station is on the Piccadilly, District and Circle lines, with a direct train to Heathrow. **The area is expensive and quiet in the evening** — dinner options thin out fast and the residential streets are dead by nine, so plan on eating early or eating elsewhere.
 
-**[Astor Hyde Park](hotel:astor-hyde-park)** is about £27 a bed in a Victorian townhouse opposite the Royal Albert Hall, with the cornicing and fireplaces intact — but townhouse stairs, no lift, and hard work with a big case. **[Nell Gwynn House](hotel:nell-gwynn-house-pods)** does serviced apartments with their own kitchens in a 1930s mansion block, which is the only self-catering option in this postcode. Our full [South Kensington hotel guide](/articles/where-to-stay-south-kensington/) covers the subway and the step-free problem above it in detail.
+**[Astor Hyde Park](hotel:astor-hyde-park)** is about £27 a bed in a Victorian townhouse opposite the Royal Albert Hall, with the cornicing and fireplaces intact — but townhouse stairs, no lift, and hard work with a big case.
+
+![Astor Hyde Park's communal dining room, with a chalkboard mural reading "WELCOME TO ASTOR HYDE PARK" and listing nearby museums and parks](../../assets/articles/best-areas-to-stay-in-london/astor-hyde-park.jpg)
+
+*The hostel's communal room, its chalkboard mural naming the sights within walking distance.*
+
+**[Nell Gwynn House](hotel:nell-gwynn-house-pods)** does serviced apartments with their own kitchens in a 1930s mansion block, which is the only self-catering option in this postcode. Our full [South Kensington hotel guide](/articles/where-to-stay-south-kensington/) covers the subway and the step-free problem above it in detail.
 
 ### Bermondsey — a kitchen, space and Tower Bridge
 
@@ -148,7 +244,25 @@ The family answer on this page. **Breakfast for four in central London runs £60
 
 **It is a walking area rather than a doorstep one.** Bermonds Locke is about eight minutes from the Tube, the furthest of the Locke sites from a station — it trades connectivity for space and quiet, and with children that is often the right trade.
 
-**[Bermonds Locke](hotel:bermonds-locke)** does desert-toned studios with kitchenettes on Tower Bridge Road. **[Bermondsey Square Hotel](hotel:bermondsey-square-hotel)** is about £180 on the square that holds the Friday antiques market — ask for a room away from the square on market mornings. And **[Shangri-La The Shard](hotel:shangri-la-the-shard)** occupies floors 34 to 52 with a 52nd-floor infinity pool, at about £550, where a low-floor room defeats the entire point. Our full [Bermondsey hotel guide](/articles/where-to-stay-bermondsey/) compares the aparthotels properly.
+**[Bermonds Locke](hotel:bermonds-locke)** does desert-toned studios with kitchenettes on Tower Bridge Road.
+
+![A Bermonds Locke studio's kitchenette and living area, with teal cabinetry, a cream sofa and an orange throw blanket](../../assets/articles/best-areas-to-stay-in-london/bermonds-locke.jpg)
+
+*The kitchenette built into one of Bermonds Locke's studios - this studio runs cooler blue-green tones rather than the desert palette.*
+
+**[Bermondsey Square Hotel](hotel:bermondsey-square-hotel)** is about £180 on the square that holds the Friday antiques market — ask for a room away from the square on market mornings.
+
+![A Bermondsey Square Hotel room with patterned curtains, an illuminated vanity mirror and a pink accent pillow on the bed](../../assets/articles/best-areas-to-stay-in-london/bermondsey-square-hotel.jpg)
+
+*One of the hotel's rooms, mirror lit for the dressing table.*
+
+And **[Shangri-La The Shard](hotel:shangri-la-the-shard)** occupies floors 34 to 52 with a 52nd-floor infinity pool, at about £550, where a low-floor room defeats the entire point.
+
+![A Shangri-La The Shard room high above London, with floor-to-ceiling corner windows looking out over the city and the river below](../../assets/articles/best-areas-to-stay-in-london/shangri-la-the-shard.jpg)
+
+*The view from one of Shangri-La's rooms, high enough to see the city spread out below.*
+
+Our full [Bermondsey hotel guide](/articles/where-to-stay-bermondsey/) compares the aparthotels properly.
 
 ### Greenwich — a park, a market and a hill
 
@@ -174,7 +288,13 @@ East London on the Central line, which is fast into town and one of the six line
 
 Do the arithmetic before booking the cheap one. **[The GreenHouse Capsules](hotel:greenhouse-capsules)** is £42 to £53 a capsule, and that price barely moves all year — which makes it *dearer* than a Zone 1 capsule on a quiet night (£42 against £33) and cheaper in December (£45 against £68). Its Zone 2 address buys you nothing most of the time. It is also tiny, at eight units, with no front desk and entry by code.
 
-**[Town Hall Hotel](hotel:town-hall-hotel)** is the other end: about £220 for a 1910 town hall with the council chamber and marble staircases intact, a 14-metre pool and the two-Michelin-starred Da Terra in the building. Time Out has called it the best hotel in London, and it costs half what the equivalent would in Zone 1.
+**[Town Hall Hotel](hotel:town-hall-hotel)** is the other end: about £220 for a 1910 town hall with the council chamber and marble staircases intact, a 14-metre pool and the two-Michelin-starred Da Terra in the building.
+
+![A Town Hall Hotel bedroom with wood panelling, mustard-gold cushions on the bed, and herringbone parquet flooring](../../assets/articles/best-areas-to-stay-in-london/town-hall-hotel.jpg)
+
+*One of the rooms inside the converted 1910 town hall.*
+
+Time Out has called it the best hotel in London, and it costs half what the equivalent would in Zone 1.
 
 ### Canary Wharf — the area that discounts when everywhere else does not
 
@@ -248,7 +368,19 @@ Immediately north of Oxford Street and immediately west of Bloomsbury, which put
 
 Charlotte Street is the densest run of restaurants in central London and the area is calm at night in a way Soho five minutes south is not. Warren Street and Goodge Street are on the Northern line and Oxford Circus adds the Central and the Victoria, so getting anywhere from here takes one train.
 
-**[The Grafton Arms](hotel:the-grafton-arms)** is about £150 for eleven boutique rooms over a working pub with a roof terrace — **no lift, and some noise from downstairs at weekends**. **[Sanderson London](hotel:sanderson-london)** is about £280, a Philippe Starck interior around an eighty-foot Long Bar that draws a non-resident crowd. **[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 with a private screening room, on the restaurant street itself.
+**[The Grafton Arms](hotel:the-grafton-arms)** is about £150 for eleven boutique rooms over a working pub with a roof terrace — **no lift, and some noise from downstairs at weekends**.
+
+**[Sanderson London](hotel:sanderson-london)** is about £280, a Philippe Starck interior around an eighty-foot Long Bar that draws a non-resident crowd.
+
+![A Sanderson London room with a grey sleigh bed, a round yellow breakfast table set with coffee and a croissant, and a private terrace beyond the glass doors](../../assets/articles/best-areas-to-stay-in-london/sanderson-london.jpg)
+
+*One of Sanderson's rooms, opening onto its own terrace.*
+
+**[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 with a private screening room, on the restaurant street itself.
+
+![A Charlotte Street Hotel room with star-patterned blue walls and ceiling, and a richly patterned arched headboard](../../assets/articles/best-areas-to-stay-in-london/charlotte-street-hotel.jpg)
+
+*One of Charlotte Street Hotel's eclectically decorated rooms, walls painted with stars.*
 
 ### Paddington — 15 minutes from Heathrow
 
@@ -268,7 +400,17 @@ The best airport base in London by a distance. **Heathrow Express is 15 minutes 
 
 **It is expensive and it does not really have an evening**, in the sense that Mayfair's restaurants are destinations rather than a scene and the streets are empty by eleven. That is a virtue if you are here to sleep between a late arrival and an early flight.
 
-**[Zedwell Park Lane](hotel:zedwell-park-lane)** is the anomaly: £90 to £207 for a windowless underground Cocoon 2 with a Park Lane address, one minute from Hyde Park Corner — within a pound of Knightsbridge on a quiet night and about £50 under it on an October Saturday. It is new enough to be barely reviewed. **[Native Mayfair](hotel:native-mayfair)** does apartments with kitchens on a mews off Grosvenor Square, three minutes from Bond Street.
+**[Zedwell Park Lane](hotel:zedwell-park-lane)** is the anomaly: £90 to £207 for a windowless underground Cocoon 2 with a Park Lane address, one minute from Hyde Park Corner — within a pound of Knightsbridge on a quiet night and about £50 under it on an October Saturday.
+
+![A windowless Zedwell Park Lane Cocoon room with a warm-lit wood alcove bed, a sherpa coat hanging beside it, and trainers on the floor](../../assets/articles/best-areas-to-stay-in-london/zedwell-park-lane.jpg)
+
+*Another windowless Cocoon room, this one at the Park Lane branch.*
+
+It is new enough to be barely reviewed. **[Native Mayfair](hotel:native-mayfair)** does apartments with kitchens on a mews off Grosvenor Square, three minutes from Bond Street.
+
+![A Native Mayfair bathroom with a freestanding tub full of bubbles, a wooden tray of bath products across it, and a window looking onto a garden trellis](../../assets/articles/best-areas-to-stay-in-london/native-mayfair.jpg)
+
+*The bathroom in one of Native Mayfair's apartments.*
 
 ---
 
