@@ -52,9 +52,15 @@ The name covers about a mile, and the difference between its ends is the differe
 
 *About £200 · Breakfast included · Shoebox to Roomy · [check prices](hotel:the-hoxton-shoreditch)*
 
+<div class="photo-row">
+
 ![The open lobby at The Hoxton, Shoreditch: a brass ring chandelier over armchairs, an exposed brick fireplace, a herringbone bar under a Hoxton Grill sign, and a red bus passing the window](../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-lobby.webp)
 
-*The lobby the format is named after: a bar, a fireplace and armchairs that fill up with people who are not staying here.*
+![A twin room at The Hoxton, Shoreditch, with a mustard velvet armchair, a curved grey headboard and a writing desk with a retro-style radio](../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-room.jpg)
+
+</div>
+
+*Left: the lobby the format is named after, a bar and fireplace that fill up with people who are not staying here. Right: a twin room with a mustard velvet chair and warm parquet flooring.*
 
 The hotel that made the open-lobby-as-workspace format normal, and still the best example of it. The ground floor is genuinely full of locals working and meeting rather than only guests, which is the thing most imitators never manage.
 
@@ -70,13 +76,29 @@ The compact-room format on the Shoreditch edge of the City. At £110 it is the o
 
 **The catch is real and worth spelling out.** The cheapest rate is an "Inside" room, which has **no window at all** — the same format as the Covent Garden branch — and people book it by accident because the booking page does not lead with it. Pay up a grade unless you genuinely do not mind, which some people do not.
 
+<div class="photo-row">
+
+![A compact room at the Z Hotel Shoreditch with a wall-mounted TV on a wood panel, and two tall windows looking out over the street](../../assets/articles/where-to-stay-shoreditch/z-hotel-shoreditch-room.jpg)
+
+![A compact ensuite bathroom at the Z Hotel Shoreditch with a sliding glass shower door and a round sink](../../assets/articles/where-to-stay-shoreditch/z-hotel-shoreditch-bathroom.jpg)
+
+</div>
+
+*A room and its ensuite — this grade has a window, unlike the windowless "Inside" rate described above.*
+
 ### One Hundred Shoreditch — the calm one
 
 *About £180 · Six bars and restaurants · [check prices](hotel:one-hundred-shoreditch)*
 
+<div class="photo-row">
+
 ![A twin room with a large grey geometric mural above the beds, patchwork denim quilts, a black ceiling and adjustable wall lights](../../assets/articles/where-to-stay-shoreditch/one-hundred-shoreditch-room.webp)
 
-*A twin room in the old Ace building. The murals are the part people photograph.*
+![A bathroom at One Hundred Shoreditch with white subway tiles, a black-framed mirror and a walk-in glass shower, with rolled towels in a wicker basket](../../assets/articles/where-to-stay-shoreditch/one-hundred-shoreditch-bathroom.jpg)
+
+</div>
+
+*Left: a twin room in the old Ace building — the murals are the part people photograph. Right: the bathroom, white subway tile with a walk-in shower.*
 
 Rooms vary a lot for one hotel — whitewashed walls, tapestry hangings and pine in some, a wall-filling graphic mural and patchwork quilts in others — with cult DS & Durga toiletries throughout. Time Out described it as staying in the spare room of an impossibly fashionable friend, which is about right.
 
@@ -87,6 +109,16 @@ Rooms vary a lot for one hotel — whitewashed walls, tapestry hangings and pine
 *About £220 · Thirty-seven rooms · Cecconi's downstairs*
 
 Soho House quality without needing to be a member — **Shoreditch House is round the corner and members only**. Thirty-seven rooms in a 1970s interior with Cowshed products and a ground-floor Cecconi's.
+
+<div class="photo-row">
+
+![A room at Redchurch Townhouse with a rust velvet headboard, a six-arm chandelier and two leather armchairs](../../assets/articles/where-to-stay-shoreditch/redchurch-townhouse-room.jpg)
+
+![A bathroom at Redchurch Townhouse with white subway tile, a walk-in shower and Cowshed products on the marble-topped vanity](../../assets/articles/where-to-stay-shoreditch/redchurch-townhouse-bathroom.jpg)
+
+</div>
+
+*Left: a room with a rust velvet headboard and a mid-century chandelier. Right: the bathroom, with the Cowshed toiletries used throughout.*
 
 Small and quiet for the area, and the closest thing here to a hotel that does not want to be a scene. **Cecconi's on the ground floor is open to non-residents**, which is worth knowing both ways round: you can eat there without staying, and the restaurant is busy enough on a Friday that the lobby is not a quiet place to arrive into.
 
@@ -100,6 +132,10 @@ It sits on Whitby Street, a side turning off Redchurch Street rather than on it,
 
 Dark walls, floor-to-ceiling silk curtains, antiques and oil paintings on a cobbled Spitalfields street. Closer to staying inside a Georgian house museum than a hotel, and next door to Dennis Severs' House, which is literally that.
 
+![A room at Batty Langley's with dark wood panelling, a gilt-framed mirror and an antique writing desk](../../assets/articles/where-to-stay-shoreditch/batty-langleys-room.jpg)
+
+*One of the individually decorated rooms — dark panelling, an antique desk and a gilt mirror, with no two alike.*
+
 **No lift and no air conditioning.** That is the trade for a genuine period building, and it is a real one in a July heatwave or with a heavy case — ask for a lower floor if either matters, because the staircase is Georgian and narrow.
 
 **Rooms are individually decorated**, which here is literal rather than marketing: they are not variations on one scheme, so the room you see online is the room, and choosing matters more than usual. Doubles and suites only.
@@ -112,6 +148,16 @@ It is on Folgate Street in Spitalfields, **seven minutes from Liverpool Street**
 
 A wellness-minded rebrand of the former Nobu Hotel Shoreditch, with floor-to-ceiling windows, a members'-club feel and an underground spa with steam and sauna, minutes from Brick Lane and Old Street.
 
+<div class="photo-row">
+
+![A room at Aethos London Shoreditch with a wood-fronted TV cabinet, a concrete accent wall and a floor-to-ceiling window](../../assets/articles/where-to-stay-shoreditch/aethos-london-shoreditch-room.jpg)
+
+![A bathroom at Aethos London Shoreditch with a free-standing tub under a sloped skylight window and gold fixtures](../../assets/articles/where-to-stay-shoreditch/aethos-london-shoreditch-bathroom.jpg)
+
+</div>
+
+*Left: a room with a concrete accent wall and floor-to-ceiling windows. Right: the bathroom, with a free-standing tub under the roofline.*
+
 **Rooms lean small for the price**, which is the Shoreditch trade-off in general. There are four grades — double, executive, premium and Skyline suite — and **the top-floor Skyline rooms have private balconies**, which are the ones worth booking ahead for and the only reason to pay the top of the range.
 
 **The spa is the thing that justifies the £250**, and it is underground rather than a token treatment room: steam and sauna, and quiet in a way nothing else at street level in Shoreditch manages. Check whether your rate includes access when you book, because that is where the difference between this and One Hundred at £180 actually sits.
@@ -122,9 +168,15 @@ Willow Street is a side street off Great Eastern Street — **close enough to th
 
 *About £250 · Heated rooftop pool, open all year · [check prices](hotel:mondrian-shoreditch)*
 
+<div class="photo-row">
+
 ![A lit rooftop pool at night with a mosaic patterned floor, festoon lights strung overhead, an olive tree in a pot and a glass-walled bar alongside, with City towers behind](../../assets/articles/where-to-stay-shoreditch/virgin-hotels-shoreditch-rooftop-pool.webp)
 
-*Heated, and open through the winter. The bar runs alongside it behind glass, which is where the weekend crowd sits.*
+![A room at Virgin Hotels London-Shoreditch with a dark brick accent wall, framed prints, an olive green armchair and floor-to-ceiling windows opening onto a terrace](../../assets/articles/where-to-stay-shoreditch/virgin-hotels-shoreditch-room.jpg)
+
+</div>
+
+*Left: the heated rooftop pool, with the bar running alongside it behind glass. Right: a room with a dark brick wall and floor-to-ceiling windows onto a private terrace.*
 
 A heated rooftop pool and terrace open year-round over Shoreditch, which is why guests pick this over the area's other design hotels.
 
@@ -137,6 +189,16 @@ A heated rooftop pool and terrace open year-round over Shoreditch, which is why 
 *About £150 · Punk-meets-high-tech · 2 Macclesfield Road, EC1V 8DG · [check prices](hotel:nhow-london)*
 
 Project Orange's interior, complete with a Big Ben rocket sculpture in the lobby and graffiti throughout — British iconography played entirely for fun. Design-forward at a mid-range price, which is genuinely unusual.
+
+<div class="photo-row">
+
+![A room at nhow London with a Union Jack rug, a graphic portrait on the headboard wall and "IT'S A LONDON THING" painted on the wall](../../assets/articles/where-to-stay-shoreditch/nhow-london-room.jpg)
+
+![A bathroom at nhow London with dark floral wallpaper, a freestanding tub and gold fixtures](../../assets/articles/where-to-stay-shoreditch/nhow-london-bathroom.jpg)
+
+</div>
+
+*Left: the graffiti and Union Jack rug that make the theme, in one of the rooms. Right: a bathroom in the same playful style, floral wallpaper and gold fixtures.*
 
 **The theme is committed rather than tasteful, and that is the point.** If you want a calm room this is the wrong hotel; if you want the most fun per pound in the area it is the right one.
 
@@ -154,6 +216,10 @@ A tower wrapped in twisted black fins with the street artist D*Face's work runni
 
 Two practical notes. **Breakfast is about £56 extra**, which is a lot on top of £230. And Solaya, the 25th-floor restaurant, closes Sundays and Mondays — worth knowing if the view is why you booked.
 
+![A room at art'otel London Hoxton, with D*Face artwork on the wall, amber glass panelling and a curved cream sofa](../../assets/articles/where-to-stay-shoreditch/artotel-london-hoxton-room.jpg)
+
+*A room at art'otel London Hoxton — D*Face's work on the wall, the amber glass panelling running through the tower.*
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-shoreditch-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay near Shoreditch instead
@@ -168,6 +234,16 @@ Quieter at night, and the transport is better: **the Elizabeth line puts you at 
 
 **The reason to choose this over Shoreditch proper is the night, in both senses.** The streets are commercial rather than residential, so they empty rather than fill after dark, and Liverpool Street is one of the best-connected points in London — the Elizabeth line, the Central line, the Circle, Hammersmith & City and Metropolitan, plus National Rail out to Stansted. **[Batty Langley's](hotel:batty-langleys)** and **[Leman Locke](hotel:leman-locke)** both sit in this pocket, the first a Georgian townhouse and the second an aparthotel with kitchens.
 
+<div class="photo-row">
+
+![A room at Leman Locke with a pink modular sofa and a bed with a grey headboard, visible through an open partition](../../assets/articles/where-to-stay-shoreditch/leman-locke-room.jpg)
+
+![A bathroom at Leman Locke with a marble-topped vanity, a vessel sink and a walk-in shower](../../assets/articles/where-to-stay-shoreditch/leman-locke-bathroom.jpg)
+
+</div>
+
+*Left: the open-plan studio at Leman Locke, sofa and bed in one room. Right: the bathroom.*
+
 The trade is that it is dull on a Sunday. Aldgate in particular has very little open at the weekend, so plan to walk north for food.
 
 ### The City of London — cheapest at weekends
@@ -175,6 +251,16 @@ The trade is that it is dull on a Sunday. Aldgate in particular has very little 
 The counterintuitive one, and the best value in this guide. **The City empties out at weekends**, so hotels that charge business rates from Monday to Thursday discount hard on Friday and Saturday — the opposite of the pattern everywhere else in London.
 
 **[Locke at Broken Wharf](hotel:locke-at-broken-wharf)** is about £190 midweek and worth checking against a Shoreditch room for the same Saturday. Ten minutes away by bus or twenty on foot, on the river between Blackfriars and the Millennium Bridge, and the rooms are studios with kitchens rather than hotel rooms — which matters more than the price if you are staying several nights.
+
+<div class="photo-row">
+
+![A room at Locke at Broken Wharf with green walls, a wood headboard and windows overlooking the river](../../assets/articles/where-to-stay-shoreditch/locke-at-broken-wharf-room.jpg)
+
+![A bathroom at Locke at Broken Wharf with a walk-in shower and a floating sink](../../assets/articles/where-to-stay-shoreditch/locke-at-broken-wharf-bathroom.jpg)
+
+</div>
+
+*Left: a studio at Locke at Broken Wharf, with green walls overlooking the river. Right: the bathroom.*
 
 **The way to use this is to price the same Saturday twice**, once in Shoreditch and once in the City, and take whichever wins. There is no loyalty to be had here: the gap swings by more than £80 depending on the week, and it is the only area in this guide where the weekend is the cheap end.
 
@@ -192,11 +278,33 @@ What you get for the lower price is a working East End high street rather than a
 
 **Staycity Aparthotels Dalston** is about £130 for an apartment with a kitchen, which is the best value in this whole guide if you are staying more than two nights or travelling with family.
 
+![A studio at Staycity Aparthotels Dalston with a kitchenette and a bed, showing the apartment-style layout](../../assets/articles/where-to-stay-shoreditch/staycity-dalston-room.jpg)
+
+*One of the apartments, kitchenette and bed in the same room — the reason this is the best value in the guide for longer stays.*
+
 **[The GreenHouse Capsules](hotel:greenhouse-capsules)** on Roman Road is £42 to £53 if you can sleep in a capsule — a range of eleven pounds across a whole year, which makes it the most predictable bed in this guide. It is dearer than Zone 1 on a quiet night and cheaper in December, which our [pod hotels guide](/articles/pod-hotels-london/) goes into properly. **[Town Hall Hotel](hotel:town-hall-hotel)** in Bethnal Green is about £220 and a genuinely special building — a 1930s town hall, with an Art Deco council chamber you can walk into.
+
+![A room at Town Hall Hotel with mustard cushions, wood panelling and a sheepskin rug on parquet flooring](../../assets/articles/where-to-stay-shoreditch/town-hall-hotel-room.jpg)
+
+*One of the rooms at Town Hall Hotel, with warm wood tones and a herringbone parquet floor.*
 
 ### Stratford — fifteen minutes, from £100
 
 **Premier Inn London Stratford** is about £100 and fifteen minutes from Liverpool Street on the Central line. **[Hyatt Regency London Stratford](hotel:hyatt-regency-stratford)** is about £170.
+
+<div class="photo-row">
+
+![A room at Premier Inn London Stratford, with a teal headboard, purple accent curtains and a city view through the window](../../assets/articles/where-to-stay-shoreditch/premier-inn-stratford-room.jpg)
+
+![The bathroom at Premier Inn London Stratford, with a purple glass shower panel in the brand's signature accent colour](../../assets/articles/where-to-stay-shoreditch/premier-inn-stratford-bathroom.jpg)
+
+</div>
+
+*A room at Premier Inn London Stratford, and its bathroom in the brand's signature purple.*
+
+![A room at Hyatt Regency London Stratford, with a tan leather headboard, a blue sofa and abstract art on the wall](../../assets/articles/where-to-stay-shoreditch/hyatt-regency-stratford-room.jpg)
+
+*A room at Hyatt Regency London Stratford.*
 
 Stratford is not charming, but it is the answer if the priority is a decent room at a fair price with fast trains — and Westfield, the Olympic Park and the Elizabeth line are all on top of it.
 
