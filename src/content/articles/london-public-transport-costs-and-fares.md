@@ -172,7 +172,7 @@ The **Hopper Fare** allows you to make unlimited bus and tram journeys across Lo
 * **60-minute window:** Any additional bus or tram you board within 60 minutes of your first touch-in is automatically free.
 * **Tube transfers:** Taking the Underground in between two bus rides does not cancel your 60-minute Hopper window (the Tube fare is charged separately, but your second bus remains free if boarded within 60 minutes of the first).
 
-For detailed journey scenarios, read the [worked examples in our bus and tram guide](/articles/how-to-use-london-buses-and-trams/#changing-between-a-bus-and-the-underground).
+For detailed journey scenarios, read the [worked examples in our bus and tram guide](/articles/how-to-use-london-buses-and-trams/#mixing-buses-and-the-underground).
 
 ### Confirmed fare rise from 1 November 2026
 
@@ -183,19 +183,16 @@ For detailed journey scenarios, read the [worked examples in our bus and tram gu
 | 1-Day Bus & Tram Pass | £6.00 | **£6.40** |
 | 7-Day Bus & Tram Pass | £24.70 | **£26.10** |
 
-## Summer 2026 Weekend Hopper Trial
+## The Summer 2026 Weekend Hopper trial has ended
 
-Between **25 July and 31 August 2026** (including the August Bank Holiday Monday), TfL is running a special **Weekend Hopper trial** offering unlimited bus and tram travel across London for just **£1.75 per day**.
+To mark ten years of the Hopper fare, TfL ran a **Weekend Hopper trial** between **25 July and 31 August 2026** offering unlimited bus and tram travel across London for just **£1.75 per day**. It ended at 23:59 on Monday 31 August 2026 and has not been extended or made permanent — standard fares and the ordinary 60-minute Hopper rule (above) apply again.
 
-> 💡 **Summer Trial Key Rules:**
-> * **£1.75 per day:** A single £1.75 tap gives you unlimited bus and tram rides all day Saturday (from 04:30 through 04:29 Sunday morning). A second £1.75 tap covers all of Sunday.
-> * **Full Weekend for £3.50:** Unlimited bus and tram travel across both weekend days costs just £3.50 in total.
-> * **Automatic discount:** Applies automatically when using the exact same contactless card, phone, or Oyster card.
-> * **Buses & Trams only:** Tube, DLR, Elizabeth line, and rail journeys are billed separately.
+> 💡 **What the trial offered, for reference:**
+> * **£1.75 per day:** A single £1.75 tap gave unlimited bus and tram rides all day Saturday (04:30 through 04:29 Sunday morning), and a second £1.75 tap covered all of Sunday.
+> * **Full weekend for £3.50:** Unlimited bus and tram travel across both weekend days cost £3.50 in total.
+> * **Buses & trams only:** Tube, DLR, Elizabeth line and rail journeys were billed separately.
 
-*(Note: Standard 60-minute Hopper rules continue on weekdays and will resume full-time after the trial concludes on 31 August 2026).*
-
-Read our complete advice on [Using the Weekend Hopper for Sightseeing](/articles/how-to-use-london-buses-and-trams/#summer-2026-weekend-hopper).
+It's worth checking TfL nearer next summer — a trial that ran once may run again, but nothing has been announced. Read more in our [bus and tram guide](/articles/how-to-use-london-buses-and-trams/#the-weekend-hopper-trial-has-ended).
 
 ## National Rail and airport rail fares
 
@@ -217,7 +214,7 @@ Heathrow has three rail options at very different prices: the Piccadilly line is
 
 * **Gatwick (LGW):** Compare Thameslink (serving London Bridge, Blackfriars, and St Pancras) with Southern Trains and Gatwick Express to Victoria. Thameslink is often cheaper and more convenient for Central London. Read our [Gatwick Airport Transport Guide](/articles/gatwick-airport-to-london/).
 * **Stansted & Luton:** Both airports accept contactless cards, but **do not accept Oyster cards**. 
-* **Complete Airport Overview:** Read our [London Airport Transport Overview](/articles/getting-around-london-transport-guide/#travelling-to-and-from-londons-airports) for all six London airports.
+* **Complete Airport Overview:** Read our [London Airport Transport Overview](/articles/getting-around-london-transport-guide/#travelling-to-and-from-londons-6-airports) for all six London airports.
 
 ## River Bus prices
 

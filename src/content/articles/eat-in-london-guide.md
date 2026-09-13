@@ -212,6 +212,8 @@ Classic culinary experiences that belong on every London itinerary:
 * [**Fish and Chips**](/articles/best-fish-and-chips-london/) — The shops that still fry to order, and the two that use beef dripping.
 * [**Afternoon Tea**](/articles/best-afternoon-tea-london/) — 22 compared, with the dress codes and the real prices.
 * [**Historic Pubs and Dining Rooms**](/articles/historic-pubs-dining-rooms-london/) — London's oldest rooms, including *Rules*, *Wiltons* and the pubs that predate the Great Fire.
+* [**Craft Beer Pubs**](/articles/best-craft-beer-pubs-london/) — CAMRA's branch winners, the Bermondsey and Blackhorse beer miles, and 34 sources cross-referenced across 325 pubs and taprooms.
+* [**Wetherspoons**](/articles/best-wetherspoons-pubs-london/) — Six landmark buildings verified building by building, the real prices, and the case for the chain.
 
 ---
 
@@ -238,7 +240,7 @@ One place, in case you would rather scan a list than a page.
 
 **By dietary rule:** [Kosher](/articles/best-kosher-restaurants-london/) · [Vegetarian and vegan](/articles/best-vegetarian-vegan-restaurants-london/)
 
-**By budget, occasion and room:** [Street food](/articles/best-street-food-london/) · [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Eating outside](/articles/eat-outside-london/) · [Rooms worth photographing](/articles/most-instagrammable-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
+**By budget, occasion and room:** [Street food](/articles/best-street-food-london/) · [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Craft beer pubs](/articles/best-craft-beer-pubs-london/) · [Wetherspoons](/articles/best-wetherspoons-pubs-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Eating outside](/articles/eat-outside-london/) · [Rooms worth photographing](/articles/most-instagrammable-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
 
 **By occasion and for paying less:** [Bottomless brunch](/articles/bottomless-brunch-london/) · [Restaurant deals](/articles/restaurant-deals-london/) · [Off-peak booking apps](/articles/off-peak-restaurant-apps-london/) · [Discount cards](/articles/restaurant-discount-cards-london/) · [Kids eat free](/articles/kids-eat-free-london/) · [Open on Christmas Day](/articles/christmas-day-restaurants-london/)
 

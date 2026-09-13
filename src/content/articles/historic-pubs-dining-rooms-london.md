@@ -370,6 +370,8 @@ If you want a defensible answer to "which is oldest": **The Seven Stars** has th
 
 ## Continue planning your London trip
 
+- 🍻 **[The Best Craft Beer Pubs in London](/articles/best-craft-beer-pubs-london/)**
+- 🍺 **[The Best Wetherspoons in London](/articles/best-wetherspoons-pubs-london/)**
 - 🥩 **[The Best Sunday Roast in London](/articles/best-sunday-roast-london/)**
 - 🫖 **[The Best Afternoon Tea in London](/articles/best-afternoon-tea-london/)**
 - 🎪 **[Unusual Restaurants in London](/articles/unusual-restaurants-london/)**

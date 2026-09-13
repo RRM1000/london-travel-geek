@@ -478,6 +478,7 @@ Order at the bar or through the app. No table service, no music, no booking.
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
+- 🍺 **[The Best Wetherspoons in London](/articles/best-wetherspoons-pubs-london/)**
 - 🐟 **[The Best Fish and Chips in London](/articles/best-fish-and-chips-london/)**
 - 🍕 **[The Best Pizza in London](/articles/best-pizza-london/)**
 - 🎪 **[Free Things to Do in London](/free/)**
