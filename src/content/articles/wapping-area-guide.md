@@ -24,7 +24,7 @@ area:
   bestDay: "Any day; Saturday for the market on Shadwell Basin, sunny afternoons for the pub terraces"
   walkingRoute:
     slug: "wapping-canary-wharf-walk"
-    label: "Wapping to Canary Wharf along the docks"
+    label: "Four riverside pubs, Wapping to Canary Wharf"
     detail: "11 stops · 6km · 3–4 hours"
   bestFor:
     - Historic pubs
@@ -154,7 +154,7 @@ North. A **Grade I listed warehouse of 1812**, built to hold imported tobacco an
 | --- | --- | --- | --- |
 | **The Prospect of Whitby** | Historic pub | ££ | The oldest claim in London, with a river terrace |
 | **The Town of Ramsgate** | Historic pub | ££ | Narrow, dark and right beside Execution Dock |
-| **The Captain Kidd** | Riverside pub | ££ | A converted warehouse with the best beer garden on this stretch |
+| **The Captain Kidd** | Riverside pub | ££ | A former coffee warehouse on three floors, with a terrace over the river |
 | **Smith's of Wapping** | Seafood | £££ | A first-floor dining room with the river filling the windows |
 | **St Katharine Docks** | Mixed | ££ | Marina-side restaurants, the reliable option for a meal |
 | **Turner's Old Star** | Backstreet pub | £ | Named for the painter, who reportedly kept it for his mistress |
@@ -183,9 +183,9 @@ North. A **Grade I listed warehouse of 1812**, built to hold imported tobacco an
 
 ## Walking routes
 
-**[A Walk from Wapping to Canary Wharf: Docks, a Canal and the River in Eleven Stops →](/articles/wapping-canary-wharf-walk/)**
+**[A Riverside Pub Walk from Wapping to Canary Wharf: Four Historic Pubs in Eleven Stops →](/articles/wapping-canary-wharf-walk/)**
 
-Our full route out of this area: **eleven numbered stops** over just under 6km and three to four hours, with a map, a Google Maps walking link and what is open on which day. It starts at **St Katharine Docks**, follows the **Ornamental Canal** past Spirit Quay, Tobacco Dock and Wapping Woods, stops at the **Prospect of Whitby** and the **Saturday market** on Shadwell Basin, crosses Tideway's new **King Edward Memorial Park Foreshore**, and finishes via **Limehouse Basin** and **Narrow Street** at Canary Wharf, where the walk to Greenwich begins.
+Our full route out of this area: **eleven numbered stops** over just over 6km and three to four hours, with a map, a Google Maps walking link, each pub's hours and kitchen times, and what is open on which day. It is built around four historic pubs: the **Town of Ramsgate** and the **Captain Kidd** on Wapping High Street, the **Prospect of Whitby** on Wapping Wall and **The Grapes** on Narrow Street. Between them it follows the **Ornamental Canal** through Wapping Woods to the **Saturday market** on Shadwell Basin, crosses Tideway's new **King Edward Memorial Park Foreshore**, and finishes via **Limehouse Basin** at Canary Wharf, where the walk to Greenwich begins. Tobacco Dock and the Yurt Café are optional detours.
 
 ### The short version, if you only have two hours
 

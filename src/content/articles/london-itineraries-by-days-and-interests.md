@@ -52,7 +52,7 @@ Every one of these is free, mapped stop by stop, and says what is open on which 
 - **[Chelsea and Belgravia](/articles/chelsea-belgravia-plaques-walk/)** — a walk between blue plaques
 - **[Baker Street to Marylebone](/articles/regents-park-marylebone-walk/)** — through Regent's Park to Marylebone High Street
 - **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — Fitzroy Square to Savile Row, the arcades and Green Park
-- **[Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/)** — old docks, riverside pubs and Limehouse Basin
+- **[Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/)** — four historic riverside pubs, the Ornamental Canal and Limehouse Basin
 - **[Canary Wharf to Greenwich](/articles/canary-wharf-greenwich-walk/)** — under the river through the foot tunnel
 
 [All walks →](/tags/walks/)

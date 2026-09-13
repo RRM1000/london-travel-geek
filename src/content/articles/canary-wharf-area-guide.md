@@ -241,9 +241,9 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 Our full route out of this area: **eleven numbered stops** over about 6.5km and three to four hours, with a map, a Google Maps walking link for your phone and what is open on which day. It opens with the **Crossrail Place Roof Garden** and the free **London Museum Docklands**, walks the docks south past **Mudchute Farm** to Island Gardens, then goes under the Thames through the **Greenwich Foot Tunnel** and finishes at the Prime Meridian. It also carries the **live foot-tunnel lift status**, which is what decides whether that crossing is step-free on the day you go.
 
-**[A Walk from Wapping to Canary Wharf: Docks, a Canal and the River in Eleven Stops →](/articles/wapping-canary-wharf-walk/)**
+**[A Riverside Pub Walk from Wapping to Canary Wharf: Four Historic Pubs in Eleven Stops →](/articles/wapping-canary-wharf-walk/)**
 
-The route in from the west, finishing at the roof garden where the Greenwich walk starts: **eleven stops**, just under 6km, from **St Katharine Docks** along the Ornamental Canal to Tideway's new riverside park at Shadwell, then **Limehouse Basin** and **Narrow Street**. Walk it on a Saturday for the market on Shadwell Basin.
+The route in from the west, finishing at the roof garden where the Greenwich walk starts: **eleven stops**, just over 6km, from **St Katharine Docks** past four historic riverside pubs — the **Town of Ramsgate**, the **Captain Kidd**, the **Prospect of Whitby** and **The Grapes** on Narrow Street — with the Ornamental Canal, Tideway's new riverside park at Shadwell and **Limehouse Basin** in between. Walk it on a Saturday for the market on Shadwell Basin.
 
 ### The short version, if you only have two hours here
 
@@ -261,7 +261,7 @@ The route in from the west, finishing at the roof garden where the Greenwich wal
 2. **Planning a Sunday shopping trip.** The malls keep short Sunday hours. Everything else is open.
 3. **Missing the roof garden.** It is on top of the station and free, and most visitors walk underneath it without knowing.
 4. **Taking the Jubilee line from the City.** The Elizabeth line from Liverpool Street takes six minutes.
-5. **Walking here from the Tower along the main roads.** It is about 6km. If you want to walk it, follow the docks and the Ornamental Canal on our [Wapping to Canary Wharf walk](/articles/wapping-canary-wharf-walk/); if you just want to arrive, take the DLR.
+5. **Walking here from the Tower along the main roads.** It is about 6km. If you want to walk it, take the riverside pubs and the Ornamental Canal on our [Wapping to Canary Wharf pub walk](/articles/wapping-canary-wharf-walk/); if you just want to arrive, take the DLR.
 6. **Looking for a viewing platform.** There is not one anywhere in Canary Wharf. One has been proposed for 8 Canada Square, but building cannot start until HSBC leaves in 2027, so it is years away. The free views are Horizon 22 and the Sky Garden in the City.
 7. **Expecting the ice rink.** It ran for years in Canada Square Park but is **paused for winter 2026**. Winter Lights in January is unaffected.
 
