@@ -1,7 +1,7 @@
 ---
 title: "Day Trips from London: What They Cost and How Long They Take"
 seoTitle: "Day Trips from London: Times, Fares and Costs"
-description: "Windsor, Oxford, Cambridge and the Harry Potter Studio Tour, with real fares, journey times, entry prices and closure days — plus where else is worth the train."
+description: "Windsor, Oxford, Cambridge, Bath, Stonehenge, the Cotswolds and the Harry Potter Studio Tour compared, with real fares, journey times, entry prices and closure days."
 publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
@@ -24,14 +24,14 @@ faq:
   - q: "Do you need to book day trips in advance?"
     a: "Book the attraction, not always the train. Windsor Castle and the Studio Tour must be pre-booked, and the Studio Tour sells nothing on the door. Train fares are cheaper booked in advance for Oxford and Cambridge, but off-peak walk-up fares are fine for Windsor."
   - q: "Do you need a car for day trips from London?"
-    a: "Not for the places on this page: all four are quicker and cheaper by train. A car only earns its keep for the countryside, such as the Cotswolds or the South Downs, where the villages have no station."
+    a: "Not for most of them. Windsor, Oxford, Cambridge, Bath and the Studio Tour are quicker and cheaper by train. A car or a coach tour earns its keep for Stonehenge and the Cotswolds, where the useful stations are a bus ride away from what you came to see."
 ---
 
 The good day trips from London are all about an hour away, and the money is in the entry ticket rather than the train. What follows is priced and timed: what the journey costs, what you pay when you arrive, how long the day takes, and which days the doors are shut.
 
-> 💡 **The Short Version:** **Windsor** is the shortest and cheapest journey, and its castle is **closed on Tuesdays and Wednesdays**. **Oxford** is cheapest by coach, **Cambridge** by advance single. The **Harry Potter Studio Tour** must be booked weeks ahead and sells nothing on the door. **Contactless works to Windsor and Watford, but Oyster does not** — and neither works to Oxford or Cambridge.
+> 💡 **The Short Version:** **Windsor** is the shortest and cheapest journey, and its castle is **closed on Tuesdays and Wednesdays**. **Oxford** is cheapest by coach, **Cambridge** by advance single. The **Harry Potter Studio Tour** must be booked weeks ahead and sells nothing on the door. **Contactless works to Windsor and Watford, but Oyster does not** — and neither works to Oxford or Cambridge. **Bath** is 1h15 from Paddington and cheapest with advance tickets. **Stonehenge** and **the Cotswolds** are the two where a coach tour genuinely beats the train.
 
-## The four, compared
+## The seven, compared
 
 | Destination | From | Journey | Return fare | The main ticket |
 | --- | --- | --- | --- | --- |
@@ -39,12 +39,15 @@ The good day trips from London are all about an hour away, and the money is in t
 | **[Oxford](/articles/oxford-day-trip/)** | Paddington or Marylebone | About 1 hour | Coach is the cheap option | Colleges charge separately; museums free |
 | **[Cambridge](/articles/cambridge-day-trip/)** | King's Cross | **49 min** fast | Advance from £15.20 single | King's College **£16.75**, punting from £28.50 |
 | **[Harry Potter Studio Tour](/articles/harry-potter-studio-tour/)** | Euston to Watford Junction | 18–21 min, then a free bus | £7.20 off-peak each way | **£58.50**, pre-booked only |
+| **[Bath](/articles/bath-day-trip/)** | Paddington | **1h15** direct | £47.60 return booked ahead, £75.90 walk-up | Roman Baths **£26.50** weekdays, £29 weekends |
+| **[Stonehenge](/articles/stonehenge-day-trip/)** | Waterloo to Salisbury, then a bus | About 3 hours each way | Advance from £16.40 single, bus £20.50 | Entry **£27.20–£32.30** booked ahead; tours from £66 with entry |
+| **[The Cotswolds](/articles/cotswolds-day-trip/)** | Paddington to Moreton-in-Marsh | **1h25**, then the 801 bus | £54 off-peak return | Villages are free; tours from £74 |
 
-**The pattern worth knowing:** the train is the small number. Windsor Castle costs four times the fare to get there, and the Studio Tour costs eight times it. Book the attraction first and fit the train around it.
+**The pattern worth knowing:** the train is the small number. Windsor Castle costs four times the fare to get there, and the Studio Tour costs eight times it. The exceptions are Stonehenge and the Cotswolds, where getting there is the hard part and the tour is what you are really paying for. Book the attraction first and fit the train around it.
 
 ## Windsor
 
-The shortest journey of the four, and the only one where the castle is the whole day. Paddington via Slough takes under 40 minutes; Waterloo runs direct but takes nearly an hour. **Contactless works, Oyster does not.**
+The shortest journey of the seven, and the only one where the castle is the whole day. Paddington via Slough takes under 40 minutes; Waterloo runs direct but takes nearly an hour. **Contactless works, Oyster does not.**
 
 Windsor Castle is **£32 booked ahead, £36 on the day**, with no family ticket, and it is **closed every Tuesday and Wednesday**. The Changing of the Guard is Thursdays and Saturdays. Eton, the Long Walk and the Great Park are free, and Legoland is ten minutes away if the castle is not the point.
 
@@ -76,6 +79,30 @@ Euston to Watford Junction is 18 minutes, and **the shuttle bus from there is fr
 
 → **[The full Studio Tour guide](/articles/harry-potter-studio-tour/)**
 
+## Bath
+
+**1h15 direct from Paddington**, and much cheaper booked ahead: £47.60 return in advance singles against £75.90 walk-up. The Roman Baths are **£26.50 on weekdays and £29 at weekends**, Thermae Bath Spa's rooftop pool is £44 for two hours, and Pulteney Bridge and the Royal Crescent are free.
+
+Most coach tours pair Bath with Stonehenge, but they give you two or three hours in the city, and none we checked includes Roman Baths entry as standard.
+
+→ **[The full Bath guide](/articles/bath-day-trip/)**
+
+## Stonehenge
+
+The one day trip where a tour is genuinely the sensible choice. By public transport it is Waterloo to Salisbury, then a bus that runs **five times a day in winter**, about three hours each way and roughly £80 all in. Tours start at **£66 with entry included**.
+
+Entry is **£27.20 to £32.30** booked ahead, 15% less than at the gate. And you can see the stones free from the National Trust land around them, a mile and a half's walk from Amesbury.
+
+→ **[The full Stonehenge guide](/articles/stonehenge-day-trip/)**
+
+## The Cotswolds
+
+Not one place, and that is the problem. **Moreton-in-Marsh is the only station with a useful bus**, the 801 to Stow and Bourton-on-the-Water, and it is the only route that runs on Sundays. Bibury, Broadway and Chipping Campden are Monday to Saturday only by bus.
+
+Nothing in the villages needs a ticket, so a small-group tour from about **£89** is mostly buying you transport between them — which here is worth it.
+
+→ **[The full Cotswolds guide](/articles/cotswolds-day-trip/)**
+
 ## Day tours from London, by destination
 
 Some of these places are easy by train. Others — Stonehenge, the Cotswolds, Highclere — have no useful station, and a coach tour is the only sensible way to do them in a day. These are the cheapest credible prices we found, checked on 12 September 2026:
@@ -100,14 +127,13 @@ Some of these places are easy by train. Others — Stonehenge, the Cotswolds, Hi
 
 ## Where else is worth the train
 
-Some of these have a full guide of their own now, linked where they do. The rest do not, and are here because they are worth the day anyway:
+These do not have a guide of their own yet, but they are worth the day:
 
 - **Coast:** Brighton for the pier and the Lanes, Whitstable for oysters, Margate for Dreamland and the Turner, Broadstairs, Hastings, and the Seven Sisters cliffs at Eastbourne.
-- **Cities and towns:** [Bath](/articles/bath-day-trip/) for the Roman Baths and the Georgian streets — 1h15 direct from Paddington — Canterbury and Dover together on the high-speed line, Winchester, Rye, St Albans and Rochester.
+- **Cities and towns:** Canterbury and Dover together on the high-speed line, Winchester, Rye, St Albans and Rochester.
 - **Castles and houses:** Leeds Castle, Hever, Arundel, Warwick, Blenheim Palace, Hatfield House and Highclere, better known as Downton Abbey.
-- **Countryside:** [the Cotswolds](/articles/cotswolds-day-trip/), the Chilterns, Box Hill and the South Downs — the places where [hiring a car](/articles/car-hire-driving-uk/) genuinely helps.
+- **Countryside:** the Chilterns, Box Hill and the South Downs — the places where [hiring a car](/articles/car-hire-driving-uk/) genuinely helps.
 - **Theme parks:** Legoland, ten minutes from [Windsor](/articles/windsor-day-trip/) and a day of its own rather than an afternoon after the castle, plus Thorpe Park, Chessington, and Alton Towers if you are prepared to stay over.
-- **Prehistory:** [Stonehenge](/articles/stonehenge-day-trip/), which is hard to reach without a tour or a car — the train to Salisbury works, but it hangs on a bus that runs five times a day in winter.
 - **Abroad:** Paris by Eurostar, which is two and a half hours and a real day out if you start early.
 
 ## Making the day work
