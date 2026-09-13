@@ -257,6 +257,10 @@ The burger is **ketchup, mustard and pickles on a golden brioche bun**, which in
 
 *££ · Shoreditch and Borough Yards · Cited by 6 sources · **second in the signature round, National Burger Awards 2026** · [website](https://burgerandbeyond.co.uk/)*
 
+![A spread of burgers, fried chicken tenders, mozzarella sticks and a bowl of loaded fries laid out on a dark metal table](../../assets/articles/best-burgers-london/burger-and-beyond.jpg)
+
+*Not a single order but the whole table — burgers, fried chicken, mozzarella sticks and a bowl of loaded fries alongside the classic thin-cut fries.*
+
 **Second best burger in the UK on the 2026 judging**, and the most-cited name here after the top two.
 
 The **Bacon Butter Burger** is what it entered and what to order: a dry-aged patty, **double American cheese, crispy pancetta, burnt butter mayo and onion**. The burnt butter mayo is the thing nobody else is doing. Beyond it, the **Bougie Burger** with marrownaise and beef-fat onions, and a **Rice Krispie fried chicken burger** that people order on purpose rather than as a concession.
@@ -302,6 +306,10 @@ Short entries. Full detail on any of these is above where it exists.
 * **Buk, Camden** — *£ · Cited by 1 source.* Thin patty, double American cheese, chilli house sauce and caramelised onion. **Halal.**
 * **Burnt Smokehouse, Leyton** — *£ · Cited by 1 source.* Double patty smashburger with caramelised onions and dill pickles, communal seating by the station. **Halal.**
 
+![A double cheeseburger with melted cheese in a sesame bun, beside thick-cut chips and a bottle of Coca-Cola, with a sign for Buk Burger's Instagram handle on the wall behind](../../assets/articles/best-burgers-london/buk-camden.jpg)
+
+*Double patty, melted cheese and thick-cut chips — the Instagram handle stencilled on the wall behind is the Camden shop's own.*
+
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -317,9 +325,21 @@ Named by the listings sites rather than the critics — which is not a criticism
 * **Fat Hippo, Soho** — *£ · National Burger Awards 2026 London finalist.* Entered **The Lovue Loot**. Won the plant-based Burger of the Year in 2025.
 * **SoBe Burger, Walthamstow** — *£ · National Burger Awards 2026 London finalist.* Entered a **Double Bacon Black Garlic**.
 
+![A cheeseburger with a slice of melted cheese, pink pickled onion and lettuce in a glazed bun, next to a metal bucket of thick-cut chips](../../assets/articles/best-burgers-london/patty-and-bun.jpg)
+
+*Melted cheese, pickled onion and a bucket of thick-cut chips — the format Patty & Bun runs across all seven sites.*
+
 ![Half a lobster, a sesame-seed cheeseburger on a skewer and a metal cup of fries, laid out on Burger & Lobster branded greaseproof paper on a wooden table](../../assets/articles/best-burgers-london/burger-and-lobster-combo.jpg)
 
 *The Burger & Lobster combination that explains the name and the price. This is the whole menu conceit: burger, lobster, or lobster roll, all at one price, with the sides included rather than added on.*
+
+![A double cheeseburger dripping with a chunky orange cheese sauce over a dark-seared patty, on a sesame seed bun on a dark plate](../../assets/articles/best-burgers-london/dirty-bones.jpg)
+
+*Melted cheese in chunks rather than a sauce, piled onto a dark-seared patty.*
+
+![A tall burger held in two hands, with a dark-seared double beef patty, crispy fried chicken pieces, bacon, pickled onion and a pale sauce spilling from a toasted bun](../../assets/articles/best-burgers-london/fat-hippo.jpg)
+
+*Beef, fried chicken and bacon stacked into one burger — the kind of combination that got Fat Hippo to the 2026 awards final.*
 
 ---
 
