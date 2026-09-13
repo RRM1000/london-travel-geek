@@ -107,6 +107,10 @@ Specialises in **south-western Vietnamese** food rather than the general menu th
 
 **The only Vietnamese restaurant in the UK or Ireland with a Michelin Bib Gourmand**, awarded in February 2026 — the guide's mark for good cooking at a fair price rather than a star.
 
+![A banh mi sandwich and a green papaya-style salad laid out on a table at Lai Rai, with steel cups](../../assets/articles/best-vietnamese-restaurants-london/lai-rai.jpg)
+
+*Bánh mì at Lai Rai — the room a Michelin jury picked rather than the one the Mile made famous.*
+
 It is barely covered by the London lists, which is the interesting part: the judges and the magazines are not looking at the same city. If you want the room a jury picked rather than the one the mile made famous, this is it.
 
 ### Phở Thúy Tây — northern phở, and a position on it

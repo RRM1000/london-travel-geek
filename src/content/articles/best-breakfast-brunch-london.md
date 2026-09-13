@@ -329,6 +329,10 @@ A pocket-sized Peckham room doing **Taiwanese steamed bao** and small plates, an
 
 The **hash brown bao** is the one to order: crispy rösti, shiitake mushrooms, cheese and chilli bean sauce inside a steamed bun. Beside it a **bacon bao** with a smoked ham hock fritter and plum sauce, **The Drunken Prawn** with pickled mooli and spiced spring onions, a beef brisket bao, and a salmon and onsen egg bao. Order smacked cucumber, sticky edamame and the flaky jiang bing crepe to share, and the **smoked salmon chawanmushi** with ginger and crispy potato if it is on.
 
+![Two steamed bao buns on small plates, one filled with a crispy fried filling and shredded slaw, the other with braised meat, chilli and coriander](../../assets/articles/best-breakfast-brunch-london/mr-bao.jpg)
+
+*Steamed bao at Mr Bao — nobody else in London is putting a fry-up inside one.*
+
 **Brunch is weekends only, 11am to 4.30pm.** The room is tiny — book ([book a table](https://www.sevenrooms.com/explore/mrbaoryelane/reservations/create/search/)), or go early.
 
 ### Christopher's, Covent Garden

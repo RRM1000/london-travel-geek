@@ -250,6 +250,10 @@ Walk-ins are taken at the bar.
 
 The menu is short and changes constantly with what is in season: **pasta rolled that day**, one or two grilled dishes, and a handful of vegetable plates. Nothing is on it for longer than the produce lasts.
 
+![A plate of casarecce pasta with capers, dressed simply and finished with grated parmesan](../../assets/articles/best-italian-restaurants-london/artusi.jpg)
+
+*Pasta rolled that day at Artusi — the menu changes with whatever is in season.*
+
 **££ and it books ahead** at weekends. Bellenden Road, and one of the reasons people started travelling to Peckham to eat.
 
 ### Legare, Shad Thames — modern Italian

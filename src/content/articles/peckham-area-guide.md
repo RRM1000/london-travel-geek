@@ -92,6 +92,10 @@ Peckham has its own share of the commemorative plaques marking where notable peo
 
 *Frank's, on the top floor of a multi-storey car park. Summer only, and the view is the entire point. Photo: [Loz Flowers](https://www.flickr.com/photos/99245765@N00/4800919009), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
+![The view from a high floor of the Peckham Levels car park, over terraced rooftops toward the City skyline](../../assets/articles/peckham-area-guide/peckham-levels.jpg)
+
+*Looking out from Peckham Levels, on the floors below Frank's. Open year round, unlike the rooftop above it.*
+
 ## Key streets and micro-districts
 
 ### Rye Lane
@@ -100,13 +104,25 @@ The spine, and the reason to come. Loud, crowded, and the part of Peckham that h
 
 **Rye Lane Market** at number 48 is the indoor one: **over 60 units under one roof, open seven days**, roughly 9.30am to 8pm Monday to Saturday and 11am to 5pm on Sunday. The food inside is Mexican, Peruvian, Salvadoran, Honduran, Congolese, Guyanese, [Caribbean](/articles/best-caribbean-restaurants-london/) and West African, alongside tailors, herbalists, key cutters and a crystal stall. Southwark also runs a scatter of street-market pitches on the roads off Rye Lane — **Choumert Road, Atwell Road, Parkstone Road** — though the council publishes no trading days for any of them, so treat those as luck.
 
+![The tall blue frontage of Rye Lane Market at number 48, lit up at dusk](../../assets/articles/peckham-area-guide/rye-lane-market.jpg)
+
+*Rye Lane Market, at number 48 — over 60 units under one roof, open seven days.*
+
 **Cornerhouse** at 133A is the newer end of the street in one building: Tonkotsu for ramen, **Forza Wine on the roof**, a basement club, a coffee shop and co-working above.
 
 Just off it, **Peckham Palms** on Bournemouth Close is the **UK's first hair and beauty hub built for Afro hair** — over thirty stylists and a café. It exists because it was built to rehouse the Black-owned businesses displaced by the station redevelopment, which is worth knowing while you look at the new civic square going up.
 
+![A hairdressing chair and wash basins inside Peckham Palms, against a bright blue wall](../../assets/articles/peckham-area-guide/peckham-palms.jpg)
+
+*Inside Peckham Palms, the UK's first hair and beauty hub built for Afro hair.*
+
 ### Copeland Park and the Bussey Building
 
 Off the east side of Rye Lane through **Bussey Alley**, 150 metres from the station. A former **cricket bat factory** and the yards around it, now the densest concentration of independent anything in south London.
+
+![The brick exterior of the Bussey Building, with BUSSEY BUILDING and COPELAND PARK painted signs](../../assets/articles/peckham-area-guide/the-bussey-building.jpg)
+
+*The Bussey Building, a former cricket bat factory, off Rye Lane through Bussey Alley.*
 
 **The Bussey Rooftop Bar** is the anchor and it runs **year round**, not just in summer — from 5pm on weekdays and midday at weekends, free to walk in, dogs welcome, under-18s until 7pm. There is shelter and there are heaters, so bookings go ahead in the rain, and the drinks come in reusable polycarbonate rather than glass because there are homes below. It is **not wheelchair accessible**.
 
@@ -117,6 +133,10 @@ Around it: **Jumbi**, a Black-owned HiFi rum bar; **Copeland Gallery** and **Bos
 ### Bellenden Road
 
 West of Rye Lane and a complete contrast: quiet, low-rise, Victorian, and where Peckham goes to sit down and eat properly.
+
+![A large mural of a fox painted on the side of a building on Bellenden Road, against a blue sky](../../assets/articles/peckham-area-guide/bellenden-road.jpg)
+
+*A mural on Bellenden Road, a few minutes' walk from the noise of Rye Lane.*
 
 **Look at the bollards.** When Southwark ran a street-improvement scheme here from 1997 it commissioned the artists who happened to live locally: **Antony Gormley designed the bollards and street furniture**, and **Tom Phillips did the lampposts and mosaics**. Almost nobody walking down the street knows they are passing a Gormley, and there is no sign telling them.
 
@@ -132,6 +152,10 @@ North towards Camberwell, and quieter than anything on Rye Lane. This is the Pec
 
 The **South London Gallery** is the reason to walk up. It is **free**, and it is **two buildings 120 metres apart**: the Victorian main gallery at 65–67 Peckham Road, and the **former fire station opposite at number 82**, which became a second set of galleries in 2018. Contemporary shows in both.
 
+![The red-brick Victorian facade of the South London Gallery on Peckham Road, with a banner reading South London Gallery and free entry](../../assets/articles/peckham-area-guide/south-london-gallery.jpg)
+
+*The South London Gallery's Victorian main building on Peckham Road — one of two sites, 120 metres apart.*
+
 **It is closed Mondays and Tuesdays.** Wednesday runs late to 9pm; Thursday to Sunday it is midday to 6pm. The **café is open more days than the galleries are**, and the **Orozco Garden behind is weekends only, midday to 6pm** — a detail that catches people who come specifically for it.
 
 There is **no Tube anywhere near**, which is the honest problem with this stretch. Peckham Rye station is a fourteen-minute walk; the 12, 36, 171, 343, 345 and 436 all stop outside. Camberwell College of Arts is a few doors up, which explains a certain amount about the area.
@@ -139,6 +163,10 @@ There is **no Tube anywhere near**, which is the honest problem with this stretc
 ### Peckham Rye
 
 South towards the park, more residential, and where the area calms down. **Peckham Rye Park and Common is 113 acres** in two halves — 64 acres of open Common to the north, mown and flat, and 49 acres of proper Victorian park to the south, bought by the parish in 1868 for £51,000.
+
+![A wide grass common dotted with groups of people sitting and picnicking under trees on a sunny day](../../assets/articles/peckham-area-guide/peckham-rye-park-and-common.jpg)
+
+*The Common on a sunny weekend — mown, flat, and where the area actually spends its Saturdays.*
 
 The park half has the things worth walking to: a **community wildlife garden** with beehives and a pond, a restored **fernery**, a skate park, an outdoor gym and an adventure playground. It has held a Green Flag every year since 2007. **Opening is 7.30am to dusk**, and dusk here means 5pm in January and 9.30pm in July — check the month rather than assuming.
 
@@ -167,6 +195,14 @@ Peckham eats well and cheaply. This is a selection — see the [full restaurant 
 | **Old Spike** | Coffee | £ | Trains and employs people who have experienced homelessness; the Peckham Rye site is a cafe, the roastery has moved to Brixton |
 
 **Two things Rye Lane holds that nowhere else in London does.** **Lai Rai** has the only Michelin Bib Gourmand for Vietnamese cooking in the UK and Ireland, awarded in February 2026 — which is a real answer to the assumption that [Vietnamese food in London](/articles/best-vietnamese-restaurants-london/) means Kingsland Road. And **Peckham Cellars** on Queens Road is one of three [wine bars](/articles/best-wine-bars-london/) named by more independent sources than any other in the city, with a shop alongside the bar, so the same bottle is usually cheaper off the shelf than off the list.
+
+![A banh mi sandwich and a green papaya-style salad laid out on a table at Lai Rai, with steel cups](../../assets/articles/peckham-area-guide/lai-rai.jpg)
+
+*Lai Rai, on Rye Lane — the only Michelin Bib Gourmand for Vietnamese cooking in the UK and Ireland.*
+
+![The grey-awninged frontage of Peckham Cellars on Queens Road, with outdoor benches and olive trees](../../assets/articles/peckham-area-guide/peckham-cellars.jpg)
+
+*Peckham Cellars on Queens Road — a shop as well as a bar.*
 
 ## Suggested two-hour walking route
 

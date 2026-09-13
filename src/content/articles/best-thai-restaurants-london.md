@@ -271,6 +271,10 @@ The interesting thing about Kruk is that it **refuses to pick a region**. Khao s
 
 Rob Willcox and Josh Lyons met at Farang and opened in **August 2025** in the Peckham railway arch that used to be Bar Story. They took a **Bib Gourmand within months**. The fried chicken with prickly ash and fish sauce glaze is the order, and the red jungle curry with chalk stream trout is the spiciest thing in this guide.
 
+![Fried chicken pieces beside a green papaya salad with cherry tomatoes, on a dark plate](../../assets/articles/best-thai-restaurants-london/kruk.jpg)
+
+*The fried chicken with prickly ash and fish sauce glaze — the order at Kruk.*
+
 ### Khao So-i, Fitzrovia
 
 *£££ · 9 Market Place* · Cited by 3 sources

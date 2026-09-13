@@ -292,6 +292,10 @@ An independent showing **current releases for £6.99**, plus a 60p booking fee �
 
 **It is a proper multiplex rather than an arthouse**, showing what everyone else is showing, so this is where you see a blockbuster rather than a restoration.
 
+![The pink PECKHAMPLEX sign above the cinema's brick frontage, with potted plants either side of the entrance](../../assets/articles/best-cinemas-london/peckhamplex.jpg)
+
+*Peckhamplex's frontage on Rye Lane — London's most successful independent cinema.*
+
 **Peckham Rye is five minutes away**, and Rye Lane, Frank's Cafe and Old Spike are all within ten — so it slots into a Peckham afternoon rather than needing one of its own.
 
 ### Everyman Screen on the Canal, King's Cross

@@ -231,6 +231,10 @@ The cheapest Mexican food in London is also some of the best, and most of it is 
 
 **Birria tacos** are the order: slow-cooked beef, the tortilla stained and crisped in the fat and juices, served with a cup of consommé to dip. Three sites now — Peckham, Tooting and Hackney Wick — all counters.
 
+![Three birria tacos on a plate with a cup of consomme, guacamole and a lime wedge](../../assets/articles/best-mexican-restaurants-london/guacamoles.jpg)
+
+*Birria tacos and the consommé to dip them in — the order at Guacamoles.*
+
 **£, walk-in.** Order the consommé; eating birria without it misses the point.
 
 ### Tacos Padre, Borough Market

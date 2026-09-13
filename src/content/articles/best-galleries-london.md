@@ -193,6 +193,10 @@ A Victorian gallery on Peckham Road with a **converted fire station opposite** g
 
 The **garden behind the main building is one of the quietest places in south London** — a proper walled garden rather than a courtyard, free, and almost never busy. There is a cafe attached.
 
+![A quiet paved garden behind the South London Gallery, with a curved brick wall, wildflowers and a modern extension building](../../assets/articles/best-galleries-london/south-london-gallery.jpg)
+
+*The garden behind the main building — free, and almost never busy.*
+
 Peckham Rye is about ten minutes' walk, and the gallery sits between Peckham and Camberwell rather than in the middle of either, which is why so few visitors reach it.
 
 ---
