@@ -94,7 +94,7 @@
   },
   "hyatt-regency-stratford": {
     "url": "https://uk.hotels.com/ho398896/holiday-inn-london-stratford-city-london-united-kingdom/",
-    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hyatt Regency London Stratford, London, England, United Kingdom\"."
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hyatt Regency London Stratford, London, England, United Kingdom\". VERIFIED CORRECT 2026-09-13 despite the 'holiday-inn' text in the URL slug: loaded the page directly and its title, heading and description are all Hyatt Regency London Stratford (Elondi Restaurant, Westfield Stratford City). Hotels.com evidently never updated this property's URL slug after a rebrand from Holiday Inn - the numeric id (ho398896) is what resolves, and it resolves to the right hotel. Do not 'fix' this by re-resolving; the slug text is just stale."
   },
   "ibis-london-wembley": {
     "url": "https://uk.hotels.com/ho206152/ibis-london-wembley-wembley-united-kingdom/",
