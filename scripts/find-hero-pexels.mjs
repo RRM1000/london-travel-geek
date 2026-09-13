@@ -1,9 +1,28 @@
-// Finds candidate hero images on Pexels for articles that have none.
+// Finds candidate hero and body images on Pexels.
 //
 //   node scripts/find-hero-pexels.mjs --list                    what is missing a hero
 //   node scripts/find-hero-pexels.mjs <slug> "search terms"     show candidates
-//   node scripts/find-hero-pexels.mjs <slug> "terms" --take N   download candidate N
-//   node scripts/find-hero-pexels.mjs --batch [terms.json]      candidates for every slug
+//   node scripts/find-hero-pexels.mjs <slug> "terms" --take N   download candidate N as the HERO
+//   node scripts/find-hero-pexels.mjs --batch [terms.json]      hero candidates for every slug
+//
+//   node scripts/find-hero-pexels.mjs <slug> "terms" --body some-label --take N
+//                                                                download candidate N as a BODY photo
+//
+// A body photo never overwrites the hero: it saves to
+// src/assets/articles/<slug>/<label>.jpg (label is your choice, kebab-case,
+// matching this site's descriptive-filename convention - e.g. "wine-bar"
+// rather than "bloomsbury-area-guide-2") and prints a markdown snippet to
+// paste into the article body, not a frontmatter block. --list and --batch
+// stay hero-only; there is no equivalent "which articles need a body photo"
+// scan because that judgement call is per-section, not per-article.
+//
+// A body photo is inherently a STOCK illustration, not documentary evidence
+// of the specific place named nearby in the copy - see the Commons-vs-Pexels
+// split below. Pick a subject the copy treats generically (a wine bar, a
+// bookshop interior, a dish) rather than a specific named building or square,
+// and write the caption so it never claims to BE that named venue. See
+// data/reference memory "photos fact-check the entry": a photo makes a claim
+// the surrounding copy owns, so a mismatch is worse than no photo.
 //
 // WHY PEXELS AS WELL AS COMMONS
 // Wikimedia Commons is unbeatable for London PLACES - it has Billingsgate,
@@ -90,12 +109,13 @@ async function search(terms) {
   throw new Error("Pexels search failed: rate limited after retries");
 }
 
-async function take(slug, cand) {
+async function take(slug, cand, { label } = {}) {
   const dir = path.join(ASSETS, slug);
   fs.mkdirSync(dir, { recursive: true });
   const res = await fetch(cand.url);
   if (!res.ok) throw new Error(`download failed: ${res.status}`);
-  const out = path.join(dir, `${slug}.jpg`);
+  const filename = label ? `${label}.jpg` : `${slug}.jpg`;
+  const out = path.join(dir, filename);
   // 2000px matches the ceiling scripts/optimise-images.mjs enforces.
   await sharp(Buffer.from(await res.arrayBuffer()))
     .rotate()
@@ -104,13 +124,24 @@ async function take(slug, cand) {
     .toFile(out);
 
   console.log(`saved ${out} (${(fs.statSync(out).size / 1024).toFixed(0)} KB)`);
-  console.log("---frontmatter---");
-  console.log(`heroImage: "../../assets/articles/${slug}/${slug}.jpg"`);
-  console.log(`heroImageAlt: "${cand.alt || "TODO"}"`);
-  console.log(`heroImageCredit: "${cand.photographer}"`);
-  console.log(`heroImageSource: "${cand.page}"`);
-  console.log(`heroImageLicense: "Pexels License"`);
-  console.log(`heroImageLicenseUrl: "https://www.pexels.com/license/"`);
+  if (label) {
+    // Body photo: a markdown snippet for the article, not frontmatter. The
+    // caption is a starting point - rewrite it to carry a detail the copy
+    // actually claims, and never let it name a specific venue this stock
+    // photo cannot prove it is.
+    console.log("---paste into article body---");
+    console.log(`![${cand.alt || "TODO alt text"}](../../assets/articles/${slug}/${filename})`);
+    console.log();
+    console.log(`*TODO caption. Photo: [${cand.photographer}](${cand.photographerUrl}) via [Pexels](${cand.page}).*`);
+  } else {
+    console.log("---frontmatter---");
+    console.log(`heroImage: "../../assets/articles/${slug}/${filename}"`);
+    console.log(`heroImageAlt: "${cand.alt || "TODO"}"`);
+    console.log(`heroImageCredit: "${cand.photographer}"`);
+    console.log(`heroImageSource: "${cand.page}"`);
+    console.log(`heroImageLicense: "Pexels License"`);
+    console.log(`heroImageLicenseUrl: "https://www.pexels.com/license/"`);
+  }
 }
 
 const args = process.argv.slice(2);
@@ -135,15 +166,19 @@ if (args[0] === "--list") {
 } else {
   const [slug, terms] = args;
   if (!slug || !terms) {
-    console.error('usage: find-hero-pexels.mjs <slug> "search terms" [--take N]');
+    console.error('usage: find-hero-pexels.mjs <slug> "search terms" [--take N] [--body label]');
     process.exit(1);
   }
+  const bodyIdx = args.indexOf("--body");
+  const label = bodyIdx !== -1 ? args[bodyIdx + 1] : undefined;
+  if (bodyIdx !== -1 && !label) throw new Error("--body needs a label, e.g. --body wine-bar");
+
   const cands = await search(terms);
   const takeIdx = args.indexOf("--take");
   if (takeIdx !== -1) {
     const c = cands[Number(args[takeIdx + 1])];
     if (!c) throw new Error(`no candidate ${args[takeIdx + 1]} (found ${cands.length})`);
-    await take(slug, c);
+    await take(slug, c, { label });
   } else {
     cands.slice(0, 12).forEach((c, i) =>
       console.log(`[${i}] ${c.w}x${c.h}  ${c.photographer}\n     ${c.alt}\n     ${c.page}`));

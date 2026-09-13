@@ -120,6 +120,10 @@ The best street in Bloomsbury and the one visitors never find, running north fro
 
 **Eat and drink:** **Noble Rot at 51** is a wine bar with a serious kitchen attached and needs booking; **Honey & Co at 54** does Middle Eastern cooking in a room with about twenty seats; **Redemption Roasters at 84b** roasts its coffee in a young offenders' institution, which is the whole point of it.
 
+![A dimly lit wine bar counter lined with bottles and glassware](../../assets/articles/bloomsbury-area-guide/wine-bar-counter.jpg)
+
+*A wine bar's bottle-lined counter — illustrative, not a photograph of Noble Rot. Photo: [Egor Komarov](https://www.pexels.com/@egorkomarov) via [Pexels](https://www.pexels.com/photo/bar-counter-filled-with-various-bottles-of-alcohol-9130342/).*
+
 **Persephone Books** reprints forgotten twentieth-century women writers with grey covers and patterned endpapers, and **The Lamb** is a Victorian pub with the original etched snob screens still in place.
 
 **It is a weekday street.** Most of the shops are closed on Sundays and it is noticeably quiet, so come Tuesday to Saturday. Russell Square and Holborn are both about seven minutes.
