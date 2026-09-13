@@ -112,6 +112,10 @@ A Victorian townhouse at the top of Queen's Gate with its cornicing and fireplac
 
 By Astor's own reckoning the Natural History Museum is ten minutes' walk and the V&A eleven. You approach from Queen's Gate, so the museum's **West Entrance — step-free, with a ramp** — is the one to head for. **No lift, and townhouse stairs with a case.**
 
+![A shared dorm at Astor Hyde Park, with red-framed bunk beds and a tall sash window](../../assets/articles/where-to-stay-south-kensington/astor-hyde-park-dorm.jpg)
+
+*One of the shared dorms at Astor Hyde Park.*
+
 ## The evening problem, and the two nights it does not apply
 
 This is the honest reason South Kensington suits families and museum trips and suits almost nobody else. **The Natural History Museum closes at 17.50 with last entry at 17.30. The Science Museum closes at 18.00, last entry 17.15, and starts closing galleries half an hour before that. The V&A closes at 17.45.** By half past six the pavements belong to people walking dogs.

@@ -100,6 +100,16 @@ The area has three hotels, which is not a lot of choice, and on a busy weekend i
 
 It is **adults only, 18 and over**, breakfast is £3, check-out is 11am and reception takes arrivals until 2am — but not beyond, so a late flight needs a different plan. Two minutes from London Bridge station and Borough Market, and considerably livelier at midnight than anywhere in Bermondsey proper. Our [capsule hotels guide](/articles/pod-hotels-london/) compares all five in London.
 
+<div class="photo-row">
+
+![A curtained pod-style bunk room at St Christopher's Village, with red curtains and a black-and-white checkerboard floor](../../assets/articles/where-to-stay-bermondsey/st-christophers-village-dorm.jpg)
+
+![One of the bathroom facilities at St Christopher's Village, tiled in orange with hand dryers and mirrors](../../assets/articles/where-to-stay-bermondsey/st-christophers-village-bathroom.jpg)
+
+</div>
+
+*A pod-style dorm at St Christopher's Village, and one of its bathroom facilities.*
+
 ### Bankside — ten minutes west, and where the mid-range actually lives
 
 Bermondsey has exactly one hotel in the £150 to £200 band. Bankside has several, ten minutes' walk west along the river.

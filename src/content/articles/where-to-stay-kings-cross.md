@@ -108,6 +108,10 @@ Clink 261, ten minutes' walk from the station on Gray's Inn Road, is the one tak
 
 **Check-in is 4pm and check-out 10am**, an hour earlier than Kabannas, with late check-out to noon charged. Dorm lockers need your own padlock. Booking direct saves 15%.
 
+![One of Clink 261's dorms, with red privacy screens between bunks and a skylight over the room](../../assets/articles/where-to-stay-kings-cross/clink261-dorm.jpg)
+
+*One of Clink 261's dorms, with privacy screens between the pod beds and a skylight overhead.*
+
 If a dorm is the plan rather than a room, our [best hostels in London guide](/articles/best-hostels-london/) compares fourteen across the city — including the ones with en-suite dorms, which Clink 261 is not.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-kings-cross-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -157,6 +161,10 @@ If you have not settled on an area at all, our guide to the [best areas to stay 
 The single best answer here. Bloomsbury starts about ten minutes' walk south of the stations and is the calmest run of streets in Zone 1 — garden squares, the British Museum, university buildings — while still being close enough to walk to a Eurostar with a case.
 
 **[Generator London](hotel:generator-london)** is about **£26 a bed** at 37 Tavistock Place, in a former police building, with dorms of four to ten, female-only dorms, private rooms and a 24-hour reception. **It is a party hostel and says so**, with a bar built into a bus: the right choice if meeting people is the point of the trip, and the wrong one the night before a 06:00 train.
+
+![A dorm room at Generator London, with a white-framed bunk bed against an orange geometric mural wall](../../assets/articles/where-to-stay-kings-cross/generator-london-dorm.jpg)
+
+*A dorm room at Generator London.*
 
 **[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** is **£81 to £206** for a windowless private room, carved out of a disused car park beneath Great Russell Street — London's first entirely underground hotel, two minutes from the British Museum. Sealed, soundproofed and totally dark, which is either the best or the worst possible preparation for a 5am alarm. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) has the full comparison.
 

@@ -162,6 +162,10 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 **[Generator London](hotel:generator-london)** is about £26 a bed at 37 Tavistock Place, with dorms of four, six, eight and larger, female-only dorms, private rooms, shared bathrooms on every floor and a 24-hour reception. **It is a party hostel and says so**, with a bar running live music, sport and karaoke nights — the right choice if meeting people is the point of the trip and the wrong one before an early flight.
 
+![A dorm room at Generator London, with a white-framed bunk bed against an orange geometric mural wall](../../assets/articles/where-to-stay-soho-west-end/generator-london-dorm.jpg)
+
+*A dorm room at Generator London.*
+
 ### Mayfair — a W1K postcode at Zedwell money
 
 **[Zedwell Park Lane](hotel:zedwell-park-lane)** is the oddest value in London: **£90 to £207** for a Mayfair address, one minute from Hyde Park Corner and eight from Marble Arch. It sells **one room type only**, a Cocoon 2 sleeping two, so there is no single rate and no family option, and it is entirely underground like the Bloomsbury site. It is also the newest and least reviewed of the Zedwells, which is the honest reason to hesitate rather than the price.

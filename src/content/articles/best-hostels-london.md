@@ -156,13 +156,43 @@ It has also just split its dorms into categories that mean something. **Social D
 
 It is the most-recommended London hostel in our community research by a distance — 52 mentions across 21 Reddit threads — and the tone is consistent: clean, comfortable, well fitted. Two caveats travellers raise unprompted. It has become expensive for the tier, and it is **quiet** in the social sense as well as the sleeping one; one traveller called it "pretty dry, there isn't much social activity". Two separate people described **the walk from the nearest bus stop after dark as poorly lit and empty**, while a third said she felt fine — the DLR and Tube approaches are better lit than the bus one, and worth choosing at night.
 
+<div class="photo-row">
+
+![A dorm room at Wombat's City Hostel, with cream-curtained bunk beds against a green accent wall](../../assets/articles/best-hostels-london/wombats-city-hostel-london-dorm.jpg)
+
+![The en-suite bathroom attached to a dorm at Wombat's City Hostel](../../assets/articles/best-hostels-london/wombats-city-hostel-london-bathroom.jpg)
+
+</div>
+
+*A dorm at Wombat's and its en-suite bathroom — the fitting that sets it apart from every other hostel in this guide.*
+
 ### St Christopher's — four sites, and they are not the same hostel
 
 St Christopher's runs **four London hostels**: The Inn and The Village on Borough High Street, Shepherd's Bush, and Liverpool Street. All four check in at 3pm and out at 11am, include linen, charge for towels, and sit above a bar — Belushi's at the Village and Shepherd's Bush, the pub at The Inn, the Flying Horse at Liverpool Street.
 
 **[The Village](hotel:st-christophers-village)** is the one to book, and specifically for **Oasis**: a female-only space with its own bathrooms, showers and key card access. It is also the UK's first capsule hostel, with Japanese-inspired pods and private rooms with a view of the Shard, two minutes from Borough Market.
 
+<div class="photo-row">
+
+![A curtained pod-style bunk room at St Christopher's Village, with red curtains and a black-and-white checkerboard floor](../../assets/articles/best-hostels-london/st-christophers-village-dorm.jpg)
+
+![One of the bathroom facilities at St Christopher's Village, tiled in orange with hand dryers and mirrors](../../assets/articles/best-hostels-london/st-christophers-village-bathroom.jpg)
+
+</div>
+
+*A pod-style dorm at St Christopher's Village, and one of its bathroom facilities.*
+
 **Liverpool Street** is the quiet answer of the four: female-only dorms with female-only bathrooms, privacy curtains and lockers in the female rooms, **air conditioning**, key card access to rooms, charging points at every bed and work-friendly desks.
+
+<div class="photo-row">
+
+![A bedside table at St Christopher's Liverpool Street, with a London-landmarks print on the mini-fridge beside the bed](../../assets/articles/best-hostels-london/st-christophers-liverpool-street-room.jpg)
+
+![One of the shared bathrooms at St Christopher's Liverpool Street, tiled in orange](../../assets/articles/best-hostels-london/st-christophers-liverpool-street-bathroom.jpg)
+
+</div>
+
+*A bedside setup and one of the shared bathrooms at St Christopher's Liverpool Street.*
 
 One honest note: the four branches draw sharply different reviews, and the Village in particular collects both "exceptionally clean" and, from a different traveller, one of the worst write-ups of any hostel in our research. Read recent reviews for the specific branch, not the brand.
 
@@ -174,6 +204,10 @@ Strict 18+, no exceptions. Check-in is **4pm** and check-out **10am**: a late ch
 
 **Do not book Clink78 by mistake.** It is around the corner, it is closed for renovation until 2027, and guides and booking sites still list it.
 
+![One of Clink 261's dorms, with red privacy screens between bunks and a skylight over the room](../../assets/articles/best-hostels-london/clink261-dorm.jpg)
+
+*One of Clink 261's dorms, with privacy screens between the pod beds and a skylight overhead.*
+
 ### [Generator London King's Cross](hotel:generator-london) — the cheapest, and it says why
 
 37 Tavistock Place, WC1H 9SE, five minutes from Russell Square. Seven hundred and fifty rooms in a former police building, a bar with a red bus parked next to the dance floor, and **the lowest published rate in this guide: from £11 a bed in a large dorm, £13 in a 4-bed**.
@@ -181,6 +215,10 @@ Strict 18+, no exceptions. Check-in is **4pm** and check-out **10am**: a late ch
 It is a party hostel and does not pretend otherwise, which makes it the right answer for meeting people and the wrong one for an early start. Female-only dorms sleep up to 12, and there is an unusual **8-bed female private room** for groups. Rooms are hairdryer-equipped in the shared female rooms and lamp-equipped in the privates. Wheelchair accessible, 24-hour reception, luggage storage, laundry, restaurant and travel shop. Book on staygenerator.com for 20% off plus free breakfast and late checkout.
 
 Note the rebrand: it is now **Generator London King's Cross**, and a second site, **Generator London Greenwich** on Greenwich High Road, is advertised as coming soon.
+
+![A dorm room at Generator London, with a white-framed bunk bed against an orange geometric mural wall](../../assets/articles/best-hostels-london/generator-london-dorm.jpg)
+
+*A dorm room at Generator London, against one of the hostel's painted mural walls.*
 
 ### Kabannas London St Pancras — the one that used to be YHA
 
@@ -200,6 +238,10 @@ Three room types: a bed in a shared room, a private room, and a private en-suite
 
 The trade-off is the one thing it does not have: **no female-only dorm**, at this hostel or anywhere in YHA's published room types.
 
+![A shared room at YHA London Central, with metal bunk beds and blue curtains at the window](../../assets/articles/best-hostels-london/yha-london-central-dorm.jpg)
+
+*A shared room at YHA London Central.*
+
 ### [Astor Hyde Park](hotel:astor-hyde-park) — the best building, with a catch
 
 191 Queen's Gate, SW7 5EU, opposite the Royal Albert Hall and walking distance from the three free museums. A Victorian townhouse with the cornicing and fireplaces intact.
@@ -207,6 +249,10 @@ The trade-off is the one thing it does not have: **no female-only dorm**, at thi
 **Mixed dorms of 4, 5 and 6 beds, en-suite, from £22. Female rooms of 4 and 10 beds, en-suite, from £22. Double and twin private rooms, en-suite, from £99.** Fully equipped kitchen, free high-speed Wi-Fi, free PC access, laundry, free hairdryer, CCTV, luggage storage free on arrival. Free breakfast.
 
 **The catch is the age line**: Astor welcomes guests aged **18 to 39 in shared dormitories**. Over that, the private rooms are the only option. Lockers, towels and breakfast are charged at Astor Victoria, and padlocks are sold rather than lent at both. Townhouse stairs, no lift — hard work with a big bag, and not accessible.
+
+![A shared dorm at Astor Hyde Park, with red-framed bunk beds and a tall sash window](../../assets/articles/best-hostels-london/astor-hyde-park-dorm.jpg)
+
+*One of the shared dorms at Astor Hyde Park.*
 
 ### [Astor Victoria](hotel:astor-victoria) — for the coach station
 
@@ -216,6 +262,10 @@ The trade-off is the one thing it does not have: **no female-only dorm**, at thi
 
 Same age rule as Hyde Park: **shared dormitories are 18 to 39 only**, and the twin is the way round it.
 
+![A shared dorm at Astor Victoria, with red-framed bunk beds either side of a communal storage unit](../../assets/articles/best-hostels-london/astor-victoria-dorm.jpg)
+
+*A shared dorm at Astor Victoria.*
+
 ### [Palmers Lodge Swiss Cottage](hotel:palmers-lodge-swiss-cottage) — the mansion
 
 An 1882 Victorian mansion, the former lodge of Lord Palmer of biscuit fame, panelled and galleried in a way no purpose-built dorm block is.
@@ -223,6 +273,10 @@ An 1882 Victorian mansion, the former lodge of Lord Palmer of biscuit fame, pane
 **Private rooms sleeping 1 to 4 from £48. Small dorms of 4 to 8 from £22. Large dorms of 10 to 18 from £18. Female dorms of 4 to 12 from £20.** Deluxe rooms, both private and shared, are **en-suite**; the rest use shared bathrooms. Every bed gets a locker and a privacy curtain, and linen is free. Self-service kitchen, laundry, a bar serving continental breakfast, 24-hour staff, full CCTV, key card access throughout, safes at reception — and **car parking**, which is close to unheard of at this price in London.
 
 Two practical notes. **Bring a padlock** for the in-room lockers. And the hostel publishes no street address on its own contact or location page, only directions to Swiss Cottage station on the Jubilee line — about fifteen minutes from Bond Street, further out than the King's Cross cluster.
+
+![One of Palmers Lodge's large dorms, with black-framed bunk beds, orange privacy curtains and a red carpet running to the corridor](../../assets/articles/best-hostels-london/palmers-lodge-swiss-cottage-dorm.jpg)
+
+*One of Palmers Lodge's large dorms.*
 
 ### [Safestay London Kensington Holland Park](hotel:safestay-kensington-holland-park) — inside the park
 
@@ -232,6 +286,16 @@ Holland Walk, W8 7QU. A listed building standing in the East Wing of a Jacobean 
 
 **Its own facilities list names no self-catering kitchen**, which is the one thing to weigh against the setting — if cooking is how you make the trip affordable, this is not the hostel.
 
+<div class="photo-row">
+
+![A dorm room at Safestay London Kensington Holland Park, with curtained pod-style bunks and pink-and-green striped feature wallpaper](../../assets/articles/best-hostels-london/safestay-kensington-holland-park-dorm.jpg)
+
+![The attached bathroom at Safestay London Kensington Holland Park, with twin sinks, illuminated mirrors and a large sash window](../../assets/articles/best-hostels-london/safestay-kensington-holland-park-bathroom.jpg)
+
+</div>
+
+*A dorm at Safestay London Kensington Holland Park, and its attached bathroom.*
+
 ### [Barmy Badger Backpackers](hotel:barmy-badger-backpackers) — the small one
 
 17 Longridge Road, Earl's Court, SW5 9SB. A family-run house on a residential street with dogs living on site, which is the reason people either book it or avoid it.
@@ -239,6 +303,16 @@ Holland Walk, W8 7QU. A listed building standing in the East Wing of a Jacobean 
 **Mixed or female-only 4 and 6-bed dorms with freshly renovated shared bathrooms — plus two female-only en-suite dorms.** A private double has a double bed, sprung mattress, washbasin, safe and a shared bathroom; the twin has bunks, a sink and a large cupboard with a laptop safe. Every dorm guest gets a large locker with a laptop safe inside it — **bring your own padlock**. Free breakfast, a full kitchen.
 
 Small enough that it fills early, and the opposite end of the scale from the two-hundred-bed places around King's Cross.
+
+<div class="photo-row">
+
+![A bunk bed at Barmy Badger Backpackers, in wood with a ladder, beside a sash window and a chest of drawers](../../assets/articles/best-hostels-london/barmy-badger-backpackers-dorm.jpg)
+
+![One of the bathrooms at Barmy Badger Backpackers, with a corner shower, beige tile and a wood-seat toilet](../../assets/articles/best-hostels-london/barmy-badger-backpackers-bathroom.jpg)
+
+</div>
+
+*A bunk room and one of the bathrooms at Barmy Badger Backpackers.*
 
 ### [Onefam Notting Hill](hotel:onefam-notting-hill) — the social one, with a caveat
 
@@ -249,6 +323,10 @@ The model is a **free dinner** most evenings rather than a bar, plus a nightly o
 Its published room list is a **private twin and a private double, both with shared bathrooms, and 4, 6 and 8-bed mixed dorms**. As above: the same page also advertises female-only dorms, and they are not in that list. Confirm before booking.
 
 It draws the most enthusiastic writing of any hostel in our community research — 55 mentions across 17 threads, for the free dinner, the pub crawls and quiet hours that are actually enforced after 10pm. That enthusiasm is not universal, and the dissent came from a solo female traveller. **If you are over 35, check before you book.** Reddit says repeatedly that Onefam turns away over-35s. Onefam's own site states no age limit for Notting Hill, but its Waterloo hostel is sold on Hotels.com as "Onefam Waterloo 18-36 years old", so the rule may be real.
+
+![One of the curtained pod-style bunks at Onefam Notting Hill, each bed numbered and fitted with its own curtain](../../assets/articles/best-hostels-london/onefam-notting-hill-dorm.jpg)
+
+*One of the curtained pod-style bunks at Onefam Notting Hill.*
 
 ### [Urbany Hostel London](hotel:urbany-hostel-london) — read the age line first
 
@@ -266,6 +344,10 @@ It draws the most enthusiastic writing of any hostel in our community research �
 
 The operator calls it "a very small hostel" and caps groups at eight. It welcomes families, but **under-10s cannot use a dorm at all** and need a private family room with an adult. Mile End is a good Tube location and a walk to very little.
 
+![A room at Park Villa, with a green-and-blue bunk pod built in OSB board, plantation shutters and a single bed alongside](../../assets/articles/best-hostels-london/park-villa-hostel-dorm.jpg)
+
+*A room at Park Villa, with one of its custom-built bunk pods.*
+
 ### The Walrus
 
 *172 Westminster Bridge Road, SE1 7RW · Waterloo 5 min · [thewalrusbarandhostel.co.uk](https://www.thewalrusbarandhostel.co.uk/)*
@@ -277,6 +359,10 @@ The operator calls it "a very small hostel" and caps groups at eight. It welcome
 **Check-in is self-service from 2.30pm** with documents sent before noon, or reception between 3pm and 11pm. **Check-out is 10am**, which is early. Luggage storage is free before check-in and **£3 a bag afterwards**, 8am to 11pm. Groups need a minimum of two nights, and cancellation is 72 hours.
 
 The operator does not publish its dorm bathroom arrangement, whether it runs a female-only dorm, or an age policy, so those columns are blank above rather than guessed.
+
+![A four-bed dorm at The Walrus, with grey metal bunks labelled by bed and an armchair by the window](../../assets/articles/best-hostels-london/the-walrus-hostel-dorm.jpg)
+
+*A four-bed dorm at The Walrus.*
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What we left out, and why
