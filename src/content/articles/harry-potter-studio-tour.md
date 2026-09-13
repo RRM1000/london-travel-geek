@@ -88,7 +88,7 @@ The photo package covers the green screen broomstick flight and the printed extr
 
 **The free accessibility alternatives are worth knowing about:** audio descriptive tours, tactile tours, braille and large-print image books, induction loops, and BSL tours with a qualified interpreter, all free — the BSL tours need 14 days' notice.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-studio-tour-bundles" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="679208,31392,297085"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The upgrades
 
@@ -156,9 +156,9 @@ Both stations are step-free to the platforms, and Watford Junction has staff on 
 
 If you would rather not buy the two separately, the packages below include entry and the transport, and a rep who swaps your voucher for the real ticket:
 
-- **Train and entry, about £75** — return train from Euston, the free shuttle and your ticket, which is only a little over the £58.50 door price plus the fare.
-- **Coach from Victoria and entry, about £85** — a return coach, so no change of transport.
-- **Hotel pickup and entry, about £155** — a private vehicle from a central London hotel, for up to eight people.
+- **About £75** — <a href="https://www.getyourguide.com/activity/-t679208?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour with a return train from Euston</a>, which is only a little over the £58.50 door price plus the fare.
+- **About £85** — <a href="https://www.getyourguide.com/activity/-t31392?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour with a return coach from Victoria</a>, so no change of transport, and a rep swaps your voucher for the ticket.
+- **About £155** — <a href="https://www.getyourguide.com/activity/-t297085?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour with hotel pickup</a>, a private vehicle from a central London hotel, for up to eight people.
 
 > ⚠️ **Do not buy a transfer without a ticket by mistake.** Some listings sell the coach seat only, and you will be refused boarding without your own Studio Tour ticket. Check that entry is included before you pay.
 
@@ -182,7 +182,7 @@ Every car needs a booking confirmation to get in, and **you cannot go back to th
 
 Entry slots run every 30 minutes. Saturdays and school holidays sell out first; late-afternoon slots are the ones left when a date is nearly full, and they work well — the tour has no closing rush because there is no time limit once you are in.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What people get wrong
 

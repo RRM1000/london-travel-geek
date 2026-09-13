@@ -35,8 +35,6 @@ It is also the rare day trip where the station puts you in the middle of everyth
 
 > 💡 **The Short Version:** **Paddington to Bath Spa, 1h15 direct.** Off-Peak Return **£75.90**, or **£47.60** in Advance singles booked a month out. **Roman Baths £26.50 weekday, £29.00 weekend** in advance, **£2 more on the door**, timed slots, **allow 90 minutes to 2 hours**. **Thermae Bath Spa rooftop pool £44 weekdays, £49 weekends**, two hours, **16 and over only**, and walk-in slots run out. **Bath Abbey £9**, tower tour **£18**, and Sunday visiting is only **13:00–15:30**. **No.1 Royal Crescent £16**, closed Mondays. **Cars pay nothing in the Clean Air Zone**; older vans pay £9. **2FOR1 covers almost nothing here.** Last direct train back **23:05** on a weekday.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="61147,43772,602620"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 **Book a tour direct:**
 
 - **£85** — <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Bath, with Stonehenge entry included</a>
@@ -117,7 +115,7 @@ Charges apply only to **Euro 1–5/V diesel and Euro 1–3 petrol or earlier**, 
 
 > ⚠️ **The title is not the includes list, and on this route the two often disagree.** <a href="https://www.getyourguide.com/activity/-t1408799?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">One £102 tour called "Bath and Cotswolds Day Trip with Roman Baths"</a> lists "Entry to the Roman Baths (ONLY IF PURCHASED)", and <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the most-booked Bath trip of all</a> puts "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" in its inclusions. Seven of the fourteen pages we read do this. **Assume the £26.50 Roman Baths ticket is yours to buy** unless the includes list says otherwise without a clause — and note that the 16-seat small-group operators exclude the Stonehenge ticket openly, and print its price, which is the honest version of the same arrangement.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-stonehenge-and-bath-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="61147,43772,602620"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The Roman Baths
 
@@ -177,6 +175,8 @@ Date and time changes cost £5 with 24 hours' notice; cancelling carries a £10 
 Most Stonehenge trips from London bundle Bath in, which is the other way round to think about this day — see [Stonehenge from London](/articles/stonehenge-day-trip/) for which of those actually include the stones.
 
 **The Cotswolds is the other standing pairing**, sold as a £119 coach day or a £154 small group with Stonehenge added, and nothing in those villages charges admission, so there is no hidden ticket waiting in Bourton-on-the-Water. It is also the one pairing with a thread running between the two ends: Bath is the southern terminus of the **Cotswold Way**, 102 miles down from Chipping Campden. Which villages you can reach by train and bus rather than coach is in [the Cotswolds from London](/articles/cotswolds-day-trip/) — the short answer is Moreton-in-Marsh, Stow and Bourton, and not Castle Combe, which is twelve miles from here and belongs to a Bath day instead.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-cotswolds" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,593863"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The rest of the day
 
@@ -265,6 +265,8 @@ Less than anywhere else worth visiting this far from London, and none of the hea
 | **Sunday** | **22:41** | 00:15 |
 
 > ⚠️ **Sundays are a different railway on this route.** After the 22:41 the next service takes **6 hours 54 minutes** with a change, arriving 06:29 — so the last Sunday direct is a hard deadline, not a soft one. Sunday mornings are affected too: on the three Sundays we checked, departures around 09:30 ran 1h49 to 1h51 with a change, and the first direct train was not until about 10:30. One of them also showed a 2h56 routing with two changes. Check your actual date before planning a Sunday around an early arrival.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What people get wrong
 

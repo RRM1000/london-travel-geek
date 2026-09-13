@@ -35,8 +35,6 @@ The harder question is how you get there. Stonehenge sits in a field off the A30
 
 > 💡 **The Short Version:** **Adult advance £27.20–£32.30** by date, **15% more on the day**, children half price, **members free** — and **National Trust England members free too**. **Open 09:30–17:00 daily**, shut only on Christmas Day, **last ticket sold 14:30**. Train **Waterloo to Salisbury, 1h23, from £16.40**, then the **Stonehenge Tour bus, £43.50 including admission** — but only **five buses out in winter, the last at 14:05**. **Inside the circle is the Stone Circle Experience only, from £70.** **Free at the solstices and equinoxes** — next up **23 September 2026**. **Allow two hours** on site. Parking **£4**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 **Book a tour direct:**
 
 - **£66** — <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge morning trip, entry included</a>
@@ -113,6 +111,8 @@ On money, one adult mid-week in winter is roughly **£33 to £40 for the rail re
 
 **This is one of the few day trips where driving genuinely wins.** Two hours each way against three, no five-a-day bus to miss at Salisbury, and £4 to park at the other end — and the car then makes Salisbury, Avebury or the Cotswolds possible on the same day in a way the timetable does not. What a day's hire actually costs, including the excess and the charges visitors do not see coming, is in our guide to [hiring a car and driving in the UK](/articles/car-hire-driving-uk/).
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Seeing it free, from the National Trust land
 
 **The stones sit in 2,100 acres of National Trust downland, and that land is free and open all year.** Public byways and bridleways cross it, so you can walk to within a field of the circle without a ticket — the view from **King Barrow Ridge**, across the Avenue, is the one worth walking for.
@@ -166,9 +166,9 @@ The conditions are the same every time: do not touch or climb the stones, no alc
 
 Bags may be searched and there is no cloakroom or left luggage, so travel light. Assistance dogs go everywhere; other dogs are limited to the visitor centre and cannot board the shuttle or enter the stone circle field.
 
-## The coach tours
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-cotswolds" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,593863"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-entry-confirmed" data-gyg-tour-ids="219849,16096,61147" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+## The coach tours
 
 Three products whose own inclusions list puts the admission in the price with no condition attached: a **6½-hour morning trip at £66**, a **6-hour half-day at £69.30**, and an **11-hour Stonehenge-and-Bath day at £85**.
 
@@ -216,6 +216,8 @@ All three are cheaper than doing it yourself only if you count the coach: Englis
 > ⚠️ **The pattern that costs people money: the entry ticket is named in the title and then made conditional in the inclusions list.** The wording to look for is **"if option selected"**, and it is usually buried among genuinely-included things like Wi-Fi and an audio headset. <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge, Bath and Roman Baths</a> — 5,821 reviews, near the top of most searches — names four things and lists "Admissions to Windsor Castle, Stonehenge and Roman Baths (if purchased)". <a href="https://www.getyourguide.com/activity/-t15627?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge &amp; Bath with Optional Roman Baths</a> flags one optional entry in the title and quietly makes the Stonehenge ticket optional too. <a href="https://www.getyourguide.com/activity/-t502413?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge &amp; Windsor Castle Tour with Tickets</a> says "with Tickets" and means one of the two. Thirteen of the twenty-seven pages we have read do this, including the two most-booked products of all sixty. **Open the inclusions list and check that "entry" or "admission" appears with no condition after it — then, at checkout, pick the option that names the ticket.**
 
 **Two small-group operators handle it honestly and are worth knowing about:** <a href="https://www.getyourguide.com/activity/-t602620?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and the Cotswolds</a> at £154 (4.9 from 167) and <a href="https://www.getyourguide.com/activity/-t43772?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and a secret site</a> at £143.10 (4.9 from 172) both state flatly that the Stonehenge ticket is not in the price, print the full English Heritage price table in their exclusions, and sell you the ticket from the guide on the day. No trap — just a number you have to add on.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Does anything else fit in the same day?
 

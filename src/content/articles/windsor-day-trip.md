@@ -35,8 +35,6 @@ It is, otherwise, the easiest big day trip out of London: half an hour from Padd
 
 > 💡 **The Short Version:** **£32.00 adult in advance, £16.00 child, £96.00 for two and two.** **Closed Tuesdays and Wednesdays.** **Paddington via Slough, 28–38 minutes, £7.90 off-peak**, or **Waterloo direct, 53 minutes, £8.90**. **Contactless works, Oyster does not.** **St George's Chapel is shut to visitors on Sundays.** **Changing of the Guard is Thursday and Saturday at 11:00.** Allow **1½ to 2 hours** inside. **2FOR1 does not cover the Castle.** Sign your ticket on the way out and it becomes a **free pass for a year**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71088,645578,53858"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 **The coach tour most people end up booking does not get you inside the Castle.** Windsor, Stonehenge and Bath in a single day, from £71, is among the most-booked day trips out of London, and its inclusions list reads "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" — so the tickets are yours to buy on top, and on a Tuesday or Wednesday there is nothing to go into at the Windsor end. [Which tours include what](#day-tours-that-include-windsor-compared) is further down this page, read off fourteen product pages. [Stonehenge from London](/articles/stonehenge-day-trip/) and [Bath from London](/articles/bath-day-trip/) price the other two stops properly.
 
 ## Getting there
@@ -133,11 +131,11 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 **Two more things the website buries.** There is **airport-style security screening** on arrival. And **large backpacks and pushchairs are not allowed in the State Apartments** — the cloakroom is at the China Museum, a ten-minute, mostly uphill walk from the Admission Centre.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ![A State Apartment at Windsor Castle: crimson walls, gilded ceiling, chandeliers and portraits above a marble fireplace](../../assets/articles/windsor-day-trip/state-apartments.jpg)
 
 *The State Apartments, which are what the £32 ticket buys.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-windsor" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71088,18994,645578"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What 2FOR1 does and does not cover
 
@@ -188,6 +186,8 @@ And for LEGOLAND, <a href="https://www.getyourguide.com/activity/-t645578?partne
 
 > ⚠️ **"Entry" inside the includes list is not entry.** Nine of the fourteen pages we read put the Castle in the **includes** list with a tick and then qualify it — "Entry to Windsor Castle (if option selected)" — and the from-price is always the option without the ticket. The worst-worded is <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge, Bath and Roman Baths</a>: "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)". Before you pay, check the **option name in the date picker** says "with Entry" — and remember the Castle is shut Tuesdays and Wednesdays whichever option you buy.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What fills the rest of the day
 
 ![The Long Walk at Windsor, a straight avenue of trees running away from the castle with people strolling down it](../../assets/articles/windsor-day-trip/the-long-walk.jpg)
@@ -228,6 +228,8 @@ Which sets up a neat trade: **Sunday is the one day the Chapel is shut and the o
 - **Windsor Royal**, built into the Victorian station beside Windsor & Eton Central, for the straight-off-the-train option.
 - **Eton High Street**, for cafés and restaurants without the coach parties.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Last trains, and how long the day really takes
 
 ![Windsor Castle's Henry VIII Gate and battlements at dusk, lit by street lamps](../../assets/articles/windsor-day-trip/henry-viii-gate.jpg)
@@ -242,8 +244,6 @@ Which sets up a neat trade: **Sunday is the one day the Chapel is shut and the o
 > ⚠️ **Sunday engineering work closes the Slough–Windsor branch outright some weeks.** Checking two consecutive Sundays in September 2026 gave no evening service at all on one and a normal service on the other. If you are counting on a late Sunday train home, check that specific date.
 
 **A Castle-only trip is a comfortable half day.** Leave London at 09:30, be inside by 10:30, out by 12:30. **Castle plus the Long Walk, or Castle plus a river trip and Eton, is a full day** and you will still be home for dinner. Anything involving LEGOLAND is a day of its own.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What people get wrong
 

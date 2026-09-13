@@ -35,8 +35,6 @@ Contactless does not work. That trips people up at the gate, and it also costs t
 
 > 💡 **The Short Version:** **King's Cross, 49 minutes**, Off-Peak return **£32.40**, Advance singles from **£15.20**. **Liverpool Street is cheaper at £27.50** but takes 1h25. **Oyster and contactless are not valid.** **King's College £16.75** booked early, **St John's £17** but summer only, **Queens' £5**, and **Trinity does not admit the public to its courts** — £10 for a Porter-led tour. The **Fitzwilliam Museum is free**, the **Botanic Garden £7.74** in advance, the **Round Church £3.50**. **Punting is £28.50 an hour** for a whole self-hire punt, or **from £41** chauffeured. **Never buy punting from someone on King's Parade** — touting is a criminal offence in Cambridge and those sellers are unlicensed. Last direct train back **23:51**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="137081,146070,91836"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 **Not one of those includes King's College at the price on the card.** [Day tours that include Cambridge, compared](#day-tours-that-include-cambridge-compared) is further down, with what each one actually buys you.
 
 ![King's College Chapel in Cambridge, its pinnacles and great east window lit pink at dusk](../../assets/articles/cambridge-day-trip/kings-college-chapel.jpg)
@@ -85,8 +83,6 @@ Cambridge is about 106km by road, off the M11 at Junction 13 for Madingley Road.
 
 **The five park and ride sites are Babraham Road, Madingley Road, Milton, Newmarket Road and Trumpington.** Bus tickets are bought from the driver with cash or contactless; a £10 small group ticket covers up to three people all day, £15 covers up to five. Stay past 18 hours and parking costs £10, paid through RingGo within the first hour of arrival.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The colleges
 
 ![The Bridge of Sighs at St John's College, its covered stone arch crossing the River Cam between college buildings](../../assets/articles/cambridge-day-trip/bridge-of-sighs.jpg)
@@ -117,6 +113,8 @@ This is the part worth getting right, because the colleges are not a set of equi
 **St John's has the same problem from the other direction:** paid general entry exists only between 6 July and 30 September. Outside that window the free list — alumni, University and CAMCard holders with guests, Cambridge residents with a CB postcode, prospective students, and anyone going to a chapel service — is the only way in.
 
 **The free alternative at King's is a service.** Chapel services are free and open to visitors. You will not be let in once one has begun, so arrive early; allow up to an hour for Evensong and an hour and a quarter for Holy Communion. No bags bigger than airline hand luggage, and no photography.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-oxford-cambridge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="234277,331461,146070"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Punting, and the men on King's Parade
 
@@ -201,6 +199,8 @@ We read the includes and excludes lists on twelve product pages on 12 September 
 - **Punting:** <a href="https://www.getyourguide.com/activity/-t472139?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£15 a head shared</a> on your own, <a href="https://www.getyourguide.com/activity/-t281312?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£25 a row</a> for two, and Scudamore's direct at £28.50 if you want to punt yourself.
 - **Both universities:** do them on separate days by train. If you will not, <a href="https://www.getyourguide.com/activity/-t85239?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £85 tour</a> is the least bad, and the £119 is £48.90 more than both return fares combined.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What costs nothing, and what costs almost nothing
 
 ![Cambridge rooftops from above, the market square and shopfronts below with college lawns beyond](../../assets/articles/cambridge-day-trip/city-from-above.jpg)
@@ -240,6 +240,8 @@ Yes, on less than you would hope, and on nothing academic.
 
 ⚡ **[National Rail 2FOR1: how to actually get it](/articles/national-rail-2for1-london-attractions/)** — the rules, the eVouchers, and the attractions that are only a third off.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## How long the day takes
 
 **Seven hours in Cambridge is plenty and five is enough.** The centre is small, the colleges are a ten-minute walk apart, and the only thing that eats time is the river.
@@ -253,8 +255,6 @@ A working shape: leave King's Cross at 10:54 for the fast train, in at 11:43. Wa
 | **Liverpool Street, last direct** | **22:48** | 00:18 |
 
 After the 22:48 to Liverpool Street you are into journeys with a change — the 23:51 gets in at 01:40.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What people get wrong
 

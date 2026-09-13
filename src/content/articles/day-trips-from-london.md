@@ -31,8 +31,6 @@ The good day trips from London are all about an hour away, and the money is in t
 
 > 💡 **The Short Version:** **Windsor** is the shortest and cheapest journey, and its castle is **closed on Tuesdays and Wednesdays**. **Oxford** is cheapest by coach, **Cambridge** by advance single. The **Harry Potter Studio Tour** must be booked weeks ahead and sells nothing on the door. **Contactless works to Windsor and Watford, but Oyster does not** — and neither works to Oxford or Cambridge.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,71088"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The four, compared
 
 | Destination | From | Journey | Return fare | The main ticket |
@@ -60,6 +58,8 @@ The catch is the colleges. Some charge, some are free, and several close to visi
 
 → **[The full Oxford guide](/articles/oxford-day-trip/)**
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Cambridge
 
 **49 minutes from King's Cross** on the fast train, or slower and cheaper from Liverpool Street. Neither Oyster nor contactless works, and the walk-up fare can be £48 on a morning fast train, so book ahead: advance singles start at **£15.20**.
@@ -67,8 +67,6 @@ The catch is the colleges. Some charge, some are free, and several close to visi
 King's College is **£16.75**, St John's £17, Queens' £5, and Trinity does not let the public into its courts at all. Punting is **£28.50 a punt** if you row it yourself, from £41 a seat if someone else does — and the touts on the street are breaking a council order, so book at one of the licensed stations.
 
 → **[The full Cambridge guide](/articles/cambridge-day-trip/)**
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The Harry Potter Studio Tour
 
@@ -100,8 +98,6 @@ Some of these places are easy by train. Others — Stonehenge, the Cotswolds, Hi
 
 > ⚠️ **Check what the price includes before you book.** On a lot of coach tours the attraction named in the title is an optional extra, so entry is charged on top. Read the includes list rather than the title.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-tours-range" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,1128430"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where else is worth the train
 
 Some of these have a full guide of their own now, linked where they do. The rest do not, and are here because they are worth the day anyway:
@@ -121,6 +117,8 @@ Some of these have a full guide of their own now, linked where they do. The rest
 - **Travel out after 09:30 on weekdays** for off-peak fares, which on most of these routes also means a seat.
 - **Check the last train before you commit to dinner.** They are earlier than London habits assume, particularly on Sundays, when engineering work can close a branch line entirely.
 - **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** covers some attractions, including things in Cambridge, but not Windsor Castle or the colleges. It needs a paper ticket, not contactless.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

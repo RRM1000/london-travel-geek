@@ -171,6 +171,8 @@ Two things are worth going in for, and both are free. A **Roman tessellated pave
 
 Open to visitors **Monday to Friday 8am to 5pm, Saturday 10am to 5pm and Sunday 12.30pm to 5pm** — the one church on this route that reliably opens seven days. Times can move with staffing.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 9. The Tower of London
 
 The one paid ticket on the route, and a **half-day in its own right** rather than a stop on a walk.
@@ -180,8 +182,6 @@ If you are doing it, **book ahead and go at opening** — the Crown Jewels queue
 ![The Middle Tower and outer curtain wall of the Tower of London above the dry moat, with contractors' hoarding and site cabins along the near side](../../assets/articles/city-of-london-walk/tower-of-london-entrance.jpg)
 
 *The west entrance, and the moat you cross to reach it. The hoarding along the near side is current works — you walk past it either way.*
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 10. Tower Bridge
 

@@ -105,8 +105,6 @@ Head **south across South Dock** and the towers fall away fast. Within ten minut
 
 > 💡 **Detour: Wood Wharf and Eden Dock.** Ten minutes east: a waterside restaurant strip with a Hawksmoor floating on the dock, and Eden Dock's planted floating islands. Free, and busiest at weekends.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## 4. Mudchute Park and Farm
 
 **Working farmland in Zone 2, with the towers still visible over the fence.** This is the surprise of the walk: 32 acres and over a hundred animals, free, run by a community charity. The farm is open 9am to 4pm (the animals go in from 3pm) and the park dawn to dusk. The courtyard café opens Tuesday to Sunday.
@@ -116,6 +114,8 @@ The name tells you what the ground is. The land was **made from mud dredged out 
 ![Swans and pigeons on a floating dock in an Isle of Dogs marina, with the converted Victorian warehouse flats behind and Canary Wharf's towers rising in the distance](../../assets/articles/canary-wharf-greenwich-walk/isle-of-dogs-marina-swans.jpg)
 
 *The docks on the way down are marinas now, and you can have this stretch almost to yourself.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. Island Gardens
 
@@ -154,8 +154,6 @@ If you are not going in, the ship is free to look at from the street, and **the 
 **Two minutes inland, and the lunch stop.** Covered, open daily 10am to 5.30pm, and unusual for London in mixing crafts, antiques and makers with street food rather than being one or the other. It closes only on Christmas Day and the first six Mondays of the year, whatever older guides say about Mondays.
 
 **Goddards** has sold pie and mash a few doors away since 1890, to recipes it says have not changed. It is the most Greenwich lunch there is. Weekends are shoulder to shoulder; weekdays have room.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 9. The Old Royal Naval College
 
@@ -211,6 +209,8 @@ You do not have to pay to finish well. After eleven stops and a river crossing, 
 - **The Old Brewery** (££) — inside the Naval College grounds.
 - **The Trafalgar Tavern** or **the Gipsy Moth** (££) — for a pint at the end.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The best day to go
 
 **Any day, which is unusual for a London walk.** Nothing on the route closes weekly.
@@ -222,8 +222,6 @@ You do not have to pay to finish well. After eleven stops and a river crossing, 
 | **Weekend** | Greenwich packed; Wood Wharf and Eden Dock at their best |
 
 Start around 10am and you reach the market for lunch and the hill in the late afternoon, with the light behind you looking back at the City. In winter, start before midday or you will climb the hill in the dark. With two indoor museums and a covered market, it is a better wet-day walk than it sounds.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

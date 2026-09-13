@@ -112,7 +112,7 @@ The deposit is refundable and is not the excess. Hertz warns it can take **up to
 
 > ⚠️ **Your card has to be the right kind of card.** Debit cards must carry Visa or Mastercard — **Maestro, Visa Electron and pre-paid cards are refused** by both Hertz and Enterprise. Cash is not accepted for UK rentals. The card must be in the **main driver's name**, and if you pre-paid online you must produce **that same card** at the desk. Enterprise requires a **credit** card, not debit, for people carriers, SUVs and anything premium.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Automatic or manual
 
@@ -187,7 +187,7 @@ Rates from 2 March 2026 for a car emitting 91–150 g/km. A pre-2015 diesel pays
 
 Eight hours in a Mayfair bay is **£59.44**, before the £18 Congestion Charge and before you have moved. For getting around town, use the Tube and the bus — our [London transport costs and fares guide](/articles/london-public-transport-costs-and-fares/) has the numbers.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-cotswolds" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,593863"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## On the road
 
@@ -268,7 +268,7 @@ A **Penalty Charge Notice** is a civil parking or traffic fine issued by a counc
 
 **In a hire car the notice goes to the hire company**, because they are the registered keeper. They pass your details to the issuer and charge you the fine plus their admin fee — **£46.20 at Hertz, £40 at Sixt, per item**. The fee is charged whatever the fine, and the paperwork often reaches you after the 14-day discount has lapsed. A bay overstay you could have settled yourself for **£55** arrives instead as **£156.20**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Fuel and charging
 

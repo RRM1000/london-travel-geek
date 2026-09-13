@@ -120,8 +120,6 @@ The original street names are still traceable on a few buildings: Earlham Street
 
 Ninety stores and more than fifty cafés, bars and restaurants sit in the streets around it now, and it is **noticeably calmer than the Piazza three minutes south** — which is the whole reason this route does it first.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## 4. Neal's Yard
 
 ![The brightly painted buildings and packed outdoor tables of Neal's Yard](../../assets/articles/covent-garden-walk/neals-yard.jpg)
@@ -140,6 +138,8 @@ Two things immediately outside it are better than anything in it:
 - **Monmouth Coffee**, 27 Monmouth Street — the original shop, roasting here since **1978**, with a permanent queue. **Monday to Saturday 8am to 7pm, closed Sunday, card only.**
 
 > ⚠️ **Monmouth is shut on Sundays.** It is the one address on this route that closes for the day of the week most people walk it. If coffee is the plan, that is your Sunday problem solved by knowing about it in advance.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. Seven Dials Market
 

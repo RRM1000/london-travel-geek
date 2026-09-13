@@ -159,8 +159,6 @@ A full retrospective of the American who spent his career in London: **the famou
 
 **Ticketed, and free for Tate Members**, which pays for itself quickly if you are going to two or more shows this autumn. Book ahead for a weekend — this is the one exhibition on this list where turning up on spec in the final fortnight is likely to fail.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Exhibitions worth the trip
 
 Running through September and beyond, so no rush — but these are the good ones.
@@ -168,6 +166,8 @@ Running through September and beyond, so no rush — but these are the good ones
 **BBC TV 90 at Alexandra Palace**, 18 September to 30 November, is the pick. BBC television began at Ally Pally in 1936, so a ninetieth-anniversary exhibition there is on the actual site rather than merely about it — the transmitter mast is still on the roof.
 
 **John Constable: views of nature** at the British Museum runs to 4 October and is **free**. **Frida: The Making of an Icon** at Tate Modern runs to 3 January, so it will keep. The **Serpentine Pavilion** is in Kensington Gardens until 25 October, also free, and September is the last month it is reliably pleasant to sit in one. **Richard Dadd** at the Royal Academy runs to 25 October. **Open Roots** opens at the Photographers' Gallery on 18 September.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Theatre: the autumn openings
 
@@ -213,8 +213,6 @@ For something entirely different, the **Monteverdi Choir performs Rossini's *Pet
 
 Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## New restaurants and bars
 
 September is the opening rush — the trade holds its launches back through August and then releases them all at once. This is the most perishable section on the page; everything below opened in the first ten days of the month.
@@ -228,6 +226,8 @@ In the City, **The Albatross** (8–10 Old Jewry, EC2R 8DN) is the Goodman and W
 Further out, **Marrion's** on Morning Lane in Hackney is a neighbourhood bar from the man behind Norman's — classic cocktails, Spanish beer, devilled crab rarebit. **Pardeh** in Bethnal Green is Persian; **Pino** in Stoke Newington is Puglian, with riso, patate e cozze on the menu.
 
 Three more worth watching: **Romy Gill has taken over The Pem** in St James's and turned it to regional Indian cooking; **Endo Kazutoshi** has opened his ENDO omakase room in Chelsea with a Moga listening bar above it; and **the Savoy's Beaufort Bar has become a wine bar**, complete with a bespoke charcuterie trolley. The Mr Fogg's team are opening **The Admiral's Mess** inside Admiralty Arch, where Clare Smyth and Daniel Boulud are also arriving.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Practical: September in London
 

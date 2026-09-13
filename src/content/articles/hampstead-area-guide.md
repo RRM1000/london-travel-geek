@@ -151,12 +151,12 @@ A genuine hamlet marooned inside the Heath itself, near North End — a handful 
 
 *The pergola walkway. It is at its best in late spring when the wisteria is out.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-area-guide-hampstead-heath-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampstead Heath walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Go deeper
 
 - **[The Hampstead Heath and Primrose Hill walk](/articles/hampstead-heath-primrose-hill-walk/)** — ten numbered stops from the village to Primrose Hill, with a map and what is open on which day.
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — where the Heath sits against the royal parks, and why it feels nothing like them.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-area-guide-hampstead-heath-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampstead Heath walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 

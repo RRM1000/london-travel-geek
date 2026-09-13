@@ -104,8 +104,6 @@ Fitzroy Street runs past the foot of the **BT Tower**, London's tallest building
 
 Then cross Oxford Street at Oxford Circus and take Princes Street to Hanover Square.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-mayfair-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## 4. Hanover Square and St George's
 
 **Hanover Square** is where the Elizabeth line's eastern entrance to Bond Street station comes up, which makes it the natural halfway exit.
@@ -113,6 +111,8 @@ Then cross Oxford Street at Oxford Circus and take Princes Street to Hanover Squ
 **St George's** is a minute south on St George Street: built 1721–24 by John James, with a *Last Supper* painted for the church by William Kent in 1724 and early 16th-century Flemish glass. **Handel worshipped here**, and the London Handel Festival still is here.
 
 > ⚠️ **St George's is closed on Saturdays**, apart from weddings and services. On **Sundays it opens only 8am to noon**. Monday to Friday it opens 8.30am to 4pm, and until 6pm on Wednesdays.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-mayfair-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. Savile Row
 

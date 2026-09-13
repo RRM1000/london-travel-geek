@@ -35,8 +35,6 @@ There is a train-and-bus day that genuinely works. It is narrower than you would
 
 > 💡 **The Short Version:** **Paddington to Moreton-in-Marsh, 1h25, £54.00 off-peak return** — and a single is £53.00, so always buy the return. The **Pulhams 801** leaves the station for **Stow in 20 minutes and Bourton in 40**, hourly, **including Sundays**. The **855 to Bibury runs Monday to Saturday and not at all on Sunday**; nor does the **606** to Broadway or the Stagecoach **1/2/3** to Chipping Campden. A **£8.50 day ticket** on the bus covers the lot. Driving is **2h14 and 88 miles** to Bourton, where 10 hours' parking is **£10.60** — against **free** at Stow Fosseway and **free** at Burford. **Bibury has no car park.** Nothing in the Cotswolds needs a ticket, so the paid attractions are all optional.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,1153007"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 Sixteen of those tours are compared further down — by which villages they visit, how long they stop in each, group size and departure point.
 
 ## First, which Cotswolds
@@ -92,6 +90,8 @@ One route does almost all the work. The rest are thin, and three of the five sto
 
 The museum in Bourton puts it more plainly than any timetable does: *"There are buses from Bourton to the main towns and Moreton-in-Marsh for rail connections, but they are not very regular and timetables change between summer and winter."*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-cotswolds" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,593863"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The coach tours, compared
 
 If you want Bibury **and** Bourton **and** Broadway in one day, you need a vehicle, and hiring one for a single day out of London rarely beats a seat on a tour. The Cotswolds is also the cleanest day trip on the market to buy: every village on every one of these itineraries is free to walk round, so a tour that includes "transport and a guide" and nothing else has not kept anything back from you. **The only tours where an entry ticket matters are the ones that bolt on Blenheim Palace, the Roman Baths or Stonehenge** — and that is exactly where one of them hides the ticket behind an option box.
@@ -133,7 +133,7 @@ What actually separates them is the village line-up, how long you stand in each 
 
 **And if you only want Bourton, Stow and the Slaughters, do not book any of them.** Moreton-in-Marsh and the 801 cost **£54 plus £8.50** and give you the whole day on your own clock, including Sundays — less than any coach seat here, for the one corner of the Cotswolds that public transport genuinely reaches. The tours earn their money the moment **Bibury, Burford or Broadway** joins the list, because nothing links those to each other.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-cotswolds-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,1153007"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Driving, and where you can put the car
 
@@ -213,6 +213,8 @@ National Trust prices are the without-Gift-Aid ones. Snowshill and Hidcote are f
 **With a car, in the south.** Bibury first thing before the bays fill, Burford for lunch and free parking, Cirencester if you still have light.
 
 **Do not attempt** Bourton and Bibury and Broadway in one self-driven day. That is a 10-hour coach itinerary with a professional driver, and you will spend it in the car.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## When to go, and when not to
 

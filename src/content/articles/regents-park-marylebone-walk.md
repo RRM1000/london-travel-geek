@@ -92,13 +92,13 @@ The first thing inside the gate. Follow the path north to the water and along th
 
 It plays **a summer season only, May to September**, and you go in for performances, not to look round. Tickets start at **£15**, plus a £2.50 booking fee per transaction. Grass-bank seats are sometimes sold on the day at the box office: from 11am for matinees and 5pm for evening shows, two per person.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="regents-park-marylebone-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 4. Queen Mary's Gardens
 
 **London's largest collection of roses**, in 85 beds around the Inner Circle. Early June is the peak; the borders and the ornamental lake carry it the rest of the year.
 
 **Free**, inside park hours: the gates open at 5am and close at dusk. Dogs are not allowed in. Leave by the **Chester Road** gates and walk east to the edge of the park.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="regents-park-marylebone-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. Chester Terrace and Cumberland Terrace
 

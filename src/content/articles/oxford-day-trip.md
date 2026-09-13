@@ -35,8 +35,6 @@ Oxford is 55 minutes from Paddington and small enough to cross on foot in twenty
 
 > 💡 **The Short Version:** **Train from Paddington, 55 minutes**, Off-Peak return **£37.70**, Advance singles from **£18**. **Oxford Tube coach from Victoria, £28 return**, every 10 minutes, **24 hours a day**. **Christ Church £22.95** on a term weekday (its Great Hall shuts 12–2pm for student lunch), **New College £12**, **Magdalen £10**, **Trinity £7**, **Merton £5**. **Lincoln, Keble and St John's are free**, all afternoons only. The **Ashmolean, Pitt Rivers and Natural History Museum are free**. **Punting is £25–£35 an hour**, or £50 per half hour with someone else doing the work. Driving means a **£5 congestion charge** — park and ride instead, **£3 for the car and up to five people**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-tours-top" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="234277,44382,2095"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 **Note what nearly every coach day has in common: none of them is only Oxford.** The coach trade treats the city as the gateway to places with no station, and the Cotswolds is the clearest case — there is no railway between the villages and the buses largely stop on Sundays, which is why a seat on a coach is a fair answer there and a poor one here. [The Cotswolds from London](/articles/cotswolds-day-trip/) sets out which villages you can reach yourself, and one of them starts at this end: the X52 runs from Oxford through Witney to Burford and on to Cheltenham. [Cambridge](/articles/cambridge-day-trip/) is the outlier on that list, because it needs no coach at all — an Off-Peak return from King's Cross is £32.40 and the fast train takes 49 minutes, so give it a day of its own. What each shape of day actually includes — and what it leaves as a paid extra — is compared below.
 
 ## Getting there
@@ -93,6 +91,8 @@ It picks up at **Victoria, Marble Arch, Notting Hill Gate, Shepherd's Bush, Acto
 
 Parking alone at Thornhill is free for the first hour and £2.50 up to 16 hours — so the combined ticket costs 50p more than parking and gets five people into town.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-oxford-cambridge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="234277,331461,146070"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Which day tours earn their place
 
 **With a £28 coach and a £37.70 train on the table, a tour has to buy you something the trains cannot** — the Cotswold villages with no railway, Warwick Castle, Stratford, Blenheim. For Oxford itself a tour is buying a guide and a college door, not transport.
@@ -132,8 +132,6 @@ Add Stratford and it costs money: <a href="https://www.getyourguide.com/activity
 > ⚠️ **An attraction in the title is often a paid extra.** The inclusions list is where it shows: <a href="https://www.getyourguide.com/activity/-t71373?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge and Oxford</a> has 5,879 reviews and reads "Entry to Windsor Castle (if option selected)" and "Entry to Stonehenge (if option selected)" — the £71 is a coach seat and a walking tour. <a href="https://www.getyourguide.com/activity/-t965?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford, Stratford, Cotswolds and Warwick</a> does it with Warwick Castle and Shakespeare's Birthplace, <a href="https://www.getyourguide.com/activity/-t18407?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford &amp; Cambridge Iconic Universities</a> with Christ Church and King's, and <a href="https://www.getyourguide.com/activity/-t2259?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Cotswolds and Blenheim Palace</a> with the palace itself. Where you want the entry, choose the option named "with Entrance Fees" and check the price against the gate — £22.95 for Christ Church, £12 for New College.
 
 *Tour prices, durations and inclusion lists read off each product page on 12 September 2026. GetYourGuide from-prices move, and several sit above the price in the search listing.*
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The colleges: which charge, and what they shut
 
@@ -195,6 +193,8 @@ The other genuine location is the Bodleian's **Divinity School**, which the libr
 **Lincoln, Keble and St John's let you in for nothing**, all in the afternoon. Lincoln asks you to ring the Porters' Lodge first and takes no large groups; Keble opens 14:00–17:00 daily; St John's does 14:00–17:00 in summer, 16:00 in winter, with the chapel shut on Wednesdays.
 
 **Worcester no longer takes walk-in tourists at all.** Its own page limits tourist access to official tours led by an Oxford Guild of Tour Guides member, or to public events. Residents of OX1 and OX2, applicants and alumni still get in free, 12:30–16:00.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-cotswolds" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,593863"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What is free, and it is a lot
 
@@ -264,7 +264,7 @@ Some of it. The National Rail scheme lists Oxford attractions, but **no college 
 
 The rules are the part people get wrong — it needs a National Rail ticket and two people, and the voucher process changed this year. [How National Rail 2FOR1 actually works](/articles/national-rail-2for1-london-attractions/) has the current version.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How long the day takes
 

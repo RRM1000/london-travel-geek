@@ -56,16 +56,16 @@
       ]
     },
     "day-trips": {
-      "for": "Itineraries and longer stays, where the reader has a spare day.",
+      "for": "Itineraries and longer stays, where the reader has a spare day. Entry confirmed included on all three.",
       "tourIds": [
-        "945",
-        "60796",
+        "219849",
+        "215430",
         "61147"
       ],
       "titles": [
-        "Windsor, Stonehenge, Bath and the Roman Baths",
-        "Cotswolds and Oxford",
-        "Stonehenge and Bath"
+        "Stonehenge with admission",
+        "Cotswolds villages, small group",
+        "Stonehenge and Bath with Stonehenge entry"
       ]
     },
     "harry-potter": {
@@ -105,6 +105,71 @@
         "St Paul's Cathedral",
         "British Museum guided tour",
         "Natural History Museum reserved entry"
+      ]
+    },
+    "studio-tour-bundles": {
+      "for": "The Warner Bros. Studio Tour page. Entry plus transport, which is the only thing GetYourGuide can sell here that the operator does not sell direct.",
+      "tourIds": [
+        "679208",
+        "31392",
+        "297085"
+      ],
+      "titles": [
+        "Studio Tour and return train",
+        "Studio Tour and coach from Victoria",
+        "Studio Tour with hotel pickup"
+      ]
+    },
+    "stonehenge": {
+      "for": "Stonehenge pages. These three are the high-volume products whose own pages put the entry ticket in the includes list with no 'if option selected' clause.",
+      "tourIds": [
+        "219849",
+        "16096",
+        "61147"
+      ],
+      "titles": [
+        "Stonehenge morning trip with admission",
+        "Stonehenge half-day with admission",
+        "Stonehenge and Bath with Stonehenge entry"
+      ]
+    },
+    "cotswolds": {
+      "for": "Cotswolds pages. Nothing in the villages needs a ticket, so the usual conditional-entry trap does not apply here.",
+      "tourIds": [
+        "215430",
+        "795342",
+        "593863"
+      ],
+      "titles": [
+        "Cotswolds villages, small group",
+        "Cotswolds villages by coach",
+        "Bath and the Cotswolds, Roman Baths included"
+      ]
+    },
+    "windsor": {
+      "for": "Windsor pages. Castle admission confirmed on the product page for the first two.",
+      "tourIds": [
+        "71088",
+        "18994",
+        "645578"
+      ],
+      "titles": [
+        "Windsor half-day with castle entry",
+        "Windsor Castle entry and transfer",
+        "LEGOLAND Windsor with entry"
+      ]
+    },
+    "oxford-cambridge": {
+      "for": "Oxford and Cambridge pages.",
+      "tourIds": [
+        "234277",
+        "331461",
+        "146070"
+      ],
+      "titles": [
+        "Oxford and Stonehenge with entry",
+        "Oxford Harry Potter tour with colleges",
+        "Cambridge walk and punt"
       ]
     }
   },
@@ -676,6 +741,42 @@
       "slot1": "pick:river-and-views",
       "slot2": "pick:london-classics",
       "slot3": "pick:walking-tours"
+    },
+    "harry-potter-studio-tour": {
+      "slot1": "pick:studio-tour-bundles",
+      "slot2": "pick:harry-potter"
+    },
+    "day-trips-from-london": {
+      "slot1": "pick:day-trips",
+      "slot2": "pick:stonehenge"
+    },
+    "stonehenge-day-trip": {
+      "slot1": "pick:stonehenge",
+      "slot2": "pick:cotswolds"
+    },
+    "bath-day-trip": {
+      "slot1": "pick:stonehenge",
+      "slot2": "pick:cotswolds"
+    },
+    "windsor-day-trip": {
+      "slot1": "pick:windsor",
+      "slot2": "pick:stonehenge"
+    },
+    "cotswolds-day-trip": {
+      "slot1": "pick:cotswolds",
+      "slot2": "pick:stonehenge"
+    },
+    "oxford-day-trip": {
+      "slot1": "pick:oxford-cambridge",
+      "slot2": "pick:cotswolds"
+    },
+    "cambridge-day-trip": {
+      "slot1": "pick:oxford-cambridge",
+      "slot2": "pick:day-trips"
+    },
+    "car-hire-driving-uk": {
+      "slot1": "pick:day-trips",
+      "slot2": "pick:cotswolds"
     }
   }
 }

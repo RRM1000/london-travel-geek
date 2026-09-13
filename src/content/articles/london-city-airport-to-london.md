@@ -49,6 +49,8 @@ London City Airport (LCY) is the most centrally located airport in London, situa
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-city-airport-to-london-london-city-airport-transfer" data-gyg-partner-id="WWP7I0R" data-gyg-q="London City Airport transfer"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Which route is best for your hotel area?
 
 | Hotel Area or Landmark | Recommended DLR Route | Why Take This Route? |
@@ -60,8 +62,6 @@ London City Airport (LCY) is the most centrally located airport in London, situa
 | **ExCeL London (Custom House)** | **DLR Direct** | Just 2 stops away on the DLR. |
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-city-airport-to-london-london-city-airport-transfer" data-gyg-partner-id="WWP7I0R" data-gyg-q="London City Airport transfer"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Book Airport Transfers & Experiences
 

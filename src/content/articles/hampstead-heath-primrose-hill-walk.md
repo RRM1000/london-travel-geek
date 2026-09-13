@@ -188,6 +188,8 @@ For more, see the [Hampstead area guide](/articles/hampstead-area-guide/#where-t
 
 **On time of day:** start at 10am. You reach Burgh House as it opens, Kenwood late in the morning in time for lunch at its café, Keats House after it reopens at 2pm, and Primrose Hill in the late afternoon. In winter Kenwood shuts at 4pm and the Heath gets dark early, so aim to be past Parliament Hill before dusk.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Getting there and back
 
 **Start:** Hampstead (Northern line), two minutes from Flask Walk. It is the deepest station on the Underground and runs on lifts, so allow a few minutes.
@@ -197,8 +199,6 @@ For more, see the [Hampstead area guide](/articles/hampstead-area-guide/#where-t
 **Cutting it short:** Hampstead Heath (Overground) is 250 metres from Keats House and close to the foot of Parliament Hill, so you can end there after stop 8 and skip the long leg. Belsize Park (Northern line) is on the way between stops 8 and 9.
 
 **Walked the other way**, it works, but you finish with a climb up to Hampstead rather than on a view.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Carry on walking
 
