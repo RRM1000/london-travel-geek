@@ -63,6 +63,10 @@ It is a narrow shop with a handful of stools rather than a café, so most people
 
 *£ · Brick Lane · 8 min from Shoreditch High Street · Cited by 8 sources · [darksugars.co.uk](http://www.darksugars.co.uk/)*
 
+![Two takeaway cups from Dark Sugars Cocoa House piled high with chocolate shavings, standing on a wooden counter scattered with fallen curls of chocolate](../../assets/articles/best-hot-chocolate-london/dark-sugars-cocoa-house.jpg)
+
+*Grated to order and piled until the first inch of the cup is solid shavings rather than liquid.*
+
 **141 Brick Lane, E1 6SB.** Chocolate is grated over frothed milk in front of you and the cup arrives buried under shavings — three kinds, piled high enough that the first inch is solid. The shop makes 72 of its own chocolates and works with Ghanaian cocoa, and Time Out's line is that you smell it before you see it.
 
 Standing room only, with truffles heaped in mango-leaf bowls along the counter. **It is the busiest place on this page at weekends**, when Brick Lane's markets run.
@@ -111,6 +115,10 @@ A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday a
 
 *££ · Notting Hill · 6 min from Notting Hill Gate · Cited by 2 sources · [meltchocolates.com](https://www.meltchocolates.com/)*
 
+![A glass display case of Melt's own chocolates — sea salt squares, fruit truffles and foil-wrapped brownies stacked in branded trays](../../assets/articles/best-hot-chocolate-london/melt-chocolates.jpg)
+
+*Boxed chocolates and truffles are the main counter here — the hot chocolate is poured from the same stock a few feet behind it.*
+
 **59 Ledbury Road, W11 2AA.** A working chocolate kitchen with the counter at the front, so the drink is made from the same chocolate being tempered a few feet behind it. Boxed chocolates, slabs and hampers are the main business — the shop sorts its gifting by price, from under £25 upwards — and the hot chocolate is what you drink while choosing them.
 
 **No booking and no queue.** That makes it the calmest room on this page by some distance, and the one to choose if you want to sit down with the cup rather than carry it down the street.
@@ -118,6 +126,10 @@ A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday a
 ### Badiani
 
 *£ · Covent Garden · 4 min from Covent Garden · Cited by 2 sources · [badiani1932.com](http://www.badiani1932.com/)*
+
+![Three glass mugs of thick Badiani hot chocolate topped with whipped cream and chocolate shavings, on branded napkins at an outdoor table](../../assets/articles/best-hot-chocolate-london/badiani-covent-garden.jpg)
+
+*Thick enough to need a spoon under the cream, and served in glass rather than a paper cup if you sit outside.*
 
 **2 Mercer Walk, WC2H 9QP.** A Florentine gelateria trading since 1932, whose hot chocolate comes out thick and dessert-like — no surprise from a business built on gelato rather than on drinks. The cocoa is the cold-weather line here, not the reason the counter is busy in July.
 
