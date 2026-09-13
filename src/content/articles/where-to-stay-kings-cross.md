@@ -58,6 +58,10 @@ George Gilbert Scott's Midland Grand opened in May 1873, lost money for decades,
 
 **The suites carry a "Seat to Suite" service with Eurostar** — staff move you between room and platform — on a minimum of 72 hours' notice. There is a free QR-code self-guided tour of the building for guests, and **Booking Office 1869 downstairs takes non-residents on a £29 set menu**, which is how to see the interior without the room rate. Since 3 June 2025 the hotel has traded as St Pancras London, Autograph Collection, and a great many booking sites and guides still file it under St Pancras Renaissance.
 
+![A room at St Pancras London, with a bed, a window seat and a Gothic-arched window](../../assets/articles/where-to-stay-kings-cross/st-pancras-london-room.jpg)
+
+*A room at St Pancras London, with a window seat under a Gothic-arched window.*
+
 ### The Standard, London — the Brutalist one, with the lift on the outside
 
 *About £249 · 266 rooms and suites · 10 Argyle Street, WC1H 8EG · St Pancras 2 min*
@@ -67,6 +71,10 @@ A 1974 Camden Council office annexe, kept rather than knocked down, directly opp
 **Decimo, the tenth-floor Mexican restaurant, is reached by a red lift on the outside of the building**, and it is the reason a lot of people book. It closes on Sundays and Mondays — worth checking before you plan dinner around it, because those are common nights to be here for a Monday-morning train. The eleventh-floor Rooftop is a summer proposition and runs to 9pm, Sweeties opens Wednesday to Saturday, and the gym is open 24 hours to guests.
 
 **Read the room name before you book.** The entry grade is the **Standard King Interior**, and "interior" means what it says. Dogs stay free.
+
+![A suite at The Standard, London, with a curved floor-to-ceiling window bay, a built-in window seat and doors opening onto a private terrace](../../assets/articles/where-to-stay-kings-cross/the-standard-london-suite.jpg)
+
+*A suite at The Standard, London, with a curved window bay over the skyline and doors onto a private terrace — the entry-level Standard King Interior room has no window at all.*
 
 ### The Megaro — two minutes from the platform, and the cheaper rooms are bigger
 
@@ -78,6 +86,10 @@ The independent in a field of chains, unmistakable from the street for the mural
 
 Downstairs, **Spagnoletti** serves Italian from breakfast through to dinner and **Hokus Pokus** is a basement cocktail bar done as a Victorian apothecary. The hotel is dog friendly, and massages, facials and personal training can be booked into the room through the concierge.
 
+![A themed room at the Megaro, with a metallic flight-case style headboard, hanging globe lights and a lava lamp on the nightstand](../../assets/articles/where-to-stay-kings-cross/the-megaro-room.jpg)
+
+*One of the Megaro's individually themed rooms, with a road-case style headboard, hanging globe lights and a lava lamp on the nightstand.*
+
 ### Point A Hotel King's Cross — the sensible booking for a train you cannot miss
 
 *About £95 · 324 Gray's Inn Road, WC1X 8BU · 0.3 km to both stations · Air conditioning*
@@ -87,6 +99,16 @@ Small, clean, quiet, air-conditioned rooms with mood lighting and self check-in,
 **Three practical things decide whether it works for you.** Breakfast is **complimentary if you book direct with free A List membership**, and it runs **from 06:30 Monday to Friday but only from 07:00 at weekends and on bank holidays** — too late for an early Eurostar, so plan to eat at the station. Rooms are **cleaned after three nights**, not daily. And **left luggage is £3 a bag but cannot be kept overnight**: bags must be collected before midnight, which rules out the classic late-flight manoeuvre.
 
 Early check-in from noon is £15 and late check-out to 3pm is £25. Snacks and drinks are available 24 hours; the irons live in rooms on the second and third floors rather than in your room.
+
+<div class="photo-row">
+
+![A twin room at Point A Hotel King's Cross, with a button-studded black headboard, blue cove lighting along the ceiling, and a wall-mounted TV showing a King's Cross welcome screen](../../assets/articles/where-to-stay-kings-cross/point-a-kings-cross-room.jpg)
+
+![The ensuite bathroom of a Point A Hotel King's Cross room, with a glass-screened shower, a wall-mounted sink and rolled towels on the counter](../../assets/articles/where-to-stay-kings-cross/point-a-kings-cross-bathroom.jpg)
+
+</div>
+
+*A twin room at Point A Hotel King's Cross, with blue cove lighting and a TV welcome screen for King's Cross, and its compact ensuite bathroom.*
 
 ### Kabannas London St Pancras — the old YHA, under new management, from £50
 
@@ -168,6 +190,16 @@ The single best answer here. Bloomsbury starts about ten minutes' walk south of 
 
 **[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** is **£81 to £206** for a windowless private room, carved out of a disused car park beneath Great Russell Street — London's first entirely underground hotel, two minutes from the British Museum. Sealed, soundproofed and totally dark, which is either the best or the worst possible preparation for a 5am alarm. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) has the full comparison.
 
+<div class="photo-row">
+
+![A windowless room at Zedwell Tottenham Court Road, with a platform bed lit by warm cove lighting and no window](../../assets/articles/where-to-stay-kings-cross/zedwell-tottenham-court-road-room.jpg)
+
+![The ensuite bathroom of a Zedwell Tottenham Court Road room, with a round backlit mirror and zedwell-branded amenities beside the shower](../../assets/articles/where-to-stay-kings-cross/zedwell-tottenham-court-road-bathroom.jpg)
+
+</div>
+
+*A windowless room at Zedwell Tottenham Court Road, lit by cove lighting rather than a window, and its ensuite bathroom.*
+
 ### Farringdon — one stop, and the Elizabeth line King's Cross does not have
 
 One stop east on the Circle, Metropolitan and Hammersmith & City, and the fix for the single real weakness of a King's Cross base. **Farringdon is the interchange where the Elizabeth line meets Thameslink**, which means Heathrow without changing, Bond Street in minutes, Canary Wharf direct, and the same Thameslink trains to Gatwick and Luton Airport Parkway that call at St Pancras.
@@ -191,6 +223,16 @@ Three stops to Oxford Circus and a four-minute walk, which puts Marylebone about
 **[Treehouse Hotel London](hotel:treehouse-hotel-london)** is about **£250** at 14–15 Langham Place, next to BBC Broadcasting House, and occupies the **top floors of the building**, so every room looks out over something rather than into a light well. Magic 8 balls, cuckoo clocks and Paddington Bears in the rooms without tipping into gimmick; Green Key Gold certified; Time Out gave it five out of five. The Nest rooftop bar and Madera, its Mexican restaurant, both take non-residents.
 
 At roughly the same money as The Standard you are trading two minutes from the Eurostar for a room with a view and a neighbourhood that is pleasant to be in — which is the right trade on every trip that does not start with a 6am departure.
+
+<div class="photo-row">
+
+![A room at the Treehouse Hotel London, with a built-in window seat over the skyline and a concrete ceiling beam left exposed](../../assets/articles/where-to-stay-kings-cross/treehouse-hotel-london-room.jpg)
+
+![The bathroom at the Treehouse Hotel London, with birch tree trunks built into the vanity wall beside a glass-walled shower](../../assets/articles/where-to-stay-kings-cross/treehouse-hotel-london-bathroom.jpg)
+
+</div>
+
+*A room at the Treehouse Hotel London, with a window seat over the skyline, and the bathroom's birch-trunk vanity wall.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-kings-cross-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
