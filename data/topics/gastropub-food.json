@@ -1,0 +1,218 @@
+{
+  "topic": "gastropub-food",
+  "article": "src/content/articles/best-gastropubs-london.md",
+  "headTerm": "Gastropubs",
+  "note": "DRAFT - Part 1, step 1 only (topic config). No collection run, no data/consensus/gastropub-food.json created, per instructions. Awaiting human review before any collection starts. BING STATUS: confirmed degraded both times it was tried this session (via curl and via the browser, in a fresh tab, with substantially reworded queries) - queries matched only a single common word ('best', 'Time') and returned generic dictionary/clock-website results with zero relevance. All research below was done by navigating directly to likely domains and using each site's own on-page search, per the fallback instruction. The browser pane also became unavailable partway through this session (three consecutive 'navigation denied or failed' errors on theinfatuation.com, designmynight.com and hot-dinners.com, followed by tab IDs and origins changing under me) - most likely another session or the user interacting with the same shared pane. Research after that point continued via curl only; theinfatuation.com and designmynight.com's JS-rendered search UI could not be checked in-browser as a result (see editorialLists).",
+  "awardBodies": [
+    {
+      "name": "Estrella Damm Top 50 Gastropubs",
+      "domain": "top50gastropubs.com",
+      "tier": "A",
+      "cadence": "annual",
+      "status": "VERIFIED LIVE 13 Sep 2026, current 2026 list (page footer: (c) William Reed Ltd 2026). This is the topic's primary award body, as instructed - already registered tier A in data/sources.json, already used for the sunday-roast and craft-beer-pubs topics.",
+      "note": "Read directly from top50gastropubs.com/list/1-50, which - despite the tab UI suggesting otherwise - returns all 100 ranked entries (1-50 and the 51-100 extension) plus the 4 Specialist Awards in one server-rendered page load; no JS/AJAX needed. Ranks and names cross-checked against this project's own data/consensus/sunday-roast.json record from 30 Aug 2026 and match exactly on every rank spot-checked (1, 3, 11, 17, 23, 24, 25, 33, 35, 36, 39, 43, 47, 60, 61, 64, 65, 67, 75, 77, 83, 88, 91) - the list has not changed in the two weeks between that pass and this one.",
+      "londonScoping": "TRAP 12 applied: this is a UK-wide list ('Discover the Top 50 Gastropubs in the UK') and only some entries are in London. Scoped using the pub's own URL folder (e.g. /Pubs/UK/Greater-London/... vs /Pubs/UK/Suffolk/...), which is more reliable than the printed location text alone (the printed text is inconsistent - some London entries say just 'Soho' or 'London', not all say ', London'). RESULT: 24 confirmed London entries out of the published 100 (13 in the 1-50 list, 11 in the 51-100 extension) - one more than the 23 this project's own sunday-roast corpus recorded on 30 Aug 2026 (see the Clarence Tavern flag below for why).",
+      "londonEntries": {
+        "top50": [
+          { "rank": 1, "name": "The Devonshire", "location": "Soho" },
+          { "rank": 3, "name": "The Red Lion and Sun", "location": "Highgate, London" },
+          { "rank": 11, "name": "Canton Arms", "location": "Stockwell, London" },
+          { "rank": 17, "name": "The Baring", "location": "Islington, London" },
+          { "rank": 23, "name": "Marksman Public House", "location": "London" },
+          { "rank": 24, "name": "The Hero of Maida", "location": "Maida Vale, London" },
+          { "rank": 25, "name": "The Kerfield Arms", "location": "Camberwell, London" },
+          { "rank": 33, "name": "The Waterman's Arms", "location": "Barnes" },
+          { "rank": 35, "name": "The Tamil Crown", "location": "Islington, London" },
+          { "rank": 36, "name": "Harwood Arms", "location": "Fulham, London" },
+          { "rank": 39, "name": "The Bull & Last", "location": "Highgate, London" },
+          { "rank": 43, "name": "The Knave of Clubs", "location": "Shoreditch, London" },
+          { "rank": 47, "name": "The French House", "location": "Soho, London" }
+        ],
+        "extended51to100": [
+          { "rank": 60, "name": "The Camberwell Arms", "location": "London" },
+          { "rank": 61, "name": "The Parakeet", "location": "Kentish Town, London" },
+          { "rank": 64, "name": "Anchor & Hope", "location": "London" },
+          { "rank": 65, "name": "The Pelican", "location": "Notting Hill, London" },
+          { "rank": 67, "name": "The Drapers Arms", "location": "Islington, London" },
+          { "rank": 75, "name": "The Fat Badger", "location": "London (Notting Hill per National Restaurant Awards' listing - see below)" },
+          { "rank": 77, "name": "The Eagle", "location": "Farringdon, London" },
+          { "rank": 78, "name": "The Clarence Tavern", "location": "Stoke Newington, London - SEE FLAG BELOW" },
+          { "rank": 83, "name": "The Lady Mildmay", "location": "London" },
+          { "rank": 88, "name": "The Blue Stoops", "location": "London" },
+          { "rank": 91, "name": "Parlour", "location": "Kensal Rise, London" }
+        ]
+      },
+      "extendedListNote": "TRAP 10 applied: the 51-100 rows above are the extension, not the Top 50, and are labelled as such throughout this file. '#60' and '#60 of the top 50' are different claims.",
+      "clarenceTavernFlag": "#78 The Clarence Tavern is filed under /Pubs/UK/Cornwall/the-clarence-tavern.html on the site's own URL structure - the ONE place the URL-folder heuristic disagreed with the printed location text ('Stoke Newington, London'). Fetched the pub's own profile page directly: it gives the address as '102 Stoke Newington Church St, London N16 0LA' - a real London postcode, and the same pub already known to this project (it is in the sunday-roast 'Also named' table and is separately named by Time Out's gastropub list and by Secret London's own gastropub picks - see editorialLists). This is almost certainly a data-entry bug on top50gastropubs.com's own site (wrong county folder), not a real Cornwall venue. Counted as London here; a strict URL-only scoping pass (as may have been used previously) would silently drop it, which is likely why the sunday-roast corpus has 23 London entries where this pass finds 24. Worth fixing in the sunday-roast topic too, but that file was not touched per this task's scope.",
+      "specialistAwardsChecked": "The site's 'Specialist Awards' tab (also embedded in the same page load) has 4 categories for 2026: One to Watch (General Tarleton, Yorkshire), Estrella Damm Chef of the Year (Ayesha Kalaji - Queen of Cups, Somerset), Sustainable Pub of the Year (The Wild Rabbit, Oxfordshire), Highest Climber (The Dog at Wingham, Kent). None is a London venue this year - no additional citation from this section."
+    },
+    {
+      "name": "National Restaurant Awards - Gastropub of the Year",
+      "domain": "nationalrestaurantawards.co.uk",
+      "tier": "A (proposed - NOT YET in data/sources.json, needs a registration decision)",
+      "cadence": "annual",
+      "status": "NEW FIND this session, not in any existing topic config or consensus file. Verified live and read directly from the primary source, not from press coverage.",
+      "note": "Found via a Secret London article reporting the 2026 ceremony, then traced to the real domain: nationalrestaurantawards.co.uk (a decoy domain, restaurantawards.co.uk, actually redirects to an unrelated Locke Hotels help-centre page - not the same site, do not confuse the two). Runs on the same 'webpuzzleapp' CMS as top50gastropubs.com, which fits - both are William Reed / Restaurant magazine properties. Has a dedicated page at /specialist-awards/gastropub-of-the-year/ (one of several specialist categories alongside Chef of the Year, Wine List of the Year etc. - only this one is relevant here). 2026 winner, read directly from that page: The Devonshire, Soho - matching its Estrella Damm #1 spot. The page carries a substantial paragraph on the chef pedigree angle this topic needs: Ashley Palmer-Watts (ex-Heston Blumenthal 'right-hand man') runs the kitchen, house butchery, embers grill - and the page's own words, 'despite its restaurant pedigree, The Devonshire is very much a pub,' are close to this topic's own framing.",
+      "additionalFinding": "The NRA's overall Top 100 (nationalrestaurantawards.co.uk/list/1-50, same all-in-one-page-load behaviour as top50gastropubs.com) ranks Bouchon Racine #1 IN THE WHOLE UK for 2026 - and Bouchon Racine's own site (bouchonracine.com) titles itself 'Three Compasses' and taglines itself 'A PUB AND BOUCHON' at 66 Cowcross Street, Clerkenwell/Farringdon. This reads as a single operation branding itself as a pub, not a separate restaurant merely co-located with one - see openVenueQuestions. The same NRA Top 100 also independently names three pubs already on Estrella Damm's London list, which is useful cross-tier corroboration since these are two separately-judged awards (albeit both run by William Reed - see the caveat below): The French House (NRA #61 / Estrella #47), The Kerfield Arms (NRA #81 / Estrella #25), The Fat Badger (NRA #88 / Estrella #75-extended).",
+      "caveat": "Both this award and Estrella Damm's Top 50 Gastropubs are William Reed Ltd properties (same publisher, same site template) - not treating them as two fully independent editorial voices in the same way Estrella Damm and, say, Time Out are independent. Still two separately-judged, separately-branded, separately-dated award panels, so recording as two award bodies rather than merging - but flagging the shared ownership for whoever weighs the evidence at build time."
+    },
+    {
+      "name": "Michelin Guide - pub-dining recognition (stars, Bib Gourmand and Guide selections)",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "status": "Already registered tier A in data/sources.json, and already in the blocked/permanent403 list there - confirmed still blocked (did not re-attempt the fetch itself, per the existing note not to retry blocked domains every topic). The registered Wikipedia substitute (List of Michelin-starred restaurants in Greater London) was fetched and checked: STARS ONLY, exactly as sources.json's own caveat warns, so it can confirm a star but not a Bib Gourmand or a plain Guide selection. Checked every gastropub-food name found this session against it: The Harwood Arms is the ONLY one that is Michelin-STARRED. No other name in this file's award or editorial lists appears on the starred list.",
+      "workaroundFound": "guide.michelin.com's own Bib Gourmand / recommended-pubs content is NOT directly reachable this session, but its actual text is readable second-hand: Secret London published 'According To The Michelin Guide These Are The Best Pubs For Dining In London' (secretldn.com/michelin-guide-best-pubs-for-dining-london/, dated 9 Sep 2025), which quotes the Michelin Guide's own written entry for each of 10 pubs verbatim under the heading 'What the Michelin Guide had to say.' Per the syndication rule, this is Michelin's own judgement reported by an outlet, not Secret London's independent opinion - filed here under guide.michelin.com, not under secretldn.com.",
+      "michelinPubDiningList": [
+        { "name": "The Harwood Arms", "area": "Fulham", "recognition": "1 Michelin Star - the only starred pub in this whole file" },
+        { "name": "The Hero", "area": "Maida Vale", "recognition": "Bib Gourmand - same pub as Estrella Damm's 'The Hero of Maida', see openVenueQuestions on the alias" },
+        { "name": "Bull & Last", "area": "Highgate", "recognition": "Guide-selected, no star/Bib stated in the quoted text" },
+        { "name": "Marksman", "area": "Hackney Road", "recognition": "Guide-selected, no star/Bib stated" },
+        { "name": "Pig and Butcher", "area": "Islington", "recognition": "Guide-selected, no star/Bib stated - a name not found in any other source this session" },
+        { "name": "The Baring", "area": "Islington", "recognition": "Guide-selected, no star/Bib stated" },
+        { "name": "The Clarence Tavern", "area": "Stoke Newington", "recognition": "Guide-selected, no star/Bib stated" },
+        { "name": "The Devonshire", "area": "Soho", "recognition": "Guide-selected, no star/Bib stated" },
+        { "name": "The Holland", "area": "Kensington", "recognition": "Guide-selected, no star/Bib stated - a name not found in any other source this session" },
+        { "name": "Victoria", "area": "East Sheen", "recognition": "Guide-selected, no star/Bib stated - a name not found in any other source this session" }
+      ],
+      "caution": "Per data/sources.json's own tier-A caution ('a star is a claim with a date') - only write 'Michelin-starred' for The Harwood Arms and 'Bib Gourmand' for The Hero. The other 8 are Michelin Guide selections without a stated star or Bib and must not be upgraded to either in the article copy.",
+      "stalenessFlag": "The Secret London piece is dated 9 Sep 2025 - about a year old against today (13 Sep 2026), and Michelin typically republishes its GB & Ireland guide annually (usually autumn), so a newer edition may already exist that this pass cannot see. Re-verify closer to build time if guide.michelin.com becomes reachable, or find a fresher secondary quote.",
+      "unconfirmedClaim": "The LIVE best-sunday-roast-london.md article already asserts The Marksman's 'upstairs is the dining room that won Michelin's Pub of the Year.' This session could not independently verify a 'Michelin Pub of the Year' award category exists (as distinct from stars/Bib Gourmand/plain selection) - not repeated as fact here, flagged for the human/next pass rather than re-asserted unverified."
+    },
+    {
+      "name": "National Pub & Bar Awards (Pub & Bar Magazine)",
+      "domain": "nationalpubandbarawards.co.uk",
+      "tier": "not proposed as tier A for THIS topic - see scopeConcern",
+      "cadence": "annual",
+      "status": "NEW FIND this session, real and live, verified from the primary source (not yet in data/sources.json).",
+      "note": "A genuine judged, dated UK award ('celebrates the very best venues, people and service standards', per its own About text), run in conjunction with Pub & Bar Magazine, crowning one winner per UK county/region plus a single 'best pub in the UK' overall. Read directly from nationalpubandbarawards.co.uk/the-regions-2026: the 2026 LONDON regional winner is The George, Fitzrovia. Per Secret London's reporting of the same ceremony (syndication, not an independent citation): 2025's London winner was The Red Lion & Sun, and The Devonshire won the 2025 'Industry Choice Award' (voted by 400 hospitality judges) - neither of those two facts has been checked against the award's own site this session.",
+      "scopeConcern": "Its own About page frames the judging around 'service standards' and 'the best customer journeys' - general hospitality and atmosphere, not specifically food or kitchen quality. This topic is explicitly about the KITCHEN. Flagging as a real, on-topic-adjacent, verified award rather than silently including or excluding it - a human call on whether a general pub/bar service award belongs as evidence in a FOOD-first gastropub guide, or whether it fits a general 'best pubs' topic better."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out - The 20 Best Gastropubs in London",
+      "domain": "timeout.com",
+      "tier": "B",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-gastropubs",
+      "ranked": "presented as a numbered countdown 1-20, dated Wed 2 Sep 2026 (Leonie Cooper, Food & Drink Editor) - NOT explicitly captioned 'ranked' in the visible copy (unlike Time Out's own 'we've ranked the 50 best pubs' framing used elsewhere), and its own regional 'at a glance' box picks different venues as 'best in north/south/east/west London' without deferring to #1-5, which is at least consistent with a real ranking (regional bests need not be the top 5 overall) but is not confirmation either. Flagged for the same read-before-trusting check trap 11 asks for.",
+      "note": "A DISTINCT URL from the taproom guide used in craft-beer-pubs.json and the Sunday-lunches guide used in sunday-roast.json - no trap-13 duplicate. This is exactly the dedicated, kitchen-general (not roast-specific) list this topic needs: the intro text itself frames a gastropub as anything from 'fish and chips, a roast, an oxtail ragu, or a desi pub' - roast is one example among several, not the point.",
+      "namesInOrder": ["Camberwell Arms", "Upstairs at the French House", "Prince Arthur", "The Golden Tooth", "Shaston Arms", "Red Lion & Sun", "The Victory", "The Latimer", "The Tamil Prince", "The Marksman", "The Plimsoll", "The Cow", "The Clarence Tavern", "The Drapers Arms", "Canton Arms", "The Hero", "The Parakeet", "The Waterman's Arms", "The Harwood Arms", "The Anchor & Hope"],
+      "atAGlanceExtra": "The intro's regional summary box also names The Compton Arms, Islington as 'best in north London' - this pub is NOT one of the 20 full write-ups, so it is an extra name from the same source, not a duplicate.",
+      "overlapFlag": "12 of these 20 names are exactly on Estrella Damm's scoped London list (Camberwell Arms, French House, Red Lion & Sun, Marksman, Clarence Tavern, Drapers Arms, Canton Arms, Hero/Hero of Maida, Parakeet, Waterman's Arms, Harwood Arms, Anchor & Hope), plus a 13th - The Tamil Prince itself is not on Estrella Damm's list, but its sibling pub The Tamil Crown is (#35). See sundayRoastScope below for the more specific overlap with the live Sunday roast article."
+    },
+    {
+      "name": "Secret London - own gastropub picks",
+      "domain": "secretldn.com",
+      "tier": "C",
+      "url": "https://secretldn.com/michelin-guide-best-pubs-for-dining-london/",
+      "ranked": false,
+      "note": "IMPORTANT: this is the SAME URL used for the Michelin workaround source above - the article contains TWO distinct source layers on one page and they must be recorded separately, not merged. The first half is Michelin's own list (filed under guide.michelin.com, see above). The second half is explicitly Secret London's own editorial opinion, introduced in its own words: 'it doesn't quite capture the breadth of London's pub food offerings... here's the Secret London team's pick of the best pubs for dining.' That second list is what is recorded here, under secretldn.com.",
+      "names": ["The Tamil Crown", "The Compton Arms", "Camberwell Arms", "Prince of Peckham", "De Beauvoir Arms", "The Plimsoll", "The Parakeet", "The Angel Oak", "Grove House Tavern", "The Old Nun's Head", "The Bluecoats Pub", "The Adam & Eve", "Heathcote And Star", "The Canton Arms", "The Drapers Arms", "The Cadogan Arms", "The Mayflower", "Black Heart", "The George", "The Prince George", "The Eagle", "Hackney Church Brewery", "Plaquemine Lock", "Lady Mildmay"],
+      "namesNote": "'The George' here is almost certainly 'The George, Fitzrovia' (Great Portland Street) already known to this project via data/name-aliases.json's existing 'The George / The George Inn' note - not yet confirmed to a sheet row there either. 'Hackney Church Brewery' is a brewery taproom already in the craft-beer-pubs corpus - borderline fit for a food-first topic, flagged rather than silently included or excluded. 'Lady Mildmay' likely = Estrella Damm's 'The Lady Mildmay' (#83, extended list) - not yet aliased.",
+      "syndicatedNotCounted": "Secret London separately ran single-venue news pieces reporting the Estrella Damm result (The French House, 29 Jan 2026), the National Pub & Bar Awards London win (The George, 12 Jun 2026) and the National Restaurant Awards result (Bouchon Racine, 9 Jun 2026). Per the syndication rule these are NOT independent Secret London citations - they are reporting on the award bodies already recorded above, and are noted here only as corroboration, not counted twice."
+    },
+    {
+      "name": "Hot Dinners - gastropub-tagged reviews",
+      "domain": "hot-dinners.com",
+      "tier": "C",
+      "url": "https://www.hot-dinners.com/search?q=gastropub",
+      "ranked": false,
+      "note": "No single 'best gastropubs' listicle - instead 12 individually-published, individually-dated venue reviews tagged 'gastropub', found via the site's own search (12 of 12 results shown, so this is the complete set as the search saw it, not a truncated view). Mostly bylined Gavin Hanly, one masthead so counted once per the counting rule. Dates span 2009-2024, so several are well past the 36-month recency flag in data/sources.json's own rules and should be marked stale at collection time rather than presented as current: Bull and Last (30 Mar 2009), Harwood Arms (15 Oct 2012), Anchor and Hope (1 Jan 2014) are the oldest three.",
+      "names": ["The Hero", "The Eagle", "The Cleveland Arms", "The Devonshire", "The Pelican", "The Baring", "The Marksman", "The Princess Royal", "The Opera Tavern", "The Anchor and Hope", "Harwood Arms", "The Bull and Last"],
+      "newNames": "The Cleveland Arms (Paddington), The Princess Royal (Notting Hill, Cubitt House group) and The Opera Tavern (Soho, Salt Yard group tapas) are not named by any other source found this session."
+    },
+    {
+      "name": "Evening Standard",
+      "domain": "standard.co.uk",
+      "tier": "B (per data/sources.json)",
+      "status": "NOT FOUND this session - genuine gap, not confirmed absent",
+      "note": "Standard's restaurant guide URLs carry an unguessable numeric ID (confirmed pattern from this project's own corpus: .../best-fried-chicken-london-b1143323.html) so direct slug guessing cannot work here the way it did for Time Out. Its on-page search is a Google Custom Search widget that requires accepting a cookie-consent prompt to load - declined rather than accepted, per the instruction to choose the privacy-preserving option on non-essential consent banners, since this is a nice-to-have check rather than a blocking one. Not checked further. A human with working search (or willing to accept that specific consent prompt) should check whether Standard has a gastropub-specific guide before collection starts."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B (per data/sources.json)",
+      "status": "NOT FOUND this session - genuine gap, not confirmed absent",
+      "note": "Several plausible URL slugs 404'd. The browser pane then stopped responding to navigation for this domain ('denied or failed') partway through the session - likely a concurrent user/session on the same shared browser pane (tab IDs and an unrelated staycity.com tab appeared without this session opening them). This masthead is heavily used elsewhere in this project (37 records per data/sources.json) so likely does have relevant coverage reachable another way - worth a dedicated retry."
+    },
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "tier": "B (per data/sources.json)",
+      "status": "Checked reasonably thoroughly - likely a real gap",
+      "note": "Several guessed URLs 404'd, and the site's own blog search (designmynight.com/london/blog?s=gastropub) returned a large, apparently-unfiltered index of the whole blog with no distinct 'best gastropubs' entry among it (it did surface designmynight.com/london/blog/best-sunday-roasts-london, already known, and two syndicated award write-ups - national-restaurant-awards-2026-revealed and the-good-food-guides-best-local-restaurants-2026-london-winners, both better filed under their originating award body than under DesignMyNight if pulled in later). More confident this is a genuine gap than the Standard/Infatuation ones above, since a broad result set was actually seen rather than just guesses failing."
+    },
+    {
+      "name": "SquareMeal",
+      "domain": "squaremeal.co.uk",
+      "tier": "B (per data/sources.json)",
+      "status": "NOT FOUND this session - genuine gap, not confirmed absent",
+      "note": "The guessed URL redirects to SquareMeal's own 'no results' search-help page for that exact phrase, which at least confirms the guess was read by their routing and rejected rather than just wrong. Not checked further via their real search UI."
+    }
+  ],
+  "blockedSources": [
+    {
+      "name": "Londonist",
+      "domain": "londonist.com",
+      "note": "Already in data/sources.json's permanent403 list. Not attempted, per the existing instruction not to retry a blocked domain every topic. Londonist covers London pub culture generally, so may well have gastropub content - a real, un-resolvable gap, flagged rather than silently skipped."
+    }
+  ],
+  "facetAxis": {
+    "field": "style",
+    "note": "Drafted from what this session's research actually distinguished, per instructions - not yet confirmed by a full collection pass. Five candidate values emerged repeatedly across the award and editorial sources above:",
+    "values": [
+      {
+        "key": "classic-british",
+        "label": "Classic British gastropub",
+        "describeAs": "the original 1990s-onward template - open kitchen, blackboard menu, nose-to-tail British cooking in a proper pub room",
+        "examples": "Anchor & Hope, The Eagle (widely credited as the first gastropub, 1991), Canton Arms, Camberwell Arms, The Marksman"
+      },
+      {
+        "key": "european-leaning",
+        "label": "French / European-leaning kitchen",
+        "describeAs": "a pub room running a French, Italian or pan-European menu rather than British classics",
+        "examples": "Upstairs at the French House, The Baring, Shaston Arms"
+      },
+      {
+        "key": "south-asian",
+        "label": "South Asian ('desi pub')",
+        "describeAs": "a traditional British pub building with a South Asian kitchen - Time Out's own term, called out as its own category rather than a novelty",
+        "examples": "The Tamil Prince, The Tamil Crown, Prince of Peckham"
+      },
+      {
+        "key": "michelin-recognised",
+        "label": "Michelin-recognised",
+        "describeAs": "holds a Michelin star, a Bib Gourmand, or a plain Michelin Guide selection - see the caution in the Michelin award body entry about not overstating which is which",
+        "examples": "The Harwood Arms (1 star), The Hero (Bib Gourmand), The Devonshire, The Baring, The Clarence Tavern (Guide-selected)"
+      },
+      {
+        "key": "neighbourhood-upmarket",
+        "label": "Neighbourhood local, gone upmarket",
+        "describeAs": "an ordinary local pub relaunched or taken over with a serious kitchen bolted on, still reads as a proper local rather than a destination",
+        "examples": "The Golden Tooth (formerly 'a rampantly mid pub called The Leconfield'), The Plimsoll (formerly Irish pub The Auld Triangle), The Victory (in the bones of a former local restaurant)"
+      }
+    ]
+  },
+  "sundayRoastScope": {
+    "rule": "This topic is about the kitchen generally - a proper a la carte menu, chef pedigree, food-led reputation across the whole week - not specifically Sunday lunch. At collection time, exclude a venue if the ONLY real citation found for it is Sunday-roast-specific (e.g. a 'best Sunday lunches' listicle entry with no other food-led citation anywhere). None of the sources found this session are Sunday-specific in that narrow sense - Estrella Damm judges the pub as a whole across all seven days, the National Restaurant Awards' Gastropub of the Year and Michelin's selections are not meal-specific, and Time Out's and Secret London's gastropub picks are explicitly framed around the whole menu, not Sunday lunch (Time Out's own intro lists 'fish and chips, a roast, an oxtail ragu' as three of several possible reasons to visit, not the point of the list). So no exclusions were needed at this draft stage - but this needs re-checking per-venue once the actual citation text is pulled in at collection time, since a venue could still turn out to be cited ONLY for its roast within an otherwise general-sounding list.",
+    "overlapWithLiveArticle": "Checked every name found this session against the LIVE best-sunday-roast-london.md article's actual text (not just its underlying consensus data, which carries a few more names the published article dropped). The overlap is real but splits into two very different kinds, and the distinction matters more than the raw count: (1) FULL ROAST-SPECIFIC WRITE-UPS - a dedicated heading and paragraphs about that pub's actual Sunday roast: The Devonshire, The Red Lion & Sun, Canton Arms, The Baring, The Marksman, The Waterman's Arms, The Tamil Crown, The Harwood Arms, The Bull & Last, The Camberwell Arms, The Parakeet, The Drapers Arms - 12 pubs where real double-coverage risk exists, since both articles would otherwise be writing about the same kitchen's reputation. (2) TABLE-ONLY MENTIONS - named only in the article's reproduced Estrella Damm ranking table, its 'Time Out disagrees' table, or its one-line 'Also named' table, with no roast-specific opinion actually written about them: The French House, The Golden Tooth, The Clarence Tavern, The Hero (of Maida), The Anchor & Hope, The George, The Eagle, The Kerfield Arms, The Fat Badger and The Lady Mildmay - 10 more names technically 'in' the live article, but carrying zero independent Sunday-roast judgement to duplicate; citing Estrella Damm or Michelin for these in the new guide duplicates nothing. GENUINELY NEW, not appearing anywhere in the live article at all: Prince Arthur, Shaston Arms, The Victory, The Latimer, The Tamil Prince, The Plimsoll, The Cow, The Compton Arms, Prince of Peckham, De Beauvoir Arms, The Angel Oak, Grove House Tavern, The Old Nun's Head, The Bluecoats Pub, The Adam & Eve, Heathcote And Star, The Cadogan Arms, The Mayflower, Black Heart, The Prince George, Hackney Church Brewery, Plaquemine Lock, The Cleveland Arms, The Princess Royal, The Opera Tavern, Pig and Butcher, The Holland, Victoria (East Sheen), Bouchon Racine/Three Compasses - 29 names, comfortably the largest of the three groups. So the real editorial-overlap risk (group 1) is about a dozen pubs, not the whole corpus - FLAGGING AS AN OPEN QUESTION per the task instructions rather than deciding it, since those 12 are also this topic's strongest, most-cited candidates and cannot simply be dropped; the fix is more likely in how the new article FRAMES them (kitchen/week-round reputation, cross-linking to the roast guide for Sunday specifically) than in excluding them.",
+    "differentiationInArticle": "Recommend the article's evidence block and intro explicitly says this guide is about the kitchen across the whole week, with a one-line pointer to the Sunday roast guide for readers who specifically want that meal - the same cross-link pattern already used elsewhere on the site, rather than re-explaining the whole roast guide inline."
+  },
+  "knownGaps": [
+    "Tiers D (video) and E (community/Reddit) are entirely uncollected - correctly out of scope for this draft-config step per SKILL.md's own ordering (config first, reviewed, THEN collection), not an oversight. Reddit is blocked in this environment regardless per SKILL.md.",
+    "No independent SOLO-author blog or single-subject gastropub/pub specialist was found this session, despite trying (the task asked for 2-3). Several well-known London food-blog domains were tried directly and either no longer resolve or have expired outright (eatlikeagirl.com now shows a 'Squarespace - Website Expired' page). Secret London and Hot Dinners are both small mastheads with staff bylines, not solo specialists, even though they are correctly tier C in data/sources.json. This is a real gap that a working search tool would likely close quickly - flagged rather than padded with a weak or invented source.",
+    "Evening Standard, The Infatuation, DesignMyNight and SquareMeal dedicated gastropub coverage could not be confirmed either way this session (see editorialLists for what was tried on each) - Bing's degradation and, for the last three, a browser pane that stopped responding, are the reason, not evidence the coverage doesn't exist.",
+    "The Michelin pub-dining list is sourced via a Sep-2025-dated secondary quote, one Guide edition behind at worst - see the staleness flag on that award body entry.",
+    "The existing sunday-roast.json/consensus corpus's Estrella Damm London count (23) is one short of what this pass found (24) because of the Clarence Tavern URL/county mistagging - see the Estrella Damm entry. Not fixed here as it is outside this task's scope (data/topics/gastropub-food.json only), but worth a follow-up on the sunday-roast files.",
+    "data/name-aliases.json does not yet have entries for 'The Hero' = 'The Hero of Maida', or for 'Marksman'/'The Marksman' = 'Marksman Public House' - both needed once collection starts, since Estrella Damm, Time Out and Michelin each spell these two pubs differently."
+  ],
+  "openVenueQuestions": [
+    "Is Bouchon Racine (National Restaurant Awards' #1 UK restaurant 2026) in scope for a gastropub guide? It operates as a single branded entity, 'Three Compasses - A pub and bouchon', at one address in Clerkenwell/Farringdon (its own site's title tag is literally 'Three Compasses') - reads as in-scope on that evidence, but this is a high-value, non-obvious call worth a human's sign-off rather than a silent include.",
+    "Is the National Pub & Bar Awards (The George, Fitzrovia, 2026 London winner) in scope for a FOOD-first topic, given its own judging criteria are about general service/atmosphere rather than the kitchen specifically? See the scopeConcern note on that award body.",
+    "Is 'The George' in Secret London's own gastropub list and the National Pub & Bar Awards winner the same pub as the 'The George, Fitzrovia' already known to this project via the Sunday roast corpus and data/name-aliases.json's existing (unresolved) 'The George / The George Inn' note? Very likely yes (Great Portland Street is in Fitzrovia) but not confirmed by address this session.",
+    "The Michelin 'Pub of the Year' claim already live on the Sunday roast page (for The Marksman) could not be independently reconfirmed this session - worth checking properly rather than silently repeating or silently dropping when this topic's article is written.",
+    "'Hackney Church Brewery', named in Secret London's own gastropub picks, is a brewery taproom already sitting in the craft-beer-pubs corpus (see data/consensus/craft-beer-pubs.json) - borderline fit for a food-first topic, flagged per trap 13 rather than silently merged or silently duplicated across both topics.",
+    "The roughly one-third-to-one-half overlap in venue names with the LIVE best-sunday-roast-london.md article (see sundayRoastScope above) - is this an acceptable amount of overlap between two published guides, or does it need the two articles to differentiate more explicitly in their framing/intro copy? Flagged per the task's explicit instruction to raise this rather than resolve it silently.",
+    "Whether the shared William Reed ownership of the Estrella Damm and National Restaurant Awards properties (both award bodies proposed above) should affect how much combined weight the two get in the evidence count, given they are not fully independent editorial voices even though they are separately judged and dated."
+  ]
+}

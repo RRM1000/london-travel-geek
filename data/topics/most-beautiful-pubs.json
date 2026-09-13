@@ -1,0 +1,136 @@
+{
+  "topic": "most-beautiful-pubs",
+  "article": "src/content/articles/most-beautiful-pubs-london.md",
+  "headTerm": "Most Beautiful Pubs",
+  "note": "DRAFT - Part 1, step 1 only (topic-config draft, per the consensus-guide skill). Written 13 Sep 2026. NOT reviewed by Rob. NO collection has been run - data/consensus/most-beautiful-pubs.json does not exist yet and must not be created until this config is cleared. THE CENTRAL FINDING OF THIS PASS is a scope-overlap risk with the already-published src/content/articles/historic-pubs-dining-rooms-london.md, which already has a whole section ('The listed interiors') organised around interior beauty rather than age - see openVenueQuestions for the specific venues and the decision this needs from Rob before any collecting starts. RESEARCH CONDITIONS: Bing was confirmed degraded exactly as flagged in the task brief (returned dictionary/Wikipedia definitions for 'most beautiful pubs London', and unrelated Dutch gardening-forum results for a reworded query, in two separate tabs). It turned out NOT to be Bing-specific - Time Out's, Secret London's, Ideal Home's and Dezeen's own on-site search boxes all showed the same failure shape this session: every query returned a generic, unfiltered, recency-sorted content feed regardless of what was typed. Real navigation (topic/tag/category archive pages, sitemaps, direct URLs) worked normally throughout and is how every finding below was actually made - so absence-of-evidence below is frequently a tooling gap, flagged as such, not a confirmed absence.",
+  "awardBodies": [
+    {
+      "name": "CAMRA Pub Design Awards (run jointly with Historic England)",
+      "domain": "camra.org.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/awards/pub-design?selected_year=<year>",
+      "note": "VERIFIED LIVE 13 Sep 2026, found via a Secret London syndication trail (see editorialLists) rather than search. Judged by a panel of design and conservation experts across five categories: Conversion To Pub Use, Historic England Award for Conservation, New Build Award, Refurbishment Award, and The Community Local Award. This is a GENUINELY DIFFERENT CAMRA programme from the London-branch Pub of the Year already collected for data/topics/craft-beer-pubs.json - that one (london.camra.org.uk and its 13 branch sub-sites) judges beer and pub-going quality per branch; this one (camra.org.uk/awards/pub-design) judges architecture and design, UK-wide, with no branch structure. No URL overlap - not a trap-13 duplicate. NATIONAL, NOT LONDON-ONLY (trap 12) - every year's winners must be scoped to London venues before counting, and non-London winners (Liverpool, Marlow, Birmingham, Lichfield, Farnham, Kington, Gorsedd, North Walsham all appeared across the two years checked) must be excluded the way the Good Food Guide's bakeries list should have been. Two years read in full: 2026 named 5 London-area results - Blue Stoops, Kensington (Conversion To Pub Use, joint winner with a Liverpool pub); Leyton Engineer, Leyton (Refurbishment, winner); European, Leyton (Refurbishment, Highly Commended); Duke of York, Fitzrovia (Refurbishment, Commended); Lord Southampton, Kentish Town (Community Local, winner). 2025 named only 1 London result - Forester, West Ealing (Community Local, winner). Yield is real but thin and swings year to year, the same shape as CAMRA's branch POTY data - budget for reading several years back, not just the current one, when real collection starts. IMPORTANT: this award is the strongest evidence found this pass that 'beautiful' and 'historic' are genuinely different questions in London pubs specifically - Blue Stoops is a 2020s conversion of a former wine bar with no historic pedigree at all, and a New Build Award category exists for brand-new pubs. None of the five 2026 London winners, and the one 2025 winner, appear anywhere in src/content/articles/historic-pubs-dining-rooms-london.md."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": "not found",
+      "note": "Checked directly 13 Sep 2026 - no dedicated 'most beautiful pubs' (or 'prettiest', 'stunning', etc.) piece located. Time Out's on-site search returned an unfiltered recent-news feed regardless of query (see the top-level note), and eight plausible slugs under /london/bars-and-pubs/ and /london/things-to-do/ all 404'd. This is a tooling gap, not a confirmed absence - retry with working search before concluding Time Out has nothing here. Time Out's general pub lists (its taproom guide, 'The 50 Best Pubs In London') are already partly used in data/consensus/craft-beer-pubs.json under the one-masthead counting rule; if a beauty-framed Time Out piece turns up later, check its URL against that file first (trap 13) rather than assuming it is new."
+    },
+    {
+      "name": "Evening Standard",
+      "domain": "standard.co.uk",
+      "ranked": "not found",
+      "note": "Tier B per data/sources.json. Checked via its live /topic/pubs archive (a real chronological listing, not a search box) - almost entirely news (tax rises, opening hours, Wetherspoons sales, World Cup coverage), no beauty-framed editorial piece visible in the recent feed. The archive is recency-biased and does not rule out an older evergreen guide filed elsewhere on the site (e.g. under Going Out) - not confirmed absent, just not found this pass."
+    },
+    {
+      "name": "Secret London",
+      "domain": "secretldn.com",
+      "ranked": false,
+      "note": "Tier C per data/sources.json. FOUND real, live, relevant content, but it is SYNDICATION (trap 2), not an independent Secret London opinion: 'This West London boozer is officially one of the prettiest pubs in the UK' (Sam Barker, 21 Jul 2026, https://secretldn.com/blue-stoops-prettiest-pubs-in-the-uk/) reports on CAMRA's Pub Design Awards rather than judging the pub itself - CAMRA is the real source for Blue Stoops (see awardBodies), not this article. This piece IS the trail that led to the CAMRA award above. Secret London's own search box otherwise behaved like every other search tried this session (see top-level note) - could not confirm whether the masthead has a separate, non-syndicated beauty piece of its own. Three other Secret London URLs are already in this project under DIFFERENT paths - secretldn.com/craft-beer-pubs-bars/ and secretldn.com/best-pubs-in-london/ in data/consensus/craft-beer-pubs.json, and secretldn.com/oldest-pubs-in-london/ in data/consensus/historic-pubs.json. None of these four URLs duplicate each other (no trap-13 violation), but all four are the same masthead, so a real collection pass merges them into one Secret London source per the counting rule, not four."
+    },
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "ranked": false,
+      "note": "Tier B per data/sources.json. Checked directly via real category pages, not search - confirmed there is NO dedicated beautiful-pubs piece. There IS 'Over 50 (Truly) Beautiful Bars In London' (designmynight.com/london/bars/beautiful-bars-in-london) but every venue checked (14 Stories, Sky Garden Bars, SUSHISAMBA Covent Garden, Aviary, assorted hotel bars) is a cocktail, rooftop or hotel BAR, not a pub - out of scope for this topic the same way a bars list is out of scope for a food guide. Two exceptions worth a second look if a genuine pub source ever names them - German Kraft Brewery Mayfair and The Gun (Docklands) - both pub-or-taproom-like venues sitting inside that bars list; not treated as sourced here since the list's own framing is bars. DesignMyNight's /london/pubs hub has only one relevant list, a generic unranked 'Best Pubs In London' with no beauty framing at all."
+    },
+    {
+      "name": "Elle Decoration UK",
+      "domain": "elledecoration.co.uk",
+      "ranked": false,
+      "note": "Tier B per data/sources.json (an existing entry - no new registration needed). Checked directly by browsing the live homepage - its beat is residential interiors, design hotels, and London/Paris design-festival coverage. No pub content of any kind surfaced browsing it, and search is unusable this session (see top-level note) so this is not a confirmed absence, but there is no organic sign this masthead covers pubs at all."
+    },
+    {
+      "name": "House Beautiful UK",
+      "domain": "housebeautiful.com",
+      "ranked": "unknown",
+      "note": "NAMED IN THE TASK BRIEF AS A LIKELY LEAD - COULD NOT VERIFY EITHER WAY. The browser tool refuses to open housebeautiful.com at all this session ('not allowed due to safety restrictions'), and curl returns only an empty client-rendered JS shell with no readable content. No path to this site's actual content from this environment this session. Needs a manual check by Rob, or a retry in a session where the domain isn't blocked, before concluding anything."
+    },
+    {
+      "name": "Country Living UK",
+      "domain": "countryliving.com",
+      "ranked": "unknown",
+      "note": "Same problem as House Beautiful UK, and likely the same underlying policy (both are Hearst UK titles) - the browser tool blocks countryliving.com outright under its own safety restrictions, and its sitemap/search endpoints refused via curl too. Genuinely unverified, not absent."
+    },
+    {
+      "name": "Ideal Home",
+      "domain": "idealhome.co.uk",
+      "ranked": "not found",
+      "note": "Unlike the other two Hearst titles, this one rendered fine directly - homepage browsed with no issues. Its search box returned the unfiltered homepage regardless of query (see top-level note), and nothing about pubs appeared anywhere in the homepage/garden/decor sections browsed. It does publish a real monthly-partitioned sitemap (idealhome.co.uk/sitemap.xml, back to 2023) that a future pass could grep for a 'pub' slug without relying on search - not attempted here, out of scope for a draft pass. Not confirmed absent."
+    },
+    {
+      "name": "Dezeen",
+      "domain": "dezeen.com",
+      "ranked": false,
+      "note": "A serious architecture/design-news outlet, checked directly on the brief's instinct that design press might cover pub interiors as a genre. Its search returned literally zero results for 'london pub', 'pub interior', AND a guaranteed-to-exist control query ('london design festival') - confirming the search itself is broken here (see top-level note), not that Dezeen has no relevant coverage. Browsing its homepage suggests an editorial beat weighted toward new-build architecture and product design rather than vernacular pub interiors, so a dedicated piece would be a mild surprise, but this is genuinely unverified rather than ruled out."
+    }
+  ],
+  "specialistBlogs": [
+    {
+      "name": "Boak & Bailey",
+      "domain": "boakandbailey.com",
+      "tier": "C",
+      "note": "VERIFIED real, live and directly relevant - the strongest single find for the 'pub-architecture or Victoriana blog' lead the brief asked for. Jessica Boak and Ray Bailey are named, published beer historians (Brew Britannia; the award-winning 20th Century Pub, 2017; blogging independently since 2007) - a genuine single-subject specialist, the same standing this project already gave Will Hawkes on data/consensus/craft-beer-pubs.json. Domain is NOT currently in data/sources.json - will default to tier C with a warning per the registry's own rule, which matches the tier used here. Has a dedicated tag archive at boakandbailey.com/tag/pub-design/, read in full: 'The Champion, Fitzrovia: a Victorian fantasy' (2020) is a well-sourced piece establishing that the pub's 'Victorian' etched glass, mirrors and mahogany are actually a documented 1954 Festival-of-Britain-era design job by architects Sylvia and John Reid, done for Barclay Perkins, and that the room visitors see today is a LATER re-pastiche of even that - 'much of what evokes The Olden Days in British pubs is rarely more than 30 years old.' The Champion does not appear anywhere in src/content/articles/historic-pubs-dining-rooms-london.md - a real, well-evidenced, beauty-not-history venue this topic could use honestly that the existing historic guide could not (a manufactured Victorian look is a liability under a 'how old is this really' frame and a non-issue under a 'is this beautiful' one). Two further posts on the same tag are pub-design-adjacent but not venue-specific ('Why are horse brasses a pub thing?', 'The traditional pub bar is pretty annoying and badly designed') - background reading, not sources."
+    }
+  ],
+  "blockedSources": [
+    {
+      "name": "Londonist",
+      "domain": "londonist.com",
+      "note": "Marked blocked (permanent403) in data/sources.json already, and already handled the same way in data/topics/craft-beer-pubs.json's blockedSources - not re-attempted here. Londonist's back catalogue plausibly includes quirky/beautiful-London content; cannot be fetched here regardless of topic."
+    },
+    {
+      "name": "Pellicle Magazine",
+      "domain": "pelliclemag.com",
+      "note": "Confirmed real and live (200 OK - a well-regarded, named long-form beer-and-pub-culture magazine, not a content farm). Its site is a client-rendered app that returns an empty shell to curl, and browser navigation to this specific domain was denied this session for reasons the tool did not explain (a different failure from the explicit 'safety restrictions' message on the Hearst titles above - this may just be a domain the browser tool hasn't been granted for in this session). Could not verify whether it has covered pub interiors or design specifically. Worth a direct check when browser access to this domain works."
+    },
+    {
+      "name": "IanVisits",
+      "domain": "ianvisits.co.uk",
+      "note": "Confirmed real and live (200 OK on the homepage). Its /tag/pubs/ archive exists (the URL itself resolves) but curl hit a bot-protection redirect loop trying to read it, and browser navigation to this domain was also denied this session, same as Pellicle above. A well-known general London blog that does sometimes cover unusual or historic building interiors - a plausible lead, genuinely unverified."
+    },
+    {
+      "name": "CAMRA National Inventory of Historic Pub Interiors",
+      "domain": "heritagepubs.org.uk",
+      "note": "DEAD, not merely blocked - this domain now redirects straight to an unrelated non-GamStop gambling-affiliate site (gamblesafer.co.uk), the same expired-domain-squatting failure SKILL.md already documents for elliotscafe.com. No replacement page was found on camra.org.uk itself (every plausible slug - /pub-heritage/, /historic-pub-interiors, /national-inventory-of-historic-pub-interiors - 404s). Do not retry this URL. If this register still exists under some other address, its ground was very likely already claimed by historic-pubs-dining-rooms-london.md's 'listed interiors' section, which already leans on CAMRA's own star-interior-rating language for The Guinea and 'Victorian gin palace' language for the Viaduct Tavern - so its death is a real loss for pub-heritage research generally but probably not a loss of NEW material for this specific topic."
+    }
+  ],
+  "facetAxis": {
+    "field": "style",
+    "note": "Drafted from the two real data points this pass produced, not the full range the task brief floated. Georgian/coaching-inn and art deco are UNCONFIRMED for this topic specifically and deliberately left out rather than guessed in: the one clear London coaching-inn candidate is The George, Southwark, which src/content/articles/historic-pubs-dining-rooms-london.md already cites on RARITY/AGE grounds ('London's last galleried coaching inn... the only purpose-built pub in the city listed Grade I') rather than on decorative beauty - another data point for the overlap problem in openVenueQuestions, not a clean new facet population. No source read this pass named a London pub as art deco. Two values ARE evidenced: a Victorian/ornate-revival look (which the Blackfriar/Guinea/Viaduct Tavern already own in the historic guide, plus Boak & Bailey's newly-found Champion, Fitzrovia - note the Champion's 'Victorian' look is itself a documented 1950s fabrication, a fact for the entry rather than a reason to exclude it), and a genuinely distinct new-build-or-converted-design value that CAMRA's Pub Design Awards specifically judges and that the historic-pubs guide cannot use at all by definition (Blue Stoops, Leyton Engineer, European Leyton, Duke of York Fitzrovia, Lord Southampton). This second value is the topic's real point of leverage against the overlap problem - see openVenueQuestions.",
+    "values": [
+      {
+        "key": "victorian-gin-palace",
+        "label": "Victorian / gin palace revival",
+        "describeAs": "etched and gilded glass, ornate tiling, mirrors and mahogany - whether genuinely Victorian fabric or a later, skilled recreation of the style"
+      },
+      {
+        "key": "modern-design-award",
+        "label": "New build or converted",
+        "describeAs": "a pub design judged on its own recent merits rather than on surviving old fabric - a conversion of a non-pub building, or a from-scratch new build"
+      },
+      {
+        "key": "unusual-quirky",
+        "label": "Unusual or quirky design",
+        "describeAs": "a one-off design idea that doesn't fit a recognised period style"
+      }
+    ]
+  },
+  "knownGaps": [
+    "Search functionality was broadly unusable this session, not just Bing (which the task brief already flagged). Confirmed: Bing returned dictionary/Wikipedia definitions for 'most beautiful pubs London', and unrelated Dutch gardening-forum results for a substantially reworded query, in two separate tabs. The SAME generic/unfiltered failure pattern also hit Time Out's, Secret London's, Ideal Home's and Dezeen's own on-site search boxes - every query tried returned a recency-sorted content feed that ignored the search terms entirely. Real navigation (category pages, tag archives, topic feeds, sitemaps, direct URLs) worked normally throughout and is how everything in this file was actually found or ruled out - re-run search-dependent steps in a fresh session before trusting any absence noted here.",
+    "House Beautiful UK and Country Living UK could not be accessed at all this session - see editorialLists. Named in the task brief as likely leads; genuinely unverified, not absent.",
+    "Pellicle Magazine and IanVisits are both confirmed real and live but their actual content could not be read this session - see blockedSources.",
+    "CAMRA's National Inventory of Historic Pub Interiors is dead (heritagepubs.org.uk squatted by an unrelated gambling site) - see blockedSources.",
+    "Video (tier D) and community (tier E) were not attempted at all in this draft-and-stop pass, per the task's scope discipline. Reddit remains blocked in this environment entirely per SKILL.md, as on every other topic here. SKILL.md's tier D/E floor (two independent social voices with a judged award, three without) still applies in full once real collection starts - this topic now has exactly one judged award, so the floor is two."
+  ],
+  "openVenueQuestions": [
+    "THE CENTRAL QUESTION FOR THIS TOPIC - ASK ROB BEFORE COLLECTING, per the task brief's explicit instruction to flag rather than silently proceed if research keeps surfacing the historic-pubs guide's own venues. src/content/articles/historic-pubs-dining-rooms-london.md already has a section, 'The listed interiors', explicitly organised around beauty rather than age - its own words: 'Age is the wrong measure for several of London's best pubs. These are protected for what is inside them.' Of the nine pubs in that section, THREE are near-certain re-crowns under any beauty-focused research that uses CAMRA's own interior-rating language, because the existing guide already uses exactly that language for them: The Blackfriar ('the finest surviving Arts and Crafts pub interior in Britain'), The Guinea ('an interior CAMRA rates three-star - of outstanding national historic importance') and The Viaduct Tavern ('one of the best-surviving Victorian gin palaces in London'). A further three - The George Southwark, The Seven Stars and Ye Olde Mitre - are looser candidates, cited there mainly for rarity, food or folklore rather than decor, that a beauty guide might or might not re-pull depending on framing. Against that, this pass found real, DIFFERENT material the historic framing structurally cannot claim: CAMRA's Pub Design Awards winners (Blue Stoops, Leyton Engineer, European Leyton, Duke of York Fitzrovia, Lord Southampton - all recent design or conversion work with no old-pedigree angle), plus Boak & Bailey's The Champion, Fitzrovia (looks Victorian, is documented 1950s pastiche - a venue whose manufactured history is a liability under a 'how old is this really' frame and irrelevant under a 'is this beautiful' one). So the honest answer is a REAL BUT PARTIAL differentiation, not a clean yes or no. Three options for Rob: (a) build the guide anyway, accept that 3-6 headline venues will likely be shared with historic-pubs as ordinary cross-topic overlap - the project already does this elsewhere (Blacklock, Hawksmoor etc. recur across several food topics) - and lead with the new-build/design-award material as the actual point of difference; (b) fold this idea into historic-pubs-dining-rooms-london.md instead, expanding its existing 'listed interiors' section, given SKILL.md's own rule that pages targeting the same search intent compete and both rank worse; (c) sharpen the angle further before collecting at all - e.g. restrict explicitly to JUDGED DESIGN OR RESTORATION WORK (the CAMRA Pub Design Awards' actual remit) rather than a general 'prettiest pubs' framing, which is the version of this topic with the least overlap risk but also the thinnest source pool found so far (one award body, annual, single-figure London yield most years).",
+    "data/consensus/historic-pubs.json already holds a citation from cityam.com/heres-the-most-beautiful-wetherspoons-pub-in-london/ (City AM, tier B, already in data/sources.json) - filed under the HISTORIC topic despite being explicitly about beauty, and its name-extraction is broken (just page chrome: 'The Wetherspoons pub with the best vibe', trap 8 - no real venue name was ever recorded from it). Per trap 13 this URL is not new if a future pass wants it for THIS topic instead - but it arguably belongs here more than it belongs in historic-pubs.json to begin with. Flagging for Rob's call rather than moving it myself, per this task's scope discipline (only this config file was to be touched).",
+    "data/consensus/historic-pubs.json also holds london-now.co.uk's piece on The Crosse Keys, a converted 1913 banking hall (London Now, tier C, already in data/sources.json) - the same shape of issue: a beauty-of-the-building story filed under historic-pubs, with the same broken, page-chrome-only extraction. Same flag as above.",
+    "Cross-topic corroboration, not a new source: The Blue Stoops already appears independently in data/consensus/sunday-roast.json at #88 in the Estrella Damm Top 50 Gastropubs 2026 extended list - a food-quality ranking, unrelated to CAMRA's design award, for the same venue. Reassuring that the venue is real and independently well-regarded; per trap 7 this citation count belongs to the sunday-roast topic only and must never be printed as evidence on this guide."
+  ]
+}

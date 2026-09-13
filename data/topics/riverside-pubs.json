@@ -1,0 +1,86 @@
+{
+  "topic": "riverside-pubs",
+  "article": "src/content/articles/best-riverside-pubs-london.md",
+  "headTerm": "Riverside Pubs",
+  "note": "DRAFT - Part 1, step 1 only (topic config), recorded 2026-09-13. This is a draft-and-stop pass: tiers A-C were researched to identify and verify real, live sources; tiers D (video) and E (Reddit/community) were NOT attempted, and no collection has run - data/consensus/riverside-pubs.json does not exist yet. This file is for review before anything is collected. BING WAS DEGRADED ALL SESSION: confirmed independently via the browser (fresh tab, several substantially reworded queries) and via curl (realistic desktop user-agent, with and without site: filters) - every general query matched only one common word ('best', then 'Thames', then 'Time') and returned dictionary/Wikipedia/world-clock results regardless of phrasing; site: filters returned zero organic results at all. Every source below was therefore found by direct navigation instead - on-site search boxes that actually worked (Secret London's and London Walks' WordPress ?s= search, CN Traveller's own /search?q=), sitemap/robots.txt inspection where a site's search didn't respect a query (DesignMyNight, Evening Standard), and reading the live rendered page - never search-result trust alone. TIER A: none found. Checked CAMRA's existing structure (data/consensus/craft-beer-pubs.json shows branch-level Pub of the Year awards with no riverside/waterside category anywhere) and checked greatbritishpubawards.co.uk directly - it returns HTTP 200 but the page itself is a soft-404 (its own <title> reads '404'), so it isn't a usable live source either way. OVERLAP CHECKED: grepped every file in data/consensus/ for riverside pub names. data/consensus/craft-beer-pubs.json already carries Time Out's general 'The 50 Best Pubs in London' as a source, and Linleys 360's YouTube channel (tier D there) already cites 'Prospect of Whitby' from a Wapping/Limehouse pub-tour video - don't re-treat either as a fresh find at collection time (trap 13). Separately, and more significant: data/consensus/historic-pubs.json is an existing, seeded (25 Aug 2026) corpus with NO topic config of its own, feeding the live src/content/articles/historic-pubs-dining-rooms-london.md, and it already carries The Prospect of Whitby, The Mayflower and The Grapes across five sources (London Walks, London Travel Planning, Secret London, Mayfair Foodie, London Drinks Guide) - all three are genuine Thames-side pubs and will very likely also be this topic's strongest entries. That is a legitimate double-citation under the counting rule (a citation is evidence for its own topic only, trap 7), but Rob should know upfront that 'riverside pubs' will read as a close cousin of the historic-pubs guide, not a fully distinct venue set. data/consensus/views.json matched the word 'river'/'Thames' incidentally (a Thames Path walking attraction, the OXO Tower viewing platform) but named no overlapping pub - checked clear.",
+  "scopeDecision": {
+    "question": "Does 'riverside' mean the Thames only, or does it also cover canal-side pubs (Regent's Canal, Grand Union, Lee Navigation/Hackney)?",
+    "call": "THAMES ONLY. Claude's call, NOT yet confirmed by Rob - flagging clearly rather than silently picking this, per instructions.",
+    "reasoning": "Every editorial source actually found this pass treats the Thames and canals as separate subjects, not one list. DesignMyNight's dedicated page is titled and scoped as 'Top 40 Bars And Pubs On London's River Thames' and names zero canal venues among its Chiswick/Greenwich/Richmond/Hammersmith/Twickenham/Embankment entries. London Walks (tier C) publishes 'The Thames' and 'Lee Navigation' as two separate blog posts with two separate pub lists - the Lee Navigation piece names its own canal-side pubs (the Anchor and Hope near Hackney Marshes, one in Hoddesdon) and none of them appear in the Thames piece. No source checked this pass combined the two into one 'riverside' framing. On this evidence, 'best canalside pubs in London' (Regent's Canal through Camden/Islington/Hackney, Grand Union, Lee Navigation) reads as a real, separate, genuinely collectible topic of its own - not a sub-section of this one.",
+    "ifOverridden": "If Rob wants canal pubs folded in instead: add a 'canal' value to the facetAxis below alongside upstream/central/downstream, and run a fresh source search for Regent's Canal / Grand Union / Lee Navigation pubs specifically - none were collected this pass."
+  },
+  "awardBodies": [],
+  "editorialLists": [
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "ranked": false,
+      "note": "VERIFIED LIVE: 'Top 40 Bars And Pubs On London's River Thames', https://www.designmynight.com/london/pubs-on-the-river-thames-london - byline Scarlett Welch (DesignMyNight's editor), last updated 13 Aug 2026. Found via the site's own sitemap (designmynight.com/sitemap.xml -> sitemap-1.xml), not search - DesignMyNight's search endpoint 404s on a query string and Bing could not be used. Confirmed London-only: read the full text for Henley/Marlow/Windsor/Staines/Maidenhead/Runnymede/Datchet/Chertsey/Walton-on-Thames/Weybridge/Molesey and found none of them (trap 12 check) - furthest entries are Richmond, Twickenham and Kingston upstream, Greenwich downstream. UNRANKED - a 'List / Map / Show Filters' directory page, not a numbered countdown, consistent with DesignMyNight's listings-led character per data/sources.json. SCOPE FLAG: mixes genuine pubs with bars/restaurants that merely sit by the river - e.g. Setlist (tagged 'Entertainment Bar', on the Somerset House terrace) and Clipper Bar and Terrace - filter to actual pubs at collection time rather than importing the whole 40 as-is. Spans real ground: Bell & Crown (Chiswick), Sail Loft / Pilot Greenwich / Enderby House / Clipper Bar and Terrace (Greenwich), The White Cross (Richmond), The Black Lion (Hammersmith), Setlist (Embankment/Somerset House), The White Swan (Twickenham) among the names read."
+    },
+    {
+      "name": "Conde Nast Traveller",
+      "domain": "cntraveller.com",
+      "ranked": "unknown",
+      "note": "VERIFIED LIVE: 'The best pubs in London: 42 places that pour the perfect pint', https://www.cntraveller.com/gallery/best-pubs-in-london - a general London pubs gallery (not exclusively riverside) with substantial riverside content confirmed by reading the page (multiple Thames/riverside mentions including a Richmond-area entry). London-scoped - checked and found no Henley/Marlow/Windsor/Staines/Maidenhead/Runnymede/etc, so not a national list. Found via CN Traveller's own working site search (cntraveller.com/search?q=), which DID respect the query, unlike Time Out's or Standard's. A second CN Traveller page also matched the same search, /gallery/best-country-pubs-rooms - that one reads as a national countryside-pubs-with-rooms piece, NOT London-scoped, and is deliberately excluded here (trap 12); do not import it at collection time. Gallery/slideshow format - ranked status not confirmed, check when read in full. Only the riverside-relevant subset of the 42 should be pulled in, same technique craft-beer-pubs.json used on Time Out's general 50-pub list."
+    },
+    {
+      "name": "Evening Standard",
+      "domain": "standard.co.uk",
+      "ranked": "unknown",
+      "note": "No single dedicated 'riverside pubs' piece found, but two live, dated, London-scoped pieces both carry substantial genuine riverside content and should be read in full at collection time - treat as ONE masthead source under the counting rule: (1) 'London's 50 sunniest pubs and beer gardens for summer drinking', https://www.standard.co.uk/going-out/bars/50-best-pubs-london-sunny-weather-b1236933.html, dated 15 Aug 2026 - names a Thames riverside pub in Chiswick at Strand-on-the-Green, a Kingston-upon-Thames entry, and pubs described as having 'decking perched over the river' and 'panoramic views over the river'. (2) 'The best beer gardens in London pubs', https://www.standard.co.uk/going-out/bars/beer-gardens-london-pubs-bars-outside-drinking-b1165136.html, dated 8 Apr 2026 - names a Twickenham riverside entry and pubs 'from the Thames to Barnes and the London Wetland Centre'. Found via standard.co.uk/sitemaps/sitemap-sections.xml -> the going-out/bars section page, because Standard's own ?q= search returns a 404 page; the section page only surfaces recent items so an older dedicated riverside piece could still exist unseen - not ruled out, just not found this pass."
+    },
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": null,
+      "note": "CHECKED, NO DEDICATED PIECE FOUND THIS PASS. Read the bars-and-pubs hub (timeout.com/london/bars-and-pubs) in full - it lists 'The 50 best pubs in London', 'The 50 best bars in London', 'best rooftop bars', 'best late-night bars' and 'best quirky bars and pubs' as its named guides; nothing riverside- or Thames-titled among them. On-site search (timeout.com/search and timeout.com/london/search with a query string) rendered the generic default feed regardless of query text - client-rendered and did not respect the querystring this pass, and a later navigation to timeout.com/london was itself blocked. Their global sitemap is a huge multi-country index, not worth crawling for one topic. NOT concluding the piece doesn't exist - only that it wasn't found by nav or search this pass; worth a fresh look before collection, ideally typing into the actual search box rather than a URL parameter. Time Out's existing general 'The 50 Best Pubs in London' (timeout.com/london/bars-and-pubs/the-best-pubs-in-london, 15 Oct 2025) is ALREADY a source in data/consensus/craft-beer-pubs.json - check IT for riverside-flagged entries (Time Out tags each entry by area) rather than re-fetching cold, the same technique that pass used to pull 6 craft-relevant entries out of the same 50."
+    },
+    {
+      "name": "Secret London",
+      "domain": "secretldn.com",
+      "ranked": null,
+      "note": "Tier C per data/sources.json, not tier B - noting the correction rather than inventing a scheme (trap 1). CHECKED, NO DEDICATED PIECE FOUND THIS PASS. Secret London's own WordPress search (secretldn.com/?s=) does respect its query - tried 'riverside pubs' and 'pubs on the thames', both returned real, on-topic-adjacent results (a historic-pubs feature, a single-venue 'prettiest pub' story, Thames-side day-trip escapes) but no dedicated riverside/Thames pub listicle on page 1 of either search. Secret London already supplies five names to the historic-pubs corpus (see note above), two of which - Prospect of Whitby and Mayflower - are Thames-side, via a DIFFERENT URL (secretldn.com/oldest-pubs-in-london/) than anything found for this topic."
+    }
+  ],
+  "independentBlogs": [
+    {
+      "name": "London Walks",
+      "domain": "walks.com",
+      "tier": "C (per data/sources.json)",
+      "note": "VERIFIED LIVE: 'The Thames: A Guide to London's Famous River', https://www.walks.com/blog/the-thames/ - a general guided-tour company's own Thames guide, not a pub listicle, but it contains a distinct 'Pub Thames Walk' passage naming the Prospect of Whitby and the Mayflower by name and by what's distinctive about each (historic stairs down to the river at the Prospect; the Mayflower's proximity to the Pilgrim Fathers' departure point). Same domain already supplies the historic-pubs corpus via a DIFFERENT page (walks.com/blog/londons-oldest-pubs/) - a second, legitimate citation from the same tier-C domain for a different topic, not a duplicate (trap 13 is about one topic's corpus, not about a domain being reused across topics)."
+    }
+  ],
+  "blogLeadsNotYetConfirmed": [
+    "Diamond Geezer (diamondgeezer.blogspot.com) - the blog's own search returned real, dated posts matching 'riverside pub' spanning 2009-2022, but individual post titles could not be cleanly extracted this pass (Blogger's markup didn't match the extraction tried). A promising single-author specialist lead - a personal, observational London-geography blog, not a listicle site - worth a proper read at collection time rather than citing blind.",
+    "Rebel Atlas and Will Hawkes - both already real, dated, byline'd tier-C pub specialists recorded in data/consensus/craft-beer-pubs.json. Not checked for Thames-specific coverage this pass; worth revisiting since both are known-good on pubs generally.",
+    "A London Inheritance, IanVisits and Spitalfields Life were each tried (all real, established London-history/photography blogs) and none yielded a clean, confident riverside-pub hit this pass. thegreatwen.com's domain did not resolve at all - worth checking whether it has moved before assuming it's gone."
+  ],
+  "blockedSources": [
+    {
+      "name": "Londonist",
+      "domain": "londonist.com",
+      "note": "Marked blocked in data/sources.json (tier C). Not attempted this pass, consistent with existing project handling (data/consensus/craft-beer-pubs.json flags it identically). If Rob can reach it directly, worth checking for a riverside/Thames pub piece."
+    }
+  ],
+  "facetAxis": {
+    "field": "stretch",
+    "note": "Confirmed by research, not guessed: DesignMyNight's own Thames list and both Evening Standard pieces independently spread across the same three real stretches of the river, with real named venues on each - a genuine distinction, not a manufactured one. A second, thinner dimension showed up in the same sources - whether a pub is actually ON the water (a terrace, jetty or deck over the river, 'you can't get a pint any closer to the banks') versus merely near or a short walk from it - but the evidence for that as a full second axis is weaker than for 'stretch'; capture it as a per-entry note during collection rather than forcing a second facet now.",
+    "values": [
+      { "key": "upstream", "label": "Upstream", "describeAs": "Richmond, Twickenham, Kingston and the villagey stretch above central London" },
+      { "key": "central", "label": "Central", "describeAs": "Southbank, Embankment, Wapping and Rotherhithe - the built-up, tourist-heavy stretch through the middle of town" },
+      { "key": "downstream", "label": "Downstream", "describeAs": "Greenwich and beyond, where the river widens towards the estuary" }
+    ]
+  },
+  "knownGaps": [
+    "Tiers D (video) and E (Reddit/community) not attempted - out of scope for this draft-and-stop pass. Per SKILL.md both are mandatory at actual collection time (floor: three independent social voices for a topic with no judged award, which this one has none of).",
+    "No tier-A award body found - see the note field for what was checked (CAMRA's existing structure, greatbritishpubawards.co.uk).",
+    "Time Out and Secret London: no dedicated riverside/Thames pub piece found despite genuine search effort on both (see their editorialLists notes for exactly what was tried). May be a real gap in their coverage, or just something search couldn't surface this pass - worth one more look, ideally with working search or by typing directly into each site's search box, before concluding either masthead has nothing.",
+    "Bing (browser and curl both) returned degraded, off-topic results all session regardless of rewording - see note. Every finding above comes from direct navigation instead.",
+    "Heavy expected overlap with the historic-pubs corpus (Prospect of Whitby, Mayflower, The Grapes) and with craft-beer-pubs.json (general Time Out pub list, Linleys 360's Prospect of Whitby citation) - see note. Not a defect, but Rob should know this topic will not read as a fully fresh venue set."
+  ],
+  "openVenueQuestions": [
+    "OPEN, FOR ROB (full reasoning in scopeDecision above): should canal-side pubs (Regent's Canal, Grand Union, Lee Navigation) be folded into this topic, or stay separate? Claude's call pending review is to keep them separate - Thames only.",
+    "OPEN: DesignMyNight's Thames list mixes pubs with bars/restaurants that merely sit by the river (Setlist, an 'Entertainment Bar' on the Somerset House terrace; Clipper Bar and Terrace) - needs a filter to genuine pubs only at collection time, matching what this topic's own name promises readers.",
+    "OPEN: this topic will very likely share its strongest entries (Prospect of Whitby, Mayflower, The Grapes) with the existing historic-pubs corpus, which itself has no topic config of its own (data/consensus/historic-pubs.json exists and feeds a live article, but data/topics/historic-pubs.json does not exist) - worth Rob knowing this venue set isn't fully fresh before commissioning full collection."
+  ]
+}

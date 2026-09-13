@@ -1,0 +1,96 @@
+{
+  "topic": "pub-gardens",
+  "article": "src/content/articles/best-pub-gardens-london.md",
+  "headTerm": "Pub Gardens",
+  "note": "DRAFT - Part 1 step 1 ONLY, created 2026-09-13 per SKILL.md ('create one from data/topics/pizza.json and stop for review before collecting'). NO COLLECTION HAS HAPPENED. data/consensus/pub-gardens.json does not exist and must not be created from this pass alone.\n\nBING WAS CONFIRMED BROKEN FOR THE ENTIRE RESEARCH SESSION (2026-09-13), on both curl and the browser tool, in fresh tabs, across many substantially reworded queries (dropping 'best', trying 'beer garden guide Time Out', trying quoted-phrase queries). Every query matched on a single common word ('best' or 'London') and returned dictionary/Wikipedia/tourist-board filler (merriam-webster, cambridge dictionary, visitlondon.com, britannica) regardless of the rest of the query - see the four example queries tried, none of which returned a single on-topic result. Per the task instructions, every source below was instead found by navigating straight to mastheads' own nav, on-site search, or XML sitemaps and reading the live page - not by web search. Two sites (standard.co.uk, designmynight.com) also threw unrequested redirects to unrelated third-party sites (openstreetmap.org, lse.co.uk, and once bing.com itself mid-navigation) when driven with the browser tool - curl was reliable for both, the browser tool was not, for these two domains specifically. A re-run once Bing recovers may surface more, especially tier C blogs and tier D video, which lean on search far more than mastheads do.\n\n'Beer garden' and 'pub garden' are used interchangeably by every source found, sometimes both in the same piece (CN Traveller's gallery asks 'What is the best beer garden in London?' then heads its list 'The best pub gardens in London for...'). 'Beer garden' is the more common term in titles (Time Out, DesignMyNight and one of the two Standard pieces use it exclusively) - see openVenueQuestions.\n\nSibling topic craft-beer-pubs.json already carries two general 'best pubs' lists (Time Out's and Secret London's) that each flag a handful of garden-relevant entries within them - e.g. Secret London's existing citation for 'The Lamb, Chiswick' already quotes 'particularly lovely garden'. Re-mining those specific entries for THIS topic is legitimate (the same move Time Out's own taproom guide made against its own 50 Best Pubs list), but they are NOT new sources - see the editorialLists notes below for exactly which URLs are already spoken for.",
+  "awardBodies": [],
+  "awardBodiesChecked": [
+    "CAMRA - checked the national site (camra.org.uk) directly; no 'Garden Pub of the Year' or equivalent award is advertised at national level. craft-beer-pubs.json's collection pass already established that several London branches run a 'Cider Pub of the Year' sub-category alongside their main Pub of the Year (East London, North London, South West London and South East London branches all named one, per Tweedy Pubs' videos) - so branch-level sub-categories beyond the headline award are a real pattern for CAMRA, but no evidence of an equivalent GARDEN sub-category turned up in this pass. Not re-crawling all 13 Greater London branch sites for this draft-and-stop step (disproportionate before the topic is confirmed worth collecting) - worth a specific, targeted check of the branch sites at collection time, since they are already known-navigable from the craft-beer-pubs pass.",
+    "Great British Pub Awards (greatbritishpubawards.co.uk, run by William Reed / morningadvertiser.co.uk) - REAL AND LIVE, running for 2026, and it DOES have a genuine 'Best Pub Garden' category (confirmed via the site's own categories/testimonials page). But it is a NATIONAL award, not London-specific - trap 12 applies. The only past winner findable in this pass (2023) is The Gaggle of Geese in Buckland Newton, Dorset - not London, so not usable as-is. The site does not appear to expose a clean, dated, per-year winners archive as a plain page: guesses at /winners/, /2025-winners/, /2026-winners/, /previous-winners/ and /finalists/ all served byte-for-byte the same generic categories/testimonials page (which itself carries an internal page title of 'Great British Pub Awards 2020', despite showing 2023 testimonials - the page is stale/reused across years, not a real archive). If this topic proceeds to collection, worth one more targeted look (or asking whether Rob already knows a London winner in another year) before concluding the award never touches London - not force-counted here on the one Dorset data point.",
+    "No London-specific judged pub-garden or beer-garden award was found. Under SKILL.md's rule this sets the social-tier floor at THREE independent voices rather than two, once tiers D/E are collected - same conclusion barbecue.json reached for the same reason."
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": true,
+      "url": "https://www.timeout.com/london/bars-pubs/londons-best-beer-gardens",
+      "verified": "2026-09-13 - CONFIRMED LIVE, read in full. 'The best beer gardens in London', dated Monday 20 July 2026, by Leonie Cooper (Time Out London's Food and Drink Editor). Numbered 1-24 in Time Out's standard countdown format ('What is it?' / 'Why we love it?' / 'Time Out tip' per entry, with address and opening hours) - the same house style as the taproom guide already recorded for craft-beer-pubs, which WAS explicitly confirmed ranked. This piece's own intro text does not use an explicit 'we've ranked' claim the way the '50 Best Pubs' piece does, so treat the numbering as likely-ranked but re-confirm at collection (trap 11).",
+      "note": "Its own intro links onward to Time Out's 'Best Historic Pubs in London' and 'Most Haunted Pubs in London' (different facets, not fetched here) and explicitly separates ROOFTOP bars into their own, different guide: 'If you want to be outside but higher up, you might like our directory of the capital's finest rooftop bars.' See openVenueQuestions - Time Out itself does not treat rooftop terraces as beer gardens. Also says 'quite a few of these boozers also feature in our 50 Best Pubs In London list' - that list is ALREADY a craft-beer-pubs source (timeout.com/london/bars-and-pubs/the-best-pubs-in-london); do not record it a second time as new, only re-mine the specific garden-flagged entries if this topic collects. Venues actually named here include several already in the craft-beer-pubs corpus for unrelated reasons (The Black Eel via Will Hawkes, The Chesham Arms via Tweedy Pubs/CAMRA) - fine to cite again here, but each needs its own fresh citation, per trap 7 - the craft-beer-pubs count cannot be reused."
+    },
+    {
+      "name": "Evening Standard",
+      "domain": "standard.co.uk",
+      "tier": "B",
+      "ranked": false,
+      "url": "https://www.standard.co.uk/going-out/bars/beer-gardens-london-pubs-bars-outside-drinking-b1165136.html",
+      "verified": "2026-09-13 - CONFIRMED LIVE via curl (see note on the browser tool below). 'The best beer gardens in London pubs', by David Ellis, dated 8 April 2026. Unranked - plain <h2> venue names with no numbering, roughly 23 venues visible (Pub on the Park, The Albion, Anchor Bankside, The Sun of Camberwell, People's Park Tavern, The Red Lion, The Crown and Greyhound, Big Penny Social, The Leyton Star, The Duke of Edinburgh, The White Horse, The Hope and Anchor, The Crabtree Tavern, The White Swan, The White Hart, The Prince, The Duke of Hamilton, The Eagle, The Canonbury Tavern, The Avalon, Edinboro Castle, Tir Na Nog, Perry Hill Pub).",
+      "alsoAt": [
+        "https://www.standard.co.uk/going-out/bars/50-best-pubs-london-sunny-weather-b1236933.html"
+      ],
+      "note": "Two Standard URLs, one masthead per the counting rule. The second, 'London's 50 sunniest pubs and beer gardens for summer drinking' by Josh Barrie (dated 15 Aug 2026, very recent), is organised by area (Central/North/South/West London) rather than a single rank - matches the same 'general pubs list, area-organised, only some entries garden-relevant' shape as Time Out's and Secret London's 50-best-pubs lists. Its full 50 did NOT get read here: the static fetch only captured roughly a dozen names (Tamesis Dock, The Globe, The Butcher's Hook & Cleaver, Marquess of Anglesey, The Fence, The City Pride, The Duke of York, The Clerk & Well, The Duke of Wellington, The Griffin, The Selkirk SW17) before what looks like lazy-loaded/paginated content curl can't see - needs a browser-based re-read at collection, per trap 15. IMPORTANT OPERATIONAL NOTE: loading standard.co.uk pages with the browser tool triggered unrequested redirects away from the page (once to openstreetmap.org, once the search bar itself got hijacked to bing.com mid-navigation) - curl worked cleanly every time. Use curl for this domain, not the browser, unless curl is later found to miss something the browser can see."
+    },
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "tier": "B",
+      "ranked": false,
+      "url": "https://www.designmynight.com/london/beer-gardens-london",
+      "verified": "2026-09-13 - CONFIRMED LIVE via curl. og:title 'Best Beer Gardens In London', on-page title 'London's Best Beer Gardens To Book Now'. Found via the site's own sitemap (designmynight.com/sitemap.xml -> sitemap-*.xml), not a guessed slug or the site's broken on-site search (both /london/search?q=... and a direct /london/bars/londons-best-beer-gardens-style slug guess 404'd).",
+      "note": "Same masthead characterisation as the existing craft-beer-pubs.json entry: listings-led with editorial on top, weaker than a genuine masthead review. This page is large (1.5MB) and grouped by area (East/South/North/West/Central London) rather than a single edited countdown; real named venues confirmed present (40FT Dalston, Alwyne Castle, Aragon House, Barge East Gardens & Terrace, Big Penny Social, Bird House Brewery, Clissold Park Tavern, Hackney Church Brew Co, Hope & Anchor, among many more) but individual venue links are rendered client-side (embedded JSON, not plain anchor tags) - full extraction needs the browser or a JSON-aware fetch at collection, not a plain curl grep for <a href>. The browser tool also hit an unrequested redirect (to lse.co.uk) when loading DesignMyNight's /london/bars category page directly - same caution as standard.co.uk, prefer curl for this domain."
+    },
+    {
+      "name": "Conde Nast Traveller",
+      "domain": "cntraveller.com",
+      "tier": "B",
+      "ranked": true,
+      "url": "https://www.cntraveller.com/gallery/beer-gardens-london",
+      "verified": "2026-09-13 - CONFIRMED LIVE, read in full via curl. '21 beer gardens in London for al-fresco drinking on riverside terraces and countryside-style plots'. Numbered 1-21: Leather Bottle (Earlsfield), The Duke of Edinburgh (Brixton), The Albion (Islington), Clissold Park Tavern (Stoke Newington), The Crown and Shuttle (Shoreditch), The White Swan (Twickenham), The Landor (Clapham), Freemason's Arms (Hampstead), Pub On The Park (London Fields), The Crooked Billet (Wimbledon Village), The King's Arms (Wandsworth), The George Inn (London Bridge), The Ship (Wandsworth), The Jolly Gardeners (Putney), The Flask (Highgate), Chesham Arms (Hackney), The Telegraph (Putney), The Dolphin (Sydenham), The Crabtree (Hammersmith), The Windsor Castle (Kensington), The Coat & Badge (Putney). Every named area is genuinely in London - no trap-12 scope problem.",
+      "note": "Originally published 2021-04-12 but structured data on the page gives dateModified 2026-05-20 (confirmed via the article's own JSON-LD and its appearance in cntraveller.com's May-2026 monthly sitemap) - actively maintained, not stale, despite the old original publish date. Found by checking 12 months of CN Traveller's monthly XML sitemaps (2026-04 through 2026-09, plus the same months in 2025) for a beer-garden/pub-garden slug, since the site's on-site search and Bing were both unusable - a bounded, not exhaustive, check; older sitemaps were not searched."
+    }
+  ],
+  "checkedNoDedicatedList": [
+    "Secret London (secretldn.com, tier C) - the task flagged this as worth checking given Time Out's precedent. Used the site's own search (secretldn.com/?s=beer+garden) rather than Bing; no dedicated beer-garden or pub-garden guide surfaced across the visible results, only unrelated hits (a Kew Gardens light trail, a food-and-drink-festivals roundup, a pub-ownership news story). This looks like a real gap in Secret London's coverage, not a search failure - its existing general 'best-pubs-in-london' page (already a craft-beer-pubs source) is the closest it has, and that page's 'The Lamb, Chiswick' entry already carries a garden-relevant quote per craft-beer-pubs.json.",
+    "Time & Leisure (timeandleisure.co.uk, tier C) - site search for 'beer garden' surfaced only a 'gardens' tag page that is about home/gardening content, not pubs. No dedicated guide found."
+  ],
+  "blockedSources": [
+    {
+      "name": "Londonist",
+      "domain": "londonist.com",
+      "note": "On data/sources.json's permanent403 list already (same as craft-beer-pubs.json's handling). Unlike the craft-beer-pubs pass, no search snippet was available this time (Bing broken) to confirm a specific pub-gardens page even exists there before hitting the block - a direct URL guess returned a plain 404, which is not evidence either way. Flagged per policy; genuinely unknown whether there is a real gap here."
+    }
+  ],
+  "facetAxis": {
+    "field": "setting",
+    "note": "Not a style-of-drink axis like craft-beer-pubs (real-ale/craft-keg/taproom) - pub gardens split naturally by WHERE the outdoor space is and what it's for, which is what actually distinguishes the venues across Time Out's 24 and CN Traveller's 21. Provisional, drafted from these two sources only; may need adjusting once more sources are in. Rooftop is deliberately NOT included as a value - see openVenueQuestions, Time Out's own taxonomy treats rooftop bars as a separate topic from beer gardens, and no source read here described a pub's outdoor space as a rooftop.",
+    "values": [
+      {
+        "key": "riverside",
+        "label": "Riverside / waterside",
+        "describeAs": "benches or a terrace right on the Thames or a canal/river towpath, not just 'near' water"
+      },
+      {
+        "key": "courtyard",
+        "label": "Courtyard / walled garden",
+        "describeAs": "a smaller, enclosed yard behind or beside the pub, often walled or built up on a tight footprint"
+      },
+      {
+        "key": "destination",
+        "label": "Huge / destination garden",
+        "describeAs": "a large, multi-area garden that's the reason people go there at all - room for hundreds, often with its own outdoor bar, DJs or barbecues"
+      }
+    ]
+  },
+  "knownGaps": [
+    "Tier C (independent blog/specialist): none confirmed yet. Pellicle.beer was attempted and the domain did not resolve at all (dropped, not a real candidate as guessed). Boak and Bailey (boakandbailey.com) is a real, established beer-history specialist duo with a live /london/ tag archive, but a search of their own site for 'beer garden london' surfaced only general London pub essays, nothing garden-specific - so not recorded as a source, just noted as plausible for a future pass. Rebel Atlas and Will Hawkes's London Beer City newsletter (both already tier-C craft-beer-pubs sources) likely mention gardens in passing within their existing pieces - e.g. Rebel Atlas's existing Black Dog entry already says 'on the edge of Vauxhall Pleasure Gardens' - but re-reading either specifically for garden content has not been done.",
+    "Tier D (video) and Tier E (Reddit/community) were not attempted at all in this pass - out of scope for a draft-and-stop step. Reddit remains blocked in this environment entirely per SKILL.md regardless.",
+    "Evening Standard's 'London's 50 sunniest pubs' piece is only partially read - its full 50 names sit behind pagination/lazy-loading a static fetch can't see (see editorialLists note). Needs a browser-based read at collection.",
+    "DesignMyNight's beer-gardens page's venue list is embedded as client-rendered JSON, not plain HTML links - full name extraction needs the browser or a JSON-aware parse at collection, not a plain-text grep."
+  ],
+  "openVenueQuestions": [
+    "SCOPE CALL NEEDED: does 'pub garden' in this guide include a pub's ROOFTOP terrace? Time Out's own beer-gardens guide explicitly excludes rooftop bars into a separate list of theirs, and no other source read here called a rooftop a beer/pub garden. Recommend following Time Out's precedent (exclude rooftop-only outdoor space) but this changes which venues are even eligible, so it needs Rob's call before collection, not a silent decision.",
+    "Terminology: 'beer garden' outnumbers 'pub garden' in source titles (Time Out, DesignMyNight and one of the two Standard pieces use 'beer garden' only; CN Traveller and Standard's second piece use both interchangeably in the same piece). Doesn't affect the file/article naming, already fixed to 'pub-gardens', but may be worth knowing for the H1 and title tag.",
+    "Several venues found here already carry a craft-beer-pubs citation for an unrelated reason (The Chesham Arms, The Black Eel, Clissold Park Tavern, People's Park Tavern and others all appear in both corpora). Per trap 7, no citation count can be carried over from craft-beer-pubs - each needs a fresh citation recorded under this topic if collection goes ahead."
+  ]
+}
