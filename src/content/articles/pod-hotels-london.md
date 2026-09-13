@@ -33,8 +33,8 @@ A capsule is a sealed berth roughly the size of a single bed, lined in oak, with
 
 London has **five of them**. Not the ten or eleven you will find on most lists — those pad the number with ordinary hostels, with small-room hotels, and in a couple of cases with places that closed or never opened here.
 
-> 💡 **The Short Version:** **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is the one to book — 965 berths one minute from the Tube, a 24-hour front desk, and the lowest price of the five. **Zedwell Leicester Place** is the same product at a quieter address. **[St Christopher's Village](hotel:st-christophers-village)** is the only one with a bar and a social side. **Otherwander Soho** is nicer and roughly double the price. **The GreenHouse** in Bethnal Green is tiny and has almost no staff.
-
+> 💡 **The Short Version:** **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is the one to book — 965 berths one minute from the Tube, a 24-hour front desk, and the lowest price of the five. **Zedwell Leicester Place** is the same product at a quieter address. **[St Christopher's Village](hotel:st-christophers-village)** is the only one with a bar and a social side. **Otherwander Soho** is nicer and roughly double the price. **The GreenHouse** in Bethnal Green is tiny and has almost no staff.
+
 > 🛏️ **Want the kitchen and the bar instead?** That is a [hostel](/articles/best-hostels-london/), and we compare fourteen of them on the things booking sites bury — which dorms are en-suite, which have real female-only rooms, and the age limits that will refuse you at the desk. Beds start around £11.
 
 ## What a night in one is actually like
@@ -143,6 +143,10 @@ The trade is atmosphere. Nine hundred and sixty-five berths in one building feel
 ### Zedwell Leicester Place — the same thing, calmer
 
 *222 capsules · 7 Leicester Place, WC2H 7BY · Leicester Square 2 min · [book direct](hotel:zedwell-leicester-place-capsule)*
+
+![A row of vanity stations with wall-mounted hairdryers and stools facing a long mirror, with a shower stall visible behind the glass partition](../../assets/articles/pod-hotels-london/zedwell-leicester-place-bathroom.jpg)
+
+*The shared bathroom floor at Zedwell Leicester Place. Vanity stations and mounted hairdryers face the mirror, shower stalls just behind — the same shared set-up as Piccadilly Circus.*
 
 Identical product, identical policies, a fifth of the size — and **above the Prince Charles Cinema**, which is a good address to wake up at. Dormitories run from 3 to 100 capsules, so this is the one for a group that wants a room of its own.
 
