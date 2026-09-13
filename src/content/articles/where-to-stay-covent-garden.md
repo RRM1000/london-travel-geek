@@ -66,6 +66,16 @@ A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, whi
 
 **Join Z Member before you book.** It is free, and it adds complimentary evening cheese and wine plus 10% off food and drink — though not off breakfast. Do not confuse it with a Z Club room, which is a dearer grade that does include breakfast. Café Inigo downstairs does the buffet breakfast and small plates.
 
+<div class="photo-row">
+
+![A compact double room at the Z Hotel Covent Garden, with a dark upholstered headboard and a wall-mounted television showing the in-room welcome screen](../../assets/articles/where-to-stay-covent-garden/z-hotel-covent-garden-room.jpg)
+
+![The ensuite bathroom of a Z Hotel Covent Garden room, with a frosted-glass shower screen and wall-mounted grab rails](../../assets/articles/where-to-stay-covent-garden/z-hotel-covent-garden-bathroom.jpg)
+
+</div>
+
+*A compact room at the Z Hotel Covent Garden, and its ensuite bathroom with a frosted-glass shower screen.*
+
 ### hub by Premier Inn London Covent Garden — eleven square metres on St Martin's Lane
 
 *About £95 · 11 sq m standard rooms · 110 St Martin's Lane, WC2N 4BA · Leicester Square 3 min*
@@ -75,6 +85,16 @@ Premier Inn's compact format at an address that would cost triple under almost a
 **Read the brand's own small print.** The hub page carries a footnote stating that the estate "includes rooms that are window-free", and sells them as **"ambient rooms"** — self-dimming backlit boxes and circadian light wells that mimic daylight rather than a window onto anything. It is the same catch as the Z Inside grades, phrased more warmly. Ask which you are being given.
 
 Breakfast is continental and charged separately, and there is no car park, which on St Martin's Lane is no loss whatsoever.
+
+<div class="photo-row">
+
+![A hub by Premier Inn room, with a wall-mounted television and an illustrated local-area map above the bed](../../assets/articles/where-to-stay-covent-garden/hub-premier-inn-room.jpg)
+
+![The ensuite bathroom of a hub by Premier Inn room, with green tiling in the shower](../../assets/articles/where-to-stay-covent-garden/hub-premier-inn-bathroom.jpg)
+
+</div>
+
+*A hub by Premier Inn room, with the illustrated area map above the bed, and its green-tiled ensuite shower.*
 
 ### Strand Palace — the one that still has rooms
 
@@ -88,6 +108,10 @@ Grades are published by size and the bottom of the range is genuinely small. **C
 
 Practical notes that decide bookings here: **breakfast is £18 a head**, the gym is free, luggage storage is free before and after but never overnight, the hotel takes no cash at all, and Haxells downstairs runs a pre-theatre menu from midday. Joe Allen, the New York brasserie the West End has drunk in since 1977, is in the same building, entered round the back on Burleigh Street.
 
+![A guest room at the Strand Palace, with two leather armchairs and a table beside the window](../../assets/articles/where-to-stay-covent-garden/strand-palace-room.jpg)
+
+*A guest room at the Strand Palace, with a sitting area beside the window.*
+
 ### Wilde Aparthotels Covent Garden — a kitchen, and a hard ceiling at three people
 
 *About £185 · Studios with full kitchens · 11 Adam Street, WC2N 6AA · Charing Cross 5 min*
@@ -99,6 +123,16 @@ Studio apartments with fully fitted kitchens on Adam Street, an Adelphi side tur
 **Housekeeping is weekly rather than daily.** On a stay of a week or more the studio is cleaned on the fourth day and once a week after that; an extra clean is £20. Reception is staffed around the clock and check-in can be done online.
 
 One booking trap: the building is sold twice on the booking sites, as Wilde Covent Garden and as Wilde by Staycity The Strand. Same address, two listings, two prices — compare both.
+
+<div class="photo-row">
+
+![A studio at Wilde Aparthotels Covent Garden, with the bed facing a built-in wood unit that holds storage and the ensuite](../../assets/articles/where-to-stay-covent-garden/wilde-aparthotels-covent-garden-room.jpg)
+
+![The wood-clad ensuite bathroom pod inside a Wilde Aparthotels Covent Garden studio, with a walk-in shower and a round basin](../../assets/articles/where-to-stay-covent-garden/wilde-aparthotels-covent-garden-bathroom.jpg)
+
+</div>
+
+*One of the Wilde Aparthotels Covent Garden studios: the bed faces a self-contained wood-clad unit holding the storage and ensuite bathroom shown on the right.*
 
 ### The Londoner — sixteen storeys, six of them underground
 
@@ -112,6 +146,10 @@ Strictly it is on Leicester Square rather than in Covent Garden, five minutes we
 
 Your room key also opens The Residence: three guest-only rooms including a whisky parlour behind a hidden door with more than fifty bottles. Non-residents cannot get in, which is unusual here — most of the good rooms in this guide are open to anybody.
 
+![A guest room at the Londoner, with a wall-mounted television, a framed print above the bed and a desk beside the curtained window](../../assets/articles/where-to-stay-covent-garden/the-londoner-room.jpg)
+
+*A guest room at the Londoner, with a desk beside the curtained window.*
+
 ### The Savoy — where the river view starts at suite level
 
 *About £700 · Strand, WC2R 0EZ · Pool, gym, three treatment rooms · Check-out noon*
@@ -123,6 +161,10 @@ Britain's first purpose-built luxury hotel, opened in 1889 by Richard D'Oyly Car
 There is a naturally lit pool, a gym, sauna, steam room and three treatment rooms, which is rare in a building this old. Housekeeping is daily with evening turndown, and check-out is noon rather than eleven.
 
 **The cheap way in is the archive tour.** The hotel's own archivist runs a guided tour once a month, finishing with a glass of champagne in the American Bar — that plus a drink in the Beaufort Bar shows you most of what the room rate is for.
+
+![A guest room at the Savoy, with heavy drapery, a carved wood headboard and the Thames and London Eye visible through the window](../../assets/articles/where-to-stay-covent-garden/the-savoy-room.jpg)
+
+*A river-facing room at the Savoy, with the London Eye visible across the Thames.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -136,11 +178,55 @@ If you have not settled on a part of London yet, our guide to the [best areas to
 
 The direct test of the entire premium, and it is not close. **Z Hotel Holborn is at 75 Kingsway**, which Z's own site places five minutes from Covent Garden, and it sells the same rooms for markedly less: the **Z Double at £70 against £100**, the Z Queen at £75 against £105, and the four-person **Z Family at £95 against £155**. Same brand, same room names, same floor areas, published on the same website on the same day. Nothing about the product changes; only the postcode does.
 
+![A room at the Z Hotel Holborn, with a built-in wardrobe unit and a tea-and-coffee tray on the desk](../../assets/articles/where-to-stay-covent-garden/z-hotel-holborn-room.jpg)
+
+*A room at the Z Hotel Holborn — the same compact format sold at Covent Garden, for less.*
+
 What you give up is the piazza on the doorstep and a two-minute walk from the theatre. Kingsway is a wide, dull, well-lit road and the walk is nine minutes at any hour. What you gain is **Holborn station, which adds the Central line** to the Piccadilly — considerably faster for the City, Stratford and the east. The Hoxton Holborn is up the road at about £190 if you want the design-hotel version rather than the cheap one, and the British Museum is ten minutes north.
+
+<div class="photo-row">
+
+![A guest room at the Hoxton Holborn, with illustrated toile wallpaper, a round backlit mirror and a dark blue sofa](../../assets/articles/where-to-stay-covent-garden/the-hoxton-holborn-room.jpg)
+
+![The bathroom of a Hoxton Holborn room, with white and black subway tile and a dark stone vanity](../../assets/articles/where-to-stay-covent-garden/the-hoxton-holborn-bathroom.jpg)
+
+</div>
+
+*A room at the Hoxton Holborn with illustrated wallpaper and a round backlit mirror, and its subway-tiled ensuite bathroom.*
 
 ### The South Bank and Bankside — over the bridge, and the walk back is the point
 
 **[citizenM London Bankside](hotel:citizenm-bankside)** is about £160 and sells one room type only: a wall-to-wall window, a tablet that runs the blinds and the lights, and a bed that fills the width of the room. It is small and entirely honest about being small. **Premier Inn London County Hall** is about £110, which is as central as £110 gets in this city. And **[St Christopher's Village](hotel:st-christophers-village)** at London Bridge starts around £53 for a double capsule if the budget is the binding constraint — the only capsule address in London with a bar and a roof terrace attached, which our [capsule hotels guide](/articles/pod-hotels-london/) covers in full.
+
+<div class="photo-row">
+
+![A citizenM London Bankside room, with the bed filling the width of the room beneath a wall-mounted television](../../assets/articles/where-to-stay-covent-garden/citizenm-bankside-room.jpg)
+
+![The ensuite bathroom of a citizenM London Bankside room, open to the bedroom through a glass and mirrored partition](../../assets/articles/where-to-stay-covent-garden/citizenm-bankside-bathroom.jpg)
+
+</div>
+
+*A citizenM London Bankside room and its ensuite bathroom, open to each other through a glass partition.*
+
+<div class="photo-row">
+
+![A twin room at Premier Inn London County Hall, with a double bed, a single bed and a travel cot set up between them](../../assets/articles/where-to-stay-covent-garden/premier-inn-county-hall-room.jpg)
+
+![The bathroom at Premier Inn London County Hall, with a purple-tiled bath and shower in the brand's signature accent colour](../../assets/articles/where-to-stay-covent-garden/premier-inn-county-hall-bathroom.jpg)
+
+</div>
+
+*A room at Premier Inn London County Hall, set up as a family twin with a travel cot, and its bathroom.*
+
+<div class="photo-row">
+
+![A dorm room at St Christopher's Village, with steel bunk beds and privacy curtains that close off each bed](../../assets/articles/where-to-stay-covent-garden/st-christophers-village-dorm.jpg)
+
+![The shared bathroom facilities at St Christopher's Village, with a row of sinks and hand dryers](../../assets/articles/where-to-stay-covent-garden/st-christophers-village-bathroom.jpg)
+
+</div>
+
+*A dorm room at St Christopher's Village, where curtains close off each bunk, and the shared bathroom down the hall.*
 
 Waterloo Bridge is ten minutes from the piazza on foot and the view from the middle of it is the best free thing in central London. That is the real argument for staying south: you are not saving a fortune, you are swapping a nightly premium for a walk home along the river rather than through Leicester Square.
 
@@ -149,6 +235,26 @@ Waterloo Bridge is ten minutes from the piazza on foot and the view from the mid
 Ten minutes north of the piazza the market changes completely, and it is covered properly in our [Soho and West End guide](/articles/where-to-stay-soho-west-end/) rather than repeated here. Three things from it are worth knowing while you are pricing Covent Garden.
 
 **[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** is a windowless room from £81, two minutes from the British Museum, and it undercut the brand's Piccadilly flagship on every date we sampled — so if you were going to book a Z Inside grade anyway, price this one first. **[Generator London](hotel:generator-london)** on Tavistock Place is about £26 a bed and openly a party hostel, which is the right answer for some trips and a terrible one before an early flight. And if it was the theatre rather than the cobbles that drew you here, **[Treehouse Hotel London](hotel:treehouse-hotel-london)** is about £250 for a room on the top floors beside Broadcasting House, four minutes from Oxford Circus, with a panorama out of every window instead of a light well.
+
+<div class="photo-row">
+
+![A dorm room at Generator London, with a bunk bed against a brightly painted geometric mural](../../assets/articles/where-to-stay-covent-garden/generator-london-dorm.jpg)
+
+![The shared bathroom at Generator London, with white subway tile, a row of sinks and cubicle partitions](../../assets/articles/where-to-stay-covent-garden/generator-london-bathroom.jpg)
+
+</div>
+
+*A dorm room at Generator London, and the shared bathroom facilities down the hall.*
+
+<div class="photo-row">
+
+![A room at the Treehouse Hotel London, with a window seat running the width of a floor-to-ceiling window over the London skyline](../../assets/articles/where-to-stay-covent-garden/treehouse-hotel-london-room.jpg)
+
+![The bathroom at the Treehouse Hotel London, with silver birch branches built into the tiled wall beside the shower](../../assets/articles/where-to-stay-covent-garden/treehouse-hotel-london-bathroom.jpg)
+
+</div>
+
+*A room at the Treehouse Hotel London, with a window seat over the skyline, and the bathroom's birch-branch feature wall.*
 
 ## The noise question, and why Covent Garden is not Soho
 
