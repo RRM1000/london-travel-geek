@@ -81,9 +81,15 @@ If you want the highest-rated London roast you have a realistic chance of bookin
 
 The roast itself is a straight, serious one: **beef cooked pink, dripping-roasted potatoes, a tall Yorkshire and a jug of gravy**, in a proper Highgate pub with a garden rather than a dining room pretending to be one. It is also the roast **Oisin Rogers of The Devonshire sends people to**, which is the strongest recommendation available in this trade.
 
+<div class="photo-row">
+
 ![A roast beef dinner at The Red Lion and Sun: pink slices of beef in gravy with roast potatoes, a tall Yorkshire pudding and a pot of horseradish, on a pub table beside a pint](../../assets/articles/best-sunday-roast-london/red-lion-and-sun-roast.jpg)
 
-*Beef pink, potatoes roasted in dripping, a Yorkshire taller than the plate is deep, horseradish on the side. No garnish doing work the cooking should do.*
+![A Sunday roast at The Red Lion and Sun with a tall Yorkshire pudding, roast potatoes and greens, served with two pints of Guinness in the garden](../../assets/articles/best-sunday-roast-london/red-lion-and-sun-guinness.jpg)
+
+</div>
+
+*Beef pink, potatoes roasted in dripping, a Yorkshire taller than the plate is deep — the same either time you order it, Guinness included.*
 
 **Book:** [theredlionandsun.com](http://www.theredlionandsun.com/) · **four minutes from The Bull**
 
@@ -97,9 +103,15 @@ That combination — high placement, low price, no booking required — does not
 
 **Book:** [cantonarms.com](https://cantonarms.com/bookings/)
 
+<div class="photo-row">
+
 ![The Canton Arms on South Lambeth Road in Stockwell](../../assets/articles/best-sunday-roast-london/canton-arms-stockwell.jpg)
 
-*An old South Lambeth Road boozer that never rebranded, ranked eleventh in the country, and the realistic walk-in on this page. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Canton_Arms,_South_Lambeth,_SW8_(3838932573).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+![A Sunday roast at the Canton Arms: sliced beef topped with watercress, a roast potato wedge and green beans in gravy](../../assets/articles/best-sunday-roast-london/canton-arms-roast.jpg)
+
+</div>
+
+*Left: the South Lambeth Road boozer that never rebranded, ranked eleventh in the country. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Canton_Arms,_South_Lambeth,_SW8_(3838932573).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Right: the Sunday roast itself.*
 
 ### The Baring, Islington
 
@@ -187,6 +199,10 @@ The most-cited pub roast in south London and the second most-cited anywhere in t
 
 Its ranking is more modest than its press: **#60, on the extended 51–100 list rather than the Top 50 itself.** Both facts are true and they point in different directions, which is exactly the sort of thing a guide should say out loud rather than pick a side on. What every source does agree on is the portion size.
 
+![A Sunday roast at The Camberwell Arms: sliced beef with a herb dressing, swede wedges and greens in gravy](../../assets/articles/best-sunday-roast-london/camberwell-arms-roast.jpg)
+
+*Beef with a herb dressing, swede wedges and greens, sauced properly rather than drizzled.*
+
 **Book:** [thecamberwellarms.co.uk](https://www.thecamberwellarms.co.uk/)
 
 ### The Parakeet, Kentish Town
@@ -206,6 +222,10 @@ The Sunday roast comes off that fire: **meat cooked over wood** rather than in a
 **A Barnsbury pub carried by both the extended gastropub ranking and The Infatuation**, and — usefully — **the easiest table in Islington on a Sunday**.
 
 A classic plated roast: beef, pork or a vegetarian option, **roast potatoes, Yorkshire pudding, seasonal greens and a jug of gravy**. The pub itself is a proper one — high ceilings, worn tables, a garden at the back.
+
+![The Drapers Arms pub on a Barnsbury street at night, lit up with its Freehouse and Dining Room signage above the windows](../../assets/articles/best-sunday-roast-london/drapers-arms-islington.jpg)
+
+*The Drapers Arms on a Barnsbury evening — freehouse and dining room under one roof.*
 
 **££, and it books a few days ahead rather than weeks**, which makes it the sensible option when the more fashionable rooms have gone.
 
@@ -278,9 +298,9 @@ Joint most-cited roast in this guide alongside The Devonshire — and the make-u
 
 The "All In" is a run of every cut on the menu, priced per head — one 2026 review put the Shoreditch site at £28 a head. Built for groups in a way almost no pub kitchen manages, and with several London sites, a full Sunday at one branch does not mean a full Sunday everywhere.
 
-![Blacklock's All In roast on a platter: slices of pink beef and pork with crackling, a Yorkshire pudding, roast carrots and green beans, with cauliflower cheese and a boat of gravy alongside](../../assets/articles/best-sunday-roast-london/blacklock-all-in.jpg)
+![A bone-in chop at Blacklock, carved at the table, with confit potato and bacon-wrapped sausages alongside](../../assets/articles/best-sunday-roast-london/blacklock-chop.jpg)
 
-*The All In, which is the whole argument for coming: every cut on one platter, cauliflower cheese in its own pot, and gravy poured rather than rationed.*
+*A bone-in chop carved tableside, confit potato underneath and bacon-wrapped sausages on the side.*
 
 **Book:** [theblacklock.com](https://theblacklock.com/restaurants/blacklock-soho/) · **two minutes from The Devonshire**
 
@@ -291,6 +311,10 @@ The "All In" is a run of every cut on the menu, priced per head — one 2026 rev
 **British beef dry-aged and grilled over charcoal**, in rooms that were mostly something else first — a brewery, a bank, a ballroom. Spitalfields was the original.
 
 The Sunday roast is the reason it appears here: a **rib of beef with bone-marrow gravy**, dripping-cooked potatoes and a Yorkshire the size of the plate. It is the most expensive roast in this guide and among the best.
+
+![Gravy being poured over a Sunday roast at Hawksmoor: beef, a Yorkshire pudding, roast potatoes, glazed carrots and greens](../../assets/articles/best-sunday-roast-london/hawksmoor-roast.jpg)
+
+*Bone-marrow gravy poured tableside over beef, a Yorkshire the size of the plate — and a bottle of red for the table.*
 
 **££££ and it books weeks ahead for Sunday.** Several London sites; the roast is served at all of them, unlike the breakfast.
 
