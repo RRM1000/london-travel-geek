@@ -171,7 +171,7 @@ If what you actually want is a good breakfast without a clock running, that is a
 
 **Brixton.** Thinner than its reputation suggests. Turtle Bay is the anchor — £36 early bird, £46 for two hours — and Barrio has a Brixton site at £30. **One correction worth making: Canova Hall, which appears on almost every Brixton bottomless list, now trades as The Ferndale on Ferndale Road.** It still runs a Saturday bottomless brunch but does not publish the price.
 
-**Camden.** Cottons at £34.50 for two courses and ninety minutes of rum punch is the pick and the only Camden venue publishing full terms. Simmons has a Camden bar running themed brunches with **an hour** of bottomless cocktails and two courses — the shortest window found anywhere in London — but does not publish a price. BrewDog Camden runs the £19.95 bottomless-beer promotion.
+**Camden.** Cottons at £34.50 for two courses and ninety minutes of rum punch is the pick and the only Camden venue publishing full terms. Simmons has a Camden bar running themed brunches with **an hour** of bottomless cocktails and two courses — the shortest window found anywhere in London — but does not publish a price.
 
 ---
 
