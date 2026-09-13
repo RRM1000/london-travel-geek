@@ -5,6 +5,8 @@
 //   1. EMPTY from a domain we KNOW blocks the fetcher (visitlondon, londonist,
 //      thatsup, quintessentially). Keeping them is a promise the corpus cannot
 //      cash - and the browser route can re-add them properly later.
+//      EXCEPT the domains in blocked.keepInCorpus: those are HELD on purpose,
+//      so the refusal stays visible instead of being quietly forgotten.
 //   2. EMPTY from an aggregator we would not count anyway (opentable, corner,
 //      trip101, wanderlog).
 //   3. Sources whose every extracted name is site furniture.
@@ -21,6 +23,7 @@ const REG = JSON.parse(fs.readFileSync("data/sources.json", "utf8"));
 const NOISE = JSON.parse(fs.readFileSync("data/name-noise.json", "utf8"));
 
 const blocked = new Set(REG.blocked?.permanent403 ?? []);
+const held = new Set(REG.blocked?.keepInCorpus ?? []);
 const excluded = new Set(REG.excluded ?? []);
 const NOISE_SET = new Set(
   [...NOISE.siteChrome, ...NOISE.countries, ...NOISE.genericCategories].map((s) => s.toLowerCase()),
@@ -41,8 +44,9 @@ const isJunk = (n) => {
 };
 const hostOf = (u) => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch { return u; } };
 
-let purged = 0, keptForRetry = 0;
+let purged = 0, keptForRetry = 0, keptHeld = 0;
 const retry = [];
+const heldList = [];
 
 for (const f of fs.readdirSync("data/consensus").filter((x) => x.endsWith(".json"))) {
   const path = `data/consensus/${f}`;
@@ -55,6 +59,13 @@ for (const f of fs.readdirSync("data/consensus").filter((x) => x.endsWith(".json
     const clean = names.filter((n) => !isJunk(n)).length;
 
     if (names.length === 0) {
+      // Held on purpose: blocked, but the URL is the record of what the SERP
+      // returned and the standing refusal is the point. Never purge these.
+      if (held.has(host)) {
+        heldList.push(`${f.replace(".json", "")} / ${host}`);
+        keptHeld++;
+        return true;
+      }
       if (blocked.has(host) || excluded.has(host)) {
         console.log(`  purge EMPTY/blocked   ${f.replace(".json", "")} / ${host}`);
         purged++;
@@ -81,6 +92,10 @@ for (const f of fs.readdirSync("data/consensus").filter((x) => x.endsWith(".json
 }
 
 console.log(`\n${purged} source(s) ${WRITE ? "purged" : "would be purged"}`);
+if (keptHeld) {
+  console.log(`${keptHeld} empty source(s) HELD - blocked, but kept deliberately (blocked.keepInCorpus):`);
+  heldList.forEach((h) => console.log(`  ${h}`));
+}
 console.log(`${keptForRetry} empty source(s) KEPT - good domains worth refetching or reading via browser:`);
 retry.slice(0, 30).forEach((r) => console.log(`  ${r}`));
 if (retry.length > 30) console.log(`  ... and ${retry.length - 30} more`);

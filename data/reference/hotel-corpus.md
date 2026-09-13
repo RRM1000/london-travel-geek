@@ -309,10 +309,18 @@ this failure, not a thin page.
 
 **4. Paid bot licensing, which is not a 403.** telegraph.co.uk answers every
 user agent with **HTTP 402 Payment Required** and "not authorized... without a
-valid TollBit Token". It is seeded in six hotel corpora and returns nothing in
-all of them. There is no UA that fixes this and it should not be worked around;
-the Telegraph has simply priced bots out. Leave the URL in the source file so
-the refusal shows up in every run rather than being quietly forgotten.
+valid TollBit Token". It is seeded in SIXTEEN hotel corpora and returns nothing
+in any of them. There is no UA that fixes this and it should not be worked
+around; the Telegraph has simply priced bots out. Confirmed again 9 Sep 2026,
+when the domain went into `blocked.permanent403` so seed-sources refuses it at
+the door.
+
+Leave the URL in the source file so the refusal shows up in every run rather
+than being quietly forgotten. That is now enforced rather than merely asked
+for: the domain is also in `blocked.keepInCorpus`, which exempts it from
+purge-dead-sources.mjs. Without that exemption, blocking a domain silently
+arms the purge to delete every empty source from it - the two rules pull in
+opposite directions, and the list is what holds them apart.
 
 The same is true of `visitlondon.com` (Cloudflare managed challenge) and
 `guide.michelin.com`. All three are legitimate editorial sources we cannot

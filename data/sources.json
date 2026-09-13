@@ -54,8 +54,13 @@
       "londonscout.co.uk",
       "visitlondon.com",
       "londonist.com",
-      "forbes.com"
+      "forbes.com",
+      "telegraph.co.uk"
     ],
+    "keepInCorpus": [
+      "telegraph.co.uk"
+    ],
+    "keepInCorpusNote": "Blocked, but the seeded URLs STAY in data/consensus/*.json. purge-dead-sources.mjs strips empty sources from blocked domains; these are exempt, so the refusal shows up in every run rather than being quietly forgotten. See data/reference/hotel-corpus.md - the Telegraph pages are real editorial lists we are simply priced out of, and the URLs remain the record of what the SERP returned.",
     "substitutes": {
       "guide.michelin.com": "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London"
     },
@@ -1196,6 +1201,12 @@
       "tier": "B",
       "name": "The Times",
       "note": "National masthead with named critics. Giles Coren's Real Stars column reached this corpus through a TikTok post - the platform is not the publisher."
+    },
+    "telegraph.co.uk": {
+      "tier": "B",
+      "name": "The Telegraph",
+      "blocked": true,
+      "note": "PAID BOT LICENSING, NOT A PAYWALL. Confirmed 2026-09-09: every scripted request returns HTTP 402 Payment Required from Akamai with 'You are not authorized to access this content without a valid TollBit Token'. Not a UA problem - it reproduces with Chrome, Safari, Googlebot and no UA at all, so there is nothing to fix and it must not be worked around. The pages load normally in a browser; read one by hand and record it as such if a topic needs it."
     },
     "nationalburgerawards.co.uk": {
       "tier": "A",
