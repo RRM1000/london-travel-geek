@@ -1375,6 +1375,71 @@
     "youtube.com/@MichaelsBites": {
       "name": "Michaels Bites (YouTube)",
       "tier": "D"
+    },
+    "london.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA London Region",
+      "note": "The Greater London region hub - links to all 13 branch sites. Not itself a Pub of the Year source; each branch judges its own."
+    },
+    "bexley.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA Bexley branch"
+    },
+    "bromley.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA Bromley branch"
+    },
+    "croydon.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA Croydon & Sutton branch"
+    },
+    "pigsear.org.uk": {
+      "tier": "A",
+      "name": "CAMRA East London & City branch",
+      "note": "Branch domain does not follow the camra.org.uk subdomain pattern. No Pub of the Year content found on this site as of Sep 2026 - a real gap, not a missed page."
+    },
+    "enfieldandbarnet.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA Enfield & Barnet branch"
+    },
+    "kandl.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA Kingston & Leatherhead branch"
+    },
+    "northlondon.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA North London branch"
+    },
+    "rh.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA Richmond & Hounslow branch"
+    },
+    "sel.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA South East London branch"
+    },
+    "swessex.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA South West Essex branch",
+      "note": "Domain currently redirects to an unrelated East Anglia regional page. No branch content reachable as of Sep 2026 - flag and recheck on a future pass rather than treat as permanently dead."
+    },
+    "camraswl.org.uk": {
+      "tier": "A",
+      "name": "CAMRA South West London branch (old domain)",
+      "note": "This domain has expired and now shows a registrar parking page. The branch's live site is swl.camra.org.uk - use that one. Left here so the dead domain is recognised rather than re-discovered as a new gap later."
+    },
+    "swl.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA South West London branch",
+      "note": "Live site, but its own Pub of the Year page was last updated March 2023 - treat any citation from it as stale unless a newer page is found."
+    },
+    "westlondon.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA West London branch"
+    },
+    "westmiddx.camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA West Middlesex branch"
     }
   },
   "excludedWhy": {

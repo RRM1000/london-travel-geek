@@ -1,0 +1,78 @@
+{
+  "topic": "craft-beer-pubs",
+  "article": "src/content/articles/best-craft-beer-pubs-london.md",
+  "headTerm": "Craft Beer Pubs",
+  "note": "DRAFT - review checkpoint cleared (Rob, 13 Sep 2026). Both open venue questions resolved - see openVenueQuestions. Ready for tiers A-C collection. Video/social tiers (D/E) still not touched - D needs a paid-API warning before it runs (Apify), E (Reddit) is blocked in this environment entirely per SKILL.md.",
+  "awardBodies": [
+    {
+      "name": "CAMRA (Campaign for Real Ale) - London branch Pub of the Year",
+      "domain": "london.camra.org.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "RESOLVED (Claude's call, confirmed by Rob 13 Sep 2026): CAMRA's real structure IS per-branch - there is no single London-wide winner, so recording it per-branch is the faithful representation, not a workaround (see 'never invent a scheme', trap 1). Collect the CURRENT YEAR's overall branch Pub of the Year for each of the 13 Greater London branches (Bexley, Bromley, Croydon & Sutton, East London & City, Enfield & Barnet, Kingston & Leatherhead, North London, Richmond & Hounslow, South East London, South West Essex, South West London, West London, West Middlesex - full list and branch sites at london.camra.org.uk/viewnode.php?id=1249). Record the BRANCH-LEVEL winner only, not sub-district rounds within a branch (some branches, e.g. SE London, run district heats first - the branch winner is the meaningful unit here, matching how this topic treats every other judged award). If a branch's current-year winner isn't published or findable, note it as a gap rather than drilling further - proportionality matters more than completeness on one award body among five. 'Champion Beer of London' (viewnode.php?id=200569) judges BEERS BREWED in London, not pub venues - confirmed by reading it, and is NOT a usable venue source for this topic."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": true,
+      "note": "Two live guides found: '22 Best Breweries and Taprooms In London For Craft Beer' (timeout.com/london/bars-and-pubs/the-best-taprooms-in-london, dated 22 Dec 2025, numbered) and an older 'The 50 best pubs in London' referenced from within it (URL not yet verified live). Same masthead - ONE source per the counting rule, not two. Existing data/sources.json note: Time Out is over-represented (46 records) and frequently syndicates other rankings - check for that before counting. Also check whether the taprooms guide's brewery-attached venues count as 'pubs' for this topic - see openVenueQuestions."
+    },
+    {
+      "name": "ShortList",
+      "domain": "shortlist.com",
+      "ranked": "unknown",
+      "note": "'The 11 best craft beer bars and pubs in London', dated 4 Feb 2026 - recent. Ranked/unordered not yet confirmed by reading the live page."
+    },
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "ranked": false,
+      "note": "Existing data/sources.json note: listings-led with editorial on top, weaker than a masthead. Has a London craft beer bars page per search results, not yet opened."
+    },
+    {
+      "name": "Secret London",
+      "domain": "secretldn.com",
+      "ranked": false,
+      "note": "Tier C per data/sources.json. Has a craft-beer-pubs-bars page per search results, not yet opened."
+    }
+  ],
+  "blockedSources": [
+    {
+      "name": "Londonist",
+      "domain": "londonist.com",
+      "note": "Marked blocked in data/sources.json already - has a best-craft-beer-pubs page per search results but cannot be fetched here. Same handling as other blocked domains: do not attempt, do not silently drop the finding - flag it."
+    }
+  ],
+  "facetAxis": {
+    "field": "style",
+    "note": "Not yet confirmed by full research - drafted from what the two sources gathered so far actually distinguish. Pizza-style single-dimension may not be enough here: cask real ale (CAMRA's whole focus) and modern craft keg (Time Out's taproom guide) are genuinely different scenes with different venues, not just different words for the same thing.",
+    "values": [
+      {
+        "key": "real-ale",
+        "label": "Real ale / cask",
+        "describeAs": "cask-conditioned beer served through a handpull, the CAMRA definition of real ale"
+      },
+      {
+        "key": "craft-keg",
+        "label": "Modern craft / keg",
+        "describeAs": "chilled, carbonated keg beer from independent breweries - IPAs, sours, pastry stouts"
+      },
+      {
+        "key": "brewery-taproom",
+        "label": "Brewery taproom",
+        "describeAs": "drinking on-site at the brewery itself, often railway-arch venues on a beer mile (Bermondsey, Blackhorse Lane)"
+      }
+    ]
+  },
+  "knownGaps": [
+    "Video and social tiers (D and E) are not collected yet - mandatory per SKILL.md, not optional. D needs a paid-API warning (Apify) before it runs.",
+    "Reddit is blocked in this environment entirely per SKILL.md - any thread must come from the user by hand.",
+    "Londonist is blocked here (see blockedSources) - a real gap in editorial coverage, not resolved."
+  ],
+  "openVenueQuestions": [
+    "RESOLVED (Rob, 13 Sep 2026): brewery taprooms count as pubs for this topic. Time Out's 22-venue taproom guide is in scope.",
+    "RESOLVED (Claude's call, confirmed by Rob 13 Sep 2026): CAMRA branch Pub of the Year winners are collected per-branch (13 citations under one award body), not merged into a fake single winner. See awardBodies note."
+  ]
+}
