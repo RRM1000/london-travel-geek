@@ -66,6 +66,16 @@ Two things to know before booking. **Cleaning is weekly, not daily** — this is
 
 There is a gym and yoga studio, a coworking floor, a 24-hour desk, and the Locke Bar & Lounge open daily 5pm to 11pm. Dogs are welcome, breakfast is extra, and **if you will arrive after 11pm you must tell them in advance** — a house host has to come and unlock the front doors.
 
+<div class="photo-row">
+
+![A room at Bermonds Locke, with a backlit glass panel dividing the bed area from the kitchenette beyond](../../assets/articles/where-to-stay-bermondsey/bermonds-locke-room.jpg)
+
+![The bathroom in a room at Bermonds Locke, tiled in blue mosaic with grab rails and a walk-in shower](../../assets/articles/where-to-stay-bermondsey/bermonds-locke-bathroom.jpg)
+
+</div>
+
+*A room at Bermonds Locke, with the kitchenette visible beyond the bed, and its bathroom.*
+
 ### Bermondsey Square Hotel — £180, a shared terrace, and a market at six in the morning
 
 *About £180 · 90 rooms · Bermondsey Square, SE1 3UN · London Bridge 15 min walk · [check prices](hotel:bermondsey-square-hotel)*
@@ -78,6 +88,16 @@ The grade to book is **Terrace**: French doors opening onto a shared terrace tha
 
 Families do well here: **children under 12 stay and eat free in a Family Room**, cots are free, extra beds are £20, and two Superior rooms can be booked interconnecting. Neither cots nor extra beds go into the seventh-floor suites. There is a gym, dogs are welcome, and the hotel takes no cash at all.
 
+<div class="photo-row">
+
+![A double room at Bermondsey Square Hotel, with a dark upholstered headboard and an illuminated dressing mirror beside the bed](../../assets/articles/where-to-stay-bermondsey/bermondsey-square-hotel-room.jpg)
+
+![The bathroom in a room at Bermondsey Square Hotel, finished in travertine-look tile with a walk-in shower and grab rails](../../assets/articles/where-to-stay-bermondsey/bermondsey-square-hotel-bathroom.jpg)
+
+</div>
+
+*A room at Bermondsey Square Hotel, and its bathroom.*
+
 ### Shangri-La The Shard — the view, and the grade that faces the wrong way
 
 *About £550 · 202 rooms, from level 34 · 31 St Thomas Street, SE1 9QU · London Bridge 2 min · [check prices](hotel:shangri-la-the-shard)*
@@ -87,6 +107,10 @@ Eighteen floors of the Shard, starting at **level 34** and running to 202 rooms 
 **Read the room names before you book, because they are directions rather than adjectives.** A **Superior Shard room is 30 to 48 m² and faces south**, over Kent, Surrey and Sussex; a Premier Shard is 40 to 58 m² and is "mostly southerly". The London everybody pays to look at — the river, the City, St Paul's — is out of the **City View** grades on the other side of the building. Paying £550 for the entry grade and getting the suburbs is an avoidable disappointment.
 
 **GŎNG on level 52 is the highest hotel bar in western Europe**, and its published hours run Wednesday to Sunday — 3pm to 11.30pm on Wednesday, noon to 1am Thursday to Saturday. The **infinity Sky Pool sits inside it and opens Wednesday to Saturday evenings only**, which is the line to check against your dates: a Monday arrival buys you the altitude and not the pool. TĪNG, on level 35, does lunch Monday to Friday and dinner Wednesday to Sunday.
+
+![The view from a corner room at Shangri-La The Shard, with floor-to-ceiling windows on two sides and the bed in the foreground](../../assets/articles/where-to-stay-bermondsey/shangri-la-the-shard-room.jpg)
+
+*The view from a corner room at Shangri-La The Shard, high above London.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -118,7 +142,27 @@ Bermondsey has exactly one hotel in the £150 to £200 band. Bankside has severa
 
 **[Native Bankside](hotel:native-bankside)** is the aparthotel answer on Bear Gardens behind Shakespeare's Globe, in a **restored Victorian tea warehouse** with polished concrete, exposed brick and arched factory windows. Studios run 23 to 33 m² and one-bedrooms 34 to 45 m², with **daily cleaning** rather than Locke's weekly, which is part of what the higher band buys. Southwark, London Bridge and Blackfriars are each under ten minutes' walk, and the Thames Clipper stops at the end of the street.
 
+<div class="photo-row">
+
+![The living area of an apartment at Native Bankside, with a tan leather chair, a navy sofa and the bedroom visible through the doorway](../../assets/articles/where-to-stay-bermondsey/native-bankside-room.jpg)
+
+![The bathroom in an apartment at Native Bankside, with dark tiling, a walk-in shower and a wall-hung sink](../../assets/articles/where-to-stay-bermondsey/native-bankside-bathroom.jpg)
+
+</div>
+
+*The living area of a one-bedroom apartment at Native Bankside, with the bedroom visible through the doorway, and its bathroom.*
+
 Two more worth pricing on your own dates: **The Hoxton, Southwark** is about £190 for one of 192 rooms over six floors, with the Seabird rooftop and its very long oyster list on top, and **Premier Inn London County Hall** is about £110, two Jubilee stops west at Waterloo. Our [aparthotels guide](/articles/aparthotels-london/) has the full South Bank comparison.
+
+<div class="photo-row">
+
+![A room at The Hoxton, Southwark, with a burgundy velvet headboard, a gallery of framed prints above the bed and a seating and dining area by the window](../../assets/articles/where-to-stay-bermondsey/the-hoxton-southwark-room.jpg)
+
+![The bathroom in a room at The Hoxton, Southwark, tiled in sage green with brass fittings](../../assets/articles/where-to-stay-bermondsey/the-hoxton-southwark-bathroom.jpg)
+
+</div>
+
+*A room at The Hoxton, Southwark, with a dining table by the window, and its bathroom.*
 
 ### Spitalfields and Aldgate — across the river, and better connected
 
@@ -126,7 +170,15 @@ Twenty minutes' walk north of London Bridge, over the river, and a different tra
 
 **[Leman Locke](hotel:leman-locke)** is the sister property to Bermonds Locke and the original of the format in London — studios with proper kitchens on Leman Street, five minutes from Aldgate East, with a lobby that works as a desk by day and a bar at night. If you like the Bermonds Locke idea but want a Tube station at the end of the road rather than a fifteen-minute walk, this is the swap.
 
+![The living area of a studio at Leman Locke, with a pink sofa, a round marble dining table and floor-to-ceiling windows](../../assets/articles/where-to-stay-bermondsey/leman-locke-lounge.jpg)
+
+*The living area of a studio at Leman Locke.*
+
 **[Batty Langley's](hotel:batty-langleys)** is the opposite trade at about £230: a Georgian townhouse on cobbled Folgate Street with dark walls, silk curtains and oil paintings, seven minutes from Liverpool Street. **No lift and no air conditioning** — a real consideration in July or with a heavy case — and breakfast is extra. Our [Shoreditch guide](/articles/where-to-stay-shoreditch/) covers the area properly.
+
+![A bedroom at Batty Langley's with a carved dark wood bedhead, mauve silk cushions and an oil painting on the wall](../../assets/articles/where-to-stay-bermondsey/batty-langleys-room.jpg)
+
+*One of the individually decorated rooms at Batty Langley's, with a carved wood bedhead and an antique oil painting.*
 
 ### Bethnal Green — east, cheaper, and a better building than anything in Bermondsey
 
