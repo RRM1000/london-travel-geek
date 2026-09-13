@@ -186,7 +186,7 @@ There are two event spaces and a programme of classes, supper clubs and workshop
 
 Korean fried chicken from **Clapping Seoul**, Palestinian **musakhan** from Baity, Greek gyros from Thatziki, Eritrean and Ethiopian stews from **House of Habesha**, Neapolitan pizza from Leopard Pie.
 
-**Open 8am to 10.30pm every day**, with a children's play area and sandpit, which almost no other food hall bothers with. Full entry in our [markets guide](/articles/best-london-markets/#tower-bridge-collective-shad-thames).
+**Open 8am to 10.30pm every day**, with a children's play area and sandpit, which almost no other food hall bothers with.
 
 ![Long high tables under a neon sign inside the Tower Bridge Collective food hall](../../assets/articles/best-street-food-london/tower-bridge-collective.jpg)
 
