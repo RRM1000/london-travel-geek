@@ -399,6 +399,7 @@ Everything else the sources carry by at least two independent sources, or by a r
 
 ## Continue planning your London trip
 
+- 🇬🇧 **[Classic British Food in London](/articles/classic-british-food-london/)** — Scotch eggs, pie and mash, sausage rolls and proper puddings, dish by dish.
 - 🥩 **[The Best Steak in London](/articles/best-steak-restaurants-london/)**
 - 🐟 **[The Best Seafood Restaurants in London](/articles/best-seafood-restaurants-london/)**
 - 🍺 **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**

@@ -198,6 +198,7 @@ Looking for a proper sit-down Sunday lunch rather than a fry-up? Wetherspoons se
 
 ## Continue planning your London trip
 
+- 🇬🇧 **[Classic British Food in London](/articles/classic-british-food-london/)** — Scotch eggs, pie and mash, sausage rolls and proper puddings, dish by dish.
 - 🍺 **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**
 - 🍻 **[The Best Craft Beer Pubs in London](/articles/best-craft-beer-pubs-london/)**
 - 🥩 **[The Best Sunday Roast in London](/articles/best-sunday-roast-london/)**

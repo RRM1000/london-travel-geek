@@ -514,6 +514,7 @@ Counter service and communal seating, so it works for one person with a book and
 
 ## Continue planning your London trip
 
+- 🇬🇧 **[Classic British Food in London](/articles/classic-british-food-london/)** — Scotch eggs, pie and mash, sausage rolls and proper puddings, dish by dish.
 - ☕ **[The Best Coffee in London](/articles/best-coffee-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🫖 **[The Best Afternoon Tea in London](/articles/best-afternoon-tea-london/)**

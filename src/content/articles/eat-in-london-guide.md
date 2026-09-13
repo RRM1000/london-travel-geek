@@ -208,6 +208,7 @@ Full guide: [**Cheap Eats in London**](/articles/cheap-eats-london/) for the fir
 
 Classic culinary experiences that belong on every London itinerary:
 
+* [**Classic British Food**](/articles/classic-british-food-london/) — What British food actually is, dish by dish, from the Scotch egg to the sticky toffee pudding.
 * [**Sunday Roast**](/articles/best-sunday-roast-london/) — Cross-referenced across every guide, award and critic of the year. Most need booking by Thursday.
 * [**Fish and Chips**](/articles/best-fish-and-chips-london/) — The shops that still fry to order, and the two that use beef dripping.
 * [**Afternoon Tea**](/articles/best-afternoon-tea-london/) — 22 compared, with the dress codes and the real prices.
@@ -234,7 +235,7 @@ One place, in case you would rather scan a list than a page.
 
 **By cuisine:** [Indian](/articles/best-indian-restaurants-london/) · [Chinese and East Asian](/articles/best-chinese-east-asian-restaurants-london/) · [Dim sum](/articles/best-dim-sum-london/) · [Hot pot](/articles/best-hot-pot-london/) · [Japanese](/articles/best-japanese-restaurants-london/) · [Korean](/articles/best-korean-restaurants-london/) · [Thai](/articles/best-thai-restaurants-london/) · [Vietnamese](/articles/best-vietnamese-restaurants-london/) · [Italian](/articles/best-italian-restaurants-london/) · [Pizza](/articles/best-pizza-london/) · [French](/articles/best-french-restaurants-london/) · [Spanish](/articles/best-spanish-restaurants-london/) · [Turkish](/articles/best-turkish-restaurants-london/) · [Middle Eastern](/articles/best-middle-eastern-restaurants-london/) · [Mexican](/articles/best-mexican-restaurants-london/) · [Caribbean](/articles/best-caribbean-restaurants-london/) · [Vegetarian and vegan](/articles/best-vegetarian-vegan-restaurants-london/)
 
-**By dish:** [Burgers](/articles/best-burgers-london/) · [Steak](/articles/best-steak-restaurants-london/) · [Barbecue](/articles/best-barbecue-london/) · [Fried chicken](/articles/best-fried-chicken-london/) · [Seafood](/articles/best-seafood-restaurants-london/) · [Fish and chips](/articles/best-fish-and-chips-london/) · [Sunday roast](/articles/best-sunday-roast-london/) · [Sandwiches](/articles/best-sandwiches-london/) · [Ice cream](/articles/best-ice-cream-london/)
+**By dish:** [Burgers](/articles/best-burgers-london/) · [Steak](/articles/best-steak-restaurants-london/) · [Barbecue](/articles/best-barbecue-london/) · [Fried chicken](/articles/best-fried-chicken-london/) · [Seafood](/articles/best-seafood-restaurants-london/) · [Fish and chips](/articles/best-fish-and-chips-london/) · [Sunday roast](/articles/best-sunday-roast-london/) · [Sandwiches](/articles/best-sandwiches-london/) · [Ice cream](/articles/best-ice-cream-london/) · [Classic British food](/articles/classic-british-food-london/)
 
 **By time of day:** [Breakfast and brunch](/articles/best-breakfast-brunch-london/) · [Coffee](/articles/best-coffee-london/) · [Hot chocolate](/articles/best-hot-chocolate-london/) · [Bakeries](/articles/best-bakeries-london/) · [Afternoon tea](/articles/best-afternoon-tea-london/) · [Cocktail bars](/articles/best-cocktail-bars-london/) · [Wine bars](/articles/best-wine-bars-london/) · [Late-night eating](/articles/late-night-eating-london/)
 
