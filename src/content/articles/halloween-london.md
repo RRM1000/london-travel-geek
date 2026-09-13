@@ -3,7 +3,7 @@ title: "Halloween in London: Events, Parties and Where to Get a Costume"
 seoTitle: "Halloween in London 2026: Events, Parties and Costumes"
 description: "What to do in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours — plus where you can still hire a proper costume."
 publishedAt: 2026-08-29
-updatedAt: 2026-08-29
+updatedAt: 2026-09-13
 sites:
   - london
 canonicalSite: london
@@ -21,7 +21,7 @@ faq:
   - q: "Where can you hire a Halloween costume in London?"
     a: "Two places will genuinely hire to a member of the public: Prangsta Costumiers in New Cross, which is appointment-only and charges £130–£350 plus VAT for a full costume with a £300 deposit, and Costume Studio in Islington, which takes walk-ins and is happy to do a single costume. Angels on Shaftesbury Avenue, the shop most guides still send people to, closed in 2014."
   - q: "Is the London Dungeon worth it for Halloween?"
-    a: "Its Halloween 2026 dates and prices are not out yet. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
+    a: "Its Halloween show, The Unlucky Mummy Returns, runs from 17 October to 1 November 2026 and is included in a standard London Dungeon ticket, which starts from £27 for an adult and £22 for a child aged 5 to 15 when booked online. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
 heroImage: "../../assets/articles/halloween-london/beetlejuice-curtain-call.jpg"
 heroImageAlt: "The cast of Beetlejuice taking their curtain call at the Prince Edward Theatre, lit in green and blue, with the Maitland house tilting above them and the sandworm reared up at the side of the stage"
 ---
@@ -60,7 +60,7 @@ Chertsey, Surrey. Runs on selected dates from **2 October through to 1 November 
 
 Surrey, next to Thorpe Park. Runs on selected dates **3 October to 1 November 2026**. This is the family-friendly version — no scare mazes, just Halloween shows, a "Vampire's Lair" zone and trick-or-treat trails, pitched at all ages rather than teenagers and adults.
 
-Advance tickets from **£39**; under-90cm children go free.
+Advance day tickets from **£34**; under-90cm children go free.
 
 **The choice between this and Thorpe Park is really a choice about age.** Thorpe Park's Fright Nights is a 16+ event built on scare mazes and actors who chase you; Chessington deliberately has none of that, and the theme park rides run as normal alongside the Halloween dressing. If you have children under about twelve, Chessington is the one that works and Thorpe Park is the one that ends in tears.
 
@@ -68,7 +68,7 @@ Both are in Surrey and both are a train plus a shuttle or a walk, so neither is 
 
 ### Tulleys Farm: Shocktober Fest
 
-Crawley, West Sussex, near Gatwick. Billed as Europe's largest scream park. Open nightly from **13 October to 1 November 2026** (plus preview nights earlier in October), gates 4.30pm, haunts running 5.30pm–11.30pm.
+Crawley, West Sussex, near Gatwick. Billed as Europe's largest scream park. Open on **26 nights from 2 October to 1 November 2026** — long weekends to start with, then most nights from 13 October and every night from 20 October — gates 4.30pm, haunts running 5.30pm–11.30pm.
 
 Prices are dynamic and rise toward peak dates — expect **£43–£70** for a standard pass, more with Fast Track add-ons. This is a genuinely **16+ event**: expect strong language, adult themes and one show (Carnevil Cabaret) that admits nobody under 16 regardless of who they are with. Under-16s who are admitted to the rest of the park need a paying adult with them, and 16–21-year-olds need photo ID at the gate.
 
@@ -118,7 +118,7 @@ Performances run Tuesday to Saturday at 7pm, with matinees Friday and Saturday a
 
 *Curtain call at the Prince Edward. The sandworm on the left and the tipping house behind give you the tone in one frame — this is a comedy with a ghost in it, not a horror show.*
 
-The stage musical of the film, currently running as a **limited West End engagement** — worth checking the closing date before you book, since it may not run right through to Halloween.
+The stage musical of the film, running as a **limited West End engagement** with its final performance on **2 January 2027**, so it comfortably covers Halloween.
 
 **Look out for Netherworld performances**, a cheaper way in: fixed pricing at **£30, £40 or £50** a ticket, rather than the usual dynamic pricing that climbs closer to the show and toward Halloween itself.
 
@@ -180,7 +180,7 @@ Not a walk — a 75-minute comedy-horror ride around London's landmarks on a con
 
 Two more worth knowing about, though neither falls on Halloween night itself this year: **Serial Killers: The Blood and Tears Walk**, a well-reviewed look at the Ripper and nine other London murder cases, runs Wednesday to Friday only, so the closest date is Friday 30 October; and London Walks' own **Haunted London** walk runs Sundays only, landing on 1 November.
 
-**The London Dungeon** has a Jack the Ripper scene among its scare-actor sets. Its Halloween 2026 dates and prices are not out yet — [check the listing](https://www.thedungeons.com/london/whats-inside/events/halloween/) nearer the time.
+**The London Dungeon** has a Jack the Ripper scene among its scare-actor sets, and its Halloween show, **The Unlucky Mummy Returns**, runs **17 October to 1 November 2026**, included in a standard ticket — from **£27** adult and **£22** child (5–15) online, or £35 and £29 on the door. [See the listing](https://www.thedungeons.com/london/whats-inside/events/halloween/).
 
 ---
 

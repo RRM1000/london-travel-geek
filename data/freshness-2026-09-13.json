@@ -1,0 +1,172 @@
+{
+  "checkedOn": "2026-09-13",
+  "tools": {
+    "audit:dates": "2 expired claims before fixes (best-fried-chicken-london line 64, best-gyms-london line 183). After fixes: 1, the fried-chicken line, which is a false positive (a past event described in the past tense).",
+    "audit:fresh": "Due this month: wimbledon-tickets-guide, halloween-london, bonfire-night-london, london-film-festival. Due in ~4 weeks: hyde-park-winter-wonderland, christmas-in-london.",
+    "build": "npm run build passed after all edits (677 pages)."
+  },
+  "pages": [
+    {
+      "slug": "wimbledon-tickets-guide",
+      "status": "changed",
+      "changes": [
+        "The 2027 Public Ballot is open: it opened Tue 1 Sep 2026 and closes 23:59 BST Mon 14 Sep 2026. Previously written as 'opens in early September' / 'not yet announced'. Changed in the FAQ, intro, Short Version, dates table, ballot history table, LTA callout and the overseas section.",
+        "Footer said prices were the 2026 prices and 2027 prices come in spring. The AELTC page is headed '2027 Ticket Prices' and matches the table, so the footer now says 2027.",
+        "updatedAt 2026-09-13; added reviewBy 2026-09-15 because the ballot wording goes stale when it closes."
+      ],
+      "sources": [
+        { "url": "https://www.wimbledon.com/en_GB/tickets", "checked": "2026-09-13", "fact": "'The Wimbledon Public Ballot for The Championships 2027 is now open. Submit your application before Monday 14 September at 23.59 BST.'" },
+        { "url": "https://help.wimbledon.com/hc/en-gb/articles/15473970011292-How-do-I-enter-the-Wimbledon-Public-Ballot", "checked": "2026-09-13", "fact": "Opened Tuesday 1 September 2026, closes 23:59 BST Monday 14 September 2026, same window for overseas guests; Keith Prowse or The Queue if unsuccessful." },
+        { "url": "https://help.wimbledon.com/hc/en-gb/articles/15475989219100-When-will-I-be-notified-if-I-have-been-successful-in-the-ballot", "checked": "2026-09-13", "fact": "Offers by email from October 2026." },
+        { "url": "https://www.wimbledon.com/en_GB/tickets/ticket_prices", "checked": "2026-09-13", "fact": "Page headed '2027 Ticket Prices'; Centre Court top band up to £400, Grounds Pass £35/£27/£22." }
+      ]
+    },
+    {
+      "slug": "new-years-eve-london",
+      "status": "changed",
+      "changes": [
+        "City Hall has published a page for London New Year's Eve 2026: fireworks confirmed for Thu 31 Dec 2026, 8pm to 12.30am; 'a date for the ticket release will be announced soon'. Status table row changed from 'Not announced' to confirmed; FAQ, lead paragraph, the on-sale paragraph and the watch link updated. Nothing on sale yet, so the description is unchanged.",
+        "Vehicle restrictions 14:00 on 31 Dec to about 06:00 on 1 Jan now cited to City Hall's 2026 notice rather than 'last year'.",
+        "Added updatedAt 2026-09-13; footer notes the re-check."
+      ],
+      "sources": [
+        { "url": "https://www.london.gov.uk/events/london-new-years-eve-2026", "checked": "2026-09-13", "fact": "Start Thursday 31 December 2026 8:00pm, end Friday 1 January 2027 12:30am; fireworks 'will return to the capital once again this year and a date for the ticket release will be announced soon'." },
+        { "url": "https://www.london.gov.uk/events/london-new-years-eve-2026/london-new-years-eve-2026-information-businesses-and-residents", "checked": "2026-09-13", "fact": "Vehicle access restricted from 2:00pm on 31 December until around 6:00am on 1 January; pre-event overnight closures 26-30 Dec and 1-3 Jan 'under review for 2026'." },
+        { "url": "https://www.london.gov.uk/nye", "checked": "2026-09-13", "fact": "Still redirects to the 2025 event page." },
+        { "url": "https://londonparade.com/", "checked": "2026-09-13", "fact": "London Parade 2027, 1pm, 1 January; grandstand and VIP tickets live. Matches the page, so no change." }
+      ]
+    },
+    {
+      "slug": "london-film-festival",
+      "status": "changed",
+      "changes": [
+        "Patron (9 Sep) and Member (10 Sep) priority booking have both opened. Rewritten as past or ongoing in the FAQ, intro, Short Version, dates table, membership section and the practical plan.",
+        "Removed the leftover line saying the price table was last year's and that 2026 prices would come on 2 September. The BFI booking page confirms the table as 2026 prices. Footer updated to match.",
+        "LFF for Free: booking opens 10am Thu 1 Oct 2026, two tickets per person, entry not guaranteed. This replaces 'announced on 2 September'.",
+        "Programme size: 251 titles from 88 countries. This replaces 'the 2026 figure is published on 2 September'.",
+        "Ticket limit confirmed for 2026: two per film, or four for family films, until 17 September.",
+        "'The full programme arrives on 2 September' changed to past tense.",
+        "updatedAt 2026-09-13; added reviewBy 2026-09-18 because general sale opens 17 September."
+      ],
+      "sources": [
+        { "url": "https://whatson.bfi.org.uk/lff/Online/default.asp", "checked": "2026-09-13", "fact": "7-18 Oct 2026; 9 Sep Patrons, 10 Sep Members, 17 Sep general sale, 1 Oct extra tickets." },
+        { "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=tickets-booking-information", "checked": "2026-09-13", "fact": "2026 prices (from £10, £6 25 and Under, galas £21-£30, opening/closing £40, standard £13/£18, Surprise Film £21, Family £10/£6, Relaxed £6); LFF for Free booking from 10am Thu 1 Oct, two per person; max two tickets per film until 17 Sep; resale capped at 20% above face value." },
+        { "url": "https://www.bfi.org.uk/london-film-festival/news/full-programme-announced-70th-bfi-london-film-festival", "checked": "2026-09-13", "fact": "251 features, shorts, series and immersive works from 88 countries." },
+        { "url": "https://www.bfi.org.uk/become-a-bfi-member", "checked": "2026-09-13", "fact": "Membership £44 / £54 / £60. Matches the page." }
+      ]
+    },
+    {
+      "slug": "bonfire-night-london",
+      "status": "changed",
+      "changes": [
+        "Battersea Park Fireworks has published its dates, Sat 7 and Sun 8 Nov. Times added: Sat gates 6pm, last entry 8pm, fireworks about 8.30pm; Sun gates 4.30pm, last entry 6.30pm, fireworks about 7pm. Advance only, no resale or waiting list. 'Dates not yet announced' and 'Battersea expected' removed from the tables, and the Time Out/boat 'best clue' callout rewritten.",
+        "Alexandra Palace: on sale through DICE since 12:00 on 2 Sep (DICE status 'on-sale'), from £6.50 on DICE and £11.50 on the Palace page. Replaced the FAQ's future-tense 'prices go live when the presale opens on 2 Sept', the 'not yet on general sale' warning and the 'from £10.50' warning. The 2025 adult/child guide prices are kept and labelled as 2025.",
+        "On-sale table: Richmond, Alexandra Palace and Battersea rewritten as 'on sale since'.",
+        "updatedAt 2026-09-13; footer notes the re-check."
+      ],
+      "sources": [
+        { "url": "https://www.batterseaparkfireworks.com/", "checked": "2026-09-13", "fact": "Saturday 7 November and Sunday 8 November, book tickets." },
+        { "url": "https://www.batterseaparkfireworks.com/info", "checked": "2026-09-13", "fact": "Timings for both nights; tickets advance only, non-refundable, no resale or waiting list." },
+        { "url": "https://www.alexandrapalace.com/whats-on/fireworks-drone-festival/", "checked": "2026-09-13", "fact": "7-8 Nov 2026, gates 16:00, from £11.50, Buy Tickets links to fireworks.london / DICE." },
+        { "url": "https://dice.fm/event/6a96e4d764f1940001967610", "checked": "2026-09-13", "fact": "Saturday from £6.50; sale_start_date 2026-09-02T12:00+01:00; status on-sale." },
+        { "url": "https://fireworks.london/saturday", "checked": "2026-09-13", "fact": "Sat gates 4pm, display 8pm; Sun gates 4pm, display 6pm. Matches the page." },
+        { "url": "https://www.rag-events.co.uk/major-public-events-at-the-rag/richmond-family-fireworks/", "checked": "2026-09-13", "fact": "Public sale from 1 September; early bird ends Wednesday 30 September. Matches the page." },
+        { "url": "https://www.beckenhamfireworks.com/", "checked": "2026-09-13", "fact": "Sat 7 Nov 2026; mailing list for on-sale. Unchanged." },
+        { "url": "https://www.merton.gov.uk/fireworks", "checked": "2026-09-13", "fact": "Wimbledon Park Thu 5 Nov, Morden Park Sat 7 Nov; mailing list. Unchanged." },
+        { "url": "https://www.blackheathfireworks.com/", "checked": "2026-09-13", "fact": "Sat 7 Nov 2026 5pm-10pm. Unchanged." }
+      ]
+    },
+    {
+      "slug": "halloween-london",
+      "status": "changed",
+      "changes": [
+        "London Dungeon Halloween 2026 is now published: The Unlucky Mummy Returns, 17 Oct-1 Nov, included in standard entry, online from £27 adult / £22 child (5-15), £35/£29 walk-up. Replaced 'not out yet' in the FAQ and body.",
+        "Beetlejuice final performance is 2 Jan 2027. This replaces 'may not run right through to Halloween'.",
+        "Chessington Howl'o'ween: day tickets from £34pp on the operator page (was £39).",
+        "Tulleys Shocktober Fest: open 26 nights from 2 Oct to 1 Nov, closed 5-7, 12 and 19 Oct. This replaces 'nightly from 13 October'.",
+        "updatedAt 2026-09-13."
+      ],
+      "sources": [
+        { "url": "https://www.thedungeons.com/london/whats-inside/events/halloween/", "checked": "2026-09-13", "fact": "Schema name 'The London Dungeon Halloween Event 2026', startDate 2026-10-17, endDate 2026-11-01; prices as above." },
+        { "url": "https://beetlejuicemusical.co.uk/", "checked": "2026-09-13", "fact": "'Final performance 2 Jan'; Netherworld performances £30/£40/£50." },
+        { "url": "https://www.chessington.com/explore/events/halloween/", "checked": "2026-09-13", "fact": "3-4, 10-11, 17 Oct-1 Nov; Day Tickets from £34pp." },
+        { "url": "https://www.shocktoberfest.co.uk/passes", "checked": "2026-09-13", "fact": "Dates 2,3,4,8,9,10,11,13-18,20-31 Oct and 1 Nov 2026; park 4.30pm, haunts 5.30-11.30pm." },
+        { "url": "https://www.thorpepark.com/explore/events/halloween-fright-nights/", "checked": "2026-09-13", "fact": "2-4 & 9-11 Oct, 15 Oct-1 Nov; from £39pp; Tenement new. Matches the page." },
+        { "url": "https://www.rigb.org/whats-on/halloween-lecture", "checked": "2026-09-13", "fact": "Still shows a 2023 date; no 2026 date. Unchanged." },
+        { "url": "https://drumshedslondon.com/event/elrow-horroween-festival/", "checked": "2026-09-13", "fact": "Sat 31 Oct, now 'FROM £40 + BF' (page says from £41.95). Not changed; see decisions." }
+      ]
+    },
+    {
+      "slug": "things-to-do-in-london-in-september",
+      "status": "changed",
+      "changes": [
+        "Wimbledon line: 'ballot is due / opens soon' changed to 'closes 23:59 BST Mon 14 Sep; opened 1 Sep'.",
+        "Bayeux Tapestry: 'the current release has largely gone' changed to 'every ticket for 10 Sep-31 Dec 2026 has sold out'. The 6 Oct and 21 Oct dates were confirmed.",
+        "Added updatedAt 2026-09-13."
+      ],
+      "sources": [
+        { "url": "https://www.wimbledon.com/en_GB/tickets", "checked": "2026-09-13", "fact": "Ballot open until 23:59 BST Mon 14 Sep." },
+        { "url": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry", "checked": "2026-09-13", "fact": "'Tickets from 10 September - 31 December 2026 have sold out'; members priority reopens 6 Oct; next release 21 Oct for 1 Jan-31 Mar 2027." },
+        { "url": "https://www.bluenotejazz.com/london/tm-event/grand-opening-robert-glasper-3/", "checked": "2026-09-13", "fact": "Grand Opening - Robert Glasper listed Thu Sep 24, 7pm and 9.30pm, sold out; no 23 Sep show listed. Not changed; see decisions." }
+      ]
+    },
+    {
+      "slug": "best-gyms-london",
+      "status": "changed",
+      "flaggedBy": "audit:dates",
+      "changes": ["Tower Hamlets free swimming: 'has just widened ... men 35 and over from 1 April 2026' reworded to past tense ('since 1 April', 'bookable since 6 April')."],
+      "sources": [{ "url": "https://be-well.org.uk/what-we-offer/swimming/free-swimming/", "checked": "2026-09-13", "fact": "Men 35+ register from 1 April and book from 6 April 2026; women and girls 16+ and residents 55+ at any time." }]
+    },
+    {
+      "slug": "best-fried-chicken-london",
+      "status": "changed",
+      "flaggedBy": "audit:dates",
+      "changes": ["'no judged fried chicken award until this year' changed to 'until 2026' so it does not go stale in January. The audit still flags the line, which is a false positive."],
+      "sources": []
+    },
+    {
+      "slug": "hyde-park-winter-wonderland",
+      "status": "checked, no change",
+      "sources": [
+        { "url": "https://hydeparkwinterwonderland.com/", "checked": "2026-09-13", "fact": "19 Nov 2026-3 Jan 2027; half a million £1 off-peak tickets Mon-Thu in November." },
+        { "url": "https://hydeparkwinterwonderland.com/tickets-guide/", "checked": "2026-09-13", "fact": "Tickets on sale now; £5.50 and £8.25 tiers; open every day except Christmas Day." }
+      ]
+    },
+    {
+      "slug": "christmas-in-london",
+      "status": "checked, no change",
+      "sources": [
+        { "url": "https://www.somersethouse.org.uk/whats-on/skate-somerset-house", "checked": "2026-09-13", "fact": "11 Nov 2026-10 Jan 2027; presale sign-up only, no public on-sale date shown (the FAQ page still carries 2025 details)." },
+        { "url": "https://www.hrp.org.uk/hampton-court-palace/whats-on/hampton-court-palace-ice-rink/", "checked": "2026-09-13", "fact": "20 Nov-3 Jan 2027, 'Tickets on sale soon'. Matches 'price not yet published'." },
+        { "url": "https://www.southbankcentre.co.uk/events/winter/", "checked": "2026-09-13", "fact": "Only 'From November 2026'; no market dates. Matches 'not yet published'." }
+      ]
+    },
+    {
+      "slug": "christmas-day-restaurants-london",
+      "status": "checked, no change",
+      "sources": [
+        { "url": "https://www.theritzlondon.com/christmas-at-the-ritz/", "checked": "2026-09-13", "fact": "Christmas Day page live; price not in the static page, so the £670 figure (checked 4 Sep) was not re-verified." }
+      ]
+    },
+    {
+      "slug": "london-marathon-guide",
+      "status": "checked, no change",
+      "sources": [
+        { "url": "https://www.londonmarathonevents.co.uk/london-marathon/good-age-entry", "checked": "2026-09-13", "fact": "'The 2026 qualifying criteria below is for reference. We'll share details for 2027 in the autumn.' Matches the page." }
+      ]
+    },
+    {
+      "slug": "things-to-do-in-london-in-october",
+      "status": "exists, not re-audited in depth",
+      "note": "The article already exists: published 2026-09-10, draft false. Its Bayeux claims match the British Museum page as of 2026-09-13. No new October guide is needed."
+    }
+  ],
+  "needsOwnerDecision": [
+    { "slug": "wimbledon-tickets-guide", "reason": "The ballot closes 23:59 BST on 14 Sep. From 15 Sep the open-ballot wording needs changing to 'closed, results from October' (reviewBy set to 2026-09-15)." },
+    { "slug": "london-film-festival", "reason": "General sale opens 17 Sep; the FAQ and plan need past tense after that (reviewBy 2026-09-18). The page also lists a 'Treasures' strand, and the BFI's 2026 strand list does not include one. St Martin-in-the-Fields is a new Expanded venue this year, not in the venue list." },
+    { "slug": "things-to-do-in-london-in-september / best-live-music-venues-london", "reason": "Blue Note's own listing shows the Robert Glasper grand opening on Thu 24 Sep only. Both pages say it opens 23 Sep (Coltrane's centenary), and the venues guide says Glasper plays the 23rd and 24th. It could be a private opening night on the 23rd, so this was not changed. data/months/september-2026.json also says 23 Sep." },
+    { "slug": "bonfire-night-london", "reason": "Southgate (early bird 'ends 1 September') and Enfield (early bird 'ends 31 August'). Eventbrite still advertises the Southgate early-bird prices, with a new sales window from 12 Sep and a low price that matches £8.50 plus fees, so it is unclear whether the prices changed. The Dugdale page shows no prices. Battersea's info page lists tier prices that look internally inconsistent (VIP £10.60 below GA £16.70), so they were not added." },
+    { "slug": "halloween-london", "reason": "The LGBTQ+ line says 'check back in September'; no Halloween programme was found for Heaven, G-A-Y or The Glory (G-A-Y's site returned 522, Heaven's did not load). Royal Institution Halloween Lecture has no 2026 date. elrow Horroween now shows 'from £40 + BF' against £41.95 on the page, which may be the same price with a different fee display." },
+    { "slug": "christmas-in-london", "reason": "Somerset House 'tickets on sale from September 2026' cannot be confirmed; the operator shows presale sign-up only. Recheck in late September along with the street-light switch-on dates." }
+  ]
+}

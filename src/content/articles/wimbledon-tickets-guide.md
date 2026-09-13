@@ -3,7 +3,8 @@ title: "How to Get Wimbledon Tickets: The Ballot, The Queue and Every Other Way 
 seoTitle: "Wimbledon Tickets 2027: Ballot Dates, The Queue, Prices"
 description: "Every legitimate route into Wimbledon: the public ballot and when it opens, exactly how The Queue works and when to arrive, the in-grounds Ticket Resale, and what to do if you are coming from abroad."
 publishedAt: 2026-08-29
-updatedAt: 2026-09-01
+updatedAt: 2026-09-13
+reviewBy: 2026-09-15
 sites:
   - london
 canonicalSite: london
@@ -17,7 +18,7 @@ tags:
 draft: false
 faq:
   - q: "When does the Wimbledon 2027 ballot open?"
-    a: "The AELTC has not published the exact date yet, but it emailed myWimbledon members on 27 August 2026 to say the Public Ballot opens soon. The 2026 ballot ran from Tuesday 2 September to 23:59 BST on Sunday 21 September 2025, so expect a similar early-September window and two to three weeks to apply. You must have a myWimbledon account and have opted in to 'Championships tickets, including the Wimbledon Public Ballot' to be told when it opens."
+    a: "It already has. The AELTC's Public Ballot for 2027 opened on Tuesday 1 September 2026 and closes at 23:59 BST on Monday 14 September 2026, and the application period is the same for overseas guests. You need a myWimbledon account to apply, and offers go out by email from October 2026. If you miss it, the AELTC points to Keith Prowse hospitality or The Queue for 2027."
   - q: "Can people from outside the UK enter the Wimbledon ballot?"
     a: "Yes. There is no separate overseas ballot any more. The application period is the same for all guests including those from overseas, and you enter online through a myWimbledon account from anywhere in the world. The only real constraint is that it is one application per household and per email address, and you must apply from your permanent home address."
   - q: "What is the LTA Wimbledon ballot and can I enter it as well?"
@@ -50,9 +51,9 @@ Wimbledon is the only Grand Slam where you can still turn up on the day, pay fac
 
 There are a small number of legitimate ways in, and the All England Club controls every one of them. Everything else — the resale sites, the "guaranteed Wimbledon tickets" ads, the man outside Southfields station — sells you a ticket that is void on arrival.
 
-**The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Of the two advance ballots for those tickets, one has already gone: the **LTA opt-in closed at 23:59 on 31 August 2026**. The free **AELTC Public Ballot** is the one still to come, and it opens in early September.
+**The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Of the two advance ballots for those tickets, one has already gone: the **LTA opt-in closed at 23:59 on 31 August 2026**. The free **AELTC Public Ballot** is open now: it opened on 1 September and **closes at 23:59 BST on Monday 14 September 2026**.
 
-> 💡 **The Short Version:** Enter the **AELTC Public Ballot** — it is free, open to anyone in the world, and opens in **early September**. There is also a **second, separate LTA draw that anyone over 18 can enter for £25 a year**, and you can enter both — but for 2027 **its opt-in closed on 31 August 2026**, so joining now is a plan for 2028. Win that one and **you choose your day and court**, which the public ballot never lets you do. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £22**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
+> 💡 **The Short Version:** Enter the **AELTC Public Ballot** — it is free, open to anyone in the world, and **closes at 23:59 BST on Monday 14 September 2026**. There is also a **second, separate LTA draw that anyone over 18 can enter for £25 a year**, and you can enter both — but for 2027 **its opt-in closed on 31 August 2026**, so joining now is a plan for 2028. Win that one and **you choose your day and court**, which the public ballot never lets you do. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £22**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
 
 ---
 
@@ -63,15 +64,15 @@ There are a small number of legitimate ways in, and the All England Club control
 | What | When | Notes |
 | --- | --- | --- |
 | **LTA ballot opt-in closes** | **23:59, Mon 31 August 2026** | Opened 23 July. Needs LTA Advantage membership — **£25 a year, open to any adult**, or free via a club |
-| **Public Ballot opens** | **Early September 2026** (expected) | The 2026 ballot opened Tue 2 Sept 2025. AELTC emailed members on 27 Aug 2026 to say it "opens soon" |
-| **Public Ballot closes** | Two to three weeks later | The 2026 ballot closed at **23:59 BST** on Sun 21 Sept 2025 — a hard deadline |
+| **Public Ballot opened** | **Tue 1 September 2026** | Confirmed by the AELTC. Open to overseas guests in the same window |
+| **Public Ballot closes** | **23:59 BST, Mon 14 September 2026** | A hard deadline. The AELTC says there is no advantage to applying early |
 | **LTA ballot draws** | September to November 2026 | Winners contacted through the balloting period |
 | **Public Ballot results** | **From October 2026** | Offers arrive by email, with a strict payment deadline |
 | **Qualifying** | The week before The Championships | Community Sports Centre, Roehampton — tickets from **£20** |
 | **The Queue opens** | **2pm the Sunday before Day 1** | 2pm on Sun 27 June 2027, if 2026's pattern holds |
 | **The Championships** | **Mon 28 June – Sun 11 July 2027** | Confirmed by the AELTC |
 
-> ⚠️ **Do the myWimbledon step today, not when the ballot opens.** Signing up for a myWimbledon account is *not* the same as entering the ballot, but you cannot enter without one — and you will not be told the ballot has opened unless you have ticked **'Championships tickets, including the Wimbledon Public Ballot'** in the Email Consents and Preferences section of your profile. Add `info@championships.aeltc-email.com` to your safe senders while you are there; the AELTC's own advice is that its ballot emails routinely land in spam.
+> ⚠️ **Do the myWimbledon step before anything else.** Signing up for a myWimbledon account is *not* the same as entering the ballot, but you cannot enter without one — and you will not be told the ballot has opened unless you have ticked **'Championships tickets, including the Wimbledon Public Ballot'** in the Email Consents and Preferences section of your profile. Add `info@championships.aeltc-email.com` to your safe senders while you are there; the AELTC's own advice is that its ballot emails routinely land in spam.
 
 ### Get the app
 
@@ -133,13 +134,13 @@ This is the ballot that needs no membership of anything, and for most people it 
 
 ### When it runs
 
-It has opened in the first days of September two years running:
+It has opened in the first days of September three years running:
 
 | Championships | Ballot opened | Ballot closed | Offers sent |
 | --- | --- | --- | --- |
 | **2025** | Mon 2 September 2024 | Mon 16 September 2024 | From October 2024 |
 | **2026** | Tue 2 September 2025 | **23:59 BST**, Sun 21 September 2025 | From October 2025 |
-| **2027** | Not yet announced | Not yet announced | **From October 2026** |
+| **2027** | Tue 1 September 2026 | **23:59 BST**, Mon 14 September 2026 | **From October 2026** |
 
 ### How it works
 
@@ -194,7 +195,7 @@ The only condition is that you have to be an LTA member.
 
 > 💡 **What almost everyone reading this needs: LTA Advantage Fan+, £25 a year.** Any adult aged 18 or over can sign up online in a few minutes. You do not have to play tennis, belong to a club, or have any connection to the sport. Join, then opt in to the Wimbledon ballot in your Advantage account — the opt-in is a separate step, and joining alone does not enter you.
 
-> ⚠️ **The 2027 opt-in has closed.** It shut at 23:59 on Monday 31 August 2026, so LTA membership no longer buys you a route into next year's Championships. Joining now puts you in position for the **2028** opt-in, which on this year's timing will open around August 2027 — and the free AELTC Public Ballot, opening in the next few weeks, is the one to enter for 2027.
+> ⚠️ **The 2027 opt-in has closed.** It shut at 23:59 on Monday 31 August 2026, so LTA membership no longer buys you a route into next year's Championships. Joining now puts you in position for the **2028** opt-in, which on this year's timing will open around August 2027 — and the free AELTC Public Ballot, open until 23:59 BST on Monday 14 September 2026, is the one to enter for 2027.
 
 **Two exceptions.** If you already belong to a tennis club, check whether it is LTA-registered: the **Play+** tier is **free** and carries the same ballot entry. And if you play in competitions, **Compete** at £35 includes it too. Otherwise, Fan+ is the one. Note that plain **Fan** and plain **Play** are free but include **no ballot entry** — it is the *plus* tiers that count.
 
@@ -613,7 +614,7 @@ Because debenture tickets carry the word "debenture" printed where the price wou
 
 Wimbledon no longer runs a separate overseas process. The catch is timing: the decisive moment is **ten months before the tournament**.
 
-1. **Enter the Public Ballot.** The application period is explicitly the same "for all guests, including those from overseas". It is online, it is free, and it needs nothing more than a myWimbledon account and a permanent home address. Do it in September 2026 for the 2027 Championships.
+1. **Enter the Public Ballot.** The application period is explicitly the same "for all guests, including those from overseas". It is online, it is free, and it needs nothing more than a myWimbledon account and a permanent home address. For the 2027 Championships the window closes at 23:59 BST on Monday 14 September 2026.
 2. **The Queue works for visitors exactly as well as it does for locals.** Anyone can join it — no residency, membership or prior registration required. A **£35 Grounds Pass plus a £15 Ticket Resale seat** is a realistic plan for Centre Court at £50 all-in.
 3. **The LTA ballot is a grey area.** Its terms set no residency requirement, and the sign-up form asks for no address or country at all — but the LTA reserves the right to verify a participant's place of residence, and the detailed rules for the 2027 ballots have not been published yet. If you live abroad and are considering paying £25 for it, ask the LTA before you join rather than after.
 4. **If you want certainty, Newmarket Holidays is the cheap end of it** — a reserved No.1 Court seat plus a hotel from **£348pp**, against £1,395 plus VAT for the cheapest hospitality package.
@@ -688,4 +689,4 @@ Pre-purchased tickets are digital through the Wimbledon app; a small number of p
 
 ---
 
-*Ballot rules, queue procedures, prices and facilities are as published by the All England Lawn Tennis Club, the LTA and the named operators, and checked in August 2026. Ticket prices shown are the 2026 Championships prices; 2027 prices are normally published in the spring. First train times are from Transport for London's own timetable. Queue card numbers and waiting times are from first-hand accounts of the 2023–2026 Championships plus our own — they are a guide to the shape of the Queue, not a promise, and they have got worse every year. AELTC ballot dates for 2027 had not been confirmed at the time of writing: check wimbledon.com and your myWimbledon inbox.*
+*Ballot rules, queue procedures, prices and facilities are as published by the All England Lawn Tennis Club, the LTA and the named operators, and checked in August 2026. Ticket prices shown are the 2027 prices on the AELTC's ticket prices page, and the 2027 Public Ballot dates are from wimbledon.com and the AELTC help centre, both re-checked on 13 September 2026. First train times are from Transport for London's own timetable. Queue card numbers and waiting times are from first-hand accounts of the 2023–2026 Championships plus our own — they are a guide to the shape of the Queue, not a promise, and they have got worse every year.*

@@ -9,6 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File%3AGreatRiverRace07.JPG
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 publishedAt: 2026-09-08
+updatedAt: 2026-09-13
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -51,7 +52,7 @@ The thing worth understanding about it is the collaboration buried in its making
 
 **Opening hours are unusually long, and that is the tactical detail.** Sunday to Wednesday it runs 10am to 6pm; **Thursday to Saturday it stays open until 9pm**. Late Thursday and Friday slots are the civilised way to see it.
 
-**Tickets: this is the part to plan.** The current release has largely gone. **Members' priority booking reopens on 6 October 2026**, and the **next general ticket release is 21 October 2026**, covering visits from 1 January to 31 March 2027. If you want to go and have not booked, those are the two dates that matter — the British Museum's newsletter is the only reliable way to be told when releases open.
+**Tickets: this is the part to plan.** Every ticket for 10 September to 31 December 2026 has sold out. **Members' priority booking reopens on 6 October 2026**, and the **next general ticket release is 21 October 2026**, covering visits from 1 January to 31 March 2027. If you want to go and have not booked, those are the two dates that matter — the British Museum's newsletter is the only reliable way to be told when releases open.
 
 If you cannot get in, **Bayeux Around Britain** runs related programmes at more than sixty museums and heritage sites across the country. There is also a curator's talk, *The real world of the Bayeux Tapestry*, online on **25 September, £50**.
 
@@ -209,7 +210,7 @@ For something entirely different, the **Monteverdi Choir performs Rossini's *Pet
 
 **American college football comes to Wembley a week earlier.** The **Union Jack Classic** on **Saturday 19 September** is Arizona State Sun Devils against Kansas Jayhawks. The NFL follows in October, with three games on consecutive Sundays.
 
-**The Wimbledon 2027 public ballot is due.** The All England Club told myWimbledon members on 27 August that it opens soon, and last year's ran for three weeks in September. How to enter, and the other routes in if you are not drawn, are in our [Wimbledon tickets guide](/articles/wimbledon-tickets-guide/).
+**The Wimbledon 2027 public ballot closes at 23:59 BST on Monday 14 September.** The All England Club opened it on 1 September, it is free, and overseas applicants use the same window. How to enter, and the other routes in if you are not drawn, are in our [Wimbledon tickets guide](/articles/wimbledon-tickets-guide/).
 
 Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
 

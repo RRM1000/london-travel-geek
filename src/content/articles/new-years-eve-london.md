@@ -3,6 +3,7 @@ title: "New Year's Eve in London: Fireworks Tickets, the Parade and Getting Home
 seoTitle: "New Year's Eve London 2026: Fireworks and Tickets"
 description: "The Thames fireworks are ticketed, paid and sell out — and nothing for 31 December 2026 is on sale yet. What is confirmed, what the free viewpoints really are, and how to get home."
 publishedAt: 2026-09-10
+updatedAt: 2026-09-13
 sites:
   - london
 canonicalSite: london
@@ -18,7 +19,7 @@ heroImage: "../../assets/articles/new-years-eve-london/thames-fireworks.jpg"
 heroImageAlt: "Fireworks bursting in red and blue over the Thames at night, with the London Eye, the Golden Jubilee Bridges and the Elizabeth Tower lit below"
 faq:
   - q: "Do you need a ticket for the London New Year's Eve fireworks?"
-    a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames, and City Hall's own wording is blunt: you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. Nothing has gone on sale for 31 December 2026 yet — checked 7 September 2026."
+    a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames, and City Hall's own wording is blunt: you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. City Hall has confirmed the display returns on 31 December 2026 and says a date for the ticket release will be announced soon; nothing is on sale yet — checked 13 September 2026."
   - q: "How much are London New Year's Eve fireworks tickets?"
     a: "The 2026/27 price has not been published. Last year, for 31 December 2025, a Category A ticket (Blue, Pink and White areas) was £55, or £35 for anyone with a London billing postcode, and Category B (Red, Green and Orange) was £40, or £20 for Londoners, plus a £2.66 booking fee. Prices have risen most years since the event returned at £15 in 2022."
   - q: "Can you watch the London fireworks for free?"
@@ -31,7 +32,7 @@ faq:
     a: "1pm to 4.30pm on Friday 1 January 2027, with all grandstands opening at 12 noon. The route runs from just off Piccadilly near Green Park station, along Regent Street St James's, Pall Mall, past Trafalgar Square and down Whitehall to finish at Parliament Square."
 ---
 
-**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and as of 7 September 2026, not a single ticket for 31 December 2026 has gone on sale.** The Mayor's own shortlink, london.gov.uk/nye, still redirects to a page for last year's display marked "This event is in the past".
+**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and as of 13 September 2026, not a single ticket for 31 December 2026 has gone on sale.** City Hall has now published [its page for the 2026 display](https://www.london.gov.uk/events/london-new-years-eve-2026), which confirms the fireworks return on Thursday 31 December, running 8pm to 12.30am, and says only that a date for the ticket release "will be announced soon". The Mayor's shortlink, london.gov.uk/nye, still redirects to last year's page.
 
 That matters, because the internet is already full of New Year's Eve guides quoting prices, on-sale dates and free viewpoints that belong to previous years. This guide separates what is genuinely confirmed for **Thursday 31 December 2026** and **Friday 1 January 2027** from what nobody knows yet.
 
@@ -41,9 +42,9 @@ That matters, because the internet is already full of New Year's Eve guides quot
 
 ## What is actually confirmed
 
-| What | Where it stands on 7 September 2026 |
+| What | Where it stands on 13 September 2026 |
 | --- | --- |
-| Mayor's Thames fireworks, 31 Dec 2026 | Not announced |
+| Mayor's Thames fireworks, 31 Dec 2026 | Confirmed by City Hall, 8pm to 12.30am. Ticket release date "will be announced soon" |
 | Fireworks tickets | Not on sale |
 | London Parade, 1 Jan 2027 | Confirmed. 1pm to 4.30pm, tickets on sale since 1 July 2026 |
 | TfL Christmas and New Year travel | Not published |
@@ -58,7 +59,7 @@ That matters, because the internet is already full of New Year's Eve guides quot
 
 The display goes up over the Thames around the London Eye at midnight, and **you cannot simply turn up on the Embankment**. It runs as a fenced festival with more than 100,000 ticket holders, six numbered viewing areas and gated entrances. City Hall's wording is unambiguous: you cannot attend without a ticket, and those without one will not be allowed into the viewing areas.
 
-Last year's rules, the best guide to this year's until 2026 is announced:
+Last year's rules, the best guide to this year's until City Hall publishes the 2026 detail:
 
 - **Entry ran from 8pm to 10.30pm** into every area, with **no re-entry**. That is two and a half hours minimum on your feet before midnight, plus the wait to leave.
 - **Everyone needs a ticket, whatever their age.** Under-16s must be with an adult, and City Hall actively recommends against bringing young children.
@@ -103,7 +104,7 @@ The only legitimate resale route is **Ticketmaster's Fan-to-Fan platform, at fac
 
 **The Londoner discount is worth £20 a ticket**, applied at checkout against your card's billing address. Enter the postcode without spaces and in capitals, make sure the address genuinely matches, and be ready to prove it on the night — mismatched bookings have been cancelled without warning.
 
-**When does it go on sale?** Nobody knows yet. The only on-sale time City Hall has ever put in a press release was **noon on Friday 21 October 2022**, the year the event returned, followed by further releases before it sold out. Watch [london.gov.uk/nye](https://www.london.gov.uk/nye).
+**When does it go on sale?** Not yet known: City Hall's 2026 page says a date for the ticket release will be announced soon, and offers an email sign-up. The only on-sale time City Hall has ever put in a press release was **noon on Friday 21 October 2022**, the year the event returned, followed by further releases before it sold out. Watch [City Hall's 2026 event page](https://www.london.gov.uk/events/london-new-years-eve-2026).
 
 ---
 
@@ -184,7 +185,7 @@ TfL has not published its 2026/27 festive arrangements yet. What follows is the 
 | All-night services | Ran on all night last New Year's Eve, apart from planned closures |
 | Night Tube | Normally Friday and Saturday only, on 6 lines. 31 Dec 2026 is a Thursday |
 | Central London buses | On diversion from about 12:00 last year, because of road closures |
-| Vehicle access to the event area | Restricted from 14:00 on 31 Dec until about 06:00 on 1 Jan last year |
+| Vehicle access to the event area | Restricted from 14:00 on 31 Dec until about 06:00 on 1 Jan, per City Hall's 2026 notice |
 | Congestion Charge | £0 from 25 December 2026 to 1 January 2027 inclusive |
 
 That Night Tube line matters. The six lines that run it — Central, Jubilee, Northern, Piccadilly, Victoria and Windrush — do so on Friday and Saturday nights, and **New Year's Eve 2026 is a Thursday**. Anything running that night will be a special operation laid on for the event, so wait for TfL's December announcement rather than assuming a normal Night Tube.
@@ -229,4 +230,4 @@ Or accept that the cheapest good New Year's Eve in London is a booked table at 7
 
 ---
 
-*Checked against the organisers' own websites on 7 September 2026. Anything labelled "2025" is last year's, given as a guide only — check the official page before you buy.*
+*Checked against the organisers' own websites on 7 September 2026; City Hall's fireworks page re-checked on 13 September 2026. Anything labelled "2025" is last year's, given as a guide only — check the official page before you buy.*

@@ -3,7 +3,7 @@ title: "Bonfire Night in London: Every Display, and Where to Watch for Free"
 seoTitle: "Bonfire Night London 2026: Fireworks and Free Views"
 description: "Every London fireworks display for Bonfire Night 2026 with dates, prices and booking links, which famous ones no longer run, and the free viewpoints that are actually open after dark."
 publishedAt: 2026-08-29
-updatedAt: 2026-09-08
+updatedAt: 2026-09-13
 sites:
   - london
 canonicalSite: london
@@ -23,7 +23,7 @@ faq:
   - q: "Where can you watch London fireworks for free without a ticket?"
     a: "Parliament Hill on Hampstead Heath is the best option because the Heath has no perimeter gates to lock. Alexandra Park is open 24 hours, and you are standing in the same park as the paid display. Primrose Hill works too — it closes at 10pm, not at dusk. Avoid Greenwich Park, which shuts at 6pm in November, long before any display starts."
   - q: "How much are Alexandra Palace fireworks tickets?"
-    a: "The 2026 prices go live when the presale opens at midday on Wednesday 2 September. Be careful with the advertised 'from £10.50' — the site's own small print says that is the price for an 11 to 15-year-old child, so an adult ticket costs more. In 2025 an advance adult ticket was £15.50 and a child £10.50, so budget roughly £15 to £18 per adult."
+    a: "Tickets for both nights have been on sale through DICE, the ticket link on Alexandra Palace's own page, since midday on Wednesday 2 September, advertised from £6.50 on DICE and from £11.50 on the Palace's page. Treat a 'from' price as the cheapest ticket type rather than adult entry: in 2025 the advertised 'from £10.50' was the price for an 11 to 15-year-old. In 2025 an advance adult ticket was £15.50 and a child £10.50, so budget roughly £15 to £18 per adult."
   - q: "Is the Blackheath fireworks display cancelled?"
     a: "No — it is confirmed for Saturday 7 November 2026, 5pm to 10pm on Blackheath Common, and tickets are on general sale. It was cancelled from 2019 to 2024 when Lewisham withdrew funding, returned in 2025 and sold out. The important change is that it is no longer free: £16 an adult, £10 for 11 to 15s, £5 for under-10s, with family tickets from £26. The detail that catches people out is that last entry is 8pm and the fireworks also start at 8pm, so there is no arriving late."
 heroImage: "../../assets/articles/bonfire-night-london/alexandra-palace-fireworks.jpg"
@@ -36,7 +36,7 @@ Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow. So if
 
 This guide lists every display you can buy a ticket for, the one that is still free, which famous ones no longer run at all, and — the part most guides get wrong — the free viewpoints that are actually open after dark.
 
-> 💡 **The Short Version:** The real night is **Saturday 7 November**. **Alexandra Palace** goes on presale at **midday on Wednesday 2 September** and sells out. Several displays sell out, and the early-bird tiers close through late August and September. The only genuinely free display is **Coram's Fields** on the 5th, where adults must bring a child. For a free view, **Parliament Hill** has no gates and never closes — while **Greenwich Park shuts at 6pm**, before anything starts.
+> 💡 **The Short Version:** The real night is **Saturday 7 November**. **Alexandra Palace** has been on sale since **midday on Wednesday 2 September** and sells out. Several displays sell out, and the early-bird tiers close through late August and September. The only genuinely free display is **Coram's Fields** on the 5th, where adults must bring a child. For a free view, **Parliament Hill** has no gates and never closes — while **Greenwich Park shuts at 6pm**, before anything starts.
 
 ---
 
@@ -52,8 +52,8 @@ This guide lists every display you can buy a ticket for, the one that is still f
 | **Sun 1 Nov** | Richmond Family Fireworks · Colets, Thames Ditton |
 | **Thu 5 Nov** | **Coram's Fields (free)** · Wimbledon Park · Stow |
 | **Fri 6 Nov** | Stow · Esher Rugby · Totteridge |
-| **Sat 7 Nov** | **The big one** — Alexandra Palace · Morden Park · Harrow · Dulwich · Southgate · Kempton Park · Beckenham · West Wickham · Bromley High · Chislehurst · Stow, **Blackheath (confirmed, 5pm–10pm)**, plus Battersea expected |
-| **Sun 8 Nov** | Alexandra Palace family day · Meath School, plus Battersea expected |
+| **Sat 7 Nov** | **The big one** — Alexandra Palace · Morden Park · Harrow · Dulwich · Southgate · Kempton Park · Beckenham · West Wickham · Bromley High · Chislehurst · Stow, **Blackheath (confirmed, 5pm–10pm)**, **Battersea Park** |
+| **Sun 8 Nov** | Alexandra Palace family day · Meath School · **Battersea Park** |
 
 ---
 
@@ -75,11 +75,11 @@ The event is now called the Fireworks and Drone Festival. The drones fly formati
 
 ![A drone display forming a lit figure in the night sky above Alexandra Park, watched by a crowd](../../assets/articles/bonfire-night-london/alexandra-palace-drone-show.jpg)
 
-> ⚠️ **The presale has been and gone — it ran on 2 September** — but tickets have not yet gone on general sale. The [priority sign-up list](https://signup.fireworks.london/) is still open and is still the only route to early-bird pricing, so join it now rather than waiting for the general release. This event sells out.
+> ⚠️ **Tickets are on sale now.** Both nights went on sale at midday on 2 September through [DICE](https://link.dice.fm/lb38fc167352), the ticket link on Alexandra Palace's own page, and the listing is advertised from £6.50. This event sells out, so do not wait for November.
 
 **Expect around £15–£18 for an adult and £11–£12 for a child**, based on 2025 prices of £15.50 and £10.50 in advance. Under-10s go free on the Sunday, on early-bird tickets only.
 
-> ⚠️ The advertised "from £10.50" is a child price for an 11 to 15-year-old, not adult entry.
+> ⚠️ Read any "from" price as the cheapest ticket type, not adult entry — in 2025 the advertised "from £10.50" was the price for an 11 to 15-year-old. For 2026 the Palace's page says "from £11.50" and DICE says "from £6.50".
 
 ![A band playing on a stage inside a marquee lit blue, with a crowd watching](../../assets/articles/bonfire-night-london/alexandra-palace-live-music.jpg)
 
@@ -93,9 +93,9 @@ Two things that changed from last year: the event has **moved off Halloween** �
 
 **Battersea Park is the other large paid display in London**, and it sells out in much the same way. It is the bigger of the two on the only published figure — [Time Out](https://www.timeout.com/london/things-to-do/bonfire-night-fireworks-displays-in-london) puts it at 50,000 ticketed spectators a night, and neither Alexandra Palace nor Battersea publishes a capacity of its own.
 
-**Tickets go on sale on Tuesday 8 September** — presale from 09:00, general sale from midday — and the site is now live. It runs over **two nights**, but **the dates themselves have not been published yet**, so sign up rather than assuming a weekend.
+**Tickets have been on sale since Tuesday 8 September**, and the organiser has now published the dates: **Saturday 7 and Sunday 8 November**. On the Saturday gates open at 6pm, last entry is 8pm and the fireworks start at about 8.30pm; on the Sunday gates open at 4.30pm, last entry is 6.30pm and the fireworks start at about 7pm. Tickets are advance only — there are no gate sales, no resale and no waiting list for sold-out dates.
 
-Between them, Alexandra Palace and Battersea take most of London's paid fireworks audience. If you want either, the sign-up list is the whole game: both sell out before most people start looking.
+Between them, Alexandra Palace and Battersea take most of London's paid fireworks audience. Both are on sale now, and both sell out before most people start looking.
 
 ### Watching Battersea from the river instead
 
@@ -111,7 +111,7 @@ Between them, Alexandra Palace and Battersea take most of London's paid firework
 
 Under-18s must be with an adult, and adults need photo ID for the wristband if they want to be served at the bar. The route passes the Houses of Parliament on the way, which is a nice touch on this particular night.
 
-> 💡 **This is also the best clue anyone has to Battersea's date.** An operator does not sell a Battersea-viewing cruise for a night the display is not running, and this one is dated Saturday 7 November — which matches the 7–8 November that [Time Out](https://www.timeout.com/london/things-to-do/bonfire-night-fireworks-displays-in-london) lists. Neither is the organiser, so treat it as a strong steer rather than a confirmed date, and book park tickets the moment the real dates land.
+> 💡 **The date matches.** The cruise is dated Saturday 7 November, and the Battersea Park Fireworks organiser has since confirmed its displays on Saturday 7 and Sunday 8 November — so if the Saturday in the park sells out, the boat is the way to see the same show.
 
 ---
 
@@ -139,9 +139,9 @@ Prices below were published by the organisers and checked in late August 2026. S
 
 | Display | Date | Tickets on sale |
 | --- | --- | --- |
-| **[Richmond Family Fireworks](https://www.rag-events.co.uk/major-public-events-at-the-rag/richmond-family-fireworks/)** | Sun 1 Nov | **Tue 1 September**, early bird to 30 Sept |
-| **[Alexandra Palace](https://www.alexandrapalace.com/whats-on/fireworks-drone-festival/)** | Sat 7 and Sun 8 Nov | **Wed 2 September, 12pm presale** |
-| **[Battersea Park](https://www.batterseaparkfireworks.com/)** | Two nights, **dates not yet announced** | **Tue 8 September** — presale 09:00, general midday |
+| **[Richmond Family Fireworks](https://www.rag-events.co.uk/major-public-events-at-the-rag/richmond-family-fireworks/)** | Sun 1 Nov | **On sale since 1 September**, early bird to Wed 30 Sept |
+| **[Alexandra Palace](https://www.alexandrapalace.com/whats-on/fireworks-drone-festival/)** | Sat 7 and Sun 8 Nov | **On sale since Wed 2 September** |
+| **[Battersea Park](https://www.batterseaparkfireworks.com/)** | **Sat 7 and Sun 8 Nov** | **On sale since Tue 8 September** |
 | **[Bromley High School](https://www.eventbrite.co.uk/e/bromley-high-fireworks-2026-tickets-1992816335304)** | Sat 7 Nov | **Mon 28 September** |
 | **West Wickham** (Rotary) | Sat 7 Nov | **1 October** — capped at 1,550, no gate sales |
 | **[Beckenham Charity Fireworks](https://www.beckenhamfireworks.com/)** | Sat 7 Nov | Not announced — mailing list only, **never any gate sales** |
@@ -256,4 +256,4 @@ You can still visit the site: the Palace of Westminster is on Parliament Square,
 
 ---
 
-*Dates, prices and on-sale times are as published by the venues and organisers and checked in late August 2026. Some 2026 prices were unpublished at that point — where a 2025 figure is given as a guide it is labelled as such. Park opening times are from the Royal Parks' own 2026 schedules and the relevant councils. Always check the official event page before travelling.*
+*Dates, prices and on-sale times are as published by the venues and organisers and checked in late August 2026; Alexandra Palace, Battersea Park, Richmond, Beckenham and Merton re-checked on 13 September 2026. Some 2026 prices were unpublished at that point — where a 2025 figure is given as a guide it is labelled as such. Park opening times are from the Royal Parks' own 2026 schedules and the relevant councils. Always check the official event page before travelling.*

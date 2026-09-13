@@ -61,7 +61,7 @@ That disagreement is not a flaw in the evidence. It is the most interesting thin
 
 ## The ones that won something
 
-Britain had no judged fried chicken award until this year. The **Fried Chicken Championships** changed that in January 2026: four judges, five scoring criteria, and a result close enough that two entrants finished on identical points.
+Britain had no judged fried chicken award until 2026. The **Fried Chicken Championships** changed that in January 2026: four judges, five scoring criteria, and a result close enough that two entrants finished on identical points.
 
 ### 20Ft Fried Chicken — the champion nobody writes about
 

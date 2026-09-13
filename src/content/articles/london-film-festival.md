@@ -3,7 +3,8 @@ title: "BFI London Film Festival 2026: Dates, Tickets and How to Get Them"
 seoTitle: "BFI London Film Festival 2026: Tickets, Dates & Prices"
 description: "When LFF 2026 tickets go on sale, what they cost, the £6 rate for under-25s, and the practical routes into a sold-out screening — returns, standby and face-value resale."
 publishedAt: 2026-08-29
-updatedAt: 2026-09-04
+updatedAt: 2026-09-13
+reviewBy: 2026-09-18
 sites:
   - london
 canonicalSite: london
@@ -19,13 +20,13 @@ faq:
   - q: "When is the BFI London Film Festival 2026?"
     a: "7 to 18 October 2026. It is the 70th edition. The programme was published on 2 September and is live now. Tickets go on general sale at 10am on Thursday 17 September 2026. Elsinore opens the festival on 7 October and The Debut closes it on 18 October."
   - q: "When do London Film Festival tickets go on sale?"
-    a: "General sale opens at 10am on Thursday 17 September 2026. Before that, BFI Patrons book from 10am on 9 September and BFI Members from 10am on 10 September — a week's head start. A further batch of extra tickets is released at 10am on Thursday 1 October."
+    a: "General sale opens at 10am on Thursday 17 September 2026. BFI Patrons have been booking since 10am on 9 September and BFI Members since 10am on 10 September, so joining as a Member now still gets you in ahead of general sale. A further batch of extra tickets is released at 10am on Thursday 1 October."
   - q: "How much are London Film Festival tickets?"
     a: "Tickets start at £10, and £6 for anyone 25 and under. Standard screenings are £13 for weekday matinees before 5pm and £18 for evenings and weekend matinees. Gala premieres are £21 to £30, the Opening and Closing Night Galas £40, the Surprise Film £21, and Relaxed screenings are always £6. Add a £1 booking fee, which BFI Members and Patrons do not pay."
   - q: "Is there a cheap London Film Festival ticket for under-25s?"
     a: "Yes. BFI 25 & Under is free to join for anyone aged 16 to 25, and gets you £6 tickets to London Film Festival screenings. It is a different rate from the £4 the same scheme gets you for regular year-round screenings at BFI Southbank, so do not be surprised when festival tickets come up at £6."
   - q: "Is BFI Membership worth it for the London Film Festival?"
-    a: "Only if the priority booking window matters to you. Membership is £44 a year by direct debit and gets you booking from 10 September rather than 17 September, plus no £1 booking fee. The booking fee saving alone will not repay £44 — you would need to buy 44 tickets. The membership makes financial sense if you also use BFI Southbank the rest of the year, because it includes two free standard Southbank tickets and up to £2.50 off. For a once-a-year festival visitor, what you are buying is the week's head start on sold-out screenings, not a saving."
+    a: "Only if the priority booking window matters to you. Membership is £44 a year by direct debit and gets you priority booking, open since 10 September, ahead of general sale on 17 September, plus no £1 booking fee. The booking fee saving alone will not repay £44 — you would need to buy 44 tickets. The membership makes financial sense if you also use BFI Southbank the rest of the year, because it includes two free standard Southbank tickets and up to £2.50 off. For a once-a-year festival visitor, what you are buying is the week's head start on sold-out screenings, not a saving."
   - q: "How do you get tickets for a sold-out London Film Festival screening?"
     a: "Four routes. Extra tickets are released online at 10am on 1 October and again at 10am each morning during the festival. Returned tickets appear on Twickets, which caps resale at face value. At the venue, ask at the box office 45 minutes before the screening for returns. If there are none, join the standby queue 30 minutes before — standby tickets are released 15 minutes before the film starts."
   - q: "Where does the London Film Festival take place?"
@@ -42,9 +43,9 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 
 The BFI London Film Festival runs **7 to 18 October 2026**, its 70th edition. It is the largest public film event in the UK, and unlike Cannes or Venice it is built for ordinary ticket-buyers rather than accredited industry — most of the programme is on general sale, and most of it is affordable.
 
-The part that catches people out is the calendar. **The programme is out — it landed on 2 September** — but general sale does not open until **17 September**, and by then the handful of screenings everyone wants are largely gone. **Elsinore** opens the festival on 7 October and **The Debut** closes it on the 18th; both galas are at the Royal Festival Hall.
+The part that catches people out is the calendar. **The programme is out — it landed on 2 September** — and Members have been booking since 10 September, but general sale does not open until **17 September**, and by then the handful of screenings everyone wants are largely gone. **Elsinore** opens the festival on 7 October and **The Debut** closes it on the 18th; both galas are at the Royal Festival Hall.
 
-> 💡 **The Short Version:** The programme is live. Tickets go on **general sale at 10am on 17 September** — but **BFI Members book from 10 September**, a week earlier, and membership is **£44**. If you are **16 to 25**, join **BFI 25 & Under** first: it is free, and it makes every festival ticket **£6**. Standard tickets start at **£10 plus a £1 booking fee**. If a screening sells out, there is a **fresh release at 10am on 1 October**, another **at 10am every festival morning**, face-value resale on **Twickets**, and a **returns and standby queue** at the venue on the night.
+> 💡 **The Short Version:** The programme is live. Tickets go on **general sale at 10am on 17 September** — but **BFI Members have been booking since 10 September**, and membership is **£44**. If you are **16 to 25**, join **BFI 25 & Under** first: it is free, and it makes every festival ticket **£6**. Standard tickets start at **£10 plus a £1 booking fee**. If a screening sells out, there is a **fresh release at 10am on 1 October**, another **at 10am every festival morning**, face-value resale on **Twickets**, and a **returns and standby queue** at the venue on the night.
 
 ---
 
@@ -55,13 +56,13 @@ The part that catches people out is the calendar. **The programme is out — it 
 | Date | Time | What happens |
 | --- | --- | --- |
 | **Wed 2 September** | 11am | Full programme revealed — done |
-| **Wed 9 September** | 10am | Priority booking opens — BFI Patrons |
-| **Thu 10 September** | 10am | Priority booking opens — BFI Members |
+| **Wed 9 September** | 10am | Priority booking opened — BFI Patrons — done |
+| **Thu 10 September** | 10am | Priority booking opened — BFI Members — done |
 | **Thu 17 September** | 10am | **Tickets on general sale** |
 | **Thu 1 October** | 10am | Extra tickets released |
 | **Wed 7 – Sun 18 October** | — | The festival itself |
 
-Two things follow from this. The first is that if you want a specific screening badly, the decision about membership has to be made before 10 September, not on the morning of general sale. The second is that 1 October is a genuine second chance that most people miss — it is a real release of held-back stock, not a token gesture.
+Two things follow from this. The first is that if you want a specific screening badly, the decision about membership has to be made before 17 September, not on the morning of general sale — priority booking has been open to Members since 10 September. The second is that 1 October is a genuine second chance that most people miss — it is a real release of held-back stock, not a token gesture.
 
 ---
 
@@ -82,8 +83,6 @@ Two things follow from this. The first is that if you want a specific screening 
 | Family strand | £10 adult, £6 child |
 | Relaxed screenings | £6 |
 | **Anyone 25 and under, anything** | **£6** |
-
-Treat these as a guide rather than a quote — they are last year's figures, and the 2026 set will be confirmed on 2 September.
 
 Two prices for 2026 are already fixed, and both are fundraising tickets rather than ordinary admission: **£1,000** for the Opening Night Gala, which includes red-carpet arrival and receptions either side of the film, and **£250** for the Closing Night Gala, which does not. These exist to raise money for the BFI. They are not the normal way in, and standard gala tickets for both films go on sale with everything else.
 
@@ -107,17 +106,17 @@ Reduced prices are available to over-60s, students with valid ID, and anyone on 
 
 ## Is BFI Membership worth it?
 
-Membership costs **£44 a year** paying by direct debit without a printed programme, £54 with one, or £60 as a one-off card payment. It gets you priority booking from 10 September, no booking fees, two free tickets for standard BFI Southbank screenings, and up to £2.50 off Southbank and IMAX tickets.
+Membership costs **£44 a year** paying by direct debit without a printed programme, £54 with one, or £60 as a one-off card payment. It gets you priority booking (open to Members since 10 September), no booking fees, two free tickets for standard BFI Southbank screenings, and up to £2.50 off Southbank and IMAX tickets.
 
 The honest arithmetic, if the festival is the only reason you are considering it:
 
 - The **booking fee saving is £1 a ticket**. To recover £44 on that alone you would need to buy 44 tickets.
 - The **two free tickets** and the **£2.50 discount** are Southbank benefits, useful year-round but not at the festival.
-- What you are actually buying is **seven days of priority**, from 10 September instead of 17 September.
+- What you are actually buying is **priority booking before 17 September** — open to Members since 10 September, so every day you wait shortens the head start.
 
 So: if you go to BFI Southbank through the year anyway, membership pays for itself comfortably on the free tickets and the per-ticket discount. If you turn up once a year for the festival, it does not pay for itself in cash — it buys you a head start on the screenings that sell out. Whether that is worth £44 depends entirely on whether there is a specific film you would be disappointed to miss.
 
-The **Patron** tiers — £2,000, £6,500 and £15,000 — get you one further day of priority, on 9 September, along with a personalised booking service. That is a philanthropic decision rather than a ticketing one.
+The **Patron** tiers — £2,000, £6,500 and £15,000 — got one further day of priority, on 9 September, along with a personalised booking service. That is a philanthropic decision rather than a ticketing one.
 
 ---
 
@@ -145,7 +144,7 @@ If you are booking several films in a day, check the venues before you check the
 
 ## What is already announced
 
-The full programme arrives on 2 September, but three things are confirmed.
+The full programme was published on 2 September. The headline announcements:
 
 **The Opening Night Gala** is *Elsinore*, at the Royal Festival Hall on Wednesday 7 October. Directed by Simon Stone and written by Stephen Beresford, it tells the true story of the actor Ian Charleson preparing to play Hamlet at the National Theatre while facing HIV/AIDS, with Andrew Scott and Olivia Colman leading a cast that includes Billie Piper, Johnny Flynn and Luke Thompson.
 
@@ -168,13 +167,13 @@ The full programme arrives on 2 September, but three things are confirmed.
 
 Winners are announced on **Sunday 18 October**. There are four juried awards — Best Film from the Official Competition, the **Grierson Award** for documentary, the **Sutherland Award** for a first feature, and the **Short Film Award** — plus separate **Audience Awards** voted for by ticket-holders, which are decided after the festival closes rather than on the night.
 
-The festival also runs **LFF for Free** most years — free talks, short film programmes, immersive and VR work and family workshops, largely at BFI Southbank across the two festival weekends. In 2025 those tickets opened separately in early October, first-come-first-served, two per person. The 2026 free programme is announced with everything else on 2 September.
+The festival also runs **LFF for Free** most years — free talks, short film programmes, immersive and VR work and family workshops, largely at BFI Southbank across the two festival weekends. For 2026 the BFI says LFF for Free events can be booked from **10am on Thursday 1 October**, two tickets per person, and a ticket does not guarantee entry — it is first come, first served on the day.
 
 ### How the programme is organised
 
 The strands have been stable for years, and they are the fastest way to navigate a programme of this size once it lands. Alongside the **Galas** and the four competitions, films are grouped as **Love**, **Debate**, **Laugh**, **Dare**, **Thrill**, **Cult**, **Journey**, **Create** and **Family**, with **Treasures** for restored archive classics, **Experimenta** for artist and experimental film, and **Expanded** for immersive and XR work.
 
-For scale: the 2025 edition ran 247 features, shorts, series and immersive works from 79 countries across the same 12 days. The 2026 figure is published on 2 September, but expect something comparable — which is the useful context for the sold-out panic below. A dozen or so screenings sell out in minutes. Several hundred do not.
+For scale: the 2026 edition presents 251 features, shorts, series and immersive works from 88 countries across the 12 days, against 247 from 79 countries in 2025 — which is the useful context for the sold-out panic below. A dozen or so screenings sell out in minutes. Several hundred do not.
 
 ---
 
@@ -188,7 +187,7 @@ A few things worth knowing before you start clicking:
 
 **Log in first.** You need to be signed in to the BFI's booking site to see prices and to book. Doing that at 09:58 rather than 10:00 is free time.
 
-**There was a two-ticket limit per film in 2025**, with more allowed for family screenings. Expect something similar. It applies during the priority windows and lifts at general sale.
+**There is a two-ticket limit per film per customer in 2026**, or four for a family film, and the BFI says it applies until Thursday 17 September — the priority windows.
 
 **Book the second screening, not the premiere.** Most films in the programme screen more than once, and the repeat is very often a weekday matinee at £13–£16 rather than a £21–£30 gala. The premiere is where the red carpet, the director introduction and the competition are; the second screening is the same film, cheaper and far easier to get. If you want to see the film rather than the event, book the repeat.
 
@@ -249,12 +248,12 @@ Most of the festival's venues screen all year, and several are worth a trip on a
 If you want to do the festival properly without overthinking it:
 
 1. **Now** — if you are 16 to 25, join BFI 25 & Under. It is free and makes every ticket £6.
-2. **Before 10 September** — decide on membership. £44, and only worth it if a specific sold-out screening matters to you or you use BFI Southbank year-round.
-3. **2 September, 11am** — read the programme. Note which films have a second or third screening.
+2. **Before 17 September** — decide on membership. £44, and only worth it if a specific sold-out screening matters to you or you use BFI Southbank year-round; Members have been booking since 10 September.
+3. **Now** — read the programme, published on 2 September. Note which films have a second or third screening.
 4. **17 September, 10am** — book, at general sale. Prioritise the films with only one screening; the rest you can come back for.
 5. **1 October, 10am** — check the extra release for anything you missed.
 6. **During the festival** — 10am online each morning, then returns at 45 minutes and standby at 30 minutes for anything still out of reach.
 
 ---
 
-*Ticket prices for 2026 are confirmed when the programme is published on 2 September 2026 — the price table above is last year's, included as a guide. Everything else here is confirmed on the BFI's own listings.*
+*Ticket prices, booking dates, the ticket limit and the LFF for Free booking date are the 2026 figures from the BFI's own tickets and booking page, checked on 13 September 2026. Everything else here is confirmed on the BFI's own listings.*
