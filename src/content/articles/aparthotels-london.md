@@ -60,19 +60,155 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 **Cheval is the one to know if you need bedrooms.** Three Quays sits on the river between the Tower and Tower Bridge with apartments looking at both, and Gloucester Park is eight minutes from the free South Kensington museums. Both do one- to three-bedroom layouts, which is what a family of four actually needs.
 
+![The living area of an apartment at Cheval Three Quays, with an armchair and coffee table in the foreground and the bedroom visible through an open partition beyond](../../assets/articles/aparthotels-london/cheval-three-quays-living-area.jpg)
+
+*The living area of a Cheval Three Quays apartment, with the bedroom visible beyond.*
+
+<div class="photo-row">
+
+![A bedroom at Cheval Gloucester Park, with a bow window looking out over London rooftops, a dark tufted headboard and a green armchair in the corner](../../assets/articles/aparthotels-london/cheval-gloucester-park-bedroom.jpg)
+
+![The bathroom at Cheval Gloucester Park, with grey marble tile, a walk-in shower and a double vanity with fold-out shaving mirrors](../../assets/articles/aparthotels-london/cheval-gloucester-park-bathroom.jpg)
+
+</div>
+
+*A bedroom at Cheval Gloucester Park with a bow window over the rooftops, and its marble bathroom.*
+
 **Supercity is the one to know for a long stay**, purely on the washer-dryer. Over two weeks that is the difference between doing laundry in your room and hunting for a launderette.
 
 ## By area, and by how you get there
 
 **Central, and priced like it.** Wilde Covent Garden is on Adam Street between the Strand and the river, three minutes from the piazza. [Native Mayfair](hotel:native-mayfair) is on a mews off Grosvenor Square, three minutes from Bond Street and the Elizabeth line. Both are as central as this format gets in London.
 
+<div class="photo-row">
+
+![A studio at Wilde Covent Garden, with a dark tufted headboard, framed photography above the bed and an open wood-panelled unit holding storage and the ensuite](../../assets/articles/aparthotels-london/wilde-covent-garden-studio.jpg)
+
+![The wood-clad ensuite pod inside a Wilde Covent Garden studio, with a glass shower door and a round vessel basin](../../assets/articles/aparthotels-london/wilde-covent-garden-ensuite.jpg)
+
+</div>
+
+*A studio at Wilde Covent Garden, with the ensuite built into a wood-clad pod beside the bed.*
+
+<div class="photo-row">
+
+![The living area at Native Mayfair, with a bedroom visible through an open door, a blue sofa and a geometric rug](../../assets/articles/aparthotels-london/native-mayfair-living-area.jpg)
+
+![The bathroom at Native Mayfair, with a freestanding tub, a floor-mounted tap and a heated towel rail](../../assets/articles/aparthotels-london/native-mayfair-bathroom.jpg)
+
+</div>
+
+*The living area at Native Mayfair, with the bedroom through the open door, and the bathroom's freestanding tub.*
+
 **The City, which is the value trick.** Cove by Locke has Moorgate and Cannon Street, Native has King's Wardrobe on Carter Lane by St Paul's, Supercity has The Chronicle off Fetter Lane, and Cheval has Three Quays on the river. The Square Mile empties at weekends, so **Saturday is often the cheapest night of the week** — the reverse of everywhere else in London, and worth checking before you book a Friday.
+
+<div class="photo-row">
+
+![A studio at Cove Cannon Street, with a mustard-cushioned bed, a two-seat dining table and a kitchenette sink against the far wall](../../assets/articles/aparthotels-london/cove-cannon-street-studio.jpg)
+
+![The bathroom at Cove Cannon Street, with stone-effect tile and a rainfall shower](../../assets/articles/aparthotels-london/cove-cannon-street-bathroom.jpg)
+
+</div>
+
+*A studio at Cove Cannon Street, with the kitchenette in the same room as the bed, and its bathroom.*
+
+<div class="photo-row">
+
+![The kitchenette at Native King's Wardrobe, with sage-green cabinets, a round dining table and a striped sofa, with the edge of the bed visible on the left](../../assets/articles/aparthotels-london/native-kings-wardrobe-kitchen.jpg)
+
+![The bathroom at Native King's Wardrobe, with white tile, a glass shower enclosure and sage-green wall panelling](../../assets/articles/aparthotels-london/native-kings-wardrobe-bathroom.jpg)
+
+</div>
+
+*The kitchenette and living space at Native King's Wardrobe, and its bathroom.*
+
+<div class="photo-row">
+
+![A bedroom at The Chronicle, with a grey buttoned headboard, teal cushions and a striped bedspread beneath a ceiling fan](../../assets/articles/aparthotels-london/the-chronicle-bedroom.jpg)
+
+![The bathroom at The Chronicle, with beige tile, a glass-enclosed shower and a mirrored cabinet](../../assets/articles/aparthotels-london/the-chronicle-bathroom.jpg)
+
+</div>
+
+*A bedroom at The Chronicle, off Fetter Lane, and its bathroom.*
 
 **East, on the Elizabeth line.** [Leman Locke](hotel:leman-locke) and Buckle Street Studios are both a couple of minutes from Whitechapel, which puts Bond Street about twelve minutes away without a change. Locke London Canary Wharf and Cove Landmark Pinnacle are on the Elizabeth line too, with Heathrow under an hour direct.
 
+<div class="photo-row">
+
+![A studio at Leman Locke, with a pink sectional sofa and the bed visible through a partition wall](../../assets/articles/aparthotels-london/leman-locke-studio.jpg)
+
+![The bathroom at Leman Locke, with white subway tile, a walk-in shower and a round vessel sink on a marble-topped vanity](../../assets/articles/aparthotels-london/leman-locke-bathroom.jpg)
+
+</div>
+
+*A studio at Leman Locke, with the bed set behind a partition from the sitting area, and its bathroom.*
+
+<div class="photo-row">
+
+![A bed at Buckle Street Studios with a breakfast tray of pineapple and pastries, and a built-in storage unit behind topped with framed prints and a round mirror](../../assets/articles/aparthotels-london/buckle-street-studios-bedroom.jpg)
+
+![The bathroom at Buckle Street Studios, with dark tile, twin wall-mounted basins and grab rails](../../assets/articles/aparthotels-london/buckle-street-studios-bathroom.jpg)
+
+</div>
+
+*A room at Buckle Street Studios with built-in storage behind the bed, and its bathroom.*
+
+<div class="photo-row">
+
+![A studio at Cove Landmark Pinnacle, with a kitchenette counter in the foreground, a dining table and sofa, and the bed visible beyond through an open partition](../../assets/articles/aparthotels-london/cove-landmark-pinnacle-studio.jpg)
+
+![The bathroom at Cove Landmark Pinnacle, with stone-coloured tile, a rainfall shower and a heated towel rail](../../assets/articles/aparthotels-london/cove-landmark-pinnacle-bathroom.jpg)
+
+</div>
+
+*A studio at Cove Landmark Pinnacle, with the kitchenette, living space and bed in one room, and its bathroom.*
+
 **South of the river.** [Native Bankside](hotel:native-bankside) is on a lane behind the Globe, five minutes from Tate Modern. [Bermonds Locke](hotel:bermonds-locke) is on Tower Bridge Road. Staycity has Greenwich High Road, a minute from the station and eight from the Cutty Sark.
 
+![The bathroom at Native Bankside, with dark grey tile, a walk-in shower and a wall-mounted sink](../../assets/articles/aparthotels-london/native-bankside-bathroom.jpg)
+
+*The bathroom at Native Bankside.*
+
+<div class="photo-row">
+
+![A studio at Bermonds Locke, with a sofa and dining table beside the window and a pale blue kitchenette along the back wall, the bed in the foreground with a rust-coloured throw](../../assets/articles/aparthotels-london/bermonds-locke-studio.jpg)
+
+![The bathroom at Bermonds Locke, with blue mosaic tile, a curbless shower and grab rails](../../assets/articles/aparthotels-london/bermonds-locke-bathroom.jpg)
+
+</div>
+
+*A studio at Bermonds Locke, with the kitchenette built into the same room as the bed and sofa, and its bathroom.*
+
+<div class="photo-row">
+
+![A bedroom at Staycity Greenwich High Road, with a wall-mounted television, a dark wardrobe and the ensuite bathroom visible through an open door](../../assets/articles/aparthotels-london/staycity-greenwich-high-road-bedroom.jpg)
+
+![The bathroom at Staycity Greenwich High Road, with grey tile and a mirrored wall](../../assets/articles/aparthotels-london/staycity-greenwich-high-road-bathroom.jpg)
+
+</div>
+
+*A bedroom at Staycity Greenwich High Road, with the ensuite visible through the open door, and the bathroom itself.*
+
 **Genuinely outer, and genuinely cheaper.** Staycity Deptford Bridge is on the DLR one stop from Greenwich. [Native Fulham Broadway](hotel:native-fulham-broadway) is Zone 2 on the District line, ten minutes from Stamford Bridge. Templeton Place sits on an Earl's Court garden square where the District and Piccadilly both stop — Heathrow without a change, South Kensington in four minutes, and the cheapest Supercity address in London.
+
+<div class="photo-row">
+
+![A bedroom at Staycity Deptford Bridge, with a wall-mounted television, a built-in wardrobe and a two-seat table by the window](../../assets/articles/aparthotels-london/staycity-deptford-bridge-bedroom.jpg)
+
+![The bathroom at Staycity Deptford Bridge, with grey tile, a mirrored wall and a glass-enclosed shower](../../assets/articles/aparthotels-london/staycity-deptford-bridge-bathroom.jpg)
+
+</div>
+
+*A bedroom at Staycity Deptford Bridge, and its bathroom.*
+
+![A studio at Native Fulham, with the bed in the foreground, a round table for two and a sofa beside the window](../../assets/articles/aparthotels-london/native-fulham-studio.jpg)
+
+*A studio at Native Fulham, with the bed, a breakfast table and a sofa in the same room.*
+
+![A studio at Templeton Place, with a frosted-glass partition separating the bed from a small kitchenette, plus a sofa and armchair by the window](../../assets/articles/aparthotels-london/templeton-place-studio.jpg)
+
+*A studio at Templeton Place, with the kitchenette behind a frosted-glass partition.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="aparthotels-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
