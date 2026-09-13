@@ -1440,6 +1440,81 @@
     "westmiddx.camra.org.uk": {
       "tier": "A",
       "name": "CAMRA West Middlesex branch"
+    },
+    "youtube.com/@TheCraftBeerChannel": {
+      "tier": "D",
+      "name": "The Craft Beer Channel (YouTube)",
+      "note": "Jonny Garrett and Brad Evans's own channel and publishing imprint (two books). They also write ShortList's craft beer pieces, already registered under shortlist.com - counted there as ShortList, here as their own independent channel, per craft-beer-pubs.json's note on the distinction."
+    },
+    "youtube.com/@realaleguide": {
+      "tier": "D",
+      "name": "Real Ale Craft Beer / Real Ale Guide (YouTube)"
+    },
+    "youtube.com/@TweedyPubs": {
+      "tier": "D",
+      "name": "Tweedy Pubs (YouTube)"
+    },
+    "youtube.com/@Linleys": {
+      "tier": "D",
+      "name": "Linleys 360 (YouTube)"
+    },
+    "youtube.com/@RealAlesRealPubs": {
+      "tier": "D",
+      "name": "Real Ales Real Pubs (YouTube)"
+    },
+    "youtube.com/@SpurtHole": {
+      "tier": "D",
+      "name": "The Spurt Hole (YouTube)"
+    },
+    "youtube.com/@StarstruckByLondon": {
+      "tier": "D",
+      "name": "Starstruck by London (YouTube)"
+    },
+    "youtube.com/@vagabrothers": {
+      "tier": "D",
+      "name": "Vagabrothers (YouTube)"
+    },
+    "youtube.com/@thecitygurutravel": {
+      "tier": "D",
+      "name": "The City Guru (YouTube)"
+    },
+    "youtube.com/@globalfoodquestTV": {
+      "tier": "D",
+      "name": "Global Food Quest (YouTube)"
+    },
+    "youtube.com/@PubsofLondon": {
+      "tier": "D",
+      "name": "Pubs of London (YouTube)"
+    },
+    "youtube.com/@TravelsUnfiltered": {
+      "tier": "D",
+      "name": "Travels Unfiltered (YouTube)"
+    },
+    "youtube.com/@eatplaylondon": {
+      "tier": "D",
+      "name": "Eat Play London (YouTube)"
+    },
+    "youtube.com/@londonpubguide4517": {
+      "tier": "D",
+      "name": "London Pub Guide (YouTube)"
+    },
+    "youtube.com/@1minutewalks325": {
+      "tier": "D",
+      "name": "1 Minute Walks (YouTube)"
+    },
+    "youtube.com/@ExplorebytheGlass": {
+      "tier": "D",
+      "name": "Explore by the Glass (YouTube)"
+    },
+    "youtube.com/@BrewDogOfficial": {
+      "tier": "F",
+      "name": "BrewDog (YouTube, own site)",
+      "note": "The brand's own corporate channel. Tier F in substance whatever it recommends - a company recommending bars, even other people's, is not an independent opinion. DECLINED on craft-beer-pubs."
+    },
+    "youtube.com/@SecretFoodTours": {
+      "tier": "F",
+      "name": "Secret Food Tours (YouTube, own site)",
+      "note": "Advertising the company's own paid tour product, not an independent review - no venues named. DECLINED on craft-beer-pubs."
     }
   },
   "excludedWhy": {

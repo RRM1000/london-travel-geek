@@ -2,7 +2,7 @@
   "topic": "craft-beer-pubs",
   "article": "src/content/articles/best-craft-beer-pubs-london.md",
   "headTerm": "Craft Beer Pubs",
-  "note": "DRAFT - review checkpoint cleared (Rob, 13 Sep 2026). Both open venue questions resolved - see openVenueQuestions. Ready for tiers A-C collection. Video/social tiers (D/E) still not touched - D needs a paid-API warning before it runs (Apify), E (Reddit) is blocked in this environment entirely per SKILL.md.",
+  "note": "DRAFT - review checkpoint cleared (Rob, 13 Sep 2026). Both open venue questions resolved - see openVenueQuestions. Tiers A-C collected, then tier D (video) collected 13 Sep 2026 via Apify - 16 YouTube channels, $0.24 total spend, see data/consensus/craft-beer-pubs.json. Tier E (Reddit) is blocked in this environment entirely per SKILL.md and remains uncollected.",
   "awardBodies": [
     {
       "name": "CAMRA (Campaign for Real Ale) - London branch Pub of the Year",
@@ -67,9 +67,9 @@
     ]
   },
   "knownGaps": [
-    "Video and social tiers (D and E) are not collected yet - mandatory per SKILL.md, not optional. D needs a paid-API warning (Apify) before it runs.",
-    "Reddit is blocked in this environment entirely per SKILL.md - any thread must come from the user by hand.",
-    "Londonist is blocked here (see blockedSources) - a real gap in editorial coverage, not resolved."
+    "Social tier (E, Reddit) is not collected - blocked in this environment entirely per SKILL.md. Any thread must come from the user by hand.",
+    "Londonist is blocked here (see blockedSources) - a real gap in editorial coverage, not resolved.",
+    "Two YouTube videos found in the tier D pass named relevant pubs only in the video itself, not in the description or chapters, so could not be used under this project's description/chapter-first method: Pubs of London's 'We Visited 33 London Pubs - These 10 Were the Best (2025)' and The Great British Pub Crawl's Covent Garden video. Worth a manual watch."
   ],
   "openVenueQuestions": [
     "RESOLVED (Rob, 13 Sep 2026): brewery taprooms count as pubs for this topic. Time Out's 22-venue taproom guide is in scope.",

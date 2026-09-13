@@ -1,6 +1,6 @@
 {
   "cuisine": "craft-beer-pubs",
-  "note": "Part 1 (Collection) pass, tiers A-C only, recorded 2026-09-13 per the consensus-guide skill and data/topics/craft-beer-pubs.json. Tier D (video, Apify) and Tier E (Reddit, blocked in this environment) deliberately not touched - separate steps. Londonist skipped as blocked (see data/sources.json). FLAG FOR BUILD: data/sources.json currently has NO domain entries for london.camra.org.uk or any of the 13 branch subdomains (bexley.camra.org.uk, bromley.camra.org.uk, etc.) - under the registry's own rule ('a domain not listed here is counted as tier C with a warning') every CAMRA citation below would silently score as tier C, not the tier A both the topic config and this file intend for a judged, dated Pub of the Year award. This needs a decision (add the 13 branch domains, or a camra.org.uk wildcard note, to sources.json) before build-evidence.mjs runs on this topic. CAMRA GAPS: East London & City and South West Essex branches were investigated but no current-year branch winner could be found - see the reasoning in each case below; no source record was created for either so an empty-name entry can't inflate a future source count (trap 8). Every other branch's winner is recorded even where it is not the 2026 cycle (Enfield & Barnet: 2025; South West London: 2023) - flagged individually as stale rather than dropped, per the recency rule in sources.json.",
+  "note": "Part 1 (Collection) pass, tiers A-C, recorded 2026-09-13 per the consensus-guide skill and data/topics/craft-beer-pubs.json. TIER D ADDED 2026-09-13 in a second pass: 16 YouTube channels via Apify's api-ninja/youtube-search-scraper (four search queries, $0.24 total spend, well under the $1-2 guide and never close to the $5 stop-and-report line), covering all three facets in the topic config - real ale/cask (Tweedy Pubs, Linleys 360, Real Ales Real Pubs), modern craft/keg (The Craft Beer Channel, Vagabrothers), and brewery taprooms (The Spurt Hole, Starstruck by London, Global Food Quest, Eat Play London). Six considered sources were declined (two as tier-F-in-substance self-promotion, four as unreadable under the description/chapter method) - see the declined array. Tier E (Reddit) remains blocked in this environment - any thread must come from the user by hand. Londonist skipped as blocked (see data/sources.json). FLAG FOR BUILD: data/sources.json currently has NO domain entries for london.camra.org.uk or any of the 13 branch subdomains (bexley.camra.org.uk, bromley.camra.org.uk, etc.) - under the registry's own rule ('a domain not listed here is counted as tier C with a warning') every CAMRA citation below would silently score as tier C, not the tier A both the topic config and this file intend for a judged, dated Pub of the Year award. This needs a decision (add the 13 branch domains, or a camra.org.uk wildcard note, to sources.json) before build-evidence.mjs runs on this topic. CAMRA GAPS: East London & City and South West Essex branches were investigated but no current-year branch winner could be found - see the reasoning in each case below; no source record was created for either so an empty-name entry can't inflate a future source count (trap 8). Every other branch's winner is recorded even where it is not the 2026 cycle (Enfield & Barnet: 2025; South West London: 2023) - flagged individually as stale rather than dropped, per the recency rule in sources.json.",
   "recorded": "2026-09-13",
   "sources": [
     {
@@ -450,6 +450,433 @@
         "The Kernel Brewery": "'Curated by MyBeerStops', last updated July 2026. Described as the 'godfather of London craft', serving its 'legendary Export India Porter' at the Bermondsey arch."
       },
       "note": "A single-subject craft-beer travel-guide site covering multiple cities (founder credited as Jules-Pierre Grijoutène), independent of any masthead. Newer/less established than the other sources here and not yet cross-referenced elsewhere in this project - flagged for an editorial gut-check rather than treated as fully vetted, though its 10 named venues are all real, well-known, and correctly located. Domain not currently in data/sources.json; will default to tier C with a warning, matching the tier used here."
+    },
+    {
+      "name": "The Craft Beer Channel",
+      "url": "https://www.youtube.com/@TheCraftBeerChannel",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "Lowlander",
+        "The Dovetail",
+        "Craft Beer Co Old Street",
+        "The Dove",
+        "Beer Merchants Tap",
+        "Anspach & Hobday",
+        "Mikkeller Brewpub London",
+        "Brick Brewery Taproom",
+        "People's Park Tavern",
+        "The King's Arms",
+        "The Stag"
+      ],
+      "quotes": {
+        "Lowlander": "'Beer Log: a crawl of London's best Belgian beer bars' (6 Jun 2018): 'Jonny, the Brad and Mr Hyde's Andrew Dickens walk the five-mile route between London's two best Belgian bars, stopping off at 3 more bangers in between... Lowlander, The Dovetail, Craft Beer Co Old Street, The Dove and the Beer Merchants Tap.'",
+        "The Dovetail": "Same video as Lowlander. Already an independent Secret London citation (Clerkenwell) - corroborated, not double-counted.",
+        "Craft Beer Co Old Street": "Same video as Lowlander. Matches Rebel Atlas's 'Craft Beer Co. Old Street'.",
+        "The Dove": "Same video as Lowlander. FLAG: the Belgian-bar-crawl framing points to the Broadway Market / Hackney 'Dove' known for Belgian beer, not the more famous riverside Dove in Hammersmith - no address given, so left as named rather than resolved.",
+        "Beer Merchants Tap": "Same video as Lowlander. Matches ShortList, Rebel Atlas and MyBeerStops - now the most independently-confirmed single venue in this corpus.",
+        "Anspach & Hobday": "'The brewery taking on Guinness in London!' (25 May 2022) - visits the brewery that makes London Black, a revival of the London Porter style, and tastes it side by side with Guinness. Matches Rebel Atlas's 'Anspach & Hobday - The Arch House'.",
+        "Mikkeller Brewpub London": "'The Cuckoo has landed: touring Mikkeller Brewpub London' (12 Aug 2020) - tour of the East London brewpub with brewer Tom and operations manager Mads. Matches Rebel Atlas's 'Mikkeller Brewpub London' exactly.",
+        "Brick Brewery Taproom": "'Brick Brewery must be London's most underrated brewer' (19 Aug 2020) - tour with founder Ian, tasting with the team, Peckham. Matches Time Out's 'Brick Brewery Taproom'.",
+        "People's Park Tavern": "'Beer Log: A stout & porter crawl of East London' (21 Feb 2018), chapter list. Matches Secret London's 'People's Park Tavern' exactly.",
+        "The King's Arms": "Same East London stout crawl. FLAG - COMMON NAME: at least four other sources in this corpus name a 'King's Arms' / 'Kings Arms' with no address (BrewDog's own chapter list below, Will Hawkes, Rebel Atlas, Travels Unfiltered, and Linleys 360's Southwark tour below), plus one WITH an address (Pubs of London's Bethnal Green Kings Arms, below). All left unmerged rather than assumed to be the same pub.",
+        "The Stag": "'Show us your local: the Stag hampstead' (22 Feb 2015), filmed for Jamie's Drinks Tube's #showusyourlocal campaign for London Beer Week. Independently confirmed by Linleys 360's Hampstead tour, below (Fleet Road / Lawn Road)."
+      },
+      "note": "Hosted by Jonny Garrett and Brad Evans, who also write ShortList's craft beer pieces recorded above as a tier B citation - counted there as ShortList, here as their own channel and publishing imprint ('Beer School' and 'The London Craft Beer Guide', both self-published books), because the two are different publishers and, on the videos read here, name different venues to their ShortList picks (The Hope, The Dog & Bell). Same handling as Shu/@dejashu across Broadsheet and her own channel on the hot pot corpus. 176K subscribers, the most substantial specialist channel found in this pass. Eleven relevant London videos were found across the four search queries run; five yielded no readable venue name and were not used: 'London's best craft brewery taprooms guide' (names its 'four favourite' without saying which), 'Beer Log: 5 London pubs that time forgot' (describes two pubs by riddle rather than naming them), 'British Pub Culture (Keep Cask Alive p11)' (a cultural essay), 'Beer school: what is real ale?' (an explainer), and 'City Guide: best craft beer bars in Manchester' (NOT LONDON - trap 12, excluded outright). No gifted or hosted disclosure found on any video; sponsorship throughout is Patreon and the channel's own book/merch sales."
+    },
+    {
+      "name": "Tweedy Pubs",
+      "url": "https://www.youtube.com/@TweedyPubs",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "Royal Oak, Borough",
+        "Ye Grapes",
+        "Horse and Guardsman",
+        "The Harp",
+        "Chandos",
+        "Ye Olde Mitre",
+        "Wild Swan",
+        "The Sutton Arms",
+        "The Wenlock Arms",
+        "Lemon Tree",
+        "Ship and Shovell",
+        "Red Lion, Duke of York Street",
+        "Chequers",
+        "Red Lion, Crown Passage",
+        "Trafalgar, Merton",
+        "Victoria, Bermondsey",
+        "Chesham Arms",
+        "The Robin Ale and Cider House",
+        "Lamb Tavern",
+        "Old Tom's Bar",
+        "Bunch of Grapes",
+        "Swan, Leadenhall Market",
+        "New Moon"
+      ],
+      "quotes": {
+        "Ye Olde Mitre": "'Searching for MILD in London Pubs' (14 May 2026, CAMRA Mild Month) names it among nine pubs tried for a pint of mild, with a link to its CAMRA WhatPub page; a SEPARATE dedicated video, 'The REAL history Ye Olde Mitre: my favourite London pub' (29 May 2026), is a full history deep-dive on this one pub. Matches ShortList and Secret London's existing 'Ye Olde Mitre' - already distinguished in this corpus from the Barnet 'Ye Olde Mitre Inne'.",
+        "The Wenlock Arms": "From the same Mild video. Matches CAMRA North London's 2026 branch Pub of the Year exactly - independent confirmation, no mention of the award.",
+        "The Sutton Arms": "From the same Mild video, given as 'Sutton Arms, Clerkenwell / Finsbury'. Plausibly the same 'The Sutton Arms' already named by ShortList (no address given there) - left merged under the existing spelling on the strength of the distinctive name, flagged here in case a future pass finds a conflicting address.",
+        "Chesham Arms": "'Best Pubs in London for Cider...?' (5 Jul 2026) - CAMRA East London branch's Cider Pub of the Year. Independently corroborates Real Ale Craft Beer's Hackney mention, below.",
+        "The Robin Ale and Cider House": "Same cider video, given as 'Robin, Crouch Hill' and CAMRA North London branch's Cider Pub of the Year. Matches ShortList's 'The Robin Ale and Cider House' - recorded under ShortList's fuller name.",
+        "Trafalgar, Merton": "Same cider video - CAMRA South West London branch's Cider Pub of the Year (2025 cycle, per the video). FLAG: possibly the same pub as Will Hawkes's plain 'The Trafalgar' (no address given there) - left unmerged, worth checking.",
+        "Victoria, Bermondsey": "Same cider video - CAMRA South East London branch's Cider Pub of the Year. FLAG - COMMON NAME: DesignMyNight already names a bare 'The Victoria' with no location; a THIRD 'The Victoria' is named by Linleys 360's Paddington tour but excluded below as unreliable. All left unmerged.",
+        "Lamb Tavern": "'Pubs of London's Leadenhall Market' (6 Sep 2024), given simply as 'Lamb' at Leadenhall Market. FLAG: very likely the same pub as Will Hawkes's 'Lamb Tavern' (Leadenhall Market's historic tavern is the well-known 'Lamb Tavern') - recorded under Hawkes's fuller name on that strength, though his own quote gives no address to confirm it outright. This is a THIRD, geographically distinct 'Lamb' in the corpus alongside Time Out's Irish pub with live music and Secret London's Chiswick garden pub - none of the three are merged with each other.",
+        "Old Tom's Bar": "Same Leadenhall Market video - named after a locally famous goose who, per the video, 'also enjoyed touring the pubs of Leadenhall Market'.",
+        "Bunch of Grapes": "Same Leadenhall Market video. Location-qualified here as there is a separate, unrelated 'Bunch of Grapes' in Knightsbridge not otherwise in this corpus.",
+        "Swan, Leadenhall Market": "Same Leadenhall Market video. Location-qualified against the common name 'Swan'.",
+        "New Moon": "Same Leadenhall Market video, given as 'New Moon / Half Moon' - recorded under its first name; distinct from Linleys 360's 'The Half Moon' in Stepney Green, below, a different pub entirely."
+      },
+      "note": "A dedicated, meticulously documented real-ale specialist (Warren, single presenter) - every 'Pubs featured' list links straight to the pub's own CAMRA WhatPub/branch page, and several videos are built directly around CAMRA's own award and style categories (Mild Month, area Cider Pub of the Year). No gifted or hosted disclosure on any video. 28.7K subscribers. Five relevant videos read; two more common-name pub mentions not otherwise listed above - 'Harp, Charing Cross' (Mild and Bitter videos) and generic beer/style chapters - were confirmed matches to existing corpus entries rather than new names, so are not repeated in the list above beyond the first."
+    },
+    {
+      "name": "Linleys 360",
+      "url": "https://www.youtube.com/@Linleys",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "The Market Porter",
+        "Holy Tavern",
+        "Crown Tavern",
+        "Three Kings",
+        "The Sekforde",
+        "The Peacock",
+        "The York",
+        "The White Hart, Bethnal Green",
+        "The Blind Beggar",
+        "The Dundee Arms",
+        "The Half Moon, Stepney Green",
+        "The Lord Tredegar",
+        "The Morgan Arms",
+        "The Coborn",
+        "The Bow Bells",
+        "Galvanisers Union",
+        "King William IV",
+        "The George, Rosslyn Hill",
+        "The Stag",
+        "The Garden Gate",
+        "The Magdala",
+        "The Freemasons Arms",
+        "The Wells Tavern",
+        "The Flask",
+        "Prospect of Whitby",
+        "Captain Kidd",
+        "Turners Old Star",
+        "The Craft Beer Pub"
+      ],
+      "quotes": {
+        "The Market Porter": "Southwark and Borough Pub Tour (18 May 2024), the one clean, plausible name out of that video's auto-generated chapter list - the rest ('We Chief', 'The Sou Tavern', 'Tap Top Drop') read as mistranscriptions and were not used. Matches Secret London's 'The Market Porter' exactly.",
+        "Holy Tavern": "Clerkenwell & Angel Pub Tour (28 Jan 2026) - 'Pubs visited and ales sampled': 'Holy Tavern (Red Routemaster by Southwark Brewery)'. Two pubs from the same list are excluded here as not actually experienced: Dame Alice Owen ('closed for a private function') and The Crudough ('didn't stop, no beer of our liking').",
+        "The Peacock": "Same Clerkenwell tour - visited, though the tasting note ('Estrella larger - what??') is a disappointed one; kept for accuracy, same handling as Will Hawkes's mixed notes elsewhere in this corpus.",
+        "The Blind Beggar": "Bow Pub Tour (29 Nov 2023) - 'The Blind Beggar (Bethnal Green) - Atlantic IPA'. Historic pub (the 1966 Ronnie Kray shooting).",
+        "The Half Moon, Stepney Green": "Same Bow tour. Distinct from Tweedy Pubs's 'New Moon' at Leadenhall Market, above - different pub, unrelated name overlap.",
+        "Galvanisers Union": "Same Bow tour, given as 'Galvanister's Union (Bromley by Bow) - Volden Bitter'.",
+        "The Stag": "Hampstead Pub Tour (13 Sep 2023) - 'The Stag - unrecorded (Fleet Road / Lawn Road)'. Independently confirms The Craft Beer Channel's Hampstead video, above.",
+        "The Magdala": "Same Hampstead tour - 'The Magdala - Sussex: Best Bitter (South Hill Park)'. FLAG: CAMRA North London's record above notes The Magdala as the BRANCH'S 2025 Pub of the Year winner but explicitly not counted as a citation there (context only). This is its first real citation in the corpus - an independent visit and tasting note, not a report of the award.",
+        "The Flask": "Same Hampstead tour - 'The Flask: Young's London Original Bitter (Flask Walk, Hampstead)'.",
+        "Prospect of Whitby": "Limehouse, Wapping and around (7 Jun 2023), chapter list. Matches Travels Unfiltered's 'The Prospect', below, under its full name.",
+        "The Craft Beer Pub": "Same Limehouse/Wapping tour, chapter title as given. Lower confidence than the channel's clean bulleted lists - this video had auto-generated chapters only, though this entry (unlike the Paddington video, excluded entirely) reads as plausible and specific rather than nonsensical."
+      },
+      "note": "Warren and Neil's ongoing area-by-area real-ale walking tour series - six London-area videos found, each with a clear description of pubs visited and (usually) the exact beer poured. One video, the Paddington Pub Tour, was found and EXCLUDED entirely: it carries only YouTube's auto-generated chapters, several of which are nonsensical ('Big M', 'Wild Table of Love', 'Northfork Square' for what is almost certainly Norfolk Square) alongside a few plausible names ('The Victoria', 'The Heron', 'The Royal Exchange') that could not be told apart from the noise with confidence - none used, per 'never record a name you can't actually read'. No gifted or hosted disclosure on any video; monetisation is subscriber-only, no sponsor mentioned. 4.38K subscribers."
+    },
+    {
+      "name": "Real Ales Real Pubs",
+      "url": "https://www.youtube.com/@RealAlesRealPubs",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "Nags Head",
+        "Grenadier",
+        "Horse & Groom",
+        "Plumbers Arms",
+        "Fox & Hounds",
+        "Antelope, Belgravia",
+        "Star Tavern"
+      ],
+      "quotes": {
+        "Antelope, Belgravia": "'Drinking In London's POSHEST Boroughs! - Belgravia Pub Crawl' (7 Feb 2025) - 'Pubs Visited' list, all seven pubs named with no ambiguity. FLAG - COMMON NAME: this is a THIRD 'Antelope' in the corpus, after Kingston & Leatherhead CAMRA's 2026 joint winner and Rebel Atlas's Tooting pick - Belgravia, Kingston and Tooting are three different parts of London, so all three are kept apart rather than merged.",
+        "Star Tavern": "Same crawl - marked in the video as a Good Beer Guide (GBG) listed pub, like Fox & Hounds and Antelope above."
+      },
+      "note": "A dedicated real-ale vlogger (105,860 views on this one crawl, the second-highest in this pass after DW Food) explicitly building crawls around a mix of CAMRA Good Beer Guide and non-GBG pubs; links to the CAMRA London Drinker article that inspired the route. No gifted or hosted disclosure; monetised via Buy Me a Coffee only. 16.1K subscribers."
+    },
+    {
+      "name": "The Spurt Hole",
+      "url": "https://www.youtube.com/@SpurtHole",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "The Kernel",
+        "Mash Paddle Brewery",
+        "Enid St Tavern",
+        "Craft Beer Junction",
+        "Bianca Road Brewery",
+        "Cloudwater",
+        "Gosnells",
+        "Moor Beer",
+        "Dutch Taproom",
+        "Anspach & Hobday",
+        "Hiver",
+        "Billy Frank's Craft Beer & Snack Shack",
+        "The Beer Project",
+        "Kanpai Taproom & Kitchen"
+      ],
+      "quotes": {
+        "The Kernel": "'Best Beery London Bar Crawl! | Bermondsey Beer Mile' (16 Oct 2025) - 'If I had to rank all of the bars that we hit up, The Kernel at the Bermondsey end would be right at the top.' Matches MyBeerStops's and Rebel Atlas's existing 'The Kernel' citations.",
+        "Cloudwater": "Same video. Matches Time Out's 'Cloudwater London'.",
+        "Anspach & Hobday": "Same video, chapter-listed at 9:51. Matches the existing Rebel Atlas and Craft Beer Channel citations, above.",
+        "Hiver": "Same video, chapter-listed at 10:29. Matches Time Out's 'Hiver Beers and Taproom'.",
+        "Dutch Taproom": "Same video, described in prose as 'It Ain't Much If It Ain't Dutch' and chapter-titled accordingly - recorded under the plainer name Starstruck by London uses for the same stop, below."
+      },
+      "note": "A named, dated (Oct 2025) walking/staggering vlog of the Bermondsey Beer Mile with a full timestamped stop list. Maltby Street Market, one of the 15 chaptered stops, is excluded here as a market rather than a single venue, matching this project's rule for food halls and market stalls. No gifted or hosted disclosure. 3.64K subscribers."
+    },
+    {
+      "name": "Starstruck by London",
+      "url": "https://www.youtube.com/@StarstruckByLondon",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "The Kernel",
+        "Craft Beer Junction",
+        "Cloudwater",
+        "Dutch Taproom",
+        "Anspach & Hobday",
+        "The Barrel Project",
+        "Southwark Brewing Co"
+      ],
+      "quotes": {
+        "The Barrel Project": "'The Bermondsey Beer Mile's Top Stops' (28 Jan 2025), timestamped stop list, 'My Top 3' at the end. Matches Rebel Atlas's 'The Barrel Project'.",
+        "Southwark Brewing Co": "Same video. Matches Rebel Atlas's 'Southwark Brewing Company'."
+      },
+      "note": "A second, independent Bermondsey Beer Mile stop-list video, published three months before The Spurt Hole's - the two overlap heavily (Kernel, Craft Beer Junction, Cloudwater, Dutch Taproom, Anspach & Hobday all named by both, independently), which is itself useful corroboration of the beer mile's core stops. No gifted or hosted disclosure. 3.69K subscribers."
+    },
+    {
+      "name": "Vagabrothers",
+      "url": "https://www.youtube.com/@vagabrothers",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "Royal Albert Pub",
+        "Meantime Brewing Co",
+        "Anspach & Hobday",
+        "CRATE Brewery"
+      ],
+      "quotes": {
+        "Royal Albert Pub": "'Craft Beer Pubs of London' (15 Jul 2014) - 'Check out the places we visited: Royal Albert Pub, Meantime Brewing Co, Anspach & Hobday, CRATE Brewery.'",
+        "Meantime Brewing Co": "Same video. Independently confirmed by Eat Play London's '10 LONDON BREWERIES', below.",
+        "CRATE Brewery": "Same video. Matches MyBeerStops's existing 'CRATE Brewery'."
+      },
+      "note": "FLAG: the video itself says 'We meet up with Jonny from the Craft Beer Channel [who] takes us on a pub crawl' - all four venues are Jonny Garrett's picks, not Vagabrothers' own independent discovery. Counted here anyway as Vagabrothers (1.12M subscribers, a large and clearly independent global travel channel with its own editorial judgement to feature this content) rather than folded into The Craft Beer Channel's own record, but the curatorial credit is surfaced rather than hidden - a reader should treat this as one opinion (Jonny's) reaching the corpus twice, once under each channel, not two independent discoveries of the same four venues."
+    },
+    {
+      "name": "The City Guru",
+      "url": "https://www.youtube.com/@thecitygurutravel",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "The Royal Sovereign",
+        "The Dukes Head",
+        "Craft Beer Co Brixton",
+        "The Owl and Pussycat",
+        "The Juniper",
+        "The Houston Tap",
+        "The Ax",
+        "The Old Red Cow",
+        "Brewdog Shoreditch",
+        "Pembury Tavern"
+      ],
+      "quotes": {
+        "The Royal Sovereign": "'The ULTIMATE Guide to London's Top 10 Craft Beer Pubs' (14 May 2023), chapter list, 0:25. The description's own 'Keywords' line spells this 'The Sovereign'.",
+        "Brewdog Shoreditch": "Same video, chapter-listed 3:35. Matches Rebel Atlas's 'BrewDog Shoreditch'.",
+        "Pembury Tavern": "Same video, chapter-listed 4:12 as 'pembury Tavern'. Matches the existing 'The Pembury Tavern' citations (Time Out, Rebel Atlas, Will Hawkes)."
+      },
+      "note": "A single ranked-format video (auto-generated chapters, but all ten read as plausible, specific pub names with no nonsense entries, unlike some auto-chapter lists elsewhere in this pass). 3.88K subscribers. No gifted or hosted disclosure."
+    },
+    {
+      "name": "Global Food Quest",
+      "url": "https://www.youtube.com/@globalfoodquestTV",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "Two Tribes Brewing",
+        "Hammerton Brewery"
+      ],
+      "quotes": {
+        "Two Tribes Brewing": "'Craft Beer in North London' (14 Jul 2020) - 'a taproom just off North London's Caledonia road... master brewer Christoffer Tuominen', founded by DJ Justin Deighton and Niki in 2015.",
+        "Hammerton Brewery": "Same video - 'a proud brewing heritage stretching back to 1868... Lee Hammerton decided to bring back the family brewing name' in Islington, 2014."
+      },
+      "note": "Episode 9 of an 'On The Road' series (host Jamie Kristian) with real, dated, specific detail on each brewery - evidence of an actual visit rather than template copy. No gifted or hosted disclosure. 5.57K subscribers."
+    },
+    {
+      "name": "Pubs of London",
+      "url": "https://www.youtube.com/@PubsofLondon",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "The Kings Arms, Bethnal Green"
+      ],
+      "quotes": {
+        "The Kings Arms, Bethnal Green": "'Finally On Tap In A London Pub..Is It The World's Best Lager?' (24 Jun 2026) - '📍 The Kings Arms, 11a Buckfast Street Bethnal Green, London... one of the first pubs in Britain to install Augustiner on tap... one of East London's most impressive beer pubs.' The only 'Kings Arms' mention in this corpus with a full street address - recorded distinctly from the several other unaddressed 'King's Arms'/'Kings Arms' mentions above, none of which are assumed to be this one."
+      },
+      "note": "FLAG - VIDEO FOUND BUT NOT USED: this channel's other relevant video, 'We Visited 33 London Pubs – These 10 Were the Best (2025)' (26 Dec 2025, 27,898 views, explicitly 'not sponsored'), names none of its ten pubs in the description or chapters - the list exists only in the video itself. Per this pass's method (description and chapters, not the transcript), it could not be used; worth a manual watch, since the channel's other video shows real, specific, unsponsored pub knowledge. No gifted or hosted disclosure on either video. 1.38K subscribers."
+    },
+    {
+      "name": "Travels Unfiltered",
+      "url": "https://www.youtube.com/@TravelsUnfiltered",
+      "scope": "craft-beer-pubs",
+      "ranked": true,
+      "names": [
+        "The Seven Stars",
+        "The Selkirk",
+        "The King's Arms",
+        "The George Tavern",
+        "The Coach & Horses",
+        "The Mayflower Pub",
+        "The George Inn",
+        "Prospect of Whitby",
+        "The Lamb & Flag",
+        "The Spaniards Inn"
+      ],
+      "quotes": {
+        "The Seven Stars": "'10 HISTORIC London Pubs You Need to Visit' (1 Jan 2025) - ranked #1 of 10, Carey Street, Holborn.",
+        "The King's Arms": "Ranked #3 of 10, no address given. FLAG - COMMON NAME: yet another unaddressed 'King's Arms'/'Kings Arms', see the flag on The Craft Beer Channel's entry above.",
+        "The Coach & Horses": "Ranked #5 of 10, no address given. FLAG - COMMON NAME: 'Coach and Horses' is one of the most repeated pub names in London; a DW Food video (below, not counted) separately features a 'Coach & Horses' as an interview location with no address either - left unmerged, may or may not be the same pub.",
+        "Prospect of Whitby": "Ranked #8 of 10. Matches Linleys 360's 'Prospect of Whitby', above (Linleys' chapter title shortens it to 'The Prospect')."
+      },
+      "note": "Ranked #10 to #1, order preserved per the counting rule. Agency-produced (credits list a separate project manager, researcher, script writer, voice-over artist, editor and thumbnail designer) rather than a single hobbyist's channel, and monetised through unrelated hotel/itinerary affiliate links - surfaced here rather than hidden, though none of it touches the specific pubs named, so the paid-placement rule is not triggered (same handling as a channel sponsor elsewhere in this corpus). All ten pubs are real, well-known, correctly named historic London houses. 16.2K subscribers."
+    },
+    {
+      "name": "Eat Play London",
+      "url": "https://www.youtube.com/@eatplaylondon",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "Portobello Brewing Company",
+        "Meantime Brewing Co",
+        "Gorgeous Brewery",
+        "Orbit Brewery"
+      ],
+      "quotes": {
+        "Portobello Brewing Company": "'10 LONDON BREWERIES' (28 Jun 2020) - 'brew beer on The Westway... they also run Hack and Hop and King and Co pubs.'",
+        "Meantime Brewing Co": "Same video - 'in Greenwich where they have a brewery and visitor centre, they also own the Greenwich Union Pub.' Independently confirmed by Vagabrothers's 'Meantime Brewing Co', above.",
+        "Gorgeous Brewery": "Same video - 'a family run brewery in Highgate. You can head to The Bull in Highgate to taste the beer.'",
+        "Orbit Brewery": "Same video - 'based in Walworth.'"
+      },
+      "note": "Ten breweries covered in total; six are excluded here as re-confirmations already carried under their own names elsewhere in this corpus (Anspach & Hobday, Wimbledon Brewery, Brixton Brewery, Brick Brewery, Camden Town Brewery, Beavertown, the last matching MyBeerStops's 'Beavertown Brewery Tap'). The four listed above are the genuinely new venues this source adds. No gifted or hosted disclosure - each brewery gets an even-handed one-paragraph writeup with a shop link. 278 subscribers."
+    },
+    {
+      "name": "London Pub Guide",
+      "url": "https://www.youtube.com/@londonpubguide4517",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "The Eagle, West London"
+      ],
+      "quotes": {
+        "The Eagle, West London": "'London Pub Guide. The Eagle. One of the best pubs in London. Vlog #12' (20 Apr 2018) - 'People often complain that West London doesn't really have great pubs but I just think you need to know where to look... fantastic lager [from] two beautiful copper tanks... The cask beer is varied, interesting and delicious too.' FLAG - COMMON NAME: location-qualified against the much more famous Eagle gastropub in Clerkenwell/Farringdon, which this explicitly is not."
+      },
+      "note": "A small (152 subscriber) hobbyist vlog series, several years dormant. Its other relevant video, 'The Best Pubs in London', names no specific pub in its description - general channel intro only, not used. No gifted or hosted disclosure."
+    },
+    {
+      "name": "1 Minute Walks",
+      "url": "https://www.youtube.com/@1minutewalks325",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "Euston Tap",
+        "The Draft House Goodge St",
+        "BrewDog Soho",
+        "The Lyric, Great Windmill Street",
+        "The Harp, Chandos Place",
+        "The Craft Beer Co. Covent Garden"
+      ],
+      "quotes": {
+        "Euston Tap": "'Craft Beer Pub Crawl - Central London' (12 Apr 2017) - 'Featured Craft Beer Pubs: Euston Tap, The Draft House Goodge St, BrewDog Soho, The Lyric Great Windmill Street, The Harp, Chandos Place, The Craft Beer Co. Covent Garden.' Matches ShortList and Secret London's existing 'Euston Tap'.",
+        "BrewDog Soho": "Same route. Matches Rebel Atlas's 'BrewDog Soho'.",
+        "The Lyric, Great Windmill Street": "Same route. Matches Rebel Atlas's 'The Lyric Soho' (37 Great Windmill Street) and West London CAMRA's runner-up 'The Lyric (Soho)' - now a third independent confirmation of this address.",
+        "The Harp, Chandos Place": "Same route. Matches the corpus's several existing 'The Harp' citations.",
+        "The Craft Beer Co. Covent Garden": "Same route. Matches Rebel Atlas's 'The Craft Beer Co. Covent Garden' exactly."
+      },
+      "note": "A self-guided walking-tour company (1minutewalks.com) rather than a personal channel; the route is a commercial product, but none of the six pubs has any disclosed financial relationship with it, so the paid-placement rule is not triggered. Every venue this source names was already independently known to the corpus - recorded for the corroboration value (it strengthens the citation count on five already-strong venues) rather than for new names. 51 subscribers."
+    },
+    {
+      "name": "Explore by the Glass",
+      "url": "https://www.youtube.com/@ExplorebytheGlass",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "Old Street Brewery & Taproom"
+      ],
+      "quotes": {
+        "Old Street Brewery & Taproom": "'Spotlight: Old Street Brewery & Taproom' (12 Oct 2018) - 'one of the newest and most interesting brewers in the city with an interesting environment and some delicious brews.'"
+      },
+      "note": "A small (924 subscriber) but genuine dedicated beer-review 'Spotlight' series, one venue per episode; only this one episode surfaced as relevant to London craft beer. No gifted or hosted disclosure - the venue's own site is linked as a 'featured place', standard practice for a review, not a sponsorship marker."
+    },
+    {
+      "name": "Real Ale Craft Beer",
+      "url": "https://www.youtube.com/@realaleguide",
+      "scope": "craft-beer-pubs",
+      "ranked": false,
+      "names": [
+        "Chesham Arms",
+        "The Pembury Tavern",
+        "People's Park Tavern",
+        "Sebright Arms",
+        "The Spread Eagle, Hackney",
+        "Royal Oak, Hackney",
+        "The Cock Tavern, Hackney",
+        "The Globe, Hackney",
+        "Dublin Castle",
+        "The Hawley Arms",
+        "The Elephants Head",
+        "3 Locks Brewery & Tap Room",
+        "The Black Heart, Camden",
+        "Ice Wharf",
+        "The Engineer",
+        "Quinn's",
+        "Blues Kitchen",
+        "The Dark Horse, Camden Town"
+      ],
+      "quotes": {
+        "Chesham Arms": "'The Brewery's Bars & Pubs Of Hackney London' (31 Jan 2025). Independently corroborates Tweedy Pubs's 'Chesham Arms', above.",
+        "The Cock Tavern, Hackney": "Same video. Matches Time Out's already-flagged, address-uncertain 'The Cock Tavern'.",
+        "The Dark Horse, Camden Town": "'The Pubs Bars & Breweries Of Camden Town London' (25 Jun 2025). FLAG - COMMON NAME: shares a name with CAMRA Croydon & Sutton's 2026 branch Pub of the Year, 'The Dark Horse' in Selhurst - clearly a different pub given the boroughs involved, location-qualified here to keep them apart.",
+        "3 Locks Brewery & Tap Room": "Same Camden video. Matches Rebel Atlas's '3 Locks Brewery'.",
+        "The Black Heart, Camden": "Same Camden video. Matches Rebel Atlas's 'The Black Heart'."
+      },
+      "note": "FLAG ON METHOD: both videos' descriptions are SEO keyword lists (30-50 comma-separated terms, most pub names given twice - once bare, once suffixed with the area, e.g. 'Chesham Arms, Chesham Arms Hackney') rather than a narrated visit list, unlike every other source in this pass. This is lower-confidence than a clean 'pubs visited' list: it is not certain every named pub actually appears in the video versus being tagged for search reach. Only the clearest, most specific, unambiguous real pub names were recorded above (18 of roughly 45 raw terms across both videos); the rest - mostly exact duplicates of the names above with 'Hackney'/'Camden Town' appended, plus a handful of single-word fragments ('Wetherspoons', 'Best Pubs In London') - were not. #RealAleGuide #SimonMartinBeer in the video tags suggests a presenter named Simon Martin; not otherwise confirmed. 94.5K subscribers, no gifted or hosted disclosure found in either description."
+    }
+  ],
+  "declined": [
+    {
+      "name": "BrewDog (YouTube) - The BEST Bars to Visit in London, UK & Cognac, France",
+      "url": "https://www.youtube.com/@BrewDogOfficial",
+      "why": "The brand's own corporate channel (48.2K subscribers). Tier F in substance whatever it recommends - a company's own channel recommending bars, even other people's, is not an independent opinion, the same reasoning that excludes Chinatown London's channel on the hot pot corpus. Its chapter list did name several real, otherwise-uncited bars (La Fine Mousse, Stormbird, The Experiment) worth a human revisiting from an independent source."
+    },
+    {
+      "name": "Secret Food Tours (YouTube) - Craft Beer Tour: London",
+      "url": "https://www.youtube.com/@SecretFoodTours",
+      "why": "Advertising the company's own paid tour product ('Let our experienced tour guide take you to the best craft beer spots'). No specific venue named in the description. Not counted."
+    },
+    {
+      "name": "Flamin Galah Brewing Co (YouTube) - Aussie Brewer on Tour - Craft Beer London",
+      "url": "https://www.youtube.com/@flamingalahbrewingco",
+      "why": "Run by the owners of an Australian brewery touring London's breweries as industry peers, not as independent reviewers - borderline insider content. Every venue named (Cloudwater, Bianca Road, The Kernel, Anspach & Hobday, Howling Hops, Beer Merchants Tap, Hackney Church Brew Co) is already independently confirmed elsewhere in this corpus, so nothing is lost by leaving it out."
+    },
+    {
+      "name": "The Great British Pub Crawl (YouTube) - A Mega Pub Crawl Around Covent Garden",
+      "url": "https://www.youtube.com/@thegreatbritishpubcrawl",
+      "why": "EXTRACTION FAILED, NOT COUNTED. A dedicated 35.6K-subscriber pub crawl channel, but this video's description carries no venue list (117 characters, scene-setting only) and there are no chapters. Worth a manual watch - not used under this pass's description/chapter-first method."
+    },
+    {
+      "name": "Pubs of London (YouTube) - We Visited 33 London Pubs – These 10 Were the Best (2025)",
+      "url": "https://www.youtube.com/@PubsofLondon",
+      "why": "EXTRACTION FAILED, NOT COUNTED. Explicitly 'not sponsored' and clearly on-topic (27,898 views, Dec 2025), but names none of its ten pubs in the description or chapters. The same channel's other video is counted above under its own address-qualified citation."
+    },
+    {
+      "name": "DW Food (YouTube) - How to enjoy a British pub | Cheers & Chats Ep. 2",
+      "url": "https://www.youtube.com/@DWFood",
+      "why": "The one venue named, 'the Coach & Horses in London', is used as an interview backdrop for a general pub-etiquette explainer (Deutsche Welle's food brand) rather than recommended for craft beer, and the name is too common to place with confidence - a differently-addressed 'The Coach & Horses' is already flagged as ambiguous under Travels Unfiltered, above. Not counted."
     }
   ]
 }
