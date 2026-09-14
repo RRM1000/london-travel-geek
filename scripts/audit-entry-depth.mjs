@@ -90,12 +90,22 @@ const measureAll = args.includes("--all");
 // No trailing word boundary: \\bscone\\b does not match "scones".
 const FOOD = /\b(?:(?:bacon|sausage|pancake|waffle|scone|granola|porridge|omelette|benedict|black pudding|crumpet|marmalade|preserve|clotted cream|fry-up|full english|full irish|gravy|yorkshire|pasty|bubble and squeak|bread|brioche|croissant|pastr|viennoiserie|patisserie|danish|muffin|doughnut|cookie|biscuit|sourdough|babka|cannoli|gelato|ice cream|sorbet|custard|pudding|pizza|pasta|ragu|cacio|carbonara|risotto|focaccia|burrata|mozzarella|margherita|tiramisu|gnocchi|lasagne|antipasti|steak|brisket|sirloin|ribeye|kebab|kofte|kofta|adana|shish|skewer|charcoal|ocakbasi|sweetbread|chicken|lamb|beef|pork|duck|quail|burger|sandwich|sando|butty|shawarma|doner|tantuni|lahmacun|pide|gozleme|meze|mezze|hummus|labneh|labaneh|falafel|flatbread|pitta|pita|dumpling|dim sum|har gau|har gow|siu mai|cheung fun|noodle|noodl|ramen|udon|soba|curry|curri|biryani|dosa|naan|tandoor|masala|paneer|samosa|sushi|sashimi|omakase|tempura|katsu|yakitori|kimchi|bibimbap|bulgogi|banchan|tteok|laksa|satay|rendang|congee|xiao long bao|mapo|sichuan|wonton|spring roll|jianbing|chawanmushi|tapas|jamon|croqueta|paella|tortilla|pintxo|petisco|presunto|bacalhau|pastel de nata|pasteis de nata|piri|francesinha|taco|quesadilla|mole|ceviche|guacamole|tostada|oyster|lobster|prawn|scallop|mussel|haddock|turbot|mackerel|anchov|fish|coffee|espresso|flat white|filter|matcha|chocolate|cocoa|ganache|truffle|marshmallow|praline|churro|cocktail|martini|negroni|sharing plates|small plates|tasting menu)|(?:pho|dal|daal|bao|rib|chop|ale|tea|dish|plate|pie|bun|cod|crab|menu|pub food|pub fare|bar snack|kitchen|carvery|ploughman|hash|mash|chip|roast|grill|liver|beer|wine|pint|toast|egg|cake|loaf|tart)s?\b)/i;
 
+// A callout that opens on a raw <a href="...">Anchor</a> or a > blockquote
+// was being discarded whole - prose and all - because the check only looked
+// at the first character. cambridge-day-trip's GetYourGuide paragraphs and
+// london-street-art's "> ⚠️ Gone." callouts are 50-100 real words each,
+// scored as 0. Only genuine block-level embeds (a GetYourGuide <div>, a raw
+// <table>) have nothing worth reading; an inline tag or a blockquote marker
+// is stripped instead of used as an excuse to skip the line.
+const stripTags = (s) =>
+  s.replace(/<[^>]+>/g, " ").replace(/^\s*>+\s?/, "");
+
 const isChrome = (t) => {
   const s = t.trim();
   if (!s) return true;
   if (/^!\[/.test(s)) return true;                    // image
-  if (/^<[a-z]/i.test(s)) return true;                // embed
-  if (/^[>|]/.test(s)) return true;                   // callout or table
+  if (/^<(?:div|iframe|script|style|figure|table|img)\b/i.test(s)) return true; // block embed
+  if (/^\|/.test(s)) return true;                     // table row
   if (/^-{3,}$/.test(s)) return true;                 // rule
   if (/^\*[^*]+\*$/.test(s) && s.length < 170) return true; // meta or caption
   return false;
@@ -179,9 +189,10 @@ for (const f of files) {
       const t = lines[j];
       body.push(t);
       if (isChrome(t)) continue;
-      w += t.split(/\s+/).filter(Boolean).length;
+      const clean = stripTags(t);
+      w += clean.split(/\s+/).filter(Boolean).length;
       // A named dish is usually bolded or carries a food noun.
-      if (/\*\*[^*]+\*\*/.test(t)) hasDish = true;
+      if (/\*\*[^*]+\*\*/.test(clean)) hasDish = true;
       // £ inside the  group could never fire: a space before "£5" is not a
       // word boundary, so the one fact this check names in its own error
       // message - price - was undetectable. Split out, and "opening" added
@@ -193,13 +204,13 @@ for (const f of files) {
       //
       // A bare time range is the other shape: "Mon-Wed 3-9.30pm" carries no
       // keyword at all but is unambiguously the fact this check is looking for.
-      if (/\b(book|booking|reservations?|queue|walk-in|cash|opens?|opening|closed|until|from \d|per head)\b/i.test(t)
-          || /£\d/.test(t)
-          || /\d(\.\d{2})?\s*(am|pm)\s*[-–—]\s*\d/i.test(t)
-          || /\b(mon|tue|wed|thu|fri|sat|sun)[a-z]*\s*[-–—]\s*(mon|tue|wed|thu|fri|sat|sun)/i.test(t)) hasPractical = true;
+      if (/\b(book|booking|reservations?|queue|walk-in|cash|opens?|opening|closed|until|from \d|per head)\b/i.test(clean)
+          || /£\d/.test(clean)
+          || /\d(\.\d{2})?\s*(am|pm)\s*[-–—]\s*\d/i.test(clean)
+          || /\b(mon|tue|wed|thu|fri|sat|sun)[a-z]*\s*[-–—]\s*(mon|tue|wed|thu|fri|sat|sun)/i.test(clean)) hasPractical = true;
       // NAME THE FOOD. Word count alone let an entry run to 117 words about which
       // sources cited a place while never saying what you eat there.
-      if (FOOD.test(t)) hasFood = true;
+      if (FOOD.test(clean)) hasFood = true;
     }
     // A CROSS-REFERENCE IS SUPPOSED TO BE SHORT. The skill's later sections
     // name a venue, give one line and point up to the fuller entry, precisely

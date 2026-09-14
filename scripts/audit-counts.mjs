@@ -36,6 +36,10 @@ const SUBSET = {
     n: 13,
     why: "each itinerary is an ## of its own; the two ### are stops inside the museums day",
   },
+  "windowless-hotel-rooms-london": {
+    n: 6,
+    why: "chains, not properties; 3 of the 14 ### cover several addresses each under one operator",
+  },
 };
 
 const DIR = "src/content/articles";
@@ -62,8 +66,16 @@ for (const f of fs.readdirSync(DIR).filter((x) => x.endsWith(".md"))) {
       const n = Number(m[1]);
       const word = m[2];
       if (n < 3 || n > 200) continue;
-      if (/^(hour|hours|minute|minutes|am|pm|st|nd|rd|th)$/i.test(word)) continue;
-      if (/£|\$/.test(text.slice(Math.max(0, m.index - 1), m.index + 1))) continue;
+      if (/^(hour|hours|minute|minutes|am|pm|st|nd|rd|th|star|stars)$/i.test(word)) continue;
+      // A price's fractional half reads as a bare count - "£10.70 Southern"
+      // matches "70 Southern" exactly as a real "70 Somethings" would. Walk
+      // back over the digit run (and any decimal point or thousands comma)
+      // to the character that actually precedes the number, rather than
+      // looking only one character back, which lands on the "." and never
+      // reaches the "£" a few characters further out.
+      let back = m.index;
+      while (back > 0 && /[\d.,]/.test(text[back - 1])) back--;
+      if (/[£$]/.test(text[back - 1] ?? "")) continue;
       candidates.push(n);
     }
 
