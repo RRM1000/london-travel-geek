@@ -175,7 +175,7 @@ Also free, and often missed: the **deer in The Wilderness** — a herd has been 
 *Inside the Foot Tunnel. Opened in 1902, free, and open at all hours.*
 
 ### Greenwich Peninsula and North Greenwich
-Two miles north, and a different world from the Maritime Greenwich end of the peninsula — modern, arena-scale, and built around The O2 rather than around history.
+Two miles north, and a different world from the Maritime Greenwich end of the peninsula — modern, arena-scale, and built around The O2 rather than around history. Match-day and event-night transport are in our [O2 travel guide](/articles/the-o2-travel-guide/).
 
 ![The O2's white dome and yellow support masts seen from across the Thames at dusk, with an Uber Boat by Thames Clippers moored in front](../../assets/articles/greenwich-area-guide/o2-dusk-river.jpg)
 

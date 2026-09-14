@@ -83,7 +83,7 @@ Stratford has its own share of the commemorative plaques marking where notable p
 1. **Queen Elizabeth Olympic Park** — 560 acres, free and open daily. Waterways, wildflower meadows, play areas and the River Lea running through it.
 2. **ArcelorMittal Orbit and The Slide** — Anish Kapoor's 114-metre sculpture, the tallest in Britain, with Carsten Höller's 178-metre tunnel slide wrapped around it. Forty seconds, and the longest slide in the world. Ticketed, with height limits.
 3. **London Aquatics Centre** — Zaha Hadid's wave-roofed building. You can swim in the Olympic pool for the price of an ordinary session, which is the best-value thing in Stratford.
-4. **London Stadium** — Now West Ham's ground, with tours on non-event days including the pitch and the dressing rooms.
+4. **London Stadium** — Now West Ham's ground, with tours on non-event days including the pitch and the dressing rooms. Match-day transport and parking are in our [London Stadium guide](/articles/london-stadium-travel-guide/).
 5. **East Bank** — The cultural quarter: V&A East, Sadler's Wells East, BBC Music and university campuses, opening in stages.
 6. **Lee Valley VeloPark** — The Olympic velodrome, open for taster sessions on the boards, plus BMX and mountain bike tracks.
 7. **Hackney Wick and the canal** — West across the water. Warehouse studios and canal-side breweries, twenty minutes on foot.

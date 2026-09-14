@@ -72,7 +72,7 @@ It ran test events at half capacity in April 2024 and has been trading normally 
 
 It is an arena, and it behaves like one: the sound is competent rather than special, the upper tiers are a long way from the stage, and the seated blocks at the very back are worth avoiding if the tour is one you actually care about. What it does well is scale — this is where you see the acts that cannot play anywhere smaller.
 
-**Getting out is the part to plan.** Twenty thousand people leave at once into one Jubilee line station; wait twenty minutes in the bars rather than joining it, or walk to the Thames Clipper pier. **Up at The O2** lets you climb over the roof on a walkway, sold separately from any gig.
+**Getting out is the part to plan.** Twenty thousand people leave at once into one Jubilee line station; wait twenty minutes in the bars rather than joining it, or walk to the Thames Clipper pier. **Up at The O2** lets you climb over the roof on a walkway, sold separately from any gig. More on getting there and away in our [O2 travel guide](/articles/the-o2-travel-guide/).
 
 ### Eventim Apollo, Hammersmith
 

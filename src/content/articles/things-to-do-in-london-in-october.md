@@ -133,7 +133,7 @@ A city-wide programme of selling exhibitions, auctions, lectures and museum even
 | Sunday 11 October | Philadelphia Eagles v Jacksonville Jaguars | Tottenham Hotspur Stadium |
 | Sunday 18 October | Houston Texans v Jacksonville Jaguars | Wembley Stadium |
 
-The Jaguars play London twice, a week apart, at two different stadiums.
+The Jaguars play London twice, a week apart, at two different stadiums. Match-day transport and parking for the Tottenham Hotspur Stadium games are in our [Tottenham Hotspur Stadium guide](/articles/tottenham-hotspur-stadium-travel-guide/).
 
 **England play Czechia at Wembley on Tuesday 6 October**, a midweek Nations League match two days after the first NFL game.
 
