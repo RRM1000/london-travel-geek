@@ -119,7 +119,14 @@
     "phlexpresents.com",
     "hampsteadvillagelondon.com",
     "bobalista.com",
-    "reviewbritain.com"
+    "reviewbritain.com",
+    "mandysadventureworld.com",
+    "goexplorelondon.com",
+    "roomhawk.app",
+    "roomhawk.com",
+    "westlondontimes.co.uk",
+    "bettercities.net",
+    "dyme.earth"
   ],
   "domains": {
     "thegoodfoodguide.co.uk": {
@@ -1883,6 +1890,36 @@
       "tier": "B",
       "name": "International Traveller",
       "note": "Australian travel magazine; UK lists are national, scope to London."
+    },
+    "santorinidave.com": {
+      "tier": "C",
+      "name": "Santorini Dave",
+      "note": "Hotel-selection blog (named family travellers); already cited in several area hotel corpora. Mixed-price guides - count only picks labelled budget/value. hotels-budget outer pass, 14 Sep 2026."
+    },
+    "the-frugality.com": {
+      "tier": "C",
+      "name": "The Frugality",
+      "note": "Human lifestyle blog (sporadic archive since 2019). hotels-budget, 14 Sep 2026."
+    },
+    "footballgroundguide.com": {
+      "tier": "C",
+      "name": "Football Ground Guide",
+      "note": "Football-ground specialist, now carrying gambling-affiliate content; its event where-to-stay pages are desk-written. hotels-budget outer pass, 14 Sep 2026."
+    },
+    "flyctory.com": {
+      "tier": "C",
+      "name": "Flyctory",
+      "note": "Florian Buechting's travel and music blog; single-hotel reviews at every price, first-hand. hotels-budget, 14 Sep 2026."
+    },
+    "mini-adventures.com": {
+      "tier": "C",
+      "name": "Mini Adventures",
+      "note": "Milly's UK travel blog. hotels-budget outer pass, 14 Sep 2026."
+    },
+    "youtube.com/@SilentHotelReviewer": {
+      "tier": "D",
+      "name": "Silent Hotel & Travel Reviewer",
+      "note": "No-talking walkthrough reviews of cheap London hotels, prices paid in every description, no hosted disclosures. Records only 'Good' verdicts or better. hotels-budget outer pass, 14 Sep 2026."
     }
   },
   "excludedWhy": {
@@ -1895,6 +1932,13 @@
     "europeancoffeetrip.com": "A DIRECTORY, not a selection. Its London page carries 204 cafes - close to every specialty coffee shop in the city - so it expresses no preference and naming a venue costs it nothing. Recording it would hand a citation to almost every venue in the corpus, and \"named by two sources\" would come to mean \"in the directory, plus one real list\". The same reasoning that bars a search-results page bars this.",
     "thatsup.co.uk": "On the excluded list since the SERP-first rebuild, with the aggregators. Reason not recorded at the time; the company it keeps - OpenTable, TripAdvisor, Yelp, Viator, Klook - says listings-led rather than edited.",
     "lamplitlondon.com": "AI SEO FARM (data/reference/hotel-corpus.md, 9 Sep 2026): 'The Lamplit Editors' desk byline, every guide the same 4-7 item length, raw keyword slugs beside written titles, complete grid coverage. Registered tier C by mistake; moved to excluded 14 Sep 2026. Still cited in data/consensus/markets.json.",
-    "londonbest.uk": "TEMPLATE FARM (data/topics/hotels-budget.json, 14 Sep 2026): six hotel pages all titled 'The 16 Best...', byline 'londonbestad', an identical 'Information and Reviews' subheading under every entry, keyword-phrased FAQs. Registered tier C by mistake; moved to excluded 14 Sep 2026. Still cited in data/consensus/cheap-eats.json and korean.json."
+    "londonbest.uk": "TEMPLATE FARM (data/topics/hotels-budget.json, 14 Sep 2026): six hotel pages all titled 'The 16 Best...', byline 'londonbestad', an identical 'Information and Reviews' subheading under every entry, keyword-phrased FAQs. Registered tier C by mistake; moved to excluded 14 Sep 2026. Still cited in data/consensus/cheap-eats.json and korean.json.",
+    "mandysadventureworld.com": "AI SEO FARM (data/consensus/hotels-budget.json outerPass, 14 Sep 2026): the whole archive is 11 posts published 11-31 Jan 2026, one keyword grid across London, Berlin and Vienna ('How expensive is...', 'Where to stay in...', 'Cheap places in London to...').",
+    "goexplorelondon.com": "AI SEO FARM (data/consensus/hotels-budget.json outerPass, 14 Sep 2026): 'Hotel Rating: Not explicitly stated, but generally well-regarded' - an LLM summary artifact left in the copy - beside a 'BOOK YOUR AMAZING TRIP' affiliate funnel. Still cited in data/consensus/stay-outer.json.",
+    "roomhawk.app": "BOOKING FUNNEL (data/consensus/hotels-budget.json outerPass, 14 Sep 2026): a hotel-booking app's blog bylined 'The Hawk', keyword titles on one skeleton ('Quick Takeaways', 'Where Travellers Get It Wrong'). Redirects to roomhawk.com. Still cited in data/consensus/stay-outer.json.",
+    "roomhawk.com": "BOOKING FUNNEL (data/consensus/hotels-budget.json outerPass, 14 Sep 2026): see roomhawk.app, which redirects here.",
+    "westlondontimes.co.uk": "AI SEO FARM (data/consensus/hotels-budget.json outerPass, 14 Sep 2026): 'News Desk' byline, generated prose, broken link fragments left in the text, photos credited to ihg.com, expedia.com, tripadvisor.com and agoda.com.",
+    "bettercities.net": "REPURPOSED DOMAIN (data/consensus/hotels-budget.json outerPass, 14 Sep 2026): its London Wembley hotels URL now redirects to a homepage about Coatesville and Altoona, Pennsylvania.",
+    "dyme.earth": "On the hotel-corpus.md exclusion list since 9 Sep 2026 but never added here; resurfaced on the Wembley and Elizabeth line SERPs (data/consensus/hotels-budget.json outerPass, 14 Sep 2026). Still cited in data/consensus/stay-outer.json."
   }
 }

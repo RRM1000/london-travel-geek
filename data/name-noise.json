@@ -512,6 +512,18 @@
         "hotels-budget"
       ],
       "why": "A hotel brand, not a 'best of' heading. The '^(the )?best\\b' pattern bins every Best Western name; scoped to hotels-budget so the pattern still catches headings elsewhere."
+    },
+    "Best Western London Highbury": {
+      "topics": [
+        "hotels-budget"
+      ],
+      "why": "A hotel brand, not a 'best of' heading. The '^(the )?best\\b' pattern bins every Best Western name; scoped to hotels-budget so the pattern still catches headings elsewhere."
+    },
+    "Best Western Swiss Cottage Hotel": {
+      "topics": [
+        "hotels-budget"
+      ],
+      "why": "A hotel brand, not a 'best of' heading. The '^(the )?best\\b' pattern bins every Best Western name; scoped to hotels-budget so the pattern still catches headings elsewhere."
     }
   }
 }

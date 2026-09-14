@@ -2953,6 +2953,449 @@
         "Travelodge London Covent Garden": "anotheroldbloke: 'I have a friend who lived in the Drury Lane one for 4 months they are decent'.",
         "Travelodge London Docklands": "JPhilp97: 'A Travelodge just opened in East India (Travelodge London Docklands), literally a brand new building'."
       }
+    },
+    {
+      "name": "Santorini Dave - Best hotels on the Elizabeth Line (budget-labelled pick)",
+      "url": "https://santorinidave.com/elizabeth-line-hotels",
+      "scope": "hotels-budget-outer",
+      "tier": "C",
+      "date": "updated 14 Jun 2026",
+      "author": "Santorini Dave",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Phase 2). Mixed-price guide organised by Elizabeth line station; per the mixed-price rule only the pick labelled for value is recorded. Its outer sections: Canary Wharf (Marriott 'Best for full-service comfort'; TRIBE 'Best value'), Whitechapel (section labelled 'Best for ... Value' and 'Budget-minded travelers', but its picks are labelled 'Best boutique choice' - New Road Hotel - and 'Best for comfort and views' - Hyatt Place London City East - so not counted), Custom House (Novotel London ExCeL 'Best for practical comfort'), Stratford ('Best Value Farther East' but no hotel named). santorinidave.com is already a source in several area hotel corpora. TRAP 13: the same URL is a source in data/consensus/stay-outer.json, which recorded only area names (Paddington, Tottenham, Canary Wharf, Stratford, Shoreditch, Whitechapel); no hotel name is shared, so nothing double-counts in byTopic['hotels-budget'].",
+      "names": [
+        "TRIBE London Canary Wharf"
+      ],
+      "quotes": {
+        "TRIBE London Canary Wharf": "Canary Wharf section: 'TRIBE London Canary Wharf : Best value. Around an 8-minute walk with smart, efficient rooms and a good lobby atmosphere.'"
+      },
+      "outerAreas": {
+        "Canary Wharf": [
+          "TRIBE London Canary Wharf"
+        ]
+      }
+    },
+    {
+      "name": "The Frugality - Affordable(ish) London hotels, all under £200 a night",
+      "url": "https://the-frugality.com/affordableish-london-hotels/",
+      "scope": "hotels-budget-outer",
+      "tier": "C",
+      "date": "14 Jul 2023 - 38 months old, past the 36-month recency flag",
+      "author": "Alex Lunt (The Frugality)",
+      "ranked": "numbered 1-9 with no ranking language - unordered",
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS. A GENERAL London budget list, not an outer one - found in the Whitechapel SERP and recorded whole rather than cherry-picking its outer names; its central names move central counts (flagged in the pass report). Archive checked (wp-json): an uneven, sporadic human blog since 2019 (fashion, interiors, frugal city guides), not a farm. Desk-compiled ('we think these are some stylish but still affordable options'), with prices per hotel. '9. Z Hotel' names 'the Z Strand Hotel' in its text, so it is recorded at branch level. 'HUB by Premier Inn' is brand-level ('From Kings Cross to Covent Garden'). Sonder is apartments (signpost). Mama Shelter London Shoreditch closed 1 Feb 2026 (closuresAndRenames) - build-evidence drops it.",
+      "names": [
+        "Bedford Corner Hotel",
+        "New Road Hotel",
+        "The Pilgrm",
+        "Mama Shelter London Shoreditch",
+        "The Hoxton, Shepherd's Bush",
+        "hub by Premier Inn (brand)",
+        "Sonder (brand)",
+        "The Culpeper",
+        "The Z Hotel Strand"
+      ],
+      "quotes": {
+        "Bedford Corner Hotel": "#1. 'a super central option'. 'standard double room for up to 2 adults from £139 per night'.",
+        "New Road Hotel": "#2. 'a stylish 79 bedroom former textile factory come boutique hotel in Whitechapel'. 'Pocket Rooms' start from £99 on weekends and mid-weeks.",
+        "The Pilgrm": "#3. Paddington; bunk rooms from £109, small rooms from £124.",
+        "Mama Shelter London Shoreditch": "#4 ('MAMA Shelter'). Single rooms from £109 or £200 for a double. Now closed.",
+        "The Hoxton, Shepherd's Bush": "#5. 'the Shepherd's Bush venue boasts their lowest rates'. Bunk rooms from £120, snug rooms from £174.",
+        "hub by Premier Inn (brand)": "#6 ('HUB by Premier Inn'). 'From Kings Cross to Covent Garden, you can find one of these hotels in many of London's hot spots'. Prices from £91.50.",
+        "Sonder (brand)": "#7. 'Sonder apartments and rooms are dotted all over the city'; from £139. Apartments - signpost, not ranked.",
+        "The Culpeper": "#8 ('The Culpeper Pub'). Spitalfields; prices start at £175 per night.",
+        "The Z Hotel Strand": "#9 (heading 'Z Hotel'): 'take a look at the Z Strand Hotel'. £155 per night mid-week."
+      },
+      "outerAreas": {
+        "Whitechapel": [
+          "New Road Hotel"
+        ],
+        "Shepherd's Bush": [
+          "The Hoxton, Shepherd's Bush"
+        ]
+      }
+    },
+    {
+      "name": "Football Ground Guide - Where to stay near Wembley Stadium (budget-labelled pick)",
+      "url": "https://footballgroundguide.com/news/where-to-stay-near-wembley-stadium-best-hotels-and-accommodation-for-fans.html",
+      "scope": "hotels-budget-outer",
+      "tier": "C",
+      "date": "7 Aug 2026, updated 9 Sep 2026",
+      "author": "Lewis Blain (News and Features Editor)",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Wembley). Event where-to-stay guide on a football-ground specialist that now carries gambling-affiliate content ('18+ | Commercial Content' banner). Desk-written, generic per-hotel lines, no evidence of a stay - recorded as a weak specialist voice. Mixed-price rule: only the pick it labels budget is recorded. Premier Inn London Wembley Stadium is labelled 'A dependable mid-range chain' and Holiday Inn London Wembley 'A step up in comfort', so neither counts; its 'centrally located' and hostel picks are not Wembley budget picks.",
+      "names": [
+        "ibis London Wembley"
+      ],
+      "quotes": {
+        "ibis London Wembley": "'Budget and Mid-Range Hotels' section: 'One of the best value options right next to the stadium, offering modern budget rooms ... ideal for fans who want affordability without compromising on location.'"
+      },
+      "outerAreas": {
+        "Wembley": [
+          "ibis London Wembley"
+        ]
+      }
+    },
+    {
+      "name": "Flyctory - London hotel reviews (budget-framed stays only)",
+      "url": "https://flyctory.com/2022/06/02/epsilon-hotel-london-stratford/",
+      "alsoAt": [
+        "https://flyctory.com/2023/09/18/ibis-london-shepherds-bush/"
+      ],
+      "scope": "hotels-budget-outer",
+      "tier": "C",
+      "date": "Epsilon: 2 Jun 2022, updated 16 Dec 2022 (51 months - past the 36-month flag); ibis Shepherd's Bush: 18 Sep 2023, updated 25 Sep 2023 (36 months)",
+      "author": "Florian Buechting",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Stratford; found in the Stratford SERP). German travel and music blogger reviewing single hotels at every price - one voice across pages; only reviews the author frames as budget stays are recorded. Both stays first-hand and self-booked (prices paid given). NOT recorded from the same blog: Hampton by Hilton London Docklands (4 Mar 2024, £92 but framed on transport, not price) and 2019-2020 reviews (ibis London Canning Town, ibis Styles London ExCeL, Premier Inn London Stratford, Novotel London Canary Wharf), which are six to seven years old.",
+      "names": [
+        "Epsilon Hotel London-Stratford",
+        "ibis London Shepherd's Bush"
+      ],
+      "quotes": {
+        "Epsilon Hotel London-Stratford": "Rated 4.6/5; pros 'Very good value for money' and 'Clean, nice and friendly budget stay'. Single room with breakfast £50.20 on a Saturday: 'an absolute bargain'. 'Romford Road, East of London-Stratford station... a ten minute walk'. Formerly OYO-branded.",
+        "ibis London Shepherd's Bush": "Rated 4.4/5. 'I needed an affordable overnight with good connections to the London West End'. 'You are a bit more remote than in very central locations. However, the public transport is nice and the price is much more affordable.'"
+      },
+      "outerAreas": {
+        "Stratford": [
+          "Epsilon Hotel London-Stratford"
+        ],
+        "Shepherd's Bush": [
+          "ibis London Shepherd's Bush"
+        ]
+      }
+    },
+    {
+      "name": "Mini Adventures - The best things to do in Stratford, London (Where to stay)",
+      "url": "https://mini-adventures.com/the-best-things-to-do-in-stratford-london/",
+      "scope": "hotels-budget-outer",
+      "tier": "C",
+      "date": "13 Dec 2023, updated 8 Jan 2025",
+      "author": "Milly",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Stratford). An area guide with a 'Where to stay in Stratford' section; only the sentence it labels for budget travellers is recorded, and that names brands, not branches, so it stays brand-level (Rob's rule: a brand-only mention never counts toward a branch). Not counted: Moxy Stratford ('colourful and contemporary'), Snoozebox Olympic Park ('close by' ABBA Voyage) and the Westbridge Hotel ('4-star').",
+      "names": [
+        "Premier Inn (brand)",
+        "Travelodge (brand)"
+      ],
+      "quotes": {
+        "Premier Inn (brand)": "Stratford: 'hotels are often far cheaper here than in more central locations. For budget travellers, Premier Inn and Travelodge both have a presence in the area.'",
+        "Travelodge (brand)": "Stratford: 'For budget travellers, Premier Inn and Travelodge both have a presence in the area.'"
+      },
+      "outerAreas": {}
+    },
+    {
+      "name": "Silent Hotel & Travel Reviewer (YouTube) - no-talking cheap London hotel room reviews",
+      "url": "https://www.youtube.com/@SilentHotelReviewer",
+      "scope": "hotels-budget-outer",
+      "tier": "D",
+      "date": "videos uploaded 28 Dec 2024 - 5 Sep 2026",
+      "author": "Silent Hotel & Travel Reviewer (@SilentHotelReviewer)",
+      "ranked": "star verdicts per video, not a ranking",
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS. Tier D, one record for the channel. Found through r/LondonTravel 1unr921 (a commenter's pointer, written '@silenthotelreviewer'); the handle's casing is YouTube's own (yt-dlp uploader_id '@SilentHotelReviewer') - trap 3. Read from video titles and descriptions via yt-dlp, no download. Every description gives the price the reviewer paid ('cost us approx £40 for the night') and none carries a gifted/hosted disclosure. Only verdicts of 'Good' (3½ stars) or better are recorded as names. NOT recorded as recommendations: IBIS London Wembley ('3 Stars ACCEPTABLE', 12 May 2024, stay made in 2022), Premier Inn Beckton ('Avoid, 1 Star REFUNDED'), Kip Hotel Hackney ('Avoid, 0 Stars'), Travelodge Crystal Palace ('Average 2½ Stars'), Luma Hammersmith ('2 Stars NOT RECOMMENDED'), Four Stars Hotel Sussex Gardens and Gresham Hotel Bloomsbury ('AVOID'), DoubleTree London West End ('AVOID'), Holiday Inn London North ('AVOID'), Inverness Terrace Serviced Apartments ('2 Stars NOISY'); ibis Elstree and Greene King Southern Cross Watford are outside London. This is the budget corpus's first tier D voice, and its central names move central counts.",
+      "names": [
+        "Hotel DC Stratford",
+        "ibis budget London Whitechapel",
+        "Best Western London Highbury",
+        "Snoozebox Olympic Park",
+        "Travelodge London Docklands",
+        "Travelodge London Liverpool Street",
+        "The Gainsborough Hotel",
+        "NOX Kensington",
+        "The Z Hotel Shoreditch",
+        "Travelodge London City Road"
+      ],
+      "quotes": {
+        "Hotel DC Stratford": "27 Jul 2026 (youtube.com/watch?v=XQP_wE8SSD8), '4½ Stars -Great!': 'HOTEL DC at 207 Romford Road, Stratford'. Single en-suite 'approx £40 for the night'. 'clean & quiet & very reasonably priced... Definitely recommended.'",
+        "ibis budget London Whitechapel": "17 Jul 2026 (15tLzNGUvsc), '4 Stars -Good': '100 Whitechapel Road'. Double approx £62. 'Probably the best of the budget brands although not the cheapest.'",
+        "Best Western London Highbury": "4 Apr 2026 (pMmVEv5QF58), '4 Stars -Very Good': 'Best Western Highbury hotel, Seven Sisters Road'. Single £64. 'overall the room was clean'.",
+        "Snoozebox Olympic Park": "18 Oct 2025 (3ORcNBOUqIw), '4 Stars -Good': 'a budget hotel made of shipping containers', Pudding Mill Lane; double £53. Warns of after-party noise near the ABBA Arena.",
+        "Travelodge London Docklands": "28 Dec 2024 (iwuVhmmvCis), '4 Stars -Good': 'Travelodge London Docklands Hotel, Oregano Drive'. Double £49. 'For a good price this is a decent option if you don't mind being away from London's nightlife.'",
+        "Travelodge London Liverpool Street": "5 Sep 2026 (DEObPUfkjCc), '4 Stars -Good': 'a few minutes walk away in Harrow Place'. Double around £58.",
+        "The Gainsborough Hotel": "28 Aug 2026 (k3Nb-vKm-4c), '3½ Stars': 'Queensberry Place, South Kensington'. Single approx £68; very small en-suite and bed.",
+        "NOX Kensington": "25 Aug 2026 (WaUSaaeAxrU), '3½ Stars -Good': 'NOX Kensington Hotel in Holland Road'. Twin studio in the annex approx £57. 'Overall a good budget option... would definitely book here again.'",
+        "The Z Hotel Shoreditch": "26 Jun 2026 (6wub8DVjaUs), '3½ Stars': 'City Road'. Double approx £59; noisy plumbing.",
+        "Travelodge London City Road": "29 Nov 2025 (_a0FJwGFP04), '4 Stars -Good': 'Travelodge London Central Hotel, City Road'. Double £49.99."
+      },
+      "outerAreas": {
+        "Stratford": [
+          "Hotel DC Stratford",
+          "Snoozebox Olympic Park"
+        ],
+        "Whitechapel": [
+          "ibis budget London Whitechapel"
+        ],
+        "Highbury / Finsbury Park": [
+          "Best Western London Highbury"
+        ],
+        "East India (Docklands)": [
+          "Travelodge London Docklands"
+        ]
+      }
+    },
+    {
+      "name": "r/uktravel - London in March - Ideas for affordable hotel/inn with two beds",
+      "url": "https://www.reddit.com/r/uktravel/comments/1grb1gk/london_in_march_ideas_for_affordable_hotelinn/",
+      "scope": "hotels-budget-outer",
+      "tier": "E",
+      "date": "2024-11-14 (44 comments read via arctic-shift)",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS. Tier E, one record per thread. OP: under £120-130 a night, two beds, 'Not necessarily central, but not too far from central London by commute'. Not recorded: Watford (outside London, trap 12), an unnamed serviced apartment, 'Cromwell serviced apartments by Concept' (name unclear), DoubleTree (fridges, not a budget pick), luggage-storage links. letmereadstuff recurs from other recorded threads.",
+      "names": [
+        "Premier Inn (brand)",
+        "ibis (brand)",
+        "Novotel (brand)",
+        "ibis Styles (brand)",
+        "citizenM (brand)",
+        "ibis London ExCeL Docklands",
+        "Crowne Plaza London Docklands",
+        "Premier Inn London Archway",
+        "Travelodge London Finchley",
+        "Premier Inn London Kew Bridge",
+        "YHA London Thameside",
+        "Moxy London ExCeL",
+        "The Greenwood Hotel",
+        "Park International Hotel"
+      ],
+      "quotes": {
+        "Premier Inn (brand)": "AnalystAdorable609: 'Premier inn is a good option'; infieldcookie: 'definitely look at premier inn'; eve_713: 'Premier inn locations like Wembley seem to be cheaper too'.",
+        "ibis (brand)": "AnalystAdorable609: 'A similar chain is the Accor group (French) under the Ibis or Novotel brands... find somewhere on the underground/tube/subway line that will get you easily in to the centre.'",
+        "Novotel (brand)": "AnalystAdorable609: 'the Accor group (French) under the Ibis or Novotel brands'.",
+        "ibis Styles (brand)": "Heels6960: 'If you don't mind a 20-30 mins tube ride into town (on one line, look for Premier Inn or Ibis Stiles at places like: New Southgate (Piccadilly Line), Ealing Broadway (Elizabeth line), Stratford (Elizabeth or Central line)' - either/or per place, so brand-level.",
+        "citizenM (brand)": "Substantial_Steak723: 'Try \"citizen M\"' (letmereadstuff: one bed per room).",
+        "ibis London ExCeL Docklands": "Vernacian: 'Consider the Ibis and Crown Plaza in the London Docklands (by Custom House station)... next to an Elizabeth Line station... central London in 15 mins'; TheBuachailleBoy: 'a little bit above your target price range but still very accessible for central London given the speed of the Elizabeth Line'.",
+        "Crowne Plaza London Docklands": "Vernacian: 'the Ibis and Crown Plaza in the London Docklands (by Custom House station). Depending what's on at the nearby convention centre they may have rooms within your budget'.",
+        "Premier Inn London Archway": "UnusualSomewhere84: 'Archway Premier Inn is a bit nicer, slightly more expensive, also right next to a tube station'; PinacoladaBunny: 'We just stayed at Premier Inn Archway in the premier plus rooms. Excellent price / location combination'.",
+        "Travelodge London Finchley": "UnusualSomewhere84: 'Travelodge Finchley is really cheap and just across the road from a tube station.'",
+        "Premier Inn London Kew Bridge": "Antique_Beyond: 'Kew Bridge premier inn is also a shout... walking distance to Kew Gardens.'",
+        "YHA London Thameside": "Substantial_Steak723: 'The rotherhithe YHA is pretty damned big... basic, cheap... a short walk from the tube.' Hostel - signpost.",
+        "Moxy London ExCeL": "Substantial_Steak723: 'Moxy london excel? just banged some dates for march in 7 nights... £595 (via booking dotcom)... Beds are close though'.",
+        "The Greenwood Hotel": "Substantial_Steak723: 'Look at the greenwood hotel (wetherspoons site) maybe?' (Northolt).",
+        "Park International Hotel": "eve_713: 'Look into the park international hotel... The park intl has a fridge and is in a great location.'"
+      },
+      "outerAreas": {
+        "Custom House / Royal Docks": [
+          "ibis London ExCeL Docklands",
+          "Crowne Plaza London Docklands",
+          "Moxy London ExCeL"
+        ],
+        "Archway": [
+          "Premier Inn London Archway"
+        ],
+        "Finchley": [
+          "Travelodge London Finchley"
+        ],
+        "Kew Bridge": [
+          "Premier Inn London Kew Bridge"
+        ],
+        "Rotherhithe": [
+          "YHA London Thameside"
+        ],
+        "Northolt": [
+          "The Greenwood Hotel"
+        ]
+      }
+    },
+    {
+      "name": "r/uktravel - Where to stay in London if visiting Wembley stadium?",
+      "url": "https://www.reddit.com/r/uktravel/comments/1huc7n4/where_to_stay_in_london_if_visiting_wembley/",
+      "scope": "hotels-budget-outer",
+      "tier": "E",
+      "date": "2025-01-05 (31 comments read via arctic-shift)",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Wembley). Price-framed: OP says the rooms left near Wembley are 'stupidly priced'. Most replies say stay central and take the Jubilee or Metropolitan line. Not recorded: Premier Inn on Water Lane, Watford (outside London, trap 12); Stanmore, Kingsbury, Queensbury and Watford as areas with no hotel named. TeamOfPups recurs in r/uktravel 1qnf1y9 with the same Paddington Basin stay.",
+      "names": [
+        "Premier Inn London Paddington (Paddington Basin)",
+        "Premier Inn London City (Aldgate)",
+        "Premier Inn London Uxbridge",
+        "Travelodge London Wembley High Road",
+        "Comfort Inn Edgware Road"
+      ],
+      "quotes": {
+        "Premier Inn London Paddington (Paddington Basin)": "TeamOfPups: 'We stayed at the Premier Inn Paddington Basin, it was very straightforward journey by tube to Wembley... when we went it was a super reasonable price.'",
+        "Premier Inn London City (Aldgate)": "guidancefromcolour: 'stayed at the Premier Inn in Aldgate. Was cheap for two nights and doable by public transport.'",
+        "Premier Inn London Uxbridge": "elcuolo: 'Uxbridge, is at the end of the line, and about 35 mins away. There is a Premier Inn 2 minutes from the Station, book as quickly as you can though as they have flex pricing'.",
+        "Travelodge London Wembley High Road": "Bxsnia: 'There's a travelodge on wembley high street with reasonable prices.' Later: 'It's £62 tonight'.",
+        "Comfort Inn Edgware Road": "Fresh_Relation_7682: 'stayed the Comfort Inn on Edgeware Road... It was decent enough.'"
+      },
+      "outerAreas": {
+        "Wembley": [
+          "Travelodge London Wembley High Road"
+        ],
+        "Uxbridge": [
+          "Premier Inn London Uxbridge"
+        ]
+      }
+    },
+    {
+      "name": "r/LondonTravel - Stratford Hotel",
+      "url": "https://www.reddit.com/r/LondonTravel/comments/1j1hx4x/stratford_hotel/",
+      "scope": "hotels-budget-outer",
+      "tier": "E",
+      "date": "2025-03-02 (16 comments read via arctic-shift)",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Stratford). OP is weighing Moxy Stratford for a family week and wants 'something more economical but still restful'. Not recorded: 'the Holiday Inn in Stratford' (KnittyKitty28 - branch unclear, and a comment on transport rather than the hotel), a Meado apartment rental, and The Gantry, which another poster only asks about as a price comparison. valueofaloonie also recommends Moxy Stratford in r/LondonTravel 1gzbe7o (already recorded) - a recurring commenter.",
+      "names": [
+        "Moxy London Stratford"
+      ],
+      "quotes": {
+        "Moxy London Stratford": "valueofaloonie: 'I stayed there in October, had no issues. Hotel was great and it's very easy to get the tube to central London.' Spare-Machine6105: 'Double check the room sizes in the Moxy.'"
+      },
+      "outerAreas": {
+        "Stratford": [
+          "Moxy London Stratford"
+        ]
+      }
+    },
+    {
+      "name": "r/uktravel - Opinion about hotels (Acton)",
+      "url": "https://www.reddit.com/r/uktravel/comments/1fqjun9/opinion_about_hotels/",
+      "scope": "hotels-budget-outer",
+      "tier": "E",
+      "date": "2024-09-27 (3 comments read via arctic-shift)",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Acton). OP is choosing between two small Acton hotels for a first London trip; the one reply that judges a hotel does so on price. Not recorded: London Star Hotel (on OP's shortlist, no opinion given).",
+      "names": [
+        "The Kings Head Hotel Acton",
+        "Chatsworth Guest House"
+      ],
+      "quotes": {
+        "The Kings Head Hotel Acton": "johnmk3: 'Two of my friends stayed in the kings head when I got married in the summer, nice clean rooms, reasonable price. Downside is it's on a busy road.'",
+        "Chatsworth Guest House": "Elsbeth55: 'Chatsworth Guest House is very near these two and gets great reviews... All these are less than a mile to Acton Main Line where you can get the Elizabeth Line direct (nonstop) to Paddington.'"
+      },
+      "outerAreas": {
+        "Acton": [
+          "The Kings Head Hotel Acton",
+          "Chatsworth Guest House"
+        ]
+      }
+    },
+    {
+      "name": "r/LondonTravel - Will I regret staying in Canary Wharf?",
+      "url": "https://www.reddit.com/r/LondonTravel/comments/1n1iwpy/will_i_regret_staying_in_canary_wharf/",
+      "scope": "hotels-budget-outer",
+      "tier": "E",
+      "date": "2025-08-27 (78 comments read via arctic-shift)",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Canary Wharf). OP wants 'a nice hotel that doesn't absolutely break the bank' and is considering Novotel Canary Wharf; replies split on the area but keep returning to price ('saving £££', 'if you've got a good price'). Not recorded: 'the Orchard' near Paddington (name unclear), Britannia International Hotel (named only as run-down), a Zedwell link repeated twice.",
+      "names": [
+        "Novotel London Canary Wharf",
+        "TRIBE London Canary Wharf",
+        "Lincoln Plaza London",
+        "Vertus Edit Canary Wharf",
+        "InterContinental London - The O2"
+      ],
+      "quotes": {
+        "Novotel London Canary Wharf": "weirdbean: 'Last month we stayed in the Canary Wharf Novotel and it was great'; Even-Supermarket-806: 'Novotel in canary wharf is a lovely hotel- I stayed there 2 years ago'; Watchblah3333: 'probably has cheaper bookings at the moment'; TallRecording6572 and Dry-Courage6664 also back it.",
+        "TRIBE London Canary Wharf": "mdsnbelle: 'I LOVED the hotel (The Tribe) and their staff' - but kept going back to the hotel on dark winter evenings; popuri22 has it shortlisted because 'the price is reasonable compared to accommodation in central London'.",
+        "Lincoln Plaza London": "Clear_Ingenuity_9752: 'Just stayed there this past August at the Lincoln Plaza Hotel. It was a nice quiet change of pace from the more busy areas.'",
+        "Vertus Edit Canary Wharf": "signol_: 'staying in the Vertus Edit aparthotel in Canary Wharf... couldn't fault it'; 'The room / studio apartment was small, but well equipped.' Aparthotel - signpost.",
+        "InterContinental London - The O2": "RedBarchetta1: 'We spent 4 days at the Intercontinental O2... riding the tube into London was super easy and much faster than I expected it to be.'"
+      },
+      "outerAreas": {
+        "Canary Wharf": [
+          "Novotel London Canary Wharf",
+          "TRIBE London Canary Wharf",
+          "Lincoln Plaza London",
+          "Vertus Edit Canary Wharf"
+        ],
+        "North Greenwich": [
+          "InterContinental London - The O2"
+        ]
+      }
+    },
+    {
+      "name": "r/uktravel - Budget friendly hotel 30min travel from Wembley",
+      "url": "https://www.reddit.com/r/uktravel/comments/1b3p6v5/budget_friendly_hotel_30min_travel_from_wembley/",
+      "scope": "hotels-budget-outer",
+      "tier": "E",
+      "date": "2024-03-01 (17 comments read via arctic-shift)",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Wembley). OP: about £300 for two nights, 'things similar to Hub Premier Inn', around 30 minutes from Wembley. OP booked hub Marylebone in the end.",
+      "names": [
+        "Premier Inn London Uxbridge",
+        "Best Western Swiss Cottage Hotel",
+        "Grims Dyke Hotel",
+        "Alhambra Hotel",
+        "hub by Premier Inn London Marylebone"
+      ],
+      "quotes": {
+        "Premier Inn London Uxbridge": "iwontrememberthat4: 'Premier inn in Uxbridge goes directly to Wembley via metropolitan line and is ~30 mins'.",
+        "Best Western Swiss Cottage Hotel": "Purple-Inside-1780: 'Take a look at what's available around Swiss Cottage e.g. bw-swisscottage.co.uk. Safe area. 3 mins from tube... And a whole lot nicer than staying anywhere in Wembley.'",
+        "Grims Dyke Hotel": "811545b2-4ff7-4041: 'I'd grab a nice hotel that's a taxi ride from Stanmore tube... it's £225 for 2 nights that weekend' (named later: 'from Grims Dyke hotel to Stanmore tube').",
+        "Alhambra Hotel": "811545b2-4ff7-4041: 'For something more central, you could look at Alhambra Hotel near Kings Cross... Not bad reviews, and it's £220 for 2 nights.'",
+        "hub by Premier Inn London Marylebone": "SlightChallenge0: 'Look at Hub Marylebone... Just about within your budget if you pay in advance'; OP booked it."
+      },
+      "outerAreas": {
+        "Swiss Cottage": [
+          "Best Western Swiss Cottage Hotel"
+        ],
+        "Uxbridge": [
+          "Premier Inn London Uxbridge"
+        ],
+        "Harrow": [
+          "Grims Dyke Hotel"
+        ]
+      }
+    },
+    {
+      "name": "r/uktravel - Hotels near Wembley",
+      "url": "https://www.reddit.com/r/uktravel/comments/1qnf1y9/hotels_near_wembley/",
+      "scope": "hotels-budget-outer",
+      "tier": "E",
+      "date": "2026-01-26 (18 comments read via arctic-shift)",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Wembley). OP: hotels near the stadium went to £800+ for a concert; happy to go 'a few stops away somewhere a hotel would be cheaper'. Not recorded: 'a Travelodge near the Ace Cafe' and 'Premier Inn Acton Lane' (branches not identifiable from the text), Travelodge High Wycombe (outside London), and 'the Premier Inn at Harrow on the Hill' (No-Zombie9567) - possibly the same hotel as Dobbeh_91's 'Prem Inn at Harrow, next to Kenton Station', but not merged on a guess. TeamOfPups recurs from r/uktravel 1huc7n4.",
+      "names": [
+        "Premier Inn London Paddington (Paddington Basin)",
+        "Premier Inn London Harrow"
+      ],
+      "quotes": {
+        "Premier Inn London Paddington (Paddington Basin)": "TeamOfPups: 'I stayed at the Premier Inn Paddington Basin, which worked great. Very easy journey and Paddington Basin is nice.'",
+        "Premier Inn London Harrow": "Dobbeh_91: 'Prem Inn at Harrow, next to Kenton Station we stayed at after a gig at the arena. Not as expensive as staying right next to the stadium, but it was still fairly pricey for what it's really worth.'"
+      },
+      "outerAreas": {
+        "Harrow": [
+          "Premier Inn London Harrow"
+        ]
+      }
+    },
+    {
+      "name": "r/uktravel - Best London Premier Inn for Wembley & Stansted?",
+      "url": "https://www.reddit.com/r/uktravel/comments/1kf4qag/best_london_premier_inn_for_wembley_stansted/",
+      "scope": "hotels-budget-outer",
+      "tier": "E",
+      "date": "2025-05-05 (8 comments read via arctic-shift)",
+      "ranked": false,
+      "recorded": "2026-09-14",
+      "note": "OUTER PASS (Wembley). A budget-chain question (which Premier Inn); the substantive reply picks the Wembley branches as cheaper than central London. 'The one at Wembley' is read as Premier Inn London Wembley Stadium because the same sentence names Wembley Park separately - a judgement, flagged here.",
+      "names": [
+        "Premier Inn London Wembley Park",
+        "Premier Inn London Wembley Stadium"
+      ],
+      "quotes": {
+        "Premier Inn London Wembley Park": "AuroraDF: 'you want either the one at Wembley or Wembley Park (much easier when you come out of a concert than trying to get on the tube with thousands of other people - and cheaper than Central London)'.",
+        "Premier Inn London Wembley Stadium": "AuroraDF: 'the one at Wembley or Wembley Park... cheaper than Central London'; ThaddeusGriffin_: 'There's a Premier Inn at Wembley and at Stansted.'"
+      },
+      "outerAreas": {
+        "Wembley": [
+          "Premier Inn London Wembley Park",
+          "Premier Inn London Wembley Stadium"
+        ]
+      }
     }
   ],
   "declined": [
@@ -3119,6 +3562,265 @@
         "Strand Palace": "'singles from £144 and doubles from £189 per night'."
       },
       "declinedReason": "Declined 14 Sep 2026: derivative of Time Out London's budget list, down to repeating its wrong address for The Judd Hotel - not an independent voice. Same rule as TravelAwaits, declined for copying Visit London."
+    },
+    {
+      "name": "Where Is Tara? - The best place to stay near the O2 Arena London",
+      "url": "https://whereistara.com/best-place-stay-o2-london/",
+      "date": "2 Jun 2017, updated 16 Feb 2019",
+      "author": "Tara",
+      "names": [
+        "Travelodge London Docklands"
+      ],
+      "why": "PAID PLACEMENT and stale: '**My stay at the London Docklands Travelodge was complimentary' (photos 'Courtesy of Travelodge Media Centre'). Outer pass, 14 Sep 2026."
+    },
+    {
+      "name": "Absolutely Lucy - Choose a Point A Hotel for a budget-friendly London stay",
+      "url": "https://absolutelylucy.com/point-a-hotel-budget-london/",
+      "date": "27 Sep 2019, updated 25 Jul 2023",
+      "author": "Lucy Ruthnum",
+      "names": [
+        "Point A Hotel London Kensington Olympia",
+        "Point A Hotel London Canary Wharf"
+      ],
+      "why": "PAID PLACEMENT: 'This Point A Hotel blog post features a gifted press stay at Point A Hotel Kensington Olympia'. The Canary Wharf stay was 'paid for by myself', but the post exists to promote the gifted stay. Also past 36 months."
+    },
+    {
+      "name": "Practically Perfect Mums - Travelodge video review: London Stratford",
+      "url": "https://practicallyperfectmums.co.uk/travelodge-video-review-london-stratford-hotel-near-excel/",
+      "date": "9 Nov 2015, updated 10 Oct 2022",
+      "author": "Jane Batt",
+      "names": [
+        "Travelodge London Stratford"
+      ],
+      "why": "PAID PLACEMENT: 'ACCOMMODATION AND BREAKFASTS SUPPLIED COURTESY OF TRAVELODGE'. Also ten years old."
+    },
+    {
+      "name": "The Travel Hack - Holiday Inn Express Ealing review",
+      "url": "https://thetravelhack.com/hotel-review/holiday-inn-express-ealing-london-the-holiday-inn-just-got-cool/",
+      "date": "22 Feb 2016",
+      "author": "Monica Stott",
+      "names": [
+        "Holiday Inn Express London Ealing"
+      ],
+      "why": "PAID PLACEMENT: 'My stay at the Holiday Inn Express Ealing was complimentary in return for this review'. The Travel Hack's budget list is already a source; this page is not."
+    },
+    {
+      "name": "illumelation - ibis Styles Ealing hotel review",
+      "url": "https://www.illumelation.com/blog/england/ibis-styles-ealing-hotel-review/",
+      "date": "3 Sep 2018, updated 31 Jul 2024",
+      "author": "Mel Legarda",
+      "names": [
+        "ibis Styles London Ealing"
+      ],
+      "why": "PAID PLACEMENT: 'This post was made in collaboration with Ibis Styles Ealing'."
+    },
+    {
+      "name": "She Gets Around - Where to stay for business travel in London: Holiday Inn Express, Ealing",
+      "url": "https://shegetsaround.co.uk/businesstravellondon/",
+      "date": "7 Mar 2016, updated 23 Sep 2018",
+      "author": "Jen Lowthrop",
+      "names": [
+        "Holiday Inn Express London Ealing"
+      ],
+      "why": "PAID PLACEMENT: 'when I was asked if I would be interested in reviewing a Holiday Inn Express in Ealing I jumped at the chance' - the same 2016 launch campaign as The Travel Hack's complimentary stay. Also ten years old."
+    },
+    {
+      "name": "Hotel Scoop - Holiday Inn Express London-Stratford: hotel for ABBA Voyage",
+      "url": "https://www.hotel-scoop.com/review-holiday-inn-express-london-stratford-abba/",
+      "date": "26 Jun 2023",
+      "author": "Kara Williams",
+      "names": [
+        "Holiday Inn Express London Stratford"
+      ],
+      "why": "NOT BUDGET-FRAMED. A first-hand, self-booked stay, but chosen for the concert and described as 'moderately priced' ('Rooms... start at about $185'). 39 months old. Rob can reverse this."
+    },
+    {
+      "name": "London Toolkit - Hotels near Canary Wharf; Best hotels near City Airport & ExCeL (legacy v1 pages)",
+      "url": "https://www.londontoolkit.com/v1/travel/city_airport_hotels.html",
+      "alsoAt": [
+        "https://www.londontoolkit.com/v1/accommodation/canary_wharf_hotels.html"
+      ],
+      "date": "undated - demonstrably pre-2022",
+      "names": [
+        "Travelodge London City Airport",
+        "Premier Inn London Docklands (ExCeL)"
+      ],
+      "why": "STALE LEGACY PAGES. Booking-card selections under /v1/ that still call the cable car the 'Emirates Air Line' (renamed in 2022) and quote Travelodge's old 30-minute free Wi-Fi. The two budget-labelled picks are listed; London Toolkit's 2025 central page is already a source."
+    },
+    {
+      "name": "Travelzoo - Our favourite affordable hotels in London",
+      "url": "https://www.travelzoo.com/uk/blog/our-favourite-affordable-hotels-in-london/",
+      "date": "undated",
+      "names": [
+        "Club Quarters Hotel, Gracechurch",
+        "The Rembrandt",
+        "The Nadler Kensington",
+        "K West Hotel & Spa",
+        "Corus Hotel Hyde Park",
+        "Town Hall Hotel & Apartments",
+        "Grange City Hotel",
+        "The Academy",
+        "Millennium & Copthorne Hotels at Chelsea Football Club"
+      ],
+      "why": "INVENTORY, NOT OPINION, and stale: a deal seller whose page ends 'Check out all our latest deals on London hotels here'; still uses The Nadler name (now The Resident)."
+    },
+    {
+      "name": "Candace Abroad - Hotels in Canary Wharf",
+      "url": "https://candaceabroad.com/hotels-in-canary-wharf/",
+      "date": "10 Jun 2024, updated 6 Dec 2025",
+      "author": "Candace Salters",
+      "names": [],
+      "why": "NO BUDGET-LABELLED PICK. Mixed-price area guide (Hilton £144, Novotel £370, Corporate Waterfront £608, Lincoln Plaza £289, Marriott £269) with no budget label; Candace Abroad is already a budget source through its budget pages."
+    },
+    {
+      "name": "Tour by Transit - Ten recommended London hotels near the Tube",
+      "url": "https://www.tourbytransit.com/london/accommodations",
+      "date": "undated",
+      "names": [],
+      "why": "MIXED-PRICE AND UNDATED. A long-running London-only visitor site (not a city template - the Prague and Paris equivalents 404), but its top ten runs to 4-star Tophams and The Montague on the Gardens. Its only value-labelled outer pick, Spark by Hilton London Chiswick, is outside the areas drilled in this pass. Also already in data/consensus/stay-outer.json."
+    },
+    {
+      "name": "Cool Places - Where to stay along the Elizabeth Line",
+      "url": "https://www.coolplaces.co.uk/blog/460-where-to-stay-along-the-elizabeth-line",
+      "names": [],
+      "why": "NOT BUDGET-FRAMED. An accommodation curation and booking platform's favourites (The Milestone, Karma Sanctum, South Place Hotel); no budget labels."
+    },
+    {
+      "name": "Time Out - The best hotels in Greenwich",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-greenwich",
+      "date": "28 Jul 2021",
+      "names": [],
+      "why": "STALE (61 months) and no budget-labelled hotel - its one 'bargain' is St Christopher's Greenwich hostel. Greenwich got no extra effort in this pass, per Rob."
+    },
+    {
+      "name": "Greenwich.co.uk - Hotels in Greenwich",
+      "url": "https://www.greenwich.co.uk/hotels-in-greenwich/",
+      "date": "undated",
+      "names": [],
+      "why": "DIRECTORY, NOT A SELECTION: a local site's Booking.com-linked list of essentially every SE10 hotel ('just follow the links to check current availability and prices'). Same reasoning as europeancoffeetrip.com in sources.json excludedWhy."
     }
-  ]
+  ],
+  "outerPass": {
+    "date": "2026-09-14",
+    "what": "Outer London source pass for the 'further out, on a fast line' section (Rob, 14 Sep 2026, data/topics/hotels-budget.json openVenueQuestions). Phase 1 ranked 151 stations by direct train time to West End and City hubs - data/topics/hotels-budget-outer-areas.json. Phase 2 looked for budget hotel sources in the top areas, favouring the Elizabeth and Jubilee lines, and recorded each hotel's own nearest station and walk in the pass report.",
+    "scopeField": "Records added in this pass carry scope 'hotels-budget-outer' (this repo's <topic>-<subscope> convention, as in japanese-ramen or activities-canary-wharf) and an outerAreas map of area -> names. build-evidence ignores both. Two general lists found in this pass (The Frugality, and the @SilentHotelReviewer channel) are recorded whole, so their central names count for the main guide too.",
+    "areasDrilled": [
+      "Whitechapel",
+      "Canada Water / Rotherhithe",
+      "Swiss Cottage / Finchley Road",
+      "Canary Wharf",
+      "Stratford",
+      "West Hampstead / Kilburn",
+      "Canning Town / West Ham",
+      "Custom House / Royal Docks (ExCeL)",
+      "Acton / Ealing Broadway",
+      "Wembley Park (named in Rob's decision note, although it ranks 105th of 146 on train time)"
+    ],
+    "notDrilled": "Bermondsey ranks first on train time (2 min to London Bridge) but already has its own where-to-stay corpus (hotels-bermondsey) and is a one-stop fringe of London Bridge rather than 'further out'. North Greenwich and Greenwich got no extra search effort (Rob, mid-pass).",
+    "serp": {
+      "engines": "DuckDuckGo showed a bot check on the day - not attempted. Brave Search: 6 queries read, then 'Verifying you're not a bot' - not attempted. Startpage: 19 queries read; on the 20th the user declined javascript_tool on startpage.com - not retried, and no further search-engine query was run by any route. Mojeek was not tried.",
+      "queries": [
+        "cheap hotels Stratford London (Brave)",
+        "where to stay in Stratford London hotels (Brave)",
+        "cheap hotels Stratford London blog (Brave)",
+        "budget hotels near Wembley Stadium (Brave)",
+        "where to stay near Wembley hotels blog (Brave)",
+        "affordable hotels Greenwich London blog (Brave)",
+        "where to stay in Greenwich London hotels guide",
+        "hotels near North Greenwich O2 where to stay blog",
+        "cheap hotels Canary Wharf blog",
+        "where to stay in Canary Wharf hotels guide",
+        "budget hotels near ExCeL London blog",
+        "cheap hotels Hammersmith London",
+        "cheap hotels on the Elizabeth line London",
+        "budget hotels near Jubilee line London outside centre",
+        "staying in Stratford instead of central London hotel",
+        "Stratford London hotels blog review budget",
+        "cheap hotels Ealing London blog",
+        "where to stay in Ealing London hotels",
+        "cheap hotels Whitechapel London blog",
+        "cheap hotels Canada Water Rotherhithe London",
+        "cheap hotels Swiss Cottage Finchley Road London",
+        "where to stay Swiss Cottage West Hampstead hotels blog",
+        "cheap hotels Canning Town West Ham London",
+        "where to stay near ExCeL London cheap hotels guide",
+        "cheap hotels Acton London Elizabeth line",
+        "best cheap hotels near Wembley Stadium blog (page loaded, results NOT read - javascript_tool declined)"
+      ],
+      "notRun": "The general queries ('where to stay outside central London cheap', 'cheap hotels near a tube station London zone 2'), a second Stratford budget-guide query, and the lower-priority areas off the two fast lines (Brixton/Stockwell/Vauxhall, Walthamstow/Tottenham Hale, Finsbury Park, Camden, Earl's Court/West Brompton, Shepherd's Bush/White City beyond one Hammersmith query)."
+    },
+    "whatTheSerpLooksLike": "Area budget-hotel SERPs are booking engines, brand pages and directories almost end to end ('cheap hotels Stratford London blog' returned 19 of 19 booking engines; 'cheap hotels Swiss Cottage Finchley Road London' one directory). This matches hotel-corpus.md's 9 Sep finding that Stratford has no dedicated hotel guide of any kind. What exists is event where-to-stay pages (Wembley, ExCeL, the O2), single-hotel blog reviews - most of them hosted - and Reddit threads.",
+    "community": "Reddit via arctic-shift (throttled; title search on r/LondonTravel and r/uktravel for area names): 8 threads recorded. Read and NOT recorded: 1tsabqh Canada Water (an Airbnb; no hotel named), 1unr921 West Ham (an Airbnb; it is where the @SilentHotelReviewer pointer came from), 1tgwvot Stratford Travelodge safety (OP's booking, branch unclear - Stratford has two - and replies are about the area), 1omin77 Stratford Moxy (business trip; not budget-framed), 1locrh1 Stratford or the City (conference; recommends The Stratford and The Gantry), 1txnf58 Canary Wharf (Airbnb and car hire), 1g1opmn Paddington or Canary Wharf (not budget-framed), 1l7j630 Ealing (Airbnb), 1tbf6xv (removed by moderators). Forums read, not recorded: headforpoints.com 'Hotel close To Elizabeth Line station?' (points-led; budget mentions are a central Zedwell and a Hayes Premier Inn) and community.ricksteves.com 'Staying outside London' (no hotel recommended; a Tottenham Hale Premier Inn is described as 'on a soulless retail park'). About 30 more Wembley concert threads exist on r/uktravel and r/LondonTravel and were not read.",
+    "excludedFarmsAndNonSources": [
+      {
+        "domain": "mandysadventureworld.com",
+        "tell": "FARM. The whole archive (wp-json) is 11 posts published 11-31 Jan 2026, a keyword grid across three cities - 'How expensive is London/Berlin/Vienna', 'Where to stay in Vienna', 'Affordable places to stay in Berlin', 'Cheap places in London to stay' - each with an FAQ block, an 'interactive hotel map' and a 'Check prices & availability' call to action. The London hotel lines are generic ('Reliable classic for budget travellers'). hotel-corpus.md tell 4, complete grid coverage published at once. One 'I stayed here myself' line does not change it."
+      },
+      {
+        "domain": "goexplorelondon.com",
+        "tell": "FARM. 'Hotel Rating: Not explicitly stated, but generally well-regarded' - an LLM summary artifact left in the copy - beside a 'BOOK YOUR AMAZING TRIP' affiliate funnel and a 'London's Top 10' grid. Also cited in data/consensus/stay-outer.json."
+      },
+      {
+        "domain": "roomhawk.app (redirects to roomhawk.com)",
+        "tell": "FARM / BOOKING FUNNEL. A hotel-booking app's blog bylined 'The Hawk'; keyword titles ('Affordable London Hotels Close to Subway', 'Cheap Last-Minute Hotel Rooms in London') on one skeleton - 'Quick Takeaways', 'Where Travellers Get It Wrong', 'What Smart Explorers Do Instead', 'Editorial Summary'. Also cited in data/consensus/stay-outer.json."
+      },
+      {
+        "domain": "westlondontimes.co.uk",
+        "tell": "FARM. 'News Desk' byline, generated prose ('a perfect fusion of serene suburban living and seamless city access'), broken link fragments left in the text, photo credits to ihg.com/expedia.com, tripadvisor.com and agoda.com."
+      },
+      {
+        "domain": "bettercities.net",
+        "tell": "REPURPOSED DOMAIN. The 'cheap hotels in London Wembley Stadium' URL now redirects to a homepage about Coatesville and Altoona, Pennsylvania."
+      },
+      {
+        "domain": "dyme.earth",
+        "tell": "Already excluded (hotel-corpus.md); appeared on the Wembley and Elizabeth line SERPs. Also cited in data/consensus/stay-outer.json."
+      },
+      {
+        "domain": "wembleypark.com, canarywharf.com, excel.london, canadawater.co.uk",
+        "tell": "OPERATOR LISTINGS: the estate landlords' and the venue's own hotel pages."
+      },
+      {
+        "domain": "clarendonhotel.com, londoncourthotel.com, thestratford.com, blueorchid.com, austindavidapartments.co.uk, hotels.welcomebreak.co.uk, thequarters.co.uk",
+        "tell": "BRAND SITES (tier F): hotels and accommodation operators writing about their own areas."
+      },
+      {
+        "domain": "burgerandlobster.com, londonblockchain.net, rmt.org.uk",
+        "tell": "UNRELATED PARENT BUSINESS: a restaurant group, a conference organiser and a trade union's delegate leaflet."
+      },
+      {
+        "domain": "bluepillow.co.uk, cheaphotels4uk.com, bedandbreakfasts.co.uk, holidaycheck, travelweekly.com hotel database, hotelplanner.com, lycafly.com, momondo, orbitz, travelocity",
+        "tell": "BOOKING ENGINES, METASEARCH, DIRECTORIES AND REVIEW AGGREGATORS."
+      },
+      {
+        "domain": "visitgreenwich.org.uk",
+        "tell": "Paid member directory (refused 9 Sep 2026, data/serp/hotels-greenwich-docklands.txt)."
+      },
+      {
+        "domain": "thejacktherippertour.com",
+        "tell": "Tour operator's 'best hotels in Whitechapel' (Canopy by Hilton, The Gate, One Hundred Shoreditch, a houseboat) - not budget-framed."
+      },
+      {
+        "domain": "cktravels.com",
+        "tell": "Its O2 / North Greenwich where-to-stay section has only 'Mid range' and 'Luxury'."
+      },
+      {
+        "domain": "24hourslayover.com, sidestreetstyle.com, frequentmiler.com, talesofanniebean.com, travelbetweenthelines.co.uk, luxurylifestylemag.co.uk, hungrycityhippy.co.uk, lucy-cole.co.uk",
+        "tell": "Single-property or area write-ups that are not budget-framed, luxury, central or stale (lucy-cole.co.uk returned an empty page; a 2019 Point A stay)."
+      },
+      {
+        "domain": "aspiringkennedy.com",
+        "tell": "2019 residents' neighbourhood guide to West Hampstead; no hotels."
+      },
+      {
+        "domain": "fodors.com",
+        "tell": "Cloudflare challenge to curl - unread."
+      },
+      {
+        "domain": "telegraph.co.uk (O2 and Canary Wharf hotel pages)",
+        "tell": "HTTP 402 TollBit, as in every hotel corpus."
+      }
+    ],
+    "stayOuterCorpusWarning": "data/consensus/stay-outer.json (an area-name corpus seeded 6 Sep 2026) cites roomhawk.app, goexplorelondon.com and dyme.earth - two farms identified in this pass and one excluded on 9 Sep. Not changed here; flagged for whoever owns that corpus. Adding them to sources.json excluded[] would change that corpus's figures, so it was not done."
+  }
 }

@@ -144,6 +144,15 @@ reason: `belgravialdn-staging.preflight.site` is somebody's unpublished staging
 site, and `stow-away.co.uk` is a Waterloo hotel writing about where to stay in
 Waterloo - a brand site, same rule as premierinn.com.
 
+The budget guide's outer London pass (14 Sept 2026) added
+mandysadventureworld.com (eleven posts in twenty days, one keyword grid across
+three cities), goexplorelondon.com (an LLM artifact left in the copy),
+roomhawk.app and roomhawk.com (a booking app's keyword blog) and
+westlondontimes.co.uk ("News Desk" byline, generated prose). bettercities.net
+went too: its London hotels URL now redirects to a site about Pennsylvania.
+These, and dyme.earth from the first sweep, are now on the `excluded` list in
+`data/sources.json` as well, so `build-evidence` drops them everywhere.
+
 The `<city>_<area>` template family is worth naming as a family, because it
 keeps reappearing under new domains: luxuryhotel.guide, boutiquehotel.guru,
 small-hotels-guide.com, new-hotels-guide.com, uniquehotels.me and
