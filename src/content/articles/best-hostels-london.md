@@ -176,11 +176,11 @@ St Christopher's runs **four London hostels**: The Inn and The Village on Boroug
 
 ![A curtained pod-style bunk room at St Christopher's Village, with red curtains and a black-and-white checkerboard floor](../../assets/articles/best-hostels-london/st-christophers-village-dorm.jpg)
 
-![One of the bathroom facilities at St Christopher's Village, tiled in orange with hand dryers and mirrors](../../assets/articles/best-hostels-london/st-christophers-village-bathroom.jpg)
+![The roof terrace at St Christopher's Village, with wooden picnic tables on decking and the Shard rising behind the railings](../../assets/articles/best-hostels-london/st-christophers-village-roof-terrace.jpg)
 
 </div>
 
-*A pod-style dorm at St Christopher's Village, and one of its bathroom facilities.*
+*A pod-style dorm at St Christopher's Village, and its roof terrace under the Shard.*
 
 **Liverpool Street** is the quiet answer of the four: female-only dorms with female-only bathrooms, privacy curtains and lockers in the female rooms, **air conditioning**, key card access to rooms, charging points at every bed and work-friendly desks.
 

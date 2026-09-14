@@ -110,15 +110,9 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 *A studio at Wilde Covent Garden, with the ensuite built into a wood-clad pod beside the bed.*
 
-<div class="photo-row">
-
-![The living area at Native Mayfair, with a bedroom visible through an open door, a blue sofa and a geometric rug](../../assets/articles/aparthotels-london/native-mayfair-living-area.jpg)
-
 ![The bathroom at Native Mayfair, with a freestanding tub, a floor-mounted tap and a heated towel rail](../../assets/articles/aparthotels-london/native-mayfair-bathroom.jpg)
 
-</div>
-
-*The living area at Native Mayfair, with the bedroom through the open door, and the bathroom's freestanding tub.*
+*The bathroom at Native Mayfair, with its freestanding tub.*
 
 **The City, which is the value trick.** Cove by Locke has Moorgate and Cannon Street, Native has King's Wardrobe on Carter Lane by St Paul's, Supercity has The Chronicle off Fetter Lane, and Cheval has Three Quays on the river. The Square Mile empties at weekends, so **Saturday is often the cheapest night of the week** — the reverse of everywhere else in London, and worth checking before you book a Friday. Cove's Cannon Street studios are kitchenettes rather than full kitchens, with a shared laundry room and a 24-hour front desk; there's no on-site parking, though there's a public car park close by. King's Wardrobe is the one Native address in this guide with its own restaurant downstairs — Counter, a café-bar-and-courtyard — and its own paid parking below the building, which none of the other Native sites here offer.
 

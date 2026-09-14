@@ -94,10 +94,6 @@ Three stations serve the strip, so wherever along it you end up you are close to
 
 **[Native Bankside](hotel:native-bankside)** is on a quiet cut-through behind Shakespeare's Globe and puts a kitchen in the room.
 
-![A Native Bankside studio's living area with an orange armchair, a navy sofa, a blue-and-white geometric rug, and the bedroom visible through the open door](../../assets/articles/best-areas-to-stay-in-london/native-bankside.jpg)
-
-*The studio's living space, bedroom visible through the open door beyond.*
-
 ### Bloomsbury — the cheapest good decision in Zone 1
 
 *From about £26 a hostel bed · Zone 1 · Russell Square and Holborn · [area guide](/articles/bloomsbury-area-guide/)*

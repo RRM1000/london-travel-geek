@@ -252,15 +252,9 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 **[Native Mayfair](hotel:native-mayfair)** is the other approach: studios and apartments with **fully fitted kitchens** — fridge, freezer, dishwasher and a dining table — on a mews off Grosvenor Square, three minutes from Bond Street and its Elizabeth line platforms. Native files it under apartments for longer stays rather than under its aparthotels, so expect it to reward a week more than two nights. Our [aparthotels guide](/articles/aparthotels-london/) compares twenty-six of them.
 
-<div class="photo-row">
-
-![A studio at Native Mayfair, with a living area of an orange leather chair, navy sofa and marble coffee table, and the bedroom visible through an open door](../../assets/articles/where-to-stay-soho-west-end/native-mayfair-room.jpg)
-
 ![The bathroom at Native Mayfair, with a freestanding bathtub, a wood bath caddy and a walk-in glass shower alongside](../../assets/articles/where-to-stay-soho-west-end/native-mayfair-bathroom.jpg)
 
-</div>
-
-*A studio at Native Mayfair, with the bedroom visible through the open door, and its bathroom with a freestanding tub and walk-in shower.*
+*The bathroom at Native Mayfair, with a freestanding tub and a walk-in shower.*
 
 ### Marylebone — the calm one, ten minutes out
 

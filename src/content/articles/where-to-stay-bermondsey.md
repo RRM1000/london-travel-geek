@@ -128,11 +128,11 @@ It is **adults only, 18 and over**, breakfast is £3, check-out is 11am and rece
 
 ![A curtained pod-style bunk room at St Christopher's Village, with red curtains and a black-and-white checkerboard floor](../../assets/articles/where-to-stay-bermondsey/st-christophers-village-dorm.jpg)
 
-![One of the bathroom facilities at St Christopher's Village, tiled in orange with hand dryers and mirrors](../../assets/articles/where-to-stay-bermondsey/st-christophers-village-bathroom.jpg)
+![The roof terrace at St Christopher's Village, with wooden picnic tables on decking and the Shard rising behind the railings](../../assets/articles/where-to-stay-bermondsey/st-christophers-village-roof-terrace.jpg)
 
 </div>
 
-*A pod-style dorm at St Christopher's Village, and one of its bathroom facilities.*
+*A pod-style dorm at St Christopher's Village, and its roof terrace under the Shard.*
 
 ### Bankside — ten minutes west, and where the mid-range actually lives
 
@@ -142,15 +142,9 @@ Bermondsey has exactly one hotel in the £150 to £200 band. Bankside has severa
 
 **[Native Bankside](hotel:native-bankside)** is the aparthotel answer on Bear Gardens behind Shakespeare's Globe, in a **restored Victorian tea warehouse** with polished concrete, exposed brick and arched factory windows. Studios run 23 to 33 m² and one-bedrooms 34 to 45 m², with **daily cleaning** rather than Locke's weekly, which is part of what the higher band buys. Southwark, London Bridge and Blackfriars are each under ten minutes' walk, and the Thames Clipper stops at the end of the street.
 
-<div class="photo-row">
-
-![The living area of an apartment at Native Bankside, with a tan leather chair, a navy sofa and the bedroom visible through the doorway](../../assets/articles/where-to-stay-bermondsey/native-bankside-room.jpg)
-
 ![The bathroom in an apartment at Native Bankside, with dark tiling, a walk-in shower and a wall-hung sink](../../assets/articles/where-to-stay-bermondsey/native-bankside-bathroom.jpg)
 
-</div>
-
-*The living area of a one-bedroom apartment at Native Bankside, with the bedroom visible through the doorway, and its bathroom.*
+*The bathroom in a Native Bankside apartment.*
 
 Two more worth pricing on your own dates: **The Hoxton, Southwark** is about £190 for one of 192 rooms over six floors, with the Seabird rooftop and its very long oyster list on top, and **Premier Inn London County Hall** is about £110, two Jubilee stops west at Waterloo. Our [aparthotels guide](/articles/aparthotels-london/) has the full South Bank comparison.
 
