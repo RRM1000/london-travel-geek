@@ -33,8 +33,10 @@ import { stops as regentsParkMaryleboneWalk } from "./routes/regents-park-maryle
 import { stops as hampsteadHeathPrimroseHillWalk } from "./routes/hampstead-heath-primrose-hill-walk";
 import { stops as fitzroviaMayfairWalk } from "./routes/fitzrovia-mayfair-walk";
 import { stops as nottingHillColourfulHouses } from "./routes/notting-hill-colourful-houses";
+import { stops as banksyWalkLondon } from "./routes/banksy-walk-london";
 
 export const routeMaps: Record<string, RouteMapStop[]> = {
+  "banksy-walk-london": banksyWalkLondon,
   "fitzrovia-mayfair-walk": fitzroviaMayfairWalk,
   "notting-hill-colourful-houses": nottingHillColourfulHouses,
   "regents-park-marylebone-walk": regentsParkMaryleboneWalk,
@@ -103,7 +105,32 @@ export const routeConnections: Record<string, RouteConnection[]> = {
         "Ends two minutes from where this one starts, so the pair run back to back. 11 stops, 4km.",
     },
   ],
+  "banksy-walk-london": [
+    {
+      slug: "shoreditch-spitalfields-walk",
+      label: "Shoreditch and Spitalfields: Columbia Road to Petticoat Lane",
+      where: "The Old Truman Brewery",
+      detail:
+        "This walk ends in Ely's Yard, which is stop 5 of that one. Pick it up there for Brick Lane and Spitalfields. 11 stops, 2.6km.",
+    },
+  ],
+  "shoreditch-spitalfields-walk": [
+    {
+      slug: "banksy-walk-london",
+      label: "The Banksy walk: Waterloo Place to Brick Lane",
+      where: "The Old Truman Brewery",
+      detail:
+        "Finishes at the Pink Car in Ely's Yard, beside stop 5. Nine original Banksys on the way. 7 stops, 8.8km.",
+    },
+  ],
   "westminster-walk": [
+    {
+      slug: "banksy-walk-london",
+      label: "The Banksy walk: Waterloo Place to Brick Lane",
+      where: "Trafalgar Square",
+      detail:
+        "Starts at Waterloo Place, five minutes west of where this one ends. 7 stops, 8.8km.",
+    },
     {
       slug: "covent-garden-walk",
       label: "Covent Garden: Leicester Square to Somerset House",

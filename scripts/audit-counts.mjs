@@ -25,8 +25,12 @@ import fs from "node:fs";
 // off. If you add entries to one of these pages, update the number here too.
 const SUBSET = {
   "london-street-art": {
-    n: 10,
+    n: 15,
     why: "Banksys viewable as originals in situ; the ### are mostly areas",
+  },
+  "banksy-walk-london": {
+    n: 9,
+    why: "original Banksys; seven numbered stops, two of which are pairs",
   },
   "london-blue-plaques": {
     n: 23,

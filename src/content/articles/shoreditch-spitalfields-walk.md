@@ -324,6 +324,7 @@ The walk is **flat and paved throughout** and never more than about five minutes
 ## Carry on walking
 
 - **[City of London: Bank to Tower Bridge](/articles/city-of-london-walk/)** — starts at Bank, a short walk south of Spitalfields.
+- **[The Banksy walk](/articles/banksy-walk-london/)** — finishes at the Pink Car in Ely's Yard, beside stop 5, after nine original Banksys from Waterloo Place. Walk it first and carry straight on into this one.
 
 ## What to do with the rest of the day
 

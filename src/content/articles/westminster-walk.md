@@ -317,6 +317,7 @@ Walked in reverse — Trafalgar Square to Westminster Bridge — it works and en
 - **[Covent Garden: Seven Dials to the Piazza](/articles/covent-garden-walk/)** — Trafalgar Square is the edge of Covent Garden.
 - **[South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)** — starts across Westminster Bridge, where this one begins.
 - **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — finishes at Green Park, across the Mall from Buckingham Palace.
+- **[The Banksy walk](/articles/banksy-walk-london/)** — starts at the Blind Patriotism statue on Waterloo Place, five minutes west of Trafalgar Square, and runs to Brick Lane past nine originals.
 
 ## What to do with the rest of the day
 

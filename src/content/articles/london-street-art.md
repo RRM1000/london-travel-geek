@@ -1,7 +1,7 @@
 ---
 title: "Banksy and London Street Art: What's Still There"
 seoTitle: "Banksy in London 2026: What Survives + Street Art Map"
-description: "Twelve Banksys still standing and the ones that are gone, the two ticketed Banksy exhibitions, where the city's other street art actually is, and where to buy a print."
+description: "Fifteen Banksys still standing and the ones that are gone, a walking route past the central London ones, the two ticketed Banksy exhibitions, where the city's other street art actually is, and where to buy a print."
 heroImage: "../../assets/articles/london-street-art/london-street-art.jpg"
 heroImageAlt: "A large painted mural covering a brick wall on Bacon Street off Brick Lane"
 heroImageCredit: "Fred Romero"
@@ -9,6 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Bacon_Street.
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-08-23
+updatedAt: 2026-09-14
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -16,9 +17,9 @@ tags: [street art, Banksy, free things to do, things to do, Shoreditch]
 draft: false
 faq:
   - q: "Where can I see Banksy in London?"
-    a: "Twelve works are still viewable as originals. The Cannon Street rat is one of the earliest survivors, two 2017 Basquiat tributes sit in one tunnel by the Barbican, and two 2004 stencils rescued from The Foundry are mounted on the front of art'otel Hoxton. Of the 2024 animal series only the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino remain in place. The newest is Blind Patriotism, a statue installed at Waterloo Place in April 2026."
+    a: "Fifteen works are still viewable as originals. In central London, nine of them sit on one walkable line from Waterloo Place to Brick Lane: Blind Patriotism, the 2026 statue; the Stargazing Children at Centre Point; the Cannon Street and Chiswell Street rats; two 2017 Basquiat tributes in the Beech Street tunnel; two 2004 stencils rescued from The Foundry on art'otel Hoxton; and the Pink Car at the Old Truman Brewery. Of the 2024 animal series only the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino remain in place."
   - q: "Are Banksy works still in place?"
-    a: "Some. Six of the nine 2024 animals have been removed, stolen, dismantled or swapped for a replica, and the Royal Courts of Justice mural was scrubbed off within two days. This guide marks which are gone — most published Banksy maps do not, which is why people travel to blank walls."
+    a: "Some. Six of the nine 2024 animals have been removed, stolen, dismantled or swapped for a replica, and the Royal Courts of Justice mural was scrubbed off within two days. This guide marks which are gone. Even the maps that track status fall behind — Banksy Map still listed the Kew goat as in place in September 2026, more than eighteen months after it was cut out — which is why people travel to blank walls."
   - q: "Where is the best street art in London?"
     a: "Shoreditch and Hackney Wick have the densest concentrations, and both change constantly. Leake Street tunnel under Waterloo is legal graffiti, repainted continuously, and the only place you can watch it being made."
   - q: "Is street art free to see?"
@@ -33,19 +34,20 @@ This guide **says which are gone**, which is the single most useful thing a stre
 
 **It covers two things.** The first half is Banksy — what survives, what has been removed, and the two ticketed exhibitions showing work that has come off walls. The second half is the rest of London's street art, which is where most of the city's best painting actually is and none of which needs a ticket.
 
-**Twelve Banksys are still viewable as originals in situ**: the Cannon Street rat, the two Basquiat tributes, the two Foundry pieces now on the front of art'otel Hoxton, the Bermondsey fishing boy, the Chelsea elephants, the Walthamstow pelicans, the Charlton rhino, the Finsbury Park tree, the Stargazing Children on New Oxford Street, and Blind Patriotism at Waterloo Place. Everything else you will read about has been removed, stolen, boarded over, scrubbed off or replaced with a replica.
+**Fifteen Banksys are still viewable as originals in situ**: the Cannon Street rat, the I Love London rat on Chiswell Street, the two Basquiat tributes, the two Foundry pieces now on the front of art'otel Hoxton, the Pink Car at the Old Truman Brewery, the Bermondsey fishing boy, the Royal Family in Stoke Newington, the Chelsea elephants, the Walthamstow pelicans, the Charlton rhino, the Finsbury Park tree, the Stargazing Children at Centre Point, and Blind Patriotism at Waterloo Place. Everything else you will read about has been removed, stolen, boarded over, scrubbed off or replaced with a replica.
 
-> 💡 **The Short Version:** The **Cannon Street rat** is one of the earliest survivors. Two **Basquiat tributes** sit in one tunnel by the Barbican. The **2024 animal series** left work across the city, though several pieces vanished within days. **Leake Street** is legal graffiti under Waterloo and repainted constantly. And **Shoreditch** is still the densest area.
+> 💡 **The Short Version:** **Nine of the fifteen are on one walk** — our [Banksy walking route](/articles/banksy-walk-london/) runs from **Blind Patriotism** at Waterloo Place to the **Pink Car** off Brick Lane in about three hours. The best-preserved rat is on **Chiswell Street**. The **2024 animal series** left work across the city, though six of the nine have gone. **Leake Street** is legal graffiti under Waterloo and repainted constantly. And **Shoreditch** is still the densest area.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Street art is impermanent by nature. Everything here was checked in August 2026 and we have flagged what had already been removed — but a piece can disappear the week after publication, so treat any single work as provisional.
+> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Street art is impermanent by nature. Everything here was checked in August 2026, the Banksys again in September 2026, and we have flagged what had already been removed — but a piece can disappear the week after publication, so treat any single work as provisional.
 
 ## Where they are
 
 | If you are near… | What to see |
 | --- | --- |
-| **The City** | Cannon Street rat, two Basquiat tributes |
-| **Shoreditch & Brick Lane** | The densest concentration in London, changing constantly — plus the two Foundry Banksys on art'otel Hoxton |
+| **The City** | Cannon Street rat, Chiswell Street rat, two Basquiat tributes |
+| **Shoreditch & Brick Lane** | The densest concentration in London, changing constantly — plus the two Foundry Banksys on art'otel Hoxton and the Pink Car |
+| **Stoke Newington** | Banksy's Royal Family, one of his earliest and best-preserved |
 | **Waterloo** | Leake Street tunnel — legal, and repainted continuously |
 | **Chelsea** | Banksy's elephants |
 | **Walthamstow** | Banksy's pelicans, the best-preserved of the 2024 series |
@@ -55,19 +57,23 @@ This guide **says which are gone**, which is the single most useful thing a stre
 | **Hackney Wick** | Large-scale murals along the canal |
 | **Brixton** | The Bowie mural, protected and locally listed |
 
+**[Walk the central London Banksys in order →](/articles/banksy-walk-london/)** Nine originals at seven stops, from Waterloo Place to Brick Lane, with a map and what you can actually see at each.
+
+**For every Banksy ever recorded in London**, including the ones that have gone, [Banksy Map](https://banksymap.com/explore/london-map/) plots them all with photographs. Treat its status labels as a starting point rather than a verdict: in September 2026 it still showed the Kew goat, cut out in February 2025, as in place, and the Foundry rat on art'otel Hoxton as boarded up three years after it came back into view.
+
 ---
 
 ## Banksy, and what survives
 
 ### Cannon Street Rat, City of London
 
-*Free · still in place*
+*Free · faded*
 
-One of Banksy's **earliest surviving London rats**, stencilled on the brick of the railway bridge carrying trains into Cannon Street — a reminder of how much of his early-2000s stencil work has been painted over, prised off or built on since.
+One of Banksy's **earliest surviving London rats**, stencilled in **Steelyard Passage**, the footpath that takes the Thames Path underneath Cannon Street station — a reminder of how much of his early-2000s stencil work has been painted over, prised off or built on since.
 
-**Free, outdoors and visible from the pavement at any hour.** There is no marker, no protective perspex and nothing to tell you it is there, which is half the reason it has survived.
+**Free and on a public riverside path.** There is no marker, no protective perspex and nothing to tell you it is there, which is half the reason it has survived. It is also **small and faded**, so walk the passage slowly: Londonist reported it still visible in May 2026, but it is easy to walk straight past.
 
-It is on **Cannon Street railway bridge**, a two-minute walk from Cannon Street or Monument stations, and it is easiest to combine with the Basquiat pair at the Barbican and the "I Love London" rat on Chiswell Street — all three are within a fifteen-minute walk of each other.
+It is a few minutes from Cannon Street station, and it is easiest to combine with the Basquiat pair at the Barbican and the I Love London rat on Chiswell Street — about half an hour's walk north, and stops 3 to 5 of our [Banksy walk](/articles/banksy-walk-london/).
 
 **Go on a weekend if you want the street to yourself.** This is the City, so the pavements are impassable at 8.30 on a weekday and deserted on a Sunday.
 
@@ -83,6 +89,16 @@ Painted in **2017 to coincide with a Basquiat exhibition at the Barbican**: a fe
 
 > ⚠️ **Beech Street is a road tunnel, not a walkway.** There is a pavement, but it is narrow, loud and used by traffic, so it is an unpleasant place to linger. Go, look, photograph and move on. Barbican station is two minutes at the western end.
 
+### The I Love London rat, Chiswell Street
+
+*Free · still in place · behind plastic*
+
+**The best-preserved of Banksy's early rats.** A rat wearing a medallion holds up a placard declaring **I Love London**, on the wall at **52 Chiswell Street**, where Beech Street comes out of its tunnel.
+
+It is behind a plastic cover and has still been attacked several times. The blacked-out word under "London" once read **"Robbo"**, the graffiti writer Banksy feuded with for years, and a sticker tagger has since written over it.
+
+**Free and visible from the pavement at any hour**, and three minutes on foot from the Basquiat pair, so the two are one stop. Of the three rats in this part of London it is the one worth photographing.
+
 ### The Foundry pair, Shoreditch
 
 *Free · still in place*
@@ -93,11 +109,11 @@ They are now mounted on the front of **art'otel London Hoxton**, which was built
 
 ### Fishing Boy, Bermondsey
 
-*Free · Thames Path · open at all hours*
+*Free · Thames Path · very faded*
 
-A 2008 piece showing a boy fishing, stencilled right on the **Thames Path at Bermondsey Wall** — part of a small cluster of riverside Banksy work along this stretch of the south bank.
+A 2008 piece showing a boy fishing, stencilled right on the **Thames Path at Bermondsey Wall**. His catch was once a hypodermic needle.
 
-**It is free, outdoors and on a public riverside path that never closes**, which makes it one of the few pieces here you can see at any hour.
+**It is now so faded it is hard to make out**, so do not make the trip for this alone. It is free, outdoors and on a public riverside path that never closes.
 
 **Do it as a walk rather than a destination.** The Thames Path runs east from Tower Bridge past Shad Thames and Butler's Wharf, and the piece is about fifteen minutes along it — with the Angel pub and the remains of Edward III's manor house on the same stretch.
 
@@ -114,6 +130,16 @@ It is at the junction of **Edith Terrace and Edith Grove**, off the western end 
 **Free and visible from the pavement at any hour**, but this is a quiet residential street where people live, so look rather than linger.
 
 **Take the bus.** The 11, 19 and 22 run the length of the King's Road, and there is no station at this end — which is exactly why so few people who read about this piece ever go and see it.
+
+### The Royal Family, Stoke Newington
+
+*Free · still in place · since the early 2000s*
+
+**One of Banksy's earliest London works, and one of the best preserved.** A mock royal family waves from a balcony halfway up the side of a building on **Stoke Newington Church Street**, where it has been since 2001.
+
+It has survived several attempts to remove it. In 2009 the council started painting the wall black, until locals realised what was happening and got the work stopped — which is why the family is now surrounded by black paint.
+
+**Free and visible from the pavement at any hour**, at **140 Stoke Newington Church Street**, about ten minutes' walk from Stoke Newington station.
 
 ---
 
@@ -157,7 +183,7 @@ Banksy put up nine animal works across London over nine days in August 2024. **S
 
 *Free · April 2026 · in place, behind barriers*
 
-The newest Banksy in London and the easiest to see. A suited figure stepping down off his plinth, holding a flag that blows back and covers his own face. It went up overnight on **29 April 2026** near Trafalgar Square and he confirmed it three days later.
+The newest Banksy in London and the easiest to see. A suited figure stepping down off his plinth, holding a flag that blows back and covers his own face. It went up overnight on **29 April 2026** near Trafalgar Square and he confirmed it the next day.
 
 **Westminster City Council has spent almost £60,000 on it** and is still deciding whether to make it permanent. It stands behind barriers, in the open, free to walk up to at any hour.
 
@@ -224,9 +250,9 @@ A three-hundred-metre tunnel under Waterloo station where graffiti is **legal an
 
 The densest concentration in London, and it changes month to month. **Rivington Street, Redchurch Street, Hanbury Street and the Brick Lane side streets** are the core, and you can walk the lot in about two hours without a guide.
 
-**Rivington Street is where the Banksys are.** The former Cargo courtyard holds *His Master's Voice* and the *Guard Dog*, and two more — the **knife-and-fork rat** and the **television out of a window** — are mounted on the front of **art'otel London Hoxton** on the Great Eastern Street corner. All are outdoors, free, and visible from the pavement without going into the hotel.
+**Rivington Street is where the Banksys are.** The **knife-and-fork rat** and the **television out of a window** are mounted on the front of **art'otel London Hoxton** on the Great Eastern Street corner — outdoors, free, and visible from the pavement without going into the hotel.
 
-**The Pink Car is at the Old Truman Brewery**, right on Brick Lane, which makes it easy to combine with the market and the curry houses.
+**The Pink Car is in Ely's Yard at the Old Truman Brewery**, just off Brick Lane: weathered, sealed in a perspex box and parked beside the food trucks, which makes it easy to combine with the market and the curry houses.
 
 **Sunday is the day.** Brick Lane, Columbia Road and Spitalfields markets all run, the streets fill, and the area is at its best. Shoreditch High Street and Liverpool Street are both a few minutes' walk.
 
