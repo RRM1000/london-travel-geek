@@ -6,6 +6,12 @@ publishedAt: 2026-09-14
 sites: [london]
 canonicalSite: london
 category: "Things to do"
+heroImage: "../../assets/articles/paris-day-trip/paris-aerial-eiffel-tower.jpg"
+heroImageAlt: "Paris from above on a clear day, with the Eiffel Tower on the skyline and a tree-lined avenue running away between stone apartment blocks"
+heroImageCredit: "Mo Eid"
+heroImageSource: "https://www.pexels.com/photo/18411385/"
+heroImageLicense: "Pexels License"
+heroImageLicenseUrl: "https://www.pexels.com/license/"
 tags: [day trips, Paris, Eurostar, trains, France, things to do]
 draft: false
 faq:
@@ -109,6 +115,10 @@ That gives you from **10:29 to about 17:45** in Paris before you need to be thro
 
 Seven hours sounds generous next to a three-hour bus ride each way to Stonehenge, and it is — but by the time you've added the walk to and from the Métro, queuing at whatever you're visiting, and a buffer for getting back to Gare du Nord rather than sprinting for the gate, the honest number for actually doing things is closer to **five or six hours**. That's two sights done properly and a meal, not four rushed past.
 
+![Pale stone apartment buildings along a tree-lined side street in central Paris, with café tables and a row of hire bikes](../../assets/articles/paris-day-trip/paris-side-street.jpg)
+
+*A side street in central Paris. Photo: MuffinLand, Pexels.*
+
 ## Getting into Paris: Métro and RER from Gare du Nord
 
 Gare du Nord is itself a Métro and RER hub, so nothing central is far. A single ticket is **€2.55** on any Métro, RER or train within Paris (a day pass is €12.30, worth it only if you're making more than about five journeys). All times below are live transit estimates checked from Gare du Nord.
@@ -128,17 +138,29 @@ Given the real hours available, pick one of these rather than trying to string a
 
 **Central loop: Louvre, then Notre-Dame.** Closest to the station and closest to each other. The Louvre's collection is vast; if you have two to three hours, go in with a short list (the Mona Lisa and the Denon wing are the obvious one) rather than trying to see everything. It's **€22 for EEA residents, €32 for everyone else** — which now includes UK visitors — and **closed every Tuesday**, open 9:00–18:00 Monday, Thursday, Saturday and Sunday, 9:00–21:00 Wednesday and Friday, last entry an hour before close. Notre-Dame, reopened in December 2024 after the 2019 fire, is **free to enter every day during opening hours**.
 
+![The Louvre's glass pyramid in its main courtyard, with the palace's carved stone wings behind it under a clear sky](../../assets/articles/paris-day-trip/louvre-pyramid.jpg)
+
+*The glass pyramid in the Louvre's main courtyard, the museum's best-known entrance.*
+
 > ⚠️ **If you're travelling on a Tuesday** — the same day of the week we priced the Eurostar fares against in this guide — **the Louvre is shut.** Swap in the Musée d'Orsay or simply give Notre-Dame and the Left Bank more time.
 
 **Eiffel Tower loop: the tower, then a Seine cruise.** Both start from the same spot, so there's no extra crossing of the city. A ticket to the summit by lift is **€36.70**, to the second floor **€23.50**; the tower is booked in timed online slots, and same-day walk-up availability isn't guaranteed, so book ahead if this is the plan. Bateaux Parisiens run a one-hour sightseeing cruise from the foot of the tower past the Musée d'Orsay, the Louvre and Notre-Dame — a way to see the rest of central Paris from the water if you don't have time to visit it on foot. Large luggage isn't allowed inside the tower and there's no storage, so this loop doesn't work if you're carrying more than a day bag.
 
+![The Eiffel Tower seen from below on a sunny evening, with the five Olympic rings mounted between the first and second floors](../../assets/articles/paris-day-trip/eiffel-tower-olympic-rings.jpg)
+
+*The Eiffel Tower in August 2024, wearing the Olympic rings it carried for the Paris Games.*
+
 **Montmartre**, 15 minutes from the station by Métro, is the option if you'd rather wander a neighbourhood than queue for a ticketed sight — cobbled streets, the Place du Tertre, and the basilica itself free to enter.
+
+![The white domes of the Sacré-Cœur at the top of Montmartre, above lawns and long flights of steps busy with visitors](../../assets/articles/paris-day-trip/sacre-coeur-steps.jpg)
+
+*The Sacré-Cœur at the top of Montmartre, free to enter once you've climbed the steps.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-eiffel-tower-skip-the-line" data-gyg-partner-id="WWP7I0R" data-gyg-q="Eiffel Tower skip the line tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 Prefer someone else to handle the tickets, the coach transfers in Paris and the Eurostar booking? The escorted day trip linked at the top of this guide covers a panoramic coach tour, lunch at the Eiffel Tower's Madame Brasserie, a Seine cruise and entry to the tower itself, with round-trip Eurostar included — useful if you'd rather not plan the logistics above yourself.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-eurostar-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="11108"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="11108" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What people get wrong
 
