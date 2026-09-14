@@ -26,7 +26,7 @@
 //
 // budget (--set=budget) - the budget hotels shortlist in
 // data/hotel-rate-samples/budget-properties.json. Rob's rule (14 Sep 2026):
-// budget means a typical sampled night UNDER £150, so a hotel the sources call
+// budget means a typical sampled night of £150 OR LESS, so a hotel the sources call
 // cheap still drops out if its median night is over the line. One price per
 // night: the cheapest double or twin shown for 2 adults, total including taxes
 // and fees. Premier Inn and hub by Premier Inn do not sell through Hotels.com,
@@ -605,7 +605,7 @@ function reportBudget() {
 
   const out = {
     sampledOn: run.checked, basis: run.basis, ceiling,
-    rule: `A hotel is budget when its median sampled night is under £${ceiling} (Rob, 14 Sep 2026). Needs ${MIN_NIGHTS_FOR_VERDICT}+ priced nights.`,
+    rule: `A hotel is budget when its median sampled night is £${ceiling} or less (Rob, 14 Sep 2026). Needs ${MIN_NIGHTS_FOR_VERDICT}+ priced nights.`,
     dates: run.dates, properties: [], notPriced: [],
   };
   for (const p of properties) {
@@ -630,7 +630,7 @@ function reportBudget() {
       cheapest: vals.length ? vals[0] : null,
       dearest: vals.length ? vals[vals.length - 1] : null,
       median,
-      medianUnderCeiling: vals.length >= MIN_NIGHTS_FOR_VERDICT ? median < ceiling : null,
+      withinCeiling: vals.length >= MIN_NIGHTS_FOR_VERDICT ? median <= ceiling : null,
     });
   }
 
@@ -639,13 +639,13 @@ function reportBudget() {
   console.log(`  dates: ${run.dates.map((d) => `${d.date} ${DAY[new Date(d.date).getUTCDay()]}`).join(", ")}`);
   for (const p of out.properties) {
     const cells = p.nights.map((n) => (n.total != null ? `£${n.total}` : n.soldOut ? "sold out" : "not captured")).join(" | ");
-    const verdict = p.medianUnderCeiling == null ? `no verdict (${p.datesPriced} priced night(s))` : p.medianUnderCeiling ? `UNDER £${ceiling}` : `OVER £${ceiling}`;
+    const verdict = p.withinCeiling == null ? `no verdict (${p.datesPriced} priced night(s))` : p.withinCeiling ? `£${ceiling} OR LESS` : `OVER £${ceiling}`;
     console.log(`  ${p.slug} [${p.engine}]: ${cells} -> cheapest ${money(p.cheapest)}, dearest ${money(p.dearest)}, median ${money(p.median)}: ${verdict}`);
   }
-  const pass = out.properties.filter((p) => p.medianUnderCeiling === true).map((p) => p.slug);
-  const fail = out.properties.filter((p) => p.medianUnderCeiling === false).map((p) => p.slug);
-  const open = out.properties.filter((p) => p.medianUnderCeiling == null).map((p) => p.slug);
-  console.log(`\n  under £${ceiling} (${pass.length}): ${pass.join(", ") || "none"}`);
+  const pass = out.properties.filter((p) => p.withinCeiling === true).map((p) => p.slug);
+  const fail = out.properties.filter((p) => p.withinCeiling === false).map((p) => p.slug);
+  const open = out.properties.filter((p) => p.withinCeiling == null).map((p) => p.slug);
+  console.log(`\n  £${ceiling} or less (${pass.length}): ${pass.join(", ") || "none"}`);
   console.log(`  over £${ceiling} (${fail.length}): ${fail.join(", ") || "none"}`);
   if (open.length) console.log(`  no verdict (${open.length}): ${open.join(", ")}`);
   for (const n of out.notPriced) console.log(`  not priced: ${n.slug} - ${n.status}: ${n.reason}`);
