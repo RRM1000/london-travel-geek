@@ -1,0 +1,20 @@
+{
+  "_comment": "Affiliate links used inline in article prose as [text](partner:key). Resolved at build time by src/lib/remark-partner-links.mjs, which adds rel=sponsored, data-affiliate and the 'ad' chip. The ids are the same programme accounts Roam Compare uses (C:/Users/rober/Projects/roam-compare): Saily aff_id 16131 / offer 101, Nomad through Impact (LotusFlare), Klook aid 132809. Every link was followed to its landing page on 2026-09-14.",
+  "links": {
+    "saily-uk": {
+      "network": "saily",
+      "url": "https://go.saily.site/aff_c?offer_id=101&aff_id=16131&url=https%3A%2F%2Fsaily.com%2Fesim-united-kingdom%2F%3Faff_transaction_id%3D%7Btransaction_id%7D%26aff_offer_id%3D%7Boffer_id%7D%26aff_id%3D%7Baff_id%7D",
+      "lands": "https://saily.com/esim-united-kingdom/"
+    },
+    "nomad-uk": {
+      "network": "impact",
+      "url": "https://lotusflareinc.pxf.io/c/4309471/3731449/34279?u=https%3A%2F%2Fwww.nomadesim.com%2Funited-kingdom-eSIM%3Futm_source%3Dimpact%26utm_medium%3Dweb",
+      "lands": "https://www.nomadesim.com/united-kingdom-eSIM"
+    },
+    "klook-uk": {
+      "network": "klook",
+      "url": "https://www.klook.com/en-GB/activity/110722-uk-esim-high-speed-internet-qr-code-in-the-voucher/?aid=132809",
+      "lands": "https://www.klook.com/en-GB/activity/110722-uk-esim-high-speed-internet-qr-code-in-the-voucher/"
+    }
+  }
+}
