@@ -78,6 +78,26 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 ## By area, and by how you get there
 
+<details class="restaurant-map-shell" open>
+  <summary>
+    <span>Where each aparthotel is, by operator</span>
+  </summary>
+  <div class="restaurant-map" data-hotel-map="aparthotels-london" role="region" aria-label="Interactive map of the aparthotels in this guide, coloured by operator">
+    <p>Loading the interactive map…</p>
+  </div>
+  <div class="restaurant-map-legend" aria-label="Map key">
+    <span><i class="restaurant-map-key hotel-map-key--locke" aria-hidden="true"></i> Locke and Cove — studios</span>
+    <span><i class="restaurant-map-key hotel-map-key--native" aria-hidden="true"></i> Native — studios and apartments</span>
+    <span><i class="restaurant-map-key hotel-map-key--cheval" aria-hidden="true"></i> Cheval — full apartments</span>
+    <span><i class="restaurant-map-key hotel-map-key--supercity" aria-hidden="true"></i> Supercity — suites</span>
+    <span><i class="restaurant-map-key hotel-map-key--staycity" aria-hidden="true"></i> Staycity — kitchenette studios</span>
+    <span><i class="restaurant-map-key hotel-map-key--wilde" aria-hidden="true"></i> Wilde — studios</span>
+  </div>
+  <noscript>
+    <p>The interactive map requires JavaScript. Every aparthotel below is grouped by area, with its nearest station.</p>
+  </noscript>
+</details>
+
 **Central, and priced like it.** Wilde Covent Garden is on Adam Street between the Strand and the river, three minutes from the piazza — its studios run to a proper kitchen, with a hob, a dishwasher, a fridge and Smeg kettle and toaster, rather than the bare kitchenette the format sometimes gets by with. [Native Mayfair](hotel:native-mayfair) is on a mews off Grosvenor Square, three minutes from Bond Street and the Elizabeth line; the kitchen comes as standard here too, though there's no gym on-site — the nearest is a short, paid walk away. Both are as central as this format gets in London.
 
 <div class="photo-row">

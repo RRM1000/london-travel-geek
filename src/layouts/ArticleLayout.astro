@@ -386,6 +386,7 @@ const breadcrumbs = [
   <script>
     import { restaurantMaps } from "../data/restaurantMaps";
     import { routeMaps } from "../data/routeMaps";
+    import { hotelMaps, hotelOperatorLabels } from "../data/hotelMaps";
 
     const videoButtons = document.querySelectorAll<HTMLButtonElement>(
       "[data-youtube-video]",
@@ -575,6 +576,90 @@ const breadcrumbs = [
       }
     };
 
+    // Hotel maps: one pin per property, coloured by operator, with the note
+    // from the guide in the popup. Same lazy-load and fallback as the
+    // restaurant maps; the data is hand-authored in hotelMaps.ts.
+    const initialiseHotelMap = async (element: HTMLElement) => {
+      if (element.dataset.mapReady === "true") return;
+
+      const markers = hotelMaps[element.dataset.hotelMap ?? ""];
+      if (!markers?.length) return;
+
+      element.dataset.mapReady = "true";
+
+      try {
+        const L = await loadLeaflet();
+        element.replaceChildren();
+
+        const map = L.map(element, { scrollWheelZoom: false });
+        L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          maxZoom: 19,
+          attribution:
+            '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        }).addTo(map);
+
+        const positions: [number, number][] = [];
+
+        for (const markerData of markers) {
+          const position: [number, number] = [markerData.latitude, markerData.longitude];
+          positions.push(position);
+
+          const icon = L.divIcon({
+            className: "restaurant-map-marker-wrap",
+            html: `<span class="restaurant-map-marker hotel-map-marker--${markerData.operator}" aria-hidden="true"></span>`,
+            iconSize: [26, 34],
+            iconAnchor: [13, 34],
+            popupAnchor: [0, -30],
+          });
+
+          const content = document.createElement("div");
+          content.className = "restaurant-map-popup";
+
+          const name = document.createElement("strong");
+          name.textContent = markerData.name;
+
+          const details = document.createElement("span");
+          details.textContent = `${hotelOperatorLabels[markerData.operator]} · ${markerData.area}`;
+
+          const note = document.createElement("span");
+          note.textContent = markerData.note;
+
+          const links = document.createElement("span");
+          if (markerData.articleAnchor) {
+            const articleLink = document.createElement("a");
+            articleLink.href = markerData.articleAnchor;
+            articleLink.textContent = "Read about it";
+            links.append(articleLink);
+          }
+          const mapLink = document.createElement("a");
+          mapLink.href = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+            `${markerData.name}, ${markerData.area}, London`,
+          )}`;
+          mapLink.target = "_blank";
+          mapLink.rel = "noopener noreferrer";
+          mapLink.textContent = "Open in Google Maps";
+          links.append(mapLink);
+
+          content.append(name, details, note, links);
+
+          L.marker(position, { icon, title: markerData.name, alt: markerData.name })
+            .addTo(map)
+            .bindPopup(content);
+        }
+
+        map.fitBounds(L.latLngBounds(positions), { padding: [28, 28], maxZoom: 14 });
+
+        const shell = element.closest<HTMLDetailsElement>("details");
+        shell?.addEventListener("toggle", () => {
+          if (shell.open) window.setTimeout(() => map.invalidateSize(), 0);
+        });
+      } catch {
+        element.innerHTML =
+          '<p>The map could not load. Every property is listed by area in the guide below.</p>';
+        delete element.dataset.mapReady;
+      }
+    };
+
     // Walking routes: numbered pins in walking order, joined by a line, so the
     // shape of the walk reads off the map without opening a single popup.
     // Alternatives that share a number (the three City viewpoints) are left off
@@ -675,6 +760,23 @@ const breadcrumbs = [
           "toggle",
           () => {
             if (shell.open) void initialiseRouteMap(element);
+          },
+          { once: true },
+        );
+      }
+    }
+
+    for (const element of document.querySelectorAll<HTMLElement>(
+      "[data-hotel-map]",
+    )) {
+      const shell = element.closest<HTMLDetailsElement>("details");
+      if (shell?.open) {
+        void initialiseHotelMap(element);
+      } else {
+        shell?.addEventListener(
+          "toggle",
+          () => {
+            if (shell.open) void initialiseHotelMap(element);
           },
           { once: true },
         );
@@ -1953,6 +2055,39 @@ const breadcrumbs = [
   .article__body :global(.restaurant-map-key--video),
   .article__body :global(.restaurant-map-marker--video) {
     background: #6941c6;
+  }
+
+  /* Hotel maps, one colour per operator. Okabe-Ito hues so the six stay
+     distinguishable for colour-blind readers; the popup names the operator
+     too, so colour is never the only way to tell them apart. */
+  .article__body :global(.hotel-map-key--locke),
+  .article__body :global(.hotel-map-marker--locke) {
+    background: #0072b2;
+  }
+
+  .article__body :global(.hotel-map-key--native),
+  .article__body :global(.hotel-map-marker--native) {
+    background: #009e73;
+  }
+
+  .article__body :global(.hotel-map-key--cheval),
+  .article__body :global(.hotel-map-marker--cheval) {
+    background: #cc79a7;
+  }
+
+  .article__body :global(.hotel-map-key--supercity),
+  .article__body :global(.hotel-map-marker--supercity) {
+    background: #d55e00;
+  }
+
+  .article__body :global(.hotel-map-key--staycity),
+  .article__body :global(.hotel-map-marker--staycity) {
+    background: #e69f00;
+  }
+
+  .article__body :global(.hotel-map-key--wilde),
+  .article__body :global(.hotel-map-marker--wilde) {
+    background: #3a3a3a;
   }
 
   .article__body :global(.restaurant-map-key--streetfood),
