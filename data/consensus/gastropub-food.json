@@ -1,6 +1,6 @@
 {
   "cuisine": "gastropub-food",
-  "note": "GASTROPUBS: pubs judged on the kitchen across the whole week. Collected 14 Sep 2026 from a DuckDuckGo results page read in the browser (Bing still returns dictionary pages) plus the config's award bodies. Canonical names split the common ones by area: The Prince Arthur, Hackney (Forest Road, Time Out #3) is not The Prince Arthur, Belgravia (Eccleston Street, Basque); The George is Great Portland Street; The Spread Eagle, Hackney is the vegan pub in Homerton. TIER E: Reddit cannot be read here.",
+  "note": "GASTROPUBS: pubs judged on the kitchen across the whole week. Collected 14 Sep 2026 from a DuckDuckGo results page read in the browser (Bing still returns dictionary pages) plus the config's award bodies. Canonical names split the common ones by area: The Prince Arthur, Hackney (Forest Road, Time Out #3) is not The Prince Arthur, Belgravia (Eccleston Street, Basque); The George is Great Portland Street; The Spread Eagle, Hackney is the vegan pub in Homerton. TIER E: Reddit cannot be read here. The Cow, Notting Hill (89 Westbourne Park Road) is named with its area because the sheet's 'The Cow' row is the Westfield Stratford pub.",
   "recorded": "2026-09-14",
   "sources": [
     {
@@ -121,7 +121,7 @@
         "The Tamil Prince",
         "The Marksman",
         "The Plimsoll",
-        "The Cow",
+        "The Cow, Notting Hill",
         "The Clarence Tavern",
         "The Drapers Arms",
         "Canton Arms",
@@ -143,7 +143,7 @@
         "The Tamil Prince": "#9 of 20, Time Out",
         "The Marksman": "#10 of 20, Time Out",
         "The Plimsoll": "#11 of 20, Time Out",
-        "The Cow": "#12 of 20, Time Out",
+        "The Cow, Notting Hill": "#12 of 20, Time Out",
         "The Clarence Tavern": "#13 of 20, Time Out",
         "The Drapers Arms": "#14 of 20, Time Out",
         "Canton Arms": "#15 of 20, Time Out",
@@ -166,7 +166,7 @@
         "The Eagle",
         "The Devonshire",
         "The Marksman",
-        "The Cow",
+        "The Cow, Notting Hill",
         "The Plimsoll",
         "The Camberwell Arms",
         "The Wells Tavern",
@@ -218,7 +218,7 @@
         "The Eagle": "#3 of 50, Evening Standard",
         "The Devonshire": "#4 of 50, Evening Standard",
         "The Marksman": "#5 of 50, Evening Standard",
-        "The Cow": "#6 of 50, Evening Standard",
+        "The Cow, Notting Hill": "#6 of 50, Evening Standard",
         "The Plimsoll": "#7 of 50, Evening Standard",
         "The Camberwell Arms": "#8 of 50, Evening Standard",
         "The Wells Tavern": "#9 of 50, Evening Standard",
@@ -294,7 +294,7 @@
         "The Cadogan Arms",
         "The Harwood Arms",
         "The Blue Stoops",
-        "The Cow",
+        "The Cow, Notting Hill",
         "The Golden Tooth",
         "The Hare & Hounds, Islington",
         "The Hero",
@@ -346,7 +346,7 @@
         "The Hero",
         "Khun Pakin Thai",
         "The Cadogan Arms",
-        "The Cow",
+        "The Cow, Notting Hill",
         "The Pelican",
         "The Harwood Arms"
       ]
@@ -408,7 +408,7 @@
         "The Audley Public House",
         "The Harwood Arms",
         "The Devonshire",
-        "The Cow",
+        "The Cow, Notting Hill",
         "The Duke of Cambridge",
         "The Princess of Shoreditch",
         "The Tamil Prince",
@@ -430,7 +430,7 @@
         "The Shaston Arms",
         "The Red Lion & Sun",
         "The Latimer",
-        "The Cow",
+        "The Cow, Notting Hill",
         "The Knave of Clubs",
         "The Camberwell Arms",
         "The Brook & Badger",
@@ -592,7 +592,7 @@
         "The Chalk Freehouse",
         "The Hero",
         "The Holland",
-        "The Cow",
+        "The Cow, Notting Hill",
         "The Pig's Ear",
         "The Waterman's Arms",
         "The Cadogan Arms",
@@ -642,7 +642,7 @@
         "The Macbeth",
         "The Fat Badger",
         "The Hart",
-        "The Cow"
+        "The Cow, Notting Hill"
       ]
     },
     {

@@ -397,6 +397,8 @@ Holborn's **Ye Olde Mitre** — a completely different pub from the Barnet CAMRA
 ## Continue planning your London trip
 
 - 🍻 **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**
+- 🍽️ **[The Best Gastropubs in London](/articles/best-gastropubs-london/)**
+- 🏛️ **[The Most Beautiful Pubs in London](/articles/most-beautiful-pubs-london/)**
 - 🍺 **[The Best Wetherspoons in London](/articles/best-wetherspoons-pubs-london/)**
 - 🍷 **[The Best Wine Bars in London](/articles/best-wine-bars-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**

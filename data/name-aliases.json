@@ -341,7 +341,8 @@
     "Ewarts": "Ewart's",
     "The Pelican W11": "The Pelican",
     "The Black Friar": "The Blackfriar",
-    "The Guinea": "The Guinea Grill"
+    "The Guinea": "The Guinea Grill",
+    "The Audley": "The Audley Public House"
   },
   "whyCrispIsOneVenue": "The Infatuation's #1 is 'Crisp Pizza W6 at The Chancellors' in Hammersmith; Time Out and Country & Town House name the Mayfair site. Those are two pubs, but one brand: the Restaurants v2 row is already chainType 'mini-chain' with ownerGroup 'Devonshire / Crisp group', and its Why Go says Crisp was 'previously only in Hammersmith, brought into central London'. The sheet counts a mini-chain brand-level - the same treatment Rudy's and Fatto a Mano get - so the citations merge and the two sites are carried as Branches rows instead. Verified 2026-08-30: The Chancellors is 25 Crisp Road, Hammersmith W6 9RL.",
   "deliberatelyNotAliased": {
@@ -378,5 +379,5 @@
   "Good Friend Chicken": "Good Friend",
   "Spicy wings at Morley's": "Morley's",
   "Morley’s Fried Chicken": "Morley's",
-  "whyPubNamesMerge": "Pub topics, 14 Sep 2026. The Pelican W11 is a source's spelling of The Pelican, 45 All Saints Road. CAMRA's register writes 'Black Friar' for The Blackfriar at 174 Queen Victoria Street. 'The Guinea' and 'The Guinea Grill' are one building at 30 Bruton Place - the pub and its grill room. Deliberately NOT aliased: The Hero of Maida (the Sunday roast guide's spelling) and The Hero (the gastropub guide's) are the same Maida Vale pub, left apart because the roast guide's ranking-table checker reads the raw name - counts are topic-scoped so nothing is lost; The Prince Arthur (Forest Road, Hackney) and The Prince Arthur (Eccleston Street, Belgravia) are two pubs, recorded with the area; The George (Great Portland Street) and The George Inn (Borough) stay apart as before; The Spread Eagle, Hackney (vegan, Homerton) and The Spread Eagle Wandsworth are different pubs; Coach & Horses, Soho (Greek Street) and Coach & Horses, Mayfair (Bruton Street) are different pubs; The Flask, Hampstead and The Flask, Highgate are different pubs."
+  "whyPubNamesMerge": "Pub topics, 14 Sep 2026. The Pelican W11 is a source's spelling of The Pelican, 45 All Saints Road. CAMRA's register writes 'Black Friar' for The Blackfriar at 174 Queen Victoria Street. 'The Guinea' and 'The Guinea Grill' are one building at 30 Bruton Place - the pub and its grill room. Deliberately NOT aliased: The Hero of Maida (the Sunday roast guide's spelling) and The Hero (the gastropub guide's) are the same Maida Vale pub, left apart because the roast guide's ranking-table checker reads the raw name - counts are topic-scoped so nothing is lost; The Prince Arthur (Forest Road, Hackney) and The Prince Arthur (Eccleston Street, Belgravia) are two pubs, recorded with the area; The George (Great Portland Street) and The George Inn (Borough) stay apart as before; The Spread Eagle, Hackney (vegan, Homerton) and The Spread Eagle Wandsworth are different pubs; Coach & Horses, Soho (Greek Street) and Coach & Horses, Mayfair (Bruton Street) are different pubs; The Flask, Hampstead and The Flask, Highgate are different pubs. 'The Audley' is the short name every source uses for The Audley Public House, 41-43 Mount Street."
 }

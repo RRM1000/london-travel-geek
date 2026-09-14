@@ -777,6 +777,14 @@
     "car-hire-driving-uk": {
       "slot1": "pick:day-trips",
       "slot2": "pick:cotswolds"
+    },
+    "best-gastropubs-london": {
+      "slot1": "pick:food-tours",
+      "slot2": "London historic pub tour"
+    },
+    "most-beautiful-pubs-london": {
+      "slot1": "London historic pub tour",
+      "slot2": "pick:walking-tours"
     }
   }
 }

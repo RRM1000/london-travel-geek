@@ -92710,12 +92710,11 @@
       }
     ]
   },
-  "cow": {
-    "name": "The Cow",
+  "cownottinghill": {
+    "name": "The Cow, Notting Hill",
     "topics": [
       "gastropub-food",
-      "most-beautiful-pubs",
-      "seafood"
+      "most-beautiful-pubs"
     ],
     "sourceCount": 9,
     "tierSpread": "B6 C3",
@@ -92731,12 +92730,6 @@
       "most-beautiful-pubs": {
         "sourceCount": 1,
         "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -201190,6 +201183,31 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+      }
+    ]
+  },
+  "cow": {
+    "name": "The Cow",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
       }
     ]
   },

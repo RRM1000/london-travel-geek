@@ -234,7 +234,7 @@ Most of the pubs above serve food that is fine rather than the point — you are
 
 ## The listed interiors
 
-Age is the wrong measure for several of London's best pubs. These are protected for what is inside them.
+Age is the wrong measure for several of London's best pubs. These are protected for what is inside them. For interiors judged on looks rather than history, including recent award-winning restorations, see our [guide to London's most beautiful pubs](/articles/most-beautiful-pubs-london/).
 
 ### The Blackfriar, Blackfriars
 
@@ -370,6 +370,8 @@ If you want a defensible answer to "which is oldest": **The Seven Stars** has th
 
 ## Continue planning your London trip
 
+- 🍻 **[The Most Beautiful Pubs in London](/articles/most-beautiful-pubs-london/)**
+- 🍽️ **[The Best Gastropubs in London](/articles/best-gastropubs-london/)**
 - 🍻 **[The Best Craft Beer Pubs in London](/articles/best-craft-beer-pubs-london/)**
 - 🍺 **[The Best Wetherspoons in London](/articles/best-wetherspoons-pubs-london/)**
 - 🥩 **[The Best Sunday Roast in London](/articles/best-sunday-roast-london/)**
