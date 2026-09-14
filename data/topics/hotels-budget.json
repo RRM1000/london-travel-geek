@@ -1,0 +1,407 @@
+{
+  "topic": "hotels-budget",
+  "article": "src/content/articles/best-budget-hotels-london.md",
+  "headTerm": "Budget Hotels",
+  "note": "DRAFT, 14 Sep 2026. STOPPED AT THE REVIEW CHECKPOINT (SKILL.md Part 1, step 1). Nothing collected, seeded or fetched into the corpus: data/serp/hotels-budget.txt and data/consensus/hotels-budget.json are untouched and still hold the 9 Sep seed (Time Out, Conde Nast Traveller, The Hotel Journal). Every candidate below came from the SERP - 32 DuckDuckGo queries run one at a time in the Browser pane (list in serpQueries) - and was vetted by reading the page, its byline and date, and for suspects its About page and the Prague test. Rules applied: data/reference/hotel-corpus.md (no booking engines, no brand sites, no farms, a blog is one voice) and the seventeen traps in the consensus-guide skill. The openVenueQuestions at the bottom need Rob's answers before collection starts.",
+
+  "corpus": {
+    "consensus": "data/consensus/hotels-budget.json",
+    "serp": "data/serp/hotels-budget.txt",
+    "existingSources": ["timeout.com", "cntraveller.com", "thehoteljournal.com"],
+    "existingRecordFaults": [
+      "The Hotel Journal record is missing '2. Dao by Dorsett West London | Hammersmith and Fulham' - nine tokens with the pipe suffix, which is extractor loss 2 in hotel-corpus.md - and cut 'The Beverley Hotel London - Victoria' at the dash. The live page (India-Jayne Trainor, updated 18 Aug 2026) now also carries 'NOW CLOSED: Mama Shelter London - Shoreditch'.",
+      "The Time Out record holds its 14 names with no ranks, but the live list (Anya Ryan, 6 Mar 2026) is numbered 1-14. Trap 11: carry the ranks."
+    ]
+  },
+
+  "serpQueries": [
+    "best budget hotels London", "cheap hotels London blog", "affordable hotels central London", "best cheap hotels London 2026",
+    "London hotels under £100", "budget hotels London blog", "where to stay in London on a budget", "best value hotels London",
+    "cheap places to stay in London", "budget boutique hotels London", "cheap but nice hotels London", "best budget hotels in London guardian",
+    "London hotels under £150 a night", "hotels in London under £80 a night", "cheapest hotels in central London blog", "best cheap hotels London first time visitors",
+    "cheap family hotels London blog", "London pubs with rooms cheap", "best Premier Inn in London blog", "affordable hotels London 2026 blog",
+    "Z Hotels vs Premier Inn vs Travelodge London blog", "cheap hotels London solo female traveller blog", "budget hotel London reddit", "budget hotels London youtube video",
+    "London Cheapo cheap hotels central London", "Secret London budget hotels", "Londonist cheap hotels London", "Rough Guides Frommers London budget hotels",
+    "stylish cheap hotels London magazine", "Which? best and worst hotel chains survey", "best budget hotel chain award 2026 UK", "British Travel Awards best budget hotel group winner"
+  ],
+
+  "awardBodies": [
+    {
+      "name": "Which? - Best UK hotel chains, and the ones to swerve, in 2026",
+      "domain": "which.co.uk",
+      "url": "https://www.which.co.uk/reviews/uk-hotel-chains/article/best-and-worst-uk-hotel-chains-aaVVF4u1jZpe",
+      "tier": "A",
+      "cadence": "annual (published each November)",
+      "date": "6 Nov 2025 (fieldwork June/July 2025, stays July 2023 - July 2025)",
+      "registered": false,
+      "note": "REAL AND CURRENT, read in the browser 14 Sep 2026. Member survey at scale, dated and ranked - the same kind of tier A as Harden's in data/sources.json. 4,631 panel members and 7,287 leisure stays for 32 large chains; 1,776 people and 2,696 stays for 20 small and medium chains. TWO HARD LIMITS. (1) It scores BRANDS, UK-wide. It can support 'Which? members scored Premier Inn 73%', never a claim about a London branch, and it cannot be scoped to London by reading town names (trap 12). (2) Its 'average price' is the mean lowest double rate at three locations a month nationally - not a London price, never print it as one. Relevant large-chain scores: Wetherspoons Hotels 76% (£70, Recommended Provider and Great Value), Premier Inn 73% (£94), Holiday Inn Express 71% (£92), Premier Inn - Hub 70% (£123), Hilton - Hampton 67%, Best Western 66%, Greene King Inns 65%, Ibis Styles 64%, Ibis 61%, Travelodge 59% (£69), Ibis Budget 57%, Days Inn 54%, Britannia 44% (bottom). London-relevant small chains: Park Grand Hotels 80%, Clayton 78%, Apex 77%, Maldron 74%. NOT IN THE SURVEY AT ALL: Z Hotels, easyHotel, citizenM, Motel One, Point A, Zedwell, The Hoxton, Locke, Moxy, YOTEL, Ruby, The Resident, Strand Palace. So it only helps if brands are counted - see openVenueQuestions. The top chain, The Coaching Inn Group, has no London hotel."
+    }
+  ],
+
+  "awardBodiesRejected": [
+    { "name": "Travelling for Business Awards - Best Budget Hotel Brand 2026", "domain": "awards.travellingforbusiness.co.uk", "why": "Self-entry ('Free to enter... Five minutes to submit'), one paid Category Partner per category ('Investment from £7,500'), judged for corporate procurement, and winners are not announced until 22 Oct 2026. The finalists (Premier Inn, Travelodge, Hampton by Hilton, Wetherspoon Hotels) are entrants, not a judgement." },
+    { "name": "British Travel Awards - Best Hotel Brand for Economy Breaks (2025 Gold: Premier Inn)", "domain": "britishtravelawards.com", "why": "A raw vote count with nomination fees. Its own about page says 'results are determined solely by the number of verified votes cast', and that the winners tend to be the firms that lobby their customers hardest rather than the biggest." },
+    { "name": "YouGov UK hotel brand rankings 2026", "domain": "yougov.com", "why": "Measures brand 'Consideration' - who would consider a brand - and ties it to scale in its own text. Awareness, not quality." },
+    { "name": "Independent Travel Awards 2026", "domain": "independent.co.uk", "why": "Inaugural reader vote (17,000), announced 8 Sep 2026, with no budget category. Best UK hotel went to Hotel Cafe Royal." },
+    { "name": "Time Out's 20 best UK hotels 2026 - 'best budget hotel'", "domain": "timeout.com", "why": "Time Out's own editorial pick, not an award, and the budget winner is Second Nature (formerly Room2) in Belfast." },
+    { "name": "The Good Hotel Guide Cesar Awards 2026", "domain": "goodhotelguide.com", "why": "21 categories, no London winner, no budget or value category (read via boutiquehotelier.com, 20 Nov 2025). goodhotelguide.com itself returned 'Site not found' on 14 Sep 2026 - recheck before ruling out an Editor's Choice value list." },
+    { "name": "Which? Travel secret inspectors - Best cheap hotels under £155", "domain": "which.co.uk", "why": "Judged and dated (20 May 2026), but all six picks are outside London (Ceredigion, Bristol, Berkshire, Cardiff, Glasgow, Essex). Trap 12 leaves nothing to count. Useful only as a ceiling data point." },
+    { "name": "World Travel Awards budget brand, Business Traveller Awards, Times Travel Awards", "domain": "various", "why": "Industry or reader votes at brand level. Not collected." }
+  ],
+
+  "editorialLists": [
+    { "name": "Time Out", "domain": "timeout.com", "tier": "B", "registered": true, "ranked": true,
+      "urls": ["https://www.timeout.com/london/hotels/the-best-budget-hotels-in-london"],
+      "date": "6 Mar 2026", "author": "Anya Ryan",
+      "note": "EXISTING. Ranked 1-14. Its number two is Generator London, a hostel - Time Out treats a hostel as a budget hotel. Two more pages on the same domain are the SAME source and should not be added: the-best-cheap-hotels-in-central-london (Feb 2017, stale, names Tune Hotel Westminster) and cheap-hotels-in-covent-garden (Apr 2024, unnumbered area list)." },
+    { "name": "Conde Nast Traveller UK", "domain": "cntraveller.com", "tier": "B", "registered": true, "ranked": false,
+      "urls": ["https://www.cntraveller.com/gallery/best-cheap-hotels-london"],
+      "date": "first 2019, updated 24 Mar 2026", "author": "Gina Jackson",
+      "note": "EXISTING. Unordered gallery of 12 (five 'Editor's picks' then seven). SAME WRITER as The Independent and CN Traveller Middle East below - see openVenueQuestions. Do not also add the old gallery capital-ideas-affordable-london on this domain; it still names Sydney House Chelsea." },
+    { "name": "The Independent", "domain": "independent.co.uk", "tier": "B", "registered": false, "ranked": "numbered 1-10 - read the caption before carrying ranks",
+      "urls": ["https://www.independent.co.uk/travel/uk/england/london/best-budget-hotels-london-b1967634.html"],
+      "date": "19 Jan 2026", "author": "Gina Jackson",
+      "note": "Six of its ten names are also on her CNT UK list (One Hundred Shoreditch, The Hoxton Shepherd's Bush, Bingham Riverhouse, the Lime Tree, Bermonds Locke, The Princess Royal). msn.com relays this article under two paths (ar-AA1Uvasc; MSN's own feed data names The Independent and Gina Jackson) - syndication, never a source." },
+    { "name": "Conde Nast Traveler (US)", "domain": "cntraveler.com", "tier": "B", "registered": false, "ranked": false,
+      "urls": ["https://www.cntraveler.com/gallery/cheap-hotels-london"],
+      "date": "first 2023, updated 10 Jun 2025", "author": "Sarah James",
+      "note": "SYNDICATION. Ten names in exactly the same order as CN Traveller Middle East's Gina Jackson gallery. One list published three times across the Conde Nast editions." },
+    { "name": "Conde Nast Traveller Middle East", "domain": "cntravellerme.com", "tier": "B", "registered": false, "ranked": false,
+      "urls": ["https://www.cntravellerme.com/gallery/the-cheapest-nicest-hotels-in-london"],
+      "date": "6 Jun 2025", "author": "Gina Jackson",
+      "note": "SYNDICATION - identical to the US edition. Resolve to one Gina Jackson / Conde Nast voice." },
+    { "name": "The Hotel Journal", "domain": "thehoteljournal.com", "tier": "B", "registered": true, "ranked": "numbered 1-15 - read the caption before carrying ranks",
+      "urls": ["https://thehoteljournal.com/best-affordable-hotels-london-england/"],
+      "date": "10 Aug 2026, updated 18 Aug 2026", "author": "India-Jayne Trainor",
+      "note": "EXISTING, but the record lost an entry (see corpus.existingRecordFaults). Outer London and pub-hotel heavy: Fox & Goose (Ealing), Drayton Court (Ealing), Dog & Fox (Wimbledon), Old Ship Inn (Hackney). Marks Mama Shelter London Shoreditch as closed." },
+    { "name": "The Times", "domain": "thetimes.com", "tier": "B", "registered": "NO - sources.json registers thetimes.co.uk, and the live URLs are thetimes.com", "ranked": "unknown",
+      "urls": [
+        "https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/best-budget-hotels-in-london-8cnlk2p86",
+        "https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/the-best-hotels-in-london-for-under-pound100-33knmb5g3r8",
+        "https://www.thetimes.com/web-stories/best-budget-hotels-in-london-12-hotels-under-150/",
+        "https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/best-affordable-family-hotels-in-london-0qb2p6gjn",
+        "https://www.youtube.com/watch?v=w8HIMHx3uWg"
+      ],
+      "date": "'23 of the best affordable hotels in London under £200' 2 Jun 2026; family list 28 Jun 2026; video 8 Feb 2024",
+      "note": "UNREADABLE HERE. The fetcher gets a 'Verifying Device' wall and the Browser pane refuses thetimes.com. ONE READABLE ROUTE: the Times Travel YouTube channel (@timestravel) published 'Best Affordable Hotels in London Under £150 a Night' - Emma Cooke, with chapter markers naming each hotel (The Bedford Balham, The Spread Eagle Wandsworth, Moxy Stratford...). The platform is not the publisher, so that files under The Times, never as a separate tier D voice. The Times' UK-wide lists ('20 best British hotels for £100 and under', '50 best UK hotels for under £100', '33 of the UK's best hotels for under £150') need scoping (trap 12). All Times pages are one source." },
+    { "name": "The Sun", "domain": "thesun.co.uk", "tier": "B", "registered": false, "ranked": "unknown",
+      "urls": ["https://www.thesun.co.uk/travel/39953871/best-london-hotels-under-100/"],
+      "date": "21 Aug 2026",
+      "note": "UNREADABLE HERE - same News UK 'Verifying Device' wall, and the Browser pane refuses thesun.co.uk. '13 London hotels we love UNDER £100 a night'. Its UK-wide 'Premier Inn vs Travelodge vs easyHotel' comparison is the same domain and brand-level only." },
+    { "name": "Evening Standard", "domain": "standard.co.uk", "tier": "B", "registered": true, "ranked": false,
+      "urls": ["https://www.standard.co.uk/lifestyle/travel/best-london-hotels-under-300-a-night-b1192669.html", "https://www.standard.co.uk/lifestyle/travel/best-cheap-affordable-hotels-london-ps200-b1140080.html"],
+      "date": "under £300: 13 Jan 2026 (Rosalyn Wikeley); under £200: 22 Feb 2024 (Suzannah Ramsdale)",
+      "note": "The current page is 'under £300', which is only budget under a £300 ceiling - the price question decides whether it counts. The £200 page keeps its names out of the headings, so check the extraction by eye. One domain, one source." },
+    { "name": "ELLE UK", "domain": "elle.com", "tier": "B", "registered": false, "ranked": false,
+      "urls": ["https://www.elle.com/uk/life-and-culture/travel/g40718180/budget-hotels-london/"],
+      "date": "first 2022, updated 7 Feb 2024", "author": "Caroline Lewis",
+      "note": "16 names, design-led. Shares The Bedford (Balham), The Spread Eagle (Wandsworth) and Moxy Stratford with the Times Travel video - check for a shared press trip before treating the two as independent." },
+    { "name": "DesignMyNight", "domain": "designmynight.com", "tier": "B", "registered": true, "ranked": "numbered 1-10 - read the caption",
+      "urls": ["https://www.designmynight.com/london/blog/cheap-hotels-london"],
+      "date": "15 May 2025", "author": "Scarlett Welch",
+      "note": "'Bougie on a budget'. Listings-led masthead per sources.json." },
+    { "name": "Mumsnet", "domain": "mumsnet.com", "tier": "B", "registered": false, "ranked": false,
+      "urls": ["https://www.mumsnet.com/articles/best-family-hotels-budget-london"],
+      "date": "first 2022, updated 4 Feb 2026", "author": "Poppy O'Neill",
+      "note": "Ten labelled picks, not a rank ('Best overall: Premier Inn Kensington', 'Best hostel: YHA London Central', 'Best in east London: Ibis Budget Whitechapel'...). Family angle. Read its 'How we chose' section before recording to see whether picks come from Mumsnet Talk threads - if so, those threads must not ALSO count as tier E." },
+    { "name": "AFAR", "domain": "afar.com", "tier": "B", "registered": false, "ranked": false,
+      "urls": ["https://www.afar.com/hotels/affordable-london-hotels"],
+      "date": "2 Jun 2026",
+      "note": "'13 Stylish London Hotels for Under $300 a Night'. Another high ceiling." },
+    { "name": "Good Housekeeping UK", "domain": "goodhousekeeping.com", "tier": "B", "registered": false, "ranked": false,
+      "urls": ["https://www.goodhousekeeping.com/uk/lifestyle/travel/g45378936/best-cheap-london-hotels/"],
+      "date": "27 Nov 2023 - 34 months old, close to the 36-month recency flag",
+      "note": "Nine names, including two Richmond spa hotels." },
+    { "name": "Suitcase", "domain": "suitcasemag.com", "tier": "B", "registered": true, "ranked": false,
+      "urls": ["https://www.suitcasemag.com/best-affordable-hotels-london/"],
+      "date": "updated 28 Oct 2023 - at the 36-month recency flag",
+      "note": "Names are not in headings; the fetcher's heading pass found none. Check the extraction by eye (trap 8)." },
+    { "name": "Glamour UK", "domain": "glamourmagazine.co.uk", "tier": "B", "registered": false, "ranked": false,
+      "urls": ["https://www.glamourmagazine.co.uk/gallery/affordable-london-hotels"],
+      "date": "first Apr 2024, updated 17 Sep 2025",
+      "note": "'Affordable' with a loose ceiling: includes Sea Containers, Hilton Bankside and Pullman St Pancras. Also The Mitre, Hampton Court - check it is inside Greater London (trap 12)." },
+    { "name": "Lonely Planet", "domain": "lonelyplanet.com", "tier": "B", "registered": true, "ranked": false,
+      "urls": ["https://www.lonelyplanet.com/articles/london-on-a-budget"],
+      "date": "first Sep 2023, updated 21 Aug 2026", "author": "Tasmin Waby",
+      "note": "A budget-trip guide whose 'Budget accommodations' section splits Basic / Budget-friendly / Worth the spend. Record only that section." },
+    { "name": "TravelAwaits", "domain": "travelawaits.com", "tier": "B", "registered": false, "ranked": false,
+      "urls": ["https://www.travelawaits.com/3010900/ten-cheap-places-to-stay-in-london-for-budget-travelers/"],
+      "date": "4 Jun 2025", "author": "Tay Belgeri",
+      "note": "Ten, and they mix formats: a hostel (Astor Museum), a fully windowless hotel (Zedwell Underground Tottenham Court Road) and easyHotel alongside ordinary hotels." },
+    { "name": "The Hotel Guru", "domain": "thehotelguru.com", "tier": "B", "registered": false, "ranked": false,
+      "urls": ["https://www.thehotelguru.com/best-hotels/united-kingdom/london-cool-budget-hotels", "https://www.thehotelguru.com/best-hotels/united-kingdom/london-cheap-and-chic"],
+      "date": "'Cool London Hotels on a Budget' updated 19 Dec 2025 (Kat Parr Mackintosh); 'Great value / Cheap and Chic' updated 26 Mar 2026 (Jane Hutchison)",
+      "note": "Hotel-selection specialist with booking links, already a source in data/serp/hotels.txt but not registered in sources.json - decide B or C when registering. One domain, two heavily overlapping arrays (trap 16). 'Cheap and Chic' includes The Ned, Sea Containers and Henrietta, so its ceiling is loose. Uses 'For a pub with rooms' and 'For a B&B' as facets." },
+    { "name": "Oyster.com", "domain": "oyster.com", "tier": "B?", "registered": false, "ranked": false,
+      "urls": ["https://www.oyster.com/london/hotels/roundups/best-value-hotels-in-london/", "https://www.oyster.com/articles/best-london-hotels-that-offer-the-most-bang-for-your-buck/"],
+      "date": "updated 21 Mar 2025",
+      "note": "HOLD. A hotel-review site that earns from OTA price links. Before counting, establish who owns it now and whether the roundups rest on its own visits; if not, it belongs with the booking engines. Names Sydney House Chelsea and Qbic London City - closure checks." }
+  ],
+
+  "independentBlogs": [
+    { "name": "EuroCheapo", "domain": "eurocheapo.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://www.eurocheapo.com/blog/top-budget-hotels-london.html", "date": "18 Nov 2025", "author": "Tom Meyers (founder)",
+      "note": "Budget-hotel specialist. Eight small independents and B&Bs: Alhambra, St Athans, MacDonald, LSE Bankside House (summer only), Hotel Meridiana, Cherry Court, Celtic, 72QT. Shares almost nothing with Time Out - see facetAxis. Do not add its stale pages (cheap-hotels-central-london 2017/2021; affordable-london-hotels-in-central-locations 2014/2018). /london/hotels/price/cheap.html is a directory, not a source." },
+    { "name": "London Cheapo", "domain": "londoncheapo.com", "tier": "C", "registered": true, "ranked": false,
+      "url": "https://www.londoncheapo.com/accommodationcat/london-accommodation-under-100-per-night/", "date": "Nov 2021, updated 8 Jul 2022 - PAST the 36-month flag", "author": "Becky Lima-Matthews",
+      "note": "The London budget specialist, but this page is stale and names Snoozebox and OYO Huttons (hotel-corpus.md records OYO as a chain people warn against). Look for a current London Cheapo hotel page first; none surfaced in the SERP." },
+    { "name": "Love and London", "domain": "loveandlondon.com", "tier": "C", "registered": false, "ranked": false,
+      "urls": ["https://loveandlondon.com/london-budget-hotels/", "https://loveandlondon.com/budget-friendly-hotels-london/"],
+      "date": "8 under £200: updated 3 Feb 2025 (Jessica Dante); 7 cool budget-friendly: updated 1 Mar 2026 (Jessica Dellow)",
+      "note": "Verified real in hotel-corpus.md. Two pages, one domain, ONE voice. The £200 page names brands ('CitizenM', 'Point A Hotels', 'Z Hotels'); the 2026 page is East and South London (Victoria Inn Peckham, The Ship Rooms Lambeth, Aptel East, Staycity Greenwich)." },
+    { "name": "Candace Abroad", "domain": "candaceabroad.com", "tier": "C", "registered": true, "ranked": "numbered - check for order",
+      "urls": ["https://candaceabroad.com/budget-hotels-in-london/", "https://candaceabroad.com/best-london-hotels-under-150/"],
+      "date": "both updated 6 Dec 2025", "author": "Candace Salters",
+      "note": "Verified real. One voice. The under-£150 page is chain-heavy (ibis Styles Southwark, hub King's Cross, Z Covent Garden, Z Soho, Hampton Docklands, DoubleTree Greenwich); the budget page leads with easyHotel South Kensington." },
+    { "name": "On the Luce", "domain": "ontheluce.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://www.ontheluce.com/budget-luxe-accommodation-in-london/", "date": "first 2014, updated 19 May 2026", "author": "Lucy Dodsworth",
+      "note": "Seven entries, nearly all BRANDS with no branch: The Resident, Z Hotels, CitizenM, The Pilgrm, The Corner, ibis Styles, Point A. What this source contributes depends entirely on the brand/branch decision." },
+    { "name": "BudgetTraveller", "domain": "budgettraveller.org", "tier": "C", "registered": true, "ranked": "numbered - check",
+      "url": "https://budgettraveller.org/7-of-the-best-budget-places-to-stay-in-london/", "date": "first 2013, updated 3 Jun 2026", "author": "Kash Bhattacharya",
+      "note": "Mostly hostels (Wombats, Hostelle, Onefam, Astor Museum Inn, YHA Central) plus Point A, Caring Hotel Hyde Park, Access Accommodation Tower Hill and LSE Bankside House. WARNING: one heading on the live page reads 'Claude responded: Ibis does Shepherds Bush - clever, connected and com...' - an AI chat reply pasted into the post. Do not record that entry as a first-hand pick." },
+    { "name": "Wanderings with Bri", "domain": "wanderingswithbri.com", "tier": "C", "registered": false, "ranked": true,
+      "url": "https://wanderingswithbri.com/best-budget-hotels-london/", "date": "first Mar 2025, updated 27 Mar 2026", "author": "Bri",
+      "note": "Real person (a Northern Michigan blogger who spent months in the UK), but her About page calls the blog 'part travel research dump' and her criteria include 'Well-Rated by Real Travelers' - desk research, heavy affiliate linking. Ranked 1-10 plus a bonus. Mixes brand-level entries ('Z Hotel (Holborn or Shoreditch)', 'Hub by Premier Inn (Shoreditch, West Brompton, or Marylebone)') with a windowless hotel (Zedwell Underground Tottenham) and a university hall (LSE Bankside House). Shares MacDonald, LSE Bankside House and 72QT with EuroCheapo." },
+    { "name": "The Travel Hack", "domain": "thetravelhack.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://www.thetravelhack.com/uk/10-best-cheap-hotels-in-london/", "date": "first 2018, updated 4 Jul 2024", "author": "Monica Stott",
+      "note": "Ten, each with a 'from £X' price. Names Qbic London City - closure check." },
+    { "name": "Holiday Expert", "domain": "holidayexpert.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://holidayexpert.com/the-best-cheap-but-chic-london-hotels/", "date": "first May 2022, updated 13 Jun 2025", "author": "Chelsea Dickenson",
+      "note": "Named consumer travel expert (This Morning travel expert per her About page, 1M+ social followers). Fifteen names. If her TikTok or Instagram turns up in tier D it is the SAME voice. Names Kip Hotel Hackney and Mama Shelter - closure checks." },
+    { "name": "22places", "domain": "22places.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://22places.com/london-affordable-hotels/", "date": "first Jun 2023, updated 12 May 2026", "author": "Jenny Ritter (22places, founded by Jenny and Basti)",
+      "note": "Organised by area (King's Cross, Paddington, Ealing), each split 'Good, affordable' and 'Truly great'. Names sit below sub-headings, not in them - check the extraction." },
+    { "name": "Loving London / Loving Travel", "domain": "lovinglondon.de + loving-travel.com", "tier": "C", "registered": false, "ranked": false,
+      "urls": ["https://www.lovinglondon.de/guenstige-hotels-in-london/", "https://loving-travel.com/en/cheap-hotels-in-london/"],
+      "date": "lovinglondon.de 15 May 2026 (German); loving-travel.com 28 Feb 2024",
+      "note": "BOTH pages are bylined Steffen, so this is ONE VOICE ACROSS TWO DOMAINS - hostOf() will count it twice unless merged by hand. Affiliate-led compilations (48 and 26 Booking.com links), with euro prices per hotel. The German list names five separate Z Hotels branches and the Royal National Hotel, which hotel-corpus.md flags as affiliate-link bait from the community pass. Weak; include only as one voice." },
+    { "name": "London Toolkit", "domain": "londontoolkit.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://www.londontoolkit.com/cheap-budget-hotels-in-central-london/", "date": "21 Mar 2025, updated 5 Jun 2025", "author": "Thiago Rocha",
+      "note": "Long-running London visitor guide. Editorial prose, then a 'selection' of hotel cards (Enrico Victoria, West Cromwell, The Judd, Mabledon Court, Paragon, Classic Hyde Park). Names exist only in link cards - extractor loss 3 in hotel-corpus.md." },
+    { "name": "Forever Out of Office", "domain": "foreveroutofofficetravel.com", "tier": "C", "registered": false, "ranked": "numbered 1-12 - check",
+      "url": "https://foreveroutofofficetravel.com/2025/06/14/12-of-the-best-cheapest-hotels-in-london-under-150-per-night/", "date": "14 Jun 2025", "author": "Naomi",
+      "note": "Real person (a content marketer; her About page describes destination research as a hobby). Under £150, weighted to outer London (Ealing, W12, Canary Wharf). Desk research." },
+    { "name": "The Holiday Lab", "domain": "theholidaylab.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://www.theholidaylab.com/post/7-hotels-in-london-under-150-usd-per-night", "date": "28 May 2025, updated 15 Apr 2026", "author": "Madison Wulf",
+      "note": "Personal blog launched 2024. Seven under $150, numbering skips a number, one first-hand stay claimed (Holiday Inn Express Southwark). Weak." },
+    { "name": "The Budget Savvy Travelers", "domain": "thebudgetsavvytravelers.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://www.thebudgetsavvytravelers.com/nice-and-cheap-budget-hotels-in-london-england/", "date": "Jun 2024, updated 8 Feb 2025", "author": "Audrey and Harry",
+      "note": "US couple. Five, including Bloc Hotel at Gatwick - outside London, trap 12 - and The Captain Cook pub hotel." },
+    { "name": "Lovemytrips", "domain": "lovemytrips.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://lovemytrips.com/10-of-the-best-value-london-hotels/", "date": "30 Oct 2024, updated 4 Apr 2026", "author": "byline 'lovemytrips_admin'",
+      "note": "'Best value' rather than cheap - includes The Montague on the Gardens. Desk byline, but the archive is uneven and human (Louisville, Salamanca, Eurotunnel). Check the author before counting." },
+    { "name": "Travel Off Script", "domain": "traveloffscript.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://traveloffscript.com/where-to-stay-in-london-on-a-budget/", "date": "18 May 2025", "author": "Bell",
+      "note": "Lived in London ten years. Thin: two hotels (Tavistock Hotel, NOX Hyde Park) plus hostels." },
+    { "name": "Her Nomad Eyes", "domain": "hernomadeyes.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://www.hernomadeyes.com/blog/london-hostels-and-budget-hotels", "date": "27 Dec 2024",
+      "note": "TRAP 13. This URL is already a source in data/consensus/hostels-2.json, and that record already holds Mowbray Court Hotel - a hotel - among its hostel names. Its 'Budget Hotel Alternatives' are Z Hotels, Point A Hotels and Mowbray Court. Decide which corpus owns which names before recording it here." },
+    { "name": "Lost in Landmarks", "domain": "lostinlandmarks.com", "tier": "C", "registered": false, "ranked": "numbered 1-5 - check",
+      "url": "https://lostinlandmarks.com/budget-family-accommodation-in-london/", "date": "Apr 2023, updated 7 Apr 2025", "author": "Kirsty Bartholomew",
+      "note": "Five budget family hotels (Park Plaza Westminster, Travelodge Covent Garden, two Leonardo Royals, St Athan's)." },
+    { "name": "Globetotting", "domain": "globetotting.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://globetotting.com/the-best-premier-inn-in-london-for-families/", "date": "Apr 2024, updated 13 Feb 2026", "author": "Katja Gaskell",
+      "note": "SINGLE-BRAND BRANCH GUIDE: eleven Premier Inn branches for families, including Watford North (outside London). Counts only if branches are counted." },
+    { "name": "Wandermust Family", "domain": "wandermustfamily.com", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://www.wandermustfamily.com/best-premier-inn-to-stay-in-london/", "date": "not in the page metadata", "author": "Leona",
+      "note": "SINGLE-BRAND BRANCH GUIDE: seven Premier Inn branches plus a Heathrow pick." },
+    { "name": "Cheap Family Holidays", "domain": "cheapfamilyholidays.co.uk", "tier": "C", "registered": false, "ranked": false,
+      "url": "https://cheapfamilyholidays.co.uk/premier-inns-in-london/", "date": "Mar 2023, updated 31 Oct 2023 - near the recency flag", "author": "Holly-Jay Smith",
+      "note": "SINGLE-BRAND BRANCH GUIDE: seven Premier Inn branches, including Watford North. With Globetotting and Wandermust Family, three separate family blogs name Premier Inn County Hall." }
+  ],
+
+  "mixedPriceGuides": {
+    "note": "Where-to-stay guides that give budget picks alongside mid-range and luxury. Only their budget-labelled picks would ever be recorded, and only if Rob says yes (openVenueQuestions). Not vetted beyond the SERP except The Tour Guy and National Geographic.",
+    "candidates": [
+      { "domain": "travellemming.com", "url": "https://travellemming.com/london-on-a-budget/", "date": "10 Jun 2026", "note": "Brooke Horrobin, local writer. Its 'Where to Stay for Budget Travelers' section is organised by area." },
+      { "domain": "londontravelplanning.com", "url": "https://londontravelplanning.com/where-to-stay-in-london/", "date": "16 Aug 2026", "note": "Registered tier C." },
+      { "domain": "fullsuitcase.com", "url": "https://fullsuitcase.com/london-where-to-stay/", "date": "24 Jan 2026", "note": "Registered tier C." },
+      { "domain": "wheatlesswanderlust.com", "url": "https://wheatlesswanderlust.com/where-to-stay-in-london/", "date": "7 Feb 2026" },
+      { "domain": "solotravelerworld.com", "url": "https://solotravelerworld.com/where-to-stay-in-london-solo-travel/", "date": "unknown" },
+      { "domain": "nomadsunveiled.com", "url": "https://nomadsunveiled.com/best-london-hotels-for-tourists-first-time/", "date": "14 Apr 2025" },
+      { "domain": "joujoutravels.com", "url": "https://joujoutravels.com/where-to-stay-london/", "date": "6 Jul 2026" },
+      { "domain": "bontraveler.com", "url": "https://bontraveler.com/where-to-stay-london-england/", "date": "unknown" },
+      { "domain": "thetourguy.com", "url": "https://www.thetourguy.com/travel-blog/england/london/best-hotels-apartment-rentals-in-london-this-year/", "date": "updated 11 Mar 2026", "note": "Tour operator (Sean Finelli). Its 'Low-Cost' tier is The Hoxton Holborn, St James Court and The Rembrandt - not what most budget sources mean." },
+      { "domain": "carpediemtours.com", "url": "https://carpediemtours.com/blog/where-to-stay-in-london", "date": "2025", "note": "Tour operator blog." },
+      { "domain": "nationalgeographic.com", "url": "https://www.nationalgeographic.com/travel/article/best-hotels-central-london", "date": "updated 5 Sep 2025", "note": "15 central hotels, mostly luxury; its budget picks are The Lime Tree and Zedwell Piccadilly Circus." }
+    ]
+  },
+
+  "videoLeads": {
+    "note": "Tier D. hotel-corpus.md: hotel video is nearly worthless except to find the blogger behind it, and titles are clickbait. Handles below are read from the watch pages, not guessed (trap 5). Check every description for 'hosted', 'gifted' or 'book here' affiliate framing before counting. Floor per SKILL.md: two independent social voices if Which? is accepted as tier A, three if not.",
+    "listicles": [
+      { "handle": "youtube.com/@TravelsUnfiltered", "video": "https://www.youtube.com/watch?v=r8vkLW2Rf7s", "title": "5 Cheap Hotels in London Under £100 Per Night", "date": "4 Feb 2025", "note": "Already registered tier D (craft-beer-pubs). Description names areas; hotel names may be in chapters." },
+      { "handle": "youtube.com/@NextStopNoStop", "video": "https://www.youtube.com/watch?v=f16TtV2ES7o", "title": "Top 5 Best Affordable Hotels in London", "date": "16 May 2025" },
+      { "handle": "youtube.com/@MagentaOtterTravels", "video": "https://www.youtube.com/watch?v=JLa3vmPytuI", "title": "London Budget Hotels - Travelodge vs. Premier Inn Review", "date": "24 Nov 2023", "note": "Brand-level." },
+      { "handle": "youtube.com/@grandretreats", "video": "https://www.youtube.com/watch?v=VhYLj1tlSyo", "title": "Discover the Best Budget Hotels in London", "date": "12 Oct 2024", "note": "Generic keyword description - check it is a person, not a slideshow channel." },
+      { "handle": "youtube.com/@Tour_Buddy", "video": "https://www.youtube.com/watch?v=apIZDHMokvg", "title": "TOP 10 Cheapest Hotels in London", "date": "21 Aug 2024", "note": "Description is stock-music credits only. Probably a slideshow channel." }
+    ],
+    "singlePropertyPointers": [
+      { "handle": "youtube.com/@JordanandEmily", "video": "https://www.youtube.com/watch?v=uMgazY-4iPo", "property": "easyHotel London Paddington", "date": "27 May 2026" },
+      { "handle": "youtube.com/@JackDoesTravel", "video": "https://www.youtube.com/watch?v=JhUAcZ7bST0", "property": "Point A Hotel London", "date": "3 Aug 2026" },
+      { "handle": "youtube.com/@Journeywithmatt", "video": "https://www.youtube.com/watch?v=5Ttnb_HlAq0", "property": "easyHotel London", "date": "22 Jun 2026" },
+      { "handle": "tiktok.com/@mikaela.rada", "video": "https://www.tiktok.com/@mikaela.rada/video/7684254523858226445", "property": "Novotel London (under $200)" },
+      { "handle": "tiktok.com/@daishaview", "video": "https://www.tiktok.com/@daishaview/video/7272427610175458603", "property": "unnamed budget room tour" }
+    ],
+    "notTierD": [
+      { "handle": "youtube.com/@timestravel", "why": "The Times' own channel - files under thetimes.com (see editorialLists)." },
+      { "handle": "youtube.com/@TheTravelPerspective-j6h", "why": "'5 Luxury Hotels That Are Actually Cheap' (10 Sep 2026, 101 views) - luxury-for-less, off scope." },
+      { "handle": "youtube.com/@Top3Hotels", "why": "EXCLUDED. 'Top 10 Budget Hotels in London' (2022) - the description is a CHEAPEST PRICES affiliate funnel with a FreeTravel.Help plug. An affiliate slideshow." },
+      { "video": "https://www.youtube.com/watch?v=N30vfh1cIes", "why": "'Best Budget Hotels in London' returned no player data - removed or private." }
+    ]
+  },
+
+  "communityLeads": {
+    "note": "Tier E, counted per THREAD. Reddit's own site is blocked here, but hotel-corpus.md documents arctic-shift as the working route (throttle 1.2s, retry with backoff; one unthrottled test call on 14 Sep 2026 returned 422 'Timeout. Maybe slow down a bit'). Rick Steves and Mumsnet Talk threads returned 200 to a plain fetch, so tier E does not rest on Reddit alone. Never regex names out of comments - match known names in, read the rest by eye.",
+    "readableForums": [
+      "https://community.ricksteves.com/travel-forum/england/budget-hotels-in-london",
+      "https://community.ricksteves.com/travel-forum/england/budget-hotel-recommendations",
+      "https://community.ricksteves.com/travel-forum/england/the-cheapest-nicest-hotels-in-london",
+      "https://community.ricksteves.com/travel-forum/england/which-premier-inn-in-london-to-choose",
+      "https://community.ricksteves.com/travel-forum/england/which-london-premier-inn-to-choose",
+      "https://www.mumsnet.com/talk/uk/5248811-favourite-premier-inn-in-london",
+      "https://www.mumsnet.com/talk/_chat/5107239-which-premier-inn-in-london",
+      "https://www.mumsnet.com/talk/_chat/5490625-premier-inn-or-travelodge-in-london-where"
+    ],
+    "redditThreadsViaArcticShift": [
+      "r/LondonTravel 1pirsk0 affordable hotels london", "r/LondonTravel 1gzbe7o affordable hotels in london", "r/LondonTravel 1k1jz78 recommend me a hotel under 100 in london",
+      "r/LondonTravel 1o86z5c budget hotels", "r/LondonTravel 1co1cmu inexpensive clean stay in london", "r/LondonTravel 1g22ubw hotel in central london for less than 200 a night",
+      "r/LondonTravel 1kftnwg affordable boutique hotels in london", "r/travel 1go7yux which budget hotels are great for london", "r/travel 1109805 london uk budget hotels",
+      "r/uktravel 1bsohyh what are good hotels i can stay at on a budget", "r/uktravel 1dm9kwn where to stay in london for a week for a reasonable price", "r/uktravel 1iecmop affordable safe hotel recommendations for a week",
+      "r/uktravel 1kuhdyi need recommendations for accommodations less than", "r/uktravel 1jk4wg4 best premier inn for staying in london", "r/uktravel 1hyhfto premier inn or z hotel",
+      "r/uktravel 1e48oyx help me choose between travelodge or premier inn", "r/Shoestring 10jomtq cheap but clean hotels in london", "r/TravelHacks 1dklyda best london hotel on a budget",
+      "r/TravelHacks suu19h affordable-ish stay recommendations in london", "r/TravelHacks 1c0p5zi cleanest central london hotel under 300 a night", "r/AskUK 1bmosjw best places to stay in london on a budget",
+      "r/AskUK 12j6ent any recommendations in cheap hotels in london", "r/AskUK ym8peg areas and hotels to stay in london for a very tight budget", "r/AskLondon vhg59k travelodge or premier inn"
+    ],
+    "unreachable": [
+      "reddit.com/r/london/wiki/hotels/ - the r/london community wiki page on hotels. arctic-shift does not serve wikis; Rob would need to paste it.",
+      "facebook.com/groups/londontraveltipsandhacks/posts/1004499564548484/ - 'Premier Inn Holborn or Z' in the Tours by Foot group; login wall."
+    ]
+  },
+
+  "blockedSources": [
+    { "name": "The Times", "domain": "thetimes.com", "note": "Bot wall to the fetcher; refused by the Browser pane. See editorialLists for the four London pages and the readable Times Travel video." },
+    { "name": "The Sun", "domain": "thesun.co.uk", "note": "Same News UK wall; refused by the Browser pane. '13 London hotels we love UNDER £100', 21 Aug 2026." },
+    { "name": "The Telegraph", "domain": "telegraph.co.uk", "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/cheap-hotels-in-london/", "note": "HTTP 402 TollBit, as in every hotel corpus; in blocked.keepInCorpus. Dated Jan 2023, so also past the 36-month flag. Its UK-wide 'best UK hotels under £200' (23 May 2026) is national - trap 12." },
+    { "name": "Visit London", "domain": "visitlondon.com", "note": "Cloudflare. Its cheap-hotels and cheap-accommodation pages read as 'Find and book' listings. Check in a browser before treating either as editorial." }
+  ],
+
+  "excludedSources": {
+    "bookingEnginesAndMetasearch": {
+      "why": "Rob's founding rule - they rank by inventory and commission. Hotels.com stays a validator only.",
+      "domains": ["booking.com", "hotels.com", "expedia.co.uk", "expedia.com", "tripadvisor.co.uk", "tripadvisor.com", "tripadvisor.in", "tripadvisor.ca", "tripadvisor.ie", "tripadvisor.com.au", "agoda.com", "skyscanner.net", "skyscanner.com", "lastminute.com", "kayak.co.uk", "kayak.com", "trivago.co.uk", "hotelscombined.co.uk", "travelsupermarket.com", "laterooms.com", "qantas.com", "secretescapes.com", "hoteldirect.co.uk", "hotels.uk.com", "lodging-world.com", "cheaphotelsinlondon.org", "travelstay.com", "bestbookdirect.com", "klook.com", "trip101.com", "yelp.com", "yably.co.uk", "reviewbritain.com", "mrandmrssmith.com", "i-escape.com"],
+      "specialCase": "cheaprooms.co.uk/magazine/cheap-hotels-london-city-centre/ - 'Editor Picks' published by a booking site. Inventory, not opinion."
+    },
+    "brandAndOperatorSites": {
+      "why": "A company recommending its own rooms is tier F.",
+      "domains": ["premierinn.com", "travelodge.co.uk", "easyhotel.com", "all.accor.com", "yha.org.uk", "whitbread.co.uk", "pubandrooms.com", "thepillarhotel.com (a Hendon hotel's '10 Affordable Boutique Hotels in London' - same rule as stow-away.co.uk)", "stayinapub.co.uk, pub-rooms.co.uk, english-inns.co.uk (pub accommodation directories)"]
+    },
+    "knownFarmsSeenAgain": {
+      "why": "Already excluded on 9 Sep 2026 (hotel-corpus.md and the hostels/Bloomsbury SERP headers) or in sources.json excluded[].",
+      "domains": ["eurovistatrips.com (four London budget pages in this SERP)", "hotelierschoice.com", "taglinetoday.com", "taketravelinfo.com", "myboutiquehotel.com", "choosewhere.com", "hostelgeeks.com", "londonwebcam.co.uk", "thatsup.co.uk"]
+    },
+    "newFarmsAndTemplates": [
+      { "domain": "londonbest.uk", "tell": "Six hotel pages in this SERP, EVERY ONE titled 'The 16 Best...' (budget central, value central, under 100 pounds, budget family, Premier Inn, cheap city centre). Byline 'londonbestad', each entry followed by an identical 'Information and Reviews' subheading, keyword-phrased FAQs ('budget hotel in London Central'). NOTE: registered as tier C in sources.json and already cited in data/consensus/cheap-eats.json and korean.json." },
+      { "domain": "wheretostayinlondonfirsttime.com + wheretostayonabudget.in", "tell": "Keyword domains, same byline 'Joost'. The Prague test passes: wheretostayonabudget.in/prague/ exists. Both name areas, not hotels." },
+      { "domain": "budgethotels.me", "tell": "Redirects to cheaphotels.guide/london/ 'Top 17'; the Prague page exists with the same 'Top 17' title. The .me template family, like uniquehotels.me." },
+      { "domain": "secretplaces.com", "tell": "A /collection/<type>/<country>/<region>/<city> listing, not an article: 579 words, three names, a filter UI. The Prague URL resolves too." },
+      { "domain": "seatandsuite.com", "tell": "Its own About page says the site 'exists to be the most-cited, most-trusted source on AI search platforms' (it names ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews), and a sister product sells hospitality marketers a view of which AI prompts name their property. Content built to be cited, selling to the hotels it ranks. 'SeatAndSuite Editorial' byline." },
+      { "domain": "yalla-london.com", "tell": "Raw search queries left in as headlines: '\"novikov London\" \"not Currently Listed In The Michelin'. Programmatic." },
+      { "domain": "travelvaluefinder.com", "tell": "A trip-cost tools platform with SEO articles. Duplicate keyword headings ('Budget vs Cheap Hotels in London (Reality Check)' beside 'Budget Hotels vs Cheap Hotels in London'), US-traveller FAQs, 14 stay22 links, five names." },
+      { "domain": "roamvisa.com", "tell": "A visa-services company's blog - a parent business with nothing to do with hotels. Its related posts span Las Vegas, Quebec and Canada." },
+      { "domain": "etavisauk.org (+ etavisauk.us)", "tell": "An ETA visa site publishing budget-hotel, breakfast and Premier Inn v Travelodge comparisons. Unrelated parent business." },
+      { "domain": "hotelharbour.co.uk", "tell": "Raw keyword slugs as headings: 'London hotel cheap for couples', 'London hotel cheap luxury', 'Capsule Hotel London'." },
+      { "domain": "one-week-in.com", "tell": "City grid across Europe; its 'handpicked' London picks include booking-inventory listings ('Homely 1 Bedroom Apartment in the Heart of Vibrant Camden'). 37 Booking.com links." },
+      { "domain": "toptenatlas.com", "tell": "Byline 'TopTenAtlas', grid content ('Chicago vs Miami: What Actually Decides First (2026)'), names neighbourhoods only." },
+      { "domain": "thetrailova.com", "tell": "Generic structure ('The Shift Toward Budget-Friendly Travel'), a 'luxury resorts' mission page, chain-level only." },
+      { "domain": "traveller365.com", "tell": "No author, no date, 674 words, 40 Booking.com links." },
+      { "domain": "samsarkisyan.com", "tell": "67 Booking.com links on a 596-word page. An affiliate storefront, whoever owns the domain." },
+      { "domain": "gorillafare.blog", "tell": "A flight-deal company's WordPress.com blog, byline 'GorillaFare', 456 words." },
+      { "domain": "tothenextescape.com", "tell": "The selection criterion IS the booking engine: each entry cites its Booking.com score ('received a reviews score of 8.1 out of 885 reviews on Booking.com'), with photos credited 'via Booking.com'. Booking.com's ranking relayed - the reason london.hostelsonly.com was dropped from hostels-2." },
+      { "domain": "plantriplondon.com", "tell": "PROVISIONAL. No named human anywhere (byline and About page are site navigation), affiliate trip-planner selling passes and tours." },
+      { "domain": "bestinlondon.london", "tell": "PROVISIONAL. 'Finest restaurants, hotels, services' - the every-commercial-category tell that removed wunderlustlondon.co.uk - with generated-sounding headlines ('The Holborn Sovereign: Sourcing The Manor House Suite at Rosewood London'). Its budget page dates from 2023." },
+      { "domain": "unanswered.io, iihs.news, solatatech.com, destinations.ai, staygenie.app, blog.rsroshi.dev, hotelcomparenow.com, versusguy.com, squareblogs.net, travelweekly74.blogspot.com, hotelquest.co.uk, toptiplondon.com", "tell": "AI-curated or scraper pages ('AI Curated content' is iihs.news's own label), app or booking funnels, and spam blogs. Seen in the SERP, not worth a dossier each." }
+    ],
+    "notJudged": "See awardBodiesRejected.",
+    "syndication": ["msn.com relays of The Independent (two URLs) - resolve to the originator", "cntraveler.com and cntravellerme.com carry one Conde Nast list - see openVenueQuestions"],
+    "stale": ["theguardian.com budget hotel lists from 2011, 2012 and 2017 - no current Guardian list exists", "explorista.net (2017, updated 2019)", "thetravel.com (May 2019, mostly hostels)", "frommers.com London hotels (a guidebook dump that still recommends Hostelbookers.com)", "worldtravelfamily.com (2015, updated 2023, hostels)", "timeout.com cheap central London (2017)", "two eurocheapo.com pages (2014/2018, 2017/2021)"],
+    "offTopic": ["pubs-with-rooms lists that are not budget-scoped (londonmymind.com, aladyinlondon.com, tripsavvy.com, designmynight pubs with rooms, Hotel Guru pubs with rooms, Londonist)", "boutique, quirky and 'affordable luxury' lists (londonluxurymag.co.uk, forbes.com 2022, redonline.co.uk UK-wide)", "solo-female where-to-stay guides other than Her Nomad Eyes", "mixed-price family guides (these belong to hotels-family)", "moneysavingexpert.com/travel/cheap-hotels (deal-hunting how-to, no hotel list)"]
+  },
+
+  "facetAxis": {
+    "field": "style",
+    "note": "Drafted from what the sources actually separate. The Hotel Guru files picks under 'For a pub with rooms', 'For a B&B' and 'For a design hotel'; Mumsnet and Wanderings with Bri label by need; Which? scores chains as a class. THE BIGGEST FINDING IS A WHOLE-LIST DIVERGENCE (SKILL.md Part 2): the mastheads' 'affordable' lists are design-led (The Hoxton, Locke, The Pilgrm, the Lime Tree, The Princess Royal) with ceilings up to £300, while the specialists and bloggers name actually-cheap chains and small B&Bs (MacDonald, Alhambra, St Athans, 72QT, Premier Inn branches). Time Out's 14 and EuroCheapo's 8 share no name at all. That earns the short divergence section and table the Sunday roast guide has. Compact chains and design-led hotels blur - Lucy Dodsworth files Z Hotels, citizenM and Point A under 'boutique on a budget' - so expect judgement calls between the first and third values.",
+    "values": [
+      { "key": "compact-chain", "label": "Small-room chains", "describeAs": "a branded hotel that saves money on floor space rather than location - small rooms, often a window-or-not choice at booking, usually a short walk from a Tube station" },
+      { "key": "standard-chain", "label": "Big budget chains", "describeAs": "a standard double from one of the national chains, with the same room and the same rules at every branch" },
+      { "key": "design-led", "label": "Design hotels at a lower price", "describeAs": "an independent or small-group hotel with a designed room, a bar or restaurant people come in for, and less space than the price suggests" },
+      { "key": "pub-rooms", "label": "Rooms above a pub", "describeAs": "bedrooms upstairs from a working pub, from single gastropubs to the Wetherspoon and Greene King chains" },
+      { "key": "guesthouse", "label": "Guesthouses and small B&Bs", "describeAs": "family-run rooms in a converted townhouse, mostly in Bloomsbury, Paddington, Victoria and Earl's Court, often with breakfast included and sometimes without a lift" }
+    ]
+  },
+
+  "formatSection": {
+    "title": "Family rooms on a budget",
+    "note": "Five sources are specifically budget AND family (Mumsnet, The Times' affordable family list, Lost in Landmarks, and the Globetotting and Cheap Family Holidays Premier Inn branch guides). A room sleeping four is the fact that decides those visits. Check against the hotels-family corpus so the same names are not counted twice (trap 13)."
+  },
+
+  "signpostSections": {
+    "note": "Rob's steer: short signposts linking out, not ranked entries. Boundaries pending openVenueQuestions.",
+    "values": [
+      { "format": "hostels", "link": "/articles/best-hostels-london/", "evidence": "Sources do treat hostels as budget hotels: Time Out ranks Generator London #2, Mumsnet names YHA London Central 'Best hostel', BudgetTraveller's list is mostly hostels, TravelAwaits includes Astor Museum Hostel." },
+      { "format": "capsules", "link": "/articles/pod-hotels-london/", "evidence": "Rarely in these lists. hotel-corpus.md's community pass found Zedwell capsules named by five people as the alternative to a dorm." },
+      { "format": "fully windowless hotels", "link": "/articles/windowless-hotel-rooms-london/", "evidence": "Wanderings with Bri ranks Zedwell Underground Tottenham #5; TravelAwaits and DesignMyNight (Zedwell Greenwich) include Zedwell too." },
+      { "format": "aparthotels (pending)", "link": "/articles/aparthotels-london/", "evidence": "Bermonds Locke is on Time Out, Elle, Good Housekeeping and the Gina Jackson lists (CNT and The Independent); Staycity Dalston, Aptel East and Staycity Greenwich also appear." },
+      { "format": "university rooms in summer (pending)", "link": "no guide yet", "evidence": "LSE Bankside House is named by EuroCheapo, Wanderings with Bri and BudgetTraveller; hotel-corpus.md's community pass found four people recommending summer university rooms." }
+    ]
+  },
+
+  "scopeEvidence": {
+    "priceCeilingsTheSourcesUse": [
+      "under £100: The Sun (2026), London Cheapo (2022), one Times page, Travels Unfiltered video",
+      "under £120 rack rate: Frommer's 'Inexpensive' band (stale)",
+      "under £150: Candace Abroad, Forever Out of Office, the Times Travel video and a Times web story; The Holiday Lab uses $150",
+      "under £155 peak price: Which? secret inspectors' cheap-hotels definition (UK)",
+      "under £200: Love and London, The Times (23 hotels, Jun 2026), Evening Standard (2024)",
+      "under $300: AFAR; under £300: Evening Standard (Jan 2026)",
+      "no stated ceiling, and some very loose: Time Out, CNT, The Independent, Elle, Glamour (Sea Containers, Hilton Bankside), The Hotel Guru 'Cheap and Chic' (The Ned)",
+      "for scale only: Which? members' national average lowest rates - Travelodge £69, Wetherspoon £70, Holiday Inn Express £92, Premier Inn £94, hub £123"
+    ],
+    "brandOnlyMentions": "On the Luce (all seven), Love and London (CitizenM, Point A Hotels, Z Hotels), Her Nomad Eyes (Z Hotels, Point A Hotels), Wanderings with Bri ('Z Hotel (Holborn or Shoreditch)', 'Hub by Premier Inn (Shoreditch, West Brompton, or Marylebone)'), and the whole Which? survey.",
+    "branchLevelMentions": "Candace (The Z Hotel Covent Garden, citizenM Bankside, Motel One Tower Hill), Time Out (Z Soho, Motel One Tower Hill), The Travel Hack (Z Piccadilly, Hub Spitalfields), Mumsnet (Premier Inn Kensington, Travelodge Covent Garden), lovinglondon.de (five named Z Hotels branches), and three Premier Inn branch guides.",
+    "sheetContext": "src/data/hotels.json has 30 rows with 'budget' in lists; 22 are hostels, capsules or windowless. The other eight are ibis London Wembley, Holiday Inn Express Greenwich Peninsula, hub by Premier Inn Covent Garden, ibis Blackfriars, three Premier Inns (County Hall, Stratford, Tower Bridge) and Strand Palace. A curated shortlist, never evidence of what exists - used here for nothing but context."
+  },
+
+  "knownGaps": [
+    "No judged London budget-hotel ranking exists. The only tier A is Which?'s UK-wide chain survey, and it scores brands, not branches.",
+    "The Times (four London pages), The Sun and the Telegraph cannot be read here - bot walls and Browser pane refusals. One Times list is readable through its own YouTube channel.",
+    "One writer, Gina Jackson, sits behind CNT UK, CNT Middle East and The Independent, and CNT US carries her list word for word. Counting distinct domains would hand every name on it four sources from one person.",
+    "Tier E via Reddit needs the throttled arctic-shift sweep - roughly 30 minutes in the background per hotel-corpus.md. Rick Steves and Mumsnet Talk threads are readable directly.",
+    "Tier D is thin and mostly slideshow channels or single-property reviews, as hotel-corpus.md predicted. Check the floor with node scripts/audit-source-mix.mjs hotels-budget after collection.",
+    "Closure checks before any count is printed (not verified on this pass): Mama Shelter London Shoreditch (The Hotel Journal marks it closed; at least seven sources name it), Good Hotel London (Time Out's #1), Kip Hotel Hackney, Snoozebox, Qbic London City, Tune Hotel Westminster, Sydney House Chelsea.",
+    "Outside Greater London, strip before counting (trap 12): Bloc Hotel Gatwick, Premier Inn Watford North, and check The Mitre, Hampton Court.",
+    "Alias work before recording (trap 4): Point A / Point.A / 'A-Point'; The Pilgrm / The Pilgrim; The Lime Tree Hotel / Lime Tree Hotel / 'Room Mate Lime Tree' (The Independent's name - check for a rebrand); Mama Shelter London Shoreditch / Bethnal Green; 72QT / Latvian Guest House; Zedwell Underground Tottenham Court Road / Zedwell Tottenham Court Road; hub by Premier Inn / Hub London; citizenM / Citizen M; The Z Hotel Piccadilly / Z Piccadilly."
+  ],
+
+  "preCollectionChecks": [
+    "seed-sources.mjs refuses only what data/sources.json lists in excluded[] and blocked.permanent403. booking.com, hotels.com, expedia, agoda, hostelworld, skyscanner, premierinn.com and every 9 Sep farm domain (eurovistatrips.com, hotelierschoice.com and the rest) are NOT in excluded[] - only tripadvisor.com and londonwebcam.co.uk are. hotel-corpus.md says they are 'refused at the door by seed-sources.mjs'; today they would be seeded. Keep them out of data/serp/hotels-budget.txt by hand, or add them to excluded[] first.",
+    "sources.json registers lamplitlondon.com (the headline AI farm in hotel-corpus.md) and londonbest.uk (a template, see excludedSources) as tier C. londonbest.uk is already cited in the cheap-eats and korean corpora.",
+    "sources.json registers thetimes.co.uk, but live Times URLs are thetimes.com - so thetimes.com sources in hotels-boutique and hotels-dog-friendly already default to tier C with a warning.",
+    "Register the new domains with tiers before build-evidence (serp/README.md step 6); most candidates above are unregistered.",
+    "Merge by hand the voices hostOf() cannot see: lovinglondon.de + loving-travel.com (Steffen); Chelsea Dickenson's holidayexpert.com + her socials if they appear; the Conde Nast editions and The Independent if Rob agrees.",
+    "Check for disclosed hosted stays ('complimentary', 'hosted', 'gifted') on every masthead and blog page. Paid placement is not evidence.",
+    "scripts/sample-hotel-rates.mjs tracks only the pods-guide properties (a hard-coded TRACKED list), and sampling is manual Hotels.com reading in the browser. Using it for a price ceiling means extending TRACKED to the budget shortlist - after collection, never across the whole corpus."
+  ],
+
+  "openVenueQuestions": [
+    "1. WHAT PRICE MAKES A HOTEL 'BUDGET'? The sources disagree by a factor of three - The Sun and London Cheapo mean under £100, Candace and the Times video under £150, Love and London and The Times under £200, AFAR and the Standard under £300, and Time Out and CNT never say. PROPOSAL: count every source that presents itself as a budget, cheap or affordable list, whatever its ceiling, and note the ceiling in the quote. Then apply ONE ceiling to the hotels, not the sources, when the article is written: a typical double at or under about £150 on a sampled spread of dates (weekday, weekend, peak and quiet), using scripts/sample-hotel-rates.mjs on the shortlist so the page prints ranges rather than one night's rate. Rob to pick the number - £120, £150 or £200 - and whether it is a weekday median or a 'most nights' test.",
+    "2. BRAND OR BRANCH? A third of the useful sources name a brand with no branch (On the Luce entirely; Love and London and Her Nomad Eyes partly), and the only tier A (Which?) scores nothing but brands. Others name branches, and three family blogs rank Premier Inn branches against each other. PROPOSAL, both, kept apart: (a) a brand tally for a short 'budget chains compared' section, where Which? counts and every branch mention also counts once for its brand; (b) branch entries only where a specific branch is named by enough sources in its own right. A brand-only mention never counts toward any branch and is never shared out across branches. A wrong merge is invisible, so leave branches separate unless a source clearly means one building.",
+    "3. HOSTELS, CAPSULES AND WINDOWLESS ROOMS - signpost sections, as Rob suggested? The sources do mix them in: Time Out ranks Generator (a hostel) #2, Mumsnet's picks include YHA London Central, TravelAwaits and Wanderings with Bri include Zedwell Underground. PROPOSAL: yes, signposts linking to the three existing guides. THE BOUNDARY NEEDS A CALL: Z Hotels, hub by Premier Inn, Point A, easyHotel and The Corner sell windowless rooms but also windowed ones, and they are among the most-named budget hotels here. Rank those here, with a line pointing to the windowless guide, and signpost only the all-windowless Zedwell hotels, true capsules and dorm hostels?",
+    "4. ONE WRITER ON FOUR MASTHEADS. Gina Jackson writes the CNT UK and CNT Middle East lists and The Independent's; CNT US carries the Middle East list word for word under another byline. The counting rule says distinct domains, which gives her picks four citations each. PROPOSAL: treat the Conde Nast editions and The Independent as ONE voice, the same way one creator across YouTube and TikTok is one voice. Agree?",
+    "5. MIXED-PRICE 'WHERE TO STAY' GUIDES. Eleven guides give budget picks beside mid-range and luxury (Travel Lemming, Full Suitcase, London Travel Planning, Wheatless Wanderlust and others - see mixedPriceGuides). Record their budget-labelled picks only, or leave them out? Including them widens the independent pool; leaving them out keeps every source budget-first.",
+    "6. APARTHOTELS. Bermonds Locke is on Time Out, Elle, Good Housekeeping and the Gina Jackson lists, and Staycity and Aptel appear too, but there is already an aparthotels guide. Rank them here, or signpost?",
+    "7. UNIVERSITY ROOMS IN SUMMER. LSE Bankside House is named by EuroCheapo, Wanderings with Bri and BudgetTraveller, and the hostels community pass found more people recommending summer university rooms. There is no guide for them. A short signpost section, or out of scope?",
+    "8. WHICH? AS TIER A. Its chain survey is real, dated and at scale, but UK-wide and brand-level. PROPOSAL: tier A for brand-level claims only, never printed beside a branch. Agree?",
+    "9. SOURCES WE CANNOT OPEN. The Times (four London pages), The Sun ('13 London hotels under £100') and the 2023 Telegraph list are blocked here. If Rob can open them in his own browser and paste the hotel names, they go in marked as read by hand, as hotel-corpus.md allows. The same goes for the r/london hotels wiki page."
+  ]
+}
