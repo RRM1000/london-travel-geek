@@ -386,7 +386,7 @@ const breadcrumbs = [
   <script>
     import { restaurantMaps } from "../data/restaurantMaps";
     import { routeMaps } from "../data/routeMaps";
-    import { hotelMaps, hotelOperatorLabels } from "../data/hotelMaps";
+    import { hotelMaps, hotelCategoryLabels } from "../data/hotelMaps";
 
     const videoButtons = document.querySelectorAll<HTMLButtonElement>(
       "[data-youtube-video]",
@@ -576,7 +576,8 @@ const breadcrumbs = [
       }
     };
 
-    // Hotel maps: one pin per property, coloured by operator, with the note
+    // Hotel maps: one pin per property, coloured by its category (the operator
+    // on the aparthotels map, dorm bathrooms on the hostels map), with the note
     // from the guide in the popup. Same lazy-load and fallback as the
     // restaurant maps; the data is hand-authored in hotelMaps.ts.
     const initialiseHotelMap = async (element: HTMLElement) => {
@@ -606,7 +607,7 @@ const breadcrumbs = [
 
           const icon = L.divIcon({
             className: "restaurant-map-marker-wrap",
-            html: `<span class="restaurant-map-marker hotel-map-marker--${markerData.operator}" aria-hidden="true"></span>`,
+            html: `<span class="restaurant-map-marker hotel-map-marker--${markerData.category}" aria-hidden="true"></span>`,
             iconSize: [26, 34],
             iconAnchor: [13, 34],
             popupAnchor: [0, -30],
@@ -619,7 +620,7 @@ const breadcrumbs = [
           name.textContent = markerData.name;
 
           const details = document.createElement("span");
-          details.textContent = `${hotelOperatorLabels[markerData.operator]} · ${markerData.area}`;
+          details.textContent = `${hotelCategoryLabels[markerData.category]} · ${markerData.area}`;
 
           const note = document.createElement("span");
           note.textContent = markerData.note;
@@ -2088,6 +2089,31 @@ const breadcrumbs = [
   .article__body :global(.hotel-map-key--wilde),
   .article__body :global(.hotel-map-marker--wilde) {
     background: #3a3a3a;
+  }
+
+  /* Hostel maps, one colour per dorm-bathroom category. Okabe-Ito hues for the
+     three answers, chosen to stay apart from each other rather than from the
+     operator colours above, since the two sets never share a map; neutral grey
+     for "not published", so an unknown reads as no answer rather than a
+     fourth kind. The popup names the category too. */
+  .article__body :global(.hotel-map-key--ensuite),
+  .article__body :global(.hotel-map-marker--ensuite) {
+    background: #009e73;
+  }
+
+  .article__body :global(.hotel-map-key--some-ensuite),
+  .article__body :global(.hotel-map-marker--some-ensuite) {
+    background: #0072b2;
+  }
+
+  .article__body :global(.hotel-map-key--shared),
+  .article__body :global(.hotel-map-marker--shared) {
+    background: #e69f00;
+  }
+
+  .article__body :global(.hotel-map-key--unpublished),
+  .article__body :global(.hotel-map-marker--unpublished) {
+    background: #8a8a8a;
   }
 
   .article__body :global(.restaurant-map-key--streetfood),

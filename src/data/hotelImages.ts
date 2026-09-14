@@ -26,6 +26,17 @@ import staycityGreenwich from "../assets/articles/aparthotels-london/staycity-gr
 import templetonPlace from "../assets/articles/aparthotels-london/templeton-place-studio.jpg";
 import theChronicle from "../assets/articles/aparthotels-london/the-chronicle-bedroom.jpg";
 import lockeBrokenWharf from "../assets/articles/where-to-stay-shoreditch/locke-at-broken-wharf-room.jpg";
+import astorHydePark from "../assets/articles/best-hostels-london/astor-hyde-park-dorm.jpg";
+import astorVictoria from "../assets/articles/best-hostels-london/astor-victoria-dorm.jpg";
+import barmyBadger from "../assets/articles/best-hostels-london/barmy-badger-backpackers-dorm.jpg";
+import clink261 from "../assets/articles/best-hostels-london/clink261-dorm.jpg";
+import generatorLondon from "../assets/articles/best-hostels-london/generator-london-dorm.jpg";
+import onefamNottingHill from "../assets/articles/best-hostels-london/onefam-notting-hill-dorm.jpg";
+import palmersLodge from "../assets/articles/best-hostels-london/palmers-lodge-swiss-cottage-dorm.jpg";
+import safestayHollandPark from "../assets/articles/best-hostels-london/safestay-kensington-holland-park-dorm.jpg";
+import wombatsCityHostel from "../assets/articles/best-hostels-london/wombats-city-hostel-london-dorm.jpg";
+import yhaLondonCentral from "../assets/articles/best-hostels-london/yha-london-central-dorm.jpg";
+import parkVilla from "../assets/articles/best-hostels-london/park-villa-hostel-dorm.jpg";
 
 export type HotelImage = { src: ImageMetadata; alt: string };
 
@@ -45,4 +56,18 @@ export const hotelImages: Record<string, HotelImage> = {
   "supercity-templeton-place": { src: templetonPlace, alt: "A studio at Templeton Place" },
   "supercity-chronicle": { src: theChronicle, alt: "A bedroom at The Chronicle" },
   "locke-at-broken-wharf": { src: lockeBrokenWharf, alt: "A room at Locke at Broken Wharf, looking across the river to the Globe" },
+  // Hostels. Park Villa's photo is a close-up inside one bunk pod; the guide's
+  // alt text used to describe shutters and a single bed that are not in it, and
+  // was corrected on 14 September 2026. Urbany has no photo yet.
+  "wombats-city-hostel-london": { src: wombatsCityHostel, alt: "A dorm at Wombat's City Hostel, with curtained bunks" },
+  "clink261": { src: clink261, alt: "A dorm at Clink 261, with red privacy screens between the bunks" },
+  "generator-london": { src: generatorLondon, alt: "A room at Generator London, with a bunk bed and a painted mural" },
+  "yha-london-central": { src: yhaLondonCentral, alt: "A shared room at YHA London Central, with metal bunk beds" },
+  "astor-hyde-park": { src: astorHydePark, alt: "A shared dorm at Astor Hyde Park, with red-framed bunk beds" },
+  "astor-victoria": { src: astorVictoria, alt: "A shared dorm at Astor Victoria, with red bunks either side of a storage unit" },
+  "palmers-lodge-swiss-cottage": { src: palmersLodge, alt: "A dorm at Palmers Lodge Swiss Cottage, with curtained bunks" },
+  "safestay-kensington-holland-park": { src: safestayHollandPark, alt: "A dorm at Safestay Holland Park, with curtained bunks" },
+  "barmy-badger-backpackers": { src: barmyBadger, alt: "A wooden bunk bed at Barmy Badger Backpackers" },
+  "onefam-notting-hill": { src: onefamNottingHill, alt: "Numbered pod-style bunks at Onefam Notting Hill" },
+  "park-villa-hostel": { src: parkVilla, alt: "Inside a bunk pod at Park Villa, lined in OSB board with a reading lamp and shelf" },
 };

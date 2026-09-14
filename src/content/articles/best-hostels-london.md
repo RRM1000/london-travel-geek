@@ -1,7 +1,7 @@
 ---
 title: "The Best Hostels in London: What You Get Before You Book"
 seoTitle: "Best Hostels in London 2026: Female Dorms & Real Prices"
-description: "Fourteen London hostels compared on the things booking sites bury: which dorms are en-suite, which have real female-only rooms, the age limits that refuse you, and what costs extra at the desk."
+description: "Fifteen London hostels compared on the things booking sites bury: which dorms are en-suite, which have real female-only rooms, the age limits that refuse you, and what costs extra at the desk."
 heroImage: "../../assets/articles/pod-hotels-london/st-christophers-village-capsules.jpg"
 heroImageAlt: "A wall of white moulded sleeping capsules stacked two high inside a London hostel, each numbered, with a hexagonal window and a steel grab handle"
 publishedAt: 2026-09-09
@@ -31,7 +31,7 @@ faq:
 
 A hostel bed in Zone 1 starts at about **£11 a night**. The question is never really the price — it is what that price does and does not include, and booking sites are unhelpfully quiet about the four things that decide whether the room works for you: **is the bathroom in the room or down the corridor, is there a women's dorm, will they take you at your age, and what gets added at the desk.**
 
-This guide covers **fourteen London hostels**, every fact taken from the operator's own site on 9 September 2026. The answers are not what the category's reputation suggests. One hostel here puts a private shower and toilet in every single dorm. Another puts a shared bathroom on every single room type, private rooms included. Two will refuse you if you are over 39.
+This guide covers **fifteen London hostels**, every fact taken from the operator's own site on 9 September 2026. The answers are not what the category's reputation suggests. One hostel here puts a private shower and toilet in every single dorm. Another puts a shared bathroom on every single room type, private rooms included. Two will refuse you if you are over 39.
 
 > 💡 **The Short Version:** **[Wombat's](hotel:wombats-city-hostel-london)** near Tower Bridge is the one to book if you want an en-suite dorm and a good night's sleep — it is the only hostel here where every dorm has its own shower and toilet, and it now sells Quiet Dorms as their own category. **[St Christopher's Village](hotel:st-christophers-village)** at London Bridge has the best women's accommodation in London: Oasis, a female-only floor with its own bathrooms and key card. **[Generator](hotel:generator-london)** is the cheapest and the loudest. **[YHA London Central](hotel:yha-london-central)** is the sensible one, and the only one that takes children. **[Clink 261](hotel:clink261)** has the best King's Cross location and shared bathrooms on absolutely everything.
 
@@ -47,7 +47,25 @@ The word "hostel" now covers three quite different products in London, and the g
 
 **A private room in a hostel** is a hotel room with the hostel's kitchen, bar and price attached. It is the part of the category people underuse, and it is the only way round an age limit at two of the hostels here.
 
-## The fourteen, compared
+## The fifteen, compared
+
+<details class="restaurant-map-shell" open>
+  <summary>
+    <span>Where each hostel is, by dorm bathrooms</span>
+  </summary>
+  <div class="restaurant-map" data-hotel-map="best-hostels-london" role="region" aria-label="Interactive map of the hostels in this guide, coloured by dorm bathrooms">
+    <p>Loading the interactive map…</p>
+  </div>
+  <div class="restaurant-map-legend" aria-label="Map key">
+    <span><i class="restaurant-map-key hotel-map-key--ensuite" aria-hidden="true"></i> En-suite — every dorm</span>
+    <span><i class="restaurant-map-key hotel-map-key--some-ensuite" aria-hidden="true"></i> Some en-suite — a floor, some dorms or some rooms</span>
+    <span><i class="restaurant-map-key hotel-map-key--shared" aria-hidden="true"></i> Shared — no en-suite dorms</span>
+    <span><i class="restaurant-map-key hotel-map-key--unpublished" aria-hidden="true"></i> Not published — the operator does not say</span>
+  </div>
+  <noscript>
+    <p>The interactive map requires JavaScript. The table below lists every hostel with its area.</p>
+  </noscript>
+</details>
 
 Everything below is from each operator's own site. A blank means the operator does not publish it, not that the answer is no.
 
@@ -72,7 +90,7 @@ Everything below is from each operator's own site. A blank means the operator do
 | **Urbany** | Bayswater | **Shared, every room type** | **Not in London** | Yes | **18–40 only** | — |
 | **Park Villa** | Bow | **Half en-suite, half shared** | — | Kitchenette | Under-10s need a private room | — |
 
-*Sixteen rows for fourteen hostels: St Christopher's runs four London sites and they are not interchangeable.*
+*Eighteen rows for fifteen hostels: St Christopher's runs four London sites and they are not interchangeable.*
 
 ## Women's dorms: where they are real, and where they are only a label
 
@@ -344,9 +362,9 @@ It draws the most enthusiastic writing of any hostel in our community research �
 
 The operator calls it "a very small hostel" and caps groups at eight. It welcomes families, but **under-10s cannot use a dorm at all** and need a private family room with an adult. Mile End is a good Tube location and a walk to very little.
 
-![A room at Park Villa, with a green-and-blue bunk pod built in OSB board, plantation shutters and a single bed alongside](../../assets/articles/best-hostels-london/park-villa-hostel-dorm.jpg)
+![Inside a bunk pod at Park Villa, lined in OSB board, with a reading lamp, a small shelf and a phone charging beside the made-up bed](../../assets/articles/best-hostels-london/park-villa-hostel-dorm.jpg)
 
-*A room at Park Villa, with one of its custom-built bunk pods.*
+*Inside one of Park Villa's custom-built bunk pods.*
 
 ### The Walrus
 
