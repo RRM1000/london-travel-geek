@@ -10,7 +10,9 @@
 // Markup, classes and disclosure copy are deliberately identical to
 // AreaHotels so the two render the same and share its stylesheet rules where
 // they overlap; only the selection and the heading differ.
+import { Image } from "astro:assets";
 import data from "../data/hotels.json";
+import { hotelImages } from "../data/hotelImages";
 
 interface Props {
   /** Sheet `lists` value to select on, e.g. "capsules". */
@@ -71,7 +73,7 @@ const cards = rows.map((h) => {
   if (h.breakfast === "included") badges.push("Breakfast included");
   if (h.accessibility === "accessible-rooms" || h.accessibility === "step-free")
     badges.push("Accessible rooms");
-  return { h, badges };
+  return { h, badges, photo: hotelImages[h.slug] };
 });
 
 const hasAffiliate = rows.some((h) => h.affiliateUrl);
@@ -93,8 +95,19 @@ const hasAffiliate = rows.some((h) => h.affiliateUrl);
     </p>
 
     <ul class="ah-list">
-      {cards.map(({ h, badges }) => (
-        <li class="ah-item">
+      {cards.map(({ h, badges, photo }) => (
+        <li class={photo ? "ah-item ah-item--photo" : "ah-item"}>
+          {photo && (
+            <Image
+              src={photo.src}
+              alt={photo.alt}
+              widths={[320, 640, 960]}
+              sizes="(max-width: 40rem) 100vw, 14rem"
+              class="ah-photo"
+              loading="lazy"
+            />
+          )}
+          <div class="ah-body">
           <div class="ah-head">
             <h3>{h.name}</h3>
             {h.priceBand && <span class="ah-price">{h.priceBand}</span>}
@@ -125,6 +138,7 @@ const hasAffiliate = rows.some((h) => h.affiliateUrl);
               )}
             </p>
           )}
+          </div>
         </li>
       ))}
     </ul>
@@ -142,6 +156,24 @@ const hasAffiliate = rows.some((h) => h.affiliateUrl);
     padding: 1rem 1.15rem;
     background: var(--card, #fff);
   }
+  /* Photo beside the text on a wide card, above it on a narrow one - done with
+     flex-wrap rather than a media query, because production CSS rewrites
+     breakpoints into range syntax that iOS below 16.4 ignores. The photo's
+     13rem basis plus the body's 20rem is the width at which they sit side by
+     side; the body's huge grow factor keeps the photo from widening past it. */
+  .ah-item--photo { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1rem 1.15rem; }
+  /* Scoped under the card so it outranks the article body's own img margin. */
+  .ah-item--photo .ah-photo {
+    flex: 1 1 13rem;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    border-radius: 8px;
+    margin: 0;
+  }
+  .ah-item--photo .ah-body { flex: 999 1 20rem; min-width: 0; }
   .ah-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem; }
   .ah-head h3 { margin: 0; font-size: 1.05rem; }
   .ah-price { font-weight: 700; color: var(--accent, #c0392b); }
