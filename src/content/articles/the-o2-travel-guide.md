@@ -87,6 +87,8 @@ The other constraint is capacity, not restriction: Car Park 1 is a single car pa
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to actually park
 
 ### The O2's own car parks
@@ -125,8 +127,6 @@ It's not bookable in advance, so it isn't a guaranteed space, but on price alone
 A short walk from the station car park, on **Monro Way (SE10 0EJ)**, is a separate 19-space car park reserved entirely for Blue Badge holders: **free, with no time limit**, seven days a week, no booking and no payment machine at all. It's a better option than The O2's own paid accessible bays if you don't need to book ahead or want the walkway link to a specific car park.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-up-at-the-o2-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Up at The O2 tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The cable car and the river: fine for arriving, rarely useful for leaving
 
@@ -180,6 +180,8 @@ The **188 runs 24 hours** to and from Waterloo, and the **N472** night route sta
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to stay, and why the peninsula is the trap on a big night
 
 Checked live on the hotels' own booking engines, the two hotels closest to The O2 both showed the same pattern Wembley's Novotel does: cheap most nights, expensive on a big one — and neither is the default place to stay (more on that below).
@@ -221,8 +223,6 @@ The **Design District**, a cluster of 16 low-rise studio buildings by eight diff
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Eating and drinking in the Entertainment District
 
 Unlike Boxpark at Wembley, The O2's Entertainment District doesn't close to the public or convert to a ticketed fan zone on an event day — it's part of the venue's own estate rather than a separate leased business, and it runs on its ordinary public hours regardless of what's on in the arena that night.
@@ -253,8 +253,6 @@ The prohibited items list is broader than a simple bag-size rule: no weapons or 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-cable-car-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="cable car London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Step-free access, Blue Badge parking and accessible booking
 
 **Getting there:** North Greenwich station has low-level ticket machines, wheelchair-accessible gates, an induction loop, step-free access to every platform via lifts, and step-free bus stops. The cable car terminals are step-free with lifts and boarding staff, though only single battery-powered wheelchairs up to 80cm wide can travel on it. North Greenwich Pier is step-free and wheelchair accessible, with accessible toilets on the larger boats.
@@ -268,6 +266,8 @@ The prohibited items list is broader than a simple bag-size rule: no weapons or 
 **Booking accessible tickets:** The O2 uses the **Nimbus Disability Access Card** system. A Personal Assistant ticket requires a valid Access Card carrying the "+1" symbol, booked at the same time as your own ticket; for more than one PA, call the dedicated access line on **020 8463 3359**. BSL interpreting is available through SignVideo, **10am–2pm, Monday to Friday** (Typetext 18001 020 8463 3359).
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Small print that catches people out
 

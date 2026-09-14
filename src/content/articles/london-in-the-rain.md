@@ -70,8 +70,6 @@ Two more things worth knowing about: the **London Museum Docklands**, free, in a
 
 The Elizabeth line reaches Canary Wharf from Liverpool Street in six minutes.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-in-the-rain-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### King's Cross
 
 King's Cross doesn't offer one continuous covered route so much as a genuinely dense cluster of indoor anchors within a few minutes of the station — crossing the open pavement of Granary Square between them is the one damp part.
@@ -114,9 +112,9 @@ London's two Westfield centres don't need a clever argument — they are simply 
 
 If serious shopping is part of the plan while you're sheltering, worth knowing before you get to the till: **the UK abolished VAT refunds for visitors in 2021**, and the only way to claim it back now is to have the shop ship your purchase abroad. Our [tax-free shopping guide](/articles/tax-free-shopping-london/) has what still works.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-in-the-rain-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-in-the-rain-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## A few more worth knowing about
 
@@ -148,6 +146,8 @@ And if none of the above is covered enough: **BFI Southbank**'s Mediatheque lets
 * **The Tube is warm, dry, and covers more of central London underground than most people plan for** — several of the areas above are one line apart.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-in-the-rain-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

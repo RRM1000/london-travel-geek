@@ -84,6 +84,8 @@ Eurostar fares work like UK Advance tickets, not like a flat off-peak return —
 
 That's checked on 14 September 2026, cheapest Standard seat on each date for the same route. The £35 fare was part of a sale running for travel between 23 September and 16 December 2026 that was due to close for bookings that same day, so treat it as an example of how low the fare can go rather than a permanent price — but the underlying pattern, a same-day seat costing three to six times a seat booked a few weeks out, is the durable lesson. **Eurostar releases tickets 10 to 11 months ahead**, so for a specific date you have that whole window to watch for a drop.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Check-in and the border
 
 This is the part that catches people used to a UK domestic train, where you can arrive five minutes before departure. Eurostar's own recommended arrival times are longer, because UK exit checks, French entry checks and EU border registration are all done at your departure station, before you board — not on arrival.
@@ -132,6 +134,8 @@ Gare du Nord is itself a Métro and RER hub, so nothing central is far. A single
 
 Louvre and Notre-Dame are also a **9-minute walk from each other** along the river, which is the natural pairing if you'd rather stay central than cross town to the Eiffel Tower.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What to do with the day
 
 Given the real hours available, pick one of these rather than trying to string all of them together — the point of a day trip is not spending it entirely on the Métro.
@@ -155,8 +159,6 @@ Given the real hours available, pick one of these rather than trying to string a
 ![The white domes of the Sacré-Cœur at the top of Montmartre, above lawns and long flights of steps busy with visitors](../../assets/articles/paris-day-trip/sacre-coeur-steps.jpg)
 
 *The Sacré-Cœur at the top of Montmartre, free to enter once you've climbed the steps.*
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-eiffel-tower-skip-the-line" data-gyg-partner-id="WWP7I0R" data-gyg-q="Eiffel Tower skip the line tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 Prefer someone else to handle the tickets, the coach transfers in Paris and the Eurostar booking? The escorted day trip linked at the top of this guide covers a panoramic coach tour, lunch at the Eiffel Tower's Madame Brasserie, a Seine cruise and entry to the tower itself, with round-trip Eurostar included — useful if you'd rather not plan the logistics above yourself.
 

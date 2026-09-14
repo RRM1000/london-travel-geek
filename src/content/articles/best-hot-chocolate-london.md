@@ -55,8 +55,6 @@ It is a narrow shop with a handful of stools rather than a café, so most people
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hot-chocolate-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Also strongly backed
 
 ### Dark Sugars Cocoa House
@@ -138,6 +136,8 @@ A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday a
 > ⚠️ **Sources name Badiani as a brand, not a branch.** There are several London sites and this is the Covent Garden one. Check which you are heading for.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hot-chocolate-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What the widely-shared list gets wrong
 

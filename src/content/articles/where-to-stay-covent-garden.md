@@ -52,8 +52,6 @@ The name covers about half a mile, and its edges shade into other areas — so i
 
 **Do not plan around Covent Garden station.** Platform access is by four lifts or an emergency spiral staircase of 193 steps, with no escalators at all, and a last flight of stairs down from the lifts means it is not step-free either. Leicester Square is 260 metres away — the shortest gap between any two adjacent stations on the Underground — and quicker in both directions.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The hotels
 
 ### The Z Hotel Covent Garden — the cheapest bed here, and the window costs £30
@@ -156,7 +154,7 @@ There is a naturally lit pool, a gym, sauna, steam room and three treatment room
 
 *A river-facing room at the Savoy, with the London Eye visible across the Thames.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay just outside
 
@@ -246,6 +244,8 @@ Ten minutes north of the piazza the market changes completely, and it is covered
 
 *A room at the Treehouse Hotel London, with a window seat over the skyline, and the bathroom's birch-branch feature wall.*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The noise question, and why Covent Garden is not Soho
 
 Both are West End districts and both are loud, in completely different shapes, which changes what you should book.
@@ -255,8 +255,6 @@ Both are West End districts and both are loud, in completely different shapes, w
 **The loud edge is the west, and it is Soho's noise.** St Martin's Lane, Charing Cross Road and the Leicester Square end run late seven nights a week. If quiet matters, book east of the piazza — Bow Street, Drury Lane, the Holborn side — rather than west of it.
 
 **The Strand is a third case entirely.** It is a wide traffic road with night buses, sirens and street cleaning, and the noise is mechanical rather than human. Ask for a room facing away from it, by name, at the point of booking rather than at check-in.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What you are staying for
 

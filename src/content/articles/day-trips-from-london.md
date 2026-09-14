@@ -61,8 +61,6 @@ The catch is the colleges. Some charge, some are free, and several close to visi
 
 → **[The full Oxford guide](/articles/oxford-day-trip/)**
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Cambridge
 
 **49 minutes from King's Cross** on the fast train, or slower and cheaper from Liverpool Street. Neither Oyster nor contactless works, and the walk-up fare can be £48 on a morning fast train, so book ahead: advance singles start at **£15.20**.
@@ -70,6 +68,8 @@ The catch is the colleges. Some charge, some are free, and several close to visi
 King's College is **£16.75**, St John's £17, Queens' £5, and Trinity does not let the public into its courts at all. Punting is **£28.50 a punt** if you row it yourself, from £41 a seat if someone else does — and the touts on the street are breaking a council order, so book at one of the licensed stations.
 
 → **[The full Cambridge guide](/articles/cambridge-day-trip/)**
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The Harry Potter Studio Tour
 
@@ -136,6 +136,8 @@ These do not have a guide of their own yet, but they are worth the day:
 - **Theme parks:** Legoland, ten minutes from [Windsor](/articles/windsor-day-trip/) and a day of its own rather than an afternoon after the castle, plus Thorpe Park, Chessington, and Alton Towers if you are prepared to stay over.
 - **Abroad:** [Paris by Eurostar](/articles/paris-day-trip/), which is from 2h16 direct and a real day out if you start early — see the full guide for the fares, the border checks, and how many hours that actually leaves you in the city.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Making the day work
 
 - **Check the closure day before you book the train.** Windsor Castle shuts Tuesdays and Wednesdays, the Studio Tour shuts for its November changeover, and Cambridge colleges close for exams in spring.
@@ -143,8 +145,6 @@ These do not have a guide of their own yet, but they are worth the day:
 - **Travel out after 09:30 on weekdays** for off-peak fares, which on most of these routes also means a seat.
 - **Check the last train before you commit to dinner.** They are earlier than London habits assume, particularly on Sundays, when engineering work can close a branch line entirely.
 - **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** covers some attractions, including things in Cambridge, but not Windsor Castle or the colleges. It needs a paper ticket, not contactless.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

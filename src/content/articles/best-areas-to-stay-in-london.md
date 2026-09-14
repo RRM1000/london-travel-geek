@@ -272,6 +272,8 @@ A maritime village with the Cutty Sark, the Old Royal Naval College, the Nationa
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## On a budget
 
 The cheapest beds in London are in Zone 1, and they are cheap because the room is small rather than because the postcode is bad. Moving outwards only pays when the saving is large enough to survive the travelling.
@@ -314,8 +316,6 @@ The rest of the time, be honest about the maths. It is Zone 4: the daily fare ca
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Quiet and residential
 
 Where to stay if the trip is a long one, if you are a light sleeper, or if you have done the sights and now want a neighbourhood rather than an attraction.
@@ -351,6 +351,8 @@ A hilltop village with the Heath attached, swimming ponds, Kenwood House and vie
 **[NOX Hotels Belsize Park](hotel:nox-belsize-park)** is about £130 in a converted pub, walkable to both the Heath and Primrose Hill, with rooms that keep some of the building's pub-era character. **[La Gaffe](hotel:la-gaffe)** is about £140 with breakfast, family-run for decades on Heath Street on the site of an 18th-century shepherd's cottage, five minutes from the Heath — and there is no lift.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Arriving late, or leaving early
 
@@ -410,7 +412,7 @@ It is new enough to be barely reviewed. **[Native Mayfair](hotel:native-mayfair)
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The mistakes people make choosing a base
 

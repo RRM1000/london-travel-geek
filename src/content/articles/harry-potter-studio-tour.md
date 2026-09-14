@@ -88,8 +88,6 @@ The photo package covers the green screen broomstick flight and the printed extr
 
 **The free accessibility alternatives are worth knowing about:** audio descriptive tours, tactile tours, braille and large-print image books, induction loops, and BSL tours with a qualified interpreter, all free — the BSL tours need 14 days' notice.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-studio-tour-bundles" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="679208,31392,297085"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The upgrades
 
 | Package | Price | What you get |
@@ -101,6 +99,8 @@ The photo package covers the green screen broomstick flight and the printed extr
 | **Relaxed Tours** | £58.50 | Standard price, adapted for visitors with autism: reduced numbers, changed lighting and quieter sound from 08:00 to 10:00 on three dates a year |
 
 **The Hogwarts Table is not in the Great Hall.** The breakfast, dinner and afternoon tea all happen in a dining room in the entrance hub, not on the set. It is the single most common disappointment, and the operator is upfront about it.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-studio-tour-bundles" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="679208,31392,297085"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Food, drink and Butterbeer
 

@@ -93,6 +93,8 @@ Unlike Brent's scheme around Wembley, Newham's own page doesn't describe a singl
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to actually park
 
 There's no equivalent here of Wembley's five colour-coded, pre-bookable car parks. What actually exists:
@@ -104,8 +106,6 @@ There's no equivalent here of Wembley's five colour-coded, pre-bookable car park
 If you're driving, the honest advice is the same as West Ham's own: don't, unless you already have a season-ticket space.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-london-stadium-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Stadium tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting home
 
@@ -153,6 +153,8 @@ This site already covers the area's other main options in detail — **[Premier 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The walk through Queen Elizabeth Olympic Park
 
 The stadium sits on what West Ham's own paperwork calls "the stadium island" — reached across the park's waterways by five numbered bridges, plus a road, Marshgate Lane, for Bridge 4. Ten turnstile blocks, lettered A to K (skipping I), ring the island, each signposted from a distance by large illuminated totem poles showing the letter and the transport destinations beyond it.
@@ -164,8 +166,6 @@ The stadium uses **what3words** for its own precise locations — the security r
 Stadium tours, run on non-event days, are the other reason to make the walk when there's nothing on: our [Stratford area guide](/articles/stratford-area-guide/) covers the wider park, including the ArcelorMittal Orbit and its slide, and the Aquatics Centre next door.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-arcelormittal-orbit-slide-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="ArcelorMittal Orbit slide tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Eating and drinking
 
@@ -182,8 +182,6 @@ Stadium tours, run on non-event days, are the other reason to make the walk when
 At Association Football matches, alcohol may not be consumed in view of the pitch, and none of it may leave the stadium island once you've bought it. That's West Ham's own rule, stated on the club's safety and security page.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The bag problem
 
@@ -210,6 +208,8 @@ London Stadium is, on the evidence of its own published access statement, thorou
 **Contact:** West Ham's accessibility team is on **0333 030 0174** or **accessibility@westhamunited.co.uk**.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Small print that catches people out
 

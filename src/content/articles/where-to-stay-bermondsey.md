@@ -182,6 +182,8 @@ Twenty minutes from London Bridge by Tube and noticeably cheaper, with the trade
 
 **[The GreenHouse Capsules](hotel:greenhouse-capsules)** at 93 Roman Road is the other end entirely, at **£42 to £53 a capsule** — eight units, no front desk, entry by access code, and the flattest price in our whole capsule set. It barely moves between a quiet Sunday and mid-December, which makes it dearer than a Zone 1 berth on a quiet night and cheaper at Christmas — the opposite of what a Zone 2 address implies.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The night train, and the fact almost everyone gets wrong
 
 This is the part of the area that people assume and should check.
@@ -204,7 +206,7 @@ If the market and the arches are why you picked Bermondsey, the booking should s
 
 One good midweek fact: **the Sainsbury's on Bermondsey Square is open until midnight**, which is what makes a kitchen at Bermonds Locke useful rather than theoretical. And **The Arzner**, on the same square, is London's first LGBTQ+ cinema — a 50-seat screen with a cocktail bar attached, screening daily, the bar open to 11pm Sunday to Thursday and to midnight on Friday and Saturday.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What you are staying for
 

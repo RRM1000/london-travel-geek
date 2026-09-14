@@ -49,6 +49,8 @@ Battered white fish — cod or haddock, usually — deep-fried and served with t
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="classic-british-food-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Pies, pastries and the things you eat with your hands
 
 ### Pie and mash
@@ -102,6 +104,8 @@ Shortcrust pastry filled with golden syrup, breadcrumbs and lemon juice and bake
 Spotted dick is a suet sponge studded with dried fruit, steamed and served with custard; sherry trifle is layers of sponge soaked in sherry, fruit, custard and cream, built in a glass bowl so the layers show. **[Simpson's-in-the-Strand](https://www.simpsonsinthestrand.co.uk/)**, a Strand institution since 1848 and still known for the silver trolleys its meat is carved from at the table, keeps both on the menu.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="classic-british-food-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

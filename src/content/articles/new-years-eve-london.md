@@ -130,6 +130,8 @@ For a view of London rather than of the fireworks, our guide to the [best views 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="new-years-eve-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Everything else happening that night
 
 **The boats are selling and nothing else is.** None of the big rooms have a New Year's Eve night up yet — not Ministry of Sound, fabric, Troxy or Drumsheds — and nor do the rooftops and hotels, Sky Garden, The Londoner, Aqua Shard, Duck & Waffle and The Ritz among them. Line-ups and hotel dinner menus land from late October onwards, so anything quoting a 2026 price for those venues today is recycling last year's figure.
@@ -151,8 +153,6 @@ London Party Boats tickets include a welcome Prosecco, unlimited beer, wine, Pro
 For the run-up rather than the night itself — markets, lights, ice rinks and carols — see our guide to [Christmas in London](/articles/christmas-in-london/).
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="new-years-eve-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The London Parade on New Year's Day
 
