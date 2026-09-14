@@ -537,7 +537,7 @@
     "name": "Biju Bubble Tea Room",
     "firstSeen": "2026-09-14",
     "lastSeen": "2026-09-14",
-    "status": "open"
+    "status": "temporarily-closed"
   },
   "bing-bong-pizza": {
     "name": "Bing Bong Pizza",
@@ -567,7 +567,7 @@
     "name": "Boba Coma",
     "firstSeen": "2026-09-14",
     "lastSeen": "2026-09-14",
-    "status": "open"
+    "status": "temporarily-closed"
   },
   "bocca-di-lupo": {
     "name": "Bocca di Lupo",
@@ -1089,7 +1089,7 @@
     "name": "CoCo Fresh Tea & Juice",
     "firstSeen": "2026-09-14",
     "lastSeen": "2026-09-14",
-    "status": "open"
+    "status": "closed"
   },
   "cocoro": {
     "name": "Cocoro",
@@ -1389,7 +1389,7 @@
     "name": "Dragon Cat Cafe",
     "firstSeen": "2026-09-14",
     "lastSeen": "2026-09-14",
-    "status": "open"
+    "status": "closed"
   },
   "dragon-inn-club": {
     "name": "Dragon Inn Club",
@@ -3693,7 +3693,7 @@
     "name": "Quaker Street Coffee & Bubble Tea",
     "firstSeen": "2026-09-14",
     "lastSeen": "2026-09-14",
-    "status": "open"
+    "status": "closed"
   },
   "quality-chop-house": {
     "name": "The Quality Chop House",
@@ -4455,7 +4455,7 @@
     "name": "Tealive",
     "firstSeen": "2026-09-14",
     "lastSeen": "2026-09-14",
-    "status": "open"
+    "status": "closed"
   },
   "temaki-mayfair": {
     "name": "Temaki Mayfair",
@@ -4485,7 +4485,7 @@
     "name": "The Alley",
     "firstSeen": "2026-09-14",
     "lastSeen": "2026-09-14",
-    "status": "open"
+    "status": "closed"
   },
   "the-ampersand": {
     "name": "The Ampersand Hotel",
@@ -5307,7 +5307,7 @@
     "name": "Yunique Tea",
     "firstSeen": "2026-09-14",
     "lastSeen": "2026-09-14",
-    "status": "open"
+    "status": "temporarily-closed"
   },
   "yurt-cafe": {
     "name": "The Yurt Café",
