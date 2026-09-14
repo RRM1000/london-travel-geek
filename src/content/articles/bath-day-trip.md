@@ -41,6 +41,8 @@ It is also the rare day trip where the station puts you in the middle of everyth
 - **£119** — <a href="https://www.getyourguide.com/activity/-t593863?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath and the Cotswolds, with Roman Baths entry included</a>
 - **£84** — <a href="https://www.getyourguide.com/activity/-t173901?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath, Avebury and Lacock village, 16-seat minibus</a>
 
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="61147" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ![Pulteney Bridge seen from the river, its arches and the shops built along it, with Georgian buildings behind](../../assets/articles/bath-day-trip/pulteney-bridge-river.jpg)
 
 *Photo: Lebele, Pexels.*

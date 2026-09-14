@@ -206,6 +206,8 @@ The <a href="https://www.getyourguide.com/activity/-t408850?partner_id=WWP7I0R&a
 - **With children:** do it yourself. The £188 family price is only available direct, so two adults and two children pay **£188** plus the train, against **£392** on the Victoria coach on 24 November, where each child cost £93 rather than £47. The train is also 20 minutes, not 75 or more on a coach.
 - **Door to door:** the <a href="https://www.getyourguide.com/activity/-t297085?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">hotel pickup</a>, £159, in a shared car of up to eight. It is not suitable for wheelchair users.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="31392" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 **Do it yourself whenever the operator still has tickets for your date.** For anyone who can manage a 20-minute train from Euston, that is at least £14 a head cheaper than any transport package here, with no fixed coach time to be back for.
 
 > ⚠️ **Do not buy a transfer without a ticket by mistake.** Some listings sell the coach seat only, and you will be refused boarding without your own Studio Tour ticket. Check that entry is included before you pay.

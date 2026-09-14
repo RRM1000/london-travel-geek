@@ -41,6 +41,8 @@ The harder question is how you get there. Stonehenge sits in a field off the A30
 - **£85** — <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and Bath, with Stonehenge entry</a>
 - **£140.25** — <a href="https://www.getyourguide.com/activity/-t11109?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Inner Circle access, inside the stones</a>
 
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="219849" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What it costs
 
 | Adult ticket | In advance | On the day |
