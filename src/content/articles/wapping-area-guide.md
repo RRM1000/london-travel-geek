@@ -139,7 +139,7 @@ An **outdoor activity centre** runs kayaking and sailing on it, so there is usua
 
 **Free to walk round.** The [Ornamental Canal](/articles/hidden-london-secret-places/) runs from here back towards Tobacco Dock, which is the best way to link this to the rest of the area on foot.
 
-**On Saturdays**, Wapping Docklands Market sets up on Brussels Wharf at the basin's river end, across the Glamis Road bridge from the Prospect of Whitby: produce, independent stalls, street food and live music, 10am to 5pm.
+**On Saturdays**, Wapping Docklands Market sets up on Brussels Wharf at the basin's river end, a couple of minutes along Wapping Wall from the Prospect of Whitby: produce, independent stalls, street food and live music, 10am to 5pm.
 
 ### Tobacco Dock
 North. A **Grade I listed warehouse of 1812**, built to hold imported tobacco and now one of the more striking event spaces in London — brick vaults below, timber and iron above. Two replica sailing ships sit in the dry dock outside.
