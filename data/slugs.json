@@ -287,6 +287,12 @@
     "lastSeen": "2026-09-14",
     "status": "open"
   },
+  "auntea-jenny-soho": {
+    "name": "Auntea Jenny",
+    "firstSeen": "2026-09-14",
+    "lastSeen": "2026-09-14",
+    "status": "open"
+  },
   "ave-mario": {
     "name": "Ave Mario",
     "firstSeen": "2026-08-17",
@@ -568,6 +574,12 @@
     "firstSeen": "2026-09-14",
     "lastSeen": "2026-09-14",
     "status": "temporarily-closed"
+  },
+  "bobar": {
+    "name": "Bobar",
+    "firstSeen": "2026-09-14",
+    "lastSeen": "2026-09-14",
+    "status": "open"
   },
   "bocca-di-lupo": {
     "name": "Bocca di Lupo",
@@ -3035,6 +3047,12 @@
     "lastSeen": "2026-09-14",
     "status": "open"
   },
+  "milksha-soho": {
+    "name": "Milksha",
+    "firstSeen": "2026-09-14",
+    "lastSeen": "2026-09-14",
+    "status": "open"
+  },
   "min-jiang": {
     "name": "Min Jiang",
     "firstSeen": "2026-08-17",
@@ -3043,6 +3061,12 @@
   },
   "min-tea-chinatown": {
     "name": "Min Tea",
+    "firstSeen": "2026-09-14",
+    "lastSeen": "2026-09-14",
+    "status": "open"
+  },
+  "molly-tea-chinatown": {
+    "name": "Molly Tea",
     "firstSeen": "2026-09-14",
     "lastSeen": "2026-09-14",
     "status": "open"

@@ -59,7 +59,7 @@ const cited = [
   ...[...article.matchAll(/^### (.+)\r?\n\r?\n\*[^\n]*?Cited by (\d+) sources?/gm)].map((m) => [m[1], m[2]]),
   ...[...article.matchAll(/^- (?:[^*\s]+ )?(?:\*\*[^*]+\*\*: )?\*\*([^*]+)\*\*[^\n]*?Cited by (\d+) sources?/gm)].map((m) => [m[1], m[2]]),
 ];
-if (cited.length < 18) errors.push(`only ${cited.length} citation lines matched - has the format changed?`);
+if (cited.length < 22) errors.push(`only ${cited.length} citation lines matched - has the format changed?`);
 for (const [raw, n] of cited) {
   const name = ALIAS[raw.trim()] ?? raw.trim();
   if (!(name in countOf)) { errors.push(`${name}: has a citation line but no bubble-tea evidence`); continue; }
@@ -87,7 +87,7 @@ for (const h of article.matchAll(/^### (.+)$/gm)) {
 // ---- the closures table ------------------------------------------------
 let tableRows = 0;
 const named = (n) => consensus.sources.filter((s) => s.names.includes(n)).length;
-for (const m of article.matchAll(/^\| \*\*([^*]+)\*\*[^|]*\| (\d+)( of 15 sources)?[,| ]/gm)) {
+for (const m of article.matchAll(/^\| \*\*([^*]+)\*\*[^|]*\| (\d+)( of \d+ sources)?[,| ]/gm)) {
   const name = { "Dragon Cat Café": "Dragon Cat Cafe" }[m[1]] ?? m[1];
   tableRows++;
   check(`${name} closures-table count`, m[2], named(name));

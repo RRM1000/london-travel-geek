@@ -49418,14 +49418,14 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 10,
-    "tierSpread": "B3 C5 D2",
+    "sourceCount": 14,
+    "tierSpread": "B3 C5 D6",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 10,
-        "tierSpread": "B3 C5 D2",
+        "sourceCount": 14,
+        "tierSpread": "B3 C5 D6",
         "tierCount": 3,
         "hasAward": false
       }
@@ -49490,6 +49490,30 @@
         "source": "MelaninMichie (YouTube)",
         "url": "https://www.youtube.com/@MelaninMichie",
         "quote": "Chapter 'Zing Zutang'."
+      },
+      {
+        "tier": "D",
+        "source": "Safiya Arinola (TikTok)",
+        "url": "https://www.tiktok.com/@safiyaarinola",
+        "quote": "'This spot is No. 1 when it comes to brown sugar boba' - signature brown sugar boba milk and a Biscoff version. 'If Taiwan says this is their No.1... then it's a No.1.'"
+      },
+      {
+        "tier": "D",
+        "source": "Maria Rita (TikTok)",
+        "url": "https://www.tiktok.com/@mariarita_cnn",
+        "quote": "'Taiwan No.1 Xing Fu Tang, London' - 290k views."
+      },
+      {
+        "tier": "D",
+        "source": "Muslimah That Eats (TikTok)",
+        "url": "https://www.tiktok.com/@muslimah.that.eats",
+        "quote": "Brown sugar milk tea, large, £5.95 - 'tapioca was super soft and chewy (they make it fresh in store)'. 10/10."
+      },
+      {
+        "tier": "D",
+        "source": "Bunch of Bananas (podcast) (TikTok)",
+        "url": "https://www.tiktok.com/@bunchofbananaspod",
+        "quote": "@londonfoodieexpat: 'they got the best pearl. Freshly made, hot, chewy.'"
       }
     ]
   },
@@ -49948,14 +49972,14 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C1 D1",
+    "sourceCount": 7,
+    "tierSpread": "B1 C1 D5",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C1 D1",
+        "sourceCount": 7,
+        "tierSpread": "B1 C1 D5",
         "tierCount": 3,
         "hasAward": false
       }
@@ -49978,6 +50002,30 @@
         "source": "Kayse (YouTube)",
         "url": "https://www.youtube.com/@bykayse",
         "quote": "Chapter 'Hey Tea'."
+      },
+      {
+        "tier": "D",
+        "source": "Maria Rita (TikTok)",
+        "url": "https://www.tiktok.com/@mariarita_cnn",
+        "quote": "Follow-up: 'Well @heytea.uk is also good' - HEYTEA (SOHO)."
+      },
+      {
+        "tier": "D",
+        "source": "Bunch of Bananas (podcast) (TikTok)",
+        "url": "https://www.tiktok.com/@bunchofbananaspod",
+        "quote": "Second guest's number one: 'their bubble teas, they're like actual desserts' - mango grapefruit sago."
+      },
+      {
+        "tier": "D",
+        "source": "Angelina (TikTok)",
+        "url": "https://www.tiktok.com/@angelina.pj",
+        "quote": "Waited 23 minutes; Coconut Mango Bloom £6.80, matcha £5.90 - 'one of the most expensive bubble teas I've ever bought'. 8.5/10."
+      },
+      {
+        "tier": "D",
+        "source": "Venus On The Go (TikTok)",
+        "url": "https://www.tiktok.com/@venus.onthego",
+        "quote": "'Heytea has landed in london (with 2 locations)' - known for unique drink combos and fresh ingredients."
       }
     ]
   },
@@ -50051,15 +50099,15 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -50075,6 +50123,12 @@
         "source": "The Strand Magazine",
         "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
         "quote": "#2 of 10, The Strand. 3 Garrick Street. Milk foam matcha strawberry milk tea; yoghurt popping pearls."
+      },
+      {
+        "tier": "D",
+        "source": "Bunch of Bananas (podcast) (TikTok)",
+        "url": "https://www.tiktok.com/@bunchofbananaspod",
+        "quote": "Second guest's number four, Covent Garden - QQ passionfruit; also a separate Gong Cha drinks ranking naming Goodge St and Garrick St."
       }
     ]
   },
@@ -50083,15 +50137,15 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C2",
-        "tierCount": 2,
+        "sourceCount": 4,
+        "tierSpread": "B1 C2 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -50112,6 +50166,12 @@
         "tier": "C",
         "source": "Hues of Delahaye",
         "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Bunch of Bananas (podcast) (TikTok)",
+        "url": "https://www.tiktok.com/@bunchofbananaspod",
+        "quote": "@londonfoodieexpat: crushes real fruit rather than syrup."
       }
     ]
   },
@@ -50163,14 +50223,14 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 8,
-    "tierSpread": "B2 C4 D2",
+    "sourceCount": 9,
+    "tierSpread": "B2 C4 D3",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 8,
-        "tierSpread": "B2 C4 D2",
+        "sourceCount": 9,
+        "tierSpread": "B2 C4 D3",
         "tierCount": 3,
         "hasAward": false
       }
@@ -50220,6 +50280,12 @@
         "tier": "D",
         "source": "Rayscafe (YouTube)",
         "url": "https://www.youtube.com/@Rayscafes"
+      },
+      {
+        "tier": "D",
+        "source": "Bunch of Bananas (podcast) (TikTok)",
+        "url": "https://www.tiktok.com/@bunchofbananaspod",
+        "quote": "Second guest's number three, Chinatown - lychee peach tea."
       }
     ]
   },
@@ -50489,14 +50555,14 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 5,
-    "tierSpread": "C3 D2",
+    "sourceCount": 6,
+    "tierSpread": "C3 D3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 5,
-        "tierSpread": "C3 D2",
+        "sourceCount": 6,
+        "tierSpread": "C3 D3",
         "tierCount": 2,
         "hasAward": false
       }
@@ -50529,6 +50595,12 @@
         "tier": "D",
         "source": "Rayscafe (YouTube)",
         "url": "https://www.youtube.com/@Rayscafes"
+      },
+      {
+        "tier": "D",
+        "source": "Cass Wright (TikTok)",
+        "url": "https://www.tiktok.com/@itscasswright",
+        "quote": "Lychee fruit tea, £7.20 - fresh lychee inside, but 'quite on the expensive side' and very sugary."
       }
     ]
   },
@@ -50670,14 +50742,14 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C1 D2",
+    "sourceCount": 4,
+    "tierSpread": "C1 D3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 3,
-        "tierSpread": "C1 D2",
+        "sourceCount": 4,
+        "tierSpread": "C1 D3",
         "tierCount": 2,
         "hasAward": false
       }
@@ -50698,6 +50770,12 @@
         "tier": "D",
         "source": "Rayscafe (YouTube)",
         "url": "https://www.youtube.com/@Rayscafes"
+      },
+      {
+        "tier": "D",
+        "source": "Cass Wright (TikTok)",
+        "url": "https://www.tiktok.com/@itscasswright",
+        "quote": "Golden passion fruit tea, listed £6.50 - 'So far, that's the best one we've had.'"
       }
     ]
   },
@@ -50706,15 +50784,15 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -50724,6 +50802,12 @@
         "source": "The Strand Magazine",
         "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
         "quote": "#8 of 10, The Strand. 65 Shaftesbury Avenue; honey pearls."
+      },
+      {
+        "tier": "D",
+        "source": "Bunch of Bananas (podcast) (TikTok)",
+        "url": "https://www.tiktok.com/@bunchofbananaspod",
+        "quote": "@londonfoodieexpat: Milksha in Soho."
       }
     ]
   },
@@ -50757,14 +50841,14 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 2,
-    "tierSpread": "D2",
+    "sourceCount": 3,
+    "tierSpread": "D3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 2,
-        "tierSpread": "D2",
+        "sourceCount": 3,
+        "tierSpread": "D3",
         "tierCount": 1,
         "hasAward": false
       }
@@ -50780,6 +50864,12 @@
         "tier": "D",
         "source": "Rayscafe (YouTube)",
         "url": "https://www.youtube.com/@Rayscafes"
+      },
+      {
+        "tier": "D",
+        "source": "Bunch of Bananas (podcast) (TikTok)",
+        "url": "https://www.tiktok.com/@bunchofbananaspod",
+        "quote": "@londonfoodieexpat: 'very low key and very expensive' - £7.50, 'and I keep coming'. Caption: Spitalfields."
       }
     ]
   },
@@ -50863,6 +50953,38 @@
     "topics": [
       "bubble-tea"
     ],
+    "sourceCount": 2,
+    "tierSpread": "D2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 2,
+        "tierSpread": "D2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes",
+        "quote": "'Others I recommended after the above'."
+      },
+      {
+        "tier": "D",
+        "source": "Gabriella (TikTok)",
+        "url": "https://www.tiktok.com/@gabriellasmain",
+        "quote": "'Bobar, East London'."
+      }
+    ]
+  },
+  "thaicup": {
+    "name": "Thai Cup",
+    "topics": [
+      "bubble-tea"
+    ],
     "sourceCount": 1,
     "tierSpread": "D1",
     "tierCount": 1,
@@ -50878,9 +51000,61 @@
     "sources": [
       {
         "tier": "D",
-        "source": "Rayscafe (YouTube)",
-        "url": "https://www.youtube.com/@Rayscafes",
-        "quote": "'Others I recommended after the above'."
+        "source": "Bunch of Bananas (podcast) (TikTok)",
+        "url": "https://www.tiktok.com/@bunchofbananaspod",
+        "quote": "@londonfoodieexpat: Tottenham Court Road, 'the only place that do Thai bubble tea', hand-pulled."
+      }
+    ]
+  },
+  "mollytea": {
+    "name": "Molly Tea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Zoe Tang (TikTok)",
+        "url": "https://www.tiktok.com/@zo.etang",
+        "quote": "Queued about 30 minutes; premium jasmine apple milk and pistachio jasmine coconut - '£17 for two drinks is kind of wild', jasmine 'super floral'."
+      }
+    ]
+  },
+  "aunteajenny": {
+    "name": "Auntea Jenny",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Farah Redif (TikTok)",
+        "url": "https://www.tiktok.com/@farahredif",
+        "quote": "'auntea jenny does it best' - whipped cream brulee boba fresh milk tea; student stamp card and Wednesday student discount."
       }
     ]
   },

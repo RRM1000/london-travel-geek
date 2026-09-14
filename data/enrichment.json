@@ -875,6 +875,13 @@
     "bookingUrl": "http://www.aun-restaurant.com/book-a-table/",
     "pressChecked": "2026-08-17"
   },
+  "auntea-jenny-soho": {
+    "placeId": "ChIJ3zSE2k8FdkgRZ1Jq0buMUEs",
+    "placesName": "AUNTEA JENNY",
+    "address": "49 Rupert St, London W1D 7PE, UK",
+    "postcode": "W1D 7PE",
+    "businessStatus": "OPERATIONAL"
+  },
   "ave-mario": {
     "website": "https://www.bigmammagroup.com/italian-restaurants/ave-mario",
     "bookingPlatform": "sevenrooms, opentable",
@@ -1113,6 +1120,15 @@
     "bookingProbe": "HTTP 403",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
+  },
+  "bao-kings-cross": {
+    "placeId": "ChIJcaR_kBUbdkgRdC3ybb_dwVQ",
+    "placesName": "BAO Kings Cross",
+    "address": "Unit 2, 4 Pancras Sq, London N1C 4DP, UK",
+    "postcode": "N1C 4DP",
+    "website": "https://baolondon.com/restaurant/bao-kings-cross/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "baoziinn": {
     "placeId": "ChIJvcL6FQAFdkgRFg4LFK4Asp8",
@@ -1607,6 +1623,13 @@
     "lng": -0.187086,
     "ward": "Bayswater"
   },
+  "biju-bubble-tea-room": {
+    "placeId": "ChIJYfVLeQAFdkgRH-iOtu9RYOQ",
+    "placesName": "Biju Bubble Tea Room",
+    "address": "63 Lavender Hill, London SW11 5QN, UK",
+    "postcode": "SW11 5QN",
+    "businessStatus": "OPERATIONAL"
+  },
   "bing-bong-pizza": {
     "lat": 51.544647,
     "lng": -0.021406,
@@ -1677,6 +1700,23 @@
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.sevenrooms.com/explore/bobbobricardsoho/reservations/create/search/?venues=bobbobricardcity,bebebob,bobbobricardsoho",
     "pressChecked": "2026-08-17"
+  },
+  "boba-coma-leyton": {
+    "placeId": "ChIJXwPQ-50ddkgRrNqO-ngVpyw",
+    "placesName": "BOBA COMA Bubble Tea",
+    "address": "296 High Rd. Leyton, London E10 5PW, UK",
+    "postcode": "E10 5PW",
+    "website": "http://www.bobacoma.uk/",
+    "businessStatus": "CLOSED_TEMPORARILY"
+  },
+  "bobar": {
+    "placeId": "ChIJCUFJ-T4ddkgR45N-7titsTw",
+    "placesName": "BoBAR",
+    "address": "324C Hackney Rd, London E2 7AX, UK",
+    "postcode": "E2 7AX",
+    "website": "https://www.bobarlondon.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "bocca-di-lupo": {
     "website": "https://www.boccadilupo.com/",
@@ -2173,6 +2213,24 @@
     "bookingPlatform": "opentable",
     "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=418572&rid=352215&rid=288186&type=multi&theme=wide&color=8&dark=false&iframe=false&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&font=brandonText&ot_logo=standard&primary_color=f0f0e4&primary_font_color=333333&button_colo",
     "pressChecked": "2026-08-17"
+  },
+  "bubble-magik-ealing": {
+    "placeId": "ChIJHS7SDfUNdkgR1F4RrlKWrRk",
+    "placesName": "Bubble Magik",
+    "address": "UNIT 20 The Broadway, London W5 5JY, UK",
+    "postcode": "W5 5JY",
+    "website": "http://www.bubblemagik.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
+  "bubbleology-soho": {
+    "placeId": "ChIJeTxtVmQddkgRyiUrW24-68A",
+    "placesName": "Bubbleology",
+    "address": "1st Floor, Westfield stratford city, 32 Montfichet Rd, London E20 1EJ, UK",
+    "postcode": "E20 1EJ",
+    "website": "http://bubbleology.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "bulls-head-barnes": {
     "placeId": "ChIJuXb-7lgOdkgRIlUddh4a3MY",
@@ -2756,6 +2814,7 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "chatime": {},
   "chatsworth-bakehouse": {
     "placeId": "ChIJMeN-I3oHdkgRhLUN2KN2AqA",
     "placesName": "Chatsworth Bakehouse",
@@ -3223,6 +3282,13 @@
     "walkMin": 6,
     "walkFrom": "Ladbroke Grove Underground Station"
   },
+  "coco-fresh-tea-soho": {
+    "placeId": "ChIJB004-NIEdkgRuQBIA2D4W6Q",
+    "placesName": "CoCo Fresh Tea & Juice",
+    "address": "Ground Floor, 52-53 Dean St, London W1D 5BL, UK",
+    "postcode": "W1D 5BL",
+    "businessStatus": "CLOSED_PERMANENTLY"
+  },
   "cocoro": {
     "placeId": "ChIJRdRbATMbdkgRdRbb2TgNa5o",
     "placesName": "Cocoro",
@@ -3575,6 +3641,24 @@
     "lng": -0.082183,
     "ward": "London Bridge & West Bermondsey"
   },
+  "cuppacha-chinatown": {
+    "placeId": "ChIJT6Mch80EdkgRDaXVNa0tyDg",
+    "placesName": "Cuppacha",
+    "address": "23 Newport Ct, London WC2H 7JS, UK",
+    "postcode": "WC2H 7JS",
+    "website": "http://www.cuppacha.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
+  "cuppo-bubbo-herne-hill": {
+    "placeId": "ChIJYZnl3EEFdkgR2svAkblG624",
+    "placesName": "Cuppo Bubbo",
+    "address": "167 Herne Hill, London SE24 9LR, UK",
+    "postcode": "SE24 9LR",
+    "website": "http://cuppobubbo.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "cut-at-45-park-lane": {
     "postcode": "W1K 1PN",
     "lat": 51.506384,
@@ -3868,6 +3952,15 @@
     "bookingUrl": "https://www.sevenrooms.com/reservations/dintaifungcanarywharf",
     "pressChecked": "2026-08-17"
   },
+  "ding-tea": {
+    "placeId": "ChIJve40H_gddkgRHEf63b0zqVM",
+    "placesName": "Ding Tea Hackney - Bubble Tea Store",
+    "address": "206A Mare St, London E8 3RD, UK",
+    "postcode": "E8 3RD",
+    "website": "https://www.dingteahackney.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Tuesday"
+  },
   "dinings-sw3": {
     "placeId": "ChIJ__9Lhz8FdkgRdyenFjfQu5c",
     "placesName": "Dinings SW3",
@@ -4061,6 +4154,14 @@
     "stationDistanceM": 433,
     "walkMin": 7,
     "walkFrom": "Elephant & Castle Underground Station"
+  },
+  "dragon-cat-cafe-hammersmith": {
+    "placeId": "ChIJN-K7lbcPdkgRyIZLFhUFAxE",
+    "placesName": "Dragon Cat Café",
+    "address": "Level 1, Livat W6 9HW, UK",
+    "postcode": "W6 9HW",
+    "website": "https://dragoncatcafe.com/",
+    "businessStatus": "CLOSED_PERMANENTLY"
   },
   "dragon-inn-club": {
     "postcode": "SW1V 1SH",
@@ -5246,6 +5347,15 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "gong-cha": {
+    "placeId": "ChIJs_yosUUFdkgRkCum-rsWeUE",
+    "placesName": "Gong cha Covent Garden",
+    "address": "3 Garrick St, London WC2E 9BF, UK",
+    "postcode": "WC2E 9BF",
+    "website": "http://www.gong-cha.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "good-friend-chicken": {
     "placeId": "ChIJf-oJh80EdkgROLGi4ytKhx8",
     "placesName": "Good Friend Chicken",
@@ -5724,6 +5834,15 @@
     "lng": -0.123541,
     "ward": "Bloomsbury"
   },
+  "happy-lemon-chinatown": {
+    "placeId": "ChIJSzTPeNIEdkgRAZnxfyr2ACw",
+    "placesName": "Happy Lemon",
+    "address": "24A Newport Ct, London WC2H 7JS, UK",
+    "postcode": "WC2H 7JS",
+    "website": "http://www.happy-lemon.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "harrods-dining-hall": {
     "placeId": "ChIJaZ3batMFdkgREM_5SzO6ZE4",
     "placesName": "Harrods Food Halls",
@@ -5809,6 +5928,14 @@
     "stationDistanceM": 482,
     "walkMin": 8,
     "walkFrom": "Bond Street Underground Station"
+  },
+  "heytea-soho": {
+    "placeId": "ChIJVYqEw-AFdkgRGmC6YOYe0E0",
+    "placesName": "heytea (SOHO)",
+    "address": "Unit 2 Ground Floor, 93-107 Shaftesbury Ave, London W1D 5DA, UK",
+    "postcode": "W1D 5DA",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "hiba-express": {
     "placeId": "ChIJ0TnlqDUbdkgRIuduE4YaIPY",
@@ -6564,6 +6691,15 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/japescamden/reservations/create/search/",
     "pressChecked": "2026-08-17"
   },
+  "jen-tea": {
+    "placeId": "ChIJR_f4k4cddkgR3G5hD3yfKF8",
+    "placesName": "Jen Tea - Liverpool Street",
+    "address": "16 Artillery Psge, London E1 7LJ, UK",
+    "postcode": "E1 7LJ",
+    "website": "https://www.jentea.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "jikoni": {
     "placeId": "ChIJCwzfjs0adkgRM1UKFINVRzg",
     "placesName": "Jikoni",
@@ -7091,6 +7227,15 @@
     "bookingPlatform": "opentable",
     "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?lang=en-GB&correlationId=5c5aa72c-5322-4dd1-995b-93b509031328&restRef=508068&otSource=Restaurant%20website",
     "pressChecked": "2026-08-17"
+  },
+  "kissaten-soho": {
+    "placeId": "ChIJ68ovBHwFdkgRvbQ60kzo5y0",
+    "placesName": "KISSATEN | FUYU",
+    "address": "72 Old Compton St, London W1D 4UN, UK",
+    "postcode": "W1D 4UN",
+    "website": "http://www.kissaten.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "kitchen-table": {
     "placeId": "ChIJ3aa-YCkbdkgRo5LPUQzy0hI",
@@ -7984,6 +8129,15 @@
     "walkFrom": "Barbican Underground Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
+  },
+  "lucky-tea-chinatown": {
+    "placeId": "ChIJnbRZatsFdkgRitZ9nX9BYSc",
+    "placesName": "Lucky Tea (Chinatown)",
+    "address": "35 Newport Ct, London WC2H 7PQ, UK",
+    "postcode": "WC2H 7PQ",
+    "website": "http://www.instagram.com/luckyteauk",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "lurra": {
     "placeId": "ChIJTRpX1DQFdkgR7HKaZl_kRWw",
@@ -8892,6 +9046,15 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "milksha-soho": {
+    "placeId": "ChIJW5QSbgwFdkgRtfyTcOX7XMI",
+    "placesName": "Milksha",
+    "address": "65 Shaftesbury Ave, London W1D 6LH, UK",
+    "postcode": "W1D 6LH",
+    "website": "https://www.milksha.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "min-jiang": {
     "placeId": "ChIJy1y33_cPdkgRy4SK96aOVBM",
     "placesName": "Min Jiang",
@@ -8910,6 +9073,24 @@
     "bookingPlatform": "opentable",
     "bookingUrl": "https://www.minjiang.co.uk/book-a-table",
     "pressChecked": "2026-08-17"
+  },
+  "min-tea-chinatown": {
+    "placeId": "ChIJFyFYZ3IFdkgRcWRLHREtH4g",
+    "placesName": "Min Tea",
+    "address": "34 Newport Ct, London WC2H 7PQ, UK",
+    "postcode": "WC2H 7PQ",
+    "website": "http://mintea.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
+  "molly-tea-chinatown": {
+    "placeId": "ChIJ03LqVgAFdkgRNhGWEPQiMmQ",
+    "placesName": "Molly Tea (Chinatown)",
+    "address": "21 Lisle St, London WC2H 7BA, UK",
+    "postcode": "WC2H 7BA",
+    "website": "https://www.instagram.com/mollytea_uk",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "monmouth-coffee": {
     "placeId": "ChIJ94DTm1cDdkgRibmgxzXy2EQ",
@@ -8947,6 +9128,15 @@
     "bookingProbe": "HTTP 403",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
+  },
+  "mooboo": {
+    "placeId": "ChIJ7RlVmNIEdkgRjtdNggK4-8Q",
+    "placesName": "Mooboo Camden",
+    "address": "84 Parkway, London NW1 7AN, UK",
+    "postcode": "NW1 7AN",
+    "website": "http://www.mooboo.co/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "morito-exmouth-market": {
     "placeId": "ChIJYyZ0cUUbdkgRBQPI-hqAyoI",
@@ -10741,6 +10931,15 @@
     "walkFrom": "Covent Garden Underground Station",
     "bookingProbe": "fetch failed"
   },
+  "purcha": {
+    "placeId": "ChIJ1VYumcoEdkgRYJ0M1bZ6Dx4",
+    "placesName": "PÜRCHA",
+    "address": "7 Kingsway, London WC2B 6XG, UK",
+    "postcode": "WC2B 6XG",
+    "website": "https://www.purcha.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "purezza-camden": {
     "postcode": "NW1 7PN",
     "lat": 51.538191,
@@ -10778,6 +10977,13 @@
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.sevenrooms.com/explore/pyrolondon/reservations/create/search?venues=pyrolondon,pyroterrace",
     "pressChecked": "2026-08-17"
+  },
+  "quaker-street-coffee-bubble-tea": {
+    "placeId": "ChIJVQGw3LYcdkgRwkxoR85iYOY",
+    "placesName": "Quakers - Bubble Tea & Coffee",
+    "address": "10 Quaker St, London E1 6SZ, UK",
+    "postcode": "E1 6SZ",
+    "businessStatus": "CLOSED_PERMANENTLY"
   },
   "quality-chop-house": {
     "placeId": "ChIJSblyaE8bdkgRI36jwz2mSas",
@@ -12749,6 +12955,14 @@
     "walkMin": 3,
     "walkFrom": "Marble Arch Underground Station"
   },
+  "t4-bubble-tea": {
+    "placeId": "ChIJM6i0T-8bdkgRrZoFh0d0Fhw",
+    "placesName": "T4 Paddington",
+    "address": "4B Praed St, London W2 1JX, UK",
+    "postcode": "W2 1JX",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "taca-tacos": {
     "placeId": "ChIJq1qqrMYDdkgRIQXL85F4SOw",
     "placesName": "Taca Tacos Deptford",
@@ -12989,6 +13203,14 @@
     "bookingUrl": "https://www.tealbysallyabe.com/book",
     "pressChecked": "2026-08-17"
   },
+  "tealive": {
+    "placeId": "ChIJ12dzp7kFdkgRgbhTn7Xgo6Q",
+    "placesName": "Tealive Bayswater",
+    "address": "56A Queensway, London W2 3RY, UK",
+    "postcode": "W2 3RY",
+    "website": "http://instagram.com/tealiveuk",
+    "businessStatus": "CLOSED_PERMANENTLY"
+  },
   "temaki-mayfair": {
     "placeId": "ChIJH6C6GO0FdkgRmRXKiX0o2LI",
     "placesName": "TEMAKI Handroll Bar Mayfair",
@@ -13046,6 +13268,14 @@
     "pressChecked": "2026-08-17"
   },
   "teo-hot-pot": {},
+  "the-alley-holborn": {
+    "placeId": "ChIJJ0jX2gQbdkgRY_jto5UqMJw",
+    "placesName": "The Alley Holborn 鹿角巷",
+    "address": "Unit 3, 272 High Holborn, London WC1V 7EY, UK",
+    "postcode": "WC1V 7EY",
+    "website": "http://www.the-alley.uk/",
+    "businessStatus": "CLOSED_PERMANENTLY"
+  },
   "the-ampersand": {
     "placeId": "ChIJm_BvYl0FdkgR5-qNzNVoA3M",
     "placesName": "The Ampersand Hotel",
@@ -14472,6 +14702,15 @@
     "walkMin": 6,
     "walkFrom": "Hampstead Underground Station"
   },
+  "the-whale-tea-queensway": {
+    "placeId": "ChIJ-V-0yZwFdkgRCtYy0s_IU6E",
+    "placesName": "The Whale Tea",
+    "address": "18 Queensway, London W2 3RX, UK",
+    "postcode": "W2 3RX",
+    "website": "https://thewhaletea.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "the-white-cross-richmond": {
     "placeId": "ChIJW6LQDkcMdkgRLyBmYJ3BpZc",
     "placesName": "White Cross",
@@ -15314,6 +15553,14 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "woo-tea-chinatown": {
+    "placeId": "ChIJfXs7XTsFdkgRfloXsiyCI-I",
+    "placesName": "Woo Tea",
+    "address": "G, F, 26 Wardour St, London W1D 6QL, UK",
+    "postcode": "W1D 6QL",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "workshop-coffee": {
     "placeId": "ChIJD1xcEigbdkgR_rS0GDp6t9M",
     "placesName": "WatchHouse Marylebone",
@@ -15368,6 +15615,15 @@
     "walkFrom": "Holloway Road Underground Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
+  },
+  "xing-fu-tang-soho": {
+    "placeId": "ChIJh5P9S8cFdkgRGTFYlIckjJA",
+    "placesName": "Xing Fu Tang",
+    "address": "29 Frith St, London W1D 5LG, UK",
+    "postcode": "W1D 5LG",
+    "website": "https://www.xingfutang.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "xiong-qi-hot-pot": {},
   "yangguofu-malatang-chinatown": {
@@ -15450,6 +15706,21 @@
     "bookingPlatform": "own-site",
     "bookingUrl": "https://yi-ban.co.uk/reservations/",
     "pressChecked": "2026-08-17"
+  },
+  "yi-fang-fruit-tea-chinatown": {
+    "placeId": "ChIJkaXw-YsbdkgRvb9TWcXsnkI",
+    "placesName": "Yi Fang Fruit Tea Holborn",
+    "address": "150 Gray's Inn Rd, London WC1X 8AX, UK",
+    "postcode": "WC1X 8AX",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
+  "yunique-tea-chinatown": {
+    "placeId": "ChIJsU5Uf9MFdkgRCD-WkkncV0I",
+    "placesName": "Yunique Bubble Tea",
+    "address": "10 Little Newport St, London WC2H 7JJ, UK",
+    "postcode": "WC2H 7JJ",
+    "businessStatus": "CLOSED_TEMPORARILY"
   },
   "yurt-cafe": {
     "placeId": "ChIJSWdwgdMCdkgRSqqVYyuPDJM",
