@@ -286,7 +286,7 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
     },
     {
       name: "Suba Bakery",
-      area: undefined,
+      area: "Walthamstow",
       price: "£",
       station: "Walthamstow Central",
       latitude: 51.577666,
@@ -296,7 +296,7 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
     },
     {
       name: "August Bakery",
-      area: undefined,
+      area: "Battersea",
       price: "£",
       station: "Clapham Junction",
       latitude: 51.461175,

@@ -126,7 +126,7 @@ const jsonLd = JSON.stringify(
     {activeSite.id === "london" && (
       <meta
         name="impact-site-verification"
-        value="1edee71d-13e5-4976-854f-4b1346dcfa25"
+        {...{ value: "1edee71d-13e5-4976-854f-4b1346dcfa25" } as any}
       />
     )}
     {shouldNoindex ? (

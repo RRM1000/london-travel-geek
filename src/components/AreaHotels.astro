@@ -78,7 +78,7 @@ const CLOSED: Record<string, { what?: string; reopening?: string }> =
     Object.entries((closedData as any).properties ?? {}).filter(
       ([, v]: [string, any]) => v?.closed,
     ),
-  );
+  ) as Record<string, { what?: string; reopening?: string }>;
 
 const hasAffiliate = list.some((h) => h.affiliateUrl && !CLOSED[h.slug]);
 
