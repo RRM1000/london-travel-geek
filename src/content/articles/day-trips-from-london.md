@@ -134,7 +134,7 @@ These do not have a guide of their own yet, but they are worth the day:
 - **Castles and houses:** Leeds Castle, Hever, Arundel, Warwick, Blenheim Palace, Hatfield House and Highclere, better known as Downton Abbey.
 - **Countryside:** the Chilterns, Box Hill and the South Downs — the places where [hiring a car](/articles/car-hire-driving-uk/) genuinely helps.
 - **Theme parks:** Legoland, ten minutes from [Windsor](/articles/windsor-day-trip/) and a day of its own rather than an afternoon after the castle, plus Thorpe Park, Chessington, and Alton Towers if you are prepared to stay over.
-- **Abroad:** Paris by Eurostar, which is two and a half hours and a real day out if you start early.
+- **Abroad:** [Paris by Eurostar](/articles/paris-day-trip/), which is from 2h16 direct and a real day out if you start early — see the full guide for the fares, the border checks, and how many hours that actually leaves you in the city.
 
 ## Making the day work
 
@@ -152,3 +152,4 @@ These do not have a guide of their own yet, but they are worth the day:
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless and capping work before you leave town.
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — the rules, and the attractions it actually covers.
 - 🗺️ **[London itinerary planner](/articles/london-itineraries-by-days-and-interests/)** — how many days you need, and where a day trip fits.
+- 🇫🇷 **[Paris by Eurostar](/articles/paris-day-trip/)** — the one day trip here that crosses a border, and what that adds to check-in.
