@@ -1763,6 +1763,126 @@
       "tier": "E",
       "name": "Rick Steves Travel Forum",
       "note": "Count per THREAD. build-evidence counts the domain once, so tally threads by hand."
+    },
+    "nationalrestaurantawards.co.uk": {
+      "tier": "A",
+      "name": "National Restaurant Awards",
+      "note": "Restaurant magazine / William Reed, the same publisher as the Estrella Damm Top 50 Gastropubs - separately judged, not separately owned. Specialist award pages carry a previous-winners list. restaurantawards.co.uk is NOT this site (redirects to a hotel help centre)."
+    },
+    "esquire.com": {
+      "tier": "B",
+      "name": "Esquire UK",
+      "note": "The UK edition lives under esquire.com/uk/."
+    },
+    "observer.com": {
+      "tier": "B",
+      "name": "Observer (US)",
+      "note": "The New York title, not the Guardian's Observer. Its London lists are written for visitors."
+    },
+    "youtube.com/@SundayTimesStyle": {
+      "tier": "B",
+      "name": "The Sunday Times Style (YouTube)",
+      "note": "The Times' own channel - tiered as the masthead, not as video."
+    },
+    "finedininglovers.co.uk": {
+      "tier": "C",
+      "name": "Fine Dining Lovers",
+      "note": "S.Pellegrino's food publication."
+    },
+    "awayfromtheordinary.com": {
+      "tier": "C",
+      "name": "Away from the Ordinary",
+      "note": "A Scottish travel company's blog. Mostly Scotland; one London pubs piece with owner interviews."
+    },
+    "camra.org.uk": {
+      "tier": "A",
+      "name": "CAMRA",
+      "note": "National Inventory of Historic Pub Interiors (judged star register, /heritage-pubs/national-inventory) and the Pub Design Awards with Historic England (/awards/pub-design, year switcher is client-rendered). One domain, so one source whichever programme is cited. The old heritagepubs.org.uk domain is a gambling redirect now. Branch sub-sites (london.camra.org.uk etc) are separate hosts."
+    },
+    "the500hiddensecrets.com": {
+      "tier": "C",
+      "name": "The 500 Hidden Secrets",
+      "note": "Guidebook series with a web edition."
+    },
+    "architectourguide.com": {
+      "tier": "C",
+      "name": "Architectour Guide",
+      "note": "Architecture tour company's blog."
+    },
+    "flyingscotsgirl.com": {
+      "tier": "C",
+      "name": "Flying Scots Girl",
+      "note": "Cat Thomson's travel blog. Long-running, real visits; mass re-dated posts in June 2026 look like an SEO refresh, not new content."
+    },
+    "nuff.london": {
+      "tier": "C",
+      "name": "Nuff",
+      "note": "Local London guide app; 'picked by us, locals who actually drink in them'. Client-rendered."
+    },
+    "londontopia.net": {
+      "tier": "C",
+      "name": "Londontopia",
+      "note": "US-run London culture blog."
+    },
+    "boakandbailey.com": {
+      "tier": "C",
+      "name": "Boak & Bailey",
+      "note": "Beer historians Jessica Boak and Ray Bailey (20th Century Pub). Specialist."
+    },
+    "youtube.com/@londonluke6487": {
+      "tier": "D",
+      "name": "London Luke Living History Page (YouTube)"
+    },
+    "tiktok.com/@charliebetts_": {
+      "tier": "D",
+      "name": "Charlie Betts (TikTok)"
+    },
+    "tiktok.com/@kittybonner": {
+      "tier": "D",
+      "name": "Kitty Bonner (TikTok)"
+    },
+    "tiktok.com/@emmaeatsalot": {
+      "tier": "D",
+      "name": "Emma Eats A Lot (TikTok)"
+    },
+    "tiktok.com/@nospaceinmypassport": {
+      "tier": "D",
+      "name": "No Space In My Passport (TikTok)"
+    },
+    "tiktok.com/@beyondthefork": {
+      "tier": "D",
+      "name": "Beyond The Fork (TikTok)"
+    },
+    "tiktok.com/@phoodndrinx": {
+      "tier": "D",
+      "name": "Phood N Drinx (TikTok)"
+    },
+    "tiktok.com/@aladyinlondon": {
+      "tier": "D",
+      "name": "A Lady in London (TikTok)",
+      "note": "Jessica Dante's blog A Lady in London, on TikTok."
+    },
+    "tiktok.com/@ashtonn.sixss": {
+      "tier": "D",
+      "name": "Ashton (TikTok)"
+    },
+    "tiktok.com/@restaurantgram": {
+      "tier": "D",
+      "name": "Restaurantgram (TikTok)"
+    },
+    "heritagecalling.com": {
+      "tier": "B",
+      "name": "Historic England (Heritage Calling blog)",
+      "note": "The statutory heritage body's own blog. Editorial, not a listing decision - the list entries themselves live on historicengland.org.uk."
+    },
+    "discoverbritain.com": {
+      "tier": "B",
+      "name": "Discover Britain"
+    },
+    "internationaltraveller.com": {
+      "tier": "B",
+      "name": "International Traveller",
+      "note": "Australian travel magazine; UK lists are national, scope to London."
     }
   },
   "excludedWhy": {

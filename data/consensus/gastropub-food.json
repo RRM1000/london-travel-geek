@@ -1,0 +1,986 @@
+{
+  "cuisine": "gastropub-food",
+  "note": "GASTROPUBS: pubs judged on the kitchen across the whole week. Collected 14 Sep 2026 from a DuckDuckGo results page read in the browser (Bing still returns dictionary pages) plus the config's award bodies. Canonical names split the common ones by area: The Prince Arthur, Hackney (Forest Road, Time Out #3) is not The Prince Arthur, Belgravia (Eccleston Street, Basque); The George is Great Portland Street; The Spread Eagle, Hackney is the vegan pub in Homerton. TIER E: Reddit cannot be read here.",
+  "recorded": "2026-09-14",
+  "sources": [
+    {
+      "scope": "gastropub-food",
+      "name": "Estrella Damm Top 50 Gastropubs 2026",
+      "url": "https://www.top50gastropubs.com/list/1-50",
+      "tier": "A",
+      "note": "Read 14 Sep 2026. National list: 24 of 100 entries are in London and only those are recorded. Ranks 51-100 are the published extension, labelled as such.",
+      "names": [
+        "The Devonshire",
+        "The Red Lion & Sun",
+        "Canton Arms",
+        "The Baring",
+        "The Marksman",
+        "The Hero",
+        "The Kerfield Arms",
+        "The Waterman's Arms",
+        "The Tamil Crown",
+        "The Harwood Arms",
+        "The Bull & Last",
+        "The Knave of Clubs",
+        "The French House",
+        "The Camberwell Arms",
+        "The Parakeet",
+        "Anchor & Hope",
+        "The Pelican",
+        "The Drapers Arms",
+        "The Fat Badger",
+        "The Eagle",
+        "The Clarence Tavern",
+        "The Lady Mildmay",
+        "The Blue Stoops",
+        "Parlour"
+      ],
+      "quotes": {
+        "The Devonshire": "#1 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Red Lion & Sun": "#3 in the Estrella Damm Top 50 Gastropubs 2026",
+        "Canton Arms": "#11 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Baring": "#17 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Marksman": "#23 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Hero": "#24 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Kerfield Arms": "#25 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Waterman's Arms": "#33 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Tamil Crown": "#35 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Harwood Arms": "#36 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Bull & Last": "#39 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Knave of Clubs": "#43 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The French House": "#47 in the Estrella Damm Top 50 Gastropubs 2026",
+        "The Camberwell Arms": "#60 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)",
+        "The Parakeet": "#61 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)",
+        "Anchor & Hope": "#64 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)",
+        "The Pelican": "#65 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)",
+        "The Drapers Arms": "#67 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)",
+        "The Fat Badger": "#75 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)",
+        "The Eagle": "#77 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)",
+        "The Clarence Tavern": "#78 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)",
+        "The Lady Mildmay": "#83 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)",
+        "The Blue Stoops": "#88 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)",
+        "Parlour": "#91 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100)"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "National Restaurant Awards - Gastropub of the Year",
+      "url": "https://www.nationalrestaurantawards.co.uk/specialist-awards/gastropub-of-the-year/",
+      "tier": "A",
+      "note": "Page headed 2026 names The Devonshire; its previous-winners list names The Devonshire twice more alongside The Angel at Hetton and Parkers Arms (neither in London). The winner copy dates from the pub's first year, so the guide says it won the award without printing a year.",
+      "names": [
+        "The Devonshire"
+      ],
+      "quotes": {
+        "The Devonshire": "Gastropub of the Year, National Restaurant Awards - page headed 2026, and listed again among previous winners"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Michelin Guide - The best dining pubs in London",
+      "url": "https://guide.michelin.com/gb/en/best-of/the-best-dining-pubs-in-london",
+      "tier": "A",
+      "note": "Michelin's own page returns a CloudFront block to curl and the browser. The ten picks and Michelin's quoted text were read from Secret London's 9 Sep 2025 write-up of this page (secretldn.com/michelin-guide-best-pubs-for-dining-london), filed here under the originating body per trap 2. Unordered.",
+      "names": [
+        "The Harwood Arms",
+        "The Hero",
+        "The Bull & Last",
+        "The Marksman",
+        "The Pig and Butcher",
+        "The Baring",
+        "The Clarence Tavern",
+        "The Devonshire",
+        "The Holland",
+        "The Victoria, East Sheen"
+      ],
+      "quotes": {
+        "The Harwood Arms": "One Michelin star - 'London's only MICHELIN-Star pub... it never forgets it's a pub'",
+        "The Hero": "Bib Gourmand - 'proper pub atmosphere and menu of well-priced, hearty dishes'",
+        "The Bull & Last": "'rustic charm, a friendly team and hearty cooking'",
+        "The Marksman": "'The owners are alumni of the famous St. JOHN'",
+        "The Pig and Butcher": "'in-house butchered meats are of the highest provenance'",
+        "The Baring": "'a notch above your usual pub grub... influences from across Europe'",
+        "The Victoria, East Sheen": "Chef director Paul Merrett - 'pubby classics like haddock & chips'"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Time Out - The 20 Best Gastropubs in London",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-gastropubs",
+      "tier": "B",
+      "note": "RANKED 1-20, dated 2 Sep 2026.",
+      "names": [
+        "The Camberwell Arms",
+        "The French House",
+        "The Prince Arthur, Hackney",
+        "The Golden Tooth",
+        "The Shaston Arms",
+        "The Red Lion & Sun",
+        "The Victory, East Dulwich",
+        "The Latimer",
+        "The Tamil Prince",
+        "The Marksman",
+        "The Plimsoll",
+        "The Cow",
+        "The Clarence Tavern",
+        "The Drapers Arms",
+        "Canton Arms",
+        "The Hero",
+        "The Parakeet",
+        "The Waterman's Arms",
+        "The Harwood Arms",
+        "Anchor & Hope"
+      ],
+      "quotes": {
+        "The Camberwell Arms": "#1 of 20, Time Out",
+        "The French House": "#2 of 20, Time Out",
+        "The Prince Arthur, Hackney": "#3 of 20, Time Out",
+        "The Golden Tooth": "#4 of 20, Time Out",
+        "The Shaston Arms": "#5 of 20, Time Out",
+        "The Red Lion & Sun": "#6 of 20, Time Out",
+        "The Victory, East Dulwich": "#7 of 20, Time Out",
+        "The Latimer": "#8 of 20, Time Out",
+        "The Tamil Prince": "#9 of 20, Time Out",
+        "The Marksman": "#10 of 20, Time Out",
+        "The Plimsoll": "#11 of 20, Time Out",
+        "The Cow": "#12 of 20, Time Out",
+        "The Clarence Tavern": "#13 of 20, Time Out",
+        "The Drapers Arms": "#14 of 20, Time Out",
+        "Canton Arms": "#15 of 20, Time Out",
+        "The Hero": "#16 of 20, Time Out",
+        "The Parakeet": "#17 of 20, Time Out",
+        "The Waterman's Arms": "#18 of 20, Time Out",
+        "The Harwood Arms": "#19 of 20, Time Out",
+        "Anchor & Hope": "#20 of 20, Time Out"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Evening Standard - London's 50 best gastropubs",
+      "url": "https://www.standard.co.uk/going-out/bars/londons-best-50-best-gastropubs-b1168681.html",
+      "tier": "B",
+      "note": "RANKED 1-50, 18 Jul 2024, five bylines (David Ellis, Josh Barrie and others). #18 The George is Great Portland Street (the entry names its sibling the Cadogan Arms); #16 Prince Arthur is Forest Road, E8; #23 The Gun is Hackney; #39 Royal Oak is Tabard Street.",
+      "names": [
+        "The French House",
+        "The Waterman's Arms",
+        "The Eagle",
+        "The Devonshire",
+        "The Marksman",
+        "The Cow",
+        "The Plimsoll",
+        "The Camberwell Arms",
+        "The Wells Tavern",
+        "Canton Arms",
+        "The Parakeet",
+        "The Princess Victoria",
+        "The Tamil Prince",
+        "The Drapers Arms",
+        "The Audley Public House",
+        "The Prince Arthur, Hackney",
+        "The Hero",
+        "The George",
+        "The Harwood Arms",
+        "Anchor & Hope",
+        "The Princess of Shoreditch",
+        "The Red Lion & Sun",
+        "The Gun, Hackney",
+        "The Guinea Grill",
+        "The Coach Makers Arms",
+        "The Duke of Cambridge",
+        "The Compton Arms",
+        "The Chamberlayne",
+        "The Three Falcons",
+        "St John's Tavern",
+        "The Bull & Last",
+        "The Sun of Camberwell",
+        "The Spread Eagle, Hackney",
+        "The Churchill Arms",
+        "The Hare & Billet",
+        "The Culpeper",
+        "The Jugged Hare",
+        "The Baring",
+        "The Royal Oak, Borough",
+        "The Norfolk Arms",
+        "The Garrison",
+        "The Holland",
+        "The Sekforde",
+        "The Cavendish",
+        "The Faltering Fullback",
+        "The Gladstone Arms",
+        "Lore of the Land",
+        "The Duke of Wellington, Marylebone",
+        "Grove House Tavern",
+        "The Butcher's Tap and Grill"
+      ],
+      "quotes": {
+        "The French House": "#1 of 50, Evening Standard",
+        "The Waterman's Arms": "#2 of 50, Evening Standard",
+        "The Eagle": "#3 of 50, Evening Standard",
+        "The Devonshire": "#4 of 50, Evening Standard",
+        "The Marksman": "#5 of 50, Evening Standard",
+        "The Cow": "#6 of 50, Evening Standard",
+        "The Plimsoll": "#7 of 50, Evening Standard",
+        "The Camberwell Arms": "#8 of 50, Evening Standard",
+        "The Wells Tavern": "#9 of 50, Evening Standard",
+        "Canton Arms": "#10 of 50, Evening Standard",
+        "The Parakeet": "#11 of 50, Evening Standard",
+        "The Princess Victoria": "#12 of 50, Evening Standard",
+        "The Tamil Prince": "#13 of 50, Evening Standard",
+        "The Drapers Arms": "#14 of 50, Evening Standard",
+        "The Audley Public House": "#15 of 50, Evening Standard",
+        "The Prince Arthur, Hackney": "#16 of 50, Evening Standard",
+        "The Hero": "#17 of 50, Evening Standard",
+        "The George": "#18 of 50, Evening Standard",
+        "The Harwood Arms": "#19 of 50, Evening Standard",
+        "Anchor & Hope": "#20 of 50, Evening Standard",
+        "The Princess of Shoreditch": "#21 of 50, Evening Standard",
+        "The Red Lion & Sun": "#22 of 50, Evening Standard",
+        "The Gun, Hackney": "#23 of 50, Evening Standard",
+        "The Guinea Grill": "#24 of 50, Evening Standard",
+        "The Coach Makers Arms": "#25 of 50, Evening Standard",
+        "The Duke of Cambridge": "#26 of 50, Evening Standard",
+        "The Compton Arms": "#27 of 50, Evening Standard",
+        "The Chamberlayne": "#28 of 50, Evening Standard",
+        "The Three Falcons": "#29 of 50, Evening Standard",
+        "St John's Tavern": "#30 of 50, Evening Standard",
+        "The Bull & Last": "#31 of 50, Evening Standard",
+        "The Sun of Camberwell": "#32 of 50, Evening Standard",
+        "The Spread Eagle, Hackney": "#33 of 50, Evening Standard",
+        "The Churchill Arms": "#34 of 50, Evening Standard",
+        "The Hare & Billet": "#35 of 50, Evening Standard",
+        "The Culpeper": "#36 of 50, Evening Standard",
+        "The Jugged Hare": "#37 of 50, Evening Standard",
+        "The Baring": "#38 of 50, Evening Standard",
+        "The Royal Oak, Borough": "#39 of 50, Evening Standard",
+        "The Norfolk Arms": "#40 of 50, Evening Standard",
+        "The Garrison": "#41 of 50, Evening Standard",
+        "The Holland": "#42 of 50, Evening Standard",
+        "The Sekforde": "#43 of 50, Evening Standard",
+        "The Cavendish": "#44 of 50, Evening Standard",
+        "The Faltering Fullback": "#45 of 50, Evening Standard",
+        "The Gladstone Arms": "#46 of 50, Evening Standard",
+        "Lore of the Land": "#47 of 50, Evening Standard",
+        "The Duke of Wellington, Marylebone": "#48 of 50, Evening Standard",
+        "Grove House Tavern": "#49 of 50, Evening Standard",
+        "The Butcher's Tap and Grill": "#50 of 50, Evening Standard"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "SquareMeal - 36 best gastropubs in London",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-london-gastropubs_10243",
+      "tier": "B",
+      "note": "Updated 17 Aug 2026, Pete Dreyer. Grouped by area, unordered. Cloudflare-blocked to curl; read in the browser.",
+      "names": [
+        "The Prince Arthur, Belgravia",
+        "The George",
+        "The Wigmore",
+        "The Lady Ottoline",
+        "The Devonshire",
+        "The French House",
+        "The Jugged Hare",
+        "The Eagle",
+        "The Shaston Arms",
+        "The Princess of Shoreditch",
+        "The Knave of Clubs",
+        "The Macbeth",
+        "The Marksman",
+        "The Spread Eagle, Hackney",
+        "The Culpeper",
+        "The Abingdon",
+        "The Walmer Castle",
+        "The Chalk Freehouse",
+        "The Holland",
+        "The Cadogan Arms",
+        "The Harwood Arms",
+        "The Blue Stoops",
+        "The Cow",
+        "The Golden Tooth",
+        "The Hare & Hounds, Islington",
+        "The Hero",
+        "The Compton Arms",
+        "The Parakeet",
+        "The Drapers Arms",
+        "Parlour",
+        "The Hound, Chiswick",
+        "The Kerfield Arms",
+        "The Waterman's Arms",
+        "Anchor & Hope",
+        "The Camberwell Arms",
+        "Canton Arms"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "The Infatuation - The Best Pub Food In London",
+      "url": "https://www.theinfatuation.com/london/guides/best-pub-food-london",
+      "tier": "B",
+      "note": "Modified 4 Sep 2026. Grouped by area, unordered. 'The Three Compasses' is Cowcross Street, under Bouchon Racine; 'Lagom at The Three Compasses' is a different pub in Dalston. 'William The Fourth' is the Leyton pub, which the alias file already resolves to its pizza residency.",
+      "names": [
+        "The Three Compasses",
+        "The Hart",
+        "The Shaston Arms",
+        "Crisp Pizza at The Marlborough",
+        "The Devonshire",
+        "The French House",
+        "The Eagle",
+        "The Guinea Grill",
+        "The George",
+        "The Golden Tooth",
+        "The Bull & Last",
+        "The Plimsoll",
+        "The Clarence Tavern",
+        "The Drapers Arms",
+        "The Baring",
+        "Lagom at The Three Compasses",
+        "The Macbeth",
+        "William The Fourth",
+        "The Raglan",
+        "The Knave of Clubs",
+        "The Marksman",
+        "The Camberwell Arms",
+        "The Waterman's Arms",
+        "Anchor & Hope",
+        "Canton Arms",
+        "The Latimer",
+        "The Hero",
+        "Khun Pakin Thai",
+        "The Cadogan Arms",
+        "The Cow",
+        "The Pelican",
+        "The Harwood Arms"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Olive Magazine - 30 best pubs in London with great food",
+      "url": "https://www.olivemagazine.com/restaurants/london/best-london-pubs/",
+      "tier": "B",
+      "note": "Published 20 Aug 2025, modified 20 Aug 2026. Unordered. Blacklock is a restaurant group, not a pub, and is recorded as written.",
+      "names": [
+        "The Bird in Hand, Brook Green",
+        "The Brook & Badger",
+        "The Guinea Grill",
+        "The Althorp",
+        "The Newman Arms",
+        "The Engineer",
+        "The Angel Inn, Highgate",
+        "The George",
+        "The Kerfield Arms",
+        "The Brave",
+        "The Knave of Clubs",
+        "Molly Mc's",
+        "The Compton Arms",
+        "The Audley Public House",
+        "The William IV, Islington",
+        "The Hero",
+        "The Cavendish",
+        "The Walmer Castle",
+        "The Parakeet",
+        "The Holland",
+        "The Harwood Arms",
+        "The Camberwell Arms",
+        "Blacklock",
+        "The King's Head, Teddington",
+        "The Pig's Head",
+        "The Coach Makers Arms",
+        "The Tamil Prince",
+        "The Earl of Derby",
+        "The Princess Royal",
+        "Plaquemine Lock",
+        "The Baring",
+        "The Pelican"
+      ],
+      "quotes": {
+        "The Compton Arms": "Listed as 'Rake at The Compton Arms, Islington' - the kitchen residency inside the pub"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Country & Town House - Best London Pubs For Food 2026",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/best-london-pubs-for-food/",
+      "tier": "B",
+      "note": "19 May 2026, Ellie Smith. Unordered.",
+      "names": [
+        "The Hollywood Arms",
+        "The Brook & Badger",
+        "The Red Lion & Sun",
+        "The Audley Public House",
+        "The Harwood Arms",
+        "The Devonshire",
+        "The Cow",
+        "The Duke of Cambridge",
+        "The Princess of Shoreditch",
+        "The Tamil Prince",
+        "The French House",
+        "The Pelican"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "The Handbook - The Best Gastropubs In And Around London",
+      "url": "https://www.thehandbook.com/best-gastropubs-london/",
+      "tier": "B",
+      "note": "Undated in the page. Cloudflare-blocked to curl; read in the browser. The Oarsman is in Marlow and is excluded (trap 12). 'The Tamil Crown and The Tamil Prince' is one entry naming two pubs, recorded as both. Its Prince Arthur (oysters, mushroom toast, chef Will Samuel) is the Hackney one.",
+      "names": [
+        "Lore of the Land",
+        "The Devonshire",
+        "The Eagle",
+        "The Prince Arthur, Hackney",
+        "The Shaston Arms",
+        "The Red Lion & Sun",
+        "The Latimer",
+        "The Cow",
+        "The Knave of Clubs",
+        "The Camberwell Arms",
+        "The Brook & Badger",
+        "The Tamil Crown",
+        "The Tamil Prince",
+        "The Jugged Hare",
+        "The Hero",
+        "The Parakeet",
+        "The French House",
+        "The Pelican",
+        "The Plimsoll",
+        "The Culpeper",
+        "The Cadogan Arms"
+      ],
+      "quotes": {
+        "The Hero": "'might just be the most beautiful pub in London with old-school wood panelling, lots of natural light and stunning cooking over four floors'"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Esquire UK - The Best Pubs in London (gastropubs)",
+      "url": "https://www.esquire.com/uk/food-drink/bars/a64490132/best-gastropubs-london/",
+      "tier": "B",
+      "note": "Updated 12 Nov 2025. Unordered. Two entries are kitchens inside pubs and are recorded as written.",
+      "names": [
+        "The Parakeet",
+        "The Hero",
+        "Mamapen at The Sun & 13 Cantons",
+        "The Carpenter's Arms, Hammersmith",
+        "The Devonshire",
+        "The Hart",
+        "Evelyn's Table at The Blue Posts",
+        "The Clarence Tavern",
+        "The French House",
+        "The Hare & Hounds, Islington",
+        "The Compton Arms"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Conde Nast Traveller - 24 best pubs in London for food",
+      "url": "https://www.cntraveller.com/article/best-pub-food-london",
+      "tier": "B",
+      "note": "First published 5 Sep 2021 (Connor Sturges) and since updated - it lists The Hero and The Baring, both 2023 openings - but carries no modified date. Numbered 1-24 without a stated order, so no ranks recorded.",
+      "names": [
+        "The Good Oak",
+        "The Surprise",
+        "The Telegraph, Putney",
+        "The Pig's Ear",
+        "The Audley Public House",
+        "The Princess of Shoreditch",
+        "The Cadogan Arms",
+        "The Marksman",
+        "The French House",
+        "The Camberwell Arms",
+        "The Duke of Cambridge",
+        "The Harwood Arms",
+        "Evelyn's Table at The Blue Posts",
+        "The Guinea Grill",
+        "Lore of the Land",
+        "The Plimsoll",
+        "The Tamil Prince",
+        "The Baring",
+        "The Compton Arms",
+        "The Waterman's Arms",
+        "The Hero",
+        "The Gatehouse",
+        "The Knave of Clubs",
+        "The Eagle"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Observer - London's Best Gastropubs",
+      "url": "https://observer.com/list/london-england-best-gastropubs/",
+      "tier": "B",
+      "note": "Published 7 Nov 2024, modified 8 Aug 2025. Unordered. Its Prince Arthur is 95 Forest Rd, E8.",
+      "names": [
+        "The Hero",
+        "The Harwood Arms",
+        "The Audley Public House",
+        "The Plimsoll",
+        "The Marksman",
+        "The Princess of Shoreditch",
+        "The Cadogan Arms",
+        "The Camberwell Arms",
+        "The Bull & Last",
+        "The Prince Arthur, Hackney"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "The Sunday Times Style (YouTube) - The Best Pub Food in London, According to a Pro Chef",
+      "url": "https://www.youtube.com/@SundayTimesStyle",
+      "tier": "B",
+      "channel": "@SundayTimesStyle",
+      "videos": [
+        {
+          "title": "The Best Pub Food in London, According to a Pro Chef",
+          "url": "https://www.youtube.com/watch?v=OO2RIVu-zU0",
+          "published": "2025-09-05"
+        }
+      ],
+      "note": "The Times' own channel, so tiered as the masthead, not as video (the platform is not the publisher). Chef Nokx Majozi of the Pie Room picks three pubs with deputy food editor Hannah Evans.",
+      "names": [
+        "The Audley Public House",
+        "The Tamil Prince",
+        "The French House"
+      ],
+      "quotes": {
+        "The Audley Public House": "'a traditional boozer filled to the brim with colourful art that specialises in British classics'",
+        "The Tamil Prince": "'punchy Indian cuisine has drawn a cult following'",
+        "The French House": "'hides one of Soho's most famous dining rooms above the pub'"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Hot Dinners - London's best gastropubs",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-s-best-gastropubs",
+      "tier": "C",
+      "note": "Grouped by area, unordered, undated in the markup. Its Barley Mow is Duke Street, Mayfair (Cubitt House); its George is Great Portland Street; its Three Compasses is Cowcross Street; its William IV is Shepherdess Walk; its Spread Eagle is Homerton.",
+      "names": [
+        "Crisp Pizza at The Marlborough",
+        "The Hart",
+        "The Shaston Arms",
+        "The Devonshire",
+        "The French House",
+        "The Audley Public House",
+        "The Barley Mow, Mayfair",
+        "The George",
+        "The Guinea Grill",
+        "The Wigmore",
+        "The Angel Inn, Highgate",
+        "The Red Lion & Sun",
+        "The Parakeet",
+        "The Compton Arms",
+        "The Drapers Arms",
+        "The William IV, Islington",
+        "The Baring",
+        "The Bull & Last",
+        "The Clarence Tavern",
+        "Plaquemine Lock",
+        "The Plimsoll",
+        "The Tamil Prince",
+        "The Kerfield Arms",
+        "Anchor & Hope",
+        "The Camberwell Arms",
+        "Canton Arms",
+        "The Earl of Derby",
+        "Perry Hill Pub",
+        "The Macbeth",
+        "The Black Eel",
+        "The Three Compasses",
+        "The Marksman",
+        "The Eagle",
+        "The Culpeper",
+        "The Princess of Shoreditch",
+        "The Spread Eagle, Hackney",
+        "The Chalk Freehouse",
+        "The Hero",
+        "The Holland",
+        "The Cow",
+        "The Pig's Ear",
+        "The Waterman's Arms",
+        "The Cadogan Arms",
+        "The Cleveland Arms",
+        "The Harwood Arms",
+        "Parlour",
+        "The Pelican",
+        "The Princess Royal"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "The Nudge - London's Best Gastropubs",
+      "url": "https://thenudge.com/londons-best-gastropubs/",
+      "tier": "C",
+      "note": "6 Aug 2026. Unordered.",
+      "names": [
+        "Anchor & Hope",
+        "The Devonshire",
+        "The Hero",
+        "The Marksman",
+        "The Baring",
+        "The Harwood Arms",
+        "The Kerfield Arms",
+        "The Knave of Clubs",
+        "The French House",
+        "Canton Arms",
+        "The Parakeet",
+        "The Drapers Arms",
+        "The Camberwell Arms",
+        "The Pelican",
+        "The Compton Arms",
+        "The Plimsoll",
+        "The Elizabeth",
+        "The Waterman's Arms",
+        "The Clarence Tavern",
+        "The Golden Tooth",
+        "The Culpeper",
+        "The Duke of Richmond",
+        "The Duke of Cambridge",
+        "The Lady Mildmay",
+        "The Holland",
+        "The Shaston Arms",
+        "The Pig and Butcher",
+        "The Blue Stoops",
+        "The Cadogan Arms",
+        "The Macbeth",
+        "The Fat Badger",
+        "The Hart",
+        "The Cow"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Secret London - the team's pick of the best pubs for dining",
+      "url": "https://secretldn.com/michelin-guide-best-pubs-for-dining-london/",
+      "tier": "C",
+      "note": "9 Sep 2025, Sam Barker. The SECOND half of the page only - introduced as 'the Secret London team's pick' after the Michelin list, which is filed separately under guide.michelin.com. Unordered.",
+      "names": [
+        "The Tamil Crown",
+        "The Compton Arms",
+        "The Camberwell Arms",
+        "Prince of Peckham",
+        "The De Beauvoir Arms",
+        "The Plimsoll",
+        "The Parakeet",
+        "The Angel Oak",
+        "Grove House Tavern",
+        "The Old Nun's Head",
+        "The Bluecoats",
+        "The Adam & Eve, Homerton",
+        "Heathcote & Star",
+        "Canton Arms",
+        "The Drapers Arms",
+        "The Cadogan Arms",
+        "The Mayflower",
+        "Black Heart",
+        "The George",
+        "The Prince George",
+        "The Eagle",
+        "Hackney Church Brewery",
+        "Plaquemine Lock",
+        "The Lady Mildmay"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Fine Dining Lovers - London's best gastropubs",
+      "url": "https://www.finedininglovers.co.uk/explore/articles/best-gastropubs-london",
+      "tier": "C",
+      "note": "Published 17 Mar 2026, updated 16 Jul 2026. S.Pellegrino's food publication. Unordered.",
+      "names": [
+        "The Marksman",
+        "Anchor & Hope",
+        "The Camberwell Arms",
+        "The French House",
+        "The Knave of Clubs",
+        "The Plimsoll",
+        "The Salusbury",
+        "The Waterman's Arms"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Away from the Ordinary - 11 of The Best Gastro-Pubs in London",
+      "url": "https://awayfromtheordinary.com/2025/11/28/11-best-london-pubs/",
+      "tier": "C",
+      "note": "28 Nov 2025. A Scottish travel company's blog. Two entries (The Pig's Head, The Red Lion & Sun) include interviews with the owners; no disclosure of a hosted meal. Unordered.",
+      "names": [
+        "The Pig's Head",
+        "The Red Lion & Sun",
+        "The Harwood Arms",
+        "Anchor & Hope",
+        "The Wigmore",
+        "The Blue Stoops",
+        "The Cadogan Arms",
+        "The Devonshire",
+        "The Audley Public House",
+        "The French House",
+        "Lore of the Land"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Harrison Webb (YouTube)",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "tier": "D",
+      "channel": "@HarrisonWebb97",
+      "videos": [
+        {
+          "title": "I Tried the Most Expensive Pubs",
+          "url": "https://www.youtube.com/watch?v=qRPrD5b6si0",
+          "published": "2025-04-27"
+        },
+        {
+          "title": "$8 vs $787 Pub Food",
+          "url": "https://www.youtube.com/watch?v=jMzXnmzTtcY",
+          "published": "2025-11-02"
+        }
+      ],
+      "note": "701k and 539k views. No disclosure on either. The first video is framed on price, not quality - recorded, and the quote says so.",
+      "names": [
+        "The Audley Public House",
+        "The Guinea Grill",
+        "The Hero",
+        "The Cadogan Arms",
+        "The Harwood Arms"
+      ],
+      "quotes": {
+        "The Harwood Arms": "Visited in both videos - 'London's only Michelin-starred pub', 2 courses £64 or 3 for £79",
+        "The Audley Public House": "One of 'the most expensive pubs in London' he visited to see if they are worth the price",
+        "The Cadogan Arms": "One of 'the most expensive pubs in London' he visited to see if they are worth the price"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Gary Eats (YouTube)",
+      "url": "https://www.youtube.com/@GaryEats",
+      "tier": "D",
+      "channel": "@GaryEats",
+      "videos": [
+        {
+          "title": "I Review LONDON'S MOST FAMOUS PUB - THE DEVONSHIRE!",
+          "url": "https://www.youtube.com/watch?v=SsWhWyeCIBg",
+          "published": "2025-06-25"
+        },
+        {
+          "title": "Reviewing the \"BEST INDIAN GASTROPUB\" in LONDON!",
+          "url": "https://www.youtube.com/watch?v=l9ZTHsxsU1c",
+          "published": "2024-01-31"
+        },
+        {
+          "title": "London's Most Expensive Pub - We Review It! (Danny & Gary channel)",
+          "url": "https://www.youtube.com/watch?v=L6mYMxlDDe0",
+          "published": "2026-06-13"
+        }
+      ],
+      "note": "One creator across his own channel and the Danny & Gary channel he co-presents, so one source. No disclosures.",
+      "names": [
+        "The Devonshire",
+        "Prince of Wales, Southall",
+        "The Cadogan Arms"
+      ],
+      "quotes": {
+        "The Devonshire": "'without a doubt the most famous and iconic pub in London at the moment. Impossible to get a booking!' (470k views)",
+        "Prince of Wales, Southall": "A desi pub in Southall, visited as London's answer to Birmingham's Indian gastropubs",
+        "The Cadogan Arms": "'the most expensive pub in London' - Danny & Gary channel, 326k views"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Hannah Ricketts (YouTube)",
+      "url": "https://www.youtube.com/@HannahRicketts",
+      "tier": "D",
+      "channel": "@HannahRicketts",
+      "videos": [
+        {
+          "title": "Is London's MOST POPULAR Pub Really Worth It Anymore? The Devonshire Soho",
+          "url": "https://www.youtube.com/watch?v=BxzhOuRmf7w",
+          "published": "2025-08-19"
+        }
+      ],
+      "note": "344k views, paid for herself ('this one's on me').",
+      "names": [
+        "The Devonshire"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Greeno Eats (YouTube)",
+      "url": "https://www.youtube.com/@GreenoEats",
+      "tier": "D",
+      "channel": "@GreenoEats",
+      "videos": [
+        {
+          "title": "Is London's BUSIEST PUB Worth It? The Devonshire Reviewed!",
+          "url": "https://www.youtube.com/watch?v=RPFnpBc4VZ4",
+          "published": "2026-07-20"
+        }
+      ],
+      "note": "33k views, no disclosure.",
+      "names": [
+        "The Devonshire"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "TOPJAW (YouTube)",
+      "url": "https://www.youtube.com/@topjaw",
+      "tier": "D",
+      "channel": "@topjaw",
+      "videos": [
+        {
+          "title": "London's Best Restaurants: Where Chefs Eat",
+          "url": "https://www.youtube.com/watch?v=AMj51nd4Oeg",
+          "published": "2024"
+        }
+      ],
+      "note": "879k views. A restaurants video in which The Devonshire is one of 14 chapters - the only pub.",
+      "names": [
+        "The Devonshire"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Charlie Betts (TikTok)",
+      "url": "https://www.tiktok.com/@charliebetts_",
+      "tier": "D",
+      "note": "Video https://www.tiktok.com/@charliebetts_/video/7571937443864235286, 12 Nov 2025, 1.8M views. Tagged #thepelican #pubfood #steak. No disclosure.",
+      "names": [
+        "The Pelican"
+      ],
+      "quotes": {
+        "The Pelican": "'this could most definitely be correct information' - a steak at The Pelican, 1.8M views"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Kitty Bonner (TikTok)",
+      "url": "https://www.tiktok.com/@kittybonner",
+      "tier": "D",
+      "note": "Video https://www.tiktok.com/@kittybonner/video/7572500433231514902, 14 Nov 2025, 18k views, 'Best of London Food Guide - Pubs'. Venues tagged by handle. No disclosure.",
+      "names": [
+        "The Fat Badger",
+        "The Pelican",
+        "The Walmer Castle",
+        "The Fox & Pheasant",
+        "The Parakeet"
+      ]
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Emma Eats A Lot (TikTok)",
+      "url": "https://www.tiktok.com/@emmaeatsalot",
+      "tier": "D",
+      "note": "Video https://www.tiktok.com/@emmaeatsalot/video/7673576542215130376, 13 Aug 2026, 11k views. No disclosure.",
+      "names": [
+        "The Hero"
+      ],
+      "quotes": {
+        "The Hero": "'Perfect gastropub @ The Hero, Maida Vale'"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "No Space In My Passport (TikTok)",
+      "url": "https://www.tiktok.com/@nospaceinmypassport",
+      "tier": "D",
+      "note": "Video https://www.tiktok.com/@nospaceinmypassport/video/7621258167879535895, 25 Mar 2026. Belgravia, Basque menu - the Eccleston Street pub, not the Hackney one. No disclosure.",
+      "names": [
+        "The Prince Arthur, Belgravia"
+      ],
+      "quotes": {
+        "The Prince Arthur, Belgravia": "'This has to be the best gastro pub in London' - halibut, devilled eggs and Basque cheesecake"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Beyond The Fork (TikTok)",
+      "url": "https://www.tiktok.com/@beyondthefork",
+      "tier": "D",
+      "note": "Video https://www.tiktok.com/@beyondthefork/video/7683571171828206880, 9 Sep 2026. No disclosure.",
+      "names": [
+        "The George"
+      ],
+      "quotes": {
+        "The George": "'The George, Fitzrovia - a beautiful gastropub serving a mixture of small plates and pub classics'"
+      }
+    },
+    {
+      "scope": "gastropub-food",
+      "name": "Phood N Drinx (TikTok)",
+      "url": "https://www.tiktok.com/@phoodndrinx",
+      "tier": "D",
+      "note": "Video https://www.tiktok.com/@phoodndrinx/video/7631513520626208022, 22 Apr 2026, 17k views. Roast-specific, but The Devonshire is not relying on it (sundayRoastScope rule). No disclosure.",
+      "names": [
+        "The Devonshire"
+      ],
+      "quotes": {
+        "The Devonshire": "'the best beef roast I've had yet' - upstairs dining room"
+      }
+    }
+  ],
+  "declined": [
+    {
+      "name": "DesignMyNight - The Best Gastropubs In London",
+      "url": "https://www.designmynight.com/london/pubs/gastropubs-in-london",
+      "why": "A listings page, not a selection: 90 venues, most carrying booking offers ('A Round of Prosecco on Us', 'Wine Wednesday 20% Off'), and chain pubs sit beside the independents. Its 'The Cow' is a Westfield Stratford pub, not the Notting Hill one every other source means - recording the array would have handed that name a false citation."
+    },
+    {
+      "name": "British Food Crew - Best London Gastropubs: 14 Top Spots",
+      "url": "https://britishfoodcrew.com/best-london-gastropubs-14-top-spots/",
+      "why": "RELAY, NOT OPINION. The headings restate the Estrella Damm list ('Best in the UK', an FAQ on 'How many London gastropubs made the UK's Top 50'), and the site published nine best-of guides on 24 July 2026 alone. No evidence of a visit."
+    },
+    {
+      "name": "London x London - The Pub Grub Guide",
+      "url": "https://www.londonxlondon.com/gastropubs-london/",
+      "why": "VOLUME PUBLISHER. The WordPress archive shows 40 posts across every London subject in six days (12 on 12 Sep 2026 alone). Not a person visiting pubs."
+    },
+    {
+      "name": "Thatsup - London's Best Gastropubs",
+      "url": "https://thatsup.co.uk/london/guide/the-best-gastropubs-in-london",
+      "why": "On the registry's excluded list (aggregator)."
+    },
+    {
+      "name": "OpenTable - The Best Pubs in London",
+      "url": "https://www.opentable.co.uk/lists/best-pubs-london",
+      "why": "Booking platform; excluded aggregator."
+    },
+    {
+      "name": "Difford's Guide - London Gastro Pubs by district",
+      "url": "https://www.diffordsguide.com/encyclopedia/970/bars/londons-best-gastro-pubs",
+      "why": "Written around 2015 (Duck and Rice 'debuted in April 2015'; Polpo at the Ape & Bird has long closed). Too old to count for current recommendations."
+    },
+    {
+      "name": "RestroSpot (YouTube) - Top 10 Best Gastropubs in London",
+      "url": "https://www.youtube.com/watch?v=p2GU_qcJMZA",
+      "why": "Auto-generated: the chapter titles mangle the names ('The oddly Public House', 'The Tamer Prince', 'Camden Arms'), 783 views. Nobody visited."
+    },
+    {
+      "name": "Eating With Tod (YouTube) - I visited London's most popular pub",
+      "url": "https://www.youtube.com/watch?v=RhVXlUyGKj4",
+      "why": "HOSTED: 'Thanks @mcmoop for showing us around' - shown round by the pub's side, with Phil Rosenthal. Venue marketing."
+    },
+    {
+      "name": "The Staff Canteen (YouTube) - How The Devonshire Serves 500+ Daily",
+      "url": "https://www.youtube.com/watch?v=EjGXAumgAgk",
+      "why": "A behind-the-scenes kitchen feature made with the pub's chef and bar manager - the venue's cooperation, not an independent visit."
+    },
+    {
+      "name": "Appetite (YouTube) - The Parakeet | Secret Sauce",
+      "url": "https://www.youtube.com/watch?v=rP_YONXPnUg",
+      "why": "A dining app's brand channel, and its description is Michelin's inspector text copied word for word."
+    },
+    {
+      "name": "Beli (TikTok) - The Devonshire",
+      "url": "https://www.tiktok.com/@beli_eats",
+      "why": "The restaurant-ranking app's own brand account."
+    },
+    {
+      "name": "Sarah Mantelin (TikTok) - Blue Boar pub",
+      "url": "https://www.tiktok.com/@sarahmantelin/video/7653796779627908374",
+      "why": "PAID: caption ends '*AD'."
+    },
+    {
+      "name": "Insider Food (YouTube) - Finding The Best Pub In London",
+      "url": "https://www.youtube.com/watch?v=YGdWvEOREVY",
+      "why": "Out of scope: a general historic-pub tour (The George Inn, Jamaica Wine House, Ye Olde Cheshire Cheese, a Wetherspoons) judged on the pint, not the kitchen."
+    }
+  ]
+}

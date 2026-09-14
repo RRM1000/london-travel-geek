@@ -132,5 +132,16 @@
     "data/consensus/historic-pubs.json already holds a citation from cityam.com/heres-the-most-beautiful-wetherspoons-pub-in-london/ (City AM, tier B, already in data/sources.json) - filed under the HISTORIC topic despite being explicitly about beauty, and its name-extraction is broken (just page chrome: 'The Wetherspoons pub with the best vibe', trap 8 - no real venue name was ever recorded from it). Per trap 13 this URL is not new if a future pass wants it for THIS topic instead - but it arguably belongs here more than it belongs in historic-pubs.json to begin with. Flagging for Rob's call rather than moving it myself, per this task's scope discipline (only this config file was to be touched).",
     "data/consensus/historic-pubs.json also holds london-now.co.uk's piece on The Crosse Keys, a converted 1913 banking hall (London Now, tier C, already in data/sources.json) - the same shape of issue: a beauty-of-the-building story filed under historic-pubs, with the same broken, page-chrome-only extraction. Same flag as above.",
     "Cross-topic corroboration, not a new source: The Blue Stoops already appears independently in data/consensus/sunday-roast.json at #88 in the Estrella Damm Top 50 Gastropubs 2026 extended list - a food-quality ranking, unrelated to CAMRA's design award, for the same venue. Reassuring that the venue is real and independently well-regarded; per trap 7 this citation count belongs to the sunday-roast topic only and must never be printed as evidence on this guide."
+  ],
+  "status": "COLLECTED 14 Sep 2026 - data/consensus/most-beautiful-pubs.json, 17 sources (A1 B4 C8 D4).",
+  "scopeDecision": {
+    "question": "Separate guide, or fold into historic-pubs-dining-rooms-london?",
+    "call": "Separate guide (option a). Claude's call when Rob asked for the guide without answering the question. Overlap with the historic guide is accepted as ordinary cross-topic overlap; the page leads on the room, the design awards and one-off designs, and links to the historic guide for age and stories.",
+    "scope": "Beauty broadly: interiors first, then exteriors (flower displays) and a few settings. Not age for its own sake."
+  },
+  "collectionCorrections": [
+    "CAMRA's National Inventory is NOT dead. heritagepubs.org.uk redirects to a gambling site, but the register lives at camra.org.uk/heritage-pubs/national-inventory and is readable by curl (London: 60 three-star, 62 two-star, 147 one-star). Only three- and two-star entries were recorded.",
+    "Search works: DuckDuckGo's HTML endpoint in the browser returns real results one query per page (html.duckduckgo.com/html/?q=...). It found a Secret London '40 prettiest pubs', SquareMeal's picturesque pubs, Nuff, Londontopia and the gin-palace lists the draft config missed.",
+    "Beauty is a thin genre on YouTube: searches return historic-pub films. Tier D came from one interiors channel and three TikToks."
   ]
 }
