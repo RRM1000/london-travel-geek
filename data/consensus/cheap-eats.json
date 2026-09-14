@@ -192,27 +192,6 @@
       ]
     },
     {
-      "name": "London Best",
-      "url": "https://londonbest.uk/cheap-indian-food/",
-      "scope": "cheap-eats",
-      "names": [
-        "Dishoom Shoreditch",
-        "Dishoom Carnaby",
-        "Sheba Restaurant",
-        "Maharaja of India",
-        "Chettinad Restaurant",
-        "Eastern Eye Balti House",
-        "The Mughal's Indian Restaurant",
-        "Tower Tandoori Restaurant",
-        "Chutney Mary",
-        "Meraz Restaurant Brick Lane",
-        "Punjab Indian Restaurant",
-        "Gopal's of Soho",
-        "Dosa World",
-        "Royals India Covent Garden"
-      ]
-    },
-    {
       "name": "Tikka Nation",
       "url": "https://tikkanation.com/blog/best-indian-vegetarian-restaurants-london",
       "scope": "cheap-eats",
@@ -265,6 +244,30 @@
       "names": [
         "Micky's Chippy"
       ]
+    }
+  ],
+  "declined": [
+    {
+      "name": "London Best",
+      "url": "https://londonbest.uk/cheap-indian-food/",
+      "scope": "cheap-eats",
+      "names": [
+        "Dishoom Shoreditch",
+        "Dishoom Carnaby",
+        "Sheba Restaurant",
+        "Maharaja of India",
+        "Chettinad Restaurant",
+        "Eastern Eye Balti House",
+        "The Mughal's Indian Restaurant",
+        "Tower Tandoori Restaurant",
+        "Chutney Mary",
+        "Meraz Restaurant Brick Lane",
+        "Punjab Indian Restaurant",
+        "Gopal's of Soho",
+        "Dosa World",
+        "Royals India Covent Garden"
+      ],
+      "declinedReason": "Declined 14 Sep 2026: AI SEO content farm, excluded site-wide in data/sources.json (see data/reference/hotel-corpus.md and the content-farm-passes-clean-name-array memory). Its names were never independent agreement."
     }
   ]
 }

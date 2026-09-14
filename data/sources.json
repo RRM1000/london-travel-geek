@@ -111,7 +111,9 @@
     "alcotraz.co.uk",
     "pitchgolf.com",
     "jkcomedyclub.co.uk",
-    "europeancoffeetrip.com"
+    "europeancoffeetrip.com",
+    "lamplitlondon.com",
+    "londonbest.uk"
   ],
   "domains": {
     "thegoodfoodguide.co.uk": {
@@ -381,10 +383,6 @@
     "kingstoncompass.com": {
       "tier": "C",
       "name": "Kingston Compass"
-    },
-    "londonbest.uk": {
-      "tier": "C",
-      "name": "London Best"
     },
     "citydays.com": {
       "tier": "C",
@@ -695,10 +693,6 @@
     "budgettraveller.org": {
       "tier": "C",
       "name": "BudgetTraveller"
-    },
-    "lamplitlondon.com": {
-      "tier": "C",
-      "name": "Lamplit London"
     },
     "sunnyinlondon.com": {
       "tier": "C",
@@ -1515,10 +1509,190 @@
       "tier": "F",
       "name": "Secret Food Tours (YouTube, own site)",
       "note": "Advertising the company's own paid tour product, not an independent review - no venues named. DECLINED on craft-beer-pubs."
+    },
+    "which.co.uk": {
+      "tier": "A",
+      "name": "Which?",
+      "note": "Member survey of UK hotel chains, dated and ranked. BRAND-LEVEL ONLY, UK-wide (Rob, 14 Sep 2026): never a claim about a London branch, and its average prices are national, not London. hotels-budget."
+    },
+    "independent.co.uk": {
+      "tier": "B",
+      "name": "The Independent",
+      "note": "National masthead. Its Gina Jackson budget-hotel list is recorded under cntraveller.com as one voice (hotels-budget)."
+    },
+    "cntravellerme.com": {
+      "tier": "B",
+      "name": "Conde Nast Traveller Middle East",
+      "note": "SYNDICATES CNT UK galleries ('A version of this article originally appeared on Conde Nast Traveller UK'). Resolve to cntraveller.com; never a second voice."
+    },
+    "cntraveler.com": {
+      "tier": "B",
+      "name": "Conde Nast Traveler (US)",
+      "note": "Carries CNT UK lists (e.g. Gina Jackson's cheap-hotels gallery under a US co-byline). Resolve to cntraveller.com; never a second voice."
+    },
+    "elle.com": {
+      "tier": "B",
+      "name": "ELLE UK"
+    },
+    "mumsnet.com": {
+      "tier": "B",
+      "name": "Mumsnet",
+      "note": "/articles/ pages are editor-compiled from Mumsnet Talk posts. /talk/ threads are tier E by nature but share this domain, so build-evidence counts article and threads as one voice at tier B - tally threads by hand."
+    },
+    "afar.com": {
+      "tier": "B",
+      "name": "AFAR"
+    },
+    "glamourmagazine.co.uk": {
+      "tier": "B",
+      "name": "Glamour UK"
+    },
+    "nationalgeographic.com": {
+      "tier": "B",
+      "name": "National Geographic Traveller (UK)"
+    },
+    "thetimes.com": {
+      "tier": "B",
+      "name": "The Times",
+      "note": "Live Times URLs are thetimes.com; thetimes.co.uk is kept for older records. News UK 'Verifying Device' wall - read by hand. Giles Coren's Real Stars column reached one corpus through a TikTok post - the platform is not the publisher."
+    },
+    "thehotelguru.com": {
+      "tier": "C",
+      "name": "The Hotel Guru",
+      "note": "Hotel-selection specialist. Cards show live 'from £X' rates with 'book online' and Booking.com comparison - check against the booking-engine rule (mrandmrssmith.com and i-escape.com are excluded in data/topics/hotels-budget.json)."
+    },
+    "eurocheapo.com": {
+      "tier": "C",
+      "name": "EuroCheapo",
+      "note": "Budget-hotel specialist with its own reviews (Tom Meyers). Stale pages (2014-2021) exist beside the current list."
+    },
+    "loveandlondon.com": {
+      "tier": "C",
+      "name": "Love and London",
+      "note": "Real London blog (Jessica Dante). Several accommodation pages - one voice."
+    },
+    "ontheluce.com": {
+      "tier": "C",
+      "name": "On the Luce",
+      "note": "Lucy Dodsworth. Discloses hosted stays inline - check each page."
+    },
+    "wanderingswithbri.com": {
+      "tier": "C",
+      "name": "Wanderings with Bri",
+      "note": "Real person, desk research ('50+ tabs open'), heavy affiliate linking."
+    },
+    "thetravelhack.com": {
+      "tier": "C",
+      "name": "The Travel Hack"
+    },
+    "holidayexpert.com": {
+      "tier": "C",
+      "name": "Holiday Expert",
+      "note": "Chelsea Dickenson (This Morning travel expert). Her social channels are the same voice."
+    },
+    "22places.com": {
+      "tier": "C",
+      "name": "22places"
+    },
+    "lovinglondon.de": {
+      "tier": "C",
+      "name": "Loving London (Steffen)",
+      "note": "SAME AUTHOR as loving-travel.com - one voice across two domains, merge by hand (hostOf cannot see it). Affiliate-led."
+    },
+    "loving-travel.com": {
+      "tier": "C",
+      "name": "Loving Travel (Steffen)",
+      "note": "SAME AUTHOR as lovinglondon.de - one voice across two domains, merge by hand."
+    },
+    "londontoolkit.com": {
+      "tier": "C",
+      "name": "London Toolkit",
+      "note": "Long-running visitor guide; hotel pages are booking-card selections with little visit evidence."
+    },
+    "foreveroutofofficetravel.com": {
+      "tier": "C",
+      "name": "Forever Out of Office",
+      "note": "Real person; desk research with Google review scores."
+    },
+    "theholidaylab.com": {
+      "tier": "C",
+      "name": "The Holiday Lab",
+      "note": "Personal blog launched 2024; desk lists."
+    },
+    "thebudgetsavvytravelers.com": {
+      "tier": "C",
+      "name": "The Budget Savvy Travelers"
+    },
+    "lovemytrips.com": {
+      "tier": "C",
+      "name": "Lovemytrips",
+      "note": "Desk byline ('lovemytrips_admin') over a real UK road-trip blog archive; its London hotel post shows no visit."
+    },
+    "traveloffscript.com": {
+      "tier": "C",
+      "name": "Travel Off Script"
+    },
+    "hernomadeyes.com": {
+      "tier": "C",
+      "name": "Her Nomad Eyes"
+    },
+    "lostinlandmarks.com": {
+      "tier": "C",
+      "name": "Lost in Landmarks"
+    },
+    "globetotting.com": {
+      "tier": "C",
+      "name": "Globetotting"
+    },
+    "wandermustfamily.com": {
+      "tier": "C",
+      "name": "Wandermust Family"
+    },
+    "cheapfamilyholidays.co.uk": {
+      "tier": "C",
+      "name": "Cheap Family Holidays",
+      "note": "Its Premier Inn page reads as generic AI-style copy with no evidence of a stay."
+    },
+    "travellemming.com": {
+      "tier": "C",
+      "name": "Travel Lemming"
+    },
+    "wheatlesswanderlust.com": {
+      "tier": "C",
+      "name": "Wheatless Wanderlust"
+    },
+    "solotravelerworld.com": {
+      "tier": "C",
+      "name": "Solo Traveler World"
+    },
+    "nomadsunveiled.com": {
+      "tier": "C",
+      "name": "Nomads Unveiled"
+    },
+    "joujoutravels.com": {
+      "tier": "C",
+      "name": "Jou Jou Travels"
+    },
+    "thetourguy.com": {
+      "tier": "C",
+      "name": "The Tour Guy",
+      "note": "Tour operator's blog."
+    },
+    "carpediemtours.com": {
+      "tier": "C",
+      "name": "Carpe Diem Tours",
+      "note": "Tour operator's blog."
+    },
+    "community.ricksteves.com": {
+      "tier": "E",
+      "name": "Rick Steves Travel Forum",
+      "note": "Count per THREAD. build-evidence counts the domain once, so tally threads by hand."
     }
   },
   "excludedWhy": {
     "europeancoffeetrip.com": "A DIRECTORY, not a selection. Its London page carries 204 cafes - close to every specialty coffee shop in the city - so it expresses no preference and naming a venue costs it nothing. Recording it would hand a citation to almost every venue in the corpus, and \"named by two sources\" would come to mean \"in the directory, plus one real list\". The same reasoning that bars a search-results page bars this.",
-    "thatsup.co.uk": "On the excluded list since the SERP-first rebuild, with the aggregators. Reason not recorded at the time; the company it keeps - OpenTable, TripAdvisor, Yelp, Viator, Klook - says listings-led rather than edited."
+    "thatsup.co.uk": "On the excluded list since the SERP-first rebuild, with the aggregators. Reason not recorded at the time; the company it keeps - OpenTable, TripAdvisor, Yelp, Viator, Klook - says listings-led rather than edited.",
+    "lamplitlondon.com": "AI SEO FARM (data/reference/hotel-corpus.md, 9 Sep 2026): 'The Lamplit Editors' desk byline, every guide the same 4-7 item length, raw keyword slugs beside written titles, complete grid coverage. Registered tier C by mistake; moved to excluded 14 Sep 2026. Still cited in data/consensus/markets.json.",
+    "londonbest.uk": "TEMPLATE FARM (data/topics/hotels-budget.json, 14 Sep 2026): six hotel pages all titled 'The 16 Best...', byline 'londonbestad', an identical 'Information and Reviews' subheading under every entry, keyword-phrased FAQs. Registered tier C by mistake; moved to excluded 14 Sep 2026. Still cited in data/consensus/cheap-eats.json and korean.json."
   }
 }

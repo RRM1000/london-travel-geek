@@ -4,22 +4,6 @@
   "recorded": "2026-08-31",
   "sources": [
     {
-      "name": "Lamplit London",
-      "url": "https://www.lamplitlondon.com/guides/best-food-markets-london/",
-      "scope": "markets",
-      "names": [
-        "Borough Market",
-        "Maltby Street Market",
-        "Broadway Market",
-        "Brixton Village",
-        "Mercato Metropolitano",
-        "Common questions",
-        "ping pong london",
-        "The Art of the London Date Night",
-        "Keep exploring London"
-      ]
-    },
-    {
       "name": "Sunny in London",
       "url": "https://sunnyinlondon.com/london-food-markets-itinerary/",
       "scope": "markets",
@@ -199,6 +183,25 @@
       "names": [
         "Tower Bridge Collective"
       ]
+    }
+  ],
+  "declined": [
+    {
+      "name": "Lamplit London",
+      "url": "https://www.lamplitlondon.com/guides/best-food-markets-london/",
+      "scope": "markets",
+      "names": [
+        "Borough Market",
+        "Maltby Street Market",
+        "Broadway Market",
+        "Brixton Village",
+        "Mercato Metropolitano",
+        "Common questions",
+        "ping pong london",
+        "The Art of the London Date Night",
+        "Keep exploring London"
+      ],
+      "declinedReason": "Declined 14 Sep 2026: AI SEO content farm, excluded site-wide in data/sources.json (see data/reference/hotel-corpus.md and the content-farm-passes-clean-name-array memory). Its names were never independent agreement."
     }
   ]
 }

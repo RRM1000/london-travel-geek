@@ -44,40 +44,6 @@
       "error": "HTTP 402"
     },
     {
-      "name": "The Independent",
-      "url": "https://www.independent.co.uk/travel/uk/best-hotels-shoreditch-london-b2100692.html",
-      "scope": "hotels-shoreditch",
-      "names": [
-        "There’s plenty on offer in this London district",
-        "Bookmark popover",
-        "Most popular",
-        "Donate",
-        "Today’s Edition",
-        "Archive",
-        "Independent en Español",
-        "Independent Arabia",
-        "Independent Turkish",
-        "Independent Persian",
-        "Independent Urdu",
-        "The Standard",
-        "Puzzles",
-        "All topics",
-        "Free bets offers",
-        "Competitions and offers",
-        "Independent Advertising",
-        "Independent Ignite",
-        "Syndication",
-        "Working at The Independent",
-        "Code of conduct and complaints",
-        "Contributors",
-        "Donations Terms & Conditions",
-        "User policies",
-        "Book now",
-        "UK hotel reviews",
-        "UK travel"
-      ]
-    },
-    {
       "name": "The Nudge",
       "url": "https://thenudge.com/the-best-hotels-in-shoreditch/",
       "scope": "hotels-shoreditch",
@@ -184,6 +150,43 @@
         "itineraries",
         "first-hand advice"
       ]
+    }
+  ],
+  "declined": [
+    {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk/travel/uk/best-hotels-shoreditch-london-b2100692.html",
+      "scope": "hotels-shoreditch",
+      "names": [
+        "There’s plenty on offer in this London district",
+        "Bookmark popover",
+        "Most popular",
+        "Donate",
+        "Today’s Edition",
+        "Archive",
+        "Independent en Español",
+        "Independent Arabia",
+        "Independent Turkish",
+        "Independent Persian",
+        "Independent Urdu",
+        "The Standard",
+        "Puzzles",
+        "All topics",
+        "Free bets offers",
+        "Competitions and offers",
+        "Independent Advertising",
+        "Independent Ignite",
+        "Syndication",
+        "Working at The Independent",
+        "Code of conduct and complaints",
+        "Contributors",
+        "Donations Terms & Conditions",
+        "User policies",
+        "Book now",
+        "UK hotel reviews",
+        "UK travel"
+      ],
+      "declinedReason": "Declined 14 Sep 2026: the extractor captured the page's navigation and footer ('Bookmark popover', 'Donate', 'Puzzles'...) instead of the article, so this record names no hotel at all. The article itself is unread - a gap, not a finding."
     }
   ]
 }

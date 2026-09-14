@@ -476,6 +476,30 @@
         "british"
       ],
       "why": "The brunch restaurant at 169 Hemingford Road, Barnsbury N1. Elsewhere - Harden's opening hours, day-of-week headings - it is furniture, so the exception is scoped rather than global."
+    },
+    "Best Western (brand)": {
+      "topics": [
+        "hotels-budget"
+      ],
+      "why": "A hotel brand, not a 'best of' heading. The '^(the )?best\\b' pattern bins every Best Western name; scoped to hotels-budget so the pattern still catches headings elsewhere."
+    },
+    "Best Western Plus Delmere Hotel": {
+      "topics": [
+        "hotels-budget"
+      ],
+      "why": "A hotel brand, not a 'best of' heading. The '^(the )?best\\b' pattern bins every Best Western name; scoped to hotels-budget so the pattern still catches headings elsewhere."
+    },
+    "Best Western Kensington Olympia Hotel": {
+      "topics": [
+        "hotels-budget"
+      ],
+      "why": "A hotel brand, not a 'best of' heading. The '^(the )?best\\b' pattern bins every Best Western name; scoped to hotels-budget so the pattern still catches headings elsewhere."
+    },
+    "Best Western Chiswick Palace & Suites": {
+      "topics": [
+        "hotels-budget"
+      ],
+      "why": "A hotel brand, not a 'best of' heading. The '^(the )?best\\b' pattern bins every Best Western name; scoped to hotels-budget so the pattern still catches headings elsewhere."
     }
   }
 }

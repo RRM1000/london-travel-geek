@@ -248,6 +248,29 @@
       ],
       "source": "https://www.prairiefirebbq.com/",
       "recorded": "2026-09-08"
+    },
+    "mama shelter london shoreditch": {
+      "name": "Mama Shelter London Shoreditch",
+      "closed": "2026-02-01",
+      "detail": "437 Hackney Road E2 8PP - the brand's only UK hotel, 194 rooms. Officially closed its doors on 1 February 2026 after six years; Ennismore took down the website and the Instagram bio read 'Mama Shelter is now closed. Thank you to all our guests of 6 years.' The site is to reopen as co-living. Sources call it 'Mama Shelter London', 'Mama Shelter Shoreditch' and 'Mama Shelter London, Bethnal Green' - all recorded under this name in hotels-budget.",
+      "stillRecommendedBy": [
+        "standard.co.uk",
+        "elle.com",
+        "designmynight.com",
+        "candaceabroad.com",
+        "holidayexpert.com",
+        "joujoutravels.com",
+        "cntravellerme.com",
+        "cntraveler.com",
+        "reddit.com"
+      ],
+      "source": "https://www.timeout.com/london/news/the-london-outpost-of-affordable-boutique-hotel-chain-mama-shelter-has-shut-032626",
+      "alsoReported": [
+        "https://www.thecaterer.com/news/mama-shelter-london-closes-after-six-years"
+      ],
+      "operatorCheck": "https://mamashelter.com/london-shoreditch/ returned HTTP 410 ('This site has been archived or suspended') on 14 Sep 2026, and London is absent from mamashelter.com's destination list.",
+      "note": "JouJou Travels still listed it in a July 2026 update, and The Hotel Journal's August 2026 update marks it 'NOW CLOSED'.",
+      "recorded": "2026-09-14"
     }
   },
   "uncertain": {
