@@ -49413,6 +49413,1477 @@
       }
     ]
   },
+  "xingfutang": {
+    "name": "Xing Fu Tang",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 10,
+    "tierSpread": "B3 C5 D2",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 10,
+        "tierSpread": "B3 C5 D2",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-places-to-try-bubble-tea-in-london",
+        "quote": "#1 of 10, Time Out. Whips up hourly batches of pearls in a huge cauldron; house special is a brown sugar milk topped with freshly blowtorched sugar."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "29 Frith Street. Order: mango smoothie with rabbit panna cotta; 'isn't style over tapioca substance'."
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-bubble-tea-shops/",
+        "quote": "29 Frith Street. Gold foil brown sugar milk tea."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bubble-tea-in-london/",
+        "quote": "Fresh milk and brown sugar syrup."
+      },
+      {
+        "tier": "C",
+        "source": "Wrap Your Lips Around This",
+        "url": "https://wrapyourlipsaroundthis.com/best-bubble-tea-in-london/",
+        "quote": "Soho. For the best brown sugar bubble tea; 'My overall favourite place to drink boba is Xing Fu Tang'."
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/",
+        "quote": "'For the best Taiwanese bubble tea in London'."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/",
+        "quote": "(as 'Xing Fu Tang London'). Pearls made in-house in front of you; brown sugar boba 'the absolute best'."
+      },
+      {
+        "tier": "C",
+        "source": "The Strand Magazine",
+        "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
+        "quote": "#7 of 10, The Strand. 'Renowned for serving the best brown sugar bubble tea in the city'; 29 Frith Street."
+      },
+      {
+        "tier": "D",
+        "source": "YEN (YouTube)",
+        "url": "https://www.youtube.com/@iamyenlikethemoney",
+        "quote": "Chapter 'Xin Fu Tang Review'."
+      },
+      {
+        "tier": "D",
+        "source": "MelaninMichie (YouTube)",
+        "url": "https://www.youtube.com/@MelaninMichie",
+        "quote": "Chapter 'Zing Zutang'."
+      }
+    ]
+  },
+  "kissaten": {
+    "name": "Kissaten",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B3 C2 D3",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 8,
+        "tierSpread": "B3 C2 D3",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-places-to-try-bubble-tea-in-london",
+        "quote": "#3 of 10, Time Out. Japanese-style Soho shop, pricier than most; housemade honey tapioca pearls, yoghurt popping pearls, order via a screen, long queues."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "72 Old Compton Street. Order: Earl Grey milk tea; honey tapioca; gachapon machines while you wait."
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-bubble-tea-shops/",
+        "quote": "30 Brewer Street. Build-your-own; hojicha salted cheese, wheat flake milk tea."
+      },
+      {
+        "tier": "C",
+        "source": "Squeeze London",
+        "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+        "quote": "Hand-crafted honey, rose and taro tapioca."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/",
+        "quote": "(as 'Kissaten Bubble Tea Soho')."
+      },
+      {
+        "tier": "D",
+        "source": "Three Man Abroad (YouTube)",
+        "url": "https://www.youtube.com/@ThreeManAbroad",
+        "quote": "Chapter 'Kisseten'."
+      },
+      {
+        "tier": "D",
+        "source": "MelaninMichie (YouTube)",
+        "url": "https://www.youtube.com/@MelaninMichie",
+        "quote": "Chapter 'Kisserton'."
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
+      }
+    ]
+  },
+  "cuppobubbo": {
+    "name": "Cuppo Bubbo",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-places-to-try-bubble-tea-in-london",
+        "quote": "#4 of 10, Time Out. Herne Hill cafe with more seating than most, around a giant money tree plant; freshly brewed tea, rose bubble tea with real petals, cheese crowns."
+      }
+    ]
+  },
+  "bijububbletearoom": {
+    "name": "Biju Bubble Tea Room",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B3 C4 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 8,
+        "tierSpread": "B3 C4 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-places-to-try-bubble-tea-in-london",
+        "quote": "#5 of 10, Time Out (as 'Biju'). Organic milk only, no powder, loose-leaf tea brewed to order; Earl Grey, rooibos and matcha options."
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/foodanddrink/london-best-bubble-tea-shops-b1056524.html",
+        "quote": "(as 'Biju'). Runs a site at Boxpark Shoreditch; 'past London locations in Soho and Camden now appear closed'. Fresh milk, loose leaf; roasted brown sugar and salted cream boba."
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-bubble-tea-shops/",
+        "quote": "(as 'Biju'). Founded 2015 by Nicholas Phan after a research trip to Taiwan. Honeydew melon milk tea."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bubble-tea-in-london/",
+        "quote": "(as 'Biju Bubble Tea')."
+      },
+      {
+        "tier": "C",
+        "source": "Squeeze London",
+        "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+        "quote": "(as 'Biju Bubble Tea'). Owner grew up in Singapore, a 'self-professed boba connoisseur'."
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/",
+        "quote": "'One of the OG bubble tea shops in London'."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes",
+        "quote": "'Others I recommended after the above' (as 'Biju')."
+      }
+    ]
+  },
+  "bubbleology": {
+    "name": "Bubbleology",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B3 C4 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 8,
+        "tierSpread": "B3 C4 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-places-to-try-bubble-tea-in-london",
+        "quote": "#6 of 10, Time Out. London's first bubble tea shop when it opened in 2011; boozy bubble teas at the Soho bar."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "49 Rupert Street, Soho. Order: mango and passion fruit iced tea with lychee boba."
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-bubble-tea-shops/",
+        "quote": "Alcoholic teas like 'The Majestic Butterfly' and 'Oreo Madness'."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bubble-tea-in-london/",
+        "quote": "Listed first; a chain that started in London."
+      },
+      {
+        "tier": "C",
+        "source": "Squeeze London",
+        "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+        "quote": "Over 10 locations; cocktail versions."
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes",
+        "quote": "'Others I recommended' - 'my first bubble tea experience, when there was only 2 bubble stores in London'."
+      }
+    ]
+  },
+  "bobacoma": {
+    "name": "Boba Coma",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-places-to-try-bubble-tea-in-london",
+        "quote": "#7 of 10, Time Out. Leyton; South Asian flavours - kulfi, karak, rose - with Taiwanese technique, and a boba mural."
+      },
+      {
+        "tier": "D",
+        "source": "Three Man Abroad (YouTube)",
+        "url": "https://www.youtube.com/@ThreeManAbroad"
+      }
+    ]
+  },
+  "cuppacha": {
+    "name": "Cuppacha",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B2 C4 D2",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 8,
+        "tierSpread": "B2 C4 D2",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-places-to-try-bubble-tea-in-london",
+        "quote": "#9 of 10, Time Out. Long line most days on Chinatown's Newport Court, nearly a decade trading; butterfly pea ombre drinks and Oreo specials."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "Bright pink shop on Newport Court. Order: mango fruit tea with popping boba - sweetness isn't overpowering."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bubble-tea-in-london/",
+        "quote": "(as 'Cuppacha Bubble Tea')."
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/",
+        "quote": "(as 'Cuppacha Chinatown'). 'Some of the best bubble tea in Chinatown'."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/",
+        "quote": "(as 'Cuppacha Bubble Tea Chinatown'). Pink exterior and the long queue."
+      },
+      {
+        "tier": "C",
+        "source": "The Strand Magazine",
+        "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
+        "quote": "#10 of 10, The Strand. 23 Newport Court; the classic pearl milk tea for beginners."
+      },
+      {
+        "tier": "D",
+        "source": "Three Man Abroad (YouTube)",
+        "url": "https://www.youtube.com/@ThreeManAbroad",
+        "quote": "Chapter 'Cappacha'."
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes",
+        "quote": "'Others I recommended'."
+      }
+    ]
+  },
+  "purcha": {
+    "name": "Purcha",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-places-to-try-bubble-tea-in-london",
+        "quote": "#10 of 10, Time Out (as 'Pürcha'). Purified mineral water and tea brewed to order; branches in Kingsway, Charing Cross and Croydon, with seating and Taiwanese fried chicken."
+      },
+      {
+        "tier": "D",
+        "source": "Kayse (YouTube)",
+        "url": "https://www.youtube.com/@bykayse",
+        "quote": "Chapter 'Purcha'."
+      }
+    ]
+  },
+  "happylemon": {
+    "name": "Happy Lemon",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B3 C4",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 7,
+        "tierSpread": "B3 C4",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "24A Newport Court. Order: milk tea with Oreo cookies and cream - 'we're more into the milk teas here'."
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/foodanddrink/london-best-bubble-tea-shops-b1056524.html",
+        "quote": "Busy Chinatown hangout; rock salt cheese topping."
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-bubble-tea-shops/",
+        "quote": "24A Newport Court. Rock salted cheese series."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bubble-tea-in-london/",
+        "quote": "Fresh lemon series and lemon smoothies."
+      },
+      {
+        "tier": "C",
+        "source": "Squeeze London",
+        "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+        "quote": "First European store in Chinatown."
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/",
+        "quote": "'For the best bubble tea in Chinatown'."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/"
+      }
+    ]
+  },
+  "whaletea": {
+    "name": "The Whale Tea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "18 Queensway, a couple of tables, near Hyde Park. Order: milk tea boba, 'tastes a little like cereal milk'."
+      },
+      {
+        "tier": "C",
+        "source": "The Strand Magazine",
+        "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
+        "quote": "#1 of 10, The Strand (as 'Whale Tea'). 'The store's brown sugar boba is the best in London.' Flagship 45 Wardour Street, 7 London locations."
+      }
+    ]
+  },
+  "heytea": {
+    "name": "HEYTEA",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "Wingate House, Shaftesbury Avenue (as 'Heytea (Soho)'). Order: supreme brown sugar milk tea with cheese foam."
+      },
+      {
+        "tier": "C",
+        "source": "The Strand Magazine",
+        "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
+        "quote": "#3 of 10, The Strand (as 'Hey Tea'). Wingate House, Shaftesbury Avenue - its first store outside Asia; cheese brew drinks."
+      },
+      {
+        "tier": "D",
+        "source": "Kayse (YouTube)",
+        "url": "https://www.youtube.com/@bykayse",
+        "quote": "Chapter 'Hey Tea'."
+      }
+    ]
+  },
+  "t4": {
+    "name": "T4",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B1 C4 D3",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 8,
+        "tierSpread": "B1 C4 D3",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "T4 Paddington, 4B Praed Street - 'no matter which branch you're at, you'll get a great bubble tea'. Order: Oreo potted milk tea."
+      },
+      {
+        "tier": "C",
+        "source": "Wrap Your Lips Around This",
+        "url": "https://wrapyourlipsaroundthis.com/best-bubble-tea-in-london/",
+        "quote": "(as 'T4, Westfield'). For the best Assam milk bubble tea; whole tea leaves, not bags or powders."
+      },
+      {
+        "tier": "C",
+        "source": "Squeeze London",
+        "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+        "quote": "Never bags or powder."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/",
+        "quote": "(as 'T4 Bubble Tea')."
+      },
+      {
+        "tier": "C",
+        "source": "The Strand Magazine",
+        "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
+        "quote": "#9 of 10, The Strand. Strand store at 137 Strand; Earl Grey milk tea with French pudding."
+      },
+      {
+        "tier": "D",
+        "source": "Kayse (YouTube)",
+        "url": "https://www.youtube.com/@bykayse"
+      },
+      {
+        "tier": "D",
+        "source": "YEN (YouTube)",
+        "url": "https://www.youtube.com/@iamyenlikethemoney"
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
+      }
+    ]
+  },
+  "gongcha": {
+    "name": "Gong Cha",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "Gong Cha Goodge Street, 22 Goodge Street - the page itself now marks this branch PERMANENTLY CLOSED. Order was the iced 'Dirtea'."
+      },
+      {
+        "tier": "C",
+        "source": "The Strand Magazine",
+        "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
+        "quote": "#2 of 10, The Strand. 3 Garrick Street. Milk foam matcha strawberry milk tea; yoghurt popping pearls."
+      }
+    ]
+  },
+  "mintea": {
+    "name": "Min Tea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "34 Newport Court (as 'Min Tea 抿茶'). Order: cheesy milk tea with Oreo bits - cheese foam done well."
+      },
+      {
+        "tier": "C",
+        "source": "Wrap Your Lips Around This",
+        "url": "https://wrapyourlipsaroundthis.com/best-bubble-tea-in-london/",
+        "quote": "Chinatown. For the cheesiest bubble tea in London - one of few with cheese foam."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/"
+      }
+    ]
+  },
+  "bubblemagik": {
+    "name": "Bubble Magik",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C2 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "Unit 20 The Broadway, Ealing - cupboard-sized, shaker machine. Order: mango iced tea with passion fruit boba."
+      },
+      {
+        "tier": "C",
+        "source": "Wrap Your Lips Around This",
+        "url": "https://wrapyourlipsaroundthis.com/best-bubble-tea-in-london/",
+        "quote": "(as 'Bubble Majik, Ealing Broadway'). For the original Assam bubble tea."
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/",
+        "quote": "(as 'Bubble Majik'), Ealing Broadway."
+      },
+      {
+        "tier": "D",
+        "source": "Kayse (YouTube)",
+        "url": "https://www.youtube.com/@bykayse"
+      }
+    ]
+  },
+  "yuniquetea": {
+    "name": "Yunique Tea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B2 C4 D2",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 8,
+        "tierSpread": "B2 C4 D2",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+        "quote": "10 Little Newport Street (as 'Yunique Bubble Tea'). Order: Oreo milk tea or brown sugar bubble fresh milk."
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-bubble-tea-shops/",
+        "quote": "(as 'Yunique'). 10 Little Newport Street. Red bean milk tea, watermelon tea with lychee."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bubble-tea-in-london/",
+        "quote": "(as 'Yunique Bubble Tea'). Oreo with milk, matcha with grass jelly."
+      },
+      {
+        "tier": "C",
+        "source": "Squeeze London",
+        "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+        "quote": "(as \"Yunique 'The Bear' Bubble Tea\"). First London shop 2019."
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Three Man Abroad (YouTube)",
+        "url": "https://www.youtube.com/@ThreeManAbroad",
+        "quote": "Chapter 'Yunique Bear Tea'."
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
+      }
+    ]
+  },
+  "baokingscross": {
+    "name": "BAO King's Cross",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/foodanddrink/london-best-bubble-tea-shops-b1056524.html",
+        "quote": "(as 'BAO Kings Cross'), Unit 2, 4 Pancras Square. Bubble teas from the to-go counter, 'something of a gem' - a simple oolong or fresh milk."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/",
+        "quote": "(as 'Cafe Bao'), 4 Pancras Square. Oolong bubble tea is the best of a few classics; takeaway section."
+      }
+    ]
+  },
+  "gonuts": {
+    "name": "GoNuts",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/foodanddrink/london-best-bubble-tea-shops-b1056524.html",
+        "quote": "(as 'GoNuts bubble tea'). Pastel cafe, affordable, fresh milk teas, brown sugar pearls, cream cheese foam series."
+      }
+    ]
+  },
+  "mooboo": {
+    "name": "Mooboo",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-bubble-tea-shops/",
+        "quote": "Various locations incl. Hammersmith, Knightsbridge, Camden. Passion and mango, honeydew, taro."
+      },
+      {
+        "tier": "C",
+        "source": "Squeeze London",
+        "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+        "quote": "Over 70 UK locations, founded 2012."
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/"
+      }
+    ]
+  },
+  "dingtea": {
+    "name": "Ding Tea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B1 C2 D2",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 5,
+        "tierSpread": "B1 C2 D2",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-bubble-tea-shops/",
+        "quote": "Kingston and New Malden. Crystal pearl winter melon oolong."
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/",
+        "quote": "New Malden, Angel."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/",
+        "quote": "Black sesame milk tea."
+      },
+      {
+        "tier": "D",
+        "source": "Three Man Abroad (YouTube)",
+        "url": "https://www.youtube.com/@ThreeManAbroad"
+      },
+      {
+        "tier": "D",
+        "source": "YEN (YouTube)",
+        "url": "https://www.youtube.com/@iamyenlikethemoney"
+      }
+    ]
+  },
+  "chatime": {
+    "name": "Chatime",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-bubble-tea-shops/",
+        "quote": "Grows its own tea in Nantou, Taiwan. Lychee chrysanthemum slush."
+      },
+      {
+        "tier": "C",
+        "source": "Squeeze London",
+        "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+        "quote": "35 UK stores."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/"
+      }
+    ]
+  },
+  "bubblewrap": {
+    "name": "Bubblewrap",
+    "topics": [
+      "bubble-tea",
+      "dessert",
+      "ice-cream"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "dessert": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "ice-cream": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bubble-tea-in-london/",
+        "quote": "Named as a bubble tea spot doing waffle-wrapped drinks."
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/london-desserts-you-have-to-try/"
+      },
+      {
+        "tier": "C",
+        "source": "Messy Vegan Cook",
+        "url": "https://messyvegancook.com/more-vegan-ice-cream-options-in-london/"
+      }
+    ]
+  },
+  "tsujiri": {
+    "name": "Tsujiri",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Wrap Your Lips Around This",
+        "url": "https://wrapyourlipsaroundthis.com/best-bubble-tea-in-london/",
+        "quote": "(as 'Tsujiru, Chinatown'). For the best hojicha bubble tea in London."
+      }
+    ]
+  },
+  "wootea": {
+    "name": "Woo Tea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "C3 D2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 5,
+        "tierSpread": "C3 D2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Wrap Your Lips Around This",
+        "url": "https://wrapyourlipsaroundthis.com/best-bubble-tea-in-london/",
+        "quote": "Chinatown. For the best roasted oolong bubble tea - nutty, buttery, almost smoky."
+      },
+      {
+        "tier": "C",
+        "source": "Squeeze London",
+        "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+        "quote": "Purple potato oolong with tapioca."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/",
+        "quote": "Handmade oolong artisan bubble tea."
+      },
+      {
+        "tier": "D",
+        "source": "MelaninMichie (YouTube)",
+        "url": "https://www.youtube.com/@MelaninMichie"
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
+      }
+    ]
+  },
+  "yifangfruittea": {
+    "name": "Yi Fang Fruit Tea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "C4 D2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 6,
+        "tierSpread": "C4 D2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Wrap Your Lips Around This",
+        "url": "https://wrapyourlipsaroundthis.com/best-bubble-tea-in-london/",
+        "quote": "(as 'Yifang Fruit Tea, Chinatown'). For the best fruity bubble tea."
+      },
+      {
+        "tier": "C",
+        "source": "Squeeze London",
+        "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+        "quote": "(as 'Yi Fang'). Named for the founder's grandmother's pineapple jam."
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Strand Magazine",
+        "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
+        "quote": "#6 of 10, The Strand (as 'Yi Fang'). 'Dominates the fruit tea scene'; flagship 104 Shaftesbury Avenue."
+      },
+      {
+        "tier": "D",
+        "source": "MelaninMichie (YouTube)",
+        "url": "https://www.youtube.com/@MelaninMichie",
+        "quote": "Chapter 'Yifang'."
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes",
+        "quote": "Top 10 (as 'Yi Fang')."
+      }
+    ]
+  },
+  "taiyakiya": {
+    "name": "Taiyakiya",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Wrap Your Lips Around This",
+        "url": "https://wrapyourlipsaroundthis.com/best-bubble-tea-in-london/",
+        "quote": "Chinatown. For the best matcha bubble tea in Chinatown - malty, frothy."
+      }
+    ]
+  },
+  "truedan": {
+    "name": "Truedan",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/",
+        "quote": "Brunswick Centre, Bloomsbury."
+      }
+    ]
+  },
+  "nuttea": {
+    "name": "Nuttea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/bubble-tea-london/",
+        "quote": "Soho; dairy-free nut milk tea."
+      }
+    ]
+  },
+  "luckytea": {
+    "name": "Lucky Tea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C1 D2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 3,
+        "tierSpread": "C1 D2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Strand Magazine",
+        "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
+        "quote": "#4 of 10, The Strand. 35 Newport Street; slushies, grape slushie with cheese milk foam and crystal boba."
+      },
+      {
+        "tier": "D",
+        "source": "Kayse (YouTube)",
+        "url": "https://www.youtube.com/@bykayse"
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
+      }
+    ]
+  },
+  "milksha": {
+    "name": "Milksha",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Strand Magazine",
+        "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
+        "quote": "#8 of 10, The Strand. 65 Shaftesbury Avenue; honey pearls."
+      }
+    ]
+  },
+  "yicha": {
+    "name": "Yi Cha",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Kayse (YouTube)",
+        "url": "https://www.youtube.com/@bykayse"
+      }
+    ]
+  },
+  "jentea": {
+    "name": "Jen Tea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "D2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 2,
+        "tierSpread": "D2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "YEN (YouTube)",
+        "url": "https://www.youtube.com/@iamyenlikethemoney",
+        "quote": "Chapter 'JEN Tea Review'."
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
+      }
+    ]
+  },
+  "goldentea": {
+    "name": "Golden Tea",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "YEN (YouTube)",
+        "url": "https://www.youtube.com/@iamyenlikethemoney"
+      }
+    ]
+  },
+  "machimachi": {
+    "name": "Machi Machi",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
+      }
+    ]
+  },
+  "teastall": {
+    "name": "Tea Stall",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
+      }
+    ]
+  },
+  "bobar": {
+    "name": "Bobar",
+    "topics": [
+      "bubble-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bubble-tea": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes",
+        "quote": "'Others I recommended after the above'."
+      }
+    ]
+  },
   "hanbaagaasuuteeki": {
     "name": "Hanbaagaasuuteeki",
     "topics": [
@@ -63603,14 +65074,14 @@
       "coffee"
     ],
     "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "coffee": {
         "sourceCount": 3,
-        "tierSpread": "B1 C2",
-        "tierCount": 2,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -63626,8 +65097,8 @@
         "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
       },
       {
-        "tier": "C",
-        "source": "youtube.com/@bykayse",
+        "tier": "D",
+        "source": "Kayse (YouTube)",
         "url": "https://www.youtube.com/@bykayse"
       }
     ]
@@ -64111,14 +65582,14 @@
       "coffee"
     ],
     "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "coffee": {
         "sourceCount": 3,
-        "tierSpread": "B1 C2",
-        "tierCount": 2,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -64134,8 +65605,8 @@
         "url": "https://www.londonbestcoffee.com/"
       },
       {
-        "tier": "C",
-        "source": "youtube.com/@bykayse",
+        "tier": "D",
+        "source": "Kayse (YouTube)",
         "url": "https://www.youtube.com/@bykayse"
       }
     ]
@@ -66324,21 +67795,21 @@
       "coffee"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "D1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "coffee": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "youtube.com/@bykayse",
+        "tier": "D",
+        "source": "Kayse (YouTube)",
         "url": "https://www.youtube.com/@bykayse"
       }
     ]
@@ -66349,21 +67820,21 @@
       "coffee"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "D1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "coffee": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "youtube.com/@bykayse",
+        "tier": "D",
+        "source": "Kayse (YouTube)",
         "url": "https://www.youtube.com/@bykayse"
       }
     ]
@@ -66375,13 +67846,13 @@
       "hot-chocolate"
     ],
     "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "tierSpread": "B1 D1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -66399,8 +67870,8 @@
         "url": "https://www.theinfatuation.com/london/guides/best-hot-chocolate-london"
       },
       {
-        "tier": "C",
-        "source": "youtube.com/@bykayse",
+        "tier": "D",
+        "source": "Kayse (YouTube)",
         "url": "https://www.youtube.com/@bykayse"
       }
     ]
@@ -77887,43 +79358,6 @@
       }
     ]
   },
-  "bubblewrap": {
-    "name": "Bubblewrap",
-    "topics": [
-      "dessert",
-      "ice-cream"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "dessert": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Wanderlust Chloe",
-        "url": "https://www.wanderlustchloe.com/london-desserts-you-have-to-try/"
-      },
-      {
-        "tier": "C",
-        "source": "Messy Vegan Cook",
-        "url": "https://messyvegancook.com/more-vegan-ice-cream-options-in-london/"
-      }
-    ]
-  },
   "yolkin": {
     "name": "Yolkin",
     "topics": [
@@ -77974,7 +79408,7 @@
       "ice-cream"
     ],
     "sourceCount": 7,
-    "tierSpread": "B2 C4 D1",
+    "tierSpread": "B2 C3 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -77986,7 +79420,7 @@
       },
       "hot-chocolate": {
         "sourceCount": 6,
-        "tierSpread": "B2 C3 D1",
+        "tierSpread": "B2 C2 D2",
         "tierCount": 3,
         "hasAward": false
       },
@@ -78017,11 +79451,6 @@
       },
       {
         "tier": "C",
-        "source": "youtube.com/@Rayscafes",
-        "url": "https://www.youtube.com/@Rayscafes"
-      },
-      {
-        "tier": "C",
         "source": "mostlyfoodandtravel.com",
         "url": "https://mostlyfoodandtravel.com/londons-dreamiest-hot-chocolates/"
       },
@@ -78034,6 +79463,11 @@
         "tier": "D",
         "source": "Insider Food (YouTube)",
         "url": "https://www.youtube.com/@InsiderFood"
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
       }
     ]
   },
@@ -112010,13 +113444,13 @@
       "hot-chocolate"
     ],
     "sourceCount": 8,
-    "tierSpread": "B2 C5 D1",
+    "tierSpread": "B2 C4 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "hot-chocolate": {
         "sourceCount": 8,
-        "tierSpread": "B2 C5 D1",
+        "tierSpread": "B2 C4 D2",
         "tierCount": 3,
         "hasAward": false
       }
@@ -112032,11 +113466,6 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london"
-      },
-      {
-        "tier": "C",
-        "source": "youtube.com/@Rayscafes",
-        "url": "https://www.youtube.com/@Rayscafes"
       },
       {
         "tier": "C",
@@ -112065,6 +113494,11 @@
         "source": "Insider Food (YouTube)",
         "url": "https://www.youtube.com/@InsiderFood",
         "quote": "72 kinds of chocolate all made in-house. The base is chocolate paste topped with hot milk, more froth, and three types of chocolate shavings."
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
       }
     ]
   },
@@ -112268,13 +113702,13 @@
       "hot-chocolate"
     ],
     "sourceCount": 9,
-    "tierSpread": "B2 C6 D1",
+    "tierSpread": "B2 C5 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "hot-chocolate": {
         "sourceCount": 9,
-        "tierSpread": "B2 C6 D1",
+        "tierSpread": "B2 C5 D2",
         "tierCount": 3,
         "hasAward": false
       }
@@ -112290,11 +113724,6 @@
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london",
         "quote": "Hot chocolate from £4.90."
-      },
-      {
-        "tier": "C",
-        "source": "youtube.com/@Rayscafes",
-        "url": "https://www.youtube.com/@Rayscafes"
       },
       {
         "tier": "C",
@@ -112329,6 +113758,11 @@
         "source": "Insider Food (YouTube)",
         "url": "https://www.youtube.com/@InsiderFood",
         "quote": "A London cafe that sells melted chocolate to drink out of decorative cups. Insider asks whether the Instagram-worthy drink is too gooey and over the top."
+      },
+      {
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
+        "url": "https://www.youtube.com/@Rayscafes"
       }
     ]
   },
@@ -112413,13 +113847,13 @@
       "hot-chocolate"
     ],
     "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "tierSpread": "B1 D1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hot-chocolate": {
         "sourceCount": 2,
-        "tierSpread": "B1 C1",
+        "tierSpread": "B1 D1",
         "tierCount": 2,
         "hasAward": false
       }
@@ -112431,8 +113865,8 @@
         "url": "https://www.theinfatuation.com/london/guides/best-hot-chocolate-london"
       },
       {
-        "tier": "C",
-        "source": "youtube.com/@Rayscafes",
+        "tier": "D",
+        "source": "Rayscafe (YouTube)",
         "url": "https://www.youtube.com/@Rayscafes"
       }
     ]

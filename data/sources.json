@@ -113,7 +113,13 @@
     "jkcomedyclub.co.uk",
     "europeancoffeetrip.com",
     "lamplitlondon.com",
-    "londonbest.uk"
+    "londonbest.uk",
+    "ventsmagazine.co.uk",
+    "wunderlustlondon.co.uk",
+    "phlexpresents.com",
+    "hampsteadvillagelondon.com",
+    "bobalista.com",
+    "reviewbritain.com"
   ],
   "domains": {
     "thegoodfoodguide.co.uk": {
@@ -274,6 +280,36 @@
     "secretldn.com": {
       "tier": "C",
       "name": "Secret London"
+    },
+    "squeezelondon.com": {
+      "tier": "C",
+      "name": "Squeeze London",
+      "note": "Registered 14 Sep 2026 (bubble tea). London-only WordPress archive, named writers; content-farm check passed."
+    },
+    "strandmagazine.co.uk": {
+      "tier": "C",
+      "name": "The Strand Magazine",
+      "note": "King's College London student magazine, bylined and edited. Wix, JS-rendered - read through the browser."
+    },
+    "youtube.com/@bykayse": {
+      "tier": "D",
+      "name": "Kayse (YouTube)"
+    },
+    "youtube.com/@ThreeManAbroad": {
+      "tier": "D",
+      "name": "Three Man Abroad (YouTube)"
+    },
+    "youtube.com/@iamyenlikethemoney": {
+      "tier": "D",
+      "name": "YEN (YouTube)"
+    },
+    "youtube.com/@MelaninMichie": {
+      "tier": "D",
+      "name": "MelaninMichie (YouTube)"
+    },
+    "youtube.com/@Rayscafes": {
+      "tier": "D",
+      "name": "Rayscafe (YouTube)"
     },
     "londontheinside.com": {
       "tier": "C",
@@ -1690,6 +1726,12 @@
     }
   },
   "excludedWhy": {
+    "ventsmagazine.co.uk": "GUEST-POST FARM (bubble tea, 14 Sep 2026): its London bubble tea list ranks 'Pearl Lemon Boba' first and calls Bubbledogs, a hot dog restaurant, a bubble tea shop.",
+    "wunderlustlondon.co.uk": "CONTENT FARM (14 Sep 2026): the WordPress archive is HVAC installers, bed bug exterminators, private investigators, LASIK clinics and mortgage brokers beside its food lists.",
+    "phlexpresents.com": "CONTENT FARM (14 Sep 2026): keyword-assembled travel posts promoting a trip-planner app ('Trip Management is Essential for Kew Gardens Visit').",
+    "hampsteadvillagelondon.com": "CONTENT FARM (14 Sep 2026): no dates, generic house author, 12,000+ archive pages of 'things to do' posts.",
+    "bobalista.com": "DIRECTORY of bubble tea shop listings, not a selection.",
+    "reviewbritain.com": "AGGREGATOR - '328 companies found' category page.",
     "europeancoffeetrip.com": "A DIRECTORY, not a selection. Its London page carries 204 cafes - close to every specialty coffee shop in the city - so it expresses no preference and naming a venue costs it nothing. Recording it would hand a citation to almost every venue in the corpus, and \"named by two sources\" would come to mean \"in the directory, plus one real list\". The same reasoning that bars a search-results page bars this.",
     "thatsup.co.uk": "On the excluded list since the SERP-first rebuild, with the aggregators. Reason not recorded at the time; the company it keeps - OpenTable, TripAdvisor, Yelp, Viator, Klook - says listings-led rather than edited.",
     "lamplitlondon.com": "AI SEO FARM (data/reference/hotel-corpus.md, 9 Sep 2026): 'The Lamplit Editors' desk byline, every guide the same 4-7 item length, raw keyword slugs beside written titles, complete grid coverage. Registered tier C by mistake; moved to excluded 14 Sep 2026. Still cited in data/consensus/markets.json.",

@@ -1,6 +1,46 @@
 {
   "note": "Venues that have CLOSED but which current 'best of' lists still recommend. Published guides are slow to update and some never do, so a closed venue keeps accruing source counts and looks better-supported the longer it has been shut. scripts/build-evidence.mjs drops anything listed here, and the write scripts refuse to add a row for one.\n\nEvery entry needs a date and at least one source. If a venue reopens, delete its entry rather than editing it to 'open'.",
   "venues": {
+    "the alley": {
+      "name": "The Alley",
+      "closed": "2026",
+      "detail": "Taiwanese bubble tea chain, once five London sites (Holborn, Mayfair, Camden, Hammersmith, Stratford). Google Maps lists the Holborn flagship at 272 High Holborn as permanently closed, and the-alley.uk reads 'Our UK store is reopening soon' with a notice warning against counterfeit franchises. Delete this entry when a UK store reopens.",
+      "stillRecommendedBy": ["theinfatuation.com", "standard.co.uk", "thehandbook.com", "secretldn.com", "wrapyourlipsaroundthis.com", "squeezelondon.com", "huesofdelahaye.com", "strandmagazine.co.uk", "youtube.com/@ThreeManAbroad", "youtube.com/@Rayscafes"],
+      "source": "https://the-alley.uk/",
+      "recorded": "2026-09-14"
+    },
+    "dragon cat cafe": {
+      "name": "Dragon Cat Cafe",
+      "closed": "2026",
+      "detail": "Taiwanese bubble tea and wheelcake cafe. Google Maps lists both the Livat Hammersmith cafe (Level 1, W6 9HW) and the Wheelcake Hut at 15 Little Newport St as permanently closed; dragoncatcafe.com now sells home kits and merchandise only. Time Out ranked it #2 of 10 in March 2026 and The Infatuation still listed it in June 2026.",
+      "stillRecommendedBy": ["timeout.com", "theinfatuation.com", "standard.co.uk", "thehandbook.com", "londonxlondon.com", "huesofdelahaye.com", "youtube.com/@ThreeManAbroad"],
+      "source": "https://www.google.com/maps/search/Dragon+Cat+Cafe+London",
+      "recorded": "2026-09-14"
+    },
+    "quaker street coffee and bubble tea": {
+      "name": "Quaker Street Coffee & Bubble Tea",
+      "closed": "2026",
+      "detail": "Quakers, 10 Quaker St, E1 6SZ. Google Maps lists it as permanently closed. Time Out ranked it #8 of 10 in March 2026.",
+      "stillRecommendedBy": ["timeout.com", "secretldn.com"],
+      "source": "https://www.google.com/maps/search/Quaker+Street+Coffee+%26+Bubble+Tea+E1",
+      "recorded": "2026-09-14"
+    },
+    "tealive": {
+      "name": "Tealive",
+      "closed": "2026",
+      "detail": "Malaysian bubble tea chain. Its only London site Google Maps can find, 56A Queensway W2 3RY, is permanently closed.",
+      "stillRecommendedBy": ["squeezelondon.com", "huesofdelahaye.com"],
+      "source": "https://www.google.com/maps/search/Tealive+London",
+      "recorded": "2026-09-14"
+    },
+    "coco fresh tea and juice": {
+      "name": "CoCo Fresh Tea & Juice",
+      "closed": "2026",
+      "detail": "Ground Floor, 52-53 Dean St, W1D 5BL - Google Maps lists it as permanently closed and finds no other London branch.",
+      "stillRecommendedBy": ["theinfatuation.com", "secretldn.com", "londonxlondon.com", "huesofdelahaye.com", "youtube.com/@Rayscafes"],
+      "source": "https://www.google.com/maps/search/CoCo+Fresh+Tea+Dean+Street+London",
+      "recorded": "2026-09-14"
+    },
     "locanda locatelli": {
       "name": "Locanda Locatelli",
       "closed": "2025-01",

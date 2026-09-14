@@ -470,6 +470,18 @@
     }
   },
   "venueExceptions": {
+    "T4": {
+      "topics": [
+        "bubble-tea"
+      ],
+      "why": "The Taiwanese bubble tea chain. Two characters, so minLength dropped all six citations silently on the first bubble tea build (14 Sep 2026)."
+    },
+    "HEYTEA": {
+      "topics": [
+        "bubble-tea"
+      ],
+      "why": "The Chinese tea chain styles itself in capitals; the ALL CAPS rule ate its three citations on the first bubble tea build (14 Sep 2026)."
+    },
     "Sunday": {
       "topics": [
         "breakfast-brunch",

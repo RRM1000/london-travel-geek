@@ -1,0 +1,36 @@
+{
+  "topic": "bubble-tea",
+  "article": "src/content/articles/best-bubble-tea-london.md",
+  "headTerm": "Bubble Tea",
+  "status": "Created 2026-09-14 from hot-chocolate.json. The user asked for the whole pass in one go (collect, record, sheet, article), so collection proceeded without the usual config-review stop. First pass complete 14 Sep 2026: 15 sources, article at best-bubble-tea-london, 29 sheet rows, trading checked via operator sites and Google Maps listings. Places enrichment NOT run (billed - ask first).",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. Narrow drink topic, the same shape as hot chocolate: its own search intent, and the sources that cover it cover almost nothing else.",
+  "awardBodies": [],
+  "theCountingProblem": "BUBBLE TEA IS MOSTLY CHAINS, AND SOURCES NAME THE BRAND, NOT THE BRANCH. Xing Fu Tang, Tiger Sugar, Gong Cha, Chatime, HEYTEA, Chagee and the rest each have one or several London shops, and a list that says 'Tiger Sugar' is not naming the Chinatown shop or the Bayswater one. Count the BRAND as the venue, and carry branches as detail, exactly as multi-branch chains are handled elsewhere. Where a source names a specific branch, keep the branch in the quote.\n\nSECOND PROBLEM: THE VENUE TYPE. Some places on these lists are dessert shops that also sell bubble tea (bingsoo, taiyaki, matcha soft serve). Where a source names one FOR its bubble tea it counts here; where it is named for dessert, it belongs in the dessert corpus. Trap 13 - check data/consensus/dessert.json before recording.\n\nTHIRD: CHURN. Bubble tea brands open and close fast in London, and a 2023 list can name a shop that is gone. Check trading status before anything reaches an article.",
+  "editorialLists": [
+    { "name": "Time Out", "domain": "timeout.com", "tier": "B", "ranked": "unknown", "note": "Confirm a current bubble tea page exists; check its date." },
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "tier": "B", "ranked": "unknown", "note": "Confirm a bubble tea guide exists before recording." },
+    { "name": "Secret London", "domain": "secretldn.com", "tier": "C", "ranked": false },
+    { "name": "Londonist", "domain": "londonist.com", "tier": "B", "ranked": "unknown", "note": "403s the fetcher; read through the browser." }
+  ],
+  "facetAxis": {
+    "field": "style",
+    "note": "Readers who want a brown sugar milk tea and readers who want a fruit tea are not choosing between the same shops.",
+    "values": [
+      { "key": "brown-sugar", "label": "Brown sugar and tiger milk tea", "describeAs": "fresh milk streaked with caramelised brown sugar syrup, pearls cooked in it" },
+      { "key": "classic-milk-tea", "label": "Classic milk tea", "describeAs": "black or oolong tea shaken with milk, pearls at the bottom" },
+      { "key": "fruit-tea", "label": "Fruit tea", "describeAs": "green or jasmine tea with fresh fruit, usually no milk" },
+      { "key": "cheese-foam", "label": "Cheese foam", "describeAs": "a salted cream-cheese cap floated on cold tea, drunk without a straw" },
+      { "key": "dessert", "label": "Dessert shops that serve it", "describeAs": "somewhere you go for bingsoo or soft serve, with bubble tea on the menu" }
+    ]
+  },
+  "formatSection": {
+    "title": "Chains and their branches",
+    "note": "Most of the names here are chains. Say which branch is the one to visit where it matters (the flagship, the one with seating) and otherwise say there are several."
+  },
+  "knownGaps": [
+    "NO JUDGED AWARD EXISTS for bubble tea in Britain, so the source-mix floor is THREE independent social voices.",
+    "Tier E (community) CANNOT be collected in this environment - Reddit is blocked to both the search agent and the browser. Record threads only if the user supplies them.",
+    "TikTok search runs through a paid Apify actor; not run without asking. YouTube (yt-dlp, free) is the tier D route used."
+  ],
+  "openVenueQuestions": []
+}

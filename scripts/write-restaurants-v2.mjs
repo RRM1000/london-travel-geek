@@ -120,6 +120,11 @@ const VOCAB = {
     // why "dessert" cannot carry it - a chocolate shop with no seating and a
     // gelateria that pours one are the same speciality and different formats.
     "hot-chocolate",
+    // bubble-tea, added 14 September 2026, passes the same test: its own
+    // corpus, its own search intent, its own page, and the sources that cover
+    // it cover almost nothing else. Mostly chains - one row per BRAND, with
+    // the branch the sources name as the hood.
+    "bubble-tea",
     // Modern European. "seasonal" describes SOURCING rather than a dish type -
     // the first speciality to do so - because that is what these kitchens are
     // actually selling: a menu that changes with what is available.
@@ -13844,6 +13849,224 @@ const rows = [
     source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - HOOD NOT GIVEN. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
   },
 
+  // ---------------------------------------------------------------------
+  // BUBBLE TEA, seeded 14 September 2026 from data/consensus/bubble-tea.json.
+  // One row per BRAND; hood is the branch the sources single out, blank where
+  // they only named the chain. Every venue on two or more sources, plus Cuppo
+  // Bubbo (Time Out #4 of 10). Trading and branches checked against operator
+  // sites before the article; Places has not been run.
+  // ---------------------------------------------------------------------
+  {
+    ...des, slug: "xing-fu-tang-soho", name: "Xing Fu Tang",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Soho",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 10 of 15 sources.",
+  },
+  {
+    ...des, slug: "the-alley-holborn", name: "The Alley",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Holborn",
+    lists: "bubble-tea",
+    status: "closed", statusChecked: "2026-09-14",
+    source: "CLOSED IN THE UK. Google Maps lists 272 High Holborn as permanently closed and the-alley.uk reads 'Our UK store is reopening soon' (14 Sep 2026). Named by ten sources, most of them written while it traded at five sites. Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 10 of 15 sources.",
+  },
+  {
+    ...des, slug: "kissaten-soho", name: "Kissaten",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Soho",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 8 of 15 sources.",
+  },
+  {
+    ...des, slug: "biju-bubble-tea-room", name: "Biju Bubble Tea Room",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Shoreditch",
+    lists: "bubble-tea",
+    status: "temporarily-closed", statusChecked: "2026-09-14",
+    source: "NOT TRADING. The Standard reported Soho and Camden closed in 2023; the only listing Google Maps now finds is Southbank Centre, marked temporarily closed, and bijububbletea.com has expired (14 Sep 2026). Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 8 of 15 sources.",
+  },
+  {
+    ...des, slug: "bubbleology-soho", name: "Bubbleology",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Stratford",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 8 of 15 sources.",
+  },
+  {
+    ...des, slug: "cuppacha-chinatown", name: "Cuppacha",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Chinatown",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 8 of 15 sources.",
+  },
+  {
+    ...des, slug: "t4-bubble-tea", name: "T4",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Paddington",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 8 of 15 sources.",
+  },
+  {
+    ...des, slug: "yunique-tea-chinatown", name: "Yunique Tea",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Chinatown",
+    lists: "bubble-tea",
+    status: "temporarily-closed", statusChecked: "2026-09-14",
+    source: "Google Maps lists 10 Little Newport St as temporarily closed; yunique.co.uk shows a maintenance page (14 Sep 2026). Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 8 of 15 sources.",
+  },
+  {
+    ...des, slug: "dragon-cat-cafe-hammersmith", name: "Dragon Cat Cafe",
+    style: "Bubble tea cafe", specialities: "bubble-tea",
+    hood: "Hammersmith",
+    lists: "bubble-tea",
+    status: "closed", statusChecked: "2026-09-14",
+    source: "CLOSED. Google Maps lists both Dragon Cat Cafe (Livat Hammersmith) and its Wheelcake Hut at 15 Little Newport St as permanently closed; dragoncatcafe.com now sells home kits only (14 Sep 2026). Time Out still ranks it #2 of 10 in March 2026. Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 7 of 15 sources.",
+  },
+  {
+    ...des, slug: "happy-lemon-chinatown", name: "Happy Lemon",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Chinatown",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 7 of 15 sources.",
+  },
+  {
+    ...des, slug: "yi-fang-fruit-tea-chinatown", name: "Yi Fang Fruit Tea",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "King's Cross",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 6 of 15 sources.",
+  },
+  {
+    ...des, slug: "coco-fresh-tea-soho", name: "CoCo Fresh Tea & Juice",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Soho",
+    lists: "bubble-tea",
+    status: "closed", statusChecked: "2026-09-14",
+    source: "CLOSED in London. Google Maps lists 52-53 Dean St as permanently closed and finds no other London branch (14 Sep 2026). Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 5 of 15 sources.",
+  },
+  {
+    ...des, slug: "ding-tea", name: "Ding Tea",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    // hood deliberately blank: sources named the chain, not a branch.
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 5 of 15 sources.",
+  },
+  {
+    ...des, slug: "woo-tea-chinatown", name: "Woo Tea",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Chinatown",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 5 of 15 sources.",
+  },
+  {
+    ...des, slug: "bubble-magik-ealing", name: "Bubble Magik",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Ealing",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 4 of 15 sources.",
+  },
+  {
+    ...des, slug: "mooboo", name: "Mooboo",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Camden",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 4 of 15 sources.",
+  },
+  {
+    ...des, slug: "heytea-soho", name: "HEYTEA",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Soho",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 3 of 15 sources.",
+  },
+  {
+    ...des, slug: "min-tea-chinatown", name: "Min Tea",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Chinatown",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 3 of 15 sources.",
+  },
+  {
+    ...des, slug: "chatime", name: "Chatime",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    // hood deliberately blank: sources named the chain, not a branch.
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 3 of 15 sources.",
+  },
+  {
+    ...des, slug: "lucky-tea-chinatown", name: "Lucky Tea",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Chinatown",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 3 of 15 sources.",
+  },
+  {
+    ...des, slug: "boba-coma-leyton", name: "Boba Coma",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Leyton",
+    lists: "bubble-tea",
+    status: "temporarily-closed", statusChecked: "2026-09-14",
+    source: "Google Maps lists 296 High Rd Leyton E10 5PW as temporarily closed (14 Sep 2026). Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 2 of 15 sources.",
+  },
+  {
+    ...des, slug: "quaker-street-coffee-bubble-tea", name: "Quaker Street Coffee & Bubble Tea",
+    style: "Cafe", specialities: "bubble-tea",
+    hood: "Spitalfields",
+    lists: "bubble-tea",
+    status: "closed", statusChecked: "2026-09-14",
+    source: "CLOSED. Google Maps lists Quakers, 10 Quaker St E1 6SZ, as permanently closed (14 Sep 2026). Time Out still ranks it #8 of 10. Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 2 of 15 sources.",
+  },
+  {
+    ...des, slug: "purcha", name: "Purcha",
+    style: "Bubble tea cafe", specialities: "bubble-tea",
+    hood: "Holborn",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 2 of 15 sources.",
+  },
+  {
+    ...des, slug: "the-whale-tea-queensway", name: "The Whale Tea",
+    style: "Bubble tea cafe", specialities: "bubble-tea",
+    hood: "Bayswater",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 2 of 15 sources.",
+  },
+  {
+    ...des, slug: "gong-cha", name: "Gong Cha",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Covent Garden",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 2 of 15 sources.",
+  },
+  {
+    ...des, slug: "bao-kings-cross", name: "BAO King's Cross",
+    style: "Taiwanese cafe", specialities: "bubble-tea",
+    hood: "King's Cross",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 2 of 15 sources.",
+  },
+  {
+    ...des, slug: "tealive", name: "Tealive",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    // hood deliberately blank: sources named the chain, not a branch.
+    lists: "bubble-tea",
+    status: "closed", statusChecked: "2026-09-14",
+    source: "CLOSED in London. The only London site Google Maps finds, 56A Queensway W2, is permanently closed (14 Sep 2026). Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 2 of 15 sources.",
+  },
+  {
+    ...des, slug: "jen-tea", name: "Jen Tea",
+    style: "Bubble tea shop", specialities: "bubble-tea",
+    hood: "Spitalfields",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 2 of 15 sources.",
+  },
+  {
+    ...des, slug: "cuppo-bubbo-herne-hill", name: "Cuppo Bubbo",
+    style: "Bubble tea cafe", specialities: "bubble-tea",
+    hood: "Herne Hill",
+    lists: "bubble-tea",
+    source: "Recorded from data/consensus/bubble-tea.json, collected 14 September 2026 - named by 1 of 15 sources.",
+  },
 ];
 
 // -------------------------------------------------------------- overrides ---

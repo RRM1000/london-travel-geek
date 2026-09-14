@@ -1,0 +1,307 @@
+{
+  "cuisine": "bubble-tea",
+  "note": "Bubble tea shops in London. Counted by BRAND, not branch (see theCountingProblem in data/topics/bubble-tea.json): a source naming 'T4 Paddington' and one naming 'T4 Westfield' are both T4, and the branch stays in the quote. Canonical names are ASCII so the normaliser cannot split Purcha from Pürcha or Dragon Cat Cafe from Dragon Cat Café.",
+  "recorded": "2026-09-14",
+  "knownGaps": [
+    "NO JUDGED AWARD for bubble tea exists in Britain, so every source here is editorial, blog or video. The source-mix floor is three social voices; five YouTube channels are recorded.",
+    "TIER E (Reddit) cannot be read in this environment. Two r/london threads surfaced in search - 'Where's the best Bubble Tea in London?' (sh5sk3) and 'Best and worst boba places?' (wibjls) - and are worth recording if the user can paste them.",
+    "TIKTOK not collected. The search surfaced @infatuation_london (same publisher as The Infatuation, so would not add a source), @brewnado and @mowchi.uk. Running the Apify actor costs money and was not done without asking.",
+    "CHURN IS HIGH. Several lists are 2022-2023 and the Standard itself reported Biju's Soho and Camden sites and Dragon Cat's first Hammersmith site closed. The Infatuation marks Gong Cha Goodge Street permanently closed. Every name needs a trading check before print."
+  ],
+  "sources": [
+    {
+      "name": "Time Out - The best places to try bubble tea in London",
+      "url": "https://www.timeout.com/london/restaurants/the-best-places-to-try-bubble-tea-in-london",
+      "scope": "bubble-tea",
+      "tier": "B",
+      "note": "RANKED 1-10, dated 6 March 2026, by Alice Saville. The freshest masthead list in the topic.",
+      "names": ["Xing Fu Tang", "Dragon Cat Cafe", "Kissaten", "Cuppo Bubbo", "Biju Bubble Tea Room", "Bubbleology", "Boba Coma", "Quaker Street Coffee & Bubble Tea", "Cuppacha", "Purcha"],
+      "quotes": {
+        "Xing Fu Tang": "#1 of 10, Time Out. Whips up hourly batches of pearls in a huge cauldron; house special is a brown sugar milk topped with freshly blowtorched sugar.",
+        "Dragon Cat Cafe": "#2 of 10, Time Out. Hammersmith spot with a cult following for not-too-sweet flavours; cream cloud tea is a speciality, plus wheelcakes and Taiwanese snacks.",
+        "Kissaten": "#3 of 10, Time Out. Japanese-style Soho shop, pricier than most; housemade honey tapioca pearls, yoghurt popping pearls, order via a screen, long queues.",
+        "Cuppo Bubbo": "#4 of 10, Time Out. Herne Hill cafe with more seating than most, around a giant money tree plant; freshly brewed tea, rose bubble tea with real petals, cheese crowns.",
+        "Biju Bubble Tea Room": "#5 of 10, Time Out (as 'Biju'). Organic milk only, no powder, loose-leaf tea brewed to order; Earl Grey, rooibos and matcha options.",
+        "Bubbleology": "#6 of 10, Time Out. London's first bubble tea shop when it opened in 2011; boozy bubble teas at the Soho bar.",
+        "Boba Coma": "#7 of 10, Time Out. Leyton; South Asian flavours - kulfi, karak, rose - with Taiwanese technique, and a boba mural.",
+        "Quaker Street Coffee & Bubble Tea": "#8 of 10, Time Out (as 'Quaker Street Coffee and Bubble tea'). Shoreditch cafe with coffee, bubble tea, cakes and murals by Suflo.",
+        "Cuppacha": "#9 of 10, Time Out. Long line most days on Chinatown's Newport Court, nearly a decade trading; butterfly pea ombre drinks and Oreo specials.",
+        "Purcha": "#10 of 10, Time Out (as 'Pürcha'). Purified mineral water and tea brewed to order; branches in Kingsway, Charing Cross and Croydon, with seating and Taiwanese fried chicken."
+      }
+    },
+    {
+      "name": "The Infatuation - The 15 Best Bubble Teas In London",
+      "url": "https://www.theinfatuation.com/london/guides/best-places-to-drink-bubble-tea-london",
+      "scope": "bubble-tea",
+      "tier": "B",
+      "note": "UNORDERED, no ranks carried. Published January 2022, modified 12 June 2026. Written by Rianne Shlebak. The page flags its Gong Cha Goodge Street entry as permanently closed.",
+      "names": ["Cuppacha", "Kissaten", "Happy Lemon", "Xing Fu Tang", "The Whale Tea", "HEYTEA", "T4", "Dragon Cat Cafe", "Gong Cha", "The Alley", "CoCo Fresh Tea & Juice", "Bubbleology", "Min Tea", "Bubble Magik", "Yunique Tea"],
+      "quotes": {
+        "Cuppacha": "Bright pink shop on Newport Court. Order: mango fruit tea with popping boba - sweetness isn't overpowering.",
+        "Kissaten": "72 Old Compton Street. Order: Earl Grey milk tea; honey tapioca; gachapon machines while you wait.",
+        "Happy Lemon": "24A Newport Court. Order: milk tea with Oreo cookies and cream - 'we're more into the milk teas here'.",
+        "Xing Fu Tang": "29 Frith Street. Order: mango smoothie with rabbit panna cotta; 'isn't style over tapioca substance'.",
+        "The Whale Tea": "18 Queensway, a couple of tables, near Hyde Park. Order: milk tea boba, 'tastes a little like cereal milk'.",
+        "HEYTEA": "Wingate House, Shaftesbury Avenue (as 'Heytea (Soho)'). Order: supreme brown sugar milk tea with cheese foam.",
+        "T4": "T4 Paddington, 4B Praed Street - 'no matter which branch you're at, you'll get a great bubble tea'. Order: Oreo potted milk tea.",
+        "Dragon Cat Cafe": "Level 1, Livat, Hammersmith - 'the kind of bubble tea we cross London for'. Order: hot Oreo milk tea.",
+        "Gong Cha": "Gong Cha Goodge Street, 22 Goodge Street - the page itself now marks this branch PERMANENTLY CLOSED. Order was the iced 'Dirtea'.",
+        "The Alley": "272 High Holborn (as 'The Alley 鹿角巷'). Order: brown sugar deerioca creme brulee milk tea.",
+        "CoCo Fresh Tea & Juice": "52 Dean Street - always a queue. Tea brewed to order. Order: pearl milk tea.",
+        "Bubbleology": "49 Rupert Street, Soho. Order: mango and passion fruit iced tea with lychee boba.",
+        "Min Tea": "34 Newport Court (as 'Min Tea 抿茶'). Order: cheesy milk tea with Oreo bits - cheese foam done well.",
+        "Bubble Magik": "Unit 20 The Broadway, Ealing - cupboard-sized, shaker machine. Order: mango iced tea with passion fruit boba.",
+        "Yunique Tea": "10 Little Newport Street (as 'Yunique Bubble Tea'). Order: Oreo milk tea or brown sugar bubble fresh milk."
+      }
+    },
+    {
+      "name": "Evening Standard - London's best bubble tea",
+      "url": "https://www.standard.co.uk/going-out/foodanddrink/london-best-bubble-tea-shops-b1056524.html",
+      "scope": "bubble-tea",
+      "tier": "B",
+      "note": "UNORDERED. 30 January 2023, by Mike Daw. The Standard's 2017 list at /londons-best-bubble-tea-a3506081.html is the SAME DOMAIN and nine years stale, so it is declined rather than counted as a second opinion.",
+      "names": ["The Alley", "BAO King's Cross", "Biju Bubble Tea Room", "Dragon Cat Cafe", "Happy Lemon", "GoNuts"],
+      "quotes": {
+        "The Alley": "'A bubble tea success story' - five sites: Holborn, Mayfair, Camden, Hammersmith, Stratford Westfield.",
+        "BAO King's Cross": "(as 'BAO Kings Cross'), Unit 2, 4 Pancras Square. Bubble teas from the to-go counter, 'something of a gem' - a simple oolong or fresh milk.",
+        "Biju Bubble Tea Room": "(as 'Biju'). Runs a site at Boxpark Shoreditch; 'past London locations in Soho and Camden now appear closed'. Fresh milk, loose leaf; roasted brown sugar and salted cream boba.",
+        "Dragon Cat Cafe": "Original Hammersmith outpost closed mid-January 2023; a temporary residency on Little Newport Street followed. Wheelcakes and classic bubble teas.",
+        "Happy Lemon": "Busy Chinatown hangout; rock salt cheese topping.",
+        "GoNuts": "(as 'GoNuts bubble tea'). Pastel cafe, affordable, fresh milk teas, brown sugar pearls, cream cheese foam series."
+      }
+    },
+    {
+      "name": "The Handbook - Time For Tea: London's 11 Best Bubble Tea Shops",
+      "url": "https://www.thehandbook.com/londons-best-bubble-tea-shops/",
+      "scope": "bubble-tea",
+      "tier": "B",
+      "note": "UNORDERED. 17 July 2023, by Lottie Woodrow. Returns 403 to the fetcher; read through the browser.",
+      "names": ["Xing Fu Tang", "The Alley", "Mooboo", "Dragon Cat Cafe", "Kissaten", "Ding Tea", "Yunique Tea", "Happy Lemon", "Biju Bubble Tea Room", "Chatime", "Bubbleology"],
+      "quotes": {
+        "Xing Fu Tang": "29 Frith Street. Gold foil brown sugar milk tea.",
+        "The Alley": "272 High Holborn. Own sugar cane syrup and deerioca; ube taro brown sugar deerioca creme brulee.",
+        "Mooboo": "Various locations incl. Hammersmith, Knightsbridge, Camden. Passion and mango, honeydew, taro.",
+        "Dragon Cat Cafe": "18A Broadway Shopping Centre, Hammersmith. Fresh fruit, fresh tea, cream clouds, wheelcakes.",
+        "Kissaten": "30 Brewer Street. Build-your-own; hojicha salted cheese, wheat flake milk tea.",
+        "Ding Tea": "Kingston and New Malden. Crystal pearl winter melon oolong.",
+        "Yunique Tea": "(as 'Yunique'). 10 Little Newport Street. Red bean milk tea, watermelon tea with lychee.",
+        "Happy Lemon": "24A Newport Court. Rock salted cheese series.",
+        "Biju Bubble Tea Room": "(as 'Biju'). Founded 2015 by Nicholas Phan after a research trip to Taiwan. Honeydew melon milk tea.",
+        "Chatime": "Grows its own tea in Nantou, Taiwan. Lychee chrysanthemum slush.",
+        "Bubbleology": "Alcoholic teas like 'The Majestic Butterfly' and 'Oreo Madness'."
+      }
+    },
+    {
+      "name": "Secret London - Bubble Tea In London: 10 Of The Best Places",
+      "url": "https://secretldn.com/bubble-tea-in-london/",
+      "scope": "bubble-tea",
+      "tier": "C",
+      "note": "NUMBERED BUT UNORDERED ('the first spot on our list'), no ranks carried. 13 July 2022, bylined only 'Secret London'. THE DESCRIPTIONS ARE UNRELIABLE and must never be paraphrased into an article: it calls Biju 'Indian-style', Quaker Street 'scientific-themed' and Cuppacha 'solely organic... dairy-free'. The names are recorded; the claims are not trusted.",
+      "names": ["Bubbleology", "Bubblewrap", "Happy Lemon", "Biju Bubble Tea Room", "Quaker Street Coffee & Bubble Tea", "Xing Fu Tang", "Cuppacha", "The Alley", "Yunique Tea", "CoCo Fresh Tea & Juice"],
+      "quotes": {
+        "Bubbleology": "Listed first; a chain that started in London.",
+        "Bubblewrap": "Named as a bubble tea spot doing waffle-wrapped drinks.",
+        "Happy Lemon": "Fresh lemon series and lemon smoothies.",
+        "Biju Bubble Tea Room": "(as 'Biju Bubble Tea').",
+        "Quaker Street Coffee & Bubble Tea": "Customised drinks.",
+        "Xing Fu Tang": "Fresh milk and brown sugar syrup.",
+        "Cuppacha": "(as 'Cuppacha Bubble Tea').",
+        "The Alley": "Ube creme brulee bubble tea, 'one of the best drinks you'll ever taste'.",
+        "Yunique Tea": "(as 'Yunique Bubble Tea'). Oreo with milk, matcha with grass jelly.",
+        "CoCo Fresh Tea & Juice": "Fast, good-humoured staff."
+      }
+    },
+    {
+      "name": "Wrap Your Lips Around This - The Ultimate Guide To The Best Bubble Tea In London",
+      "url": "https://wrapyourlipsaroundthis.com/best-bubble-tea-in-london/",
+      "scope": "bubble-tea",
+      "tier": "C",
+      "note": "NUMBERED BY CATEGORY ('for the best hojicha', 'for the best brown sugar'), not a ranking - no ranks carried. Published 6 June 2025, modified 27 July 2026. The writer names Xing Fu Tang as their overall favourite. Taiyakiya and Tsujiri are dessert shops, recorded here because the page names them FOR their bubble tea (trap 13).",
+      "names": ["Tsujiri", "T4", "Woo Tea", "Xing Fu Tang", "Bubble Magik", "The Alley", "Yi Fang Fruit Tea", "Taiyakiya", "Min Tea"],
+      "quotes": {
+        "Tsujiri": "(as 'Tsujiru, Chinatown'). For the best hojicha bubble tea in London.",
+        "T4": "(as 'T4, Westfield'). For the best Assam milk bubble tea; whole tea leaves, not bags or powders.",
+        "Woo Tea": "Chinatown. For the best roasted oolong bubble tea - nutty, buttery, almost smoky.",
+        "Xing Fu Tang": "Soho. For the best brown sugar bubble tea; 'My overall favourite place to drink boba is Xing Fu Tang'.",
+        "Bubble Magik": "(as 'Bubble Majik, Ealing Broadway'). For the original Assam bubble tea.",
+        "The Alley": "Holborn. Natural cane sugars; handmade 'deerioca'; 'cult following'.",
+        "Yi Fang Fruit Tea": "(as 'Yifang Fruit Tea, Chinatown'). For the best fruity bubble tea.",
+        "Taiyakiya": "Chinatown. For the best matcha bubble tea in Chinatown - malty, frothy.",
+        "Min Tea": "Chinatown. For the cheesiest bubble tea in London - one of few with cheese foam."
+      }
+    },
+    {
+      "name": "Squeeze London - 12 Best Places To Buy Bubble Tea In London",
+      "url": "https://squeezelondon.com/best-bubble-tea-in-london/",
+      "scope": "bubble-tea",
+      "tier": "C",
+      "note": "NUMBERED BUT UNORDERED listicle. 22 July 2024, by Chanel Campbell. Content-farm check passed: the WordPress archive is London-only (Shoreditch pubs, Notting Hill bakeries, Camden Market), steady output since 2024, no off-topic commercial posts.",
+      "names": ["Biju Bubble Tea Room", "Bubbleology", "Yunique Tea", "T4", "The Alley", "Kissaten", "Mooboo", "Happy Lemon", "Yi Fang Fruit Tea", "Woo Tea", "Tealive", "Chatime"],
+      "quotes": {
+        "Biju Bubble Tea Room": "(as 'Biju Bubble Tea'). Owner grew up in Singapore, a 'self-professed boba connoisseur'.",
+        "Bubbleology": "Over 10 locations; cocktail versions.",
+        "Yunique Tea": "(as \"Yunique 'The Bear' Bubble Tea\"). First London shop 2019.",
+        "T4": "Never bags or powder.",
+        "The Alley": "Own sugar cane syrup and deerioca.",
+        "Kissaten": "Hand-crafted honey, rose and taro tapioca.",
+        "Mooboo": "Over 70 UK locations, founded 2012.",
+        "Happy Lemon": "First European store in Chinatown.",
+        "Yi Fang Fruit Tea": "(as 'Yi Fang'). Named for the founder's grandmother's pineapple jam.",
+        "Woo Tea": "Purple potato oolong with tapioca.",
+        "Tealive": "(as 'Tea Live').",
+        "Chatime": "35 UK stores."
+      }
+    },
+    {
+      "name": "London x London - Where to Find the Best Bubble Tea in London",
+      "url": "https://www.londonxlondon.com/bubble-tea-london/",
+      "scope": "bubble-tea",
+      "tier": "C",
+      "note": "UNORDERED. Published 21 July 2022, modified 21 July 2023, by Lauren Kendrick.",
+      "names": ["Cuppacha", "Bubbleology", "Xing Fu Tang", "CoCo Fresh Tea & Juice", "Biju Bubble Tea Room", "Happy Lemon", "Mooboo", "Bubble Magik", "Yunique Tea", "Ding Tea", "Truedan", "Nuttea", "Dragon Cat Cafe"],
+      "quotes": {
+        "Cuppacha": "(as 'Cuppacha Chinatown'). 'Some of the best bubble tea in Chinatown'.",
+        "Xing Fu Tang": "'For the best Taiwanese bubble tea in London'.",
+        "Biju Bubble Tea Room": "'One of the OG bubble tea shops in London'.",
+        "Happy Lemon": "'For the best bubble tea in Chinatown'.",
+        "Bubble Magik": "(as 'Bubble Majik'), Ealing Broadway.",
+        "Ding Tea": "New Malden, Angel.",
+        "Truedan": "Brunswick Centre, Bloomsbury.",
+        "Nuttea": "Soho; dairy-free nut milk tea.",
+        "Dragon Cat Cafe": "Hammersmith, Chinatown."
+      }
+    },
+    {
+      "name": "Hues of Delahaye - Best Bubble Tea in London Guide",
+      "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/",
+      "scope": "bubble-tea",
+      "tier": "C",
+      "note": "UNORDERED, grouped by area. Published 2 November 2021, modified 16 October 2022, by Donna-Kay. The same blog's 'Best Bubble Tea In Chinatown' page (/best-bubble-tea-in-chinatown-london/, 2023) is the SAME DOMAIN and adds no name absent here, so it is not recorded separately. 'Cafe Bao' at 4 Pancras Square is the Standard's 'BAO Kings Cross' - same address.",
+      "names": ["Chatime", "Tealive", "Dragon Cat Cafe", "Biju Bubble Tea Room", "Yi Fang Fruit Tea", "Cuppacha", "CoCo Fresh Tea & Juice", "Xing Fu Tang", "Happy Lemon", "Kissaten", "The Alley", "Woo Tea", "Yunique Tea", "Min Tea", "Bubbleology", "Ding Tea", "T4", "Mooboo", "BAO King's Cross"],
+      "quotes": {
+        "Dragon Cat Cafe": "'Hands down the best bubble tea in London'.",
+        "Xing Fu Tang": "(as 'Xing Fu Tang London'). Pearls made in-house in front of you; brown sugar boba 'the absolute best'.",
+        "Kissaten": "(as 'Kissaten Bubble Tea Soho').",
+        "Cuppacha": "(as 'Cuppacha Bubble Tea Chinatown'). Pink exterior and the long queue.",
+        "Woo Tea": "Handmade oolong artisan bubble tea.",
+        "Ding Tea": "Black sesame milk tea.",
+        "T4": "(as 'T4 Bubble Tea').",
+        "BAO King's Cross": "(as 'Cafe Bao'), 4 Pancras Square. Oolong bubble tea is the best of a few classics; takeaway section."
+      }
+    },
+    {
+      "name": "The Strand Magazine - The Ultimate Sip: London's Top 10 Bubble Tea Havens",
+      "url": "https://www.strandmagazine.co.uk/single-post/the-ultimate-sip-london-s-top-10-bubble-tea-havens",
+      "scope": "bubble-tea",
+      "tier": "C",
+      "note": "RANKED, counted down 10 to 1. 19 December 2023, by Hebe Hancock, edited by the food and drink editor - King's College London's student magazine. JS-rendered (Wix); read through the browser. Deliberately leaves out Bubbleology.",
+      "names": ["The Whale Tea", "Gong Cha", "HEYTEA", "Lucky Tea", "The Alley", "Yi Fang Fruit Tea", "Xing Fu Tang", "Milksha", "T4", "Cuppacha"],
+      "quotes": {
+        "The Whale Tea": "#1 of 10, The Strand (as 'Whale Tea'). 'The store's brown sugar boba is the best in London.' Flagship 45 Wardour Street, 7 London locations.",
+        "Gong Cha": "#2 of 10, The Strand. 3 Garrick Street. Milk foam matcha strawberry milk tea; yoghurt popping pearls.",
+        "HEYTEA": "#3 of 10, The Strand (as 'Hey Tea'). Wingate House, Shaftesbury Avenue - its first store outside Asia; cheese brew drinks.",
+        "Lucky Tea": "#4 of 10, The Strand. 35 Newport Street; slushies, grape slushie with cheese milk foam and crystal boba.",
+        "The Alley": "#5 of 10, The Strand. Brown sugar deerioca creme brulee milk; flagship 272 High Holborn.",
+        "Yi Fang Fruit Tea": "#6 of 10, The Strand (as 'Yi Fang'). 'Dominates the fruit tea scene'; flagship 104 Shaftesbury Avenue.",
+        "Xing Fu Tang": "#7 of 10, The Strand. 'Renowned for serving the best brown sugar bubble tea in the city'; 29 Frith Street.",
+        "Milksha": "#8 of 10, The Strand. 65 Shaftesbury Avenue; honey pearls.",
+        "T4": "#9 of 10, The Strand. Strand store at 137 Strand; Earl Grey milk tea with French pudding.",
+        "Cuppacha": "#10 of 10, The Strand. 23 Newport Court; the classic pearl milk tea for beginners."
+      }
+    },
+    {
+      "name": "Kayse (YouTube) - Rating the BEST Bubble Tea Spots in London",
+      "url": "https://www.youtube.com/@bykayse",
+      "scope": "bubble-tea",
+      "tier": "D",
+      "note": "Video https://www.youtube.com/watch?v=OYc3bN0w5h4, 6 August 2025. London-based creator. Names from the chapter markers. No gifted or ad disclosure in the description. 'Yi Cha' is recorded as the chapter spells it and not merged with anything.",
+      "names": ["Bubble Magik", "HEYTEA", "Yi Cha", "T4", "Lucky Tea", "Purcha"],
+      "quotes": {
+        "HEYTEA": "Chapter 'Hey Tea'.",
+        "Purcha": "Chapter 'Purcha'."
+      }
+    },
+    {
+      "name": "Three Man Abroad (YouTube) - THE BEST BUBBLE TEA SPOTS IN LONDON",
+      "url": "https://www.youtube.com/@ThreeManAbroad",
+      "scope": "bubble-tea",
+      "tier": "D",
+      "note": "Video https://www.youtube.com/watch?v=wnR5aetK6WI, 22 October 2022. Names from the chapter markers, which misspell several ('Dragons Cat Cafe', 'Kisseten', 'Cappacha', 'Yunique Bear Tea'). No disclosure.",
+      "names": ["Dragon Cat Cafe", "Kissaten", "Cuppacha", "Yunique Tea", "The Alley", "Ding Tea", "Boba Coma"],
+      "quotes": {
+        "Dragon Cat Cafe": "Chapter 'Dragons Cat Cafe'.",
+        "Kissaten": "Chapter 'Kisseten'.",
+        "Cuppacha": "Chapter 'Cappacha'.",
+        "Yunique Tea": "Chapter 'Yunique Bear Tea'."
+      }
+    },
+    {
+      "name": "YEN (YouTube) - Trying London's Most Popular Bubble Tea Spots, Taro Milk Tea Edition",
+      "url": "https://www.youtube.com/@iamyenlikethemoney",
+      "scope": "bubble-tea",
+      "tier": "D",
+      "note": "Video https://www.youtube.com/watch?v=PHIvU_haO74, 29 September 2024. Same drink (taro milk tea) at five shops. Names from chapters and the keyword list. No disclosure.",
+      "names": ["Jen Tea", "Golden Tea", "Ding Tea", "Xing Fu Tang", "T4"],
+      "quotes": {
+        "Jen Tea": "Chapter 'JEN Tea Review'.",
+        "Xing Fu Tang": "Chapter 'Xin Fu Tang Review'."
+      }
+    },
+    {
+      "name": "MelaninMichie (YouTube) - finding the BEST bubble tea in Chinatown, London",
+      "url": "https://www.youtube.com/@MelaninMichie",
+      "scope": "bubble-tea",
+      "tier": "D",
+      "note": "Video https://www.youtube.com/watch?v=aO4TJ24aRUM, 13 June 2021. Names from chapter markers, phonetically spelled. A chapter titled 'Sunrise' could not be matched to any Chinatown shop and is NOT recorded. No disclosure.",
+      "names": ["Xing Fu Tang", "Woo Tea", "Yi Fang Fruit Tea", "Kissaten"],
+      "quotes": {
+        "Xing Fu Tang": "Chapter 'Zing Zutang'.",
+        "Yi Fang Fruit Tea": "Chapter 'Yifang'.",
+        "Kissaten": "Chapter 'Kisserton'."
+      }
+    },
+    {
+      "name": "Rayscafe (YouTube) - Top 10 Bubble Tea in London",
+      "url": "https://www.youtube.com/@Rayscafes",
+      "scope": "bubble-tea",
+      "tier": "D",
+      "note": "Video https://www.youtube.com/watch?v=Q3OjLl9QsmQ, 26 November 2020. The description lists the top 10 ('tried at least over 30 bubble tea stores... been to them multiple times each') plus five further recommendations. Listed, not ranked. The Uber Eats referral code is a generic affiliate link, not a venue disclosure.",
+      "names": ["Kissaten", "Yi Fang Fruit Tea", "Woo Tea", "Jen Tea", "Lucky Tea", "T4", "Machi Machi", "The Alley", "Yunique Tea", "Tea Stall", "Biju Bubble Tea Room", "Bobar", "Bubbleology", "CoCo Fresh Tea & Juice", "Cuppacha"],
+      "quotes": {
+        "Yi Fang Fruit Tea": "Top 10 (as 'Yi Fang').",
+        "Biju Bubble Tea Room": "'Others I recommended after the above' (as 'Biju').",
+        "Bobar": "'Others I recommended after the above'.",
+        "Bubbleology": "'Others I recommended' - 'my first bubble tea experience, when there was only 2 bubble stores in London'.",
+        "CoCo Fresh Tea & Juice": "'Others I recommended' (as 'CoCo').",
+        "Cuppacha": "'Others I recommended'."
+      }
+    }
+  ],
+  "declined": [
+    { "name": "Thatsup London - Where to go for bubble tea in London", "url": "https://thatsup.co.uk/london/guide/the-best-bubble-tea-in-london/", "reason": "thatsup.co.uk is on the EXCLUDED list in data/sources.json (listings-led, kept with OpenTable and Yelp). The page is a 29-name directory that includes Pearl Lemon Boba." },
+    { "name": "LondonBest - The 16 Best Bubble Tea Spots in London", "url": "https://londonbest.uk/bubble-tea/", "reason": "londonbest.uk is on the EXCLUDED list. Author 'londonbestad', every entry an 'Information and Reviews' block - a Google Maps scrape." },
+    { "name": "Vents Magazine - The Ultimate London Bubble Tea Bucket List", "url": "https://ventsmagazine.co.uk/london-bubble-tea-bucket-list-must-try-shops-drinks/", "reason": "CONTENT FARM / GUEST POST. Ranks 'Pearl Lemon Boba' first and lists Bubbledogs (a hot dog and champagne restaurant) as a bubble tea shop." },
+    { "name": "Wunderlust London - Sips and the city", "url": "https://www.wunderlustlondon.co.uk/best-bubble-tea-shops-london/", "reason": "CONTENT FARM. The WordPress archive for September 2026 is HVAC installers, bed bug exterminators, private investigators, LASIK clinics and mortgage brokers." },
+    { "name": "PHLEX - Top 7 Bubble Tea Spots in London", "url": "https://phlexpresents.com/top-7-must-try-bubble-tea-spots-in-london/", "reason": "CONTENT FARM. Events/app company; archive is keyword-assembled travel posts ('In what ways a trip organizer app can help?', 'Trip Management is Essential for Kew Gardens Visit')." },
+    { "name": "Hampstead Village London - 8 Best Bubble Tea in London", "url": "https://hampsteadvillagelondon.com/bubble-tea-london/", "reason": "CONTENT FARM. No date, generic house author, homepage paginates past 12,000 pages of 'things to do' posts." },
+    { "name": "Chinatown London - The 9 Best Bubble Tea Shops in Chinatown", "url": "https://chinatown.co.uk/en/get-inspired/bubble-tea-day-chinatown/", "reason": "THE LANDLORD'S OWN SITE promoting its tenants ('top-rated' by Google score) - tier F in substance whatever the registry says." },
+    { "name": "That Bubble Tea Blog - Tier list", "url": "https://thatbubbleteablog.wordpress.com/tier-list/", "reason": "NOT LONDON (trap 12). A Melbourne-based blog - prices in dollars, branches tagged Moonee Ponds, Sydney, Malaysia, China." },
+    { "name": "Evening Standard - London's best bubble tea (2017)", "url": "https://www.standard.co.uk/going-out/restaurants/londons-best-bubble-tea-a3506081.html", "reason": "SAME DOMAIN as the 2023 Standard record, and dated 3 May 2017. Named Biju, Cuppacha, Mooboo, Happy Lemon, Bubbleology, Amanzi." },
+    { "name": "Londonist - bubble tea tag", "url": "https://londonist.com/tags/bubble-tea", "reason": "No current bubble tea guide - the tag holds a weird-drinks roundup and an old 'bubble tea tour'." },
+    { "name": "Bobalista, ReviewBritain, Yelp, Wanderlog", "url": "https://bobalista.com/locations/london", "reason": "AGGREGATORS / DIRECTORIES - listings, not an edited opinion." },
+    { "name": "RestroSpot (YouTube) - Top 10 Best Blaces Bubble Tea in London", "url": "https://www.youtube.com/results?search_query=RestroSpot+bubble+tea+London", "reason": "Low-effort generated video: 89 views, misspelled title, chapter names garbled ('Koo Bubo', 'Beu', 'Persia'). No evidence of a visit." },
+    { "name": "Unicorn ToyParty (YouTube) - 10 Best Bubble Tea in London [2020]", "url": "https://www.youtube.com/results?search_query=Unicorn+ToyParty+10+Best+Bubble+Tea+in+London", "reason": "Toy channel with a compiled list, chapter names garbled ('Kiss A 10', 'Putang', 'China Town'); no visit." }
+  ],
+  "openVenueQuestions": [
+    "Kayse's 'Yi Cha' chapter - a real shop, or a mishearing? Recorded unmerged.",
+    "Ding Tea - Angel is permanently closed and the New Malden address now lists as Multea Choice. Kingston not checked. No entry until a trading branch is confirmed.",
+    "Chatime - no London branch found on Google Maps; Companies House shows its Chinatown company proposed for strike-off. No entry.",
+    "Tsujiri and Taiyakiya - named for bubble tea by one blog, but neither operator site shows bubble tea. Recorded as the source wrote them; not given entries."
+  ],
+  "resolvedVenueQuestions": [
+    "TRADING CHECK 14 Sep 2026 (operator sites, then Google Maps listings). CLOSED and added to data/closed.json: The Alley (UK site 'reopening soon'; Holborn permanently closed), Dragon Cat Cafe (Livat Hammersmith and Little Newport St wheelcake hut both permanently closed), Quaker Street Coffee & Bubble Tea, Tealive (Queensway), CoCo Fresh Tea & Juice (Dean St, no other London branch).",
+    "TEMPORARILY CLOSED, rows marked, no entry: Biju (only listing Southbank Centre), Yunique Tea (10 Little Newport St), Boba Coma (296 High Rd Leyton).",
+    "BRANCH MOVED: Bubbleology - Soho (49 Rupert St) and Bloomsbury (40a Museum St) permanently closed, Westfield Stratford City open. Yi Fang - Chinatown (104 Shaftesbury Ave) permanently closed, 150 Gray's Inn Rd open. Gong Cha - Goodge St closed, 3 Garrick St open.",
+    "OPEN: Xing Fu Tang (29 Frith St; 122 Middlesex St), Kissaten (72 Old Compton St - not Brewer St), Cuppacha (23 Newport Ct; 395 Edgware Rd), T4 (4B Praed St, 137 Strand, Westfield Stratford, Westfield London), Happy Lemon (24A Newport Ct), Woo Tea (26 Wardour St), Bubble Magik (Ealing Broadway; Selfridges), Mooboo (84 Parkway), HEYTEA (93-107 Shaftesbury Ave), Min Tea (34 Newport Ct), Lucky Tea (35 Newport Ct), Purcha (7 Kingsway; 82 Charing Cross Rd; Croydon), The Whale Tea (18 Queensway; 45 Wardour St), BAO King's Cross (4 Pancras Sq, bubble tea to go), Jen Tea (16 Artillery Passage), Cuppo Bubbo (167 Herne Hill)."
+  ]
+}

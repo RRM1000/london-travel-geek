@@ -198,6 +198,7 @@ The one to know about rather than book: **The Chocolate Cocktail Club** runs bot
 - 🍰 **[Afternoon tea in London](/articles/best-afternoon-tea-london/)** — every room, every price
 - 🍦 **[Best ice cream in London](/articles/best-ice-cream-london/)** — several of these shops appear on both
 - ☕ **[Best coffee in London](/articles/best-coffee-london/)** — the other winter drink
+- 🧋 **[Best bubble tea in London](/articles/best-bubble-tea-london/)** — the summer counter drink, several of them round the corner from Chin Chin
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)** — markets, lights and what is worth queueing for
 
 *Prices, addresses and trading status checked against each venue's own website and Google's business records on 7 September 2026. Source counts are derived from data/consensus/hot-chocolate.json, not typed by hand.*
