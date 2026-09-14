@@ -17,7 +17,7 @@ tags: [street art, Banksy, free things to do, things to do, Shoreditch]
 draft: false
 faq:
   - q: "Where can I see Banksy in London?"
-    a: "Fifteen works are still viewable as originals. In central London, nine of them sit on one walkable line from Waterloo Place to Brick Lane: Blind Patriotism, the 2026 statue; the Stargazing Children at Centre Point; the Cannon Street and Chiswell Street rats; two 2017 Basquiat tributes in the Beech Street tunnel; two 2004 stencils rescued from The Foundry on art'otel Hoxton; and the Pink Car at the Old Truman Brewery. Of the 2024 animal series only the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino remain in place."
+    a: "Fifteen works are still viewable as originals. Ten of them fit on one route from Waterloo Place to Stoke Newington, walking with one Tube ride and one Overground train: Blind Patriotism, the 2026 statue; the Stargazing Children at Centre Point; the Cannon Street and Chiswell Street rats; two 2017 Basquiat tributes in the Beech Street tunnel; two 2004 stencils rescued from The Foundry on art'otel Hoxton; the Pink Car at the Old Truman Brewery; and the 2001 Royal Family in Stoke Newington. Of the 2024 animal series only the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino remain in place, and the piranhas go on show at the London Museum from 28 November 2026."
   - q: "Are Banksy works still in place?"
     a: "Some. Six of the nine 2024 animals have been removed, stolen, dismantled or swapped for a replica, and the Royal Courts of Justice mural was scrubbed off within two days. This guide marks which are gone. Even the maps that track status fall behind — Banksy Map still listed the Kew goat as in place in September 2026, more than eighteen months after it was cut out — which is why people travel to blank walls."
   - q: "Where is the best street art in London?"
@@ -36,7 +36,7 @@ This guide **says which are gone**, which is the single most useful thing a stre
 
 **Fifteen Banksys are still viewable as originals in situ**: the Cannon Street rat, the I Love London rat on Chiswell Street, the two Basquiat tributes, the two Foundry pieces now on the front of art'otel Hoxton, the Pink Car at the Old Truman Brewery, the Bermondsey fishing boy, the Royal Family in Stoke Newington, the Chelsea elephants, the Walthamstow pelicans, the Charlton rhino, the Finsbury Park tree, the Stargazing Children at Centre Point, and Blind Patriotism at Waterloo Place. Everything else you will read about has been removed, stolen, boarded over, scrubbed off or replaced with a replica.
 
-> 💡 **The Short Version:** **Nine of the fifteen are on one walk** — our [Banksy walking route](/articles/banksy-walk-london/) runs from **Blind Patriotism** at Waterloo Place to the **Pink Car** off Brick Lane in about three hours. The best-preserved rat is on **Chiswell Street**. The **2024 animal series** left work across the city, though six of the nine have gone. **Leake Street** is legal graffiti under Waterloo and repainted constantly. And **Shoreditch** is still the densest area.
+> 💡 **The Short Version:** **Ten of the fifteen are on one route** — our [Banksy route](/articles/banksy-walk-london/) runs from **Blind Patriotism** at Waterloo Place to the **Royal Family** in Stoke Newington in about three and a half hours, with one Tube ride and one Overground train. The best-preserved rat is on **Chiswell Street**. The **2024 animal series** left work across the city, though six of the nine have gone. **Leake Street** is legal graffiti under Waterloo and repainted constantly. And **Shoreditch** is still the densest area.
 
 > 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Street art is impermanent by nature. Everything here was checked in August 2026, the Banksys again in September 2026, and we have flagged what had already been removed — but a piece can disappear the week after publication, so treat any single work as provisional.
@@ -57,7 +57,7 @@ This guide **says which are gone**, which is the single most useful thing a stre
 | **Hackney Wick** | Large-scale murals along the canal |
 | **Brixton** | The Bowie mural, protected and locally listed |
 
-**[Walk the central London Banksys in order →](/articles/banksy-walk-london/)** Nine originals at seven stops, from Waterloo Place to Brick Lane, with a map and what you can actually see at each.
+**[See ten of them in one day →](/articles/banksy-walk-london/)** Eight stops from Waterloo Place to Stoke Newington, with a map, the Tube and Overground legs, and what you can actually see at each. The short version is at the bottom of this page.
 
 **For every Banksy ever recorded in London**, including the ones that have gone, [Banksy Map](https://banksymap.com/explore/london-map/) plots them all with photographs. Treat its status labels as a starting point rather than a verdict: in September 2026 it still showed the Kew goat, cut out in February 2025, as in place, and the Foundry rat on art'otel Hoxton as boarded up three years after it came back into view.
 
@@ -139,9 +139,11 @@ It is at the junction of **Edith Terrace and Edith Grove**, off the western end 
 
 It has survived several attempts to remove it. In 2009 the council started painting the wall black, until locals realised what was happening and got the work stopped — which is why the family is now surrounded by black paint.
 
-**Free and visible from the pavement at any hour**, at **140 Stoke Newington Church Street**, about ten minutes' walk from Stoke Newington station.
+**Free and visible from the pavement at any hour**, on **Stoke Newington Church Street**, about 15 minutes' walk from Stoke Newington station on the Weaver line. It is the last stop on our [Banksy route](/articles/banksy-walk-london/).
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The 2024 animal series: what is left
 
@@ -174,8 +176,6 @@ Banksy put up nine animal works across London over nine days in August 2024. **S
 **Go to Chelsea, Walthamstow and Charlton.** The other six are a wasted journey.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Later work, and what happened to it
 
@@ -223,6 +223,8 @@ Two identical murals of children lying on their backs, one pointing upward, wide
 > **Girl with Balloon is not where people look for it, and has not been for twenty years.** The original stencil was under **Waterloo Bridge** in 2002, with the words "There is always hope" beside it, and the council painted over it. The famous self-shredding at auction in 2018 was a **framed canvas** — a different object entirely. There is nothing to see at Waterloo.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-shoreditch-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Shoreditch street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where street art actually lives
 
@@ -348,13 +350,29 @@ Dozens of murals along and around the high street, coordinated locally over seve
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-shoreditch-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Shoreditch street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Seeing Banksy indoors
 
-Everything else in this guide is on a wall in the street, free, and might be gone next week. These two are the opposite — ticketed rooms with authenticated originals in them, which is the only way to see the early work that has been prised off walls and sold.
+Everything else in this guide is on a wall in the street, free, and might be gone next week. These are the opposite: originals indoors, where they are not going anywhere.
 
-**Neither is run by Banksy.** Both are privately assembled collections of resale pieces, mounted commercially. That is not a criticism, but it is the thing to understand before you pay: you are seeing a collector's holdings, not an artist's show.
+**Two are public museums holding single works that came off the street**: the piranhas at the London Museum and a rat at the London Transport Museum. **The other two are private collections.** Neither The Art of Banksy nor Moco is run by Banksy; both are assembled from resale pieces and mounted commercially. That is not a criticism, but it is the thing to understand before you pay: you are seeing a collector's holdings, not an artist's show.
+
+### The piranhas, London Museum, Smithfield
+
+*Free · opens 28 November 2026*
+
+The one piece of the 2024 animal series you will be able to see up close. Banksy painted a shoal of piranhas on the glass of a City of London police sentry box on Ludgate Hill, so it read as an aquarium; it was moved to Guildhall Yard, then into storage.
+
+**It goes on display when the new London Museum opens at Smithfield on 28 November 2026.** The museum is free to enter, and it is about 11 minutes' walk from the Basquiat pair in the Beech Street tunnel, which makes it an easy detour on our [Banksy route](/articles/banksy-walk-london/).
+
+### The Croydon rat, London Transport Museum
+
+*Annual pass £27, under-18s free · Covent Garden Piazza · daily 10am–6pm*
+
+A rat dangling from a clock face, painted in October 2019 on the door of a Transport for London signal cabinet in Croydon. TfL removed the door to protect it, and since August 2025 it has been on show in a glass case at the museum.
+
+**Entry is an annual pass**, £27 for an adult with under-18s free, plus a free timed ticket for the day. Last entry is 5.15pm. Worth it if you would go anyway; the museum is about ten minutes' walk from Centre Point, the second stop on the route.
 
 ### The Art of Banksy, Soho
 
@@ -380,11 +398,11 @@ The permanent one. Moco is a private modern-art museum with sister sites in Amst
 
 **Tickets start at £16.90** and run through roughly £23.90 and £28.90 tiers depending on the day and what is bundled; booking online saves up to £5 a ticket against the door. **Under-4s go free.**
 
-**Open every day, 10am to 7pm**, which makes it the more reliable of the two — no closing date, no residency to run out. Marble Arch is the nearest station.
+**Open every day, 10am to 7pm**, which makes it the more reliable of the two private collections — no closing date, no residency to run out. Marble Arch is the nearest station.
 
 ### The gift shops
 
-**Both have one, and they are the realistic souvenir answer.** Moco's shop is a substantial part of the visit rather than a rack by the exit, and The Art of Banksy sells prints and merchandise alongside the exhibition. Neither sells original Banksy work — for that, see **Where to buy it** below — but a poster from either costs a fraction of a Di-Faced Tenner and is honestly labelled as what it is.
+**Both private collections have one, and they are the realistic souvenir answer.** Moco's shop is a substantial part of the visit rather than a rack by the exit, and The Art of Banksy sells prints and merchandise alongside the exhibition. Neither sells original Banksy work — for that, see **Where to buy it** below — but a poster from either costs a fraction of a Di-Faced Tenner and is honestly labelled as what it is.
 
 ---
 
@@ -429,7 +447,7 @@ There are two completely separate markets here and they have almost nothing to d
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-tower-bridge-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower Bridge tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What it costs
 
@@ -438,9 +456,28 @@ There are two completely separate markets here and they have almost nothing to d
 * **Walk it yourself.** Shoreditch, Hackney Wick, Camden, Brixton, Croydon and Penge all reward an aimless hour, and everything in this guide is on a public street.
 * **Guided tours** run roughly £15–£30 and are worth it once, because the good guides know which pieces are painted over what, and who fell out with whom. The free walking tours are tip-based rather than actually free. Our [walking tours guide](/articles/best-walking-tours-london/#street-art) covers Alternative London's two, with and without a spray-painting workshop.
 * **Leake Street tunnel** under Waterloo is legal, free, open all hours, and repainted constantly — the only place in London you can watch it being made.
-* **The two indoor shows are the exception to the free rule.** The Art of Banksy is £19.50 and closes 29 September; Moco Museum is from £16.90 and runs year-round. Both have gift shops.
+* **The indoor Banksys are mostly the exception to the free rule.** The Art of Banksy is £19.50 and closes 29 September; Moco Museum is from £16.90 and runs year-round; the London Transport Museum's rat needs a £27 annual pass. The piranhas at the London Museum, from 28 November 2026, are free.
 * **Buying it is a different question entirely.** A print by a working street artist from a Shoreditch gallery runs from the low tens to a few hundred pounds. A resale Banksy starts around £2,450 for a Di-Faced Tenner and climbs steeply from there. See **Where to buy it** above.
 * **Nothing here is permanent.** Everything in this guide was checked in August 2026 and a piece can go the week after publication, which is the nature of the form rather than a flaw in it.
+
+---
+
+## The best Banksy route
+
+**Ten of the fifteen surviving Banksys fit into one day**, on foot with two train rides where walking would drag. The full stop-by-stop version, with a map, is our [Banksy route](/articles/banksy-walk-london/).
+
+1. **Blind Patriotism**, Waterloo Place — start near Piccadilly Circus.
+2. **Stargazing Children**, Centre Point — walk, 15 minutes.
+3. **Take the Central line** from Tottenham Court Road to Bank — about 27 minutes door to door to the **Cannon Street rat** in Steelyard Passage.
+4. **The Basquiat pair**, Beech Street tunnel — walk, 25 minutes. From 28 November 2026, detour 11 minutes to the **piranhas** at the London Museum.
+5. **The I Love London rat**, Chiswell Street — 3 minutes.
+6. **The Foundry pair**, art'otel Hoxton — 15 minutes.
+7. **The Pink Car**, Ely's Yard off Brick Lane — 15 minutes. Eat here.
+8. **Take the Weaver line** from Liverpool Street to Stoke Newington — about 47 minutes door to door to the **Royal Family** on Stoke Newington Church Street.
+
+**About three and a half hours**, or two and a half if you stop at the Pink Car. Go on a Sunday, when the City is empty and Brick Lane's market is on.
+
+**Not on it, and why:** the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino are each in a different direction, so they are separate trips. The Bermondsey fishing boy is too faded to be worth the detour.
 
 ---
 

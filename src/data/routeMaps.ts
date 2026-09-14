@@ -111,25 +111,25 @@ export const routeConnections: Record<string, RouteConnection[]> = {
       label: "Shoreditch and Spitalfields: Columbia Road to Petticoat Lane",
       where: "The Old Truman Brewery",
       detail:
-        "This walk ends in Ely's Yard, which is stop 5 of that one. Pick it up there for Brick Lane and Spitalfields. 11 stops, 2.6km.",
+        "Stop 7 of this route is in Ely's Yard, beside stop 5 of that one. Break off there for Brick Lane and Spitalfields. 11 stops, 2.6km.",
     },
   ],
   "shoreditch-spitalfields-walk": [
     {
       slug: "banksy-walk-london",
-      label: "The Banksy walk: Waterloo Place to Brick Lane",
+      label: "The Banksy route: Waterloo Place to Stoke Newington",
       where: "The Old Truman Brewery",
       detail:
-        "Finishes at the Pink Car in Ely's Yard, beside stop 5. Nine original Banksys on the way. 7 stops, 8.8km.",
+        "Its stop 7, the Pink Car in Ely's Yard, is beside stop 5. Ten original Banksys, with one Tube ride and one Overground train. 8 stops.",
     },
   ],
   "westminster-walk": [
     {
       slug: "banksy-walk-london",
-      label: "The Banksy walk: Waterloo Place to Brick Lane",
+      label: "The Banksy route: Waterloo Place to Stoke Newington",
       where: "Trafalgar Square",
       detail:
-        "Starts at Waterloo Place, five minutes west of where this one ends. 7 stops, 8.8km.",
+        "Starts at Waterloo Place, five minutes west of where this one ends. Ten original Banksys, 8 stops.",
     },
     {
       slug: "covent-garden-walk",

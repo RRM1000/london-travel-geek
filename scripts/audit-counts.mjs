@@ -29,8 +29,8 @@ const SUBSET = {
     why: "Banksys viewable as originals in situ; the ### are mostly areas",
   },
   "banksy-walk-london": {
-    n: 9,
-    why: "original Banksys; seven numbered stops, two of which are pairs",
+    n: 10,
+    why: "original Banksys; eight numbered stops, two of which are pairs",
   },
   "london-blue-plaques": {
     n: 23,
