@@ -1,7 +1,7 @@
 ---
 title: "The Most Instagrammable Restaurants in London, Ranked by How Many Lists Name Them"
 seoTitle: "Most Instagrammable Restaurants London 2026: Ranked"
-description: "The rooms London's guides keep naming — a Mayfair Greco-Roman fantasy with Damien Hirst marbles, a pink gallery with egg-pod lavatories, a courthouse atrium — and which ones cook as well as they photograph."
+description: "The rooms London's guides keep naming — a Mayfair Greco-Roman fantasy with Damien Hirst marbles, a townhouse of rooms with egg-pod lavatories, a courthouse atrium — and which ones cook as well as they photograph."
 publishedAt: 2026-09-03
 sites: [london]
 canonicalSite: london
@@ -93,26 +93,20 @@ The cooking is Greek and southern Italian — grilled fish, mezze, pasta — and
 ![The bar at Sketch, a woodland mural lit in shafts of light, with bottles on floating wooden shelves under a dark red panelled ceiling](../../assets/articles/most-instagrammable-restaurants-london/sketch-bar.jpg)
 *Not the Gallery: this is the Glade, painted as a woodland with the bottles on floating shelves. The rooms at Sketch look nothing like each other.*
 
-**Four restaurants behind one door, and they photograph nothing like each other** — which is the thing to sort out before booking. **The Gallery** is the famous dining room; **The Glade** is the woodland room; **The Parlour** is the casual one; and **the Lecture Room & Library** is the Michelin-starred restaurant at a completely different price.
+**Sketch is not one room, and this is the thing to get right before booking.** It is a Georgian townhouse at **9 Conduit Street, W1S 2XG**, divided into rooms that look nothing like each other, and every source on this page calls all of them "Sketch". Book the room you have seen a photograph of, not the address.
 
-Book the specific room rather than "Sketch". The Gallery does **afternoon tea and a modern European menu**; the Lecture Room does a tasting menu and needs months rather than weeks.
-
-> 💡 **The egg-shaped lavatory pods are free.** You do not need a booking, a table or a drink to walk in and photograph them, which makes them the cheapest shot in this guide.
-
-**9 Conduit Street, W1S 2XG.**
-
-**Sketch is not one room, and this is the thing to get right before booking.** It is a Georgian townhouse on Conduit Street divided into several rooms that look nothing like each other, and every source on this page calls all of them "Sketch". Book the room you have seen a photograph of, not the address.
-
-- **The Gallery** is the room people mean — **and it is no longer pink.** The millennial-pink velvet and David Shrigley drawings that made it famous were replaced in 2022, when India Mahdavi redesigned it in warm yellow and copper around artworks by Yinka Shonibare. Most photographs online are still of the pink version. **Afternoon tea is served here**, and it is both the easiest booking to get and the cheapest way in.
+- **The Gallery** is the room people mean — **and it is no longer pink.** The millennial-pink velvet and David Shrigley drawings that made it famous were replaced in 2022, when India Mahdavi redesigned it in warm yellow and copper around artworks by Yinka Shonibare. Most photographs online are still of the pink version. It serves **afternoon tea and dinner**, and afternoon tea is both the easiest booking to get and the cheapest way in.
+- **The Glade** is the room in the photograph above: a woodland painted across every wall, lit in shafts as though through a canopy, with the bottles on floating wooden shelves. Breakfast, lunch and afternoon tea by day, a bar at night.
+- **The Parlour** is the casual one, open all day.
+- **The Lecture Room & Library** is Pierre Gagnaire's fine-dining room, with **three Michelin stars** in the 2026 guide — a tasting menu at a completely different price, and a booking that needs months rather than weeks.
+- **The East Bar** at the back is a small round room under a domed ceiling, beside the pods.
 
 ![The Gallery at Sketch since its 2022 redesign, long yellow velvet banquettes and white-clothed tables under a gilded ceiling, with artworks on copper-coloured walls](../../assets/articles/most-instagrammable-restaurants-london/sketch-gallery.jpg)
 *The Gallery as it is now: yellow and copper rather than pink.*
 
-- **The Glade** is the bar in the photograph above: a woodland painted across every wall, lit in shafts as though through a canopy, with the bottles on floating wooden shelves. Dark where the Gallery is bright.
-- **The Lecture Room & Library** is the fine-dining room, two Michelin stars, and a different proposition at a different price entirely. Gilded and jewel-coloured rather than pink.
-- **The East Bar** at the back is a small round room under a domed ceiling.
+**And the lavatories.** Up the staircase from the Gallery is an atrium of **egg-shaped pods**, each a self-contained white capsule under a stained-glass dome, with birdsong playing. They are photographed nearly as often as the dining room and are the single most-recognised thing in the building.
 
-**And the lavatories.** Up the staircase from the Gallery is an atrium of **egg-shaped pods**, each a self-contained white capsule under a stained-glass dome, with birdsong playing. They are photographed nearly as often as the dining room and are the single most-recognised thing in the building. You do not need a table to walk up and look.
+> 💡 **The pods are free.** You do not need a booking, a table or a drink to walk up and photograph them, which makes them the cheapest shot in this guide.
 
 ![The white egg-shaped lavatory pods at Sketch under a ceiling of coloured glass panels, with a large paper-flower installation between them](../../assets/articles/most-instagrammable-restaurants-london/sketch-pods.jpg)
 *The pods, under the coloured glass ceiling. No booking needed to see them.*
@@ -124,17 +118,13 @@ Book the specific room rather than "Sketch". The Gallery does **afternoon tea an
 ![The dining room at Circolo Popolare, its walls stacked with bottles under a canopy of greenery, wisteria and fairy lights](../../assets/articles/most-instagrammable-restaurants-london/circolo-popolare-room.jpg)
 *The bottles run floor to ceiling on every wall, and the ceiling is a canopy of foliage and fairy lights.*
 
-Big Mamma's Sicilian room, and the most photographed ceiling in Fitzrovia — twenty thousand bottles on the walls under a canopy of foliage and lights.
+**The cheapest of the three most-cited rooms by a wide margin**, and the most photographed per pound in London. Big Mamma's Sicilian room hangs fairy lights from a canopy of foliage over walls stacked floor to ceiling with bottles — one source counts over 20,000, though that is the restaurant's own figure repeated.
 
-**The food is the reason it is £££ rather than ££££.** Order the **truffle pasta**, finished tableside in a wheel of pecorino, or the **giant lemon meringue pie**, which arrives about the size of a football and is built to be photographed. Pizza and regional southern Italian otherwise.
+**Order the truffle pasta**, finished tableside in a wheel of pecorino, or the **giant lemon meringue pie**, which arrives about the size of a football and is built to be photographed. Pizza and regional southern Italian otherwise. The portions are enormous and the prices are not Mayfair.
 
 **It is very loud and it is not a quiet dinner** — the room is designed for volume and turnover, which is the trade for the price.
 
-**Book weeks ahead.** 40–41 Rathbone Place, W1T 1HX, three minutes from Tottenham Court Road.
-
-**The cheapest of the three most-cited rooms by a wide margin**, and the most photographed per pound in London. Fairy lights hang from a canopy of foliage over a room whose walls are stacked floor to ceiling with bottles — one source counts over 20,000, though that is the restaurant's own figure repeated.
-
-Big Mamma group Italian, so the portions are enormous and the prices are not Mayfair. It books weeks out and the queue for walk-ins is real. If you want the photograph without the wait, its sibling **Ave Mario** in Covent Garden is the same idea with a hall of mirrors and duomo-striped walls.
+**Book weeks ahead**; the queue for walk-ins is real. 40–41 Rathbone Place, W1T 1HX, three minutes from Tottenham Court Road. If you want the photograph without the wait, its sibling **Ave Mario** in Covent Garden is the same idea with a hall of mirrors and duomo-striped walls.
 
 ---
 
@@ -396,4 +386,4 @@ That is a legitimate way to choose and this guide is built for it. But two other
 
 **Seasonal rooms change.** Dalloway Terrace and The Ivy Chelsea Garden are both dressed to the season. The photograph that brought you here may be six months old.
 
-**One room, several rooms.** Sketch is the clearest case: the pink Gallery, the Lecture Room and the lavatory pods are all "Sketch" to a source and all different to a diner.
+**One room, several rooms.** Sketch is the clearest case: the Gallery, the Lecture Room and the lavatory pods are all "Sketch" to a source and all different to a diner.
