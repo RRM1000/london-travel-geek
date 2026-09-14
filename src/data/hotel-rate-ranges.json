@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07",
+ "generated": "2026-09-14",
  "sampledOn": "2026-09-07",
  "dates": [
   {
@@ -1089,5 +1089,1646 @@
     }
    ]
   }
- ]
+ ],
+ "budget": {
+  "sampledOn": "2026-09-14",
+  "basis": "1 night, 1 room, 2 adults. The cheapest double or twin shown on the page, total including taxes and fees as displayed, in GBP. Hotels.com (uk.hotels.com) for every property it sells; premierinn.com for Premier Inn and hub by Premier Inn, which do not sell through Hotels.com; the operator's own engine (mews) for a property Hotels.com lists but has no rooms for on any sample night.",
+  "ceiling": 150,
+  "rule": "A hotel is budget when its median sampled night is under £150 (Rob, 14 Sep 2026). Needs 3+ priced nights.",
+  "dates": [
+   {
+    "key": "cheap-sunday",
+    "label": "Sunday, three weeks out",
+    "date": "2026-10-11"
+   },
+   {
+    "key": "midweek",
+    "label": "Wednesday, five months out",
+    "date": "2027-02-17"
+   },
+   {
+    "key": "saturday",
+    "label": "Saturday, a month out",
+    "date": "2026-10-17"
+   },
+   {
+    "key": "december",
+    "label": "Second Saturday of December",
+    "date": "2026-12-12"
+   },
+   {
+    "key": "spring",
+    "label": "Saturday, seven months out",
+    "date": "2027-04-17"
+   }
+  ],
+  "properties": [
+   {
+    "slug": "the-corner-london-city",
+    "name": "The Corner London City",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho215593024/the-corner-london-city-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 132,
+      "room": "Standard Double Room",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 469,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "notCaptured": true
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 153,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 1009,
+      "room": "Snug Room",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 4,
+    "soldOutOn": [],
+    "notCapturedOn": [
+     "2026-10-17"
+    ],
+    "cheapest": 132,
+    "dearest": 1009,
+    "median": 311,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "the-pilgrm",
+    "name": "The Pilgrm",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho2233812704/the-pilgrm-hotel-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 179,
+      "room": "SNUG NO VIEW",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 179,
+      "room": "SNUG NO VIEW",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 259,
+      "room": "SNUG NO VIEW",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 259,
+      "room": "SNUG NO VIEW",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 204,
+      "room": "SNUG NO VIEW",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 179,
+    "dearest": 259,
+    "median": 204,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "citizenm-bankside",
+    "name": "citizenM London Bankside",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho462638/citizenm-london-bankside-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 155,
+      "room": "Room, 1 King Bed",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 220,
+      "room": "Room, 1 King Bed",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 215,
+      "room": "Room, 1 King Bed",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 251,
+      "room": "Room, 1 King Bed",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 223,
+      "room": "Room, 1 King Bed",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 155,
+    "dearest": 251,
+    "median": 220,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "z-hotel-shoreditch",
+    "name": "The Z Hotel Shoreditch",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho1140510304/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 95,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 125,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 201,
+      "room": "Queen Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 171,
+      "room": "Queen Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 150,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 95,
+    "dearest": 201,
+    "median": 150,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "z-hotel-strand",
+    "name": "The Z Hotel Strand",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho3300001088/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 146,
+      "room": "Queen Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 153,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 219,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 247,
+      "room": "Queen Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 180,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 146,
+    "dearest": 247,
+    "median": 180,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "premier-inn-county-hall",
+    "name": "Premier Inn London County Hall",
+    "engine": "premierinn.com",
+    "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-county-hall.html",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 92,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 136,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 208,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 295,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 177,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 92,
+    "dearest": 295,
+    "median": 177,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "z-hotel-soho",
+    "name": "The Z Hotel Soho",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho154280320/the-z-hotel-soho/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 145,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 175,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 250,
+      "room": "Double Room",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 218,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 205,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 145,
+    "dearest": 250,
+    "median": 205,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "motel-one-london-tower-hill",
+    "name": "Motel One London-Tower Hill",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho478232/motel-one-london-tower-hill-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 160,
+      "room": "Room (THE ONE)",
+      "ratePlan": "Extras per night No extras"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 199,
+      "room": "Room (THE ONE)",
+      "ratePlan": "Extras per night No extras"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 222,
+      "room": "Room (THE ONE)",
+      "ratePlan": "Extras per night No extras"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 243,
+      "room": "Room (THE ONE)",
+      "ratePlan": "Extras per night No extras"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 240,
+      "room": "Room (THE ONE)",
+      "ratePlan": "Extras per night No extras"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 160,
+    "dearest": 243,
+    "median": 222,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "z-hotel-covent-garden",
+    "name": "The Z Hotel Covent Garden",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho3609810144/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 151,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 181,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 251,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 266,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 211,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 151,
+    "dearest": 266,
+    "median": 211,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "z-hotel-trafalgar",
+    "name": "The Z Hotel Trafalgar",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho3268629376/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 127,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 135,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 219,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 235,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 173,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 127,
+    "dearest": 235,
+    "median": 173,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "good-hotel-london",
+    "name": "Good Hotel London",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho522619328/good-hotel-london-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 75,
+      "room": "Good Room (Twin)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 150,
+      "room": "Good Room (Twin)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 153,
+      "room": "Good Room (Twin)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 152,
+      "room": "Good Room (Twin)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 132,
+      "room": "Good Room (Twin)",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 75,
+    "dearest": 153,
+    "median": 150,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "the-hoxton-shepherds-bush",
+    "name": "The Hoxton, Shepherd's Bush",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho2678433024/the-hoxton-shepherds-bush-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 144,
+      "room": "Hideout (No Windows)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 159,
+      "room": "Hideout (No Windows)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 194,
+      "room": "Hideout (No Windows)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 214,
+      "room": "Hideout (No Windows)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 144,
+      "room": "Hideout (No Windows)",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 144,
+    "dearest": 214,
+    "median": 159,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "church-street-hotel",
+    "name": "Church Street Hotel",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho259193/church-street-hotel-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 100,
+      "room": "Standard Double Room - Shared",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 83,
+      "room": "Standard Double Room - Shared",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 175,
+      "room": "Standard Double Room",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 112,
+      "room": "Standard Double Room",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 103,
+      "room": "Standard Double Room - Shared",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 83,
+    "dearest": 175,
+    "median": 103,
+    "medianUnderCeiling": true
+   },
+   {
+    "slug": "premier-inn-kensington-earls-court",
+    "name": "Premier Inn London Kensington (Earl's Court)",
+    "engine": "premierinn.com",
+    "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-kensington-earls-court.html",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 85,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 104,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 220,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 221,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 147,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 85,
+    "dearest": 221,
+    "median": 147,
+    "medianUnderCeiling": true
+   },
+   {
+    "slug": "ibis-styles-london-southwark",
+    "name": "ibis Styles London Southwark",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho220240/ibis-styles-london-southwark-near-borough-market-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 139,
+      "room": "Room, 1 Queen Bed (The Queen)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 237,
+      "room": "Room, 1 Queen Bed (The Queen)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 223,
+      "room": "Room, 1 Queen Bed (The Queen)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 257,
+      "room": "Room, 1 Queen Bed (The Queen)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 215,
+      "room": "Room, 1 Queen Bed (The Queen)",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 139,
+    "dearest": 257,
+    "median": 223,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "z-hotel-victoria",
+    "name": "The Z Hotel Victoria",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho199590624/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 165,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 135,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 205,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 200,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 165,
+      "room": "Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 135,
+    "dearest": 205,
+    "median": 165,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "the-culpeper",
+    "name": "The Culpeper",
+    "engine": "mews",
+    "url": "https://app.mews.com/distributor/cf7d1510-0438-4d36-84be-b45f009b0f74",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 185,
+      "room": "Double Bedroom with Ensuite - Breakfast Included",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 185,
+      "room": "Double Bedroom with Ensuite - Breakfast Included",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "soldOut": true,
+      "note": "7/2026 → Sun 10/18/2026 Guests selected 2 Adults 2 Edit The minimum number of nights for this period is 2"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "soldOut": true,
+      "note": "2/2026 → Sun 12/13/2026 Guests selected 2 Adults 2 Edit The minimum number of nights for this period is 2"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "soldOut": true,
+      "note": "17/2027 → Sun 4/18/2027 Guests selected 2 Adults 2 Edit The minimum number of nights for this period is 2"
+     }
+    ],
+    "datesPriced": 2,
+    "soldOutOn": [
+     "2026-10-17",
+     "2026-12-12",
+     "2027-04-17"
+    ],
+    "notCapturedOn": [],
+    "cheapest": 185,
+    "dearest": 185,
+    "median": 185,
+    "medianUnderCeiling": null
+   },
+   {
+    "slug": "the-hoxton-holborn",
+    "name": "The Hoxton, Holborn",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho266481024/the-hoxton-holborn-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 239,
+      "room": "Shoebox",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 304,
+      "room": "Shoebox",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 314,
+      "room": "Snug",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 369,
+      "room": "Snug",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 249,
+      "room": "Shoebox",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 239,
+    "dearest": 369,
+    "median": 304,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "moxy-london-stratford",
+    "name": "Moxy London Stratford",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho626428768/moxy-london-stratford-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 99,
+      "room": "Room, 1 Queen Bed",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 124,
+      "room": "Room, 1 Queen Bed",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 199,
+      "room": "Room, 1 Queen Bed",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 143,
+      "room": "Room, 1 Queen Bed",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 151,
+      "room": "Room, 1 Queen Bed",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 99,
+    "dearest": 199,
+    "median": 143,
+    "medianUnderCeiling": true
+   },
+   {
+    "slug": "hub-kings-cross",
+    "name": "hub by Premier Inn London King's Cross",
+    "engine": "premierinn.com",
+    "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-kings-cross.html",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 92,
+      "room": "Standard room",
+      "ratePlan": "hub Standard"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 114,
+      "room": "Standard room",
+      "ratePlan": "hub Advance"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 177,
+      "room": "Standard room",
+      "ratePlan": "hub Standard"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 196,
+      "room": "Standard room",
+      "ratePlan": "hub Standard"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 137,
+      "room": "Standard room",
+      "ratePlan": "hub Advance"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 92,
+    "dearest": 196,
+    "median": 137,
+    "medianUnderCeiling": true
+   },
+   {
+    "slug": "st-athans-hotel",
+    "name": "St. Athans Hotel",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho601454/st-athans-hotel-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 106,
+      "room": "Top floor double room with shared bathroom",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "soldOut": true,
+      "note": "Choose your room We have no rooms available at this property for your trip dates"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "soldOut": true,
+      "note": "Choose your room The available rooms can't accommodate 2 guests. Try booking more rooms for your trip. Change Search Start date 17 Oct End date 18 Oct Traveller"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "soldOut": true,
+      "note": "Choose your room The available rooms can't accommodate 2 guests. Try booking more rooms for your trip. Change Search Start date 12 Dec End date 13 Dec Traveller"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "soldOut": true,
+      "note": "Choose your room The available rooms can't accommodate 2 guests. Try booking more rooms for your trip. Change Search Start date 17 Apr End date 18 Apr Traveller"
+     }
+    ],
+    "datesPriced": 1,
+    "soldOutOn": [
+     "2027-02-17",
+     "2026-10-17",
+     "2026-12-12",
+     "2027-04-17"
+    ],
+    "notCapturedOn": [],
+    "cheapest": 106,
+    "dearest": 106,
+    "median": 106,
+    "medianUnderCeiling": null
+   },
+   {
+    "slug": "the-resident-victoria",
+    "name": "The Resident Victoria",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho545888/the-resident-victoria-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 222,
+      "room": "The Snug",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 264,
+      "room": "The Snug",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 247,
+      "room": "The Snug",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 258,
+      "room": "The Snug",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 272,
+      "room": "The Snug",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 222,
+    "dearest": 272,
+    "median": 258,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "point-a-liverpool-street",
+    "name": "Point A Hotel London Liverpool Street",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho406460/point-a-hotel-london-liverpool-street-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 92,
+      "room": "Classic Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 140,
+      "room": "Classic Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 194,
+      "room": "Classic Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 203,
+      "room": "Classic Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 178,
+      "room": "Classic Double Room, No Windows",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 92,
+    "dearest": 203,
+    "median": 178,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "point-a-kings-cross",
+    "name": "Point A Hotel London King's Cross",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho410470/point-a-hotel-london-kings-cross-st-pancras-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 126,
+      "room": "Cosy Double Windowless",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 132,
+      "room": "Cosy Double Windowless",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 199,
+      "room": "Cosy Double Windowless",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 220,
+      "room": "Cosy Double Windowless",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 176,
+      "room": "Cosy Double Windowless",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 126,
+    "dearest": 220,
+    "median": 176,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "hub-shoreditch",
+    "name": "hub by Premier Inn London Shoreditch",
+    "engine": "premierinn.com",
+    "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-shoreditch.html",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 63,
+      "room": "Standard room",
+      "ratePlan": "hub Standard"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 90,
+      "room": "Standard room",
+      "ratePlan": "hub Advance"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 167,
+      "room": "Standard room",
+      "ratePlan": "hub Standard"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 179,
+      "room": "Standard room",
+      "ratePlan": "hub Standard"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 131,
+      "room": "Standard room",
+      "ratePlan": "hub Advance"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 63,
+    "dearest": 179,
+    "median": 131,
+    "medianUnderCeiling": true
+   },
+   {
+    "slug": "w12-rooms",
+    "name": "W12 Rooms",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho439133/w12-rooms-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 80,
+      "room": "Standard Double Room",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 100,
+      "room": "Standard Double Room",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "soldOut": true,
+      "note": "Choose your room We have no rooms available at this property for your trip dates"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 130,
+      "room": "Deluxe Double Room (If extra bed required contact Hotel)",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 129,
+      "room": "Standard Double Room",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 4,
+    "soldOutOn": [
+     "2026-10-17"
+    ],
+    "notCapturedOn": [],
+    "cheapest": 80,
+    "dearest": 130,
+    "median": 114.5,
+    "medianUnderCeiling": true
+   },
+   {
+    "slug": "premier-inn-southwark-bankside",
+    "name": "Premier Inn London Southwark (Bankside)",
+    "engine": "premierinn.com",
+    "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-southwark-bankside.html",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 102,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 125,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 186,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 243,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 161,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 102,
+    "dearest": 243,
+    "median": 161,
+    "medianUnderCeiling": false
+   },
+   {
+    "slug": "premier-inn-greenwich",
+    "name": "Premier Inn London Greenwich",
+    "engine": "premierinn.com",
+    "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-greenwich.html",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 66,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 86,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 146,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 166,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 142,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 66,
+    "dearest": 166,
+    "median": 142,
+    "medianUnderCeiling": true
+   },
+   {
+    "slug": "premier-inn-kings-cross",
+    "name": "Premier Inn London King's Cross",
+    "engine": "premierinn.com",
+    "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-kings-cross.html",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 127,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 179,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 218,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 283,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 178,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "cheapest": 127,
+    "dearest": 283,
+    "median": 179,
+    "medianUnderCeiling": false
+   }
+  ],
+  "notPriced": [
+   {
+    "slug": "lime-tree-hotel",
+    "name": "The Lime Tree Hotel",
+    "status": "unpriced",
+    "reason": "No one-night stay for 2 adults could be booked on any of the five sample nights, on either channel (14 Sep 2026). Hotels.com: 'can't accommodate 2 guests' on 11 and 17 Oct, 'no rooms available at this property' on 17 Feb, 12 Dec and 17 Apr (captures kept in budget-2026-09-14.json). The operator's own SynXis engine (bookings.limetreehotel.co.uk, titled 'Room Mate Lime Tree - Reservations'): 'check-in/check-out combination is not available' for 11 Oct, 17 Feb and 12 Dec; 'cannot accept departures' on the Sunday after 17 Oct and 17 Apr, i.e. no one-night Saturday stays. For scale only, not a sampled night: the room-matehotels.com calendar showed from-prices of £241-£375 for other October 2026 nights (1, 3, 4, 5, 6 and 12 Oct)."
+   }
+  ]
+ }
 }
