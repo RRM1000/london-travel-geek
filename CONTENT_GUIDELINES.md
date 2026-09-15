@@ -48,7 +48,9 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 
 - Check every link before shipping it. A dead booking link is worse than a dead article link.
 - "Book" means the link lands on the booking screen. Call a homepage the venue's site, strip dates from booking URLs, and never put a booking link on a venue that takes no bookings.
-- Affiliate links: hotels as `[name](hotel:slug)`, partners as `partner:key`, GetYourGuide with `partner_id=WWP7I0R` and `rel="sponsored nofollow noopener"`.
+- Hotels link to Hotels.com through the affiliate when Hotels.com sells them: `[name](hotel:slug)` for a hotel in the Hotels sheet, `[name](hotelscom:<id>)` with the ho-id from its Hotels.com URL for one that isn't. A hotel Hotels.com doesn't sell links to its own website. Never link a hotel to any other booking site.
+- Other affiliate links: partners as `partner:key`, GetYourGuide with `partner_id=WWP7I0R` and `rel="sponsored nofollow noopener"`.
+- A new guide is linked both ways before it's finished: it links to the guides a reader would want next, and every related guide, hub and planning page links to it. Being linked from one page isn't enough. `node scripts/audit-links.mjs` must pass too.
 
 ## Photos
 

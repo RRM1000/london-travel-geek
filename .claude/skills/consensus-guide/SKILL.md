@@ -428,6 +428,8 @@ character wide on mobile.
 
 ## Before publishing, always
 
+Link it both ways. Add a line to every related guide, hub and planning page that should send readers here (the Eat in London hub for food, /stay/ and the other stay guides for hotels), and link out to the guides a reader wants next. One inbound link is not enough; `node scripts/audit-links.mjs` must pass as well.
+
 Surface every venue-identity question rather than resolving it silently: chains
 where sources name different branches, residencies that may not be separate
 venues, places a source located outside London, and any name merged on judgement.

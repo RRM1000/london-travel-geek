@@ -225,6 +225,8 @@ If you are not staying the night at all — a long layover, a late flight — a 
 
 Staying more than a few nights changes the question entirely — at that point an [aparthotel](/articles/aparthotels-london/) with a kitchen beats both, and we have compared twenty-six of them.
 
+If you want a private room with a window, [the best budget hotels in London](/articles/best-budget-hotels-london/) lists 22 whose typical night came to £150 or less.
+
 Zedwell confusingly calls the berth in its capsule hotels a "Capsule Cocoon" and the rooms in its five hotels "Cocoons" too, so the word does not tell them apart. **"Capsule" in the property name does.** Our [windowless hotel rooms guide](/articles/windowless-hotel-rooms-london/) covers the room side in full.
 
 *Prices sampled on Hotels.com for one adult across five dates on 7 September 2026. Capsule sizes, fees, policies and facilities from each operator's own site and listing on the same date. Rates change nightly — always check your own dates.*

@@ -13,7 +13,7 @@ tags: [where to stay, hotels, budget, planning]
 draft: false
 faq:
   - q: "Which London hotels have windowless rooms?"
-    a: "Six operators. Zedwell runs five hotels where every room is windowless by design: Piccadilly Circus, Tottenham Court Road, Greenwich, Knightsbridge and Park Lane. Z Hotels sells a windowless 'Inside' grade at all twelve of its London branches. hub by Premier Inn calls them ambient rooms and publishes them as 'Interior' grades at Westminster Abbey and Paddington. Point A sells them at Kensington, Liverpool Street and Paddington, easyHotel at South Kensington and Victoria, and The Corner London City puts the word in the room's name."
+    a: "Six operators. Zedwell runs five hotels where every room is windowless by design: Piccadilly Circus, Tottenham Court Road, Greenwich, Knightsbridge and Park Lane. Z Hotels sells a windowless 'Inside' grade at all twelve of its London branches. hub by Premier Inn calls them ambient rooms and publishes them as 'Interior' grades at Westminster Abbey and Paddington. Point A sells them at Kensington, King's Cross, Liverpool Street and Paddington, easyHotel at South Kensington and Victoria, and The Corner London City puts the word in the room's name."
   - q: "What is a Z Hotel 'Inside' room?"
     a: "A room with no window. Z's own room pages tag them 'no window' and describe them as having all the features of the standard room, just with no curtains to draw. Every one of the twelve London branches sells at least one Inside grade, and at nine of them it is the cheapest published rate in the hotel. Watch the name as well as the tag: Z Holborn's £90 Z King carries the no-window tag without the word Inside, and the £150 Club Family Room at Z Leicester Square is windowless too."
   - q: "How much does a window cost?"
@@ -370,7 +370,7 @@ At **Point A Kensington**, just off Cromwell Road near Earl's Court, the choice 
 
 *A twin room at Point A Paddington, and its ensuite bathroom.*
 
-Rooms are compact and airline-inspired, with mood lighting, air conditioning, a safe, an ironing room and unlimited Wi-Fi, and **breakfast is free if you book direct** — which at this price band is a genuine saving rather than a gesture. Point A King's Cross does not advertise a windowless grade.
+Rooms are compact and airline-inspired, with mood lighting, air conditioning, a safe, an ironing room and unlimited Wi-Fi, and **breakfast is free if you book direct** — which at this price band is a genuine saving rather than a gesture. **Point A King's Cross** sells them too, though its own page never mentions windows: on Hotels.com its cheapest room on each of five nights we priced, from October 2026 to April 2027, was a Cosy Double Windowless, £9 to £10 under the same room with a window.
 
 ### easyHotel — the smallest windowless rooms in London
 
@@ -455,6 +455,6 @@ Zedwell also runs two **capsule** properties, and confusingly calls the sleeping
 
 Every room in this guide, by contrast, has its own lockable door and its own en-suite shower. That is the line, and it holds for all six operators — a Z Inside Single and a hub Interior are small rooms, not berths. Our [London capsule hotels guide](/articles/pod-hotels-london/) covers the five real capsule properties in full, including what a night in one is actually like.
 
-And if the reason you are considering a windowless room is a longer stay at a lower price, compare it with an [aparthotel](/articles/aparthotels-london/) first: a kitchen changes the arithmetic more than a missing window does.
+And if the reason you are considering a windowless room is a longer stay at a lower price, compare it with an [aparthotel](/articles/aparthotels-london/) first: a kitchen changes the arithmetic more than a missing window does. And if you would rather keep the window, [the best budget hotels in London](/articles/best-budget-hotels-london/) lists 22 rooms at £150 a night or less.
 
 *Zedwell rates sampled on Hotels.com for one adult across five dates on 7 September 2026. Z Hotels grade names, floor areas and from-rates taken from each of the twelve London hotel pages on thezhotels.com on 9 September 2026; hub wording from premierinn.com's hub brand page, hub room FAQ and individual hotel pages; Point A, easyHotel and The Corner from their own property pages, all on the same date. Published from-rates are lead-in prices and move nightly — always check your own dates.*

@@ -185,8 +185,9 @@ else {
 const overRows = [...(sections["Named everywhere, priced over £150"] ?? "").matchAll(/^\| ([^|]+?) \| (\d+) \| £([\d,.]+) \| £([\d,.]+) to £([\d,.]+) \|$/gm)];
 if (overRows.length < 10) errors.push(`over-£150 table: matched only ${overRows.length} rows`);
 for (const m of overRows) {
-  // A name cell can carry a hotel: affiliate link; the name is the link text.
-  m[1] = m[1].replace(/^\[([^\]]+)\]\(hotel:[a-z0-9-]+\)$/, "$1");
+  // A name cell can carry a link (Hotels.com or the hotel's own site); the
+  // name is the link text.
+  m[1] = m[1].replace(/^\[([^\]]+)\]\([^)]+\)$/, "$1");
   const s = sampled.get(norm(m[1]));
   const plain = (x) => x.replace(/,/g, "");
   if (!s) { errors.push(`over-£150 table: ${m[1]} was never rate-sampled`); continue; }

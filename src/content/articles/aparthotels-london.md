@@ -232,7 +232,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 **Book an aparthotel if** you are staying four nights or more; you are travelling with children and dreading the breakfast bill; you want to do laundry mid-trip; you are working from London for a week and need a desk and a kettle at odd hours; or you simply want to be able to make a cup of tea without getting dressed.
 
-**Book a hotel instead if** the stay is one or two nights, you want daily housekeeping, or you want a restaurant downstairs and room service at eleven. On a short trip the kitchen is dead weight you have paid for.
+**Book a hotel instead if** the stay is one or two nights, you want daily housekeeping, or you want a restaurant downstairs and room service at eleven. On a short trip the kitchen is dead weight you have paid for, and [the best budget hotels in London](/articles/best-budget-hotels-london/) lists 22 rooms at £150 a night or less.
 
 **On the family question specifically:** check whether you are booking a studio or an apartment. A studio sleeping four means four people in one room, and the difference in comfort over a week is enormous. Cheval, the Cove properties and some Native units do separate bedrooms; most of the rest do not.
 

@@ -276,7 +276,7 @@ A maritime village with the Cutty Sark, the Old Royal Naval College, the Nationa
 
 ## On a budget
 
-The cheapest beds in London are in Zone 1, and they are cheap because the room is small rather than because the postcode is bad. Moving outwards only pays when the saving is large enough to survive the travelling.
+The cheapest beds in London are in Zone 1, and they are cheap because the room is small rather than because the postcode is bad. Moving outwards only pays when the saving is large enough to survive the travelling. For a hotel room at £150 a night or less, our [budget hotels guide](/articles/best-budget-hotels-london/) priced 46 hotels on the same five nights.
 
 ### Bethnal Green — cheap capsules and a two-Michelin-star town hall
 

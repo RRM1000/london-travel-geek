@@ -33,10 +33,20 @@
 //    degrades to plain text and shouts in the console instead.
 import fs from "node:fs";
 import { visit } from "unist-util-visit";
+import { hotelAffiliate } from "../../scripts/lib/affiliate.mjs";
 
 const DATA = "src/data/hotels.json";
 const CLOSED_DATA = "data/closed-hotels.json";
 const SCHEME = /^hotel:([a-z0-9-]+)$/;
+// `[Hotels.com](hotelscom:215593024)` - a Hotels.com property by its ho-id, for
+// a hotel a guide names but the Hotels sheet deliberately does not hold (the
+// sheet keeps chains off unless they are excellent; the budget hotels guide
+// names dozens). The id is the stable part of a Hotels.com URL - /ho<id>/
+// redirects to whatever slug Hotels.com prints this month - and the link is
+// built by the same hotelAffiliate() the sheet export uses, so the affiliate
+// id still lives in one place. Rob, 15 Sep 2026: link a hotel to Hotels.com
+// when Hotels.com sells it, otherwise to its own website, and nowhere else.
+const HOTELSCOM = /^hotelscom:(\d+)$/;
 
 // Read once at module load. Unlike hotels.json this is hand-edited and rarely
 // changes, and a stale read here fails safe - the worst case is that a link
@@ -90,6 +100,26 @@ export default function remarkHotelLinks() {
   return (tree, file) => {
     const where = file?.history?.[0] ?? "an article";
     visit(tree, "link", (node) => {
+      const hc = HOTELSCOM.exec(node.url ?? "");
+      if (hc) {
+        const a = hotelAffiliate({ hotelsUrl: `https://uk.hotels.com/ho${hc[1]}/` });
+        if (!a) {
+          console.warn(`[remark-hotel-links] hotelscom:${hc[1]} built no affiliate link (${where}). Rendered as plain text.`);
+          degrade(node);
+          return;
+        }
+        node.url = a.url;
+        node.data = node.data || {};
+        node.data.hProperties = {
+          ...(node.data.hProperties || {}),
+          target: "_blank",
+          rel: "sponsored nofollow noopener",
+          "data-affiliate": a.network,
+          class: "hotel-link",
+        };
+        node.children.push({ type: "html", value: '<span class="hotel-link__ad">ad</span>' });
+        return;
+      }
       const m = SCHEME.exec(node.url ?? "");
       if (!m) return;
       const slug = m[1];
