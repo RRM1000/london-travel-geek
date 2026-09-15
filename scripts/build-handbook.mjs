@@ -105,6 +105,70 @@ for (const f of fs.readdirSync("data/topics").filter((x) => x.endsWith(".json"))
   } catch { /* a topic file mid-edit is not this page's problem */ }
 }
 
+// ------------------------------------------------------ keeping current ---
+// Two scripts already know what goes out of date. audit-expired-dates reads
+// every dated claim, and --on=<date> shows what will have expired by then;
+// audit-freshness keeps the calendar of things that change on a schedule
+// (Wimbledon ballots, Christmas markets) and ranks guides by how many prices
+// they quote and how long since they were touched.
+const iso = (d) => d.toISOString().slice(0, 10);
+const runText = (script, args = []) => {
+  try { return execFileSync("node", [script, ...args], { encoding: "utf8", maxBuffer: 64e6, stdio: ["ignore", "pipe", "pipe"] }); }
+  catch (e) { return String(e.stdout ?? ""); }
+};
+const parseDated = (text) => {
+  const out = [];
+  let slug = null, last = null;
+  for (const raw of text.replace(/\r/g, "").split("\n")) {
+    const l = raw.replace(/^ {6}/, "");
+    const s = l.match(/^=== ([a-z0-9-]+)/);
+    if (s) { slug = s[1]; continue; }
+    const m = l.match(/^\s+line\s+(\d+)\s+(.+?)\s+\((\d+) days ago\)/);
+    if (m && slug) { last = { slug, line: Number(m[1]), when: m[2], daysAgo: Number(m[3]), snippet: "" }; out.push(last); continue; }
+    if (last && /^\s+…/.test(l)) { last.snippet = l.trim().replace(/^…|…$/g, "").replace(/\*\*/g, ""); last = null; }
+  }
+  return out;
+};
+const soon = new Date(Date.now() + 30 * 86400000);
+const expiredNow = parseDated(auditLines.join("\n").split(/^\s{2}links\s/m)[0] ?? "");
+const expiredBySoon = parseDated(runText("scripts/audit-expired-dates.mjs", [`--on=${iso(soon)}`]));
+const nowKeys = new Set(expiredNow.map((e) => `${e.slug}:${e.line}`));
+const comingUp = expiredBySoon
+  .filter((e) => !nowKeys.has(`${e.slug}:${e.line}`))
+  .map((e) => ({ ...e, date: iso(new Date(soon.getTime() - e.daysAgo * 86400000)) }))
+  .filter((e, i, all) => all.findIndex((x) => x.slug === e.slug && x.when === e.when) === i)
+  .sort((a, b) => a.date.localeCompare(b.date));
+const firstOfEach = (list) => list.filter((e, i, all) => all.findIndex((x) => x.slug === e.slug && x.when === e.when) === i);
+
+const freshText = runText("scripts/audit-freshness.mjs").replace(/\r/g, "");
+const calendar = [];
+const reviewByPast = [];
+const staleRisk = [];
+{
+  let section = null, item = null;
+  for (const l of freshText.split("\n")) {
+    if (/^=== DUE NOW/.test(l)) { section = "due"; continue; }
+    if (/^=== PAST THEIR OWN/.test(l)) { section = "review"; continue; }
+    if (/^=== HIGHEST STALENESS/.test(l)) { section = "risk"; continue; }
+    if (/^===/.test(l)) { section = null; continue; }
+    if (section === "due") {
+      const head = l.match(/^  (\S.*?)\s+—\s+(.+)$/);
+      if (head) { item = { title: head[1], when: head[2], why: "", guides: [] }; calendar.push(item); continue; }
+      const guide = l.match(/^\s{7}([a-z0-9-]+)\s+\(last updated ([\d-]+), (\d+)d ago/);
+      if (guide && item) { item.guides.push({ slug: guide[1], updated: guide[2], age: Number(guide[3]) }); continue; }
+      if (item && /^\s{5}\S/.test(l) && !item.why) item.why = l.trim();
+    }
+    if (section === "review") {
+      const r = l.match(/^\s+([\d-]{10})\s+([a-z0-9-]+)/);
+      if (r) reviewByPast.push({ date: r[1], slug: r[2] });
+    }
+    if (section === "risk") {
+      const r = l.match(/^\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)d\s+([a-z0-9-]+)/);
+      if (r) staleRisk.push({ score: Number(r[1]), prices: Number(r[2]), dated: Number(r[3]), age: Number(r[4]), slug: r[5] });
+    }
+  }
+}
+
 // -------------------------------------------------------------- articles ---
 // What is actually live: the articles on origin/main, which is what Vercel
 // deploys. Anything else is local work that has not been pushed.
@@ -476,6 +540,15 @@ tr[hidden] { display: none; }
 .bar-value { text-align: right; font-variant-numeric: tabular-nums; color: var(--ink-2); }
 .note { font-size: 13px; color: var(--ink-3); }
 
+.dated li { display: grid; grid-template-columns: 96px 1fr; gap: 12px; font-size: 14px; }
+.dated-when { font-variant-numeric: tabular-nums; color: var(--ink-2); font-weight: 600; font-size: 13px; }
+.dated-when.bad { color: var(--bad); }
+.dated-snip { display: block; color: var(--ink-2); font-size: 13px; margin-top: 2px; }
+.cal li { display: grid; gap: 4px; }
+.cal-head { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.cal-guides { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 13px; }
+.cal-guides em { font-style: normal; color: var(--ink-3); }
+
 details.more { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
 details.more > summary { cursor: pointer; padding: 14px 18px; font-weight: 600; list-style: none; display: flex; justify-content: space-between; gap: 12px; }
 details.more > summary::-webkit-details-marker { display: none; }
@@ -514,6 +587,7 @@ footer { max-width: 1240px; margin: 0 auto; padding: 0 28px 40px; color: var(--i
 <nav class="tallies" aria-label="Summary">
   <a class="tally ${counts.waiting ? "warn" : ""}" href="#needs"><span class="tally-num">${counts.waiting}</span><span class="tally-label">Waiting on you</span></a>
   <a class="tally ${counts.failing ? "bad" : ""}" href="#health"><span class="tally-num">${counts.failing}</span><span class="tally-label">Health checks failing</span></a>
+  <a class="tally ${comingUp.length ? "warn" : ""}" href="#current"><span class="tally-num">${comingUp.length}</span><span class="tally-label">Claims expiring in 30 days</span></a>
   <a class="tally ${counts.noPhotos ? "warn" : ""}" href="#posts" data-jump="nophotos"><span class="tally-num">${counts.noPhotos}</span><span class="tally-label">Live guides with no body photos</span></a>
   <a class="tally ${counts.thin ? "warn" : ""}" href="#posts" data-jump="thin"><span class="tally-num">${counts.thin}</span><span class="tally-label">Guides with thin entries</span></a>
   <a class="tally" href="#posts" data-jump="draft"><span class="tally-num">${counts.drafts}</span><span class="tally-label">Drafts and unpublished guides</span></a>
@@ -525,6 +599,7 @@ footer { max-width: 1240px; margin: 0 auto; padding: 0 28px 40px; color: var(--i
     <a href="#needs">Waiting on you</a>
     <a href="#work">In progress</a>
     <a href="#health">Health checks</a>
+    <a href="#current">Dates to keep current</a>
     <a href="#posts">All guides</a>
     <a href="#making">How a guide is made</a>
     <a href="#site">How the site works</a>
@@ -566,6 +641,30 @@ footer { max-width: 1240px; margin: 0 auto; padding: 0 28px 40px; color: var(--i
       <h2>Health checks</h2>
       <p class="lede">The automatic checks, from <code>npm run audit</code> when this page was rebuilt. "Needs fixing" means something is definitely wrong. "Worth a look" is a judgement call.</p>
       <ul class="checks">${checkRows}</ul>
+    </section>
+
+    <section class="block" id="current">
+      <h2>Dates and prices to keep current</h2>
+      <p class="lede">What has already gone out of date, what will in the next 30 days, and which guides are due a refresh. Dates are found automatically by <code>npm run audit:weekly</code>. To set your own deadline on a guide, add <code>reviewBy: YYYY-MM-DD</code> to its front matter.</p>
+      <div class="two">
+        <div class="panel" style="padding:18px;display:grid;gap:12px;align-content:start">
+          <h3>Already out of date</h3>
+          ${firstOfEach(expiredNow).length ? `<ul class="stack dated" style="margin:-4px -18px -18px">${firstOfEach(expiredNow).map((e) => `<li><span class="dated-when bad">${esc(e.when)}</span><span><strong>${esc(articles.find((a) => a.slug === e.slug)?.title ?? e.slug)}</strong><span class="dated-snip">${esc(e.snippet)}</span></span></li>`).join("")}${reviewByPast.map((r) => `<li><span class="dated-when bad">${esc(fmtDate(r.date))}</span><span><strong>${esc(articles.find((a) => a.slug === r.slug)?.title ?? r.slug)}</strong><span class="dated-snip">Past the review date set in its front matter.</span></span></li>`).join("")}</ul>` : `<p class="note">Nothing has expired.</p>`}
+        </div>
+        <div class="panel" style="padding:18px;display:grid;gap:12px;align-content:start">
+          <h3>Going out of date by ${esc(fmtDate(soon))}</h3>
+          ${comingUp.length ? `<ul class="stack dated" style="margin:-4px -18px -18px">${comingUp.map((e) => `<li><time class="dated-when" datetime="${esc(e.date)}">${esc(fmtDate(e.date))}</time><span><strong>${esc(articles.find((a) => a.slug === e.slug)?.title ?? e.slug)}</strong><span class="dated-snip">${esc(e.snippet)}</span></span></li>`).join("")}</ul>` : `<p class="note">Nothing expires in the next 30 days.</p>`}
+        </div>
+      </div>
+      <div class="panel" style="padding:18px;display:grid;gap:12px">
+        <h3>Refresh calendar: due now and coming up</h3>
+        <ul class="stack cal" style="margin:-4px -18px -18px">${calendar.map((c) => `<li><div class="cal-head">${pill(/THIS MONTH/i.test(c.when) ? "warn" : /every/i.test(c.when) ? "info" : "ok", c.when.replace(/^THIS MONTH$/i, "Due this month"))}<strong>${esc(c.title)}</strong></div><p class="dated-snip">${esc(c.why)}</p><p class="cal-guides">${c.guides.map((g) => `<span>${esc(articles.find((a) => a.slug === g.slug)?.title ?? g.slug)} <em>updated ${g.age} ${g.age === 1 ? "day" : "days"} ago</em></span>`).join("")}</p></li>`).join("")}</ul>
+      </div>
+      <div class="table-wrap">
+        <table><thead><tr><th>Most likely to be stale</th><th class="num">Prices quoted</th><th class="num">Dated claims</th><th class="num">Last updated</th></tr></thead>
+        <tbody>${staleRisk.slice(0, 10).map((r) => `<tr><td>${esc(articles.find((a) => a.slug === r.slug)?.title ?? r.slug)}</td><td class="num">${r.prices}</td><td class="num">${r.dated}</td><td class="num">${r.age} ${r.age === 1 ? "day" : "days"} ago</td></tr>`).join("")}</tbody></table>
+      </div>
+      <p class="note">Ranked by how many prices and dated claims a guide carries and how long since it was touched. ${articles.filter((a) => a.words).length ? "" : ""}Prices change without anything on the page knowing, so the guides at the top are the ones to re-check first.</p>
     </section>
 
     <section class="block" id="posts">
