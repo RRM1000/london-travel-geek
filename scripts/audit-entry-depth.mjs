@@ -54,7 +54,11 @@
 import fs from "node:fs";
 
 const args = process.argv.slice(2);
-const MIN = Number(args.find((a) => a.startsWith("--min="))?.slice(6) ?? 80);
+// 80 flagged entries of 57 to 79 words that Rob read on 15 Sep 2026 and
+// judged fine. 50 catches what is genuinely thin - the 31 to 43 word entries
+// in the fried chicken, Vietnamese and wine bar guides - without asking a
+// finished entry for padding. --min=80 still shows the stricter view.
+const MIN = Number(args.find((a) => a.startsWith("--min="))?.slice(6) ?? 50);
 const only = args.filter((a) => !a.startsWith("--"));
 
 // Guides whose sections describe a process or a single event rather than a set
@@ -111,8 +115,18 @@ const isChrome = (t) => {
   return false;
 };
 
+// ONLY RANKED ENTRIES ARE MEASURED (Rob, 15 Sep 2026). The floor is a
+// listicle standard - a dish, a room, a deciding fact - and holding area,
+// event, stadium and planning guides to it flagged pages that read fine: the
+// October guide, the Wembley guide, Notting Hill's houses. An entry is
+// measured only when its metadata line carries "Cited by N sources", the same
+// objective test that decides whether a guide gets the evidence callout.
+// Everything else is judged by reading it.
+const RANKED_ONLY = !args.includes("--unranked");
+
 const files = fs.readdirSync("src/content/articles")
   .filter((f) => f.endsWith(".md"))
+  .filter((f) => !RANKED_ONLY || /Cited by \d+ sources?/.test(fs.readFileSync(`src/content/articles/${f}`, "utf8")))
   // WAS: only guides carrying an evidence block, which left 68 articles
   // unchecked - including the live music guide, whose entries ran to fifteen
   // words. A guide is a guide whether or not a consensus corpus sits behind
@@ -164,7 +178,11 @@ for (const f of files) {
   // A cinema is not required to name a dish. The food check applies only to
   // food guides; elsewhere it fired on correct work, which teaches people to
   // ignore the audit.
-  const foodGuide = /^category: *"?Food and drink"?\s*$/m.test(raw);
+  // Filed under Food and drink but about the building, not the menu: every
+  // entry in the beautiful pubs guide failed "names no food" while describing
+  // exactly what that guide exists to describe.
+  const NOT_ABOUT_FOOD = new Set(["most-beautiful-pubs-london"]);
+  const foodGuide = /^category: *"?Food and drink"?\s*$/m.test(raw) && !NOT_ABOUT_FOOD.has(slug);
   const lines = raw.split(/\r?\n/);
   const thin = [];
   let entries = 0, words = 0;
@@ -181,6 +199,11 @@ for (const f of files) {
         if (/^#### /.test(lines[k])) { isSection = true; break; }
       }
       if (isSection) continue;
+    }
+    if (RANKED_ONLY) {
+      let m = i + 1;
+      while (m < lines.length && !lines[m].trim()) m++;
+      if (!/Cited by \d+ sources?/.test(lines[m] ?? "")) continue;
     }
     const name = lines[i].replace(/^###\s+/, "").trim();
     let w = 0, hasDish = false, hasPractical = false, hasFood = false;
