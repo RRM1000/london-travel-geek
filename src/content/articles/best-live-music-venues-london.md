@@ -181,8 +181,6 @@ Three things nobody tells you before you go. **The seating is unreserved**, firs
 
 It is fully accessible by ramp, with a platform lift up to the bar, and it houses an 1877 Henry Willis organ that still runs on its original hydraulic blowing system.
 
-<div data-stay-strip></div>
-
 ### Village Underground, Shoreditch
 
 *around 700 · Shoreditch High Street*
@@ -261,6 +259,8 @@ A **140-capacity room above the main club**, rebuilt with purpose-built acoustic
 Tickets run around **£20–£30**, roughly half the main room, which makes it the sensible way into the building if the headline downstairs is out of reach.
 
 > **The Greene Rooms open in 2027** — a members-only backstage lounge above the club, and the first time that part of the building has been open to anyone.
+
+<div data-stay-strip></div>
 
 ### The 606 Club, Chelsea
 

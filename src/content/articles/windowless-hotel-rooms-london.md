@@ -197,7 +197,7 @@ That is the whole argument for it. Eight minutes from Marble Arch, Hyde Park acr
 
 **It is last here for one reason: almost nobody has reviewed it.** There are only a handful of scores so far, so there is very little to go on beyond the rate and the specification, and the things guests catch — how warm the rooms run, how the air handling behaves in August — are exactly the things that need a few hundred reviews to show up. If you want a safe booking, take Tottenham Court Road. If you want the address, this is remarkable value.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Z Hotels: all twelve London branches sell one
 
@@ -314,7 +314,7 @@ A **Z Inside Single is 8 sq m at £70**, an **Inside Double 9 sq m at £80**, an
 
 Z publishes every grade with its floor area, which almost nobody in this price band does, and reading that list carefully is the entire job at this branch. Café Inigo downstairs does the buffet breakfast, which is charged separately; the free Z Member scheme adds evening cheese and wine and 10% off food and drink, though not off breakfast. Our [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) sets it against five others in the area.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The accessible room is often the windowless one
 
@@ -428,7 +428,7 @@ The former Qbic Hotel London City, five minutes from Aldgate East, and the only 
 
 The hotel's pitch for it is switching off from the outside world, which is at least the argument Zedwell makes rather than an apology. The Comfy Room is the window version and takes two adults plus an infant; the Plush adds a sofa bed for a third. It is **cashless**, check-in is 3pm and check-out 11am, and hanging the do-not-disturb tag to skip a clean earns a drink voucher.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How to tell before you pay
 

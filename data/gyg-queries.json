@@ -173,7 +173,7 @@
       ]
     },
     "attraction-passes": {
-      "for": "Multi-attraction passes: one ticket for many attractions, in every big-seller pool except day trips. Added 15 September 2026 at Rob's request. The search 'London Pass' also returns a river cruise and the Royal Observatory, so the three are pinned.",
+      "for": "Multi-attraction passes: one ticket for many attractions, in every big-seller pool, including the day-trip pool the planning and itinerary guides draw from. Added 15 September 2026 at Rob's request. The search 'London Pass' also returns a river cruise and the Royal Observatory, so the three are pinned.",
       "tourIds": [
         "26207",
         "102239",
@@ -224,6 +224,7 @@
     ],
     "daytrip": [
       "Windsor Castle day trip from London",
+      "pick:attraction-passes",
       "Stonehenge day trip from London",
       "Bath and Stonehenge day trip",
       "Oxford and Cambridge day trip"

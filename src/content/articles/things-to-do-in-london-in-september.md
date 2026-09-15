@@ -206,8 +206,6 @@ Alexandra Palace has the busiest month of any venue in London. **Annie Mac on th
 
 For something entirely different, the **Monteverdi Choir performs Rossini's *Petite Messe Solennelle* at Ally Pally on 18 September**.
 
-<div data-stay-strip></div>
-
 ## Sport: the last Saturday is the big one
 
 **Saturday 26 September puts two England teams on in London on the same day.** The men play **Spain at Wembley** in the UEFA Nations League, and the **Red Roses** play **New Zealand at Allianz Stadium, Twickenham**, kicking off at 3pm, with tickets from £20.
@@ -217,6 +215,8 @@ For something entirely different, the **Monteverdi Choir performs Rossini's *Pet
 **The Wimbledon 2027 public ballot closes at 23:59 BST on Monday 14 September.** The All England Club opened it on 1 September, it is free, and overseas applicants use the same window. How to enter, and the other routes in if you are not drawn, are in our [Wimbledon tickets guide](/articles/wimbledon-tickets-guide/).
 
 Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## New restaurants and bars
 
@@ -231,8 +231,6 @@ In the City, **The Albatross** (8–10 Old Jewry, EC2R 8DN) is the Goodman and W
 Further out, **Marrion's** on Morning Lane in Hackney is a neighbourhood bar from the man behind Norman's — classic cocktails, Spanish beer, devilled crab rarebit. **Pardeh** in Bethnal Green is Persian; **Pino** in Stoke Newington is Puglian, with riso, patate e cozze on the menu.
 
 Three more worth watching: **Romy Gill has taken over The Pem** in St James's and turned it to regional Indian cooking; **Endo Kazutoshi** has opened his ENDO omakase room in Chelsea with a Moga listening bar above it; and **the Savoy's Beaufort Bar has become a wine bar**, complete with a bespoke charcuterie trolley. The Mr Fogg's team are opening **The Admiral's Mess** inside Admiralty Arch, where Clare Smyth and Daniel Boulud are also arriving.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Practical: September in London
 

@@ -146,6 +146,8 @@ Off the north side of the road, a hundred metres in, and the best place to sit d
 
 **Pavilion Road runs north from here** — a converted mews of independent food shops, butcher, baker, cheesemonger, with **The Sea, The Sea at 243** doing seafood at the top of it. It is the most concentrated good food in Chelsea and almost nobody walking the King's Road turns up it.
 
+<div data-stay-strip></div>
+
 ### Cheyne Walk and Chelsea Embankment
 
 The riverfront, and the quietest handsome walk in this part of London. Georgian terraces facing the water, **more blue plaques per hundred metres than almost any street in Britain** — Turner, Whistler, Rossetti, Elizabeth Gaskell, Mick Jagger and Keith Richards all at various points — and houseboats moored west of Battersea Bridge.
@@ -155,8 +157,6 @@ The riverfront, and the quietest handsome walk in this part of London. Georgian 
 **Restaurant Gordon Ramsay is at 68 Royal Hospital Road**, one street back — three Michelin stars since 2001, and booked months ahead.
 
 **It is a walk rather than a destination**, about fifteen minutes end to end, and there is very little to buy along it. Come for the plaques and the bridge, and eat elsewhere.
-
-<div data-stay-strip></div>
 
 ### World's End and the western King's Road
 
@@ -188,6 +188,8 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 - **[London's historic houses](/articles/historic-houses-london/)** — including the Royal Hospital Chelsea, whose grounds are more visitable than most people realise.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-chelsea-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Chelsea walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to eat and drink
 
 ![The My Old Dutch pancake house on the King's Road, a red and white striped awning over a green shopfront](../../assets/articles/chelsea-area-guide/my-old-dutch-kings-road.jpg)
@@ -206,8 +208,6 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 ![Albert Bridge over the Thames, its cast-iron towers and cables painted in pale pink, green and blue](../../assets/articles/chelsea-area-guide/albert-bridge.jpg)
 
 *Albert Bridge, repainted in 1992 in the pink, green and blue it wears now. Troops crossing it are still told to break step.*
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-chelsea-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Chelsea walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there
 

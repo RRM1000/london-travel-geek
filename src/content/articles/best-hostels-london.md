@@ -118,7 +118,7 @@ This is the question the category answers worst, because "female dorm" on a book
 
 **In a private room, check twice.** Astor's doubles and twins are en-suite. Kabannas' Nest is en-suite with air conditioning. YHA sells private rooms *and* private en-suite rooms as separate products, and its standard private room has a wash basin in the room with the shower down the hall. Barmy Badger's private double has a washbasin and a shared bathroom. Onefam's private twin and Urbany's private double are both shared-bathroom.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Age limits, the thing that catches people out
 
@@ -385,7 +385,7 @@ The operator does not publish its dorm bathroom arrangement, whether it runs a f
 ![A four-bed dorm at The Walrus, with grey metal bunks labelled by bed and an armchair by the window](../../assets/articles/best-hostels-london/the-walrus-hostel-dorm.jpg)
 
 *A four-bed dorm at The Walrus.*
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What we left out, and why
 

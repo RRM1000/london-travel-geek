@@ -190,12 +190,12 @@ Free, open all year. The Forest's northern half continues into Essex, outside th
 - **Kensington Gardens**, next to Hyde Park — Queen Anne's Alcove, the Italian Gardens fountains and the Diana, Princess of Wales Memorial Playground sit inside it, all part of a longer Royal Parks walking loop Metro maps out from Green Park. Free. *Cited by 1 source.*
 - **Victoria Tower Gardens**, Westminster — the line of plane trees beside the Houses of Parliament, best seen from across the river on the Albert Embankment, per the Evening Standard. Free. *Cited by 1 source.*
 
+<div data-stay-strip></div>
+
 ## Historic houses further out
 
 - **Ham House**, Richmond — a National Trust house on the Thames, a short riverside walk from Richmond Park, where Solosophie independently calls the gardens' colour "lovely golden hues." Grounds free; house ticketed. *Cited by 1 source.*
 - **Osterley Park**, Isleworth — a Georgian estate with more than 350 acres of parkland and rolling lawns, remodelled by Robert Adam, per Time Out's own venue guide. Grounds free; house ticketed. *Cited by 1 source.*
-
-<div data-stay-strip></div>
 
 ## Also worth the trip
 
