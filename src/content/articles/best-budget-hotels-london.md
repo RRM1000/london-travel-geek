@@ -13,16 +13,16 @@ heroImageAlt: "Good Hotel London, moored at Royal Victoria Dock, with GOOD HOTEL
 draft: false
 faq:
   - q: "What counts as a budget hotel in London?"
-    a: "In this guide, a hotel whose typical night for two came to £150 or less, taxes and fees included, across five nights we priced between October 2026 and April 2027. Of the 47 hotels we priced, 23 came in at £150 or less."
+    a: "In this guide, a hotel whose typical night for two came to £150 or less, taxes and fees included, across five nights we priced between October 2026 and April 2027. Of the 46 hotels we priced, 23 came in at £150 or less."
   - q: "Is it cheaper to stay outside central London?"
-    a: "Yes, as long as the train is quick. Across 26 hotels we priced further out, each near a direct train to the West End or the City of 30 minutes or less, the middle typical night was £141.50. Across 20 in central London it was £179.50."
+    a: "Yes, as long as the train is quick. Across 26 hotels we priced further out, each near a direct train to the West End or the City of 30 minutes or less, the middle typical night was £141.50. Across 19 in central London it was £179."
   - q: "What is the cheapest night to book a London hotel?"
-    a: "Sunday. A Sunday in October was the cheapest of our five nights at 35 of the 47 hotels we priced, and the Saturday six days later cost a median 72% more at the same hotel."
+    a: "Sunday. A Sunday in October was the cheapest of our five nights at 34 of the 46 hotels we priced, and the Saturday six days later cost a median 72% more at the same hotel."
   - q: "Which budget hotel chain is rated best?"
     a: "In Which?'s member survey published in November 2025, Wetherspoon Hotels scored 76% and Premier Inn 73%, while Travelodge scored 59% and ibis budget 57%. Those are scores for each brand across the UK, not for its London hotels."
 ---
 
-We priced 47 budget hotels that London's lists and travellers name, each on the same five nights across the year. 22 made this guide: 3 in central London, and 19 further out, near a fast train into town.
+We priced 46 budget hotels that London's lists and travellers name, each on the same five nights across the year. 22 made this guide: 3 in central London, and 19 further out, near a fast train into town.
 
 This page isn't our opinion. Every hotel here is named by independent lists, blogs and travellers, and was kept only if its typical night came to **£150 or less**.
 
@@ -38,15 +38,15 @@ Every hotel in this guide was priced the same way: one room for two adults for o
 
 | Night | Date | Central London | Further out |
 |---|---|---|---|
-| Sunday, three weeks out | 11 October 2026 | £135.50 | £99.50 |
-| Wednesday, five months out | 17 February 2027 | £164 | £102.50 |
+| Sunday, three weeks out | 11 October 2026 | £139 | £99.50 |
+| Wednesday, five months out | 17 February 2027 | £153 | £102.50 |
 | Saturday, a month out | 17 October 2026 | £218 | £185.50 |
 | Second Saturday of December | 12 December 2026 | £243 | £166 |
-| Saturday, seven months out | 17 April 2027 | £179 | £147 |
+| Saturday, seven months out | 17 April 2027 | £178 | £147 |
 
-*The middle price that night across the hotels we priced, 20 in central London and 26 further out, among those with a room.*
+*The middle price that night across the hotels we priced, 19 in central London and 26 further out, among those with a room.*
 
-**Book the Sunday if you can.** It was the cheapest of the five nights at 35 of the 47 hotels, and at the same hotel the October Saturday, six days later, cost a median 72% more. At 14 hotels it cost double or more. The December Saturday was the dearest night in central London, and the October one further out.
+**Book the Sunday if you can.** It was the cheapest of the five nights at 34 of the 46 hotels, and at the same hotel the October Saturday, six days later, cost a median 72% more. At 14 hotels it cost double or more. The December Saturday was the dearest night in central London, and the October one further out.
 
 ## Central London hotels at £150 or less
 
@@ -90,7 +90,7 @@ This one is mostly backed by people who've stayed. "Stayed at Premier Inn Hub Ki
 
 A cheaper hotel further out is only a saving if the journey in is quick. So we started with the areas, not the hotels. Every area here passed one test first: **a direct train, with no change, to the West End or the City in 30 minutes or less**, on a line that runs all day. The minutes below are time on the train, from TfL's Journey Planner for a weekday morning. The walk from the hotel to the station is given in each entry.
 
-The saving is real. Across the 26 hotels we priced further out, the middle typical night was **£141.50**, against **£179.50** across the 20 in central London. **19 of the 26 came in at £150 or less; in central London, 3 of the 20 did.**
+The saving is real. Across the 26 hotels we priced further out, the middle typical night was **£141.50**, against **£179** across the 19 in central London. **19 of the 26 came in at £150 or less; in central London, 3 of the 19 did.**
 
 We timed 151 stations in zones 2 to 4. These are the areas with a hotel at £150 or less, fastest first.
 
@@ -313,19 +313,18 @@ The October Sunday was £88, and the October and December Saturdays £96 and £8
 
 ## Named everywhere, priced over £150
 
-These hotels are named by four or more independent sources, but their typical night came to more than £150. The most-cited budget hotel of all, The Corner London City, had the dearest typical night: £311, with £1,009 on the April Saturday.
+These hotels are named by four or more independent sources, but their typical night came to more than £150.
 
 | Hotel | Sources | Typical night | Cheapest to dearest night |
 |---|---|---|---|
-| The Corner London City | 11 | £311 | £132 to £1,009 |
-| The Pilgrm | 10 | £204 | £179 to £259 |
+| [The Pilgrm](hotel:the-pilgrm) | 10 | £204 | £179 to £259 |
 | The Z Hotel Strand | 8 | £180 | £146 to £247 |
 | Premier Inn London County Hall | 7 | £177 | £92 to £295 |
-| citizenM London Bankside | 7 | £220 | £155 to £251 |
+| [citizenM London Bankside](hotel:citizenm-bankside) | 7 | £220 | £155 to £251 |
 | The Hoxton, Shepherd's Bush | 6 | £159 | £144 to £214 |
 | The Z Hotel Trafalgar | 6 | £173 | £127 to £235 |
 | The Z Hotel Soho | 6 | £205 | £145 to £250 |
-| The Z Hotel Covent Garden | 6 | £211 | £151 to £266 |
+| [The Z Hotel Covent Garden](hotel:z-hotel-covent-garden) | 6 | £211 | £151 to £266 |
 | Motel One London-Tower Hill | 6 | £222 | £160 to £243 |
 | The Z Hotel Victoria | 5 | £165 | £135 to £205 |
 | ibis Styles London Southwark | 5 | £223 | £139 to £257 |
@@ -336,7 +335,7 @@ These hotels are named by four or more independent sources, but their typical ni
 | The Resident Victoria | 4 | £258 | £222 to £272 |
 | The Hoxton, Holborn | 4 | £304 | £239 to £369 |
 
-Three more had too few nights to judge. The Culpeper had rooms on two of the five, at £185 both times, and St. Athans Hotel on one, at £106. The Lime Tree Hotel wouldn't sell a single night for two on any of them.
+Four more had too few nights to judge. The Corner London City, the most-cited budget hotel of all, was £132 on the October Sunday and £153 on the December Saturday, and sold out on the October Saturday; its 2027 prices on Hotels.com, £446 to £1,008 a night for every room, are too far above those to count. The Culpeper had rooms on two of the five, at £185 both times, and St. Athans Hotel on one, at £106. The Lime Tree Hotel wouldn't sell a single night for two on any of them.
 
 ## The budget chains, compared
 

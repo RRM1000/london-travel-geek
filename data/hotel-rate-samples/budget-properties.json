@@ -13,7 +13,11 @@
    "engine": "hotels.com",
    "url": "https://uk.hotels.com/ho215593024/the-corner-london-city-london-united-kingdom/",
    "match": "The Corner London City",
-   "branch": "One property: 42 Adler Street, Aldgate. Renamed from Qbic Hotel London City (consensus closuresAndRenames); The Travel Hack still lists it as Qbic."
+   "branch": "One property: 42 Adler Street, Aldgate. Renamed from Qbic Hotel London City (consensus closuresAndRenames); The Travel Hack still lists it as Qbic.",
+   "excludeNights": {
+    "midweek": "Hotels.com showed £446 to £705 for every room on Wed 17 Feb 2027 (captured 14 and again 15 Sep 2026), three times its £132 and £153 on the October Sunday and December Saturday: rates a year out that the hotel has not set yet, not a price anyone pays. Rob found it well under £150 when he checked on 15 Sep 2026.",
+    "spring": "Hotels.com showed exactly £1,008 for all four room types on Sat 17 Apr 2027 (captured 14 and again 15 Sep 2026) - the same figure for a Snug room and a four-person Plush room is a placeholder, not a rate."
+   }
   },
   {
    "slug": "the-pilgrm",

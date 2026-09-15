@@ -1141,15 +1141,15 @@
       "dateKey": "midweek",
       "date": "2027-02-17",
       "day": "Wed",
-      "total": 469,
-      "room": "Double Room, No Windows",
-      "ratePlan": "Non-refundable"
+      "unpriced": true,
+      "note": "Hotels.com showed £446 to £705 for every room on Wed 17 Feb 2027 (captured 14 and again 15 Sep 2026), three times its £132 and £153 on the October Sunday and December Saturday: rates a year out that the hotel has not set yet, not a price anyone pays. Rob found it well under £150 when he checked on 15 Sep 2026."
      },
      {
       "dateKey": "saturday",
       "date": "2026-10-17",
       "day": "Sat",
-      "notCaptured": true
+      "soldOut": true,
+      "note": "Choose your room We have no rooms available at this property for your trip dates"
      },
      {
       "dateKey": "december",
@@ -1163,21 +1163,23 @@
       "dateKey": "spring",
       "date": "2027-04-17",
       "day": "Sat",
-      "total": 1009,
-      "room": "Snug Room",
-      "ratePlan": null
+      "unpriced": true,
+      "note": "Hotels.com showed exactly £1,008 for all four room types on Sat 17 Apr 2027 (captured 14 and again 15 Sep 2026) - the same figure for a Snug room and a four-person Plush room is a placeholder, not a rate."
      }
     ],
-    "datesPriced": 4,
-    "soldOutOn": [],
-    "notCapturedOn": [
+    "datesPriced": 2,
+    "soldOutOn": [
      "2026-10-17"
     ],
-    "unpricedOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [
+     "2027-02-17",
+     "2027-04-17"
+    ],
     "cheapest": 132,
-    "dearest": 1009,
-    "median": 311,
-    "withinCeiling": false
+    "dearest": 153,
+    "median": 142.5,
+    "withinCeiling": null
    },
    {
     "slug": "the-pilgrm",
@@ -3274,7 +3276,7 @@
       "date": "2027-02-17",
       "day": "Wed",
       "unpriced": true,
-      "note": "£37 from Booking.com, not taken as a double: less than half its other three nights (£80 to £96). Google gives no room name, and Green Rooms also sells beds in two dormitories of 12 and 14 single beds (greenrooms.london, 15 Sep 2026), so the lowest price for two guests may be two dormitory beds rather than a double"
+      "note": "less than half its other three nights (£80 to £96). Google gives no room name, and Green Rooms also sells beds in two dormitories of 12 and 14 single beds (greenrooms.london, 15 Sep 2026), so the lowest price for two guests may be two dormitory beds rather than a double"
      },
      {
       "dateKey": "saturday",
@@ -3297,7 +3299,7 @@
       "date": "2027-04-17",
       "day": "Sat",
       "unpriced": true,
-      "note": "£37 from Booking.com, not taken as a double: less than half its other three nights (£80 to £96). Google gives no room name, and Green Rooms also sells beds in two dormitories of 12 and 14 single beds (greenrooms.london, 15 Sep 2026), so the lowest price for two guests may be two dormitory beds rather than a double"
+      "note": "less than half its other three nights (£80 to £96). Google gives no room name, and Green Rooms also sells beds in two dormitories of 12 and 14 single beds (greenrooms.london, 15 Sep 2026), so the lowest price for two guests may be two dormitory beds rather than a double"
      }
     ],
     "datesPriced": 3,

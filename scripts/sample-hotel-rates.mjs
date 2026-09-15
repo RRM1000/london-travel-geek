@@ -866,6 +866,10 @@ function reportBudget() {
       const moved = p.dateOverrides?.[d.key];
       const date = moved?.date ?? d.date;
       const base = { dateKey: d.key, date, day: DAY[new Date(date).getUTCDay()], ...(moved ? { movedFrom: d.date, why: moved.why } : {}) };
+      // A night excluded on the property record wins over any capture - a page
+      // can show a price that is plainly not a rate (every room the same
+      // £1,008 a year out), and re-reading the page does not change that.
+      if (p.excludeNights?.[d.key]) return { ...base, unpriced: true, note: p.excludeNights[d.key] };
       if (!c) return { ...base, notCaptured: true };
       if (c.unpriced) return { ...base, unpriced: true, note: c.unpriced };
       const pick = c.soldOut ? null : cheapestDouble(c.rooms);
