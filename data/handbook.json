@@ -28,6 +28,10 @@
   "recentlyDone": [
     {
       "date": "2026-09-15",
+      "what": "Budget hotels guide: fixed The Corner London City, whose £311 rested on Hotels.com placeholder prices for 2027. Every hotel now links to Hotels.com through the affiliate when Hotels.com sells it (25 links), or to its own site when it doesn't. Added a line near the top saying it covers hotels only, linked it from the Where to stay page and five stay guides, and added a rule that every new guide is linked both ways. The windowless guide now includes Point A King's Cross."
+    },
+    {
+      "date": "2026-09-15",
       "what": "Pushed live: the budget hotels guide with its photos, the breakfast guide title, the pub guides in the Eat in London hub, the Wimbledon and fried chicken updates, the writing guide and the reworked depth check."
     },
     {
@@ -129,6 +133,10 @@
     {
       "step": "Add photos",
       "detail": "Rob downloads three shots per place into scratchpad/downloaded-photos/<guide>/. A Sonnet agent picks the best of each and captions it from the guide's own text, then every photo is checked by eye against its caption. Heroes must be landscape."
+    },
+    {
+      "step": "Link it both ways",
+      "detail": "Before a new guide is finished, it links to the guides a reader wants next, and every related guide, hub and planning page links back to it. For a hotel guide, that means the Where to stay page and the other stay guides. One inbound link is not enough, and node scripts/audit-links.mjs must pass."
     },
     {
       "step": "Preview",
