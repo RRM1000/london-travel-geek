@@ -26,8 +26,8 @@ faq:
     a: "Tickets for both nights have been on sale through DICE, the ticket link on Alexandra Palace's own page, since midday on Wednesday 2 September, advertised from £6.50 on DICE and from £11.50 on the Palace's page. Treat a 'from' price as the cheapest ticket type rather than adult entry: in 2025 the advertised 'from £10.50' was the price for an 11 to 15-year-old. In 2025 an advance adult ticket was £15.50 and a child £10.50, so budget roughly £15 to £18 per adult."
   - q: "Is the Blackheath fireworks display cancelled?"
     a: "No — it is confirmed for Saturday 7 November 2026, 5pm to 10pm on Blackheath Common, and tickets are on general sale. It was cancelled from 2019 to 2024 when Lewisham withdrew funding, returned in 2025 and sold out. The important change is that it is no longer free: £16 an adult, £10 for 11 to 15s, £5 for under-10s, with family tickets from £26. The detail that catches people out is that last entry is 8pm and the fireworks also start at 8pm, so there is no arriving late."
-heroImage: "../../assets/articles/bonfire-night-london/alexandra-palace-fireworks.jpg"
-heroImageAlt: "A large red firework bursting over the crowd at the Alexandra Palace fireworks, with the lights of London visible below"
+heroImage: "../../assets/articles/bonfire-night-london/alexandra-palace-fireworks-wide.jpg"
+heroImageAlt: "A large red firework bursting in the night sky at the Alexandra Palace fireworks"
 ---
 
 **Bonfire Night 2026 is Thursday 5 November, but the fireworks are on Saturday 7th** — **thirteen displays land on that one night**, with a second wave on the Sunday.

@@ -6,10 +6,9 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-heroImage: "../../assets/articles/bath-day-trip/roman-baths-terrace.jpg"
-heroImageAlt: "The terrace above the Great Bath at the Roman Baths, its statues along the balustrade with Bath Abbey rising behind"
-heroImageCredit: "Marvin Sacdalan"
-heroImageSource: "https://www.pexels.com/photo/13020675/"
+heroImage: "../../assets/articles/bath-day-trip/pulteney-bridge-river.jpg"
+heroImageAlt: "Pulteney Bridge seen from the river, its arches and the shops built along it, with Georgian buildings behind"
+heroImageCredit: "Lebele"
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 tags: [day trips, Bath, Roman Baths, trains, spa, things to do]
@@ -122,6 +121,10 @@ Charges apply only to **Euro 1–5/V diesel and Euro 1–3 petrol or earlier**, 
 ## The Roman Baths
 
 This is the reason to come, and its pricing moves on two axes at once: the day of the week and the time of year.
+
+![The terrace above the Great Bath at the Roman Baths, its statues along the balustrade with Bath Abbey rising behind](../../assets/articles/bath-day-trip/roman-baths-terrace.jpg)
+
+*The terrace above the Great Bath, with Bath Abbey behind. Photo: Marvin Sacdalan, Pexels.*
 
 | Ticket, booked in advance, 1 Sep – 31 Oct 2026 | Weekday | Weekend / bank holiday |
 | --- | --- | --- |

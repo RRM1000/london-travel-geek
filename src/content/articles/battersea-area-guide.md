@@ -62,8 +62,12 @@ faq:
     a: "Yes — 200 acres with a boating lake, a Grade II listed Victorian layout, a small children's zoo and the Peace Pagoda on the riverside. It is quieter than Hyde Park and one of the best places in London to watch the sun set over the river. It is a fifteen-minute walk west of the Power Station."
   - q: "What is the Peace Pagoda in Battersea Park?"
     a: "A Buddhist monument given to London in 1985 by the Nipponzan-Myōhōji order, built by monks and volunteers to mark the 40th anniversary of Hiroshima and Nagasaki. It stands on the riverside path with gilded Buddhas on four sides. A monk still lives on site and tends it."
-heroImage: "../../assets/articles/battersea-area-guide/battersea-power-station.jpg"
-heroImageAlt: "The brick facade and white chimneys of Battersea Power Station"
+heroImage: "../../assets/articles/battersea-area-guide/lift-109.jpg"
+heroImageAlt: "The view from the top of a Battersea Power Station chimney, looking down over the development and out across south London"
+heroImageCredit: "amandabhslater"
+heroImageSource: "https://www.flickr.com/photos/15181848@N02/53077081501"
+heroImageLicense: "CC BY-SA 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
 For forty years Battersea Power Station was a ruin with four chimneys — the most recognisable derelict building in Britain, familiar from the cover of Pink Floyd's *Animals*. It reopened in 2022 after one of the largest restoration projects in Europe, and you can now walk into both turbine halls for free.

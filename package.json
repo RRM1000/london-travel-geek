@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/optimise-images.mjs --check && astro build",
+    "build": "node scripts/optimise-images.mjs --check && node scripts/check-hero-images.mjs && astro build",
     "preview": "astro preview",
     "check": "astro check",
     "images:check": "node scripts/optimise-images.mjs --check",

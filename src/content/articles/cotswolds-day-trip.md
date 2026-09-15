@@ -6,10 +6,9 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-heroImage: "../../assets/articles/cotswolds-day-trip/arlington-row-bibury.jpg"
-heroImageAlt: "Arlington Row at Bibury: a terrace of steep-gabled stone weavers' cottages along a narrow lane"
-heroImageCredit: "Mahmure Koseoglu"
-heroImageSource: "https://www.pexels.com/photo/14750386/"
+heroImage: "../../assets/articles/cotswolds-day-trip/lower-slaughter-mill.jpg"
+heroImageAlt: "The old mill and cottages reflected in the millpond at Lower Slaughter, ducks on the water"
+heroImageCredit: "Michelle Chadwick"
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 tags: [day trips, Cotswolds, trains, villages, driving, things to do]
@@ -179,6 +178,10 @@ Castle Combe is the same story in Wiltshire: a pay-and-display car park up in Up
 - **Cirencester** — the Roman town of Corinium, with the Corinium Museum, St John Baptist church and the Abbey Grounds. The hub of the 855 and the 882, so the natural base for the southern villages.
 - **Castle Combe** — genuinely one of the prettiest, and 12 miles from Bath on the far southern edge. Treat it as a Bath day.
 
+![Arlington Row at Bibury: a terrace of steep-gabled stone weavers' cottages along a narrow lane](../../assets/articles/cotswolds-day-trip/arlington-row-bibury.jpg)
+
+*Arlington Row at Bibury, built around 1380 as a monastic wool store. Photo: Mahmure Koseoglu, Pexels.*
+
 ## The paid attractions, and what they cost
 
 ![A thatched Cotswold cottage almost buried in ivy and hedging under a blue sky](../../assets/articles/cotswolds-day-trip/thatched-cottage.jpg)
@@ -219,10 +222,6 @@ National Trust prices are the without-Gift-Aid ones. Snowshill and Hidcote are f
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## When to go, and when not to
-
-![A row of thatched village shops painted green and pink, with a curving road in front](../../assets/articles/cotswolds-day-trip/thatched-shops.jpg)
-
-*Photo: Jordan Coleman, Pexels.*
 
 **Not a summer weekend in Bourton.** Its own parish council said in September 2025 that visitor numbers had *"placed significant pressure not only on the village centre but also on surrounding residential and commercial areas"* and added, flatly, that it *"has no control over visitor numbers and has no power to close the village."* An experimental traffic order restricting coaches on Meadow Way has been running towards September 2026, and the county council has refused the parish a residents' parking scheme. Go on a weekday, or go early.
 

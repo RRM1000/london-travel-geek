@@ -20,8 +20,8 @@ faq:
     a: "Jupiter Burger at Netil Market, Manna inside Arcade Food Hall, Mother Flipper at Brockley Market and Buk in Camden all come in well under £15. Honest Burgers and Beer + Burger Store are the cheapest of the sit-down options."
   - q: "What is a smash burger, and is that all London does now?"
     a: "A thin patty pressed hard onto a hot surface so the crust caramelises across the whole face. It dominates — Supernova, Manna, Jupiter, Dumbo, Bake Street and Chuck's are all smash. The counterweight is the thick dry-aged patty: Dove, Vesper and Blacklock cook that instead, and they are the ones worth booking."
-heroImage: "../../assets/articles/best-burgers-london/bleecker.jpg"
-heroImageAlt: "A double cheeseburger with bacon and melted cheese in a sesame bun, held in one hand over an open takeaway box"
+heroImage: "../../assets/articles/best-burgers-london/patty-and-bun.jpg"
+heroImageAlt: "A cheeseburger with a slice of melted cheese, pink pickled onion and lettuce in a glazed bun, next to a metal bucket of thick-cut chips"
 ---
 
 London's burger argument comes down to two shapes. There is the **smash** — a thin patty pressed hard onto the hot plate so the crust caramelises edge to edge — and there is the **thick dry-aged patty**, cooked pink and treated like a small steak. Almost every place below is committed to one or the other, and knowing which you prefer narrows this list by half before you read a word of it.

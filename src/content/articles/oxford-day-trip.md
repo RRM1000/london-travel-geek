@@ -6,8 +6,8 @@ publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-heroImage: "../../assets/articles/oxford-day-trip/radcliffe-camera.jpg"
-heroImageAlt: "The domed Radcliffe Camera in Oxford, honey-coloured stone lit by low sun with college roofs behind"
+heroImage: "../../assets/articles/oxford-day-trip/radcliffe-camera-dome.jpg"
+heroImageAlt: "The dome of the Radcliffe Camera in Oxford lit by low sun, with college roofs and the city behind"
 heroImageCredit: "Jess Buckle"
 heroImageSource: "https://www.pexels.com/photo/10706578/"
 heroImageLicense: "Pexels License"
@@ -238,6 +238,10 @@ Everything else is ticketed, and cheaply:
 | Children's Literature Tour | £7 child, £15 adult |
 
 **£3 for the Divinity School is the best-value ticket in Oxford** and takes a quarter of an hour. **The Radcliffe Camera cannot be visited any other way** — there is no standard entry, only the weekend tour. From Radcliffe Square the outside is free, and the outside is what everyone photographs anyway.
+
+![The domed Radcliffe Camera in Oxford, honey-coloured stone lit by low sun with college roofs behind](../../assets/articles/oxford-day-trip/radcliffe-camera.jpg)
+
+*The Radcliffe Camera, which can only be visited on the weekend tour. Photo: Jess Buckle, Pexels.*
 
 **The University Church tower is £7** for 127 steps up a medieval turret staircase and the view down onto Radcliffe Square — minimum age 8, last admission 17:30. The church itself is free.
 

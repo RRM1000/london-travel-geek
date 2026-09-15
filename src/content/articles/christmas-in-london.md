@@ -22,8 +22,8 @@ faq:
     a: "Most switch-ons cluster in the first two weeks of November, with the big names — Oxford Street, Regent Street, Carnaby Street — usually going first. The one fixed point is Trafalgar Square's tree, lit on Thursday 3 December 2026. Individual street dates for 2026 aren't announced until late September at the earliest."
   - q: "Where can you still ice skate outdoors in London this Christmas?"
     a: "Somerset House, Hampton Court Palace and Alexandra Palace are all running. The Natural History Museum's rink has closed permanently, Tower of London's has been discontinued for years, and Canary Wharf's is paused for 2026 — don't plan around any of those three."
-heroImage: "../../assets/articles/christmas-in-london/covent-garden-christmas-tree.jpg"
-heroImageAlt: "Covent Garden's illuminated Christmas tree at night in the Piazza, decorated with white and red lights"
+heroImage: "../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg"
+heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with SKATE spelled in illuminated letters along the roofline of the neoclassical building behind"
 ---
 
 **Christmas in London runs from mid-November to the first week of January**, and most of it — the markets, the lights, the outdoor rinks — is free to look at even if the rides and skating aren't. The one thing to know before anything else: Hyde Park Winter Wonderland is not a free-to-wander street market, whatever the name suggests. Here's what's actually on, what it costs, and what's quietly stopped running.

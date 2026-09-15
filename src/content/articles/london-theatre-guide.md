@@ -27,8 +27,8 @@ faq:
     a: "A midweek evening or a midweek matinee, and ideally in January or February. Saturday evening is the most expensive slot of the week, and the summer holidays are the most expensive part of the year. The same seat for the same show can differ substantially between a Tuesday and a Saturday."
   - q: "Should I buy from ticket touts near the theatre?"
     a: "No. Buy from the theatre's own box office, an official agency, or TKTS. Street sellers and unofficial resale sites around Leicester Square are not a bargain and you have no protection if the ticket is not valid."
-heroImage: "../../assets/articles/london-theatre-guide/noel-coward-theatre-night.jpg"
-heroImageAlt: "The lit facade of the Noel Coward Theatre at night, with an audience gathering outside before a performance"
+heroImage: "../../assets/articles/london-theatre-guide/west-end-stalls-view.jpg"
+heroImageAlt: "The view towards the stage from the stalls of a West End theatre, with the audience seated before curtain"
 ---
 
 London has more theatre than any city on earth, and that is exactly the problem. Two hundred-odd shows are playing tonight, prices run from £10 to £250 for the same evening, and most visitors end up booking whatever they have already heard of, at close to the highest price it sells for.

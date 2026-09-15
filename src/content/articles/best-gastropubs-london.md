@@ -2,12 +2,12 @@
 title: "The Best Gastropubs in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Gastropubs in London 2026: Ranked Across Lists"
 description: "Thirty independent sources across 126 London pubs. Which kitchens the awards, critics and reviewers actually agree on, which rooms take bookings, and which ones shut on Mondays."
-heroImage: "../../assets/articles/best-gastropubs-london/the-devonshire-soho.jpg"
-heroImageAlt: "The Devonshire on Denman Street in Soho, a Victorian corner pub with drinkers on the pavement outside"
-heroImageCredit: "Ewan-M"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Devonshire,_Soho,_W1.jpg"
-heroImageLicense: "CC BY-SA 4.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+heroImage: "../../assets/articles/best-gastropubs-london/the-marksman-hackney-road.jpg"
+heroImageAlt: "The Marksman on Hackney Road, a tiled pub frontage with its name in gold above the windows"
+heroImageCredit: "Matt Brown"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:The_Marksman_pub_254_Hackney_Road_2025-05-08.jpg"
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-09-14
 sites: [london]
 canonicalSite: london

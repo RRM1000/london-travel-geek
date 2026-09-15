@@ -2,8 +2,8 @@
 title: "The Best Bubble Tea in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Bubble Tea in London 2026, Ranked"
 description: "The bubble tea shops London's lists, blogs and boba reviewers agree on, checked for what's actually open. Several of the most-recommended names have closed."
-heroImage: "../../assets/articles/best-bubble-tea-london/xing-fu-tang-brown-sugar-wok.jpg"
-heroImageAlt: "A wide wok of brown sugar tapioca pearls simmering in dark syrup behind a glass screen, with a wooden paddle resting in it"
+heroImage: "../../assets/articles/best-bubble-tea-london/happy-lemon-newport-court.jpg"
+heroImageAlt: "Happy Lemon's bright yellow shopfront at 24A Newport Court, with Bubble Tea, Fresh Fruit Tea and Rock Salt Cheese painted along the fascia"
 publishedAt: 2026-09-14
 updatedAt: 2026-09-14
 sites: [london]

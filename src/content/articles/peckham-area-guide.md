@@ -58,12 +58,8 @@ faq:
     a: "Very. It has a Thai restaurant cooking northern Thai food to a standard rare anywhere in London, a Michelin Bib Gourmand, birria tacos from a market stall, and a Taiwanese bao shop — most of it at prices that would be double in zone 1."
   - q: "How long do you need in Peckham?"
     a: "An afternoon and an evening. Walk Rye Lane, go up to a rooftop for the view back over the city, then eat. It does not need a full day and it is much better after dark than before."
-heroImage: ../../assets/articles/peckham-area-guide/the-greyhound-public-house-peckham-high-street-london-geogra.jpg
-heroImageAlt: "The Greyhound, a Victorian corner pub on Peckham High Street"
-heroImageCredit: "PAUL FARMER"
-heroImageSource: https://commons.wikimedia.org/wiki/File:The_Greyhound_Public_House,_Peckham_High_Street,_London_-_geograph.org.uk_-_3089475.jpg
-heroImageLicense: "CC BY-SA 2.0"
-heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
+heroImage: "../../assets/articles/peckham-area-guide/peckham-levels.jpg"
+heroImageAlt: "The view from a high floor of the Peckham Levels car park, over terraced rooftops toward the City skyline"
 ---
 
 Peckham is the most-changed part of London in the last fifteen years and still the least polished. Rye Lane is a working high street of African grocers, fabric shops and phone repair kiosks; three floors above it, people are drinking cocktails on a car park roof looking back at St Paul's.

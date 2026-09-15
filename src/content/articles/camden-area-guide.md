@@ -67,8 +67,8 @@ faq:
     a: "Chalcot Crescent in Primrose Hill, about fifteen minutes north-west of Camden Lock. The address in the books and films is 32 Windsor Gardens, which is fictional — the curving terrace of pastel houses used for the exterior is on Chalcot Crescent. They are private homes on an ordinary residential street, so photograph from the pavement and keep off the steps."
   - q: "Is Camden safe?"
     a: "Yes, though it is very crowded and pickpocketing around the market and Camden Town station is a real risk. Camden Town station used to run exit-only on Sunday afternoons to manage the crush; that restriction was lifted in 2019, but the crowding it existed to control has not gone away. Keep your phone and bag secure, and be aware that the area around the station gets rowdy late at night."
-heroImage: "../../assets/articles/camden-area-guide/camden-market-umbrellas.jpg"
-heroImageAlt: "A cobbled alley in Camden Market roofed with hundreds of pink and yellow umbrellas"
+heroImage: "../../assets/articles/camden-area-guide/camden-lock-narrowboat.jpg"
+heroImageAlt: "A narrowboat moored at Camden Lock beneath a willow tree, with street food counters along the far bank"
 ---
 
 Camden built its reputation on markets and music, and it still trades on both. What began as a craft market by the canal lock in 1974 now sprawls across five separate markets and draws around 250,000 people a week.
@@ -101,6 +101,10 @@ Camden has its own share of the commemorative plaques marking where notable peop
 
 ### Camden Lock and the canal
 The centre of it, and the part worth arriving early for. **Camden Market opens 10am to 7pm daily**, including bank holidays, and the cobbled lanes between the lock and the railway arches are close to impassable by early afternoon at a weekend. Before eleven on a weekday you can actually see what the stalls are selling.
+
+![A cobbled alley in Camden Market roofed with hundreds of pink and yellow umbrellas](../../assets/articles/camden-area-guide/camden-market-umbrellas.jpg)
+
+*Camden Market opens at 10am every day. Before eleven on a weekday you can still see the stalls.*
 
 The **food is the main event now** rather than the clothing — around a hundred street food counters across the lock and Hawley Wharf, from Cuban to Korean to Argentinian, most plates £8 to £12. **Hawley Wharf's food halls run 11.30am to 11pm**, considerably later than the market itself, so the lock empties in the evening while the restaurants beside it fill.
 
