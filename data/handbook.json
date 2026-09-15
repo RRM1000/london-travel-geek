@@ -5,15 +5,9 @@
   "inProgress": [
     {
       "title": "Budget hotels guide",
-      "state": "paused",
-      "detail": "Draft written with its fact-check script. Central London prices are done for 30 hotels, 7 of the 29 outer London hotels are priced, and the other 22 are not. Paused by Rob on 15 Sep because pricing runs one browser tab at a time, about 2 to 3 hours for the rest.",
-      "next": "Pick the stay dates first (see Waiting on you). Then price the 22 outer hotels, write the outer section and publish."
-    },
-    {
-      "title": "Apify connection",
-      "state": "blocked",
-      "detail": "Installed in Claude Code on 15 Sep with the Hotels.com scraper enabled, which could price hotels much faster than the browser.",
-      "next": "Sign in once (see Waiting on you). Every Apify run costs money, so each one gets a go-ahead first."
+      "state": "in progress",
+      "detail": "Draft written with its fact-check script, which still has 17 price gaps. Prices are done for all 30 central London hotels and 22 of the 29 outer London ones: 7 in the browser, and 15 through Apify on 15 Sep. Apify couldn't price the other 7.",
+      "next": "Fill the draft's price gaps and write the outer London section from the new prices, then share a preview."
     }
   ],
   "nextUp": [
@@ -25,14 +19,16 @@
     "Once the outer hotel prices are in, check the best areas to stay guide's advice against staying further out, which currently says it saves too little to be worth it."
   ],
   "waitingOnRob": [
-    "Pick the stay dates for the hotel price check. Reusing the central London dates (11 Oct, 17 Oct, 12 Dec 2026, 17 Feb and 17 Apr 2027) keeps outer and central prices comparable, but only until 19 September.",
-    "Sign in to Apify: in a new Claude Code session type /mcp, choose apify and log in. You can also do it in Settings, Connectors.",
     "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
     "Say if any subjects are off-limits for the site. None are recorded yet.",
     "Four guides mark some entries as named by none of the sources (Middle Eastern, Sunday roast, Turkish, most instagrammable). That is close to the weakness lines you banned: keep the markers or cut them?",
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-15",
+      "what": "Priced 15 more outer London hotels through Apify on the central London dates, for about $2.08. Nine come in at £150 or less, four are over, and two have only two prices. Apify couldn't price seven: The Windmill, Brook Green Hotel, High Road House, Fox & Goose, The Captain Cook, ibis Wembley and Best Western Chiswick."
+    },
     {
       "date": "2026-09-15",
       "what": "Gathered the writing rules, which were spread across two skills, a two-line file and Claude's memory, into one file (CONTENT_GUIDELINES.md) that every Claude session and agent now loads. Fixed two skill lines that contradicted your rules."
