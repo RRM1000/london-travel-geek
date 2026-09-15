@@ -86,11 +86,19 @@ The first thing inside the gate. Follow the path north to the water and along th
 
 **Row boats and pedalos** go out from the boathouse at the lake's western end, **late March to October**, with no need to book. Half an hour costs an adult **£10.40**, or **£6.70 before 1pm on weekdays and before noon at weekends**. Boats start at 11am on weekdays and 10am at weekends.
 
+![A blue pedal boat out on the boating lake, with a swan swimming past and trees lining the far shore](../../assets/articles/regents-park-marylebone-walk/the-boating-lake-pedalo.jpg)
+
+*Boats go out from the boathouse from late March to October.*
+
 ## 3. Regent's Park Open Air Theatre
 
 **The oldest professional permanent outdoor theatre in Britain**, open since 1932, with 1,304 seats inside the Inner Circle.
 
 It plays **a summer season only, May to September**, and you go in for performances, not to look round. Tickets start at **£15**, plus a £2.50 booking fee per transaction. Grass-bank seats are sometimes sold on the day at the box office: from 11am for matinees and 5pm for evening shows, two per person.
+
+![The wooden entrance gate to the Open Air Theatre, with the venue's name in gold letters above and a ticket holders' queue sign beside it](../../assets/articles/regents-park-marylebone-walk/open-air-theatre-entrance.jpg)
+
+*The entrance inside the Inner Circle.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="regents-park-marylebone-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -100,6 +108,10 @@ It plays **a summer season only, May to September**, and you go in for performan
 
 **Free**, inside park hours: the gates open at 5am and close at dusk. Dogs are not allowed in. Leave by the **Chester Road** gates and walk east to the edge of the park.
 
+![A wooden footbridge over the ornamental lake in Queen Mary's Gardens, framed by a weeping willow](../../assets/articles/regents-park-marylebone-walk/queen-marys-gardens-bridge.jpg)
+
+*The ornamental lake, which carries the gardens outside rose season.*
+
 ## 5. Chester Terrace and Cumberland Terrace
 
 **The reason Regent's Park exists.** John Nash laid the park out as a setting for stucco palaces, and the Outer Circle is where you see them.
@@ -107,6 +119,10 @@ It plays **a summer season only, May to September**, and you go in for performan
 At Chester Gate, turn north. **Chester Terrace** comes first, with the longest unbroken façade in the park. **Cumberland Terrace**, completed in 1826, is the showpiece: a run of columns under a sculpted pediment.
 
 Both are private homes, so the pavement is the view. Where the two terraces meet, a gate on the park side leads back in to the Broad Walk.
+
+![The columned entrance and sculpted white pediment of Cumberland Terrace](../../assets/articles/regents-park-marylebone-walk/chester-and-cumberland-terraces-pediment.jpg)
+
+*Cumberland Terrace, the showpiece: a run of columns under a sculpted pediment.*
 
 ## 6. The Broad Walk and the Avenue Gardens
 
@@ -116,6 +132,10 @@ Past Chester Road it becomes the **Avenue Gardens**, which Nash also designed: t
 
 The avenue runs dead straight to Park Square, and Park Crescent is across the road.
 
+![A three-tiered stone fountain with water jets, framed by trees along the Avenue Gardens](../../assets/articles/regents-park-marylebone-walk/broad-walk-avenue-gardens-fountain.jpg)
+
+*One of the Avenue Gardens' tiered fountains, also Nash's design.*
+
 ## 7. Park Crescent
 
 **Nash's stucco half-circle**, begun in 1806, stalled when the builder went bankrupt after six houses, and finished in 1821. It frames the top of Portland Place.
@@ -123,6 +143,10 @@ The avenue runs dead straight to Park Square, and Park Crescent is across the ro
 What you see is Nash's design. Almost everything behind the façade has been rebuilt, twice.
 
 Regent's Park station (Bakerloo) is on the corner, which makes this the halfway exit. Otherwise it is about ten minutes west to Marylebone High Street.
+
+![The curved cream stucco facade of Park Crescent, with ground-floor columns and the road curving round it](../../assets/articles/regents-park-marylebone-walk/park-crescent-facade.jpg)
+
+*Nash's stucco half-circle, framing the top of Portland Place.*
 
 ## 8. Marylebone High Street and Daunt Books
 
@@ -140,6 +164,10 @@ Turn right along Paddington Street. The south garden was **consecrated in 1733 a
 
 Now it is a quiet square of plane trees with a bandstand and a playground, **open daily from 8am**, with **public toilets** off Paddington Street.
 
+![Paddington Street Gardens with a glass-sided bandstand, flower beds and mature plane trees against a blue sky](../../assets/articles/regents-park-marylebone-walk/paddington-street-gardens-bandstand.jpg)
+
+*A quiet square of plane trees with a bandstand.*
+
 **Marylebone Farmers' Market** is a minute away: **Sundays only, 10am to 2pm**, rain or shine, on St Vincent Street, Aybrook Street and the top of Moxon Street. Fish, meat, game in season, and fruit and vegetables direct from the farms.
 
 ## 10. The Wallace Collection
@@ -155,6 +183,10 @@ Now it is a quiet square of plane trees with a bandstand and a playground, **ope
 ## 11. St Christopher's Place to Bond Street
 
 South to Wigmore Street and into **St Christopher's Place**, a pedestrian alley of shops and pavement tables that comes out on Oxford Street under a purple clock.
+
+![Outdoor café tables under yellow awnings along the pedestrianised St Christopher's Place, with shops and string lights above](../../assets/articles/regents-park-marylebone-walk/st-christophers-place-tables.jpg)
+
+*A pedestrian alley of shops and pavement tables.*
 
 **Bond Street station** is two minutes along Oxford Street to the left. That is the end.
 

@@ -82,6 +82,10 @@ For the rest of both areas, see the [Fitzrovia area guide](/articles/fitzrovia-a
 
 Virginia Woolf and George Bernard Shaw both lived at number 29, in different decades. The garden in the middle is private; the pavements are not. More names are on our [plaques map](/plaques/?area=fitzrovia).
 
+![The cream Georgian terrace at Fitzroy Square with a blue plaque and door at number 29](../../assets/articles/fitzrovia-mayfair-walk/fitzroy-square-terrace.jpg)
+
+*Number 29, where Virginia Woolf and George Bernard Shaw both lived.*
+
 Leave by Fitzroy Street, heading south.
 
 ## 2. Charlotte Street and the BT Tower
@@ -96,11 +100,19 @@ Fitzroy Street runs past the foot of the **BT Tower**, London's tallest building
 
 > 💡 **The detour: the Fitzrovia Chapel.** Two minutes off the route on Pearson Square, the last surviving piece of the Middlesex Hospital, with a ceiling of gold mosaic behind a plain brick front. **Free, no booking**, and open most Mondays, Tuesdays and Wednesdays, 11am to 5pm, plus at least one Sunday a month. During exhibitions it usually opens daily.
 
+![The gold mosaic vaulted ceiling of the Fitzrovia Chapel, with a starred pattern above a Latin inscription](../../assets/articles/fitzrovia-mayfair-walk/fitzrovia-chapel-mosaic-ceiling.jpg)
+
+*The Fitzrovia Chapel's ceiling of gold mosaic.*
+
 ## 3. All Saints, Margaret Street
 
 **One of the most intensely decorated church interiors in London, thirty seconds from Oxford Street.** William Butterfield's Victorian Gothic church sits back from Margaret Street behind a small courtyard, which is why almost everyone walks past it.
 
 **Free, and open every day from 11am to 7pm.** Mass is at noon on weekdays and 11am on Sundays, so time the visit around it.
+
+![The richly patterned Gothic interior of All Saints, Margaret Street, with a gilded reredos above the altar](../../assets/articles/fitzrovia-mayfair-walk/all-saints-margaret-street-interior.jpg)
+
+*Inside All Saints, one of the most intensely decorated church interiors in London.*
 
 Then cross Oxford Street at Oxford Circus and take Princes Street to Hanover Square.
 
@@ -112,6 +124,10 @@ Then cross Oxford Street at Oxford Circus and take Princes Street to Hanover Squ
 
 > ⚠️ **St George's is closed on Saturdays**, apart from weddings and services. On **Sundays it opens only 8am to noon**. Monday to Friday it opens 8.30am to 4pm, and until 6pm on Wednesdays.
 
+![The barrel-vaulted interior of St George's, Hanover Square, looking towards the William Kent Last Supper painting above the altar](../../assets/articles/fitzrovia-mayfair-walk/st-georges-hanover-square-interior.jpg)
+
+*Inside St George's, with the Last Supper painted for the church by William Kent in 1724.*
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-mayfair-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. Savile Row
@@ -121,6 +137,10 @@ Along Conduit Street and turn right down **Savile Row**, the street that gave be
 **Huntsman at No. 11** supplied the Kingsman films with their premise. **Gieves & Hawkes at No. 1** is at the far end. **No. 3** is where the Beatles played their last live performance, on the roof, in January 1969.
 
 > ⚠️ **The tailors keep different weekends.** **Gieves & Hawkes** opens every day, including Sunday 11am to 4pm. **Huntsman** opens Saturday 10am to 3pm and shuts on Sundays. **Henry Poole** opens Monday to Friday only.
+
+![The white stone frontage of Gieves & Hawkes at No. 1 Savile Row, with a Union flag above the entrance](../../assets/articles/fitzrovia-mayfair-walk/savile-row-gieves-hawkes.jpg)
+
+*Gieves & Hawkes at No. 1 Savile Row.*
 
 ## 6. Burlington Arcade and the Royal Academy
 
@@ -142,6 +162,10 @@ Out on Piccadilly, turn left into the courtyard of **Burlington House**, home of
 
 **Open Monday to Thursday 9am to 6.30pm, Friday and Saturday until 8pm, and Sunday 10.30am to 6.30pm.**
 
+![The glass-domed interior of Piccadilly Arcade lined with shopfronts, including the Piccadilly Vaults jewellers](../../assets/articles/fitzrovia-mayfair-walk/piccadilly-arcade-interior.jpg)
+
+*Piccadilly Arcade, quieter than Burlington and directly opposite the RA.*
+
 From here the route swings west. Follow Jermyn Street to St James's Street, go up to Piccadilly and west past the Ritz, then turn right up Berkeley Street. Cross **Berkeley Square**, whose plane trees were planted in 1789, and follow Davies Street north. It is the longest link on the route, about fifteen minutes.
 
 ## 8. Grosvenor Square
@@ -150,17 +174,29 @@ From here the route swings west. Follow Jermyn Street to St James's Street, go u
 
 **Free, and open 7am to 9pm in summer and 7am to 6pm in winter.** It is also the best-equipped stop on the route: toilets, drinking-water fountains, and a café kiosk run by London Wildlife Trust from 8am to 5pm daily (4pm in winter).
 
+![The Franklin D. Roosevelt memorial statue among trees and planting in the redesigned Grosvenor Square](../../assets/articles/fitzrovia-mayfair-walk/grosvenor-square-garden.jpg)
+
+*The Roosevelt memorial, one of several that stayed through the square's redesign.*
+
 ## 9. Mount Street and Mount Street Gardens
 
 Leave by Carlos Place for **Mount Street**, a run of pink terracotta built by the Grosvenor estate in the 1880s. Walk west to **The Audley** on the corner, turn left down South Audley Street, and go into the gardens beside Grosvenor Chapel.
 
 **Mount Street Gardens** was the burial ground of St George's, stop four. Burials ended in 1854 and it has been a public garden since 1889: plane trees, lawns and benches, walled in by mansion blocks. **Free, and the best place to sit down in W1.**
 
+![A path lined with benches under plane trees in Mount Street Gardens, with red-brick mansion blocks behind](../../assets/articles/fitzrovia-mayfair-walk/mount-street-gardens-benches.jpg)
+
+*Mount Street Gardens, walled in by mansion blocks on every side.*
+
 Leave by the Farm Street side, past the Jesuit **Church of the Immaculate Conception**. It is free and open daily: 7.30am to 6.30pm on weekdays, 10am to 7pm on Saturdays and 7.30am to 7pm on Sundays.
 
 ## 10. Shepherd Market
 
 South to Curzon Street and through the passages into **Shepherd Market**, built on the site of the May Fair that named the district: narrow lanes, two-storey buildings and no chains.
+
+![A narrow pedestrian lane in Shepherd Market lined with independent shopfronts, including a barber and a restaurant](../../assets/articles/fitzrovia-mayfair-walk/shepherd-market-lane.jpg)
+
+*One of Shepherd Market's narrow lanes, with no chains among the shopfronts.*
 
 **Ye Grapes** at number 16 opened here in 1742 as the Market Coffee House and was rebuilt in its present form in 1882. It opens Monday to Saturday 11am to 11pm, and Sunday noon to 10.30pm.
 
@@ -169,6 +205,10 @@ Leave by White Horse Street to Piccadilly.
 ## 11. Green Park
 
 Cross Piccadilly and you are in it. **Charles II made the park in 1660** so he could walk between Hyde Park and St James's Park without leaving royal land. There are no formal flowerbeds, just trees and grass, with the Canada Memorial at the eastern end and the Bomber Command Memorial at the west.
+
+![The bronze figures of RAF aircrew at the Bomber Command Memorial in Green Park, sheltered under its open roof](../../assets/articles/fitzrovia-mayfair-walk/green-park-bomber-command-memorial.jpg)
+
+*The Bomber Command Memorial, at the western end of the park.*
 
 **The pedestrian gates open 5am to midnight.** Buckingham Palace is across the park; Green Park station is at the north-east corner.
 

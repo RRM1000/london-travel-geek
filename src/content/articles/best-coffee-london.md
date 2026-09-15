@@ -77,6 +77,10 @@ This is a guide to **independents worth crossing a street for**, not chains. Mos
 
 **Roasting since 1978** and still the default answer to where to get coffee in London. The Borough Market shop is the one to visit — long queue, no seats, and worth it.
 
+![The corner shopfront of Monmouth Coffee Company on Park Street, with "MONMOUTH" painted above the open frontage](../../assets/articles/best-coffee-london/monmouth-coffee-borough-exterior.jpg)
+
+*The Borough shop, on the corner of Park Street. No seats, so the queue forms outside.*
+
 **Closed Sundays**, and the Borough queue is at its longest during weekend market hours — 11am to 2pm on a Saturday is the worst of it.
 
 **The Covent Garden shop is considerably quieter and pours the same coffee**, which is the tip most guides bury. If the queue at Borough is round the corner, walk to Monmouth Street instead.
@@ -91,6 +95,10 @@ The shop that **trained a generation of London baristas**. It runs its own train
 
 The food is simple and good — toasties, banana bread, a short breakfast list — but the counter is the reason to come.
 
+![The white frontage of Prufrock Coffee on Leather Lane, with red-framed pavement tables and chairs outside](../../assets/articles/best-coffee-london/prufrock-coffee-exterior.jpg)
+
+*Prufrock's Leather Lane shopfront, with a few tables out front.*
+
 **Walk-in only, three minutes from Chancery Lane**, and busiest with the Leather Lane lunch trade between noon and 2pm, when the street market outside is at full volume.
 
 **It keeps weekday hours.** Leather Lane is an office-and-market street, so weekends are quiet or shut — check before a Saturday trip. Mid-morning is the window when you can actually talk to whoever is on the bar.
@@ -102,6 +110,10 @@ The food is simple and good — toasties, banana bread, a short breakfast list �
 Australian-run, and one of the shops that brought antipodean coffee culture to London — the food counter is as good as the espresso, which is rare enough to be the reason to come.
 
 A small, bright room off Great Titchfield Street with a handful of seats and a lot of people passing through.
+
+![Kaffeine's black shopfront sign at 66 Great Titchfield Street](../../assets/articles/best-coffee-london/kaffeine-exterior.jpg)
+
+*The Great Titchfield Street shop, with the second Kaffeine a few minutes away on Eastcastle Street.*
 
 **Counter service, no bookings.** Mon–Fri 7.30am–5.30pm, Sat 9am–4pm, **closed Sundays**.
 
@@ -119,6 +131,10 @@ A small, bright room off Great Titchfield Street with a handful of seats and a l
 
 A **tiny City counter** that consistently tops London coffee rankings and has almost nowhere to sit. Built for a queue of people on their way somewhere else, and it works because of that rather than in spite of it.
 
+![The corner shopfront of Rosslyn Coffee on London Wall, with two customers sitting on the outside bench holding takeaway cups](../../assets/articles/best-coffee-london/rosslyn-coffee-exterior.jpg)
+
+*The London Wall corner shop. Most people take their cup and keep walking.*
+
 **Closed Saturdays and Sundays** — it runs on office hours, because its customers are office workers. That is the single thing to know: a weekend trip to the City for this is a wasted one.
 
 **118 London Wall, EC2Y 5JA**, two minutes from Moorgate. The queue moves fast because almost nobody sits down, so a long line is not the wait it looks like.
@@ -133,6 +149,10 @@ Moved from New Zealand to Hammersmith in 2019 and has been on the national best-
 
 A small neighbourhood room rather than a destination space, so expect to stand if you arrive at the wrong moment.
 
+![The green-tiled counter at Carbon Kopi, with pendant lights overhead and coffee bags on the shelves behind](../../assets/articles/best-coffee-london/carbon-kopi-counter.jpg)
+
+*The counter at Carbon Kopi. It's a small neighbourhood room, not a destination space.*
+
 **Walk-in only, eight minutes from Barons Court.** Worth the detour if you are already west; not worth crossing London for unless you are a completist.
 
 ### WatchHouse, Bermondsey
@@ -140,6 +160,10 @@ A small neighbourhood room rather than a destination space, so expect to stand i
 *£ · Bermondsey Street*
 
 Started in a **nineteenth-century watchman's hut** on Bermondsey Street and grew into the most polished coffee group in London — uniformly good across every site, which almost no other group manages.
+
+![The small cream-painted watchman's hut on Bermondsey Street housing the original WatchHouse, with its sign over the door](../../assets/articles/best-coffee-london/watchhouse-bermondsey-exterior.jpg)
+
+*The original watchman's hut on Bermondsey Street, where WatchHouse started.*
 
 **Room to sit, unlike most of this list**, though the Bermondsey Street original seats about ten. The larger Brunch Houses serve breakfast until 11am and are the ones to pick if you want a table and a plate.
 
@@ -156,6 +180,10 @@ Started in a **nineteenth-century watchman's hut** on Bermondsey Street and grew
 An all-day kitchen with its own roastery attached — **the room most responsible for London's brunch-and-flat-white format**, copied by half the city since.
 
 Big, loud and industrial, with space to sit and work in a way most specialist coffee rooms cannot offer.
+
+![The corner shopfront of Caravan on Exmouth Market, with awnings out and tables on the pavement](../../assets/articles/best-coffee-london/caravan-exmouth-market-exterior.jpg)
+
+*The Exmouth Market corner site, with outdoor tables under the awnings.*
 
 **Bookings are taken across the seven London sites**, which is unusual on this page — almost everything else here is walk-in only — and worth using at weekends when brunch runs long and the wait is real.
 
@@ -193,6 +221,10 @@ Roasted in **Cornwall** and poured in a clean, modern Shoreditch room. A favouri
 
 Pastries and a short toastie list rather than a kitchen, so this is a coffee stop rather than a meal.
 
+![The counter at Origin Coffee Roasters, with a large colourful mural on the wall and pastries in a glass case](../../assets/articles/best-coffee-london/origin-coffee-counter.jpg)
+
+*The bar at Origin's Shoreditch room, under the mural.*
+
 **65 Charlotte Road, EC2A 3PE**, and the three minutes in the line above is the honest figure — some listings say eight, which is the walk to a different Shoreditch site.
 
 **Calmest mid-afternoon.** Shoreditch coffee rooms fill with laptops from about ten and again at lunch; between two and four it is a different room.
@@ -202,6 +234,10 @@ Pastries and a short toastie list rather than a kitchen, so this is a coffee sto
 *£ · 4 min from Old Street*
 
 A **working roastery in the basement with a full kitchen above it** — closer to an all-day restaurant than a coffee shop, and busy for brunch as much as for coffee.
+
+![The open kitchen at Ozone Coffee Roasters, with a chef working at the pass and a customer seated at the counter](../../assets/articles/best-coffee-london/ozone-coffee-kitchen.jpg)
+
+*The kitchen above the roastery. It's closer to a restaurant than a coffee shop.*
 
 **Walk-in, and the four minutes from Old Street in the line above is the honest figure.** At **11 Leonard Street, EC2A 4AQ**.
 
@@ -232,6 +268,10 @@ A roaster's shop where **the filter list changes constantly** and the staff will
 On **Broadway Market since before the street became what it is now**, roasting its own and still busiest on a Saturday. Pair it with the market rather than making a separate trip.
 
 Pastries and sandwiches from the counter rather than a menu.
+
+![The window display at Climpson & Sons, with rows of bagged coffee beans and a tray of pastries below](../../assets/articles/best-coffee-london/climpson-and-sons-pastry-counter.jpg)
+
+*The counter at Broadway Market: bagged beans on top, pastries below.*
 
 **Walk-in, and the six minutes from Cambridge Heath in the line above is the honest figure** — London Fields station is about the same.
 
@@ -293,6 +333,10 @@ The oldest thing on this list by a century, and still a working merchant rather 
 
 Coffee served inside a **restored Victorian public lavatory**, with the original porcelain urinals turned into the counter you sit at — a gimmick that would be unbearable if the coffee were not good.
 
+![A row of converted Victorian porcelain urinals, now the counter at The Attendant, against white tiled walls](../../assets/articles/best-coffee-london/the-attendant-urinal-counter.jpg)
+
+*The original urinals, now the counter you sit at.*
+
 It is a basement, so it is dim, small and warmer than you expect. **Better as a stop than a place to settle** — there are perhaps a dozen seats and the room does not suit lingering.
 
 **27A Foley Street, W1W 6DY**, seven minutes from Goodge Street and about the same from Oxford Circus.
@@ -308,6 +352,10 @@ It is a basement, so it is dim, small and warmer than you expect. **Better as a 
 Serious coffee and a proper British breakfast down a Hampstead alley — a **bacon sandwich and a flat white**, done exactly right, and the default meeting place for anyone who lives up there.
 
 Perrins Court is a pedestrian lane, so there are outdoor tables and no traffic.
+
+![Ginger & White's brown shopfront on Perrins Court, with red and cream outdoor tables and chairs on the pavement](../../assets/articles/best-coffee-london/ginger-and-white-exterior.jpg)
+
+*The Perrins Court frontage, with outdoor tables on the pedestrian lane.*
 
 **No reservations**, indoor and outdoor seating. Mon–Fri 7.30am–5.30pm, Sat to 6pm, Sun 8am–6pm — **one of the few here open all weekend**. Two minutes from Hampstead station, and the obvious start to a Heath walk.
 

@@ -73,6 +73,10 @@ The national collection of international modern art inside Giles Gilbert Scott's
 
 *Free · open late Fridays*
 
+![Van Gogh's Sunflowers painting in a gilt frame, showing a vase of yellow sunflowers signed 'Vincent'](../../assets/articles/best-galleries-london/national-gallery-van-gogh-sunflowers.jpg)
+
+*Van Gogh's Sunflowers, one of the two thousand paintings in the free collection.*
+
 Two thousand paintings from the 1200s to 1900 — Van Gogh's *Sunflowers*, Turner's *Fighting Temeraire*, the Wilton Diptych, Velázquez's *Rokeby Venus*. It is unfinishable in a day and pretending otherwise ruins the visit: **pick two rooms and actually look at them.**
 
 **Free, no ticket, no booking**, and you can walk in to see one painting and leave, which is a perfectly respectable use of the building.
@@ -85,6 +89,10 @@ Two thousand paintings from the 1200s to 1900 — Van Gogh's *Sunflowers*, Turne
 
 *Free · Sun–Thu 10.30am–6pm, Fri–Sat to 9pm*
 
+![Tudor-era portraits on a dark blue wall, including a crowned queen in gold robes holding a sceptre and orb](../../assets/articles/best-galleries-london/national-portrait-gallery-tudor-portraits.jpg)
+
+*The Tudor rooms, arranged by period as the gallery works down through the centuries.*
+
 Reopened in 2023 after a three-year redevelopment that reversed the entrance, opened up the north facade and rehung the whole thing. Round the corner from the National and **consistently calmer**, which is the reason to come — the same crowds do not make it this far.
 
 It is arranged by period rather than by artist, so it reads as a history of Britain told through faces: Tudors at the top, the twentieth century at the bottom, and you work downwards.
@@ -96,6 +104,10 @@ It is arranged by period rather than by artist, so it reads as a history of Brit
 ### Tate Britain, Westminster
 
 *Free · daily 10am–6pm*
+
+![The Portland stone facade of Tate Britain with orange Tate Britain and Free for All banners hanging between the columns](../../assets/articles/best-galleries-london/tate-britain-facade.jpg)
+
+*Tate Britain, free and open every day.*
 
 The national collection of British art — five hundred years of it, from Tudor portraits to the present, and **the largest holding of Turner anywhere**, kept in the purpose-built Clore Gallery. If Turner is the reason you came to London's galleries, this is the building, not the National.
 
@@ -113,6 +125,10 @@ The national collection of British art — five hundred years of it, from Tudor 
 
 *Free · Bermondsey Street SE1 3TQ*
 
+![A vast white gallery room at White Cube Bermondsey with sculptures and prints spaced far apart and no visitors in sight](../../assets/articles/best-galleries-london/white-cube-bermondsey-gallery-room.jpg)
+
+*Often nearly empty: a room the size of a tennis court to yourself on a weekday afternoon.*
+
 **Fifty-four thousand square feet** behind a plain 1970s warehouse frontage that gives away nothing from the street — the biggest commercial gallery in Europe when it opened, showing international artists at a scale most museums cannot match.
 
 **Free, and often nearly empty**, which is the whole argument for going. This is a selling gallery, so there is no ticket, no queue and no crowd, and you can have a room the size of a tennis court to yourself on a weekday afternoon.
@@ -125,6 +141,10 @@ White Cube also runs a smaller space at **Mason's Yard, SW1Y 6BU** in St James's
 
 *Free · Mon 12–6pm, Tue–Fri 10am–6pm, Sat–Sun 10am–7pm*
 
+![A pointed white lattice-block pavilion in Kensington Gardens, tapering from a tall peak down to ground level, with a period building visible behind it](../../assets/articles/best-galleries-london/serpentine-galleries-summer-pavilion.jpg)
+
+*The summer Pavilion, a different architect's building put up beside Serpentine South each year.*
+
 Two contemporary galleries **a five-minute walk apart** across the Serpentine bridge — Serpentine South in a 1930s tea pavilion, Serpentine North in a former gunpowder store with a Zaha Hadid extension. Both free, both small enough to do properly in an hour together.
 
 **The summer Pavilion is the real draw**: a temporary building commissioned from a different architect every year, always their first completed structure in the UK, put up beside Serpentine South from June to October and then dismantled. It is free to walk into and there is a cafe inside it.
@@ -136,6 +156,10 @@ In **Kensington Gardens, W2 2AR and W2 3XA.** Lancaster Gate and South Kensingto
 ### Saatchi Gallery, Chelsea
 
 *Daily 10am–6pm · Duke of York's HQ, SW3 4RY*
+
+![A white-walled gallery room at Saatchi Gallery with three colourful figurative paintings on the walls and a polished wood floor](../../assets/articles/best-galleries-london/saatchi-gallery-white-walled-room.jpg)
+
+*One of the white-walled rooms, part of fifteen spread across three floors.*
 
 Seventy thousand square feet of white-walled gallery in the former Duke of York's military headquarters off the King's Road — fifteen rooms over three floors, and the building itself is a large part of the pleasure.
 
@@ -151,6 +175,10 @@ Sloane Square is three minutes away, and the gallery sits in a courtyard set bac
 
 *Free · Tue–Sun 11am–6pm · closed Mondays · E1 7QX*
 
+![The Art Nouveau stone facade of Whitechapel Gallery with a large arched entrance and Whitechapel Art Gallery carved in gold lettering above the doors](../../assets/articles/best-galleries-london/whitechapel-gallery-facade.jpg)
+
+*Whitechapel Gallery, free to walk into and closed on Mondays.*
+
 The most-cited gallery in London that visitors never reach, and the one with the strongest claim to having changed British art — it gave **Picasso's Guernica its only British showing in 1939**, and gave Jackson Pollock, Mark Rothko and Frida Kahlo their first UK exhibitions.
 
 Still free, still contemporary, still doing the thing it has done since 1901: showing work before anyone else does.
@@ -163,6 +191,10 @@ Still free, still contemporary, still doing the thing it has done since 1901: sh
 
 *£14 · free Friday evenings · Ramillies Street W1F 7LW*
 
+![The ground floor of the Photographers' Gallery with signage for the Print Sales Gallery and Bookshop, and a small café with a few tables in the background](../../assets/articles/best-galleries-london/the-photographers-gallery-bookshop.jpg)
+
+*The bookshop and the print sales room, where you can buy work.*
+
 The first gallery in Britain devoted entirely to photography, founded in 1971, now in a converted warehouse on a Soho side street behind Oxford Street — five floors, a bookshop that is the best of its kind in London, and a print sales room where you can buy work.
 
 > 💡 **It is free every Friday from 5pm.** That is the single most useful fact about this gallery and almost nobody knows it. Admission is otherwise **£14 including a £2 optional donation**, or £11 for seniors, students, jobseekers and disabled visitors.
@@ -174,6 +206,10 @@ The first gallery in Britain devoted entirely to photography, founded in 1971, n
 ### Barbican Art Gallery, City of London
 
 *Ticketed · inside the Barbican Centre*
+
+![A curved gallery space at the Barbican with a colourful tapestry along the curving wall and wooden steps, and visitors looking at framed art on a straight wall beyond](../../assets/articles/best-galleries-london/barbican-art-gallery-curve-installation.jpg)
+
+*The Curve, the free, bending gallery space downstairs, with one artist at a time.*
 
 Big, ambitious, thematic shows in the middle of the Barbican — architecture, design and photography as often as painting, and generally the most interesting exhibition programme in the City.
 
@@ -209,6 +245,10 @@ Peckham Rye is about ten minutes' walk, and the gallery sits between Peckham and
 
 *Free · Manchester Square W1U 3BN*
 
+![A suit of armour on a model of a horse and rider, surrounded by glass cases of swords, helmets and armour in the Wallace Collection's armoury](../../assets/articles/best-galleries-london/the-wallace-collection-armoury.jpg)
+
+*The armoury in the basement, the collection's surprise for most first-time visitors.*
+
 A single townhouse full of Old Masters, armour and French eighteenth-century furniture, left to the nation in 1897 **on condition that nothing ever leaves it** — no loans out, no touring, ever. Everything you see is always here, which is the opposite of how every other museum on this page works.
 
 Frans Hals's *The Laughing Cavalier* is the famous one; the armoury in the basement is the surprise.
@@ -220,6 +260,10 @@ It closes only on 24, 25 and 26 December. There are Friday Lates, talks and conc
 ### The Courtauld, Strand
 
 *£14 · daily 10am–6pm · Somerset House WC2R 0RN*
+
+![Manet's painting A Bar at the Folies-Bergère, showing a barmaid behind a marble counter with bottles and a bowl of oranges, reflected in a mirror behind her](../../assets/articles/best-galleries-london/the-courtauld-manet-bar.jpg)
+
+*Manet's A Bar at the Folies-Bergère, one of the collection's best-known works.*
 
 Impressionists and post-Impressionists in a compact gallery above Somerset House's courtyard — Manet's *A Bar at the Folies-Bergère* and Van Gogh's *Self-Portrait with Bandaged Ear*, in a collection small enough to see properly in a single visit. One of the great small collections anywhere.
 
@@ -233,6 +277,10 @@ It is inside **Somerset House**, so pair it with the courtyard: fountains in sum
 
 *Ticketed · Tue–Sun 10am–5pm · closed Mondays*
 
+![A domed mausoleum inside Dulwich Picture Gallery, with two marble busts on a dark sarcophagus lit in gold light](../../assets/articles/best-galleries-london/dulwich-picture-gallery-mausoleum.jpg)
+
+*The mausoleum inside the gallery, where the founders are buried.*
+
 Opened in **1817 as the first purpose-built public art gallery anywhere in the world**, designed by Sir John Soane — and the top-lit rooms he invented for it became the template every gallery since has copied. The building is the exhibit as much as the pictures.
 
 Rembrandt, Rubens, Poussin and Gainsborough, in a collection small enough to see in full. The founders are buried in a mausoleum inside the gallery, which is not a thing that happens elsewhere.
@@ -244,6 +292,10 @@ Rembrandt, Rubens, Poussin and Gainsborough, in a collection small enough to see
 ### Guildhall Art Gallery, City of London
 
 *Free · last admission 4.45pm · Guildhall Yard EC2V 5AE*
+
+![The remains of London's Roman amphitheatre in the basement of the Guildhall Art Gallery, with green light outlining where the seating tiers once stood](../../assets/articles/best-galleries-london/guildhall-art-gallery-roman-amphitheatre.jpg)
+
+*The Roman amphitheatre's surviving walls, with the missing seating outlined in light.*
 
 Victorian and Pre-Raphaelite paintings in the City of London's own gallery, including Millais and Rossetti, plus a large collection of London topographical painting — the city as it looked before the buildings around you existed.
 
@@ -262,6 +314,10 @@ Bank and St Paul's are both about five minutes, and the Guildhall Yard entrance 
 ### The London Silver Vaults, Holborn
 
 *Free · Mon–Fri 9am–5.20pm, Sat 9am–12.50pm · closed Sunday*
+
+![A dealer's shop inside the London Silver Vaults packed with antique silver trophies, teapots, wine coolers and candlesticks on glass shelves](../../assets/articles/best-galleries-london/the-london-silver-vaults-dealer-shop.jpg)
+
+*One of the dealers inside the vaults, with silver for sale from a few pounds to five figures.*
 
 A working **vault complex beneath Chancery Lane**, trading here since 1953, holding around thirty independent dealers behind steel doors — the largest collection of antique silver for sale anywhere in the world. You go down a staircase, through a vault door, and into a corridor of shops.
 
@@ -304,6 +360,10 @@ The building matters as much as the collection. It is the **old Commonwealth Ins
 ### Colosseum: The Legendary Arena and Space Explorers, Camden
 
 *From £20.50 · 40 minutes · Eclipso London, Camden · 8+*
+
+![Two people wearing VR headsets standing in a room with a colourful abstract floor and wall graphics, one gesturing with her hands](../../assets/articles/best-galleries-london/colosseum-camden-vr-headsets.jpg)
+
+*Free-roaming VR means walking through a real room that maps onto the headset's world.*
 
 Headset reconstructions you **walk through rather than watch** — the Colosseum as it stood, and a free-roaming VR piece built from footage shot aboard the actual International Space Station by the Emmy-winning *Space Explorers* series.
 
