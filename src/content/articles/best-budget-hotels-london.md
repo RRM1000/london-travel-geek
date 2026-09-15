@@ -96,20 +96,20 @@ We timed 151 stations in zones 2 to 4. These are the areas with a hotel at £150
 
 | Area | Station | West End | City | The train |
 |---|---|---|---|---|
-| Whitechapel | Whitechapel | 8 min | 3 min | Elizabeth line to Tottenham Court Road and Liverpool Street, 21 an hour |
-| Kennington | Kennington | 7 min | 6 min | Northern line to Leicester Square and London Bridge, 21 to 26 an hour |
-| Stratford | Stratford | 13 min | 7 min | Elizabeth line to Tottenham Court Road and Liverpool Street, 11 an hour |
-| Shepherd's Bush | Shepherd's Bush | 10 min | 20 min | Central line to Bond Street and Bank, 27 an hour |
-| Earl's Court | Earl's Court | 10 min | 21 min | Piccadilly line to Green Park, District line to Bank, 22 to 24 an hour |
-| Canning Town | Canning Town | 17 min | 11 min | Jubilee line to Westminster and London Bridge, 27 an hour |
-| Royal Docks | Custom House | 16 min | 11 min | Elizabeth line to Tottenham Court Road and Liverpool Street, 12 an hour |
-| Hackney | Hackney Downs | - | 12 min | Overground to Liverpool Street, 8 an hour |
-| East India | East India | - | 13 min | DLR to Bank, 6 an hour |
-| West Brompton | West Brompton | 14 min | 24 min | District line to Westminster and Bank, 10 an hour |
-| Golders Green | Golders Green | 17 min | 23 min | Northern line to Tottenham Court Road and Bank, 12 an hour |
-| Hanger Lane | Hanger Lane | 21 min | 32 min | Central line to Bond Street and Bank, 10 an hour |
-| Wood Green | Wood Green | 23 min | - | Piccadilly line to Leicester Square, 23 an hour |
-| Greenwich | Deptford Bridge | - | 25 min | DLR to Bank, 13 an hour |
+| Whitechapel | Whitechapel | 8 min | 3 min | Elizabeth line to Tottenham Court Road and Liverpool Street, 21 trains an hour |
+| Kennington | Kennington | 7 min | 6 min | Northern line to Leicester Square and London Bridge, 21 to 26 trains an hour |
+| Stratford | Stratford | 13 min | 7 min | Elizabeth line to Tottenham Court Road and Liverpool Street, 11 trains an hour |
+| Shepherd's Bush | Shepherd's Bush | 10 min | 20 min | Central line to Bond Street and Bank, 27 trains an hour |
+| Earl's Court | Earl's Court | 10 min | 21 min | Piccadilly line to Green Park, District line to Bank, 22 to 24 trains an hour |
+| Canning Town | Canning Town | 17 min | 11 min | Jubilee line to Westminster and London Bridge, 27 trains an hour |
+| Royal Docks | Custom House | 16 min | 11 min | Elizabeth line to Tottenham Court Road and Liverpool Street, 12 trains an hour |
+| Hackney | Hackney Downs | - | 12 min | Overground to Liverpool Street, 8 trains an hour |
+| East India | East India | - | 13 min | DLR to Bank, 6 trains an hour |
+| West Brompton | West Brompton | 14 min | 24 min | District line to Westminster and Bank, 10 trains an hour |
+| Golders Green | Golders Green | 17 min | 23 min | Northern line to Tottenham Court Road and Bank, 12 trains an hour |
+| Hanger Lane | Hanger Lane | 21 min | 32 min | Central line to Bond Street and Bank, 10 trains an hour |
+| Wood Green | Wood Green | 23 min | - | Piccadilly line to Leicester Square, 23 trains an hour |
+| Greenwich | Deptford Bridge | - | 25 min | DLR to Bank, 13 trains an hour |
 
 ### East London
 
