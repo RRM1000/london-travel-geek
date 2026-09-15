@@ -2,7 +2,14 @@
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
   "updated": "2026-09-15",
-  "inProgress": [],
+  "inProgress": [
+    {
+      "title": "Autumn leaves guide",
+      "state": "in progress",
+      "detail": "A Sonnet agent is researching the best places to see autumn leaves in London as a consensus guide, with when to go, opening hours after the clocks change and practical tips. It has no photos yet.",
+      "next": "Review the draft and preview it, then list the photos to download."
+    }
+  ],
   "nextUp": [
     "Write the October monthly guide. The October data file is already stubbed and it is due by 20 September.",
     "Fill out the 8 short entries the depth check still flags: Chick King, Chick and Beers, Coqfighter and Bao in the fried chicken guide; Mien Tay, Lai Rai and Green Papaya in the Vietnamese guide; Bar Levan in the wine bars guide.",
@@ -19,6 +26,10 @@
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-15",
+      "what": "Pushed live: the budget hotels guide with its photos, the breakfast guide title, the pub guides in the Eat in London hub, the Wimbledon and fried chicken updates, the writing guide and the reworked depth check."
+    },
     {
       "date": "2026-09-15",
       "what": "Added 14 of your photos to the budget hotels guide, with Good Hotel London as the hero; Moxy Stratford's were too small to use. Added the gastropubs and most beautiful pubs guides to the Eat in London hub. Reworked the depth check as you suggested: it now measures only ranked entries, at 50 words rather than 80, and no longer asks the beautiful pubs guide to name food. It flags 8 entries in 3 guides, down from 19 guides."
