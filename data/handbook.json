@@ -18,8 +18,14 @@
     {
       "title": "Where to stay in Bloomsbury",
       "state": "in progress",
-      "detail": "A Sonnet agent is researching the next area hotel guide, Bloomsbury, from budget beds to upmarket hotels, plus the areas just outside.",
-      "next": "Price its hotels on the same five nights as the budget hotels guide, fill in the prices and preview."
+      "detail": "Drafted from 9 sources: 15 hotels, 8 of them written up in full. Linked from the Bloomsbury, King's Cross and best areas guides.",
+      "next": "Find the Hotels.com ids it couldn't confirm, price its hotels on the same five nights as the budget hotels guide, fill in the prices and preview."
+    },
+    {
+      "title": "Beatles, Bridgerton and Sherlock Holmes guides",
+      "state": "in progress",
+      "detail": "Three Sonnet agents are writing fan guides in the shape of the Harry Potter in London page: what it all costs, the places you can actually visit, bookable tours near the top, costed days and what isn't worth it. The Sherlock guide takes over the Sherlock entries in the filming locations guide.",
+      "next": "Check each draft's facts, tours and links, then preview them and list the photos to download."
     }
   ],
   "nextUp": [
@@ -182,13 +188,72 @@
     },
     {
       "label": "Money",
-      "value": "GetYourGuide (partner WWP7I0R), Hotels.com through CJ, and eSIM partners. Google Places, Apify and anything else billed needs a go-ahead before each run."
+      "value": "GetYourGuide (partner WWP7I0R), Hotels.com through CJ, and eSIM partners. The Affiliates section has the rules. Google Places, Apify and anything else billed needs a go-ahead before each run."
     },
     {
       "label": "Firewall",
       "value": "The Vercel custom rule \"Tencent scraper\" challenges AS132203 (Tencent Cloud Singapore). It has been in place since 14 Sep 2026."
     }
   ],
+  "affiliates": {
+    "lede": "How the site earns: which programmes are live, where a booking link may go, and how the GetYourGuide widgets are placed and chosen. The counts are read from the articles each time this page is rebuilt.",
+    "groups": [
+      {
+        "title": "What gets a link",
+        "items": [
+          { "name": "Only where something is for sale", "text": "A link goes only where there's a ticket, tour or room to sell. A free park, a pub or a market gets none. Theatre, cinema, gigs and competitive socialising are booked direct with the venue." },
+          { "name": "The venue's own booking page wins", "text": "When the Sheet has a venue's booking link, no affiliate link is made for it. A booking page is a better landing than a reseller's search." },
+          { "name": "Labelled", "text": "Every affiliate link carries `rel=\"sponsored\"` and a `data-affiliate` tag. Hotel and eSIM links in the text, and the booking cards, show a small \"ad\" chip." },
+          { "name": "Tours come early", "text": "On a tour or day trip guide, the Short Version says a reader can book a tour and what it saves them, and a tour section with a date widget follows the first practical section." }
+        ]
+      },
+      {
+        "title": "GetYourGuide widgets",
+        "items": [
+          { "name": "Placed by a script", "text": "`scripts/balance-gyg-widgets.mjs` places them and rewrites them on every run, so they're never added or moved by hand. It runs after `npm run build`, because it measures positions on the built page." },
+          { "name": "How many", "text": "By length: 1 under 1,500 words, 2 up to 3,500, 3 up to 6,000, and 4 above that." },
+          { "name": "Where", "text": "Never in the first quarter of the page, never two within 12% of each other (date widgets count), and always on the line before a heading. A page that can't meet both rules gets fewer widgets." },
+          { "name": "What each one shows", "text": "Set per guide in `data/gyg-queries.json`. Slot 1 is the page's subject and slot 2 the next thing its reader would buy. Slots 3 and 4 are big sellers, such as the Tower of London, the London Eye or a Windsor day trip, from a pool matched to the guide's area or category." },
+          { "name": "Choosing the search", "text": "Name a product, not a category: \"Tower of London tickets\", not \"London top attractions\". GetYourGuide's search never comes back empty, so a bad one quietly shows the wrong tours: the 4 Sep 2026 probe found 49 of 159 off the subject, some in other countries. Those slots show a hand-picked set of tours instead, such as `pick:harry-potter`. Test a new search with `scripts/probe-gyg-queries.mjs`." }
+        ]
+      },
+      {
+        "title": "Date widgets",
+        "items": [
+          { "name": "What they are", "text": "A booking calendar for one named tour, placed by hand beside the paragraph about that tour. The balancer never moves them." },
+          { "name": "Where they go", "text": "Guides where a bookable tour is the point, such as day trips and the Studio Tour. The guides that have one are listed below." },
+          { "name": "Choosing the tour", "text": "Compare the tours on GetYourGuide for what's included, rating, review count and price, and pick the one that does what the guide describes. The text links the same tour, tagged `cmp=<guide slug>`, so GetYourGuide's Campaigns report shows which guide sold it." }
+        ]
+      },
+      {
+        "title": "Links in the text and sidebar",
+        "items": [
+          { "name": "Tours named in the text", "text": "Link to the tour's own GetYourGuide page with `partner_id=WWP7I0R` and `cmp=<guide slug>`." },
+          { "name": "Things-to-do lists", "text": "Venues from the Activities sheet link to a checked product page in `data/gyg-tours.json` when there is one, and to a GetYourGuide search when not. A product page must be for the venue itself, an entry ticket or its own tour, never a coach trip that stops there." },
+          { "name": "Events", "text": "Link only when the Sheet's Affiliate URL is filled. GetYourGuide rarely sells exhibitions, and a generated search sent readers to unrelated tours." },
+          { "name": "Sidebar card", "text": "The pinned sidebar shows two bookable activities from the guide's own research. Guides with a Hotels.com page for their area show a hotel card instead: never both, because the column can't fit two." }
+        ]
+      },
+      {
+        "title": "Hotels",
+        "items": [
+          { "name": "Hotels.com through CJ", "text": "The one live hotel programme. The site's CJ id is PID 101875905. The theatre site has its own, and the CJ account number earns nothing." },
+          { "name": "How to link", "text": "`[name](hotel:slug)` for a hotel in the Hotels sheet: it earns once its Hotels.com URL column is filled, and links to the hotel's own site until then. `[name](hotelscom:<id>)` for a hotel the sheet doesn't hold. A hotel Hotels.com doesn't sell links to its own website, never another booking site." },
+          { "name": "Closed hotels", "text": "A hotel marked closed in `data/closed-hotels.json` loses its link in every guide." },
+          { "name": "Not switched on", "text": "Premier Inn, Travelodge, Hilton, IHG, Marriott, Accor and Hostelworld are set up in the code but stay off until you join the programme and add the ids." }
+        ]
+      },
+      {
+        "title": "Other partners and tracking",
+        "items": [
+          { "name": "eSIMs", "text": "Saily, Nomad (through Impact) and Klook, written as `[text](partner:saily-uk)`. The links live in `src/data/partnerLinks.json` and use the same accounts as Roam Compare." },
+          { "name": "Skiddle", "text": "Set up for event tickets, but off until `SKIDDLE_TAG` is added. A Skiddle link is the same Skiddle page with a tag on it, so it costs the reader nothing." },
+          { "name": "Clicks we can see", "text": "A click on any link tagged `data-affiliate` goes to Google Analytics as `affiliate_click`, with the network, the page section and the venue." },
+          { "name": "Clicks we can't", "text": "Clicks inside a GetYourGuide widget happen in GetYourGuide's own frame, so they show only in its partner dashboard." }
+        ]
+      }
+    ]
+  },
   "commands": [
     {
       "cmd": "npm run dev",

@@ -194,6 +194,7 @@ for (const f of fs.readdirSync("src/content/articles").filter((x) => /\.mdx?$/.t
     .replace(/[#*_>|`~-]/g, " ").split(/\s+/).filter((w) => /[A-Za-z0-9£]/.test(w)).length;
   const heroFile = fm.heroImage ? path.resolve("src/content/articles", fm.heroImage) : null;
   const thin = thinBySlug[slug];
+  const count = (re) => (body.match(re) ?? []).length;
   articles.push({
     slug,
     title: fm.title ?? slug,
@@ -214,6 +215,13 @@ for (const f of fs.readdirSync("src/content/articles").filter((x) => /\.mdx?$/.t
     verifier: verifierFor[slug] ?? null,
     verifierFailing: verifierFor[slug] ? failingVerifiers.has(verifierFor[slug]) : false,
     photosWaiting: downloadFolders.has(slug),
+    money: {
+      widgets: count(/data-gyg-widget="activities"/g),
+      dateWidgets: count(/data-gyg-widget="availability"/g),
+      tourLinks: count(/getyourguide\.com\/[^"\s)]*-t\d+[^"\s)]*partner_id=/g),
+      hotelLinks: count(/\]\((?:hotel|hotelscom):/g),
+      partnerLinks: count(/\]\(partner:/g),
+    },
   });
 }
 articles.sort((a, b) => (b.updated || "").localeCompare(a.updated || "") || a.title.localeCompare(b.title));
@@ -369,6 +377,23 @@ const writingGroups = guideSections.map((block) => {
   const items = lines.filter((l) => l.startsWith("- ")).map((l) => `<li>${inline(l.slice(2))}</li>`).join("");
   return `<section class="rule-group"><h3>${esc(heading.trim())}</h3><ul class="writing-list">${items}</ul></section>`;
 }).join("");
+
+// ------------------------------------------------------------ affiliates ---
+// The strategy is hand-written in data/handbook.json; the counts are read off
+// the articles so they can't go stale.
+const moneyGuides = (k) => articles.filter((a) => a.money[k] > 0);
+const moneyTotal = (k) => articles.reduce((s, a) => s + a.money[k], 0);
+const moneyCounts = [
+  [moneyTotal("widgets"), `GetYourGuide widgets in ${moneyGuides("widgets").length} guides`],
+  [moneyTotal("dateWidgets"), `date widgets in ${moneyGuides("dateWidgets").length} guides`],
+  [moneyTotal("tourLinks"), "tour links in the text"],
+  [moneyTotal("hotelLinks"), "hotel links in the text"],
+  [moneyTotal("partnerLinks"), "eSIM links"],
+];
+const affiliateGroups = (hand.affiliates?.groups ?? []).map((g) =>
+  `<section class="rule-group"><h3>${esc(g.title)}</h3><ul>${g.items.map((i) => `<li><span class="rule-name">${esc(i.name)}</span><span class="rule-desc">${inline(i.text)}</span></li>`).join("")}</ul></section>`).join("");
+const dateWidgetGuides = moneyGuides("dateWidgets").sort((a, b) => a.title.localeCompare(b.title))
+  .map((a) => `${esc(a.title)}${a.money.dateWidgets > 1 ? ` (${a.money.dateWidgets})` : ""}`).join(" · ");
 
 const html = `<title>London Travel Geek Handbook</title>
 <meta name="description" content="How London Travel Geek is built and run, and what needs doing next.">
@@ -543,6 +568,8 @@ tr[hidden] { display: none; }
 .rule-name { display: block; font-weight: 700; font-size: 14px; }
 .rule-desc { display: block; color: var(--ink-2); font-size: 13.5px; }
 .writing-list li { font-size: 14px; line-height: 1.5; }
+.money-counts { list-style: none; margin: 0; padding: 14px 18px; display: flex; flex-wrap: wrap; gap: 6px 26px; font-size: 14px; }
+.money-counts strong { font-size: 18px; font-variant-numeric: tabular-nums; margin-right: 3px; }
 
 .bars { list-style: none; margin: 0; padding: 18px; display: grid; gap: 9px; }
 .bar-row { display: grid; grid-template-columns: minmax(0, 1fr) minmax(90px, 36%) 48px; gap: 12px; align-items: center; font-size: 13.5px; }
@@ -615,6 +642,7 @@ footer { max-width: 1240px; margin: 0 auto; padding: 0 28px 40px; color: var(--i
     <a href="#posts">All guides</a>
     <a href="#making">How a guide is made</a>
     <a href="#site">How the site works</a>
+    <a href="#money">Affiliates</a>
     <a href="#skills">Skills and agents</a>
     <a href="#writing">Writing guide</a>
     <a href="#rules">Working rules</a>
@@ -718,6 +746,14 @@ footer { max-width: 1240px; margin: 0 auto; padding: 0 28px 40px; color: var(--i
           <tbody>${(hand.commands ?? []).map((c) => `<tr><td><code>${esc(c.cmd)}</code></td><td>${inline(c.what)}</td></tr>`).join("")}</tbody></table>
         </div>
       </div>
+    </section>
+
+    <section class="block" id="money">
+      <h2>Affiliates</h2>
+      <p class="lede">${inline(hand.affiliates?.lede ?? "")}</p>
+      <ul class="money-counts panel">${moneyCounts.map(([n, label]) => `<li><strong>${n}</strong> ${esc(label)}</li>`).join("")}</ul>
+      <div class="rules">${affiliateGroups}</div>
+      <p class="note"><strong>Guides with a date widget:</strong> ${dateWidgetGuides}</p>
     </section>
 
     <section class="block" id="skills">
