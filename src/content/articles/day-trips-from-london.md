@@ -29,7 +29,7 @@ faq:
 
 The good day trips from London are all about an hour away, and the money is in the entry ticket rather than the train. What follows is priced and timed: what the journey costs, what you pay when you arrive, how long the day takes, and which days the doors are shut.
 
-> 💡 **The Short Version:** **Windsor** is the shortest and cheapest journey, and its castle is **closed on Tuesdays and Wednesdays**. **Oxford** is cheapest by coach, **Cambridge** by advance single. The **Harry Potter Studio Tour** must be booked weeks ahead and sells nothing on the door. **Contactless works to Windsor and Watford, but Oyster does not** — and neither works to Oxford or Cambridge. **Bath** is 1h15 from Paddington and cheapest with advance tickets. **Stonehenge** and **the Cotswolds** are the two where a coach tour genuinely beats the train.
+> 💡 **The Short Version:** **Windsor** is the shortest and cheapest journey, and its castle is **closed on Tuesdays and Wednesdays**. **Oxford** is cheapest by coach, **Cambridge** by advance single. The **Harry Potter Studio Tour** must be booked weeks ahead and sells nothing on the door. **Contactless works to Windsor and Watford, but Oyster does not** — and neither works to Oxford or Cambridge. **Bath** is 1h15 from Paddington and cheapest with advance tickets. **Stonehenge** and **the Cotswolds** are the two where a coach tour genuinely beats the train. **Or book a tour** — <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">guided day trips from £66</a> cover the transport and the ticket in one booking.
 
 ## The seven, compared
 
@@ -44,6 +44,30 @@ The good day trips from London are all about an hour away, and the money is in t
 | **[The Cotswolds](/articles/cotswolds-day-trip/)** | Paddington to Moreton-in-Marsh | **1h25**, then the 801 bus | £54 off-peak return | Villages are free; tours from £74 |
 
 **The pattern worth knowing:** the train is the small number. Windsor Castle costs four times the fare to get there, and the Studio Tour costs eight times it. The exceptions are Stonehenge and the Cotswolds, where getting there is the hard part and the tour is what you are really paying for. Book the attraction first and fit the train around it.
+
+## Day tours from London, by destination
+
+Some of these places are easy by train. Others — Stonehenge, the Cotswolds, Highclere — have no useful station, and a coach tour is the only sensible way to do them in a day. These are the cheapest credible prices we found, checked on 12 September 2026:
+
+| Where | Price | Worth it because |
+| --- | --- | --- |
+| <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, with entry</a> | **£66** | There is no direct train, and the bus from Salisbury eats the day |
+| <a href="https://www.getyourguide.com/activity/-t215430?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Cotswolds</a> | **£89** | No village-to-village transport at all |
+| <a href="https://www.getyourguide.com/activity/-t71088?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, with castle entry</a> | £80 | Cheap by train instead, if you only want the castle |
+| <a href="https://www.getyourguide.com/activity/-t391446?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Canterbury and the White Cliffs</a> | £79 | Two places, one coach |
+| <a href="https://www.getyourguide.com/activity/-t2259?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Blenheim Palace and the Cotswolds</a> | £79 | Awkward pairing by train |
+| <a href="https://www.getyourguide.com/activity/-t965?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford, Stratford and Warwick Castle</a> | £79 | Three stops no train links |
+| <a href="https://www.getyourguide.com/activity/-t645578?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">LEGOLAND Windsor, with entry</a> | £85 | Saves the Windsor shuttle |
+| <a href="https://www.getyourguide.com/activity/-t388125?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court with Windsor Castle</a> | £89 | Both palaces in a day |
+| <a href="https://www.getyourguide.com/activity/-t1309?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Leeds Castle, Canterbury and Dover</a> | £105 | Leeds Castle has no station |
+| <a href="https://www.getyourguide.com/activity/-t122247?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Brighton and the Seven Sisters</a> | £109 | The cliffs are the bit buses do badly |
+| <a href="https://www.getyourguide.com/activity/-t123059?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Highclere Castle (Downton Abbey)</a> | £229 | Opens to visitors on limited dates |
+| <a href="https://www.getyourguide.com/activity/-t11108?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Paris, by Eurostar</a> | £254 | A long but real day |
+| <a href="https://www.getyourguide.com/activity/-t2275?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Edinburgh</a> | £239 | Realistically an overnight sold as a day |
+
+> ⚠️ **Check what the price includes before you book.** On a lot of coach tours the attraction named in the title is an optional extra, so entry is charged on top. Read the includes list rather than the title.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="219849" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Windsor
 
@@ -102,28 +126,6 @@ Not one place, and that is the problem. **Moreton-in-Marsh is the only station w
 Nothing in the villages needs a ticket, so a small-group tour from about **£89** is mostly buying you transport between them — which here is worth it.
 
 → **[The full Cotswolds guide](/articles/cotswolds-day-trip/)**
-
-## Day tours from London, by destination
-
-Some of these places are easy by train. Others — Stonehenge, the Cotswolds, Highclere — have no useful station, and a coach tour is the only sensible way to do them in a day. These are the cheapest credible prices we found, checked on 12 September 2026:
-
-| Where | Price | Worth it because |
-| --- | --- | --- |
-| <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, with entry</a> | **£66** | There is no direct train, and the bus from Salisbury eats the day |
-| <a href="https://www.getyourguide.com/activity/-t215430?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Cotswolds</a> | **£89** | No village-to-village transport at all |
-| <a href="https://www.getyourguide.com/activity/-t71088?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, with castle entry</a> | £80 | Cheap by train instead, if you only want the castle |
-| <a href="https://www.getyourguide.com/activity/-t391446?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Canterbury and the White Cliffs</a> | £79 | Two places, one coach |
-| <a href="https://www.getyourguide.com/activity/-t2259?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Blenheim Palace and the Cotswolds</a> | £79 | Awkward pairing by train |
-| <a href="https://www.getyourguide.com/activity/-t965?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford, Stratford and Warwick Castle</a> | £79 | Three stops no train links |
-| <a href="https://www.getyourguide.com/activity/-t645578?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">LEGOLAND Windsor, with entry</a> | £85 | Saves the Windsor shuttle |
-| <a href="https://www.getyourguide.com/activity/-t388125?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court with Windsor Castle</a> | £89 | Both palaces in a day |
-| <a href="https://www.getyourguide.com/activity/-t1309?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Leeds Castle, Canterbury and Dover</a> | £105 | Leeds Castle has no station |
-| <a href="https://www.getyourguide.com/activity/-t122247?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Brighton and the Seven Sisters</a> | £109 | The cliffs are the bit buses do badly |
-| <a href="https://www.getyourguide.com/activity/-t123059?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Highclere Castle (Downton Abbey)</a> | £229 | Opens to visitors on limited dates |
-| <a href="https://www.getyourguide.com/activity/-t11108?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Paris, by Eurostar</a> | £254 | A long but real day |
-| <a href="https://www.getyourguide.com/activity/-t2275?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Edinburgh</a> | £239 | Realistically an overnight sold as a day |
-
-> ⚠️ **Check what the price includes before you book.** On a lot of coach tours the attraction named in the title is an optional extra, so entry is charged on top. Read the includes list rather than the title.
 
 ## Where else is worth the train
 

@@ -35,11 +35,13 @@ faq:
 
 The bigger difference from every other day trip here is what happens before you board. This is an international border, and Eurostar does the whole thing at St Pancras before you leave London — UK exit, French entry, and now EU biometric registration too — rather than on arrival in Paris. Budget properly for that and the maths on the day itself is more generous than the three-hour-each-way trips to Stonehenge or the Cotswolds.
 
-> 💡 **The Short Version:** **St Pancras to Gare du Nord, from 2h16 direct.** Eurostar Standard around **£55** booked two weeks ahead (as low as **£35** in a sale), up to **£220+** booking on the day; **Eurostar Plus** roughly **£95–£300**; **Eurostar Premier** a flatter **£245–£361** whatever the date. **Arrive 75 minutes before departure** for Standard or Plus (45 for Premier) — UK exit, French entry and EU Entry/Exit System registration all happen at the station before you board. You need **a passport, not an ID card**, issued within **10 years** and valid **3 months** after you leave France — no ETA or visa required for a UK citizen heading out. **Luggage: 2 bags + 1 daypack** (3 for Premier), 85cm max. The earliest sensible train (07:01) and the last one reliably still selling seats (about 19:11) give you **roughly 7 hours in Paris** — nearer 8 if you take the 06:01. That's **two or three things done properly**, not five rushed.
+> 💡 **The Short Version:** **St Pancras to Gare du Nord, from 2h16 direct.** Eurostar Standard around **£55** booked two weeks ahead (as low as **£35** in a sale), up to **£220+** booking on the day; **Eurostar Plus** roughly **£95–£300**; **Eurostar Premier** a flatter **£245–£361** whatever the date. **Arrive 75 minutes before departure** for Standard or Plus (45 for Premier) — UK exit, French entry and EU Entry/Exit System registration all happen at the station before you board. You need **a passport, not an ID card**, issued within **10 years** and valid **3 months** after you leave France — no ETA or visa required for a UK citizen heading out. **Luggage: 2 bags + 1 daypack** (3 for Premier), 85cm max. The earliest sensible train (07:01) and the last one reliably still selling seats (about 19:11) give you **roughly 7 hours in Paris** — nearer 8 if you take the 06:01. That's **two or three things done properly**, not five rushed. **Or let someone else plan the day** — the <a href="https://www.getyourguide.com/activity/-t11108?partner_id=WWP7I0R&amp;cmp=paris-day-trip-eurostar-package" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£289 escorted day trip</a> bundles the Eurostar, a Seine cruise and Eiffel Tower entry into one booking.
 
 **Book a tour direct:**
 
-- **From £289** — <a href="https://www.getyourguide.com/activity/-t11108?partner_id=WWP7I0R&amp;cmp=paris-day-trip-eurostar-package" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Paris day trip with lunch on the Eiffel Tower, Eurostar travel included</a>
+- **From £289** — <a href="https://www.getyourguide.com/activity/-t11108?partner_id=WWP7I0R&amp;cmp=paris-day-trip-eurostar-package" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Paris day trip with lunch on the Eiffel Tower, Eurostar travel included</a> — a coach tour, a Seine cruise and entry to the tower
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="11108" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there: the Eurostar
 
@@ -161,8 +163,6 @@ Given the real hours available, pick one of these rather than trying to string a
 *The Sacré-Cœur at the top of Montmartre, free to enter once you've climbed the steps.*
 
 Prefer someone else to handle the tickets, the coach transfers in Paris and the Eurostar booking? The escorted day trip linked at the top of this guide covers a panoramic coach tour, lunch at the Eiffel Tower's Madame Brasserie, a Seine cruise and entry to the tower itself, with round-trip Eurostar included — useful if you'd rather not plan the logistics above yourself.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="11108" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What people get wrong
 
