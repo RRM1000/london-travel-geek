@@ -213,6 +213,8 @@ Classic culinary experiences that belong on every London itinerary:
 * [**Fish and Chips**](/articles/best-fish-and-chips-london/) — The shops that still fry to order, and the two that use beef dripping.
 * [**Afternoon Tea**](/articles/best-afternoon-tea-london/) — 22 compared, with the dress codes and the real prices.
 * [**Historic Pubs and Dining Rooms**](/articles/historic-pubs-dining-rooms-london/) — London's oldest rooms, including *Rules*, *Wiltons* and the pubs that predate the Great Fire.
+* [**Gastropubs**](/articles/best-gastropubs-london/) — Thirty sources cross-referenced across 126 pubs, which rooms take bookings, and which ones shut on Mondays.
+* [**Most Beautiful Pubs**](/articles/most-beautiful-pubs-london/) — Seventeen sources and CAMRA's register of protected interiors, the gin palaces and flower-covered frontages the lists agree on.
 * [**Craft Beer Pubs**](/articles/best-craft-beer-pubs-london/) — CAMRA's branch winners, the Bermondsey and Blackhorse beer miles, and 34 sources cross-referenced across 325 pubs and taprooms.
 * [**Wetherspoons**](/articles/best-wetherspoons-pubs-london/) — Six landmark buildings verified building by building, the real prices, and the case for the chain.
 
