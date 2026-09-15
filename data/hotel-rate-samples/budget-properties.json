@@ -455,7 +455,11 @@
    "url": "https://www.google.com/travel/hotels/entity/ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
    "match": "Green Rooms",
    "branch": "Google Hotels lists \"Green Rooms\" at Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom; our record has N22 6UW (Wood Green). Found with the Apify search \"hotels near Green Rooms, London\" on 15 Sep 2026.",
-   "section": "outer"
+   "section": "outer",
+   "excludeNights": {
+    "midweek": "less than half its other three nights (£80 to £96). Google gives no room name, and Green Rooms also sells beds in two dormitories of 12 and 14 single beds (greenrooms.london, 15 Sep 2026), so the lowest price for two guests may be two dormitory beds rather than a double",
+    "spring": "less than half its other three nights (£80 to £96). Google gives no room name, and Green Rooms also sells beds in two dormitories of 12 and 14 single beds (greenrooms.london, 15 Sep 2026), so the lowest price for two guests may be two dormitory beds rather than a double"
+   }
   },
   {
    "slug": "town-hall-hotel",

@@ -3273,9 +3273,8 @@
       "dateKey": "midweek",
       "date": "2027-02-17",
       "day": "Wed",
-      "total": 37,
-      "room": "Booking.com rate for 2 adults",
-      "ratePlan": null
+      "unpriced": true,
+      "note": "£37 from Booking.com, not taken as a double: less than half its other three nights (£80 to £96). Google gives no room name, and Green Rooms also sells beds in two dormitories of 12 and 14 single beds (greenrooms.london, 15 Sep 2026), so the lowest price for two guests may be two dormitory beds rather than a double"
      },
      {
       "dateKey": "saturday",
@@ -3297,18 +3296,20 @@
       "dateKey": "spring",
       "date": "2027-04-17",
       "day": "Sat",
-      "total": 37,
-      "room": "Booking.com rate for 2 adults",
-      "ratePlan": null
+      "unpriced": true,
+      "note": "£37 from Booking.com, not taken as a double: less than half its other three nights (£80 to £96). Google gives no room name, and Green Rooms also sells beds in two dormitories of 12 and 14 single beds (greenrooms.london, 15 Sep 2026), so the lowest price for two guests may be two dormitory beds rather than a double"
      }
     ],
-    "datesPriced": 5,
+    "datesPriced": 3,
     "soldOutOn": [],
     "notCapturedOn": [],
-    "unpricedOn": [],
-    "cheapest": 37,
+    "unpricedOn": [
+     "2027-02-17",
+     "2027-04-17"
+    ],
+    "cheapest": 80,
     "dearest": 96,
-    "median": 80,
+    "median": 88,
     "withinCeiling": true
    },
    {

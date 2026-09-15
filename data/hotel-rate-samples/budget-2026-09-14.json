@@ -12132,18 +12132,8 @@
    "when": "2027-02-17 to 2027-02-18",
    "soldOut": false,
    "message": null,
-   "unpriced": null,
-   "rooms": [
-    {
-     "room": "Booking.com rate for 2 adults",
-     "sleeps": 2,
-     "beds": null,
-     "shown": 37,
-     "total": 37,
-     "taxesIncluded": true,
-     "ratePlan": null
-    }
-   ],
+   "unpriced": "£37 from Booking.com, not taken as a double: less than half its other three nights (£80 to £96). Google gives no room name, and Green Rooms also sells beds in two dormitories of 12 and 14 single beds (greenrooms.london, 15 Sep 2026), so the lowest price for two guests may be two dormitory beds rather than a double",
+   "rooms": [],
    "source": "Booking.com",
    "lowestAnySite": 37,
    "scrapedAt": "2026-09-15T13:47:07.668Z"
@@ -12567,18 +12557,8 @@
    "when": "2027-04-17 to 2027-04-18",
    "soldOut": false,
    "message": null,
-   "unpriced": null,
-   "rooms": [
-    {
-     "room": "Booking.com rate for 2 adults",
-     "sleeps": 2,
-     "beds": null,
-     "shown": 37,
-     "total": 37,
-     "taxesIncluded": true,
-     "ratePlan": null
-    }
-   ],
+   "unpriced": "£37 from Booking.com, not taken as a double: less than half its other three nights (£80 to £96). Google gives no room name, and Green Rooms also sells beds in two dormitories of 12 and 14 single beds (greenrooms.london, 15 Sep 2026), so the lowest price for two guests may be two dormitory beds rather than a double",
+   "rooms": [],
    "source": "Booking.com",
    "lowestAnySite": 37,
    "scrapedAt": "2026-09-15T13:47:44.582Z"

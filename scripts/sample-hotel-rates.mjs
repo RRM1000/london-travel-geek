@@ -694,6 +694,10 @@ function cmdIngestApifyBudget(file) {
   // unconfirmed) can still have items in the file: they are the evidence for
   // that status, so they are skipped by name rather than treated as strays.
   const parked = new Map(loadBudgetProperties().properties.filter((p) => p.status && p.url).map((p) => [tokenOf(p.url), p]));
+  // Google shows one price per site with no room name, so a night whose price
+  // is plainly not a double (two dormitory beds, say) is excluded on the
+  // property record by date key, with the reason, and kept as unpriced.
+  const excludedNight = new Map(loadBudgetProperties().properties.flatMap((p) => Object.entries(p.excludeNights ?? {}).map(([key, why]) => [`${p.slug}|${key}`, why])));
 
   const items = JSON.parse(fs.readFileSync(file, "utf8"));
   if (!Array.isArray(items)) throw new Error("the Apify file must be an array of dataset items");
@@ -734,6 +738,16 @@ function cmdIngestApifyBudget(file) {
       if (o) [source, total] = [label === "the hotel's own site" ? `own site (${o.source})` : label, o.extractedRate];
     }
     if (total != null && (total < 10 || total > 5000)) throw new Error(`${where}: implausible rate ${total} from ${source}`);
+    const excluded = excludedNight.get(`${row.slug}|${row.dateKey}`);
+    if (excluded && total != null) {
+      rows.push({
+        slug: row.slug, dateKey: row.dateKey, date: row.date, engine: "google-hotels", capturedOn: iso(new Date()),
+        href: row.url, h1: it.name, addr: it.address, party: "2 adults, 1 room", when: `${it.checkInDate} to ${it.checkOutDate}`,
+        soldOut: false, message: null, unpriced: `£${total} from ${source}, not taken as a double: ${excluded}`, rooms: [],
+        source, lowestAnySite: it.ratePerNightLowest ?? null, scrapedAt: it.scrapedAt ?? null,
+      });
+      continue;
+    }
 
     rows.push({
       slug: row.slug, dateKey: row.dateKey, date: row.date, engine: "google-hotels", capturedOn: iso(new Date()),
