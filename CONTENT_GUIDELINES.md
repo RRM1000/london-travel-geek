@@ -43,6 +43,7 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - Warning callouts carry the one thing that ruins a trip, such as closed Mondays, not an opening-times table.
 - In a table the long prose column goes last, or it renders one character wide on mobile.
 - Walks link onward to the walks that start near where they end, in both directions.
+- On a tour or day trip guide, the tours come early. The Short Version says a reader can book a tour instead and what it saves them, and a short tour section follows the first practical section, with a GetYourGuide availability widget. The independent information stays; it just doesn't come first.
 
 ## Links and booking
 
