@@ -8,6 +8,18 @@
       "state": "in progress",
       "detail": "A Sonnet agent is researching the best places to see autumn leaves in London as a consensus guide, with when to go, opening hours after the clocks change and practical tips. It has no photos yet.",
       "next": "Review the draft and preview it, then list the photos to download."
+    },
+    {
+      "title": "Family hotels guide",
+      "state": "in progress",
+      "detail": "A Sonnet agent is researching the best family hotels in London: one room for two adults and two children, central London plus hotels further out only if they are good and worth it, with family facts checked on each hotel's own site.",
+      "next": "Price the shortlist for a family of four on five school-holiday and term-time nights, decide which hotels further out are worth it, then fill in the prices and preview."
+    },
+    {
+      "title": "Where to stay in Bloomsbury",
+      "state": "in progress",
+      "detail": "A Sonnet agent is researching the next area hotel guide, Bloomsbury, from budget beds to upmarket hotels, plus the areas just outside.",
+      "next": "Price its hotels on the same five nights as the budget hotels guide, fill in the prices and preview."
     }
   ],
   "nextUp": [
