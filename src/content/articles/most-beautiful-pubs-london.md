@@ -71,6 +71,10 @@ The City pubs are built for office workers, so a weekday afternoon is the time t
 
 *Blackfriars · Cited by 6 sources · CAMRA National Inventory, three stars*
 
+![A frieze of bronze-relief friars above marble-panelled dining alcoves inside The Blackfriar, with carved marble columns and doorways below](../../assets/articles/most-beautiful-pubs-london/the-blackfriar-bronze-frieze.jpg)
+
+*Bronze reliefs of friars by Frederick T. Callcott and Henry Poole, from the remodelling around 1905.*
+
 A thin wedge of a building standing alone by Blackfriars station, on the site of a Dominican friary. It was built in the 1870s and **remodelled around 1905 by the Arts and Crafts sculptors Frederick T. Callcott and Henry Poole**, who covered the inside in jolly friars: in bronze reliefs, in carvings over the doors, in a mosaic above the entrance, alongside great swathes of marble and glittering mosaics.
 
 CAMRA, SquareMeal and four independent guides all name it. **Open seven days a week.** How John Betjeman's campaign saved it from demolition is in our [historic pubs guide](/articles/historic-pubs-dining-rooms-london/).
@@ -78,6 +82,10 @@ CAMRA, SquareMeal and four independent guides all name it. **Open seven days a w
 ### The Princess Louise, Holborn — tiles, mirrors and a listed urinal
 
 *Holborn · Cited by 6 sources · CAMRA National Inventory, three stars*
+
+![A wood-panelled corner of The Princess Louise with a leather banquette, small tables and etched mirrors under a patterned ceiling](../../assets/articles/most-beautiful-pubs-london/the-princess-louise-booth-mirrors.jpg)
+
+*One of the small wood-and-glass booths, lined with etched and gilt mirrors.*
 
 Discover Britain calls it possibly the most beautiful pub in London, and **Historic England put it on its list of the ten best gin palaces in the country**. Behind a plain High Holborn frontage are brightly coloured tiles, gilt mirrors, etched glass and a bar divided into small wood-and-glass booths, the original Victorian way of keeping drinkers apart.
 
@@ -87,6 +95,10 @@ Four of the six sources send you to the gents: **the marble urinals downstairs a
 
 *St Paul's · Cited by 4 sources · CAMRA National Inventory, three stars · [the pub's site](https://www.viaducttavern.co.uk/)*
 
+![Arched gilt-framed panels alternating mirrors and paintings of classical women, under a deep red decorative ceiling inside The Viaduct Tavern](../../assets/articles/most-beautiful-pubs-london/the-viaduct-tavern-red-ceiling-panels.jpg)
+
+*Historic England describes this wall as alternating mirrors and Pre-Raphaelite-style paintings in marble and alabaster frames.*
+
 Opened in 1869 across from the Old Bailey, and **remodelled between 1898 and 1900 under Arthur Dixon**, an Arts and Crafts designer. Historic England describes a wall of alternating mirrors and paintings of Pre-Raphaelite-style women set in marble and alabaster frames; The 500 Hidden Secrets adds etched glass and a rich red ceiling. The gin list is long, as a gin palace's should be.
 
 **Closed on Sunday, and on Saturday it shuts at 8pm.** Monday to Friday it runs from 11am to 11pm, which is when to go.
@@ -94,6 +106,10 @@ Opened in 1869 across from the Old Bailey, and **remodelled between 1898 and 190
 ### The Argyll Arms, Oxford Circus — the mirrors that survived the Blitz
 
 *Oxford Circus · Cited by 4 sources · CAMRA National Inventory, three stars*
+
+![A row of large gilt-framed mirrors and etched glass screens dividing red-walled booths inside The Argyll Arms](../../assets/articles/most-beautiful-pubs-london/the-argyll-arms-etched-mirrors.jpg)
+
+*These mirrors are the pub's famous feature — Historic England and Discover Britain both note that they survived the Blitz.*
 
 Seconds from Oxford Circus and, according to Historic England, **little changed from Victorian times in parts**. The large mirrors are the famous feature: both Historic England and Discover Britain point out that they survived the Blitz. The layout still has the small separate drinking areas that once kept one class of customer from another, with carved wood and glass screens between them.
 
@@ -103,6 +119,10 @@ Seconds from Oxford Circus and, according to Historic England, **little changed 
 
 *Warwick Avenue · Cited by 4 sources · CAMRA National Inventory, three stars*
 
+![The curved wooden bar at The Prince Alfred, with etched-glass snob screens on carved frames either side of the beer pumps](../../assets/articles/most-beautiful-pubs-london/the-prince-alfred-snob-screens.jpg)
+
+*The glass-and-timber snob screens that split the bar into separate compartments.*
+
 Trading since 1856, and the best example on this page of **how a Victorian pub was divided**. Its glass-and-timber snob screens split the bar into separate compartments, each with its own door to the street, and you have to duck through low doorways to move between them. Colourful original tiles and a mosaic floor; the old basement coal store is now seating.
 
 A Young's pub, **open seven days** and serving a Sunday roast. [The Warrington](#further-out-and-worth-the-trip), another three-star interior, is a few streets away.
@@ -110,6 +130,10 @@ A Young's pub, **open seven days** and serving a Sunday roast. [The Warrington](
 ### The Salisbury, Covent Garden — candelabras shaped like women
 
 *Leicester Square · Cited by 3 sources · CAMRA National Inventory, three stars*
+
+![Etched glass mirrors and a gold chandelier inside The Salisbury on St Martin's Lane, with the pub's name lettered in gold across the mirror](../../assets/articles/most-beautiful-pubs-london/the-salisbury-covent-garden-etched-glass.jpg)
+
+*Etched glass at The Salisbury, whose interiors date from around 1900.*
 
 A large pub on St Martin's Lane full of theatregoers, with **etched glass panels, a sweeping mahogany bar and interiors from around 1900**. The detail to look for, from The 500 Hidden Secrets: the original candelabras, made as women holding glowing flowers.
 
@@ -119,6 +143,10 @@ Open until 12.30am on Friday and Saturday, and it serves pub classics and a Sund
 
 *Piccadilly Circus · Cited by 3 sources · CAMRA National Inventory, three stars · [the pub's site](https://www.redlionmayfair.co.uk/)*
 
+![A wood-panelled corridor inside the Red Lion on Duke of York Street, with an etched and stained-glass front door and matching etched mirror panels](../../assets/articles/most-beautiful-pubs-london/red-lion-duke-of-york-street-etched-glass-hallway.jpg)
+
+*Dark wood and etched glass at the Red Lion, a complete Victorian gin palace on a St James's side street.*
+
 A Fuller's pub on a St James's side street, which takes table bookings online, and which London Luke's channel filmed for **its original Victorian gin palace interior**, all etched glass and mirrors. SquareMeal put it on its list of London's picturesque pubs, and CAMRA gives it three stars.
 
 **On Sunday it closes at 6pm, and on Monday and Tuesday at 10pm.** Not the Red Lion on Crown Passage nearby, nor the one on Whitehall.
@@ -127,6 +155,10 @@ A Fuller's pub on a St James's side street, which takes table bookings online, a
 
 *Tottenham Court Road · Cited by 3 sources · CAMRA National Inventory, three stars*
 
+![The Flying Horse's bar beneath a decorative fan-striped ceiling in red, green and cream, with wood stools and pendant lights](../../assets/articles/most-beautiful-pubs-london/the-flying-horse-music-hall-ceiling.jpg)
+
+*The Flying Horse, rebuilt in 1893 and the last pub left on Oxford Street.*
+
 Historic England and Discover Britain both name it among the best gin palaces in London, Historic England under its old name, **The Tottenham**. It is **the last pub left on Oxford Street**, rebuilt in 1893, and Historic England says there is something of a Victorian music hall — it once stood a few doors from one — about the inside.
 
 Open every day, to midnight on Saturday. Right by Tottenham Court Road station.
@@ -134,6 +166,10 @@ Open every day, to midnight on Saturday. Right by Tottenham Court Road station.
 ### The Punch Tavern, Fleet Street — a skylight and a pink marble bar
 
 *Blackfriars · Cited by 3 sources · CAMRA National Inventory, two stars · [the pub's site](https://www.urbanpubsandbars.com/venues/punch-tavern)*
+
+![A glazed barrel-vaulted skylight above the entrance passage at The Punch Tavern, with an ornate plaster cherub medallion and etched glass doors below](../../assets/articles/most-beautiful-pubs-london/the-punch-tavern-barrel-vaulted-skylight.jpg)
+
+*The barrel-vaulted skylight over the entrance passage, from the 1890s rebuild by Saville and Martin.*
 
 Rebuilt between 1893 and 1897 by the architects Saville and Martin, who also did The Flying Horse. **A tiled entrance passage under a barrel-vaulted skylight** leads into a bar with its mosaic floor, cut-glass mirrors, painted panels and a pink marble bar counter still there, according to Discover Britain. It was named after *Punch* magazine, whose staff drank here.
 
@@ -161,6 +197,10 @@ Inside is less famous and nearly as full — ceilings hung with wartime memorabi
 
 *Hampstead · Cited by 5 sources · CAMRA National Inventory, two stars · [the pub's site](https://www.hollybushhampstead.co.uk/)*
 
+![The Holly Bush pub on a quiet corner of Holly Mount, a cobbled lane in Hampstead, with window boxes and hanging baskets](../../assets/articles/most-beautiful-pubs-london/the-holly-bush-holly-mount-exterior.jpg)
+
+*The Holly Bush on Holly Mount, a cobbled lane in Hampstead village.*
+
 Tucked up Holly Mount, a cobbled lane in Hampstead village, and Secret London's runner-up for the most-photographed pub in London. Architectour Guide describes the inside as **oak-panelled rooms with etched glass, a log fire** and a slightly ramshackle feel, with more seating upstairs.
 
 It takes table bookings online and serves traditional seasonal food. An easy pairing with a walk on the Heath and [The Spaniards Inn](#the-spaniards-inn-hampstead--on-the-edge-of-the-heath).
@@ -168,6 +208,10 @@ It takes table bookings online and serves traditional seasonal food. An easy pai
 ### The Spaniards Inn, Hampstead — on the edge of the Heath
 
 *Hampstead · Cited by 5 sources*
+
+![A lit fire under a copper hood in a brick fireplace at The Spaniards Inn, with a dining room visible through the doorway beyond](../../assets/articles/most-beautiful-pubs-london/the-spaniards-inn-fireplace.jpg)
+
+*The fire at The Spaniards Inn, on the edge of Hampstead Heath.*
 
 On Spaniards Road across the top of Hampstead Heath. Five sources name it, and Secret London's writers include it twice — once for the fire and the corgi, once for how it looks in snow. **Open every day from 10am, Tuesday to Saturday.**
 
@@ -195,6 +239,10 @@ It takes online bookings for the pub, the Nile restaurant and the terrace, and i
 
 Both are on CAMRA's three-star register and both are mostly famous for their age, so their full entries are in our [historic pubs guide](/articles/historic-pubs-dining-rooms-london/). For looks: **Ye Olde Mitre** is reached down an alley off Hatton Garden, and **Ye Olde Cheshire Cheese** off Fleet Street is a dark warren of wood-panelled rooms. **Ye Olde Mitre is closed on Sunday** and closes at 9pm on Saturday.
 
+![A dim, low-beamed bar at Ye Olde Cheshire Cheese, with dark wood fittings, hanging lamps and framed portraits on the walls](../../assets/articles/most-beautiful-pubs-london/ye-olde-cheshire-cheese-dark-bar.jpg)
+
+*Ye Olde Cheshire Cheese, a dark warren of wood-panelled rooms off Fleet Street.*
+
 ### The Dickens Inn, St Katharine Docks — flowers on three balconies
 
 *Tower Hill · Cited by 2 sources*
@@ -217,6 +265,10 @@ CAMRA's Pub Design Awards, run with Historic England, judge new work — restora
 
 *Kilburn · Cited by 2 sources · CAMRA National Inventory, three stars · CAMRA Pub Design Awards 2023, Historic England Award for Conservation*
 
+![A room at The Black Lion in Kilburn with a deep red patterned ceiling, a decorative frieze and cornice, patterned wallpaper, armchairs and sunlight on a wooden floor](../../assets/articles/most-beautiful-pubs-london/the-black-lion-kilburn-ceiling-cornice.jpg)
+
+*The rich ceiling and decorative cornice, two of the details CAMRA's judges describe.*
+
 A Grade II*-listed pub from 1898, and **the 2023 winner of Historic England's conservation award**: CAMRA's judges describe a rich ceiling, the original bar counter and island back bar, a screen, etched and cut glass and a very decorative cornice. Secret London says the restoration made it bright rather than dark and fusty.
 
 It now serves **contemporary Indian food** during the week and a roast on Sunday. **Weekdays it opens at 4pm.** Opposite the Kiln Theatre, two minutes from Kilburn station.
@@ -225,11 +277,23 @@ It now serves **contemporary Indian food** during the week and a roast on Sunday
 
 *Chelsea and Fitzrovia · Cited by 2 sources each · CAMRA Pub Design Awards 2023*
 
+![The Cadogan Arms at dusk on the corner of Old Church Street in Chelsea, its windows lit and drinkers outside](../../assets/articles/most-beautiful-pubs-london/the-cadogan-arms-exterior.jpg)
+
+*The Cadogan Arms on the King's Road, winner of the 2023 Refurbishment Award.*
+
 Two pubs from the same owners, recognised in the same year. **The Cadogan Arms** on the King's Road won the 2023 Refurbishment Award for recreating the building's lost early Georgian details and timber panelling. **The George** on Great Portland Street was highly commended for its restored bar, where the judges picked out a five-bay back-fitting of etched and gilded mirrors and painted tiles of hunting dogs and a stag. Both are also in our [gastropubs guide](/articles/best-gastropubs-london/) for their kitchens. The George serves food all day, every day; The Cadogan Arms stays open until 1am on Friday and Saturday.
+
+![A row of arched, etched and gilded mirror bays behind the bar at The George, Fitzrovia, with a diamond-patterned tiled floor in front](../../assets/articles/most-beautiful-pubs-london/the-george-fitzrovia-etched-mirror-back-bar.jpg)
+
+*CAMRA's judges highly commended this five-bay back-fitting of etched and gilded mirrors when The George was recognised in 2023.*
 
 ### The Blue Stoops, Kensington — the newest winner
 
 *Kensington · Cited by 1 source · CAMRA Pub Design Awards 2026, Conversion to Pub Use*
+
+![A dark wood bar back with gold Allsopp's brewery lettering, above a blue ceramic bar front with a raised hand emblem, at The Blue Stoops](../../assets/articles/most-beautiful-pubs-london/the-blue-stoops-allsopps-ceramic-bar-front.jpg)
+
+*CAMRA's judges singled out this ceramic bar front carrying the old Allsopp's brewery trademark when the pub won the 2026 conversion award.*
 
 **A pub in the building that used to be the Kensington Wine Rooms**, and the 2026 conversion winner. CAMRA's judges point to the half-height partitions and glazed screens that break up the room, new fixed seating, and a ceramic bar front carrying the old Allsopp's brewery trademark. It is the Allsopp's brewery's pub, open every day from noon, at 127–129 Kensington Church Street — **a short walk up the same street from The Churchill Arms**, so see both together. Its win is the clearest sign that a beautiful pub does not have to be an old one.
 
@@ -246,9 +310,28 @@ Two pubs from the same owners, recognised in the same year. **The Cadogan Arms**
 ## Further out, and worth the trip
 
 - **[The Warrington](https://www.thewarringtonhotel.co.uk/)**, Maida Vale — tiled columns and a mosaic floor at the door, stained glass, art nouveau friezes and a marble-topped bar, per The 500 Hidden Secrets. Three stars from CAMRA. *Cited by 2 sources.*
+
+  ![The Warrington's entrance, framed by amber art nouveau tiled columns, with the pub's coat-of-arms sign hanging above](../../assets/articles/most-beautiful-pubs-london/the-warrington-tiled-columns-entrance.jpg)
+
+  *The tiled columns at the door of The Warrington, one of CAMRA's three-star interiors.*
+
 - **The Salisbury**, Harringay — Historic England's pick for elaborate wrought-iron screens, tiled lobbies and mosaics, and a billiard room under a vine-painted glass roof. Opens at 5pm Monday to Thursday. *Cited by 2 sources.*
+
+  ![The Salisbury's ornate red-brick and terracotta corner tower on Green Lanes, Harringay, lit at dusk with its name spelled out across the facade](../../assets/articles/most-beautiful-pubs-london/the-salisbury-harringay-exterior-dusk.jpg)
+
+  *The Salisbury in Harringay, Historic England's pick for its wrought-iron screens, tiled lobbies and mosaics.*
+
 - **The Queens**, Crouch End — art nouveau stained glass, a mosaic entrance floor and a huge original bar between decorative partitions. *Cited by 2 sources.*
+
+  ![The Queens' arched entrance in Crouch End, with stained glass windows either side of the door and a round mosaic mat set into the threshold](../../assets/articles/most-beautiful-pubs-london/the-queens-crouch-end-entrance.jpg)
+
+  *The entrance to The Queens in Crouch End, with its mosaic floor at the door.*
+
 - **The Palm Tree**, Bow — standing alone in a park off Grove Road, with a gold oval bar, flock wallpaper and boxing photos, according to Nuff, which says it is cash only and has jazz Thursday to Sunday. *Cited by 2 sources.*
+
+  ![The Palm Tree's brick corner exterior in Bow, with a carved stone name plaque and a Truman's brewery eagle emblem](../../assets/articles/most-beautiful-pubs-london/the-palm-tree-bow-exterior.jpg)
+
+  *The Palm Tree in Bow, standing alone in a park off Grove Road.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="most-beautiful-pubs-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -258,11 +341,19 @@ Two pubs from the same owners, recognised in the same year. **The Cadogan Arms**
 - **St James Tavern**, Soho — a Victorian pub rebuilt in 1896, with theatre-themed tiles made for it by Doulton in the 1930s.
 - **Mr Fogg's Tavern**, Covent Garden — a new pub made to look like a Victorian one and crammed with curiosities. *Cited by 2 sources.*
 
+![Stained glass at The Champion depicting the jockey Fred Archer and the tennis champion William Renshaw, with their names and dates lettered beneath](../../assets/articles/most-beautiful-pubs-london/the-champion-stained-glass-archer-renshaw.jpg)
+
+*The beer historians Boak & Bailey found that this "Victorian" glass is actually a 1954 design by the architects Sylvia and John Reid.*
+
 ## A gin palace route, Holborn to Blackfriars
 
 Five of the three-star interiors sit close enough to see in one weekday afternoon, in this order: **The Princess Louise** and **Cittie of Yorke** on High Holborn, **Ye Olde Mitre** down its alley off Hatton Garden, **The Viaduct Tavern** opposite the Old Bailey, and **The Blackfriar** by the river. **Don't try it on a Sunday** — the Mitre and the Viaduct are shut.
 
 Cittie of Yorke's back bar is the one to look for on the way: The 500 Hidden Secrets describes a mock-Tudor hall with a huge roof, giant wooden vats and carved booths, built in the 1920s to look far older. It closes at 6pm on Sunday.
+
+![Cittie of Yorke's cathedral-like back bar, with a vaulted roof, giant wooden vats on a high gallery and a long curved bar below](../../assets/articles/most-beautiful-pubs-london/cittie-of-yorke-back-bar-vats.jpg)
+
+*The 500 Hidden Secrets describes this mock-Tudor hall, built in the 1920s to look far older, with its huge roof and giant wooden vats.*
 
 ## What to know
 

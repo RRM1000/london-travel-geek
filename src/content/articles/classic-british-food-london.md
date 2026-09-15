@@ -2,6 +2,8 @@
 title: "Classic British Food in London: What It Is and Where to Try It"
 seoTitle: "Classic British Food London 2026: Where to Eat"
 description: "Scotch eggs, sausage rolls, pie and mash and sticky toffee pudding — what British food actually is, dish by dish, with a real, currently-trading place to try each one."
+heroImage: "../../assets/articles/classic-british-food-london/m-manze-pie-mash-liquor.jpg"
+heroImageAlt: "Two pies covered in green parsley liquor next to mashed potato and a bowl of jellied eels, on a marble table."
 publishedAt: 2026-09-13
 sites: [london]
 canonicalSite: london
@@ -35,6 +37,10 @@ Four of these already have a full guide of their own on this site, so there is n
 
 Tiered stands of finger sandwiches, warm scones with clotted cream and jam, then pastries, over a pot of tea — a sit-down ritual usually traced to the 1840s and the Duchess of Bedford's long gap between lunch and a late dinner. **The Langham** in Marylebone claims the version anyone could book: it opened in 1865 as the first hotel in the world to serve it. Prices run from around £30 in a museum café to £95 at a Mayfair hotel. The full **[afternoon tea guide](/articles/best-afternoon-tea-london/)** compares 25 of them — sittings, dress codes and all.
 
+![The Langham hotel's brick and stone exterior, with the hotel's name lettered above the ground-floor entrance.](../../assets/articles/classic-british-food-london/the-langham-exterior.jpg)
+
+*The Langham opened in 1865 as the first hotel in the world to serve afternoon tea.*
+
 ### The full English breakfast
 
 Eggs, bacon, sausage, baked beans, a grilled tomato and mushroom, and toast or fried bread, sometimes with black pudding or a hash brown alongside — fried to order rather than assembled, and usually just called a "fry-up." The same plate goes by a full Scottish, Welsh or Irish depending which side of which border you're on, with small local swaps to the supporting cast. London does it anywhere from a cheap caff to a Michelin-starred kitchen; the **[breakfast and brunch guide](/articles/best-breakfast-brunch-london/)** covers both ends, plus where to get one at three in the morning.
@@ -57,33 +63,65 @@ Battered white fish — cod or haddock, usually — deep-fried and served with t
 
 Minced beef in a pastry pie, mashed potato, and a ladle of "liquor" — a bright green parsley sauce, not a drink, traditionally made with the water eels were stewed in. This is London's own fast food, older than the chip shop and specific to the docks and the East End, and jellied eels usually sit on the same counter for anyone who wants the fuller version. **[M Manze](https://www.manze.co.uk/)**, at 87 Tower Bridge Road in Bermondsey, has served it since 1902 and is the oldest surviving pie and mash shop in London; **[Goddards at Greenwich](https://goddardsatgreenwich.co.uk/)**, in Greenwich Market since 1890, is the other one worth the detour. Both shut by mid-afternoon and neither opens for dinner — this is lunch, not a dinner reservation.
 
+![Two pies covered in green parsley liquor next to mashed potato and a bowl of jellied eels, on a marble table.](../../assets/articles/classic-british-food-london/m-manze-pie-mash-liquor.jpg)
+
+*Pie, mash and liquor, with a bowl of jellied eels alongside for the fuller version.*
+
 ### Pork pies
 
 Cold hand-raised pork in a firm, free-standing pastry shell — no tin, no hoop — with a layer of savoury jelly between the meat and the crust, eaten as it comes rather than heated through. The style is Melton Mowbray's, a Leicestershire pork pie with its own protected geographical status since 2009, and **[Mrs King's Pork Pies](https://boroughmarket.org.uk/traders/mrs-kings-pork-pies/)** at Borough Market trades under a family recipe dating to 1853. **[The Ginger Pig](https://thegingerpig.co.uk/our-shops/borough-market/)** — the butcher with a stall at Borough Market and a shop on Marylebone's Moxon Street — makes its own pork and sage version alongside the meat counter.
+
+![A pork pie sliced in half, showing the pastry shell, pink pork filling and a pale layer of jelly between the meat and the crust.](../../assets/articles/classic-british-food-london/mrs-kings-pork-pie-cut.jpg)
+
+*The layer of savoury jelly between meat and crust marks this out as a proper hand-raised pork pie.*
 
 ### Sausage rolls, steak bakes and pasties
 
 Sausage meat rolled in puff pastry is a sausage roll; the same idea with diced beef in gravy instead is a steak bake; a Cornish pasty is a D-shaped, crimped parcel of beef, potato, swede and onion that Cornish miners' wives once packed as a self-contained hot lunch — the crimped edge was originally a handle, held with hands dirty from the mine and thrown away rather than eaten. All three are ordinary lunch food, sold hot from the same kind of shop on every high street in London, and the honest answer for where to try one is **[Greggs](https://www.greggs.co.uk/)** — more than 2,700 branches across the UK and dozens across London, selling all three by the till. For the Cornish pasty specifically, **[West Cornwall Pasty Co.](https://westcornwallpasty.co.uk/stores/)** has counters inside Victoria, Liverpool Street, King's Cross, Waterloo and St Pancras stations, so it's often the first hot food a visitor arriving by train walks past.
 
+![Golden Cornish pasties with crimped edges in a hot-food display case, labelled Traditional Cornish Pasty.](../../assets/articles/classic-british-food-london/west-cornwall-pasty-cornish-pasties.jpg)
+
+*The crimped edge, visible here, was originally a handle for miners eating with dirty hands.*
+
 ### The Scotch egg
 
 A boiled egg wrapped in sausage meat, coated in breadcrumbs and fried — cold, it's picnic food; hot, with a soft yolk, it's a different dish entirely. **[Fortnum & Mason](https://www.fortnumandmason.com/food-hall/fresh-food/pies-scotch-eggs)** says it invented the Scotch egg in 1738, as something portable for the mail coaches leaving Piccadilly, and still sells a "Traditional Scotch Egg" in its food hall today — though the claim is disputed. Food historians also point to a Yorkshire version coated in fish paste and sold by a Whitby fishmonger, and to Mughal spiced eggs that may have reached Britain via colonial India; nobody has settled it. For the dressed-up version, **[the Harwood Arms in Fulham](/articles/best-sunday-roast-london/)** — already covered in our Sunday roast guide — makes its Scotch egg with venison from the owners' own stalking, and it has been the pub's signature dish for years.
+
+![A Scotch egg cut in half, showing a soft egg yolk inside sausage meat and a breadcrumb coating, served with a small pot of sauce.](../../assets/articles/classic-british-food-london/the-harwood-arms-scotch-egg.jpg)
+
+*Served hot, with the soft yolk that sets this version apart from the picnic kind.*
 
 ### Bangers and mash
 
 Sausages and mashed potato under onion gravy — the least complicated dish in this guide, and one most London pubs serve as a matter of course. "Banger" is usually traced to the world wars, when sausages were bulked out with water to stretch scarce meat, and the water made them spit and pop in the pan. **[Mother Mash](https://www.thisissoho.co.uk/brands/mother-mash/)** on Ganton Street in Soho is a whole restaurant built around the combination, with a choice of British sausages, several mashes and a handful of gravies to mix and match.
 
+![Two sausages under onion gravy with mashed potato and peas, on a white plate.](../../assets/articles/classic-british-food-london/mother-mash-sausages-mash-gravy.jpg)
+
+*Bangers and mash at Mother Mash, a restaurant built entirely around the combination.*
+
 ### Steak and kidney pudding
 
 Not a pie — a pudding: steak and kidney in gravy, sealed inside a suet crust and steamed in a basin for hours rather than baked, so the pastry comes out soft rather than crisp. **[Rules](https://rules.co.uk/)** on Maiden Lane — open since 1798 and the oldest restaurant in London — keeps it on the menu alongside a separate steak and kidney pie for anyone who wants the baked version, made with beef from the restaurant's own Pennines estate.
+
+![Rules restaurant's maroon awnings and gold lettering on Maiden Lane, reading Rules, Established 1798.](../../assets/articles/classic-british-food-london/rules-exterior.jpg)
+
+*Rules has traded from this address on Maiden Lane since 1798.*
 
 ### Shepherd's pie and cottage pie
 
 Minced meat under a layer of mashed potato, baked until the top browns. Shepherd's pie is made with lamb, cottage pie with beef, and the two names are not interchangeable no matter how often a menu gets it wrong. **[The Ivy](https://ivycollection.com/restaurants-near-me/the-ivy-london/the-ivy-west-street-covent-garden/)** on West Street in Covent Garden — the original, dating to 1917 and in this building since 1929 — sidesteps the argument entirely with a version made from equal parts lamb and beef mince, served in a disc on a pool of gravy, and it's one of the restaurant's best-known dishes.
 
+![The Ivy's corner building on West Street at dusk, with the restaurant's name lettered on the stonework and a lit stained-glass window below.](../../assets/articles/classic-british-food-london/the-ivy-exterior.jpg)
+
+*The Ivy has occupied this West Street building since 1929.*
+
 ### Welsh rarebit
 
 Cheese on toast in name only: a thick, savoury sauce of melted cheddar, egg yolk, mustard and usually beer, grilled onto bread until it browns, rather than a slice of cheese dropped under the grill. **[J Sheekey](https://j-sheekey.co.uk/)** in Covent Garden — the most-cited seafood restaurant in London by our own **[seafood guide](/articles/best-seafood-restaurants-london/)** — makes its version with cheddar, egg yolk, Worcestershire sauce, mustard, Guinness and double cream, a recipe well-known enough to be printed in the restaurant's own cookbook, and sells it at the bar for about £5.
+
+![J Sheekey's red-framed shopfront on a Covent Garden side street, with outdoor tables set among potted plants.](../../assets/articles/classic-british-food-london/j-sheekey-exterior.jpg)
+
+*J Sheekey sells its Welsh rarebit at the bar for about £5.*
 
 ---
 
@@ -99,9 +137,17 @@ A moist date sponge soaked in hot toffee sauce, served with cream or custard —
 
 Shortcrust pastry filled with golden syrup, breadcrumbs and lemon juice and baked until set — golden syrup rather than treacle proper, despite the name, and sweeter than it looks. **[St. JOHN](https://stjohnrestaurant.com/)** in Smithfield — Fergus Henderson's nose-to-tail restaurant, open since 1994 and Michelin-starred since 2009 — is known for its version nearly as much as for the bone marrow that made the restaurant's name.
 
+![Three roasted bone marrow halves on a plate with a wedge of toast and a parsley salad.](../../assets/articles/classic-british-food-london/st-john-bone-marrow.jpg)
+
+*St. JOHN is known for its treacle tart nearly as much as for this dish, the bone marrow that made the restaurant's name.*
+
 ### Spotted dick and sherry trifle
 
 Spotted dick is a suet sponge studded with dried fruit, steamed and served with custard; sherry trifle is layers of sponge soaked in sherry, fruit, custard and cream, built in a glass bowl so the layers show. **[Simpson's-in-the-Strand](https://www.simpsonsinthestrand.co.uk/)**, a Strand institution since 1848 and still known for the silver trolleys its meat is carved from at the table, keeps both on the menu.
+
+![Simpson's-in-the-Strand's domed dining room, with oval portraits mounted below the cornice and white-clothed tables set for service.](../../assets/articles/classic-british-food-london/simpsons-in-the-strand-dining-room.jpg)
+
+*Simpson's-in-the-Strand has been on the Strand since 1848.*
 
 ---
 

@@ -74,6 +74,10 @@ Both are worth your time and they are not competing.
 
 *££££ · Mon–Sat 4pm–1am · no reservations, ever*
 
+![Green leather armchairs around small round tables in the Connaught Bar, with a lit back bar of bottles at the far end under a moulded plaster ceiling](../../assets/articles/best-cocktail-bars-london/the-connaught-bar-room.jpg)
+
+*The martini is mixed at your table from a trolley. There are no reservations, so arrive at 4pm, when the bar opens.*
+
 **No.6 in the World's 50 Best Bars 2025** · world No.1 in 2020 and 2021
 
 The **martini is mixed at your table** from a trolley of tinctures — you pick the gin, then choose from bergamot, cardamom, coriander, liquorice and lavender as the bartender works, and the whole thing takes several minutes in front of you. It is £30, and it is the single most polished drink service in London.
@@ -85,6 +89,10 @@ The **martini is mixed at your table** from a trolley of tinctures — you pick 
 ### Artesian, Marylebone
 
 *££££ · £15–£85 · Sun–Wed 4pm–midnight, Thu–Sat 4pm–1am*
+
+![Artesian's back bar, a row of lit bottle cabinets topped with pagoda roofs, with two gold pagoda-shaped chandeliers above and purple leather chairs around small round tables](../../assets/articles/best-cocktail-bars-london/artesian-back-bar.jpg)
+
+*The pagoda-topped back bar off The Langham's lobby. Artesian publishes its prices, which run from £15 to £85 a drink.*
 
 **Four consecutive years as the best bar in the world** in the 2010s, and still a room built for a long drink rather than a quick one — a high-ceilinged, chinoiserie-panelled bar off the lobby of The Langham, with a back bar that runs the full width of it.
 
@@ -98,6 +106,10 @@ At The Langham, 1c Portland Place, W1B 1JA, at the top of Regent Street opposite
 
 *££££ · currently closed after a fire*
 
+![Customers on wooden stools at a long wooden bar counter, with bartenders working in front of shelves of amber bottles set against green tiles, under an exposed concrete ceiling](../../assets/articles/best-cocktail-bars-london/tayer-plus-elementary-back-room.jpg)
+
+*The seated room behind the front bar, for a slow drink. It has been closed since a fire in the building on 5 May 2026.*
+
 **No.5 in the World's 50 Best Bars 2025** — the highest-ranked London bar on that list
 
 Alex Kratena and Monica Berg split it in two: a standing bar at the front for a fast drink, a seated room behind for a slow one. Among the most technically serious bars in Europe.
@@ -107,6 +119,10 @@ Alex Kratena and Monica Berg split it in two: a standing bar at the front for a 
 ### Lyaness, South Bank
 
 *££££ · £17–£31 · Mon–Thu 5pm–midnight, Fri 4pm–1am, weekends from 1pm*
+
+![A raised lounge with blue velvet banquette seating around low brass-legged tables, grey armchairs in the foreground, a faceted brass octagonal mirror on a panelled blue wall, and a dark herringbone wood floor](../../assets/articles/best-cocktail-bars-london/lyaness-bar-room.jpg)
+
+*The room at Sea Containers London, the same building as 12th Knot upstairs. Weekends here open at 1pm, one of very few serious cocktail bars usable in the afternoon.*
 
 Ryan Chetiyawardana builds the menu around a handful of house-made ingredients and **rewrites it wholesale** each time rather than editing it. The current one is called **Collaboration 2.0**, with a separate five-drink Special Editions list beside it. Nowhere else in London is working this way.
 
@@ -124,6 +140,10 @@ At Sea Containers London, 20 Upper Ground, SE1 9PD — the same building as 12th
 
 *££££ · Mon–Sat noon–midnight, Sun noon–10pm*
 
+![Tan leather armchairs with orange cushions around small round tables on a grey-and-gold geometric carpet, with framed black-and-white photographs on the walls and a curved back bar at the far end](../../assets/articles/best-cocktail-bars-london/the-american-bar-room.jpg)
+
+*The room where Harry Craddock compiled the Savoy Cocktail Book in 1930. It opens at noon, seven days a week.*
+
 The room where **Harry Craddock compiled the Savoy Cocktail Book in 1930**, and where the White Lady was popularised. Britain's oldest surviving cocktail bar, with a pianist at the baby grand, white jackets and more history per square foot than anywhere else in the country — the Savoy's own line is that it has been serving since 1893 and has had everyone from Churchill to Hemingway through it.
 
 **Noon opening, seven days**, which makes it far more usable than its reputation suggests — an afternoon drink here is a fraction of the theatre of an evening one and the room is the same.
@@ -136,9 +156,13 @@ It was **World's Best Bar in 2017** and is not in the current top 100 — which 
 
 *££££ · walk-in only · Mon–Sat 3pm–10pm*
 
+![A bartender in a white jacket pouring from a frosted bottle into a martini glass on a wooden drinks trolley, beside a bottle of No.3 London Dry Gin and a bowl of citrus fruit](../../assets/articles/best-cocktail-bars-london/dukes-bar-martini-trolley.jpg)
+
+*The martini is made at your table from frozen bottles, with no ice. That is why the house has long held guests to two.*
+
 The **martini is made at your table from frozen bottles**, poured with no ice and no dilution, which is why the house has long held guests to two. Ian Fleming drank here and the Vesper is the order.
 
-> ⚠️ **Do not try to book, and do not believe anyone who tells you to.** Dukes' own site is explicit: the bar welcomes guests on a **walk-in basis**, and there is no reservation system on the page at all. During busy periods there may be a short wait for a table. This guide previously told you to book, which was wrong.
+> ⚠️ **Do not try to book, and do not believe anyone who tells you to.** Dukes' own site is explicit: the bar welcomes guests on a **walk-in basis**, and there is no reservation system on the page at all. During busy periods there may be a short wait for a table.
 
 **Last orders are 10pm and the bar closes at 10.30**, which is early for St James's — this is a pre-dinner room, not a late one. No Sunday hours are published.
 
@@ -190,11 +214,15 @@ Cheaper, later, and no less serious.
 
 *£££ · book by phone only · from 5pm daily*
 
+![A bartender making drinks behind the bar, with customers seated along the counter, green glass bottles on the rail and shelves of spirits behind him](../../assets/articles/best-cocktail-bars-london/satans-whiskers-bar-counter.jpg)
+
+*The menu here has been rewritten daily since the bar opened in late 2013. Reservations are taken by telephone only.*
+
 **No.21 in the World's 50 Best Bars 2025**
 
 **Taxidermy on the walls, hip-hop loud enough to talk over**, and a menu rewritten daily since it opened in late 2013. Consistently named one of the best bars in London by people who go to bars for a living, and it has never once behaved like it.
 
-**The booking position is more forgiving than its reputation suggests.** Their own words: walk-in guests are accepted, and reservations are recommended but not essential — but **reservations are taken by telephone only**. There is no online form, which is why so many guides, this one included until now, wrote it up as taking no bookings at all.
+**The booking position is more forgiving than its reputation suggests.** Their own words: walk-in guests are accepted, and reservations are recommended but not essential — but **reservations are taken by telephone only**. There is no online form, which is why so many guides wrote it up as taking no bookings at all.
 
 Open **from 5pm every day**, running later on Fridays and Saturdays. 343 Cambridge Heath Road, E2 9RA, five minutes from Bethnal Green.
 
@@ -234,6 +262,10 @@ The pricing follows the split: **upstairs £9 to £16**, downstairs £12 to £16
 
 *£££ · classics from £15.50, house negroni £9.50*
 
+![A red cocktail served without ice in a small stemmed glass, on a coaster printed with a large T on a marble counter, with steel shakers and shelves of bottles behind](../../assets/articles/best-cocktail-bars-london/bar-termini-marble-counter.jpg)
+
+*A drink on the marble counter. The house negroni is £9.50, and everything else on the list starts at £15.50.*
+
 A tiny Italian counter bar on Old Compton Street, done as a Roman station bar — an espresso machine at the front, a marble counter, waiter service, and small enough that you should expect to wait.
 
 **The negroni is the reason to come and the reason to be careful.** The house build is £9.50, and there are four of them; everything else on the list starts at **£15.50**. It has a reputation as a cheap bar which only holds if you order the one drink.
@@ -245,6 +277,10 @@ Bookings are open and walk-ins welcome, per their own banner. **They publish no 
 ### Three Sheets, Soho and Dalston
 
 *£££ · Dalston Tue–Sun · Soho seven days*
+
+![A pink drink over one large ice cube with a raspberry on top, on a Three Sheets napkin next to a black menu on a marble counter](../../assets/articles/best-cocktail-bars-london/three-sheets-cocktail.jpg)
+
+*Max and Noel Venning keep the menu short, and the drinks arrive without a speech.*
 
 **Soho: No.80 in the World's 50 Best Bars 2025** · **Dalston: No.16 in 2019**
 
@@ -260,6 +296,10 @@ Brothers **Max and Noel Venning**, a short menu and **no theatre at all** — th
 
 *£££*
 
+![Three amber cocktails in stemmed glasses on coasters cut as a yellow triangle, a red square and a blue circle](../../assets/articles/best-cocktail-bars-london/a-bar-with-shapes-for-a-name-coasters.jpg)
+
+*The coasters are the same three shapes as the sign outside. The bar is built on Bauhaus principles down to the glassware.*
+
 **No.73 in the World's 50 Best Bars 2025**
 
 Built on **Bauhaus principles down to the glassware**, with a menu of about a dozen drinks and nothing surplus to it. The name is a joke about its own signage, which is three shapes.
@@ -267,6 +307,10 @@ Built on **Bauhaus principles down to the glassware**, with a menu of about a do
 ### Little Mercies, Crouch End
 
 *££ · 20 Broadway Parade · 30% off 6–7pm daily*
+
+![A long concrete bar counter with stools along one side, black pendant lamps overhead, high tables with candles against a brick wall, and the street through the front window](../../assets/articles/best-cocktail-bars-london/little-mercies-bar-room.jpg)
+
+*Every drink is 30% off from 6pm to 7pm on the five nights the bar opens, Tuesday to Saturday.*
 
 A low-waste neighbourhood bar from the same family behind Three Sheets, built around house distillates, ferments and bottled spirits — and named **Sustainable Bar of the Year in 2022, 2023 and 2025**.
 
@@ -280,6 +324,10 @@ The Snickers Old Fashioned, Moro Margarita and Rhubarb Negroni are the signature
 
 *££ · 396 York Way N7 9LW · Tue–Sat only · restaurant first*
 
+![Half Cut's shopfront, with a blue fascia and awning, the name in orange neon in the window, and wooden folding tables and chairs on the pavement](../../assets/articles/best-cocktail-bars-london/half-cut-market-shopfront.jpg)
+
+*Despite the name, it is a shopfront on York Way rather than anything inside a market.*
+
 **Be clear what this is before you go: it is a restaurant, wine bar and bottle shop, not a cocktail bar.** Its own description is "a restaurant, wine bar + shop on the York Way Riviera™". It earns a place here on price rather than on the list — the **Half Cut Martini is £10** and a vermouth and soda **£7**, which in London is close to unheard of for drinks made this carefully, and those are last-listed figures rather than something the shop publishes online.
 
 Around eighty low-intervention bottles to drink in or carry out, and a Konro-grilled seasonal menu. **Wine is available to take away any time they are open**, which is the part that makes it useful.
@@ -292,6 +340,10 @@ Despite the name, it is a shopfront rather than anything inside a market. Their 
 
 *££ · 19 Kingly Street · Mon–Sat noon–9.30pm, Sun 1pm–9pm*
 
+![Tall grey tables with black wire bar stools lined up along a banquette, set with wine glasses and candles, beside green-framed windows onto the street](../../assets/articles/best-cocktail-bars-london/bar-crispin-high-tables.jpg)
+
+*Wine is the point here, and the cocktail list runs to four drinks. It closes at 9.30pm, and at 9pm on Sundays.*
+
 Soho's benchmark low-intervention wine bar, and the cocktail list is short but unusually good. Four drinks: an **olive oil negroni**, a burnt butter old fashioned, a tonka bean espresso martini and a citrus margarita.
 
 **It closes early, and that is the thing to plan around** — 9.30pm on weekdays and Saturdays, 9pm on Sunday. This is a bar for the hour before dinner or instead of it, not for afterwards, which catches people out on a street where everything else runs to midnight.
@@ -303,6 +355,10 @@ Worth being clear that wine is the point here and cocktails are the sideline. Bo
 ### Seed Library, Shoreditch
 
 *£££ · Wed–Thu & Sun 6pm–1am, Fri–Sat 5pm–2am · closed Mon–Tue*
+
+![A Seed Library x Mr Lyan sign on a patterned brick wall, beside steps up to a coffee shop entrance](../../assets/articles/best-cocktail-bars-london/seed-library-sign.jpg)
+
+*The sign at One Hundred Shoreditch. The bar itself is in the basement.*
 
 Ryan Chetiyawardana again — the Lyaness man — in a stripped concrete basement doing **short, low-alcohol drinks** with none of the ceremony of his bigger rooms. No prices are published anywhere on the site.
 
@@ -344,13 +400,17 @@ Live jazz three sets a night, and the charges nobody mentions until you arrive: 
 
 *££££ · 7-9 Slingsby Place · £14–£16 · Tue–Sat*
 
+![A long curved bar with a lit upholstered front and a dark wood top, under globe pendant lights and a coffered ceiling, with glass shelves of bottles and ornaments behind](../../assets/articles/best-cocktail-bars-london/oriole-bar-counter.jpg)
+
+*Down a flight of stairs off the courtyard behind St Martin's Lane. Drinks run from £14 to £16.*
+
 Live music nightly and a menu genuinely organised by continent — the current Eighth Edition runs sections headed Europe & Africa and onwards, and you order by where a drink comes from. Sibling to Nightjar, with the same approach to theatre and the same charging model: **the musicians are paid directly through a live-music charge**, as at Nightjar.
 
 Drinks run **£14 to £16** — Syracuse £16, Bergerac £14, Kalahari Julep £15 — with 13.5% discretionary service on top. Booking is through SevenRooms, shared with Nightjar Shoreditch.
 
 **Closed Sunday and Monday.** Tuesday 3pm–11pm, Wednesday 3pm–midnight, Thursday noon–midnight, Friday and Saturday noon–1am.
 
-> ⚠️ **This guide previously placed Oriole in Smithfield, and that was wrong.** It is at **7-9 Slingsby Place, WC2E 9AB**, down a flight of stairs off the courtyard behind St Martin's Lane, and its own site calls it Covent Garden's best-kept secret. If you have been sent to Farringdon by another guide, you were sent to the wrong side of London.
+7-9 Slingsby Place, WC2E 9AB, down a flight of stairs off the courtyard behind St Martin's Lane.
 
 ---
 
@@ -362,7 +422,7 @@ Cocktail bars are where London prices get least transparent — most publish not
 
 #### Genuinely cheap drinks
 
-* **Little Mercies**, Crouch End — **30% off all drinks, 6–7pm, every day they open.** That takes the £11 Snickers Old Fashioned to about £7.70. The bar trades **Tuesday to Saturday**, so this is five nights, not the seven that gets repeated — including here until now. Still the best standing offer of any serious bar in London. Takeaway drinks excluded.
+* **Little Mercies**, Crouch End — **30% off all drinks, 6–7pm, every day they open.** That takes the £11 Snickers Old Fashioned to about £7.70. The bar trades **Tuesday to Saturday**, so this is five nights, not the seven that gets repeated. Still the best standing offer of any serious bar in London. Takeaway drinks excluded.
 * **Swift**, Soho, Shoreditch and Borough — **named cocktails at £7, Monday to Thursday before 6pm**, printed on the menu against drinks that are otherwise £12–£15.
 * **Three Sheets Soho** — no drinks offer, but **three free oysters with any martini or champagne, Sunday to Friday before 6pm**, which is a better deal than it sounds given oysters are £3.95 each there.
 * **Bar Termini**, Old Compton Street — the **house Negroni is £9.50**, all four builds, all day. Not a happy hour, just the price. A thirty-seat Italian aperitivo bar making drinks with the precision of rooms charging double.
@@ -378,6 +438,10 @@ The **Connaught Martini is £30**, mixed at your table from the trolley. **Night
 * **Discount Suit Company**, Spitalfields — **every cocktail on the list is £10**, flat, no exceptions and no offer required. A serious, ingredient-driven bar in a former tailor's on Wentworth Street, and the best straight answer to "where can I drink well cheaply in London".
 * **FAM Bar**, Marylebone — **£8.50 a cocktail, Tuesday to Saturday 4–7pm**, stated as a flat price rather than a two-for-one you have to do arithmetic on.
 * **Zapoi**, Peckham — **any four classics for £35** — £8.75 each — daily until 7pm, in a plant-filled Rye Lane room that pays the London Living Wage.
+
+![Two bartenders behind a wooden bar with drawer fronts and hooks along it, with bentwood stools, brick walls, exposed ceiling joists and leather armchairs at the back](../../assets/articles/best-cocktail-bars-london/discount-suit-company-bar-room.jpg)
+
+*Discount Suit Company, in a former tailor's on Wentworth Street, where every cocktail on the list is £10.*
 
 #### Two-for-one, properly checked
 
