@@ -49,7 +49,7 @@ Here is the part worth sitting with. Cross-referencing that register against all
 
 They are separate geographically too. Of the 156 certified restaurants, **78 are in an E postcode and 24 are in Ilford**, with clusters in Norbury, Thornton Heath, Stoke Newington and Wembley. **Two are in central London** — Oodles Wok in Holborn and Tikkas at Oxford Circus. The register is a map of where people actually live and eat, and the listicles are a map of Soho and Mayfair.
 
-Neither list is wrong, exactly. They answer different questions. But if your question is *has anyone independently checked this kitchen*, the published guides — this one included, until you get to this section — are close to useless, and a free public register answers it in seconds.
+Neither list is wrong, exactly. They answer different questions. But if your question is *has anyone independently checked this kitchen*, the published guides are close to useless, and a free public register answers it in seconds.
 
 Some of the better-known certified rooms, to show it is not all chicken shops: **Aziziye** on Stoke Newington Road (N16 8BU), the Turkish restaurant beneath the tiled mosque; **Dilara Uyghur Restaurant** in Finsbury Park (N4 2JF); **Samarkand** in Stoke Newington (N16 7XJ) for Central Asian cooking; **Anatolia** in Leyton (E10 5QN); and **Toro's Steakhouse** in Tooting (SW17 7BA).
 

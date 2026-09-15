@@ -214,7 +214,7 @@ The dim sum benchmark in London, and open later than most of the halls it is mea
 
 **Enormous New York slices**, folded, sold by the slice, which is the only specification that matters at that time of night.
 
-> ⚠️ **Correcting what this guide previously said: it is not open into the small hours most of the week.** Their own listing is **Monday to Wednesday 5pm–10pm, Thursday 5pm–11pm, Friday 5pm–2am, Saturday 1pm–2am and Sunday 1pm–10pm.** So the 2am pizza is a **Friday and Saturday** proposition, and on a Tuesday it shuts before a lot of restaurants do.
+> ⚠️ **It is not open into the small hours most of the week.** Their own listing is **Monday to Wednesday 5pm–10pm, Thursday 5pm–11pm, Friday 5pm–2am, Saturday 1pm–2am and Sunday 1pm–10pm.** So the 2am pizza is a **Friday and Saturday** proposition, and on a Tuesday it shuts before a lot of restaurants do.
 
 **Plan around those two nights** and it is one of the best-value late meals in east London. Turn up at midnight on a Wednesday and you are looking at a closed shutter.
 

@@ -438,6 +438,10 @@ The tea is a full one — finger sandwiches, pastries, cakes — with Birchall t
 
 > 💷 **A live discount, while it lasts.** B Bakery is running **25% off weekdays and 15% off weekends** — codes `ONEOFF25` and `ONEOFF15` at checkout. It applies to **September tours only** and must be booked by **30 September 2026**. That takes a weekday seat to about £34.
 
+B Bakery is Brigit's Bakery, which sells the same 90-minute Routemaster tour on GetYourGuide: <a href="https://www.getyourguide.com/activity/-t226702?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-tea-bus" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">book the Afternoon Tea Bus Tour on GetYourGuide</a>.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="226702" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### On the Thames: the Afternoon Tea Cruise
 
 *From £50 · 90 minutes · Tower Millennium Pier · board 15:15, cruise 15:30–17:00*
@@ -449,6 +453,10 @@ The boats have a **heated indoor saloon and an open upper deck**, so you can eat
 **The seating is the thing to understand.** Tables are **fixed to the floor and pre-allocated before boarding** — you cannot move or choose them on the day, and **window tables seat two people only**, so a group of four will not get one. If the window matters, book as a pair.
 
 Vegetarian, vegan or gluten-free are all available, **but not vegan and gluten-free together**. Cancellation is free up to two hours before boarding, which is more forgiving than any hotel on this page.
+
+City Cruises' sailing isn't sold on GetYourGuide. The afternoon tea cruise there is a different boat, **Tea on the Thames**: 90 minutes with sandwiches, warm scones, lemon tart and as much tea or coffee as you like, and free cancellation up to 24 hours before. <a href="https://www.getyourguide.com/activity/-t1397467?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-tea-cruise" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book Tea on the Thames on GetYourGuide</a>.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="1397467" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ### Which one
 

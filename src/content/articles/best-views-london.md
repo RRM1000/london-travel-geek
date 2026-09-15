@@ -180,7 +180,7 @@ Be clear about what that buys you. It is no longer the highest public view in Lo
 
 **Check the date, not the day.** There is no fixed weekly timetable — hours move through the year, running 1pm–9pm on some days and 10am–10pm on Saturdays. Last entry is always an hour before closing.
 
-> ⚠️ **We cannot confirm the price.** The Shard publishes no adult figure anywhere on its site — the FAQ says prices vary by day and time and pushes you into a live booking widget. The only static figure published is kids from £10. The £25.95 that every guide quotes, this one included until now, is not something the venue states. Put your dates in before budgeting.
+> ⚠️ **We cannot confirm the price.** The Shard publishes no adult figure anywhere on its site — the FAQ says prices vary by day and time and pushes you into a live booking widget. The only static figure published is kids from £10. The £25.95 that every guide quotes is not something the venue states. Put your dates in before budgeting.
 
 > ⚠️ Ignore the marketing line about being "almost twice the height of any other viewing platform in the capital." It has not been true since 2023.
 
@@ -228,7 +228,7 @@ Glass floors set into the high-level walkways, and the Victorian engine rooms be
 
 **Two free alternatives on the same structure.** The bridge lift times are published on their own site at towerbridge.org.uk/bridge-lifts, updated daily, so you can watch it open for nothing. And the upstream pavement gives you the Tower, St Paul's, The Monument and HMS Belfast without a ticket.
 
-> ⚠️ **Two corrections to what is widely published, including here until now.** There is **one adult price, £18** — no seasonal summer rate exists on their site. And the glass floors are **43.5 metres** above the Thames, not 42. Concessions are £13.50, children 5–15 £9, under-5s and companions free, and residents of Southwark, Tower Hamlets or the City pay **£1** with proof.
+> ⚠️ **Two corrections to what is widely published.** There is **one adult price, £18** — no seasonal summer rate exists on their site. And the glass floors are **43.5 metres** above the Thames, not 42. Concessions are £13.50, children 5–15 £9, under-5s and companions free, and residents of Southwark, Tower Hamlets or the City pay **£1** with proof.
 
 ### The Chimney Lift, Battersea
 
@@ -278,7 +278,7 @@ The gallery sits **210 feet above Victoria Street** and looks straight down it t
 
 **Tickets are bought in person at the Cathedral Shop**, open **10.30am to 4.30pm, Wednesday to Sunday** — there is no online booking for the tower, so the shop's hours are the tower's hours.
 
-> 💡 **The price is now settled: £10 adult**, £5 concession, £22 family. Older listings showing £6, and this guide's own previous "around £9", were both wrong. Note the cathedral now calls it **The Campanile**, and there is no longer a standalone tower page on its site — the details sit under Tours.
+> 💡 **The price is now settled: £10 adult**, £5 concession, £22 family. Older listings showing £6 or around £9 were both wrong. Note the cathedral now calls it **The Campanile**, and there is no longer a standalone tower page on its site — the details sit under Tours.
 
 ---
 

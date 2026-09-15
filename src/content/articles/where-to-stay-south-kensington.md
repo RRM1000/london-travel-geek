@@ -98,7 +98,7 @@ Be honest about the walk. Cheval's own distances put the Natural History Museum 
 
 An Art Deco block designed in the 1930s by G. Kay Green, restored by the designers Tim Gosling and Phil Sturdy, with a 24-hour concierge and studios and apartments that have their own kitchens. It is the least expensive way to cook for yourself within walking distance of the museums, and that — not the styling — is the case for it.
 
-**It is not a pod hotel**, whatever the listicles say. Hotels.com files it as an entire apartment with a private kitchen, and this site had it filed wrongly until recently too.
+**It is not a pod hotel**, whatever the listicles say. Hotels.com files it as an entire apartment with a private kitchen.
 
 The building carries more history than the price suggests. Vera Atkins of the Special Operations Executive lived here, so did Diana Dors and Bruce Forsyth, Alan Merrill wrote "I Love Rock 'n' Roll" in it, and there is a statue of Nell Gwynn with a spaniel above the door. Two warnings: **there is no breakfast of any kind**, and guest reviews since it opened mention street noise. It is a ten-minute walk east of the station.
 

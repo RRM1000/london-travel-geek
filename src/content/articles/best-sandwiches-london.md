@@ -134,7 +134,7 @@ The shop the modern London sandwich movement starts from, and the one name that 
 
 The list has moved on since most write-ups: **This Is How We Spring Roll** at £15.50, **The Korean Gangster** at £16.50 and **Et Tu, Brute?** at £15.95 are all current.
 
-> ⚠️ **The hours everyone quotes are wrong, including ours until now.** It is **not** open to 11pm. Their own listing gives **Wednesday to Friday 5–9pm, Saturday noon–3pm and 5–9pm, Sunday noon–4pm, closed Monday and Tuesday.** So it is an evening shop four days a week, it does weekend lunch that nobody mentions, and turning up on a Monday gets you nothing.
+> ⚠️ **The hours everyone quotes are wrong.** It is **not** open to 11pm. Their own listing gives **Wednesday to Friday 5–9pm, Saturday noon–3pm and 5–9pm, Sunday noon–4pm, closed Monday and Tuesday.** So it is an evening shop four days a week, it does weekend lunch that nobody mentions, and turning up on a Monday gets you nothing.
 
 ### Paul Rothe & Son, Marylebone
 
@@ -150,7 +150,7 @@ A fourth-generation family delicatessen that has been on Marylebone Lane **since
 
 Japanese-style **sando** on white Tokyo milk bread — soft, crustless, and cut to show the filling. The **egg salad** is the signature and their own description is precise about why it works: an egg front and centre, watercress, dijon and Kewpie mayo. About **£8.80**.
 
-The crisps sandwich is still there but it has changed: it is now **Crispy Greens** — green beans, avocado, pickles, cucumber, jalapeños and salt-and-vinegar McCoy's. The tuna version this guide previously described is off the menu.
+The crisps sandwich is still there but it has changed: it is now **Crispy Greens** — green beans, avocado, pickles, cucumber, jalapeños and salt-and-vinegar McCoy's. The tuna version is off the menu.
 
 **It closes at 3pm, seven days a week**, and that is the fact that decides the visit. Their own site is inconsistent about when it opens — the banner says 8am and the footer says 11am — so if you are going early, go on the assumption of 11 and treat 8 as a bonus. Ladbroke Grove or Westbourne Park, five minutes either way.
 
@@ -196,7 +196,7 @@ Weekly limited-edition focaccia and a cult following across south London, run ou
 
 **120a is the pre-order collection point.** You order online, you collect between **12.30pm and 4pm, Wednesday to Friday**, and on Saturdays it serves fresh slices straight from the oven **from 1pm**.
 
-**116 is the walk-in bakery**, open **Wednesday to Friday 12.30–4pm and Saturday 11am–4pm.** This guide previously said there was no walk-in counter and that was wrong — there is one, two doors down.
+**116 is the walk-in bakery**, two doors down from 120a, open **Wednesday to Friday 12.30–4pm and Saturday 11am–4pm.**
 
 **Closed Monday and Tuesday** either way. Crystal Palace or Anerley station, both about ten minutes.
 
@@ -222,7 +222,7 @@ The default answer to the best toastie in London, and one of the few genuinely f
 
 Thirty seconds from Kappacasein and the porchetta counterweight to it. The menu is now three sandwiches rather than a choice between two ideas:
 
-* **"The best one"**, £13.50 — slow-roast free-range pork with honey truffle parm mayo, fennel and apple slaw, peperoncini sott'olio, salsa verde and 30-month aged parmesan. The salsa verde and the truffle parm are both in it; older write-ups, this one included, presented them as alternatives.
+* **"The best one"**, £13.50 — slow-roast free-range pork with honey truffle parm mayo, fennel and apple slaw, peperoncini sott'olio, salsa verde and 30-month aged parmesan. The salsa verde and the truffle parm are both in it; older write-ups presented them as alternatives.
 * **Honey Truffle Parm**, £12.50.
 * **"The veggie one"**, £11.50 — smoked pulled oyster mushroom, and the only vegetarian sandwich at this end of the market.
 
@@ -304,7 +304,7 @@ Jeremy Lee has been making it for years and it has outlasted every trend that ha
 
 The **fish sando** — panko-fried fish on shokupan with house tonkatsu sauce, Japanese mayo, fukujinzuke daikon and togarashi, **£16.50** — and the best fish sandwich outside central London. An Antipodean café that has taken one sandwich extremely seriously since 2012.
 
-**The fish rotates.** Their menu says fish of the day and tells you to ask, so the red snapper that every guide names, this one included until now, is one possibility rather than the recipe.
+**The fish rotates.** Their menu says fish of the day and tells you to ask, so the red snapper that every guide names is one possibility rather than the recipe.
 
 **No bookings at all**, first come first served, and the host tells you the wait when you arrive. **Card only — they do not take cash**, which is worth knowing on a page full of places where cash is still normal. Balham station is five minutes.
 
