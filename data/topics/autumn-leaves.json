@@ -1,0 +1,177 @@
+{
+  "topic": "autumn-leaves",
+  "article": "src/content/articles/best-places-autumn-leaves-london.md",
+  "headTerm": "Autumn Leaves",
+  "note": "Not a restaurant topic - places (parks, gardens, cemeteries, one historic estate, two woodlands) ranked the same way: how many independent sources name them for autumn colour. Built 15 Sep 2026. This guide targets autumn colour and trees specifically; the existing best-parks-gardens-london.md covers London's green spaces generally and is linked from here rather than repeated (per the skill's 'two pages must not chase the same search' rule). Companion piece things-to-do-in-london-in-october.md covers the month's events; this guide covers where to see the leaves and when.",
+  "awardBodies": [],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": true,
+      "note": "'Best London parks for autumn walks' (8 Oct 2025) numbers 1-10 with a real order: Battersea Park, Fulham Palace, Greenwich Park, Hampstead Heath, Victoria Park, Hyde Park, Kyoto Garden/Holland Park, Kew Gardens, St James's Park, Tower Hamlets Cemetery Park. A second piece, 'Autumnal gardens near London' (24 Sep 2020), covers day trips outside London (West Dean, Oxford Botanic Garden, Audley End, Marks Hall, Rousham) - none of these are the three the task named (Westonbirt/Wakehurst/Sheffield Park), so not used for the signpost section, and not counted as London citations."
+    },
+    {
+      "name": "Londonist",
+      "domain": "londonist.com",
+      "ranked": false,
+      "note": "'7 Places To See Gorgeous Autumn Leaves In London', by Laura Reynolds, updated 7 Sep 2026 - very fresh. Blocked to curl (permanent403 in data/sources.json) but loads fine in a browser. Names Richmond Park (Isabella Plantation), St James's Park, Regent's Park (Broad Walk), Greenwich Park (Blackheath Avenue), Chelsea Embankment, Kynance Mews, Kew Gardens, Nunhead Cemetery, Brompton Cemetery. Also names Horse Guards Parade/The Mall for Virginia Creeper on the Admiralty Citadel - not a tree, left out of the article as out of scope for 'leaves and trees'."
+    },
+    {
+      "name": "Evening Standard",
+      "domain": "standard.co.uk",
+      "ranked": false,
+      "note": "George Hudson, 'Where to see autumn colour in London now', 4 Nov 2023 - names St James's Park (Blue Bridge), Victoria Tower Gardens (Albert Embankment plane trees), Kew Gardens (larch, swamp cypress), and Big Wood in Hampstead Garden Suburb (wild service tree, Sorbus torminalis) - a genuine smaller find not on any other list checked. Dated (>36 months, flagged per data/sources.json recency rule) but the facts (tree species, locations) are not time-bound."
+    },
+    {
+      "name": "Conde Nast Traveller",
+      "domain": "cntraveller.com",
+      "ranked": false,
+      "note": "'The best places to see autumn leaves in the UK', by Sophie Knight and Alessia Armenise, 14 Sep 2026 - UK-WIDE (trap 12): only Hampstead Heath is inside London: the rest of its 17 (Castle Combe, New Forest, Lake District, Sheffield Park, Grasmere, Godalming etc.) are outside London and not counted. Its general timing line ('best time to explore is between mid-October and mid-November') is used as one of several independent voices on the When to go section. Also gives Sheffield Park's adult ticket price (£19) - used in the signpost section, not counted as a London citation."
+    }
+  ],
+  "specialistBlogs": [
+    {
+      "name": "Solosophie",
+      "domain": "solosophie.com",
+      "tier": "C",
+      "note": "Already registered in data/sources.json. Sophie Nadeau, named author, long-running solo-travel blog. 'In Search of Autumn: Where to find fall foliage in London', updated 1 Oct 2024. Names Kynance Mews, St Luke's Mews, Hyde Park, Holland Park/Kyoto Garden, St Dunstan in the East, Richmond Park, Ham House, Wimpole Street. St Dunstan in the East and St Luke's Mews are not counted here - St Dunstan is a Blitz ruin garden already the subject of its own established entry in best-parks-gardens-london.md and named for ivy/climbing plants rather than autumn tree colour specifically; St Luke's Mews is a single named private street with no corroboration elsewhere and is a film-location curiosity more than an autumn-colour destination."
+    },
+    {
+      "name": "Brogan Abroad",
+      "domain": "broganabroad.com",
+      "tier": "C",
+      "note": "Registered 15 Sep 2026. Named author (Teresa). 'Autumn In London - Where To See Autumn Colours In London'. Structured by neighbourhood (Hampstead, Kensington, Holland Park, Mayfair, Westminster, Southwark) and separately lists Green Park, St James's Park, Greenwich Park and Regent's Park as its top parks - the last four are counted; the neighbourhood headings are too vague to be venues in their own right (no address or specific spot named) and are not counted separately. Gives an independent timing estimate: colour 'starts showing around the second or third week of October' and peaks 'the last week of October and the first week of November' - slightly later than most other sources, used as one data point among several in When to go."
+    }
+  ],
+  "officialBodies": [
+    {
+      "name": "The Royal Parks",
+      "domain": "royalparks.org.uk",
+      "tier": "A",
+      "note": "SELF-INTEREST CAUTION, see openVenueQuestions - counted per this topic's brief, which explicitly asks for official bodies to be weighed as sources, but no entry in the article rests on this source alone. One domain, several pages, combined as ONE source per the distinct-domains rule: 'Best trees to see this autumn in London's Royal Parks' (1 Sep 2026 - names Brompton Cemetery/weeping silver lime, St James's Park/London plane at Blue Bridge, Greenwich Park/Japanese maple, Regent's Park/tulip trees, Bushy Park/ginkgo); the self-guided autumn walk pages for Hyde Park, Regent's Park & Primrose Hill, and Richmond Park (including a dedicated Isabella Plantation loop - Thomson's Lawn, Acer Glade, Brownie's Stream, Main Stream, Camellia Walk); 'Top things to do in the Royal Parks this autumn' (26 Aug 2026); and '12 things you should know about the deer rutting season' (names Richmond Park and Bushy Park, over 1,000 deer between them, rut end of September to early November, 50 metres minimum, real injury incidents in 2017 and 2018). The 1 Sep 2026 trees piece says this year's colour is coming earlier than usual because of the summer heatwaves - cross-checked against Woodland Trust's live Nature's Calendar, which recorded the first ash 'autumn tinting' of the year on 14 Sep 2026 (checked 15 Sep 2026), so this is corroborated, not a one-off claim."
+    },
+    {
+      "name": "Royal Botanic Gardens, Kew",
+      "domain": "kew.org",
+      "tier": "A",
+      "note": "SELF-INTEREST CAUTION - only ever names Kew and Wakehurst, both its own. Used for Kew Gardens (Treetop Walkway, the Arboretum's 11,000 trees, maples/sweet gums/ginkgoes; October named as peak month across the Gardens; November highlights are the ginkgo, swamp cypress by the Palm House Pond and American smoke-trees near Victoria Gate) and, for the signpost section, Wakehurst (Sussex). Also supplied verified ticket prices (peak 2 Sep-31 Oct: adult online £25/at gate £28; off-peak 1 Nov-31 Jan: £17/£20; £10 Tuesdays 8 Sep-29 Dec 2026) and opening hours, which change exactly on the clocks-go-back Sunday: 1-24 Oct 10am-6pm (last entry 5pm) → 25 Oct-11 Nov 10am-4pm (last entry 3pm)."
+    },
+    {
+      "name": "City of London Corporation",
+      "domain": "cityoflondon.gov.uk",
+      "tier": "A",
+      "note": "SELF-INTEREST CAUTION - Conservators of Hampstead Heath and Epping Forest. Its Hampstead Heath pages returned only navigation, no real prose (trap 8) - not cited for Hampstead Heath; the site's own existing hampstead-heath-primrose-hill-walk.md and best-parks-gardens-london.md cover its facts already. Its Epping Forest public-transport page (dated 18 Nov 2025) is genuine, substantial prose naming real stops: Connaught Water, Queen Elizabeth's Hunting Lodge and the Willow Trail from Chingford; Wanstead Park (the Temple, Chestnut Trail) from Wanstead; Highams Park's Humphrey Repton-designed lake; Knighton Woods and Lords Bushes from Buckhurst Hill/Roding Valley; Leyton Flats (Eagle Pond, Hollow Pond) from Snaresbrook - confirms Central line, Elizabeth line and London Overground access from multiple Greater London zones (3-6)."
+    },
+    {
+      "name": "National Trust",
+      "domain": "nationaltrust.org.uk",
+      "tier": "A",
+      "note": "SELF-INTEREST CAUTION for its own London properties. 'Gardens and parks in London' names Osterley Park and House (Shagbark Hickory gold and red), Ham House and Garden (golden lime avenues), Morden Hall Park (lime-tree avenues, 'burnished tones of copper') and Fenton House. For the signpost section, its Sheffield Park and Garden page (Sussex, 24 Aug 2026) is the primary source for that garden being planted specifically for autumn colour by Arthur Soames (25 Acer species/240 specimens; the country's largest single-site Nyssa sylvatica collection; Grade I listed)."
+    },
+    {
+      "name": "Woodland Trust",
+      "domain": "woodlandtrust.org.uk",
+      "tier": "A",
+      "note": "SELF-INTEREST CAUTION for Hainault Forest, which it owns. Its 'Top 10 woods for autumn colour' (10 Nov 2021) is UK-WIDE (trap 12) - only #1, Hainault Forest, is near London, so only that one is counted; the other nine (Devon, Wales, Northern Ireland, Scotland, Herefordshire, Tring) are not London and not counted. Its 'Why do leaves change colour and fall off in autumn?' explainer (2 Oct 2020) is used for the science in prose (not a venue citation): Kate Lewthwaite of Nature's Calendar - 'full tinting can be very variable: can be from the end of September right through to November, maybe even early December in some years.' Nature's Calendar's own live front page, checked 15 Sep 2026, recorded the first ash 'autumn tinting' of the year the day before (14 Sep 2026)."
+    },
+    {
+      "name": "Forestry England",
+      "domain": "forestryengland.uk",
+      "tier": "A",
+      "note": "Signpost only - manages Westonbirt Arboretum (Gloucestershire), famous for its Japanese maple collections and Acer Glade. Not a London venue, not counted as a citation."
+    },
+    {
+      "name": "Met Office",
+      "domain": "metoffice.gov.uk",
+      "tier": "A",
+      "note": "General UK science, not a venue citation - used in prose for the astronomical/meteorological autumn distinction and its own line on what produces the brightest colour: 'a relatively dry summer... followed by autumn conditions featuring sunny days and cool, but not freezing, nights.'"
+    }
+  ],
+  "video": [
+    {
+      "name": "PhD Bonbon",
+      "handle": "youtube.com/@phdbonbon2025",
+      "note": "'London Parks in Autumn 2025 | Kew Gardens, Richmond & Green Park Walk | 4K HDR' - names all three in the title and description."
+    },
+    {
+      "name": "Travels and Other Things",
+      "handle": "youtube.com/@namayuyan",
+      "note": "'REGENT'S PARK AUTUMN WALK.'"
+    },
+    {
+      "name": "Walk From Home",
+      "handle": "youtube.com/@WalkFromHome1",
+      "note": "'LONDON WALK | Golden Autumn in Regent's Park', 23K views - the best-performing video found."
+    }
+  ],
+  "community": {
+    "reddit": "BLOCKED in this environment, as SKILL.md documents for every other topic. Tested directly (www.reddit.com/r/london/search - returns only an empty client-rendered shreddit app shell to curl, 8KB, no post content) and via search (Bing's format=rss endpoint ignores the site: operator and returns generic brand results regardless of query - confirmed with a control query against a known page). No thread recorded. If Rob can supply specific thread URLs, record them by hand with node scripts/record-source.mjs.",
+    "mumsnet": "NOT FOUND this pass. mumsnet.com/talk loads, but two guessed search-URL patterns both 404'd (not reconstructed into the corpus, per trap 5 - a guessed URL was never recorded). Bing's RSS search could not be made to return Mumsnet-specific results either (see reddit note - the same endpoint problem). Not confirmed absent, just not reachable with the tools available this session."
+  },
+  "facetAxis": {
+    "field": "type",
+    "note": "This topic is places, not food styles - the natural axis is what kind of green space it is, which also doubles as the practical planning question (opening hours and price behave very differently by type).",
+    "values": [
+      {
+        "key": "royal-park",
+        "label": "Royal Parks",
+        "describeAs": "free, open dawn to dusk, no ticket needed"
+      },
+      {
+        "key": "heath-common",
+        "label": "Heaths and commons",
+        "describeAs": "free, semi-wild, open longer hours than a formal park"
+      },
+      {
+        "key": "botanic-historic-garden",
+        "label": "Botanic and historic gardens",
+        "describeAs": "planted deliberately for seasonal display; several charge for entry"
+      },
+      {
+        "key": "cemetery",
+        "label": "Cemeteries",
+        "describeAs": "Victorian burial grounds turned nature reserves, free, quieter than the parks"
+      },
+      {
+        "key": "woodland-forest",
+        "label": "Woodland and forest",
+        "describeAs": "ancient or semi-ancient woodland at the edge of London, free"
+      }
+    ]
+  },
+  "knownGaps": [
+    "Tier E (Reddit, Mumsnet) is empty - both blocked/unreachable this session, see community above. Two independent text voices plus three video creators were collected instead, so the topic is not resting on official bodies and mastheads alone.",
+    "RHS's own autumn-colour advice page could not be located - Bing's format=rss search endpoint returned unrelated dictionary-definition results for every site:rhs.org.uk query tried, ignoring the site: operator entirely (confirmed with control queries against other known domains). Kew, the Royal Parks, the Woodland Trust and the Met Office cover the science and the official-body angle instead.",
+    "Osterley Park, Morden Hall Park and Hainault Forest are each supported by exactly one official body (their own operator) and no independent press or blog found this pass - kept in the article as honestly low-cited cross-references, not full entries, rather than dropped or inflated.",
+    "Secret London (secretldn.com, tier C) was searched for directly but no dedicated autumn-leaves piece was found or confirmed absent - its own on-site search could not be tested (browser access ended mid-session, see below)."
+  ],
+  "openVenueQuestions": [
+    "OFFICIAL-BODY TIERING. Royal Parks, Kew, City of London, National Trust and Woodland Trust are all counted at tier A and their own portfolio venues are included in those venues' citation counts, per this task's explicit instruction to weigh 'official bodies' as a source type alongside magazines, blogs, video and forums. This is a live tension with the restaurant-guide convention elsewhere on the site, where a venue's own website is tier F and never counted (a venue recommending itself is not evidence). The mitigation applied here: no entry in the article is supported by an official body ALONE where it can be avoided, and where one is (Bushy Park, Epping Forest, Osterley Park, Morden Hall Park, Hainault Forest), the entry is honest about its single citation rather than overclaimed. Ask Rob whether official bodies should instead be demoted to fact-check-only (tier F) on this and future 'places' topics.",
+    "GREATER LONDON BOUNDARY. Epping Forest stretches from Chingford (Greater London, London Borough of Waltham Forest, reachable by London Overground) into Essex; only the southern, Greater-London end (Chingford Plain, Connaught Water, Highams Park, Wanstead Park/Flats, Leyton Flats) is described. Hainault Forest Country Park sits across the boundary between the London Borough of Redbridge and Essex, but Hainault station (Central line, zone 4) sits inside it. Both are TfL-reachable per the task's default scope rule; both are flagged here in case Rob wants a stricter reading.",
+    "KYNANCE MEWS AND OTHER STREETS. Several independent sources (Londonist, Solosophie) treat a handful of photogenic streets (Kynance Mews, St Luke's Mews) as top autumn destinations, for ivy and Virginia Creeper rather than trees as such. Kynance Mews is kept as a light cross-reference since it is well-corroborated (2 sources) and the task's title says 'autumn leaves and trees' rather than 'trees' alone; St Luke's Mews and Horse Guards Parade/the Admiralty Citadel (Londonist, Virginia Creeper on a building) are left out as a stricter reading of 'trees'. Ask Rob if this line is in the right place.",
+    "BIG WOOD, HAMPSTEAD GARDEN SUBURB. Only the Evening Standard (2023) names it, and its detail (a wild service tree, Sorbus torminalis, a genuine ancient-woodland indicator) could not be cross-checked against a second source. Kept as a single-citation cross-reference, not a full entry, and the fact is printed with its source rather than presented as house knowledge.",
+    "GREEN PARK. Three sources name it (Royal Parks, Brogan Abroad, PhD Bonbon on YouTube) but none gave a specific tree, avenue or spot - every mention is the park's name alone. Kept as a brief cross-reference rather than a full entry, because the skill's rule against inferring detail applies as much to 'what's there' as to a dish or a style: nothing was invented to fill the gap.",
+    "BROWSER ACCESS ENDED MID-SESSION. The coordinator withdrew in-app browser access partway through this pass (Rob now has to approve every new site it visits) and directed curl-only research from that point on, via Bing's format=rss endpoint or DuckDuckGo's lite endpoint as a fallback. Both proved materially weaker than the browser for open-ended discovery: Bing's RSS endpoint ignores the site: operator and most of the query beyond the first couple of words (confirmed with several control queries against pages already known to exist), and DuckDuckGo lite returned a 202 challenge page with no results on every attempt. Sourcing already gathered (14 sources, ~25 venues) was collected before the cutover and is unaffected, but Secret London and RHS specifically, and any further tier D/E collection, were not attempted after this point because the tools available could not do it reliably."
+  ],
+  "secondPass": {
+    "date": "2026-09-16",
+    "instruction": "Coordinator directive: re-tier operators to F, collect 25+ independent sources via curl only (browser access withdrawn mid-first-pass), re-check the hot-summer claim against a dated 2026 London source.",
+    "operatorRetier": "RESOLVED the open question from the first pass. royalparks.org.uk, kew.org, cityoflondon.gov.uk, nationaltrust.org.uk and woodlandtrust.org.uk are now tier F in data/sources.json - weight 0, never counted, kept only as fact sources (hours, prices, named trees, rutting rules) and links. This dropped the corpus from 25 named places / 54 citations (with operators counted) to 30 named places / 60 citations across independent sources only, after adding the sources below - 2 of the original 25 (Morden Hall Park, Hainault Forest) had no independent citation at all once their operator stopped counting, and are cut from the article rather than kept with a false or zero citation.",
+    "newSourcesThisPass": [
+      "The Guardian (theguardian.com) - the 1 Sep 2026 stressed-trees report quoting Kew's Kevin Martin (the source for the revised hot-summer claim), used for Kew Gardens.",
+      "The Independent (independent.co.uk, already registered) - three separate pieces: a UK arboretums list (Kew, new detail: Riverside Walk red oaks), a deer-safety report (Richmond Park, Bushy Park), and an April 2026 piece on a 300-year-old crab apple tree in Epping Forest that inspired the Brambly Hedge books.",
+      "Metro (metro.co.uk) - one piece naming Hampstead Heath, Richmond Park, Green Park, St James's Park, Hyde Park, Kensington Gardens (a new venue) and Bushy Park.",
+      "BBC News (bbc.co.uk) - one piece quoting Richmond Park's and Bushy Park's own named park managers on the rut.",
+      "News Shopper (newsshopper.co.uk) - south east London local paper, real bylined reporting (verified against genuine substantive content, not page chrome, per trap 8). One piece adds Oxleas Wood, Blackheath, Lesnes Abbey Woods and Beckenham Place Park - all new venues - plus corroborates Greenwich Park.",
+      "The Tab (thetab.com) - one piece naming Richmond Park, a younger/different voice than the mainstream press already collected.",
+      "Time Out's own Osterley Park venue page, added to the existing Time Out source record (Osterley Park had no independent citation before this)."
+    ],
+    "searchToolingThisPass": "Browser access was withdrawn before this pass (Rob now approves every new site it visits) - curl only from here, as instructed. Bing's format=rss web-search endpoint (bing.com/search?format=rss&q=...) proved non-functional for discovery: it ignores the site: operator and effectively the whole query beyond the first recognised brand/dictionary word, confirmed with more than a dozen control queries against pages already known to exist (e.g. 'where to see autumn leaves in london' returned results for the TV show 'See'). DuckDuckGo lite and html both return an HTTP 202 bot-challenge page to curl on every attempt, GET or POST, with or without a User-Agent - zero results, ever. The one tool that DID work is Bing NEWS RSS (bing.com/news/search?q=...&format=RSS, undocumented in the task brief but found this pass) - real, relevant, dated results, decoded out of its apiclick.aspx redirect wrapper. It found all seven new sources above. Its limit: news-only, so it cannot surface independent blogs, forums or TikTok at all (confirmed: site:tiktok.com and site:mumsnet.com against it returned nothing, and the same two queries against the broken generic Bing RSS returned the same generic non-results as everything else). No Reddit or Mumsnet thread was found by any method tried; none are listed in the final report because none exist to list, not because they were withheld.",
+    "independentSourceCount": "15 independent (non-operator) sources after re-tiering, not the 25 asked for. Roughly 40 queries run this pass; the last third returned nothing new or only content outside London's scope (UK-wide arboretum/forest lists, pumpkin-patch pieces, deer-attack stories with no autumn-colour framing). Reported honestly rather than padded with weak or borderline sources.",
+    "cutVenues": [
+      "Morden Hall Park - only ever named by the National Trust, its own operator; no independent source found this pass despite two targeted searches.",
+      "Hainault Forest - only ever named by the Woodland Trust, its own operator; no independent source found this pass."
+    ]
+  }
+}

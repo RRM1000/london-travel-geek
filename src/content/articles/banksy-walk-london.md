@@ -95,6 +95,8 @@ It went up overnight on **29 April 2026**, outside the Athenaeum club, and Banks
 
 **To stop 2:** north up Regent Street St James's and through Soho to Centre Point, about fifteen minutes.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="banksy-walk-london-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 2. Stargazing Children, Centre Point
 
 **Two children lying on their backs on the pavement, one pointing up at the sky**, stencilled at the foot of Centre Point in **December 2025**. The same image appeared on Queen's Mews in Bayswater the same week.
@@ -111,8 +113,6 @@ The Centre Point version is on **St Giles Square**, at the junction of New Oxfor
 
 **To stop 3: take the Tube.** Walking from here to the next Banksy is about 45 minutes across town with nothing to see on the way. Instead, walk to **Tottenham Court Road** and take the **Central line eastbound to Bank**, four stops. TfL's journey planner puts the whole leg at **about 27 minutes door to door**: six minutes to the station, seven on the train, and fourteen from Bank down Cousin Lane to the river.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="banksy-walk-london-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The detour: the rat in the London Transport Museum
 
 **A Banksy you can see up close, indoors, on a rainy day.** A rat dangling from a clock face, painted in **October 2019** on the door of a Transport for London signal cabinet on Church Street in Croydon, outside Banksy's pop-up shop Gross Domestic Product.
@@ -126,6 +126,8 @@ TfL took the door away to protect it. Since **August 2025** it has been fixed to
 ![The London Transport Museum's glass-arched Victorian market building on Covent Garden Piazza, under a blue sky](../../assets/articles/banksy-walk-london/london-transport-museum.jpg)
 
 *The London Transport Museum, in the old flower market on Covent Garden Piazza.*
+
+<div data-stay-strip></div>
 
 ## 3. The Cannon Street rat
 
@@ -181,6 +183,8 @@ It has been given a plastic cover and has still been attacked several times. The
 
 **To stop 6:** north-east to the Old Street end of Great Eastern Street, about fifteen minutes.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="banksy-walk-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 6. The Foundry pair, art'otel Hoxton
 
 **Banksy's largest rat, and a television being thrown out of a window**, both painted in **2004** on the back wall of The Foundry, the bar that stood on this corner.
@@ -220,6 +224,8 @@ It has survived several attempts to remove it. In 2009 the council started paint
 It is free and visible from the pavement at any hour. Stoke Newington station, on the Weaver line back to Liverpool Street, is about 15 minutes' walk.
 
 ---
+
+<div data-stay-strip></div>
 
 ## Where to eat
 

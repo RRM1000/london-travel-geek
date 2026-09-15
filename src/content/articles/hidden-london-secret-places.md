@@ -77,6 +77,8 @@ Butterfield's 1859 church, one street back from Oxford Circus and completely inv
 
 A pedestrian lane about a hundred metres long running between Charlotte Street and Whitfield Street, built from 1766 by John Colvill, a carpenter who went bankrupt on the job in 1774. Air raids took the eastern end of both terraces, and the gap is now Crabtree Fields, a small public garden. What is left is a double row of narrow three-storey brick houses, painted doors, pot plants on every step, and old lamp standards down the centre line where the two sloping pavements meet. There are no cars because there is no way in for one. **It is free, always open and a public right of way — there is no sign, nothing to buy and nothing to look at except the street.** These are people's homes, so keep the noise down. Two minutes from Goodge Street.
 
+<div data-stay-strip></div>
+
 ### Camley Street Natural Park, King's Cross
 
 Two acres of woodland, marsh and pond wedged between the Regent's Canal and the railway lines into St Pancras. It was a coal drop for King's Cross, demolished in the 1960s, colonised by scrub, and saved from development by London Wildlife Trust, who opened it as a nature reserve in 1985. You come in off a busy street a few minutes from Granary Square and the traffic noise drops within a few steps. There are boardwalks over the water, a visitor centre and the Kingfisher Café, and kingfishers, reed warblers, Cetti's warbler, common toads and emperor dragonflies have all been recorded. Entry is free and it opens daily, but on much shorter hours than a park: **10am to 5pm April to September, and only 10am to 4pm October to March.** Assistance dogs only.
@@ -161,6 +163,8 @@ A short Victorian shopping street between Charing Cross Road and St Martin's Lan
 
 A courtyard about twenty metres across, reached through narrow alleys off Monmouth Street and Short's Gardens. Until the 1970s it was a derelict, rat-infested yard of warehouses serving the fruit and vegetable market; in 1976 Nicholas Saunders bought one of the empty buildings and filled the yard with wholefood and natural-remedy businesses. Neal's Yard Dairy followed in 1979 and Neal's Yard Remedies in 1981. Every wall is a different colour, plants hang off every ledge, and there are now cafés, wine bars and restaurants around the edges. **It is free and always open, and it is the most photographed twenty metres in London — a dozen people with cameras fills it completely, so come before 10am.** The alleys in are genuinely easy to walk straight past; the courtyard is not a secret.
 
+<div data-stay-strip></div>
+
 ### Greenwich Foot Tunnel
 
 A white-tiled pedestrian tunnel under the Thames, opened in 1902 by the London County Council so that workers living in Greenwich could reach the docks and shipyards on the Isle of Dogs in any weather. You enter through a glazed brick rotunda by the *Cutty Sark*, go down a spiral staircase or a lift, and come up at Island Gardens with the whole Greenwich waterfront laid out behind you across the river. It is entirely free and **open 24 hours; since the refurbishment the lifts run around the clock too, and the council publishes a live lift status page**. **You must not cycle through — dismount and walk, and e-bikes are barred altogether**, which catches out hire-bike riders. Thousands use it daily, so it is not hidden; it is simply free while most visitors pay for the DLR.
@@ -175,7 +179,7 @@ The pedestrian subway running from King's Cross and St Pancras under the road to
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hidden-london-secret-places-london-underground-station-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London underground station tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hidden-london-secret-places-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What it costs
 

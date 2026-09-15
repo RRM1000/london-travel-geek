@@ -217,6 +217,8 @@ Lyca Mobile, on **EE**, sells its pay-as-you-go plans as a **Travel eSIM with a 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="travel-sim-esim-guide-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Going on to Europe with a UK SIM
 
 Since Brexit, UK networks are free to charge for roaming in the EU, and several do. If your trip includes France, Spain or anywhere else in Europe, this decides which SIM to buy.
@@ -234,8 +236,6 @@ Since Brexit, UK networks are free to charge for roaming in the EU, and several 
 **If you are travelling to several countries on an eSIM**, a regional plan is simpler than a UK plan: Airalo's EU and UK plan starts at £3.50, and Saily's Europe plans from £3.99.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="travel-sim-esim-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Your home plan might already cover the UK
 
@@ -307,6 +307,8 @@ If this matters to you, buy your SIM in a network's own shop and ask them to lif
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="travel-sim-esim-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Signal on the Tube
 
 **Mobile signal is arriving across the whole Underground.** Transport for London said on 11 June 2026 that around **60 per cent of underground Tube stations** now have 4G and 5G, with **the whole network due by the end of 2026**, and all four UK networks — EE, O2, Three and Vodafone — are part of it.
@@ -339,8 +341,6 @@ Keeping your home SIM active lets you receive calls and bank security texts on y
 2. Turn **Data Roaming on** on the **Travel data** line — most travel eSIMs connect by roaming onto a UK network, so they will not work without it.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="travel-sim-esim-guide-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How much data will you use?
 

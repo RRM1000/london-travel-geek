@@ -151,7 +151,7 @@ The oldest enclosed royal park in London, and the climb behind the Maritime Muse
 
 **The Royal Observatory at the summit is paid: £24 adult, £12 child**, 10am–5pm with last entry 4pm, extended to 6pm through September. That buys the **Prime Meridian line**, Wren's Octagon Room, and the Great Equatorial Telescope. **You can see the meridian courtyard from outside without paying**, which is worth knowing if the queue is long or the family is flagging.
 
-Also free, and often missed: the **deer in The Wilderness** — a herd has been here since the seventeenth century — and the **rose garden** behind Ranger's House, at its best in June.
+Also free, and often missed: the **deer in The Wilderness** — a herd has been here since the seventeenth century — and the **rose garden** behind Ranger's House, at its best in June. English Heritage's own site now calls Ranger's House the exterior of the Bridgerton family home; see our [Bridgerton in London](/articles/bridgerton-london/) guide for opening dates.
 
 ![Greenwich Park looking down over the Old Royal Naval College to the Thames, Canary Wharf and the O2](../../assets/articles/greenwich-area-guide/greenwich-park-view.jpg)
 
@@ -173,6 +173,8 @@ Also free, and often missed: the **deer in The Wilderness** — a herd has been 
 ![The cast-iron ribbed interior of the Greenwich Foot Tunnel running under the Thames](../../assets/articles/greenwich-area-guide/foot-tunnel-interior.jpg)
 
 *Inside the Foot Tunnel. Opened in 1902, free, and open at all hours.*
+
+<div data-stay-strip></div>
 
 ### Greenwich Peninsula and North Greenwich
 Two miles north, and a different world from the Maritime Greenwich end of the peninsula — modern, arena-scale, and built around The O2 rather than around history. Match-day and event-night transport are in our [O2 travel guide](/articles/the-o2-travel-guide/).
@@ -243,7 +245,7 @@ Our full route into this area from the north: **eleven numbered stops** over abo
 5. **Up the hill:** Through **Greenwich Park** to the **Royal Observatory** and the view.
 6. **Finish:** The **Trafalgar Tavern** on the river, or the **Foot Tunnel** for the view back.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-greenwich-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

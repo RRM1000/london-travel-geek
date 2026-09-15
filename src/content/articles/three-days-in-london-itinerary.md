@@ -143,6 +143,8 @@ Three world-class museums within *five minutes' walk of each other*, all **free*
 
 Use the **Exhibition Road entrances** rather than the main ones — the queues are consistently shorter.
 
+<div data-stay-strip></div>
+
 ### Option B — Bloomsbury
 
 * **British Museum** — free, and about eight million objects of which roughly 80,000 are on display. Completeness is not available. Pick three things and leave.
@@ -190,7 +192,7 @@ Add them on a longer trip: see [five days in London](/articles/five-days-in-lond
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay for this plan
 

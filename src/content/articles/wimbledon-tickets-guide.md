@@ -314,6 +314,8 @@ An AELTC staffer told a reporter in 2026 that to be confident of a Show Court ti
 
 > ⚠️ **Never travel without checking the Queue status first.** The AELTC publishes a live Queue status on wimbledon.com during The Championships, and when the Queue hits capacity it stops issuing cards entirely. In 2025 the club told people to stop travelling once it passed 10,000.
 
+<div data-stay-strip></div>
+
 ### The Tube problem
 
 **The Tube does not start early enough to get you near the front of the Queue.** The first trains of the day arrive well after the overnight campers are in place, so the earliest you can possibly reach Southfields by Underground is already too late for a Show Court ticket.
@@ -446,6 +448,8 @@ Plenty of people sleep without a tent, on a mat or under a picnic blanket. It is
 
 If you arrive without kit, **Decathlon at Southside Shopping Centre**, 55–57 Garratt Lane, SW18 4TF, is the nearest proper camping shop — about 3km north, and directly on the N87 night bus route.
 
+<div data-stay-strip></div>
+
 ### Leaving the Queue, in practice
 
 The 30-minute rule is real but not enforced with a stopwatch. What is enforced is presence: stewards walk the rows making a note of tents with nobody in them, and people have been ejected after missing several checks with no neighbour able to vouch for them. Queue cards are also checked at the entrance to Wimbledon Park from 10pm, so you need yours to get back in.
@@ -506,7 +510,7 @@ Blue Badge parking is free in **Car Park 6** on Church Road but must be booked i
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-hampton-court-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Route 4: Ticket Resale, once you are inside
 
@@ -608,7 +612,7 @@ Because debenture tickets carry the word "debenture" printed where the price wou
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-hampton-court-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-kew-gardens-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kew Gardens tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Coming from abroad
 
@@ -675,7 +679,7 @@ Pre-purchased tickets are digital through the Wimbledon app; a small number of p
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-kew-gardens-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kew Gardens tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

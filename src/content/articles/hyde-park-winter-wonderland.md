@@ -222,6 +222,8 @@ Ride tickets are valid all day on your booked date and can be redeemed whenever 
 3. **Ride tokens** from the on-site booths, **£1 each**, same-day only, non-refundable. Everyone riding needs a token, including a parent riding alongside a child. **How many tokens each ride costs is not published anywhere**, which makes budgeting on the day genuinely difficult.
 4. **Ride & Game Credit**, new for 2026 — pre-pay £20, £30 or £50 online and save up to 10%. It works on any ride and at any of the 70-plus games stalls, is shareable with family through the app, and **unused credit stays valid all season** rather than expiring on the day. £30 or £50 also unlocks free entry.
 
+<div data-stay-strip></div>
+
 ### Passes, if you are doing several
 
 All are online only, and all unlock free entry.
@@ -280,7 +282,7 @@ Every bar is free to walk into — **Bar Narnia** with a wardrobe you can step t
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-london-christmas-lights-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Christmas lights tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Food and drink
 
@@ -342,6 +344,8 @@ Gracy's VIP and the Bavarian Hall both seat a **minimum of ten**. Venues can be 
 **Quietest:** Monday to Wednesday during the day; and Thursday, Friday, Saturday and Sunday mornings before noon. Late November or early December rather than the final weeks of the year.
 
 **Busiest:** Thursday and Friday evenings, and the whole weekend, plus the entire school-holiday stretch from around 18 December. Expect queues to get in as well as queues for rides.
+
+<div data-stay-strip></div>
 
 ### Why the quiet slot is also the cheap one
 
@@ -406,7 +410,7 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What has changed for 2026
 

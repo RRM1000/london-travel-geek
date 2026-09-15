@@ -80,6 +80,8 @@ For the rest of the area, see the [Hampstead area guide](/articles/hampstead-are
 
 **The Flask** is still here at number 14: a Young's pub in a Grade II listed building, open **11am to 11pm Monday to Saturday and noon to 10.30pm on Sunday**, with food from noon.
 
+<div data-stay-strip></div>
+
 ## 2. Burgh House
 
 **A Grade I listed Queen Anne house with the Hampstead Museum inside**, a minute up from Flask Walk on New End Square. Entry is free.
@@ -169,6 +171,8 @@ It is at its best at golden hour. Regent's Park is across Prince Albert Road at 
 
 For more, see the [Hampstead area guide](/articles/hampstead-area-guide/#where-to-eat-and-drink) and the [Camden area guide](/articles/camden-area-guide/), which covers Primrose Hill village.
 
+<div data-stay-strip></div>
+
 ## The best day to go
 
 **Wednesday, Thursday, Friday or Sunday**, when everything is open.
@@ -188,7 +192,7 @@ For more, see the [Hampstead area guide](/articles/hampstead-area-guide/#where-t
 
 **On time of day:** start at 10am. You reach Burgh House as it opens, Kenwood late in the morning in time for lunch at its café, Keats House after it reopens at 2pm, and Primrose Hill in the late afternoon. In winter Kenwood shuts at 4pm and the Heath gets dark early, so aim to be past Parliament Hill before dusk.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

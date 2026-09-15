@@ -89,6 +89,8 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 
 **Bounce at Battersea Power Station is £6 a head**, the cheapest real activity in London, with bottomless brunch at £30 and group packages including food and drink from £20 a head for a minimum of six. **Puttshack at Bank is £9.50 off-peak and £14 at peak**, has no dress code whatsoever, and puts six people on a hole — so a twelve plays in two flights, one after the other, not together. Twelve is also its online ceiling; thirteen and up is an enquiry form. The [competitive socialising guide](/articles/competitive-socialising-london/) compares the whole category, including which rooms have closed.
 
+<div data-stay-strip></div>
+
 ### Afternoon tea, and where not to have it
 
 The grand hotels run £75 to well over £100 a head, and for twelve people that is a £1,200 morning. **The Wolseley is £46.50 and takes walk-ins more readily than any of them.** Better still, the museums do it properly and cheaply: **the British Museum is around £40 under the Foster roof, and Tate Modern around £30** with the river through the window. Under £30, the Memoir Club and the Chocolate Cocktail Club both start at £27.50. If the room is the point, **Sketch is £95** — the full comparison is in the [afternoon tea guide](/articles/best-afternoon-tea-london/).
@@ -109,7 +111,7 @@ The grand hotels run £75 to well over £100 a head, and for twelve people that 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The evening
 
@@ -141,7 +143,7 @@ Two rules to note: **no confetti**, and **no under-18s at all on Saturdays**. Se
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay for 10 to 20
 
@@ -183,7 +185,7 @@ What you give up is the choice of venue and the off-peak pricing that does most 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The rules that actually decide the day
 
@@ -197,6 +199,8 @@ What you give up is the choice of venue and the off-peak pricing that does most 
 * **Bodean's BBQ has closed.** Its own website is now a single closure notice. It is still on most hen-do listicles as the group dinner answer; it is not one.
 
 ---
+
+<div data-stay-strip></div>
 
 ## Continue planning your London trip
 

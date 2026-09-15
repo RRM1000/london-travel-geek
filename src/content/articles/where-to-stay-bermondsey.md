@@ -76,6 +76,8 @@ There is a gym and yoga studio, a coworking floor, a 24-hour desk, and the Locke
 
 *A room at Bermonds Locke, with the kitchenette visible beyond the bed, and its bathroom.*
 
+<div data-stay-strip></div>
+
 ### Bermondsey Square Hotel — £180, a shared terrace, and a market at six in the morning
 
 *About £180 · 90 rooms · Bermondsey Square, SE1 3UN · London Bridge 15 min walk · [check prices](hotel:bermondsey-square-hotel)*
@@ -157,6 +159,8 @@ Two more worth pricing on your own dates: **The Hoxton, Southwark** is about £1
 </div>
 
 *A room at The Hoxton, Southwark, with a dining table by the window, and its bathroom.*
+
+<div data-stay-strip></div>
 
 ### Spitalfields and Aldgate — across the river, and better connected
 

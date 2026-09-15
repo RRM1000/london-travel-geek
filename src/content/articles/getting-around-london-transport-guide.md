@@ -133,6 +133,8 @@ If you want live or audio commentary while travelling directly between major tou
 
 ---
 
+<div data-stay-strip></div>
+
 ## River Bus & London Cable Car
 
 ### River Bus (Uber Boat by Thames Clippers)
@@ -176,7 +178,7 @@ London is served by six commercial airports. Choose your airport transfer based 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="getting-around-london-transport-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="getting-around-london-transport-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Comprehensive London Transport Library
 

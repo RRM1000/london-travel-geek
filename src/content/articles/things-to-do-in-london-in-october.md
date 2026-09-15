@@ -95,7 +95,7 @@ The UK's largest public film festival closes on the same Sunday Frieze Week ends
 
 *BFI Southbank, the festival's centre of gravity: its box office is where returns and the standby queue are handled.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The rest of October's annual fixtures
 
@@ -143,6 +143,8 @@ The Jaguars play London twice, a week apart, at two different stadiums. Match-da
 
 Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
 
+<div data-stay-strip></div>
+
 ## The last eight days: dark, full of children, and Halloween on a Saturday
 
 ### The clocks go back — 2am, Sunday 25 October
@@ -189,7 +191,7 @@ The **Serpentine Pavilion 2026**, this year's commission by LANZA atelier — Is
 
 A free display in Room 33, on Floor 0, ending the day after half term begins.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Exhibitions opening this month
 
@@ -249,6 +251,8 @@ At the London Coliseum, English National Opera stages **Angel's Bone** from **16
 
 One naming note still worth carrying: the **Duke of York's Theatre is now the Tom Stoppard Theatre**, and you will see both names in circulation for a while yet.
 
+<div data-stay-strip></div>
+
 ## New this month
 
 ### Absurd City — Westfield London, from 15 October
@@ -279,7 +283,7 @@ The most perishable section on this page: where a restaurant has not named its o
 
 **Bamboo Mat** opens a second, bigger site in Canary Wharf this month, its Nikkei menu — Japanese and Peruvian — following an original branch in Stratford. **The Talli Queen** takes over the former Queen Adelaide pub on Uxbridge Road in Shepherd's Bush this October — the exact day has not been announced — under ex-Pahli Hill and Bandra Bhai chef Avi Shashidhara, built around what the kitchen calls "traditional drinking establishments of India." And **Dishoom Borough** opens inside the Hop Exchange near London Bridge this October — one of the chain's largest sites yet, with the exact day still to be announced.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Looking ahead to November and December
 
@@ -295,7 +299,7 @@ A few things worth knowing about now, even though none of them happen in October
 
 ## Practical: October in London
 
-**Weather.** Around 16°C by day at the start of the month, falling to 12–13°C by the end, with nights down to 8–10°C — wetter than September, and the first month where a jacket alone is not enough. Assume rain and assume dark rather than packing for an average day.
+**Weather.** Around 16°C by day at the start of the month, falling to 12–13°C by the end, with nights down to 8–10°C — wetter than September, and the first month where a jacket alone is not enough. Assume rain and assume dark rather than packing for an average day. It's also the month the parks turn — our guide to [where to see autumn leaves in London](/articles/best-places-autumn-leaves-london/) has the named trees and the peak weeks.
 
 **Daylight.** The defining fact of the month. Sunset moves from about 6.40pm on the 1st to about 5.50pm on the Saturday before the clocks change — then, overnight, to about 4.48pm the next day, because BST ends at 2am on the last Sunday of October. By the 31st it is about 4.37pm. Plan outdoor time for the first half of the day once you're in the back half of the month.
 

@@ -98,6 +98,8 @@ The **Piccadilly line** (dark blue line) is London's classic Underground route t
 
 ---
 
+<div data-stay-strip></div>
+
 ## 3. Heathrow Express (Non-Stop to Paddington)
 
 The **Heathrow Express** runs non-stop between Heathrow Central (Terminals 2 & 3) and London Paddington station every 15 minutes, with a 15-minute journey time.
@@ -140,7 +142,7 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-airport-transfer-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow airport transfer London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Arriving at Heathrow: SIM Cards & Wi-Fi
 

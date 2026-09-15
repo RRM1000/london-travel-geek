@@ -74,6 +74,8 @@ A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, whi
 
 *A compact room at the Z Hotel Covent Garden, and its ensuite bathroom with a frosted-glass shower screen.*
 
+<div data-stay-strip></div>
+
 ### hub by Premier Inn London Covent Garden — eleven square metres on St Martin's Lane
 
 *About £95 · 11 sq m standard rooms · 110 St Martin's Lane, WC2N 4BA · Leicester Square 3 min*
@@ -121,6 +123,8 @@ One booking trap: the building is sold twice on the booking sites, as Wilde Cove
 </div>
 
 *One of the Wilde Aparthotels Covent Garden studios: the bed faces a self-contained wood-clad unit holding the storage and ensuite bathroom shown on the right.*
+
+<div data-stay-strip></div>
 
 ### The Londoner — sixteen storeys, six of them underground
 

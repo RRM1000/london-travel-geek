@@ -181,6 +181,8 @@ It is a drinking and wandering destination rather than a sightseeing one, and mu
 
 **Check first:** East Bank venues have been opening in stages, and the London Stadium closes to tours on event days.
 
+<div data-stay-strip></div>
+
 ## Suggested half-day route
 
 1. **Start:** Stratford station. Follow signs through **Westfield** to the park.
@@ -190,7 +192,7 @@ It is a drinking and wandering destination rather than a sightseeing one, and mu
 5. **Hackney Wick:** Cross the canal to the warehouse studios and breweries.
 6. **Finish:** Hackney Wick Overground, or walk on to Victoria Park.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stratford-area-guide-london-stadium-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Stadium tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stratford-area-guide-tower-bridge-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower Bridge tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

@@ -8,7 +8,9 @@ import RelatedGuides from "../components/RelatedGuides.astro";
 import TableOfContents from "../components/TableOfContents.astro";
 import SidebarActivities from "../components/SidebarActivities.astro";
 import SidebarHotels from "../components/SidebarHotels.astro";
+import SidebarStay from "../components/SidebarStay.astro";
 import { hotelsComAreaLink } from "../lib/hotelsComAreas";
+import { STAY_STRIP_CATEGORIES } from "../../scripts/lib/affiliate.mjs";
 import AreaAtAGlance from "../components/AreaAtAGlance.astro";
 import AreaMap from "../components/AreaMap.astro";
 import AreaActivities from "../components/AreaActivities.astro";
@@ -377,11 +379,62 @@ const breadcrumbs = [
         ) : (
           <SidebarActivities articleId={articleId} areaName={area?.name} />
         )}
+        {/* The exception to one card: a light, two-line Hotels.com link, sized
+            for the column (see SidebarStay). Not where the hotels card already
+            holds the slot. */}
+        {!hotelsComAreaLink(articleId) && STAY_STRIP_CATEGORIES.has(category) && <SidebarStay />}
       </aside>
     </div>
     </div>
     <RelatedGuides articles={relatedArticles} />
   </article>
+
+  <script>
+    // The stay strips: put the reader's dates on the Hotels.com search. The
+    // link already works without them, so this only ever adds.
+    const isoDay = (d: Date) => d.toISOString().slice(0, 10);
+
+    for (const form of document.querySelectorAll<HTMLFormElement>("[data-stay-strip-form]")) {
+      const start = form.querySelector<HTMLInputElement>('input[name="startDate"]');
+      const end = form.querySelector<HTMLInputElement>('input[name="endDate"]');
+      const go = form.querySelector<HTMLAnchorElement>(".stay-strip__go");
+      const base = go?.getAttribute("href");
+      if (!start || !end || !go || !base) continue;
+
+      const today = isoDay(new Date());
+      start.min = today;
+      end.min = today;
+
+      // The whole box opens the calendar, not just its icon, which phones hide.
+      for (const input of [start, end]) {
+        input.addEventListener("click", () => {
+          try {
+            input.showPicker?.();
+          } catch {
+            // Already open, or the browser wants a different gesture.
+          }
+        });
+      }
+
+      start.addEventListener("change", () => {
+        if (!start.value) return;
+        const next = new Date(`${start.value}T12:00:00Z`);
+        next.setUTCDate(next.getUTCDate() + 1);
+        end.min = isoDay(next);
+        if (!end.value || end.value <= start.value) end.value = isoDay(next);
+      });
+
+      go.addEventListener("click", () => {
+        const dated = start.value && end.value && end.value > start.value;
+        go.setAttribute("href", dated ? `${base}&startDate=${start.value}&endDate=${end.value}` : base);
+      });
+
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();
+        go.click();
+      });
+    }
+  </script>
 
   <script>
     import { restaurantMaps } from "../data/restaurantMaps";
@@ -1117,6 +1170,187 @@ const breadcrumbs = [
     max-width: 100%;
     margin-block: 1.5rem;
     overflow: hidden;
+  }
+
+  /* The Hotels.com stay strip, from remark-stay-strips. On a phone it is two
+     rows: the name, then the dates and the button. Where the column is wide
+     enough it is one. Mobile-first on purpose: built CSS turns max-width
+     queries into range syntax that iOS before 16.4 ignores, and a phone that
+     ignores this min-width query still gets the layout meant for it. */
+  .article__body :global(.stay-strip) {
+    margin-block: 1.75rem;
+    padding: 0.6rem 0.65rem 0.65rem 0.85rem;
+    border: 1px solid var(--line);
+    border-radius: 0.9rem;
+    background: var(--surface);
+    box-shadow: 0 0.35rem 1rem rgb(15 39 54 / 0.05);
+  }
+
+  .article__body :global(.stay-strip__form) {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 0.45rem;
+    margin: 0;
+  }
+
+  .article__body :global(.stay-strip__lead) {
+    display: flex;
+    grid-column: 1 / -1;
+    align-items: center;
+    gap: 0.45rem;
+    min-width: 0;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .article__body :global(.stay-strip__lead::before) {
+    width: 1.25rem;
+    height: 1.25rem;
+    flex: 0 0 auto;
+    background: var(--ink);
+    content: "";
+    -webkit-mask: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4v16"/><path d="M2 8h18a2 2 0 0 1 2 2v10"/><path d="M2 17h20"/><path d="M6 8v9"/></svg>')
+      center / contain no-repeat;
+    mask: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4v16"/><path d="M2 8h18a2 2 0 0 1 2 2v10"/><path d="M2 17h20"/><path d="M6 8v9"/></svg>')
+      center / contain no-repeat;
+  }
+
+  .article__body :global(.stay-strip__lead strong) {
+    color: var(--ink);
+    font-family: var(--display);
+    font-size: 0.98rem;
+    font-weight: 800;
+    white-space: nowrap;
+  }
+
+  .article__body :global(.stay-strip__sub) {
+    display: none;
+    color: var(--muted);
+    font-size: 0.78rem;
+  }
+
+  .article__body :global(.stay-strip__ad) {
+    padding: 0.05rem 0.28rem;
+    border-radius: 0.2rem;
+    background: var(--surface-strong);
+    color: var(--muted);
+    font-size: 0.58rem;
+    font-variation-settings: "wght" 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  /* "In" and "Out" sit inside the box, so the dates cost one row, not two. */
+  .article__body :global(.stay-strip__date) {
+    position: relative;
+    display: block;
+    min-width: 0;
+    margin: 0;
+  }
+
+  .article__body :global(.stay-strip__date span) {
+    position: absolute;
+    top: 50%;
+    left: 0.5rem;
+    color: var(--muted);
+    font-size: 0.56rem;
+    font-variation-settings: "wght" 750;
+    letter-spacing: 0.08em;
+    pointer-events: none;
+    text-transform: uppercase;
+    translate: 0 -50%;
+  }
+
+  .article__body :global(.stay-strip__date input) {
+    width: 100%;
+    min-width: 0;
+    height: 2.2rem;
+    padding: 0 0.3rem 0 1.85rem;
+    border: 1px solid var(--line-strong);
+    border-radius: 0.5rem;
+    background: var(--bg);
+    color: var(--ink);
+    font: inherit;
+    font-size: 0.8rem;
+    font-variation-settings: "wght" 500;
+  }
+
+  /* On a phone the calendar icon cost the year its last digit, and tapping
+     anywhere in the box opens the picker anyway. */
+  .article__body :global(.stay-strip__date input::-webkit-calendar-picker-indicator) {
+    display: none;
+  }
+
+  .article__body :global(a.stay-strip__go) {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.2rem;
+    padding: 0 0.85rem;
+    border-radius: 0.55rem;
+    background: var(--ink);
+    color: var(--bg);
+    font-size: 0.82rem;
+    font-weight: 800;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background var(--transition);
+  }
+
+  .article__body :global(a.stay-strip__go:hover) {
+    background: var(--accent-deep);
+    color: var(--bg);
+  }
+
+  @media (min-width: 46rem) {
+    .article__body :global(.stay-strip__form) {
+      grid-template-columns: minmax(0, 1fr) 9.5rem 9.5rem auto;
+      gap: 0.55rem;
+    }
+
+    .article__body :global(.stay-strip__date input::-webkit-calendar-picker-indicator) {
+      display: block;
+      width: 0.85rem;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Bed, name and "ad" on the first line, the promise under them. */
+    .article__body :global(.stay-strip__lead) {
+      display: grid;
+      grid-column: auto;
+      grid-template-areas: "icon name ad" "icon sub sub";
+      grid-template-columns: 1.4rem auto 1fr;
+      column-gap: 0.45rem;
+      row-gap: 0.05rem;
+    }
+
+    .article__body :global(.stay-strip__lead::before) {
+      grid-area: icon;
+      width: 1.4rem;
+      height: 1.4rem;
+    }
+
+    .article__body :global(.stay-strip__lead strong) {
+      grid-area: name;
+    }
+
+    .article__body :global(.stay-strip__ad) {
+      grid-area: ad;
+      justify-self: start;
+    }
+
+    .article__body :global(.stay-strip__sub) {
+      display: block;
+      grid-area: sub;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .article__body :global(a.stay-strip__go) {
+      transition: none;
+    }
   }
 
   .article__body :global(.gyg-availability-widget iframe) {
@@ -2235,6 +2469,12 @@ const breadcrumbs = [
      crops cleanly, absorbs the difference. */
   .article__sidebar > :global(.toc--desktop) {
     flex: 0 0 auto;
+  }
+
+  /* The Hotels.com card under the tours card needs its height reserved too, so
+     on a short screen the contents list scrolls instead of the pair cropping. */
+  :global(.article__sidebar:has(> .sidebar-stay)) {
+    --sidebar-widget-reserve: 24.5rem;
   }
 
   @media (prefers-reduced-motion: reduce) {

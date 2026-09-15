@@ -100,7 +100,7 @@ It plays **a summer season only, May to September**, and you go in for performan
 
 *The entrance inside the Inner Circle.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="regents-park-marylebone-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="regents-park-marylebone-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 4. Queen Mary's Gardens
 
@@ -157,6 +157,8 @@ Regent's Park station (Bakerloo) is on the corner, which makes this the halfway 
 Walk down the high street: low-rise, largely independent, and nothing like Oxford Street at its far end.
 
 **Daunt Books** at 83–84 is the stop, an Edwardian bookshop whose main room is shelved **by country**, so the novels, history and travel writing for each place sit together. **Open Monday to Saturday 9am–7.30pm and Sunday 11am–6pm.**
+
+<div data-stay-strip></div>
 
 ## 9. Paddington Street Gardens and the farmers' market
 
@@ -218,7 +220,7 @@ For the full list, the [area guide covers it](/articles/marylebone-area-guide/#w
 
 **In winter, start by lunchtime at the latest.** The first half of this walk is inside the park, and the gates close at dusk.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="regents-park-marylebone-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="regents-park-marylebone-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

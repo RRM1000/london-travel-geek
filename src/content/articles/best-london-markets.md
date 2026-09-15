@@ -175,6 +175,8 @@ Antiques on Saturday — **the largest antiques market in the world by number of
 
 **Walk it north and get the Tube back.** Notting Hill Gate to Ladbroke Grove is the natural direction, and both are on the Circle, District and Hammersmith & City lines.
 
+<div data-stay-strip></div>
+
 ### Inverness Street Market, Camden
 
 *Most days*
@@ -241,6 +243,8 @@ Go early on a Sunday if you want the vintage, late if you want the food. **[Our 
 
 ![A pink-painted entrance lit by vertical neon tubes, signed Huge Vintage Clothing Market Downstairs, on Brick Lane](../../assets/articles/best-london-markets/brick-lane-vintage-market.jpg)
 
+<div data-stay-strip></div>
+
 ### Alfies Antique Market, Marylebone
 
 *Tue–Sat · Church Street*
@@ -283,7 +287,7 @@ Street food, groceries, fashion and cut flowers on the edge of Victoria Park, an
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-london-markets-portobello-market-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-london-markets-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Covered and historic
 
@@ -327,7 +331,7 @@ Worth knowing the difference before you plan a morning around one.
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-london-markets-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-london-markets-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What things cost, and the free part
 

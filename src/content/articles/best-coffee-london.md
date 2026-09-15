@@ -171,6 +171,8 @@ Started in a **nineteenth-century watchman's hut** on Bermondsey Street and grew
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-coffee-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Roasteries with kitchens
 
 ### Caravan, Clerkenwell
@@ -206,8 +208,6 @@ The beans are **roasted inside prisons** by people the company then trains and e
 **Lamb's Conduit Street is the reason to make the walk.** Half-pedestrianised and independent end to end, with Noble Rot and Honey & Co on the same short run. **Most of it closes on Sundays**, including here.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-coffee-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The roasters
 
@@ -312,6 +312,8 @@ A Peckham roastery that **employs and trains people who have experienced homeles
 ---
 
 **Walk-in, ten minutes from Peckham Rye.** Combine it with Rye Lane rather than treating it as a destination on its own.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-coffee-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Worth the detour
 

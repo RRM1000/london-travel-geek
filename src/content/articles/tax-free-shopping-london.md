@@ -60,6 +60,8 @@ GOV.UK's wording is unambiguous: **"The VAT Retail Export Scheme is no longer av
 
 ---
 
+<div data-stay-strip></div>
+
 ## What still works: shop and ship
 
 **If the retailer arranges the export, the sale is zero-rated and the VAT comes off at the till.** This is not a loophole; it is ordinary export law, set out in [VAT Notice 703](https://www.gov.uk/guidance/vat-on-goods-exported-from-the-uk-notice-703), and HM Treasury said so at the time: overseas visitors "will still be able to buy items VAT-free in store and have them sent direct to their overseas addresses".
@@ -140,6 +142,8 @@ Some things carry **no VAT for anyone**, resident or visitor: **printed books, n
 * **Airport refund desks.** Signage and leaflets from before 2021 still circulate. There is no VAT refund desk at a Great Britain airport.
 
 ---
+
+<div data-stay-strip></div>
 
 ## Three worked examples: a £1,500 handbag
 

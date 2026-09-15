@@ -81,6 +81,8 @@ London Stansted (STN) is London's primary hub for low-cost airlines like Ryanair
 
 ---
 
+<div data-stay-strip></div>
+
 ## Single Terminal Layout & Flight Times
 
 Stansted has **one single main terminal building**, making navigation straightforward.

@@ -97,6 +97,8 @@ London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km
 
 ---
 
+<div data-stay-strip></div>
+
 ## Gatwick Terminals & Station Access
 
 Gatwick has two passenger terminals: **North Terminal** and **South Terminal**.

@@ -107,6 +107,8 @@ The one most people ride. It threads Mayfair and Piccadilly into Whitehall and W
 
 **Best stops to actually get off at:** 19 for the Tower, 26 for Buckingham Palace, 15 for St Paul's, 12 or 22 for the London Eye and the South Bank.
 
+<div data-stay-strip></div>
+
 ### Blue Route — the western loop
 
 Museums, parks and the smart end of west London. This is the route people underrate, and it is the only one that reaches South Kensington or Notting Hill.
@@ -205,6 +207,8 @@ No commentary, no guaranteed seat, and no guaranteed top-deck front window — t
 
 ---
 
+<div data-stay-strip></div>
+
 ## Who should buy a tour bus ticket
 
 Genuinely worth it if:
@@ -239,7 +243,7 @@ Genuinely worth it if:
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tour-buses-compared-london-bus-tour-with-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="London bus tour with river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tour-buses-compared-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

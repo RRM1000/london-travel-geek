@@ -120,6 +120,8 @@ A run of railway arches under the Bermondsey viaduct, and the best street food i
 
 **Come on a Saturday morning if you want the market**, and be aware it is genuinely tight — the arches are narrow and by midday you are shuffling. Bermondsey station on the Jubilee line is about eight minutes; London Bridge ten.
 
+<div data-stay-strip></div>
+
 ### Shad Thames and Butler's Wharf
 
 East of Tower Bridge, and the most photographed street in Bermondsey. High brick warehouses on both sides with **iron gantries crossing overhead at every floor** — working bridges, not decoration: porters wheeled tea, coffee and spices across them between the warehouses, which is why they are at every level rather than just one.
@@ -212,7 +214,7 @@ The southern end of Bermondsey Street, and a modern square built on the site of 
 5. **Tower Bridge:** West along the river for the view back.
 6. **Finish:** Borough Market ten minutes west, or the Beer Mile arches to the south-east.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bermondsey-area-guide-bermondsey-beer-mile-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bermondsey Beer Mile tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bermondsey-area-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

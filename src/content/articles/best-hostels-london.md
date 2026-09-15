@@ -164,6 +164,8 @@ Hostels give away a larger share to the booking platforms than hotels do, and se
 
 **One more Clink detail worth the money:** a **bottom bunk can be pre-booked as a paid add-on** when you book online. If you have ever climbed into a top bunk at 1am, that is the best few pounds in this guide.
 
+<div data-stay-strip></div>
+
 ## The hostels, one by one
 
 ### [Wombat's City Hostel](hotel:wombats-city-hostel-london) — book this one
@@ -331,6 +333,8 @@ Small enough that it fills early, and the opposite end of the scale from the two
 </div>
 
 *A bunk room and one of the bathrooms at Barmy Badger Backpackers.*
+
+<div data-stay-strip></div>
 
 ### [Onefam Notting Hill](hotel:onefam-notting-hill) — the social one, with a caveat
 

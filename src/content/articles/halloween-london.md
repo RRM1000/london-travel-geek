@@ -126,6 +126,8 @@ That distinction is worth understanding, because it is unusual. Most West End pr
 
 It is also the least frightening thing in this section by a distance: a comedy musical with a ghost in it rather than a horror show, and fine for children who would not sit through the others.
 
+<div data-stay-strip></div>
+
 ### Silence, COLAB Theatre
 
 A **Halloween-specific immersive production** rather than a running show — you investigate a Southwark murder with Rev. Stanley Park, working through clues, a ritual and a puzzle while a vengeful spirit stalks the building. The premise is built around staying quiet: making a sound draws the spirit toward you.
@@ -184,7 +186,7 @@ Two more worth knowing about, though neither falls on Halloween night itself thi
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="halloween-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="halloween-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Genuinely creepy London, no theming required
 
@@ -209,6 +211,8 @@ London does not need a Halloween season to be macabre — these places are unset
 **Bethlem Museum of the Mind**, Monks Orchard Road, Beckenham BR3 3BX — the museum of the former Bethlem Royal Hospital, the original "Bedlam." **Free**, Wednesday to Saturday. It is out in Beckenham rather than central London, so it is a deliberate trip rather than something to fold into a day elsewhere.
 
 ---
+
+<div data-stay-strip></div>
 
 ## Club nights and parties
 
@@ -256,7 +260,7 @@ The walk-in option, and much less formal. Their own wording is the useful part: 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="halloween-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="halloween-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The week after
 

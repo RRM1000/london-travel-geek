@@ -151,6 +151,8 @@ The market here runs Friday and Saturday and is a genuine second-hand market rat
 
 **Ten minutes north of the busy stretch and worth every one of them.** Westbourne Park is the nearest station, and the walk up is the fastest way to leave the crowds behind.
 
+<div data-stay-strip></div>
+
 ### St Luke's Mews and Lancaster Road — the convenient colour
 Two short residential streets that appear constantly on social media — **St Luke's Mews** for its pastel-painted cottages, one of which was the cue-card doorstep in *Love Actually*, and **Lancaster Road** for its run of brightly coloured terraces.
 
@@ -220,7 +222,7 @@ Our full route for this area: **eleven numbered streets** from Notting Hill Gate
 5. **Westbourne Grove:** East for boutiques and coffee.
 6. **Finish:** The **Churchill Arms** on Kensington Church Street, or continue south to **Holland Park**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-area-guide-notting-hill-film-locations-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Notting Hill film locations tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-area-guide-kew-gardens-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kew Gardens tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

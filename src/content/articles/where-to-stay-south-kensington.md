@@ -82,6 +82,8 @@ Thirty-seven rooms one street west of Exhibition Road, where the corridors are t
 
 Rooms are small for the rate, and the ground floor is a bar and lounge rather than a restaurant you would plan an evening around. There is a 24-hour front desk. **Breakfast is extra.**
 
+<div data-stay-strip></div>
+
 ### Cheval Gloucester Park — the family answer, and it will sell you one night
 
 *£££ · 98 apartments · Ashburn Place, SW7 4LL · Gloucester Road 220m · Breakfast extra*
@@ -157,6 +159,8 @@ Neither is cheap because it is poor. They are cheap because Cromwell Road is lou
 Two hard limits. **It sells one room type only, a Cocoon 2 sleeping two**, so there is no single rate and no family option at all. And it repriced 2.9 times over between the cheapest and dearest of those dates, so the Knightsbridge bargain is a February-midweek proposition rather than a standing one.
 
 The reason to look here even at the top of that range: **the V&A names Knightsbridge as its nearest step-free Tube station**, a fourteen-minute walk, because South Kensington has no lifts. If anyone in your party uses a wheelchair, that settles it.
+
+<div data-stay-strip></div>
 
 ### Chelsea and Sloane Square — dearer, and the one that has an evening
 

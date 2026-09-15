@@ -119,6 +119,8 @@ The [Charlotte Street Hotel](hotel:charlotte-street-hotel) sits at the southern 
 
 **Book for the evening.** It fills from about 7pm and the outside tables in summer go first and are rarely bookable — those are first come, first served.
 
+<div data-stay-strip></div>
+
 ### Goodge Street
 Running east to west across the middle of Fitzrovia, and **the lunch street rather than the dinner one** — counters, cafés, sandwich places and takeaway, serving the offices around it.
 
@@ -192,6 +194,8 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 
 **Seventeen different cuisines sit within a ten-minute walk here** — West African, Thai, Japanese, Mexican, Greek, Spanish, Chinese, Italian, Indian, Turkish, French and more. No other central district comes close to that range in the same space.
 
+<div data-stay-strip></div>
+
 ## Walking routes
 
 **[A Walk from Fitzrovia to Mayfair →](/articles/fitzrovia-mayfair-walk/)**
@@ -209,7 +213,7 @@ Our full route starts at **Fitzroy Square** and runs south through All Saints, S
 7. **The Fitzroy Tavern:** Back down Charlotte Street for a drink where the name came from.
 8. **Finish:** Dinner anywhere in the table above.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide-bt-tower-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="BT Tower London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

@@ -117,6 +117,8 @@ The big one: nearly 9,000 reviews, and the only one of these three that runs in 
 
 The guides carry **handheld projectors** and cast period photographs, crime-scene images, maps and newspaper illustrations onto the walls of the streets where the murders happened. The operator bills it as an immersive experience rather than a standard walk. Meet at **Aldgate East, Exit 3**, not Aldgate, outside the Whitechapel Gallery. On Tripadvisor it has 4.6 from 3,091 reviews. It isn't suitable for children under 10 without a parent's consent.
 
+<div data-stay-strip></div>
+
 ## Ghost walks
 
 ### Ghastly Ghosts — Meet The Street Tours
@@ -164,7 +166,7 @@ It starts where you'd hope: inside **King's Cross**, at the stairs up to the Par
 
 *£20 · 2 hours · starts at Piccadilly Circus · 4.7 from 815 reviews · <a href="https://www.getyourguide.com/activity/-t25865?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-It starts outside the **Criterion** at 224 Piccadilly, the bar where, in *A Study in Scarlet*, Dr Watson first hears about Holmes. Then it goes on to the gentlemen's clubs and grand hotels of the stories, the real places that inspired Conan Doyle, and filming locations from the adaptations. Visit London includes a Sherlock Holmes walk in its 21 best.
+It starts outside the **Criterion** at 224 Piccadilly, the bar where, in *A Study in Scarlet*, Dr Watson first hears about Holmes. Then it goes on to the gentlemen's clubs and grand hotels of the stories, the real places that inspired Conan Doyle, and filming locations from the adaptations. Visit London includes a Sherlock Holmes walk in its 21 best. For the museum, the statue and the pub's replica study, see our [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide.
 
 ### James Bond and Spies — Where Now Tours
 
@@ -198,7 +200,7 @@ It starts outside the **Paddington Bear shop inside Paddington station**, with t
 
 *£49 · 2 hours · starts at the Dominion Theatre · 4.8 from 107 reviews · <a href="https://www.getyourguide.com/activity/-t1042501?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-**Abbey Road Studios**, **Trident Studios** in Soho where *Hey Jude* was recorded, **Savile Row** and the Apple building whose roof hosted the Beatles' last live performance, and the place Paul McCartney lived at the height of Beatlemania. Meet outside the Dominion Theatre.
+**Abbey Road Studios**, **Trident Studios** in Soho where *Hey Jude* was recorded, **Savile Row** and the Apple building whose roof hosted the Beatles' last live performance, and the place Paul McCartney lived at the height of Beatlemania. Meet outside the Dominion Theatre. For the free version of these sites, the blue plaques and a Liverpool day trip, see our [Beatles in London guide](/articles/beatles-london/).
 
 ### Amy Winehouse's Camden — Compleat Walks
 
@@ -287,7 +289,7 @@ Ninety minutes from **Barbican** station through the part of the City that still
 
 Choose from three trails, **Westminster, Brixton or the City of London**, each on the history and culture of London's Black communities. The Westminster route traces an African presence in London from Roman times to today. For Westminster you meet at the Eros statue, and the guide wears a green cap.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-walking-tours-london-london-jack-the-ripper-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Jack the Ripper tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-walking-tours-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Before you book
 

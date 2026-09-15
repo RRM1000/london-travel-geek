@@ -157,6 +157,8 @@ Queen Victoria's birthplace and childhood home, and the palace where **the rooms
 
 *Kensington Palace, with the statue of Victoria her daughter Louise sculpted. The gardens around it, and the Diana statue in the Sunken Garden, cost nothing.*
 
+<div data-stay-strip></div>
+
 ### Buckingham Palace State Rooms
 
 *£33 advance · summer only · closed Tue and Wed in September*
@@ -213,7 +215,7 @@ Also free to walk to: the remains of Greenwich Palace, where Henry VIII, Mary I 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Churches
 
@@ -285,6 +287,8 @@ Inside: the **Thomas Arne memorial carved with the opening bars of "Rule Britann
 
 ---
 
+<div data-stay-strip></div>
+
 ## Still in use
 
 ### Royal Hospital Chelsea
@@ -323,7 +327,7 @@ Every English monarch since 1066 has been crowned here, and more than three thou
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What they cost, and which are free
 

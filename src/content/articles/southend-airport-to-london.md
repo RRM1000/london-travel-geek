@@ -63,6 +63,8 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 
 ---
 
+<div data-stay-strip></div>
+
 ## Greater Anglia Station & Terminal Access
 
 Southend Airport features a **single passenger terminal**.

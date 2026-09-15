@@ -126,6 +126,8 @@ It is a drinking and daytime-wandering destination rather than a sightseeing one
 
 **Footbridges cross straight into the Olympic Park**, which makes this the best approach to it on foot. Hackney Wick station is on the Overground, and the area is at its best on a summer afternoon and fairly bleak in the rain.
 
+<div data-stay-strip></div>
+
 ### Clapton and the marshes
 North, and the least visited part of the borough. **Hackney Marshes** is famous for its Sunday morning football — historically the largest concentration of pitches anywhere in the world — and is otherwise wide, flat and empty in a way almost nothing else in inner London is.
 
@@ -181,7 +183,7 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 4. **Victoria Park:** Through the park to the boating lake.
 5. **Finish:** East along the Hertford Union to **Hackney Wick** and a canal-side brewery.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

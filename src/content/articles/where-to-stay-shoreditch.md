@@ -104,6 +104,8 @@ Rooms vary a lot for one hotel — whitewashed walls, tapestry hangings and pine
 
 **This is the former Ace Hotel building**, which matters because the booking sites still file it under the old name. Six bars and restaurants including a rooftop, all open to non-residents — good for the area, less good for quiet.
 
+<div data-stay-strip></div>
+
 ### Redchurch Townhouse — Soho House without the membership
 
 *About £220 · Thirty-seven rooms · Cecconi's downstairs*
@@ -265,6 +267,8 @@ The counterintuitive one, and the best value in this guide. **The City empties o
 **The way to use this is to price the same Saturday twice**, once in Shoreditch and once in the City, and take whichever wins. There is no loyalty to be had here: the gap swings by more than £80 depending on the week, and it is the only area in this guide where the weekend is the cheap end.
 
 The cost is atmosphere. **The City is genuinely dead on a Sunday** — many places do not open at all — so it works for a Friday and Saturday and badly for a week.
+
+<div data-stay-strip></div>
 
 ### Whitechapel — east and cheaper
 

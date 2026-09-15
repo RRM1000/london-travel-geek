@@ -89,6 +89,8 @@ Two things that changed from last year: the event has **moved off Halloween** �
 
 ---
 
+<div data-stay-strip></div>
+
 ## Battersea Park: the other large paid display
 
 **Battersea Park is the other large paid display in London**, and it sells out in much the same way. It is the bigger of the two on the only published figure — [Time Out](https://www.timeout.com/london/things-to-do/bonfire-night-fireworks-displays-in-london) puts it at 50,000 ticketed spectators a night, and neither Alexandra Palace nor Battersea publishes a capacity of its own.
@@ -164,7 +166,7 @@ Prices below were published by the organisers and checked in late August 2026. S
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bonfire-night-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bonfire-night-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Watching for free, without a ticket
 
@@ -199,6 +201,8 @@ This is where most guides fail, because they recommend viewpoints that are **loc
 **Rooftops mostly close too early.** Sky Garden shuts its terrace at 18:00 on weekdays, Horizon 22 at 18:00, and The Garden at 120 at 18:30. The exception is **Tate Modern's Level 10 viewing floor**, free and open until 21:00 on Friday and Saturday — which makes it a real option on 6 and 7 November, though not on the Thursday.
 
 ---
+
+<div data-stay-strip></div>
 
 ## The famous ones that no longer run
 

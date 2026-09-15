@@ -18,7 +18,7 @@ const UA =
 // Every distinct query in the plan: article slots and anchor pools alike.
 const queries = new Set();
 for (const a of Object.values(PLAN.articles))
-  for (const k of ["slot1", "slot2", "slot3", "slot4"]) if (a[k]) queries.add(a[k]);
+  for (const k of ["slot1", "adjacent", "slot3", "slot4"]) if (a[k]) queries.add(a[k]);
 for (const pool of Object.values(PLAN.anchors)) for (const q of pool) queries.add(q);
 
 const list = [...queries].sort();

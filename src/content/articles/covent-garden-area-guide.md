@@ -174,6 +174,8 @@ A single small courtyard reached down narrow alleys off Short's Gardens and Monm
 
 **Monmouth Coffee** on the same corner has been roasting since 1978 and has a permanent queue.
 
+<div data-stay-strip></div>
+
 ### Floral Street and Long Acre
 
 The two main east–west shopping streets, running parallel from the Piazza towards Leicester Square and Holborn. **Long Acre is the wider, chainier one**; Floral Street behind it is narrow, pedestrian in stretches and has the more interesting shops.
@@ -247,7 +249,7 @@ Our full route for this area: **eleven numbered stops** over about 2km and two h
 5. **Neal's Yard:** The alley off **Short's Gardens** — look for the small blue sign.
 6. **Finish:** **Seven Dials Market** for lunch, or continue west into Soho.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

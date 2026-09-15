@@ -141,6 +141,8 @@ At the top stands the **Churchill Arms**, buried under thousands of flowers in s
 
 **It is a steady uphill walk**, about ten minutes from High Street Kensington to Notting Hill Gate, and the shops keep their own hours rather than a high street's — expect a good number shut on a Monday.
 
+<div data-stay-strip></div>
+
 ### Holland Park Avenue and Campden Hill
 The stucco terraces and private garden squares between the two parks — among the most expensive residential streets in Britain, and almost entirely without shops, cafés or anything to do.
 
@@ -197,7 +199,7 @@ Walk it as a link between the two parks rather than as a destination.
 5. **Kensington Gardens:** North-east to **Kensington Palace** and the **Sunken Garden**.
 6. **Finish:** The **Albert Memorial** and the Serpentine galleries, or south into South Kensington.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-royal-albert-hall-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Royal Albert Hall tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-hampton-court-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

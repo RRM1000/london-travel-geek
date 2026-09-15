@@ -142,6 +142,8 @@ If you are booking several films in a day, check the venues before you check the
 
 ---
 
+<div data-stay-strip></div>
+
 ## What is already announced
 
 The full programme was published on 2 September. The headline announcements:
@@ -177,7 +179,7 @@ For scale: the 2026 edition presents 251 features, shorts, series and immersive 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-film-festival-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-film-festival-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting tickets on the day of sale
 
@@ -204,6 +206,8 @@ Four routes, in the order worth trying them.
 **Extra tickets go on sale at 10am on Thursday 1 October.** This is held-back stock across the programme, and it is the single best chance at something that vanished in September.
 
 Once the festival starts, **more tickets are released online at 10am each morning** for that day's screenings. This is particularly worth doing for Royal Festival Hall screenings, because it is a large venue and production holds are released late.
+
+<div data-stay-strip></div>
 
 ### 2. Twickets
 

@@ -92,6 +92,8 @@ Further out, mostly residential, and where London stops performing for visitors.
 
 ---
 
+<div data-stay-strip></div>
+
 ## 5 Golden Rules for Exploring London's Neighbourhoods
 
 1. **Explore on Foot:** Central London is remarkably walkable. Walking between Covent Garden, Soho, and Westminster is often faster and much more scenic than taking the Tube!

@@ -63,7 +63,7 @@ Still real, still current as of the branch menus checked for this guide in Septe
 
 **Prices are not the same everywhere.** That includes the six branches below — a City pint and a Muswell Hill pint are not the same number, and neither is published online. Check the app once you're inside, not before.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wetherspoons-pubs-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wetherspoons-pubs-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Six branches built into something else
 
@@ -118,7 +118,7 @@ The Crosse Keys, Hamilton Hall and this one get a fuller architectural write-up 
 
 *The colonnaded dock office at West India Quay, predating every tower now built up around it by close to two centuries.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wetherspoons-pubs-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wetherspoons-pubs-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Near the mainline stations
 
@@ -200,7 +200,7 @@ Built in 1911 as Pyke's Cambridge Circus Cinematograph Theatre — the 16th and 
 
 Looking for a proper sit-down Sunday lunch rather than a fry-up? Wetherspoons serves a roast, but it isn't the destination version — our [best Sunday roast guide](/articles/best-sunday-roast-london/) covers the pubs actually worth booking ahead for. And for more of London's cheapest good meals beyond this one chain, see our [cheap eats guide](/articles/cheap-eats-london/) and [best breakfast and brunch guide](/articles/best-breakfast-brunch-london/), both of which cover further branches of their own.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wetherspoons-pubs-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wetherspoons-pubs-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

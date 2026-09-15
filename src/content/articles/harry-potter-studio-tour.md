@@ -108,6 +108,8 @@ The tour runs in one direction through 21 sections, starting with the doors of t
 
 **Free with any ticket:** the shuttle bus from Watford Junction, car parking, the cloakroom, the Activity Passport for children, WiFi, water refill stations, manual wheelchairs and folding stools, sensory support bags, two sensory rooms and a multi-faith room. **All the seasonal content is included too** — Dark Arts and Hogwarts in the Snow cost nothing extra.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-studio-tour-bundles" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="679208,31392,297085"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The optional extras, and what each costs
 
 ![The Great Hall set with its long tables laid for a feast, house banners hanging above and costumes on either side](../../assets/articles/harry-potter-studio-tour/great-hall.jpg)
@@ -140,7 +142,7 @@ The photo package covers the green screen broomstick flight and the printed extr
 
 **The Hogwarts Table is not in the Great Hall.** The breakfast, dinner and afternoon tea all happen in a dining room in the entrance hub, not on the set. It is the single most common disappointment, and the operator is upfront about it.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-studio-tour-bundles" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="679208,31392,297085"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-stay-strip></div>
 
 ## Food, drink and Butterbeer
 
@@ -175,6 +177,8 @@ Elsewhere: the **Backlot Café** does burgers, hot dogs and salads halfway round
 **Dark Arts** puts over a hundred floating pumpkins above the Great Hall, Death Eaters through the sets, duelling in the Defence Against the Dark Arts classroom and Dementors in the Forbidden Forest. There are pyrotechnics, water-based smoke and flashing lights at Hagrid's hut, the Hogwarts Express and Diagon Alley, and from 18:00 on the Hogwarts bridge. Ask a team member if you want to bypass any of it.
 
 > ⚠️ **The tour is closed 9–13 November 2026**, between the two seasonal runs, while the sets are redressed, and on **25 and 26 December**. On **24 and 31 December the last tour starts at 14:30**. Check the calendar before you book trains or a hotel.
+
+<div data-stay-strip></div>
 
 ## When to go
 
@@ -212,7 +216,7 @@ Golden Tours is the Studio Tour's own coach partner, leaving from **Victoria, Ba
 
 Every car needs a booking confirmation to get in, and **you cannot go back to the car during your visit** — so take what you need with you.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What people get wrong
 

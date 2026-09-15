@@ -121,6 +121,8 @@ Between three and six consecutive shows run each night, so you can stay for one 
 
 > ⚠️ **Free does not mean easy to get into.** At weekends, arrive up to **ninety minutes early** to collect a stamp. This is the single most common way people miss out.
 
+<div data-stay-strip></div>
+
 ### Angel Comedy at The Bill Murray, Islington
 
 *Free seats · seven nights*
@@ -296,7 +298,7 @@ In a **brick vaulted cellar** near Waterloo, and the room is a large part of the
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where the names play
 
@@ -321,6 +323,8 @@ Everything above is a club — a bill of several acts, most of whom you will not
 
 ---
 
+<div data-stay-strip></div>
+
 ## Comedy festivals
 
 London's comedy festivals are almost entirely a **July and August** phenomenon. All four below run inside a six-week window, and outside it the city has no comedy festival at all — which is the single most useful thing to know about them, because it means the answer to "what's on" in February is always the clubs.
@@ -344,7 +348,7 @@ London's comedy festivals are almost entirely a **July and August** phenomenon. 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

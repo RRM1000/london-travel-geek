@@ -99,7 +99,7 @@ The square has **more than 1,000 choreographed fountains** set flush into the pa
 
 It takes its name from **Bagleys**, the 1990s King's Cross nightclub.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-camden-canal-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-camden-canal-walk-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 3. Camley Street Natural Park
 
@@ -130,6 +130,8 @@ Back on the towpath and a working lock, with the **St Pancras Cruising Club** im
 Behind it, the cast-iron **gasholder frames** — dismantled piece by piece from the far bank, restored, and re-erected here. Three of them now wrap around a circular apartment building. The fourth is **Gasholder Park**, and it is free: the frame of **Gasholder No. 8**, the largest of the King's Cross holders, which once held **1.1 million cubic feet of gas** and now encases a sculpted canopy and a circular lawn.
 
 It is a few steps up off the towpath and takes four minutes. Do it.
+
+<div data-stay-strip></div>
 
 ## 5. The quiet mile
 
@@ -175,7 +177,7 @@ Lock 2, with **Hawley Wharf** stacked above it on Chalk Farm Road — the newest
 
 So if you arrive at seven in the evening and the market is shuttered, this is where the day carries on.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-camden-canal-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-camden-canal-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 9. Camden Lock
 
@@ -215,6 +217,8 @@ It is **free to browse and open midday to 7pm, every day except Christmas Day**.
 
 Do it first, before you go down the steps and turn west. Ten minutes there and back.
 
+<div data-stay-strip></div>
+
 ## Where to eat
 
 The walk has a **hard gap in the middle**. Between Camley Street and Camden there is nothing at all — the best part of a mile of towpath with no café, no shop and no pub you can count on. Eat at one end or the other.
@@ -247,7 +251,7 @@ The walk has a **hard gap in the middle**. Between Camley Street and Camden ther
 
 **On the season:** the fountains at Granary Square run in daylight hours, the reserve's summer hours give you an extra one, and the middle mile is genuinely better in autumn, when the bank planting has gone over and you can see the water.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-camden-canal-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-camden-canal-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

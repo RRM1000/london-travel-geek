@@ -140,6 +140,8 @@ If your bank card is issued outside the UK, your bank may charge a foreign trans
 
 ---
 
+<div data-stay-strip></div>
+
 ## 5 Steps to top up an Oyster card
 
 If using an Oyster card, keep your balance topped up at any station ticket machine:
@@ -187,7 +189,7 @@ If using an Oyster card, keep your balance topped up at any station ticket machi
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oyster-card-guide-london-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oyster-card-guide-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Related London Transport Guides
 

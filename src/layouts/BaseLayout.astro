@@ -325,8 +325,8 @@ const jsonLd = JSON.stringify(
             var nameEl = row && row.querySelector(".sidebar-book__name, h3, strong");
             track("affiliate_click", {
               network: a.getAttribute("data-affiliate"),
-              placement: a.closest(".sidebar-book") ? "sidebar" : (sectionOf(a) || "inline"),
-              venue: ((nameEl || a).textContent || "").trim().slice(0, 80),
+              placement: a.closest(".sidebar-book, .sidebar-stay") ? "sidebar" : (sectionOf(a) || "inline"),
+              venue: (a.getAttribute("data-venue") || (nameEl || a).textContent || "").trim().slice(0, 80),
             });
           } else if (a.hasAttribute("data-toc-link")) {
             track("toc_click", { section: a.hash.slice(1) });

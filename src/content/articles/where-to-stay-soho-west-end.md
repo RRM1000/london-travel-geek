@@ -78,6 +78,8 @@ The largest capsule hotel in the UK, on five floors of the Grade II London Pavil
 
 *Numbered Cocoon berths at Zedwell Capsule Piccadilly Circus.*
 
+<div data-stay-strip></div>
+
 ### Otherwander Soho — a Dean Street address, and nobody at the desk
 
 *£62–£119 a single nest, £98–£165 a double · 563 pods over six floors · 91–92 Dean Street, W1D 3SY · Tottenham Court Road 3 min · [check prices](hotel:otherwander-soho)*
@@ -161,6 +163,8 @@ Firmdale's Soho flagship, and the only hotel here **built from the ground up** r
 Two Michelin Keys in 2025, the joint highest score in this guide. Downstairs there is Ham Yard Restaurant, Ham Yard Bar and The Orangery; upstairs a roof terrace; below, **The Croc, a genuine 1950s American bowling alley** installed in the basement. There is a gym and the Soholistic Spa.
 
 **The bowling alley and the roof terrace can be booked without a room**, which is the sensible way to see the place for a fraction of the £500 a night the rooms want. The trade for the courtyard is footfall: it is a public square rather than a private garden, and the restaurant, bar and Orangery all take non-residents, so the ground floor is busy with people who are not staying.
+
+<div data-stay-strip></div>
 
 ### The Soho Hotel — the quiet one, hidden down a mews
 

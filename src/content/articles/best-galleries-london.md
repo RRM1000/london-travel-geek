@@ -137,6 +137,8 @@ Nobody will approach you or ask what you are doing there. The price list is on t
 
 White Cube also runs a smaller space at **Mason's Yard, SW1Y 6BU** in St James's. Bermondsey is the one worth travelling for; London Bridge and Borough are both about ten minutes' walk.
 
+<div data-stay-strip></div>
+
 ### Serpentine Galleries, Kensington
 
 *Free · Mon 12–6pm, Tue–Fri 10am–6pm, Sat–Sun 10am–7pm*
@@ -186,6 +188,8 @@ Still free, still contemporary, still doing the thing it has done since 1901: sh
 **Free to walk in, and under-16s go free to the ticketed shows too.** Group rates are published rather than negotiated — £6.50 a head for university groups, £9.50 for independent ones, and school and community groups always free.
 
 **Closed Mondays**, which is the trap, and Aldgate East station is directly outside — the gallery is built over the top of it. There are Common Rooms with chairs, sofas and books, reachable by lift, if you want somewhere to sit that is not a cafe.
+
+<div data-stay-strip></div>
 
 ### The Photographers' Gallery, Soho
 
@@ -307,7 +311,7 @@ Bank and St Paul's are both about five minutes, and the Guildhall Yard entrance 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-galleries-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-galleries-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Unusual
 
@@ -377,7 +381,7 @@ Headset reconstructions you **walk through rather than watch** — the Colosseum
 
 > 📅 **Hours, admission and postcodes checked against each gallery's own website on 2 September 2026.** Where a gallery does not publish a figure we leave it out rather than repeat one we could not stand behind.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-galleries-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-galleries-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Free, and how far that goes
 

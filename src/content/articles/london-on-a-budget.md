@@ -170,6 +170,8 @@ Standing where something was filmed costs nothing. **Notting Hill's blue door, t
 
 The least-known free London, and the most interesting. These are not attractions — they are institutions doing their actual work, with seats at the back for anyone who turns up.
 
+<div data-stay-strip></div>
+
 ### The courts
 
 **The Old Bailey** is the famous one. Public galleries are open **Monday to Friday, 10am–12.40pm and 2pm–3.40pm**, and it costs nothing to watch a trial in the Central Criminal Court.
@@ -239,7 +241,7 @@ A lot of London's best free things do not exist most of the year. These are wort
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Free: the things nobody lists
 
@@ -284,6 +286,8 @@ This is the part most budget guides skip, because it takes reading the small pri
 
 ---
 
+<div data-stay-strip></div>
+
 ## Getting around
 
 * **Always use contactless or Oyster.** A paper single is roughly double.
@@ -306,7 +310,7 @@ Accommodation is the line that breaks most London budgets, and the one genuinely
 
 **The area matters more than the hotel.** [Best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for and covers the thing that quietly decides the budget — whether there is a train home at one in the morning, or a taxi. For a stay of more than a few nights, an [aparthotel](/articles/aparthotels-london/) with a kitchen usually beats a hotel room on total cost, and if you only need somewhere between a late flight and a check-in, [day rooms](/articles/day-rooms-london/) are cheaper than a wasted night.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where the money actually goes
 

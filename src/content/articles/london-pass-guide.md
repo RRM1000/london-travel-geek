@@ -102,6 +102,8 @@ Adult and child prices, straight from Go City's product data. A child pass cover
 
 **The 1-day pass is the worst purchase on this page.** £99 to be recouped between opening and closing. The Tower of London alone reasonably eats three hours; add Westminster Abbey and St Paul's and you are at £95 of gate price and out of daylight.
 
+<div data-stay-strip></div>
+
 ### The London Pass Explorer — pick your attractions
 
 | Choices | Adult | Per attraction | Child (5–15) | Per attraction |
@@ -147,7 +149,7 @@ Verified on each attraction's own website. Where a site sells cheaper in advance
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-pass-guide-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-pass-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where the pass seller's figures are inflated
 
@@ -263,7 +265,7 @@ The All-Inclusive pass carries 113 attractions against the Explorer's 76. The di
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-pass-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-pass-guide-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What is missing
 
@@ -311,6 +313,8 @@ For a family of four it is starker still:
 The family membership is **£471 cheaper than the pass** and lasts a year. HRP also lets you put the price of an adult ticket towards membership on the day of your visit or within two weeks — so you can decide at the Tower's ticket office rather than in advance.
 
 Individual £65, Joint £105, Family (one adult) £80, Family (two adults) £125, all by Direct Debit; add £10 for card payment. Prices held until 28 February 2027.
+
+<div data-stay-strip></div>
 
 ### National Art Pass
 

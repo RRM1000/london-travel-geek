@@ -184,6 +184,8 @@ Unsuccessful UK applicants may be offered a Good For Age place instead.
 
 ---
 
+<div data-stay-strip></div>
+
 ## Route 5: A running club place
 
 Genuinely overlooked, and the cheapest guaranteed route in if you already run with a club.
@@ -259,7 +261,7 @@ Two things people get wrong: you **pay the entry fee again** for the deferred ye
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-tower-bridge-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower Bridge tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Watching the London Marathon
 
@@ -341,6 +343,8 @@ Three more that work:
 - **Canary Wharf** — Miles 15 and 18, using the estate's loop rather than a train.
 - **Tower Hill** — halfway on The Highway, then Mile 23.
 
+<div data-stay-strip></div>
+
 ### Getting around on the day
 
 ![Volunteers behind trestle tables of energy gels at a Lucozade Sport gel station on the London Marathon course](../../assets/articles/london-marathon-guide/london-marathon-gel-station.jpg)
@@ -399,7 +403,7 @@ One thing spectators often assume wrongly: the **free post-race TfL travel is fo
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

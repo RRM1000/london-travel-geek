@@ -116,6 +116,8 @@ Two minutes west of the station and one of the finest greens in London â€” a wid
 
 **It is free, open at all hours and unfenced**, which makes it the best picnic ground in this guide. The pubs along the western side put tables out and fill on summer evenings.
 
+<div data-stay-strip></div>
+
 ### Richmond Hill and the Terrace Gardens
 
 The climb south from the town centre to the view, about fifteen minutes on foot and steeper than it looks on a map.
@@ -204,6 +206,8 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks â€
 
 **Note:** Richmond Park closes to vehicles overnight and gates shut at dusk. Check closing times before an evening walk.
 
+<div data-stay-strip></div>
+
 ## Suggested full-day route
 
 1. **Start:** Richmond station. West to **Richmond Green** and the palace gateway.
@@ -213,7 +217,7 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks â€
 5. **Isabella Plantation:** South-east into the woodland garden.
 6. **Finish:** Out at Petersham Gate and back along the river, or on to **Ham House**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

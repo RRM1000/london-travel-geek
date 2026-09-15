@@ -118,6 +118,8 @@ Haringey publishes the closure sequence in detail, and it's worth knowing if you
 
 ---
 
+<div data-stay-strip></div>
+
 ## Where to actually park
 
 There isn't a Wembley-style menu of official car parks here, because there isn't one to build a menu from.
@@ -247,7 +249,7 @@ Bags over the limit are simply not permitted in — there's nowhere on site to c
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="tottenham-hotspur-stadium-travel-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="tottenham-hotspur-stadium-travel-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Step-free access and the Sensory Suite
 

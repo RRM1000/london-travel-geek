@@ -126,7 +126,10 @@
     "roomhawk.com",
     "westlondontimes.co.uk",
     "bettercities.net",
-    "dyme.earth"
+    "dyme.earth",
+    "seatandsuite.com",
+    "eurovistatrips.com",
+    "blog.sothebysrealty.co.uk"
   ],
   "domains": {
     "thegoodfoodguide.co.uk": {
@@ -1920,9 +1923,148 @@
       "tier": "D",
       "name": "Silent Hotel & Travel Reviewer",
       "note": "No-talking walkthrough reviews of cheap London hotels, prices paid in every description, no hosted disclosures. Records only 'Good' verdicts or better. hotels-budget outer pass, 14 Sep 2026."
+    },
+    "royalparks.org.uk": {
+      "tier": "F",
+      "name": "The Royal Parks",
+      "note": "(Re-tiered to F, 16 Sep 2026, per the skill rule: a venue operator describing its own venue is weight 0 and never counted toward consensus.) Charity operating the 8 Royal Parks plus Brompton Cemetery and Victoria Tower Gardens. Publishes dated, specific seasonal guides (named trees, named spots, self-guided walk stops) - the best single source for facts inside its own parks. SELF-INTEREST CAUTION: every place it names is one it manages, so counted here per this topic's brief (autumn-leaves-london.json), but no entry rests on this source alone - see openVenueQuestions."
+    },
+    "kew.org": {
+      "tier": "F",
+      "name": "Royal Botanic Gardens, Kew",
+      "note": "(Re-tiered to F, 16 Sep 2026, per the skill rule: a venue operator describing its own venue is weight 0 and never counted toward consensus.) Only ever names Kew and Wakehurst, both its own sites. Used for Kew's tree collection, tickets and hours (fact-check grade), and cited per this topic's brief for the Kew entry, which is independently well-cited elsewhere too. 403s curl (checked 15 Sep 2026, User-Agent Chrome/120) but loads fine in a browser - verified directly this session.",
+      "blocked": true
+    },
+    "cityoflondon.gov.uk": {
+      "tier": "F",
+      "name": "City of London Corporation",
+      "note": "(Re-tiered to F, 16 Sep 2026, per the skill rule: a venue operator describing its own venue is weight 0 and never counted toward consensus.) Conservators of Hampstead Heath and Epping Forest. Self-interest caution as royalparks.org.uk above - used for hours, transport and named spots inside the two sites it manages."
+    },
+    "nationaltrust.org.uk": {
+      "tier": "F",
+      "name": "National Trust",
+      "note": "(Re-tiered to F, 16 Sep 2026, per the skill rule: a venue operator describing its own venue is weight 0 and never counted toward consensus.) Self-interest caution as royalparks.org.uk above for its own London properties (Osterley Park, Ham House, Morden Hall Park, Fenton House) and for Sheffield Park and Garden, East Sussex (outside London, signpost only)."
+    },
+    "woodlandtrust.org.uk": {
+      "tier": "F",
+      "name": "Woodland Trust",
+      "note": "(Re-tiered to F, 16 Sep 2026, per the skill rule: a venue operator describing its own venue is weight 0 and never counted toward consensus.) UK's largest woodland conservation charity. Runs Nature's Calendar, the UK's citizen-science phenology record - the primary source for when leaves actually tint each year. Owns Hainault Forest (self-interest caution as royalparks.org.uk above for that entry only); its UK-wide 'top woods' lists need scoping to London per trap 12."
+    },
+    "naturescalendar.woodlandtrust.org.uk": {
+      "tier": "F",
+      "name": "Woodland Trust - Nature's Calendar",
+      "note": "(Re-tiered to F, 16 Sep 2026, per the skill rule: a venue operator describing its own venue is weight 0 and never counted toward consensus.) Live citizen-science phenology database, same organisation as woodlandtrust.org.uk - one voice, not counted separately."
+    },
+    "forestryengland.uk": {
+      "tier": "A",
+      "name": "Forestry England",
+      "note": "Government agency managing English public forests, including Westonbirt Arboretum (Gloucestershire, outside London, signpost only) and Hainault Forest."
+    },
+    "metoffice.gov.uk": {
+      "tier": "A",
+      "name": "Met Office",
+      "note": "The UK's national weather service. General autumn-colour science (equinox dates, why colour intensity varies) rather than naming venues - used for fact-checking the science, not as a per-venue citation."
+    },
+    "weather.metoffice.gov.uk": {
+      "tier": "A",
+      "name": "Met Office",
+      "note": "Same organisation as metoffice.gov.uk - one voice, not counted separately."
+    },
+    "broganabroad.com": {
+      "tier": "C",
+      "name": "Brogan Abroad",
+      "note": "Named travel blogger (Teresa). Registered 15 Sep 2026 for the autumn-leaves-london topic."
+    },
+    "youtube.com/@phdbonbon2025": {
+      "tier": "D",
+      "name": "PhD Bonbon (YouTube)",
+      "note": "Verified handle, 15 Sep 2026. 'London Parks in Autumn 2025' names Kew Gardens, Richmond Park and Green Park."
+    },
+    "youtube.com/@namayuyan": {
+      "tier": "D",
+      "name": "Travels and Other Things (YouTube)",
+      "note": "Verified handle, 15 Sep 2026. 'Regent's Park Autumn Walk' names Regent's Park."
+    },
+    "youtube.com/@WalkFromHome1": {
+      "tier": "D",
+      "name": "Walk From Home (YouTube)",
+      "note": "Verified handle, 15 Sep 2026 - note capital W. 'Golden Autumn in Regent's Park' names Regent's Park; 23K views."
+    },
+    "familieslovetravel.com": {
+      "tier": "C",
+      "name": "Families Love Travel",
+      "note": "Family travel specialist blog. hotels-family, 15 Sep 2026."
+    },
+    "kidsareatrip.com": {
+      "tier": "C",
+      "name": "Kids Are A Trip",
+      "note": "Kirsten Maxwell (named editor, featured in Parents Magazine, AFAR, Vogue). Its London hotel list is crowdsourced from named family-travel bloggers (Globetotting, We3Travel, An Unstoppable Journey, Along for the Trip, Gone with the Family, She's on the Go, GlobalMouse Travels, Wild Tales Of) - one KidsAreATrip voice, not several. hotels-family, 15 Sep 2026."
+    },
+    "familyhotelexpert.co.uk": {
+      "tier": "C",
+      "name": "Family Hotel Expert",
+      "note": "Family-hotel specialist; marks each entry 'Family Hotel Expert stayed and loved' as a first-hand claim. hotels-family, 15 Sep 2026."
+    },
+    "jessicalynnwrites.com": {
+      "tier": "C",
+      "name": "Jessica Lynn Writes",
+      "note": "American family of 5 based in the UK. Also posts as 'Jesstagirl & Co. On the Go' on YouTube - same voice, not counted twice; her Residence Inn Kensington video links straight back to this blog. hotels-family, 15 Sep 2026."
+    },
+    "marcieinmommyland.com": {
+      "tier": "C",
+      "name": "Marcie in Mommyland",
+      "note": "Marcie Cheung, Seattle-area family travel blogger, first-hand ('mom-tested') stays with named pros/cons. hotels-family, 15 Sep 2026."
+    },
+    "familytraveller.com": {
+      "tier": "B",
+      "name": "Family Traveller",
+      "note": "Dedicated family-travel magazine, named editor (Harriet Mallinson). Its London hotel lists (UK and USA editions, same domain) are both stale - 9 Jun 2017 and 30 Apr 2021 - so record but flag the dates. The Family Traveller Awards 2026 (11 Sep 2026) were checked for a London hotel winner: none of the 19 categories names a London property, so there is nothing to add from the awards. hotels-family, 15 Sep 2026."
+    },
+    "travelmadmum.com": {
+      "tier": "C",
+      "name": "Travel Mad Mum",
+      "note": "Family blog; its London page serves names only inside an escaped JSON payload (client hydration) rather than plain HTML - read by unescaping and reading the raw h2/h4 tags rather than the rendered text. hotels-family, 15 Sep 2026."
+    },
+    "sleeps5.com": {
+      "tier": "C",
+      "name": "Sleeps5",
+      "note": "Directory of London rooms sleeping 5 or 6, curated by criteria rather than personal opinion - its own footer says 'Sleeps5 does not visit or assess each listed hotel'. Weighted low; used mainly to corroborate larger-family room claims made elsewhere. hotels-family, 15 Sep 2026."
+    },
+    "youtube.com/@GarciaFamilyVlog": {
+      "tier": "D",
+      "name": "Garcia Family Vlog (YouTube)",
+      "note": "Family vlogger, 'Conrad St James Hotel London Review | Room Tour', tagged #travelwithkids, Dec 2022. hotels-family, 15 Sep 2026."
+    },
+    "theguardian.com": {
+      "tier": "B",
+      "name": "The Guardian",
+      "note": "National masthead. Registered 16 Sep 2026 for autumn-leaves-london."
+    },
+    "metro.co.uk": {
+      "tier": "B",
+      "name": "Metro",
+      "note": "National free-press masthead. Registered 16 Sep 2026 for autumn-leaves-london."
+    },
+    "bbc.co.uk": {
+      "tier": "B",
+      "name": "BBC News",
+      "note": "National broadcaster editorial coverage - treated as a masthead (professional editors and named reporters), not a judged ranking body. Registered 16 Sep 2026."
+    },
+    "newsshopper.co.uk": {
+      "tier": "C",
+      "name": "News Shopper",
+      "note": "South east London / Kent local newspaper (Newsquest). Real, bylined local reporting - verified against genuine substantive content, not page chrome. Registered 16 Sep 2026."
+    },
+    "thetab.com": {
+      "tier": "C",
+      "name": "The Tab",
+      "note": "Independent youth/student-culture digital media, London-specific coverage. Registered 16 Sep 2026."
     }
   },
   "excludedWhy": {
+    "seatandsuite.com": "AI-CITATION-GAMED (hotels-family, 15 Sep 2026): its own methodology scores hotels on a 'LLM Citation Index (35%)' - how often ChatGPT, Claude, Perplexity and Google AI Overviews cite the property - built explicitly, in its own words, 'for humans and the machines they ask'. No named human author ('S+S Editorial'), pre-revenue, versioned pilot methodology. Not a judged award and not a personal opinion; excluded rather than counted as tier A or B.",
+    "eurovistatrips.com": "AI SEO FARM (hotels-family, 15 Sep 2026): 'Eurovistatrips Staff' byline, fake vote counts ('4.7/5 - (1027 votes)'), and an identical FAQ-title template repeated for a dozen other cities (Valencia alone has ten near-identical 'Best X Hotels in Valencia with Y' posts). Its London post is tagged Hotels/London/Paris at once.",
+    "blog.sothebysrealty.co.uk": "REAL-ESTATE CONTENT MARKETING (hotels-family, 15 Sep 2026): no named author, generic luxury-property copy with no family-specific detail despite the 'Best Family Hotels London' title, published by an estate agency to draw traffic rather than to review anything.",
     "ventsmagazine.co.uk": "GUEST-POST FARM (bubble tea, 14 Sep 2026): its London bubble tea list ranks 'Pearl Lemon Boba' first and calls Bubbledogs, a hot dog restaurant, a bubble tea shop.",
     "wunderlustlondon.co.uk": "CONTENT FARM (14 Sep 2026): the WordPress archive is HVAC installers, bed bug exterminators, private investigators, LASIK clinics and mortgage brokers beside its food lists.",
     "phlexpresents.com": "CONTENT FARM (14 Sep 2026): keyword-assembled travel posts promoting a trip-planner app ('Trip Management is Essential for Kew Gardens Visit').",

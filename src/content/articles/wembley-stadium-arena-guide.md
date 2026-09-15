@@ -156,7 +156,7 @@ On event days, businesses on the industrial estate east of the stadium, around F
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wembley-stadium-arena-guide-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wembley-stadium-arena-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Park a stop out
 
@@ -214,6 +214,8 @@ On **Friday and Saturday nights the Jubilee line runs all night through Wembley 
 | Ordinary Sunday | 23:50 | — |
 
 An event adds trains — fifteen Chiltern departures after 22:00 on a midweek concert night — but **not a later last train**. After a Saturday 17:00 kick-off the last train to Marylebone was **23:44**, earlier than on an ordinary Thursday. Weekend engineering can also cut Wembley Stadium station to a Marylebone-only shuttle: [Chiltern's Wembley events page](https://www.chilternrailways.co.uk/wembley-events-travel-information) has each event's timetable and queue colours.
+
+<div data-stay-strip></div>
 
 ### Car parks, taxis and coaches
 
@@ -281,7 +283,7 @@ Everything here is a few minutes from both venues.
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wembley-stadium-arena-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wembley-stadium-arena-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Eating and drinking, and the Boxpark trap
 
@@ -350,6 +352,8 @@ OVO Arena's kiosks do hot dogs, burgers, pizza and nachos, with bars for cocktai
 
 ---
 
+<div data-stay-strip></div>
+
 ## Drinking on event days
 
 **There is no blanket ban on shops selling alcohol on event days.** The Tesco Express, Sainsbury's Local and Co-op on the estate keep normal hours.
@@ -396,7 +400,7 @@ Bags over the stadium limit **will not be allowed in**, and folding a half-empty
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wembley-stadium-arena-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wembley-stadium-arena-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Step-free access, Blue Badge parking and the shuttle
 

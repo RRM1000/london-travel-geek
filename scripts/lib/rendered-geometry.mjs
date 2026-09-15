@@ -18,7 +18,7 @@ import fs from "node:fs";
 // Tokens in document order. The widget and h2 alternatives come before the
 // generic tag so they are recognised rather than skipped.
 const TOKEN =
-  /<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<div[^>]*data-gyg-widget="([a-z]+)"[^>]*>|<h2\b[^>]*>([\s\S]*?)<\/h2>|<[^>]+>|[^<]+/g;
+  /<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<div[^>]*data-gyg-widget="([a-z]+)"[^>]*>|<h2\b[^>]*>([\s\S]*?)<\/h2>|<h3\b[^>]*>([\s\S]*?)<\/h3>|<[^>]+>|[^<]+/g;
 
 // A heading reduced to letters and digits, so the markdown text and the
 // rendered text compare equal whatever smart quotes, dashes, entities, links
@@ -39,9 +39,10 @@ const countWords = (text) =>
 const READING_ENDS = new Set(["commonquestions", "relatedguides"]);
 
 /**
- * @returns {{ h2s: {key: string, at: number}[], widgets: {kind: string, at: number}[], total: number } | null}
+ * @returns {{ h2s: {key: string, at: number}[], h3s: {key: string, at: number}[], widgets: {kind: string, at: number}[], total: number } | null}
  *   `at` is the number of words read before that point; `total` is the length
  *   of the reading part of the page. Null when the page has not been built.
+ *   h3s are for the stay strips, which may sit between the entries of a list.
  */
 export function readGeometry(htmlFile) {
   if (!fs.existsSync(htmlFile)) return null;
@@ -53,9 +54,10 @@ export function readGeometry(htmlFile) {
   let words = 0;
   let readingEnd = null;
   const h2s = [];
+  const h3s = [];
   const widgets = [];
 
-  for (const [token, widgetKind, h2] of html.slice(start, end).matchAll(TOKEN)) {
+  for (const [token, widgetKind, h2, h3] of html.slice(start, end).matchAll(TOKEN)) {
     if (token.startsWith("<script") || token.startsWith("<style")) continue;
     if (widgetKind) {
       widgets.push({ kind: widgetKind, at: words });
@@ -68,11 +70,34 @@ export function readGeometry(htmlFile) {
       words += countWords(h2.replace(/<[^>]+>/g, " "));
       continue;
     }
+    if (h3 !== undefined) {
+      h3s.push({ key: headingKey(h3), at: words });
+      words += countWords(h3.replace(/<[^>]+>/g, " "));
+      continue;
+    }
     if (token.startsWith("<")) continue;
     words += countWords(token);
   }
 
-  return { h2s, widgets, total: readingEnd ?? words };
+  return { h2s, h3s, widgets, total: readingEnd ?? words };
+}
+
+/**
+ * Where a block placed on the line before each `### ` heading would render: just
+ * before that sub-heading, since a sub-heading stays inside its section. Null
+ * where the built page doesn't have it.
+ *
+ * @param {string[]} headingTexts  the `### ` headings in markdown order, without the hashes
+ */
+export function subheadingPositions(headingTexts, geometry) {
+  const taken = new Set();
+  return headingTexts.map((text) => {
+    const key = headingKey(text);
+    const j = geometry.h3s.findIndex((h, n) => !taken.has(n) && h.key === key);
+    if (j === -1) return null;
+    taken.add(j);
+    return geometry.h3s[j].at;
+  });
 }
 
 /**

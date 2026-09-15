@@ -93,7 +93,7 @@ Unlike Brent's scheme around Wembley, Newham's own page doesn't describe a singl
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to actually park
 
@@ -118,6 +118,8 @@ Road closures around the stadium go in from **three hours before kick-off**, and
 ### The Central and Jubilee lines run all night
 
 On **Friday and Saturday nights**, both lines run 24 hours through Stratford — the Jubilee line actually terminates there, so waiting out a Friday or Saturday crowd for half an hour and then walking onto a train is a genuine option, the way it is at Wembley Park.
+
+<div data-stay-strip></div>
 
 ### Last trains on an ordinary night
 
@@ -153,7 +155,7 @@ This site already covers the area's other main options in detail — **[Premier 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The walk through Queen Elizabeth Olympic Park
 
@@ -176,6 +178,8 @@ Stadium tours, run on non-event days, are the other reason to make the walk when
 **Westfield Stratford City**, between the station and the park, keeps its normal hours on event days — roughly 10am to 9pm Monday to Friday, 9am to 9pm on Saturday, and midday to 6pm on Sunday, with around 250 shops and restaurants between the station and the stadium. **Stratford town centre**, a few minutes east of the station and predating the Olympic redevelopment, is a quieter, cheaper alternative if Westfield feels too much like an airport terminal — see our [Stratford area guide](/articles/stratford-area-guide/) for both in more detail.
 
 ---
+
+<div data-stay-strip></div>
 
 ## Drinking on event days
 
@@ -209,7 +213,7 @@ London Stadium is, on the evidence of its own published access statement, thorou
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-stadium-travel-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Small print that catches people out
 

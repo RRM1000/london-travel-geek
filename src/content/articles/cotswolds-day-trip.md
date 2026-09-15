@@ -140,7 +140,7 @@ What actually separates them is the village line-up, how long you stand in each 
 
 **And if you only want Bourton, Stow and the Slaughters, do not book any of them.** Moreton-in-Marsh and the 801 cost **£54 plus £8.50** and give you the whole day on your own clock, including Sundays — less than any coach seat here, for the one corner of the Cotswolds that public transport genuinely reaches. The tours earn their money the moment **Bibury, Burford or Broadway** joins the list, because nothing links those to each other.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Driving, and where you can put the car
 
@@ -187,6 +187,8 @@ Castle Combe is the same story in Wiltshire: a pay-and-display car park up in Up
 ![Arlington Row at Bibury: a terrace of steep-gabled stone weavers' cottages along a narrow lane](../../assets/articles/cotswolds-day-trip/arlington-row-bibury.jpg)
 
 *Arlington Row at Bibury, built around 1380 as a monastic wool store. Photo: Mahmure Koseoglu, Pexels.*
+
+<div data-stay-strip></div>
 
 ## The paid attractions, and what they cost
 

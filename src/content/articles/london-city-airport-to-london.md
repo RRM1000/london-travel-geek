@@ -67,6 +67,8 @@ London City Airport (LCY) is the most centrally located airport in London, situa
 
 ---
 
+<div data-stay-strip></div>
+
 ## DLR Station & Terminal Accessibility
 
 London City Airport has **one single compact terminal**.

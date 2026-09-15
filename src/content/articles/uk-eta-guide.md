@@ -80,6 +80,8 @@ If you're flying to London from the United States, Canada, Australia, the EU or 
 
 **Most decisions arrive by email within a day.** GOV.UK's stated window is up to 3 working days, and the confirmation email carries a **16-digit ETA reference number** that's linked to the passport you applied with — you don't need to print or carry anything separate, just the passport itself when you travel. Crucially, **you must wait for that confirmation email before you travel**; turning up with an application submitted but not yet approved isn't the same as having an ETA. If you've heard nothing after 3 working days, check your spam folder first, then contact UKVI — there's no phone support for ETA queries, only [webchat](https://ukvi-eta-support-webchat.homeoffice.gov.uk).
 
+<div data-stay-strip></div>
+
 ## How long it lasts, and what ends it early
 
 **An ETA is valid for 2 years, or until your passport expires — whichever comes first.** Inside that window you can travel to the UK as many times as you like, with each individual visit capped at up to 6 months for tourism, visiting family or friends, a business trip, or short-term study. A narrower 3-month allowance applies under the Creative Worker visa concession, and it also covers a permitted paid engagement.
@@ -87,6 +89,8 @@ If you're flying to London from the United States, Canada, Australia, the EU or 
 **What it doesn't let you do matters just as much.** You cannot stay longer than 6 months on any single visit, cannot do paid or unpaid work for a UK company or as a self-employed person (outside a permitted paid engagement or the Creative Worker concession), cannot claim public funds, cannot effectively live in the UK through frequent or successive visits, and cannot marry, register a civil partnership, or give notice of either — that needs a Marriage Visitor visa instead.
 
 **A new or changed passport ends your ETA early.** It's electronically tied to the passport number you applied with, and GOV.UK's checker page is direct about it: "An ETA lasts for 2 years and is linked to your passport. If your passport has expired or changed, you'll need to apply for a new ETA." Renewed your passport since you last visited? Budget another £20 and another application before you fly — you can check your current ETA's status and expiry at [gov.uk/check-eta](https://www.gov.uk/check-eta).
+
+<div data-stay-strip></div>
 
 ## Transiting and changing planes
 

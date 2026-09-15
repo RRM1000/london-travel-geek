@@ -83,6 +83,8 @@ Cambridge is about 106km by road, off the M11 at Junction 13 for Madingley Road.
 
 **The five park and ride sites are Babraham Road, Madingley Road, Milton, Newmarket Road and Trumpington.** Bus tickets are bought from the driver with cash or contactless; a £10 small group ticket covers up to three people all day, £15 covers up to five. Stay past 18 hours and parking costs £10, paid through RingGo within the first hour of arrival.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-oxford-cambridge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="234277,331461,146070"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Day tours that include Cambridge, compared
 
 **A coach from London earns nothing here.** Cambridge is 49 minutes and £32.40 return, so the useful question is not how to get there — it is what to book for the hours once you arrive. GetYourGuide lists nine day trips from London that stop at Cambridge, against dozens for Windsor, and the products that matter are mostly sold in Cambridge itself.
@@ -140,6 +142,8 @@ We read the includes and excludes lists on twelve product pages on 12 September 
 - **Punting:** <a href="https://www.getyourguide.com/activity/-t472139?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£15 a head shared</a> on your own, <a href="https://www.getyourguide.com/activity/-t281312?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£25 a row</a> for two, and Scudamore's direct at £28.50 if you want to punt yourself.
 - **Both universities:** do them on separate days by train. If you will not, <a href="https://www.getyourguide.com/activity/-t85239?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £85 tour</a> is the least bad, and the £119 is £48.90 more than both return fares combined.
 
+<div data-stay-strip></div>
+
 ## The colleges
 
 ![The Bridge of Sighs at St John's College, its covered stone arch crossing the River Cam between college buildings](../../assets/articles/cambridge-day-trip/bridge-of-sighs.jpg)
@@ -171,7 +175,7 @@ This is the part worth getting right, because the colleges are not a set of equi
 
 **The free alternative at King's is a service.** Chapel services are free and open to visitors. You will not be let in once one has begun, so arrive early; allow up to an hour for Evensong and an hour and a quarter for Holy Communion. No bags bigger than airline hand luggage, and no photography.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-oxford-cambridge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="234277,331461,146070"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Punting, and the men on King's Parade
 
@@ -201,7 +205,7 @@ Scudamore's has been going since 1910 and runs the Mill Lane station at Granta P
 
 > 💡 **College Backs hires cannot go upriver.** If you want Grantchester and the meadows, book the Grantchester boats from the Granta station — a College Backs punt is not allowed up there.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-stay-strip></div>
 
 ## What costs nothing, and what costs almost nothing
 
@@ -242,7 +246,7 @@ Yes, on less than you would hope, and on nothing academic.
 
 ⚡ **[National Rail 2FOR1: how to actually get it](/articles/national-rail-2for1-london-attractions/)** — the rules, the eVouchers, and the attractions that are only a third off.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How long the day takes
 

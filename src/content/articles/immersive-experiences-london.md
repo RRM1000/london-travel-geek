@@ -166,6 +166,8 @@ You crew a full-scale starship bridge with an actual job — Comms, Weapons, Hel
 
 **16+**, with private Cadet Missions for ages 11 and up where the crew adjust the difficulty. Ticket includes a drink. **Unusually for this genre, the venue and the set are designed to be wheelchair-accessible throughout.**
 
+<div data-stay-strip></div>
+
 ### The Traitors: Live Experience, Covent Garden
 
 *From £29.50 · mostly 18+ · allow 3 hours*
@@ -367,6 +369,8 @@ You sit or stand as you like and nobody performs at you. **Slots run every half 
 
 **Wallace & Gromit: Larger Than Life opens here on 14 October 2026**, from £25, if the Bowie one has gone by the time you read this.
 
+<div data-stay-strip></div>
+
 ### Moulin Rouge! The Musical, Piccadilly Theatre
 
 *Can Can tables · Piccadilly Circus · book months ahead*
@@ -417,7 +421,7 @@ The programme rotates — recent pieces have included a butterfly trail, an ench
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## For children
 
@@ -482,7 +486,7 @@ This is the section other guides leave out, and it is the reason people turn up 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

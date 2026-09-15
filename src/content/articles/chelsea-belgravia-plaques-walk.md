@@ -82,6 +82,8 @@ Look up rather than ahead. The plaques are at first-floor level and the houses a
 
 > ⚠️ **These are private homes.** Every house on this walk except Carlyle's is lived in. Photograph from the pavement, do not stand on anyone's steps, and do not ring the bell to ask.
 
+<div data-stay-strip></div>
+
 ## 2. Carlyle's House, Cheyne Row
 
 **The one house on this walk you can go inside**, and the reason to make this a Wednesday.
@@ -168,6 +170,8 @@ Belgravia's plaque density is lower than Chelsea's but the names are heavier —
 
 ---
 
+<div data-stay-strip></div>
+
 ## The detour: Alexander Fleming
 
 **Alexander Fleming**, Danvers Street — *"discoverer of penicillin lived here"*. Two minutes west of the route between stops 1 and 2, and the only plaque on this walk marking something that changed the world rather than described it.
@@ -200,7 +204,7 @@ For the fuller picture, the [Chelsea](/articles/chelsea-area-guide/#where-to-eat
 
 **On time of day:** the plaques are at first-floor height on north- and south-facing terraces, so late morning and mid-afternoon light them best. Cheyne Walk faces south over the river and is at its best early.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-belgravia-plaques-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-belgravia-plaques-walk-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

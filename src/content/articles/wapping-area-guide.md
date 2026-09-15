@@ -114,6 +114,8 @@ The **Town of Ramsgate** sits about halfway along, beside **Wapping Old Stairs**
 
 **Come with what you need.** There is no supermarket worth the name and very little open on a Sunday. Wapping station is on the Overground, in Brunel's original Thames Tunnel, which is worth a look on the way down to the platform.
 
+<div data-stay-strip></div>
+
 ### Wapping Wall
 East, and the short stretch with the most on it. The **Prospect of Whitby** claims to be the oldest riverside pub in London — a flagstone floor, a pewter bar and a noose hanging over the water at the back, which is a reference to the executions that took place along this reach.
 
@@ -181,6 +183,8 @@ North. A **Grade I listed warehouse of 1812**, built to hold imported tobacco an
 
 **Note:** Wapping is genuinely quiet. Some pubs shut earlier here than elsewhere in London — check before a late evening.
 
+<div data-stay-strip></div>
+
 ## Walking routes
 
 **[A Riverside Pub Walk from Wapping to Canary Wharf: Four Historic Pubs in Eleven Stops →](/articles/wapping-canary-wharf-walk/)**
@@ -196,7 +200,7 @@ Our full route out of this area: **eleven numbered stops** over just over 6km an
 5. **Shadwell Basin:** North for the surviving dock and the red-brick terraces.
 6. **Finish:** Wapping Overground, or keep walking east towards Limehouse.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide-tower-bridge-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower Bridge tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

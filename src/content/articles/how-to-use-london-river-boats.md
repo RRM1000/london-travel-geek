@@ -156,6 +156,8 @@ If you want an adrenaline-filled sightseeing adventure rather than a gentle crui
 * **Central Sightseeing (12 Knots):** From departure (usually London Eye Pier, Westminster, or Boardwalk Pier), the boat travels at a controlled 12 knots past Big Ben, Parliament, and St Paul's while an actor/comedian guide provides live commentary.
 * **High-Speed Blast (35 Knots):** Once the speedboat passes **Tower Bridge**, the skipper hits full throttle! The boat blasts past Canary Wharf, Greenwich, and down towards the **Thames Barrier** with sharp turns, soundtrack music, and spray.
 
+<div data-stay-strip></div>
+
 ### Top Speedboat Experiences Compared
 
 | Speedboat Tour | Operator | Departure Pier | Typical Duration | Highlights | Starting Price |
@@ -211,7 +213,7 @@ Looking for evening entertainment on the water? The [River Bus Comedy Night](htt
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-london-river-boats-uber-boat-thames-clippers-ticket" data-gyg-partner-id="WWP7I0R" data-gyg-q="Uber Boat Thames Clippers ticket"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-london-river-boats-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Related London Transport Guides
 

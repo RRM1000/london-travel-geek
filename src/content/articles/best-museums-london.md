@@ -106,6 +106,8 @@ The permanent collection is free and arranged thematically rather than chronolog
 
 **The Blavatnik Building has a free upper-level view** across the river to St Paul's, and the walk over the Millennium Bridge to get there is half the pleasure. Check the current access arrangements on the day — the terrace has been subject to restrictions.
 
+<div data-stay-strip></div>
+
 ### Imperial War Museum, Lambeth
 
 *Free*
@@ -211,6 +213,8 @@ Sir John Soane's, the Grant and the Petrie are within fifteen minutes of each ot
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-museums-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Newly open
 
 The two biggest additions to London's museums in a generation both opened in the last eighteen months, and a third arrives this November.
@@ -281,6 +285,8 @@ The V&A's museum **built entirely around children**, reopened in 2023 after a re
 
 A **miniature train ride through the actual tunnels** of the Post Office's own underground railway, closed to mail in 2003.
 
+<div data-stay-strip></div>
+
 ### London Transport Museum, Covent Garden
 
 *Ticketed*
@@ -334,7 +340,7 @@ Beyond the walrus there is a serious anthropology collection, a musical instrume
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-museums-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-museums-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How to actually do the big ones
 

@@ -195,6 +195,8 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-bubble-tea-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What the widely-shared lists get wrong
 
 The lists that rank highest for this search mostly predate recent closures, and bubble tea shops open and close quickly. Checking every name against Google's business listings on 14 September 2026 turned up the following:
@@ -245,6 +247,8 @@ Most of the shops above are takeaway counters. These have seats:
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-bubble-tea-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Chains and their branches
 
 Nearly every name here is a chain, and the lists name the brand, not the branch. Here's where to go for each:
@@ -278,6 +282,8 @@ Nearly every name here is a chain, and the lists name the brand, not the branch.
 *Jen Tea's cream cheese pearl oolong milk tea, £6.60 on the board.*
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-bubble-tea-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Before you go
 

@@ -45,6 +45,8 @@ The good day trips from London are all about an hour away, and the money is in t
 
 **The pattern worth knowing:** the train is the small number. Windsor Castle costs four times the fare to get there, and the Studio Tour costs eight times it. The exceptions are Stonehenge and the Cotswolds, where getting there is the hard part and the tour is what you are really paying for. Book the attraction first and fit the train around it.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Day tours from London, by destination
 
 Some of these places are easy by train. Others — Stonehenge, the Cotswolds, Highclere — have no useful station, and a coach tour is the only sensible way to do them in a day. These are the cheapest credible prices we found, checked on 12 September 2026:
@@ -93,8 +95,6 @@ King's College is **£16.75**, St John's £17, Queens' £5, and Trinity does not
 
 → **[The full Cambridge guide](/articles/cambridge-day-trip/)**
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The Harry Potter Studio Tour
 
 The busiest day trip from London, and the one that most often goes wrong, because **nothing is sold on the door**. It is £58.50 an adult, £47 a child, the same price on every date, and it closes 9 to 13 November while the sets are redressed.
@@ -110,6 +110,8 @@ Euston to Watford Junction is 18 minutes, and **the shuttle bus from there is fr
 Most coach tours pair Bath with Stonehenge, but they give you two or three hours in the city, and none we checked includes Roman Baths entry as standard.
 
 → **[The full Bath guide](/articles/bath-day-trip/)**
+
+<div data-stay-strip></div>
 
 ## Stonehenge
 
@@ -138,7 +140,7 @@ These do not have a guide of their own yet, but they are worth the day:
 - **Theme parks:** Legoland, ten minutes from [Windsor](/articles/windsor-day-trip/) and a day of its own rather than an afternoon after the castle, plus Thorpe Park, Chessington, and Alton Towers if you are prepared to stay over.
 - **Abroad:** [Paris by Eurostar](/articles/paris-day-trip/), which is from 2h16 direct and a real day out if you start early — see the full guide for the fares, the border checks, and how many hours that actually leaves you in the city.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Making the day work
 

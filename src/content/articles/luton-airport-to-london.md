@@ -67,6 +67,8 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 
 ---
 
+<div data-stay-strip></div>
+
 ## How the Luton DART Works
 
 The **Luton DART** is a state-of-the-art automated cable-hauled shuttle.

@@ -187,6 +187,8 @@ The two houses are now a single museum, **Handel Hendrix House**, and it is the 
 
 ---
 
+<div data-stay-strip></div>
+
 ## Primrose Hill and Camden
 
 ### Friedrich Engels's Primrose Hill Home
@@ -301,6 +303,8 @@ Where Van Gogh lodged as a young art dealer in his twenties, **years before he h
 > ⚠️ **One to admire from a distance.** The best inscription in London is Luke Howard's at 7 Bruce Grove, Tottenham: **"Namer of Clouds"**, for the man who gave us cumulus, stratus and cirrus. English Heritage's own page states the plaque is **not currently on view to the public**, so do not build a walk around it.
 
 ---
+
+<div data-stay-strip></div>
 
 ## Beyond the walk: names famous the world over
 

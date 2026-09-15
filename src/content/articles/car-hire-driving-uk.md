@@ -149,6 +149,8 @@ Checked 12 September 2026. Hertz figures include tax.
 
 **One-way hires are allowed within the UK and priced per booking** — no company publishes the fee, so get it in writing before you commit. Hertz bans one-ways to the Isle of Wight, the Scottish islands, Jersey and Guernsey. Sixt bans international one-ways outright.
 
+<div data-stay-strip></div>
+
 ## Driving in London, and why you probably shouldn't
 
 ![A London street of red-brick terraces with cars parked along a red route and traffic heading towards the city](../../assets/articles/car-hire-driving-uk/london-street.jpg)
@@ -187,7 +189,7 @@ Rates from 2 March 2026 for a car emitting 91–150 g/km. A pre-2015 diesel pays
 
 Eight hours in a Mayfair bay is **£59.44**, before the £18 Congestion Charge and before you have moved. For getting around town, use the Tube and the bus — our [London transport costs and fares guide](/articles/london-public-transport-costs-and-fares/) has the numbers.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-cotswolds" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,593863"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## On the road
 
@@ -232,6 +234,8 @@ Checked 12 September 2026.
 
 > ⚠️ **Miss the Dart Charge and it is £70.** Reduced to £35 within 14 days, increased to £105 if you leave it — on top of the £3.50 you should have paid. There are no barriers at Dartford, so nothing stops you crossing and forgetting.
 
+<div data-stay-strip></div>
+
 ## Parking, and the fine you get for guessing
 
 ![The view through a windscreen of a small car waiting at a red traffic light on a wet road](../../assets/articles/car-hire-driving-uk/traffic-lights.jpg)
@@ -268,7 +272,7 @@ A **Penalty Charge Notice** is a civil parking or traffic fine issued by a counc
 
 **In a hire car the notice goes to the hire company**, because they are the registered keeper. They pass your details to the issuer and charge you the fine plus their admin fee — **£46.20 at Hertz, £40 at Sixt, per item**. The fee is charged whatever the fine, and the paperwork often reaches you after the 14-day discount has lapsed. A bay overstay you could have settled yourself for **£55** arrives instead as **£156.20**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Fuel and charging
 

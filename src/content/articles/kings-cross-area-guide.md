@@ -159,6 +159,8 @@ Behind Granary Square, and the way out of King's Cross that most visitors never 
 
 *St Pancras Lock, with the gasholder frames behind. Three of them now hold flats; the fourth is a park.*
 
+<div data-stay-strip></div>
+
 ### Camley Street Natural Park
 On the far bank of the canal, between the water and the railway. **Two acres of woodland, marsh and pond**, opened as a nature reserve in 1985 on the site of a former coal drop — and the fastest way to stop hearing King's Cross without leaving it.
 
@@ -236,7 +238,7 @@ Our full route out of the area: **ten numbered stops** over about 1.5 miles and 
 5. **The canal:** Down the steps to the towpath and west to **St Pancras Lock**.
 6. **Finish:** **Camley Street Natural Park**, or keep walking to Camden.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

@@ -6,6 +6,9 @@ import { activeSite } from "../../sites";
 import { splitAreaGuideBody } from "../../lib/splitAreaGuideBody";
 import { resolveMarkdownImages } from "../../lib/resolveMarkdownImages";
 import remarkAreaRestaurants from "../../lib/remark-area-restaurants.mjs";
+import remarkHotelLinks from "../../lib/remark-hotel-links.mjs";
+import remarkPartnerLinks from "../../lib/remark-partner-links.mjs";
+import remarkStayStrips from "../../lib/remark-stay-strips.mjs";
 import rehypeTableAlign from "../../lib/rehype-table-align.mjs";
 import rehypeTableResponsive from "../../lib/rehype-table-responsive.mjs";
 
@@ -42,8 +45,11 @@ if (entry.data.area) {
   // Same plugins astro.config.mjs gives every markdown file, so a fragment
   // rendered here behaves identically to one rendered through the normal
   // content pipeline - same heading IDs, same "see all N places" link logic.
+  // Keep the two lists in step: until 15 September 2026 this one had only
+  // remarkAreaRestaurants, so the Fitzrovia guide shipped a raw
+  // href="hotel:charlotte-street-hotel" and no area guide could show a stay strip.
   const processor = await createMarkdownProcessor({
-    remarkPlugins: [remarkAreaRestaurants],
+    remarkPlugins: [remarkAreaRestaurants, remarkHotelLinks, remarkPartnerLinks, remarkStayStrips],
     rehypePlugins: [rehypeTableAlign, rehypeTableResponsive],
   });
   // remarkAreaRestaurants identifies the guide from the file path's slug -

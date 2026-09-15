@@ -133,6 +133,8 @@ Once no more bets is called, the layout belongs to the dealer. **Do not touch or
 
 **Minimums are posted, not secret** — every table carries a sign stating its minimum. At the cheap end: **Horizons runs roulette from £2, blackjack from £10 and slots from 1p; Stratford has £1 live roulette; Grosvenor's electronic roulette starts at 10p.**
 
+<div data-stay-strip></div>
+
 ### The odds, which nobody publishes
 
 **Not one London casino states the house edge on its own tables.** The operators publish general explainers — Metropolitan's own guide sets out both roulette variants and even advises readers to pick the better one — but none of them says which wheel is on its floor. You have to look.
@@ -336,6 +338,8 @@ Away from the tourist centre, and better for it if you want to hear yourself thi
 The floor splits in two: a main room with the usual roulette, blackjack and slots, and **a quieter club room** for regulars. There is a **poker room**, which not every London Grosvenor has, and a restaurant arranged so you can eat while watching the main floor.
 
 On-site parking at the Portman Square end of Baker Street matters more here than in the West End.
+
+<div data-stay-strip></div>
 
 ### Grosvenor Casino Bayswater
 

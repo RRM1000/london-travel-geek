@@ -93,6 +93,8 @@ It is rarely busy, which is remarkable for a free museum this good.
 
 *West India Quay: the warehouse range, and one of the cranes left standing along the dock.*
 
+<div data-stay-strip></div>
+
 ## 3. Cabot Square and the docks
 
 ![Office towers and moored boats reflected in a Canary Wharf dock at sunset](../../assets/articles/canary-wharf-greenwich-walk/dock-sunset.jpg)
@@ -186,6 +188,8 @@ The **National Maritime Museum** is the largest maritime museum in the world. Th
 The **Queen's House** is the building you saw framed in the gap from Island Gardens: Inigo Jones's villa, with the Armada Portrait of Elizabeth I and the **Tulip Stairs**, the first self-supporting spiral stair in Britain. Walking up them costs nothing.
 
 Do these before the hill, not after. By the time you have climbed it you will not want to come back down.
+
+<div data-stay-strip></div>
 
 ## 11. Greenwich Park and the Royal Observatory
 

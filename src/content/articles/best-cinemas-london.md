@@ -170,6 +170,8 @@ Membership is **£25 a year and includes a free screening every fortnight** — 
 
 The real dividing line between an independent cinema and a small multiplex is whether it can run actual film. These can.
 
+<div data-stay-strip></div>
+
 ### Close-Up, Shoreditch
 
 *40 seats · 35mm and 16mm · Sclater Street*
@@ -238,6 +240,8 @@ The most straightforwardly good thing on this page, and a proper cinema besides.
 
 **Kensal Rise is the station**, on the Overground, about five minutes' walk — which is the catch: it is not on the Tube, and from central London it is a change at Willesden Junction or a bus.
 
+<div data-stay-strip></div>
+
 ### Ciné Lumière, South Kensington
 
 *2 screens · inside the Institut français*
@@ -278,7 +282,7 @@ Opened on **11 March 1911** as the Electric Pavilion with over 750 seats, and no
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cinemas-london-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cinemas-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Cheap and outdoors
 
@@ -351,7 +355,7 @@ Cinema in London runs from £4.99 to nearly £19 for the same film, so this is o
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cinemas-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cinemas-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

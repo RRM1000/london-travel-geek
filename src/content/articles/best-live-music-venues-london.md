@@ -181,6 +181,8 @@ Three things nobody tells you before you go. **The seating is unreserved**, firs
 
 It is fully accessible by ramp, with a platform lift up to the bar, and it houses an 1877 Henry Willis organ that still runs on its original hydraulic blowing system.
 
+<div data-stay-strip></div>
+
 ### Village Underground, Shoreditch
 
 *around 700 · Shoreditch High Street*
@@ -215,7 +217,7 @@ There is nothing else like it. The room takes about 200, the ceiling is low, the
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-live-music-venues-london-royal-albert-hall-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Royal Albert Hall tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-live-music-venues-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Jazz
 
@@ -308,6 +310,8 @@ The format is unusual and worth understanding before you go: it is a café and b
 
 **Usually £8 to £20**, with advance and member discounts and some nights free to members. It runs its own record label and record shop next door, and the programme is published months ahead — worth browsing rather than waiting for a name you recognise.
 
+<div data-stay-strip></div>
+
 ### Shacklewell Arms, Dalston
 
 *around 200 · Dalston Kingsland*
@@ -350,7 +354,7 @@ The bookings lean soul, funk and covers rather than anything you would travel fo
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-live-music-venues-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-live-music-venues-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Free and cheap gigs
 
@@ -385,6 +389,7 @@ Live music in London does not have to cost £40 and a booking fee.
 
 ## Continue planning your London trip
 
+- 🎸 **[The Beatles in London](/articles/beatles-london/)**
 - 🎭 **[Camden Area Guide](/articles/camden-area-guide/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 🌙 **[Late-Night Eating in London](/articles/late-night-eating-london/)**

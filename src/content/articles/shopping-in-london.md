@@ -78,6 +78,8 @@ Mid-to-premium rather than luxury: **Liberty** just off it on Great Marlborough 
 
 **Just south**, Piccadilly has **Fortnum & Mason** (below) and **Waterstones Piccadilly**, the largest bookshop in Europe.
 
+<div data-stay-strip></div>
+
 ### Bond Street, Mayfair and the arcades
 
 **Old and New Bond Street are the luxury spine** — Cartier, Tiffany, Chanel, Louis Vuitton, Hermès — plus the auction houses, **Sotheby's** on New Bond Street, whose viewing exhibitions are **free to walk into** and considerably more interesting than the shops.
@@ -183,7 +185,7 @@ London is one of the best cities in Europe for this, and prices span an enormous
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shopping-in-london-portobello-market-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shopping-in-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Malls and centres
 

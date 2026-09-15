@@ -14,7 +14,7 @@ faq:
   - q: "Where was Harry Potter filmed in London?"
     a: "Gringotts Wizarding Bank is the banking hall of Australia House on the Strand — a working diplomatic building, so you cannot go in. Platform 9¾ is at King's Cross, Leadenhall Market played Diagon Alley, and the Millennium Bridge is destroyed in Half-Blood Prince."
   - q: "Is Sherlock's 221B Baker Street real?"
-    a: "The BBC series filmed its 221B exterior on North Gower Street in Bloomsbury, not Baker Street — the real one was too busy. The Sherlock Holmes Museum at 221b Baker Street is a separate, unrelated attraction."
+    a: "The BBC series filmed its 221B exterior on North Gower Street near Euston Square, not Baker Street — the real one was too busy. The Sherlock Holmes Museum at 221b Baker Street is a separate, unrelated attraction."
   - q: "Where is Slough House from Slow Horses?"
     a: "The grubby door the slow horses trudge through in nearly every episode is real, on the corner of Aldersgate Street in the City. The interiors are a set."
   - q: "Can you visit these filming locations?"
@@ -37,7 +37,7 @@ London is the most filmed city in Europe and most of its locations are ordinary 
 | **The City** | Slow Horses, Snatch, Harry Potter (Leadenhall) |
 | **Clerkenwell** | Batman — Gotham police station |
 | **Covent Garden & Strand** | Harry Potter (Gringotts), Spectre (Rules), Notting Hill (The Savoy) |
-| **Bloomsbury** | Sherlock |
+| **Euston** | Sherlock |
 | **Bethnal Green** | Snatch |
 | **Canary Wharf** | Skyfall, 28 Weeks Later, Layer Cake |
 | **Camden & Primrose Hill** | Paddington |
@@ -133,6 +133,8 @@ Game is the speciality, hung and served in season from the restaurant's own esta
 
 It is in **Covent Garden, a few minutes from the piazza**, and the frontage alone is worth the detour if you are not eating.
 
+<div data-stay-strip></div>
+
 ### Skyfall's "Shanghai" pool — Four Seasons, Canary Wharf
 
 *Hotel*
@@ -197,15 +199,13 @@ The grubby door the slow horses trudge through in nearly every episode is **a re
 
 **126 Aldersgate Street EC1A 4JQ**, two minutes from Barbican station. Combine it with Smithfield and the Farmiloe Building further down this page, both within five minutes, and the Charterhouse is on the same corner if you want something to actually go inside.
 
-### Sherlock's 221B — North Gower Street, Bloomsbury
+### Sherlock's 221B — North Gower Street, Euston
 
 *Free · exterior*
 
-The BBC filmed its 221B exterior here rather than on the real, much busier Baker Street — a Bloomsbury terrace standing in for Marylebone, largely because the real Baker Street could not be closed off for a shoot.
+The BBC filmed its 221B exterior here rather than on the real, much busier Baker Street. **Speedy's Sandwich Bar & Café next door is real, open and trading** — go in for a coffee rather than photograph a stranger's door. **187 North Gower Street NW1 2NJ**, three minutes from Euston Square.
 
-**Speedy's Sandwich Bar & Café next door is real, open and trading**, and it leaned into the connection rather than resenting it. It keeps normal daytime cafe hours, so the correct way to do this location is to go in and buy a coffee rather than photograph a stranger's front door from the pavement.
-
-**187 North Gower Street NW1 2NJ**, three minutes from Euston Square and five from Euston. The flat itself is private.
+For the museum, the statue, the pub's replica study and Arthur Conan Doyle's own London, see our full [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide.
 
 ### The Crown's Buckingham Palace — Old Royal Naval College, Greenwich
 
@@ -225,9 +225,9 @@ The same buildings have played 1830s Paris in *Les Misérables*, Asgard in *Thor
 
 *Free to view · working hospital*
 
-Sherlock jumps from the roof of the pathology block and lands on the pavement below in **The Reichenbach Fall (2012)**. Fans left so many notes on the wall and the phone box outside that the hospital had to manage it.
+Sherlock jumps from the roof of the pathology block in **The Reichenbach Fall (2012)** — the same building where Holmes and Watson first meet in Conan Doyle's own books. Barts is also **the oldest hospital in Britain still on its original site**, founded in 1123; the exterior and square are public, but it's a working hospital, so keep clear of patients and staff.
 
-Barts is also **the oldest hospital in Britain still on its original site**, founded in 1123. **The exterior and the square are public**; the small museum keeps limited hours. It is a working hospital, so keep out of the way of patients.
+For the full story, and the museum's own Conan Doyle plaque, see our [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide.
 
 ## Guy Ritchie's London
 
@@ -271,7 +271,7 @@ The floating Chinese pagoda appears in *The Gentlemen* and as a backdrop in *Slo
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Horror and comedy
 
@@ -437,6 +437,8 @@ The **Millennium Bridge is three minutes upstream**, so the Harry Potter and Mis
 
 ---
 
+<div data-stay-strip></div>
+
 ## London playing somewhere else
 
 ### Hatton Garden — Clerkenwell
@@ -491,7 +493,7 @@ The statues around the edge are the reason to linger: Churchill, Mandela, Gandhi
 
 > 📅 **Addresses and access notes checked against our own location records and the venues' own sites on 2 September 2026.** Several of these are private homes or working offices — where that is the case we say so rather than implying you can go in.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What it costs
 
@@ -522,3 +524,4 @@ The statues around the edge are the reason to linger: Churchill, Mandela, Gandhi
 - 🏙️ **[City of London Area Guide](/articles/city-of-london-area-guide/)**
 - 🎭 **[Covent Garden Area Guide](/articles/covent-garden-area-guide/)**
 - ⛵ **[Greenwich Area Guide](/articles/greenwich-area-guide/)**
+- 💃 **[Bridgerton in London](/articles/bridgerton-london/)**

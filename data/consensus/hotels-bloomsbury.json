@@ -60,7 +60,114 @@
         "Thistle London Bloomsbury Park",
         "The Thanet Hotel",
         "Astor Museum Hostel"
-      ]
+      ],
+      "note": "Belongs to the hotels-near-<landmark>-london.html template family (see src/data/hotels.json opNote on morgan-hotel-bloomsbury and data/reference/hotel-corpus.md) - kept as recorded on 2026-09-09 but treated as weak, one-domain-equivalent evidence rather than a solid second source."
+    },
+    {
+      "name": "Time Out London - The best hotels in Bloomsbury",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-bloomsbury",
+      "scope": "hotels-bloomsbury",
+      "recorded": "2026-09-15",
+      "names": [
+        "The Bloomsbury Hotel",
+        "Generator London",
+        "The Hoxton Holborn",
+        "Mentone Hotel",
+        "Myhotel Bloomsbury",
+        "The Montague On The Gardens",
+        "Astor Museum Hostel",
+        "Imperial Hotel",
+        "Grange Beauchamp Hotel",
+        "The Harrison"
+      ],
+      "quotes": {
+        "The Bloomsbury Hotel": "If you're looking to really immerse yourself in the refined Bloomsbury experience, then this upscale pad might be just the thing - 153 rooms blending luxurious textiles and classic British furniture.",
+        "Generator London": "Located in an old police station towards the King's Cross end of Bloomsbury, a good option for those on handcuffed budgets - colourful dorms from £19 a night, private rooms around £70.",
+        "The Hoxton Holborn": "Located on the border of Bloomsbury and Holborn... just a short stroll from the tranquility of Bloomsbury, the British Museum and the shops of Covent Garden.",
+        "Mentone Hotel": "This family-owned Bloomsbury B&B, located between St Pancras International and the British Museum, is set in three Grade II-listed townhouses on a classic Georgian crescent.",
+        "Imperial Hotel": "Overlooking the green walkways of Russell Square... one of the few three-star hotels in an area where four-stars and hostels dominate.",
+        "The Harrison": "This lively gastropub with rooms on a residential Bloomsbury street that's less than ten minutes from King's Cross station - a good antidote to the large chains."
+      }
+    },
+    {
+      "name": "EuroCheapo - Cheap hotels in Bloomsbury, London",
+      "url": "https://www.eurocheapo.com/london/hoods/bloomsbury.html",
+      "scope": "hotels-bloomsbury",
+      "recorded": "2026-09-15",
+      "names": [
+        "YMCA Indian Student Hostel",
+        "St Athans Hotel",
+        "Generator Hostel London",
+        "George Hotel",
+        "Astor Museum Hostel",
+        "Ridgemount Hotel",
+        "Celtic Hotel",
+        "Mentone Hotel",
+        "Arosfa Hotel",
+        "Tavistock Hotel"
+      ],
+      "quotes": {
+        "YMCA Indian Student Hostel": "Ranked #1 of 10 own-reviewed budget picks. 41 Fitzroy Square.",
+        "George Hotel": "Ranked #4 of 10. 58-60 Cartwright Gardens.",
+        "Ridgemount Hotel": "Ranked #6 of 10. 65-67 Gower Street.",
+        "Arosfa Hotel": "Ranked #9 of 10. 83 Gower Street.",
+        "Tavistock Hotel": "Ranked #10 of 10, part of the Imperial London Hotels group on Tavistock Square."
+      },
+      "note": "Own-reviewed, ranked 1-10, schema.org-marked addresses - a specialist budget-hotel review site, not a farm. Bloomsbury scope confirmed by data-places-query on every result."
+    },
+    {
+      "name": "Reddit r/uktravel - \"Staying Bloomsbury\"",
+      "url": "https://www.reddit.com/r/uktravel/comments/1ccnd5y/staying_bloomsbury/",
+      "scope": "hotels-bloomsbury",
+      "recorded": "2026-09-15",
+      "names": [
+        "Mercure London Bloomsbury"
+      ],
+      "quotes": {
+        "Mercure London Bloomsbury": "MaudeBea: 'I'm planning on staying at the Mercure London Bloomsbury. It seems alright from what I've looked at.'"
+      },
+      "communityNote": "30-comment thread, mixed area chatter rather than a single hotel recommendation. Recurring theme worth recording even though it names no second hotel: 'That whole Bloomsbury area is either 5star swanky hotels, or shitholes that misrepresent their location' (milly_nz, score 3) and 'a fair number of really really dire hotels around there' (harpistic) - i.e. sources agree the area is good but individual small hotels vary sharply, which argues for sticking to well-attested names rather than the full B&B strip."
+    },
+    {
+      "name": "Reddit r/travel - \"Bloomsbury or Shoreditch for first time stay in London?\"",
+      "url": "https://www.reddit.com/r/travel/comments/16r40cf/bloomsbury_or_shoreditch_for_first_time_stay_in/",
+      "scope": "hotels-bloomsbury",
+      "recorded": "2026-09-15",
+      "names": [
+        "The Bloomsbury Hotel"
+      ],
+      "quotes": {
+        "The Bloomsbury Hotel": "genius4evil1: 'We just stayed at the Bloomsbury in August and the location is superior to Shoreditch. The stay was TERRIFIC especially the breakfast.'"
+      },
+      "communityNote": "24-comment thread comparing Bloomsbury to Shoreditch for a family trip; near-unanimous for Bloomsbury as calmer, safer and more central for a first visit (emaddxx score 15, FelisCantabrigiensis score 13, Howtothinkofaname score 26, McCretin score 9)."
     }
-  ]
+  ],
+  "declined": [
+    {
+      "name": "taketravelinfo.com - Where To Stay In Bloomsbury London",
+      "url": "https://taketravelinfo.com/where-to-stay-in-bloomsbury-london/",
+      "reason": "Same domain also publishes 'Best Cordless Drills of 2026: Tested and Reviewed', 'Best Climbing Sticks: Tested and Reviewed' and 'Best Coolers Head to Head' as its other recent posts - a gear-review content mill that also runs a travel vertical, not a travel blogger. Byline 'Daniel Globe' has no visible archive of uneven, dated travel posts. Matches hotel-corpus.md trap 2/4 (grid coverage, no real archive)."
+    },
+    {
+      "name": "eurovistatrips.com - Which London Hotels Are Near the British Museum?",
+      "url": "https://eurovistatrips.com/london-hotels-near-british-museum/",
+      "reason": "Desk byline ('Eurovistatrips Staff'), and the page is built from the same generic template on every pass: 'Why Stay Near X', star-rated price-tier headings, 'Checklist: What to Consider', 'Comparison Table: Quick Overview', 'Common Mistakes to Avoid', and a generic FAQ block ('Do hotels near the British Museum offer parking?'). Matches the AI-SEO-farm signals in hotel-corpus.md almost point for point."
+    },
+    {
+      "name": "YouTube - TravelSpotter, \"Best Hotels In Bloomsbury, England - Top 5 Picks For Any Budget\"",
+      "url": "https://www.youtube.com/watch?v=A34IYAixKqw",
+      "reason": "Every hotel link in the description routes through go.skimresources.com affiliate cloaking (Agoda/Trip.com/Trivago/Tripadvisor) rather than the hotels themselves, the sign-off ('All the best hotels mentioned in this video were hand-picked by me and researched thoroughly') reads as boilerplate rather than a real visit, and one entry is captioned 'The Gyle' while its own Booking.com link path reads '/hotel/gb/mont...' - almost certainly a garbled Montague on the Gardens, i.e. the video's own labels do not reliably match its own links. Not used as evidence; the other four names it carries (Kimpton Fitzroy London, The Bloomsbury Hotel, Staunton Hotel, a Radisson Blu Hotel) are all independently attested elsewhere in this file."
+    },
+    {
+      "name": "YouTube - \"UK Hotel Gems\" and \"UK Hotel Discoveries\", both titled \"The Bloomsbury Hotel | London, United Kingdom | Hotel Review\"",
+      "url": "https://www.youtube.com/watch?v=1tewxY0g2eU (UK Hotel Gems); https://www.youtube.com/watch?v=janwyLlZ_x0 (UK Hotel Discoveries)",
+      "reason": "Identical title format, sub-200 view counts, 1-3 minute runtime and a description opening 'Booking details:' on both channels - reads as the same faceless-review-mill format run under two channel names rather than two independent creators. Not counted."
+    },
+    {
+      "name": "YouTube - TripHunter, single-hotel review videos",
+      "url": "https://www.youtube.com/watch?v=DIttKbmftQ0 and https://www.youtube.com/watch?v=H3t0-smcapk",
+      "reason": "Fixed template ('Should You Stay Here?' / 'The Good, The Bad, and The Ugly') with a 'Booking Price: booking.com' link in every description, and its own subreddit r/thetriphunter has 28 subscribers. Reads as an affiliate content mill rather than an independent voice."
+    }
+  ],
+  "videoGap": "No independently-verified tier-D (video) source for Bloomsbury hotels specifically was found on 15 Sep 2026 - every candidate that named Bloomsbury hotels by title showed content-mill signals (see declined, above). Tier E (Reddit, x2 threads) and tiers B/C (x6 usable domains) meet the source-mix floor without it; run node scripts/audit-source-mix.mjs hotels-bloomsbury to confirm, and revisit video if a cleaner creator turns up."
 }

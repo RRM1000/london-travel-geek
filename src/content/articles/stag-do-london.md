@@ -91,6 +91,8 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 
 **Fairgame is the one to know about in advance.** Nine games in 75 minutes at Canary Wharf for **£15 off-peak or £19 prime**; twelve games in 90 minutes at the City site for **£22 and £25**. There is **no minimum group size at all** — but it is **18-plus at every hour it opens** and insists on **physical photo ID rather than a picture of one**, and groups of sixteen or more must book through the events team *and* pre-purchase food and drink. The [competitive socialising guide](/articles/competitive-socialising-london/) compares the whole category, including three venues that have closed.
 
+<div data-stay-strip></div>
+
 ### Bowling, cheaply
 
 **Bloomsbury Lanes charges by the lane, not the head: £45 an hour off-peak Sunday to Tuesday, £55 after 5pm on those days, £65 Wednesday to Saturday.** A lane takes six, so twelve people on two off-peak lanes is **£7.50 each** — under a third of what a Flight Club oche works out at once its minimums are met. The darts oche is £30 an hour on a real board.
@@ -113,7 +115,7 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The evening
 
@@ -149,7 +151,7 @@ For a bar that will take the booking rather than refuse it, the [cocktail bar gu
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay for 10 to 20
 
@@ -168,6 +170,8 @@ For a bar that will take the booking rather than refuse it, the [cocktail bar gu
 **Where to base up.** Shoreditch and Old Street for Flight Club, late bars and walking home. King's Cross for Electric Shuffle, Bloomsbury Lanes and the trains north. Canary Wharf if Fairgame and THE CUBE are the plan. Elephant & Castle for the cheapest beds within reach of Zone 1.
 
 ---
+
+<div data-stay-strip></div>
 
 ## Three weekends, costed
 
@@ -193,7 +197,7 @@ The package is not a mark-up on the games, then; it is a bundle of a bed, a book
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The rules that actually decide the weekend
 

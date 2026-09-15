@@ -112,6 +112,8 @@ Just off it, **Peckham Palms** on Bournemouth Close is the **UK's first hair and
 
 *Inside Peckham Palms, the UK's first hair and beauty hub built for Afro hair.*
 
+<div data-stay-strip></div>
+
 ### Copeland Park and the Bussey Building
 
 Off the east side of Rye Lane through **Bussey Alley**, 150 metres from the station. A former **cricket bat factory** and the yards around it, now the densest concentration of independent anything in south London.
@@ -141,6 +143,8 @@ The third artist of that group, **John Latham**, lived at number 210, and his ho
 The eating is the other reason: **Artusi** for Italian, **The Begging Bowl** for Thai, and a run of cafés and delis. The street was settled by **Huguenots** and has been called the French Quarter for years — the Montpelier pub and Petitou café are the leftovers of that, and a French community still lives around it.
 
 **Note the geography.** Kruk, Levan and Peckham Cellars all get filed under Bellenden by guides that have not walked it — they are on Blenheim Grove and Queens Road, by the station.
+
+<div data-stay-strip></div>
 
 ### Peckham Road
 
@@ -210,7 +214,7 @@ Peckham eats well and cheaply. This is a selection — see the [full restaurant 
 6. **Bellenden Road:** West for the quiet end and the sit-down restaurants.
 7. **Finish:** Dinner on Bellenden Road, or back to Rye Lane for tacos.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-area-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

@@ -52,7 +52,7 @@ This guide is the registers, read together, plus what you need to know to use th
 
 **Kedassia's register is the significant gap.** Its site does not resolve at all, and it is the authority most used in Stamford Hill — which is why the published registers show only one certified establishment there, Tasti Pizza on Amhurst Park, while the neighbourhood plainly has more. If you are eating in Stamford Hill, ask locally rather than trusting any list, including this one.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-kosher-restaurants-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-kosher-restaurants-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The distinctions that actually decide where you eat
 

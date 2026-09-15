@@ -118,6 +118,8 @@ And for LEGOLAND, <a href="https://www.getyourguide.com/activity/-t645578?partne
 
 > ⚠️ **"Entry" inside the includes list is not entry.** Nine of the fourteen pages we read put the Castle in the **includes** list with a tick and then qualify it — "Entry to Windsor Castle (if option selected)" — and the from-price is always the option without the ticket. The worst-worded is <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge, Bath and Roman Baths</a>: "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)". Before you pay, check the **option name in the date picker** says "with Entry" — and remember the Castle is shut Tuesdays and Wednesdays whichever option you buy.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-windsor" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71088,18994,645578"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Windsor Castle
 
 ![Visitors walking up to Windsor Castle's gatehouse, its two round towers rising above the crowd](../../assets/articles/windsor-day-trip/windsor-castle-gate.jpg)
@@ -180,15 +182,13 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 *The State Apartments, which are what the £32 ticket buys.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-windsor" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71088,18994,645578"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What 2FOR1 does and does not cover
 
 **Windsor Castle is not in the National Rail 2FOR1 scheme.** Neither is any other Royal Collection Trust site. The Castle is full price however you arrive.
 
 **LEGOLAND Windsor Resort is in it, at one third off** rather than two-for-one — the same treatment every Merlin attraction gets. Two Golden Tours bus tours of Windsor are listed too. The offer needs two people, a valid National Rail ticket and an eVoucher, and contactless does not qualify, which is the whole trick of it: the cheapest way to reach Windsor is the thing that disqualifies you. Full rules in our guide to [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/).
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What fills the rest of the day
 
@@ -230,7 +230,7 @@ Which sets up a neat trade: **Sunday is the one day the Chapel is shut and the o
 - **Windsor Royal**, built into the Victorian station beside Windsor & Eton Central, for the straight-off-the-train option.
 - **Eton High Street**, for cafés and restaurants without the coach parties.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Last trains, and how long the day really takes
 

@@ -86,7 +86,7 @@ Eurostar fares work like UK Advance tickets, not like a flat off-peak return —
 
 That's checked on 14 September 2026, cheapest Standard seat on each date for the same route. The £35 fare was part of a sale running for travel between 23 September and 16 December 2026 that was due to close for bookings that same day, so treat it as an example of how low the fare can go rather than a permanent price — but the underlying pattern, a same-day seat costing three to six times a seat booked a few weeks out, is the durable lesson. **Eurostar releases tickets 10 to 11 months ahead**, so for a specific date you have that whole window to watch for a drop.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Check-in and the border
 
@@ -107,6 +107,8 @@ This is the part that catches people used to a UK domestic train, where you can 
 
 **Luggage:** one handbag or daypack plus two further items, none more than 85cm at their widest point, for Standard and Plus — three bags plus the daypack for Premier. There's no weight limit, but you carry and store it yourself on board.
 
+<div data-stay-strip></div>
+
 ## Is Paris actually doable as a day trip?
 
 Yes, and the numbers are kinder than you might expect — kinder than Stonehenge or the Cotswolds, where the travel time alone eats most of the day.
@@ -123,6 +125,8 @@ Seven hours sounds generous next to a three-hour bus ride each way to Stonehenge
 
 *A side street in central Paris. Photo: MuffinLand, Pexels.*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Getting into Paris: Métro and RER from Gare du Nord
 
 Gare du Nord is itself a Métro and RER hub, so nothing central is far. A single ticket is **€2.55** on any Métro, RER or train within Paris (a day pass is €12.30, worth it only if you're making more than about five journeys). All times below are live transit estimates checked from Gare du Nord.
@@ -135,8 +139,6 @@ Gare du Nord is itself a Métro and RER hub, so nothing central is far. A single
 | **Eiffel Tower** | **28 min** | RER B, then RER C |
 
 Louvre and Notre-Dame are also a **9-minute walk from each other** along the river, which is the natural pairing if you'd rather stay central than cross town to the Eiffel Tower.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to do with the day
 
@@ -164,6 +166,8 @@ Given the real hours available, pick one of these rather than trying to string a
 
 Prefer someone else to handle the tickets, the coach transfers in Paris and the Eurostar booking? The escorted day trip linked at the top of this guide covers a panoramic coach tour, lunch at the Eiffel Tower's Madame Brasserie, a Seine cruise and entry to the tower itself, with round-trip Eurostar included — useful if you'd rather not plan the logistics above yourself.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What people get wrong
 
 - **Booking on the day instead of weeks ahead.** The cheapest same-day Standard fare we found was £220; a week out it was £75, and it kept falling the further out we checked.
@@ -176,6 +180,8 @@ Prefer someone else to handle the tickets, the coach transfers in Paris and the 
 - **Showing up at the Eiffel Tower without a booked slot** and expecting to walk straight up — tickets are sold in timed slots online, and same-day entry isn't guaranteed.
 
 All prices and times checked 14 September 2026.
+
+<div data-stay-strip></div>
 
 ## Continue planning your trip
 

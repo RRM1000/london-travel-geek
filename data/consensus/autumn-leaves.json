@@ -1,0 +1,351 @@
+{
+  "cuisine": "autumn-leaves",
+  "note": "Places, not restaurants: parks, gardens, cemeteries, one historic estate and two woodlands, ranked by how many independent sources name them for autumn colour. See data/topics/autumn-leaves.json for the full collection notes, tiering rationale and open questions.",
+  "recorded": "2026-09-15",
+  "sources": [
+    {
+      "name": "The Royal Parks",
+      "url": "https://www.royalparks.org.uk/read-watch-listen/best-trees-see-autumn-londons-royal-parks",
+      "scope": "autumn-leaves",
+      "names": [
+        "Brompton Cemetery",
+        "St James's Park",
+        "Greenwich Park",
+        "Regent's Park",
+        "Bushy Park",
+        "Hyde Park",
+        "Richmond Park",
+        "Victoria Tower Gardens",
+        "Green Park"
+      ],
+      "quotes": {
+        "Brompton Cemetery": "You can't take an autumn walk in Brompton Cemetery without noticing the beautiful weeping silver lime trees... best time to see it in colour: early-mid September onwards.",
+        "St James's Park": "By mid-September a beautiful golden glow will start to shine, framing Buckingham Palace across Blue Bridge.",
+        "Greenwich Park": "There is a particularly stunning Japanese maple by the Flower Garden Pond in Greenwich Park, which reflects beautifully on the water with its red and yellow colours in the autumn.",
+        "Regent's Park": "The American Tulip trees form tree line isles along The Regent's Park Avenue Gardens... in September and October you can expect to see beautiful yellow and orange seasonal hues.",
+        "Bushy Park": "Ginkgo trees are often planted as ornamentals because of their unique foliage and stunning leaf colour, which turn a brilliant golden yellow in autumn... in Bushy Park they are located near the Pheasantry Café in the Woodland Gardens.",
+        "Richmond Park": "The Acer Glade: one of the plantation's most spectacular autumn displays, with Japanese maples turning brilliant shades of scarlet, orange and gold."
+      }
+    },
+    {
+      "name": "The Royal Parks - deer rutting season",
+      "url": "https://www.royalparks.org.uk/read-watch-listen/12-things-you-should-know-about-deer-rutting-season",
+      "scope": "autumn-leaves",
+      "names": [
+        "Richmond Park",
+        "Bushy Park"
+      ],
+      "quotes": {
+        "Richmond Park": "Deer rutting (breeding) season starts at the end of September each year and lasts until early November. Richmond Park and Bushy Park are home to over 1,000 free roaming red and fallow deer between them.",
+        "Bushy Park": "Please remember that deer are wild animals, keep 50 metres away and do not wave food or mobile phones in their faces."
+      }
+    },
+    {
+      "name": "Royal Botanic Gardens, Kew",
+      "url": "https://www.kew.org/kew-gardens/best-things-to-do-at-kew-this-autumn",
+      "scope": "autumn-leaves",
+      "names": [
+        "Kew Gardens"
+      ],
+      "quotes": {
+        "Kew Gardens": "Autumn leaves are at their most colourful across the Gardens in October... the bright yellow and orange leaves of our gingko trees, swamp cypress (Taxodium distichum) by the Palm House Pond, and American smoke-trees (Cotinus obovatus), which are near Victoria Gate, are at their strongest in November."
+      }
+    },
+    {
+      "name": "City of London Corporation",
+      "url": "https://www.cityoflondon.gov.uk/things-to-do/green-spaces/epping-forest/getting-to-epping-forest-by-public-transport",
+      "scope": "autumn-leaves",
+      "names": [
+        "Epping Forest"
+      ],
+      "quotes": {
+        "Epping Forest": "It's also just a five minute walk from the station to the Visitor Centre and Queen Elizabeth's Hunting Lodge. From there a trip to Connaught Water is popular and allows you to pick up the Willow Trail."
+      }
+    },
+    {
+      "name": "The National Trust - Gardens and parks in London",
+      "url": "https://www.nationaltrust.org.uk/visit/london/gardens-parks",
+      "scope": "autumn-leaves",
+      "names": [
+        "Osterley Park",
+        "Ham House",
+        "Morden Hall Park"
+      ],
+      "quotes": {
+        "Osterley Park": "As autumn arrives so does the opportunity to see swathes of colour around the estate at Osterley Park and House. From the Shagbark Hickory showing glorious golds and rich reds.",
+        "Ham House": "Glowing golden lime trees line historic avenues leading to the house during autumn, making for the perfect autumn photo spot.",
+        "Morden Hall Park": "See the lime tree lined avenues burst into fiery shades bathed in beautiful autumn light and hear birds bustling around among burnished tones of copper."
+      }
+    },
+    {
+      "name": "Woodland Trust",
+      "url": "https://www.woodlandtrust.org.uk/blog/2021/11/top-10-woods-to-enjoy-autumn-colour/",
+      "scope": "autumn-leaves",
+      "names": [
+        "Hainault Forest"
+      ],
+      "quotes": {
+        "Hainault Forest": "Close to London, this urban oasis has a long and important history... wander more than 4 miles of surfaced paths through ancient woodland, among stately hornbeams and oaks, to see the season's fantastic colours."
+      }
+    },
+    {
+      "name": "Time Out - Best London parks for autumn walks",
+      "url": "https://www.timeout.com/london/things-to-do/best-london-parks-for-autumn-walks",
+      "scope": "autumn-leaves",
+      "names": [
+        "Battersea Park",
+        "Fulham Palace",
+        "Greenwich Park",
+        "Hampstead Heath",
+        "Victoria Park",
+        "Hyde Park",
+        "Holland Park",
+        "Kew Gardens",
+        "St James's Park",
+        "Tower Hamlets Cemetery Park",
+        "Osterley Park"
+      ],
+      "quotes": {
+        "Battersea Park": "The hybrid strawberry tree with its red bark is a standout, and by autumn's end, it will be covered in a beautiful layer of fruit and white flowers.",
+        "Greenwich Park": "There are also avenues of 400-year-old Spanish sweet chestnuts that, come autumn, produce edible nuts for you to collect... there's even one, the Queen Elizabeth Oak, that dates back 750 years.",
+        "Hampstead Heath": "Spend the day wandering across its grassy sprawl, exploring its meadows and magical woodland areas, all tinged in ambers, golds and deep, majestic reds.",
+        "Victoria Park": "The silver birches, planes, oaks and rare purple-leaved Norway maples are all East End autumnal delights to behold.",
+        "Hyde Park": "With more than 4,000 trees, it is especially amazing in autumn: look out for the buttery yellows and firey oranges of the beeches, limes and chestnuts that line the avenues along the Serpentine.",
+        "Holland Park": "Head to Holland Park and you'll find the Japanese-style Kyoto Gardens... this time of year sees its edges fringed with orange leaves.",
+        "Kew Gardens": "Kew Gardens looks flippin' lush in autumn, and with wild meadows, gardens bursting with pretty flora and treetop walkways to explore.",
+        "Tower Hamlets Cemetery Park": "Set in a disused nineteenth-century cemetery, this is the only woodland in Tower Hamlets and its 33 acres are home to a wide variety of wild plants and animals.",
+        "Osterley Park": "Osterley Park and House is a beautiful 18th-century mansion set in more than 350 acres of parkland, with fine Georgian interiors and rolling lawns to explore."
+      }
+    },
+    {
+      "name": "Londonist",
+      "url": "https://londonist.com/london/great-outdoors/autumn-trees-red-orange-leaves-walks-london",
+      "scope": "autumn-leaves",
+      "names": [
+        "Richmond Park",
+        "St James's Park",
+        "Regent's Park",
+        "Greenwich Park",
+        "Chelsea Embankment",
+        "Kynance Mews",
+        "Kew Gardens",
+        "Nunhead Cemetery",
+        "Brompton Cemetery"
+      ],
+      "quotes": {
+        "Richmond Park": "Richmond Park is very possibly London's quintessential autumn spot; a sylvan neverland where the antlered silhouettes of stags emerge from steaming morning mists — against a backdrop of golden leaves.",
+        "St James's Park": "The stunning view from the lake bridge looking east towards Horse Guards turns technicolour around September/October, with the London Eye and cream coloured government buildings peeking over the tops of clouds of fire-coloured leaves.",
+        "Regent's Park": "The Broad Walk pedestrian path running north-south comes into its own, the wide, tree-lined avenue becoming a golden tunnel.",
+        "Greenwich Park": "A similar effect on Blackheath Avenue in Greenwich Park.",
+        "Chelsea Embankment": "The golden plane trees forming an arch over pedestrians below, as they crunch through piles of leaves that've drifted to the ground.",
+        "Kynance Mews": "Deep-red tendrils drip over the photogenic stone arches — a waterfall of vermillion.",
+        "Kew Gardens": "The arboretum alone is home to 14,000 trees from all over the world.",
+        "Nunhead Cemetery": "We'd recommend heading to Nunhead Cemetery for views all the way back towards central London... it's the best time of year to see St Paul's from this vantage point.",
+        "Brompton Cemetery": "Autumn leaves settle on the ground among imposing tombs and in front of the iconic domed chapel."
+      }
+    },
+    {
+      "name": "Evening Standard",
+      "url": "https://www.standard.co.uk/homesandproperty/gardening/best-place-london-autumn-walk-leaves-changing-colour-b1117500.html",
+      "scope": "autumn-leaves",
+      "names": [
+        "St James's Park",
+        "Kew Gardens",
+        "Victoria Tower Gardens",
+        "Big Wood"
+      ],
+      "quotes": {
+        "St James's Park": "One of my favourite places to catch the season is on the Blue Bridge that crosses the lake in St James's Park. The trees reach down to the water, providing a perfect reflection on a still day.",
+        "Kew Gardens": "Autumn at Kew is particularly special because it has a great collection of deciduous conifers... from golden yellow larch (Larix) to fiery orange swamp cypress (Taxodium distichum) trees.",
+        "Victoria Tower Gardens": "Look across the river between Westminster and Lambeth bridges and admire the line of plane trees neighbouring the Palace of Westminster in Victoria Tower Gardens.",
+        "Big Wood": "Big Wood is made up of a mix of species including oak, cherry, hazel and importantly, the wild service tree (Sorbus torminalis), a living indicator of ancient woodland. The leaves on these trees are shaped a little like maple leaves and go a deep copper-orange this time of year."
+      }
+    },
+    {
+      "name": "Conde Nast Traveller",
+      "url": "https://www.cntraveller.com/gallery/autumn-leaves-uk",
+      "scope": "autumn-leaves",
+      "names": [
+        "Hampstead Heath"
+      ],
+      "quotes": {
+        "Hampstead Heath": "This leafy corner of the city takes on its best colours in autumn. Its 800 acres look even more impressive when the trees are filled with brown, yellow and orange leaves and the swimming ponds offer a final chance for an autumn dip before winter sets in."
+      }
+    },
+    {
+      "name": "Solosophie",
+      "url": "https://www.solosophie.com/fall-foliage-in-london/",
+      "scope": "autumn-leaves",
+      "names": [
+        "Kynance Mews",
+        "Hyde Park",
+        "Holland Park",
+        "Richmond Park",
+        "Ham House"
+      ],
+      "quotes": {
+        "Kynance Mews": "Pretty in the spring with wisteria and adorable in the autumn with trailing ivy and red leaves.",
+        "Richmond Park": "Of all the best places to spot fall foliage in London, Richmond Park may well be the best spot of all.",
+        "Ham House": "This 17th-Century house was built along the shores of the Thames and comes complete with formal gardens that turn lovely golden hues in the autumn.",
+        "Holland Park": "Holland Park itself is 54 acres in size and filled with gardens, trees and a wooded area - making it the perfect place to spot some autumnal tones... the Kyoto Garden, which has trees which turn golden oranges and reds during the autumn."
+      }
+    },
+    {
+      "name": "Brogan Abroad",
+      "url": "https://broganabroad.com/autumn-colours-london/",
+      "scope": "autumn-leaves",
+      "names": [
+        "Green Park",
+        "St James's Park",
+        "Greenwich Park",
+        "Regent's Park",
+        "Holland Park"
+      ],
+      "quotes": {}
+    },
+    {
+      "name": "PhD Bonbon (YouTube)",
+      "url": "https://www.youtube.com/@phdbonbon2025",
+      "scope": "autumn-leaves",
+      "names": [
+        "Kew Gardens",
+        "Richmond Park",
+        "Green Park"
+      ],
+      "quotes": {
+        "Kew Gardens": "London Parks in Autumn 2025 | Kew Gardens, Richmond & Green Park Walk | 4K HDR - three of London's most beautiful parks, captured during the golden days of autumn."
+      }
+    },
+    {
+      "name": "Travels and Other Things (YouTube)",
+      "url": "https://www.youtube.com/@namayuyan",
+      "scope": "autumn-leaves",
+      "names": [
+        "Regent's Park"
+      ],
+      "quotes": {
+        "Regent's Park": "REGENT'S PARK AUTUMN WALK - went for a morning walk in one of the Royal Parks in London. Regent's park is even more beautiful with autumn colours."
+      }
+    },
+    {
+      "name": "Walk From Home (YouTube)",
+      "url": "https://www.youtube.com/@WalkFromHome1",
+      "scope": "autumn-leaves",
+      "names": [
+        "Regent's Park"
+      ],
+      "quotes": {
+        "Regent's Park": "LONDON WALK | Golden Autumn in Regent's Park - Peaceful Sunday Walk Through London's Colours."
+      }
+    },
+    {
+      "name": "The Guardian - stressed trees",
+      "url": "https://www.theguardian.com/environment/2026/sep/01/high-winds-el-nino-england-stressed-trees-heat-drought",
+      "scope": "autumn-leaves",
+      "names": [
+        "Kew Gardens"
+      ],
+      "quotes": {
+        "Kew Gardens": "Kevin Martin, head of tree collections at Kew: 'I'm really worried about this autumn.' What made 2026 so unprecedented was the spring heatwave, when temperatures reached 35C, the hottest May ever recorded - many trees are undergoing 'early autumn', wilting and losing their leaves early to cope with extreme heat."
+      }
+    },
+    {
+      "name": "The Independent - top botanical gardens and arboretums",
+      "url": "https://www.independent.co.uk/life-style/botanical-gardens-arboretum-uk-ireland-kew-b2835653.html",
+      "scope": "autumn-leaves",
+      "names": [
+        "Kew Gardens"
+      ],
+      "quotes": {
+        "Kew Gardens": "With 11,000 trees from across the world, Kew Gardens boasts the largest arboretum in the UK. 2,700 of these are oaks... the red oak, Quercus robur, puts on a flashy show of crimson along the Riverside Walk. Also look out for the beautiful russet-leaved pin oaks (Q. palustris) near the Treetop Walkway."
+      }
+    },
+    {
+      "name": "The Independent - deer safety warning",
+      "url": "https://www.independent.co.uk/news/uk/home-news/richmond-park-stag-put-down-man-chest-injuries-b3034493.html",
+      "scope": "autumn-leaves",
+      "names": [
+        "Richmond Park",
+        "Bushy Park"
+      ],
+      "quotes": {
+        "Richmond Park": "The Metropolitan Police confirmed that officers received a call from the London Ambulance Service regarding a person hurt by a deer inside Richmond Park, in south-west London.",
+        "Bushy Park": "Royal Parks said they were 'shocked and alarmed' to see videos and photographs circulating online of park visitors approaching deer in nearby Bushy Park... nearby Bushy Park, which is more than 1,000 acres in size, is also home to deer."
+      }
+    },
+    {
+      "name": "The Independent - Brambly Hedge tree",
+      "url": "https://www.independent.co.uk/news/uk/home-news/epping-forest-press-association-city-of-london-b2963177.html",
+      "scope": "autumn-leaves",
+      "names": [
+        "Epping Forest"
+      ],
+      "quotes": {
+        "Epping Forest": "An over 300-year-old tree which inspired the cottage in the Brambly Hedge books has been discovered in Epping Forest... sculptures of the pair can be found near the start of the Brambly Hedge-themed trail in Epping Forest, launched last October."
+      }
+    },
+    {
+      "name": "Metro - most beautiful autumnal walks",
+      "url": "https://metro.co.uk/2025/09/29/londons-beautiful-autumnal-walks-stop-coffee-along-way-24231808/",
+      "scope": "autumn-leaves",
+      "names": [
+        "Hampstead Heath",
+        "Richmond Park",
+        "Green Park",
+        "St James's Park",
+        "Hyde Park",
+        "Kensington Gardens",
+        "Bushy Park"
+      ],
+      "quotes": {
+        "Hampstead Heath": "Once on the Heath, the path takes you through a mix of oak-lined trails and open meadows. Make sure to take a breather at the ponds, watch the colours of autumn ripple on the surface.",
+        "Richmond Park": "The Tamsin Trail is a walking and cycling route around the perimeter of Richmond Park, London's largest royal park... a great spot to catch birdlife.",
+        "Kensington Gardens": "Pass Queen Anne's Alcove and the fountains of the Italian Gardens, then on to the Diana, Princess of Wales Memorial Playground.",
+        "Bushy Park": "Start near Bushy Park and head towards Kingston; just before the bridge, you'll find the entrance to the Barge Walk."
+      }
+    },
+    {
+      "name": "News Shopper - south east London's best autumn walks according to locals",
+      "url": "https://www.newsshopper.co.uk/news/25489879.south-east-londons-best-autumn-walks-according-locals/",
+      "scope": "autumn-leaves",
+      "names": [
+        "Greenwich Park",
+        "Oxleas Wood",
+        "Blackheath",
+        "Lesnes Abbey Woods",
+        "Beckenham Place Park"
+      ],
+      "quotes": {
+        "Greenwich Park": "With its rows of Japanese Maple and Sweet Chestnut trees that turn red and orange in autumn, along with its London skyline views and historic buildings like the Observatory and Pavillion Cafe, Greenwich Park certainly stands out as one of London's most scenic parks for an autumn walk.",
+        "Oxleas Wood": "Located in Shooters Hill, Oxleas Woods is one of London's oldest woodlands, dating back over 8,000 years, and is home to a variety of trees like hornbeam, oak and hazel trees.",
+        "Blackheath": "Neighbouring Greenwich Park, Blackheath with its mix of Georgian and Victorian houses and wide open spaces of grass was also rated as one of the best for an autumn walk.",
+        "Lesnes Abbey Woods": "Lesnes Abbey Woods is another of London's ancient sites, with the remains of a 12th-century abbey along with 88 hectares of ancient woodland.",
+        "Beckenham Place Park": "Beckenham Place Park with its ancient woodlands, lake and historic Georgian manor is a great place to visit in autumn."
+      }
+    },
+    {
+      "name": "BBC News - deer rutting season warning",
+      "url": "https://www.bbc.co.uk/news/articles/c5y8epypxy6o",
+      "scope": "autumn-leaves",
+      "names": [
+        "Richmond Park",
+        "Bushy Park"
+      ],
+      "quotes": {
+        "Richmond Park": "Paul Richards, park manager at Richmond Park, said: 'The rut is a fascinating natural event, but please don't forget these are wild animals, pumped full of testosterone and can be unpredictable.'",
+        "Bushy Park": "Park manager at Bushy Park, Phil Edwards, added: 'Our advice is simple: keep at least 50 metres away from the deer - and even further if they are active.'"
+      }
+    },
+    {
+      "name": "The Tab - six things worth leaving the house for this London autumn",
+      "url": "https://thetab.com/2026/09/14/six-things-genuinely-worth-leaving-the-house-for-this-london-autumn-a-detailed-guide",
+      "scope": "autumn-leaves",
+      "names": [
+        "Richmond Park"
+      ],
+      "quotes": {
+        "Richmond Park": "Reenact the Fenton saga on Richmond Park - deer spotting on Richmond Park is a peak Sunday afternoon activity."
+      }
+    }
+  ]
+}

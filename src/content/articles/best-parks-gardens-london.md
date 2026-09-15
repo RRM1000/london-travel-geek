@@ -94,6 +94,8 @@ Primrose Hill is technically separate and just to the north, and its view south 
 
 *The Outer Circle flowerbeds in late April — Queen Mary's Gardens further in have the bigger rose display, but this is the first colour of the year.*
 
+<div data-stay-strip></div>
+
 ### Battersea Park
 
 *Free · 200 acres*
@@ -226,6 +228,8 @@ There is a visitor centre and a cafe, and it is five minutes from the station. *
 
 ---
 
+<div data-stay-strip></div>
+
 ## Ticketed, and worth it
 
 ### Kew Gardens
@@ -278,7 +282,7 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-parks-gardens-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-parks-gardens-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## All free, with a few exceptions
 
@@ -310,6 +314,7 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 * **The Barbican Conservatory is free but ticketed**, opens on selected dates only, and releases day tickets online from 9.30am on the day. Check its listing and book — you cannot walk in.
 * **Kew is a half-day minimum** and cheaper booked online.
 * **Isabella Plantation peaks in late April and May.** Outside that it is pleasant rather than remarkable.
+* **For the trees themselves in autumn colour**, see our guide to [where to see autumn leaves in London](/articles/best-places-autumn-leaves-london/) — which parks, which named trees, and when it peaks.
 
 ---
 

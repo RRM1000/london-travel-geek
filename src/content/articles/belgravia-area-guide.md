@@ -105,6 +105,8 @@ Belgravia has its own share of the commemorative plaques marking where notable p
 
 It is about ten minutes from Victoria station and most people arriving there walk the other way.
 
+<div data-stay-strip></div>
+
 ### Eccleston Yards
 
 ![Outdoor tables and planters in the courtyard at Eccleston Yards, with brick warehouse buildings behind](../../assets/articles/belgravia-area-guide/eccleston-yards.jpg)

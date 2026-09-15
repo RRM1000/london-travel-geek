@@ -90,6 +90,8 @@ Open City opens buildings across every London borough that are normally shut, pr
 
 That is not a reason to skip it. Hundreds of buildings are walk-up, no booking, just a queue and a volunteer at the door, and they are frequently better than the famous ones because you can take your time. **The move is to ignore the towers, pick a neighbourhood, and walk it.** Then set a reminder for the programme launch next August.
 
+<div data-stay-strip></div>
+
 ### Heritage Open Days — the one people confuse with Open House
 
 **11 to 20 September 2026.** Free.
@@ -204,6 +206,8 @@ Alexandra Palace has the busiest month of any venue in London. **Annie Mac on th
 
 For something entirely different, the **Monteverdi Choir performs Rossini's *Petite Messe Solennelle* at Ally Pally on 18 September**.
 
+<div data-stay-strip></div>
+
 ## Sport: the last Saturday is the big one
 
 **Saturday 26 September puts two England teams on in London on the same day.** The men play **Spain at Wembley** in the UEFA Nations League, and the **Red Roses** play **New Zealand at Allianz Stadium, Twickenham**, kicking off at 3pm, with tickets from £20.
@@ -228,7 +232,7 @@ Further out, **Marrion's** on Morning Lane in Hackney is a neighbourhood bar fro
 
 Three more worth watching: **Romy Gill has taken over The Pem** in St James's and turned it to regional Indian cooking; **Endo Kazutoshi** has opened his ENDO omakase room in Chelsea with a Moga listening bar above it; and **the Savoy's Beaufort Bar has become a wine bar**, complete with a bespoke charcuterie trolley. The Mr Fogg's team are opening **The Admiral's Mess** inside Admiralty Arch, where Clare Smyth and Daniel Boulud are also arriving.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Practical: September in London
 

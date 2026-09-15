@@ -127,6 +127,8 @@ Two minutes from the British Museum, and on the Elizabeth, Northern and Central 
 
 **The one real limit is size.** Rooms stop at Cocoon 4, so a group of six or more has to go back to Piccadilly Circus. Early check-in is West End money here — £60 from 9am, £40 from noon.
 
+<div data-stay-strip></div>
+
 ### Zedwell Greenwich — the value one
 
 *£66–£145 a Cocoon 2 · Greenwich SE10 · Cutty Sark DLR · [check prices](hotel:zedwell-greenwich)*
@@ -265,6 +267,8 @@ The other £50 room in the estate, and a genuinely useful one: Victoria is the a
 *A room at the Z Hotel Victoria — this one has a window; the windowless Inside Double is £30 cheaper — and its ensuite bathroom.*
 
 There is no family grade at this branch. Two adults is the ceiling on every room type, so it is a couples-and-solos address rather than a family one.
+
+<div data-stay-strip></div>
 
 ### The Z Hotel Tottenham Court Road — where the window costs £5
 

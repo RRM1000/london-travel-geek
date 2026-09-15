@@ -84,6 +84,8 @@ Four things genuinely sell out. Everything else can wait.
 
 ---
 
+<div data-stay-strip></div>
+
 ## Planning rules
 
 These are the ones that hold a plan together when it meets reality.

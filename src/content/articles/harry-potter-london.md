@@ -168,7 +168,7 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 
 **House of MinaLima** — **157 Wardour Street, Soho, W1F 8WQ, open daily 11am-6.45pm including bank holidays.** Miraphora Mina and Eduardo Lima designed the graphics and printed props for the films — the newspapers, the sweet wrappers, the Marauder's Map — and this is their own gallery and shop. Licensed work rather than a Warner Bros. shop, though their sections appear inside the official stores in New York and Chicago. It is free, it takes twenty minutes, and it is the most genuinely interesting thing on this list. Two warnings from the house itself: the gallery is down a flight of stairs with no alternative access, and there is no toilet, no cloakroom and no eating or drinking inside. Older guides still print 26 Greek Street — that address is out of date.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Filming locations you can actually visit
 
@@ -196,6 +196,8 @@ The all-films version of this walk, with Bond, *Slow Horses* and the rest, is in
 **Great Scotland Yard is the honest disappointment.** The Ministry of Magic visitor entrance was filmed at the junction with Scotland Place, and the red telephone box was a prop, brought in for the shoot and taken away afterwards. There is a short street of offices and a hotel. The same goes for **Lambeth Bridge**, **Piccadilly Circus** and **Claremont Square** — real locations, nothing to mark them, and in Claremont Square's case a private residential terrace whose residents field this every weekend.
 
 **St Pancras is the underrated one.** The Gothic frontage everyone thinks is King's Cross is St Pancras next door, and the flying Ford Anglia lifts off outside it. It costs nothing, it is ninety seconds from the trolley, and it is better in person than on screen — the opposite of almost everything else here.
+
+<div data-stay-strip></div>
 
 ## Themed bars, teas and experiences
 
@@ -298,11 +300,14 @@ Day one as above without the theatre. Day two: Euston at 9am, Watford Junction, 
 
 > 📅 **Every price, address, opening time and policy on this page was checked against the operator's own website on 3 September 2026** — wbstudiotour.co.uk, the official Cursed Child site and Nimax box office, harrypottershop.co.uk, minalima.com and each venue's own pages. Prices move. Check before you book.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 
+- 🎸 **[The Beatles in London](/articles/beatles-london/)**
 - 🎬 **[London Filming Locations](/articles/london-filming-locations/)**
+- 🕵️ **[Sherlock Holmes in London](/articles/sherlock-holmes-london/)**
+- 💃 **[Bridgerton in London](/articles/bridgerton-london/)**
 - 🚂 **[King's Cross Area Guide](/articles/kings-cross-area-guide/)**
 - 🎭 **[London Theatre Guide](/articles/london-theatre-guide/)**
 - 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)**

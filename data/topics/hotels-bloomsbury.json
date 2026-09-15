@@ -1,0 +1,259 @@
+{
+  "topic": "hotels-bloomsbury",
+  "article": "src/content/articles/where-to-stay-bloomsbury.md",
+  "headTerm": "Where to Stay in Bloomsbury",
+  "note": "Built 15 Sep 2026 in worktree epic-kalam-db48d3. data/consensus/hotels-bloomsbury.json extended from 5 sources to 10 (see 'declined' array in that file for 5 more that were checked and rejected). node scripts/build-evidence.mjs run afterwards - see data/evidence.json, topic key 'hotels-bloomsbury'. This is a where-to-stay AREA GUIDE, not a ranked 'Best X' consensus guide, so the article carries no 'Cited by N sources' lines or numeric scores - the consensus/evidence work here is for choosing which hotels are actually backed by independent sources, per the consensus-guide skill's sourcing method, not for printing counts on the page.",
+  "scope": {
+    "area": "Bloomsbury, WC1 - bounded roughly by Euston Road (north), Southampton Row/Kingsway (east), New Oxford Street/Holborn (south) and Tottenham Court Road (west). Gower Street and Cartwright Gardens sit on the western edge, shading into Fitzrovia; Montague Street and Russell Square sit centrally; the Holborn/Bloomsbury boundary near the Hoxton and Rosewood is fuzzy and both guides already claim those hotels.",
+    "mustCover": "Every price tier the task specified: hostel/capsule beds, budget private rooms, mid-range, upmarket. Plus a short 'just outside' section (Fitzrovia, Holborn, a pointer to the King's Cross guide) - not a full second guide.",
+    "mustNotRepeat": "bloomsbury-area-guide.md's 'Where to stay' section (3 bullets, no hotel detail), the Bloomsbury paragraph in where-to-stay-kings-cross.md (Generator London + Zedwell TCR, written from a Eurostar-timing angle), and the Bloomsbury section in best-areas-to-stay-in-london.md (same two hotels, written from a citywide-comparison angle). This guide covers Generator and Zedwell too - they are genuinely the right hostel and windowless picks - but with fresh facts and prose, not the same sentences, and it is the page those two sections now link to for the full picture.",
+    "boundaryNotes": [
+      "Generator London's own site files the property under 'Generator London King's Cross' (staygenerator.com/hostels/london shows it grouped with 'London King's Cross', not a Bloomsbury heading) even though its address (37 Tavistock Place, WC1H 9SE) and every third-party source call it Bloomsbury. Worth a line - it is genuinely on the boundary.",
+      "Arosfa Hotel's own site puts its Gower Street address under 'Fitzrovia, London WC1E 6HJ' in its footer, while Top Tip London and EuroCheapo both call it Bloomsbury. Same boundary, opposite hotel.",
+      "Rosewood London and SACO Holborn (already in the sheet, guide: covent-garden-area-guide) sit on the Bloomsbury/Holborn line; not featured here to avoid double-claiming, but worth a 'just outside' mention with a link to the Covent Garden guide."
+    ]
+  },
+  "candidates": [
+    {
+      "name": "Generator London",
+      "evidenceKey": "generator london",
+      "sources": ["Time Out", "Santorini Dave", "EuroCheapo (as 'Generator Hostel London')"],
+      "postcode": "WC1H 9SE",
+      "station": "Russell Square (Piccadilly), about 8 min walk; King's Cross St Pancras about 10 min",
+      "walkMinutes": 8,
+      "hotelsComId": "259199",
+      "operatorUrl": "https://staygenerator.com/generator-properties/generator-london",
+      "sellsOn": "hotels.com",
+      "inSheet": true,
+      "sheetSlug": "generator-london",
+      "articleLink": "hotel:generator-london"
+    },
+    {
+      "name": "Mentone Hotel",
+      "evidenceKey": "mentone hotel",
+      "sources": ["Time Out", "EuroCheapo", "Mumsnet (cross-topic, hotels-budget corpus)"],
+      "postcode": "WC1H 9EL",
+      "station": "King's Cross St Pancras, about 8 min walk (operator says '5 minutes' from King's Cross, Russell Square and Euston on the Piccadilly line - that line claim is imprecise, so I used a conservative independent estimate instead)",
+      "walkMinutes": 8,
+      "hotelsComId": null,
+      "operatorUrl": "https://www.mentonehotel.com/",
+      "sellsOn": "own site (Hotels.com not confirmed - search tooling failed this session, see openQuestions)",
+      "inSheet": false,
+      "articleLink": "https://www.mentonehotel.com/"
+    },
+    {
+      "name": "Ridgemount Hotel",
+      "evidenceKey": "ridgemount hotel",
+      "sources": ["toptiplondon.com", "EuroCheapo", "London Travel Planning (cross-topic)"],
+      "postcode": "WC1E 6HJ",
+      "station": "Euston Square, 5 min walk (operator's own directions); Goodge Street also close",
+      "walkMinutes": 5,
+      "hotelsComId": null,
+      "operatorUrl": "https://www.ridgemounthotel.co.uk/",
+      "sellsOn": "own site (Hotels.com not confirmed)",
+      "inSheet": false,
+      "articleLink": "https://www.ridgemounthotel.co.uk/"
+    },
+    {
+      "name": "Celtic Hotel",
+      "evidenceKey": "celtic hotel",
+      "sources": ["EuroCheapo"],
+      "postcode": "WC1N 1DD",
+      "station": "Russell Square, under 1 min walk (operator's own claim)",
+      "walkMinutes": 1,
+      "hotelsComId": null,
+      "operatorUrl": "https://www.celtichotel.com/",
+      "sellsOn": "own site (Hotels.com not confirmed)",
+      "inSheet": false,
+      "articleLink": "https://www.celtichotel.com/",
+      "note": "Brief cross-reference mention only, not a full entry - one source (EuroCheapo) plus operator site."
+    },
+    {
+      "name": "Arosfa Hotel (by Compass Hospitality)",
+      "evidenceKey": "arosfa hotel",
+      "sources": ["toptiplondon.com", "EuroCheapo", "Love and London (cross-topic, hotels-budget corpus)"],
+      "postcode": "WC1E 6HJ",
+      "station": "Euston Square / Warren Street / Goodge Street, all within walking distance per operator",
+      "walkMinutes": null,
+      "hotelsComId": null,
+      "operatorUrl": "https://arosfalondon.com/",
+      "sellsOn": "own site (Hotels.com not confirmed; Compass Hospitality is a multi-city chain so plausible but unverified)",
+      "inSheet": false,
+      "articleLink": "https://arosfalondon.com/",
+      "note": "Brief cross-reference mention only."
+    },
+    {
+      "name": "St Athans Hotel",
+      "evidenceKey": "st athans hotel",
+      "sources": ["EuroCheapo", "London Toolkit + Lost in Landmarks (cross-topic, hotels-budget corpus)"],
+      "postcode": "WC1H 9RE",
+      "station": "Russell Square, about 4 min walk (operator's own claim)",
+      "walkMinutes": 4,
+      "hotelsComId": null,
+      "operatorUrl": "https://www.stathanshotel.com/",
+      "sellsOn": "own site (Hotels.com not confirmed)",
+      "inSheet": false,
+      "articleLink": "https://www.stathanshotel.com/",
+      "note": "Brief cross-reference mention only. Markets itself as eco-friendly and pet-friendly."
+    },
+    {
+      "name": "Zedwell Tottenham Court Road",
+      "evidenceKey": "zedwell tottenham court road",
+      "sources": ["Already well-attested pre-existing sheet entry; not separately re-sourced by name in the Bloomsbury consensus pass, see boundaryNotes"],
+      "postcode": "WC1B 3NQ",
+      "station": "Tottenham Court Road, 3 min walk (operator's own claim, confirmed 15 Sep 2026)",
+      "walkMinutes": 3,
+      "hotelsComId": "2866214144",
+      "operatorUrl": "https://zedwellhotels.com/locations/london/tottenham-court-road/tottenham-court-road-hotel/",
+      "sellsOn": "hotels.com",
+      "inSheet": true,
+      "sheetSlug": "zedwell-tottenham-court-road",
+      "articleLink": "hotel:zedwell-tottenham-court-road"
+    },
+    {
+      "name": "Morgan Hotel",
+      "evidenceKey": "morgan hotel",
+      "sources": ["Santorini Dave", "londoninfoguide.com (flagged weak, see sheet opNote)"],
+      "postcode": "WC1B 3QJ",
+      "station": "Goodge Street or Tottenham Court Road, both a short walk; operator does not publish a walk time",
+      "walkMinutes": null,
+      "hotelsComId": null,
+      "operatorUrl": "https://morganhotel.co.uk/",
+      "sellsOn": "unconfirmed - already in sheet with no hotelsUrl; own site used pending Rob's check",
+      "inSheet": true,
+      "sheetSlug": "morgan-hotel-bloomsbury",
+      "articleLink": "hotel:morgan-hotel-bloomsbury"
+    },
+    {
+      "name": "The Bloomsbury Hotel",
+      "evidenceKey": "the bloomsbury hotel",
+      "sources": ["Time Out", "Santorini Dave", "allaroundlondon.com", "Reddit r/travel (genius4evil1 review)"],
+      "postcode": "WC1B 3NN",
+      "station": "Tottenham Court Road / Holborn, both about 8-10 min walk",
+      "walkMinutes": 9,
+      "hotelsComId": null,
+      "operatorUrl": "https://www.doylecollection.com/hotels/the-bloomsbury-hotel",
+      "sellsOn": "unconfirmed - already in sheet with no hotelsUrl; own site used pending Rob's check",
+      "inSheet": true,
+      "sheetSlug": "the-bloomsbury-hotel",
+      "articleLink": "hotel:the-bloomsbury-hotel"
+    },
+    {
+      "name": "Kimpton Fitzroy London",
+      "evidenceKey": "kimpton fitzroy london",
+      "sources": ["Santorini Dave (in-topic); The Handbook, Time Out, Conde Nast Traveller and others cross-topic - 7 domains total across all corpora, see data/evidence.json"],
+      "postcode": "WC1B 5BE",
+      "station": "Russell Square, on the same square; under 2 min walk",
+      "walkMinutes": 2,
+      "hotelsComId": null,
+      "operatorUrl": "https://www.kimptonfitzroylondon.com/",
+      "sellsOn": "unconfirmed - already in sheet with no hotelsUrl; own site used pending Rob's check",
+      "inSheet": true,
+      "sheetSlug": "kimpton-fitzroy-london",
+      "articleLink": "hotel:kimpton-fitzroy-london"
+    },
+    {
+      "name": "The Imperial",
+      "evidenceKey": "imperial hotel",
+      "sources": ["Time Out (as 'Imperial Hotel', pre-relaunch description - now stale, see note)"],
+      "postcode": "WC1B 5BB",
+      "station": "Russell Square, on the square; under 2 min walk",
+      "walkMinutes": 2,
+      "hotelsComId": null,
+      "operatorUrl": "https://www.imperialhotels.co.uk/hotels/the-imperial/",
+      "sellsOn": "own site (Hotels.com not confirmed; the relaunch is very recent so third-party listings may not have caught up)",
+      "inSheet": false,
+      "articleLink": "https://www.imperialhotels.co.uk/hotels/the-imperial/",
+      "note": "MAJOR FRESH FACT: the operator's own site (checked 15 Sep 2026) shows a complete relaunch - 'This year, we begin our Third Chapter... reimagined for modern travellers... mid-century modern design', 357 rooms, new room grades (Access/Urban/Edge/Bay/City/Hideaway/Horizon/Beacon/Nest), a 10th-floor rooftop bar (Arcus) and Edit Bar & Lounge. Every existing source (Time Out, Santorini Dave-adjacent guides) describes the OLD three-star Imperial with patterned carpets - that description is now out of date. Not in the Hotels sheet; added here as a new candidate because the story is too current and too Bloomsbury-specific to leave out. Part of the Imperial London Hotels group, which also runs Bedford Hotel, Morton Hotel, Royal National Hotel, President Hotel, City Sleeper and Tavistock Hotel on/around Russell Square - Tavistock Hotel is EuroCheapo's #10 budget pick, so the group spans hostel-adjacent to redesigned-upmarket."
+    },
+    {
+      "name": "Montague on the Gardens",
+      "evidenceKey": "montague on the gardens",
+      "sources": ["Time Out", "Santorini Dave", "allaroundlondon.com", "londoninfoguide.com (weak)"],
+      "postcode": "WC1B 5BJ",
+      "station": "Russell Square, about 3 min walk",
+      "walkMinutes": 3,
+      "hotelsComId": null,
+      "operatorUrl": "https://www.montaguehotel.com/",
+      "sellsOn": "unconfirmed - already in sheet with no hotelsUrl",
+      "inSheet": true,
+      "sheetSlug": "montague-on-the-gardens",
+      "articleLink": "hotel:montague-on-the-gardens",
+      "note": "Brief cross-reference mention only in the article (not a full entry) - strongest in-topic evidence of any upmarket pick (4 domains) but three full upmarket entries (Bloomsbury Hotel, Kimpton, Imperial) was judged enough detail; this one gets a line."
+    },
+    {
+      "name": "The Zetter Bloomsbury",
+      "evidenceKey": "the zetter bloomsbury",
+      "sources": ["No independent source named it in this pass - very new (opened April 2026). Operator site confirmed trading 15 Sep 2026."],
+      "postcode": "WC1B 5BP",
+      "station": "Russell Square 6 min walk, Holborn 9 min walk (both stated on operator's own FAQ)",
+      "walkMinutes": 6,
+      "hotelsComId": null,
+      "operatorUrl": "https://thezetter.com/bloomsbury/",
+      "sellsOn": "unconfirmed - already in sheet with no hotelsUrl",
+      "inSheet": true,
+      "sheetSlug": "the-zetter-bloomsbury",
+      "articleLink": "hotel:the-zetter-bloomsbury",
+      "note": "Brief cross-reference mention only - no independent source evidence yet, too new. 68 rooms across six Georgian townhouses, confirmed from operator site."
+    },
+    {
+      "name": "The Hoxton, Holborn",
+      "evidenceKey": "the hoxton holborn",
+      "sources": ["Time Out (in-topic); Conde Nast Traveller and others cross-topic under hotels-budget"],
+      "postcode": "WC1V 7BD",
+      "station": "Holborn, 2 min walk (operator's own claim)",
+      "walkMinutes": 2,
+      "hotelsComId": null,
+      "operatorUrl": "https://thehoxton.com/london/holborn/",
+      "sellsOn": "unconfirmed - already in sheet with no hotelsUrl",
+      "inSheet": true,
+      "sheetSlug": "the-hoxton-holborn",
+      "articleLink": "hotel:the-hoxton-holborn",
+      "note": "Brief cross-reference mention only - sits right on the Bloomsbury/Holborn line and already gets fuller treatment as a candidate in other guides."
+    },
+    {
+      "name": "Bertrand's Townhouse",
+      "evidenceKey": "bertrands townhouse",
+      "sources": ["Conde Nast Traveller (UK+US editions, one writer - counts once); londoninfoguide.com (weak) - flagged thin in the sheet's own opNote"],
+      "postcode": "WC1B 5JD",
+      "station": "Russell Square, about 3 min walk",
+      "walkMinutes": 3,
+      "hotelsComId": null,
+      "operatorUrl": "https://www.bertrandstownhouse.co.uk/",
+      "sellsOn": "unconfirmed - already in sheet with no hotelsUrl",
+      "inSheet": true,
+      "sheetSlug": "bertrands-townhouse",
+      "articleLink": "hotel:bertrands-townhouse",
+      "note": "Brief cross-reference mention only, evidence already flagged thin. Its own site repeats the unverified 'Times 50 Best Places to Stay' claim - not used in the article."
+    }
+  ],
+  "droppedCandidates": [
+    {
+      "name": "George Hotel (58-60 Cartwright Gardens)",
+      "reason": "Named by toptiplondon.com and EuroCheapo (2 domains, real Bloomsbury consensus). But georgehotel.co.uk and georgehotel.com both resolve to an unrelated independent hotel in Norwich, Norfolk - a domain-guess false positive. Could not find the real Cartwright Gardens operator's site this session (search tooling was down - see openQuestions). Dropped rather than guess or link the wrong hotel."
+    },
+    {
+      "name": "YMCA Indian Student Hostel",
+      "reason": "EuroCheapo's #1 ranked budget pick, 41 Fitzroy Square - but that address is in Fitzrovia, not Bloomsbury (over the Tottenham Court Road line), and its own site (indianymca.co.uk) is a JavaScript shell that returned no content to curl. Left out rather than guess at current room types/prices; worth a look with a real browser render if Rob wants it added later."
+    },
+    {
+      "name": "Tavistock Hotel",
+      "reason": "EuroCheapo's #10 ranked pick, part of the Imperial London Hotels group (see The Imperial candidate above). Not featured separately to avoid two entries from one group in an already-full budget/upmarket spread; mentioned in passing under The Imperial instead."
+    },
+    {
+      "name": "Radisson Blu Edwardian Mercer Street",
+      "reason": "Named by allaroundlondon.com under scope hotels-bloomsbury, but Mercer Street is in Covent Garden/Seven Dials, a good 15+ minute walk from the British Museum - likely either a source error or confusion with a different Radisson Blu Edwardian property (there may be a 'Bloomsbury Street' one). Not resolved silently; flagged as an open venue-identity question below rather than merged or guessed."
+    }
+  ],
+  "openQuestions": [
+    "Hotels.com distribution is UNCONFIRMED for every hotel above except Generator London and Zedwell Tottenham Court Road, which already carry hotelsUrl in the sheet. The task's specified lookup route (uk.hotels.com typeahead via the in-app browser) was withdrawn mid-session by the coordinator over concerns about per-site approval prompts; the fallback routes given (Bing RSS site: search, DuckDuckGo lite) both returned unrelated junk on every query tried (confirmed with repeated tests - Bing RSS degraded to results about Windows help and gutter cleaning, DuckDuckGo lite returned its bot-check page every time). The article links every candidate not in the Hotels sheet to its own official website rather than guess a hotelscom: id. Rob: worth a browser pass to fill in hotelsComId for Mentone, Ridgemount, Celtic, Arosfa, St Athans, The Imperial, Morgan Hotel, The Bloomsbury Hotel, Kimpton Fitzroy London, Montague on the Gardens, The Zetter Bloomsbury, The Hoxton Holborn and Bertrand's Townhouse - or run scripts/find-hotels-com-urls.mjs / resolve-hotels-com-urls.mjs / apply-hotels-com-urls.mjs, which already exist for this.",
+    "The real website for the Cartwright Gardens 'George Hotel' (58-60 Cartwright Gardens) was not found - see droppedCandidates. Worth a browser search if Rob wants it in a future pass.",
+    "Radisson Blu Edwardian Mercer Street vs a possible 'Bloomsbury Street' Radisson property - see droppedCandidates. Not resolved.",
+    "Ridgemount Hotel: is breakfast included in the room rate, or charged separately? The homepage describes what is served (full English, tea/coffee/hot chocolate, cereals, toast) but never states whether it is complimentary. Not stated in the article either way.",
+    "The Imperial: no entry-room size or price floor is published on the relaunched site's overview pages (only the 57 sqm Beacon suite has a stated size). If Rob prices it on sampled nights, worth checking whether a room-size page exists elsewhere on the site.",
+    "YMCA Indian Student Hostel (41 Fitzroy Square) is arguably Fitzrovia rather than Bloomsbury and its site would not render for curl - see droppedCandidates. Could be worth a browser check for a future Fitzrovia guide instead."
+  ],
+  "knownGaps": [
+    "No tier-D (video) source could be confirmed for Bloomsbury hotels specifically - see the 'declined' and 'videoGap' entries in data/consensus/hotels-bloomsbury.json. Every video that named Bloomsbury hotels by title (TravelSpotter, two near-identical 'UK Hotel Gems'/'UK Hotel Discoveries' channels, TripHunter) showed content-mill signals on inspection (affiliate-cloaked links, a name/link mismatch, templated formats, sub-200 view counts). Tiers B, C and E meet the source-mix floor without it."
+  ]
+}

@@ -60,6 +60,8 @@ Inside, that still buys plenty. **NEON**, a purpose-built exhibition space in Ci
 
 Battersea Power Station station is on the Northern line's Charing Cross branch, a few minutes from Nine Elms and about fifteen from Tottenham Court Road.
 
+<div data-stay-strip></div>
+
 ### Canary Wharf
 
 Canary Wharf makes the strongest case of anywhere in this guide, because the shelter here is a network rather than a single building. **Canada Place, Cabot Place and Jubilee Place** are underground shopping malls that connect most of the estate to the Elizabeth line, the Jubilee line and the DLR without going outside at all — the single best piece of wet-weather infrastructure in London. Our [Canary Wharf area guide](/articles/canary-wharf-area-guide/#canada-square-and-the-malls) has the layout.
@@ -95,6 +97,8 @@ The Barbican is less a single venue than an area in its own right. A short fligh
 The **Conservatory**, around 1,500 species inside the old theatre's fly tower, is free but genuinely needs planning around: it opens on selected dates only, published up to a month ahead on [the Barbican's own booking page](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory), with a small batch of day tickets released online at 9.30am on the day itself for anyone who didn't book ahead.
 
 Barbican station is on the Circle, Hammersmith & City and Metropolitan lines; Moorgate, a few minutes further round the highwalks, adds the Northern line.
+
+<div data-stay-strip></div>
 
 ### The City
 
@@ -147,7 +151,7 @@ And if none of the above is covered enough: **BFI Southbank**'s Mediatheque lets
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-in-the-rain-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-in-the-rain-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

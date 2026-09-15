@@ -76,6 +76,8 @@ They are smaller than the stucco terraces elsewhere in Notting Hill because they
 
 The practical point is that they are **four minutes from a Central line station and almost empty**. Portobello Road is a fifteen-minute walk north and takes essentially all of the foot traffic. On a Friday afternoon in September there were two other people photographing here; the same afternoon on Lancaster Road there were about thirty.
 
+<div data-stay-strip></div>
+
 ### 1. Hillgate Place
 
 ![A pink house on Hillgate Place with white sash windows and a sage green front door](../../assets/articles/notting-hill-colourful-houses/hillgate-place-pink-house.jpg)
@@ -110,7 +112,7 @@ Ten minutes south-west of Hillgate Village and a different kind of colour: **Por
 
 Worth the detour mainly if you want somewhere to sit down. Clarendon Cross has a couple of cafes and the pace drops the moment you turn off Holland Park Avenue.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Then go north for the grand version
 
@@ -176,6 +178,8 @@ Three rules cover almost all of it:
 
 Some residents have painted their houses deliberately drab in response to the attention, which tells you how far this has gone.
 
+<div data-stay-strip></div>
+
 ## If you come in spring: the cherry blossom
 
 Notting Hill's blossom is genuinely good and almost all of the attention lands on one street.
@@ -194,7 +198,7 @@ Because there are others, and they are the reason this section is not just one s
 
 If you are chasing blossom rather than houses, the [parks and gardens guide](/articles/best-parks-gardens-london/) covers where else in London to find it, with room to stand.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and when to go
 

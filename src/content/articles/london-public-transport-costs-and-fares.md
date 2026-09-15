@@ -194,6 +194,8 @@ To mark ten years of the Hopper fare, TfL ran a **Weekend Hopper trial** between
 
 It's worth checking TfL nearer next summer — a trial that ran once may run again, but nothing has been announced. Read more in our [bus and tram guide](/articles/how-to-use-london-buses-and-trams/#the-weekend-hopper-trial-has-ended).
 
+<div data-stay-strip></div>
+
 ## National Rail and airport rail fares
 
 Suburban National Rail pricing inside London can be complex because train lines fall under two separate fare systems: **TfL Zonal Fares** (which count towards daily caps) and **National Rail Operator Fares** (which may carry custom rates or exclusions).
@@ -241,7 +243,7 @@ An adult **River Roamer 1-Day Hop-on Hop-off Pass** (unlimited river travel for 
 
 For pier maps, recommended scenic river routes, and commuter tips, read our [Complete Guide to London River Boats](/articles/how-to-use-london-river-boats/).
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## London Cable Car prices
 
@@ -302,6 +304,8 @@ Private hire vehicles must be pre-booked through a licensed operator or app. Unl
 
 ---
 
+<div data-stay-strip></div>
+
 ## Top 10 money-saving transport tips for London
 
 1. **Always use contactless or an Oyster card:** Paper single tickets are a heavy tourist tax. Tapping in and out automatically calculates the cheapest fare.
@@ -337,7 +341,7 @@ London offers exceptionally generous discounts for families travelling with chil
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Penalty fares and incomplete journeys
 

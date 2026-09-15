@@ -224,7 +224,7 @@ Two identical murals of children lying on their backs, one pointing upward, wide
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-shoreditch-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Shoreditch street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-tower-bridge-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower Bridge tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where street art actually lives
 
@@ -285,6 +285,8 @@ The **Stables Market** walls and the canal bridges either side of Camden Lock, p
 **Come on a weekday morning** if you want to photograph anything, or arrive by canal — the towpath from Little Venice takes about an hour and puts you in beside the lock.
 
 ---
+
+<div data-stay-strip></div>
 
 ### Brixton
 
@@ -350,7 +352,7 @@ Dozens of murals along and around the high street, coordinated locally over seve
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Seeing Banksy indoors
 
@@ -400,6 +402,8 @@ The permanent one. Moco is a private modern-art museum with sister sites in Amst
 
 **Open every day, 10am to 7pm**, which makes it the more reliable of the two private collections — no closing date, no residency to run out. Marble Arch is the nearest station.
 
+<div data-stay-strip></div>
+
 ### The gift shops
 
 **Both private collections have one, and they are the realistic souvenir answer.** Moco's shop is a substantial part of the visit rather than a rack by the exit, and The Art of Banksy sells prints and merchandise alongside the exhibition. Neither sells original Banksy work — for that, see **Where to buy it** below — but a poster from either costs a fraction of a Di-Faced Tenner and is honestly labelled as what it is.
@@ -447,8 +451,6 @@ There are two completely separate markets here and they have almost nothing to d
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-tower-bridge-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower Bridge tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## What it costs
 
 **Nothing.** This is the most genuinely free thing to do in London, and one of the very few that changes week to week.
@@ -461,6 +463,8 @@ There are two completely separate markets here and they have almost nothing to d
 * **Nothing here is permanent.** Everything in this guide was checked in August 2026 and a piece can go the week after publication, which is the nature of the form rather than a flaw in it.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-street-art-shoreditch-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Shoreditch street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The best Banksy route
 

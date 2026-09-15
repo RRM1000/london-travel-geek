@@ -92,6 +92,8 @@ Dayuse's filter bar lets you set **time of arrival**, **time of departure** and 
 
 **The late flight.** You checked out at 10am and fly at 10pm. Evening windows exist for exactly this — 4pm–10pm at Novotel London West and the Atrium, 4pm–11pm at DoubleTree Kingston, 3pm–9pm at Holiday Inn Express ExCeL, 2pm–8pm at the Wesley.
 
+<div data-stay-strip></div>
+
 ## Heathrow and Gatwick work differently
 
 **Heathrow has no cabin hotel.** The YOTELAIR that used to sit in Terminal 4 is gone — YOTEL's UK estate is now Gatwick, London City, Stratford, Edinburgh and Manchester, and none of those is at Heathrow. So day use there runs through the ordinary hotels on Bath Road and around the terminals:

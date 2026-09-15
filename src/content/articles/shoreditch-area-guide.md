@@ -236,7 +236,7 @@ Our full route for this area: **eleven numbered stops** over 2.6km, with a map, 
 5. **Spitalfields:** South to **Old Spitalfields Market** and the Georgian streets around Fournier Street.
 6. **Finish:** A salt beef bagel at **Beigel Bake**, or a drink at The Ten Bells.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-area-guide-brick-lane-curry-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Brick Lane curry tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-area-guide-tower-bridge-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower Bridge tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

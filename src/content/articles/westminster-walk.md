@@ -181,6 +181,8 @@ Out of the Clive Steps, across Horse Guards Road, and into the oldest of the Roy
 
 **St James's Café** sits by the lake and opens **8am to 6.30pm, seven days a week**. It is the mid-route lunch stop and it is the only one on this walk that never has a day-of-the-week problem.
 
+<div data-stay-strip></div>
+
 ## 8. Buckingham Palace
 
 ![Mounted Household Cavalry troopers in red tunics and plumed helmets riding past Buckingham Palace's gates](../../assets/articles/westminster-walk/changing-the-guard.jpg)
@@ -234,7 +236,7 @@ Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which 
 
 **Straight across Whitehall is the Banqueting House**, the only surviving fragment of the old Whitehall Palace, with a Rubens ceiling painted for Charles I and the site of his execution in 1649 outside it. **It is barely open any more.** Historic Royal Palaces runs a summer season, **1 August to 20 September 2026**, and after that the only dates open to the general public are **Sunday 1 November and Sunday 20 December**. When it does open it is **£10 adult and free for children aged 5 to 15**, and pre-booking is recommended. Check the [Banqueting House visiting page](https://www.hrp.org.uk/banqueting-house/visit/) before you count on it — the rest of the year the building is given over to schools, community partners and private events.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 11. Trafalgar Square and the National Gallery
 
@@ -274,6 +276,8 @@ The area guide is blunt about this and it is right: **the restaurants immediatel
 
 If you have a Churchill War Rooms ticket, its café runs **10am to 5pm daily** and is inside the security line, so it only works if you are going in anyway. For the sit-down restaurants — the Cinnamon Club, the Regency Cafe, the Whitehall pubs — the [area guide covers them](/articles/westminster-area-guide/#where-to-eat-and-drink).
 
+<div data-stay-strip></div>
+
 ## The best day to go
 
 **Monday, Wednesday or Friday**, and it is not close. Those are the only days the guard changes rather than being looked at.
@@ -300,7 +304,7 @@ If you have a Churchill War Rooms ticket, its café runs **10am to 5pm daily** a
 - **Ceremony first, on a Mon, Wed or Fri.** Be at Horse Guards Parade for 11, watch the change, then start the walk at stop one and do it in order. It is the only way to get both the ceremony and the interiors.
 - **1pm.** Nine stops in three hours puts you at Horse Guards for the **4pm dismounted inspection**, which runs every day of the week. The trade is that the Abbey will have closed — it shuts at 3.30pm on weekdays and 3pm on Saturday.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

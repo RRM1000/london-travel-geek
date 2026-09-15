@@ -87,7 +87,7 @@ The other constraint is capacity, not restriction: Car Park 1 is a single car pa
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to actually park
 
@@ -145,6 +145,8 @@ Booked online, a one-way adult ticket starts at **£7** and a round trip at **£
 
 > ⚠️ **It closes before most shows end.** Look at the hours again: Sunday to Thursday it shuts at 21:00, and even on Saturday — its latest night — it's closed by 23:00. A typical evening concert, comedy show or fight card finishes well inside that window on most nights of the week, which makes the cable car a good way to arrive early for a show with a river or Docklands detour, but not a realistic way to get home afterwards. It's step-free at both terminals, with lifts and boarding staff, though only single battery-powered wheelchairs up to 80cm wide can travel.
 
+<div data-stay-strip></div>
+
 ### The river
 
 **Uber Boat by Thames Clippers** calls at North Greenwich Pier, on the East zone of the river network (you'll need a Central & East ticket to reach central London piers like Embankment or Westminster). A single fare bought online is **£13.50**; pay as you go by contactless or Oyster is **£13.70 at peak times** (which, on this stretch, means practically every evening — off-peak on the river is weekdays before 09:27 only, and every weekend and bank holiday counts as peak all day). The crossing to Blackfriars takes about **44 minutes**.
@@ -180,7 +182,7 @@ The **188 runs 24 hours** to and from Waterloo, and the **N472** night route sta
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay, and why the peninsula is the trap on a big night
 
@@ -222,6 +224,8 @@ The **Design District**, a cluster of 16 low-rise studio buildings by eight diff
 **Outlet Shopping at The O2** wraps around the dome with over 60 discount and outlet stores, and keeps its own hours separate from the arena's — check its site directly if shopping is part of the plan, since it doesn't simply mirror event timings.
 
 ---
+
+<div data-stay-strip></div>
 
 ## Eating and drinking in the Entertainment District
 
@@ -267,7 +271,7 @@ The prohibited items list is broader than a simple bag-size rule: no weapons or 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Small print that catches people out
 

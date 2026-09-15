@@ -280,6 +280,31 @@ const impact = (linkTemplate, destination) =>
 const cj = (destination) =>
   CJ_PID ? `https://www.anrdoezrs.net/links/${CJ_PID}/type/dlg/${destination}` : "";
 
+// ===========================================================================
+// THE STAY STRIP: HOTELS.COM'S LONDON SEARCH, ON THE READER'S OWN DATES
+//
+// Rob, 15 September 2026: a small Hotels.com unit, a line or two tall, in a
+// couple of places on the page and under the tours card in the sidebar.
+//
+// It is a search, and this file refuses a search where the reader expects one
+// hotel. Here the reader is asking for every hotel in London on their dates,
+// and a results page is exactly that. Checked on 15 September 2026: with dates
+// the page opens on "494 Properties in London ... 10 October 2026 through 12
+// October 2026", and without them on Hotels.com's own default dates. CJ kept
+// the whole query string through both of its redirects.
+// ===========================================================================
+export const STAY_SEARCH_URL =
+  "https://uk.hotels.com/Hotel-Search?destination=London%2C%20England%2C%20United%20Kingdom&regionId=2114&rooms=1&adults=2";
+
+/** The CJ-tracked London search. The page script appends &startDate=…&endDate=… when dates are picked. */
+export const staySearchLink = () => cj(STAY_SEARCH_URL);
+
+// The guides whose readers are choosing a place to stay. Not food or SIM pages:
+// a hotel search beside a burger list reads as an ad break, not a service.
+export const STAY_STRIP_CATEGORIES = new Set([
+  "Things to do", "London areas", "Plan your trip", "Getting around London", "London itineraries",
+]);
+
 // brand key -> the programmes that can sell it, best first.
 export const HOTEL_PROGRAMMES = {
   "premier-inn": [

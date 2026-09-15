@@ -61,7 +61,7 @@ Start from what you actually want out of the evening rather than from a list of 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-theatre-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-theatre-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How to pay less
 
@@ -104,6 +104,8 @@ These are all real and all worth trying, but they take planning and none of them
 - **Twickets** — resale at face value or less, unlike the sites that charge multiples
 
 **Which shows run which scheme changes constantly**, so this is exactly the sort of thing to check on the day rather than plan around. Our theatre site tracks it: **[Cheap London Theatre Tickets](https://www.londontheatregeek.co.uk/guides/cheap-theatre-tickets)**.
+
+<div data-stay-strip></div>
 
 ### Where you sit is the other half of the price
 

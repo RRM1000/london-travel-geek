@@ -221,6 +221,7 @@ for (const f of fs.readdirSync("src/content/articles").filter((x) => /\.mdx?$/.t
       tourLinks: count(/getyourguide\.com\/[^"\s)]*-t\d+[^"\s)]*partner_id=/g),
       hotelLinks: count(/\]\((?:hotel|hotelscom):/g),
       partnerLinks: count(/\]\(partner:/g),
+      stayStrips: count(/<div data-stay-strip><\/div>/g),
     },
   });
 }
@@ -388,6 +389,7 @@ const moneyCounts = [
   [moneyTotal("dateWidgets"), `date widgets in ${moneyGuides("dateWidgets").length} guides`],
   [moneyTotal("tourLinks"), "tour links in the text"],
   [moneyTotal("hotelLinks"), "hotel links in the text"],
+  [moneyTotal("stayStrips"), `Hotels.com stay strips in ${moneyGuides("stayStrips").length} guides`],
   [moneyTotal("partnerLinks"), "eSIM links"],
 ];
 const affiliateGroups = (hand.affiliates?.groups ?? []).map((g) =>

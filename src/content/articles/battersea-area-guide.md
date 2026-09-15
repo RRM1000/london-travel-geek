@@ -123,6 +123,8 @@ The free heritage bits people miss: the **Power of Place** exhibition on Level 1
 
 **Electric Boulevard** is the pedestrian street running south, with its own Tube entrance since October 2025. Two Frank Gehry-designed buildings are still to come and **construction started in summer 2026**, so expect hoardings — roughly half the 42-acre site is still a building site.
 
+<div data-stay-strip></div>
+
 ### Circus West Village
 
 The **first phase**, opened before the Power Station itself and laid out along the railway arches beside the Grosvenor Bridge viaduct. It is the part that feels least like a shopping centre, and it is where most of the good eating is.
@@ -142,6 +144,8 @@ East towards Vauxhall, and the least finished part of the area. The **US Embassy
 The **"linear park"** that plans show running from here to Vauxhall is being built plot by plot and **is not finished**, so do not plan a green walk along it. The **Sky Pool** — the transparent pool slung between two towers at Embassy Gardens — is **residents only**, and not a sight.
 
 This is the largest regeneration zone in central London, 227 hectares of it, and it reads that way: worth walking through for the scale and the strangeness rather than for anything specific at the end.
+
+<div data-stay-strip></div>
 
 ### Battersea Park
 
@@ -213,7 +217,7 @@ South-west past the park, and the **actual old Battersea** — low-rise, unglamo
 5. **The boating lake:** Into the park proper for the Victorian layout.
 6. **Finish:** North over **Albert Bridge** into Chelsea, ideally at dusk when it is lit.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="battersea-area-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="battersea-area-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

@@ -292,7 +292,7 @@ The **egg-shaped lavatory pods** upstairs remain, and remain the second reason p
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-london-afternoon-tea-bus-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London afternoon tea bus tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Quieter, and better value
 
@@ -361,6 +361,8 @@ Traditional finger sandwiches, freshly baked scones and pastries, with a properl
 **From £85.** The location makes it the obvious stop if you are doing Kensington Palace or the museums the same day, and it books far less far ahead than the Mayfair rooms.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## With children
 
@@ -468,8 +470,6 @@ Neither will beat The Ritz or Claridge's on the tea itself. Both beat them comfo
 There is also **afternoon tea on the London Eye**: <a href="https://www.getyourguide.com/activity/-t1108107?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-london-eye" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">book it on GetYourGuide</a>.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

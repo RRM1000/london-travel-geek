@@ -83,6 +83,8 @@ It picks up at **Victoria, Marble Arch, Notting Hill Gate, Shepherd's Bush, Acto
 
 > 💡 **Who should take which.** Two adults on fixed times: the train, on Advance singles, for £36 each way or less. A family, or anyone whose day might run long: the coach, because £70 covers the lot and there is no last one to miss. Anyone flying in: neither — Oxford Bus Company's **airline** coach runs between Oxford and the Heathrow and Gatwick terminals, 24 hours a day, and skips London entirely.
 
+<div data-stay-strip></div>
+
 ### Driving, and why not to
 
 **Oxford has a temporary £5 daily congestion charge for cars**, at six signed locations, all year round including bank holidays. Electric cars are not exempt; vans and motorbikes pay nothing. You pay by midnight the day after. **It is replaced by the traffic filter trial on Monday 28 September 2026**, so the rules change shortly after this is published — check before you drive in.
@@ -90,8 +92,6 @@ It picks up at **Victoria, Marble Arch, Notting Hill Gate, Shepherd's Bush, Acto
 **Park and ride sidesteps all of it.** A **£3 combined ticket** buys up to 16 hours' parking for one car plus return bus travel for **up to five people of any age**, at Redbridge, Pear Tree, Seacourt, Thornhill and Oxford Parkway. Buy it at the machine or on RingGo, choosing the Parking & Bus option, and show it to the driver both ways. It runs to 31 March 2027 and is not valid on the airline or the Oxford Tube.
 
 Parking alone at Thornhill is free for the first hour and £2.50 up to 16 hours — so the combined ticket costs 50p more than parking and gets five people into town.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-oxford-cambridge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="234277,331461,146070"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Which day tours earn their place
 
@@ -134,6 +134,8 @@ Add Stratford and it costs money: <a href="https://www.getyourguide.com/activity
 > ⚠️ **An attraction in the title is often a paid extra.** The inclusions list is where it shows: <a href="https://www.getyourguide.com/activity/-t71373?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge and Oxford</a> has 5,879 reviews and reads "Entry to Windsor Castle (if option selected)" and "Entry to Stonehenge (if option selected)" — the £71 is a coach seat and a walking tour. <a href="https://www.getyourguide.com/activity/-t965?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford, Stratford, Cotswolds and Warwick</a> does it with Warwick Castle and Shakespeare's Birthplace, <a href="https://www.getyourguide.com/activity/-t18407?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford &amp; Cambridge Iconic Universities</a> with Christ Church and King's, and <a href="https://www.getyourguide.com/activity/-t2259?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Cotswolds and Blenheim Palace</a> with the palace itself. Where you want the entry, choose the option named "with Entrance Fees" and check the price against the gate — £22.95 for Christ Church, £12 for New College.
 
 *Tour prices, durations and inclusion lists read off each product page on 12 September 2026. GetYourGuide from-prices move, and several sit above the price in the search listing.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-oxford-cambridge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="234277,331461,146070"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The colleges: which charge, and what they shut
 
@@ -196,7 +198,7 @@ The other genuine location is the Bodleian's **Divinity School**, which the libr
 
 **Worcester no longer takes walk-in tourists at all.** Its own page limits tourist access to official tours led by an Oxford Guild of Tour Guides member, or to public events. Residents of OX1 and OX2, applicants and alumni still get in free, 12:30–16:00.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-cotswolds" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,593863"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What is free, and it is a lot
 

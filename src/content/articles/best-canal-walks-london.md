@@ -69,6 +69,8 @@ From there the canal runs east through **Maida Hill Tunnel**, which you cannot w
 
 ---
 
+<div data-stay-strip></div>
+
 ## Camden to King's Cross
 
 *About 1.5 miles · 35 minutes · gasholders and grain stores*
@@ -183,6 +185,8 @@ See our [Paddington guide](/articles/paddington-area-guide/).
 
 ---
 
+<div data-stay-strip></div>
+
 ## The two tunnels, and what to do about them
 
 Both have **no towpath**. This is the single most useful thing to know before setting out, and most guides do not mention it.
@@ -207,7 +211,7 @@ There is a third, **Eyre's Tunnel**, at just 53 yards near Lisson Grove — shor
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-canal-walks-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-canal-walks-london-zsl-london-zoo-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="ZSL London Zoo tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know before you go
 

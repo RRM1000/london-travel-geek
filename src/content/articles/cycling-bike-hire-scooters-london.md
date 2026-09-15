@@ -120,6 +120,8 @@ Rental e-scooters from an official government trial scheme are legal, and **Lond
 * With a **full licence from any other country** that lets you drive a small vehicle, you are fine **for 12 months** after entering the UK.
 * **An overseas provisional licence or learner permit is not accepted at all.**
 
+<div data-stay-strip></div>
+
 ### The riding rules
 
 * **Maximum 15.5mph**, and lower in some zones.
@@ -155,7 +157,7 @@ Central London traffic is not the whole picture. These are traffic-free or near 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

@@ -121,6 +121,8 @@ The spine, running north to Highbury Corner. Restaurants, bars, the Almeida and 
 ### Barnsbury and the garden squares
 West of Upper Street. Gibson Square, Lonsdale Square and Thornhill Square — quiet Georgian terraces almost nobody walks through.
 
+<div data-stay-strip></div>
+
 ### Highbury and the northern end
 Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential streets around the old Arsenal stadium site.
 
@@ -176,7 +178,7 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 5. **Highbury Corner:** North to **Highbury Fields** and the **Union Chapel**.
 6. **Finish:** Dinner on Upper Street, or the Overground east to Hackney.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-sadler-s-wells-dance-show" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sadler's Wells dance show"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-zsl-london-zoo-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="ZSL London Zoo tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

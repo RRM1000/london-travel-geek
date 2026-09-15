@@ -136,6 +136,8 @@ Some of the more surprising participants:
 
 ---
 
+<div data-stay-strip></div>
+
 ## Museums, department stores and shopping centres
 
 Every major free-entry museum in London has toilets open to any visitor — you don't need a ticket for a paid exhibition to use them, only to be inside the building:

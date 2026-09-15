@@ -163,6 +163,8 @@ The **boardwalk** runs along the dock edge with the best of the waterside restau
 
 *Open water swimming in Middle Dock. Sessions are lifeguarded and booked in advance.*
 
+<div data-stay-strip></div>
+
 ### Heron Quays and South Dock
 South, facing across the water towards Greenwich, and **the quietest part of the estate to walk** — dock edges, footbridges and very few people once the offices empty.
 
@@ -253,7 +255,7 @@ The route in from the west, finishing at the roof garden where the Greenwich wal
 4. **Wood Wharf:** East to the boardwalk and the water.
 5. **Finish:** DLR to **Island Gardens** and the **Greenwich Foot Tunnel**, or back on the Elizabeth line.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-emirates-air-line-cable-car-ticket" data-gyg-partner-id="WWP7I0R" data-gyg-q="Emirates Air Line cable car ticket"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

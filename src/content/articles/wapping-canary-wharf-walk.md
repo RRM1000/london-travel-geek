@@ -101,7 +101,7 @@ Inside is one narrow room running back from the bar to a small **riverside terra
 
 **The thing worth knowing is next door.** Wapping Old Stairs drop to the foreshore, and at low tide you can still see the post that condemned pirates were chained to, to drown as the tide came up over them. The notorious Judge Jeffreys was caught outside the pub in 1688, trying to leave the country disguised as a sailor.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 4. The Captain Kidd
 
@@ -122,6 +122,8 @@ It is a Samuel Smith's pub, so everything behind the bar is Samuel Smith's, the 
 **The quietest fifteen minutes in east London**, and the stretch that makes this a walk rather than a pub crawl. The canal was laid out in the 1980s along the line of the London Docks, so it goes nowhere and exists only to be walked beside.
 
 **Wapping Woods** runs alongside it, and **Tobacco Dock** faces the canal too — both are among the three detours below, if you want ten minutes under the trees or a proper look at the warehouse frontage rather than a glance in passing. The canal ends at **Shadwell Basin**, the last large piece of open dock water in Wapping.
+
+<div data-stay-strip></div>
 
 ## 6. The Prospect of Whitby
 
@@ -172,7 +174,7 @@ Two more places on the same stretch, in walking order:
 
 **Ropemakers Fields** is the small park behind the Grapes, with play areas and tennis courts. Cut through it to leave Narrow Street for the last leg.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 11. Into Canary Wharf
 
@@ -197,6 +199,8 @@ Three places worth five minutes each, none of them on the direct line.
 **The Yurt Café** is a café inside an actual Mongolian yurt, in the grounds of the Royal Foundation of St Katharine on Butcher Row — five minutes north of the river between stops 8 and 9, and **not** St Katharine Docks at stop 1. The charity has been on that site since 1950, opened the café in 2016 and runs it as a social enterprise: a full English, focaccias, soups and Mission Coffee Works espresso. **From April it also opens 5 to 8pm, Monday to Saturday**, with curry on Mondays, burgers on Tuesdays, pizza Wednesday to Saturday and live music on the outdoor stage on Thursdays. **Worth the five minutes if** you are walking with children, or you want the only cheap, non-pub meal on the route.
 
 ---
+
+<div data-stay-strip></div>
 
 ## Where to eat
 
@@ -229,7 +233,7 @@ For more, the area guides cover both ends: [Wapping](/articles/wapping-area-guid
 
 **On time of day:** **none of the four pubs opens before 11am, and only the Prospect of Whitby opens then.** The other three open at noon. Start at about 11.30 and you reach the Town of Ramsgate as it unlocks, the market at lunchtime and Narrow Street mid-afternoon.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

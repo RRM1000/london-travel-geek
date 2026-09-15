@@ -59,8 +59,20 @@
 // Every widget lands on the blank line before a top-level heading. A widget
 // dropped inside a table or a blockquote breaks the page, and headings are the
 // only reliably safe boundary.
+//
+// HOTELS.COM STAY STRIPS
+// Rob, 15 September 2026: a two-line Hotels.com search in a couple of places
+// on the guides whose readers are choosing somewhere to stay (the categories
+// in STAY_STRIP_CATEGORIES). This script owns them the way it owns the
+// activities widgets: lifted out and put back every run, as a bare
+// `<div data-stay-strip></div>` that remark-stay-strips.mjs expands at build.
+// One under 2,500 words and two above. They take the headings the widgets
+// leave, with the same 25% floor and a 10% gap rather than 12%, because a
+// strip is two lines, not a carousel. The widgets are placed first, so a strip
+// never costs a page a widget.
 import fs from "node:fs";
-import { readGeometry, slotPositions } from "./lib/rendered-geometry.mjs";
+import { readGeometry, slotPositions, subheadingPositions } from "./lib/rendered-geometry.mjs";
+import { STAY_STRIP_CATEGORIES } from "./lib/affiliate.mjs";
 
 const DIR = "src/content/articles";
 const dry = process.argv.includes("--dry");
@@ -95,7 +107,13 @@ const PLAN = JSON.parse(fs.readFileSync("data/gyg-queries.json", "utf8"));
 // every run — no churn in the diff.
 const seed = (s) => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
 
-/** The queries for one article, in slot order, with no repeats. */
+/** The queries for one article, in slot order, with no repeats.
+ *
+ * Slot 1 is the subject. Slots 2 and 3 are big sellers from the anchor pool:
+ * Rob, 15 September 2026, wanted the second widget selling the big products
+ * rather than the adjacent one, because that is where the basket value is. The
+ * adjacent product moves to slot 4, so the longest pages still show it.
+ */
 function queriesFor(slug, category, want) {
   const a = PLAN.articles[slug] ?? {};
   const group = a.anchorGroup ?? PLAN.defaultAnchorGroup[category] ?? "central";
@@ -103,17 +121,20 @@ function queriesFor(slug, category, want) {
 
   const out = [];
   const push = (q) => { if (q && !out.includes(q)) out.push(q); };
+  // The pool from the slug's own offset, so pages in one group don't all open
+  // on the same product. Anything the article names for a later slot is held
+  // back for that slot.
+  const rotated = pool.map((_, i) => pool[(seed(slug) + i) % pool.length]);
+  const reserved = [a.slot1, a.slot3, a.slot4, a.adjacent];
+  const nextAnchor = () => rotated.find((q) => !out.includes(q) && !reserved.includes(q));
 
   push(a.slot1);
-  push(a.slot2);
-  push(a.slot3);
-  push(a.slot4);
+  push(nextAnchor());
+  push(a.slot3 ?? nextAnchor());
+  push(a.slot4 ?? a.adjacent ?? nextAnchor());
 
-  // Fill any remaining slots from the anchor pool, starting at the slug's own
-  // offset and skipping anything already used on this page.
-  for (let i = 0; out.length < want && i < pool.length; i++) {
-    push(pool[(seed(slug) + i) % pool.length]);
-  }
+  // A short pool can leave gaps: fill them with anything not yet on the page.
+  for (let i = 0; out.length < want && i < rotated.length; i++) push(rotated[i]);
   return out.slice(0, want);
 }
 
@@ -143,6 +164,8 @@ const widget = (cmp, slot) => {
 // knew how to rebuild one, which it does not. Matching on data-gyg-widget
 // alone deleted four of them once; do not widen this again.
 const isWidget = (l) => l.includes('data-gyg-widget="activities"');
+const STRIP = "<div data-stay-strip></div>";
+const isStrip = (l) => l.trim() === STRIP;
 const qOf = (l) =>
   (l.match(/data-gyg-q="([^"]*)"/) || [])[1] ??
   (l.match(/data-gyg-tour-ids="([^"]*)"/) || [])[1] ?? "";
@@ -168,9 +191,11 @@ for (const file of fs.readdirSync(DIR).filter((f) => f.endsWith(".md"))) {
   // that followed it so removal does not leave a growing gap.
   const existing = [];
   const kept = [];
+  let stripsBefore = 0;
   for (let i = 0; i < lines.length; i++) {
-    if (isWidget(lines[i])) {
-      existing.push({ cmp: cmpOf(lines[i]), q: qOf(lines[i]), html: lines[i] });
+    if (isWidget(lines[i]) || isStrip(lines[i])) {
+      if (isStrip(lines[i])) stripsBefore++;
+      else existing.push({ cmp: cmpOf(lines[i]), q: qOf(lines[i]), html: lines[i] });
       if (lines[i + 1] === "") i++;
       continue;
     }
@@ -253,23 +278,65 @@ for (const file of fs.readdirSync(DIR).filter((f) => f.endsWith(".md"))) {
   // A page with too few usable headings gets fewer widgets, not crowded ones.
   while (plan.length > chosen.length) plan.pop();
 
+  // The stay strips, in the gaps the widgets left. See HOTELS.COM STAY STRIPS.
+  // Unlike a widget, a strip may also sit before a `### ` heading, between two
+  // entries of a list - except the first under its section heading, which
+  // would split the heading from its content. A list guide keeps its entries
+  // under ###, so without these a hotels guide had no place for a hotels strip.
+  const STRIP_GAP = 0.10;
+  const stripWant = STAY_STRIP_CATEGORIES.has(category) ? (words < 2500 ? 1 : 2) : 0;
+  const subHeads = [];
+  for (let i = fmEnd + 1; i < lines.length; i++) {
+    if (!/^### /.test(lines[i])) continue;
+    let p = i - 1;
+    while (p > fmEnd && lines[p].trim() === "") p--;
+    if (!/^#{1,6} /.test(lines[p])) subHeads.push(i);
+  }
+  const subSlots = measured
+    ? subheadingPositions(subHeads.map((h) => lines[h].replace(/^### /, "")), geometry)
+    : null;
+  const stripPctOf = (h) => {
+    if (heads.includes(h)) return pctOf(h);
+    if (!measured) return (h - fmEnd) / body;
+    const at = subSlots[subHeads.indexOf(h)];
+    return at === null ? null : at / geometry.total;
+  };
+  const strips = [];
+  for (const t of (stripWant === 1 ? [0.66] : [0.3, 0.76]).slice(0, stripWant)) {
+    const free = [...heads, ...subHeads].filter((h) => {
+      const p = stripPctOf(h);
+      return p !== null && !Number.isNaN(p) &&
+        p >= MIN_PCT &&
+        !chosen.includes(h) && !strips.includes(h) &&
+        chosen.every((c) => Math.abs(p - pctOf(c)) >= STRIP_GAP) &&
+        strips.every((c) => Math.abs(p - stripPctOf(c)) >= STRIP_GAP) &&
+        fixed.every((f) => Math.abs(p - f) >= STRIP_GAP);
+    });
+    if (!free.length) break;
+    strips.push(free.reduce((b, h) =>
+      Math.abs(stripPctOf(h) - t) < Math.abs(stripPctOf(b) - t) ? h : b, free[0]));
+  }
+
   const before = existing.length;
   const pcts = chosen.map((c) => Math.round(pctOf(c) * 100));
+  const stripPcts = strips.map((c) => Math.round(stripPctOf(c) * 100)).sort((a, b) => a - b);
   if (!measured) {
     rows.push(`  NOTE ${slug} — ${geometry ? "built page does not match the markdown, rebuild" : "no build in dist/"}; placed by markdown position`);
   }
 
   if (!reportOnly) {
-    // Insert bottom-up so earlier indices stay valid.
-    for (let k = chosen.length - 1; k >= 0; k--) {
-      const p = plan[k];
-      lines.splice(chosen[k], 0, widget(p.cmp, p.q), "");
-    }
+    // Insert bottom-up so earlier indices stay valid. A widget and a strip
+    // never share a heading - the gap rule keeps them apart.
+    const inserts = [
+      ...chosen.map((h, k) => ({ h, html: widget(plan[k].cmp, plan[k].q) })),
+      ...strips.map((h) => ({ h, html: STRIP })),
+    ].sort((a, b) => b.h - a.h);
+    for (const { h, html } of inserts) lines.splice(h, 0, html, "");
     if (!dry) fs.writeFileSync(path, lines.join(eol));
   }
 
   moved++;
-  rows.push(`  ${before}→${chosen.length}  ${String(words).padStart(6)}w  ${JSON.stringify(pcts).padEnd(22)} ${slug}`);
+  rows.push(`  ${before}→${chosen.length}  ${String(words).padStart(6)}w  ${JSON.stringify(pcts).padEnd(22)} stay ${stripsBefore}→${strips.length} ${JSON.stringify(stripPcts).padEnd(10)} ${slug}`);
 }
 
 console.log(rows.join("\n"));

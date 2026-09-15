@@ -206,6 +206,8 @@ Manage your expectations. It is now surrounded by buildings four times its heigh
 
 > ⚠️ **It shuts for an hour at lunchtime**, 1pm to 2pm, with last entries at 12.30pm and 5.30pm. That catches people out more than the steps do. There is **no lift** and 311 spiral steps, and the site says plainly it is not suitable for anyone with mobility difficulties. There is no joint ticket with Tower Bridge, whatever you may have read.
 
+<div data-stay-strip></div>
+
 ### St Paul's Cathedral, Golden Gallery
 
 *£27 adult · 528 steps · Mon–Sat, last entry around 4pm*
@@ -392,7 +394,7 @@ Being an ordinary public pavement is the point. There is no gate, no dusk closin
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-sky-garden-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sky Garden London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Bridges and the river
 
@@ -552,7 +554,7 @@ The other two sites are **133A Rye Lane, Peckham SE15 4BQ** and **Manette Street
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-sky-garden-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sky Garden London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

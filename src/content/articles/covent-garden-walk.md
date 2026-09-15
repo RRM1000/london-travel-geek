@@ -179,6 +179,8 @@ Behind it at **1 Mercer Walk** is the **Guinness Open Gate Brewery**, a working 
 
 > 💡 **This is the last easy exit before the crowds.** From here on the walk is inside the busiest few hundred square metres in central London. If you want a drink somewhere calm first, this is the place to have it.
 
+<div data-stay-strip></div>
+
 ## 7. St Paul's, the Actors' Church
 
 Come down Garrick Street and Bedford Street and go into the church from the west, through the garden, rather than arriving at the portico from the Piazza. It is a better introduction and it is how the building actually works.
@@ -221,7 +223,7 @@ The building's listed status also bans wind and brass instruments, electric guit
 
 > 💡 **Getting in with a wheelchair or a pushchair:** the smoothest way into the Market Building is from **Russell Street**, where there are ramps, or the bottom of **James Street**. That is the estate's own advice, and the cobbles everywhere else are a listed feature, so they are not going to improve.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 9. The Royal Opera House
 
@@ -262,6 +264,8 @@ The **Courtauld Gallery**, a separate institution inside the building, opens **1
 It is also the handover point to another walk. **Waterloo Bridge is immediately east**, and crossing it puts you on the [South Bank route](/articles/south-bank-walk/) at roughly its halfway mark.
 
 ---
+
+<div data-stay-strip></div>
 
 ## The detours: Rose Street and Drury Lane
 
@@ -312,7 +316,7 @@ Almost nothing here has a weekday-only problem. The Piazza never closes, the mar
 
 **On time of day:** start at 10am and you get Seven Dials and Neal's Yard before the coach parties, reach the Piazza as the performers hit their stride and arrive at the Transport Museum in the afternoon, which is when the museum itself says it is quietest. Start at 9am on a Sunday and Neal's Yard is empty and photographable, which it is at no other time.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

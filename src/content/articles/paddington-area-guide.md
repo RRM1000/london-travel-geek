@@ -130,6 +130,8 @@ The hotel strip, running east and south from the station front. Functional rathe
 
 **Do not plan to eat here.** The strip is chain sandwich shops and hotel bars. Bayswater is five minutes south-west and Little Venice ten minutes north, and both are better in every respect.
 
+<div data-stay-strip></div>
+
 ### Bayswater and Queensway
 
 South-west of the station, and the best-value eating anywhere near Paddington. A dense, genuinely diverse restaurant quarter — Cantonese, Lebanese, Persian, Greek and Malaysian within a few streets of each other — serving the neighbourhood rather than the station.
@@ -189,7 +191,7 @@ South-west of the station, and the best-value eating anywhere near Paddington. A
 4. **Expecting Little Venice to be near the station.** It is a 10–12 minute walk north, or one stop on the Bakerloo line to Warwick Avenue.
 5. **Judging the area by Praed Street.** The canal quarter a few minutes north is a completely different place.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paddington-area-guide-paddington-bear-london-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Paddington Bear London tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paddington-area-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

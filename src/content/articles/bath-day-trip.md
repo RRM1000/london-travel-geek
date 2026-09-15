@@ -154,6 +154,8 @@ This is the reason to come, and its pricing moves on two axes at once: the day o
 
 **Two practical rules people hit at the door:** there is a threat-detection screening and possible bag search on the way in, and **backpacks over 30 litres and wheeled luggage are not allowed on site, with no storage available.**
 
+<div data-stay-strip></div>
+
 ## Thermae Bath Spa
 
 Bath is the only city in Britain with naturally hot springs you can actually get into, and the rooftop pool is where you do it.
@@ -181,7 +183,7 @@ Most Stonehenge trips from London bundle Bath in, which is the other way round t
 
 **The Cotswolds is the other standing pairing**, sold as a £119 coach day or a £154 small group with Stonehenge added, and nothing in those villages charges admission, so there is no hidden ticket waiting in Bourton-on-the-Water. It is also the one pairing with a thread running between the two ends: Bath is the southern terminus of the **Cotswold Way**, 102 miles down from Chipping Campden. Which villages you can reach by train and bus rather than coach is in [the Cotswolds from London](/articles/cotswolds-day-trip/) — the short answer is Moreton-in-Marsh, Stow and Bourton, and not Castle Combe, which is twelve miles from here and belongs to a Bath day instead.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-cotswolds" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="215430,795342,593863"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The rest of the day
 
@@ -229,6 +231,8 @@ Free for Discovery Card holders and BA1 and BA2 residents with proof of address;
 
 Hours move with the season: 09:45–18:00 daily from 1 July to 21 September, 10:00–17:30 daily from 22 September to 2 November, then 10:00–16:30 Sunday to Friday and 10:00–17:30 on Saturdays through the winter. **Last entry is one hour before closing.**
 
+<div data-stay-strip></div>
+
 ### Two free museums, and one that is shut
 
 **The Bath World Heritage Centre is free and open daily 10:00–17:00**, closed only on 25 and 26 December. Interactive displays on the hot springs, the Roman remains and the Georgian town planning, plus walking trails and guides to take away — a sensible twenty minutes before or after the Baths.
@@ -271,7 +275,7 @@ Less than anywhere else worth visiting this far from London, and none of the hea
 
 > ⚠️ **Sundays are a different railway on this route.** After the 22:41 the next service takes **6 hours 54 minutes** with a change, arriving 06:29 — so the last Sunday direct is a hard deadline, not a soft one. Sunday mornings are affected too: on the three Sundays we checked, departures around 09:30 ran 1h49 to 1h51 with a change, and the first direct train was not until about 10:30. One of them also showed a 2h56 routing with two changes. Check your actual date before planning a Sunday around an early arrival.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What people get wrong
 
@@ -294,6 +298,7 @@ All prices checked 12 September 2026.
 - 🗿 **[Stonehenge from London](/articles/stonehenge-day-trip/)** — the trip most Bath coach tours are really selling, and which ones include the stones.
 - 🏰 **[Windsor from London](/articles/windsor-day-trip/)** — the shortest of the big day trips, and the one with a closed-on-Tuesdays problem.
 - 🐑 **[The Cotswolds from London](/articles/cotswolds-day-trip/)** — the northern end of the Cotswold Way, and which villages a train and a bus can actually reach.
+- 🎬 **[Bridgerton in London](/articles/bridgerton-london/)** — the Bath locations, the Assembly Rooms closure and the Bridgerton walking tours.
 - 🎓 **[Cambridge from London](/articles/cambridge-day-trip/)** — priced and timed the same way, with a cheaper walk-up fare.
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — the rules, the eVouchers, and why contactless disqualifies you.
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.

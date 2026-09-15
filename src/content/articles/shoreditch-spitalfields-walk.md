@@ -123,7 +123,7 @@ So "the 24-hour bagel place on Brick Lane" sends you to a street with two bagel 
 
 *Brick Lane under the railway bridge on a Sunday, a minute from both bagel shops. This is the same road on a Tuesday, minus every stall in the photograph.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-spitalfields-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-spitalfields-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. The Old Truman Brewery
 
@@ -170,6 +170,8 @@ It is underground. You go down a neon-lit staircase off Brick Lane into the base
 
 *The basement under 85 Brick Lane. Everything here is open seven days a week, which almost nothing else on this walk is.*
 
+<div data-stay-strip></div>
+
 ## 7. Hanbury Street and the street art
 
 Hanbury Street crosses Brick Lane at the vintage market, and the walls both sides of the junction are the second of the two street art clusters on this route.
@@ -215,7 +217,7 @@ The outside is not a consolation prize. It is **Nicholas Hawksmoor's**, built **
 
 **The Ten Bells is on the corner** at 84 Commercial Street: Grade II listed, recorded on the list as **founded in 1666 with the present building mid-nineteenth century**, and the listing singles out the **coloured Victorian tiled plaque of an eighteenth or nineteenth-century street scene** inside the Commercial Street entrance. See the eating section below for when its kitchen is actually on.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-spitalfields-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-spitalfields-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 10. Old Spitalfields Market
 
@@ -255,6 +257,8 @@ So the weekday version is a lunch market and the Sunday version is a clothing ma
 **Liverpool Street is five minutes north** and Aldgate East five minutes east, which makes this the right place to stop.
 
 ---
+
+<div data-stay-strip></div>
 
 ## The detour: Dennis Severs' House
 
@@ -309,7 +313,7 @@ The Sunday version is the better *day out*. The weekday version is the better *s
 
 **On time of day:** if it is Sunday, be at Columbia Road for 8am — that single decision does more for the day than anything else on this page. You will reach Brick Lane by ten as the street market opens, Old Spitalfields by early afternoon, and Petticoat Lane before it packs up at three.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-spitalfields-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-spitalfields-walk-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

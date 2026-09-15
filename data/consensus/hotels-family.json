@@ -1,20 +1,19 @@
 {
   "cuisine": "hotels-family",
-  "note": "Seeded 2026-09-09.",
-  "recorded": "2026-09-09",
+  "note": "Seeded 2026-09-09 with 8 sources; extended 2026-09-15 to 33 source records across editorial mastheads, family-travel specialist blogs, Mumsnet and 12 Reddit threads (r/uktravel, r/LondonTravel, r/london, r/marriott, r/hyatt, r/Hilton, r/travel, r/awardtravel), plus one YouTube voice. Two 9 Sep 2026 seed records (Santorini Dave, Mumsnet) were re-extracted after discovering their names arrays held the sites' own section labels and navigation chrome rather than hotel names (data/reference/hotel-corpus.md's 'Santorini Dave' extraction-loss note); The London Mother was corrected the same way. seatandsuite.com (an AI-citation-gamed 'methodology') and eurovistatrips.com (a templated AI content farm) were found and excluded - see data/sources.json excludedWhy. DuckDuckGo (both html and lite endpoints) and repeated Bing RSS queries were bot-walled or degraded partway through this pass; source-hunting stopped once further search yielded diminishing returns rather than force a round number.",
+  "recorded": "2026-09-15",
   "sources": [
     {
       "name": "Time Out",
       "url": "https://www.timeout.com/london/hotels/the-best-family-friendly-hotels-in-london",
       "scope": "hotels-family",
       "names": [
-        "London's family friendly hotels at a glance",
         "Sea Containers London",
         "The Berkeley",
         "Hilton London Bankside",
         "The Peninsula London",
         "Park Plaza County Hall",
-        "Good Hotel",
+        "Good Hotel London",
         "The Ritz",
         "The Laslett",
         "The Mandarin Oriental Mayfair",
@@ -28,7 +27,7 @@
       "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/the-best-family-friendly-hotels-in-london/",
       "scope": "hotels-family",
       "names": [],
-      "error": "HTTP 402"
+      "error": "HTTP 402 - paid bot licensing (TollBit), not a paywall. Kept in corpus per data/sources.json blocked.keepInCorpus."
     },
     {
       "name": "Conde Nast Traveller UK",
@@ -69,80 +68,127 @@
         "Beaverbrook Town House",
         "One Aldwych",
         "Claridge's"
-      ]
+      ],
+      "quotes": {
+        "Beaverbrook Town House": "Outside Greater London (Surrey) - flagged, not counted as a London entry."
+      }
     },
     {
       "name": "Santorini Dave",
       "url": "https://santorinidave.com/london-family-hotels",
       "scope": "hotels-family",
       "names": [
-        "SantoriniDave.com",
-        "My Top Picks for Families",
-        "Covent Garden and the West End",
-        "Taj 51 Buckingham Gate",
         "Marriott County Hall",
-        "The Berkeley",
-        "Shangri-La The Shard",
-        "The Athenaeum",
-        "Young Visitor Discount",
+        "Athenaeum",
+        "Park Plaza Westminster Bridge",
+        "15 Basil Street Apartments",
+        "Hilton London Paddington",
+        "DoubleTree Victoria",
+        "Taj 51 Buckingham Gate",
+        "Connaught",
+        "Four Seasons at Ten Trinity Square",
+        "Darlington Hyde Park",
+        "Grand Plaza Serviced Apartments",
+        "Premier Inn County Hall",
+        "The Ridgemount",
+        "Luna Simone",
+        "Best Western Chiswick Palace & Suites",
+        "Arosfa",
+        "Montana Hotel",
+        "Columbus Hotel",
+        "Crestfield Hotel",
+        "The California",
+        "Rhodes",
         "Park Lane Apartments",
-        "15 Basil Street",
         "Arlington House Apartments",
-        "130 Queen’s Gate Apartments",
+        "130 Queen's Gate Apartments",
         "Town Hall Hotel & Apartments",
         "Fraser Place Canary Wharf",
-        "dave@santorinidave.com",
-        "London Hotel for Family of 5",
-        "Santorini Dave",
-        "Important Transport Tips for Kids",
-        "A Quick Note on Dining",
-        "Kensington or Southbank",
-        "London During Easter",
-        "Cheap London Hotel in December",
-        "London Hotel for Family of 4",
-        "London with 2 Young Girls",
-        "London Hotel with 2 Kids",
-        "London for 8 Days with Older Children",
-        "@SantoriniDave",
-        "Affiliate Disclosure"
-      ]
+        "Crowne Plaza Kensington",
+        "Radisson Blu Vanderbilt",
+        "Ampersand Hotel",
+        "Hilton London Euston",
+        "Hilton London Hyde Park",
+        "Hilton London Metropole",
+        "The Trafalgar St James",
+        "The Waldorf Hilton"
+      ],
+      "quotes": {
+        "Best Western Chiswick Palace & Suites": "'This is an inexpensive hotel in Zone 3 with free parking, but the location is much less convenient for sightseeing than the central London hotels above.'",
+        "Athenaeum": "'Best for Family Suite' - Mayfair. 'Best for Babies & Toddlers' - the apartments give families more space than a standard room, and the Children's Concierge can help plan activities and arrange childcare.",
+        "Marriott County Hall": "'Best Pool' - Excellent 25-metre indoor pool and a great South Bank location.",
+        "Park Plaza Westminster Bridge": "'Best for Family of 4' - one-bedroom suites are fantastic for families, kitchenette, room for up to 5, nice 15-metre indoor pool."
+      },
+      "quality": "RE-EXTRACTED 15 Sep 2026. The 9 Sep 2026 seed recorded eleven of Santorini Dave's own section labels ('My Top Picks for Families', 'Important Transport Tips for Kids', 'Affiliate Disclosure' and his own byline) as venue names, per the extraction failure logged in data/reference/hotel-corpus.md ('Santorini Dave puts every hotel name in <strong>... eleven section labels... clears the gate'). Replaced with the real names, read from the live page."
     },
     {
       "name": "Mumsnet",
       "url": "https://www.mumsnet.com/articles/best-family-hotels-london",
       "scope": "hotels-family",
       "names": [
-        "family-friendly London stays",
-        "Park Plaza Westminster Bridge review",
-        "Pan Pacific London review",
-        "London Marriott Hotel County Hall |",
-        "Check availability"
-      ]
+        "Athenaeum Hotel and Residences",
+        "Premier Inn London County Hall",
+        "Park Plaza Westminster Bridge",
+        "Pan Pacific London",
+        "London Marriott Hotel County Hall",
+        "Royal Garden Hotel",
+        "Cheval Harrington Court at South Kensington",
+        "The Landmark London",
+        "The Clermont, Victoria",
+        "Town Hall Hotel and Apartments"
+      ],
+      "quotes": {
+        "Premier Inn London County Hall": "'I find the County Hall one very convenient. 5 mins walk to Westminster or Waterloo, lots of buses nearby.' - LetsChaseTrees, Mumsnet. Best for budget breaks.",
+        "Park Plaza Westminster Bridge": "'Rooms were massive - king bed one side bathroom in middle to divide and double other side. 2 TVs too?!?!!! Also had fridge and microwave.' - Jamandtoastfortea, Mumsnet. Best with a pool (15m, sessions 20 min, book ahead).",
+        "Athenaeum Hotel and Residences": "Best overall. Dedicated children's concierge; interconnecting rooms; serviced apartments with kitchenette and bunk or sofa bed.",
+        "The Landmark London": "Best for large rooms - the 560 sq ft family room has two doubles and a sofa, plus a 15m chlorine-free pool with family swim times.",
+        "The Clermont, Victoria": "Best for interconnecting rooms - cots free, adjoining rooms, under-12s eat free with a paying adult.",
+        "Town Hall Hotel and Apartments": "Best for teens - five minutes from Bethnal Green tube, one and two-bed apartments, 15m pool 6am-10pm.",
+        "Royal Garden Hotel": "Best for babies and toddlers - deluxe rooms sleep two adults and two children under 12, cots available, interconnecting guaranteed.",
+        "Pan Pacific London": "Best in the city - opposite Liverpool Street, in-room teepees, free meals for under-6s at Straits Kitchen, 18.5m infinity pool with family swim times."
+      },
+      "quality": "RE-EXTRACTED 15 Sep 2026, ranked 1-10 with 'Best X' labels, byline Jenny Elliott, updated 19 Feb 2026, reviewed in part by Mumsnet Travel Editor Rachel Erdos. Replaces the 9 Sep 2026 seed, which recorded nav/CTA chrome ('family-friendly London stays', 'Check availability') instead of the ranked names."
+    },
+    {
+      "name": "Mumsnet (budget family)",
+      "url": "https://www.mumsnet.com/articles/best-family-hotels-budget-london",
+      "scope": "hotels-family",
+      "names": [
+        "Premier Inn Kensington",
+        "YHA London Central",
+        "Travelodge Covent Garden",
+        "Ibis Budget Whitechapel",
+        "Z Hotel London City",
+        "Mentone Hotel",
+        "Millennium Gloucester",
+        "Novotel Tower Bridge",
+        "Leonardo Royal London Tower Bridge",
+        "Holiday Inn, Bloomsbury",
+        "YHA Oxford Street"
+      ],
+      "quotes": {
+        "Premier Inn Kensington": "Best overall hotel. 'I've stayed in Earls Court Kensington several times. It used to be our Premier Inn of choice when the kids were younger.' - Comefromaway, Mumsnet. 'Premier Inn Kensington (Earls Court) is good value and very close to the NH & Science museums (15 minute walk or £7 black cab).' - BritInAus, Mumsnet."
+      },
+      "quality": "Poppy O'Neill byline (per data/topics/hotels-budget.json's existing note on this URL). Same domain as the main Mumsnet family record above, so it does not add a second domain vote - recorded for the specific budget-family picks and quotes, which the other Mumsnet page does not carry."
     },
     {
       "name": "The London Mother",
       "url": "https://www.thelondonmother.net/hotels-london-family-rooms/",
       "scope": "hotels-family",
       "names": [
-        "The Shop",
-        "The Edit",
-        "Slow London",
-        "Beauty + Balance",
-        "Motherhood + Identity",
-        "Budget",
-        "Luxury",
-        "Royal Lancaster",
-        "Wilde Aparthotels",
-        "Comfort Inn Victoria",
-        "Hart Shoreditch Hotel + multiple locations",
-        "The Guardsman",
-        "Nox Hyde Park",
         "COVE Cannon Street",
-        "Vintry & Mercer",
+        "Comfort Inn Victoria",
+        "Hart Shoreditch Hotel",
+        "Nox Hyde Park",
         "Rosewood London",
+        "Royal Lancaster",
+        "The Goring Hotel",
+        "The Guardsman",
         "The Savoy Hotel",
-        "The Goring Hotel"
-      ]
+        "Vintry & Mercer",
+        "Wilde Aparthotels"
+      ],
+      "quality": "RE-EXTRACTED 15 Sep 2026 from <strong> tags (the page carries almost no heading markup). Replaces the 9 Sep 2026 seed, which held the site's own section labels ('The Shop', 'The Edit', 'Slow London', 'Beauty + Balance', 'Motherhood + Identity') alongside the real names."
     },
     {
       "name": "Families Love Travel",
@@ -161,24 +207,547 @@
         "London Marriott Hotel Park Lane",
         "The Waldorf Hilton",
         "Hilton London Bankside",
-        "St. Ermin’s Hotel",
+        "St. Ermin's Hotel",
         "Ham Yard Hotel",
-        "Brown’s Hotel",
+        "Brown's Hotel",
         "Four Seasons Hotel London at Park Lane",
         "The Athenaeum Hotel & Residences",
-        "Meliá White House",
+        "Melia White House",
         "The Resident Kensington",
         "The Ritz London",
         "The Rubens at the Palace",
-        "Taj 51 Buckingham Gate Suite and Residences",
-        "Chessington Safari Hotel",
-        "Common Mistakes Families Make Booking London Hotels",
-        "National Park With Kids",
-        "Family Travel Tips",
-        "Families Love Travel Team",
-        "Families Love Travel",
-        "Company"
+        "Taj 51 Buckingham Gate Suite and Residences"
+      ],
+      "quotes": {
+        "Chessington Safari Hotel": "Dropped - this is at Chessington World of Adventures, Surrey, outside Greater London (trap 12)."
+      }
+    },
+    {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk/travel/uk/england/london/best-family-friendly-hotels-london-kids-b2088837.html",
+      "scope": "hotels-family",
+      "names": [
+        "The Hoxton, Southwark",
+        "The Lanesborough",
+        "The Ned",
+        "Claridge's",
+        "The London EDITION",
+        "Bingham Riverhouse",
+        "The Goring",
+        "The Mayfair Townhouse",
+        "Four Seasons Hotel London at Park Lane",
+        "Sea Containers London",
+        "The Berkeley",
+        "Wilde Aparthotels Liverpool Street"
+      ],
+      "quotes": {
+        "The Hoxton, Southwark": "'Tiny Hox programme... everything from cribs to bottle warmers, nappies and bath essentials will be waiting in your room on arrival.' Address 40 Blackfriars Rd, SE1 8NY. From £209.",
+        "The Ned": "'kids under six dine for free' at the Sunday Feast; rooftop pool open to guests of every age. 27 Poultry, EC2R 8AJ. From £425.",
+        "Bingham Riverhouse": "Richmond. 'Children up to the age of 12 stay for free' or rooms 'can be connected'. 61-63 Petersham Rd, Richmond TW10 6UT. From £195.",
+        "The London EDITION": "Cots, baby toiletries, kids' bath robes; PS5 consoles for older children. 10 Berners St, W1T 3NP. From £495."
+      },
+      "quality": "Gina Jackson, born-and-bred Londoner, author of 'London Hotels' (Hoxton Mini Press). Updated 9 Feb 2026."
+    },
+    {
+      "name": "Glamour UK",
+      "url": "https://www.glamourmagazine.co.uk/gallery/best-family-friendly-london-hotels",
+      "scope": "hotels-family",
+      "names": [
+        "Mandarin Oriental Hyde Park",
+        "The Landmark",
+        "The Lanesborough",
+        "Hotel Café Royal",
+        "Bulgari London",
+        "The Langham",
+        "Royal Lancaster Hyde Park",
+        "Four Seasons Park Lane",
+        "The Hoxton Holborn",
+        "The Ritz",
+        "Claridge's",
+        "The Goring",
+        "The Ned",
+        "Treehouse Hotel",
+        "The Berkeley",
+        "The Mayfair Townhouse",
+        "The Athenaeum Hotel & Residences"
+      ],
+      "quotes": {
+        "Mandarin Oriental Hyde Park": "Family package: second interconnecting room half price, all children's meals free. From £918.",
+        "The Landmark": "Family rooms with tepees and a head-torch; teddy on arrival. From £405.",
+        "The Hoxton Holborn": "'Tiny Hox' welcome tote with a family map, colouring book; interconnecting on request. From £180.",
+        "Treehouse Hotel": "In-room teepee, interconnecting on request. From £320, Oxford Circus."
+      },
+      "quality": "Rebecca Cope, with James McDonald on Claridge's. Published 2024, updated 27 Apr 2026."
+    },
+    {
+      "name": "Kids Are A Trip",
+      "url": "https://kidsareatrip.com/the-best-london-family-hotels/",
+      "scope": "hotels-family",
+      "names": [
+        "Royal Garden Hotel Kensington",
+        "Marriott Grosvenor Square",
+        "The Mandarin Oriental Hyde Park",
+        "The Athenaeum Mayfair",
+        "COMO Metropolitan Hotel Mayfair",
+        "The Westin London City",
+        "Park Plaza Hotels",
+        "Citadines Trafalgar Square",
+        "The Trafalgar Hotel, St. James",
+        "The Rubens at the Palace",
+        "Georgian House Hotel",
+        "St. Ermin's Hotel",
+        "TAJ 51 Buckingham Gate Suites and Residences",
+        "Corinthia London",
+        "Cheval Three Quays",
+        "1 Hotel Mayfair",
+        "Hyatt Regency London - The Churchill",
+        "DoubleTree by Hilton London Kensington",
+        "Marriott County Hall",
+        "Bankside Hotel, Autograph Collection"
+      ],
+      "quotes": {
+        "Royal Garden Hotel Kensington": "'Free Micro Scooters for kids and their parents to zip around Hyde Park, an afternoon tea with peanut butter and jelly sandwiches, and a flicks and food day.' - Katja, Globetotting.",
+        "The Mandarin Oriental Hyde Park": "'Basement-level spa has a wonderful indoor pool with no restrictions on when families can swim, and the suites are incredibly spacious for rollaway beds.' - Robin, Luxe Recess.",
+        "Marriott County Hall": "'The Executive Double Double, which sleeps 4, and their two-bedroom suite with two king-size beds and a sofa bed, which sleeps 5.'"
+      },
+      "quality": "Kirsten Maxwell (editor), 2026 update. Picks are attributed to named contributing bloggers (Globetotting, We3Travel, An Unstoppable Journey, Along for the Trip, Gone with the Family, She's on the Go, GlobalMouse Travels, Wild Tales Of) but published as one KidsAreATrip list."
+    },
+    {
+      "name": "MummyTravels",
+      "url": "https://www.mummytravels.com/where-to-stay-in-london-with-kids/",
+      "scope": "hotels-family",
+      "names": [
+        "The Resident, Covent Garden",
+        "Fielding Hotel, Covent Garden",
+        "St Martins Lane London",
+        "Park Plaza County Hall London",
+        "Nox Hotel, Waterloo",
+        "The Grand at Trafalgar Square",
+        "Marlin Waterloo",
+        "The Ampersand, Kensington",
+        "Royal Garden Hotel, Kensington",
+        "The Queen's Gate hotel",
+        "YHA Youth Hostel, Earl's Court",
+        "Premier Inn London Southwark (Borough High St)",
+        "The Goring, Belgravia",
+        "The Landmark, Marylebone",
+        "Rubens at the Palace, Westminster",
+        "Taj 51 Buckingham Gate Suites and Residences, Westminster",
+        "The Athenaeum, Mayfair",
+        "St Ermins Hotel",
+        "Citadines Trafalgar Square",
+        "SACO Holborn",
+        "Lexham Gardens by Cheval Maison",
+        "Hilton Metropole, Edgware Road",
+        "Zedwell Piccadilly"
+      ],
+      "quotes": {
+        "The Resident, Covent Garden": "Family rooms with a mini kitchen (microwave, fridge, Nespresso), pre-stocked with groceries on request.",
+        "Nox Hotel, Waterloo": "Family studios: double bed plus two singles for children, fully equipped kitchenette.",
+        "Premier Inn London Southwark (Borough High St)": "Family rooms with a double bed plus sofa bed and pull-out bed; travel cots free; kids eat breakfast free."
+      },
+      "quality": "Cathy, award-winning family travel blogger, London-based. Updated 3 Aug 2026."
+    },
+    {
+      "name": "Family Hotel Expert",
+      "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/",
+      "scope": "hotels-family",
+      "names": [
+        "Doubletree By Hilton London Kensington",
+        "Hilton London Metropole",
+        "Taj 51 Buckingham Gate Suites and Residences",
+        "100 Queens Gate Hotel",
+        "Premier Inn Blackfriars",
+        "YHA St Pancras",
+        "The Dilly",
+        "The Guardsman Hotel",
+        "London Sofitel St James",
+        "Flemings Mayfair Hotel",
+        "Aloft London Excel",
+        "The Athenaeum",
+        "Royal Garden Hotel Kensington",
+        "Haymarket Hotel",
+        "Travelodge Euston",
+        "Rubens at the Palace",
+        "St Ermin's",
+        "The BoTree London",
+        "Leonardo Royal London St Paul's",
+        "Park Plaza Westminster Bridge London",
+        "Copthorne Tara Hotel London Kensington",
+        "The Peninsula London"
+      ],
+      "quotes": {
+        "Doubletree By Hilton London Kensington": "'Split level with a bedroom at the top and a lounge on the ground floor with a sofa bed which staff will transform into the second bedroom in the evening.' Private garden outside.",
+        "The Dilly": "Family and interconnecting rooms; a large heated pool; Peter Rabbit-themed afternoon tea.",
+        "100 Queens Gate Hotel": "'Interconnecting rooms which are perfect for families of five or six.'"
+      },
+      "quality": "Every entry marked 'Family Hotel Expert stayed and loved' as a first-hand claim."
+    },
+    {
+      "name": "Jessica Lynn Writes",
+      "url": "https://jessicalynnwrites.com/2024/10/where-to-stay-in-london-with-a-family/",
+      "scope": "hotels-family",
+      "names": [],
+      "error": "Fetched but the family-of-5/6 accommodation names in this specific post are apartment/aparthotel-style stays rather than named hotels distinguishable from her Residence Inn Kensington pick (an aparthotel, signposted rather than entered). Recorded for the domain via her YouTube video instead (see quotes).",
+      "quotes": {
+        "Residence Inn Kensington": "'Two rooms + TWO bathrooms... and breakfast included.' Aparthotel - signposted, not an entry. From her YouTube channel 'Jesstagirl & Co. On the Go', same voice as this blog."
+      }
+    },
+    {
+      "name": "Marcie in Mommyland",
+      "url": "https://www.marcieinmommyland.com/family-friendly-hotels-in-london-england/",
+      "scope": "hotels-family",
+      "names": [
+        "Radisson Blu Hotel, London Mercer Street",
+        "Georgian House Hotel",
+        "London Marriott Hotel County Hall",
+        "Marlin Waterloo",
+        "Radisson Blu Edwardian Vanderbilt",
+        "Taj 51 Buckingham Gate"
+      ],
+      "quotes": {
+        "Georgian House Hotel": "'They walked us down this hallway lined with portraits... then we got to a bookshelf... the entire bookshelf swung open like a door.' The Wizard Chambers, booked 8 months out. Near Victoria Station, breakfast included.",
+        "Radisson Blu Hotel, London Mercer Street": "Seven Dials, across from the Cambridge Theatre (Matilda). 'Two double beds, enough floor space that we weren't climbing over suitcases.'",
+        "London Marriott Hotel County Hall": "Not stayed at directly (three friends' reports). Views of Big Ben and the Thames; 25m indoor pool. Large hotel - ask for a room near the lifts."
+      },
+      "quality": "Marcie Cheung, family travel expert, first-hand 'mom-tested' stays with two sons. Published 8 Feb 2026, updated 26 Aug 2026."
+    },
+    {
+      "name": "The Hotel Journal",
+      "url": "https://thehoteljournal.com/best-hotels-for-families-in-london-united-kingdom/",
+      "scope": "hotels-family",
+      "names": [
+        "Melia White House",
+        "Brown's Hotel",
+        "The Goring",
+        "New Road Hotel",
+        "The Beaumont Hotel",
+        "Holiday Inn London Bloomsbury",
+        "DoubleTree by Hilton London Victoria",
+        "The Athenaeum Hotel & Residences",
+        "Park Plaza London Riverbank",
+        "Novotel London Tower Bridge",
+        "The Ampersand Hotel"
+      ],
+      "quotes": {
+        "Park Plaza London Riverbank": "Ultimate Family Suite: chalkboard walls, in-shower radio, treat trolley, personal concierge. From £159.",
+        "Melia White House": "'Free stay for kids up to four years'; own check-in area for children. From £220, Regent's Park.",
+        "Birch Selsdon": "Now closed (noted by the source itself) - not counted. Outer London, ~45 minutes out."
+      },
+      "quality": "Tracy Tristram, 25 Apr 2026, contributed by London for Kidz."
+    },
+    {
+      "name": "Family Traveller",
+      "url": "https://familytraveller.com/holiday-destinations/uk/london/10-of-the-best-family-hotels-in-london/",
+      "scope": "hotels-family",
+      "names": [
+        "Park Plaza County Hall",
+        "Browns Hotel",
+        "The Halkin by COMO",
+        "Haymarket Hotel",
+        "Flemings Mayfair",
+        "Hilton London Metropole",
+        "The Ampersand",
+        "No 5 Maddox Street",
+        "Claridges",
+        "The Rubens at the Palace",
+        "Milestone Hotel & Residences",
+        "London Perfect Apartments",
+        "11 Cadogan Gardens"
+      ],
+      "quotes": {
+        "Haymarket Hotel": "Screening rooms for private kids' parties, a swimming pool, babysitting. From £425.",
+        "The Halkin by COMO": "Interconnecting rooms; cots, highchairs, chocolate painting and floristry lessons for children. From £649.",
+        "Milestone Hotel & Residences": "Several inter-connecting rooms; partnership with The Hotel Nanny. USA edition only.",
+        "11 Cadogan Gardens": "The Sloane Suite interconnects with two further Signature Suites; 50% off children's rate. USA edition only."
+      },
+      "quality": "Named editor Harriet Mallinson (Family Traveller). Two editions on this domain, both dated: UK list updated 9 Jun 2017, USA list ('The 12 Best Family-Friendly Hotels in London') updated 30 Apr 2021 - both flagged for recency. The Family Traveller Awards 2026 (11 Sep 2026, 19 categories) were checked for a London hotel winner: none found, so nothing is recorded from the awards."
+    },
+    {
+      "name": "Travel Mad Mum",
+      "url": "https://travelmadmum.com/the-best-family-hotels-london/",
+      "scope": "hotels-family",
+      "names": [
+        "Taj 51 Buckingham Gate",
+        "Sea Containers London",
+        "The Shangri-La Hotel at The Shard",
+        "Claridge's",
+        "Rubens at the Palace",
+        "The Landmark London",
+        "Athenaeum Hotel",
+        "Best Western Mornington Hotel",
+        "The Bailey's Hotel London Kensington",
+        "Holiday Inn London",
+        "The Georgian House Hotel",
+        "K+K Hotel George Kensington",
+        "Leonardo Royal London City - Tower Hill",
+        "The House of Toby",
+        "The California",
+        "The Gresham Hotel",
+        "Central Park Hotel",
+        "The Novotel London Excel",
+        "Z Hotel Shoreditch",
+        "Zedwell Piccadilly",
+        "The Mornington Hotel London Victoria",
+        "St. Ermin's Hotel",
+        "Radisson Red London",
+        "Hampton By Hilton",
+        "Holiday Inn Express"
+      ],
+      "quotes": {
+        "Holiday Inn London": "Brand named without a branch in this section - not independently locatable, kept as named but not shortlist-eligible on its own."
+      }
+    },
+    {
+      "name": "Love and London",
+      "url": "https://loveandlondon.com/london-hotels-with-adjoining-rooms/",
+      "scope": "hotels-family",
+      "names": [
+        "Treehouse Hotel London",
+        "ME Melia",
+        "The Clermont Hotel",
+        "The Henrietta Hotel",
+        "The Mandrake",
+        "Montcalm East",
+        "The Montague on The Gardens",
+        "room2 Chiswick Hometel"
+      ],
+      "quality": "About adjoining/connecting rooms for groups generally, not framed as families specifically - corroborating rather than primary evidence for this topic."
+    },
+    {
+      "name": "Candace Abroad",
+      "url": "https://candaceabroad.com/london-hotels-with-adjoining-rooms/",
+      "scope": "hotels-family",
+      "names": [
+        "St. James's Hotel & Club",
+        "Morton Hotel, Imperial London Hotels",
+        "room2 Chiswick",
+        "The Montague On The Gardens",
+        "Montcalm East",
+        "The Henrietta Hotel",
+        "The Clermont",
+        "The Mandrake",
+        "ME London by Melia",
+        "Royal Lancaster London",
+        "Bermondsey Square Hotel",
+        "Treehouse London"
+      ],
+      "quality": "About adjoining/connecting rooms for groups generally, not framed as families specifically - corroborating rather than primary evidence for this topic."
+    },
+    {
+      "name": "Visit London",
+      "url": "https://www.visitlondon.com/where-to-stay/hotel/family-hotels-london",
+      "scope": "hotels-family",
+      "names": [
+        "The Zetter Clerkenwell",
+        "Melia White House",
+        "The Resident Kensington",
+        "Darlington Hyde Park",
+        "The Goring",
+        "The Dilly",
+        "The Athenaeum Hotel & Residences",
+        "The Ritz",
+        "The Rubens at the Palace",
+        "St Ermin's Hotel",
+        "Intercontinental London - The O2",
+        "London Zoo Lodges",
+        "Georgian House Hotel"
+      ],
+      "quotes": {
+        "London Zoo Lodges": "Overnight lodges inside ZSL London Zoo, with an after-hours tour; a distinct format, not a conventional hotel room."
+      },
+      "quality": "London's official visitor board. Its 'family-friendly hotel chains' section (Hilton, Novotel, Travelodge, Park Plaza, Premier Inn) is paid placement ('Ad feature') and is not counted; only the 'Cheap family hotels', 'Luxury kid-friendly hotels' and 'Quirky hotels for kids' sections, which are not ad-marked, are recorded here. Chessington Azteca Hotel, also listed, is in Leatherhead, Surrey, well outside Greater London (trap 12) and is dropped."
+    },
+    {
+      "name": "Sleeps5",
+      "url": "https://sleeps5.com/destinations/british-isles/london/",
+      "scope": "hotels-family",
+      "names": [
+        "Taj 51 Buckingham Gate Suites and Residences",
+        "St. Ermin's Hotel",
+        "The Langham, London",
+        "Meininger Hotel London Hyde Park",
+        "Crowne Plaza London Heathrow"
+      ],
+      "quality": "Directory of London rooms sleeping 5-6, not a personal opinion ('Sleeps5 does not visit or assess each listed hotel'). Only its central-London, non-airport entries that corroborate names already found elsewhere are recorded; its many small Bayswater/Paddington B&Bs (Arran House, Blades, Cherry Court, Dover, Euro, Europa House, Lord Jim, Oxford, Parkwood, Regency House, Rhodes, Thanet, Windsor House etc.) are not independently corroborated for families and are left out rather than padding the count."
+    },
+    {
+      "name": "reddit.com/r/uktravel (Good London hotel for family of 4)",
+      "url": "https://www.reddit.com/r/uktravel/comments/17rr59a/good_london_hotel_for_family_of_4/",
+      "scope": "hotels-family",
+      "names": [
+        "Doubletree Tower of London",
+        "Leonardo Royal Hotel London City - Tower of London",
+        "Premier Inn London Bridge",
+        "Montana Hotel"
+      ],
+      "quotes": {
+        "Leonardo Royal Hotel London City - Tower of London": "'Will cater to your needs... Tower bridge and Tower of London are just round the corner.' - u/Secprentice.",
+        "Montana Hotel": "'They have family rooms including one double and two single beds. Great location too.' - u/Brilliant-Mark6385, South Kensington."
+      }
+    },
+    {
+      "name": "reddit.com/r/marriott (London Hotel Recommendation for Family)",
+      "url": "https://www.reddit.com/r/marriott/comments/1cdwupa/london_hotel_recommendation_for_family/",
+      "scope": "hotels-family",
+      "names": [
+        "London Marriott Hotel County Hall",
+        "St Pancras Renaissance",
+        "Sheraton Grand London Park Lane",
+        "St Ermin's Hotel",
+        "London Marriott Hotel Kensington",
+        "JW Marriott Grosvenor House",
+        "Marriott Grosvenor Square"
+      ],
+      "quotes": {
+        "London Marriott Hotel County Hall": "'I've stayed at the County Hall Marriott and really enjoyed it.' - u/the_bad_place.",
+        "St Ermin's Hotel": "'St Ermin's is delightful and in a very convenient spot near the tube in Westminster.' - u/marionsparkle.",
+        "London Marriott Hotel Kensington": "'Reasonably priced hotel with a nice on-site restaurant... walking distance to the Natural history museum which your kids will enjoy.' - u/Ikenaz1969, Cromwell Rd."
+      }
+    },
+    {
+      "name": "reddit.com/r/hyatt (London family of 4)",
+      "url": "https://www.reddit.com/r/hyatt/comments/16s4gpa/london_family_of_4/",
+      "scope": "hotels-family",
+      "names": [
+        "Hyatt Regency London - Blackfriars",
+        "Andaz London Liverpool Street",
+        "Kimpton Fitzroy London"
+      ],
+      "quotes": {
+        "Kimpton Fitzroy London": "'Ended up booking Kimpton Fitzroy instead with IHG points and got a very reasonable offer... to upgrade to room for 2 adjoining rooms.' - u/bigify9178."
+      }
+    },
+    {
+      "name": "reddit.com/r/Hilton (London Hilton with Family)",
+      "url": "https://www.reddit.com/r/Hilton/comments/153ukco/london_hilton_with_family/",
+      "scope": "hotels-family",
+      "names": [
+        "DoubleTree by Hilton London Kensington",
+        "DoubleTree by Hilton London Marble Arch",
+        "DoubleTree by Hilton London Tower of London",
+        "DoubleTree by Hilton London Hyde Park",
+        "Conrad London St James",
+        "Hilton London Euston"
+      ],
+      "quotes": {
+        "Conrad London St James": "'My family go to. Quiet area, right by underground station & within walking distance to a lot of stuff.' - u/MalikTheHalfBee.",
+        "DoubleTree by Hilton London Kensington": "'Great breakfast and amazing location, less than a five minute walk to Gloucester Road tube station and close to V&A museum.' - u/lauradelondres.",
+        "DoubleTree by Hilton London Marble Arch": "'Stay away from Doubletree Marble Arch' - u/hotmessexpress2003 (no hot water, moldy bathrooms that week)."
+      }
+    },
+    {
+      "name": "reddit.com/r/travel (Recommendations for hotels in London with kids)",
+      "url": "https://www.reddit.com/r/travel/comments/16p1xmm/recommendations_for_hotels_in_london_with_kids/",
+      "scope": "hotels-family",
+      "names": [
+        "Premier Inn",
+        "Hilton London Hyde Park",
+        "The Waldorf Hilton",
+        "The Trafalgar St James",
+        "ibis Styles"
       ]
+    },
+    {
+      "name": "reddit.com/r/awardtravel (Hyatt London Hotel Family 4)",
+      "url": "https://www.reddit.com/r/awardtravel/comments/17rdw0l/hyatt_london_hotel_family_4/",
+      "scope": "hotels-family",
+      "names": [
+        "Andaz London Liverpool Street",
+        "Hyatt Regency London - Blackfriars",
+        "Hyatt House London Stratford"
+      ]
+    },
+    {
+      "name": "reddit.com/r/LondonTravel (Hotel In Covent Garden Area For Family Of Four)",
+      "url": "https://www.reddit.com/r/LondonTravel/comments/1uw9i0b/hotel_in_covent_garden_area_for_family_of_four/",
+      "scope": "hotels-family",
+      "names": [
+        "Cheval Three Quays",
+        "Strand Palace",
+        "Premier Inn County Hall",
+        "Premier Inn Southwark",
+        "The Savoy"
+      ],
+      "quotes": {
+        "Cheval Three Quays": "'2BR Tower Suite. Great views of the Tower of London and Tower Bridge... full kitchen and living space, 2 full bathrooms, washing machine.' - u/letmereadstuff.",
+        "Strand Palace": "'Right there and often reasonable for a quad.' - u/Ctznsvn7."
+      }
+    },
+    {
+      "name": "reddit.com/r/LondonTravel (Family-friendly hotel recs, toddler)",
+      "url": "https://www.reddit.com/r/LondonTravel/comments/1t11vzl/",
+      "scope": "hotels-family",
+      "names": [
+        "YHA Earls Court"
+      ],
+      "quotes": {
+        "YHA Earls Court": "'Private en-suite rooms, a well equipped kitchen to use and a large outdoor area... several families staying there.' - u/LI5897."
+      }
+    },
+    {
+      "name": "reddit.com/r/LondonTravel (Royal Lancaster vs The Londoner, Family of 4)",
+      "url": "https://www.reddit.com/r/LondonTravel/comments/1sn7znz/",
+      "scope": "hotels-family",
+      "names": [
+        "Royal Lancaster London",
+        "The Londoner"
+      ],
+      "quotes": {
+        "Royal Lancaster London": "'Wound up booking the Royal Lancaster. It fit better with where we wanted to be located.' - u/brgr_7.",
+        "The Londoner": "'Stayed at the Londoner June 2026 for four nights... it is a new building with excellent sound proofing.' - u/dropfoo."
+      }
+    },
+    {
+      "name": "reddit.com/r/LondonTravel (Hotel recs for family of 5, budget GBP500-700)",
+      "url": "https://www.reddit.com/r/LondonTravel/comments/1rdgirl/",
+      "scope": "hotels-family",
+      "names": [
+        "DoubleTree by Hilton London Tower Bridge",
+        "DoubleTree by Hilton London Kensington",
+        "Virgin Hotels London Shoreditch",
+        "Kings Cross Inn Hotel"
+      ],
+      "quotes": {
+        "Virgin Hotels London Shoreditch": "'Has a family room - bunk for 2, the daughter can go in your bed... It is a really cool hotel!' - u/youknowiamasussexnow."
+      }
+    },
+    {
+      "name": "reddit.com/r/LondonTravel (Premier Inn Blackfriars or Hyatt Place London East)",
+      "url": "https://www.reddit.com/r/LondonTravel/comments/1tk3r6w/",
+      "scope": "hotels-family",
+      "names": [
+        "Premier Inn Blackfriars",
+        "Hyatt Place London City East",
+        "Park Plaza County Hall"
+      ],
+      "quotes": {
+        "Premier Inn Blackfriars": "'For a family with kids over New Year Blackfriars is probably the better call as the location puts you walking distance from Southbank, Tate Modern, Borough Market, St Paul's and the Millennium Bridge.' - u/captain_blanket77. Nine upvotes on the top comment."
+      }
+    },
+    {
+      "name": "reddit.com/r/london (Accessible family hotel rooms)",
+      "url": "https://www.reddit.com/r/london/comments/1jgt30m/",
+      "scope": "hotels-family",
+      "names": [
+        "Premier Inn Hub King's Cross",
+        "Holiday Inn Bloomsbury"
+      ],
+      "quotes": {
+        "Premier Inn Hub King's Cross": "'I'm disabled and stay near Kings Cross pretty frequently... two chains that tend to be good with accessibility are Premier Inn and Holiday Inn Express.' - u/UmIAmNotMrLebowski.",
+        "Holiday Inn Bloomsbury": "'Anything built in the last 15 years should have a full part M compliant bathroom... Holiday Inn Bloomsbury certainly does.' - u/mralistair."
+      }
+    },
+    {
+      "name": "Garcia Family Vlog (YouTube)",
+      "url": "https://www.youtube.com/watch?v=smaQ1qHyU20",
+      "scope": "hotels-family",
+      "names": [
+        "Conrad London St James"
+      ],
+      "quotes": {
+        "Conrad London St James": "'Conrad St James Hotel London Review | Room Tour | Executive Lounge', tagged #travelwithkids, Dec 2022."
+      }
     }
   ]
 }

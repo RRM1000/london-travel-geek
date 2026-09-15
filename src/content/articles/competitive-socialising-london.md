@@ -147,6 +147,8 @@ The polished one, and now the only one — the City site has gone. Crazy golf co
 
 **Over-18s from 6pm daily** on Challenge 25, with last family entry at 5pm and children able to play from age seven. You can also come purely for the street food and cocktails with **no entry fee at all**, which is the best-value way to use the building. The course is wheelchair accessible on request.
 
+<div data-stay-strip></div>
+
 ### Rocket Room, Leicester Square
 
 *2nd floor, Market Place, 20–21 Leicester Square, WC2H 7JX · axes and darts · from £8 a head*
@@ -278,6 +280,8 @@ Bowling is **£8.60 a game per person Monday to Thursday daytime**, rising to £
 **The age rules are the strictest in this guide and catch people out.** Under-18s must leave by 10pm Sunday to Thursday and **by 7.30pm on Friday and Saturday**, and after 7pm on those two nights **only over-21s are admitted, with photo ID**. Under-12s are never admitted without an adult at any time.
 
 Open until 12.30am Sunday to Thursday and **2.30am on Friday and Saturday**, which is later than anything else here.
+
+<div data-stay-strip></div>
 
 ### Tenpin, outer London
 

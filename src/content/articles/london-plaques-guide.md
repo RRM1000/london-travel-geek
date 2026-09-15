@@ -101,6 +101,8 @@ Brown splits in two. The modern half is the **London Borough of Hackney's** own 
 
 **84 official plaques are not blue at all** — 37 brown, 15 black, 9 stone, 7 grey, 7 bronze, 5 white, 3 green and 1 brass. These are the pre-1921 survivors, made before the blue ceramic standard existed.
 
+<div data-stay-strip></div>
+
 ### The specialist colours
 
 A few colours belong almost entirely to one organisation, which makes them easy to identify:
@@ -160,7 +162,7 @@ Prefer a guide who already knows which plaques are worth the detour and which ar
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-plaques-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-plaques-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## About these numbers
 

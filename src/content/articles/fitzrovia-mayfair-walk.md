@@ -88,6 +88,8 @@ Virginia Woolf and George Bernard Shaw both lived at number 29, in different dec
 
 Leave by Fitzroy Street, heading south.
 
+<div data-stay-strip></div>
+
 ## 2. Charlotte Street and the BT Tower
 
 ![The BT Tower rising above Georgian rooftops in Fitzrovia at dusk](../../assets/articles/fitzrovia-area-guide/bt-tower-fitzrovia.jpg)
@@ -128,7 +130,7 @@ Then cross Oxford Street at Oxford Circus and take Princes Street to Hanover Squ
 
 *Inside St George's, with the Last Supper painted for the church by William Kent in 1724.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-mayfair-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-mayfair-walk-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. Savile Row
 
@@ -202,6 +204,8 @@ South to Curzon Street and through the passages into **Shepherd Market**, built 
 
 Leave by White Horse Street to Piccadilly.
 
+<div data-stay-strip></div>
+
 ## 11. Green Park
 
 Cross Piccadilly and you are in it. **Charles II made the park in 1660** so he could walk between Hyde Park and St James's Park without leaving royal land. There are no formal flowerbeds, just trees and grass, with the Canada Memorial at the eastern end and the Bomber Command Memorial at the west.
@@ -237,7 +241,7 @@ For dinner, the walk starts on the best street for it: the [Fitzrovia guide's ta
 
 **What never closes:** Fitzroy Square, Charlotte Street, Savile Row's shopfronts and Mount Street. The gardens and Green Park keep their own hours, but all are open by 7am.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-mayfair-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-mayfair-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

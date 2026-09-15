@@ -156,6 +156,8 @@ The riverfront, and the quietest handsome walk in this part of London. Georgian 
 
 **It is a walk rather than a destination**, about fifteen minutes end to end, and there is very little to buy along it. Come for the plaques and the bridge, and eat elsewhere.
 
+<div data-stay-strip></div>
+
 ### World's End and the western King's Road
 
 Past the bend, where the road narrows and the chains give out. This is where the independent shops still are, and where Chelsea's actual history happened.
@@ -244,7 +246,7 @@ Our full route for this area: **eleven numbered stops** over about 4km and two t
 5. **Cheyne Walk:** Continue to the river and turn west past the blue plaques.
 6. **Finish:** **Albert Bridge**, and either cross to Battersea Park or head back up to the King's Road.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

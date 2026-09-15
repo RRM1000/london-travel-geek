@@ -136,7 +136,7 @@ North, and **the least pleasant part of Marylebone** — a four-lane road, const
 
 The **Sherlock Holmes Museum** at 221B and **Madame Tussauds** are both here. Tussauds in particular queues badly without a pre-booked timed ticket, and the Baker Street pavement outside 221B is often blocked.
 
-**Book ahead or skip both.** If you want Baker Street itself, the statue outside the station takes thirty seconds and costs nothing.
+**Book ahead or skip both.** If you want Baker Street itself, the statue outside the station takes thirty seconds and costs nothing. For ticket prices, the statue's own history and the rest of Sherlock Holmes's London, see our [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide. The Beatles Store is further up at 231 Baker Street, and [the Beatles in London](/articles/beatles-london/) covers it with the Apple Boutique plaque at 94 and Ringo's old flat in Montagu Square.
 
 ### Chiltern Street
 **The best-looking street in Marylebone** — a run of red-brick Victorian gothic, built as model dwellings and mansion flats, and unlike anything around it.
@@ -202,7 +202,7 @@ Our full route for this area: **eleven numbered stops** over about 5km and three
 5. **The Wallace Collection:** East to **Manchester Square**. Free.
 6. **Finish:** North to **Regent's Park**, or a concert at Wigmore Hall.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-madame-tussauds-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Madame Tussauds London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 
