@@ -543,12 +543,18 @@ function cmdPlanBudget() {
     const engine = ENGINES[p.engine];
     if (!engine) throw new Error(`${p.slug}: unknown engine "${p.engine}" - expected ${Object.keys(ENGINES).join(" or ")}`);
     if (!p.url || !p.match) throw new Error(`${p.slug}: needs url and match`);
+    // A property can move one sample night when that night is plainly not
+    // typical for it - an event at the stadium next door, say. The record
+    // keeps the new date and why, and the report shows both dates.
     for (const d of dates) {
-      const checkout = iso(addDays(new Date(d.date), 1));
+      const moved = p.dateOverrides?.[d.key];
+      const date = moved?.date ?? d.date;
+      const checkout = iso(addDays(new Date(date), 1));
       rows.push({
         slug: p.slug, name: p.name, engine: p.engine, match: p.match,
-        dateKey: d.key, date: d.date, checkout, dayName: DAY[new Date(d.date).getUTCDay()],
-        url: engine.url(p.url, d.date, checkout),
+        dateKey: d.key, date, checkout, dayName: DAY[new Date(date).getUTCDay()],
+        url: engine.url(p.url, date, checkout),
+        ...(moved ? { movedFrom: d.date, why: moved.why } : {}),
       });
     }
   }
@@ -857,7 +863,9 @@ function reportBudget() {
     if (p.status) { out.notPriced.push({ slug: p.slug, name: p.name, status: p.status, reason: p.statusNote }); continue; }
     const nights = run.dates.map((d) => {
       const c = run.captures.find((x) => x.slug === p.slug && x.dateKey === d.key);
-      const base = { dateKey: d.key, date: d.date, day: DAY[new Date(d.date).getUTCDay()] };
+      const moved = p.dateOverrides?.[d.key];
+      const date = moved?.date ?? d.date;
+      const base = { dateKey: d.key, date, day: DAY[new Date(date).getUTCDay()], ...(moved ? { movedFrom: d.date, why: moved.why } : {}) };
       if (!c) return { ...base, notCaptured: true };
       if (c.unpriced) return { ...base, unpriced: true, note: c.unpriced };
       const pick = c.soldOut ? null : cheapestDouble(c.rooms);

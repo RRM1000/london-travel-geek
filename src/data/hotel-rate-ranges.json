@@ -4037,8 +4037,8 @@
    {
     "slug": "ibis-london-wembley",
     "name": "ibis London Wembley",
-    "status": "no-rate",
-    "reason": "Apify's details lookup returned nothing for its Google Hotels listing on all five dates (15 Sep 2026). Price it on all.accor.com."
+    "status": "not-bookable",
+    "reason": "Not taking bookings for any of our 2026 nights (15 Sep 2026). all.accor.com, hotel 3141: \"This accommodation is unavailable on our site\" for 11 Oct, 24 Oct (the night Rob chose instead of 17 Oct, the eve of the NFL game on 18 Oct) and 12 Dec 2026, with every night from two days before to two days after also \"Not available\". Hotels.com (ho206152): \"Sorry, we aren't taking reservations for this property on our site.\" Apify returned no Google Hotels details on any date. It was bookable in 2027: public rate from €98.19 on 17 Feb and €268.87 on 17 Apr (Accor showed euros). Two of five nights is not enough for a verdict."
    }
   ]
  }

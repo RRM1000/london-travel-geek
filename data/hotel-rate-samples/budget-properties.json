@@ -695,13 +695,19 @@
    "evidenceKey": "ibislondonwembley",
    "sources": 2,
    "inSheet": false,
-   "engine": "google-hotels",
-   "url": "https://www.google.com/travel/hotels/entity/ChcI2ay8xc-b0JVHGgsvZy8xdGRuM2wwMxAB",
+   "engine": "all.accor.com",
+   "url": "https://all.accor.com/booking/en/accor/hotel/3141",
    "match": "ibis London Wembley",
-   "branch": "Google Hotels lists \"ibis London Wembley\" at an address it did not return; our record has HA9 0HB (Wembley). Found with the Apify search \"hotels near ibis London Wembley, London\" on 15 Sep 2026.",
+   "branch": "Google Hotels lists \"ibis London Wembley\" at an address it did not return; our record has HA9 0HB (Wembley). Found with the Apify search \"hotels near ibis London Wembley, London\" on 15 Sep 2026. Apify returned no details for its Google listing, so it is priced on Hotels.com, which sells it as ho206152 (found 15 Sep 2026).",
    "section": "outer",
-   "status": "no-rate",
-   "statusNote": "Apify's details lookup returned nothing for its Google Hotels listing on all five dates (15 Sep 2026). Price it on all.accor.com."
+   "dateOverrides": {
+    "saturday": {
+     "date": "2026-10-24",
+     "why": "Wembley Stadium hosts an NFL game (Jacksonville Jaguars v Houston Texans, 14:30) on Sunday 18 October 2026, so Saturday 17 October is a fan night at Wembley hotels. 24 October is the nearest Saturday with nothing listed at Wembley Stadium or OVO Arena Wembley (both checked 15 Sep 2026). Rob chose the swap on 15 Sep 2026; the other four nights had nothing on at either venue."
+    }
+   },
+   "status": "not-bookable",
+   "statusNote": "Not taking bookings for any of our 2026 nights (15 Sep 2026). all.accor.com, hotel 3141: \"This accommodation is unavailable on our site\" for 11 Oct, 24 Oct (the night Rob chose instead of 17 Oct, the eve of the NFL game on 18 Oct) and 12 Dec 2026, with every night from two days before to two days after also \"Not available\". Hotels.com (ho206152): \"Sorry, we aren't taking reservations for this property on our site.\" Apify returned no Google Hotels details on any date. It was bookable in 2027: public rate from €98.19 on 17 Feb and €268.87 on 17 Apr (Accor showed euros). Two of five nights is not enough for a verdict."
   }
  ]
 }
