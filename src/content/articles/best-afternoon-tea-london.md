@@ -395,7 +395,8 @@ The grand hotels run from about £75 to well over £100 a head. These do the sam
 The most reliable value in London afternoon tea, and the rooms are the reason to go.
 
 * **The Wallace Collection**, Marylebone — tea in the glass-roofed courtyard of a Manchester Square townhouse full of Old Masters, and the museum itself is free.
-* **The British Museum** — around **£40**, in the Great Court under the Foster roof.
+* **The British Museum** — around **£40**, in the Great Court under the Foster roof. <a href="https://www.getyourguide.com/activity/-t114220?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-museums" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book it on GetYourGuide</a>.
+* **The National Gallery** — a guided tour of the gallery with afternoon tea. <a href="https://www.getyourguide.com/activity/-t436924?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-museums" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book it on GetYourGuide</a>.
 * **Tate Modern** — around **£30**, with the river and St Paul's through the window.
 * **The Royal Albert Hall** — tea inside the building rather than a hotel dining room, which is a different kind of occasion.
 
@@ -463,6 +464,8 @@ City Cruises' sailing isn't sold on GetYourGuide. The afternoon tea cruise there
 **The bus if you want the sightseeing**, because it covers more landmarks in ninety minutes than any walk could and you are looking at them from the top deck of a Routemaster, which is its own thing. **The boat if you want the tea**, because the food is served properly at a table that is not moving through traffic, the tea is unlimited, and you can get up and walk about.
 
 Neither will beat The Ritz or Claridge's on the tea itself. Both beat them comfortably on price, and both are far easier to book.
+
+There is also **afternoon tea on the London Eye**: <a href="https://www.getyourguide.com/activity/-t1108107?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-london-eye" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">book it on GetYourGuide</a>.
 
 ---
 
