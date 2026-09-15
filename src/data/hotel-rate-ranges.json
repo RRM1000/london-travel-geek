@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14",
+ "generated": "2026-09-15",
  "sampledOn": "2026-09-07",
  "dates": [
   {
@@ -1092,7 +1092,7 @@
  ],
  "budget": {
   "sampledOn": "2026-09-14",
-  "basis": "1 night, 1 room, 2 adults. The cheapest double or twin shown on the page, total including taxes and fees as displayed, in GBP. Hotels.com (uk.hotels.com) for every property it sells; premierinn.com for Premier Inn and hub by Premier Inn, which do not sell through Hotels.com; the operator's own engine (mews) for a property Hotels.com lists but has no rooms for on any sample night.",
+  "basis": "1 night, 1 room, 2 adults. The cheapest double or twin shown on the page, total including taxes and fees as displayed, in GBP. Hotels.com (uk.hotels.com) for every property it sells; premierinn.com for Premier Inn and hub by Premier Inn, which do not sell through Hotels.com; the operator's own engine (mews) for a property Hotels.com lists but has no rooms for on any sample night; travelodge.co.uk for a Travelodge that Hotels.com does not list; all.accor.com (public rate, not the member rate) for an Accor hotel Hotels.com does not list. Engine google-hotels (the outer London hotels, 15 Sep 2026): Hotels.com's rate for 2 adults as Google Hotels lists it, read through the Apify Hotels.com Scraper, then Expedia's (the same Expedia Group room at the same price), then the hotel's own site, then Booking.com - the source is recorded for every night. Checked against the browser: The Z Hotel Shoreditch matched the Hotels.com page on all five dates, within £1; New Road Hotel ran £2-£35 above its 14 Sep browser capture a day later, with a median of £138 against £143.",
   "ceiling": 150,
   "rule": "A hotel is budget when its median sampled night is £150 or less (Rob, 14 Sep 2026). Needs 3+ priced nights.",
   "dates": [
@@ -1173,6 +1173,7 @@
     "notCapturedOn": [
      "2026-10-17"
     ],
+    "unpricedOn": [],
     "cheapest": 132,
     "dearest": 1009,
     "median": 311,
@@ -1228,6 +1229,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 179,
     "dearest": 259,
     "median": 204,
@@ -1283,6 +1285,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 155,
     "dearest": 251,
     "median": 220,
@@ -1338,6 +1341,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 95,
     "dearest": 201,
     "median": 150,
@@ -1393,6 +1397,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 146,
     "dearest": 247,
     "median": 180,
@@ -1448,6 +1453,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 92,
     "dearest": 295,
     "median": 177,
@@ -1503,6 +1509,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 145,
     "dearest": 250,
     "median": 205,
@@ -1558,6 +1565,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 160,
     "dearest": 243,
     "median": 222,
@@ -1613,6 +1621,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 151,
     "dearest": 266,
     "median": 211,
@@ -1668,6 +1677,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 127,
     "dearest": 235,
     "median": 173,
@@ -1723,6 +1733,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 75,
     "dearest": 153,
     "median": 150,
@@ -1778,6 +1789,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 144,
     "dearest": 214,
     "median": 159,
@@ -1833,6 +1845,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 83,
     "dearest": 175,
     "median": 103,
@@ -1888,6 +1901,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 85,
     "dearest": 221,
     "median": 147,
@@ -1943,6 +1957,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 139,
     "dearest": 257,
     "median": 223,
@@ -1998,6 +2013,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 135,
     "dearest": 205,
     "median": 165,
@@ -2054,6 +2070,7 @@
      "2027-04-17"
     ],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 185,
     "dearest": 185,
     "median": 185,
@@ -2109,6 +2126,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 239,
     "dearest": 369,
     "median": 304,
@@ -2164,6 +2182,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 99,
     "dearest": 199,
     "median": 143,
@@ -2219,6 +2238,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 92,
     "dearest": 196,
     "median": 137,
@@ -2275,6 +2295,7 @@
      "2027-04-17"
     ],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 106,
     "dearest": 106,
     "median": 106,
@@ -2330,6 +2351,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 222,
     "dearest": 272,
     "median": 258,
@@ -2385,6 +2407,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 92,
     "dearest": 203,
     "median": 178,
@@ -2440,6 +2463,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 126,
     "dearest": 220,
     "median": 176,
@@ -2495,6 +2519,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 63,
     "dearest": 179,
     "median": 131,
@@ -2551,6 +2576,7 @@
      "2026-10-17"
     ],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 80,
     "dearest": 130,
     "median": 114.5,
@@ -2606,6 +2632,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 102,
     "dearest": 243,
     "median": 161,
@@ -2661,6 +2688,7 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 66,
     "dearest": 166,
     "median": 142,
@@ -2716,10 +2744,1250 @@
     "datesPriced": 5,
     "soldOutOn": [],
     "notCapturedOn": [],
+    "unpricedOn": [],
     "cheapest": 127,
     "dearest": 283,
     "median": 179,
     "withinCeiling": false
+   },
+   {
+    "slug": "new-road-hotel",
+    "name": "New Road Hotel",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho659396032/new-road-hotel-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 109,
+      "room": "Pocket Double",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 97,
+      "room": "Pocket Double",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 215,
+      "room": "Warehouse Double",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 143,
+      "room": "Pocket Double",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 147,
+      "room": "Pocket Double",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 97,
+    "dearest": 215,
+    "median": 143,
+    "withinCeiling": true
+   },
+   {
+    "slug": "tribe-london-canary-wharf",
+    "name": "TRIBE London Canary Wharf",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho2660085568/tribe-london-canary-wharf-dixcove-ghana/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 157,
+      "room": "TRIBE Essential atrium",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 175,
+      "room": "TRIBE Essential atrium",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 185,
+      "room": "TRIBE Essential atrium",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 199,
+      "room": "TRIBE Essential atrium",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 164,
+      "room": "TRIBE Essential atrium",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 157,
+    "dearest": 199,
+    "median": 175,
+    "withinCeiling": false
+   },
+   {
+    "slug": "templeton-garden",
+    "name": "Templeton Garden",
+    "engine": "hotels.com",
+    "url": "https://uk.hotels.com/ho194223/k-k-hotel-george-kensington-london-united-kingdom/",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 259,
+      "room": "The Classic",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 221,
+      "room": "The Classic",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 314,
+      "room": "The Classic",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 344,
+      "room": "The Classic",
+      "ratePlan": "Non-refundable"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 240,
+      "room": "The Classic",
+      "ratePlan": "Non-refundable"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 221,
+    "dearest": 344,
+    "median": 259,
+    "withinCeiling": false
+   },
+   {
+    "slug": "hub-west-brompton",
+    "name": "hub by Premier Inn London West Brompton",
+    "engine": "premierinn.com",
+    "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-west-brompton.html",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 59,
+      "room": "Standard room",
+      "ratePlan": "hub Standard"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 64,
+      "room": "Standard room",
+      "ratePlan": "hub Advance"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 174,
+      "room": "Standard room",
+      "ratePlan": "hub Standard"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 176,
+      "room": "Standard room",
+      "ratePlan": "hub Standard"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 141,
+      "room": "Standard room",
+      "ratePlan": "hub Advance"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 59,
+    "dearest": 176,
+    "median": 141,
+    "withinCeiling": true
+   },
+   {
+    "slug": "premier-inn-stratford",
+    "name": "Premier Inn London Stratford",
+    "engine": "premierinn.com",
+    "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-stratford.html",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 71,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 106,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 186,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 203,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 134,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 71,
+    "dearest": 203,
+    "median": 134,
+    "withinCeiling": true
+   },
+   {
+    "slug": "premier-inn-hanger-lane",
+    "name": "Premier Inn London Hanger Lane",
+    "engine": "premierinn.com",
+    "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-hanger-lane.html",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 47,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 76,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 114,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 142,
+      "room": "Standard room",
+      "ratePlan": "Standard"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 115,
+      "room": "Standard room",
+      "ratePlan": "Advance"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 47,
+    "dearest": 142,
+    "median": 114,
+    "withinCeiling": true
+   },
+   {
+    "slug": "travelodge-london-docklands",
+    "name": "Travelodge London Docklands",
+    "engine": "travelodge.co.uk",
+    "url": "https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 34.99,
+      "room": "Standard Room",
+      "ratePlan": "Lowest Rate"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 42.99,
+      "room": "Standard Room",
+      "ratePlan": "Lowest Rate"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 111.99,
+      "room": "Standard Room",
+      "ratePlan": "Lowest Rate"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 107.99,
+      "room": "Standard Room",
+      "ratePlan": "Lowest Rate"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 81.99,
+      "room": "Standard Room",
+      "ratePlan": "Lowest Rate"
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 34.99,
+    "dearest": 111.99,
+    "median": 81.99,
+    "withinCeiling": true
+   },
+   {
+    "slug": "ibis-budget-london-whitechapel",
+    "name": "ibis budget London Whitechapel",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 84,
+      "room": "own site (ibis budget London Whitechapel - Brick Lane) rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate (lowest from any site £51)"
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 168,
+      "room": "own site (ibis budget London Whitechapel - Brick Lane) rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 144,
+      "room": "own site (ibis budget London Whitechapel - Brick Lane) rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 107,
+      "room": "own site (ibis budget London Whitechapel - Brick Lane) rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 4,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [
+     "2027-02-17"
+    ],
+    "cheapest": 84,
+    "dearest": 168,
+    "median": 125.5,
+    "withinCeiling": true
+   },
+   {
+    "slug": "nox-golders-green",
+    "name": "NOX Golders Green",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 100,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 89,
+      "room": "own site (NOX Golders Green) rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 124,
+      "room": "own site (NOX Golders Green) rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 119,
+      "room": "own site (NOX Golders Green) rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 208,
+      "room": "own site (NOX Golders Green) rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 89,
+    "dearest": 208,
+    "median": 119,
+    "withinCeiling": true
+   },
+   {
+    "slug": "green-rooms",
+    "name": "Green Rooms",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 88,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 37,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 96,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 80,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 37,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 37,
+    "dearest": 96,
+    "median": 80,
+    "withinCeiling": true
+   },
+   {
+    "slug": "town-hall-hotel",
+    "name": "Town Hall Hotel",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 240,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 192,
+      "room": "Expedia rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 254,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 241,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 244,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 192,
+    "dearest": 254,
+    "median": 241,
+    "withinCeiling": false
+   },
+   {
+    "slug": "holiday-inn-london-camden-lock",
+    "name": "Holiday Inn London Camden Lock",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 155,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 183,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 263,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 263,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 207,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 155,
+    "dearest": 263,
+    "median": 207,
+    "withinCeiling": false
+   },
+   {
+    "slug": "ibis-london-canning-town",
+    "name": "ibis London Canning Town",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 106,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 84,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 153,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 168,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 100,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 84,
+    "dearest": 168,
+    "median": 106,
+    "withinCeiling": true
+   },
+   {
+    "slug": "mowbray-court-hotel",
+    "name": "Mowbray Court Hotel",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 119,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 85,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 176,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 3,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [
+     "2026-10-17",
+     "2026-12-12"
+    ],
+    "cheapest": 85,
+    "dearest": 176,
+    "median": 119,
+    "withinCeiling": true
+   },
+   {
+    "slug": "the-tommyfield",
+    "name": "The Tommyfield",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 139,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 149,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 189,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 3,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [
+     "2026-10-17",
+     "2026-12-12"
+    ],
+    "cheapest": 139,
+    "dearest": 189,
+    "median": 149,
+    "withinCeiling": true
+   },
+   {
+    "slug": "novotel-london-canary-wharf",
+    "name": "Novotel London Canary Wharf",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 165,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 156,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 227,
+      "room": "Expedia rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 229,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 213,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 156,
+    "dearest": 229,
+    "median": 213,
+    "withinCeiling": false
+   },
+   {
+    "slug": "the-rockwell",
+    "name": "The Rockwell",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 120,
+      "room": "own site (The Rockwell) rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 105,
+      "room": "own site (The Rockwell) rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 190,
+      "room": "own site (The Rockwell) rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     }
+    ],
+    "datesPriced": 3,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [
+     "2026-12-12",
+     "2027-04-17"
+    ],
+    "cheapest": 105,
+    "dearest": 190,
+    "median": 120,
+    "withinCeiling": true
+   },
+   {
+    "slug": "ibis-london-excel-docklands",
+    "name": "ibis London ExCeL Docklands",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 76,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 101,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 185,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 156,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 97,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 76,
+    "dearest": 185,
+    "median": 101,
+    "withinCeiling": true
+   },
+   {
+    "slug": "kip-hotel",
+    "name": "Kip Hotel",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 72,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 81,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate (lowest from any site £233)"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 163,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate (lowest from any site £153)"
+     }
+    ],
+    "datesPriced": 3,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [
+     "2026-10-17",
+     "2027-04-17"
+    ],
+    "cheapest": 72,
+    "dearest": 163,
+    "median": 81,
+    "withinCeiling": true
+   },
+   {
+    "slug": "ibis-london-earls-court",
+    "name": "ibis London Earls Court",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 102,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 84,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "total": 200,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "total": 183,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 154,
+      "room": "own site (ibis London Earls Court) rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 5,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [],
+    "cheapest": 84,
+    "dearest": 200,
+    "median": 154,
+    "withinCeiling": false
+   },
+   {
+    "slug": "the-drayton-court-hotel",
+    "name": "The Drayton Court Hotel",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "total": 117,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 135,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     }
+    ],
+    "datesPriced": 2,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [
+     "2026-10-17",
+     "2026-12-12",
+     "2027-04-17"
+    ],
+    "cheapest": 117,
+    "dearest": 135,
+    "median": 126,
+    "withinCeiling": null
+   },
+   {
+    "slug": "the-bedford-balham",
+    "name": "The Bedford Balham",
+    "engine": "google-hotels",
+    "url": "https://www.google.com/travel/hotels/entity/ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+    "nights": [
+     {
+      "dateKey": "cheap-sunday",
+      "date": "2026-10-11",
+      "day": "Sun",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     },
+     {
+      "dateKey": "midweek",
+      "date": "2027-02-17",
+      "day": "Wed",
+      "total": 106,
+      "room": "Hotels.com rate for 2 adults",
+      "ratePlan": null
+     },
+     {
+      "dateKey": "saturday",
+      "date": "2026-10-17",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     },
+     {
+      "dateKey": "december",
+      "date": "2026-12-12",
+      "day": "Sat",
+      "unpriced": true,
+      "note": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate"
+     },
+     {
+      "dateKey": "spring",
+      "date": "2027-04-17",
+      "day": "Sat",
+      "total": 178,
+      "room": "Booking.com rate for 2 adults",
+      "ratePlan": null
+     }
+    ],
+    "datesPriced": 2,
+    "soldOutOn": [],
+    "notCapturedOn": [],
+    "unpricedOn": [
+     "2026-10-11",
+     "2026-10-17",
+     "2026-12-12"
+    ],
+    "cheapest": 106,
+    "dearest": 178,
+    "median": 142,
+    "withinCeiling": null
    }
   ],
   "notPriced": [
@@ -2728,6 +3996,48 @@
     "name": "The Lime Tree Hotel",
     "status": "unpriced",
     "reason": "No one-night stay for 2 adults could be booked on any of the five sample nights, on either channel (14 Sep 2026). Hotels.com: 'can't accommodate 2 guests' on 11 and 17 Oct, 'no rooms available at this property' on 17 Feb, 12 Dec and 17 Apr (captures kept in budget-2026-09-14.json). The operator's own SynXis engine (bookings.limetreehotel.co.uk, titled 'Room Mate Lime Tree - Reservations'): 'check-in/check-out combination is not available' for 11 Oct, 17 Feb and 12 Dec; 'cannot accept departures' on the Sunday after 17 Oct and 17 Apr, i.e. no one-night Saturday stays. For scale only, not a sampled night: the room-matehotels.com calendar showed from-prices of £241-£375 for other October 2026 nights (1, 3, 4, 5, 6 and 12 Oct)."
+   },
+   {
+    "slug": "the-windmill-clapham",
+    "name": "The Windmill Clapham",
+    "status": "no-rate",
+    "reason": "Google Hotels lists The Windmill (Hotel), Windmill Drive SW4 9DE, but with no Hotels.com, Expedia, own-site or Booking.com rate on any of the five dates: Agoda-type sites only on two, nothing on three (15 Sep 2026). Price it on its own booking engine."
+   },
+   {
+    "slug": "brook-green-hotel",
+    "name": "Brook Green Hotel",
+    "status": "no-rate",
+    "reason": "Apify's details lookup returned nothing for its Google Hotels listing on all five dates (15 Sep 2026). Price it on its own booking engine."
+   },
+   {
+    "slug": "high-road-house",
+    "name": "High Road House",
+    "status": "no-rate",
+    "reason": "Apify's details lookup returned nothing for its Google Hotels listing on all five dates (15 Sep 2026). Price it on sohohouse.com."
+   },
+   {
+    "slug": "best-western-chiswick-palace",
+    "name": "Best Western Chiswick Palace & Suites",
+    "status": "identity-unconfirmed",
+    "reason": "Google Hotels has no Best Western Chiswick Palace & Suites. Searching for it returns Spark by Hilton London Chiswick, 69-73 Chiswick High Road W4 2LS, whose older listing carries 1,026 reviews - possibly the same hotel renamed, not confirmed. Booking.com rates for that listing on 15 Sep 2026: £85, £147, £122, £118, £90. Confirm the rename before pricing or naming it."
+   },
+   {
+    "slug": "the-fox-and-goose-hotel",
+    "name": "The Fox & Goose Hotel",
+    "status": "no-rate",
+    "reason": "Apify's details lookup returned nothing for its Google Hotels listing on all five dates (15 Sep 2026). Price it on its own booking engine."
+   },
+   {
+    "slug": "the-captain-cook",
+    "name": "The Captain Cook",
+    "status": "no-rate",
+    "reason": "Apify's details lookup returned nothing for its Google Hotels listing on all five dates (15 Sep 2026). Price it on its own booking engine."
+   },
+   {
+    "slug": "ibis-london-wembley",
+    "name": "ibis London Wembley",
+    "status": "no-rate",
+    "reason": "Apify's details lookup returned nothing for its Google Hotels listing on all five dates (15 Sep 2026). Price it on all.accor.com."
    }
   ]
  }

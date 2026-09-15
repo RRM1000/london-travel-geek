@@ -1,0 +1,3985 @@
+[
+ {
+  "propertyToken": "ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+  "name": "ibis budget London Whitechapel - Brick Lane",
+  "address": "100 Whitechapel Rd, London E1 1JG, United Kingdom",
+  "ratePerNightLowest": 84,
+  "totalRateLowest": 84,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "ibis budget London Whitechapel - Brick Lane",
+    "rate": "£84",
+    "extractedRate": 84,
+    "numGuests": 2
+   },
+   {
+    "source": "TravelPortal",
+    "rate": "£86",
+    "extractedRate": 86,
+    "numGuests": 2
+   },
+   {
+    "source": "Kiwi.com",
+    "rate": "£89",
+    "extractedRate": 89,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotelscombined.co.kr",
+    "rate": "£91",
+    "extractedRate": 91,
+    "numGuests": 2
+   },
+   {
+    "source": "kr.bluepillow.com",
+    "rate": "£86",
+    "extractedRate": 86,
+    "numGuests": 2
+   },
+   {
+    "source": "goseek.com",
+    "rate": "£86",
+    "extractedRate": 86,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis budget London Whitechapel - Brick Lane",
+   "Amimir.com",
+   "TravelPortal",
+   "Wego",
+   "goseek.com",
+   "kr.bluepillow.com",
+   "TUI.com",
+   "Kiwi.com",
+   "Reserving",
+   "Hotelscombined.co.kr",
+   "Catchit.com",
+   "Hotel prive"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.5176545,
+  "gpsLng": -0.0647938,
+  "typicalPriceLow": 49,
+  "typicalPriceHigh": 94,
+  "scrapedAt": "2026-09-15T13:44:50.455Z"
+ },
+ {
+  "propertyToken": "ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+  "name": "NOX Golders Green",
+  "address": "146-150 Golders Green Rd, London NW11 8HE, United Kingdom",
+  "ratePerNightLowest": 100,
+  "ratePerNightBeforeTaxes": 83,
+  "totalRateLowest": 100,
+  "totalRateBeforeTaxes": 83,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£100",
+    "extractedRate": 100,
+    "numGuests": 2
+   },
+   {
+    "source": "Agoda",
+    "rate": "£100",
+    "extractedRate": 100,
+    "numGuests": 2
+   },
+   {
+    "source": "Tripadvisor.com",
+    "rate": "£100",
+    "extractedRate": 100,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Booking.com",
+   "Tripadvisor.com",
+   "Agoda",
+   "dealbase.com",
+   "Bluepillow.com",
+   "NOX Golders Green"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.574447500000005,
+  "gpsLng": -0.20160699999999998,
+  "typicalPriceLow": 54,
+  "typicalPriceHigh": 84,
+  "scrapedAt": "2026-09-15T13:44:52.094Z"
+ },
+ {
+  "propertyToken": "ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+  "name": "Green Rooms",
+  "address": "Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom",
+  "ratePerNightLowest": 85,
+  "ratePerNightBeforeTaxes": 70,
+  "totalRateLowest": 85,
+  "totalRateBeforeTaxes": 70,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£88",
+    "extractedRate": 88,
+    "numGuests": 2
+   },
+   {
+    "source": "Tripadvisor.com",
+    "rate": "£88",
+    "extractedRate": 88,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£88",
+    "extractedRate": 88,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Super.com",
+   "Booking.com",
+   "Priceline",
+   "KAYAK.com",
+   "Tripadvisor.com",
+   "Skyscanner",
+   "Reserving",
+   "Wego",
+   "Bluepillow.com",
+   "goseek.com",
+   "momondo.com",
+   "Hotelscombined.com",
+   "Vio.com",
+   "dealbase.com",
+   "Etrip.net"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.5969774,
+  "gpsLng": -0.11080020000000002,
+  "typicalPriceLow": 189,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:44:58.314Z"
+ },
+ {
+  "propertyToken": "ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+  "name": "Town Hall Hotel & Apartments",
+  "address": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF, United Kingdom",
+  "hotelsComRate": 240,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiuqvON3PCWAxUXo1oFHZMPEDsYACICCAEQNRoCdnU&co=1&gclid=EAIaIQobChMIrqrzjdzwlgMVF6NaBR2TDxA7EAoYASABEgI2uPD_BwE&cid=CAASuwHkaGhdSly1foQYZL0ktCxXoOG_xxntEIhzGJm4F7NgqliJWfCqGGXDtgMlwlZOt1uVNOqr16Dsz_9jNWTc40H5RFWEgvEMu2kT1oNmDR8IvlRW3cGHtRRErlPCOSX2LFW8Ps1cbgVV2_RoBtQIei0kT1D7_nLin8LH-xOwg3kFu9i9ARpLdRsF3Yi6DEWIEH8Wpoh4V_fPYk_psibBFKQYRwCcy7oeEsQCcp8emeTMiZFSzudKgG_Bdq7Q&sig=AOD64_0rr8s_6SHDByN6BoV4_S1BvwnBag&adurl",
+  "ratePerNightLowest": 180,
+  "ratePerNightBeforeTaxes": 138,
+  "totalRateLowest": 180,
+  "totalRateBeforeTaxes": 138,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£240",
+    "extractedRate": 240,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£240",
+    "extractedRate": 240,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£234",
+    "extractedRate": 234,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£240",
+    "extractedRate": 240,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Town Hall Hotel & Apartments",
+   "Super.com",
+   "Billabook.com",
+   "Vio.com",
+   "Expedia.com",
+   "Gother",
+   "Hotels.com",
+   "Qantas Hotels",
+   "Trip.com",
+   "dealbase.com",
+   "trivago DEALS",
+   "Michelin Guide Hotels",
+   "Etrip.net",
+   "Orbitz.com",
+   "TravelUp",
+   "Traveloka.com",
+   "Travelocity.com",
+   "Wego",
+   "eDreams",
+   "CheapTickets.com",
+   "Stayforlong.com",
+   "Evendo"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.530479799999995,
+  "gpsLng": -0.0557422,
+  "typicalPriceLow": 110,
+  "typicalPriceHigh": 189,
+  "scrapedAt": "2026-09-15T13:45:00.664Z"
+ },
+ {
+  "propertyToken": "ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+  "name": "Holiday Inn London - Camden Lock by IHG",
+  "address": "30 Jamestown Rd, London NW1 7BY, United Kingdom",
+  "hotelsComRate": 155,
+  "hotelsComBookingLink": "https://www.google.com/travel/lodging/clk?pc=AA80OswBQ_y7AdMFWBYbqrsnXn33n0NNmXa0eGXG95zI3rjV7U1_zycahrJE34rFJaaFBhqSQ6i9gCYMQWiTgoIKE0OZZwSQTiYYhNw8tzpBgl3nvvYpyfKQAzHosX8Txd9Ak-cKQx7IjUmlie27xtntXKw8kIia8ii5xXA8RNk1w4P9O355XzTvSPZD2EGxXaw&pcurl=https://www.hotels.com/Hotel-Search?selected%3D972822%26startDate%3D2026-10-11%26endDate%3D2026-10-12%26mdpcid%3DHCOM-RU.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.972822.20261011.20261012.DDF.26.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D155.21%26mpg%3DGBP%26mpl%3DUSD%26mpj%3D25.86%26mpr%3D0.00%26rffrid%3Dsem.hcom.RU.156.024.localuniversal.02.desktop-1.kwrd%3DGGMETA.972822RUen-20261011-N-ABW%3D26-camp%3D-aud%3D-N%26rateplanid%3D382180155%26mpm%3D24%26mpn%3D231503%26mpo%3DEC%26mpp%3D1&s=AD1XQnlmOp7iz6JUohP7oVzbwh_J&ap=1",
+  "ratePerNightLowest": 124,
+  "totalRateLowest": 124,
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [
+   "Holiday Inn London - Camden Lock by IHG",
+   "Bluepillow.com",
+   "Agoda",
+   "Booking.com",
+   "Expedia.com",
+   "Luxury Escapes",
+   "Hotels.com",
+   "Traveloka.com",
+   "BusinessHotels.com",
+   "Evendo",
+   "Qantas Hotels",
+   "Billabook.com"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.5404833,
+  "gpsLng": -0.1460986,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:45:02.408Z"
+ },
+ {
+  "propertyToken": "ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+  "name": "ibis London Canning Town",
+  "address": "8 Silvertown Way, London E16 1ED, United Kingdom",
+  "hotelsComRate": 106,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn36-U3PCWAxUzcEcBHfMTN1wYACICCAEQJBoCcXU&co=1&ase=2&gclid=EAIaIQobChMI59-vlNzwlgMVM3BHAR3zEzdcEAoYBSABEgIJO_D_BwE&cid=CAASuwHkaHGh0G1Qs49VMkk44iJkDXmRs_qlNN34RVJFc1blRTDqMWl2FTk7MgW3bQdPzpfGjpIH_J5mWx47j4hZ6ZagnBtmQRKNIQ32AxC609RWWcbmVo6GukbwfaU4x7F83RymGWo7IS0EMK09wv5Nhtjp8H4C82ZdTkCpzK9M9HbG4KNiencd8xRVqNzZGNl7BhKsxEFxzUCzWK4gD9k0muCA9a_vk5kEygub0mFDAQWxE0lrml9PDB1r-kb9&category=acrcp_v1_48&sig=AOD64_33D34TnQ8LZdLriB2nDNhlIJRklA&adurl",
+  "ratePerNightLowest": 90,
+  "ratePerNightBeforeTaxes": 75,
+  "totalRateLowest": 90,
+  "totalRateBeforeTaxes": 75,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.com",
+    "rate": "£106",
+    "extractedRate": 106,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Canning Town",
+    "rate": "£106",
+    "extractedRate": 106,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£106",
+    "extractedRate": 106,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£106",
+    "extractedRate": 106,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£106",
+    "extractedRate": 106,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Canning Town",
+   "Super.com",
+   "Expedia.com",
+   "Booking.com",
+   "Priceline",
+   "Vio.com",
+   "Hotels.com",
+   "KAYAK.com",
+   "goseek.com",
+   "Agoda",
+   "Tripadvisor.com",
+   "Trip.com",
+   "Stayforlong.com",
+   "lastminute.com",
+   "TravelPortal",
+   "dealbase.com",
+   "Gother",
+   "Etrip.net",
+   "Orbitz.com",
+   "Qantas Hotels",
+   "BusinessHotels.com",
+   "TravelUp",
+   "Kiwi.com",
+   "Travelocity.com",
+   "Wego",
+   "trivago DEALS",
+   "Catchit.com",
+   "Bluepillow.com",
+   "momondo.com",
+   "eDreams",
+   "CheapTickets.com",
+   "Closest Hotel",
+   "Evendo",
+   "HomeToGo",
+   "Hotelscombined.com",
+   "Traveloka.com"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.514507699999996,
+  "gpsLng": 0.0094246,
+  "typicalPriceLow": 36,
+  "typicalPriceHigh": 85,
+  "scrapedAt": "2026-09-15T13:45:14.354Z"
+ },
+ {
+  "propertyToken": "ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+  "name": "Mowbray Court Hotel",
+  "address": "28-32 Penywern Rd, London SW5 9SU, United Kingdom",
+  "hotelsComRate": 119,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwizmt6X3PCWAxXttwMAHRGvJtcYACICCAEQGBoCb2E&co=1&gclid=EAIaIQobChMIs5rel9zwlgMV7bcDAB0RrybXEAoYBSABEgIJW_D_BwE&cid=CAASuwHkaDmWKvIA2qgINwCf0RCONY8yWeqszxC38wkj_ZyhcYoENqiswTuZIMJYuNARrdLVdNQpvnnDyj4zH-TwLIDJIXU_odHqweSr7aE-ivoubypATrY5S-dC1cwa0vKpdtKrMM_T1rjNlN7asmSKs938zpQH9ypyNDY5_4PCCpTch5LxEvGevC_4vkcm2wGSi6XfpkRoo5-CFwVeuFjb-nkxMeTFo5n1BSaNScX_FqJIX0rlCs2_Y6fqq4Qd&sig=AOD64_2fCp63BsImGDlpnH4NH5LaGnPOQw&adurl",
+  "ratePerNightLowest": 74,
+  "ratePerNightBeforeTaxes": 61,
+  "totalRateLowest": 74,
+  "totalRateBeforeTaxes": 61,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Priceline",
+    "rate": "£75",
+    "extractedRate": 75,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£119",
+    "extractedRate": 119,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£107",
+    "extractedRate": 107,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£119",
+    "extractedRate": 119,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£119",
+    "extractedRate": 119,
+    "numGuests": 2
+   },
+   {
+    "source": "Agoda",
+    "rate": "£119",
+    "extractedRate": 119,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Super.com",
+   "Priceline",
+   "KAYAK.com",
+   "Vio.com",
+   "Hotelscombined.com",
+   "Etrip.net",
+   "Booking.com",
+   "Trip.com",
+   "Expedia.com",
+   "Bluepillow.com",
+   "Hotels.com",
+   "Agoda",
+   "hutchgo (Hutchison Travel Limited)",
+   "Orbitz.com",
+   "Reserving",
+   "Qantas Hotels",
+   "TravelUp",
+   "Kiwi.com",
+   "Travelocity.com",
+   "Wego",
+   "eDreams",
+   "CheapTickets.com",
+   "Closest Hotel",
+   "Traveloka.com",
+   "Evendo"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.4909122,
+  "gpsLng": -0.1938435,
+  "typicalPriceLow": 189,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:45:20.963Z"
+ },
+ {
+  "propertyToken": "ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+  "name": "The Tommyfield",
+  "address": "185 Kennington Ln, London SE11 4EZ, United Kingdom",
+  "ratePerNightLowest": 139,
+  "totalRateLowest": 139,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£139",
+    "extractedRate": 139,
+    "numGuests": 2
+   },
+   {
+    "source": "Despegar",
+    "rate": "£139",
+    "extractedRate": 139,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£139",
+    "extractedRate": 139,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Booking.com",
+   "Despegar",
+   "Hoteles.com",
+   "Expedia.com",
+   "Agoda",
+   "Trip.com",
+   "Priceline",
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.4886713,
+  "gpsLng": -0.11090269999999999,
+  "scrapedAt": "2026-09-15T13:45:23.374Z"
+ },
+ {
+  "propertyToken": "ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+  "name": "Novotel London Canary Wharf",
+  "address": "40 Marsh Wall, London E14 9TP, United Kingdom",
+  "hotelsComRate": 165,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjj942a3PCWAxV5gVoFHcFaBVYYACICCAEQPhoCdnU&co=1&ase=2&gclid=EAIaIQobChMI4_eNmtzwlgMVeYFaBR3BWgVWEAoYAyABEgJ4ifD_BwE&cid=CAASuwHkaDpJWpAqLMuq0r6lai7Loa3X08CYqrBdYeMQT9Zc6MEHvspSg5RlFLpc-o8mLLhByIL9ZgB55JK4YGY1uXdLALmuomFhKkYEB1oYPgOA2eHWUI7r3M2eKX4F4_HhGd6AfrK5x_KrFFw0pCBGKsodnf4iGnAQHmRrJ8lR34GxbNpsWG9fbBCxsh1d88yKqKI1v9dQgIaPWDeCk-9QXfuWrnKceayWQjrLlY4unyikmshJz6cw3J5SQOWz&category=acrcp_v1_48&sig=AOD64_1CKheYtJiX0gmHwmIFpJ3GdFIRYw&adurl",
+  "ratePerNightLowest": 130,
+  "ratePerNightBeforeTaxes": 109,
+  "totalRateLowest": 130,
+  "totalRateBeforeTaxes": 109,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.com",
+    "rate": "£165",
+    "extractedRate": 165,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£165",
+    "extractedRate": 165,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£165",
+    "extractedRate": 165,
+    "numGuests": 2
+   },
+   {
+    "source": "Novotel London Canary Wharf",
+    "rate": "£165",
+    "extractedRate": 165,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£165",
+    "extractedRate": 165,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Novotel London Canary Wharf",
+   "Super.com",
+   "KAYAK.com",
+   "Clicktrip.com",
+   "trivago DEALS",
+   "Vio.com",
+   "Skyscanner",
+   "Expedia.com",
+   "goseek.com",
+   "Stayforlong.com",
+   "Agoda",
+   "Booking.com",
+   "Priceline",
+   "Wego",
+   "Traveluro",
+   "Hotels.com",
+   "Tripadvisor.com",
+   "lastminute.com",
+   "Etrip.net",
+   "TravelPortal",
+   "Gother",
+   "dealbase.com",
+   "Orbitz.com",
+   "BusinessHotels.com",
+   "TravelUp",
+   "Qantas Hotels",
+   "Billabook.com",
+   "Catchit.com",
+   "Travelocity.com",
+   "Kiwi.com",
+   "eDreams",
+   "Bluepillow.com",
+   "momondo.com",
+   "CheapTickets.com",
+   "Traveloka.com",
+   "Closest Hotel",
+   "Evendo",
+   "HomeToGo",
+   "Hotelscombined.com",
+   "Hotel prive",
+   "Hotelsnest.com",
+   "Pilot"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.501300699999994,
+  "gpsLng": -0.023289999999999998,
+  "typicalPriceLow": 103,
+  "typicalPriceHigh": 148,
+  "scrapedAt": "2026-09-15T13:45:26.272Z"
+ },
+ {
+  "propertyToken": "ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+  "name": "The Rockwell",
+  "address": "181-183 Cromwell Rd, London SW5 0SF, United Kingdom",
+  "ratePerNightLowest": 108,
+  "totalRateLowest": 108,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "The Rockwell",
+    "rate": "£120",
+    "extractedRate": 120,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£108",
+    "extractedRate": 108,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£108",
+    "extractedRate": 108,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "The Rockwell",
+   "Booking.com",
+   "Reserving",
+   "Super.com",
+   "Priceline",
+   "BusinessHotels.com",
+   "Catchit.com",
+   "Travelmyth.com",
+   "Bluepillow.com",
+   "Trip.com"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.494577199999995,
+  "gpsLng": -0.1929515,
+  "typicalPriceLow": 253,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:45:32.949Z"
+ },
+ {
+  "propertyToken": "ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+  "name": "ibis London Excel Docklands",
+  "address": "9 Western Gateway, London E16 1AB, United Kingdom",
+  "hotelsComRate": 76,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiI4KCe3PCWAxUGIEQIHeFNKHoYACICCAEQRxoCZHo&co=1&gclid=EAIaIQobChMIiOCgntzwlgMVBiBECB3hTSh6EAoYASABEgIIvPD_BwE&cid=CAASuwHkaCj-Z9YQ4GwLbyxN_oSl1lZV5RI1QTwX16mzODU4qpX-cq-O2zxyZotv0RJg3l5LGjxjEm_xtUtqP5jvxmVjD9cs5VpMQvRuPcd8fO0C8zlAwG3mKIu8IWgUSZh14c2NplxoO8YsVJKpyU00bkdcCdwflK6J4rpC-Bi4AyJUiTNBGxHOvEux-0MTCjkn21YxNwTGroFYp3z961l7mqyD2X12XYzhEdsqQxubtOI9NdfJEDvz2pMMauRI&sig=AOD64_3RmD4hFeYJwxDGK1lhKRHgIm5Lfg&adurl",
+  "ratePerNightLowest": 59,
+  "ratePerNightBeforeTaxes": 49,
+  "totalRateLowest": 59,
+  "totalRateBeforeTaxes": 49,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£76",
+    "extractedRate": 76,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£76",
+    "extractedRate": 76,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£76",
+    "extractedRate": 76,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Excel Docklands",
+    "rate": "£76",
+    "extractedRate": 76,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£76",
+    "extractedRate": 76,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Excel Docklands",
+   "Super.com",
+   "trivago DEALS",
+   "Traveluro",
+   "Vio.com",
+   "Expedia.com",
+   "Agoda",
+   "Booking.com",
+   "Priceline",
+   "Hotels.com",
+   "goseek.com",
+   "KAYAK.com",
+   "lastminute.com",
+   "TravelPortal",
+   "dealbase.com",
+   "Gother",
+   "Etrip.net",
+   "Orbitz.com",
+   "Stayforlong.com",
+   "TravelUp",
+   "BusinessHotels.com",
+   "Reserving",
+   "Qantas Hotels",
+   "Kiwi.com",
+   "Wego",
+   "Travelocity.com",
+   "eDreams",
+   "momondo.com",
+   "Bluepillow.com",
+   "CheapTickets.com",
+   "Closest Hotel",
+   "Evendo",
+   "Traveloka.com",
+   "HomeToGo",
+   "Hotelscombined.com"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.507857900000005,
+  "gpsLng": 0.0226044,
+  "typicalPriceLow": 46,
+  "typicalPriceHigh": 63,
+  "scrapedAt": "2026-09-15T13:45:34.766Z"
+ },
+ {
+  "propertyToken": "ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+  "name": "Kip Hotel",
+  "address": "2 Aspland Grove, London E8 1FJ, United Kingdom",
+  "hotelsComRate": 72,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwju67Ci3PCWAxVrr1oFHRFaE2AYACICCAEQDxoCdnU&co=1&gclid=EAIaIQobChMI7uuwotzwlgMVa69aBR0RWhNgEAoYBCABEgKXw_D_BwE&cid=CAASuwHkaLWEdmvW1tECAlAMOJY5cYLISd9gN2SGPkt08FoaN9UXVf5Rh-FV2aKJJEqO7V3IwMWDdV3eIPO04U5GN5d1bMs0ThT191W3UApftIJIYzZqTeIJOGOswTrf5rraIZDF3Kavg4RD0BsiTQx97R0skWEyYC6r8AdTrN7RcCzvCTK__lmm3Ipl4pfOeE8_ZuHoIVLrlOODlaYA1b2avbo41TDHPydPYabQw34pvCSBIkxlh9k3shgzuBPi&sig=AOD64_09_OpHz2Yasg3G0kk6UvatOBveHQ&adurl",
+  "ratePerNightLowest": 59,
+  "ratePerNightBeforeTaxes": 49,
+  "totalRateLowest": 59,
+  "totalRateBeforeTaxes": 49,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Kip Hotel",
+    "rate": "£85",
+    "extractedRate": 85,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£72",
+    "extractedRate": 72,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£76",
+    "extractedRate": 76,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£72",
+    "extractedRate": 72,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£59",
+    "extractedRate": 59,
+    "numGuests": 2
+   },
+   {
+    "source": "Tripadvisor.com",
+    "rate": "£65",
+    "extractedRate": 65,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Kip Hotel",
+   "Priceline",
+   "Super.com",
+   "Vio.com",
+   "goseek.com",
+   "Etrip.net",
+   "dealbase.com",
+   "trivago DEALS",
+   "Expedia.com",
+   "Trip.com",
+   "Hotels.com",
+   "Booking.com",
+   "klook",
+   "Orbitz.com",
+   "Skyscanner",
+   "Kiwi.com",
+   "Catchit.com",
+   "Wego",
+   "Travelocity.com",
+   "Stayforlong.com",
+   "Qantas Hotels",
+   "CheapTickets.com",
+   "Evendo",
+   "Traveloka.com",
+   "eDreams",
+   "Bluepillow.com",
+   "Reserving"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.5474858,
+  "gpsLng": -0.056262799999999995,
+  "typicalPriceLow": 47,
+  "typicalPriceHigh": 103,
+  "scrapedAt": "2026-09-15T13:45:43.363Z"
+ },
+ {
+  "propertyToken": "ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+  "name": "ibis London Earls Court",
+  "address": "47 Lillie Rd, London SW6 1UD, United Kingdom",
+  "hotelsComRate": 102,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiglaij3PCWAxV7LdQBHfGEAqMYACICCAEQFhoCb2E&co=1&ase=2&gclid=EAIaIQobChMIoJWoo9zwlgMVey3UAR3xhAKjEAoYAyABEgJTYfD_BwE&cid=CAAS0wHkaF7M-g799VMRNQxpaTY33BKtLwgNbvwjFsbpiTf1Pum31xDomZe7MyfXyJkGraWaWdCXDirRh-T_V7csFgpG-QwEiZOqXHdl6ypXx4mwJIwIyp8kfsPcrhhQQNhMD9-AVjhcWRfIYTOwbIau0_SxbD3WJIcEQk-51iXM7NpidoEPnTphvgNB6XjvB-Z-X0uOxx7pz23MAncwgYAdEPWiqdJTvTChN8QSFLUUuJr3HQ3qgiZgSpLRxYYpawktZ0lK24WuaC9kdPrr74ivcNLZHTcC&category=acrcp_v1_48&sig=AOD64_3grTvJtH-H0HXuhdg_Ui57fl0CPA&adurl",
+  "ratePerNightLowest": 91,
+  "ratePerNightBeforeTaxes": 76,
+  "totalRateLowest": 91,
+  "totalRateBeforeTaxes": 76,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.com",
+    "rate": "£102",
+    "extractedRate": 102,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£102",
+    "extractedRate": 102,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£102",
+    "extractedRate": 102,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Earls Court",
+    "rate": "£102",
+    "extractedRate": 102,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Earls Court",
+   "Super.com",
+   "Booking.com",
+   "Expedia.com",
+   "Stayforlong.com",
+   "Hotels.com",
+   "Agoda",
+   "Priceline",
+   "Trip.com",
+   "trivago DEALS",
+   "KAYAK.com",
+   "Tripadvisor.com",
+   "lastminute.com",
+   "TravelPortal",
+   "Gother",
+   "Orbitz.com",
+   "BusinessHotels.com",
+   "Qantas Hotels",
+   "TravelUp",
+   "Wego",
+   "Travelocity.com",
+   "Catchit.com",
+   "eDreams",
+   "momondo.com",
+   "Bluepillow.com",
+   "CheapTickets.com",
+   "Closest Hotel",
+   "Hotelscombined.com",
+   "Traveloka.com",
+   "Billabook.com",
+   "Traveluro",
+   "Hotel prive",
+   "Evendo"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.485806399999994,
+  "gpsLng": -0.1995566,
+  "typicalPriceLow": 189,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:45:45.079Z"
+ },
+ {
+  "propertyToken": "ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+  "name": "The Drayton Court Hotel, Ealing",
+  "address": "2 The Avenue, London W13 8PH, United Kingdom",
+  "hotelsComRate": 117,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwig7Yek3PCWAxX_SJEFHeF5OgEYACICCAEQARoCbHI&co=1&ase=2&gclid=EAIaIQobChMIoO2HpNzwlgMV_0iRBR3heToBEAoYASABEgIrEPD_BwE&category=acrcp_v1_48&sig=AOD64_2HrvLtx8dFoZxGF3xcwtYkK9UnnQ&adurl",
+  "ratePerNightLowest": 107,
+  "totalRateLowest": 107,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£117",
+    "extractedRate": 117,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£122",
+    "extractedRate": 122,
+    "numGuests": 2
+   },
+   {
+    "source": "KAYAK.se",
+    "rate": "£112",
+    "extractedRate": 112,
+    "numGuests": 2
+   },
+   {
+    "source": "momondo.se",
+    "rate": "£112",
+    "extractedRate": 112,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "The Drayton Court Hotel",
+   "Super.com",
+   "Vio.com",
+   "goseek.com",
+   "Etrip.net",
+   "dealbase.com",
+   "KAYAK.se",
+   "Agoda",
+   "Trip.com",
+   "Expedia.se",
+   "Booking.com",
+   "Hotels.com",
+   "Luxury Escapes",
+   "Priceline",
+   "Bluepillow.se",
+   "momondo.se",
+   "Hotelscombined.se",
+   "Travelmyth.com",
+   "Kiwi.com"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.514230399999995,
+  "gpsLng": -0.3192527,
+  "typicalPriceLow": 79,
+  "typicalPriceHigh": 137,
+  "scrapedAt": "2026-09-15T13:45:46.863Z"
+ },
+ {
+  "propertyToken": "ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+  "name": "The Bedford",
+  "address": "77 Bedford Hill, London SW12 9HD, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.4427478,
+  "gpsLng": -0.1494694,
+  "scrapedAt": "2026-09-15T13:45:58.500Z"
+ },
+ {
+  "propertyToken": "ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+  "name": "ibis budget London Whitechapel - Brick Lane",
+  "address": "100 Whitechapel Rd, London E1 1JG, United Kingdom",
+  "ratePerNightLowest": 168,
+  "ratePerNightBeforeTaxes": 140,
+  "totalRateLowest": 168,
+  "totalRateBeforeTaxes": 140,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "ibis budget London Whitechapel - Brick Lane",
+    "rate": "£168",
+    "extractedRate": 168,
+    "numGuests": 2
+   },
+   {
+    "source": "Tripadvisor.com",
+    "rate": "£168",
+    "extractedRate": 168,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis budget London Whitechapel - Brick Lane",
+   "Super.com",
+   "Tripadvisor.com",
+   "Vio.com",
+   "Stayforlong.com",
+   "goseek.com",
+   "dealbase.com",
+   "TravelPortal",
+   "Etrip.net",
+   "Reserving",
+   "Kiwi.com",
+   "Wego",
+   "Catchit.com"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.5176545,
+  "gpsLng": -0.0647938,
+  "typicalPriceLow": 88,
+  "typicalPriceHigh": 103,
+  "scrapedAt": "2026-09-15T13:45:32.545Z"
+ },
+ {
+  "propertyToken": "ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+  "name": "NOX Golders Green",
+  "address": "146-150 Golders Green Rd, London NW11 8HE, United Kingdom",
+  "ratePerNightLowest": 125,
+  "ratePerNightBeforeTaxes": 104,
+  "totalRateLowest": 125,
+  "totalRateBeforeTaxes": 104,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£125",
+    "extractedRate": 125,
+    "numGuests": 2
+   },
+   {
+    "source": "Agoda",
+    "rate": "£125",
+    "extractedRate": 125,
+    "numGuests": 2
+   },
+   {
+    "source": "NOX Golders Green",
+    "rate": "£124",
+    "extractedRate": 124,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Booking.com",
+   "Reserving",
+   "Agoda",
+   "goseek.com",
+   "Bluepillow.com",
+   "NOX Golders Green"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.574447500000005,
+  "gpsLng": -0.20160699999999998,
+  "typicalPriceLow": 71,
+  "typicalPriceHigh": 103,
+  "scrapedAt": "2026-09-15T13:45:33.456Z"
+ },
+ {
+  "propertyToken": "ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+  "name": "Green Rooms",
+  "address": "Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom",
+  "ratePerNightLowest": 92,
+  "ratePerNightBeforeTaxes": 77,
+  "totalRateLowest": 92,
+  "totalRateBeforeTaxes": 77,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£96",
+    "extractedRate": 96,
+    "numGuests": 2
+   },
+   {
+    "source": "Tripadvisor.com",
+    "rate": "£96",
+    "extractedRate": 96,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£96",
+    "extractedRate": 96,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Super.com",
+   "Booking.com",
+   "Priceline",
+   "Tripadvisor.com",
+   "KAYAK.com",
+   "Reserving",
+   "Vio.com",
+   "Wego",
+   "Bluepillow.com",
+   "momondo.com",
+   "Hotelscombined.com",
+   "Etrip.net",
+   "dealbase.com"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.5969774,
+  "gpsLng": -0.11080020000000002,
+  "typicalPriceLow": 189,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:45:34.685Z"
+ },
+ {
+  "propertyToken": "ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+  "name": "Town Hall Hotel & Apartments",
+  "address": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF, United Kingdom",
+  "hotelsComRate": 254,
+  "hotelsComBookingLink": "https://www.google.com/travel/lodging/clk?pc=AA80OszYskkXhxwK04ubZCeHSe_6_ZpgZfMJOQwEYaebzMaRP7q5x4jjRPrGcL_mWsY9xfDDO3LPb0HwmNCZpaDxU5SrYL6MZ8KmJYgnZrfuj1HWMl2jpX12EmDYySQ7W8iHvV80ipQUVFEBOTHmjsAAuRa-Vgb0qGe9XiAo7MYVnciXaVaXHrps5a3pJUJwciI&pcurl=https://nl.hotels.com/Hotel-Search?selected%3D3231188%26startDate%3D2026-10-17%26endDate%3D2026-10-18%26mdpcid%3DHCOM-NL.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.3231188.20261017.20261018.DDF.32.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D253.50%26mpg%3DGBP%26mpl%3DEUR%26mpj%3D58.51%26mpr%3D19.51%26rffrid%3Dsem.hcom.NL.156.024.localuniversal.02.desktop-1.kwrd%3DGGMETA.3231188NLen-20261017-N-ABW%3D32-camp%3D-aud%3D-N%26rateplanid%3D222200432%26mpm%3D24%26mpn%3D210308316%26mpo%3DEC%26mpp%3D1&s=AD1XQnllJZF_WKNdlLS2CPoEcQ5t&ap=1",
+  "ratePerNightLowest": 212,
+  "totalRateLowest": 212,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Town Hall Hotel & Apartments",
+    "rate": "£225",
+    "extractedRate": 225,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£248",
+    "extractedRate": 248,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.nl",
+    "rate": "£254",
+    "extractedRate": 254,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Town Hall Hotel & Apartments",
+   "Super.com",
+   "Booking.com",
+   "trivago DEALS",
+   "Qantas Hotels",
+   "Expedia.nl",
+   "Hotels.com",
+   "Traveloka.com",
+   "Trip.com",
+   "Bookhotel.direct",
+   "Traveluro",
+   "Evendo",
+   "Wego",
+   "Stayforlong.com",
+   "Travelmyth.com"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.530479799999995,
+  "gpsLng": -0.0557422,
+  "typicalPriceLow": 173,
+  "typicalPriceHigh": 358,
+  "scrapedAt": "2026-09-15T13:45:36.736Z"
+ },
+ {
+  "propertyToken": "ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+  "name": "Holiday Inn London - Camden Lock by IHG",
+  "address": "30 Jamestown Rd, London NW1 7BY, United Kingdom",
+  "hotelsComRate": 263,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwijhJ-i3PCWAxUwuVoFHdnxKgUYACICCAEQOBoCdnU&co=1&ase=2&gclid=EAIaIQobChMIo4SfotzwlgMVMLlaBR3Z8SoFEAoYBCABEgK22fD_BwE&cid=CAASuwHkaC6arIme7B051hzq3vrjgQ3eGHrUE-o8b4jqK0S6vwxeDKwII5D_hQ0WG_jDCbwNktq-qA79wB3II6PAFwiVr-cMn2pTpghhwdiEHD8bk33zj3fmIID3q0yNDHtmi4bLLR0nGiePyN-xXXutE0Y3RimMPVa6i40k_hkI4LzN81rypZNRYGlsYxBDf-M2zrGaFtz-q3ClnD6S4b47WF4BUFCD2xXBq-2gbZDcnNpMmXBf55Tc7KJtYYWn&category=acrcp_v1_48&sig=AOD64_2i_YLpLQs-wCFdvPelmHRuGvVWFQ&adurl",
+  "ratePerNightLowest": 205,
+  "ratePerNightBeforeTaxes": 171,
+  "totalRateLowest": 205,
+  "totalRateBeforeTaxes": 171,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.com",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   },
+   {
+    "source": "Holiday Inn London - Camden Lock by IHG",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Holiday Inn London - Camden Lock by IHG",
+   "Super.com",
+   "Trip.com",
+   "Vio.com",
+   "Booking.com",
+   "Expedia.com",
+   "Etrip.net",
+   "Priceline",
+   "Hotels.com",
+   "Agoda",
+   "Gother",
+   "Orbitz.com",
+   "BusinessHotels.com",
+   "Kiwi.com",
+   "TravelUp",
+   "dealbase.com",
+   "Clicktrip.com",
+   "Stayforlong.com",
+   "Qantas Hotels",
+   "Travelocity.com",
+   "CheapTickets.com",
+   "eDreams",
+   "Evendo",
+   "Closest Hotel",
+   "Traveloka.com"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.5404833,
+  "gpsLng": -0.1460986,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:45:43.080Z"
+ },
+ {
+  "propertyToken": "ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+  "name": "ibis London Canning Town",
+  "address": "8 Silvertown Way, London E16 1ED, United Kingdom",
+  "hotelsComRate": 153,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwi5sZWj3PCWAxX7rsIIHUJHJIQYACICCAEQMxoCamY&co=1&gclid=EAIaIQobChMIubGVo9zwlgMV-67CCB1CRySEEAoYBCABEgLmMvD_BwE&cid=CAASuwHkaKg5s3P5WbP2UpXTN0n1OuEh2fRgwkI_ljujQiMaziIIcOYoWbcNP5LLzzayxN788plfrfogqBeJmIchFjBvbz7VuBoqZh0FdksJbtJ6JIf26dMfhIaNUiSuvJIb7J9uYW1FEGvkQR1JSIKaHtWXCiWoWK0Np8qQKidUKCyEuOV2iba5QNES9omDnuci_tZwaD1_M0-WAssX6VRm_TIOcu-zNE7W_B3qXCXOosQkBGH1CjPJbPMlDLVU&sig=AOD64_10trZ5UaE9q3kZZXAxaXxtOaUFog&adurl",
+  "ratePerNightLowest": 130,
+  "ratePerNightBeforeTaxes": 108,
+  "totalRateLowest": 130,
+  "totalRateBeforeTaxes": 108,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "ibis London Canning Town",
+    "rate": "£153",
+    "extractedRate": 153,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£153",
+    "extractedRate": 153,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£153",
+    "extractedRate": 153,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£153",
+    "extractedRate": 153,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£153",
+    "extractedRate": 153,
+    "numGuests": 2
+   },
+   {
+    "source": "Agoda",
+    "rate": "£153",
+    "extractedRate": 153,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Canning Town",
+   "Super.com",
+   "Booking.com",
+   "Expedia.com",
+   "Vio.com",
+   "Hotels.com",
+   "Priceline",
+   "trivago DEALS",
+   "Stayforlong.com",
+   "KAYAK.com",
+   "goseek.com",
+   "Agoda",
+   "TravelPortal",
+   "lastminute.com",
+   "dealbase.com",
+   "Etrip.net",
+   "Gother",
+   "Orbitz.com",
+   "BusinessHotels.com",
+   "TravelUp",
+   "Qantas Hotels",
+   "Kiwi.com",
+   "Travelocity.com",
+   "Catchit.com",
+   "momondo.com",
+   "eDreams",
+   "CheapTickets.com",
+   "Bluepillow.com",
+   "Evendo",
+   "Hotelscombined.com",
+   "Traveloka.com",
+   "Clicktrip.com"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.514507699999996,
+  "gpsLng": 0.0094246,
+  "typicalPriceLow": 189,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:45:44.966Z"
+ },
+ {
+  "propertyToken": "ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+  "name": "Mowbray Court Hotel",
+  "address": "28-32 Penywern Rd, London SW5 9SU, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.4909122,
+  "gpsLng": -0.1938435,
+  "typicalPriceLow": 189,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:45:46.759Z"
+ },
+ {
+  "propertyToken": "ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+  "name": "The Tommyfield",
+  "address": "185 Kennington Ln, London SE11 4EZ, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.4886713,
+  "gpsLng": -0.11090269999999999,
+  "scrapedAt": "2026-09-15T13:45:47.983Z"
+ },
+ {
+  "propertyToken": "ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+  "name": "Novotel London Canary Wharf",
+  "address": "40 Marsh Wall, London E14 9TP, United Kingdom",
+  "ratePerNightLowest": 186,
+  "totalRateLowest": 186,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Novotel London Canary Wharf",
+    "rate": "£227",
+    "extractedRate": 227,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£227",
+    "extractedRate": 227,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£227",
+    "extractedRate": 227,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£227",
+    "extractedRate": 227,
+    "numGuests": 2
+   },
+   {
+    "source": "TravelPortal",
+    "rate": "£227",
+    "extractedRate": 227,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Novotel London Canary Wharf",
+   "Vio.com",
+   "goseek.com",
+   "Kiwi.com",
+   "Etrip.net",
+   "dealbase.com",
+   "Clicktrip.com",
+   "Booking.com",
+   "Agoda",
+   "Expedia.com",
+   "Hoteles.com",
+   "Trip.com",
+   "Billabook.com",
+   "Luxury Escapes",
+   "Priceline",
+   "TravelPortal",
+   "Reserving",
+   "BusinessHotels.com",
+   "Catchit.com",
+   "Amimir.com",
+   "Qantas Hotels",
+   "Wego",
+   "Opodo",
+   "Traveloka.com",
+   "Bluepillow.com",
+   "Evendo",
+   "HomeToGo",
+   "Hotel prive",
+   "Hotelsnest.com",
+   "Pilot"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.501300699999994,
+  "gpsLng": -0.023289999999999998,
+  "typicalPriceLow": 139,
+  "typicalPriceHigh": 172,
+  "scrapedAt": "2026-09-15T13:45:49.906Z"
+ },
+ {
+  "propertyToken": "ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+  "name": "The Rockwell",
+  "address": "181-183 Cromwell Rd, London SW5 0SF, United Kingdom",
+  "ratePerNightLowest": 171,
+  "ratePerNightBeforeTaxes": 142,
+  "totalRateLowest": 171,
+  "totalRateBeforeTaxes": 142,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "The Rockwell",
+    "rate": "£190",
+    "extractedRate": 190,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£171",
+    "extractedRate": 171,
+    "numGuests": 2
+   },
+   {
+    "source": "Trip.com",
+    "rate": "£177",
+    "extractedRate": 177,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£171",
+    "extractedRate": 171,
+    "numGuests": 2
+   },
+   {
+    "source": "KAYAK.com",
+    "rate": "£181",
+    "extractedRate": 181,
+    "numGuests": 2
+   },
+   {
+    "source": "eDreams",
+    "rate": "£190",
+    "extractedRate": 190,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "The Rockwell",
+   "Vio.com",
+   "Booking.com",
+   "Priceline",
+   "goseek.com",
+   "Etrip.net",
+   "dealbase.com",
+   "KAYAK.com",
+   "Super.com",
+   "Trip.com",
+   "Reserving",
+   "BusinessHotels.com",
+   "eDreams",
+   "Bluepillow.com",
+   "Catchit.com",
+   "momondo.com",
+   "Hotelscombined.com"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.494577199999995,
+  "gpsLng": -0.1929515,
+  "typicalPriceLow": 115,
+  "typicalPriceHigh": 237,
+  "scrapedAt": "2026-09-15T13:45:51.724Z"
+ },
+ {
+  "propertyToken": "ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+  "name": "ibis London Excel Docklands",
+  "address": "9 Western Gateway, London E16 1AB, United Kingdom",
+  "hotelsComRate": 185,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwi8x7Cn3PCWAxWVSEgAHYzpM-kYACICCAEQWBoCY2U&co=1&gclid=EAIaIQobChMIvMewp9zwlgMVlUhIAB2M6TPpEAoYAiABEgJoefD_BwE&cid=CAASuwHkaOiMRbT8YABJxhnVCnwbUMhFeAbiLy3cTwIkDefueLQgdWpQdy5P8FultxsvUYPM5-U4TqOjQCQ7He7eWR1wwEitnlMG_Xwy_T9Jw2vEpyC8NxO-jSzm4K2qsr85t7rVD8Vt9-jjBwscj3knGUMPsxq-QNnSq4bjae9_yeZQ_B-EnGsabVjIwwyoNrcVc04ypniQF_JT9A5RfrediMJB_v4DEPMgSizggkU-GwrCtigATpSO2ZoTmFW2&sig=AOD64_0F840elAjOkDSxfHAo6oxN9NdEfQ&adurl",
+  "ratePerNightLowest": 143,
+  "totalRateLowest": 143,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "ibis London Excel Docklands",
+    "rate": "£184",
+    "extractedRate": 184,
+    "numGuests": 2
+   },
+   {
+    "source": "Hoteis.com",
+    "rate": "£185",
+    "extractedRate": 185,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£184",
+    "extractedRate": 184,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£185",
+    "extractedRate": 185,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£184",
+    "extractedRate": 184,
+    "numGuests": 2
+   },
+   {
+    "source": "TravelPortal",
+    "rate": "£169",
+    "extractedRate": 169,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Excel Docklands",
+   "Vio.com",
+   "Etrip.net",
+   "Agoda",
+   "Booking.com",
+   "TravelPortal",
+   "Expedia.com",
+   "Reserving",
+   "Hoteis.com",
+   "BusinessHotels.com",
+   "Priceline",
+   "Qantas Hotels",
+   "Luxury Escapes",
+   "Wego",
+   "Traveloka.com",
+   "Evendo",
+   "goseek.com",
+   "br.Bluepillow.com",
+   "trivago DEALS",
+   "HomeToGo",
+   "Kiwi.com",
+   "Closest Hotel"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.507857900000005,
+  "gpsLng": 0.0226044,
+  "typicalPriceLow": 93,
+  "typicalPriceHigh": 157,
+  "scrapedAt": "2026-09-15T13:45:54.275Z"
+ },
+ {
+  "propertyToken": "ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+  "name": "Kip Hotel",
+  "address": "2 Aspland Grove, London E8 1FJ",
+  "ratePerNightLowest": 233,
+  "totalRateLowest": 233,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Bluepillow.co.uk",
+    "rate": "£254",
+    "extractedRate": 254,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Destinia"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.5474858,
+  "gpsLng": -0.056262799999999995,
+  "scrapedAt": "2026-09-15T13:45:55.995Z"
+ },
+ {
+  "propertyToken": "ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+  "name": "ibis London Earls Court",
+  "address": "47 Lillie Rd, London SW6 1UD, United Kingdom",
+  "hotelsComRate": 200,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwj36Z2p3PCWAxX9IEQIHVcRPTQYACICCAEQLBoCZHo&co=1&ase=2&gclid=EAIaIQobChMI9-mdqdzwlgMV_SBECB1XET00EAoYAiABEgJehvD_BwE&cid=CAAS0wHkaG2yFu81idDp5W0PNI9DccVKIPY1DtmXr2yOXJPbGp8UEmipLV6QlW90qGN9lpGz8AFcaCoWeMb5Ce7tahNJoMhUbui_TYX4BFNpP4B291ewz5WYxW0qFk3npBNTINnibDB35v9jUgPlwCs7GtAQL7TNstt3ldDB1x0hxtIovzuoNxl5l6tAcv1kHBcmaRkGScAK2o-FeNzdvyov6Tlm12v52seEQjizgELuL3UuRBSXzXUg7KpLGfYCRCPWatc-71BlBR9LzHWwdIoUupIZbjg4&category=acrcp_v1_48&sig=AOD64_0SLB5wlV-Hr3nCUJXBJMcM59Nbsg&adurl",
+  "ratePerNightLowest": 169,
+  "ratePerNightBeforeTaxes": 141,
+  "totalRateLowest": 169,
+  "totalRateBeforeTaxes": 141,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.com",
+    "rate": "£199",
+    "extractedRate": 199,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£200",
+    "extractedRate": 200,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£199",
+    "extractedRate": 199,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£199",
+    "extractedRate": 199,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Earls Court",
+   "Super.com",
+   "Booking.com",
+   "Expedia.com",
+   "Stayforlong.com",
+   "trivago DEALS",
+   "Hotels.com",
+   "Agoda",
+   "Priceline",
+   "Trip.com",
+   "KAYAK.com",
+   "Tripadvisor.com",
+   "TravelPortal",
+   "Gother",
+   "Orbitz.com",
+   "TravelUp",
+   "Reserving",
+   "BusinessHotels.com",
+   "Qantas Hotels",
+   "Travelocity.com",
+   "Catchit.com",
+   "Wego",
+   "eDreams",
+   "momondo.com",
+   "CheapTickets.com",
+   "Closest Hotel",
+   "Evendo",
+   "Bluepillow.com",
+   "Traveloka.com",
+   "Hotelscombined.com",
+   "HomeToGo",
+   "Traveluro",
+   "Hotel prive"
+  ],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.485806399999994,
+  "gpsLng": -0.1995566,
+  "typicalPriceLow": 112,
+  "typicalPriceHigh": 165,
+  "scrapedAt": "2026-09-15T13:45:57.782Z"
+ },
+ {
+  "propertyToken": "ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+  "name": "The Drayton Court Hotel, Ealing",
+  "address": "2 The Avenue, London W13 8PH, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.514230399999995,
+  "gpsLng": -0.3192527,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:46:00.724Z"
+ },
+ {
+  "propertyToken": "ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+  "name": "The Bedford",
+  "address": "77 Bedford Hill, London SW12 9HD, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.4427478,
+  "gpsLng": -0.1494694,
+  "scrapedAt": "2026-09-15T13:46:02.910Z"
+ },
+ {
+  "propertyToken": "ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+  "name": "ibis budget London Whitechapel - Brick Lane",
+  "address": "100 Whitechapel Rd, London E1 1JG, United Kingdom",
+  "ratePerNightLowest": 142,
+  "ratePerNightBeforeTaxes": 118,
+  "totalRateLowest": 142,
+  "totalRateBeforeTaxes": 118,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "ibis budget London Whitechapel - Brick Lane",
+    "rate": "£144",
+    "extractedRate": 144,
+    "numGuests": 2
+   },
+   {
+    "source": "Tripadvisor.com",
+    "rate": "£144",
+    "extractedRate": 144,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis budget London Whitechapel - Brick Lane",
+   "Stayforlong.com",
+   "Super.com",
+   "Tripadvisor.com",
+   "Wego",
+   "TravelPortal",
+   "goseek.com",
+   "dealbase.com",
+   "Kiwi.com",
+   "Bluepillow.com",
+   "Reserving",
+   "Hotel prive"
+  ],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.5176545,
+  "gpsLng": -0.0647938,
+  "typicalPriceLow": 65,
+  "typicalPriceHigh": 88,
+  "scrapedAt": "2026-09-15T13:46:09.923Z"
+ },
+ {
+  "propertyToken": "ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+  "name": "NOX Golders Green",
+  "address": "146-150 Golders Green Rd, London NW11 8HE, United Kingdom",
+  "ratePerNightLowest": 120,
+  "totalRateLowest": 120,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£120",
+    "extractedRate": 120,
+    "numGuests": 2
+   },
+   {
+    "source": "NOX Golders Green",
+    "rate": "£119",
+    "extractedRate": 119,
+    "numGuests": 2
+   },
+   {
+    "source": "Agoda",
+    "rate": "£120",
+    "extractedRate": 120,
+    "numGuests": 2
+   },
+   {
+    "source": "Bluepillow.com",
+    "rate": "£120",
+    "extractedRate": 120,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "NOX Golders Green",
+   "Booking.com",
+   "Reserving",
+   "Agoda",
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.574447500000005,
+  "gpsLng": -0.20160699999999998,
+  "typicalPriceLow": 75,
+  "typicalPriceHigh": 116,
+  "scrapedAt": "2026-09-15T13:46:12.275Z"
+ },
+ {
+  "propertyToken": "ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+  "name": "Green Rooms",
+  "address": "Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom",
+  "ratePerNightLowest": 77,
+  "ratePerNightBeforeTaxes": 64,
+  "totalRateLowest": 77,
+  "totalRateBeforeTaxes": 64,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£80",
+    "extractedRate": 80,
+    "numGuests": 2
+   },
+   {
+    "source": "Tripadvisor.com",
+    "rate": "£80",
+    "extractedRate": 80,
+    "numGuests": 2
+   },
+   {
+    "source": "Agoda",
+    "rate": "£89",
+    "extractedRate": 89,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Super.com",
+   "Booking.com",
+   "KAYAK.com",
+   "Tripadvisor.com",
+   "Priceline",
+   "Reserving",
+   "Agoda",
+   "Bluepillow.com",
+   "Hotelscombined.com",
+   "momondo.com",
+   "goseek.com",
+   "dealbase.com"
+  ],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.5969774,
+  "gpsLng": -0.11080020000000002,
+  "typicalPriceLow": 48,
+  "typicalPriceHigh": 82,
+  "scrapedAt": "2026-09-15T13:46:13.486Z"
+ },
+ {
+  "propertyToken": "ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+  "name": "Town Hall Hotel & Apartments",
+  "address": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF",
+  "hotelsComRate": 241,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwj6s8ex3PCWAxWTklAGHQX5MA4YACICCAEQARoCZGc&co=1&gclid=EAIaIQobChMI-rPHsdzwlgMVk5JQBh0F-TAOEAoYASABEgJp9vD_BwE&sig=AOD64_1EaqzD4dkANSZZvUOAIhJAg9l9pA&adurl",
+  "ratePerNightLowest": 183,
+  "totalRateLowest": 183,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£241",
+    "extractedRate": 241,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   },
+   {
+    "source": "Town Hall Hotel & Apartments",
+    "rate": "£237",
+    "extractedRate": 237,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.co.uk",
+    "rate": "£254",
+    "extractedRate": 254,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Town Hall Hotel & Apartments",
+   "Super.com",
+   "Booking.com",
+   "Skyscanner",
+   "Hotels.com",
+   "Bookhotel.direct",
+   "Expedia.co.uk",
+   "Reserving",
+   "Stayforlong.co.uk",
+   "Trip.com",
+   "Agoda",
+   "Amimir.com",
+   "Traveluro",
+   "Vio.com",
+   "Evendo",
+   "Billabook.com",
+   "Travelmyth.co.uk",
+   "goseek.com",
+   "dealbase.com",
+   "Etrip.net"
+  ],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.530479799999995,
+  "gpsLng": -0.0557422,
+  "typicalPriceLow": 218,
+  "typicalPriceHigh": 350,
+  "scrapedAt": "2026-09-15T13:46:15.137Z"
+ },
+ {
+  "propertyToken": "ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+  "name": "Holiday Inn London - Camden Lock by IHG",
+  "address": "30 Jamestown Rd, London NW1 7BY, United Kingdom",
+  "hotelsComRate": 263,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiU69S03PCWAxU_NQgFHW3yITcYACICCAEQQxoCbWQ&co=1&gclid=EAIaIQobChMIlOvUtNzwlgMVPzUIBR1t8iE3EAoYASABEgKrs_D_BwE&cid=CAASuwHkaK8zlokHujvPQRXLcyD2YO27E3njpKUKgQffFY3HBH2eeAGsuTQhGkBDAO7aCFnRO63X1oEWeCPi3PlBv64Q2d-zAUioZ56xbNcKwywoxTrCURy3XwSjoeFaFvn1pLypHE4PH1EkAHKwtw1Mimlav0xHwF28feCx8OKsW6Qt-_lA5OV8MoclC7_9vNV9k5dBEfNS6TX7C-9B_fLzmd7DuGGKq7zO7JcKQTC7eXr9bEIi3-u0U0IDBzZe&sig=AOD64_15T4CqWOiXVh3Llb_GZ9e8paCxyw&adurl",
+  "ratePerNightLowest": 203,
+  "ratePerNightBeforeTaxes": 169,
+  "totalRateLowest": 203,
+  "totalRateBeforeTaxes": 169,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   },
+   {
+    "source": "Holiday Inn London - Camden Lock by IHG",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£263",
+    "extractedRate": 263,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Holiday Inn London - Camden Lock by IHG",
+   "Super.com",
+   "Trip.com",
+   "goseek.com",
+   "Booking.com",
+   "Expedia.com",
+   "Hotels.com",
+   "Priceline",
+   "Agoda",
+   "lastminute.com",
+   "Gother",
+   "dealbase.com",
+   "TravelUp",
+   "Orbitz.com",
+   "Stayforlong.com",
+   "BusinessHotels.com",
+   "Kiwi.com",
+   "Travelocity.com",
+   "eDreams",
+   "CheapTickets.com",
+   "Clicktrip.com",
+   "Evendo"
+  ],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.5404833,
+  "gpsLng": -0.1460986,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:46:21.733Z"
+ },
+ {
+  "propertyToken": "ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+  "name": "ibis London Canning Town",
+  "address": "8 Silvertown Way, London E16 1ED, United Kingdom",
+  "hotelsComRate": 168,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwi9k9W13PCWAxWlIUQIHU69LeEYACICCAEQExoCZHo&co=1&gclid=EAIaIQobChMIvZPVtdzwlgMVpSFECB1OvS3hEAoYASABEgJTfvD_BwE&cid=CAASuwHkaFtOMRUQCFPQPQSp0Gv1opiVwHjDRVFPWkTJ1yvctCKQU7SZtKOxWjUMqUjroVricFEe1os88IMfmiEIm5B8hqOofPMaIcKRrWKJpvpxEPD3mCst7YiAohCyi9klvdumDsHXa1zJQ__eBXMAgPtFLFoX_IvmBvu519SDeDSj5LIyiR6tdJTYLklEIvUPT2c-_og3-535v1lr1ClfC0IBDHPrINKHDEpcAyRZI_ZSz5uX7OWCqvN1hpVO&sig=AOD64_3QMAv45tm0ZPOCwohoco_gOATEQw&adurl",
+  "ratePerNightLowest": 143,
+  "ratePerNightBeforeTaxes": 119,
+  "totalRateLowest": 143,
+  "totalRateBeforeTaxes": 119,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£168",
+    "extractedRate": 168,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Canning Town",
+    "rate": "£168",
+    "extractedRate": 168,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.ca",
+    "rate": "£168",
+    "extractedRate": 168,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£168",
+    "extractedRate": 168,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Canning Town",
+   "Super.com",
+   "Booking.com",
+   "Priceline",
+   "Expedia.ca",
+   "Vio.com",
+   "Trip.com",
+   "Hotels.com",
+   "goseek.com",
+   "BusinessHotels.com",
+   "Amimir.com",
+   "Etrip.net",
+   "dealbase.com",
+   "TravelPortal",
+   "Reserving",
+   "Agoda",
+   "HomeToGo",
+   "Evendo"
+  ],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.514507699999996,
+  "gpsLng": 0.0094246,
+  "typicalPriceLow": 96,
+  "typicalPriceHigh": 148,
+  "scrapedAt": "2026-09-15T13:46:23.766Z"
+ },
+ {
+  "propertyToken": "ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+  "name": "Mowbray Court Hotel",
+  "address": "28-32 Penywern Rd, London SW5 9SU, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.4909122,
+  "gpsLng": -0.1938435,
+  "typicalPriceLow": 189,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:46:30.455Z"
+ },
+ {
+  "propertyToken": "ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+  "name": "The Tommyfield",
+  "address": "185 Kennington Ln, London SE11 4EZ, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.4886713,
+  "gpsLng": -0.11090269999999999,
+  "scrapedAt": "2026-09-15T13:46:33.012Z"
+ },
+ {
+  "propertyToken": "ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+  "name": "Novotel London Canary Wharf",
+  "address": "40 Marsh Wall, London E14 9TP, United Kingdom",
+  "hotelsComRate": 229,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiA8u663PCWAxX7rsIIHUJHJIQYACICCAEQQRoCamY&co=1&gclid=EAIaIQobChMIgPLuutzwlgMV-67CCB1CRySEEAoYASABEgIqofD_BwE&cid=CAASuwHkaIN1To7OcJJq3qS99Kfryc1ONkFQrtubw6xbpnhu2yKbaZzI2H0JI6nvO4DsmDMC7ZniV_njQuEniUq6173f6E33K-mw2vj07GOs08YkWDUpGxxUc1oZH8KZavDojMA4npl4Fs6J7BfF82hT7IMO6LyuuqHL58tS37AjwGrTiVXx_1vkBOiAIWXyhE7811V6ji1zM5eWtxmRV3calgRk9NObAg2uVt-ej_wDZacSmCAuBu1fROY3K6Kp&sig=AOD64_1H_O1iuVTzXSfIPVUvTwOESbkCcQ&adurl",
+  "ratePerNightLowest": 189,
+  "ratePerNightBeforeTaxes": 157,
+  "totalRateLowest": 189,
+  "totalRateBeforeTaxes": 157,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£229",
+    "extractedRate": 229,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£229",
+    "extractedRate": 229,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£229",
+    "extractedRate": 229,
+    "numGuests": 2
+   },
+   {
+    "source": "Novotel London Canary Wharf",
+    "rate": "£229",
+    "extractedRate": 229,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£229",
+    "extractedRate": 229,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Novotel London Canary Wharf",
+   "Super.com",
+   "trivago DEALS",
+   "Vio.com",
+   "goseek.com",
+   "Clicktrip.com",
+   "Booking.com",
+   "Expedia.com",
+   "Etrip.net",
+   "Tripadvisor.com",
+   "Priceline",
+   "Hotels.com",
+   "Agoda",
+   "Billabook.com",
+   "KAYAK.com",
+   "lastminute.com",
+   "Traveluro",
+   "TravelPortal",
+   "Stayforlong.com",
+   "Gother",
+   "TravelUp",
+   "Orbitz.com",
+   "BusinessHotels.com",
+   "Reserving",
+   "Wego",
+   "eDreams",
+   "Travelocity.com",
+   "Catchit.com",
+   "momondo.com",
+   "CheapTickets.com",
+   "Kiwi.com",
+   "Evendo",
+   "Bluepillow.com",
+   "Hotelscombined.com",
+   "HomeToGo",
+   "Hotel prive",
+   "Hotelsnest.com",
+   "Pilot"
+  ],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.501300699999994,
+  "gpsLng": -0.023289999999999998,
+  "typicalPriceLow": 120,
+  "typicalPriceHigh": 181,
+  "scrapedAt": "2026-09-15T13:46:34.662Z"
+ },
+ {
+  "propertyToken": "ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+  "name": "The Rockwell",
+  "address": "181-183 Cromwell Rd, London SW5 0SF, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.494577199999995,
+  "gpsLng": -0.1929515,
+  "typicalPriceLow": 253,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:46:35.786Z"
+ },
+ {
+  "propertyToken": "ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+  "name": "ibis London Excel Docklands",
+  "address": "9 Western Gateway, London E16 1AB, United Kingdom",
+  "hotelsComRate": 156,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwimhcW-3PCWAxU9JkQIHSRgHTUYACICCAEQShoCZHo&co=1&ase=2&gclid=EAIaIQobChMIpoXFvtzwlgMVPSZECB0kYB01EAoYAyABEgK7OvD_BwE&cid=CAAS0wHkaL1LgL4GAtrM-uuHqMxrZnTC5LX6wIqDnrPCoabGzGU6B1sVv1Jw1vsDKIIP5VP56qNGuz8iHi1i8pNf9NPWHIRLSBcuyH-ZQgH1JLVkPHfFdFP7iiaglfuJKmF-d-yu1JRjm85mAyFNfQt5wFG4hTEcn4NFY5GgWS_hoqJGMBAQCLeg_aNrcLgrR5KJ39i4DkLsQ6HRVQHcFTjGreYbipqHbQ6xSaY5U8FJeBiisAedD_YmXMtUmwZydvNHWgdzNAHiUJMlOimpvXBxaqcvoZsZ&category=acrcp_v1_48&sig=AOD64_2o4tCWbEuyxlyrKs9e-pmoash2Yw&adurl",
+  "ratePerNightLowest": 132,
+  "ratePerNightBeforeTaxes": 110,
+  "totalRateLowest": 132,
+  "totalRateBeforeTaxes": 110,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.com",
+    "rate": "£156",
+    "extractedRate": 156,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Excel Docklands",
+    "rate": "£156",
+    "extractedRate": 156,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£156",
+    "extractedRate": 156,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£157",
+    "extractedRate": 157,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£156",
+    "extractedRate": 156,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Excel Docklands",
+   "Super.com",
+   "lastminute.com",
+   "Booking.com",
+   "Vio.com",
+   "Expedia.com",
+   "Hotels.com",
+   "trivago DEALS",
+   "Agoda",
+   "Tripadvisor.com",
+   "Priceline",
+   "goseek.com",
+   "KAYAK.com",
+   "TravelPortal",
+   "Stayforlong.com",
+   "Kiwi.com",
+   "Etrip.net",
+   "Gother",
+   "Orbitz.com",
+   "TravelUp",
+   "BusinessHotels.com",
+   "Travelocity.com",
+   "Traveluro",
+   "Reserving",
+   "momondo.com",
+   "eDreams",
+   "CheapTickets.com",
+   "Bluepillow.com",
+   "Hotelscombined.com",
+   "HomeToGo"
+  ],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.507857900000005,
+  "gpsLng": 0.0226044,
+  "typicalPriceLow": 78,
+  "typicalPriceHigh": 97,
+  "scrapedAt": "2026-09-15T13:46:42.533Z"
+ },
+ {
+  "propertyToken": "ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+  "name": "Kip Hotel",
+  "address": "2 Aspland Grove, London E8 1FJ, United Kingdom",
+  "hotelsComRate": 163,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjA5b2_3PCWAxU6EUQIHT0NLRkYACICCAEQLBoCZHo&co=1&gclid=EAIaIQobChMIwOW9v9zwlgMVOhFECB09DS0ZEAoYAyABEgKTU_D_BwE&cid=CAASuwHkaKrBZq-Fq2GvCXctwPT5X_AQ4XFge1JojSTlBnb0pLyIbOjXQpMwf3wbp2dEOAzMu0C8ngDqDDWS7J5tdNk1PmKqU-6EUhkDs_a0Nr03ejkFIZZ-H8LPGlbNYiGBB1B61f61xgqk8wu73M4FgE5YeLtN5CYDinecXv1GpJGxKaBB1hrNGNk7BgCYp9qm8pomiOMZdhDvCD47De4XfNNIA5kLiy7M8lePZy4V1ZBjYq5RUCWHMY-jXRxl&sig=AOD64_1AFt__e-oTGYlOOV863aDRO2jynQ&adurl",
+  "ratePerNightLowest": 134,
+  "ratePerNightBeforeTaxes": 111,
+  "totalRateLowest": 134,
+  "totalRateBeforeTaxes": 111,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Kip Hotel",
+    "rate": "£192",
+    "extractedRate": 192,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£173",
+    "extractedRate": 173,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£163",
+    "extractedRate": 163,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£163",
+    "extractedRate": 163,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£163",
+    "extractedRate": 163,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Kip Hotel",
+   "Super.com",
+   "Priceline",
+   "trivago DEALS",
+   "Vio.com",
+   "Booking.com",
+   "Expedia.com",
+   "Trip.com",
+   "Hotels.com",
+   "goseek.com",
+   "Bluepillow.com",
+   "Kiwi.com",
+   "Etrip.net",
+   "Traveluro",
+   "Orbitz.com",
+   "Wego",
+   "Travelocity.com",
+   "CheapTickets.com",
+   "Reserving",
+   "Evendo",
+   "Hostelworld"
+  ],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.5474858,
+  "gpsLng": -0.056262799999999995,
+  "typicalPriceLow": 48,
+  "typicalPriceHigh": 123,
+  "scrapedAt": "2026-09-15T13:46:44.327Z"
+ },
+ {
+  "propertyToken": "ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+  "name": "ibis London Earls Court",
+  "address": "47 Lillie Rd, London SW6 1UD, United Kingdom",
+  "hotelsComRate": 183,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjSv6_A3PCWAxWjiMIIHXR1FsoYACICCAEQGBoCamY&co=1&ase=2&gclid=EAIaIQobChMI0r-vwNzwlgMVo4jCCB10dRbKEAoYBCABEgI9__D_BwE&cid=CAASuwHkaFLnK8QUz9WtARGNEtCfNKSS38t-L-ESZ9zQR8NUD931x94Q4zDEW10a_YBgRktRnmqJpaBU4b3SiCrZqVgg1c_OIKJKHyL8Ig3nGnPW4vO1lJ7SYO5QH7GkdbrF1p2nS980V8haauHoDjFgv1Isp8_VIFTSlBFMnCiEaRLh5a3RvaDQ2RPQAaOKOYtpbDrTheEPwEE29zJ0GB-88hbZFdfevcZ3WHzdQ11eNYlp3DWr95MoLbQ0q-zK&category=acrcp_v1_48&sig=AOD64_1d11cZN7Cwu0ZQSzMJKw4KX9yGQA&adurl",
+  "ratePerNightLowest": 154,
+  "ratePerNightBeforeTaxes": 128,
+  "totalRateLowest": 154,
+  "totalRateBeforeTaxes": 128,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£183",
+    "extractedRate": 183,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Earls Court",
+    "rate": "£183",
+    "extractedRate": 183,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£183",
+    "extractedRate": 183,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£183",
+    "extractedRate": 183,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Earls Court",
+   "Super.com",
+   "Booking.com",
+   "Expedia.com",
+   "Hotels.com",
+   "Agoda",
+   "Priceline",
+   "KAYAK.com",
+   "Trip.com",
+   "lastminute.com",
+   "TravelPortal",
+   "Tripadvisor.com",
+   "Gother",
+   "Reserving",
+   "Wego",
+   "Orbitz.com",
+   "BusinessHotels.com",
+   "TravelUp",
+   "Stayforlong.com",
+   "Travelocity.com",
+   "Evendo",
+   "trivago DEALS",
+   "eDreams",
+   "Catchit.com",
+   "CheapTickets.com",
+   "Hotelscombined.com",
+   "Closest Hotel",
+   "momondo.com",
+   "Bluepillow.com",
+   "HomeToGo",
+   "Traveluro",
+   "Hotel prive"
+  ],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.485806399999994,
+  "gpsLng": -0.1995566,
+  "typicalPriceLow": 128,
+  "typicalPriceHigh": 197,
+  "scrapedAt": "2026-09-15T13:46:46.295Z"
+ },
+ {
+  "propertyToken": "ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+  "name": "The Drayton Court Hotel, Ealing",
+  "address": "2 The Avenue, London W13 8PH, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.514230399999995,
+  "gpsLng": -0.3192527,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:46:55.088Z"
+ },
+ {
+  "propertyToken": "ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+  "name": "The Bedford",
+  "address": "77 Bedford Hill, London SW12 9HD, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.4427478,
+  "gpsLng": -0.1494694,
+  "scrapedAt": "2026-09-15T13:47:03.590Z"
+ },
+ {
+  "propertyToken": "ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+  "name": "ibis budget London Whitechapel - Brick Lane",
+  "address": "100 Whitechapel Rd, London E1 1JG, United Kingdom",
+  "ratePerNightLowest": 51,
+  "ratePerNightBeforeTaxes": 43,
+  "totalRateLowest": 51,
+  "totalRateBeforeTaxes": 43,
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [
+   "ibis budget London Whitechapel - Brick Lane",
+   "Super.com",
+   "TravelPortal",
+   "Bluepillow.ca",
+   "Hotel prive",
+   "Vio.com",
+   "Reserving",
+   "dealbase.com"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.5176545,
+  "gpsLng": -0.0647938,
+  "typicalPriceLow": 189,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:46:59.069Z"
+ },
+ {
+  "propertyToken": "ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+  "name": "NOX Golders Green",
+  "address": "146-150 Golders Green Rd, London NW11 8HE, United Kingdom",
+  "ratePerNightLowest": 90,
+  "totalRateLowest": 90,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£90",
+    "extractedRate": 90,
+    "numGuests": 2
+   },
+   {
+    "source": "NOX Golders Green",
+    "rate": "£89",
+    "extractedRate": 89,
+    "numGuests": 2
+   },
+   {
+    "source": "Agoda",
+    "rate": "£90",
+    "extractedRate": 90,
+    "numGuests": 2
+   },
+   {
+    "source": "Bluepillow.com",
+    "rate": "£90",
+    "extractedRate": 90,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "NOX Golders Green",
+   "Booking.com",
+   "Agoda",
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.574447500000005,
+  "gpsLng": -0.20160699999999998,
+  "scrapedAt": "2026-09-15T13:47:00.889Z"
+ },
+ {
+  "propertyToken": "ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+  "name": "Green Rooms",
+  "address": "Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom",
+  "ratePerNightLowest": 37,
+  "ratePerNightBeforeTaxes": 31,
+  "totalRateLowest": 37,
+  "totalRateBeforeTaxes": 31,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£37",
+    "extractedRate": 37,
+    "numGuests": 2
+   },
+   {
+    "source": "Agoda",
+    "rate": "£82",
+    "extractedRate": 82,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Booking.com",
+   "Super.com",
+   "Reserving",
+   "Vio.com",
+   "Agoda",
+   "Bluepillow.com",
+   "Etrip.net",
+   "goseek.com"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.5969774,
+  "gpsLng": -0.11080020000000002,
+  "typicalPriceLow": 37,
+  "typicalPriceHigh": 45,
+  "scrapedAt": "2026-09-15T13:47:07.668Z"
+ },
+ {
+  "propertyToken": "ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+  "name": "Town Hall Hotel & Apartments",
+  "address": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF, United Kingdom",
+  "ratePerNightLowest": 171,
+  "ratePerNightBeforeTaxes": 132,
+  "totalRateLowest": 171,
+  "totalRateBeforeTaxes": 132,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.com",
+    "rate": "£192",
+    "extractedRate": 192,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£216",
+    "extractedRate": 216,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£192",
+    "extractedRate": 192,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Super.com",
+   "Expedia.com",
+   "Orbitz.com",
+   "Vio.com",
+   "Travelocity.com",
+   "goseek.com",
+   "Booking.com",
+   "CheapTickets.com",
+   "Etrip.net",
+   "eDreams",
+   "Reserving",
+   "Stayforlong.com",
+   "Billabook.com",
+   "Evendo"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.530479799999995,
+  "gpsLng": -0.0557422,
+  "typicalPriceLow": 157,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:47:09.347Z"
+ },
+ {
+  "propertyToken": "ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+  "name": "Holiday Inn London - Camden Lock by IHG",
+  "address": "30 Jamestown Rd, London NW1 7BY, United Kingdom",
+  "hotelsComRate": 183,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjtttbO3PCWAxWUSn8AHcXJDVQYACICCAEQThoCb2E&co=1&gclid=EAIaIQobChMI7bbWztzwlgMVlEp_AB3FyQ1UEAoYAiABEgJOOfD_BwE&cid=CAASuwHkaP579QD-pI6XE2dXO8sQOWBVOen4qr7NC73zX8kF01DUxTIGi1yrDjkg5OCFO_nfrb3KVDz-cFOBG-vbQVUqeGFHi0xTmjmqyBVc-V0AQK1pG5fqp4UxTLK3No67uSfvSqm2vWt80kRATFVyWAqJLakwbcAf9J3Ti4n3eIoMk4Ff03ubD6-kE5aoLZkRSy06WMNpHg59Y8sjD15Vdg43PHjS1dRPX3d39wgNXvChsm_7rt9nvaCz7GBs&sig=AOD64_25cPS2b646EmREhoRsiHpsDvPbSg&adurl",
+  "ratePerNightLowest": 144,
+  "ratePerNightBeforeTaxes": 120,
+  "totalRateLowest": 144,
+  "totalRateBeforeTaxes": 120,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.com",
+    "rate": "£183",
+    "extractedRate": 183,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£183",
+    "extractedRate": 183,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£183",
+    "extractedRate": 183,
+    "numGuests": 2
+   },
+   {
+    "source": "Holiday Inn London - Camden Lock by IHG",
+    "rate": "£183",
+    "extractedRate": 183,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£183",
+    "extractedRate": 183,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Holiday Inn London - Camden Lock by IHG",
+   "Super.com",
+   "Booking.com",
+   "Vio.com",
+   "Agoda",
+   "Expedia.com",
+   "Hotels.com",
+   "Priceline",
+   "Trip.com",
+   "Gother",
+   "Etrip.net",
+   "Orbitz.com",
+   "Travelocity.com",
+   "CheapTickets.com",
+   "Bluepillow.com",
+   "Evendo"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.5404833,
+  "gpsLng": -0.1460986,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:47:16.845Z"
+ },
+ {
+  "propertyToken": "ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+  "name": "ibis London Canning Town",
+  "address": "8 Silvertown Way, London E16 1ED, United Kingdom",
+  "hotelsComRate": 84,
+  "hotelsComBookingLink": "https://www.google.com/travel/lodging/clk?pc=AA80Osynj7aKwYtDoULwdPBSMQVnqWnrHwqxQcYUb1alkmJE-3Z1O6LfEo3G2iOS8GX8HLJ_YTtRcmKrFjx_-Uvq09Ex5elR8R_lEBWFcZwKBtT8oiGHK--cozRpr5QWSf1Mt2d6u-U0kasR9FplOuhz34AlT-qU18C4AxbkOwHb0weuyVOw2xFOoIhOqHpv4Gw&pcurl=https://www.hotels.com/Hotel-Search?selected%3D19692814%26startDate%3D2027-02-17%26endDate%3D2027-02-18%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.19692814.20270217.20270218.DDF.155.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D84.12%26mpg%3DGBP%26mpl%3DUSD%26mpj%3D14.02%26mpr%3D0.00%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-1.kwrd%3DGGMETA.19692814USen-20270217-N-ABW%3D155-camp%3D-aud%3D-N%26rateplanid%3D390780530%26mpm%3D24%26mpn%3D322177977%26mpo%3DEC%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=AD1XQnlm5kDJxZoMUOst5wBNd5eG&ap=1",
+  "ratePerNightLowest": 71,
+  "ratePerNightBeforeTaxes": 59,
+  "totalRateLowest": 71,
+  "totalRateBeforeTaxes": 59,
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [
+   "ibis London Canning Town",
+   "Super.com",
+   "Expedia.com",
+   "Booking.com",
+   "Hotels.com",
+   "Agoda",
+   "Priceline",
+   "TravelPortal",
+   "Reserving",
+   "Orbitz.com",
+   "Gother",
+   "Travelocity.com",
+   "Catchit.com",
+   "eDreams",
+   "CheapTickets.com",
+   "Vio.com",
+   "dealbase.com",
+   "Stayforlong.com",
+   "Evendo",
+   "Etrip.net"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.514507699999996,
+  "gpsLng": 0.0094246,
+  "typicalPriceLow": 61,
+  "typicalPriceHigh": 113,
+  "scrapedAt": "2026-09-15T13:47:20.040Z"
+ },
+ {
+  "propertyToken": "ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+  "name": "Mowbray Court Hotel",
+  "address": "28-32 Penywern Rd, London SW5 9SU, United Kingdom",
+  "hotelsComRate": 85,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwijwJXR3PCWAxXoPocDHSG2EM4YACICCAEQOBoCamY&co=1&ase=2&gclid=EAIaIQobChMIo8CV0dzwlgMV6D6HAx0hthDOEAoYAyABEgK00PD_BwE&cid=CAASuwHkaHp3yryQrSLMe6MaJfRQyQpKdrC_0ivcGWr_1NKyq-pDfcEIKD3pr2DpzgUGl2PNjl0Z61XkZjhFMFHV7UElwbq_nzrcWcrzHsq1KGI6BEPuf3C1NO0T2UxlBQNJ3oWJaKEH1y_AQGRE5TcgHnFBFgSaIqyErx39Svg1yakBwYlyWkPMowasv8q3Qwje2TE6huuz8ePzn_8M13PMBNALSaQLQ4OZ4fjims2nD4dcPvfD85Dxm4kKc-0I&category=acrcp_v1_48&sig=AOD64_1rISP3aUu0W7M7LcnUBkaV7e-AsQ&adurl",
+  "ratePerNightLowest": 62,
+  "ratePerNightBeforeTaxes": 52,
+  "totalRateLowest": 62,
+  "totalRateBeforeTaxes": 52,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.com",
+    "rate": "£86",
+    "extractedRate": 86,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£93",
+    "extractedRate": 93,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£85",
+    "extractedRate": 85,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£63",
+    "extractedRate": 63,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£86",
+    "extractedRate": 86,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Super.com",
+   "Priceline",
+   "trivago DEALS",
+   "Vio.com",
+   "Expedia.com",
+   "Hotels.com",
+   "Etrip.net",
+   "Booking.com",
+   "Orbitz.com",
+   "Travelocity.com",
+   "CheapTickets.com",
+   "Reserving",
+   "Bluepillow.com",
+   "Evendo"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.4909122,
+  "gpsLng": -0.1938435,
+  "typicalPriceLow": 55,
+  "typicalPriceHigh": 78,
+  "scrapedAt": "2026-09-15T13:47:21.725Z"
+ },
+ {
+  "propertyToken": "ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+  "name": "The Tommyfield",
+  "address": "185 Kennington Ln, London SE11 4EZ, United Kingdom",
+  "hotelsComRate": 149,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjZ-P3R3PCWAxXLRf8BHUpPM6sYACICCAEQDBoCbWQ&co=1&ase=2&gclid=EAIaIQobChMI2fj90dzwlgMVy0X_AR1KTzOrEAoYAyABEgIuovD_BwE&cid=CAAS0wHkaIgCCWLuNsMXBUy8L-RtCm0S_rbQqWxgKq1ttVsjhk3L4EhEmn9b5jaISDluX05xqM_uBMRTzBNdHWoPyA-N5MDwCvWGWeXVrPBxQJp6leO_UMKwO9epqQb73aF6w6UbqMsTV25whFNDip61Gg0XEXUoo0xp6ApLMd0jcUxWadxivIjpyDteIUZjLPqz5Di05RoQY4P8ZPT0xUQYubR9vVZRN-hjA8ALDTunjB0G6FFAKyIx_VwQIXsbIl-NbVgj_RucG0Ep9SHzYfKytD_4v4qy&category=acrcp_v1_48&sig=AOD64_2ihU5BiLRR87AXOQAkiwVh6fq81A&adurl",
+  "ratePerNightLowest": 149,
+  "ratePerNightBeforeTaxes": 124,
+  "totalRateLowest": 149,
+  "totalRateBeforeTaxes": 124,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.com",
+    "rate": "£149",
+    "extractedRate": 149,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£149",
+    "extractedRate": 149,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£149",
+    "extractedRate": 149,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£149",
+    "extractedRate": 149,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Booking.com",
+   "Expedia.com",
+   "Hotels.com",
+   "Orbitz.com",
+   "goseek.com",
+   "Travelocity.com",
+   "CheapTickets.com",
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.4886713,
+  "gpsLng": -0.11090269999999999,
+  "scrapedAt": "2026-09-15T13:47:23.129Z"
+ },
+ {
+  "propertyToken": "ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+  "name": "Novotel London Canary Wharf",
+  "address": "40 Marsh Wall, London E14 9TP, United Kingdom",
+  "hotelsComRate": 156,
+  "hotelsComBookingLink": "https://www.google.com/travel/lodging/clk?pc=AA80OsxJNABuij780o3zcGPyuYWLC_xngMLMvpNJIF24j_kVqWKcDisBnLG9nRH4PCG1fCmdG5lAq1c7AqGWACCCPCr5ATEUZGoWFR7G6SPKh64WhonSMkDYosSXOZf3csYPTdZd3YYwJdmWA5yRqoZp4Vknqhf8B-QMoATkk07VwLJD5KgvbSW6YLDON5aDoHU&pcurl=https://ca.hotels.com/Hotel-Search?locale%3Den_CA%26selected%3D16181347%26startDate%3D2027-02-17%26endDate%3D2027-02-18%26mdpcid%3DHCOM-CA.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.16181347.20270217.20270218.DDF.155.CID..AUDID..RRID.ca-desktop%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D155.91%26mpg%3DGBP%26mpl%3DCAD%26mpj%3D25.98%26mpr%3D0.00%26rffrid%3Dsem.hcom.CA.156.024.localuniversal.02.desktop-1.kwrd%3DGGMETA.16181347CAen-20270217-N-ABW%3D155-camp%3D-aud%3D-N%26rateplanid%3D208510930%26mpm%3D24%26mpn%3D201708034%26mpo%3DEC%26mpp%3D1&s=AD1XQnnYkxYe6-BVkIvN9Wb22NPL&ap=1",
+  "ratePerNightLowest": 131,
+  "ratePerNightBeforeTaxes": 109,
+  "totalRateLowest": 131,
+  "totalRateBeforeTaxes": 109,
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [
+   "Novotel London Canary Wharf",
+   "Super.com",
+   "Billabook.com",
+   "Traveluro",
+   "Booking.com",
+   "Agoda",
+   "Expedia.ca",
+   "trivago DEALS",
+   "Hotels.com",
+   "Priceline",
+   "TravelPortal",
+   "Trip.com",
+   "Vio.com",
+   "Reserving",
+   "BusinessHotels.com",
+   "Wego",
+   "goseek.com",
+   "Evendo",
+   "Closest Hotel",
+   "Bluepillow.ca",
+   "Catchit.com",
+   "Hotelsnest.com",
+   "Etrip.net",
+   "dealbase.com",
+   "Hotel prive",
+   "Pilot"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.501300699999994,
+  "gpsLng": -0.023289999999999998,
+  "typicalPriceLow": 91,
+  "typicalPriceHigh": 120,
+  "scrapedAt": "2026-09-15T13:47:24.433Z"
+ },
+ {
+  "propertyToken": "ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+  "name": "The Rockwell",
+  "address": "181-183 Cromwell Rd, London SW5 0SF, United Kingdom",
+  "ratePerNightLowest": 105,
+  "ratePerNightBeforeTaxes": 88,
+  "totalRateLowest": 105,
+  "totalRateBeforeTaxes": 88,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "The Rockwell",
+    "rate": "£105",
+    "extractedRate": 105,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£105",
+    "extractedRate": 105,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£105",
+    "extractedRate": 105,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "The Rockwell",
+   "Booking.com",
+   "Priceline",
+   "Super.com",
+   "Reserving",
+   "Vio.com",
+   "goseek.com",
+   "Bluepillow.com",
+   "Etrip.net",
+   "eDreams"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.494577199999995,
+  "gpsLng": -0.1929515,
+  "typicalPriceLow": 41,
+  "typicalPriceHigh": 116,
+  "scrapedAt": "2026-09-15T13:47:25.644Z"
+ },
+ {
+  "propertyToken": "ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+  "name": "ibis London Excel Docklands",
+  "address": "9 Western Gateway, London E16 1AB, United Kingdom",
+  "hotelsComRate": 101,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiHkfLT3PCWAxWELocDHQhnNowYACICCAEQUxoCamY&co=1&ase=2&gclid=EAIaIQobChMIh5Hy09zwlgMVhC6HAx0IZzaMEAoYASABEgKcQPD_BwE&cid=CAASuwHkaMYEwRny8ews2jNQI-JHmBhKMJSpM-w_WRNlCO5NtYILRPMJF5ULZJIhmEcH5l5HcwHoaoxhyYeGFPktsyg49HPrDIhNgcQr_HApRXSJJq8idCc9zoivo8m_hFSFrvPVge9WaKMo4GJaOoiqlIcE4Lfr0UVwylxpbxozqA8kAO7mlH0hl6ZVY3eUSIpI5q08leKNQKwy52CjQKyhchgilu8nHo3NJVwe1YdsUS0Qya14Swyh4fPnfvbu&category=acrcp_v1_48&sig=AOD64_1QLKlygm6mtqFz8ro_szYlP6f7QA&adurl",
+  "ratePerNightLowest": 75,
+  "ratePerNightBeforeTaxes": 62,
+  "totalRateLowest": 75,
+  "totalRateBeforeTaxes": 62,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£101",
+    "extractedRate": 101,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£101",
+    "extractedRate": 101,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£101",
+    "extractedRate": 101,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£101",
+    "extractedRate": 101,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Excel Docklands",
+    "rate": "£101",
+    "extractedRate": 101,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Excel Docklands",
+   "Super.com",
+   "Vio.com",
+   "Stayforlong.com",
+   "Booking.com",
+   "Expedia.com",
+   "Priceline",
+   "Etrip.net",
+   "Hotels.com",
+   "Agoda",
+   "Orbitz.com",
+   "Travelocity.com",
+   "BusinessHotels.com",
+   "Reserving",
+   "goseek.com",
+   "Kiwi.com",
+   "CheapTickets.com",
+   "eDreams",
+   "Bluepillow.com",
+   "Evendo"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.507857900000005,
+  "gpsLng": 0.0226044,
+  "typicalPriceLow": 73,
+  "typicalPriceHigh": 102,
+  "scrapedAt": "2026-09-15T13:47:27.147Z"
+ },
+ {
+  "propertyToken": "ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+  "name": "Kip Hotel",
+  "address": "2 Aspland Grove, London E8 1FJ, United Kingdom",
+  "hotelsComRate": 81,
+  "hotelsComBookingLink": "https://www.google.com/travel/lodging/clk?pc=AA80Osz9KlnE-6fWDvHYaEm8GTWtbYy4Ef3_ihpqSngvZGeNnT0eUY84Eu93f_yT5Vmso2I7DMgBdJrIQywSLkeuusIQph2ubCKTYA-UVwv4EwP1_49JlQRnFapRC-zWXvebeRG1gMj1P-3sX0jSN6dmvr18keBZDYXqSysAT1ofr_ZhLHkGDEUsw2zhN6-TpAA&pcurl=https://www.hotels.com/Hotel-Search?selected%3D14781262%26startDate%3D2027-02-17%26endDate%3D2027-02-18%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.14781262.20270217.20270218.DDF.155.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D80.99%26mpg%3DGBP%26mpl%3DUSD%26mpj%3D13.50%26mpr%3D0.00%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-1.kwrd%3DGGMETA.14781262USen-20270217-N-ABW%3D155-camp%3D-aud%3D-N%26rateplanid%3D208272834%26mpm%3D24%26mpn%3D201480468%26mpo%3DEC%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=AD1XQnlPRZL-rR38PaGh6kfSwy-D&ap=1",
+  "ratePerNightLowest": 67,
+  "ratePerNightBeforeTaxes": 56,
+  "totalRateLowest": 67,
+  "totalRateBeforeTaxes": 56,
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [
+   "Kip Hotel",
+   "Super.com",
+   "Priceline",
+   "trivago DEALS",
+   "Hotels.com",
+   "Expedia.com",
+   "Booking.com",
+   "Traveluro",
+   "Orbitz.com",
+   "Trip.com",
+   "Kiwi.com",
+   "Travelocity.com",
+   "CheapTickets.com",
+   "eDreams",
+   "Bluepillow.com",
+   "Evendo",
+   "Hostelworld"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.5474858,
+  "gpsLng": -0.056262799999999995,
+  "typicalPriceLow": 51,
+  "typicalPriceHigh": 78,
+  "scrapedAt": "2026-09-15T13:47:29.064Z"
+ },
+ {
+  "propertyToken": "ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+  "name": "ibis London Earls Court",
+  "address": "47 Lillie Rd, London SW6 1UD, United Kingdom",
+  "hotelsComRate": 84,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwi4pPPX3PCWAxVyXf8BHWNLKIEYACICCAEQExoCbWQ&co=1&gclid=EAIaIQobChMIuKTz19zwlgMVcl3_AR1jSyiBEAoYAyABEgKib_D_BwE&cid=CAASuwHkaNGFXccjI40shsIj_rmRHMUX_hJEI4Sqm9JIpe8bBMmFX6VX0YHfm8Y9iT53ZISTeIK9AD_ywJKIMCTC2f95Dt8SsqjCIUoy3fIvpKDbt6PU9m1UAa6ZVnSKxTgsExllCyCuqXpGSMfM65efm7ouR-9NUoRfl9gqYn0O5x_gIBWnMTimME4YdotXVWj_C9QDtP9LxPHEMZA_ay82dkYWWaZU11rDMD3OWvhixY-6du5B3rgBnOWf_ugb&sig=AOD64_0SKPjbtjsPSezUS3Y5T41VHfvDuw&adurl",
+  "ratePerNightLowest": 73,
+  "ratePerNightBeforeTaxes": 61,
+  "totalRateLowest": 73,
+  "totalRateBeforeTaxes": 61,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£84",
+    "extractedRate": 84,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£84",
+    "extractedRate": 84,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£84",
+    "extractedRate": 84,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Earls Court",
+    "rate": "£84",
+    "extractedRate": 84,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Earls Court",
+   "Super.com",
+   "Booking.com",
+   "Hotels.com",
+   "Expedia.com",
+   "Agoda",
+   "Trip.com",
+   "Priceline",
+   "Gother",
+   "trivago DEALS",
+   "Orbitz.com",
+   "Reserving",
+   "Stayforlong.com",
+   "Travelocity.com",
+   "eDreams",
+   "CheapTickets.com",
+   "Evendo",
+   "Bluepillow.com",
+   "Traveluro",
+   "Hotel prive"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.485806399999994,
+  "gpsLng": -0.1995566,
+  "typicalPriceLow": 62,
+  "typicalPriceHigh": 79,
+  "scrapedAt": "2026-09-15T13:47:35.444Z"
+ },
+ {
+  "propertyToken": "ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+  "name": "The Drayton Court Hotel, Ealing",
+  "address": "2 The Avenue, London W13 8PH, United Kingdom",
+  "hotelsComRate": 135,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwj7mIrb3PCWAxU4hVoFHYU4H2EYACICCAEQHxoCdnU&co=1&ase=2&gclid=EAIaIQobChMI-5iK29zwlgMVOIVaBR2FOB9hEAoYASABEgIHafD_BwE&cid=CAASuwHkaJnqPFpM1abmZutazqgdKzTMGdUe-8qCiBECHYGhOumYQ1aHOqD3kiyF98nHDvtkkgXThM0kkB4EmMKnQFz5ZBbF8sZZCZ1nNvvXFxqYznPOJDdOkH-njPWKe4a-DHFGjRNagFc4rFUK0kNRRwHJvG6SLB7Wy5VxtYVE8aEp5HgvgIOLuXLN-08xMDmReJNN2hxfXGtC5gI95k8IO6GQuhil6Iq8yoyOSIQjZg6Xu9VlAY13zXfAn30F&category=acrcp_v1_48&sig=AOD64_2UXicqD-B5iROf6DVTytIwDdS8Bw&adurl",
+  "ratePerNightLowest": 126,
+  "ratePerNightBeforeTaxes": 105,
+  "totalRateLowest": 126,
+  "totalRateBeforeTaxes": 105,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£135",
+    "extractedRate": 135,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£135",
+    "extractedRate": 135,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£135",
+    "extractedRate": 135,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£135",
+    "extractedRate": 135,
+    "numGuests": 2
+   },
+   {
+    "source": "Priceline",
+    "rate": "£135",
+    "extractedRate": 135,
+    "numGuests": 2
+   },
+   {
+    "source": "Agoda",
+    "rate": "£135",
+    "extractedRate": 135,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "The Drayton Court Hotel",
+   "Super.com",
+   "Booking.com",
+   "Agoda",
+   "Expedia.com",
+   "Priceline",
+   "Hotels.com",
+   "Gother",
+   "Orbitz.com",
+   "Travelocity.com",
+   "eDreams",
+   "CheapTickets.com",
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.514230399999995,
+  "gpsLng": -0.3192527,
+  "typicalPriceLow": 88,
+  "typicalPriceHigh": 131,
+  "scrapedAt": "2026-09-15T13:47:42.239Z"
+ },
+ {
+  "propertyToken": "ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+  "name": "The Bedford",
+  "address": "77 Bedford Hill, London SW12 9HD, United Kingdom",
+  "hotelsComRate": 106,
+  "hotelsComBookingLink": "https://www.google.com/travel/lodging/clk?pc=AA80OszpH29A3KHBkthoeY7m1YjBO6RepkNpmhNoTx2Dld7gNK333M5IXqQgWp2g4OYhyZcUHmkbxrJeWgpc5Z-5r5EmDpfgjsoo5uy576_7Zixg3V3ZFNw8w1s3g5uswjmEHLvdydPpepe6akNwNcoD78COsqZ_pJ_lPU6dFH5bmSOHyx8jfJXYqiKigRJsgGM&pcurl=https://www.hotels.com/Hotel-Search?selected%3D31328216%26startDate%3D2027-02-17%26endDate%3D2027-02-18%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.31328216.20270217.20270218.DDF.155.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D106.31%26mpg%3DGBP%26mpl%3DUSD%26mpj%3D17.72%26mpr%3D0.00%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-1.kwrd%3DGGMETA.31328216USen-20270217-N-ABW%3D155-camp%3D-aud%3D-N%26rateplanid%3D288115269%26mpm%3D24%26mpn%3D220229685%26mpo%3DHC%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=AD1XQnn2BluArqIE6Xh5ujx0YY6m&ap=1",
+  "ratePerNightLowest": 106,
+  "ratePerNightBeforeTaxes": 88,
+  "totalRateLowest": 106,
+  "totalRateBeforeTaxes": 88,
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [
+   "Booking.com",
+   "Hotels.com",
+   "Expedia.com",
+   "Super.com",
+   "Orbitz.com",
+   "Travelocity.com",
+   "CheapTickets.com",
+   "eDreams",
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.4427478,
+  "gpsLng": -0.1494694,
+  "scrapedAt": "2026-09-15T13:47:48.819Z"
+ },
+ {
+  "propertyToken": "ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+  "name": "ibis budget London Whitechapel - Brick Lane",
+  "address": "100 Whitechapel Rd, London E1 1JG, United Kingdom",
+  "ratePerNightLowest": 107,
+  "ratePerNightBeforeTaxes": 89,
+  "totalRateLowest": 107,
+  "totalRateBeforeTaxes": 89,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "ibis budget London Whitechapel - Brick Lane",
+    "rate": "£107",
+    "extractedRate": 107,
+    "numGuests": 2
+   },
+   {
+    "source": "Super.com",
+    "rate": "£96",
+    "extractedRate": 96,
+    "numGuests": 2
+   },
+   {
+    "source": "Vio.com",
+    "rate": "£112",
+    "extractedRate": 112,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis budget London Whitechapel - Brick Lane",
+   "Super.com",
+   "Reserving",
+   "Vio.com"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.5176545,
+  "gpsLng": -0.0647938,
+  "typicalPriceLow": 189,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:47:40.153Z"
+ },
+ {
+  "propertyToken": "ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+  "name": "NOX Golders Green",
+  "address": "146-150 Golders Green Rd, London NW11 8HE, United Kingdom",
+  "ratePerNightLowest": 209,
+  "totalRateLowest": 209,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£209",
+    "extractedRate": 209,
+    "numGuests": 2
+   },
+   {
+    "source": "NOX Golders Green",
+    "rate": "£208",
+    "extractedRate": 208,
+    "numGuests": 2
+   },
+   {
+    "source": "Bluepillow.com",
+    "rate": "£210",
+    "extractedRate": 210,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "NOX Golders Green",
+   "Booking.com",
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.574447500000005,
+  "gpsLng": -0.20160699999999998,
+  "typicalPriceLow": 125,
+  "typicalPriceHigh": 151,
+  "scrapedAt": "2026-09-15T13:47:42.727Z"
+ },
+ {
+  "propertyToken": "ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+  "name": "Green Rooms",
+  "address": "Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom",
+  "ratePerNightLowest": 37,
+  "ratePerNightBeforeTaxes": 31,
+  "totalRateLowest": 37,
+  "totalRateBeforeTaxes": 31,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£37",
+    "extractedRate": 37,
+    "numGuests": 2
+   },
+   {
+    "source": "Bluepillow.com",
+    "rate": "£74",
+    "extractedRate": 74,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Booking.com",
+   "Super.com",
+   "Reserving",
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.5969774,
+  "gpsLng": -0.11080020000000002,
+  "typicalPriceLow": 43,
+  "typicalPriceHigh": 64,
+  "scrapedAt": "2026-09-15T13:47:44.582Z"
+ },
+ {
+  "propertyToken": "ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+  "name": "Town Hall Hotel & Apartments",
+  "address": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF, United Kingdom",
+  "ratePerNightLowest": 209,
+  "ratePerNightBeforeTaxes": 160,
+  "totalRateLowest": 209,
+  "totalRateBeforeTaxes": 160,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£244",
+    "extractedRate": 244,
+    "numGuests": 2
+   },
+   {
+    "source": "eDreams",
+    "rate": "£224",
+    "extractedRate": 224,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Super.com",
+   "Booking.com",
+   "Reserving",
+   "Gother",
+   "Bluepillow.com",
+   "Evendo"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.530479799999995,
+  "gpsLng": -0.0557422,
+  "typicalPriceLow": 130,
+  "typicalPriceHigh": 171,
+  "scrapedAt": "2026-09-15T13:47:46.612Z"
+ },
+ {
+  "propertyToken": "ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+  "name": "Holiday Inn London - Camden Lock by IHG",
+  "address": "30 Jamestown Rd, London NW1 7BY, United Kingdom",
+  "hotelsComRate": 207,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwirnqPe3PCWAxXDKdQBHU3ZEXcYACICCAEQJRoCb2E&co=1&ase=2&gclid=EAIaIQobChMIq56j3tzwlgMVwynUAR1N2RF3EAoYAiABEgKLdfD_BwE&cid=CAAS0wHkaFAdYQd4ieOQj5rHkS1I-reVWQcfoK1D7mwvYh7gNgtN0AJ5b8XHwWss7lcclmIZzUjAskZBEFGKELsw-lUBGtyMOrIvZ4wjBxqnmjI96vHb1gsD0M4lExYyARF-jmBqOTnagMXkJhIeavA__0jRqAmtrETCynBPCpidJcPGfKGQo8crZW_v8kuB5GKBm2OHjePcOCFFkiYfu-8iUclZBcm4gUwWMF3yvOa-ZHKQlU_F8SP_PHCG3POXMUA-B6PECCR90mWIP2KtosnDzYLPLyau&category=acrcp_v1_48&sig=AOD64_0OmlG-b0bTbdg9v-ZRf9WbctMNEQ&adurl",
+  "ratePerNightLowest": 164,
+  "ratePerNightBeforeTaxes": 137,
+  "totalRateLowest": 164,
+  "totalRateBeforeTaxes": 137,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Expedia.ca",
+    "rate": "£207",
+    "extractedRate": 207,
+    "numGuests": 2
+   },
+   {
+    "source": "Hotels.com",
+    "rate": "£207",
+    "extractedRate": 207,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£207",
+    "extractedRate": 207,
+    "numGuests": 2
+   },
+   {
+    "source": "Super.com",
+    "rate": "£164",
+    "extractedRate": 164,
+    "numGuests": 2
+   },
+   {
+    "source": "Bluepillow.ca",
+    "rate": "£208",
+    "extractedRate": 208,
+    "numGuests": 2
+   },
+   {
+    "source": "goseek.com",
+    "rate": "£207",
+    "extractedRate": 207,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Super.com",
+   "Booking.com",
+   "Hotels.com",
+   "Expedia.ca",
+   "goseek.com",
+   "Evendo",
+   "Bluepillow.ca"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.5404833,
+  "gpsLng": -0.1460986,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:47:49.791Z"
+ },
+ {
+  "propertyToken": "ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+  "name": "ibis London Canning Town",
+  "address": "8 Silvertown Way, London E16 1ED, United Kingdom",
+  "hotelsComRate": 100,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn6dzf3PCWAxWEbUcBHRD2K8AYACICCAEQExoCcXU&co=1&ase=2&gclid=EAIaIQobChMI5-nc39zwlgMVhG1HAR0Q9ivAEAoYASABEgIWaPD_BwE&cid=CAASuwHkaJBef5uZXj2ajGBGvqQpIHjwdtWoooyKnUYrZ0VPbe0ux50GShgTwYG7QygT77ba0Wv92dzpkLlURS9DSxRFYp3y2veAZj_YAlUVLsdOPh6TNE1XbsdFmPuO_I5wp-izQ53evo2km-MzCB12spEPcJgL32VnW4xKgfaMHht8-hJ9XTqt_d3Pd4jRz4jrHP0UyGMuuYxBUXS3WZcezqg4ts9u-UO-rqJjJI_oaGcn-mzJKkDbQP8g8V1w&category=acrcp_v1_48&sig=AOD64_1Usphs956-VibaLeS6y2bC4dleYg&adurl",
+  "ratePerNightLowest": 87,
+  "ratePerNightBeforeTaxes": 72,
+  "totalRateLowest": 87,
+  "totalRateBeforeTaxes": 72,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£100",
+    "extractedRate": 100,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.ca",
+    "rate": "£114",
+    "extractedRate": 114,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£100",
+    "extractedRate": 100,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Canning Town",
+    "rate": "£114",
+    "extractedRate": 114,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Canning Town",
+   "Super.com",
+   "Booking.com",
+   "Hotels.com",
+   "Reserving",
+   "Agoda",
+   "Expedia.ca",
+   "Catchit.com",
+   "Evendo"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.514507699999996,
+  "gpsLng": 0.0094246,
+  "typicalPriceLow": 97,
+  "typicalPriceHigh": 109,
+  "scrapedAt": "2026-09-15T13:47:51.926Z"
+ },
+ {
+  "propertyToken": "ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+  "name": "Mowbray Court Hotel",
+  "address": "28-32 Penywern Rd, London SW5 9SU, United Kingdom",
+  "ratePerNightLowest": 176,
+  "totalRateLowest": 176,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Bluepillow.co",
+    "rate": "£187",
+    "extractedRate": 187,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£176",
+    "extractedRate": 176,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Booking.com",
+   "Bluepillow.co",
+   "Evendo"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.4909122,
+  "gpsLng": -0.1938435,
+  "typicalPriceLow": 104,
+  "typicalPriceHigh": 158,
+  "scrapedAt": "2026-09-15T13:47:59.623Z"
+ },
+ {
+  "propertyToken": "ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+  "name": "The Tommyfield",
+  "address": "185 Kennington Ln, London SE11 4EZ, United Kingdom",
+  "ratePerNightLowest": 189,
+  "ratePerNightBeforeTaxes": 158,
+  "totalRateLowest": 189,
+  "totalRateBeforeTaxes": 158,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£189",
+    "extractedRate": 189,
+    "numGuests": 2
+   },
+   {
+    "source": "Bluepillow.ca",
+    "rate": "£190",
+    "extractedRate": 190,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Booking.com",
+   "Bluepillow.ca"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.4886713,
+  "gpsLng": -0.11090269999999999,
+  "scrapedAt": "2026-09-15T13:48:03.073Z"
+ },
+ {
+  "propertyToken": "ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+  "name": "Novotel London Canary Wharf",
+  "address": "40 Marsh Wall, London E14 9TP, United Kingdom",
+  "hotelsComRate": 213,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjEuNjl3PCWAxW8ncIIHRU_CREYACICCAEQXxoCamY&co=1&gclid=EAIaIQobChMIxLjY5dzwlgMVvJ3CCB0VPwkREAoYASABEgLYUfD_BwE&cid=CAAS0wHkaLn9gm5_R5FdYFIVkoKfRgco0nkVSAcfq-JmjM71IhppIunU0AkpMtk8UJrG2otJV4rWpPpo0QKw6ugXUWGAF0I3PW74pFNSQ3awhDOfvcttTUbbNL9-BFDe75MyTXpQAeD_TGv-fKTBwwtvepuuRuEe2dEHAMt6xW0iNS8s6EyMFGqQmq5Zn2feWKJ5L3ldWwAmAmmNjtuuDNbNgBskCLwXL_MHOTVDjiakt8dA63-Lo-5vD3bXYpVwzH0c6Z5cqqYP0FzXTb-qTdSpsdqP2xFF&sig=AOD64_3w-ljsbMNnVDKeRSs4-0OE23-D2w&adurl",
+  "ratePerNightLowest": 176,
+  "ratePerNightBeforeTaxes": 146,
+  "totalRateLowest": 176,
+  "totalRateBeforeTaxes": 146,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£213",
+    "extractedRate": 213,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£214",
+    "extractedRate": 214,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£214",
+    "extractedRate": 214,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£209",
+    "extractedRate": 209,
+    "numGuests": 2
+   },
+   {
+    "source": "Novotel London Canary Wharf",
+    "rate": "£209",
+    "extractedRate": 209,
+    "numGuests": 2
+   },
+   {
+    "source": "eDreams",
+    "rate": "£214",
+    "extractedRate": 214,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Novotel London Canary Wharf",
+   "Super.com",
+   "Booking.com",
+   "trivago DEALS",
+   "Traveluro",
+   "Expedia.com",
+   "Agoda",
+   "Hotels.com",
+   "Orbitz.com",
+   "Reserving",
+   "Vio.com",
+   "Travelocity.com",
+   "eDreams",
+   "Evendo",
+   "CheapTickets.com",
+   "goseek.com",
+   "Bluepillow.com",
+   "Etrip.net",
+   "Kiwi.com"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.501300699999994,
+  "gpsLng": -0.023289999999999998,
+  "typicalPriceLow": 168,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:48:04.621Z"
+ },
+ {
+  "propertyToken": "ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+  "name": "The Rockwell",
+  "address": "181-183 Cromwell Rd, London SW5 0SF, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.494577199999995,
+  "gpsLng": -0.1929515,
+  "typicalPriceLow": 253,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:48:11.823Z"
+ },
+ {
+  "propertyToken": "ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+  "name": "ibis London Excel Docklands",
+  "address": "9 Western Gateway, London E16 1AB, United Kingdom",
+  "hotelsComRate": 97,
+  "hotelsComBookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjgp_fp3PCWAxUvpMIIHRXEHGEYACICCAEQUxoCamY&co=1&ase=2&gclid=EAIaIQobChMI4Kf36dzwlgMVL6TCCB0VxBxhEAoYASABEgKaLPD_BwE&cid=CAASuwHkaP95doyACuRFLzTJUde-GP1f_qk7ZouWeBHS95gZQJ7iq0UoeIBce-f3yaR5t52JWDpNhMo-sjhxibUt1FLrDT38X80CJkXnhkvBgcTWjuCayuLVt_1hMqga0upAyIvxiNttnvSaGM9zlli0m9P6zCEE1TJPYLkAN4yi0nJql5KO158UX1MvRO4tCrJoRrsLXm0ueA4i9eTwC9txw4Vm3I8ruvXuF9Oq1JX1UKEfcwGFPCgH7MZxLGoo&category=acrcp_v1_48&sig=AOD64_3w2gzDgl61AnuvF0yXj7EJV6h_Ag&adurl",
+  "ratePerNightLowest": 82,
+  "ratePerNightBeforeTaxes": 68,
+  "totalRateLowest": 82,
+  "totalRateBeforeTaxes": 68,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Hotels.com",
+    "rate": "£97",
+    "extractedRate": 97,
+    "numGuests": 2
+   },
+   {
+    "source": "Expedia.com",
+    "rate": "£94",
+    "extractedRate": 94,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£94",
+    "extractedRate": 94,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Excel Docklands",
+    "rate": "£97",
+    "extractedRate": 97,
+    "numGuests": 2
+   },
+   {
+    "source": "Travelocity.com",
+    "rate": "£94",
+    "extractedRate": 94,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Excel Docklands",
+   "Super.com",
+   "Booking.com",
+   "Expedia.com",
+   "Stayforlong.com",
+   "Hotels.com",
+   "Reserving",
+   "Agoda",
+   "Orbitz.com",
+   "Kiwi.com",
+   "Vio.com",
+   "Bluepillow.com",
+   "Travelocity.com",
+   "goseek.com",
+   "CheapTickets.com",
+   "dealbase.com",
+   "eDreams",
+   "Evendo",
+   "Etrip.net"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.507857900000005,
+  "gpsLng": 0.0226044,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:48:13.299Z"
+ },
+ {
+  "propertyToken": "ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+  "name": "Kip Hotel",
+  "address": "2 Aspland Grove, London E8 1FJ, United Kingdom",
+  "ratePerNightLowest": 153,
+  "ratePerNightBeforeTaxes": 128,
+  "totalRateLowest": 153,
+  "totalRateBeforeTaxes": 128,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Bluepillow.com",
+    "rate": "£153",
+    "extractedRate": 153,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.5474858,
+  "gpsLng": -0.056262799999999995,
+  "typicalPriceLow": 71,
+  "typicalPriceHigh": 117,
+  "scrapedAt": "2026-09-15T13:48:25.128Z"
+ },
+ {
+  "propertyToken": "ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+  "name": "ibis London Earls Court",
+  "address": "47 Lillie Rd, London SW6 1UD, United Kingdom",
+  "ratePerNightLowest": 134,
+  "ratePerNightBeforeTaxes": 111,
+  "totalRateLowest": 134,
+  "totalRateBeforeTaxes": 111,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Booking.com",
+    "rate": "£153",
+    "extractedRate": 153,
+    "numGuests": 2
+   },
+   {
+    "source": "ibis London Earls Court",
+    "rate": "£154",
+    "extractedRate": 154,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "ibis London Earls Court",
+   "Super.com",
+   "Booking.com",
+   "Reserving",
+   "Evendo",
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.485806399999994,
+  "gpsLng": -0.1995566,
+  "typicalPriceLow": 103,
+  "typicalPriceHigh": 153,
+  "scrapedAt": "2026-09-15T13:48:26.613Z"
+ },
+ {
+  "propertyToken": "ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+  "name": "The Drayton Court Hotel, Ealing",
+  "address": "2 The Avenue, London W13 8PH, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.514230399999995,
+  "gpsLng": -0.3192527,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:48:28.130Z"
+ },
+ {
+  "propertyToken": "ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+  "name": "The Bedford",
+  "address": "77 Bedford Hill, London SW12 9HD, United Kingdom",
+  "ratePerNightLowest": 178,
+  "totalRateLowest": 178,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "th.bluepillow.com",
+    "rate": "£179",
+    "extractedRate": 179,
+    "numGuests": 2
+   },
+   {
+    "source": "Booking.com",
+    "rate": "£178",
+    "extractedRate": 178,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "Booking.com",
+   "th.bluepillow.com"
+  ],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.4427478,
+  "gpsLng": -0.1494694,
+  "scrapedAt": "2026-09-15T13:48:31.065Z"
+ },
+ {
+  "propertyToken": "ChoI8Mnbk7vMkIzNARoNL2cvMTFxM2NoMnRfOBAB",
+  "name": "The Windmill (Hotel)",
+  "address": "Windmill Drive, Clapham Common, London SW4 9DE, United Kingdom",
+  "ratePerNightLowest": 158,
+  "ratePerNightBeforeTaxes": 132,
+  "totalRateLowest": 158,
+  "totalRateBeforeTaxes": 132,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Agoda",
+    "rate": "£158",
+    "extractedRate": 158,
+    "numGuests": 2
+   },
+   {
+    "source": "dealbase.com",
+    "rate": "£158",
+    "extractedRate": 158,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "The Windmill",
+   "Agoda",
+   "dealbase.com",
+   "Bluepillow.com",
+   "Closest Hotel"
+  ],
+  "checkInDate": "2026-10-11",
+  "checkOutDate": "2026-10-12",
+  "gpsLat": 51.4574997,
+  "gpsLng": -0.1440617,
+  "typicalPriceLow": 73,
+  "typicalPriceHigh": 130,
+  "scrapedAt": "2026-09-15T13:46:08.227Z"
+ },
+ {
+  "propertyToken": "ChoI8Mnbk7vMkIzNARoNL2cvMTFxM2NoMnRfOBAB",
+  "name": "The Windmill (Hotel)",
+  "address": "Windmill Drive, Clapham Common, London SW4 9DE, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-10-17",
+  "checkOutDate": "2026-10-18",
+  "gpsLat": 51.4574997,
+  "gpsLng": -0.1440617,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:46:18.169Z"
+ },
+ {
+  "propertyToken": "ChoI8Mnbk7vMkIzNARoNL2cvMTFxM2NoMnRfOBAB",
+  "name": "The Windmill (Hotel)",
+  "address": "Windmill Drive, Clapham Common, London SW4 9DE, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2026-12-12",
+  "checkOutDate": "2026-12-13",
+  "gpsLat": 51.4574997,
+  "gpsLng": -0.1440617,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:46:34.732Z"
+ },
+ {
+  "propertyToken": "ChoI8Mnbk7vMkIzNARoNL2cvMTFxM2NoMnRfOBAB",
+  "name": "The Windmill (Hotel)",
+  "address": "Windmill Drive, Clapham Common, London SW4 9DE, United Kingdom",
+  "ratePerNightLowest": 128,
+  "ratePerNightBeforeTaxes": 107,
+  "totalRateLowest": 128,
+  "totalRateBeforeTaxes": 107,
+  "currency": "GBP",
+  "featuredPrices": [
+   {
+    "source": "Agoda",
+    "rate": "£131",
+    "extractedRate": 131,
+    "numGuests": 2
+   },
+   {
+    "source": "goseek.com",
+    "rate": "£131",
+    "extractedRate": 131,
+    "numGuests": 2
+   }
+  ],
+  "allPriceSources": [
+   "The Windmill",
+   "Super.com",
+   "Agoda",
+   "goseek.com",
+   "Bluepillow.com"
+  ],
+  "checkInDate": "2027-02-17",
+  "checkOutDate": "2027-02-18",
+  "gpsLat": 51.4574997,
+  "gpsLng": -0.1440617,
+  "typicalPriceLow": 87,
+  "typicalPriceHigh": 138,
+  "scrapedAt": "2026-09-15T13:46:46.094Z"
+ },
+ {
+  "propertyToken": "ChoI8Mnbk7vMkIzNARoNL2cvMTFxM2NoMnRfOBAB",
+  "name": "The Windmill (Hotel)",
+  "address": "Windmill Drive, Clapham Common, London SW4 9DE, United Kingdom",
+  "currency": "GBP",
+  "featuredPrices": [],
+  "allPriceSources": [],
+  "checkInDate": "2027-04-17",
+  "checkOutDate": "2027-04-18",
+  "gpsLat": 51.4574997,
+  "gpsLng": -0.1440617,
+  "typicalPriceLow": 167,
+  "typicalPriceHigh": 252,
+  "scrapedAt": "2026-09-15T13:46:55.705Z"
+ }
+]

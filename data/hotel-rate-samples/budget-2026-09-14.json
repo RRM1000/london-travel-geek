@@ -1,6 +1,6 @@
 {
  "checked": "2026-09-14",
- "basis": "1 night, 1 room, 2 adults. The cheapest double or twin shown on the page, total including taxes and fees as displayed, in GBP. Hotels.com (uk.hotels.com) for every property it sells; premierinn.com for Premier Inn and hub by Premier Inn, which do not sell through Hotels.com; the operator's own engine (mews) for a property Hotels.com lists but has no rooms for on any sample night.",
+ "basis": "1 night, 1 room, 2 adults. The cheapest double or twin shown on the page, total including taxes and fees as displayed, in GBP. Hotels.com (uk.hotels.com) for every property it sells; premierinn.com for Premier Inn and hub by Premier Inn, which do not sell through Hotels.com; the operator's own engine (mews) for a property Hotels.com lists but has no rooms for on any sample night; travelodge.co.uk for a Travelodge that Hotels.com does not list; all.accor.com (public rate, not the member rate) for an Accor hotel Hotels.com does not list. Engine google-hotels (the outer London hotels, 15 Sep 2026): Hotels.com's rate for 2 adults as Google Hotels lists it, read through the Apify Hotels.com Scraper, then Expedia's (the same Expedia Group room at the same price), then the hotel's own site, then Booking.com - the source is recorded for every night. Checked against the browser: The Z Hotel Shoreditch matched the Hotels.com page on all five dates, within £1; New Road Hotel ran £2-£35 above its 14 Sep browser capture a day later, with a median of £138 against £143.",
  "ceiling": 150,
  "dates": [
   {
@@ -8921,6 +8921,3985 @@
    "message": "17/2027 → Sun 4/18/2027 Guests selected 2 Adults 2 Edit The minimum number of nights for this period is 2",
    "rooms": [],
    "sig": "20a2c7bc"
+  },
+  {
+   "slug": "new-road-hotel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho659396032/new-road-hotel-london-united-kingdom/?chkin=2026-10-11&chkout=2026-10-12&rm1=a2",
+   "h1": "New Road Hotel",
+   "addr": "103-107 New Road, London, England, E1 1HJ",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 11 Oct | End date, 12 Oct",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Pocket Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 109,
+     "total": 109,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Pocket Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 118,
+     "total": 118,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 128,
+     "total": 128,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 118,
+     "total": 118,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Deluxe",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 127,
+     "total": 127,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Deluxe",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 138,
+     "total": 138,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Twin",
+     "sleeps": 2,
+     "beds": "2 Large Single Beds",
+     "shown": 138,
+     "total": 138,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Loft with Terrace",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 189,
+     "total": 189,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Loft with Spa Bath",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 308,
+     "total": 308,
+     "taxesIncluded": true,
+     "ratePlan": null
+    },
+    {
+     "room": "Deluxe Loft with Terrace",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 339,
+     "total": 339,
+     "taxesIncluded": true,
+     "ratePlan": null
+    },
+    {
+     "room": "Loft with Hot Tub and Terrace",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 359,
+     "total": 359,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "sig": "469dda2d"
+  },
+  {
+   "slug": "new-road-hotel",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho659396032/new-road-hotel-london-united-kingdom/?chkin=2027-02-17&chkout=2027-02-18&rm1=a2",
+   "h1": "New Road Hotel",
+   "addr": "103-107 New Road, London, England, E1 1HJ",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 17 Feb | End date, 18 Feb",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Pocket Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 97,
+     "total": 97,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Pocket Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 105,
+     "total": 105,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 115,
+     "total": 115,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 106,
+     "total": 106,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Deluxe",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 115,
+     "total": 115,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Deluxe",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 125,
+     "total": 125,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Twin",
+     "sleeps": 2,
+     "beds": "2 Large Single Beds",
+     "shown": 125,
+     "total": 125,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Loft with Terrace",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 189,
+     "total": 189,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Family Room",
+     "sleeps": 4,
+     "beds": "1 Double Bed and 1 Large Single Bed",
+     "shown": 213,
+     "total": 213,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Loft with Spa Bath",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 299,
+     "total": 299,
+     "taxesIncluded": true,
+     "ratePlan": null
+    },
+    {
+     "room": "Deluxe Loft with Terrace",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 339,
+     "total": 339,
+     "taxesIncluded": true,
+     "ratePlan": null
+    },
+    {
+     "room": "Loft with Hot Tub and Terrace",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 359,
+     "total": 359,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "sig": "e9a439ff"
+  },
+  {
+   "slug": "new-road-hotel",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho659396032/new-road-hotel-london-united-kingdom/?chkin=2026-10-17&chkout=2026-10-18&rm1=a2",
+   "h1": "New Road Hotel",
+   "addr": "103-107 New Road, London, England, E1 1HJ",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 17 Oct | End date, 18 Oct",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Warehouse Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 215,
+     "total": 215,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Deluxe",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 224,
+     "total": 224,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Twin",
+     "sleeps": 2,
+     "beds": "2 Large Single Beds",
+     "shown": 224,
+     "total": 224,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 230,
+     "total": 230,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Deluxe",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 240,
+     "total": 240,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Twin",
+     "sleeps": 2,
+     "beds": "2 Single Beds",
+     "shown": 240,
+     "total": 240,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Loft with Terrace",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 274,
+     "total": 274,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Loft with Spa Bath",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 363,
+     "total": 363,
+     "taxesIncluded": true,
+     "ratePlan": "Extras per night No extras"
+    },
+    {
+     "room": "Deluxe Loft with Terrace",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 363,
+     "total": 363,
+     "taxesIncluded": true,
+     "ratePlan": "Extras per night No extras"
+    }
+   ],
+   "sig": "155eff50"
+  },
+  {
+   "slug": "new-road-hotel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho659396032/new-road-hotel-london-united-kingdom/?chkin=2026-12-12&chkout=2026-12-13&rm1=a2",
+   "h1": "New Road Hotel",
+   "addr": "103-107 New Road, London, England, E1 1HJ",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 12 Dec | End date, 13 Dec",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Pocket Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 143,
+     "total": 143,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 151,
+     "total": 151,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Pocket Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 152,
+     "total": 152,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Deluxe",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 160,
+     "total": 160,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Twin",
+     "sleeps": 2,
+     "beds": "2 Large Single Beds",
+     "shown": 160,
+     "total": 160,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 161,
+     "total": 161,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Deluxe",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 170,
+     "total": 170,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Loft with Terrace",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 203,
+     "total": 203,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Family Room",
+     "sleeps": 4,
+     "beds": "1 Double Bed and 1 Large Single Bed",
+     "shown": 272,
+     "total": 272,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Loft with Spa Bath",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 293,
+     "total": 293,
+     "taxesIncluded": true,
+     "ratePlan": "Extras per night No extras"
+    },
+    {
+     "room": "Deluxe Loft with Terrace",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 307,
+     "total": 307,
+     "taxesIncluded": true,
+     "ratePlan": null
+    },
+    {
+     "room": "Loft with Hot Tub and Terrace",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 350,
+     "total": 350,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "sig": "1083c28"
+  },
+  {
+   "slug": "new-road-hotel",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho659396032/new-road-hotel-london-united-kingdom/?chkin=2027-04-17&chkout=2027-04-18&rm1=a2",
+   "h1": "New Road Hotel",
+   "addr": "103-107 New Road, London, England, E1 1HJ",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 17 Apr | End date, 18 Apr",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Pocket Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 147,
+     "total": 147,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 170,
+     "total": 170,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Deluxe",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 180,
+     "total": 180,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 157,
+     "total": 157,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Pocket Double",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 160,
+     "total": 160,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Deluxe",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 166,
+     "total": 166,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Warehouse Twin",
+     "sleeps": 2,
+     "beds": "2 Large Single Beds",
+     "shown": 180,
+     "total": 180,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Loft with Terrace",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 230,
+     "total": 230,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Family Room",
+     "sleeps": 4,
+     "beds": "1 Double Bed and 1 Large Single Bed",
+     "shown": 306,
+     "total": 306,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Loft with Spa Bath",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 339,
+     "total": 339,
+     "taxesIncluded": true,
+     "ratePlan": "Extras per night No extras"
+    },
+    {
+     "room": "Deluxe Loft with Terrace",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 350,
+     "total": 350,
+     "taxesIncluded": true,
+     "ratePlan": null
+    },
+    {
+     "room": "Loft with Hot Tub and Terrace",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "shown": 400,
+     "total": 400,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "sig": "2b10be7c"
+  },
+  {
+   "slug": "tribe-london-canary-wharf",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho2660085568/tribe-london-canary-wharf-dixcove-ghana/?chkin=2026-10-11&chkout=2026-10-12&rm1=a2",
+   "h1": "Tribe London Canary Wharf",
+   "addr": "15 Water Street, London, England, E14 5GX",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 11 Oct | End date, 12 Oct",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "TRIBE Essential atrium",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 157,
+     "total": 157,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "TRIBE Essential",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 174,
+     "total": 174,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "TRIBE Extra",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 229,
+     "total": 229,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    }
+   ],
+   "sig": "afcfcdaf"
+  },
+  {
+   "slug": "tribe-london-canary-wharf",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho2660085568/tribe-london-canary-wharf-dixcove-ghana/?chkin=2027-02-17&chkout=2027-02-18&rm1=a2",
+   "h1": "Tribe London Canary Wharf",
+   "addr": "15 Water Street, London, England, E14 5GX",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 17 Feb | End date, 18 Feb",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "TRIBE Essential atrium",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 175,
+     "total": 175,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "TRIBE Essential",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 192,
+     "total": 192,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "TRIBE Extra",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 243,
+     "total": 243,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    }
+   ],
+   "sig": "732b0965"
+  },
+  {
+   "slug": "tribe-london-canary-wharf",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho2660085568/tribe-london-canary-wharf-dixcove-ghana/?chkin=2026-10-17&chkout=2026-10-18&rm1=a2",
+   "h1": "Tribe London Canary Wharf",
+   "addr": "15 Water Street, London, England, E14 5GX",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 17 Oct | End date, 18 Oct",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "TRIBE Essential atrium",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 185,
+     "total": 185,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "TRIBE Essential",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 203,
+     "total": 203,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "TRIBE Extra",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 260,
+     "total": 260,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    }
+   ],
+   "sig": "abce973f"
+  },
+  {
+   "slug": "tribe-london-canary-wharf",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho2660085568/tribe-london-canary-wharf-dixcove-ghana/?chkin=2026-12-12&chkout=2026-12-13&rm1=a2",
+   "h1": "Tribe London Canary Wharf",
+   "addr": "15 Water Street, London, England, E14 5GX",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 12 Dec | End date, 13 Dec",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "TRIBE Essential atrium",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 199,
+     "total": 199,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "TRIBE Essential",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 216,
+     "total": 216,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "TRIBE Extra",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 303,
+     "total": 303,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    }
+   ],
+   "sig": "904bbdad"
+  },
+  {
+   "slug": "tribe-london-canary-wharf",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho2660085568/tribe-london-canary-wharf-dixcove-ghana/?chkin=2027-04-17&chkout=2027-04-18&rm1=a2",
+   "h1": "Tribe London Canary Wharf",
+   "addr": "15 Water Street, London, England, E14 5GX",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 17 Apr | End date, 18 Apr",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "TRIBE Essential atrium",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 164,
+     "total": 164,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "TRIBE Essential",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 181,
+     "total": 181,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "TRIBE Extra",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 232,
+     "total": 232,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    }
+   ],
+   "sig": "8197b849"
+  },
+  {
+   "slug": "templeton-garden",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho194223/k-k-hotel-george-kensington-london-united-kingdom/?chkin=2026-10-11&chkout=2026-10-12&rm1=a2",
+   "h1": "Miiro Templeton Garden",
+   "addr": "1-15 Templeton Place, London, England, SW5 9NB",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 11 Oct | End date, 12 Oct",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "The Classic",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 259,
+     "total": 259,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Superior",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 304,
+     "total": 304,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Deluxe",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 398,
+     "total": 398,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Junior Suite",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 558,
+     "total": 558,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Single",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "shown": null,
+     "total": null,
+     "taxesIncluded": false,
+     "ratePlan": null
+    }
+   ],
+   "sig": "4696bf42"
+  },
+  {
+   "slug": "templeton-garden",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho194223/k-k-hotel-george-kensington-london-united-kingdom/?chkin=2027-02-17&chkout=2027-02-18&rm1=a2",
+   "h1": "Miiro Templeton Garden",
+   "addr": "1-15 Templeton Place, London, England, SW5 9NB",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 17 Feb | End date, 18 Feb",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "The Classic",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 221,
+     "total": 221,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Classic - Garden View",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 251,
+     "total": 251,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Twin",
+     "sleeps": 2,
+     "beds": "2 Single Beds",
+     "shown": 258,
+     "total": 258,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Superior",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 266,
+     "total": 266,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Deluxe",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 333,
+     "total": 333,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Junior Suite",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 520,
+     "total": 520,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Single",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "shown": null,
+     "total": null,
+     "taxesIncluded": false,
+     "ratePlan": null
+    }
+   ],
+   "sig": "bf361cf"
+  },
+  {
+   "slug": "templeton-garden",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho194223/k-k-hotel-george-kensington-london-united-kingdom/?chkin=2026-10-17&chkout=2026-10-18&rm1=a2",
+   "h1": "Miiro Templeton Garden",
+   "addr": "1-15 Templeton Place, London, England, SW5 9NB",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 17 Oct | End date, 18 Oct",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "The Classic",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 314,
+     "total": 314,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Classic - Garden View",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 344,
+     "total": 344,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Twin",
+     "sleeps": 2,
+     "beds": "2 Single Beds",
+     "shown": 352,
+     "total": 352,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Superior",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 359,
+     "total": 359,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Deluxe",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 426,
+     "total": 426,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Junior Suite",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 613,
+     "total": 613,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Single",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "shown": null,
+     "total": null,
+     "taxesIncluded": false,
+     "ratePlan": null
+    }
+   ],
+   "sig": "7903e6e9"
+  },
+  {
+   "slug": "templeton-garden",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho194223/k-k-hotel-george-kensington-london-united-kingdom/?chkin=2026-12-12&chkout=2026-12-13&rm1=a2",
+   "h1": "Miiro Templeton Garden",
+   "addr": "1-15 Templeton Place, London, England, SW5 9NB",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 12 Dec | End date, 13 Dec",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "The Classic",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 344,
+     "total": 344,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Classic - Garden View",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 374,
+     "total": 374,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Twin",
+     "sleeps": 2,
+     "beds": "2 Single Beds",
+     "shown": 382,
+     "total": 382,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Superior",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 389,
+     "total": 389,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Deluxe",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 456,
+     "total": 456,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Junior Suite",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 643,
+     "total": 643,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Single",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "shown": null,
+     "total": null,
+     "taxesIncluded": false,
+     "ratePlan": null
+    }
+   ],
+   "sig": "7cd97d17"
+  },
+  {
+   "slug": "templeton-garden",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "hotels.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://uk.hotels.com/ho194223/k-k-hotel-george-kensington-london-united-kingdom/?chkin=2027-04-17&chkout=2027-04-18&rm1=a2",
+   "h1": "Miiro Templeton Garden",
+   "addr": "1-15 Templeton Place, London, England, SW5 9NB",
+   "party": "Travellers, 2 travellers, 1 room",
+   "when": "Start date, 17 Apr | End date, 18 Apr",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "The Classic",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 240,
+     "total": 240,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Classic - Garden View",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 270,
+     "total": 270,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Twin",
+     "sleeps": 2,
+     "beds": "2 Single Beds",
+     "shown": 277,
+     "total": 277,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Superior",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 284,
+     "total": 284,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Deluxe",
+     "sleeps": 2,
+     "beds": "1 Queen Bed",
+     "shown": 352,
+     "total": 352,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "Junior Suite",
+     "sleeps": 2,
+     "beds": "1 King Bed",
+     "shown": 538,
+     "total": 538,
+     "taxesIncluded": true,
+     "ratePlan": "Non-refundable"
+    },
+    {
+     "room": "The Single",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "shown": null,
+     "total": null,
+     "taxesIncluded": false,
+     "ratePlan": null
+    }
+   ],
+   "sig": "9229a517"
+  },
+  {
+   "slug": "hub-west-brompton",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-west-brompton.html?ARRdd=11&ARRmm=10&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "hub by Premier Inn London West Brompton hotel",
+   "addr": "11-15 Lillie Road, Fulham, London SW6 1TX",
+   "party": "Sun 11 Oct - Mon 12 Oct, 2 adults, 1 room",
+   "when": "Sun 11 Oct - Mon 12 Oct, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 59,
+     "total": 59,
+     "taxesIncluded": true,
+     "ratePlan": "hub Standard"
+    },
+    {
+     "room": "Bigger room with extras",
+     "sleeps": null,
+     "beds": null,
+     "shown": 66,
+     "total": 66,
+     "taxesIncluded": true,
+     "ratePlan": "hub Standard"
+    }
+   ],
+   "sig": "8629d626"
+  },
+  {
+   "slug": "hub-west-brompton",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-west-brompton.html?ARRdd=17&ARRmm=02&ARRyyyy=2027&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "hub by Premier Inn London West Brompton hotel",
+   "addr": "11-15 Lillie Road, Fulham, London SW6 1TX",
+   "party": "Wed 17 Feb - Thu 18 Feb, 2 adults, 1 room",
+   "when": "Wed 17 Feb - Thu 18 Feb, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 64,
+     "total": 64,
+     "taxesIncluded": true,
+     "ratePlan": "hub Advance"
+    },
+    {
+     "room": "Bigger room with extras",
+     "sleeps": null,
+     "beds": null,
+     "shown": 71,
+     "total": 71,
+     "taxesIncluded": true,
+     "ratePlan": "hub Advance"
+    }
+   ],
+   "sig": "3a6af944"
+  },
+  {
+   "slug": "hub-west-brompton",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-west-brompton.html?ARRdd=17&ARRmm=10&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "hub by Premier Inn London West Brompton hotel",
+   "addr": "11-15 Lillie Road, Fulham, London SW6 1TX",
+   "party": "Sat 17 Oct - Sun 18 Oct, 2 adults, 1 room",
+   "when": "Sat 17 Oct - Sun 18 Oct, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 174,
+     "total": 174,
+     "taxesIncluded": true,
+     "ratePlan": "hub Standard"
+    },
+    {
+     "room": "Bigger room with extras",
+     "sleeps": null,
+     "beds": null,
+     "shown": 193,
+     "total": 193,
+     "taxesIncluded": true,
+     "ratePlan": "hub Standard"
+    }
+   ],
+   "sig": "4fa80908"
+  },
+  {
+   "slug": "hub-west-brompton",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-west-brompton.html?ARRdd=12&ARRmm=12&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "hub by Premier Inn London West Brompton hotel",
+   "addr": "11-15 Lillie Road, Fulham, London SW6 1TX",
+   "party": "Sat 12 Dec - Sun 13 Dec, 2 adults, 1 room",
+   "when": "Sat 12 Dec - Sun 13 Dec, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 176,
+     "total": 176,
+     "taxesIncluded": true,
+     "ratePlan": "hub Standard"
+    },
+    {
+     "room": "Bigger room with extras",
+     "sleeps": null,
+     "beds": null,
+     "shown": 189,
+     "total": 189,
+     "taxesIncluded": true,
+     "ratePlan": "hub Standard"
+    }
+   ],
+   "sig": "b638f719"
+  },
+  {
+   "slug": "hub-west-brompton",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-west-brompton.html?ARRdd=17&ARRmm=04&ARRyyyy=2027&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "hub by Premier Inn London West Brompton hotel",
+   "addr": "11-15 Lillie Road, Fulham, London SW6 1TX",
+   "party": "Sat 17 Apr - Sun 18 Apr, 2 adults, 1 room",
+   "when": "Sat 17 Apr - Sun 18 Apr, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 141,
+     "total": 141,
+     "taxesIncluded": true,
+     "ratePlan": "hub Advance"
+    },
+    {
+     "room": "Bigger room with extras",
+     "sleeps": null,
+     "beds": null,
+     "shown": 153,
+     "total": 153,
+     "taxesIncluded": true,
+     "ratePlan": "hub Advance"
+    }
+   ],
+   "sig": "65b81362"
+  },
+  {
+   "slug": "premier-inn-stratford",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-stratford.html?ARRdd=11&ARRmm=10&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "London Stratford hotel",
+   "addr": "9 International Square, Westfield Stratford City, Montfichet Road E20 1EE",
+   "party": "Sun 11 Oct - Mon 12 Oct, 2 adults, 1 room",
+   "when": "Sun 11 Oct - Mon 12 Oct, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 71,
+     "total": 71,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    },
+    {
+     "room": "Standard room with a city view",
+     "sleeps": null,
+     "beds": null,
+     "shown": 78,
+     "total": 78,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    },
+    {
+     "room": "Premier Plus room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 81,
+     "total": 81,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    }
+   ],
+   "sig": "61a448c5"
+  },
+  {
+   "slug": "premier-inn-stratford",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-stratford.html?ARRdd=17&ARRmm=02&ARRyyyy=2027&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "London Stratford hotel",
+   "addr": "9 International Square, Westfield Stratford City, Montfichet Road E20 1EE",
+   "party": "Wed 17 Feb - Thu 18 Feb, 2 adults, 1 room",
+   "when": "Wed 17 Feb - Thu 18 Feb, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 106,
+     "total": 106,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    },
+    {
+     "room": "Standard room with a city view",
+     "sleeps": null,
+     "beds": null,
+     "shown": 115,
+     "total": 115,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    },
+    {
+     "room": "Premier Plus room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 119,
+     "total": 119,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    },
+    {
+     "room": "Premier Plus room with a city view",
+     "sleeps": null,
+     "beds": null,
+     "shown": 124,
+     "total": 124,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    }
+   ],
+   "sig": "5b697a7a"
+  },
+  {
+   "slug": "premier-inn-stratford",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-stratford.html?ARRdd=17&ARRmm=10&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "London Stratford hotel",
+   "addr": "9 International Square, Westfield Stratford City, Montfichet Road E20 1EE",
+   "party": "Sat 17 Oct - Sun 18 Oct, 2 adults, 1 room",
+   "when": "Sat 17 Oct - Sun 18 Oct, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 186,
+     "total": 186,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    },
+    {
+     "room": "Premier Plus room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 205,
+     "total": 205,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    }
+   ],
+   "sig": "c06b6ee5"
+  },
+  {
+   "slug": "premier-inn-stratford",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-stratford.html?ARRdd=12&ARRmm=12&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "London Stratford hotel",
+   "addr": "9 International Square, Westfield Stratford City, Montfichet Road E20 1EE",
+   "party": "Sat 12 Dec - Sun 13 Dec, 2 adults, 1 room",
+   "when": "Sat 12 Dec - Sun 13 Dec, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 203,
+     "total": 203,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    },
+    {
+     "room": "Standard room with a city view",
+     "sleeps": null,
+     "beds": null,
+     "shown": 220,
+     "total": 220,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    },
+    {
+     "room": "Premier Plus room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 225,
+     "total": 225,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    },
+    {
+     "room": "Premier Plus room with a city view",
+     "sleeps": null,
+     "beds": null,
+     "shown": 232,
+     "total": 232,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    }
+   ],
+   "sig": "17fb3895"
+  },
+  {
+   "slug": "premier-inn-stratford",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-stratford.html?ARRdd=17&ARRmm=04&ARRyyyy=2027&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "London Stratford hotel",
+   "addr": "9 International Square, Westfield Stratford City, Montfichet Road E20 1EE",
+   "party": "Sat 17 Apr - Sun 18 Apr, 2 adults, 1 room",
+   "when": "Sat 17 Apr - Sun 18 Apr, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 134,
+     "total": 134,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    },
+    {
+     "room": "Standard room with a city view",
+     "sleeps": null,
+     "beds": null,
+     "shown": 146,
+     "total": 146,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    },
+    {
+     "room": "Premier Plus room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 146,
+     "total": 146,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    },
+    {
+     "room": "Premier Plus room with a city view",
+     "sleeps": null,
+     "beds": null,
+     "shown": 153,
+     "total": 153,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    }
+   ],
+   "sig": "e18ad718"
+  },
+  {
+   "slug": "premier-inn-hanger-lane",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-hanger-lane.html?ARRdd=11&ARRmm=10&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "London Hanger Lane hotel",
+   "addr": "1-6 Ritz Parade, Hanger Lane, Ealing W5 3RA",
+   "party": "Sun 11 Oct - Mon 12 Oct, 2 adults, 1 room",
+   "when": "Sun 11 Oct - Mon 12 Oct, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 47,
+     "total": 47,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    },
+    {
+     "room": "Premier Plus room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 55,
+     "total": 55,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    }
+   ],
+   "sig": "f7508dbd"
+  },
+  {
+   "slug": "premier-inn-hanger-lane",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-hanger-lane.html?ARRdd=17&ARRmm=02&ARRyyyy=2027&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "London Hanger Lane hotel",
+   "addr": "1-6 Ritz Parade, Hanger Lane, Ealing W5 3RA",
+   "party": "Wed 17 Feb - Thu 18 Feb, 2 adults, 1 room",
+   "when": "Wed 17 Feb - Thu 18 Feb, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 76,
+     "total": 76,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    },
+    {
+     "room": "Premier Plus room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 87,
+     "total": 87,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    }
+   ],
+   "sig": "e35220b1"
+  },
+  {
+   "slug": "premier-inn-hanger-lane",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-hanger-lane.html?ARRdd=17&ARRmm=10&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "London Hanger Lane hotel",
+   "addr": "1-6 Ritz Parade, Hanger Lane, Ealing W5 3RA",
+   "party": "Sat 17 Oct - Sun 18 Oct, 2 adults, 1 room",
+   "when": "Sat 17 Oct - Sun 18 Oct, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 114,
+     "total": 114,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    },
+    {
+     "room": "Premier Plus room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 129,
+     "total": 129,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    }
+   ],
+   "sig": "2a293991"
+  },
+  {
+   "slug": "premier-inn-hanger-lane",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-hanger-lane.html?ARRdd=12&ARRmm=12&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "London Hanger Lane hotel",
+   "addr": "1-6 Ritz Parade, Hanger Lane, Ealing W5 3RA",
+   "party": "Sat 12 Dec - Sun 13 Dec, 2 adults, 1 room",
+   "when": "Sat 12 Dec - Sun 13 Dec, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 142,
+     "total": 142,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    },
+    {
+     "room": "Premier Plus room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 159,
+     "total": 159,
+     "taxesIncluded": true,
+     "ratePlan": "Standard"
+    }
+   ],
+   "sig": "245fe2a2"
+  },
+  {
+   "slug": "premier-inn-hanger-lane",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "premierinn.com",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-hanger-lane.html?ARRdd=17&ARRmm=04&ARRyyyy=2027&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB",
+   "h1": "London Hanger Lane hotel",
+   "addr": "1-6 Ritz Parade, Hanger Lane, Ealing W5 3RA",
+   "party": "Sat 17 Apr - Sun 18 Apr, 2 adults, 1 room",
+   "when": "Sat 17 Apr - Sun 18 Apr, 2 adults, 1 room",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 115,
+     "total": 115,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    },
+    {
+     "room": "Premier Plus room",
+     "sleeps": null,
+     "beds": null,
+     "shown": 131,
+     "total": 131,
+     "taxesIncluded": true,
+     "ratePlan": "Advance"
+    }
+   ],
+   "sig": "6e08582f"
+  },
+  {
+   "slug": "travelodge-london-docklands",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "travelodge.co.uk",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel?checkIn=11/10/2026&checkOut=12/10/2026&rooms[0][adults]=2&rooms[0][children]=0",
+   "h1": "Travelodge London Docklands Central",
+   "addr": "1 Oregano Drive, London, E14 2AE, UK",
+   "party": "Your room options for 2 adults for 1 night | Sunday 11 Oct | 1 Night | 2 Guests | 1 Room",
+   "when": "Sunday 11 Oct | 1 Night | 2 Guests | 1 Room | 11/10/26 - 12/10/26",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard Room",
+     "sleeps": null,
+     "beds": "King size bed",
+     "shown": 34.99,
+     "total": 34.99,
+     "taxesIncluded": true,
+     "ratePlan": "Lowest Rate"
+    },
+    {
+     "room": "SuperRoom",
+     "sleeps": null,
+     "beds": "King size bed",
+     "shown": 42.99,
+     "total": 42.99,
+     "taxesIncluded": true,
+     "ratePlan": "Lowest Rate"
+    }
+   ],
+   "sig": "27cc257e"
+  },
+  {
+   "slug": "travelodge-london-docklands",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "travelodge.co.uk",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel?checkIn=17/02/2027&checkOut=18/02/2027&rooms[0][adults]=2&rooms[0][children]=0",
+   "h1": "Travelodge London Docklands Central",
+   "addr": "1 Oregano Drive, London, E14 2AE, UK",
+   "party": "Your room options for 2 adults for 1 night | Wednesday 17 Feb | 1 Night | 2 Guests | 1 Room",
+   "when": "Wednesday 17 Feb | 1 Night | 2 Guests | 1 Room | 17/02/27 - 18/02/27",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard Room",
+     "sleeps": null,
+     "beds": "King size bed",
+     "shown": 42.99,
+     "total": 42.99,
+     "taxesIncluded": true,
+     "ratePlan": "Lowest Rate"
+    },
+    {
+     "room": "SuperRoom",
+     "sleeps": null,
+     "beds": "King size bed",
+     "shown": 51.99,
+     "total": 51.99,
+     "taxesIncluded": true,
+     "ratePlan": "Lowest Rate"
+    }
+   ],
+   "sig": "8cc418d0"
+  },
+  {
+   "slug": "travelodge-london-docklands",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "travelodge.co.uk",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel?checkIn=17/10/2026&checkOut=18/10/2026&rooms[0][adults]=2&rooms[0][children]=0",
+   "h1": "Travelodge London Docklands Central",
+   "addr": "1 Oregano Drive, London, E14 2AE, UK",
+   "party": "Your room options for 2 adults for 1 night | Saturday 17 Oct | 1 Night | 2 Guests | 1 Room",
+   "when": "Saturday 17 Oct | 1 Night | 2 Guests | 1 Room | 17/10/26 - 18/10/26",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard Room",
+     "sleeps": null,
+     "beds": "King size bed",
+     "shown": 111.99,
+     "total": 111.99,
+     "taxesIncluded": true,
+     "ratePlan": "Lowest Rate"
+    },
+    {
+     "room": "SuperRoom",
+     "sleeps": null,
+     "beds": "King size bed",
+     "shown": 136.99,
+     "total": 136.99,
+     "taxesIncluded": true,
+     "ratePlan": "Lowest Rate"
+    }
+   ],
+   "sig": "fab23828"
+  },
+  {
+   "slug": "travelodge-london-docklands",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "travelodge.co.uk",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel?checkIn=12/12/2026&checkOut=13/12/2026&rooms[0][adults]=2&rooms[0][children]=0",
+   "h1": "Travelodge London Docklands Central",
+   "addr": "1 Oregano Drive, London, E14 2AE, UK",
+   "party": "Your room options for 2 adults for 1 night | Saturday 12 Dec | 1 Night | 2 Guests | 1 Room",
+   "when": "Saturday 12 Dec | 1 Night | 2 Guests | 1 Room | 12/12/26 - 13/12/26",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard Room",
+     "sleeps": null,
+     "beds": "King size bed",
+     "shown": 107.99,
+     "total": 107.99,
+     "taxesIncluded": true,
+     "ratePlan": "Lowest Rate"
+    },
+    {
+     "room": "SuperRoom",
+     "sleeps": null,
+     "beds": "King size bed",
+     "shown": 127.99,
+     "total": 127.99,
+     "taxesIncluded": true,
+     "ratePlan": "Lowest Rate"
+    }
+   ],
+   "sig": "ca641144"
+  },
+  {
+   "slug": "travelodge-london-docklands",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "travelodge.co.uk",
+   "capturedOn": "2026-09-14",
+   "href": "https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel?checkIn=17/04/2027&checkOut=18/04/2027&rooms[0][adults]=2&rooms[0][children]=0",
+   "h1": "Travelodge London Docklands Central",
+   "addr": "1 Oregano Drive, London, E14 2AE, UK",
+   "party": "Your room options for 2 adults for 1 night | Saturday 17 Apr | 1 Night | 2 Guests | 1 Room",
+   "when": "Saturday 17 Apr | 1 Night | 2 Guests | 1 Room | 17/04/27 - 18/04/27",
+   "soldOut": false,
+   "message": null,
+   "rooms": [
+    {
+     "room": "Standard Room",
+     "sleeps": null,
+     "beds": "King size bed",
+     "shown": 81.99,
+     "total": 81.99,
+     "taxesIncluded": true,
+     "ratePlan": "Lowest Rate"
+    },
+    {
+     "room": "SuperRoom",
+     "sleeps": null,
+     "beds": "King size bed",
+     "shown": 103.99,
+     "total": 103.99,
+     "taxesIncluded": true,
+     "ratePlan": "Lowest Rate"
+    }
+   ],
+   "sig": "dd56fe22"
+  },
+  {
+   "slug": "ibis-budget-london-whitechapel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+   "h1": "ibis budget London Whitechapel - Brick Lane",
+   "addr": "100 Whitechapel Rd, London E1 1JG, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (ibis budget London Whitechapel - Brick Lane) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 84,
+     "total": 84,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (ibis budget London Whitechapel - Brick Lane)",
+   "lowestAnySite": 84,
+   "scrapedAt": "2026-09-15T13:44:50.455Z"
+  },
+  {
+   "slug": "nox-golders-green",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+   "h1": "NOX Golders Green",
+   "addr": "146-150 Golders Green Rd, London NW11 8HE, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 100,
+     "total": 100,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 100,
+   "scrapedAt": "2026-09-15T13:44:52.094Z"
+  },
+  {
+   "slug": "green-rooms",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+   "h1": "Green Rooms",
+   "addr": "Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 88,
+     "total": 88,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 85,
+   "scrapedAt": "2026-09-15T13:44:58.314Z"
+  },
+  {
+   "slug": "town-hall-hotel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+   "h1": "Town Hall Hotel & Apartments",
+   "addr": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 240,
+     "total": 240,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 180,
+   "scrapedAt": "2026-09-15T13:45:00.664Z"
+  },
+  {
+   "slug": "holiday-inn-london-camden-lock",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+   "h1": "Holiday Inn London - Camden Lock by IHG",
+   "addr": "30 Jamestown Rd, London NW1 7BY, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 155,
+     "total": 155,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 124,
+   "scrapedAt": "2026-09-15T13:45:02.408Z"
+  },
+  {
+   "slug": "ibis-london-canning-town",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+   "h1": "ibis London Canning Town",
+   "addr": "8 Silvertown Way, London E16 1ED, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 106,
+     "total": 106,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 90,
+   "scrapedAt": "2026-09-15T13:45:14.354Z"
+  },
+  {
+   "slug": "mowbray-court-hotel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+   "h1": "Mowbray Court Hotel",
+   "addr": "28-32 Penywern Rd, London SW5 9SU, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 119,
+     "total": 119,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 74,
+   "scrapedAt": "2026-09-15T13:45:20.963Z"
+  },
+  {
+   "slug": "the-tommyfield",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+   "h1": "The Tommyfield",
+   "addr": "185 Kennington Ln, London SE11 4EZ, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 139,
+     "total": 139,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 139,
+   "scrapedAt": "2026-09-15T13:45:23.374Z"
+  },
+  {
+   "slug": "novotel-london-canary-wharf",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+   "h1": "Novotel London Canary Wharf",
+   "addr": "40 Marsh Wall, London E14 9TP, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 165,
+     "total": 165,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 130,
+   "scrapedAt": "2026-09-15T13:45:26.272Z"
+  },
+  {
+   "slug": "the-rockwell",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+   "h1": "The Rockwell",
+   "addr": "181-183 Cromwell Rd, London SW5 0SF, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (The Rockwell) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 120,
+     "total": 120,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (The Rockwell)",
+   "lowestAnySite": 108,
+   "scrapedAt": "2026-09-15T13:45:32.949Z"
+  },
+  {
+   "slug": "ibis-london-excel-docklands",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+   "h1": "ibis London Excel Docklands",
+   "addr": "9 Western Gateway, London E16 1AB, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 76,
+     "total": 76,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 59,
+   "scrapedAt": "2026-09-15T13:45:34.766Z"
+  },
+  {
+   "slug": "kip-hotel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+   "h1": "Kip Hotel",
+   "addr": "2 Aspland Grove, London E8 1FJ, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 72,
+     "total": 72,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 59,
+   "scrapedAt": "2026-09-15T13:45:43.363Z"
+  },
+  {
+   "slug": "ibis-london-earls-court",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+   "h1": "ibis London Earls Court",
+   "addr": "47 Lillie Rd, London SW6 1UD, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 102,
+     "total": 102,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 91,
+   "scrapedAt": "2026-09-15T13:45:45.079Z"
+  },
+  {
+   "slug": "the-drayton-court-hotel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+   "h1": "The Drayton Court Hotel, Ealing",
+   "addr": "2 The Avenue, London W13 8PH, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 117,
+     "total": 117,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 107,
+   "scrapedAt": "2026-09-15T13:45:46.863Z"
+  },
+  {
+   "slug": "the-bedford-balham",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-11",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+   "h1": "The Bedford",
+   "addr": "77 Bedford Hill, London SW12 9HD, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-11 to 2026-10-12",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:45:58.500Z"
+  },
+  {
+   "slug": "ibis-budget-london-whitechapel",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+   "h1": "ibis budget London Whitechapel - Brick Lane",
+   "addr": "100 Whitechapel Rd, London E1 1JG, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (ibis budget London Whitechapel - Brick Lane) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 168,
+     "total": 168,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (ibis budget London Whitechapel - Brick Lane)",
+   "lowestAnySite": 168,
+   "scrapedAt": "2026-09-15T13:45:32.545Z"
+  },
+  {
+   "slug": "nox-golders-green",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+   "h1": "NOX Golders Green",
+   "addr": "146-150 Golders Green Rd, London NW11 8HE, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (NOX Golders Green) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 124,
+     "total": 124,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (NOX Golders Green)",
+   "lowestAnySite": 125,
+   "scrapedAt": "2026-09-15T13:45:33.456Z"
+  },
+  {
+   "slug": "green-rooms",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+   "h1": "Green Rooms",
+   "addr": "Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 96,
+     "total": 96,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 92,
+   "scrapedAt": "2026-09-15T13:45:34.685Z"
+  },
+  {
+   "slug": "town-hall-hotel",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+   "h1": "Town Hall Hotel & Apartments",
+   "addr": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 254,
+     "total": 254,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 212,
+   "scrapedAt": "2026-09-15T13:45:36.736Z"
+  },
+  {
+   "slug": "holiday-inn-london-camden-lock",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+   "h1": "Holiday Inn London - Camden Lock by IHG",
+   "addr": "30 Jamestown Rd, London NW1 7BY, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 263,
+     "total": 263,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 205,
+   "scrapedAt": "2026-09-15T13:45:43.080Z"
+  },
+  {
+   "slug": "ibis-london-canning-town",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+   "h1": "ibis London Canning Town",
+   "addr": "8 Silvertown Way, London E16 1ED, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 153,
+     "total": 153,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 130,
+   "scrapedAt": "2026-09-15T13:45:44.966Z"
+  },
+  {
+   "slug": "mowbray-court-hotel",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+   "h1": "Mowbray Court Hotel",
+   "addr": "28-32 Penywern Rd, London SW5 9SU, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:45:46.759Z"
+  },
+  {
+   "slug": "the-tommyfield",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+   "h1": "The Tommyfield",
+   "addr": "185 Kennington Ln, London SE11 4EZ, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:45:47.983Z"
+  },
+  {
+   "slug": "novotel-london-canary-wharf",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+   "h1": "Novotel London Canary Wharf",
+   "addr": "40 Marsh Wall, London E14 9TP, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Expedia rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 227,
+     "total": 227,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Expedia",
+   "lowestAnySite": 186,
+   "scrapedAt": "2026-09-15T13:45:49.906Z"
+  },
+  {
+   "slug": "the-rockwell",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+   "h1": "The Rockwell",
+   "addr": "181-183 Cromwell Rd, London SW5 0SF, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (The Rockwell) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 190,
+     "total": 190,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (The Rockwell)",
+   "lowestAnySite": 171,
+   "scrapedAt": "2026-09-15T13:45:51.724Z"
+  },
+  {
+   "slug": "ibis-london-excel-docklands",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+   "h1": "ibis London Excel Docklands",
+   "addr": "9 Western Gateway, London E16 1AB, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 185,
+     "total": 185,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 143,
+   "scrapedAt": "2026-09-15T13:45:54.275Z"
+  },
+  {
+   "slug": "kip-hotel",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+   "h1": "Kip Hotel",
+   "addr": "2 Aspland Grove, London E8 1FJ",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate (lowest from any site £233)",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": 233,
+   "scrapedAt": "2026-09-15T13:45:55.995Z"
+  },
+  {
+   "slug": "ibis-london-earls-court",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+   "h1": "ibis London Earls Court",
+   "addr": "47 Lillie Rd, London SW6 1UD, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 200,
+     "total": 200,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 169,
+   "scrapedAt": "2026-09-15T13:45:57.782Z"
+  },
+  {
+   "slug": "the-drayton-court-hotel",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+   "h1": "The Drayton Court Hotel, Ealing",
+   "addr": "2 The Avenue, London W13 8PH, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:46:00.724Z"
+  },
+  {
+   "slug": "the-bedford-balham",
+   "dateKey": "saturday",
+   "date": "2026-10-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+   "h1": "The Bedford",
+   "addr": "77 Bedford Hill, London SW12 9HD, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-10-17 to 2026-10-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:46:02.910Z"
+  },
+  {
+   "slug": "ibis-budget-london-whitechapel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+   "h1": "ibis budget London Whitechapel - Brick Lane",
+   "addr": "100 Whitechapel Rd, London E1 1JG, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (ibis budget London Whitechapel - Brick Lane) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 144,
+     "total": 144,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (ibis budget London Whitechapel - Brick Lane)",
+   "lowestAnySite": 142,
+   "scrapedAt": "2026-09-15T13:46:09.923Z"
+  },
+  {
+   "slug": "nox-golders-green",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+   "h1": "NOX Golders Green",
+   "addr": "146-150 Golders Green Rd, London NW11 8HE, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (NOX Golders Green) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 119,
+     "total": 119,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (NOX Golders Green)",
+   "lowestAnySite": 120,
+   "scrapedAt": "2026-09-15T13:46:12.275Z"
+  },
+  {
+   "slug": "green-rooms",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+   "h1": "Green Rooms",
+   "addr": "Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 80,
+     "total": 80,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 77,
+   "scrapedAt": "2026-09-15T13:46:13.486Z"
+  },
+  {
+   "slug": "town-hall-hotel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+   "h1": "Town Hall Hotel & Apartments",
+   "addr": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 241,
+     "total": 241,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 183,
+   "scrapedAt": "2026-09-15T13:46:15.137Z"
+  },
+  {
+   "slug": "holiday-inn-london-camden-lock",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+   "h1": "Holiday Inn London - Camden Lock by IHG",
+   "addr": "30 Jamestown Rd, London NW1 7BY, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 263,
+     "total": 263,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 203,
+   "scrapedAt": "2026-09-15T13:46:21.733Z"
+  },
+  {
+   "slug": "ibis-london-canning-town",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+   "h1": "ibis London Canning Town",
+   "addr": "8 Silvertown Way, London E16 1ED, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 168,
+     "total": 168,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 143,
+   "scrapedAt": "2026-09-15T13:46:23.766Z"
+  },
+  {
+   "slug": "mowbray-court-hotel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+   "h1": "Mowbray Court Hotel",
+   "addr": "28-32 Penywern Rd, London SW5 9SU, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:46:30.455Z"
+  },
+  {
+   "slug": "the-tommyfield",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+   "h1": "The Tommyfield",
+   "addr": "185 Kennington Ln, London SE11 4EZ, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:46:33.012Z"
+  },
+  {
+   "slug": "novotel-london-canary-wharf",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+   "h1": "Novotel London Canary Wharf",
+   "addr": "40 Marsh Wall, London E14 9TP, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 229,
+     "total": 229,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 189,
+   "scrapedAt": "2026-09-15T13:46:34.662Z"
+  },
+  {
+   "slug": "the-rockwell",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+   "h1": "The Rockwell",
+   "addr": "181-183 Cromwell Rd, London SW5 0SF, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:46:35.786Z"
+  },
+  {
+   "slug": "ibis-london-excel-docklands",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+   "h1": "ibis London Excel Docklands",
+   "addr": "9 Western Gateway, London E16 1AB, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 156,
+     "total": 156,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 132,
+   "scrapedAt": "2026-09-15T13:46:42.533Z"
+  },
+  {
+   "slug": "kip-hotel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+   "h1": "Kip Hotel",
+   "addr": "2 Aspland Grove, London E8 1FJ, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 163,
+     "total": 163,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 134,
+   "scrapedAt": "2026-09-15T13:46:44.327Z"
+  },
+  {
+   "slug": "ibis-london-earls-court",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+   "h1": "ibis London Earls Court",
+   "addr": "47 Lillie Rd, London SW6 1UD, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 183,
+     "total": 183,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 154,
+   "scrapedAt": "2026-09-15T13:46:46.295Z"
+  },
+  {
+   "slug": "the-drayton-court-hotel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+   "h1": "The Drayton Court Hotel, Ealing",
+   "addr": "2 The Avenue, London W13 8PH, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:46:55.088Z"
+  },
+  {
+   "slug": "the-bedford-balham",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+   "h1": "The Bedford",
+   "addr": "77 Bedford Hill, London SW12 9HD, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2026-12-12 to 2026-12-13",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:47:03.590Z"
+  },
+  {
+   "slug": "ibis-budget-london-whitechapel",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+   "h1": "ibis budget London Whitechapel - Brick Lane",
+   "addr": "100 Whitechapel Rd, London E1 1JG, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate (lowest from any site £51)",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": 51,
+   "scrapedAt": "2026-09-15T13:46:59.069Z"
+  },
+  {
+   "slug": "nox-golders-green",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+   "h1": "NOX Golders Green",
+   "addr": "146-150 Golders Green Rd, London NW11 8HE, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (NOX Golders Green) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 89,
+     "total": 89,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (NOX Golders Green)",
+   "lowestAnySite": 90,
+   "scrapedAt": "2026-09-15T13:47:00.889Z"
+  },
+  {
+   "slug": "green-rooms",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+   "h1": "Green Rooms",
+   "addr": "Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 37,
+     "total": 37,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 37,
+   "scrapedAt": "2026-09-15T13:47:07.668Z"
+  },
+  {
+   "slug": "town-hall-hotel",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+   "h1": "Town Hall Hotel & Apartments",
+   "addr": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Expedia rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 192,
+     "total": 192,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Expedia",
+   "lowestAnySite": 171,
+   "scrapedAt": "2026-09-15T13:47:09.347Z"
+  },
+  {
+   "slug": "holiday-inn-london-camden-lock",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+   "h1": "Holiday Inn London - Camden Lock by IHG",
+   "addr": "30 Jamestown Rd, London NW1 7BY, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 183,
+     "total": 183,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 144,
+   "scrapedAt": "2026-09-15T13:47:16.845Z"
+  },
+  {
+   "slug": "ibis-london-canning-town",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+   "h1": "ibis London Canning Town",
+   "addr": "8 Silvertown Way, London E16 1ED, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 84,
+     "total": 84,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 71,
+   "scrapedAt": "2026-09-15T13:47:20.040Z"
+  },
+  {
+   "slug": "mowbray-court-hotel",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+   "h1": "Mowbray Court Hotel",
+   "addr": "28-32 Penywern Rd, London SW5 9SU, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 85,
+     "total": 85,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 62,
+   "scrapedAt": "2026-09-15T13:47:21.725Z"
+  },
+  {
+   "slug": "the-tommyfield",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+   "h1": "The Tommyfield",
+   "addr": "185 Kennington Ln, London SE11 4EZ, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 149,
+     "total": 149,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 149,
+   "scrapedAt": "2026-09-15T13:47:23.129Z"
+  },
+  {
+   "slug": "novotel-london-canary-wharf",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+   "h1": "Novotel London Canary Wharf",
+   "addr": "40 Marsh Wall, London E14 9TP, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 156,
+     "total": 156,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 131,
+   "scrapedAt": "2026-09-15T13:47:24.433Z"
+  },
+  {
+   "slug": "the-rockwell",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+   "h1": "The Rockwell",
+   "addr": "181-183 Cromwell Rd, London SW5 0SF, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (The Rockwell) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 105,
+     "total": 105,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (The Rockwell)",
+   "lowestAnySite": 105,
+   "scrapedAt": "2026-09-15T13:47:25.644Z"
+  },
+  {
+   "slug": "ibis-london-excel-docklands",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+   "h1": "ibis London Excel Docklands",
+   "addr": "9 Western Gateway, London E16 1AB, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 101,
+     "total": 101,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 75,
+   "scrapedAt": "2026-09-15T13:47:27.147Z"
+  },
+  {
+   "slug": "kip-hotel",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+   "h1": "Kip Hotel",
+   "addr": "2 Aspland Grove, London E8 1FJ, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 81,
+     "total": 81,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 67,
+   "scrapedAt": "2026-09-15T13:47:29.064Z"
+  },
+  {
+   "slug": "ibis-london-earls-court",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+   "h1": "ibis London Earls Court",
+   "addr": "47 Lillie Rd, London SW6 1UD, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 84,
+     "total": 84,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 73,
+   "scrapedAt": "2026-09-15T13:47:35.444Z"
+  },
+  {
+   "slug": "the-drayton-court-hotel",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+   "h1": "The Drayton Court Hotel, Ealing",
+   "addr": "2 The Avenue, London W13 8PH, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 135,
+     "total": 135,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 126,
+   "scrapedAt": "2026-09-15T13:47:42.239Z"
+  },
+  {
+   "slug": "the-bedford-balham",
+   "dateKey": "midweek",
+   "date": "2027-02-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+   "h1": "The Bedford",
+   "addr": "77 Bedford Hill, London SW12 9HD, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-02-17 to 2027-02-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 106,
+     "total": 106,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 106,
+   "scrapedAt": "2026-09-15T13:47:48.819Z"
+  },
+  {
+   "slug": "ibis-budget-london-whitechapel",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIp5Cbk92PnPLQARoML2cvMTFyOHc2YzlkEAE",
+   "h1": "ibis budget London Whitechapel - Brick Lane",
+   "addr": "100 Whitechapel Rd, London E1 1JG, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (ibis budget London Whitechapel - Brick Lane) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 107,
+     "total": 107,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (ibis budget London Whitechapel - Brick Lane)",
+   "lowestAnySite": 107,
+   "scrapedAt": "2026-09-15T13:47:40.153Z"
+  },
+  {
+   "slug": "nox-golders-green",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChoI-9Xs5dOdrJfIARoNL2cvMTFnODBmbHhxMBAB",
+   "h1": "NOX Golders Green",
+   "addr": "146-150 Golders Green Rd, London NW11 8HE, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (NOX Golders Green) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 208,
+     "total": 208,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (NOX Golders Green)",
+   "lowestAnySite": 209,
+   "scrapedAt": "2026-09-15T13:47:42.727Z"
+  },
+  {
+   "slug": "green-rooms",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChoIzKuj1uPD-buMARoNL2cvMTFjbXR5NGQwOBAB",
+   "h1": "Green Rooms",
+   "addr": "Green Rooms, 13-27 Station Rd, London N22 6UW, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 37,
+     "total": 37,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 37,
+   "scrapedAt": "2026-09-15T13:47:44.582Z"
+  },
+  {
+   "slug": "town-hall-hotel",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChcI0JSe94HqwYcWGgsvZy8xdG0wc243NhAB",
+   "h1": "Town Hall Hotel & Apartments",
+   "addr": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 244,
+     "total": 244,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 209,
+   "scrapedAt": "2026-09-15T13:47:46.612Z"
+  },
+  {
+   "slug": "holiday-inn-london-camden-lock",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIzujc2s3oztKWARoLL2cvMXZfbmJfazMQAQ",
+   "h1": "Holiday Inn London - Camden Lock by IHG",
+   "addr": "30 Jamestown Rd, London NW1 7BY, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 207,
+     "total": 207,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 164,
+   "scrapedAt": "2026-09-15T13:47:49.791Z"
+  },
+  {
+   "slug": "ibis-london-canning-town",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIxfrY4MXvkNV1Gg0vZy8xMWZfYzBkM3BrEAE",
+   "h1": "ibis London Canning Town",
+   "addr": "8 Silvertown Way, London E16 1ED, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 100,
+     "total": 100,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 87,
+   "scrapedAt": "2026-09-15T13:47:51.926Z"
+  },
+  {
+   "slug": "mowbray-court-hotel",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgI6f_C_6z8se66ARoLL2cvMXhwd2o3dzgQAQ",
+   "h1": "Mowbray Court Hotel",
+   "addr": "28-32 Penywern Rd, London SW5 9SU, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 176,
+     "total": 176,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 176,
+   "scrapedAt": "2026-09-15T13:47:59.623Z"
+  },
+  {
+   "slug": "the-tommyfield",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIqKDwnvj_9YcNGgwvZy8xMTNoYzZqZGsQAQ",
+   "h1": "The Tommyfield",
+   "addr": "185 Kennington Ln, London SE11 4EZ, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 189,
+     "total": 189,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 189,
+   "scrapedAt": "2026-09-15T13:48:03.073Z"
+  },
+  {
+   "slug": "novotel-london-canary-wharf",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIkNbw4KD2yvgNGg0vZy8xMWNzNjk0ZHJmEAE",
+   "h1": "Novotel London Canary Wharf",
+   "addr": "40 Marsh Wall, London E14 9TP, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 213,
+     "total": 213,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 176,
+   "scrapedAt": "2026-09-15T13:48:04.621Z"
+  },
+  {
+   "slug": "the-rockwell",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkI2_bBz7fn5OXBARoML2cvMWhjMTVtMWdwEAE",
+   "h1": "The Rockwell",
+   "addr": "181-183 Cromwell Rd, London SW5 0SF, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:48:11.823Z"
+  },
+  {
+   "slug": "ibis-london-excel-docklands",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChcIz5qHi9zbjZN7GgsvZy8xdHI3aG5iYxAB",
+   "h1": "ibis London Excel Docklands",
+   "addr": "9 Western Gateway, London E16 1AB, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Hotels.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 97,
+     "total": 97,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Hotels.com",
+   "lowestAnySite": 82,
+   "scrapedAt": "2026-09-15T13:48:13.299Z"
+  },
+  {
+   "slug": "kip-hotel",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkItZ2vpYi3kfx4Gg0vZy8xMWNsdzhzNm5zEAE",
+   "h1": "Kip Hotel",
+   "addr": "2 Aspland Grove, London E8 1FJ, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate (lowest from any site £153)",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": 153,
+   "scrapedAt": "2026-09-15T13:48:25.128Z"
+  },
+  {
+   "slug": "ibis-london-earls-court",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChgIx9-f3NHBtuvcARoLL2cvMXRkazRubDMQAQ",
+   "h1": "ibis London Earls Court",
+   "addr": "47 Lillie Rd, London SW6 1UD, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "own site (ibis London Earls Court) rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 154,
+     "total": 154,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "own site (ibis London Earls Court)",
+   "lowestAnySite": 134,
+   "scrapedAt": "2026-09-15T13:48:26.613Z"
+  },
+  {
+   "slug": "the-drayton-court-hotel",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChYIka23iZbY29WLARoJL20vMDdmNzBzEAE",
+   "h1": "The Drayton Court Hotel, Ealing",
+   "addr": "2 The Avenue, London W13 8PH, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": "Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate",
+   "rooms": [],
+   "source": null,
+   "lowestAnySite": null,
+   "scrapedAt": "2026-09-15T13:48:28.130Z"
+  },
+  {
+   "slug": "the-bedford-balham",
+   "dateKey": "spring",
+   "date": "2027-04-17",
+   "engine": "google-hotels",
+   "capturedOn": "2026-09-15",
+   "href": "https://www.google.com/travel/hotels/entity/ChkIzp3GvovmuJUNGg0vZy8xMWJ3M2g2czQxEAE",
+   "h1": "The Bedford",
+   "addr": "77 Bedford Hill, London SW12 9HD, United Kingdom",
+   "party": "2 adults, 1 room",
+   "when": "2027-04-17 to 2027-04-18",
+   "soldOut": false,
+   "message": null,
+   "unpriced": null,
+   "rooms": [
+    {
+     "room": "Booking.com rate for 2 adults",
+     "sleeps": 2,
+     "beds": null,
+     "shown": 178,
+     "total": 178,
+     "taxesIncluded": true,
+     "ratePlan": null
+    }
+   ],
+   "source": "Booking.com",
+   "lowestAnySite": 178,
+   "scrapedAt": "2026-09-15T13:48:31.065Z"
   }
  ]
 }

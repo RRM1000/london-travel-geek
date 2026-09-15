@@ -31,9 +31,10 @@
 // night: the cheapest double or twin shown for 2 adults, total including taxes
 // and fees. Premier Inn and hub by Premier Inn do not sell through Hotels.com,
 // so those are read on premierinn.com, and a hotel Hotels.com lists but has
-// no rooms for is read on its own engine (mews). Each property records its
-// engine; a property no engine will sell for one night keeps a status and the
-// reason instead of a price.
+// no rooms for is read on its own engine (mews). A Travelodge or an Accor hotel
+// Hotels.com does not list at all is read on travelodge.co.uk or all.accor.com.
+// Each property records its engine; a property no engine will sell for one
+// night keeps a status and the reason instead of a price.
 // Plan in _plan-budget.json, runs in budget-<plan date>.json. The files never
 // cross: a budget plan cannot overwrite the pod plan a pod re-run validates
 // against, and the pods report only ever reads <date>.json.
@@ -48,6 +49,10 @@
 //   node scripts/sample-hotel-rates.mjs ingest <raw.json> [--set=budget]
 //       Merges captures into the set's run file. Refuses anything that does not
 //       look like a real capture.
+//
+//   node scripts/sample-hotel-rates.mjs ingest-apify <items.json> --set=budget
+//       Merges Apify Hotels.com Scraper dataset items for the google-hotels
+//       properties: Hotels.com's rate from Google Hotels, or Expedia.com's.
 //
 //   node scripts/sample-hotel-rates.mjs report
 //       Reads the latest run of BOTH sets and writes src/data/hotel-rate-ranges.json
@@ -73,7 +78,12 @@ const BUDGET_RUN = /^budget-\d{4}-\d{2}-\d{2}\.json$/;
 const BUDGET_BASIS =
   "1 night, 1 room, 2 adults. The cheapest double or twin shown on the page, total including taxes and fees as displayed, in GBP. " +
   "Hotels.com (uk.hotels.com) for every property it sells; premierinn.com for Premier Inn and hub by Premier Inn, which do not sell through Hotels.com; " +
-  "the operator's own engine (mews) for a property Hotels.com lists but has no rooms for on any sample night.";
+  "the operator's own engine (mews) for a property Hotels.com lists but has no rooms for on any sample night; " +
+  "travelodge.co.uk for a Travelodge that Hotels.com does not list; all.accor.com (public rate, not the member rate) for an Accor hotel Hotels.com does not list. " +
+  "Engine google-hotels (the outer London hotels, 15 Sep 2026): Hotels.com's rate for 2 adults as Google Hotels lists it, read through the Apify Hotels.com Scraper, " +
+  "then Expedia's (the same Expedia Group room at the same price), then the hotel's own site, then Booking.com - the source is recorded for every night. " +
+  "Checked against the browser: The Z Hotel Shoreditch matched the Hotels.com page on all five dates, within £1; New Road Hotel ran £2-£35 above its 14 Sep browser " +
+  "capture a day later, with a median of £138 against £143.";
 
 // Properties worth sampling. Everything on the pods list, plus the two Zedwell
 // sites that carry no Hotels.com rate - they stay in the plan so that each run
@@ -286,6 +296,90 @@ const body = [
 ];
 JSON.stringify({ engine: body[0], href: body[1], h1: body[2], addr: body[3], party: body[4], when: body[5], rooms: body[6], soldOut: body[7], message: body[8], sig: fnv(JSON.stringify(body)) });`.trim();
 
+// travelodge.co.uk, for a Travelodge Hotels.com does not list: Travelodge
+// London Docklands Central (1 Oregano Drive, hotel 697) opened after the old
+// Docklands branch, and Hotels.com's only "Travelodge London Docklands" entry
+// now lands on its London city page (14 Sep 2026). The hotel page prints one
+// card per room type with a button per rate (Lowest, Semi-Flex, Flexible); the
+// cheapest rate is the price. It is a UK consumer room price, so VAT is in it,
+// and it only counts as the stay's total when the page's own heading says the
+// options are for 1 night. The search summary (date, nights, guests, rooms)
+// and the form's own dates travel with the capture so ingest can prove them.
+const BUDGET_TRAVELODGE_EXTRACTOR = `
+${SIGN}
+const sq = s => (s || '').replace(/\\s+/g, ' ').trim();
+for (let i = 0; i < 15 && !document.querySelector('.rateGroups .card-border button.selectPrice'); i++) {
+  await new Promise(r => setTimeout(r, 1000));
+}
+await new Promise(r => setTimeout(r, 2000));
+const group = document.querySelector('.rateGroups');
+const heading = sq(group?.querySelector('.room-title')?.innerText) || null;
+const oneNight = /\\bfor 1 night\\b/i.test(heading || '');
+const beds = sq(group?.querySelector('select.js-switchExtraRooms')?.selectedOptions[0]?.textContent) || null;
+const rooms = group ? [...group.querySelectorAll('.card-border')].map(card => {
+  const rates = [...card.querySelectorAll('button.selectPrice')]
+    .map(b => [sq(b.closest('.row')?.querySelector('.saver-rate')?.innerText) || b.getAttribute('data-ratename'), Number(sq(b.innerText).replace(/[^\\d.]/g, '')) || null])
+    .filter(r => r[1]).sort((a, b) => a[1] - b[1]);
+  const best = rates[0];
+  return [sq(card.querySelector('.room-details')?.innerText) || null, null, beds, best ? best[1] : null, best && oneNight ? best[1] : null, !!best, best ? best[0] : null];
+}) : [];
+const soldOut = !rooms.some(r => r[3] != null || r[4] != null);
+const page = sq(document.body.innerText);
+const summary = [...(document.querySelector('span.val')?.closest('ul')?.querySelectorAll('span.val') || [])].map(v => sq(v.textContent)).join(' | ') || null;
+const field = name => [...document.querySelectorAll('input[name="' + name + '"]')].map(i => i.value).find(Boolean) || '';
+const body = [
+  'travelodge.co.uk', location.href, sq(document.querySelector('h1.hotel-name')?.textContent) || null,
+  sq(document.querySelector('.address-text-link')?.textContent) || null,
+  [heading, summary].filter(Boolean).join(' | ') || null,
+  [summary, field('checkIn') + ' - ' + field('checkOut')].filter(Boolean).join(' | '),
+  rooms, soldOut,
+  soldOut ? ((page.match(/.{0,60}(?:sold out|no rooms|not available|unavailable|no availability|fully booked|sorry|something went wrong|try again)[^.]{0,80}/i) || [''])[0] || page.slice(0, 160) || null) : null,
+];
+JSON.stringify({ engine: body[0], href: body[1], h1: body[2], addr: body[3], party: body[4], when: body[5], rooms: body[6], soldOut: body[7], message: body[8], sig: fnv(JSON.stringify(body)) });`.trim();
+
+// all.accor.com, for an Accor hotel Hotels.com does not list: ibis budget
+// London Whitechapel had no Hotels.com property on 14 Sep 2026 (its search
+// offered only a map pin for the address). Accor's booking page prints one card
+// per room type with a member price and a public price. The member price needs
+// an ALL account, so the public price is the one read. Each card says what its
+// price covers ("1 night 2 adults") and that taxes and fees are included; the
+// search bar's own dates and party travel with the capture.
+const BUDGET_ACCOR_EXTRACTOR = `
+${SIGN}
+const sq = s => (s || '').replace(/\\s+/g, ' ').trim();
+for (let i = 0; i < 20 && !document.querySelector('.hotel-accommodations-offers__item, [data-testid="hotel-accommodations-results-info-number-label"]'); i++) {
+  await new Promise(r => setTimeout(r, 1000));
+}
+await new Promise(r => setTimeout(r, 2500));
+const cards = [...document.querySelectorAll('.hotel-accommodations-offers__item')];
+const rooms = cards.map(card => {
+  const t = sq(card.innerText);
+  const prices = [...card.querySelectorAll('p.offer-price')];
+  const pub = prices.find(p => /public rate/i.test(p.innerText)) || (/member rate/i.test(t) ? null : prices[0]);
+  const price = Number(sq(pub?.querySelector('.offer-price__amount')?.textContent).replace(/[^\\d.]/g, '')) || null;
+  return [
+    sq(card.querySelector('.hotel-accommodations-offers__item-title')?.textContent) || null,
+    Number((t.match(/(\\d+) pers\\. max/) || [])[1]) || null,
+    (t.match(/(\\d+ [A-Za-z ]+?bed\\(s\\)(?: and \\d+ [A-Za-z ]+?bed\\(s\\))?)/i) || [])[1] || null,
+    price,
+    price && /\\b1 night\\b/.test(t) ? price : null,
+    /taxes and fees included/i.test(t),
+    pub ? (/public rate/i.test(pub.innerText) ? 'Public rate' : 'Rate shown') : null,
+  ];
+});
+const soldOut = !rooms.some(r => r[3] != null || r[4] != null);
+const covers = [...new Set(cards.map(card => (sq(card.innerText).match(/\\b\\d+ nights? \\d+ adults?\\b/) || [])[0]).filter(Boolean))];
+const scope = sq((document.querySelector('#section-rooms') || document.querySelector('main') || document.body).innerText);
+const body = [
+  'all.accor.com', location.href, sq(document.querySelector('h1')?.textContent) || null,
+  sq(document.querySelector('.hotel-location-infos')?.innerText) || null,
+  [sq(document.querySelector('[class*="resume-composition"]')?.textContent), ...covers].filter(Boolean).join(' | ') || null,
+  [...document.querySelectorAll('[class*="resume-date"]')].map(e => sq(e.textContent)).join(' | ') || null,
+  rooms, soldOut,
+  soldOut ? ((scope.match(/.{0,60}(?:sold out|no rooms|not available|unavailable|no availability|fully booked|something went wrong|try again)[^.]{0,80}/i) || [''])[0] || scope.slice(0, 160) || null) : null,
+];
+JSON.stringify({ engine: body[0], href: body[1], h1: body[2], addr: body[3], party: body[4], when: body[5], rooms: body[6], soldOut: body[7], message: body[8], sig: fnv(JSON.stringify(body)) });`.trim();
+
 const MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept?", "Oct", "Nov", "Dec"];
 const dayMonth = (date) => new RegExp(`\\b${Number(date.slice(8, 10))} ${MON[Number(date.slice(5, 7)) - 1]}\\b`);
 const norm = (s) => (s || "").toLowerCase().normalize("NFKD").replace(/[^a-z0-9]/g, "");
@@ -339,6 +433,53 @@ const ENGINES = {
       if (!us(row.date).test(c.when || "") || !us(row.checkout).test(c.when || "")) return `page's dates are "${c.when}"`;
       return null;
     },
+  },
+  "travelodge.co.uk": {
+    extractor: BUDGET_TRAVELODGE_EXTRACTOR,
+    url: (base, date, checkout) => {
+      const dmy = (d) => d.split("-").reverse().join("/");
+      return `${base.split("?")[0]}?checkIn=${dmy(date)}&checkOut=${dmy(checkout)}&rooms[0][adults]=2&rooms[0][children]=0`;
+    },
+    check(c, row) {
+      const hotel = (u) => (new URL(u).pathname.match(/\/hotels\/(\d+)\//) || [])[1];
+      const u = new URL(c.href);
+      const dmy = (d) => d.split("-").reverse().join("/");
+      // The search form echoes the dates back as DD/MM/YY.
+      const short = (d) => `${d.slice(8, 10)}/${d.slice(5, 7)}/${d.slice(2, 4)}`;
+      if (hotel(c.href) !== hotel(row.url)) return `page is hotel ${hotel(c.href)}, planned ${hotel(row.url)}`;
+      if (u.searchParams.get("checkIn") !== dmy(row.date) || u.searchParams.get("checkOut") !== dmy(row.checkout)) return `address searched ${u.searchParams.get("checkIn")} to ${u.searchParams.get("checkOut")}`;
+      if (u.searchParams.get("rooms[0][adults]") !== "2" || u.searchParams.get("rooms[0][children]") !== "0") return `address searched ${u.searchParams.get("rooms[0][adults]")} adults and ${u.searchParams.get("rooms[0][children]")} children`;
+      if (!/\b1 Night\b/.test(c.party || "") || !/\b2 Guests\b/.test(c.party || "") || !/\b1 Room\b/.test(c.party || "")) return `page shows "${c.party}", not 1 night for 2 guests in 1 room`;
+      if (/room options for/i.test(c.party || "") && !/\bfor 2 adults for 1 night\b/i.test(c.party || "")) return `page's room heading is "${c.party}", not 2 adults for 1 night`;
+      if (!dayMonth(row.date).test((c.when || "").split("|")[0]) || !(c.when || "").includes(`${short(row.date)} - ${short(row.checkout)}`)) return `page's dates are "${c.when}"`;
+      return null;
+    },
+  },
+  "all.accor.com": {
+    extractor: BUDGET_ACCOR_EXTRACTOR,
+    url: (base, date) => `${base.split("?")[0]}?dateIn=${date}&nights=1&compositions=2&stayplus=false&snu=false&hideWDR=false&accessibleRooms=false&hideHotelDetails=false`,
+    check(c, row) {
+      const hotel = (u) => (new URL(u).pathname.match(/\/hotel\/(\d+)/) || [])[1];
+      const u = new URL(c.href);
+      // Accor's search bar prints dates month first: Oct 11 | Oct 12.
+      const monthDay = (date) => new RegExp(`\\b${MON[Number(date.slice(5, 7)) - 1]} ${Number(date.slice(8, 10))}\\b`);
+      if (hotel(c.href) !== hotel(row.url)) return `page is hotel ${hotel(c.href)}, planned ${hotel(row.url)}`;
+      if (u.searchParams.get("dateIn") !== row.date || u.searchParams.get("nights") !== "1") return `address searched ${u.searchParams.get("dateIn")} for ${u.searchParams.get("nights")} night(s)`;
+      if (u.searchParams.get("compositions") !== "2") return `address searched compositions=${u.searchParams.get("compositions")}, not 2 adults`;
+      if (!/\b2 people - 1 room\b/.test(c.party || "")) return `page shows "${c.party}", not 2 people in 1 room`;
+      if (!c.soldOut && !/\b1 night 2 adults\b/.test(c.party || "")) return `page prices "${c.party}", not 1 night for 2 adults`;
+      const [checkIn, checkOut] = (c.when || "").split("|");
+      if (!monthDay(row.date).test(checkIn || "") || !monthDay(row.checkout).test(checkOut || "")) return `page's dates are "${c.when}"`;
+      return null;
+    },
+  },
+  // No browser page: the Apify Hotels.com Scraper reads Google Hotels, which
+  // lists each booking site's rate for the dates. The url is the hotel's Google
+  // Hotels entity, and its last path segment is the property token Apify takes.
+  "google-hotels": {
+    extractor: "Not read in the browser. Run the Apify Hotels.com Scraper in details mode (propertyTokens = the token at the end of each url, 2 adults, GBP, countryCode gb), one run per date, and pass the dataset items to: node scripts/sample-hotel-rates.mjs ingest-apify <items.json> --set=budget",
+    url: (base) => base.split("?")[0],
+    check: () => null,
   },
 };
 
@@ -411,8 +552,13 @@ function cmdPlanBudget() {
       });
     }
   }
+  // A re-plan on the same five dates (a property added, an engine changed) is
+  // the same run, so it keeps the run's date: its captures then land in the
+  // existing run file instead of a new one the report would read on its own.
+  const previous = fs.existsSync(BUDGET_PLAN) ? JSON.parse(fs.readFileSync(BUDGET_PLAN, "utf8")) : null;
+  const generated = previous && JSON.stringify(previous.dates) === JSON.stringify(dates) ? previous.generated : iso(new Date());
   fs.mkdirSync(OUT_DIR, { recursive: true });
-  fs.writeFileSync(BUDGET_PLAN, JSON.stringify({ generated: iso(new Date()), basis: BUDGET_BASIS, ceiling, dates, rows }, null, 1));
+  fs.writeFileSync(BUDGET_PLAN, JSON.stringify({ generated, basis: BUDGET_BASIS, ceiling, dates, rows }, null, 1));
 
   const live = properties.length - skipped.length;
   console.log(`budget plan: ${rows.length} page(s) - ${live} propert(ies) x ${dates.length} dates, ceiling £${ceiling}`);
@@ -531,6 +677,91 @@ function cmdIngestBudget(file) {
   }
 }
 
+// Apify dataset items (details mode) for the google-hotels properties. Each
+// item is matched to its plan row by the property token in the url and by
+// date, and a token, date, currency or name that does not line up stops the
+// whole file. The price comes from the first of Hotels.com, Expedia, the
+// hotel's own site and Booking.com that Google lists for the night, and the
+// source travels with it. With none of them, the night is kept as unpriced
+// with the reason - never filled in from any other site.
+function cmdIngestApifyBudget(file) {
+  if (!file || !fs.existsSync(file)) throw new Error("ingest-apify needs a path to a file of Apify dataset items");
+  if (!fs.existsSync(BUDGET_PLAN)) throw new Error(`no ${BUDGET_PLAN} - run plan --set=budget first`);
+  const plan = JSON.parse(fs.readFileSync(BUDGET_PLAN, "utf8"));
+  const tokenOf = (u) => (u.match(/\/entity\/([^/?#]+)/) || [])[1];
+  const rowFor = new Map(plan.rows.filter((r) => r.engine === "google-hotels").map((r) => [tokenOf(r.url) + "|" + r.date, r]));
+  // A property kept out of the plan with a status (no usable rate, identity
+  // unconfirmed) can still have items in the file: they are the evidence for
+  // that status, so they are skipped by name rather than treated as strays.
+  const parked = new Map(loadBudgetProperties().properties.filter((p) => p.status && p.url).map((p) => [tokenOf(p.url), p]));
+
+  const items = JSON.parse(fs.readFileSync(file, "utf8"));
+  if (!Array.isArray(items)) throw new Error("the Apify file must be an array of dataset items");
+
+  const rows = [];
+  const inFile = new Set();
+  const skipped = new Set();
+  for (const it of items) {
+    if (parked.has(it.propertyToken)) { skipped.add(`${parked.get(it.propertyToken).slug} (${parked.get(it.propertyToken).status})`); continue; }
+    const row = rowFor.get(it.propertyToken + "|" + it.checkInDate);
+    const where = row ? `${row.slug}/${row.dateKey}` : `${it.name} ${it.checkInDate}`;
+    if (!row) throw new Error(`${where}: token and date are not a google-hotels row in ${BUDGET_PLAN}`);
+    if (inFile.has(where)) throw new Error(`${where}: in the file twice`);
+    inFile.add(where);
+    if (it.checkOutDate !== row.checkout) throw new Error(`${where}: priced to ${it.checkOutDate}, planned ${row.checkout}`);
+    if (it.currency !== "GBP") throw new Error(`${where}: prices in ${it.currency}, not GBP`);
+    if (!norm(it.name).includes(norm(row.match))) throw new Error(`${where}: Google lists "${it.name}", expected "${row.match}"`);
+
+    const offers = (Array.isArray(it.featuredPrices) ? it.featuredPrices : [])
+      .filter((p) => (p.numGuests == null || p.numGuests === 2) && Number.isFinite(p.extractedRate));
+    const offer = (test) => offers.find((p) => test(p.source || ""));
+    // In order: Hotels.com; Expedia, the same Expedia Group room at the same
+    // price; the hotel's own site, as the operator engines are used elsewhere
+    // in this set; then Booking.com, which on 15 Sep 2026 matched Hotels.com
+    // for The Z Hotel Shoreditch but ran £16-£33 above it at New Road Hotel,
+    // so a night priced from it can only lean high, never flatter a hotel.
+    const chain = [
+      ["Hotels.com", (s) => s === "Hotels.com"],
+      ["Expedia", (s) => /^Expedia\.(com|co\.uk)$/.test(s)],
+      ["the hotel's own site", (s) => norm(s).length >= 4 && (norm(s).includes(norm(row.match)) || norm(row.match).includes(norm(s)))],
+      ["Booking.com", (s) => s === "Booking.com"],
+    ];
+    let source = null, total = null;
+    if (Number.isFinite(it.hotelsComRate)) [source, total] = ["Hotels.com", it.hotelsComRate];
+    for (const [label, test] of chain) {
+      if (total != null) break;
+      const o = offer(test);
+      if (o) [source, total] = [label === "the hotel's own site" ? `own site (${o.source})` : label, o.extractedRate];
+    }
+    if (total != null && (total < 10 || total > 5000)) throw new Error(`${where}: implausible rate ${total} from ${source}`);
+
+    rows.push({
+      slug: row.slug, dateKey: row.dateKey, date: row.date, engine: "google-hotels", capturedOn: iso(new Date()),
+      href: row.url, h1: it.name, addr: it.address, party: "2 adults, 1 room", when: `${it.checkInDate} to ${it.checkOutDate}`,
+      soldOut: false, message: null,
+      unpriced: total == null ? `Google Hotels listed no Hotels.com, Expedia, own-site or Booking.com rate${it.ratePerNightLowest != null ? ` (lowest from any site £${it.ratePerNightLowest})` : ""}` : null,
+      rooms: total == null ? [] : [{ room: `${source} rate for 2 adults`, sleeps: 2, beds: null, shown: total, total, taxesIncluded: true, ratePlan: null }],
+      source, lowestAnySite: it.ratePerNightLowest ?? null, scrapedAt: it.scrapedAt ?? null,
+    });
+  }
+
+  const runFile = path.join(OUT_DIR, `budget-${plan.generated}.json`);
+  const existing = fs.existsSync(runFile)
+    ? JSON.parse(fs.readFileSync(runFile, "utf8"))
+    : { checked: plan.generated, basis: plan.basis, ceiling: plan.ceiling, dates: plan.dates, captures: [] };
+  existing.basis = plan.basis;
+  let added = 0, replaced = 0;
+  for (const r of rows) {
+    const i = existing.captures.findIndex((e) => e.slug === r.slug && e.dateKey === r.dateKey);
+    if (i >= 0) { existing.captures[i] = r; replaced++; }
+    else { existing.captures.push(r); added++; }
+  }
+  fs.writeFileSync(runFile, JSON.stringify(existing, null, 1));
+  console.log(`${runFile}: ${added} added, ${replaced} replaced, ${existing.captures.length} total`);
+  for (const r of rows) console.log(`  ${r.slug} ${r.date}: ${r.rooms.length ? `£${r.rooms[0].total} (${r.source})` : r.unpriced}`);
+  if (skipped.size) console.log(`  skipped, kept out of the plan with a status: ${[...skipped].join(", ")}`);
+}
+
 const round = (n) => Math.round(n * 10) / 10;
 
 function reportPods() {
@@ -614,6 +845,7 @@ function reportBudget() {
       const c = run.captures.find((x) => x.slug === p.slug && x.dateKey === d.key);
       const base = { dateKey: d.key, date: d.date, day: DAY[new Date(d.date).getUTCDay()] };
       if (!c) return { ...base, notCaptured: true };
+      if (c.unpriced) return { ...base, unpriced: true, note: c.unpriced };
       const pick = c.soldOut ? null : cheapestDouble(c.rooms);
       if (!pick) return { ...base, soldOut: true, note: c.soldOut ? c.message || "no room priced on the page" : "no double or twin left; other room types only" };
       return { ...base, total: pick.total, room: pick.room, ratePlan: pick.ratePlan };
@@ -627,6 +859,7 @@ function reportBudget() {
       datesPriced: vals.length,
       soldOutOn: nights.filter((n) => n.soldOut).map((n) => n.date),
       notCapturedOn: nights.filter((n) => n.notCaptured).map((n) => n.date),
+      unpricedOn: nights.filter((n) => n.unpriced).map((n) => n.date),
       cheapest: vals.length ? vals[0] : null,
       dearest: vals.length ? vals[vals.length - 1] : null,
       median,
@@ -638,7 +871,7 @@ function reportBudget() {
   console.log(`\nbudget: ${out.properties.length} propert(ies) priced, sampled ${run.checked}, ceiling £${ceiling}`);
   console.log(`  dates: ${run.dates.map((d) => `${d.date} ${DAY[new Date(d.date).getUTCDay()]}`).join(", ")}`);
   for (const p of out.properties) {
-    const cells = p.nights.map((n) => (n.total != null ? `£${n.total}` : n.soldOut ? "sold out" : "not captured")).join(" | ");
+    const cells = p.nights.map((n) => (n.total != null ? `£${n.total}` : n.soldOut ? "sold out" : n.unpriced ? "no rate" : "not captured")).join(" | ");
     const verdict = p.withinCeiling == null ? `no verdict (${p.datesPriced} priced night(s))` : p.withinCeiling ? `£${ceiling} OR LESS` : `OVER £${ceiling}`;
     console.log(`  ${p.slug} [${p.engine}]: ${cells} -> cheapest ${money(p.cheapest)}, dearest ${money(p.dearest)}, median ${money(p.median)}: ${verdict}`);
   }
@@ -669,8 +902,12 @@ try {
   if (!["pods", "budget"].includes(set)) throw new Error(`unknown --set=${set} - pods or budget`);
   if (cmd === "plan") set === "budget" ? cmdPlanBudget() : cmdPlan();
   else if (cmd === "ingest") set === "budget" ? cmdIngestBudget(arg) : cmdIngest(arg);
+  else if (cmd === "ingest-apify") {
+    if (set !== "budget") throw new Error("ingest-apify is only for --set=budget");
+    cmdIngestApifyBudget(arg);
+  }
   else if (cmd === "report") cmdReport();
-  else { console.log("usage: sample-hotel-rates.mjs plan [--set=budget] | ingest <raw.json> [--set=budget] | report"); process.exit(1); }
+  else { console.log("usage: sample-hotel-rates.mjs plan [--set=budget] | ingest <raw.json> [--set=budget] | ingest-apify <items.json> --set=budget | report"); process.exit(1); }
 } catch (e) {
   console.error("FAILED: " + e.message);
   process.exit(1);
