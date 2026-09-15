@@ -6,8 +6,8 @@
     {
       "title": "Budget hotels guide",
       "state": "in progress",
-      "detail": "Draft written with its fact-check script, which still has 17 price gaps. Prices are done for all 30 central London hotels and 22 of the 29 outer London ones: 7 in the browser, and 15 through Apify on 15 Sep. Apify couldn't price the other 7.",
-      "next": "Fill the draft's price gaps and write the outer London section from the new prices, then share a preview."
+      "detail": "22 hotels have entries: 3 in central London and 19 further out. The outer London section is written and its fact-check passes. The rest of the draft still has gaps: the intro, the short version, the FAQ, the price-by-night table, the central additions, the over-£150 table and the chains' London prices.",
+      "next": "Fill the remaining gaps, share a preview, then commit it for going live."
     }
   ],
   "nextUp": [
@@ -25,6 +25,10 @@
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-15",
+      "what": "Wrote the budget hotels guide's outer London section: 19 hotels in 14 areas, each with its typical night, station, walk and train time, and an area table fastest first. Also fixed the breakfast and brunch guide's title so it says it's cross-referenced, like the other ranked guides."
+    },
     {
       "date": "2026-09-15",
       "what": "Priced 15 more outer London hotels through Apify on the central London dates, for about $2.08. Nine come in at £150 or less, four are over, and two have only two prices. Apify couldn't price seven: The Windmill, Brook Green Hotel, High Road House, Fox & Goose, The Captain Cook, ibis Wembley and Best Western Chiswick."
