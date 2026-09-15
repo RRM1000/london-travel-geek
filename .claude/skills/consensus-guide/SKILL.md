@@ -464,7 +464,7 @@ word.
 
 **Say when the evidence does not reach something.** A guide that covers 22 rooms
 against a corpus that reaches 12 has two honest options: cut the ten, or mark
-them. Marking them — *named by no source in this corpus* — keeps a useful guide
+them. Marking them — *named by none of the sources* — keeps a useful guide
 and tells the reader exactly what the count does and does not cover. Make the
 verifier check the absence, because it goes stale the moment a source is added.
 

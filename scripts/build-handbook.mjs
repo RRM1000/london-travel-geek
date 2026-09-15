@@ -359,6 +359,17 @@ const ruleGroups = [...RULE_GROUPS.map(([g]) => g), "Other"].map((g) => {
   return `<section class="rule-group"><h3>${esc(g)}</h3><ul>${items.map((r) => `<li><span class="rule-name">${esc(titleCase(r.name))}</span><span class="rule-desc">${inline(r.description)}</span></li>`).join("")}</ul></section>`;
 }).join("");
 
+// CONTENT_GUIDELINES.md, the site-wide writing rules: the intro becomes the lede
+// and each ## section a card of its bullets.
+const guidelines = fs.existsSync("CONTENT_GUIDELINES.md") ? read("CONTENT_GUIDELINES.md").replace(/\r\n/g, "\n") : "";
+const [guideIntro, ...guideSections] = guidelines.split(/^## /m);
+const writingLede = guideIntro.split("\n").filter((l) => l.trim() && !l.startsWith("# ")).join(" ");
+const writingGroups = guideSections.map((block) => {
+  const [heading, ...lines] = block.split("\n");
+  const items = lines.filter((l) => l.startsWith("- ")).map((l) => `<li>${inline(l.slice(2))}</li>`).join("");
+  return `<section class="rule-group"><h3>${esc(heading.trim())}</h3><ul class="writing-list">${items}</ul></section>`;
+}).join("");
+
 const html = `<title>London Travel Geek Handbook</title>
 <meta name="description" content="How London Travel Geek is built and run, and what needs doing next.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -531,6 +542,7 @@ tr[hidden] { display: none; }
 .rule-group ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
 .rule-name { display: block; font-weight: 700; font-size: 14px; }
 .rule-desc { display: block; color: var(--ink-2); font-size: 13.5px; }
+.writing-list li { font-size: 14px; line-height: 1.5; }
 
 .bars { list-style: none; margin: 0; padding: 18px; display: grid; gap: 9px; }
 .bar-row { display: grid; grid-template-columns: minmax(0, 1fr) minmax(90px, 36%) 48px; gap: 12px; align-items: center; font-size: 13.5px; }
@@ -604,6 +616,7 @@ footer { max-width: 1240px; margin: 0 auto; padding: 0 28px 40px; color: var(--i
     <a href="#making">How a guide is made</a>
     <a href="#site">How the site works</a>
     <a href="#skills">Skills and agents</a>
+    <a href="#writing">Writing rules</a>
     <a href="#rules">Working rules</a>
     <a href="#traffic">Traffic</a>
     <a href="#ideas">Ideas and decisions</a>
@@ -716,6 +729,12 @@ footer { max-width: 1240px; margin: 0 auto; padding: 0 28px 40px; color: var(--i
         <li><span class="skill-name">photo agents</span><span class="skill-desc">Sonnet agents that place Rob's downloaded photos, one guide each. Every placed photo is then checked by eye against its caption.</span>${pill("ok", "Agent")}</li>
         <li><span class="skill-name">apify</span><span class="skill-desc">Apify connection with the Hotels.com scraper. Installed, and waiting for you to sign in.</span>${pill("warn", "Connection")}</li>
       </ul>
+    </section>
+
+    <section class="block" id="writing">
+      <h2>Writing rules</h2>
+      <p class="lede">${inline(writingLede)}</p>
+      <div class="rules">${writingGroups}</div>
     </section>
 
     <section class="block" id="rules">

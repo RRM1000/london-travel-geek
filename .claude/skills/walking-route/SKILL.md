@@ -208,7 +208,7 @@ Every route so far has turned up factual mistakes on the guide it links to —
 eleven across four guides. They are found because this is the first time anyone has
 checked those claims against an operator.
 
-**Fix them, and say so.** An article stating the market opens daily next to a guide
+**Fix them in place, and list what changed in your report to Rob.** Never say on the page that the guide was wrong before (see `CONTENT_GUIDELINES.md`). An article stating the market opens daily next to a guide
 saying it shuts on Mondays is worse than either alone. Watch for a guide
 contradicting *itself* — Westminster gave Horse Guards as Mon/Wed/Fri in one place
 and Monday-to-Saturday forty lines later.

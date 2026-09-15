@@ -18,6 +18,7 @@
   ],
   "nextUp": [
     "Write the October monthly guide. The October data file is already stubbed and it is due by 20 September.",
+    "Bring five guides into line with the writing rules: \"corpus\" on the burgers and most instagrammable guides, and an unsourced \"best-kept secret\" on the museums, parks and London with children guides.",
     "Link the gastropubs and most beautiful pubs guides from the Eat in London hub.",
     "Rework the titles for the bus fares searches that get impressions but no clicks, such as \"how much is a bus fare in london\".",
     "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
@@ -27,9 +28,15 @@
     "Pick the stay dates for the hotel price check. Reusing the central London dates (11 Oct, 17 Oct, 12 Dec 2026, 17 Feb and 17 Apr 2027) keeps outer and central prices comparable, but only until 19 September.",
     "Sign in to Apify: in a new Claude Code session type /mcp, choose apify and log in. You can also do it in Settings, Connectors.",
     "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
+    "Say if any subjects are off-limits for the site, or add any style preferences to the writing rules. None are recorded yet.",
+    "Four guides mark some entries as named by none of the sources (Middle Eastern, Sunday roast, Turkish, most instagrammable). That is close to the weakness lines you banned: keep the markers or cut them?",
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-15",
+      "what": "Gathered the writing rules, which were spread across two skills, a two-line file and Claude's memory, into one file (CONTENT_GUIDELINES.md) that every Claude session and agent now loads. Fixed two skill lines that contradicted your rules."
+    },
     {
       "date": "2026-09-15",
       "what": "Updated the Wimbledon tickets guide now both 2027 ballots have closed (what is still open for 2027, and when the 2028 ballots open), and reworded the fried chicken guide's championships line. The date check finds no expired claims."
@@ -123,6 +130,10 @@
     {
       "label": "Site",
       "value": "londontravelgeek.co.uk, built with Astro. Articles live in src/content/articles/."
+    },
+    {
+      "label": "Writing rules",
+      "value": "CONTENT_GUIDELINES.md holds the rules every page follows. CLAUDE.md loads it into every Claude session and agent, and it is shown in full on this page."
     },
     {
       "label": "Going live",
