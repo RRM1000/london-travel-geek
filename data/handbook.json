@@ -18,8 +18,6 @@
   ],
   "nextUp": [
     "Write the October monthly guide. The October data file is already stubbed and it is due by 20 September.",
-    "Update the Wimbledon tickets guide: the public ballot it describes closed on 14 September.",
-    "Update the fried chicken guide's line about the January 2026 championships, which the date check flags as expired.",
     "Link the gastropubs and most beautiful pubs guides from the Eat in London hub.",
     "Rework the titles for the bus fares searches that get impressions but no clicks, such as \"how much is a bus fare in london\".",
     "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
@@ -32,6 +30,10 @@
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-15",
+      "what": "Updated the Wimbledon tickets guide now both 2027 ballots have closed (what is still open for 2027, and when the 2028 ballots open), and reworded the fried chicken guide's championships line. The date check finds no expired claims."
+    },
     {
       "date": "2026-09-15",
       "what": "Pushed live: landscape hero images on 12 guides, a build check that blocks portrait heroes, and photos for 9 guides (cocktail bars, beautiful pubs, British food, coffee, galleries, museums, two walks, gastropubs, Chinese and East Asian)."
