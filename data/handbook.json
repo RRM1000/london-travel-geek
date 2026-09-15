@@ -28,7 +28,7 @@
     "Pick the stay dates for the hotel price check. Reusing the central London dates (11 Oct, 17 Oct, 12 Dec 2026, 17 Feb and 17 Apr 2027) keeps outer and central prices comparable, but only until 19 September.",
     "Sign in to Apify: in a new Claude Code session type /mcp, choose apify and log in. You can also do it in Settings, Connectors.",
     "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
-    "Say if any subjects are off-limits for the site, or add any style preferences to the writing rules. None are recorded yet.",
+    "Say if any subjects are off-limits for the site. None are recorded yet.",
     "Four guides mark some entries as named by none of the sources (Middle Eastern, Sunday roast, Turkish, most instagrammable). That is close to the weakness lines you banned: keep the markers or cut them?",
     "Say \"push\" whenever the committed work should go live."
   ],
@@ -132,7 +132,7 @@
       "value": "londontravelgeek.co.uk, built with Astro. Articles live in src/content/articles/."
     },
     {
-      "label": "Writing rules",
+      "label": "Writing guide",
       "value": "CONTENT_GUIDELINES.md holds the rules every page follows. CLAUDE.md loads it into every Claude session and agent, and it is shown in full on this page."
     },
     {

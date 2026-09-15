@@ -616,7 +616,7 @@ footer { max-width: 1240px; margin: 0 auto; padding: 0 28px 40px; color: var(--i
     <a href="#making">How a guide is made</a>
     <a href="#site">How the site works</a>
     <a href="#skills">Skills and agents</a>
-    <a href="#writing">Writing rules</a>
+    <a href="#writing">Writing guide</a>
     <a href="#rules">Working rules</a>
     <a href="#traffic">Traffic</a>
     <a href="#ideas">Ideas and decisions</a>
@@ -732,7 +732,7 @@ footer { max-width: 1240px; margin: 0 auto; padding: 0 28px 40px; color: var(--i
     </section>
 
     <section class="block" id="writing">
-      <h2>Writing rules</h2>
+      <h2>Writing guide</h2>
       <p class="lede">${inline(writingLede)}</p>
       <div class="rules">${writingGroups}</div>
     </section>

@@ -1,9 +1,10 @@
-# Writing rules for London Travel Geek
+# Writing guide for London Travel Geek
 
-Every page on the site follows these, whoever writes it: Claude, a Sonnet agent or Rob. `CLAUDE.md` loads this file into every Claude session and agent working in the repo. Rules for one kind of page live in its skill: `.claude/skills/consensus-guide` for "Best X in London" guides and `.claude/skills/walking-route` for walks. If a skill disagrees with this file, this file wins and the skill gets fixed.
+Every page on the site follows these, whoever writes it: Claude, a Sonnet agent or Rob. The guide grows as we go: when Rob gives a new writing rule, it goes in here. `CLAUDE.md` loads this file into every Claude session and agent working in the repo. Rules for one kind of page live in its skill: `.claude/skills/consensus-guide` for "Best X in London" guides and `.claude/skills/walking-route` for walks. If a skill disagrees with this file, this file wins and the skill gets fixed.
 
 ## Voice
 
+- Don't waffle. In-depth analysis is good, but every sentence has to be on point. If the reader wouldn't miss a sentence, cut it.
 - Factual and engaging. The facts are the interesting part; superlatives are what people write when they have not found any.
 - British English: colour, neighbourhood, queue, optimise.
 - Concrete beats evaluative. Describe the thing and let the reader conclude: "served inside a working car dealership on the Great North Road", not "exactly as strange as it sounds".
