@@ -2,29 +2,28 @@
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
   "updated": "2026-09-15",
-  "inProgress": [
-    {
-      "title": "Budget hotels guide",
-      "state": "in progress",
-      "detail": "22 hotels have entries: 3 in central London and 19 further out. The outer London section is written and its fact-check passes. The rest of the draft still has gaps: the intro, the short version, the FAQ, the price-by-night table, the central additions, the over-£150 table and the chains' London prices.",
-      "next": "Fill the remaining gaps, share a preview, then commit it for going live."
-    }
-  ],
+  "inProgress": [],
   "nextUp": [
     "Write the October monthly guide. The October data file is already stubbed and it is due by 20 September.",
+    "Add photos to the budget hotels guide, which has none yet.",
     "Bring five guides into line with the writing rules: \"corpus\" on the burgers and most instagrammable guides, and an unsourced \"best-kept secret\" on the museums, parks and London with children guides.",
     "Link the gastropubs and most beautiful pubs guides from the Eat in London hub.",
     "Rework the titles for the bus fares searches that get impressions but no clicks, such as \"how much is a bus fare in london\".",
     "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
-    "Once the outer hotel prices are in, check the best areas to stay guide's advice against staying further out, which currently says it saves too little to be worth it."
+    "Check the best areas to stay guide against the budget hotels prices: it says moving further out saves too little, but the middle typical night further out was £141.50 against £179.50 in central London."
   ],
   "waitingOnRob": [
     "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
     "Say if any subjects are off-limits for the site. None are recorded yet.",
     "Four guides mark some entries as named by none of the sources (Middle Eastern, Sunday roast, Turkish, most instagrammable). That is close to the weakness lines you banned: keep the markers or cut them?",
+    "Wembley: the only Wembley hotel two sources name (ibis London Wembley) takes no bookings for 2026. Premier Inn Wembley Park, Premier Inn Wembley Stadium and Travelodge Wembley High Road have one source each. Say if you want one of them priced and added anyway.",
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-15",
+      "what": "Finished the budget hotels guide: 22 hotels at £150 a night or less (3 central, 19 further out), a price for each sample night, the 18 hotels named everywhere but over £150, and how the chains priced. Every figure is fact-checked, and London on a budget links to it. ibis London Wembley couldn’t go in: it has no rooms on any of our 2026 nights."
+    },
     {
       "date": "2026-09-15",
       "what": "Wrote the budget hotels guide's outer London section: 19 hotels in 14 areas, each with its typical night, station, walk and train time, and an area table fastest first. Also fixed the breakfast and brunch guide's title so it says it's cross-referenced, like the other ranked guides."
