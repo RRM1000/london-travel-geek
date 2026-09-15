@@ -1,0 +1,180 @@
+{
+  "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
+  "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
+  "updated": "2026-09-15",
+  "inProgress": [
+    {
+      "title": "Budget hotels guide",
+      "state": "paused",
+      "detail": "Draft written with its fact-check script. Central London prices are done for 30 hotels, 7 of the 29 outer London hotels are priced, and the other 22 are not. Paused by Rob on 15 Sep because pricing runs one browser tab at a time, about 2 to 3 hours for the rest.",
+      "next": "Pick the stay dates first (see Waiting on you). Then price the 22 outer hotels, write the outer section and publish."
+    },
+    {
+      "title": "Apify connection",
+      "state": "blocked",
+      "detail": "Installed in Claude Code on 15 Sep with the Hotels.com scraper enabled, which could price hotels much faster than the browser.",
+      "next": "Sign in once (see Waiting on you). Every Apify run costs money, so each one gets a go-ahead first."
+    }
+  ],
+  "nextUp": [
+    "Write the October monthly guide. The October data file is already stubbed and it is due by 20 September.",
+    "Update the Wimbledon tickets guide: the public ballot it describes closed on 14 September.",
+    "Update the fried chicken guide's line about the January 2026 championships, which the date check flags as expired.",
+    "Link the gastropubs and most beautiful pubs guides from the Eat in London hub.",
+    "Rework the titles for the bus fares searches that get impressions but no clicks, such as \"how much is a bus fare in london\".",
+    "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
+    "Once the outer hotel prices are in, check the best areas to stay guide's advice against staying further out, which currently says it saves too little to be worth it."
+  ],
+  "waitingOnRob": [
+    "Pick the stay dates for the hotel price check. Reusing the central London dates (11 Oct, 17 Oct, 12 Dec 2026, 17 Feb and 17 Apr 2027) keeps outer and central prices comparable, but only until 19 September.",
+    "Sign in to Apify: in a new Claude Code session type /mcp, choose apify and log in. You can also do it in Settings, Connectors.",
+    "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
+    "Say \"push\" whenever the committed work should go live."
+  ],
+  "recentlyDone": [
+    {
+      "date": "2026-09-15",
+      "what": "Pushed live: landscape hero images on 12 guides, a build check that blocks portrait heroes, and photos for 9 guides (cocktail bars, beautiful pubs, British food, coffee, galleries, museums, two walks, gastropubs, Chinese and East Asian)."
+    },
+    {
+      "date": "2026-09-15",
+      "what": "Removed every line where a guide said it had previously got something wrong (15 lines in 6 guides, including the Oriole callout)."
+    },
+    {
+      "date": "2026-09-15",
+      "what": "Added GetYourGuide links and dated booking widgets to the afternoon tea guide: the tea bus, the tea cruise, the British Museum, the National Gallery and the London Eye."
+    },
+    {
+      "date": "2026-09-15",
+      "what": "Confirmed the Vercel firewall rule is stopping the Singapore scraper. It last reached Google Analytics in the 1pm hour on 14 September."
+    },
+    {
+      "date": "2026-09-14",
+      "what": "Outer London research for the budget hotels guide: 151 stations timed, 42 hotels found, 35 with a direct train to the centre in 30 minutes or less."
+    }
+  ],
+  "postTypes": [
+    {
+      "name": "Consensus guides",
+      "how": "\"Best X in London\" pages, ranked by how many independent sources name each place. Built with the consensus-guide skill. Each has a topic file, a sources file and a fact-check script."
+    },
+    {
+      "name": "Walking routes",
+      "how": "Numbered stops in walking order, with a map, a Google Maps link and what is open on which day. Built with the walking-route skill, and linked to the walks that start near where they end."
+    },
+    {
+      "name": "Area and where-to-stay guides",
+      "how": "Neighbourhood guides and hotel guides. The hotel cards come from the Google Sheet through scripts/write-hotels.mjs and export-hotels.mjs, and hotel prices come from sampled booking pages, never from a single quoted night."
+    },
+    {
+      "name": "Day trips",
+      "how": "Train facts checked against National Rail and the operators, with a dated GetYourGuide booking widget beside each recommended tour."
+    },
+    {
+      "name": "Events and monthly guides",
+      "how": "Dated guides, such as Bonfire Night or London in October, that go out of date on their own. The weekly date check catches claims that have expired."
+    }
+  ],
+  "consensusSteps": [
+    {
+      "step": "Agree the scope",
+      "detail": "A topic file in data/topics/ holds the questions only Rob can answer, such as the price line or what counts. Collection waits until they are answered."
+    },
+    {
+      "step": "Collect sources, search results first",
+      "detail": "Start from what a reader would search. Take awards, magazines, independent blogs, video and real people's forum posts, and weigh a blogger or a Reddit thread as much as a magazine. Leave out booking sites, brand sites and content farms."
+    },
+    {
+      "step": "Record every source",
+      "detail": "Each source goes into data/consensus/<topic>.json with the names it gives and what it said, checked against the known traps: one writer on four sites counts once, branches are kept apart, and closed places are dropped."
+    },
+    {
+      "step": "Build the evidence",
+      "detail": "node scripts/build-evidence.mjs counts how many independent sources name each place and writes data/evidence.json."
+    },
+    {
+      "step": "Check what is still open",
+      "detail": "The venue-check agent confirms each place is trading, and its address, against the venue's own site."
+    },
+    {
+      "step": "Write the guide",
+      "detail": "Short version first, then the evidence box, then entries. Every entry carries \"Cited by N sources\" and says what to order, what the room is like, and one thing that decides a visit. No weakness lines, and no notes about past mistakes."
+    },
+    {
+      "step": "Fact-check the numbers",
+      "detail": "A script per guide, scripts/verify-<topic>-citations.mjs, reads every figure back out of the article and fails if it no longer matches the evidence. npm run audit runs every health check."
+    },
+    {
+      "step": "Add photos",
+      "detail": "Rob downloads three shots per place into scratchpad/downloaded-photos/<guide>/. A Sonnet agent picks the best of each and captions it from the guide's own text, then every photo is checked by eye against its caption. Heroes must be landscape."
+    },
+    {
+      "step": "Preview",
+      "detail": "Check the page on the local dev server and share the link."
+    },
+    {
+      "step": "Commit, then push when told",
+      "detail": "Work is committed in the worktree and in main with the same message. Pushing to main deploys the site through Vercel, so it only happens when Rob says so."
+    }
+  ],
+  "siteFacts": [
+    {
+      "label": "Site",
+      "value": "londontravelgeek.co.uk, built with Astro. Articles live in src/content/articles/."
+    },
+    {
+      "label": "Going live",
+      "value": "A push to main on GitHub (RRM1000/london-travel-geek) makes Vercel build and deploy. A failed build leaves the previous version live."
+    },
+    {
+      "label": "Build checks",
+      "value": "npm run build first checks image sizes and that every hero is landscape. The content schema rejects page titles over 55 characters."
+    },
+    {
+      "label": "Data",
+      "value": "Restaurants, hotels and activities come from a Google Sheet through owner scripts. Consensus evidence lives in data/consensus/, data/topics/ and data/evidence.json. Analytics pulls land in data/analytics/latest.json."
+    },
+    {
+      "label": "Money",
+      "value": "GetYourGuide (partner WWP7I0R), Hotels.com through CJ, and eSIM partners. Google Places, Apify and anything else billed needs a go-ahead before each run."
+    },
+    {
+      "label": "Firewall",
+      "value": "The Vercel custom rule \"Tencent scraper\" challenges AS132203 (Tencent Cloud Singapore). It has been in place since 14 Sep 2026."
+    }
+  ],
+  "commands": [
+    {
+      "cmd": "npm run dev",
+      "what": "Local preview at http://localhost:4321"
+    },
+    {
+      "cmd": "npm run audit",
+      "what": "Every health check, plus the worklist"
+    },
+    {
+      "cmd": "npm run audit:weekly",
+      "what": "Just the checks that break with time: dates, links, freshness"
+    },
+    {
+      "cmd": "npm run audit:citations",
+      "what": "Run every guide's fact-check script"
+    },
+    {
+      "cmd": "npm run worklist",
+      "what": "The human to-do list in data/worklist.json"
+    },
+    {
+      "cmd": "node scripts/pull-analytics.mjs",
+      "what": "Pull Google Analytics and Search Console for the last 28 days"
+    },
+    {
+      "cmd": "node scripts/daily-traffic.mjs 14",
+      "what": "Day-by-day traffic and search clicks"
+    },
+    {
+      "cmd": "node scripts/build-handbook.mjs",
+      "what": "Rebuild this page"
+    }
+  ]
+}
