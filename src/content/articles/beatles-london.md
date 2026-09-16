@@ -7,6 +7,8 @@ updatedAt: 2026-09-15
 sites: [london]
 canonicalSite: london
 category: "Things to do"
+heroImage: "../../assets/articles/beatles-london/abbey-road-studios-entrance.jpg"
+heroImageAlt: "The white Georgian frontage of Abbey Road Studios, with 'Abbey Road' lettered above the wooden entrance door and cars parked outside"
 tags:
   - beatles
   - music
@@ -65,6 +67,10 @@ Most of the London sites are a plaque, a crossing or a shopfront that takes two 
 
 **<a href="https://www.getyourguide.com/activity/-t1042501?partner_id=WWP7I0R&amp;cmp=beatles-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Beatles Magical Mystery Tour: Abbey Road, Savile Row</a>** costs more, **£49** for **two hours**, and is rated **4.9 from 108 reviews**. It's built around exactly the three sites this guide leads with: Abbey Road, Savile Row and Trident Studios in Soho, where "Hey Jude" was recorded. It starts outside the Dominion Theatre on Tottenham Court Road. **Best for** readers who want the story behind those three specific sites rather than the wider scene.
 
+![A blue plaque on a dark-painted Soho shopfront reading David Bowie 1947-2016, noting that Hunky Dory, The Rise and Fall of Ziggy Stardust and the song Space Oddity were recorded at Trident Studios](../../assets/articles/beatles-london/trident-studios-bowie-plaque.jpg)
+
+*The only plaque on the building credits David Bowie, not the Beatles, whose "Hey Jude" session here in 1968 goes unmarked.*
+
 ### The cheapest
 
 **<a href="https://www.getyourguide.com/activity/-t401002?partner_id=WWP7I0R&amp;cmp=beatles-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Beatles Walking Tour of Soho and Mayfair</a>** is the cheapest at **£17** for two hours, covering Soho, Mayfair and St James's. It's rated **4.9**, but from only **4 reviews**, so treat that score as early rather than proven.
@@ -74,6 +80,10 @@ Liverpool day tours, with the train included, are [further down](#book-it-as-a-p
 ## Abbey Road Studios
 
 **Abbey Road Studios, 3 Abbey Road, St John's Wood, London NW8 9AY.** It's still a working recording studio, owned by Universal Music Group, and the building itself is not open to visitors. What draws fans is entirely outside it, and all of it is free.
+
+![The white Georgian frontage of Abbey Road Studios, with 'Abbey Road' lettered above the wooden entrance door and cars parked outside](../../assets/articles/beatles-london/abbey-road-studios-entrance.jpg)
+
+*A green plaque beside the door credits Sir Edward Elgar, who opened the studio in 1931 — the building has outlasted several eras of British music.*
 
 ### The crossing, the wall and the webcam
 
@@ -97,15 +107,21 @@ The **Official Abbey Road Shop** is on site, open **Monday to Saturday, 9.30am�
 
 A **blue plaque** was mounted on the façade on **5 April 2019**, the concert's 50th-anniversary year, with Westminster Council's permission.
 
+![The Georgian brick and white stucco front of 3 Savile Row, with a round blue plaque mounted between two upper-floor windows](../../assets/articles/beatles-london/3-savile-row-facade.jpg)
+
+*The building is occupied by a retail tenant today; only the plaque marks its Apple Corps years.*
+
 Savile Row tailor **Tommy Nutter** dressed Paul McCartney, John Lennon and Ringo Starr for the *Abbey Road* cover shoot; George Harrison wore denim.
 
 ## Baker Street: the shop and the boutique that vanished
 
 **The Beatles Store, 231/233 Baker Street, London NW1 6XE**, open **daily, 10am–6.30pm**, a minute's walk from Baker Street Underground. It's run by an independent company, Come Together Ltd, not by Apple Corps, and it's free to browse. It bills itself as stocking the world's largest range of Beatles merchandise: clothing, pins, prints, autographs and guidebooks.
 
-Ten minutes' walk south, **94 Baker Street** is the honest disappointment. The Beatles' Apple Corps opened the **Apple Boutique** here on 7 December 1967, its ground floor painted in a psychedelic mural by the Dutch design collective the Fool, funded with £100,000 of the band's money. Westminster City Council never approved the mural and forced it to be painted over within six months; the shop itself lost so much money it closed on 31 July 1968, just eight months after opening, with the remaining stock given away rather than sold. The 18th-century house it stood in was demolished by 1972 and replaced with an office block, **Travelscene House, 94 Baker Street, W1U 6FZ**. A **blue plaque** on the building, unveiled 17 March 2013 and crediting both John Lennon and George Harrison (Apple Corps' first office was on the floors above the shop), is the only trace left.
+![The London Beatles Store shopfront on Baker Street, its windows dressed with a Sgt. Pepper display and yellow lettering reading 'London Beatles Store' above](../../assets/articles/beatles-london/beatles-store-baker-street-storefront.jpg)
 
-<div data-stay-strip></div>
+*The shop spans two adjoining units on Baker Street, each signed separately above its own door.*
+
+Ten minutes' walk south, **94 Baker Street** is the honest disappointment. The Beatles' Apple Corps opened the **Apple Boutique** here on 7 December 1967, its ground floor painted in a psychedelic mural by the Dutch design collective the Fool, funded with £100,000 of the band's money. Westminster City Council never approved the mural and forced it to be painted over within six months; the shop itself lost so much money it closed on 31 July 1968, just eight months after opening, with the remaining stock given away rather than sold. The 18th-century house it stood in was demolished by 1972 and replaced with an office block, **Travelscene House, 94 Baker Street, W1U 6FZ**. A **blue plaque** on the building, unveiled 17 March 2013 and crediting both John Lennon and George Harrison (Apple Corps' first office was on the floors above the shop), is the only trace left.
 
 ## Other sites worth the detour
 
@@ -117,7 +133,13 @@ Ten minutes' walk south, **94 Baker Street** is the honest disappointment. The B
 | Mason's Yard, St James's, SW1Y 6BU | Lennon met Yoko Ono here, 7 November 1966, at the Indica Gallery | No — the gallery's long gone and nothing marks it |
 | 57 Wimpole Street, Marylebone | Paul McCartney's home through the mid-1960s, at Jane Asher's family house | No — private residence, nothing to see |
 
+<div data-stay-strip></div>
+
 **34 Montagu Square** is the one address on this list that's worth an actual detour. Ringo Starr leased the ground-floor flat in 1965; Paul McCartney rented it from him that year and turned it into a demo studio, recording an early version of "I'm Looking Through You" and working on "Eleanor Rigby" there. Starr later sublet it to **Jimi Hendrix**, who wrote "The Wind Cries Mary" in the flat before being evicted for throwing whitewash over the walls. In 1968, **John Lennon and Yoko Ono** rented it for three months, photographed the cover of their *Two Virgins* album there, and were raided by police looking for drugs. English Heritage put up the blue plaque on **23 October 2010**, and Yoko Ono herself unveiled it. It's a private home today, so you're looking at the plaque from the pavement, not going in.
+
+![The cream-stucco terrace of Montagu Square, with a blue plaque to John Lennon beside the door of number 34 and a red pillar box on the pavement](../../assets/articles/beatles-london/34-montagu-square-facade.jpg)
+
+*Ringo Starr, Jimi Hendrix, and John Lennon and Yoko Ono all rented this same flat within a three-year stretch.*
 
 ## Liverpool: the day trip
 
@@ -129,13 +151,21 @@ Trains run from **London Euston to Liverpool Lime Street** on **Avanti West Coas
 
 ### The Cavern Club
 
+<div data-stay-strip></div>
+
 **8–10 Mathew Street, Liverpool.** This isn't quite the club the Beatles played nearly 300 times between 1961 and 1963: that Cavern closed in 1973 and was filled in during building work for the Merseyrail loop, and the club reopened on Mathew Street in 1984. It's open **seven days a week**, with live music from **11.15am daily**. Hours: **Sunday–Wednesday 11am–midnight, Thursday 11am–1am, Friday and Saturday 11am–2am**. It's **cashless**, card or contactless only. **Single entry (18+) is £6**, or **£8.50 for an all-day, all-night pass** covering more than 12 hours of live music; under-12s go free, and 12–17s pay £3 but must leave by 8pm unless with an adult. Cloakroom is £2 an item.
 
-<div data-stay-strip></div>
+![The Cavern Club's red neon sign above its Mathew Street entrance, with band posters and its own opening-times board beside the doorway](../../assets/articles/beatles-london/cavern-club-liverpool-entrance.jpg)
+
+*The club runs its own live line-up most days — check what's on before you go, since the acts change nightly.*
 
 ### The Beatles Story
 
 At the **Royal Albert Dock**, open **9am–6.30pm, last entry 5pm**. **Adult tickets are £20**, concessions (seniors and students) £16, children aged 5–15 £11, and under-5s go free. That covers the museum, the Discovery Zone for kids (weekends and school holidays), and the on-site Fab4 cafés.
+
+![The Beatles Story's brick warehouse frontage at Royal Albert Dock, with a large circular sign above the entrance and banners either side](../../assets/articles/beatles-london/beatles-story-liverpool-exterior.jpg)
+
+*The museum occupies a restored Victorian dock warehouse, not a purpose-built building.*
 
 ### Book it as a package instead
 

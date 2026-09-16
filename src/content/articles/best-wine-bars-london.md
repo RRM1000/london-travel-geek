@@ -2,8 +2,8 @@
 title: "The Best Wine Bars in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Wine Bars London 2026: Ranked Across Major Lists"
 description: "Fifteen independent sources across 158 wine bars. Which ones the critics actually agree on, what a bottle costs if you drink it where you bought it, and the award that almost never goes to a wine bar."
-heroImage: "../../assets/articles/best-wine-bars-london/bar-crispin-hero.jpg"
-heroImageAlt: "The green shopfront of Bar Crispin on Kingly Street, with a by-the-glass list chalked on a board outside and laid tables on the pavement"
+heroImage: "../../assets/articles/best-wine-bars-london/diogenes-the-dog.jpg"
+heroImageAlt: "Floor-to-ceiling wine racks packed with bottles along a bare brick wall at Diogenes the Dog, with a small round table and bar stools on a wooden floor"
 publishedAt: 2026-09-07
 sites: [london]
 canonicalSite: london

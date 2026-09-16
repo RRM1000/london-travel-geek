@@ -2,12 +2,8 @@
 title: "The Best Spanish Restaurants in London: Tapas to Basque Asador"
 seoTitle: "Best Spanish Restaurants London 2026: Tapas & Basque"
 description: "Aged Galician beef over coals, a standing-room sherry bar with a handful of stools, and suckling pig roasted upstairs — London's Spanish kitchens by region."
-heroImage: "../../assets/articles/best-spanish-restaurants-london/best-spanish-restaurants-london.jpg"
-heroImageAlt: "Whole jamón legs hanging above a counter lined with wine bottles"
-heroImageCredit: "Hawksbill.24"
-heroImageSource: "https://www.pexels.com/photo/fish-hanging-in-a-shop-6142844/"
-heroImageLicense: "Pexels License"
-heroImageLicenseUrl: "https://www.pexels.com/license/"
+heroImage: "../../assets/articles/best-spanish-restaurants-london/copita.jpg"
+heroImageAlt: "The dark frontage and pavement tables of Copita on d'Arblay Street in Soho"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london

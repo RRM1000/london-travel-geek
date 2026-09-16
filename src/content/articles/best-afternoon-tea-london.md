@@ -2,12 +2,8 @@
 title: "The Best Afternoon Tea in London: 25 Compared"
 seoTitle: "Best Afternoon Tea London 2026: 25 Hotels Ranked"
 description: "London's afternoon teas compared — where the ritual began, which have a dress code, which work with children, and which are worth the money."
-heroImage: "../../assets/articles/best-afternoon-tea-london/best-afternoon-tea-london.jpg"
-heroImageAlt: "The gilded Palm Court at the Ritz in London, set for afternoon tea"
-heroImageCredit: "Northmetpit"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Ritz_Hotel_London_Palm_Court.JPG"
-heroImageLicense: "CC0"
-heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
+heroImage: "../../assets/articles/best-afternoon-tea-london/the-dorchester.jpg"
+heroImageAlt: "Afternoon tea at the Dorchester: a tiered stand of finger sandwiches and pastries on floral china, with champagne flutes on a pink and gold table setting"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london

@@ -2,12 +2,8 @@
 title: "The Best Italian Restaurants in London, Cross-Referenced Across Every Major Guide and Award of the Year"
 seoTitle: "Best Italian Restaurants in London 2026, Ranked"
 description: "Not our opinion. Every restaurant here is ranked by how many independent awards, critics and reviewers name it — then split by region, by price, and by the rooms worth booking for the room alone."
-heroImage: "../../assets/articles/best-italian-restaurants-london/best-italian-restaurants-london.jpg"
-heroImageAlt: "The frontage of an Italian restaurant on a Clerkenwell street in London"
-heroImageCredit: "Ewan Munro"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Santore,_Clerkenwell,_EC1.jpg"
-heroImageLicense: "CC BY-SA 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+heroImage: "../../assets/articles/best-italian-restaurants-london/bocca-di-lupo.jpg"
+heroImageAlt: "The frontage of Bocca di Lupo on Archer Street in Soho"
 publishedAt: 2026-08-23
 updatedAt: 2026-08-30
 sites: [london]

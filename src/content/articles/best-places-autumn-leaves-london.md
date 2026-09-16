@@ -1,7 +1,9 @@
 ---
 title: "The Best Places to See Autumn Leaves in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Places to See Autumn Leaves in London 2026"
-description: "Richmond Park is named by more independent sources than anywhere else, Kew's own hours cut by two hours the day the clocks go back, and Kew's head of tree collections says he's 'really worried about this autumn'."
+description: "Seven of fifteen independent sources name Richmond Park, Kew's own hours cut by two hours the day the clocks go back, and Kew's head of tree collections says he's 'really worried about this autumn'."
+heroImage: "../../assets/articles/best-places-autumn-leaves-london/richmond-park-autumn-reflection.jpg"
+heroImageAlt: "A Japanese maple in scarlet and orange reflected in a still pond in Richmond Park"
 publishedAt: 2026-09-15
 updatedAt: 2026-09-16
 reviewBy: 2026-11-16
@@ -27,12 +29,11 @@ faq:
 
 London's Royal Parks alone cover more than 5,000 acres, and in autumn nearly all of it turns — though not on the same day, and not even the same species turning together. This guide is about the colour specifically: which trees, in which named spot inside each place, and when to go before or after the crowd finds it. For the city's green spaces more broadly — the swimming ponds, the free houses inside them, Richmond Park as a deer park rather than an autumn one — see our [guide to London's best parks and gardens](/articles/best-parks-gardens-london/).
 
-> 💡 **The Short Version:** **Richmond Park** is named by more independent sources than anywhere else here, for the Isabella Plantation and its deer. **Kew Gardens** has the widest range of named trees and is the only entry that charges. Richmond and **Bushy Park** are also where the deer rut runs, from late September to early November — keep 50 metres back. **St James's Park** and **Greenwich Park** are the free, central options named next most. In 2026 many trees are dropping leaves early after May's record 35C heatwave, the Guardian reported on 1 September, so check a park's own update before a special trip.
+> 💡 **The Short Version:** Seven of the fifteen sources name **Richmond Park**, for the Isabella Plantation's Acer Glade and the deer. **Kew Gardens**, named by six, has the widest range of named trees and is the only entry that charges. Richmond and **Bushy Park** are also where the deer rut runs, from late September to early November — keep 50 metres back. **St James's Park** (five sources) and **Greenwich Park** (four) are the free, central options. In 2026 many trees are dropping leaves early after May's record 35C heatwave, the Guardian reported on 1 September, so check a park's own update before a special trip.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **15 independent sources carrying 60 citations** across **28 named places**. **11 are named by two or more independent sources.**
-> **Built on:** five national newspapers and broadcasters (the Guardian, the Independent, the Evening Standard, Metro, BBC News); Time Out and Condé Nast Traveller; a local paper, News Shopper, and a youth-culture site, The Tab; three independent blogs; and three London autumn-walk videos, counted per creator. Every hour, price, rutting rule and named tree is checked against the place's own operator — the Royal Parks, Kew, the City of London, the National Trust and the Woodland Trust — which is never counted as a source for a park it runs itself.
-> *Evidence built 16 September 2026 · [How we rank →](/how-we-rank/)*
+> **15 independent sources carrying 60 citations** across **28 named places**, of which **11 are named by two or more independent sources.** Newspapers, magazines, local reporting, blogs and video, counted per creator.
+> Hours, prices, rutting rules and named trees come from each place's own operator, which is never counted as a source for a park it runs. [How we rank →](/how-we-rank/)
 
 ## Where they are
 
@@ -50,13 +51,17 @@ London's Royal Parks alone cover more than 5,000 acres, and in autumn nearly all
 
 ---
 
-## The winners
+## Named by four or more sources
 
-### Richmond Park and the Isabella Plantation — named by more sources than anywhere else
+### Richmond Park and the Isabella Plantation — the Acer Glade and the deer
 
 *Richmond, then bus or a walk · Cited by 7 sources · Free*
 
-The most-cited place in this guide, named independently by Londonist, Solosophie, The Tab, Metro, BBC News, the Independent and a YouTube walk — for different reasons. Londonist calls it "London's quintessential autumn spot"; Solosophie says it "may well be the best spot of all" in the city; Metro highlights the Tamsin Trail, a seven-mile walking and cycling loop around the park's perimeter with woodpeckers and green parakeets to spot along the way. Inside it, the Isabella Plantation has its own dedicated feature: Japanese maples turning "brilliant shades of scarlet, orange and gold" through what's known as the Acer Glade, among tupelo, swamp cypress and dawn redwood planted together for the display.
+Seven sources name it, and each for a different reason: Londonist, Solosophie, The Tab, Metro, BBC News, the Independent and a YouTube walk. Londonist calls it "London's quintessential autumn spot"; Solosophie says it "may well be the best spot of all" in the city; Metro highlights the Tamsin Trail, a seven-mile walking and cycling loop around the park's perimeter with woodpeckers and green parakeets to spot along the way. Inside it, the Isabella Plantation has its own dedicated feature: Japanese maples turning "brilliant shades of scarlet, orange and gold" through what's known as the Acer Glade, among tupelo, swamp cypress and dawn redwood planted together for the display.
+
+![A tree in scarlet and orange reflected in a still pond in Richmond Park](../../assets/articles/best-places-autumn-leaves-london/richmond-park-autumn-reflection.jpg)
+
+*Seven of this guide's fifteen sources name Richmond Park, most of them for the Isabella Plantation.*
 
 This is also rutting season. See "Richmond and Bushy: the deer rut," below, before visiting. Free, open dawn to dusk, and Pembroke Lodge has the park's largest car park.
 
@@ -76,6 +81,10 @@ The Guardian reported on 1 September 2026 that Kevin Martin, Kew's head of tree 
 
 The Evening Standard's own favourite spot: "the Blue Bridge that crosses the lake in St James's Park. The trees reach down to the water, providing a perfect reflection on a still day." Londonist adds that the view from the lake bridge looking east towards Horse Guards "turns technicolour around September/October, with the London Eye and cream coloured government buildings peeking over the tops of clouds of fire-coloured leaves." St James's Park is the oldest of the Royal Parks and the most central, so the bridge gets crowded on a clear weekend; a weekday morning is quieter.
 
+![A pelican on the lake in St James's Park, autumn leaves overhead and the Blue Bridge behind](../../assets/articles/best-places-autumn-leaves-london/st-jamess-park-pelican.jpg)
+
+*This is the Blue Bridge, looking towards Horse Guards — the view Londonist says "turns technicolour" every autumn.*
+
 Free, open 5am to midnight, and the bridge is a two-minute walk from St James's Park station.
 
 ### Greenwich Park — 400-year-old chestnuts and a 750-year-old oak
@@ -83,6 +92,10 @@ Free, open 5am to midnight, and the bridge is a two-minute walk from St James's 
 *Greenwich or Blackheath, DLR and National Rail · Cited by 4 sources · Free*
 
 London's oldest enclosed royal park has some of the oldest trees on this list. Time Out points to avenues of Spanish sweet chestnuts planted around 400 years ago, which drop edible nuts in autumn, and to the Queen Elizabeth Oak, dated at 750 years old. News Shopper's local reporting adds specifics: "rows of Japanese Maple and Sweet Chestnut trees that turn red and orange in autumn, along with its London skyline views and historic buildings like the Observatory and Pavilion Café." Londonist's own pick is Blackheath Avenue, which gets the same "golden tunnel" treatment as Regent's Park's Broad Walk.
+
+![The view down Greenwich Park's hill towards Queen's House and the Old Royal Naval College, avenues of trees in autumn colour on either side](../../assets/articles/best-places-autumn-leaves-london/greenwich-park-avenue.jpg)
+
+*The Queen Elizabeth Oak here is dated at 750 years old.*
 
 Free, open 6am to dusk, and the climb to the Observatory gives the view over all of it — though the Observatory building itself is closed for a refurbishment until summer 2027.
 
@@ -98,7 +111,7 @@ Free, open 5am to dusk (later in summer). Frieze Sculpture, a free outdoor art e
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-places-autumn-leaves-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Also strongly backed
+## Named by three sources
 
 ### Hyde Park — 4,000 trees along the Serpentine
 
@@ -114,6 +127,10 @@ Free, open 5am to midnight.
 
 Named independently by a YouTube walking channel, a travel blogger and Metro's own London walking guide — the last of which uses it as the starting point for a longer loop through four Royal Parks, on to St James's Park, Buckingham Palace, Hyde Park and Kensington Gardens. It is smaller and plainer than its neighbours, without a lake or a formal garden, which is exactly why it works as a quick, tree-lined cut-through between Piccadilly and the Palace rather than a destination to linger in.
 
+![The Canada Memorial in Green Park, water running over sloped red granite, with trees turning gold and orange behind it](../../assets/articles/best-places-autumn-leaves-london/green-park-cascade.jpg)
+
+*The Canada Memorial's granite is inset with 506 bronze maple leaves, with water running over them. Metro uses Green Park as the start of a longer loop through four Royal Parks.*
+
 Free, open 5am to midnight.
 
 ### Hampstead Heath — 800 acres of ambers, golds and deep reds
@@ -122,6 +139,10 @@ Free, open 5am to midnight.
 
 Time Out describes the Heath's "meadows and magical woodland areas, all tinged in ambers, golds and deep, majestic reds," and Condé Nast Traveller calls it the corner of the city that "takes on its best colours in autumn," with its three swimming ponds offering a last cold-water dip before winter shuts them to all but the hardy. Metro's own Hampstead Circular walk takes in "a mix of oak-lined trails and open meadows," starting from Hampstead village and running up past the Holly Bush pub before reaching the Heath itself. A full route through it, taking in Kenwood House and Parliament Hill, is in our [Hampstead Heath to Primrose Hill walk](/articles/hampstead-heath-primrose-hill-walk/).
 
+![A meadow on Hampstead Heath bordered by trees in amber, gold and deep red](../../assets/articles/best-places-autumn-leaves-london/hampstead-heath-autumn-trees.jpg)
+
+*Its three swimming ponds offer a last cold dip before winter closes them to all but the hardy.*
+
 Free, open all year, and the ponds keep swimming right through autumn.
 
 ### Holland Park and the Kyoto Garden — a Japanese garden fringed in orange
@@ -129,6 +150,10 @@ Free, open all year, and the ponds keep swimming right through autumn.
 *Holland Park, Central line · Cited by 3 sources · Free*
 
 A 1991 gift from the Chamber of Commerce of Kyoto, with a waterfall, a bridge and koi carp, sitting inside the wider 54-acre Holland Park. Time Out and Solosophie both single it out: its edges turn "fringed with orange leaves" as its Japanese maples change, and it stays one of the more reliably photogenic corners of the park even when the wider grounds are still green. Brogan Abroad adds that the neighbourhood's own front gardens keep colour going long after the park's trees are bare, with "fiery red ivy" over the houses around it.
+
+![The Kyoto Garden's waterfall in Holland Park, framed by Japanese maples in red, orange and gold](../../assets/articles/best-places-autumn-leaves-london/holland-park-kyoto-garden-waterfall.jpg)
+
+*Brogan Abroad says the ivy on houses around the park turns "fiery red" long after its own trees are bare.*
 
 Free, and busiest for photos on a clear weekend afternoon — go early to see the koi pond without a queue for it.
 
@@ -143,6 +168,10 @@ The danger is real, not theoretical. The Independent reported a person taken to 
 *Hampton Court or Teddington · Cited by 3 sources · Free*
 
 Named alongside Richmond by BBC News and the Independent for its own rutting deer, and by Metro as the starting point for the Hampton Court Barge Walk, a riverside route down to Hampton Court Palace past Ravens Ait and Thames Ditton Island. Bushy Park holds roughly half of the more than 1,000 deer it shares with Richmond between them, and is generally easier to watch the rut in without the weekend crowds Richmond draws for the same reason.
+
+![Fallen leaves under oak trees in Bushy Park on a misty autumn morning](../../assets/articles/best-places-autumn-leaves-london/bushy-park-misty-morning.jpg)
+
+*Metro names Bushy Park as the start of the Hampton Court Barge Walk, past Ravens Ait and Thames Ditton Island.*
 
 Free, open dawn to dusk.
 
@@ -185,6 +214,10 @@ News Shopper's own local reporting, cross-checked against the sources above, add
 
 Epping Forest runs 13 miles from east London into Essex, and the part inside Greater London is genuinely reachable on the network: five minutes on foot from Chingford station to the Visitor Centre and Queen Elizabeth's Hunting Lodge, then on to Connaught Water via the Willow Trail. From Leytonstone or Snaresbrook on the Central line, the Hornbeam Trail and Wanstead Park's Chestnut Trail reach the Forest's ancient hornbeam and oak pollards. The Independent reported in April 2026 on an over-300-year-old crab apple tree found here — the real-life original behind the Crabapple Cottage illustration in the children's book series Brambly Hedge, now the start of a themed trail through the Forest.
 
+![A grey heron standing in a pond covered with fallen autumn leaves in Epping Forest](../../assets/articles/best-places-autumn-leaves-london/epping-forest-heron.jpg)
+
+*Five minutes on foot from Chingford station reaches the Visitor Centre, then the Willow Trail on to Connaught Water.*
+
 Free, open all year. The Forest's northern half continues into Essex, outside this guide's scope.
 
 - **Kensington Gardens**, next to Hyde Park — Queen Anne's Alcove, the Italian Gardens fountains and the Diana, Princess of Wales Memorial Playground sit inside it, all part of a longer Royal Parks walking loop Metro maps out from Green Park. Free. *Cited by 1 source.*
@@ -205,7 +238,17 @@ Free, open all year. The Forest's northern half continues into Essex, outside th
 
 ## Streets and smaller corners
 
-- **Kynance Mews**, Kensington — a cobbled mews where ivy and Virginia creeper turn into "a waterfall of vermillion" over the stone arches, per Londonist; go early on a weekday to photograph it without a queue for the doorway. *Cited by 2 sources.*
+### Kynance Mews — creeper over the arches
+
+*Kensington · Gloucester Road, District, Circle and Piccadilly lines · Cited by 2 sources · Free*
+
+A cobbled mews off Kynance Place, where ivy and Virginia creeper turn into what Londonist calls "a waterfall of vermillion" over its two stone arches. Go early on a weekday: the arch is one of the most photographed doorways in Kensington and a queue forms for it by mid-morning.
+
+![Red Virginia creeper hanging over a stone arch across a cobbled mews, fallen leaves on the setts below](../../assets/articles/best-places-autumn-leaves-london/kynance-mews-creeper.jpg)
+
+*The creeper turns weeks after the parks do, so this is one to save for the back end of the season.*
+
+### The rest of the streets
 - **Chelsea Embankment** — golden plane trees arching over the riverside path, with sphinx-headed benches to sit on while the leaves come down, per Londonist. Free. *Cited by 1 source.*
 - **Big Wood**, Hampstead Garden Suburb — two small ancient-woodland pockets, including a genuine rarity: the wild service tree (*Sorbus torminalis*), which the Evening Standard says turns "a deep copper-orange" this time of year. Free. *Cited by 1 source.*
 

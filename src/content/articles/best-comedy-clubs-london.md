@@ -69,6 +69,10 @@ The trade-off is not quality — it is certainty. A £30 ticket buys you a booke
 
 Don Ward opened it in **May 1979**, in the old Gargoyle nightclub on Dean Street, after seeing what the new clubs in New York and Los Angeles were doing. What came out of it was British alternative comedy — observational, political, and aimed squarely at the Establishment.
 
+![The circular neon sign of The Comedy Store, showing a pair of red lips and the club's name, mounted on a stone building](../../assets/articles/best-comedy-clubs-london/the-comedy-store-neon-sign.jpg)
+
+*The club's neon lips-and-mouth sign lights the entrance after dark.*
+
 It has moved since, and it is still the room every British comedian measures themselves against.
 
 **The Comedy Store Players** have performed here since **October 1985** — Paul Merton, Josie Lawrence, Neil Mullarkey, Richard Vranch, Lee Simpson and others. *Whose Line Is It Anyway?* took their short-form improv to Channel 4 in 1988, and **Guinness confirmed in 2010 that it is the world's longest-running comedy show with the same cast**.
@@ -80,6 +84,10 @@ It has moved since, and it is still the room every British comedian measures the
 *£–££ · 4 min from Covent Garden*
 
 A basement in the middle of the West End running shows **every day of the week** at prices well below what the location suggests. Its reputation rests on **unannounced drop-ins** — established comedians working out material in a room of a hundred people who paid a few pounds.
+
+![A queue of people outside the Top Secret Comedy Club entrance, with a "SOLD OUT" notice on the door](../../assets/articles/best-comedy-clubs-london/top-secret-comedy-club-queue.jpg)
+
+*Sold out, with a QR code on the door for the virtual waiting list.*
 
 **It is two rooms, not one**, and the tickets do not tell you clearly: **170 Drury Lane** and **23 Kingsway**, a few minutes apart. Check which address is on your booking before you set off.
 
@@ -94,6 +102,10 @@ The bar claims the cheapest pints in the West End, from £4.20, which for Covent
 *££ · 5 min from Bethnal Green*
 
 A purpose-built club rather than a room above a pub, founded by the comedian Lee Hurst. Proper sightlines, a raked floor, a real stage and booked bills — the east London answer to The Comedy Store, and the only venue in this guide east of the City built for the job.
+
+![The red Backyard Comedy Club sign above a lit-up brick shopfront in the evening, with posters in the windows](../../assets/articles/best-comedy-clubs-london/backyard-comedy-club-entrance.jpg)
+
+*The chalkboard by the door still reads "Comedy Tonight" as the room fills up.*
 
 **That is the practical difference.** In a pub room you take what seat you get and hope the person in front is short. Here everyone can see, which matters more than it sounds over a two-hour bill.
 
@@ -117,6 +129,10 @@ The **RAW** nights on Monday, Tuesday, Wednesday, Thursday and Sunday are where 
 
 Between three and six consecutive shows run each night, so you can stay for one or stay for the evening — and because it is free, leaving early costs you nothing, which changes how you watch.
 
+![The upstairs room at The Camden Head set for comedy, rows of wooden pub chairs and leather stools facing a black curtain with an angel emblem](../../assets/articles/best-comedy-clubs-london/angel-comedy-camden-head-stage.jpg)
+
+*The room is reset for each of the three to six shows that run here every night.*
+
 **The Camden Head is at N1 8DY**, on Camden Passage, three minutes from Angel station. It is a pub first: the bar is downstairs, the room is upstairs, and you are expected to buy a drink rather than obliged to.
 
 > ⚠️ **Free does not mean easy to get into.** At weekends, arrive up to **ninety minutes early** to collect a stamp. This is the single most common way people miss out.
@@ -128,6 +144,10 @@ Between three and six consecutive shows run each night, so you can stay for one 
 *Free seats · seven nights*
 
 Angel Comedy's second venue, a refurbished pub they bought and run themselves, five minutes from the first. It carries **the heavier programme of the two** — on a typical weekend it runs shows at 6pm, 5.30pm, 4pm, 7pm and 9.30pm across Friday to Sunday, which is four or five separate bills a day.
+
+![The corner exterior of The Bill Murray pub, with large painted portraits of comedians on red panels along the ground floor and the pub's name in gold lettering](../../assets/articles/best-comedy-clubs-london/the-bill-murray-mural.jpg)
+
+*The mural outside pairs comedy faces with the pub's own punning name.*
 
 New-material nights, Edinburgh previews and professional shows, with **at least a few free seats at most of them**.
 
@@ -173,6 +193,10 @@ Cheap neighbourhood nights with line-ups that embarrass their ticket prices.
 
 Widely rated one of the best comedy nights in London, in a Kennington pub back room, and known for **big-name special guests turning up unannounced** alongside the booked bill. If you want the story of having seen someone famous in a room of eighty people, this is where it happens.
 
+![A comedian holding a microphone on a small stage in front of an "Always Be Comedy" banner, with an audience seated in front of tropical-print wallpaper](../../assets/articles/best-comedy-clubs-london/always-be-comedy-performer.jpg)
+
+*The stage backdrop is a converted fireplace, vases and all.*
+
 **The unannounced guest is the whole model**, and it has a consequence worth understanding: the line-up you book against is not the line-up you get, and the surprise act is never advertised in advance. You are buying the room's booking record rather than a named bill.
 
 **It runs monthly rather than weekly**, which is the thing that catches people out — this is not a night you can drop into on a whim, and dates go on sale in advance and sell.
@@ -186,6 +210,10 @@ Kennington and Oval stations are each about five minutes, and there is nothing e
 **Around four pounds** for a bill mixing up-and-coming acts with comedians you will recognise from television — the cheapest good comedy in central London, in the back room of a King's Cross pub.
 
 **The pub is genuinely good in its own right**, which matters when you are arriving early for a seat: open every day noon to 11pm, food until 9.30pm, **pints at £5**, and 10% off food between noon and 4pm on weekdays with 20% for students.
+
+![The ground-floor bar at The Harrison, with mismatched wooden chairs and a door signed The Harrison Basement Venue](../../assets/articles/best-comedy-clubs-london/the-harrison-kings-cross-room.jpg)
+
+*The comedy is through that door and down the stairs, not in this room.*
 
 **There is also a pub quiz on Mondays, 7pm to 9.30pm**, so check which night you are coming for — the back room does not run comedy every night of the week.
 
@@ -209,6 +237,10 @@ New Cross and New Cross Gate stations are both close, and the Overground runs la
 
 Big names and hot new acts in the **glittery ex-servicemen's club** that is one of the best small rooms in London for anything — comedy, music or otherwise. Tickets cost a little more than the pub nights and the line-ups justify it.
 
+![A stage at MOTH Club with a gold tinsel curtain spelling "MOTH", a glittery gold ceiling and a black-and-red checkerboard floor](../../assets/articles/best-comedy-clubs-london/moth-club-stage.jpg)
+
+*The gold-glitter ceiling and checkerboard floor make the room unmistakable.*
+
 **MOTH stands for Memorable Order of Tin Hats**, a veterans' association, and the club still operates as one — the tinsel-curtained stage and Artex ceiling are original fittings rather than a design decision, which is why no amount of money could reproduce the room.
 
 **It is on Valette Street in Hackney**, about eight minutes from Hackney Central Overground, tucked in a residential block and unmarked enough that people walk past it.
@@ -224,6 +256,10 @@ Big names and hot new acts in the **glittery ex-servicemen's club** that is one 
 *££ · around 275 · Thu–Sun*
 
 Founded in **1991 by Malcolm Hardee** in an old church hall, and still the most gleefully hostile room in London — **the heckling is part of the format** rather than an interruption of it, and comedians either handle it or are eaten. It won the **first ever Chortle Award for Best Large Venue** in 2002.
+
+![The purple, gothic-arched former church hall frontage of Up the Creek, with painted comedy banners and an awning reading "Disco Party Nites" and "Hilariously Funny Live Comedy"](../../assets/articles/best-comedy-clubs-london/up-the-creek-exterior.jpg)
+
+*The purple, gothic-arched frontage suits the room's old-church-hall origins.*
 
 Not the room for a nervous first-timer, and exactly the room if you want to see what stand-up is actually like without a net.
 
@@ -262,6 +298,10 @@ Less a comedy club than the room where comedy becomes a show. New theatre, cabar
 *£ · above a pub*
 
 Above the Camden Head pub — **not the Islington pub of the same name**, which is where Angel Comedy runs, and the confusion sends people to the wrong borough regularly. This one is **NW1 0LU**, on Camden High Street.
+
+![The corner exterior of The Camden Head pub, established 1787, with a blue "Camden Comedy Club" sign on the roofline above hanging flower baskets](../../assets/articles/best-comedy-clubs-london/camden-comedy-club-camden-head.jpg)
+
+*The Camden Head's own signage does the work of telling the two pubs apart.*
 
 A consistent programme of touring acts, previews and new-material nights in a small upstairs room, and it is the most reliable comedy in Camden.
 

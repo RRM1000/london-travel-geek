@@ -17,6 +17,8 @@ tags:
   - day trips
   - things to do
 draft: false
+heroImage: "../../assets/articles/bridgerton-london/rangers-house-greenwich.jpg"
+heroImageAlt: "Ranger's House in Greenwich Park, a red-brick Georgian villa seen through its wrought-iron entrance gates"
 faq:
   - q: "Where is the real Bridgerton family house?"
     a: "The exterior is Ranger's House in Greenwich Park, Chesterfield Walk, SE10 8QX. English Heritage's own website calls it 'the exterior of the Bridgerton home in the award-winning Netflix series.' It is open on select dates only and must be booked ahead. For series four, Benedict Bridgerton's terrace scene and the house's below-stairs kitchen were filmed at Ham House in Richmond, a separate National Trust property that doubles as three different addresses in the show."
@@ -93,6 +95,9 @@ The locations in London:
 
 **"Ranger's House is an elegant Georgian villa, now best known as the exterior of the Bridgerton home in the award-winning Netflix series"** — English Heritage says so itself, on its own page for the building, alongside the property's real history as the Wernher Collection.
 
+![Ranger's House in Greenwich Park, a red-brick Georgian villa seen through its wrought-iron entrance gates](../../assets/articles/bridgerton-london/rangers-house-greenwich.jpg)
+*English Heritage opens the rooms behind this door on select dates only; the exterior and gardens are free every day.*
+
 **Chesterfield Walk, Blackheath, London, SE10 8QX**, inside Greenwich Park. The exterior and the grounds cost nothing — the **rose garden behind the house**, part of Greenwich Park itself, is free and at its best in June. The house interior is a different matter: English Heritage opens it on **select dates only**, booked online in advance, in Standard, Saver and Super Saver ticket tiers rather than a flat walk-up price. Members go free. As of 15 September 2026, the upper floors are not accessible to visitors with limited mobility — there is no interior lift and the exterior wheelchair platform is out of service.
 
 <div data-stay-strip></div>
@@ -101,11 +106,17 @@ The locations in London:
 
 Ham House stood in for **Bridgerton House, Penwood House and Benedict Bridgerton's country cottage, My Cottage**, in series four. The production built a flower-laden pergola on Ham's South Terrace for Sophie Baek and Benedict's scene during the opening ball, and shot the "below stairs" scenes in the house's genuine 17th-century kitchen.
 
+![Ham House in Richmond, a red-brick Jacobean mansion with tall chimneys, seen across the garden lawn and its reclining stone statue](../../assets/articles/bridgerton-london/ham-house-richmond.jpg)
+*The production built a flower-laden pergola on Ham's South Terrace for a series four scene between Sophie Baek and Benedict Bridgerton.*
+
 **Ham Street, Ham, Richmond, Surrey, TW10 7RS.** Checked 15 September 2026: **house 11:30am–3:30pm, garden 10am–5pm.** No pre-booking — go to Visitor Reception on arrival. **Adult £18.00 (£19.80 with Gift Aid), child (5–17) £9.00, family (2 adults + up to 3 children) £45.00.** National Trust members go free.
 
 ### Osterley Park and House, Isleworth
 
 Robert Adam's "Palace of Palaces" played the **Full Moon Ball** in series three's second episode — Location Manager Tony Hood told the National Trust the courtyard's grand columns "worked very well for the ball sequence," and the production rigged a crane outside to fake the moonlight. Osterley's Entrance Hall, designed as a ballroom in the first place, appears in several more scenes, dressed with around 500 LED candles.
+
+![The Entrance Hall at Osterley Park House, a patterned stone floor beneath a grey and white plasterwork ceiling](../../assets/articles/bridgerton-london/osterley-park-entrance-hall.jpg)
+*Around 500 LED candles dressed this hall, designed as a ballroom in the first place, for the Full Moon Ball scene.*
 
 **Jersey Road, Isleworth, Middlesex, TW7 4RB**, a short walk from Osterley Underground (Piccadilly line). Checked 15 September 2026: **house open Wednesday to Sunday, 11am–3:30pm** (closed Monday and Tuesday except bank holidays). **House and garden: adult £18.00 (£19.80 Gift Aid), child £9.00, family £45.00.** A garden-only ticket runs on the Monday/Tuesday closure days: **adult £10.00, child £5.00.** Car parking £7.
 
@@ -113,11 +124,17 @@ Robert Adam's "Palace of Palaces" played the **Full Moon Ball** in series three'
 
 Wikipedia's cited production sources put **Syon House and Badminton House together as Hastings House** — Simon Basset's London home — in series one. Syon is the one of the two that's actually open to visitors: the Duke of Northumberland's London house, with Robert Adam interiors and the Great Conservatory in its gardens.
 
+![The domed glasshouse of the Great Conservatory at Syon Park, seen across a fountain pool with a statue of Mercury](../../assets/articles/bridgerton-london/syon-house-great-conservatory.jpg)
+*Of the two houses said to have played Hastings House, Syon is the one actually open to visitors.*
+
 **Syon Park, Isleworth, TW7 6AZ.** The house opens for guided tours (up to 90 minutes, first tour 10:30am, last tour 2pm) on **Mondays and Tuesdays**, plus **self-guided entry Sundays and bank holidays, 10:30am–3:30pm** (last entry 2:30pm). **Adult £16.50, concession £15.00, child (5–16) £9.50, family (2 adults + 3 children) £48.00**, online. The gardens and Great Conservatory alone run the same three days, **10:30am–3:30pm: adult £7.00, concession £5.50, child £3.50.**
 
 ### Hampton Court Palace
 
 Historic Royal Palaces has its own dedicated page for this, titled "Film and TV locations at Hampton Court Palace," and it is specific: **Base Court** is where debutantes arrive to be presented to Queen Charlotte, **Fountain Court** carries several more of Charlotte's scenes, and **the Privy Garden "serves as the exterior of Queen Charlotte's palace."** All of it — plus the Great Fountain Garden — is included in a standard palace ticket, and the same locations reappear in the prequel, *Queen Charlotte: A Bridgerton Story*.
+
+![The Privy Garden at Hampton Court Palace, clipped yew obelisks radiating from a circular pond in front of a wrought-iron screen](../../assets/articles/bridgerton-london/hampton-court-privy-garden.jpg)
+*Historic Royal Palaces' own site says this garden "serves as the exterior of Queen Charlotte's palace."*
 
 Pricing until 27 November 2026: **adult £29.00 off-peak (weekdays) / £32.00 peak (weekends and bank holidays)**, child (5–15) £14.50/£16.00, under-5s free, senior and student £23.50/£25.50. Membership from £65 a year for unlimited entry. **East Molesey, Surrey, KT8 9AU.**
 
@@ -125,11 +142,17 @@ Pricing until 27 November 2026: **adult £29.00 off-peak (weekdays) / £32.00 pe
 
 **Lancaster House**, together with Hampton Court, stands in for **St James's Palace**. It is run by the Foreign, Commonwealth & Development Office as a government hospitality and events venue — the same building used for *The Crown*, *The King's Speech* and Churchill's 1953 coronation banquet — and has no regular public opening. **Stable Yard, St James's, London SW1A 1BB**, five minutes' walk from Green Park station; you can see the portico from the street and nothing more.
 
+![Lancaster House on Stable Yard, St James's, a cream stone mansion with a giant columned portico](../../assets/articles/bridgerton-london/lancaster-house-stable-yard.jpg)
+*The same building has doubled for The Crown and The King's Speech, and hosted Churchill's 1953 coronation banquet.*
+
 **The Reform Club**, 104 Pall Mall, SW1Y 5EW, is where Anthony Bridgerton and Simon Basset meet in series one — a genuine private members' club founded in 1836, still operating as one, with dining and event rooms rather than a public tour. Look at the facade on Pall Mall; membership is the only way in.
 
 ### The rest, briefly
 
 **Old Royal Naval College**, Greenwich, appears in series two. Its grounds are free and its Painted Hall ticketed — both already covered in our [Greenwich area guide](/articles/greenwich-area-guide/).
+
+![The Painted Hall at the Old Royal Naval College, Greenwich, its ceiling covered in James Thornhill's baroque murals](../../assets/articles/bridgerton-london/old-royal-naval-college-painted-hall.jpg)
+*The hall appears in series two; entry is ticketed separately from the college's free grounds.*
 
 **Hackney Empire** (291 Mare Street, E8 1EJ) supplied theatre scenes in series one, and **Wilton's Music Hall** (Graces Alley, E1 8JB) a meeting place in series two. Both are working venues, so the way in is a ticket to a show.
 
@@ -170,6 +193,9 @@ It is also still a family home — the Earl of Pembroke's family occupies roughl
 
 Hatfield's interior played the **Featheringtons' house** in series one and reappears in *Queen Charlotte*. **Checked 15 September 2026: Hatfield House itself is closed for the season** — the house reopens in spring — but the **Gardens and Park stay open Wednesday to Sunday, 10:30am–5pm, until 27 September 2026**, after which they close too. When the house is open, a combined House, Garden and Park ticket is **£27 adult, £13.50 child**; garden and park alone are **£17 adult, £8.50 child**. **Hatfield Park, Hatfield, Hertfordshire, AL9 5NB**, about 25 minutes from London King's Cross.
 
+![Hatfield House, a red-brick Jacobean mansion with a central white clock tower, seen across its clipped garden hedges](../../assets/articles/bridgerton-london/hatfield-house.jpg)
+*The house reappears in the prequel, Queen Charlotte: A Bridgerton Story, as well as in series one.*
+
 ### Painshill, Cobham
 
 An 18th-century landscape garden of follies, a Gothic Temple and a Crystal Grotto, used for **garden scenes** in series one. **Open daily, all year, 10am–6pm, last entry 5pm** — the Crystal Grotto specifically closes on Mondays for maintenance. Painshill is an independent charity, so **National Trust and English Heritage membership cards are explicitly not valid here**; admission is booked online through Painshill's own site, at a discount over the on-the-door rate. **Cobham, Surrey, KT11 1JE**, reachable from London Waterloo.
@@ -185,6 +211,9 @@ Castle Howard's own website states that the house **"doubled as Clyvedon Castle,
 ### Blenheim Palace, Oxfordshire
 
 Blenheim, Churchill's birthplace, stood in for **Buckingham House** in series three. A **Park & Gardens ticket is £34 adult / £18 child online**, and the full **Palace, Park & Gardens Pass is £44 adult / £27 child**, generally open **10am–5.30pm**. Oxford is under an hour from London Paddington; Blenheim is a short bus ride on from there.
+
+![Blenheim Palace seen across its formal water garden, with clipped hedges and a fountain in front of the baroque facade](../../assets/articles/bridgerton-london/blenheim-palace-water-garden.jpg)
+*A Park & Gardens ticket costs £34 for an adult; the full Palace, Park & Gardens Pass, including the interior, is £44.*
 
 ### Basildon Park, Berkshire
 

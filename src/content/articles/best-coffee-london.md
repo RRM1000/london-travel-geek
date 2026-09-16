@@ -2,12 +2,8 @@
 title: "The Best Coffee in London: 18 Roasters and Counters"
 seoTitle: "Best Coffee in London 2026: 18 Independent Shops"
 description: "London's best independent coffee — the roaster trading since 1978, a counter inside a Victorian lavatory, and beans roasted inside prisons."
-heroImage: "../../assets/articles/best-coffee-london/best-coffee-london.jpg"
-heroImageAlt: "A barista working at an espresso machine, seen from above"
-heroImageCredit: "Owen.outdoors"
-heroImageSource: "https://www.pexels.com/photo/barista-crafting-coffee-from-above-29462802/"
-heroImageLicense: "Pexels License"
-heroImageLicenseUrl: "https://www.pexels.com/license/"
+heroImage: "../../assets/articles/best-coffee-london/rosslyn-coffee-exterior.jpg"
+heroImageAlt: "The corner shopfront of Rosslyn Coffee on London Wall, with two customers on the outside bench holding takeaway cups"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london

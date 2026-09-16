@@ -9,6 +9,8 @@ sites:
   - london
 canonicalSite: london
 category: "Things to do"
+heroImage: "../../assets/articles/sherlock-holmes-london/sherlock-holmes-museum.jpg"
+heroImageAlt: "The recreated sitting room at the Sherlock Holmes Museum, with a guide in Victorian dress beside the fireplace and armchairs roped off for viewing"
 tags:
   - sherlock holmes
   - filming locations
@@ -71,6 +73,10 @@ The sites are spread over Marylebone, Euston, the City and Westminster. Every ad
 
 **<a href="https://www.getyourguide.com/activity/-t406534?partner_id=WWP7I0R&amp;cmp=sherlock-holmes-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London: Sherlock Holmes Guided City Walking Tour</a>** is priced as a private group rather than per person: **£180 for up to 15 people**, 3 hours, **5.0 from 7 reviews**. It runs from Piccadilly to Baker Street by way of Victoria Embankment, Downing Street, Piccadilly Circus and Trafalgar Square - for a full group, that's £12 a head or less.
 
+![A gilded, mosaic-tiled ceiling and walls inside the Criterion, with a painted sign pointing the way to the theatre](../../assets/articles/sherlock-holmes-london/the-criterion-piccadilly.jpg)
+
+*The tours on this page start here, outside the Criterion at 224 Piccadilly.*
+
 **<a href="https://www.getyourguide.com/activity/-t30595?partner_id=WWP7I0R&amp;cmp=sherlock-holmes-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London: Sherlock Holmes Tour by Black Cab</a>** covers similar ground from the back of a chauffeured London taxi: **£499 for up to six people**, 4 hours, **4.9 from 17 reviews**. It takes in locations from the Basil Rathbone and Robert Downey Jr. films as well as the books, and more than one reviewer says it ends at the Sherlock Holmes pub.
 
 <div data-stay-strip></div>
@@ -80,6 +86,10 @@ The sites are spread over Marylebone, Euston, the City and Westminster. Every ad
 **221b Baker St, Marylebone, London, NW1 6XE.** Open every day, **9:30am-6pm, last entry 5:30pm**. **£19 for an adult, £17 concession, £14 for a child under 16, free under 6.** Book online at sherlock-holmes.co.uk; the rooms are small and a queue is normal outside regardless.
 
 The museum occupies a four-storey Georgian townhouse built in 1815, one minute's walk from Baker Street station in [Marylebone](/articles/marylebone-area-guide/). It has traded as the Sherlock Holmes Museum since 1990, and its own plaque on the front marks Holmes's fictional residency "from 1881 to 1904" - the dates the stories imply, not a fact about the building's real history. A costumed constable greets visitors at the door, and guides in period dress lead the way up a narrow staircase into a recreation of the sitting room, furnished with Victorian curiosities rather than anything that belonged to a real person. Photography is allowed inside; filming needs permission first.
+
+![The recreated sitting room at the Sherlock Holmes Museum, with a guide in Victorian dress beside the fireplace and armchairs roped off for viewing](../../assets/articles/sherlock-holmes-london/sherlock-holmes-museum.jpg)
+
+*The room is roped off for viewing, like the rest of the museum's staged interiors.*
 
 Baker Street's numbering hadn't reached 221 when Conan Doyle wrote the stories in the 1880s, and the museum sits, in reality, between numbers 237 and 241 - it's signed 221b by arrangement rather than by the street's actual sequence. The ground floor holds what the museum calls the largest collection of Sherlock Holmes memorabilia in the world, and the shop sells deerstalkers, pipes and books both there and at shop.sherlock-holmes.co.uk.
 
@@ -91,11 +101,19 @@ Free, and viewable at any hour, **outside the Marylebone Road entrance to Baker 
 
 Holmes wears the deerstalker hat and Inverness cape that came from Sidney Paget's original magazine illustrations rather than Conan Doyle's own text, and holds a calabash pipe that's a later addition again.
 
+![The bronze Sherlock Holmes statue outside Baker Street station, wearing a deerstalker and Inverness cape and holding a pipe](../../assets/articles/sherlock-holmes-london/sherlock-holmes-statue.jpg)
+
+*The deerstalker, cape and pipe all come from illustrations and later films - Conan Doyle's own text never describes them exactly like this.*
+
 ## The Sherlock Holmes pub, Northumberland Street
 
 **10 Northumberland Street, WC2N 5DB**, between Charing Cross and Embankment stations. **Open 11am-11pm Monday to Saturday, 11am-10:30pm Sunday**; the kitchen runs to 10pm (9pm Sunday). A Greene King pub.
 
 It began as a small hotel, briefly the Northumberland Hotel and then the Northumberland Arms - a name that appears in Conan Doyle's own 1892 story "The Adventure of the Noble Bachelor," and which some Holmes scholars think is also the hotel of the same name in *The Hound of the Baskervilles*. The Turkish baths Holmes and Watson use in the stories stood next door at 25 Northumberland Avenue; the entrance to the women's side is still visible round the back, in Craven Passage.
+
+![The Sherlock Holmes pub's dark green frontage on Northumberland Street, lit for evening with pavement tables outside](../../assets/articles/sherlock-holmes-london/sherlock-holmes-pub.jpg)
+
+*A Greene King pub today, between Charing Cross and Embankment stations.*
 
 **Its real draw is upstairs.** The collection began at the 1951 Festival of Britain, when Marylebone Public Library and Abbey National built a full recreation of Holmes's sitting room for a temporary exhibition, gathering props down to a Persian slipper for his tobacco and a gasogene for Watson's soda. After a world tour that reached New York, the brewer Whitbread bought the entire exhibit and reopened this pub under its current name in December 1957 to house it permanently. The recreation now sits behind glass on the first floor, visible from the roof terrace and the restaurant. Downstairs, the bar carries Watson's prop service revolver, theatre posters and the mounted head of the Hound of the Baskervilles.
 
@@ -105,9 +123,17 @@ It began as a small hotel, briefly the Northumberland Hotel and then the Northum
 
 In Conan Doyle's *A Study in Scarlet* (1887), Holmes and Watson meet for the first time in a chemical laboratory at Barts, where Watson - a former army doctor - is introduced as an old student of the hospital. The BBC series used the same building twice over: for its own version of that first meeting in "A Study in Pink" (2010), and for the roof Holmes appears to jump from at the end of "The Reichenbach Fall" (2012), a fall resolved the following series in "The Empty Hearse."
 
+![The stone archway entrance to St Bartholomew's Hospital in West Smithfield, with its name carved above the gate](../../assets/articles/sherlock-holmes-london/st-bartholomews-hospital.jpg)
+
+*Holmes and Watson meet for the first time here in Conan Doyle's 1887 novel, A Study in Scarlet.*
+
 ## North Gower Street: the BBC's 221B
 
 **187 North Gower Street, NW1 2NJ**, three minutes from Euston Square station and a mile east of the real Baker Street, just north of [Bloomsbury](/articles/bloomsbury-area-guide/). Free to view; the flat itself is a private residence.
+
+![Speedy's Sandwich Bar and Café on North Gower Street, between two black Georgian doors numbered 187 and 189](../../assets/articles/sherlock-holmes-london/speedys-cafe-north-gower-street.jpg)
+
+*The numbered door on the left, 187, is the flat; Speedy's takes the shopfront next to it.*
 
 The production filmed here rather than on Baker Street because the real street was too busy to close for filming, and already carried too many things labelled "Sherlock Holmes" to disguise for the shoot. **Speedy's café, next door, is real and still trading.** Go in and buy something rather than only photographing the door.
 
@@ -119,7 +145,15 @@ Two addresses, and neither is on Baker Street.
 
 **2 Upper Wimpole Street, Marylebone.** Conan Doyle opened a consulting room here in 1891, planning to work as an ophthalmologist after training in Vienna. By his own account no patients ever came; he wrote the first five Sherlock Holmes short stories at this address instead, while waiting for a practice that never arrived. A Westminster City Council plaque marks the building today.
 
+![The black door of 2 Upper Wimpole Street, with the green Westminster City Council plaque to Sir Arthur Conan Doyle beside it](../../assets/articles/sherlock-holmes-london/conan-doyle-upper-wimpole-street.jpg)
+
+*The plaque credits both Westminster City Council and the Arthur Conan Doyle Society.*
+
 **The Langham, 1c Portland Place, W1B 1JA.** In August 1889, the American editor Joseph Marshall Stoddart hosted a dinner here that commissioned two of the era's biggest literary works in one evening: Conan Doyle went away to write *The Sign of the Four*, and Oscar Wilde went away to write *The Picture of Dorian Gray*. Conan Doyle also set scenes from that novel and from "A Scandal in Bohemia" partly at the hotel itself. A City of Westminster green plaque, unveiled in 2010, marks the dinner today.
+
+![The Langham hotel's red-brick and stone facade on Portland Place, seen from below at dusk](../../assets/articles/sherlock-holmes-london/the-langham-london.jpg)
+
+*The 1889 dinner here produced both this book and Oscar Wilde's The Picture of Dorian Gray, commissioned the same evening.*
 
 ## One day, self-guided
 
