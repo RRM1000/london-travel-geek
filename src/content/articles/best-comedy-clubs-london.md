@@ -2,12 +2,8 @@
 title: "The Best Comedy Clubs in London: 17 Nights, 8 Venues and 4 Festivals"
 seoTitle: "Best Comedy Clubs London 2026: Free Nights & Big Names"
 description: "Where alternative comedy started in 1979, a pub running free stand-up seven nights a week, the theatres that book the touring names, and why every London comedy festival lands in the same six weeks."
-heroImage: "../../assets/articles/best-comedy-clubs-london/best-comedy-clubs-london.jpg"
-heroImageAlt: "A stand-up comedian holding a microphone in front of a neon-lit wall"
-heroImageCredit: "Zaid Mohammed"
-heroImageSource: "https://www.pexels.com/photo/man-holding-a-mic-10078868/"
-heroImageLicense: "Pexels License"
-heroImageLicenseUrl: "https://www.pexels.com/license/"
+heroImage: "../../assets/articles/best-comedy-clubs-london/always-be-comedy-performer.jpg"
+heroImageAlt: "A comedian on the small stage at Always Be Comedy in Kennington, working a packed room from a few feet away"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london

@@ -2,12 +2,8 @@
 title: "Late-Night Eating in London: Where to Eat After Midnight"
 seoTitle: "Late Night Food London 2026: Open After Midnight"
 description: "A 24-hour caff with no front door, ramen at 1am, Whitechapel lamb chops and a fry-up forty floors up — where London actually feeds you late."
-heroImage: "../../assets/articles/late-night-eating-london/late-night-eating-london.jpg"
-heroImageAlt: "A neon diner sign glowing on a London street at night"
-heroImageCredit: "Tony Hisgett"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:London_Diner_Neon_(15668575322).jpg"
-heroImageLicense: "CC BY 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+heroImage: "../../assets/articles/late-night-eating-london/duck-waffle-heron-tower-view.jpg"
+heroImageAlt: "The dining room at Duck & Waffle, forty floors up in the Heron Tower, with floor-to-ceiling windows over the City at dusk"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london
@@ -76,6 +72,10 @@ Those places are genuinely good — this is not a list of last resorts.
 
 Forty floors up in the Heron Tower and **open 24 hours, every day** — the only place in London where you can watch the sun come up over the City with a plate in front of you.
 
+![The dining room at Duck & Waffle, forty floors up in the Heron Tower, with floor-to-ceiling windows over the City at dusk](../../assets/articles/late-night-eating-london/duck-waffle-heron-tower-view.jpg)
+
+*The room wraps around the fortieth floor in curved booths, with an ice bucket already on the table for the wine list.*
+
 The claim is stated three separate times on their own site, in the hero copy, the hours block and the contact page, so it is not a stale line nobody removed. The signature dish — confit duck leg, fried duck egg and mustard maple syrup on a waffle — is **£26**.
 
 **Book even at 2am; the room is small for the demand.** Reservations run through their site up to two months ahead, and they do not promise walk-ins. **Card only, no cash**, and the dress code is smart casual.
@@ -89,6 +89,10 @@ The claim is stated three separate times on their own site, in the hero copy, th
 Open every minute of every day since 1953, run by the same family, and **it has no front door** — there was never any point fitting one. The single exception is Christmas Day, when a sheet of plywood goes over the entrance.
 
 **This is the cheap 24-hour option and Duck & Waffle is the expensive one**, and they are four minutes apart. A fry-up here costs a fraction of a plate forty floors up, and it is open just as continuously.
+
+![A full English breakfast on a plate reading "Feeding Hungry Londoners 24/7" at Polo Bar](../../assets/articles/late-night-eating-london/polo-bar-fry-up.jpg)
+
+*Bacon, sausage, black pudding, beans and toast, on Polo Bar's own branded china.*
 
 **It is a caff, not a restaurant.** Formica, a counter, no bookings and no ceremony — which is the entire point at three in the morning.
 
@@ -106,6 +110,10 @@ The best late food in London, and the least glamorous setting for it.
 
 The **sizzling lamb chops** arrive still spitting on the plate and are the reason the queue forms outside before service. Trading since 1972, loud, packed, and nothing about it has been softened for anybody.
 
+![The dark green shopfront of Tayyabs on Fieldgate Street, with "EST. 1972" lettered on the windows](../../assets/articles/late-night-eating-london/tayyabs-storefront.jpg)
+
+*Shot before service — no sign yet of the queue that forms once the kitchen opens.*
+
 **Bring your own alcohol** — no licence, little corkage, and that is where the saving is. A group can eat and drink here for what the drinks alone cost in the City twenty minutes away.
 
 > ⚠️ **It is a late dinner, not a small-hours meal.** Their own listing closes at **11.30pm**, so this belongs in an evening rather than after one. If it is past midnight, Beigel Bake or the Edgware Road are the answer instead.
@@ -117,6 +125,10 @@ The **sizzling lamb chops** arrive still spitting on the plate and are the reaso
 *££ · since 1972*
 
 Lamb chops, dry lamb curry and chicken karahi, in a room that has never pretended to be anything else — strip lights, hard chairs and a kitchen that has been doing the same thing since 1972.
+
+![Charred lamb chops on a plate at Original Lahore Kebab House, with a metal pot of dip alongside](../../assets/articles/late-night-eating-london/lahore-kebab-house-lamb-chops.jpg)
+
+*The chops come charred on the bone, with a tangy dip on the side for dredging.*
 
 **The other half of the Whitechapel answer**, two minutes from Tayyabs, and the pragmatic move is to walk to whichever has the shorter queue. They are close enough that you can look at both before committing.
 
@@ -136,6 +148,10 @@ Lamb chops, dry lamb curry and chicken karahi, in a room that has never pretende
 
 Rough, quick and mostly takeaway. The **chicken shawarma wrap** — garlic sauce, pickles, carved off the vertical spit to order — is what the queue out of the door late on a weekend is for, and the queue is an Edgware Road institution in itself.
 
+![A chicken shawarma wrap at Ranoush Juice, filled with garlic sauce, pickle and carved meat](../../assets/articles/late-night-eating-london/ranoush-juice-shawarma-wrap.jpg)
+
+*The garlic sauce is toum, whipped to the consistency of mayonnaise, and it does as much work as the meat.*
+
 **There are a handful of seats and they are not the point.** This is a counter you order at, wait beside and walk away from.
 
 **The whole corridor works this way.** Edgware Road is one of the two genuinely cheap late-night stretches in London — grills, bakeries and juice bars running well past midnight at daytime prices, with no markup for the hour.
@@ -149,6 +165,10 @@ Rough, quick and mostly takeaway. The **chicken shawarma wrap** — garlic sauce
 An Edgware Road institution that comes into its own long after everywhere else has shut — **late-night trading is the point of it rather than a bonus**, and the room fills as the rest of the street winds down.
 
 Lebanese grills, mezze and mixed plates, plus the shisha terrace that keeps the pavement busy in warm weather.
+
+![A mixed grill plate at Cafe Helen with hummus, moutabal and shredded lamb and chicken shawarma](../../assets/articles/late-night-eating-london/cafe-helen-mixed-grill.jpg)
+
+*Hummus on the left, moutabal — grilled aubergine blended with tahini — on the right, with shawarma off both spits.*
 
 **It is a sit-down room rather than a counter**, which is the difference from Ranoush a few doors along: come here when you want to eat at a table at 1am rather than walk with a wrap.
 
@@ -164,6 +184,10 @@ Lebanese grills, mezze and mixed plates, plus the shisha terrace that keeps the 
 
 The **tonkotsu broth recipe was worked out in Fukuoka** before the first London site opened, and the queue outside has barely shortened since. Pork bone broth simmered for hours, thin straight noodles, chashu and a marinated egg.
 
+![A queue stretching along the pavement outside Kanada-Ya's St Giles High Street branch](../../assets/articles/late-night-eating-london/kanada-ya-queue.jpg)
+
+*The queue holds even in daylight; the patio heater by the window is there for the wait, whatever the season.*
+
 **No bookings at any site.** Their own advice is that the queue is shortest before noon, which is not much help at midnight — so expect to wait, and expect to eat quickly once seated, because the turnover is the model.
 
 **Check which branch you are going to.** There are several across London and they do not keep the same hours; the St Giles High Street site near Covent Garden is the one this entry means, at **WC2H 8LE**, four minutes from Tottenham Court Road.
@@ -173,6 +197,10 @@ The **tonkotsu broth recipe was worked out in Fukuoka** before the first London 
 *££ · 7 min from Old Street · no reservations*
 
 A single-site ramen bar on Old Street that takes **no reservations** and has outlasted most of the chains that opened around it — founded by Ian Wheatley, who quit an office job, trained at a ramen school in Japan and spent six months at Ippudo before opening as a pop-up in 2015.
+
+![A bowl of ramen with a marinated egg, chashu and chilli oil at Monohon Ramen](../../assets/articles/late-night-eating-london/monohon-ramen-bowl.jpg)
+
+*Chilli oil, a marinated egg and bean sprouts finish the bowl, chashu piled on the side.*
 
 **Walk in and wait.** There is no list, no app and no way to skip it, and the room is small.
 
@@ -192,6 +220,10 @@ Four floors doing **trolley-era dim sum the old way** — ordered from a paper s
 
 **Har gau, siu mai and cheung fun** are the benchmarks, and this is where to judge them: it has been on Leicester Street since long before dim sum became a brunch.
 
+![Cheung fun rice noodle rolls in soy sauce at Joy King Lau, Chinatown](../../assets/articles/late-night-eating-london/joy-king-lau-cheung-fun.jpg)
+
+*Each roll is filled and steamed to order, finished with sesame seeds and a sweet soy dressing.*
+
 **Chinatown is the late corridor most visitors overlook**, and its noodle and roast-meat rooms are priced for the people who work in them rather than for tourists.
 
 **3 Leicester Street, WC2H 7BL**, two minutes from Leicester Square — which puts it closer to the West End theatres than anything else on this page.
@@ -201,6 +233,10 @@ Four floors doing **trolley-era dim sum the old way** — ordered from a paper s
 *£££ · Baker Street*
 
 The dim sum benchmark in London, and open later than most of the halls it is measured against — a large, formal room on Baker Street doing the classics properly rather than cheaply.
+
+![The large, gold-walled dining room at Royal China, set with round tables and lazy susans](../../assets/articles/late-night-eating-london/royal-china-dining-room.jpg)
+
+*Round tables with lazy susans, laid for the group bookings the room is built around.*
 
 **It is the expensive end of this page** and reads as a restaurant rather than a late stop, which is exactly why it is worth knowing about after 10pm when the alternatives have thinned out.
 
@@ -213,6 +249,10 @@ The dim sum benchmark in London, and open later than most of the halls it is mea
 *£ · pizza by the slice*
 
 **Enormous New York slices**, folded, sold by the slice, which is the only specification that matters at that time of night.
+
+![A giant pepperoni pizza slice on a paper plate at Voodoo Ray's, Dalston](../../assets/articles/late-night-eating-london/voodoo-rays-pizza-slice.jpg)
+
+*A single slice regularly overhangs a standard paper plate — this one blistered at the crust from the deck oven.*
 
 > ⚠️ **It is not open into the small hours most of the week.** Their own listing is **Monday to Wednesday 5pm–10pm, Thursday 5pm–11pm, Friday 5pm–2am, Saturday 1pm–2am and Sunday 1pm–10pm.** So the 2am pizza is a **Friday and Saturday** proposition, and on a Tuesday it shuts before a lot of restaurants do.
 

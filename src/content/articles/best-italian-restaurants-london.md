@@ -81,6 +81,9 @@ The principle is a short menu of very few ingredients handled precisely: **wood-
 
 **££££ and it books months ahead. The terrace tables are the ones everyone wants** and go first — ask specifically. Informal in atmosphere, upmarket in every other respect.
 
+![A triangular slice of dark chocolate nemesis cake with a spoon of crème fraîche, on a white plate](../../assets/articles/best-italian-restaurants-london/river-cafe-chocolate-nemesis.jpg)
+*Served with a spoonful of crème fraîche and nothing else on the plate.*
+
 ### Luca, Clerkenwell
 
 *£££ · 4 min from Farringdon · book weeks ahead · Cited by 8 sources · 1 Michelin star*
@@ -90,6 +93,9 @@ The principle is a short menu of very few ingredients handled precisely: **wood-
 The **parmesan fries** are the thing everyone mentions and deserve it, but the pasta is the reason to go: hand-rolled, changing weekly, built on British ingredients rather than imported ones. There is a bar at the front that takes walk-ins and a conservatory dining room behind it.
 
 **£££, closed Sunday, books weeks ahead.** Clerkenwell. The bar menu is a cheaper way into the same kitchen.
+
+![Crisp parmesan fries piled on paper and dusted with grated cheese, on a white plate](../../assets/articles/best-italian-restaurants-london/luca-parmesan-fries.jpg)
+*Served in a heap on paper, finished with a heavy grating of parmesan.*
 
 ### Murano, Mayfair
 
@@ -218,6 +224,9 @@ Sicily's Arab inheritance is the through-line and the reason it does not taste l
 
 **£££, closed Sunday, and it books ahead.** Charlotte Street. The ground-floor raw bar takes walk-ins when the dining rooms above have gone.
 
+![The Norma frontage on a sunny day, with diners at outdoor tables under a striped awning](../../assets/articles/best-italian-restaurants-london/norma-fitzrovia-frontage.jpg)
+*Pavement tables under a striped awning, olive trees either side of the door.*
+
 ### Campania & Jones, Bethnal Green — Campanian
 
 *£££ · a converted dairy · Cited by 4 sources*
@@ -228,6 +237,9 @@ Pasta is made by hand every day and the menu is short enough that the kitchen cl
 
 **Go on a Sunday** and do the flower market first — it runs 8am to about 3pm.
 
+![A plate of pasta with clams and mussels in a light tomato sauce](../../assets/articles/best-italian-restaurants-london/campania-and-jones-seafood-pasta.jpg)
+*Pasta with clams and mussels — Campania's coastline in a bowl.*
+
 ### Brutto, Clerkenwell — Florentine
 
 *££ · 4 min from Farringdon · Cited by 4 sources*
@@ -237,6 +249,9 @@ Deliberately unfussy Florentine cooking from the late Russell Norman, who did mo
 **The bistecca is the order** — an 800g Florentine T-bone for sharing, priced by weight at around £8.25 per 100g, so a big one lands near £80 between two. The rest is cheap, short and knows what it is for: crostini, a few pastas, and negronis at prices that belong to another decade.
 
 Walk-ins are taken at the bar.
+
+![The gold-lettered Trattoria Brutto sign above pale green shopfront doors, with an Aperto sign hanging](../../assets/articles/best-italian-restaurants-london/brutto-trattoria-frontage.jpg)
+*Pale green shopfront doors under the gold-lettered sign, "Aperto" hung out front.*
 
 ### Artusi, Peckham — seasonal Italian
 
@@ -275,6 +290,9 @@ Six or seven pastas at a time, rolled in the room and rotated constantly: **caci
 
 **££, and it takes bookings**, which is the advantage over Padella. Islington is the original; there are sites in Shoreditch and Battersea.
 
+![A dark bowl of wide paccheri tubes in a brown ragù, topped with a curl of soft cheese](../../assets/articles/best-italian-restaurants-london/noci-pasta-ragu.jpg)
+*Wide pasta ribbons in a dark ragù, finished with a spoon of soft cheese.*
+
 ### Ornella, London Fields — Milanese
 
 *££ · 7 min from Hackney Central*
@@ -285,6 +303,9 @@ Milanese means butter and rice rather than olive oil and tomato: **risotto alla 
 
 **££, closed Monday and Tuesday, and it books ahead.** A small neighbourhood room; the pavement tables go first in summer.
 
+![Saffron-yellow risotto alla milanese topped with a braised, bone-in veal shank and gremolata](../../assets/articles/best-italian-restaurants-london/ornella-risotto-milanese.jpg)
+*Risotto alla milanese under a braised, bone-in veal shank with gremolata — the classic Milanese pairing.*
+
 ### Macellaio RC, South Kensington — Piedmontese
 
 *£££ · 5 min from South Kensington*
@@ -294,6 +315,9 @@ Milanese means butter and rice rather than olive oil and tomato: **risotto alla 
 Fassona is a lean Piedmontese breed, and the point is that it is served rare and unadorned: **tagliata**, carpaccio and a **battuta** tartare cut by hand. Pasta and a short Italian list around it, but the beef is why the shop is there.
 
 **£££, and it books ahead.** Several London sites; South Kensington is the original. Steak is priced by weight and cut in front of you.
+
+![Sliced tagliata steak with the bone alongside, seared and pink in the middle, on a dark plate with sea salt](../../assets/articles/best-italian-restaurants-london/macellaio-rc-tagliata.jpg)
+*Tagliata sliced off the bone, finished with nothing but sea salt.*
 
 ---
 
@@ -306,6 +330,9 @@ Sometimes the room is the booking. These are the ones people photograph before t
 ### The Big Mamma group
 
 Five London rooms from the same French-Italian group, all built to be looked at: maximalist, loud, all-Italian menus, big portions and fair prices. **The food is good rather than remarkable. What you are booking is the spectacle**, and on that they deliver completely.
+
+![A tall slice of lemon meringue pie with a torched top, on a blue and white patterned plate](../../assets/articles/best-italian-restaurants-london/circolo-popolare-lemon-meringue-pie.jpg)
+*The torched meringue top, on Circolo's blue-and-white house plates.*
 
 - **Circolo Popolare**, Fitzrovia — the wall of thousands of backlit bottles, and a lemon meringue pie the size of a fin. The most-photographed of the five. *Cited by 3 sources* · [Book](https://www.sevenrooms.com/explore/circolopopolare/reservations/create/search?venues=avemariolondon%2Ccircolopopolare%2Ccarlottauk%2Cgloria%2Cjacuzzi%2Cbarbarellacanarywharf&tracking=bmg)
 - **Ave Mario**, Covent Garden — stripy humbug walls and bright red seats across a basement, with a carousel bar. *Cited by 3 sources* · [Book](https://www.sevenrooms.com/explore/avemariolondon/reservations/create/search?venues=avemariolondon%2Ccircolopopolare%2Ccarlottauk%2Cgloria%2Cjacuzzi%2Cbarbarellacanarywharf&tracking=bmg)
@@ -325,6 +352,9 @@ Italian small plates rather than a full menu: cauliflower fritti with aioli, bur
 
 **Go for the golden hour and go early.** It is first-come on the terrace and everyone else has had the same idea.
 
+![Two hands clinking cocktail glasses on a rooftop terrace at sunset, with the London skyline behind](../../assets/articles/best-italian-restaurants-london/forza-wine-golden-hour-terrace.jpg)
+*Golden hour on the terrace, looking out toward the city skyline.*
+
 ### Sale e Pepe, Knightsbridge
 
 *£££ · 3 min from Knightsbridge · Cited by 3 sources*
@@ -334,6 +364,9 @@ Italian small plates rather than a full menu: cauliflower fritti with aioli, bur
 The cooking is the classic Italian repertoire done properly rather than reinvented: **hand-made pasta, veal milanese, whole fish** and a trolley of desserts. Portions are large and the room is deafening by nine.
 
 **£££ and it books ahead.** Pavilion Road, minutes from Harrods, and the antithesis of everything else in the area.
+
+![A trolley of desserts including cheesecake, lemon meringue pie and cannoli, plated and ready to serve](../../assets/articles/best-italian-restaurants-london/sale-e-pepe-dessert-trolley.jpg)
+*Cheesecake, cannoli and lemon meringue — the trolley works its way round the table.*
 
 ### Cecconi's, Mayfair
 
