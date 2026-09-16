@@ -174,6 +174,13 @@
     {
       "id": "bayeux-2026-tickets-sold-out",
       "what": "The bigger Bayeux fact, found 9 Sept: tickets for 10 Sept-31 Dec 2026 are SOLD OUT, so a reader arriving in October cannot buy for their own trip - only for Jan-Mar 2027. There is also a FREE opening festival on 9-11 October (Bayeux Late, Big Bayeux Bash) which does NOT include entry to the Tapestry. That has to be printed explicitly or people will turn up expecting to see it."
+    },
+    {
+      "id": "national-pizza-awards-finals",
+      "what": "National Pizza Awards finals, 3 November 2026 (Rob). The finalists are already named on the awards site and several are London pizzerias — check who wins and update the pizza guide.",
+      "due": "2026-11-03",
+      "source": "https://nationalpizzaawards.co.uk/finalists",
+      "added": "2026-09-16"
     }
   ],
   "decided": [
