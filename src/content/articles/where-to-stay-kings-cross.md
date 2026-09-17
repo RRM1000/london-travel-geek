@@ -120,13 +120,11 @@ The format is graded rather than dormitory-and-nothing-else. **Pods from £50** 
 
 **Two catches worth knowing before you book a pod.** It has **no lockable door of its own** — the room is secured by digital key, not the berth — and **no food or drink is allowed in pod rooms**, water excepted. Check-in is 15:00, check-out 11:00, and the ground-floor Commons does coffee, pastries, pizza and natural wine.
 
-### Clink 261 — the hostel that is open, because the famous one is not
+### Clink 261 — dorms and a self-catering kitchen
 
 *261–265 Gray's Inn Road, WC1X 8QT · Ten minutes' walk · Kitchen, bar and café*
 
-Start with the correction, because it is the single most out-of-date fact about budget beds in King's Cross. **Clink78 — the Victorian magistrates' court where The Clash stood trial, with beds in the old cells — is closed for renovation and its own site says it will not reopen until 2027.** Do not book it, and be careful with listings that still sell it.
-
-Clink 261, ten minutes' walk from the station on Gray's Inn Road, is the one taking bookings. It runs **mixed dorms sleeping 1 to 18, female-only dorms of 4 to 10, pod beds with privacy screens, twin rooms and private rooms for up to six**, with a full self-catering kitchen — the thing not one of London's [dedicated capsule hotels](/articles/pod-hotels-london/) has — plus a bar and a café doing pizza and coffee.
+Clink 261 runs **mixed dorms sleeping 1 to 18, female-only dorms of 4 to 10, pod beds with privacy screens, twin rooms and private rooms for up to six**, with a full self-catering kitchen — the thing not one of London's [dedicated capsule hotels](/articles/pod-hotels-london/) has — plus a bar and a café doing pizza and coffee.
 
 **Check-in is 4pm and check-out 10am**, an hour earlier than Kabannas, with late check-out to noon charged. Dorm lockers need your own padlock. Booking direct saves 15%.
 

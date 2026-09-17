@@ -216,13 +216,11 @@ St Christopher's runs **four London hostels**: The Inn and The Village on Boroug
 
 One honest note: the four branches draw sharply different reviews, and the Village in particular collects both "exceptionally clean" and, from a different traveller, one of the worst write-ups of any hostel in our research. Read recent reviews for the specific branch, not the brand.
 
-### [Clink 261](hotel:clink261) — the King's Cross one that is actually open
+### [Clink 261](hotel:clink261) — pod beds, adults only
 
 261–265 Gray's Inn Road, WC1X 8QT, ten minutes from King's Cross St Pancras. Pod beds with privacy screens, mixed dorms sleeping 1 to 18, female dorms 4 to 10, private rooms 1 to 6, a self-catering kitchen, a bar and a café. **Every one of those room types uses a shared bathroom.**
 
 Strict 18+, no exceptions. Check-in is **4pm** and check-out **10am**: a late check-in and an early check-out, so plan around it if you arrive on an early train or leave on a late flight. Early check-in, and late checkout to noon, are sold as extras. Every pod bed has its own locker; larger ones cost extra; towels are included in private rooms and rented to dorm guests. No curfew, 24-hour reception, no outside food deliveries. Book direct with `SEEYOUSOON` for up to 15% off.
-
-**Do not book Clink78 by mistake.** It is around the corner, it is closed for renovation until 2027, and guides and booking sites still list it.
 
 ![One of Clink 261's dorms, with red privacy screens between bunks and a skylight over the room](../../assets/articles/best-hostels-london/clink261-dorm.jpg)
 

@@ -198,7 +198,7 @@ The problem is arithmetic: **£42 in Zone 2 against £33 in Zone 1** on a quiet 
 
 Most published lists of London capsule hotels are wrong, and it is worth knowing what they are counting.
 
-**Hostels with curtained bunks** — Clink78 and Clink261, Wombat's, Safestay, The Dictionary, and most of the St Christopher's sites — are hostels. A curtained or panelled bunk in a six-bed dorm is a better bunk, not a capsule. They do have kitchens, bars and events, which the dedicated capsule hotels do not, so the trade is genuine either way.
+**Hostels with curtained bunks** — Clink261, Wombat's, Safestay, The Dictionary, and most of the St Christopher's sites — are hostels. A curtained or panelled bunk in a six-bed dorm is a better bunk, not a capsule. They do have kitchens, bars and events, which the dedicated capsule hotels do not, so the trade is genuine either way.
 
 **Clink261 is the closest near-miss**, and worth naming because anyone searching for a capsule will land on it. Its **POD beds** — their word, in a 14-bed mixed dorm — have ventilation, a reading light, USB and a socket, which is better fitted than a Zedwell berth. But they close with a **curtain** rather than a door or a shutter, and that is the line: if it draws rather than latches, it is a bunk.
 

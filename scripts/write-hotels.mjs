@@ -999,15 +999,15 @@ const ROWS = [
     // A traveller on r/uktravel in August 2026 had stayed: five minutes from
     // King's Cross St Pancras, "no complaints", breakfast buffet.
     ...base, slug: "clink261", name: "Clink 261",
-    propertyType: "hostel", style: "Hostel around the corner from the old Clink courthouse",
+    propertyType: "hostel", style: "Pod-bed hostel on Gray's Inn Road",
     brand: "clink", chainType: "mini-chain",
     hood: "King's Cross", borough: "Camden", areaGuide: "kings-cross-area-guide",
     address: "261-265 Gray's Inn Road", postcode: "WC1X 8QT",
     priceBand: "£", breakfast: "",
     roomTypes: "Mixed dorms 1-18, female-only dorms 4-10, twin and private rooms to 6",
-    whyGo: "Pod beds with privacy screens rather than open bunks, ten minutes' walk from King's Cross St Pancras, with a self-catering kitchen, a bar and a cafe - the practical Clink rather than the one with the cells.",
+    whyGo: "Pod beds with privacy screens rather than open bunks, ten minutes' walk from King's Cross St Pancras, with a self-catering kitchen, a bar and a cafe.",
     angle: "value",
-    opSummary: "Not to be confused with Clink78 around the corner, which closed for renovation and is not due back until 2027 - guides and booking sites still list it. Booking direct saves 15%. Check-in 4pm, check-out 10am, which is a tight turnaround if you arrive on an early train.",
+    opSummary: "Booking direct saves 15%. Check-in 4pm, check-out 10am, which is a tight turnaround if you arrive on an early train.",
     goodFor: "solo, budget, groups",
     website: "https://www.clinkhostels.com/london/clink261/",
     hotelsUrl: "https://uk.hotels.com/ho461799/clink-261-hostel-london-united-kingdom/",

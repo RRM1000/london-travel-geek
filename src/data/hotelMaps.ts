@@ -289,7 +289,7 @@ export const hotelMaps: Record<string, HotelMapMarker[]> = {
       note: "Ten minutes from King's Cross St Pancras. A shared bathroom on every room type, and strict 18+.",
       latitude: 51.52901,
       longitude: -0.120071,
-      articleAnchor: "#clink-261--the-kings-cross-one-that-is-actually-open",
+      articleAnchor: "#clink-261--pod-beds-adults-only",
     },
     {
       name: "Generator London King's Cross",

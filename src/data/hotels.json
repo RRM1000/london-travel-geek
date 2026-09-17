@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11",
+ "generated": "2026-09-17",
  "count": 219,
  "hotels": [
   {
@@ -105,7 +105,7 @@
    "slug": "clink261",
    "name": "Clink 261",
    "propertyType": "hostel",
-   "style": "Hostel around the corner from the old Clink courthouse",
+   "style": "Pod-bed hostel on Gray's Inn Road",
    "brand": "clink",
    "chainType": "mini-chain",
    "area": "King's Cross",
@@ -117,8 +117,8 @@
    "postcode": "WC1X 8QT",
    "priceBand": "£",
    "roomTypes": "Mixed dorms 1-18, female-only dorms 4-10, twin and private rooms to 6",
-   "whyGo": "Pod beds with privacy screens rather than open bunks, ten minutes' walk from King's Cross St Pancras, with a self-catering kitchen, a bar and a cafe - the practical Clink rather than the one with the cells.",
-   "opNote": "Not to be confused with Clink78 around the corner, which closed for renovation and is not due back until 2027 - guides and booking sites still list it. Booking direct saves 15%. Check-in 4pm, check-out 10am, which is a tight turnaround if you arrive on an early train.",
+   "whyGo": "Pod beds with privacy screens rather than open bunks, ten minutes' walk from King's Cross St Pancras, with a self-catering kitchen, a bar and a cafe.",
+   "opNote": "Booking direct saves 15%. Check-in 4pm, check-out 10am, which is a tight turnaround if you arrive on an early train.",
    "goodFor": [
     "solo",
     "budget",
