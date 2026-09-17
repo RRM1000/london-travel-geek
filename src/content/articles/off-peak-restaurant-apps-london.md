@@ -149,7 +149,7 @@ One free part is worth a line: **the Loyalty scheme is not a paid service**. Any
 
 **Deliveroo Reservations** launched in London in 2026 and is the only genuinely new thing here. Book a table through the app, turn up, and **claim £10 Deliveroo credit** — no booking fee. The London list is strong: **SUSHISAMBA**, **Duck & Waffle**, **Osteria Locatelli** at the National Gallery, **50 Kalò**, **Beast**, **Parrillan** at Coal Drops Yard. The catch: **the £10 is delivery credit, not money off your meal.**
 
-**Groupon** carries **400+ London food and drink deals**, and the list tells you who it is for — All Bar One at £36.95 against a £62.40 "was" price, Harvester at £35, Toby Carvery at £24.99, BrewDog at £23.95. You prepay a voucher, the saving is measured against the merchant's own claimed price, and days are restricted. It works for a chain dinner; it will not get you into Manzi's. **Wowcher** has no working London restaurant category at all — both URLs return 404.
+**Groupon** carries **400+ London food and drink deals**, and the list tells you who it is for — All Bar One at £36.95 against a £62.40 "was" price, Harvester at £35, Toby Carvery at £24.99, BrewDog at £23.95. You prepay a voucher, the saving is measured against the merchant's own claimed price, and days are restricted. It works for a chain dinner; it will not get you into Manzi's.
 
 **Karma** no longer competes here, having pivoted to selling restaurant point-of-sale software. **Olio** shares free food between neighbours rather than discounting restaurants. **Resy** takes bookings without public discounts, and **SevenRooms** is the plumbing behind Deliveroo Reservations rather than a consumer app.
 

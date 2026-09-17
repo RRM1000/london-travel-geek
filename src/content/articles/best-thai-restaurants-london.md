@@ -106,7 +106,7 @@ Isaan is the north-east: sour, salty and hot rather than sweet and coconut-heavy
 
 The **deep-fried whole seabass** with herbs has survived every menu change since it opened, including the refurbishment.
 
-> A kitchen fire in May 2025 wrecked the extraction and shut it for six months. It **reopened on 11 November 2025** and is back at full strength — some guides still carry a "temporarily closed" flag that is long out of date.
+> A kitchen fire in May 2025 wrecked the extraction and shut it for six months. It **reopened on 11 November 2025** and is back at full strength.
 
 ![A red curry with beef, Thai aubergines, pea aubergines, whole red chillies and holy basil in a rough stoneware bowl, with a copper spoon and a glass of beer on the table](../../assets/articles/best-thai-restaurants-london/som-saa.jpg)
 

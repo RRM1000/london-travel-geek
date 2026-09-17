@@ -114,7 +114,7 @@ The thing to work out is which tier you want, not which contract. At Islington t
 
 **Everlast Gyms is the surprise, and not in a good way.** This is the Sports Direct gym brand, so everyone assumes cheap. Its only London club, at Chiswick Sports Ground, is **from £100 a month** — more than double a PureGym in the same postcode area and dearer than Nuffield at Ealing. It does have a pool, aqua classes, Hyrox, reformer Pilates, ice baths and free parking. It also has the shortest hours of any chain here: **Mon–Thu 06:00–22:00, Fri to 21:00, weekends 08:00–18:00.** Nothing at all after six on a Saturday, for £100 a month.
 
-> **Sports Direct Fitness no longer exists as a brand.** The domain does not resolve and the estate trades as Everlast under Frasers Group. Guides still listing Sports Direct gyms in London are describing something that is not there.
+> **Sports Direct Fitness no longer exists as a brand.** The estate trades as Everlast under Frasers Group, and guides still listing Sports Direct gyms in London are describing something that is not there.
 
 ---
 
@@ -224,7 +224,7 @@ Boutique studios do not sell a gym floor. They sell a booked class at £26 to £
 
 **The expiry is the real price.** 1Rebel's own wording is unambiguous: "all bookings need to be made before you reach the expiry date" — booking, not attending. A single 1Rebel session dies in 30 days and the £59 intro pack in 14. Psycle's membership credits "must be used within the current billing period and do not roll over", so a £235 PSYCLE15 costs £235 whether you take fifteen classes or four. Heartcore's packs run one month for a single class up to six months for thirty. SoulCycle's £312 sixteen-class membership expires 30 days from purchase — four rides a week, no grace.
 
-**Barry's, Equinox, F45 and Mytime Active publish no prices on their own websites.** That is a finding about them rather than a gap here. Barry's pricing page renders an empty table to a logged-out visitor and its old .co.uk domain is parked. F45 is franchised and its "Membership Options" button opens a lead-capture form asking for your name, email and phone before it tells you anything — and the 14-day trial it dangles is "Local Residents Only". Equinox routes everything to an enquiry. Mytime Active's every tier says "Join today".
+**Barry's, Equinox, F45 and Mytime Active publish no prices on their own websites.** Barry's sends you to its app. F45 is franchised and its "Membership Options" button opens a lead-capture form asking for your name, email and phone before it tells you anything — and the 14-day trial it dangles is "Local Residents Only". Equinox routes everything to an enquiry. Mytime Active's every tier says "Join today".
 
 **Two corrections to the guides.** **SoulCycle still trades in London**, from one studio at 3–4 Great Marlborough Street, W1F 7HH — pages listing it as closed are wrong, and so are pages listing several London studios. **Digme Fitness also still trades**, from Moorgate and Richmond plus online, which is much smaller than the estate older articles describe.
 

@@ -250,7 +250,7 @@ An event adds trains — fifteen Chiltern departures after 22:00 on a midweek co
 
 **[Hilton London Wembley](hotel:hilton-london-wembley)** — the four-star on Lakeside Way, with an indoor pool, an executive lounge and the rooftop **Sky Bar 9**. Parking is **£15 per 24 hours in the Gold car park** with **no in-out**, so you cannot take the car out and come back.
 
-**[ibis London Wembley](hotel:ibis-london-wembley)** — the budget option, on South Way, a minute from Wembley Stadium station. Online prices are currently unavailable.
+**[ibis London Wembley](hotel:ibis-london-wembley)** — the budget option, on South Way, a minute from Wembley Stadium station.
 
 **[Premier Inn London Wembley Stadium](hotel:premier-inn-london-wembley-stadium)** — the Premier Inn at the ground, near the arena and the London Designer Outlet (HA9 0GG). Not to be confused with Premier Inn London Wembley Park, by the tube station.
 

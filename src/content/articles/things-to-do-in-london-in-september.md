@@ -78,7 +78,7 @@ London's river marathon, and a genuinely strange and wonderful thing to stumble 
 
 **It is free to watch and you do not need a plan.** Stand on any bridge or bank and it will come past; the organiser publishes an observation points page giving rough times along the course. The finish at Ham has food, a bar and a disco. There is also a supporters' boat from Millwall to Ham, which is bookable.
 
-One warning worth carrying: **the start time moves with the tide** and is confirmed late, so never assume last year's. And **the event's site is greatriverrace.org.uk** — the old `.co.uk` address is now a parked domain with a for-sale banner and nothing to do with the race.
+One warning worth carrying: **the start time moves with the tide** and is confirmed late, so never assume last year's. The organiser's site is **greatriverrace.org.uk**.
 
 ### Open House Festival — the free one everybody misses by a week
 

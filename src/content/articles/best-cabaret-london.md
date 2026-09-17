@@ -256,9 +256,7 @@ Access is good: **step-free, wheelchair accessible, and a complimentary ticket f
 
 The week reads: **It's a Knockout on Mondays** 7–10.30pm; **Mother Tucking Tuesdays** 8.30–10.30pm; **Miss Penny's Cash, Cards and Cabaret on Wednesdays** 8–10.30pm; alternating **Wheel of Wonder Karaoke with Miss Moppe and Martha D'Arthur Spills The Tea on Thursdays** 8.30–10.30pm; **Friday Follies** 8pm to midnight; **all-day cabaret on Saturdays** from 4.30pm to 12.30am; and **The Sunday Sips** 5–8pm. It has traded under this name since 1991 and opens 12:00 to 23:00 daily.
 
-**Nothing is sold in advance and no ticket price is listed**, so this is a walk-in. Whether entry is free could not be confirmed from the venue's own material — but there is no advance sale to miss, which is the practical point.
-
-One housekeeping note: the correct site is **halfway2heaven.net**. The similar halfwayiiheaven.com domain is dead.
+**Nothing is sold in advance and no ticket price is listed**, so this is a walk-in.
 
 ### Freedom Bar Soho
 
@@ -506,26 +504,26 @@ This is the section other guides leave out, and it is why people turn up at lock
 
 **The entire Proud cabaret operation in London has collapsed.** This is the big one, and it took three venues with it:
 
-* **Proud Embankment** — closed. The site does not resolve. The building at 8 Victoria Embankment is now the **Emerald Theatre**, opened 2025 with an 810 standing and 450 seated capacity — but the Emerald itself currently has **zero events on sale**, so the address is effectively dark either way.
-* **Proud Cabaret City**, 1 Minster Court — no public shows; its booking page offers only a private-events enquiry form. The proudcabaret.com domain now redirects to a Brighton site that returns "this store is currently unavailable."
-* **Haus of Cabaret London**, the successor brand — its store returns "this store is currently unavailable" and its events page reads "nothing planned right now."
+* **Proud Embankment** — closed. The building at 8 Victoria Embankment is now the **Emerald Theatre**, opened 2025 with an 810 standing and 450 seated capacity — but the Emerald itself currently has **zero events on sale**, so the address is effectively dark either way.
+* **Proud Cabaret City**, 1 Minster Court — no public shows; it takes private-event enquiries only.
+* **Haus of Cabaret London**, the successor brand — no events planned.
 
 **The Glory closed on 31 January 2024**, after ten years on Kingsland Road in Haggerston. **The same team reopened as The Divine two days later, in Dalston**, taking LIPSYNC1000 and MAN UP with them — different building, different neighbourhood, same people.
 
 **The rest:**
 
-* **Circus, 27–29 Endell Street, Covent Garden** — **Circus Lonco Limited passed resolutions for voluntary winding-up on 4 July 2024** (Gazette notice 4662543, liquidators from Begbies Traynor). All its domains are dead.
-* **Volupté Lounge**, Norwich Street, Holborn — closed. **The closing date could not be established.** Its old domain has lapsed and now serves a Turkish gambling site — do not go looking for it.
+* **Circus, 27–29 Endell Street, Covent Garden** — **Circus Lonco Limited passed resolutions for voluntary winding-up on 4 July 2024** (Gazette notice 4662543, liquidators from Begbies Traynor).
+* **Volupté Lounge**, Norwich Street, Holborn — closed.
 * **Bunga Bunga Battersea** — closed after eleven years when the Wandsworth lease expired.
-* **Live at Zédel**, as a separate brand — the domain no longer resolves. **The programme continues, folded into Crazy Coqs**, so this is a rebrand rather than a loss.
-* **Wonderville**, the magic and variety venue on Haymarket — **closed.** Its domain no longer resolves and there is nothing to book.
+* **Live at Zédel**, as a separate brand — gone. **The programme continues, folded into Crazy Coqs**, so this is a rebrand rather than a loss.
+* **Wonderville**, the magic and variety venue on Haymarket — **closed.**
 * **Circus 1903** — **no longer running in London.** The turn-of-the-century circus show with its life-sized elephant puppets has gone from the listings, and there is no London season to book.
 
 **Dark rather than dead:**
 
-* **Bar Wotever** — last listed at the Royal Vauxhall Tavern on **Tuesday 14 May 2024**, and absent from the current listings. Its domain has lapsed. **No formal announcement has been made**, so it would be wrong to call it closed — but there is nothing to book.
-* **Cabaret Roulette** — its own domain no longer resolves and the most recent trace is January 2024, though its RVT event page is still live. Apparently dormant, with no closure announcement.
-* **The Blitz Party** — its site is frozen on a date in June 2020. **The £25 ticket price still circulating online is historic**, not current.
+* **Bar Wotever** — last listed at the Royal Vauxhall Tavern on **Tuesday 14 May 2024**, and there is nothing to book.
+* **Cabaret Roulette** — nothing listed since January 2024.
+* **The Blitz Party** — nothing listed since June 2020, so **the £25 ticket price still circulating online is historic**, not current.
 * **Underbelly Festival**, now at Cavendish Square Gardens rather than the South Bank — **currently dark**. The site says only "we will be back soon," with no shows and no dates announced. Guides still placing it on the South Bank are out of date twice over.
 * **NoFit State Circus** — the best contemporary circus in Britain, and **no London dates are published at all.** They bring their own big top when they come; there is currently nothing to book.
 

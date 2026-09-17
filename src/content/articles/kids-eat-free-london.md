@@ -33,7 +33,7 @@ faq:
 
 A free children's meal in London almost always costs you an adult main course at full price — and at ten of Bella Italia's eleven London restaurants it is not available at any price. **Kids eat free is real, but it is an outer-London offer wearing a central-London name**, and the small print is where the money actually is.
 
-Everything below was **read off each operator's own website on 3 September 2026**. Anything that could not be verified at source was left out, and where an offer names branches it cannot be used at, those branches are listed.
+Everything below was **read off each operator's own website on 3 September 2026**, and where an offer names branches it cannot be used at, those branches are listed.
 
 > 💡 **The Short Version:** **Bella Italia** runs kids eat free Sunday to Thursday all year — but its terms exclude ten of its eleven London restaurants, leaving only Croydon. **Morrisons Café** is the best unconditional deal at seven days a week, though only one of the ten Morrisons nearest Covent Garden has a café. **Prezzo's £1.99-a-month Kids Club** feeds up to three children free on one adult main, which no free offer matches. **IKEA charges 95p** for a kids' meal with no adult purchase at all. And **Premier Inn** feeds two under-16s free at breakfast, which is the one that matters if you are staying the night.
 

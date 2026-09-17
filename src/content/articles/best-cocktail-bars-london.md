@@ -192,8 +192,6 @@ Erik Lorincz, formerly head bartender at the Savoy's American Bar, running a bas
 
 **Open 5pm until 1.30am, every day of the week**, which makes it one of the latest serious bars in Mayfair and the only one here that does not shut earlier on a Sunday. Booking and enquiries go through kwantmayfair@icloud.com.
 
-> ⚠️ **Do not go looking for kwant.co.uk.** That domain now returns a holding page, which has led more than one guide to write the bar off as closed. It is trading normally; the live booking site is a Square page instead.
-
 ![Two cocktails on yellow coasters on a wood bar](../../assets/articles/best-cocktail-bars-london/kwant.jpg)
 
 *A Mayfair basement bar from a Connaught alumnus, and quieter than its postcode suggests. Photo: [Bex Walton](https://commons.wikimedia.org/w/index.php?curid=193540390), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
@@ -285,8 +283,6 @@ Brothers **Max and Noel Venning**, a short menu and **no theatre at all** — th
 **Dalston came first, in 2016**, at 510b Kingsland Road, E8. Its menu is divided into **One, Two and Three Sheet sections by intensity**, so you order by how much you want the drink to do, which is a more useful axis than spirit or era. Open Tuesday to Sunday.
 
 **Soho is the newer and more useful one**, at **13 Manette Street, W1D 4AP**, just off Greek Street — open in the afternoon until late, **seven days a week**, which almost nothing else at this level manages. It does British oysters with champagne and a burger alongside the drinks.
-
-> ⚠️ **Their website is threesheets-bar.com, with a hyphen.** The unhyphenated version is a parked domain that has been dead for over a year, which has led several guides to list the bars as closed. They are not.
 
 ### A Bar with Shapes for a Name, Haggerston
 

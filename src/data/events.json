@@ -1,213 +1,7 @@
 {
- "generated": "2026-09-05",
- "count": 116,
+ "generated": "2026-09-17",
+ "count": 110,
  "events": [
-  {
-   "slug": "marilyn-monroe-a-portrait",
-   "name": "Marilyn Monroe: A Portrait",
-   "type": "exhibition",
-   "style": "Centenary retrospective in portraits, not film stills",
-   "venue": "National Portrait Gallery",
-   "startsOn": "2026-06-04",
-   "endsOn": "2026-09-06",
-   "area": "Charing Cross",
-   "borough": "Westminster",
-   "guide": "covent-garden-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "St Martin's Place",
-   "postcode": "WC2H 0HE",
-   "agePolicy": "all-ages",
-   "duration": "About an hour",
-   "price": "£25-£30 by day",
-   "priceBand": "20-50",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Monroe's centenary, told entirely through portraiture rather than the usual film stills. Closes in under two weeks.",
-   "opNote": "Off-peak Monday to Thursday is £25-£27; weekends £27-£30.",
-   "goodFor": [
-    "art",
-    "date"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "mc-escher-somerset-house",
-   "name": "M.C. Escher. The Exhibition",
-   "type": "exhibition",
-   "style": "Major survey of Escher's prints",
-   "venue": "Somerset House",
-   "startsOn": "2025-06-05",
-   "endsOn": "2026-09-06",
-   "area": "Strand",
-   "borough": "Westminster",
-   "guide": "covent-garden-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Strand",
-   "postcode": "WC2R 1LA",
-   "agePolicy": "all-ages",
-   "duration": "About 90 minutes",
-   "price": "From £16.50",
-   "priceBand": "under-20",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "A year into its run and closing within two weeks - the last chance at a major Escher show for years. The Embankment Galleries give the tessellations real wall space.",
-   "opNote": "Timed entry; the final weekends will be busiest.",
-   "goodFor": [
-    "art",
-    "families"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "cecily-brown-picture-making",
-   "name": "Cecily Brown: Picture Making",
-   "type": "exhibition",
-   "style": "New paintings made for the park setting",
-   "venue": "Serpentine South",
-   "startsOn": "2026-03-27",
-   "endsOn": "2026-09-06",
-   "area": "Kensington Gardens",
-   "borough": "Westminster",
-   "guide": "kensington-area-guide",
-   "zone": "1",
-   "district": "West",
-   "address": "Kensington Gardens",
-   "postcode": "W2 3XA",
-   "agePolicy": "all-ages",
-   "duration": "Under an hour",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Free, painted in response to the gallery's park setting, and one of the best reasons to fold a gallery stop into a Hyde Park walk this year.",
-   "opNote": "Closes 6 September. The processing... display in the education space closes the same day.",
-   "goodFor": [
-    "free",
-    "art"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "project-a-black-planet",
-   "name": "Project a Black Planet: The Art and Culture of Panafrica",
-   "type": "exhibition",
-   "style": "A century of Pan-African art and print culture, 250+ works",
-   "venue": "Barbican Art Gallery",
-   "startsOn": "2026-06-11",
-   "endsOn": "2026-09-06",
-   "area": "Barbican",
-   "borough": "City of London",
-   "guide": "city-of-london-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Silk Street",
-   "postcode": "EC2Y 8DS",
-   "agePolicy": "all-ages",
-   "duration": "About two hours",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Paintings, film, journals and posters tracing Pan-Africanism from the 1920s on - a century of visual culture that rarely gets a London show at this scale. Closes early September.",
-   "opNote": "Price not published on the listing page - check barbican.org.uk when booking.",
-   "goodFor": [
-    "art",
-    "history"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "great-river-race",
-   "name": "The Great River Race",
-   "type": "sporting-event",
-   "style": "300 traditional boats racing 21.6 miles through all of London's bridges",
-   "venue": "The Thames, Millwall to Ham",
-   "startsOn": "2026-09-12",
-   "endsOn": "2026-09-12",
-   "recurring": "annual",
-   "typicalWhen": "The second Saturday in September",
-   "area": "Docklands",
-   "borough": "Multiple",
-   "guide": "canary-wharf-area-guide",
-   "zone": "2",
-   "district": "East",
-   "address": "Start at Millwall, finish at Ham",
-   "agePolicy": "all-ages",
-   "duration": "An hour or so at any one bridge",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "outdoor",
-   "whyGo": "Gigs, skiffs, dragon boats and Celtic longboats - about 300 of them, from serious clubs to fancy-dress novelty crews - race under all 28 bridges between the Docklands and Richmond. The best day of the year to lean on a bridge and watch the river.",
-   "opNote": "Free from any bridge or bank on the route. It runs upstream with the tide, so check the start time to work out when it reaches your stretch.",
-   "goodFor": [
-    "free",
-    "families"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "grease-immersive-battersea",
-   "name": "Grease: The Immersive Movie Musical",
-   "type": "immersive-theatre",
-   "style": "Live musical staged around the audience",
-   "venue": "Battersea Park",
-   "endsOn": "2026-09-13",
-   "area": "Battersea",
-   "borough": "Wandsworth",
-   "guide": "battersea-area-guide",
-   "zone": "1",
-   "district": "South",
-   "address": "Battersea Park",
-   "postcode": "SW11 4NJ",
-   "lat": 51.476233,
-   "lng": -0.160801,
-   "agePolicy": "all-ages",
-   "duration": "An evening",
-   "priceBand": "unknown",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "whyGo": "The film staged as a live musical with the audience inside the set rather than in front of it, in a purpose-built venue in Battersea Park.",
-   "opNote": "CLOSES 13 SEPTEMBER 2026 - a short run, and the nearest thing on this list to already being over.",
-   "goodFor": [
-    "groups",
-    "families",
-    "date"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
   {
    "slug": "photo-portrait-now",
    "name": "Photo Portrait Now 2026",
@@ -348,7 +142,7 @@
     "free"
    ],
    "annual": true,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "london-design-festival",
@@ -383,7 +177,7 @@
     "free"
    ],
    "annual": true,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "lasting-impressions-women-printmakers",
@@ -854,12 +648,12 @@
    "lng": -0.14798,
    "agePolicy": "all-ages",
    "duration": "An hour for the sculpture, half a day for the fair",
-   "price": "Sculpture free; fair day tickets roughly £50-£65",
+   "price": "Sculpture free; the fair is ticketed",
    "priceBand": "mixed",
    "booking": "required",
    "indoorOutdoor": "both",
    "whyGo": "The ticketed fair gets the coverage, but Frieze Sculpture is the half guides miss - six weeks of large-scale outdoor work in the English Gardens, free, no ticket. The fair itself runs 15-18 October 2026.",
-   "opNote": "Dates span the free sculpture run; the fair is 14 October (invitation preview) then public 15-18 October. Fair pricing unverified for 2026 - check before quoting.",
+   "opNote": "Dates span the free sculpture run; the fair is 14 October (invitation preview) then public 15-18 October.",
    "goodFor": [
     "free",
     "art"
@@ -869,7 +663,7 @@
     "free"
    ],
    "annual": true,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "mundo-pixar-wembley",
@@ -1503,42 +1297,6 @@
    "notYetOpen": true
   },
   {
-   "slug": "nhm-ice-rink",
-   "name": "Natural History Museum Ice Rink",
-   "type": "seasonal",
-   "style": "The rink in front of the Waterhouse terracotta facade",
-   "venue": "Natural History Museum",
-   "startsOn": "2026-10-25",
-   "endsOn": "2027-01-06",
-   "recurring": "annual",
-   "typicalWhen": "Late October to early January",
-   "area": "South Kensington",
-   "borough": "Kensington and Chelsea",
-   "guide": "south-kensington-area-guide",
-   "zone": "1",
-   "district": "West",
-   "address": "Cromwell Road",
-   "postcode": "SW7 5BD",
-   "agePolicy": "family-friendly",
-   "duration": "50-minute sessions",
-   "price": "Reported £15-£20 adult",
-   "priceBand": "under-20",
-   "booking": "required",
-   "indoorOutdoor": "outdoor",
-   "stepFree": "partial",
-   "whyGo": "The most photographed rink in London, for the museum facade behind the ice. Returned in 2023 after a two-year gap and has run each winter since.",
-   "opNote": "IMPORTANT: dates and prices here come from resellers - the museum's own site would not respond when checked. Verify at nhm.ac.uk before publishing dates anywhere else.",
-   "goodFor": [
-    "families",
-    "date"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
    "slug": "skate-somerset-house",
    "name": "Skate at Somerset House",
    "type": "seasonal",
@@ -2029,13 +1787,12 @@
    "postcode": "WC2H 0HE",
    "agePolicy": "over-16",
    "duration": "About an hour",
-   "price": "Tickets not yet on sale",
-   "priceBand": "unknown",
+   "price": "£23 Mon-Thu, £25 Fri-Sun",
+   "priceBand": "20-50",
    "booking": "required",
    "indoorOutdoor": "indoor",
    "stepFree": "yes",
    "whyGo": "One of Britain's best-known fashion photographers working well outside his editorial register - queer identity, community and legend rather than campaigns.",
-   "opNote": "Tickets were not yet on sale when checked - watch npg.org.uk near the October opening.",
    "goodFor": [
     "art",
     "date"
@@ -2107,7 +1864,7 @@
    "indoorOutdoor": "indoor",
    "stepFree": "yes",
    "whyGo": "The YBAs and 90s British fashion in one show - a wider lens than the single-medium retrospectives, running through Valentine's week and half term.",
-   "opNote": "Free for Tate Members; price otherwise unpublished when checked.",
+   "opNote": "Free for Tate Members.",
    "goodFor": [
     "art",
     "fashion",
@@ -2244,7 +2001,6 @@
    "indoorOutdoor": "indoor",
    "stepFree": "yes",
    "whyGo": "One of the most significant living photographers in full retrospective - addiction, intimacy and the AIDS crisis, and genuinely not family viewing, which is worth knowing before booking.",
-   "opNote": "Dates from the Southbank Centre's own announcement; price and formal age guidance unconfirmed.",
    "goodFor": [
     "art"
    ],
@@ -2558,7 +2314,7 @@
     "events"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "doggetts-coat-and-badge",
@@ -2582,6 +2338,40 @@
    "indoorOutdoor": "outdoor",
    "whyGo": "Single scullers race four miles and seven furlongs from London Bridge to Chelsea for a scarlet coat and silver badge, as they have since 1715 - older than the Boat Race and the Derby. Watch free from any bridge on the route.",
    "opNote": "The 312th running starts 1.15pm on 2 September 2026. Organised by the Fishmongers' and Watermen's Companies, who have never needed to market it - which is why almost nobody watching knows what they are seeing.",
+   "goodFor": [
+    "free",
+    "families"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "great-river-race",
+   "name": "The Great River Race",
+   "type": "sporting-event",
+   "style": "300 traditional boats racing 21.6 miles through all of London's bridges",
+   "venue": "The Thames, Millwall to Ham",
+   "recurring": "annual",
+   "typicalWhen": "The second Saturday in September",
+   "area": "Docklands",
+   "borough": "Multiple",
+   "guide": "canary-wharf-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "Start at Millwall, finish at Ham",
+   "agePolicy": "all-ages",
+   "duration": "An hour or so at any one bridge",
+   "price": "Free",
+   "priceBand": "free",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "whyGo": "Gigs, skiffs, dragon boats and Celtic longboats - about 300 of them, from serious clubs to fancy-dress novelty crews - race under all 28 bridges between the Docklands and Richmond. The best day of the year to lean on a bridge and watch the river.",
+   "opNote": "Free from any bridge or bank on the route. It runs upstream with the tide, so check the start time to work out when it reaches your stretch.",
    "goodFor": [
     "free",
     "families"
@@ -2754,7 +2544,7 @@
    "booking": "walk-in",
    "indoorOutdoor": "both",
    "whyGo": "Thousands of hand-sewn buttons, 150 years of costermonger tradition, morris dancing in Guildhall Yard and a working church service at St Mary-le-Bow. As visually distinctive as Carnival with a fraction of the attention.",
-   "opNote": "2025 ran Sunday 21 September from 1.15pm; the 2026 date follows the same late-September Sunday pattern but was unconfirmed when checked.",
+   "opNote": "A parade from Guildhall Yard to a harvest service at St Mary-le-Bow.",
    "goodFor": [
     "free",
     "families"
@@ -2788,7 +2578,6 @@
    "booking": "walk-in",
    "indoorOutdoor": "outdoor",
    "whyGo": "More than 50,000 people watch bands from the UK, Ireland and the US process a mile and a half to a full afternoon of live Irish music in Trafalgar Square. Mayor-produced, so free start to finish.",
-   "opNote": "2027's parade should fall Sunday 14 March by the usual pattern - unconfirmed until London.gov publishes it.",
    "goodFor": [
     "free",
     "families"
@@ -3090,7 +2879,7 @@
    "booking": "required",
    "indoorOutdoor": "outdoor",
    "whyGo": "Dozens of real London restaurants serve small plates of their actual menus, so it works as a tasting flight of places you would otherwise book one by one. Friday sessions have historically had free children's entry.",
-   "opNote": "Entry ticket plus pay-as-you-eat inside. 2025 ran 18-22 June; 2026-27 dates unverified when checked.",
+   "opNote": "Entry ticket plus pay-as-you-eat inside.",
    "goodFor": [
     "food",
     "date",

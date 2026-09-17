@@ -189,6 +189,6 @@ None of the published London lists groups these together, which is why the patte
 
 **Live-fire restaurants are a judgement call, and the publishers made it before we did.** Eater runs one page titled for both barbecue and live-fire cooking, and five publications independently put live-fire grills inside their barbecue guides. Temper and Acme Fire Cult are here on that basis. The tension is real — someone wanting brisket will not be satisfied by a Galician chop — which is why they are separated above rather than mixed in.
 
-**Two names on live lists have closed.** Hotbox shut its flagship in January 2022 and its company is recorded as permanently closed; Prairie Fire announced its own closure after a Super Bowl tailgate. Both are still being recommended elsewhere.
+**Two names on live lists have closed.** Hotbox closed its Spitalfields restaurant in January 2022, and Prairie Fire announced its own closure after a Super Bowl tailgate. Both are still being recommended elsewhere.
 
 *Evidence built 8 September 2026 from fifteen independent sources. Opening days for Texas Joe's are from its own site the same day. Closure records are from trade press, Companies House and the venues' own announcements. Barbecue restaurants change days often — check before crossing London.*

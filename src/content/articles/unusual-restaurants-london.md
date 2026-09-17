@@ -96,7 +96,7 @@ A working café **inside an actual Mongolian yurt**, in the grounds of a Limehou
 
 *Price not published · Cumberland Basin, Prince Albert Road, NW1 7SS*
 
-A **three-tiered Chinese pagoda**, painted red and hung with lanterns, moored at Cumberland Basin on the Regent's Canal, ten minutes' walk from London Zoo. It was hand-built in the 1980s as the first floating restaurant of its kind in London, and the boat is the entire reason to book. What the kitchen actually cooks is harder to establish: **the restaurant publishes no menu and no prices anywhere on its website.** The menus page returns a 404, the online ordering link is dead, and the homepage has carried a "new menu coming soon" line for months. Third-party listings show crispy aromatic duck rolls and wasabi king prawns. The restaurant will not confirm any of it before you sit down.
+A **three-tiered Chinese pagoda**, painted red and hung with lanterns, moored at Cumberland Basin on the Regent's Canal, ten minutes' walk from London Zoo. It was hand-built in the 1980s as the first floating restaurant of its kind in London, and the boat is the entire reason to book. **The restaurant publishes no menu and no prices.** Third-party listings show crispy aromatic duck rolls and wasabi king prawns.
 
 **There is no lunch service Monday to Friday — Mon–Thu 6–11pm, Fri 6pm–midnight, Sat noon–midnight, Sun noon–11pm.** Food orders between 5pm and 7pm are 20% off. Reviews of the cooking are mixed and we would rather say so.
 

@@ -18,7 +18,7 @@ faq:
   - q: "How many kosher restaurants are there in London?"
     a: "Around fifty to sixty certified eating places, of which roughly thirty-five to forty-five are sit-down restaurants. The London Beth Din's register lists 33 restaurants and takeaways, three of them outside London. KF Kosher lists another 25 establishments, and the Sephardi Kashrut Authority a handful more. Numbers above a hundred, which some directories print, are not supported by any register."
   - q: "Who certifies kosher restaurants in London?"
-    a: "Four bodies, and they publish separate lists. The Kashrut Division of the London Beth Din (KLBD) has the largest register. KF Kosher, under the Federation of Synagogues Beth Din, licenses a different set including Reubens, Mazal and Soyo. The Sephardi Kashrut Authority licenses a smaller group. Kedassia, the Union of Orthodox Hebrew Congregations, is the fourth — and its website is currently unreachable."
+    a: "Four bodies, and they publish separate lists. The Kashrut Division of the London Beth Din (KLBD) has the largest register. KF Kosher, under the Federation of Synagogues Beth Din, licenses a different set including Reubens, Mazal and Soyo. The Sephardi Kashrut Authority licenses a smaller group. Kedassia, the Union of Orthodox Hebrew Congregations, is the fourth, and it publishes no register online."
   - q: "Is there one list of all London's kosher restaurants?"
     a: "No, and that is the single most useful thing to know. Each authority publishes only its own licensees, so checking one register gives you a partial answer. Reubens, probably London's best-known kosher restaurant, does not appear on the London Beth Din's list at all because it is certified by KF Kosher."
   - q: "What does meat, dairy or parev mean on a kosher restaurant listing?"
@@ -46,11 +46,11 @@ This guide is the registers, read together, plus what you need to know to use th
 | **KLBD** — Kashrut Division, London Beth Din | [kosher.org.uk](https://kosher.org.uk/kosher-places/restaurants/) | **33** restaurants and takeaways, each with address and category |
 | **KF Kosher** — Federation of Synagogues Beth Din | [kfkosher.org](https://kfkosher.org/establishments-catering/) | **25** establishments, a largely different set |
 | **SKA** — Sephardi Kashrut Authority | [ska.org.uk](https://ska.org.uk/licensees) | A smaller list, including the JW3 café |
-| **Kedassia** — Union of Orthodox Hebrew Congregations | *website unreachable* | The Stamford Hill authority |
+| **Kedassia** — Union of Orthodox Hebrew Congregations | *no online register* | The Stamford Hill authority |
 
 > ⚠️ **One trap worth naming.** `klbdkosher.org` is the London Beth Din's **trade** site, which certifies food manufacturers. Read it on its own and you would conclude the KLBD does not license restaurants at all. The restaurant register is on `kosher.org.uk`.
 
-**Kedassia's register is the significant gap.** Its site does not resolve at all, and it is the authority most used in Stamford Hill — which is why the published registers show only one certified establishment there, Tasti Pizza on Amhurst Park, while the neighbourhood plainly has more. If you are eating in Stamford Hill, ask locally rather than trusting any list, including this one.
+**Stamford Hill is the gap in every list.** Kedassia, the authority most used there, publishes no register online — which is why the published registers show only one certified establishment in the neighbourhood, Tasti Pizza on Amhurst Park, while it plainly has more. If you are eating in Stamford Hill, ask locally rather than trusting any list, including this one.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-kosher-restaurants-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -113,4 +113,4 @@ Thirty-three establishments, of which thirty are in London — **Balagan** and *
 
 **And if certification is not the thing you are solving for**, this page is the wrong one: our [guide to eating in London](/articles/eat-in-london-guide/) arranges everything else by cuisine, dish and area, and the [vegetarian and vegan guide](/articles/best-vegetarian-vegan-restaurants-london/) is the nearest thing to this one in shape — a rule about what a kitchen does rather than where its cooking comes from.
 
-*Registers read on 8 September 2026 from each authority's own site. Counts are what those registers listed on that date; certification is added and withdrawn, so check the register itself before relying on it. Kedassia's site did not resolve on that date and its licensees are not represented here.*
+*Registers read on 8 September 2026 from each authority's own site. Counts are what those registers listed on that date; certification is added and withdrawn, so check the register itself before relying on it. Kedassia publishes no online register, so its licensees are not represented here.*

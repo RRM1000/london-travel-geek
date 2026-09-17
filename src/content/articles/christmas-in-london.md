@@ -121,7 +121,7 @@ Different from the free street displays above — these are paid, walk-through e
 
 **Chelsea Winter Village & Illuminations**, at the Royal Hospital Chelsea, is a genuine outdoor light trail — 1.5km, 45–75 minutes — running **25 November – 28 December 2026**. Adult tickets from £19 off-peak, rising to £30.95 at peak times.
 
-**Worth knowing what's gone or uncertain:** Kenwood House's well-loved Neverland trail on Hampstead Heath has been **cancelled for 2026** after weak ticket sales. Lightopia's Crystal Palace edition appears to have quietly stopped — its booking site no longer resolves. Chiswick House's event (now an indoor theatrical trail rather than the outdoor "Lightopia" walk it used to be) hadn't confirmed 2026 dates at the time of writing.
+**Worth knowing what's gone:** Kenwood House's well-loved Neverland trail on Hampstead Heath has been **cancelled for 2026** after weak ticket sales, and Lightopia's Crystal Palace trail ended when the company behind it went into administration in January 2023.
 
 ---
 

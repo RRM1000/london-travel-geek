@@ -19,6 +19,10 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - What the research could not reach, such as "The known weakness in this topic". Gaps go in `knownGaps` in `data/topics/<topic>.json`.
 - A note that the guide used to be wrong, such as "this guide previously placed Oriole in Smithfield". Fix the fact in place; the history lives in git. Warning readers that other sources repeat a wrong fact is fine, as long as the page never says it was one of them.
 - A gap in our own research, such as "its site would not return prices to us". State the fact or leave the subject out, and ask Rob for what is missing.
+- That a website is down, unreachable, parked or lapsed, or that a page returns an error. If the place is open, say nothing about its website. If it has closed, say it has closed.
+- Google, or any listing, as the source of a closure ("Google shows it as permanently closed"). Treat a place a listing marks closed, even temporarily, as closed: leave it out, or say plainly that it has closed when readers need to know.
+- How we checked: automated checks, blocked sites, pages that would not load for us.
+- Working notes such as "needs verifying", "unconfirmed" or "confirm before publishing". Verify the fact or ask Rob, and leave it off the page until then. This covers the sheet columns that print on cards too (Why Go, Operational Summary), not just article prose.
 - A standalone sources, research, references or further-reading section. Where a link helps the reader act on a claim, put it in the paragraph, table or callout.
 - A numeric score per venue.
 - The 📊 evidence callout on a page that ranks nothing (no "Cited by" lines). Use one italic freshness line instead.

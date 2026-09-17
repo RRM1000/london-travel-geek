@@ -153,7 +153,7 @@ Compare the Market's scheme gives **25% off the entire bill** when dining out, p
 
 To get it you must **take out a qualifying product through Compare the Market** — insurance, energy, a credit product — and you get one membership per year. If you were switching your car insurance anyway, the restaurant discount is free money. If you were not, it is not a discount card, it is an insurance purchase.
 
-**The London reality: we cannot tell you.** Meerkat Meals is **app-only, and Compare the Market publishes no restaurant finder on the web at all**. There is no way to check which London restaurants take it without installing the app and holding a qualifying product. Its own small print says "days available/no. of diners vary by participating restaurant/outlet" and "restrictions may apply to special menus", so expect the same weekday bias as the paid cards.
+**You can't see the London list before you sign up.** Meerkat Meals is **app-only, and Compare the Market publishes no restaurant finder on the web at all**. There is no way to check which London restaurants take it without installing the app and holding a qualifying product. Its own small print says "days available/no. of diners vary by participating restaurant/outlet" and "restrictions may apply to special menus", so expect the same weekday bias as the paid cards.
 
 Worth separating out: **Meerkat Movies, the 2-for-1 cinema offer, now needs no purchase at all** and runs until 19 July 2027. That one is free to everybody with the app — see our [cinema deals guide](/articles/cinema-deals-london/).
 

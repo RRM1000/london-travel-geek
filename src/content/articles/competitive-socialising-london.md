@@ -169,13 +169,11 @@ The one that is really a sports bar with games bolted on, and better for it if w
 
 **Peak is from 5pm Wednesday to Friday and all day at weekends.** Under-18s are welcome until 7pm with a parent or guardian, and **it is 18-plus after 7pm** on physical government-approved ID. A **dress code applies from 7pm**: no tracksuit bottoms, sports shorts or gym wear, no hats, no work boots. Dogs are welcome until 8pm. Private spaces carry a minimum spend rather than a hire fee. Game prices are not published anywhere on the site.
 
-One housekeeping note: the old batandball.co.uk address is now a parked domain holding page. The live site is thebatandball.com.
-
 ### Bounce, Battersea Power Station
 
 *Level 1, Turbine Hall B, 342 Circus Road South, SW11 8DD · ping pong · from £6 a head*
 
-**The cheapest game in this guide at £6 a head**, and now the only Bounce left in London: the Old Street room closed after ten years, and Farringdon has disappeared from the operator's own locations list.
+**The cheapest game in this guide at £6 a head**, and now the only Bounce left in London: the Old Street room closed after ten years, and Farringdon closed in June 2026.
 
 It is straightforward ping pong with a bar round it, plus **Ping Pong X** — an AI-enabled, projection-mapped table running five interactive games with self-scoring, from £8 a head. Beer pong runs alongside. **The minimum group size is two**, which matters a great deal given Flight Club's six-person weekend floor.
 
@@ -191,7 +189,7 @@ Traditional fairground games rebuilt at scale and wired for scoring — Down-the
 
 **This is the one that is adults-only at every hour it opens.** Fairgame is 18-plus all day, on Challenge 25, and it insists on **physical photo ID rather than a picture of one**. That rules it out for a family afternoon in a way nothing else here does.
 
-**Canary Wharf is nine games in 75 minutes: £15 a head off-peak for unlimited play, or £19 at prime time.** The City site is bigger — **12 games in 90 minutes, £22 off-peak and £25 prime**. There is **no minimum group size at all**; one person can play alone against the room. Groups of 16-plus must book through the events team and **pre-purchase food and drink**. Cashless throughout, and cancellations inside 24 hours are not refunded. The live site is wearefairgame.com; the old fairgame.co.uk domain has lapsed to a parking page.
+**Canary Wharf is nine games in 75 minutes: £15 a head off-peak for unlimited play, or £19 at prime time.** The City site is bigger — **12 games in 90 minutes, £22 off-peak and £25 prime**. There is **no minimum group size at all**; one person can play alone against the room. Groups of 16-plus must book through the events team and **pre-purchase food and drink**. Cashless throughout, and cancellations inside 24 hours are not refunded.
 
 ### Gravity MAX, Wandsworth
 
@@ -245,9 +243,9 @@ A Prohibition saloon where you are cast as an outlaw and the barkeeps mix cockta
 
 Included because it is still on every list of things to do in Canary Wharf, and there is currently **nothing to book**.
 
-Illusionaries was three galleries of 360-degree projection and sound, built as a single 40-minute story rather than a set of separate rooms, and it was one of the better immersive spaces in London. Its own website now marks **both exhibitions — Latent Spaces and Entheon — as "CONCLUDED"**, and the footer still reads 2024. Its Ticketmaster page returns **"No Upcoming Events."**
+Illusionaries was three galleries of 360-degree projection and sound, built as a single 40-minute story rather than a set of separate rooms, and it was one of the better immersive spaces in London. **Both of its exhibitions, Latent Spaces and Entheon, have ended**, and no new show has been announced.
 
-No closure has been announced, so it would be wrong to call it closed. But there is no show, no date and no ticket, and anyone travelling to Crossrail Place on the strength of an old listing will find a dark room.
+There is no show, no date and no ticket, and anyone travelling to Crossrail Place on the strength of an old listing will find a dark room.
 
 One correction while it is here. It is widely described as a family outing. The published policy is that **it is suitable for ages 14 and above and under-14s are not permitted**, with ID possibly requested on entry.
 
@@ -313,13 +311,10 @@ Neither is a night out and neither pretends to be. Both are a perfectly good nin
 
 This is the section other guides leave out, and it is why people turn up at locked doors.
 
-* **Junkyard Golf Club London** — **closed.** The scrap-and-neon crazy golf course at 91 Brick Lane in the Old Truman Brewery has gone, and both of the company's London web pages now serve a holding page reading **"Junkyard Golf Club London has now closed."** No closing date was ever published. Leeds, Liverpool, Manchester, Newcastle and Oxford continue.
-* **Swingers City** — **closed on 22 March 2025**, after nine years as the company's first permanent venue, because the landlord is demolishing the whole block. **Swingers West End is now the only UK site**, and the venue page at the old City web address redirects to it.
-* **Bounce Old Street** — **closed.** The venue's own page says goodbye "after an incredible decade" and points visitors to Battersea. **Bounce Farringdon**, the room at 121 Holborn built on the site where ping pong was trademarked, has also **vanished from the operator's locations list and its page now returns a 404**, though no closure has been announced and third-party listings still show it open. Treat it as unconfirmed rather than gone.
-* **Illusionaries** — dark rather than closed, with nothing on sale. See above.
-* **THE CUBE has moved address, not premises.** The old thecube.live domain no longer resolves, and thecubelive.com is a parked page. The venue is open at Canary Wharf; book through bookthecube.com.
-
-**Three lapsed domains not to trust.** **fairgame.co.uk** and **batandball.co.uk** are both now parked holding pages rather than venue sites, and **rocketroom.co.uk** belongs to an unrelated film company. The venues are all trading; the live addresses are wearefairgame.com, thebatandball.com and rocket-room.com.
+* **Junkyard Golf Club London** — **closed.** The scrap-and-neon crazy golf course at 91 Brick Lane in the Old Truman Brewery has gone. In the company's own words, **"Junkyard Golf Club London has now closed."** Leeds, Liverpool, Manchester, Newcastle and Oxford continue.
+* **Swingers City** — **closed on 22 March 2025**, after nine years as the company's first permanent venue, because the landlord is demolishing the whole block. **Swingers West End is now the only UK site**.
+* **Bounce Old Street** — **closed.** The venue's own page says goodbye "after an incredible decade" and points visitors to Battersea. **Bounce Farringdon**, the room at 121 Holborn built on the site where ping pong was trademarked, **closed with a send-off on Saturday 13 June 2026**.
+* **Illusionaries** — dark, with nothing on sale. See above.
 
 ---
 

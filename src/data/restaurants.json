@@ -1,7 +1,7 @@
 {
  "generated": "2026-09-06",
- "count": 890,
- "withCoords": 823,
+ "count": 889,
+ "withCoords": 822,
  "facets": {
   "cuisine": [
    {
@@ -12,7 +12,7 @@
    {
     "value": "Italian",
     "slug": "italian",
-    "count": 164
+    "count": 163
    },
    {
     "value": "Chinese",
@@ -159,7 +159,7 @@
    {
     "value": "Shoreditch",
     "slug": "shoreditch",
-    "count": 49
+    "count": 48
    },
    {
     "value": "South Bank",
@@ -326,7 +326,7 @@
    {
     "value": "pizza",
     "slug": "pizza",
-    "count": 80
+    "count": 79
    },
    {
     "value": "seafood",
@@ -503,7 +503,7 @@
    {
     "value": "£",
     "slug": "price-1",
-    "count": 156
+    "count": 155
    },
    {
     "value": "££££",
@@ -677,7 +677,6 @@
     "families"
    ],
    "whyGo": "Buffet or a la carte, with the offal end of the menu taken seriously - intestine, tripe, blood tofu - and a Sichuan stir-fry list that regulars rate as highly as the pot.",
-   "opNote": "Head chef Zhang Xiaozhong. NOTE: Hotto Potto's own site claims the same chef. Do not print the attribution for either until it is resolved.",
    "lists": [
     "hot-pot",
     "best-value"
@@ -3227,41 +3226,6 @@
    "sourceUrls": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or | https://www.youtube.com/@HarrisonWebb97"
   },
   {
-   "slug": "roma-pizza",
-   "name": "Roma Pizza",
-   "cuisine": "Italian",
-   "style": "Roman thin-crust",
-   "specialities": [
-    "pizza"
-   ],
-   "format": "Counter",
-   "chainType": "independent",
-   "area": "Brick Lane",
-   "zone": "1",
-   "district": "East",
-   "borough": "Tower Hamlets",
-   "guide": "shoreditch-area-guide",
-   "address": "Brick Lane",
-   "postcode": "E1 6SA",
-   "lat": 51.524076,
-   "lng": -0.071384,
-   "station": "Shoreditch High Street",
-   "walkMin": 5,
-   "price": "£",
-   "booking": "walk-in",
-   "setting": "counter",
-   "goodFor": [
-    "quick",
-    "solo"
-   ],
-   "whyGo": "Roman-style thin-crust pizzas at £5 on Brick Lane, from the Made of Dough team.",
-   "opNote": "RESOLVED 2026-08-23: trading. Google and Hardens had it as permanently closed; the venue site, Yelp (reviews to March 2026) and Time Out all show it open at 224 Brick Lane. Roman-style thin-crust from the Made of Dough team.",
-   "lists": [
-    "best-value",
-    "best-pizza"
-   ]
-  },
-  {
    "slug": "artusi",
    "name": "Artusi",
    "cuisine": "Italian",
@@ -5392,7 +5356,7 @@
    "district": "Central",
    "borough": "Westminster",
    "guide": "mayfair-area-guide",
-   "address": "Dover Street",
+   "address": "33 Dover Street",
    "postcode": "W1S 4NF",
    "lat": 51.508875,
    "lng": -0.143044,
@@ -5407,7 +5371,6 @@
     "business"
    ],
    "whyGo": "Italian-American cooking on Dover Street, in the mould of a New York supper club.",
-   "opNote": "AMBIGUOUS SOURCE: clustered from a heading that may belong to a neighbouring Dover Street venue. Confirm the identity before publishing.",
    "signals": "2 sources: The Infatuation, Hot Dinners",
    "sourceCount": "5",
    "sourceTiers": "B4 C1",
@@ -32622,7 +32585,6 @@
     "pre-theatre"
    ],
    "whyGo": "On Waterloo Road since 1972, and the counter two separate London chip shop video channels went out of their way to film.",
-   "opNote": "No working website - the domain that looks official has expired. Trading is corroborated by its own social page and dated third-party reviews, not by a live venue site. Confirm before recommending for a special trip.",
    "lists": [
     "fish-and-chips"
    ],

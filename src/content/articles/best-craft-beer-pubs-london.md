@@ -125,7 +125,7 @@ The pour is **a constantly changing range of cask ales, keg beers and real cider
 
 *£ · South Wimbledon · Cited by 2 sources · South West London CAMRA Pub of the Year (most recent published result: 2023)*
 
-The branch's own site hasn't posted a newer result since — its listed alternate domain has actually lapsed and now serves a parking page — so 2023 is genuinely the most recent published win rather than a current one, worth knowing if you're chasing an up-to-date title. Rebel Atlas's independent guide calls it **"a revered Hop Back pub and south-west London cask beacon"** with no mention of the award at all, which is real corroboration regardless of the date.
+No newer result has been published, so 2023 is the most recent win rather than a current title. Rebel Atlas's independent guide calls it **"a revered Hop Back pub and south-west London cask beacon"**.
 
 It's the brewery's only tied house in London — a 1950s brick rebuild that CAMRA calls "a remarkably intact survivor of the early post-war period" — pouring **up to eight Hop Back beers**, Summer Lightning among them, plus a proper wine list, in a community pub with soups, sandwiches and a garden with a conservatory.
 

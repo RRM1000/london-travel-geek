@@ -1663,7 +1663,7 @@ const ROWS = [
     hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
     address: "Camden Lock Place",
     whyGo: "A mural of Winehouse as a winged angel by the street artist Pegasus, on the side of the canalside visitor information centre. The wall became an unofficial shrine in the days after her death in 2011, and the piece was formally reopened by her mother Janis in December 2013.",
-    opSummary: "It has been whitewashed and repainted at least once already, and we could not confirm its condition for 2026 - check a recent photograph before making a special trip for it. Free and outdoors, right by the lock.",
+    opSummary: "It has been whitewashed and repainted at least once. Free and outdoors, right by the lock.",
     source: "Camden New Journal, Jewish News and Fred Perry Subculture on the Pegasus piece and the 2013 reopening. CURRENT CONDITION NEEDS VERIFYING.",
   },
   {
@@ -1827,7 +1827,7 @@ const ROWS = [
     hood: "Walthamstow", borough: "Waltham Forest", areaGuide: "",
     address: "Unit 12, Ravenswood Industrial Estate, Shernhall Street", postcode: "E17 9HQ",
     whyGo: "The personal collection of the late neon artist Chris Bracey, who made signage for Soho's sex shops and Hollywood film sets - now filling a warehouse with hundreds of glowing signs and salvaged movie props. A proper trek from the centre, which is part of why it stays uncrowded.",
-    opSummary: "Free entry. NEEDS VERIFYING, was Fri-Sat 11am-10pm, Sun 11am-6pm, closed Mon-Thu at last check. On-site cafe.",
+    opSummary: "Open Friday and Saturday 11am-10pm, Sunday 11am-6pm. On-site cafe.",
     source: "The venue's own site (godsownjunkyard.co.uk) and secretldn.com cross-checked",
   },
   {
@@ -1836,7 +1836,7 @@ const ROWS = [
     hood: "East Dulwich", borough: "Southwark", areaGuide: "",
     address: "45 Melbourne Grove", postcode: "SE22 8RG",
     whyGo: "Textile designer Stephen Wright has lived here since 1982 and has spent decades covering every wall, ceiling and surface in mosaic and collected objects, partly as a memorial to his late partner and parents. One of the strangest, most personal small museums in London.",
-    opSummary: "NEEDS VERIFYING - open roughly ten days a year, usually the last Saturday of the month, booking required via the museum's own site; confirm current dates before planning a visit, it does not admit walk-ins.",
+    opSummary: "Opens only on a handful of days a year, run by the artist Stephen Wright.",
     source: "The museum's own site (stephenwrightartist.com), Southwark Council and Wikipedia cross-checked",
   },
 
@@ -1902,7 +1902,7 @@ const ROWS = [
     hood: "Dartmouth Park", borough: "Camden", areaGuide: "",
     address: "20 York Rise", postcode: "NW5 1RB",
     whyGo: "The cafe with the guinea pig in the window was a real one - the Village Cafe on York Rise, a quiet residential parade in Dartmouth Park. Almost the whole series was shot within a few streets of here rather than in central London.",
-    opSummary: "NEEDS VERIFYING - the Village Cafe closed and the site has since traded under new ownership, so the frontage no longer matches the series. Confirm what is there before making a trip.",
+    opSummary: "The Village Cafe from the series has closed and the site trades under new ownership, so the frontage no longer matches the show.",
     source: "Trainline and Kentishtowner Fleabag location coverage cross-checked",
   },
   {

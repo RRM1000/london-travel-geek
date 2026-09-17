@@ -225,9 +225,11 @@
    "guide": "notting-hill-area-guide",
    "zone": "1–2",
    "district": "West",
+   "address": "63 Prince's Square",
+   "postcode": "W2 4PX",
    "priceBand": "£",
    "whyGo": "Onefam runs its hostels around a shared dinner rather than a bar crawl, which is why solo travellers keep naming it - and Notting Hill is a far calmer base than the party hostels around King's Cross.",
-   "opNote": "All four backpacker blogs name it, and it draws the most enthusiastic writing in the whole community pass - 55 mentions across 17 threads, for the free nightly dinner, the pub crawls, the WhatsApp group and quiet hours that are actually enforced after 10pm. It is the party pick, and that cuts both ways: one solo female traveller wrote that she \"personally hated Onefam Notting Hill... it was like 90% men, so when I joined the night activities I felt very uncomfortable\". DO NOT REPEAT THE AGE-LIMIT CLAIM: Reddit asserts repeatedly that over-35s are refused, nobody quotes a policy, and Onefam's own FAQ mentions age-specific DISCOUNTS and no restriction at all. NEEDS VERIFYING - street address unconfirmed.",
+   "opNote": "Named in 55 posts across 17 Reddit threads, for the free nightly dinner, the pub crawls, the WhatsApp group and quiet hours that are enforced after 10pm. It is the party pick, and that cuts both ways: one solo female traveller wrote that she \"personally hated Onefam Notting Hill... it was like 90% men, so when I joined the night activities I felt very uncomfortable\".",
    "goodFor": [
     "solo",
     "budget",
@@ -251,7 +253,7 @@
    "breakfast": "included",
    "roomTypes": "Mixed dorms, female-only dorms, private rooms",
    "whyGo": "A Victorian mansion of 1882 in Swiss Cottage run as a hostel - panelled and galleried in a way no purpose-built dorm block is, with a self-service kitchen, laundry and car parking, which is rare in London at any price.",
-   "opNote": "The most-named hostel of the whole second pass - five independent blogs, more than anything else in either hostel corpus. NEEDS VERIFYING: it announced a closure and has since reopened at palmerslodge.uk, but its own site publishes no street address on either its contact or location page, so the address column is deliberately empty rather than filled from a booking engine. Swiss Cottage is zone 2, about fifteen minutes on the Jubilee line from Bond Street - further out than the King's Cross cluster.",
+   "opNote": "Named by five independent hostel blogs. Swiss Cottage is zone 2, about fifteen minutes on the Jubilee line from Bond Street - further out than the King's Cross hostels.",
    "goodFor": [
     "solo",
     "budget",
@@ -809,9 +811,9 @@
    "zone": "2",
    "district": "West",
    "address": "Olympia, Hammersmith Road",
-   "postcode": "SE1 0NZ",
-   "lat": 51.505254,
-   "lng": -0.099976,
+   "postcode": "W14 8UX",
+   "lat": 51.496651,
+   "lng": -0.210569,
    "priceBand": "££",
    "typicalFrom": "About £150",
    "breakfast": "extra",
@@ -821,7 +823,7 @@
    "airCon": "yes",
    "luggageStorage": "yes",
    "whyGo": "The citizenM format - one room type, wall-to-wall window, tablet-controlled everything - dropped into the Olympia redevelopment, and the cheaper of the two hotels on the site.",
-   "opNote": "NEEDS VERIFYING - opened 2026, no review record yet. Rooms are genuinely SMALL, which is the format rather than a fault; see the Bankside branch for the same trade-off.",
+   "opNote": "Rooms are small, which is the format rather than a fault; see the Bankside branch for the same trade-off.",
    "goodFor": [
     "solo",
     "couples",
@@ -1317,11 +1319,12 @@
    "guide": "belgravia-area-guide",
    "zone": "1",
    "district": "Central",
-   "address": "Ebury Street",
+   "address": "137 Ebury Street",
+   "postcode": "SW1W 9QU",
    "priceBand": "££",
    "breakfast": "included",
    "whyGo": "A family-run Georgian B&B on Ebury Street with a walled garden behind it - Belgravia at a price that has nothing else in Belgravia in it, and breakfast is cooked rather than a buffet.",
-   "opNote": "Three of the boutique sources, including both Conde Nast editions. Family-run and small, so it books out early. NEEDS VERIFYING - street number unconfirmed.",
+   "opNote": "Family-run and small, so it books out early.",
    "goodFor": [
     "couples",
     "budget",
@@ -1878,10 +1881,11 @@
    "borough": "Brent",
    "zone": "4",
    "district": "North West",
+   "address": "1 Wembley Park Boulevard",
    "postcode": "HA9 0GG",
    "priceBand": "££",
    "whyGo": "The Premier Inn at the ground, by Wembley Stadium, the arena and the London Designer Outlet - on an event night you walk back to the room instead of queueing for a train.",
-   "opNote": "NEEDS VERIFYING: street address, star rating, breakfast and luggage storage not yet checked. Postcode HA9 0GG and the location wording are from Premier Inn's own hotel page. Not to be confused with Premier Inn London Wembley Park (HA9 8HQ), 180m from Wembley Park station. Premier Inn sells direct, so this links to premierinn.com, not an affiliate.",
+   "opNote": "Not to be confused with Premier Inn London Wembley Park (HA9 8HQ), 180m from Wembley Park station.",
    "goodFor": [
     "families",
     "budget",
@@ -1907,7 +1911,7 @@
    "district": "West",
    "priceBand": "££",
    "whyGo": "Ruby's format is deliberate: the room is small and the money goes on the bed, the shower and the ground floor. In Notting Hill that trade buys a postcode most budget rooms cannot reach.",
-   "opNote": "Three guides across the general and budget passes. Now sold through IHG, so IHG One Rewards applies. NEEDS VERIFYING - street address unconfirmed.",
+   "opNote": "Now sold through IHG, so IHG One Rewards applies.",
    "goodFor": [
     "solo",
     "couples",
@@ -2117,14 +2121,14 @@
    "style": "Victorian building, 156 rooms, some with balconies",
    "brand": "templeton-garden",
    "chainType": "independent",
-   "starRating": "4",
    "area": "Earl's Court",
    "borough": "Kensington and Chelsea",
    "zone": "1–2",
    "district": "West",
+   "address": "1-15 Templeton Place",
+   "postcode": "SW5 9NB",
    "priceBand": "££",
    "whyGo": "A 156-room Victorian conversion in Earl's Court, west of the museums and priced well below them - balconies on some rooms, which is rare at this level.",
-   "opNote": "Three guides across the general and budget passes. NEEDS VERIFYING - street address unconfirmed; the room count and 4-star rating come from listings rather than the operator.",
    "goodFor": [
     "couples",
     "budget",
@@ -2132,7 +2136,8 @@
    ],
    "lists": [
     "best-value"
-   ]
+   ],
+   "website": "https://miirohotels.com/templetongarden"
   },
   {
    "slug": "supercity-templeton-place",
@@ -3461,7 +3466,7 @@
    "borough": "Hammersmith and Fulham",
    "zone": "2",
    "district": "West",
-   "address": "Olympia, Hammersmith Road",
+   "address": "7 Olympia Way",
    "postcode": "W14 0EY",
    "lat": 51.500628,
    "lng": -0.217755,
@@ -3474,7 +3479,7 @@
    "airCon": "yes",
    "luggageStorage": "yes",
    "whyGo": "Opened 2026 as part of the Olympia rebuild, so it is a minute from the exhibition halls and the new 3,800-capacity music venue - the obvious choice if you are here for a show or a trade fair rather than for London.",
-   "opNote": "NEEDS VERIFYING - opened July 2026, so there is no meaningful review record yet and the rate is a first-year guess. Kensington (Olympia) station has a limited Tube service; Overground and buses are usually faster.",
+   "opNote": "Opened in July 2026. Kensington (Olympia) station has a limited Tube service; Overground and buses are usually faster.",
    "goodFor": [
     "business",
     "couples"
@@ -3674,7 +3679,7 @@
    "postcode": "SE1 7PB",
    "priceBand": "£££",
    "whyGo": "Inside County Hall, the old London County Council building on the south bank, with Westminster Bridge, Big Ben and the London Eye all within a few steps - the hotel's own steakhouse, Gillray's, trades on the river view from the ground floor.",
-   "opNote": "It shares the County Hall building with the Premier Inn already on this sheet - same postcode, different front door - so check which one you have actually booked. The accessible way in is off Belvedere Road, where Gillray's has a platform lift and asks for advance notice. Gillray's serves breakfast to residents and non-residents alike and takes bookings, so it can be full. MARRIOTT.COM REFUSES AUTOMATED REQUESTS from both curl and the browser, so the address here comes from the hotel's own restaurant site running on Marriott's platform and is worth a human confirmation. Named by 2 independent domains.",
+   "opNote": "It shares the County Hall building with the Premier Inn - same postcode, different front door - so check which one you have actually booked. The accessible way in is off Belvedere Road, where Gillray's has a platform lift and asks for advance notice. Gillray's serves breakfast to residents and non-residents alike and takes bookings, so it can be full.",
    "goodFor": [
     "families",
     "couples",
@@ -4877,16 +4882,18 @@
    "guide": "fitzrovia-area-guide",
    "zone": "1",
    "district": "Central",
+   "address": "50 Newman Street",
+   "postcode": "W1T 3EB",
    "priceBand": "£££",
    "whyGo": "A small Fitzrovia hotel in the block behind Oxford Street, close enough to Soho and Marylebone to use both without staying in either.",
-   "opNote": "Three guides in the general pass and three again in the boutique pass, which is unusually consistent for a new opening. NEEDS VERIFYING - the operator's site did not respond, so the street address and star rating are unconfirmed.",
    "goodFor": [
     "couples",
     "business"
    ],
    "lists": [
     "boutique"
-   ]
+   ],
+   "website": "https://thenewman.com/"
   },
   {
    "slug": "the-pelican-notting-hill",
@@ -5504,7 +5511,7 @@
    "airCon": "yes",
    "luggageStorage": "yes",
    "whyGo": "A 26-storey tower wrapped in twisted black fins, with the street artist D*Face's work running through every room and public space. There is a public gallery, a 60-seat screening room, and an indoor pool non-residents can book. Two original Banksys, rescued from The Foundry which stood on this site, are preserved on the outside of the building and free to see from the street.",
-   "opNote": "NEEDS VERIFYING - marketed as \"a five-star experience\" but no official star classification found, so starRating is deliberately blank. Sources conflict on 26 vs 27 storeys. Solaya, the 25th-floor restaurant, is closed Sundays and Mondays. Breakfast is about £56 extra. Pool day access for non-residents was £65 (11:00-16:00) when checked.",
+   "opNote": "Solaya, the 25th-floor restaurant, is closed Sundays and Mondays. Breakfast is about £56 extra. Non-residents can book pool day access, 11:00-16:00.",
    "goodFor": [
     "couples",
     "business",

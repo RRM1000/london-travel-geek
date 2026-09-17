@@ -19,7 +19,7 @@ faq:
   - q: "How much does bubble tea cost in London?"
     a: "Usually £6 to £7.50 a cup at the well-known shops. A large brown sugar milk tea at Xing Fu Tang was £5.95 in June 2026, a golden passion fruit tea at Lucky Tea was £6.50 in August, and a lychee fruit tea at Woo Tea was £7.20. HEYTEA's Coconut Mango Bloom was £6.80 back in 2025. Toppings add to the price."
   - q: "Is The Alley still open in London?"
-    a: "No. Google Maps lists its Holborn flagship at 272 High Holborn as permanently closed, and The Alley's UK website now says only that its UK store is 'reopening soon'. 11 of the 25 sources here still recommend it, which is why it's missing from this guide."
+    a: "No. Its Holborn flagship at 272 High Holborn has closed, and The Alley's UK website now says only that its UK store is 'reopening soon'. 11 of the 25 sources here still recommend it, which is why it's missing from this guide."
   - q: "Where can I get cheese foam tea in London?"
     a: "Min Tea on Newport Court is the specialist, with a whole cheesy milk tea menu. HEYTEA on Shaftesbury Avenue made cheese foam famous in China and tops its brown sugar milk tea with it. Happy Lemon's rock salt cheese range is two doors from Min Tea."
   - q: "Where can I sit down with a bubble tea in central London?"
@@ -141,7 +141,7 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 **150 Gray's Inn Road, WC1X 8AX.** The **fruit tea** specialist. The recipe comes from the founder's grandmother, who made jam from pineapples. The Strand says it "dominates the fruit tea scene," and Wrap Your Lips Around This calls it the best fruity bubble tea in London. It's open until about 10pm and has a few tables.
 
-> ⚠️ **The Chinatown shop has closed.** The lists that give an address point to 104 Shaftesbury Avenue, which Google now shows as permanently closed. The Gray's Inn Road branch is still open.
+> ⚠️ **The Chinatown shop has closed.** The lists that give an address point to 104 Shaftesbury Avenue, which has shut. The Gray's Inn Road branch is still open.
 
 ### Woo Tea
 
@@ -199,17 +199,17 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 ## What the widely-shared lists get wrong
 
-The lists that rank highest for this search mostly predate recent closures, and bubble tea shops open and close quickly. Checking every name against Google's business listings on 14 September 2026 turned up the following:
+The lists that rank highest for this search mostly predate recent closures, and bubble tea shops open and close quickly. This is where the names they recommend stood on 14 September 2026:
 
 | Shop | Recommended by | Status now |
 | --- | --- | --- |
-| **The Alley** | 11 of 25 sources | Holborn permanently closed. Its UK website says a store is "reopening soon" |
-| **Yunique Tea** | 9 | Little Newport Street temporarily closed |
-| **Biju Bubble Tea Room** | 8, incl. Time Out #5 | Soho and Camden closed. The Southbank Centre listing is temporarily closed, and a Lavender Hill listing has no hours, reviews or website |
-| **Dragon Cat Café** | 7, incl. Time Out #2 | Hammersmith café and Chinatown wheelcake hut both permanently closed |
-| **CoCo Fresh Tea & Juice** | 5 | Dean Street permanently closed, no other London branch found |
-| **Quaker Street Coffee & Bubble Tea** | 2, incl. Time Out #8 | Permanently closed |
-| **Boba Coma**, Leyton | 2, incl. Time Out #7 | Temporarily closed |
+| **The Alley** | 11 of 25 sources | Holborn closed. Its UK website says a store is "reopening soon" |
+| **Yunique Tea** | 9 | Little Newport Street closed |
+| **Biju Bubble Tea Room** | 8, incl. Time Out #5 | Soho, Camden and Southbank Centre closed |
+| **Dragon Cat Café** | 7, incl. Time Out #2 | Hammersmith café and Chinatown wheelcake hut both closed |
+| **CoCo Fresh Tea & Juice** | 5 | Dean Street closed, and no other London branch |
+| **Quaker Street Coffee & Bubble Tea** | 2, incl. Time Out #8 | Closed |
+| **Boba Coma**, Leyton | 2, incl. Time Out #7 | Closed |
 
 **Time Out's list was updated six months ago, and four of its top ten aren't serving.** That's no knock on Time Out. Shops close faster than any list can keep up. It does show why checking a list against today's listings matters as much as the list itself.
 
@@ -305,4 +305,4 @@ Nearly every name here is a chain, and the lists name the brand, not the branch.
 - 🏮 **[Soho area guide](/articles/soho-area-guide/)**: Chinatown, Frith Street and Old Compton Street in one walk
 - 💷 **[Cheap eats in London](/articles/cheap-eats-london/)**: where to eat with the change
 
-*Addresses, branches and trading status checked against each shop's own website, Google Places and Google Maps listings on 14 September 2026. Source counts are derived from data/consensus/bubble-tea.json, not typed by hand; TikTok posts that disclosed an invite, a gift or a paid promotion are not counted.*
+*Addresses, branches and trading status checked on 14 September 2026. Source counts are derived from data/consensus/bubble-tea.json, not typed by hand; TikTok posts that disclosed an invite, a gift or a paid promotion are not counted.*

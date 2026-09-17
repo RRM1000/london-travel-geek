@@ -148,7 +148,7 @@ Every major free-entry museum in London has toilets open to any visitor — you 
 
 **Westfield London** and **Westfield Stratford City** both list accessible toilets (RADAR key, available from Guest Services) and a baby-change lounge as standard centre services.
 
-**Department stores are honest but vague.** Selfridges and John Lewis Oxford Street both publish exactly where their toilets are, floor by floor — but neither states a "non-customers welcome" policy in writing, so it's a judgement call in practice rather than a published rule. Harrods and Liberty's sites blocked automated access entirely and Fortnum &amp; Mason's official pages don't mention toilets at all, so we can't confirm any of the three either way.
+**Department stores are honest but vague.** Selfridges and John Lewis Oxford Street both publish exactly where their toilets are, floor by floor — but neither states a "non-customers welcome" policy in writing, so it's a judgement call in practice rather than a published rule.
 
 ---
 

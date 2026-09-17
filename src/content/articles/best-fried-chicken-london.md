@@ -217,7 +217,7 @@ The word covers at least six different things in London, and a reader who wants 
 
 **Almost none of this needs booking, and that is the point.** The list is counters, takeaways and queues. The exceptions are Bao and Kricket, which are restaurants that fry chicken well, and Normah's, whose monthly booking drop is the only thing here that requires an alarm.
 
-**One venue in the sources has closed.** Sichuan Fry in Hackney, named by two sources, is recorded as permanently closed by The Infatuation's own listing. **Kaieteur Kitchen** in Elephant and Castle is listed as temporarily closed — check before travelling.
+**Two venues in the sources have closed.** Sichuan Fry in Hackney, named by two sources, and **Kaieteur Kitchen** in Elephant and Castle, which shut in October 2025 after its landlord locked it out.
 
 **The champion and the third place are on no editorial list.** 20Ft and Fortune Fried Chicken are named by the championship and by nothing else in this pass — recorded as it stands rather than smoothed over, because the judges and the writers are plainly not looking at the same city.
 

@@ -4475,14 +4475,10 @@
     "ward": "Borough & Bankside"
   },
   "hotels:citizenm-london-olympia": {
-    "placeId": "ChIJSSCdl6gEdkgRUQoUq3hE_oE",
-    "placesName": "citizenM London Bankside",
-    "resolvedAddress": "20 Lavington St, London SE1 0NZ, UK",
-    "postcode": "SE1 0NZ",
-    "businessStatus": "OPERATIONAL",
-    "lat": 51.505254,
-    "lng": -0.099976,
-    "ward": "Borough & Bankside"
+    "postcode": "W14 8UX",
+    "lat": 51.496651,
+    "lng": -0.210569,
+    "note": "Corrected 2026-09-17: Places had matched citizenM London Bankside. Postcode and coordinates from the FSA register (CitizenM London Olympia Hotel, Olympia Exhibition Centre)."
   },
   "hotels:claridges": {
     "placeId": "ChIJcZY1XAAFdkgRieYQg6UqpzQ",
@@ -4626,7 +4622,7 @@
     "postcode": "SE10 0TW",
     "businessStatus": "OPERATIONAL",
     "lat": 51.503781,
-    "lng": -9.4e-05,
+    "lng": -0.000094,
     "ward": "Greenwich Peninsula"
   },
   "hotels:la-gaffe": {

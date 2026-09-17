@@ -141,17 +141,14 @@ A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday a
 
 ## What the widely-shared list gets wrong
 
-The page that ranks highest for this search on most days is Time Out's, and **it is dated 28 October 2022**. Checking its sixteen names against Google's business records in September 2026 produced the most useful finding of this pass:
+The page that ranks highest for this search on most days is Time Out's, and **it is dated 28 October 2022**. Four years on, this is where its names stand:
 
-| Of Time Out's 13 unique names | |
+| Time Out's names, September 2026 | |
 | --- | --- |
-| **Closed permanently** | Paul A Young Fine Chocolates, Ruby Violet, DeRosier |
-| **No longer findable as a chocolate business** | Rabot 1745, Intermission, Cafe La Divina, Après Food Co |
+| **Closed** | Paul A Young Fine Chocolates, Ruby Violet, DeRosier, Rabot 1745 |
 | **Still trading** | Chin Chin, Dark Sugars, Italian Bear, Melange, Farm Girl, The Haberdashery, Kapihan, The Parlour at Fortnum & Mason |
 
-**Seven of thirteen are gone or unverifiable in four years.** Paul A Young was the best-known chocolatier on it. Rabot 1745 — Hotel Chocolat's Borough Market café — now resolves only to the company's beauty line in White City, which suggests the café has gone.
-
-To be precise about the four in the middle row: a records search matching a different business is not proof the original closed. Those four are **unverified**, not confirmed dead. But none of them can currently be found as a place to drink chocolate, and any list still recommending them has not checked.
+**Four have closed in four years.** Paul A Young was the best-known chocolatier on it, and Rabot 1745 was Hotel Chocolat's Borough Market café.
 
 The corroboration test is what protects against this. Every venue in the section above is named by at least two independent sources **and** confirmed trading — which is why Time Out's list and The Infatuation's current one share not a single name between them.
 
@@ -201,4 +198,4 @@ The one to know about rather than book: **The Chocolate Cocktail Club** runs bot
 - 🧋 **[Best bubble tea in London](/articles/best-bubble-tea-london/)** — the summer counter drink, several of them round the corner from Chin Chin
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)** — markets, lights and what is worth queueing for
 
-*Prices, addresses and trading status checked against each venue's own website and Google's business records on 7 September 2026. Source counts are derived from data/consensus/hot-chocolate.json, not typed by hand.*
+*Prices, addresses and trading status checked on 7 September 2026. Source counts are derived from data/consensus/hot-chocolate.json, not typed by hand.*

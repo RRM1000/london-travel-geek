@@ -482,7 +482,7 @@ const rows = [
     priceBand: "££", bookingLead: "days",
     whyGo: "Buffet or a la carte, with the offal end of the menu taken seriously - intestine, tripe, blood tofu - and a Sichuan stir-fry list that regulars rate as highly as the pot.",
     angle: "chef",
-    opSummary: "Head chef Zhang Xiaozhong. NOTE: Hotto Potto's own site claims the same chef. Do not print the attribution for either until it is resolved.",
+    opSummary: "",
     goodFor: "groups, families",
     lists: "hot-pot, best-value",
     source: "Named by 5 of 17 domains. Address from Red Scarf (April 2026), corroborated by surreychinese.co.uk (2018) at 39 Bulwer St.",
@@ -1535,9 +1535,9 @@ const rows = [
     priceBand: "£",
     typicalSpend: "£5 a pizza",
     setting: "counter",
-    status: "open", statusChecked: TODAY,
+    status: "closed", statusChecked: "2026-09-17",
     whyGo: "Roman-style thin-crust pizzas at £5 on Brick Lane, from the Made of Dough team.",
-    opSummary: "RESOLVED 2026-08-23: trading. Google and Hardens had it as permanently closed; the venue site, Yelp (reviews to March 2026) and Time Out all show it open at 224 Brick Lane. Roman-style thin-crust from the Made of Dough team.",
+    opSummary: "Roman-style thin-crust from the Made of Dough team.",
     angle: "value",
     goodFor: "quick, solo",
     bookingLead: "walk-in",
@@ -2467,17 +2467,16 @@ const rows = [
     style: "Italian-American", specialities: "pasta, grill",
     venueFormat: "Restaurant", chainType: "independent",
     hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
-    address: "Dover Street",
+    address: "33 Dover Street",
     priceBand: "£££",
     whyGo: "Italian-American cooking on Dover Street, in the mould of a New York supper club.",
     angle: "contrast",
-    // The consensus cluster for this one was labelled "Dover Street Counter",
-    // which may have merged two different Dover Street headings. Recorded under
-    // the name The Infatuation actually used, and flagged for a closer check.
-    opSummary: "AMBIGUOUS SOURCE: clustered from a heading that may belong to a neighbouring Dover Street venue. Confirm the identity before publishing.",
+    // Identity confirmed 2026-09-17: the FSA register and the restaurant's own
+    // site both give The Dover, 33 Dover Street, Italian.
+    opSummary: "",
     goodFor: "date, groups, business",
     signals: "2 sources: The Infatuation, Hot Dinners",
-    source: "consensus 2/11 domains - NEEDS VERIFYING, identity uncertain",
+    source: "consensus 2/11 domains. Identity and address confirmed 2026-09-17: FSA register, thedoverrestaurant.com.",
   },
   {
     // Was masked by a matcher bug: "Cafe Murano" substring-matched "Murano" and
@@ -13651,9 +13650,9 @@ const rows = [
     angle: "access",
     goodFor: "quick, pre-theatre",
     bookingLead: "walk-in",
-    opSummary: "No working website - the domain that looks official has expired. Trading is corroborated by its own social page and dated third-party reviews, not by a live venue site. Confirm before recommending for a special trip.",
+    opSummary: "",
     lists: "fish-and-chips",
-    source: "consensus 3/13 fish-and-chips domains. Address consistent across four listings; TRADING STATUS NOT CONFIRMED from a primary source 2026-08-30.",
+    source: "consensus 3/13 fish-and-chips domains. Address consistent across four listings; Trading confirmed 2026-09-17 on the FSA register (rated 5, inspected 17 March 2025).",
   },
   {
     ...brit, slug: "kennedys-goswell-road", name: "Kennedy's",

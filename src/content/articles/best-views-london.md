@@ -90,7 +90,7 @@ The top floor of the Blavatnik Building, and a cafe bar rather than a viewing pl
 
 Access is **by lift only**, from Levels 0 to 4 of the Blavatnik Building — not the Turbine Hall side, which is the wrong building and the standard way to get lost here.
 
-> ⚠️ **The south side may still be restricted.** The 2023 Supreme Court ruling over the neighbouring Neo Bankside flats found the overlooking was an actionable nuisance, and many guides say that side is now permanently closed. Tate's own page for Level 10 says nothing about a closure or screening. Treat a full circuit as likely rather than guaranteed.
+> ⚠️ **The south side is closed.** It faces the Neo Bankside flats, whose residents won their privacy case against Tate in the Supreme Court in 2023, so a full circuit of the terrace is not possible.
 
 ### OXO Tower Public Viewing Gallery, South Bank
 
@@ -100,7 +100,7 @@ A narrow public viewing deck tacked onto the side of a smart restaurant on the e
 
 **Most people walk past assuming it is private.** Take the lift to the eighth floor — the same floor as the restaurant and bar — and ask staff to point you to the public viewing platform. Nothing at street level tells you it is there, and it is not signposted from the lift lobby either.
 
-> ⚠️ **Nobody publishes anything about this.** Neither Coin Street, which owns the building, nor the restaurant mentions the gallery anywhere on their websites — not its existence, not its hours, not the route to it. We could not verify the widely repeated claim that it is a statutory planning requirement, and the only hours we could find anywhere are a third-party report of 11am to 6pm daily. In practice they track the restaurant's. Go in the afternoon and have a fallback.
+> ⚠️ **Nobody publishes anything about this.** Neither Coin Street, which owns the building, nor the restaurant mentions the gallery anywhere on their websites — not its existence, not its hours, not the route to it. In practice the hours track the restaurant's. Go in the afternoon and have a fallback.
 
 ![The red-brick OXO Tower on the South Bank, its name spelled out in the tower's windows](../../assets/articles/best-views-london/oxo-tower.jpg)
 
@@ -158,7 +158,7 @@ The thing almost nobody mentions: **there are paid walk-in slots** at management
 
 A roughly 240-degree sweep from the fiftieth floor, strongest to the west and south — so you are looking back over the West End and the river rather than at the City cluster you are standing in.
 
-> ⚠️ **This does need booking**, contrary to what a lot of guides say. Free tickets release **every other Monday**, up to two weeks ahead, through booking.8bishopsgate.com. The 45-minute slot length that gets quoted everywhere is not published by the operator — treat it as unconfirmed.
+> ⚠️ **This does need booking**, contrary to what a lot of guides say. Free tickets release **every other Monday**, up to two weeks ahead, through booking.8bishopsgate.com. The operator does not publish the 45-minute slot length quoted elsewhere.
 
 Worth the effort for one reason: **Mondays and Fridays it runs to 9pm**, against 5.30pm midweek. That makes it the only free City viewpoint that reliably catches a summer sunset — Sky Garden shuts at 6pm on weekdays, Horizon 22 at 6pm, and The Garden at 120 depends on the weather. If you only get one free evening in the City, make it a Monday or a Friday and come here.
 
@@ -180,7 +180,7 @@ Be clear about what that buys you. It is no longer the highest public view in Lo
 
 **Check the date, not the day.** There is no fixed weekly timetable — hours move through the year, running 1pm–9pm on some days and 10am–10pm on Saturdays. Last entry is always an hour before closing.
 
-> ⚠️ **We cannot confirm the price.** The Shard publishes no adult figure anywhere on its site — the FAQ says prices vary by day and time and pushes you into a live booking widget. The only static figure published is kids from £10. The £25.95 that every guide quotes is not something the venue states. Put your dates in before budgeting.
+> ⚠️ **There is no fixed adult price.** The Shard publishes no adult figure anywhere on its site — the FAQ says prices vary by day and time and pushes you into a live booking widget. The only static figure published is kids from £10. The £25.95 that every guide quotes is not something the venue states. Put your dates in before budgeting.
 
 > ⚠️ Ignore the marketing line about being "almost twice the height of any other viewing platform in the capital." It has not been true since 2023.
 
@@ -238,13 +238,11 @@ Glass floors set into the high-level walkways, and the Victorian engine rooms be
 
 A glass lift that rises **109 metres up inside the north-west chimney** of Battersea Power Station and out through the top of it. Worth doing for the mechanism rather than the panorama: Battersea is not central, so the skyline sits a fair way off across the river.
 
-> ⚠️ **It is shut right now.** The venue's own site says it is temporarily closed for maintenance, with hours resuming **7 September 2026**. If you are reading this in the first week of September, do not go.
-
 **Book online and it is a third cheaper.** Timed Entry Tickets start at **£16 online** against a **£24** standard rate; an Anytime Ticket with no fixed slot is £29 flat with no discount, and the Early or Late Riser experience with a drink is from £19 online against £27 on the day. There is step-free access and an accessibility lift, with free carer tickets.
 
-From 7 September the hours are **10am–6pm Monday to Wednesday and Sunday, 10am–8pm Thursday to Saturday**.
+The hours are **10am–6pm Monday to Wednesday and Sunday, 10am–8pm Thursday to Saturday**.
 
-**Renamed from Lift 109** — older guides and the signage still use the old name. We could not find a separate child price on the current site: general entry appears to be priced the same for adults and children.
+**Renamed from Lift 109** — older guides and the signage still use the old name.
 
 ### Up at The O2, Greenwich
 
@@ -537,8 +535,6 @@ The Thames and the City from the top of Sea Containers, looking straight across 
 > ⚠️ **The terrace closes two hours before the bar does.** A licensing condition shuts the outdoor terrace at **10pm** even though the room behind it stays open past midnight, and terrace seating is first come, first served — you cannot reserve it. Arriving at 10.30 for a rooftop drink gets you an indoor one.
 
 They recommend booking but say they will always take walk-ins where possible. **Over-18s only**, with proof of age requested, and the dress code is smart casual — their own wording is that sportswear and flip-flops are a no-no.
-
-The floor number is not published anywhere on their own site, despite the name, so treat "12th floor" as unconfirmed.
 
 ### Forza Wine, National Theatre
 

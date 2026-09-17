@@ -19,7 +19,7 @@ faq:
   - q: "Is London Zoo worth it?"
     a: "It opened in 1828 as the world's first scientific zoo and the listed Victorian buildings are part of the appeal. For younger children, Battersea Park Children's Zoo is smaller, cheaper and finishable in an afternoon without anyone getting tired."
   - q: "What is there for children on a rainy day in London?"
-    a: "The free museums, Babylon Park in Camden (three levels, with London's only indoor rollercoaster in the basement), Illusionaries in Canary Wharf, and the Postal Museum. All indoor."
+    a: "The free museums, Babylon Park in Camden (three levels, with London's only indoor rollercoaster in the basement), and the Postal Museum. All indoor."
   - q: "Where can children play with water in London?"
     a: "The Granary Square fountains at King's Cross — over 1,000 jets set into the paving, free, and the single best thing in London for small children on a hot day. Bring a towel."
 ---

@@ -228,8 +228,6 @@ Thirty seconds from Kappacasein and the porchetta counterweight to it. The menu 
 
 **Tuesday to Saturday 10am–5pm, Sunday 10am–4pm, closed Monday.** At Borough Market Kitchen, Winchester Walk, SE1 9AG.
 
-> ⚠️ **Their website is theblackpigsandwiches.co.uk.** The shorter theblackpig.co.uk is a parked domain-for-sale page and nothing to do with them, which has led people to assume they have closed. They have not.
-
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sandwiches-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
