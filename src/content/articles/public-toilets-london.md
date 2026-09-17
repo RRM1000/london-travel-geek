@@ -195,6 +195,7 @@ Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman'
 - 🛶 **[Best Canal Walks in London](/articles/best-canal-walks-london/)**
 - 🚇 **[Getting Around London: Transport Guide](/articles/getting-around-london-transport-guide/)**
 - 🎪 **[Free Things to Do in London](/free/)**
+- 🏥 **[Healthcare in London for Visitors](/articles/healthcare-for-visitors-london/)** — NHS, A&E and pharmacies, for visitors
 
 ---
 

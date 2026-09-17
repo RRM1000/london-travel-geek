@@ -124,4 +124,6 @@ If you're flying to London from the United States, Canada, Australia, the EU or 
 
 **Still choosing your dates?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets the weather, crowds and cost of every month against each other.
 
+**Wondering what happens if you get ill or hurt?** Our [healthcare in London guide](/articles/healthcare-for-visitors-london/) covers 999 versus 111, what's free on the NHS, and what a GHIC or EHIC actually covers.
+
 *Facts, figures and quotes in this guide are from GOV.UK's own ETA guidance — gov.uk/eta and the pages it links to, including gov.uk/check-uk-visa, gov.uk/check-eta and gov.uk/uk-border-control — checked on 10 September 2026. Eligible nationalities, prices and rules change; check your own passport at gov.uk/check-uk-visa before you travel.*

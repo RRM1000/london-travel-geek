@@ -195,3 +195,4 @@ Restaurant discount schemes and set menus are a separate way to spend less on th
 - 🚻 **[Public Toilets in London](/articles/public-toilets-london/)** — including the ones that still want a coin
 - 🏟️ **[Wembley Stadium Guide](/articles/wembley-stadium-arena-guide/)**, **[Tottenham Hotspur Stadium Guide](/articles/tottenham-hotspur-stadium-travel-guide/)** and **[The O2 Travel Guide](/articles/the-o2-travel-guide/)** — all cashless, all covered in detail
 - 📅 **[Best Time to Visit London](/articles/best-time-to-visit-london/)** — weather, crowds and cost, month by month
+- 🏥 **[Healthcare in London for Visitors](/articles/healthcare-for-visitors-london/)** — what's free on the NHS, what visitors pay, and the current prescription charge
