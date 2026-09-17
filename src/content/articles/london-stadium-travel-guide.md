@@ -233,6 +233,7 @@ London Stadium is, on the evidence of its own published access statement, thorou
 - 🛏️ **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)**
 - 🛌 **[Where to Stay in Shoreditch](/articles/where-to-stay-shoreditch/)**
 - 🎡 **[Stratford Area Guide](/articles/stratford-area-guide/)**
+- 💰 **[Money in London: Cash, Cards and ATMs](/articles/money-in-london/)** — including which London venues take no cash at all
 
 ---
 

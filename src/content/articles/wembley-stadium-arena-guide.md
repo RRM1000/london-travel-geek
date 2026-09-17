@@ -440,6 +440,7 @@ Bags over the stadium limit **will not be allowed in**, and folding a half-empty
 - 🎤 **[Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)**
 - 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**
+- 💰 **[Money in London: Cash, Cards and ATMs](/articles/money-in-london/)** — including which London venues take no cash at all
 
 ---
 

@@ -297,6 +297,8 @@ Iconic London black cabs can be hailed on the street, picked up at designated ta
 * **4-mile journey:** Approx. **£21.00 – £35.00**.
 * **Heathrow Airport to Central London:** Approx. **£70.00 – £120.00**.
 
+Every licensed black cab has been required to take card and contactless since 2016, with the reader fixed inside the passenger compartment — see our [money in London guide](/articles/money-in-london/) for what else does and doesn't take cash across the city.
+
 ### Private Hire & Ride-Hailing (Uber, Bolt, FreeNow)
 Private hire vehicles must be pre-booked through a licensed operator or app. Unlike black cabs, private hire apps show an exact upfront fare quote before you confirm your ride. Prices fluctuate dynamically based on distance, traffic demand (surge pricing), and vehicle tier.
 

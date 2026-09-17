@@ -95,6 +95,7 @@ Southend Airport features a **single passenger terminal**.
 * ✈️ [Stansted Airport to London Transport Guide](/articles/stansted-airport-to-london/)
 * ✈️ [Luton Airport to London Transport Guide](/articles/luton-airport-to-london/)
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
+* 💰 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
 
 ---
 

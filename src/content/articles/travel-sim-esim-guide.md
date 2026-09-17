@@ -358,6 +358,7 @@ Keeping your home SIM active lets you receive calls and bank security texts on y
 * [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
 * [London Public Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)
 * [Oyster Card Guide for Visitors](/articles/oyster-card-guide-london/)
+* [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
 
 ---
 

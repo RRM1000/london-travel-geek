@@ -228,5 +228,6 @@ So a card will not usually come off a restaurant's own fixed-price lunch — ask
 - 🎬 **[The Best Cinema Deals in London](/articles/cinema-deals-london/)** — including the free 2-for-1 Meerkat Movies offer
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
 - ☕ **[The Best Coffee in London](/articles/best-coffee-london/)**
+- 💰 **[Money in London](/articles/money-in-london/)** — including what's typical for a service charge, and what the new tipping law changed
 
 *All prices, terms, exclusions and restaurant counts were read off each scheme's own website on 3 September 2026, including the small print on all 635 of Tastecard's individual London restaurant pages. Confirm before you buy — these are auto-renewing subscriptions.*

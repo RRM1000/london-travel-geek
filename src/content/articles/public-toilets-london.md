@@ -189,6 +189,7 @@ Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman'
 ## Continue planning your London trip
 
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
+- 💰 **[Money in London](/articles/money-in-london/)** — cash, cards and cash machines across the city
 - 🕵️ **[Hidden London](/articles/hidden-london-secret-places/)**
 - 🌳 **[Best Parks and Gardens in London](/articles/best-parks-gardens-london/)**
 - 🛶 **[Best Canal Walks in London](/articles/best-canal-walks-london/)**

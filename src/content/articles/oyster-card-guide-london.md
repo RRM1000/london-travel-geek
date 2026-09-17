@@ -69,6 +69,10 @@ Both payment methods are accepted seamlessly across London's public transit netw
 
 ---
 
+![A TfL poster in a bus shelter reading Contactless, the safest way to pay, and noting that Oyster works on the same services](../../assets/articles/oyster-card/tfl-contactless-poster.jpg)
+
+*TfL's contactless poster at a bus shelter, from before TfL Rail became the Elizabeth line in 2022.*
+
 ## National Rail services within London
 
 National Rail is not one single London line. Several operators run suburban and regional trains through the Oyster area. Oyster is valid only for journeys where both stations and the permitted route are inside the pay-as-you-go boundary; it does **not** become valid across an operator's entire network.
@@ -199,6 +203,7 @@ If using an Oyster card, keep your balance topped up at any station ticket machi
 * 💷 [London Transport Fares and Costs 2026](/articles/london-public-transport-costs-and-fares/)
 * 🚌 [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)
 * 🚢 [How to Use London River Boats](/articles/how-to-use-london-river-boats/)
+* 💰 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
 
 ---
 

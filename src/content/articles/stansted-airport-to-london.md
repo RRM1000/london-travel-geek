@@ -113,6 +113,7 @@ Stansted has **one single main terminal building**, making navigation straightfo
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
 * 💷 [London Transport Fares and Costs 2026](/articles/london-public-transport-costs-and-fares/)
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
+* 💰 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
 
 ---
 

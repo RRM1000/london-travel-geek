@@ -292,6 +292,7 @@ The prohibited items list is broader than a simple bag-size rule: no weapons or 
 - 🎤 **[Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)**
 - 🏟️ **[Wembley Stadium and OVO Arena Travel Guide](/articles/wembley-stadium-arena-guide/)** — the equivalent guide for London's other major arena, for comparison
+- 💰 **[Money in London: Cash, Cards and ATMs](/articles/money-in-london/)** — including which London venues take no cash at all
 
 ---
 

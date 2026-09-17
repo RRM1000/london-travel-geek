@@ -120,4 +120,6 @@ If you're flying to London from the United States, Canada, Australia, the EU or 
 
 **Watching the budget?** [London on a budget](/articles/london-on-a-budget/) covers where the money really goes once you've landed — and check your airport's own arrival guide above for the cheapest way into town.
 
+**Sorting out cash and cards before you land?** Our [money in London guide](/articles/money-in-london/) covers the contactless limit, which cash machines charge, and where card-only London actually is.
+
 *Facts, figures and quotes in this guide are from GOV.UK's own ETA guidance — gov.uk/eta and the pages it links to, including gov.uk/check-uk-visa, gov.uk/check-eta and gov.uk/uk-border-control — checked on 10 September 2026. Eligible nationalities, prices and rules change; check your own passport at gov.uk/check-uk-visa before you travel.*

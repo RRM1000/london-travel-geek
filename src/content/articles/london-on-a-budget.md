@@ -343,6 +343,7 @@ For an evening out, [cinema deals and memberships](/articles/cinema-deals-london
 - 🎟️ **[Is the London Pass Worth It?](/articles/london-pass-guide/)** — the arithmetic, done properly
 - 🚇 **[Oyster Card Guide](/articles/oyster-card-guide-london/)**
 - 💳 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
+- 💰 **[Money in London: Cash, Cards and ATMs](/articles/money-in-london/)** — the contactless limit, cash machine charges and how much cash to actually carry
 - 🍽️ **[London Restaurant Deals](/articles/restaurant-deals-london/)** — set lunch and pre-theatre, with the real prices
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — what the 50% actually covers
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard vs the rest, tested

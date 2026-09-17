@@ -98,6 +98,7 @@ London City Airport has **one single compact terminal**.
 * ✈️ [Gatwick Airport to London Transport Guide](/articles/gatwick-airport-to-london/)
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
 * 💷 [London Transport Fares and Costs 2026](/articles/london-public-transport-costs-and-fares/)
+* 💰 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
 
 ---
 
