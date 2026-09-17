@@ -71,7 +71,7 @@ Every one of these is free, mapped stop by stop, and says what is open on which 
 
 ## Book before you fly
 
-Four things genuinely sell out. Everything else can wait.
+Five things genuinely sell out. Everything else can wait.
 
 | Book | How far ahead | Why |
 | --- | --- | --- |
@@ -79,6 +79,9 @@ Four things genuinely sell out. Everything else can wait.
 | **Westminster Abbey** | 1–2 weeks | Timed entry, and **closed to sightseers on Sundays** |
 | **A West End show** | 2–4 weeks | Direct from the theatre, not a reseller |
 | **Horizon 22** | Weeks ahead | Free, and the highest free viewpoint in London |
+| **A famous restaurant** | Weeks, or months for the top tables | The three-Michelin-star rooms and Dinner by Heston Blumenthal book months ahead; weekend afternoon tea and Duck & Waffle's window tables go weeks ahead |
+
+**For restaurants, set a reminder for the day bookings open.** The top kitchens release tables on a set date, and [Normah's](/articles/best-fried-chicken-london/) in Queensway Market releases its bookings in monthly batches. Some of the most-recommended places take no bookings at all, among them [José](/articles/best-spanish-restaurants-london/) in Bermondsey and [Sweetings](/articles/best-seafood-restaurants-london/) in the City, so plan a queue rather than a reservation. Our [special occasion restaurants](/articles/special-occasion-restaurants-london/) and [afternoon tea](/articles/best-afternoon-tea-london/) guides give each one's booking window.
 
 **Almost everything else is free and needs no booking** — the British Museum, National Gallery, Tate Modern, V&A, Natural History Museum, Science Museum and British Library all charge nothing to walk in.
 
