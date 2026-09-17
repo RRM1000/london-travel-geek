@@ -185,6 +185,7 @@ London is served by six commercial airports. Choose your airport transfer based 
 Explore our in-depth guides for specific networks, airport transfers, and ticket options:
 
 ### Core Transport & Payment Guides
+* 🛡️ **[Is London Safe?](/articles/is-london-safe/)** – Crime data, common scams, and who to call.
 * 🚆 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)** – Line guides, etiquette, and peak hours.
 * 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)** – Boarding rules, routes, and the 60-min Hopper.
 * 🚢 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** – Pier maps, Uber Boat zones, and scenic cruises.

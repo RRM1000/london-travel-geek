@@ -354,6 +354,7 @@ Keeping your home SIM active lets you receive calls and bank security texts on y
 
 ## Related guides
 
+* [Is London Safe?](/articles/is-london-safe/) – Crime data, common scams, and who to call
 * [Buying a SIM Card at London Airports: What It Costs](/articles/should-you-buy-sim-card-at-airport/)
 * [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
 * [London Public Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)

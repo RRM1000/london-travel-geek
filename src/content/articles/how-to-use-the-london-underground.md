@@ -210,6 +210,7 @@ Two different things get muddled here, and the difference decides whether you ca
 
 ## Related London Transport Guides
 
+* 🛡️ [Is London Safe?](/articles/is-london-safe/) – Crime data, common scams, and who to call.
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
 * 💷 [London Transport Fares & Costs 2026](/articles/london-public-transport-costs-and-fares/)
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)

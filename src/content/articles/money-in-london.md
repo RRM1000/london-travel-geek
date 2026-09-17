@@ -185,6 +185,7 @@ Restaurant discount schemes and set menus are a separate way to spend less on th
 
 ## Continue planning your London trip
 
+- 🛡️ **[Is London Safe?](/articles/is-london-safe/)** — crime data, common scams, and who to call
 - 💳 **[Oyster Card Guide](/articles/oyster-card-guide-london/)** — Oyster against contactless, and the card clash mistake that costs you twice
 - 🚌 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)** — what pay-as-you-go actually costs, zone by zone
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — where the money really goes, and what's free
