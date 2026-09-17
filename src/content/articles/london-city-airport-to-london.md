@@ -99,6 +99,7 @@ London City Airport has **one single compact terminal**.
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
 * 💷 [London Transport Fares and Costs 2026](/articles/london-public-transport-costs-and-fares/)
 * 💰 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
+* 🧳 [Luggage Storage in London](/articles/luggage-storage-london/) — why London City itself has no left-luggage desk, and where the nearest one is
 
 ---
 

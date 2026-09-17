@@ -125,7 +125,7 @@ Dayuse's filter bar lets you set **time of arrival**, **time of departure** and 
 
 ## When it is the wrong answer
 
-**If you only need to store bags**, a left-luggage counter is a fraction of the price. Day use makes sense when you want to lie down, shower or work — not when you want a locker.
+**If you only need to store bags**, a [left-luggage counter or storage app](/articles/luggage-storage-london/) is a fraction of the price. Day use makes sense when you want to lie down, shower or work — not when you want a locker.
 
 **If your gap is under about three hours**, by the time you have reached the hotel and back you have spent most of it travelling. The exception is Gatwick, where YOTELAIR is inside the terminal.
 

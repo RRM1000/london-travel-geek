@@ -146,7 +146,7 @@ The headline rate is the bed. These are the operators' own charges on top.
 
 **Breakfast.** Free at **Astor Hyde Park** and **Barmy Badger**. Unlimited continental at **YHA London Central**, served 07:00–10:30. £5 a day at Park Villa. £8 at Safestay if you did not book it in advance. Charged at Astor Victoria, Generator, Wombat's and Clink. Onefam does not do breakfast at all but runs a **free dinner**, which is the better deal.
 
-**Luggage.** Free on arrival at Astor and Onefam. **£3 per item per 24 hours** at Safestay. Paid lockers at Kabannas. Free at Palmers Lodge and Park Villa. Charges at Clink vary by property.
+**Luggage.** Free on arrival at Astor and Onefam. **£3 per item per 24 hours** at Safestay. Paid lockers at Kabannas. Free at Palmers Lodge and Park Villa. Charges at Clink vary by property. Where a hostel charges, our [luggage storage guide](/articles/luggage-storage-london/) covers the station counters and storage apps that usually beat it on price.
 
 **Parking.** Almost none of them, in a city where that is normal. **Palmers Lodge has car parking** and **Park Villa charges £10 a day**, and those are the only two.
 

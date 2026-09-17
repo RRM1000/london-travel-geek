@@ -160,6 +160,7 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
 * 🚇 [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
 * 💷 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
+* 🧳 [Luggage Storage in London](/articles/luggage-storage-london/) — left luggage at every terminal, and Heathrow's own hours and price
 
 ---
 

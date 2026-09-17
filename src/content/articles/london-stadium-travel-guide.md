@@ -191,7 +191,7 @@ At Association Football matches, alcohol may not be consumed in view of the pitc
 
 London Stadium operates a **100% search policy**: every supporter and their belongings are checked on the way in. The rule on size is simple — **no bag larger than A4** — and it's enforced the same way West Ham's own official 2026/27 access statement and the stadium's own safety page both describe it.
 
-> ⚠️ **There is no left luggage facility on site at all.** Unlike Wembley, where the arena at least points you to a third-party storage service, London Stadium's own guidance is simply not to bring a bag you don't need. If you need to bring something larger for a medical reason, West Ham's accessibility team (accessibility@westhamunited.co.uk, 0333 030 0174) will advise in advance — but there's no general workaround for anyone else.
+> ⚠️ **There is no left luggage facility on site at all.** Unlike Wembley, where the arena at least points you to a third-party storage service, London Stadium's own guidance is simply not to bring a bag you don't need. If you need to bring something larger for a medical reason, West Ham's accessibility team (accessibility@westhamunited.co.uk, 0333 030 0174) will advise in advance — but there's no general workaround for anyone else, beyond leaving the bag somewhere before you arrive; see our [luggage storage guide](/articles/luggage-storage-london/) for the nearest options.
 
 ---
 

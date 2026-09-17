@@ -320,6 +320,7 @@ Three major museums within *five minutes of each other*, all **free**.
 - 🏘️ **[Best London Areas to Visit](/articles/best-areas-to-visit-london/)**
 - 🚇 **[Getting Around London](/articles/getting-around-london-transport-guide/)**
 - 🎪 **[Free Things to Do in London](/free/)**
+- 🧳 **[Luggage Storage in London](/articles/luggage-storage-london/)** — for a day trip that starts before a hotel check-in
 
 ---
 

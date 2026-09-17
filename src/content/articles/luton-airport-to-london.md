@@ -102,6 +102,7 @@ The **Luton DART** is a state-of-the-art automated cable-hauled shuttle.
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
 * 💷 [London Transport Fares and Costs 2026](/articles/london-public-transport-costs-and-fares/)
 * 💰 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
+* 🧳 [Luggage Storage in London](/articles/luggage-storage-london/) — Luton's check-in-area left-luggage desk, hours and price
 
 ---
 

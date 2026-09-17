@@ -134,6 +134,7 @@ Gatwick has two passenger terminals: **North Terminal** and **South Terminal**.
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
 * 🚇 [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
 * 💷 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
+* 🧳 [Luggage Storage in London](/articles/luggage-storage-london/) — Gatwick's North and South Terminal left-luggage desks, hours and price
 
 ---
 

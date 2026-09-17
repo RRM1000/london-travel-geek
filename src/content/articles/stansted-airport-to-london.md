@@ -114,6 +114,7 @@ Stansted has **one single main terminal building**, making navigation straightfo
 * 💷 [London Transport Fares and Costs 2026](/articles/london-public-transport-costs-and-fares/)
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
 * 💰 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
+* 🧳 [Luggage Storage in London](/articles/luggage-storage-london/) — Stansted's Arrivals Hall left-luggage desk, hours and price
 
 ---
 

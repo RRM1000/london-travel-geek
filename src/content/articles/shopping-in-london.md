@@ -279,7 +279,7 @@ Rough, honest bands for planning:
 
 **Opening hours**, broadly: **Mon–Sat 10am–7pm** (later on Thursdays in the West End), **Sunday 12–6pm** for anything large. Markets are their own thing — see the table above.
 
-**Left luggage** exists at the big stations if you are shopping on a travel day, and Selfridges and Harrods will hold bags for customers.
+**Left luggage** exists at the big stations if you are shopping on a travel day, and Selfridges and Harrods will hold bags for customers — see our [luggage storage guide](/articles/luggage-storage-london/) for prices at every station and the storage apps that undercut them.
 
 **The best time to shop** is a weekday morning. Saturday afternoon on Oxford Street is genuinely unpleasant, and it is not better shopping — it is the same shops with more people in them.
 

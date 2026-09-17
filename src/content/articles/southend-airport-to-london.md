@@ -96,6 +96,7 @@ Southend Airport features a **single passenger terminal**.
 * ✈️ [Luton Airport to London Transport Guide](/articles/luton-airport-to-london/)
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
 * 💰 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
+* 🧳 [Luggage Storage in London](/articles/luggage-storage-london/) — why Southend itself has no left-luggage desk, and where the nearest one is
 
 ---
 

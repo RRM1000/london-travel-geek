@@ -85,7 +85,7 @@ Four gates, and they are a long walk apart once you are inside.
 
 **Hyde Park Corner, Knightsbridge and Marble Arch are closest and busiest, and can close when crowds build.** The official advice is to use **Victoria** (19 minutes' walk), **Bond Street** (14), **Paddington** (12) or **Green Park** (17) instead. Red Gate is described by the organisers as the family entrance and is typically the quietest of the four.
 
-**Security is 100% bag searches at every gate.** Bags must be **A4 or smaller** — handbags and small rucksacks only. Suitcases, scooters and bikes are refused, and **there is no left luggage on site**; the nearest is Victoria station.
+**Security is 100% bag searches at every gate.** Bags must be **A4 or smaller** — handbags and small rucksacks only. Suitcases, scooters and bikes are refused, and **there is no left luggage on site**; the nearest is Victoria station — see our [luggage storage guide](/articles/luggage-storage-london/) for the price and hours.
 
 ---
 

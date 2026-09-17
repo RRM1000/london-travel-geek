@@ -255,6 +255,8 @@ Backpacks, travel cases, laptop bags, camera bags and large tote bags aren't per
 
 The prohibited items list is broader than a simple bag-size rule: no weapons or bladed items, no fireworks, flagpoles or large inflatables, no large umbrellas, no glass or hard drinks bottles (an empty collapsible bottle is fine), no flammable liquids, no laser pens, no professional camera with a detachable lens, no illegal drugs or alcohol brought in, and no animals other than service and assistance dogs.
 
+Our [luggage storage guide](/articles/luggage-storage-london/) covers the citywide storage apps if the on-site bag store is closed or full.
+
 ---
 
 ## Step-free access, Blue Badge parking and accessible booking

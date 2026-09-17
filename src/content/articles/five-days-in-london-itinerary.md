@@ -174,6 +174,7 @@ Our view: on five days, don't. Greenwich gives you the change of scene, the rive
 - ⛵ **[How to Use London's River Boats](/articles/how-to-use-london-river-boats/)**
 - 🏘️ **[Best London Areas to Visit](/articles/best-areas-to-visit-london/)**
 - 🎪 **[Free Things to Do in London](/free/)**
+- 🧳 **[Luggage Storage in London](/articles/luggage-storage-london/)** — where to leave a bag between checking out and flying home
 
 ---
 

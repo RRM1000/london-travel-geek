@@ -131,6 +131,7 @@ Use the [best areas guide](/articles/best-areas-to-visit-london/) to choose, but
 - 🏘️ **[Best London Areas to Visit](/articles/best-areas-to-visit-london/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
 - 🎪 **[Free Things to Do in London](/free/)**
+- 🧳 **[Luggage Storage in London](/articles/luggage-storage-london/)** — where to leave a bag between checking out and flying home
 
 ---
 

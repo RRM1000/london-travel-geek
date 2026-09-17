@@ -398,6 +398,8 @@ Bags over the stadium limit **will not be allowed in**, and folding a half-empty
 
 > 💡 **Use the hotel.** The Novotel, Hilton and ibis all offer luggage storage, which on an event day is worth more than the room.
 
+Our [luggage storage guide](/articles/luggage-storage-london/) covers Stasher and the other citywide options if none of those work for you.
+
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wembley-stadium-arena-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>

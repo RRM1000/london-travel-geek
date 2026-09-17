@@ -216,6 +216,7 @@ For rail convenience and better value, [King's Cross](/articles/kings-cross-area
 - 🚇 **[Getting Around London](/articles/getting-around-london-transport-guide/)**
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 🎪 **[Free Things to Do in London](/free/)**
+- 🧳 **[Luggage Storage in London](/articles/luggage-storage-london/)** — where to leave a bag between checking out and flying home
 
 ---
 
