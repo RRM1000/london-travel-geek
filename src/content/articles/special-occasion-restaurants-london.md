@@ -2,12 +2,8 @@
 title: "Special Occasion Restaurants in London: Where to Book"
 seoTitle: "Special Occasion Restaurants London 2026: Showstoppers"
 description: "All six of London's three-Michelin-star restaurants, the rooms worth booking for the room alone, and which take months rather than weeks."
-heroImage: "../../assets/articles/special-occasion-restaurants-london/special-occasion-restaurants-london.jpg"
-heroImageAlt: "A long table set with candles and glassware in a darkened private dining room"
-heroImageCredit: "Jonathan Borba"
-heroImageSource: "https://www.pexels.com/photo/a-dining-table-with-candles-lit-and-a-chandelier-28059309/"
-heroImageLicense: "Pexels License"
-heroImageLicenseUrl: "https://www.pexels.com/license/"
+heroImage: "../../assets/articles/special-occasion-restaurants-london/rules-exterior.jpg"
+heroImageAlt: "A vintage green Rolls-Royce parked outside Rules restaurant in Covent Garden, beneath red awnings reading Rules, Est 1798"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london
@@ -69,6 +65,10 @@ The lunch menu is the cheapest way in.
 
 A quiet room rather than a scene — worth knowing if you are choosing between this and somewhere with more theatre. Fourteen minutes from Sloane Square, which is further than it sounds.
 
+![A small dining room at Restaurant Gordon Ramsay, with pink-grey upholstered chairs and round tables laid for service](../../assets/articles/special-occasion-restaurants-london/restaurant-gordon-ramsay-dining-room.jpg)
+
+*The dining room on Royal Hospital Road.*
+
 ### Core by Clare Smyth, Notting Hill
 
 *££££ · book months ahead*
@@ -84,6 +84,10 @@ Widely called the most technically accomplished table in the city, and built on 
 **92 Kensington Park Road, W11 2PN**, and The Ledbury is five minutes away — two three-star kitchens on the same walk.
 
 **Closed Sunday and Monday, and books months ahead.** Nine minutes from Holland Park, in a residential Notting Hill street rather than a hotel.
+
+![The black front door of Core by Clare Smyth at number 92, with a red Michelin 2026 plaque mounted beside it](../../assets/articles/special-occasion-restaurants-london/core-by-clare-smyth-entrance.jpg)
+
+*The door at 92 Kensington Park Road, with its 2026 Michelin plaque.*
 
 ### Alain Ducasse at The Dorchester, Mayfair
 
@@ -101,6 +105,10 @@ Classical French haute cuisine, including the **Table Lumière** — a private t
 
 **Closed Sunday and Monday, books months ahead**, and it sits inside The Dorchester on Park Lane, so the room is the hotel's rather than the restaurant's own. Seven minutes from Hyde Park Corner.
 
+![Round tables laid for dinner at Alain Ducasse at The Dorchester, with a curtain of fine lit strands behind them](../../assets/articles/special-occasion-restaurants-london/alain-ducasse-dining-room.jpg)
+
+*The dining room at Alain Ducasse at The Dorchester, inside the hotel on Park Lane.*
+
 ### Hélène Darroze at The Connaught, Mayfair
 
 *££££ · Carlos Place*
@@ -114,6 +122,10 @@ Three stars for cooking rooted in Darroze's native Landes — **regional French 
 **Carlos Place, W1K 2AL**, five minutes from Bond Street.
 
 **Closed Sunday and Monday, books months ahead.** Inside The Connaught, eight minutes from Bond Street.
+
+![A caviar course served over crushed ice at Hélène Darroze at The Connaught](../../assets/articles/special-occasion-restaurants-london/helene-darroze-caviar-course.jpg)
+
+*A caviar course from the tasting menu, served over crushed ice.*
 
 ### The Ledbury, Notting Hill
 
@@ -129,6 +141,10 @@ Brett Graham reopened it in 2022 with a tighter focus on British sourcing, and i
 
 **Closed Sunday and Monday, books months ahead.** Nine minutes from Westbourne Park.
 
+![The dark green frontage of The Ledbury on Ledbury Road, with its name lettered on the awning](../../assets/articles/special-occasion-restaurants-london/the-ledbury-exterior.jpg)
+
+*The Ledbury at 127 Ledbury Road, Notting Hill.*
+
 ### Sketch — The Lecture Room & Library, Mayfair
 
 *££££*
@@ -138,6 +154,10 @@ Pierre Gagnaire's London expression, on Conduit Street. The rest of sketch — t
 > sketch publishes no prices anywhere on its site; they appear only once you are inside the booking flow.
 
 **Books weeks rather than months ahead**, which makes it the most gettable of the three-star rooms, and it is six minutes from Oxford Circus. The Gallery downstairs takes bookings separately - so if the Lecture Room is beyond the budget, the pink room and the egg-shaped lavatories are a cheaper way into the same building.
+
+![The Georgian stone frontage of sketch on Conduit Street, with a small red sketch sign beside the door](../../assets/articles/special-occasion-restaurants-london/sketch-exterior.jpg)
+
+*The Georgian building on Conduit Street that houses sketch.*
 
 ---
 
@@ -151,21 +171,19 @@ Pierre Gagnaire's London expression, on Conduit Street. The rest of sketch — t
 
 Dishes rebuilt from British historical recipes as far back as the fourteenth century, each one dated on the menu — the **Meat Fruit (c.1500)**, a chicken liver parfait moulded and glazed to look exactly like a mandarin, is the one everybody orders and the one to order.
 
+![The Meat Fruit at Dinner by Heston Blumenthal, a chicken liver parfait moulded and glazed to look like a mandarin, served on a board with grilled sourdough](../../assets/articles/special-occasion-restaurants-london/dinner-by-heston-blumenthal-meat-fruit.jpg)
+
+*The Meat Fruit (c.1500), served with grilled sourdough.*
+
 **The other two to know** are the **Tipsy Cake (c.1810)**, a spit-roasted pineapple brioche that takes long enough to cook that you order it at the start of the meal, and **Rice & Flesh (c.1390)**, saffron rice with calf's tail.
 
 **Ask for a table on the park side.** The dining room looks over Hyde Park, and the kitchen's glass-walled pineapple spit is visible from parts of the room.
 
 > ⚠️ **Confirmed closing in January 2027** when the Knightsbridge lease ends. If you have been meaning to go, this is the year.
 
-![Sliced bread with a slab of butter on a black board](../../assets/articles/special-occasion-restaurants-london/dinner-by-heston-blumenthal.jpg)
-
-*The menu is built from historic British recipes, each dated. The meat fruit is the one everybody orders. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5881670409), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+**Closed Tuesdays** and books months ahead. It is inside the Mandarin Oriental, two minutes from Knightsbridge station.
 
 ---
-
-> ⚠️ **It is closing in January 2027**, when the Knightsbridge lease ends. If you are planning a 2027 trip, check before you build an evening around it — and if you have wanted to eat here, this is the last year to do it.
-
-**Closed Tuesdays**, books months ahead, and it overlooks Hyde Park from inside the Mandarin Oriental. Two minutes from Knightsbridge.
 
 ## Book for the room
 
@@ -179,13 +197,17 @@ Regularly called **the most romantic room in London** — a blossom-covered cons
 
 The cooking is Provençal and northern Italian: **rack of lamb, hand-made pasta, a long French wine list** that runs to several hundred bins. It is very good rather than the point; the room is the point, and the kitchen knows it.
 
+![A rack of lamb with charred greens, tomato and a herbed sauce at Clos Maggiore](../../assets/articles/special-occasion-restaurants-london/clos-maggiore-rack-of-lamb.jpg)
+
+*Rack of lamb at Clos Maggiore.*
+
 > 💡 **Book the conservatory specifically and say why.** The restaurant has several rooms and only one of them is the one in the photographs — asking for the conservatory, and mentioning the occasion, is the difference between a good dinner and the one people remember. It is the single most useful sentence in this guide.
 
 **33 King Street, WC2E 8JD**, two minutes from Covent Garden, and there is a **pre- and post-theatre menu** that is a fraction of the à la carte.
 
 ![The frontage of Clos Maggiore in Covent Garden, lit and decorated](../../assets/articles/special-occasion-restaurants-london/clos-maggiore.jpg)
 
-*Ask for the conservatory when you book. The blossom-covered room is the whole point and it is not where they seat you by default. Photo: [James E. Petts](https://www.flickr.com/photos/14730981@N08/52553938990), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Clos Maggiore's frontage on King Street at Christmas. Photo: [James E. Petts](https://www.flickr.com/photos/14730981@N08/52553938990), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### River Café, Hammersmith
 
@@ -197,6 +219,10 @@ Michelin-starred simplicity on the Thames, and the kitchen where both Jamie Oliv
 
 **The terrace tables book furthest ahead and are the entire point** — a table inside on a summer evening is a different and lesser night. Books months ahead, and it is eighteen minutes from Barons Court, so allow for the walk.
 
+![The River Café's lit terrace on the Thames at dusk, beneath the Thames Wharf sign, with tables and patio heaters set outside](../../assets/articles/special-occasion-restaurants-london/river-cafe-terrace.jpg)
+
+*The terrace and lawn at Thames Wharf.*
+
 ### Sketch, Mayfair
 
 *££££ · the pink room*
@@ -207,6 +233,10 @@ Afternoon tea inside an art installation, and **four separate rooms behind one d
 
 **The egg-shaped lavatory pods** are free to visit and genuinely the most photographed toilets in London — you do not need a booking to go and look.
 
+![One of sketch's white egg-shaped lavatory pods, beneath a ceiling painted in bands of colour, next to a display of oversized paper flowers](../../assets/articles/special-occasion-restaurants-london/sketch-egg-lavatories.jpg)
+
+*The egg-shaped lavatory pods at sketch.*
+
 **Book the specific room, not "Sketch"**, and book weeks ahead for the Gallery and months for the Lecture Room. **9 Conduit Street, W1S 2XG**, three minutes from Oxford Circus.
 
 ### Bob Bob Ricard, Soho
@@ -214,6 +244,10 @@ Afternoon tea inside an art installation, and **four separate rooms behind one d
 *££££ · Press for Champagne*
 
 Booth-only, art deco throughout in blue leather and brass, and a **button at every table marked Press for Champagne**. It works, and pressing it is the entire reason half the room is there.
+
+![A hand pressing the gold Press for Champagne button at a Bob Bob Ricard table, beside a glass of rosé champagne](../../assets/articles/special-occasion-restaurants-london/bob-bob-ricard-press-for-champagne.jpg)
+
+*The Press for Champagne button on a booth wall.*
 
 **The food is Anglo-Russian and better than the gimmick suggests**: **beef Wellington for two**, **chicken Kiev**, **lobster mac and cheese**, and a caviar list. Puddings arrive under a gold-leaf dome.
 
@@ -223,7 +257,7 @@ Booth-only, art deco throughout in blue leather and brass, and a **button at eve
 
 ![Blinis with caviar and soured cream on a gold-rimmed plate](../../assets/articles/special-occasion-restaurants-london/bob-bob-ricard.jpg)
 
-*The booths all have a button marked Press for Champagne, which is exactly as silly and enjoyable as it sounds. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5111925674), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Caviar with blinis and soured cream. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5111925674), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 **Books weeks ahead**, and it is booths only — there is no bar and no walk-in. Five minutes from Piccadilly Circus.
 
@@ -237,7 +271,15 @@ The only place in London where a celebration can start at 2am and end with sunri
 
 **Open 24 hours**, forty floors up in the Heron Tower. The sunrise and late-night slots are the ones worth planning around, and they are the reason to choose it over any other high room in London.
 
+![The view over the City of London skyline at dusk from a booth at Duck & Waffle, forty floors up](../../assets/articles/special-occasion-restaurants-london/duck-and-waffle-sunset-view.jpg)
+
+*The view from forty floors up in 110 Bishopsgate.*
+
 **The signature is the dish it is named after** — confit duck leg, a fried duck egg and mustard maple syrup on a waffle, **£26** — and it is on the menu at four in the morning exactly as it is at eight in the evening.
+
+![The Duck & Waffle signature dish: confit duck leg and a fried egg on a waffle, with a small pot of mustard maple syrup](../../assets/articles/special-occasion-restaurants-london/duck-and-waffle-signature-dish.jpg)
+
+*The dish it's named after: confit duck leg and a fried duck egg on a waffle, with mustard maple syrup.*
 
 **Book even at 2am.** Reservations run up to two months ahead and the room is small for the demand. **Card only, no cash**, smart casual.
 
@@ -251,7 +293,15 @@ The only place in London where a celebration can start at 2am and end with sunri
 
 **London's oldest restaurant**, trading since 1798, and written into *Spectre* as Bond's own regular — the film makes no attempt to disguise the room.
 
+![A vintage green Rolls-Royce parked outside Rules restaurant on Maiden Lane, beneath red awnings reading Rules, Est 1798](../../assets/articles/special-occasion-restaurants-london/rules-exterior.jpg)
+
+*Rules on Maiden Lane, trading since 1798.*
+
 **Game is the speciality and it is properly seasonal**: grouse from mid-August, then partridge, pheasant, woodcock and venison through the autumn, hung and served from the restaurant's own estate in the Pennines. **Steak and kidney pudding** and **jugged hare** are the other things to order, and neither is a museum piece.
+
+![A steak and kidney pudding in suet pastry with chips and gravy at Rules](../../assets/articles/special-occasion-restaurants-london/rules-steak-and-kidney-pudding.jpg)
+
+*Steak and kidney pudding at Rules.*
 
 **Autumn is the season to come.** Out of it you are eating in a beautiful room; in it you are eating something you genuinely cannot get in many places.
 
