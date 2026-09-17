@@ -306,3 +306,5 @@ A few things worth knowing about now, even though none of them happen in October
 **Crowds.** Two different months, split by half term. The first three weeks are among the easiest of the year in the big museums — summer has gone and the schools are in. Frieze weekend, 15 to 18 October, is the exception: the busiest the art world gets in London all year. Then half term refills every museum, aquarium and family attraction at once from the 26th.
 
 **Prices.** Two spikes, for two different reasons. Frieze week is the hotel spike — five ticketed fairs and an international trade audience push rates up for five days. Half term is an attraction spike rather than a hotel one: timed-entry slots go first, and turning up on spec is how a day gets wasted. The value in October is the first ten days, and — if you don't mind the dark — the very end of the month.
+
+**Working out which month suits you best?** [Best Time to Visit London](/articles/best-time-to-visit-london/) compares October's weather, crowds and hotel rates against the rest of the year.

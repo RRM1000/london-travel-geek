@@ -243,3 +243,5 @@ Three more worth watching: **Romy Gill has taken over The Pem** in St James's an
 **Prices.** Hotel rates fall from the August peak in the first week, then climb sharply for the middle stretch when Open House, the Design Festival and Fashion Week land on top of each other. If you are flexible, the first week and the last week of September are the value in this month.
 
 **Looking ahead.** October brings five art fairs in a single week alongside the closing weekend of the [BFI London Film Festival](/articles/london-film-festival/), a free Bayeux Tapestry festival at the British Museum, and the clocks going back. It is all in our [Things to Do in London in October](/articles/things-to-do-in-london-in-october/) guide.
+
+**Comparing September against the rest of the year?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets every month's weather, crowds and cost against each other.

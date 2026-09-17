@@ -274,4 +274,6 @@ Be honest with yourself about this one: **London does not have a strong trick-or
 
 **The free museums are your reliable fallback.** The British Museum, Natural History Museum, Wellcome Collection, Hunterian Museum and Sir John Soane's Museum are all free year-round, and several run half-term activity programmes that land right across Halloween week — the British Museum has previously run storytelling and Day of the Dead performances during the October half term. None of these had confirmed 2026 dates at the time of writing, so check each museum's own listings in October.
 
+**Planning the rest of your trip around October?** [Best Time to Visit London](/articles/best-time-to-visit-london/) covers the month's weather, crowds and cost against the rest of the year.
+
 ---

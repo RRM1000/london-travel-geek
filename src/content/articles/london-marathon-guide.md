@@ -412,6 +412,7 @@ One thing spectators often assume wrongly: the **free post-race TfL travel is fo
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🌳 **[Best Parks and Gardens in London](/articles/best-parks-gardens-london/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
+- 📅 **[Best Time to Visit London](/articles/best-time-to-visit-london/)** — April's weather and crowds against every other month
 
 ---
 

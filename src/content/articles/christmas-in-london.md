@@ -299,4 +299,6 @@ Almost nothing opens on 25 December, no transport runs, and what does open is a 
 
 **TfL runs no services at all on Christmas Day** — no Tube, buses, Overground, DLR, Elizabeth line, trams or river boats. It's the same every year. Black cabs, private hire, Santander Cycles and rental e-scooters are the only options moving. **Boxing Day is reduced rather than closed** — Tube and buses typically run to a Sunday timetable from around 7am, with the Elizabeth line historically closed altogether. Check [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel) nearer the date for the exact 2026 detail.
 
+**Deciding whether December is worth it against the rest of the year?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets its weather, crowds and cost against every other month.
+
 ---

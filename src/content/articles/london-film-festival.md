@@ -258,6 +258,8 @@ If you want to do the festival properly without overthinking it:
 5. **1 October, 10am** — check the extra release for anything you missed.
 6. **During the festival** — 10am online each morning, then returns at 45 minutes and standby at 30 minutes for anything still out of reach.
 
+**Deciding whether October is the right time for your trip?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets the month's weather, crowds and cost against the rest of the year.
+
 ---
 
 *Ticket prices, booking dates, the ticket limit and the LFF for Free booking date are the 2026 figures from the BFI's own tickets and booking page, checked on 13 September 2026. Everything else here is confirmed on the BFI's own listings.*
