@@ -10,6 +10,23 @@ interface Props {
 
 const { items } = Astro.props;
 
+// Answers are plain strings in frontmatter, and some carry a markdown link to
+// another guide. Without this the page printed the brackets and the URL. The
+// page gets a real link; the schema gets the link text only.
+const LINK = /\[([^\]]+)\]\(((?:\/|https:\/\/)[^)\s]+)\)/g;
+const plain = (answer: string) => answer.replace(LINK, "$1");
+const parts = (answer: string) => {
+  const out: { text: string; href?: string }[] = [];
+  let last = 0;
+  for (const m of answer.matchAll(LINK)) {
+    if (m.index! > last) out.push({ text: answer.slice(last, m.index) });
+    out.push({ text: m[1], href: m[2] });
+    last = m.index! + m[0].length;
+  }
+  if (last < answer.length) out.push({ text: answer.slice(last) });
+  return out;
+};
+
 // Emitted alongside the visible list so the answers are eligible for FAQ rich
 // results. Kept in this component so the schema can never drift from the copy.
 const faqSchema = JSON.stringify({
@@ -20,7 +37,7 @@ const faqSchema = JSON.stringify({
     name: item.q,
     acceptedAnswer: {
       "@type": "Answer",
-      text: item.a,
+      text: plain(item.a),
     },
   })),
 });
@@ -32,7 +49,7 @@ const faqSchema = JSON.stringify({
     {items.map((item) => (
       <details class="faq__item">
         <summary>{item.q}</summary>
-        <p>{item.a}</p>
+        <p>{parts(item.a).map((part) => (part.href ? <a href={part.href}>{part.text}</a> : part.text))}</p>
       </details>
     ))}
     <script type="application/ld+json" set:html={faqSchema} is:inline></script>
