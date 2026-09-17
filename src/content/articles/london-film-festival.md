@@ -1,7 +1,7 @@
 ---
 title: "BFI London Film Festival 2026: Dates, Tickets and How to Get Them"
-seoTitle: "BFI London Film Festival 2026: Tickets, Dates & Prices"
-description: "When LFF 2026 tickets go on sale, what they cost, the £6 rate for under-25s, and the practical routes into a sold-out screening — returns, standby and face-value resale."
+seoTitle: "LFF 2026 Dates & Tickets: 7–18 Oct, From £10"
+description: "The BFI London Film Festival runs 7–18 October 2026. General sale: 10am, 17 September. Tickets from £10, £6 if you're 25 or under, and how to get into sold-out screenings."
 publishedAt: 2026-08-29
 updatedAt: 2026-09-13
 reviewBy: 2026-09-18

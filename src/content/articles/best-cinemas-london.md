@@ -106,7 +106,7 @@ Same armchair-and-sofa format as Portobello, a proper kitchen rather than a snac
 
 *South Bank*
 
-The national film archive's own cinema, with the deepest repertory programme in the country and a Mediatheque where you can watch archive material free. It began life as the National Film Theatre — a temporary building at the 1951 Festival of Britain, moved to this site in 1957, and expanded from one screen to four when it was relaunched as BFI Southbank in 2007.
+The national film archive's own cinema, with the deepest repertory programme in the country and a Mediatheque where you can watch archive material free. It began life as the National Film Theatre — a temporary building at the 1951 Festival of Britain, moved to this site in 1957, and expanded from one screen to four when it was relaunched as BFI Southbank in 2007. Each October it is one of the venues for the [BFI London Film Festival](/articles/london-film-festival/).
 
 It is also **the only cinema in the UK licensed to publicly screen nitrate film**, the highly flammable stock used until the early 1950s — a genuine rarity that most repertory cinemas cannot offer at any price.
 

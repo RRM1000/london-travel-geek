@@ -1,7 +1,7 @@
 ---
 title: "London Day Rooms: Booking a Hotel Without Staying the Night"
-seoTitle: "Day Use Hotels London 2026: Hourly Rooms & Prices"
-description: "245 London hotels sell rooms by the day, at 21% to 69% off the overnight rate. What the windows are, which ones open at 7am, and when it beats a left-luggage locker."
+seoTitle: "Day Use Hotels London 2026: Day Rooms From £50"
+description: "About 245 London hotels sell a room for the day, not the night: fixed windows from £50, 21% to 69% off. Which open at 7am, the Heathrow and Gatwick options, and when it beats left luggage."
 heroImage: "../../assets/articles/day-rooms-london/london-hotel-room-daytime.jpg"
 heroImageAlt: "A London hotel room with a double bed, a patterned throw, teal bedside tables and lamps lit either side of an upholstered headboard"
 publishedAt: 2026-09-07
