@@ -269,7 +269,7 @@
   },
   "best-bakeries-london": {
    "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "adjacent": "pick:walking-tours"
   },
   "best-breakfast-brunch-london": {
    "slot1": "pick:food-tours",
@@ -288,8 +288,7 @@
    "adjacent": "pick:walking-tours"
   },
   "best-coffee-london": {
-   "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "slot1": "pick:food-tours"
   },
   "best-dim-sum-london": {
    "slot1": "London Chinatown food tour",
@@ -316,8 +315,7 @@
    "adjacent": "pick:food-tours"
   },
   "best-japanese-restaurants-london": {
-   "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "slot1": "pick:food-tours"
   },
   "best-korean-restaurants-london": {
    "slot1": "pick:food-tours",
@@ -329,11 +327,11 @@
   },
   "best-mexican-restaurants-london": {
    "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "adjacent": "pick:walking-tours"
   },
   "best-middle-eastern-restaurants-london": {
    "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "adjacent": "pick:walking-tours"
   },
   "best-pizza-london": {
    "slot1": "London pizza making class",
@@ -348,12 +346,10 @@
    "adjacent": "pick:food-tours"
   },
   "best-spanish-restaurants-london": {
-   "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "slot1": "pick:food-tours"
   },
   "best-steak-restaurants-london": {
-   "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "slot1": "pick:food-tours"
   },
   "best-street-food-london": {
    "slot1": "pick:food-tours",
@@ -364,16 +360,15 @@
    "adjacent": "pick:walking-tours"
   },
   "best-thai-restaurants-london": {
-   "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "slot1": "pick:food-tours"
   },
   "best-turkish-restaurants-london": {
    "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "adjacent": "pick:walking-tours"
   },
   "best-vegetarian-vegan-restaurants-london": {
    "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "adjacent": "pick:walking-tours"
   },
   "best-walking-tours-london": {
    "slot1": "pick:walking-tours",
@@ -401,7 +396,7 @@
   },
   "unusual-restaurants-london": {
    "slot1": "pick:food-tours",
-   "adjacent": "pick:food-tours"
+   "adjacent": "pick:river-and-views"
   },
   "cycling-bike-hire-scooters-london": {
    "slot1": "London bike tour",
@@ -583,7 +578,7 @@
   },
   "south-kensington-area-guide": {
    "slot1": "pick:museums-and-history",
-   "adjacent": "pick:museums-and-history",
+   "adjacent": "pick:family-favourites",
    "anchorGroup": "west"
   },
   "stratford-area-guide": {
@@ -622,7 +617,7 @@
   },
   "best-canal-walks-london": {
    "slot1": "pick:river-and-views",
-   "adjacent": "pick:river-and-views",
+   "adjacent": "pick:family-favourites",
    "anchorGroup": "north"
   },
   "best-cinemas-london": {
@@ -631,11 +626,11 @@
   },
   "best-comedy-clubs-london": {
    "slot1": "pick:london-classics",
-   "adjacent": "pick:london-classics"
+   "adjacent": "pick:walking-tours"
   },
   "best-galleries-london": {
    "slot1": "pick:museums-and-history",
-   "adjacent": "pick:museums-and-history"
+   "adjacent": "pick:river-and-views"
   },
   "best-live-music-venues-london": {
    "slot1": "pick:london-classics",
@@ -669,7 +664,7 @@
   },
   "competitive-socialising-london": {
    "slot1": "pick:london-classics",
-   "adjacent": "pick:london-classics"
+   "adjacent": "pick:walking-tours"
   },
   "halloween-london": {
    "slot1": "London ghost tour",
@@ -696,11 +691,11 @@
   },
   "immersive-experiences-london": {
    "slot1": "pick:london-classics",
-   "adjacent": "pick:london-classics"
+   "adjacent": "pick:family-favourites"
   },
   "london-blue-plaques": {
    "slot1": "pick:walking-tours",
-   "adjacent": "pick:walking-tours"
+   "adjacent": "pick:museums-and-history"
   },
   "london-film-festival": {
    "slot1": "pick:walking-tours",
@@ -721,7 +716,7 @@
   },
   "london-plaques-guide": {
    "slot1": "pick:walking-tours",
-   "adjacent": "pick:walking-tours"
+   "adjacent": "pick:museums-and-history"
   },
   "london-street-art": {
    "slot1": "pick:walking-tours",
@@ -758,8 +753,8 @@
   },
   "best-cabaret-london": {
    "slot1": "pick:london-classics",
-   "adjacent": "pick:london-classics",
-   "slot3": "pick:london-classics"
+   "adjacent": "pick:walking-tours",
+   "slot3": "pick:museums-and-history"
   },
   "shopping-in-london": {
    "slot1": "pick:london-classics",

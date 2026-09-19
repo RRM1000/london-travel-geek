@@ -76,7 +76,7 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 **The front desk line is the one to read twice.** Zedwell staffs reception around the clock. Otherwander and The GreenHouse have no front desk at all — you complete registration online, and a smart-lock code or access code arrives by email in the 24 hours before you arrive. That is fine when it works and a problem at midnight when it does not.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The rules that catch people out
 
@@ -122,7 +122,7 @@ Two things worth knowing about these numbers.
 
 **The GreenHouse is the flattest price in London**, moving £11 across the whole year. That makes it dearer than Zone 1 in October and cheaper in December. Its Zone 2 address buys you nothing on a quiet night.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The five, and which to book
 
@@ -192,7 +192,7 @@ It is very small — eight units — with no front desk and entry by access code
 
 The problem is arithmetic: **£42 in Zone 2 against £33 in Zone 1** on a quiet night. It earns its place in December, when Zedwell climbs and this does not.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What gets miscalled a capsule hotel
 

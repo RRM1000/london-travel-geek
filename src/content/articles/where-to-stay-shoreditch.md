@@ -104,8 +104,6 @@ Rooms vary a lot for one hotel — whitewashed walls, tapestry hangings and pine
 
 **This is the former Ace Hotel building**, which matters because the booking sites still file it under the old name. Six bars and restaurants including a rooftop, all open to non-residents — good for the area, less good for quiet.
 
-<div data-stay-strip></div>
-
 ### Redchurch Townhouse — Soho House without the membership
 
 *About £220 · Thirty-seven rooms · Cecconi's downstairs · [Hotels.com](hotel:redchurch-townhouse)*
@@ -222,7 +220,7 @@ Two practical notes. **Breakfast is about £56 extra**, which is a lot on top of
 
 *A room at art'otel London Hoxton — D*Face's work on the wall, the amber glass panelling running through the tower.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-shoreditch-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-shoreditch-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay near Shoreditch instead
 
@@ -267,8 +265,6 @@ The counterintuitive one, and the best value in this guide. **The City empties o
 **The way to use this is to price the same Saturday twice**, once in Shoreditch and once in the City, and take whichever wins. There is no loyalty to be had here: the gap swings by more than £80 depending on the week, and it is the only area in this guide where the weekend is the cheap end.
 
 The cost is atmosphere. **The City is genuinely dead on a Sunday** — many places do not open at all — so it works for a Friday and Saturday and badly for a week.
-
-<div data-stay-strip></div>
 
 ### Whitechapel — east and cheaper
 
@@ -316,7 +312,7 @@ Stratford is not charming, but it is the answer if the priority is a decent room
 
 The honest downside is that the area around the station is a shopping centre and a stadium, so evenings mean chains rather than the independents you came east for. Treat it as a base rather than a destination.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-shoreditch-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-shoreditch-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What you are staying for
 

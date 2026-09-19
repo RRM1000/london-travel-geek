@@ -58,7 +58,7 @@ Dayuse advertises **"up to 75% off"**; the biggest we actually found across the 
 
 **The pattern is worth understanding before you shop.** The biggest discounts are at the *expensive* hotels, not the cheap ones — 69% off at Seraphine Hammersmith and 66% at the Mandeville, against 24% at ibis Earls Court. A budget hotel has no margin to give away; a £300 room does. So day use is at its best when it buys you a hotel you would not otherwise book.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The windows, and how long you actually get
 
@@ -92,8 +92,6 @@ Dayuse's filter bar lets you set **time of arrival**, **time of departure** and 
 
 **The late flight.** You checked out at 10am and fly at 10pm. Evening windows exist for exactly this — 4pm–10pm at Novotel London West and the Atrium, 4pm–11pm at DoubleTree Kingston, 3pm–9pm at Holiday Inn Express ExCeL, 2pm–8pm at the Wesley.
 
-<div data-stay-strip></div>
-
 ## Heathrow and Gatwick work differently
 
 **Heathrow has no cabin hotel.** The YOTELAIR that used to sit in Terminal 4 is gone — YOTEL's UK estate is now Gatwick, London City, Stratford, Edinburgh and Manchester, and none of those is at Heathrow. So day use there runs through the ordinary hotels on Bath Road and around the terminals:
@@ -121,7 +119,7 @@ Dayuse's filter bar lets you set **time of arrival**, **time of departure** and 
 
 **That the room is a normal room.** These are not stripped-down day products; you get the hotel's ordinary room, its bathroom and usually its facilities. What you do not get is the night.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## When it is the wrong answer
 

@@ -58,7 +58,7 @@ It runs east from the station, turns north beneath Exhibition Road and comes out
 
 **One caution, and it is a big one.** The tunnel is step-free at the museum end and the station above it is not. South Kensington has no lifts to its platforms at all, so arriving here with a heavy case or a pram means stairs. Stay within walking distance and you simply never use the station for the museums — which is, in the end, the strongest argument for sleeping in SW7 rather than commuting in.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 
@@ -81,8 +81,6 @@ Thirty-seven rooms one street west of Exhibition Road, where the corridors are t
 **The fact to have straight before booking is that it does not sell family rooms at all.** The hotel's own site sends families across the road to its sister property, The Gainsborough. In an area whose whole trade is children and dinosaurs, that is a striking gap — this is a couples' hotel standing at a family address.
 
 Rooms are small for the rate, and the ground floor is a bar and lounge rather than a restaurant you would plan an evening around. There is a 24-hour front desk. **Breakfast is extra.**
-
-<div data-stay-strip></div>
 
 ### Cheval Gloucester Park — the family answer, and it will sell you one night
 
@@ -130,7 +128,7 @@ There are exactly two standing exceptions, and both are free:
 
 Beyond those, the answer is to walk. Sloane Square and the King's Road are one stop east on the District and Circle lines, and the Old Brompton Road heading south-west has the everyday restaurants and pubs that the museum end does not. **Budget twenty minutes each way to eat properly**, and treat any hotel restaurant here as a genuine convenience rather than a compromise.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Breakfast, and the ten o'clock start
 
@@ -160,8 +158,6 @@ Two hard limits. **It sells one room type only, a Cocoon 2 sleeping two**, so th
 
 The reason to look here even at the top of that range: **the V&A names Knightsbridge as its nearest step-free Tube station**, a fourteen-minute walk, because South Kensington has no lifts. If anyone in your party uses a wheelchair, that settles it.
 
-<div data-stay-strip></div>
-
 ### Chelsea and Sloane Square — dearer, and the one that has an evening
 
 Not cheaper, and not pretending to be. This is the section for anyone who has read the rest of this guide and decided that dinner matters more than a tunnel. Sloane Square is one stop east on the District and Circle, and the King's Road runs west from it with restaurants still serving when South Kensington has gone dark.
@@ -178,7 +174,7 @@ Notting Hill is not a South Kensington substitute. It is twenty-five minutes on 
 
 Take this if the museums are one day of a longer trip. Do not take it if they are the trip — you will walk that route twice a day and resent it by Wednesday.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-south-kensington-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What you are staying for
 

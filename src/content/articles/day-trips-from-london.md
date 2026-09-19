@@ -111,8 +111,6 @@ Most coach tours pair Bath with Stonehenge, but they give you two or three hours
 
 → **[The full Bath guide](/articles/bath-day-trip/)**
 
-<div data-stay-strip></div>
-
 ## Stonehenge
 
 The one day trip where a tour is genuinely the sensible choice. By public transport it is Waterloo to Salisbury, then a bus that runs **five times a day in winter**, about three hours each way and roughly £80 all in. Tours start at **£66 with entry included**.
@@ -140,7 +138,7 @@ These do not have a guide of their own yet, but they are worth the day:
 - **Theme parks:** Legoland, ten minutes from [Windsor](/articles/windsor-day-trip/) and a day of its own rather than an afternoon after the castle, plus Thorpe Park, Chessington, and Alton Towers if you are prepared to stay over.
 - **Abroad:** [Paris by Eurostar](/articles/paris-day-trip/), which is from 2h16 direct and a real day out if you start early — see the full guide for the fares, the border checks, and how many hours that actually leaves you in the city.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Making the day work
 

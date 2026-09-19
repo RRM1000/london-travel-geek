@@ -78,8 +78,6 @@ The largest capsule hotel in the UK, on five floors of the Grade II London Pavil
 
 *Numbered Cocoon berths at Zedwell Capsule Piccadilly Circus.*
 
-<div data-stay-strip></div>
-
 ### Otherwander Soho — a Dean Street address, and nobody at the desk
 
 *£62–£119 a single nest, £98–£165 a double · 563 pods over six floors · 91–92 Dean Street, W1D 3SY · Tottenham Court Road 3 min · [check prices](hotel:otherwander-soho)*
@@ -164,8 +162,6 @@ Two Michelin Keys in 2025, the joint highest score in this guide. Downstairs the
 
 **The bowling alley and the roof terrace can be booked without a room**, which is the sensible way to see the place for a fraction of the £500 a night the rooms want. The trade for the courtyard is footfall: it is a public square rather than a private garden, and the restaurant, bar and Orangery all take non-residents, so the ground floor is busy with people who are not staying.
 
-<div data-stay-strip></div>
-
 ### The Soho Hotel — the quiet one, hidden down a mews
 
 *About £480 · 96 rooms and suites · 4 Richmond Mews, W1D 3DH · One Michelin Key · [check prices](hotel:the-soho-hotel)*
@@ -190,7 +186,7 @@ A hundred and sixty years on the corner where Mayfair, Soho and Piccadilly meet,
 
 **Ask which way your room faces when you book.** The stock splits between Regent Street on one side and Westminster and Piccadilly on the other, and the rate does not always tell you which you are getting. Akasha is the spa; the Grill Room and the Oscar Wilde Lounge take non-residents, and booking a table in either is the affordable way to see the interiors when the rooms want £600.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-soho-west-end-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-soho-west-end-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay just outside
 
@@ -274,7 +270,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 *A bedroom at Treehouse Hotel London, with its window seat over the skyline, and the bathroom's birch-branch feature wall.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-soho-west-end-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-soho-west-end-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The noise question, and why Soho is not Shoreditch
 

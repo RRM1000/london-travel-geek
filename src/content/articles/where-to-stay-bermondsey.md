@@ -76,8 +76,6 @@ There is a gym and yoga studio, a coworking floor, a 24-hour desk, and the Locke
 
 *A room at Bermonds Locke, with the kitchenette visible beyond the bed, and its bathroom.*
 
-<div data-stay-strip></div>
-
 ### Bermondsey Square Hotel — £180, a shared terrace, and a market at six in the morning
 
 *About £180 · 90 rooms · Bermondsey Square, SE1 3UN · London Bridge 15 min walk · [check prices](hotel:bermondsey-square-hotel)*
@@ -114,7 +112,7 @@ Eighteen floors of the Shard, starting at **level 34** and running to 202 rooms 
 
 *The view from a corner room at Shangri-La The Shard, high above London.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay just outside
 
@@ -160,8 +158,6 @@ Two more worth pricing on your own dates: **[The Hoxton, Southwark](hotel:the-ho
 
 *A room at The Hoxton, Southwark, with a dining table by the window, and its bathroom.*
 
-<div data-stay-strip></div>
-
 ### Spitalfields and Aldgate — across the river, and better connected
 
 Twenty minutes' walk north of London Bridge, over the river, and a different transport picture: the Elizabeth line at Whitechapel and Liverpool Street puts Bond Street about twelve minutes away and Heathrow on one train, which is the one thing Bermondsey cannot do.
@@ -186,7 +182,7 @@ Twenty minutes from London Bridge by Tube and noticeably cheaper, with the trade
 
 **[The GreenHouse Capsules](hotel:greenhouse-capsules)** at 93 Roman Road is the other end entirely, at **£42 to £53 a capsule** — eight units, no front desk, entry by access code, and the flattest price in our whole capsule set. It barely moves between a quiet Sunday and mid-December, which makes it dearer than a Zone 1 berth on a quiet night and cheaper at Christmas — the opposite of what a Zone 2 address implies.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The night train, and the fact almost everyone gets wrong
 
@@ -210,7 +206,7 @@ If the market and the arches are why you picked Bermondsey, the booking should s
 
 One good midweek fact: **the Sainsbury's on Bermondsey Square is open until midnight**, which is what makes a kitchen at Bermonds Locke useful rather than theoretical. And **The Arzner**, on the same square, is London's first LGBTQ+ cinema — a 50-seat screen with a cocktail bar attached, screening daily, the bar open to 11pm Sunday to Thursday and to midnight on Friday and Saturday.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What you are staying for
 

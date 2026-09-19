@@ -83,8 +83,6 @@ It picks up at **Victoria, Marble Arch, Notting Hill Gate, Shepherd's Bush, Acto
 
 > 💡 **Who should take which.** Two adults on fixed times: the train, on Advance singles, for £36 each way or less. A family, or anyone whose day might run long: the coach, because £70 covers the lot and there is no last one to miss. Anyone flying in: neither — Oxford Bus Company's **airline** coach runs between Oxford and the Heathrow and Gatwick terminals, 24 hours a day, and skips London entirely.
 
-<div data-stay-strip></div>
-
 ### Driving, and why not to
 
 **Oxford has a temporary £5 daily congestion charge for cars**, at six signed locations, all year round including bank holidays. Electric cars are not exempt; vans and motorbikes pay nothing. You pay by midnight the day after. **It is replaced by the traffic filter trial on Monday 28 September 2026**, so the rules change shortly after this is published — check before you drive in.
@@ -198,7 +196,7 @@ The other genuine location is the Bodleian's **Divinity School**, which the libr
 
 **Worcester no longer takes walk-in tourists at all.** Its own page limits tourist access to official tours led by an Oxford Guild of Tour Guides member, or to public events. Residents of OX1 and OX2, applicants and alumni still get in free, 12:30–16:00.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What is free, and it is a lot
 

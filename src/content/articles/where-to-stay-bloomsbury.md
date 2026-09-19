@@ -57,8 +57,6 @@ A former Bloomsbury police station turned into one of London's largest hostels: 
 
 **It is an openly social party hostel, and does not soften that anywhere on its own site.** The right booking if meeting people on the trip is the point; the wrong one the night before an early train or for a light sleeper. Female-only dorms are bookable if that is the deciding factor.
 
-<div data-stay-strip></div>
-
 ### Mentone Hotel — Cartwright Gardens, and the garden has tennis courts
 
 *Family-run since 1972 · 54-56 Cartwright Gardens, WC1H 9EL · King's Cross St Pancras about 8 min*
@@ -133,8 +131,6 @@ A full block down the eastern side of Russell Square, interiors by Tara Bernerd 
 
 **The pet policy is the reason this hotel turns up on every dog-friendly list going, and it is worth stating in full:** no charge, no deposit, no size or weight limit, and no cap on the number of pets — if the animal fits through the door, Kimpton takes it, with a loaner bed, bowls and a door hanger as standard. A dog-specific room-service menu runs through a partnership with Marleybones, and dog walking and day care can be booked through Paws Galore with 24 hours' notice. Afternoon tea in the Palm Court runs from £49 a head for anyone not staying.
 
-<div data-stay-strip></div>
-
 ### The Imperial — the one that rebuilt itself this year
 
 *357 rooms · 61-66 Russell Square, WC1B 5BB · Russell Square station under 2 min*
@@ -149,7 +145,7 @@ A full block down the eastern side of Russell Square, interiors by Tara Bernerd 
 
 **Further options right around Russell Square and Montague Street**, each with real evidence behind it but not covered in full here: **[The Montague on the Gardens](hotel:montague-on-the-gardens)**, a Red Carnation house with a raised garden terrace and live jazz in the Leopard Bar; **[The Zetter Bloomsbury](hotel:the-zetter-bloomsbury)**, a 68-room townhouse hotel across six Georgian buildings that only opened in April 2026; **[The Hoxton, Holborn](hotel:the-hoxton-holborn)**, two minutes over the Holborn line with rooms from a genuine Shoebox grade; and **[Bertrand's Townhouse](hotel:bertrands-townhouse)** on Bedford Place, themed on Bertrand Russell with a cigar garden and jazz nights.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bloomsbury-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bloomsbury-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay just outside
 

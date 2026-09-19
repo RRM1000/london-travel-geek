@@ -142,8 +142,6 @@ You also get a good look at the circle from the **A303** as you drive past, whic
 - **Be ready to board the shuttle ten minutes before your start time.** Morning sessions: the café opens at 09:00 and the exhibition at 09:30. Evening sessions: you can be on site an hour before the site shuts to day visitors, so a 17:00 close means arriving by 16:00.
 - You may photograph everything. You may not stand on or touch the stones. Meditation, yoga and handfasting need a private booking of the whole session — call 0370 333 1181.
 
-<div data-stay-strip></div>
-
 ## Free access at the solstices and equinoxes
 
 English Heritage opens the monument field free four times a year, and you can walk among the stones.
@@ -204,8 +202,6 @@ Sixty GetYourGuide products leave London for the stones. They sort into seven ki
 
 Every Windsor-plus-Stonehenge product we opened makes one or both entry tickets a paid option. The nearest thing to a clean booking is <a href="https://www.getyourguide.com/activity/-t502413?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge &amp; Windsor Castle Tour with Tickets</a> — **£121.50, 11 hours, 4.6 from 398** — where the Windsor Castle ticket is unconditional and only the Stonehenge one depends on the option you pick. Otherwise go to <a href="https://www.getyourguide.com/activity/-t71373?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £71.10 Windsor, Stonehenge and Oxford day</a> (4.4 from 5,876, the most-booked of all sixty) and choose the option literally named "with Stonehenge and Windsor Castle Entry" rather than the cheapest one on the list. Check Windsor's Tuesday and Wednesday closures first.
 
-<div data-stay-strip></div>
-
 ### Inside the circle: £140.25
 
 <a href="https://www.getyourguide.com/activity/-t11109?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge Private Inner Circle Tour with Bath</a> — **£140.25, 12 hours, 4.9 from 208.** Access to the inner circle when the site is closed to the public, sunrise or sunset, plus Bath and a 14th-century pub in Lacock; Roman Baths entry is the one option. <a href="https://www.getyourguide.com/activity/-t137303?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge Special Access evening tour</a> at £155 (4.8 from 101) swaps Bath for Avebury and West Kennet Long Barrow, from Earls Court. The most-reviewed is <a href="https://www.getyourguide.com/activity/-t320558?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Inner Circle and Windsor</a> at £189 (4.9 from 439) — the inner-circle visit is included, the Windsor Castle ticket is the option.
@@ -223,7 +219,7 @@ All three are cheaper than doing it yourself only if you count the coach: Englis
 
 **Two small-group operators handle it honestly and are worth knowing about:** <a href="https://www.getyourguide.com/activity/-t602620?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and the Cotswolds</a> at £154 (4.9 from 167) and <a href="https://www.getyourguide.com/activity/-t43772?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and a secret site</a> at £143.10 (4.9 from 172) both state flatly that the Stonehenge ticket is not in the price, print the full English Heritage price table in their exclusions, and sell you the ticket from the guide on the day. No trap — just a number you have to add on.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Does anything else fit in the same day?
 

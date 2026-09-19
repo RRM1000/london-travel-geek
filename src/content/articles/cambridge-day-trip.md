@@ -142,8 +142,6 @@ We read the includes and excludes lists on twelve product pages on 12 September 
 - **Punting:** <a href="https://www.getyourguide.com/activity/-t472139?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£15 a head shared</a> on your own, <a href="https://www.getyourguide.com/activity/-t281312?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£25 a row</a> for two, and Scudamore's direct at £28.50 if you want to punt yourself.
 - **Both universities:** do them on separate days by train. If you will not, <a href="https://www.getyourguide.com/activity/-t85239?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £85 tour</a> is the least bad, and the £119 is £48.90 more than both return fares combined.
 
-<div data-stay-strip></div>
-
 ## The colleges
 
 ![The Bridge of Sighs at St John's College, its covered stone arch crossing the River Cam between college buildings](../../assets/articles/cambridge-day-trip/bridge-of-sighs.jpg)
@@ -205,8 +203,6 @@ Scudamore's has been going since 1910 and runs the Mill Lane station at Granta P
 
 > 💡 **College Backs hires cannot go upriver.** If you want Grantchester and the meadows, book the Grantchester boats from the Granta station — a College Backs punt is not allowed up there.
 
-<div data-stay-strip></div>
-
 ## What costs nothing, and what costs almost nothing
 
 ![Cambridge rooftops from above, the market square and shopfronts below with college lawns beyond](../../assets/articles/cambridge-day-trip/city-from-above.jpg)
@@ -246,7 +242,7 @@ Yes, on less than you would hope, and on nothing academic.
 
 ⚡ **[National Rail 2FOR1: how to actually get it](/articles/national-rail-2for1-london-attractions/)** — the rules, the eVouchers, and the attractions that are only a third off.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cambridge-day-trip-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How long the day takes
 

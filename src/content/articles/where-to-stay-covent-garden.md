@@ -74,8 +74,6 @@ A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, whi
 
 *A compact room at the Z Hotel Covent Garden, and its ensuite bathroom with a frosted-glass shower screen.*
 
-<div data-stay-strip></div>
-
 ### hub by Premier Inn London Covent Garden — eleven square metres on St Martin's Lane
 
 *About £95 · 11 sq m standard rooms · 110 St Martin's Lane, WC2N 4BA · Leicester Square 3 min · [Hotels.com](hotel:hub-covent-garden)*
@@ -124,8 +122,6 @@ One booking trap: the building is sold twice on the booking sites, as Wilde Cove
 
 *One of the Wilde Aparthotels Covent Garden studios: the bed faces a self-contained wood-clad unit holding the storage and ensuite bathroom shown on the right.*
 
-<div data-stay-strip></div>
-
 ### The Londoner — sixteen storeys, six of them underground
 
 *About £450 · 350 rooms and suites · 38 Leicester Square, WC2H 7DX · Pool, hydropool, sauna, steam*
@@ -158,7 +154,7 @@ There is a naturally lit pool, a gym, sauna, steam room and three treatment room
 
 *A river-facing room at the Savoy, with the London Eye visible across the Thames.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay just outside
 
@@ -248,7 +244,7 @@ Ten minutes north of the piazza the market changes completely, and it is covered
 
 *A room at the Treehouse Hotel London, with a window seat over the skyline, and the bathroom's birch-branch feature wall.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The noise question, and why Covent Garden is not Soho
 

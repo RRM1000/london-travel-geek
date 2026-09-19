@@ -188,8 +188,6 @@ Castle Combe is the same story in Wiltshire: a pay-and-display car park up in Up
 
 *Arlington Row at Bibury, built around 1380 as a monastic wool store. Photo: Mahmure Koseoglu, Pexels.*
 
-<div data-stay-strip></div>
-
 ## The paid attractions, and what they cost
 
 ![A thatched Cotswold cottage almost buried in ivy and hedging under a blue sky](../../assets/articles/cotswolds-day-trip/thatched-cottage.jpg)
@@ -227,7 +225,7 @@ National Trust prices are the without-Gift-Aid ones. Snowshill and Hidcote are f
 
 **Do not attempt** Bourton and Bibury and Broadway in one self-driven day. That is a 10-hour coach itinerary with a professional driver, and you will spend it in the car.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## When to go, and when not to
 

@@ -154,8 +154,6 @@ This is the reason to come, and its pricing moves on two axes at once: the day o
 
 **Two practical rules people hit at the door:** there is a threat-detection screening and possible bag search on the way in, and **backpacks over 30 litres and wheeled luggage are not allowed on site, with no storage available.**
 
-<div data-stay-strip></div>
-
 ## Thermae Bath Spa
 
 Bath is the only city in Britain with naturally hot springs you can actually get into, and the rooftop pool is where you do it.
@@ -230,8 +228,6 @@ Free for Discovery Card holders and BA1 and BA2 residents with proof of address;
 **£18 adult online, £9.95 child, £16.30 concessions for students and over-60s, £40.95 for two adults and up to three children, £30.45 for one adult and up to three children** — prices include booking fees, and pre-booking is recommended. It is at **40 Gay Street, BA1 2NT**, on the walk between Queen Square and the Circus, with a Regency Tea Room on site and costumed character actors in the exhibition.
 
 Hours move with the season: 09:45–18:00 daily from 1 July to 21 September, 10:00–17:30 daily from 22 September to 2 November, then 10:00–16:30 Sunday to Friday and 10:00–17:30 on Saturdays through the winter. **Last entry is one hour before closing.**
-
-<div data-stay-strip></div>
 
 ### Two free museums, and one that is shut
 

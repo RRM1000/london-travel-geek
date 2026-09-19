@@ -86,8 +86,6 @@ The single biggest standard family room in this guide, confirmed on St. Ermin's 
 
 This is a suites-and-residences hotel rather than a standard room format: one, two and three-bedroom suites with full kitchens and washer-dryers, confirmed on the hotel's own site alongside complimentary infant cots for children aged 0 to 2. Santorini Dave calls the two and three-bedroom residences "one of the best choices in London for larger families who want an apartment without giving up 5-star hotel service," and Family Hotel Expert, who stayed, notes the breakfast runs to a made-to-order cooked menu with Asian dishes alongside the buffet. It sits on Buckingham Gate itself, a few minutes' walk from Buckingham Palace, with the Michelin-starred Indian restaurant Quilon attached. There is no pool. One thing that decides a stay: this is priced and configured as a residence, not a hotel room, so it suits a week's stay more than a single night.
 
-<div data-stay-strip></div>
-
 ### The Rubens at the Palace
 
 *Victoria · 3 min from Victoria station · Typical family night £727 · Cited by 7 sources · [Hotels.com](hotel:the-rubens-at-the-palace)*
@@ -118,7 +116,7 @@ The Berkeley's own homepage confirms "two sublime pools," including the rooftop 
 
 Glamour UK's account is specific: connecting rooms, a personalised Claridge's teddy bear and umbrella for children, a choice of "comic" delivered with the grown-ups' papers, and warm milk and a cookie at turndown. Condé Nast Traveller and Conde Nast Traveler both keep it on their family shortlists year after year, and The Independent notes children's menus run across the hotel's restaurants, including a version of its famous afternoon tea. Babysitting is available at a stated £60 for the first four hours. It is one of the most photographed Art Deco interiors in London, five minutes from Bond Street's Elizabeth line platform. There is no pool. One thing that decides a stay: connecting rooms need requesting directly with reservations, and Claridge's does not publish a self-contained family suite the way The Goring or St. Ermin's do.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-family-hotels-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-family-hotels-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Also strongly backed
 
@@ -214,8 +212,6 @@ Family Hotel Expert, who stayed, describes a split-level family room: "a bedroom
 
 The Ampersand's own site names the room built for this guide's exact brief: the Science Family Suite, "thoughtfully created for families, the suite draws inspiration from the neighbouring Science Museum." Mumsnet and Family Traveller both note the museum-themed afternoon teas (a Science Afternoon Tea with dinosaur biscuits), a games room with a ping pong table, and interconnecting rooms as an alternative to the suite. It is two minutes from South Kensington station and three from the Natural History Museum, with the Science Museum and the V&A both a short walk further. There is no pool. One thing that decides a stay: the Science Family Suite is one specific room, not a category - check it is the one being offered before paying a family-suite rate.
 
-<div data-stay-strip></div>
-
 ### Hilton London Metropole
 
 *Edgware Road · 2 min from Edgware Road · Typical family night £305 · Cited by 4 sources · [Hotels.com](hotelscom:170309)*
@@ -246,7 +242,7 @@ Mumsnet's review is specific about the room that fits a family of four: "deluxe 
 
 The hotel's own site confirms the Victoria Quad room "can sleep up to 4 guests," and separately sells family rooms with an extra single or pull-out bed for children up to 12, plus cots on request. The reason it comes up again and again in family blogs isn't the quad room, though - it's the four Wizard Chambers, reached through a bookcase that swings open like a door, with four-poster beds, stone walls and Harry Potter props. Marcie in Mommyland, Kids Are A Trip and Travel Mad Mum all name it specifically for Harry Potter-obsessed children. **This is a genuine accessibility catch, confirmed on the hotel's own site: it is a Grade II listed Victorian townhouse with no lift, and some rooms are up flights of stairs.** Ask for a ground-floor room at booking if that matters. Victoria station is eight minutes' walk. One thing that decides a stay: the Wizard Chambers book out roughly eight months ahead - Marcie in Mommyland's family waited on a cancellation list to get one.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-family-hotels-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-family-hotels-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Further out, on a fast line
 
@@ -274,7 +270,7 @@ A converted 1910 town hall in the East End, with a 15-metre pool open 6am to 10p
 
 **If a kitchen matters more than a concierge**, several aparthotels came up again and again in this research - Cheval's Three Quays and Harrington Court, Citadines Trafalgar Square, SACO Holborn and Wilde Aparthotels among them. They get their own guide rather than an entry here: see [London's aparthotels](/articles/aparthotels-london/). For a bed rather than a suite, [the best hostels in London](/articles/best-hostels-london/) covers the family rooms at YHA Earl's Court and YHA St Pancras.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-family-hotels-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-family-hotels-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 
