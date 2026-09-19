@@ -27,7 +27,7 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - A numeric score per venue.
 - The 📊 evidence callout on a page that ranks nothing (no "Cited by" lines). Use one italic freshness line instead.
 - Claims about what an area lacks, or counts of its hotels, based on our Google Sheet. The Sheet is what we can link, not what exists.
-- Numbers that go stale where nobody re-checks them, such as a source count in the H1 or "the six hotels".
+- Numbers that go stale where nobody re-checks them, such as a source count in the H1 or "the six hotels". This covers the site's own furniture too: a landing page or a nav that says "26 area guides" or "all 122 guides" is wrong the day a guide is added. Count it from the content collection at build time, or print no number at all.
 
 ## Facts
 

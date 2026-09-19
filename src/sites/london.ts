@@ -106,8 +106,7 @@ export const londonSite: SiteConfig = {
       href: "/topics/london-areas/",
       description: "Every neighbourhood worth your time, compared honestly.",
       imageKey: "areas",
-      // Twenty-eight area guides exist and the panel was showing three of
-      // them. These are the ones people arrive already knowing the name of -
+      // The panel was showing three area guides out of all of them. These are the ones people arrive already knowing the name of -
       // the hub plus one area per part of town, so the seven read as a map of
       // London rather than a list of the West End. Greenwich, Kensington, the
       // City and Notting Hill come out of the panel, not off the site.
@@ -119,7 +118,7 @@ export const londonSite: SiteConfig = {
         { label: "South Bank", href: "/articles/south-bank-area-guide/" },
         { label: "Shoreditch", href: "/articles/shoreditch-area-guide/" },
         { label: "Camden", href: "/articles/camden-area-guide/" },
-        { label: "All 29 area guides", href: "/topics/london-areas/" },
+        { label: "All area guides", href: "/topics/london-areas/" },
       ],
       // Walks, not more areas. This rail used to be "Further out" - Hampstead,
       // Richmond, Peckham, Hackney - which was a second helping of the column
@@ -244,7 +243,7 @@ export const londonSite: SiteConfig = {
         { label: "London on a budget", href: "/articles/london-on-a-budget/" },
         { label: "Is the London Pass worth it?", href: "/articles/london-pass-guide/" },
         { label: "Travel SIM & eSIM", href: "/topics/travel-sim-cards/" },
-        { label: "All itineraries", href: "/topics/london-itineraries/" },
+        { label: "All planning guides", href: "/topics/plan-your-trip/" },
       ],
       // Four, like every other rail. Fares and the Underground how-to are both
       // one click on from the guide that leads this list, and the airport run
