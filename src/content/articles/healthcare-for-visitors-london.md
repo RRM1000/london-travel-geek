@@ -80,7 +80,7 @@ These aren't interchangeable, and NHS guidance is specific about which fits whic
 
 **To find your nearest of any of these**, use the NHS's own [service finder](https://www.nhs.uk/service-search) — search by postcode or "near me" for A&E, a UTC, a walk-in centre, a GP or a dentist. If you're not sure which you need, 111 online will ask about your symptoms and point you to a specific service, and in some cases let you book an arrival time so the service knows you're coming.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="healthcare-for-visitors-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="healthcare-for-visitors-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What overseas visitors pay on the NHS
 
@@ -110,6 +110,8 @@ Where a charge does apply — non-emergency hospital treatment for a visitor wit
 **Australia and New Zealand have their own, narrower arrangement.** [GOV.UK's guidance for NHS providers](https://www.gov.uk/government/publications/nhs-cost-recovery-overseas-visitors/charging-overseas-visitors-in-england-guidance-for-providers-of-nhs-services) lists both countries under reciprocal healthcare agreements covering **"necessary healthcare"** — treatment a clinician judges medically necessary before you can reasonably be expected to return home — for their residents, shown with a passport and proof of residency. It doesn't extend to routine or planned care.
 
 > ⚠️ **None of this is travel insurance.** NHS guidance says it directly: a GHIC, EHIC or reciprocal agreement is "not a replacement for travel insurance." None of them cover being flown home, treatment at a private hospital, or lost property, and reciprocal agreements typically exclude repatriation and ongoing monitoring entirely. GOV.UK's advice for every visitor, covered or not, is to also carry a valid travel insurance policy for the whole trip.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="healthcare-for-visitors-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Prescriptions and medicines
 
@@ -141,7 +143,7 @@ Most adults pay for NHS dental treatment, visitor or resident alike, on the same
 
 **Sexual health clinics — sometimes called GUM (genitourinary medicine) clinics — are free and available to everyone**, in the NHS's own words, no matter your age, gender, ethnicity or sexuality. That holds for visitors too: STI testing and treatment sit on GOV.UK's list of services exempt from overseas visitor charging, regardless of residency or immigration status. Clinics offer STI testing and treatment including HIV, contraception including emergency contraception, pregnancy testing, HPV and hepatitis vaccination, PrEP and PEP, and confidential support after rape or sexual assault. Some GP surgeries and pharmacies also offer sexual health advice and free condoms. Use the NHS's [sexual health clinic finder](https://www.nhs.uk/nhs-services/sexual-health-services/find-a-sexual-health-clinic/) for your nearest; visits are confidential, and staff won't share what's discussed, including with your GP, without your permission unless they believe you or someone else is at risk.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="healthcare-for-visitors-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="healthcare-for-visitors-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Private GPs and urgent care, if you'd rather pay
 

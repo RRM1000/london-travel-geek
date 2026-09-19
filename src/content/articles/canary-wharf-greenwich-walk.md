@@ -117,7 +117,7 @@ The name tells you what the ground is. The land was **made from mud dredged out 
 
 *The docks on the way down are marinas now, and you can have this stretch almost to yourself.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. Island Gardens
 
@@ -213,7 +213,7 @@ You do not have to pay to finish well. After eleven stops and a river crossing, 
 - **The Old Brewery** (££) — inside the Naval College grounds.
 - **The Trafalgar Tavern** or **the Gipsy Moth** (££) — for a pint at the end.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The best day to go
 

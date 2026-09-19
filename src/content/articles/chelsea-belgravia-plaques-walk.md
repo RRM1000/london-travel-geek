@@ -104,7 +104,7 @@ It is the one green stop on the route and it is genuinely a garden rather than a
 
 > ⚠️ **Open Sunday to Friday, 11am to 5pm, last entry 4pm — closed all day Saturday**, which catches people who assumed a garden opens at weekends. £15 adult, £6.50 for ages 5–25, under-5s free.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-belgravia-plaques-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-belgravia-plaques-walk-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 4. George Eliot on Cheyne Walk
 
@@ -204,7 +204,7 @@ For the fuller picture, the [Chelsea](/articles/chelsea-area-guide/#where-to-eat
 
 **On time of day:** the plaques are at first-floor height on north- and south-facing terraces, so late morning and mid-afternoon light them best. Cheyne Walk faces south over the river and is at its best early.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-belgravia-plaques-walk-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-belgravia-plaques-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

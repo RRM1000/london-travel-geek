@@ -58,7 +58,7 @@ Dayuse advertises **"up to 75% off"**; the biggest we actually found across the 
 
 **The pattern is worth understanding before you shop.** The biggest discounts are at the *expensive* hotels, not the cheap ones — 69% off at Seraphine Hammersmith and 66% at the Mandeville, against 24% at ibis Earls Court. A budget hotel has no margin to give away; a £300 room does. So day use is at its best when it buys you a hotel you would not otherwise book.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The windows, and how long you actually get
 
@@ -121,7 +121,7 @@ Dayuse's filter bar lets you set **time of arrival**, **time of departure** and 
 
 **That the room is a normal room.** These are not stripped-down day products; you get the hotel's ordinary room, its bathroom and usually its facilities. What you do not get is the night.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## When it is the wrong answer
 

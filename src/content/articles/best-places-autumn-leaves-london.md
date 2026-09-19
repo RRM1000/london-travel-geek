@@ -73,8 +73,6 @@ Kew's own Arboretum holds 11,000 trees — 2,700 of them oaks — and autumn is 
 
 The Guardian reported on 1 September 2026 that Kevin Martin, Kew's head of tree collections, is "really worried about this autumn": after May's 35C heatwave, "the whole growing season this year has been under stress", and he expects heat and drought to kill trees at Kew and across the south-east. **Peak pricing runs 2 September to 31 October 2026** — £25 online, £28 at the gate — **then drops to £17 online from 1 November.** Every Tuesday from 8 September to 29 December 2026, entry is £10. Hours shorten the same week the clocks go back: 10am–6pm, last entry 5pm, through 24 October, then **10am–4pm, last entry 3pm, from the 25th.**
 
-<div data-stay-strip></div>
-
 ### St James's Park — the view from the Blue Bridge
 
 *St James's Park, District and Circle lines · Cited by 5 sources · Free*
@@ -109,7 +107,7 @@ Free, open 5am to dusk (later in summer). Frieze Sculpture, a free outdoor art e
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-places-autumn-leaves-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-places-autumn-leaves-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Named by three sources
 
@@ -144,6 +142,8 @@ Time Out describes the Heath's "meadows and magical woodland areas, all tinged i
 *Its three swimming ponds offer a last cold dip before winter closes them to all but the hardy.*
 
 Free, open all year, and the ponds keep swimming right through autumn.
+
+<div data-stay-strip></div>
 
 ### Holland Park and the Kyoto Garden — a Japanese garden fringed in orange
 
@@ -195,7 +195,7 @@ Free, open every day, and the climb is worth timing for late-afternoon light.
 
 - **Tower Hamlets Cemetery Park**, Mile End — a disused Victorian cemetery turned into the borough's only woodland, 33 acres of wild planting with pumpkin-carving, bat walks and storytelling events through the season, per Time Out. Free. *Cited by 1 source.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-places-autumn-leaves-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-places-autumn-leaves-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## South east London's ancient woodland
 
@@ -223,12 +223,12 @@ Free, open all year. The Forest's northern half continues into Essex, outside th
 - **Kensington Gardens**, next to Hyde Park — Queen Anne's Alcove, the Italian Gardens fountains and the Diana, Princess of Wales Memorial Playground sit inside it, all part of a longer Royal Parks walking loop Metro maps out from Green Park. Free. *Cited by 1 source.*
 - **Victoria Tower Gardens**, Westminster — the line of plane trees beside the Houses of Parliament, best seen from across the river on the Albert Embankment, per the Evening Standard. Free. *Cited by 1 source.*
 
-<div data-stay-strip></div>
-
 ## Historic houses further out
 
 - **Ham House**, Richmond — a National Trust house on the Thames, a short riverside walk from Richmond Park, where Solosophie independently calls the gardens' colour "lovely golden hues." Grounds free; house ticketed. *Cited by 1 source.*
 - **Osterley Park**, Isleworth — a Georgian estate with more than 350 acres of parkland and rolling lawns, remodelled by Robert Adam, per Time Out's own venue guide. Grounds free; house ticketed. *Cited by 1 source.*
+
+<div data-stay-strip></div>
 
 ## Also worth the trip
 
@@ -266,7 +266,7 @@ The sources here agree on a shape most years: the earliest trees turn from Septe
 | **Sunday 25 October** | Clocks go back at 2am. Parks don't close earlier by rule, but daylight does — and Kew's own hours cut by two hours overnight, from a 6pm close to 4pm. |
 | **November** | Kew names ginkgo, swamp cypress and American smoke-tree as its latest colourers most years, "at their strongest" this month. |
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-places-autumn-leaves-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-places-autumn-leaves-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Practical tips
 

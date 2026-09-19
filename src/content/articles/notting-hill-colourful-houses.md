@@ -112,7 +112,7 @@ Ten minutes south-west of Hillgate Village and a different kind of colour: **Por
 
 Worth the detour mainly if you want somewhere to sit down. Clarendon Cross has a couple of cafes and the pace drops the moment you turn off Holland Park Avenue.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Then go north for the grand version
 
@@ -198,7 +198,7 @@ Because there are others, and they are the reason this section is not just one s
 
 If you are chasing blossom rather than houses, the [parks and gardens guide](/articles/best-parks-gardens-london/) covers where else in London to find it, with room to stand.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and when to go
 

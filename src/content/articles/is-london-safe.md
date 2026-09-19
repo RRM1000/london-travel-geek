@@ -77,7 +77,7 @@ Robbery — theft involving force or the threat of it — is far rarer than stra
 
 Keep a phone in a pocket you can feel rather than a bag's outer pocket or a café tabletop, and treat the crush around Oxford Street, Leicester Square and the South Bank the way the data suggests: as the places to hold onto it hardest.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="is-london-safe-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="is-london-safe-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common scams aimed at visitors
 
@@ -117,7 +117,7 @@ To report an incident on a taxi or minicab journey specifically: dial 999 in an 
 | TfL Lost Property | Left something on a bus, Tube, DLR or Overground train. TfL's Lost Property Office searches items handed in; an admin fee applies once an item is sent to them for processing and storage. |
 | Your embassy or consulate | A lost passport, an arrest, or a death abroad. GOV.UK publishes the current list of foreign embassies and consular offices in the UK. |
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="is-london-safe-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="is-london-safe-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

@@ -140,7 +140,7 @@ What actually separates them is the village line-up, how long you stand in each 
 
 **And if you only want Bourton, Stow and the Slaughters, do not book any of them.** Moreton-in-Marsh and the 801 cost **£54 plus £8.50** and give you the whole day on your own clock, including Sundays — less than any coach seat here, for the one corner of the Cotswolds that public transport genuinely reaches. The tours earn their money the moment **Bibury, Burford or Broadway** joins the list, because nothing links those to each other.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Driving, and where you can put the car
 
@@ -227,7 +227,7 @@ National Trust prices are the without-Gift-Aid ones. Snowshill and Hidcote are f
 
 **Do not attempt** Bourton and Bibury and Broadway in one self-driven day. That is a 10-hour coach itinerary with a professional driver, and you will spend it in the car.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cotswolds-day-trip-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## When to go, and when not to
 

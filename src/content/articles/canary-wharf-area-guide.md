@@ -148,6 +148,8 @@ The **roof garden on top is free and open to the public**, planted with species 
 
 **Open daily, no ticket**, and reached directly from the station without going outside — which makes it the obvious thing to do while waiting for a train.
 
+<div data-stay-strip></div>
+
 ### Wood Wharf
 East, and the newest part of the estate — residential rather than corporate, which is why it keeps going at weekends while the older, office end winds down.
 
@@ -162,8 +164,6 @@ The **boardwalk** runs along the dock edge with the best of the waterside restau
 ![Swimmers with orange tow floats crossing the open water of Middle Dock between the towers at Canary Wharf](../../assets/articles/canary-wharf-area-guide/middle-dock-swimming.jpg)
 
 *Open water swimming in Middle Dock. Sessions are lifeguarded and booked in advance.*
-
-<div data-stay-strip></div>
 
 ### Heron Quays and South Dock
 South, facing across the water towards Greenwich, and **the quietest part of the estate to walk** — dock edges, footbridges and very few people once the offices empty.
@@ -218,6 +218,8 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 *Winter Lights runs across the estate for two weeks each January. It is free, needs no ticket, and is the busiest the walkways get all year.*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## How long to spend, and when to go
 
 | If you have | Do this |
@@ -234,8 +236,6 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 **Best time:** Early evening gives the best photographs, with the towers lit and reflecting in the docks. Weekday lunchtimes are the busiest and most alive; weekends are quieter on the walkways but the water and the restaurants are now the reason to come.
 
 **Sundays are no longer a write-off.** The malls keep short Sunday hours and some older chain units shorten further, so do not plan a shopping trip. Everything else — Eden Dock, the pool, the museum, the roof garden, Wood Wharf — runs as normal.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Walking routes
 
@@ -255,7 +255,7 @@ The route in from the west, finishing at the roof garden where the Greenwich wal
 4. **Wood Wharf:** East to the boardwalk and the water.
 5. **Finish:** DLR to **Island Gardens** and the **Greenwich Foot Tunnel**, or back on the Elizabeth line.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

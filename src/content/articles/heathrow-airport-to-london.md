@@ -58,8 +58,6 @@ When arriving at London Heathrow (LHR), the fastest-looking train to Paddington 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Which route is best for your hotel location?
 
 | Hotel Area or Destination | Recommended Route | Why |
@@ -78,6 +76,8 @@ When arriving at London Heathrow (LHR), the fastest-looking train to Paddington 
 | **London Bridge / Bankside** | Elizabeth line to Farringdon, then Thameslink | Easy cross-platform interchange with luggage |
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 1. Elizabeth Line (Recommended for Most Visitors)
 
@@ -142,7 +142,7 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Arriving at Heathrow: SIM Cards & Wi-Fi
 

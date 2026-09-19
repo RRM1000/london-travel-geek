@@ -282,7 +282,7 @@ Every bar is free to walk into — **Bar Narnia** with a wardrobe you can step t
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Food and drink
 
@@ -345,8 +345,6 @@ Gracy's VIP and the Bavarian Hall both seat a **minimum of ten**. Venues can be 
 
 **Busiest:** Thursday and Friday evenings, and the whole weekend, plus the entire school-holiday stretch from around 18 December. Expect queues to get in as well as queues for rides.
 
-<div data-stay-strip></div>
-
 ### Why the quiet slot is also the cheap one
 
 The pricing band follows your entry slot, so an off-peak arrival puts every attraction you buy into off-peak pricing too. The gap is not small:
@@ -365,6 +363,8 @@ The trade-off is honest: it will be light when you arrive, and much of what make
 ![The observation wheel at Winter Wonderland lit up against a dusk sky, its spokes picked out in turquoise lights, with an illuminated stall roof below](../../assets/articles/hyde-park-winter-wonderland/observation-wheel.jpg)
 
 *The wheel at dusk, from below. Arrive mid-afternoon on a quiet weekday and you get the short queues and this.*
+
+<div data-stay-strip></div>
 
 ### Booking ahead
 
@@ -410,7 +410,7 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What has changed for 2026
 

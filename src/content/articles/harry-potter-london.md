@@ -168,7 +168,7 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 
 **House of MinaLima** — **157 Wardour Street, Soho, W1F 8WQ, open daily 11am-6.45pm including bank holidays.** Miraphora Mina and Eduardo Lima designed the graphics and printed props for the films — the newspapers, the sweet wrappers, the Marauder's Map — and this is their own gallery and shop. Licensed work rather than a Warner Bros. shop, though their sections appear inside the official stores in New York and Chicago. It is free, it takes twenty minutes, and it is the most genuinely interesting thing on this list. Two warnings from the house itself: the gallery is down a flight of stairs with no alternative access, and there is no toilet, no cloakroom and no eating or drinking inside. Older guides still print 26 Greek Street — that address is out of date.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Filming locations you can actually visit
 
@@ -300,7 +300,7 @@ Day one as above without the theatre. Day two: Euston at 9am, Watford Junction, 
 
 > 📅 **Every price, address, opening time and policy on this page was checked against the operator's own website on 3 September 2026** — wbstudiotour.co.uk, the official Cursed Child site and Nimax box office, harrypottershop.co.uk, minalima.com and each venue's own pages. Prices move. Check before you book.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

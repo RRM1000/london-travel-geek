@@ -81,7 +81,7 @@ Three Scottish banks (Bank of Scotland, Clydesdale Bank, Royal Bank of Scotland)
 
 This is the phrase visitors misuse most. The Bank of England is blunt about it: **"A shop owner can choose what to accept. If you want to pay for a pack of chewing gum with a £50 note, it is perfectly legal to turn you down."** Legal tender is a narrow rule about settling a debt in court, not a right to force any shop to take your cash, your card, or a specific note. A café that's gone card-only, a market stall that's cash-only, and a taxi that won't break a £50 for a £6 fare are all acting within their rights.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="money-in-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="money-in-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Cards: how far they actually go
 
@@ -136,7 +136,7 @@ In practice: read the screen before you confirm, and if a fee appears, you can a
 
 **Withdrawal limits are set by your own bank or card issuer, not by the machine**, and vary by account — check yours before relying on cash machines for a large sum. **On how much to carry:** transport, shops and restaurants mostly work by card, so most visitors don't need much — £20–£40 in notes and coins covers markets, a bus-fare mishap, tips and the odd cash-only counter, topped up as needed rather than carried in bulk.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="money-in-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="money-in-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Changing money before or during the trip
 
@@ -167,7 +167,7 @@ Restaurant discount schemes and set menus are a separate way to spend less on th
 
 **Carrying £10,000 or more in cash — in any currency, or as a family group's combined total — must be declared to UK customs**, whether you're entering or leaving Great Britain. You can declare online up to 72 hours before travelling, or in person at the "goods to declare" channel on arrival. Fail to declare when required and a Border Force officer can seize the cash, and you can be fined up to £5,000.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="money-in-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="money-in-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Card safety
 

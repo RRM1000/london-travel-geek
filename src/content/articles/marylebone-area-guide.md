@@ -202,7 +202,7 @@ Our full route for this area: **eleven numbered stops** over about 5km and three
 5. **The Wallace Collection:** East to **Manchester Square**. Free.
 6. **Finish:** North to **Regent's Park**, or a concert at Wigmore Hall.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

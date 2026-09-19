@@ -43,8 +43,6 @@ The name covers a genuinely large area, and where you land inside it changes the
 
 **The edges are genuinely fuzzy, in both directions.** Generator London's own website files the property under "London King's Cross" rather than Bloomsbury, despite an address on Tavistock Place that every independent guide calls Bloomsbury. Arosfa Hotel's own site does the opposite, giving its Gower Street address as Fitzrovia. Treat the boundary as a walk, not a line on a map.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bloomsbury-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to sleep
 
 ### Generator London — the hostel, and it says so itself
@@ -59,6 +57,8 @@ A former Bloomsbury police station turned into one of London's largest hostels: 
 
 **It is an openly social party hostel, and does not soften that anywhere on its own site.** The right booking if meeting people on the trip is the point; the wrong one the night before an early train or for a light sleeper. Female-only dorms are bookable if that is the deciding factor.
 
+<div data-stay-strip></div>
+
 ### Mentone Hotel — Cartwright Gardens, and the garden has tennis courts
 
 *Family-run since 1972 · 54-56 Cartwright Gardens, WC1H 9EL · King's Cross St Pancras about 8 min*
@@ -70,8 +70,6 @@ A former Bloomsbury police station turned into one of London's largest hostels: 
 Three connected Georgian townhouses on Cartwright Gardens, a private crescent with gated gardens and — genuinely — its own tennis courts, run by the same family since 1972. Every one of the forty-plus rooms is en suite, from a single with a three-foot bed up to a family room sleeping five, and the smallest doubles are on the top floor or lower ground rather than the street-facing floors.
 
 **Two things decide whether this works.** Breakfast — a cooked English plus a Continental buffet — **is free only when you book directly**; book through a third party and it is not included. And **the building has no lift and no air conditioning**, a condition of the Grade II listing rather than an oversight, which the hotel states plainly on its own FAQ page. Free cancellation applies more than 48 hours out.
-
-<div data-stay-strip></div>
 
 ### Ridgemount Hotel — Gower Street, and not every room is en suite
 
@@ -151,6 +149,8 @@ A full block down the eastern side of Russell Square, interiors by Tara Bernerd 
 
 **Further options right around Russell Square and Montague Street**, each with real evidence behind it but not covered in full here: **[The Montague on the Gardens](hotel:montague-on-the-gardens)**, a Red Carnation house with a raised garden terrace and live jazz in the Leopard Bar; **[The Zetter Bloomsbury](hotel:the-zetter-bloomsbury)**, a 68-room townhouse hotel across six Georgian buildings that only opened in April 2026; **[The Hoxton, Holborn](hotel:the-hoxton-holborn)**, two minutes over the Holborn line with rooms from a genuine Shoebox grade; and **[Bertrand's Townhouse](hotel:bertrands-townhouse)** on Bedford Place, themed on Bertrand Russell with a cigar garden and jazz nights.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bloomsbury-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to stay just outside
 
 Bloomsbury already covers most price tiers on its own, so this is a shorter list than most of our where-to-stay guides carry — three directions worth knowing about rather than a full second guide. If you have not settled on an area at all, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
@@ -166,8 +166,6 @@ Immediately west of Zedwell and Gower Street, Fitzrovia trades Bloomsbury's muse
 ### King's Cross — north, for an early train
 
 Ten minutes north, King's Cross adds the Eurostar and the East Coast Main Line, at a real premium for the hotels closest to the concourse. If a train is the reason for the trip, our [King's Cross and St Pancras guide](/articles/where-to-stay-kings-cross/) works out exactly how early you need to be and which hotels are worth the extra for it — including the case, set out there in full, for walking the other way and sleeping in Bloomsbury instead.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bloomsbury-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What you are staying for
 

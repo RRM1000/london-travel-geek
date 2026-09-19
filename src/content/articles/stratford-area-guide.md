@@ -192,7 +192,7 @@ It is a drinking and wandering destination rather than a sightseeing one, and mu
 5. **Hackney Wick:** Cross the canal to the warehouse studios and breweries.
 6. **Finish:** Hackney Wick Overground, or walk on to Victoria Park.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stratford-area-guide-tower-bridge-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower Bridge tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stratford-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

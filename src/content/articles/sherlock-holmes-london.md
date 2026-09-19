@@ -93,7 +93,7 @@ The museum occupies a four-storey Georgian townhouse built in 1815, one minute's
 
 Baker Street's numbering hadn't reached 221 when Conan Doyle wrote the stories in the 1880s, and the museum sits, in reality, between numbers 237 and 241 - it's signed 221b by arrangement rather than by the street's actual sequence. The ground floor holds what the museum calls the largest collection of Sherlock Holmes memorabilia in the world, and the shop sells deerstalkers, pipes and books both there and at shop.sherlock-holmes.co.uk.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="sherlock-holmes-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="sherlock-holmes-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The statue outside Baker Street station
 
@@ -170,7 +170,7 @@ Start at **Baker Street** for the free statue, then the museum. Walk the ten min
 
 **Skip the museum and the day costs £32.90.**
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="sherlock-holmes-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="sherlock-holmes-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What is not worth it
 

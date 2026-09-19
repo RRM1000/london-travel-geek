@@ -189,7 +189,7 @@ Rates from 2 March 2026 for a car emitting 91–150 g/km. A pre-2015 diesel pays
 
 Eight hours in a Mayfair bay is **£59.44**, before the £18 Congestion Charge and before you have moved. For getting around town, use the Tube and the bus — our [London transport costs and fares guide](/articles/london-public-transport-costs-and-fares/) has the numbers.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## On the road
 
@@ -272,7 +272,7 @@ A **Penalty Charge Notice** is a civil parking or traffic fine issued by a counc
 
 **In a hire car the notice goes to the hire company**, because they are the registered keeper. They pass your details to the issuer and charge you the fine plus their admin fee — **£46.20 at Hertz, £40 at Sixt, per item**. The fee is charged whatever the fine, and the paperwork often reaches you after the 14-day discount has lapsed. A bay overstay you could have settled yourself for **£55** arrives instead as **£156.20**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="car-hire-driving-uk-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Fuel and charging
 

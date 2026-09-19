@@ -192,7 +192,7 @@ For more, see the [Hampstead area guide](/articles/hampstead-area-guide/#where-t
 
 **On time of day:** start at 10am. You reach Burgh House as it opens, Kenwood late in the morning in time for lunch at its café, Keats House after it reopens at 2pm, and Primrose Hill in the late afternoon. In winter Kenwood shuts at 4pm and the Heath gets dark early, so aim to be past Parliament Hill before dusk.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

@@ -62,7 +62,7 @@ If you're flying to London from the United States, Canada, Australia, the EU or 
 
 **Every child needs their own ETA, including babies.** GOV.UK states this plainly: each person travelling needs an ETA, with no family bundling and no under-a-certain-age exemption. You can apply on a child's behalf — through the app if they're travelling with you, or online if they're not.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="uk-eta-guide-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="uk-eta-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Cost, and where to actually pay it
 
@@ -90,11 +90,11 @@ If you're flying to London from the United States, Canada, Australia, the EU or 
 
 **A new or changed passport ends your ETA early.** It's electronically tied to the passport number you applied with, and GOV.UK's checker page is direct about it: "An ETA lasts for 2 years and is linked to your passport. If your passport has expired or changed, you'll need to apply for a new ETA." Renewed your passport since you last visited? Budget another £20 and another application before you fly — you can check your current ETA's status and expiry at [gov.uk/check-eta](https://www.gov.uk/check-eta).
 
-<div data-stay-strip></div>
-
 ## Transiting and changing planes
 
 **Whether a layover needs an ETA comes down to one question: do you pass through UK border control?** GOV.UK splits transiting through a UK airport into two kinds. **"Airside"** transit means you never pass through UK border control before boarding your connecting flight — no ETA required. **"Landside"** transit means you do pass through border control, even if you come back through it and leave again within a short window (usually 24 hours) — and that does require an ETA, exactly as if you were visiting properly. GOV.UK's advice for anyone unsure which applies to their itinerary is simple: check with your airline before you fly, since it depends on the airport and the specific connection.
+
+<div data-stay-strip></div>
 
 ## If your application is refused
 
@@ -110,7 +110,7 @@ If you're flying to London from the United States, Canada, Australia, the EU or 
 
 **If you're refused entry despite arriving with a valid ETA, GOV.UK sets out exactly what happens.** You'll be told in writing why you've been refused, whether you can appeal, and when you'll be removed from the UK. You'll usually have to leave immediately. In some cases you may be allowed in temporarily — typically for up to a week — but your passport is held and you must report to immigration officers at set times in the meantime.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="uk-eta-guide-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="uk-eta-guide-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

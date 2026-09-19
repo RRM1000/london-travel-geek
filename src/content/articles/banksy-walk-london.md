@@ -111,7 +111,7 @@ The Centre Point version is on **St Giles Square**, at the junction of New Oxfor
 
 **To stop 3: take the Tube.** Walking from here to the next Banksy is about 45 minutes across town with nothing to see on the way. Instead, walk to **Tottenham Court Road** and take the **Central line eastbound to Bank**, four stops. TfL's journey planner puts the whole leg at **about 27 minutes door to door**: six minutes to the station, seven on the train, and fourteen from Bank down Cousin Lane to the river.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="banksy-walk-london-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="banksy-walk-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The detour: the rat in the London Transport Museum
 
@@ -183,7 +183,7 @@ It has been given a plastic cover and has still been attacked several times. The
 
 **To stop 6:** north-east to the Old Street end of Great Eastern Street, about fifteen minutes.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="banksy-walk-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="banksy-walk-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 6. The Foundry pair, art'otel Hoxton
 
@@ -265,7 +265,7 @@ For the rest of Brick Lane and Spitalfields, see the [Shoreditch area guide](/ar
 
 **On time of day:** on a Sunday, leave Waterloo Place at about 11am. The Tube gets you to Steelyard Passage around noon, when the Oyster Shed's Sunday kitchen opens. After lunch you are through the empty City and at the Pink Car by about 2pm, an hour before Brick Lane's street market packs up at 3pm, and in Stoke Newington by about 3pm.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="banksy-walk-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="banksy-walk-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

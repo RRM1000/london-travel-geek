@@ -99,7 +99,7 @@ The studio's own **graffiti wall** at the front is fair game for a message in ma
 
 The **Official Abbey Road Shop** is on site, open **Monday to Saturday, 9.30am–5.30pm, and Sunday, 10am–5pm**. It sells studio merchandise and a wider "Abbey Road Originals" range.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="beatles-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="beatles-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 3 Savile Row: the rooftop concert
 
@@ -123,6 +123,8 @@ Savile Row tailor **Tommy Nutter** dressed Paul McCartney, John Lennon and Ringo
 
 Ten minutes' walk south, **94 Baker Street** is the honest disappointment. The Beatles' Apple Corps opened the **Apple Boutique** here on 7 December 1967, its ground floor painted in a psychedelic mural by the Dutch design collective the Fool, funded with £100,000 of the band's money. Westminster City Council never approved the mural and forced it to be painted over within six months; the shop itself lost so much money it closed on 31 July 1968, just eight months after opening, with the remaining stock given away rather than sold. The 18th-century house it stood in was demolished by 1972 and replaced with an office block, **Travelscene House, 94 Baker Street, W1U 6FZ**. A **blue plaque** on the building, unveiled 17 March 2013 and crediting both John Lennon and George Harrison (Apple Corps' first office was on the floors above the shop), is the only trace left.
 
+<div data-stay-strip></div>
+
 ## Other sites worth the detour
 
 | Site | What happened there | Worth the trip? |
@@ -132,8 +134,6 @@ Ten minutes' walk south, **94 Baker Street** is the honest disappointment. The B
 | HMV, 363 Oxford Street | The Beatles' demo disc was cut here in 1962, leading to their EMI contract | Only if you're passing — HMV reopened in the building in November 2023 |
 | Mason's Yard, St James's, SW1Y 6BU | Lennon met Yoko Ono here, 7 November 1966, at the Indica Gallery | No — the gallery's long gone and nothing marks it |
 | 57 Wimpole Street, Marylebone | Paul McCartney's home through the mid-1960s, at Jane Asher's family house | No — private residence, nothing to see |
-
-<div data-stay-strip></div>
 
 **34 Montagu Square** is the one address on this list that's worth an actual detour. Ringo Starr leased the ground-floor flat in 1965; Paul McCartney rented it from him that year and turned it into a demo studio, recording an early version of "I'm Looking Through You" and working on "Eleanor Rigby" there. Starr later sublet it to **Jimi Hendrix**, who wrote "The Wind Cries Mary" in the flat before being evicted for throwing whitewash over the walls. In 1968, **John Lennon and Yoko Ono** rented it for three months, photographed the cover of their *Two Virgins* album there, and were raided by police looking for drugs. English Heritage put up the blue plaque on **23 October 2010**, and Yoko Ono herself unveiled it. It's a private home today, so you're looking at the plaque from the pavement, not going in.
 
@@ -151,13 +151,13 @@ Trains run from **London Euston to Liverpool Lime Street** on **Avanti West Coas
 
 ### The Cavern Club
 
-<div data-stay-strip></div>
-
 **8–10 Mathew Street, Liverpool.** This isn't quite the club the Beatles played nearly 300 times between 1961 and 1963: that Cavern closed in 1973 and was filled in during building work for the Merseyrail loop, and the club reopened on Mathew Street in 1984. It's open **seven days a week**, with live music from **11.15am daily**. Hours: **Sunday–Wednesday 11am–midnight, Thursday 11am–1am, Friday and Saturday 11am–2am**. It's **cashless**, card or contactless only. **Single entry (18+) is £6**, or **£8.50 for an all-day, all-night pass** covering more than 12 hours of live music; under-12s go free, and 12–17s pay £3 but must leave by 8pm unless with an adult. Cloakroom is £2 an item.
 
 ![The Cavern Club's red neon sign above its Mathew Street entrance, with band posters and its own opening-times board beside the doorway](../../assets/articles/beatles-london/cavern-club-liverpool-entrance.jpg)
 
 *The club runs its own live line-up most days — check what's on before you go, since the acts change nightly.*
+
+<div data-stay-strip></div>
 
 ### The Beatles Story
 
@@ -203,7 +203,7 @@ Skip the tour and it's **£20.90**.
 
 Or replace the whole Liverpool leg with the **£199 packaged day tour**, which trades a bit of cash for not having to plan the train, the minibus and two separate admissions yourself.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="beatles-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="beatles-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What isn't worth it
 

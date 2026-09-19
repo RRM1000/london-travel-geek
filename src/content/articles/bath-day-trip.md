@@ -183,7 +183,7 @@ Most Stonehenge trips from London bundle Bath in, which is the other way round t
 
 **The Cotswolds is the other standing pairing**, sold as a £119 coach day or a £154 small group with Stonehenge added, and nothing in those villages charges admission, so there is no hidden ticket waiting in Bourton-on-the-Water. It is also the one pairing with a thread running between the two ends: Bath is the southern terminus of the **Cotswold Way**, 102 miles down from Chipping Campden. Which villages you can reach by train and bus rather than coach is in [the Cotswolds from London](/articles/cotswolds-day-trip/) — the short answer is Moreton-in-Marsh, Stow and Bourton, and not Castle Combe, which is twelve miles from here and belongs to a Bath day instead.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The rest of the day
 
@@ -275,7 +275,7 @@ Less than anywhere else worth visiting this far from London, and none of the hea
 
 > ⚠️ **Sundays are a different railway on this route.** After the 22:41 the next service takes **6 hours 54 minutes** with a change, arriving 06:29 — so the last Sunday direct is a hard deadline, not a soft one. Sunday mornings are affected too: on the three Sundays we checked, departures around 09:30 ran 1h49 to 1h51 with a change, and the first direct train was not until about 10:30. One of them also showed a 2h56 routing with two changes. Check your actual date before planning a Sunday around an early arrival.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What people get wrong
 

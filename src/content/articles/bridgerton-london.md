@@ -156,7 +156,7 @@ Pricing until 27 November 2026: **adult £29.00 off-peak (weekdays) / £32.00 pe
 
 **Hackney Empire** (291 Mare Street, E8 1EJ) supplied theatre scenes in series one, and **Wilton's Music Hall** (Graces Alley, E1 8JB) a meeting place in series two. Both are working venues, so the way in is a ticket to a show.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bridgerton-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bridgerton-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Further out: day trips
 
@@ -200,13 +200,13 @@ Hatfield's interior played the **Featheringtons' house** in series one and reapp
 
 An 18th-century landscape garden of follies, a Gothic Temple and a Crystal Grotto, used for **garden scenes** in series one. **Open daily, all year, 10am–6pm, last entry 5pm** — the Crystal Grotto specifically closes on Mondays for maintenance. Painshill is an independent charity, so **National Trust and English Heritage membership cards are explicitly not valid here**; admission is booked online through Painshill's own site, at a discount over the on-the-door rate. **Cobham, Surrey, KT11 1JE**, reachable from London Waterloo.
 
+<div data-stay-strip></div>
+
 ### Castle Howard, North Yorkshire
 
 Castle Howard's own website states that the house **"doubled as Clyvedon Castle, the Duke of Hastings' home that he shares with his new wife Daphne."** Its holiday cottages sit in the real village of **Coneysthorpe**, used on screen as Clyvedon village.
 
 **House and Gardens tickets run 20 March to 31 October.** Checked 15 September 2026: grounds 10am–5pm (last entry 4pm), house 10am–4pm (last entry 3pm), a self-guided visit of 40 to 60 minutes. This is the one entry on this page that is a genuine expedition rather than a day trip in the London sense — budget at least two hours each way on the train to York, plus a bus or taxi on to the house, making it a very long single day or better as an overnight. Worth it only if Castle Howard itself, not just the Bridgerton connection, is the draw.
-
-<div data-stay-strip></div>
 
 ### Blenheim Palace, Oxfordshire
 
@@ -231,7 +231,7 @@ A *Queen Charlotte: A Bridgerton Story* location, run jointly by the Rothschild 
 
 Netflix originally wanted Kew Palace for young King George's residence in *Queen Charlotte* but switched to Belton for its larger rooms. Ten rooms were emptied and protected for filming, the Marble Hall was transformed into the King's bedroom, and the crew planted a real vegetable garden of tomatoes, corn and cabbages for the kitchen scenes, according to the National Trust's own account of the shoot. It is genuinely remote from London — the best part of two and a half hours each way, near Grantham — so this is one for Bridgerton completists rather than a casual day out.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bridgerton-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bridgerton-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Two costed days
 

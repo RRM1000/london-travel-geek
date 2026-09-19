@@ -213,7 +213,7 @@ Where it earns its place is hours and walk-ins. The Oxford Street room, opposite
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="competitive-socialising-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="competitive-socialising-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Immersive and VR
 
@@ -267,6 +267,8 @@ Karaoke rooms hold 8 to 30 people and run **£60 to £120 an hour, half price on
 
 **Walk-ins are £10 a person a game, but lanes are not held for them.** Students pay £6.50 a game Monday to Friday until 5pm, booked in advance by email with a student ID. Arrive 15 to 20 minutes early, and note there are no bumpers on the lanes.
 
+<div data-stay-strip></div>
+
 ### Rowans, Finsbury Park
 
 *10 Stroud Green Road, N4 2DF · bowling, pool and karaoke · over-21s only after 7pm at weekends*
@@ -278,8 +280,6 @@ Bowling is **£8.60 a game per person Monday to Thursday daytime**, rising to £
 **The age rules are the strictest in this guide and catch people out.** Under-18s must leave by 10pm Sunday to Thursday and **by 7.30pm on Friday and Saturday**, and after 7pm on those two nights **only over-21s are admitted, with photo ID**. Under-12s are never admitted without an adult at any time.
 
 Open until 12.30am Sunday to Thursday and **2.30am on Friday and Saturday**, which is later than anything else here.
-
-<div data-stay-strip></div>
 
 ### Tenpin, outer London
 
@@ -318,7 +318,7 @@ This is the section other guides leave out, and it is why people turn up at lock
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="competitive-socialising-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="competitive-socialising-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What it costs
 

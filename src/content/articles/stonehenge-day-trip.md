@@ -170,7 +170,7 @@ The conditions are the same every time: do not touch or climb the stones, no alc
 
 Bags may be searched and there is no cloakroom or left luggage, so travel light — drop a bag at [a London station or storage app](/articles/luggage-storage-london/) before you set off if you're travelling straight on from the coach. Assistance dogs go everywhere; other dogs are limited to the visitor centre and cannot board the shuttle or enter the stone circle field.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The coach tours
 
@@ -223,7 +223,7 @@ All three are cheaper than doing it yourself only if you count the coach: Englis
 
 **Two small-group operators handle it honestly and are worth knowing about:** <a href="https://www.getyourguide.com/activity/-t602620?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and the Cotswolds</a> at £154 (4.9 from 167) and <a href="https://www.getyourguide.com/activity/-t43772?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and a secret site</a> at £143.10 (4.9 from 172) both state flatly that the Stonehenge ticket is not in the price, print the full English Heritage price table in their exclusions, and sell you the ticket from the guide on the day. No trap — just a number you have to add on.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Does anything else fit in the same day?
 

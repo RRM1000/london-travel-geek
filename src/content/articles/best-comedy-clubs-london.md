@@ -245,6 +245,8 @@ Big names and hot new acts in the **glittery ex-servicemen's club** that is one 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The rest of the circuit
 
 ### Up the Creek, Greenwich
@@ -334,7 +336,7 @@ In a **brick vaulted cellar** near Waterloo, and the room is a large part of the
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-stay-strip></div>
 
 ## Where the names play
 
@@ -359,8 +361,6 @@ Everything above is a club — a bill of several acts, most of whom you will not
 
 ---
 
-<div data-stay-strip></div>
-
 ## Comedy festivals
 
 London's comedy festivals are almost entirely a **July and August** phenomenon. All four below run inside a six-week window, and outside it the city has no comedy festival at all — which is the single most useful thing to know about them, because it means the answer to "what's on" in February is always the clubs.
@@ -384,7 +384,7 @@ London's comedy festivals are almost entirely a **July and August** phenomenon. 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

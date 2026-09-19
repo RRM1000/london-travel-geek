@@ -246,7 +246,7 @@ Our full route for this area: **eleven numbered stops** over about 4km and two t
 5. **Cheyne Walk:** Continue to the river and turn west past the blue plaques.
 6. **Finish:** **Albert Bridge**, and either cross to Battersea Park or head back up to the King's Road.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

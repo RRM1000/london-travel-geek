@@ -109,8 +109,6 @@ One practical note: TfL periodically closes Oxford Circus station's entrances fo
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-christmas-at-kew-gardens" data-gyg-partner-id="WWP7I0R" data-gyg-q="Christmas at Kew Gardens"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Ticketed light trails
 
 Different from the free street displays above — these are paid, walk-through experiences.
@@ -124,6 +122,8 @@ Different from the free street displays above — these are paid, walk-through e
 **Worth knowing what's gone:** Kenwood House's well-loved Neverland trail on Hampstead Heath has been **cancelled for 2026** after weak ticket sales, and Lightopia's Crystal Palace trail ended when the company behind it went into administration in January 2023.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-christmas-at-kew-gardens" data-gyg-partner-id="WWP7I0R" data-gyg-q="Christmas at Kew Gardens"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Ice rinks and Santa's grottos
 
@@ -141,8 +141,6 @@ For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Ha
 
 ---
 
-<div data-stay-strip></div>
-
 ## Seeing the lights from a bus
 
 The lights are free to walk past, but the streets that carry the best of them — Oxford Street, Regent Street, Knightsbridge — are also the ones with the worst December pavements. A bus solves that, and there are two quite different ways to do it.
@@ -150,6 +148,8 @@ The lights are free to walk past, but the streets that carry the best of them �
 ### The cheap way: a normal red bus
 
 **Route 390** runs Oxford Street end to end and costs **£1.75**. **Route 139** does Oxford Circus to Trafalgar Square. Sit at the front of the top deck after dark and you have most of the same view for the price of a bus fare, with a Hopper transfer inside the hour if you want to chain two routes together. This is the answer for most people, and nobody sells it because nobody makes anything from it.
+
+<div data-stay-strip></div>
 
 ### The tour: a decorated vintage Routemaster
 
@@ -208,7 +208,7 @@ It is the same story as the Old Vic's and Mischief's, and a completely different
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Christmas for children
 
@@ -267,7 +267,7 @@ It is a concert rather than a service, so it is loud, secular in feel and comple
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Afternoon tea at Christmas
 

@@ -57,8 +57,6 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 
 **July is warmest and sunniest; November is wettest; March is driest; December has the least sunshine and the shortest days.** The swing in daylight is the one visitors underestimate: London gets more than double the daylight in June that it gets in December.
 
-<div data-stay-strip></div>
-
 ## How busy, and what it costs
 
 **School holidays move London's crowds more reliably than the weather does.** Boroughs set their own calendars; Camden's 2026-27 dates are one example: October half term is **26-30 October 2026**, the Christmas break runs **21 December 2026 to 1 January 2027**, February half term is **15-19 February 2027**, the Easter holidays run **26 March to 9 April 2027**, and the May half term is **31 May to 4 June 2027**. The 2027 summer holidays start **23 July 2027**. Layer UK bank holidays on top — Good Friday and Easter Monday (**26 and 29 March 2027**), the early May and spring bank holidays (**3 and 31 May 2027**), the summer bank holiday (**30 August 2027**), and Christmas Day and Boxing Day (**25 and 28 December 2026**, the 28th a substitute day because the 26th falls on a Saturday) — and most of the year's crowd peaks are already on the calendar before a single event is added.
@@ -67,7 +65,7 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 
 **Hotel prices move with the night of the week more than the month.** Across 51 budget London hotels (one room, two adults, including tax), priced on 14-15 September 2026, the median was **£113** for Sunday **11 October 2026** and **£135** for Wednesday **17 February 2027**. The Saturdays cost more: **£199.50** on **17 October 2026**, **£201.50** on **12 December 2026** and **£169** on **17 April 2027**. If price decides your dates, book a Sunday-to-Thursday night outside school holidays.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-time-to-visit-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-time-to-visit-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Month by month: what to expect
 
@@ -81,6 +79,8 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 **January** is quiet by every measure that matters: schools are back by **4 January 2027**, there's no half term, and the only bank holiday is New Year's Day itself (**Friday 1 January 2027**). It averages an 8°C high, with the year's second-lowest sunshine total.
 
 **February** looks like January's twin on a thermometer (9°C average high) but gets noticeably more daylight and sunshine — 76 hours against January's 59. The one disruption is half term, **15-19 February 2027**, which briefly refills the big family attractions. **Lunar New Year's Day falls on Saturday 6 February 2027**, the start of the Year of the Goat; Chinatown usually marks it with a street celebration around that date.
+
+<div data-stay-strip></div>
 
 ### Spring: March to May
 
@@ -117,7 +117,7 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 
 **November is the wettest month (67mm) and one of the darkest**, with daylight down to under 9 hours by mid-month. **Bonfire Night falls on Thursday 5 November**, and **Hyde Park Winter Wonderland opens on 19 November 2026**, running to 3 January. Beyond fireworks displays, it's one of the quieter months for crowds, with no half term and no bank holiday.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-time-to-visit-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-time-to-visit-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

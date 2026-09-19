@@ -86,7 +86,7 @@ Eurostar fares work like UK Advance tickets, not like a flat off-peak return —
 
 That's checked on 14 September 2026, cheapest Standard seat on each date for the same route. The £35 fare was part of a sale running for travel between 23 September and 16 December 2026 that was due to close for bookings that same day, so treat it as an example of how low the fare can go rather than a permanent price — but the underlying pattern, a same-day seat costing three to six times a seat booked a few weeks out, is the durable lesson. **Eurostar releases tickets 10 to 11 months ahead**, so for a specific date you have that whole window to watch for a drop.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Check-in and the border
 
@@ -125,7 +125,7 @@ Seven hours sounds generous next to a three-hour bus ride each way to Stonehenge
 
 *A side street in central Paris. Photo: MuffinLand, Pexels.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting into Paris: Métro and RER from Gare du Nord
 
@@ -166,7 +166,7 @@ Given the real hours available, pick one of these rather than trying to string a
 
 Prefer someone else to handle the tickets, the coach transfers in Paris and the Eurostar booking? The escorted day trip linked at the top of this guide covers a panoramic coach tour, lunch at the Eiffel Tower's Madame Brasserie, a Seine cruise and entry to the tower itself, with round-trip Eurostar included — useful if you'd rather not plan the logistics above yourself.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What people get wrong
 

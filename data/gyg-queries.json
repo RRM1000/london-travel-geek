@@ -1,811 +1,817 @@
 {
-  "purpose": "What each GetYourGuide widget searches for, per article. scripts/balance-gyg-widgets.mjs reads this. Edit here, not in the script, and never in the markdown - the balancer rewrites the markdown every time it runs.",
-  "slots": "Slot 1 is the subject: what the page is about. Slots 2 and 3 are big sellers: named high-value products drawn from the pool named in anchorGroup, which is where the basket value is. Slot 4, which only the longest pages reach, is the article's 'adjacent' product - the thing someone reading it would also buy, never a repeat of slot 1 - or another big seller when it names none. A page never shows the same query twice. An article may also name slot3 or slot4 explicitly to override the pool. Rob, 15 September 2026: the second widget sells the big products rather than the adjacent one.",
-  "howToPickAQuery": "Name a product, not a category. 'Tower of London tickets' returns bookable inventory; 'London top attractions' returns a vague mix. If you cannot name a product a reader of this page would plausibly buy, leave 'adjacent' out rather than filling it.",
-  "picks": {
-    "london-classics": {
-      "for": "The general-purpose anchor. Use where a page has no bookable subject of its own.",
-      "tourIds": [
-        "170451",
-        "21253",
-        "399163"
-      ],
-      "titles": [
-        "The London Eye",
-        "Tower of London and Crown Jewels",
-        "Westminster Abbey"
-      ]
-    },
-    "river-and-views": {
-      "for": "Pages about the Thames, walking, rooftops or looking at London from above.",
-      "tourIds": [
-        "71379",
-        "439425",
-        "24625"
-      ],
-      "titles": [
-        "Westminster to Greenwich cruise",
-        "Tower Bridge",
-        "The View from The Shard"
-      ]
-    },
-    "family-favourites": {
-      "for": "Pages read by someone travelling with children.",
-      "tourIds": [
-        "174429",
-        "174549",
-        "174546"
-      ],
-      "titles": [
-        "Madame Tussauds",
-        "SEA LIFE London",
-        "The London Dungeon"
-      ]
-    },
-    "food-tours": {
-      "for": "Food and drink pages. GetYourGuide has almost no inventory for a restaurant guide - searching 'London food tour' returns an airport lounge - so these three real market tours stand in for the whole category.",
-      "tourIds": [
-        "67794",
-        "943039",
-        "504469"
-      ],
-      "titles": [
-        "Borough Market food tour, 6 tastings",
-        "Soho and Chinatown food walking tour",
-        "Camden Market food tour, 7 tastings"
-      ]
-    },
-    "day-trips": {
-      "for": "Itineraries and longer stays, where the reader has a spare day. Entry confirmed included on all three.",
-      "tourIds": [
-        "219849",
-        "215430",
-        "61147"
-      ],
-      "titles": [
-        "Stonehenge with admission",
-        "Cotswolds villages, small group",
-        "Stonehenge and Bath with Stonehenge entry"
-      ]
-    },
-    "harry-potter": {
-      "for": "Harry Potter pages. The search 'Warner Bros Studio Tour Harry Potter' returns Cursed Child on Broadway, so this one has to be pinned.",
-      "tourIds": [
-        "31392",
-        "505308",
-        "16403"
-      ],
-      "titles": [
-        "Studio Tour with transfers",
-        "Studio Tour with transfers, alternative operator",
-        "Studio Tour and branded bus"
-      ]
-    },
-    "walking-tours": {
-      "for": "Walking, street art and after-dark pages.",
-      "tourIds": [
-        "359535",
-        "765419",
-        "1242361"
-      ],
-      "titles": [
-        "Jack the Ripper interactive walking tour",
-        "British Museum guided tour",
-        "Shoreditch street art and graffiti walk"
-      ]
-    },
-    "museums-and-history": {
-      "for": "Museums, galleries and historic-building pages.",
-      "tourIds": [
-        "19600",
-        "765419",
-        "1396447"
-      ],
-      "titles": [
-        "St Paul's Cathedral",
-        "British Museum guided tour",
-        "Natural History Museum reserved entry"
-      ]
-    },
-    "studio-tour-bundles": {
-      "for": "The Warner Bros. Studio Tour page. Entry plus transport, which is the only thing GetYourGuide can sell here that the operator does not sell direct.",
-      "tourIds": [
-        "679208",
-        "31392",
-        "297085"
-      ],
-      "titles": [
-        "Studio Tour and return train",
-        "Studio Tour and coach from Victoria",
-        "Studio Tour with hotel pickup"
-      ]
-    },
-    "stonehenge": {
-      "for": "Stonehenge pages. These three are the high-volume products whose own pages put the entry ticket in the includes list with no 'if option selected' clause.",
-      "tourIds": [
-        "219849",
-        "16096",
-        "61147"
-      ],
-      "titles": [
-        "Stonehenge morning trip with admission",
-        "Stonehenge half-day with admission",
-        "Stonehenge and Bath with Stonehenge entry"
-      ]
-    },
-    "cotswolds": {
-      "for": "Cotswolds pages. Nothing in the villages needs a ticket, so the usual conditional-entry trap does not apply here.",
-      "tourIds": [
-        "215430",
-        "795342",
-        "593863"
-      ],
-      "titles": [
-        "Cotswolds villages, small group",
-        "Cotswolds villages by coach",
-        "Bath and the Cotswolds, Roman Baths included"
-      ]
-    },
-    "windsor": {
-      "for": "Windsor pages. Castle admission confirmed on the product page for the first two.",
-      "tourIds": [
-        "71088",
-        "18994",
-        "645578"
-      ],
-      "titles": [
-        "Windsor half-day with castle entry",
-        "Windsor Castle entry and transfer",
-        "LEGOLAND Windsor with entry"
-      ]
-    },
-    "oxford-cambridge": {
-      "for": "Oxford and Cambridge pages.",
-      "tourIds": [
-        "234277",
-        "331461",
-        "146070"
-      ],
-      "titles": [
-        "Oxford and Stonehenge with entry",
-        "Oxford Harry Potter tour with colleges",
-        "Cambridge walk and punt"
-      ]
-    },
-    "attraction-passes": {
-      "for": "Multi-attraction passes: one ticket for many attractions, in every big-seller pool, including the day-trip pool the planning and itinerary guides draw from. Added 15 September 2026 at Rob's request. The search 'London Pass' also returns a river cruise and the Royal Observatory, so the three are pinned.",
-      "tourIds": [
-        "26207",
-        "102239",
-        "193412"
-      ],
-      "titles": [
-        "The London Pass, 100+ attractions",
-        "Go City London Explorer Pass, 2 to 7 attractions",
-        "Merlin's Magical London Pass"
-      ]
-    }
+ "purpose": "What each GetYourGuide widget searches for, per article. scripts/balance-gyg-widgets.mjs reads this. Edit here, not in the script, and never in the markdown - the balancer rewrites the markdown every time it runs.",
+ "slots": "Slot 1 is the subject: what the page is about. Slots 2 and 3 are big sellers: named high-value products drawn from the pool named in anchorGroup, which is where the basket value is. Slot 4, which only the longest pages reach, is the article's 'adjacent' product - the thing someone reading it would also buy, never a repeat of slot 1 - or another big seller when it names none. A page never shows the same query twice. An article may also name slot3 or slot4 explicitly to override the pool. Rob, 15 September 2026: the second widget sells the big products rather than the adjacent one.",
+ "howToPickAQuery": "Name a product, not a category. 'Tower of London tickets' returns bookable inventory; 'London top attractions' returns a vague mix. If you cannot name a product a reader of this page would plausibly buy, leave 'adjacent' out rather than filling it.",
+ "picks": {
+  "london-classics": {
+   "for": "The general-purpose anchor. Use where a page has no bookable subject of its own.",
+   "tourIds": [
+    "170451",
+    "21253",
+    "399163"
+   ],
+   "titles": [
+    "The London Eye",
+    "Tower of London and Crown Jewels",
+    "Westminster Abbey"
+   ]
   },
-  "howPicksWork": "A slot may be \"pick:<name>\" instead of a search string, which pins the widget to those exact activity ids via data-gyg-tour-ids. Use a pick where the search returns the wrong thing. A probe of all 159 queries on 4 September 2026 (data/gyg-query-probe.json) found 49 where no result was on the subject, several returning other countries entirely - Auckland for a Thames cruise, Venice for the Natural History Museum, Sonoma for Kenwood House. Re-run scripts/probe-gyg-queries.mjs before trusting any query you add.",
-  "anchors": {
-    "central": [
-      "Westminster Abbey tickets",
-      "pick:attraction-passes",
-      "pick:museums-and-history",
-      "Buckingham Palace Changing the Guard tour"
-    ],
-    "city-east": [
-      "Tower of London tickets",
-      "pick:attraction-passes",
-      "Tower Bridge tickets",
-      "pick:museums-and-history",
-      "pick:walking-tours"
-    ],
-    "south": [
-      "London Eye tickets",
-      "pick:attraction-passes",
-      "The Shard tickets",
-      "Thames river cruise",
-      "Tower of London tickets"
-    ],
-    "west": [
-      "Kensington Palace tickets",
-      "pick:attraction-passes",
-      "Hampton Court Palace tickets",
-      "Kew Gardens tickets",
-      "pick:museums-and-history"
-    ],
-    "north": [
-      "pick:harry-potter",
-      "pick:attraction-passes",
-      "ZSL London Zoo tickets",
-      "pick:river-and-views",
-      "Tower of London tickets"
-    ],
-    "daytrip": [
-      "Windsor Castle day trip from London",
-      "pick:attraction-passes",
-      "Stonehenge day trip from London",
-      "Bath and Stonehenge day trip",
-      "Oxford and Cambridge day trip"
-    ],
-    "family": [
-      "London Eye tickets",
-      "pick:attraction-passes",
-      "pick:harry-potter",
-      "ZSL London Zoo tickets",
-      "SEA LIFE London Aquarium tickets"
-    ],
-    "classics": [
-      "pick:london-classics",
-      "pick:attraction-passes",
-      "pick:river-and-views",
-      "pick:family-favourites",
-      "pick:museums-and-history"
-    ]
+  "river-and-views": {
+   "for": "Pages about the Thames, walking, rooftops or looking at London from above.",
+   "tourIds": [
+    "71379",
+    "439425",
+    "24625"
+   ],
+   "titles": [
+    "Westminster to Greenwich cruise",
+    "Tower Bridge",
+    "The View from The Shard"
+   ]
   },
-  "defaultAnchorGroup": {
-    "Food and drink": "classics",
-    "Things to do": "south",
-    "London areas": "central",
-    "Getting around London": "south",
-    "London itineraries": "daytrip",
-    "Plan your trip": "daytrip",
-    "Travel SIM cards": "central"
+  "family-favourites": {
+   "for": "Pages read by someone travelling with children.",
+   "tourIds": [
+    "174429",
+    "174549",
+    "174546"
+   ],
+   "titles": [
+    "Madame Tussauds",
+    "SEA LIFE London",
+    "The London Dungeon"
+   ]
   },
-  "articles": {
-    "best-afternoon-tea-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "London afternoon tea bus tour",
-      "slot3": "pick:river-and-views"
-    },
-    "best-bakeries-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "best-breakfast-brunch-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "Borough Market food tour"
-    },
-    "best-burgers-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "Camden Market food tour"
-    },
-    "best-chinese-east-asian-restaurants-london": {
-      "slot1": "London Chinatown food tour",
-      "adjacent": "pick:food-tours"
-    },
-    "best-cocktail-bars-london": {
-      "slot1": "London cocktail making class",
-      "adjacent": "London speakeasy bar tour"
-    },
-    "best-coffee-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "best-dim-sum-london": {
-      "slot1": "London Chinatown food tour",
-      "adjacent": "pick:food-tours"
-    },
-    "best-fish-and-chips-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "Borough Market food tour"
-    },
-    "best-french-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "French cooking class London"
-    },
-    "best-ice-cream-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "London chocolate making class"
-    },
-    "best-indian-restaurants-london": {
-      "slot1": "Brick Lane curry tour",
-      "adjacent": "Indian cooking class London"
-    },
-    "best-italian-restaurants-london": {
-      "slot1": "pasta making class London",
-      "adjacent": "pick:food-tours"
-    },
-    "best-japanese-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "best-korean-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "London Chinatown food tour"
-    },
-    "best-london-markets": {
-      "slot1": "Borough Market food tour",
-      "adjacent": "Portobello Market walking tour"
-    },
-    "best-mexican-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "best-middle-eastern-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "best-pizza-london": {
-      "slot1": "London pizza making class",
-      "adjacent": "pick:food-tours"
-    },
-    "best-sandwiches-london": {
-      "slot1": "Borough Market food tour",
-      "adjacent": "pick:food-tours"
-    },
-    "best-seafood-restaurants-london": {
-      "slot1": "Borough Market food tour",
-      "adjacent": "pick:food-tours"
-    },
-    "best-spanish-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "best-steak-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "best-street-food-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "Camden Market food tour"
-    },
-    "best-sunday-roast-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "London historic pub tour"
-    },
-    "best-thai-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "best-turkish-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "best-vegetarian-vegan-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "best-walking-tours-london": {
-      "slot1": "London walking tour",
-      "adjacent": "London Jack the Ripper tour"
-    },
-    "cheap-eats-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "London food market tour"
-    },
-    "eat-in-london-guide": {
-      "slot1": "pick:food-tours",
-      "adjacent": "Borough Market food tour"
-    },
-    "historic-pubs-dining-rooms-london": {
-      "slot1": "London historic pub tour",
-      "adjacent": "pick:food-tours"
-    },
-    "late-night-eating-london": {
-      "slot1": "Brick Lane food tour",
-      "adjacent": "pick:london-classics"
-    },
-    "special-occasion-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:river-and-views"
-    },
-    "unusual-restaurants-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "cycling-bike-hire-scooters-london": {
-      "slot1": "London bike tour",
-      "adjacent": "pick:river-and-views"
-    },
-    "gatwick-airport-to-london": {
-      "slot1": "Gatwick Express tickets",
-      "adjacent": "Gatwick airport transfer London"
-    },
-    "getting-around-london-transport-guide": {
-      "slot1": "London hop-on hop-off bus",
-      "adjacent": "Thames river cruise"
-    },
-    "heathrow-airport-to-london": {
-      "slot1": "Heathrow Express tickets",
-      "adjacent": "Heathrow airport transfer London"
-    },
-    "how-to-use-london-buses-and-trams": {
-      "slot1": "London hop-on hop-off bus",
-      "adjacent": "London bus tour"
-    },
-    "how-to-use-london-river-boats": {
-      "slot1": "Thames river cruise",
-      "adjacent": "Uber Boat Thames Clippers ticket"
-    },
-    "how-to-use-the-london-underground": {
-      "slot1": "pick:london-classics",
-      "adjacent": "London hop-on hop-off bus"
-    },
-    "london-city-airport-to-london": {
-      "slot1": "London City Airport transfer",
-      "adjacent": "Emirates Air Line cable car ticket"
-    },
-    "london-public-transport-costs-and-fares": {
-      "slot1": "pick:london-classics",
-      "adjacent": "London hop-on hop-off bus"
-    },
-    "london-tour-buses-compared": {
-      "slot1": "London hop-on hop-off bus",
-      "adjacent": "London bus tour with river cruise"
-    },
-    "london-tube-and-rail-lines-guide": {
-      "slot1": "pick:london-classics",
-      "adjacent": "London hop-on hop-off bus"
-    },
-    "luton-airport-to-london": {
-      "slot1": "Luton airport transfer London",
-      "adjacent": "Luton DART ticket"
-    },
-    "oyster-card-guide-london": {
-      "slot1": "pick:london-classics",
-      "adjacent": "London hop-on hop-off bus"
-    },
-    "southend-airport-to-london": {
-      "slot1": "Southend airport transfer London",
-      "adjacent": "pick:london-classics"
-    },
-    "stansted-airport-to-london": {
-      "slot1": "Stansted Express tickets",
-      "adjacent": "Stansted airport transfer London"
-    },
-    "battersea-area-guide": {
-      "slot1": "Battersea Power Station Lift 109 tickets",
-      "adjacent": "Thames river cruise",
-      "anchorGroup": "south"
-    },
-    "bermondsey-area-guide": {
-      "slot1": "pick:food-tours",
-      "adjacent": "Bermondsey Beer Mile tour",
-      "anchorGroup": "south"
-    },
-    "best-areas-to-visit-london": {
-      "slot1": "pick:walking-tours",
-      "adjacent": "London hop-on hop-off bus"
-    },
-    "bloomsbury-area-guide": {
-      "slot1": "British Museum guided tour",
-      "adjacent": "Harry Potter London walking tour"
-    },
-    "camden-area-guide": {
-      "slot1": "Camden Market food tour",
-      "adjacent": "pick:river-and-views",
-      "anchorGroup": "north"
-    },
-    "canary-wharf-area-guide": {
-      "slot1": "pick:river-and-views",
-      "adjacent": "Emirates Air Line cable car ticket",
-      "anchorGroup": "city-east"
-    },
-    "chelsea-area-guide": {
-      "slot1": "Chelsea walking tour",
-      "adjacent": "pick:london-classics",
-      "anchorGroup": "west"
-    },
-    "city-of-london-area-guide": {
-      "slot1": "pick:museums-and-history",
-      "adjacent": "Sky Garden London",
-      "anchorGroup": "city-east"
-    },
-    "covent-garden-area-guide": {
-      "slot1": "Covent Garden walking tour",
-      "adjacent": "pick:london-classics"
-    },
-    "fitzrovia-area-guide": {
-      "slot1": "pick:food-tours",
-      "adjacent": "BT Tower London"
-    },
-    "greenwich-area-guide": {
-      "slot1": "Cutty Sark tickets",
-      "adjacent": "Greenwich river cruise",
-      "anchorGroup": "south"
-    },
-    "hackney-area-guide": {
-      "slot1": "East London street art tour",
-      "adjacent": "pick:food-tours",
-      "anchorGroup": "city-east"
-    },
-    "hampstead-area-guide": {
-      "slot1": "Hampstead Heath walking tour",
-      "adjacent": "pick:london-classics",
-      "anchorGroup": "north"
-    },
-    "islington-area-guide": {
-      "slot1": "pick:food-tours",
-      "adjacent": "Sadler's Wells dance show",
-      "anchorGroup": "north"
-    },
-    "kensington-area-guide": {
-      "slot1": "Kensington Palace tickets",
-      "adjacent": "Royal Albert Hall tour",
-      "anchorGroup": "west"
-    },
-    "kings-cross-area-guide": {
-      "slot1": "Harry Potter London walking tour",
-      "adjacent": "pick:river-and-views",
-      "anchorGroup": "north"
-    },
-    "marylebone-area-guide": {
-      "slot1": "pick:museums-and-history",
-      "adjacent": "Madame Tussauds London tickets"
-    },
-    "mayfair-area-guide": {
-      "slot1": "pick:walking-tours",
-      "adjacent": "pick:food-tours"
-    },
-    "notting-hill-area-guide": {
-      "slot1": "Portobello Market walking tour",
-      "adjacent": "Notting Hill film locations tour",
-      "anchorGroup": "west"
-    },
-    "paddington-area-guide": {
-      "slot1": "pick:river-and-views",
-      "adjacent": "Paddington Bear London tour",
-      "anchorGroup": "west"
-    },
-    "peckham-area-guide": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:walking-tours",
-      "anchorGroup": "south"
-    },
-    "richmond-area-guide": {
-      "slot1": "Hampton Court Palace tickets",
-      "adjacent": "pick:river-and-views",
-      "anchorGroup": "west"
-    },
-    "shoreditch-area-guide": {
-      "slot1": "Shoreditch street art tour",
-      "adjacent": "Brick Lane curry tour",
-      "anchorGroup": "city-east"
-    },
-    "soho-area-guide": {
-      "slot1": "pick:food-tours",
-      "adjacent": "pick:london-classics"
-    },
-    "south-bank-area-guide": {
-      "slot1": "London Eye tickets",
-      "adjacent": "Borough Market food tour",
-      "anchorGroup": "south"
-    },
-    "south-kensington-area-guide": {
-      "slot1": "pick:museums-and-history",
-      "adjacent": "pick:museums-and-history",
-      "anchorGroup": "west"
-    },
-    "stratford-area-guide": {
-      "slot1": "ArcelorMittal Orbit slide tickets",
-      "adjacent": "London Stadium tour",
-      "anchorGroup": "city-east"
-    },
-    "wapping-area-guide": {
-      "slot1": "London historic pub tour",
-      "adjacent": "Thames river cruise",
-      "anchorGroup": "city-east"
-    },
-    "westminster-area-guide": {
-      "slot1": "Westminster Abbey tickets",
-      "adjacent": "Houses of Parliament tour"
-    },
-    "five-days-in-london-itinerary": {
-      "slot1": "London pass attractions",
-      "adjacent": "Windsor Castle day trip from London"
-    },
-    "london-itineraries-by-days-and-interests": {
-      "slot1": "London pass attractions",
-      "adjacent": "London hop-on hop-off bus"
-    },
-    "one-day-london-itineraries-by-interest": {
-      "slot1": "London in one day tour",
-      "adjacent": "London hop-on hop-off bus"
-    },
-    "three-days-in-london-itinerary": {
-      "slot1": "London pass attractions",
-      "adjacent": "Thames river cruise"
-    },
-    "london-on-a-budget": {
-      "slot1": "pick:walking-tours",
-      "adjacent": "London pass attractions"
-    },
-    "best-canal-walks-london": {
-      "slot1": "pick:river-and-views",
-      "adjacent": "pick:river-and-views",
-      "anchorGroup": "north"
-    },
-    "best-cinemas-london": {
-      "slot1": "London film locations tour",
-      "adjacent": "pick:harry-potter"
-    },
-    "best-comedy-clubs-london": {
-      "slot1": "pick:london-classics",
-      "adjacent": "pick:london-classics"
-    },
-    "best-galleries-london": {
-      "slot1": "pick:museums-and-history",
-      "adjacent": "pick:museums-and-history"
-    },
-    "best-live-music-venues-london": {
-      "slot1": "pick:london-classics",
-      "adjacent": "Royal Albert Hall tour"
-    },
-    "best-museums-london": {
-      "slot1": "British Museum guided tour",
-      "adjacent": "pick:museums-and-history"
-    },
-    "best-parks-gardens-london": {
-      "slot1": "Kew Gardens tickets",
-      "adjacent": "pick:river-and-views",
-      "anchorGroup": "west"
-    },
-    "best-views-london": {
-      "slot1": "The Shard tickets",
-      "adjacent": "Sky Garden London",
-      "anchorGroup": "south"
-    },
-    "bonfire-night-london": {
-      "slot1": "pick:river-and-views",
-      "adjacent": "London Eye tickets"
-    },
-    "christmas-in-london": {
-      "slot1": "Christmas at Kew Gardens",
-      "adjacent": "London Christmas lights tour"
-    },
-    "cinema-deals-london": {
-      "slot1": "London film locations tour",
-      "adjacent": "pick:harry-potter"
-    },
-    "competitive-socialising-london": {
-      "slot1": "pick:london-classics",
-      "adjacent": "pick:london-classics"
-    },
-    "halloween-london": {
-      "slot1": "London ghost tour",
-      "adjacent": "pick:walking-tours",
-      "anchorGroup": "city-east"
-    },
-    "hampstead-heath-primrose-hill-walk": {
-      "slot1": "Hampstead walking tour",
-      "adjacent": "pick:london-classics",
-      "anchorGroup": "north"
-    },
-    "hidden-london-secret-places": {
-      "slot1": "pick:walking-tours",
-      "adjacent": "London underground station tour"
-    },
-    "historic-houses-london": {
-      "slot1": "Hampton Court Palace tickets",
-      "adjacent": "Kensington Palace tickets",
-      "anchorGroup": "west"
-    },
-    "hyde-park-winter-wonderland": {
-      "slot1": "Hyde Park Winter Wonderland",
-      "adjacent": "London Christmas lights tour"
-    },
-    "immersive-experiences-london": {
-      "slot1": "pick:london-classics",
-      "adjacent": "pick:london-classics"
-    },
-    "london-blue-plaques": {
-      "slot1": "pick:walking-tours",
-      "adjacent": "pick:walking-tours"
-    },
-    "london-film-festival": {
-      "slot1": "London film locations tour",
-      "adjacent": "pick:harry-potter"
-    },
-    "london-filming-locations": {
-      "slot1": "Harry Potter London walking tour",
-      "adjacent": "pick:harry-potter"
-    },
-    "london-in-the-rain": {
-      "slot1": "pick:museums-and-history",
-      "adjacent": "pick:food-tours"
-    },
-    "london-marathon-guide": {
-      "slot1": "Greenwich walking tour",
-      "adjacent": "Tower Bridge tickets",
-      "anchorGroup": "south"
-    },
-    "london-plaques-guide": {
-      "slot1": "pick:walking-tours",
-      "adjacent": "pick:walking-tours"
-    },
-    "london-street-art": {
-      "slot1": "pick:walking-tours",
-      "adjacent": "Shoreditch street art tour",
-      "anchorGroup": "city-east"
-    },
-    "london-walks-along-the-thames": {
-      "slot1": "Thames river cruise",
-      "adjacent": "pick:walking-tours",
-      "anchorGroup": "south"
-    },
-    "london-with-children": {
-      "slot1": "London Eye tickets",
-      "adjacent": "SEA LIFE London Aquarium tickets",
-      "anchorGroup": "family"
-    },
-    "wimbledon-tickets-guide": {
-      "slot1": "Wimbledon Lawn Tennis Museum tour",
-      "adjacent": "pick:london-classics",
-      "anchorGroup": "west"
-    },
-    "should-you-buy-sim-card-at-airport": {
-      "slot1": "UK eSIM data plan",
-      "adjacent": "pick:london-classics"
-    },
-    "travel-sim-esim-guide": {
-      "slot1": "UK eSIM data plan",
-      "adjacent": "pick:london-classics"
-    },
-    "london-pass-guide": {
-      "slot1": "pick:attraction-passes",
-      "adjacent": "Westminster Abbey tickets",
-      "slot3": "London Eye tickets"
-    },
-    "best-cabaret-london": {
-      "slot1": "pick:london-classics",
-      "adjacent": "pick:london-classics",
-      "slot3": "pick:london-classics"
-    },
-    "shopping-in-london": {
-      "slot1": "pick:london-classics",
-      "adjacent": "Portobello Market walking tour",
-      "slot3": "Bicester Village shopping day trip"
-    },
-    "new-years-eve-london": {
-      "slot1": "pick:river-and-views",
-      "adjacent": "pick:london-classics",
-      "slot3": "pick:walking-tours"
-    },
-    "harry-potter-studio-tour": {
-      "slot1": "pick:studio-tour-bundles",
-      "adjacent": "pick:harry-potter"
-    },
-    "day-trips-from-london": {
-      "slot1": "pick:day-trips",
-      "adjacent": "pick:stonehenge"
-    },
-    "stonehenge-day-trip": {
-      "slot1": "pick:stonehenge",
-      "adjacent": "pick:cotswolds"
-    },
-    "bath-day-trip": {
-      "slot1": "pick:stonehenge",
-      "adjacent": "pick:cotswolds"
-    },
-    "windsor-day-trip": {
-      "slot1": "pick:windsor",
-      "adjacent": "pick:stonehenge"
-    },
-    "cotswolds-day-trip": {
-      "slot1": "pick:cotswolds",
-      "adjacent": "pick:stonehenge"
-    },
-    "oxford-day-trip": {
-      "slot1": "pick:oxford-cambridge",
-      "adjacent": "pick:cotswolds"
-    },
-    "cambridge-day-trip": {
-      "slot1": "pick:oxford-cambridge",
-      "adjacent": "pick:day-trips"
-    },
-    "car-hire-driving-uk": {
-      "slot1": "pick:day-trips",
-      "adjacent": "pick:cotswolds"
-    },
-    "best-gastropubs-london": {
-      "slot1": "pick:food-tours",
-      "adjacent": "London historic pub tour"
-    },
-    "most-beautiful-pubs-london": {
-      "slot1": "London historic pub tour",
-      "adjacent": "pick:walking-tours"
-    }
+  "food-tours": {
+   "for": "Food and drink pages. GetYourGuide has almost no inventory for a restaurant guide - searching 'London food tour' returns an airport lounge - so these three real market tours stand in for the whole category.",
+   "tourIds": [
+    "67794",
+    "943039",
+    "504469"
+   ],
+   "titles": [
+    "Borough Market food tour, 6 tastings",
+    "Soho and Chinatown food walking tour",
+    "Camden Market food tour, 7 tastings"
+   ]
+  },
+  "day-trips": {
+   "for": "Itineraries and longer stays, where the reader has a spare day. Entry confirmed included on all three.",
+   "tourIds": [
+    "219849",
+    "215430",
+    "61147"
+   ],
+   "titles": [
+    "Stonehenge with admission",
+    "Cotswolds villages, small group",
+    "Stonehenge and Bath with Stonehenge entry"
+   ]
+  },
+  "harry-potter": {
+   "for": "Harry Potter pages. The search 'Warner Bros Studio Tour Harry Potter' returns Cursed Child on Broadway, so this one has to be pinned.",
+   "tourIds": [
+    "31392",
+    "505308",
+    "16403"
+   ],
+   "titles": [
+    "Studio Tour with transfers",
+    "Studio Tour with transfers, alternative operator",
+    "Studio Tour and branded bus"
+   ]
+  },
+  "walking-tours": {
+   "for": "Walking, street art and after-dark pages.",
+   "tourIds": [
+    "359535",
+    "765419",
+    "1242361"
+   ],
+   "titles": [
+    "Jack the Ripper interactive walking tour",
+    "British Museum guided tour",
+    "Shoreditch street art and graffiti walk"
+   ]
+  },
+  "museums-and-history": {
+   "for": "Museums, galleries and historic-building pages.",
+   "tourIds": [
+    "19600",
+    "765419",
+    "1396447"
+   ],
+   "titles": [
+    "St Paul's Cathedral",
+    "British Museum guided tour",
+    "Natural History Museum reserved entry"
+   ]
+  },
+  "studio-tour-bundles": {
+   "for": "The Warner Bros. Studio Tour page. Entry plus transport, which is the only thing GetYourGuide can sell here that the operator does not sell direct.",
+   "tourIds": [
+    "679208",
+    "31392",
+    "297085"
+   ],
+   "titles": [
+    "Studio Tour and return train",
+    "Studio Tour and coach from Victoria",
+    "Studio Tour with hotel pickup"
+   ]
+  },
+  "stonehenge": {
+   "for": "Stonehenge pages. These three are the high-volume products whose own pages put the entry ticket in the includes list with no 'if option selected' clause.",
+   "tourIds": [
+    "219849",
+    "16096",
+    "61147"
+   ],
+   "titles": [
+    "Stonehenge morning trip with admission",
+    "Stonehenge half-day with admission",
+    "Stonehenge and Bath with Stonehenge entry"
+   ]
+  },
+  "cotswolds": {
+   "for": "Cotswolds pages. Nothing in the villages needs a ticket, so the usual conditional-entry trap does not apply here.",
+   "tourIds": [
+    "215430",
+    "795342",
+    "593863"
+   ],
+   "titles": [
+    "Cotswolds villages, small group",
+    "Cotswolds villages by coach",
+    "Bath and the Cotswolds, Roman Baths included"
+   ]
+  },
+  "windsor": {
+   "for": "Windsor pages. Castle admission confirmed on the product page for the first two.",
+   "tourIds": [
+    "71088",
+    "18994",
+    "645578"
+   ],
+   "titles": [
+    "Windsor half-day with castle entry",
+    "Windsor Castle entry and transfer",
+    "LEGOLAND Windsor with entry"
+   ]
+  },
+  "oxford-cambridge": {
+   "for": "Oxford and Cambridge pages.",
+   "tourIds": [
+    "234277",
+    "331461",
+    "146070"
+   ],
+   "titles": [
+    "Oxford and Stonehenge with entry",
+    "Oxford Harry Potter tour with colleges",
+    "Cambridge walk and punt"
+   ]
+  },
+  "attraction-passes": {
+   "for": "Multi-attraction passes: one ticket for many attractions, in every big-seller pool, including the day-trip pool the planning and itinerary guides draw from. Added 15 September 2026 at Rob's request. The search 'London Pass' also returns a river cruise and the Royal Observatory, so the three are pinned.",
+   "tourIds": [
+    "26207",
+    "102239",
+    "193412"
+   ],
+   "titles": [
+    "The London Pass, 100+ attractions",
+    "Go City London Explorer Pass, 2 to 7 attractions",
+    "Merlin's Magical London Pass"
+   ]
+  },
+  "pass-and-classics": {
+   "for": "A pass beside two single tickets, so a widget never shows three versions of the same thing. Replaces pick:attraction-passes in the general pools; the all-passes set stays on the London Pass guide, where three passes is the subject.",
+   "tourIds": [
+    "26207",
+    "399163",
+    "439425"
+   ],
+   "titles": [
+    "The London Pass, 100+ attractions",
+    "Westminster Abbey",
+    "Tower Bridge"
+   ]
   }
+ },
+ "howPicksWork": "A slot may be \"pick:<name>\" instead of a search string, which pins the widget to those exact activity ids via data-gyg-tour-ids. Use a pick where the search returns the wrong thing. A probe of all 159 queries on 4 September 2026 (data/gyg-query-probe.json) found 49 where no result was on the subject, several returning other countries entirely - Auckland for a Thames cruise, Venice for the Natural History Museum, Sonoma for Kenwood House. Re-run scripts/probe-gyg-queries.mjs before trusting any query you add. 19 September 2026: every pool entry is now a pick rather than a search, because a search returns three versions of one product - three Stonehenge coach trips, three London Eye tickets - and Rob asked for each widget to offer three different things.",
+ "anchors": {
+  "central": [
+   "pick:london-classics",
+   "pick:museums-and-history",
+   "pick:pass-and-classics",
+   "pick:walking-tours"
+  ],
+  "city-east": [
+   "pick:london-classics",
+   "pick:walking-tours",
+   "pick:pass-and-classics",
+   "pick:river-and-views"
+  ],
+  "south": [
+   "pick:river-and-views",
+   "pick:london-classics",
+   "pick:pass-and-classics",
+   "pick:family-favourites"
+  ],
+  "west": [
+   "pick:museums-and-history",
+   "pick:london-classics",
+   "pick:pass-and-classics",
+   "pick:river-and-views"
+  ],
+  "north": [
+   "pick:harry-potter",
+   "pick:london-classics",
+   "pick:pass-and-classics",
+   "pick:family-favourites"
+  ],
+  "daytrip": [
+   "pick:day-trips",
+   "pick:london-classics",
+   "pick:pass-and-classics",
+   "pick:river-and-views"
+  ],
+  "family": [
+   "pick:family-favourites",
+   "pick:london-classics",
+   "pick:pass-and-classics",
+   "pick:harry-potter"
+  ],
+  "classics": [
+   "pick:london-classics",
+   "pick:river-and-views",
+   "pick:family-favourites",
+   "pick:museums-and-history"
+  ]
+ },
+ "defaultAnchorGroup": {
+  "Food and drink": "classics",
+  "Things to do": "south",
+  "London areas": "central",
+  "Getting around London": "south",
+  "London itineraries": "daytrip",
+  "Plan your trip": "daytrip",
+  "Travel SIM cards": "central"
+ },
+ "articles": {
+  "best-afternoon-tea-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "London afternoon tea bus tour",
+   "slot3": "pick:river-and-views"
+  },
+  "best-bakeries-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "best-breakfast-brunch-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "Borough Market food tour"
+  },
+  "best-burgers-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "Camden Market food tour"
+  },
+  "best-chinese-east-asian-restaurants-london": {
+   "slot1": "London Chinatown food tour",
+   "adjacent": "pick:food-tours"
+  },
+  "best-cocktail-bars-london": {
+   "slot1": "London cocktail making class",
+   "adjacent": "London speakeasy bar tour"
+  },
+  "best-coffee-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "best-dim-sum-london": {
+   "slot1": "London Chinatown food tour",
+   "adjacent": "pick:food-tours"
+  },
+  "best-fish-and-chips-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "Borough Market food tour"
+  },
+  "best-french-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "French cooking class London"
+  },
+  "best-ice-cream-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "London chocolate making class"
+  },
+  "best-indian-restaurants-london": {
+   "slot1": "Brick Lane curry tour",
+   "adjacent": "Indian cooking class London"
+  },
+  "best-italian-restaurants-london": {
+   "slot1": "pasta making class London",
+   "adjacent": "pick:food-tours"
+  },
+  "best-japanese-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "best-korean-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "London Chinatown food tour"
+  },
+  "best-london-markets": {
+   "slot1": "Borough Market food tour",
+   "adjacent": "Portobello Market walking tour"
+  },
+  "best-mexican-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "best-middle-eastern-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "best-pizza-london": {
+   "slot1": "London pizza making class",
+   "adjacent": "pick:food-tours"
+  },
+  "best-sandwiches-london": {
+   "slot1": "Borough Market food tour",
+   "adjacent": "pick:food-tours"
+  },
+  "best-seafood-restaurants-london": {
+   "slot1": "Borough Market food tour",
+   "adjacent": "pick:food-tours"
+  },
+  "best-spanish-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "best-steak-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "best-street-food-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "Camden Market food tour"
+  },
+  "best-sunday-roast-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "London historic pub tour"
+  },
+  "best-thai-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "best-turkish-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "best-vegetarian-vegan-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "best-walking-tours-london": {
+   "slot1": "London walking tour",
+   "adjacent": "London Jack the Ripper tour"
+  },
+  "cheap-eats-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "London food market tour"
+  },
+  "eat-in-london-guide": {
+   "slot1": "pick:food-tours",
+   "adjacent": "Borough Market food tour"
+  },
+  "historic-pubs-dining-rooms-london": {
+   "slot1": "London historic pub tour",
+   "adjacent": "pick:food-tours"
+  },
+  "late-night-eating-london": {
+   "slot1": "Brick Lane food tour",
+   "adjacent": "pick:london-classics"
+  },
+  "special-occasion-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:river-and-views"
+  },
+  "unusual-restaurants-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "cycling-bike-hire-scooters-london": {
+   "slot1": "London bike tour",
+   "adjacent": "pick:river-and-views"
+  },
+  "gatwick-airport-to-london": {
+   "slot1": "Gatwick Express tickets",
+   "adjacent": "Gatwick airport transfer London"
+  },
+  "getting-around-london-transport-guide": {
+   "slot1": "London hop-on hop-off bus",
+   "adjacent": "Thames river cruise"
+  },
+  "heathrow-airport-to-london": {
+   "slot1": "Heathrow Express tickets",
+   "adjacent": "Heathrow airport transfer London"
+  },
+  "how-to-use-london-buses-and-trams": {
+   "slot1": "London hop-on hop-off bus",
+   "adjacent": "London bus tour"
+  },
+  "how-to-use-london-river-boats": {
+   "slot1": "Thames river cruise",
+   "adjacent": "Uber Boat Thames Clippers ticket"
+  },
+  "how-to-use-the-london-underground": {
+   "slot1": "pick:london-classics",
+   "adjacent": "London hop-on hop-off bus"
+  },
+  "london-city-airport-to-london": {
+   "slot1": "London City Airport transfer",
+   "adjacent": "Emirates Air Line cable car ticket"
+  },
+  "london-public-transport-costs-and-fares": {
+   "slot1": "pick:london-classics",
+   "adjacent": "London hop-on hop-off bus"
+  },
+  "london-tour-buses-compared": {
+   "slot1": "London hop-on hop-off bus",
+   "adjacent": "London bus tour with river cruise"
+  },
+  "london-tube-and-rail-lines-guide": {
+   "slot1": "pick:london-classics",
+   "adjacent": "London hop-on hop-off bus"
+  },
+  "luton-airport-to-london": {
+   "slot1": "Luton airport transfer London",
+   "adjacent": "Luton DART ticket"
+  },
+  "oyster-card-guide-london": {
+   "slot1": "pick:london-classics",
+   "adjacent": "London hop-on hop-off bus"
+  },
+  "southend-airport-to-london": {
+   "slot1": "Southend airport transfer London",
+   "adjacent": "pick:london-classics"
+  },
+  "stansted-airport-to-london": {
+   "slot1": "Stansted Express tickets",
+   "adjacent": "Stansted airport transfer London"
+  },
+  "battersea-area-guide": {
+   "slot1": "Battersea Power Station Lift 109 tickets",
+   "adjacent": "Thames river cruise",
+   "anchorGroup": "south"
+  },
+  "bermondsey-area-guide": {
+   "slot1": "pick:food-tours",
+   "adjacent": "Bermondsey Beer Mile tour",
+   "anchorGroup": "south"
+  },
+  "best-areas-to-visit-london": {
+   "slot1": "pick:walking-tours",
+   "adjacent": "London hop-on hop-off bus"
+  },
+  "bloomsbury-area-guide": {
+   "slot1": "British Museum guided tour",
+   "adjacent": "Harry Potter London walking tour"
+  },
+  "camden-area-guide": {
+   "slot1": "Camden Market food tour",
+   "adjacent": "pick:river-and-views",
+   "anchorGroup": "north"
+  },
+  "canary-wharf-area-guide": {
+   "slot1": "pick:river-and-views",
+   "adjacent": "Emirates Air Line cable car ticket",
+   "anchorGroup": "city-east"
+  },
+  "chelsea-area-guide": {
+   "slot1": "Chelsea walking tour",
+   "adjacent": "pick:london-classics",
+   "anchorGroup": "west"
+  },
+  "city-of-london-area-guide": {
+   "slot1": "pick:museums-and-history",
+   "adjacent": "Sky Garden London",
+   "anchorGroup": "city-east"
+  },
+  "covent-garden-area-guide": {
+   "slot1": "Covent Garden walking tour",
+   "adjacent": "pick:london-classics"
+  },
+  "fitzrovia-area-guide": {
+   "slot1": "pick:food-tours",
+   "adjacent": "BT Tower London"
+  },
+  "greenwich-area-guide": {
+   "slot1": "Cutty Sark tickets",
+   "adjacent": "Greenwich river cruise",
+   "anchorGroup": "south"
+  },
+  "hackney-area-guide": {
+   "slot1": "East London street art tour",
+   "adjacent": "pick:food-tours",
+   "anchorGroup": "city-east"
+  },
+  "hampstead-area-guide": {
+   "slot1": "Hampstead Heath walking tour",
+   "adjacent": "pick:london-classics",
+   "anchorGroup": "north"
+  },
+  "islington-area-guide": {
+   "slot1": "pick:food-tours",
+   "adjacent": "Sadler's Wells dance show",
+   "anchorGroup": "north"
+  },
+  "kensington-area-guide": {
+   "slot1": "Kensington Palace tickets",
+   "adjacent": "Royal Albert Hall tour",
+   "anchorGroup": "west"
+  },
+  "kings-cross-area-guide": {
+   "slot1": "Harry Potter London walking tour",
+   "adjacent": "pick:river-and-views",
+   "anchorGroup": "north"
+  },
+  "marylebone-area-guide": {
+   "slot1": "pick:museums-and-history",
+   "adjacent": "Madame Tussauds London tickets"
+  },
+  "mayfair-area-guide": {
+   "slot1": "pick:walking-tours",
+   "adjacent": "pick:food-tours"
+  },
+  "notting-hill-area-guide": {
+   "slot1": "Portobello Market walking tour",
+   "adjacent": "Notting Hill film locations tour",
+   "anchorGroup": "west"
+  },
+  "paddington-area-guide": {
+   "slot1": "pick:river-and-views",
+   "adjacent": "Paddington Bear London tour",
+   "anchorGroup": "west"
+  },
+  "peckham-area-guide": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:walking-tours",
+   "anchorGroup": "south"
+  },
+  "richmond-area-guide": {
+   "slot1": "Hampton Court Palace tickets",
+   "adjacent": "pick:river-and-views",
+   "anchorGroup": "west"
+  },
+  "shoreditch-area-guide": {
+   "slot1": "Shoreditch street art tour",
+   "adjacent": "Brick Lane curry tour",
+   "anchorGroup": "city-east"
+  },
+  "soho-area-guide": {
+   "slot1": "pick:food-tours",
+   "adjacent": "pick:london-classics"
+  },
+  "south-bank-area-guide": {
+   "slot1": "London Eye tickets",
+   "adjacent": "Borough Market food tour",
+   "anchorGroup": "south"
+  },
+  "south-kensington-area-guide": {
+   "slot1": "pick:museums-and-history",
+   "adjacent": "pick:museums-and-history",
+   "anchorGroup": "west"
+  },
+  "stratford-area-guide": {
+   "slot1": "ArcelorMittal Orbit slide tickets",
+   "adjacent": "London Stadium tour",
+   "anchorGroup": "city-east"
+  },
+  "wapping-area-guide": {
+   "slot1": "London historic pub tour",
+   "adjacent": "Thames river cruise",
+   "anchorGroup": "city-east"
+  },
+  "westminster-area-guide": {
+   "slot1": "Westminster Abbey tickets",
+   "adjacent": "Houses of Parliament tour"
+  },
+  "five-days-in-london-itinerary": {
+   "slot1": "London pass attractions",
+   "adjacent": "Windsor Castle day trip from London"
+  },
+  "london-itineraries-by-days-and-interests": {
+   "slot1": "London pass attractions",
+   "adjacent": "London hop-on hop-off bus"
+  },
+  "one-day-london-itineraries-by-interest": {
+   "slot1": "London in one day tour",
+   "adjacent": "London hop-on hop-off bus"
+  },
+  "three-days-in-london-itinerary": {
+   "slot1": "London pass attractions",
+   "adjacent": "Thames river cruise"
+  },
+  "london-on-a-budget": {
+   "slot1": "pick:walking-tours",
+   "adjacent": "London pass attractions"
+  },
+  "best-canal-walks-london": {
+   "slot1": "pick:river-and-views",
+   "adjacent": "pick:river-and-views",
+   "anchorGroup": "north"
+  },
+  "best-cinemas-london": {
+   "slot1": "London film locations tour",
+   "adjacent": "pick:harry-potter"
+  },
+  "best-comedy-clubs-london": {
+   "slot1": "pick:london-classics",
+   "adjacent": "pick:london-classics"
+  },
+  "best-galleries-london": {
+   "slot1": "pick:museums-and-history",
+   "adjacent": "pick:museums-and-history"
+  },
+  "best-live-music-venues-london": {
+   "slot1": "pick:london-classics",
+   "adjacent": "Royal Albert Hall tour"
+  },
+  "best-museums-london": {
+   "slot1": "British Museum guided tour",
+   "adjacent": "pick:museums-and-history"
+  },
+  "best-parks-gardens-london": {
+   "slot1": "Kew Gardens tickets",
+   "adjacent": "pick:river-and-views",
+   "anchorGroup": "west"
+  },
+  "best-views-london": {
+   "slot1": "The Shard tickets",
+   "adjacent": "Sky Garden London",
+   "anchorGroup": "south"
+  },
+  "bonfire-night-london": {
+   "slot1": "pick:river-and-views",
+   "adjacent": "London Eye tickets"
+  },
+  "christmas-in-london": {
+   "slot1": "Christmas at Kew Gardens",
+   "adjacent": "London Christmas lights tour"
+  },
+  "cinema-deals-london": {
+   "slot1": "London film locations tour",
+   "adjacent": "pick:harry-potter"
+  },
+  "competitive-socialising-london": {
+   "slot1": "pick:london-classics",
+   "adjacent": "pick:london-classics"
+  },
+  "halloween-london": {
+   "slot1": "London ghost tour",
+   "adjacent": "pick:walking-tours",
+   "anchorGroup": "city-east"
+  },
+  "hampstead-heath-primrose-hill-walk": {
+   "slot1": "Hampstead walking tour",
+   "adjacent": "pick:london-classics",
+   "anchorGroup": "north"
+  },
+  "hidden-london-secret-places": {
+   "slot1": "pick:walking-tours",
+   "adjacent": "London underground station tour"
+  },
+  "historic-houses-london": {
+   "slot1": "Hampton Court Palace tickets",
+   "adjacent": "Kensington Palace tickets",
+   "anchorGroup": "west"
+  },
+  "hyde-park-winter-wonderland": {
+   "slot1": "Hyde Park Winter Wonderland",
+   "adjacent": "London Christmas lights tour"
+  },
+  "immersive-experiences-london": {
+   "slot1": "pick:london-classics",
+   "adjacent": "pick:london-classics"
+  },
+  "london-blue-plaques": {
+   "slot1": "pick:walking-tours",
+   "adjacent": "pick:walking-tours"
+  },
+  "london-film-festival": {
+   "slot1": "London film locations tour",
+   "adjacent": "pick:harry-potter"
+  },
+  "london-filming-locations": {
+   "slot1": "Harry Potter London walking tour",
+   "adjacent": "pick:harry-potter"
+  },
+  "london-in-the-rain": {
+   "slot1": "pick:museums-and-history",
+   "adjacent": "pick:food-tours"
+  },
+  "london-marathon-guide": {
+   "slot1": "Greenwich walking tour",
+   "adjacent": "Tower Bridge tickets",
+   "anchorGroup": "south"
+  },
+  "london-plaques-guide": {
+   "slot1": "pick:walking-tours",
+   "adjacent": "pick:walking-tours"
+  },
+  "london-street-art": {
+   "slot1": "pick:walking-tours",
+   "adjacent": "Shoreditch street art tour",
+   "anchorGroup": "city-east"
+  },
+  "london-walks-along-the-thames": {
+   "slot1": "Thames river cruise",
+   "adjacent": "pick:walking-tours",
+   "anchorGroup": "south"
+  },
+  "london-with-children": {
+   "slot1": "London Eye tickets",
+   "adjacent": "SEA LIFE London Aquarium tickets",
+   "anchorGroup": "family"
+  },
+  "wimbledon-tickets-guide": {
+   "slot1": "Wimbledon Lawn Tennis Museum tour",
+   "adjacent": "pick:london-classics",
+   "anchorGroup": "west"
+  },
+  "should-you-buy-sim-card-at-airport": {
+   "slot1": "UK eSIM data plan",
+   "adjacent": "pick:london-classics"
+  },
+  "travel-sim-esim-guide": {
+   "slot1": "UK eSIM data plan",
+   "adjacent": "pick:london-classics"
+  },
+  "london-pass-guide": {
+   "slot1": "pick:attraction-passes",
+   "adjacent": "Westminster Abbey tickets",
+   "slot3": "London Eye tickets"
+  },
+  "best-cabaret-london": {
+   "slot1": "pick:london-classics",
+   "adjacent": "pick:london-classics",
+   "slot3": "pick:london-classics"
+  },
+  "shopping-in-london": {
+   "slot1": "pick:london-classics",
+   "adjacent": "Portobello Market walking tour",
+   "slot3": "Bicester Village shopping day trip"
+  },
+  "new-years-eve-london": {
+   "slot1": "pick:river-and-views",
+   "adjacent": "pick:london-classics",
+   "slot3": "pick:walking-tours"
+  },
+  "harry-potter-studio-tour": {
+   "slot1": "pick:studio-tour-bundles",
+   "adjacent": "pick:harry-potter"
+  },
+  "day-trips-from-london": {
+   "slot1": "pick:day-trips",
+   "adjacent": "pick:stonehenge"
+  },
+  "stonehenge-day-trip": {
+   "slot1": "pick:stonehenge",
+   "adjacent": "pick:cotswolds"
+  },
+  "bath-day-trip": {
+   "slot1": "pick:stonehenge",
+   "adjacent": "pick:cotswolds"
+  },
+  "windsor-day-trip": {
+   "slot1": "pick:windsor",
+   "adjacent": "pick:stonehenge"
+  },
+  "cotswolds-day-trip": {
+   "slot1": "pick:cotswolds",
+   "adjacent": "pick:stonehenge"
+  },
+  "oxford-day-trip": {
+   "slot1": "pick:oxford-cambridge",
+   "adjacent": "pick:cotswolds"
+  },
+  "cambridge-day-trip": {
+   "slot1": "pick:oxford-cambridge",
+   "adjacent": "pick:day-trips"
+  },
+  "car-hire-driving-uk": {
+   "slot1": "pick:day-trips",
+   "adjacent": "pick:cotswolds"
+  },
+  "best-gastropubs-london": {
+   "slot1": "pick:food-tours",
+   "adjacent": "London historic pub tour"
+  },
+  "most-beautiful-pubs-london": {
+   "slot1": "London historic pub tour",
+   "adjacent": "pick:walking-tours"
+  }
+ }
 }
