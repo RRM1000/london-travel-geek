@@ -54,6 +54,8 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - Check every link before shipping it. A dead booking link is worse than a dead article link.
 - "Book" means the link lands on the booking screen. Call a homepage the venue's site, strip dates from booking URLs, and never put a booking link on a venue that takes no bookings.
 - Hotels link to Hotels.com through the affiliate when Hotels.com sells them: `[name](hotel:slug)` for a hotel in the Hotels sheet, `[name](hotelscom:<id>)` with the ho-id from its Hotels.com URL for one that isn't. A hotel Hotels.com doesn't sell links to its own website. Never link a hotel to any other booking site.
+- `hotel:slug` only reaches Hotels.com if that row carries a Hotels.com URL. Without one it quietly falls back to the hotel's own website, which is how nine of the eleven hotels in the Bloomsbury guide came to link past the affiliate. Find the missing URL with `scripts/resolve-hotels-com-urls.mjs`, write it in with `scripts/apply-hotels-com-urls.mjs --write`, then re-run the writer and the export. `npm run build` fails on a hotel we could sell that links to its own front door, and on any link to another booking site.
+- The link text says where the link lands. A link that ends up on Hotels.com reads "Hotels.com", not the hotel's own domain.
 - Other affiliate links: partners as `partner:key`, GetYourGuide with `partner_id=WWP7I0R` and `rel="sponsored nofollow noopener"`.
 - A new guide is linked both ways before it's finished: it links to the guides a reader would want next, and every related guide, hub and planning page links to it. Being linked from one page isn't enough. `node scripts/audit-links.mjs` must pass too.
 
