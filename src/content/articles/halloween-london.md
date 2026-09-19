@@ -3,7 +3,7 @@ title: "Halloween in London: Events, Parties and Where to Get a Costume"
 seoTitle: "Halloween in London 2026: Events, Parties and Costumes"
 description: "What to do in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours — plus where you can still hire a proper costume."
 publishedAt: 2026-08-29
-updatedAt: 2026-09-13
+updatedAt: 2026-09-19
 sites:
   - london
 canonicalSite: london
@@ -21,7 +21,7 @@ faq:
   - q: "Where can you hire a Halloween costume in London?"
     a: "Two places will genuinely hire to a member of the public: Prangsta Costumiers in New Cross, which is appointment-only and charges £130–£350 plus VAT for a full costume with a £300 deposit, and Costume Studio in Islington, which takes walk-ins and is happy to do a single costume. Angels on Shaftesbury Avenue, the shop most guides still send people to, closed in 2014."
   - q: "Is the London Dungeon worth it for Halloween?"
-    a: "Its Halloween show, The Unlucky Mummy Returns, runs from 17 October to 1 November 2026 and is included in a standard London Dungeon ticket, which starts from £27 for an adult and £22 for a child aged 5 to 15 when booked online. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
+    a: "Its Halloween show, Curse of the Mummy, runs from 17 October to 1 November 2026 and is included in a standard London Dungeon ticket, which starts from £27 for an adult and £22 for a child aged 5 to 15 when booked online. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
 heroImage: "../../assets/articles/halloween-london/beetlejuice-curtain-call.jpg"
 heroImageAlt: "The cast of Beetlejuice taking their curtain call at the Prince Edward Theatre, lit in green and blue, with the Maitland house tilting above them and the sandworm reared up at the side of the stage"
 ---
@@ -152,6 +152,22 @@ A spooky-science live show for families rather than a scare — eerie fog, pumpk
 
 It is worth knowing what this is not: there are no actors, no jump scares and nothing chasing anybody. It is a demonstration lecture in the Ri's famous tiered theatre, the same room the Christmas Lectures are filmed in, pitched at families who want the season without the fright. For a child who wants to join in with Halloween but would be genuinely upset by a scare maze, it is the best thing on this page.
 
+### Halloween at Kew, Royal Botanic Gardens
+
+Kew, Richmond, London, TW9 3AE — enter at Victoria, Elizabeth or Brentford Gate only. **16 October to 1 November 2026**, 6pm–10pm until 24 October then 4pm–10pm for the final week. Returning for a third year.
+
+An after-dark trail through the Gardens: Dracula among the trees, fire performers, the Headless Horseman, and a new cursed tomb for 2026. Entry is timed into three tiers that get scarier through the evening — **Daylight** sessions before 6pm suit younger children, **Twilight** (6–7.30pm) "ramps up a notch," and **Moonlight** (after 7.30pm) is, in Kew's own words, as scary as it gets, though still billed as suitable for all ages. Food and drink cost extra.
+
+**Non-member tickets from £19.50 off-peak or £24 peak for an adult**, with family and child pricing and a limited run of Anytime entry also on sale. Kew's own site warns the event sells out, with no exchanges or refunds once booked. Book via [kew.org](https://www.kew.org/kew-gardens/whats-on/halloween-at-kew).
+
+### Paddington Bear Experience, County Hall
+
+South Bank, inside County Hall. **17 October to 1 November 2026**, across all time slots. Standard admission is **£34 adult (16+), £24 child (2–15), free for babes in arms**, with an optional Halloween add-on on top.
+
+The regular walk-through — Paddington-themed rooms leading to the Brown family's home in Windsor Gardens — gets an autumnal dressing for the season, with characters from the books handing out treats as you go. **The £15-per-child add-on** brings a souvenir pumpkin bucket, sweets, a Paw Biscuit, a pair of Paddington ears and a Halloween postcard.
+
+Fancy dress is encouraged, and it's aimed squarely at small children rather than anyone chasing a scare. **Booking ahead is required**, through [the experience's own site](https://paddingtonbearexperience.com/halloween).
+
 ---
 
 ## Ghost tours
@@ -182,7 +198,7 @@ Not a walk — a 75-minute comedy-horror ride around London's landmarks on a con
 
 Two more worth knowing about, though neither falls on Halloween night itself this year: **Serial Killers: The Blood and Tears Walk**, a well-reviewed look at the Ripper and nine other London murder cases, runs Wednesday to Friday only, so the closest date is Friday 30 October; and London Walks' own **Haunted London** walk runs Sundays only, landing on 1 November.
 
-**The London Dungeon** has a Jack the Ripper scene among its scare-actor sets, and its Halloween show, **The Unlucky Mummy Returns**, runs **17 October to 1 November 2026**, included in a standard ticket — from **£27** adult and **£22** child (5–15) online, or £35 and £29 on the door. [See the listing](https://www.thedungeons.com/london/whats-inside/events/halloween/).
+**The London Dungeon** has a Jack the Ripper scene among its scare-actor sets, and its Halloween show, **Curse of the Mummy**, runs **17 October to 1 November 2026**, included in a standard ticket — from **£27** adult and **£22** child (5–15) online, or £35 and £29 on the door. [See the listing](https://www.thedungeons.com/london/whats-inside/events/halloween/).
 
 ---
 
