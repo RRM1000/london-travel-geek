@@ -5,7 +5,7 @@ description: "An Off-Peak return to Cambridge is £32.40 and the fast train take
 publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
-category: "Things to do"
+category: "Day trips"
 heroImage: "../../assets/articles/cambridge-day-trip/kings-college-aerial.jpg"
 heroImageAlt: "King's College Cambridge from the air: the chapel, the Gibbs Building and the lawns running down to the Backs"
 heroImageCredit: "Cara Denison"

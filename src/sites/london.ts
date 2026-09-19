@@ -188,7 +188,9 @@ export const londonSite: SiteConfig = {
     },
     {
       label: "Day Trips",
-      href: "/articles/day-trips-from-london/",
+      // The section page, like every other top-level item. The comparison
+      // table that used to sit behind this label is the panel's first child.
+      href: "/topics/day-trips/",
       description: "Out of London and back in a day, priced and timed.",
       imageKey: "dayTrips",
       // Seven destinations and then the comparison page, which is this

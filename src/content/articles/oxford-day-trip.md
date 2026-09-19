@@ -5,7 +5,7 @@ description: "An Off-Peak return to Oxford is £37.70 and the coach is £28 and 
 publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
-category: "Things to do"
+category: "Day trips"
 heroImage: "../../assets/articles/oxford-day-trip/radcliffe-camera-dome.jpg"
 heroImageAlt: "The dome of the Radcliffe Camera in Oxford lit by low sun, with college roofs and the city behind"
 heroImageCredit: "Jess Buckle"

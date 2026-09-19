@@ -5,7 +5,7 @@ description: "The Cotswolds is not one place and it has almost no buses between 
 publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
-category: "Things to do"
+category: "Day trips"
 heroImage: "../../assets/articles/cotswolds-day-trip/lower-slaughter-mill.jpg"
 heroImageAlt: "The old mill and cottages reflected in the millpond at Lower Slaughter, ducks on the water"
 heroImageCredit: "Michelle Chadwick"

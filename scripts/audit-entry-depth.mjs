@@ -161,6 +161,9 @@ const files = fs.readdirSync("src/content/articles")
     // day-rooms-london's are advice. Those are named in NOT_LISTICLES, per the
     // rule at the top of this file: excluded out loud, in one place.
     if (cat === "Stay" || cat === "Plan your trip") return entries >= 4;
+    // A day-trip guide is one destination described at length, not a list of
+    // twenty; four entries is the same bar the area guides get.
+    if (cat === "Day trips") return entries >= 4;
     if (entries < 8) return false;
     return cat === "Food and drink" || cat === "Things to do";
   })

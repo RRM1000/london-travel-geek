@@ -5,7 +5,7 @@ description: "Stonehenge admission is £27.20 to £32.30 in advance depending on
 publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
-category: "Things to do"
+category: "Day trips"
 heroImage: "../../assets/articles/stonehenge-day-trip/stonehenge-wide.jpg"
 heroImageAlt: "The full Stonehenge circle seen across open grass, the sarsen trilithons and fallen stones under a wide sky"
 heroImageCredit: "Eren Cebeci"

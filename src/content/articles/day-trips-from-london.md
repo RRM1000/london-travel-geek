@@ -5,7 +5,7 @@ description: "Windsor, Oxford, Cambridge, Bath, Stonehenge, the Cotswolds and th
 publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
-category: "Things to do"
+category: "Day trips"
 heroImage: "../../assets/articles/day-trips-from-london/castle-combe-street.jpg"
 heroImageAlt: "The main street of Castle Combe: honey-coloured stone cottages either side of an empty road running down through the village"
 heroImageCredit: "Adrian Limani"

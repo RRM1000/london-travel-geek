@@ -5,7 +5,7 @@ description: "Windsor Castle is £32 in advance and shut every Tuesday and Wedne
 publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
-category: "Things to do"
+category: "Day trips"
 heroImage: "../../assets/articles/windsor-day-trip/windsor-castle-upper-ward.jpg"
 heroImageAlt: "Windsor Castle's Upper Ward, the State Apartments and round towers behind a wide lawn under a blue sky"
 heroImageCredit: "Marvin Sacdalan"

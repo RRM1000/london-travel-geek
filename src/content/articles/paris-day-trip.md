@@ -5,7 +5,7 @@ description: "St Pancras to Gare du Nord takes as little as 2h16 on Eurostar, wi
 publishedAt: 2026-09-14
 sites: [london]
 canonicalSite: london
-category: "Things to do"
+category: "Day trips"
 heroImage: "../../assets/articles/paris-day-trip/paris-aerial-eiffel-tower.jpg"
 heroImageAlt: "Paris from above on a clear day, with the Eiffel Tower on the skyline and a tree-lined avenue running away between stone apartment blocks"
 heroImageCredit: "Mo Eid"

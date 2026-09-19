@@ -5,7 +5,7 @@ description: "Paddington to Bath Spa takes 1h15 and Advance singles cut the retu
 publishedAt: 2026-09-12
 sites: [london]
 canonicalSite: london
-category: "Things to do"
+category: "Day trips"
 heroImage: "../../assets/articles/bath-day-trip/pulteney-bridge-river.jpg"
 heroImageAlt: "Pulteney Bridge seen from the river, its arches and the shops built along it, with Georgian buildings behind"
 heroImageCredit: "Lebele"
