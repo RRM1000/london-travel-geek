@@ -8,7 +8,7 @@ publishedAt: 2026-09-08
 updatedAt: 2026-09-09
 sites: [london]
 canonicalSite: london
-category: "Plan your trip"
+category: "Stay"
 tags: [where to stay, hotels, King's Cross, Eurostar, planning]
 draft: false
 faq:

@@ -6,7 +6,7 @@ publishedAt: 2026-09-15
 updatedAt: 2026-09-15
 sites: [london]
 canonicalSite: london
-category: "Plan your trip"
+category: "Stay"
 tags: [where to stay, hotels, planning, budget]
 heroImage: "../../assets/articles/best-budget-hotels-london/good-hotel-london.jpg"
 heroImageAlt: "Good Hotel London, moored at Royal Victoria Dock, with GOOD HOTEL in large letters on the roof and a gangway to the entrance"
