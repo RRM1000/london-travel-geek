@@ -177,7 +177,7 @@ Open to visitors **Monday to Friday 8am to 5pm, Saturday 10am to 5pm and Sunday 
 
 ## 9. The Tower of London
 
-The one paid ticket on the route, and a **half-day in its own right** rather than a stop on a walk.
+The one paid ticket on the route, and a **half-day in its own right** rather than a stop on a walk. If you are going inside, our dedicated [Tower of London guide](/articles/tower-of-london-guide/) sets out the 9:00am door route that skips the Crown Jewels queue.
 
 If you are doing it, **book ahead and go at opening** — the Crown Jewels queue is the whole difficulty and it is shortest in the first hour. Opening is **9am Tuesday to Saturday but 10am on Sunday and Monday**, and closing is 5.30pm in summer, 4.30pm in winter. That hour matters if the Tower is your first stop rather than your last: on a Tuesday-to-Thursday walk you can be inside before the coaches arrive. If you are not doing it today, the walk still works: the outer walls, the wharf and Tower Hill are free to walk, and the **Roman city wall** stands in the gardens by Tower Hill station.
 

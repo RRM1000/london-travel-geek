@@ -162,7 +162,7 @@ No river view, no terrace, no dining room: two small bars, a dartboard and local
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-pubs-dining-rooms-london-london-historic-pub-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historic pub tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-pubs-dining-rooms-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Extraordinary buildings, ordinary prices
 

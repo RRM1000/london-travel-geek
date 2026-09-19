@@ -67,7 +67,7 @@ Every one of these is free, mapped stop by stop, and says what is open on which 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-itineraries-by-days-and-interests-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-itineraries-by-days-and-interests-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Book before you fly
 
@@ -75,7 +75,7 @@ Five things genuinely sell out. Everything else can wait.
 
 | Book | How far ahead | Why |
 | --- | --- | --- |
-| **Tower of London** | 2–3 weeks in peak season | Timed entry, and the Crown Jewels queue grows all day. Take the first slot |
+| **[Tower of London](/articles/tower-of-london-guide/)** | 2–3 weeks in peak season | Timed entry, and the Crown Jewels queue grows all day. Take the first slot |
 | **Westminster Abbey** | 1–2 weeks | Timed entry, and **closed to sightseers on Sundays** |
 | **A West End show** | 2–4 weeks | Direct from the theatre, not a reseller |
 | **Horizon 22** | Weeks ahead | Free, and the highest free viewpoint in London |

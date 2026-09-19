@@ -185,7 +185,7 @@ The reason to make the walk is what is underneath: the **Churchill War Rooms occ
 
 **Great George Street SW1P 3AL**, three minutes from Westminster, and St James's Park is the quieter approach.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-harry-potter-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Harry Potter London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Television
 

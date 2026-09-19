@@ -138,7 +138,7 @@ Lamb chops, dry lamb curry and chicken karahi, in a room that has never pretende
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="late-night-eating-london-brick-lane-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Brick Lane food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="late-night-eating-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Edgware Road
 

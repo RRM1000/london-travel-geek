@@ -108,7 +108,7 @@ It opens **every day except 24 to 26 December**. The house runs from **10am to 5
 
 You can book a free ticket online until 8.45am on the day; after that there are walk-up tickets, subject to availability. Some exhibitions charge.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk-hampstead-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampstead walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 5. The Ladies' Pond and the Highgate ponds
 

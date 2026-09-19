@@ -84,7 +84,7 @@ That also puts you at [Canary Wharf](/articles/canary-wharf-area-guide/), which 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="five-days-in-london-itinerary-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="five-days-in-london-itinerary-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Day 5: one neighbourhood, properly
 

@@ -242,7 +242,7 @@ Four cuisines, Mediterranean, Indian, Chinese and British, at pre-booked tables 
 
 All the food is included for £59, the lowest price of these four: local cheese, local ice cream, the chai they rate as London's best, their favourite bakery and some surprises, between midday and 4pm. The founders started out in London's street-food markets in 2017. For eating on your own terms, see our [street food guide](/articles/best-street-food-london/).
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-walking-tours-london-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-walking-tours-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Street art
 

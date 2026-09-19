@@ -194,7 +194,7 @@ The least-known free London, and the most interesting. These are not attractions
 
 ### And one you have to plan for
 
-**The Ceremony of the Keys** at the Tower of London — the locking-up ritual performed every night for around 700 years — is **free**, but allocated by ballot months ahead. Worth entering long before you travel.
+**The Ceremony of the Keys** at the [Tower of London](/articles/tower-of-london-guide/) — the locking-up ritual performed every night for around 700 years — is £5, released online on the first working day of each month for the month ahead. See our full guide for the booking strategy.
 
 ---
 
@@ -310,7 +310,7 @@ Accommodation is the line that breaks most London budgets, and the one genuinely
 
 **The area matters more than the hotel.** [Best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for and covers the thing that quietly decides the budget — whether there is a train home at one in the morning, or a taxi. For a stay of more than a few nights, an [aparthotel](/articles/aparthotels-london/) with a kitchen usually beats a hotel room on total cost, and if you only need somewhere between a late flight and a check-in, [day rooms](/articles/day-rooms-london/) are cheaper than a wasted night.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where the money actually goes
 

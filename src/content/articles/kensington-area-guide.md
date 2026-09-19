@@ -188,7 +188,7 @@ Walk it as a link between the two parks rather than as a destination.
 
 **Seasonal:** The Serpentine Pavilion runs June to October. Opera Holland Park runs June to August. The Sunken Garden is at its best in late spring.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Suggested half-day route
 

@@ -188,7 +188,7 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 - **[London's historic houses](/articles/historic-houses-london/)** — including the Royal Hospital Chelsea, whose grounds are more visitable than most people realise.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-chelsea-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Chelsea walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 

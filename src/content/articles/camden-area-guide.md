@@ -187,7 +187,7 @@ North-west across the railway, and a different world within ten minutes' walk �
 | **The Lansdowne** | Gastropub | ££ | Primrose Hill; where locals go to escape the market |
 | **Chin Chin Labs** | Ice cream | £ | Liquid-nitrogen ice cream made in front of you |
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-camden-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Camden Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Canal boat trips from Camden
 

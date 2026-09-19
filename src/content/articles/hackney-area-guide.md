@@ -161,7 +161,7 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 
 **By bus.** The 55 and 388 run from central London and are useful in the evening when the Overground thins out.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-east-london-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="East London street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How long to spend, and when to go
 

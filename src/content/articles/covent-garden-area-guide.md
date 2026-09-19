@@ -232,7 +232,7 @@ For a drink between the theatres, **Bar Cicoria's terrace** is free to walk into
 
 **Avoid:** Saturday afternoons, when the Piazza is at its worst. Matinee days (usually Wednesday and Saturday) also put heavy pressure on restaurants from midday.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-covent-garden-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Covent Garden walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Walking routes
 
@@ -249,7 +249,7 @@ Our full route for this area: **eleven numbered stops** over about 2km and two h
 5. **Neal's Yard:** The alley off **Short's Gardens** — look for the small blue sign.
 6. **Finish:** **Seven Dials Market** for lunch, or continue west into Soho.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 
