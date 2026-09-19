@@ -84,4 +84,22 @@ const { site, variant = "light" } = Astro.props;
   .logo--dark .logo__red {
     color: #e8564c;
   }
+
+  /* Below about 360px the wordmark, which never wraps, and the burger stopped
+     fitting the bar between them, and the whole page scrolled sideways.
+     Shrink the lockup rather than let it push the page wide. */
+  @media (max-width: 23rem) {
+    .logo {
+      gap: 0.5rem;
+    }
+
+    .logo__img {
+      height: 2rem;
+    }
+
+    .logo__text {
+      font-size: 0.95rem;
+      gap: 0.25rem;
+    }
+  }
 </style>

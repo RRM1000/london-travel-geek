@@ -1064,6 +1064,14 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
     }
   }
 
+  /* On the narrowest phones the bar's 1.5rem gap is the difference between
+     fitting and scrolling the page sideways. */
+  @media (max-width: 23rem) {
+    .site-header__inner {
+      gap: 0.75rem;
+    }
+  }
+
   /* Motion is decoration here; every state is also carried by colour, the
      caret rotation and aria-expanded. */
   @media (prefers-reduced-motion: reduce) {

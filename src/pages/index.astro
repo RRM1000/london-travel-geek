@@ -694,8 +694,13 @@ const topicTiles = [
   @media (max-width: 64rem) {
     .topics__rail {
       display: flex;
-      margin-inline: calc(-1 * (100vw - min(100vw - 2.5rem, var(--page-width))) / 2);
-      padding-inline: calc((100vw - min(100vw - 2.5rem, var(--page-width))) / 2);
+      /* Bleed the rail out to the screen edges by exactly the .container
+         gutter. Measured from the gutter itself, not from 100vw: 100vw
+         includes the vertical scrollbar, so on a phone the rail came out
+         8px wider than the viewport and the whole page scrolled sideways. */
+      --rail-bleed: 1.25rem;
+      margin-inline: calc(-1 * var(--rail-bleed));
+      padding-inline: var(--rail-bleed);
       overflow-x: auto;
       scroll-snap-type: x mandatory;
       scrollbar-width: none;
@@ -714,6 +719,14 @@ const topicTiles = [
       grid-template-columns: 1fr;
     }
 
+  }
+
+  /* .container narrows its gutter at this width, so the rail's bleed has to
+     follow it or the tiles stop lining up with everything above them. */
+  @media (max-width: 48rem) {
+    .topics__rail {
+      --rail-bleed: 0.75rem;
+    }
   }
 
   @media (max-width: 54rem) {
