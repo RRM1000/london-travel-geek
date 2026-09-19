@@ -108,7 +108,7 @@ Rooms vary a lot for one hotel — whitewashed walls, tapestry hangings and pine
 
 ### Redchurch Townhouse — Soho House without the membership
 
-*About £220 · Thirty-seven rooms · Cecconi's downstairs*
+*About £220 · Thirty-seven rooms · Cecconi's downstairs · [Hotels.com](hotel:redchurch-townhouse)*
 
 Soho House quality without needing to be a member — **Shoreditch House is round the corner and members only**. Thirty-seven rooms in a 1970s interior with Cowshed products and a ground-floor Cecconi's.
 

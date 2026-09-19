@@ -32,13 +32,13 @@ What makes it work is **a 433-metre tiled tunnel, built in 1885, running from in
 
 The drawback is the evening. The museums close between **17.45 and 18.00**, and the area empties when they do — there is no real nightlife here in the way there is in Soho or Shoreditch. Prices are unusually spread out too: **a dorm bed at £18 and a boutique double at £280 on streets four minutes apart**.
 
-> 💡 **The Short Version:** **The Ampersand** at about £280 is the one that leans into the museums, and its **Science Family Suite has a rocket-shaped bunk bed**. **Cheval Gloucester Park** is the family answer — 98 apartments with kitchens, bookable for a single night. **[Nell Gwynn House](hotel:nell-gwynn-house-pods)** is the cheap way to cook for yourself, in a 1930s Art Deco block ten minutes east. **[Astor Hyde Park](hotel:astor-hyde-park)** is £18 a bed, but its shared dorms are for guests aged 18 to 39 and the age limit is enforced. And if anyone in your party needs a lift at the station, sleep in **Knightsbridge** instead — South Kensington has none.
+> 💡 **The Short Version:** **[The Ampersand](hotel:the-ampersand-hotel)** at about £280 is the one that leans into the museums, and its **Science Family Suite has a rocket-shaped bunk bed**. **[Cheval Gloucester Park](hotel:cheval-gloucester-park)** is the family answer — 98 apartments with kitchens, bookable for a single night. **[Nell Gwynn House](hotel:nell-gwynn-house-pods)** is the cheap way to cook for yourself, in a 1930s Art Deco block ten minutes east. **[Astor Hyde Park](hotel:astor-hyde-park)** is £18 a bed, but its shared dorms are for guests aged 18 to 39 and the age limit is enforced. And if anyone in your party needs a lift at the station, sleep in **Knightsbridge** instead — South Kensington has none.
 
 ## Which part of South Kensington
 
 The name covers about half a mile, and where you sit in it decides how far you walk each morning with a pushchair.
 
-**Harrington Road and Queensberry Place**, immediately north of the station, is the tunnel end and the best-placed pocket in the area. The Ampersand and The Exhibitionist are both here, minutes from the point where the subway starts.
+**Harrington Road and Queensberry Place**, immediately north of the station, is the tunnel end and the best-placed pocket in the area. The Ampersand and [The Exhibitionist](hotel:the-exhibitionist-hotel) are both here, minutes from the point where the subway starts.
 
 **Exhibition Road and Queen's Gate** is the museum spine itself — grand, institutional, and dead by seven. Queen's Gate runs up the western edge past the Natural History Museum's West Entrance towards the Royal Albert Hall, and Astor Hyde Park is at the top of it.
 
@@ -148,7 +148,7 @@ Two of these are cheaper than South Kensington. Two are dearer and fix the thing
 
 The genuine saving, and it costs you very little. Gloucester Road is one stop west on all three lines — the Natural History Museum puts it at a twelve-minute walk to the Central Entrance and seven to the West. Earl's Court is two stops on the District and Piccadilly, with South Kensington four minutes away when you cannot face walking.
 
-What is here is aparthotels rather than hotels. **Ember Locke Kensington** is on Cromwell Road between the two stations, done in a deliberately seventies palette; Cromwell Road is a main artery, so ask for a studio at the back or you will hear it all night. **Templeton Place by Supercity** sits on an Earl's Court garden square two minutes from the station and is the cheapest Supercity address in London.
+What is here is aparthotels rather than hotels. **[Ember Locke Kensington](hotel:ember-locke)** is on Cromwell Road between the two stations, done in a deliberately seventies palette; Cromwell Road is a main artery, so ask for a studio at the back or you will hear it all night. **[Templeton Place by Supercity](hotel:supercity-templeton-place)** sits on an Earl's Court garden square two minutes from the station and is the cheapest Supercity address in London.
 
 Neither is cheap because it is poor. They are cheap because Cromwell Road is loud and Earl's Court is dull in the evening. **Earl's Court is also step-free**, which South Kensington is not — a real advantage if you are travelling with a pram.
 

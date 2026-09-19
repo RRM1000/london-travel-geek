@@ -254,5 +254,5 @@ Our full route out of the area: **ten numbered stops** over about 1.5 miles and 
 The best-connected base in London, especially for Eurostar or trips north, and much improved from its old reputation.
 
 - **King's Cross and Pentonville Road** — Large modern hotels beside the stations. Convenient and functional.
-- **St Pancras Renaissance** — The Gothic hotel in the station frontage itself, if the budget allows.
+- **[St Pancras Renaissance](hotel:st-pancras-renaissance)** — The Gothic hotel in the station frontage itself, if the budget allows.
 - **Bloomsbury** — Fifteen minutes south, quieter and better value, still walkable to the Eurostar.

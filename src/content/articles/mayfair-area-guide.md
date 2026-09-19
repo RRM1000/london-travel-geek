@@ -215,6 +215,6 @@ Our full route comes down from Fitzroy Square through Savile Row, both arcades, 
 
 The most expensive hotel district in London, and the quietest central one at night.
 
-- **Mayfair proper** — Claridge's, the Connaught, the Ritz on the Piccadilly edge. Landmark hotels at landmark prices.
+- **Mayfair proper** — [Claridge's](hotel:claridges), [the Connaught](hotel:the-connaught), [the Ritz](hotel:the-ritz-london) on the Piccadilly edge. Landmark hotels at landmark prices.
 - **Marylebone** — Twelve minutes north, considerably better value, same Elizabeth line access at Bond Street.
 - **Soho and Covent Garden** — East, cheaper, and far more open in the evening.

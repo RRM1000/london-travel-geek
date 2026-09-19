@@ -148,7 +148,7 @@ Bermondsey has exactly one hotel in the £150 to £200 band. Bankside has severa
 
 *The bathroom in a Native Bankside apartment.*
 
-Two more worth pricing on your own dates: **The Hoxton, Southwark** is about £190 for one of 192 rooms over six floors, with the Seabird rooftop and its very long oyster list on top, and **Premier Inn London County Hall** is about £110, two Jubilee stops west at Waterloo. Our [aparthotels guide](/articles/aparthotels-london/) has the full South Bank comparison.
+Two more worth pricing on your own dates: **[The Hoxton, Southwark](hotel:the-hoxton-southwark)** is about £190 for one of 192 rooms over six floors, with the Seabird rooftop and its very long oyster list on top, and **[Premier Inn London County Hall](hotel:premier-inn-county-hall)** is about £110, two Jubilee stops west at Waterloo. Our [aparthotels guide](/articles/aparthotels-london/) has the full South Bank comparison.
 
 <div class="photo-row">
 

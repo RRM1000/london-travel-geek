@@ -145,7 +145,7 @@ Belgravia eats expensively and quietly. There is no cheap end to speak of, which
 | --- | --- | --- | --- |
 | **Weezie's** | Pizza | ££ | Thin crust, Guinness and a serious wine list, in the Eccleston Yards courtyard |
 | **La Poule au Pot** | French bistro | £££ | Trading since the 1960s on coq au vin and candlelight; the most reliably romantic room in London |
-| **The Goring** | British, afternoon tea | ££££ | The last family-owned grand hotel in London, and the quietest of the big afternoon teas |
+| **[The Goring](hotel:the-goring)** | British, afternoon tea | ££££ | The last family-owned grand hotel in London, and the quietest of the big afternoon teas |
 | **Brooklands** | French, rooftop | ££££ | Claude Bosi on the roof of The Peninsula, over Hyde Park Corner |
 | **Canton Blue** | Cantonese | ££££ | Inside The Peninsula, themed on a 19th-century trading ship |
 
@@ -157,7 +157,7 @@ Belgravia eats expensively and quietly. There is no cheap end to speak of, which
 
 ## Getting there
 
-**By Tube.** **Victoria** (Victoria, District, Circle) is the practical entrance and puts you five minutes from Eccleston Yards and ten from Elizabeth Street. **Sloane Square** (District, Circle) is better for the western end and for combining with Chelsea. **Hyde Park Corner** (Piccadilly) is best for Belgrave Square and The Peninsula.
+**By Tube.** **Victoria** (Victoria, District, Circle) is the practical entrance and puts you five minutes from Eccleston Yards and ten from Elizabeth Street. **Sloane Square** (District, Circle) is better for the western end and for combining with Chelsea. **Hyde Park Corner** (Piccadilly) is best for Belgrave Square and [The Peninsula](hotel:the-peninsula-london).
 
 **On foot.** Belgravia is small — you can cross it in twenty minutes — and it is flat, quiet and almost entirely step-free.
 

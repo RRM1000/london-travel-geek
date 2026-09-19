@@ -171,7 +171,7 @@ Two short residential streets that appear constantly on social media — **St Lu
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
 | **The Churchill Arms** | Historic pub, Thai kitchen | ££ | Flower-covered exterior; book the conservatory at weekends |
-| **The Pelican** | Refined pub dining | £££ | The area's best Sunday roast; reserve well ahead |
+| **[The Pelican](hotel:the-pelican-notting-hill)** | Refined pub dining | £££ | The area's best Sunday roast; reserve well ahead |
 | **Granger & Co.** | Australian all-day cafe | ££ | Ricotta hotcakes; expect a queue after 10am at weekends |
 | **Layla** | Bakery | £ | Excellent pastries on Golborne Road, away from the crush |
 | **Lisboa Patisserie** | Portuguese cafe | £ | Pastéis de nata on Golborne Road since 1985 |

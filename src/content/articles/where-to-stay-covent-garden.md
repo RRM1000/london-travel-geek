@@ -34,7 +34,7 @@ So the premium is real, it runs at roughly 40%, and what it buys is the walk hom
 
 What Covent Garden sells cheaply is the compact-room format — 8 to 13 square metres, and some of those rooms have no window at all. What it sells expensively is very expensive indeed. That is the same building constraint as Soho: small plots, and ground floors worth more as restaurants than as hotel lobbies. If what you want is an ordinary double with a window and somewhere to hang a coat, it is worth pricing Holborn or Bloomsbury ten minutes out before you commit to the postcode.
 
-> 💡 **The Short Version:** **[Strand Palace](hotel:strand-palace)** is the sane answer at about £140 — 785 rooms, so it still has stock when everything else has sold out. **[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** has the cheapest bed in the area at £70, but that grade has **no window at all**, and the first room here with one is £100. **hub by Premier Inn** on St Martin's Lane is about £95 for 11 square metres, and it has windowless rooms too. **The Savoy** and **The Londoner** stand a few hundred metres from both, at £700 and £450. And if the premium irritates you, **Holborn is ten minutes east and £30 a night cheaper for the identical room.**
+> 💡 **The Short Version:** **[Strand Palace](hotel:strand-palace)** is the sane answer at about £140 — 785 rooms, so it still has stock when everything else has sold out. **[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** has the cheapest bed in the area at £70, but that grade has **no window at all**, and the first room here with one is £100. **hub by Premier Inn** on St Martin's Lane is about £95 for 11 square metres, and it has windowless rooms too. **[The Savoy](hotel:the-savoy)** and **[The Londoner](hotel:the-londoner)** stand a few hundred metres from both, at £700 and £450. And if the premium irritates you, **Holborn is ten minutes east and £30 a night cheaper for the identical room.**
 
 ## Which part of Covent Garden
 
@@ -78,7 +78,7 @@ A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, whi
 
 ### hub by Premier Inn London Covent Garden — eleven square metres on St Martin's Lane
 
-*About £95 · 11 sq m standard rooms · 110 St Martin's Lane, WC2N 4BA · Leicester Square 3 min*
+*About £95 · 11 sq m standard rooms · 110 St Martin's Lane, WC2N 4BA · Leicester Square 3 min · [Hotels.com](hotel:hub-covent-garden)*
 
 Premier Inn's compact format at an address that would cost triple under almost any other brand. **The standard room is 11 sq m**: a double bed, underbed storage, a slide-out desk, a 40-inch television and a touchscreen panel that runs the lighting and the heating without you getting out of bed. Same bed and the same housekeeping standard as a full-size Premier Inn, in roughly half the floor area, and reviewers are regularly caught out by that.
 
@@ -104,7 +104,7 @@ Practical notes that decide bookings here: **breakfast is £18 a head**, the gym
 
 ### Wilde Aparthotels Covent Garden — a kitchen, and a hard ceiling at three people
 
-*About £185 · Studios with full kitchens · 11 Adam Street, WC2N 6AA · Charing Cross 5 min*
+*About £185 · Studios with full kitchens · 11 Adam Street, WC2N 6AA · Charing Cross 5 min · [Hotels.com](hotel:wilde-aparthotels-covent-garden)*
 
 Studio apartments with fully fitted kitchens on Adam Street, an Adelphi side turning off the Strand with theatres literally across the road. **The kitchen is the point.** It removes the largest hidden cost of a London week — eating out three times a day — and this is the only property in this guide that offers one.
 
@@ -174,7 +174,7 @@ The direct test of the entire premium, and it is not close. **Z Hotel Holborn is
 
 *A room at the Z Hotel Holborn — the same compact format sold at Covent Garden, for less.*
 
-What you give up is the piazza on the doorstep and a two-minute walk from the theatre. Kingsway is a wide, dull, well-lit road and the walk is nine minutes at any hour. What you gain is **Holborn station, which adds the Central line** to the Piccadilly — considerably faster for the City, Stratford and the east. The Hoxton Holborn is up the road at about £190 if you want the design-hotel version rather than the cheap one, and the British Museum is ten minutes north.
+What you give up is the piazza on the doorstep and a two-minute walk from the theatre. Kingsway is a wide, dull, well-lit road and the walk is nine minutes at any hour. What you gain is **Holborn station, which adds the Central line** to the Piccadilly — considerably faster for the City, Stratford and the east. The [Hoxton Holborn](hotel:the-hoxton-holborn) is up the road at about £190 if you want the design-hotel version rather than the cheap one, and the British Museum is ten minutes north.
 
 <div class="photo-row">
 
