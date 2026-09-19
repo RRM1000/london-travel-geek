@@ -7,7 +7,7 @@ heroImageAlt: "The ornate Victorian terracotta facade of Kimpton Fitzroy London 
 publishedAt: 2026-09-15
 sites: [london]
 canonicalSite: london
-category: "Plan your trip"
+category: "Stay"
 tags: [where to stay, hotels, Bloomsbury, British Museum, planning]
 draft: false
 faq:

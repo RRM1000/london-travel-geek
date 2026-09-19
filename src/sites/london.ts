@@ -148,7 +148,7 @@ export const londonSite: SiteConfig = {
     // the constraint pages the Hotels sheet already has columns for.
     {
       label: "Stay",
-      href: "/stay/",
+      href: "/topics/stay/",
       description: "Where to stay, by area and by kind of room.",
       imageKey: "stay",
       // Two questions, not one mixed list - the same split the Plan panel
@@ -158,7 +158,7 @@ export const londonSite: SiteConfig = {
       // are. "Which kind of room" moved to the rail, where it reads as a
       // choice rather than as four more area pages.
       children: [
-        { label: "Best areas to stay", href: "/articles/best-areas-to-stay-in-london/" },
+        { label: "Which area to stay in", href: "/stay/" },
         { label: "Soho & the West End", href: "/articles/where-to-stay-soho-west-end/" },
         { label: "Covent Garden", href: "/articles/where-to-stay-covent-garden/" },
         { label: "King's Cross & St Pancras", href: "/articles/where-to-stay-kings-cross/" },

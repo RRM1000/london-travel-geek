@@ -8,7 +8,7 @@ publishedAt: 2026-09-08
 updatedAt: 2026-09-09
 sites: [london]
 canonicalSite: london
-category: "Plan your trip"
+category: "Stay"
 tags: [where to stay, hotels, neighbourhoods, planning, first time]
 draft: false
 faq:
@@ -110,6 +110,8 @@ Evenings are the thin part. Bloomsbury is academic and residential, so it goes q
 
 **[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** runs £81 to £206 for a private windowless room two minutes from the British Museum, and it undercut the Piccadilly flagship on every date sampled.
 
+Our full [Bloomsbury hotel guide](/articles/where-to-stay-bloomsbury/) compares them across every price band, from the Cartwright Gardens B&B strip to the newly rebuilt Imperial on Russell Square.
+
 ![A windowless Zedwell Tottenham Court Road Cocoon room with a wood-panelled bed alcove lit by a soft light strip, a mirror, and a jacket hanging beside it](../../assets/articles/best-areas-to-stay-in-london/zedwell-tottenham-court-road.jpg)
 
 *One of the private windowless Cocoon rooms - no window, as the room grade promises.*
@@ -210,11 +212,11 @@ Food after midnight is better here than anywhere else in London. **Beigel Bake o
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Museums, and going with children
 
-Different priorities entirely: a short walk to the front door of the thing, somewhere to make a sandwich, and a lift.
+Different priorities entirely: a short walk to the front door of the thing, somewhere to make a sandwich, and a lift. For the room itself, [the best family hotels in London](/articles/best-family-hotels-london/) cross-checks 21 hotels against Mumsnet, family-travel blogs and the travel press for one that actually sleeps two adults and two children.
 
 ### South Kensington — three free museums and a tunnel most of the way to them
 
@@ -272,7 +274,7 @@ A maritime village with the Cutty Sark, the Old Royal Naval College, the Nationa
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## On a budget
 
@@ -316,6 +318,8 @@ The rest of the time, be honest about the maths. It is Zone 4: the daily fare ca
 
 ---
 
+<div data-stay-strip></div>
+
 ## Quiet and residential
 
 Where to stay if the trip is a long one, if you are a light sleeper, or if you have done the sights and now want a neighbourhood rather than an attraction.
@@ -352,7 +356,7 @@ A hilltop village with the Heath attached, swimming ponds, Kenwood House and vie
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Arriving late, or leaving early
 
@@ -412,7 +416,7 @@ It is new enough to be barely reviewed. **[Native Mayfair](hotel:native-mayfair)
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The mistakes people make choosing a base
 

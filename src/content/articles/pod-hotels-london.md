@@ -7,7 +7,7 @@ heroImageAlt: "A corridor of sleeping capsules at a Zedwell capsule hotel, lit s
 publishedAt: 2026-09-06
 sites: [london]
 canonicalSite: london
-category: "Plan your trip"
+category: "Stay"
 tags: [where to stay, hotels, budget, planning]
 draft: false
 faq:

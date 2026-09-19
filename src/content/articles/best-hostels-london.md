@@ -7,7 +7,7 @@ heroImageAlt: "A wall of white moulded sleeping capsules stacked two high inside
 publishedAt: 2026-09-09
 sites: [london]
 canonicalSite: london
-category: "Plan your trip"
+category: "Stay"
 tags: [where to stay, budget, hostels, solo travel, planning]
 draft: false
 faq:
@@ -118,7 +118,7 @@ This is the question the category answers worst, because "female dorm" on a book
 
 **In a private room, check twice.** Astor's doubles and twins are en-suite. Kabannas' Nest is en-suite with air conditioning. YHA sells private rooms *and* private en-suite rooms as separate products, and its standard private room has a wash basin in the room with the shower down the hall. Barmy Badger's private double has a washbasin and a shared bathroom. Onefam's private twin and Urbany's private double are both shared-bathroom.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Age limits, the thing that catches people out
 
@@ -370,7 +370,7 @@ The operator calls it "a very small hostel" and caps groups at eight. It welcome
 
 ### The Walrus
 
-*172 Westminster Bridge Road, SE1 7RW · Waterloo 5 min · [thewalrusbarandhostel.co.uk](https://www.thewalrusbarandhostel.co.uk/)*
+*172 Westminster Bridge Road, SE1 7RW · Waterloo 5 min · [thewalrusbarandhostel.co.uk](hotel:the-walrus-hostel)*
 
 **A bar with a hostel above it**, ten minutes' walk from Big Ben, and the bar is the point rather than a common room bolted on — it calls itself a Lower Marsh institution and the drinking crowd is local as much as it is passing through.
 
@@ -383,7 +383,7 @@ The operator does not publish its dorm bathroom arrangement, whether it runs a f
 ![A four-bed dorm at The Walrus, with grey metal bunks labelled by bed and an armchair by the window](../../assets/articles/best-hostels-london/the-walrus-hostel-dorm.jpg)
 
 *A four-bed dorm at The Walrus.*
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What we left out, and why
 

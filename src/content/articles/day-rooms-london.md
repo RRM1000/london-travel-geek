@@ -7,7 +7,7 @@ heroImageAlt: "A London hotel room with a double bed, a patterned throw, teal be
 publishedAt: 2026-09-07
 sites: [london]
 canonicalSite: london
-category: "Plan your trip"
+category: "Stay"
 tags: [where to stay, hotels, planning, Heathrow]
 draft: false
 faq:

@@ -7,7 +7,7 @@ heroImageAlt: "A studio room with a bed, a sitting area with a bench sofa and cu
 publishedAt: 2026-09-07
 sites: [london]
 canonicalSite: london
-category: "Plan your trip"
+category: "Stay"
 tags: [where to stay, hotels, planning, families]
 draft: false
 faq:

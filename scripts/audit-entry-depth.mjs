@@ -145,7 +145,7 @@ const files = fs.readdirSync("src/content/articles")
     if (cat === "London areas") return entries >= 4;
     // WHERE-TO-STAY GUIDES WERE NEVER CHECKED BY THIS AUDIT AT ALL.
     //
-    // "Plan your trip" was outside the scope, so where-to-stay-shoreditch,
+    // The stay guides were outside the scope, so where-to-stay-shoreditch,
     // pod-hotels-london and the rest have only ever been judged by reading.
     // They are listicles of named venues in every sense that matters here -
     // a hotel entry owes the reader a price, a room grade and a catch exactly
@@ -160,7 +160,7 @@ const files = fs.readdirSync("src/content/articles")
     // London Pass guide's headings are ticket variants and sample itineraries,
     // day-rooms-london's are advice. Those are named in NOT_LISTICLES, per the
     // rule at the top of this file: excluded out loud, in one place.
-    if (cat === "Plan your trip") return entries >= 4;
+    if (cat === "Stay" || cat === "Plan your trip") return entries >= 4;
     if (entries < 8) return false;
     return cat === "Food and drink" || cat === "Things to do";
   })
