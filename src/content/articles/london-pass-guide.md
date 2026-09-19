@@ -32,7 +32,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 
 The London Pass can save you money. Every other guide stops there, which is useless, because the question is *when*.
 
-So here is the arithmetic. A **2-day adult pass is £149**. The five attractions a first-time visitor actually names — Tower of London, Westminster Abbey, St Paul's, the London Eye, Tower Bridge — come to **£139.70** booked direct at the prices those attractions charge on their own websites.
+So here is the arithmetic. A **2-day adult pass is £149**. The five attractions a first-time visitor actually names — [Tower of London](/articles/tower-of-london-guide/), Westminster Abbey, St Paul's, the London Eye, Tower Bridge — come to **£139.70** booked direct at the prices those attractions charge on their own websites.
 
 **The pass loses by £9.30.** You need a sixth paid attraction in those two days before it starts to pay.
 

@@ -148,7 +148,7 @@ North. A **Grade I listed warehouse of 1812**, built to hold imported tobacco an
 
 > ⚠️ **It is not open to the public most of the time.** It trades as a venue, so unless there is a public event on you will be looking at it from the outside. Check what is on before making the walk — the ships and the exterior are visible either way.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide-london-historic-pub-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historic pub tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 

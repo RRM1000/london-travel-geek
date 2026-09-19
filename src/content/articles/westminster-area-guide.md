@@ -227,7 +227,7 @@ Our full route for this area: **eleven numbered stops** over about 4km and two t
 5. **The Mall and Horse Guards:** East along The Mall to **Horse Guards Parade** and Whitehall.
 6. **Finish:** **Trafalgar Square** and the National Gallery.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

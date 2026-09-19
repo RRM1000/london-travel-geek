@@ -76,7 +76,7 @@ For the wider area — the theatres, where to stay, the bits inland — see the 
 
 **Start on the north bank and cross.** You could come out at Waterloo and join the river directly, but Westminster Bridge is the better opening: you walk towards the Eye with the river opening up on both sides, and it costs nothing.
 
-The **London Eye** is the one stop where the view of it beats the view from it — 135 metres, a full rotation in half an hour, and slots that book ahead and queue anyway. If you are going up something today, the free options later on this walk are better value.
+The **[London Eye](/articles/london-eye-guide/)** is the one stop where the view of it beats the view from it — 135 metres, a full rotation in half an hour, and slots that book ahead and queue anyway. If you are going up something today, the free options later on this walk are better value. If you plan to ride, read our dedicated [London Eye guide](/articles/london-eye-guide/) for ticket hacks, Fast Track advice, and sunset timing.
 
 ## 2. County Hall
 
@@ -92,6 +92,8 @@ They are aimed squarely at families and they queue like it. If you are walking w
 
 > 💡 **The detour: Leake Street.** Five minutes inland from here, under Waterloo station, is a road tunnel where spraying the walls is **legal**. It is free, open at all hours, and repainted so constantly that nobody has ever seen it twice. It is the most-missed thing on this stretch of river and it is worth the ten-minute round trip. See the section below.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 3. Southbank Centre and the Undercroft
 
 The concrete arts complex that everyone has an opinion about. The **Royal Festival Hall is free to walk into**, has free toilets, and its upper levels have seats and a view over the river — the best free indoor sit-down on the walk, which matters more than it sounds in February.
@@ -101,8 +103,6 @@ Underneath it is the **Undercroft**, London's oldest skate spot, in continuous u
 ![The Undercroft skate space beneath the Southbank Centre, every concrete pillar, wall and bank covered in layered graffiti, with a skater in the distance and a banked slope in the foreground](../../assets/articles/south-bank-walk/southbank-undercroft.jpg)
 
 *Every surface is painted and repainted, and none of the concrete was built for this — it is a 1960s service undercroft the skaters simply took.*
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 4. The book market under Waterloo Bridge
 
@@ -122,6 +122,8 @@ The **exhibitions in the foyers are free**, the riverside terrace garden is free
 
 > ⚠️ **The building opens Monday to Saturday, 10am to 11pm — not Sundays.** It is the second thing on this walk with a day-of-the-week problem, and unlike Borough Market it catches people who were not planning to go in.
 
+<div data-stay-strip></div>
+
 ## 6. Gabriel's Wharf and the Oxo Tower
 
 A small courtyard of independent shops, studios and food units on what was a derelict site until the 1980s. It is deliberately low-rent — the units are let cheaply to keep chains out — and it is the least corporate thing between here and Tower Bridge.
@@ -131,8 +133,6 @@ Next door is the **Oxo Tower**, whose lettered windows exist because 1930s regul
 ![The red brick riverside frontage of Oxo Tower Wharf with a banner reading Creative London, Oxo Tower Wharf, and an ornate lamp post in front](../../assets/articles/south-bank-walk/oxo-tower-wharf.jpg)
 
 *Oxo Tower Wharf from the towpath. The designers' studios behind those arches are free to walk into, and so is the eighth-floor gallery upstairs.*
-
-<div data-stay-strip></div>
 
 ## 7. Tate Modern
 

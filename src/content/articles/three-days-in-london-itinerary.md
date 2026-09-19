@@ -87,7 +87,7 @@ If you would rather drink than watch, our [cocktail bars guide](/articles/best-c
 
 *The end of day one. The South Bank walk is flat, continuous and free, and it is the stretch that makes London look like itself.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Day 2: The Tower and the whole South Bank
 
@@ -192,7 +192,7 @@ Add them on a longer trip: see [five days in London](/articles/five-days-in-lond
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay for this plan
 

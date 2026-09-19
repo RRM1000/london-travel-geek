@@ -48,7 +48,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 
 ---
 
-<div data-stay-strip></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="luton-airport-to-london-luton-airport-transfer-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Luton airport transfer London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Which route is best for your hotel area?
 
@@ -63,11 +63,11 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="luton-airport-to-london-luton-airport-transfer-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Luton airport transfer London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Book Airport Transfers & Experiences
 
 ---
+
+<div data-stay-strip></div>
 
 ## How the Luton DART Works
 

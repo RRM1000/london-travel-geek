@@ -158,7 +158,7 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks â€
 
 *The Isabella Plantation in late April. It is a 40-acre woodland garden inside the park, and spectacular for about two weeks a year. Photo: [Diliff](https://commons.wikimedia.org/w/index.php?curid=14946838), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-hampton-court-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Go deeper
 

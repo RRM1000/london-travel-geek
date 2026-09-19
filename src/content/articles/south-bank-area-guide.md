@@ -88,7 +88,7 @@ The South Bank has its own share of the commemorative plaques marking where nota
 2. **Borough Market** — A wholesale market since at least the 12th century, now the best food market in the city. **Closed Mondays.** Tuesday to Friday 10am–5pm, Saturday 9am–5pm, Sunday 10am–4pm.
 3. **The Southbank Centre and BFI** — Brutalist arts complex with free foyer spaces, the secondhand book market under Waterloo Bridge, and the BFI's film programme.
 4. **Shakespeare's Globe** — A faithful reconstruction of the 1599 open-air theatre, 230 metres from the original site. **Standing in the yard is £10**, the cheapest way in — and a batch of **£5 Rush standing tickets is released every Friday at 11am** for the following week, including for shows that are otherwise sold out. The indoor, candlelit Sam Wanamaker Playhouse runs through the winter.
-5. **The London Eye** — 30 minutes, 135 metres, and the most-booked paid attraction in the country. Book a timed slot online; walk-up prices are considerably higher.
+5. **[The London Eye](/articles/london-eye-guide/)** — 30 minutes, 135 metres, and the most-booked paid attraction in the country. Book a timed slot online; walk-up prices are considerably higher. See our full [London Eye guide](/articles/london-eye-guide/) for Fast Track vs standard queues, dynamic pricing and sunset timing.
 6. **Millennium Bridge** — The pedestrian bridge from Tate Modern to St Paul's, and the best five-minute crossing in London.
 7. **Leake Street Arches** — A road tunnel under Waterloo station given over to legal graffiti, repainted constantly by anyone who turns up with a can. Free, open, and the only sanctioned wall of its kind in central London.
 8. **HMS Belfast and Tower Bridge** — At the eastern end. HMS Belfast is nine decks and around three hours; adult tickets start at £23.45, but **anyone on Universal Credit or Pension Credit pays £3, for up to five people in the household**, booked online. **Walking across Tower Bridge is free** — you only pay for the high-level walkways, the glass floor and the Victorian engine rooms.
@@ -116,7 +116,7 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 The Edwardian block beside the Eye holds **SEA LIFE London, the London Dungeon and Shrek's Adventure**, all Merlin-run and all indoors — which makes this the obvious wet-weather corner of the South Bank.
 
-Buying them one at a time is the expensive way. **Merlin's Magical London** covers all three plus the **London Eye** and **Madame Tussauds** in Marylebone, **from £69 against £132 separately**, valid 90 days. Two attractions are cheaper booked direct; from the third it pays.
+Buying them one at a time is the expensive way. **Merlin's Magical London** covers all three plus the **[London Eye](/articles/london-eye-guide/)** and **Madame Tussauds** in Marylebone, **from £69 against £132 separately**, valid 90 days. Two attractions are cheaper booked direct; from the third it pays. See our dedicated [London Eye guide](/articles/london-eye-guide/) for 2026 pricing, Fast Track advice, and sunset booking tactics.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="193412" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -236,7 +236,7 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 
 **For Borough Market:** Before midday, Tuesday to Friday. Saturday is the fullest market and the hardest to move through.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-area-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-area-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Walking routes
 
