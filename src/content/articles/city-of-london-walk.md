@@ -249,7 +249,7 @@ For the rest of the City's eating — the chains that fill the gap, and the week
 
 **What does not care what day it is:** the Bank junction, Leadenhall's lanes, the tower cluster, St Dunstan-in-the-East, All Hallows, the Tower, Tower Bridge and St Katharine Docks. That is still a good walk on a Sunday — just not a good lunch.
 
-**Make the case for Sunday, though.** The table above reads as a warning and it should not be the last word: if what you want is a quiet walk rather than a full one, **Sunday is the best day on this route**. Half a million people work in the Square Mile and about eight thousand live there, so on a Sunday morning you get medieval alleys, a bombed church and a Roman crypt with almost nobody in them. St Dunstan-in-the-East alone is worth the trade.
+**Sunday is the best day on this route if you want it quiet.** Half a million people work in the Square Mile and about eight thousand live there, so on a Sunday morning the medieval alleys, the bombed church and the Roman crypt are close to empty. St Dunstan-in-the-East alone is worth the trade.
 
 What you give up is smaller than it looks. The **Bank of England Museum** is the only real loss. **Leadenhall's lanes are public and never lock**, so you still walk the arcade — you just do it past shuttered units rather than a lunch crowd. And the **Royal Exchange still opens**: its shops are weekday-only, but several of the cafés and bars in the courtyard trade Saturday and Sunday, so you can go in and stand under the glass roof either way.
 

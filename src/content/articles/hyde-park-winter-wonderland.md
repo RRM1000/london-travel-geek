@@ -3,7 +3,8 @@ title: "Hyde Park Winter Wonderland: Every Price, Ride and Show for 2026"
 seoTitle: "Hyde Park Winter Wonderland 2026: Prices & Tickets"
 description: "A complete guide to Hyde Park Winter Wonderland 2026-27: every attraction price, the £1 tickets, the new K-Pop circus, free live music, and the quietest times to go."
 publishedAt: 2026-09-01
-updatedAt: 2026-09-01
+updatedAt: 2026-09-20
+reviewBy: 2026-11-19
 sites:
   - london
 canonicalSite: london
@@ -30,7 +31,7 @@ heroImage: "../../assets/articles/hyde-park-winter-wonderland/aerial-night.jpg"
 heroImageAlt: "An aerial night view over Hyde Park Winter Wonderland showing the illuminated fairground, the green ice rink, the big top and the Euro Coaster"
 ---
 
-**Hyde Park Winter Wonderland runs from Thursday 19 November 2026 to Sunday 3 January 2027**, and this year it opens every single day except Christmas Day. Entry starts at £1. Almost everything inside costs extra.
+**Hyde Park Winter Wonderland runs from Thursday 19 November 2026 to Sunday 3 January 2027**, and this year it opens every single day except Christmas Day. The operator counts **150-plus attractions, rides and shows** on site. Entry starts at £1. Almost everything inside costs extra.
 
 That gap between the two is the whole thing. Half a million £1 tickets get people through the gate; the ice rink is £19.25 at peak, the circus £19.80, and a two-person ice-sculpting station £78.65. It is possible to have a lovely evening here for the price of a bus fare, and it is possible to spend £200 without noticing. This guide is every published price, so you can decide which trip you are taking.
 
@@ -41,6 +42,7 @@ That gap between the two is the whole thing. Half a million £1 tickets get peop
 ## The short version
 
 - **Dates:** 19 November 2026 – 3 January 2027. **Closed Christmas Day only** — last year it also shut on three November dates, and this year it does not.
+- **Winter Wishes:** free entry for groups on 1 December 2026, low-sensory and closed to the public until 2pm — apply by **30 September 2026**.
 - **Hours:** closes **10pm** every night, **last entry 21:30**. Most days open 10am, but a long list of quieter dates open at 11am or noon.
 - **Entry:** **£1 / £5.50 / £8.25** in advance, booking fees included. More on the door.
 - **The money trick:** spend **£25 online in one transaction** and entry is free.
@@ -55,6 +57,12 @@ That gap between the two is the whole thing. Half a million £1 tickets get peop
 ---
 
 ## Getting in
+
+### Winter Wishes: apply by 30 September
+
+Winter Wonderland's free, low-sensory morning is back for a **fourth year on Tuesday 1 December 2026**, when the event is closed to the public until 2pm. Successful applicants get free entry and unrestricted access to more than 100 rides and attractions, at reduced capacity with reduced lighting and sound, low-sensory skating on the Ice Rink, and audio guides in the Magical Ice Kingdom. It is aimed at school groups and others who would otherwise find it hard to attend.
+
+**Applications close 30 September 2026.**
 
 ### Entry is ticketed, timed, and one-way
 
@@ -72,6 +80,23 @@ New for 2026, **booking fees are included** — the site's phrasing is that the 
 
 > 💡 **The single biggest saving.** Spend **£25 or more in one online transaction** on rides, attractions, passes or food meal deals and **your entry ticket is free**. Every additional £25 unlocks another one. It is online only, and it is why a group booking a couple of attractions should never pay for entry at all.
 
+### The late-opening calendar
+
+Every date opens at **10am** and closes at **10pm**, except these:
+
+| Dates | Opens |
+| --- | --- |
+| 19–20 November | 12pm |
+| 23–26 November | 12pm |
+| 27 November | 11am |
+| 30 November | 12pm |
+| 1 December (Winter Wishes) | 2pm |
+| 2 December | 12pm |
+| 3–4 December | 11am |
+| 7–11 December | 11am |
+| 14–18 December | 11am |
+| 28 December – 1 January | 11am |
+
 ### Which gate
 
 Four gates, and they are a long walk apart once you are inside.
@@ -85,7 +110,7 @@ Four gates, and they are a long walk apart once you are inside.
 
 **Hyde Park Corner, Knightsbridge and Marble Arch are closest and busiest, and can close when crowds build.** The official advice is to use **Victoria** (19 minutes' walk), **Bond Street** (14), **Paddington** (12) or **Green Park** (17) instead. Red Gate is described by the organisers as the family entrance and is typically the quietest of the four.
 
-**Security is 100% bag searches at every gate.** Bags must be **A4 or smaller** — handbags and small rucksacks only. Suitcases, scooters and bikes are refused, and **there is no left luggage on site**; the nearest is Victoria station — see our [luggage storage guide](/articles/luggage-storage-london/) for the price and hours.
+**Security is 100% bag searches at every gate.** Bags must be **A4 or smaller** — handbags and small rucksacks only. Suitcases, scooters and bikes are refused, and **there is no left luggage on site**. The operator's Getting Here page points to Victoria station; its help centre instead names **LockerPoint's Marble Arch branch** — see our [luggage storage guide](/articles/luggage-storage-london/) for prices and hours.
 
 ---
 
@@ -136,7 +161,7 @@ Seventy metres, and billed as the world's largest transportable observation whee
 | Concession | £7.80 | £8.90 | £11.10 |
 | **Private pod, up to 6** | **£46.20** | **£52.80** | **£61.60** |
 
-Fast-track is a flat upgrade on top: £5.50 adult, £3.30 child, £13.20 family, £22.00 for a private pod.
+Fast-track is a flat upgrade on top: £5.50 adult, £3.30 child, £4.50 concession, £13.20 family, £22.00 for a private pod.
 
 ![The observation wheel at Winter Wonderland under a clear blue sky, with a candy stall, a games stall and a decorated Christmas tree along an almost empty walkway](../../assets/articles/hyde-park-winter-wonderland/wheel-daytime.jpg)
 
@@ -146,7 +171,7 @@ Fast-track is a flat upgrade on top: £5.50 adult, £3.30 child, £13.20 family,
 
 *Arctic Circle · 20-minute session, 11:00–21:20 · a cocktail included*
 
-New theme for 2026: an Arctic snow cave, with a live DJ, in association with Mixtons Cocktails. Parka and gloves are provided; it is −10°C. **Under-12s are not admitted after 7pm**, under-18s must be with an adult, and **everyone over two pays the full adult price**.
+New theme for 2026: an Arctic snow cave, with a live DJ. Parka and gloves are provided; it is −10°C. **Under-12s are not admitted after 7pm**, under-18s must be with an adult, and **everyone over two pays the full adult price**.
 
 | | Off-peak | Standard | Peak |
 | --- | --- | --- | --- |
@@ -180,6 +205,8 @@ All ages, no height restriction, but flashing lights, loud music and dark stagin
 | Child, ringside | £12.65 | £16.50 | £18.70 |
 | Family | £41.80 | £57.20 | £66.00 |
 | Family, ringside | £50.60 | £66.00 | £74.80 |
+| Concession | £12.75 | £16.60 | £18.80 |
+| Concession, ringside | £14.95 | £18.80 | £21.00 |
 
 ---
 
@@ -230,7 +257,7 @@ All are online only, and all unlock free entry.
 
 | Pass | Price | Covers |
 | --- | --- | --- |
-| **Coaster Pass** *(new)* | **£43.10** | Euro Coaster, Ice Mountain, Wilde Maus XXL, Time Machine, Munich Looping — with fast track on the last three |
+| **Coaster Pass** *(new)* | **£43.10** | Euro Coaster, Ice Mountain, Wilde Maus XXL, Time Machine, Munich Looping — fast track on Ice Mountain, Wilde Maus XXL and Munich Looping, not Time Machine |
 | **Five Peaks Ride Pass** | **£49.00** | Munich Looping, The Hangover, Aeronaut Starflyer, Airborne, Blizzard — **all with fast track** |
 | **Explorer Pass** *(new)* | **£27.45** | Real Ice Slide, Haunted Mansion, Snow Jet, Après-Ski Funhouse and the **Pirate Ship**, which is not sold any other way |
 | **Santa Land Unlimited** | **£27.50** | Unlimited all-day access to 16+ children's rides |
@@ -331,7 +358,7 @@ All include **free entry tickets for the whole table**, a Green Gate entrance, f
 | --- | --- | --- | --- | --- |
 | **Gracy's VIP** — max 10, private bar, table service, private toilets, raised stage view, 40 premium drinks and a meal each | £1,000 | £1,100 | £1,300 | £1,700 |
 | **Bavarian Hall** — up to 10, near the stage, 40 house drinks and a meal each | £700 | £900 | £1,000 | £1,150 |
-| **Mary & Me Champagne Bar** — max 6, VIP check-in and toilets | £600 | £675 | £750 | £900 |
+| **Mary & Me Champagne Bar** — max 6, VIP check-in, four Champagne glasses and a sharing platter each | £600 | £675 | £750 | £900 |
 
 Gracy's VIP and the Bavarian Hall both seat a **minimum of ten**. Venues can be privately hired from groups of 70. Corporate party packages start at 20 people and are **enquiry-only** — no prices are published.
 
@@ -378,7 +405,7 @@ Peak slots do sell out in advance, and advance pricing ends at 23:59 the day bef
 
 **Changing your mind.** Tickets are non-refundable and non-exchangeable, **but you can reschedule free of charge up to 72 hours before your visit** through See Tickets. This is the most useful thing on this page after the £25 rule. There are no refunds for arriving late to a timed attraction.
 
-If an attraction is closed outright you are automatically entitled to a refund; if it is cut short mid-session, a refund is at the operator's discretion.
+If an attraction is closed, the operator **reserves the right to offer a refund or reschedule your booking to an alternative date or time, subject to availability** — it is not automatic. A session cut short mid-way is the same: a refund is at their discretion.
 
 **At closing time.** Rides shut by 10pm, and **ride and attraction queues can close up to an hour early** so everyone waiting can be cleared. Santa's Grotto queue closes early on busy days. On the way out you are asked to keep the noise down through Bayswater, Mayfair and Knightsbridge.
 
@@ -401,12 +428,13 @@ Better than the temporary-site format suggests, and the operator publishes real 
 - **Accessible toilets at all six main blocks**, plus behind the Bavarian Hall and the Fire Pit, **two High Dependency Units** and **Changing Places facilities**. All need a **RADAR key** — if you do not have one, box offices and information points will bring you one.
 - **A heated, covered, enclosed quiet space** sits at the north of the site near the family entrance, with neutral lighting and no music. There is also a **Santa Land Chill Space** with facilities for warming food and bottles.
 - **A free Essential Companion ticket** is available through the Nimbus Disability Access Card scheme — you need a +1 or +2 on an Access Card, or a **free Winter Wonderland Digital Access Pass** (apply via Nimbus, valid three years, allow seven days). **The companion wristband also gives free entry to rides** when accompanying the ticket holder.
-- Shows in the Megadome have **hearing loops**. There is a dedicated accessibility manager and trained Accessibility Champions on site, and published Access, Sensory and Ride Accessibility guides.
-- **Step-free stations:** Green Park, Victoria, Paddington and Bond Street. Hyde Park Corner and Marble Arch are explicitly advised against.
+- Shows in the Megadome have **hearing loops** and **eight wheelchair spaces in the seating area** — the operator advises booking one ahead, since availability on the door is not guaranteed. There is a dedicated accessibility manager and trained Accessibility Champions on site, and published Access, Sensory and Ride Accessibility guides.
+- **The Magical Ice Kingdom has audio description**, recorded by its own ice sculptors, with a limited number of headsets per session and a faster accessible queue lane on the left of the entrance.
+- **Step-free stations:** the operator's accessibility FAQ names Green Park, Victoria and Paddington. Its separate Getting Here page also calls **Bond Street** step-free, for the Central, Jubilee and Elizabeth lines. Hyde Park Corner and Marble Arch are explicitly advised against.
 
 Two honest limitations from the operator: **there are no accessible fast-track options on most rides**, because separate queue lines are not possible; and you must be able to take part in an evacuation — possibly stairs, at height, in low light — or be accompanied by someone who can ensure it. Accessible parking guidance is on 020 8233 5400.
 
-**No relaxed or quiet sessions are advertised, and wheelchair hire is not mentioned anywhere** — assume you need to bring your own, and ring to check if it matters.
+**Accessible Sessions run on set dates**, at lower capacity with reduced music, sound and lighting: the Ice Rink on Wednesday 25 November at 2pm, Monday 30 November at 4pm and Monday 28 December at 11am; Bar Ice on Thursday 26 November at noon and Sunday 13 December at 10:30am. Wheelchair hire is not mentioned anywhere — assume you need to bring your own, and ring to check if it matters.
 
 ---
 
@@ -422,9 +450,9 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 
 **Bar Ice becomes an Arctic snow cave** with a live DJ, and there are two brand-new Bavarian Village venues, the **Almhütte** and **Café Bavaria**, plus an **Après-Ski Party Resort** in Thrillville.
 
-**On the commercial side:** the Coaster Pass, Explorer Pass, Show Town Spectacular package and standalone Ride & Game Credit are all new, booking fees are now inclusive, and the two top table packages each gained a fourth drink per person.
+**On the commercial side:** the Coaster Pass, Explorer Pass, Show Town Spectacular package and standalone Ride & Game Credit are all new, booking fees are now inclusive, and all three table packages — Gracy's VIP, Bavarian Hall and Mary & Me — gained a fourth drink per person.
 
-> ⚠️ **A warning about the official site.** Several live pages are still carrying 2025 information: the dates section of the Getting Here page, the Show Town zone page (which still lists Zippos and Cirque Berserk), the show calendar, the parade dates, and four FAQ answers with out-of-date pass prices. The **tickets guide** and the individual **attraction pages** are the current ones. If a figure you find elsewhere disagrees with this guide, check which page it came from.
+> ⚠️ **Some of the official site is still last season.** On 20 September 2026 the Show Town zone page still listed Zippos and Cirque Berserk, and the show calendar was still headed "2025 Show Calendar". The tickets guide and the individual attraction pages are the current ones, and the dates on the Getting Here page have been updated. If a figure elsewhere disagrees with this guide, check which page it came from.
 
 ![A hand holding a branded Hyde Park Winter Wonderland hot drinks cup, with the observation wheel out of focus behind](../../assets/articles/hyde-park-winter-wonderland/branded-cup.jpg)
 
