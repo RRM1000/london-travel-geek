@@ -23,6 +23,12 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:CWR_Entrance_(60175035
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 faq:
+  - q: "Can you buy Churchill War Rooms tickets at the door?"
+    a: "IWM sells admission as a timed entry slot, booked online. Turn up without one and you are not guaranteed to get in that day."
+  - q: "Is photography allowed inside the Churchill War Rooms?"
+    a: "Yes. Non-commercial photography without flash is allowed in both the historic rooms and the Churchill Museum. Tripods, lighting rigs and selfie sticks are not, because the corridors are narrow."
+  - q: "Is there a cafe at the Churchill War Rooms?"
+    a: "Yes, underground, in the room the wartime switchboard operators used. It serves hot drinks, sandwiches, light lunches and cakes from 10am to 5pm."
   - q: "Do you need to book Churchill War Rooms tickets in advance?"
     a: "Yes. Admission is by timed entry slot, booked online through IWM or an official partner. Walk-up tickets on the day are not guaranteed."
   - q: "Is the audio guide free at the Churchill War Rooms?"
@@ -164,13 +170,12 @@ Allow at least two hours — IWM's own recommendation — to see the Cabinet Roo
 
 ## Practical information and getting there
 
-```
-Location:      Clive Steps, King Charles Street, London SW1A 2AQ
-Opening Hours: 09:30 – 18:00 daily (last admission 17:00)
-Closure Dates: 24, 25, and 26 December
-Luggage:       No cloakroom, lockers or luggage storage on-site; suitcases, wheeled luggage and large holdalls are not admitted
-Audio Guide:   Included in admission (English, French, Spanish, German, Italian, Hebrew, Russian, Dutch, Polish, Portuguese, Mandarin, Swedish, Ukrainian; BSL tour option)
-```
+
+- **Where:** Clive Steps, King Charles Street, SW1A 2AQ.
+- **Open:** 9.30am to 6pm daily, last entry 5pm.
+- **Closed:** 24, 25 and 26 December.
+- **Luggage:** no cloakroom, lockers or storage, and suitcases, wheeled luggage and large holdalls are not admitted.
+- **Audio guide:** included in admission, in thirteen languages, with a British Sign Language tour option.
 
 ### Getting there by public transport
 - **Underground:**
@@ -187,19 +192,6 @@ Audio Guide:   Included in admission (English, French, Spanish, German, Italian,
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="churchill-war-rooms-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
-## Frequently asked questions
-
-### Can you buy tickets at the door?
-IWM sells Churchill War Rooms admission as a timed entry slot, booked online. Turn up without one and you are not guaranteed to get in that day.
-
-### Is photography allowed inside?
-Yes, non-commercial photography without flash is permitted throughout both the historic rooms and the Churchill Museum. Tripods, lighting rigs, and selfie sticks are prohibited due to space constraints in the narrow corridors.
-
-### Is there a café inside?
-Yes. The café sits underground, in the room once used by wartime switchboard operators, and serves hot drinks, light lunches, sandwiches, and cakes, daily from 10am to 5pm.
-
----
 
 ## Continue planning your London trip
 

@@ -72,37 +72,13 @@ Tickets can be bought direct or via authorised ticketing platforms such as <a hr
 
 Kew Gardens has four public entry gates spread around its multi-kilometre perimeter. Arriving at the wrong gate can add 20 minutes of roadside walking before you're even inside.
 
-```
-                  [Kew Bridge Station (SWR)]
-                              │
-                        (10 min walk)
-                              │
-                    ┌─────────▼─────────┐
-                    │  ELIZABETH GATE   │
-                    └─────────┬─────────┘
-                              │
-           ┌──────────────────┴──────────────────┐
-           │                                     │
-           ▼                                     ▼
-     [Kew Palace]                   [Princess of Wales]
-           │                                     │
-           └──────────────────┬──────────────────┘
-                              │
-                    ┌─────────▼─────────┐
-                    │   VICTORIA GATE   │ ◄── (5 min walk) ── [Kew Gardens Station]
-                    └─────────┬─────────┘                     (District & Overground)
-                              │
-                        [Palm House]
-                              │
-                              ▼
-                      [Temperate House]
-                              │
-                    ┌─────────▼─────────┐
-                    │     LION GATE     │ ◄── Bus 65 from Richmond Station
-                    └─────────┬─────────┘
-                              │
-                       [Great Pagoda]
-```
+
+| Gate | Arrive by | Walk | What is just inside |
+| --- | --- | --- | --- |
+| **Victoria** | Kew Gardens station, District line and the Mildmay line | 500m, about 5 min | The Palm House, the pond, and the shop and cafe at Victoria Plaza |
+| **Elizabeth** | Kew Bridge station, South Western Railway from Waterloo | 800m, about 10 min | Kew Palace and the Princess of Wales Conservatory |
+| **Lion** | Richmond station, or the 65 bus towards Ealing Broadway | 15 min on foot from Richmond | The Great Pagoda and the Temperate House |
+| **Brentford** | Ferry Lane car park, off the A307 | At the gate | The lake and the Sackler Crossing, and the quietest corner of the Gardens |
 
 <div data-stay-strip></div>
 
