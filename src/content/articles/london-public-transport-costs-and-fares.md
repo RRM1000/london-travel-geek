@@ -1,7 +1,7 @@
 ---
 title: "How Much Does London Public Transport Cost? 2026 Fares Guide"
-seoTitle: "London Transport Fares and Costs 2026"
-description: "Current London transport prices for adults and children, covering the Tube, trains, buses, trams, boats, cable car, cycles and taxis."
+seoTitle: "London Fares 2026: Tube £3.10, Bus £1.75, Cap £8.90"
+description: "A Zone 1–2 Tube journey is £3.60 peak and £3.10 off-peak, any bus is £1.75, and the daily cap is £8.90. Under-11s travel free and 11–15s pay half. Every 2026 fare for the Tube, buses, trams, boats, the cable car and taxis, and the three rules that stop you overpaying."
 publishedAt: 2026-07-28
 updatedAt: 2026-09-02
 sites:
@@ -314,7 +314,7 @@ Private hire vehicles must be pre-booked through a licensed operator or app. Unl
 2. **Use the exact same card or device:** Tapping with your physical bank card and then using Apple Pay/Google Pay on your phone counts as two separate accounts, splitting your journey history and preventing daily capping.
 3. **Travel off-peak when possible:** Avoid peak hours (06:30–09:29 and 16:00–18:59 on weekdays) for significant savings on longer Tube and rail trips.
 4. **Take advantage of the Hopper Fare:** Board as many buses and trams as you want within 60 minutes for a single **£1.75** charge.
-5. **Tap pink route validators:** When changing trains on routes that bypass Central London (Zone 1), tap the pink card readers on the platform to ensure you are charged a cheaper outer-zone fare.
+5. **Tap the pink card readers:** On a journey that avoids Zone 1, tapping the pink reader mid-journey proves it and cuts the fare. See [the pink readers](#what-are-the-pink-card-readers) below.
 6. **Beware of 1-Day Paper Travelcards:** Paper 1-Day passes carry a £3.80–£7.30 daily penalty over contactless capping. Stick to contactless unless buying a 7-Day Travelcard for a mid-week trip.
 7. **Use your Travelcard for river discounts:** Presenting a valid Travelcard gives you a **33% discount** on Uber Boat River Bus fares.
 8. **Load Railcard discounts onto your Oyster:** If you hold a UK Railcard (e.g. 16-25, 26-30, Senior, or Two Together), ask TfL station staff to link it to your Oyster card for a 34% discount on off-peak fares and daily caps.
@@ -323,9 +323,23 @@ Private hire vehicles must be pre-booked through a licensed operator or app. Unl
 
 ---
 
-## How much do children pay on London transport?
+## What are the pink card readers?
 
-London offers exceptionally generous discounts for families travelling with children:
+**Stand-alone pink card readers, on the platform rather than at a gate.** They exist for one job: to prove you travelled between two outer zones **without going through Zone 1**, which is cheaper.
+
+The system otherwise assumes the route through the middle, because that is usually the quickest, and charges you for Zone 1 whether you went through it or not.
+
+**Tap the pink reader when you change trains, and only then.** Not at the start of your journey and not at the end — you still touch the normal yellow readers at both ends. Tapping pink at the start or finish of a trip can break the journey in two and cost you more.
+
+**Where they are:** interchange platforms on orbital routes — Highbury & Islington, Stratford, Canada Water, Gospel Oak, Willesden Junction, Clapham Junction and similar. If there is no pink reader where you change, there is nothing to do.
+
+**It only helps if your journey genuinely skips Zone 1.** Going through the centre and tapping pink on the way does nothing.
+
+---
+
+## Child fares: what children and teenagers pay
+
+**Under-11s travel free on almost everything, and 11–15s pay half.** London is unusually generous here, and most visiting families overpay because they never ask.
 
 | Child's age | Tube, DLR, Overground & Elizabeth Line | Buses & Trams | Required Card / Action |
 | --- | --- | --- | --- |
