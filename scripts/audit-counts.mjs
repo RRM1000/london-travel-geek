@@ -71,6 +71,12 @@ for (const f of fs.readdirSync(DIR).filter((x) => x.endsWith(".md"))) {
       const word = m[2];
       if (n < 3 || n > 200) continue;
       if (/^(hour|hours|minute|minutes|am|pm|st|nd|rd|th|star|stars)$/i.test(word)) continue;
+      // A month turns a date into a count. "LFF 2026: 7-18 Oct" was reported
+      // as a title claiming 18 entries above a page with 7.
+      if (/^(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)(uary|ruary|ch|il|e|y|ust|ember|ober)?$/i.test(word))
+        continue;
+      // The far end of a range is not a count either - "7-18", "10-12 Nov".
+      if (/[-–—]\s*$/.test(text.slice(0, m.index))) continue;
       // A price's fractional half reads as a bare count - "£10.70 Southern"
       // matches "70 Southern" exactly as a real "70 Somethings" would. Walk
       // back over the digit run (and any decimal point or thousands comma)
