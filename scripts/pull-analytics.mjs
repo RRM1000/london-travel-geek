@@ -471,6 +471,13 @@ async function main() {
       site: gsc.site,
       pages: Object.fromEntries(top(Object.entries(gsc.pages), ([, v]) => v.impressions, 300)),
       queries: gsc.queries.slice(0, 300),
+      // The page/query join. It was pulled, used to build quickWins, and then
+      // thrown away instead of written - so the file could tell you a page had
+      // 1,222 impressions and which queries the SITE ranked for, but never
+      // which queries that page ranked for. That is the one thing you need to
+      // answer "are these two guides competing for the same search", which is
+      // the question the house rule about one page per intent turns on.
+      pageQueries: top(gsc.pageQueries, (r) => r.impressions, 1500),
     },
   };
   fs.mkdirSync(OUT_DIR, { recursive: true });
