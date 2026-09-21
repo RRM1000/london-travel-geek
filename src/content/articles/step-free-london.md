@@ -233,6 +233,7 @@ TfL's free **"Please offer me a seat"** badge and card work on every mode and ne
 
 ## Continue planning your London trip
 
+- 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — 62 wheelchair bays, a Changing Places room, and the accessible shuttle from Richmond
 - 🚇 **[Getting Around London: Transport Guide](/articles/getting-around-london-transport-guide/)** — every mode compared, and which one suits which journey
 - 🚈 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)** — lines, zones, etiquette and the map
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)** — routes, fares and the Hopper

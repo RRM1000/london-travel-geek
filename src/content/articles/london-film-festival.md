@@ -49,7 +49,7 @@ The part that catches people out is the calendar. **Tickets went on general sale
 
 ---
 
-> 🧭 **Plan the rest of it:** [Cheap cinema tickets](/articles/cinema-deals-london/) · [Best independent cinemas](/articles/best-cinemas-london/) · [Late-night eating](/articles/late-night-eating-london/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/)
+> 🧭 **Plan the rest of it:** [Cheap cinema tickets](/articles/cinema-deals-london/) · [Best independent cinemas](/articles/best-cinemas-london/) · [Late-night eating](/articles/late-night-eating-london/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/) · [NFL London Games](/articles/nfl-london-games/)
 
 ## The dates that matter
 

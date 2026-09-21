@@ -210,7 +210,7 @@ For something entirely different, the **Monteverdi Choir performs Rossini's *Pet
 
 **Saturday 26 September puts two England teams on in London on the same day.** The men play **Spain at Wembley** in the UEFA Nations League, and the **Red Roses** play **New Zealand at Allianz Stadium, Twickenham**, kicking off at 3pm, with tickets from £20.
 
-**American college football comes to Wembley a week earlier.** The **Union Jack Classic** on **Saturday 19 September** is Arizona State Sun Devils against Kansas Jayhawks. The NFL follows in October, with three games on consecutive Sundays.
+**American college football comes to Wembley a week earlier.** The **Union Jack Classic** on **Saturday 19 September** is Arizona State Sun Devils against Kansas Jayhawks. The NFL follows in October, with [three games on consecutive Sundays](/articles/nfl-london-games/), with three games on consecutive Sundays.
 
 **The Wimbledon 2027 public ballot closes at 23:59 BST on Monday 14 September.** The All England Club opened it on 1 September, it is free, and overseas applicants use the same window. How to enter, and the other routes in if you are not drawn, are in our [Wimbledon tickets guide](/articles/wimbledon-tickets-guide/).
 

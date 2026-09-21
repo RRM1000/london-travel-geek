@@ -394,7 +394,7 @@ If your checkout is 12:00 and doors are at 18:30, you cannot carry a bag around 
 | **Storage on site** | — | **None. No cloakroom** |
 | **Luggage** | — | **Refused entry** |
 
-Bags over the stadium limit **will not be allowed in**, and folding a half-empty bag smaller does not count. A handbag is your one bag. The rules differ from the **NFL Clear Bag Policy**, so check before an NFL game. The arena points people to Stasher for storage nearby.
+Bags over the stadium limit **will not be allowed in**, and folding a half-empty bag smaller does not count. A handbag is your one bag. The rules differ from the **NFL Clear Bag Policy**, so check before an NFL game — the Texans v Jaguars game on 18 October and its ticket rules are in our [NFL London Games guide](/articles/nfl-london-games/). The arena points people to Stasher for storage nearby.
 
 > 💡 **Use the hotel.** The Novotel, Hilton and ibis all offer luggage storage, which on an event day is worth more than the room.
 
@@ -436,6 +436,7 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers Stasher an
 
 ## Continue planning your London trip
 
+- 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — 82,000 people through one Zone 5 station, and why the 10-minute walk is not 10 minutes
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🛏️ **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)**

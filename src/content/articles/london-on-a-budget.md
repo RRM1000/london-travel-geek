@@ -333,6 +333,7 @@ For an evening out, [cinema deals and memberships](/articles/cinema-deals-london
 ## Continue planning your London trip
 
 
+- ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — top-flight football needs a paid membership, but London’s lower-league clubs sell to anyone from £20
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — and [tax-free shopping](/articles/tax-free-shopping-london/), including why you cannot claim the VAT back
 - 🎪 **[Free Things to Do in London](/free/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**

@@ -145,6 +145,8 @@ Match-day transport, the bag rules and the hotels that treble in price on event 
 
 <div data-stay-strip></div>
 
+Tickets, prices for both venues, the clear bag rule and what a 2.30pm kick-off does to your Sunday are in our [NFL London Games guide](/articles/nfl-london-games/).
+
 ## The last eight days: dark, full of children, and Halloween on a Saturday
 
 ### The clocks go back — 2am, Sunday 25 October

@@ -160,6 +160,8 @@ Coach parking sits in the same streets used for buses on an event day — **West
 
 ---
 
+Getting a ticket is the harder half of the trip. Spurs say home league games are unlikely to reach general sale, and [how a visitor actually gets a Premier League ticket](/articles/premier-league-tickets-london/) covers what One Hotspur membership costs and what it does not buy you.
+
 ## The NFL London Games
 
 Tottenham Hotspur Stadium is the **only stadium in Europe purpose-built for American football**, with its own retractable pitch concealing a dedicated NFL playing surface underneath the grass, plus NFL-specific locker rooms, broadcast and medical facilities. The club and the NFL extended their partnership through the 2029–30 season, guaranteeing at least two games a year, and Tottenham now carries official status as a "Home of the NFL in the UK." Two games are confirmed for 2026:
@@ -176,6 +178,8 @@ Everything above still applies on an NFL Sunday — the same four stations, the 
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="tottenham-hotspur-stadium-travel-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+Tickets, prices for both venues, the clear bag rule and what a game day looks like hour by hour are in our [NFL London Games guide](/articles/nfl-london-games/).
 
 ## Where to stay, and why this isn't Wembley
 
@@ -276,6 +280,7 @@ Visiting (away) supporters use entrances 11 and 12, in blocks 114–118 in the s
 
 ## Continue planning your London trip
 
+- 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — the same problem in reverse: no station on the doorstep, and a parking zone run by two boroughs
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🛏️ **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)**

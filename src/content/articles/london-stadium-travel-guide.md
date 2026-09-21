@@ -226,6 +226,8 @@ London Stadium is, on the evidence of its own published access statement, thorou
 
 ## Continue planning your London trip
 
+- 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — London's biggest rugby crowd, and the last train out at 00:11
+- ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — West Ham are in the Championship this season, which makes this a far easier ticket than a top-flight one
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)**
