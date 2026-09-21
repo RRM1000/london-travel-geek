@@ -284,13 +284,32 @@ async function pullSearchConsole(auth) {
 // --------------------------------------------------------- reports -------
 // The point of the pull. Each is a list the site can act on, ordered by how
 // much is at stake, and each says what to do about it.
-function buildReports(ga4, gsc) {
+// A guide published inside the previous window has a launch spike in it -
+// internal links, the homepage, whatever surfaced it that week - and a month
+// later that spike is gone and the report calls it decay. The tube and rail
+// lines guide read as the site's worst decay at -95%, 286 views to 14, while
+// its Search position IMPROVED from 9.2 to 7.4 and it was taking 1,222
+// impressions. 286 views could never have come from 7 search clicks; it was a
+// launch, not a collapse. Published-at comes from the article's own frontmatter.
+const publishedAt = (path) => {
+  const slug = path.replace(/^\/articles\//, "").replace(/\/$/, "");
+  try {
+    const raw = fs.readFileSync(`src/content/articles/${slug}.md`, "utf8");
+    return raw.match(/^publishedAt:\s*([0-9]{4}-[0-9]{2}-[0-9]{2})/m)?.[1] ?? null;
+  } catch { return null; }
+};
+
+function buildReports(ga4, gsc, w) {
   const pct = (now, before) => (before ? round(((now - before) / before) * 100, 0) : null);
 
   // 1. Decay: guides losing readers. Ordered by views lost, not by
   //    percentage, so a big guide down 30% outranks a tiny one down 80%.
   const decay = ga4.pages
     .filter((p) => p.path.startsWith("/articles/") && p.previous && p.previous.views >= 50)
+    .filter((p) => {
+      const pub = w ? publishedAt(p.path) : null;
+      return !(pub && pub >= w.previous.start);
+    })
     .map((p) => ({
       path: p.path,
       views: p.current?.views ?? 0,
@@ -429,7 +448,7 @@ async function main() {
 
   console.log(`Pulling ${current.start} to ${current.end} ...`);
   const [ga4, gsc] = await Promise.all([pullGa4(auth, property), pullSearchConsole(auth)]);
-  const reports = buildReports(ga4, gsc);
+  const reports = buildReports(ga4, gsc, { current, previous });
 
   // What gets written is the reports plus enough of the underlying tables to
   // check them against - not the full pull. The first run wrote 955 KB, most

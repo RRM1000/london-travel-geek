@@ -1,5 +1,5 @@
 {
-  "pulledAt": "2026-09-21T13:27:18.253Z",
+  "pulledAt": "2026-09-21T13:41:25.449Z",
   "window": {
     "days": 28,
     "current": {
@@ -12,26 +12,7 @@
     }
   },
   "reports": {
-    "decay": [
-      {
-        "path": "/articles/london-tube-and-rail-lines-guide/",
-        "views": 14,
-        "viewsBefore": 286,
-        "change": -95,
-        "lost": 272,
-        "position": 7.4,
-        "positionBefore": 9.2
-      },
-      {
-        "path": "/articles/notting-hill-area-guide/",
-        "views": 31,
-        "viewsBefore": 54,
-        "change": -43,
-        "lost": 23,
-        "position": 17.6,
-        "positionBefore": 16.7
-      }
-    ],
+    "decay": [],
     "quickWins": [
       {
         "path": "/articles/london-public-transport-costs-and-fares/",
