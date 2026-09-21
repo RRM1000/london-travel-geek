@@ -13,7 +13,7 @@ heroImage: "../../assets/articles/best-pizza-london/crisp-pizza.jpg"
 heroImageAlt: "A New Haven-style pepperoni pizza at Crisp in Mayfair, its crust blistered and charred dark at the edge, topped with cupped pepperoni, tomato and spoonfuls of ricotta, on a metal pan"
 faq:
   - q: "What is the best pizza in London?"
-    a: "Three judges, three answers. The National Pizza Awards gave the 2025 national title to Short Road Pizza, a residency in a Leyton brewery pub, and Time Out ranks it first in London. 50 Top Pizza puts Napoli on the Road in Chiswick first in Europe for the third year running. Crisp Pizza is named by more independent sources than any other pizzeria in the city, and The Infatuation ranks it first of twelve. They disagree because they are measuring different things."
+    a: "Three judges, three answers. The National Pizza Awards gave the 2025 national title to Short Road Pizza, a residency in a Leyton brewery pub, and Time Out ranks it first in London. 50 Top Pizza puts Napoli on the Road in Chiswick first in Europe for 2026. Crisp Pizza is named by more independent sources than any other pizzeria in the city, and The Infatuation ranks it first of twelve. They disagree because they are measuring different things."
   - q: "Where is the best pizza in central London?"
     a: "50 Kalò is a minute from Charing Cross and placed fourth in Europe in the 2026 rankings, which makes it the highest-ranked pizzeria you can reach without leaving the tourist core. For New York-style, Crisp Pizza in the basement of a Mayfair pub is the one the critics rate highest — but it does not serve pizza on Mondays."
   - q: "Do I need to book a pizzeria in London?"
