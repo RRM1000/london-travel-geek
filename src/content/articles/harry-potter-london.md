@@ -22,7 +22,7 @@ faq:
   - q: "How much is the Warner Bros. Studio Tour and can you buy tickets on the day?"
     a: "£58.50 for an adult, £47 for a child aged 5-15 and £188 for a family of four. You cannot buy on the day. Every ticket must be pre-booked into a 30-minute timed slot, and the operator states plainly that no tickets are held back for phone or door sales. The shuttle bus from Watford Junction is included in that price."
   - q: "Is Harry Potter and the Cursed Child still two plays?"
-    a: "No. The original two-part production ends its London run on 20 September 2026. From 9 October 2026 the play is performed as a single show of about 2 hours 55 minutes including an interval, at the Palace Theatre, booking through late June 2027. Prices start at £25."
+    a: "No. The original two-part production ended its London run on 20 September 2026. From 9 October 2026 the play is performed as a single show of about 2 hours 55 minutes including an interval, at the Palace Theatre, booking through late June 2027. Prices start at £25."
   - q: "Is Platform 9¾ free?"
     a: "Yes. The trolley, the scarf and the queue cost nothing, you need no ticket, and staff will take the photo on your own phone. Only the professional photographer's print or digital file is paid for. The trolley is only out during the shop's hours: 8am-10pm Monday to Saturday, 9am-8pm Sunday."
   - q: "Where is the official Harry Potter shop in London?"
@@ -117,7 +117,7 @@ At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on mos
 
 ## Harry Potter and the Cursed Child
 
-The original two-part production ends its London run on 20 September 2026. From **9 October 2026 the play runs as a single show in one sitting**, currently booking through late June 2027.
+The original two-part production ended its London run on 20 September 2026. From **9 October 2026 the play runs as a single show in one sitting**, currently booking through late June 2027.
 
 ![The set of Harry Potter and the Cursed Child at the Palace Theatre: gothic arches and clock faces above a stack of trunks and suitcases in a shaft of blue light](../../assets/articles/harry-potter-london/cursed-child-palace-theatre.jpg)
 *The set is doing work before anyone walks on. The Palace was rebuilt around this production.*
@@ -203,7 +203,7 @@ The all-films version of this walk, with Bond, *Slow Horses* and the rest, is in
 
 This is where the internet is least reliable: London's unofficial wizarding venues have a high failure rate and the listicles never go back to check.
 
-> ⚠️ **The Cauldron has closed.** The potion-brewing cocktail bar in Dalston that sits near the top of almost every Harry Potter guide to London is gone — the London site closed in early 2026, the Edinburgh branch has ceased trading, and the company's own web domain now redirects to a charity. If a guide still recommends it, that guide has not been checked.
+> ⚠️ **The Cauldron has closed.** The potion-brewing cocktail bar in Dalston that sits near the top of almost every Harry Potter guide to London is gone — the London site closed in early 2026 and the Edinburgh branch has ceased trading. If a guide still recommends it, that guide has not been checked.
 
 **Hexmoor**, Unit 11, 127 Hackney Road, Shoreditch, E2 8GY, is the best of the current crop and the most honest about what it is. An immersive fantasy-prison theatre piece with live actors: you are processed, issued a jumpsuit and locked into a story for **1 hour 45 minutes**, with three cocktails or mocktails built into the plot. **From £56.50 including the booking fee**, rising to £65.50 for a fourth drink and a souvenir licence and £88.50 for a one-off wand. It is not an escape room and it is not Harry Potter; it is its own invented world, which is precisely why it still exists.
 

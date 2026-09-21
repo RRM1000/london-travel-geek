@@ -326,7 +326,7 @@ Five of the best-known names here — Haidilao, Happy Lamb, Da Long Yi, Yangguof
 
 **Where the independents win.** Specificity and price. No chain in London serves a charcoal copper pot, a lamb spine, a Chaoshan menu sorted by cut, or a Hainanese coconut chicken broth — those are all single-site restaurants, and they are the meals worth travelling for. The independents are also materially cheaper: the Poplar and Isle of Dogs rooms will feed four for what two spend in Chinatown.
 
-**One thing to know about the published lists.** DesignMyNight's London hot pot guide still recommends Sichuan Folk on Brick Lane, which shut in 2025. Its old web domain now serves unrelated content and should not be visited. This is worth knowing generally: hot pot lists are updated rarely, and a recent-looking date at the top of a page is not evidence a restaurant is open.
+**One thing to know about the published lists.** DesignMyNight's London hot pot guide still recommends Sichuan Folk on Brick Lane, which shut in 2025. This is worth knowing generally: hot pot lists are updated rarely, and a recent-looking date at the top of a page is not evidence a restaurant is open.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hot-pot-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

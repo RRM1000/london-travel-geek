@@ -47,6 +47,8 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 
 > 🚀 **When to take the bus:** Choose a bus for short hops (1–4 stops), when travelling with a stroller/wheelchair, when avoiding station stairs, or when taking in the sights. Take the Tube or Elizabeth line when heading to an airport or timed appointment.
 
+Every route runs low-floor buses with an access ramp and one wheelchair space, and **wheelchair and mobility scooter users travel free on buses and trams**. Our [step-free London guide](/articles/step-free-london/) covers how that compares with the rail network, and which central Tube stations have no step-free access at all.
+
 ---
 
 ## 5 Golden rules of riding a London bus
@@ -158,6 +160,7 @@ London Trams operate across South London surrounding **Croydon, Wimbledon, Becke
 * 💷 [London Transport Fares and Costs 2026](/articles/london-public-transport-costs-and-fares/)
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
 * 🚢 [How to Use London River Boats](/articles/how-to-use-london-river-boats/)
+* ♿ [Step-Free London](/articles/step-free-london/) – Ramps, assistance and which stations work
 
 ---
 

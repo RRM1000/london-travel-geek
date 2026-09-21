@@ -372,7 +372,7 @@ London's comedy festivals are almost entirely a **July and August** phenomenon. 
 | **Roundhouse Comedy Festival** | Throughout August, closing 18 August | Roundhouse, Chalk Farm Road NW1 | A month of one-off shows in the main space. The 2026 edition opened with Frank Skinner and closed with Joe Lycett, with Katherine Ryan, Sara Pascoe, Ed Gamble, Fern Brady, Adam Buxton and Alexei Sayle in between |
 | **Camden Fringe** | 3–30 August | 39 venues across Camden | **450+ shows**, open access, an hour each. Not a comedy festival strictly — theatre, improv, opera and a gameshow too — but the Evening Standard called it the closest thing London has to one |
 
-> ⚠️ **VAULT Festival is gone.** It ran under Waterloo station from 2012 and its **final festival was in 2023**; its own site now reads as an archive. A lot of London guides still list it as an annual fixture. It is not coming back in that form.
+> ⚠️ **VAULT Festival is gone.** It ran under Waterloo station from 2012 and its **final festival was in 2023**. A lot of London guides still list it as an annual fixture. It is not coming back in that form.
 
 **The two August festivals are opposites and they overlap.** The Roundhouse books people off the television into a seated room, at theatre prices, one night each. Camden Fringe is open-access, so anyone can apply, in pub rooms a few streets away — and its own pitch is that many tickets cost less than a pint. You can do both in the same week for wildly different money.
 

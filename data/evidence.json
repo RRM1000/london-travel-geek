@@ -9631,15 +9631,15 @@
       "hotels-views",
       "london-with-children"
     ],
-    "sourceCount": 14,
-    "tierSpread": "A1 B9 C4",
-    "tierCount": 3,
+    "sourceCount": 16,
+    "tierSpread": "A1 B9 C5 D1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 4,
-        "tierSpread": "B4",
-        "tierCount": 1,
+        "sourceCount": 6,
+        "tierSpread": "B4 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       },
       "breakfast-brunch": {
@@ -9746,6 +9746,12 @@
       },
       {
         "tier": "C",
+        "source": "youtube.com/@JoeBlogsFood",
+        "url": "https://www.youtube.com/@JoeBlogsFood",
+        "quote": "Reviewed Feb 2026 in the Palm Court. Jacket and tie required for men; no professional cameras allowed inside."
+      },
+      {
+        "tier": "C",
         "source": "A Lady in London",
         "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
       },
@@ -9763,6 +9769,12 @@
         "tier": "C",
         "source": "Wanderlust Crew",
         "url": "https://wanderlustcrew.com/a-family-guide-to-london-20-things-to-do-with-kids/"
+      },
+      {
+        "tier": "D",
+        "source": "Hannah Ricketts (YouTube)",
+        "url": "https://www.youtube.com/@HannahRicketts",
+        "quote": "'The Ritz Afternoon Tea | Inside London's Most Luxury Hotel', 1.99M views - the most-watched single afternoon tea review found in this pass."
       }
     ]
   },
@@ -9848,15 +9860,15 @@
       "hotels-mayfair",
       "instagrammable"
     ],
-    "sourceCount": 20,
-    "tierSpread": "B11 C9",
-    "tierCount": 2,
+    "sourceCount": 22,
+    "tierSpread": "B11 C10 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       },
       "british": {
@@ -9960,6 +9972,12 @@
       },
       {
         "tier": "C",
+        "source": "eater.com",
+        "url": "https://www.eater.com/",
+        "quote": "'How a 5-Star London Hotel Prepares the Most Iconic Afternoon Tea Service', 3.05M views - a kitchen documentary following executive pastry chef Thibault Hauchard rather than a ranking."
+      },
+      {
+        "tier": "C",
         "source": "A Lady in London",
         "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
       },
@@ -10002,6 +10020,12 @@
         "tier": "C",
         "source": "luxurywanderings.com",
         "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Albertine Sarah (YouTube)",
+        "url": "https://www.youtube.com/@AlbertineSarah",
+        "quote": "Reviewed Apr 2026 AGAINST the consensus: 'it's often called the best in London... I'm not sure it fully lived up to expectations.'"
       }
     ]
   },
@@ -10015,16 +10039,16 @@
       "hotels-family",
       "seafood"
     ],
-    "sourceCount": 12,
-    "tierSpread": "B9 C3",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 13,
+    "tierSpread": "A1 B9 C3",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 4,
+        "tierSpread": "A1 B3",
+        "tierCount": 2,
+        "hasAward": true
       },
       "british": {
         "sourceCount": 3,
@@ -10058,6 +10082,12 @@
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "Award of Excellence 2026, listed as Mirror Room at Rosewood London."
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -10300,16 +10330,16 @@
       "british",
       "hotels-luxury"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B1 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
       },
       "british": {
         "sourceCount": 1,
@@ -10326,9 +10356,21 @@
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "WINNER, Best Themed Afternoon Tea 2026. Judges: \"The 'Secrets & Spies' concept was well communicated and consistently carried through the experience, from the menu design to the presentation of the food. Particularly noteworthy were the chocolate pastries.\" The 2026 ceremony was held here."
+      },
+      {
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/guides/best-afternoon-tea-london/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@JoeBlogsFood",
+        "url": "https://www.youtube.com/@JoeBlogsFood",
+        "quote": "Reviewed Jun 2026. The Operation Mincemeat afternoon tea: 'Every cake and pastry has been carefully themed around the story.'"
       },
       {
         "tier": "C",
@@ -10432,16 +10474,16 @@
       "afternoon-tea",
       "hotels-covent-garden"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B2",
+        "tierCount": 2,
+        "hasAward": true
       },
       "hotels-covent-garden": {
         "sourceCount": 1,
@@ -10451,6 +10493,12 @@
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "Award of Excellence 2026, listed in the directory panel as The Grand Saloon at the Lane."
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -10928,16 +10976,16 @@
       "hotels-luxury",
       "instagrammable"
     ],
-    "sourceCount": 11,
-    "tierSpread": "B5 C6",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 12,
+    "tierSpread": "A1 B5 C6",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B2",
+        "tierCount": 2,
+        "hasAward": true
       },
       "british": {
         "sourceCount": 2,
@@ -10977,6 +11025,11 @@
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -11043,15 +11096,15 @@
       "british",
       "instagrammable"
     ],
-    "sourceCount": 10,
-    "tierSpread": "B6 C4",
-    "tierCount": 2,
+    "sourceCount": 11,
+    "tierSpread": "B6 C4 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "british": {
@@ -11122,6 +11175,12 @@
         "source": "dinewithjp.com",
         "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
         "quote": "The all-pink Gallery room with egg-pod bathrooms"
+      },
+      {
+        "tier": "D",
+        "source": "Albertine Sarah (YouTube)",
+        "url": "https://www.youtube.com/@AlbertineSarah",
+        "quote": "Reviewed Aug 2025 at GBP 85: 'at that price point, I've had just-as-memorable Afternoon Teas in London for less.'"
       }
     ]
   },
@@ -11567,15 +11626,15 @@
       "afternoon-tea",
       "hotels-luxury"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-luxury": {
@@ -11600,6 +11659,11 @@
         "tier": "C",
         "source": "Resident",
         "url": "https://resident.com/london/2026/04/14/the-12-best-afternoon-tea-experiences-in-london-at-the-citys-most-elegant-hotels"
+      },
+      {
+        "tier": "D",
+        "source": "Albertine Sarah (YouTube)",
+        "url": "https://www.youtube.com/@AlbertineSarah"
       }
     ]
   },
@@ -11962,15 +12026,15 @@
       "afternoon-tea",
       "hotels-soho"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-soho": {
@@ -11996,6 +12060,12 @@
         "tier": "C",
         "source": "theurbanlist.com",
         "url": "https://www.theurbanlist.com/a-list/best-hotels-soho-london"
+      },
+      {
+        "tier": "D",
+        "source": "Albertine Sarah (YouTube)",
+        "url": "https://www.youtube.com/@AlbertineSarah",
+        "quote": "The Mad Hatter's tea: 'colour-changing water to potion-like drinks and eat me treats'. Warns the terrace pigeons are bold - sit indoors."
       }
     ]
   },
@@ -12300,10 +12370,11 @@
     ]
   },
   "hotelcaferoyal": {
-    "name": "Hotel Caf é Royal",
+    "name": "Hotel Café Royal",
     "topics": [
       "afternoon-tea",
       "hotels",
+      "hotels-covent-garden",
       "hotels-dog-friendly",
       "hotels-family",
       "hotels-luxury",
@@ -12311,14 +12382,20 @@
       "hotels-spa",
       "hotels-views"
     ],
-    "sourceCount": 11,
-    "tierSpread": "B8 C3",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 15,
+    "tierSpread": "A1 B8 C4 D2",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+        "sourceCount": 5,
+        "tierSpread": "A1 B2 D2",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "hotels-covent-garden": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -12367,6 +12444,12 @@
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "Award of Excellence 2026."
+      },
+      {
         "tier": "B",
         "source": "Time Out",
         "url": "https://timeout.com/london/restaurants/afternoon-tea-in-london",
@@ -12410,6 +12493,11 @@
       },
       {
         "tier": "C",
+        "source": "Sunny in London",
+        "url": "https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
+      },
+      {
+        "tier": "C",
         "source": "thisissoho.co.uk",
         "url": "https://www.thisissoho.co.uk/hotels/"
       },
@@ -12422,6 +12510,18 @@
         "tier": "C",
         "source": "vogue.co.uk",
         "url": "https://www.vogue.co.uk/article/best-hotels-in-london"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood",
+        "quote": "Chapter marker at 00:00 of 'Finding The Best Afternoon Tea In London' (1.09M views). Names taken from the video's own chapter list, not the transcript."
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97",
+        "quote": "'$19 vs $395 Afternoon Tea in London' (667k views): 'the iconic Cafe Royal Hotel, where their luxury afternoon tea starts at GBP 85 per person, GBP 95 with a glass of N.V. Veuve Clicquot Brut, or GBP 135 with a glass of Dom Perignon 2013.'"
       }
     ]
   },
@@ -12482,7 +12582,7 @@
     ]
   },
   "wallacecollection": {
-    "name": "The Wallace Collection:",
+    "name": "The Wallace Collection",
     "topics": [
       "afternoon-tea",
       "galleries",
@@ -12490,14 +12590,14 @@
       "hotels-marylebone",
       "museums"
     ],
-    "sourceCount": 9,
-    "tierSpread": "B1 C8",
+    "sourceCount": 10,
+    "tierSpread": "B1 C9",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       },
@@ -12536,6 +12636,12 @@
         "tier": "C",
         "source": "Candace Abroad",
         "url": "https://candaceabroad.com/the-best-affordable-afternoon-teas-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@loveandlondon",
+        "url": "https://www.youtube.com/@loveandlondon",
+        "quote": "Named in 'Amazing afternoon teas in London - Cheap vs. expensive'. Self-funded."
       },
       {
         "tier": "C",
@@ -12599,22 +12705,36 @@
       }
     ]
   },
-  "browns": {
-    "name": "Brown's",
+  "brownshotel": {
+    "name": "Brown's Hotel",
     "topics": [
       "afternoon-tea",
+      "british",
+      "hotels-family",
       "hotels-luxury",
       "hotels-mayfair"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 13,
+    "tierSpread": "A1 B8 C4",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-family": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-luxury": {
@@ -12624,22 +12744,58 @@
         "hasAward": false
       },
       "hotels-mayfair": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The Drawing Room at Brown's Hotel is an excellent place to get afternoon tea in Mayfair."
+      },
+      {
         "tier": "B",
         "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/"
+        "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
+      },
+      {
+        "tier": "B",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveler (US)",
+        "url": "https://www.cntraveler.com/gallery/best-family-friendly-hotels-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-hotels-for-families-in-london-united-kingdom/"
+      },
+      {
+        "tier": "B",
+        "source": "Family Traveller",
+        "url": "https://familytraveller.com/holiday-destinations/uk/london/10-of-the-best-family-hotels-in-london/"
       },
       {
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-mayfair"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-hotels-in-mayfair-london"
       },
       {
         "tier": "C",
@@ -12648,8 +12804,18 @@
       },
       {
         "tier": "C",
-        "source": "Travels with Louise",
-        "url": "https://travelswithlouise.com/london/best-affordable-afternoon-tea-in-london/"
+        "source": "A Lady in London",
+        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
+      },
+      {
+        "tier": "C",
+        "source": "Families Love Travel",
+        "url": "https://familieslovetravel.com/london-hotels-families/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-mayfair"
       }
     ]
   },
@@ -12684,14 +12850,14 @@
       "afternoon-tea",
       "instagrammable"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
+    "sourceCount": 4,
+    "tierSpread": "C4",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       },
@@ -12707,6 +12873,12 @@
         "tier": "C",
         "source": "Candace Abroad",
         "url": "https://candaceabroad.com/the-best-affordable-afternoon-teas-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@loveandlondon",
+        "url": "https://www.youtube.com/@loveandlondon",
+        "quote": "Same video, self-funded."
       },
       {
         "tier": "C",
@@ -13018,15 +13190,15 @@
     "topics": [
       "afternoon-tea"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -13035,6 +13207,12 @@
         "tier": "C",
         "source": "Travels with Louise",
         "url": "https://travelswithlouise.com/london/best-affordable-afternoon-tea-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood",
+        "quote": "Chapter marker at 12:39, given as 'Swan London'. Merged to the Globe's restaurant on judgement - FLAGGED, not certain."
       }
     ]
   },
@@ -13065,6 +13243,31 @@
   },
   "cafeconcerto": {
     "name": "Café Concerto",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Travels with Louise",
+        "url": "https://travelswithlouise.com/london/best-affordable-afternoon-tea-in-london/"
+      }
+    ]
+  },
+  "browns": {
+    "name": "Browns",
     "topics": [
       "afternoon-tea"
     ],
@@ -13416,98 +13619,6 @@
       }
     ]
   },
-  "brownshotel": {
-    "name": "Brown's Hotel",
-    "topics": [
-      "afternoon-tea",
-      "british",
-      "hotels-family",
-      "hotels-mayfair"
-    ],
-    "sourceCount": 10,
-    "tierSpread": "B7 C3",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "british": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-family": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-mayfair": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
-        "quote": "The Drawing Room at Brown's Hotel is an excellent place to get afternoon tea in Mayfair."
-      },
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
-      },
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
-      },
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveler (US)",
-        "url": "https://www.cntraveler.com/gallery/best-family-friendly-hotels-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-hotels-for-families-in-london-united-kingdom/"
-      },
-      {
-        "tier": "B",
-        "source": "Family Traveller",
-        "url": "https://familytraveller.com/holiday-destinations/uk/london/10-of-the-best-family-hotels-in-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveller",
-        "url": "https://www.cntraveller.com/gallery/best-hotels-in-mayfair-london"
-      },
-      {
-        "tier": "C",
-        "source": "A Lady in London",
-        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
-      },
-      {
-        "tier": "C",
-        "source": "Families Love Travel",
-        "url": "https://familieslovetravel.com/london-hotels-families/"
-      },
-      {
-        "tier": "C",
-        "source": "The Hotel Guru",
-        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-mayfair"
-      }
-    ]
-  },
   "lanesboroughgrillatthelanesborough": {
     "name": "The Lanesborough Grill at The Lanesborough",
     "topics": [
@@ -13534,20 +13645,69 @@
       }
     ]
   },
-  "promenadeatthedorchester": {
-    "name": "The Promenade at The Dorchester",
+  "dorchester": {
+    "name": "The Dorchester",
     "topics": [
-      "afternoon-tea"
+      "afternoon-tea",
+      "british",
+      "hotels",
+      "hotels-family",
+      "hotels-luxury",
+      "hotels-mayfair",
+      "hotels-spa",
+      "hotels-views"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 17,
+    "tierSpread": "B9 C7 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-family": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-luxury": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-mayfair": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-spa": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-views": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C3",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -13557,6 +13717,87 @@
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
         "quote": "Afternoon tea at The Dorchester on Park Lane is a seriously fancy affair that's worth it for a special occasion."
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
+      },
+      {
+        "tier": "B",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
+      },
+      {
+        "tier": "B",
+        "source": "Fact London",
+        "url": "https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/family-friendly-hotels-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/the-best-five-star-hotels-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-five-star-hotels-london-england/"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveler (US)",
+        "url": "https://www.cntraveler.com/gallery/best-hotels-in-mayfair-londons-chicest-corner"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-hotels-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "A Lady in London",
+        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
+      },
+      {
+        "tier": "C",
+        "source": "thefivestaredit.com",
+        "url": "https://www.thefivestaredit.com/post/the-best-london-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-mayfair"
+      },
+      {
+        "tier": "C",
+        "source": "juliasomething.com",
+        "url": "https://juliasomething.com/best-hotels-in-london-with-a-view/"
+      },
+      {
+        "tier": "C",
+        "source": "vogue.co.uk",
+        "url": "https://www.vogue.co.uk/article/best-hotels-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "townandcountrymag.com",
+        "url": "https://www.townandcountrymag.com/leisure/travel-guide/a69034033/best-hotels-in-london-editors-picks/"
+      },
+      {
+        "tier": "C",
+        "source": "janicerohrssen.com",
+        "url": "https://janicerohrssen.com/blog/where-to-stay-and-best-hotels-london-united-kingdom"
+      },
+      {
+        "tier": "D",
+        "source": "Albertine Sarah (YouTube)",
+        "url": "https://www.youtube.com/@AlbertineSarah",
+        "quote": "Named in her ranked round-up 'BEST Afternoon Teas in London || My Honest Rankings', which sorts by category - best luxury, best budget, best themed, best scones, best tea."
       }
     ]
   },
@@ -13583,6 +13824,1084 @@
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
         "quote": "Claridge's is a five-star hotel in the heart of Mayfair that serves one of the very best afternoon teas in London in The Foyer & Reading Room."
+      }
+    ]
+  },
+  "chanceryrosewood": {
+    "name": "The Chancery Rosewood",
+    "topics": [
+      "afternoon-tea",
+      "hotels",
+      "hotels-aparthotel",
+      "hotels-luxury",
+      "hotels-mayfair"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "A2 B3 C3",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 3,
+        "tierSpread": "A2 C1",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "hotels-aparthotel": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-luxury": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-mayfair": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "La Liste",
+        "url": "https://www.laliste.com/awards/worlds-best-afternoon-tea-award-pastry-special-awards-2026",
+        "quote": "WINNER, World's Best Afternoon Tea Award, La Liste Pastry Special Awards 2026. La Liste's own award page names the laureate as 'Jacqueline At The Chancery Rosewood', London, England, against a criterion of an 'exemplary afternoon tea experience, whether traditional or contemporary concept, with outstanding service and location'. Recorded under the hotel per theCountingProblem. Time Out reported this result on 21 June 2026 - that report is SYNDICATION and is NOT counted as a separate source."
+      },
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "Award of Excellence 2026, listed in the directory panel as Jacqueline at The Chancery Rosewood. Also holds La Liste's 2026 World's Best Afternoon Tea Award - two independent bodies, counted separately."
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-aparthotels-london"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveler (US)",
+        "url": "https://www.cntraveler.com/gallery/best-hotels-in-mayfair-londons-chicest-corner"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-hotels-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@JoeBlogsFood",
+        "url": "https://www.youtube.com/@JoeBlogsFood",
+        "quote": "Reviewed 13 Sep 2026 as La Liste's 2026 winner: 'a tea sommelier, a dedicated preparation room and a collection of more than 120 teas'. A visit that MENTIONS the award, so it counts as an opinion; the award itself is filed under laliste.com."
+      },
+      {
+        "tier": "C",
+        "source": "thefivestaredit.com",
+        "url": "https://www.thefivestaredit.com/post/the-best-london-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "townandcountrymag.com",
+        "url": "https://www.townandcountrymag.com/leisure/travel-guide/a69034033/best-hotels-in-london-editors-picks/"
+      }
+    ]
+  },
+  "jumeirahcarltontower": {
+    "name": "The Jumeirah Carlton Tower",
+    "topics": [
+      "afternoon-tea",
+      "british"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "WINNER, Best Contemporary Afternoon Tea 2026. Judges: \"This is how afternoon tea should be. I don't think I've ever experienced such perfect service. Even with other diners in the room, it felt like private dining.\""
+      },
+      {
+        "tier": "B",
+        "source": "Fact London",
+        "url": "https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "A Lady in London",
+        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
+      }
+    ]
+  },
+  "beaumontmayfair": {
+    "name": "The Beaumont Mayfair",
+    "topics": [
+      "afternoon-tea",
+      "hotels-mayfair"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "hotels-mayfair": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-hotels-in-mayfair-london"
+      }
+    ]
+  },
+  "chesterfieldmayfair": {
+    "name": "The Chesterfield Mayfair",
+    "topics": [
+      "afternoon-tea",
+      "hotels",
+      "hotels-dog-friendly"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "hotels-dog-friendly": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-dog-friendly-hotels/"
+      },
+      {
+        "tier": "C",
+        "source": "theblondeabroad.com",
+        "url": "https://www.theblondeabroad.com/best-hotels-to-stay-at-in-london/"
+      }
+    ]
+  },
+  "sheratongrandlondonparklane": {
+    "name": "Sheraton Grand London Park Lane",
+    "topics": [
+      "afternoon-tea",
+      "hotels-dog-friendly",
+      "hotels-family"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 E1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "hotels-dog-friendly": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-family": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-dog-friendly-hotels/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/marriott/comments/1cdwupa/london_hotel_recommendation_for_family/"
+      }
+    ]
+  },
+  "intercontinentallondontheo2": {
+    "name": "InterContinental London - The O2",
+    "topics": [
+      "afternoon-tea",
+      "hotels-accessible",
+      "hotels-budget",
+      "hotels-family",
+      "hotels-views"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "A1 C3 E1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "hotels-accessible": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-budget": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-family": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-views": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
+      },
+      {
+        "tier": "C",
+        "source": "wheelchairtravel.org",
+        "url": "https://wheelchairtravel.org/london-hotels/"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/where-to-stay/hotel/family-hotels-london"
+      },
+      {
+        "tier": "C",
+        "source": "juliasomething.com",
+        "url": "https://juliasomething.com/best-hotels-in-london-with-a-view/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonTravel/comments/1n1iwpy/will_i_regret_staying_in_canary_wharf/",
+        "quote": "RedBarchetta1: 'We spent 4 days at the Intercontinental O2... riding the tube into London was super easy and much faster than I expected it to be.'"
+      }
+    ]
+  },
+  "loscarlondon": {
+    "name": "L'Oscar London",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
+      }
+    ]
+  },
+  "sofitellondonstjames": {
+    "name": "Sofitel London St. James",
+    "topics": [
+      "afternoon-tea",
+      "british",
+      "hotels-accessible",
+      "hotels-westminster"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "A1 B2 C2",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-accessible": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-westminster": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "Award of Excellence 2026, listed as The Rose Lounge at Sofitel London St James."
+      },
+      {
+        "tier": "B",
+        "source": "The Independent",
+        "url": "https://www.independent.co.uk/travel/uk/england/london/best-wheelchair-accessible-hotels-london-b3010299.html"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-westminster"
+      },
+      {
+        "tier": "C",
+        "source": "A Lady in London",
+        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
+      },
+      {
+        "tier": "C",
+        "source": "wheelchairtravel.org",
+        "url": "https://wheelchairtravel.org/london-hotels/"
+      }
+    ]
+  },
+  "milestonehotel": {
+    "name": "The Milestone Hotel",
+    "topics": [
+      "afternoon-tea",
+      "british",
+      "hotels-notting-hill"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "A1 B1 C2",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-notting-hill": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
+      },
+      {
+        "tier": "B",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "A Lady in London",
+        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
+      },
+      {
+        "tier": "C",
+        "source": "girlwhotravelstheworld.com",
+        "url": "https://girlwhotravelstheworld.com/where-to-stay-in-londons-notting-hill-neighborhood/"
+      }
+    ]
+  },
+  "royalgardenhotelkensington": {
+    "name": "Royal Garden Hotel, Kensington",
+    "topics": [
+      "afternoon-tea",
+      "hotels-family",
+      "hotels-kensington"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A1 B2 C3",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "hotels-family": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-kensington": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "Award of Excellence 2026, listed as Origin Kensington at The Royal Garden Hotel."
+      },
+      {
+        "tier": "B",
+        "source": "Mumsnet",
+        "url": "https://www.mumsnet.com/articles/best-family-hotels-london",
+        "quote": "Best for babies and toddlers - deluxe rooms sleep two adults and two children under 12, cots available, interconnecting guaranteed."
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-kensington"
+      },
+      {
+        "tier": "C",
+        "source": "Kids Are A Trip",
+        "url": "https://kidsareatrip.com/the-best-london-family-hotels/",
+        "quote": "'Free Micro Scooters for kids and their parents to zip around Hyde Park, an afternoon tea with peanut butter and jelly sandwiches, and a flicks and food day.' - Katja, Globetotting."
+      },
+      {
+        "tier": "C",
+        "source": "Mummy Travels",
+        "url": "https://www.mummytravels.com/where-to-stay-in-london-with-kids/"
+      },
+      {
+        "tier": "C",
+        "source": "Family Hotel Expert",
+        "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/"
+      }
+    ]
+  },
+  "rubensatthepalace": {
+    "name": "The Rubens at the Palace",
+    "topics": [
+      "afternoon-tea",
+      "hotels-budget",
+      "hotels-dog-friendly",
+      "hotels-family",
+      "hotels-westminster"
+    ],
+    "sourceCount": 13,
+    "tierSpread": "A1 B2 C9 E1",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "hotels-budget": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-dog-friendly": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-family": {
+        "sourceCount": 7,
+        "tierSpread": "B1 C6",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-westminster": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-dog-friendly-hotels/"
+      },
+      {
+        "tier": "B",
+        "source": "Family Traveller",
+        "url": "https://familytraveller.com/holiday-destinations/uk/london/10-of-the-best-family-hotels-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "travellingking.com",
+        "url": "https://www.travellingking.com/dog-friendly-hotels-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Families Love Travel",
+        "url": "https://familieslovetravel.com/london-hotels-families/"
+      },
+      {
+        "tier": "C",
+        "source": "Kids Are A Trip",
+        "url": "https://kidsareatrip.com/the-best-london-family-hotels/"
+      },
+      {
+        "tier": "C",
+        "source": "Mummy Travels",
+        "url": "https://www.mummytravels.com/where-to-stay-in-london-with-kids/"
+      },
+      {
+        "tier": "C",
+        "source": "Family Hotel Expert",
+        "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/"
+      },
+      {
+        "tier": "C",
+        "source": "Travel Mad Mum",
+        "url": "https://travelmadmum.com/the-best-family-hotels-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/where-to-stay/hotel/family-hotels-london"
+      },
+      {
+        "tier": "C",
+        "source": "seeninthecity.co.uk",
+        "url": "https://seeninthecity.co.uk/best-hotels-in-westminster/"
+      },
+      {
+        "tier": "C",
+        "source": "anywhereweroam.com",
+        "url": "https://anywhereweroam.com/where-to-stay-westminster/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonTravel/comments/1pirsk0/affordable_hotels_london/",
+        "quote": "letmereadstuff (list): 'Premier Inn, Rubens at the Palace, Locke at Broken Wharf (or any other of their properties), Native, Wilde, Citadines'."
+      }
+    ]
+  },
+  "taj51buckinghamgatesuitesandresidences": {
+    "name": "Taj 51 Buckingham Gate Suites and Residences",
+    "topics": [
+      "afternoon-tea",
+      "hotels-accessible",
+      "hotels-family"
+    ],
+    "sourceCount": 9,
+    "tierSpread": "A1 C8",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "hotels-accessible": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-family": {
+        "sourceCount": 7,
+        "tierSpread": "C7",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "Award of Excellence 2026, listed as Kona at Taj 51."
+      },
+      {
+        "tier": "C",
+        "source": "blog.wheeltheworld.com",
+        "url": "https://blog.wheeltheworld.com/accessible-hotels-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Santorini Dave",
+        "url": "https://santorinidave.com/london-family-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "Families Love Travel",
+        "url": "https://familieslovetravel.com/london-hotels-families/"
+      },
+      {
+        "tier": "C",
+        "source": "Kids Are A Trip",
+        "url": "https://kidsareatrip.com/the-best-london-family-hotels/"
+      },
+      {
+        "tier": "C",
+        "source": "Family Hotel Expert",
+        "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/"
+      },
+      {
+        "tier": "C",
+        "source": "Marcie in Mommyland",
+        "url": "https://www.marcieinmommyland.com/family-friendly-hotels-in-london-england/"
+      },
+      {
+        "tier": "C",
+        "source": "Travel Mad Mum",
+        "url": "https://travelmadmum.com/the-best-family-hotels-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Sleeps5",
+        "url": "https://sleeps5.com/destinations/british-isles/london/"
+      }
+    ]
+  },
+  "staffordlondon": {
+    "name": "The Stafford London",
+    "topics": [
+      "afternoon-tea",
+      "hotels-luxury"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "hotels-luxury": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "Award of Excellence 2026, listed as Michael Caines at The Stafford London."
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/"
+      }
+    ]
+  },
+  "grosvenorhouse": {
+    "name": "Grosvenor House",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "Award of Excellence 2026, listed as Park Room at Grosvenor House London."
+      }
+    ]
+  },
+  "parkcornerbrasserie": {
+    "name": "Park Corner Brasserie",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+        "quote": "Award of Excellence 2026, at the London Hilton on Park Lane."
+      }
+    ]
+  },
+  "lanesborough": {
+    "name": "The Lanesborough",
+    "topics": [
+      "afternoon-tea",
+      "british",
+      "hotels",
+      "hotels-belgravia",
+      "hotels-family",
+      "hotels-luxury"
+    ],
+    "sourceCount": 11,
+    "tierSpread": "A1 B7 C3",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-belgravia": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-family": {
+        "sourceCount": 4,
+        "tierSpread": "B4",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-luxury": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Afternoon Tea Awards",
+        "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
+      },
+      {
+        "tier": "B",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
+      },
+      {
+        "tier": "B",
+        "source": "Fact London",
+        "url": "https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/family-friendly-hotels-london"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveler (US)",
+        "url": "https://www.cntraveler.com/gallery/best-family-friendly-hotels-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Independent",
+        "url": "https://www.independent.co.uk/travel/uk/england/london/best-family-friendly-hotels-london-kids-b2088837.html"
+      },
+      {
+        "tier": "B",
+        "source": "Glamour UK",
+        "url": "https://www.glamourmagazine.co.uk/gallery/best-family-friendly-london-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "A Lady in London",
+        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
+      },
+      {
+        "tier": "C",
+        "source": "belgravialdn.com",
+        "url": "https://www.belgravialdn.com/stories/the-best-hotels-in-belgravia"
+      },
+      {
+        "tier": "C",
+        "source": "thefivestaredit.com",
+        "url": "https://www.thefivestaredit.com/post/the-best-london-hotels"
+      }
+    ]
+  },
+  "brigitsbakery": {
+    "name": "Brigit's Bakery",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood",
+        "quote": "Chapter marker at 24:56. The Routemaster bus tea."
+      }
+    ]
+  },
+  "royalhorseguards": {
+    "name": "The Royal Horseguards",
+    "topics": [
+      "afternoon-tea",
+      "hotels",
+      "hotels-covent-garden"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-covent-garden": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@JoeBlogsFood",
+        "url": "https://www.youtube.com/@JoeBlogsFood",
+        "quote": "Reviewed Aug 2026. 'At GBP 60 per person, it sits below many of the premium afternoon teas now charging GBP 80, GBP 90 or even more.' Served in The Green Parlour."
+      },
+      {
+        "tier": "C",
+        "source": "Sunny in London",
+        "url": "https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
+      },
+      {
+        "tier": "C",
+        "source": "Love and London",
+        "url": "https://loveandlondon.com/new-years-eve-hotels-london/"
+      }
+    ]
+  },
+  "slugandlettucerichmond": {
+    "name": "Slug & Lettuce Richmond",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97",
+        "quote": "The cheap end of the same video: 'a classic afternoon tea at GBP 15 per person, the Tipsy option from GBP 21 with two glasses of prosecco'."
+      }
+    ]
+  },
+  "harrods": {
+    "name": "Harrods",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Hannah Ricketts (YouTube)",
+        "url": "https://www.youtube.com/@HannahRicketts",
+        "quote": "The newly refurbished Georgian Restaurant, GBP 75, reviewed Dec 2024."
       }
     ]
   },
@@ -38215,143 +39534,6 @@
       }
     ]
   },
-  "dorchester": {
-    "name": "The Dorchester",
-    "topics": [
-      "british",
-      "hotels",
-      "hotels-family",
-      "hotels-luxury",
-      "hotels-mayfair",
-      "hotels-spa",
-      "hotels-views"
-    ],
-    "sourceCount": 15,
-    "tierSpread": "B8 C7",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-family": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-luxury": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-mayfair": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-spa": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-views": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels": {
-        "sourceCount": 5,
-        "tierSpread": "B2 C3",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
-      },
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
-      },
-      {
-        "tier": "B",
-        "source": "Fact London",
-        "url": "https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveller",
-        "url": "https://www.cntraveller.com/gallery/family-friendly-hotels-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/hotels/the-best-five-star-hotels-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-five-star-hotels-london-england/"
-      },
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveler (US)",
-        "url": "https://www.cntraveler.com/gallery/best-hotels-in-mayfair-londons-chicest-corner"
-      },
-      {
-        "tier": "B",
-        "source": "House & Garden",
-        "url": "https://www.houseandgarden.co.uk/gallery/best-hotels-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "A Lady in London",
-        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
-      },
-      {
-        "tier": "C",
-        "source": "thefivestaredit.com",
-        "url": "https://www.thefivestaredit.com/post/the-best-london-hotels"
-      },
-      {
-        "tier": "C",
-        "source": "The Hotel Guru",
-        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-mayfair"
-      },
-      {
-        "tier": "C",
-        "source": "juliasomething.com",
-        "url": "https://juliasomething.com/best-hotels-in-london-with-a-view/"
-      },
-      {
-        "tier": "C",
-        "source": "vogue.co.uk",
-        "url": "https://www.vogue.co.uk/article/best-hotels-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "townandcountrymag.com",
-        "url": "https://www.townandcountrymag.com/leisure/travel-guide/a69034033/best-hotels-in-london-editors-picks/"
-      },
-      {
-        "tier": "C",
-        "source": "janicerohrssen.com",
-        "url": "https://janicerohrssen.com/blog/where-to-stay-and-best-hotels-london-united-kingdom"
-      }
-    ]
-  },
   "petersham": {
     "name": "The Petersham",
     "topics": [
@@ -38627,48 +39809,6 @@
       }
     ]
   },
-  "milestonehotel": {
-    "name": "The Milestone Hotel",
-    "topics": [
-      "british",
-      "hotels-notting-hill"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-notting-hill": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
-      },
-      {
-        "tier": "C",
-        "source": "A Lady in London",
-        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
-      },
-      {
-        "tier": "C",
-        "source": "girlwhotravelstheworld.com",
-        "url": "https://girlwhotravelstheworld.com/where-to-stay-in-londons-notting-hill-neighborhood/"
-      }
-    ]
-  },
   "faitmaison": {
     "name": "Fait Maison",
     "topics": [
@@ -38825,188 +39965,6 @@
         "source": "Reddit",
         "url": "https://www.reddit.com/r/LondonTravel/comments/1pirsk0/affordable_hotels_london/",
         "quote": "Thoth-long-bill: 'Check the st ermin. It might cost that in April if you book now.'"
-      }
-    ]
-  },
-  "jumeirahcarltontower": {
-    "name": "The Jumeirah Carlton Tower",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Fact London",
-        "url": "https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "A Lady in London",
-        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
-      }
-    ]
-  },
-  "sofitellondonstjames": {
-    "name": "Sofitel London St. James",
-    "topics": [
-      "british",
-      "hotels-accessible",
-      "hotels-westminster"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-accessible": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-westminster": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Independent",
-        "url": "https://www.independent.co.uk/travel/uk/england/london/best-wheelchair-accessible-hotels-london-b3010299.html"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-westminster"
-      },
-      {
-        "tier": "C",
-        "source": "A Lady in London",
-        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
-      },
-      {
-        "tier": "C",
-        "source": "wheelchairtravel.org",
-        "url": "https://wheelchairtravel.org/london-hotels/"
-      }
-    ]
-  },
-  "lanesborough": {
-    "name": "The Lanesborough",
-    "topics": [
-      "british",
-      "hotels",
-      "hotels-belgravia",
-      "hotels-family",
-      "hotels-luxury"
-    ],
-    "sourceCount": 10,
-    "tierSpread": "B7 C3",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-belgravia": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-family": {
-        "sourceCount": 4,
-        "tierSpread": "B4",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-luxury": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
-      },
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
-      },
-      {
-        "tier": "B",
-        "source": "Fact London",
-        "url": "https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveller",
-        "url": "https://www.cntraveller.com/gallery/family-friendly-hotels-london"
-      },
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveler (US)",
-        "url": "https://www.cntraveler.com/gallery/best-family-friendly-hotels-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Independent",
-        "url": "https://www.independent.co.uk/travel/uk/england/london/best-family-friendly-hotels-london-kids-b2088837.html"
-      },
-      {
-        "tier": "B",
-        "source": "Glamour UK",
-        "url": "https://www.glamourmagazine.co.uk/gallery/best-family-friendly-london-hotels"
-      },
-      {
-        "tier": "C",
-        "source": "A Lady in London",
-        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
-      },
-      {
-        "tier": "C",
-        "source": "belgravialdn.com",
-        "url": "https://www.belgravialdn.com/stories/the-best-hotels-in-belgravia"
-      },
-      {
-        "tier": "C",
-        "source": "thefivestaredit.com",
-        "url": "https://www.thefivestaredit.com/post/the-best-london-hotels"
       }
     ]
   },
@@ -122735,68 +123693,6 @@
       }
     ]
   },
-  "intercontinentallondontheo2": {
-    "name": "InterContinental London - The O2",
-    "topics": [
-      "hotels-accessible",
-      "hotels-budget",
-      "hotels-family",
-      "hotels-views"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "C3 E1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-accessible": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-budget": {
-        "sourceCount": 1,
-        "tierSpread": "E1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-family": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-views": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "wheelchairtravel.org",
-        "url": "https://wheelchairtravel.org/london-hotels/"
-      },
-      {
-        "tier": "C",
-        "source": "Visit London",
-        "url": "https://www.visitlondon.com/where-to-stay/hotel/family-hotels-london"
-      },
-      {
-        "tier": "C",
-        "source": "juliasomething.com",
-        "url": "https://juliasomething.com/best-hotels-in-london-with-a-view/"
-      },
-      {
-        "tier": "E",
-        "source": "Reddit",
-        "url": "https://www.reddit.com/r/LondonTravel/comments/1n1iwpy/will_i_regret_staying_in_canary_wharf/",
-        "quote": "RedBarchetta1: 'We spent 4 days at the Intercontinental O2... riding the tube into London was super easy and much faster than I expected it to be.'"
-      }
-    ]
-  },
   "intercontinentallondonparklane": {
     "name": "InterContinental London Park Lane",
     "topics": [
@@ -123478,73 +124374,6 @@
       }
     ]
   },
-  "taj51buckinghamgatesuitesandresidences": {
-    "name": "Taj 51 Buckingham Gate Suites and Residences",
-    "topics": [
-      "hotels-accessible",
-      "hotels-family"
-    ],
-    "sourceCount": 8,
-    "tierSpread": "C8",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-accessible": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-family": {
-        "sourceCount": 7,
-        "tierSpread": "C7",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "blog.wheeltheworld.com",
-        "url": "https://blog.wheeltheworld.com/accessible-hotels-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/london-family-hotels"
-      },
-      {
-        "tier": "C",
-        "source": "Families Love Travel",
-        "url": "https://familieslovetravel.com/london-hotels-families/"
-      },
-      {
-        "tier": "C",
-        "source": "Kids Are A Trip",
-        "url": "https://kidsareatrip.com/the-best-london-family-hotels/"
-      },
-      {
-        "tier": "C",
-        "source": "Family Hotel Expert",
-        "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/"
-      },
-      {
-        "tier": "C",
-        "source": "Marcie in Mommyland",
-        "url": "https://www.marcieinmommyland.com/family-friendly-hotels-in-london-england/"
-      },
-      {
-        "tier": "C",
-        "source": "Travel Mad Mum",
-        "url": "https://travelmadmum.com/the-best-family-hotels-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Sleeps5",
-        "url": "https://sleeps5.com/destinations/british-isles/london/"
-      }
-    ]
-  },
   "pestanachelseabridgehotel": {
     "name": "Pestana Chelsea Bridge Hotel",
     "topics": [
@@ -123692,72 +124521,6 @@
         "tier": "B",
         "source": "Conde Nast Traveller",
         "url": "https://www.cntraveller.com/gallery/best-aparthotels-london"
-      }
-    ]
-  },
-  "chanceryrosewood": {
-    "name": "The Chancery Rosewood",
-    "topics": [
-      "hotels",
-      "hotels-aparthotel",
-      "hotels-luxury",
-      "hotels-mayfair"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-aparthotel": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-luxury": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-mayfair": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveller",
-        "url": "https://www.cntraveller.com/gallery/best-aparthotels-london"
-      },
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveler (US)",
-        "url": "https://www.cntraveler.com/gallery/best-hotels-in-mayfair-londons-chicest-corner"
-      },
-      {
-        "tier": "B",
-        "source": "House & Garden",
-        "url": "https://www.houseandgarden.co.uk/gallery/best-hotels-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "thefivestaredit.com",
-        "url": "https://www.thefivestaredit.com/post/the-best-london-hotels"
-      },
-      {
-        "tier": "C",
-        "source": "townandcountrymag.com",
-        "url": "https://www.townandcountrymag.com/leisure/travel-guide/a69034033/best-hotels-in-london-editors-picks/"
       }
     ]
   },
@@ -139398,108 +140161,6 @@
       }
     ]
   },
-  "rubensatthepalace": {
-    "name": "The Rubens at the Palace",
-    "topics": [
-      "hotels-budget",
-      "hotels-dog-friendly",
-      "hotels-family",
-      "hotels-westminster"
-    ],
-    "sourceCount": 12,
-    "tierSpread": "B2 C9 E1",
-    "tierCount": 3,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-budget": {
-        "sourceCount": 1,
-        "tierSpread": "E1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-dog-friendly": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-family": {
-        "sourceCount": 7,
-        "tierSpread": "B1 C6",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-westminster": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/londons-best-dog-friendly-hotels/"
-      },
-      {
-        "tier": "B",
-        "source": "Family Traveller",
-        "url": "https://familytraveller.com/holiday-destinations/uk/london/10-of-the-best-family-hotels-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "travellingking.com",
-        "url": "https://www.travellingking.com/dog-friendly-hotels-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Families Love Travel",
-        "url": "https://familieslovetravel.com/london-hotels-families/"
-      },
-      {
-        "tier": "C",
-        "source": "Kids Are A Trip",
-        "url": "https://kidsareatrip.com/the-best-london-family-hotels/"
-      },
-      {
-        "tier": "C",
-        "source": "Mummy Travels",
-        "url": "https://www.mummytravels.com/where-to-stay-in-london-with-kids/"
-      },
-      {
-        "tier": "C",
-        "source": "Family Hotel Expert",
-        "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/"
-      },
-      {
-        "tier": "C",
-        "source": "Travel Mad Mum",
-        "url": "https://travelmadmum.com/the-best-family-hotels-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Visit London",
-        "url": "https://www.visitlondon.com/where-to-stay/hotel/family-hotels-london"
-      },
-      {
-        "tier": "C",
-        "source": "seeninthecity.co.uk",
-        "url": "https://seeninthecity.co.uk/best-hotels-in-westminster/"
-      },
-      {
-        "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-westminster/"
-      },
-      {
-        "tier": "E",
-        "source": "Reddit",
-        "url": "https://www.reddit.com/r/LondonTravel/comments/1pirsk0/affordable_hotels_london/",
-        "quote": "letmereadstuff (list): 'Premier Inn, Rubens at the Palace, Locke at Broken Wharf (or any other of their properties), Native, Wilde, Citadines'."
-      }
-    ]
-  },
   "nativebrand": {
     "name": "Native (brand)",
     "topics": [
@@ -145207,43 +145868,6 @@
       }
     ]
   },
-  "royalhorseguards": {
-    "name": "The Royal Horseguards",
-    "topics": [
-      "hotels",
-      "hotels-covent-garden"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-covent-garden": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Sunny in London",
-        "url": "https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
-      },
-      {
-        "tier": "C",
-        "source": "Love and London",
-        "url": "https://loveandlondon.com/new-years-eve-hotels-london/"
-      }
-    ]
-  },
   "radissonbluhotel": {
     "name": "Radisson Blu Hotel",
     "topics": [
@@ -146340,31 +146964,6 @@
   },
   "wlondon": {
     "name": "W London",
-    "topics": [
-      "hotels-covent-garden"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-covent-garden": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Sunny in London",
-        "url": "https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
-      }
-    ]
-  },
-  "hotelcafroyal": {
-    "name": "Hotel Caf Royal",
     "topics": [
       "hotels-covent-garden"
     ],
@@ -147603,43 +148202,6 @@
       }
     ]
   },
-  "sheratongrandlondonparklane": {
-    "name": "Sheraton Grand London Park Lane",
-    "topics": [
-      "hotels-dog-friendly",
-      "hotels-family"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 E1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-dog-friendly": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-family": {
-        "sourceCount": 1,
-        "tierSpread": "E1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/londons-best-dog-friendly-hotels/"
-      },
-      {
-        "tier": "E",
-        "source": "Reddit",
-        "url": "https://www.reddit.com/r/marriott/comments/1cdwupa/london_hotel_recommendation_for_family/"
-      }
-    ]
-  },
   "banksidehotel": {
     "name": "Bankside Hotel",
     "topics": [
@@ -147674,43 +148236,6 @@
         "tier": "C",
         "source": "janicerohrssen.com",
         "url": "https://janicerohrssen.com/blog/where-to-stay-and-best-hotels-london-united-kingdom"
-      }
-    ]
-  },
-  "chesterfieldmayfair": {
-    "name": "The Chesterfield Mayfair",
-    "topics": [
-      "hotels",
-      "hotels-dog-friendly"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-dog-friendly": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/londons-best-dog-friendly-hotels/"
-      },
-      {
-        "tier": "C",
-        "source": "theblondeabroad.com",
-        "url": "https://www.theblondeabroad.com/best-hotels-to-stay-at-in-london/"
       }
     ]
   },
@@ -149026,60 +149551,6 @@
         "tier": "E",
         "source": "Reddit",
         "url": "https://www.reddit.com/r/travel/comments/16p1xmm/recommendations_for_hotels_in_london_with_kids/"
-      }
-    ]
-  },
-  "royalgardenhotelkensington": {
-    "name": "Royal Garden Hotel, Kensington",
-    "topics": [
-      "hotels-family",
-      "hotels-kensington"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C3",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-family": {
-        "sourceCount": 4,
-        "tierSpread": "B1 C3",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-kensington": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mumsnet",
-        "url": "https://www.mumsnet.com/articles/best-family-hotels-london",
-        "quote": "Best for babies and toddlers - deluxe rooms sleep two adults and two children under 12, cots available, interconnecting guaranteed."
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-kensington"
-      },
-      {
-        "tier": "C",
-        "source": "Kids Are A Trip",
-        "url": "https://kidsareatrip.com/the-best-london-family-hotels/",
-        "quote": "'Free Micro Scooters for kids and their parents to zip around Hyde Park, an afternoon tea with peanut butter and jelly sandwiches, and a flicks and food day.' - Katja, Globetotting."
-      },
-      {
-        "tier": "C",
-        "source": "Mummy Travels",
-        "url": "https://www.mummytravels.com/where-to-stay-in-london-with-kids/"
-      },
-      {
-        "tier": "C",
-        "source": "Family Hotel Expert",
-        "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/"
       }
     ]
   },
@@ -154083,31 +154554,6 @@
       }
     ]
   },
-  "staffordlondon": {
-    "name": "The Stafford London",
-    "topics": [
-      "hotels-luxury"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-luxury": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/"
-      }
-    ]
-  },
   "lanesboroughlondon": {
     "name": "The Lanesborough London",
     "topics": [
@@ -156667,31 +157113,6 @@
         "tier": "B",
         "source": "Conde Nast Traveler (US)",
         "url": "https://www.cntraveler.com/gallery/best-hotels-in-mayfair-londons-chicest-corner"
-      }
-    ]
-  },
-  "beaumontmayfair": {
-    "name": "The Beaumont Mayfair",
-    "topics": [
-      "hotels-mayfair"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-mayfair": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveller",
-        "url": "https://www.cntraveller.com/gallery/best-hotels-in-mayfair-london"
       }
     ]
   },

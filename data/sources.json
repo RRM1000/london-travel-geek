@@ -2059,6 +2059,16 @@
       "tier": "C",
       "name": "The Tab",
       "note": "Independent youth/student-culture digital media, London-specific coverage. Registered 16 Sep 2026."
+    },
+    "laliste.com": {
+      "tier": "A",
+      "name": "La Liste",
+      "note": "Paris-based global guide. Its Pastry Special Awards run annually with a year on them and name a single laureate per category; the 2026 World's Best Afternoon Tea Award went to Jacqueline at The Chancery Rosewood. Awards are frequently relayed by Time Out and Forbes - file the award here, not under the outlet that reported it."
+    },
+    "afternoontea.co.uk": {
+      "tier": "A",
+      "name": "Afternoon Tea Awards",
+      "note": "CONFLICT ON RECORD: afternoontea.co.uk is a commercial directory that sells vouchers and paid listings for the venues it judges, and it sponsors the award it reports. Tiered A because the judging is real and dated - an independent panel, published criteria covering booking to bill, and judge quotes per winner - but the commercial interest is why this note exists. UK-WIDE: scope to London before counting (2026 gave 28 Awards of Excellence, 20 of them London). Its results page prints the Excellence list twice and the two lists disagree; the prose list carries the attribution sentence and is the one to record."
     }
   },
   "excludedWhy": {

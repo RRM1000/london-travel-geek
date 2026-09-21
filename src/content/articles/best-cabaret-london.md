@@ -94,7 +94,7 @@ The building is owned collectively by the original working men's club members, a
 
 None of that saves it. Listing and ACV status slow a sale; they do not stop one.
 
-The night itself is small, sweaty and standing, built on bills of acts rather than one show, and it has been the spiritual home of British alternative burlesque and drag for twenty years. **The what's-on page lists advance and door prices but the figures did not render**, so go in expecting to pay on the door without knowing the number first. The site was also showing a **summer closure from 30 August to 15 September**, with several September dates marked "event info coming soon" — check the calendar before travelling.
+The night itself is small, sweaty and standing, built on bills of acts rather than one show, and it has been the spiritual home of British alternative burlesque and drag for twenty years. **The what's-on page says there are advance and door prices but publishes neither**, so go in expecting to pay on the door without knowing the number first. The site was also showing a **summer closure from 30 August to 15 September**, with several September dates marked "event info coming soon" — check the calendar before travelling.
 
 ---
 
@@ -112,7 +112,7 @@ It is an Art Deco basement under Brasserie Zédel, seated at small tables, with 
 
 **This is a listening room, not a party.** If you want to talk through the act, go somewhere else.
 
-**On price, be warned that the venue publishes no list.** The Black Cat Cabaret is £37.50 full price through the venue's own ticketing system, and that is the only figure obtainable from an official source; the events page on the brasserie site was showing "we're currently experiencing issues with our Crazy Coqs event system," and prices appear only once you reach the ticketing subdomain. **Age restrictions exist but are not published** — the site asks you to email. The room is wheelchair accessible and asks for advance notice, with seating requests taken by email.
+**On price, be warned that the venue publishes no list.** The Black Cat Cabaret is £37.50 full price through the venue's own ticketing system, and that is the only figure it states anywhere. **Age restrictions exist but are not published** — the site asks you to email. The room is wheelchair accessible and asks for advance notice, with seating requests taken by email.
 
 ### Underbelly Boulevard Soho
 
@@ -312,7 +312,7 @@ The current show is **Roxie Rocks Chicago, running 24 September to 30 January 20
 
 **Pricing runs further than anything else here.** The Scarlet Lotus is **£50 for a Silver drinks table, £89 Platinum with three courses, £149 Diamond with five, and £225 for a seven-course Chef's Table with a four-glass wine flight.** The Halloween Cabaret on 31 October is £49, £69 and £119 for front-row VIP. Santa's Secret Cabaret runs in November at £69, £99, £180 and **£360 for the Chef's Table**, then December at £69, £99 and £139, with roaming canapés addable at £40 a head.
 
-**Two honest warnings.** The collective's own website **states no address anywhere** — its listings variously say Mayfair, "hidden in the heart of Soho" and "West End Venue, Central London." The address above is confirmed separately and is the one to use. And **the age policy is unresolved**: the FAQ has a suitability question whose answer does not render.
+**Two honest warnings.** The collective's own website **states no address anywhere** — its listings variously say Mayfair, "hidden in the heart of Soho" and "West End Venue, Central London." The address above is confirmed separately and is the one to use. And **the age policy is not published** — ask when you book.
 
 ### The Lost Estate: 58th Street
 

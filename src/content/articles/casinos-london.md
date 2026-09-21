@@ -404,7 +404,7 @@ There is a bar doing cocktails and small bites, and a dining room for members an
 The section other guides leave out, and the reason people still turn up at dark doors on Curzon Street.
 
 * **Crockfords, 30 Curzon Street** — **closed permanently.** Its operator's own page carries the words "Now Permanently Closed." It had traded since the 1820s, which made it Britain's oldest casino.
-* **The Ritz Club, 150 Piccadilly** — **closed.** The casino in the hotel's basement ballroom shut in 2020 and never reopened. The Ritz's own website no longer carries a page for it.
+* **The Ritz Club, 150 Piccadilly** — **closed.** The casino in the hotel's basement ballroom shut in 2020 and never reopened.
 * **The Clermont Club, 44 Berkeley Square** — **closed.** The Georgian townhouse club that gave Mayfair its gambling reputation shut in 2018, reopened briefly, and closed again.
 
 **Napoleons has no London venue**, despite frequently appearing in London casino lists — its own site covers Bradford, Hull, Leeds, Sheffield and Manchester only.

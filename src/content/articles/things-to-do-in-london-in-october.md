@@ -293,6 +293,8 @@ A few things worth knowing about now, even though none of them happen in October
 
 **Hyde Park Winter Wonderland** runs **19 November 2026 to 3 January 2027**, and booking is already open: advance entry is **£1** for off-peak slots and **£8.25** at peak, with everything inside — rides, the ice rink, the circus — charged separately. Full prices, gates and what's new for 2026 are in our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/).
 
+**The EFG London Jazz Festival** runs **13 to 22 November 2026** across 82 venues, from the Royal Festival Hall to basement clubs in Dalston and Chelsea. Nineteen of its concerts are free and tickets otherwise start at £5, but eleven shows had already sold out by late September, so it is worth booking before you arrive. Dates, prices, the free programme and how to get into a full show are in our [London Jazz Festival guide](/articles/london-jazz-festival/).
+
 **Christmas in London** starts earlier than most people expect: Trafalgar Square's market opens on **6 November** and its Norway spruce is lit on **3 December**. Our [Christmas in London guide](/articles/christmas-in-london/) tracks the other markets and light switch-ons as their dates are announced, and what has quietly stopped running.
 
 **November is the big month for international sport.** England's men play three Nations Championship matches at Allianz Stadium, Twickenham: **Australia on Sunday 8 November**, **Japan on Saturday 14 November** and **New Zealand on Saturday 21 November**, with tickets from £79, £51 and £103 respectively. England's footballers play **Croatia at Wembley on Thursday 12 November**.

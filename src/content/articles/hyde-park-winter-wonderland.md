@@ -3,7 +3,8 @@ title: "Hyde Park Winter Wonderland: Every Price, Ride and Show for 2026"
 seoTitle: "Hyde Park Winter Wonderland 2026: Prices & Tickets"
 description: "A complete guide to Hyde Park Winter Wonderland 2026-27: every attraction price, the £1 tickets, the new K-Pop circus, free live music, and the quietest times to go."
 publishedAt: 2026-09-01
-updatedAt: 2026-09-01
+updatedAt: 2026-09-20
+reviewBy: 2026-11-01
 sites:
   - london
 canonicalSite: london
@@ -268,7 +269,7 @@ Every band, DJ and acoustic set on every stage is included in your entry ticket.
 
 **Thirty-one acts are booked for the season**, including Soul Town, The Chaps, Das Brass, TFI Britpop, The Disco Flames, Nova Soul, The Santa Babies and a roster of resident DJs. The Bavarian Village names its own regulars: Frontal – Party Pur, Zac Bauman "The Showman", Luigi "The Machine" and Kirstie Loren.
 
-> ⚠️ **The 2026-27 music schedule has not been published.** All 31 performer pages on the official site are empty stubs with no dates, times or venues, and the site's own show calendar is still headed "2025". The acts are confirmed; when each plays is not. The same applies to the **Winter Wonderland Parade** — it runs on selected days through Santa Land and lasts an hour, but the dates currently listed on the official site are last year's, and three of them fall before this year's opening day.
+> ⚠️ **The 2026-27 music schedule has not been published.** The official site names every act but publishes no date, time or stage for any of them. The acts are confirmed; when each plays is not. The same applies to the **Winter Wonderland Parade** — it runs on selected days through Santa Land and lasts an hour, but which days has not been announced.
 
 ### And also free
 
@@ -424,7 +425,7 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 
 **On the commercial side:** the Coaster Pass, Explorer Pass, Show Town Spectacular package and standalone Ride & Game Credit are all new, booking fees are now inclusive, and the two top table packages each gained a fourth drink per person.
 
-> ⚠️ **A warning about the official site.** Several live pages are still carrying 2025 information: the dates section of the Getting Here page, the Show Town zone page (which still lists Zippos and Cirque Berserk), the show calendar, the parade dates, and four FAQ answers with out-of-date pass prices. The **tickets guide** and the individual **attraction pages** are the current ones. If a figure you find elsewhere disagrees with this guide, check which page it came from.
+> ⚠️ **Parts of the official site still show last year's event.** As of 21 September 2026, the Show Town zone page still lists Zippos Christmas Circus and Cirque Berserk: Ignite!, neither of which is running this year. The help centre prices the Santa Land Unlimited Ride Pass at £25, which was last year's price; it is £27.50. The **tickets guide**, the **packages and passes page** and the individual **attraction pages** carry this year's figures. If a price you find elsewhere disagrees with this guide, check which page it came from.
 
 ![A hand holding a branded Hyde Park Winter Wonderland hot drinks cup, with the observation wheel out of focus behind](../../assets/articles/hyde-park-winter-wonderland/branded-cup.jpg)
 
@@ -437,3 +438,4 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 - 🍽️ **[The Best Street Food in London](/articles/best-street-food-london/)** — where the Winter Wonderland traders go the rest of the year
 - 🚇 **[Getting Around London](/articles/getting-around-london-transport-guide/)** — including what runs on Christmas Day, which is nothing
 - 📅 **[Best Time to Visit London](/articles/best-time-to-visit-london/)** — where November and December sit against the rest of the year
+- 🎺 **[EFG London Jazz Festival 2026](/articles/london-jazz-festival/)** — 13–22 November, so its closing weekend is Winter Wonderland's opening one, and 19 of its concerts are free

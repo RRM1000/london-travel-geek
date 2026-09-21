@@ -226,3 +226,4 @@ Evensong is free to attend, and open to people of all faiths and none.
 - 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — an honest mathematical analysis of when the pass pays for itself and when it loses money.
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — free museums, off-peak transport fares, and cheap dining across Zone 1.
 - 🚤 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** — scenic boat travel from Westminster Millennium Pier to the Tower and Greenwich.
+- ♿ **[Step-Free London](/articles/step-free-london/)** — the Abbey's step-free doors and the parts of the route with steps, plus free companion entry.

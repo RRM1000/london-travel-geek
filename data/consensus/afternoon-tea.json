@@ -1,7 +1,7 @@
 {
   "cuisine": "afternoon-tea",
   "note": "SCOPE. Afternoon tea served as a sitting, with a stand. Hotel tea rooms, department-store salons and the historic claims. NOT cafes that happen to sell scones, and NOT cream teas.",
-  "recorded": "2026-08-30",
+  "recorded": "2026-09-21",
   "sources": [
     {
       "name": "Olive Magazine",
@@ -195,6 +195,223 @@
         "The Foyer & Reading Room at Claridge's": "Claridge's is a five-star hotel in the heart of Mayfair that serves one of the very best afternoon teas in London in The Foyer & Reading Room."
       },
       "note": "Added 2026-08-30. The corpus had six publications for a topic with this much published coverage, and this is the only one of the seven that reviews rather than lists."
+    },
+    {
+      "name": "La Liste - Pastry Special Awards 2026, World's Best Afternoon Tea Award",
+      "url": "https://www.laliste.com/awards/worlds-best-afternoon-tea-award-pastry-special-awards-2026",
+      "scope": "afternoon-tea",
+      "tier": "A",
+      "names": [
+        "The Chancery Rosewood"
+      ],
+      "quotes": {
+        "The Chancery Rosewood": "WINNER, World's Best Afternoon Tea Award, La Liste Pastry Special Awards 2026. La Liste's own award page names the laureate as 'Jacqueline At The Chancery Rosewood', London, England, against a criterion of an 'exemplary afternoon tea experience, whether traditional or contemporary concept, with outstanding service and location'. Recorded under the hotel per theCountingProblem. Time Out reported this result on 21 June 2026 - that report is SYNDICATION and is NOT counted as a separate source."
+      },
+      "ranked": true,
+      "recorded": "2026-09-21",
+      "note": "Verified on La Liste's own award page, not from the Time Out report. Single-laureate category, so one name."
+    },
+    {
+      "name": "Afternoon Tea Awards 2026 - London winners",
+      "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/",
+      "scope": "afternoon-tea",
+      "tier": "A",
+      "names": [
+        "Raffles London at The OWO",
+        "Jumeirah Carlton Tower",
+        "The Beaumont Mayfair",
+        "Brown's Hotel",
+        "The Chesterfield Mayfair",
+        "Sheraton Grand London Park Lane",
+        "Hotel Cafe Royal",
+        "InterContinental London - The O2",
+        "The Chancery Rosewood",
+        "L'Oscar London",
+        "Sofitel London St James",
+        "The Milestone Hotel",
+        "Rosewood London",
+        "Royal Garden Hotel",
+        "The Rubens at the Palace",
+        "Taj 51 Buckingham Gate",
+        "The Stafford London",
+        "Grosvenor House",
+        "Park Corner Brasserie",
+        "Twenty8 NoMad",
+        "The Lanesborough",
+        "Theatre Royal Drury Lane"
+      ],
+      "quotes": {
+        "Raffles London at The OWO": "WINNER, Best Themed Afternoon Tea 2026. Judges: \"The 'Secrets & Spies' concept was well communicated and consistently carried through the experience, from the menu design to the presentation of the food. Particularly noteworthy were the chocolate pastries.\" The 2026 ceremony was held here.",
+        "Jumeirah Carlton Tower": "WINNER, Best Contemporary Afternoon Tea 2026. Judges: \"This is how afternoon tea should be. I don't think I've ever experienced such perfect service. Even with other diners in the room, it felt like private dining.\"",
+        "Hotel Cafe Royal": "Award of Excellence 2026.",
+        "The Chancery Rosewood": "Award of Excellence 2026, listed in the directory panel as Jacqueline at The Chancery Rosewood. Also holds La Liste's 2026 World's Best Afternoon Tea Award - two independent bodies, counted separately.",
+        "Taj 51 Buckingham Gate": "Award of Excellence 2026, listed as Kona at Taj 51.",
+        "Grosvenor House": "Award of Excellence 2026, listed as Park Room at Grosvenor House London.",
+        "The Stafford London": "Award of Excellence 2026, listed as Michael Caines at The Stafford London.",
+        "Rosewood London": "Award of Excellence 2026, listed as Mirror Room at Rosewood London.",
+        "Royal Garden Hotel": "Award of Excellence 2026, listed as Origin Kensington at The Royal Garden Hotel.",
+        "Sofitel London St James": "Award of Excellence 2026, listed as The Rose Lounge at Sofitel London St James.",
+        "Theatre Royal Drury Lane": "Award of Excellence 2026, listed in the directory panel as The Grand Saloon at the Lane.",
+        "Park Corner Brasserie": "Award of Excellence 2026, at the London Hilton on Park Lane."
+      },
+      "ranked": false,
+      "recorded": "2026-09-21",
+      "note": "SCOPED TO LONDON (trap 12). The award is UK-wide: 3 category winners plus 28 Awards of Excellence. Excluded as outside London: The Balmoral Hotel Edinburgh (Best Traditional winner), Coworth Park Berkshire, Roseate Villa Bath, Boringdon Hall Devon, The Rex Manchester, King Street Townhouse Manchester, Lanelay Hall South Wales, Ugly Butterfly Cornwall, Great Fosters Surrey. 20 London Excellence + 2 London category winners = 22 recorded; 20 London + 8 non-London = the 28 the page states. DISCREPANCY UNRESOLVED: the page prints the Excellence list twice and they disagree - the prose list (recorded here) has Twenty8 NoMad and The Lanesborough; the collapsible directory panel has The Landmark London and The Langham instead. Flagged to Rob, not merged. CONFLICT: afternoontea.co.uk sponsors this award and sells vouchers and listings for the venues it judges - see data/sources.json."
+    },
+    {
+      "name": "Insider Food (YouTube)",
+      "url": "https://www.youtube.com/@InsiderFood",
+      "scope": "afternoon-tea",
+      "tier": "D",
+      "names": [
+        "Hotel Cafe Royal",
+        "The Swan at the Globe",
+        "Brigit's Bakery"
+      ],
+      "quotes": {
+        "Hotel Cafe Royal": "Chapter marker at 00:00 of 'Finding The Best Afternoon Tea In London' (1.09M views). Names taken from the video's own chapter list, not the transcript.",
+        "The Swan at the Globe": "Chapter marker at 12:39, given as 'Swan London'. Merged to the Globe's restaurant on judgement - FLAGGED, not certain.",
+        "Brigit's Bakery": "Chapter marker at 24:56. The Routemaster bus tea."
+      },
+      "ranked": false,
+      "recorded": "2026-09-21",
+      "note": "One record per channel. No gifting or hosting disclosed."
+    },
+    {
+      "name": "Joe Blogs (YouTube, @JoeBlogsFood and @joeblogs)",
+      "url": "https://www.youtube.com/@JoeBlogsFood",
+      "scope": "afternoon-tea",
+      "tier": "D",
+      "names": [
+        "The Chancery Rosewood",
+        "The Royal Horseguards",
+        "Raffles London at The OWO",
+        "The Ritz"
+      ],
+      "quotes": {
+        "The Chancery Rosewood": "Reviewed 13 Sep 2026 as La Liste's 2026 winner: 'a tea sommelier, a dedicated preparation room and a collection of more than 120 teas'. A visit that MENTIONS the award, so it counts as an opinion; the award itself is filed under laliste.com.",
+        "The Royal Horseguards": "Reviewed Aug 2026. 'At GBP 60 per person, it sits below many of the premium afternoon teas now charging GBP 80, GBP 90 or even more.' Served in The Green Parlour.",
+        "Raffles London at The OWO": "Reviewed Jun 2026. The Operation Mincemeat afternoon tea: 'Every cake and pastry has been carefully themed around the story.'",
+        "The Ritz": "Reviewed Feb 2026 in the Palm Court. Jacket and tie required for men; no professional cameras allowed inside."
+      },
+      "ranked": false,
+      "recorded": "2026-09-21",
+      "note": "TWO CHANNELS, ONE CREATOR, MERGED BY HAND per the cross-platform rule: @JoeBlogsFood and @joeblogs are the same person - the Ritz video on @joeblogs carries #JoeBlogsFood and #joeblogstravel. hostOf() cannot see this."
+    },
+    {
+      "name": "Albertine Sarah (YouTube)",
+      "url": "https://www.youtube.com/@AlbertineSarah",
+      "scope": "afternoon-tea",
+      "tier": "D",
+      "names": [
+        "The Promenade at The Dorchester",
+        "Four Seasons Hotel London at Tower Bridge: Rotunda",
+        "Sanderson London",
+        "Claridge's",
+        "Sketch"
+      ],
+      "quotes": {
+        "The Promenade at The Dorchester": "Named in her ranked round-up 'BEST Afternoon Teas in London || My Honest Rankings', which sorts by category - best luxury, best budget, best themed, best scones, best tea.",
+        "Sanderson London": "The Mad Hatter's tea: 'colour-changing water to potion-like drinks and eat me treats'. Warns the terrace pigeons are bold - sit indoors.",
+        "Claridge's": "Reviewed Apr 2026 AGAINST the consensus: 'it's often called the best in London... I'm not sure it fully lived up to expectations.'",
+        "Sketch": "Reviewed Aug 2025 at GBP 85: 'at that price point, I've had just-as-memorable Afternoon Teas in London for less.'"
+      },
+      "ranked": false,
+      "recorded": "2026-09-21",
+      "note": "Runs a dedicated afternoon tea review series. No gifting disclosed on any of the four videos read."
+    },
+    {
+      "name": "Harrison Webb (YouTube)",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "afternoon-tea",
+      "tier": "D",
+      "names": [
+        "Hotel Cafe Royal",
+        "Slug & Lettuce Richmond"
+      ],
+      "quotes": {
+        "Hotel Cafe Royal": "'$19 vs $395 Afternoon Tea in London' (667k views): 'the iconic Cafe Royal Hotel, where their luxury afternoon tea starts at GBP 85 per person, GBP 95 with a glass of N.V. Veuve Clicquot Brut, or GBP 135 with a glass of Dom Perignon 2013.'",
+        "Slug & Lettuce Richmond": "The cheap end of the same video: 'a classic afternoon tea at GBP 15 per person, the Tipsy option from GBP 21 with two glasses of prosecco'."
+      },
+      "ranked": false,
+      "recorded": "2026-09-21",
+      "note": "His 'I Tried Every Cup of Tea in London' was read and EXCLUDED as out of scope - cups of tea in cafes, not afternoon tea with a stand."
+    },
+    {
+      "name": "Hannah Ricketts (YouTube)",
+      "url": "https://www.youtube.com/@HannahRicketts",
+      "scope": "afternoon-tea",
+      "tier": "D",
+      "names": [
+        "The Ritz",
+        "Harrods"
+      ],
+      "quotes": {
+        "The Ritz": "'The Ritz Afternoon Tea | Inside London's Most Luxury Hotel', 1.99M views - the most-watched single afternoon tea review found in this pass.",
+        "Harrods": "The newly refurbished Georgian Restaurant, GBP 75, reviewed Dec 2024."
+      },
+      "ranked": false,
+      "recorded": "2026-09-21",
+      "note": "Runs a dedicated afternoon tea playlist."
+    },
+    {
+      "name": "Love and London (YouTube)",
+      "url": "https://www.youtube.com/@loveandlondon",
+      "scope": "afternoon-tea",
+      "tier": "D",
+      "names": [
+        "The Wallace Collection",
+        "The Ivy Chelsea Garden"
+      ],
+      "quotes": {
+        "The Wallace Collection": "Named in 'Amazing afternoon teas in London - Cheap vs. expensive'. Self-funded.",
+        "The Ivy Chelsea Garden": "Same video, self-funded."
+      },
+      "ranked": false,
+      "recorded": "2026-09-21",
+      "note": "PARTIAL DECLINE. The same video's description discloses 'TING at Shangri-La hotel (press visit)' and 'Sanderson Hotel (press visit)'. Those two venues are NOT counted from this source - a hosted visit is the venue's marketing wearing a creator's face. The two self-funded venues stand."
+    },
+    {
+      "name": "Eater - Clocking In (YouTube)",
+      "url": "https://www.eater.com/",
+      "scope": "afternoon-tea",
+      "tier": "B",
+      "names": [
+        "Claridge's"
+      ],
+      "quotes": {
+        "Claridge's": "'How a 5-Star London Hotel Prepares the Most Iconic Afternoon Tea Service', 3.05M views - a kitchen documentary following executive pastry chef Thibault Hauchard rather than a ranking."
+      },
+      "ranked": false,
+      "recorded": "2026-09-21",
+      "note": "TIER B, NOT D. The platform is not the publisher: a masthead's YouTube channel is the masthead. Filed under eater.com, which is not otherwise in this corpus."
+    }
+  ],
+  "declined": [
+    {
+      "source": "RestroSpot (YouTube)",
+      "url": "https://youtube.com/@RestroSpot",
+      "why": "Content farm. Its own description says 'Footage, music, image, and graphics used in the video belong to their respective owners' under a fair-use notice - a compilation of other people's footage with no visit behind it. It names a clean-looking list (The Ritz, Claridge's, Fortnum & Mason), which is exactly how this failure hides."
+    },
+    {
+      "source": "Your Guides Abroad (YouTube)",
+      "url": "https://www.youtube.com/@YourGuidesAbroad",
+      "why": "No venue named in the description or the chapters - the chapters are price tiers ('Luxury Afternoon Tea', 'Cheapest Afternoon Tea'). Recording it would inflate the source count while contributing nothing (trap 8). It does state 'We have no affiliation with these afternoon tea restaurants.'"
+    },
+    {
+      "source": "Dallas In Wanderland (YouTube)",
+      "url": "https://www.youtube.com/@DallasInWanderland",
+      "why": "No venue named in the description or chapters. 3,200 views."
+    },
+    {
+      "source": "Conde Nast Traveller (YouTube)",
+      "url": "https://www.youtube.com/@cntraveller",
+      "why": "No venue named in the description, and the video is from January 2020 - six years old, well past the 36-month recency flag."
+    },
+    {
+      "source": "Love and London - TING at Shangri-La and Sanderson Hotel",
+      "url": "https://www.youtube.com/@loveandlondon",
+      "why": "PRESS VISITS, disclosed in the creator's own description as '(press visit)' beside both venues. Declined per the paid-placement rule; the same video's two self-funded venues are recorded."
     }
   ]
 }

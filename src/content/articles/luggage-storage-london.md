@@ -3,6 +3,7 @@ title: "Luggage Storage in London: Left Luggage at Every Station, Airport and St
 seoTitle: "Luggage Storage in London: Stations, Apps and Prices"
 description: "Which London stations and airports have a staffed left-luggage desk, what Stasher, Bounce and the other storage apps charge per bag, and which attractions won't let a suitcase through the door — prices, hours and rules from each operator's own site, checked 17 September 2026."
 publishedAt: 2026-09-17
+updatedAt: 2026-09-21
 reviewBy: 2026-10-31
 sites:
   - london
@@ -22,7 +23,7 @@ faq:
   - q: "How much does left luggage cost at a London station?"
     a: "£10 for up to 3 hours, £15 for up to 24 hours, £27.50 for up to 48 hours and £40 for up to 72 hours, per item, at every Excess Baggage Company desk except Victoria, which is cheaper: £10 for up to 6 hours, £15 for 24, £25 for 48 and £35 for 72. Both scales drop to a lower daily rate after that — £12.50 a day after 72 hours (£10 at Victoria), falling to £10 a day after a week."
   - q: "Is there left luggage at Heathrow, Gatwick, Stansted and Luton?"
-    a: "Yes, at all four, run by Excess Baggage Company on the same tariff as the stations. Heathrow's own site publishes 06:00–22:00; Gatwick's North and South Terminal desks, both before security, run 04:00–22:00; Stansted's Arrivals Hall desk runs 06:00–22:00; and Luton's check-in-area desk is open daily, 04:00–22:00."
+    a: "Yes, at all four, run by Excess Baggage Company on the same tariff as the stations. Heathrow has ten desks across its four terminals — its own shop directory lists six in check-in, open 05:00–21:00, and one in each terminal's arrivals hall, open 06:00–22:00 except Terminal 3's, which runs 05:00–21:00; Gatwick's North and South Terminal desks, both before security, run 04:00–22:00; Stansted's Arrivals Hall desk runs 06:00–22:00; and Luton's check-in-area desk is open daily, 04:00–22:00."
   - q: "Can you store luggage at London City or Southend airport?"
     a: "No. Neither London City nor Southend has a left-luggage service in the terminal, so book a storage app with a shop or hotel nearby instead."
   - q: "Are luggage storage apps like Stasher and Bounce insured?"
@@ -33,6 +34,8 @@ faq:
     a: "The Tower of London refuses all suitcases, large bags and rolling luggage outright and has no cloakroom, per Historic Royal Palaces' own site. The Houses of Parliament bans any bag over 60cm x 40cm and has no cloakroom either. Wembley Stadium and The O2 both cap bags at A4 size with no exceptions for folding a bigger one down; The O2 sells paid bag storage outside its main entrance from £10, and Wembley has none on site."
   - q: "Why do London stations use a staffed desk instead of coin lockers?"
     a: "Security screening. Excess Baggage Company's own FAQ says every bag it accepts is screened as required under the National Rail Security Programme, which a self-service locker can't do. Gatwick Airport's own site gives the same reason for its own terminals: due to security reasons, it says, there are no lockers available."
+heroImage: "../../assets/articles/luggage-storage-london/kings-cross-station-concourse.jpg"
+heroImageAlt: "The western concourse at King's Cross under its fanned white lattice roof, departure boards along the left-hand wall and travellers crossing the floor with cases"
 ---
 
 Nine London terminals have a staffed left-luggage desk. Four of the six airports do too. Two attractions on every first-time itinerary — the Tower of London and the Houses of Parliament — will turn a suitcase away at the door with nowhere on site to leave it. None of that is obvious until the queue is in front of you, so here is where an item actually goes, what it costs, and who is holding it, sourced to the operator that runs each desk.
@@ -64,11 +67,16 @@ Excess Baggage Company gives a **20% discount on 15 or more items**, and its own
 
 ## Airports: four with a desk, two without
 
-**Heathrow, Gatwick, Stansted and Luton** all have a left-luggage desk, and all four are run by **Excess Baggage Company** on the **same tariff as the stations** (£10 up to 3 hours, up to £40 for 72). **London City and Southend have neither a desk nor a locker.**
+**Heathrow, Gatwick, Stansted and Luton** all have a left-luggage desk, and all four are run by **Excess Baggage Company** on the **same tariff as the stations** (£10 up to 3 hours, up to £40 for 72). **Heathrow has ten of them**, six in check-in and one in each terminal's arrivals hall. **London City and Southend have neither a desk nor a locker.**
+
+![A Heathrow arrivals baggage reclaim hall, carousel 10 under a ceiling of white discs, with the Customs and Border Force channel ahead and passengers walking out towards the exit](../../assets/articles/luggage-storage-london/heathrow-terminal-baggage.jpg)
+
+*Heathrow arrivals. Every terminal has a left-luggage desk out here as well as in check-in — a separate counter from the reclaim belt, on the same tariff as the station desks.*
 
 | Airport | Location | Hours |
 | --- | --- | --- |
-| Heathrow (all terminals) | Excess Baggage Company | 06:00–22:00 |
+| Heathrow, check-in | T2 zones A and C, T3 zone E, T4, T5 zones B and F | 05:00–21:00 |
+| Heathrow, arrivals | One desk in each of T2, T3, T4 and T5 | 06:00–22:00, except T3 at 05:00–21:00 |
 | Gatwick North Terminal | Level 1, before security, next to Costa Coffee | 04:00–22:00 |
 | Gatwick South Terminal | Level 2, before security, behind check-in zone E | 04:00–22:00 |
 | Stansted | Arrivals Hall | 06:00–22:00 |
@@ -114,6 +122,10 @@ Four big venues publish bag limits that turn a suitcase away at the door.
 | The O2 | One bag per person, A4 or a standard handbag | Paid bag store outside the main entrance, £10 (free for American Express cardholders) |
 
 **The Tower of London's own FAQ is unambiguous**: "Visitors must always keep their belongings with them. No left luggage or bag storage facilities are available. Suitcases, large bags, and any rolling luggage will not be permitted inside the Tower." **The Houses of Parliament's own site** is just as direct: "There are no cloakrooms, so you need to keep your belongings with you at all times. Luggage larger than 60cm x 40cm is not allowed." If you are carrying a case, book a storage app near the attraction rather than a desk at the station you arrived at.
+
+![Visitors queueing at the Tower of London's entrance beside the Middle Tower, with a bag-check marquee and a Yeoman Warder at the gate](../../assets/articles/luggage-storage-london/tower-of-london-entrance-gate.jpg)
+
+*The bag check at the Tower's entrance is where a suitcase stops. There is no cloakroom on the other side of it.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="luggage-storage-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

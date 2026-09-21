@@ -2,8 +2,8 @@
   "topic": "afternoon-tea",
   "article": "src/content/articles/best-afternoon-tea-london.md",
   "headTerm": "Afternoon Tea",
-  "status": "re-extracted 2026-08-30; five dead records removed, one source added, 45 aliases",
-  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records why this topic is the hardest on the site to count.",
+  "status": "awards and video tier added 2026-09-21; 16 sources, 142 citations, 82 tea rooms, 31 on 2+ domains, 22 carrying a dated award",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records why this topic is the hardest on the site to count. It is no longer true that the topic has no judged source: as of 2026-09-21 it has two.",
   "awardBodies": [],
   "theCountingProblem": "HALF THE SOURCES NAME THE TEA ROOM AND HALF NAME THE HOTEL. Time Out writes 'The Palm Court at The Ritz' and 'Diamond Jubilee Tea Salon at Fortnum & Mason'; Olive writes 'The Ritz' and 'Fortnum & Mason'. Unmerged, the two most famous afternoon teas in London read as four weakly-supported venues. 45 aliases were needed and the count on 2+ went from 6 to 23. The canonical name is the one a reader books under, which is the hotel.",
   "editorialLists": [
@@ -21,8 +21,18 @@
       "ranked": false,
       "note": "ADDED 2026-08-30. The corpus had six publications for a topic with this much published coverage; this is the seventh, and the only one of them that reviews rather than lists."
     },
-    { "name": "Olive Magazine", "domain": "olivemagazine.com", "tier": "B", "ranked": false },
-    { "name": "LuxLife", "domain": "luxlifelondon.com", "tier": "C", "ranked": false },
+    {
+      "name": "Olive Magazine",
+      "domain": "olivemagazine.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "LuxLife",
+      "domain": "luxlifelondon.com",
+      "tier": "C",
+      "ranked": false
+    },
     {
       "name": "Candace Abroad",
       "domain": "candaceabroad.com",
@@ -30,8 +40,18 @@
       "ranked": false,
       "note": "Writes about doing this affordably, which no masthead here does."
     },
-    { "name": "Travels with Louise", "domain": "travelswithlouise.com", "tier": "C", "ranked": false },
-    { "name": "Resident", "domain": "resident.com", "tier": "C", "ranked": false }
+    {
+      "name": "Travels with Louise",
+      "domain": "travelswithlouise.com",
+      "tier": "C",
+      "ranked": false
+    },
+    {
+      "name": "Resident",
+      "domain": "resident.com",
+      "tier": "C",
+      "ranked": false
+    }
   ],
   "removedSources": [
     "Forbes - 51 captured names, EVERY ONE of them Forbes' own navigation ('Breaking News', 'White House Watch', 'Forbes 400', 'AI', 'Gaming', 'Under 30'). Zero venues. The URL is now 403 and forbes.com has been added to blocked.permanent403.",
@@ -42,14 +62,17 @@
     "Time Out (quirkiest) - an identical name list to the main Time Out page."
   ],
   "knownGaps": [
-    "NO AWARD AND NO INSPECTORATE. Nothing in this topic has been judged by anybody, and there is no tier-A source at all - which is true of no other food topic on this site.",
-    "The article covers 22 tea rooms and the corpus reaches about half of them. Nine carry no citation, and each is marked 'named by no source in this corpus' in the article rather than quietly dropped. The verifier checks that absence is still true, because it goes stale the moment a source is added.",
-    "NO VIDEO TIER and NO COMMUNITY TIER."
+    "TIER E (community) IS STILL MISSING. Reddit cannot be collected in this environment; any thread has to come from Rob by hand.",
+    "The two award bodies were only added on 2026-09-21 and both are annual - La Liste's Pastry Special Awards and the Afternoon Tea Awards. Re-read both before the next pass; the 2027 rounds will move these counts.",
+    "The Afternoon Tea Awards results page prints its Award of Excellence list TWICE and the two disagree. The prose list (recorded) has Twenty8 NoMad and The Lanesborough; the collapsible directory panel has The Landmark and The Langham instead. Unresolved - flagged to Rob, not merged.",
+    "afternoontea.co.uk SPONSORS the award it reports and sells vouchers and listings for the venues it judges. Tiered A because the judging is real and dated, but the conflict is on record in data/sources.json."
   ],
   "openVenueQuestions": [
     "Café Rouge is named by two budget blogs and the chain has largely gone: its own site now lists ONE London branch, at St Katharine Docks, with the rest at Center Parcs. Worth saying rather than repeating a stale blog post.",
     "'The British Museum' as a tea venue means the Great Court Restaurant, and 'The Melody Restaurant' is the one at the St Paul's hotel. Both are recorded under the name the sources use.",
-    "Nine of the article's 22 rooms have no citation: The Dorchester, The Lanesborough, Jumeirah Carlton Tower, Winter Garden, The Berkeley, The Stafford, The Milestone, One Aldwych and The Ampersand. They are in the guide on their own merits and the article says the corpus does not reach them."
+    "Nine of the article's 22 rooms have no citation: The Dorchester, The Lanesborough, Jumeirah Carlton Tower, Winter Garden, The Berkeley, The Stafford, The Milestone, One Aldwych and The Ampersand. They are in the guide on their own merits and the article says the corpus does not reach them.",
+    "Swan London (Insider Food chapter marker) merged to The Swan at the Globe on judgement, not on the source's word.",
+    "Café Rouge is named by two tier-C sources - a chain, and a borderline call against the scope line 'afternoon tea served as a sitting, with a stand'."
   ],
   "currentState": {
     "recorded": "2026-08-30",

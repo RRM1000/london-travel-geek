@@ -163,9 +163,11 @@ TfL frequently performs track maintenance and signaling upgrades over weekends. 
 
 ## Step-free access & travelling with luggage
 
-Not all Underground stations have step-free access:
+**95 Underground stations are step-free**, more than a third of the network, against all 41 Elizabeth line stations and every DLR station and tram stop. Two symbols tell you how far that access goes:
 * **White Wheelchair Symbol on Tube Maps:** Step-free access from street to platform level (there may still be a step or gap onto the train).
 * **Blue Wheelchair Symbol on Tube Maps:** 100% step-free access from street all the way onto the train carriage.
+
+Which stations, which lines within a station, and what to do when a lift fails is all in our [step-free London guide](/articles/step-free-london/) — including the central stations that have no step-free access at all.
 
 > 🧳 **Luggage Tip:** Trains on the **Elizabeth line** and **District line** feature spacious walk-through carriages with dedicated luggage racks. Older deep-level lines (like the Central or Piccadilly lines) have tight doorways and no luggage racks—use wide ticket gates at stations!
 
@@ -215,6 +217,7 @@ Two different things get muddled here, and the difference decides whether you ca
 * 💷 [London Transport Fares & Costs 2026](/articles/london-public-transport-costs-and-fares/)
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
 * 🗺️ [London Tube and Rail Lines Guide](/articles/london-tube-and-rail-lines-guide/)
+* ♿ [Step-Free London](/articles/step-free-london/) – Which stations work, turn up and go, and attraction access
 * ✈️ [Heathrow Airport to London Transport Guide](/articles/heathrow-airport-to-london/)
 
 ---

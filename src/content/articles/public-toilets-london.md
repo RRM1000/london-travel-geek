@@ -158,6 +158,8 @@ Locked accessible toilets across the UK often use the same lock — the **Nation
 
 In this guide specifically, a RADAR key gets you into the accessible-only toilet at **Canary Wharf's Jubilee line station**, and waives the usual 50p charge at **Cutty Sark Gardens** in Greenwich.
 
+**Changing Places toilets** — the larger rooms with an adult changing bench and a hoist — are a separate provision again, and several of the central ones are behind a RADAR key you ask staff for rather than carry. Our [step-free London guide](/articles/step-free-london/) lists where they are, from Tate Modern and the National Gallery to five main-line stations.
+
 ---
 
 ## Old toilets that became something else
@@ -194,6 +196,7 @@ Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman'
 - 🌳 **[Best Parks and Gardens in London](/articles/best-parks-gardens-london/)**
 - 🛶 **[Best Canal Walks in London](/articles/best-canal-walks-london/)**
 - 🚇 **[Getting Around London: Transport Guide](/articles/getting-around-london-transport-guide/)**
+- ♿ **[Step-Free London](/articles/step-free-london/)** — accessible stations, Changing Places toilets and attraction access
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏥 **[Healthcare in London for Visitors](/articles/healthcare-for-visitors-london/)** — NHS, A&E and pharmacies, for visitors
 

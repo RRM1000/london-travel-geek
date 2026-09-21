@@ -374,3 +374,4 @@ The free national museums are enormous and most people do them badly. These are 
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 📚 **[Bloomsbury Area Guide](/articles/bloomsbury-area-guide/)**
 - 🏙️ **[South Kensington Area Guide](/articles/south-kensington-area-guide/)**
+- ♿ **[Step-Free London](/articles/step-free-london/)** — which entrance to use at each museum, and where the Changing Places toilets are

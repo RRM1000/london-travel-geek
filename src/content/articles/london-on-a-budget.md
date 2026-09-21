@@ -228,7 +228,7 @@ A lot of London's best free things do not exist most of the year. These are wort
 
 ### Autumn
 
-* **Open House London**, September — the single best free weekend of the year. Hundreds of buildings that are normally shut, from private houses to City skyscrapers and government offices, open free. Some ballot, most just queue. It lands in the same nine days as the London Design Festival and Heritage Open Days, which makes the middle of the month the busiest and best-value stretch of the year; [things to do in London in September](/articles/things-to-do-in-london-in-september/) has the dates and the overlaps.
+* **Open House London**, September — nine days, and the best free thing in the London calendar. Hundreds of buildings that are normally shut, from private houses to City skyscrapers and government offices, open free. Some ballot, most just queue. It lands in the same nine days as the London Design Festival and Heritage Open Days, which makes the middle of the month the busiest and best-value stretch of the year; [things to do in London in September](/articles/things-to-do-in-london-in-september/) has the dates and the overlaps.
 * **Totally Thames**, September — a month of free river events and installations.
 * **Bonfire Night**, early November. Several of London's big displays are **free to watch** — Alexandra Palace charges, but plenty of borough displays do not. [Our guide](/articles/bonfire-night-london/) sorts the free from the ticketed.
 * **Diwali in Trafalgar Square** and **the Lord Mayor's Show** in November are both free.
@@ -248,7 +248,7 @@ A lot of London's best free things do not exist most of the year. These are wort
 * **Lunchtime concerts.** **St Martin-in-the-Fields**, the **Royal Academy of Music**, the **Guildhall School** and several City churches run free recitals by properly good musicians, most weeks, usually around an hour.
 * **BFI Mediatheque** on the South Bank — sit down and watch the national film and television archive, free, in a booth. Almost nobody knows it exists.
 * **The Bank of England Museum**, the **Hunterian Museum**, the **Grant Museum of Zoology** and the **Petrie Museum** — all free, all far quieter than the big names.
-* **Open House London**, every September — hundreds of buildings normally closed to the public open their doors for a weekend, free.
+* **Open House London**, every September — hundreds of buildings normally closed to the public open their doors for nine days, free.
 * **Speaker's Corner**, Hyde Park, Sunday mornings.
 
 ---

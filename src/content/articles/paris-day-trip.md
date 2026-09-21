@@ -54,7 +54,7 @@ The bigger difference from every other day trip here is what happens before you 
 | Eurostar Premier, range we saw | **£245–£361**, barely moved with the time of day |
 | Recommended arrival, St Pancras | **75 min** before (Standard/Plus), 45 min (Premier) |
 
-Every fare above is real, taken from Eurostar's own booking engine for a Tuesday about a month ahead — the same "checked a month out" convention we use for the other trains on this site. Prices move by the hour as seats sell, so treat the range as what to expect rather than a quote.
+These are the fares Eurostar was quoting in September 2026 for a Tuesday in October, and they move by the hour as seats sell — treat the range as what to expect, not a quote.
 
 ### Eurostar Standard, Plus or Premier
 

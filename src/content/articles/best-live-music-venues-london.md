@@ -381,7 +381,7 @@ Live music in London does not have to cost £40 and a booking fee.
 * **Union Chapel seating is unreserved.** Original wooden pews, first come first served, so arrive early. It is a Victorian church, so dress for the temperature.
 * **The grassroots circuit is genuinely under pressure.** Thirty UK venues closed permanently between mid-2024 and mid-2025, more than half made no profit, and around 200 are on the Music Venue Trust's red alert list. Buying direct from a small venue is not a small gesture.
 * **The late set at Ronnie Scott's costs £12** against £40–£65 for a main show, in the same room. It is the single biggest price gap in London live music.
-* **Jazz in London is rarely free**, whatever the listings say. The 606 charges a music charge, the Vortex charges £15–£25, and Ronnie's late show is £12. The genuine free jazz is in pubs and at lunchtime recitals, not in the clubs.
+* **Jazz in London is rarely free**, whatever the listings say. The 606 charges a music charge, the Vortex charges £15–£25, and Ronnie's late show is £12. The genuine free jazz is in pubs and at lunchtime recitals, not in the clubs. **November is the exception**: the [EFG London Jazz Festival](/articles/london-jazz-festival/) runs 13–22 November 2026 and puts 19 free concerts into the Barbican, the Southbank Centre and Milton Court.
 * **Cafe OTO and MOTH Club** rarely sell out weeks ahead — you can decide on the day.
 * **Night Tube runs Friday and Saturday** on the Victoria line for Brixton and the Northern for Camden.
 
@@ -389,6 +389,7 @@ Live music in London does not have to cost £40 and a booking fee.
 
 ## Continue planning your London trip
 
+- 🎺 **[EFG London Jazz Festival 2026](/articles/london-jazz-festival/)**
 - 🎸 **[The Beatles in London](/articles/beatles-london/)**
 - 🎭 **[Camden Area Guide](/articles/camden-area-guide/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**

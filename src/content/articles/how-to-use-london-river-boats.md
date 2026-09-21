@@ -51,7 +51,7 @@ Travelling along the River Thames is one of the most enjoyable ways to see Londo
 > 🌟 **Golden Rules of River Boats:**  
 > 1. **Touch In AND Touch Out:** Unlike London buses, you MUST tap your contactless or Oyster card on the reader beside the boarding ramp when boarding AND alighting at piers.  
 > 2. **Use the Same Device:** Tapping in with a physical bank card and out with Apple Pay results in two maximum fare charges!  
-> 3. **Check Pier Step-Free Access:** While most piers are 100% step-free, check pier ramp access if travelling with wheelchairs or heavy strollers.  
+> 3. **Check Pier Step-Free Access:** Uber Boat by Thames Clippers says every pier it serves is step-free except **Cadogan, London Bridge City and Wandsworth Riverside Quarter**, where the boarding brow gets too steep on some tides. See our [step-free London guide](/articles/step-free-london/) for the alternatives and the 50% disabled fare.  
 > 4. **Check Boat Direction:** Double-check whether the approaching boat is heading Eastbound (towards Greenwich/Barking) or Westbound (towards Westminster/Battersea).
 
 ---
@@ -222,6 +222,7 @@ Looking for evening entertainment on the water? The [River Bus Comedy Night](htt
 * 🚇 [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
 * 🚌 [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
+* ♿ [Step-Free London](/articles/step-free-london/) – Accessible piers, stations and attractions
 
 ---
 

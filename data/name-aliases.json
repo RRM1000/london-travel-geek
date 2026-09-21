@@ -375,7 +375,23 @@
     "Four Seasons Park Lane": "Four Seasons Hotel London at Park Lane",
     "Hilton Metropole, Edgware Road": "Hilton London Metropole",
     "Doubletree Tower of London": "DoubleTree by Hilton London - Tower of London",
-    "DoubleTree by Hilton London Tower Bridge": "DoubleTree by Hilton London - Tower of London"
+    "DoubleTree by Hilton London Tower Bridge": "DoubleTree by Hilton London - Tower of London",
+    "Hotel Caf é Royal": "Hotel Café Royal",
+    "Hotel Caf Royal": "Hotel Café Royal",
+    "Hotel Cafe Royal": "Hotel Café Royal",
+    "Brown's": "Brown's Hotel",
+    "Browns Hotel": "Brown's Hotel",
+    "The Wallace Collection:": "The Wallace Collection",
+    "Jacqueline at The Chancery Rosewood": "The Chancery Rosewood",
+    "Raffles London at The OWO": "Raffles London at the OWO",
+    "Kona at Taj 51": "Taj 51 Buckingham Gate",
+    "Park Room at Grosvenor House London": "Grosvenor House",
+    "Michael Caines at The Stafford London": "The Stafford London",
+    "Origin Kensington at The Royal Garden Hotel": "Royal Garden Hotel",
+    "The Rose Lounge at Sofitel London St James": "Sofitel London St James",
+    "The Grand Saloon at the Lane": "Theatre Royal Drury Lane",
+    "Sanderson Hotel’s Mad Hatter’s Afternoon Tea": "Sanderson Hotel",
+    "The Promenade at The Dorchester": "The Dorchester"
   },
   "whyCrispIsOneVenue": "The Infatuation's #1 is 'Crisp Pizza W6 at The Chancellors' in Hammersmith; Time Out and Country & Town House name the Mayfair site. Those are two pubs, but one brand: the Restaurants v2 row is already chainType 'mini-chain' with ownerGroup 'Devonshire / Crisp group', and its Why Go says Crisp was 'previously only in Hammersmith, brought into central London'. The sheet counts a mini-chain brand-level - the same treatment Rudy's and Fatto a Mano get - so the citations merge and the two sites are carried as Branches rows instead. Verified 2026-08-30: The Chancellors is 25 Crisp Road, Hammersmith W6 9RL.",
   "deliberatelyNotAliased": {
@@ -415,5 +431,13 @@
   "Spicy wings at Morley's": "Morley's",
   "Morley’s Fried Chicken": "Morley's",
   "whyFamilyHotelNamesMerge": "hotels-family, 15 Sep 2026. Family-hotel blogs append or drop the area, the full 'Hotel & Residences'/'Suites and Residences' suffix, and 'London' at will - The Athenaeum, Taj 51 Buckingham Gate, St. Ermin's, The Rubens at the Palace, The Goring, The Landmark, Royal Lancaster, the two County Hall hotels (Marriott's and Park Plaza's, which stay separate businesses from EACH OTHER but each needed its own area-suffix merge), Premier Inn County Hall, The Ampersand, The Trafalgar St. James, Fleming's Mayfair, The Guardsman and Royal Garden Hotel were each sitting on two or three part-counted records instead of one. DoubleTree by Hilton London Kensington was previously Crowne Plaza London Kensington - Family Hotel Expert's own entry says so ('Previously Crowne Plaza London Kensington') - so Santorini Dave's older 'Crowne Plaza Kensington' answer is folded into the current name rather than left as a second, closed-sounding hotel. DoubleTree's Tower of London hotel is named three ways by Reddit alone (Tower of London, Tower Bridge, the full brand name) because it sits between both landmarks.",
-  "whyPubNamesMerge": "Pub topics, 14 Sep 2026. The Pelican W11 is a source's spelling of The Pelican, 45 All Saints Road. CAMRA's register writes 'Black Friar' for The Blackfriar at 174 Queen Victoria Street. 'The Guinea' and 'The Guinea Grill' are one building at 30 Bruton Place - the pub and its grill room. Deliberately NOT aliased: The Hero of Maida (the Sunday roast guide's spelling) and The Hero (the gastropub guide's) are the same Maida Vale pub, left apart because the roast guide's ranking-table checker reads the raw name - counts are topic-scoped so nothing is lost; The Prince Arthur (Forest Road, Hackney) and The Prince Arthur (Eccleston Street, Belgravia) are two pubs, recorded with the area; The George (Great Portland Street) and The George Inn (Borough) stay apart as before; The Spread Eagle, Hackney (vegan, Homerton) and The Spread Eagle Wandsworth are different pubs; Coach & Horses, Soho (Greek Street) and Coach & Horses, Mayfair (Bruton Street) are different pubs; The Flask, Hampstead and The Flask, Highgate are different pubs. 'The Audley' is the short name every source uses for The Audley Public House, 41-43 Mount Street."
+  "whyPubNamesMerge": "Pub topics, 14 Sep 2026. The Pelican W11 is a source's spelling of The Pelican, 45 All Saints Road. CAMRA's register writes 'Black Friar' for The Blackfriar at 174 Queen Victoria Street. 'The Guinea' and 'The Guinea Grill' are one building at 30 Bruton Place - the pub and its grill room. Deliberately NOT aliased: The Hero of Maida (the Sunday roast guide's spelling) and The Hero (the gastropub guide's) are the same Maida Vale pub, left apart because the roast guide's ranking-table checker reads the raw name - counts are topic-scoped so nothing is lost; The Prince Arthur (Forest Road, Hackney) and The Prince Arthur (Eccleston Street, Belgravia) are two pubs, recorded with the area; The George (Great Portland Street) and The George Inn (Borough) stay apart as before; The Spread Eagle, Hackney (vegan, Homerton) and The Spread Eagle Wandsworth are different pubs; Coach & Horses, Soho (Greek Street) and Coach & Horses, Mayfair (Bruton Street) are different pubs; The Flask, Hampstead and The Flask, Highgate are different pubs. 'The Audley' is the short name every source uses for The Audley Public House, 41-43 Mount Street.",
+  "The Palm Court at The Ritz": "The Ritz",
+  "The Gallery at Sketch": "Sketch",
+  "The Foyer & Reading Room at Claridge's": "Claridge's",
+  "Diamond Jubilee Tea Salon at Fortnum & Mason": "Fortnum & Mason",
+  "deliberatelyNotMerged": {
+    "The Swan at the Globe / Swan London": "Insider Food's chapter marker says 'Swan London'. Merged to The Swan at the Globe on judgement 2026-09-21 - the Globe's restaurant is the only Swan doing afternoon tea in London, but this was not stated by the source.",
+    "Café Rouge": "A chain, named by two tier-C sources for afternoon tea. Left in the corpus but it is a borderline scope call against 'afternoon tea served as a sitting, with a stand'."
+  }
 }

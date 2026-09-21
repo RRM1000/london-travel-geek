@@ -290,6 +290,7 @@ Late-night prices in London usually go one of two ways: a nightclub markup, or t
 
 ## Continue planning your London trip
 
+- 🎺 **[EFG London Jazz Festival 2026](/articles/london-jazz-festival/)** — 13–22 November, and Ronnie Scott's puts a band on stage at midnight
 - 🛡️ **[Is London Safe?](/articles/is-london-safe/)** — getting home at night, and who to call
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**

@@ -61,7 +61,7 @@ The London Underground covers **11 color-coded lines** serving 272 stations. It 
 
 * **Operating Hours:** Trains run from ~05:30 to midnight Monday through Saturday, with reduced hours on Sunday. The **Night Tube** operates 24 hours on Friday and Saturday nights across the Central, Jubilee, Northern, Piccadilly, Victoria and Windrush lines.
 * **Tapping In & Out:** Always tap your contactless card or Oyster card on the yellow reader at the ticket gates when entering AND exiting the station.
-* **Accessibility:** Newer stations (and Elizabeth line stations) have full step-free lift access, but many historic deep-level stations rely on stairs and escalators.
+* **Accessibility:** 95 Tube stations are step-free, against all 41 Elizabeth line stations; the historic deep-level ones mostly rely on stairs and escalators. Our [step-free London guide](/articles/step-free-london/) has the station-by-station picture.
 
 > 🚀 **Tube Pro Tip:** Walking between close stations in Central London (such as Leicester Square to Covent Garden) is often faster than going down into the Tube station!
 
@@ -192,6 +192,7 @@ Explore our in-depth guides for specific networks, airport transfers, and ticket
 * 💳 **[Oyster Card & Contactless Guide](/articles/oyster-card-guide-london/)** – Oyster fees vs contactless bank cards.
 * 🗺️ **[London Tube and Rail Lines Guide](/articles/london-tube-and-rail-lines-guide/)** – Every line rated for crowding and comfort, with the best exit for each attraction.
 * 💷 **[London Transport Fares & Costs 2026](/articles/london-public-transport-costs-and-fares/)** – Peak rates, caps, and Travelcard comparisons.
+* ♿ **[Step-Free London](/articles/step-free-london/)** – Which stations are step-free, how turn up and go works, and what each big attraction says about its own access.
 
 ### Airport Transfer Guides
 * ✈️ **[Heathrow Airport to London](/articles/heathrow-airport-to-london/)** – Tube vs Elizabeth Line vs Express.

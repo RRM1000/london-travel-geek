@@ -267,11 +267,12 @@ Expensive, always busy, and entirely about whether your child wants a photograph
 ## What to know
 
 * **The national museums are free.** The British Museum, Natural History Museum, Science Museum and Young V&A all cost nothing at the door — book the free timed ticket where one is offered.
-* **The city farms are free and almost never busy.** They are the best-kept secret on this page. Check the closing day before you travel.
+* **The city farms are free and almost never busy.** Check the closing day before you travel.
 * **Under-5s go free almost everywhere that charges** — the Tower of London, Tower Bridge, Buckingham Palace. Under-3s at London Zoo and the Wetland Centre; under-2s at the London Eye, SEA LIFE, Shrek's and Madame Tussauds.
 * **Check age and height guidance.** The London Dungeon is 12+; Shrek's Adventure is recommended for 6–12; Babylon Park's rollercoaster and drop tower need 105cm; Go Ape needs 1.2m at six or 1.4m at ten.
 * **Buggies are not always welcome.** Mail Rail bans them below ground, SEA LIFE has nowhere to leave one, and Young V&A and the British Museum both have somewhere to park one.
 * **Under-11s travel free** on the Tube, DLR and Elizabeth line with a fare-paying adult, and free on buses and trams at any time.
+* **Plan a buggy day around the lifts.** Only 95 Tube stations are step-free, and Covent Garden, Leicester Square and Charing Cross are not among them; every bus has a ramp instead. Our [step-free London guide](/articles/step-free-london/) has the station list and the attractions with lifts.
 * **Museums are quietest in the last two hours** before closing.
 
 ---
@@ -294,5 +295,6 @@ Age is the thing to check before you buy, and two of the five are narrow: the **
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🌳 **[London's Parks and Gardens](/articles/best-parks-gardens-london/)**
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
+- ♿ **[Step-Free London](/articles/step-free-london/)** — lifts, ramps and which attractions have them
 - 🎭 **[Camden Area Guide](/articles/camden-area-guide/)**
 - 🚂 **[King's Cross Area Guide](/articles/kings-cross-area-guide/)**

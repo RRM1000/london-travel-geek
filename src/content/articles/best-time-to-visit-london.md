@@ -115,7 +115,7 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 ![A scarlet tree reflected in a pond in Isabella Plantation, Richmond Park, with yellow and orange trees around it](../../assets/articles/best-time-to-visit-london/richmond-park-autumn-foliage.jpg)
 *Autumn colour reflected in a pond in Isabella Plantation, Richmond Park.*
 
-**November is the wettest month (67mm) and one of the darkest**, with daylight down to under 9 hours by mid-month. **Bonfire Night falls on Thursday 5 November**, and **Hyde Park Winter Wonderland opens on 19 November 2026**, running to 3 January. Beyond fireworks displays, it's one of the quieter months for crowds, with no half term and no bank holiday.
+**November is the wettest month (67mm) and one of the darkest**, with daylight down to under 9 hours by mid-month. **Bonfire Night falls on Thursday 5 November**, and **Hyde Park Winter Wonderland opens on 19 November 2026**, running to 3 January. In between, the [EFG London Jazz Festival](/articles/london-jazz-festival/) takes over 82 venues from **13 to 22 November**, with 19 of its concerts free — the month's answer to the weather. Beyond fireworks displays, it's one of the quieter months for crowds, with no half term and no bank holiday.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-time-to-visit-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

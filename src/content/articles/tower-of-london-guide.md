@@ -184,6 +184,7 @@ The grounds are cobbled, with steep ramps and narrow spiral stairs. The Jewel Ho
 - 🎖️ **[Churchill War Rooms Guide](/articles/churchill-war-rooms-guide/)** — Churchill's underground wartime bunker, a short trip away near Westminster.
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — free sights and booking hacks across Central London.
 - 🚤 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** — scenic boat routes from Tower Pier to Greenwich and Westminster.
+- ♿ **[Step-Free London](/articles/step-free-london/)** — what is reachable at the Tower without stairs, and how to get there step-free.
 
 ---
 

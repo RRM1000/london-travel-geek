@@ -201,3 +201,4 @@ Allow at least two hours — IWM's own recommendation — to see the Cabinet Roo
 - 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — which London attractions are included and how to calculate whether the pass pays off.
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — money-saving booking rules and free museums across Central London.
 - 🚇 **[Getting Around London: Transport Guide](/articles/getting-around-london-transport-guide/)** — Tube fares, contactless payments, and bus navigation.
+- ♿ **[Step-Free London](/articles/step-free-london/)** — the lift into the bunker, the 68cm pinch point, and step-free routes across the city.
