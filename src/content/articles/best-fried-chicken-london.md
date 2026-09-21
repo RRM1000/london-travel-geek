@@ -5,6 +5,8 @@ description: "Fourteen independent sources, one judged championship, and the awk
 heroImage: "../../assets/articles/best-fried-chicken-london/butchies-tenders-hero.jpg"
 heroImageAlt: "Buttermilk-fried chicken tenders on a metal tray lined with branded paper, with cheese-covered fries alongside"
 publishedAt: 2026-09-07
+updatedAt: 2026-09-21
+reviewBy: 2027-01-31
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -20,7 +22,7 @@ faq:
   - q: "Where do I get Korean fried chicken in London?"
     a: "New Malden, if you are serious about it — Chick and Beers, Tongdak and Imone are all within a short walk of each other in London's Korean quarter, out on the south-western edge of the city. In the centre, CheeMc has branches in Elephant and Castle and Soho, and sells its chicken in seven seasonings including a honey butter powder."
   - q: "Do you need to book for fried chicken in London?"
-    a: "Almost never, and that is part of the appeal — most of this list is counter service, takeaway or a queue. The exceptions are Bao and Kricket, which are restaurants that happen to fry chicken well, and Normah's in Queensway Market, which releases bookings in monthly batches and needs an alarm set."
+    a: "Almost never, and that is part of the appeal — most of this list is counter service, takeaway or a queue, and BAO Soho on Lexington Street is walk-ins only. The exceptions are Coqfighter and Kricket, which are restaurants that happen to fry chicken well, and Normah's in Queensway Market, which releases bookings in monthly batches and needs an alarm set."
   - q: "What is a chicken shop, and are the chains worth it?"
     a: "A chicken shop is the London high-street institution: fried chicken and chips, sold cheap, usually open late. Morley's is the one the serious sources actually name — it started in south London and now runs from Edmonton to Brick Lane, and its spicy wings cost under a pound each. That is a different proposition from the international chains, which appear in the videos and on none of the editorial lists."
   - q: "Is Chick'N'Sours still open?"
@@ -141,7 +143,9 @@ London has thousands of chicken shops and the serious lists name this one. It st
 
 *£ · 755 High Road, N17 8AH · Cited by 4 sources*
 
-A rain-or-shine Tottenham takeaway that four sources treat as a destination rather than a local. The chicken is fried hard enough to stay crunchy without turning greasy, and seasoned without going salty. **Takeaway operation — there is no dining room to speak of.**
+A rain-or-shine Tottenham takeaway that four sources treat as a destination rather than a local. Twin brothers opened it in 1981 and the family still runs it. The chicken is fried hard enough to stay crunchy without turning greasy, and seasoned without going salty.
+
+**Order the hot wings**, crumbed rather than battered, with the thick-cut chips. The rest of the board is chicken portions, spare ribs, sausages and a chicken fillet burger, which Eater singles out for sheer size. **There is nothing to book and nowhere to sit** — it is a shopfront on the High Road two minutes from White Hart Lane station, so you eat it walking.
 
 ![Fried chicken pieces, some crumbed red and some plain, piled over chips in a takeaway box with a pot of red sauce](../../assets/articles/best-fried-chicken-london/chick-king.jpg)
 
@@ -161,7 +165,9 @@ An Elephant and Castle railway arch, good for groups, and cheap. **Plan nothing 
 
 Four independent sources name it — the Evening Standard, SquareMeal, Secret London and Hungry Soles — which puts it level with Chick King and La Barra.
 
-**It is the most convenient thing on this list.** Four London sites, all of them by a mainline or Tube station, open **noon to 10pm Monday to Saturday and noon to 9pm on Sunday**, and it takes bookings — which almost nothing else here does. If you are feeding a group or want to sit down without queueing, this is the answer the rest of the guide cannot give you.
+The breast is brined overnight and twice-fried in a house flour blend, then built into a **sandwich at £11.50** on a sesame bun the company bakes to its own recipe in north London every day. The original comes with sambal mayo, Korean hot sauce and pink onions; the Nashville version is dipped in hot oil and finished with green slaw and chipotle mayo. **Wings are £10** and glazed rather than sauced — sweet Korean with pickled ginger, laksa and coconut milk butter, or a Thai butter finished with toasted rice powder and lime. The roast side of the menu is easy to miss: half a chicken, marinated 24 hours and basted in the house sauces, at £13.50.
+
+**It is the most convenient thing on this list.** Four London sites, all of them by a mainline or Tube station, open **noon to 10pm Monday to Saturday and noon to 9pm on Sunday**, and it takes bookings — which almost nothing else here does. There is an express lunch **Monday to Friday, noon to 3pm**, where the sandwich and fries are £12.50. If you are feeding a group or want to sit down without queueing, this is the answer the rest of the guide cannot give you.
 
 ### Smoking Goat — the wings that are not really fried chicken
 
@@ -177,9 +183,9 @@ A Thai restaurant, and the **chilli fish sauce wings** are why it appears in a f
 
 *££ · 53 Lexington Street, W1F 9AS · Cited by 3 sources*
 
-The batter is light rather than armoured — more rain jacket than parka — with a sharp vinegary hot sauce over the top. Ask for extra on the side.
+The order is **Taiwanese fried chicken in hot sauce, £9.25 for five pieces**, or the **chilli lime fried chicken steak at £12.75** if you want a slab rather than a snack. The batter is light rather than armoured — more rain jacket than parka — with a sharp vinegary hot sauce over the top. Ask for extra on the side; dips are £1.50, and a fried chicken bao is £5.95.
 
-**A portion is four or five pieces and will not touch the sides**, so order two. Counter seating, good for eating alone, and it takes bookings, which almost nothing else here does.
+**A portion will not touch the sides**, so order two. This is the original BAO, open on Lexington Street since 2015 and a Michelin Bib Gourmand for nine years. Counter seating, good for eating alone. **Walk-ins only and card only**, and the kitchen shuts between 3pm and 5pm Monday to Thursday.
 
 ### Chick and Beers — Korean, in New Malden
 
@@ -190,6 +196,8 @@ The batter is light rather than armoured — more rain jacket than parka — wit
 *Double-fried, then glazed and topped with fried shallots. New Malden, and worth the journey out.*
 
 Family-owned, and the local reference point. The chicken is **double-fried** for the crackle that technique exists to produce, and the batter lands between rugged and glossy. **Sticky nuggets** are the order.
+
+It trades from a shopfront on Burlington Road rather than the New Malden High Street where Imone sits, and takes collection and delivery orders on [its own site](https://www.chickandbeers.uk/). **The hours are the catch: closed Mondays, and 4.30pm to 8.45pm the rest of the week**, with one extra Saturday sitting from 1.15pm to 3.45pm.
 
 ---
 
@@ -215,7 +223,7 @@ The word covers at least six different things in London, and a reader who wants 
 
 ## What to know
 
-**Almost none of this needs booking, and that is the point.** The list is counters, takeaways and queues. The exceptions are Bao and Kricket, which are restaurants that fry chicken well, and Normah's, whose monthly booking drop is the only thing here that requires an alarm.
+**Almost none of this needs booking, and that is the point.** The list is counters, takeaways and queues — Bao on Lexington Street is walk-ins only too. The exceptions are Coqfighter and Kricket, which are restaurants that fry chicken well, and Normah's, whose monthly booking drop is the only thing here that requires an alarm.
 
 **Two venues in the sources have closed.** Sichuan Fry in Hackney, named by two sources, and **Kaieteur Kitchen** in Elephant and Castle, which shut in October 2025 after its landlord locked it out.
 

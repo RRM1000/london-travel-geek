@@ -5,6 +5,8 @@ description: "Thirteen independent sources, one Michelin Bib Gourmand, and the q
 heroImage: "../../assets/articles/best-vietnamese-restaurants-london/song-que-hero.jpg"
 heroImageAlt: "A clay pot of caramel-braised fish topped with sliced red chilli and spring onion, photographed from above on a white plate"
 publishedAt: 2026-09-08
+updatedAt: 2026-09-21
+reviewBy: 2027-01-31
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -93,7 +95,9 @@ The order is the **Hanoi-style steamed rice rolls (bánh cuốn)**: soft, with a
 
 *£ · Kingsland Road and Lavender Hill, Battersea · Cited by 4 sources*
 
-Specialises in **south-western Vietnamese** food rather than the general menu the strip mostly serves, and became popular enough that it **expanded into the building next door** before opening the Battersea site. That is the clearest evidence of demand on this page.
+Specialises in **south-western Vietnamese** food rather than the general menu the strip mostly serves, and became popular enough that it **expanded into the building next door** — the Kingsland Road room now runs across 106 and 108 — before opening the Battersea site. That is the clearest evidence of demand on this page.
+
+The family are from the Mekong Delta and the menu follows the river: the **Mekong catfish clay pot, £12**, is braised in caramelised palm sugar with shallots and black pepper, and the **chargrilled goat bún chả at £15** is a dish almost nothing else on the strip serves. Lemongrass quail is £9. Chef Su Tran cooks, Mrs My Le runs the room, and each site is managed by a different member of the family. **Bookings are by phone**: 020 7739 3841.
 
 ---
 
@@ -110,6 +114,10 @@ Specialises in **south-western Vietnamese** food rather than the general menu th
 ![A banh mi sandwich and a green papaya-style salad laid out on a table at Lai Rai, with steel cups](../../assets/articles/best-vietnamese-restaurants-london/lai-rai.jpg)
 
 *Bánh mì at Lai Rai — the room a Michelin jury picked rather than the one the Mile made famous.*
+
+The name means "little by little", and the kitchen builds a meal that way: **prawn lollies on sugarcane with fragrant young rice, £4 each**, a grilled pork neck skewer with lemongrass and toasted coriander for the same, **crispy chicken thigh with a fresh herb sauce at £9**, mussels in a coconut and lemongrass broth at £18. By day it is a **bánh mì** counter instead — soy-braised pork belly with yolk sauce and pickled mustard greens, £12, with Vietnamese coffee at £5 — but only from noon to 3pm on Friday, Saturday and Sunday.
+
+It is a **split-level room of forty seats** on Rye Lane, run on the rhythm of Vietnam's street-corner draught beer halls: one more plate, one more round. **Evening service starts at 6pm on weekdays**; groups of seven or more eat a £45-a-head set menu on a two-and-a-half-hour table. [Book a table](https://www.sevenrooms.com/explore/lairai/reservations/create/search/).
 
 It is barely covered by the London lists, which is the interesting part: the judges and the magazines are not looking at the same city. If you want the room a jury picked rather than the one the mile made famous, this is it.
 
@@ -143,13 +151,17 @@ Order the **quails marinated in lemongrass** off the charcoal, and the *bánh kh
 
 Chef patron **Bình Nguyễn left Hanoi at fourteen** to work in Hong Kong kitchens, became expert in both cuisines, and came to Britain in the 1990s to help other Vietnamese families start restaurants. His own kitchen fuses the two deliberately rather than by accident.
 
-The **Lạng Sơn roast duck**, spiced with *hạt*, is the dish he travels to Vietnam looking for ideas for. There is a fresh papaya salad with beef jerky (*gỏi đu đủ bò khô*) as well. It is the most central serious Vietnamese room in London, and the one place on this page that would sit just as comfortably in our [Chinese and East Asian guide](/articles/best-chinese-east-asian-restaurants-london/).
+The **Lạng Sơn roast duck**, spiced with *hạt*, is the dish he travels to Vietnam looking for ideas for. There is a fresh papaya salad with beef jerky (*gỏi đu đủ bò khô*) as well. It is the most central serious Vietnamese room in London, and it would sit just as comfortably in our [Chinese and East Asian guide](/articles/best-chinese-east-asian-restaurants-london/).
 
 ### Green Papaya — the one London Fields keeps quiet
 
 *£–££ · London Fields · Cited by 4 sources*
 
 Family-run, and unusually for London it **leads on stir-fries and the country's other mainstays rather than on phở**. The locals would rather you did not know, which is roughly what four sources naming it has already ruined.
+
+It trades as Green Papaya Xi'Viet, and the second half of the name is the part to read: a **Xi'an noodle list** runs down the menu beside the Vietnamese one. **Mount Qi pork noodles, £13.95** — chunks of pork belly in house chilli oil and Sichuan peppercorns, with soya tofu over wheat noodles — and **dan dan noodles at £13.45** sit on the same page as phở and the cold bún bowls.
+
+One room on Mare Street, which the family will close off entirely for a private booking; tables of four or more are held to two hours. **It is closed on Mondays and does not open until 5pm Tuesday to Friday**; weekends it opens at 1pm.
 
 ---
 
