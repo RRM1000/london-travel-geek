@@ -161,15 +161,13 @@ TfL frequently performs track maintenance and signaling upgrades over weekends. 
 
 <div data-stay-strip></div>
 
-## Step-free access & travelling with luggage
+## Travelling with luggage
 
-**95 Underground stations are step-free**, more than a third of the network, against all 41 Elizabeth line stations and every DLR station and tram stop. Two symbols tell you how far that access goes:
-* **White Wheelchair Symbol on Tube Maps:** Step-free access from street to platform level (there may still be a step or gap onto the train).
-* **Blue Wheelchair Symbol on Tube Maps:** 100% step-free access from street all the way onto the train carriage.
+**The line matters more than the station.** The **Elizabeth line** and **District line** run walk-through carriages with room for a case. The deep-level lines — Central, Piccadilly, Northern, Victoria — have narrow doorways, no racks, and a step up from the platform. With a large bag, going the long way round on the Elizabeth line is usually faster than the direct deep-level route.
 
-Which stations, which lines within a station, and what to do when a lift fails is all in our [step-free London guide](/articles/step-free-london/) — including the central stations that have no step-free access at all.
+Use the **wide gate** at the ticket barrier rather than wrestling a case through a standard one. Every station has at least one, beside the staffed gate.
 
-> 🧳 **Luggage Tip:** Trains on the **Elizabeth line** and **District line** feature spacious walk-through carriages with dedicated luggage racks. Older deep-level lines (like the Central or Piccadilly lines) have tight doorways and no luggage racks—use wide ticket gates at stations!
+**Step-free access has a guide of its own.** [Step-free London](/articles/step-free-london/) covers which stations qualify, the difference between the two wheelchair symbols on the map, the eight central stations with no step-free access at all, and what to do when a lift is out.
 
 ---
 
