@@ -36,7 +36,10 @@ for (const line of art.split(/\r?\n/)) {
   if (h) lastName = h[1].trim();
   const b = line.match(/^\s*[-*]\s*\*\*\[?([^\]*]+?)\]?(?:\([^)]*\))?\*\*/);
   if (b) lastName = b[1].trim();
-  const t = line.match(/^\|\s*\*\*([^*]+)\*\*\s*\|/);
+  // A bold table cell may be a markdown link - "**[The Audley](url)**" - and the
+  // brackets and href have to come off before the name is resolved, or every
+  // linked row reads as a venue that is not in evidence.json.
+  const t = line.match(/^\|\s*\*\*\[?([^\]*]+?)\]?(?:\([^)]*\))?\*\*\s*\|/);
   if (t) lastName = t[1].trim();
 
   const claimed = line.match(/Cited by (\d+) sources?/)?.[1]

@@ -3,7 +3,7 @@ title: "The Best Sunday Roast in London, Cross-Referenced Across Every Guide, Aw
 seoTitle: "Best Sunday Roast London 2026: Pubs Ranked by Consensus"
 description: "Not our opinion. Every pub here is ranked by how many independent guides, awards and reviewers name it — and by where it actually placed."
 publishedAt: 2026-08-17
-updatedAt: 2026-08-30
+updatedAt: 2026-09-21
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -21,7 +21,7 @@ faq:
   - q: "Is a Michelin-starred Sunday roast worth it?"
     a: "The Harwood Arms in Fulham is London's only Michelin-starred pub and the venison comes from the owners' own stalking, so the sourcing is genuinely different. It is also roughly triple a good neighbourhood pub — one reviewer put a 2026 visit at £71 a head. Book weeks ahead."
   - q: "Is there an award for the best Sunday roast in London?"
-    a: "No. The Estrella Damm Top 50 Gastropubs is the only judged, dated ranking that touches this, and it ranks the pub as a whole rather than its Sunday lunch. That gap is the main weakness in any roast guide, including this one."
+    a: "Not for the roast itself. Two judged, dated rankings reach it: the Estrella Damm Top 50 Gastropubs, which put The Devonshire first in the UK and The Red Lion & Sun third, and the National Pub & Bar Awards, whose Industry's Choice top ten is voted by 400 industry judges and put The Devonshire first, The French House third and The Red Lion & Sun fourth in 2026. Both rank the pub across all seven days rather than its Sunday lunch, so read a placing as evidence about the pub."
 ---
 
 The Sunday roast is the meal London does that almost nowhere else attempts: a joint cooked for hours, a Yorkshire pudding the size of the plate, potatoes roasted in the fat and gravy poured over all of it. It is served for about five hours, one day a week, and then it is gone until next Sunday.
@@ -31,9 +31,9 @@ That scarcity is the whole practical problem — the good ones sell out, most wa
 > 💡 **The Short Version:** **The Devonshire** is the most-cited roast in London and the UK's number one gastropub. **The Red Lion & Sun** is #3 in the country and the roast guides mostly miss it. **Canton Arms** is the best-placed pub that still takes walk-ins. **The Harwood Arms** is the only Michelin-starred pub. **Blacklock** and **Hawksmoor** are the group answer. And **The Tamil Crown** does the most interesting roast in the city.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **19 sources carrying 115 citations** across **82 named pubs and restaurants**. **22 are named by two or more independent sources; 23 carry a dated ranking.**
-> **Built on:** the Estrella Damm ranking and eight independent publications. Worth knowing: Estrella Damm judges the pub as a whole, across all seven days — so a rank below is evidence about the pub, not a verdict on the roast.
-> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
+> Nothing here is ranked on one visit. This pass reads **20 sources carrying 120 citations** across **82 named pubs and restaurants**. **24 are named by two or more independent sources; 25 carry a dated ranking.**
+> **Built on:** two judged rankings — the [Estrella Damm Top 50 Gastropubs](https://www.top50gastropubs.com/list/1-50) and the [National Pub & Bar Awards](https://www.nationalpubandbarawards.co.uk/the-regions-2026), whose Industry's Choice top ten is voted by a panel of 400 industry judges — plus eight independent publications and twelve creators. Both rankings judge the pub across all seven days, so a placing here is evidence about the pub, not a verdict on its roast.
+> *Evidence rebuilt 21 September 2026 · [How we rank →](/how-we-rank/)*
 
 ---
 
@@ -59,13 +59,15 @@ Eight of the sixteen ranked entries sit wholly outside Zone 1 and three more str
 
 ### The Devonshire, Soho
 
-*££ · Piccadilly Circus · Cited by 5 sources · #1, Estrella Damm Top 50 Gastropubs 2026*
+*££ · Piccadilly Circus · Cited by 6 sources · #1, Estrella Damm Top 50 Gastropubs 2026 · #1, Industry's Choice 2026*
 
 The only pub in this guide that is both the most-cited roast and the top-ranked gastropub in the country, which is a rarer alignment than it sounds — the two usually disagree. It got there barely two years after opening.
 
+It also took the National Pub & Bar Awards' **[Industry's Choice Award](https://www.nationalpubandbarawards.co.uk/industrys-choice) for the second year running** in 2026 — a top ten voted by a panel of 400 people who run pubs for a living, which is the closest thing the trade has to a vote of its own.
+
 The ground floor is a Guinness pub and a good share of the queue is there for the pour rather than the food. The roast is upstairs. Three separate video reviewers filmed a full day here in 2026, and all three describe the same problem: getting in.
 
-**Book:** [devonshiresoho.co.uk](https://devonshiresoho.co.uk/) · **two minutes from Blacklock**
+**The venue's site:** [devonshiresoho.co.uk](https://www.devonshiresoho.co.uk/) · **two minutes from Blacklock**
 
 ![The frontage of The Devonshire pub on Denman Street in Soho](../../assets/articles/best-sunday-roast-london/the-devonshire-soho.jpg)
 
@@ -73,9 +75,9 @@ The ground floor is a Guinness pub and a good share of the queue is there for th
 
 ### The Red Lion & Sun, Highgate
 
-*££ · Highgate · Cited by 2 sources · #3, Estrella Damm Top 50 Gastropubs 2026*
+*££ · Highgate · Cited by 3 sources · #3, Estrella Damm Top 50 Gastropubs 2026 · #4, Industry's Choice 2026 · London Pub of the Year 2025*
 
-The best-placed London pub in the country after The Devonshire, and the biggest gap between what a ranking says and what the roast guides do. Third in the UK, and the editorial lists barely acknowledge it — two sources here name it against The Camberwell Arms' four.
+The best-placed London pub in the country after The Devonshire, and the biggest gap between what a ranking says and what the roast guides do. Third in the UK, named London's pub of the year at the 2025 National Pub & Bar Awards and fourth in the trade's own 2026 vote — and the editorial lists barely acknowledge it, three sources here against The Camberwell Arms' four.
 
 If you want the highest-rated London roast you have a realistic chance of booking, this is the one the data actually points at.
 
@@ -91,7 +93,7 @@ The roast itself is a straight, serious one: **beef cooked pink, dripping-roaste
 
 *Beef pink, potatoes roasted in dripping, a Yorkshire taller than the plate is deep — the same either time you order it, Guinness included.*
 
-**Book:** [theredlionandsun.com](http://www.theredlionandsun.com/) · **four minutes from The Bull**
+**Book:** [a table on ResDiary](https://booking.resdiary.com/widget/Standard/TheRedLionandSun/15205) · **four minutes from The Bull**
 
 ### Canton Arms, Stockwell
 
@@ -123,7 +125,7 @@ That combination — high placement, low price, no booking required — does not
 
 The roast is a proper plated one rather than a pub carvery: **beef with a Yorkshire pudding that arrives properly risen**, roast potatoes in beef fat, and greens that have been cooked rather than boiled. Gravy comes in a jug and is refillable, which is the test.
 
-**££, closed Monday, and it books weeks ahead for Sunday.** Islington. Book the moment you decide — the Sunday service fills first.
+**££, closed Monday, and it books weeks ahead for Sunday.** Islington. [Book](https://www.sevenrooms.com/explore/thebaring/reservations/create/search/) the moment you decide — the Sunday service fills first.
 
 ### The Marksman, Hackney
 
@@ -133,7 +135,7 @@ The roast is a proper plated one rather than a pub carvery: **beef with a Yorksh
 
 The Sunday roast is served in the upstairs room, and the dish everyone remembers is the pudding: a **brown butter and honey tart** that has been on the menu since the beginning and is worth ordering even if you are full. The beef and the trimmings underneath it are as good.
 
-**££, closed Monday.** Hackney Road. Drink downstairs first; the dining room is a different room in every sense.
+**££, closed Monday.** Hackney Road, and the upstairs room [books on OpenTable](https://www.opentable.co.uk/r/the-marksman-hackney-reservations-london?lang=en-GB&ot_source=website&restref=208518). Drink downstairs first; the dining room is a different room in every sense.
 
 ![A sharing roast at The Marksman: beef and pork on a bed of carrot puree with charred hispi cabbage, under two large Yorkshire puddings, one filled with cauliflower cheese](../../assets/articles/best-sunday-roast-london/the-marksman-roast.jpg)
 
@@ -151,7 +153,7 @@ The Sunday roast is served in the upstairs room, and the dish everyone remembers
 
 A straightforward, well-executed roast: beef or chicken, **roast potatoes, Yorkshire pudding and proper gravy**, in a low-ceilinged pub by the Thames. Nothing on the plate is trying to be clever, which suits the room.
 
-**££, closed Monday.** Book for Sunday, and ask for a table by the window or outside — that is what you are travelling for.
+**££, closed Monday.** [Book for Sunday](https://www.watermansarms.co.uk/reservations), and ask for a table by the window or outside — that is what you are travelling for.
 
 ### The Tamil Crown, Islington
 
@@ -163,7 +165,7 @@ A straightforward, well-executed roast: beef or chicken, **roast potatoes, Yorks
 
 The roast comes with the trimmings you expect and **masala-spiced gravy and potatoes** that you do not. It should not work and it does. The rest of the menu is the Tamil cooking the group is known for.
 
-**££. Sibling to The Tamil Prince, also in Islington — two separate pubs, not two names for one.** Book for Sunday.
+**££. Sibling to The Tamil Prince, also in Islington — two separate pubs, not two names for one.** [Book for Sunday](https://www.sevenrooms.com/explore/thetamilcrown/reservations/create/search?venues=thetamilcrown%2Cthetamilprince%2Ctamilasoho%2Ctamilaclapham%2Ctamilakingscross).
 
 ### The Harwood Arms, Fulham
 
@@ -175,7 +177,7 @@ The roast comes with the trimmings you expect and **masala-spiced gravy and pota
 
 The **venison scotch egg** is the signature and has been for years: a soft-yolked egg in coarse venison sausagemeat, fried and served with a sharp relish. The Sunday roast is built on the same game and British produce, and the standard is restaurant rather than pub.
 
-**£££ and it books weeks ahead** — Sunday goes first and by a distance. Fulham, and worth planning a month out.
+**£££ and it books weeks ahead** — Sunday goes first and by a distance. Fulham, worth planning a month out, and booked through [the venue's site](https://harwoodarms.com/).
 
 ### The Bull & Last, Highgate
 
@@ -185,7 +187,7 @@ The **venison scotch egg** is the signature and has been for years: a soft-yolke
 
 The roast is a serious one: **beef cooked pink**, dripping-roasted potatoes, a large Yorkshire, and the trimmings done properly. The rest of the week it runs a full gastropub menu with charcuterie made in-house.
 
-**££. NOT the same pub as The Bull, which is also in Highgate and also on this list** — different sites, different owners, and people get them confused constantly. Book for Sunday.
+**££. NOT the same pub as The Bull, which is also in Highgate and also on this list** — different sites, different owners, and people get them confused constantly. [Book for Sunday](https://www.sevenrooms.com/reservations/thebullandlast).
 
 ![A roast at The Bull and Last: pink beef and roast potatoes in a deep pool of gravy with kale, a large Yorkshire pudding balanced on top](../../assets/articles/best-sunday-roast-london/bull-and-last-roast.jpg)
 
@@ -195,7 +197,7 @@ The roast is a serious one: **beef cooked pink**, dripping-roasted potatoes, a l
 
 *££ · Denmark Hill · Cited by 4 sources · #60, Estrella Damm extended list (51–100) · #13, Time Out*
 
-The most-cited pub roast in south London and the second most-cited anywhere in this guide — four independent sources, more than any pub above it except The Devonshire.
+The most-cited pub roast in south London — four independent sources, more than any pub above it here except The Devonshire.
 
 Its ranking is more modest than its press: **#60, on the extended 51–100 list rather than the Top 50 itself.** Both facts are true and they point in different directions, which is exactly the sort of thing a guide should say out loud rather than pick a side on. What every source does agree on is the portion size.
 
@@ -203,7 +205,7 @@ Its ranking is more modest than its press: **#60, on the extended 51–100 list 
 
 *Beef with a herb dressing, swede wedges and greens, sauced properly rather than drizzled.*
 
-**Book:** [thecamberwellarms.co.uk](https://www.thecamberwellarms.co.uk/)
+**The venue's site:** [thecamberwellarms.co.uk](https://thecamberwellarms.co.uk/)
 
 ### The Parakeet, Kentish Town
 
@@ -213,7 +215,7 @@ Its ranking is more modest than its press: **#60, on the extended 51–100 list 
 
 The Sunday roast comes off that fire: **meat cooked over wood** rather than in an oven, which gives it a smoke you do not get elsewhere on this list, with the trimmings around it. Midweek the menu is fire-led small and large plates.
 
-**££ and it books well ahead for Sunday.** Kentish Town. The bar takes walk-ins if the dining tables have gone.
+**££ and it books well ahead for Sunday**, through [the venue's site](https://theparakeetpub.com/). Kentish Town. The bar takes walk-ins if the dining tables have gone.
 
 ### The Drapers Arms, Islington
 
@@ -227,15 +229,17 @@ A classic plated roast: beef, pork or a vegetarian option, **roast potatoes, Yor
 
 *The Drapers Arms on a Barnsbury evening — freehouse and dining room under one roof.*
 
-**££, and it books a few days ahead rather than weeks**, which makes it the sensible option when the more fashionable rooms have gone.
+**££, and it [books](https://www.opentable.co.uk/the-drapers-arms-reservations-london?rid=53308&restref=53308) a few days ahead rather than weeks**, which makes it the sensible option when the more fashionable rooms have gone.
 
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sunday-roast-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## What the ranking does and does not tell you
+## What the rankings do and do not tell you
 
-The Estrella Damm Top 50 Gastropubs is the only judged, dated ranking that reaches this topic. It is genuinely useful — and it is not a roast award. It ranks the pub across everything it does, every day of the week.
+Two judged, dated rankings reach this topic. The **[Estrella Damm Top 50 Gastropubs](https://www.top50gastropubs.com/list/1-50)** is the deeper of the two, with 23 London pubs across its ranked 100. The **[National Pub & Bar Awards](https://www.nationalpubandbarawards.co.uk/industrys-choice)** names a winner for each region and county, and runs an Industry's Choice top ten voted by 400 people who run pubs for a living — four of its 2026 top ten are London. The two rankings agree at the top — The Devonshire is first on both — and diverge below it: the trade puts The French House third where Estrella Damm has it 47th.
+
+Both are useful and neither is a roast award: they rank the pub across everything it does, every day of the week.
 
 So the honest way to read the table below is: *these pubs are demonstrably good, and here is how good, but nobody scored the Sunday plate.*
 
@@ -265,7 +269,7 @@ Thirteen London pubs in the Top 50. A further ten appear on the extended 51–10
 
 Worth knowing before you treat any single list as the answer. Time Out's ranked 28 London Sunday lunches and the Estrella Damm Top 50 share almost no names at all.
 
-Time Out's number one is **The Golden Tooth** on Green Lanes — the Papi team's pub, from chef Matthew Scott and sommelier Charlie Carr. It appears nowhere in the gastropub ranking, and only one source in this entire sources name it. Its #2 is a northern Thai residency at a Peckham boozer and its #3 is a Grade II-listed former Clerkenwell courthouse. Neither The Devonshire, Blacklock, Hawksmoor nor The Harwood Arms appears anywhere on its list.
+Time Out's number one is **The Golden Tooth** on Green Lanes — the Papi team's pub, from chef Matthew Scott and sommelier Charlie Carr. It appears nowhere in either ranking, and only one source here names it. Its #2 is a northern Thai residency at a Peckham boozer and its #3 is a Grade II-listed former Clerkenwell courthouse. Neither The Devonshire, Blacklock, Hawksmoor nor The Harwood Arms appears anywhere on its list.
 
 | Time Out rank | Pub | Also cited by |
 | --- | --- | --- |
@@ -294,7 +298,7 @@ Four of the best-supported roasts in London are served in restaurants. That chan
 
 *££ · Piccadilly Circus · Cited by 5 sources, all video*
 
-Joint most-cited roast in this guide alongside The Devonshire — and the make-up of that support is unusual enough to state plainly. **All five sunday-roast citations are video.** No award, no masthead roast list. Its editorial reputation sits in the steak sources, not these.
+The second most-cited roast in this guide, behind The Devonshire — and the make-up of that support is unusual enough to state plainly. **All five sunday-roast citations are video.** No award, no masthead roast list. Its editorial reputation sits in the steak sources, not these.
 
 The "All In" is a run of every cut on the menu, priced per head — one 2026 review put the Shoreditch site at £28 a head. Built for groups in a way almost no pub kitchen manages, and with several London sites, a full Sunday at one branch does not mean a full Sunday everywhere.
 
@@ -302,7 +306,7 @@ The "All In" is a run of every cut on the menu, priced per head — one 2026 rev
 
 *A bone-in chop carved tableside, confit potato underneath and bacon-wrapped sausages on the side.*
 
-**Book:** [theblacklock.com](https://theblacklock.com/restaurants/blacklock-soho/) · **two minutes from The Devonshire**
+**The venue's site:** [theblacklock.com](https://theblacklock.com/restaurants/blacklock-soho/) · **two minutes from The Devonshire**
 
 ### Hawksmoor, Spitalfields
 
@@ -316,7 +320,7 @@ The Sunday roast is the reason it appears here: a **rib of beef with bone-marrow
 
 *Bone-marrow gravy poured tableside over beef, a Yorkshire the size of the plate — and a bottle of red for the table.*
 
-**££££ and it books weeks ahead for Sunday.** Several London sites; the roast is served at all of them, unlike the breakfast.
+**££££ and it [books](https://www.opentable.com/booking/experiences-availability?rid=11335&restref=11335&experienceId=682033) weeks ahead for Sunday.** Several London sites; the roast is served at all of them, unlike the breakfast.
 
 ### The Quality Chop House, Clerkenwell
 
@@ -326,7 +330,7 @@ The Sunday roast is the reason it appears here: a **rib of beef with bone-marrow
 
 The **confit potatoes** are the signature and among the most famous side dishes in London: thin-sliced, pressed into a block, confited and fried until the layers separate. The Sunday roast is built around properly sourced beef and those potatoes.
 
-**£££ and it books weeks ahead.** Farringdon. The booths are as hard as they look — that is the listed part.
+**£££ and it [books](https://www.opentable.co.uk/the-quality-chop-house-reservations-london?restref=96150&lang=en-GB&ot_source=Restaurant%20website) weeks ahead.** Farringdon. The booths are as hard as they look — that is the listed part.
 
 ### Fallow, Piccadilly
 
@@ -338,7 +342,7 @@ The **confit potatoes** are the signature and among the most famous side dishes 
 
 The Sunday roast follows the same thinking, using cuts most kitchens would grind, and the à la carte is known for a **smoked cod's head** and **corn ribs with kombu**. **It runs a breakfast service too**, which is why it surfaced on that pass as well as this one.
 
-**£££ and it books weeks ahead.** 52 Haymarket, minutes from Piccadilly Circus.
+**£££ and it [books](https://www.sevenrooms.com/explore/fallowstjames/reservations/create/search?venues=roe%2Cfallowstjames%2Cfowl) weeks ahead.** 52 Haymarket, minutes from Piccadilly Circus.
 
 ---
 
@@ -363,26 +367,27 @@ Sunday roast is one of the few London meals where price maps fairly closely onto
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sunday-roast-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Also named, with less behind them
+## Worth knowing, briefly
 
-Everything else the sources carry by at least two independent sources, or by a ranked list.
+Pubs and rooms the sources back that did not earn a full entry, either because two guides name them or because a ranking does and the roast lists have not caught up. Venue names link to a booking screen where there is one.
 
 | Venue | Where | Price | Sources | What it is |
 | --- | --- | --- | --- | --- |
-| **The Macbeth** | Hoxton | ££ | 2 · Time Out #4 | A revamped Hoxton boozer doing what Time Out calls a rowdy Portuguese luncheon |
-| **The George** | Fitzrovia | ££ | 2 | Boozy downstairs, dining room upstairs; both serve the roast. Not The George Inn in Borough |
-| **The Golden Tooth** | Green Lanes | ££ | 1 · Time Out #1 | Time Out's number one, from the Papi team; named by nothing else here |
-| **Roe** | Canary Wharf | £££ | 2 · both video | Roe by Fallow, at Wood Wharf; creator-backed rather than critic-backed |
-| **The Clarence Tavern** | Stoke Newington | ££ | 2 | A gastropub that works equally as a slap-up meal or a few pints |
-| **Clapton Country Club** | Clapton | ££ | 2 · Time Out #28 | Sunday lunch with live jazz, in an old tram shed |
+| **[The Macbeth](https://the-macbeth.co.uk/)** | Hoxton | ££ | 2 · Time Out #4 | A revamped Hoxton boozer doing what Time Out calls a rowdy Portuguese luncheon |
+| **The George** | Fitzrovia | ££ | 3 · London Pub of the Year 2026 | London's regional winner at the 2026 National Pub & Bar Awards. Boozy downstairs, dining room upstairs; both serve the roast. Not The George Inn in Borough |
+| **[The Audley](https://theaudleypublichouse.com/)** | Mayfair | £££ | 2 · Time Out #25 · London Pub of the Year 2024 | A Thomas Verity pub of 1888 on Mount Street with a Phyllida Barlow ceiling, beef and lamb off the owners' Somerset farm, and no reservations at all — walk in or do not go |
+| **[The Golden Tooth](https://www.goldentooth.co.uk/)** | Green Lanes | ££ | 1 · Time Out #1 | Time Out's number one, from the Papi team; named by nothing else here |
+| **[Roe](https://www.sevenrooms.com/explore/roe/reservations/create/search?venues=roe%2Cfallowstjames%2Cfowl)** | Canary Wharf | £££ | 2 · both video | Roe by Fallow, at Wood Wharf; creator-backed rather than critic-backed |
+| **[The Clarence Tavern](https://www.sevenrooms.com/reservations/theclarencetavern)** | Stoke Newington | ££ | 2 | A gastropub that works equally as a slap-up meal or a few pints |
+| **[Clapton Country Club](https://www.claptoncountryclub.co.uk/)** | Clapton | ££ | 2 · Time Out #28 | Sunday lunch with live jazz, in an old tram shed |
 | **CUT at 45 Park Lane** | Mayfair | ££££ | 2 | The Wolfgang Puck room in the Dorchester group, priced accordingly |
-| **The Hero of Maida** | Maida Vale | ££ | Estrella Damm #24 | Ranked but not covered by any roast list here |
-| **The Kerfield Arms** | Camberwell | ££ | Estrella Damm #25 | The higher-ranked Camberwell pub, and the less famous one |
-| **The Knave of Clubs** | Shoreditch | ££ | Estrella Damm #43 | Ranked, and quiet on a Sunday by Shoreditch standards |
-| **The French House** | Soho | £££ | Estrella Damm #47 | Tiny Soho dining room above the bar |
-| **Anchor & Hope** | Waterloo | ££ | Estrella Damm #64 | On The Cut by the Young Vic; long-running and rarely bookable |
+| **[The Hero of Maida](https://www.sevenrooms.com/explore/thehero/reservations/create/search/?venues=thehero%2Cthepelicanw11%2Cthehartuk%2Cthefatbadger)** | Maida Vale | ££ | Estrella Damm #24 | Ranked but not covered by any roast list here |
+| **[The Kerfield Arms](https://www.sevenrooms.com/explore/thekerfieldarms/reservations/create/search/)** | Camberwell | ££ | Estrella Damm #25 | The higher-ranked Camberwell pub, and the less famous one |
+| **[The Knave of Clubs](https://www.sevenrooms.com/explore/theknaveofclubs/reservations/create/search)** | Shoreditch | ££ | Estrella Damm #43 | Ranked, and quiet on a Sunday by Shoreditch standards |
+| **[The French House](https://www.sevenrooms.com/explore/thefrenchhouse/reservations/)** | Soho | £££ | 2 · Estrella Damm #47 · #3, Industry's Choice 2026 | Third in the trade's own 2026 vote of 400 industry judges, and a tiny Soho dining room above the bar |
+| **[Anchor & Hope](https://www.anchorandhopepub.co.uk/)** | Waterloo | ££ | Estrella Damm #64 | On The Cut by the Young Vic; long-running and rarely bookable |
 | **The Pelican** | Notting Hill | ££ | Estrella Damm #65 | All Saints Road, and one of the pricier neighbourhood roasts |
-| **The Eagle** | Clerkenwell | ££ | Estrella Damm #77 | The Farringdon Road pub generally credited with inventing the gastropub, in 1991 |
+| **[The Eagle](https://theeaglefarringdon.co.uk/)** | Clerkenwell | ££ | Estrella Damm #77 | The Farringdon Road pub generally credited with inventing the gastropub, in 1991 |
 
 ---
 

@@ -38,13 +38,15 @@
       ]
     },
     {
-      "name": "National Pizza Awards 2025",
-      "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+      "name": "National Pizza Awards (2026 finalists, 2025 placings, previous winners)",
+      "url": "https://nationalpizzaawards.co.uk/previous-winners",
       "scope": "pizza",
       "names": [
         "Short Road Pizza",
         "Bing Bong Pizza",
         "Yard Sale Pizza",
+        "Crust Bros",
+        "Five Feet",
         "Mamma Dough",
         "ACE Pizza",
         "Base Face Pizza",
@@ -63,24 +65,26 @@
       "quotes": {
         "Short Road Pizza": "National Pizza of the Year 2025 - Riccardo Demuru's The Short Road Marinara: tomato sauce, confit garlic puree, spicy chimichurri, fresh stracciatella, Cantabrian anchovies and oregano. Trading only a year at the time. Also took the Alternative Slice Award with Caramelle Piccanti",
         "Bing Bong Pizza": "2nd place 2025 - Rich Goodwin's With A Little H(ELP) From My Friends, baked in a pan with fennel sausage meat, pink fir potatoes and pickled Romano peppers",
-        "Yard Sale Pizza": "3rd place 2025 - Paolo Burini's Ragu Pazzo, with burrata, white anchovies and a lemon marmalade swirl",
+        "Yard Sale Pizza": "3rd place 2025 - Paolo Burini's Ragu Pazzo, with burrata, white anchovies and a lemon marmalade swirl; back as a 2026 finalist with The Gaeng Pizza Gang",
+        "Crust Bros": "2026 finalist with the Carbo - a returning finalist, named by the awards' host as one of the London entries",
+        "Five Feet": "2026 finalist with the Hot Sausage - a debut finalist, described by the awards' host as a newly launched London restaurant",
         "Mamma Dough": "Pizza Chef of the Year 2025 - Antonio Raspone, for The Big Apple Blue",
         "ACE Pizza": "Bloggers' Choice Award 2025 - Howard Quayle's The Capish, a 20-inch pizza with house vodka sauce and 'secret recipe' meatballs",
         "Base Face Pizza": "2025 finalist (London)",
         "Fatto a Mano": "2025 finalist (listed as Brighton)",
-        "Franco Manca": "2025 finalist (national)",
+        "Franco Manca": "2025 finalist (national); back as a 2026 finalist with the Mezzaluna",
         "Little Earthquakes": "2025 finalist (London)",
-        "Pizza Pilgrims": "2025 finalist (national)",
+        "Pizza Pilgrims": "2025 finalist (national); back as a 2026 finalist with Che Cavolo",
         "Rudy's Pizza Napoletana": "2025 finalist (national)",
         "Super Club Roma": "2025 finalist (London)",
         "Zia Lucia": "2025 finalist (London)",
-        "Bad Boy Pizza Society": "Pizza of the Year 2024 (Sausage Party), having also won in 2022 (Pepperoni Alla Vodka) - from the awards' Previous Winners page",
+        "Bad Boy Pizza Society": "Pizza of the Year 2024 (Sausage Party), having also won in 2022 (Pepperoni Alla Vodka) - from the awards' Previous Winners page; a 2026 finalist with the Vodka Sausage, going for a third title",
         "Zerodegrees": "Pizza of the Year 2023 (The Cinghiale) - London site in Blackheath",
         "Purezza": "Pizza of the Year 2018 (Parmigiana Party) - London site in Camden",
         "Papa Roma": "Pizza of the Year 2017 (Di Bosco) - South Kensington"
       },
-      "recorded": "2026-08-30",
-      "_note": "Read from the awards' own site: /the-uks-best-pizza carries the 2025 placings, the special awards and the 16 finalists; /previous-winners carries 2016-2024. No second-hand attribution needed."
+      "recorded": "2026-09-21",
+      "_note": "Read from the awards' own site. The 2025 placings and special awards came from /the-uks-best-pizza, which the site retired when it rebuilt for the 2026 cycle; /previous-winners carries the year-by-year champions from 2016 and is the live URL for this record. The 2026 finalists are at /finalists, sixteen of them, with the London subset named by the awards' host publication (Dine Out, 11 Sep 2026): Bad Boy Pizza Society, Crust Bros, Five Feet, Franco Manca, Pizza Pilgrims and Yard Sale Pizza. TRAP 12: the other ten are Manchester (Nell's), Hove (Stretch), Hereford (Leaven), Newcastle (CIRCO), Bruton (At the Chapel), Beaconsfield (Due Forni, address read off dueforni.co.uk) and four - ALFI, East West, Scott's All Day and Zizzi - whose town the awards do not publish, so none of them is counted here. The 2026 final is on 3 November 2026 at Big Penny Social, London; no 2026 winner exists yet."
     },
     {
       "name": "Barstool Sports - One Bite Pizza Reviews",
@@ -119,13 +123,30 @@
         "Connie's Pizza"
       ],
       "quotes": {
-        "Napoli on the Road": "#1 in Europe - third consecutive year at number one",
-        "50 Kalò": "#4 in Europe; top 20 auto-qualify for 100 Best Pizzerias in the World",
+        "Napoli on the Road": "#1 in Europe - third consecutive year at number one, and Top Pizzeria in England 2026",
+        "50 Kalò": "#4 in Europe; top 20 auto-qualify for 100 Best Pizzerias in the World; Best Fried Food 2026 (Oleificio Zucchi Award)",
         "L'Antica Pizzeria da Michele": "#28 in Europe - listed as L'Antica Pizzeria",
-        "Connie's Pizza": "#48 in Europe - plus a 'one to watch' award - listed as Connie's Pizzeria"
+        "Connie's Pizza": "#48 in Europe - plus the One to Watch 2026 award (Mammafiore Award) - listed as Connie's Pizzeria"
       },
-      "recorded": "2026-08-30",
-      "_note": "Same domain as the 2025 ranking below - one publisher, two dated rankings."
+      "recorded": "2026-09-21",
+      "_note": "Same domain as the 2025 ranking below - one publisher, two dated rankings. TRAP 10 AND 12: the tenth edition raised the ranking from 50 positions to 60, and the four names here are the only London entries across all 60 - the rest of the guide's 200 European pizzerias are unranked. Special awards read off the same results page."
+    },
+    {
+      "name": "PAPA Industry Awards 2025",
+      "url": "https://www.papaindustryawards.co.uk/award-winners-2025",
+      "scope": "pizza",
+      "names": [
+        "Pizza Pilgrims",
+        "Rudy's Pizza Napoletana",
+        "L'Antica Pizzeria da Michele"
+      ],
+      "quotes": {
+        "Pizza Pilgrims": "Pizza Restaurant Chain of the Year 2025 - the Pizza, Pasta & Italian Food Association's own industry awards, judged annually",
+        "Rudy's Pizza Napoletana": "Highly Commended, Pizza Restaurant Chain of the Year 2025 - listed as Rudy's Pizza",
+        "L'Antica Pizzeria da Michele": "Gold Award, Independent Pizza Restaurant of the Year 2019 - listed as 'L'Antica Pizzeria da Michele, London' on the previous-winners page"
+      },
+      "recorded": "2026-09-21",
+      "_note": "New source, 21 Sep 2026. Run by the Pizza, Pasta & Italian Food Association (papa.org.uk) and judged; winners are published per category at /award-winners-2025 with the previous-winners archive at /previous-winners. TRAP 12 - UK-WIDE: the 2025 Independent Pizza Restaurant winner is Village Pizza Kitchen in Hurstpierpoint, Independent Pizza Delivery is Pizzaface in Worthing, Independent Mobile Pizza is Gavin's Pizza Company in Manchester and the Pizza Chef of the Year is Michele Rutigliano of Due Forni, whose own site gives 11 Windsor End, Beaconsfield - none of them London, none counted. Its 2025 Independent Italian Restaurant winner, Spaghetti Tree in Croydon, IS London but the category is Italian restaurants rather than pizza, so it belongs in the italian corpus and is not recorded here. The 2026 finalists published so far are product categories only, no restaurants."
     },
     {
       "name": "Country & Town House",

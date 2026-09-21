@@ -253,6 +253,10 @@ The savoury course is unusually ambitious for a tea: **camembert custard tart wi
 
 The **Chinoiserie** is a wide, tranquil ground-floor lounge, and it **serves all afternoon rather than in fixed sittings** — which makes it one of the easier Knightsbridge teas to get into at short notice, genuinely useful if you have not booked weeks ahead.
 
+![The Chinoiserie lounge at the Jumeirah Carlton Tower: a wide, symmetrical ground-floor room with blue velvet sofas, yellow armchairs and a long pastry counter at the far end](../../assets/articles/best-afternoon-tea-london/jumeirah-chinoiserie.jpg)
+
+*The Chinoiserie. It serves all afternoon rather than in sittings, which is why you can often get in at short notice.*
+
 The current stand is nature-themed and deliberately disrupts the classic order: unexpected pairings through the savouries and pastries rather than the standard progression, alongside a full leaf list and warm scones.
 
 **From £85.** A live harpist most afternoons, and enough space between tables that it never feels like a sitting.
@@ -281,6 +285,10 @@ Served as **High Palms High Tea**: finger sandwiches, freshly baked scones with 
 
 The Berkeley's fashion-themed Prêt-à-Portea ran for two decades and has been replaced by **Goûtea, built by Cédric Grolet** — the pastry chef whose trompe-l'œil fruit made him the most copied patissier in Europe.
 
+![Five pastries under glass cloches on the Cedric Grolet counter at The Berkeley, including a trompe-l'oeil peach and fig, with Hyde Park through the window behind](../../assets/articles/best-afternoon-tea-london/berkeley-goutea-counter.jpg)
+
+*Grolet's trompe-l'oeil fruit under cloches at the Chef's Counter. The peach and the fig are cakes.*
+
 The format is British and the sweets are emphatically not: finger sandwiches and warm scones arrive first, then **desserts sculpted to look like fruit and flowers**, cut open at the table to show what is inside. Pastries and cookies alongside.
 
 Taken in the light-filled **Berkeley Café**, or at the **Chef's Counter** if you would rather watch it being finished than be brought it. Still the most photographed tea in London, for different reasons than before.
@@ -304,6 +312,10 @@ The **egg-shaped lavatory pods** upstairs remain, and remain the second reason p
 *££££ · the Grill Room · Cited by 5 sources · Award of Excellence 2026*
 
 Tea is served in the **Grill Room**, the Louis XVI room the hotel has kept behind its Regent Street front, and it is the most decorated room on this page that is not a hotel lounge.
+
+![The Grill Room at Hotel Café Royal: a gilded Louis XVI dining room with mirrored walls, a painted ceiling, red leather chairs around white-clothed tables and a grand piano](../../assets/articles/best-afternoon-tea-london/cafe-royal-grill-room.jpg)
+
+*The Grill Room. Gilding, mirrors and a painted ceiling — this is the room the award is for, and the reason to choose it over a hotel lounge.*
 
 It holds an **Award of Excellence in the Afternoon Tea Awards 2026**, and it is the only London tea that both a judged panel and two separate video reviewers picked out in the same year — Insider Food made it the first of three stops in a day spent looking for the best in the city, and Harrison Webb used it as the expensive half of a cheap-versus-expensive test against a £15 tea in Richmond.
 
@@ -394,6 +406,10 @@ Exotic teas or champagne alongside. Smaller and calmer than Claridge's or The Ri
 
 Tucked down a cul-de-sac off St James's, in a hotel built around **17th-century wine cellars** that were used as an air-raid shelter during the Blitz. The quietest central location on this list — you cannot hear Piccadilly from the lounge.
 
+![The cobbled courtyard at The Stafford, with wooden tables and cushioned chairs under striped awnings outside the American Bar, olive trees in planters and a heater between the tables](../../assets/articles/best-afternoon-tea-london/stafford-courtyard.jpg)
+
+*The courtyard, down the cul-de-sac off St James's. This is how quiet the address is — Piccadilly is two minutes away and you cannot hear it.*
+
 A straight, well-executed traditional stand: finger sandwiches, warm scones, patisserie, no theme and no gimmick. This is the one to book when you want the format done properly and nothing else.
 
 **£70 a head, or £87 with a glass of Louis Roederer Collection 243.** Served daily from noon to 5.30pm.
@@ -418,6 +434,10 @@ Delicate pastries, **freshly baked scones**, and finger sandwiches cut with the 
 
 A Victorian townhouse hotel **facing Kensington Palace and Kensington Gardens** across the road, with tea taken in a panelled, fire-lit lounge that feels closer to a private house than a hotel — forty-odd covers rather than a hall.
 
+![A three-tier afternoon tea stand on a white-clothed table at The Milestone, in front of a leaded window with striped curtains and a red velvet chair](../../assets/articles/best-afternoon-tea-london/milestone-tea-stand.jpg)
+
+*Forty-odd covers in a panelled room facing Kensington Palace, and silver service rather than a hotel lounge.*
+
 Traditional finger sandwiches, freshly baked scones and pastries, with a properly made children's version rather than a smaller adult one. It won an **Award of Excellence at the 2026 Afternoon Tea Awards**, which few of the grander names here can say.
 
 **From £85.** The location makes it the obvious stop if you are doing Kensington Palace or the museums the same day, and it books far less far ahead than the Mayfair rooms.
@@ -434,6 +454,10 @@ Traditional finger sandwiches, freshly baked scones and pastries, with a properl
 
 Not a traditional tea at all, and the guide should say so: One Aldwych runs a licensed **Charlie and the Chocolate Factory** tea in its lobby restaurant, and it is the best of London's themed sittings by some distance.
 
+![An overhead view of the Charlie and the Chocolate Factory afternoon tea at One Aldwych, laid out on lilac with striped plates, caterpillar cakes, coloured sponge squares and scones](../../assets/articles/best-afternoon-tea-london/one-aldwych-charlie-tea.jpg)
+
+*The licensed Charlie and the Chocolate Factory tea. The caterpillars and the coloured squares are the point; the scones are conventional.*
+
 **Cheesecake inside a golden egg**, cake pops, puffs of candy floss, and a Charlie Cocktail served from a teapot with dry ice pouring over the side. Savouries come first and are conventional; everything after is not.
 
 **£95 for adults including a glass of champagne, £65 for under-12s.** The obvious pick with children old enough to know the book, and it books up in school holidays.
@@ -443,6 +467,10 @@ Not a traditional tea at all, and the guide should say so: One Aldwych runs a li
 *£££ · 1 min from South Kensington*
 
 A **Jurassic afternoon tea**, built to match the Natural History Museum two streets away, and the reason to choose it over anywhere else in Kensington if you have children in tow.
+
+![The Ampersand's Jurassic afternoon tea on a three-tier stand with dry ice smoking from a chocolate volcano, a stegosaurus cake, a fossil-print sphere and egg-shaped desserts, beside a small excavation kit](../../assets/articles/best-afternoon-tea-london/ampersand-jurassic-tea.jpg)
+
+*The Jurassic tea, with the dry ice and the excavation kit. The Natural History Museum is two streets away.*
 
 The stand arrives **wreathed in dry ice**. **T-rex footprint macarons**, dark chocolate and caramel dinosaur egg nests, biscuit fossils, alongside a conventional savoury course. Taken in the Drawing Rooms, a bright basement space rather than a grand salon.
 

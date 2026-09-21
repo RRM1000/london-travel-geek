@@ -40,10 +40,9 @@
         "The Standard",
         "The Breakfast Club",
         "Dishoom",
-        "Megan’s",
-        "Lux Life Sitemaps & Links",
-        "HTML Sitemap"
-      ]
+        "Megan’s"
+      ],
+      "_note": "TRAP 8, fixed 21 Sep 2026: 'Lux Life Sitemaps & Links' and 'HTML Sitemap' had been extracted from the page footer and were counting as two venues."
     },
     {
       "name": "Resy",
@@ -352,5 +351,5 @@
     "https://www.tiktok.com/@liza_kayyy": "Tomtom Coffee House, 134k views. Caption carries 'invite'.",
     "https://www.youtube.com/@thetourguy": "Chapters name areas, not venues - 'Brunch in Seven Dials' - so there is nothing citable to record."
   },
-  "scope": "BREAKFAST AND BRUNCH, the full range: hotel dining rooms and Michelin kitchens at one end, greasy spoons and caffs at the other, and the mini-chains in between. NO AWARD EXISTS for breakfast in Britain, so there is no tier-A judged ranking and the guide says so. The cheap end is carried mostly by one specialist blog and one Time Out list, because the mastheads' brunch coverage stops well above GBP 10."
+  "scope": "BREAKFAST AND BRUNCH, the full range: hotel dining rooms and Michelin kitchens at one end, greasy spoons and caffs at the other, and the mini-chains in between. AWARD SWEEP, 21 Sep 2026: a judged breakfast award does now exist - the National Breakfast & Brunch Awards (breakfastbrunchawards.co.uk), hosted by Quick Serve magazine of H2O Publishing, sixteen finalists cooking four rounds in front of a judging panel. Its first published results come from the final on 23 February 2027 at Big Penny Social, London, so there is nothing to cite yet: the cognito entry forms for 2024, 2025 and 2026 all 404 and only the 2027 one resolves. Re-collect after that date. Nothing else judged covers this meal - La Liste's Hotels 2026 Special Awards run to thirteen categories and none is breakfast, and Harden's publishes no breakfast or brunch list. The cheap end is carried mostly by one specialist blog and one Time Out list, because the mastheads' brunch coverage stops well above GBP 10."
 }

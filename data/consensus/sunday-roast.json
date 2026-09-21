@@ -157,6 +157,27 @@
       ]
     },
     {
+      "name": "National Pub & Bar Awards 2026 (with the 2025 and 2024 London regional winners)",
+      "url": "https://www.nationalpubandbarawards.co.uk/the-regions-2026",
+      "scope": "sunday-roast",
+      "names": [
+        "The Devonshire",
+        "The French House",
+        "The Red Lion and Sun",
+        "The George",
+        "The Audley"
+      ],
+      "quotes": {
+        "The Devonshire": "#1 in the Industry's Choice Award 2026, retained - a top ten voted by a panel of 400 handpicked industry judges. Judges the pub, not specifically its roast",
+        "The French House": "#3 in the Industry's Choice Award 2026 - judges the pub, not specifically its roast",
+        "The Red Lion and Sun": "#4 in the Industry's Choice Award 2026, and London regional winner 2025 - judges the pub, not specifically its roast",
+        "The George": "London regional winner 2026 and Greater London county winner 2026, listed as 'The George, Fitzrovia' - judges the pub, not specifically its roast",
+        "The Audley": "London regional winner 2024, listed as 'The Audley Public House, Greater London' - judges the pub, not specifically its roast. Its own site says it serves a traditional roast on Sundays, walk-ins only"
+      },
+      "recorded": "2026-09-21",
+      "_note": "New source, 21 Sep 2026. Run by Pub & Bar magazine (H2O Publishing), judged and dated, with a county winner, a regional winner and a national Pub & Bar of the Year each year, plus the Industry's Choice Award voted by a panel of 400 industry judges and published as a ranked top ten. Same caveat as the Estrella Damm ranking: it judges the PUB, not the roast. TRAP 12 - UK-WIDE: the 2026 national winner is The Gunton Arms in Norwich and eleven of the thirteen regional winners are outside London, so only the London region, the two London county winners and the London entries in the Industry's Choice ten are counted. Two of those London names are left out on purpose - Somers Town Coffee House (#2 Industry's Choice) and The Star by Liverpool Street (City of London county winner 2026) - because no operator page could be found for either and neither can be confirmed to serve a Sunday roast, so counting them here would be a roast citation for something that may not be one."
+    },
+    {
       "name": "Estrella Damm Top 50 Gastropubs 2026",
       "url": "https://www.top50gastropubs.com/list/1-50",
       "scope": "sunday-roast",

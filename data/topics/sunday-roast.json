@@ -2,8 +2,8 @@
   "topic": "sunday-roast",
   "article": "src/content/articles/best-sunday-roast-london.md",
   "headTerm": "Sunday Roast",
-  "status": "re-collected 2026-08-30; video tier is the strongest tier in this topic; community tier thin (1 name)",
-  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records what is specific to Sunday roast: the one award that covers it, the fact that the award does not actually judge the roast, and the ranks the previous article got wrong.",
+  "status": "re-collected 2026-08-30; second award added 2026-09-21; video tier is the strongest tier in this topic; community tier thin (1 name)",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records what is specific to Sunday roast: the two awards that cover it, the fact that neither actually judges the roast, and the ranks the previous article got wrong.",
   "awardBodies": [
     {
       "name": "Estrella Damm Top 50 Gastropubs",
@@ -12,7 +12,20 @@
       "cadence": "annual",
       "note": "The only judged, dated ranking touching this topic, and it RANKS THE PUB, NOT THE ROAST. Every quote recorded from it says so. Read the ranks from top50gastropubs.com itself and not from press coverage - a Hot Dinners write-up of the announcement is tier B and collapses the award into a masthead.",
       "extendedList": "The site publishes 1-50 and a separate 51-100 extension on the same page. Three London pubs the guide covers sit in the extension - The Camberwell Arms #60, The Parakeet #61, The Drapers Arms #67 - and an extended-list place must be labelled as one, because '#60' and '#60 of the top 50' are different claims."
+    },
+    {
+      "name": "National Pub & Bar Awards",
+      "domain": "nationalpubandbarawards.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "added": "2026-09-21",
+      "note": "Found in the 21 Sep 2026 award sweep, and the second judged ranking to reach this topic. Run by Pub & Bar magazine (H2O Publishing). Four things worth reading, all on its own site: /the-regions-<year> for the London regional winner, /find-your-local-<year> for the City of London and Greater London county winners, /pub-of-the-year for the national winner, and /industrys-choice for a ranked top ten voted by a panel of 400 handpicked industry judges. Earlier years are at /<year>-winners back to 2021. SAME CAVEAT AS ESTRELLA DAMM: it judges the pub across all seven days, not the roast.",
+      "londonScope": "2026 region and Greater London county: The George, Fitzrovia. 2026 City of London county: The Star by Liverpool Street. 2025 region: The Red Lion & Sun, Highgate. 2024 region: The Audley Public House. Industry's Choice 2026 London entries: #1 The Devonshire, #2 Somers Town Coffee House, #3 The French House, #4 The Red Lion & Sun. Everything else in the award is outside London."
     }
+  ],
+  "awardBodiesRuledOut": [
+    "Great British Pub Awards (greatbritishpubawards.co.uk, The Morning Advertiser) - judged and dated, but its 18 categories have no Sunday roast or even a straightforward food-pub-of-London category, and the two 2025 London winners are Perry Hill Pub (Best Pub for Families) and The Fox Keston (Stonegate Pub Partners Pub of the Year). Its 2026 ceremony is on 23 September 2026, so the 2026 winners are worth a look on the next pass.",
+    "CAMRA - judges beer and the pub interior, and its branch Pub of the Year pages are already used by the historic-pubs topic."
   ],
   "correctionsToPreviousArticle": [
     "The Camberwell Arms was published as 'UK Top 50 Gastropubs 2026 - #9' and as 'the highest-placed London pub after The Devonshire'. It is #60, on the extended 51-100 list, and at least ten London pubs place above it.",
@@ -89,18 +102,19 @@
     ]
   },
   "knownGaps": [
-    "THE AWARD DOES NOT JUDGE THE ROAST. This is the structural weakness of the topic and the article says so in its evidence block. The Estrella Damm ranking is of the pub as a whole; a pub can place highly on it and serve an ordinary Sunday lunch. No dated, judged ranking of London Sunday roasts exists.",
+    "NEITHER AWARD JUDGES THE ROAST. Both the Estrella Damm ranking and the National Pub & Bar Awards rank the pub as a whole; a pub can place highly on either and serve an ordinary Sunday lunch. No dated, judged ranking of London Sunday roasts exists, and the article says what the rankings do measure rather than what they miss.",
+    "Two London names in the National Pub & Bar Awards are deliberately not recorded: Somers Town Coffee House (#2 Industry's Choice 2026) and The Star by Liverpool Street (City of London county winner 2026). No operator page could be found for either, so neither can be confirmed to serve a Sunday roast, and a roast citation for a pub that may not serve one is worse than a missing one. Worth resolving on the next pass.",
     "COMMUNITY TIER IS ALMOST EMPTY. r/london contributed one name (The Gun), backed by nothing else. Reddit is blocked to curl and to the browser pane.",
     "The video tier carries more weight here than in any other topic: Blacklock's five sunday-roast citations are ALL tier D, and its editorial support belongs to the steak corpus, not this one. Printed as such rather than blended.",
     "Time Out's list and the gastropub ranking share almost no names. Two of the sources point at genuinely different pubs, which is a finding, not noise."
   ],
   "currentState": {
-    "recorded": "2026-08-30",
-    "sources": 19,
-    "citations": 119,
-    "namesInCorpus": 86,
-    "twoPlusDomains": 22,
-    "tierACitations": 23,
+    "recorded": "2026-09-21",
+    "sources": 20,
+    "citations": 120,
+    "namesInCorpus": 82,
+    "twoPlusDomains": 24,
+    "tierACitations": 25,
     "articleExists": true,
     "meetingTheBar": 16
   },

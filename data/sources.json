@@ -1070,7 +1070,23 @@
     },
     "nationalpizzaawards.co.uk": {
       "name": "National Pizza Awards",
-      "tier": "A"
+      "tier": "A",
+      "note": "Hosted by Dine Out magazine (H2O Publishing). Entries open in summer, the live cook-off final is in November. The site rebuilds each cycle: /the-uks-best-pizza, which carried the 2025 placings and finalists, was retired for 2026. Live pages are /finalists (current year) and /previous-winners (champions by year, winner only - no placings or special awards). UK-WIDE: scope to London before counting. Dine Out's own report of the finalists is the same body, not a second voice."
+    },
+    "nationalpubandbarawards.co.uk": {
+      "name": "National Pub & Bar Awards",
+      "tier": "A",
+      "note": "Registered 21 Sep 2026 for the Sunday roast pass. Run by Pub & Bar magazine (H2O Publishing): a county winner and a regional winner every year, a national Pub & Bar of the Year, and the Industry's Choice Award, a ranked top ten voted by a panel of 400 handpicked industry judges. Live pages are /the-regions-<year>, /find-your-local-<year> (county winners), /pub-of-the-year, /industrys-choice and /<year>-winners back to 2021. It judges the PUB, not any single dish - say so wherever a placing is printed, the same way the Estrella Damm ranking is handled. UK-WIDE: scope to London before counting."
+    },
+    "breakfastbrunchawards.co.uk": {
+      "name": "National Breakfast & Brunch Awards",
+      "tier": "A",
+      "note": "Registered 21 Sep 2026 during the breakfast award sweep, BEFORE it has anything to cite. Hosted by Quick Serve magazine (H2O Publishing, the same house as the National Pizza Awards): sixteen finalists cook a signature round, a technical round, an omelette challenge and a brunch-at-speed round in front of industry judges. The domain serves only a frameset around the entry form; the results will have to be read from Quick Serve, as with the National Burger Awards. First final: 23 February 2027, Big Penny Social, London. UK-WIDE - scope to London before counting."
+    },
+    "papaindustryawards.co.uk": {
+      "name": "PAPA Industry Awards",
+      "tier": "A",
+      "note": "The Pizza, Pasta & Italian Food Association's industry awards, run from papa.org.uk and judged annually, with a separate Pizza Chef of the Year cook-off. Registered 21 Sep 2026 for the pizza pass. Winners publish one page per category under /award-winners-<year>; the winner's name is inside the category page, not on the index, and the archive of earlier years is at /previous-winners. UK-WIDE and trade-facing - most categories are manufacturers and supermarkets - so scope hard to London and to restaurant categories before counting."
     },
     "onebite.app": {
       "name": "One Bite Pizza Reviews (Barstool)",

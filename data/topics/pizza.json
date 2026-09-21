@@ -16,9 +16,18 @@
       "domain": "nationalpizzaawards.co.uk",
       "tier": "A",
       "cadence": "annual",
-      "resultsPath": "/the-uks-best-pizza",
+      "resultsPath": "/finalists",
       "previousWinnersPath": "/previous-winners",
-      "note": "READ THIS BEFORE COLLECTING. /previous-winners stops at the year before last; the current year's placings, special awards and full finalist list are at /the-uks-best-pizza. Missing that page once produced a false 'the awards are unreadable' caveat and hid six venues' tier-A awards."
+      "note": "READ THIS BEFORE COLLECTING. The site rebuilds each cycle and retires the old results page: /the-uks-best-pizza, which carried the 2025 placings, special awards and finalists, now 404s. The live pages are /finalists (current year's shortlist, venue in the h4 and its pizza in the p beneath) and /previous-winners (champions by year, winner only). The final is in November, so from about September there are finalists but no winner. Neither page prints towns - the awards' host, Dine Out magazine, publishes them in its finalists story and is the same body, not a second source."
+    },
+    {
+      "name": "PAPA Industry Awards",
+      "domain": "papaindustryawards.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/award-winners-<year>",
+      "previousWinnersPath": "/previous-winners",
+      "note": "Added 21 Sep 2026. The Pizza, Pasta & Italian Food Association's own judged awards, plus a separate Pizza Chef of the Year cook-off at /pizza-chef-winners-<year>. The winner's name is NOT on the category index - it sits inside each category page, under 'The winner of this award is'. Mostly trade and retail categories; the ones that matter here are Pizza Restaurant Chain, Independent Pizza Restaurant and Pizza Chef of the Year, and all of them are UK-wide."
     }
   ],
   "editorialLists": [
@@ -82,13 +91,15 @@
   },
   "knownGaps": [
     "Community tier (E) is empty - no Reddit threads recorded, in a topic where Londoners argue about pizza constantly. The corpus finished 64% video.",
-    "No website found for Ace Pizza, Bing Bong Pizza (trades inside You Call The Shots), Lauretta's (Instagram only), Patio Pizza, Pizza Union or Purezza.",
+    "No website found for Ace Pizza, Bing Bong Pizza (trades inside You Call The Shots), Lauretta's (Instagram only), Patio Pizza or Pizza Union. Purezza is resolved: purezza.co.uk, with bookings at /reservations/ and a Camden page at /locations/camden/.",
     "First Seen is now a real per-slug date, fixed 2026-08-30. It reads from data/slugs.json, which records when a slug first appeared. The 750 rows that predate the fix all read 2026-08-17, the date the registry started - that is when we first recorded them, not when they opened. A 'new openings' section can use it from now on."
   ],
   "openVenueQuestions": [
     "Crisp Pizza - merged across The Chancellors (Hammersmith, the site The Infatuation ranked #1) and The Marlborough (Mayfair). One brand, two pubs, carried as Branches rows.",
     "Bebere - suspected misspelling of Berbere from a TikTok caption. Left separate; merging on a hunch would hand Berbere a source it may not have.",
-    "Gracey's Pizza - The Infatuation ranks it #2 of 12 but places it in St Albans. Kept, flagged in the article as outside London.",
-    "Three sources labelled SYNDICATION in their quotes are still counted as independent opinions. Resolving them would take Napoli on the Road 8 -> 6 and Short Road Pizza 4 -> 3."
+    "Gracey's Pizza - RESOLVED 21 Sep 2026. The Infatuation ranked the St Albans original, but graceyspizza.com's own Locations menu lists three London sites, all inside Arcade food halls: Covent Garden, Battersea Power Station and Centre Point on Tottenham Court Road. It is a London venue and the guide now carries it as one.",
+    "Three sources labelled SYNDICATION in their quotes are still counted as independent opinions. Resolving them would take Napoli on the Road 8 -> 6 and Short Road Pizza 4 -> 3.",
+    "Five Feet - a 2026 National Pizza Awards finalist that the awards' host calls a newly launched London restaurant. fivefeet.co.uk is live but client-rendered and publishes no address; data/months/october-2026.json has it at 4 Tanner Street, Bermondsey on Hot Dinners alone. Recorded in the corpus, deliberately kept out of the guide's list until the operator confirms an address.",
+    "Pizza Pilgrims and Rudy's both took the PAPA Industry Awards' chain category, which judges the BRAND, not a London branch - written up as a chain award for that reason."
   ]
 }

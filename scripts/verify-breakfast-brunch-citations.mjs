@@ -38,7 +38,10 @@ for (const line of art.split(/\r?\n/)) {
   if (b) lastName = b[1].trim();
   // A bold first cell is the venue in most tables but the RANK in a ranking
   // comparison, and treating "#1" as a venue makes every such row look missing.
-  const t = line.match(/^\|\s*\*\*([^*]+)\*\*\s*\|/);
+  // A bold table cell may be a markdown link - "**[The Good Egg](url)**" - and
+  // the brackets and href have to come off before the name is resolved, or every
+  // linked row reads as a venue that is not in evidence.json.
+  const t = line.match(/^\|\s*\*\*\[?([^\]*]+?)\]?(?:\([^)]*\))?\*\*\s*\|/);
   if (t) lastName = /^#\d+$/.test(t[1].trim()) ? null : t[1].trim();
 
   const claimed = line.match(/Cited by (\d+) sources?/)?.[1]

@@ -8757,8 +8757,8 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
-        "quote": "2025 finalist (national)"
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
+        "quote": "2025 finalist (national); back as a 2026 finalist with the Mezzaluna"
       },
       {
         "tier": "C",
@@ -24443,63 +24443,6 @@
       }
     ]
   },
-  "luxlifesitemapsandlinks": {
-    "name": "Lux Life Sitemaps & Links",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "LuxLife",
-        "url": "https://luxlifelondon.com/best-breakfast-spots-london/"
-      }
-    ]
-  },
-  "htmlsitemap": {
-    "name": "HTML Sitemap",
-    "topics": [
-      "breakfast-brunch",
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "LuxLife",
-        "url": "https://luxlifelondon.com/best-breakfast-spots-london/"
-      }
-    ]
-  },
   "carmel": {
     "name": "Carmel",
     "topics": [
@@ -29872,8 +29815,8 @@
       "steak",
       "sunday-roast"
     ],
-    "sourceCount": 25,
-    "tierSpread": "A4 B7 C5 D9",
+    "sourceCount": 26,
+    "tierSpread": "A5 B7 C5 D9",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -29908,8 +29851,8 @@
         "hasAward": true
       },
       "sunday-roast": {
-        "sourceCount": 5,
-        "tierSpread": "A1 B1 D3",
+        "sourceCount": 6,
+        "tierSpread": "A2 B1 D3",
         "tierCount": 3,
         "hasAward": true
       }
@@ -29936,6 +29879,12 @@
         "source": "World's 101 Best Steak Restaurants",
         "url": "https://www.worldbeststeaks.com/the-list",
         "quote": "#45 in the World's 101 Best Steak Restaurants 2026"
+      },
+      {
+        "tier": "A",
+        "source": "National Pub & Bar Awards",
+        "url": "https://www.nationalpubandbarawards.co.uk/the-regions-2026",
+        "quote": "#1 in the Industry's Choice Award 2026, retained - a top ten voted by a panel of 400 handpicked industry judges. Judges the pub, not specifically its roast"
       },
       {
         "tier": "B",
@@ -31946,8 +31895,8 @@
       "gastropub-food",
       "sunday-roast"
     ],
-    "sourceCount": 9,
-    "tierSpread": "A1 B6 C2",
+    "sourceCount": 10,
+    "tierSpread": "A2 B6 C2",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -31964,8 +31913,8 @@
         "hasAward": true
       },
       "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
+        "sourceCount": 3,
+        "tierSpread": "A2 B1",
         "tierCount": 2,
         "hasAward": true
       }
@@ -31975,6 +31924,12 @@
         "tier": "A",
         "source": "Estrella Damm Top 50 Gastropubs",
         "url": "https://www.top50gastropubs.com/"
+      },
+      {
+        "tier": "A",
+        "source": "National Pub & Bar Awards",
+        "url": "https://www.nationalpubandbarawards.co.uk/the-regions-2026",
+        "quote": "#4 in the Industry's Choice Award 2026, and London regional winner 2025 - judges the pub, not specifically its roast"
       },
       {
         "tier": "B",
@@ -33005,10 +32960,10 @@
       "gastropub-food",
       "sunday-roast"
     ],
-    "sourceCount": 10,
-    "tierSpread": "B7 C2 D1",
-    "tierCount": 3,
-    "hasAward": false,
+    "sourceCount": 11,
+    "tierSpread": "A1 B7 C2 D1",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -33023,13 +32978,19 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "National Pub & Bar Awards",
+        "url": "https://www.nationalpubandbarawards.co.uk/the-regions-2026",
+        "quote": "London regional winner 2024, listed as 'The Audley Public House, Greater London' - judges the pub, not specifically its roast. Its own site says it serves a traditional roast on Sundays, walk-ins only"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -35072,8 +35033,8 @@
       "most-beautiful-pubs",
       "sunday-roast"
     ],
-    "sourceCount": 19,
-    "tierSpread": "A3 B10 C6",
+    "sourceCount": 20,
+    "tierSpread": "A4 B10 C6",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -35108,8 +35069,8 @@
         "hasAward": true
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
+        "sourceCount": 2,
+        "tierSpread": "A2",
         "tierCount": 1,
         "hasAward": true
       }
@@ -35131,6 +35092,12 @@
         "source": "CAMRA",
         "url": "https://camra.org.uk/heritage-pubs/national-inventory",
         "quote": "CAMRA National Inventory of Historic Pub Interiors - two stars, 'of very special national historic importance' (W1D 5BG)"
+      },
+      {
+        "tier": "A",
+        "source": "National Pub & Bar Awards",
+        "url": "https://www.nationalpubandbarawards.co.uk/the-regions-2026",
+        "quote": "#3 in the Industry's Choice Award 2026 - judges the pub, not specifically its roast"
       },
       {
         "tier": "B",
@@ -58656,7 +58623,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "2025 finalist (listed as Brighton)"
       },
       {
@@ -58949,8 +58916,8 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
-        "quote": "3rd place 2025 - Paolo Burini's Ragu Pazzo, with burrata, white anchovies and a lemon marmalade swirl"
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
+        "quote": "3rd place 2025 - Paolo Burini's Ragu Pazzo, with burrata, white anchovies and a lemon marmalade swirl; back as a 2026 finalist with The Gaeng Pizza Gang"
       },
       {
         "tier": "B",
@@ -84541,8 +84508,8 @@
       "most-beautiful-pubs",
       "sunday-roast"
     ],
-    "sourceCount": 12,
-    "tierSpread": "A1 B4 C4 D3",
+    "sourceCount": 13,
+    "tierSpread": "A2 B4 C4 D3",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -84571,10 +84538,10 @@
         "hasAward": true
       },
       "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "B1 D1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 D1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
@@ -84583,6 +84550,12 @@
         "source": "CAMRA",
         "url": "https://camra.org.uk/heritage-pubs/national-inventory",
         "quote": "CAMRA National Inventory of Historic Pub Interiors - two stars, 'of very special national historic importance' (W1W 7LQ); and CAMRA Pub Design Awards 2023 - Refurbishment, highly commended: 'a magnificent five-bay back-fitting with etched and gilded mirrors'"
+      },
+      {
+        "tier": "A",
+        "source": "National Pub & Bar Awards",
+        "url": "https://www.nationalpubandbarawards.co.uk/the-regions-2026",
+        "quote": "London regional winner 2026 and Greater London county winner 2026, listed as 'The George, Fitzrovia' - judges the pub, not specifically its roast"
       },
       {
         "tier": "B",
@@ -96189,7 +96162,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "National Pizza of the Year 2025 - Riccardo Demuru's The Short Road Marinara: tomato sauce, confit garlic puree, spicy chimichurri, fresh stracciatella, Cantabrian anchovies and oregano. Trading only a year at the time. Also took the Alternative Slice Award with Caramelle Piccanti"
       },
       {
@@ -112776,8 +112749,8 @@
       "halal",
       "pizza"
     ],
-    "sourceCount": 11,
-    "tierSpread": "A1 B3 C4 D3",
+    "sourceCount": 12,
+    "tierSpread": "A2 B3 C4 D3",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -112788,8 +112761,8 @@
         "hasAward": false
       },
       "pizza": {
-        "sourceCount": 7,
-        "tierSpread": "A1 B1 C2 D3",
+        "sourceCount": 8,
+        "tierSpread": "A2 B1 C2 D3",
         "tierCount": 4,
         "hasAward": true
       }
@@ -112798,8 +112771,14 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
-        "quote": "2025 finalist (national)"
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
+        "quote": "2025 finalist (national); back as a 2026 finalist with Che Cavolo"
+      },
+      {
+        "tier": "A",
+        "source": "PAPA Industry Awards",
+        "url": "https://www.papaindustryawards.co.uk/award-winners-2025",
+        "quote": "Pizza Restaurant Chain of the Year 2025 - the Pizza, Pasta & Italian Food Association's own industry awards, judged annually"
       },
       {
         "tier": "B",
@@ -172090,6 +172069,31 @@
       }
     ]
   },
+  "htmlsitemap": {
+    "name": "HTML Sitemap",
+    "topics": [
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "LuxLife",
+        "url": "https://luxlifelondon.com/best-italian-restaurants-london/"
+      }
+    ]
+  },
   "gameforitlondonsbestgamerestaurants": {
     "name": "Game For It? London's Best Game Restaurants",
     "topics": [
@@ -195767,7 +195771,7 @@
         "tier": "A",
         "source": "50 Top Pizza",
         "url": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/",
-        "quote": "#48 in Europe - plus a 'one to watch' award - listed as Connie's Pizzeria"
+        "quote": "#48 in Europe - plus the One to Watch 2026 award (Mammafiore Award) - listed as Connie's Pizzeria"
       },
       {
         "tier": "B",
@@ -195941,21 +195945,34 @@
   "fivefeet": {
     "name": "Five Feet",
     "topics": [
-      "new-openings"
+      "new-openings",
+      "pizza"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "new-openings": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "pizza": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
+        "quote": "2026 finalist with the Hot Sausage - a debut finalist, described by the awards' host as a newly launched London restaurant"
+      },
       {
         "tier": "B",
         "source": "DesignMyNight",
@@ -199112,14 +199129,14 @@
     "topics": [
       "pizza"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B1 C2",
+    "sourceCount": 5,
+    "tierSpread": "A2 B1 C2",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "pizza": {
-        "sourceCount": 4,
-        "tierSpread": "A1 B1 C2",
+        "sourceCount": 5,
+        "tierSpread": "A2 B1 C2",
         "tierCount": 3,
         "hasAward": true
       }
@@ -199130,6 +199147,12 @@
         "source": "50 Top Pizza",
         "url": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/",
         "quote": "#28 in Europe - listed as L'Antica Pizzeria"
+      },
+      {
+        "tier": "A",
+        "source": "PAPA Industry Awards",
+        "url": "https://www.papaindustryawards.co.uk/award-winners-2025",
+        "quote": "Gold Award, Independent Pizza Restaurant of the Year 2019 - listed as 'L'Antica Pizzeria da Michele, London' on the previous-winners page"
       },
       {
         "tier": "B",
@@ -199328,8 +199351,8 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
-        "quote": "Pizza of the Year 2024 (Sausage Party), having also won in 2022 (Pepperoni Alla Vodka) - from the awards' Previous Winners page"
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
+        "quote": "Pizza of the Year 2024 (Sausage Party), having also won in 2022 (Pepperoni Alla Vodka) - from the awards' Previous Winners page; a 2026 finalist with the Vodka Sausage, going for a third title"
       },
       {
         "tier": "B",
@@ -199417,7 +199440,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "Bloggers' Choice Award 2025 - Howard Quayle's The Capish, a 20-inch pizza with house vodka sauce and 'secret recipe' meatballs"
       },
       {
@@ -199516,7 +199539,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "2025 finalist (London)"
       },
       {
@@ -199587,14 +199610,14 @@
     "topics": [
       "pizza"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A1 B2 C1 D1",
+    "sourceCount": 6,
+    "tierSpread": "A2 B2 C1 D1",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "pizza": {
-        "sourceCount": 5,
-        "tierSpread": "A1 B2 C1 D1",
+        "sourceCount": 6,
+        "tierSpread": "A2 B2 C1 D1",
         "tierCount": 4,
         "hasAward": true
       }
@@ -199603,8 +199626,14 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "2025 finalist (national)"
+      },
+      {
+        "tier": "A",
+        "source": "PAPA Industry Awards",
+        "url": "https://www.papaindustryawards.co.uk/award-winners-2025",
+        "quote": "Highly Commended, Pizza Restaurant Chain of the Year 2025 - listed as Rudy's Pizza"
       },
       {
         "tier": "B",
@@ -199682,13 +199711,44 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "2nd place 2025 - Rich Goodwin's With A Little H(ELP) From My Friends, baked in a pan with fennel sausage meat, pink fir potatoes and pickled Romano peppers"
       },
       {
         "tier": "D",
         "source": "@eat.snack.repeat (TikTok)",
         "url": "https://www.tiktok.com/@eat.snack.repeat"
+      }
+    ]
+  },
+  "crustbros": {
+    "name": "Crust Bros",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 D1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "pizza": {
+        "sourceCount": 2,
+        "tierSpread": "A1 D1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
+        "quote": "2026 finalist with the Carbo - a returning finalist, named by the awards' host as one of the London entries"
+      },
+      {
+        "tier": "D",
+        "source": "Sam Wilder (YouTube)",
+        "url": "https://www.youtube.com/@SamWilder"
       }
     ]
   },
@@ -199713,7 +199773,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "Pizza Chef of the Year 2025 - Antonio Raspone, for The Big Apple Blue"
       },
       {
@@ -199744,7 +199804,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "2025 finalist (London)"
       }
     ]
@@ -199770,7 +199830,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "2025 finalist (London)"
       }
     ]
@@ -199796,7 +199856,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "2025 finalist (London)"
       },
       {
@@ -199837,7 +199897,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "Pizza of the Year 2023 (The Cinghiale) - London site in Blackheath"
       }
     ]
@@ -199870,7 +199930,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "Pizza of the Year 2018 (Parmigiana Party) - London site in Camden"
       },
       {
@@ -199916,7 +199976,7 @@
       {
         "tier": "A",
         "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "url": "https://nationalpizzaawards.co.uk/previous-winners",
         "quote": "Pizza of the Year 2017 (Di Bosco) - South Kensington"
       }
     ]
@@ -200001,7 +200061,7 @@
         "tier": "A",
         "source": "50 Top Pizza",
         "url": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/",
-        "quote": "#4 in Europe; top 20 auto-qualify for 100 Best Pizzerias in the World"
+        "quote": "#4 in Europe; top 20 auto-qualify for 100 Best Pizzerias in the World; Best Fried Food 2026 (Oleificio Zucchi Award)"
       },
       {
         "tier": "D",
@@ -201908,31 +201968,6 @@
         "tier": "D",
         "source": "JOLLY (YouTube)",
         "url": "https://www.youtube.com/@jolly"
-      }
-    ]
-  },
-  "crustbros": {
-    "name": "Crust Bros",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "D",
-        "source": "Sam Wilder (YouTube)",
-        "url": "https://www.youtube.com/@SamWilder"
       }
     ]
   },

@@ -1,0 +1,50 @@
+{
+  "topic": "breakfast-brunch",
+  "article": "src/content/articles/best-breakfast-brunch-london.md",
+  "headTerm": "Breakfast and Brunch",
+  "note": "Written 21 Sep 2026. The corpus had been collected since August without a config, which is why the award sweep below had never been run. The method lives in .claude/skills/consensus-guide/SKILL.md.",
+  "awardBodies": [
+    {
+      "name": "National Breakfast & Brunch Awards",
+      "domain": "breakfastbrunchawards.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "NOTHING TO CITE YET. Hosted by Quick Serve magazine (H2O Publishing). Sixteen finalists cook a signature round, a technical round, an omelette challenge and a brunch-at-speed round in front of industry judges. The first final is 23 February 2027 at Big Penny Social, London; entries close 6 November 2026. The domain is a frameset around the cognito entry form and publishes no results - the 2024, 2025 and 2026 form URLs all 404, only 2027 resolves - so the winners will have to be read from quickservemagazine.co.uk, the same way the National Burger Awards results are. RE-COLLECT AFTER 23 FEBRUARY 2027."
+    }
+  ],
+  "awardBodiesRuledOut": [
+    "La Liste - checked laliste.com/news/laliste-hotels-2026-global-ranking-hospitality-trends-and-special-awards. Thirteen Special Award categories in the 2026 hotels edition and none of them is breakfast. Its Pastry Special Awards carry the afternoon tea title, not a breakfast one.",
+    "Harden's - hardens.com/london-restaurants/best/breakfast and /brunch both 404, and /awards renders as navigation to a fetcher (trap 15).",
+    "The World's 100 Best Coffee Shops - real, judged and dated, but its three London entries (Rosslyn, Moonstruck, Oma) are coffee shops already carried by the coffee corpus and none of them is a breakfast room. Recording it here would be trap 13.",
+    "National Restaurant Awards - judged and dated, but it ranks restaurants, not breakfasts. Printing its rank in a breakfast guide would be trap 7."
+  ],
+  "editorialLists": [
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": false, "note": "Its brunch guide is grouped by compass point - Central, North, East, South, West - not ranked. Those headings extract as venue names; check them out before recording." },
+    { "name": "Time Out", "domain": "timeout.com", "ranked": true, "note": "Its greasy spoons list IS ranked, 1-8. Trap 11." },
+    { "name": "The Nudge", "domain": "thenudge.com", "ranked": false, "note": "The widest list in the corpus at 51 names, but the page is client-rendered: curl returns the app shell and a map loader, so it has to be read in a browser." },
+    { "name": "The Good Food Guide", "domain": "thegoodfoodguide.co.uk", "ranked": false, "note": "Tier A by domain, but its 'best breakfasts in central London' is an editorial feature, not a judged ranking - so hasAward on those twelve venues does not mean they hold an award." },
+    { "name": "Lux Life", "domain": "luxlifelondon.com", "ranked": false },
+    { "name": "Resy", "domain": "blog.resy.com", "ranked": false, "note": "Dated 2022 - the oldest list in the corpus." },
+    { "name": "James Dimitri", "domain": "jamesdimitri.co.uk", "ranked": false, "note": "The specialist that carries the whole cheap end: 25 caffs with the price of each full English. 403s curl, so the prices already recorded in the corpus are the copy of record." }
+  ],
+  "facetAxis": {
+    "field": "format",
+    "note": "Breakfast splits by format rather than by cuisine, and the split is what the guide is organised on.",
+    "values": [
+      { "key": "grand", "label": "Hotel and institution", "describeAs": "a dining room where breakfast is a business meeting" },
+      { "key": "australian", "label": "Australian brunch", "describeAs": "hotcakes, avocado and a serious flat white, the style London imported around 2010" },
+      { "key": "fry-up", "label": "The fry-up", "describeAs": "a cooked breakfast in a caff or a pub" },
+      { "key": "coffee-first", "label": "Coffee-first", "describeAs": "a roaster's room where the food is built around the cup" },
+      { "key": "weekend", "label": "Weekend-only", "describeAs": "a kitchen that only cooks brunch on Saturday and Sunday" }
+    ]
+  },
+  "knownGaps": [
+    "Community tier (E) is empty. Reddit is blocked in this environment.",
+    "Rise & Dine Cafe is named by two sources with two different prices - James Dimitri has the full English at GBP 11.99, @joshucr at GBP 5 - and neither publishes an area, so it is in the corpus and deliberately not on the page.",
+    "The Nudge is the largest single source here at 51 names and its page will not render to curl, so any re-collection from it has to be done in a browser."
+  ],
+  "openVenueQuestions": [
+    "'Sunday' in Barnsbury and 'Sunday in Brooklyn' in Notting Hill are two different restaurants, both in the corpus, and the shorter name is also an opening-hours row in other sources - it is carried by data/name-noise.json venueExceptions for this topic only.",
+    "'Burnt' and 'Burnt Bethnal Green' are both recorded from The Infatuation's brunch guide. The guide covers the Bethnal Green site as Burnt Arches; the two names have not been merged because the group also has Shepherd's Bush and a RADA cafe."
+  ]
+}

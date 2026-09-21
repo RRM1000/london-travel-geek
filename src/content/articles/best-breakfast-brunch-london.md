@@ -5,6 +5,7 @@ description: "From a bacon naan roll to a 24-hour fry-up forty floors up — Lon
 heroImage: "../../assets/articles/best-breakfast-brunch-london/the-table-full-english.jpg"
 heroImageAlt: "A full English breakfast of fried eggs, sausage, bacon, beans, grilled tomato and a field mushroom at The Table Cafe in Southwark"
 publishedAt: 2026-08-23
+updatedAt: 2026-09-21
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -30,14 +31,14 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 > 💡 **The Short Version:** **The Wolseley** is the London power breakfast in a 1920s car showroom. **Dishoom's bacon naan roll** is the one worth queueing for. **Granger & Co** started the London brunch thing and the hotcakes are still on the menu. **Duck & Waffle** is open 24 hours forty floors up. And **Wetherspoons** does a cooked breakfast from 8am for a few pounds.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **14 sources carrying 211 citations** across **162 named rooms**. **36 rooms are named by two or more independent sources; 9 by three or more.**
+> Nothing here is ranked on one visit. This pass reads **14 sources carrying 209 citations** across **160 named rooms**. **36 rooms are named by two or more independent sources; 9 by three or more.**
 > **Built on:** fourteen sources across every price point, from a Michelin-starred breakfast to a £6.50 fry-up in Newham, with twenty-five caffs individually priced.
-> *Evidence rebuilt 31 August 2026 · [How we rank →](/how-we-rank/)*
+> *Evidence rebuilt 21 September 2026 · [How we rank →](/how-we-rank/)*
 
 > 📅 **Booking, at a glance.**
 > **Book weeks ahead:** Duck & Waffle (the window tables especially), Hide, Fallow, Akub.
-> **Book a few days ahead, and always for a weekend:** The Wolseley, Berners Tavern, Bistrotheque, Carmel, Mr Bao, The Laundry, Inis, Megan's.
-> **Bookable but rarely needed at breakfast:** Dishoom takes any party size before 6pm, and mornings barely queue.
+> **Book a few days ahead, and always for a weekend:** The Wolseley, Berners Tavern, Bistrotheque, Carmel, Christopher's, Mr Bao, The Laundry, Inis, Megan's.
+> **Bookable but rarely needed at breakfast:** Dishoom takes any party size before 6pm, and mornings barely queue. Caravan and The Good Egg both book online and both usually have a weekday morning table.
 > **Walk-in only — turn up and wait:** Granger & Co, Milk, The Table Café, Esters, Ginger & White, Kaffeine, Prufrock, WatchHouse, Beany Green, The Breakfast Club.
 > *The queue is the real cost at the walk-ins: Granger & Co before 10am or around 3pm gets you straight in, and Milk rarely runs past half an hour.*
 
@@ -116,7 +117,7 @@ The dish it is named for is **two waffles stacked with a confit duck leg and a f
 
 Smoked salmon and scrambled egg on sourdough, **brioche French toast**, eggs Florentine and a full English, with lighter fruit and pastry options. The signature flourish is a **Bloody Mary trolley** wheeled to the table with three different twists to choose from.
 
-Breakfast runs daily, with brunch on Saturday and a Sunday lunch. Worth booking for weekends; on a weekday morning you can usually walk into a room people photograph from the doorway.
+Breakfast runs daily, with brunch on Saturday and a Sunday lunch. **Worth [booking](https://www.opentable.com/booking/restref/availability?restref=96693) for weekends**; on a weekday morning you can usually walk into a room people photograph from the doorway.
 
 ### Hide, Mayfair
 
@@ -164,7 +165,7 @@ The **ricotta hotcakes with fresh banana and honeycomb butter (£19)** are the d
 
 ### Caravan, Clerkenwell
 
-*£ · Exmouth Market · 7 London sites · its own roastery* · Cited by 1 source
+*£ · Exmouth Market · 7 London sites · its own roastery* · Cited by 1 source · [book a table](https://www.sevenrooms.com/explore/caravanrestaurants/reservations/create/search?venues=caravankingscross,caravancanarywharf,caravancity,caravancoventgarden,caravanexmouthmarket,caravanfitzrovia,caravanbankside,vardochelsea,caravanmanchester)
 
 The Exmouth Market room that is **more responsible than any other for London's brunch-and-flat-white culture** — New Zealanders opened it in 2010, and the all-day, globally-magpie menu with serious coffee attached became the template half this guide follows.
 
@@ -316,7 +317,7 @@ Chef **Fadi Kattan's** Palestinian dining room on Uxbridge Street, and the only 
 
 The brunch is built around a **holy trinity of Arabic coffee, French toast and zahra fritters**. Order the **qalayet bandora** — eggs cooked into a slow, rich tomato sauce — with labaneh under za'atar, the nutty cauliflower fritters with coriander tahini, and the **aubergine fatteh** under garlic yoghurt. The French toast is made with Arabic coffee and finished with cocoa and pistachio.
 
-**Weekends only for brunch, and it books up ([the venue's site](https://www.akub-restaurant.com/))** — a small room in a residential street rather than a restaurant that can absorb walk-ins. In the MICHELIN Guide.
+**Weekends only for brunch, and it books up ([book a table](https://www.sevenrooms.com/reservations/akub))** — a small room in a residential street rather than a restaurant that can absorb walk-ins. In the MICHELIN Guide.
 
 ### Bistrotheque, Bethnal Green
 
@@ -326,7 +327,7 @@ Up an unmarked side street in Bethnal Green, in the remains of an old clothing *
 
 Weekend brunch pulls dishes from the main bistro carte alongside the breakfast ones: a **full English**, eggs Benedict, **scrambled eggs with chorizo**, next to moules marinière, steak tartare, and asparagus with a poached egg and hollandaise. A **live pianist plays pop covers** through the service, which sounds unbearable and is in fact the reason people love it.
 
-**Saturday and Sunday, and reservations are essential** — this is not a room you chance on a weekend. The cocktail list is built for the morning after.
+**Saturday and Sunday, and reservations are essential ([the venue's site](https://www.bistrotheque.com/))** — this is not a room you chance on a weekend. The cocktail list is built for the morning after.
 
 ![The brick exterior of a converted warehouse in Bethnal Green](../../assets/articles/best-breakfast-brunch-london/bistrotheque.jpg)
 *There is no sign. You find the door, go up the stairs, and the room opens out white and full of light. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=187564628), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
@@ -343,7 +344,7 @@ The centrepiece is the **tabun oven**, and the flatbreads that come out of it wi
 
 *Served straight from the pan it's cooked in, with charred sourdough to scoop it up.*
 
-**Brunch runs Saturday and Sunday, 10am to 3.30pm** — a long window by London standards, which makes it one of the easier weekend tables to get if you can eat at the edges. Book for the middle of the day.
+**Brunch runs Saturday and Sunday, 10am to 3.30pm** — a long window by London standards, which makes it one of the easier weekend tables to get if you can eat at the edges. Book for the middle of the day, through [the venue's site](https://www.carmelrestaurant.co.uk/).
 
 ### Mr Bao, Peckham
 
@@ -367,7 +368,7 @@ On the same Covent Garden corner **since 1991**, in a building that opened in 18
 
 American in the grand sense rather than the diner sense. The **chocolate brioche French toast** is the house speciality, buttermilk pancakes are the weekend order, and there is a **whole grilled lobster with garlic butter** for anyone treating brunch as lunch.
 
-**Brunch runs until 3.30pm on Sundays.** Reopened in late 2025 after a full refurbishment, so photographs older than that show a different room.
+**Brunch runs until 3.30pm on Sundays**, and books through [the venue's site](https://www.christophersgrill.com/). Reopened in late 2025 after a full refurbishment, so photographs older than that show a different room.
 
 ![The Victorian stone entrance of Christopher's on Wellington Street](../../assets/articles/best-breakfast-brunch-london/christopher-s.jpg)
 *The American brunch in a grand Covent Garden townhouse, up a spiral staircase. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3588167076), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -487,13 +488,13 @@ The format is **mezze you assemble yourself**: dips, flatbreads, small plates an
 
 **Twenty-two sites, ten of them in London** — Parsons Green, Battersea, Clapham Old Town, Balham, Wandsworth, Wimbledon, Dulwich, Chiswick, Kensington and Islington — with the rest strung along the Thames and out through Surrey and the home counties. Almost entirely a south and west London operation.
 
-**Book for weekends**, particularly the bottomless sittings, which run to a time limit and fill first. Weekday mornings are walk-in and calm.
+**[Book for weekends](https://megans.co.uk/bookings/)**, particularly the bottomless sittings, which run to a time limit and fill first. Weekday mornings are walk-in and calm.
 
 ### Ottolenghi, five sites
 
 *£££ · the counter* · Cited by 2 sources
 
-Not a breakfast business exactly — these are deli counters piled with salads and cakes, where you eat at a shared table — but the morning trade is real and the Good Food Guide singles it out. Islington, Notting Hill, Spitalfields, Chelsea and Marylebone.
+Not a breakfast business exactly — these are deli counters piled with salads and cakes, where you eat at a shared table — but the morning trade is real and the Good Food Guide singles it out. [Islington](https://ottolenghi.co.uk/pages/restaurants/islington), Notting Hill, Spitalfields, Chelsea and Marylebone.
 
 The **Middle Eastern breakfast (£12.90)** is the one to have: feta, a fried egg, chopped salad and pita. A bread board of croissant or pain au chocolat runs **£7.90**, and granola with yoghurt and fruit salad **£12.60**.
 
@@ -539,6 +540,21 @@ Counter service and communal seating, so it works for one person with a book and
 * **Borough Market** opens early and the bakery counters are the cheapest good breakfast in the area — coffee and a pastry for a few pounds while the traders are still setting up.
 * **Maltby Street Market**, weekends — **St John Bakery Room** does the Old Spot bacon sandwich that people cross London for.
 * **Old Spitalfields** and **Seven Dials Market** both have breakfast counters open before the shops around them.
+
+---
+
+## Worth knowing, briefly
+
+Six more rooms that two independent sources each name, and every one of them is a neighbourhood room rather than a central one — which is where London actually eats brunch.
+
+| Venue | Area | Cited by | What it is |
+| --- | --- | --- | --- |
+| **[Common Ground](https://www.commongroundlondon.co.uk/)** | Finsbury Park | 2 | A garden, a gently enforced no-laptop policy and a potato latke eggs benedict, at 49 Stroud Green Road |
+| **[The Good Egg](https://the-good-egg-neighbourhood-restaurant-stoke-newington.resos.com/booking)** | Stoke Newington | 2 | Middle Eastern street food across separate brekky and brunch menus on Church Street, with a second London room inside Eat17 in Walthamstow. Books online |
+| **[Corrochio's](http://corrochios.com/)** | Dalston | 2 | A Mexican dining room on Stoke Newington Road doing brunch tortas and chilaquiles with a fried egg dribbling into the refried beans, and margaritas alongside |
+| **Sunday** | Islington | 2 | Brioche french toast and a courgette fritter at 169 Hemingford Road, and the weekend queue that goes with them |
+| **[Brickwood](https://www.brickwoodcafes.co.uk/)** | Clapham | 2 | An Antipodean café on Clapham Common South Side, with more of them south of the river in Balham, Battersea and Putney |
+| **[Juliet's Quality Foods](https://juliets.london/)** | Tooting | 2 | Hollandaise infused with espresso and a house cornbread built for hand-churned butter, on a busy stretch of Tooting high street |
 
 ---
 
