@@ -307,7 +307,7 @@ Three answers, and the day decides between them rather than the food.
 
 **What does not care what day it is:** Arnold Circus, Redchurch Street, the street art, the Jamme Masjid from the pavement, Fournier Street, Beigel Bake, the Brick Lane Vintage Market, Upmarket, Ely's Yard, Old Spitalfields and Rough Trade East. That is still seven of the eleven stops.
 
-**Now the case for the quiet day, because the table above reads as a warning and should not be the last word.** If what you came for is the *shopping* rather than the *spectacle*, a **Tuesday or a Thursday beats a Sunday outright**. The basement vintage market is the biggest of its kind in the country and holds over a hundred traders; on a Sunday you cannot work a rail, and on a Tuesday you can go through it properly and get a conversation with the person selling. Thursday adds the antiques market from 8am and a floor of makers upstairs at Artisan. Old Spitalfields' Kitchens run all week. Fournier Street is better empty. Nobody is shouting at you on Brick Lane.
+**If you came to shop rather than to look, a Tuesday or a Thursday beats a Sunday outright.** The basement vintage market is the biggest of its kind in the country and holds over a hundred traders; on a Sunday you cannot work a rail, and on a Tuesday you can go through it properly and get a conversation with the person selling. Thursday adds the antiques market from 8am and a floor of makers upstairs at Artisan. Old Spitalfields' Kitchens run all week. Fournier Street is better empty. Nobody is shouting at you on Brick Lane.
 
 The Sunday version is the better *day out*. The weekday version is the better *shop*, and it is the one almost no guide recommends.
 
