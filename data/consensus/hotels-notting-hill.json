@@ -62,12 +62,8 @@
         "Table of Contents",
         "feels like a village",
         "Portobello Road market",
-        "Portobello Road Market:",
-        "Colourful Houses:",
-        "Notting Hill Film Locations:",
-        "Notting Hill Carnival:",
-        "Hyde Park & Kensington Gardens:",
-        "Westbourne Grove:",
+        "Portobello Road Market",
+        "Westbourne Grove",
         "Notting Hill Gate",
         "Ladbroke Grove",
         "Westbourne Park",
@@ -75,7 +71,8 @@
         "Bayswater",
         "itineraries",
         "first-hand advice"
-      ]
+      ],
+      "note": "TRAP 8 PASS 2026-09-21: 4 page-furniture name(s) removed (site chrome or a section heading, not a venue); 2 trailing colon(s) stripped."
     },
     {
       "name": "All Around London",

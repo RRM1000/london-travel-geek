@@ -32,7 +32,7 @@ There is a second thing the published lists get wrong, and it is bigger. **They 
 > 💡 **The Short Version:** **Fish, Wings & Tings** in Brixton Village is named by seven sources, more than anything else. **Limin** on the South Bank is six. **Jam Delish** is entirely vegan and named by five. **Ewart's** in Dalston is barely covered by magazines and heavily covered by everyone else. The best of this scene is as often a counter as a dining room.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **13 independent sources carrying 141 citations** across **83 named venues**. **25 are named by two or more sources.**
+> Nothing here rests on one visit. This pass reads **13 independent sources carrying 140 citations** across **82 named venues**. **25 are named by two or more sources.**
 > **Built on:** seven mastheads, three independent writers and three YouTube channels — counted per creator, so a channel's five videos are one voice. No judged award is counted here.
 > *Evidence built 8 September 2026 · [How we rank →](/how-we-rank/)*
 

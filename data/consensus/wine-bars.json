@@ -117,10 +117,10 @@
         "The Winemakers Club",
         "Elliot’s",
         "Le Bar a Vin",
-        "Check out more London restaurant guides here:",
         "Authors"
       ],
-      "migratedFrom": "bars.json"
+      "migratedFrom": "bars.json",
+      "note": "TRAP 8 PASS 2026-09-21: 1 page-furniture name(s) removed (site chrome or a section heading, not a venue)."
     },
     {
       "name": "Star Wine List of the Year UK 2026",

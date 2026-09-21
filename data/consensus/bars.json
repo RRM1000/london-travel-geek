@@ -169,9 +169,8 @@
       "name": "DesignMyNight (best bars)",
       "url": "https://www.designmynight.com/london/bars/best-bars-london",
       "scope": "bars-cocktail",
-      "names": [
-        "Editors' Picks:"
-      ]
+      "names": [],
+      "note": "TRAP 8 PASS 2026-09-21: 1 page-furniture name(s) removed (site chrome or a section heading, not a venue)."
     },
     {
       "name": "Balance Journal (cocktail bars)",
@@ -260,9 +259,8 @@
       "name": "DesignMyNight (best pubs)",
       "url": "https://www.designmynight.com/london/pubs/best-london-pubs",
       "scope": "bars-pubs",
-      "names": [
-        "Price:"
-      ]
+      "names": [],
+      "note": "TRAP 8 PASS 2026-09-21: 1 page-furniture name(s) removed (site chrome or a section heading, not a venue)."
     }
   ]
 }

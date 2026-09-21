@@ -112,10 +112,9 @@
       "url": "https://www.designmynight.com/london/top-10-smokehouses-in-london",
       "scope": "barbecue",
       "names": [
-        "Rewards",
-        "Jobs",
         "My Account"
-      ]
+      ],
+      "note": "TRAP 8 PASS 2026-09-21: 2 page-furniture name(s) removed (site chrome or a section heading, not a venue)."
     },
     {
       "name": "The Nudge",
@@ -184,9 +183,9 @@
         "Black Axe Mangal",
         "Oklava",
         "Kudu Grill",
-        "Humble Chicken",
-        "Offers"
-      ]
+        "Humble Chicken"
+      ],
+      "note": "TRAP 8 PASS 2026-09-21: 1 page-furniture name(s) removed (site chrome or a section heading, not a venue)."
     },
     {
       "name": "The Rare Welsh Bit",

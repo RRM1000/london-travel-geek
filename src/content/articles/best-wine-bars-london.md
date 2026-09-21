@@ -34,7 +34,7 @@ So this guide is built the other way round: on which rooms the critics independe
 > 💡 **The Short Version:** **Peckham Cellars**, **Bar Crispin** and **Diogenes the Dog** are named by eight sources each. **40 Maltby Street** has the hardest table. **Dan's** takes no bookings at all. **Farm Shop** shuts at 8pm. And at the shop-and-bar hybrids you can drink a bottle at shop price plus corkage — **£12 at The 10 Cases** — which is almost always cheaper than the list.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **15 independent sources carrying 304 citations** across **158 named venues**. **57 are named by two or more sources; one carries a dated award.**
+> Nothing here rests on one visit. This pass reads **15 independent sources carrying 303 citations** across **157 named venues**. **57 are named by two or more sources; one carries a dated award.**
 > **Built on:** one judged award, ten mastheads, two independent blogs and two YouTube channels — counted per creator, so a channel's five videos are one voice.
 > *Evidence built 7 September 2026 · [How we rank →](/how-we-rank/)*
 

@@ -711,9 +711,8 @@
       "name": "DesignMyNight (best restaurants in London)",
       "url": "https://www.designmynight.com/london/best-restaurants-in-london",
       "scope": "awards-general",
-      "names": [
-        "Price:"
-      ]
+      "names": [],
+      "note": "TRAP 8 PASS 2026-09-21: 1 page-furniture name(s) removed (site chrome or a section heading, not a venue)."
     },
     {
       "name": "Harrison Webb (YouTube)",
@@ -1225,9 +1224,9 @@
         "AdChoices",
         "Digital Terms of Sale",
         "Reprints & Permissions",
-        "Forbes Press Room",
-        "Advertise"
-      ]
+        "Forbes Press Room"
+      ],
+      "note": "TRAP 8 PASS 2026-09-21: 1 page-furniture name(s) removed (site chrome or a section heading, not a venue)."
     },
     {
       "name": "DesignMyNight Bib Gourmand",
@@ -1236,7 +1235,6 @@
       "names": [
         "Bib Gourmand London: Our Guide To The Best Restaurants",
         "Location: 213 Blenheim Grove",
-        "Price:",
         "Cuisine: Thai",
         "Location: 35 Stoke Newington Church Street",
         "Cuisine: Korean",
@@ -1283,7 +1281,8 @@
         "Cuisine: Vietnamese",
         "Location: 35-37 Greenhill Rents",
         "Media"
-      ]
+      ],
+      "note": "TRAP 8 PASS 2026-09-21: 1 page-furniture name(s) removed (site chrome or a section heading, not a venue)."
     }
   ]
 }

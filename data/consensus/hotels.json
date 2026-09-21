@@ -404,11 +404,8 @@
         "Families",
         "Looking for a retreat",
         "Looking for the best view",
-        "Pros:",
-        "Cons:",
         "The Savoy",
         "NoMad London",
-        "Upscale:",
         "The Resident Covent Garden",
         "Strand Palace",
         "The Z Hotel Covent Garden",
@@ -451,7 +448,8 @@
         "Hampstead Heath",
         "Camden",
         "South of South Bank"
-      ]
+      ],
+      "note": "TRAP 8 PASS 2026-09-21: 3 page-furniture name(s) removed (site chrome or a section heading, not a venue)."
     },
     {
       "name": "Love and London - South",

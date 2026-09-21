@@ -5285,25 +5285,18 @@
     ]
   },
   "madametussauds": {
-    "name": "Madame Tussauds:",
+    "name": "Madame Tussaud’s",
     "topics": [
       "activities-shoreditch",
-      "hotels-marylebone",
       "london-with-children",
       "museums"
     ],
-    "sourceCount": 5,
-    "tierSpread": "C5",
+    "sourceCount": 4,
+    "tierSpread": "C4",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-marylebone": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -5327,11 +5320,6 @@
         "tier": "C",
         "source": "Day Out With The Kids",
         "url": "https://www.dayoutwiththekids.co.uk/things-to-do/south-east-and-london/greater-london/shoreditch"
-      },
-      {
-        "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-marylebone/"
       },
       {
         "tier": "C",
@@ -6601,31 +6589,6 @@
       }
     ]
   },
-  "prices": {
-    "name": "Prices",
-    "topics": [
-      "activities-shoreditch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "activities-shoreditch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "CK Travels",
-        "url": "https://www.cktravels.com/london-games-bars-arcades/"
-      }
-    ]
-  },
   "otherworldvr": {
     "name": "OTHERWORLD VR",
     "topics": [
@@ -7396,57 +7359,6 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/fun-things-to-do-in-canary-wharf"
-      }
-    ]
-  },
-  "price": {
-    "name": "Price:",
-    "topics": [
-      "activities",
-      "bars",
-      "general",
-      "hotels-shoreditch"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "activities": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-shoreditch": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/fun-things-to-do-in-canary-wharf"
-      },
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveller",
-        "url": "https://www.cntraveller.com/gallery/best-hotels-in-shoreditch"
       }
     ]
   },
@@ -12587,11 +12499,10 @@
       "afternoon-tea",
       "galleries",
       "historic-houses",
-      "hotels-marylebone",
       "museums"
     ],
-    "sourceCount": 10,
-    "tierSpread": "B1 C9",
+    "sourceCount": 9,
+    "tierSpread": "B1 C8",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -12608,12 +12519,6 @@
         "hasAward": false
       },
       "historic-houses": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-marylebone": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -12667,11 +12572,6 @@
         "tier": "C",
         "source": "A Peace of London",
         "url": "https://apeaceoflondon.wordpress.com/category/museums-historic-houses/"
-      },
-      {
-        "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-marylebone/"
       },
       {
         "tier": "C",
@@ -15069,12 +14969,11 @@
     "name": "The Regents Park",
     "topics": [
       "autumn-leaves",
-      "hotels-marylebone",
       "london-with-children",
       "parks-gardens"
     ],
-    "sourceCount": 11,
-    "tierSpread": "B2 C7 D2",
+    "sourceCount": 10,
+    "tierSpread": "B2 C6 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -15082,12 +14981,6 @@
         "sourceCount": 4,
         "tierSpread": "C2 D2",
         "tierCount": 2,
-        "hasAward": false
-      },
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
         "hasAward": false
       },
       "london-with-children": {
@@ -15124,11 +15017,6 @@
         "tier": "C",
         "source": "Brogan Abroad",
         "url": "https://broganabroad.com/autumn-colours-london/"
-      },
-      {
-        "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-marylebone/"
       },
       {
         "tier": "C",
@@ -18123,63 +18011,6 @@
         "tier": "C",
         "source": "Resy",
         "url": "https://blog.resy.com/2023/07/best-turkish-kurdish-restaurants-london/"
-      }
-    ]
-  },
-  "rewards": {
-    "name": "Rewards",
-    "topics": [
-      "barbecue",
-      "caribbean"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "barbecue": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "caribbean": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/top-10-smokehouses-in-london"
-      }
-    ]
-  },
-  "jobs": {
-    "name": "Jobs",
-    "topics": [
-      "barbecue"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "barbecue": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/top-10-smokehouses-in-london"
       }
     ]
   },
@@ -22861,31 +22692,6 @@
         "tier": "A",
         "source": "The World's 50 Best",
         "url": "https://www.theworlds50best.com/bars/list/1-50"
-      }
-    ]
-  },
-  "editorspicks": {
-    "name": "Editors' Picks:",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/bars/best-bars-london"
       }
     ]
   },
@@ -44039,15 +43845,14 @@
     ]
   },
   "coventgarden": {
-    "name": "Covent Garden:",
+    "name": "Covent Garden",
     "topics": [
       "british",
-      "general",
-      "hotels-soho"
+      "general"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
-    "tierCount": 3,
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
     "hasAward": true,
     "byTopic": {
       "british": {
@@ -44061,12 +43866,6 @@
         "tierSpread": "A1 B1",
         "tierCount": 2,
         "hasAward": true
-      },
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
       }
     },
     "sources": [
@@ -44079,11 +43878,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
       }
     ]
   },
@@ -68214,7 +68008,7 @@
     ]
   },
   "leicestersquare": {
-    "name": "Leicester Square:",
+    "name": "Leicester Square",
     "topics": [
       "cinemas",
       "hotels-soho"
@@ -69670,31 +69464,6 @@
   },
   "samesamebutdifferent": {
     "name": "Same same but different",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "FLTR Magazine",
-        "url": "https://fltrmagazine.com/2026/05/11/best-specialty-coffee-shops-london/"
-      }
-    ]
-  },
-  "likethis": {
-    "name": "Like this:",
     "topics": [
       "coffee"
     ],
@@ -72528,31 +72297,6 @@
       }
     ]
   },
-  "comedygigs": {
-    "name": "Comedy gigs:",
-    "topics": [
-      "comedy"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "comedy": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Drum",
-        "url": "https://londondrum.com/events/?cat=9"
-      }
-    ]
-  },
   "today": {
     "name": "Today",
     "topics": [
@@ -73155,381 +72899,6 @@
   },
   "minigolf": {
     "name": "Minigolf",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "crazypool": {
-    "name": "Crazy Pool:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "arcadegames": {
-    "name": "Arcade Games:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "axethrowing": {
-    "name": "Axe Throwing:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "beerpongproseccopong": {
-    "name": "Beer Pong / Prosecco Pong:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "cricketbattingcages": {
-    "name": "Cricket / Batting Cages:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "escaperooms": {
-    "name": "Escape Rooms:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "golfvirtualgolf": {
-    "name": "Golf / Virtual Golf:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "icefreecurling": {
-    "name": "Ice Free Curling:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "interactivetechardarts": {
-    "name": "Interactive / Tech / AR Darts:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "pingpongtabletennis": {
-    "name": "Ping Pong / Table Tennis:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "shootinggalleries": {
-    "name": "Shooting Galleries:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "shuffleboard": {
-    "name": "Shuffleboard:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "tenpinbowlingduckpinbowling": {
-    "name": "Ten Pin Bowling / Duck Pin Bowling:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "virtualrealityvrgaming": {
-    "name": "Virtual Reality (VR) / Gaming:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "allroundvenues": {
-    "name": "All-round venues:",
     "topics": [
       "competitive-socialising"
     ],
@@ -154836,113 +154205,6 @@
       }
     ]
   },
-  "repeatvisitors": {
-    "name": "Repeat visitors:",
-    "topics": [
-      "hotels-marylebone",
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "couples": {
-    "name": "Couples:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "shoppers": {
-    "name": "Shoppers:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "familieswhowantcalm": {
-    "name": "Families who want calm:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
   "stayincoventgarden": {
     "name": "Stay in Covent Garden",
     "topics": [
@@ -155068,200 +154330,6 @@
       }
     ]
   },
-  "exploremarylebonehighstreet": {
-    "name": "Explore Marylebone High Street:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "visitthewallacecollection": {
-    "name": "Visit The Wallace Collection:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "walkinregentspark": {
-    "name": "Walk in Regent’s Park:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "browsechilternstreet": {
-    "name": "Browse Chiltern Street:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "visitbakerstreet": {
-    "name": "Visit Baker Street:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "shopnearbybondstreetandregentstreet": {
-    "name": "Shop nearby Bond Street and Regent Street:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "eatwell": {
-    "name": "Eat well:",
-    "topics": [
-      "hotels-marylebone",
-      "hotels-soho",
-      "london-with-children"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "london-with-children": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      },
-      {
-        "tier": "C",
-        "source": "Wanderlust Crew",
-        "url": "https://wanderlustcrew.com/a-family-guide-to-london-20-things-to-do-with-kids/"
-      }
-    ]
-  },
   "marylebone": {
     "name": "The Marylebone",
     "topics": [
@@ -155287,263 +154355,8 @@
       }
     ]
   },
-  "marylebonehighstreet": {
-    "name": "Marylebone High Street:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      },
-      {
-        "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-marylebone/"
-      }
-    ]
-  },
-  "chilternstreetanddorsetstreet": {
-    "name": "Chiltern Street and Dorset Street:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
   "bakerstreet": {
-    "name": "Baker Street:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "portlandplaceandregentstreetedge": {
-    "name": "Portland Place and Regent Street edge:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "marylebonestationandgloucesterplace": {
-    "name": "Marylebone Station and Gloucester Place:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "marblearchedge": {
-    "name": "Marble Arch edge:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "bakerstreetstation": {
-    "name": "Baker Street Station:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "bondstreetstation": {
-    "name": "Bond Street Station:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "oxfordcircusstation": {
-    "name": "Oxford Circus Station:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "regentsparkstation": {
-    "name": "Regent’s Park Station:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "marblearchstation": {
-    "name": "Marble Arch Station:",
+    "name": "Baker Street",
     "topics": [
       "hotels-marylebone"
     ],
@@ -155717,259 +154530,6 @@
       }
     ]
   },
-  "heathrowairport": {
-    "name": "Heathrow Airport:",
-    "topics": [
-      "hotels-marylebone",
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "gatwickairport": {
-    "name": "Gatwick Airport:",
-    "topics": [
-      "hotels-marylebone",
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "eurostar": {
-    "name": "Eurostar:",
-    "topics": [
-      "hotels-marylebone",
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "londoncityairport": {
-    "name": "London City Airport:",
-    "topics": [
-      "hotels-marylebone",
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "expectingbargainprices": {
-    "name": "Expecting bargain prices:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "ignoringbondstreetstation": {
-    "name": "Ignoring Bond Street Station:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "choosingmarylebonefornightlife": {
-    "name": "Choosing Marylebone for nightlife:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "overlookingroomsize": {
-    "name": "Overlooking room size:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
-  "usingmarylebonestationforeverydaytrip": {
-    "name": "Using Marylebone Station for every day trip:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/marylebone-hotels"
-      }
-    ]
-  },
   "bondstreet": {
     "name": "Bond Street",
     "topics": [
@@ -155996,7 +154556,7 @@
     ]
   },
   "oxfordcircus": {
-    "name": "Oxford Circus:",
+    "name": "Oxford Circus",
     "topics": [
       "hotels-marylebone",
       "hotels-soho"
@@ -156733,32 +155293,7 @@
     ]
   },
   "chilternstreet": {
-    "name": "Chiltern Street:",
-    "topics": [
-      "hotels-marylebone"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-marylebone": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-marylebone/"
-      }
-    ]
-  },
-  "bakerstreetandsherlockholmesmuseum": {
-    "name": "Baker Street & Sherlock Holmes Museum:",
+    "name": "Chiltern Street",
     "topics": [
       "hotels-marylebone"
     ],
@@ -157516,7 +156051,7 @@
     ]
   },
   "portobelloroadmarket": {
-    "name": "Portobello Road Market:",
+    "name": "Portobello Road market",
     "topics": [
       "hotels-notting-hill",
       "markets"
@@ -157567,108 +156102,8 @@
       }
     ]
   },
-  "colourfulhouses": {
-    "name": "Colourful Houses:",
-    "topics": [
-      "hotels-notting-hill"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-notting-hill": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-notting-hill/"
-      }
-    ]
-  },
-  "nottinghillfilmlocations": {
-    "name": "Notting Hill Film Locations:",
-    "topics": [
-      "hotels-notting-hill"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-notting-hill": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-notting-hill/"
-      }
-    ]
-  },
-  "nottinghillcarnival": {
-    "name": "Notting Hill Carnival:",
-    "topics": [
-      "hotels-notting-hill"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-notting-hill": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-notting-hill/"
-      }
-    ]
-  },
-  "hydeparkandkensingtongardens": {
-    "name": "Hyde Park & Kensington Gardens:",
-    "topics": [
-      "hotels-notting-hill"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-notting-hill": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-notting-hill/"
-      }
-    ]
-  },
   "westbournegrove": {
-    "name": "Westbourne Grove:",
+    "name": "Westbourne Grove",
     "topics": [
       "hotels-notting-hill"
     ],
@@ -160982,545 +159417,8 @@
       }
     ]
   },
-  "nightlifetravelers": {
-    "name": "Nightlife travelers:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "theatergoers": {
-    "name": "Theatergoers:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "couplesandsolotravelers": {
-    "name": "Couples and solo travelers:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "shortstays": {
-    "name": "Short stays:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "familieswithyoungkids": {
-    "name": "Families with young kids:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "lightsleepers": {
-    "name": "Light sleepers:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "luxurytravelerswantingcalm": {
-    "name": "Luxury travelers wanting calm:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "visitorswhodislikecrowds": {
-    "name": "Visitors who dislike crowds:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "seeawestendshow": {
-    "name": "See a West End show:",
-    "topics": [
-      "hotels-soho",
-      "london-with-children"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "london-with-children": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      },
-      {
-        "tier": "C",
-        "source": "Wanderlust Crew",
-        "url": "https://wanderlustcrew.com/a-family-guide-to-london-20-things-to-do-with-kids/"
-      }
-    ]
-  },
-  "explorechinatown": {
-    "name": "Explore Chinatown:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "shopcarnabystreetandliberty": {
-    "name": "Shop Carnaby Street and Liberty:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "gooutonoldcomptonstreet": {
-    "name": "Go out on Old Compton Street:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "bookronniescotts": {
-    "name": "Book Ronnie Scott’s:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "takeabreakinsohosquare": {
-    "name": "Take a break in Soho Square:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "walktocoventgardenormayfair": {
-    "name": "Walk to Covent Garden or Mayfair:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "sohosquareanddeanstreet": {
-    "name": "Soho Square and Dean Street:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "carnabyandkinglycourt": {
-    "name": "Carnaby and Kingly Court:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "oldcomptonstreetandgreekstreet": {
-    "name": "Old Compton Street and Greek Street:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "berwickstreetandwardourstreet": {
-    "name": "Berwick Street and Wardour Street:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "piccadillycircusedge": {
-    "name": "Piccadilly Circus edge:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "tottenhamcourtroadedge": {
-    "name": "Tottenham Court Road edge:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
   "tottenhamcourtroad": {
-    "name": "Tottenham Court Road:",
+    "name": "Tottenham Court Road",
     "topics": [
       "hotels-soho"
     ],
@@ -161550,7 +159448,7 @@
     ]
   },
   "piccadillycircus": {
-    "name": "Piccadilly Circus:",
+    "name": "Piccadilly Circus",
     "topics": [
       "hotels-soho",
       "london-with-children"
@@ -161588,131 +159486,6 @@
   },
   "elizabethlinefromtottenhamcourtroad": {
     "name": "Elizabeth Line from Tottenham Court Road",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "bookingsohoandexpectingquiet": {
-    "name": "Booking Soho and expecting quiet:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "choosingawindowlessroomwithoutthinking": {
-    "name": "Choosing a windowless room without thinking:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "arrivingwithoutrestaurantbookings": {
-    "name": "Arriving without restaurant bookings:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "draggingheavyluggagethroughsohostreetsatnight": {
-    "name": "Dragging heavy luggage through Soho streets at night:",
-    "topics": [
-      "hotels-soho"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-soho": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Santorini Dave",
-        "url": "https://santorinidave.com/soho-hotels"
-      }
-    ]
-  },
-  "stayingherewithyoungkidsbydefault": {
-    "name": "Staying here with young kids by default:",
     "topics": [
       "hotels-soho"
     ],
@@ -166710,81 +164483,6 @@
   },
   "lookingforthebestview": {
     "name": "Looking for the best view",
-    "topics": [
-      "hotels"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "janicerohrssen.com",
-        "url": "https://janicerohrssen.com/blog/where-to-stay-and-best-hotels-london-united-kingdom"
-      }
-    ]
-  },
-  "pros": {
-    "name": "Pros:",
-    "topics": [
-      "hotels"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "janicerohrssen.com",
-        "url": "https://janicerohrssen.com/blog/where-to-stay-and-best-hotels-london-united-kingdom"
-      }
-    ]
-  },
-  "cons": {
-    "name": "Cons:",
-    "topics": [
-      "hotels"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "janicerohrssen.com",
-        "url": "https://janicerohrssen.com/blog/where-to-stay-and-best-hotels-london-united-kingdom"
-      }
-    ]
-  },
-  "upscale": {
-    "name": "Upscale:",
     "topics": [
       "hotels"
     ],
@@ -184998,6 +182696,31 @@
       }
     ]
   },
+  "eatwell": {
+    "name": "Eat Well",
+    "topics": [
+      "london-with-children"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "london-with-children": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Wanderlust Crew",
+        "url": "https://wanderlustcrew.com/a-family-guide-to-london-20-things-to-do-with-kids/"
+      }
+    ]
+  },
   "harrypotterstudiotour": {
     "name": "Harry Potter Studio Tour",
     "topics": [
@@ -185025,6 +182748,31 @@
   },
   "streetperformers": {
     "name": "Street Performers",
+    "topics": [
+      "london-with-children"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "london-with-children": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Wanderlust Crew",
+        "url": "https://wanderlustcrew.com/a-family-guide-to-london-20-things-to-do-with-kids/"
+      }
+    ]
+  },
+  "seeawestendshow": {
+    "name": "See a West EndShow",
     "topics": [
       "london-with-children"
     ],
@@ -197061,45 +194809,6 @@
       }
     ]
   },
-  "checkoutmorelondonrestaurantguideshere": {
-    "name": "Check out more London restaurant guides here:",
-    "topics": [
-      "new-openings",
-      "steak",
-      "wine-bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "wine-bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-new-restaurants-in-london/"
-      }
-    ]
-  },
   "cordelias": {
     "name": "Cordelia's",
     "topics": [
@@ -200663,63 +198372,6 @@
   },
   "londonparksfaqs": {
     "name": "London Parks FAQs",
-    "topics": [
-      "parks-gardens"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "parks-gardens": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Empty Nest Explorers",
-        "url": "https://www.theemptynestexplorers.com/blog/quick-guide-to-london-parks"
-      }
-    ]
-  },
-  "somewellreviewedlondontours": {
-    "name": "Some well-reviewed London tours:",
-    "topics": [
-      "parks-gardens",
-      "views"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "parks-gardens": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "views": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Empty Nest Explorers",
-        "url": "https://www.theemptynestexplorers.com/blog/quick-guide-to-london-parks"
-      }
-    ]
-  },
-  "otherlondonareatravelblogposts": {
-    "name": "Other London area travel blog posts:",
     "topics": [
       "parks-gardens"
     ],
@@ -210228,31 +207880,6 @@
         "tier": "C",
         "source": "World of Mouth",
         "url": "https://www.worldofmouth.app/articles/best-thai-restaurants-in-london"
-      }
-    ]
-  },
-  "overallthoughts": {
-    "name": "Overall thoughts:",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/singburi-shoreditch-restaurant-review-london-thai"
       }
     ]
   },
