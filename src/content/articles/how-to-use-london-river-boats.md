@@ -91,7 +91,7 @@ Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Ba
 
 *Fares checked on **2 August 2026**.*
 
-| Zones Travelled | Contactless / Oyster (Off-Peak) | Contactless / Oyster (Peak 06:35–09:27) | Online / App Single | Pier Gate Single |
+| Zones Travelled | Contactless / Oyster (Off-Peak: Mon–Fri 06:35–09:27) | Contactless / Oyster (Peak: all other times, and all weekend) | Online / App Single | Pier Gate Single |
 | --- | ---: | ---: | ---: | ---: |
 | **Central Zone Only** | **£9.90** | **£11.90** | **£11.70** | **£16.40** |
 | **Central & East** | **£11.40** | **£13.70** | **£13.50** | **£17.70** |

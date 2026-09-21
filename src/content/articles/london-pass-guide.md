@@ -143,7 +143,7 @@ Verified on each attraction's own website. Where a site sells cheaper in advance
 | **Kew Gardens** | £21.85–£24.50 | £8.75–£9.50 | Varies by day; higher with donation |
 | **London Transport Museum** | £27.00 | **Free** | Under-18s free |
 | **The Monument** | £7.00 | £3.50 | The cheapest ticketed viewpoint in London |
-| **Churchill War Rooms** | from £29.75 | — | **Not on the pass** |
+| **Churchill War Rooms** | £34 | — | **Not on the pass** |
 
 > ⚠️ **The View from The Shard is not in this table because it has no published gate price.** It is sold on date-and-time dynamic pricing with no headline figure on the operator's site. Go City values it at £32. Our [views guide](/articles/best-views-london/) records it starting around £25.95 online. We are not going to invent a number.
 
@@ -269,7 +269,7 @@ The All-Inclusive pass carries 113 attractions against the Explorer's 76. The di
 
 ## What is missing
 
-* **Churchill War Rooms** — £29.75, one of London's most-wanted paid attractions, not on the pass.
+* **Churchill War Rooms** — £34, one of London's most-wanted paid attractions, not on the pass.
 * **Warner Bros Studio Tour — The Making of Harry Potter** — not on the pass. The pass includes a Harry Potter *walking tour* of London, which is a different thing, and people conflate them.
 * **The Underground and buses.** Go City's FAQ: its passes "don't include public transport". You still need contactless or Oyster.
 * **Westminster Abbey's Queen's Diamond Jubilee Galleries.** The Abbey's own site states these are not included with a Go City pass and must be bought on arrival. A partial admission billed as a full one.

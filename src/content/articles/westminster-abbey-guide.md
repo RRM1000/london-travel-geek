@@ -24,7 +24,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 faq:
   - q: "What is the best time of day to visit Westminster Abbey?"
-    a: "Arrive at 09:15 for the 09:30 opening on weekdays, or 09:00 on Saturdays. Entering with the first intake lets you reach the royal tombs and the Henry VII Lady Chapel before the organised coach parties fill the ambulatory."
+    a: "Arrive at 09:15 for the 09:30 opening, which is the same on Saturdays — though the Abbey closes at 15:00 on a Saturday against 15:30 on weekdays. Entering with the first intake lets you reach the royal tombs and the Henry VII Lady Chapel before the organised coach parties fill the ambulatory."
   - q: "Can you attend Choral Evensong for free at Westminster Abbey?"
     a: "Yes. Choral Evensong is open to the public free of charge without a sightseeing ticket. It is sung every day it runs, Monday to Friday at 17:00 and Saturday and Sunday at 15:00. Visitors sit in the Quire stalls, but there is no tourist access to the royal tombs or ambulatory."
   - q: "Is Westminster Abbey open to tourists on Sundays?"
@@ -42,7 +42,7 @@ Westminster Abbey has served as the coronation church of the British monarchy si
 Prices and times below are read from the Abbey's own website, checked 19 September 2026.
 
 > 💡 **The Short Version:**
-> - **Arrive early.** Get there 15 minutes before opening — 09:15 for the 09:30 weekday start, 08:45 for the 09:00 Saturday start — and head straight to the **royal tombs and Henry VII Lady Chapel** before the ambulatory fills up.
+> - **Arrive early.** Get there 15 minutes before opening — 09:15 for the 09:30 start, which is the same every day it admits visitors — and head straight to the **royal tombs and Henry VII Lady Chapel** before the ambulatory fills up.
 > - **The verger tour** is the only way to reach the **Shrine of Edward the Confessor**. It costs the Abbey entry price plus **£10**, but you can only book it in person, on arrival, Monday to Saturday — not online or by phone.
 > - **Choral Evensong is free**, no ticket needed. It's sung every day it runs: Monday to Friday at 17:00, Saturday and Sunday at 15:00. You sit in the Quire stalls, but touring the tombs before or after isn't permitted.
 > - **The Abbey is closed to tourist sightseeing on Sundays** — it's open for worship only.

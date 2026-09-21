@@ -194,7 +194,7 @@ The least-known free London, and the most interesting. These are not attractions
 
 ### And one you have to plan for
 
-**The Ceremony of the Keys** at the [Tower of London](/articles/tower-of-london-guide/) — the locking-up ritual performed every night for around 700 years — is £5, released online on the first working day of each month for the month ahead. See our full guide for the booking strategy.
+**The Ceremony of the Keys** at the [Tower of London](/articles/tower-of-london-guide/) — the locking-up ritual performed every night for around 700 years — is pay what you choose, £10 to £50 with £30 suggested, released at 1pm on the first working day of each month for the month after. See our full guide for the booking strategy.
 
 ---
 
@@ -235,7 +235,7 @@ A lot of London's best free things do not exist most of the year. These are wort
 
 ### All year, but only if you time it
 
-* **Ceremony of the Keys**, the Tower's nightly locking-up — free, but balloted months ahead.
+* **Ceremony of the Keys**, the Tower's nightly locking-up — pay what you choose from £10, and it sells out within minutes of release.
 * **The State Opening of Parliament** and **Trooping the Colour** — the processions are free to watch from the street; the stands are not.
 * **London Marathon and Boat Race aside, almost every parade in London is free at the roadside.** The tickets are for seats, not for looking.
 
