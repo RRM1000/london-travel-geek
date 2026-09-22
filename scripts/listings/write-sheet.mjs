@@ -11,7 +11,7 @@
 //   node scripts/listings/write-sheet.mjs [--dry]
 //
 import fs from "node:fs";
-import { getSheets, SHEET_ID, readTab, writeTab } from "../sheets.mjs";
+import { getSheets, SHEET_ID, KEY_PATH, readTab, writeTab } from "../sheets.mjs";
 import { RAW, TODAY, loadVenues, loadPlatforms } from "./lib.mjs";
 
 const DRY = process.argv.includes("--dry");
@@ -125,6 +125,10 @@ fs.writeFileSync("work/listings/merged.json", JSON.stringify({
 }));
 
 if (DRY) process.exit(0);
+if (!fs.existsSync(KEY_PATH)) {
+  console.log(`No Google service account at ${KEY_PATH} - the Sheet was not updated.`);
+  process.exit(0);
+}
 
 await writeTab(LISTINGS_TAB, HEADER, rows);
 await writeTab(VENUES_TAB, VENUE_HEADER, venueRows);

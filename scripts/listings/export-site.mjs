@@ -50,5 +50,14 @@ const packed = rows.map((r) => [
   /^Presale:/.test(r.note) ? r.note.replace(/^Presale: /, "") : "", // 14
 ]);
 
+// A run where a source failed quietly (Ticketmaster down, a key expired) would
+// otherwise publish a page with a third of its listings missing. Refuse, and
+// leave yesterday's file - still correct, one day older - in place.
+const previous = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, "utf8")).count : 0;
+if (previous && packed.length < previous * 0.6 && !process.argv.includes("--force")) {
+  console.error(`Refusing to export: ${packed.length} listings against ${previous} last time. A source probably failed; check the reader logs, or pass --force if the drop is real.`);
+  process.exit(1);
+}
+
 fs.writeFileSync(OUT, JSON.stringify({ generated, count: packed.length, cats, venues, rows: packed }));
 console.log(`${packed.length} listings, ${venues.length} venues -> ${OUT} (${Math.round(fs.statSync(OUT).size / 1024)} KB)`);
