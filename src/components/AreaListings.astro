@@ -1,0 +1,42 @@
+---
+// "Coming up near X": the next fortnight's gigs, shows and exhibitions at
+// venues whose nearest station is one of the area guide's own stations.
+//
+// Built from the What's On listings (src/data/listings.json) at build time, so
+// the daily listings refresh rolls it forward. Separate from AreaEvents, which
+// is the hand-picked list of limited runs and annual fixtures: this is the
+// full programme, thinned so one busy venue cannot fill it.
+//
+// A guide with nothing coming up nearby renders nothing.
+import listingsJson from "../data/listings.json";
+import { areaListings } from "../lib/area-listings";
+import { listHtml, firstRunDayOf, type Listings } from "../lib/whats-on";
+import "../styles/whats-on.css";
+
+interface Props {
+  areaName: string;
+  stations: string[];
+}
+const { areaName, stations } = Astro.props as Props;
+const listings = listingsJson as unknown as Listings;
+const items = areaListings(listings, stations);
+const html = listHtml(items, { data: listings, today: listings.generated, firstRunDay: firstRunDayOf(listings) }, { headingTag: "h3", sayToday: false });
+const more = `/whats-on/?q=${encodeURIComponent(stations[0] ?? areaName)}`;
+---
+
+{items.length > 0 && (
+  <section class="area-listings" aria-labelledby="coming-up">
+    <h2 id="coming-up">Coming up near {areaName}</h2>
+    <p class="area-listings__intro">
+      Gigs, shows and exhibitions in the next fortnight at venues closest to
+      {stations.slice(0, 3).join(", ")}. <a href={more}>See everything on the What's On page</a>.
+    </p>
+    <div class="wo__results" set:html={html} />
+  </section>
+)}
+
+<style>
+  .area-listings { margin-block: var(--space-6, 3rem); }
+  .area-listings__intro { color: var(--muted); }
+  .area-listings :global(.wo__day) { position: static; font-size: 1rem; }
+</style>

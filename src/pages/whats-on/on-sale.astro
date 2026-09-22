@@ -1,0 +1,76 @@
+---
+// Tickets that are not on sale yet, grouped by the day they go on sale.
+//
+// Built from the same listings as /whats-on/ and rebuilt with every daily
+// refresh, so the dates roll forward on their own. Only rows whose on-sale
+// date is still ahead are here: the Ticketmaster public on-sale date, or the
+// date a venue box office opens a performance for online booking.
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import listingsJson from "../../data/listings.json";
+import { itemHtml, longDate, firstRunDayOf, type Listings, type Row } from "../../lib/whats-on";
+import "../../styles/whats-on.css";
+
+const listings = listingsJson as unknown as Listings;
+const buildDay = listings.generated;
+const updated = new Date(`${buildDay}T12:00:00Z`).toLocaleDateString("en-GB", {
+  day: "numeric", month: "long", year: "numeric", timeZone: "Europe/London",
+});
+const breadcrumbs = [{ label: "Home", href: "/" }, { label: "What's on", href: "/whats-on/" }, { label: "Going on sale" }];
+
+// One row per show per on-sale day: a run of forty nights going on sale
+// together is one line here, with its first date, not forty.
+const seen = new Set<string>();
+const shows: { r: Row; runs: number }[] = [];
+const byShow = new Map<string, { r: Row; runs: number }>();
+for (const r of [...listings.rows].sort((a, b) => a[7].localeCompare(b[7]) || a[0].localeCompare(b[0]))) {
+  if (!r[7] || r[7] <= buildDay) continue;
+  const key = `${r[7]}|${r[4]}|${r[2].toLowerCase()}`;
+  if (seen.has(key)) { byShow.get(key)!.runs++; continue; }
+  seen.add(key);
+  const entry = { r, runs: 1 };
+  byShow.set(key, entry);
+  shows.push(entry);
+}
+
+const ctx = { data: listings, today: buildDay, firstRunDay: firstRunDayOf(listings) };
+const groups = new Map<string, typeof shows>();
+for (const s of shows) {
+  if (!groups.has(s.r[7])) groups.set(s.r[7], []);
+  groups.get(s.r[7])!.push(s);
+}
+const html = [...groups].map(([day, list]) =>
+  `<h2 class="wo__day">On sale ${longDate(day)}</h2><ul class="wo__list">` +
+  list.map(({ r, runs }) => {
+    const row = itemHtml(r, { ...ctx, showDate: true, day: r[0] });
+    // The badge would only repeat the heading.
+    const clean = row.replace(/<span class="wo__badge wo__badge--soon">[^<]*<\/span>/, "");
+    return runs > 1 ? clean.replace('<p class="wo__where">', `<p class="wo__extra">${runs} dates from this one</p><p class="wo__where">`) : clean;
+  }).join("") + "</ul>",
+).join("");
+---
+
+<BaseLayout
+  title="London tickets going on sale this week"
+  description="Gigs, comedy, theatre and sport in London that go on sale soon, grouped by the day tickets are released, with presale dates where there are any."
+  breadcrumbs={breadcrumbs}
+>
+  <section class="wo container">
+    <Breadcrumbs items={breadcrumbs} />
+    <header class="wo__head">
+      <p class="eyebrow">What's on</p>
+      <h1>Tickets going on sale soon</h1>
+      <p class="wo__lede">
+        Shows in London whose tickets are not on sale yet, grouped by the day they are released.
+        Presale dates, where there are any, are under the show.
+      </p>
+      <p class="wo__fresh">
+        <em>Updated {updated}. Everything already on sale is on the <a href="/whats-on/">What's On page</a>.</em>
+      </p>
+    </header>
+
+    {shows.length
+      ? <div class="wo__results" set:html={html} />
+      : <p class="wo__status">Nothing is waiting to go on sale in the listings right now. Everything we list is on the <a href="/whats-on/">What's On page</a>.</p>}
+  </section>
+</BaseLayout>

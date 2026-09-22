@@ -88,6 +88,10 @@ for (const e of events) {
   const tv = e._embedded?.venues?.[0];
   const lat = +tv?.location?.latitude, lng = +tv?.location?.longitude;
   if (!tv || !lat) { skipped.noVenue++; continue; }
+  // Ticketmaster files some products under stand-in venues ("Ticketmaster",
+  // "Tmuk Overseas Post", a whole borough) sitting on a default map pin.
+  // Nothing there is a place to go.
+  if (/^(ticketmaster|tmuk|city of |london borough|greater london|online|virtual|tba|tbc)\b/i.test(tv.name)) { skipped.noVenue++; continue; }
   const p = { lat, lng };
   const st = nearestStation(p);
   const ours = matchVenue(venues, tv.name, p);
