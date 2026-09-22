@@ -75,6 +75,49 @@ export function distanceM(a, b) {
   return 2 * R * Math.asin(Math.sqrt(h));
 }
 
+// --- place ------------------------------------------------------------------
+let stations;
+/** Nearest station with its fare zone and the straight-line distance to it. */
+export function nearestStation(p) {
+  stations ??= JSON.parse(fs.readFileSync("data/listings/stations.json", "utf8"));
+  let best, bestD = Infinity;
+  for (const s of stations) {
+    const d = distanceM(p, s);
+    if (d < bestD) { best = s; bestD = d; }
+  }
+  return { ...best, walkM: Math.round(bestD) };
+}
+export const inZones12 = (zone) => String(zone).split(/[+/]/).map(Number).some((z) => z && z <= 2);
+
+/**
+ * The venue in our list that an event's venue is: within 250 m and sharing a
+ * word of its name, or within 60 m whatever it is called (feeds rename venues
+ * after sponsors: "OVO Arena Wembley", "Wembley Arena").
+ */
+export function matchVenue(venues, name, p) {
+  const words = (s) => new Set(s.toLowerCase().replace(/[^a-z0-9 ]/g, " ").split(/\s+/).filter((w) => w.length > 3 && !/^(london|theatre|centre|club|hall|the|arena|venue)$/.test(w)));
+  const want = words(name);
+  let best, bestD = Infinity;
+  for (const v of venues) {
+    const d = distanceM(p, v);
+    if (d > 250) continue;
+    const shared = [...words(v.name)].some((w) => want.has(w));
+    if ((shared || d < 60) && d < bestD) { best = v; bestD = d; }
+  }
+  return best;
+}
+
+/** Keys from .env.local, in the worktree or the main checkout. */
+export function envKey(name) {
+  if (process.env[name]) return process.env[name];
+  for (const f of [".env.local", "../../../.env.local", "C:/Users/rober/Projects/london-travel-geek/.env.local"]) {
+    if (!fs.existsSync(f)) continue;
+    const m = fs.readFileSync(f, "utf8").match(new RegExp(`^${name}=(.*)$`, "m"));
+    if (m) return m[1].trim().replace(/^["']|["']$/g, "");
+  }
+  return "";
+}
+
 // --- categories -----------------------------------------------------------
 // Checked in order; the first match wins, so the specific comes before the
 // general (opera before music, stand-up before theatre).
@@ -146,12 +189,13 @@ export function isLongRun({ first, last, performances, category }) {
 
 /**
  * Timed entry: an exhibition sold in half-hour slots is one event, not 800.
- * Many performances, several on most days it is open.
+ * Many performances, more than three a day on average. (A panto doing two
+ * shows a day stays as separate performances.)
  */
 export function isTimedEntry(starts) {
   if (starts.length < 20) return false;
   const days = new Set(starts.map((s) => s.slice(0, 10))).size;
-  return starts.length / days > 1.5;
+  return starts.length / days > 3;
 }
 
 /** A film on an ordinary cinema run. One-off screenings (a premiere, a Q&A) stay. */
@@ -169,6 +213,8 @@ export function listing(o) {
     genre: o.genre ?? "",
     venue: o.venue,
     venueId: o.venueId ?? "",
+    zone: o.zone ?? "",               // for venues not in our list; the list's own zone wins
+    station: o.station ?? "",
     start: o.start,                   // local ISO "2026-10-03T19:30"
     runFirst: o.runFirst ?? "",
     runLast: o.runLast ?? "",

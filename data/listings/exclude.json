@@ -1,0 +1,27 @@
+{
+  "_note": "Titles left out of the listings whatever the source. Open-ended West End shows (the feeds only list their next few weeks, so the twelve-week rule cannot see they are long runs) and permanent attractions sold as timed tickets. Each entry is a case-insensitive regular expression matched against the title. Add a line to drop a show; delete one to bring it back.",
+  "openEndedShows": [
+    "phantom of the opera",
+    "book of mormon",
+    "les mis[eé]rables",
+    "\\bhamilton\\b",
+    "^wicked\\b",
+    "the lion king",
+    "mamma mia",
+    "the mousetrap",
+    "harry potter and the cursed child",
+    "^six\\b|six the musical",
+    "moulin rouge",
+    "back to the future",
+    "mj the musical",
+    "matilda the musical",
+    "disney'?s hercules",
+    "the play that goes wrong"
+  ],
+  "attractions": [
+    "twist museum",
+    "^frameless",
+    "standard all day entry",
+    "general admission"
+  ]
+}

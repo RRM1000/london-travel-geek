@@ -68,6 +68,12 @@ const uniqueStations = stations.filter((s) => {
   return true;
 });
 
+// Kept for the readers, which place events that arrive with coordinates but no
+// venue in our list (Ticketmaster, Skiddle).
+fs.writeFileSync("data/listings/stations.json", JSON.stringify(
+  uniqueStations.map((s) => ({ name: s.name, zone: s.zone, lat: +s.lat.toFixed(5), lng: +s.lng.toFixed(5) })),
+) + "\n");
+
 function distanceM(a, b) {
   const R = 6371000, rad = Math.PI / 180;
   const dLat = (b.lat - a.lat) * rad, dLng = (b.lng - a.lng) * rad;

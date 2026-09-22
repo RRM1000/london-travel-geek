@@ -33,13 +33,42 @@ const venueById = new Map(venues.map((v) => [v.id, v]));
 const WHOLE_RUN = new Set(["timed entry", "runs over several days"]);
 all = all.filter((l) => (WHOLE_RUN.has(l.note) && l.runLast ? l.runLast : l.start.slice(0, 10)) >= TODAY);
 
-const norm = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
-const kept = new Map();
-for (const l of all.sort((a, b) => rank(a.source) - rank(b.source))) {
-  const key = `${l.venueId}|${l.start}|${norm(l.title)}`;
-  if (!kept.has(key)) kept.set(key, l);
+// Hand-kept list of open-ended shows and permanent attractions.
+const EX = JSON.parse(fs.readFileSync("data/listings/exclude.json", "utf8"));
+const exclude = [...EX.openEndedShows, ...EX.attractions].map((p) => new RegExp(p, "i"));
+const before = all.length;
+all = all.filter((l) => !exclude.some((re) => re.test(l.title)));
+console.log(`${before - all.length} rows dropped by data/listings/exclude.json`);
+
+// Sources title the same show differently ("Much Ado About Nothing" and
+// "Shakespeare's Globe - Much Ado About Nothing"), so at one venue and start
+// time, two titles are the same show if one contains the other or they share
+// most of their distinctive words.
+const norm = (t) => t.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, " ").trim();
+const STOP = new Set(["the", "and", "with", "live", "london", "presents", "tour", "tickets", "show"]);
+const words = (t) => new Set(norm(t).split(" ").filter((w) => w.length > 2 && !STOP.has(w)));
+function sameShow(a, b) {
+  const x = norm(a), y = norm(b);
+  if (x === y || x.includes(y) || y.includes(x)) return true;
+  const wa = words(a), wb = words(b);
+  const shared = [...wa].filter((w) => wb.has(w)).length;
+  return shared >= 2 && shared / Math.min(wa.size, wb.size) >= 0.6;
 }
-const listings = [...kept.values()].sort((a, b) => a.start.localeCompare(b.start) || a.title.localeCompare(b.title));
+const slots = new Map();
+for (const l of all.sort((a, b) => rank(a.source) - rank(b.source))) {
+  const key = `${l.venueId}|${l.start}`;
+  const here = slots.get(key) ?? [];
+  const twin = here.find((k) => sameShow(k.title, l.title));
+  if (twin) {
+    // Keep the better source's row, but fill its gaps from the other.
+    for (const f of ["priceFrom", "priceTo", "onSaleFrom", "availability", "note"]) if (twin[f] === "" && l[f] !== "") twin[f] = l[f];
+    twin.alsoOn = [...new Set([...(twin.alsoOn ?? []), l.source])];
+    continue;
+  }
+  here.push(l);
+  slots.set(key, here);
+}
+const listings = [...slots.values()].flat().sort((a, b) => a.start.localeCompare(b.start) || a.title.localeCompare(b.title));
 
 let firstSeen = new Map();
 if (!DRY) {
@@ -60,9 +89,9 @@ const rows = listings.map((l) => {
   const run = l.runFirst && l.runLast && l.runFirst !== l.runLast ? `${l.runFirst} to ${l.runLast}` : "";
   return [
     date, WHOLE_RUN.has(l.note) ? "" : l.start.slice(11, 16), DAY[new Date(`${date}T12:00`).getDay()],
-    l.title, l.category, l.genre, l.venue, l.room ?? "", v.zone ?? "", v.station ?? "",
+    l.title, l.category, l.genre, l.venue, l.room ?? "", v.zone ?? l.zone ?? "", v.station ?? l.station ?? "",
     l.priceFrom, l.priceTo, l.onSale, l.onSaleFrom, l.availability, run, l.performances,
-    l.access, l.note, l.url, l.source, firstSeen.get(l.id) || TODAY, l.id,
+    l.access, l.note, l.url, [l.source, ...(l.alsoOn ?? [])].join(", "), firstSeen.get(l.id) || TODAY, l.id,
   ];
 });
 
