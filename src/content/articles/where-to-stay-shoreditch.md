@@ -224,7 +224,7 @@ Two practical notes. **Breakfast is about £56 extra**, which is a lot on top of
 
 ## Where to stay near Shoreditch instead
 
-This is the more useful half for most people, because Shoreditch's prices have moved and its noise has not.
+Shoreditch's prices have moved and its noise has not.
 
 If you have not settled on the area yet, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for — first visit, nightlife, museums, budget — and covers the thing that decides most of it, which is whether there is a train home at one in the morning.
 
@@ -316,11 +316,11 @@ The honest downside is that the area around the station is a shopping centre and
 
 ## What you are staying for
 
-If you have not spent time in the area yet, our [Shoreditch area guide](/articles/shoreditch-area-guide/) covers the markets, the bars and what is worth walking to. The single best free thing on the doorstep is the [street art](/articles/london-street-art/) — Shoreditch has the densest concentration in the city, and the walls change often enough that a guide is worth reading before you go looking.
+If you have not spent time in the area yet, our [Shoreditch area guide](/articles/shoreditch-area-guide/) covers the markets, the bars and what is worth walking to. The single best free thing on the doorstep is the [street art](/articles/london-street-art/), and the walls change often enough that a guide is worth reading before you go looking.
 
 ## The noise question
 
-If you take one thing from this guide, take this. **Shoreditch is a nightlife district and a residential one at the same time**, and the hotels sit in the middle of that.
+**Shoreditch is a nightlife district and a residential one at the same time**, and the hotels sit in the middle of that.
 
 Three things that actually help:
 

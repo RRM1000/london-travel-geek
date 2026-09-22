@@ -34,7 +34,7 @@ Central London has caught up in the last few years, and one Hackney kitchen was 
 > 💡 **The Short Version:** **Jin Go Gae** in New Malden uses real charcoal, which is why purists go. **Imone** is the home cooking everyone sends you to. **You Me** has been there since 1988. **Chick and Beers** does the fried chicken. **Seoul Bakery** in Bloomsbury is the cheap central one, and **Mukbap** is London's first fully vegan Korean kitchen.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **9 sources carrying 118 citations** across **74 named restaurants**. **17 restaurants are named by two or more independent sources; 2 hold a Michelin star.**
+> Nothing here is ranked on one visit. This pass reads **9 sources carrying 118 citations** across **74 named restaurants**. **19 restaurants are named by two or more independent sources; 2 hold a Michelin star.**
 > **Built on:** where Korean London actually is. Nearly half these sources point at one high street in New Malden, and the counts show it.
 > *Evidence rebuilt 14 September 2026 · [How we rank →](/how-we-rank/)*
 
@@ -205,7 +205,7 @@ Barbecue at the table, and the drinking food that goes with it: **fried chicken,
 
 ### Chung'dam, Soho
 
-*££££ · 2 min from Leicester Square* · Cited by 1 source
+*££££ · 2 min from Leicester Square* · Cited by 2 sources
 
 **Named for Seoul's Cheongdam-dong** — the district that is to Seoul what Mayfair is to London — and priced accordingly. The most polished Korean room in central London.
 
@@ -219,7 +219,7 @@ The thing to order is the **pyeonbaek steam box**: a three-tiered wooden steamer
 
 ### Miga, Hackney
 
-*£££ · 4 min from Cambridge Heath* · Cited by 1 source
+*£££ · 4 min from Cambridge Heath* · Cited by 2 sources
 
 A family-run kitchen that **moved from New Malden to Hackney in 2024** and was promptly named Time Out's best restaurant in London — the clearest sign that Korean cooking in this city has stopped being a suburban speciality.
 

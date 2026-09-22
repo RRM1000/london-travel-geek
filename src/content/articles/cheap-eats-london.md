@@ -472,6 +472,10 @@ Order at the bar or through the app. No table service, no music, no booking.
 
 **Paying less to eat out in London.** A few different strategies, and they rarely combine — pick the one that fits how you eat:
 
+- 🇳🇬 **[The Best West African Restaurants in London](/articles/best-west-african-restaurants-london/)** — Bola Cuisine in New Cross, under a tenner
+- 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)**
+- 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)** — a pandesal sando or a £15.99 boodle fight for four
+- 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)** — market plates from £2.50 in Brixton
 - 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in

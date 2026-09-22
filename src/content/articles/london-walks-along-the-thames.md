@@ -182,6 +182,7 @@ Prefer to see the river from the water instead of the towpath one day.
 
 ## Continue planning your London trip
 
+- 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — where to eat on the stretch you are walking
 - 🛶 **[Best Canal Walks in London](/articles/best-canal-walks-london/)**
 - 🚇 **[Canary Wharf to Greenwich Under the River](/articles/canary-wharf-greenwich-walk/)**
 - 🥾 **[The Hampstead Heath to Primrose Hill Walk](/articles/hampstead-heath-primrose-hill-walk/)**

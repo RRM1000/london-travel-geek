@@ -38,7 +38,7 @@ That disagreement is not a flaw in the evidence. It is the most interesting thin
 > 💡 **The Short Version:** **20Ft Fried Chicken** won the only judged championship. **Good Friend** in Chinatown is named by more sources than anything else. **Chick'N'Sours** and **Butchies** are the only two names in both camps — and Chick'N'Sours is at the Big Chill in King's Cross. **Morley's** is the chicken shop the serious lists actually name. For Korean, go to **New Malden**.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **14 independent sources carrying 130 citations** across **75 named venues**. **22 are named by two or more sources; six carry a dated award.**
+> Nothing here rests on one visit. This pass reads **14 independent sources carrying 130 citations** across **71 named venues**. **21 are named by two or more sources; six carry a dated award.**
 > **Built on:** one judged championship, seven mastheads, two independent blogs and four YouTube channels — counted per creator, so a channel's five videos are one voice.
 > *Evidence built 7 September 2026 · [How we rank →](/how-we-rank/)*
 
@@ -91,7 +91,7 @@ There is a second kitchen at Corner Corner in Canada Water, but it runs Thursday
 
 ### Butchies — joint second, and the tenders beat the burger
 
-*£ · Shoreditch · Joint second, Fried Chicken Championships 2026 · Cited by 6 sources*
+*£ · Shoreditch · Joint second, Fried Chicken Championships 2026 · Cited by 8 sources*
 
 ![Six buttermilk-fried chicken tenders on a metal tray lined with Butchies branded paper, with a cup of cheese fries and mayonnaise sachets](../../assets/articles/best-fried-chicken-london/butchies-tenders.jpg)
 
@@ -133,7 +133,7 @@ Taiwanese fried chicken came out of night-market stalls in the late 1970s, tryin
 
 ### Morley's — the chicken shop the critics actually name
 
-*£ · Branches across London · Cited by 5 sources*
+*£ · Branches across London · Cited by 8 sources*
 
 London has thousands of chicken shops and the serious lists name this one. It started in south London and now runs from **Edmonton to Finsbury Park to Brick Lane**, which has cost it none of its standing.
 

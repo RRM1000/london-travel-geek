@@ -26,7 +26,7 @@ heroImage: "../../assets/articles/shopping-in-london/covent-garden-market-hall.j
 heroImageAlt: "The glass-roofed Apple Market hall at Covent Garden, with stalls beneath the iron and glass arcade"
 ---
 
-London has more good shopping than any visitor can use, and most guides list the same six streets in the same order. This one is arranged by **what you are actually trying to buy** — because someone after a wedding outfit, someone after vintage denim and someone after edible gifts to take home should not be sent to the same postcode.
+London has more good shopping than any visitor can use. This guide is arranged by **what you are actually trying to buy** — because someone after a wedding outfit, someone after vintage denim and someone after edible gifts to take home should not be sent to the same postcode.
 
 Two things first, because both catch people out and neither is obvious.
 
@@ -34,7 +34,7 @@ Two things first, because both catch people out and neither is obvious.
 
 > ⏰ **Sunday is a six-hour day, by law.** The Sunday Trading Act restricts any shop **over 280 square metres** to **six hours between 10am and 6pm**. In practice most of Oxford Street trades **noon to 6pm**, with some department stores open from **11.30am for browsing only** — you can look, you cannot pay. **Small independents and markets are exempt**, which is exactly why Sunday is the best market day and the worst department store day.
 
-> 💡 **The Short Version:** **Oxford Street** is a sight more than a shopping trip. **Regent Street** and **Bond Street** are the architecture and the luxury. **Marylebone High Street** is the one Londoners actually recommend. **Camden and Brick Lane** are vintage. **Portobello is antiques, but only on Saturday.** **Westfield London** is everything indoors. And **food is the best souvenir**, by a distance.
+> 💡 **The Short Version:** **Oxford Street** is a sight more than a shopping trip. **Regent Street** and **Bond Street** are the architecture and the luxury. **Marylebone High Street** is the best of the independent streets. **Camden and Brick Lane** are vintage. **Portobello is antiques, but only on Saturday.** **Westfield London** is everything indoors. And **food is the best souvenir**, by a distance.
 
 ---
 
@@ -94,7 +94,7 @@ Mid-to-premium rather than luxury: **Liberty** just off it on Great Marlborough 
 
 ### The independent streets
 
-This is where Londoners actually shop, and where the guides mostly do not send you.
+This is where Londoners actually shop.
 
 * **Marylebone High Street** — the best of them. **Daunt Books** in its galleried Edwardian room, La Fromagerie, Cadenhead's whisky, and a Sunday farmers' market behind it.
 * **Columbia Road**, Sunday only — flowers, but the **shops behind the stalls** are the real find: ceramics, prints, vintage.
@@ -176,7 +176,7 @@ London is one of the best cities in Europe for this, and prices span an enormous
 * **Brick Lane Vintage Market** — the biggest vintage market in London, in the basement of the **Old Truman Brewery** at F Block, 85 Brick Lane. Dozens of independent traders under one roof, covering the **1920s through to the 1990s**: denim, leather, men's suits, fur coats, bridal, vinyl and accessories. **Open seven days a week** — Mon–Fri 11am–6.30pm, Sat 11am–6pm, Sun 10am–6pm — which makes it the one vintage stop you can do on a weekday, when it is far calmer.
 * **Brick Lane on a Sunday** — the wider stretch adds Upmarket, Backyard Market and the Truman yards, and **kilo sales** (buy by weight) run regularly. Cheapest way in, and busiest by a distance.
 * **Beyond Retro**, **Rokit** and **Blitz** — the reliable chains, Dalston and Shoreditch.
-* **Charity shops in wealthy postcodes.** Chelsea, Marylebone, Hampstead and Primrose Hill are where the good donations land. This is the genuine insider tip in this section.
+* **Charity shops in wealthy postcodes.** Chelsea, Marylebone, Hampstead and Primrose Hill are where the good donations land.
 * **Alfies Antique Market**, Marylebone — twentieth-century design and vintage fashion, five floors, Tuesday to Saturday and far calmer than Portobello.
 
 ![Rails of vintage clothing at a Camden market stall](../../assets/articles/shopping-in-london/camden-vintage-clothing.jpg)

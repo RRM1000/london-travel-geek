@@ -36,7 +36,7 @@ September is the month London stops performing for visitors and goes back to bei
 
 The schools go back in the first week. From around the 5th, the museums thin out, restaurant tables reappear and the South Bank stops being an obstacle course, while the weather usually holds well into the month. Sunset is still after seven for the first three weeks. It is August's weather with October's crowds.
 
-Then the middle of the month does something remarkable, and no published guide seems to say it plainly.
+Then the middle of the month collides.
 
 **Open House and the London Design Festival run the same nine days.** In 2026 that is 12 to 20 September, exactly. Heritage Open Days overlaps them, 11 to 20. London Fashion Week starts the day before they finish. For anyone interested in buildings, design or how London is put together, that week is the best week of the year to be in the city — and it is simultaneously the worst week to want a cheap hotel room or a quiet gallery. Both halves of that are worth knowing before you book.
 
@@ -64,11 +64,11 @@ These come round every year. If you are reading this in a later September, the d
 
 **1 to 30 September**, every year, along the length of the tidal Thames.
 
-A month-long river festival run by the Thames Festival Trust, and much the most underrated thing in this guide because it does not present as a single event you can turn up to. It is dispersed by design: **art installations, boat trips, river races, environmental projects and — the ones worth planning around — foreshore archaeology walks**, where you go down onto the exposed riverbed at low tide with someone who can tell you what you are looking at.
+A month-long river festival run by the Thames Festival Trust, and easy to miss because it does not present as a single event you can turn up to. It is dispersed by design: **art installations, boat trips, river races, environmental projects and — the ones worth planning around — foreshore archaeology walks**, where you go down onto the exposed riverbed at low tide with someone who can tell you what you are looking at.
 
 A large share of it is free. The foreshore walks are the exception in demand rather than price, and they book out early, because the number of people who can safely stand on a tidal foreshore is small and the tide decides the timings rather than the organisers.
 
-If you only take one thing from this page: the Thames is the reason London is here, and September is the one month the city organises itself around saying so.
+The Thames is the reason London is here, and September is the one month the city organises itself around saying so.
 
 ### The Great River Race — 21.6 miles, 300 boats, mostly in fancy dress
 
@@ -116,7 +116,7 @@ Because it runs the same nine days as Open House, the sensible approach is to tr
 
 The close of a summer of more than eighty concerts. In 2026 it is **Yuja Wang** on piano, returning after her 2023 appearance, with Scottish tenor **Nicky Spence** and the massed BBC forces under **Sakari Oramo**.
 
-Seats are long gone, and that is where almost every guide stops. **Day Promming tickets go on sale at 9.30am on the day of the concert, two per booker** — standing, in the arena or the gallery, and the cheapest way into the most oversubscribed classical concert in the country. Season ticket holders redeem theirs from 11am the day before.
+Seats are long gone. **Day Promming tickets go on sale at 9.30am on the day of the concert, two per booker** — standing, in the arena or the gallery, and the cheapest way into the most oversubscribed classical concert in the country. Season ticket holders redeem theirs from 11am the day before.
 
 If you want the experience without the queue, the Proms in the Park tradition has changed in recent years; check the BBC's own listing for what is running before making plans around it.
 
@@ -131,8 +131,6 @@ What it means for a visitor is threefold: a schedule of open events and shopping
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Exhibitions closing this month
-
-The most time-sensitive thing in this guide, and the reason to read it now rather than in October.
 
 ### Monet and Renoir: Painting Side by Side — National Gallery, closes 15 September
 

@@ -149,7 +149,9 @@ The oldest enclosed royal park in London, and the climb behind the Maritime Muse
 
 **The view from the top is free and is the reason to come.** Queen's House and the Naval College below, the river, Canary Wharf opposite and the O2 to the right — one of the great London views, at no cost, whether or not you go into anything.
 
-**The Royal Observatory at the summit is paid: £24 adult, £12 child**, 10am–5pm with last entry 4pm, extended to 6pm through September. That buys the **Prime Meridian line**, Wren's Octagon Room, and the Great Equatorial Telescope. **You can see the meridian courtyard from outside without paying**, which is worth knowing if the queue is long or the family is flagging.
+**The Royal Observatory at the summit is paid: £24 adult, £18 student, £12 child**, 10am–5pm with last entry 4pm, extended to 6pm through September. That buys the **Prime Meridian line**, Wren's Octagon Room, and the Great Equatorial Telescope. **You can see the meridian courtyard from outside without paying**, which is worth knowing if the queue is long or the family is flagging. Two £5 add-on tours run daily on top of entry — the Treasures Tour at 11am and 3pm, the Lunar Tour at 1.30pm.
+
+**The Peter Harrison Planetarium is closed for renovation**, so do not plan a show into the day. Royal Museums Greenwich runs a replacement 30-minute show, presented live by its astronomers, downstairs at the National Maritime Museum as part of Astronomers Take Over: £18 adult and £16 child with the planetarium, £8 without. [Science events in London](/articles/science-events-london/) covers that and the rest of the city's dated science programme.
 
 Also free, and often missed: the **deer in The Wilderness** — a herd has been here since the seventeenth century — and the **rose garden** behind Ranger's House, at its best in June. English Heritage's own site now calls Ranger's House the exterior of the Bridgerton family home; see our [Bridgerton in London](/articles/bridgerton-london/) guide for opening dates.
 

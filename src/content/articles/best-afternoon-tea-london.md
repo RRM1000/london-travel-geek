@@ -112,7 +112,7 @@ Finely cut sandwiches, **scones with Cornish clotted cream and strawberry preser
 
 ### Claridge's, Mayfair
 
-*££££ · 5 min from Bond Street · Cited by 3 sources*
+*££££ · 5 min from Bond Street · Cited by 4 sources*
 
 Art Deco Mayfair at its most composed, in the **Foyer and Reading Room** — an ornate gilded space laid with the hotel's signature jade-and-white striped china, which is as recognisable as the building.
 

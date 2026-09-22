@@ -47,7 +47,7 @@ heroImage: "../../assets/articles/wimbledon-tickets-guide/wimbledon-outside-cour
 heroImageAlt: "A ladies' doubles match on an outside court at Wimbledon, with the ivy-clad Centre Court building behind"
 ---
 
-Wimbledon is the only Grand Slam where you can still turn up on the day, pay face value and sit on Centre Court. It is also the hardest tennis ticket in the world to buy in advance.
+Wimbledon is the only Grand Slam where you can still turn up on the day, pay face value and sit on Centre Court.
 
 There are a small number of legitimate ways in, and the All England Club controls every one of them. Everything else — the resale sites, the "guaranteed Wimbledon tickets" ads, the man outside Southfields station — sells you a ticket that is void on arrival.
 
@@ -122,7 +122,7 @@ Two smaller slices are documented. In 2026 the AELTC's **Family Ballot** gave ti
 | **No.3 Court** | £60 | £75 | £95 | £70 | — | — | — | — |
 | **Grounds Pass** | £35 | £35 | £35 | £35 | £27 | £27 | £22 | £22 |
 
-**Prices rose across the board on 2026**, by roughly 13 per cent on Centre Court and by £2 on the cheapest Grounds Pass. Note what happens to **No.1 Court from day 11**: once the singles semi-finals move to Centre, a No.1 Court seat drops from £270 to £125 and then to £75. Those are the three cheapest Show Court days of the fortnight, and they are the ones people overlook.
+**Prices rose across the board on 2026**, by roughly 13 per cent on Centre Court and by £2 on the cheapest Grounds Pass. Note what happens to **No.1 Court from day 11**: once the singles semi-finals move to Centre, a No.1 Court seat drops from £270 to £125 and then to £75. Those are the three cheapest Show Court days of the fortnight.
 
 **No.3 Court** tickets come from the ballot only. You cannot buy one in the Queue.
 
@@ -130,7 +130,7 @@ Two smaller slices are documented. In 2026 the AELTC's **Family Ballot** gave ti
 
 ## Route 1: The Wimbledon Public Ballot
 
-This is the ballot that needs no membership of anything, and for most people it is the main advance route. It has run since 1924, it is free to enter, and it is genuinely random — the AELTC states that it gives no preferential treatment to people who have applied for years without success. It is the main way to buy a Show Court ticket at face value months ahead.
+This is the ballot that needs no membership of anything, and it is the main way to buy a Show Court ticket at face value months ahead. It has run since 1924, it is free to enter, and it is genuinely random — the AELTC states that it gives no preferential treatment to people who have applied for years without success.
 
 ### When it runs
 
@@ -514,7 +514,7 @@ Blue Badge parking is free in **Car Park 6** on Church Road but must be booked i
 
 ## Route 4: Ticket Resale, once you are inside
 
-This turns a £33 Grounds Pass into a Centre Court seat for £15.
+This turns a £22–£35 Grounds Pass into a Centre Court seat for £15.
 
 Show Court ticket holders scan out when they leave for the day, and wherever possible their seats are put back on sale. From **3pm**, those returned Centre Court, No.1 Court and No.2 Court seats become available through **Ticket Resale**, near No.1 Court in the Parkside area of the Grounds.
 
@@ -538,7 +538,7 @@ The queue for it is now **virtual, and run through the Wimbledon app** — a cha
 
 **Does it work?** Sometimes. One 2025 visitor queued from 5am for a Grounds Pass on quarter-finals day, registered on entry, got the text mid-afternoon and watched Alcaraz on Centre Court — around £40 for the day at 2025 prices. Another party registered on two consecutive days and got in only very late each time. The stake is tiny, but it is not something to build a trip around.
 
-Ticket Resale raised **£278,000 for the Wimbledon Foundation in 2026**, up from £195,000 the year before. At £15 and £10 a ticket, that is a great many returned seats going back on sale.
+Ticket Resale raised **£278,000 for the Wimbledon Foundation in 2026**, up from £195,000 the year before, at £15 and £10 a ticket.
 
 Two things before you count on it: resale tickets are **not eligible for a refund** if play is curtailed, and neither is any ticket bought after 5pm. And if you join the virtual queue and then decide you no longer want a seat, or you leave for the day, drop out so someone else moves up.
 

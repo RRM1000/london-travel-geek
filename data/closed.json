@@ -5,7 +5,18 @@
       "name": "The Alley",
       "closed": "2026",
       "detail": "Taiwanese bubble tea chain, once five London sites (Holborn, Mayfair, Camden, Hammersmith, Stratford). Google Maps lists the Holborn flagship at 272 High Holborn as permanently closed, and the-alley.uk reads 'Our UK store is reopening soon' with a notice warning against counterfeit franchises. Delete this entry when a UK store reopens.",
-      "stillRecommendedBy": ["theinfatuation.com", "standard.co.uk", "thehandbook.com", "secretldn.com", "wrapyourlipsaroundthis.com", "squeezelondon.com", "huesofdelahaye.com", "strandmagazine.co.uk", "youtube.com/@ThreeManAbroad", "youtube.com/@Rayscafes"],
+      "stillRecommendedBy": [
+        "theinfatuation.com",
+        "standard.co.uk",
+        "thehandbook.com",
+        "secretldn.com",
+        "wrapyourlipsaroundthis.com",
+        "squeezelondon.com",
+        "huesofdelahaye.com",
+        "strandmagazine.co.uk",
+        "youtube.com/@ThreeManAbroad",
+        "youtube.com/@Rayscafes"
+      ],
       "source": "https://the-alley.uk/",
       "recorded": "2026-09-14"
     },
@@ -13,7 +24,15 @@
       "name": "Dragon Cat Cafe",
       "closed": "2026",
       "detail": "Taiwanese bubble tea and wheelcake cafe. Google Maps lists both the Livat Hammersmith cafe (Level 1, W6 9HW) and the Wheelcake Hut at 15 Little Newport St as permanently closed; dragoncatcafe.com now sells home kits and merchandise only. Time Out ranked it #2 of 10 in March 2026 and The Infatuation still listed it in June 2026.",
-      "stillRecommendedBy": ["timeout.com", "theinfatuation.com", "standard.co.uk", "thehandbook.com", "londonxlondon.com", "huesofdelahaye.com", "youtube.com/@ThreeManAbroad"],
+      "stillRecommendedBy": [
+        "timeout.com",
+        "theinfatuation.com",
+        "standard.co.uk",
+        "thehandbook.com",
+        "londonxlondon.com",
+        "huesofdelahaye.com",
+        "youtube.com/@ThreeManAbroad"
+      ],
       "source": "https://www.google.com/maps/search/Dragon+Cat+Cafe+London",
       "recorded": "2026-09-14"
     },
@@ -21,7 +40,10 @@
       "name": "Quaker Street Coffee & Bubble Tea",
       "closed": "2026",
       "detail": "Quakers, 10 Quaker St, E1 6SZ. Google Maps lists it as permanently closed. Time Out ranked it #8 of 10 in March 2026.",
-      "stillRecommendedBy": ["timeout.com", "secretldn.com"],
+      "stillRecommendedBy": [
+        "timeout.com",
+        "secretldn.com"
+      ],
       "source": "https://www.google.com/maps/search/Quaker+Street+Coffee+%26+Bubble+Tea+E1",
       "recorded": "2026-09-14"
     },
@@ -29,7 +51,10 @@
       "name": "Tealive",
       "closed": "2026",
       "detail": "Malaysian bubble tea chain. Its only London site Google Maps can find, 56A Queensway W2 3RY, is permanently closed.",
-      "stillRecommendedBy": ["squeezelondon.com", "huesofdelahaye.com"],
+      "stillRecommendedBy": [
+        "squeezelondon.com",
+        "huesofdelahaye.com"
+      ],
       "source": "https://www.google.com/maps/search/Tealive+London",
       "recorded": "2026-09-14"
     },
@@ -37,7 +62,13 @@
       "name": "CoCo Fresh Tea & Juice",
       "closed": "2026",
       "detail": "Ground Floor, 52-53 Dean St, W1D 5BL - Google Maps lists it as permanently closed and finds no other London branch.",
-      "stillRecommendedBy": ["theinfatuation.com", "secretldn.com", "londonxlondon.com", "huesofdelahaye.com", "youtube.com/@Rayscafes"],
+      "stillRecommendedBy": [
+        "theinfatuation.com",
+        "secretldn.com",
+        "londonxlondon.com",
+        "huesofdelahaye.com",
+        "youtube.com/@Rayscafes"
+      ],
       "source": "https://www.google.com/maps/search/CoCo+Fresh+Tea+Dean+Street+London",
       "recorded": "2026-09-14"
     },
@@ -311,6 +342,20 @@
       "operatorCheck": "https://mamashelter.com/london-shoreditch/ returned HTTP 410 ('This site has been archived or suspended') on 14 Sep 2026, and London is absent from mamashelter.com's destination list.",
       "note": "JouJou Travels still listed it in a July 2026 update, and The Hotel Journal's August 2026 update marks it 'NOW CLOSED'.",
       "recorded": "2026-09-14"
+    },
+    "romulo cafe & restaurant": {
+      "name": "Romulo Café & Restaurant",
+      "closed": "2024-01",
+      "detail": "Filipino restaurant at 343 Kensington High Street, the London outpost of the Manila family group. Closed January 2024 and the site was put on the market. Reported by two trade titles within a day of each other, so this is a reported closure rather than an inference from a website. Four sources in the Filipino corpus still name it.",
+      "stillRecommendedBy": [
+        "london.eater.com",
+        "secretldn.com",
+        "londonxlondon.com",
+        "youtube.com/@rondigao"
+      ],
+      "source": "https://www.thecaterer.com/news/romulo-cafe-london-closes",
+      "sourceAlso": "https://www.restaurantonline.co.uk/ (8 Jan 2024, 'Romulo Café goes on the market')",
+      "recorded": "2026-09-22"
     }
   },
   "uncertain": {

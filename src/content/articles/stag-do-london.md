@@ -37,7 +37,7 @@ faq:
     a: "Most of the best options in London are games with a bar attached rather than the reverse, so nobody has to opt out of anything. Fairgame, Race Across The World, Mission: Breakout, THE CUBE, Puttshack and the Thames Rockets speedboat are identical experiences sober. The Hippodrome Casino costs nothing to walk into and never closes."
 ---
 
-Three things every stag-do listicle still gets wrong about London. **Capital Karts Barking, the karting answer for a decade, is no longer listed on its operator's own website** — only Star City in Birmingham is. **Bodean's BBQ has closed**, and its site is now a single notice saying so. And **Cirque le Soir's published door policy says groups must be mixed and that all-male groups may be turned away.**
+Two things every stag-do listicle still gets wrong about London. **Bodean's BBQ has closed.** And **Cirque le Soir's published door policy says groups must be mixed and that all-male groups may be turned away.**
 
 What actually decides a stag weekend is group-size rules and what the evening costs once the bar is counted — and the pages that rank for this sell packages. So here is the same weekend priced from the operators' own booking systems.
 
@@ -73,7 +73,7 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 
 ### Anything with an engine
 
-**Capital Karts Barking is gone from its operator's site.** The company was bought by K1 Speed in May 2024, head office moved to Birmingham, and Star City is the only track listed. What is left in London and publishes a price is **F1 Arcade at 1 New Change, EC4M 9AF**, two minutes from St Paul's. The bookable group deal is the **Sprint Social at £25 a head** — 6pm to 9pm on the second and fourth Tuesday of the month, ninety minutes of hosted tournament racing then free play, a welcome drink and unlimited flatbreads. That is the best-value three hours in this guide. Party packages run from £29 and £49 a head.
+The karting venue that publishes a price and takes a group in central London is **F1 Arcade at 1 New Change, EC4M 9AF**, two minutes from St Paul's. The bookable group deal is the **Sprint Social at £25 a head** — 6pm to 9pm on the second and fourth Tuesday of the month, ninety minutes of hosted tournament racing then free play, a welcome drink and unlimited flatbreads. That is the best-value three hours in this guide. Party packages run from £29 and £49 a head.
 
 **Gravity MAX in Wandsworth is the answer when twelve people cannot agree.** Karting is £15.25 a head, bowling £10.99, AR darts £11.25, urban street golf £12.25 — but **the MAX3 pass at £28.50 buys three activities**, which beats paying singly. Open to 11pm Friday and Saturday.
 
@@ -111,7 +111,7 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 
 **A private Thames Rockets charter for twelve is £695 — £57.92 a head, less than the £59.95 each you would pay on a public sailing.** Sixty minutes out of London Eye Pier, Boarding Gate One, SE1 7PB, two minutes from Waterloo. **On a public departure a group of twelve will not always travel together unless it is pre-arranged**, so the charter is not an upgrade, it is the thing you wanted. Minimum eight passengers, lifejackets compulsory, and the named lead passenger carries responsibility for the party.
 
-> ⚠️ **The joint speedboat-and-axe-throwing package is gone.** Thames Rockets lists its Axetravaganza as no longer available, and Whistle Punks — the axe partner and for years the best-known name in London axe throwing — no longer has a working website at either of its domains. Book the two separately, or use Rocket Room.
+> ⚠️ **The joint speedboat-and-axe-throwing package is gone.** Thames Rockets lists its Axetravaganza as no longer available. Book the two separately, or use Rocket Room.
 
 ---
 
@@ -145,7 +145,7 @@ That is the pattern, and it is worth stating plainly: **almost nowhere in centra
 
 ### Eating as twelve
 
-**Bodean's has closed** — its site is a closure notice and nothing else, so ignore every listicle still sending you there. A food hall works better anyway, because twelve people ordering twelve different things is the actual problem. **Mercato Metropolitano** runs three London sites: Elephant & Castle at 17,000 square feet, Mayfair inside the Grade I-listed St Mark's Church, and Wood Wharf. **Brasserie Zédel at 20 Sherwood Street**, a minute from Piccadilly Circus, has a group dining menu and is the cheapest grand room in the West End.
+**Bodean's has closed**, so ignore every listicle still sending you there. A food hall works better anyway, because twelve people ordering twelve different things is the actual problem. **Mercato Metropolitano** runs three London sites: Elephant & Castle at 17,000 square feet, Mayfair inside the Grade I-listed St Mark's Church, and Wood Wharf. **Brasserie Zédel at 20 Sherwood Street**, a minute from Piccadilly Circus, has a group dining menu and is the cheapest grand room in the West End.
 
 For a bar that will take the booking rather than refuse it, the [cocktail bar guide](/articles/best-cocktail-bars-london/) sets out which rooms take reservations at all — the east London independents are far more forgiving than the Mayfair hotel bars.
 

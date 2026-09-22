@@ -123,7 +123,7 @@ From Chepstow Villas down to Elgin Crescent, and **the antiques end that made Po
 
 ![A blue building on Portobello Road with an enormous Union Jack painted across its upper floors, crowds on the pavement below](../../assets/articles/notting-hill-area-guide/portobello-road-union-jack.jpg)
 
-The Union Jack frontage about halfway down is the most photographed building on the street, and a useful landmark for finding your way back to the arcades.
+The Union Jack frontage about halfway down is the landmark for finding your way back to the arcades.
 
 ### Portobello Road (north) and the Westway — vintage
 

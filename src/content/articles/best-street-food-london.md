@@ -214,7 +214,7 @@ Better atmosphere, worse seating, and several only exist a few days a week.
 
 *100+ stalls · **closed Mondays** · Cited by 2 sources*
 
-**The most famous food market in Britain and the one everything else is measured against** — a wholesale market since at least the 12th century, now produce traders and hot food side by side under the railway.
+**The market everything else in Britain is measured against** — a wholesale market since at least the 12th century, now produce traders and hot food side by side under the railway.
 
 **Borough Market Kitchen** is the dedicated street food section. Elsewhere it is cheese, fish, charcuterie and produce, plus **Bao Borough** for Taiwanese bao and **Arabica** for shawarma. Horn OK Please and Gujarati Rasoi are the two vegetarian Indian stalls worth crossing London for.
 
@@ -386,6 +386,10 @@ Street food turns over faster than any other part of London eating, and a lot of
 
 ## Continue planning your London trip
 
+- 🇳🇬 **[The Best West African Restaurants in London](/articles/best-west-african-restaurants-london/)** — the Peckham stalls
+- 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)** — the market counters
+- 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)** — Bongbongs at Seven Dials and Spoon & Rice at both Boxparks
+- 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)** — the Rye Lane and Market Row stalls
 - 🛒 **[London's Best Markets: 19 Compared](/articles/best-london-markets/)** — including the flower, antiques and shopping markets
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — 34 places to eat well under £15
 - 🍔 **[The Best Burgers in London](/articles/best-burgers-london/)**

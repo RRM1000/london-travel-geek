@@ -24,7 +24,7 @@ faq:
     a: "Typically £10–£20 a head for an hour of play, plus drinks. Escape rooms run £25–£35 per person. Immersive experiences with dinner attached are £50 and up."
 ---
 
-London has more competitive socialising venues than anywhere else, and from the outside they are close to identical: a bar, a game, a booking system and a lighting rig. Darts, shuffleboard, mini golf, axe throwing, karaoke, bowling, fairground games. The websites all say the same things.
+London has a competitive socialising venue in almost every central postcode, and from the outside they are close to identical: a bar, a game, a booking system and a lighting rig. Darts, shuffleboard, mini golf, axe throwing, karaoke, bowling, fairground games. The websites all say the same things.
 
 The differences that matter are the ones nobody advertises. Whether two people can book on a Friday. Whether the room throws children out at five, six or seven. Whether you get a private game or are paired with strangers. And what an evening actually costs once the bar is counted.
 

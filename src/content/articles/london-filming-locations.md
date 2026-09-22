@@ -23,7 +23,7 @@ faq:
     a: "The City has the highest concentration — Slough House on Aldersgate, the Gotham police station in Clerkenwell, Leadenhall Market for Diagon Alley and two Banksy Basquiats in the same tunnel, all within half an hour on foot."
 ---
 
-London is the most filmed city in Europe and most of its locations are ordinary streets you can walk down for nothing. The pleasure is in the mismatch: Gringotts is a working embassy, Sherlock's flat is on the wrong road entirely, and the Shanghai hotel pool in *Skyfall* is in Canary Wharf.
+Most of London's filming locations are ordinary streets you can walk down for nothing. The pleasure is in the mismatch: Gringotts is a working embassy, Sherlock's flat is on the wrong road entirely, and the Shanghai hotel pool in *Skyfall* is in Canary Wharf.
 
 > 💡 **The Short Version:** **Australia House** is Gringotts and you cannot go in. **North Gower Street** is Sherlock's Baker Street. **Aldersgate Street** has the Slough House door. **Leadenhall Market** is Diagon Alley. And **Rules** in Covent Garden is Bond's favourite restaurant, written into *Spectre*.
 

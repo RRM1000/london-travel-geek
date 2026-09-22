@@ -27,7 +27,7 @@ heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km) south of Central London. While it has a single central railway station (located at **South Terminal**), three different train operators run from Gatwick into different parts of London.
 
 > 💡 **Quick Verdict: Gatwick to London (2026).**
-> - **Best for Victoria & West End:** **Southern Rail** (£10.70 off-peak PAYG / £19.20 peak). Takes 32–40 mins directly to London Victoria—saving almost **50% over Gatwick Express** for essentially the exact same journey time!  
+> - **Best for Victoria & West End:** **Southern Rail** (£10.70 off-peak PAYG / £19.20 peak). Takes 32–40 mins directly to London Victoria, for **less than half the Gatwick Express fare** and two to four minutes more.  
 > - **Best for London Bridge, St Paul's, Farringdon & St Pancras:** **Thameslink Rail** (£10.70 off-peak PAYG / £19.20 peak). Direct cross-London train to London Bridge (30 mins), Blackfriars (35 mins), Farringdon (40 mins), and St Pancras (45 mins).  
 > - **Why Avoid Gatwick Express?** Gatwick Express costs **£24.10 single** (vs £10.70 on Southern/Thameslink off-peak) to save only ~2–4 minutes to Victoria.  
 > - **Cheapest Budget Option:** **National Express / Megabus** (from **£6.00** advance, 75–120 mins to Victoria Coach Station).  
@@ -72,8 +72,6 @@ London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km
 
 ## Book Airport Transfers & Experiences
 
----
-
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="gatwick-airport-to-london-gatwick-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Gatwick Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Detailed Train Breakdowns
@@ -87,13 +85,13 @@ London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km
 ### 2. Thameslink (Best Direct Route Across London)
 * **Route:** Gatwick ➔ East Croydon ➔ London Bridge ➔ Blackfriars ➔ Farringdon ➔ St Pancras International.
 * **Frequency:** Every 10–15 minutes.
-* **Features:** Modern air-conditioned trains with walk-through carriages. Farringdon provides an effortless step-free interchange to the Elizabeth Line.
+* **Features:** Air-conditioned trains with walk-through carriages. Farringdon is a step-free interchange with the Elizabeth line.
 
 ### 3. Gatwick Express (Non-Stop Premium Option)
 * **Route:** Gatwick ➔ London Victoria *(Non-stop)*.
 * **Journey Time:** 31 minutes.
 * **Fare:** **£24.10** single (10% discount if bought online in advance at gatwickexpress.com).
-* **Is it worth it?** For most travelers, no. Southern trains arrive at the exact same Victoria station just 2 to 4 minutes later for less than half the price (£10.70 off-peak).
+* **Is it worth it?** For most travellers, no. Southern trains reach the same Victoria station 2 to 4 minutes later for less than half the price (£10.70 off-peak).
 
 ---
 

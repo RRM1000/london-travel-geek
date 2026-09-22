@@ -24,12 +24,12 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
-One of the most common questions for travelers visiting London is whether to buy an **Oyster card** or simply tap a **contactless bank card or smartphone**.
+Visitors to London have to choose between buying an **Oyster card** and simply tapping a **contactless bank card or smartphone**.
 
 > 💡 **The Quick Verdict: Contactless vs. Oyster Card.**
 > - **For 95% of Adult Visitors:** Use **Contactless** (Visa, Mastercard, Apple Pay, Google Pay). You get the exact same fares and daily price capping as an Oyster card, with **zero upfront fees** (£0 vs £10.50) and no need to manage balance top-ups.  
 > - **When to Buy an Oyster Card:** Get an Oyster card if you want to pay with **cash**, if your foreign bank card charges high fixed transaction fees, or if you need to load **discount passes** (e.g. Young Visitor 50% child discount or National Railcards for 1/3 off off-peak fares).  
-> - **Never Buy Paper Tickets:** Single paper Underground tickets cost almost double the pay-as-you-go rate (e.g. £6.70 paper vs £3.00 pay-as-you-go in Zone 1)!
+> - **Never Buy Paper Tickets:** Single paper Underground tickets cost more than double the pay-as-you-go rate — £6.70 against £3.00 in Zone 1.
 
 ---
 
@@ -51,7 +51,7 @@ One of the most common questions for travelers visiting London is whether to buy
 
 ## Where Oyster and Contactless Are Accepted
 
-Both payment methods are accepted seamlessly across London's public transit network:
+Both are accepted across London's public transport network:
 
 | Transport System | Contactless Accepted? | Oyster Accepted? | Counts Towards Daily Cap? |
 | --- | --- | --- | --- |
@@ -140,7 +140,7 @@ If your bank card is issued outside the UK, your bank may charge a foreign trans
 | **£100.00** *(approx 1 week Zone 1-2)* | £1.00 | £2.00 | £3.00 |
 | **£350.00** | £3.50 | £7.00 | **£10.50** |
 
-> 📊 **The Math:** With a 3% bank foreign fee, you would need to spend over **£350 in transport fares** before foreign transaction fees equal the non-refundable **£10.50 Oyster card fee**. For most 3 to 7-day trips, contactless remains significantly cheaper!
+> 📊 **The arithmetic.** With a 3% bank foreign fee, you would need to spend over **£350 in transport fares** before those fees equal the non-refundable **£10.50 Oyster card fee**. On a three- to seven-day trip, contactless wins.
 
 ---
 
@@ -183,9 +183,9 @@ If using an Oyster card, keep your balance topped up at any station ticket machi
 
 ## 7 Common Oyster & contactless mistakes to avoid
 
-1. **Buying paper single tickets:** Paper Tube tickets cost up to **£6.70** vs. **£3.00** with contactless/Oyster!
+1. **Buying paper single tickets:** Paper Tube tickets cost up to **£6.70** against **£3.00** with contactless or Oyster.
 2. **Switching devices mid-day:** Tapping in with a physical bank card and tapping out with Apple Pay creates two separate, incomplete journeys.
-3. **Sharing one card between two people:** Every traveler aged 11 and older MUST have their own individual card or device.
+3. **Sharing one card between two people:** Every traveller aged 11 and older must have their own card or device.
 4. **Forgetting to tap out on trains:** Triggers an automatic maximum penalty fare charge (up to £9.40).
 5. **Tapping out on buses:** Buses require tapping in ONCE when boarding; touching out is unnecessary and creates card errors.
 6. **Leaving unused credit on Oyster:** Unused Oyster pay-as-you-go credit can be refunded at station ticket machines up to £10.

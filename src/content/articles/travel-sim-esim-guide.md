@@ -44,8 +44,7 @@ This guide compares all of them, with every price taken from the provider's own 
 
 > 💡 **The Short Version:** On an eSIM phone for a week or two, buy **EE's Travel eSIM** — unlimited data at full speed on the UK's fastest network, **£15 for 7 days, £20 for 14 days**. If you only need a few gigabytes, [Nomad](partner:nomad-uk) and [Saily](partner:saily-uk) are cheaper. If you need a **UK phone number**, or you are carrying on to Europe, buy an **O2** pay-as-you-go SIM — **£10 for 8GB** or **£15 for 25GB**, with up to **25GB of EU roaming included**. Do not buy at the airport.
 
-> 📘 **How we checked (editorial note).**
-> Every price and allowance below was read from the provider's own site on 14 September 2026. Links marked **ad** — Saily, Nomad and Klook — pay us a commission if you buy; they are not ranked above anything that does not, which is why EE's own eSIM, which pays us nothing, is the first recommendation on this page.
+*Every price and allowance below was read from the provider's own site on 14 September 2026. Links marked **ad** — Saily, Nomad and Klook — pay us a commission if you buy; they are not ranked above anything that does not, which is why EE's own eSIM, which pays us nothing, is the first recommendation on this page.*
 
 ---
 
@@ -63,7 +62,7 @@ This guide compares all of them, with every price taken from the provider's own 
 
 ---
 
-## The speed cap nobody mentions
+## The speed cap on pay-as-you-go plans
 
 **The UK's fastest network is EE, and most visitors who buy an EE SIM never get its speed.**
 

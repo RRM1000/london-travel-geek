@@ -132,9 +132,9 @@ The government spine running north from Parliament Square to Trafalgar Square, a
 
 **Downing Street is gated and has been since 1989** — you see the entrance and the police, not the door. The **Cenotaph** stands in the middle of the road, and the **Banqueting House**, the only surviving part of the old Whitehall Palace, has a Rubens ceiling and is ticketed.
 
-**Horse Guards is the free ceremony.** The full mounted **Changing of the King's Life Guard is at 11am on Monday, Wednesday and Friday** — Tuesday and Thursday get a Patrol instead, around 10.30 to 11.15, and the weekend an 11am inspection. It is far easier to see than the Buckingham Palace version — no crowd barriers, no railings, and you can stand a few feet away. There is also a **dismounted inspection at 4pm every day**, which almost nobody times a visit around.
+**Horse Guards is the free ceremony.** The full mounted **Changing of the King's Life Guard is at 11am on Monday, Wednesday and Friday** — Tuesday and Thursday get a Patrol instead, around 10.30 to 11.15, and the weekend an 11am inspection. It is far easier to see than the Buckingham Palace version — no crowd barriers, no railings, and you can stand a few feet away.
 
-**There is also a free dismounted inspection at 4pm every day**, which almost nobody knows about and which takes about ten minutes.
+**There is also a free dismounted inspection at 4pm every day**, which takes about ten minutes and draws no crowd at all.
 
 **You can walk straight onto the parade ground**, which is not obvious from the street — go through the archway.
 
@@ -235,7 +235,7 @@ Our full route for this area: **eleven numbered stops** over about 4km and two t
 2. **Not booking the Churchill War Rooms.** Timed slots sell out well in advance.
 3. **Photographing Big Ben from directly underneath.** Cross to the far side of the bridge; you cannot fit the tower in from the station side.
 4. **Standing at the Palace railings for the Guard.** By 10:30 you will see nothing. Watch from the Victoria Memorial steps, or go to Horse Guards instead — but only Monday, Wednesday or Friday if you want the full ceremony rather than the shorter inspection.
-5. **Eating beside Westminster Bridge.** The restaurants immediately around the bridge are the worst value in central London. Walk to Regency Cafe or head north.
+5. **Eating beside Westminster Bridge.** The restaurants immediately around the bridge are poor value. Walk to Regency Cafe or head north.
 6. **Taking the Tube one stop to Waterloo.** Walking across the bridge takes ten minutes and is the better experience.
 
 ## Where to stay

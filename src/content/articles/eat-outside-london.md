@@ -373,6 +373,7 @@ Everything on this page is pleasant in July. This is the shorter list that survi
 
 ## Continue planning your London trip
 
+- 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the same question one floor up, and by the water
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🌭 **[The Best Street Food in London](/articles/best-street-food-london/)**
 - 🛍️ **[The Best Markets in London](/articles/best-london-markets/)**

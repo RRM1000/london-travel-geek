@@ -214,7 +214,7 @@ St Christopher's runs **four London hostels**: The Inn and The Village on Boroug
 
 *A bedside setup and one of the shared bathrooms at St Christopher's Liverpool Street.*
 
-One honest note: the four branches draw sharply different reviews, and the Village in particular collects both "exceptionally clean" and, from a different traveller, one of the worst write-ups of any hostel in our research. Read recent reviews for the specific branch, not the brand.
+The four branches draw sharply different reviews, and the Village in particular collects both "exceptionally clean" and, from a different traveller, one of the worst write-ups of any hostel on this page. Read recent reviews for the specific branch, not the brand.
 
 ### [Clink 261](hotel:clink261) — pod beds, adults only
 
@@ -378,7 +378,7 @@ The operator calls it "a very small hostel" and caps groups at eight. It welcome
 
 **Check-in is self-service from 2.30pm** with documents sent before noon, or reception between 3pm and 11pm. **Check-out is 10am**, which is early. Luggage storage is free before check-in and **£3 a bag afterwards**, 8am to 11pm. Groups need a minimum of two nights, and cancellation is 72 hours.
 
-The operator does not publish its dorm bathroom arrangement, whether it runs a female-only dorm, or an age policy, so those columns are blank above rather than guessed.
+The operator does not publish its dorm bathroom arrangement, whether it runs a female-only dorm, or an age policy.
 
 ![A four-bed dorm at The Walrus, with grey metal bunks labelled by bed and an armchair by the window](../../assets/articles/best-hostels-london/the-walrus-hostel-dorm.jpg)
 

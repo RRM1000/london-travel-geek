@@ -188,7 +188,7 @@ At roughly double the Zedwell rate all year, a single nest here can cost more th
 
 An eco-conscious capsule hostel on a working East London market street, a short walk from Victoria Park and about ten minutes from Brick Lane. **Check-out is 11am**, an hour later than the others, and the Wi-Fi is the fastest of the five.
 
-It is very small — eight units — with no front desk and entry by access code through a private entrance. Rated **7.3 out of 10 across 41 guest reviews**, the most modest score here. The solar panels and sustainable materials are the operator's own framing and we have not independently verified them.
+It is very small — eight units — with no front desk and entry by access code through a private entrance. Rated **7.3 out of 10 across 41 guest reviews**, the most modest score here. The solar panels and sustainable materials are the operator's own framing.
 
 The problem is arithmetic: **£42 in Zone 2 against £33 in Zone 1** on a quiet night. It earns its place in December, when Zedwell climbs and this does not.
 

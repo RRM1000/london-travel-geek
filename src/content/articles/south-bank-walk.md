@@ -25,11 +25,11 @@ faq:
     a: "Leake Street, a road tunnel under Waterloo station where spraying the walls is legal. It runs off York Road about five minutes from the London Eye, it is free, it is open at all hours, and the walls are repainted constantly so it is never the same twice. It is the single most-missed thing on this stretch of river."
 ---
 
-The South Bank is the most-walked mile in London and most people do about a third of it. They come out at Waterloo, wander as far as the Tate, and turn back — which means they miss the half where the river gets interesting.
+Most people walk about a third of the South Bank. They come out at Waterloo, wander as far as the Tate, and turn back — which means they miss the half where the river gets interesting.
 
 **This is the whole stretch, west to east**, from Westminster Bridge to Tower Bridge: eleven numbered stops, about **3km and two to three hours**, entirely riverside and entirely flat. Almost all of it is free.
 
-It is also the walk with the sharpest single trap in London. **Borough Market is closed on Mondays**, and it sits at stop nine of eleven — so a Monday walk arrives at the lunch stop and finds it shuttered.
+It has one trap worth planning around. **Borough Market is closed on Mondays**, and it sits at stop nine of eleven — so a Monday walk arrives at the lunch stop and finds it shuttered.
 
 For the wider area — the theatres, where to stay, the bits inland — see the [South Bank area guide](/articles/south-bank-area-guide/). This is the walking route version of it.
 
@@ -90,7 +90,7 @@ They are aimed squarely at families and they queue like it. If you are walking w
 
 *Between the Bridges, on Queen's Walk by the Eye. It is a seasonal operation — it reopens each year rather than trading straight through — so check it is on before planning a stop.*
 
-> 💡 **The detour: Leake Street.** Five minutes inland from here, under Waterloo station, is a road tunnel where spraying the walls is **legal**. It is free, open at all hours, and repainted so constantly that nobody has ever seen it twice. It is the most-missed thing on this stretch of river and it is worth the ten-minute round trip. See the section below.
+> 💡 **The detour: Leake Street.** Five minutes inland from here, under Waterloo station, is a road tunnel where spraying the walls is **legal**. It is free, open at all hours, and repainted so constantly that nobody has ever seen it twice. It is easy to walk straight past, and it is worth the ten-minute round trip. See the section below.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -108,7 +108,7 @@ Underneath it is the **Undercroft**, London's oldest skate spot, in continuous u
 
 **Second-hand books on trestle tables, under the bridge, most days of the year.** It has been there for decades and it is the only permanent outdoor book market in London.
 
-It trades in most weather because the bridge is the roof. Prices are not jumble-sale cheap, but the stock is genuinely browsable rather than remaindered, and it is the most photographed thing on this stretch after the Eye.
+It trades in most weather because the bridge is the roof. Prices are not jumble-sale cheap, but the stock is genuinely browsable rather than remaindered.
 
 ## 5. The National Theatre
 
@@ -128,7 +128,7 @@ The **exhibitions in the foyers are free**, the riverside terrace garden is free
 
 A small courtyard of independent shops, studios and food units on what was a derelict site until the 1980s. It is deliberately low-rent — the units are let cheaply to keep chains out — and it is the least corporate thing between here and Tower Bridge.
 
-Next door is the **Oxo Tower**, whose lettered windows exist because 1930s regulations banned skyline advertising and the owners built the word into the structure instead. The **public viewing gallery on the eighth floor is free**, which almost nobody realises because the restaurant on the same floor is not.
+Next door is the **Oxo Tower**, whose lettered windows exist because 1930s regulations banned skyline advertising and the owners built the word into the structure instead. The **public viewing gallery on the eighth floor is free**; the restaurant on the same floor is not.
 
 ![The red brick riverside frontage of Oxo Tower Wharf with a banner reading Creative London, Oxo Tower Wharf, and an ornate lamp post in front](../../assets/articles/south-bank-walk/oxo-tower-wharf.jpg)
 
@@ -138,7 +138,7 @@ Next door is the **Oxo Tower**, whose lettered windows exist because 1930s regul
 
 ![The brick flank and chimney of Tate Modern from the riverside, with a sign along the roofline reading Tate Modern - free and open to all](../../assets/articles/south-bank-walk/tate-modern.jpg)
 
-**A power station that became the most-visited modern art gallery in the world, and it is free.**
+**A power station turned into a modern art gallery, and it is free.**
 
 The **Turbine Hall** is the room to see even if you skip everything else — 3,300 square metres of it, with a commissioned installation most of the year. The collection is free; only the temporary exhibitions are ticketed.
 

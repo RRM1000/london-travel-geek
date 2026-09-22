@@ -5,7 +5,7 @@ description: "Eight free city farms, a zoo scaled for under-tens, an indoor roll
 heroImage: "../../assets/articles/london-with-children/granary-square-fountains.jpg"
 heroImageAlt: "Children running through the ground fountains at Granary Square in King's Cross on a summer afternoon"
 publishedAt: 2026-08-23
-updatedAt: 2026-09-01
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -158,9 +158,9 @@ A small zoo built deliberately around young children — meerkats, monkeys, otte
 
 ### SEA LIFE London Aquarium, South Bank
 
-*From £27.13 online · under-2s free · Waterloo*
+*From £28 online · under-2s free · Waterloo*
 
-In the basement of County Hall beside the London Eye: fourteen zones over three floors, a walk-through tunnel with sharks and rays passing overhead, and a rockhopper penguin colony. It is dark, warm, crowded and over quickly. **Their own estimate is one to one and a half hours, which is worth weighing against a standard online ticket from £27.13** — walking up on the day costs meaningfully more. Under-2s go free, and under-16s must be with someone over 18. **There is no cloakroom of any kind, and that explicitly includes pushchairs**, so whatever you arrive with you push around the tanks. Currently open 10am to 6pm with last entry at 5pm. Book a timeslot; queues on the South Bank build from mid-morning.
+In the basement of County Hall beside the London Eye: fourteen zones over three floors, a walk-through tunnel with sharks and rays passing overhead, and a rockhopper penguin colony. It is dark, warm, crowded and over quickly. **Their own estimate is one to one and a half hours, which is worth weighing against a standard online ticket from £28** — walking up on the day costs meaningfully more. Under-2s go free, and under-16s must be with someone over 18. **There is no cloakroom of any kind, and that explicitly includes pushchairs**, so whatever you arrive with you push around the tanks. Currently open 10am to 6pm with last entry at 5pm. Book a timeslot; queues on the South Bank build from mid-morning.
 
 ### WWT London Wetland Centre, Barnes
 
@@ -248,9 +248,9 @@ Both are magnificent and neither is designed for children. **Westminster Abbey i
 
 ### Madame Tussauds
 
-*From £23.63 online, £39 walk-up · under-2s free · Baker Street*
+*From £27 online, £39 walk-up · under-2s free · Baker Street*
 
-Expensive, always busy, and entirely about whether your child wants a photograph standing beside a waxwork. If they do, they will love it and nothing else on this page substitutes. If they do not, there is genuinely nothing else there — a short dark ride at the end, and otherwise the same waxworks again. **Book online and it starts at £23.63 for an adult and £21 for a child aged 2 to 15; walking up on the day is £39 and £35, the widest online-versus-gate gap of anything on this page.** Under-2s go free. Closing times move around a great deal — it was shutting at 3pm on the day these prices were checked — so look them up rather than assuming a late slot exists.
+Expensive, always busy, and entirely about whether your child wants a photograph standing beside a waxwork. If they do, they will love it and nothing else on this page substitutes. If they do not, there is genuinely nothing else there — a short dark ride at the end, and otherwise the same waxworks again. **Book online and it starts at £27 for an adult and £21 for a child aged 2 to 15; walking up on the day is £39 and £35, the widest online-versus-gate gap of anything on this page.** Under-2s go free. Closing times move around a great deal — it was shutting at 3pm on the day these prices were checked — so look them up rather than assuming a late slot exists.
 
 ---
 

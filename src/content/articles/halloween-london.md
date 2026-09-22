@@ -148,9 +148,9 @@ COLAB is a genuine immersive theatre company with a back catalogue of similar sh
 
 ### The Halloween Lecture, Royal Institution
 
-A spooky-science live show for families rather than a scare — eerie fog, pumpkins turned into light sources, and other demonstrations from the Ri's own team. Doors 6.45pm, talk from 7pm. **£16/£10 for the general theatre audience, £7 for Ri Members and Patrons.** Green Park is the nearest station, with step-free access throughout. The exact October date was not yet listed at the time of writing — check the [Royal Institution's own listing](https://www.rigb.org/whats-on/halloween-lecture) closer to the time.
+A spooky-science live show for families rather than a scare — eerie fog, pumpkins turned into light sources, and other demonstrations from the Ri's own team. Doors 6.45pm, talk from 7pm. **£16/£10 for the general theatre audience, £7 for Ri Members and Patrons.** Green Park is the nearest station, with step-free access throughout. The exact October date is not yet published — check the [Royal Institution's own listing](https://www.rigb.org/whats-on/halloween-lecture) closer to the time.
 
-It is worth knowing what this is not: there are no actors, no jump scares and nothing chasing anybody. It is a demonstration lecture in the Ri's famous tiered theatre, the same room the Christmas Lectures are filmed in, pitched at families who want the season without the fright. For a child who wants to join in with Halloween but would be genuinely upset by a scare maze, it is the best thing on this page.
+It is worth knowing what this is not: there are no actors, no jump scares and nothing chasing anybody. It is a demonstration lecture in the Ri's famous tiered theatre, the same room the Christmas Lectures are filmed in, pitched at families who want the season without the fright. For a child who wants to join in with Halloween but would be genuinely upset by a scare maze, it is the one to pick.
 
 ### Halloween at Kew, Royal Botanic Gardens
 
@@ -288,7 +288,7 @@ Be honest with yourself about this one: **London does not have a strong trick-or
 
 **High Street Kensington runs the best-known free one.** Halloween Happenings is an annual, non-ticketed trail through the shopping district, typically running from around 24 to 31 October, with shop workshops, a gothic vintage flea market and a Halloween takeover of Holland Park on the day itself. Check [highstreetkensington.co.uk](https://highstreetkensington.co.uk/) closer to the date for the 2026 programme, since it is not published this far ahead.
 
-**The free museums are your reliable fallback.** The British Museum, Natural History Museum, Wellcome Collection, Hunterian Museum and Sir John Soane's Museum are all free year-round, and several run half-term activity programmes that land right across Halloween week — the British Museum has previously run storytelling and Day of the Dead performances during the October half term. None of these had confirmed 2026 dates at the time of writing, so check each museum's own listings in October.
+**The free museums are your reliable fallback.** The British Museum, Natural History Museum, Wellcome Collection, Hunterian Museum and Sir John Soane's Museum are all free year-round, and several run half-term activity programmes that land right across Halloween week — the British Museum has previously run storytelling and Day of the Dead performances during the October half term. None has published its 2026 dates yet, so check each museum's own listings in October.
 
 **Planning the rest of your trip around October?** [Best Time to Visit London](/articles/best-time-to-visit-london/) covers the month's weather, crowds and cost against the rest of the year.
 

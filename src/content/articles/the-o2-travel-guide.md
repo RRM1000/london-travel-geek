@@ -57,7 +57,7 @@ The O2 calls itself the world's busiest entertainment arena, and getting most of
 
 North Greenwich was built as part of the Jubilee Line Extension, and the station's ticket hall sits right against The O2's own forecourt: come up the escalators and the dome is in front of you. The catch: **The O2 depends on a single Underground line**. Wembley has three stations across two lines (Jubilee, Metropolitan, Chiltern, plus the Bakerloo and Overground at Wembley Central); The O2 has one station on one line. If the Jubilee is suspended or severely delayed on a show night, there is no second tube line to switch to — only the bus, the river, the cable car, or a much longer walk.
 
-That single-line dependency is also why TfL takes crowd management at this station seriously enough to have a standing procedure for it. In response to a Freedom of Information request, TfL confirmed that after O2 events, station staff **"reduce flow and hold event crowds"** outside the station rather than let the ticket hall flood, working **"with the help of O2 security and the police,"** under **"a local event plan"** used to brief the team on how each event is managed. A separate 2026 FOI response confirms this is an established, ongoing practice — staff have logged crowd-control measures through a dedicated app since June 2024, before which it was an electronic and then a paper log book. In practice, this means: on a big night, expect to be held on the concourse or outside the gate line for a few minutes rather than walking straight onto a train, and expect staff and sometimes police presence managing that queue.
+That single-line dependency is also why TfL takes crowd management at this station seriously enough to have a standing procedure for it. In response to a Freedom of Information request, TfL confirmed that after O2 events, station staff **"reduce flow and hold event crowds"** outside the station rather than let the ticket hall flood, working **"with the help of O2 security and the police,"** under **"a local event plan"** used to brief the team on how each event is managed. A separate 2026 FOI response confirms this is an established, ongoing practice. In practice, this means: on a big night, expect to be held on the concourse or outside the gate line for a few minutes rather than walking straight onto a train, and expect staff and sometimes police presence managing that queue.
 
 North Greenwich has good accessible features built in from that 1999 rebuild: low-level ticket machines, wheelchair-accessible gates (with a dedicated gate to the right of the barriers), an induction loop, step-free access to every platform via lifts, and step-free bus stops.
 
@@ -69,11 +69,13 @@ Routes **108, 129, 132, 161, 188, 422 and 486** all stop at North Greenwich Bus 
 
 ## Driving: the Blackwall Tunnel is the real obstacle, not the parking rules
 
-For anyone north of the river, the **Blackwall Tunnel** — the nearest road crossing to the venue — is the real obstacle: TfL's own monitoring shows it used to close **around 700 times a year** before a second tunnel opened, with over-height vehicles a recurring cause that's still only down by about a quarter since. That second crossing, the **Silvertown Tunnel**, opened in April 2025 and has measurably eased things — TfL records journey times on the approach roads improving sharply — but both tunnels are tolled and both still funnel the whole peninsula through the same pinch point, so budget for delay before you even think about parking (see below for a way round it). The parking rules themselves are the easy part: unlike Wembley's Brent-style event-day scheme, Greenwich runs no borough-wide zone shutting out visitor parking on show days, no permit-only event hours, and nothing like Wembley's £130 wrong-place penalty — its ordinary controlled parking zones and resident permits apply on a concert night exactly as on any other.
+For anyone north of the river, the **Blackwall Tunnel** — the nearest road crossing to the venue — is the real obstacle: TfL's own monitoring shows it used to close **around 700 times a year** before a second tunnel opened, with over-height vehicles a recurring cause that's still only down by about a quarter since. That second crossing, the **Silvertown Tunnel**, opened in April 2025 and has measurably eased things — TfL records journey times on the approach roads improving sharply — but both tunnels are tolled and both still funnel the whole peninsula through the same pinch point, so budget for delay before you even think about parking.
+
+The parking rules themselves are the easy part: unlike Wembley's Brent-style event-day scheme, Greenwich runs no borough-wide zone shutting out visitor parking on show days, no permit-only event hours, and nothing like Wembley's £130 wrong-place penalty — its ordinary controlled parking zones and resident permits apply on a concert night exactly as on any other.
 
 What The O2's own site does warn about is traffic:
 
-> ⚠️ **Roadworks are affecting the drive in.** The O2's own parking page currently states: "Please note major roadworks in the surrounding area are significantly affecting traffic flow around The O2. Expect long delays at peak times, particularly post event." That's a warning from the venue itself, not a general assumption — build in extra time both ways if you're driving, and especially for the journey home.
+> ⚠️ **Roadworks are affecting the drive in.** The O2's own parking page currently states: "Please note major roadworks in the surrounding area are significantly affecting traffic flow around The O2. Expect long delays at peak times, particularly post event." Build in extra time both ways if you're driving, and especially for the journey home.
 
 The other constraint is capacity, not restriction: Car Park 1 is a single car park serving a very large room, so booking ahead is the only way to guarantee a space.
 
@@ -159,7 +161,7 @@ The frequency is good in the evening — sailings roughly every 20 minutes — b
 
 ### Crowd management at the station
 
-As covered above, TfL's own account of how it manages North Greenwich after events is to **hold and meter the crowd outside the station** rather than let everyone flood the ticket hall at once, working with The O2's own security team and the police under a standing local event plan. There's no published one-way system with named entrances the way Wembley Park has for Olympic Way and Bridge Road — North Greenwich has one main approach, not several — but do expect staff-managed queuing on the concourse for a big finish, and factor that into how long "getting to the platform" actually takes.
+TfL **holds and meters the crowd outside the station** rather than letting everyone flood the ticket hall at once. There's no published one-way system with named entrances the way Wembley Park has for Olympic Way and Bridge Road — North Greenwich has one main approach, not several — but do expect staff-managed queuing on the concourse for a big finish, and factor that into how long "getting to the platform" actually takes.
 
 ### Last trains, most nights of the week
 
@@ -174,7 +176,7 @@ If your show is scheduled to finish later than that on a Sunday-to-Thursday nigh
 
 ### Friday and Saturday: the Night Tube runs all night
 
-On those two nights only, the Jubilee is one of six Night Tube lines — alongside the Central, Northern, Piccadilly, Victoria and Windrush — confirmed directly by TfL as running **"on Friday and Saturday nights."** Trains run all night, roughly every ten minutes, so a Friday or Saturday show that runs very late isn't a problem: you can simply wait out the worst of the crowd before walking onto a near-empty platform. It's genuinely useful on those two nights — it just doesn't apply to the rest of the week's programming, which is most of it.
+On those two nights only, the Jubilee is one of six Night Tube lines — alongside the Central, Northern, Piccadilly, Victoria and Windrush — confirmed directly by TfL as running **"on Friday and Saturday nights."** Trains run all night, roughly every ten minutes, so a Friday or Saturday show that runs very late isn't a problem: you can simply wait out the worst of the crowd before walking onto a near-empty platform.
 
 ### Buses, taxis and the night bus
 
@@ -186,7 +188,7 @@ The **188 runs 24 hours** to and from Waterloo, and the **N472** night route sta
 
 ## Where to stay, and why the peninsula is the trap on a big night
 
-Checked live on the hotels' own booking engines, the two hotels closest to The O2 both showed the same pattern Wembley's Novotel does: cheap most nights, expensive on a big one — and neither is the default place to stay (more on that below).
+Checked live on the hotels' own booking engines, the two hotels closest to The O2 both showed the same pattern Wembley's Novotel does: cheap most nights, expensive on a big one.
 
 **The O2 arena was hosting a standard single-headliner show** on the night these prices were sampled — not an unusually large event.
 
@@ -200,18 +202,18 @@ Checked live on the hotels' own booking engines, the two hotels closest to The O
 The swing gets bigger, not smaller, for a genuinely major event: over the same booking engine, the InterContinental's Classic Room price for a three-day international sporting event held at the arena came out at **£610–£615** a night.
 
 - **For a big night, book early or expect to pay a multiple of the ordinary rate.**
-- **Or shift your stay to the night after** and travel home the next day, the way Wembley's article recommends for match nights.
+- **Or shift your stay to the night after** and travel home the next day.
 - The gap is proportionally larger at the budget end: the InterContinental's event-night premium was roughly **1.8×** its ordinary rate; the Holiday Inn Express's was roughly **4×**.
 
 ### The hotels at the peninsula
 
-Both trade the price-spike risk above for genuine convenience on the night itself — the walkway, or a short walk. Neither is the default recommendation (see below); they're worth it specifically if that convenience matters more to you than price.
+Both trade the price-spike risk above for convenience on the night itself — the walkway, or a short walk.
 
 **[InterContinental London – The O2](hotel:intercontinental-the-o2)** — 493 rooms and suites on Waterview Drive, with a spa (17-metre pool, jacuzzi, sauna), three restaurants and two bars. A private walkway connects the hotel directly to The O2, so the "commute" on a show night is a corridor. On-site parking is £52 a day. Check-in from 3:00pm, check-out by noon.
 
 **[Holiday Inn Express London Greenwich](hotel:holiday-inn-express-greenwich-peninsula)** — the budget option on Bugsby's Way, about 15 minutes' walk from The O2 and the station, with breakfast included in the rate (which the InterContinental charges extra for). On-site parking is £35 a day.
 
-For most people, though, staying at the peninsula is a trade-off, not the default — you're paying (or risking) the prices above for the walkway or the short walk. The simpler recommendation is to stay anywhere on the **Jubilee line** and ride in: our [guide to the best areas to stay in London](/articles/best-areas-to-stay-in-london/) covers the specific neighbourhoods, all a single change or less from North Greenwich, none of them exposed to the event-night price spike shown above, and with a far wider choice of places to eat than the peninsula offers on its own. It's also the way to sidestep the Blackwall Tunnel question entirely if you're not driving — see the driving section above for the one genuine alternative if you are.
+For most people, though, staying at the peninsula is a trade-off, not the default — you're paying (or risking) the prices above for the walkway or the short walk. The simpler recommendation is to stay anywhere on the **Jubilee line** and ride in: our [guide to the best areas to stay in London](/articles/best-areas-to-stay-in-london/) covers the specific neighbourhoods, all a single change or less from North Greenwich, none of them exposed to the event-night price spike shown above, and with a far wider choice of places to eat than the peninsula offers on its own.
 
 ---
 
@@ -299,4 +301,4 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers the citywi
 
 ---
 
-*Figures come from The O2's own site, Transport for London (including two published Freedom of Information responses on North Greenwich station's crowd management, and TfL's own Silvertown Tunnel monitoring reports), Uber Boat by Thames Clippers' published timetable, Royal Greenwich Council's parking pages, Saba Parking's own car park listings, ExCeL London's own site, and Up at The O2's booking site, checked the week of 13 September 2026. Hotel prices are samples from the operators' own booking engines for one specific event and will move for other dates; the Royal Docks hotels named above are confirmed live on Marriott's, Accor's and IHG's own booking sites, but aren't price-compared with the same rigour. Parking prices are set per event, so check the booking site for your date.*
+*Figures come from The O2's own site, Transport for London (including two published Freedom of Information responses on North Greenwich station's crowd management, and TfL's own Silvertown Tunnel monitoring reports), Uber Boat by Thames Clippers' published timetable, Royal Greenwich Council's parking pages, Saba Parking's own car park listings, ExCeL London's own site, and Up at The O2's booking site, checked the week of 13 September 2026. Hotel prices are samples from the operators' own booking engines for one specific event and will move for other dates; the Royal Docks hotels named above are confirmed live on Marriott's, Accor's and IHG's own booking sites. Parking prices are set per event, so check the booking site for your date.*

@@ -29,12 +29,12 @@ faq:
 
 Japanese food in London splits cleanly by **format**, not by price. A seven-seat sushi counter, a charcoal yakitori grill, an izakaya built for drinking and a ramen shop are four completely different evenings, and knowing which one you want settles most of the decision before you look at a single menu.
 
-The city has the deepest omakase scene outside Japan and a thinner budget end than it should — which this guide is honest about.
+The city has the deepest omakase scene outside Japan, and a much thinner budget end.
 
 > 💡 **The Short Version:** **Sushi Tetsu** is the hardest table in London and worth the effort. **Sushi Atelier** is the best-value serious counter. **Roka** and **Zuma** invented the London izakaya template and still do it best. **Jin Kichi** in Hampstead is the value pick nobody writes about enough. **Umu** is the only proper Kyoto kaiseki in the city.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **12 sources carrying 163 citations** across **114 named restaurants**. **28 restaurants are named by two or more independent sources; 5 hold a Michelin star.**
+> Nothing here is ranked on one visit. This pass reads **12 sources carrying 163 citations** across **117 named restaurants**. **28 restaurants are named by two or more independent sources; 5 hold a Michelin star.**
 > **Built on:** specialists with real depth in one format each — ramen, omakase, izakaya — plus a Michelin selection reaching five kitchens.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -346,6 +346,7 @@ Omakase counters get the attention, but the everyday end of Japanese London is w
 
 ## Continue planning your London trip
 
+- 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)** — the Nikkei rooms, and the Peruvian side of that menu
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🥟 **[Best Chinese and East Asian Restaurants](/articles/best-chinese-east-asian-restaurants-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**

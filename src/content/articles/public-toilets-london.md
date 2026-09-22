@@ -27,7 +27,7 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
-Nobody plans a London trip around this until the moment they need one, and then it's the only thing that matters. The good news: London's public toilet coverage is genuinely good if you know where to look, and most of it costs nothing. This is built directly from the Great British Public Toilet Map's own database — the same crowdsourced, council-fed dataset that most toilet-finder apps run on — plus the official pages for the parks, boroughs and venues that actually operate them.
+Nobody plans a London trip around this until the moment they need one, and then it's the only thing that matters. What follows comes from the Great British Public Toilet Map's own database — the crowdsourced, council-fed dataset that most toilet-finder apps run on — plus the official pages for the parks, boroughs and venues that operate them.
 
 > 💡 **The Short Version:** About **85% of London's logged public toilets are free**. The main things that charge are the **Royal Parks (a flat 20p, card only)** and a few **market toilets (up to £1)** — no major train station currently charges. **Community Toilet Scheme** pubs, cafes and libraries let anyone in without buying anything, and every major free museum has toilets open to all visitors.
 
@@ -52,7 +52,7 @@ Nobody plans a London trip around this until the moment they need one, and then 
 | **Islington Green, Essex Road** | 40p | ⚠️ Under construction and frequently out of order — don't rely on this one |
 | **St Paul's Cathedral, Serpentine Gallery, Barbican Centre, Angel Centre, Islington Central Library, one Borough Market toilet** | Charges apply | Amount not published by any of these venues — bring change and a card |
 
-**No evidence any major terminus currently charges.** We checked the official Network Rail pages for King's Cross, Euston, Paddington, Victoria, Liverpool Street, Waterloo, London Bridge, Charing Cross and St Pancras International — all list toilet locations, none mentions a fee. This is a real change from the coin-turnstile era some of these stations used to run.
+**No major terminus publishes a toilet charge.** We checked the official Network Rail pages for King's Cross, Euston, Paddington, Victoria, Liverpool Street, Waterloo, London Bridge, Charing Cross and St Pancras International — all list toilet locations, none mentions a fee. This is a real change from the coin-turnstile era some of these stations used to run.
 
 **Paddington's Platform 12 toilets are free — the showers next to them are £5.**
 
@@ -62,7 +62,7 @@ Nobody plans a London trip around this until the moment they need one, and then 
 
 ## Free, by area
 
-Pulled from the same database, filtered to active listings only. This isn't every free toilet in London — it's the ones worth knowing about.
+Pulled from the same database, filtered to active listings only.
 
 **Trafalgar Square &amp; the West End**
 - **National Gallery** and **National Portrait Gallery** — free with general admission, no ticket needed for the toilets themselves
@@ -164,7 +164,7 @@ In this guide specifically, a RADAR key gets you into the accessible-only toilet
 
 ## Old toilets that became something else
 
-Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman's convenience — Time Out describes it as "London's most original location for a coffee bar: a late-nineteenth-century gents' toilet," where **the original urinals now provide seating with small tables**. The ornate cast-iron railings over the stairwell down from street level are the same ones that would have marked the toilet's entrance when it opened. It's the kind of small, specific detail London does better than almost any other city, and worth a look even if you don't need the loo.
+Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman's convenience — Time Out describes it as "London's most original location for a coffee bar: a late-nineteenth-century gents' toilet," where **the original urinals now provide seating with small tables**. The ornate cast-iron railings over the stairwell down from street level are the same ones that would have marked the toilet's entrance when it opened.
 
 ---
 

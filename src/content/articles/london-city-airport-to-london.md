@@ -63,10 +63,6 @@ London City Airport (LCY) is the most centrally located airport in London, situa
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-city-airport-to-london-london-city-airport-transfer" data-gyg-partner-id="WWP7I0R" data-gyg-q="London City Airport transfer"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Book Airport Transfers & Experiences
-
----
-
 ## DLR Station & Terminal Accessibility
 
 London City Airport has **one single compact terminal**.
@@ -75,7 +71,7 @@ London City Airport has **one single compact terminal**.
 
 *London City Airport terminal. Photo: [Arne Müseler](https://commons.wikimedia.org/wiki/File:London_City_Airport_Terminal.jpg), [CC BY-SA 3.0 DE](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en).*
 
-* **100% Step-Free Access:** The DLR station features lifts and level access between the terminal concourse and platforms.
+* **Step-Free Access:** The DLR station has lifts and level access between the terminal concourse and the platforms.
 * **TfL Fare Capping:** All journeys count automatically towards standard daily TfL fare caps.
 
 ---
@@ -83,7 +79,7 @@ London City Airport has **one single compact terminal**.
 ## 5 Common London City transit mistakes to avoid
 
 1. **Paying for private taxis into Central London unnecessarily:** The DLR costs **£3.40 off-peak** and reaches Bank in 22 minutes without road traffic.
-2. **Going all the way to Bank when heading to Paddington:** Change at **Custom House** for the Elizabeth line—it saves over 15 minutes!
+2. **Going all the way to Bank when heading to Paddington:** Change at **Custom House** for the Elizabeth line — it saves over 15 minutes.
 3. **Switching payment devices between taps:** Tapping in with a card and out with Apple Pay results in two maximum fare penalties.
 4. **Forgetting weekend operating hours:** London City Airport closes earlier on Saturdays (~13:00) due to local noise regulations.
 5. **Overpaying for paper single tickets:** Contactless or Oyster pay-as-you-go is automatic and significantly cheaper.

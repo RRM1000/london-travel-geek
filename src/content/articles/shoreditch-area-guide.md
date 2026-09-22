@@ -77,7 +77,7 @@ Shoreditch sits immediately north of the City, and the boundary is abrupt: glass
 
 The two things worth planning around are the markets, which mostly run at the weekend, and the street art, which changes constantly.
 
-**This guide covers Shoreditch, Spitalfields, Brick Lane and Hoxton together.** They run into one another with no gap, and nobody walking between them notices a boundary — Old Spitalfields Market to the Truman Brewery is eight minutes, and Hoxton Square is ten minutes the other way. Splitting them into separate guides would mean four thin pages and a reader bouncing between them to plan one afternoon.
+**This guide covers Shoreditch, Spitalfields, Brick Lane and Hoxton together.** They run into one another with no gap, and nobody walking between them notices a boundary — Old Spitalfields Market to the Truman Brewery is eight minutes, and Hoxton Square is ten minutes the other way.
 
 Shoreditch has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=shoreditch).
 
@@ -95,7 +95,7 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 4. **Columbia Road Flower Market** — Sundays only, 08:00 to 15:00. Fifteen minutes north-east, and one of the best hours in London.
 5. **The Truman Brewery** — A former brewery complex holding eight separate markets, food halls, studios and event space either side of Brick Lane. Not all of them run on the same days.
 6. **The Brick Lane Vintage Market** — The UK's biggest dedicated vintage market, in a 13,000 sq ft basement under the Truman Brewery, with over a hundred traders. **Open seven days a week**, unlike almost everything around it.
-7. **Dennis Severs' House** — A candlelit Georgian house on Folgate Street presented as if the family has just left the room. Silent, strange and unlike anything else in the city. Booked in advance.
+7. **Dennis Severs' House** — A candlelit Georgian house on Folgate Street presented as if the family has just left the room: fires lit, food on the table, no labels and no talking. Booked in advance.
 8. **Boxpark Shoreditch** — Shipping containers stacked into a food and retail court by Shoreditch High Street station.
 
 ![Two large mural faces with green rope-like hair and a pink nebula painted between them, on a Shoreditch corner](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
@@ -118,7 +118,7 @@ The **Truman Brewery** itself is the thing to understand: brewing stopped in 198
 
 ### The Brick Lane Vintage Market
 
-**The biggest dedicated vintage clothing market in the UK**, and the one thing in this area that is genuinely open seven days a week — which almost nobody realises, because everything around it is a weekend affair.
+**The biggest dedicated vintage clothing market in the UK**, and the one thing in this area that is genuinely open seven days a week.
 
 It is **underground**, in F Block at 85 Brick Lane, down a neon-lit staircase off the street: more than 13,000 square feet of basement holding, on the operator's own count, **over a hundred specialist shops**, drawn from across the UK and Europe rather than a rota of local stalls. Each one is effectively its own boutique with its own eye, so the same aisle runs from restrained to completely mad within a few metres.
 
@@ -152,7 +152,7 @@ Walk them slowly and look up. Many are still lived in, several by artists who bo
 
 The design end, and the part of Shoreditch that gentrified hardest. **Redchurch Street** is a short run of independent fashion, skincare and homeware shops with coffee between them — the sort of street where a shop sells eight objects and all of them are beautifully lit.
 
-**Chance Street and the alleys off it carry the densest run of murals in the area**, and they change constantly. This is where street art tours end up, and where you are most likely to see someone actually painting on a weekday morning.
+**Chance Street and the alleys off it are walled with murals**, and they change constantly. This is where street art tours end up, and where you are most likely to see someone actually painting on a weekday morning.
 
 It is a ten-minute walk end to end and worth doing between the markets rather than as a destination in itself.
 

@@ -219,7 +219,7 @@ Scudamore's has been going since 1910 and runs the Mill Lane station at Granta P
 
 **The Fitzwilliam is the single best free thing in Cambridge** and it is closed on Mondays, which is the most common wasted trip. Ticketed exhibitions are free for under-18s, pay what you can on the first Sunday of the month, and free for 18 to 25s and students who join the Fitz List. Groups of ten or more pay £5 a head.
 
-**The Botanic Garden is five minutes' walk from the station**, through the Station Road Gate on Hills Road, which makes it the obvious first or last stop of the day. Children up to 16 are free. Booking a day ahead takes 10% off — though not on event days like Apple Day or Cambridge Botanic Lights. The price shown first on its site is £9.50, which includes an optional 10% donation; £8.60 is the actual standard admission.
+**The Botanic Garden is five minutes' walk from the station**, through the Station Road Gate on Hills Road, which makes it the obvious first or last stop of the day. Children up to 16 are free. Booking a day ahead takes 10% off — though not on event days like Apple Day or Cambridge Botanic Lights. The headline price of £9.50 includes an optional 10% donation; standard admission is £8.60.
 
 **The Round Church is not free**, despite how often it is listed that way. £3.50 standard, £1 for teenagers and students, free for Cambridge residents in CB1 to CB5 and under-13s. It is a 12th-century round church, founded between 1114 and 1131, one of only four medieval round churches left in England, and the visit is an exhibition plus a 23-minute film narrated by Sir David Suchet. Its own guided walks are £16, £14 for students and 13 to 18s, and include entry.
 

@@ -496,6 +496,7 @@ Restaurants the sources back that did not earn a full entry, either because only
 
 ## Continue planning your London trip
 
+- 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)** — a separate tradition: hoppers, kottu and lamprais, not a tandoor
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🍕 **[The Best Pizza in London](/articles/best-pizza-london/)**
 - 🏛️ **[Best Areas to Visit in London: Neighbourhood Guide](/articles/best-areas-to-visit-london/)**

@@ -100,7 +100,7 @@ Five networks book a bag into a nearby shop, hotel or storage room rather than a
 | [LuggageHero](https://luggagehero.com/london/) | 881 | From £1.49/hour or £4.90/day, + £1.60 one-time fee/bag | £500 included; paid upgrades available |
 | [Nannybag](https://www.nannybag.com/en/luggage-storage/london) | Not published separately | £3.40/day small bag, £4.90 regular, £6.90 odd-size | £10,000 included |
 
-**Every figure here beats a station counter on price**, though a shopfront rather than a manned rail concourse is a different kind of trust — each network's own guarantee is the thing worth reading before a valuable bag goes into one. **Nannybag is now run inside the Bounce network**: its own site says partner shops "now sign up and manage bookings on Bounce," while Nannybag keeps its own branding and pricing for customers.
+**Every figure here beats a station counter on price**, though a shopfront rather than a manned rail concourse is a different kind of trust — each network's own guarantee is the thing worth reading before a valuable bag goes into one. **Nannybag is now run inside the Bounce network**: partner shops sign up and manage bookings on Bounce, while Nannybag keeps its own branding and pricing for customers.
 
 <div data-stay-strip></div>
 

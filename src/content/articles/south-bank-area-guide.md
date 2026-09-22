@@ -70,7 +70,7 @@ heroImage: "../../assets/articles/south-bank-area-guide/london-eye-county-hall-s
 heroImageAlt: "The London Eye and County Hall across the Thames on a clear summer day, with the Golden Jubilee Bridges and a river boat at the pier"
 ---
 
-The South Bank is a continuous riverside walk from Westminster Bridge east to Tower Bridge, and it is the single best introduction to London on foot. It is flat, entirely pedestrianised, step-free, and lined with more free things to do than any comparable stretch in the city.
+The South Bank is a continuous riverside walk from Westminster Bridge east to Tower Bridge, and it is the single best introduction to London on foot. It is flat, entirely pedestrianised, step-free, and lined with free things to do.
 
 It is also the answer to bad weather: Tate Modern, the Southbank Centre, the BFI and Borough Market's covered halls are all on the route and all free to walk into.
 
@@ -122,7 +122,7 @@ Buying them one at a time is the expensive way. **Merlin's Magical London** cove
 
 ### Queen's Walk (London Eye to Southbank Centre)
 
-The busiest pedestrian stretch in Britain, and the one everybody pictures when they say South Bank: street performers, the Undercroft skate space, the second-hand book market under Waterloo Bridge, and a run of concrete arts buildings that people either love or walk straight past.
+The stretch everybody pictures when they say South Bank: street performers, the Undercroft skate space, the second-hand book market under Waterloo Bridge, and a run of concrete arts buildings that people either love or walk straight past.
 
 **The most useful thing here is free and indoors.** The Royal Festival Hall foyers are open to anyone — seats, heating, toilets, a piano, a view over the river — and **the Southbank Centre lets you bring your own food and soft drinks in**, which in an area where every riverside bench comes with a £6 coffee attached is worth knowing. Only alcohol has to be bought on site, and the whole complex is **cash-free**. Upstairs, the **Queen Elizabeth Hall Roof Garden** is free too: over 200 wild native plants and a bar, open Tuesday from 4pm and Wednesday to Sunday from midday, closed Mondays.
 
@@ -176,7 +176,7 @@ The eastern end, and the stretch that has changed most.
 
 **The building everyone still calls City Hall is not City Hall any more.** The Mayor and the Assembly moved out to the Royal Docks in December 2021, and Foster's leaning glass egg — now **110 The Queen's Walk** — is a building site: main construction runs from **February 2026 to summer 2028**, after which it becomes offices, shops, restaurants and a food hall. There is nothing to see there for the moment, and **The Scoop**, the free sunken amphitheatre beside it that used to run open-air summer screenings, is inside the same scheme, so do not plan around it.
 
-**HMS Belfast** is the reason to come to this stretch. Nine decks, open 10am–6pm daily, and IWM suggests at least three hours. Adult tickets start at £23.45 — but **anyone on Universal Credit, Pension Credit or several other benefits pays £3, covering up to five people in the household**, booked online in advance. Almost no guide mentions it.
+**HMS Belfast** is the reason to come to this stretch. Nine decks, open 10am–6pm daily, and IWM suggests at least three hours. Adult tickets start at £23.45 — but **anyone on Universal Credit, Pension Credit or several other benefits pays £3, covering up to five people in the household**, booked online in advance.
 
 Then **Tower Bridge**, which is free to walk across; the ticket buys the high-level walkways with the glass floor over the traffic and the Victorian engine rooms. **The bridge lifts around 800 times a year and the schedule is published weeks ahead** on its own site — watching it open from the riverside costs nothing and is better than the walkway.
 
@@ -242,7 +242,7 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 
 **[A Walk Along the South Bank: Westminster to Tower Bridge →](/articles/south-bank-walk/)**
 
-Our full route for this area: **eleven numbered stops** over about 3km and two to three hours, with a map, a Google Maps walking link, and the day-by-day breakdown of what is open — including the fact that **Borough Market is closed on Mondays** and sits at stop nine of eleven. It also covers Leake Street, the legal graffiti tunnel five minutes off the river that almost nobody on this stretch finds.
+Our full route for this area: **eleven numbered stops** over about 3km and two to three hours, with a map, a Google Maps walking link, and the day-by-day breakdown of what is open — including the fact that **Borough Market is closed on Mondays** and sits at stop nine of eleven. It also covers Leake Street, the legal graffiti tunnel five minutes off the river.
 
 ### The short version, if you only have two hours
 

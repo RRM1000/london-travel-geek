@@ -29,7 +29,7 @@ faq:
     a: "The improv troupe that has performed at The Comedy Store every Sunday, and later Wednesday, since October 1985 — Paul Merton, Josie Lawrence, Neil Mullarkey and others. Guinness confirmed it in 2010 as the world's longest-running comedy show with the same cast."
 ---
 
-British alternative comedy started in a former Soho strip club in 1979, and the interesting thing about London comedy now is how little it costs. **The best-value night out in this city is a comedy night**, and several of the best ones are free.
+British alternative comedy started in a former Soho strip club in 1979, and the interesting thing about London comedy now is how little it costs. **Several of the best nights in the city are free**, and the pub rooms run £4 to £8.
 
 The trade-off is not quality — it is certainty. A £30 ticket buys you a booked bill of professionals. A free ticket buys you five acts, two of whom are working something out, one of whom is about to be famous.
 

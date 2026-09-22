@@ -40,17 +40,15 @@ faq:
     a: "Yes, and several are worth it for that alone. The Hippodrome has nine bars, two restaurants and a theatre across seven floors. The Empire's sports bar runs around the clock. You still need to be over 18 and carrying ID, because the age limit covers the whole building rather than only the gaming floor."
 ---
 
-Three of the grandest gambling rooms in Mayfair have gone since 2018. **The Clermont Club** in Berkeley Square, **The Ritz Club** in the basement of the Ritz, and **Crockfords** on Curzon Street — whose operator's own website now reads "Now Permanently Closed."
+Three of the grandest gambling rooms in Mayfair have gone since 2018: **The Clermont Club** in Berkeley Square, **The Ritz Club** in the basement of the Ritz, and **Crockfords** on Curzon Street.
 
-That is the trouble with most casino guides to London: they were written while those rooms were open, and nobody went back. So what follows is not a ranking of glamour. It is a status, an address, and the rules that decide whether your night works.
+That is the trouble with most casino guides to London: they were written while those rooms were open, and nobody went back. What follows is a status, an address, and the rules that decide whether your night works.
 
-> 💡 **The Short Version:** **You do not need to be a member** — the 24-hour membership rule was abolished in 2005 and the big rooms now advertise free entry. **You do need photo ID**, every time, whatever your age. **The dress code is smart casual**, not black tie. **You cannot take photographs**, which is why the picture at the top of this page is a stock one rather than a London table. **Count the zeros on the roulette wheel** — one is 2.7%, two is 5.26%. **The Hippodrome** is the one to walk into first: 24 hours, free, and more to do in it than gamble.
+> 💡 **The Short Version:** **You do not need to be a member** — the 24-hour membership rule was abolished in 2005 and the big rooms now advertise free entry. **You do need photo ID**, every time, whatever your age. **The dress code is smart casual**, not black tie. **You cannot take photographs** anywhere on the gaming floor. **Count the zeros on the roulette wheel** — one is 2.7%, two is 5.26%. **The Hippodrome** is the one to walk into first: 24 hours, free, and more to do in it than gamble.
 
 *Every venue checked against its own website on 2 September 2026.*
 
 ---
-
-## Where they are
 
 ---
 
@@ -403,11 +401,11 @@ There is a bar doing cocktails and small bites, and a dining room for members an
 
 The section other guides leave out, and the reason people still turn up at dark doors on Curzon Street.
 
-* **Crockfords, 30 Curzon Street** — **closed permanently.** Its operator's own page carries the words "Now Permanently Closed." It had traded since the 1820s, which made it Britain's oldest casino.
+* **Crockfords, 30 Curzon Street** — **closed permanently.** It had traded since the 1820s, which made it Britain's oldest casino.
 * **The Ritz Club, 150 Piccadilly** — **closed.** The casino in the hotel's basement ballroom shut in 2020 and never reopened.
 * **The Clermont Club, 44 Berkeley Square** — **closed.** The Georgian townhouse club that gave Mayfair its gambling reputation shut in 2018, reopened briefly, and closed again.
 
-**Napoleons has no London venue**, despite frequently appearing in London casino lists — its own site covers Bradford, Hull, Leeds, Sheffield and Manchester only.
+**Napoleons has no London venue**, despite frequently appearing in London casino lists. Its casinos are in Bradford, Hull, Leeds, Sheffield and Manchester.
 
 ---
 

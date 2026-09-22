@@ -31,7 +31,7 @@ The city does it three ways, and picking one settles most of the decision: shuck
 > 💡 **The Short Version:** **J Sheekey** is the most-cited seafood restaurant in London, and **Scott's** is second. **Wiltons** has been trading since 1742. **The Sea, The Sea** is a working fishmonger with a bistro above it. **Behind** and **Angler** are the starred fish kitchens. **Manzi's** and **Sam's Riverside** do £2 oysters. And **Billingsgate** is open to the public before dawn.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **15 sources carrying 187 citations** across **107 named restaurants**. **31 restaurants are named by two or more independent sources; 8 carry a dated award.**
+> Nothing here is ranked on one visit. This pass reads **15 sources carrying 187 citations** across **108 named restaurants**. **31 restaurants are named by two or more independent sources; 8 carry a dated award.**
 > **Built on:** sixteen sources including the Good Food Guide and Michelin, giving eight venues here a dated award. Four sources are oyster specialists.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -146,7 +146,7 @@ The proposition is oysters and the view: it claims **London's longest oyster lis
 
 A marble-topped oyster bar, Dover sole meunière and a carving trolley, none of it modernised because there is no reason to. Saturday is dinner only, and Sunday it shuts.
 
-> **It does not hold a Michelin star.** The certificate displayed on its website is a Michelin Guide listing, and several guides report it as a star.
+> **It does not hold a Michelin star.** What it holds is a Michelin Guide listing, which several guides report as a star.
 
 ![The frontage of Wiltons Restaurant on Jermyn Street at night](../../assets/articles/best-seafood-restaurants-london/wiltons.jpg)
 
@@ -314,7 +314,7 @@ The sourcing is the argument: **hand-dived scallops, Hebridean langoustines, oys
 
 The 18th-century warehouse off Bishopsgate, once owned by the East India Company, with a serious City wine list and a weekend seafood brunch.
 
-**It is currently closed.** Its own site says it is preparing for a new chapter and points customers to Liverpool Street Chop House in the meantime. A reopening was advertised for early 2026 and has not happened. Worth a check before writing it off for good — but do not plan a meal around it.
+**It is currently closed**, with customers sent to Liverpool Street Chop House in the meantime. A reopening was advertised for early 2026 and has not happened. Worth a check before writing it off for good — but do not plan a meal around it.
 
 ---
 
@@ -406,6 +406,8 @@ Everything else the sources carry by two or more independent sources, plus the s
 
 ## Continue planning your London trip
 
+- 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)** — ceviche, tiradito and the cevicherías
+- 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — Seabird, Wright Brothers Battersea and Scott's Richmond
 - 🐟 **[The Best Fish and Chips in London](/articles/best-fish-and-chips-london/)**
 - 🥩 **[The Best Steak in London](/articles/best-steak-restaurants-london/)**
 - 🍖 **[The Best Sunday Roast in London](/articles/best-sunday-roast-london/)**

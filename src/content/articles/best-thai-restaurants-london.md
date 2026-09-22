@@ -92,7 +92,7 @@ Isaan is the north-east: sour, salty and hot rather than sweet and coconut-heavy
 **££, closed Sunday, book a few days ahead.** Shepherd's Bush, and the oldest kitchen of its kind in the country.
 
 
-> ⚠️ Its own site lists **evenings only, Monday to Saturday** — no Sunday. Aggregators still show a lunch service. Ring before making a lunchtime trip.
+> ⚠️ It opens **evenings only, Monday to Saturday** — no Sunday, whatever the aggregators still show for lunch. Ring before making a lunchtime trip.
 
 ![Fried fishcakes on blue-and-white patterned china beside a plate of spring rolls with sweet chilli dipping sauce, a cucumber and peanut relish and a carved carrot garnish, on a patterned tablecloth](../../assets/articles/best-thai-restaurants-london/esarn-kheaw.jpg)
 

@@ -27,7 +27,7 @@ London is roughly 20 per cent green space, and the best of it is not the famous 
 
 Almost all of it is free.
 
-> 💡 **The Short Version:** **Richmond Park** for the deer and the scale. **Hampstead Heath** for swimming and the Parliament Hill view. **St Dunstan in the East** is the most atmospheric free thing in the City. **The Barbican Conservatory** is London's best-kept secret. And **the Crystal Palace Dinosaurs** are magnificently, confidently wrong.
+> 💡 **The Short Version:** **Richmond Park** for the deer and the scale. **Hampstead Heath** for swimming and the Parliament Hill view. **St Dunstan in the East** is the most atmospheric free thing in the City. **The Barbican Conservatory** is 1,500 plant species under glass, free, and open on selected dates only. And **the Crystal Palace Dinosaurs** are magnificently, confidently wrong.
 
 > 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Admission is the parks' own and checked August 2026 — the Royal Parks and all council parks are free and always have been. Opening hours are seasonal for most gardens.
@@ -136,7 +136,7 @@ The Round Pond and the Diana Memorial Playground are the two things families com
 
 *Free · the pelicans*
 
-The oldest of the royal parks and the most central, running from Buckingham Palace to Horse Guards, with a lake full of waterfowl and **a resident colony of pelicans** first presented to Charles II by a Russian ambassador in 1664.
+The most central of the royal parks, running from Buckingham Palace to Horse Guards, with a lake full of waterfowl and **a resident colony of pelicans** first presented to Charles II by a Russian ambassador in 1664.
 
 ![A flowerbed of red and pink tulips and wallflowers in St James's Park](../../assets/articles/best-parks-gardens-london/st-james-park-tulips.jpg)
 

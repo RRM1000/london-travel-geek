@@ -28,7 +28,7 @@ London Stansted (STN) is London's primary hub for low-cost airlines like Ryanair
 > 💡 **Quick Verdict: Stansted to London (2026).**
 > - **Fastest & Most Reliable:** **Stansted Express** train. Takes **37 mins** to Tottenham Hale (Victoria line interchange) and **48 mins** to London Liverpool Street (The City & Elizabeth line). Fares start from **£9.90 advance** (or ~£21.90 walk-up/contactless).  
 > - **Cheapest Budget Option:** **National Express / Airport Bus** (from **£5.00** advance). Takes 50–100 mins depending on traffic to Stratford, Victoria, or Baker Street.  
-> - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay ARE accepted on Stansted Express, but **Oyster cards are NOT accepted**!
+> - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay are accepted on Stansted Express, but **Oyster cards are not**.
 
 > 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
 
@@ -71,7 +71,7 @@ London Stansted (STN) is London's primary hub for low-cost airlines like Ryanair
 ### 1. Stansted Express Train
 * **Station Location:** Train station is located directly beneath the single main passenger terminal (a 2-minute signed escalator/lift walk from arrivals).
 * **Frequency:** Departs every 15 minutes.
-* **Payment Rules:** Tapping a **contactless bank card or device** at station turnstiles is accepted, but **Oyster cards are NOT valid** to Stansted Airport!
+* **Payment Rules:** Tapping a **contactless bank card or device** at station turnstiles is accepted, but **Oyster cards are not valid** to Stansted Airport.
 * **Advance Discount:** Booking tickets 2–4 weeks early online at *stanstedexpress.com* drops the fare to **£9.90 single** (vs ~£21.90 walk-up).
 
 ### 2. National Express & Airport Coaches
@@ -91,14 +91,14 @@ Stansted has **one single main terminal building**, making navigation straightfo
 
 *Stansted Airport terminal. Photo: [My another account](https://commons.wikimedia.org/wiki/File:London_Stansted_Airport.JPG), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
-> ⚠️ **Gate Distance Tip:** While Stansted has one main terminal for check-in and security, departure gates are located across satellite buildings connected by an automated transit train or walkways. Allow **15–20 minutes** after security to reach your specific gate!
+> ⚠️ **Gate Distance Tip:** While Stansted has one main terminal for check-in and security, departure gates are located across satellite buildings connected by an automated transit train or walkways. Allow **15–20 minutes** after security to reach your gate.
 
 ---
 
-## 6 Common Stansted transit mistakes to avoid
+## 6 common Stansted travel mistakes to avoid
 
-1. **Trying to use an Oyster card:** Oyster cards are **NOT valid** on trains to Stansted Airport (contactless bank cards or paper tickets are required).
-2. **Staying on the train to Liverpool Street when going to West End:** Change at **Tottenham Hale** for the Victoria Line—it is much faster!
+1. **Trying to use an Oyster card:** Oyster cards are **not valid** on trains to Stansted Airport — contactless bank cards or paper tickets are required.
+2. **Staying on the train to Liverpool Street when going to the West End:** change at **Tottenham Hale** for the Victoria line, which is faster.
 3. **Paying full walk-up train fares (£21.90):** Book Stansted Express online in advance for fares as low as **£9.90**.
 4. **Underestimating coach traffic delays:** Road congestion on the M11/A12 during rush hours can add 30–60 minutes to coach journeys.
 5. **Leaving gate transit too late:** Stansted's satellite gates require a 15-minute transit ride from the main terminal departure lounge.

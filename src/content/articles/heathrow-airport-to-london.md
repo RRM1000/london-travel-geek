@@ -31,10 +31,10 @@ faq:
     a: "Yes. Tap in and out at the barriers exactly as you would on the Tube, and you are charged the £26 walk-up single — the same as tapping a contactless bank card or phone. A Railcard loaded onto your Oyster applies its discount. What you do not get is TfL pricing: Heathrow Express sits outside the daily cap and Travelcards, so the tap counts for nothing towards them. If you know your date, a £10 advance single booked 30 or more days ahead is the cheap way on; otherwise the Elizabeth line (£15.50, and it counts towards your cap) or the Piccadilly line (£5.90 peak, £4.00 off-peak) beat it on price."
 ---
 
-When arriving at London Heathrow (LHR), the fastest-looking train to Paddington isn't necessarily the fastest route to your hotel door. While the Heathrow Express ends strictly at Paddington, the **Elizabeth line** and **Piccadilly line** cross directly through Central London—frequently saving you a complex station transfer and second train fare.
+The fastest train out of Heathrow is not necessarily the fastest route to your hotel door. The Heathrow Express stops at Paddington and goes no further; the **Elizabeth line** and **Piccadilly line** carry on across Central London, which often saves you a station transfer and a second fare.
 
 > 💡 **Quick Verdict:**  
-> - **Best for Most Travelers:** Take the **Elizabeth line** (fast, air-conditioned, step-free, and reaches West End / City / Canary Wharf directly for £15.50).  
+> - **Best for Most Travellers:** Take the **Elizabeth line** (fast, air-conditioned, step-free, and reaches West End / City / Canary Wharf directly for £15.50).  
 > - **Best on a Budget:** Take the **Piccadilly line** (cheapest at £4.00–£5.90, direct to South Kensington, West End & Kings Cross).  
 > - **Best for Paddington & Advance Deals:** Take the **Heathrow Express** (15 mins non-stop to Paddington, best if pre-booked for £10).  
 > - **Best for Groups & Heavy Bags:** Pre-book a private transfer or take a licensed London Black Cab.
@@ -50,7 +50,7 @@ When arriving at London Heathrow (LHR), the fastest-looking train to Paddington 
 | Transport Option | Adult Cost to Central London | Journey Time | Comfort | Best For |
 | --- | ---: | ---: | --- | --- |
 | **Elizabeth Line** | **£15.50** *(PAYG)* | 28–45 mins | 4/5 | Most visitors, luggage & direct cross-city trips |
-| **Piccadilly Line (Tube)** | **£5.90** *(Peak)* / **£4.00** *(Off-peak)* | 50–60 mins | 2/5 | Budget travelers & hotels near Piccadilly line stops |
+| **Piccadilly Line (Tube)** | **£5.90** *(Peak)* / **£4.00** *(Off-peak)* | 50–60 mins | 2/5 | Budget travellers & hotels near Piccadilly line stops |
 | **Heathrow Express** | **£26.00** *(Walk-up)* / **From £10.00** *(Advance)* | 15 mins to Paddington | 5/5 | Staying near Paddington Station or pre-booked deals |
 | **National Express Coach** | From **£10.00** | 45–90 mins | 3/5 | Travel to Victoria Coach Station or late-night arrivals |
 | **London Black Cab** | **£70.00 – £120.00** *(Metered)* | 45–90 mins | 4/5 | Families, heavy luggage & door-to-door convenience |
@@ -81,7 +81,7 @@ When arriving at London Heathrow (LHR), the fastest-looking train to Paddington 
 
 ## 1. Elizabeth Line (Recommended for Most Visitors)
 
-The **Elizabeth line** (purple line) is the premier choice for most travelers arriving at Heathrow. Its long, spacious, air-conditioned trains feature dedicated luggage racks, free Wi-Fi, and 100% step-free access at all central stations.
+The **Elizabeth line** (purple on the map) runs long air-conditioned trains with dedicated luggage racks, free Wi-Fi, and step-free access at every central station.
 
 * **Key Central Stops:** Paddington (28 mins), Bond Street (35 mins), Tottenham Court Road (37 mins), Farringdon (40 mins), Liverpool Street (42 mins), Canary Wharf (48 mins).
 * **Cost & Payment:** Adult single fare is **£15.50** (includes the Heathrow airport rail supplement). Tap at the ticket barrier with your contactless bank card, phone (Apple Pay / Google Pay), or Oyster card.
@@ -115,7 +115,7 @@ The **Heathrow Express** runs non-stop between Heathrow Central (Terminals 2 & 3
 
 > ⚠️ **Important Heathrow Express Rules:**  
 > - **Excluded from TfL Caps:** Tapping contactless or Oyster at the barrier charges the full **£26.00** walk-up fare and **does NOT count towards daily TfL caps**.  
-> - **Kids Travel Free:** Children aged 15 and under travel **100% free** in Standard Class with a paying adult.  
+> - **Kids Travel Free:** Children aged 15 and under travel **free** in Standard Class with a paying adult.  
 > - **When to Use:** Only recommended if your hotel is at Paddington, or if you pre-booked the £10 advance single ticket.
 
 ---
@@ -138,7 +138,7 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 | **Terminal 4** | Elizabeth Line, Piccadilly Line | Dedicated station beside Terminal 4 |
 | **Terminal 5** | Elizabeth Line, Piccadilly Line, Heathrow Express | Dedicated station beneath Terminal 5 |
 
-> 🔄 **Free Terminal Transfers:** Travel between Heathrow terminal stations on the Underground and Elizabeth line is **100% free**. Simply tap your contactless card or Oyster card (or collect a free transfer ticket at ticket machines)—no fare will be charged.
+> 🔄 **Free Terminal Transfers:** Travel between Heathrow terminal stations on the Underground and Elizabeth line is **free**. Tap your contactless card or Oyster card, or collect a free transfer ticket at a ticket machine; no fare is charged.
 
 ---
 

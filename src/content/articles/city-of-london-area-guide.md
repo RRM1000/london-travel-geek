@@ -63,7 +63,7 @@ faq:
   - q: "Why is the City empty at weekends?"
     a: "Around half a million people work here and only about 8,000 live here. On Saturdays and Sundays most offices, sandwich shops and many pubs close. It is eerie and excellent for photography, but plan food in advance — you may walk ten minutes to find somewhere open."
   - q: "What are the free views of London from the City?"
-    a: "Two, both free but both requiring booking. **Horizon 22** at 22 Bishopsgate is the highest free viewing floor in Europe at level 58. The **Sky Garden** at 20 Fenchurch Street has an indoor planted terrace. Both release slots online some weeks ahead and both go quickly."
+    a: "Two, both free but both requiring booking. **Horizon 22** at 22 Bishopsgate is the highest public viewpoint in London, on level 58. The **Sky Garden** at 20 Fenchurch Street has an indoor planted terrace. Both release slots online some weeks ahead and both go quickly."
   - q: "Do I need to book the Tower of London?"
     a: "Yes, book online — it is cheaper than the gate price and the queue is long, particularly in summer. Allow three hours. Go at opening and head straight for the Crown Jewels before the coach parties arrive, then work back through the White Tower."
   - q: "Can you climb the dome at St Paul's?"
@@ -89,7 +89,7 @@ The City of London has its own share of the commemorative plaques marking where 
 1. **St Paul's Cathedral** — Wren's 1710 dome, and the 528-step climb to the Golden Gallery via the Whispering Gallery. Sightseeing is ticketed; **Evensong is free** and lets you sit in the quire.
 2. **Tower of London** — A Norman fortress begun in 1066, the Crown Jewels, the Yeoman Warders and the ravens. Book ahead and arrive at opening.
 3. **Tower Bridge** — The 1894 bascule bridge beside the Tower, and the one most people mistake for London Bridge. **Walking across it is free.** The ticketed Exhibition adds the high-level walkways, the glass floor over the road and the Victorian engine rooms. Lift times are published in advance, and watching it open costs nothing.
-4. **Horizon 22** — Level 58 of 22 Bishopsgate and the highest free viewing floor in Europe. Book a slot online.
+4. **Horizon 22** — Level 58 of 22 Bishopsgate and the highest public viewpoint in London, about ten metres above The Shard's gallery. Book a slot online.
 5. **Sky Garden** — The planted terrace at the top of 20 Fenchurch Street, the "Walkie-Talkie". Free with booking.
 6. **Leadenhall Market** — A painted Victorian arcade of 1881, used as Diagon Alley in the first Harry Potter film. Best on a weekday when the traders are open.
 7. **The Roman remains** — The London Wall at Tower Hill and Noble Street, the Temple of Mithras rebuilt in situ beneath Bloomberg's building (free, booked), and the amphitheatre under the Guildhall Art Gallery.

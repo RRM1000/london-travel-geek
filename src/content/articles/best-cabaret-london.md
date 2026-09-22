@@ -32,15 +32,13 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0"
 
 London's biggest cabaret operator no longer exists. **Proud Embankment, Proud Cabaret City and Haus of Cabaret London have all gone**, and nobody ever published a closing date for any of them.
 
-That is the problem with picking a cabaret night here. This is a form that runs on short leases, small rooms and thin margins, and the guides describing it are mostly lists of places that were open when somebody wrote them. So the most useful thing on this page is not a ranking. It is a status.
+That is the problem with picking a cabaret night here. This is a form that runs on short leases, small rooms and thin margins, and the guides describing it are mostly lists of places that were open when somebody wrote them. So every room below carries a status.
 
 > 💡 **The Short Version:** **Bethnal Green Working Men's Club** is the one to go to first, because its owners intend to sell it. **Crazy Coqs** is the best-looking room in London. **Underbelly Boulevard** has the most acts. **The Royal Vauxhall Tavern** is £8 and **CellarDoor is free.** **The London Cabaret Club** is the full dinner-show production. And **the entire Proud operation and The Glory have closed** — do not let an old listicle send you to either.
 
 *Every venue status-checked against its own website on 1 September 2026.*
 
 ---
-
-## Where they are
 
 ---
 
@@ -88,13 +86,13 @@ That is the problem with picking a cabaret night here. This is a form that runs 
 
 *42–46 Pollard Row, E2 6NB · Bethnal Green · standing*
 
-**The homepage reads "WE ARE OPEN, THE FIGHT IS ON" and "COME TO OUR EVENTS WHILE YOU CAN."** That is the venue's own language, and it is the reason this entry sits at the top rather than buried in a list.
+**The venue's own campaign line is "WE ARE OPEN, THE FIGHT IS ON" and "COME TO OUR EVENTS WHILE YOU CAN."** That is why this entry sits at the top rather than buried in a list.
 
 The building is owned collectively by the original working men's club members, and in **July 2024 they announced an intention to sell it for redevelopment**, giving the resident promoters two months' notice. What has happened since is a genuine community fight. Equity ran a petition and a rally. Tower Hamlets designated the building an **Asset of Community Value**, which gives the community a Right to Bid, and it is **Grade II listed** and holds a **Certificate of Lawfulness recognising its use as a cabaret theatre** — an unusually specific protection. The Friends of BGWMC crowdfunder has **met its £12,000 base target**, paying for a full chartered survey, a valuation and a planning bid, with a further £6,000 sought for a business plan proposing council purchase and leaseback.
 
 None of that saves it. Listing and ACV status slow a sale; they do not stop one.
 
-The night itself is small, sweaty and standing, built on bills of acts rather than one show, and it has been the spiritual home of British alternative burlesque and drag for twenty years. **The what's-on page says there are advance and door prices but publishes neither**, so go in expecting to pay on the door without knowing the number first. The site was also showing a **summer closure from 30 August to 15 September**, with several September dates marked "event info coming soon" — check the calendar before travelling.
+The night itself is small, sweaty and standing, built on bills of acts rather than one show, and it has been the spiritual home of British alternative burlesque and drag for twenty years. **Advance and door prices are not published**, so go in expecting to pay on the door without knowing the number first. It also **closes for the summer, from 30 August to 15 September** — check the calendar before travelling.
 
 ---
 
@@ -442,7 +440,7 @@ More than thirty international acrobats, aerialists and stunt performers do the 
 
 *The Globe of Death, which is the act everyone leaves talking about — and the reason theatre seating matters. Photo: Cirque Berserk.*
 
-A **45-minute version called "IGNITE!" plays Hyde Park Winter Wonderland** from November 2026 into January 2027, booked through the Winter Wonderland site, where **prices are not published**.
+The 45-minute Winter Wonderland version, "IGNITE!", is **not running in 2026** — Gandeys has taken the Hyde Park circus slot. The Charing Cross run is the way to see the company this year.
 
 ### Zippos Circus
 
@@ -524,8 +522,8 @@ This is the section other guides leave out, and it is why people turn up at lock
 * **Bar Wotever** — last listed at the Royal Vauxhall Tavern on **Tuesday 14 May 2024**, and there is nothing to book.
 * **Cabaret Roulette** — nothing listed since January 2024.
 * **The Blitz Party** — nothing listed since June 2020, so **the £25 ticket price still circulating online is historic**, not current.
-* **Underbelly Festival**, now at Cavendish Square Gardens rather than the South Bank — **currently dark**. The site says only "we will be back soon," with no shows and no dates announced. Guides still placing it on the South Bank are out of date twice over.
-* **NoFit State Circus** — the best contemporary circus in Britain, and **no London dates are published at all.** They bring their own big top when they come; there is currently nothing to book.
+* **Underbelly Festival**, now at Cavendish Square Gardens rather than the South Bank — **currently dark**, with no shows on sale and no dates announced. Guides still placing it on the South Bank are out of date twice over.
+* **NoFit State Circus** — **no London dates are published at all.** They bring their own big top when they come; there is currently nothing to book.
 
 ---
 

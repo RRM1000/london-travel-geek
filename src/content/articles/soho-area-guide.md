@@ -69,7 +69,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 ---
 
-**Soho packs more restaurants, bars and theatres into one square kilometre than anywhere else in Britain**, and it is walkable end to end in fifteen minutes. It is bounded by [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three), Regent Street, Shaftesbury Avenue and Charing Cross Road, and it contains more restaurants, bars, theatres and recording studios than anywhere else in Britain.
+**Soho is one square kilometre, walkable end to end in fifteen minutes**, bounded by [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three), Regent Street, Shaftesbury Avenue and Charing Cross Road, and packed with restaurants, bars, theatres and recording studios.
 
 It is also two different places depending on when you arrive. By day it is a working media district with good coffee and quiet streets. From about 18:00 it becomes the busiest nightlife area in London.
 

@@ -248,6 +248,7 @@ Glasshouses close earlier than the gardens overall — 5pm through September 202
 
 ## Continue planning your London trip
 
+- 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — including the riverside rooms a short walk from the gate
 - 🌳 **[London's Best Parks and Gardens](/articles/best-parks-gardens-london/)** — 17 green spaces compared across the city.
 - 🦌 **[Richmond Area Guide](/articles/richmond-area-guide/)** — the park, the river and Richmond Hill, just south of Kew.
 - 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)** — more family days out, including which ones are free.

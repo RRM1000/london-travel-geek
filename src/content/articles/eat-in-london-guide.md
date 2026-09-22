@@ -15,9 +15,9 @@ heroImageAlt: "Traders and shoppers under the green ironwork and festoon lights 
 
 You can eat extremely well in London for six pounds and extremely badly for sixty, and the difference is rarely the price. It is knowing which of the city's parallel food scenes you have walked into — the Sunday roast one, the Bombay café one, the covered food hall one, the £6 dosa one.
 
-This page is the way into all of them, sorted by what you actually decide first: **what you fancy, where you are, what you want to spend, and how long you have got**.
+What follows is sorted by what you decide first: **what you fancy, where you are, what you want to spend, and how long you have got**.
 
-> 💡 **The 5 Iconic London Food Experiences Every Visitor Should Try (2026).**
+> 💡 **Five London meals to build a trip around.**
 > 1. **A [Sunday roast](/articles/best-sunday-roast-london/) in a historic pub** — thick-sliced beef, a Yorkshire pudding the size of the plate, and gravy. Book by Thursday.
 > 2. **A [Dishoom](/articles/best-breakfast-brunch-london/) bacon naan roll** with chai poured from a height. Breakfast barely queues; the evenings do.
 > 3. **Grazing a [covered market](/articles/best-london-markets/)** — Borough, Seven Dials or Old Spitalfields, where nobody has to agree on one cuisine.
@@ -28,11 +28,11 @@ This page is the way into all of them, sorted by what you actually decide first:
 
 ## Where to Eat Near Top Sights (Quick Cheat-Sheet)
 
-If you are sightseeing and need a great meal nearby without taking a long Tube journey across town, use this quick-reference guide:
+Where to eat near each of the big sights without crossing town:
 
 | Major Landmark / Sight | Nearest Dining Solution | Walking Distance & Vibe |
 | --- | --- | --- |
-| 🏰 **Big Ben & London Eye** | South Bank Street Food Market / Waterloo | 5–10 min walk; vibrant riverfront food stalls & casual indoor dining |
+| 🏰 **Big Ben & London Eye** | South Bank Street Food Market / Waterloo | 5–10 min walk; riverside food stalls and casual indoor dining |
 | 🏛️ **British Museum** | Seven Dials Market / Bloomsbury | 8 min walk; 20+ street-food vendors inside a converted banana warehouse |
 | 🏰 **Tower of London** | St Katharine Docks / Spitalfields | 5 min walk; historic marina dining or covered artisan food markets |
 | 🦖 **Natural History & V&A Museums** | South Kensington Museum Quarter | 3 min walk; French bakeries, casual Italian trattorias & cafés |
@@ -64,13 +64,11 @@ If you are sightseeing and need a great meal nearby without taking a long Tube j
 
 ## Distinctive Settings & Views
 
-Sometimes the location, view, or atmosphere is just as memorable as the menu itself. London excels at combining great food with unique surroundings:
-
-| Setting / Atmosphere | Standout London Examples | Why it is Memorable |
+| Setting / Atmosphere | Standout London Examples | What you get |
 | --- | --- | --- |
 | 🌅 **Rooftops & Skyline Views** | *Sky Garden (Darwin Brasserie)*, *Sushisamba*, *Coq d'Argent* | Panoramic views across the Thames, Tower Bridge & the City skyline |
 | 🚢 **On a Moving Canalboat** | *London Shell Co.* (Regent's Canal, Paddington) | A cruising 5-course seafood dinner along London's historic canals |
-| 🌸 **Photogenic & Floral Rooms** | *Clos Maggiore* (Covent Garden), *Sketch* (Mayfair), *Dalloway Terrace* | Renowned floral courtyards, velvet dining rooms & iconic interiors |
+| 🌸 **Photogenic & Floral Rooms** | *Clos Maggiore* (Covent Garden), *Sketch* (Mayfair), *Dalloway Terrace* | Blossom-hung courtyards, velvet dining rooms and interiors built to be photographed |
 | 🎭 **Dining & Live Entertainment** | *Brasserie Zédel (Crazy Coqs)*, *Ronnie Scott's Jazz Club* | Classic French bistro dining paired with underground live cabaret or jazz |
 | 🏰 **Historic Church Conversion** | *Mercato Mayfair* | Artisan food stalls & cocktail bars set inside a restored Victorian church |
 | 🚌 **Luxury Gourmet Bus Tour** | *Bustronome London* | A 4-course dinner served aboard a glass-topped double-decker bus |
@@ -79,16 +77,13 @@ Two guides cover most of this already:
 
 * [**London's Most Unusual Restaurants**](/articles/unusual-restaurants-london/) — 22 strange rooms, from a converted public lavatory to dinner underground.
 * [**The Best Views in London**](/articles/best-views-london/) — Every rooftop and viewing floor compared, including which ones are free and which need booking weeks out.
-
-Still to write: a dedicated **rooftop and riverside dining** guide that treats the food as seriously as the view.
+* [**The Best Rooftop and Riverside Restaurants in London**](/articles/best-rooftop-restaurants-london/) — The same roofs judged on the food rather than the view, plus the riverside rooms, and what happens to the booking when it rains.
 
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-in-london-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Restaurants by Cuisine
-
-These guides compare restaurants within specific cuisines to highlight distinct choices based on budget, regional cooking, and location:
 
 Every one of these is ranked by how many independent awards, critics and reviewers name each restaurant, not by our own visits. The method is the same on all of them — see [how we rank](/how-we-rank/).
 
@@ -102,6 +97,8 @@ Every one of these is ranked by how many independent awards, critics and reviewe
 * [**Korean**](/articles/best-korean-restaurants-london/) — Central barbecue rooms and the New Malden restaurants Londoners drive to.
 * [**Thai**](/articles/best-thai-restaurants-london/) — Isaan, southern and live-fire cooking rather than the pad thai default.
 * [**Vietnamese**](/articles/best-vietnamese-restaurants-london/) — Kingsland Road's Pho Mile, and the Peckham room that took the only Bib Gourmand.
+* [**Filipino**](/articles/best-filipino-restaurants-london/) — adobo, sisig and kare-kare, from a Bib Gourmand off Carnaby Street to a banana-leaf feast in Earl's Court.
+* [**Sri Lankan**](/articles/best-sri-lankan-restaurants-london/) — hoppers, kottu and lamprais, and the outer-London clusters where most of it is actually cooked.
 
 **European and Mediterranean**
 
@@ -112,10 +109,15 @@ Every one of these is ranked by how many independent awards, critics and reviewe
 * [**Turkish**](/articles/best-turkish-restaurants-london/) — Ocakbaşı grills, mangal and the Green Lanes stretch.
 * [**Middle Eastern and Eastern Mediterranean**](/articles/best-middle-eastern-restaurants-london/) — Levantine grills, mezze and plant-led menus.
 
+**Africa**
+
+* [**West African**](/articles/best-west-african-restaurants-london/) — Nigerian, Ghanaian, Ivorian and Senegambian, from two Michelin stars and a Bib Gourmand down to the Peckham stalls.
+
 **The Americas, and by ingredient**
 
 * [**Mexican**](/articles/best-mexican-restaurants-london/) — Taquerias, masa pressed to order and the regional kitchens.
 * [**Caribbean**](/articles/best-caribbean-restaurants-london/) — Trinidadian roti, Guyanese stews and Jamaican jerk, and why the best of it is as often a counter as a dining room.
+* [**Peruvian**](/articles/best-peruvian-restaurants-london/) — Nikkei counters, criollo kitchens and ceviche bars, and why they are three different evenings.
 * [**Barbecue**](/articles/best-barbecue-london/) — The smokehouses, what each one actually cooks, and the days they are shut.
 * [**Fried Chicken**](/articles/best-fried-chicken-london/) — Taiwanese, Korean and Nashville, and the judged champion who appears on nobody's list.
 * [**Burgers**](/articles/best-burgers-london/) — Smash versus dry-aged, and which of the winners is served at only one branch.
@@ -129,7 +131,7 @@ Every one of these is ranked by how many independent awards, critics and reviewe
 
 ## Markets, Food Halls and Street Food
 
-Food markets and indoor food halls are among the best dining solutions in London, particularly for groups where everyone wants something different.
+Markets and indoor food halls solve the group problem: one roof, a dozen kitchens, nobody has to agree.
 
 📍 **[The Best Street Food in London](/articles/best-street-food-london/)** compares every multi-trader market, food hall and container yard in the city on traders, variety, seating and — most usefully — **which days each one actually exists**.
 
@@ -146,7 +148,7 @@ It covers:
 
 ## Quick Food in London
 
-Quick food in London doesn't mean resorting to global fast-food chains. We highlight fast, high-quality dining options:
+Fast food in London without the global chains:
 
 * [**Cheap Eats in London**](/articles/cheap-eats-london/) — 34 places to eat well under £15, including Mumbai street food at *Shree Krishna Vada Pav*, South Indian dosas at *Saravanaa Bhavan* and the market stalls worth the detour.
 * [**The Best Sandwiches in London**](/articles/best-sandwiches-london/) — Salt beef, Japanese sandos and the toastie counters.
@@ -155,16 +157,16 @@ Quick food in London doesn't mean resorting to global fast-food chains. We highl
 * [**The Best Coffee in London**](/articles/best-coffee-london/) — Roasters and counters, and where the coffee is genuinely the point.
 * [**Late-Night Eating**](/articles/late-night-eating-london/) — What is still cooking after midnight, by area.
 
-**Pre-theatre dining** — 60-minute set menus served between 5pm and 6.30pm across the West End — does not have its own guide yet. Until it does, the [Soho](/articles/soho-area-guide/) and [Covent Garden](/articles/covent-garden-area-guide/) area guides list the rooms that run them.
+**Pre-theatre dining** means 60-minute set menus served between 5pm and 6.30pm across the West End. The [Soho](/articles/soho-area-guide/) and [Covent Garden](/articles/covent-garden-area-guide/) area guides list the rooms that run them.
 
 ---
 
 ## Places to Eat by Area
 
-If you are looking for recommendations near where you are exploring, start with our core neighbourhood guides:
+Start with the neighbourhood guide for wherever you are staying:
 
 - [**Covent Garden**](/articles/covent-garden-area-guide/) — Seven Dials Market, pre-theatre dining and the Piazza.
-- [**Soho**](/articles/soho-area-guide/) — Chinatown, Kingly Court and the best concentration of restaurants in London.
+- [**Soho**](/articles/soho-area-guide/) — Chinatown, Kingly Court and the densest run of restaurants in the West End.
 - [**Westminster**](/articles/westminster-area-guide/) — Landmark sightseeing, with the better food a short walk north.
 - [**South Bank**](/articles/south-bank-area-guide/) — Borough Market, Southbank street food and riverside dining.
 - [**Bloomsbury**](/articles/bloomsbury-area-guide/) — Independent cafes on Lamb's Conduit Street and around the British Museum.
@@ -206,7 +208,7 @@ Full guide: [**Cheap Eats in London**](/articles/cheap-eats-london/) for the fir
 
 ## Distinctively London
 
-Classic culinary experiences that belong on every London itinerary:
+The dishes and rooms that are particular to this city:
 
 * [**Classic British Food**](/articles/classic-british-food-london/) — What British food actually is, dish by dish, from the Scotch egg to the sticky toffee pudding.
 * [**Sunday Roast**](/articles/best-sunday-roast-london/) — Cross-referenced across every guide, award and critic of the year. Most need booking by Thursday.
@@ -233,9 +235,7 @@ Classic culinary experiences that belong on every London itinerary:
 
 ## Every food guide on this site
 
-One place, in case you would rather scan a list than a page.
-
-**By cuisine:** [Indian](/articles/best-indian-restaurants-london/) · [Chinese and East Asian](/articles/best-chinese-east-asian-restaurants-london/) · [Dim sum](/articles/best-dim-sum-london/) · [Hot pot](/articles/best-hot-pot-london/) · [Japanese](/articles/best-japanese-restaurants-london/) · [Korean](/articles/best-korean-restaurants-london/) · [Thai](/articles/best-thai-restaurants-london/) · [Vietnamese](/articles/best-vietnamese-restaurants-london/) · [Italian](/articles/best-italian-restaurants-london/) · [Pizza](/articles/best-pizza-london/) · [French](/articles/best-french-restaurants-london/) · [Spanish](/articles/best-spanish-restaurants-london/) · [Turkish](/articles/best-turkish-restaurants-london/) · [Middle Eastern](/articles/best-middle-eastern-restaurants-london/) · [Mexican](/articles/best-mexican-restaurants-london/) · [Caribbean](/articles/best-caribbean-restaurants-london/) · [Vegetarian and vegan](/articles/best-vegetarian-vegan-restaurants-london/)
+**By cuisine:** [Indian](/articles/best-indian-restaurants-london/) · [Chinese and East Asian](/articles/best-chinese-east-asian-restaurants-london/) · [Dim sum](/articles/best-dim-sum-london/) · [Hot pot](/articles/best-hot-pot-london/) · [Japanese](/articles/best-japanese-restaurants-london/) · [Korean](/articles/best-korean-restaurants-london/) · [Thai](/articles/best-thai-restaurants-london/) · [Vietnamese](/articles/best-vietnamese-restaurants-london/) · [Italian](/articles/best-italian-restaurants-london/) · [Pizza](/articles/best-pizza-london/) · [French](/articles/best-french-restaurants-london/) · [Spanish](/articles/best-spanish-restaurants-london/) · [Turkish](/articles/best-turkish-restaurants-london/) · [Middle Eastern](/articles/best-middle-eastern-restaurants-london/) · [Mexican](/articles/best-mexican-restaurants-london/) · [Caribbean](/articles/best-caribbean-restaurants-london/) · [Vegetarian and vegan](/articles/best-vegetarian-vegan-restaurants-london/) · [West African](/articles/best-west-african-restaurants-london/) · [Sri Lankan](/articles/best-sri-lankan-restaurants-london/) · [Peruvian](/articles/best-peruvian-restaurants-london/) · [Filipino](/articles/best-filipino-restaurants-london/)
 
 **By dish:** [Burgers](/articles/best-burgers-london/) · [Steak](/articles/best-steak-restaurants-london/) · [Barbecue](/articles/best-barbecue-london/) · [Fried chicken](/articles/best-fried-chicken-london/) · [Seafood](/articles/best-seafood-restaurants-london/) · [Fish and chips](/articles/best-fish-and-chips-london/) · [Sunday roast](/articles/best-sunday-roast-london/) · [Sandwiches](/articles/best-sandwiches-london/) · [Ice cream](/articles/best-ice-cream-london/) · [Classic British food](/articles/classic-british-food-london/)
 

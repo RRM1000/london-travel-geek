@@ -27,11 +27,11 @@ faq:
     a: "Go late. Most close at 5.30 or 6pm and the last two hours are markedly quieter than the first two. Fridays are the exception — several run late openings and those are the quietest slots of the week."
 ---
 
-London has the best free museums in the world and most visitors see three of them. The Natural History Museum was the UK's most visited attraction in 2025 with over seven million people through the door — and a mile away, a house preserved exactly as its owner left it in 1837 gets a fraction of that.
+London's great museums are free at the door, and most visitors see three of them. The Natural History Museum was the UK's most visited attraction in 2025 with over seven million people through the door — and a mile away, a house preserved exactly as its owner left it in 1837 gets a fraction of that.
 
 This guide covers both: the ones you have heard of, and the ones worth crossing London for.
 
-> 💡 **The Short Version:** The **British Museum** and **Natural History Museum** are the ones everybody does, and both deserve it. **Sir John Soane's Museum** is the best small museum in Britain. **The Wellcome Collection** is the strangest free thing in London. **Young V&A** is the answer with children. The **Postal Museum's Mail Rail** puts you on a train inside real Post Office tunnels. And **V&A East Storehouse** in Stratford will bring almost any object in the collection out for you to look at, free.
+> 💡 **The Short Version:** The **British Museum** and **Natural History Museum** are the ones everybody does, and both deserve it. **Sir John Soane's Museum** is a house left exactly as its owner had it in 1837, and free. **The Wellcome Collection** is the strangest free thing in London. **Young V&A** is the answer with children. The **Postal Museum's Mail Rail** puts you on a train inside real Post Office tunnels. And **V&A East Storehouse** in Stratford will bring almost any object in the collection out for you to look at, free.
 
 > 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Visitor figures are ALVA's audited numbers for 2025. Admission prices are the museums' own and were checked in August 2026 — special exhibitions inside free museums are almost always ticketed separately.
@@ -40,7 +40,7 @@ This guide covers both: the ones you have heard of, and the ones worth crossing 
 
 | If you are near… | Where to go |
 | --- | --- |
-| **Bloomsbury** | British Museum, Wellcome Collection, Sir John Soane's, Grant Museum, Petrie Museum, Foundling Museum, Postal Museum |
+| **Bloomsbury and Holborn** | British Museum, Wellcome Collection, Sir John Soane's, Grant Museum, Petrie Museum, Foundling Museum, Postal Museum |
 | **South Kensington** | Natural History Museum, Science Museum, V&A |
 | **Westminster & Trafalgar Square** | National Gallery, National Portrait Gallery, Tate Britain, Churchill War Rooms |
 | **South Bank & Bankside** | Tate Modern, Imperial War Museum |
@@ -91,6 +91,8 @@ Next door to the Natural History Museum, and **the better of the two with older 
 The Energy Hall of beam engines, Stephenson's Rocket, the Apollo 10 command module and the Information Age gallery are the spine of it. **Wonderlab is ticketed** while the rest of the museum is free, which catches families out at the door.
 
 **It is quieter than its neighbour all day.** If you are doing both in one visit, do the Natural History Museum first thing and cross over here at lunchtime when the queues outside have peaked.
+
+Anything with a start time rather than an opening time — Royal Institution Discourses, Gresham College lectures, Wellcome Lates, the Natural History Museum's evening panels, and the Victorian pumping engines that run on published dates — is in [science events in London](/articles/science-events-london/).
 
 ### Tate Modern, Bankside
 
@@ -153,7 +155,7 @@ The **Portrait Gallery round the corner** reopened in 2023 after a three-year re
 
 ## The best small museums
 
-### Sir John Soane's Museum, Bloomsbury
+### Sir John Soane's Museum, Holborn
 
 *Free · Lincoln's Inn Fields*
 
@@ -165,7 +167,7 @@ The architect's own house, **preserved by Act of Parliament exactly as he left i
 
 The Picture Room is the trick everyone remembers: hinged walls that open outwards to reveal more paintings behind the paintings, including Hogarth's *A Rake's Progress*.
 
-**The best small museum in Britain, and it costs nothing.** Rooms are narrow and numbers are capped, so **entry is sometimes timed and there can be a queue on Lincoln's Inn Fields** — go on a weekday morning, and allow an hour.
+**It costs nothing.** Rooms are narrow and numbers are capped, so **entry is sometimes timed and there can be a queue on Lincoln's Inn Fields** — go on a weekday morning, and allow an hour.
 
 ### Wellcome Collection, Bloomsbury
 
@@ -209,7 +211,7 @@ The cases are dense, the lighting is dim enough that torches are handed out for 
 
 **Like the Grant, opening is limited and term-dependent** — check first. Both are inside UCL buildings, so follow the signs rather than expecting a grand entrance.
 
-Sir John Soane's, the Grant and the Petrie are within fifteen minutes of each other, which makes Bloomsbury the densest museum walk in London.
+Sir John Soane's on Lincoln's Inn Fields, the Grant on Gower Street and the Petrie on Malet Place are within fifteen minutes of each other, which makes the walk from Holborn up through Bloomsbury the densest run of museums in London.
 
 ---
 
@@ -351,7 +353,7 @@ The free national museums are enormous and most people do them badly. These are 
 * **Use the side entrances.** The Natural History Museum's Exhibition Road entrance is almost always shorter than the Cromwell Road one. The V&A's tunnel entrance from South Kensington station skips the street entirely.
 * **Free does not mean no booking.** Several still ask for a timed slot at busy periods even though entry costs nothing, and turning up without one on a Saturday can mean a wait.
 * **The temporary exhibitions are what you pay for**, and they are where the queues are. The permanent collections are free, permanently, and are the reason these museums are internationally famous.
-* **Lates are the best-kept secret.** The V&A, the Science Museum, the Natural History Museum and the Wellcome Collection all run evening openings, usually monthly, usually free, and usually with a bar and a much better atmosphere than a Saturday afternoon.
+* **Lates are the part most visitors miss.** The V&A, the Science Museum, the Natural History Museum and the Wellcome Collection all run evening openings, usually monthly, usually free, and usually with a bar and a much better atmosphere than a Saturday afternoon.
 * **The gift shops and cafés are the funding.** Entry is free because of them, so buying a coffee is closer to paying admission than it looks.
 
 ---
@@ -362,7 +364,7 @@ The free national museums are enormous and most people do them badly. These are 
 * **Special exhibitions are ticketed** even inside free museums, often £18–£25.
 * **Late openings are the quietest slots.** Several run Friday evenings.
 * **Bags are searched** at the big museums and large luggage is usually refused.
-* **The Bloomsbury cluster** — British Museum, Soane, Wellcome, Grant, Petrie, Foundling — is walkable in a day and mostly free.
+* **The Bloomsbury and Holborn cluster** — British Museum, Soane, Wellcome, Grant, Petrie, Foundling — is walkable in a day and mostly free.
 
 ---
 

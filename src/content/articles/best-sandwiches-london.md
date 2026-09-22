@@ -152,7 +152,7 @@ Japanese-style **sando** on white Tokyo milk bread — soft, crustless, and cut 
 
 The crisps sandwich is still there but it has changed: it is now **Crispy Greens** — green beans, avocado, pickles, cucumber, jalapeños and salt-and-vinegar McCoy's. The tuna version is off the menu.
 
-**It closes at 3pm, seven days a week**, and that is the fact that decides the visit. Their own site is inconsistent about when it opens — the banner says 8am and the footer says 11am — so if you are going early, go on the assumption of 11 and treat 8 as a bonus. Ladbroke Grove or Westbourne Park, five minutes either way.
+**It closes at 3pm, seven days a week**, and that is the fact that decides the visit. The opening time is quoted as both 8am and 11am, so if you are going early, go on the assumption of 11 and treat 8 as a bonus. Ladbroke Grove or Westbourne Park, five minutes either way.
 
 ![A sando cut in two in a white takeaway box, crustless white bread around a filling of patty, avocado, tomato and egg, with a branded Kewpie sachet tucked in beside it](../../assets/articles/best-sandwiches-london/secret-sandwich-shop.jpg)
 
@@ -352,11 +352,11 @@ Six **bánh mì** on the menu — char siu pork, pâté, pork belly — on the s
 
 **The whole operation is vegetarian**, which the write-ups rarely mention, and it has grown from one Harrow shop into a mini-chain of fifteen-plus branches — Wembley, Tooting, Croydon, Southall, Ilford, Vauxhall and a central one on Eastcastle Street among them. The Harrow original is the one worth the trip.
 
-**Monday to Thursday 10am–9pm, Friday and Saturday 9am–9.30pm, Sunday 9am–9pm.** Harrow-on-the-Hill is five minutes' walk. The address is 57, not the 55 this guide gave before.
+**Monday to Thursday 10am–9pm, Friday and Saturday 9am–9.30pm, Sunday 9am–9pm.** Harrow-on-the-Hill is five minutes' walk.
 
 ---
 
-> 📅 **Every price, opening time and address on this page was checked against the venue's own website, menu or delivery listing on 2 September 2026.** Where a shop publishes nothing at all — and several of the best ones here do not — we say so rather than repeating a figure we could not stand behind.
+> 📅 **Every price, opening time and address on this page was checked against the venue's own website, menu or delivery listing on 2 September 2026.**
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sandwiches-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

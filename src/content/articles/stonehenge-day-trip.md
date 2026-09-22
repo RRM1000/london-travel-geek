@@ -105,7 +105,7 @@ Catch the 09:00 from Waterloo, make the 11:05 bus, and you are at the stones by 
 
 On money, one adult mid-week in winter is roughly **£33 to £40 for the rail return plus £43.50 for the bus and entry — about £80 all in**. A 6½-hour coach from London with admission included starts at £66.
 
-**That is why most people end up on a coach.** Not cost: one booking, one vehicle, and a departure time that does not depend on a five-a-day bus.
+**That is the argument for a coach**, and it is not cost: one booking, one vehicle, and a departure time that does not depend on a five-a-day bus.
 
 ### Driving
 
@@ -121,7 +121,7 @@ On money, one adult mid-week in winter is roughly **£33 to £40 for the rail re
 
 The catch is parking. **There is no parking anywhere in the landscape**, and the only car park is English Heritage's at the visitor centre, which costs **£4** (free if you have a ticket or are a member). So the free version works best on foot: it is about **1½ miles from Amesbury**, using the underpass beneath the A303 roundabout, or a mile from Durrington and Woodhenge.
 
-You also get a good look at the circle from the **A303** as you drive past, which is how most people in Britain have seen it. You cannot stop on that road, so treat it as a glimpse rather than a visit.
+You also get a good look at the circle from the **A303** as you drive past. You cannot stop on that road, so treat it as a glimpse rather than a visit.
 
 **Free is not the same as close.** Inside the fence you walk right up to the stones; from the byways you are a few hundred metres away and will want a zoom lens. If the point of the day is the stones themselves, pay.
 

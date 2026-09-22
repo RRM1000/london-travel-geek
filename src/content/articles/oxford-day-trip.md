@@ -217,7 +217,7 @@ The other genuine location is the Bodleian's **Divinity School**, which the libr
 
 **The Ashmolean** is free with no booking, on Beaumont Street. Its major exhibitions are ticketed — *In Bloom* now, *Aphrodite: The Making of a Goddess* from 8 October 2026 — and four Western Art galleries on the Level 3 mezzanine are closed for works until mid-October. Turner's *High Street* and Millais's *John Ruskin* were moved to Gallery 44 while that happens.
 
-**The Pitt Rivers and the Museum of Natural History share a building** on Parks Road, which is the single most efficient free hour in Oxford: dinosaurs and a dodo downstairs, 500,000 ethnographic objects up the back. Both free, neither ticketed. The Pitt Rivers opens at noon on Mondays, so a Monday morning is a Natural History morning.
+**The Pitt Rivers and the Museum of Natural History share a building** on Parks Road: dinosaurs and a dodo downstairs, 500,000 ethnographic objects up the back. Both free, neither ticketed. The Pitt Rivers opens at noon on Mondays, so a Monday morning is a Natural History morning.
 
 **The Covered Market** is where to eat without booking anything: over 50 independents, open from 8am, and until 10pm Thursday to Saturday.
 

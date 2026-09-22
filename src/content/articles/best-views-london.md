@@ -204,7 +204,7 @@ Manage your expectations. It is now surrounded by buildings four times its heigh
 
 **No booking needed** — tickets are sold at the door on the day. Numbers inside the tower are capped, so there can be a short wait even with a ticket in hand. Concessions, students and seniors pay £5.30, disabled visitors £5.30 with a free companion, under-5s free.
 
-> ⚠️ **It shuts for an hour at lunchtime**, 1pm to 2pm, with last entries at 12.30pm and 5.30pm. That catches people out more than the steps do. There is **no lift** and 311 spiral steps, and the site says plainly it is not suitable for anyone with mobility difficulties. There is no joint ticket with Tower Bridge, whatever you may have read.
+> ⚠️ **It shuts for an hour at lunchtime**, 1pm to 2pm, with last entries at 12.30pm and 5.30pm. That catches people out more than the steps do. There is **no lift** and 311 spiral steps, and the cathedral says plainly it is not suitable for anyone with mobility difficulties. There is no joint ticket with Tower Bridge, whatever you may have read.
 
 <div data-stay-strip></div>
 
@@ -216,7 +216,7 @@ The most expensive viewpoint on this page and the hardest work — **528 steps, 
 
 What you get is the Millennium Bridge axis, Tate Modern, the river and the City from the dome that everything else in the skyline is arranged around. All three galleries are included in the standard sightseeing ticket — there is no separate dome charge.
 
-**The £27 is the adult rate from 2 September 2026**, or £29.70 if you add the voluntary donation, £24 for seniors and students, £10.50 for children 6–17. A £24 summer rate ran from late June to 1 September and has just ended, so a figure you saw a fortnight ago will be out of date. **Tickets are £1** for UK visitors on Universal Credit, PIP or ESA.
+**The £27 is the adult rate from 2 September 2026**, or £29.70 if you add the voluntary donation, £24 for seniors and students, £10.50 for children 6–17. A £24 summer rate ran from late June to 1 September 2026, so any lower figure still quoted elsewhere is out of date. **Tickets are £1** for UK visitors on Universal Credit, PIP or ESA.
 
 > 💡 **Services are free.** The charge is for sightseeing, not for worship — you can attend Evensong without paying, though you will not be climbing the dome. The Golden Gallery also opens on Sundays from mid-March to late October, which it does not otherwise.
 
@@ -264,7 +264,7 @@ A guided walk across the palace roof, billed as the highest roof walk in the UK,
 
 Booking is through a separate site, summitallypally.co.uk, not the main Alexandra Palace ticketing — which is why people fail to find it. Climbs are released in waves rather than running to a daily timetable. **Minimum age 8**, and under-18s need an adult for every four of them.
 
-> ⚠️ **The £24.50 figure everyone quotes has expired.** It was a reduced-VAT "Family Summer Savings" rate valid 25 June to 1 September 2026, and Alexandra Palace's own page was still displaying it the day after it lapsed. The standard rate is not published on any static page — it only renders inside the booking widget. Get a quote before you plan around a price.
+> ⚠️ **The £24.50 figure everyone quotes has expired.** It was a reduced-VAT "Family Summer Savings" rate valid 25 June to 1 September 2026. The standard rate is not published: get a quote through the booking form before you plan around a price.
 
 Honest note: **the free terrace below gives you essentially the same panorama.** The Summit buys the climb and the statue, not a different view.
 
@@ -484,7 +484,7 @@ Lift access must be arranged with security at the main entrance and you have to 
 
 Terrace hours are **4pm–11pm Monday to Wednesday, to midnight Thursday, to 1am Friday, noon–1am Saturday and noon–11pm Sunday**, with last orders an hour before close. Two pages on their own site disagree about Friday opening — one says 4pm, the other 2pm.
 
-> ⚠️ **The terrace closes for the winter entirely.** Not "gets cold" — the site says service will not be available on the terrace during the winter months, with no dates given. Between roughly November and spring you are booking a bar with a window, not a rooftop. Cancel a restaurant booking inside 24 hours and there is a £20 per person charge, £10 for the bar.
+> ⚠️ **The terrace closes for the winter entirely.** Not "gets cold" — there is no service on the terrace during the winter months, and the dates are not published. Between roughly November and spring you are booking a bar with a window, not a rooftop. Cancel a restaurant booking inside 24 hours and there is a £20 per person charge, £10 for the bar.
 
 ### Duck & Waffle, City
 
@@ -567,6 +567,7 @@ The other two sites are **133A Rye Lane, Peckham SE15 4BQ** and **Manette Street
 
 ## Continue planning your London trip
 
+- 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the same roofs, sorted by whether the kitchen is any good
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🌳 **[London's Parks and Gardens](/articles/best-parks-gardens-london/)**

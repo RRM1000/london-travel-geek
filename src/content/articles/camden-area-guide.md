@@ -166,7 +166,7 @@ West of the High Street, and where Camden stops performing at you. **Inverness S
 ### Primrose Hill village
 North-west across the railway, and a different world within ten minutes' walk — pastel stucco terraces, independent shops along Regent's Park Road, and pubs that fill with people who live here rather than people visiting.
 
-**The hill itself is the reason to come.** It rises to about **63 metres** and the summit is **one of London's protected viewpoints**, which is a legal designation: the trees are kept low and nothing may be built that blocks the sightline to St Paul's and the City. It is free, always open, and one of the best skyline views in the city — busiest at sunset, and on New Year's Eve genuinely packed.
+**The hill itself is the reason to come.** It rises to about **63 metres** and the summit is **one of London's protected viewpoints**, which is a legal designation: the trees are kept low and nothing may be built that blocks the sightline to St Paul's and the City. It is free and busiest at sunset. It is not open around the clock all year: the hill is gated separately from The Regent's Park and the Royal Parks close it from 10pm to 6am on Friday, Saturday and Sunday nights between 3 April and 8 November, staying open 24 hours on weekdays. Bonfire night is a 10pm close, and the arrangements for New Year's Eve are announced each autumn.
 
 **Chalcot Crescent** stood in for the Brown family's house in the *Paddington* films. These are private homes, so photograph from the pavement and keep the noise down.
 

@@ -452,7 +452,7 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 
 **On the commercial side:** the Coaster Pass, Explorer Pass, Show Town Spectacular package and standalone Ride & Game Credit are all new, booking fees are now inclusive, and all three table packages — Gracy's VIP, Bavarian Hall and Mary & Me — gained a fourth drink per person.
 
-> ⚠️ **Parts of the official site still show last year's event.** As of 21 September 2026, the Show Town zone page still lists Zippos Christmas Circus and Cirque Berserk: Ignite!, neither of which is running this year. The help centre prices the Santa Land Unlimited Ride Pass at £25, which was last year's price; it is £27.50. The **tickets guide**, the **packages and passes page** and the individual **attraction pages** carry this year's figures. If a price you find elsewhere disagrees with this guide, check which page it came from.
+> ⚠️ **Two shows have gone, and one price has moved.** Zippos Christmas Circus and Cirque Berserk: Ignite! are **not running in 2026** — Gandeys has both circus slots — so ignore any listing that still offers them. The Santa Land Unlimited Ride Pass is **£27.50**, up from £25 last year.
 
 ![A hand holding a branded Hyde Park Winter Wonderland hot drinks cup, with the observation wheel out of focus behind](../../assets/articles/hyde-park-winter-wonderland/branded-cup.jpg)
 

@@ -70,7 +70,7 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 ---
 
-Bloomsbury is the quietest central district in London and the one with the most books in it. Between the British Museum, the University of London and a run of Georgian garden squares, it holds the country's densest concentration of libraries, bookshops and blue plaques.
+Bloomsbury is the quietest central district in London and the one with the most books in it. Between the British Museum, the University of London and a run of Georgian garden squares, it is dense with libraries, bookshops and blue plaques.
 
 Almost everyone comes for the British Museum and leaves immediately afterwards. The squares three minutes north are empty by comparison.
 

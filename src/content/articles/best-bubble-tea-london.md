@@ -26,7 +26,7 @@ faq:
     a: "Most of Chinatown's shops are takeaway counters. Pürcha on Kingsway and Charing Cross Road has proper seating and serves Taiwanese fried chicken. The Whale Tea on Queensway has a few tables and is two minutes from Hyde Park, and The Infatuation suggests taking your cup there."
 ---
 
-**London's bubble tea scene changes faster than the lists that cover it.** Four of Time Out's top ten, ranked in March 2026, aren't serving today. The Alley, named by more sources than any shop except Xing Fu Tang, no longer has a UK store. This guide includes only places we've confirmed are open.
+**London's bubble tea scene changes faster than the lists that cover it.** Four of Time Out's top ten, ranked in March 2026, aren't serving today. The Alley, named by more sources than any shop except Xing Fu Tang, no longer has a UK store. Everywhere on this page is trading.
 
 This page isn't our opinion. Every shop here is ranked by how many independent lists, blogs and video reviews name it.
 

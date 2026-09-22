@@ -35,9 +35,9 @@ faq:
 
 October is the month London's cultural year peaks, and then, in its last week, the month the city quietly turns the lights off. For the first three weeks that is a good trade: the summer crowds have gone, the autumn exhibitions and festivals are landing one after another, and the weather — cooler and wetter than September, but not yet given up on — still allows an evening outdoors.
 
-**Five ticketed art fairs run in the same city on the same days, in the middle of the month, and it is the densest cultural weekend of the year.** Frieze London and Frieze Masters take opposite ends of Regent's Park; PAD occupies Berkeley Square; 1-54 fills Somerset House; the Affordable Art Fair sets up in Battersea Park — and all of it lands inside the BFI London Film Festival's closing weekend. In 2026 that means Thursday 15 to Sunday 18 October carries all five fairs plus the festival's last four days at once. Hotel rates know it. The honest counterweight, and the thing most guides skip, is that Frieze Sculpture — the free outdoor half of Frieze — sits in the same park from mid-September to the start of November, no ticket required.
+**Five ticketed art fairs run in the same city on the same days, in the middle of the month, and it is the densest cultural weekend of the year.** Frieze London and Frieze Masters take opposite ends of Regent's Park; PAD occupies Berkeley Square; 1-54 fills Somerset House; the Affordable Art Fair sets up in Battersea Park — and all of it lands inside the BFI London Film Festival's closing weekend. In 2026 that means Thursday 15 to Sunday 18 October carries all five fairs plus the festival's last four days at once. Hotel rates know it. The counterweight is Frieze Sculpture — the free outdoor half of Frieze — which sits in the same park from mid-September to the start of November, no ticket required.
 
-**Then the month has a hinge, and everything after it plays by different rules.** The clocks go back at 2am on the last Sunday of October — in 2026 that's the 25th — and an hour of evening disappears overnight: sunset drops from about 5.50pm on the Saturday to about 4.48pm on the Sunday. That same Sunday, MCM Comic Con finishes its run at ExCeL and Diwali on the Square fills Trafalgar Square. School half term starts the next morning. Halloween — a Saturday in 2026, the best possible night for it — closes it all out. So the last eight days of the month are dark by teatime, full of children, and hosting the biggest free cultural event and the biggest convention of the month, all at once. If you can choose your dates, the first ten days of October are the easier trip.
+**Then the month has a hinge, and everything after it plays by different rules.** The clocks go back at 2am on the last Sunday of October — in 2026 that's the 25th — and an hour of evening disappears overnight: sunset drops from about 5.50pm on the Saturday to about 4.48pm on the Sunday. That same Sunday, MCM Comic Con finishes its run at ExCeL and Diwali on the Square fills Trafalgar Square. School half term starts the next morning. Halloween falls on a Saturday in 2026, and closes it all out. So the last eight days of the month are dark by teatime, full of children, and hosting the biggest free cultural event and the biggest convention of the month, all at once. If you can choose your dates, the first ten days of October are the easier trip.
 
 ## The story that carries over from September
 
@@ -49,7 +49,7 @@ October is the month London's cultural year peaks, and then, in its last week, t
 
 What you can do instead is free. The **Bayeux Tapestry Opening Festival** runs across the second weekend of the month: **Bayeux Late: medieval making** on **Friday 9 October, 5.30pm to 8.30pm**, drop in any time, non-ticketed; and the **Big Bayeux Bash** on **Saturday 10 and Sunday 11 October**, a weekend of free family activities inspired by the medieval world, first-come first-served. Contributors to the Friday session include Matilda Ngute of The Textile Club, Olivia Swarthout of Weird Medieval Guys, and master embroidery artist Bella Lane.
 
-**Neither event includes entry to the Tapestry itself** — the museum says so explicitly on both listings, and it is worth printing plainly, because it is the one thing that will catch people out. If you want priority entry during the festival's busy periods, book a free timed museum-entry ticket in advance; the main entrance is on Great Russell Street and there is a security and bag check.
+**Neither event includes entry to the Tapestry itself** — the museum says so explicitly on both listings. If you want priority entry during the festival's busy periods, book a free timed museum-entry ticket in advance; the main entrance is on Great Russell Street and there is a security and bag check.
 
 For your own visit, the two dates to know are **6 October**, when members' priority booking reopens, and **21 October**, the next general release — both covering visits from **1 January to 31 March 2027**. The exhibition's hours are unchanged: **Sunday to Wednesday 10am to 6pm, Thursday to Saturday 10am to 9pm.**
 
@@ -69,7 +69,7 @@ Pricing is tiered steeply by day: **Thursday's first preview runs £130 to £150
 
 *The Regent's Park, English Gardens · free, no ticket, 16 September to 1 November 2026*
 
-Almost no guide leads on this, and it is the most useful Frieze fact there is. **Frieze Sculpture is a free outdoor exhibition of large-scale work by the same organiser, in the same park, but it is not part of the ticketed fairs** — you can walk straight in. The 2026 edition is curated for a fourth year by Fatoş Üstek, in its fourteenth edition since the series began, with around a dozen international artists showing in the English Gardens.
+**Frieze Sculpture is a free outdoor exhibition of large-scale work by the same organiser, in the same park, but it is not part of the ticketed fairs** — you can walk straight in. The 2026 edition is curated for a fourth year by Fatoş Üstek, in its fourteenth edition since the series began, with around a dozen international artists showing in the English Gardens.
 
 It opened **16 September** and runs to **1 November**, bracketing the fairs on both sides. If you are not buying a Frieze ticket, this is the Frieze experience anyway — for nothing, at your own pace, for six and a half weeks.
 
@@ -89,7 +89,7 @@ The deliberate counterweight to Frieze, in the same week: contemporary work from
 
 *7 to 18 October 2026, the 70th edition*
 
-The UK's largest public film festival closes on the same Sunday Frieze Week ends. General booking runs from 10am on 17 September, so by October the obvious galas are largely gone — but a genuine second chance opens at **10am on 1 October**, when the festival releases a batch of held-back tickets, and it is worth more than most people assume. Standard tickets start at £10, or **£6 if you are 25 or under** through the free BFI 25 & Under scheme. Full dates, prices and the routes into a sold-out screening are in our [BFI London Film Festival guide](/articles/london-film-festival/).
+The UK's largest public film festival closes on the same Sunday Frieze Week ends. General booking runs from 10am on 17 September, so by October the obvious galas are largely gone — but a genuine second chance opens at **10am on 1 October**, when the festival releases a batch of held-back tickets. Standard tickets start at £10, or **£6 if you are 25 or under** through the free BFI 25 & Under scheme. Full dates, prices and the routes into a sold-out screening are in our [BFI London Film Festival guide](/articles/london-film-festival/).
 
 ![BFI Southbank's glass-panelled building on the South Bank, with BFI SOUTHBANK signage and a Cinemas and Box Office entrance, cars parked on the street outside under an overcast sky](../../assets/articles/london-film-festival/bfi-southbank-box-office.jpg)
 
@@ -106,6 +106,10 @@ A UK-wide observance — unlike the United States, which marks it in February. L
 ### Bloomsbury Festival — the whole of October, 40-plus venues
 
 The closest thing October has to Open House, and it runs the entire month rather than a single weekend. Music, performance, exhibitions, talks, walks and workshops across more than forty venues in Bloomsbury — squares, parks, museums, galleries, laboratories and university buildings not normally open to the public. A substantial share of it is free.
+
+### New Scientist Live — ExCeL, 10 to 12 October
+
+Forty-seven talks across four stages, ticketed, with **Saturday 10 and Sunday 11 October open to the public from 10am to 5pm** and **Monday 12 a Schools' Day** from 9.30am to 3pm. Speakers include Helen Sharman, the first British astronaut, Chris Packham, Alice Roberts and Tim Spector. Every talk is livestreamed and stays on demand for twelve months, so an online ticket is a real alternative to the DLR out to Custom House. October is the month the whole science calendar wakes up: [science events in London](/articles/science-events-london/) has the Royal Institution's autumn Discourses, the free Royal Society prize lectures and the pumping stations that steam on published dates.
 
 ### Dance Umbrella — three weeks from 7 October
 
@@ -171,7 +175,7 @@ Family options land squarely in the week. **Absurd City** opens at Westfield Lon
 
 *Full guide: [Halloween in London](/articles/halloween-london/)*
 
-31 October 2026 falls on a **Saturday**, the best possible night for it — scare attractions, club nights, ghost walks and one-off parties all run at full strength rather than being squeezed onto the nearest weekend. In most years the season around it peaks across half-term week rather than on the 31st itself; because this year's 31st is a Saturday, the night itself is genuinely the peak too. Our Halloween guide has the scare attractions worth a train fare, the ones that don't need one, and where you can still hire a proper costume this late.
+31 October 2026 falls on a **Saturday** — scare attractions, club nights, ghost walks and one-off parties all run at full strength rather than being squeezed onto the nearest weekend. In most years the season around it peaks across half-term week rather than on the 31st itself; because this year's 31st is a Saturday, the night itself is genuinely the peak too. Our Halloween guide has the scare attractions worth a train fare, the ones that don't need one, and where you can still hire a proper costume this late.
 
 ## Exhibitions closing this month
 
@@ -196,8 +200,6 @@ A free display in Room 33, on Floor 0, ending the day after half term begins.
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Exhibitions opening this month
-
-October has the year's biggest opening cohort to match its closing one.
 
 ### Korea — British Museum, from 1 October
 
@@ -231,7 +233,7 @@ Also worth knowing: **Declaring Independence: USA 250** at the British Museum ha
 
 ## Theatre: what's closing, and what's opening
 
-September's guide covered openings only — the less urgent half. A closing date is what makes someone book this week rather than filing a show away for "sometime." October is a heavy closing month, because the autumn press-night wave that filled September's stages is now pushing the summer's holdovers out.
+A closing date is what makes someone book this week rather than filing a show away for "sometime." October is a heavy closing month, because the autumn press-night wave that filled September's stages is now pushing the summer's holdovers out.
 
 ### What's closing
 
@@ -273,13 +275,13 @@ The New York jazz club's first UK venue, which opened on St Martin's Lane in Sep
 
 ## Gigs worth planning around
 
-Not a listings page — see the Blue Note run above for the room defining October's jazz calendar. Beyond that, Alexandra Palace carries the month: **Beth Orton on 22 October**, **Fat Freddy's Drop on 23 October**, the **Crouch End Festival Chorus performing Mozart's Requiem on 25 October** — the cheapest way into the building, and a good pairing with Diwali on the Square earlier that same day — **Overmono on 28 October**, and **Skindred closing out Halloween night, 31 October**.
+The Blue Note run above is October's jazz calendar. Beyond it, Alexandra Palace carries the month: **Beth Orton on 22 October**, **Fat Freddy's Drop on 23 October**, the **Crouch End Festival Chorus performing Mozart's Requiem on 25 October** — the cheapest way into the building, and a good pairing with Diwali on the Square earlier that same day — **Overmono on 28 October**, and **Skindred closing out Halloween night, 31 October**.
 
 **Angine de Poitrine play the Troxy on Monday 19 October**, and it has sold out, which shows how far a joke can travel. The anonymous Quebec duo, Khn de Poitrine on guitar and bass and Klek de Poitrine on drums, perform in oversized papier-mâché masks and polka-dot suits and play microtonal math rock: music built from the notes that fall between the frets of an ordinary guitar. The band began as a gag for a local venue in Saguenay; a live set KEXP released in February passed millions of views and turned it into an international tour. Ticketmaster has none left, but will email if more are released. Over-14s, doors 7pm.
 
 ## New restaurants and bars
 
-The most perishable section on this page: where a restaurant has not named its opening day, treat the month as a guide rather than a booking.
+Where a restaurant has not named its opening day, treat the month as a guide rather than a booking.
 
 **Cloth Cornhill** (38½ Cornhill, EC3V 9DR) opens **1 October**, the second site from the Cloth restaurants group, taking over the building that was Simpson's Tavern — the City's oldest chophouse, trading on the site since 1757, closed since 2022 — with some dishes paying homage to it. The first-floor restaurant takes bookings up to 90 days ahead; the ground-floor pub is walk-in only.
 

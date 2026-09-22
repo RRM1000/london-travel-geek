@@ -51,7 +51,7 @@ London's historic interiors range from a royal palace to a chapel that is the la
 
 ## House museums
 
-### Sir John Soane's Museum, Bloomsbury
+### Sir John Soane's Museum, Holborn
 
 *Free · Lincoln's Inn Fields · closed Mon and Tue*
 

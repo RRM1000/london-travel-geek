@@ -181,7 +181,7 @@ Open seven days, and there is a cocktail bar hidden upstairs.
 
 ## The outsides
 
-### The Churchill Arms, Kensington — the most-photographed pub in London
+### The Churchill Arms, Kensington — flowers in summer, Christmas trees in December
 
 *Notting Hill Gate · Cited by 7 sources · CAMRA National Inventory, two stars · [the pub's site](https://www.churchillarmskensington.co.uk/)*
 
@@ -295,7 +295,7 @@ Two pubs from the same owners, recognised in the same year. **The Cadogan Arms**
 
 *CAMRA's judges singled out this ceramic bar front carrying the old Allsopp's brewery trademark when the pub won the 2026 conversion award.*
 
-**A pub in the building that used to be the Kensington Wine Rooms**, and the 2026 conversion winner. CAMRA's judges point to the half-height partitions and glazed screens that break up the room, new fixed seating, and a ceramic bar front carrying the old Allsopp's brewery trademark. It is the Allsopp's brewery's pub, open every day from noon, at 127–129 Kensington Church Street — **a short walk up the same street from The Churchill Arms**, so see both together. Its win is the clearest sign that a beautiful pub does not have to be an old one.
+**A pub in the building that used to be the Kensington Wine Rooms**, and the 2026 conversion winner. CAMRA's judges point to the half-height partitions and glazed screens that break up the room, new fixed seating, and a ceramic bar front carrying the old Allsopp's brewery trademark. It is the Allsopp's brewery's pub, open every day from noon, at 127–129 Kensington Church Street — **a short walk up the same street from The Churchill Arms**, so see both together.
 
 ### Also recognised
 

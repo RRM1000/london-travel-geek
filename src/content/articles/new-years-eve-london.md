@@ -32,7 +32,7 @@ faq:
     a: "1pm to 4.30pm on Friday 1 January 2027, with all grandstands opening at 12 noon. The route runs from just off Piccadilly near Green Park station, along Regent Street St James's, Pall Mall, past Trafalgar Square and down Whitehall to finish at Parliament Square."
 ---
 
-**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and as of 13 September 2026, not a single ticket for 31 December 2026 has gone on sale.** City Hall has now published [its page for the 2026 display](https://www.london.gov.uk/events/london-new-years-eve-2026), which confirms the fireworks return on Thursday 31 December, running 8pm to 12.30am, and says only that a date for the ticket release "will be announced soon". The Mayor's shortlink, london.gov.uk/nye, still redirects to last year's page.
+**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and as of 13 September 2026, not a single ticket for 31 December 2026 has gone on sale.** City Hall has now published [its page for the 2026 display](https://www.london.gov.uk/events/london-new-years-eve-2026), which confirms the fireworks return on Thursday 31 December, running 8pm to 12.30am, and says only that a date for the ticket release "will be announced soon".
 
 That matters, because the internet is already full of New Year's Eve guides quoting prices, on-sale dates and free viewpoints that belong to previous years. This guide separates what is genuinely confirmed for **Thursday 31 December 2026** and **Friday 1 January 2027** from what nobody knows yet.
 

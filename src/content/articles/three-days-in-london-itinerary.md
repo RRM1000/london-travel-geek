@@ -31,7 +31,7 @@ heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ---
 
-Most three-day London plans list famous things without checking whether they sit near each other, and you end up on the Tube four times a day.
+A three-day plan that lists famous things without checking whether they sit near each other puts you on the Tube four times a day.
 
 This plan groups by geography. Days 1 and 2 are walkable end to end. Every walking time below is the one [TfL's journey planner](https://tfl.gov.uk/plan-a-journey/) gives, which runs a little slower than most people actually walk, so treat them as the outside figure. Prices and opening hours are the operators' own, read on 21 September 2026.
 
@@ -90,7 +90,7 @@ Not on the bridge approaches, where the prices are set for people who will never
 
 *Fifteen minutes, one kilometre, from the Clive Steps across the lake.* The bridge over the lake gives you the view of the palace that ends up on postcards, with the London Eye behind you the other way.
 
-**Changing the Guard at Buckingham Palace is at 11am on Monday, Wednesday and Friday**, per the Household Division's own [calendar](https://www.householddivision.org.uk/changing-the-guard-calendar). Two variations most guides miss: **there is a Sunday Parade at 10am**, and on Tuesday, Thursday and Saturday the palace runs a **Captain's Inspection at 3pm** instead — shorter, much less crowded, and with a band on most days.
+**Changing the Guard at Buckingham Palace is at 11am on Monday, Wednesday and Friday**, per the Household Division's own [calendar](https://www.householddivision.org.uk/changing-the-guard-calendar). Two variations to know: **there is a Sunday Parade at 10am**, and on Tuesday, Thursday and Saturday the palace runs a **Captain's Inspection at 3pm** instead — shorter, much less crowded, and with a band on most days.
 
 It only fits alongside the Abbey if you do the Abbey second. The view worth having is from the Victoria Memorial steps.
 

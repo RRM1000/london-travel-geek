@@ -25,7 +25,7 @@ faq:
     a: "The walking itself is 2.6km and about 35 minutes. Realistically it is a half day, because most of the eleven stops are markets you go into rather than buildings you look at — and if you do Columbia Road properly at 8am and finish at Petticoat Lane, it fills a Sunday morning and most of the afternoon."
 ---
 
-Almost every guide to this part of London tells you where to go. Very few tell you **which day**, and here that is the only question that matters.
+In this part of London the question is not where to go. It is **which day**.
 
 Columbia Road exists on a Sunday and does not exist on a Tuesday. The Brick Lane street market is a Sunday. Four of the Old Truman Brewery's eight markets are weekends only. Christ Church Spitalfields opens its doors to visitors for three hours a week. Petticoat Lane is two different markets on two different streets depending on whether it is a weekday or a Sunday. Turn up on a Wednesday with a Sunday itinerary and you will walk past a lot of shutters.
 
@@ -102,7 +102,7 @@ Two minutes further and the tone changes completely.
 
 **Redchurch Street is the design end of Shoreditch** — a short run of independent fashion, skincare, homeware and coffee, the sort of street where a shop sells eight objects and every one of them is beautifully lit. Ten minutes end to end.
 
-The reason it is on the route rather than in a shopping guide is what runs off it. **Chance Street and the alleys around it carry the densest concentration of murals in the area**, and they are repainted constantly. This is where the street art tours end up and where you are most likely to find someone actually working on a wall on a weekday morning.
+The reason it is on the route rather than in a shopping guide is what runs off it. **Chance Street and the alleys around it are walled with murals**, and they are repainted constantly. This is where the street art tours end up and where you are most likely to find someone actually working on a wall on a weekday morning.
 
 **Do not come with a list.** Pieces here last months rather than years. The mural you saw online has a decent chance of being gone, and the one that replaced it is the point.
 
@@ -127,7 +127,7 @@ So "the 24-hour bagel place on Brick Lane" sends you to a street with two bagel 
 
 ## 5. The Old Truman Brewery
 
-Brewing stopped here in 1989. What replaced it is the single most confusing thing in east London to plan around, so here it is properly.
+Brewing stopped here in 1989. What replaced it is hard to plan around, so here it is in full.
 
 **The brewery's own site currently lists eight separate markets** across the buildings on both sides of Brick Lane, and **they do not run on the same days**:
 
@@ -264,7 +264,7 @@ So the weekday version is a lunch market and the Sunday version is a clothing ma
 
 Worth its own section because it is nothing like anything else on this walk, and because it only runs three days a week.
 
-**18 Folgate Street**, two minutes off the route between stops 9 and 10. A Georgian house arranged as though the eighteenth-century family living in it has just walked out of the room — fires lit, food on the table, chamber pots, the sound of the street outside. It is not a museum with labels. It is a made thing, and it is unlike anything else in the city.
+**18 Folgate Street**, two minutes off the route between stops 9 and 10. A Georgian house arranged as though the eighteenth-century family living in it has just walked out of the room — fires lit, food on the table, chamber pots, the sound of the street outside. It is not a museum with labels; there is nothing to read and nothing roped off.
 
 **Day visits run Friday, Saturday and Sunday**, in timed slots between **12pm and 3.15pm**, and last about 45 minutes. **£16 plus a £1.50 booking fee.** Friday and Saturday are the Relaxed Day Visit, where talking is allowed; Sunday is the Silent Day Visit, which is done without speaking. A Silent Night Visit at £25 and evening performances — the Dennis Severs' Tour at £75, for no more than seven people — appear on the same booking calendar.
 

@@ -55,7 +55,7 @@ Some of the better-known certified rooms, to show it is not all chicken shops: *
 
 **Read it yourself at [halalhmc.org/outlets-by-name](https://halalhmc.org/outlets-by-name/)**, and note the date you read it — certification lapses and is withdrawn, so a register is a statement about a day rather than a permanent fact.
 
-A note on the other body. The **Halal Food Authority** is the UK's other major certifier, but it publishes no consumer-facing list of certified restaurants; its site is built for businesses seeking certification of food production, cosmetics and pharmaceuticals. So HMC's register is the only one a diner can actually check.
+A note on the other body. The **Halal Food Authority** is the UK's other major certifier, but it publishes no consumer-facing list of certified restaurants — it certifies food production, cosmetics and pharmaceuticals for businesses rather than listing venues for diners. So HMC's register is the only one a diner can actually check.
 
 ## Restaurants that state a certification
 

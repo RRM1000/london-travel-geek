@@ -29,17 +29,17 @@ faq:
     a: "Two to three hours at a walking pace with short stops, covering roughly 4km from Westminster Bridge to Trafalgar Square. Add two hours if you go into Westminster Abbey and another two for the Churchill War Rooms, which the Imperial War Museums recommend allowing at least that long for."
 ---
 
-Nowhere in London gets photographed more and entered less. People come out at Westminster station, take the picture of the tower, walk up Whitehall past the gates of Downing Street, take the picture of Trafalgar Square and leave — having spent two hours looking at the outside of buildings.
+People come out at Westminster station, take the picture of the tower, walk up Whitehall past the gates of Downing Street, take the picture of Trafalgar Square and leave — having spent two hours looking at the outside of buildings.
 
 **This walk is about the doors.** Half the good things in this postcode are free and require nothing but walking through one: a working supreme court opposite Parliament, the public galleries of the House of Commons, a park bridge with the best free view in central London, and a parade ground you can stand on.
 
 It runs **Westminster Bridge to Trafalgar Square**, west through the park to Buckingham Palace and back east along The Mall. About **4km, two to three hours** with stops, flat the whole way. Nine of the eleven stops cost nothing.
 
-It also has the sharpest day-of-the-week problem in London. **The guard only changes on Monday, Wednesday and Friday** — at the Palace and at Horse Guards both. Turn up on a Tuesday and you get an inspection instead.
+The day of the week decides a lot of it. **The guard only changes on Monday, Wednesday and Friday** — at the Palace and at Horse Guards both. Turn up on a Tuesday and you get an inspection instead.
 
 For the wider area — the Cathedral, Millbank, where to eat, where to stay — see the [Westminster area guide](/articles/westminster-area-guide/). This is the walking route version of it.
 
-> 💡 **The Short Version:** Go on a **Monday, Wednesday or Friday** — the only days the guard changes rather than being inspected. Start on **Westminster Bridge**, finish at **Trafalgar Square**. The thing almost nobody does is walk into the **Supreme Court**, which is free, open weekdays and directly across the square from Parliament. **Watching a Commons debate is free too.** And if you are walking in the afternoon, be at **Horse Guards for 4pm**: there is a dismounted inspection every single day and it is the least-known ceremony in London.
+> 💡 **The Short Version:** Go on a **Monday, Wednesday or Friday** — the only days the guard changes rather than being inspected. Start on **Westminster Bridge**, finish at **Trafalgar Square**. The thing almost nobody does is walk into the **Supreme Court**, which is free, open weekdays and directly across the square from Parliament. **Watching a Commons debate is free too.** And if you are walking in the afternoon, be at **Horse Guards for 4pm**: there is a dismounted inspection every single day, and no crowd for it.
 
 ## The route
 
@@ -175,7 +175,7 @@ There is a **café inside, open daily 10am to 5pm**, in the room the switchboard
 
 Out of the Clive Steps, across Horse Guards Road, and into the oldest of the Royal Parks. **Pedestrian gates are open 5am to midnight** and there is no charge.
 
-**Walk to the bridge over the lake.** It is the best free view in central London and it works in both directions: Buckingham Palace framed at the western end, and at the eastern end a skyline of turrets and pinnacles above the trees that looks like nowhere in England. That is the back of Whitehall, and almost nobody recognises it.
+**Walk to the bridge over the lake.** The view works in both directions: Buckingham Palace framed at the western end, and at the eastern end a skyline of turrets and pinnacles above the trees that looks like nowhere in England. That is the back of Whitehall, and almost nobody recognises it.
 
 **There are pelicans**, and they have been here since **1664**, when a pair was presented to Charles II by the Russian Ambassador. More than forty have lived in the park since. The Royal Parks feed them fish **daily, usually around 2.30pm**, and there are **extra feeds at the moment because of pelican chicks** — so an afternoon walk has a decent chance of catching one.
 
@@ -226,7 +226,7 @@ Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which 
 | **Sat, Sun** | The duty officer's inspection at **11am** — ten to fifteen minutes |
 | **Every day** | **The dismounted inspection at 4pm**, after which the guard comes off duty |
 
-**The 4pm inspection is the one to know about.** It happens seven days a week, in the front yard on the Whitehall side, it takes about ten minutes, and there is no crowd whatsoever — because it is not in any of the guidebooks. Two mounted sentries stand at the Whitehall entrance **from 10am until 4pm** and are changed every hour, so there is always a horse there in daylight.
+**The 4pm inspection is the one to know about.** It happens seven days a week, in the front yard on the Whitehall side, it takes about ten minutes, and there is no crowd whatsoever. Two mounted sentries stand at the Whitehall entrance **from 10am until 4pm** and are changed every hour, so there is always a horse there in daylight.
 
 ![The Horse Guards building on a quiet afternoon, with tourists on the parade ground and the London Eye visible behind](../../assets/articles/westminster-walk/horse-guards-parade-building.jpg)
 
@@ -266,7 +266,7 @@ Worth its own section because it is nothing like anything else on this walk, and
 
 ## Where to eat
 
-The area guide is blunt about this and it is right: **the restaurants immediately around Westminster Bridge are the worst value in central London.** They exist because everyone walks past them once and nobody comes back. Three better answers, and the choice is decided by where you are on the route rather than by the food.
+**The restaurants immediately around Westminster Bridge are poor value.** They exist because everyone walks past them once and nobody comes back. Three better answers, and the choice is decided by where you are on the route rather than by the food.
 
 **St James's Café — the middle of the walk.** By the lake at stop seven, **8am to 6.30pm seven days**, with outdoor seating and the park around it. It is the only eating stop on this route with no day-of-the-week catch at all, and it lands at roughly the halfway point.
 

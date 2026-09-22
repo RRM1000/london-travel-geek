@@ -156,7 +156,7 @@ Two plaques are a minute apart. **Friedrich Engels** lived at 122 Regent's Park 
 
 **The second view, and the finish.** At 64 metres Primrose Hill is lower than Parliament Hill, but it is a different view rather than a repeat: central London straight ahead, Hampstead and Belsize Park behind you, and a William Blake quotation engraved in the paving at the summit.
 
-The Royal Parks keep it **open 24 hours on weekdays**. In summer it is **locked from 10pm to 6am on Friday, Saturday and Sunday nights**.
+The Royal Parks keep it **open 24 hours on weekdays**. From **3 April to 8 November** it is **locked from 10pm to 6am on Friday, Saturday and Sunday nights**.
 
 It is at its best at golden hour. Regent's Park is across Prince Albert Road at the bottom if you want to keep walking.
 

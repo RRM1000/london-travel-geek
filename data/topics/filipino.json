@@ -1,0 +1,71 @@
+{
+  "topic": "filipino",
+  "article": "src/content/articles/best-filipino-restaurants-london.md",
+  "headTerm": "Filipino Restaurants",
+  "note": "Written 22 September 2026. The newest of London's significant food scenes and the least covered. One judged award reaches it - Donia's Bib Gourmand in the 2026 Michelin Guide - so the social floor is two independent voices; this pass carries sixteen, all YouTube, against ten published sources, which is 62% social and inside the 70% ceiling. The published lists agree with each other about six restaurants; the video tier is where the canteens, the bakeries and the whole Earl's Court end of the topic came from, and four of the guide's entries are named by no masthead at all.",
+  "awardBodies": [
+    {
+      "name": "MICHELIN Guide",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/gb/en/greater-london/london/restaurants/filipino",
+      "note": "READ THIS BEFORE COLLECTING. data/sources.json lists this domain under blocked.permanent403 and that is WRONG. It is a user-agent problem: plain `curl -sL` with NO -A flag returns 200 and the full HTML, while a Chrome user agent returns HTTP 202 with an empty body. The cuisine filter above is the primary results page for this topic and returns exactly two London restaurants - Donia, a Bib Gourmand in the 2026 Great Britain & Ireland guide, and BELLY, listed with a Plate and tagged an inspectors' favourite. The three other cards on that page are the 'nearby' rail, not results: MRBL is Meats and Grills, Bar des Pres - Mayfair is Asian Influences, and AO by Daniel Rogan is in Southampton. Fourteen other Filipino venue slugs were tried and all 404. Restaurant pages carry the inspector's note, the cuisine label, the price band and the week's opening hours."
+    }
+  ],
+  "awardBodiesRuledOut": [
+    "There is no Filipino-specific restaurant award in Britain. Checked the Asian Curry Awards (South Asian and pan-Asian categories, no Filipino one), the National Restaurant Awards (ranks restaurants, not cuisines - printing its rank here would be trap 7) and Harden's, whose /london-restaurants/cuisine/filipino/ is a 404: it publishes no Filipino cuisine page at all.",
+    "The Philippine Michelin Guide launched in October 2025 with one two-star and eight one-star restaurants, and Michelin publishes Filipino features constantly - but those are Manila and Cebu. Scoping them to London would be trap 12."
+  ],
+  "editorialLists": [
+    {
+      "name": "Eater London",
+      "domain": "london.eater.com",
+      "ranked": false,
+      "note": "The widest list in the set at fourteen names, and the oldest: updated 10 October 2022, and Eater London stopped publishing in February 2023. Two of its names have since gone. Treat every fact in it as needing a re-check against the operator."
+    },
+    { "name": "Time Out", "domain": "timeout.com", "ranked": false, "note": "No Filipino list. Four separate pages - Belly Bistro and Panadera Soho at five stars, Donia at four, plus a Kasa and Kin listing. Star ratings are not a published order, so no rank." },
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": true, "note": "No Filipino guide either, but its Top 25 IS ranked 1-25 and two of the twenty-five are Filipino: Belly Bistro at #13 and Donia at #18. That is the single most useful ranked fact in the topic." },
+    { "name": "DesignMyNight", "domain": "designmynight.com", "ranked": false, "note": "Numbered 1-10 and NOT an order - read the intro before recording a rank." },
+    { "name": "Secret London", "domain": "secretldn.com", "ranked": false },
+    { "name": "London x London", "domain": "londonxlondon.com", "ranked": false, "note": "NEW DOMAIN, tier C. Heavy overlap with Eater's list, but separately written with its own dishes and prices." },
+    { "name": "The Nudge", "domain": "thenudge.com", "ranked": false, "note": "Client-rendered, as the breakfast topic already records: curl returns the app shell, so names and quotes come from each page's title and meta description." },
+    { "name": "Hot Dinners", "domain": "hot-dinners.com", "ranked": false },
+    { "name": "Tower Hamlets Slice", "domain": "towerhamletsslice.co.uk", "ranked": false, "note": "NEW DOMAIN, tier C. A Tower Hamlets local title, and the only source anywhere that interviewed a Filipino chef in London about his own menu." },
+    { "name": "Kentishtowner", "domain": "kentishtowner.co.uk", "ranked": false, "note": "DECLINED, not recorded. Its Belly Bistro review ends 'Thanks to Belly for hosting us on this occasion.' A comped visit is the venue's own marketing. The title is worth keeping in mind for north London, but check the last line of every review before counting it." }
+  ],
+  "facetAxis": {
+    "field": "format",
+    "note": "Filipino London splits by format, not by region of the Philippines. Almost nobody here cooks to a single province, and the real difference a reader feels is between a tasting-menu-adjacent dining room and a counter where you point at trays.",
+    "values": [
+      { "key": "modern", "label": "Modern Filipino dining room", "describeAs": "a short menu of sharing plates that reworks home dishes with British produce" },
+      { "key": "kainan", "label": "Kainan and carinderia", "describeAs": "a family canteen cooking the dishes a Filipino household eats on a weekday" },
+      { "key": "kamayan", "label": "Kamayan feast", "describeAs": "rice and grilled meat tipped onto banana leaves down the middle of the table and eaten with your hands, no cutlery" },
+      { "key": "bakery", "label": "Bakery and café", "describeAs": "pandesal, ube pastries and Filipino coffee, open from the morning" },
+      { "key": "grill", "label": "Grill and barbecue", "describeAs": "chicken inasal and pork skewers over charcoal, usually with garlic rice" },
+      { "key": "counter", "label": "Counter and fast food", "describeAs": "a rice box or a fried chicken meal, ordered at a till" }
+    ]
+  },
+  "formatSection": {
+    "title": "Little Manila: Earl's Court",
+    "note": "Three streets - Earl's Court Road, Kenway Road and Hogarth Road - carry more Filipino businesses than the rest of central London put together, and the UK's first Jollibee. No competitor treats it as a category, and it is the only part of this topic where a reader can walk between four places in ten minutes."
+  },
+  "knownGaps": [
+    "Community tier (E) is empty. Reddit is blocked in this environment. Record any thread Rob supplies by hand.",
+    "TikTok could not be searched. Every search engine that indexes it refused this environment - DuckDuckGo rate-limited after two queries, Bing returned single-token junk, Mojeek and every SearXNG instance served a captcha - and tiktok.com's own hashtag pages render client-side. All 16 video sources are therefore YouTube. TikTok is where the Filipino bakery and ube content actually lives, so this is the biggest single gap in the pass.",
+    "No address found for Adela's Carinderia, Inihaw (Charlton), D'Cocina or Chicken & Drinks. All four are in the sources and deliberately off the page. Ligaya, a Filipino bakery named by one channel six years ago, is the same case.",
+    "Luto by Mary San Pablo is a supper club rather than a restaurant and has no fixed site. Recorded, not carried.",
+    "Bunso, Omar Shah's Filipino bakery and pizzeria on Kentish Town Road, is announced but had not opened at the time of writing. It belongs in the new openings section on the next pass.",
+    "Prices: only London x London (around £20 for a starter, main and side at Cirilo; £15.99 a head for the Kamayan boodle fight) and Kentishtowner (£8-31 a plate at Belly, though that review is declined as a hosted meal) publish figures. Most of the page's prices come from the operators' own menus."
+  ],
+  "openVenueQuestions": [
+    "Lutong Pinoy at 10 Kenway Road and Kamayan sa Earl's Court at 12 Kenway Road are next door to each other and DELIBERATELY NOT MERGED. Two businesses, two sites, two owners, two menus - Lutong Pinoy founded by Mario Malata in 1996, Kamayan trading as Kamayan London. A wrong merge here would be invisible.",
+    "Kamayan sa Earl's Court: sources call it Kamayan Sa, Kamayan sa Earls Court and Kamayan London; its own site is branded Kamayan London on the domain kamayansaearlscourt.co.uk. Carried as Kamayan sa Earl's Court because that is what its Instagram, Eater and London x London all use. Rob may prefer Kamayan London.",
+    "Bintang is filed by Eater and London x London as Filipino and by Time Out's Belly review as 'a great Thai spot'. Its own site now reads 'London's oldest Filipino restaurant, in Camden Town since 1987'. The page follows the operator.",
+    "Mama's Kubo, 250 Finchley Road, is named by four sources and its own site records it as closed for renovation works from 12 January 2026 with no reopening date. The page says so in one line. Worth a phone call before the next pass.",
+    "Kasa and Kin's own Book a Table button points at sevenrooms.com/reservations/kasaandkin, which 404s. The page links the restaurant's own site instead and does not promise a booking screen. Worth telling them.",
+    "Sarap - Budgie Montoya's modern Filipino restaurant, reviewed by the Guardian in January 2022 - has no trading site: Sarap Baon in Brixton closed in April 2022, the Heddon Street site was a pop-up, and Apoy at Market Halls Oxford Street closed in January 2025 when he announced a pause. Recorded by Eater, off the page. If he reopens, it belongs at the top of it.",
+    "Romulo Café & Restaurant closed in January 2024 and is still named by four of the sources here, including two published in 2023 and 2024. It needs an entry in data/closed.json or it will keep accruing citations.",
+    "Panadera has two sites, 3 Hopkins Street in Soho and 7 Picton Place in Marylebone, and the Kentish Town original closed in January 2025. Sources name all three; carried as one venue."
+  ]
+}

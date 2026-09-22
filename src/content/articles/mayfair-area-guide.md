@@ -78,7 +78,7 @@ Mayfair has its own share of the commemorative plaques marking where notable peo
 
 ## Why visit — and who should skip it
 
-**Come here if** you like architecture or art. Mayfair has more free galleries per street than anywhere else in London, the best-preserved Georgian grid in the centre, and four Victorian arcades you can walk through for nothing.
+**Come here if** you like architecture or art. Mayfair has a Georgian grid that survived largely intact, dozens of free commercial galleries, and four Victorian arcades you can walk through for nothing.
 
 **Skip it if** you want to eat or drink cheaply. This is the most expensive postcode in Britain and it shows on every menu. It is also quiet in the evening — most of Mayfair is offices and embassies once the shops shut.
 
@@ -104,7 +104,7 @@ Old Bond Street at the Piccadilly end, New Bond Street running north to Oxford S
 
 **Sotheby's at 34–35 New Bond Street is the free one.** Auction viewings are open to the public, no ticket and no appointment, in the days before a sale — you can walk in off the street and stand in front of things that will sell for millions. Over the door is a black granite **Egyptian statue of Sekhmet, around 1320 BC**, the oldest outdoor object in London and older than anything in the British Museum's frontage.
 
-**Allies**, the bench sculpture of Roosevelt and Churchill mid-conversation, sits halfway along and is the most photographed thing on the street.
+**Allies**, the bench sculpture of Roosevelt and Churchill mid-conversation, sits halfway along, and you can sit down between them.
 
 **It is a weekday street.** The galleries and auction houses keep office hours and close at weekends, when only the shops are open. Bond Street station is at the north end, Green Park at the south.
 

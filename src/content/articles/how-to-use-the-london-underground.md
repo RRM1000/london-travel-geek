@@ -23,7 +23,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
-The London Underground—famously known as **the Tube**—is the world's oldest underground railway network and the fastest way to travel across Central London. With 11 color-coded lines serving 272 stations, it can look intimidating on a map, but the basic routine is simple once you know the rules.
+The London Underground—**the Tube**—is the world's oldest underground railway network and the fastest way to travel across Central London. It runs 11 colour-coded lines serving 272 stations.
 
 > 💡 **First-Time Tube Snapshot:**  
 > - **How to Pay:** Tap in and tap out at ticket barriers using the exact same contactless bank card, phone (Apple/Google Pay), or Oyster card.  
@@ -37,9 +37,7 @@ The London Underground—famously known as **the Tube**—is the world's oldest 
 
 The eleven Tube lines differ more than the map suggests — some are air-conditioned and some are not, some run all night and most do not, and a few are far easier to navigate than others.
 
-Rather than repeat it here, that comparison lives in one place: **[the Tube and rail lines guide](/articles/london-tube-and-rail-lines-guide/)** rates all eleven on crowding, comfort, air-conditioning, Night Tube and ease of use, and lists the attractions each one serves with the station and the best exit.
-
-The rest of this page is about using the network once you have picked a line.
+**[The Tube and rail lines guide](/articles/london-tube-and-rail-lines-guide/)** rates all eleven on crowding, comfort, air-conditioning, Night Tube and ease of use, and lists the attractions each one serves with the station and the best exit.
 
 ## How to pay: Contactless vs. Oyster
 
@@ -53,7 +51,7 @@ For almost all adult visitors, tapping a **contactless bank card or mobile walle
 
 > ⚠️ **Critical Payment Rules:**  
 > 1. **Use the exact same device:** Tapping in with a physical bank card and tapping out with Apple Pay on your phone counts as two separate cards. You will be charged two incomplete maximum fares (£9.40 each)!  
-> 2. **One card per person:** Every traveler over 11 must tap their own separate card or phone. Two people cannot share one card.  
+> 2. **One card per person:** Every traveller over 11 must tap their own separate card or phone. Two people cannot share one card.  
 > 3. **Avoid Card Clash:** Keep your payment card separate from other contactless cards so the yellow reader doesn't charge the wrong card.
 
 For full pricing details, peak hours, and Travelcard comparisons, read our complete guide to [London Transport Fares and Costs 2026](/articles/london-public-transport-costs-and-fares/).
@@ -72,8 +70,8 @@ For full pricing details, peak hours, and Travelcard comparisons, read our compl
 
 Look for the famous red-and-blue Underground roundel outside. Touch your card or device flat against the **yellow reader** on the right side of the ticket barrier. Wait for the green light and a single chime before walking through. Use the wider gates if carrying large luggage or a stroller.
 
-### Step 2: Follow the color-coded line signs
-Inside the station, follow the overhead signs matching your line's color. Directional signs indicate the compass heading and final destination (e.g. *"Piccadilly line Eastbound towards Cockfosters"*).
+### Step 2: Follow the colour-coded line signs
+Inside the station, follow the overhead signs matching your line's colour. Directional signs indicate the compass heading and final destination (e.g. *"Piccadilly line Eastbound towards Cockfosters"*).
 
 ![Two Jubilee line direction signs at Waterloo, one reading Eastbound platform 6 and one Westbound platform 5, each listing every station in that direction, with a Night Tube panel below](../../assets/articles/how-to-use-the-london-underground/waterloo-jubilee-direction-signs.jpg)
 
@@ -97,7 +95,7 @@ Electronic digital displays on the platform show the destination and arrival tim
 * **Move inside:** Walk down the aisle inside the carriage to make space for others near the doors.
 
 ### Step 5: Interchanging between lines
-If your route requires changing lines (e.g., from the Victoria line to the District line), follow the colored transfer signs (*"Way Out & Line Transfers"*). You remain inside the ticketed area and **do not touch out** during an interchange.
+If your route requires changing lines (e.g., from the Victoria line to the District line), follow the coloured transfer signs (*"Way Out & Line Transfers"*). You remain inside the ticketed area and **do not touch out** during an interchange.
 
 ### Step 6: Touch out at your final station
 Touch the exact same card or device to the yellow reader at your exit station barrier to complete your journey and calculate your fare.
@@ -108,12 +106,10 @@ Touch the exact same card or device to the yellow reader at your exit station ba
 
 ## Essential Tube etiquette & golden rules
 
-To travel smoothly like a local, keep these key unwritten rules in mind:
-
 > 🌟 **Golden Rules of Tube Etiquette:**  
 > 1. **Stand on the Right on Escalators:** Always stand on the right side of escalators. The left side is strictly reserved for people walking up or down!  
 > 2. **Have your card ready:** Have your phone or card out and ready BEFORE reaching the ticket barrier. Stopping directly in front of the gate blocks moving crowds behind you.  
-> 3. **Give up priority seats:** Offer designated priority seats to elderly passengers, pregnant women, or travelers with disabilities.  
+> 3. **Give up priority seats:** Offer designated priority seats to elderly passengers, pregnant women, or travellers with disabilities.  
 > 4. **Keep bags off seats:** Keep backpacks and luggage on the floor between your feet or on your lap during busy hours.
 
 ---
@@ -125,12 +121,12 @@ London Underground trains operate 7 days a week, with operating hours varying sl
 | Day of the Week | First Trains (Start Time) | Last Trains (End Time) | Operating Notes |
 | --- | --- | --- | --- |
 | **Monday – Thursday** | **05:00 – 05:30 AM** | **00:30 – 01:00 AM** | First trains leave outer terminals around 05:00; last central trains depart around 00:30–01:00 AM. |
-| **Friday** | **05:00 – 05:30 AM** | **00:30 – 01:00 AM** *(or 24 Hours on Night Tube lines)* | Standard lines close ~01:00 AM. **5 core lines** (Central, Jubilee, Northern, Piccadilly, Victoria) run 24 hours non-stop. |
-| **Saturday** | **05:00 – 05:30 AM** *(or 24 Hours on Night Tube lines)* | **00:30 – 01:00 AM** *(or 24 Hours on Night Tube lines)* | Standard lines close ~01:00 AM. **5 core lines** (Central, Jubilee, Northern, Piccadilly, Victoria) run 24 hours non-stop. |
-| **Sunday** | **06:30 – 07:00 AM** | **23:30 – 23:45 PM** | Starts ~1.5 hours later; last trains leave earlier before midnight across all lines. |
+| **Friday** | **05:00 – 05:30** | **00:30 – 01:00** *(or 24 hours on Night Tube lines)* | Standard lines close ~01:00. **Six lines** (Central, Jubilee, Northern, Piccadilly, Victoria, Windrush) run 24 hours non-stop. |
+| **Saturday** | **05:00 – 05:30** *(or 24 hours on Night Tube lines)* | **00:30 – 01:00** *(or 24 hours on Night Tube lines)* | Standard lines close ~01:00. **Six lines** (Central, Jubilee, Northern, Piccadilly, Victoria, Windrush) run 24 hours non-stop. |
+| **Sunday** | **06:30 – 07:00** | **23:30 – 23:45** | Starts ~1.5 hours later; last trains leave earlier before midnight across all lines. |
 
 > 🌙 **Important Night Tube Exception:**  
-> 24-hour weekend continuous service operates **ONLY on 5 lines** (Central, Jubilee, Northern - Charing Cross branch, Piccadilly, Victoria). Standard Tube lines close at their regular times (~00:30–01:00 AM) on Friday and Saturday nights (note: the **Waterloo & City line** is closed entirely on Saturdays, Sundays, and Bank Holidays!).
+> 24-hour weekend continuous service operates **on six lines only** (Central, Jubilee, Northern — Charing Cross branch, Piccadilly, Victoria, Windrush). Standard Tube lines close at their regular times (~00:30–01:00) on Friday and Saturday nights (note: the **Waterloo & City line** is closed entirely on Saturdays, Sundays, and Bank Holidays!).
 
 > 💡 **TfL Fare Day Definition:**  
 > TfL's daily ticketing system operates on a **04:30 to 04:29** clock. Any journey made before 04:29 AM counts towards the previous day's daily fare cap!
@@ -188,7 +184,7 @@ Two different things get muddled here, and the difference decides whether you ca
 
 > 📶 **As of 6 September 2026:** roughly 60% of Underground stations have 4G and 5G, and TfL expects the whole network covered by the end of 2026. The Elizabeth line is complete. The remaining work this year is on the Victoria, Jubilee, Bakerloo and Piccadilly lines and the last Circle and District sections.
 >
-> **We have deliberately not listed stations**, because the list changes every few weeks and a stale one is worse than none. [TfL's connectivity page](https://tfl.gov.uk/travel-information/improvements-and-projects/improving-digital-connectivity-on-our-network) is the live version — check it if signal matters for a specific journey.
+> **The station list changes every few weeks.** [TfL's connectivity page](https://tfl.gov.uk/travel-information/improvements-and-projects/improving-digital-connectivity-on-our-network) is the live version — check it if signal matters for a specific journey.
 
 **If being reachable underground genuinely matters** — you are working, or meeting someone off a train — route the journey on the Elizabeth line where you can. It is the only line where that is a safe assumption today.
 
@@ -204,7 +200,7 @@ Two different things get muddled here, and the difference decides whether you ca
 4. **Boarding the wrong train branch:** Check the electronic platform sign destination before boarding split lines (District/Northern/Piccadilly).
 5. **Buying paper single tickets:** Single paper tickets cost **£6.70** in Zone 1 vs. **£3.10** with contactless!
 6. **Treating the Tube map as a street map:** Many central stations (e.g. Covent Garden to Leicester Square) are just a 4-minute walk apart at street level.
-7. **Not checking lift status:** If traveling with heavy bags or a wheelchair, verify lift operating status on the TfL Go app beforehand.
+7. **Not checking lift status:** If travelling with heavy bags or a wheelchair, verify lift operating status on the TfL Go app beforehand.
 
 ---
 

@@ -78,7 +78,7 @@ Sorted by price. The per-minute column is simply the price divided by the drinki
 | **Megan's** Signature | Clapham, Islington | £50 | 120 | £0.42 | Drinks only, meal extra |
 | **Swingers** | West End, City | £50 | 90 | £0.56 | 30 min arcade included |
 | **The Piano Works** 1 course | Farringdon, West End | £50 | 90 | £0.56 | 2 hrs of live band |
-| **Bunga Bunga** | Covent Garden | £52 | 90 | £0.58 | Karaoke host and DJ |
+| **Bunga 90** | Covent Garden | £52 | 90 | £0.58 | Karaoke host and DJ |
 | **The Piano Works** 2 courses | Farringdon, West End | £55 | 90 | £0.61 | 2 courses plus band |
 | **Turtle Bay** Island Nights | Brixton, Shoreditch | £55 | 90 | £0.61 | 2 courses, evenings |
 | **No 32** Whispering Angel | Clapham | £59 | 90 | £0.66 | Rosé on the list |
@@ -87,7 +87,7 @@ Sorted by price. The per-minute column is simply the price divided by the drinki
 | **Megan's** Premium | Clapham, Islington | £75 | 120 | £0.63 | Champagne, meal extra |
 | **No 32** Veuve Clicquot | Clapham | £79 | 90 | £0.88 | Champagne on the list |
 
-**Three venues publish a price but not a time limit**, which makes them impossible to place on this table honestly: Bounce at Battersea Power Station from £30, Cabana at £45 for a two-course Bottomless Weekend, and Gordon Ramsay's Street Pizza, which sells ninety minutes of bottomless Prosecco for £24 on top of a bottomless-pizza base price it does not publish. Ask before you commit.
+**Three venues publish a price but not a time limit**: Bounce at Battersea Power Station from £30, Cabana at £45 for a two-course Bottomless Weekend, and Gordon Ramsay's Street Pizza, which sells ninety minutes of bottomless Prosecco for £24 on top of a bottomless-pizza base price it does not publish. Ask how long you get before you commit.
 
 ---
 
@@ -139,7 +139,7 @@ If the brunch is one part of a bigger day, the [hen do](/articles/hen-do-london/
 
 **The Piano Works** is the one for a group that wants to sing. £50 for one course or £55 for two, ninety minutes of bottomless drinks and **two hours of a live request band**, every Saturday at Farringdon and the West End. If you only want the room and not the package, there is a £10 entry-only ticket with no table.
 
-**Bunga Bunga** in Covent Garden is now a nineties-themed karaoke bar, and its £52 Saturday and Sunday package is priced as an event rather than a brunch: a live karaoke host, a small plate, a salad and a twelve-inch pizza per two guests, ninety minutes of bottomless beers and cocktails, and a DJ. **A non-bottomless alternative at £26** gets you one drink and a whole pizza, which is the sensible option for anyone in the group who is not drinking.
+**Bunga 90** in Covent Garden — the old Bunga Bunga, relaunched under the new name in September 2025 — is a nineties-themed karaoke bar, and its £52 Saturday and Sunday package is priced as an event rather than a brunch: a live karaoke host, a small plate, a salad and a twelve-inch pizza per two guests, ninety minutes of bottomless beers and cocktails, and a DJ. **A non-bottomless alternative at £26** gets you one drink and a whole pizza, which is the sensible option for anyone in the group who is not drinking.
 
 **Barrio** runs four sittings a day at noon, 2pm, 4pm and 6pm across Shoreditch, Soho, Covent Garden, Angel and Brixton, with themed weekends from Broadway musicals to drag. £30 Sunday to Thursday and at Saturday noon, £37.50 for Friday and the later Saturday slots. Food arrives as a birdcage between two, so a six is served three. Deposits are low with the balance paid on the day, which is the friendliest structure here for a group whose numbers might move.
 
@@ -163,7 +163,7 @@ If what you actually want is a good breakfast without a clock running, that is a
 
 ## Best by area
 
-**Soho and Covent Garden.** The Breakfast Club's Backseat Becky at £35 for two hours is the value pick. Bunga Bunga at £52 is the party one. Dirty Martini at £30 and All Bar One at £37 are the reliable fallbacks, and Big Easy's Covent Garden branch runs the same unlimited-barbecue deal as Canary Wharf.
+**Soho and Covent Garden.** The Breakfast Club's Backseat Becky at £35 for two hours is the value pick. Bunga 90 at £52 is the party one. Dirty Martini at £30 and All Bar One at £37 are the reliable fallbacks, and Big Easy's Covent Garden branch runs the same unlimited-barbecue deal as Canary Wharf.
 
 **Shoreditch and Spitalfields.** The densest cluster in London. Ballie Ballerson from £45 for the ball pit, BOXPARK from £42.67 for a whole afternoon, The Breakfast Club's Mayor at £45 for cocktails, Barrio from £30, Queen of Hoxton for drag, Cottons at £34.50 for Caribbean food, and Flight Club at £33 if you want darts more than drinks.
 

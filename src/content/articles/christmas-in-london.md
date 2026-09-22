@@ -55,7 +55,7 @@ The quietest and cheapest visit is the same visit: a Monday to Wednesday daytime
 | Market | 2026 dates | Distinctive for |
 | --- | --- | --- |
 | **Trafalgar Square** | 6 Nov 2026 – 3 Jan 2027 | The Norway spruce, Oslo's annual gift to London since 1947; tree switch-on **3 December** |
-| **Covent Garden** | From November 2026 (exact date TBC) | The Piazza's 55ft tree, giant bells and baubles inside the Market Building |
+| **Covent Garden** | From November 2026; the day is not yet published | The Piazza's 55ft tree, giant bells and baubles inside the Market Building |
 | **Southbank Winter Market** | Not yet published (2025 ran 3 Nov–4 Jan) | Riverside chalets by the London Eye, food-led rather than gift-led |
 | **Leicester Square** | Not yet published (2025 ran 1 Nov–4 Jan) | An ice rink around the Shakespeare statue |
 | **Old Spitalfields Market** | Not yet published | Neon-lit wreaths, Santa Saturdays, a photo-op phone box |
@@ -158,8 +158,6 @@ The lights are free to walk past, but the streets that carry the best of them �
 **All ages, and under-5s go free** on an adult's lap with no ticket needed.
 
 > ⚠️ **Two things to check before you book.** The bus is a genuine 1960s Routemaster, which means **there is no space to store a wheelchair or a pushchair** — the operator says so plainly and asks you to phone before booking rather than turning up. And it is **open-top in December**: dress for standing on a cold street for 75 minutes, because that is effectively what it is.
->
-> Note also that the operator's own London page still carries **"Operating November and December 2025"** in its body text while the header advertises 2026 booking. Take the dates from the booking form, not the page.
 
 **B Bakery's afternoon tea bus** also runs seasonal versions from Victoria — that one feeds you, takes 90 minutes and costs rather more. It is covered in full in our [afternoon tea guide](/articles/best-afternoon-tea-london/).
 

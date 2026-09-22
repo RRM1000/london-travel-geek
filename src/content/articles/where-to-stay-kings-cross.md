@@ -172,7 +172,7 @@ A late arrival is the normal case in an area built around trains, and it is wort
 
 ## Where to stay just outside instead
 
-For anyone without a train to catch at dawn, this is the more useful half of the guide. Everything below is ten minutes' walk or a handful of stops from St Pancras.
+If you have no train to catch at dawn, everything below is ten minutes' walk or a handful of stops from St Pancras.
 
 If you have not settled on an area at all, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
 

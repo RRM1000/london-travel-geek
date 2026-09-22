@@ -11,6 +11,16 @@
 // promise as "free to do", and a page that mixes them stops being useful.
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { Image } from "astro:assets";
+import imgOldBailey from "../assets/free/old-bailey.jpg";
+import imgSupremeCourt from "../assets/free/supreme-court.jpg";
+import imgHorizon22 from "../assets/free/horizon-22.jpg";
+import imgGuard from "../assets/free/changing-the-guard.jpg";
+import imgDunstan from "../assets/free/st-dunstan-in-the-east.jpg";
+import imgGranary from "../assets/free/granary-square-fountains.jpg";
+import imgPiazza from "../assets/free/covent-garden-piazza.jpg";
+import imgPlaque from "../assets/free/blue-plaque.jpg";
+
 import activityData from "../data/activities.json";
 import hiddenLondonData from "../data/hiddenLondon.json";
 
@@ -86,7 +96,7 @@ const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Free London" }];
 
 <BaseLayout
   title="Free things to do in London: everything that costs nothing"
-  description={`${total} things to do in London that are genuinely free — museums, parks, markets, viewpoints, blue plaques and street art, with what each one is actually for.`}
+  description={`Every national museum is free, so is the highest viewing floor in London, and you can watch a trial at the Old Bailey or a Commons debate for nothing. ${total} things to do in London that cost nothing, and what each one is actually for.`}
   breadcrumbs={breadcrumbs}
 >
   <section class="container fr">
@@ -99,6 +109,328 @@ const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Free London" }];
         entry says so.
       </p>
     </header>
+
+    <div class="fr-guide">
+      <div class="fr-box">
+        <p>
+          <strong>The short version.</strong> Every national museum is free, and
+          so is the <strong>highest viewing floor in London</strong> — Horizon 22
+          on level 58, which beats The Shard's paid gallery by about ten metres.
+          You can watch a <strong>murder trial at the Old Bailey</strong> or a
+          <strong>Supreme Court case</strong> for nothing, sit in on a
+          <strong>Commons debate</strong>, and get into a
+          <strong>West End television recording</strong> without paying.
+          <strong>Evensong</strong> puts you in the quire at St Paul's, in the
+          best seats in the building, on a day the tourist ticket costs £27. And
+          in January, <strong>Canary Wharf Winter Lights</strong> is free while
+          ticketed light trails elsewhere charge £30.
+        </p>
+      </div>
+
+      <h2 id="the-ones-that-take-knowing">The free London that takes knowing</h2>
+      <p>
+        Everyone's list starts with the museums. These are the ones that do not
+        appear on most of them, and they are the reason to read further than the
+        first paragraph. None is an attraction. They are institutions doing their
+        actual work, with seats at the back for anyone who turns up.
+      </p>
+
+      <h3>You can watch a trial</h3>
+      <p>
+        <strong>The Old Bailey</strong> is the famous one. The public galleries
+        of the Central Criminal Court are open
+        <strong>Monday to Friday, 10am–12.40pm and 2pm–3.40pm</strong>, and it
+        costs nothing to sit in on a trial.
+      </p>
+      <figure class="fr-fig">
+        <Image src={imgOldBailey} alt="The Central Criminal Court on a grey day, its stone dome topped by the gilded figure of Justice holding scales and a sword" widths={[480, 800, 1200]} sizes="(max-width: 46rem) 100vw, 42rem" />
+        <figcaption>The Old Bailey. The public galleries are free, but the photo ID rule and the total ban on phones turn people away at the door.</figcaption>
+      </figure>
+
+      <p class="fr-warn">
+        <strong>Three rules decide whether you get in, and one is new.</strong>
+        Since <strong>1 June 2026 you must show official photographic
+        identification</strong>. The <strong>minimum age is 14</strong>, and
+        under-16s need an adult. And there is
+        <strong>no cloakroom and no bag storage</strong> — large bags and
+        rucksacks are refused, and phones and electronic devices are not allowed
+        in at all. The usual workaround is a nearby travel agent that stores
+        phones for about £1 a device. Turn up with luggage or without ID and you
+        will not get past the door.
+      </p>
+      <p>
+        <strong>The Supreme Court is far easier and almost nobody goes.</strong>
+        Free, no ticket, <strong>Monday to Friday 9am–5pm</strong> with last
+        entry at 4.30pm, three courtrooms in the old Middlesex Guildhall on
+        Parliament Square. Gallery space is limited so you may wait, but you can
+        normally see something, and there is no ID rigmarole and no phone ban of
+        the Old Bailey's severity. <strong>The Royal Courts of Justice</strong>
+        on the Strand also has free public galleries, in a building worth walking
+        into on its own.
+      </p>
+      <figure class="fr-fig">
+        <Image src={imgSupremeCourt} alt="Middlesex Guildhall on Parliament Square, a white Gothic building with a carved stone tower and a sculpted relief above the entrance, a black cab passing" widths={[480, 800, 1200]} sizes="(max-width: 46rem) 100vw, 42rem" />
+        <figcaption>The Supreme Court, in the old Middlesex Guildhall. Free, no ticket, and almost nobody goes.</figcaption>
+      </figure>
+
+
+      <h3>You can watch Parliament</h3>
+      <p>
+        <strong>Watching debates is free for everyone</strong>, UK resident or
+        not. Galleries are open when the Houses are sitting —
+        <strong>Monday to Thursday and some Fridays</strong> — and you can queue
+        at the Cromwell Green entrance without booking. Fridays are quietest; for
+        anything high-profile, queueing alone rarely works, and UK residents can
+        request gallery tickets from their MP instead.
+        <strong>Select committees</strong> are free too, and often more
+        interesting than the chamber.
+      </p>
+
+      <h3>You can be in the audience</h3>
+      <p>
+        <strong>Studio audience tickets cost nothing</strong>, from the BBC and
+        four independent agencies. It is genuinely free entertainment, with one
+        large caveat: tickets are deliberately over-issued, so a ticket is a
+        place in a queue rather than a seat. Our
+        <a href="/articles/free-tv-show-tickets-london/">guide to free TV and
+        radio tickets</a> explains how each ballot actually works.
+      </p>
+
+      <h3>And one you have to plan for</h3>
+      <p>
+        <strong>The Ceremony of the Keys</strong> at the
+        <a href="/articles/tower-of-london-guide/">Tower of London</a> — the
+        locking-up ritual performed every night for around 700 years — is pay
+        what you choose, £10 to £50 with £30 suggested. Tickets are released at
+        <strong>1pm on the first working day of each month</strong>, for the
+        month after, and go within minutes.
+      </p>
+
+      <h2 id="free-views">The views, including the highest one</h2>
+      <p>
+        Five viewpoints in and around the City cost nothing, and the highest of
+        them is free.
+      </p>
+      <ul>
+        <li>
+          <strong>Horizon 22</strong> — level 58, and the highest public
+          viewpoint in London, about ten metres above The Shard's gallery.
+          300-degree views, and a lift that covers the distance in 41 seconds.
+          Free, but book a slot.
+        </li>
+        <li><strong>The Garden at 120</strong> — no booking at all, which makes it the useful one at short notice.</li>
+        <li><strong>Sky Garden</strong> — free, but books weeks ahead.</li>
+        <li><strong>The Lookout at 8 Bishopsgate</strong> — the newest and least busy.</li>
+        <li><strong>Tate Modern's tenth floor</strong> — free, open late, and better than several paid options.</li>
+      </ul>
+      <p>
+        Outdoors and always open: <strong>Primrose Hill</strong>,
+        <strong>Parliament Hill</strong>, <strong>Greenwich Park</strong> and
+        <strong>Waterloo Bridge</strong>. The View from The Shard costs about
+        £32; it is higher than everything except Horizon 22 and has an open-air
+        deck, but do not pay it thinking there is no alternative. Our
+        <a href="/articles/best-views-london/">views guide</a> compares all 38.
+      </p>
+      <figure class="fr-fig">
+        <Image src={imgHorizon22} alt="The view east from a high City viewing floor: the Thames curving past Tower Bridge and the Tower of London, with the Walkie-Talkie in the foreground and The Shard beyond" widths={[480, 800, 1200]} sizes="(max-width: 46rem) 100vw, 42rem" />
+        <figcaption>Level 58, looking east over the Walkie-Talkie to Tower Bridge and The Shard. Free, but book a slot.</figcaption>
+      </figure>
+
+
+      <h2 id="free-set-pieces">The set pieces</h2>
+      <p>
+        <strong>Changing the Guard</strong> is free to watch, and the thing to
+        know is that <strong>it does not run daily</strong> — check the schedule
+        before building a morning around it. The crowd at the Palace gates is
+        deep; the <strong>Horse Guards Parade</strong> ceremony at 11am, and the
+        dismount inspection at 4pm, are the same soldiers with a fraction of the
+        audience.
+      </p>
+      <figure class="fr-fig">
+        <Image src={imgGuard} alt="Mounted Household Cavalry troopers in red tunics and plumed helmets riding past the gates of Buckingham Palace" widths={[480, 800, 1200]} sizes="(max-width: 46rem) 100vw, 42rem" />
+        <figcaption>Free, but not daily — and the Horse Guards end of it is far less crowded than the Palace gates.</figcaption>
+      </figure>
+
+      <p>
+        <strong>Evensong at St Paul's or Westminster Abbey is the best-value
+        hour in London.</strong> It is free, daily, and you sit in the quire
+        rather than filing past on a one-way route — so you see the building
+        working, from the best seats in it, for nothing. St Paul's otherwise
+        costs £27 and the Abbey £31. It is a church service, not a concert, but
+        nobody will ask anything of you beyond sitting quietly.
+      </p>
+      <p>
+        <strong>St Dunstan in the East</strong> is a Wren church bombed in 1941,
+        left standing as a ruin and planted as a garden — free, open daily, and
+        the most photographed thing in the City that costs nothing.
+        <strong>The Greenwich foot tunnel</strong> walks you under the Thames at
+        any hour. And the <strong>Granary Square fountains</strong> at King's
+        Cross are a thousand jets in the pavement, free, with no closing time and
+        no queue — the best thing in London for children on a hot day, if you
+        bring a towel and low expectations about staying dry.
+      </p>
+      <figure class="fr-fig">
+        <Image src={imgDunstan} alt="The empty gothic window arches of St Dunstan in the East, overgrown with ivy and open to the sky" widths={[480, 800, 1200]} sizes="(max-width: 46rem) 100vw, 42rem" />
+        <figcaption>St Dunstan in the East: bombed in 1941, left standing, and planted. The City's best free half-hour.</figcaption>
+      </figure>
+
+      <figure class="fr-fig">
+        <Image src={imgGranary} alt="Children running through the pavement fountains at Granary Square in King's Cross on a sunny day" widths={[480, 800, 1200]} sizes="(max-width: 46rem) 100vw, 42rem" />
+        <figcaption>Granary Square. No ticket, no queue, no closing time.</figcaption>
+      </figure>
+
+
+      <h3>Street performance, and where it actually is</h3>
+      <p>
+        Covent Garden gets the credit, but licensed street performance runs right
+        across London. The Piazza has run licensed pitches since the 1980s and
+        performers audition for them — the <strong>West Piazza</strong> for the
+        big circle-show acts outside St Paul's Church, the
+        <strong>North Hall</strong> for classical musicians, and the covered
+        <strong>Lower Courtyard</strong> for opera over lunch.
+      </p>
+      <p>
+        The one people miss is <strong>the Underground</strong>. TfL has run a
+        licensed busking scheme since 2003, performers audition to get on it, and
+        those green semicircles on station floors are official pitches. The
+        standard is high because the audition is competitive. The
+        <strong>South Bank</strong> between the London Eye and the National
+        Theatre is the busiest stretch in London at a weekend, and
+        <strong>Leicester Square</strong>, <strong>Trafalgar Square</strong> and
+        <strong>Greenwich Market</strong> all have performers too.
+      </p>
+      <figure class="fr-fig">
+        <Image src={imgPiazza} alt="Outdoor restaurant terraces filling the cobbled Piazza at Covent Garden at dusk" widths={[480, 800, 1200]} sizes="(max-width: 46rem) 100vw, 42rem" />
+        <figcaption>The Covent Garden pitches are auditioned for, which is why the standard beats the average high street.</figcaption>
+      </figure>
+
+
+      <h2 id="city-as-museum">The city itself</h2>
+      <p>
+        None of this is ticketed and most of it is standing in the street.
+        <strong>Around 1,000 official English Heritage blue plaques</strong> are
+        screwed to the outside of buildings across London — Mozart wrote his
+        first symphony at 180 Ebury Street aged eight, Handel and Hendrix lived
+        in adjoining Mayfair houses two centuries apart. The way to use them is
+        not a plaque tour but knowing which fall on a walk you were doing anyway,
+        which is what <a href="/plaques/">our map</a> is for.
+      </p>
+      <figure class="fr-fig">
+        <Image src={imgPlaque} alt="A round blue English Heritage plaque mounted on a London brick wall" widths={[480, 800, 1200]} sizes="(max-width: 46rem) 100vw, 42rem" />
+        <figcaption>About a thousand of them, and the map tells you which fall on a walk you were already doing.</figcaption>
+      </figure>
+
+      <p>
+        <strong>Shoreditch and Hackney are an open-air gallery</strong>,
+        repainted constantly — Brick Lane, Hanbury Street, Rivington Street and
+        the Village Underground wall are the concentrated stretch, and what is
+        there this month will not be there next year. Several
+        <a href="/articles/banksy-walk-london/">Banksy works survive</a>, though
+        the number falls every year to removal and overpainting, so check a
+        current list rather than trusting a guide written three years ago.
+      </p>
+      <p>
+        Standing where something was filmed costs nothing — Notting Hill's blue
+        door, the Harry Potter Millennium Bridge, Paddington's Primrose Hill, the
+        Bridget Jones flat above the Globe in Borough. Our
+        <a href="/articles/london-filming-locations/">filming locations guide</a>
+        says which are worth the walk and which are a disappointment. And
+        <strong>Trafalgar Square's Fourth Plinth</strong> carries a new
+        commissioned artwork every eighteen months or so: major contemporary art,
+        at street level, permanently free, and most people walk straight past it.
+      </p>
+
+      <h2 id="free-by-season">Free, but only at the right time of year</h2>
+      <p>
+        A lot of London's best free things do not exist most of the year. These
+        are worth planning dates around.
+      </p>
+      <ul>
+        <li>
+          <strong>Canary Wharf Winter Lights, January.</strong> The big one, and
+          almost nobody outside London knows it is free — around twenty
+          large-scale installations by international artists across the estate
+          for roughly two weeks, no ticket, while ticketed trails elsewhere
+          charge £30 upwards in the same season. Go on a weekday.
+          <strong>Battersea Power Station's Light Festival</strong> does the same
+          thing in the same season.
+        </li>
+        <li>
+          <strong>The Christmas lights themselves.</strong> Oxford Street, Regent
+          Street, Carnaby, Bond Street, Seven Dials and Covent Garden all cost
+          nothing to walk under, switch on in early-to-mid November and stay up
+          to early January. Kew and the ticketed trails are what you pay for; the
+          West End is not.
+        </li>
+        <li>
+          <strong>Blossom, late March to mid-April.</strong> Kew is ticketed, but
+          Greenwich Park, Battersea Park, Regent's Park and the Kensington
+          Gardens avenues are free and just as good.
+        </li>
+        <li>
+          <strong>The Boat Race</strong> in late March or early April, and
+          <strong>the London Marathon</strong> in April — world-class sport, free
+          from the roadside, anywhere along the course.
+        </li>
+        <li>
+          <strong>Notting Hill Carnival</strong>, August bank holiday. Free,
+          enormous, and Europe's largest street festival.
+        </li>
+        <li>
+          <strong>Open House London, September.</strong> Nine days in which
+          hundreds of buildings that are normally shut — private houses, City
+          skyscrapers, government offices — open free. Some ballot, most just
+          queue. It lands in the same nine days as the London Design Festival and
+          Heritage Open Days.
+        </li>
+        <li>
+          <strong>Bonfire Night, early November.</strong> Alexandra Palace
+          charges, but plenty of borough displays do not;
+          <a href="/articles/bonfire-night-london/">our guide</a> sorts the free
+          from the ticketed. <strong>Diwali in Trafalgar Square</strong> and
+          <strong>the Lord Mayor's Show</strong> are both free too.
+        </li>
+      </ul>
+      <p>
+        The rule that covers most of it: <strong>almost every parade in London is
+        free at the roadside.</strong> For the State Opening of Parliament and
+        Trooping the Colour, the tickets are for seats, not for looking.
+      </p>
+
+      <h2 id="nobody-lists">The ones nobody lists</h2>
+      <ul>
+        <li>
+          <strong>Lunchtime concerts.</strong> St Martin-in-the-Fields, the Royal
+          Academy of Music, the Guildhall School and several City churches run
+          free recitals by properly good musicians most weeks, usually about an
+          hour.
+        </li>
+        <li>
+          <strong>BFI Mediatheque</strong> on the South Bank — sit in a booth and
+          watch the national film and television archive, free. Almost nobody
+          knows it exists.
+        </li>
+        <li>
+          <strong>The small free museums.</strong> The Bank of England Museum,
+          the Hunterian, the Grant Museum of Zoology and the Petrie — all free,
+          all far quieter than the big names.
+        </li>
+        <li><strong>Speaker's Corner</strong>, Hyde Park, Sunday mornings.</li>
+      </ul>
+
+      <p class="fr-next">
+        Paying for some of it? <a href="/articles/london-on-a-budget/">London on
+        a budget</a> has what a day actually costs, where to eat cheaply, and how
+        to pay less at a restaurant you genuinely want to eat at.
+      </p>
+
+      <h2 id="everything-listed">Everything free, listed</h2>
+      <p>
+        The directory below is generated from our own records rather than
+        written, so it stays current as guides are added. Where an entry needs a
+        free ticket booked ahead, it says so.
+      </p>
+    </div>
 
     {groups.map((g) => (
       <section class="fr-group">
@@ -154,6 +486,28 @@ const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Free London" }];
   .fr-hero { margin-block-end: 2.5rem; }
   .fr-hero h1 { margin: 0 0 0.5rem; text-wrap: balance; }
   .fr-lede { margin: 0; max-width: 42rem; }
+
+  .fr-fig { margin: 1.5rem 0; }
+  .fr-fig img { width: 100%; height: auto; border-radius: 6px; display: block; }
+  .fr-fig figcaption { margin-top: 0.5rem; font-size: 0.9rem; font-style: italic; opacity: 0.8; }
+  .fr-guide { margin-block-end: 3rem; max-width: 42rem; }
+  .fr-guide h2 { margin: 2.25rem 0 0.6rem; scroll-margin-top: 5rem; text-wrap: balance; }
+  .fr-guide h3 { margin: 1.6rem 0 0.4rem; font-size: 1.05rem; }
+  .fr-guide p { margin: 0 0 1rem; }
+  .fr-guide ul { margin: 0 0 1.25rem; padding-inline-start: 1.1rem; }
+  .fr-guide li { margin-block-end: 0.6rem; }
+  .fr-box,
+  .fr-warn,
+  .fr-next {
+    border-inline-start: 3px solid currentColor;
+    padding: 0.85rem 1rem;
+    margin-block: 0 1.4rem;
+    border-radius: 0 4px 4px 0;
+  }
+  .fr-box { background: color-mix(in srgb, currentColor 6%, transparent); }
+  .fr-box p { margin: 0; }
+  .fr-warn { background: color-mix(in srgb, currentColor 4%, transparent); font-size: 0.95rem; }
+  .fr-next { background: color-mix(in srgb, currentColor 5%, transparent); font-size: 0.95rem; }
 
   .fr-group { margin-block-end: 2.75rem; }
   .fr-group h2 { margin: 0 0 0.25rem; scroll-margin-top: 5rem; }

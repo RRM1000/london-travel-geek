@@ -62,7 +62,7 @@ heroImage: "../../assets/articles/peckham-area-guide/peckham-levels.jpg"
 heroImageAlt: "The view from a high floor of the Peckham Levels car park, over terraced rooftops toward the City skyline"
 ---
 
-Peckham is the most-changed part of London in the last fifteen years and still the least polished. Rye Lane is a working high street of African grocers, fabric shops and phone repair kiosks; three floors above it, people are drinking cocktails on a car park roof looking back at St Paul's.
+Rye Lane is a working high street of African grocers, fabric shops and phone repair kiosks; three floors above it, people are drinking cocktails on a car park roof looking back at St Paul's.
 
 Both things are true at once, and neither has replaced the other. That is the whole appeal.
 
@@ -82,7 +82,7 @@ Peckham has its own share of the commemorative plaques marking where notable peo
 4. **Peckham Levels** — **The same car park**, on the floors below Frank's: studios, workspace and a bar. Open year round unlike Frank's, but **closed Mondays and Tuesdays**, and the old floor of independent food traders is gone.
 5. **The South London Gallery** — A free contemporary art gallery on Peckham Road with a good garden and a second site in a former fire station opposite.
 6. **Peckham Rye Park and Common** — Large, genuinely local, and where the area goes at the weekend. William Blake claimed to have seen angels in a tree here.
-7. **Peckhamplex** — A cinema where every ticket is **£6.99** (£7.59 with the booking fee), a fraction of a West End seat. Also in the same car park building. Beloved locally and rightly so.
+7. **Peckhamplex** — A cinema where every ticket is **£6.99** (£7.59 with the booking fee), a fraction of a West End seat. Also in the same car park building.
 
 ![The red canopy of Frank's Cafe on a Peckham car park roof, with the London skyline beyond](../../assets/articles/peckham-area-guide/franks-cafe.jpg)
 
@@ -116,7 +116,7 @@ Just off it, **Peckham Palms** on Bournemouth Close is the **UK's first hair and
 
 ### Copeland Park and the Bussey Building
 
-Off the east side of Rye Lane through **Bussey Alley**, 150 metres from the station. A former **cricket bat factory** and the yards around it, now the densest concentration of independent anything in south London.
+Off the east side of Rye Lane through **Bussey Alley**, 150 metres from the station. A former **cricket bat factory** and the yards around it, now full of independent galleries, bars, studios, record shops and a radio station.
 
 ![The brick exterior of the Bussey Building, with BUSSEY BUILDING and COPELAND PARK painted signs](../../assets/articles/peckham-area-guide/the-bussey-building.jpg)
 
@@ -176,7 +176,7 @@ The street called **Peckham Rye**, facing the Common, has the neighbourhood end 
 
 ![The bright pink Peckhamplex cinema frontage, advertising a flat price for every ticket](../../assets/articles/peckham-area-guide/peckhamplex.jpg)
 
-*Peckhamplex. Every ticket, every showing, is £6.99 - the cheapest cinema in London by a distance, and it is in the same car park as Frank's and Peckham Levels. Photo: [Rhagfyr](https://commons.wikimedia.org/w/index.php?curid=144499998), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+*Peckhamplex. Every ticket, every showing, is £6.99, in the same car park as Frank's and Peckham Levels. Photo: [Rhagfyr](https://commons.wikimedia.org/w/index.php?curid=144499998), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

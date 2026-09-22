@@ -1,0 +1,567 @@
+{
+  "cuisine": "sri-lankan",
+  "recorded": "2026-09-22",
+  "note": "SCOPE: Sri Lankan kitchens in Greater London. The boundary rule is set in data/topics/sri-lankan.json - a venue counts when the Sri Lankan repertoire (hoppers, string hoppers, kottu, lamprais, sambols, devilled dishes, short eats) is the menu rather than a line on it. Kitchens that are genuinely both Sri Lankan and South Indian are recorded and labelled, not filed silently. COLLECTION: browserless, curl only. Reddit is blocked at reddit.com, old.reddit.com, the .json API and every mirror tried (safereddit.com and two redlib instances all serve a proof-of-work challenge), so tier E is empty - see knownGaps. guide.michelin.com, listed under blocked.permanent403 in data/sources.json, IS reachable with a plain 'curl/8.4.0' user agent; a browser UA gets 202 and zero bytes. That is how the Bib Gourmand was verified first-hand rather than through a substitute.",
+  "sources": [
+    {
+      "name": "MICHELIN Guide - Sri Lankan restaurants, London",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants/sri-lankan",
+      "tier": "A",
+      "scope": "sri-lankan",
+      "names": ["Hoppers", "Rambutan"],
+      "quotes": {
+        "Hoppers": "Bib Gourmand, 2026 MICHELIN Guide United Kingdom. Cuisine listed as 'South Indian, Sri Lankan'. The entry is the Soho site, 49 Frith Street W1D 4SG",
+        "Rambutan": "In the 2026 MICHELIN Guide United Kingdom, no Bib. Cuisine listed as 'Sri Lankan'"
+      },
+      "note": "The whole London Sri Lankan facet is two restaurants: one Bib Gourmand, one selected. Verified on the primary site with a curl user agent, not through the Wikipedia substitute, which is stars-only and cannot show a Bib."
+    },
+    {
+      "name": "The Good Food Guide - Rambutan",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/rambutan/id/49132",
+      "tier": "A",
+      "scope": "sri-lankan",
+      "names": ["Rambutan"],
+      "quotes": {
+        "Rambutan": "Overall rating: Very Good. 'London, Borough - Sri Lankan - Restaurant - £'. The cooking 'crackles with inventiveness'"
+      }
+    },
+    {
+      "name": "The Good Food Guide - Hoppers Soho",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/hoppers-soho/id/27695",
+      "tier": "A",
+      "scope": "sri-lankan",
+      "names": ["Hoppers"],
+      "quotes": {
+        "Hoppers": "Overall rating: Good. 'London, Soho - Sri Lankan - Restaurant - ££'. Recorded as Hoppers Soho"
+      }
+    },
+    {
+      "name": "The Good Food Guide - Kolamba Soho",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/kolamba-soho/id/41652",
+      "tier": "A",
+      "scope": "sri-lankan",
+      "names": ["Kolamba"],
+      "quotes": {
+        "Kolamba": "Local Gem. 'London, Soho - Sri Lankan - Restaurant'. Recorded as Kolamba Soho"
+      }
+    },
+    {
+      "name": "The Infatuation - 9 Excellent Spots For Sri Lankan Food In London",
+      "url": "https://www.theinfatuation.com/london/guides/the-best-sri-lankan-restaurants-in-london",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": [
+        "Rambutan",
+        "ADOH!",
+        "Colombo Kitchen",
+        "Jaffna House",
+        "Hoppers",
+        "Kothu",
+        "Apollo Banana Leaf",
+        "Best Foods Supermarket",
+        "Kolamba"
+      ],
+      "quotes": {
+        "Rambutan": "Recorded as Rambutan, 10 Stoney St SE1 9AD. 'Prawns cooked in a silky curry sauce over the fiery aduppu are a must-order'",
+        "ADOH!": "Recorded as Adoh!, 36 Maiden Lane WC2E 7LJ. 'The sibling to Kolamba has a canteen-ish feel with plastic chairs'",
+        "Colombo Kitchen": "Recorded as Colombo Kitchen, 25 Central Rd, Worcester Park KT4 8EG",
+        "Jaffna House": "Recorded as Jaffna House, 90 Tooting High St SW17 0RN. 'Jaffna has been around since 1991'",
+        "Hoppers": "Recorded as Hoppers, 4 Pancras Square N1C 4AG - the King's Cross branch",
+        "Kothu": "Recorded as Kothu Sri Lankan Restaurant & Bar, 114 Tooting High St SW17 0RR",
+        "Apollo Banana Leaf": "Recorded as Apollo Banana Leaf, 188-190 Tooting High St - the operator's own site says 190, SW17 0SF",
+        "Best Foods Supermarket": "Recorded as Best Foods Supermarket, 156-158 Forest Rd E17 6JQ. A hot counter at the back of a Walthamstow corner shop",
+        "Kolamba": "Recorded as Kolamba, 21 Kingly Court W1B 5QA"
+      },
+      "note": "Dated 5 February 2026. Published as nine spots, not a ranking, though each entry carries an Infatuation score. The page's 'Suggested Reading' rail also shows Paradise (Sri Lankan, Soho) - rail furniture, not one of the nine, so it is not counted here."
+    },
+    {
+      "name": "Eater London - The Best Sri Lankan Restaurants in London",
+      "url": "https://london.eater.com/maps/best-sri-lankan-restaurants-london-hoppers-jaffna-appam",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": [
+        "Gana",
+        "Virundhu",
+        "Yaalu Yalu",
+        "Hoppers",
+        "Palm Beach",
+        "Pavilion",
+        "Jaffna House",
+        "Dammika's",
+        "Sambal Kitchen & Diner"
+      ],
+      "quotes": {
+        "Gana": "Recorded as Gana Fine Dining, 15 Village Way E, Harrow HA2 7LX. 'Cooked in the style of Jaffna in northern Sri Lanka'. Eater notes its Wembley namesake is no relation",
+        "Virundhu": "Recorded as Virundhu, 113 Field End Rd, Pinner HA5 1QG. Praised for lamprais and watalappan",
+        "Yaalu Yalu": "Recorded as Yaalu Yalu, 164 Addington Rd, South Croydon CR2 8LB. 'Many come a long way for the lamprais'",
+        "Hoppers": "Recorded as Hoppers St Christopher's Place, 77 Wigmore St W1U 1QE - the Marylebone branch",
+        "Palm Beach": "Recorded as Palm Beach Restaurant, 17 Ealing Rd, Wembley HA0 4AA",
+        "Pavilion": "Recorded as Pavilion, Victoria Park E9 7DE. A cafe and bakery with Sri Lankan-inspired brunches, meat-free",
+        "Jaffna House": "Recorded as Jaffna House Restaurant, 90 Tooting High St SW17 0RN",
+        "Dammika's": "Recorded as Dammika's, 3 Lower Grosvenor Pl SW1W 0EJ, on the former site of Sekara",
+        "Sambal Kitchen & Diner": "Recorded as Sambal Kitchen & Diner, 247 Northolt Rd, South Harrow. 'Part of the Sambal Express chain of no-frills grocers and fast food joints'"
+      },
+      "note": "Updated 7 October 2019 and not revised since, which is why it is the only source here that reaches Wembley, Harrow and Croydon. Its two shop mentions - Bestfoods next door to Palm Beach, and Ganapathy across the road - are grocers named inside another venue's entry, not listed venues, and are deliberately not recorded."
+    },
+    {
+      "name": "SquareMeal - 10 of the best Sri Lankan restaurants in London",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-sri-lankan-restaurants-london_9506",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": [
+        "Kolamba",
+        "ISSO Prawn Crazy",
+        "Rambutan",
+        "Hoppers",
+        "Virundhu",
+        "Karapincha",
+        "Apollo Banana Leaf",
+        "ADOH!",
+        "Watch Me",
+        "Jaffna House"
+      ],
+      "quotes": {
+        "Kolamba": "Recorded as 'Kolamba and Kolamba East, Soho and Shoreditch' - one entry covering both sites, 21 Kingly Street W1B 5QA and 12 Blossom Street E1 6PL",
+        "ISSO Prawn Crazy": "Recorded as ISSO Prawn Crazy, Canary Wharf, 25 Cabot Square E14 4QA. Written up as trading; the operator's own site says the Canary Wharf site is opening soon - see openVenueQuestions",
+        "Rambutan": "Recorded as Rambutan, London Bridge. 'Gundu dosas with coriander sambol'",
+        "Hoppers": "Recorded as 'Hoppers, Various locations', with booking links for Soho, King's Cross, Shoreditch and Marylebone",
+        "Virundhu": "Recorded as Virundhu, Pinner. 'Jaffna crab curry'",
+        "Karapincha": "Recorded as Karapincha, Canary Wharf, Unit 14, Canary Wharf Station E14 4HJ",
+        "Apollo Banana Leaf": "Recorded as Apollo Banana Leaf, Tooting, 190 Tooting High Street SW17 0SF",
+        "ADOH!": "Recorded as ADOH!, Covent Garden, 36 Maiden Lane WC2E 7LJ",
+        "Watch Me": "Recorded as Watch Me, Wimbledon, 108 Morden Road SW19 3BP",
+        "Jaffna House": "Recorded as Jaffna House. 'Going strong since the nineties'"
+      }
+    },
+    {
+      "name": "DesignMyNight - 13 Best Sri Lankan Restaurants In London",
+      "url": "https://www.designmynight.com/london/blog/best-sri-lankan-restaurants-london",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": [
+        "Rambutan",
+        "Karapincha",
+        "Hoppers",
+        "Kolamba",
+        "ADOH!",
+        "Jaffna House",
+        "Papaya",
+        "Paradise Soho",
+        "Virundhu",
+        "Gana",
+        "Apollo Banana Leaf",
+        "Colombo Kitchen",
+        "Kothu",
+        "Dammika's"
+      ],
+      "quotes": {
+        "Karapincha": "Headed 'Mercato Metropolitano, 42 Newington Causeway SE1 6DR' but the entry is about the trader: 'Home to Karapincha'. Recorded as the named trader, never the hall",
+        "Hoppers": "Recorded as Hoppers London",
+        "Papaya": "Recorded as Papaya, 161 Northfield Avenue W13 9QT. 'Fusing together Sri Lankan and South Indian flavours'",
+        "Paradise Soho": "Recorded as Paradise Soho, 61 Rupert Street W1D 7PW. Since closed - see closedDuringThisPass",
+        "Gana": "Recorded as Gana, 15 Village Way, Rayners Lane, Harrow HA2 7LX. 'Serving the area for over 20 years'",
+        "Kothu": "Recorded as Kothu Sri Lankan Restaurant & Bar"
+      }
+    },
+    {
+      "name": "House & Garden - The best Sri Lankan restaurants in London",
+      "url": "https://www.houseandgarden.co.uk/gallery/sri-lankan-restaurants-london",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": [
+        "Hoppers",
+        "Paradise Soho",
+        "Kolamba",
+        "Colombo Kitchen",
+        "Rambutan",
+        "ADOH!",
+        "Apollo Banana Leaf",
+        "Jaffna House",
+        "Kothu",
+        "Machan Kitchen"
+      ],
+      "quotes": {
+        "Colombo Kitchen": "Text describes the Worcester Park room; the address printed is the Putney site, 240 Upper Richmond Rd SW15 6TG",
+        "Machan Kitchen": "Recorded as Machan Kitchen, 171 Farringdon Rd EC1R 3AL. The only source in this set that names it",
+        "Kothu": "Recorded as Kothu Sri Lankan Restaurant and Bar, 114 Tooting High St SW17 0RR. 'Tooting, aka south London's unofficial Sri Lankan capital'"
+      }
+    },
+    {
+      "name": "Foodism - The best Sri Lankan restaurants in London",
+      "url": "https://foodism.co.uk/guides/best-sri-lankan-restaurants-london/",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": [
+        "Rambutan",
+        "Best Foods Supermarket",
+        "Jaffna House",
+        "Paradise Soho",
+        "Kolamba",
+        "Hoppers",
+        "Karapincha"
+      ],
+      "quotes": {
+        "Rambutan": "'Cynthia Shanmugalingam - the first Tamil woman to open a restaurant in the city'",
+        "Best Foods Supermarket": "Recorded as Best Foods Supermarket, 156-158 Forest Road E17 6JQ",
+        "Paradise Soho": "Six-course tasting menu at GBP 59 a head at the time of writing. Since closed"
+      },
+      "note": "Published 28 August 2024."
+    },
+    {
+      "name": "Luxury London - The best Sri Lankan restaurants in London",
+      "url": "https://luxurylondon.co.uk/taste/food/best-sri-lankan-restaurants-london/",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": ["Kolamba", "Hoppers", "Colombo Kitchen", "Paradise Soho", "Rambutan"],
+      "quotes": {
+        "Kolamba": "Recorded as Kolamba East, Liverpool Street, 12 Blossom St E1 6PL",
+        "Hoppers": "Recorded as 'Hoppers, Across London' - Soho, Marylebone and King's Cross named",
+        "Colombo Kitchen": "Recorded as Colombo Kitchen, Putney, 240 Upper Richmond Rd SW15 6TG. 'Award-winning chef Sylvia Perera', who grew up in Negombo and runs a street food stall in St James's Courtyard, Piccadilly",
+        "Paradise Soho": "Recorded as Paradise, Soho. Since closed"
+      }
+    },
+    {
+      "name": "Stylist - 7 of the best Sri Lankan restaurants for a delicious dinner in London",
+      "url": "https://www.stylist.co.uk/food-drink/best-sri-lankan-restaurants/814600",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": ["Kolamba", "Karapincha", "Hoppers", "Rambutan", "Dammika's", "Jaffna House", "Paradise Soho"]
+    },
+    {
+      "name": "The Handbook - London's Best Restaurants For An Authentic Taste Of Sri Lanka",
+      "url": "https://www.thehandbook.com/londons-best-sri-lankan-restaurants/",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": ["Hoppers", "Paradise Soho", "Colombo Kitchen", "Kolamba", "Jaffna House", "Karapincha", "Dammika's"]
+    },
+    {
+      "name": "Time Out - London's best chain restaurant 2026",
+      "url": "https://www.timeout.com/london/news/best-chain-restaurant-2026-sri-lankan-hoppers-082826",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": ["Hoppers"],
+      "quotes": {
+        "Hoppers": "Ranked #1 of Time Out's best chain restaurants in London, 28 August 2026. 'Taking the top spot was Hoppers, a Sri Lankan restaurant group with branches in Soho, Kings Cross, Shoreditch and Marylebone'"
+      },
+      "note": "Time Out's ranking is of London chains, not of Sri Lankan restaurants, so the rank is recorded as a chain rank and must be described that way on the page."
+    },
+    {
+      "name": "Time Out - Hoppers, tea and sapphires: it's the best of Sri Lankan London",
+      "url": "https://www.timeout.com/london/news/hoppers-tea-and-sapphires-its-the-best-of-sri-lankan-london-040318",
+      "tier": "B",
+      "scope": "sri-lankan",
+      "names": ["Hoppers", "Palm Beach", "Sambal Express", "Apollo Banana Leaf", "Jaffna House", "Pamban"],
+      "quotes": {
+        "Hoppers": "Contributor Zaynab Zubair's own pick",
+        "Palm Beach": "Reader pick, submitted via Facebook: 'Palm Beach, Wembley. No-brainer'",
+        "Sambal Express": "Reader pick: 'Sambal Express deserves a shoutout for the mutton rolls'",
+        "Apollo Banana Leaf": "Reader pick: 'Apollo Banana Leaf and Jaffna House in Tooting'",
+        "Jaffna House": "Reader pick, same comment",
+        "Pamban": "Reader pick: 'Pamban Cafe in Camden Market is good for chai and snacks'"
+      },
+      "note": "3 April 2018. Second record from timeout.com; the two collapse to ONE domain when support is counted. Mixed provenance - the first name is the contributor's, the rest are reader submissions, which is why the quotes say which."
+    },
+    {
+      "name": "Secret London - The Best Sri Lankan Restaurants In London",
+      "url": "https://secretldn.com/sri-lankan-restaurants-in-london/",
+      "tier": "C",
+      "scope": "sri-lankan",
+      "names": [
+        "Hoppers",
+        "Colombo Kitchen",
+        "Jaffna House",
+        "Kolamba",
+        "Karapincha",
+        "Dammika's",
+        "Adchaya",
+        "Everest Curry King",
+        "Serendip Flavours"
+      ],
+      "quotes": {
+        "Adchaya": "Recorded as Adchaya, 164 Merton High Street SW19 1AZ",
+        "Everest Curry King": "Recorded as Everest Curry King, 24 Loampit Hill SE13 7SW, Lewisham. BYOB",
+        "Serendip Flavours": "Recorded as Serendip Flavours, Arch 18, Elenor Street E3 4UR. Kerbside pickup, delivery and takeaway only",
+        "Karapincha": "'You'll find Karapincha at three different locations in London'",
+        "Dammika's": "Secret London says Dammika's won an award at the London Curry Awards in 2019; the awards' own results page was not reached, so this is not recorded as a verified award"
+      },
+      "note": "Numbered 1-9 but unordered - no ranking language on the page, so no ranks recorded."
+    },
+    {
+      "name": "London x London - Sri Lankan Restaurants in London",
+      "url": "https://www.londonxlondon.com/sri-lankan-restaurants/",
+      "tier": "C",
+      "scope": "sri-lankan",
+      "names": [
+        "Hoppers",
+        "Kolamba",
+        "Paradise Soho",
+        "Jaffna House",
+        "Dammika's",
+        "Papaya",
+        "Palm Beach",
+        "Apollo Banana Leaf",
+        "Virundhu"
+      ],
+      "note": "The page's lower rails ('Latest from London x London') carry four unrelated article headlines. Those are chrome and are not recorded."
+    },
+    {
+      "name": "London The Inside - Tasha Marikkar's Top Five Picks in the City for Sri Lankan Food",
+      "url": "https://londontheinside.com/tasha-marikkars-top-five-picks-in-the-city-for-sri-lankan-food/",
+      "tier": "C",
+      "scope": "sri-lankan",
+      "names": ["Jaffna House", "Gana", "Hoppers", "Paradise Soho", "Rambutan"],
+      "note": "Five picks by Tasha Marikkar, author of Jayaflava, published by London The Inside. Unordered."
+    },
+    {
+      "name": "Hyphen - Take your tastebuds on a trip to Sri Lanka",
+      "url": "https://hyphenonline.com/2026/09/01/sri-lankan-restaurants-uk/",
+      "tier": "C",
+      "scope": "sri-lankan",
+      "names": ["Hoppers", "Kolamba", "Rambutan", "Trinco Bay", "Kothu"],
+      "quotes": {
+        "Trinco Bay": "'Based in the Rayners Lane area of Harrow - one of London's established hubs for Sri Lankan food.' All meats halal",
+        "Kothu": "'Got its start at food markets in the Midlands and now has three brick-and-mortar branches in Harrow, Tooting and Croydon'",
+        "Hoppers": "'With halal chicken and lamb on the menu and three more branches - Shoreditch, Marylebone and King's Cross'"
+      },
+      "note": "TRAP 12 SCOPED. Published 1 September 2026 as a UK piece. Nadu in Bristol is named and is NOT counted here. Only the five London venues are recorded."
+    },
+    {
+      "name": "Greaves India - The Best Sri Lankan Restaurants in London",
+      "url": "https://www.greavesindia.co.uk/best-sri-lankan-restaurants-in-london/",
+      "tier": "C",
+      "scope": "sri-lankan",
+      "names": ["Hoppers", "Pamban", "Dammika's", "Apollo Banana Leaf", "Sambal Express"],
+      "quotes": {
+        "Pamban": "Recorded as PamBan Chai & Coffee House, Camden's Stables Market. 'Fragrant lamprais curry served on a customary banana leaf'",
+        "Sambal Express": "'A culinary mission to Harrow very worthwhile'",
+        "Apollo Banana Leaf": "'This is south London's best Sri Lankan restaurant'"
+      }
+    },
+    {
+      "name": "Feed the Lion - Tharshini's Halal Sri Lankan takeaway in London Tooting",
+      "url": "https://www.feedthelion.co.uk/tharshinis-sri-lankan-tooting-london/",
+      "tier": "C",
+      "scope": "sri-lankan",
+      "names": ["Tharshini's"],
+      "note": "Single-venue review from a halal-dining specialist. Tharshini's is named by no other source in this set."
+    },
+    {
+      "name": "Bon Appetit (YouTube) - The World's Only Sri Lankan Tasting Menu is in London",
+      "url": "https://www.youtube.com/@bonappetit",
+      "tier": "D",
+      "scope": "sri-lankan",
+      "names": ["Paradise Soho"],
+      "quotes": {
+        "Paradise Soho": "Published 10 April 2025. A day on the line with chef Dom Fernando. 'To my knowledge, we are the only restaurant in the world right now doing a Sri Lankan tasting menu.' Since closed"
+      }
+    },
+    {
+      "name": "Busayo AD (YouTube) - I Tried Sri Lanka's Best Food in London",
+      "url": "https://www.youtube.com/@Busayo_AD",
+      "tier": "D",
+      "scope": "sri-lankan",
+      "names": ["Spicyelon", "Karapincha"],
+      "quotes": {
+        "Spicyelon": "Published 29 June 2025. Address given in the description: 23 Wrythe Ln, Carshalton SM5 1AG",
+        "Karapincha": "Description spells it 'Karapinha' in the body and 'Karapincha' in the address line - Unit 14, Canary Wharf Station E14 4HJ. Merged on the address"
+      }
+    },
+    {
+      "name": "Nandini (YouTube) - Homeless to His Own Sri Lankan Restaurant in London",
+      "url": "https://www.youtube.com/@nandinibalakrish",
+      "tier": "D",
+      "scope": "sri-lankan",
+      "names": ["Yogi's Sri Lankan Kitchen"],
+      "quotes": {
+        "Yogi's Sri Lankan Kitchen": "Published 25 January 2026. Chef Yogeswaran Sivakolundu, who came to the UK in 2007. No address in the description"
+      }
+    },
+    {
+      "name": "SEE1508 (YouTube) - Hoppers King's Cross Restaurant Review",
+      "url": "https://www.youtube.com/@see1508-more-than-just-travel",
+      "tier": "D",
+      "scope": "sri-lankan",
+      "names": ["Hoppers"],
+      "quotes": { "Hoppers": "Published 11 October 2025. Hoppers King's Cross, 4 Pancras Square N1C 4AG" }
+    },
+    {
+      "name": "Kitchen Raid (YouTube) - Food For Thought",
+      "url": "https://www.youtube.com/@KitchenRaid",
+      "tier": "D",
+      "scope": "sri-lankan",
+      "names": ["Hoppers", "Veechu"],
+      "quotes": {
+        "Hoppers": "Hoppers King's Cross, Unit 3, 4 Pancras Square N1C 4AG",
+        "Veechu": "Second Sri Lankan film on the same channel: 'CHEESY Kothu & OREO Hoppers Sri Lankan Food Fusion | Veechu LONDON'"
+      },
+      "note": "One record per channel: two videos, one opinion."
+    },
+    {
+      "name": "Shu (YouTube) - Eating Sri Lankan Food in London",
+      "url": "https://www.youtube.com/@dejashu",
+      "tier": "D",
+      "scope": "sri-lankan",
+      "names": ["Kolamba"],
+      "quotes": { "Kolamba": "Kolamba on Kingly Street. Chapter markers list black pepper prawn fry, Ceylon chicken curry, plain hopper, parippu dhal, pol roti, pol sambol" }
+    },
+    {
+      "name": "London Tamil Bro (YouTube)",
+      "url": "https://www.youtube.com/@londontamilbro",
+      "tier": "D",
+      "scope": "sri-lankan",
+      "names": ["Malar Spice", "Trinco Bay"],
+      "quotes": {
+        "Malar Spice": "Address in the description: 541 High Rd, Wembley HA0 2DJ",
+        "Trinco Bay": "Address in the description: Trinco Bay Cocktail Bar & Restaurant, 8 Village Way E, Rayners Lane, Harrow HA2 7LU"
+      },
+      "note": "Tamil-language London channel. Two videos across the topic, recorded once."
+    },
+    {
+      "name": "Food Kulcha (YouTube) - TrincoBay Restaurant Review",
+      "url": "https://www.youtube.com/@FoodKulcha",
+      "tier": "D",
+      "scope": "sri-lankan",
+      "names": ["Trinco Bay"],
+      "quotes": { "Trinco Bay": "Published 25 December 2025. Recorded as TrincoBay" }
+    },
+    {
+      "name": "Life with Hashi (YouTube) - Trying Sri Lankan Flavours in London",
+      "url": "https://www.youtube.com/@Life_WithHashi",
+      "tier": "D",
+      "scope": "sri-lankan",
+      "names": ["MOVA"],
+      "quotes": { "MOVA": "Published 3 January 2026. Recorded as MOVA Group Restaurant. A GBP 35 buffet. No address in the description" }
+    },
+    {
+      "name": "Homegirl London (YouTube) - Rambutan Restaurant Borough Market",
+      "url": "https://www.youtube.com/@homegirllondon2954",
+      "tier": "D",
+      "scope": "sri-lankan",
+      "names": ["Rambutan"]
+    }
+  ],
+  "scopeExcluded": [
+    {
+      "name": "Nochi Tamil (YouTube) - MUST TRY INDIAN & SRI LANKAN FOOD SPOTS IN LONDON",
+      "url": "https://www.youtube.com/@MKapilan",
+      "tier": "D",
+      "names": ["Zam Zam Refreshment Centre", "Curry Express", "Sarasas Restaurant", "Hamza Flavas"],
+      "reason": "The video covers Hayes, Hounslow, Cranford and Southall and files Indian and Sri Lankan together without saying which is which. Recording the four names would put unlabelled South Indian venues into a Sri Lankan count, which is exactly the blur this topic exists to undo. Worth a second pass if the four can be checked against their own menus."
+    },
+    {
+      "name": "Guido TV (YouTube) - WE ARE JUDGING SRI LANKAN FOOD IN THE UK",
+      "url": "https://www.youtube.com/@Guidotv222",
+      "tier": "D",
+      "names": ["Little Lanka Restaurant"],
+      "reason": "TRAP 12. The only venue is Little Lanka, 238 Wellington Rd S, Stockport SK2 6NW. Not London."
+    },
+    {
+      "name": "Robbie Thompson / Street Food Analysis (YouTube) - The 65-YEAR-OLD GRANDMA Running London's Best Sri Lankan Restaurant",
+      "url": "https://www.youtube.com/@streetfoodanalysis",
+      "tier": "D",
+      "names": [],
+      "reason": "TRAP 5. Published 15 July 2025, 55,784 views, and the description names the cooks - Sylvia and Herbert - and the area, Putney, but never the restaurant. Colombo Kitchen's Putney site is run by chef Sylvia Perera, which makes it the obvious candidate, and guessing is how a venue gets a citation it did not earn. Left uncounted until the name is confirmed."
+    },
+    {
+      "name": "The Infatuation - Sri Lankan cuisine index",
+      "url": "https://www.theinfatuation.com/london/cuisines/sri-lankan",
+      "tier": "B",
+      "names": ["Rambutan", "Hoppers", "Pavilion Cafe", "ADOH!", "The Railway Tavern"],
+      "reason": "An index page, not an editorial list, and the same masthead as the guide already recorded. Kept here because it is the only place that turns up The Railway Tavern in Crouch End, tagged 'Caribbean Sri Lankan' - worth chasing as a real venue next pass."
+    },
+    {
+      "name": "Resident Hotels - Best Sri Lankan Restaurants in Soho and London",
+      "url": "https://www.residenthotels.com/local-guides/the-resident-soho/best-of-sri-lankan",
+      "tier": "C",
+      "names": ["Kolamba", "Hoppers"],
+      "reason": "A hotel's local guide naming the two Sri Lankan restaurants nearest its own front door. Two names, no judgement, and counting it would inflate the source total for nothing. TRAP 8 in spirit."
+    }
+  ],
+  "closedDuringThisPass": [
+    {
+      "venue": "Paradise Soho",
+      "address": "61 Rupert Street, W1D 7PW",
+      "citedBy": "DesignMyNight, House & Garden, Foodism, Luxury London, Stylist, The Handbook, London x London, London The Inside, Time Out, Bon Appetit",
+      "evidence": "Three independent registers have dropped or flagged it: Time Out's own venue page is titled 'Paradise (CLOSED)'; the MICHELIN Guide's London Sri Lankan list is now Hoppers and Rambutan only, and no London Paradise appears anywhere in Michelin's GB restaurant sitemap; the Good Food Guide's entry returns Restaurant Not Found. Chef Dom Fernando's six-course Sri Lankan tasting menu was filmed by Bon Appetit in April 2025.",
+      "handling": "Not in the counts and not an entry on the page. Named once in the article as closed, because ten of the sources a reader will meet still list it."
+    }
+  ],
+  "aliases": {
+    "Hoppers": ["Hoppers Soho", "Hoppers London", "Hoppers King's Cross", "Hoppers Marylebone", "Hoppers Shoreditch", "Hoppers St Christopher's Place"],
+    "Kolamba": ["Kolamba Soho", "Kolamba East"],
+    "ADOH!": ["Adoh!", "ADOH", "Adoh"],
+    "Kothu": ["Kothu Sri Lankan Restaurant & Bar", "Kothu Sri Lankan Restaurant and Bar", "Kothu Restaurant"],
+    "Dammika's": ["Dammikas", "Dammika"],
+    "Karapincha": ["Karapinha", "Karapincha Kitchen"],
+    "Jaffna House": ["Jaffna House Restaurant", "Jaffna"],
+    "Colombo Kitchen": ["Colombo Kitchen Hopper and Kottu Bar"],
+    "Palm Beach": ["Palm Beach Restaurant"],
+    "Gana": ["Gana Fine Dining", "Gana Cafe"],
+    "Trinco Bay": ["TrincoBay", "Trinco Bay Cocktail Bar & Restaurant"],
+    "Best Foods Supermarket": ["Best Food Supermarket"],
+    "Pamban": ["PamBan Chai & Coffee House", "Pamban Cafe", "Pamban Chai"],
+    "Paradise Soho": ["Paradise"],
+    "ISSO Prawn Crazy": ["Prawn Crazy", "ISSO"]
+  },
+  "notMerged": [
+    {
+      "pair": ["Gana", "the Wembley Gana"],
+      "reason": "Eater states plainly that Gana in Harrow and its Wembley namesake are no relation. Only the Harrow restaurant is recorded."
+    },
+    {
+      "pair": ["Sambal Express", "Sambal Kitchen & Diner"],
+      "reason": "Eater describes Sambal Kitchen & Diner as a small cafe sitting next to the South Harrow branch of the Sambal Express grocer chain. Same family, two businesses with different addresses and different offers. A wrong merge would be invisible; two records are not."
+    },
+    {
+      "pair": ["Best Foods Supermarket (Walthamstow)", "Bestfoods (Wembley)"],
+      "reason": "The Infatuation and Foodism both place Best Foods Supermarket at 156-158 Forest Road E17. Eater's 'Bestfoods' is a different shop on Ealing Road in Wembley, named inside the Palm Beach entry. Only the Walthamstow counter is recorded as a venue."
+    },
+    {
+      "pair": ["Kothu", "Colombo Kitchen Hopper and Kottu Bar"],
+      "reason": "Two unrelated businesses whose names both contain the word. Kothu is the Harrow/Tooting/Croydon group; the kottu bar is a feature of Colombo Kitchen."
+    },
+    {
+      "pair": ["Karapincha", "Mercato Metropolitano"],
+      "reason": "Not an alias - the hall is the address, the trader is the venue. DesignMyNight headed the entry with the hall; recorded under the trader."
+    }
+  ],
+  "branchDecisions": [
+    {
+      "venue": "Hoppers",
+      "decision": "ONE venue, four London sites: Soho (49 Frith Street W1D 4SG), Marylebone (77 Wigmore Street W1U 1QE), King's Cross (4 Pancras Square N1C 4AG) and Shoreditch. Sources name the brand far more often than a branch, Michelin's Bib Gourmand is filed under 'Hoppers' with the Soho address, and Time Out's award is to the group. Splitting by branch would turn the most-cited venue in the topic into four weak ones - trap 17."
+    },
+    {
+      "venue": "Kolamba",
+      "decision": "ONE venue, two sites: Kolamba Soho (21 Kingly Street W1B 5QA) and Kolamba East (12 Blossom Street E1 6PL). SquareMeal treats them as one entry; the operator's own site presents them as two rooms of one restaurant. Bookings are per site."
+    },
+    {
+      "venue": "Colombo Kitchen",
+      "decision": "ONE venue, two sites: Worcester Park (25-27 Central Road KT4 8EG) and Putney (240 Upper Richmond Road SW15 6TG), plus a street food stall in St James's Courtyard, Piccadilly. Sources split between the two addresses and none treats them as separate restaurants."
+    },
+    {
+      "venue": "Karapincha",
+      "decision": "ONE venue, three sites, all counters rather than dining rooms: Old Spitalfields Market (E1 6EW), Mercato Metropolitano (SE1 6DR) and Canary Wharf Station (Unit 14, E14 4HJ)."
+    },
+    {
+      "venue": "Kothu",
+      "decision": "ONE venue, three sites: Tooting (114 Tooting High Street SW17 0RR), Harrow and Croydon. Hyphen, 1 September 2026, is the source for the three."
+    }
+  ],
+  "knownGaps": [
+    "Tier E is EMPTY. Reddit is blocked at reddit.com and old.reddit.com (403 to every user agent tried, including the .json API), and three mirror front ends - safereddit.com, redlib.catsarch.com and redlib.perennialte.ch - answer with a proof-of-work challenge or a 429. Four London Sri Lankan threads were visible in search results and none could be read. No non-Reddit forum with London Sri Lankan discussion was found.",
+    "No award body judges Sri Lankan cooking in Britain. Checked and empty: the Asian Curry Awards 2025 and 2024 winner lists (no Sri Lankan category and no Sri Lankan venue in any category), the National Restaurant Awards top 100 (no Sri Lankan restaurant), and Harden's, whose London cuisine pages are client-rendered. The judged evidence in this topic is the MICHELIN Guide and the Good Food Guide, and between them they cover three restaurants.",
+    "Colombo Kitchen's own site claims 'Best Sri Lankan Dining Experience' (LuxLife 2025), Sri Lankan Restaurant of the Year 2023 and National Chef of the Year 2024 (Asian Restaurant Awards), and a Guild of Fine Food 2-star Great Taste Award 2024 for its lamprais. None was verified against the awarding body, so none is printed.",
+    "Secret London says Dammika's won at the London Curry Awards in 2019. The awards' own results page was not reached, so it is not printed.",
+    "General web search collapsed mid-pass: Brave began serving a JavaScript challenge, Bing's RSS endpoint degraded to searching only the first word of a query, and DuckDuckGo lite, Mojeek, Startpage and searx.be all returned no results. Most of the corpus was collected before that, and the rest by fetching publisher and operator pages directly. A later pass with working search should look again for outer-London coverage - East Ham, Hounslow and Croydon are thin here."
+  ],
+  "openVenueQuestions": [
+    "ISSO Prawn Crazy, Canary Wharf (25 Cabot Square E14 4QA) - SquareMeal writes it up as trading; the operator's own site marks the London site as opening soon. Recorded in the corpus, deliberately kept off the page until the opening is confirmed.",
+    "Yaalu Yalu, 164 Addington Road, South Croydon - named only by Eater's 2019 list. No closure signal on Time Out's venue page, but nothing recent names it either. Kept off the page.",
+    "Pavilion, Victoria Park - Eater's 2019 entry describes a meat-free cafe and bakery with Sri Lankan-INSPIRED brunches, not a Sri Lankan kitchen. The Infatuation's cuisine index still tags 'Pavilion Cafe, Bow' as Sri Lankan. Counted once, from Eater, and kept off the page on the boundary rule.",
+    "The Railway Tavern, Crouch End - tagged 'Caribbean Sri Lankan' by The Infatuation's index. Not on any list read here. Worth a look.",
+    "MOVA (Life with Hashi), Yogi's Sri Lankan Kitchen (Nandini), Malar Spice (541 High Rd, Wembley HA0 2DJ), Spicyelon (23 Wrythe Lane, Carshalton SM5 1AG), Veechu and Tharshini's each have exactly one source and no address we could confirm against an operator page.",
+    "Papaya, 161 Northfield Avenue W13 - two sources. papaya-uk.com is the Ealing restaurant; papayarestaurant.co.uk is an unrelated business in Burton Latimer.",
+    "Pamban - two sources (Time Out 2018 reader pick, Greaves) both describe a cafe in Camden's Stables Market. Pamban now trades as a packaged chai brand selling wholesale and through stockists, and its own account of the name is 'an Island with strong British ties situated between India and Sri Lanka', which is Pamban Island in Tamil Nadu. Counted in the corpus, kept off the page on both grounds: the Camden cafe could not be confirmed as trading and the Sri Lankan claim is thin.",
+    "Machan Kitchen - the operator's site lists Farringdon only, but a 'Machan Kitchen Croydon' exists on delivery platforms. Not claimed as a branch on the page."
+  ]
+}

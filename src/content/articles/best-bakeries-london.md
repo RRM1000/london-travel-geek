@@ -77,7 +77,7 @@ Bakeries are ranked more loosely than restaurants — there is no Michelin for b
 
 **The [Good Food Guide's 50 Best British Bakeries](https://www.thegoodfoodguide.co.uk/best-of/britains-best-bakeries-2026)** is the closest thing to a definitive list. It is judged, dated, and national, which means a London entry has beaten bakeries from the whole country rather than just the borough. **Ten of the fifty for 2026 are in London, and seven of those ten are new entries** — a turnover rate that tells you the category is still moving fast enough that any list more than a year old is unreliable.
 
-**The Telegraph** runs its own annual ranking, and **Time Out** reports on both rather than judging independently — a Time Out headline saying a bakery has been "crowned" usually means someone else did the crowning. That is not a criticism; it just means the two are not independent sources of the same claim, and we have not counted them as such.
+**The Telegraph** runs its own annual ranking, and **Time Out** reports on both rather than judging independently — a Time Out headline saying a bakery has been "crowned" usually means someone else did the crowning. That is not a criticism; it just means the two are not independent sources of the same claim.
 
 **What none of them measure is consistency.** A bakery can produce the best croissant in the country on the day the judge visits and sell out by ten every Saturday thereafter. That is why the queue commentary below matters: it comes from people who went back.
 
@@ -429,6 +429,7 @@ Bakeries are one of the few areas where the best thing in the category is also n
 
 ## Continue planning your London trip
 
+- 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)** — where Panadera's longanisa roll sits in the wider Filipino scene
 - ☕ **[The Best Coffee in London](/articles/best-coffee-london/)**
 - 🍳 **[The Best Breakfast and Brunch in London](/articles/best-breakfast-brunch-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**

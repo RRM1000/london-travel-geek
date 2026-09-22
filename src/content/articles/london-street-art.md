@@ -429,7 +429,7 @@ There are two completely separate markets here and they have almost nothing to d
 
 **Nelly Duff is the one to do on a Sunday**, because Columbia Road Flower Market is happening outside the door and the gallery opens at 9am to catch it. It is the only gallery here with useful Sunday hours.
 
-> ⚠️ **StolenSpace shows its prices before VAT.** Their own site says so in the footer. Add 20% to anything you see there before deciding what you can afford — it is the single most expensive assumption to get wrong on this page.
+> ⚠️ **StolenSpace shows its prices before VAT.** Add 20% to anything you see there before deciding what you can afford — it is the single most expensive assumption to get wrong on this page.
 
 ### If it is a Banksy you want
 

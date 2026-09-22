@@ -1,9 +1,9 @@
 ---
 title: "Is the London Pass Worth It? The Arithmetic, Done Properly"
 seoTitle: "London Pass 2026: Real Prices & When It Loses Money"
-description: "A 2-day pass is £149. The classic big five cost £139.70 at the gate. Here is exactly which itineraries the London Pass pays on, which it loses on, and the memberships that beat it outright."
+description: "A 2-day pass is £149. The classic big five cost £142.00 at the gate. Here is exactly which itineraries the London Pass pays on, which it loses on, and the memberships that beat it outright."
 publishedAt: 2026-09-01
-updatedAt: 2026-09-01
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -11,7 +11,7 @@ tags: [London Pass, attractions, planning, budget travel, tickets]
 draft: false
 faq:
   - q: "Is the London Pass worth it?"
-    a: "Only on dense, expensive itineraries. A 2-day adult pass is £149 and the classic big five — Tower of London, Westminster Abbey, St Paul's, London Eye, Tower Bridge — total £139.70 booked direct. You need a sixth paid attraction in those two days before the pass starts winning. Most visitors do not."
+    a: "Only on dense, expensive itineraries. A 2-day adult pass is £149 and the classic big five — Tower of London, Westminster Abbey, St Paul's, London Eye, Tower Bridge — total £142.00 booked direct. You need a sixth paid attraction in those two days before the pass starts winning. Most visitors do not."
   - q: "Does the London Pass include the Tube?"
     a: "No. Go City's own FAQ says plainly that its passes do not include public transport. You still need contactless or an Oyster card for the Underground and buses. A Big Bus hop-on hop-off ticket and a City Cruises river pass are included, but they are tours, not transport."
   - q: "Can I use the London Pass for the London Eye?"
@@ -32,16 +32,16 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 
 The London Pass can save you money. Every other guide stops there, which is useless, because the question is *when*.
 
-So here is the arithmetic. A **2-day adult pass is £149**. The five attractions a first-time visitor actually names — [Tower of London](/articles/tower-of-london-guide/), Westminster Abbey, St Paul's, the London Eye, Tower Bridge — come to **£139.70** booked direct at the prices those attractions charge on their own websites.
+So here is the arithmetic. A **2-day adult pass is £149**. The five attractions a first-time visitor actually names — [Tower of London](/articles/tower-of-london-guide/), Westminster Abbey, St Paul's, the London Eye, Tower Bridge — come to **£142.00** booked direct at the prices those attractions charge on their own websites.
 
-**The pass loses by £9.30.** You need a sixth paid attraction in those two days before it starts to pay.
+**The pass loses by £7.00.** You need a sixth paid attraction in those two days before it starts to pay.
 
 That is the shape of this whole question, and it does not appear on any page selling you the thing.
 
 > 💡 **The Short Version:** **London's greatest museums are free**, so a large share of visitors should not buy any pass at all. The **1-day pass at £99** is the worst value on the board. The **child pass is poor value** — attractions charge children half, the pass charges them two-thirds. **Historic Royal Palaces membership at £65** beats the pass outright for anyone whose trip is about the palaces. And Go City's own "price without pass" figures quote **walk-up rates**, which nobody sensible pays.
 
 > 📘 **How we worked this out (editorial note).**
-> Pass prices are taken from Go City's own product data on londonpass.com. Attraction prices are taken from **each attraction's own website**, never from the pass seller — the party quoting them has an interest in them looking expensive. Where an attraction sells at one price in advance and a higher price at the door, we use the advance price, because that is what a planning visitor pays. Prices checked 1 September 2026.
+> Pass prices are taken from Go City's own product data on londonpass.com. Attraction prices are taken from **each attraction's own website**, never from the pass seller — the party quoting them has an interest in them looking expensive. Where an attraction sells at one price in advance and a higher price at the door, we use the advance price, because that is what a planning visitor pays. Prices checked 22 September 2026.
 >
 > This site carries affiliate links to activity sellers, including sightseeing passes; nothing in the recommendation below is changed by that, and this article concludes against buying the pass for most readers.
 
@@ -136,11 +136,11 @@ Verified on each attraction's own website. Where a site sells cheaper in advance
 | **Kensington Palace** | £24.70 | £12.40 | £27.20 / £13.70 with donation |
 | **The Royal Mews** | £18.00 | £9.00 | Advance price |
 | **London Eye** | from £29.00 | from £26.00 | **£39 / £35 walk-up**; dynamic pricing |
-| **Madame Tussauds** | from £23.63 | from £21.00 | **£39 / £35 walk-up**; dynamic pricing |
-| **Tower Bridge** | £15.70 | £9.00 | Child 5–15; under 5 free but needs a ticket |
+| **Madame Tussauds** | from £27.00 | from £21.00 | **£39 / £35 walk-up**; dynamic pricing |
+| **Tower Bridge** | £18.00 | £9.00 | Child 5–15; under 5 free but needs a ticket |
 | **Cutty Sark** | £22.00 | £11.00 | £10 entry on Tuesdays |
-| **Royal Observatory Greenwich** | £18.00 | £9.00 | |
-| **Kew Gardens** | £21.85–£24.50 | £8.75–£9.50 | Varies by day; higher with donation |
+| **Royal Observatory Greenwich** | £24.00 | £12.00 | £38 combined with Cutty Sark |
+| **Kew Gardens** | £25.00–£28.00 | £2.00–£4.00 | £25 online, £28 at the gate; child flat rate from 2 September 2026 |
 | **London Transport Museum** | £27.00 | **Free** | Under-18s free |
 | **The Monument** | £7.00 | £3.50 | The cheapest ticketed viewpoint in London |
 | **Churchill War Rooms** | £34 | — | **Not on the pass** |
@@ -157,7 +157,7 @@ Go City prints a "price without pass" against each attraction. On several of the
 
 | Attraction | Go City's figure | Own site, in advance | Overstated by |
 | --- | --- | --- | --- |
-| Madame Tussauds | £34.13 | from £23.63 | **£10.50** |
+| Madame Tussauds | £34.13 | from £27.00 | **£7.13** |
 | London Eye | £34.13 | from £29.00 | £5.13 |
 | Windsor Castle | £36.00 | £32.00 | £4.00 |
 | Buckingham Palace State Rooms | £37.00 | £33.00 | £4.00 |
@@ -181,14 +181,14 @@ The classic list, booked direct in advance.
 | Westminster Abbey | £31.00 |
 | St Paul's Cathedral | £27.00 |
 | London Eye | £29.00 |
-| Tower Bridge | £15.70 |
-| **Gate total** | **£139.70** |
+| Tower Bridge | £18.00 |
+| **Gate total** | **£142.00** |
 | 2-day London Pass | £149.00 |
-| **Result** | **Pass loses by £9.30** |
+| **Result** | **Pass loses by £7.00** |
 
-Add a sixth — Madame Tussauds at £23.63 — and the gate total becomes £163.33. **Now the pass wins, by £14.33.**
+Add a sixth — Madame Tussauds at £27.00 — and the gate total becomes £169.00. **Now the pass wins, by £20.00.**
 
-So the honest rule for two days: **six paid attractions to make £14.** That is one every three hours of an eight-hour sightseeing day, with no long lunch and no getting lost. Five is a good, full, realistic two days, and at five the pass loses.
+So the honest rule for two days: **six paid attractions to make £20.** That is one every three hours of an eight-hour sightseeing day, with no long lunch and no getting lost. Five is a good, full, realistic two days, and at five the pass loses.
 
 ### 2. Family of four, three days
 
@@ -202,16 +202,16 @@ A busy but plausible three days:
 | --- | --- | --- |
 | Tower of London | £37.00 | £18.50 |
 | London Eye | £29.00 | £26.00 |
-| Madame Tussauds | £23.63 | £21.00 |
+| Madame Tussauds | £27.00 | £21.00 |
 | Hampton Court Palace | £29.00 | £14.50 |
-| Tower Bridge | £15.70 | £9.00 |
-| **Per person** | **£134.33** | **£89.00** |
+| Tower Bridge | £18.00 | £9.00 |
+| **Per person** | **£140.00** | **£89.00** |
 
-Family total at the gate: **£446.66**. Against £596.
+Family total at the gate: **£458.00**. Against £596.
 
-**The pass loses by £149.34.**
+**The pass loses by £138.00.**
 
-To get in front you must add Windsor Castle and Kensington Palace, taking it to seven paid attractions in three days with two children — £616.86 at the gate, a **£20.86** win. That is not a holiday, it is a forced march, and it buys twenty pounds.
+To get in front you must add Windsor Castle and Kensington Palace, taking it to seven paid attractions in three days with two children — £628.20 at the gate, a **£32.20** win. That is not a holiday, it is a forced march, and it buys twenty pounds.
 
 > ⚠️ **The child pass is the weak point.** Most London attractions charge children about **half** the adult price — the Tower, Hampton Court, Kensington and Windsor are all bang on 50%. The 3-day pass charges children **two-thirds** of the adult price. The pass is worst value for children at exactly the attractions where children are cheapest. The exception is Merlin: the London Eye charges a child £26 against £29, so the pass's child rate holds up there.
 
@@ -221,14 +221,14 @@ You have done the Tower. Now you want Greenwich and Kew. A 3-choice Explorer is 
 
 | | Adult |
 | --- | --- |
-| Royal Observatory Greenwich | £18.00 |
+| Royal Observatory Greenwich | £24.00 |
 | Cutty Sark | £22.00 |
-| Kew Gardens | £21.85 |
-| **Gate total** | **£61.85** |
+| Kew Gardens | £25.00 |
+| **Gate total** | **£71.00** |
 | 3-choice Explorer | £89.00 |
-| **Result** | **Pass loses by £27.15** |
+| **Result** | **Pass loses by £18.00** |
 
-This is the standard trap for a second-visit itinerary. **The interesting attractions are the cheap ones.** The Monument is £7. The Royal Observatory is £18. Under-18s get into the London Transport Museum free. None of them can carry a £29.67 break-even.
+This is the standard trap for a second-visit itinerary. **The interesting attractions are the cheap ones.** The Monument is £7. Greenwich sells the Observatory and Cutty Sark together for £38. Under-18s get into the London Transport Museum free. None of them can carry a £29.67 break-even.
 
 The Explorer only pays if you deliberately pick the priciest items on it — and those skew towards tours, stadium tours and mystery games rather than the places you came to see.
 
@@ -288,7 +288,7 @@ And the free viewpoints — Sky Garden, Horizon 22, The Garden at 120, Tate Mode
 
 **Refunds: 90 days from purchase, non-activated passes only.** Passes bought before 1 May 2026 keep the older 30-day policy. Unactivated passes are valid a year from purchase.
 
-**The list price is rarely the price.** At the time of writing Go City was running a bank holiday sale — £15 off 3+ day passes with a code, ending at 05:00 today. Promotional codes on this product are close to permanent. **Never buy at list price without checking for a live code**, and treat the arithmetic above as the pessimistic case for the pass.
+**The list price is rarely the price.** Promotional codes on this product are close to permanent — a bank holiday sale took £15 off 3+ day passes. **Never buy at list price without checking for a live code**, and treat the arithmetic above as the pessimistic case for the pass.
 
 ---
 

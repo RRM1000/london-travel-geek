@@ -32,7 +32,7 @@ So this guide is arranged by what you are actually queuing for, because "ice cre
 > 💡 **The Short Version:** **Gelupo** in Soho is the one that turns up on every list, and it is open to midnight at weekends. **Nardulli** in Clapham has the queue. **Romeo & Giulietta** in Stoke Newington is Time Out's current number one. **Badiani** for the Buontalenti and nothing else. And **Marcelo's** in Crystal Palace is the best vegan ice cream in the city, two days a week only.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **7 sources carrying 105 citations** across **74 named shops**. **20 shops are named by two or more independent sources.**
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 105 citations** across **73 named shops**. **20 shops are named by two or more independent sources.**
 > **Built on:** gelato, soft serve and scoop shops counted together, so the guide covers the whole field rather than one format.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -176,7 +176,7 @@ The **pistachio** and the **salted caramel** are the standing orders, with a rot
 
 *166 Pavilion Road · factory shop in Bermondsey* · Cited by 3 sources
 
-**Named the best in the UK by The Times in July 2025**, and described in the same piece as London's best-kept secret — which is supported by the fact that their own website does not mention the award anywhere.
+**Named the best in the UK by The Times in July 2025**, and described in the same piece as London's best-kept secret.
 
 Eighteen years in, making its own nut pastes, fruit juices, ripple sauces and honeycomb rather than buying them in, across fifty-plus flavours. **Banana split, cornflake, dulce de leche**, and an Aperol Spritz sorbet.
 
@@ -245,7 +245,7 @@ The **gelato** is made in small batches and sold alongside the sourdough doughnu
 
 ### Mamasons Dirty Ice Cream, Kentish Town and Chinatown
 
-*91 Kentish Town Road · 32 Newport Court* · Cited by 3 sources
+*91 Kentish Town Road · 32 Newport Court* · Cited by 4 sources
 
 London's first Filipino *sorbetes* — "dirty ice cream", so called because it was traditionally sold from carts on the street rather than because of anything about the product.
 

@@ -426,7 +426,7 @@ Most of the regret at the end of a trip traces back to a handful of decisions ta
 
 **Assuming Shoreditch is cheap.** It is not, and has not been for years: about £110 at the bottom, £180 to £250 for most of it, against Bloomsbury and Covent Garden which are cheaper *and* more central. Stay in Shoreditch because you want the design hotels and the bars, not because you think you are saving.
 
-**Booking where the sightseeing is.** The area you most want to look at is frequently the worst one to sleep in, because the qualities are opposed. Westminster is magnificent and has almost nothing open in the evening. Soho is the best night out in Britain and the hardest place in it to sleep. Decide the two separately, then use [the visiting guide](/articles/best-areas-to-visit-london/) for the daytime half.
+**Booking where the sightseeing is.** The area you most want to look at is frequently the worst one to sleep in, because the qualities are opposed. Westminster is magnificent and has almost nothing open in the evening. Soho is where London goes out, and one of the hardest places in it to sleep. Decide the two separately, then use [the visiting guide](/articles/best-areas-to-visit-london/) for the daytime half.
 
 **Booking the cheapest room grade without reading what it is.** Both Z Hotels here sell an "Inside" room with no window as their lead rate and people book it by accident every week. art'otel Hoxton charges about £56 for breakfast on top of a £230 room. Zedwell cleans every four days rather than daily and charges £15 a piece for luggage storage. None of these are scandals — they are the trade for the price — but they are all decided at the booking page and none of them are on the headline.
 

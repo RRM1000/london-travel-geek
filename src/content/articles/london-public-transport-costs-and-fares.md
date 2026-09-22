@@ -290,7 +290,7 @@ London's public bike-sharing scheme (**Santander Cycles**, fondly known as "Bori
 ## Black cabs and private hire (Taxis & Uber)
 
 ### Official London Black Cabs (Metered)
-Iconic London black cabs can be hailed on the street, picked up at designated taxi ranks (e.g. major train stations), or booked via apps like Gett. Fares are strictly metered based on time and distance:
+Black cabs can be hailed on the street, picked up at designated taxi ranks (major train stations all have one), or booked through apps like Gett. Fares are strictly metered based on time and distance:
 
 * **Minimum fare:** **£4.40** upon entering the cab.
 * **1-mile journey:** Approx. **£8.40 – £13.20** (depending on traffic and time of day).

@@ -67,7 +67,7 @@ heroImageAlt: "The terracotta towers of the Natural History Museum lit by low ev
 
 South Kensington exists because of the 1851 Great Exhibition. Its profits bought the land, and what went up afterwards was a deliberate cluster of museums, colleges and concert halls — the area was nicknamed Albertopolis after the prince who drove it.
 
-The result is three of the world's great museums within 400 metres of each other, all free, plus the Royal Albert Hall at the top of the road. It is the highest concentration of free culture anywhere in Britain.
+The result is three of the world's great museums within 400 metres of each other, all free, plus the Royal Albert Hall at the top of the road.
 
 South Kensington has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=south-kensington).
 

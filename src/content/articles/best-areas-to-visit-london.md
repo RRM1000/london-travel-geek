@@ -23,7 +23,7 @@ heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 ---
 
-London is not a monolithic city—it is a tapestry of distinct, walkable villages stretched along the River Thames. Exploring London is about discovering these unique pockets, from historic West End theatre courtyards to maritime riverfronts and cobblestone food markets.
+London works less like one city centre than like a string of walkable neighbourhoods along the Thames: a theatre district, a Victorian museum quarter, a Roman street plan under glass towers, a maritime village below an observatory. Which of them are worth your time depends almost entirely on how many days you have.
 
 > 💡 **Where to start.**
 > - **First trip, three or four days:** the first table will fill it.
@@ -32,8 +32,6 @@ London is not a monolithic city—it is a tapestry of distinct, walkable village
 
 ![Illustrated map of London's neighbourhoods along the River Thames](../../assets/articles/best-areas-to-visit-london/london-areas-map.jpg)
 *Central London neighbourhood map: the key visitor districts along the River Thames.*
-
----
 
 ---
 
@@ -96,10 +94,10 @@ Further out, mostly residential, and where London stops performing for visitors.
 
 ## 5 Golden Rules for Exploring London's Neighbourhoods
 
-1. **Explore on Foot:** Central London is remarkably walkable. Walking between Covent Garden, Soho, and Westminster is often faster and much more scenic than taking the Tube!
-2. **Take Advantage of Free Museums:** Standard entry to the British Museum, Natural History Museum, V&A, Science Museum, and Tate Modern is **100% free**.
+1. **Explore on Foot:** Walking between Covent Garden, Soho and Westminster is often faster than taking the Tube, and you see the city rather than a tunnel.
+2. **Take Advantage of Free Museums:** Standard entry to the British Museum, Natural History Museum, V&A, Science Museum and Tate Modern is **free**.
 3. **Use the River Bus:** For a scenic transit route between West End and Greenwich, tap in on the **Uber Boat by Thames Clippers** instead of sitting underground.
-4. **Visit Food Markets for Lunch:** Skip expensive sit-down tourist restaurants and grab gourmet street food at Borough Market, Seven Dials Market, or Spitalfields Market.
+4. **Visit Food Markets for Lunch:** Borough Market, Seven Dials Market and Spitalfields Market all feed you for less than a sit-down restaurant on the same street.
 5. **Check Operating Hours:** Many markets (like Portobello Road) are quiet on weekdays and peak on Saturdays, while the City of London financial district is liveliest on weekdays.
 
 ---

@@ -31,9 +31,7 @@ heroImage: "../../assets/articles/kings-cross-area-guide/st-pancras-station.jpg"
 heroImageAlt: "The train shed at St Pancras International, with platforms and the Victorian ironwork roof above"
 ---
 
-Two-for-one entry to the Tower of London, Kew Gardens and Westminster Abbey has been running quietly for years, and it is genuinely one of the better deals in the city. It is also the single most misreported thing about visiting London.
-
-Almost every guide to it online is out of date in the same three ways. This one is not, and the corrections are the reason to read it.
+Two-for-one entry to the Tower of London, Kew Gardens and Westminster Abbey has been running quietly for years, and it is genuinely one of the better deals in the city. It is also widely misreported: guides repeat three things about it that are no longer true.
 
 > ⚠️ **Oyster and contactless do not qualify.** Not the card, not the phone, not a Travelcard bought at a Tube station. The offer needs a **National Rail** ticket, and the widely repeated advice to "print your TfL journey history instead" describes a process that does not exist.
 

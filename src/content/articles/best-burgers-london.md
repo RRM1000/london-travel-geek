@@ -113,7 +113,7 @@ The National Burger Awards is a live cook-off: sixteen finalists cook their sign
 
 The critics are measuring something else: what it is like to eat there on a Tuesday. That produces a different top of the list — **The Plimsoll**, **Bleecker**, **Black Bear Burger**, **Supernova** — none of which won anything this year, and one of which does not enter.
 
-And the listings sites measure a third thing again: how easy it is to get to. That is why **MEATliquor**, **Burger & Lobster** and **Byron** turn up on Visit London and DesignMyNight and nowhere else in this corpus.
+And the listings sites measure a third thing again: how easy it is to get to. That is why **MEATliquor**, **Burger & Lobster** and **Byron** turn up on Visit London and DesignMyNight and nowhere else in the sources.
 
 None of the three is wrong. They answer "best" for different evenings. If you want the burger a jury picked, go to Liverpool Street. If you want the one London's critics keep going back to, go to Finsbury Park.
 

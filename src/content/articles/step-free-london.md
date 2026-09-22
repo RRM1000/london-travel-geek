@@ -42,7 +42,7 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
-Step-free means no stairs and no escalators between the street and the train. It does not always mean you can get onto the train. A station can be step-free to the platform and still leave a step and gap wide enough to need a ramp that only a member of staff can lay. That distinction decides more London journeys than anything else, and TfL publishes it station by station, down to the millimetre.
+Step-free means no stairs and no escalators between the street and the train. It does not always mean you can get onto the train. A station can be step-free to the platform and still leave a step and gap wide enough to need a ramp that only a member of staff can lay. That distinction decides the journey, and TfL publishes it station by station, down to the millimetre.
 
 > 💡 **The Short Version:** **95 Tube stations are step-free**, more than a third, against **all 41 Elizabeth line stations, every DLR station and every tram stop**. **Every London bus** has a ramp, a wheelchair space and a driver who can kneel the vehicle, and **wheelchair and mobility scooter users travel free on buses and trams** — which is why the bus answers a lot of journeys the Tube cannot. Assistance on the Tube, Overground and Elizabeth line is **turn up and go, no booking**, and **if a lift is out of service TfL will pay for an accessible taxi** to a station you can use. The thing to check on any route is whether each station is **step-free to the platform** (a ramp and a member of staff) or **step-free to the train** (you board yourself).
 
@@ -148,7 +148,7 @@ Fares: **anyone with a disability pays 50%**, as does a Freedom Pass or 60+ Oyst
 
 ![The wide concrete ramp running down into the Turbine Hall at Tate Modern, with people walking in from the west entrance](../../assets/articles/step-free-london/tate-modern-turbine-hall-ramp.jpg)
 
-*The Turbine Hall ramp at Tate Modern — the main entrance is the step-free one, which is rarer than it should be. Photo: [Robin Webster](https://commons.wikimedia.org/wiki/File:Tate_Modern_Turbine_Hall_entrance_ramp_-_geograph.org.uk_-_6712317.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Turbine Hall ramp at Tate Modern: the main entrance is the step-free one. Photo: [Robin Webster](https://commons.wikimedia.org/wiki/File:Tate_Modern_Turbine_Hall_entrance_ramp_-_geograph.org.uk_-_6712317.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 | Place | Step-free way in | What decides the visit |

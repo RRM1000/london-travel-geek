@@ -109,7 +109,7 @@ Two things bring people anyway. The **Hackney Empire** is a 1901 Frank Matcham m
 **Hackney Central is the Overground station for all of this**, and it connects to Hackney Downs by a signed two-minute walk — useful, because the two lines go different ways.
 
 ### Victoria Park and the canal
-East, and **the oldest public park in Britain** — opened in 1845, and still the best large green space in east London. Two lakes, a Chinese pagoda, and a genuinely good playground.
+East, and **the oldest public park in Britain**, opened in 1845. Two lakes, a Chinese pagoda, and a genuinely good playground.
 
 The **Hertford Union Canal** runs along its southern edge with a towpath and a run of canal-side pubs, and joins the Regent's Canal at the western end, which makes this the natural link between Hackney and the Olympic Park on foot.
 

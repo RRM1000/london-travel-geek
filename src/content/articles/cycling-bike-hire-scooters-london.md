@@ -85,7 +85,7 @@ The docking stations thin out considerably beyond Zone 1, which is the scheme's 
 
 App-unlocked e-bikes left on the street rather than in docks. They reach much further out than Santander Cycles, and you end the ride wherever you finish.
 
-**Forest** is the London-based one. Pay-as-you-go is **£1 to unlock with up to 30 minutes included**, though the included time depends on the bike — their own site says to check in the app before you ride. They also sell prepaid bundles.
+**Forest** is the London-based one. Pay-as-you-go is **£1 to unlock with up to 30 minutes included**, though the included time depends on the bike, so check in the app before you ride. They also sell prepaid bundles.
 
 **Lime** has the largest fleet and the widest coverage. It prices with an unlock fee plus a per-minute rate that varies by area and demand, so there is no fixed figure worth printing — check the app.
 

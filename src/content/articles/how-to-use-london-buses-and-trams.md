@@ -24,7 +24,7 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-**Every London bus is £1.75 flat, however far you go**, against £3.00 to £5.90 on the Tube — and the Hopper fare lets you change buses free within an hour. Buses are far more than a scenic attraction—they are the backbone of the city's surface transit network. Buses reach neighbourhoods with no nearby Tube stations, avoid long station walks, and let you experience London at street level for just **£1.75 per ride**.
+**Every London bus is £1.75 flat, however far you go**, against £3.00 to £5.90 on the Tube — and the Hopper fare lets you change buses free within an hour. Buses also reach neighbourhoods with no nearby Tube station, and save the long walk down into one.
 
 > 💡 **Bus & Tram Snapshot:**  
 > - **Flat Fare:** All London bus and tram journeys cost a flat **£1.75** (no peak rates, no distance zones).  
@@ -69,7 +69,7 @@ Every route runs low-floor buses with an access ramp and one wheelchair space, a
 The **Hopper fare** is TfL's automatic transfer discount system for buses and trams.
 
 * **60-Minute Window:** Board as many TfL buses or trams as you want within **60 minutes** of your first tap, and you will only be charged a total of **£1.75**.
-* **Automatic Discount:** Simply tap in on every bus you board. The TfL system recognizes the same card/device and automatically waives the extra £1.75 charges.
+* **Automatic Discount:** Tap in on every bus you board. TfL recognises the same card or device and waives the extra £1.75 charges.
 
 ### Mixing Buses and the Underground
 
@@ -92,15 +92,12 @@ The **Hopper fare** is TfL's automatic transfer discount system for buses and tr
 > weekend cost £3.50. It ended at 23:59 on Monday 31 August 2026 and **has not
 > been extended or made permanent**. Normal fares apply again — £1.75 a
 > journey, £5.25 daily cap, with the sixty-minute Hopper as described above.
->
-> It is worth checking TfL nearer next summer. A trial that ran once may run
-> again, but nothing has been announced.
 
 ---
 
 ## Top 4 sightseeing bus routes for visitors
 
-Instead of booking expensive private tours, sit on the top deck at the front window of these iconic regular red TfL bus routes for just **£1.75**:
+Sit on the top deck at the front window of an ordinary red TfL bus and the fare is the same **£1.75** as any other journey:
 
 | Route Number | Useful Sightseeing Section | Key Landmarks Passed |
 | --- | --- | --- |
@@ -115,7 +112,7 @@ Instead of booking expensive private tours, sit on the top deck at the front win
 
 ## Open-top Hop-On Hop-Off sightseeing buses
 
-If you prefer live or multi-language audio commentary with dedicated stops right outside major attractions (Buckingham Palace, Tower of London, Eye), private open-top **Hop-On Hop-Off Sightseeing Buses** (Big Bus, Tootbus, Golden Tours) offer 24, 48, or 72-hour pass options.
+For live or multi-language commentary and stops right outside the major attractions (Buckingham Palace, the Tower of London, the London Eye), the private open-top **Hop-On Hop-Off Sightseeing Buses** — Big Bus, Tootbus and Golden Tours — sell 24, 48 and 72-hour passes.
 
 * **Private Tours:** Hop-On Hop-Off buses are private tours, not TfL public buses. They **do not accept Oyster or contactless taps**.
 * **River Cruise Included:** Most 24-hour and 48-hour passes include a free Thames river cruise ticket.

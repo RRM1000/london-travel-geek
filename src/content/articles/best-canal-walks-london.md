@@ -77,7 +77,7 @@ From there the canal runs east through **Maida Hill Tunnel**, which you cannot w
 
 Quieter immediately after Camden, and it improves the whole way. The canal runs behind St Pancras through what was the goods yard of the entire railway age, and is now **Coal Drops Yard** and **Granary Square**. **St Pancras Lock** and the restored **gasholder frames** are the set piece, and **Camley Street Natural Park** — a free two-acre nature reserve on the far bank, reached over Somers Town Bridge — is the thing almost nobody walking this way knows is there.
 
-> 🗺️ **[The Regent's Canal from King's Cross to Camden →](/articles/kings-cross-camden-canal-walk/)** We have this section as a full numbered walk, taken in the other direction: **ten stops with a map**, a Google Maps walking link for your phone, and every opening time that matters — the nature reserve's 4pm winter closing, Camden's locks shut to boats after 3.30pm, and the fenced-off stretch of towpath you can still walk because there is a floating pontoon round it.
+> 🗺️ **[The Regent's Canal from King's Cross to Camden →](/articles/kings-cross-camden-canal-walk/).** We have this section as a full numbered walk, taken in the other direction: **ten stops with a map**, a Google Maps walking link for your phone, and every opening time that matters — the nature reserve's 4pm winter closing, Camden's locks shut to boats after 3.30pm, and the fenced-off stretch of towpath you can still walk because there is a floating pontoon round it.
 
 ![The Regent's Canal towpath near King's Cross, planted with reeds and wildflowers, running past redbrick apartment blocks](../../assets/articles/best-canal-walks-london/kings-cross-towpath-reeds.jpg)
 

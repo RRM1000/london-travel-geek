@@ -1,0 +1,117 @@
+{
+  "topic": "sri-lankan",
+  "article": "src/content/articles/best-sri-lankan-restaurants-london.md",
+  "headTerm": "Sri Lankan Restaurants",
+  "note": "Built 22 September 2026 from data/topics/pizza.json. The method is unchanged; what differs is the boundary rule below, the tradition axis, and the fact that no British award body judges this cuisine.",
+
+  "scopeRule": {
+    "summary": "Sri Lankan is not South Indian, and most London coverage blurs the two. A venue belongs here when the Sri Lankan repertoire IS the menu, not a line on it.",
+    "include": "The kitchen cooks the Sri Lankan canon as its main business: hoppers (appa), string hoppers (idiyappam), kottu, lamprais, pittu, short eats, devilled dishes, and a sambol made with coconut rather than a chutney. A Sri Lankan operator cooking Sri Lankan food in a shop, a station unit or a market stall counts exactly as much as a dining room.",
+    "exclude": "A South Indian or Keralan restaurant with hoppers or a dosa on the menu. A pan-Asian or 'Indian and Sri Lankan' menu where the Sri Lankan dishes are a short section. A cafe serving Sri Lankan-INSPIRED food - Pavilion in Victoria Park is the example - rather than Sri Lankan food.",
+    "bothAtOnce": "Several of the best kitchens here are genuinely both, and the page says so rather than filing them silently. The MICHELIN Guide itself lists Hoppers as 'South Indian, Sri Lankan' and Rambutan as 'Sri Lankan'. Apollo Banana Leaf's own site says 'authentic Sri Lankan and South Indian cuisine'; Papaya's says 'Sri Lankan & South Indian'; Palm Beach trades as 'Sri Lankan & Indian'. Where a kitchen is both, label it both.",
+    "adjacentGuide": "src/content/articles/best-indian-restaurants-london.md. The Indian guide files Hoppers under 'South Indian and Keralan' and names Rambutan in passing. TRAP 7 IS LIVE: the Indian corpus's citation counts are evidence for the Indian topic only and must never appear on this page, and this page's counts must never appear there."
+  },
+
+  "awardBodies": [
+    {
+      "name": "MICHELIN Guide",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/gb/en/greater-london/london/restaurants/sri-lankan",
+      "note": "READ THIS BEFORE COLLECTING. data/sources.json lists guide.michelin.com under blocked.permanent403 and offers a Wikipedia substitute that is STARS ONLY and therefore cannot show a Bib Gourmand. That is wrong as of 22 September 2026: the site answers normally to a plain 'curl/8.4.0' user agent and returns 202 with zero bytes to a Chrome one. The London Sri Lankan facet is two restaurants - Hoppers (Bib Gourmand, 2026 guide) and Rambutan (selected, 2026 guide). The distinction and its year are in the page's meta description and in a BIB_GOURMAND key in the embedded JSON."
+    },
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A",
+      "cadence": "rolling",
+      "note": "Its /search page is client-rendered and the cuisine filter (Sri Lankan is cuisine[472]) returns nothing to curl. Use sitemap-auto.xml instead, which lists every /restaurant/<slug>/id/<n> page. Three Sri Lankan London entries: Rambutan (Very Good), Hoppers Soho (Good), Kolamba Soho (Local Gem). Paradise's entry now returns Restaurant Not Found. The ratings carry no year on the page, so they are reported as ratings, never as dated awards."
+    },
+    {
+      "name": "Asian Curry Awards",
+      "domain": "asiancurryawards.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/2025-winners/",
+      "note": "CHECKED AND EMPTY, 22 September 2026. TRAP 6 cleared: the live results live at /2025-winners/ and /2024-winners/, not at /winners, which 404s. Neither year has a Sri Lankan category, and no Sri Lankan venue takes any category. Do not re-check without reason."
+    },
+    {
+      "name": "National Restaurant Awards",
+      "domain": "nationalrestaurantawards.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/list/1-50",
+      "note": "CHECKED AND EMPTY. The whole top 100 renders on /list/1-50; /list/51-100 is the same document. No Sri Lankan restaurant appears in it."
+    },
+    {
+      "name": "Harden's",
+      "domain": "hardens.com",
+      "tier": "A",
+      "note": "NOT USABLE. /uk-london/cuisine/sri-lankan/ resolves to an unrelated news story and the London cuisine search is client-rendered - trap 15, the same failure that produced 24 fictitious Turkish restaurants. Do not record Harden's here without reading the real results container."
+    }
+  ],
+
+  "editorialLists": [
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": false, "note": "Nine spots, dated 5 February 2026. Each entry carries an Infatuation score; the scores are not a published order and are never printed on our page." },
+    { "name": "Eater London", "domain": "london.eater.com", "ranked": false, "note": "Last updated 7 October 2019 and the ONLY source in the set that reaches Wembley, Harrow and Croydon. Treat its names as leads to verify, not as current." },
+    { "name": "SquareMeal", "domain": "squaremeal.co.uk", "ranked": false },
+    { "name": "DesignMyNight", "domain": "designmynight.com", "ranked": false, "note": "Heads its Karapincha entry with the food hall - 'Mercato Metropolitano' - rather than the trader. Record the trader." },
+    { "name": "House & Garden", "domain": "houseandgarden.co.uk", "ranked": false },
+    { "name": "Foodism", "domain": "foodism.co.uk", "ranked": false },
+    { "name": "Luxury London", "domain": "luxurylondon.co.uk", "ranked": false },
+    { "name": "Stylist", "domain": "stylist.co.uk", "ranked": false, "note": "NOT YET IN data/sources.json. Proposed tier B - a national magazine masthead with editors." },
+    { "name": "The Handbook", "domain": "thehandbook.com", "ranked": false, "note": "Paywalls after three articles." },
+    { "name": "Time Out", "domain": "timeout.com", "ranked": "chains only", "note": "No Sri Lankan list. Two usable pages: the 2026 best-chain-restaurants ranking, which Hoppers tops, and a 2018 feature that is half contributor picks and half reader submissions. Time Out's venue pages mark a closure in the page title - 'Paradise (CLOSED)'." },
+    { "name": "Hyphen", "domain": "hyphenonline.com", "ranked": false, "note": "NOT YET IN data/sources.json. Proposed tier C. British Muslim news site; its 1 September 2026 piece is UK-wide, so TRAP 12 applies - Nadu is in Bristol." },
+    { "name": "Greaves India", "domain": "greavesindia.co.uk", "ranked": false, "note": "NOT YET IN data/sources.json. Proposed tier C - a tour operator's editorial blog, the same shape as devourtours.com and civitatis.com in the register." },
+    { "name": "Feed the Lion", "domain": "feedthelion.co.uk", "ranked": false, "note": "NOT YET IN data/sources.json. Proposed tier C - halal dining specialist." }
+  ],
+
+  "facetAxis": {
+    "field": "tradition",
+    "note": "Sri Lanka is small and its cooking is not one thing. The axis that decides where a reader eats is which tradition the kitchen works in, because it changes the whole menu - a Jaffna kitchen leads with seafood and sourness, a Colombo one with coconut milk. Format is the second axis and gets its own section rather than a second facet.",
+    "values": [
+      { "key": "jaffna-tamil", "label": "Jaffna and the Tamil north", "describeAs": "crab curry, sour tamarind and fenugreek gravies, and far more seafood than coconut milk - the food closest to Tamil Nadu across the strait" },
+      { "key": "colombo-southern", "label": "Colombo and the south", "describeAs": "coconut-milk gravies, pol sambol pounded with grated coconut and chilli, and black pork curry darkened with smoked goraka fruit" },
+      { "key": "muslim-moor", "label": "Sri Lankan Muslim", "describeAs": "buriani cooked with whole spice rather than tomato, godamba roti slapped thin on the griddle, and deep-fried short eats" },
+      { "key": "burgher-lamprais", "label": "Dutch Burgher lamprais", "describeAs": "rice boiled in stock with a meat curry, aubergine pickle, caramelised seeni sambol, a fish cutlet and an egg, all folded into a banana leaf and baked" },
+      { "key": "modern", "label": "Modern Sri Lankan", "describeAs": "island technique on British produce, cooked over open fire or plated as a tasting menu" }
+    ]
+  },
+
+  "formatSection": {
+    "title": "Counters, station kitchens and market stalls",
+    "note": "The format London does that nobody else writes up: a hot counter at the back of a Sri Lankan grocer, a kitchen inside a Tube station, a stall in a market hall. Named traders only, never the hall. Karapincha trades from Old Spitalfields Market, Mercato Metropolitano and Canary Wharf station; Best Foods Supermarket is a Walthamstow corner shop with a curry counter behind the racks; Pamban is in Camden's Stables Market; Colombo Kitchen runs a stall in St James's Courtyard. Every entry needs the walk-in fact, because none of them books."
+  },
+
+  "geography": {
+    "note": "The generic London lists stop at Zone 1 and Tooting. Eater's 2019 map is the only one that goes further, and it puts the concentrations in Wembley and Harrow to the north-west, Tooting and Croydon to the south, and a Sri Lankan and South Indian overlap in East Ham. Any refresh should start there, not in Soho.",
+    "hubs": ["Tooting", "Wembley", "Harrow and Rayners Lane", "Croydon", "East Ham", "Canary Wharf", "Soho and Covent Garden"]
+  },
+
+  "knownGaps": [
+    "TIER E IS EMPTY. Reddit refuses every route tried on 22 September 2026: reddit.com and old.reddit.com return 403 to browser, curl, custom and Googlebot user agents, the .json API returns 403, and the mirrors safereddit.com, redlib.catsarch.com and redlib.perennialte.ch answer with an Anubis proof-of-work challenge or a 429. Four London Sri Lankan threads were visible in search results and none could be read. No non-Reddit forum with London Sri Lankan discussion was found. The floor of three social voices for a topic with a judged award is met on tier D alone (ten creators), but the community tier is a real hole.",
+    "NO BRITISH AWARD JUDGES THIS CUISINE. The Asian Curry Awards have no Sri Lankan category in 2024 or 2025 and no Sri Lankan winner in any category; the National Restaurant Awards top 100 has no Sri Lankan restaurant. The judged evidence is the MICHELIN Guide and the Good Food Guide, and between them they cover three restaurants. Exactly one venue in the topic holds a dated award.",
+    "OUTER LONDON IS THIN. Fifteen of the nineteen venues named by two or more sources are inside Zone 3, and the only source that covers Wembley, Harrow and Croydon properly is seven years old. East Ham, where Sri Lankan and South Indian sit side by side, has no coverage here at all.",
+    "UNVERIFIED AWARD CLAIMS. Colombo Kitchen's own site claims LuxLife 'Best Sri Lankan Dining Experience' 2025, Asian Restaurant Awards Sri Lankan Restaurant of the Year 2023 and National Chef of the Year 2024, and a Guild of Fine Food 2-star Great Taste Award 2024 for its lamprais. Secret London says Dammika's won at the London Curry Awards 2019. None was checked against the awarding body and none is printed.",
+    "SEARCH COLLAPSED MID-PASS. Brave began serving a JavaScript challenge, Bing's RSS endpoint degraded to searching only the first word of a multi-word query, and DuckDuckGo lite, DuckDuckGo html, Mojeek, Startpage and searx.be all returned nothing. YouTube search, publisher pages and operator pages all worked normally over curl. A refresh should retest search first."
+  ],
+
+  "openVenueQuestions": [
+    "Hoppers - carried as ONE venue with four London sites (Soho, Marylebone, King's Cross, Shoreditch). Sources name the brand far more often than a branch, Michelin files the Bib under 'Hoppers' at the Soho address, and Time Out's chain award is to the group. Splitting by branch would turn the most-cited venue in the topic into four weak ones.",
+    "Kolamba - ONE venue, two sites (Soho, and Kolamba East on Blossom Street). SquareMeal treats them as a single entry; bookings are per site.",
+    "Colombo Kitchen - ONE venue, two sites (Worcester Park, Putney) plus a street food stall in St James's Courtyard, Piccadilly. Sources split between the two addresses.",
+    "Karapincha - ONE venue, three counters (Old Spitalfields Market, Mercato Metropolitano, Canary Wharf station).",
+    "Kothu - ONE venue, three sites (Tooting, Harrow, Croydon) per Hyphen, 1 September 2026.",
+    "Gana in Harrow and the Gana in Wembley are NOT merged: Eater states they are no relation.",
+    "Sambal Express and Sambal Kitchen & Diner are NOT merged: Eater describes the diner as a cafe beside the South Harrow branch of the Sambal Express grocer chain.",
+    "ISSO Prawn Crazy, 25 Cabot Square, Canary Wharf - SquareMeal writes it up as trading; the operator says the London site is opening soon. Kept off the page until the opening is confirmed.",
+    "Paradise Soho has closed. Time Out's venue page is titled 'Paradise (CLOSED)', the MICHELIN Guide's London Sri Lankan list is now two restaurants and no London Paradise appears in Michelin's GB sitemap, and the Good Food Guide entry returns Restaurant Not Found. Nine sources still name it, which is why the page says once that it has gone.",
+    "Yaalu Yalu (South Croydon) and Pavilion (Victoria Park) are in the corpus from Eater 2019 only and are kept off the page - Yaalu Yalu because nothing recent names it, Pavilion because Eater's own description is 'Sri Lankan-inspired', which fails the scope rule.",
+    "MOVA, Yogi's Sri Lankan Kitchen, Malar Spice, Spicyelon, Veechu and Tharshini's each have one source and no operator page we could confirm.",
+    "Pamban - two sources describe a cafe in Camden's Stables Market. Pamban now trades as a packaged chai brand, and its own account of the name points at Pamban Island in Tamil Nadu rather than Sri Lanka. In the counts, off the page.",
+    "The Railway Tavern, Crouch End, is tagged 'Caribbean Sri Lankan' on The Infatuation's cuisine index and appears on no list read here.",
+    "A YouTube film with 55,000 views - Street Food Analysis, 15 July 2025 - is about a Sri Lankan restaurant in Putney run by Sylvia and Herbert and never names it. Colombo Kitchen's Putney site is run by chef Sylvia Perera. Left uncounted rather than guessed."
+  ]
+}

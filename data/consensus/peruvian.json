@@ -1,0 +1,362 @@
+{
+  "cuisine": "peruvian",
+  "recorded": "2026-09-22",
+  "note": "Seeded 2026-09-22. SCOPE: Peruvian cooking in London, across all three of the forms the city actually sells it in - Nikkei (Japanese-Peruvian), criollo home cooking, and ceviche-and-pisco bar rooms. Nikkei rooms that sit in the Japanese corpus are NOT re-counted here: Sushisamba's japanese-corpus citations stay in that topic (trap 7). Every URL below was read in this pass. NO CURRENT JUDGED AWARD EXISTS FOR THIS TOPIC: the National Restaurant Awards 2025 top 100 carries no Peruvian restaurant, and Michelin's only Peruvian star in Greater London - Lima Fitzrovia - ran from the 2014 guide to the 2018. That raises the social floor to three voices; three YouTube creators are recorded. TIER E IS EMPTY: Reddit answers old.reddit.com, the JSON API, redlib mirrors and safereddit with an interstitial or a 403 in this environment, and TikTok serves a login wall, so no community thread could be read. CLOSURES ESTABLISHED IN THIS PASS: Pachamama (the group's own site now offers zephyr, Bottarga, Nina and Lagana instead, and says Pachamama will be back one day soon) and Chicama (its operator states the King's Road restaurant's last service was 15 September; the year is not stated). STATUS UNKNOWN AND DELIBERATELY OMITTED FROM THE GUIDE: Ceviche, Andina, MOMMI and Cuzco, none of which this pass can positively establish as trading. See openVenueQuestions in data/topics/peruvian.json.",
+  "sources": [
+    {
+      "name": "Time Out - London's best Peruvian restaurants",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
+      "scope": "peruvian",
+      "tier": "B",
+      "names": [
+        "Lima",
+        "Llama Inn",
+        "Darkest Peru",
+        "Tierra Peru",
+        "Jarana Peruvian Restaurant & Pisco Bar",
+        "Ayllu",
+        "Señor Ceviche",
+        "Maka",
+        "Chan Chan",
+        "Lima Limón",
+        "El Alquimista",
+        "Mr LoBo",
+        "Chakana",
+        "Sabor Peruano",
+        "Bamboo Mat",
+        "Fan",
+        "Crudo",
+        "Coya Mayfair",
+        "Chotto Matte",
+        "Sushisamba"
+      ],
+      "dated": "2026-08-21",
+      "ranked": true,
+      "ranks": {
+        "Lima": 1,
+        "Llama Inn": 2,
+        "Darkest Peru": 3,
+        "Tierra Peru": 4,
+        "Jarana Peruvian Restaurant & Pisco Bar": 5,
+        "Ayllu": 6,
+        "Señor Ceviche": 7,
+        "Maka": 8,
+        "Chan Chan": 9,
+        "Lima Limón": 10,
+        "El Alquimista": 11,
+        "Mr LoBo": 12,
+        "Chakana": 13,
+        "Sabor Peruano": 14,
+        "Bamboo Mat": 15,
+        "Fan": 16,
+        "Crudo": 17,
+        "Coya Mayfair": 18,
+        "Chotto Matte": 19,
+        "Sushisamba": 20
+      },
+      "quotes": {
+        "Lima": "#1 of 20. 'A contemporary Peruvian restaurant with locations in Fitzrovia and Shoreditch. The former is our favourite... headed by chef Diego Recarte.' Lunch deal noon-3pm weekdays, £27 for a starter and main, £5 pisco sours.",
+        "Llama Inn": "#2 of 20. 'Colourful, modern Peruvian on The Hoxton Shoreditch hotel rooftop... The menu leans towards contemporary Chifa, but you'll find some Nikkei treasures, too.' £1 oyster deal at Monday lunch.",
+        "Darkest Peru": "#3 of 20. 'London's first Peruvian cafe' - run by Pedro Tello, a Peruvian architect-turned-foodie. Salchicha sandwich, Lomito sandwich. Hosts monthly BYOB private dining nights.",
+        "Tierra Peru": "#4 of 20. 'A Peruvian food stall turned Islington brick-and-mortar on Essex Road... A favourite among London-based Peruvians.' Started as a food stall in Camden.",
+        "Jarana Peruvian Restaurant & Pisco Bar": "#5 of 20. 'A Fulham-based restaurant and pisco bar with the best pollo a la brasa.' The chicken is roasted in a custom rig delivered from Peru. Menu changes almost weekly.",
+        "Ayllu": "#6 of 20. 'An intimate Paddington restaurant' with a Nikkei-forward menu - oysters with truffle and leche de tigre, tuna tataki tiraditos.",
+        "Señor Ceviche": "#7 of 20. 'Affordable Nikkei in Soho.' Monday deal: any ceviche and any pisco sour for £6 each.",
+        "Maka": "#8 of 20. 'A south London stunner' on the Oval end of Brixton Road. Acevichado chicken wings glazed in a cross between leche de tigre and aioli; causa Limeña.",
+        "Chan Chan": "#9 of 20. 'A food stall in Peckham's Rye Lane Market with all the classics and beyond,' run by Carlos Medina and Carla. Parihuela at weekends.",
+        "Lima Limón": "#10 of 20. 'A small Peruvian kitchen in Brixton that's pretty in pink.' Jalea; pulpo a la brasa rather than pollo a la brasa; picarones.",
+        "El Alquimista": "#11 of 20. 'Sophisticated Peruvian plates served a la Francaise' from Peru-born chef Walter Pineda in Greenwich. Pichón anticuchos. Two-course pre-theatre menu £39 Tue-Fri 5-6.30pm.",
+        "Mr LoBo": "#12 of 20. 'A cosy restaurant in Angel filled with Peruvian art.' Ox heart anticuchos; Chicha Sour.",
+        "Chakana": "#13 of 20. 'A south Hackney spot dedicated to Peru's flagship ingredients. In charge is Peruvian native and Michelin-starred chef Robert Ortiz.' Crab causa; lucuma tiramisu; Peruvian Sunday roast.",
+        "Sabor Peruano": "#14 of 20. 'Casual, cool and traditional Peruvian' with a Chifa-based menu at Elephant & Castle. Lomo saltado; arroz chaufa; mazamorra morada.",
+        "Bamboo Mat": "#15 of 20. 'A Nikkei-focused, neon-lit dining space near Stratford station', opened in Leyton before moving to East Village in 2023.",
+        "Fan": "#16 of 20. ‘Neo-Nikkei’ in Notting Hill. Nigiri with aji-amarillo or pachikay. £120 signature tasting menu, £39 day menu.",
+        "Crudo": "#17 of 20. 'One of London's few stand-alone ceviche spots', opened by Maria and Carlos in Seven Dials.",
+        "Coya Mayfair": "#18 of 20. 'Peruvian plates in an extravagant setting'... 'You go to Coya when you want to be seen.'",
+        "Chotto Matte": "#19 of 20. 'An international chain devoted to all-things Nikkei', six global locations.",
+        "Sushisamba": "#20 of 20. 'Might not be the most authentic or traditional, but it's a hell of a lot of fun.' Peruvian-Brazilian-Japanese, skewing Japanese."
+      },
+      "note": "Ranked 1-20, by Daniela Toporek, published 21 August 2026. The only source in this pass that reaches Elephant & Castle, Peckham, Brixton, Greenwich and Stratford. Every entry carries an address, opening hours and a price range, which is why this pass treats it as the currency check on the whole set."
+    },
+    {
+      "name": "The Infatuation - The Best Peruvian Restaurants In London",
+      "url": "https://www.theinfatuation.com/london/guides/best-peruvian-restaurants-london",
+      "scope": "peruvian",
+      "tier": "B",
+      "names": [
+        "Llama Inn",
+        "Tierra Peru",
+        "Pachamama East",
+        "Sabor Peruano",
+        "Coya London",
+        "Andina Spitalfields"
+      ],
+      "dated": "2024-01-09",
+      "ranked": false,
+      "quotes": {
+        "Sabor Peruano": "'Outside it's a canteen, but inside it gives 1960s banquet wedding... should be close to the top of your list in terms of Peruvian restaurants in London for three reasons: it's great-value, has traditional cooking, and it closes before 10pm.'",
+        "Tierra Peru": "'At Tierra Peru, it's impossible not to smile... The family-run Peruvian spot in Islington can make a Wednesday night feel like a weekend.' Chef recommends cordero huanuqueño and picante chalaco.",
+        "Llama Inn": "'Llama Inn came to London via New York and has made its home on the roof of The Hoxton hotel in Shoreditch... The menu's glossary, which explains the likes of aji rocoto, huacatay, and other Peruvian ingredients, partly shows the seriousness of the food.'",
+        "Pachamama East": "PAGE FLAGS IT: 'This spot is Permanently Closed.' 73 Great Eastern Street, EC2A 3HR."
+      },
+      "note": "Unordered. Carries per-venue 0-10 ratings which are NOT recorded as ranks. Its Pachamama East entry is flagged on the page as permanently closed."
+    },
+    {
+      "name": "The Nudge - The Best Peruvian Restaurants in London",
+      "url": "https://thenudge.com/best-peruvian-restaurants-london/",
+      "scope": "peruvian",
+      "tier": "C",
+      "names": [
+        "Lima London",
+        "Ceviche",
+        "Lima Cantina",
+        "Tierra Peru",
+        "Llama Inn",
+        "Señor Ceviche",
+        "COYA"
+      ],
+      "dated": "2024-10-18",
+      "ranked": false,
+      "quotes": {
+        "Lima London": "'Lima set an unfair standard for the other Peruvian restaurants in London when it arrived on the scene, bagging a Michelin star in 2014 (the first Peruvian restaurant in Europe to do so)... owner-brothers Gabriel and Jose-Luis Gonzalez... the opening of Lima Shoreditch.'",
+        "Lima Cantina": "'Set in an old stained glass workshop, Lima Fitzrovia's sibling offers a window into one very specific part of Peruvian cuisine: rotisserie chicken. The restaurant's proudly home to London's only rotombo oven.' 14 Garrick Street, WC2E 9BJ - the address other sources give as Floral by LIMA.",
+        "Señor Ceviche": "'Ten years ago, London was blessed with a South American pop-up called Don Ceviche. It was chef and owner Harry Edmeades' way of getting a read on his renditions of Peru's national dish.'",
+        "Ceviche": "17 Frith Street, W1D 4RG. 'Modelled off Lima's artsy Barranco neighbourhood.'"
+      },
+      "note": "Published 18 October 2024, last modified 8 April 2026. Written by Rupert Hohwieler."
+    },
+    {
+      "name": "Secret London - Peruvian restaurants in London",
+      "url": "https://secretldn.com/peruvian-restaurant-london/",
+      "scope": "peruvian",
+      "tier": "C",
+      "names": [
+        "Floral by LIMA",
+        "COYA",
+        "Chotto Matte",
+        "Ceviche",
+        "Andina",
+        "Pachamama Bar & Kitchen",
+        "Cuzco",
+        "Chicama",
+        "Sabor Peruano",
+        "Señor Ceviche",
+        "Tierra Peru"
+      ],
+      "dated": "2022-06-17",
+      "ranked": false,
+      "quotes": {
+        "Chotto Matte": "'A Japanese-Peruvian fusion joint'. 11-13 Frith Street W1D 4RB and 26 Paddington Street W1U 5QY, the Marylebone branch opened 2022.",
+        "Cuzco": "4-6 London Bridge Street, SE1 9SG. 'Chaufa de Mariscos'; 'Suspiro a la Limeña'.",
+        "Chicama": "383 King's Road, SW10 0LP. A Peruvian coastal seafood restaurant."
+      },
+      "note": "Numbered 1-11 but not presented as a ranking. Published June 2022, last modified March 2024 - the oldest source in this pass and the reason several names here are checked against Time Out's August 2026 list before use."
+    },
+    {
+      "name": "Country & Town House - The Best Peruvian Restaurants in London",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/peruvian-restaurants-london/",
+      "scope": "peruvian",
+      "tier": "B",
+      "names": [
+        "Chicama",
+        "COYA Angel Court",
+        "Pachamama",
+        "MOMMI",
+        "Floral by LIMA"
+      ],
+      "dated": "2022-11-30",
+      "ranked": false,
+      "quotes": {
+        "Chicama": "'The second restaurant from the Pachamama group... Unlike its sister, Chicama is meat-free, focusing instead on fish served small plates-style.'",
+        "MOMMI": "44-48 Clapham High St, SW4 7UR. 'Japan meets Latin America at Mommi.'",
+        "COYA Angel Court": "31-33 Throgmorton St, EC2N 2AT. 'More than 400sqm, with three open kitchens, multiple dining areas, a Pisco Lounge and a dedicated ceviche counter.'"
+      },
+      "note": "Published November 2022, last modified July 2024."
+    },
+    {
+      "name": "DesignMyNight - Peruvian Restaurants in London",
+      "url": "https://www.designmynight.com/london/peruvian-restaurants-in-london",
+      "scope": "peruvian",
+      "tier": "B",
+      "names": [
+        "Lima Cantina - El Bar",
+        "Ayllu",
+        "LIMA FITZROVIA",
+        "Monmouth Kitchen",
+        "Pachamama East",
+        "Bamboo Mat Stratford",
+        "Chicama",
+        "Llama Inn"
+      ],
+      "ranked": false,
+      "quotes": {
+        "LIMA FITZROVIA": "'Now led by Head Chef Diego Recarte... A5 wagyu tiradito sharpened with ají panca, St Austell Bay mussels... Lunch & Theatre Menu - 2 courses £27.'",
+        "Lima Cantina - El Bar": "'Founded by brothers Gabriel and José-Luis González, the restaurant goes beyond fine dining to showcase what real Peruvians eat.'",
+        "Ayllu": "'Fusing Peruvian and Japanese cuisine to bring a taste of Nikkei fusion to West London in Sheldon Square.'"
+      },
+      "note": "Eight venues, each with its own write-up - no page furniture in the extraction (trap 8 checked)."
+    },
+    {
+      "name": "IDEAL Magazine - From Lima With Love: The Best Peruvian Restaurants In London",
+      "url": "https://idealmagazine.co.uk/best-peruvian-restaurants-london/",
+      "scope": "peruvian",
+      "tier": "B",
+      "names": [
+        "Chakana",
+        "Lima",
+        "Floral By Lima",
+        "The Llama Inn",
+        "Ceviche",
+        "Andina"
+      ],
+      "dated": "2024-04-10",
+      "ranked": false,
+      "quotes": {
+        "Chakana": "'The work of acclaimed chef Robert Ortiz, who won Lima London its Michelin star more than a decade ago... In our mind, it's also the best.'",
+        "Lima": "'Lima Fitzrovia, fresh from a refurb and a menu revamp, is a different proposition to its previous, Michelin-star holding incarnation.'",
+        "The Llama Inn": "'The original Llama Inn opened in the Big Apple in 2015.' Lomo saltado served over an okonomiyaki-style pancake, £56. Speedy Lunch two courses £28, three for £33.",
+        "Floral By Lima": "'With two AA Rosettes... Floral also has a pisco bar, Lost Alpaca.' 14 Garrick St, WC2E 9BJ.",
+        "Ceviche": "'With a handful of the best Peruvian restaurants in London operating under the watchful eye of chef Martin Morales.'"
+      },
+      "note": "Published April 2024, last modified August 2025. Visit-based write-ups with dish-level detail."
+    },
+    {
+      "name": "London x London - Peruvian Restaurants in London",
+      "url": "https://www.londonxlondon.com/peruvian-restaurants-london/",
+      "scope": "peruvian",
+      "tier": "C",
+      "names": [
+        "Chicama",
+        "Pachamama",
+        "Sushisamba",
+        "Ceviche",
+        "Andina",
+        "Lima",
+        "COYA",
+        "Monmouth Kitchen",
+        "Tierra Peru",
+        "Chotto Matte"
+      ],
+      "dated": "2022-05-19",
+      "ranked": false,
+      "note": "Published May 2022 - older than 36 months, flagged on recency."
+    },
+    {
+      "name": "Harden's - Peruvian restaurants in London",
+      "url": "https://www.hardens.com/restaurants/london/peruvian/",
+      "scope": "peruvian",
+      "tier": "A",
+      "names": [
+        "Coya",
+        "Sushisamba"
+      ],
+      "ranked": false,
+      "quotes": {
+        "Coya": "'The Mayfair original of Arjun Waney's vibey Peruvian chain (motto Find your inner Inca) is still, say fans, a great place for something different', though a reporter thought the meal 'came at an excessive price'. Price £120.",
+        "Sushisamba": "'Fun but fully priced'... 'its luxurious Latino-meets-Japanese bites are super-moreish and consistently good.'"
+      },
+      "note": "Harden's carries exactly two London restaurants under its Peruvian heading and says so on the page ('View full listings of 2 Peruvian London Restaurants'). Not a JS-chrome extraction - both entries carry a full reader-review write-up and Food/Service/Ambience scores. Chotto Matte and others sit under its Japanese and South American headings instead."
+    },
+    {
+      "name": "Michelin - stars, read via Wikipedia's list of Michelin-starred restaurants in Greater London",
+      "url": "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London",
+      "scope": "peruvian",
+      "tier": "A",
+      "names": [
+        "Lima Fitzrovia"
+      ],
+      "ranked": false,
+      "quotes": {
+        "Lima Fitzrovia": "One Michelin star in the 2014, 2015, 2016, 2017 and 2018 guides; no star from the 2019 guide onward. The only Peruvian restaurant ever starred in Greater London."
+      },
+      "note": "guide.michelin.com answers the fetcher with a bot wall (HTTP 202, empty body), so the sanctioned substitute in data/sources.json was used. STARS ONLY - it cannot surface a Bib Gourmand. Lima Fitzrovia is the only Peruvian entry in the whole list: one star in the 2014, 2015, 2016, 2017 and 2018 guides, and absent from the 2020-2026 table. No London Peruvian restaurant holds a star now."
+    },
+    {
+      "name": "Randomly Food (YouTube)",
+      "url": "https://www.youtube.com/@RandomlyFood",
+      "scope": "peruvian",
+      "tier": "D",
+      "names": [
+        "Piscos Dalston"
+      ],
+      "dated": "2025-12-14",
+      "ranked": false,
+      "quotes": {
+        "Piscos Dalston": "The Peruvian stop in a five-cuisine London day, listed in the description as 'Piscos Dalston Peruvian Restaurant'."
+      },
+      "note": "Video https://www.youtube.com/watch?v=j-2OaAuGDqs, 14 December 2025, 'I Tried London's Most Underrated Cuisines'. Peruvian chapter at 14:52. Venue taken from the pinned location list in the description. No gifted-meal or ad disclosure anywhere in the description. The only source in this pass to name Piscos Dalston."
+    },
+    {
+      "name": "¿Qué tal, Ceci? (YouTube)",
+      "url": "https://www.youtube.com/@CecienUK",
+      "scope": "peruvian",
+      "tier": "D",
+      "names": [
+        "Tierra Peru"
+      ],
+      "dated": "2026-08-31",
+      "ranked": false,
+      "quotes": {
+        "Tierra Peru": "'El mejor restaurante de comida Peruana en Londres, no lo digo solo yo sino varios Peruanos y extranjeros que van a comer allí siempre. Este restaurante se llama Tierra Peru y está ubicado en Islington.'"
+      },
+      "note": "Cecilia Tupac, a Peruvian cook based in London who runs her own Peruvian buffet events. Video https://www.youtube.com/watch?v=z8qnPxyuCV8, 31 August 2026, 35,909 views. Her second Peruvian London video is her own event, not a restaurant, so this channel contributes one name. No disclosure."
+    },
+    {
+      "name": "Sarah Highfield (YouTube)",
+      "url": "https://www.youtube.com/@SarahHighfield",
+      "scope": "peruvian",
+      "tier": "D",
+      "names": [
+        "Señor Ceviche"
+      ],
+      "dated": "2026-06-26",
+      "ranked": false,
+      "quotes": {
+        "Señor Ceviche": "A June 2026 dinner filmed at the Kingly Court site."
+      },
+      "note": "Video https://www.youtube.com/watch?v=5errDF-6SzQ, filmed June 2026. Small audience; tiering by follower count is not how this register works. No disclosure."
+    }
+  ],
+  "declined": [
+    {
+      "source": "SquareMeal - 15 Peruvian Restaurants near London",
+      "url": "https://www.squaremeal.co.uk/restaurants/london/peruvian",
+      "why": "Not an editorial list. A distance-filtered directory ('within 1 miles of London') whose entries carry paid Premium Listing, Bronze and Silver labels, and whose Peruvian tag pulls in L'oscar, Nobu Old Park Lane and Maya Lounge And Club. Counting it would let a paid-placement database pose as an opinion. SquareMeal's own editorial 'best for' guides are unaffected; no Peruvian one exists."
+    },
+    {
+      "source": "Capital A List - The Best Peruvian Restaurants in London Mayfair",
+      "url": "https://www.capitalalist.com/peruvian-restaurants-in-london-mayfair/",
+      "why": "A concierge membership's booking page ('By Little Emperors'), not a blog written from visits: US spellings throughout ('specializes', 'flavorful', 'localized'), no named writer beyond a first name, and the scope stretches to Amazónico and Piraña, which are not Peruvian. Recommended for the excluded list."
+    },
+    {
+      "source": "The Good Food Guide - Peruvian cuisine filter",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurants?cuisines=Peruvian",
+      "why": "Peruvian is one of its cuisine filters but the results render client-side, so curl gets the filter chrome and no venues (trap 15). Recorded as checked, not as a source - a zero-venue source inflates a count while contributing nothing."
+    },
+    {
+      "source": "National Restaurant Awards top 100 (2025)",
+      "url": "https://www.nationalrestaurantawards.co.uk/list/1-50",
+      "why": "Read in full, 1-100 plus all 17 special awards. No Peruvian restaurant anywhere in it. A real finding, but zero names, so not recorded as a source."
+    },
+    {
+      "source": "Eater (YouTube) - 'How a Peruvian Rotisserie Chicken Spot Perfected Its Crispy Skin'",
+      "url": "https://www.youtube.com/watch?v=DytI6AwqYHw",
+      "why": "Trap 12. Mister Pio is in Phoenix, Arizona."
+    },
+    {
+      "source": "The Taste Dude (YouTube) - 'Mouthwatering Ceviches and Anticuchos at Llama Inn'",
+      "url": "https://www.youtube.com/watch?v=Tx16mhRkdy4",
+      "why": "Trap 12. The description gives 50 Withers St, Brooklyn NY - the New York original, not the Shoreditch site."
+    },
+    {
+      "source": "The Picky Glutton - Lima and Ceviche reviews",
+      "url": "https://www.pickyglutton.com/?s=peruvian",
+      "why": "Real, visit-based, and thirteen years old - both reviews date from the 2012-13 openings. Left out on recency rather than quality."
+    },
+    {
+      "source": "Harrison Webb (YouTube) - 'I Tried the World's Most Underrated Cuisines'",
+      "url": "https://www.youtube.com/watch?v=Sl2j112Gav4",
+      "why": "774k views, June 2026, but the five cuisines are Filipino, Georgian, Ethiopian/Eritrean, Polish and West African. No Peruvian venue."
+    }
+  ]
+}

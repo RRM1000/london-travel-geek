@@ -88,7 +88,7 @@ The interior is the reason: a vast barrel-vaulted auditorium with the original R
 
 *5,272 · High Street Kensington or South Kensington*
 
-**The most beautiful big room in Britain to hear music in**, and since 1871 the one every performer wants. A vast oval under a glazed dome, tiers of red and gold boxes running all the way round, and the Proms every summer.
+**Since 1871, the big room every performer wants.** A vast oval under a glazed dome, tiers of red and gold boxes running all the way round, and the Proms every summer.
 
 **The sound and the sightlines are the reason to come.** It did not start that way: the hall had a notorious echo for its first century — the joke was that it was the only place a composer could hear their work twice — until the **135 fibreglass diffusers** were hung from the roof in 1969. Those are the "flying saucers", and they turned a famously difficult room into one of the best-sounding large halls anywhere. Almost every seat has a clear view of the stage, and the boxes give you a private vantage that no arena can match.
 

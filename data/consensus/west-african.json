@@ -1,0 +1,471 @@
+{
+  "cuisine": "west-african",
+  "note": "Seeded 2026-09-22. Curl-only environment: Bing RSS degrades after roughly one query per session and DuckDuckGo serves a challenge, so the SERP was run once and then every source was fetched and read directly. Reddit is blocked, so tier E is empty and is recorded as such rather than quietly omitted. Scope ruling, edge cases and open venue questions live in data/topics/west-african.json.",
+  "recorded": "2026-09-22",
+  "scope": "West Africa only: Nigeria, Ghana, Senegal, The Gambia, Sierra Leone, Ivory Coast and their neighbours, plus diaspora kitchens rooted in the region. Ethiopian, Eritrean, Somali and Kenyan (East), Moroccan, Algerian, Tunisian and Libyan (North), Congolese (Central) and South African and Mauritian (Southern) names were dropped at extraction from the African-wide lists. Venues outside Greater London were dropped by name.",
+  "sources": [
+    {
+      "name": "Michelin Guide 2026 - Greater London, African selection",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants/african",
+      "tier": "A",
+      "scope": "west-african",
+      "readVia": "READ FROM THE AWARDING BODY DIRECTLY, 2026-09-22. guide.michelin.com is listed under blocked.permanent403 in data/sources.json and that entry is WRONG: it answers plain `curl -sL` with HTTP 200 and full HTML. What produces the HTTP 202 empty body is sending a Chrome user agent. Fetch with NO -A flag. The Wikipedia substitute was not needed and is stars-only, which is why the Bib Gourmand had gone missing from every previous pass.",
+      "listLength": 3,
+      "names": [
+        "Chishuru",
+        "Akoko",
+        "Akara"
+      ],
+      "quotes": {
+        "Chishuru": "One Star: High quality cooking, 2026 MICHELIN Guide United Kingdom. Cuisine: African. Price: ££££. Inspector: 'Adejoke Bakare's West African restaurant continues to go from strength to strength in this warm, bright Fitzrovia spot which comes with a real neighbourhood feel.' 3 Great Titchfield Street, W1W 8AX.",
+        "Akoko": "One Star: High quality cooking, 2026 MICHELIN Guide United Kingdom. Cuisine: African. Inspector quotes the founder: 'We aim to prove that West African cuisine deserves its place in fine dining by highlighting its unique flavours and culinary traditions on its own terms,' says founder Aji Akokomi. 21 Berners Street, W1T 3LP.",
+        "Akara": "Bib Gourmand: good quality, good value cooking, 2026 MICHELIN Guide United Kingdom. Cuisine: African, Brazilian. Price: ££. Good for: solo dining. Inspector: 'The team from Akoko are behind this appealing restaurant tucked underneath the arches in Borough Yards. An akara is a black-eyed pea fritter commonly found in West African and Brazilian cuisine.' Arch 208, 18 Stoney Street, Borough Market, SE1 9AD. THIS RESOLVES THE OPEN QUESTION: London x London's Bib claim is correct and London Best Eats' 'Good Cooking' label is not."
+      },
+      "theFinding": "MICHELIN'S GREATER LONDON AFRICAN SELECTION IS EXACTLY THREE RESTAURANTS AND ALL THREE HOLD A DISTINCTION. The filter page prints '3 restaurants'. Two one-stars and one Bib Gourmand, and two of the three have the same owner, Aji Akokomi. Trap 15 checked: the page also links MRBL, Bar des Pres Mayfair and AO by Daniel Rogan in Southampton - those are the 'you might also like' rail, not the list, and the Southampton one gives it away.",
+      "ikoyiIsNotInIt": "IKOYI IS NOT IN MICHELIN'S AFRICAN SELECTION AND THAT IS THE CLEANEST EVIDENCE IN THE TOPIC. Its own Michelin page reads 'Two Stars: Excellent cooking restaurant in the 2026 MICHELIN Guide United Kingdom' with Cuisine: CREATIVE. Not African. Wikipedia's starred list labels it West African, the awarding body does not. Ikoyi's two stars are still a real dated fact and are printed as such; Michelin is NOT counted as a West African citation for it."
+    },
+    {
+      "name": "National Restaurant Awards",
+      "url": "https://www.nationalrestaurantawards.co.uk/list/1-50",
+      "tier": "A",
+      "scope": "west-african",
+      "ranked": true,
+      "listLength": 100,
+      "national": "UK-WIDE. Scoped by the town printed beside every name. Ikoyi (Aldwych, London) and Chishuru (Fitzrovia, London) are the only West African entries in the 2026 hundred. Shwen Shwen (Sevenoaks, Kent) is Sierra Leonean and is NOT London - see openVenueQuestions.",
+      "names": [
+        "Ikoyi",
+        "Chishuru",
+        "Akoko"
+      ],
+      "quotes": {
+        "Ikoyi": "#24 of 100, National Restaurant Awards 2026 (#16 in 2025). Voted by an academy of more than 200 chefs, restaurateurs and food writers.",
+        "Chishuru": "#77 of 100, National Restaurant Awards 2026 (#40 in 2025). Adejoké Bakare took Chef of the Year at the 2024 awards - read off the awards' own results page as archived on 30 July 2024. The awards' profile: 'Bakare opened her West African restaurant Chishuru in Brixton Village's Market Row in 2020 after winning a competition.'",
+        "Akoko": "#52 of 100, National Restaurant Awards 2025; not in the 2026 hundred. Akoko's then head chef Ayo Adeyemi took Chef to Watch at the 2024 awards."
+      }
+    },
+    {
+      "name": "The Good Food Guide",
+      "url": "https://www.thegoodfoodguide.co.uk/search?cuisine%5B352%5D=on",
+      "tier": "A",
+      "scope": "west-african",
+      "ranked": false,
+      "names": [
+        "Akoko",
+        "Chishuru",
+        "Akara",
+        "Chuku's",
+        "Ikoyi"
+      ],
+      "quotes": {
+        "Chuku's": "Named in The Good Food Guide's Best Local Restaurants in London 2025, published 15 July 2025: 'in Tottenham, siblings Ifeyinwa and Emeka Frederick's authentic Nigerian tapas spot, Chuku's, draws in all-comers.' Ida in Queen's Park was the London winner.",
+        "Akoko": "Inspected entry, 21 Berners Street, Fitzrovia W1T 3LP. The scoring band sits behind the guide's paywall and is not recorded.",
+        "Chishuru": "Inspected entry, 3 Great Titchfield Street, Fitzrovia W1W 8AX.",
+        "Akara": "Inspected entry, Arch 208, 18 Stoney Street, Borough SE1 9AD.",
+        "Ikoyi": "Inspected entry, 180 Strand, Temple WC2R 1EA."
+      },
+      "national": "The guide's Britain's 100 Best Local Restaurants 2026 was checked for this topic. Its only West African entry is Shwen Shwen at #40, which is in Sevenoaks, Kent. No London West African restaurant appears in the readable half of that list."
+    },
+    {
+      "name": "The World's 50 Best Restaurants",
+      "url": "https://www.theworlds50best.com/restaurants/best-in-the-world/the-list/ikoyi.html",
+      "tier": "A",
+      "scope": "west-african",
+      "ranked": true,
+      "names": [
+        "Ikoyi"
+      ],
+      "quotes": {
+        "Ikoyi": "Ranked No. 15, The World's 50 Best Restaurants 2025, and winner of the Highest Climber Award 2025. The list's own description calls it 'category-free cuisine' and says Jeremy Chan's style 'defies categorisation' - relevant to the scope question, not just the count."
+      }
+    },
+    {
+      "name": "Time Out - 17 Best Nigerian and West African Restaurants in London",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-nigerian-and-west-african-restaurants",
+      "tier": "B",
+      "scope": "west-african",
+      "ranked": false,
+      "rankedNote": "Numbered 1-17 but presented as a selection ('Including the finest places across the city'), and Little Baobab sits at #2 above two Michelin-starred restaurants, so the numbering is not an order. No rank recorded.",
+      "byline": "Joyce Oladeinde, 30 June 2026",
+      "names": [
+        "Akoko",
+        "Little Baobab",
+        "Chishuru",
+        "805 Restaurants",
+        "Sikatiô",
+        "The Flygerians",
+        "Akara",
+        "Chuku's",
+        "Kate's Cafe",
+        "Waakye Joint",
+        "Enish",
+        "Uncle John's Bakery",
+        "Ikoyi",
+        "19FiftySeven",
+        "Aso Rock",
+        "Papa L's Kitchen",
+        "Papi's Grill"
+      ],
+      "quotes": {
+        "Little Baobab": "'September 2026: Little Baobab is temporarily closed.' Recorded as a name; kept out of the guide's recommendations.",
+        "Ikoyi": "'It isn't quite a West African restaurant, but it is named after an affluent suburb of Lagos.'",
+        "Sikatiô": "'French speaking West Africans in Lewisham rave about this Ivorian restaurant's meal combo; deep-fried tilapia fish with a side of ripe fried alloco plantain and attiéké.'",
+        "Waakye Joint": "'Expect long wait times but it's worth it; prices are cheap and you're served with generous portions that emulate a chop bar experience in Southern Ghana.' Two branches, Streatham and Tottenham.",
+        "Uncle John's Bakery": "'Set up in 1995 by John and Emelia Mensah', Tottenham, Ghanaian sweet bread, bofrot doughnuts and meat pies.",
+        "Aso Rock": "Dalston, 'renowned for its iconic ayamase stew - which was created by Felicia Ajibabi Adesina in the town of Ikenne'.",
+        "Kate's Cafe": "Plaistow, Ghanaian. 'Despite the recent passing of owner and head chef Kate, her family are continuing her legacy.'",
+        "Papi's Grill": "New Cross. 'Due to the popularity of the bottomless brunch, book online at least two weeks in advance.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Where To Eat West African Food In London",
+      "url": "https://www.theinfatuation.com/london/guides/best-west-african-restaurants-in-london",
+      "tier": "B",
+      "scope": "west-african",
+      "ranked": false,
+      "rankedNote": "Rated, not ordered. Only some venues carry a score and page position is not the rating order, so no rank is recorded. Published ratings seen: Akoko 9.2, Chishuru 9.0, Alhaji Suya 9.0, Chuku's 8.6, Akara 7.9, The Flygerians 8.1.",
+      "byline": "Riaz Phillips, 9 October 2024",
+      "names": [
+        "Chishuru",
+        "Waakye Joint",
+        "Chuku's",
+        "Eko Bar & Restaurant",
+        "Aso Rock",
+        "Kate's Cafe",
+        "Bola Cuisine",
+        "Angels Bakery",
+        "805 Restaurants",
+        "Alhaji Suya",
+        "Enish",
+        "Naija High Street",
+        "Akoko"
+      ],
+      "dropped": {
+        "Deluxe Manna": "Congolese. The guide says so itself - 'a Congolese spot, so not technically West African'. Out of scope."
+      },
+      "quotes": {
+        "Alhaji Suya": "Rated 9.0. 'With yaji spice mixes imported directly from Kano state, where the owner hails from, the suya here is unrivalled.' Peckham, Greenwich, Brixton and Walworth.",
+        "Waakye Joint": "'Waakye Joint, with its extensive glass cabinets of food, is more primed for takeaway as you'll see from the waves of people coming in and out.' 80A West Green Road N15 5NS.",
+        "Bola Cuisine": "'you'll easily get return change from a tenner or even a fiver', 328 New Cross Road SE14 6AG, room for half a dozen people.",
+        "Naija High Street": "Street food stall at Lower Marsh Market, Waterloo. 'The sides are all vegan.'",
+        "Angels Bakery": "136 Plumstead High Street SE18 1JQ. 'Almost nobody walks out of Angels Bakery with just baked goods.'",
+        "Eko Bar & Restaurant": "245 Wick Road, Homerton E9 5DG. 'a vibe that doesn't pick up until the late hours of the night. On Friday nights, the weekly live band plays Nigerian funk renditions.'",
+        "Kate's Cafe": "'Entering Kate's Cafe in Plaistow immediately feels like you've walked into an aunty's or family friend's dining room.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Where To Eat Nigerian Food In London",
+      "url": "https://www.theinfatuation.com/london/guides/best-nigerian-restaurants-london",
+      "tier": "B",
+      "scope": "west-african",
+      "ranked": false,
+      "byline": "Riaz Phillips, 23 December 2024",
+      "sameDomainAs": "theinfatuation.com - SECOND LIST ON THE SAME DOMAIN. Counts as ONE source with the West African list above under the distinct-domains rule. Recorded separately because the name sets differ (trap 16 checked: the two arrays are not identical).",
+      "names": [
+        "Chishuru",
+        "Chuku's",
+        "Enish",
+        "805 Restaurants",
+        "Alhaji Suya",
+        "Eko Bar & Restaurant",
+        "Aso Rock",
+        "The Flygerians",
+        "Akoko",
+        "Akara",
+        "Lekki Restaurant and Bar",
+        "Lolak Afrique"
+      ],
+      "quotes": {
+        "Lolak Afrique": "38-40 Choumert Road, Peckham SE15 4SE. 'There isn't an officially designated Little Nigeria or Little Lagos in London, but Peckham's Choumert Road is high on the list.' Order the abula.",
+        "Lekki Restaurant and Bar": "323 Kingsland Road, Haggerston E8 4DL. Live band on Friday nights.",
+        "The Flygerians": "Rated 8.1. 'After learning to cook from their grandmother, they opened in Peckham Palms.'"
+      }
+    },
+    {
+      "name": "Olive Magazine - West African restaurants in London",
+      "url": "https://www.olivemagazine.com/restaurants/london/west-african-restaurants/",
+      "tier": "B",
+      "scope": "west-african",
+      "ranked": false,
+      "byline": "Toyo Odetunde, 10 July 2026 (updated 11 August 2026)",
+      "names": [
+        "Akoko",
+        "Sikatiô",
+        "805 Restaurants",
+        "Safna Kitchen",
+        "Chishuru",
+        "Kneluchii",
+        "Akara",
+        "Little Baobab",
+        "Chuku's",
+        "19FiftySeven",
+        "Demi's",
+        "Walfathou Kitchen",
+        "The Flygerians"
+      ],
+      "dropped": {
+        "Shwen Shwen": "Sevenoaks, Kent. The piece says so itself - 'Though it is outside London (in Sevenoaks)'. Trap 12 at the small end; dropped at extraction."
+      },
+      "quotes": {
+        "Sikatiô": "'There aren't many places to dig into Ivorian cuisine in London, but thankfully Sikatiô offers an excellent introduction.' Sauce arachide, grilled tilapia or croaker, attiéké and abolo.",
+        "Safna Kitchen": "Elephant and Castle. 'a laid-back Gambian-rooted restaurant'. Ebbeh, jollof platters and domoda.",
+        "Walfathou Kitchen": "Islington. 'hearty and attentively cooked Gambian meals'. Dahen and chura gerteh.",
+        "Kneluchii": "Beckenham. 'a smart restaurant and lounge focusing on traditional Nigerian cuisine'. Asun, dun dun, edikang ikong and banga.",
+        "19FiftySeven": "Old Kent Road. 'I'd suggest going on a Sunday, when there are additional homely specials.' Groundnut soup with omo tuo; waakye; kelewele.",
+        "Demi's": "Cricklewood, with a second site in Streatham. Nkwobi, ayamase, ofe nsala and oha."
+      }
+    },
+    {
+      "name": "The Handbook - 8 Of The Best West African Restaurants In London",
+      "url": "https://www.thehandbook.com/west-african-restuarants-london/",
+      "tier": "B",
+      "scope": "west-african",
+      "ranked": false,
+      "byline": "Patrick Dunne, dated 16 February 2026",
+      "names": [
+        "Akoko",
+        "Chishuru",
+        "Sikatiô",
+        "Chuku's",
+        "Akara",
+        "805 Restaurants",
+        "Stork",
+        "Little Baobab"
+      ],
+      "quotes": {
+        "Sikatiô": "'5 Brockley Cross, SE4 2AB ... named as the best restaurant of 2023 by popular food newsletter Vittles.'",
+        "Stork": "'Stork Restaurant brings together a pan-African mix of flavour and techniques in stylish Mayfair', 13-14 Cork Street. Ghanaian red snapper stew, jollof, suya sharing platter."
+      }
+    },
+    {
+      "name": "Secret London - The Best Nigerian And West African Restaurants In London",
+      "url": "https://secretldn.com/best-nigerian-west-african-restaurants-london/",
+      "tier": "C",
+      "scope": "west-african",
+      "ranked": false,
+      "byline": "Vaishnavi Pandey, 15 August 2024",
+      "names": [
+        "Akoko",
+        "Chishuru",
+        "The Flygerians",
+        "Akara",
+        "Chuku's",
+        "Eazy Kitchen",
+        "Pitanga",
+        "Demi's",
+        "Lolak Afrique",
+        "Ikoyi"
+      ],
+      "quotes": {
+        "Eazy Kitchen": "302 Walworth Road SE17 2TE, 'showcasing the rich culinary heritage of Gambia'.",
+        "The Flygerians": "'14 Bournemouth Close, Peckham, London SE15 4PB ... in Peckham Palms, a mini shopping mall of Black-owned businesses.'"
+      },
+      "factErrors": "COUNT THE SOURCE, DO NOT USE ITS FACTS. Two errors found on 2026-09-22: it gives Chishuru's address as 9 Market Row, Brixton, which the restaurant left in 2022; and it says Akoko has 'recently reopened with a new head chef, Theo Clench', which no other source supports."
+    },
+    {
+      "name": "London x London - 18 Dazzlingly Good African Restaurants in London",
+      "url": "https://www.londonxlondon.com/african-restaurants-london/",
+      "tier": "C",
+      "scope": "west-african",
+      "ranked": false,
+      "byline": "Lauren Kendrick, 27 August 2022, updated 12 September 2026",
+      "names": [
+        "Ikoyi",
+        "Presidential Suya",
+        "Akoko",
+        "Akara",
+        "Enish",
+        "Tatale",
+        "Pitanga",
+        "Wazobia",
+        "Chishuru",
+        "Asafo"
+      ],
+      "dropped": {
+        "Khamsa": "Algerian, North African.",
+        "Wolkite Restaurant": "Ethiopian, East African.",
+        "The Bash": "Described by the list itself as Congolese. Central African.",
+        "Tagine": "Moroccan, North African.",
+        "Kudu": "South African.",
+        "Le Chamarel": "Mauritian.",
+        "Azou Restaurant": "Moroccan, Tunisian and Algerian, North African.",
+        "High Timber Restaurant": "South African."
+      },
+      "quotes": {
+        "Akara": "'It took a Bib Gourmand in the 2026 guide.' UNVERIFIED - the awarding body is unreachable from here and no other source in this pass repeats it. Not counted as an award and not printed.",
+        "Asafo": "'Asafo Ghanian Restaurant', 60 Morrish Road, Brixton Hill SW2 4EG. Jollof, waakye and fufu.",
+        "Presidential Suya": "Old Kent Road, Bermondsey. Lamb, beef, chicken, kidney and gizzard suya.",
+        "Wazobia": "Peckham, 'serving traditional African cuisines since 1994'."
+      },
+      "factErrors": "Its Chishuru entry still places the restaurant in Brixton's Market Row. Count the source, not the facts."
+    },
+    {
+      "name": "Vittles",
+      "url": "https://www.vittlesmagazine.com/p/the-vittles-99-the-full-list",
+      "tier": "C",
+      "scope": "west-african",
+      "ranked": true,
+      "listLength": 99,
+      "byline": "Jonathan Nunn. The Vittles 99, published 8-12 December 2025; plus two full reviews on the same domain, 'In Brockley, Fortune Favours Us All' (3 November 2023) and 'A Tale of Two Suya Shops' (16 May 2025).",
+      "names": [
+        "Sikatiô",
+        "Ikoyi",
+        "Suuyar",
+        "Alhaji Suya",
+        "Tiwa n Tiwa",
+        "Suya Academy",
+        "D&K Gambian Roast Chicken and Rice"
+      ],
+      "quotes": {
+        "Sikatiô": "#34 of 99, The Vittles 99 (2025). 'A diasporic Ivorian restaurant as accomplished as Sikatiô should, by rights, be in Paris. And yet, improbably, it's here in Brockley.' Its review adds that Lynda Beble and Brice Assemian opened it in November 2022 and also run the grocery shop Akwaba Market in Deptford.",
+        "Ikoyi": "#10 of 99, The Vittles 99 (2025). 'When Jeremy Chan and Iré Hassan-Odukale opened Ikoyi in St James in 2017, they managed to kid themselves - or kid their PR - that they were opening a West African restaurant. Now that it's on the Strand ... it has given up the pretence of being tied to any one region of Earth.'",
+        "Suuyar": "'its street food stall on the corner of Choumert Road and Rye Lane, where Kolawole Ajayi ... hands out tasters and live vlogs serving customers'; a bricks-and-mortar Suuyar has since opened 'at the tip of Peckham Rye'.",
+        "Alhaji Suya": "'Aliyu Dantsoho's Alhaji Suya, the first Hausa-owned suya spot in London ... burnt down and reopened without a live fire grill; its suya does the job but is a pale imitation of its original self.'",
+        "Obalende Suya": "'today, Obalende is closed'. Recorded so the next pass does not chase it; not counted as a live venue."
+      },
+      "paywall": "Ranks 99-87, 75-69, 40-33 and 10-8 of the Vittles 99 are readable without a subscription; the rest are not. Only names read in full are recorded."
+    },
+    {
+      "name": "This Food Bangz (YouTube)",
+      "url": "https://www.youtube.com/@ThisFoodBangz",
+      "tier": "D",
+      "scope": "west-african",
+      "channel": "@ThisFoodBangz",
+      "videos": [
+        { "title": "This is London's FIRST NIGERIAN TAPAS Restaurant | Chuku's review", "url": "https://www.youtube.com/watch?v=CQPgj-6l2bc", "published": "2024-09-23" },
+        { "title": "FIRST TIME Trying SIERRA LEONEAN Food in LONDON | Mingles Restaurant Review", "url": "https://www.youtube.com/watch?v=s5RQlFMnbFo", "published": "2025-02-02" },
+        { "title": "UNLIMITED GHANAIAN FOOD for £35! | Gold Coast London Food Review", "url": "https://www.youtube.com/watch?v=m5Rm9T4a4fY", "published": "2025" },
+        { "title": "Afro BRAZILIAN Street Food in London | AKARA Restaurant Review", "url": "https://www.youtube.com/watch?v=XI7Ay1seCWY", "published": "2025" },
+        { "title": "BEST JOLLOF RICE in London! SENEGALESE FOOD REVIEW at Little Baobab", "url": "https://www.youtube.com/watch?v=DNxMf46cBpA", "published": "2025" },
+        { "title": "EPIC GHANA STREET FOOD in LONDON | 19fiftyseven review", "url": "https://www.youtube.com/watch?v=-rZZ4CzqmME", "published": "2025" }
+      ],
+      "names": [
+        "Chuku's",
+        "Mingles",
+        "Gold Coast",
+        "Akara",
+        "Little Baobab",
+        "19FiftySeven"
+      ],
+      "quotes": {
+        "Mingles": "'18 Choumert Rd, Peckham, London SE15 4SE ... classic Sierra Leonean dishes ... cassava leaves to jollof rice, fried fish, and the legendary plasas.'"
+      },
+      "disclosureCheck": "No gifted, ad or paid-partnership wording found in any of the six descriptions."
+    },
+    {
+      "name": "Emily Roz / Myriad Recipes (YouTube)",
+      "url": "https://www.youtube.com/@myriadrecipes",
+      "tier": "D",
+      "scope": "west-african",
+      "channel": "@myriadrecipes",
+      "videos": [
+        { "title": "Trying the BEST West African Food in London ($10 vs $150 Michelin Star)", "url": "https://www.youtube.com/watch?v=kiyUkJ1juiM", "published": "2026-07-05" }
+      ],
+      "names": [
+        "Waakye Joint",
+        "Sato's Kitchen",
+        "Chishuru"
+      ],
+      "quotes": {
+        "Waakye Joint": "Chapter markers name the three stops in order: 00:00 intro, 01:00 Waakye Joint, 06:15 Sato's Kitchen, 10:57 Chishuru."
+      },
+      "disclosureCheck": "No gifted or ad wording in the description."
+    },
+    {
+      "name": "Ugo Arinzeh (YouTube)",
+      "url": "https://www.youtube.com/@UgoArinzeh",
+      "tier": "D",
+      "scope": "west-african",
+      "channel": "@UgoArinzeh",
+      "videos": [
+        { "title": "London's Best West African Restaurants", "url": "https://www.youtube.com/watch?v=Aib_y0LgHVY", "published": "2024-02-15" }
+      ],
+      "names": [
+        "Akoko",
+        "Ikoyi",
+        "805 Restaurants",
+        "Stork",
+        "Papa L's Kitchen",
+        "Pitanga"
+      ],
+      "quotes": {
+        "Papa L's Kitchen": "'16-17 Jermyn St, St. James's ... African fusion cuisine curated by Executive Chef and Founder, Lawrence Gomez. With a background spanning from Gambia to renowned London restaurants ... Open Wednesday - Saturday from 5pm onwards.'",
+        "Pitanga": "Listed as an honourable mention rather than a main pick."
+      },
+      "disclosureCheck": "No gifted or ad wording. The creator is a London property agent who films the city, which is why the entries carry addresses and opening hours rather than tasting notes."
+    },
+    {
+      "name": "My Tasty Naija (YouTube)",
+      "url": "https://www.youtube.com/@MyTastyNaija",
+      "tier": "D",
+      "scope": "west-african",
+      "channel": "@MyTastyNaija",
+      "videos": [
+        { "title": "London's First All You Can Eat Nigerian SUYA Buffet | Suuyar Peckham | EP 62", "url": "https://www.youtube.com/watch?v=NBAlTJIINQI", "published": "2025" },
+        { "title": "Is This London's Best Abula Stew - The 1960 Stew | KayBizz Dishes Peckham | EP 85", "url": "https://www.youtube.com/watch?v=dpAnzyaRkJA", "published": "2026" },
+        { "title": "Discover Sato's Kitchen Brixton - London's New Nigerian Food Spot | EP 87", "url": "https://www.youtube.com/watch?v=3hRBvKQLiKg", "published": "2026" },
+        { "title": "The Nigerian Grill Specialist in New Cross, South London | Papi's Grill | EP 40", "url": "https://www.youtube.com/watch?v=Z703Bw6ELNo", "published": "2025" },
+        { "title": "95% Non African Customers But They Love Her Nigerian Food - Sisi Olonje London | EP12", "url": "https://www.youtube.com/watch?v=wCDlH338Gdk", "published": "2024" },
+        { "title": "Idris Elba's Favourite London Diner - Pitanga Nigerian Restaurant | EP02", "url": "https://www.youtube.com/watch?v=Ky1Z84Uw7I0", "published": "2024" },
+        { "title": "Why PECKHAM (Little Lagos) is the capital of Nigeria's 37th State | EP29", "url": "https://www.youtube.com/watch?v=EtMKbR6f1M0", "published": "2024" }
+      ],
+      "names": [
+        "Suuyar",
+        "KayBizz Dishes",
+        "Sato's Kitchen",
+        "Papi's Grill",
+        "Naija High Street",
+        "Pitanga"
+      ],
+      "quotes": {
+        "Suuyar": "'My Tasty Naija team visited Suuyar in Peckham and sat down with owner Chef Kolawole Ajayi'. Billed as London's first all-you-can-eat Nigerian suya buffet.",
+        "KayBizz Dishes": "'People come from far and wide to try her signature Abula sauce - the famous \"1960s stew\"'. Peckham.",
+        "Naija High Street": "Recorded from the episode on 'Niaja High Street by Sisi Olonge, a lunch time Nigerian food stall located in Lower Marsh' - same venue as The Infatuation's Naija High Street, aliased."
+      },
+      "disclosureCheck": "NOT A CLEAN PASS, FLAGGED RATHER THAN DROPPED. Two of the channel's other London episodes use the words 'we were hosted by owner' and 'My Tasty Naija was hosted at'. Neither of those episodes is counted here. The six names above come from episodes with no hosting language, but the channel's format is owner interviews and a human should decide whether that is close enough to a hosted visit to matter."
+    }
+  ],
+  "declined": [
+    {
+      "domain": "streathamlife.co.uk",
+      "url": "https://www.streathamlife.co.uk/news/18-best-nigerian-and-west-african-restaurants-london",
+      "reason": "TRAP 2 - SYNDICATION. The body is Time Out's article reproduced verbatim, 'Time Out tip' lines and all, posted under 'Submitted by daniel'. Time Out is the source and is already counted. Counting this would give one masthead two votes."
+    },
+    {
+      "domain": "londonbesteats.com",
+      "url": "https://www.londonbesteats.com/cuisine/west-african",
+      "reason": "A FILTERABLE DIRECTORY, NOT AN OPINION - and it is registered tier C in data/sources.json, so this needs a human decision. The page is generated by a cuisine filter, each venue carries an aggregated star score (4.8, 4.6, 4.5) and a price band, and the copy is a one-line 'At its core:' summary. Same call as blackeatsldn.com on Caribbean and dinehalal.uk on halal. It is still useful as a LEAD: it is where Spinach & Agushi in Exmouth Market surfaced, and no countable source in this pass names that venue."
+    },
+    {
+      "domain": "londonkensingtonguide.com",
+      "url": "https://www.londonkensingtonguide.com/best-african-restaurants-in-london/",
+      "reason": "SEO CONTENT FARM. Title assembled from keywords ('28 Best African Restaurants in London (Nigerian, Ethiopian, Ghanaian, Moroccan & More)'), US spellings throughout on a London site ('cozy', 'colorful', 'flavorful'), no evidence of a visit anywhere in 28 entries, 'ALSO SEE:' keyword links mid-list, and a byline of 'Bianca' with no bio. Fails the data/serp/README test on three counts. Not in data/sources.json; should go in `excluded`."
+    },
+    {
+      "domain": "youtube.com/@RestroSpot",
+      "url": "https://www.youtube.com/watch?v=PjgTkCHLOQ4",
+      "reason": "COMPILATION CHANNEL, AND IT IS REGISTERED TIER D IN data/sources.json, so this also needs a human decision. Its 'Top 10 Best African Restaurants in London' carries the disclaimer 'We have used video footage and images to maximize the clarity of the content ... Footage, music, image, and graphics used in the video belong to their respective owners.' No visit, no named creator, stock music. The video tier's equivalent of an SEO farm."
+    },
+    {
+      "domain": "mylondon.news",
+      "reason": "Single-venue review ('I visited London's only Senegalese restaurant'), not a round-up. Same call as the Caribbean pass made on single-venue features."
+    },
+    {
+      "domain": "tripadvisor.co.uk",
+      "reason": "Aggregator, excluded globally. Ranked second on the head-term SERP."
+    },
+    {
+      "domain": "hungryfoody.com",
+      "reason": "Directory listing pages ('Top 20 Senegalese Restaurants In London'). No byline, no visits."
+    }
+  ],
+  "tierE": "NOT COLLECTED. Reddit is blocked in this environment to curl and to the browser alike. No community thread is recorded, and none has been substituted from another tier to disguise the gap.",
+  "outOfScopeDropped": {
+    "note": "Names that appeared on African-wide lists and were dropped at extraction, recorded so the next pass does not re-argue them.",
+    "eastAfrican": ["Wolkite Restaurant", "Queen of Sheba", "Mosob", "Harar Restaurant", "Enat Guada", "Kenya Kitchen", "Zeret Kitchen"],
+    "northAfrican": ["Khamsa", "Tagine", "Azou Restaurant", "Le Rif", "Acacus", "Impala"],
+    "centralAfrican": ["Deluxe Manna", "The Bash"],
+    "southernAfricanAndIndianOcean": ["Kudu", "High Timber Restaurant", "Le Chamarel", "The Truro"],
+    "outsideLondon": ["Shwen Shwen (Sevenoaks, Kent)"],
+    "notVenues": ["Peckham Palms", "Peckham Levels", "Rye Lane Market", "Lower Marsh Market", "Borough Yards", "Africa Centre - halls and buildings, not traders"]
+  }
+}

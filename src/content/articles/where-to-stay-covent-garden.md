@@ -58,7 +58,7 @@ The name covers about half a mile, and its edges shade into other areas — so i
 
 *£70 windowless, £100 with a window · 113 rooms · 31–33 Bedford Street, WC2E 9ED · Covent Garden 3 min · [check prices](hotel:z-hotel-covent-garden)*
 
-A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, which is a genuinely quiet address thirty seconds from the busiest piazza in London. Z publishes the floor area of every grade, which few hotels at this price do, so read that list before you pick one.
+A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, which is a genuinely quiet address thirty seconds from the piazza. Z publishes the floor area of every grade, which few hotels at this price do, so read that list before you pick one.
 
 **Three of the seven grades have no window.** A Z Inside Single is 8 sq m at £70, an Inside Double 9 sq m at £80, an Inside Queen 11 sq m at £90. The first room with daylight is the **Z Double at £100** — the same 9 sq m as the Inside Double for £20 more. People book the Inside grades by accident constantly, because the booking page does not lead with the missing window.
 
@@ -158,7 +158,7 @@ There is a naturally lit pool, a gym, sauna, steam room and three treatment room
 
 ## Where to stay just outside
 
-This is the more useful half for most people, because the premium above is a real £30 to £60 a night and the areas that undercut it are all within about ten minutes on foot.
+The premium above is a real £30 to £60 a night, and the areas that undercut it are all within about ten minutes on foot.
 
 If you have not settled on a part of London yet, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
 

@@ -25,9 +25,7 @@ heroImageLicense: "Unsplash License"
 heroImageLicenseUrl: "https://unsplash.com/license"
 ---
 
-**An airport arrivals desk charges £35–£45 for a SIM that costs £10–£15 in a supermarket.** That is the whole finding, and it holds at every London airport. Stepping off a long flight with a dead phone makes the markup easy to pay. The immediate instinct for many travellers is to head straight for the first bright SIM card desk or vending machine in the arrivals hall.
-
-However, buying a SIM card at a London airport is almost always a costly mistake. Airport arrivals halls are high-rent, high-markup environments designed to capitalize on tired, uninformed tourists. 
+**An airport arrivals desk charges £35–£45 for a SIM that costs £10–£15 in a supermarket.** That is the whole finding, and it holds at every London airport. Stepping off a long flight with a dead phone makes the markup easy to pay, and the arrivals-hall desks and vending machines are placed for exactly that moment.
 
 > **The short version:** Do not buy a SIM card at the airport unless it is an absolute emergency. All London airports provide **free, unlimited Wi-Fi** that lets you check hotel bookings, hail an Uber, or navigate public transit. If your phone supports eSIM, purchase a digital eSIM (e.g. Maya Mobile or Airalo for £4–£12) before landing. If you need a physical SIM, take the train into Central London and pick up a UK SIM card at an EE, O2, or Three store—or buy a giffgaff/Lyca SIM at any supermarket—for **50% to 70% less** than airport prices.
 
@@ -35,7 +33,7 @@ However, buying a SIM card at a London airport is almost always a costly mistake
 
 ## Price comparison: Airport vs. High Street vs. eSIM
 
-To demonstrate the airport markup, here is how purchasing locations compare for a visitor needing 20GB–50GB of high-speed data for a 1–2 week stay in London:
+For a visitor needing 20GB–50GB of high-speed data for a one- to two-week stay:
 
 | Purchase location | Typical price | Data included | Customer support | Value rating |
 | --- | --- | --- | --- | --- |
@@ -49,7 +47,7 @@ To demonstrate the airport markup, here is how purchasing locations compare for 
 
 ## Terminal-by-terminal London airport guide
 
-If you must buy a physical SIM card immediately upon landing, here is the exact retail layout, store availability, and pricing environment across all six London airports:
+If you must buy a physical SIM on landing, this is what each airport has:
 
 ### 1. London Heathrow Airport (LHR)
 
@@ -140,7 +138,7 @@ Connect to the official free airport Wi-Fi network immediately upon landing (no 
 
 ### Step 2: Access essential travel details
 - Pull up your hotel booking address, emergency contacts, and digital vouchers.
-- Open Citymapper or Google Maps for transit directions.
+- Open Citymapper or Google Maps for directions.
 - Tap in using your contactless bank card or phone at the Elizabeth line or Underground station gate.
 
 ### Step 3: Choose your best SIM route

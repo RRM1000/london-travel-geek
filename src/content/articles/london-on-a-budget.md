@@ -1,7 +1,7 @@
 ---
-title: "London on a Budget: How to Do the City Cheaply"
-seoTitle: "London on a Budget 2026: Free Attractions & Cheap Eats"
-description: "Every national museum is free, the highest viewing platform in London costs nothing, and you can watch a trial at the Old Bailey — how to do the city properly without the London prices."
+title: "London on a Budget: What a Day Actually Costs"
+seoTitle: "London on a Budget 2026: What a Day Really Costs"
+description: "A careful day in London costs about £32 and a comfortable one about £150. What you actually pay for a bed, a meal and a day's travel — and every route to paying less for each."
 heroImage: "../../assets/articles/london-on-a-budget/london-on-a-budget.jpg"
 heroImageAlt: "A red Routemaster bus on Cockspur Street in central London"
 heroImageCredit: "Jon Bennett"
@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Arriva_London_Routemas
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-08-23
-updatedAt: 2026-09-09
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -17,9 +17,9 @@ tags: [budget travel, free things to do, cheap eats, London tips, planning]
 draft: false
 faq:
   - q: "Is London expensive to visit?"
-    a: "The accommodation is. Almost nothing else has to be. Every national museum is free, five viewpoints cost nothing including Horizon 22 on Level 58, you can watch a Supreme Court case or a West End TV recording for free, and you can eat a full meal for under £10 in several markets."
-  - q: "What is free in London?"
-    a: "The British Museum, Natural History Museum, Science Museum, V&A, Tate Modern, Tate Britain, National Gallery, National Portrait Gallery and Imperial War Museum. Plus all eight Royal Parks, eight city farms, Sky Garden, Changing the Guard and Evensong at St Paul's."
+    a: "The accommodation is, and almost nothing else has to be. Transport caps at £8.90 a day whatever you do, a full meal costs under £10 in several markets, and the sightseeing can cost nothing at all. A careful day comes to about £32."
+  - q: "How much money do you need per day in London?"
+    a: "About £32 a day if you are careful — a dorm bed at £11, £12 of market food, the £8.90 travel cap and free sightseeing. About £150 a day is comfortable: a hotel room, sit-down meals and a couple of paid attractions. Accommodation is the line that moves the total most."
   - q: "How much should I budget for food in London?"
     a: "£25–£35 a day eats well if you use markets and counters — £5 for breakfast, £10 for lunch, £15 for dinner. Sit-down restaurant meals start around £20 a head and rise fast."
   - q: "What is the cheapest way to get around London?"
@@ -28,228 +28,44 @@ faq:
     a: "Only if you are doing several expensive paid attractions in a short time. Since the best museums are already free, most visitors are better off paying for the two or three ticketed things they actually want."
 ---
 
-London's reputation for expense is mostly about rent. The **culture is free** — every national museum, five viewpoints including the highest one, eight Royal Parks and eight city farms cost nothing at all.
+London's reputation for expense is mostly about rent. A day here costs about
+**£32** if you are careful and about **£150** if you are not, and the gap is
+almost entirely bed, dinner and how many ticketed attractions you buy.
 
-What follows is how to do the city properly on a small budget, and what is genuinely worth paying for.
+This page is what things cost and how to pay less for them. The other half —
+everything in London that charges nothing at all — is
+**[free things to do in London](/free/)**, which is a longer list than most
+people expect.
 
-> 💡 **The Short Version:** Every national museum is free. **Horizon 22** is the highest free viewing platform in London. **Evensong at St Paul's** is free and better than the £27 visit. You can watch a **Supreme Court case** or a **TV recording** for nothing. **Canary Wharf Winter Lights** in January is free while others charge £30. **ICCO** does a £3.95 pizza. And **walking is free** — central London is much smaller than the Tube map suggests.
+> 💡 **The Short Version:** A careful day in London is about **£32** and a comfortable one about **£150**. **Transport caps at £8.90**, so you cannot overspend on it. **Set lunch** at a good restaurant is routinely half the evening price for the same kitchen. **ICCO** does a twelve-inch pizza for **£3.95**. A **dorm bed** near King's Cross starts about **£11** and a **capsule at Piccadilly Circus** about **£33**. And the sightseeing can genuinely cost nothing — [the free list](/free/) runs to hundreds of entries.
 
-> 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. "Free" means free at the door with no minimum spend. Prices checked August 2026.
-
----
-
-## Free: the culture
-
-**Every national museum and gallery costs nothing.** This is the single biggest saving available in London and a lot of visitors do not realise how far it extends.
-
-* British Museum, Natural History Museum, Science Museum, V&A
-* Tate Modern, Tate Britain, National Gallery, National Portrait Gallery
-* Imperial War Museum, London Museum Docklands, National Army Museum
-* Young V&A, Wellcome Collection, Sir John Soane's Museum
-* Serpentine Galleries, White Cube, Guildhall Art Gallery
-
-Special exhibitions inside them are ticketed, usually £18–£25. **The permanent collections never are.**
+*Prices checked September 2026. Fares and caps are TfL's published 2026 rates; meal prices are from the operators' own menus. No paid placements.*
 
 ---
 
-## Free: the views
-
-Five viewpoints in and around the City cost nothing, and the highest of them is free.
-
-* **Horizon 22** — **Level 58, and the highest free viewing platform in London.** 300-degree views, two lifts that take 41 seconds. Free, but book a slot.
-* **The Garden at 120** — no booking needed. The most useful one.
-* **Sky Garden** — free but books weeks ahead.
-* **The Lookout at 8 Bishopsgate** — the newest and least busy.
-* **Tate Modern's tenth floor** — free, open late, better than several paid options.
-
-Plus **Primrose Hill**, **Parliament Hill**, **Greenwich Park** and **Waterloo Bridge**, all outdoors and always open.
-
-> ⚠️ The View from The Shard costs about £32. It is the highest and has an open-air deck, but do not pay it under the impression there is no alternative.
-
----
-
-## Free: outdoors
-
-* **All eight Royal Parks**, including Richmond with its 600 free-roaming deer.
-* **Hampstead Heath**, including the swimming ponds — a small charge applies to swim.
-* **Eight city farms** — Hackney, Kentish Town, Mudchute, Spitalfields, Stepney, Surrey Docks, Freightliners and Vauxhall.
-* **The Crystal Palace Dinosaurs**, the first ever made, from 1854.
-* **St Dunstan in the East** and **Postman's Park** in the City.
-
----
-
-> 💡 **On the biggest paid attraction of them all:** the Warner Bros. Studio Tour cannot be done cheaply, but our [Harry Potter in London guide](/articles/harry-potter-london/) lists everything in the city that is free — the filming locations, the Platform 9¾ trolley and the walking route between them.
-
-## Free: the set pieces
-
-**Changing the Guard** is free to watch, and the thing to know is that **it does not run daily** — check the schedule before building a morning around it. The crowd at the Palace gates is deep; the **Horse Guards Parade** ceremony at 11am, and the dismount inspection at 4pm, are the same soldiers with a fraction of the audience.
-
-![Mounted Household Cavalry troopers in red tunics and plumed helmets riding past Buckingham Palace's gates](../../assets/articles/london-on-a-budget/changing-the-guard.jpg)
-
-*Free, but not daily. And the Horse Guards end of it is far less crowded than the Palace gates.*
-
-**Evensong at St Paul's or Westminster Abbey** is the best-value hour in London. It is **free, daily, and you sit in the quire** rather than filing past on a one-way route — so you see the building working, from the best seats in it, for nothing. St Paul's otherwise costs £27 and the Abbey £31. It is a church service, not a concert, but nobody will ask anything of you beyond sitting quietly.
-
-**St Dunstan in the East** is a bombed Wren church left as a ruin and planted as a garden — free, open daily, and the most photographed thing in the City that costs nothing.
-
-![The empty gothic window arches of St Dunstan in the East, overgrown with ivy and open to the sky](../../assets/articles/london-on-a-budget/st-dunstan-in-the-east.jpg)
-
-*Bombed in 1941, left standing, and planted. The City's best free half-hour.*
-
-**The Greenwich foot tunnel** walks you under the Thames, free, at any hour.
-
-**The Granary Square fountains** at King's Cross — a thousand jets in the pavement, free, and the single best thing in London for children on a hot day. Bring a towel and low expectations about staying dry.
-
-![Children running through the pavement fountains at Granary Square in King's Cross on a sunny day](../../assets/articles/london-on-a-budget/granary-square-fountains.jpg)
-
-*No ticket, no queue, no closing time. Just bring a towel.*
-
-### Street performers, and where they actually are
-
-Covent Garden gets the credit, but **licensed street performance runs right across London**, and knowing where turns a walk into an afternoon.
-
-**Covent Garden** is the oldest and the most formal. The Piazza has run licensed pitches since the 1980s, and performers audition for them — the **West Piazza** for the big circle-show acts outside St Paul's Church, the **North Hall** for classical musicians, and the covered **Lower Courtyard** where opera singers perform over lunch. It is genuinely free, though the hat comes round and the good acts earn it.
-
-![Outdoor restaurant terraces filling the cobbled Piazza at Covent Garden at dusk](../../assets/articles/london-on-a-budget/covent-garden-piazza.jpg)
-
-*The Piazza pitches are auditioned for, which is why the standard is higher here than the average high street.*
-
-**But it is not the only place, and the others are quieter:**
-
-* **The South Bank**, between the London Eye and the National Theatre — the busiest stretch of street performance in London on a weekend, and no audition needed.
-* **Leicester Square**, which has its own managed pitches.
-* **The London Underground.** This is the one people miss. TfL has run a **licensed busking scheme since 2003**, performers audition to get on it, and there are pitches across the network — including newer ones at Bond Street's Elizabeth line entrances. Those green semicircles on station floors are official. The standard is high because the audition is competitive.
-* **Trafalgar Square, the Southbank Centre and Greenwich Market** all host performers at weekends.
-
-The Mayor's **Busk in London** scheme is the umbrella over much of this, set up to give performers straightforward access to licensed pitches across the transport network and beyond. Which is why the busking you hear in London is, more often than not, someone who passed an audition to be standing there.
-
----
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
-## Free: the city as a museum
-
-None of this is ticketed, and most of it is standing in the street.
-
-### Blue plaques
-
-**There are around 1,000 official English Heritage blue plaques in London**, plus hundreds more from councils and other bodies, and they are free by definition — they are screwed to the outside of buildings.
-
-The good ones reward a detour rather than a special trip. **Mozart wrote his first symphony at 180 Ebury Street aged eight. Handel and Hendrix lived in adjoining Mayfair houses two centuries apart. Engels hosted Marx in Primrose Hill for twenty years.**
-
-**[We have mapped them →](/plaques/)** — every plaque, searchable and plottable, so you can see which ones fall on a walk you were doing anyway. That is the way to use them: not a plaque tour, but knowing that the house you are passing is the one.
-
-![A round blue English Heritage plaque mounted on a London brick wall](../../assets/articles/london-on-a-budget/blue-plaque.jpg)
-
-*About a thousand of them, and the map tells you which are on your route. Photo: [Robert Rimell](https://commons.wikimedia.org/wiki/File:English_Heritage_Blue_Plaque_-_geograph.org.uk_-_2088773.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
-
-**[The full guide to London's plaques →](/articles/london-plaques-guide/)** covers the other colours too — the brown ones, the film cells, and who puts them up.
-
-### Street art, including the Banksys
-
-**Shoreditch and Hackney are an open-air gallery**, repainted constantly and free to walk through. Brick Lane, Hanbury Street, Rivington Street and the Village Underground wall are the concentrated stretch, and what is there this month will not be there next year.
-
-**Several Banksy works survive in London**, though the number falls every year to removal, theft and overpainting — so check a current location list before setting out rather than trusting a guide written three years ago. The ones that remain are on ordinary streets, free, with nothing to mark them.
-
-**[The full street art guide →](/articles/london-street-art/)**
-
-### Film and television locations
-
-Standing where something was filmed costs nothing. **Notting Hill's blue door, the Harry Potter Millennium Bridge, Paddington's Primrose Hill, the Bridget Jones flat above the Globe pub in Borough** — all street-level, all free, all findable without a tour.
-
-**[Our filming locations guide →](/articles/london-filming-locations/)** maps the ones actually worth the walk, and says which are a disappointment.
-
-### The Fourth Plinth
-
-**Trafalgar Square's empty plinth** carries a new commissioned artwork every eighteen months or so — major contemporary art, at street level, free, permanently. Most people walk past it.
-
----
-
-## Free: sitting in on the real thing
-
-The least-known free London, and the most interesting. These are not attractions — they are institutions doing their actual work, with seats at the back for anyone who turns up.
-
-<div data-stay-strip></div>
-
-### The courts
-
-**The Old Bailey** is the famous one. Public galleries are open **Monday to Friday, 10am–12.40pm and 2pm–3.40pm**, and it costs nothing to watch a trial in the Central Criminal Court.
-
-> ⚠️ **Three rules decide whether you get in, and one is new.** Since **1 June 2026 you must show official photographic identification** — the City of London states it plainly. **The minimum age is 14**, and under-16s need an adult. And there is **no cloakroom and no bag storage**: large bags and rucksacks are refused, and phones and electronic devices are not allowed in at all. The usual workaround is a nearby travel agent that stores phones for about £1 a device. Turn up with luggage or without ID and you will not get past the door.
-
-**The Supreme Court** is far easier and almost nobody goes. **Free, no ticket, Monday to Friday 9am–5pm** with last entry at 4.30pm, three courtrooms in the old Middlesex Guildhall on Parliament Square. Gallery space is limited so you may wait, but you can normally see something. No ID rigmarole, no phone ban of the Old Bailey's severity.
-
-**The Royal Courts of Justice** on the Strand also has free public galleries, in a building worth walking into on its own.
-
-### Parliament
-
-**Watching debates is free for everyone**, UK resident or not. Galleries are open when the Houses are sitting — **Monday to Thursday and some Fridays** — and you can queue at the Cromwell Green entrance without booking. Fridays are the quietest; for anything high-profile, queueing alone rarely works and UK residents can request gallery tickets from their MP instead. **Select committees** are free too and often more interesting than the chamber.
-
-### Television and radio
-
-**Studio audience tickets cost nothing**, from the BBC and four independent agencies. It is genuinely free entertainment, with one large caveat — the tickets are deliberately over-issued, so a ticket is a place in a queue rather than a seat.
-
-**[Our full guide to free TV and radio tickets →](/articles/free-tv-show-tickets-london/)**
-
-### And one you have to plan for
-
-**The Ceremony of the Keys** at the [Tower of London](/articles/tower-of-london-guide/) — the locking-up ritual performed every night for around 700 years — is pay what you choose, £10 to £50 with £30 suggested, released at 1pm on the first working day of each month for the month after. See our full guide for the booking strategy.
-
----
-
-## Free: only at the right time of year
-
-A lot of London's best free things do not exist most of the year. These are worth planning a trip around, or at least knowing about before you book dates.
-
-### Winter — the light festivals
-
-**Canary Wharf Winter Lights** is the big one, and almost nobody outside London knows it is free. Around twenty large-scale light installations by international artists, sited across the estate for roughly two weeks in **January**, **free, no ticket** — while people are paying £30 upwards for ticketed trails elsewhere in the same season. Go on a weekday; the weekend crowds are considerable.
-
-**Battersea Power Station's Light Festival** does the same thing in the same season, again free, along the river and through the shopping centre.
-
-**And the Christmas lights themselves.** Oxford Street, Regent Street, Carnaby Street, Bond Street, Seven Dials and Covent Garden all cost nothing to walk under, switch on in early-to-mid November, and stay up until early January. **Kew and the ticketed trails are the ones you pay for; the West End is not.** [Our Christmas guide](/articles/christmas-in-london/) has the dates.
-
-**Trafalgar Square's Norway spruce**, a gift from Oslo every year since 1947, plus free carol singing beneath it through December.
-
-### Spring
-
-* **Blossom.** Late March to mid-April: Kew is ticketed, but **Greenwich Park, Battersea Park, Regent's Park and the Kensington Gardens avenues** are free and just as good.
-* **The Boat Race**, late March or early April — a world-class sporting event you can watch from the Thames path for nothing, anywhere between Putney and Mortlake.
-* **The London Marathon**, April. **Free to watch**, and one of the great days out in the city even if you know nobody running.
-* **Chelsea in Bloom**, May — the floral installations along the King's Road during Chelsea Flower Show week are free and outdoors, while the show itself is not.
-
-### Summer
-
-* **Open-air theatre and film screenings** in the parks are mostly ticketed, but the **Scoop at More London**, beside Tower Bridge, runs free performances and screenings through the summer.
-* **BBC Proms**, July to September. Not free, but **£8 standing tickets** on the day at the Royal Albert Hall are close, and it is the cheapest way into world-class classical music anywhere.
-* **Notting Hill Carnival**, August bank holiday. Free, enormous, and Europe's largest street festival.
-* **Free outdoor swimming** is not a thing — the Hampstead ponds charge — but **the Serpentine and the Royal Parks are free to walk, and the lidos are cheap rather than free.** A council pool is the cheap end of swimming indoors: **£3.20 to £11.50 a single swim**, and several boroughs let residents swim for nothing. Our guide to [London's gyms and leisure centres](/articles/best-gyms-london/) has the casual-use prices alongside every membership, which is the comparison that matters if you are here for a week rather than a year.
-
-### Autumn
-
-* **Open House London**, September — nine days, and the best free thing in the London calendar. Hundreds of buildings that are normally shut, from private houses to City skyscrapers and government offices, open free. Some ballot, most just queue. It lands in the same nine days as the London Design Festival and Heritage Open Days, which makes the middle of the month the busiest and best-value stretch of the year; [things to do in London in September](/articles/things-to-do-in-london-in-september/) has the dates and the overlaps.
-* **Totally Thames**, September — a month of free river events and installations.
-* **Bonfire Night**, early November. Several of London's big displays are **free to watch** — Alexandra Palace charges, but plenty of borough displays do not. [Our guide](/articles/bonfire-night-london/) sorts the free from the ticketed.
-* **Diwali in Trafalgar Square** and **the Lord Mayor's Show** in November are both free.
-
-### All year, but only if you time it
-
-* **Ceremony of the Keys**, the Tower's nightly locking-up — pay what you choose from £10, and it sells out within minutes of release.
-* **The State Opening of Parliament** and **Trooping the Colour** — the processions are free to watch from the street; the stands are not.
-* **London Marathon and Boat Race aside, almost every parade in London is free at the roadside.** The tickets are for seats, not for looking.
-
----
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
-## Free: the things nobody lists
-
-* **Lunchtime concerts.** **St Martin-in-the-Fields**, the **Royal Academy of Music**, the **Guildhall School** and several City churches run free recitals by properly good musicians, most weeks, usually around an hour.
-* **BFI Mediatheque** on the South Bank — sit down and watch the national film and television archive, free, in a booth. Almost nobody knows it exists.
-* **The Bank of England Museum**, the **Hunterian Museum**, the **Grant Museum of Zoology** and the **Petrie Museum** — all free, all far quieter than the big names.
-* **Open House London**, every September — hundreds of buildings normally closed to the public open their doors for nine days, free.
-* **Speaker's Corner**, Hyde Park, Sunday mornings.
+## What London actually costs
+
+Three lines carry almost the whole budget, and only one of them is unavoidable.
+
+| | A frugal day | A comfortable day | Where it goes wrong |
+| --- | --- | --- | --- |
+| **Bed** | £11 dorm, £33 capsule | £90–£150 hotel | Zone 1 on a Friday |
+| **Food** | £12 | £25–£35 | Sit-down dinners, every night |
+| **Transport** | £8.90 cap | £8.90 cap | Paper tickets, and taxis |
+| **Seeing things** | £0 | £30–£60 | Six paid attractions instead of two |
+| **Drink** | £0 | £15 | A round in a central pub |
+| **Day total** | **about £32** | **about £150** | |
+
+The daily cap does the work on transport: **£8.90 across Zones 1–2** however
+much you travel, and **£5.25 if you only use buses**. You cannot overspend on
+transport in London unless you take taxis or buy paper tickets.
+
+**Seeing things is the line most people get wrong in both directions.** London
+gives away more than almost any city — every national museum, the highest
+viewing floor, a seat in a courtroom — so a full day of good sightseeing can
+genuinely cost nothing. [Free things to do in London](/free/) is the whole of
+it, written out. What breaks a budget is buying six ticketed attractions at
+£30 each when two would have been the memorable ones.
 
 ---
 
@@ -275,14 +91,35 @@ A lot of London's best free things do not exist most of the year. These are wort
 * **Counters add no service charge.** The discretionary 12.5% applies at table service only.
 * **Tap water must be provided free** by any licensed premises. Ask.
 
-**Paying less at a restaurant you actually want to eat at**
+---
 
-This is the part most budget guides skip, because it takes reading the small print rather than listing cheap places. Four routes, and they suit different trips:
+## Paying less for the things you do want
 
-* **[Set lunch and pre-theatre menus](/articles/restaurant-deals-london/)** — the same kitchen at half the evening price, with the days and times each one runs. The biggest saving available at a good London restaurant, and it needs no app, card or subscription.
-* **[Off-peak booking apps](/articles/off-peak-restaurant-apps-london/)** — First Table, EatClub and the rest, tested against their own terms. Worth knowing what the advertised 50% actually covers, and what the booking fee really is, before you rely on one.
-* **[Discount cards](/articles/restaurant-discount-cards-london/)** — Tastecard, Gourmet Society, Meerkat Meals and NeoTaste, compared on how many restaurants genuinely take each one in W1 and WC2 rather than on the headline count.
-* **[Kids eat free](/articles/kids-eat-free-london/)** — every offer with a London branch, read off the operator's own site, with the adult spend you have to make and the age limits that catch people out.
+Most budget guides stop at listing cheap places. The bigger saving is paying
+less at somewhere you actually wanted to go, and that takes reading the small
+print rather than lowering your sights. These are the routes, what each one is
+really worth, and who it suits.
+
+### Eating
+
+| Route | What it saves | Catch |
+| --- | --- | --- |
+| **[Set lunch and pre-theatre](/articles/restaurant-deals-london/)** | Chez Bruce is **£40.50 against £98.50** at dinner; Brasserie Zédel **£16.95**; Hawksmoor **£20** for a course of proper steak | Fixed days and times, and the best ones book out |
+| **[Off-peak apps](/articles/off-peak-restaurant-apps-london/)** | First Table takes **50% off food** for a £6 fee at 918 London restaurants; EatClub takes **25–40% off the whole bill including drinks** at 1,069 | The famous names go at 5pm; the good later tables are at newer places |
+| **[Discount cards](/articles/restaurant-discount-cards-london/)** | **Tastecard at £29.99 a year** pays for itself in under two meals | Gourmet Society sells a near-identical list for £79.99; NeoTaste has the most and best restaurants but every deal must be booked through it |
+| **[Kids eat free](/articles/kids-eat-free-london/)** | A child's meal, at chains with a London branch | Every offer carries a required adult spend and an age limit |
+
+**Set lunch is the one to reach for first**, because it needs no app, no card
+and no subscription — it is simply the same kitchen charging less earlier in
+the day.
+
+### Tickets and attractions
+
+* **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — two people in for the price of one at a long list of attractions. You need two people, two valid National Rail tickets, an eVoucher and an attraction actually in the scheme. **Oyster and contactless do not qualify**, which is the trap almost everyone falls into.
+* **[Is the London Pass worth it?](/articles/london-pass-guide/)** — the arithmetic rather than the marketing. Briefly: a 2-day pass is £149 against £142 for the classic big five, so you need a sixth paid attraction before it starts winning.
+* **[Cinema deals](/articles/cinema-deals-london/)** — **Meerkat Movies gives 2-for-1 every Tuesday or Wednesday with no purchase required**, just the app. If you are 16 to 25, the BFI is **£4** and Picturehouse **£5.99**.
+* **[Theatre](/articles/london-theatre-guide/)** — TKTS at the Leicester Square booth or online, midweek rather than Saturday, plus day seats, rush tickets and lotteries. Where you sit matters as much as what you see.
+
 
 ---
 
@@ -296,6 +133,7 @@ This is the part most budget guides skip, because it takes reading the small pri
 * **Under-11s travel free** with a fare-paying adult.
 * **Avoid Zone 1 in the morning peak** if your ticket allows — off-peak fares are materially cheaper.
 * **A bike is often faster than the Tube** for short central hops, and cheaper — see [cycling, bike hire and scooters](/articles/cycling-bike-hire-scooters-london/) for what each scheme actually costs.
+* **A council pool is the cheap end of exercise** — **£3.20 to £11.50** a swim against £26–£35 for a single boutique class. [Gyms and leisure centres](/articles/best-gyms-london/) has the casual-use prices, which is the comparison that matters for a week rather than a year.
 * **Think twice about a tour bus.** We have [compared them](/articles/london-tour-buses-compared/), and for most people a day bus cap plus a walk does the same job for a fraction of the price.
 
 ---
@@ -304,7 +142,7 @@ This is the part most budget guides skip, because it takes reading the small pri
 
 Accommodation is the line that breaks most London budgets, and the one genuinely cheap option in the middle of town is a capsule — about £33 a night at Piccadilly Circus on a quiet date, which is hostel-dorm money for a berth of your own. Our [pod hotels guide](/articles/pod-hotels-london/) explains the trap: the same brand sells windowless private *rooms* under a nearly identical name at three to four times the price. If you are considering one of those, the [windowless rooms guide](/articles/windowless-hotel-rooms-london/) is the honest account of what they are like to sleep in.
 
-**A dorm bed undercuts all of it** — from about £11 near King's Cross — and adds the thing a capsule does not have, which is a kitchen you can cook in. Our [best hostels in London guide](/articles/best-hostels-london/) compares fourteen of them on what the booking sites bury: which dorms are en-suite, which women's dorms have their own bathrooms, the age limits that will refuse you, and what gets charged at the desk for a towel and a locker.
+**A dorm bed undercuts all of it** — from about £11 near King's Cross — and adds the thing a capsule does not have, which is a kitchen you can cook in. Our [best hostels in London guide](/articles/best-hostels-london/) compares them on what the booking sites bury: which dorms are en-suite, which women's dorms have their own bathrooms, the age limits that will refuse you, and what gets charged at the desk for a towel and a locker.
 
 **For a hotel room of your own, look a few stops out.** When we priced 46 budget hotels on the same five nights, only three in central London had a typical night of £150 or less, and 19 more did further out, near a fast train into town. [The best budget hotels in London](/articles/best-budget-hotels-london/) has all 22, and why a Sunday is the night to book.
 
@@ -312,21 +150,13 @@ Accommodation is the line that breaks most London budgets, and the one genuinely
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Where the money actually goes
+## The three lines that break a budget
 
-Be honest about the three things that cost real money in London:
+1. **Accommodation.** The one unavoidable expense, and Zone 2 with good transport beats Zone 1 every time.
+2. **Paid attractions.** The Tower, the Shard, Madame Tussauds and the Eye are £30 and up, each. Pick two, not six — and check [what is free](/free/) before you pick at all.
+3. **Drinking.** A pint is £6–£8 in central London. Wetherspoons and the outer zones are roughly half that.
 
-1. **Accommodation.** The one unavoidable expense. Zone 2 with good transport beats Zone 1 every time.
-2. **Paid attractions.** The Tower, the Shard, Madame Tussauds and the Eye are £30+ each. Pick two, not six.
-3. **Drinking.** A pint is £6–£8 in central London. Wetherspoons and the outer zones are half that.
-
-Everything else — the museums, the parks, the views, the walking, the markets — is where London is genuinely generous.
-
-If you do decide to pay for one or two attractions, it is worth comparing ticket prices before you queue at the door — several come cheaper booked ahead than bought on the day.
-
-**The two schemes worth understanding first.** [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/) gets two people in for the price of one at a long list of attractions, and the catch is the one most people fall into: **Oyster and contactless do not qualify**, so you need the right kind of ticket before you travel. And the [London Pass](/articles/london-pass-guide/) is worth it for some itineraries and not others — we have done the arithmetic rather than the marketing.
-
-For an evening out, [cinema deals and memberships](/articles/cinema-deals-london/) are compared across Cineworld, Odeon, Picturehouse, Curzon and the independents, and the [theatre guide](/articles/london-theatre-guide/) covers day seats and returns, which is how you see a West End show for a fraction of the advertised price.
+Nothing else on the list moves the total much. The museums, the parks, the views, the walking and the markets are where London is genuinely generous, and no amount of careful planning saves you as much as choosing the right bed and buying two tickets instead of six.
 
 ---
 
@@ -335,7 +165,7 @@ For an evening out, [cinema deals and memberships](/articles/cinema-deals-london
 
 - ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — top-flight football needs a paid membership, but London’s lower-league clubs sell to anyone from £20
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — and [tax-free shopping](/articles/tax-free-shopping-london/), including why you cannot claim the VAT back
-- 🎪 **[Free Things to Do in London](/free/)**
+- 🎪 **[Free Things to Do in London](/free/)** — the other half of this page: every national museum, the highest viewing floor in the city, and a seat in the public gallery at the Old Bailey
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**

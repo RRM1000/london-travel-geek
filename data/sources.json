@@ -46,7 +46,6 @@
   "blocked": {
     "note": "Refuse the fetcher. A dead source inflates apparent breadth without adding any. Kept here so the same URLs are not retried every topic.",
     "permanent403": [
-      "guide.michelin.com",
       "thatsup.co.uk",
       "quintessentially.com",
       "trip101.com",
@@ -61,12 +60,8 @@
       "telegraph.co.uk"
     ],
     "keepInCorpusNote": "Blocked, but the seeded URLs STAY in data/consensus/*.json. purge-dead-sources.mjs strips empty sources from blocked domains; these are exempt, so the refusal shows up in every run rather than being quietly forgotten. See data/reference/hotel-corpus.md - the Telegraph pages are real editorial lists we are simply priced out of, and the URLs remain the record of what the SERP returned.",
-    "substitutes": {
-      "guide.michelin.com": "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London"
-    },
-    "substituteCaveats": {
-      "guide.michelin.com": "STARS ONLY. The substitute is the list of Michelin-STARRED restaurants, so it cannot surface a Bib Gourmand - Lai Rai (Vietnamese, Peckham, Bib 2026) does not appear on it anywhere. A Bib topic querying this substitute gets nothing back and reads it as proof no award exists, which is how the Vietnamese corpus came to carry a note saying no judged award covered the topic. When a Bib matters, verify it another way and file it under guide.michelin.com regardless of which page you read it on."
-    }
+    "substitutes": {},
+    "substituteCaveats": {}
   },
   "excluded": [
     "opentable.co.uk",
@@ -129,7 +124,12 @@
     "dyme.earth",
     "seatandsuite.com",
     "eurovistatrips.com",
-    "blog.sothebysrealty.co.uk"
+    "blog.sothebysrealty.co.uk",
+    "capitalalist.com",
+    "bestldn.com",
+    "londonkensingtonguide.com",
+    "streathamlife.co.uk",
+    "hungryfoody.com"
   ],
   "domains": {
     "thegoodfoodguide.co.uk": {
@@ -139,7 +139,7 @@
     "guide.michelin.com": {
       "tier": "A",
       "name": "Michelin Guide",
-      "blocked": true
+      "note": "READABLE. Fetch with plain curl and NO user-agent flag: a default curl UA returns HTTP 200 with full HTML, while a Chrome UA returns HTTP 202 with an empty body. That empty 202 is why this was recorded as a permanent 403 and substituted with a stars-only Wikipedia list, which structurally cannot surface a Bib Gourmand. Verified 22 Sep 2026 against the London selection: 54 Bib Gourmand, 68 one-star, 19 two-star, 10 three-star. List pages paginate as /page/2. Base: https://guide.michelin.com/gb/en/greater-london/london/restaurants with /bib-gourmand, /1-star-michelin, /2-stars-michelin, /3-stars-michelin."
     },
     "theworlds50best.com": {
       "tier": "A",
@@ -2085,6 +2085,171 @@
       "tier": "A",
       "name": "Afternoon Tea Awards",
       "note": "CONFLICT ON RECORD: afternoontea.co.uk is a commercial directory that sells vouchers and paid listings for the venues it judges, and it sponsors the award it reports. Tiered A because the judging is real and dated - an independent panel, published criteria covering booking to bill, and judge quotes per winner - but the commercial interest is why this note exists. UK-WIDE: scope to London before counting (2026 gave 28 Awards of Excellence, 20 of them London). Its results page prints the Excellence list twice and the two lists disagree; the prose list carries the attribution sentence and is the one to record."
+    },
+    "stylist.co.uk": {
+      "tier": "B",
+      "name": "Stylist"
+    },
+    "hyphenonline.com": {
+      "tier": "C",
+      "name": "Hyphen",
+      "note": "British Muslim news site. UK-scoped pieces - scope to London before counting (trap 12)."
+    },
+    "greavesindia.co.uk": {
+      "tier": "C",
+      "name": "Greaves India",
+      "note": "Tour operator's editorial blog, same shape as devourtours.com."
+    },
+    "feedthelion.co.uk": {
+      "tier": "C",
+      "name": "Feed the Lion",
+      "note": "Halal dining specialist."
+    },
+    "therooftopguide.com": {
+      "tier": "C",
+      "name": "The Rooftop Guide",
+      "note": "Single-subject rooftop specialist. The only source printing retractable roofs, heaters and floor numbers. Its YouTube channel is the SAME publisher - do not count both."
+    },
+    "towerhamletsslice.co.uk": {
+      "tier": "C",
+      "name": "Tower Hamlets Slice",
+      "note": "Local title."
+    },
+    "vittlesmagazine.com": {
+      "tier": "C",
+      "name": "Vittles",
+      "note": "Jonathan Nunn's Vittles. The Vittles 99 is a genuinely ranked London list. Partly paywalled; archive searchable via /api/v1/archive?sort=new&search=<term>."
+    },
+    "youtube.com/@Busayo_AD": {
+      "tier": "D",
+      "name": "Busayo AD (YouTube)"
+    },
+    "youtube.com/@nandinibalakrish": {
+      "tier": "D",
+      "name": "Nandini Balakrishnan (YouTube)"
+    },
+    "youtube.com/@see1508-more-than-just-travel": {
+      "tier": "D",
+      "name": "See1508 More Than Just Travel (YouTube)"
+    },
+    "youtube.com/@KitchenRaid": {
+      "tier": "D",
+      "name": "Kitchen Raid (YouTube)"
+    },
+    "youtube.com/@londontamilbro": {
+      "tier": "D",
+      "name": "London Tamil Bro (YouTube)"
+    },
+    "youtube.com/@FoodKulcha": {
+      "tier": "D",
+      "name": "Food Kulcha (YouTube)"
+    },
+    "youtube.com/@Life_WithHashi": {
+      "tier": "D",
+      "name": "Life With Hashi (YouTube)"
+    },
+    "youtube.com/@MKapilan": {
+      "tier": "D",
+      "name": "M Kapilan (YouTube)"
+    },
+    "youtube.com/@Guidotv222": {
+      "tier": "D",
+      "name": "Guido TV (YouTube)"
+    },
+    "youtube.com/@streetfoodanalysis": {
+      "tier": "D",
+      "name": "Street Food Analysis (YouTube)"
+    },
+    "youtube.com/@RandomlyFood": {
+      "tier": "D",
+      "name": "Randomly Food (YouTube)"
+    },
+    "youtube.com/@CecienUK": {
+      "tier": "D",
+      "name": "Que tal, Ceci? (YouTube)"
+    },
+    "youtube.com/@SarahHighfield": {
+      "tier": "D",
+      "name": "Sarah Highfield (YouTube)"
+    },
+    "youtube.com/@eater": {
+      "tier": "D",
+      "name": "Eater (YouTube)",
+      "note": "US content - scope before counting (trap 12)."
+    },
+    "youtube.com/@thetastedude": {
+      "tier": "D",
+      "name": "The Taste Dude (YouTube)",
+      "note": "Frequently non-London - scope before counting (trap 12)."
+    },
+    "youtube.com/@BeardsFlavourOfTheMonth": {
+      "tier": "D",
+      "name": "Beard's Flavour Of The Month (YouTube)"
+    },
+    "youtube.com/@londonfoodie7542": {
+      "tier": "D",
+      "name": "London Foodie (YouTube)"
+    },
+    "youtube.com/@myriadrecipes": {
+      "tier": "D",
+      "name": "Myriad Recipes (YouTube)"
+    },
+    "youtube.com/@OneShotAdventures": {
+      "tier": "D",
+      "name": "One Shot Adventures (YouTube)"
+    },
+    "youtube.com/@rondigao": {
+      "tier": "D",
+      "name": "Ron Digao (YouTube)"
+    },
+    "youtube.com/@theperambulators": {
+      "tier": "D",
+      "name": "The Perambulators (YouTube)"
+    },
+    "youtube.com/@heywheresbb": {
+      "tier": "D",
+      "name": "Hey Where's BB (YouTube)"
+    },
+    "youtube.com/@TyshonAdventures": {
+      "tier": "D",
+      "name": "Tyshon Adventures (YouTube)"
+    },
+    "youtube.com/@itskristinecamille": {
+      "tier": "D",
+      "name": "Kristine Camille (YouTube)"
+    },
+    "youtube.com/@meldycatamora": {
+      "tier": "D",
+      "name": "Meldy Catamora (YouTube)"
+    },
+    "youtube.com/@AnimeLamentillo": {
+      "tier": "D",
+      "name": "Anna Mae Lamentillo (YouTube)"
+    },
+    "youtube.com/@totochronicles": {
+      "tier": "D",
+      "name": "Toto Chronicles (YouTube)"
+    },
+    "youtube.com/@wanderbb2555": {
+      "tier": "D",
+      "name": "Wander BB (YouTube)"
+    },
+    "youtube.com/@EATPINOY": {
+      "tier": "D",
+      "name": "Eat Pinoy (YouTube)"
+    },
+    "youtube.com/@uknmtv": {
+      "tier": "D",
+      "name": "UKNM TV (YouTube)"
+    },
+    "youtube.com/@ThisFoodBangz": {
+      "tier": "D",
+      "name": "This Food Bangz (YouTube)"
+    },
+    "youtube.com/@MyTastyNaija": {
+      "tier": "D",
+      "name": "My Tasty Naija (YouTube)",
+      "note": "FLAGGED: format is owner interviews and two London episodes say 'we were hosted by owner'. Those episodes are not counted. Rule on the format before relying on it."
     }
   },
   "excludedWhy": {

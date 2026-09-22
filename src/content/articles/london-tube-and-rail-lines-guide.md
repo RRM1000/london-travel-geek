@@ -22,7 +22,7 @@ heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 ---
 
-Whilst the London Underground (or tube as it's commonly referred to by Londoners) is the most popular and well-known way to traverse London by rail, there are many other lines that also accept Oyster cards (or your bank card if you prefer).
+The Underground is the rail network visitors arrive knowing about, but the Elizabeth line, the Overground, the DLR, Thameslink and the trams all take the same Oyster card or bank card, and several of them are the better ride.
 
 > **The short answer:** London's rail lines are not interchangeable. The Elizabeth line, the sub-surface Tube lines and the London Overground are air-conditioned and comfortable; the deep-level Tube lines are faster through the centre but hot and crowded. This guide rates every line for crowding and comfort, and lists which attractions sit at which station — including the exit to use when you get there.
 

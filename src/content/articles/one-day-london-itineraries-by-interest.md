@@ -251,7 +251,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 *About 2 miles, mostly Bloomsbury.*
 
-**Morning.** **The British Library** — free, and the **Treasures gallery** holds Magna Carta, Shakespeare's First Folio, Handel's *Messiah* in his own hand and Beatles lyrics written on the back of envelopes. It is the most undersold free room in London.
+**Morning.** **The British Library** — free, and the **Treasures gallery** holds Magna Carta, Shakespeare's First Folio, Handel's *Messiah* in his own hand and Beatles lyrics written on the back of envelopes, all in one room and all free.
 
 **Midday.** Walk down through **Bloomsbury** — the squares, the blue plaques, **Senate House**, and the **Charles Dickens Museum** at 48 Doughty Street, the only surviving London house he lived in.
 
@@ -265,7 +265,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 *About 3 miles, and the day of the week matters more here than anywhere else on this page.*
 
-**Sunday is the best market day in London and most guides do not say so.** Columbia Road only exists on a Sunday. Brick Lane is at full stretch on a Sunday. Both are quiet or shut the rest of the week.
+**Sunday is the best market day in London.** Columbia Road only exists on a Sunday. Brick Lane is at full stretch on a Sunday. Both are quiet or shut the rest of the week.
 
 **Morning, early.** **Columbia Road Flower Market**, 8am to about 3pm, **Sunday only**. Go before 9am or after 2pm — early for the choice, late for the traders shouting the prices down.
 

@@ -359,6 +359,8 @@ Markets are the cheapest good food in London and one of the few genuinely free t
 ## Continue planning your London trip
 
 
+- 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)** — the Filipino counters at Seven Dials and both Boxparks
+- 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)**
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — the streets, stores and arcades around the markets- 🛍️ **[London Markets by Day](/markets/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**

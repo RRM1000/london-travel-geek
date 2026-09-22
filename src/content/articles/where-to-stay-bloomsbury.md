@@ -23,9 +23,9 @@ faq:
     a: "Quieter than almost anywhere else this central. The garden squares lock their gates at dusk, the university buildings empty out, and the restaurant and bar options thin fast after nine. What stays open is mostly inside the hotels themselves — the Coral Room and Bloomsbury Club Bar at The Bloomsbury Hotel, Fitz's Bar at Kimpton Fitzroy, the new Arcus rooftop at The Imperial. For a proper night out, Soho is a ten-minute walk west and Covent Garden about the same south."
 ---
 
-Most guides to Bloomsbury hotels describe the same two or three names — a hostel, a windowless underground room, one grand Victorian pile — because that handful is what turns up on every "best hotels near the British Museum" search. What those searches miss is the range sitting either side of them: a Georgian B&B strip family-run since the 1970s, and a 357-room hotel on Russell Square that has just finished rebuilding itself from the ground up.
+Bloomsbury's hotels are usually reduced to three names — a hostel, a windowless underground room and one grand Victorian pile. Either side of them sit a Georgian B&B strip family-run since the 1970s, and a 357-room hotel on Russell Square that has just finished rebuilding itself from the ground up.
 
-**Bloomsbury runs from a shared dorm bed to a fully relaunched grand hotel inside about ten minutes on foot — a wider price spread on one walk than any other part of Zone 1 covers.** Generator London's cheapest dorm bed and Kimpton Fitzroy London's Russell Square suites sit roughly eight minutes apart. That is the fact worth booking around: which end of the walk you want, and what each end actually gets you.
+**Bloomsbury runs from a shared dorm bed to a fully relaunched grand hotel inside about ten minutes on foot.** Generator London's cheapest dorm bed and Kimpton Fitzroy London's Russell Square suites sit roughly eight minutes apart. That is the fact worth booking around: which end of the walk you want, and what each end actually gets you.
 
 **The area itself does the rest of the work.** Zedwell Tottenham Court Road and The Bloomsbury Hotel are both under two minutes from the British Museum. Russell Square station is on the Piccadilly line, which runs to Heathrow without a change. And the garden squares that give the area its name are genuinely quiet — quieter, at night, than anywhere else this close to the centre.
 
@@ -141,7 +141,7 @@ A full block down the eastern side of Russell Square, interiors by Tara Bernerd 
 
 **Most guides to this hotel are now describing a building that no longer exists.** The Imperial spent years as a plain three-star option on Russell Square — patterned carpets, no design ambition, cheap because it looked it — and every source written before this year still says so. The operator's own site now opens with "we begin our Third Chapter": a full relaunch into 357 mid-century-modern rooms across nine new grades, from an entry Access room up to a 57 sq m Beacon suite and a two-bedroom Bloomsbury Beacon suite with panoramic views over the square.
 
-**The new rooftop is the reason to know about this one before the wider guides catch up.** Arcus, a 324-seat bar and restaurant on the tenth floor themed around London's weather, opened as part of the relaunch, alongside Edit Bar & Lounge downstairs. The Imperial is part of the Imperial London Hotels group, which also runs the Bedford, Morton, President, City Sleeper and Tavistock hotels around the same square — the Tavistock is the group's budget end, and one of the more independently attested cheap beds on this list.
+**The new rooftop is the reason to know about this one.** Arcus, a 324-seat bar and restaurant on the tenth floor themed around London's weather, opened as part of the relaunch, alongside Edit Bar & Lounge downstairs. The Imperial is part of the Imperial London Hotels group, which also runs the Bedford, Morton, President, City Sleeper and Tavistock hotels around the same square — the Tavistock is the group's budget end, and one of the more independently attested cheap beds on this list.
 
 **Further options right around Russell Square and Montague Street**, each with real evidence behind it but not covered in full here: **[The Montague on the Gardens](hotel:montague-on-the-gardens)**, a Red Carnation house with a raised garden terrace and live jazz in the Leopard Bar; **[The Zetter Bloomsbury](hotel:the-zetter-bloomsbury)**, a 68-room townhouse hotel across six Georgian buildings that only opened in April 2026; **[The Hoxton, Holborn](hotel:the-hoxton-holborn)**, two minutes over the Holborn line with rooms from a genuine Shoebox grade; and **[Bertrand's Townhouse](hotel:bertrands-townhouse)** on Bedford Place, themed on Bertrand Russell with a cigar garden and jazz nights.
 
@@ -149,11 +149,11 @@ A full block down the eastern side of Russell Square, interiors by Tara Bernerd 
 
 ## Where to stay just outside
 
-Bloomsbury already covers most price tiers on its own, so this is a shorter list than most of our where-to-stay guides carry — three directions worth knowing about rather than a full second guide. If you have not settled on an area at all, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
+Bloomsbury already covers most price tiers on its own, so this is three directions worth knowing about rather than a full second guide. If you have not settled on an area at all, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
 
 ### Fitzrovia — west across Tottenham Court Road, and quieter again
 
-Immediately west of Zedwell and Gower Street, Fitzrovia trades Bloomsbury's museum crowd for Charlotte Street's restaurant strip and a still-quieter run of streets. It has no dedicated where-to-stay guide of its own yet; our [Fitzrovia area guide](/articles/fitzrovia-area-guide/) covers the neighbourhood itself, and the [Soho and West End guide](/articles/where-to-stay-soho-west-end/) covers the hotels on its far side.
+Immediately west of Zedwell and Gower Street, Fitzrovia trades Bloomsbury's museum crowd for Charlotte Street's restaurant strip and a still-quieter run of streets. Our [Fitzrovia area guide](/articles/fitzrovia-area-guide/) covers the neighbourhood itself, and the [Soho and West End guide](/articles/where-to-stay-soho-west-end/) covers the hotels on its far side.
 
 ### Holborn — south over the boundary, for a kitchen or a courtyard
 

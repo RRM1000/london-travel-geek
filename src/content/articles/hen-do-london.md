@@ -196,7 +196,7 @@ What you give up is the choice of venue and the off-peak pricing that does most 
 * **Bring physical ID, not a photograph of it.** Fairgame and Tape both say so explicitly. Fairgame is **18-plus at every hour it opens**. Rowans is **over-21s only after 7pm on Friday and Saturday**. Swift is 21-plus everywhere.
 * **Check the group ceiling as well as the floor.** Online booking stops at 12 at Puttshack and Boom Battle Bar, 20 at Nightjar, 24 at Swingers, 32 at Electric Shuffle and 40 at BAM. Bunga 90 will not let a group of 21 or more book online at all — you have to ring.
 * **Leave the bags somewhere.** Stasher is from £1.49 a bag a day, with 17 points at Euston, 28 around King's Cross St Pancras, 27 at Paddington and 26 at Liverpool Street, and 70-plus open 24 hours.
-* **Bodean's BBQ has closed.** Its own website is now a single closure notice. It is still on most hen-do listicles as the group dinner answer; it is not one.
+* **Bodean's BBQ has closed.** It is still on most hen-do listicles as the group dinner answer; it is not one.
 
 ---
 

@@ -478,6 +478,7 @@ Some bars are simply priced below the market and do not need an offer:
 
 ## Continue planning your London trip
 
+- 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)**
 - 🎪 **[Unusual Restaurants in London](/articles/unusual-restaurants-london/)**
 - 🏛️ **[Historic Pubs and Dining Rooms in London](/articles/historic-pubs-dining-rooms-london/)**
 - 🌙 **[Late-Night Eating in London](/articles/late-night-eating-london/)**

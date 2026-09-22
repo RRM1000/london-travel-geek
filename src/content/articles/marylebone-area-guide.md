@@ -106,7 +106,7 @@ Marylebone has its own share of the commemorative plaques marking where notable 
 ## Key streets and micro-districts
 
 ### Marylebone High Street
-The centre, and **the street Londoners actually recommend** — low-rise, largely independent, and the opposite of Oxford Street four minutes south.
+The centre — low-rise, largely independent, and the opposite of Oxford Street four minutes south.
 
 **Daunt Books** is the anchor: an Edwardian bookshop with a galleried oak room, skylights and a stained-glass window at the back, shelved by country rather than genre, which is the reason it is famous. **La Fromagerie**, Cadenhead's whisky shop and a run of delis fill the rest.
 

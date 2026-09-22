@@ -45,7 +45,7 @@ faq:
     a: "Usually, but the schemes disclaim responsibility if not. Ello Group's terms say venues may withdraw or change offers at any time and that it accepts no liability for availability. NeoTaste says outright that it is not responsible if a restaurant refuses to honour a deal. Mention the card when you book, and again before you order — not when the bill arrives."
 ---
 
-**The card that costs £29.99 and the card that costs £79.99 are sold by the same company, from the same office, on the same VAT number — and 527 of their London restaurants are the same restaurants.** That is the single most useful thing to know before buying one.
+**The card that costs £29.99 and the card that costs £79.99 are sold by the same company, from the same office, on the same VAT number — and 527 of their London restaurants are the same restaurants.**
 
 This page covers **paid membership cards and subscriptions**: Tastecard, Gourmet Society, Dine Club, Meerkat Meals and NeoTaste. It is not about restaurants' own fixed-price menus — those are on our [set lunch and pre-theatre page](/articles/restaurant-deals-london/), and, as it turns out, the two rarely combine.
 
@@ -177,9 +177,9 @@ The website advertises a free trial but does not say how long it lasts, which is
 
 ---
 
-## What we checked and left off
+## Other schemes, and what they actually are
 
-- **Hi-Life Diners Club** still exists as a company — it is named in Ello Group's terms — but **hi-life.co.uk now redirects to tastecard.co.uk**. There is nothing separate to buy.
+- **Hi-Life Diners Club** still exists as a company — it is named in Ello Group's terms — but there is nothing separate to buy.
 - **Coffee Club** is not a separate purchase. It is included free with Tastecard and Gourmet Society.
 - **Vitality** rewards are Caffè Nero drinks and cinema tickets earned by hitting activity targets — not a restaurant discount.
 - **O2 Priority** gives a £1 Greggs hot drink or savoury item weekly, up to four times a month: about £3.20 a month, at a bakery.

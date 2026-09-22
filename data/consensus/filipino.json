@@ -1,0 +1,411 @@
+{
+  "cuisine": "filipino",
+  "note": "SCOPE. Filipino restaurants, bakeries, canteens and counters in Greater London. Collected 22 September 2026. There is no Filipino restaurant award in Britain, but Michelin does reach the topic: Donia holds a Bib Gourmand in the 2026 Great Britain & Ireland guide, which is the one tier-A citation here. guide.michelin.com is listed under blocked.permanent403 in data/sources.json and that is wrong - it answers plain curl with NO user-agent header and returns HTTP 202 with an empty body to a Chrome one. Reddit is blocked, so tier E is empty; the social floor with an award is two independent voices and this pass carries sixteen, all YouTube.",
+  "recorded": "2026-09-22",
+  "sources": [
+    {
+      "name": "MICHELIN Guide - London Filipino restaurants, 2026 Great Britain & Ireland",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants/filipino",
+      "scope": "filipino",
+      "note": "TIER A, and the only judged verdict in the topic. Michelin's Filipino filter for London returns exactly two restaurants. The three other cards on the same page are the 'nearby' rail rather than results and are NOT recorded: MRBL is Meats and Grills in Leadenhall Market, Bar des Pres - Mayfair is Asian Influences, and AO by Daniel Rogan is in Southampton (traps 12 and 15). Fourteen further Filipino venue slugs were tried on the same site and every one 404s - Ramo Ramen, Kasa and Kin, Panadera, Turo Turo, Bintang, Rapsa, Cirilo, Sarap, Kamayan, Lutong Pinoy, Apo, Kilig, Mamasons and Kuya Fernando are not in the guide at all. READ IT WITH PLAIN CURL AND NO -A FLAG; a Chrome user agent gets 202 and an empty body.",
+      "names": [
+        "Donia",
+        "Belly Bistro"
+      ],
+      "quotes": {
+        "Donia": "BIB GOURMAND, 2026 MICHELIN Guide Great Britain & Ireland - 'good quality, good value cooking'. Cuisine: Filipino. 'Crisp adobo mushroom croquetas are a must, as are the succulent chicken Inasal and the lechon (suckling pig) served with a lovely liver and peppercorn sauce. Bring friends, ignore the slightly testing acoustics and share the love.'",
+        "Belly Bistro": "RECORDED AS 'BELLY'. Listed in the 2026 MICHELIN Guide with a Plate - no Bib and no star - and tagged 'Inspectors favorite'. Cuisine: Filipino. 'Do you go for the signature cod pandesal or the fabulous scallops Bicol Express? Wagyu picanha or seafood calderata? ... Finish with the unusual-sounding but utterly joyous frozen custard profiterole with salty fish sauce caramel.'"
+      }
+    },
+    {
+      "name": "Eater London - The Best Filipino Restaurants in London",
+      "url": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food",
+      "scope": "filipino",
+      "note": "Updated 10 October 2022 and the widest single list in the set. Eater London stopped publishing in February 2023, so it is the oldest source here: of its fourteen names, Romulo Cafe has since closed and Sarap has no permanent site. Recorded as published; the article carries only the ones still trading.",
+      "names": [
+        "Bintang",
+        "Romulo Café & Restaurant",
+        "Sarap",
+        "Kasa and Kin",
+        "Panadera",
+        "Rapsa",
+        "Ramo Ramen",
+        "Filishack",
+        "Mama's Kubo",
+        "Turo Turo",
+        "Kuya Fernando",
+        "Luto by Mary San Pablo",
+        "Cirilo Filipino Kainan",
+        "Kamayan sa Earl's Court"
+      ],
+      "quotes": {
+        "Bintang": "Its pandesal sliders - a starter that feels like a main - are made from short rib patties, smashed on the grill with toyomansi, a condiment of soy sauce and calamansi",
+        "Sarap": "Lechon is reimagined into crispy pork trotter, stuffed with lemongrass and truffled adobo pork rice, while larger groups can literally go the whole hog and order a pig",
+        "Panadera": "The highlight is the corned beef hash sando, wrapped in bechamel sauce and turned into a Filipino-style croquette",
+        "Ramo Ramen": "Ramo's award-winning oxtail kare kare ramen takes inspiration from the classic Filipino dish using peanut beef broth and pulled oxtail",
+        "Filishack": "The chicken is marinated in lemongrass, ginger, vinegar and calamansi before being charred",
+        "Turo Turo": "RECORDED AS 'Turo Turo @ Manor of Walworth' - the residency on the first floor of a Walworth Road pub, before the Tooting Broadway restaurant. A four-hour braised pork tocino rice bowl, from the mind of Rex de Guzman",
+        "Kuya Fernando": "Doubling as a restaurant and grocery store... arroz caldo, ginger-infused rice served with Filipino fried chicken and a boiled egg",
+        "Cirilo Filipino Kainan": "the highlight is any of its three variations of sisig: pork, chicken or beef - all equal parts tangy and spicy, served on a sizzling plate",
+        "Kamayan sa Earl's Court": "RECORDED AS 'Kamayan Sa'. A boodle fight in which crunchy fried pork knuckles, deep fried pork belly and stewed chicken are bunched together with soft rice and laid out on banana leaves",
+        "Rapsa": "RECORDED AS 'Rapsa @ 100 Hoxton'. Chef Francis Puyat specialises in kinilaw - a native method of cooking using liquid fire from vinegar or citrus",
+        "Luto by Mary San Pablo": "A supper club rather than a restaurant, recorded as published and deliberately not carried on the page"
+      }
+    },
+    {
+      "name": "Time Out (Donia, Belly Bistro, Panadera Soho and Kasa and Kin, merged)",
+      "url": "https://www.timeout.com/london/restaurants/belly-bistro",
+      "scope": "filipino",
+      "note": "One masthead, one opinion. Four separate pages merged: Belly Bistro (16 September 2025, five stars), Panadera Soho (22 October 2025, five stars), Donia (31 January 2024, four stars) and the Kasa and Kin listing. Star ratings are out of five and are not a published running order, so no rank is recorded.",
+      "names": [
+        "Belly Bistro",
+        "Panadera",
+        "Donia",
+        "Kasa and Kin"
+      ],
+      "quotes": {
+        "Belly Bistro": "Five stars, 16 September 2025. 'Bold Filipino flavours on Kentish Town Road'... 'the best new opening in Kentish Town for a long, long while'",
+        "Panadera": "Five stars, 22 October 2025. 'their chicken adobo pocket is like Greggs gunning for a Michelin star'",
+        "Donia": "Four stars, 31 January 2024. 'Donia isn't the place for a light bite. It's a place to be smacked senseless by thick, fulsome flavour'",
+        "Kasa and Kin": "'A lively restaurant in Soho serving elevated Filipino cuisine', helmed by executive chef Jeremy Villanueva"
+      }
+    },
+    {
+      "name": "The Infatuation - Top 25: The Best Restaurants In London",
+      "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london",
+      "scope": "filipino",
+      "note": "RANKED 1-25 and two of the twenty-five are Filipino. Merged with the individual reviews of Donia, Belly Bistro and Panadera Marylebone, which are the same masthead.",
+      "names": [
+        "Belly Bistro",
+        "Donia",
+        "Panadera"
+      ],
+      "quotes": {
+        "Belly Bistro": "Ranked #13 of 25. 'The tempura cod pandesal is non-negotiable, the mushroom arroz caldo makes risotto look basic'",
+        "Donia": "Ranked #18 of 25. 'Filipino in essence and as London as a packet of Buzz Sweets'... 'the lamb shoulder caldereta pie is one of the best things you'll eat all year'",
+        "Panadera": "Reviewed at the Marylebone site"
+      }
+    },
+    {
+      "name": "DesignMyNight - The Best Filipino Restaurants In London",
+      "url": "https://www.designmynight.com/london/blog/best-filipino-restaurants-london",
+      "scope": "filipino",
+      "note": "Published 27 March 2025 by Kavita Singh. Numbered 1-10 but not presented as an order, so no rank recorded.",
+      "names": [
+        "Turo Turo",
+        "Rapsa",
+        "Kasa and Kin",
+        "Bintang",
+        "Ramo Ramen",
+        "Lutong Pinoy",
+        "Mama's Kubo",
+        "Cirilo Filipino Kainan",
+        "Jollibee",
+        "Apo"
+      ],
+      "quotes": {
+        "Turo Turo": "named after the fast food stalls of the Philippines, where customers point at the food they would like... their first permanent establishment after a series of market stalls and kitchen residencies",
+        "Lutong Pinoy": "Founded in 1996 by Mario Malata... a name that translates to home-cooked food in Tagalog",
+        "Ramo Ramen": "All their meat is halal-certified too",
+        "Apo": "a welcoming restaurant and bar that serves classic Filipino dishes all day long - open until 2am on weekends",
+        "Rapsa": "head here on Sundays from 5pm to 8pm for their Boodle Fights, a cultural tradition featuring a whole roasted lechon"
+      }
+    },
+    {
+      "name": "Secret London (Filipino guide and Belly Bistro feature, merged)",
+      "url": "https://secretldn.com/filipino-food-london/",
+      "scope": "filipino",
+      "note": "The list is dated 19 March 2024; the Belly Bistro feature is 17 June 2025 at https://secretldn.com/belly-bistro-kentish-town-london/. Same domain, one source.",
+      "names": [
+        "Donia",
+        "Kilig",
+        "Mama's Kubo",
+        "Mamasons Dirty Ice Cream",
+        "Rapsa",
+        "Romulo Café & Restaurant",
+        "Jollibee",
+        "Panadera",
+        "Kapihan",
+        "Lutong Pinoy",
+        "Kasa and Kin",
+        "Spoon & Rice",
+        "Belly Bistro"
+      ],
+      "quotes": {
+        "Kilig": "RECORDED AS 'KiliG'. Inspired by the Philippines and Colombia... the tortang talong, a Filipino smoked aubergine fritter",
+        "Kapihan": "a Filipino cafe and bakery that brews specialty coffee from the Philippines... specialise in baking bibingkas, native baked coconut rice cakes",
+        "Mamasons Dirty Ice Cream": "RECORDED AS 'Mamasons'. Best served in a 'Bilog' which sandwiches the ice cream between bread",
+        "Spoon & Rice": "RECORDED AS 'Spoon and Rice'. The go-to spot for quick and on-the-go Filipino food",
+        "Lutong Pinoy": "Kamayan is Lutong Pinoy's ultimate dining feast where there's no cutlery or plates involved",
+        "Belly Bistro": "This 35-seater spot is the latest from Omar Shah... the 'McFillet of Dreams' cod slider, tucked inside a pillowy pandesal bun from next-door Cafe Mama & Sons"
+      }
+    },
+    {
+      "name": "London x London - The Best Filipino Restaurants in London for Adobo, Kare Kare and More",
+      "url": "https://www.londonxlondon.com/filipino-restaurants-london/",
+      "scope": "filipino",
+      "note": "Unordered. Heavy overlap with Eater's list, but written separately, by a named features editor, with its own dishes and prices.",
+      "names": [
+        "Bongbongs Manila Kanteen",
+        "Kasa and Kin",
+        "Romulo Café & Restaurant",
+        "Bintang",
+        "Rapsa",
+        "Mama's Kubo",
+        "Kuya Fernando",
+        "Cirilo Filipino Kainan",
+        "Kamayan sa Earl's Court",
+        "Filishack"
+      ],
+      "quotes": {
+        "Bongbongs Manila Kanteen": "part of the vast Seven Dials food court... set up by BBQ Dreamz after the company won £350,000 on BBC2's My Million Pound Menu",
+        "Kamayan sa Earl's Court": "their daily Boodle Fights, priced at just £15.99 per person for a minimum of four persons",
+        "Cirilo Filipino Kainan": "Grab a starter, main, and side for around £20",
+        "Bintang": "the Beef Sisig, a sizzling plate of brined beef brisket, chicken chicharrones served with onion, chilli, lime, and an egg",
+        "Kuya Fernando": "the Pork Lechon Kawali... slow-roasted pork belly, complete with the perfect crispy crackling, garlic rice, and lechon sauce"
+      }
+    },
+    {
+      "name": "The Nudge (Donia, Belly and Turo Turo pages, merged)",
+      "url": "https://thenudge.com/belly/",
+      "scope": "filipino",
+      "note": "Client-rendered, as recorded on the breakfast topic - curl returns the app shell, so the names and quotes come from each page's title and meta description. Also at thenudge.com/donia/ and thenudge.com/turo-turo/.",
+      "names": [
+        "Belly Bistro",
+        "Donia",
+        "Turo Turo"
+      ],
+      "quotes": {
+        "Belly Bistro": "Belly serves up modern Filipino flavours folded into European bistro techniques, in a lovely little Kentish Town space",
+        "Donia": "The team behind Mamasons Ice Cream parlour have now unveiled Donia, a central London restaurant cooking up Filipino street food",
+        "Turo Turo": "Rex De Guzman's beloved Filipino BBQ outfit finally has a home of its own, with karaoke and its famously fun Boodle Fights"
+      }
+    },
+    {
+      "name": "Hot Dinners - Donia",
+      "url": "https://www.hot-dinners.com/London-restaurants/Soho-Fitzrovia-Covent-Garden/donia-fliipino-carnaby-kingly-court",
+      "scope": "filipino",
+      "names": [
+        "Donia"
+      ],
+      "quotes": {
+        "Donia": "Co-founder Florence Mae Maglanoc promises a menu that blends the warmth of Filipino cuisine with modern British cooking"
+      }
+    },
+    {
+      "name": "Tower Hamlets Slice - Head-spinning beer and lip-smacking Adobo: Cirilo Filipino restaurant on Cable Street",
+      "url": "https://towerhamletsslice.co.uk/whitechapel/cirilo-filipino-cable-street-restaurant-review/",
+      "scope": "filipino",
+      "note": "16 March 2026. The only source that interviewed the chef.",
+      "names": [
+        "Cirilo Filipino Kainan"
+      ],
+      "quotes": {
+        "Cirilo Filipino Kainan": "Cirilo is run by Cirilo Ragasa, founder and chef, alongside his wife... he opened in 2008. 'Cirilo's sauce is thick, the colour of dark roast espresso, and glossily sweet'"
+      }
+    },
+    {
+      "name": "Randomly Food (YouTube) - Eating Filipino Food for 24 Hours in London",
+      "url": "https://www.youtube.com/@RandomlyFood",
+      "scope": "filipino",
+      "note": "Six stops, all named in the description with map links and chapter markers. No paid-promotion flag and no disclosure in the description. The sixth stop, Pinoy Supermarket, is a shop and is not recorded as a venue.",
+      "names": [
+        "Panadera",
+        "Jollibee",
+        "Lutong Pinoy",
+        "Adela's Carinderia",
+        "Inihaw"
+      ],
+      "quotes": {
+        "Inihaw": "RECORDED AS 'Inihaw Charlton' from the description's map pin",
+        "Adela's Carinderia": "RECORDED AS 'Adela's Carinderia London' from the description's map pin"
+      }
+    },
+    {
+      "name": "Myriad Recipes / Emily Roz (YouTube) - Trying the BEST Filipino Food in London (Little Manila)",
+      "url": "https://www.youtube.com/@myriadrecipes",
+      "scope": "filipino",
+      "note": "Stops taken from the chapter markers: Kapihan, Lutong Pinoy, a supermarket, Jollibee, halo-halo. No disclosure.",
+      "names": [
+        "Kapihan",
+        "Lutong Pinoy",
+        "Jollibee"
+      ]
+    },
+    {
+      "name": "One Shot Adventures (YouTube) - Little Manila in the UK: Filipino Food Tour in HIDDEN London Philippines District",
+      "url": "https://www.youtube.com/@OneShotAdventures",
+      "scope": "filipino",
+      "note": "The oldest video recorded here and the most-watched, at over half a million views. Earl's Court, with chapter markers. No disclosure.",
+      "names": [
+        "Kamayan sa Earl's Court",
+        "Jollibee"
+      ],
+      "quotes": {
+        "Kamayan sa Earl's Court": "they served us up some classic dishes like Chicken Adobo, Bilo Bilo and Halo-Halo"
+      }
+    },
+    {
+      "name": "Ron Digao (YouTube) - Finding Filipino Food",
+      "url": "https://www.youtube.com/@rondigao",
+      "scope": "filipino",
+      "note": "Description lists all three stops with full addresses. No disclosure.",
+      "names": [
+        "Rapsa",
+        "Kasa and Kin",
+        "Romulo Café & Restaurant"
+      ]
+    },
+    {
+      "name": "TravelDog (YouTube) - two Filipino London films, merged",
+      "url": "https://www.youtube.com/@_TravelDog_",
+      "scope": "filipino",
+      "note": "One record per channel. 'I Tried London's Giant Filipino Banana Leaf Feast' at Lutong Pinoy, and the follow-up at Ading Ysa's Kitchen in Tooting Broadway Market. Both name the venue in the description and in chapter markers. No disclosure.",
+      "names": [
+        "Lutong Pinoy",
+        "Ading Ysa's Kitchen"
+      ],
+      "quotes": {
+        "Lutong Pinoy": "grilled milkfish, pork belly, chicken inasal, prawns, spring rolls and a traditional beef and tripe stew... served on a giant banana leaf right in the middle of the table",
+        "Ading Ysa's Kitchen": "their famous sisig, prawn sinigang and incredible ube pie"
+      }
+    },
+    {
+      "name": "The Perambulators (YouTube) - We Tried Filipino Food in London",
+      "url": "https://www.youtube.com/@theperambulators",
+      "scope": "filipino",
+      "note": "Three stops named in the description, by a couple from Bacolod. No disclosure.",
+      "names": [
+        "Cirilo Filipino Kainan",
+        "Kasa and Kin",
+        "Mamasons Dirty Ice Cream"
+      ],
+      "quotes": {
+        "Kasa and Kin": "Being from Bacolod we had to try the Inasal, otherwise the cravings wouldn't have subsided"
+      }
+    },
+    {
+      "name": "HeywheresBB (YouTube) - Filipino bakery & Coffee shops in London",
+      "url": "https://www.youtube.com/@heywheresbb",
+      "scope": "filipino",
+      "note": "Two stops, both in chapter markers. No disclosure.",
+      "names": [
+        "Panadera",
+        "Kapihan"
+      ]
+    },
+    {
+      "name": "Tyshonadventures (YouTube) - Inside The Filipino Food Spot that's Winning London Over",
+      "url": "https://www.youtube.com/@TyshonAdventures",
+      "scope": "filipino",
+      "note": "A single-venue profile of Panadera with the family who run it. Checked for a paid-promotion flag and a disclosure; neither is present.",
+      "names": [
+        "Panadera"
+      ]
+    },
+    {
+      "name": "Harrison Webb (YouTube) - I Tried the World's Most Underrated Cuisines",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "filipino",
+      "note": "Five cuisines, five London restaurants, each with its address in the description. Only the Filipino stop is recorded here (trap 7). Handle matches the casing already in data/sources.json.",
+      "names": [
+        "Donia"
+      ],
+      "quotes": {
+        "Donia": "Donia - Top Floor, Kingly Ct, Carnaby St, Carnaby, W1B 5PW, chosen as the Filipino entry in a five-cuisine film"
+      }
+    },
+    {
+      "name": "Kristine Camille (YouTube) - We Tried London's Viral Filipino Restaurant",
+      "url": "https://www.youtube.com/@itskristinecamille",
+      "scope": "filipino",
+      "names": [
+        "Kasa and Kin"
+      ],
+      "quotes": {
+        "Kasa and Kin": "the Filipino restaurant everyone's been talking about"
+      }
+    },
+    {
+      "name": "Meldy Catamora (YouTube) - DONIA RESTAURANT FILIPINO FOODS IN LONDON",
+      "url": "https://www.youtube.com/@meldycatamora",
+      "scope": "filipino",
+      "note": "Address given in full in the description.",
+      "names": [
+        "Donia"
+      ]
+    },
+    {
+      "name": "Anna Mae Lamentillo (YouTube) - Ultimate Food Trip at Donia",
+      "url": "https://www.youtube.com/@AnimeLamentillo",
+      "scope": "filipino",
+      "note": "Eight dishes listed in the description. The same film also sits on the Build Initiative Foundation channel; that second upload is declined below rather than counted twice.",
+      "names": [
+        "Donia"
+      ],
+      "quotes": {
+        "Donia": "Lamb shoulder Caldereta pie with latticed puff pastry... Ube praline choux with coconut chantilly"
+      }
+    },
+    {
+      "name": "TotoChronicles (YouTube) - D'Cocina: Authentic Filipino Food in London",
+      "url": "https://www.youtube.com/@totochronicles",
+      "scope": "filipino",
+      "names": [
+        "D'Cocina"
+      ],
+      "quotes": {
+        "D'Cocina": "the classic sisig, chicken inasal, pork liempo, and lechon kawali"
+      }
+    },
+    {
+      "name": "Wander BB (YouTube) - FAMOUS FILIPINO BUFFET RESTAURANT IN LONDON | D'COCINA",
+      "url": "https://www.youtube.com/@wanderbb2555",
+      "scope": "filipino",
+      "note": "Venue name from the title; the description is hashtags only.",
+      "names": [
+        "D'Cocina"
+      ]
+    },
+    {
+      "name": "EAT PINOY (YouTube) - two London films, merged",
+      "url": "https://www.youtube.com/@EATPINOY",
+      "scope": "filipino",
+      "note": "'We Tried KAMAYAN SA EARLS COURT' and 'LIGAYA Bakery in London'. Both are five and six years old; Ligaya is recorded but deliberately not carried on the page.",
+      "names": [
+        "Kamayan sa Earl's Court",
+        "Ligaya"
+      ]
+    },
+    {
+      "name": "UKNMtv (YouTube) - Is This the BEST Filipino Food in London? Chicken & Drinks",
+      "url": "https://www.youtube.com/@uknmtv",
+      "scope": "filipino",
+      "note": "A Filipino-Caribbean kitchen. Recorded but not carried on the page: the description gives no address and none was found.",
+      "names": [
+        "Chicken & Drinks"
+      ]
+    }
+  ],
+  "declined": {
+    "https://www.kentishtowner.co.uk/2025/07/04/brave-cooking-is-belly-kentish-towns-best-new-opening-since-parakeet/": "HOSTED MEAL. The review ends 'Thanks to Belly for hosting us on this occasion.' A comped visit is the venue's own marketing, so it is not counted as an independent opinion, and nothing in the article rests on it.",
+    "https://bestldn.com/filipino-restaurant/": "AGGREGATOR. 'The 6 Best Filipino Restaurants in London' sits inside a self-serve business directory - 'List my business', 'Latest updated rankings' - alongside categories for Automotive, Real Estate and Manufacturing. Same family as londonbest.uk and bestoflondon.com, both already on the excluded list. Its six names were Kasa and Kin, Romulo, Lutong Pinoy, Filishack, Adela's Carinderia and Coco's Lounge.",
+    "https://www.youtube.com/@chefomarshah": "The operator's own channel - Omar Shah on building Belly, Bintang, Ramo Ramen and Mamasons. Tier F, excluded at collection.",
+    "https://www.youtube.com/@buildinitiativefoundation": "A second upload of Anna Mae Lamentillo's Donia film on her foundation's channel. One opinion, already recorded under her own channel.",
+    "https://www.youtube.com/@TheHumanMap1": "'How 60,000 Filipinos Built London's Invisible Backbone', 345k views, and it names Lutong Pinoy - but the credits list footage taken from Myriad Recipes, HeywheresBB and four other channels, two of which are already recorded here. Counting it would count them twice.",
+    "https://www.youtube.com/@TheJuicyVlog": "'Eating CRAZY Expensive FILIPINO FOOD in London' names no venue in the description or the chapter markers. The restaurant would have to be inferred from the title.",
+    "https://thatsup.co.uk/london/guide/the-best-filipino-restaurants-in-london": "On the permanent403 list in data/sources.json.",
+    "https://quintessentially.com/noted/londons-best-filipino-restaurants": "On the permanent403 list in data/sources.json."
+  },
+  "unreadable": {
+    "https://www.hardens.com/london-restaurants/cuisine/filipino/": "404. Harden's publishes no Filipino cuisine page."
+  },
+  "closed": {
+    "Romulo Café & Restaurant": "343 Kensington High Street. Closed January 2024. Named by Eater London, Secret London, London x London and Ron Digao, all of whom wrote before it went.",
+    "Sarap": "Budgie Montoya's modern Filipino restaurant. The Brixton site, Sarap Baon, closed in April 2022; the Heddon Street site was a pop-up and has closed; Apoy at Market Halls Oxford Street closed in January 2025 when he announced a pause. No trading site, so it is off the page.",
+    "Apoy": "Market Halls Oxford Street. Closed January 2025."
+  },
+  "temporarilyClosed": {
+    "Mama's Kubo": "250 Finchley Road. The restaurant's own site records it as closed for renovation works from 12 January 2026. Named by four sources, so the page says so in one line rather than leaving readers to turn up."
+  }
+}

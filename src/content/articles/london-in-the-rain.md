@@ -104,7 +104,7 @@ Barbican station is on the Circle, Hammersmith & City and Metropolitan lines; Mo
 
 The City's case for a wet day is a walking one — short outdoor stretches between a genuine run of indoor and covered stops, best done on a weekday, since much of it keeps office hours and empties at weekends.
 
-**Leadenhall Market**, an 1881 wrought-iron arcade painted maroon and green, is roofed and free to walk through — it played Diagon Alley in the first Harry Potter film, and it sits within five minutes of two free indoor viewpoints: **Horizon 22**, the highest public viewing floor in Europe, and the **Sky Garden**, a planted terrace at the top of the "Walkie-Talkie", both booked online ahead. The **Roman amphitheatre** under the Guildhall Art Gallery is free and indoors too, a ten-minute walk away. Our [City of London area guide](/articles/city-of-london-area-guide/#leadenhall-and-the-tower-cluster) has the full cluster.
+**Leadenhall Market**, an 1881 wrought-iron arcade painted maroon and green, is roofed and free to walk through — it played Diagon Alley in the first Harry Potter film, and it sits within five minutes of two free indoor viewpoints: **Horizon 22**, the highest public viewpoint in London, and the **Sky Garden**, a planted terrace at the top of the "Walkie-Talkie", both booked online ahead. The **Roman amphitheatre** under the Guildhall Art Gallery is free and indoors too, a ten-minute walk away. Our [City of London area guide](/articles/city-of-london-area-guide/#leadenhall-and-the-tower-cluster) has the full cluster.
 
 One more, if you'd rather sit down: **The Crosse Keys**, a Wetherspoons inside a 1913 banking hall on Gracechurch Street, is indoors, cheap, and considerably grander than the name suggests.
 

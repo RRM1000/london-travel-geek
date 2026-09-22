@@ -35,7 +35,7 @@ faq:
 
 **A ticket to the Warner Bros. Studio Tour costs £58.50 for an adult, and you cannot buy one at the door.** Not because it is busy — because they genuinely do not sell them there. Everything else in this guide is cheaper than that, and roughly half of it is free.
 
-Harry Potter is the most written-about subject in London tourism and the worst written-about. Guides still send people to a bar that closed in February, still describe a play that has changed format, and still print an old address for House of MinaLima. This page is what happens when you check every price against the operator's own website on the same day.
+Harry Potter is the most written-about subject in London tourism and the worst written-about. Guides still send people to a bar that closed in February, still describe a play that has changed format, and still print an old address for House of MinaLima.
 
 > 💡 **The Short Version:** **Studio Tour £58.50 adult, pre-booked only, allow four hours.** **Cursed Child becomes one play from 9 October 2026, seats from £25.** **Platform 9¾ is free and needs no ticket.** **House of MinaLima has moved to 157 Wardour Street.** **The Cauldron has closed.** And **the Great Hall was never filmed anywhere in London** — it is a set at Leavesden.
 

@@ -30,15 +30,13 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0"
 
 Immersive shows are the fastest-closing category of anything to do in London, and it is not close. **Three of the biggest names in the city shut in the first half of 2026 alone.**
 
-That is the actual problem with picking one. Every other guide to this subject is a list of things that were open when it was written, and most were written a while ago — so the single most useful thing here is not a ranking. It is a status.
+That is the actual problem with picking one. Every other guide to this subject is a list of things that were open when it was written, and most were written a while ago. So every show below carries a status.
 
 > 💡 **The Short Version:** **Bridge Command** is the most genuinely interactive thing in London — you crew a starship with a real job. **Mamma Mia! The Party** is the big night out. **Faulty Towers** is the funniest and you cannot hide from it. **Frameless** is the one for people who hate being spoken to. **Outernet is free.** And **Jeff Wayne's War of the Worlds, Vikings and the Gunpowder Plot have all closed** — do not let an old listicle send you there.
 
 *Every experience status-checked against its own website on 1 September 2026.*
 
 ---
-
-## Where they are
 
 ---
 
@@ -138,7 +136,7 @@ The distinction that matters more than genre. In these, you have a role, and sta
 
 *From £30 one game, £45 two, £50 all three · 26 Lambeth High Street, SE1 7SJ · Vauxhall or Lambeth North, not Waterloo · not open yet, tickets on sale*
 
-> ⚠️ **This one has not opened yet, and the date has already moved once.** A 5 September 2026 opening came and went. Little Lion are selling tickets and their booking page now says only "ahead of our venue opening in September 2026", with no replacement date — while the site's own homepage still lists London as coming soon. Press and influencer previews ran on 2 September, which is where the early reviews come from. **Book a refundable slot or wait for a confirmed date.** *(Checked 7 September 2026.)*
+> ⚠️ **This one has not opened yet, and the date has already moved once.** A 5 September 2026 opening came and went, and no replacement date has been published. Little Lion are selling tickets anyway. Press and influencer previews ran on 2 September, which is where the early reviews come from. **Book a refundable slot or wait for a confirmed date.** *(Checked 7 September 2026.)*
 
 **Three separate games in one building, from the team behind The Crystal Maze Experience** — Little Lion Entertainment, who know how to build this sort of thing and have run Chaos Karts in Manchester for years.
 
@@ -459,7 +457,7 @@ Be honest with yourself about the picking-on: the actors work the crowd hard and
 
 There is an adults-only after-hours strand, and combined tickets with the London Eye and a five-attraction pass both work out considerably cheaper per venue. Wheelchair timeslot booking and BSL tours are available.
 
-> ⚠️ **Check the price before you book any of the three.** All were running a reduced-VAT summer offer that ended on **1 September 2026**, so the headline prices you may still see quoted elsewhere are about to be higher.
+> ⚠️ **Check the price before you book any of the three.** All were running a reduced-VAT summer offer that ended on **1 September 2026**, so the headline prices still quoted elsewhere are lower than what you will pay.
 
 ---
 
@@ -479,7 +477,7 @@ This is the section other guides leave out, and it is the reason people turn up 
 
 **Dark rather than dead:**
 
-* **You Me Bum Bum Train** — the genre's holy grail, and currently nothing to book. The last run ended in 2025 and there is no ballot open. **The mailing list on its own site is the only route in**, and the gap before the previous run was eight years, so join it and forget about it. The site asks you not to research the show, which is sound advice: the less you know, the better it works.
+* **You Me Bum Bum Train** — the genre's holy grail, and currently nothing to book. The last run ended in 2025 and there is no ballot open. **The mailing list is the only route in**, and the gap before the previous run was eight years, so join it and forget about it. The company asks you not to research the show, which is sound advice: the less you know, the better it works.
 * **Phantom Peak** — returns **4 December 2026** at Westfield Stratford after moving from Canada Water.
 * **Swamp Motel** and **Les Enfants Terribles** — both still trading, neither currently running a public ticketed London show.
 * **Darkfield** — on tour, with no London dates on their own schedule.

@@ -164,6 +164,8 @@ The sources divide this way and so should a reader. Every one of the serious gui
 
 ## The part the restaurant lists miss
 
+[West African food in London](/articles/best-west-african-restaurants-london/) is the other half of this story, and the same neighbourhoods carry it — Peckham and Brixton especially.
+
 A guide built only on magazines describes a dining scene. The actual one includes a great deal that never gets a review.
 
 The most thorough source in this pass runs to thirty-nine names and around two dozen appear nowhere else: **Jay Dees Catering, Crystal Caterers, Sunvalley Jerk, Jerk in Da Park, Cool Runnings Jerk Centre, Bokit'la, Rainbow Cook Out, Mum's Caribbean Takeaway, a Jamaican tuck shop, and a café inside the Peckham bus garage.**

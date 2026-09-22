@@ -73,7 +73,7 @@ Paddington has its own share of the commemorative plaques marking where notable 
 
 ## Why visit — and who should skip it
 
-**Come here if** you want a canal walk, a narrowboat trip to Camden, or a well-connected and comparatively affordable base for a first London trip. Little Venice is genuinely lovely and surprisingly quiet given how central it is.
+**Come here if** you want a canal walk, a narrowboat trip to Camden, or a well-connected and comparatively affordable base for a first London trip. Little Venice is quiet for somewhere this central.
 
 **Skip it if** you are looking for sights. Paddington has no major attraction. The area earns its place on an itinerary as a starting point — for the canal, for Notting Hill, for Regent's Park — rather than as a destination.
 
@@ -94,7 +94,7 @@ Paddington has its own share of the commemorative plaques marking where notable 
 
 ### Little Venice and Blomfield Road
 
-The junction where the Grand Union meets the Regent's Canal, lined with white stucco villas and permanently moored narrowboats. It is the prettiest part of this guide by a distance and about ten minutes from the station, which is why so few Paddington visitors see it.
+The junction where the Grand Union meets the Regent's Canal, lined with white stucco villas and permanently moored narrowboats. It is about ten minutes' walk from the station, which is why few Paddington visitors see it.
 
 **Eat and drink on the water.** **The Waterway at 54 Formosa Street** has the big terrace over the moorings; **The Summerhouse on Blomfield Road** does seafood right at the water's edge and needs booking in summer; **Kateh at 5 Warwick Place** is a very small Persian restaurant on a side street that fills every night.
 
@@ -126,7 +126,7 @@ The hotel strip, running east and south from the station front. Functional rathe
 
 **This is where you stay if you are catching an early Heathrow train.** The Elizabeth line and the Heathrow Express both leave from Paddington, so a room here is fifteen minutes from the airport and half the price of the equivalent in Mayfair.
 
-**St Mary's Hospital is on Praed Street**, and inside it the **Alexander Fleming Laboratory Museum** — the actual room where penicillin was discovered in 1928, preserved as it was. It is small, ticketed, keeps limited hours and almost nobody knows it is there.
+**St Mary's Hospital is on Praed Street**, and inside it the **Alexander Fleming Laboratory Museum** — the actual room where penicillin was discovered in 1928, preserved as it was. It is small, ticketed and keeps limited hours.
 
 **Do not plan to eat here.** The strip is chain sandwich shops and hotel bars. Bayswater is five minutes south-west and Little Venice ten minutes north, and both are better in every respect.
 

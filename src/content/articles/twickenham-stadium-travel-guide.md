@@ -297,7 +297,7 @@ Otherwise, **Richmond** is the nearest place with a real choice of rooms, one fr
 
 ## Before the gates open
 
-The **[World Rugby Museum](https://worldrugbymuseum.com/plan-your-visit)** is in the South Stand and holds the largest collection of rugby memorabilia anywhere, with an interactive zone that has a scrum machine and a kicking machine. It runs shortened hours on a match day — 09:30 to 14:00 for a 15:00 kick-off — and normal hours are Tuesday to Saturday 10:00 to 17:00, Sunday 11:00 to 17:00, closed Mondays outside Richmond school holidays.
+The **[World Rugby Museum](https://worldrugbymuseum.com/plan-your-visit)** is in the South Stand, with an interactive zone that has a scrum machine and a kicking machine. It runs shortened hours on a match day — 09:30 to 14:00 for a 15:00 kick-off — and normal hours are Tuesday to Saturday 10:00 to 17:00, Sunday 11:00 to 17:00, closed Mondays outside Richmond school holidays.
 
 | | Museum only | With a stadium tour |
 | --- | --- | --- |

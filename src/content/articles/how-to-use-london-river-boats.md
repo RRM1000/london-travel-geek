@@ -24,7 +24,7 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-Travelling along the River Thames is one of the most enjoyable ways to see London. Whether you board **Uber Boat by Thames Clippers** for a fast commute, take a narrated sightseeing cruise under Tower Bridge, or book a high-speed Thames Rocket experience, boat travel combines scenic sightseeing with real transit.
+Three different things run on the Thames and they are easy to confuse: **Uber Boat by Thames Clippers** is scheduled transit you pay for by tapping a card, narrated sightseeing cruises are pre-booked tours, and the Thames Rockets speedboats are a ride. They share the same piers.
 
 > 💡 **River Boat Snapshot:**  
 > - **Transit vs Cruise:** **Uber Boat by Thames Clippers** (River Bus) is London's scheduled river transit system. Narrated cruises and dining boats are private tours.  
@@ -106,12 +106,12 @@ Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Ba
 
 ## Top 3 scenic river boat routes for visitors
 
-### 1. Westminster / London Eye ➔ Greenwich (The Ultimate Tourist Route)
+### 1. Westminster / London Eye ➔ Greenwich
 
 ![A London Eye River Cruise boat on the Thames with its top deck full, passing the buildings near Tower Bridge](../../assets/articles/getting-around-london/city-cruise-tower-bridge.jpg)
 
 *A narrated sightseeing cruise, not a river bus. Both use the same piers, which is the single most common mix-up.*
-The quintessential Thames river trip! Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliament, South Bank, St Paul's, and the skyscrapers of the City, before cruising **directly beneath Tower Bridge** to reach historic Greenwich (*Cutty Sark*, Royal Observatory).
+Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliament, South Bank, St Paul's, and the skyscrapers of the City, before passing **directly beneath Tower Bridge** to reach Greenwich (*Cutty Sark*, Royal Observatory).
 * **Zones:** Central & East Zone (£11.40 off-peak PAYG).
 
 ![Tower Bridge seen from the deck of a river boat passing directly beneath it.](../../assets/articles/getting-around-london/tower-bridge-from-river-boat.png)
@@ -150,11 +150,11 @@ A fast 10-minute river hop linking Docklands skyscrapers with Greenwich maritime
 
 ## Thames Speedboat Thrill Rides
 
-If you want an adrenaline-filled sightseeing adventure rather than a gentle cruise, high-speed **Rigid Inflatable Boats (RIBs)** operate thrilling high-speed tours along the River Thames. Powered by twin 440hp engines, these speedboats hit speeds up to **30–35 knots (approx 40 mph)** on the open water.
+**Rigid Inflatable Boats (RIBs)** run fast tours along the Thames. Powered by twin 440hp engines, they hit **30–35 knots (about 40 mph)** on the open water east of Tower Bridge.
 
 ### How Speedboat Tours Work
 * **Central Sightseeing (12 Knots):** From departure (usually London Eye Pier, Westminster, or Boardwalk Pier), the boat travels at a controlled 12 knots past Big Ben, Parliament, and St Paul's while an actor/comedian guide provides live commentary.
-* **High-Speed Blast (35 Knots):** Once the speedboat passes **Tower Bridge**, the skipper hits full throttle! The boat blasts past Canary Wharf, Greenwich, and down towards the **Thames Barrier** with sharp turns, soundtrack music, and spray.
+* **High-Speed Blast (35 Knots):** Once the boat passes **Tower Bridge**, the skipper opens the throttle for the run past Canary Wharf and Greenwich towards the **Thames Barrier**, with sharp turns, music and spray.
 
 <div data-stay-strip></div>
 
@@ -167,15 +167,15 @@ If you want an adrenaline-filled sightseeing adventure rather than a gentle crui
 | **Canary Wharf RIB Sprint** | Thames RIB Experience | Embankment / Tower Pier | 50 mins | High-powered RIB blast past Docklands skyscrapers | From **£55.00** |
 
 > 🚤 **Essential Speedboat Tips:**  
-> - **Clothing & Gear:** Lifejackets and high-quality waterproof jackets are provided. Dress warmly, as wind chill on open water at 35 knots is intense even in summer!  
-> - **Pre-Booking Required:** Speedboat tours have strict capacity limits (typically 12–16 passengers per RIB) and sell out quickly on weekends.  
-> - **Health Restrictions:** RIB speedboats are **not suitable** for pregnant women, travelers with back or neck conditions, or very young children.
+> - **Clothing & Gear:** Lifejackets and waterproof jackets are provided. Dress warmly — wind chill at 35 knots bites even in summer.  
+> - **Pre-Booking Required:** Speedboat tours have strict capacity limits (typically 12–16 passengers per RIB) and sell out at weekends.  
+> - **Health Restrictions:** RIB speedboats are **not suitable** for pregnant women, travellers with back or neck conditions, or very young children.
 
 ---
 
 ## Lunch, Afternoon Tea & Dining Cruises
 
-If you want to combine sightseeing with a meal or celebratory event, Thames dining cruises offer timed food and cruise packages:
+Dining cruises sell a fixed meal and a fixed sailing time together:
 
 | Experience Type | Typical Duration | Highlights | Starting Price (Approx) |
 | --- | --- | --- | ---: |
@@ -190,7 +190,7 @@ If you want to combine sightseeing with a meal or celebratory event, Thames dini
 
 ## The River Bus Comedy Night
 
-Looking for evening entertainment on the water? The [River Bus Comedy Night](https://www.thamesclippers.com/whats-on-and-offers/river-bus-comedy-night) is a special live stand-up comedy show hosted aboard an Uber Boat by Thames Clippers vessel:
+The [River Bus Comedy Night](https://www.thamesclippers.com/whats-on-and-offers/river-bus-comedy-night) is a live stand-up show aboard an Uber Boat by Thames Clippers vessel:
 
 * **Format:** A **100-minute stand-up comedy show** featuring top UK comedians while cruising along the Thames.
 * **Departure:** Sails round-trip from **Embankment Pier** (Doors 18:30, sailing 19:00 to 21:00).
@@ -217,6 +217,7 @@ Looking for evening entertainment on the water? The [River Bus Comedy Night](htt
 
 ## Related London Transport Guides
 
+- 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the riverside rooms worth getting off the boat for
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
 * 💷 [London Transport Fares & Costs 2026](/articles/london-public-transport-costs-and-fares/)
 * 🚇 [How to Use the London Underground](/articles/how-to-use-the-london-underground/)

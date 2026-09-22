@@ -56,7 +56,7 @@ The windowless part is the surprise, and it is the reason the West End is cheape
 
 Nearly a thousand soundproofed rooms above Piccadilly Circus, sold by how many people they sleep rather than by grade: **Cocoon 1 up to Cocoon 12**. The smallest is 7 sq m, with a bed on a lit oak plinth, hooks instead of a wardrobe and an en-suite walk-in rainfall shower. Hypnos mattress, purified air, total blackout because there is nothing to black out.
 
-**The pricing works backwards and it is the most useful thing on this page.** A Cocoon 1 ran £97 to £287 across five sampled dates, which is ordinary central London money. But **the second person adds about £4 or £5**, whatever the room costs, so two people halve the per-head price and it keeps falling as the room grows.
+**The pricing works backwards.** A Cocoon 1 ran £97 to £287 across five sampled dates, which is ordinary central London money. But **the second person adds about £4 or £5**, whatever the room costs, so two people halve the per-head price and it keeps falling as the room grows.
 
 Two catches. **From Cocoon 4 upwards the beds are doubles in bunks** — a Cocoon 4 is two doubles, not four berths. And rooms are **cleaned every four days**, with no kettle, no television and no breakfast; a hairdryer or iron delivered costs £10.
 
@@ -168,7 +168,7 @@ Two Michelin Keys in 2025, the joint highest score in this guide. Downstairs the
 
 Ninety-six bedrooms and suites behind a plain red-brick front on a mews off Dean Street, in a building that used to be a car park. **The address is the product.** Richmond Mews takes the pavement noise out of the equation while leaving you about thirty seconds from Dean Street, which is a trick no other Soho hotel at any price manages as well.
 
-Kit Kemp's interiors again, with a Fernando Botero cat in the lobby that is the most photographed object in any hotel on this page. Refuel is the bar and restaurant, there is a gym, and Soholistic Spa treatments are available in the treatment rooms.
+Kit Kemp's interiors again, with a Fernando Botero cat in the lobby. Refuel is the bar and restaurant, there is a gym, and Soholistic Spa treatments are available in the treatment rooms.
 
 **Two screening rooms, one large and one small**, and the Firmdale Film Club runs **every weekend** and is open to non-residents: a film and lunch for a fraction of a room rate. If you want to know whether you like the hotel before spending £480 on it, book that instead.
 
@@ -190,7 +190,7 @@ A hundred and sixty years on the corner where Mayfair, Soho and Piccadilly meet,
 
 ## Where to stay just outside
 
-This is the more useful half of the guide, because everything above is either windowless or over £450, and most people want neither.
+Everything above is either windowless or over £450. These are the alternatives within a ten-minute walk.
 
 ### Fitzrovia — five minutes north, and the prices Soho does not sell
 
@@ -210,7 +210,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 *A bedroom at Sanderson London opening onto its own terrace, and the bathroom's vessel basin on a marble console.*
 
-**[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 for fifty-two Firmdale rooms with one Michelin Key and a private screening room, standing **on Charlotte Street itself** — the densest restaurant run in central London, which means dinner is downstairs rather than across town. The full picture is in our [Fitzrovia area guide](/articles/fitzrovia-area-guide/).
+**[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 for fifty-two Firmdale rooms with one Michelin Key and a private screening room, standing **on Charlotte Street itself**, which means dinner is downstairs rather than across town. The full picture is in our [Fitzrovia area guide](/articles/fitzrovia-area-guide/).
 
 ![A bedroom at Charlotte Street Hotel, with star-patterned blue walls following a sloped attic ceiling and an ornate patterned headboard](../../assets/articles/where-to-stay-soho-west-end/charlotte-street-hotel-room.jpg)
 

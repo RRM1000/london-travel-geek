@@ -163,7 +163,7 @@ Checked 12 September 2026. Hertz figures include tax.
 | --- | --- | --- |
 | **Congestion Charge** | **£18** paid in advance or on the day; **£21** if paid by midnight of the third day after | 07:00–18:00 Mon–Fri, 12:00–18:00 Sat, Sun and bank holidays. Free Christmas Day to New Year's Day |
 | **ULEZ** | **£12.50**, only if the car fails the standard | 24 hours, every day except Christmas Day, across **every London borough** |
-| **Blackwall and Silvertown tunnels** | **£4.00** per crossing, each way | 06:00–22:00 every day. Free overnight. **£4.20 from 21 September 2026** |
+| **Blackwall and Silvertown tunnels** | **£4.20** per crossing, each way | 06:00–22:00 every day. Free overnight. Rose from £4.00 on 21 September 2026 |
 | **Low Emission Zone** | Heavy diesels over 3.5 tonnes only | Never applies to a car |
 
 Checked 12 September 2026.

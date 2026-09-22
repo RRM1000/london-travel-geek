@@ -131,7 +131,7 @@ The kitchen does the full regional repertoire — **mole poblano**, cochinita pi
 
 ### Ixchel, Chelsea
 
-*£££ · 7 min from Sloane Square* · Cited by 3 sources
+*£££ · 7 min from Sloane Square* · Cited by 4 sources
 
 **A Chelsea room that leans as hard on mezcal and the bar as on the kitchen** — named for the Maya goddess, and decorated to the same level of commitment.
 
@@ -307,6 +307,7 @@ The **jackfruit carnitas** and the vegan **al pastor** are the orders, with sals
 
 ## Continue planning your London trip
 
+- 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)**
 - 🌮 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🌿 **[Best Vegetarian and Vegan Restaurants](/articles/best-vegetarian-vegan-restaurants-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**

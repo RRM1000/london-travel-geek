@@ -303,7 +303,7 @@ When it is open: **09:00 to 23:00 daily**, more than twenty kitchens — Zia Luc
 
 Outside Boxpark, the quick options are **Greggs** and **Slim Chickens**, side by side near the outlet, plus **Five Guys** and **itsu** on the estate. Inside LDO there is **Nando's** (11:30–22:00 every day), **Subway** (from 06:00) and **Beirut Wonders** for shawarma and falafel.
 
-On event days, temporary fast-food stalls go up outside the ground, and there are more inside. **Eat before you go in** — the food inside the stadium is not very good.
+On event days, temporary fast-food stalls go up outside the ground, and there are more inside, at stadium prices. **Eat before you go in.**
 
 ![The entrance to the London Designer Outlet at Wembley Park, with giant gold LDO letters standing on grass plinths in front of a red brick and glass frontage, Holland & Barrett and MOSS inside the doorway and an Amorino gelato shop to the right](../../assets/articles/wembley-stadium-arena-guide/london-designer-outlet.jpg)
 

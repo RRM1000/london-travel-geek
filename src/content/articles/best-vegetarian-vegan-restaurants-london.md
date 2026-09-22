@@ -439,6 +439,7 @@ The cooking is Italian-leaning and vegetable-led, built on produce from the kitc
 
 ## Continue planning your London trip
 
+- 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍛 **[The Best Indian Restaurants in London](/articles/best-indian-restaurants-london/)**

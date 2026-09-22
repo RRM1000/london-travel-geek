@@ -26,8 +26,8 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 
 > 💡 **Quick Verdict: Southend to London (2026).**
 > - **Fastest & Best Option:** **Greater Anglia Rail**. Direct trains run every 20 minutes to **Stratford** (46 mins) and **London Liverpool Street** (52–55 mins).  
-> - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay ARE accepted at Southend Airport station, but **Oyster cards are NOT valid**!  
-> - **Smart Interchange Tip:** Change at **Stratford** for the Elizabeth line to reach Paddington, Farringdon, or Canary Wharf faster than staying on the train to Liverpool Street!
+> - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay are accepted at Southend Airport station, but **Oyster cards are not valid**.  
+> - **Smart Interchange Tip:** Change at **Stratford** for the Elizabeth line to reach Paddington, Farringdon or Canary Wharf faster than staying on the train to Liverpool Street.
 
 > 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
 
@@ -71,16 +71,16 @@ Southend Airport features a **single passenger terminal**.
 
 *Southend Airport terminal. Photo: [Chris j wood](https://commons.wikimedia.org/wiki/File:Southend_Airport_terminal_building_01.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
-* **Covered Walkway:** Southend Airport station is located **100 meters** from the terminal doors (a 2-minute covered walk).
+* **Covered Walkway:** Southend Airport station is **100 metres** from the terminal doors, a two-minute covered walk.
 * **Step-Free Platforms:** The station and platforms are 100% step-free.
 
 ---
 
-## 5 Common Southend transit mistakes to avoid
+## 5 common Southend travel mistakes to avoid
 
-1. **Trying to use an Oyster card:** Oyster cards are **NOT valid** at Southend Airport (contactless bank cards or train tickets are required).
-2. **Staying on the train to Liverpool Street when going to West End:** Change at **Stratford** for the Elizabeth line to reach Paddington or Bond Street faster.
-3. **Confusing Southend Airport station with Southend Victoria or Southend Central:** Southend Airport has its own dedicated station right next to the runway terminal!
+1. **Trying to use an Oyster card:** Oyster cards are **not valid** at Southend Airport — contactless bank cards or train tickets are required.
+2. **Staying on the train to Liverpool Street when going to the West End:** change at **Stratford** for the Elizabeth line to reach Paddington or Bond Street faster.
+3. **Confusing Southend Airport station with Southend Victoria or Southend Central:** Southend Airport has its own station beside the terminal.
 4. **Switching payment devices between taps:** Tapping in with a bank card and out with Apple Pay creates two incomplete journey penalties.
 5. **Hailing unlicensed taxis:** Always pre-book licensed taxis or private transfers.
 

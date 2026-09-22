@@ -1,0 +1,129 @@
+{
+  "topic": "peruvian",
+  "article": "src/content/articles/best-peruvian-restaurants-london.md",
+  "headTerm": "Peruvian restaurants",
+  "note": "Built 22 September 2026 from data/topics/pizza.json. The thing competitors get wrong here is treating Peruvian London as one list. It is three: Nikkei, the Japanese-Peruvian cooking that came out of Japanese migration to Peru; criollo home cooking; and ceviche-and-pisco as a bar format. A reader choosing between Lima and an Elephant and Castle cantina is not choosing from the same list, and the facetAxis below is what the article is organised on.",
+  "awardBodies": [
+    {
+      "name": "Michelin Guide (Great Britain & Ireland)",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "READ THIS BEFORE COLLECTING. guide.michelin.com answers the fetcher with HTTP 202 and an empty body - a bot wall, not a 403 - and the r.jina.ai text proxy is refused by Cloudflare as well. The sanctioned substitute in data/sources.json (Wikipedia's List of Michelin-starred restaurants in Greater London) is STARS ONLY, so it cannot show a Bib Gourmand. What it does settle: Lima Fitzrovia is the only Peruvian restaurant ever starred in Greater London, holding one star in the 2014, 2015, 2016, 2017 and 2018 guides and none from 2019. It is absent from the 2020-2026 table. WHETHER ANY LONDON PERUVIAN RESTAURANT HOLDS A BIB GOURMAND IS STILL OPEN - see knownGaps."
+    },
+    {
+      "name": "National Restaurant Awards",
+      "domain": "nationalrestaurantawards.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/list/1-50",
+      "note": "Checked in full on 22 September 2026: places 1-100 and all seventeen special awards, on the 2025 list headed by Bouchon Racine. No Peruvian restaurant appears anywhere in it. Recorded here rather than in the consensus file because a source that contributes zero venues must not inflate a source count (trap 8). Worth re-checking each autumn."
+    },
+    {
+      "name": "Harden's",
+      "domain": "hardens.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/restaurants/london/peruvian/",
+      "note": "Its London Peruvian heading holds exactly two restaurants and the page says so - 'View full listings of 2 Peruvian London Restaurants'. Coya and Sushisamba, each with a reader-review write-up and Food/Service/Ambience scores, so this is not a trap-15 chrome extraction. Chotto Matte and the other Nikkei rooms sit under its Japanese and South American headings instead, which is why the Peruvian page reads so thin."
+    },
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Carries Peruvian as one of its cuisine filters, but the results list renders client-side and curl gets the filter chrome with no venues (trap 15). Needs the browser route. Not recorded as a source."
+    },
+    {
+      "name": "The World's 50 Best Restaurants",
+      "domain": "theworlds50best.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "TRAP 12 WARNING, and an unusually easy one to fall into on this topic. The list's Peruvian entries - Central, Maido, Kjolle - are in Lima, the city, in Peru. A search for 'Lima' plus 'world's best' returns them constantly. None of them is a London citation and none of them belongs in this corpus."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": true,
+      "note": "Ranked 1-20 and by some distance the strongest source on this topic: published 21 August 2026 by Daniela Toporek, and the only one that leaves zone 1 for Elephant and Castle, Peckham, Brixton, Greenwich, Fulham and Stratford. Every entry carries an address, opening hours and a price range, which makes it the currency check for the whole set. Its blurb label here is 'What is it?' followed by 'Why we love it', not 'Why go?' (trap 11)."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "ranked": false,
+      "note": "Six venues, unordered, dated 9 January 2024. It publishes a 0-10 rating per venue; those are NOT ranks and must not be recorded as such. It flags Pachamama East as permanently closed on the page itself."
+    },
+    { "name": "The Nudge", "domain": "thenudge.com", "ranked": false },
+    {
+      "name": "Secret London",
+      "domain": "secretldn.com",
+      "ranked": false,
+      "note": "Numbered 1-11 but not a ranking. Published June 2022, last modified March 2024, and the oldest source in the pass - three of its eleven have since closed, so check each name against Time Out before using it."
+    },
+    { "name": "Country & Town House", "domain": "countryandtownhouse.com", "ranked": false },
+    { "name": "DesignMyNight", "domain": "designmynight.com", "ranked": false },
+    { "name": "IDEAL Magazine", "domain": "idealmagazine.co.uk", "ranked": false },
+    { "name": "London x London", "domain": "londonxlondon.com", "ranked": false }
+  ],
+  "facetAxis": {
+    "field": "style",
+    "note": "Three ways, and the split is the whole point of the guide. Nikkei and criollo are different cuisines with a shared passport, and the bar format is a different evening again. Chifa sits underneath as a fourth strand that no London restaurant is built solely on, so it is described inside entries rather than given its own section.",
+    "values": [
+      {
+        "key": "nikkei",
+        "label": "Nikkei",
+        "describeAs": "Japanese-Peruvian cooking, from the Japanese families who moved to Peru for plantation work in the nineteenth century - raw fish cut Japanese-style and dressed Peruvian, so sashimi arrives in lime and chilli rather than soy"
+      },
+      {
+        "key": "criollo",
+        "label": "Criollo",
+        "describeAs": "Peruvian home cooking - stews, rice dishes and rotisserie chicken, the food Peruvian families in London actually eat"
+      },
+      {
+        "key": "cevicheria",
+        "label": "Ceviche and pisco bars",
+        "describeAs": "a bar that happens to cure fish, built around the ceviche counter and the pisco list rather than around a menu of mains"
+      },
+      {
+        "key": "chifa",
+        "label": "Chifa",
+        "describeAs": "Cantonese-Peruvian, which is where arroz chaufa, Peruvian fried rice, comes from"
+      },
+      {
+        "key": "grill",
+        "label": "Pollo a la brasa",
+        "describeAs": "charcoal rotisserie chicken, invented in Peru in 1950 and cooked in a rotating-rod oven"
+      }
+    ]
+  },
+  "formatSection": {
+    "title": "Elephant and Castle, Brixton and Peckham",
+    "note": "The non-Mayfair end. London's Peruvian population grew out of Latin American migration in the 1970s and 1980s into Lambeth, Southwark and Elephant and Castle, and the cooking there is criollo rather than Nikkei. No competitor list treats it as a section. Castle Square, the market at 40 Elephant Road that rehoused the shopping centre's traders, lists six food and drink traders - AA Grocery, Coma y Beba, Daddy O's, El Guambra, Kaieteur Kitchen, Original Caribbean Spice - and none is Peruvian; the Latin American food there is Colombian, Ecuadorian and Guyanese. The Peruvian cooking in the area is at Sabor Peruano on Newington Butts."
+  },
+  "knownGaps": [
+    "TIER E IS EMPTY. Reddit is unreachable from this environment by every route tried on 22 September 2026: www.reddit.com/.json and api.reddit.com return 403, old.reddit.com (including .compact) serves the 'Welcome to Reddit' interstitial with no comment bodies, and the redlib mirrors tried returned 429, 410 or a browser check. TikTok serves a login/captcha wall, so the caption-and-tagged-POI route is closed too. r/london thread 14grdy0, 'What's the best Peruvian restaurant in London?', is the obvious one to record by hand if Rob can open it.",
+    "MICHELIN BIB GOURMAND IS UNRESOLVED. The Wikipedia substitute covers stars only, so this pass cannot say whether any London Peruvian restaurant currently holds a Bib. Nothing on the page claims one either way.",
+    "The Good Food Guide's Peruvian cuisine filter renders client-side and returned no venues to curl. Worth a browser pass - it is a tier-A judged source and this topic has no other live one.",
+    "Search is badly degraded here. Bing returns results for only the first word of any query, through both the HTML and RSS endpoints; DuckDuckGo, Startpage, Yandex, searx.be, search.inetol.net and 4get all serve captchas or browser checks; Mojeek and Ecosia refuse; MetaGer is now paid. Brave Search works for roughly one query before rate-limiting for the rest of the session, and Seznam works but is thin. The SERP for this topic came from a single Brave query plus YouTube's own search and direct site searches on domains already registered in data/sources.json.",
+    "No hero photo. The article ships without one.",
+    "Mercato Metropolitano's full trader list was read and carries no Peruvian trader, so the food-hall section rests on Chan Chan in Rye Lane Market and Lima Limón in Market Row. Kerb's trader directory renders client-side and was not read."
+  ],
+  "openVenueQuestions": [
+    "Pachamama - RESOLVED AS GONE, 22 Sep 2026. The Pachamama Group's own site now offers zēphyr (Notting Hill), Bottarga (Chelsea), Nina (Marylebone) and Lagana (Shoreditch), and says 'Pachamama will be back one day soon.' The Marylebone Peruvian restaurant is not trading. Named by five of the thirteen domains in this pass, which is why the page says plainly that it has closed rather than leaving readers to find out.",
+    "Chicama - RESOLVED AS CLOSED, 22 Sep 2026. Its operator states the King's Road restaurant's last service was 15 September. THE YEAR IS NOT STATED on the page; the article therefore says it has closed without giving a date. Worth pinning down before the next pass.",
+    "Ceviche (17 Frith Street, Soho) and Andina (60-62 Commercial Street, Spitalfields), both Martin Morales's - STATUS UNKNOWN AND DELIBERATELY OMITTED. cevicheuk.com and andinalondon.com both answer Cloudflare 403. Time Out's 21 August 2026 list, which reaches twenty venues across six zones, includes neither. Companies House shows ANDINA CEVICHE LIMITED (14000532) and BURACA LTD (15144240, previously ANDINA CEVICHE (2023)), both licensed-restaurant companies, in liquidation with accounts overdue, and CEVICHE LTD (07425150) dissolved on 17 February 2022. That is strong but it is not proof about a named restaurant, so the guide neither lists them nor says they have closed. ASK ROB. Between them they hold eight citations across six domains.",
+    "MOMMI, 44-48 Clapham High Street - status unknown, wearemommi.com answers Cloudflare 403, one citation (Country & Town House, 2022). Omitted.",
+    "Cuzco, 4-6 London Bridge Street - status unknown, one citation (Secret London, 2022), site unreachable. Omitted.",
+    "Lima Cantina / Floral by LIMA / Lima Floral, 14 Garrick Street WC2E 9BJ - MERGED as one venue on the address. Secret London, Country & Town House and IDEAL all write 14 Garrick Street as Floral by LIMA; The Nudge and DesignMyNight write the same address as Lima Cantina, a rotisserie-chicken room in a former stained glass workshop, founded by the same brothers. It is a rename, not two venues. BUT limalondon.com now lists only Fitzrovia and Shoreditch in its own navigation and Time Out's August 2026 list does not carry it, so the guide leaves it out. Five citations across five domains - the fourth most-cited name in the pass. ASK ROB.",
+    "Coya - merged across COYA Mayfair (118 Piccadilly) and COYA Angel Court (31-33 Throgmorton Street, City), plus 'Coya London', 'COYA | Bank' and 'Coya Mayfair Pisco Lounge'. One brand a reader books under as Coya; seven domains between them, the most-cited name on this topic.",
+    "Lima - merged across 'Lima', 'Lima London', 'LIMA FITZROVIA', 'Lima Fitzrovia' and 'Lima London Fitzrovia'. Two sites on its own site, Fitzrovia and Shoreditch.",
+    "Pachamama East and Pachamama - merged. The Infatuation flags Pachamama East (73 Great Eastern Street) as permanently closed on its own page; DesignMyNight still lists it; Secret London treats Marylebone and Shoreditch as one entry. Moot now that neither trades.",
+    "Sushisamba - already carries citations in the japanese corpus. Its count on this page is the PERUVIAN count only (three domains), per trap 7. Same rule applies to Chotto Matte, which the halal and japanese corpora also hold.",
+    "Piscos Dalston, Stoke Newington Road, Dalston - named by one source, the YouTube channel Randomly Food, and by no published list anywhere. Address taken from the Google Maps place the creator pinned, reverse-geocoded to 14 Stoke Newington Road N16 7XN, where OpenStreetMap still records a previous occupant. The number is not printed on the page.",
+    "El Señorío Criollo - a Peruvian criollo restaurant with a live menu in pounds (churrasco £19, tallarín a la huancaína con lomo saltado £18) and a booking form, named by none of the sources and by one Facebook post from LSE's residential life account. Its own site publishes no address. Left off the page. ASK ROB whether it is worth chasing - it is exactly the criollo end the published lists miss.",
+    "Butifarra - surfaced only in SquareMeal's excluded directory. A butifarra is a Peruvian pork sandwich, so the name is promising, but no site, address or second mention was found. Not recorded.",
+    "El Alquimista, 2 Stockwell Street, Greenwich - trading (Time Out #11, August 2026) but elalquimista.co.uk answers a Cloudflare browser check to curl, so the page carries no link for it."
+  ]
+}

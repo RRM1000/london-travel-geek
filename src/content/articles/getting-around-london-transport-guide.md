@@ -24,11 +24,11 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-London's transit network is best understood as a web of interconnected, world-class transport systems. While the London Underground (the "Tube") is the most famous, buses, commuter trains, river boats, trams, taxis, cable cars, and walking each offer unique advantages depending on your route.
+The London Underground (the "Tube") is the network most visitors arrive knowing about, but buses, commuter trains, river boats, trams, taxis, the cable car and walking each win on different routes — and they all take the same contactless card.
 
 > 💡 **Master Transport Snapshot:**  
 > - **Fastest Central Travel:** Take the Underground or the high-speed Elizabeth line.  
-> - **Sightseeing & Short Hops:** Use London's iconic red double-decker buses (£1.75 flat fare with 60-minute unlimited Hopper transfers).  
+> - **Sightseeing & Short Hops:** Use the red double-decker buses (£1.75 flat fare with 60-minute unlimited Hopper transfers).  
 > - **Airports:** Heathrow, Gatwick, and London City are linked by train/DLR. Stansted and Luton accept contactless cards, but **do NOT accept Oyster cards**.  
 > - **Paying:** Always tap in and out using the exact same contactless card or Oyster card for automatic daily capping.
 
@@ -57,13 +57,13 @@ For detailed pricing, peak hours, and capping rules, read our companion guide to
 
 ## London Underground (The Tube)
 
-The London Underground covers **11 color-coded lines** serving 272 stations. It is almost always the fastest option for travelling within Central London (Zone 1 and Zone 2).
+The London Underground covers **11 colour-coded lines** serving 272 stations. It is almost always the fastest option for travelling within Central London (Zone 1 and Zone 2).
 
 * **Operating Hours:** Trains run from ~05:30 to midnight Monday through Saturday, with reduced hours on Sunday. The **Night Tube** operates 24 hours on Friday and Saturday nights across the Central, Jubilee, Northern, Piccadilly, Victoria and Windrush lines.
 * **Tapping In & Out:** Always tap your contactless card or Oyster card on the yellow reader at the ticket gates when entering AND exiting the station.
 * **Accessibility:** 95 Tube stations are step-free, against all 41 Elizabeth line stations; the historic deep-level ones mostly rely on stairs and escalators. Our [step-free London guide](/articles/step-free-london/) has the station-by-station picture.
 
-> 🚀 **Tube Pro Tip:** Walking between close stations in Central London (such as Leicester Square to Covent Garden) is often faster than going down into the Tube station!
+> 🚀 **Tube Pro Tip:** Walking between close stations in Central London — Leicester Square to Covent Garden is four minutes at street level — is often faster than going down into the station.
 
 * **Comprehensive Guide:** [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
 * **Choosing a Line:** [London Tube and Rail Lines Guide](/articles/london-tube-and-rail-lines-guide/)
@@ -72,7 +72,7 @@ The London Underground covers **11 color-coded lines** serving 272 stations. It 
 
 ## Elizabeth Line (High-Speed Cross-London Rail)
 
-Opened in 2022, the **Elizabeth line** (line color: purple) is London's newest rail network, linking Shenfield and Abbey Wood in the east to Central London, Heathrow Airport, and Reading in the west.
+Opened in 2022, the **Elizabeth line** (purple on the map) is London's newest rail network, linking Shenfield and Abbey Wood in the east to Central London, Heathrow Airport, and Reading in the west.
 
 * **Comfort & Speed:** Trains are fully air-conditioned, spacious, feature free Wi-Fi, and offer step-free access at all stations.
 * **Airport Transit:** Provides a direct, high-speed connection from Heathrow Airport to Central London hubs like Paddington, Tottenham Court Road, Farringdon, and Liverpool Street in under 40 minutes.
@@ -87,14 +87,14 @@ Opened in 2022, the **Elizabeth line** (line color: purple) is London's newest r
 ### London Overground (Orange Network)
 The **London Overground** consists of six named orbital rail lines that connect inner and outer London suburbs without requiring you to travel through Central London (Zone 1).
 
-* **Avoid Zone 1 Fares:** Travelling on the Overground between outer suburbs is often significantly cheaper than Tube journeys because it bypasses Zone 1. Tap the **pink route validators** on interchange platforms to prove you avoided Zone 1!
+* **Avoid Zone 1 Fares:** Travelling on the Overground between outer suburbs is often cheaper than the equivalent Tube journey because it bypasses Zone 1. Tap the **pink route validators** on interchange platforms to prove you avoided Zone 1.
 * **Features:** All trains feature walk-through air-conditioned carriages and full Oyster/contactless acceptance.
 
 ### DLR (Docklands Light Railway)
 The **DLR** is an automated, driverless light-rail network serving East London, Docklands, Greenwich, Stratford, and **London City Airport**.
 
-* **Front Seat View:** DLR trains have no driver cabin! Passengers can sit in the very front seat for an unobstructed view of the elevated tracks and skyscrapers.
-* **Step-Free Access:** Every single DLR station features 100% step-free street-to-train access.
+* **Front Seat View:** DLR trains have no driver cabin, so the front seat looks straight down the elevated track.
+* **Step-Free Access:** Every DLR station is step-free from street to train.
 
 ---
 
@@ -111,7 +111,7 @@ National Rail lines link London's major terminal stations (Waterloo, Victoria, L
 
 ## London Buses & Trams
 
-### Iconic Red Double-Decker Buses
+### Red Double-Decker Buses
 London buses reach every corner of the capital 24 hours a day. They are completely **cashless** and cost a flat **£1.75 per ride**.
 
 * **Touch In Only:** Always tap your contactless card or Oyster card on the yellow reader when boarding. **Never touch out** when alighting a bus.

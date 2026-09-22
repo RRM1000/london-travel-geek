@@ -27,7 +27,7 @@ faq:
 
 Most Banksy maps of London are lists of walls where something used to be. You walk twenty minutes, find a patch of fresh paint, and read on your phone that it was removed in 2012.
 
-**This route only goes where the work is still there.** Every stop was checked against dated reports from 2026, and the pieces that have gone, or that nobody can currently confirm, are simply not on it.
+**This route only goes where the work is still there.** Every stop is a piece still on the wall in 2026; the ones that have gone are not on it.
 
 It runs from **Waterloo Place in St James's to Stoke Newington**, past **ten original Banksys at eight stops**: a 2026 statue, a 2025 mural, three rats spanning twenty years, two tributes to Basquiat, two stencils rescued from a demolished nightclub, a pink car in a perspex box, and one of the earliest pieces he painted in London.
 

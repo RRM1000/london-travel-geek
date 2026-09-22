@@ -30,8 +30,6 @@ The test we applied: a rooftop with a good view is not unusual in London, becaus
 
 ## Two kinds of unusual, and they are not the same evening
 
-Most guides to this subject refuse to say which places are worth eating in. The split is obvious once you look at it, so here it is stated plainly.
-
 **The room is the point and the food is incidental.** Feng Shang Princess, The Crosse Keys, Hamilton Hall, Sketch's Gallery and Darwin Brasserie. Go for the pagoda, the banking hall, the ballroom, the installation and the glass dome. Do not go hungry expecting to be impressed.
 
 **Genuinely good restaurants that happen to be in a strange room.** Rochelle Canteen, Sessions Arts Club, Coal Office, Campania & Jones, Hunan, The Cheese Barge, Barge East, Planque, Kinz and Ye Olde Cheshire Cheese. Every one of these would be worth a table in an ordinary room. The room is a bonus.
@@ -40,8 +38,7 @@ Most guides to this subject refuse to say which places are worth eating in. The 
 
 > 💡 **The Short Version:** **The Yurt Café** is a working café inside a Mongolian yurt. **Feng Shang Princess** is a floating pagoda on the canal. **The Attendant** is a Victorian public lavatory with the urinals as the counter. **Rochelle Canteen** has no sign and a buzzer. **Redemption Roasters** trains its baristas inside prisons. And **The Crosse Keys** is a Wetherspoons in a 1913 banking hall.
 
-> 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. The bar is that the building or the proposition is strange, not that the design is good — which is why Aqua Shard, the OXO Tower and several rooftops were considered and left off. A view is a view.
+*No paid placements. A place is here because the building or the proposition is strange, not because the design is good — Aqua Shard, the OXO Tower and the rooftops are left off. A view is a view.*
 
 ## Where they are
 
@@ -84,7 +81,7 @@ Most guides to this subject refuse to say which places are worth eating in. The 
 
 A working café **inside an actual Mongolian yurt**, in the grounds of a Limehouse charity that has held the site since 1950. It opened in 2016 and runs as a social enterprise, with profits going to the Royal Foundation of St Katharine's community work. Daytime it does a full English, focaccias and Mission Coffee Works espresso under a felt roof. In the warmer months it turns into a pizza kitchen in the evenings: **marinara £9, the Yurterita £11, a capricciosa £13, the meaty one £14**, with saffron and nduja arancini at £6, tiramisù at £6.50 and gelato at £2.50 a scoop. Thursdays have live music from the outdoor stage.
 
-**Evening service runs 5–8pm, but the website and the printed menu disagree on which days** — the café page says Monday to Saturday, the summer menu says Thursday to Saturday. Ring before making the trip. Food this cheap and this decent is not what the room leads you to expect.
+**Evening service runs 5–8pm, but the website and the printed menu disagree on which days** — the café page says Monday to Saturday, the summer menu says Thursday to Saturday. Ring before making the trip.
 
 > ⚠️ Not to be confused with St Katharine Docks by Tower Bridge. This is St Katharine's **Precinct**, a mile and a half east.
 
@@ -98,7 +95,7 @@ A working café **inside an actual Mongolian yurt**, in the grounds of a Limehou
 
 A **three-tiered Chinese pagoda**, painted red and hung with lanterns, moored at Cumberland Basin on the Regent's Canal, ten minutes' walk from London Zoo. It was hand-built in the 1980s as the first floating restaurant of its kind in London, and the boat is the entire reason to book. **The restaurant publishes no menu and no prices.** Third-party listings show crispy aromatic duck rolls and wasabi king prawns.
 
-**There is no lunch service Monday to Friday — Mon–Thu 6–11pm, Fri 6pm–midnight, Sat noon–midnight, Sun noon–11pm.** Food orders between 5pm and 7pm are 20% off. Reviews of the cooking are mixed and we would rather say so.
+**There is no lunch service Monday to Friday — Mon–Thu 6–11pm, Fri 6pm–midnight, Sat noon–midnight, Sun noon–11pm.** Food orders between 5pm and 7pm are 20% off. Reviews of the cooking are mixed.
 
 ### The Cheese Barge, Paddington
 
@@ -140,7 +137,7 @@ Built inside a **Victorian public convenience** of about 1890, mothballed in the
 
 Hidden behind a wall in a **former school bike shed** with no signage at all — you ring a buzzer marked 'canteen' and walk through a gate into what looks like a playground. Inside is a plain white room opening onto a walled garden, and Margot Henderson's daily-changing classic and modern European cooking, which is the real reason to bother finding it. A recent summer menu ran **smoked cod's roe and radishes at £10, cured trout with fennel, kohlrabi and dill at £14, whole mackerel with rainbow chard and sorrel mayonnaise at £27, and onglet with watercress and pickled walnut at £29**, with new potatoes or hispi at £6 alongside.
 
-**Lunch is daily, noon to 2.45pm; supper is Wednesday to Saturday only, 5.30 to 7.30pm, and everyone is out by 10pm.** The room is wheelchair accessible. The hardest restaurant in London to find on purpose, and worth the trouble.
+**Lunch is daily, noon to 2.45pm; supper is Wednesday to Saturday only, 5.30 to 7.30pm, and everyone is out by 10pm.** The room is wheelchair accessible.
 
 ### Sessions Arts Club, Clerkenwell
 
@@ -172,7 +169,7 @@ Campanian cooking in a **converted dairy** on Ezra Street, a cobbled lane off Co
 
 A **1930s Lloyds Bank** designed by Sir Edward Maufe, converted into a Lebanese brasserie that opened on 1 June 2026. The main dining room is triple height and seats around 130, and **the original bank vault is now the wine room**, with small dining spaces built inside it. The cooking is home-style rather than the usual mezze-house list: **manā'eesh in the morning, moujadara, mouneh pickles and rosewater desserts**, and on Sundays **molokhiye** — jute mallow leaves slow-cooked with chicken, served with rice, crisped pitta and a sharp onion-and-vinegar mignonette, which the kitchen offers as the Lebanese answer to a Sunday roast.
 
-**Open Sunday to Thursday noon to 11pm, Friday and Saturday to midnight — and no food prices are published on the website.** Only the drinks list is downloadable, so ring if the bill matters.
+**Open Sunday to Thursday noon to 11pm, Friday and Saturday to midnight. No food prices are published**, so ring if the bill matters.
 
 ### The Captain Kidd, Wapping
 
@@ -220,7 +217,7 @@ A warren of dark panelled rooms and cellars down an alley off Fleet Street, rebu
 
 *£ · 84b Lamb's Conduit Street, WC1N 3LR*
 
-A coffee chain built around reducing reoffending. It runs barista academies inside **HMP High Down, HMP Wandsworth, HMP Downview and HMP Wormwood Scrubs**, trains prison leavers at a community academy in its King's Cross headquarters, and then employs them across eleven London shops. Bloomsbury on Lamb's Conduit Street was the first site and is still the best of them: espresso and batch filter, cakes, pastries and sandwiches, with seating outside, inside and downstairs.
+A coffee chain built around reducing reoffending. It runs barista academies inside **HMP High Down, HMP Wandsworth, HMP Downview and HMP Wormwood Scrubs**, trains prison leavers at a community academy in its King's Cross headquarters, and then employs them across eleven London shops. Bloomsbury on Lamb's Conduit Street was the first site: espresso and batch filter, cakes, pastries and sandwiches, with seating outside, inside and downstairs.
 
 **The prison-roasting line everyone repeats is now out of date.** Since December 2025 the company has roasted all its social-impact coffee at a new Wembley roastery rather than behind a wall; the training is the part that still happens inside. Open 7am to 5pm on weekdays and 8am to 5pm at weekends.
 
@@ -236,7 +233,7 @@ Booth-only, art deco throughout, designed by David Collins in imitation of the O
 
 *££££ · 9 Conduit Street, W1S 2XG*
 
-Afternoon tea **inside an art installation**, in a building running five rooms that do five different things. **The Gallery is no longer pink.** India Mahdavi's 2014 candyfloss room, hung with David Shrigley drawings, was redesigned in 2022 into a sunshine-yellow and copper-gold space carrying thirteen site-specific Yinka Shonibare works. The egg-shaped lavatory pods survive and are still the most photographed loos in London. The tea itself is finger sandwiches, scones and a run of French pastries, and it is fine rather than remarkable.
+Afternoon tea **inside an art installation**, in a building running five rooms that do five different things. **The Gallery is no longer pink.** India Mahdavi's 2014 candyfloss room, hung with David Shrigley drawings, was redesigned in 2022 into a sunshine-yellow and copper-gold space carrying thirteen site-specific Yinka Shonibare works. The egg-shaped lavatory pods survive, under their stained-glass dome. The tea itself is finger sandwiches, scones and a run of French pastries, and it is fine rather than remarkable.
 
 **Afternoon tea is from £85 a head, £55 for children up to 15**, served in the Gallery Monday to Thursday noon to 4pm and Friday to Sunday 11am to 4.30pm. The Lecture Room & Library upstairs is the serious restaurant and only opens for lunch on Friday and Saturday.
 
@@ -252,7 +249,7 @@ A 60-seat restaurant built around **a members' wine cellar you can drink from**,
 
 *££££ · 51 Pimlico Road, SW1W 8NE*
 
-There is no à la carte. You say what you dislike and small dishes keep arriving until the kitchen stops — the **"Leave-it-to-Us" tasting menu, twelve courses at lunch and at least eighteen at dinner**, drawing on Taiwan, Hunan and Sichuan. The address is Pimlico Road but the restaurant sits in Belgravia, among showrooms and galleries, and it has been in the same small, plain room since 1982. Jay Rayner called the prawn toast the best he has ever tasted, which is the detail people repeat.
+There is no à la carte. You say what you dislike and small dishes keep arriving until the kitchen stops — the **"Leave-it-to-Us" tasting menu, twelve courses at lunch and at least eighteen at dinner**, drawing on Taiwan, Hunan and Sichuan. The address is Pimlico Road but the restaurant sits in Belgravia, among showrooms and galleries, and it has been in the same small, plain room since 1982. Jay Rayner called the prawn toast the best he has ever tasted.
 
 **Lunch is £69.80 a head; the dinner price is quoted at two different figures on their own site — £128.80 on the homepage and £119.80 in the FAQ — so confirm it when you book.** Closed Sunday. Arrive by 1pm or by 9pm. Corkage is £60 a bottle.
 
@@ -276,13 +273,13 @@ On Level 36 inside the **Sky Garden's glass dome** at the top of the Walkie Talk
 
 Japanese, Brazilian and Peruvian cooking across the **38th and 39th floors** of Heron Tower, reached by two glass lifts that climb the outside of the building. The kitchen works from an open robata grill and sends out small sharing plates: **tempura and sushi, Brazilian churrasco and moqueca, Peruvian anticuchos and seviche**. The dining room has floor-to-ceiling glass and an open bamboo ceiling under a suspended grid of lights.
 
-**The orange tree on the west terrace is a sculpture, not a living tree** — worth knowing before you go looking for it. The terraces are open-air and the restaurant claims them as the highest outdoor dining in Europe, which is the real draw. The food is good and priced as though the height were an ingredient.
+**The orange tree on the west terrace is a sculpture, not a living tree** — worth knowing before you go looking for it. The terraces are open-air and the restaurant claims them as the highest outdoor dining in Europe. The food is good and priced as though the height were an ingredient.
 
 ### Duck & Waffle, City of London
 
 *££££ · 40th floor, Heron Tower, 110 Bishopsgate*
 
-Forty floors up in Heron Tower, above SUSHISAMBA in the same building, and **open around the clock** — the only place in London where you can watch the sun come up over the City with a plate in front of you. The signature is the dish it is named after: **duck and waffle at £26, a confit Gressingham duck leg on a waffle with a fried duck egg and mustard maple syrup.** The English breakfast is £19.50, the crème brûlée French toast the same, and there is a three-course Sunday roast from 11.30am.
+Forty floors up in Heron Tower, above SUSHISAMBA in the same building, and **open around the clock**, so you can watch the sun come up over the City with a plate in front of you. The signature is the dish it is named after: **duck and waffle at £26, a confit Gressingham duck leg on a waffle with a fried duck egg and mustard maple syrup.** The English breakfast is £19.50, the crème brûlée French toast the same, and there is a three-course Sunday roast from 11.30am.
 
 **It is genuinely 24 hours, and it takes no cash whatsoever.** Bookings open two months ahead, a discretionary 15% service charge is added, and the dress code rules out tracksuits, denim shorts and flip-flops.
 

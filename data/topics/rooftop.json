@@ -1,0 +1,104 @@
+{
+  "topic": "rooftop",
+  "article": "src/content/articles/best-rooftop-restaurants-london.md",
+  "headTerm": "Rooftop Restaurants",
+  "note": "Rooftop AND riverside dining in one topic, because the search that brings people here - 'restaurant with a view in London' - does not separate them, and because the same two questions decide both: is the food worth the journey, and what happens when it rains. Collected 22 September 2026. The guide's job is the thing every other rooftop list refuses to do: say where the kitchen is good and where you are paying for the outlook. Reddit is blocked in this environment, so tier E is empty - see knownGaps.",
+  "scopeDecision": {
+    "question": "What counts as a rooftop or riverside RESTAURANT, as against a bar that serves food, a high-rise dining room with no outdoor space, or a riverside pub?",
+    "call": "Three rules, applied to every entry.",
+    "rules": [
+      "A ROOFTOP is a terrace, roof garden or top-floor room you can eat a full meal in, above the ground floor of its building. A first-floor terrace counts and is labelled as one - Time Out puts Oma and The Lighterman on its rooftop list and both are one floor up, so pretending otherwise would contradict the sources rather than inform the reader.",
+      "A HIGH-RISE DINING ROOM with sealed windows and no outdoor access is in scope but must be labelled: Shanghai Me on the 28th floor of the Park Lane Hilton, Aqua Shard on level 31, Duck & Waffle, Restaurant Gordon Ramsay High. Readers searching 'rooftop restaurant' mean these too; telling them which have air is the point.",
+      "A BAR THAT SERVES FOOD is recorded in the sources but does not get an entry. The test is whether a table can be booked to eat a meal at a set time, or whether food is a snack menu attached to drinks. Pergola, Savage Garden, Skylight, Queen of Hoxton and Netil 360 fail it."
+    ],
+    "riverside": "Water, not only the Thames. Every editorial source treats it that way for restaurants - Time Out's riverside 16 carries Towpath on the Regent's Canal and Crate on the Lea, and The Infatuation's list is titled canalside AND riverside. That is the opposite of the call in data/topics/riverside-pubs.json, which is Thames-only, and deliberately so: that topic is PUBS, and its sources do split the two.",
+    "boundaryWithRiversidePubs": "Pubs belong to riverside-pubs, not here. The Waterman's Arms, The Crabtree, Ferry Boat Inn, Princess of Wales, Trafalgar Tavern, The Dove, The Gun, Founders Arms and The Blue Anchor are all recorded in this corpus because riverside restaurant lists name them, and none of them gets an entry on this page. Two pubs are named as ROOFTOPS rather than as riverside pubs and do get entries - The Culpeper and The Devonshire - because the roof terrace is the subject."
+  },
+  "awardBodies": [
+    {
+      "name": "Michelin Guide",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Blocked to the fetcher; star years read from the project's documented substitute, en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London, whose table carries one star image per year so gains and losses are readable. Five venues in scope hold a star in 2026: Brooklands by Claude Bosi (two, since 2024), The River Cafe (one, continuous since at least 2008), Angler (one, every year since 2014 - the restaurant's own site puts it at a thirteenth consecutive year), OMA (one, since 2025) and Restaurant Gordon Ramsay High (one, its first, 2026). Nothing else does, and that absence is the most useful single finding in the topic."
+    },
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A",
+      "cadence": "rolling",
+      "resultsPath": "/where-to-eat/26-restaurants-with-waterside-cool",
+      "note": "NATIONAL, so scope before counting (trap 12): the waterside list runs to 21 readable entries across Britain and prints the town beside each, of which three are in London - Hawksmoor Wood Wharf, Sam's Riverside and The River Cafe. Bray, Hambleton, Dedham, Whitewell, Ludlow, Stockbridge, Cambridge, Bristol, Liverpool, Manchester, Oxford, York, Norfolk, Strachur and Aymestrey are not. There is no rooftop list: /where-to-eat/best-rooftop-restaurants-in-london and /best-riverside-restaurants-in-london both return a soft 404 whose title reads '1970'. The index at /where-to-eat lists every real page and is the place to check first."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": true,
+      "note": "Two lists, one masthead, one opinion. The rooftop 15 (7 April 2026) and the riverside 16 (19 August 2026) are both numbered and carry no 'in no particular order' caption, so the ranks are recorded. Its number one rooftop is The Culpeper, which no other source puts first, and its number one riverside is The River Cafe, which everybody does. Per-entry text is introduced by 'What is it?' and then 'Why we like it' or 'Why we love it' - match both."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "ranked": false,
+      "note": "'Where To Eat & Drink By The Water In London', 15 spots, UNORDERED - never print a rank against it. Its h2 list includes 'Find The Best Spots Nearby', which is a map widget, not a venue (trap 8)."
+    },
+    { "name": "SquareMeal", "domain": "squaremeal.co.uk", "ranked": false, "note": "Rooftop 25 grouped by compass point, riverside 32 split into restaurants and 'pubs and bars'. Unordered. Its last rooftop h3 is a paragraph of running text, not a venue." },
+    { "name": "DesignMyNight", "domain": "designmynight.com", "ranked": false, "note": "The two widest lists in the topic - 51 rooftop names, 41 riverside - and the least filtered. Listings-led: chains, hotel bars and one Holiday Inn. Useful for breadth, weak as a signal, which is what its tier-B note in data/sources.json already says." },
+    { "name": "Evening Standard", "domain": "standard.co.uk", "ranked": false, "note": "'London's best waterside restaurants, from the River Cafe to Towpath' - 12 names, the only masthead list that reaches Caravel, Ombra and The Melusine." },
+    { "name": "Country & Town House", "domain": "countryandtownhouse.com", "ranked": false, "note": "Riverside 11. Prints 'Peggy Green' for Peggy Jean and describes it correctly - the Daisy Green barge in Richmond - so it is aliased, not carried twice." },
+    { "name": "The Handbook", "domain": "thehandbook.com", "ranked": false, "note": "Riverside 16. Paywalls after three articles; the list itself renders to curl." },
+    { "name": "The Sauce", "domain": "thesaucemag.com", "ranked": false, "note": "The biggest rooftop list found anywhere (51 names read) plus a riverside 10. Venue names are in h2; the h3s are the site's own article rail and are not venues." },
+    { "name": "Luxury London", "domain": "luxurylondon.co.uk", "ranked": false, "note": "'Up in the air: London's highest restaurants' - seven, and the only list that is about ALTITUDE rather than open air, which is why it is the only one carrying Aqua Shard and Duck & Waffle." }
+  ],
+  "independentBlogs": [
+    { "name": "Secret London", "domain": "secretldn.com", "tier": "C", "note": "Rooftop 20, numbered but NOT ranked - its own 'How we handpick' box describes a rundown, not an order. Spells Alto by San Carlo as 'Alto by Santa Carlo'." },
+    { "name": "The Rooftop Guide", "domain": "therooftopguide.com", "tier": "C", "note": "NOT YET IN data/sources.json - needs adding as tier C. A single-subject rooftop specialist with per-venue reviews, and the only source in the topic that prints the practical facts: retractable roofs, heaters, floor numbers, igloos. Its YouTube channel is the SAME publisher and is deliberately not counted a second time." },
+    { "name": "Hot Dinners", "domain": "hot-dinners.com", "tier": "C", "note": "Waterside 33, the longest riverside list with real editorial behind it. Carries 'The River Cafe Cafe' at the same address as The River Cafe - a separate room with its own SevenRooms page, kept apart on purpose. Its bare 'Gaucho' links to the Richmond branch." },
+    { "name": "London x London", "domain": "londonxlondon.com", "tier": "C", "note": "Rooftop 16 and riverside 15, one domain." }
+  ],
+  "videoAndCommunity": [
+    { "name": "Ugo Arinzeh", "domain": "youtube.com/@UgoArinzeh", "tier": "D", "ranked": true, "note": "'I Ranked London's Best Rooftop Bars (So You Don't Have To)', June 2026. Ten venues, numbered in the video's own chapter markers, so the ranks are real. Her number one is Brooklands." },
+    { "name": "Harrison Webb", "domain": "youtube.com/@HarrisonWebb97", "tier": "D", "note": "Names Restaurant Gordon Ramsay High with its address in the description." },
+    { "name": "Beard's Flavour Of The Month", "domain": "youtube.com/@BeardsFlavourOfTheMonth", "tier": "D", "note": "NOT YET IN data/sources.json - needs adding as tier D, or it defaults to C. 7.9m views on one rooftop film." },
+    { "name": "London Foodie", "domain": "youtube.com/@londonfoodie7542", "tier": "D", "note": "NOT YET IN data/sources.json - needs adding as tier D. Dish-by-dish rating of Seabird in the description." }
+  ],
+  "facetAxis": {
+    "field": "setting",
+    "note": "Two axes were tested and one was dropped. Height (how many floors up) sorts the venues but tells the reader nothing they can act on - Bokan on 37 and Forza Wine on 3 have the same problem in October. Shelter does: it decides whether a booking survives the weather, and it is the fact no competitor prints. Compass point was rejected as well; the 'where they are' table covers it.",
+    "values": [
+      { "key": "open-air", "label": "Open-air", "describeAs": "sky above you and nothing over the table - lovely in July, cancelled in November" },
+      { "key": "retractable", "label": "Retractable or covered", "describeAs": "a roof that closes over the terrace, so the booking holds whatever the forecast says" },
+      { "key": "heated", "label": "Heated terrace", "describeAs": "open to the air with heaters, blankets or igloos, which stretches the season without saving it from rain" },
+      { "key": "indoor-view", "label": "Indoor with a view", "describeAs": "sealed glass and a skyline - a view restaurant rather than an outdoor one" },
+      { "key": "waterside", "label": "Waterside", "describeAs": "at ground level on the Thames, a canal or a dock, where the water is the view" }
+    ]
+  },
+  "formatSection": {
+    "title": "Pub roofs",
+    "note": "The strongest single finding in the topic. Time Out's number one rooftop restaurant is a Spitalfields gastropub with a herb garden on the roof, its number three is a Hackney Road pub with twenty first-come-first-served seats, and its number fifteen is a Soho pub whose roof takes no bookings at all. None of them is in a hotel, and all of them cook better than most of the towers."
+  },
+  "knownGaps": [
+    "Tier E is EMPTY. Reddit refuses this environment outright: www.reddit.com returns 403, the .json endpoints return the client-rendered page, and old.reddit.com redirects every search to /login. No forum substitute was found. For a topic where Londoners argue constantly about which rooftops are tourist traps, this is the gap that matters most, and a single supplied r/london thread would change the shape of the answer.",
+    "Tier D is four channels but thin in substance: two of them name a single venue each. The video tier for this subject is dominated by faceless compilation channels - RestroSpot, Nomad Nest Explorations - which were declined and recorded as declined in the consensus file. TikTok was not reachable by curl at all.",
+    "No MINIMUM SPEND figure could be sourced from any operator. Several of these venues are widely said to run one, and the article deliberately says nothing about it rather than repeat a number that is not published. Worth asking Rob, because it is a real cost and readers hit it.",
+    "No AGE POLICY was published by any rooftop operator checked beyond The Devonshire, whose site says children cannot be in the downstairs pub after 5pm on weekdays or at any time at weekends, and Peggy Jean, whose site warns that a working pontoon on tidal water is not suitable for unsupervised children. The 'over 18s after 7pm' rule that several rooftops are said to run is not on any site read this pass.",
+    "The Good Food Guide's waterside list is dated 13 June 2023. It is the only tier-A editorial source in the topic and it is three years old; its 100 Best Local Restaurants 2026 sits behind a membership wall.",
+    "Harden's could not be read: new.hardens.com serves its London taxonomy from JavaScript and returns no restaurant links to curl (trap 15). It is tier A in data/sources.json and would be worth a browser pass.",
+    "No hero image. The article ships without one and the frontmatter carries no heroImage rather than an invented path."
+  ],
+  "openVenueQuestions": [
+    "Restaurant Gordon Ramsay High is carried on a tier-D citation the video never spells out. Beard's Flavour Of The Month titles the film 'Gordon Ramsay's new rooftop restaurant' and says 'fifty nine storeys above'; the name is nowhere in the description. It is identified from Harrison Webb's address for the restaurant, 22 Bishopsgate, and from the operator's own page. If that identification is wrong, the venue drops from three sources to two.",
+    "Peggy Jean / 'Peggy Green' - MERGED. Country & Town House prints Peggy Green and then describes Peggy Jean exactly: the Daisy Green Collection's restored Jesus College Oxford barge on the Thames at Richmond. SquareMeal, The Handbook, Hot Dinners and The Sauce all print Peggy Jean, and the operator's own page is headed 'Peggy Jean at Riverside Green'.",
+    "Sam's Riverside / Sam's Waterside - NOT merged. Two Sam Harrison restaurants, and Hot Dinners names both in one list. The operator's own SevenRooms link covers samsriverside and samswaterside as separate venues.",
+    "The River Cafe / 'The River Cafe Cafe' - NOT merged. Hot Dinners lists both at Thames Wharf, Rainville Road, and the operator runs a separate SevenRooms page for each. Same address, different room, different booking.",
+    "Aqua - NOT merged with Aqua Kyoto or Aqua Nueva. Ugo Arinzeh's video links aqua-london.com, the group site, and the two restaurants share one Regent Street roof terrace between them. Merging on a hunch would hand one of them a citation it may not have.",
+    "OXO Tower Restaurant / OXO Tower Brasserie / OXO Tower Brasserie & Bar - MERGED to OXO Tower Restaurant. Three rooms on the same eighth floor under one operator, and SquareMeal names two of them in one list. Time Out reports that the Fallow team has taken it on and will formally take over in 2027, which is worth re-checking before the next pass.",
+    "SUSHISAMBA - the bare name is merged to the Heron Tower branch, which is the rooftop one and the one every list describes. Sushisamba Covent Garden is kept separate.",
+    "Hawksmoor Bar merged into Hawksmoor Wood Wharf: SquareMeal files it under riverside bars and it is the bar of the same Canary Wharf restaurant.",
+    "Gaucho - the bare name appears twice and means different branches. Hot Dinners links its entry to the Richmond page; SquareMeal labels its entry Tower Bridge. Recorded as two venues accordingly.",
+    "Brooklands by Claude Bosi is recorded once from three spellings, including Ugo Arinzeh's 'Brooklands by Peninsula London'.",
+    "Boundary Shoreditch is recorded once from four spellings. The canonical name is the one on the operator's own site."
+  ]
+}
