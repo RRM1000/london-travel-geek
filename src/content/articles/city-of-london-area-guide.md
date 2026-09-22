@@ -173,7 +173,7 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 
 **St Bartholomew the Great** is the reason to come. Founded in 1123, it is the oldest surviving parish church in London, and its Norman interior has stood in for St Paul's in *Sherlock Holmes* and appeared in *Four Weddings* and *Shakespeare in Love*. There is a small admission charge for sightseers and none for worship, and it closes to visitors during services.
 
-**The Barbican** is next door: a brutalist estate of concrete towers, raised walkways and a lake, with an arts centre at its heart. **The Curve gallery is free**, the main Art Gallery is ticketed, and finding the entrance is genuinely difficult — **follow the yellow line painted on the pavement** from Barbican station rather than trusting a map.
+**The Barbican** is next door: a brutalist estate of concrete towers, raised walkways and a lake, with an arts centre at its heart. **The Curve gallery is free**, the main Art Gallery is ticketed, and finding the entrance is genuinely difficult — **follow the yellow line painted on the pavement** from Barbican station rather than trusting a map. For the programme, the booking fee and where to eat before a show, see [what's on at the Barbican](/articles/barbican-centre-guide/).
 
 **Ye Olde Cheshire Cheese** on Fleet Street, rebuilt in 1667 after the Great Fire, is ten minutes west and worth the walk for the warren of dark rooms alone.
 

@@ -108,3 +108,7 @@
     .wo__price { text-align: left; min-width: 0; }
     .wo__reset { margin-inline-start: 0; }
   }
+
+  /* Inside an article the day headings sit in the text flow, not stuck to the top. */
+  .venue-listings .wo__day { position: static; font-size: 1rem; margin-top: 1.25rem; }
+  .venue-listings { margin-block: 1rem 2rem; }

@@ -9,6 +9,7 @@ import remarkAreaRestaurants from "../../lib/remark-area-restaurants.mjs";
 import remarkHotelLinks from "../../lib/remark-hotel-links.mjs";
 import remarkPartnerLinks from "../../lib/remark-partner-links.mjs";
 import remarkStayStrips from "../../lib/remark-stay-strips.mjs";
+import remarkVenueListings from "../../lib/remark-venue-listings.mjs";
 import rehypeTableAlign from "../../lib/rehype-table-align.mjs";
 import rehypeTableResponsive from "../../lib/rehype-table-responsive.mjs";
 
@@ -49,7 +50,7 @@ if (entry.data.area) {
   // remarkAreaRestaurants, so the Fitzrovia guide shipped a raw
   // href="hotel:charlotte-street-hotel" and no area guide could show a stay strip.
   const processor = await createMarkdownProcessor({
-    remarkPlugins: [remarkAreaRestaurants, remarkHotelLinks, remarkPartnerLinks, remarkStayStrips],
+    remarkPlugins: [remarkAreaRestaurants, remarkHotelLinks, remarkPartnerLinks, remarkStayStrips, remarkVenueListings],
     rehypePlugins: [rehypeTableAlign, rehypeTableResponsive],
   });
   // remarkAreaRestaurants identifies the guide from the file path's slug -
