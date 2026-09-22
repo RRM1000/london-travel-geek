@@ -1,0 +1,27 @@
+{
+  "_note": "Venues beyond zones 1-2 that are big enough to list anyway. osmName entries are matched against OpenStreetMap by exact name; manual entries are for venues the map does not tag as a venue. Parks are not venues here: park festivals arrive from the ticketing feeds with their own coordinates.",
+  "venues": [
+    { "osmName": "Wembley Stadium" },
+    { "osmName": "Tottenham Hotspur Stadium" },
+    { "osmName": "Allianz Stadium" },
+    { "osmName": "Twickenham Stoop Stadium" },
+    { "osmName": "StoneX Stadium" },
+    { "osmName": "Centre Court" },
+    { "osmName": "Selhurst Park" },
+    { "osmName": "Gtech Community Stadium" },
+    { "osmName": "The Valley" },
+    { "osmName": "Brisbane Road" },
+    { "osmName": "Cherry Red Records Stadium" },
+    { "osmName": "The Hive Stadium" },
+    { "osmName": "Athletics Stadium" },
+    { "osmName": "Alexandra Palace" },
+    { "osmName": "Excel" },
+    { "osmName": "Drumsheds" },
+    { "osmName": "The Beams" },
+    { "osmName": "Silverworks Island" },
+    { "osmName": "Woolwich Works" },
+    { "osmName": "Blackheath Halls" },
+    { "osmName": "Rivoli Ballroom" },
+    { "name": "OVO Arena Wembley", "kind": "arena", "lat": 51.558, "lng": -0.2826, "website": "https://www.ovoarena.co.uk/" }
+  ]
+}

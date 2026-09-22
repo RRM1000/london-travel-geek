@@ -26,7 +26,9 @@
     "audit:pins": "node scripts/audit-area-pins.mjs",
     "audit:weekly": "node scripts/audit.mjs --weekly",
     "audit:monthly": "node scripts/audit.mjs",
-    "worklist": "node scripts/worklist.mjs"
+    "worklist": "node scripts/worklist.mjs",
+    "listings": "node scripts/listings/read-spektrix.mjs && node scripts/listings/read-tribe.mjs && node scripts/listings/read-jsonld.mjs && node scripts/listings/write-sheet.mjs",
+    "listings:venues": "node scripts/listings/build-venues.mjs && node scripts/listings/detect-platforms.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.2.1",
