@@ -12,13 +12,18 @@
 // theatre guide covers those.
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import { createHash } from "node:crypto";
 import listings from "../../data/listings.json";
 
 const breadcrumbs = [{ label: "Home", href: "/" }, { label: "What's on" }];
 const updated = new Date(`${listings.generated}T12:00:00Z`).toLocaleDateString("en-GB", {
   day: "numeric", month: "long", year: "numeric", timeZone: "Europe/London",
 });
-const dataUrl = `/whats-on/listings.json?v=${listings.generated}-${listings.count}`;
+// The file is cached for a year, so its URL must change whenever its contents
+// do. A hash of the contents does that; the date and count alone did not, and a
+// same-day fix to the links stayed invisible behind the cached copy.
+const stamp = createHash("sha1").update(JSON.stringify(listings)).digest("hex").slice(0, 10);
+const dataUrl = `/whats-on/listings.json?v=${stamp}`;
 
 // Chip order: the categories most people come for first.
 const CATEGORY_ORDER = ["music", "comedy", "theatre", "classical", "club night", "dance", "opera", "exhibition", "talk", "family", "sport", "film", "festival", "other"];
@@ -481,7 +486,8 @@ const LABEL: Record<string, string> = {
   .wo__time { font-variant-numeric: tabular-nums; font-weight: 650; font-size: 0.92rem; padding-top: 0.1rem; }
   .wo__time b { display: block; font-weight: 700; }
   .wo__title { font-weight: 650; font-size: 1.02rem; text-decoration: none; }
-  .wo__title:hover { text-decoration: underline; }
+  a.wo__title { color: inherit; }
+  a.wo__title:hover { text-decoration: underline; color: var(--accent); }
   .wo__where, .wo__extra { margin: 0.15rem 0 0; font-size: 0.88rem; color: var(--muted); }
   .wo__zone {
     margin-inline-start: 0.25rem; padding: 0 0.35rem; font-size: 0.72rem; white-space: nowrap;

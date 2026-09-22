@@ -12,6 +12,7 @@ const IN = "work/listings/merged.json";
 const OUT = "src/data/listings.json";
 
 const { generated, rows } = JSON.parse(fs.readFileSync(IN, "utf8"));
+const WHOLE_RUN = new Set(["timed entry", "runs over several days"]);
 // A row without its own link falls back to the venue's website.
 const website = new Map(JSON.parse(fs.readFileSync("data/listings/venues.json", "utf8")).venues.map((v) => [v.name, v.website]));
 
@@ -42,8 +43,10 @@ const packed = rows.map((r) => [
   // office that has stopped selling on the day is not "on sale soon".
   r.onSale === "no" && r.onSaleFrom > generated ? r.onSaleFrom : "",
   r.availability === "sold out" ? 2 : r.availability === "few left" ? 1 : 0, // 8
-  r.run,                                              // 9  "YYYY-MM-DD to YYYY-MM-DD" for a whole run
-  r.url || website.get(r.venue) || "",               // 10
+  // 9: only a whole run sold as one ticket (an exhibition) spans dates. A show
+  // with forty nightly performances is forty rows, each with its own date.
+  WHOLE_RUN.has(r.note) ? r.run : "",
+  r.link || website.get(r.venue) || "",              // 10  (the Sheet column is "Link")
   linkLabel(r),                                       // 11
   r.firstSeen,                                        // 12
   r.access,                                           // 13
