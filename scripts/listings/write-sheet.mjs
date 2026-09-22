@@ -118,6 +118,12 @@ for (const l of listings) cats[l.category] = (cats[l.category] ?? 0) + 1;
 console.log(`${rows.length} listings (${all.length - rows.length} duplicates merged) from ${countByVenue.size} venues`);
 console.log(bySource, cats);
 
+// The same rows, as objects, for the What's On page export.
+fs.writeFileSync("work/listings/merged.json", JSON.stringify({
+  generated: TODAY,
+  rows: rows.map((r) => Object.fromEntries(HEADER.map((h, i) => [h.replace(/ (\w)/g, (_, c) => c.toUpperCase()).replace(/^\w/, (c) => c.toLowerCase()), r[i]]))),
+}));
+
 if (DRY) process.exit(0);
 
 await writeTab(LISTINGS_TAB, HEADER, rows);

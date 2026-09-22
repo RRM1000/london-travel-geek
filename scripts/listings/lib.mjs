@@ -95,16 +95,18 @@ export const inZones12 = (zone) => String(zone).split(/[+/]/).map(Number).some((
  * after sponsors: "OVO Arena Wembley", "Wembley Arena").
  */
 export function matchVenue(venues, name, p) {
-  const words = (s) => new Set(s.toLowerCase().replace(/[^a-z0-9 ]/g, " ").split(/\s+/).filter((w) => w.length > 3 && !/^(london|theatre|centre|club|hall|the|arena|venue)$/.test(w)));
+  const words = (s) => new Set(s.toLowerCase().replace(/[^a-z0-9 ]/g, " ").split(/\s+/).filter((w) => w.length > 2 && !/^(london|theatre|centre|club|hall|the|arena|venue|and)$/.test(w)));
   const want = words(name);
-  let best, bestD = Infinity;
+  // A name match nearby wins over a nameless neighbour: Camden High Street has
+  // a gallery forty metres from KOKO, and a gig at KOKO is not at the gallery.
+  let named, namedD = Infinity, near, nearD = Infinity;
   for (const v of venues) {
     const d = distanceM(p, v);
-    if (d > 250) continue;
-    const shared = [...words(v.name)].some((w) => want.has(w));
-    if ((shared || d < 60) && d < bestD) { best = v; bestD = d; }
+    if (d > 400) continue;
+    if ([...words(v.name)].some((w) => want.has(w))) { if (d < namedD) { named = v; namedD = d; } }
+    else if (d < 30 && d < nearD) { near = v; nearD = d; }
   }
-  return best;
+  return named ?? near;
 }
 
 /** Keys from .env.local, in the worktree or the main checkout. */
@@ -161,7 +163,7 @@ export function categoryFor(venueKind, genre, ...texts) {
 
 // --- what is left out -----------------------------------------------------
 // Things sold through a box office that are not events a visitor goes to.
-const NOT_AN_EVENT = /\b(gift ?(voucher|card)|membership|donation|merch|parking|car park|workshops?|course|classes|class\b|term\b|youth theatre|summer school|masterclass|tour of the building|backstage tour|venue hire|private hire|external hire|private event|season ticket|friends scheme|conference|training|graduation|agm|voucher|interval drinks?|pre-?show (dinner|drinks|meal)|bottle of|champagne|prosecco|wheelchair|cloakroom|public session|(architecture|building|backstage|guided|heritage) tours?)\b/i;
+const NOT_AN_EVENT = /\b(gift ?(voucher|card)|membership|donation|merch|parking|car park|workshops?|course|classes|class\b|term\b|youth theatre|summer school|masterclass|tour of the building|backstage tour|venue hire|private hire|external hire|private event|season ticket|friends scheme|conference|training|graduation|agm|voucher|interval drinks?|pre-?show (dinner|drinks|meal)|bottle of|champagne|prosecco|wheelchair|cloakroom|public session|(architecture|building|backstage|guided|heritage|garden|music|walking|museum|highlights) tours?|self-guided)\b/i;
 
 export function notAnEvent(...texts) {
   return NOT_AN_EVENT.test(texts.filter(Boolean).join(" "));

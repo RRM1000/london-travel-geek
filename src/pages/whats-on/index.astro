@@ -1,0 +1,528 @@
+---
+// What's On: every upcoming gig, comedy night, limited-run play, concert,
+// exhibition, talk and match we collect, searchable and filterable.
+//
+// The rows come from scripts/listings/ (venue box offices, Ticketmaster, DICE)
+// via export-site.mjs into src/data/listings.json, served as
+// /whats-on/listings.json. Filtering happens in the browser: this is a static
+// site, so the query string cannot filter anything server-side.
+//
+// Long-running West End shows are left out by design (see
+// data/listings/exclude.json and isLongRun in scripts/listings/lib.mjs); the
+// theatre guide covers those.
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import listings from "../../data/listings.json";
+
+const breadcrumbs = [{ label: "Home", href: "/" }, { label: "What's on" }];
+const updated = new Date(`${listings.generated}T12:00:00Z`).toLocaleDateString("en-GB", {
+  day: "numeric", month: "long", year: "numeric", timeZone: "Europe/London",
+});
+const dataUrl = `/whats-on/listings.json?v=${listings.generated}-${listings.count}`;
+
+// Chip order: the categories most people come for first.
+const CATEGORY_ORDER = ["music", "comedy", "theatre", "classical", "club night", "dance", "opera", "exhibition", "talk", "family", "sport", "film", "festival", "other"];
+const cats = CATEGORY_ORDER.filter((c) => listings.cats.includes(c));
+const LABEL: Record<string, string> = {
+  music: "Gigs", comedy: "Comedy", theatre: "Theatre", classical: "Classical",
+  "club night": "Club nights", dance: "Dance", opera: "Opera", exhibition: "Exhibitions",
+  talk: "Talks", family: "Family", sport: "Sport", film: "Film events", festival: "Festivals",
+  other: "Other",
+};
+---
+
+<BaseLayout
+  title="What's on in London: gigs, comedy, theatre and more"
+  description="Search upcoming gigs, comedy, limited-run theatre, classical concerts, exhibitions, talks and sport across central London, with prices and on-sale dates."
+  breadcrumbs={breadcrumbs}
+>
+  <section class="wo container">
+    <Breadcrumbs items={breadcrumbs} />
+    <header class="wo__head">
+      <p class="eyebrow">What's on</p>
+      <h1>What's on in London</h1>
+      <p class="wo__lede">
+        Gigs, comedy, limited-run theatre, concerts, exhibitions, talks and sport in zones 1 and 2,
+        plus the big stadiums and arenas further out, with prices and on-sale dates.
+      </p>
+      <p class="wo__fresh">
+        <em>Updated {updated}. Long-running West End shows are left out; the <a href="/articles/london-theatre-guide/">theatre guide</a> covers those.</em>
+      </p>
+    </header>
+
+    <form class="wo__controls" id="wo-form" role="search" onsubmit="return false">
+      <div class="wo__search">
+        <label for="wo-q">Search</label>
+        <input type="search" id="wo-q" name="q" autocomplete="off" placeholder="Artist, show or venue" />
+      </div>
+
+      <fieldset class="wo__group">
+        <legend>When</legend>
+        <div class="wo__chips" id="wo-when">
+          <button type="button" data-when="today">Today</button>
+          <button type="button" data-when="weekend">This weekend</button>
+          <button type="button" data-when="7">Next 7 days</button>
+          <button type="button" data-when="30">Next 30 days</button>
+          <button type="button" data-when="all" class="is-on">Any date</button>
+        </div>
+        <div class="wo__dates">
+          <label>From <input type="date" id="wo-from" /></label>
+          <label>To <input type="date" id="wo-to" /></label>
+        </div>
+      </fieldset>
+
+      <fieldset class="wo__group">
+        <legend>What</legend>
+        <div class="wo__chips" id="wo-cats">
+          {cats.map((c) => <button type="button" data-cat={c}>{LABEL[c]}<span class="wo__n"></span></button>)}
+        </div>
+      </fieldset>
+
+      <details class="wo__extra" id="wo-extra" open>
+      <summary>More filters</summary>
+      <div class="wo__row">
+        <label>Where
+          <select id="wo-zone">
+            <option value="all">Anywhere</option>
+            <option value="1">Zone 1</option>
+            <option value="2">Zone 2</option>
+            <option value="out">Stadiums and arenas further out</option>
+          </select>
+        </label>
+        <label>Price
+          <select id="wo-max">
+            <option value="">Any price</option>
+            <option value="0">Free</option>
+            <option value="10">Up to £10</option>
+            <option value="20">Up to £20</option>
+            <option value="35">Up to £35</option>
+            <option value="50">Up to £50</option>
+            <option value="100">Up to £100</option>
+          </select>
+        </label>
+        <label>Sort
+          <select id="wo-sort">
+            <option value="date">Soonest first</option>
+            <option value="price">Cheapest first</option>
+            <option value="onsale">Going on sale soonest</option>
+            <option value="new">Newest added</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="wo__row wo__toggles">
+        <label><input type="checkbox" id="wo-soon" /> Not on sale yet</label>
+        <label id="wo-new-wrap" hidden><input type="checkbox" id="wo-new" /> Added this week</label>
+        <label><input type="checkbox" id="wo-hidesold" /> Hide sold out</label>
+        <button type="button" class="wo__reset" id="wo-reset">Clear filters</button>
+      </div>
+      </details>
+    </form>
+
+    <p class="wo__status" id="wo-status" role="status" aria-live="polite">Loading listings…</p>
+    <div class="wo__results" id="wo-results" data-src={dataUrl} data-labels={JSON.stringify(LABEL)}></div>
+    <button type="button" class="wo__more" id="wo-more" hidden>Show more</button>
+
+    <noscript>
+      <p class="wo__noscript">
+        The listings need JavaScript, because this site is served as static files and the searching
+        happens in your browser. The <a href="/articles/london-theatre-guide/">theatre guide</a>,
+        <a href="/articles/best-comedy-clubs-london/">comedy clubs</a> and
+        <a href="/articles/best-live-music-venues-london/">live music venues</a> work without it.
+      </p>
+    </noscript>
+
+    <aside class="wo__more-guides">
+      <h2>Plan the night</h2>
+      <ul>
+        <li><a href="/articles/london-theatre-guide/">London theatre guide</a>: the long-running shows, and how to get cheap tickets</li>
+        <li><a href="/articles/best-comedy-clubs-london/">Best comedy clubs in London</a></li>
+        <li><a href="/articles/best-live-music-venues-london/">Best live music venues in London</a></li>
+      </ul>
+    </aside>
+  </section>
+</BaseLayout>
+
+<script>
+  // Row layout, matching scripts/listings/export-site.mjs.
+  type Row = [
+    string, string, string, number, number, number | null, number | null,
+    string, number, string, string, string, string, string, string,
+  ];
+  type Data = { generated: string; cats: string[]; venues: [string, string, string][]; rows: Row[] };
+
+  const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+  const results = $("wo-results");
+  const status = $("wo-status");
+  const more = $("wo-more");
+  const q = $<HTMLInputElement>("wo-q");
+  const from = $<HTMLInputElement>("wo-from");
+  const to = $<HTMLInputElement>("wo-to");
+  const zone = $<HTMLSelectElement>("wo-zone");
+  const max = $<HTMLSelectElement>("wo-max");
+  const sort = $<HTMLSelectElement>("wo-sort");
+  const soon = $<HTMLInputElement>("wo-soon");
+  const fresh = $<HTMLInputElement>("wo-new");
+  const hideSold = $<HTMLInputElement>("wo-hidesold");
+  const whenChips = $("wo-when");
+  const catChips = $("wo-cats");
+  const LABEL: Record<string, string> = JSON.parse(results.dataset.labels!);
+
+  const PAGE = 150;
+  let data: Data | null = null;
+  let when = "all";
+  let picked = new Set<string>();
+  let limit = PAGE;
+
+  // Dates are compared as YYYY-MM-DD strings in London time.
+  const londonDay = (d: Date) => d.toLocaleDateString("en-CA", { timeZone: "Europe/London" });
+  const addDays = (iso: string, n: number) => {
+    const d = new Date(`${iso}T12:00:00Z`);
+    d.setUTCDate(d.getUTCDate() + n);
+    return d.toISOString().slice(0, 10);
+  };
+  const today = londonDay(new Date());
+
+  function range(): [string, string] {
+    if (from.value || to.value) return [from.value || today, to.value || "9999-12-31"];
+    if (when === "today") return [today, today];
+    if (when === "7") return [today, addDays(today, 6)];
+    if (when === "30") return [today, addDays(today, 29)];
+    if (when === "weekend") {
+      const dow = new Date(`${today}T12:00:00Z`).getUTCDay(); // 0 Sun .. 6 Sat
+      if (dow === 0) return [today, today];
+      const fri = addDays(today, Math.max(0, 5 - dow));
+      return [dow === 6 ? today : fri, addDays(today, 7 - dow)];
+    }
+    return [today, "9999-12-31"];
+  }
+
+  const norm = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+  const esc = (s: unknown) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
+  const money = (n: number) => `£${Number.isInteger(n) ? n : n.toFixed(2)}`;
+  const shortDate = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-GB", { day: "numeric", month: "short", timeZone: "UTC" });
+  const longDate = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long", timeZone: "UTC" });
+
+  function zoneOk(z: string) {
+    if (zone.value === "all") return true;
+    const zs = String(z).split(/[+/]/).map(Number);
+    if (zone.value === "1") return zs.includes(1);
+    if (zone.value === "2") return zs.includes(2) && !zs.includes(1);
+    return !zs.some((n) => n === 1 || n === 2);
+  }
+
+  let firstRunDay = "";
+  let searchText: string[] = [];
+
+  // Everything except the category filter, so the category chips can show how
+  // many each would give.
+  function baseFilter(): { r: Row; day: string }[] {
+    const [lo, hi] = range();
+    const terms = norm(q.value.trim()).split(/\s+/).filter(Boolean);
+    const cap = max.value === "" ? Infinity : Number(max.value);
+    const weekAgo = addDays(today, -7);
+    const out: { r: Row; day: string }[] = [];
+    data!.rows.forEach((r, i) => {
+      // A whole run (an exhibition) counts on every day it is open.
+      const [start, end] = r[9] ? r[9].split(" to ") : [r[0], r[0]];
+      if (end < lo || start > hi) return;
+      if (terms.length && !terms.every((t) => searchText[i].includes(t))) return;
+      if (!zoneOk(data!.venues[r[4]][1])) return;
+      if (cap !== Infinity && (r[5] === null || r[5] > cap)) return;
+      if (soon.checked && !r[7]) return;
+      if (hideSold.checked && r[8] === 2) return;
+      if (fresh.checked && !(r[12] > firstRunDay && r[12] >= weekAgo)) return;
+      out.push({ r, day: start < lo ? lo : start });
+    });
+    return out;
+  }
+
+  function badges(r: Row) {
+    const b: string[] = [];
+    if (r[8] === 2) b.push(`<span class="wo__badge wo__badge--sold">Sold out</span>`);
+    else if (r[8] === 1) b.push(`<span class="wo__badge wo__badge--few">Few left</span>`);
+    if (r[7]) b.push(`<span class="wo__badge wo__badge--soon">${r[7] === "soon" ? "On sale soon" : `On sale ${shortDate(r[7])}`}</span>`);
+    if (r[12] > firstRunDay && r[12] >= addDays(today, -7)) b.push(`<span class="wo__badge wo__badge--new">New</span>`);
+    return b.join("");
+  }
+
+  function price(r: Row) {
+    if (r[5] === null) return "";
+    if (r[5] === 0 && (r[6] ?? 0) === 0) return "Free";
+    if (r[6] === null || r[6] === r[5]) return money(r[5]);
+    return `${money(r[5])}–${money(r[6])}`;
+  }
+
+  function item(r: Row) {
+    const [venue, z, station] = data!.venues[r[4]];
+    const time = r[9] ? `Until ${shortDate(r[9].split(" to ")[1])}` : r[1];
+    const extra = [
+      r[14] && `Presales: ${esc(r[14])}`,
+      r[13] && `${esc(r[13][0].toUpperCase() + r[13].slice(1))} performance`,
+    ].filter(Boolean).join(" · ");
+    return `<li class="wo__item">
+      <span class="wo__time">${esc(time)}</span>
+      <div class="wo__main">
+        ${r[10] ? `<a class="wo__title" href="${esc(r[10])}" target="_blank" rel="nofollow noopener">${esc(r[2])}</a>` : `<span class="wo__title">${esc(r[2])}</span>`}
+        <p class="wo__where">${esc(venue)}${station ? ` · ${esc(station)}` : ""}${z ? ` <span class="wo__zone">Zone ${esc(z)}</span>` : ""}</p>
+        ${extra ? `<p class="wo__extra">${extra}</p>` : ""}
+      </div>
+      <div class="wo__side">
+        <span class="wo__cat">${esc(LABEL[data!.cats[r[3]]] ?? data!.cats[r[3]])}</span>
+        ${badges(r)}
+        <span class="wo__price">${price(r)}</span>
+        ${r[10] ? `<a class="wo__go" href="${esc(r[10])}" target="_blank" rel="nofollow noopener">${esc(r[11])}</a>` : ""}
+      </div>
+    </li>`;
+  }
+
+  function render(resetLimit = true) {
+    if (!data) return;
+    if (resetLimit) limit = PAGE;
+    const base = baseFilter();
+
+    const counts = new Map<number, number>();
+    for (const { r } of base) counts.set(r[3], (counts.get(r[3]) ?? 0) + 1);
+    for (const btn of catChips.querySelectorAll<HTMLButtonElement>("button")) {
+      const n = counts.get(data.cats.indexOf(btn.dataset.cat!)) ?? 0;
+      btn.querySelector(".wo__n")!.textContent = ` ${n.toLocaleString("en-GB")}`;
+      btn.classList.toggle("is-on", picked.has(btn.dataset.cat!));
+      btn.disabled = n === 0 && !picked.has(btn.dataset.cat!);
+    }
+
+    let shown = picked.size ? base.filter(({ r }) => picked.has(data!.cats[r[3]])) : base;
+    const byDate = (a: { r: Row; day: string }, b: { r: Row; day: string }) =>
+      a.day.localeCompare(b.day) || (a.r[9] ? 1 : 0) - (b.r[9] ? 1 : 0) || a.r[1].localeCompare(b.r[1]) || a.r[2].localeCompare(b.r[2]);
+    const s = sort.value;
+    shown = [...shown].sort((a, b) =>
+      s === "price" ? ((a.r[5] ?? Infinity) - (b.r[5] ?? Infinity)) || byDate(a, b)
+      : s === "onsale" ? ((a.r[7] || "~").localeCompare(b.r[7] || "~")) || byDate(a, b)
+      : s === "new" ? b.r[12].localeCompare(a.r[12]) || byDate(a, b)
+      : byDate(a, b));
+
+    const page = shown.slice(0, limit);
+    status.textContent = shown.length
+      ? `${shown.length.toLocaleString("en-GB")} ${shown.length === 1 ? "event" : "events"}${shown.length > limit ? `, showing the first ${limit.toLocaleString("en-GB")}` : ""}`
+      : "Nothing matches those filters. Try a wider date range or fewer categories.";
+
+    // Day headings only make sense in date order.
+    let html = "";
+    if (s === "date") {
+      let day = "";
+      for (const { r, day: d } of page) {
+        if (d !== day) {
+          if (day) html += "</ul>";
+          html += `<h2 class="wo__day">${d === today ? "Today" : longDate(d)}</h2><ul class="wo__list">`;
+          day = d;
+        }
+        html += item(r);
+      }
+      if (day) html += "</ul>";
+    } else {
+      html = `<ul class="wo__list">${page.map(({ r, day }) => item(r).replace('<span class="wo__time">', `<span class="wo__time"><b>${shortDate(day)}</b> `)).join("")}</ul>`;
+    }
+    results.innerHTML = html;
+    more.hidden = shown.length <= limit;
+    syncUrl();
+  }
+
+  // --- state in the URL, so a filtered view can be shared -------------------
+  function syncUrl() {
+    const p = new URLSearchParams();
+    if (q.value.trim()) p.set("q", q.value.trim());
+    if (from.value) p.set("from", from.value);
+    if (to.value) p.set("to", to.value);
+    if (!from.value && !to.value && when !== "all") p.set("when", when);
+    if (picked.size) p.set("cat", [...picked].join(","));
+    if (zone.value !== "all") p.set("zone", zone.value);
+    if (max.value !== "") p.set("max", max.value);
+    if (sort.value !== "date") p.set("sort", sort.value);
+    if (soon.checked) p.set("soon", "1");
+    if (fresh.checked) p.set("new", "1");
+    if (hideSold.checked) p.set("hidesold", "1");
+    const s = p.toString();
+    history.replaceState(null, "", s ? `?${s}` : location.pathname);
+  }
+
+  function readUrl() {
+    const p = new URLSearchParams(location.search);
+    q.value = p.get("q") ?? "";
+    from.value = p.get("from") ?? "";
+    to.value = p.get("to") ?? "";
+    when = p.get("when") ?? "all";
+    picked = new Set((p.get("cat") ?? "").split(",").filter(Boolean));
+    zone.value = p.get("zone") ?? "all";
+    max.value = p.get("max") ?? "";
+    sort.value = p.get("sort") ?? "date";
+    soon.checked = p.get("soon") === "1";
+    fresh.checked = p.get("new") === "1";
+    hideSold.checked = p.get("hidesold") === "1";
+    markWhen();
+  }
+
+  function markWhen() {
+    const custom = Boolean(from.value || to.value);
+    for (const b of whenChips.querySelectorAll<HTMLButtonElement>("button")) {
+      b.classList.toggle("is-on", !custom && b.dataset.when === when);
+    }
+  }
+
+  // --- wiring ---------------------------------------------------------------
+  whenChips.addEventListener("click", (e) => {
+    const b = (e.target as HTMLElement).closest("button");
+    if (!b) return;
+    when = b.dataset.when!;
+    from.value = to.value = "";
+    markWhen();
+    render();
+  });
+  catChips.addEventListener("click", (e) => {
+    const b = (e.target as HTMLElement).closest("button");
+    if (!b) return;
+    const c = b.dataset.cat!;
+    picked.has(c) ? picked.delete(c) : picked.add(c);
+    render();
+  });
+  for (const el of [from, to]) el.addEventListener("change", () => { markWhen(); render(); });
+  for (const el of [zone, max, sort, soon, fresh, hideSold]) el.addEventListener("change", () => render());
+  let t: number | undefined;
+  q.addEventListener("input", () => { window.clearTimeout(t); t = window.setTimeout(() => render(), 150); });
+  more.addEventListener("click", () => { limit += PAGE; render(false); });
+  $("wo-reset").addEventListener("click", () => {
+    history.replaceState(null, "", location.pathname);
+    readUrl();
+    render();
+  });
+
+  // On a phone the extra filters start folded, unless the link already uses them.
+  if (matchMedia("(max-width: 40rem)").matches) {
+    const p = new URLSearchParams(location.search);
+    ($("wo-extra") as HTMLDetailsElement).open = ["zone", "max", "sort", "soon", "new", "hidesold"].some((k) => p.has(k));
+  }
+
+  readUrl();
+  fetch(results.dataset.src!)
+    .then((r) => r.json())
+    .then((d: Data) => {
+      data = d;
+      searchText = d.rows.map((r) => norm(`${r[2]} ${d.venues[r[4]][0]} ${d.venues[r[4]][2]} ${LABEL[d.cats[r[3]]] ?? ""}`));
+      firstRunDay = d.rows.reduce((m, r) => (r[12] < m ? r[12] : m), "9999");
+      // "Added this week" means nothing until a second refresh has added something.
+      $("wo-new-wrap").hidden = !d.rows.some((r) => r[12] > firstRunDay);
+      render();
+    })
+    .catch(() => { status.textContent = "The listings could not load. Please refresh the page."; });
+</script>
+
+<!--
+  is:global because the rows are written with innerHTML and never get Astro's
+  scoping attribute (see the same note in search.astro). Every selector is
+  prefixed with .wo so nothing leaks off this page.
+-->
+<style is:global>
+  .wo { padding-block: var(--space-6, 3rem); }
+  .wo__head { max-width: 46rem; margin-block-end: 1.5rem; }
+  .wo__head h1 { margin: 0.2rem 0 0.6rem; text-wrap: balance; }
+  .wo__lede { font-size: 1.08rem; margin: 0 0 0.5rem; }
+  .wo__fresh { color: var(--muted); font-size: 0.92rem; margin: 0; }
+
+  .wo__controls {
+    display: grid; gap: 1rem;
+    padding: 1.1rem; margin-block-end: 1.25rem;
+    border: 1px solid var(--line); border-radius: 10px;
+    background: var(--surface);
+  }
+  .wo__search { display: grid; gap: 0.35rem; }
+  .wo__search label, .wo__group legend, .wo__row > label {
+    font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);
+  }
+  .wo__search input {
+    min-height: 2.75rem; padding: 0.6rem 0.9rem; font: inherit; font-size: 1rem;
+    border: 1px solid var(--line); border-radius: 999px; background: var(--bg, transparent); color: var(--ink);
+  }
+  .wo__group { border: 0; margin: 0; padding: 0; display: grid; gap: 0.5rem; }
+  .wo__chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .wo__chips button {
+    padding: 0.35rem 0.75rem; font: inherit; font-size: 0.86rem; cursor: pointer;
+    border: 1px solid var(--line); border-radius: 999px; background: transparent; color: inherit;
+  }
+  .wo__chips button:disabled { opacity: 0.4; cursor: default; }
+  .wo__chips button.is-on {
+    border-color: var(--accent); color: var(--accent); font-weight: 650;
+    background: color-mix(in srgb, var(--accent) 10%, transparent);
+  }
+  .wo__n { color: var(--muted); font-weight: 400; font-variant-numeric: tabular-nums; }
+  .wo__chips button.is-on .wo__n { color: inherit; }
+  .wo__dates { display: flex; flex-wrap: wrap; gap: 0.75rem; font-size: 0.86rem; color: var(--muted); }
+  .wo__dates input, .wo__row select {
+    margin-inline-start: 0.35rem; padding: 0.3rem 0.5rem; font: inherit; font-size: 0.9rem;
+    border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--ink);
+  }
+  .wo__row { display: flex; flex-wrap: wrap; gap: 0.75rem 1.25rem; align-items: center; }
+  .wo__row > label { display: grid; gap: 0.3rem; }
+  .wo__row select { margin: 0; text-transform: none; letter-spacing: 0; font-weight: 400; color: var(--ink); }
+  .wo__toggles label { display: flex; align-items: center; gap: 0.4rem; font-size: 0.9rem; text-transform: none; letter-spacing: 0; font-weight: 400; color: var(--ink); }
+  .wo__reset {
+    margin-inline-start: auto; padding: 0.3rem 0.7rem; font: inherit; font-size: 0.86rem; cursor: pointer;
+    border: 0; background: transparent; color: var(--accent); text-decoration: underline;
+  }
+
+  .wo__status { color: var(--muted); margin-block: 0.75rem; font-variant-numeric: tabular-nums; }
+  .wo__day {
+    position: sticky; top: 0; z-index: 1;
+    margin: 1.5rem 0 0; padding: 0.5rem 0;
+    font-size: 1.05rem; background: var(--bg); border-block-end: 2px solid var(--ink);
+  }
+  .wo__list { list-style: none; margin: 0; padding: 0; }
+  .wo__item {
+    display: grid; grid-template-columns: 4.5rem minmax(0, 1fr) auto; gap: 0.3rem 1rem;
+    padding-block: 0.8rem; border-block-end: 1px solid var(--line); align-items: start;
+  }
+  .wo__time { font-variant-numeric: tabular-nums; font-weight: 650; font-size: 0.92rem; padding-top: 0.1rem; }
+  .wo__time b { display: block; font-weight: 700; }
+  .wo__title { font-weight: 650; font-size: 1.02rem; text-decoration: none; }
+  .wo__title:hover { text-decoration: underline; }
+  .wo__where, .wo__extra { margin: 0.15rem 0 0; font-size: 0.88rem; color: var(--muted); }
+  .wo__zone {
+    margin-inline-start: 0.25rem; padding: 0 0.35rem; font-size: 0.72rem; white-space: nowrap;
+    border: 1px solid var(--line); border-radius: 3px;
+  }
+  .wo__side { display: flex; flex-wrap: wrap; justify-content: flex-end; align-items: center; gap: 0.35rem 0.5rem; max-width: 22rem; }
+  .wo__cat { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
+  .wo__badge { padding: 0.05rem 0.45rem; font-size: 0.74rem; font-weight: 700; border-radius: 3px; white-space: nowrap; }
+  .wo__badge--sold { background: color-mix(in srgb, var(--ink) 12%, transparent); color: var(--ink); }
+  .wo__badge--few { background: color-mix(in srgb, #d97706 18%, transparent); color: color-mix(in srgb, #d97706 70%, var(--ink)); }
+  .wo__badge--soon { background: color-mix(in srgb, var(--accent) 14%, transparent); color: var(--accent); }
+  .wo__badge--new { background: color-mix(in srgb, #15803d 16%, transparent); color: color-mix(in srgb, #15803d 75%, var(--ink)); }
+  .wo__price { font-variant-numeric: tabular-nums; font-weight: 650; min-width: 3.5rem; text-align: right; }
+  .wo__go {
+    padding: 0.3rem 0.7rem; font-size: 0.84rem; font-weight: 650; white-space: nowrap; text-decoration: none;
+    border: 1px solid var(--accent); border-radius: 999px; color: var(--accent);
+  }
+  .wo__go:hover { background: var(--accent); color: var(--accent-contrast); }
+
+  .wo__more {
+    display: block; margin: 1.5rem auto 0; padding: 0.6rem 1.4rem; font: inherit; font-weight: 700; cursor: pointer;
+    border: 1px solid var(--accent); border-radius: 999px; background: var(--accent); color: var(--accent-contrast);
+  }
+  .wo__noscript { margin-block: 1.5rem; color: var(--muted); }
+  .wo__more-guides { margin-block-start: 3rem; padding-block-start: 1.25rem; border-block-start: 1px solid var(--line); }
+  .wo__more-guides h2 { font-size: 1.2rem; }
+
+  .wo__extra { display: grid; gap: 1rem; }
+  .wo__extra[open] { gap: 1rem; }
+  .wo__extra > summary { display: none; }
+  .wo__extra > .wo__row + .wo__row { margin-top: 1rem; }
+
+  @media (max-width: 40rem) {
+    .wo__controls { padding: 0.9rem; gap: 0.8rem; }
+    .wo__chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 0.2rem; scrollbar-width: none; }
+    .wo__chips button { flex: none; }
+    .wo__extra > summary { display: list-item; cursor: pointer; font-weight: 650; color: var(--accent); }
+    .wo__extra[open] > summary { margin-bottom: 0.8rem; }
+    .wo__item { grid-template-columns: 3.6rem minmax(0, 1fr); }
+    .wo__side { grid-column: 2; justify-content: flex-start; max-width: none; }
+    .wo__price { text-align: left; min-width: 0; }
+    .wo__reset { margin-inline-start: 0; }
+  }
+</style>

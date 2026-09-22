@@ -59,10 +59,10 @@ export const londonSite: SiteConfig = {
       // plaques map came out - they are the narrowest of the eleven, and the
       // topic page opens with all of them.
       children: [
+        { label: "What's on", href: "/whats-on/" },
         { label: "Free things to do", href: "/free/" },
         { label: "Best museums", href: "/articles/best-museums-london/" },
         { label: "Best views", href: "/articles/best-views-london/" },
-        { label: "Best live music venues", href: "/articles/best-live-music-venues-london/" },
         { label: "Shopping in London", href: "/articles/shopping-in-london/" },
         { label: "Hidden London", href: "/articles/hidden-london-secret-places/" },
         { label: "London with children", href: "/articles/london-with-children/" },
