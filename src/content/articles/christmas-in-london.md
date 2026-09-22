@@ -165,11 +165,11 @@ The lights are free to walk past, but the streets that carry the best of them �
 
 ## Christmas theatre
 
-Panto is not the only thing on, and two of the best tickets in London at Christmas are not pantomimes at all.
+Panto is not the only thing on, and two of the best tickets in London at Christmas are not pantomimes at all. For every panto, Nutcracker and children's show with dates, prices and age guidance, see [Christmas shows and pantomimes in London](/articles/christmas-shows-london/).
 
 ### A Christmas Carol, The Old Vic
 
-**12 November 2026 – 9 January 2027.** Jack Thorne's adaptation, directed by Matthew Warchus, now in its tenth season and **London's longest-running version of the story**. The auditorium is reconfigured in the round and the show comes out into it — mince pies included, genuinely.
+**10 November 2026 – 9 January 2027**, previews to 23 November. Jack Thorne's adaptation, directed by Matthew Warchus, now in its tenth season and **London's longest-running version of the story**. The auditorium is reconfigured in the round and the show comes out into it — mince pies included, genuinely.
 
 ![Rows of lit lanterns hanging on chains in the dark, the staging used for A Christmas Carol at the Old Vic](../../assets/articles/christmas-in-london/a-christmas-carol-old-vic.jpg)
 *The lanterns are hung over the audience, not the stage — the auditorium is reconfigured in the round for the run.*

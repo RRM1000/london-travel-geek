@@ -291,6 +291,7 @@ Age is the thing to check before you buy, and two of the five are narrow: the **
 
 ## Continue planning your London trip
 
+- 🎄 **[Christmas Shows and Pantomimes in London](/articles/christmas-shows-london/)** - pantos, Nutcrackers and shows for under-fives, with age guidance
 - ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — under-12s get in for £5 at Charlton against £39 for a junior Premier League seat
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
