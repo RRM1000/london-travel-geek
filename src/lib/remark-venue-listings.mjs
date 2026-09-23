@@ -3,8 +3,8 @@
 //   <div data-venue-listings="Venue Name" data-limit="40"></div>
 //     that venue's next performances, by day
 //
-//   <div data-venue-listings="Venue Name" data-compact data-limit="5"></div>
-//     a short strip for under a venue's entry in a guide: the next few shows
+//   <div data-venue-listings="Venue Name" data-compact></div>
+//     a short strip for under a venue's entry in a guide: the next 3 shows
 //     (one row each, at its next date) and a link to every date on the What's
 //     On page. Several venues: "Name A|Name B". data-label sets the name shown
 //     ("the Royal Albert Hall"), data-q the What's On search (defaults to the
@@ -15,10 +15,13 @@
 //     per show at its next performance, soonest first. Optional:
 //       data-exclude="pattern"   drop titles matching this
 //       data-cat="comedy,music"  only these categories (see listings.json cats)
+//       data-also-venues="A|B"   plus everything at these venues whatever its category
+//                                (a children's theatre files its shows as theatre)
 //       data-max="15"            only shows priced at or under £15
 //       data-days="14"           window from the listings date, instead of from/to
 //       data-evening             only performances starting 17:00 or later
 //       data-per-venue="2"       at most this many shows from any one venue
+//       data-per-day="1"         at most this many shows on any one day, to spread a month's picks
 //       data-flat                one list with the date in each row, not grouped by day
 //       data-more="label"        adds a link to the same view on the What's On page
 //     A pattern of "." matches every title, for a filter by category or price.
@@ -46,15 +49,17 @@ const attr = (attrs, k) => {
 };
 
 /** One row per show (venue + title), at its next date. */
-function perShow(items, perVenue = Infinity) {
+function perShow(items, perVenue = Infinity, perDay = Infinity) {
   const seen = new Set();
   const venues = new Map();
-  return items.filter(({ r }) => {
+  const days = new Map();
+  return items.filter(({ r, day }) => {
     const k = `${r[4]}|${r[2].toLowerCase()}`;
     if (seen.has(k)) return false;
-    if ((venues.get(r[4]) ?? 0) >= perVenue) return false;
+    if ((venues.get(r[4]) ?? 0) >= perVenue || (days.get(day) ?? 0) >= perDay) return false;
     seen.add(k);
     venues.set(r[4], (venues.get(r[4]) ?? 0) + 1);
+    days.set(day, (days.get(day) ?? 0) + 1);
     return true;
   });
 }
@@ -74,7 +79,7 @@ function venueBlock(spec, attrs) {
   const names = spec.split("|");
   const ids = venueIds(d, names);
   const compact = attr(attrs, "compact") !== undefined;
-  const limit = Number(attr(attrs, "limit") ?? (compact ? 5 : 40));
+  const limit = Number(attr(attrs, "limit") ?? (compact ? 3 : 40));
   const label = attr(attrs, "label") ?? names[0];
   const more = `/whats-on/?q=${encodeURIComponent(attr(attrs, "q") ?? names[0])}`;
   const all = upcoming(d.rows.filter((r) => ids.has(r[4])), d.generated);
@@ -111,23 +116,25 @@ function matchBlock(pattern, attrs) {
   const not = get("exclude") ? new RegExp(get("exclude"), "i") : null;
   const cats = get("cat") ? new Set(get("cat").split(",").map((c) => d.cats.indexOf(c.trim()))) : null;
   if (cats?.has(-1)) throw new Error(`remark-venue-listings: unknown category in data-cat="${get("cat")}"; categories are ${d.cats.join(", ")}`);
+  const also = get("also-venues") ? venueIds(d, get("also-venues").split("|")) : new Set();
   const max = get("max") !== undefined ? Number(get("max")) : null;
   const evening = get("evening") !== undefined;
   const from = get("from") && get("from") > d.generated ? get("from") : d.generated;
   const to = get("days") ? addDays(d.generated, Number(get("days"))) : (get("to") ?? "9999-12-31");
   const limit = Number(get("limit") ?? 80);
   const perVenue = get("per-venue") ? Number(get("per-venue")) : Infinity;
+  const perDay = get("per-day") ? Number(get("per-day")) : Infinity;
 
   const rows = d.rows.filter(
     (r) =>
       re.test(r[2]) &&
       !(not && not.test(r[2])) &&
-      (!cats || cats.has(r[3])) &&
+      (!cats || cats.has(r[3]) || also.has(r[4])) &&
       (max === null || (r[5] !== null && r[5] <= max)) &&
       (!evening || (r[1] && r[1] >= "17:00")) &&
       r[8] !== 2,
   );
-  const shows = perShow(upcoming(rows, from, to), perVenue);
+  const shows = perShow(upcoming(rows, from, to), perVenue, perDay);
   if (!shows.length) return `<p class="wo__status">Nothing matching is in the listings right now.</p>`;
 
   let link = "";

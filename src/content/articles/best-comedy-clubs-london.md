@@ -75,6 +75,8 @@ It has moved since, and it is still the room every British comedian measures the
 
 > 💡 **The Players play Sundays and Wednesdays.** If you only see one comedy show in London, this is the one with the strongest claim on your evening — it is improv rather than stand-up, and it has been running for forty years.
 
+<div data-venue-listings="Comedy Store" data-compact data-label="the Comedy Store"></div>
+
 ### Top Secret Comedy Club, Covent Garden
 
 *£–££ · 4 min from Covent Garden*
@@ -92,6 +94,8 @@ A basement in the middle of the West End running shows **every day of the week**
 > ⚠️ **It sells out, routinely and days ahead.** Several shows on any given weekend are gone before the day. Book rather than turning up.
 
 The bar claims the cheapest pints in the West End, from £4.20, which for Covent Garden is its own kind of headline.
+
+<div data-venue-listings="The Top Secret Comedy Club" data-compact data-label="Top Secret Comedy Club"></div>
 
 ### Backyard Comedy Club, Bethnal Green
 
@@ -267,6 +271,8 @@ Typical timings are **doors 7pm for an 8pm start**, with earlier 7.30pm shows on
 
 **SE10 9SW on Creek Road**, five minutes from Cutty Sark DLR and ten from Greenwich — easy to combine with an afternoon in Greenwich rather than a trip on its own.
 
+<div data-venue-listings="Up the Creek" data-compact></div>
+
 ### 2Northdown, King's Cross
 
 *£ · 100 seats · 2 min from King's Cross St Pancras*
@@ -290,6 +296,8 @@ Less a comedy club than the room where comedy becomes a show. New theatre, cabar
 **There is now a second venue, Soho Theatre Walthamstow** on Hoe Street, **E17 4QH** — a restored art deco cinema, and worth the Victoria line trip for the building alone. The original is at **W1D 3NE on Dean Street**.
 
 **Book ahead.** These are theatre runs with named performers rather than drop-in nights, and the good ones sell out weeks in advance. Tottenham Court Road is four minutes from Dean Street.
+
+<div data-venue-listings="Soho Theatre" data-compact></div>
 
 ### Camden Comedy Club, Camden Town
 

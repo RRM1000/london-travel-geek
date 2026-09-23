@@ -4,6 +4,7 @@ seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market worth knowing about, the best streets for lights, the ice rinks and light trails still running - and the ones that have quietly stopped."
 publishedAt: 2026-08-29
 updatedAt: 2026-09-01
+reviewBy: 2026-12-25
 sites:
   - london
 canonicalSite: london
@@ -262,6 +263,12 @@ It is a concert rather than a service, so it is loud, secular in feel and comple
 **The other free option is a parish church.** Most London churches hold a carol service in the fortnight before Christmas with no ticket and a collection plate at the end, and the singing is often better than the size of the building suggests. Look at what is on near where you are staying rather than travelling for a name.
 
 **In the shopping streets**, carol singers turn up through December at **Covent Garden**, **Leadenhall Market**, **Burlington Arcade** and the **Southbank Centre's** winter market — unscheduled and unticketed, so they are something you walk into rather than plan around.
+
+### More carol concerts to book
+
+Beyond the free ones above, several concert halls run ticketed carol and candlelight evenings through December.
+
+<div data-listings-match="carol|candlelight" data-exclude="goes wrong|^A Christmas Carol$" data-from="2026-12-01" data-to="2026-12-24" data-per-venue="2" data-limit="12"></div>
 
 ---
 

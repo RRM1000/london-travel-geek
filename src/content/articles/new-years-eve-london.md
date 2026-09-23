@@ -4,6 +4,7 @@ seoTitle: "New Year's Eve London 2026: Fireworks and Tickets"
 description: "The Thames fireworks are ticketed, paid and sell out — and nothing for 31 December 2026 is on sale yet. What is confirmed, what the free viewpoints really are, and how to get home."
 publishedAt: 2026-09-10
 updatedAt: 2026-09-13
+reviewBy: 2027-01-01
 sites:
   - london
 canonicalSite: london
@@ -151,6 +152,12 @@ London Party Boats tickets include a welcome Prosecco, unlimited beer, wine, Pro
 **If you do not want to spend £150 on a party**, the cheap options are the ones that have always worked. Watch the display on BBC One, which gives you a better view than most ticket holders get. Book an early dinner somewhere not doing a set menu — our [late-night eating guide](/articles/late-night-eating-london/) helps. Or find a pub that has simply extended its licence rather than one selling a £90 package. [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) is open on 31 December with entry from £1.
 
 For the run-up rather than the night itself — markets, lights, ice rinks and carols — see our guide to [Christmas in London](/articles/christmas-in-london/).
+
+### Shows on the night
+
+Gigs, comedy and theatre booking for the evening of 31 December.
+
+<div data-listings-match="." data-evening data-from="2026-12-31" data-to="2026-12-31" data-per-venue="2" data-limit="20"></div>
 
 ---
 

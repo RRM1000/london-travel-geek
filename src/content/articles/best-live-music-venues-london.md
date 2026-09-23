@@ -64,6 +64,8 @@ It is worth knowing what happened here. The venue lost its licence after a fatal
 
 It ran test events at half capacity in April 2024 and has been trading normally since, and is currently booking well into 2027.
 
+<div data-venue-listings="O2 Academy Brixton" data-compact></div>
+
 ### The O2, Greenwich
 
 *20,000 · North Greenwich*
@@ -74,6 +76,8 @@ It is an arena, and it behaves like one: the sound is competent rather than spec
 
 **Getting out is the part to plan.** Twenty thousand people leave at once into one Jubilee line station; wait twenty minutes in the bars rather than joining it, or walk to the Thames Clipper pier. **Up at The O2** lets you climb over the roof on a walkway, sold separately from any gig. More on getting there and away in our [O2 travel guide](/articles/the-o2-travel-guide/).
 
+<div data-venue-listings="The O2" data-compact></div>
+
 ### Eventim Apollo, Hammersmith
 
 *around 5,000 · Hammersmith*
@@ -83,6 +87,8 @@ It is an arena, and it behaves like one: the sound is competent rather than spec
 The interior is the reason: a vast barrel-vaulted auditorium with the original Robert Cromie fittings largely intact, and a Compton organ still in place. It works **either seated or standing**, and which one you get depends on the show, so check before you buy — the same act can be a very different night in each configuration.
 
 **The balcony is genuinely good here**, unlike most rooms this size. Hammersmith station is directly opposite, which makes the exit far easier than the Apollo's capacity suggests.
+
+<div data-venue-listings="Eventim Apollo" data-compact></div>
 
 ### Royal Albert Hall, South Kensington
 
@@ -98,6 +104,8 @@ The interior is the reason: a vast barrel-vaulted auditorium with the original R
 
 *The Royal Albert Hall mid-performance. It seats over 5,000 and the Proms run here every summer.*
 
+<div data-venue-listings="Royal Albert Hall" data-compact data-label="the Royal Albert Hall"></div>
+
 ### Alexandra Palace, Wood Green
 
 *up to around 10,400 · N22*
@@ -107,6 +115,8 @@ The interior is the reason: a vast barrel-vaulted auditorium with the original R
 The Great Hall is enormous and largely undivided, so it behaves more like a festival tent than a concert hall — the sound at the back is noticeably worse than the front and there is no raked floor, which makes height an advantage. The restored **Alexandra Palace Theatre** next door is the opposite: 1875, about 1,300 seats, deliberately left semi-derelict when it reopened, and a far better room for anything acoustic.
 
 **The hill is free and the terrace view over the city is worth the trip on its own.** Getting home is the catch — Alexandra Palace station is a fifteen-minute walk downhill, Wood Green Tube is twenty, and ten thousand people leave at once.
+
+<div data-venue-listings="Alexandra Palace" data-compact></div>
 
 ### Barbican Hall, City of London
 
@@ -131,6 +141,8 @@ It fills a real gap. At 3,800 it sits **between the Apollo and Brixton at one en
 
 It arrived as part of Olympia's whole redevelopment, so the surroundings are new too: a rooftop canopy of bars and restaurants, a food hall, a theatre and two hotels all opened within weeks of it. **Kensington (Olympia) station is at the door**, though its off-peak service is thinner than you would expect for a venue this size — check your route home before the encore.
 
+<div data-venue-listings="British Airways Theatre" data-compact data-label="British Airways ARC"></div>
+
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-live-music-venues-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -151,6 +163,8 @@ That shape is the whole experience: there is no bad angle exactly, but there is 
 
 *The Roundhouse. It was built to turn steam locomotives, which is why the room is a true circle and the columns are where they are.*
 
+<div data-venue-listings="Roundhouse" data-compact data-label="the Roundhouse"></div>
+
 ### KOKO, Camden Town
 
 *around 1,400 · Mornington Crescent*
@@ -160,6 +174,8 @@ That shape is the whole experience: there is no bad angle exactly, but there is 
 A fire tore through the roof during restoration in 2020. It reopened in 2022 after a rebuild that added a tower, a recording studio and several members' floors above the auditorium — which drew some criticism — but **the main room came back intact**, gold leaf and all.
 
 **Get on a balcony if you can.** The floor is small and fills fast, and the view down onto the stage from the second tier is the reason to be in this particular building rather than any other room of the same size.
+
+<div data-venue-listings="KOKO" data-compact></div>
 
 ### The 100 Club, Oxford Street
 
@@ -171,6 +187,8 @@ It hosted the **1976 Punk Festival** — the Sex Pistols, The Clash and Siouxsie
 
 The stage is at floor level with pillars in the way. That is part of it.
 
+<div data-venue-listings="100 Club" data-compact data-label="the 100 Club"></div>
+
 ### Union Chapel, Islington
 
 *around 900 · Grade I listed*
@@ -180,6 +198,8 @@ A **working Congregational church**, built 1874–77, that runs around 250 gigs 
 Three things nobody tells you before you go. **The seating is unreserved**, first-come-first-served on the original wooden pews, so arrive early and expect a queue. **There is a bar**, on the first floor — but alcohol has to stay in the bar area and cannot come into the chapel itself, though soft drinks and snacks can. And the building runs the **Margins Project**, a homelessness charity with a twice-weekly drop-in, showers, laundry and a winter night shelter, funded partly by the gigs.
 
 It is fully accessible by ramp, with a platform lift up to the bar, and it houses an 1877 Henry Willis organ that still runs on its original hydraulic blowing system.
+
+<div data-venue-listings="Union Chapel" data-compact></div>
 
 ### Village Underground, Shoreditch
 
@@ -191,6 +211,8 @@ The main space below is a raw brick-and-steel hall with a high ceiling, and it i
 
 **The rooftop has opened to the public**, which it never used to be. Shoreditch High Street station is three minutes away.
 
+<div data-venue-listings="Village Underground" data-compact></div>
+
 ### EartH, Dalston
 
 *1,200 standing · 680 seated · Dalston Kingsland*
@@ -200,6 +222,8 @@ The main space below is a raw brick-and-steel hall with a high ceiling, and it i
 The two rooms are completely different nights. **EartH Hall** is a stripped-back standing space downstairs for touring bands and club bookings. **EartH Theatre** upstairs is the original tiered auditorium with **680 seats and the decay deliberately left visible** — peeling plaster, exposed brick, the proscenium half-ruined. It is one of the most atmospheric rooms in London and it is used for seated shows, film and spoken word as well as music.
 
 **Check which of the two your ticket is for**, because people turn up expecting the theatre and find themselves standing downstairs. Dalston Kingsland is a few minutes' walk.
+
+<div data-venue-listings="EartH" data-compact></div>
 
 ### MOTH Club, Hackney
 
@@ -212,6 +236,8 @@ There is nothing else like it. The room takes about 200, the ceiling is low, the
 **Tickets are cheap and go quickly**, and it is a five-minute walk from Hackney Central. Go on a weeknight if you want to be able to move.
 
 > ⚠️ **Go while you can.** MOTH Club is fighting two planning applications for flats next door and has been since 2025. Hackney Council refused the first in March 2026, citing the developer's failure to show the flats would not restrict the club — **a second application on the adjoining plot is still undecided**. The petition passed 30,000 signatures and the venue's own programmer says they are not out of the woods.
+
+<div data-venue-listings="MOTH Club" data-compact></div>
 
 ---
 
@@ -232,6 +258,8 @@ The New York institution's **first UK venue**, in the basement beneath the St Ma
 The address is **42–49 St Martin's Lane, WC2N 4EJ**.
 
 The two-sets-a-night format is the thing to understand: the 7pm show is the civilised one and the 9.30 is where it loosens up.
+
+<div data-venue-listings="Blue Note London" data-compact data-label="Blue Note"></div>
 
 ### Ronnie Scott's, Soho
 
@@ -286,6 +314,8 @@ The room is small and rectangular with **a balcony you can book a table on and e
 
 *The Jazz Cafe on Parkway. The building was a bank before it was a music venue, which is why the frontage looks nothing like one.*
 
+<div data-venue-listings="The Jazz Cafe" data-compact></div>
+
 ### The Bull's Head, Barnes
 
 *since 1959 · 373 Lonsdale Road, SW13 9PY*
@@ -321,6 +351,8 @@ The format is unusual and worth understanding before you go: it is a café and b
 The venue is genuinely just a room: low ceiling, no raised stage to speak of, and a capacity that means you are never more than a few metres from whoever is playing. The front is a working pub with a decent beer list, so you can arrive early without committing to the gig.
 
 **Tickets are usually under £15** and often sell out on word of mouth rather than advertising. Free entry on some club nights after the band.
+
+<div data-venue-listings="The Shacklewell Arms" data-compact></div>
 
 ### Notting Hill Arts Club, Notting Hill
 

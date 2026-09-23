@@ -4,6 +4,7 @@ seoTitle: "Halloween in London 2026: Events, Parties and Costumes"
 description: "What to do in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours — plus where you can still hire a proper costume."
 publishedAt: 2026-08-29
 updatedAt: 2026-09-19
+reviewBy: 2026-11-02
 sites:
   - london
 canonicalSite: london
@@ -247,6 +248,12 @@ Halloween falling on a Saturday means the big club nights are running at full st
 For something cheaper and looser, **93 Feet East** in Shoreditch and **Electric Ballroom** in Camden both run big Halloween nights from a few pounds on the door — both have sold out in previous years, so don't leave it too late.
 
 **London's LGBTQ+ scene usually goes big for Halloween**, but as of publication Heaven, G-A-Y and The Glory hadn't yet announced their October programming — check back in September for line-ups.
+
+## More Halloween nights out
+
+Other Halloween nights booking across London in the week of 31 October.
+
+<div data-listings-match="halloween|haunted|ghost" data-exclude="hungry ghost|ghost town|club de fromage" data-from="2026-10-24" data-to="2026-11-01" data-per-venue="2" data-limit="20"></div>
 
 ---
 

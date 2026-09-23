@@ -6,6 +6,7 @@ heroImage: "../../assets/articles/london-with-children/granary-square-fountains.
 heroImageAlt: "Children running through the ground fountains at Granary Square in King's Cross on a summer afternoon"
 publishedAt: 2026-08-23
 updatedAt: 2026-09-22
+reviewBy: 2026-11-02
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -286,6 +287,20 @@ Expensive, always busy, and entirely about whether your child wants a photograph
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="193412" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 Age is the thing to check before you buy, and two of the five are narrow: the **Dungeon is 12+** and **Shrek's Adventure is pitched at 6–12**, as covered above. If neither suits your children you are down to three attractions, which is exactly the break-even — so the pass stops being a saving and becomes a convenience.
+
+---
+
+## Family shows this fortnight
+
+Children's theatre, comedy and one-off shows in the next two weeks.
+
+<div data-listings-match="." data-exclude="Satans Baby|Tiny Tides|Bow Families|Parent and Baby Soundbath|Rooted: Our Hair Stories|Watch with Mother" data-cat="family" data-also-venues="Little Angel Theatre|Unicorn Theatre" data-days="14" data-per-venue="2" data-limit="12"></div>
+
+## October half-term
+
+Family theatre, comedy and one-off shows in the week of October half-term.
+
+<div data-listings-match="." data-exclude="Satans Baby|Tiny Tides|Bow Families|Parent and Baby Soundbath|Rooted: Our Hair Stories|Watch with Mother" data-cat="family" data-also-venues="Little Angel Theatre|Unicorn Theatre" data-from="2026-10-24" data-to="2026-11-01" data-per-venue="2" data-limit="12"></div>
 
 ---
 

@@ -9,6 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Autumn_Colours_in_Hyde
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-10
+reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -278,6 +279,12 @@ The New York jazz club's first UK venue, which opened on St Martin's Lane in Sep
 The Blue Note run above is October's jazz calendar. Beyond it, Alexandra Palace carries the month: **Beth Orton on 22 October**, **Fat Freddy's Drop on 23 October**, the **Crouch End Festival Chorus performing Mozart's Requiem on 25 October** — the cheapest way into the building, and a good pairing with Diwali on the Square earlier that same day — **Overmono on 28 October**, and **Skindred closing out Halloween night, 31 October**.
 
 **Angine de Poitrine play the Troxy on Monday 19 October**, and it has sold out, which shows how far a joke can travel. The anonymous Quebec duo, Khn de Poitrine on guitar and bass and Klek de Poitrine on drums, perform in oversized papier-mâché masks and polka-dot suits and play microtonal math rock: music built from the notes that fall between the frets of an ordinary guitar. The band began as a gag for a local venue in Saguenay; a live set KEXP released in February passed millions of views and turned it into an international tour. Ticketmaster has none left, but will email if more are released. Over-14s, doors 7pm.
+
+## What's on this October
+
+One evening pick a day: music, comedy, theatre, classical and dance, each at a different venue.
+
+<div data-listings-match="." data-exclude="open mic|weekly|insights|recital" data-cat="music,comedy,theatre,classical,dance" data-evening data-from="2026-10-01" data-to="2026-10-31" data-per-venue="1" data-per-day="1" data-limit="20" data-flat></div>
 
 ## New restaurants and bars
 

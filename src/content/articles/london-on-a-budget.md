@@ -120,6 +120,11 @@ the day.
 * **[Cinema deals](/articles/cinema-deals-london/)** — **Meerkat Movies gives 2-for-1 every Tuesday or Wednesday with no purchase required**, just the app. If you are 16 to 25, the BFI is **£4** and Picturehouse **£5.99**.
 * **[Theatre](/articles/london-theatre-guide/)** — TKTS at the Leicester Square booth or online, midweek rather than Saturday, plus day seats, rush tickets and lotteries. Where you sit matters as much as what you see.
 
+## Cheap nights out
+
+Gigs, comedy and theatre with an evening ticket at £15 or under, for the week ahead and spread across venues.
+
+<div data-listings-match="." data-exclude="^SES |pre ?-?order" data-cat="music,comedy,theatre" data-max="15" data-evening data-days="7" data-per-venue="2" data-limit="12" data-more="Every show at £15 or less on the What's On page"></div>
 
 ---
 
