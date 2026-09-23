@@ -43,7 +43,7 @@ const idx = (list, map, key, make) => {
 const showKey = (r) => `${r.venue}|${r.title.toLowerCase()}`;
 const alreadyOnSale = new Set(rows.filter((r) => r.onSale === "yes").map(showKey));
 const notYetOnSale = (r) =>
-  r.onSale === "no" && r.onSaleFrom > generated && r.onSaleFrom < r.date &&
+  r.onSale === "no" && r.onSaleFrom >= generated && r.onSaleFrom < r.date &&
   r.availability !== "sold out" && !alreadyOnSale.has(showKey(r));
 
 const packed = rows.map((r) => [

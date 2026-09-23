@@ -25,7 +25,7 @@ const updated = new Date(`${buildDay}T12:00:00Z`).toLocaleDateString("en-GB", {
 const byShow = new Map<string, { r: Row; runs: number }>();
 const shows: { r: Row; runs: number }[] = [];
 for (const r of [...listings.rows].sort((a, b) => a[7].localeCompare(b[7]) || a[0].localeCompare(b[0]))) {
-  if (!r[7] || r[7] <= buildDay) continue;
+  if (!r[7] || r[7] < buildDay) continue; // today included: tickets released this morning are still news
   const key = `${r[7]}|${r[4]}|${r[2].toLowerCase()}`;
   const seen = byShow.get(key);
   if (seen) { seen.runs++; continue; }
@@ -101,3 +101,26 @@ const headings = [
     </p>
   </div>
 </ArticleLayout>
+
+<script>
+  // The page is rebuilt each morning, but a reader can open it later. Label
+  // today's group as today, and hide any release day already past.
+  import { londonDay } from "../../lib/whats-on";
+  const today = londonDay(new Date());
+  for (const h of document.querySelectorAll<HTMLElement>("h3.wo__day[id^='on-']")) {
+    const day = h.id.slice(3);
+    const list = h.nextElementSibling as HTMLElement | null;
+    if (day < today) {
+      h.hidden = true;
+      if (list) list.hidden = true;
+    } else if (day === today) {
+      const dow = h.querySelector(".wo__dow");
+      const date = h.querySelector(".wo__date");
+      if (dow && date) {
+        const weekday = new Date(`${day}T12:00:00Z`).toLocaleDateString("en-GB", { weekday: "long", timeZone: "UTC" });
+        dow.textContent = "On sale today";
+        date.textContent = `${weekday} ${date.textContent}`;
+      }
+    }
+  }
+</script>
