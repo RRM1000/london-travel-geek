@@ -1,52 +1,137 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+
+// Update this page, and the date, whenever the site adds a tracker, an
+// affiliate programme, an embed or a form.
+const UPDATED = "23 September 2026";
 ---
 
 <BaseLayout
-  title="Privacy"
-  description="How London Travel Geek handles visitor information and third-party content."
+  title="Privacy and affiliate links"
+  description="What London Travel Geek collects, the cookies it uses, how to turn analytics off, and which affiliate programmes pay for the site."
 >
   <article class="legal container">
     <p class="eyebrow">London Travel Geek</p>
-    <h1>Privacy</h1>
-    <p class="legal__intro">
-      This page describes the current version of the website. It should be
-      reviewed whenever analytics, advertising, comments, forms or a newsletter
-      provider are activated.
+    <h1>Privacy and affiliate links</h1>
+    <p class="legal__intro">Last updated {UPDATED}.</p>
+
+    <h2>What we collect</h2>
+    <p>
+      There are no accounts, comments, newsletters or forms, so we never ask
+      for your name or email address.
+    </p>
+    <p>
+      We use <strong>Google Analytics</strong> to count visits: which pages are
+      read, how people arrive, the device and browser, the town or country
+      (from your IP address, which Google does not store), what is searched on
+      the site, and which links are clicked, including affiliate links. It
+      sets two cookies, <code>_ga</code> and <code>_ga_YDK7Q2D8E8</code>, which
+      last up to two years. Google signals and ad personalisation are switched
+      off, so none of it is used for advertising.
     </p>
 
-    <h2>Information collected by this website</h2>
+    <h2 id="analytics">Turning analytics off</h2>
     <p>
-      London Travel Geek does not currently provide user accounts, accept
-      comments or operate an email signup form. The website itself does not set
-      advertising or analytics cookies.
+      Analytics never loads if your browser sends Global Privacy Control. Or
+      use this button, which stops it on this browser:
+    </p>
+    <p class="legal__switch">
+      <button type="button" id="analytics-toggle" class="legal__button">Turn analytics off</button>
+      <span id="analytics-state" role="status"></span>
+    </p>
+    <p>You can also block or delete cookies in your browser's settings.</p>
+
+    <h2 id="affiliate-links">Affiliate links</h2>
+    <p>
+      Links marked <strong>ad</strong> are affiliate links. If you book or buy
+      through one, the company pays us a commission, and the price you pay is
+      the same. Rankings and recommendations are never paid for: the
+      <a href="/how-we-rank/">how we rank</a> page explains how guides are
+      built.
+    </p>
+    <p>We are paid by:</p>
+    <ul>
+      <li><strong>Hotels.com</strong>, through CJ Affiliate, for hotel links</li>
+      <li><strong>GetYourGuide</strong>, for tours, tickets and the activity widgets</li>
+      <li><strong>London Box Office</strong>, through Awin, for theatre tickets</li>
+      <li><strong>Skiddle</strong>, for festival and gig tickets</li>
+      <li><strong>Nomad</strong> (through Impact), <strong>Saily</strong> and <strong>Klook</strong>, for eSIMs</li>
+    </ul>
+    <p>
+      When you follow an affiliate link, the company or network sets a cookie
+      on its own site so the sale can be credited to us. Their privacy policies
+      cover that. We add the name of the page the link was on, so we can see
+      which guides earn; nothing about you is passed on.
     </p>
 
-    <h2>Hosting and technical logs</h2>
+    <h2>Things other companies load</h2>
+    <ul>
+      <li>
+        <strong>GetYourGuide</strong> activity widgets load from
+        GetYourGuide's servers and are covered by its privacy policy.
+      </li>
+      <li>
+        <strong>Maps</strong> load map images from OpenStreetMap and the map
+        code from unpkg.com, which receive your IP address.
+      </li>
+      <li>
+        <strong>YouTube</strong> videos use YouTube's privacy-enhanced player and
+        load nothing from YouTube until you press play.
+      </li>
+    </ul>
     <p>
-      The hosting provider may process standard technical information, such as
-      IP addresses, browser details and request logs, to deliver and protect the
-      website. Its own privacy and retention terms apply to that processing.
+      Event listings on <a href="/whats-on/">What's On</a> come from venues' own
+      box offices, Ticketmaster and DICE. Following a ticket link takes you to
+      their site, where their privacy policies apply.
     </p>
 
-    <h2>Third-party content and links</h2>
+    <h2>Hosting</h2>
     <p>
-      Articles may link to transport providers, restaurants, booking services,
-      maps and other external websites. Their privacy policies apply after you
-      follow those links. YouTube videos use a click-to-load privacy-enhanced
-      player, so the player is not requested until you choose to play a video.
+      The site is hosted by <strong>Vercel</strong>, which processes standard
+      request logs, including IP addresses, to serve and protect the site.
     </p>
 
-    <h2>Future services</h2>
+    <h2>Your rights</h2>
     <p>
-      This notice must be updated before enabling analytics, personalised
-      advertising, newsletter subscriptions, comments or any other service that
-      collects personal information or stores cookies.
+      Under UK data protection law you can ask what data is held about you and
+      object to its use. Most of what the site collects is held by Google;
+      turning analytics off above stops any more being collected. If you are
+      unhappy with how your data is handled, you can complain to the
+      <a href="https://ico.org.uk/make-a-complaint/">Information Commissioner's Office</a>.
     </p>
 
     <p><a href="/">Return to the London Travel Geek homepage</a></p>
   </article>
 </BaseLayout>
+
+<script is:inline>
+  (function () {
+    var button = document.getElementById("analytics-toggle");
+    var state = document.getElementById("analytics-state");
+    function read() {
+      try { return localStorage.getItem("ltg-analytics") === "off"; } catch (e) { return false; }
+    }
+    function show() {
+      var off = read() || navigator.globalPrivacyControl === true;
+      button.textContent = off ? "Turn analytics back on" : "Turn analytics off";
+      button.hidden = navigator.globalPrivacyControl === true;
+      state.textContent = navigator.globalPrivacyControl === true
+        ? "Analytics is off: your browser sends Global Privacy Control."
+        : off ? "Analytics is off on this browser." : "Analytics is on.";
+    }
+    button.addEventListener("click", function () {
+      try {
+        if (read()) localStorage.removeItem("ltg-analytics");
+        else localStorage.setItem("ltg-analytics", "off");
+      } catch (e) {
+        state.textContent = "Your browser is blocking site storage, so this setting can't be saved. Block cookies in your browser instead.";
+        return;
+      }
+      show();
+    });
+    show();
+  })();
+</script>
 
 <style>
   .legal {
@@ -68,12 +153,41 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     font-size: clamp(1.55rem, 4vw, 2.25rem);
   }
 
-  .legal p {
+  .legal p,
+  .legal ul {
     margin-top: 1rem;
+  }
+
+  .legal li + li {
+    margin-top: 0.4rem;
   }
 
   .legal a {
     color: var(--accent);
     font-weight: 750;
+  }
+
+  .legal__switch {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 1rem;
+  }
+
+  .legal__button {
+    padding: 0.6rem 1.1rem;
+    border: 0;
+    border-radius: 999px;
+    background: var(--chrome);
+    color: var(--chrome-text);
+    font: inherit;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  .legal__button:hover,
+  .legal__button:focus-visible {
+    background: var(--accent);
+    color: var(--surface);
   }
 </style>

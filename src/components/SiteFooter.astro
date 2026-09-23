@@ -39,6 +39,12 @@ const topicLinks = site.navigation.map(({ label, href }) => ({ label, href }));
     </div>
     <div class="footer__base">
       <p>&copy; {year} {site.name}. Independent guides.</p>
+      {site.id === "london" && (
+        <p>
+          Links marked "ad" earn us a commission at no cost to you; rankings are
+          never paid for. <a href="/privacy/#affiliate-links">Affiliate links and privacy</a>.
+        </p>
+      )}
       <p>
         Details are checked regularly, but always confirm live travel
         information before setting out.
