@@ -355,14 +355,17 @@ const topicTiles = [
     <div class="container about__inner">
       <div class="about__header">
         <p class="eyebrow eyebrow--on-dark">About London Travel Geek</p>
-        <h2>Independent, no-nonsense London advice.</h2>
+        <h2>Independent London guides, checked against the source.</h2>
       </div>
       <div class="about__content">
         <p>
-          Navigating London shouldn't feel like a maths problem. We dig past the marketing fluff, test every route, and break down complex TfL fares, airport links, and neighbourhood choices into clear, practical advice.
+          Fares, opening hours, prices and booking rules come from the operators' own pages, and every guide shows when it was last updated. Ranked guides count how many independent sources name a place rather than giving our opinion: <a href="/how-we-rank/">how we rank</a>.
         </p>
         <p>
-          No sponsored rankings, no confusing jargon &mdash; just honest guidance to save you time and money.
+          <a href="/whats-on/">What's On</a> lists gigs, comedy, theatre and exhibitions, refreshed every morning from venues' box offices, Ticketmaster and DICE.
+        </p>
+        <p>
+          Links marked "ad" earn us a commission when you book; rankings are never paid for. Questions and corrections: <a href="mailto:robert@promptlybuilt.co.uk">robert@promptlybuilt.co.uk</a>.
         </p>
       </div>
     </div>
@@ -681,6 +684,13 @@ const topicTiles = [
     color: color-mix(in srgb, var(--chrome-text) 88%, transparent);
     font-size: 1.08rem;
     line-height: 1.7;
+  }
+
+  .about__content a {
+    color: var(--chrome-text);
+    font-weight: 650;
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
   }
 
   /* -------------------------------------------------------- categories --- */
