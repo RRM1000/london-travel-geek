@@ -5,6 +5,8 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 ## Voice
 
 - Don't waffle. In-depth analysis is good, but every sentence has to be on point. If the reader wouldn't miss a sentence, cut it.
+- Give the rule the reader has to follow, not the reasoning or law behind it. "You can drink in your seat: 18+, photo ID, four drinks at a time", not the 1985 Act and the 2005 designation order that explain why. The same goes for how a system works (why a game runs long, how a sale was staged): say what it means for the reader in one line.
+- Use a short bulleted list for a set of rules or conditions, not a paragraph that walks through them.
 - Factual and engaging. The facts are the interesting part; superlatives are what people write when they have not found any.
 - British English: colour, neighbourhood, queue, optimise.
 - Concrete beats evaluative. Describe the thing and let the reader conclude: "served inside a working car dealership on the Great North Road", not "exactly as strange as it sounds".
