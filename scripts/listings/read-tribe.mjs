@@ -67,7 +67,9 @@ async function readSite(site) {
     const category = categoryFor(venue.kind, genre, title);
     const startDay = e.start_date.slice(0, 10), endDay = e.end_date?.slice(0, 10) ?? startDay;
     const performances = perTitle.get(title);
-    if (isLongRun({ first: startDay, last: endDay, performances, category })) { skipped.longRun++; continue; }
+    // Long runs are kept but marked: they go to the Long Runs tab, not the page.
+    const longRun = isLongRun({ first: startDay, last: endDay, performances, category });
+    if (longRun) skipped.longRun++;
     if (isCinemaRun({ category, performances })) { skipped.cinema++; continue; }
     const values = (e.cost_details?.values ?? []).map(Number).filter((n) => !Number.isNaN(n));
     const [lo, hi] = values.length ? [Math.min(...values), Math.max(...values)] : priceRange(e.cost);
@@ -82,6 +84,7 @@ async function readSite(site) {
       note: startDay !== endDay ? "runs over several days" : "",
       url: e.url,
       source: "tribe",
+      longRun,
     }));
   }
   return { rows, skipped, site: o };

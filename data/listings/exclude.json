@@ -22,6 +22,13 @@
     "twist museum",
     "^frameless",
     "standard all day entry",
-    "general admission"
+    "general admission",
+    "standard (entry|admission|experience)",
+    "^the view from the shard",
+    "bear experience",
+    "^sea life",
+    "^madame tussauds",
+    "^london eye",
+    "^the london dungeon"
   ]
 }

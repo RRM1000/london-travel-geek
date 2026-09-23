@@ -2,13 +2,16 @@
 // Tickets that are not on sale yet, grouped by the day they go on sale.
 //
 // Built from the same listings as /whats-on/ and rebuilt with every daily
-// refresh, so the dates roll forward on their own. Only rows whose on-sale
-// date is still ahead are here: the Ticketmaster public on-sale date, or the
-// date a venue box office opens a performance for online booking.
-import Breadcrumbs from "../../components/Breadcrumbs.astro";
-import BaseLayout from "../../layouts/BaseLayout.astro";
+// refresh, so the dates roll forward on their own. A show is here only while
+// none of its dates are on sale yet (see notYetOnSale in
+// scripts/listings/export-site.mjs): a box office releasing a single held-back
+// performance on the day is not a show "going on sale".
+//
+// ARTICLE LAYOUT, like /whats-on/ and /stay/, for the hero and the sidebar.
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+import heroImage from "../../assets/articles/london-theatre-guide/tkts-booth-leicester-square.jpg";
 import listingsJson from "../../data/listings.json";
-import { itemHtml, longDate, firstRunDayOf, type Listings, type Row } from "../../lib/whats-on";
+import { itemHtml, firstRunDayOf, type Listings, type Row } from "../../lib/whats-on";
 import "../../styles/whats-on.css";
 
 const listings = listingsJson as unknown as Listings;
@@ -16,18 +19,16 @@ const buildDay = listings.generated;
 const updated = new Date(`${buildDay}T12:00:00Z`).toLocaleDateString("en-GB", {
   day: "numeric", month: "long", year: "numeric", timeZone: "Europe/London",
 });
-const breadcrumbs = [{ label: "Home", href: "/" }, { label: "What's on", href: "/whats-on/" }, { label: "Going on sale" }];
 
-// One row per show per on-sale day: a run of forty nights going on sale
+// One row per show per release day: a run of forty nights going on sale
 // together is one line here, with its first date, not forty.
-const seen = new Set<string>();
-const shows: { r: Row; runs: number }[] = [];
 const byShow = new Map<string, { r: Row; runs: number }>();
+const shows: { r: Row; runs: number }[] = [];
 for (const r of [...listings.rows].sort((a, b) => a[7].localeCompare(b[7]) || a[0].localeCompare(b[0]))) {
   if (!r[7] || r[7] <= buildDay) continue;
   const key = `${r[7]}|${r[4]}|${r[2].toLowerCase()}`;
-  if (seen.has(key)) { byShow.get(key)!.runs++; continue; }
-  seen.add(key);
+  const seen = byShow.get(key);
+  if (seen) { seen.runs++; continue; }
   const entry = { r, runs: 1 };
   byShow.set(key, entry);
   shows.push(entry);
@@ -39,38 +40,64 @@ for (const s of shows) {
   if (!groups.has(s.r[7])) groups.set(s.r[7], []);
   groups.get(s.r[7])!.push(s);
 }
-const html = [...groups].map(([day, list]) =>
-  `<h2 class="wo__day">On sale ${longDate(day)}</h2><ul class="wo__list">` +
-  list.map(({ r, runs }) => {
-    const row = itemHtml(r, { ...ctx, showDate: true, day: r[0] });
-    // The badge would only repeat the heading.
-    const clean = row.replace(/<span class="wo__badge wo__badge--soon">[^<]*<\/span>/, "");
-    return runs > 1 ? clean.replace('<p class="wo__where">', `<p class="wo__extra">${runs} dates from this one</p><p class="wo__where">`) : clean;
-  }).join("") + "</ul>",
-).join("");
+
+const dayParts = (iso: string) => {
+  const d = new Date(`${iso}T12:00:00Z`);
+  return {
+    dow: d.toLocaleDateString("en-GB", { weekday: "long", timeZone: "UTC" }),
+    date: d.toLocaleDateString("en-GB", { day: "numeric", month: "long", timeZone: "UTC" }),
+  };
+};
+
+const html = [...groups].map(([day, list]) => {
+  const { dow, date } = dayParts(day);
+  return `<h3 class="wo__day" id="on-${day}"><span class="wo__dow">On sale ${dow}</span><span class="wo__date">${date} · ${list.length} ${list.length === 1 ? "show" : "shows"}</span></h3><ul class="wo__list">` +
+    list.map(({ r, runs }) => {
+      const row = itemHtml(r, { ...ctx, showDate: true, day: r[0] });
+      // The badge would only repeat the heading.
+      const clean = row.replace(/<span class="wo__badge wo__badge--soon">[^<]*<\/span>/, "");
+      return runs > 1
+        ? clean.replace('<div class="wo__meta">', `<div class="wo__meta"><span class="wo__badge wo__badge--dates">${runs} dates</span>`)
+        : clean;
+    }).join("") + "</ul>";
+}).join("");
+
+const headings = [
+  { depth: 2, slug: "going-on-sale", text: "Going on sale" },
+  { depth: 2, slug: "presales", text: "Presales, and what they are" },
+];
 ---
 
-<BaseLayout
-  title="London tickets going on sale this week"
-  description="Gigs, comedy, theatre and sport in London that go on sale soon, grouped by the day tickets are released, with presale dates where there are any."
-  breadcrumbs={breadcrumbs}
+<ArticleLayout
+  title="Tickets Going On Sale in London"
+  seoTitle="London Tickets Going On Sale This Week"
+  description="Gigs, comedy, theatre and sport in London whose tickets aren't on sale yet, grouped by the day they're released, with presale dates where there are any."
+  articleId="whats-on-on-sale"
+  category="Things to do"
+  tags={["what's on", "tickets", "on sale", "presales", "gigs", "theatre"]}
+  publishedAt={new Date("2026-09-22")}
+  updatedAt={new Date(`${buildDay}T12:00:00Z`)}
+  heroImage={heroImage}
+  heroImageAlt="The official London theatre ticket booth in Leicester Square, a clock tower on its roof and a lit canopy, with people queuing at the window"
+  headings={headings}
 >
-  <section class="wo container">
-    <Breadcrumbs items={breadcrumbs} />
-    <header class="wo__head">
-      <p class="eyebrow">What's on</p>
-      <h1>Tickets going on sale soon</h1>
-      <p class="wo__lede">
-        Shows in London whose tickets are not on sale yet, grouped by the day they are released.
-        Presale dates, where there are any, are under the show.
-      </p>
-      <p class="wo__fresh">
-        <em>Updated {updated}. Everything already on sale is on the <a href="/whats-on/">What's On page</a>.</em>
-      </p>
-    </header>
+  <div class="wo">
+    <p class="wo-intro">
+      Shows whose tickets aren't on sale yet, grouped by the day they're released. Each one shows its
+      first performance; where there is a presale, its date is under the show.
+      <em class="wo-intro__fresh">Updated {updated}. Everything already on sale is on the <a href="/whats-on/">What's On page</a>.</em>
+    </p>
 
+    <h2 id="going-on-sale">Going on sale</h2>
     {shows.length
       ? <div class="wo__results" set:html={html} />
       : <p class="wo__status">Nothing is waiting to go on sale in the listings right now. Everything we list is on the <a href="/whats-on/">What's On page</a>.</p>}
-  </section>
-</BaseLayout>
+
+    <h2 id="presales">Presales, and what they are</h2>
+    <p>
+      A presale is a window before the general sale when tickets go to a smaller group: a venue's
+      members, the artist's mailing list, or customers of a partner such as O2. The names under a show
+      are the ones Ticketmaster lists for it, and the booking page says who each one is open to.
+    </p>
+  </div>
+</ArticleLayout>

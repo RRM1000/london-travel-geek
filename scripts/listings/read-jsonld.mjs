@@ -95,7 +95,8 @@ async function readVenue(v) {
     const category = categoryFor(v.kind, genre, title, plain(e.description).slice(0, 200));
     const end = localIso(e.endDate).slice(0, 10) || start.slice(0, 10);
     const performances = perTitle.get(title);
-    if (isLongRun({ first: start.slice(0, 10), last: end, performances, category })) continue;
+    // Long runs are kept but marked: they go to the Long Runs tab, not the page.
+    const longRun = isLongRun({ first: start.slice(0, 10), last: end, performances, category });
     if (isCinemaRun({ category, performances })) continue;
     const o = offerFacts(e.offers);
     const multi = end !== start.slice(0, 10);
@@ -110,6 +111,7 @@ async function readVenue(v) {
       note: multi ? "runs over several days" : "",
       url: e.url || o.url || p.eventsUrl || v.website,
       source: "jsonld",
+      longRun,
     }));
   }
   return rows;

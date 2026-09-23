@@ -33,12 +33,41 @@ const venueById = new Map(venues.map((v) => [v.id, v]));
 const WHOLE_RUN = new Set(["timed entry", "runs over several days"]);
 all = all.filter((l) => (WHOLE_RUN.has(l.note) && l.runLast ? l.runLast : l.start.slice(0, 10)) >= TODAY);
 
-// Hand-kept list of open-ended shows and permanent attractions.
+// Long runs leave the listings but are kept: a reader flagged them (open-ended,
+// or twelve weeks and more at four shows a week), or they are in the hand-kept
+// list of open-ended shows in exclude.json. They go to the Long Runs tab and
+// data/listings/long-runs.json, one row per show, for the theatre guide and
+// London Theatre Geek. Permanent attractions in exclude.json are dropped.
 const EX = JSON.parse(fs.readFileSync("data/listings/exclude.json", "utf8"));
-const exclude = [...EX.openEndedShows, ...EX.attractions].map((p) => new RegExp(p, "i"));
+const openEnded = EX.openEndedShows.map((p) => new RegExp(p, "i"));
+const attractions = EX.attractions.map((p) => new RegExp(p, "i"));
 const before = all.length;
-all = all.filter((l) => !exclude.some((re) => re.test(l.title)));
-console.log(`${before - all.length} rows dropped by data/listings/exclude.json`);
+all = all.filter((l) => !attractions.some((re) => re.test(l.title)));
+const isLong = (l) => l.longRun || openEnded.some((re) => re.test(l.title));
+const longRunRows = all.filter(isLong);
+all = all.filter((l) => !isLong(l));
+console.log(`${longRunRows.length} long-run performances set aside, ${before - all.length - longRunRows.length} attraction rows dropped`);
+
+const longRuns = new Map();
+for (const l of longRunRows) {
+  const k = `${l.venue}|${l.title.toLowerCase()}`;
+  const date = l.start.slice(0, 10);
+  const s = longRuns.get(k) ?? {
+    title: l.title, venue: l.venue, zone: l.zone || venueById.get(l.venueId)?.zone || "",
+    station: l.station || venueById.get(l.venueId)?.station || "", category: l.category,
+    first: date, last: date, performances: 0, priceFrom: "", priceTo: "", onSale: l.onSale,
+    link: l.url, source: l.source,
+  };
+  s.performances++;
+  if (date < s.first) s.first = date;
+  if (date > s.last) s.last = date;
+  if (l.priceFrom !== "" && (s.priceFrom === "" || +l.priceFrom < +s.priceFrom)) s.priceFrom = +l.priceFrom;
+  if (l.priceTo !== "" && (s.priceTo === "" || +l.priceTo > +s.priceTo)) s.priceTo = +l.priceTo;
+  longRuns.set(k, s);
+}
+const longRunList = [...longRuns.values()].sort((a, b) => a.title.localeCompare(b.title));
+fs.writeFileSync("data/listings/long-runs.json", JSON.stringify({ generated: TODAY, shows: longRunList }, null, 1) + "\n");
+console.log(`${longRunList.length} long-running shows written to data/listings/long-runs.json`);
 
 // Sources title the same show differently ("Much Ado About Nothing" and
 // "Shakespeare's Globe - Much Ado About Nothing"), so at one venue and start
@@ -132,13 +161,17 @@ if (!fs.existsSync(KEY_PATH)) {
 
 await writeTab(LISTINGS_TAB, HEADER, rows);
 await writeTab(VENUES_TAB, VENUE_HEADER, venueRows);
+const LONG_TAB = "Long Runs";
+const LONG_HEADER = ["Title", "Venue", "Zone", "Station", "Category", "First Date Listed", "Last Date Listed", "Performances Listed", "Price From", "Price To", "On Sale", "Link", "Source"];
+const longRows = longRunList.map((x) => [x.title, x.venue, x.zone, x.station, x.category, x.first, x.last, x.performances, x.priceFrom, x.priceTo, x.onSale, x.link, x.source]);
+await writeTab(LONG_TAB, LONG_HEADER, longRows);
 
 // Freeze the header and switch on the filter so the tab can be sorted and
 // filtered straight away.
 const sheets = await getSheets();
 const meta = await sheets.spreadsheets.get({ spreadsheetId: SHEET_ID });
 const requests = [];
-for (const [tab, width, n] of [[LISTINGS_TAB, HEADER.length, rows.length], [VENUES_TAB, VENUE_HEADER.length, venueRows.length]]) {
+for (const [tab, width, n] of [[LISTINGS_TAB, HEADER.length, rows.length], [VENUES_TAB, VENUE_HEADER.length, venueRows.length], [LONG_TAB, LONG_HEADER.length, longRows.length]]) {
   const sheetId = meta.data.sheets.find((s) => s.properties.title === tab).properties.sheetId;
   requests.push(
     { updateSheetProperties: { properties: { sheetId, gridProperties: { frozenRowCount: 1 } }, fields: "gridProperties.frozenRowCount" } },
@@ -147,4 +180,4 @@ for (const [tab, width, n] of [[LISTINGS_TAB, HEADER.length, rows.length], [VENU
   );
 }
 await sheets.spreadsheets.batchUpdate({ spreadsheetId: SHEET_ID, requestBody: { requests } });
-console.log(`wrote ${LISTINGS_TAB} and ${VENUES_TAB}`);
+console.log(`wrote ${LISTINGS_TAB}, ${VENUES_TAB} and ${LONG_TAB}`);

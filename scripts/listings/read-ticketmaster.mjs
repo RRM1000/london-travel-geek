@@ -122,7 +122,9 @@ for (const x of placed) {
   const kind = venue?.kind ?? "";
   const category = /^Sports/.test(genre) ? "sport" : categoryFor(kind, genre.replace(/^(Music|Arts & Theatre|Miscellaneous), ?/, "") || genre, e.name);
   const dates = runs.get(runKey(x)).sort();
-  if (isLongRun({ first: dates[0], last: dates.at(-1), performances: dates.length, category })) { skipped.longRun++; continue; }
+  // Long runs are kept but marked: they go to the Long Runs tab, not the page.
+  const longRun = isLongRun({ first: dates[0], last: dates.at(-1), performances: dates.length, category });
+  if (longRun) skipped.longRun++;
   if (isCinemaRun({ category, performances: dates.length })) { skipped.cinema++; continue; }
 
   const date = e.dates?.start?.localDate;
@@ -149,6 +151,7 @@ for (const x of placed) {
     note: presales.length ? `Presale: ${presales.join("; ")}` : "",
     url: e.url,
     source: "ticketmaster",
+    longRun,
   }));
 }
 

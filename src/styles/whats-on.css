@@ -1,114 +1,391 @@
-/* Event listings: the What's On page, the on-sale page, venue pages and the
-   area-guide strips. Global because rows are also written in the browser with
-   innerHTML, which never gets Astro's scoping attribute. Every selector is
-   prefixed .wo so nothing leaks. */
-  .wo { padding-block: var(--space-6, 3rem); }
-  .wo__head { max-width: 46rem; margin-block-end: 1.5rem; }
-  .wo__head h1 { margin: 0.2rem 0 0.6rem; text-wrap: balance; }
-  .wo__lede { font-size: 1.08rem; margin: 0 0 0.5rem; }
-  .wo__fresh { color: var(--muted); font-size: 0.92rem; margin: 0; }
+/* Event listings: the What's On page, the on-sale page, venue guides, the
+   Christmas guide and the area-guide strips.
 
-  .wo__controls {
-    display: grid; gap: 1rem;
-    padding: 1.1rem; margin-block-end: 1.25rem;
-    border: 1px solid var(--line); border-radius: 10px;
-    background: var(--surface);
-  }
-  .wo__search { display: grid; gap: 0.35rem; }
-  .wo__search label, .wo__group legend, .wo__row > label {
-    font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);
-  }
-  .wo__search input {
-    min-height: 2.75rem; padding: 0.6rem 0.9rem; font: inherit; font-size: 1rem;
-    border: 1px solid var(--line); border-radius: 999px; background: var(--bg, transparent); color: var(--ink);
-  }
-  .wo__group { border: 0; margin: 0; padding: 0; display: grid; gap: 0.5rem; }
-  .wo__chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-  .wo__chips button {
-    padding: 0.35rem 0.75rem; font: inherit; font-size: 0.86rem; cursor: pointer;
-    border: 1px solid var(--line); border-radius: 999px; background: transparent; color: inherit;
-  }
-  .wo__chips button:disabled { opacity: 0.4; cursor: default; }
-  .wo__chips button.is-on {
-    border-color: var(--accent); color: var(--accent); font-weight: 650;
-    background: color-mix(in srgb, var(--accent) 10%, transparent);
-  }
-  .wo__n { color: var(--muted); font-weight: 400; font-variant-numeric: tabular-nums; }
-  .wo__chips button.is-on .wo__n { color: inherit; }
-  .wo__dates { display: flex; flex-wrap: wrap; gap: 0.75rem; font-size: 0.86rem; color: var(--muted); }
-  .wo__dates input, .wo__row select {
-    margin-inline-start: 0.35rem; padding: 0.3rem 0.5rem; font: inherit; font-size: 0.9rem;
-    border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--ink);
-  }
-  .wo__row { display: flex; flex-wrap: wrap; gap: 0.75rem 1.25rem; align-items: center; }
-  .wo__row > label { display: grid; gap: 0.3rem; }
-  .wo__row select { margin: 0; text-transform: none; letter-spacing: 0; font-weight: 400; color: var(--ink); }
-  .wo__toggles label { display: flex; align-items: center; gap: 0.4rem; font-size: 0.9rem; text-transform: none; letter-spacing: 0; font-weight: 400; color: var(--ink); }
-  .wo__reset {
-    margin-inline-start: auto; padding: 0.3rem 0.7rem; font: inherit; font-size: 0.86rem; cursor: pointer;
-    border: 0; background: transparent; color: var(--accent); text-decoration: underline;
-  }
+   Global because rows are also written in the browser with innerHTML, which
+   never gets Astro's scoping attribute. Everything is prefixed .wo or
+   .wo__results so nothing leaks. Row selectors start "html body .wo__results"
+   on purpose: inside an article, ArticleLayout styles every ul, li, a, p and
+   heading in .article__body at specificity (0,2,1), and a listing has to beat
+   that without !important.
 
-  .wo__status { color: var(--muted); margin-block: 0.75rem; font-variant-numeric: tabular-nums; }
-  .wo__day {
-    position: sticky; top: 0; z-index: 1;
-    margin: 1.5rem 0 0; padding: 0.5rem 0;
-    font-size: 1.05rem; background: var(--bg); border-block-end: 2px solid var(--ink);
-  }
-  .wo__list { list-style: none; margin: 0; padding: 0; }
-  .wo__item {
-    display: grid; grid-template-columns: 4.5rem minmax(0, 1fr) auto; gap: 0.3rem 1rem;
-    padding-block: 0.8rem; border-block-end: 1px solid var(--line); align-items: start;
-  }
-  .wo__time { font-variant-numeric: tabular-nums; font-weight: 650; font-size: 0.92rem; padding-top: 0.1rem; }
-  .wo__time b { display: block; font-weight: 700; }
-  .wo__title { font-weight: 650; font-size: 1.02rem; text-decoration: none; }
-  a.wo__title { color: inherit; }
-  a.wo__title:hover { text-decoration: underline; color: var(--accent); }
-  .wo__where, .wo__extra { margin: 0.15rem 0 0; font-size: 0.88rem; color: var(--muted); }
-  .wo__zone {
-    margin-inline-start: 0.25rem; padding: 0 0.35rem; font-size: 0.72rem; white-space: nowrap;
-    border: 1px solid var(--line); border-radius: 3px;
-  }
-  .wo__side { display: flex; flex-wrap: wrap; justify-content: flex-end; align-items: center; gap: 0.35rem 0.5rem; max-width: 22rem; }
-  .wo__cat { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
-  .wo__badge { padding: 0.05rem 0.45rem; font-size: 0.74rem; font-weight: 700; border-radius: 3px; white-space: nowrap; }
-  .wo__badge--sold { background: color-mix(in srgb, var(--ink) 12%, transparent); color: var(--ink); }
-  .wo__badge--few { background: color-mix(in srgb, #d97706 18%, transparent); color: color-mix(in srgb, #d97706 70%, var(--ink)); }
-  .wo__badge--soon { background: color-mix(in srgb, var(--accent) 14%, transparent); color: var(--accent); }
-  .wo__badge--new { background: color-mix(in srgb, #15803d 16%, transparent); color: color-mix(in srgb, #15803d 75%, var(--ink)); }
-  .wo__price { font-variant-numeric: tabular-nums; font-weight: 650; min-width: 3.5rem; text-align: right; }
-  .wo__go {
-    padding: 0.3rem 0.7rem; font-size: 0.84rem; font-weight: 650; white-space: nowrap; text-decoration: none;
-    border: 1px solid var(--accent); border-radius: 999px; color: var(--accent);
-  }
-  .wo__go:hover { background: var(--accent); color: var(--accent-contrast); }
+   The look follows the site's Blue Hour identity: the filter panel is the
+   navy chrome with amber for what is switched on (amber only ever sits on
+   dark ground), and each listing is a white ticket on paper, its time on a
+   stub torn off by a perforated line. */
 
-  .wo__more {
-    display: block; margin: 1.5rem auto 0; padding: 0.6rem 1.4rem; font: inherit; font-weight: 700; cursor: pointer;
-    border: 1px solid var(--accent); border-radius: 999px; background: var(--accent); color: var(--accent-contrast);
+/* ---- category colours: a dot, never a fill -------------------------------- */
+.wo__results, .wo, .wo-picks {
+  --cat-music: #6d4bc4;
+  --cat-comedy: #c77d05;
+  --cat-theatre: #d6392f;
+  --cat-classical: #1d4e89;
+  --cat-club: #b0307a;
+  --cat-dance: #d2602b;
+  --cat-opera: #8a2f4d;
+  --cat-exhibition: #2f7a52;
+  --cat-talk: #5a6a7d;
+  --cat-family: #e08a1e;
+  --cat-sport: #0f7a6b;
+  --cat-film: #3a3f4a;
+  --cat-festival: #a88a00;
+  --cat-other: #9aa3ad;
+}
+
+/* ---- the page intro -------------------------------------------------------- */
+.wo-intro { margin-block-end: 1.5rem; }
+.wo-intro__fresh { color: var(--muted); font-size: 0.92rem; }
+
+/* ---- quick picks: four ways in -------------------------------------------- */
+.wo-picks {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.6rem;
+  margin: 0 0 1.25rem;
+  padding: 0;
+  list-style: none;
+}
+html body .wo-picks li { margin: 0; padding: 0; }
+html body .wo-picks li::marker { content: ""; }
+html body .wo-picks a,
+html body .wo-picks button {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  width: 100%;
+  height: 100%;
+  padding: 0.8rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: border-color 0.15s, transform 0.15s;
+}
+html body .wo-picks a:hover,
+html body .wo-picks button:hover { border-color: var(--accent); transform: translateY(-1px); }
+.wo-picks__label { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.wo-picks__count { font-family: var(--display); font-size: 1.6rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.wo-picks__sub { font-size: 0.8rem; color: var(--muted); }
+
+/* ---- the filter panel: the navy marquee ----------------------------------- */
+.wo__controls {
+  display: grid;
+  gap: 1rem;
+  margin-block: 0 1.5rem;
+  padding: 1.15rem 1.2rem 1.2rem;
+  border-radius: var(--card-radius, 1rem);
+  background: var(--chrome);
+  color: var(--chrome-text);
+  box-shadow: var(--shadow-md);
+}
+.wo__controls legend,
+.wo__search label,
+.wo__row > label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--chrome-muted);
+}
+.wo__search { display: grid; gap: 0.4rem; }
+.wo__search input {
+  min-height: 2.9rem;
+  padding: 0.6rem 1rem 0.6rem 2.6rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  background: var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='none' stroke='%235a6a7d' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='8' cy='8' r='6'/%3E%3Cpath d='m13 13 4 4'/%3E%3C/svg%3E") no-repeat 1rem 50%;
+  color: var(--ink);
+  font: inherit;
+  font-size: 1rem;
+}
+.wo__search input:focus-visible { outline: 3px solid var(--highlight); outline-offset: 2px; }
+.wo__group { border: 0; margin: 0; padding: 0; display: grid; gap: 0.5rem; min-width: 0; }
+.wo__chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.wo__chips button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.38rem 0.8rem;
+  border: 1px solid rgb(255 255 255 / 0.18);
+  border-radius: 999px;
+  background: rgb(255 255 255 / 0.06);
+  color: var(--chrome-text);
+  font: inherit;
+  font-size: 0.86rem;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.wo__chips button:hover { border-color: rgb(255 255 255 / 0.45); }
+.wo__chips button:focus-visible { outline: 2px solid var(--highlight); outline-offset: 2px; }
+.wo__chips button:disabled { opacity: 0.35; cursor: default; }
+.wo__chips button.is-on {
+  border-color: var(--highlight);
+  background: var(--highlight);
+  color: var(--chrome);
+  font-weight: 700;
+}
+.wo__chips [data-cat]::before {
+  content: "";
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--dot, var(--cat-other));
+  box-shadow: 0 0 0 1.5px rgb(255 255 255 / 0.35);
+}
+.wo__n { color: var(--chrome-muted); font-weight: 400; font-variant-numeric: tabular-nums; font-size: 0.8rem; }
+.wo__chips button.is-on .wo__n { color: inherit; opacity: 0.75; }
+.wo__dates { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; font-size: 0.86rem; color: var(--chrome-muted); }
+.wo__dates input, .wo__row select {
+  margin-inline-start: 0.35rem;
+  padding: 0.35rem 0.55rem;
+  border: 1px solid rgb(255 255 255 / 0.2);
+  border-radius: 0.5rem;
+  background: var(--chrome-soft);
+  color: var(--chrome-text);
+  font: inherit;
+  font-size: 0.9rem;
+  color-scheme: dark;
+}
+.wo__row { display: flex; flex-wrap: wrap; gap: 0.75rem 1.25rem; align-items: end; }
+.wo__row > label { display: grid; gap: 0.35rem; }
+.wo__row select { margin: 0; text-transform: none; letter-spacing: 0; font-weight: 400; min-width: 10rem; }
+/* The on/off filters sit on their own line under a hairline, styled as the
+   same pills as the chips above. The doubled class beats ".wo__row > label",
+   which would otherwise set them in small uppercase like a field label. */
+.wo__row.wo__toggles {
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgb(255 255 255 / 0.12);
+}
+.wo__row.wo__toggles > label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.38rem 0.8rem;
+  border: 1px solid rgb(255 255 255 / 0.18);
+  border-radius: 999px;
+  background: rgb(255 255 255 / 0.06);
+  color: var(--chrome-text);
+  font-size: 0.86rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.wo__row.wo__toggles > label:hover { border-color: rgb(255 255 255 / 0.45); }
+.wo__row.wo__toggles > label:has(input:checked) {
+  border-color: var(--highlight);
+  background: var(--highlight);
+  color: var(--chrome);
+  font-weight: 700;
+}
+.wo__row.wo__toggles > label:has(input:focus-visible) { outline: 2px solid var(--highlight); outline-offset: 2px; }
+.wo__row.wo__toggles > label[hidden] { display: none; }
+.wo__toggles input { accent-color: var(--chrome); width: 0.95rem; height: 0.95rem; margin: 0; }
+.wo__reset {
+  margin-inline-start: auto;
+  padding: 0.3rem 0.2rem;
+  border: 0;
+  background: transparent;
+  color: var(--highlight);
+  font: inherit;
+  font-size: 0.86rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+.wo__extra-filters { display: grid; gap: 1rem; }
+.wo__extra-filters > summary { display: none; }
+
+.wo__status { margin-block: 0 0.5rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+/* ---- day headings --------------------------------------------------------- */
+html body .wo__results .wo__day {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin: 1.75rem 0 0.7rem;
+  padding: 0 0 0.45rem;
+  border-bottom: 2px solid var(--ink);
+  font-family: var(--display);
+  font-size: 1.3rem;
+  line-height: 1.2;
+  scroll-margin-top: 5rem;
+}
+html body .wo__results .wo__day:first-child { margin-top: 0.5rem; }
+.wo__dow { font-weight: 650; }
+.wo__date { font-family: var(--body); font-size: 0.95rem; font-weight: 500; color: var(--muted); }
+
+/* ---- the ticket ------------------------------------------------------------ */
+html body .wo__results ul.wo__list {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+html body .wo__results li.wo__item {
+  display: grid;
+  grid-template-columns: 5.25rem minmax(0, 1fr) auto;
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: var(--surface);
+  box-shadow: var(--shadow-sm);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+html body .wo__results li.wo__item::marker { content: ""; }
+html body .wo__results li.wo__item:hover { border-color: var(--line-strong); box-shadow: var(--shadow-md); }
+
+/* The stub: time on its own, torn off by a dashed perforation. */
+.wo__stub {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.1rem;
+  padding: 0.75rem 0.4rem;
+  border-right: 2px dashed var(--line-strong);
+  background: var(--surface-strong);
+  border-radius: 0.75rem 0 0 0.75rem;
+  text-align: center;
+}
+.wo__stub-time { font-family: var(--display); font-size: 1.15rem; font-weight: 650; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.wo__stub-label { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); }
+
+.wo__body { min-width: 0; padding: 0.75rem 0.9rem; display: grid; gap: 0.25rem; align-content: center; }
+html body .wo__results a.wo__title,
+html body .wo__results span.wo__title {
+  font-family: var(--display);
+  font-size: 1.08rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: var(--ink);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+html body .wo__results a.wo__title:hover { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+html body .wo__results p.wo__where,
+html body .wo__results p.wo__extra { margin: 0; font-size: 0.87rem; line-height: 1.4; color: var(--muted); }
+html body .wo__results p.wo__extra { font-size: 0.8rem; }
+.wo__zone {
+  display: inline-block;
+  margin-inline-start: 0.3rem;
+  padding: 0 0.4rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 0.7rem;
+  white-space: nowrap;
+  vertical-align: 1px;
+}
+.wo__meta { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.5rem; margin-top: 0.15rem; }
+.wo__cat {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.wo__cat::before { content: ""; width: 0.5rem; height: 0.5rem; border-radius: 50%; background: var(--dot, var(--cat-other)); }
+.wo__badge { padding: 0.1rem 0.5rem; border-radius: 999px; font-size: 0.72rem; font-weight: 700; white-space: nowrap; }
+.wo__badge--sold { background: var(--ink); color: var(--surface); }
+.wo__badge--few { background: #fdecc8; color: #7a4a00; }
+.wo__badge--soon { background: color-mix(in srgb, var(--accent) 12%, transparent); color: var(--accent-deep); }
+.wo__badge--new { background: #dcf1e3; color: #1d5e37; }
+.wo__badge--dates { background: var(--surface-strong); color: var(--ink-soft); }
+
+.wo__buy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 0.45rem;
+  padding: 0.75rem 0.9rem 0.75rem 0;
+}
+.wo__price { font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+html body .wo__results a.wo__go {
+  padding: 0.38rem 0.85rem;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--surface);
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.15s;
+}
+html body .wo__results a.wo__go:hover { background: var(--accent); color: var(--accent-contrast); }
+html body .wo__results a.wo__go:focus-visible,
+html body .wo__results a.wo__title:focus-visible { outline: 3px solid var(--highlight); outline-offset: 2px; }
+
+/* Category dots, shared by the chips and the rows. */
+[data-cat="music"] { --dot: var(--cat-music); }
+[data-cat="comedy"] { --dot: var(--cat-comedy); }
+[data-cat="theatre"] { --dot: var(--cat-theatre); }
+[data-cat="classical"] { --dot: var(--cat-classical); }
+[data-cat="club night"] { --dot: var(--cat-club); }
+[data-cat="dance"] { --dot: var(--cat-dance); }
+[data-cat="opera"] { --dot: var(--cat-opera); }
+[data-cat="exhibition"] { --dot: var(--cat-exhibition); }
+[data-cat="talk"] { --dot: var(--cat-talk); }
+[data-cat="family"] { --dot: var(--cat-family); }
+[data-cat="sport"] { --dot: var(--cat-sport); }
+[data-cat="film"] { --dot: var(--cat-film); }
+[data-cat="festival"] { --dot: var(--cat-festival); }
+
+.wo__more {
+  display: block;
+  margin: 1.5rem auto 0;
+  padding: 0.7rem 1.6rem;
+  border: 0;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--surface);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+.wo__more:hover { background: var(--accent); }
+
+/* Inside a guide, the listings sit in the text column. */
+.venue-listings { margin-block: 1rem 2rem; }
+html body .venue-listings .wo__day { font-size: 1.1rem; }
+
+/* ---- phones ---------------------------------------------------------------- */
+@media (max-width: 40rem) {
+  .wo-picks { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .wo__controls { padding: 1rem; gap: 0.85rem; border-radius: 0.75rem; }
+  .wo__chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 0.25rem; scrollbar-width: none; margin-inline: -0.25rem; padding-inline: 0.25rem; }
+  .wo__chips button { flex: none; }
+  .wo__extra-filters > summary { display: list-item; cursor: pointer; font-weight: 650; color: var(--highlight); }
+  .wo__extra-filters[open] > summary { margin-bottom: 0.4rem; }
+  .wo__reset { margin-inline-start: 0; }
+
+  html body .wo__results li.wo__item { grid-template-columns: 4.25rem minmax(0, 1fr); }
+  .wo__stub { grid-row: span 2; }
+  .wo__stub-time { font-size: 1rem; }
+  .wo__buy {
+    grid-column: 2;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.9rem 0.75rem;
   }
-  .wo__noscript { margin-block: 1.5rem; color: var(--muted); }
-  .wo__more-guides { margin-block-start: 3rem; padding-block-start: 1.25rem; border-block-start: 1px solid var(--line); }
-  .wo__more-guides h2 { font-size: 1.2rem; }
+}
 
-  .wo__extra { display: grid; gap: 1rem; }
-  .wo__extra[open] { gap: 1rem; }
-  .wo__extra > summary { display: none; }
-  .wo__extra > .wo__row + .wo__row { margin-top: 1rem; }
-
-  @media (max-width: 40rem) {
-    .wo__controls { padding: 0.9rem; gap: 0.8rem; }
-    .wo__chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 0.2rem; scrollbar-width: none; }
-    .wo__chips button { flex: none; }
-    .wo__extra > summary { display: list-item; cursor: pointer; font-weight: 650; color: var(--accent); }
-    .wo__extra[open] > summary { margin-bottom: 0.8rem; }
-    .wo__item { grid-template-columns: 3.6rem minmax(0, 1fr); }
-    .wo__side { grid-column: 2; justify-content: flex-start; max-width: none; }
-    .wo__price { text-align: left; min-width: 0; }
-    .wo__reset { margin-inline-start: 0; }
-  }
-
-  /* Inside an article the day headings sit in the text flow, not stuck to the top. */
-  .venue-listings .wo__day { position: static; font-size: 1rem; margin-top: 1.25rem; }
-  .venue-listings { margin-block: 1rem 2rem; }
+@media (prefers-reduced-motion: reduce) {
+  html body .wo-picks a, html body .wo-picks button, html body .wo__results li.wo__item { transition: none; }
+  html body .wo-picks a:hover, html body .wo-picks button:hover { transform: none; }
+}

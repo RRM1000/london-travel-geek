@@ -5,27 +5,30 @@
 // The rows come from scripts/listings/ (venue box offices, Ticketmaster, DICE)
 // via export-site.mjs into src/data/listings.json, served as
 // /whats-on/listings.json. Filtering happens in the browser: this is a static
-// site, so the query string cannot filter anything server-side.
+// site, so the query string cannot filter anything server-side. The first page
+// of listings is built into the HTML so search engines and readers without
+// JavaScript still see real events.
+//
+// ARTICLE LAYOUT, like /stay/: the hero, the contents sidebar and the related
+// guides come with it, so this reads as part of the site rather than a bolt-on.
 //
 // Long-running West End shows are left out by design (see
 // data/listings/exclude.json and isLongRun in scripts/listings/lib.mjs); the
 // theatre guide covers those.
-import Breadcrumbs from "../../components/Breadcrumbs.astro";
-import BaseLayout from "../../layouts/BaseLayout.astro";
 import { createHash } from "node:crypto";
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+import heroImage from "../../assets/articles/best-live-music-venues-london/royal-albert-hall.jpg";
 import listingsJson from "../../data/listings.json";
-import { LABEL, upcoming, listHtml, firstRunDayOf, type Listings } from "../../lib/whats-on";
+import { LABEL, addDays, upcoming, listHtml, firstRunDayOf, type Listings } from "../../lib/whats-on";
 import "../../styles/whats-on.css";
 
 const listings = listingsJson as unknown as Listings;
-
-const breadcrumbs = [{ label: "Home", href: "/" }, { label: "What's on" }];
-const updated = new Date(`${listings.generated}T12:00:00Z`).toLocaleDateString("en-GB", {
+const buildDay = listings.generated;
+const updated = new Date(`${buildDay}T12:00:00Z`).toLocaleDateString("en-GB", {
   day: "numeric", month: "long", year: "numeric", timeZone: "Europe/London",
 });
 // The file is cached for a year, so its URL must change whenever its contents
-// do. A hash of the contents does that; the date and count alone did not, and a
-// same-day fix to the links stayed invisible behind the cached copy.
+// do. A hash of the contents does that; the date and count alone did not.
 const stamp = createHash("sha1").update(JSON.stringify(listings)).digest("hex").slice(0, 10);
 const dataUrl = `/whats-on/listings.json?v=${stamp}`;
 
@@ -33,34 +36,58 @@ const dataUrl = `/whats-on/listings.json?v=${stamp}`;
 const CATEGORY_ORDER = ["music", "comedy", "theatre", "classical", "club night", "dance", "opera", "exhibition", "talk", "family", "sport", "film", "festival", "other"];
 const cats = CATEGORY_ORDER.filter((c) => listings.cats.includes(c));
 
-// The first page of listings is built into the HTML, so search engines and
-// readers without JavaScript see real events. The browser redraws it from the
-// full file as soon as the filters load.
-const buildDay = listings.generated;
 const PAGE = 150;
 const soonest = upcoming(listings.rows, buildDay);
-const initialHtml = listHtml(soonest.slice(0, PAGE), { data: listings, today: buildDay, firstRunDay: firstRunDayOf(listings) }, { sayToday: false });
+const initialHtml = listHtml(soonest.slice(0, PAGE), { data: listings, today: buildDay, firstRunDay: firstRunDayOf(listings) }, { headingTag: "h3", sayToday: false });
 const initialStatus = `${soonest.length.toLocaleString("en-GB")} events, showing the first ${PAGE}`;
+
+// Quick-pick counts as of the build; the browser recounts for the real today.
+const dow = new Date(`${buildDay}T12:00:00Z`).getUTCDay();
+const weekend: [string, string] = dow === 0 ? [buildDay, buildDay]
+  : [dow === 6 ? buildDay : addDays(buildDay, Math.max(0, 5 - dow)), addDays(buildDay, 7 - dow)];
+const countIn = (from: string, to: string) => upcoming(listings.rows, from, to).length;
+const picks = {
+  today: countIn(buildDay, buildDay),
+  tomorrow: countIn(addDays(buildDay, 1), addDays(buildDay, 1)),
+  weekend: countIn(...weekend),
+  onsale: new Set(listings.rows.filter((r) => r[7] && r[7] > buildDay).map((r) => `${r[4]}|${r[2]}`)).size,
+};
+
+const headings = [
+  { depth: 2, slug: "find-something", text: "Find something" },
+  { depth: 2, slug: "listings", text: "The listings" },
+  { depth: 2, slug: "plan-the-night", text: "Plan the night" },
+];
 ---
 
-<BaseLayout
-  title="What's on in London: gigs, comedy, theatre and more"
-  description="Search upcoming gigs, comedy, limited-run theatre, classical concerts, exhibitions, talks and sport across central London, with prices and on-sale dates."
-  breadcrumbs={breadcrumbs}
+<ArticleLayout
+  title="What's On in London"
+  seoTitle="What's On in London: Gigs, Comedy, Theatre and More"
+  description="Gigs, comedy, limited-run theatre, concerts, exhibitions, talks and sport across central London, with prices and the dates tickets go on sale."
+  articleId="whats-on"
+  category="Things to do"
+  tags={["what's on", "gigs", "comedy", "theatre", "concerts", "events"]}
+  publishedAt={new Date("2026-09-22")}
+  updatedAt={new Date(`${buildDay}T12:00:00Z`)}
+  heroImage={heroImage}
+  heroImageAlt="The Royal Albert Hall from high in the gallery before a concert, stage lights cutting through haze over the orchestra's empty chairs and the red tiers filling up"
+  headings={headings}
 >
-  <section class="wo container">
-    <Breadcrumbs items={breadcrumbs} />
-    <header class="wo__head">
-      <p class="eyebrow">What's on</p>
-      <h1>What's on in London</h1>
-      <p class="wo__lede">
-        Gigs, comedy, limited-run theatre, concerts, exhibitions, talks and sport in zones 1 and 2,
-        plus the big stadiums and arenas further out, with prices and on-sale dates.
-      </p>
-      <p class="wo__fresh">
-        <em>Updated {updated}. Long-running West End shows are left out; the <a href="/articles/london-theatre-guide/">theatre guide</a> covers those.</em>
-      </p>
-    </header>
+  <div class="wo">
+    <p class="wo-intro">
+      Everything on in zones 1 and 2, plus the stadiums and arenas further out, read every morning from
+      the venues' own box offices, Ticketmaster and DICE. <em class="wo-intro__fresh">Updated {updated}.
+      Long-running West End shows are left out; the <a href="/articles/london-theatre-guide/">theatre guide</a> covers those.</em>
+    </p>
+
+    <h2 id="find-something">Find something</h2>
+
+    <ul class="wo-picks" aria-label="Quick picks">
+      <li><button type="button" data-pick="today"><span class="wo-picks__label">Today</span><span class="wo-picks__count" data-count="today">{picks.today.toLocaleString("en-GB")}</span><span class="wo-picks__sub">events</span></button></li>
+      <li><button type="button" data-pick="tomorrow"><span class="wo-picks__label">Tomorrow</span><span class="wo-picks__count" data-count="tomorrow">{picks.tomorrow.toLocaleString("en-GB")}</span><span class="wo-picks__sub">events</span></button></li>
+      <li><button type="button" data-pick="weekend"><span class="wo-picks__label">This weekend</span><span class="wo-picks__count" data-count="weekend">{picks.weekend.toLocaleString("en-GB")}</span><span class="wo-picks__sub">events</span></button></li>
+      <li><a href="/whats-on/on-sale/"><span class="wo-picks__label">Going on sale</span><span class="wo-picks__count">{picks.onsale.toLocaleString("en-GB")}</span><span class="wo-picks__sub">shows, by release day</span></a></li>
+    </ul>
 
     <form class="wo__controls" id="wo-form" role="search" onsubmit="return false">
       <div class="wo__search">
@@ -72,6 +99,7 @@ const initialStatus = `${soonest.length.toLocaleString("en-GB")} events, showing
         <legend>When</legend>
         <div class="wo__chips" id="wo-when">
           <button type="button" data-when="today">Today</button>
+          <button type="button" data-when="tomorrow">Tomorrow</button>
           <button type="button" data-when="weekend">This weekend</button>
           <button type="button" data-when="7">Next 7 days</button>
           <button type="button" data-when="30">Next 30 days</button>
@@ -90,76 +118,73 @@ const initialStatus = `${soonest.length.toLocaleString("en-GB")} events, showing
         </div>
       </fieldset>
 
-      <details class="wo__extra" id="wo-extra" open>
-      <summary>More filters</summary>
-      <div class="wo__row">
-        <label>Where
-          <select id="wo-zone">
-            <option value="all">Anywhere</option>
-            <option value="1">Zone 1</option>
-            <option value="2">Zone 2</option>
-            <option value="out">Stadiums and arenas further out</option>
-          </select>
-        </label>
-        <label>Price
-          <select id="wo-max">
-            <option value="">Any price</option>
-            <option value="0">Free</option>
-            <option value="10">Up to £10</option>
-            <option value="20">Up to £20</option>
-            <option value="35">Up to £35</option>
-            <option value="50">Up to £50</option>
-            <option value="100">Up to £100</option>
-          </select>
-        </label>
-        <label>Sort
-          <select id="wo-sort">
-            <option value="date">Soonest first</option>
-            <option value="price">Cheapest first</option>
-            <option value="onsale">Going on sale soonest</option>
-            <option value="new">Newest added</option>
-          </select>
-        </label>
-      </div>
-
-      <div class="wo__row wo__toggles">
-        <label><input type="checkbox" id="wo-soon" /> Not on sale yet</label>
-        <label id="wo-new-wrap" hidden><input type="checkbox" id="wo-new" /> Added this week</label>
-        <label><input type="checkbox" id="wo-hidesold" /> Hide sold out</label>
-        <button type="button" class="wo__reset" id="wo-reset">Clear filters</button>
-      </div>
+      <details class="wo__extra-filters" id="wo-extra" open>
+        <summary>More filters</summary>
+        <div class="wo__row">
+          <label>Where
+            <select id="wo-zone">
+              <option value="all">Anywhere</option>
+              <option value="1">Zone 1</option>
+              <option value="2">Zone 2</option>
+              <option value="out">Stadiums and arenas further out</option>
+            </select>
+          </label>
+          <label>Price
+            <select id="wo-max">
+              <option value="">Any price</option>
+              <option value="0">Free</option>
+              <option value="10">Up to £10</option>
+              <option value="20">Up to £20</option>
+              <option value="35">Up to £35</option>
+              <option value="50">Up to £50</option>
+              <option value="100">Up to £100</option>
+            </select>
+          </label>
+          <label>Sort
+            <select id="wo-sort">
+              <option value="date">Soonest first</option>
+              <option value="price">Cheapest first</option>
+              <option value="onsale">Going on sale soonest</option>
+              <option value="new">Newest added</option>
+            </select>
+          </label>
+        </div>
+        <div class="wo__row wo__toggles">
+          <label><input type="checkbox" id="wo-soon" /> Not on sale yet</label>
+          <label id="wo-new-wrap" hidden><input type="checkbox" id="wo-new" /> Added this week</label>
+          <label><input type="checkbox" id="wo-hidesold" /> Hide sold out</label>
+          <button type="button" class="wo__reset" id="wo-reset">Clear filters</button>
+        </div>
       </details>
     </form>
 
+    <h2 id="listings">The listings</h2>
     <p class="wo__status" id="wo-status" role="status" aria-live="polite">{initialStatus}</p>
     <div class="wo__results" id="wo-results" data-src={dataUrl} set:html={initialHtml}></div>
     <button type="button" class="wo__more" id="wo-more" hidden>Show more</button>
 
     <noscript>
-      <p class="wo__noscript">
-        The listings need JavaScript, because this site is served as static files and the searching
-        happens in your browser. The <a href="/articles/london-theatre-guide/">theatre guide</a>,
-        <a href="/articles/best-comedy-clubs-london/">comedy clubs</a> and
-        <a href="/articles/best-live-music-venues-london/">live music venues</a> work without it.
+      <p>
+        The filters need JavaScript, because this site is served as static files and the searching
+        happens in your browser. The listings above are the next {PAGE}.
       </p>
     </noscript>
 
-    <aside class="wo__more-guides">
-      <h2>Plan the night</h2>
-      <ul>
-        <li><a href="/whats-on/on-sale/">Tickets going on sale soon</a>, by the day they are released</li>
-        <li><a href="/articles/barbican-centre-guide/">What's on at the Barbican</a>: tickets, getting there and where to eat before a show</li>
-        <li><a href="/articles/london-theatre-guide/">London theatre guide</a>: the long-running shows, and how to get cheap tickets</li>
-        <li><a href="/articles/best-comedy-clubs-london/">Best comedy clubs in London</a></li>
-        <li><a href="/articles/best-live-music-venues-london/">Best live music venues in London</a></li>
-      </ul>
-    </aside>
-  </section>
-</BaseLayout>
+    <h2 id="plan-the-night">Plan the night</h2>
+    <ul>
+      <li><a href="/whats-on/on-sale/">Tickets going on sale soon</a>, by the day they are released</li>
+      <li><a href="/articles/christmas-shows-london/">Christmas shows and pantomimes</a>, with dates, prices and age guidance</li>
+      <li><a href="/articles/barbican-centre-guide/">What's on at the Barbican</a>: tickets, getting there and where to eat before a show</li>
+      <li><a href="/articles/london-theatre-guide/">London theatre guide</a>: the long-running shows, and how to get cheap tickets</li>
+      <li><a href="/articles/best-comedy-clubs-london/">Best comedy clubs in London</a></li>
+      <li><a href="/articles/best-live-music-venues-london/">Best live music venues in London</a></li>
+    </ul>
+  </div>
+</ArticleLayout>
 
 <script>
   import {
-    LABEL, addDays, byDate, firstRunDayOf, listHtml, londonDay, span,
+    LABEL, addDays, byDate, firstRunDayOf, listHtml, londonDay, span, upcoming,
     type Listings, type Placed,
   } from "../../lib/whats-on";
 
@@ -188,17 +213,19 @@ const initialStatus = `${soonest.length.toLocaleString("en-GB")} events, showing
   let searchText: string[] = [];
   const today = londonDay(new Date());
 
+  function weekendRange(): [string, string] {
+    const dow = new Date(`${today}T12:00:00Z`).getUTCDay(); // 0 Sun .. 6 Sat
+    if (dow === 0) return [today, today];
+    return [dow === 6 ? today : addDays(today, Math.max(0, 5 - dow)), addDays(today, 7 - dow)];
+  }
+
   function range(): [string, string] {
     if (from.value || to.value) return [from.value || today, to.value || "9999-12-31"];
     if (when === "today") return [today, today];
+    if (when === "tomorrow") { const t = addDays(today, 1); return [t, t]; }
     if (when === "7") return [today, addDays(today, 6)];
     if (when === "30") return [today, addDays(today, 29)];
-    if (when === "weekend") {
-      const dow = new Date(`${today}T12:00:00Z`).getUTCDay(); // 0 Sun .. 6 Sat
-      if (dow === 0) return [today, today];
-      const fri = addDays(today, Math.max(0, 5 - dow));
-      return [dow === 6 ? today : fri, addDays(today, 7 - dow)];
-    }
+    if (when === "weekend") return weekendRange();
     return [today, "9999-12-31"];
   }
 
@@ -244,8 +271,9 @@ const initialStatus = `${soonest.length.toLocaleString("en-GB")} events, showing
     for (const { r } of base) counts.set(r[3], (counts.get(r[3]) ?? 0) + 1);
     for (const btn of catChips.querySelectorAll<HTMLButtonElement>("button")) {
       const n = counts.get(data.cats.indexOf(btn.dataset.cat!)) ?? 0;
-      btn.querySelector(".wo__n")!.textContent = ` ${n.toLocaleString("en-GB")}`;
+      btn.querySelector(".wo__n")!.textContent = n.toLocaleString("en-GB");
       btn.classList.toggle("is-on", picked.has(btn.dataset.cat!));
+      btn.setAttribute("aria-pressed", String(picked.has(btn.dataset.cat!)));
       btn.disabled = n === 0 && !picked.has(btn.dataset.cat!);
     }
 
@@ -262,7 +290,7 @@ const initialStatus = `${soonest.length.toLocaleString("en-GB")} events, showing
       : "Nothing matches those filters. Try a wider date range or fewer categories.";
 
     // Day headings only make sense in date order.
-    results.innerHTML = listHtml(shown.slice(0, limit), { data, today, firstRunDay }, { grouped: s === "date" });
+    results.innerHTML = listHtml(shown.slice(0, limit), { data, today, firstRunDay }, { grouped: s === "date", headingTag: "h3" });
     more.hidden = shown.length <= limit;
     syncUrl();
   }
@@ -304,18 +332,30 @@ const initialStatus = `${soonest.length.toLocaleString("en-GB")} events, showing
   function markWhen() {
     const custom = Boolean(from.value || to.value);
     for (const b of whenChips.querySelectorAll<HTMLButtonElement>("button")) {
-      b.classList.toggle("is-on", !custom && b.dataset.when === when);
+      const on = !custom && b.dataset.when === when;
+      b.classList.toggle("is-on", on);
+      b.setAttribute("aria-pressed", String(on));
     }
+  }
+
+  function setWhen(w: string) {
+    when = w;
+    from.value = to.value = "";
+    markWhen();
+    render();
   }
 
   // --- wiring ---------------------------------------------------------------
   whenChips.addEventListener("click", (e) => {
     const b = (e.target as HTMLElement).closest("button");
+    if (b) setWhen(b.dataset.when!);
+  });
+  // The quick picks set the date filter and bring the listings into view.
+  document.querySelector(".wo-picks")!.addEventListener("click", (e) => {
+    const b = (e.target as HTMLElement).closest<HTMLButtonElement>("button[data-pick]");
     if (!b) return;
-    when = b.dataset.when!;
-    from.value = to.value = "";
-    markWhen();
-    render();
+    setWhen(b.dataset.pick!);
+    document.getElementById("listings")!.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
   });
   catChips.addEventListener("click", (e) => {
     const b = (e.target as HTMLElement).closest("button");
@@ -348,6 +388,13 @@ const initialStatus = `${soonest.length.toLocaleString("en-GB")} events, showing
       data = d;
       searchText = d.rows.map((r) => norm(`${r[2]} ${d.venues[r[4]][0]} ${d.venues[r[4]][2]} ${LABEL[d.cats[r[3]]] ?? ""}`));
       firstRunDay = firstRunDayOf(d);
+      // Recount the quick picks for the reader's real today, not the build day.
+      const count = (lo: string, hi: string) => upcoming(d.rows, lo, hi).length.toLocaleString("en-GB");
+      const tomorrow = addDays(today, 1);
+      const set = (k: string, v: string) => { const el = document.querySelector(`[data-count="${k}"]`); if (el) el.textContent = v; };
+      set("today", count(today, today));
+      set("tomorrow", count(tomorrow, tomorrow));
+      set("weekend", count(...weekendRange()));
       // "Added this week" means nothing until a second refresh has added something.
       $("wo-new-wrap").hidden = !d.rows.some((r) => r[12] > firstRunDay);
       render();

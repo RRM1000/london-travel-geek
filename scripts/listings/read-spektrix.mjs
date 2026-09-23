@@ -144,9 +144,14 @@ async function readClient({ client, venue, eventsUrl }) {
     if (notAnEvent(title, genre)) { skipped.notEvent++; continue; }
     const category = categoryFor(venue.kind, genre, title);
     list.sort((a, b) => a.start.localeCompare(b.start));
-    const first = e.firstInstanceDateTime?.slice(0, 10) ?? list[0].start.slice(0, 10);
-    const last = e.lastInstanceDateTime?.slice(0, 10) ?? list.at(-1).start.slice(0, 10);
-    if (isLongRun({ first, last, performances: list.length, category })) { skipped.longRun++; continue; }
+    // The run is judged on the performances still to come. The event's own
+    // first/last dates include past ones, which made a one-off late in a
+    // long-lived event record look like a long run.
+    const first = list[0].start.slice(0, 10);
+    const last = list.at(-1).start.slice(0, 10);
+    // Long runs are kept but marked: they go to the Long Runs tab, not the page.
+    const longRun = isLongRun({ first, last, performances: list.length, category });
+    if (longRun) skipped.longRun++;
     if (isCinemaRun({ category, performances: list.length })) { skipped.cinema++; continue; }
     const link = links.find((l) => l.text === title.toLowerCase()) ?? links.find((l) => l.text.startsWith(title.toLowerCase()));
     // A timed-entry exhibition becomes a single row for the whole run.
@@ -174,6 +179,7 @@ async function readClient({ client, venue, eventsUrl }) {
         note: timed ? "timed entry" : typeof i.attribute_SpecialEvents === "string" ? i.attribute_SpecialEvents : "",
         url: link?.href ?? eventsUrl,
         source: "spektrix",
+        longRun,
       });
       if (timed) row.id = `spektrix:${client}:event:${eid}`;
       rows.push(row);

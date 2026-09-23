@@ -60,7 +60,7 @@ jobs:
         run: |
           git config user.name "listings-bot"
           git config user.email "listings-bot@users.noreply.github.com"
-          git add src/data/listings.json data/listings/platforms.json
+          git add src/data/listings.json data/listings/platforms.json data/listings/long-runs.json
           if git diff --cached --quiet; then
             echo "No change in the listings."
             exit 0

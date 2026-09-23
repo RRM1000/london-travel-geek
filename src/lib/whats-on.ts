@@ -74,28 +74,40 @@ function badges(r: Row, { today, firstRunDay }: Ctx) {
 export function itemHtml(r: Row, ctx: Ctx) {
   const { data } = ctx;
   const [venue, z, station] = data.venues[r[4]];
-  const time = r[9] ? `Until ${shortDate(span(r)[1])}` : r[1];
-  const date = ctx.showDate && ctx.day ? `<b>${shortDate(ctx.day)}</b> ` : "";
+  const cat = data.cats[r[3]];
+  const run = r[9] ? span(r) : null;
+  const stub = run
+    ? `<span class="wo__stub-label">Until</span><span class="wo__stub-time">${esc(shortDate(run[1]))}</span>`
+    : `${ctx.showDate && ctx.day ? `<span class="wo__stub-label">${esc(shortDate(ctx.day))}</span>` : ""}<span class="wo__stub-time">${esc(r[1] || "All day")}</span>`;
   const extra = [
     r[14] && `Presales: ${esc(r[14])}`,
     r[13] && `${esc(r[13][0].toUpperCase() + r[13].slice(1))} performance`,
   ].filter(Boolean).join(" · ");
-  const link = (cls: string, text: string) =>
-    `<a class="${cls}" href="${esc(r[10])}" target="_blank" rel="nofollow noopener">${esc(text)}</a>`;
+  const link = (cls: string, text: string, label = "") =>
+    `<a class="${cls}" href="${esc(r[10])}" target="_blank" rel="nofollow noopener"${label ? ` aria-label="${esc(label)}"` : ""}>${esc(text)}</a>`;
+  const price = priceText(r);
   return `<li class="wo__item">
-      <span class="wo__time">${date}${esc(time)}</span>
-      <div class="wo__main">
+      <div class="wo__stub">${stub}</div>
+      <div class="wo__body">
         ${r[10] ? link("wo__title", r[2]) : `<span class="wo__title">${esc(r[2])}</span>`}
-        <p class="wo__where">${esc(venue)}${station ? ` · ${esc(station)}` : ""}${z ? ` <span class="wo__zone">Zone ${esc(z)}</span>` : ""}</p>
+        <p class="wo__where">${esc(venue)}${station ? `<span class="wo__sep"> · </span>${esc(station)}` : ""}${z ? ` <span class="wo__zone">Zone ${esc(z)}</span>` : ""}</p>
+        <div class="wo__meta"><span class="wo__cat" data-cat="${esc(cat)}">${esc(LABEL[cat] ?? cat)}</span>${badges(r, ctx)}</div>
         ${extra ? `<p class="wo__extra">${extra}</p>` : ""}
       </div>
-      <div class="wo__side">
-        <span class="wo__cat">${esc(LABEL[data.cats[r[3]]] ?? data.cats[r[3]])}</span>
-        ${badges(r, ctx)}
-        <span class="wo__price">${priceText(r)}</span>
-        ${r[10] ? link("wo__go", r[11]) : ""}
+      <div class="wo__buy">
+        ${price ? `<span class="wo__price">${price}</span>` : ""}
+        ${r[10] ? link("wo__go", r[11], `${r[2]} on ${r[11]}`) : ""}
       </div>
     </li>`;
+}
+
+/** A day heading: the weekday picked out, then the date. */
+function dayHeading(day: string, ctx: Omit<Ctx, "day" | "showDate">, tag: string, sayToday: boolean) {
+  const d = new Date(`${day}T12:00:00Z`);
+  const dow = d.toLocaleDateString("en-GB", { weekday: "long", timeZone: "UTC" });
+  const date = d.toLocaleDateString("en-GB", { day: "numeric", month: "long", timeZone: "UTC" });
+  const isToday = sayToday && day === ctx.today;
+  return `<${tag} class="wo__day"><span class="wo__dow">${isToday ? "Today" : dow}</span><span class="wo__date">${isToday ? `${dow} ${date}` : date}</span></${tag}>`;
 }
 
 /** A list grouped under day headings (date order), or flat with the date in each row.
@@ -108,7 +120,7 @@ export function listHtml(items: Placed[], ctx: Omit<Ctx, "day" | "showDate">, { 
   for (const { r, day } of items) {
     if (day !== current) {
       if (current) html += "</ul>";
-      html += `<${headingTag} class="wo__day">${sayToday && day === ctx.today ? "Today" : longDate(day)}</${headingTag}><ul class="wo__list">`;
+      html += `${dayHeading(day, ctx, headingTag, sayToday)}<ul class="wo__list">`;
       current = day;
     }
     html += itemHtml(r, ctx);

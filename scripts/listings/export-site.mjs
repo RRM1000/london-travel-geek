@@ -7,11 +7,16 @@
 //   node scripts/listings/export-site.mjs
 //
 import fs from "node:fs";
+import { notAnEvent } from "./lib.mjs";
 
 const IN = "work/listings/merged.json";
 const OUT = "src/data/listings.json";
 
-const { generated, rows } = JSON.parse(fs.readFileSync(IN, "utf8"));
+// The non-event rules are re-applied here, so a rule added to lib.mjs takes
+// effect on the next export without waiting for every source to be re-read.
+const merged = JSON.parse(fs.readFileSync(IN, "utf8"));
+const { generated } = merged;
+const rows = merged.rows.filter((r) => !notAnEvent(r.title));
 const WHOLE_RUN = new Set(["timed entry", "runs over several days"]);
 // A row without its own link falls back to the venue's website.
 const website = new Map(JSON.parse(fs.readFileSync("data/listings/venues.json", "utf8")).venues.map((v) => [v.name, v.website]));
@@ -31,6 +36,16 @@ const idx = (list, map, key, make) => {
   return map.get(key);
 };
 
+// A show counts as "going on sale" only while none of its dates are on sale
+// yet. Box offices also hold back single performances and release them on the
+// day (the Royal Court does), and flagging those put shows that have been on
+// sale for months, some nights sold out, on the on-sale page.
+const showKey = (r) => `${r.venue}|${r.title.toLowerCase()}`;
+const alreadyOnSale = new Set(rows.filter((r) => r.onSale === "yes").map(showKey));
+const notYetOnSale = (r) =>
+  r.onSale === "no" && r.onSaleFrom > generated && r.onSaleFrom < r.date &&
+  r.availability !== "sold out" && !alreadyOnSale.has(showKey(r));
+
 const packed = rows.map((r) => [
   r.date,                                             // 0
   r.time,                                             // 1
@@ -39,9 +54,7 @@ const packed = rows.map((r) => [
   idx(venues, venueIdx, r.venue, () => [r.venue, r.zone, r.station]), // 4
   r.priceFrom === "" ? null : +r.priceFrom,           // 5
   r.priceTo === "" ? null : +r.priceTo,               // 6
-  // 7: the date tickets go on sale, only while that is still ahead. A box
-  // office that has stopped selling on the day is not "on sale soon".
-  r.onSale === "no" && r.onSaleFrom > generated ? r.onSaleFrom : "",
+  notYetOnSale(r) ? r.onSaleFrom : "",                // 7  the day tickets are released
   r.availability === "sold out" ? 2 : r.availability === "few left" ? 1 : 0, // 8
   // 9: only a whole run sold as one ticket (an exhibition) spans dates. A show
   // with forty nightly performances is forty rows, each with its own date.
