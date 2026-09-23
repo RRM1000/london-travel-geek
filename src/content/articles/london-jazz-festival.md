@@ -288,7 +288,7 @@ One concert is programmed as a **Relaxed Performance**: Cinna Peyghamy in the El
 4. **The weekend has the programme; the weekdays have the tickets.** Ten of the eleven sold-out shows are on a Friday or a weekend, and the only midweek casualty is Melody Gardot.
 5. **For a sold-out show, go back to the venue's page 48 hours before**, not to a resale site.
 
-[Best Time to Visit London](/articles/best-time-to-visit-london/) sets November's weather, crowds and hotel prices against the rest of the year, and the [live music venues guide](/articles/best-live-music-venues-london/) covers Ronnie Scott's, the 606, the Vortex and the Jazz Cafe on an ordinary week. [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) opens on 19 November, inside the festival's second half.
+[Best Time to Visit London](/articles/best-time-to-visit-london/) sets November's weather, crowds and hotel prices against the rest of the year, and the [live music venues guide](/articles/best-live-music-venues-london/) covers Ronnie Scott's, the 606, the Vortex and the Jazz Cafe on an ordinary week. [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) opens on 19 November, inside the festival's second half. For next summer, the [London music festivals guide](/articles/london-music-festivals-2027/) has the 2027 park festivals.
 
 ---
 
