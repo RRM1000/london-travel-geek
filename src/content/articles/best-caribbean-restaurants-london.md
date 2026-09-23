@@ -1,7 +1,7 @@
 ---
 title: "The Best Caribbean Restaurants in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Caribbean Restaurants in London 2026, Ranked"
-description: "Thirteen independent sources across 83 venues — and the reason a guide built only on magazines gets this subject wrong. Trinidadian, Jamaican, Guyanese and where each one actually is."
+description: "Thirteen independent sources across 82 venues — and the reason a guide built only on magazines gets this subject wrong. Trinidadian, Jamaican, Guyanese and where each one actually is."
 heroImage: "../../assets/articles/best-caribbean-restaurants-london/fish-wings-tings-hero.jpg"
 heroImageAlt: "The counter at Fish, Wings & Tings in Brixton Village, yellow and green signage above an open kitchen with two chefs working, and a chalkboard listing jerk chicken, rotis and cod fish fritters"
 publishedAt: 2026-09-08
@@ -124,21 +124,21 @@ Two sites, cosy and brightly coloured, built on **jerk chicken and rum cocktails
 
 Four sources name it and **only one is a masthead** — the rest are a food blog and two YouTube channels. That distribution is the entry: this is a place the community has been documenting while the magazines have not caught up.
 
-**It is a smoking drum in the middle of Gillett Square**, not a dining room - The Infatuation describes reggae and the cracking of tinnies as the permanent soundtrack, and the smoke off the drum as the smell of the place. **Jerk chicken** is what it does, there are no tables of its own, and it is walk-in only because there is nothing else it could be.
+**It is a smoking drum in the middle of Gillett Square**, not a dining room — The Infatuation describes reggae and the cracking of tinnies as the permanent soundtrack, and the smoke off the drum as the smell of the place. **Jerk chicken** is what it does, there are no tables of its own, and it is walk-in only because there is nothing else it could be.
 
 ### Maureen’s — a home kitchen run as a restaurant
 
 *£ · 52 Railton Road, Brixton, SE24 0LF · Cited by 3 sources*
 
-**Maureen runs her Brixton home kitchen as a Jamaican restaurant**, and it is a takeaway operation rather than a room with tables - which is the single thing to know before walking down Railton Road expecting to sit.
+**Maureen runs her Brixton home kitchen as a Jamaican restaurant**, and it is a takeaway operation rather than a room with tables — which is the single thing to know before walking down Railton Road expecting to sit.
 
-The fried chicken is what people write about: golden, jagged, and seasoned in a way none of the sources will commit to explaining. Drumsticks and thighs, stripped to the bone. **Walk-in and takeaway only** - there is no dining room, so plan to eat it somewhere else.
+The fried chicken is what people write about: golden, jagged, and seasoned in a way none of the sources will commit to explaining. Drumsticks and thighs, stripped to the bone. **Walk-in and takeaway only** — there is no dining room, so plan to eat it somewhere else.
 
 ### Roti Joupa — Trinidadian roti, three branches
 
 *£ · Stratford, Finsbury Park and Shepherd's Bush · Cited by 4 sources*
 
-**Time Out's pick for Trinidadian cooking**, and one of the few places on this page you can reach in several parts of London — Holloway, Shepherd's Bush and Stratford.
+**Time Out's pick for Trinidadian cooking**, and one of the few places on this page you can reach in several parts of London — Finsbury Park, Shepherd's Bush and Stratford.
 
 The range runs from **channa-packed baras** through rotis The Infatuation calls newborn-sized to wedges of **macaroni pie** with sweet tamarind sauce poured over. Prices are low even by the standards of this page.
 

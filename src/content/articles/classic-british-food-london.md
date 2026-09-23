@@ -27,7 +27,7 @@ faq:
 
 Afternoon tea, the full English breakfast, the Sunday roast and fish and chips are explained below and linked out to a full guide of their own. Everything after that is new ground: the pies you eat standing up, the pastry sold from every high street bakery, the dinners that never made it onto a "best of" list because nobody has ranked them, and the puddings.
 
-> 🍽️ **At a glance.** This guide covers fifteen things. Four — afternoon tea, the full English, the Sunday roast and fish and chips — are explained here and linked to their own guide. The other eleven are new: pie and mash, pork pies, sausage rolls and pasties, the Scotch egg, bangers and mash, steak and kidney pudding, shepherd's and cottage pie, Welsh rarebit, sticky toffee pudding, treacle tart, and spotted dick with sherry trifle.
+> 🍽️ **At a glance.** This guide covers fifteen things. Four — afternoon tea, the full English, the Sunday roast and fish and chips — are explained here and linked to their own guide. The other eleven are new: pie and mash, pork pies, sausage rolls, steak bakes and pasties, the Scotch egg, bangers and mash, steak and kidney pudding, shepherd's and cottage pie, Welsh rarebit, sticky toffee pudding, treacle tart, and spotted dick with sherry trifle.
 
 ---
 
@@ -77,7 +77,7 @@ Cold hand-raised pork in a firm, free-standing pastry shell — no tin, no hoop 
 
 ### Sausage rolls, steak bakes and pasties
 
-Sausage meat rolled in puff pastry is a sausage roll; the same idea with diced beef in gravy instead is a steak bake; a Cornish pasty is a D-shaped, crimped parcel of beef, potato, swede and onion that Cornish miners' wives once packed as a self-contained hot lunch — the crimped edge was originally a handle, held with hands dirty from the mine and thrown away rather than eaten. All three are ordinary lunch food, sold hot from the same kind of shop on every high street in London, and the honest answer for where to try one is **[Greggs](https://www.greggs.co.uk/)** — more than 2,700 branches across the UK and dozens across London, selling all three by the till. For the Cornish pasty specifically, **[West Cornwall Pasty Co.](https://westcornwallpasty.co.uk/stores/)** has counters inside Victoria, Liverpool Street, King's Cross, Waterloo and St Pancras stations, so it's often the first hot food a visitor arriving by train walks past.
+Sausage meat rolled in puff pastry is a sausage roll; the same idea with diced beef in gravy instead is a steak bake; a Cornish pasty is a D-shaped, crimped parcel of beef, potato, swede and onion that Cornish miners' wives once packed as a self-contained hot lunch — the crimped edge was originally a handle, held with hands dirty from the mine and thrown away rather than eaten. All three are ordinary lunch food, sold hot from the same kind of shop on every high street in London, and the place to try one is **[Greggs](https://www.greggs.co.uk/)** — more than 2,700 branches across the UK and dozens across London, selling all three by the till. For the Cornish pasty specifically, **[West Cornwall Pasty Co.](https://westcornwallpasty.co.uk/stores/)** has counters inside Victoria, Liverpool Street, King's Cross, Waterloo and St Pancras stations, so it's often the first hot food a visitor arriving by train walks past.
 
 ![Golden Cornish pasties with crimped edges in a hot-food display case, labelled Traditional Cornish Pasty.](../../assets/articles/classic-british-food-london/west-cornwall-pasty-cornish-pasties.jpg)
 

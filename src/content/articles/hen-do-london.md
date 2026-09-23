@@ -28,7 +28,7 @@ faq:
   - q: "Where should a group of 12 stay in London?"
     a: "An aparthotel or a private hostel room, not a hotel with twelve separate rooms. Safestay Elephant & Castle does private-use rooms from eight to fifteen beds, Clink takes group bookings from ten people, and the Locke and Cheval apartment groups have eleven and nine London properties respectively. Whole-home short lets are scarce because Greater London caps them at 90 nights a year."
   - q: "Do I need to book a hen do in London far in advance?"
-    a: "Swingers releases tickets two months ahead and its evening slots sell out. Mamma Mia! The Party is selling to April 2027. Everything else in this guide is bookable two to four weeks out for a Saturday, except restaurant tables for twelve, which want three to four weeks."
+    a: "Swingers releases tickets two months ahead and its evening slots sell out. Mamma Mia! The Party is selling to April 2027. Most of the rest are bookable two to four weeks out for a Saturday — Murdér Express wants six weeks, and restaurant tables for twelve want three to four."
   - q: "What works for a hen group with non-drinkers?"
     a: "Most of the good options here are activities with a bar attached rather than drinking with an activity attached, so nobody has to explain themselves. Bounce, Puttshack, Electric Shuffle, the Crystal Maze, Race Across The World and an afternoon tea all work exactly the same sober. Bottomless brunches are the one format where a non-drinker pays for something they cannot use."
 ---

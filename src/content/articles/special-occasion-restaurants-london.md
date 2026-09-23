@@ -136,15 +136,15 @@ Brett Graham reopened it in 2022 with a tighter focus on British sourcing, and i
 
 *££££*
 
-Pierre Gagnaire's London expression, on Conduit Street. The rest of sketch — the pink room, the egg lavatories — is a separate and cheaper experience in the same building, which makes it the one three-star address where you can have a version of the evening without the tasting menu.
+Pierre Gagnaire's London expression, on Conduit Street. The rest of Sketch — the pink room, the egg lavatories — is a separate and cheaper experience in the same building, which makes it the one three-star address where you can have a version of the evening without the tasting menu.
 
-> sketch publishes no prices anywhere on its site; they appear only once you are inside the booking flow.
+> 💡 **Sketch publishes no prices anywhere on its site.** They appear only once you are inside the booking flow.
 
-**Books weeks rather than months ahead**, which makes it the most gettable of the three-star rooms, and it is six minutes from Oxford Circus. The Gallery downstairs takes bookings separately - so if the Lecture Room is beyond the budget, the pink room and the egg-shaped lavatories are a cheaper way into the same building.
+**Books weeks rather than months ahead**, which makes it the most gettable of the three-star rooms, and it is six minutes from Oxford Circus. The Gallery downstairs takes bookings separately, so if the Lecture Room is beyond the budget, the pink room and the egg-shaped lavatories are a cheaper way into the same building.
 
 ![The Georgian stone frontage of sketch on Conduit Street, with a small red sketch sign beside the door](../../assets/articles/special-occasion-restaurants-london/sketch-exterior.jpg)
 
-*The Georgian building on Conduit Street that houses sketch.*
+*The Georgian building on Conduit Street that houses Sketch.*
 
 ---
 
@@ -220,7 +220,7 @@ Afternoon tea inside an art installation, and **four separate rooms behind one d
 
 ![One of sketch's white egg-shaped lavatory pods, beneath a ceiling painted in bands of colour, next to a display of oversized paper flowers](../../assets/articles/special-occasion-restaurants-london/sketch-egg-lavatories.jpg)
 
-*The egg-shaped lavatory pods at sketch.*
+*The egg-shaped lavatory pods at Sketch.*
 
 **Book the specific room, not "Sketch"**, and book weeks ahead for the Gallery and months for the Lecture Room. **9 Conduit Street, W1S 2XG**, three minutes from Oxford Circus.
 
@@ -311,9 +311,9 @@ The gap between lunch and dinner at a starred restaurant is the single biggest s
 * **Pied à Terre**, Fitzrovia — **£35** for three courses, on its 35th-anniversary menu. **The cheapest verified way into a Michelin-starred dining room in London**, and you have to mention it when booking or you will not be offered it.
 * **La Trompette**, Chiswick — **£45** for three courses, Wednesday to Friday.
 * **Chez Bruce**, Wandsworth — **£68.50** for three courses, at every lunch service.
+* **Hélène Darroze at The Connaught** — à la carte is served **at lunch only**, and two courses come in around £96 against £230 for the shortest tasting menu — the cheapest three-star lunch on this page.
 * **Restaurant Gordon Ramsay**, Chelsea — **£125**, Tuesday to Friday, against £180 à la carte and £210 for the Prestige menu.
 * **The Ledbury**, Notting Hill — **£220** for six courses at lunch against **£295** for dinner. A £75 saving on the same kitchen.
-* **Hélène Darroze at The Connaught** — à la carte is served **at lunch only**, and two courses come in around £96 against £230 for the shortest tasting menu — the cheapest three-star lunch on this page.
 
 **Where lunch does not help:** Core by Clare Smyth saves only £30 at lunch, and Alain Ducasse at The Dorchester publishes no set lunch at all — its cheapest route in is the £215 three-course menu.
 

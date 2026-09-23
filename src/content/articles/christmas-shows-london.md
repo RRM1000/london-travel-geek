@@ -37,6 +37,7 @@ faq:
 **5 December 2026 – 10 January 2027, from £25 with no booking fees.** Dawn French and Jennifer Saunders play the Ugly Sisters, together on a West End stage for the first time in 17 years, with Julian Clary, wand in hand.
 
 **Read the age advice before booking.** The theatre says the show includes playful innuendo and cheeky jokes and is not tailored for young children, and it doesn't admit anyone **under four**. Hospitality packages with a reserved table start at £40 a head on top of the ticket. [Book on the Palladium's site](https://lwtheatres.co.uk/whats-on/cinderella/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/cinderella-tickets).
+
 ### Robin Hood and the Merry Mandem, Stratford East
 
 ![The red and gold auditorium of Theatre Royal Stratford East, with a curved circle, stage boxes and a safety curtain painted as red drapes](../../assets/articles/christmas-shows-london/stratford-east-auditorium.jpg)
@@ -60,6 +61,7 @@ faq:
 ### Potted Panto, Apollo Theatre
 
 **6 December 2026 – 3 January 2027.** Seven classic pantomimes in 70 minutes, from the Olivier-nominated Potted Panto team. Also sold by [London Box Office](https://www.londonboxoffice.co.uk/potted-panto-tickets).
+
 ### Goldilocks and the Three Bears, Tower Theatre
 
 **3 – 19 December 2026, £5 to £8.** The cheapest panto in this guide: £8 standard, £7 concessions and £5 for under-18s online. Tickets bought at the door usually cost £2 more. [Book online](https://www.towertheatre.org.uk/event/goldilocks-and-the-three-bears/).
@@ -73,9 +75,11 @@ faq:
 *A Christmas Carol at the Old Vic: the lanterns hang over the audience, who sit on both sides of the stage.*
 
 **10 November 2026 – 9 January 2027, £19.50 to £91.50.** Matthew Warchus's production of Jack Thorne's adaptation, back for another Christmas. It runs about **two hours including a 20-minute interval**, and the Old Vic suggests it for **ages eight and up**. Previews (10–23 November) and the off-peak dates in January (1–9 January) top out at £81.50 instead of £91.50. Access performances include **audio described** and **BSL** on 12 December and **captioned** on 14 December, and there's an access rate of £23.50–£26.50 at every performance. [Dates and tickets](https://www.oldvictheatre.com/stage/a-christmas-carol-2026/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/a-christmas-carol-old-vic-tickets).
+
 ### Christmas Carol Goes Wrong, Wyndham's Theatre
 
 **18 December 2026 – 23 January 2027, from £15.** Mischief, the company behind *The Play That Goes Wrong*, turn the Dickens story into a disaster, with the cast feuding over who plays Scrooge while the set comes apart. It runs until 23 January. Also sold by [London Box Office](https://www.londonboxoffice.co.uk/christmas-carol-goes-wrong-tickets).
+
 ### Sherlock Holmes and the 12 Days of Christmas, Alexandra Palace
 
 ![The theatre at Alexandra Palace, with rows of orange seats in the stalls and circle, bare peeling walls and an ornate plaster ceiling lit in orange](../../assets/articles/christmas-shows-london/alexandra-palace-theatre-auditorium.jpg)
@@ -114,6 +118,7 @@ faq:
 *The Peacock Theatre's entrance canopy. The Snowman opens here on 21 November.*
 
 **21 November 2026 – 3 January 2027, from £18** plus a £4 transaction fee. A **new production** this year, the world premiere of Will Tuckett's staging, still built around Raymond Briggs's story and the film. **An hour and a half including a 20-minute interval.** Suitable for all ages; children **two and over** need a ticket. Family tickets are **£150 for three** and **£200 for four**. **Relaxed** 2 December, **audio described** 12 December. [Dates and tickets](https://www.sadlerswells.com/whats-on/the-snowman-2026/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/the-snowman-tickets).
+
 ### The Snowflake, Little Angel Theatre
 
 ![Children and adults on wooden pews at Little Angel Theatre, a few feet from a small stage with a painted puppet booth, under a rig of stage lights](../../assets/articles/christmas-shows-london/little-angel-theatre-auditorium.jpg)

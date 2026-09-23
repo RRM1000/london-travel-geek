@@ -49,11 +49,11 @@ The fastest train out of Heathrow is not necessarily the fastest route to your h
 
 | Transport Option | Adult Cost to Central London | Journey Time | Comfort | Best For |
 | --- | ---: | ---: | --- | --- |
-| **Elizabeth Line** | **£15.50** *(PAYG)* | 28–45 mins | 4/5 | Most visitors, luggage & direct cross-city trips |
+| **Elizabeth Line** | **£15.50** *(PAYG)* | 28–48 mins | 4/5 | Most visitors, luggage & direct cross-city trips |
 | **Piccadilly Line (Tube)** | **£5.90** *(Peak)* / **£4.00** *(Off-peak)* | 50–60 mins | 2/5 | Budget travellers & hotels near Piccadilly line stops |
 | **Heathrow Express** | **£26.00** *(Walk-up)* / **From £10.00** *(Advance)* | 15 mins to Paddington | 5/5 | Staying near Paddington Station or pre-booked deals |
 | **National Express Coach** | From **£10.00** | 45–90 mins | 3/5 | Travel to Victoria Coach Station or late-night arrivals |
-| **London Black Cab** | **£70.00 – £120.00** *(Metered)* | 45–90 mins | 4/5 | Families, heavy luggage & door-to-door convenience |
+| **London Black Cab** | **£70.00 – £120.00** *(Metered)* | 30–75 mins | 4/5 | Families, heavy luggage & door-to-door convenience |
 | **Private Hire / Uber** | Quoted in app *(Approx £50–£90)* | 45–90 mins | 4/5 | Fixed-price pre-booked airport transfers |
 
 ---

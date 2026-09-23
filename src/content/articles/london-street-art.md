@@ -481,7 +481,7 @@ There are two completely separate markets here and they have almost nothing to d
 
 **About three and a half hours**, or two and a half if you stop at the Pink Car. Go on a Sunday, when the City is empty and Brick Lane's market is on.
 
-**Not on it, and why:** the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino are each in a different direction, so they are separate trips. The Bermondsey fishing boy is too faded to be worth the detour.
+**Not on it, and why:** the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino are each in a different direction, so they are separate trips. The Bermondsey fishing boy is too faded to be worth the detour. The Finsbury Park tree is out of the way too, and only worth it between November and March, when the cherry is bare.
 
 ---
 

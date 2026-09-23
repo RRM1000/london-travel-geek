@@ -13,7 +13,7 @@ heroImageAlt: "Good Hotel London, moored at Royal Victoria Dock, with GOOD HOTEL
 draft: false
 faq:
   - q: "What counts as a budget hotel in London?"
-    a: "In this guide, a hotel whose typical night for two came to £150 or less, taxes and fees included, across five nights we priced between October 2026 and April 2027. Of the 46 hotels we priced, 23 came in at £150 or less."
+    a: "In this guide, a hotel whose typical night for two came to £150 or less, taxes and fees included, across five nights we priced between October 2026 and April 2027. Of the 46 hotels we priced, 22 came in at £150 or less."
   - q: "Is it cheaper to stay outside central London?"
     a: "Yes, as long as the train is quick. Across 26 hotels we priced further out, each near a direct train to the West End or the City of 30 minutes or less, the middle typical night was £141.50. Across 19 in central London it was £179."
   - q: "What is the cheapest night to book a London hotel?"

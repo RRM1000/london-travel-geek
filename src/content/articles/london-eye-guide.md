@@ -107,7 +107,7 @@ The London Eye's own guidance on wait times: **20 to 30 minutes for Standard and
 If the London Eye is only one component of a wider sightseeing trip, buying an individual ticket is usually the most expensive approach. There are two distinct routes to save:
 
 ### 1. Merlin multi-attraction combination tickets
-Merlin Entertainments operates several major commercial attractions within a few minutes' walk of the London Eye on the South Bank:
+Merlin Entertainments sells combined tickets covering the London Eye and several of its other major attractions. Three are a few minutes' walk away on the South Bank; the fourth is across town:
 - **SEA LIFE London Aquarium** (inside County Hall, right next to the wheel entrance)
 - **The London Dungeon** (inside County Hall)
 - **Shrek's Adventure! London** (inside County Hall)

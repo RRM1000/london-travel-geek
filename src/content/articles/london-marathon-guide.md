@@ -302,7 +302,7 @@ The organisers themselves split the route into places that will be heaving and p
 | Cutty Sark (6.5) | Rotherhithe peninsula (9–11) |
 | Canada Water (9) | **The Highway (14 and 22)** |
 | Bermondsey (11.5) | Westferry (15) |
-| **Tower Bridge (13)** | Isle of Dogs (16) |
+| **Tower Bridge (12.5)** | Isle of Dogs (16) |
 | Canary Wharf (18–19) | Poplar High Street (20) |
 | Limehouse (21) | Victoria Embankment (25) |
 | Tower Hill (23) | |

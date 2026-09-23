@@ -117,7 +117,7 @@ The thing that earns the awards is the sourcing: **hake alongside cod while cod 
 
 Cod, haddock and rock in a light batter with hand-cut chips, plus the full traditional supporting cast: **jellied eels, cockles, whelks and pie and mash**, which most shops dropped decades ago and this one kept.
 
-**££, walk-in**, though the Spitalfields site takes bookings for larger tables. Eight sources name it — the joint most-cited chippy in the guide.
+**££, walk-in**, though the Spitalfields site takes bookings for larger tables. Eight sources name it — the most-cited chippy in the guide.
 
 ![The Poppie's Fish & Chips shopfront in Spitalfields, gold lettering on a blue fascia over a navy awning](../../assets/articles/best-fish-and-chips-london/poppies-spitalfields.jpg)
 
@@ -125,7 +125,7 @@ Cod, haddock and rock in a light batter with hand-cut chips, plus the full tradi
 
 *£ · Bloomsbury · 6 min from Holborn · Cited by 7 sources · #6, Time Out*
 
-**Formica tables, beef dripping, and a room that has not been redecorated in decades** — the most-cited chippy in London, and the one that has changed least.
+**Formica tables, beef dripping, and a room that has not been redecorated in decades** — one of the most-cited chippies in London, and the one that has changed least.
 
 **Fried in beef dripping rather than vegetable oil**, which is the whole argument: a heavier, savoury batter and a flavour most shops abandoned on cost and health grounds. Cod, haddock, rock and skate, with thick chips and a saveloy for anyone who wants one.
 
@@ -147,7 +147,7 @@ Cod and haddock in a light batter, and — unusually — **grilled fish for anyo
 
 **Half proper chippy, half sit-down fish restaurant**, on the edge of the Old Street roundabout — and one of the few places in London where the two halves are equally good.
 
-The fryer does cod, haddock and rock in a crisp batter with thick chips; the restaurant menu behind it runs to **grilled fish, scallops and oysters** at prices a Clerkenwell restaurant would double. Seven independent sources name it, which is more than any other chippy here except the Fryer's Delight.
+The fryer does cod, haddock and rock in a crisp batter with thick chips; the restaurant menu behind it runs to **grilled fish, scallops and oysters** at prices a Clerkenwell restaurant would double. Seven independent sources name it — as many as the Fryer's Delight and the Golden Hind, second only to Poppies.
 
 **££, walk-in**, and large enough to take a group without booking. Order from the restaurant menu if you are sitting down.
 
@@ -213,7 +213,7 @@ Fish is bought daily and fried to order in a light batter, with **grilled and ma
 
 Worth knowing before you treat any single guide as the answer.
 
-Time Out ranks eighteen London chippies, and its number one is **Michael's Fish Bar** in Leytonstone — a cash-only counter with no seating that only one other source in this sources name. Its number two, **Fish Lounge** in Clapham, is not in any award. And **Poppies**, the most-cited chippy in the city, does not appear on its list at all.
+Time Out ranks eighteen London chippies, and its number one is **Michael's Fish Bar** in Leytonstone — a cash-only counter with no seating that only one other source names. Its number two, **Fish Lounge** in Clapham, is not in any award. And **Poppies**, the most-cited chippy in the city, does not appear on its list at all.
 
 | Time Out rank | Chippy | Cited by |
 | --- | --- | --- |
@@ -224,6 +224,7 @@ Time Out ranks eighteen London chippies, and its number one is **Michael's Fish 
 | **#5** | Rock & Sole Plaice, Covent Garden | 5 sources |
 | **#6** | The Fryer's Delight, Bloomsbury | 7 sources |
 | **#7** | Ken's Fish Bar, Herne Hill | 4 sources |
+| **#8** | Sutton & Sons, Hackney | 5 sources |
 | **#9** | Fish Central, Clerkenwell | 7 sources |
 | **#10** | Mickey's Chippy, Stoke Newington | 3 sources |
 | **#11** | Faulkners, Dalston | 1 source |
@@ -287,7 +288,7 @@ Cod and haddock fried to order in a light batter with thick chips, and the sides
 
 The **steak and Guinness pie** is the signature and the thing to order, with proper chips and gravy. Fish and chips is on the menu and is good; it is not why three sources name it.
 
-**££, walk-in.** Clerkenwell, and the sausages are still made to the original recipes if you want to take some home.
+**£, walk-in.** Clerkenwell, and the sausages are still made to the original recipes if you want to take some home.
 
 ### The Golden Chip of Hanwell, Hanwell
 
@@ -365,7 +366,7 @@ Cod, haddock, plaice, skate and rock in a light batter, with **matzo-meal and gr
 
 ## Also named, with less behind them
 
-Everything else the sources carry by two or more independent sources.
+Everything else the sources carry, in descending order of how many name it.
 
 | Chippy | Where | Price | Sources | What it is |
 | --- | --- | --- | --- | --- |

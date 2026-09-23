@@ -15,7 +15,7 @@ faq:
   - q: "Which London burger won the National Burger Awards 2026?"
     a: "Honest Burgers, with 'The Honest' — dry-aged beef, thick-cut Wiltshire bacon, beef and onion relish, XL cheese, pickles and diced onion. It is served only at the Smash + Grab site on Liverpool Street, not across the chain. Burger & Beyond came second in the signature round."
   - q: "Do I need to book a table for a burger in London?"
-    a: "Mostly no. Bleecker, Supernova, Jupiter Burger, Manna and the market stalls are walk-in only. The exceptions are the restaurants that happen to serve a great burger rather than burger shops: Dove and Vesper make about ten a service and go early, and Blacklock, One Club Row and Burger & Lobster all take bookings."
+    a: "Mostly no. Bleecker, Supernova, Jupiter Burger, Manna and the market stalls are walk-in only. The exceptions are the restaurants that happen to serve a great burger rather than burger shops: Dove and Vesper make about ten a service and go early, Blacklock and Dover Street Counter take bookings, and Burger & Lobster is bookable too. One Club Row is the hard one to book — try its walk-in light box outside, or a lunch slot."
   - q: "Where can I get a cheap burger in London?"
     a: "Jupiter Burger at Netil Market, Manna inside Arcade Food Hall, Mother Flipper at Brockley Market and Buk in Camden all come in well under £15. Honest Burgers and Beer + Burger Store are the cheapest of the sit-down options."
   - q: "What is a smash burger, and is that all London does now?"
@@ -31,7 +31,7 @@ So rather than add another opinion, we counted. Every restaurant below is ranked
 > 💡 **The Short Version:** **Bleecker** and **The Plimsoll** are level at the top on seven sources each. **Honest Burgers** won the National Burger Awards 2026 — but only at one branch. **Supernova** is the best thing in Soho with a 25-word menu. **Dove** makes ten burgers a night and stops. And **Jupiter Burger** is the best £10 of the lot.
 
 > 📊 **The evidence behind this guide.**
-> This pass reads **9 sources carrying 110 citations** across **49 named burgers**. **24 are named by two or more independent sources; 6 carry a dated award.**
+> This pass reads **9 sources carrying 110 citations** across **49 named burgers**. **24 are named by two or more independent sources; 7 carry a dated award.**
 > **Built on:** the National Burger Awards 2026, plus seven independent publications and listings sites.
 > *Evidence built 31 August 2026 · [How we rank →](/how-we-rank/)*
 

@@ -22,9 +22,9 @@ faq:
   - q: "Which historic buildings in London are free?"
     a: "Sir John Soane's Museum, St Paul's the Actors' Church in Covent Garden, the Fitzrovia Chapel, All Saints Margaret Street, St Dunstan in the East and the grounds of the Old Royal Naval College and Royal Hospital Chelsea."
   - q: "Is St Paul's Cathedral worth the entry fee?"
-    a: "The dome climb and the Whispering Gallery are, at around £26. But Evensong is free and daily, and you sit in the quire rather than filing past it — much the better way to experience the building if you do not need to climb."
+    a: "The dome climb and the Whispering Gallery are, at £27. But Evensong is free and daily, and you sit in the quire rather than filing past it — much the better way to experience the building if you do not need to climb."
   - q: "What is the Painted Hall?"
-    a: "Forty thousand square feet of baroque ceiling at the Old Royal Naval College in Greenwich, which took James Thornhill nineteen years and is often called Britain's Sistine Chapel. About £19, and under-16s go free."
+    a: "Forty thousand square feet of baroque ceiling at the Old Royal Naval College in Greenwich, which took James Thornhill nineteen years and is often called Britain's Sistine Chapel. About £19, and children 16 and under go free."
 ---
 
 London's historic interiors range from a royal palace to a chapel that is the last surviving fragment of a demolished hospital. Several of the best are free, and the most extraordinary one is a private house nobody is allowed to change.
@@ -181,7 +181,7 @@ Some of the palace is behind hoardings during the reservicing works — **the Wh
 
 ### The Painted Hall, Old Royal Naval College
 
-*£19, under-16s free · open daily*
+*£19, 16 and under free · open daily*
 
 **3,700 square metres of baroque painting and around 200 figures**, which took James Thornhill nineteen years and is routinely called Britain's Sistine Chapel. **2026 is the 300th anniversary of its completion.** Lie on the floor — there are mirrors and beanbags for exactly that.
 
@@ -233,13 +233,13 @@ Wren's 1710 dome, the Whispering Gallery, and **528 steps in total to the Golden
 
 ### St Dunstan in the East, City of London
 
-*Free · 8am to 7pm or dusk*
+*Free · gates open through the day, shut around dusk*
 
 A church has stood here since about 1100. **Wren repaired it after the Great Fire and added the tower and steeple, which survived the Blitz when the rest of the church did not.** Rather than rebuild, the City turned the shell into a public garden in 1970, and the ruin now has climbing plants over the walls and trees growing where the roof was.
 
 It is Grade I listed, it costs nothing, and it is **two minutes from Monument** in a part of the City almost nobody walks through for pleasure. There are benches and a fountain.
 
-**Open 8am to 7pm, or dusk if that comes first**, and closed on Christmas Day, Boxing Day and New Year's Day. Casual photography has never needed permission — **organised shoots with cast and crew still need a licence from the City**.
+**The City of London publishes no opening hours for it**; in practice the gates stand open through the day and close around dusk. Casual photography has never needed permission — **organised shoots with cast and crew still need a licence from the City**.
 
 ![The empty gothic window arches of St Dunstan in the East, overgrown with ivy and open to the sky](../../assets/articles/historic-houses-london/st-dunstan-in-the-east.jpg)
 

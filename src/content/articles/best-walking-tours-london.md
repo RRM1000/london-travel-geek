@@ -19,7 +19,7 @@ faq:
   - q: "Which Jack the Ripper tour is best?"
     a: "Meet The Street Tours' evening walk has the highest score of any Ripper tour with more than 500 reviews on GetYourGuide, 4.9 from 1,527. See Your City's is the most reviewed, with 8,757, and runs in seven languages. Ripper-Vision projects period photographs onto the streets where the murders happened."
   - q: "How long do London walking tours last?"
-    a: "Most last about two hours. Pub and food tours run to three or three and a half hours, and the full sightseeing days take five."
+    a: "Most last about two hours. Food tours run three or three and a half hours, and the full sightseeing days take five."
   - q: "Do London walking tours run in the rain?"
     a: "Almost always. Most operators run in all weather and only cancel for extreme conditions, so bring a coat rather than hoping it clears."
 heroImage: "../../assets/articles/best-walking-tours-london/changing-the-guard.jpg"

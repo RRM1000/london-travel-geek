@@ -124,7 +124,7 @@ Elsewhere on the estate: **ROKA** has a heated terrace over Canada Square Park, 
 
 ![The sunken circular plaza of Broadgate Circle from above, ringed with restaurant terraces and coloured parasols](../../assets/articles/eat-outside-london/broadgate-circle.jpg)
 
-*Broadgate Circle, sunken and enclosed. Every seat here belongs to a restaurant - the free lawn is up at Exchange Square.*
+*Broadgate Circle, sunken and enclosed. Every seat here belongs to a restaurant — the free lawn is up at Exchange Square.*
 
 *£–£££ · Liverpool Street · 2 min from Liverpool Street · [Broadgate](https://broadgate.co.uk/eatdrinkshop/)*
 
@@ -220,13 +220,13 @@ It is genuinely open-air, genuinely free to sit in, and genuinely only one day a
 
 *Exhibition Road at about six on a September evening. The whole street is a shared surface, so the tables spill into it.*
 
-Not a yard or a precinct but a **street that behaves like one**. Exhibition Road was rebuilt as a shared surface - no kerbs, no separated pavement - between South Kensington station and the museums, and the practical effect is that the restaurants along it put their tables out into what would otherwise be road.
+Not a yard or a precinct but a **street that behaves like one**. Exhibition Road was rebuilt as a shared surface — no kerbs, no separated pavement — between South Kensington station and the museums, and the practical effect is that the restaurants along it put their tables out into what would otherwise be road.
 
 It runs past the **V&A, the Natural History Museum and the Science Museum**, which is the densest run of museums in the country, so the crowd is a mix of people who have spent the day in one and people who live in South Kensington and never go.
 
-**Casa Brindisa** does Spanish tapas from a terrace directly on the street, and **Comptoir Libanais** is a few doors up. The parasols are the restaurants’, so this is venue seating rather than anywhere to bring your own - but the width of the street means the tables are not squeezed against a wall, which is unusual in central London.
+**Casa Brindisa** does Spanish tapas from a terrace directly on the street, and **Comptoir Libanais** is a few doors up. The parasols are the restaurants’, so this is venue seating rather than anywhere to bring your own — but the width of the street means the tables are not squeezed against a wall, which is unusual in central London.
 
-**It faces roughly north-south and the light arrives late**, so the terrace end of the day here runs well into the evening in summer - the photograph above was taken at about six in September.
+**It faces roughly north-south and the light arrives late**, so the terrace end of the day here runs well into the evening in summer — the photograph above was taken at about six in September.
 ### The Yards, Covent Garden
 
 *££ · Covent Garden · 4 min from Covent Garden · [The Yards](https://theyardscoventgarden.co.uk/)*
@@ -321,7 +321,7 @@ The top of the multi-storey car park at 95a Rye Lane, floors seven to ten, run b
 
 ## The markets, settled
 
-The honest answer to "do London's food markets have good outdoor seating" is: mostly no, and the famous ones least of all. Here is what is actually under a roof.
+London's food markets mostly don't have good outdoor seating, and the famous ones least of all. Here is what is actually under a roof.
 
 | Market | Days | Outdoors? |
 | --- | --- | --- |

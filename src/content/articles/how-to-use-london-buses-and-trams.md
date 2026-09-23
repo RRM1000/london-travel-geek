@@ -38,7 +38,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 
 | Feature | London Bus | London Underground (Tube) |
 | --- | --- | --- |
-| **Single Adult Fare** | Flat **£1.75** everywhere | **£3.00 – £5.90** *(Zone 1–2)* |
+| **Single Adult Fare** | Flat **£1.75** everywhere | **£3.00 – £5.90** *(Zones 1–6)* |
 | **Sightseeing & Views** | 🌟 Top deck front seats offer scenic views | Underground in dark tunnels |
 | **Speed & Timing** | Subject to road traffic & diversions | High-speed, fixed schedules |
 | **Accessibility** | 100% low-floor with wheelchair ramps | ~33% step-free stations |

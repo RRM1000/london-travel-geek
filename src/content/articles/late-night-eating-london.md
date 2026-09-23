@@ -60,7 +60,7 @@ Those places are genuinely good — this is not a list of last resorts.
 | **Shoreditch & Dalston** | Monohon Ramen, Voodoo Ray's |
 | **Marylebone** | Royal China |
 
-**Price guide:** **£** under £15 · **££** £15–£30 · **££££** £70+.
+**Price guide:** **£** under £15 · **££** £15–£30 · **£££** £35–£55 · **££££** £70+.
 
 ---
 
@@ -268,7 +268,7 @@ Late-night prices in London usually go one of two ways: a nightclub markup, or t
 
 * **Beigel Bake**, Brick Lane — open **twenty-four hours**, salt beef beigel **£7.50**, smoked salmon **£4.50**. The definitive London 4am meal.
 * **Whitechapel and Edgware Road** are the two genuinely cheap late corridors. Grills, bakeries and sweet shops on both run well past midnight at daytime prices.
-* **Chinatown** — the late noodle and roast-meat places are open past 1am and priced for people who work in them rather than for tourists.
+* **Chinatown** — the late noodle and roast-meat places are open past 1am and priced for the people who work in them.
 * **Food halls run later than you think.** **Seven Dials Market** trades to 11pm Wednesday to Saturday and **Arcade Food Hall** at Battersea to 11pm on Thursdays and Fridays, both with a dozen counters at market prices.
 
 > ⚠️ Two long-standing late food halls are on the way out. **Boxpark Shoreditch closes permanently at the end of September 2026** after its lease expired, and **Mercato Metropolitano at Elephant & Castle trades only to the end of 2026** before the Borough Triangle redevelopment. Check before travelling to either.

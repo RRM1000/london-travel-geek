@@ -18,7 +18,7 @@ faq:
   - q: "What is the best Middle Eastern restaurant in London?"
     a: "Al Waha in Bayswater is the most-cited Lebanese room across independent guides and has been quietly excellent for years. For something more modern, The Barbary in Neal's Yard seats about twenty around an open grill, and Akub in Notting Hill is the only serious Palestinian restaurant in the city."
   - q: "Where do I find the best Turkish food in London?"
-    a: "Dalston and Green Lanes. Mangal 2 in Dalston is an ocakbaşı the Dirik brothers took over from their father and turned into one of the most inventive Turkish kitchens in Britain."
+    a: "Dalston and Green Lanes. Mangal II in Dalston is an ocakbaşı the Dirik brothers took over from their father and turned into one of the most inventive Turkish kitchens in Britain."
   - q: "What is an ocakbaşı?"
     a: "A Turkish charcoal grill where you sit around the fire and the cooking happens in front of you. Dalston and Green Lanes have the highest concentration in London, and they are typically open very late and cheap for what you get."
   - q: "Where can I eat Middle Eastern food in London cheaply?"

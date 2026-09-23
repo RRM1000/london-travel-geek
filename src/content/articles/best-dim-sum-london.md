@@ -22,7 +22,7 @@ faq:
   - q: "Where is the cheapest good dim sum in London?"
     a: "Dragon Castle at Elephant and Castle does it at about half the central mark-up, in a full-size Cantonese banqueting hall. In Chinatown, Joy King Lau and Dumplings' Legend are both well under the Soho names."
   - q: "Do I need to book dim sum?"
-    a: "Royal China takes no bookings at peak weekend times — turn up and wait, and the wait is real. A. Wong books weeks ahead. Most Chinatown rooms are walk-in."
+    a: "Royal China takes no bookings at peak weekend times — turn up and wait, and the wait is real. A. Wong's evening service books months ahead. Most Chinatown rooms are walk-in."
   - q: "What should I order at dim sum?"
     a: "Three to four plates per person. Har gau (prawn dumplings) and siu mai are the standards every kitchen is judged on. Xiao long bao are Shanghainese rather than Cantonese — Dumplings' Legend folds them in front of the queue."
 ---
@@ -72,9 +72,7 @@ The single most useful thing to know: **most dim sum halls stop serving around 5
 
 A black-and-gold banquet hall on Baker Street where **weekend dim sum runs at the volume of an airport terminal**. The benchmark every other London dim sum room is measured against.
 
-No bookings at peak weekend times. The wait is real and worth it.
-
-**No bookings at weekend lunch**, which is the whole character of the place: the busiest dim sum service in London, a queue down Baker Street, and a room that turns tables fast enough to make it bearable. Loud, built for groups and families, and eight minutes from Bond Street.
+**No bookings at weekend lunch**, which is the whole character of the place: the busiest dim sum service in London, a queue down Baker Street, and a room that turns tables fast enough to make it bearable. The wait is real and worth it. Loud, built for groups and families, and eight minutes from Bond Street.
 
 ![Four har gau prawn dumplings in a bamboo steamer, their pleated translucent wrappers showing the prawn inside](../../assets/articles/best-dim-sum-london/royal-china-har-gau.jpg)
 
@@ -84,9 +82,7 @@ No bookings at peak weekend times. The wait is real and worth it.
 
 *££££ · 7 min from Victoria · two Michelin stars*
 
-The only **two-Michelin-starred Chinese restaurant in Europe**. Andrew Wong works through the regional cooking of the whole country, and the dim sum lunch is materially cheaper than dinner for the same kitchen.
-
-**Lunch and dinner barely resemble each other.** The daytime dim sum is a different and far cheaper proposition than the evening tasting menu, and it is the one to book if you want the cooking without the ££££ commitment.
+The only **two-Michelin-starred Chinese restaurant in Europe**. Andrew Wong works through the regional cooking of the whole country, and the dim sum lunch is materially cheaper than dinner — the one to book if you want the cooking without the ££££ commitment.
 
 **Closed Sunday and Monday**, and the evening service books months ahead. Seven minutes from Victoria.
 
@@ -94,9 +90,7 @@ The only **two-Michelin-starred Chinese restaurant in Europe**. Andrew Wong work
 
 *£££ · 2 min from Leicester Square*
 
-**Towering bamboo baskets** of steamed and grilled dim sum, made fresh on site each day. The refined end of Chinatown, and the room to pick if you only eat there once.
-
-Steamed and grilled, made fresh on site each day rather than bought in, which is not true of everywhere on Lisle Street.
+**Towering bamboo baskets** of steamed and grilled dim sum, made fresh on site each day rather than bought in, which is not true of everywhere on Lisle Street. The refined end of Chinatown, and the room to pick if you only eat there once.
 
 It takes groups, dates and families equally well, and it is **two minutes from Leicester Square** — the easiest room here to reach and the least likely to disappoint someone who does not eat dim sum often.
 
@@ -108,11 +102,7 @@ It takes groups, dates and families equally well, and it is **two minutes from L
 
 *£££ · 6 min from Piccadilly Circus · all day*
 
-**All-day dim sum** with a patisserie counter downstairs, from the Hakkasan founder, and the answer when you want dim sum at 8pm.
-
----
-
-It **held a Michelin star for fourteen years** and still cooks like it. Dim sum runs all day rather than stopping mid-afternoon, so it solves the 4pm problem that closes most of Chinatown's kitchens.
+**All-day dim sum** with a patisserie counter downstairs, from the Hakkasan founder — it **held a Michelin star for fourteen years** and still cooks like it, and running all day solves the 4pm problem that closes most of Chinatown's kitchens.
 
 **Book weeks ahead**, and use it for a date or a pre-theatre meal — Piccadilly Circus is six minutes away and the patisserie counter downstairs is a reason to stay.
 
@@ -124,8 +114,6 @@ It **held a Michelin star for fourteen years** and still cooks like it. Dim sum 
 
 *£££ · Gerrard Street*
 
-A family-run room in a black-fronted building, doing award-winning dim sum in a smarter setting than most of the street.
-
 A **family-run Gerrard Street room** in a black-fronted building, doing award-winning dim sum in a smarter setting than most of Chinatown — tablecloths rather than laminate, and a quieter room for it.
 
 Good for a date or a small group rather than a crowd, and three minutes from Leicester Square.
@@ -134,17 +122,13 @@ Good for a date or a small group rather than a crowd, and three minutes from Lei
 
 *££ · off Leicester Square*
 
-Four floors doing **trolley-era dim sum the old way**, largely unchanged while the street around it turned over. The most traditional room here.
-
-Four floors off Leicester Square doing **trolley-era dim sum the old way**, largely unchanged while the street around it turned over.
+Four floors off Leicester Square doing **trolley-era dim sum the old way**, largely unchanged while the street around it turned over — the most traditional room here.
 
 It is the cheapest room on this page that anyone would recommend on its merits — **££ rather than £££** — and it takes families and groups without ceremony. Three minutes from Leicester Square.
 
 ### Dumplings' Legend
 
 *££ · Gerrard Street*
-
-A glass-walled kitchen where the **xiao long bao are folded in front of the queue** — Shanghainese soup dumplings rather than Cantonese steamed baskets.
 
 A glass-walled kitchen on Gerrard Street where the **xiao long bao are folded in front of the queue** — Shanghainese soup dumplings rather than Cantonese steamed baskets, and the reason to come rather than a sideline.
 
@@ -153,10 +137,6 @@ A glass-walled kitchen on Gerrard Street where the **xiao long bao are folded in
 ### BaoziInn
 
 *££ · 1 min from Leicester Square*
-
-Northern Chinese street food tidied up for London, in a room done out in Communist-era poster kitsch.
-
----
 
 Northern Chinese street food tidied up for London, in a room done out in **Communist-era poster kitsch** that is either the charm or the problem depending on your temperament.
 
@@ -182,9 +162,7 @@ The Broadgate branch of the Soho dim sum room, and the one to use if you are in 
 
 A Cantonese dining room over the Royal Albert Dock with **City Airport's runway through the window**, trading since 2003 — planes landing over your dumplings is not something anywhere else offers.
 
-**Dim sum is served until 4.30pm only, and it closes on Thursdays.** Worth the DLR trip, but not worth turning up unplanned.
-
-**Closed Thursdays**, book a few days ahead, and six minutes from Royal Albert on the DLR. It is a long way from central London and that is the entire point: a full Cantonese dining room at ££, with planes landing over the dumplings.
+**Dim sum is served until 4.30pm only, and it closes on Thursdays.** Book a few days ahead, and it's six minutes from Royal Albert on the DLR — a long way from central London, but that's the entire point.
 
 ## Best value
 
@@ -192,11 +170,9 @@ A Cantonese dining room over the Royal Albert Dock with **City Airport's runway 
 
 *££ · 114 Walworth Road*
 
-South London's proper dim sum hall — a **full-size Cantonese banqueting room** at roughly half the central mark-up, and served through the day rather than only at lunch. Big enough to take a group without booking far ahead.
+South London's proper dim sum hall — a **full-size Cantonese banqueting room** at roughly half the central mark-up, served through the day rather than only at lunch. Big enough to take a group without booking far ahead, and loud enough that nobody minds children.
 
-**Dim sum runs through the day rather than only at lunch**, which is unusual and useful. The room is large enough to take a group without booking far ahead, and loud enough that nobody minds children.
-
-**££**, seven minutes from Elephant & Castle, and roughly half the central mark-up for the same food.
+**££**, seven minutes from Elephant & Castle.
 
 ![Eight bamboo steamers crowded onto a table, holding har gau, siu mai, char siu bao and yellow-wrapped dumplings](../../assets/articles/best-dim-sum-london/dragon-castle-table.jpg)
 
@@ -220,7 +196,7 @@ An unexpectedly large **basement dining room behind Paddington station**, routin
 
 **Five set menus** built for a table that wants to share rather than order dish by dish, which takes the guesswork out of a first visit.
 
-**Book a few days ahead**, and note it is two minutes from Paddington — the best dim sum within reach of a train west, and routinely rated above the Chinatown names by people who eat a lot of Cantonese food.
+**Book a few days ahead**, and note it is two minutes from Paddington — the best dim sum within reach of a train west.
 
 ## For an evening
 
@@ -230,9 +206,7 @@ Dim sum is a lunch. These are the exceptions.
 
 *£££ · 3 min from Covent Garden*
 
-Dim sum in a **bar-led room** rather than a banquet hall, which makes it the one that works as an evening rather than a daytime meal.
-
-Because it is bar-led rather than a banquet hall, it is **the one on this page that works as an evening out** — cocktails first, dumplings after, and a room that does not empty at 3pm.
+Dim sum in a **bar-led room** rather than a banquet hall — **the one on this page that works as an evening out**, cocktails first, dumplings after, in a room that does not empty at 3pm.
 
 £££, good for a date or pre-theatre, and three minutes from Covent Garden.
 

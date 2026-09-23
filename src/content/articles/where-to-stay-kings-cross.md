@@ -132,7 +132,7 @@ Clink 261 runs **mixed dorms sleeping 1 to 18, female-only dorms of 4 to 10, pod
 
 *One of Clink 261's dorms, with privacy screens between the pod beds and a skylight overhead.*
 
-If a dorm is the plan rather than a room, our [best hostels in London guide](/articles/best-hostels-london/) compares fourteen across the city — including the ones with en-suite dorms, which Clink 261 is not.
+If a dorm is the plan rather than a room, our [best hostels in London guide](/articles/best-hostels-london/) compares fifteen across the city — including the ones with en-suite dorms, which Clink 261 is not.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-kings-cross-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

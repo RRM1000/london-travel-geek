@@ -53,7 +53,7 @@ There are a small number of legitimate ways in, and the All England Club control
 
 **The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Both advance ballots for those tickets have closed: the **LTA opt-in at 23:59 on 31 August 2026**, and the free **AELTC Public Ballot at 23:59 BST on Monday 14 September 2026**. Public Ballot offers go out by email **from October 2026**.
 
-> 💡 **The Short Version:** **Both ballots for 2027 have closed**, and Public Ballot offers go out by email **from October 2026**. For 2028, enter both: the **AELTC Public Ballot** is free and open to anyone in the world, and the **LTA draw costs £25 a year** for any adult and lets winners **choose their day and court**. For 2027, an LTA Fan+ membership bought now still gets you into the LTA's **March sale of returned tickets**, and **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £22**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
+> 💡 **The Short Version:** **Both ballots for 2027 have closed**, and Public Ballot offers go out by email **from October 2026**. For 2028, enter both: the **AELTC Public Ballot** is free and open to anyone in the world, and the **LTA draw costs £25 a year** for any adult and lets winners **choose their day and court**. For 2027, an LTA Fan+ membership bought now still gets you into the LTA's **March sale of returned tickets**, and **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £22**. Once inside, **Ticket Resale** from **3pm** put Centre Court seats on sale for **£15** in 2026 — 2027's price isn't out yet. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
 
 ---
 
@@ -310,7 +310,7 @@ An AELTC staffer told a reporter in 2026 that to be confident of a Show Court ti
 | **Grounds Pass, first week** | Pre-dawn, and expect a long wait even so |
 | **Grounds Pass, second week** | Much easier — the second Tuesday and the ladies' semi-final Thursday are the quietest days of the fortnight |
 
-> 💡 **Two fan-run accounts post queue updates through the fortnight** — [The Q (@ViewFromTheQ)](https://x.com/ViewFromTheQ) and [The Queue (@TheWimbledonQ)](https://x.com/TheWimbledonQ) on X. Neither is run by the AELTC and neither is guaranteed to be posting on the day you need it, but between them they are the closest thing to a real-time read on how fast the Queue is filling. Check them alongside the official Queue status, not instead of it.
+> 💡 **Two fan-run accounts track the Queue through the fortnight.** [The Q (@ViewFromTheQ)](https://x.com/ViewFromTheQ) and [The Queue (@TheWimbledonQ)](https://x.com/TheWimbledonQ) post from inside it, on X. Neither is run by the AELTC and neither is guaranteed to be posting on the day you need it, but between them they are the closest thing to a real-time read on how fast the Queue is filling. Check them alongside the official Queue status, not instead of it.
 
 > ⚠️ **Never travel without checking the Queue status first.** The AELTC publishes a live Queue status on wimbledon.com during The Championships, and when the Queue hits capacity it stops issuing cards entirely. In 2025 the club told people to stop travelling once it passed 10,000.
 
@@ -360,7 +360,7 @@ The pattern is consistent: **a pre-dawn arrival in the first week gets you in so
 
 And the numbers do not move in a straight line. On Day 3 of 2025 a 7.45am arrival got card 8,900; on Day 4, arriving an **hour earlier** at 6.45am produced a **worse** card of 9,900. Day-to-day variance beats any fixed rule about arrival times.
 
-> 💡 **You can skip almost all of this by turning up in the late afternoon** — see [going in the evening](#going-in-the-evening) below.
+> 💡 **You can skip almost all of this by turning up in the late afternoon.** See [going in the evening](#going-in-the-evening) below.
 
 Plan the day around it:
 
@@ -390,7 +390,7 @@ Play on the outside courts runs into the evening, and both **Centre Court and No
 
 With a Grounds Pass you watch that on the **big screen on The Hill**, by which point the crowds have thinned and the food queues have gone.
 
-> 💡 **And you can still get a Show Court seat.** Ticket Resale runs to **9pm** and registration is open from 10am, so a late Grounds Pass does not lock you out of it. A 4pm arrival, a £22–£35 Grounds Pass and a £15 resale seat is the cheapest realistic route onto Centre Court that exists.
+> 💡 **And you can still get a Show Court seat.** Ticket Resale runs to **9pm** and registration is open from 10am, so a late Grounds Pass does not lock you out of it. A 4pm arrival, a £22–£35 Grounds Pass and a resale seat (£15 in 2026) is the cheapest realistic route onto Centre Court that exists.
 
 **The trade-offs:**
 
@@ -514,15 +514,15 @@ Blue Badge parking is free in **Car Park 6** on Church Road but must be booked i
 
 ## Route 4: Ticket Resale, once you are inside
 
-This turns a £22–£35 Grounds Pass into a Centre Court seat for £15.
+This turned a £22–£35 Grounds Pass into a Centre Court seat for £15 in 2026 — the AELTC sets a new resale price each year and hasn't published 2027's yet.
 
 Show Court ticket holders scan out when they leave for the day, and wherever possible their seats are put back on sale. From **3pm**, those returned Centre Court, No.1 Court and No.2 Court seats become available through **Ticket Resale**, near No.1 Court in the Parkside area of the Grounds.
 
 | | |
 | --- | --- |
-| **Centre Court** | **£15** |
-| **No.1 Court** | **£10** |
-| **No.2 Court** | **£10** |
+| **Centre Court** (2026) | **£15** |
+| **No.1 Court** (2026) | **£10** |
+| **No.2 Court** (2026) | **£10** |
 | **Where the money goes** | All proceeds, net of VAT, to the **Wimbledon Foundation** |
 
 The queue for it is now **virtual, and run through the Wimbledon app** — a change introduced in 2024 that replaced the old physical scrum.
@@ -619,7 +619,7 @@ Because debenture tickets carry the word "debenture" printed where the price wou
 Wimbledon no longer runs a separate overseas process. The catch is timing: the decisive moment is **ten months before the tournament**.
 
 1. **Enter the Public Ballot.** The application period is explicitly the same "for all guests, including those from overseas". It is online, it is free, and it needs nothing more than a myWimbledon account and a permanent home address. The 2027 window closed on 14 September 2026, and the 2028 one should open in the first days of September 2027.
-2. **The Queue works for visitors exactly as well as it does for locals.** Anyone can join it — no residency, membership or prior registration required. A **£35 Grounds Pass plus a £15 Ticket Resale seat** is a realistic plan for Centre Court at £50 all-in.
+2. **The Queue works for visitors exactly as well as it does for locals.** Anyone can join it — no residency, membership or prior registration required. A **£35 Grounds Pass plus a Ticket Resale seat (£15 in 2026)** is a realistic plan for Centre Court at £50 all-in.
 3. **The LTA ballot is a grey area.** Its terms set no residency requirement, and the sign-up form asks for no address or country at all — but the LTA reserves the right to verify a participant's place of residence, and the detailed rules for the 2027 ballots have not been published yet. If you live abroad and are considering paying £25 for it, ask the LTA before you join rather than after.
 4. **If you want certainty, Newmarket Holidays is the cheap end of it** — a reserved No.1 Court seat plus a hotel from **£348pp**, against £1,395 plus VAT for the cheapest hospitality package.
 5. **Bring photo ID.** You are asked to bring photo identification on the day — a passport, driving licence or travelcard showing your address.

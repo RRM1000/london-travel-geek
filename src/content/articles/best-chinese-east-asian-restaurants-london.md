@@ -17,9 +17,9 @@ tags: [restaurants, Chinese restaurants, dim sum, Thai restaurants, Korean resta
 draft: false
 faq:
   - q: "What is the best Chinese restaurant in London?"
-    a: "A. Wong in Victoria is the only Chinese restaurant in London holding a Michelin star, and it holds two. Andrew Wong works through the regional cooking of the whole country rather than settling into Cantonese, and the dim sum lunch is the cheaper way in. Four other restaurants are named by four independent sources each: Tao Tao Ju, Plum Valley, Four Seasons and Etles."
+    a: "A. Wong in Victoria is the only Chinese restaurant in London holding a Michelin star, and it holds two. Andrew Wong works through the regional cooking of the whole country rather than settling into Cantonese, and the dim sum lunch is the cheaper way in. Five other restaurants are named by four independent sources each: Tao Tao Ju, Plum Valley, Four Seasons, Murger Han and Etles."
   - q: "Is Chinatown worth eating in?"
-    a: "Yes, if you pick carefully. Tao Tao Ju and Plum Valley are the two most-cited Chinatown rooms, Barshu sits on its edge doing proper Sichuan, and Dumplings' Legend is the xiao long bao standby. Twelve Chinatown addresses in this guide are named by two or more independent sources; the ones with picture menus in the window generally are not."
+    a: "Yes, if you pick carefully. Tao Tao Ju and Plum Valley are the two most-cited Chinatown rooms, Barshu sits on its edge doing proper Sichuan, and Dumplings' Legend is the xiao long bao standby. Fifteen Chinatown addresses in this guide are named by two or more independent sources; the ones with picture menus in the window generally are not."
   - q: "Where do I get the best dim sum in London?"
     a: "Tao Tao Ju in Chinatown is the most-cited, making it fresh on site daily. Dim Sum Library in Covent Garden and Dim Sum & Duck at King's Cross are next on three sources each. Yauatcha in Soho serves it all day, and Dragon Castle at Elephant and Castle does it at about half the central price."
   - q: "What is the difference between the Chinese regions on this page?"
@@ -405,10 +405,10 @@ Everything else the Chinese sources carry by two or more independent publication
 ## What to know
 
 * **Dim sum is a lunch service** at most traditional halls, finishing around 5pm. Yauatcha and Dragon Castle are the exceptions.
-* **Chinatown rewards knowing where you are going** and punishes browsing. Twelve of its addresses are named by two or more independent sources; the rest are not.
+* **Chinatown rewards knowing where you are going** and punishes browsing. Fifteen of its addresses are named by two or more independent sources; the rest are not.
 * **Chinatown is not the whole story.** The most-cited Chinese cooking in London is spread from Victoria to Walthamstow, and several of the best rooms are nowhere near Gerrard Street.
 * **A. Wong's dim sum lunch** is materially cheaper than dinner and covers the same kitchen.
-* **Four restaurants on this page hold a Michelin star**, and nothing else here has been judged by anyone. Read the counts as agreement between critics, not as a verdict.
+* **Only A. Wong on this page holds a Michelin star** — two of them, the only two-starred Chinese kitchen in Europe — and nothing else here has been judged by anyone. Read the counts as agreement between critics, not as a verdict.
 * **Service charge** of 12.5% is discretionary and standard.
 
 ---

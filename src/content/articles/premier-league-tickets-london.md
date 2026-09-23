@@ -332,7 +332,7 @@ Step outside the Premier League and the whole apparatus disappears. These clubs 
 
 London has four clubs in the second tier in 2026/27: **West Ham United** at London Stadium, **Queens Park Rangers** at Loftus Road, **Charlton Athletic** at The Valley and **Millwall** at The Den.
 
-Charlton publishes the clearest numbers. A **bronze-category** match at The Valley starts at **£20 for adults and £5 for under-12s**, with a family bundle from **£35 for two adults and two under-12s**. More to the point, the club publishes a **general sale date for every home fixture** — for the Lincoln City match, season-ticket holders got an additional-ticket window on 12 October 2026 and general sale opened to all supporters the next day.
+Charlton publishes the clearest numbers. A **bronze-category** match at The Valley starts at **£20 for adults and £5 for under-12s**, with a family bundle from **£35 for two adults and two under-12s**. More to the point, the club publishes a **general sale date for every home fixture** — for the Lincoln City match, season-ticket holders get an additional-ticket window on 12 October 2026 and general sale opens to all supporters the next day.
 
 West Ham's relegation makes London Stadium a much easier ticket than it was last season. The journey out there is covered in [how to get to London Stadium](/articles/london-stadium-travel-guide/).
 
@@ -389,7 +389,7 @@ Midweek early rounds against lower-league opposition are the ones to watch for.
 
 ## If you only remember one thing
 
-The Premier League in London is not a ticket you buy. It is a queue you join, and the entry fee for the queue is £25 to £80 depending on the club. Join it eight weeks before you fly, not eight days.
+The Premier League in London is not a ticket you buy. It is a queue you join, and the entry fee for the queue is £25 to £50 depending on the club. Join it eight weeks before you fly, not eight days.
 
 And if the dates do not work, the football does not stop at the top division. A Saturday afternoon at The Valley or Hayes Lane costs £20 to £25, you can buy it that morning, and nobody will ask you for a loyalty-points balance.
 

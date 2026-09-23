@@ -123,7 +123,7 @@ The **[Monday Night Lectures](https://www.rgs.org/events/upcoming-events)** at 1
 
 The autumn run is weekly: **volcanoes with Sir Steve Sparks on 28 September**, seahorse conservation with Amanda Vincent on 5 October, news mapping on 12 October, glaciers and ice sheets on 19 October, wildlife tracking on 2 November and polar expeditions on 9 November.
 
-Membership is **£185 a year**, Fellowship from £144 — but **[Student Membership is free](https://www.rgs.org/join-us/student-membership)** for anyone studying GCSE, A Level or an undergraduate degree, which is the cheap way into the whole series. Separately, the Society hires the Ondaatje Theatre to outside promoters, and those nights are open to anyone at commercial prices: Max Hastings on the end of the Second World War on **22 September is £34.95**, the Saola Foundation on the Annamite Mountains on **23 September £20**, Nazanin Zaghari-Ratcliffe on **26 September £34.95**.
+Membership is **£185 a year**, Fellowship from £144 — but **[Student Membership is free](https://www.rgs.org/join-us/student-membership)** for anyone studying GCSE, A Level or an undergraduate degree, which is the cheap way into the whole series. Separately, the Society hires the Ondaatje Theatre to outside promoters, and those nights are open to anyone at commercial prices: the Saola Foundation on the Annamite Mountains on **23 September is £20**, and Nazanin Zaghari-Ratcliffe on **26 September is £34.95**.
 
 ### The Linnean Society, Burlington House
 

@@ -252,7 +252,7 @@ The Philippines' own fast-food chain, and more of a cultural fixture than a rest
 
 ## By format
 
-Filipino London divides by how the food reaches you rather than by region of the Philippines. If you know which of these you want, the choice gets easy.
+Filipino London divides by how the food reaches you rather than by region of the Philippines.
 
 **Modern Filipino dining rooms** — a short menu of sharing plates reworking home dishes with British produce.
 * **[Donia](https://www.doniarestaurant.com/reservations)**, Soho — the Bib Gourmand and the lamb caldereta pie. *Cited by 9 sources*
@@ -288,7 +288,7 @@ Filipino London divides by how the food reaches you rather than by region of the
 
 ## The cheapest Filipino food in London
 
-Every one of these will feed you for under £15, which is not true of much else in central London.
+Every one of these will feed you for under £16, which is not true of much else in central London.
 
 * **[Panadera](https://www.panaderabakery.com/menu)**, Soho and Marylebone — a pandesal sando and a Catalyst coffee. *Cited by 7 sources*
 * **Jollibee**, Earl's Court and Leicester Square — a Chickenjoy meal with gravy and a peach mango pie. *Cited by 5 sources*

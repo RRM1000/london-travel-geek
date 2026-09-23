@@ -14,7 +14,7 @@ faq:
   - q: "What is the best live music venue in London?"
     a: "For big shows, O2 Academy Brixton — the floor slopes down towards the stage, which is why everyone can see and why bands talk about it the way they do. For small ones, Cafe OTO in Dalston is Time Out's own pick as London's most consistently committed venue."
   - q: "Where do I see live jazz in London?"
-    a: "Ronnie Scott's in Soho is the institution, founded in 1959, though the Frith Street room everyone knows dates from 1965 — it opened on Gerrard Street. The Jazz Cafe in Camden covers a far wider range than the name suggests, and The Bull's Head in Barnes has run jazz since 1959 too, the same year as Ronnie's, still weekly in its own Jazz Room. The 606 Club in Chelsea is the one people wrongly assume is members-only; it is not."
+    a: "Ronnie Scott's in Soho is the institution — founded in 1959 in a Gerrard Street basement, though the Frith Street room everyone pictures dates from 1965, when the club moved. The Jazz Cafe in Camden covers a far wider range than the name suggests, and The Bull's Head in Barnes has run jazz since 1959 too, the same year as Ronnie's, still weekly in its own Jazz Room. The 606 Club in Chelsea is the one people wrongly assume is members-only; it is not."
   - q: "Which London music venues are historic buildings?"
     a: "The Roundhouse is a circular Victorian railway turning shed. KOKO is a gilded Victorian theatre reopened after a fire. Union Chapel in Islington is a Grade I listed working church. MOTH Club in Hackney is a veterans' social club with a gold tinsel stage curtain. And the 100 Club on Oxford Street has had live music in it since 1942."
   - q: "How do I find gigs in London?"

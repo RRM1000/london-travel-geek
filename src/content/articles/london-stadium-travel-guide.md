@@ -103,7 +103,7 @@ There's no equivalent here of Wembley's five colour-coded, pre-bookable car park
 
 **Westfield Stratford City's car park.** The stadium's own site names this as the nearest option to the ground for everyone else. Check Westfield's own site for its current price and opening hours before you rely on it for an event.
 
-If you're driving, the honest advice is the same as West Ham's own: don't, unless you already have a season-ticket space.
+If you're driving, the advice is the same as West Ham's own: don't, unless you already have a season-ticket space.
 
 ---
 

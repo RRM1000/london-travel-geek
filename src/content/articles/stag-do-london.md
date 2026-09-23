@@ -129,7 +129,7 @@ The karting venue that publishes a price and takes a group in central London is 
 
 **Ministry of Sound asks you to "arrive dressed for a good night out"** and refuses **tracksuits, sportswear, caps, football shirts and face coverings**; smart shorts and sports trainers are fine. **Tape in Mayfair is stricter** — no designer tracksuits, sliders or everyday trainers, guest list through its own members app, and **"all guests are required to show physical ID, photographs of your ID will not be accepted"**.
 
-That is the pattern, and it is worth stating plainly: **almost nowhere in central London bans fancy dress by name, because the sportswear rules do the job instead.** Twelve men in matching football shirts will be refused at more doors than twelve men in shirts.
+That is the pattern: **almost nowhere in central London bans fancy dress by name, because the sportswear rules do the job instead.** Twelve men in matching football shirts will be refused at more doors than twelve men in shirts.
 
 ### Where a group of twelve is genuinely welcome
 

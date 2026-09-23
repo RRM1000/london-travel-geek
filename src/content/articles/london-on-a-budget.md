@@ -45,7 +45,7 @@ people expect.
 
 ## What London actually costs
 
-Three lines carry almost the whole budget, and only one of them is unavoidable.
+Five lines carry almost the whole budget, and only one of them is unavoidable.
 
 | | A frugal day | A comfortable day | Where it goes wrong |
 | --- | --- | --- | --- |

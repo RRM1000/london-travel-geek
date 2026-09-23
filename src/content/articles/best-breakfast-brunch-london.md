@@ -15,7 +15,7 @@ faq:
   - q: "Where is the best breakfast in London?"
     a: "The Wolseley on Piccadilly is the London power breakfast and the room is a 1920s car showroom. Dishoom's bacon naan roll is the one people queue for. For a view, Duck & Waffle is forty floors up and open around the clock."
   - q: "Where can I get breakfast very early or very late in London?"
-    a: "Duck & Waffle in the City serves 24 hours. The Polo Bar opposite Liverpool Street has traded 24 hours since 1953 and has no front door, because in seventy years it has never needed one. Both do a fry-up at any hour."
+    a: "Duck & Waffle in the City serves 24 hours. The Polo Bar opposite Liverpool Street has traded 24 hours since 1953 and has no front door, because in over seventy years it has never needed one. Both do a fry-up at any hour."
   - q: "Do I need to book brunch in London?"
     a: "At weekends, yes for the popular rooms — Granger & Co, Caravan and The Wolseley all fill. Dishoom takes bookings before 6pm for any party size. Most independent cafés are walk-in and the queue moves."
   - q: "Where can I get a cheap breakfast in London?"
@@ -32,7 +32,7 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 
 > 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **14 sources carrying 209 citations** across **160 named rooms**. **36 rooms are named by two or more independent sources; 9 by three or more.**
-> **Built on:** fourteen sources across every price point, from a Michelin-starred breakfast to a £6.50 fry-up in Newham, with twenty-five caffs individually priced.
+> **Built on:** fourteen sources across every price point, from a Michelin-starred breakfast to a £6.50 fry-up in Newham, with thirteen caffs individually priced.
 > *Evidence rebuilt 21 September 2026 · [How we rank →](/how-we-rank/)*
 
 > 📅 **Booking, at a glance.**
@@ -508,7 +508,7 @@ Counter service and communal seating, so it works for one person with a book and
 
 ## Cheap, and open early
 
-**The honest finding: a cheap fry-up still exists, but not where the guides look.** Across the twenty-five caffs one specialist has priced, the spread runs from **£6.50 to about £17** — and the cheap end is entirely outside zone 1. Central London caffs cluster around £11–£13; the ones under £10 are in Newham, Leytonstone, Pimlico and Hammersmith. The modern brunch rooms start around £13 for a plate of eggs.
+**The honest finding: a cheap fry-up still exists, but not where the guides look.** Across the thirteen caffs one specialist has priced, the spread runs from **£6.50 to £18.50**. The cheap end is mostly outside zone 1 — Riccardo's Café in Liverpool Street is the one Zone 1 exception under £10. Central London caffs otherwise cluster around £11–£13; the rest of the sub-£10 caffs are in Newham, Leytonstone, Pimlico and Hammersmith. The modern brunch rooms start around £13 for a plate of eggs.
 
 #### Under £10, and all of them a train ride out
 

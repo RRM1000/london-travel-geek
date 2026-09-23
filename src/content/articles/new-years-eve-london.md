@@ -24,7 +24,7 @@ faq:
   - q: "How much are London New Year's Eve fireworks tickets?"
     a: "The 2026/27 price has not been published. Last year, for 31 December 2025, a Category A ticket (Blue, Pink and White areas) was £55, or £35 for anyone with a London billing postcode, and Category B (Red, Green and Orange) was £40, or £20 for Londoners, plus a £2.66 booking fee. Prices have risen most years since the event returned at £15 in 2022."
   - q: "Can you watch the London fireworks for free?"
-    a: "Not really, and the honest answer has got worse. The Royal Parks state plainly that there are no official viewing areas for the display in any Royal Park. Last year Primrose Hill was fenced and locked from 8pm on 30 December until 6am on 1 January, Greenwich Park's gates shut at about 6pm, and the east side of St James's Park closed at 5pm. Most 'free viewpoint' advice online predates those closures."
+    a: "Not really, and it has got worse. The Royal Parks state plainly that there are no official viewing areas for the display in any Royal Park. Last year Primrose Hill was fenced and locked from 8pm on 30 December until 6am on 1 January, Greenwich Park's gates shut at about 6pm, and the east side of St James's Park closed at 5pm. Most 'free viewpoint' advice online predates those closures."
   - q: "Is public transport free on New Year's Eve in London?"
     a: "No. Free travel ended after 31 December 2019, when TfL last ran it from 23:45 to 04:30. In November 2021 TfL said the pandemic's effect on its finances meant it could not offer free travel on New Year's Eve, and it has not returned. You pay as normal — touch in and out with contactless or Oyster."
   - q: "Is the London New Year's Day Parade free to watch?"
@@ -109,7 +109,7 @@ The only legitimate resale route is **Ticketmaster's Fan-to-Fan platform, at fac
 
 ---
 
-## Where to watch for free: the honest answer
+## Where to watch for free
 
 This is where nearly every guide online is now wrong, because the viewpoints people still recommend have been closed off one by one. The Royal Parks put it in a single sentence in December 2025: **there are no official viewing areas for the Mayor's New Year's Eve display in any Royal Park**, and visitors were urged not to travel in without a ticket. The Met commander leading the operation went further, telling the public to avoid parks such as Primrose Hill and spend the evening at an organised event instead.
 

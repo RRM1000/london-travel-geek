@@ -198,7 +198,7 @@ Spanish and North African small plates: **crispy aubergine with honey**, beetroo
 
 The menu is a blackboard that changes daily: **jamón, tortilla, croquetas, whatever fish came in**, ordered a plate at a time. High stools and a narrow ledge rather than tables; it is designed to be leaned on.
 
-**£££, walk-in, closed Sunday.** Go at six before it fills, or after nine when the first wave has gone.
+**££, walk-in, closed Sunday.** Go at six before it fills, or after nine when the first wave has gone.
 
 ![The dark frontage and pavement tables of Copita on d'Arblay Street](../../assets/articles/best-spanish-restaurants-london/copita.jpg)
 *Small plates and sherry, standing up if it is busy. No bookings for most of the room. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/6435938511), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*

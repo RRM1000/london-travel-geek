@@ -197,7 +197,7 @@ A more theatrical version: the guide carries a projector and puts **crime-scene 
 
 Not a walk — a 75-minute comedy-horror ride around London's landmarks on a converted 1960s Routemaster double-decker. **£25 adult, £17 child, £63 family.** Meets near **Embankment**. Book through [theghostbustours.com](https://theghostbustours.com/london/buy-tickets/) — the old ghostbustours.com domain has changed hands and no longer belongs to this operator.
 
-Two more worth knowing about, though neither falls on Halloween night itself this year: **Serial Killers: The Blood and Tears Walk**, a well-reviewed look at the Ripper and nine other London murder cases, runs Wednesday to Friday only, so the closest date is Friday 30 October; and London Walks' own **Haunted London** walk runs Sundays only, landing on 1 November.
+Two more worth knowing about, though neither falls on Halloween night itself in 2026: **Serial Killers: The Blood and Tears Walk**, a well-reviewed look at the Ripper and nine other London murder cases, runs Wednesday to Friday only, so the closest date is Friday 30 October; and London Walks' own **Haunted London** walk runs Sundays only, landing on 1 November.
 
 **The London Dungeon** has a Jack the Ripper scene among its scare-actor sets, and its Halloween show, **Curse of the Mummy**, runs **17 October to 1 November 2026**, included in a standard ticket — from **£27** adult and **£22** child (5–15) online, or £35 and £29 on the door. [See the listing](https://www.thedungeons.com/london/whats-inside/events/halloween/).
 

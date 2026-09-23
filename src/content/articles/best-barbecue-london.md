@@ -29,9 +29,9 @@ faq:
 
 Search for the best brisket in London and you will not find a single piece of journalism.
 
-Every result on the first page is an aggregator or a restaurant's own SEO page — **Big Easy explaining why it serves the best beef brisket in London, another explaining where you can find it, both outranking every masthead in the country.** Two restaurants have written the answer to the reader's question as "here", and nothing has been published to argue otherwise.
+Every result on the first page is an aggregator or a restaurant's own SEO page — **Big Easy explaining why it serves the best beef brisket in London, another explaining where you can find it, both outranking every masthead in the country.** Nothing else has been published to argue otherwise.
 
-So this is a guide to a subject that has demand and almost no serious coverage. There is no judged award either: **Britain's barbecue society judges competition cook teams, not restaurants**, and the other name people remember has been liquidated since 2018.
+This is a guide to a subject that has demand and almost no serious coverage. There is no judged award either: **Britain's barbecue society judges competition cook teams, not restaurants**, and the other name people remember has been liquidated since 2018.
 
 > 💡 **The Short Version:** **Smokestak** is named by nine of fifteen sources, more than anything else. **Acme Fire Cult** is second and leads on vegetables. **Texas Joe's** is the Hill Country one — and is **closed Sunday and Monday**. **Cue Point**, Afghan flavours through Texan technique, is Time Out's number one. A surprising amount of this is cooked in brewery yards.
 
@@ -107,7 +107,7 @@ It is **closed Sunday and Monday**, lunch runs Thursday and Friday only from noo
 
 **Time Out's number one**, and the clearest example of where London barbecue has actually gone. **Mursal Saiq and Joshua Moroney** cook Afghan flavours through Texan tradition — torshi pickles alongside brisket burnt ends and hot link sausages — after years of residencies across the city before settling into a permanent site.
 
-**There is a second thing going on here and it is not a marketing line.** Saiq and Moroney run the business as a training route for refugees - professional catering courses and qualifications, alongside language teaching and trauma therapy. It is a working kitchen that is also a programme, and none of the published barbecue lists mentions it.
+**There is a second thing going on here.** Saiq and Moroney run the business as a training route for refugees - professional catering courses and qualifications, alongside language teaching and trauma therapy. It is a working kitchen that is also a programme, and none of the published barbecue lists mentions it.
 
 If you only eat at one place on this page to understand what is different about barbecue in London rather than Austin, make it this. After years of moving between residencies it now has a permanent home — **The Garden Bar, Grill & Smokehouse, 41 Bramley Road, W10 6SZ**, open Tuesday to Saturday for lunch from noon to 4pm and dinner from 6pm to 10pm, with a Sunday roast served noon to 6pm. **It takes bookings, and the kitchen is fully halal.**
 
@@ -127,7 +127,7 @@ Painted tiles and bare plaster, with LEGO figurines and miniature chairs made ou
 
 ![The Big Easy Bar-B-Q and Crabshack sign on the Park Level of Crossrail Place at Canary Wharf, under the timber lattice roof of the building, which rises straight out of the dock water with the towers behind](../../assets/articles/best-barbecue-london/big-easy-crossrail-place.jpg)
 
-*The Canary Wharf branch, on the Park Level of Crossrail Place. The strapline under the sign reads cocktails, steaks, lobster and live music, which is the whole proposition in four words.*
+*The Canary Wharf branch, on the Park Level of Crossrail Place. The strapline under the sign reads cocktails, steaks, lobster and live music, which is the whole proposition in four things.*
 
 The original Chelsea branch built its reputation on **bargain-price lobster alongside pit-cooked ribs**, which is still the reason to go. A mini-chain now, loud and deliberately unserious, with live bands, and the one on this page most suited to a large group who cannot agree.
 

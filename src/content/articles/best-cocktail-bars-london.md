@@ -50,14 +50,12 @@ Both are worth your time and they are not competing.
 | --- | --- |
 | **Mayfair & St James's** | The Connaught Bar, Kwãnt, Dukes Bar |
 | **Marylebone** | Artesian |
-| **Covent Garden & Strand** | The American Bar |
+| **Covent Garden & Strand** | The American Bar, Oriole |
 | **Holborn** | Scarfes Bar |
-| **Soho** | Swift, Bar Termini |
+| **Soho** | Swift, Bar Termini, Three Sheets Soho, Bar Crispin |
 | **Shoreditch & Bethnal Green** | Tayēr + Elementary, Satan's Whiskers, Coupette, Seed Library |
 | **Hoxton, Haggerston & Dalston** | Happiness Forgets, A Bar with Shapes for a Name, Three Sheets (Dalston) |
-| **Soho** | Swift, Bar Termini, Three Sheets Soho, Bar Crispin |
 | **North London** | Little Mercies (Crouch End), Half Cut Market (York Way) |
-| **Covent Garden & Strand** | Oriole |
 | **South Bank** | Lyaness |
 
 **On prices:** London cocktail bars very rarely publish their lists online, so this guide does not quote a price per drink unless the bar states one. Every figure, opening time and booking rule below was checked against the venue's own site on 2 September 2026. Expect the hotel bars in Mayfair and St James's to be the most expensive rooms here by some distance, and the east London independents to be materially cheaper for drinks made just as carefully.
@@ -308,7 +306,7 @@ A low-waste neighbourhood bar from the same family behind Three Sheets, built ar
 
 The Snickers Old Fashioned, Moro Margarita and Rhubarb Negroni are the signatures, £10.50–£12.50, with £7 "mini drinks" for something smaller.
 
-**Thirty per cent off every drink between 6 and 7pm, on every day they open** — which is Tuesday to Saturday, not seven nights a week as this guide and several others have said. The bar runs **6pm to midnight, Tuesday to Saturday, closed Sunday and Monday**. Within those five days it is still the most generous standing offer of any bar here.
+**Thirty per cent off every drink between 6 and 7pm, on every day they open** — which is Tuesday to Saturday, not seven nights a week as several other guides claim. The bar runs **6pm to midnight, Tuesday to Saturday, closed Sunday and Monday**. Within those five days it is still the most generous standing offer of any bar here.
 
 > The kitchen is closed until 25 September 2026, reopening with chef Christine Walsh. The bar is trading throughout.
 
@@ -326,7 +324,7 @@ Around eighty low-intervention bottles to drink in or carry out, and a Konro-gri
 
 **Shop hours Tuesday and Wednesday 5–10pm, Thursday 5–10.30pm, Friday and Saturday 4–11pm. Closed Sunday and Monday.** The kitchen runs a narrower 5.30–9.30pm inside those. **A set menu on Tuesdays and Wednesdays is £24 for two courses, £28 for three.**
 
-Despite the name, it is a shopfront rather than anything inside a market. Their site is halfcut.world. Caledonian Road & Barnsbury is the nearest station.
+Their site is halfcut.world. Caledonian Road & Barnsbury is the nearest station.
 
 ### Bar Crispin, Soho
 
@@ -469,7 +467,7 @@ Some bars are simply priced below the market and do not need an offer:
 
 * **Hotel bars seat walk-ins early** and stop after about 8pm. Go at 6 or book.
 * **Dukes' two-drink limit is enforced** and sensible — the martinis are close to neat spirit.
-* **Satan's Whiskers takes no bookings at all.** Turn up, and go early on a weekend.
+* **Satan's Whiskers only takes bookings by phone.** Turn up, or call ahead, and go early on a weekend.
 * **£20 a cocktail in Mayfair is normal.** East London is £13–£16 for drinks made with the same care.
 * **Ask what the bartender wants to make.** At every bar on this list that is a better order than reading the menu.
 * **Service charge** of 12.5% is standard and discretionary.

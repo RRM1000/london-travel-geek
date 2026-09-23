@@ -28,9 +28,9 @@ London has a competitive socialising venue in almost every central postcode, and
 
 The differences that matter are the ones nobody advertises. Whether two people can book on a Friday. Whether the room throws children out at five, six or seven. Whether you get a private game or are paired with strangers. And what an evening actually costs once the bar is counted.
 
-This is also a category that churns hard. Since this guide was last written, three of the venues on it have shut.
+This is also a category that churns hard. Since this guide was last written, four of the venues on it have shut.
 
-> 💡 **The Short Version:** **Mission: Breakout** is an escape room inside a real abandoned Tube station. **Bounce** is £6 a head, the cheapest game here. **Fairgame** is 18+ at every hour it opens. **Flight Club** will not take a booking of fewer than six after 4pm on a Friday. **THE CUBE** costs up to £57.69 a head and pairs you with strangers. And **Junkyard Golf, Swingers City and Bounce Old Street have all closed** — do not let an old listicle send you to any of them.
+> 💡 **The Short Version:** **Mission: Breakout** is an escape room inside a real abandoned Tube station. **Bounce** is £6 a head, the cheapest game here. **Fairgame** is 18+ at every hour it opens. **Flight Club** will not take a booking of fewer than six after 4pm on a Friday. **THE CUBE** costs up to £57.69 a head and pairs you with strangers. And **Junkyard Golf, Swingers City, Bounce Old Street and Bounce Farringdon have all closed** — do not let an old listicle send you to any of them.
 
 *Every venue status-checked against its own website or booking system on 1 September 2026.*
 
@@ -324,7 +324,7 @@ This is the section other guides leave out, and it is why people turn up at lock
 
 This is not a cheap night out, and the pricing is deliberately opaque — most venues charge per lane, per oche or per band rather than publishing a flat per-head figure, and several publish nothing at all until you pick a date.
 
-* **The real spread is £6 to £58 a head for the game alone.** Bounce is £6, Rocket Room off-peak is £8, Flight Club and Electric Shuffle are £10, Fairgame Canary Wharf is £15, Swingers is £12 to £16, and THE CUBE is £48.65 to £57.69. That is a factor of nine for ninety minutes of the same basic evening.
+* **The real spread is £6 to £57.69 a head for the game alone.** Bounce is £6, Rocket Room off-peak is £8, Flight Club and Electric Shuffle are £10, Fairgame Canary Wharf is £15, Swingers is £12 to £16, and THE CUBE is £48.65 to £57.69. That is a factor of nine for ninety minutes of the same basic evening.
 * **Book the earliest slot.** Almost every venue here is materially cheaper before 5pm on a weekday — Electric Shuffle drops from £13 to £10, Rocket Room from £12 to £8, Fairgame City from £25 to £22, Swingers from £16 to £12 — and it is quieter, which matters more than the money in a room built for noise.
 * **Group rates beat individual rates, sharply.** The Murdér Express falls from £88 a head to £60 if you book as a six. Bloomsbury Lanes charges £45 for a lane of six off-peak, which is £7.50 each. Gravity's MAX3 pass is £28.50 for three activities that would cost £37.49 as karting, bowling and darts bought individually.
 * **The bar is where the cost goes.** Drinks are priced for a captive audience everywhere on this list. One session and then move on is both cheaper and, since the format is designed as a first act rather than a whole evening, more fun.

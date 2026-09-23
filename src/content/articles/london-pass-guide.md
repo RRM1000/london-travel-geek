@@ -165,7 +165,7 @@ Go City prints a "price without pass" against each attraction. On several of the
 
 Two mechanisms are at work. At the Merlin attractions and the Royal Collection sites, Go City quotes the **on-the-day box office price**. At Hampton Court it quotes the **donation-inclusive price** — Historic Royal Palaces asks for an optional 10% on top, and Go City has counted it as compulsory.
 
-On a five-attraction itinerary that is about **£26.63 of saving that was never available to you in the first place.**
+On a five-attraction itinerary that is about **£23.26 of saving that was never available to you in the first place.**
 
 ---
 
@@ -334,7 +334,7 @@ On a single short trip, half price at St Paul's and Kensington saves **£25.85**
 
 **From £139 per person.** Covers the London Eye, Madame Tussauds, SEA LIFE London and Shrek's Adventure, plus 20-plus UK attractions. Pre-booking required at all of them.
 
-The London Eye and Madame Tussauds booked direct come to **£52.63**. £139 only works if you do all four London sites and expect to return during the year.
+The London Eye and Madame Tussauds booked direct come to **£56.00**. £139 only works if you do all four London sites and expect to return during the year.
 
 ### Merlin's Magical London — the one that does pay, from three attractions
 
@@ -362,7 +362,7 @@ The 90-day window is the other half of the case, and it is where this beats The 
 
 ### Just booking two or three direct
 
-The baseline, and for most readers the answer. Book in advance, on the attraction's own site, and you get the advance price rather than the walk-up price — which is where the real saving in London sightseeing lives. On the London Eye that gap is **£10 an adult**; on Madame Tussauds it is **£15.37**.
+The baseline, and for most readers the answer. Book in advance, on the attraction's own site, and you get the advance price rather than the walk-up price — which is where the real saving in London sightseeing lives. On the London Eye that gap is **£10 an adult**; on Madame Tussauds it is **£12.00**.
 
 ---
 

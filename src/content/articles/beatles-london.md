@@ -51,7 +51,7 @@ faq:
 | "In My Life" Walking Tour with Richard Porter | £20 | Independent operator |
 | The Beatles Story, Liverpool, adult | £20 | Independent museum |
 | Beatles: Abbey Road, Savile Row & Trident walking tour | £49 | Independent operator |
-| Liverpool and the Beatles day tour from London | From £194 | Independent operator |
+| Liverpool and the Beatles day tour from London | £199 | Independent operator |
 
 ## Tours
 

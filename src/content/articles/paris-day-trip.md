@@ -49,7 +49,7 @@ The bigger difference from every other day trip here is what happens before you 
 | --- | --- |
 | **Operator** | Eurostar, direct |
 | **Journey time** | **From 2h16** (2h28–29 on the October days we checked) |
-| Eurostar Standard, range we saw | **£35–£135.50** depending on date and time |
+| Eurostar Standard, range we saw | **£35–£220** depending on date and time |
 | Eurostar Plus, range we saw | £95.50–£300 |
 | Eurostar Premier, range we saw | **£245–£361**, barely moved with the time of day |
 | Recommended arrival, St Pancras | **75 min** before (Standard/Plus), 45 min (Premier) |

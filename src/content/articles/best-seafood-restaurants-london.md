@@ -74,7 +74,7 @@ The city does it three ways, and picking one settles most of the decision: shuck
 
 *££££ · Leicester Square · Cited by 9 sources*
 
-The most-cited seafood restaurant in London by a clear margin — nine independent sources: five editorial mastheads, two specialists and two video reviewers. Nothing else in this sources is close.
+The most-cited seafood restaurant in London by a clear margin — nine independent sources: five editorial mastheads, two specialists and two video reviewers. Nothing else in this guide is close.
 
 **Since 1896**, in a warren of small wood-panelled rooms off St Martin's Court, with a central crustacea bar and a fish pie that has outlasted every fashion London dining has been through. The Infatuation calls it a West End post-theatre hangout where you are guaranteed a good seafood meal; Time Out puts it fourth on its ranking and calls it the grand dame of theatreland.
 

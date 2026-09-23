@@ -30,7 +30,7 @@ faq:
   - q: "How do you get cheap Cursed Child tickets?"
     a: "The Friday Forty. Forty seats at £40 are released for every performance of the following week, entered through the TodayTix app between 12.01am and 1pm every Friday, with winners notified by 5pm the same day. There is no day-seat scheme for this production."
   - q: "Is the Warner Bros. Studio Tour afternoon tea in the Great Hall?"
-    a: "No. It is served in the Food Hall under the enchanted ceiling, and the operator says so explicitly on its own booking page. It costs from £42.50 per adult, is an add-on that cannot be booked without a tour ticket, and comes with a 90-minute table slot."
+    a: "No. It is served at The Hogwarts Table, a dining room in the entrance hub, and the operator says so explicitly on its own booking page. It costs from £42.50 per adult, is an add-on that cannot be booked without a tour ticket, and comes with a 90-minute table slot."
 ---
 
 **A ticket to the Warner Bros. Studio Tour costs £58.50 for an adult, and you cannot buy one at the door.** Not because it is busy — because they genuinely do not sell them there. Everything else in this guide is cheaper than that, and roughly half of it is free.
@@ -109,7 +109,7 @@ The sets are re-dressed on a yearly cycle: a winter dressing with snow on the Gr
 
 ### The afternoon tea, honestly
 
-At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on most families consider — so here is the thing the photography does not make obvious. It is served in the Food Hall beneath the enchanted ceiling, and the operator states on its own booking page that **"This dining experience does not take place in the Great Hall set."** It is an add-on only, you cannot book it without a tour ticket, and you get a 90-minute table slot, so plan your entry time around it. Vegan, vegetarian and gluten-free menus exist, plus a children's version served in a miniature trunk.
+At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on most families consider — so here is the thing the photography does not make obvious. It is served at The Hogwarts Table, a dining room in the entrance hub, and the operator states on its own booking page that **"This dining experience does not take place in the Great Hall set."** It is an add-on only, you cannot book it without a tour ticket, and you get a 90-minute table slot, so plan your entry time around it. Vegan, vegetarian and gluten-free menus exist, plus a children's version served in a miniature trunk.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="505308" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

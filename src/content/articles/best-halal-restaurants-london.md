@@ -1,6 +1,6 @@
 ---
 title: "Halal Restaurants in London, Checked Against What Each Kitchen Actually Says"
-seoTitle: "Best Halal Restaurants London 2026: Verified Halal Status, Not Just Listed"
+seoTitle: "Best Halal Restaurants London 2026: Verified Status"
 description: "Eight published lists name 132 places between them. This guide checked the halal status of each one at the restaurant rather than the listicle — and the three most-cited names are not what the lists imply."
 publishedAt: 2026-09-08
 sites: [london]
@@ -10,7 +10,7 @@ tags: [restaurants, halal restaurants, dining, Muslim travel, London food]
 draft: true
 faq:
   - q: "What is the best halal restaurant in London?"
-    a: "It depends what you mean by halal, which is the honest answer and the reason this guide is organised the way it is. If you want independent verification, read the Halal Monitoring Committee's public register — it listed 156 certified restaurants in London when checked on 8 September 2026, including Aziziye in Stoke Newington and Dilara Uyghur in Finsbury Park, and none of them appears in any published best-of list. If you want a full dining room where the whole kitchen is halal on the restaurant's own word, The Great Chase in Islington is fine dining with an alcohol-free bar, and HS&Co in Stratford is a British steakhouse working entirely with halal beef."
+    a: "It depends what you mean by halal. If you want independent verification, read the Halal Monitoring Committee's public register — it listed 156 certified restaurants in London when checked on 8 September 2026, including Aziziye in Stoke Newington and Dilara Uyghur in Finsbury Park, and none of them appears in any published best-of list. If you want a full dining room where the whole kitchen is halal on the restaurant's own word, The Great Chase in Islington is fine dining with an alcohol-free bar, and HS&Co in Stratford is a British steakhouse working entirely with halal beef."
   - q: "Is Dishoom halal?"
     a: "Partly, and the popular claim that it is 'verified halal' is wrong. Dishoom's own FAQ says its lamb, chicken and turkey come from halal-certified suppliers and that it holds copies of the certificates. It also serves pork — the bacon naan is one of its best-known dishes — and it is licensed. So the meat you order may be halal-certified while the kitchen around it is not a halal kitchen. Whether that works for you is a personal call, not something a guide should make for you."
   - q: "Are London's halal restaurants certified?"
@@ -25,7 +25,7 @@ faq:
     a: "No, and the newer openings are the interesting part. Ramo Ramen in Soho calls itself the world's first Filipino ramen restaurant and states that all meat it serves is halal certified. Cue Point in Walworth is Afghan-led barbecue. Rasa Sayang in Chinatown does Malaysian and Singaporean hawker food with halal offerings. East and Southeast Asian halal cooking is the part of this scene the mainstream food press has only recently started covering."
 ---
 
-Eight published guides to halal food in London name 132 restaurants between them. Only thirteen of those are named by more than one, and the four most-cited are Gymkhana, Pizza Pilgrims, Dishoom and — some distance behind — a scattering of places with two mentions each.
+Eight published guides to halal food in London name 132 restaurants between them. Only thirteen of those are named by more than one, and the three most-cited are Gymkhana, Pizza Pilgrims and Dishoom — some distance ahead of a scattering of places with two mentions each.
 
 That top of the list is a problem, and it is the reason this guide is built differently.
 

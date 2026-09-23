@@ -73,7 +73,7 @@ Where to eat near each of the big sights without crossing town:
 | 🏰 **Historic Church Conversion** | *Mercato Mayfair* | Artisan food stalls & cocktail bars set inside a restored Victorian church |
 | 🚌 **Luxury Gourmet Bus Tour** | *Bustronome London* | A 4-course dinner served aboard a glass-topped double-decker bus |
 
-Two guides cover most of this already:
+Three guides cover most of this already:
 
 * [**London's Most Unusual Restaurants**](/articles/unusual-restaurants-london/) — 22 strange rooms, from a converted public lavatory to dinner underground.
 * [**The Best Views in London**](/articles/best-views-london/) — Every rooftop and viewing floor compared, including which ones are free and which need booking weeks out.
@@ -152,7 +152,7 @@ Fast food in London without the global chains:
 
 * [**Cheap Eats in London**](/articles/cheap-eats-london/) — 34 places to eat well under £15, including Mumbai street food at *Shree Krishna Vada Pav*, South Indian dosas at *Saravanaa Bhavan* and the market stalls worth the detour.
 * [**The Best Sandwiches in London**](/articles/best-sandwiches-london/) — Salt beef, Japanese sandos and the toastie counters.
-* [**The Best Bakeries in London**](/articles/best-bakeries-london/) — 23 worth queuing for, and which ones sell out by eleven.
+* [**The Best Bakeries in London**](/articles/best-bakeries-london/) — 24 worth queuing for, and which ones sell out by eleven.
 * [**Breakfast and Brunch**](/articles/best-breakfast-brunch-london/) — From £4 caffs to the rooms that need booking a fortnight out.
 * [**The Best Coffee in London**](/articles/best-coffee-london/) — Roasters and counters, and where the coffee is genuinely the point.
 * [**Late-Night Eating**](/articles/late-night-eating-london/) — What is still cooking after midnight, by area.
@@ -213,7 +213,7 @@ The dishes and rooms that are particular to this city:
 * [**Classic British Food**](/articles/classic-british-food-london/) — What British food actually is, dish by dish, from the Scotch egg to the sticky toffee pudding.
 * [**Sunday Roast**](/articles/best-sunday-roast-london/) — Cross-referenced across every guide, award and critic of the year. Most need booking by Thursday.
 * [**Fish and Chips**](/articles/best-fish-and-chips-london/) — The shops that still fry to order, and the two that use beef dripping.
-* [**Afternoon Tea**](/articles/best-afternoon-tea-london/) — 22 compared, with the dress codes and the real prices.
+* [**Afternoon Tea**](/articles/best-afternoon-tea-london/) — 28 compared, with the dress codes and the real prices.
 * [**Historic Pubs and Dining Rooms**](/articles/historic-pubs-dining-rooms-london/) — London's oldest rooms, including *Rules*, *Wiltons* and the pubs that predate the Great Fire.
 * [**Gastropubs**](/articles/best-gastropubs-london/) — Thirty sources cross-referenced across 126 pubs, which rooms take bookings, and which ones shut on Mondays.
 * [**Most Beautiful Pubs**](/articles/most-beautiful-pubs-london/) — Seventeen sources and CAMRA's register of protected interiors, the gin palaces and flower-covered frontages the lists agree on.

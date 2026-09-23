@@ -23,7 +23,7 @@ faq:
     a: "Battersea Park has a boating lake, a children's zoo and the Peace Pagoda on the river. Regent's Park has the Open Air Theatre and London Zoo. Both are free to enter."
 ---
 
-London is roughly 20 per cent green space, and the best of it is not the famous parks. It is a bombed Wren church filled with climbing plants, a tropical conservatory hidden inside a brutalist fly tower, and a set of dinosaur sculptures built in 1854 by people who had never seen a complete skeleton.
+London is nearly half green space, and the best of it is not the famous parks. It is a bombed Wren church filled with climbing plants, a tropical conservatory hidden inside a brutalist fly tower, and a set of dinosaur sculptures built in 1854 by people who had never seen a complete skeleton.
 
 Almost all of it is free.
 

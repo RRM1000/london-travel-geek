@@ -1,7 +1,7 @@
 ---
 title: "London Day Rooms: Booking a Hotel Without Staying the Night"
 seoTitle: "Day Use Hotels London 2026: Day Rooms From £50"
-description: "About 245 London hotels sell a room for the day, not the night: fixed windows from £50, 21% to 69% off. Which open at 7am, the Heathrow and Gatwick options, and when it beats left luggage."
+description: "About 245 London hotels sell a room for the day, not the night: fixed windows from £50, 24% to 69% off. Which open at 7am, the Heathrow and Gatwick options, and when it beats left luggage."
 heroImage: "../../assets/articles/day-rooms-london/london-hotel-room-daytime.jpg"
 heroImageAlt: "A London hotel room with a double bed, a patterned throw, teal bedside tables and lamps lit either side of an upholstered headboard"
 publishedAt: 2026-09-07
@@ -12,11 +12,11 @@ tags: [where to stay, hotels, planning, Heathrow]
 draft: false
 faq:
   - q: "Can you book a hotel room for just a few hours in London?"
-    a: "Yes, and about 245 London hotels do it. You book a window rather than a night — typically 10am to 5pm or 9am to 6pm — and pay between 21% and 69% less than the overnight rate. Dayuse is the main platform, HotelsByDay the other, and YOTELAIR at Gatwick sells its cabins by the hour direct with a four-hour minimum."
+    a: "Yes, and about 245 London hotels do it. You book a window rather than a night — typically 10am to 5pm or 9am to 6pm — and pay between 24% and 69% less than the overnight rate. Dayuse is the main platform, HotelsByDay the other, and YOTELAIR at Gatwick sells its cabins by the hour direct with a four-hour minimum."
   - q: "How much is a day room in London?"
     a: "Roughly £50 to £160 for a normal hotel, depending on the address. The Dover Hotel in Pimlico is about £50 for 10am to 4pm, ibis London Heathrow about £50 for 9am to 5pm, and Marlin Waterloo about £107 for windows starting at 7am. At the top end the Athenaeum on Piccadilly is about £272 for the day, which is 54% off its £580 overnight rate."
   - q: "Is a day room cheaper than a night?"
-    a: "Always, and usually by a lot. The discounts we found ranged from 21% to 69% off the same hotel's overnight rate. The biggest savings are at expensive hotels rather than cheap ones — Seraphine Hammersmith was 69% off and the Mandeville 66%, while budget airport hotels were nearer 24%, because there is less margin to give away."
+    a: "Always, and usually by a lot. The discounts we found ranged from 24% to 69% off the same hotel's overnight rate. The biggest savings are at expensive hotels rather than cheap ones — Seraphine Hammersmith was 69% off and the Mandeville 66%, while budget airport hotels were nearer 24%, because there is less margin to give away."
   - q: "Why would you book a hotel for the day?"
     a: "Four common reasons: a long layover or an early arrival before check-in anywhere; somewhere quiet to work with a desk, a shower and no time limit; a spa or pool afternoon, which several sell as a package; and the gap between checking out at 10am and a late flight. It is also a far better answer to a nine-hour wait than a left-luggage locker and a coffee shop."
   - q: "Do you pay upfront for a day room?"
@@ -27,7 +27,7 @@ faq:
     a: "Most windows open at 9am or 10am, which is no help if you land at six. The early ones are worth knowing: Marlin Waterloo sells from 7am, and at Heathrow both Crowne Plaza T4 and the Atrium open at 7am. Evening windows also exist — 4pm to 10pm or 11pm at several — for the reverse problem of a midnight flight."
 ---
 
-About **245 London hotels** will sell you a room for the afternoon rather than the night. You book a window — 10am to 5pm, say — and pay somewhere between **21% and 69% less** than the same room costs overnight.
+About **245 London hotels** will sell you a room for the afternoon rather than the night. You book a window — 10am to 5pm, say — and pay somewhere between **24% and 69% less** than the same room costs overnight.
 
 It is the least-known useful thing in London accommodation, and the answer to a problem most visitors have at least once: a nine-hour gap, a suitcase, and nowhere to be.
 

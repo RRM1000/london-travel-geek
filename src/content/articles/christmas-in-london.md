@@ -43,7 +43,7 @@ heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with 
 
 Inside, **Santa's Grotto, the Christmas Market, the light arches and every band and DJ are free**. Everything else is not: the ice rink is £12.65–£19.25, the Giant Wheel £8.80–£12.10, the new Gandeys K-Pop Dragon Circus £13.75–£19.80 — and it is Gandeys this year, not Zippos, which had been the resident circus since 2009. Every fairground ride is charged separately on top.
 
-The quietest and cheapest visit is the same visit: a Monday to Wednesday daytime in late November, when entry is £1 and the attraction prices drop with it.
+The quietest and cheapest visit is the same visit: a Monday to Thursday daytime in late November, when entry is £1 and the attraction prices drop with it.
 
 > 🎡 **[The full Winter Wonderland guide](/articles/hyde-park-winter-wonderland/)** — every published price, all four gates, the free live music, the Bavarian Hall's 18+ evening rule, and what is new for 2026.
 

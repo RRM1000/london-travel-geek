@@ -21,13 +21,13 @@ faq:
   - q: "When can I get tickets for the Bayeux Tapestry at the British Museum?"
     a: "The next general ticket release is 21 October 2026, covering visits between 1 January and 31 March 2027. Members' priority booking reopens earlier, on 6 October 2026. The exhibition itself opened on 10 September 2026 and runs until 11 July 2027 in Room 30, and earlier releases have gone quickly — the museum's newsletter is the only dependable way to hear when the next one opens. Worth knowing that it stays open until 9pm from Thursday to Saturday, so late slots are the calmest."
   - q: "What events are on in London in September 2026?"
-    a: "Totally Thames runs the whole month along the river. Open House and the London Design Festival both run 12 to 20 September, Heritage Open Days 11 to 20, and London Fashion Week 17 to 21. Saturday 12 September is the busiest single day of the month: the Great River Race rows 21.6 miles from Millwall to Ham from 12.45pm, and the Last Night of the Proms closes the season at the Royal Albert Hall at 7.15pm."
+    a: "Totally Thames runs the whole month along the river. Open House and the London Design Festival both ran 12 to 20 September, Heritage Open Days 11 to 20, and London Fashion Week 17 to 21. Saturday 12 September was the busiest single day of the month: the Great River Race rowed 21.6 miles from Millwall to Ham from 12.45pm, and the Last Night of the Proms closed the season at the Royal Albert Hall at 7.15pm."
   - q: "Is Open House London free?"
     a: "Yes, entirely. The catch is not money but timing — the programme goes live in August, and the buildings people most want to see either ballot or release timed slots that go within hours of opening. If you are deciding in September, the marquee buildings have gone. Plan around the walk-up sites instead, of which there are hundreds, and set a reminder for the programme launch next August."
   - q: "Can you still get tickets for the Last Night of the Proms?"
-    a: "Seats sell out far in advance, but the hall is not closed to you. Day Promming tickets — standing, in the arena or the gallery — go on sale at 9.30am on the day of the concert, two per person. Season ticket holders can redeem from 11am the day before. It is the cheapest way into the most oversubscribed classical concert in Britain and almost no guide mentions it."
+    a: "The 2026 concert was on 12 September and is over, but seats sell out far in advance every year, and the hall is never closed to you. Day Promming tickets — standing, in the arena or the gallery — go on sale at 9.30am on the day of the concert, two per person. Season ticket holders can redeem from 11am the day before. It is the cheapest way into the most oversubscribed classical concert in Britain and almost no guide mentions it."
   - q: "What exhibitions are closing in London in September 2026?"
-    a: "Four worth catching. Monet and Renoir: Painting Side by Side at the National Gallery closes on 15 September. Early Netherlandish drawings at the British Museum and Waldmüller: Landscapes at the National Gallery both close on 20 September. James McNeill Whistler at Tate Britain closes on 27 September."
+    a: "Four worth catching. Monet and Renoir: Painting Side by Side at the National Gallery closed on 15 September. Early Netherlandish drawings at the British Museum and Waldmüller: Landscapes at the National Gallery both closed on 20 September. James McNeill Whistler at Tate Britain closes on 27 September — still open, with a few days left."
   - q: "What is the weather like in London in September?"
     a: "Usually 19 to 21°C by day and around 12 to 13°C at night, cooling noticeably through the month, and historically one of the drier months. The practical point is that afternoons stay warm while evenings stop being reliable — take a jacket even on a hot day. Sunset moves from about 7.30pm at the start of the month to about 6.45pm by the end, so the last genuinely good evenings for river walks and outdoor drinking are the first three weeks."
 ---
@@ -36,9 +36,9 @@ September is the month London stops performing for visitors and goes back to bei
 
 The schools go back in the first week. From around the 5th, the museums thin out, restaurant tables reappear and the South Bank stops being an obstacle course, while the weather usually holds well into the month. Sunset is still after seven for the first three weeks. It is August's weather with October's crowds.
 
-Then the middle of the month collides.
+Then the middle of the month collided.
 
-**Open House and the London Design Festival run the same nine days.** In 2026 that is 12 to 20 September, exactly. Heritage Open Days overlaps them, 11 to 20. London Fashion Week starts the day before they finish. For anyone interested in buildings, design or how London is put together, that week is the best week of the year to be in the city — and it is simultaneously the worst week to want a cheap hotel room or a quiet gallery. Both halves of that are worth knowing before you book.
+**Open House and the London Design Festival ran the same nine days.** In 2026 that was 12 to 20 September, exactly. Heritage Open Days overlapped them, 11 to 20, and London Fashion Week started the day before they finished. For anyone interested in buildings, design or how London is put together, that was the best week of the year to be in the city — and simultaneously the worst week for a cheap hotel room or a quiet gallery.
 
 ## The one that will define the year
 
@@ -72,7 +72,7 @@ The Thames is the reason London is here, and September is the one month the city
 
 ### The Great River Race — 21.6 miles, 300 boats, mostly in fancy dress
 
-**Saturday 12 September 2026, first boats crossing the start line at 12.45pm.**
+**This year's race was on Saturday 12 September 2026, first boats crossing the start line at 12.45pm.**
 
 London's river marathon, and a genuinely strange and wonderful thing to stumble on. Around **300 fixed-seat crews row 21.6 miles from Millwall in the east to Ham in the west**, under every bridge in between. It started in 1988 with 61 boats and is now international, with crews from America, Australia and across Europe — and a large part of the field is raising money in fancy dress, so the serious athletes are threaded through a flotilla of nonsense.
 
@@ -112,7 +112,7 @@ Because it runs the same nine days as Open House, the sensible approach is to tr
 
 ### Last Night of the Proms — and how to actually get in
 
-**Saturday 12 September 2026, 7.15pm, doors 5.45pm**, Royal Albert Hall.
+**This year's concert was on Saturday 12 September 2026, 7.15pm, doors 5.45pm**, Royal Albert Hall.
 
 The close of a summer of more than eighty concerts. In 2026 it is **Yuja Wang** on piano, returning after her 2023 appearance, with Scottish tenor **Nicky Spence** and the massed BBC forces under **Sakari Oramo**.
 
@@ -132,29 +132,27 @@ What it means for a visitor is threefold: a schedule of open events and shopping
 
 ## Exhibitions closing this month
 
-### Monet and Renoir: Painting Side by Side — National Gallery, closes 15 September
+### Monet and Renoir: Painting Side by Side — National Gallery, closed 15 September
 
-The urgent one, and it is **free**.
+It was **free**.
 
 In the summer of 1869 Monet and Renoir — young, broke and close friends — set up their easels beside each other at **La Grenouillère**, a riverside resort outside Paris, and painted the same scene of Parisians at leisure. The National Gallery has **reunited the two resulting paintings for the first time in nearly twenty years**, with Renoir's canvas on loan from the Nationalmuseum in Stockholm.
 
 Two pictures, one room. The entire point is standing in front of them together and seeing two painters make completely different things from an identical view — which is exactly what reproductions cannot do, and why it is worth a specific trip rather than a browse.
 
-**Room 41, free, no booking.** It closes on **15 September**, after which Renoir's painting moves into the Gallery's *Renoir and Love* exhibition, which opens on 3 October — so the pairing goes, even though the picture stays in the building.
+**Room 41, free, no booking.** It closed on **15 September**, after which Renoir's painting moved into the Gallery's *Renoir and Love* exhibition, which opens on 3 October — so the pairing is over, even though the picture stays in the building.
 
-Also closing at the National Gallery on **20 September** is **Waldmüller: Landscapes**, the Austrian painter's studies of the countryside around Vienna — quieter, and you will have it largely to yourself while everyone queues down the corridor.
+**Waldmüller: Landscapes**, the National Gallery's other closer, ended on **20 September**: the Austrian painter's studies of the countryside around Vienna.
 
-### Early Netherlandish drawings — British Museum, closes 20 September
+### Early Netherlandish drawings — British Museum, closed 20 September
 
-**Free, Room 90, daily 10am to 5pm**, and the museum's own listing has already marked it **"Final weeks"**.
+It showed **around 120 drawings** from the Low Countries before 1600 — **Rogier van der Weyden, Lucas van Leyden, Pieter Bruegel the Elder and Hendrick Goltzius** — tracing the moment drawings stopped being preparatory studies and became works in their own right.
 
-Around **120 drawings** from the Low Countries before 1600 — **Rogier van der Weyden, Lucas van Leyden, Pieter Bruegel the Elder and Hendrick Goltzius** — tracing the moment drawings stopped being preparatory studies and became works in their own right.
-
-The reason to go now rather than intend to go: early Netherlandish drawings are **extremely rare**, because they were made as functional workshop objects and were not meant to survive. And works on paper can only be exhibited for short periods because light damages them permanently — so when this closes, these sheets go back into storage for years rather than months. The British Museum's own holdings are what make a survey on this scale possible at all, and it is unlikely to be repeated soon.
+Early Netherlandish drawings are **extremely rare**, because they were made as functional workshop objects and were not meant to survive. Works on paper can only be exhibited for short periods because light damages them permanently, so the sheets have now gone back into storage for years rather than months, and a survey on this scale — made possible by the British Museum's own holdings — is unlikely to be repeated soon.
 
 ### James McNeill Whistler — Tate Britain, closes 27 September
 
-The month's biggest closing show, with three weeks left, and **the first major European Whistler exhibition in thirty years**.
+The month's biggest closing show, with four days left, and **the first major European Whistler exhibition in thirty years**.
 
 A full retrospective of the American who spent his career in London: **the famous paintings alongside works rarely or never shown**, running from his teens in St Petersburg through to the enigmatic late self-portraits, and taking in portraits, drawings, prints and designs. The Nocturnes are the reason most people come — *Old Battersea Bridge* among them — and they are the paintings that got him into a libel court arguing that a picture need not be a picture *of* anything.
 
@@ -166,7 +164,7 @@ Running through September and beyond, so no rush — but these are the good ones
 
 **BBC TV 90 at Alexandra Palace**, 18 September to 30 November, is the pick. BBC television began at Ally Pally in 1936, so a ninetieth-anniversary exhibition there is on the actual site rather than merely about it — the transmitter mast is still on the roof.
 
-**John Constable: views of nature** at the British Museum runs to 4 October and is **free**. **Frida: The Making of an Icon** at Tate Modern runs to 3 January, so it will keep. The **Serpentine Pavilion** is in Kensington Gardens until 25 October, also free, and September is the last month it is reliably pleasant to sit in one. **Richard Dadd** at the Royal Academy runs to 25 October. **Open Roots** opens at the Photographers' Gallery on 18 September.
+**John Constable: views of nature** at the British Museum runs to 4 October and is **free**. **Frida: The Making of an Icon** at Tate Modern runs to 3 January, so it will keep. The **Serpentine Pavilion** is in Kensington Gardens until 25 October, also free, and September is the last month it is reliably pleasant to sit in one. **Richard Dadd** at the Royal Academy runs to 25 October. **Open Roots** opened at the Photographers' Gallery on 18 September.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -198,19 +196,19 @@ The layout is the part worth knowing. There are **two rooms**: a **300-seat main
 
 Look further ahead before you book anything, because the October diary is extraordinary for a room that will be three weeks old: **Erykah Badu on the 10th and 11th**, Baaba Maal, **Nubya Garcia across the 15th to 17th**, and **Shabaka on the 19th and 20th**. If you are choosing a night, choose on the programme rather than the novelty.
 
-**Saint Etienne at the Roundhouse on 18 September** is the one to take seriously if you have any history with the band. Also at the Roundhouse: **Bellaire, Dublon and Jeremy Underground** on the 12th, and **Good Kid with Last Dinosaurs** on the 26th.
+**Good Kid with Last Dinosaurs play the Roundhouse on the 26th** — still to come, and the one to take seriously if you have any history with that room. Earlier in the month it hosted **Saint Etienne** on the 18th and **Bellaire, Dublon and Jeremy Underground** on the 12th.
 
-Alexandra Palace has the busiest month of any venue in London. **Annie Mac on the 12th**, **ANOTR** across the 17th and 18th, **Boris Brejcha** on the 19th, **I Prevail** on the 25th and **Public Service Broadcasting** on the 26th — the last of which, in a hall that is also the birthplace of television, is a better fit than the band could have designed.
+Alexandra Palace has the busiest month of any venue in London: **I Prevail on the 25th** and **Public Service Broadcasting on the 26th** are still to come — the latter, in a hall that is also the birthplace of television, is a better fit than the band could have designed. Earlier in the month it hosted **Annie Mac**, **ANOTR** and **Boris Brejcha**.
 
-For something entirely different, the **Monteverdi Choir performs Rossini's *Petite Messe Solennelle* at Ally Pally on 18 September**.
+The **Monteverdi Choir performed Rossini's *Petite Messe Solennelle* at Ally Pally on 18 September**.
 
 ## Sport: the last Saturday is the big one
 
 **Saturday 26 September puts two England teams on in London on the same day.** The men play **Spain at Wembley** in the UEFA Nations League, and the **Red Roses** play **New Zealand at Allianz Stadium, Twickenham**, kicking off at 3pm, with tickets from £20.
 
-**American college football comes to Wembley a week earlier.** The **Union Jack Classic** on **Saturday 19 September** is Arizona State Sun Devils against Kansas Jayhawks. The NFL follows in October, with [three games on consecutive Sundays](/articles/nfl-london-games/), with three games on consecutive Sundays.
+**American college football came to Wembley a week earlier.** The **Union Jack Classic** on **Saturday 19 September** was Arizona State Sun Devils against Kansas Jayhawks. The NFL follows in October, with [three games on consecutive Sundays](/articles/nfl-london-games/).
 
-**The Wimbledon 2027 public ballot closes at 23:59 BST on Monday 14 September.** The All England Club opened it on 1 September, it is free, and overseas applicants use the same window. How to enter, and the other routes in if you are not drawn, are in our [Wimbledon tickets guide](/articles/wimbledon-tickets-guide/).
+**The Wimbledon 2027 public ballot closed at 23:59 BST on Monday 14 September.** The All England Club opened it on 1 September; entry was free, and overseas applicants used the same window. How it works, and the other routes in if you are not drawn, are in our [Wimbledon tickets guide](/articles/wimbledon-tickets-guide/).
 
 Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
 

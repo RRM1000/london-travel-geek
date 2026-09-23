@@ -287,7 +287,7 @@ Started as a lockdown home bakery and now a Crouch End shop with a following tha
 
 ## Also well supported, and not above
 
-Five bakeries carried by three or more independent sources that this guide had no entry for. They are here because the evidence says so, not because we went looking for them.
+Five bakeries carried by two or more independent sources that this guide had no entry for. They are here because the evidence says so, not because we went looking for them.
 
 | Bakery | Where | Sources | What it is |
 | --- | --- | --- | --- |

@@ -73,7 +73,7 @@ Central London has caught up in the last few years, and one Hackney kitchen was 
 
 Thirty minutes from Waterloo, and the reason to make the trip.
 
-The restaurants run along **three streets** rather than one: New Malden High Street, Burlington Road and Kingston Road. Thirty minutes from Waterloo, and the reason to make the trip.
+The restaurants run along **three streets** rather than one: New Malden High Street, Burlington Road and Kingston Road.
 
 ![The HanJan bar and karaoke sign above a Korean-run unit on a New Malden street, a Tesco next door and a chalkboard of offers in the window](../../assets/articles/best-korean-restaurants-london/hanjan-new-malden.jpg)
 

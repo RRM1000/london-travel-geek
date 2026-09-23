@@ -360,7 +360,7 @@ You do not have to join anything. Almost every operator here sells a way in for 
 1. **Check your borough first, before any brand.** If you live in Southwark or Tower Hamlets, or you qualify in Wandsworth, part of your swimming and gym use is free and no commercial membership will beat it.
 2. **Price the specific club, never the brand.** The same PureGym membership is £22.99 or £49.99. The same Nuffield is £77 or £137. The same Virgin Active joining fee is £25 or £250.
 3. **Count your visits honestly.** Under three a week, pay-as-you-go usually wins at a public pool. At a boutique studio, a pack beats a membership below twice a week — as long as you read the expiry.
-4. **Add the joining fee to the first year.** A £15 monthly saving disappears against a £250 fee inside two months.
+4. **Add the joining fee to the first year.** A £15 monthly saving takes about a year and a half to earn back a £250 fee.
 5. **If you need a pool, that decides it.** It rules out the entire budget market and Gymbox, and it makes Nuffield, David Lloyd, Bannatyne or your council the realistic choice.
 6. **Read the off-peak hours, not the off-peak price.** Nuffield has eight different London schedules and The Gym Group eleven. David Lloyd's entry tier is 11am–4pm on weekdays. Same discount, completely different product.
 7. **Check the contract length against how sure you are.** Rolling costs 26–36% more at Virgin Active, about 35% at Gymbox and 18–20% at Nuffield. That is the price of being able to leave, and for a lot of people it is worth paying.

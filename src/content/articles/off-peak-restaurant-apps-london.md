@@ -38,7 +38,7 @@ First Table lists 918 London restaurants and charges £6 to book one for two peo
 
 These apps suit one kind of diner: someone flexible about when they eat and relaxed about where. If you want a specific restaurant at 8pm on Saturday, none of this will help you.
 
-Everything below was **read off each app's own site, listings and terms and conditions on 3 September 2026**, with availability checked for Tuesday 15 and Friday 11 September.
+Everything below was **read off each app's own site, listings and terms and conditions on 3 September 2026**, with availability checked for Tuesday 15, Friday 11 and Saturday 12 September.
 
 > 💡 **The Short Version:** **First Table** is the biggest single discount — 50% off food for a £6 booking fee, at 918 London restaurants. The famous names go at 5pm; the newer ones still have 8pm and 9pm tables. **EatClub** is free, needs no booking, and takes 25–40% off the **whole bill including drinks** at 1,069 London venues — but it is walk-in only and cannot hold you a table. **TheFork** costs nothing and its loyalty scheme needs ten bookings to earn £20. **Too Good To Go** is not a dining app at all. And the line every one of them buries: **the service charge is worked out on the bill before your discount.**
 
@@ -57,7 +57,7 @@ Restaurants give these tables away for the same unglamorous reason they run [set
 | First Table | £6 to book for 2 | 50% off food only | 4pm to 10pm, 5pm commonest | 918 restaurants | Fee never refunded |
 | EatClub | Free + 1–6% fee | 25–40% off total bill | Live, 7 days | 1,069 venues | No booking; you may wait |
 | TheFork | Free | Up to 50% off food | Varies by day | 2,152 restaurants | 10 bookings earn £20 |
-| Too Good To Go | Bag price only | ½ price or less | 1 collection window | 11 UK chains named | You collect; you don't dine |
+| Too Good To Go | Bag price only | ½ price or less | 1 collection window | 7 UK chains named | You collect; you don't dine |
 | OpenTable | Free | 0% off any bill | Any bookable time | 100–1,000 pts a booking | Points, not money off |
 | Deliveroo Reservations | Free | £10 credit | Any bookable time | 14 venues listed | Credit is for delivery |
 
@@ -212,4 +212,4 @@ Worth knowing too: **the same table is often sold through several apps at once.*
 - 🌙 **[Late Night Eating in London](/articles/late-night-eating-london/)** — for the Last Table crowd
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
 
-*All fees, discounts, exclusions and venue counts were read off each app's own website and terms and conditions on 3 September 2026, with availability checked for Tuesday 15 and Friday 11 September. Offers on these platforms change daily — confirm in the app before you travel.*
+*All fees, discounts, exclusions and venue counts were read off each app's own website and terms and conditions on 3 September 2026, with availability checked for Tuesday 15, Friday 11 and Saturday 12 September. Offers on these platforms change daily — confirm in the app before you travel.*

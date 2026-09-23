@@ -69,7 +69,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 
 ## How the Luton DART Works
 
-The **Luton DART** is a state-of-the-art automated cable-hauled shuttle.
+The **Luton DART** is an automated cable-hauled shuttle.
 
 ![An aerial view of London Luton Airport and the Luton DART route](../../assets/articles/luton-airport/luton-dart.jpg)
 

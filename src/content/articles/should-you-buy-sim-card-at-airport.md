@@ -27,7 +27,7 @@ heroImageLicenseUrl: "https://unsplash.com/license"
 
 **An airport arrivals desk charges £35–£45 for a SIM that costs £10–£15 in a supermarket.** That is the whole finding, and it holds at every London airport. Stepping off a long flight with a dead phone makes the markup easy to pay, and the arrivals-hall desks and vending machines are placed for exactly that moment.
 
-> **The short version:** Do not buy a SIM card at the airport unless it is an absolute emergency. All London airports provide **free, unlimited Wi-Fi** that lets you check hotel bookings, hail an Uber, or navigate public transit. If your phone supports eSIM, purchase a digital eSIM (e.g. Maya Mobile or Airalo for £4–£12) before landing. If you need a physical SIM, take the train into Central London and pick up a UK SIM card at an EE, O2, or Three store—or buy a giffgaff/Lyca SIM at any supermarket—for **50% to 70% less** than airport prices.
+> **The Short Version:** Do not buy a SIM card at the airport unless it is an absolute emergency. All London airports provide **free, unlimited Wi-Fi** that lets you check hotel bookings, hail an Uber, or navigate public transit. If your phone supports eSIM, purchase a digital eSIM (e.g. Maya Mobile or Airalo for £5–£12) before landing. If you need a physical SIM, take the train into Central London and pick up a UK SIM card at an EE, O2, or Three store—or buy a giffgaff/Lyca SIM at any supermarket—for **50% to 70% less** than airport prices.
 
 ---
 
@@ -51,8 +51,6 @@ If you must buy a physical SIM on landing, this is what each airport has:
 
 ### 1. London Heathrow Airport (LHR)
 
-Heathrow is London's busiest airport and features the heaviest concentration of SIM card retailers and vending machines.
-
 * **Terminal 2 (The Queen's Terminal):**
   * **Locations:** Standalone **SIM Local** store in the main arrivals hall (past customs); **WHSmith** in baggage reclaim; automated SIM vending machines near baggage carousels.
   * **Retailers:** SIM Local, EE, Vodafone, Three, O2, Lycamobile.
@@ -68,8 +66,6 @@ Heathrow is London's busiest airport and features the heaviest concentration of 
 
 ### 2. London Gatwick Airport (LGW)
 
-Gatwick's two terminals (North and South) offer similar retail options to Heathrow, heavily dominated by SIM Local kiosks and WHSmith outlets.
-
 * **South Terminal:**
   * **Locations:** **SIM Local** desk in international arrivals; **WHSmith** store in baggage reclaim; automated SIM vending machines near train station walkway.
 * **North Terminal:**
@@ -80,16 +76,12 @@ Gatwick's two terminals (North and South) offer similar retail options to Heathr
 
 ### 3. London Stansted Airport (STN)
 
-Stansted is a single-terminal airport dominated by low-cost European airlines (such as Ryanair).
-
 * **Locations:** **WHSmith** in the main international arrivals concourse; automated SIM vending machines located beside the luggage carousels.
 * **Retail Environment:** Limited staffed SIM desks. Most physical SIM sales are handled via self-service vending machines or WHSmith cash registers. Packages start at **£30** for 25GB–40GB.
 
 ---
 
 ### 4. London Luton Airport (LTN)
-
-Luton features a single renovated terminal building with straightforward arrivals.
 
 * **Locations:** **WHSmith** concourse store immediately following customs; automated SIM vending machines near baggage claim.
 * **Retail Environment:** No dedicated mobile carrier flagship stores. Vending machines sell EE, Vodafone, and Lycamobile SIM packs at inflated **£30–£35** rates.
@@ -98,16 +90,12 @@ Luton features a single renovated terminal building with straightforward arrival
 
 ### 5. London City Airport (LCY)
 
-London City Airport is located in East London and caters primarily to business travellers.
-
 * **Locations:** Small **WHSmith / Relay** kiosk in the main terminal building.
 * **Retail Environment:** Virtually no dedicated SIM kiosks or vending machines. Because the airport is located directly on the DLR (Docklands Light Railway), travellers reach Central London within 22 minutes, making airport SIM buying unnecessary.
 
 ---
 
 ### 6. London Southend Airport (SEN)
-
-Southend is a compact regional airport with limited flights.
 
 * **Locations:** Main terminal retail concourse.
 * **Retail Environment:** No dedicated SIM desks. Connect to free airport Wi-Fi and purchase a SIM in Central London.
@@ -143,7 +131,7 @@ Connect to the official free airport Wi-Fi network immediately upon landing (no 
 
 ### Step 3: Choose your best SIM route
 * **Option A — Pre-purchased Travel eSIM (Best Overall Value):**  
-  Activate your Airalo, Maya Mobile, or Nomad eSIM profile over airport Wi-Fi (£4–£12 total) for instant data before reaching customs.
+  Activate your Airalo, Maya Mobile, or Nomad eSIM profile over airport Wi-Fi (£5–£12 total) for instant data before reaching customs.
 * **Option B — High Street Network Store (Best Value Physical SIM):**  
   Take the train to Central London first. Visit an official EE, O2, or Three store for a £15–£20 Pay-As-You-Go SIM pack.
 * **Option C — Supermarket or Corner Shop (Cheapest Physical SIM):**  

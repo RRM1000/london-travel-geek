@@ -16,7 +16,7 @@ faq:
   - q: "How much does coffee cost in London?"
     a: "A flat white runs £3.50–£4.50 at an independent. Under £3 is unusual, over £5 means a hotel. Filter is typically £3–£4 and often the better drink at a serious roaster."
   - q: "Which London coffee shops actually roast their own?"
-    a: "Monmouth, Caravan, Redemption Roasters, WatchHouse and Prufrock all roast. Most other independents buy from a named roaster and will tell you which — that is a good sign rather than a bad one."
+    a: "Monmouth, Caravan, Redemption Roasters, Origin, Ozone, Workshop Coffee, Climpson & Sons and Old Spike all roast their own. Most other independents buy from a named roaster and will tell you which — that is a good sign rather than a bad one."
   - q: "Where can I sit down and work in a London coffee shop?"
     a: "Caravan in Clerkenwell and WatchHouse have room and power. Rosslyn and Monmouth's Borough shop deliberately do not — they are counters, and standing is the format."
   - q: "What is Redemption Roasters?"
@@ -177,7 +177,7 @@ Started in a **nineteenth-century watchman's hut** on Bermondsey Street and grew
 
 An all-day kitchen with its own roastery attached — **the room most responsible for London's brunch-and-flat-white format**, copied by half the city since.
 
-Big, loud and industrial, with space to sit and work in a way most specialist coffee rooms cannot offer.
+Big, loud and industrial.
 
 ![The corner shopfront of Caravan on Exmouth Market, with awnings out and tables on the pavement](../../assets/articles/best-coffee-london/caravan-exmouth-market-exterior.jpg)
 
@@ -255,7 +255,7 @@ A roaster's shop where **the filter list changes constantly** and the staff will
 
 *One of the early London roasteries, and still the reference point for a lot of what followed. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8401291269), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**Walk-in, seven minutes from Bond Street** — the most civilised coffee within reach of Oxford Street, which is worth knowing on a shopping day.
+**Walk-in, five minutes from Bond Street** — the most civilised coffee within reach of Oxford Street, which is worth knowing on a shopping day.
 
 ### Climpson & Sons, London Fields
 
@@ -289,7 +289,7 @@ A pared-back Scandinavian room a few streets from Prufrock, and **named among th
 
 *A roastery café near King's Cross that takes the coffee seriously and the room lightly. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/33625242186), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-**Closed Saturdays and Sundays**, like most of the legal-district shops. One minute from Chancery Lane, and a few streets from Prufrock — the two make an easy pair on a weekday morning.
+**Closed Saturdays and Sundays**, like most of the legal-district shops. Three minutes from Chancery Lane, and a few streets from Prufrock — the two make an easy pair on a weekday morning.
 
 ### Old Spike, Peckham
 
@@ -306,8 +306,6 @@ A Peckham roastery that **employs and trains people who have experienced homeles
 *A Peckham roastery that trains and employs people who have experienced homelessness. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/33666350895), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ---
-
-**Walk-in, ten minutes from Peckham Rye.** Combine it with Rye Lane rather than treating it as a destination on its own.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-coffee-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -341,7 +339,7 @@ It is a basement, so it is dim, small and warmer than you expect. **Better as a 
 
 **Go for the room, not the ranking.** Fitzrovia has better coffee within a five-minute walk — Kaffeine and Workshop are both close — so this is the one you come to because of what the building used to be.
 
-**Walk-in, seven minutes from Goodge Street.** Go outside the lunch hour: a dozen people is a crowd down there.
+**Go outside the lunch hour.** A dozen people is a crowd down there.
 
 ### Ginger & White, Hampstead
 
@@ -371,15 +369,13 @@ The setting is the point: tables out on the towpath at **Sheldon Square, W2 6EZ*
 
 **Walk-in, five minutes from Paddington station**, and the canal walk to Little Venice starts here — ten minutes west to the moorings, or about an hour on to Camden.
 
-**Walk-in, and busiest on weekday mornings** with the office crowd. Ten minutes from Paddington on foot, and a sensible stop before a train west.
-
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-coffee-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Best value
 
-Speciality coffee in London settles around £3.20–£4.20 for a flat white almost everywhere, so the saving is rarely in the cup price. It is in what else you can get for it.
+Speciality coffee in London settles around £3.50–£4.50 for a flat white almost everywhere, so the saving is rarely in the cup price. It is in what else you can get for it.
 
 * **Buy beans from the roasters.** A bag from Monmouth, Square Mile, Assembly or Origin costs about the same as three flat whites and makes forty. The roasteries in this guide all sell retail, and several will grind to your method.
 * **Markets.** **Monmouth at Borough Market** is the original and still the best queue in London coffee. **Maltby Street** and **Netil Market** both have serious coffee carts at market prices rather than café ones.

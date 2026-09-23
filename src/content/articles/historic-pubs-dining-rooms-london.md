@@ -12,7 +12,7 @@ tags: [pubs, historic pubs, British food, London history, dining]
 draft: false
 faq:
   - q: "What is the oldest pub in London?"
-    a: "Several claim it and the honest answer is that nobody can prove one. The Town of Ramsgate in Wapping has had a pub on the site since at least 1545, and The Grapes in Limehouse has traded for roughly five centuries. Ye Olde Cheshire Cheese was rebuilt in 1667 immediately after the Great Fire, so the building is precisely dated even if the licence is older."
+    a: "Several claim it, and nobody can prove one. The Town of Ramsgate in Wapping has had a pub on the site since at least 1545, and The Grapes in Limehouse has traded for roughly five centuries. Ye Olde Cheshire Cheese was rebuilt in 1667 immediately after the Great Fire, so the building is precisely dated even if the licence is older."
   - q: "Which London pub has the best river view?"
     a: "The White Cross in Richmond sits where the Thames regularly floods the entrance — there are tide tables on the wall. In east London, The Town of Ramsgate and The Captain Kidd both open onto small Thames terraces at Wapping."
   - q: "Are these expensive?"
@@ -30,7 +30,7 @@ This is a guide to the **rooms worth going to for the room** — pubs, mostly, p
 > 💡 **The Short Version:** **Ye Olde Cheshire Cheese** is the one to see if you only see one — a warren of dark cellars rebuilt in 1667. **The Grapes** in Limehouse is Dickens's pub and Ian McKellen part-owns it. **The Town of Ramsgate** has had a pub on the site since 1545. **The Crosse Keys** is a Wetherspoons inside a 1913 banking hall. And **The Cinnamon Club** is the old Westminster Library with the shelves still up.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **7 sources carrying 76 citations** across **45 named pubs and rooms**. **15 pubs and rooms are named by two or more independent sources.**
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 76 citations** across **45 named pubs and rooms**. **14 pubs and rooms are named by two or more independent sources.**
 > **Built on:** the specialists — six of the seven publications are independent blogs and tour writers, which for this subject are the people who check the dates.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -152,9 +152,7 @@ Tall, narrow and built over several floors with exposed beams and small windows 
 
 No river view, no terrace, no dining room: two small bars, a dartboard and locals. Turner reportedly inherited two cottages and turned them into this pub for Sophia Booth, though the documentation is thinner than the story.
 
-**£, walk-in.** Come for the contrast with the riverside pubs five minutes away — this is what they all looked like before the money arrived.
-
-**There is no kitchen** — crisps and nuts, and that is the honest answer. Come for the pub, eat at one of the riverside places five minutes away. Walk-in, cash-friendly, and cheap.
+**£, walk-in and cash-friendly.** No kitchen — crisps and nuts only, so eat at one of the riverside places five minutes away. Come for the contrast: this is what they all looked like before the money arrived.
 
 ![The frontage of the Turner's Old Star pub in Wapping in autumn](../../assets/articles/historic-pubs-dining-rooms-london/turner-s-old-star.jpg)
 *Turner supposedly kept a mistress here. A proper backstreet local, off the tourist stretch of Wapping. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2468561619), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -176,7 +174,7 @@ It is the most extravagant building in this guide by some way and the cheapest p
 
 **£. Opens at 08:00 on weekdays for breakfast. Order at the bar or through the app — there is no table service by default and no music**, which is the house style rather than an off day.
 
-**The food is the standard Wetherspoon menu** — burgers, curries, a full cooked breakfast — which is the point: extraordinary room, ordinary plate, and the cheapest bill in this guide.
+**The food is the standard Wetherspoon menu** — burgers, curries, a full cooked breakfast: extraordinary room, ordinary plate.
 
 ![The marble-columned former banking hall of the Crosse Keys, now a Wetherspoons, with a circular bar in the centre](../../assets/articles/historic-pubs-dining-rooms-london/the-crosse-keys-banking-hall.jpg)
 
@@ -216,7 +214,7 @@ Restaurants rather than pubs, where the building is genuinely the reason to book
 
 ### The Cinnamon Club, Westminster
 
-*££££ · 7 min from St James's Park* · Cited by 3 indian sources
+*££££ · 7 min from St James's Park* · Cited by 3 sources
 
 The **old Westminster Library**, Grade II listed, with the bookshelves still in place and the gallery still running round the room. Indian cooking, and close enough to Parliament that it fills with MPs and lobbyists whenever the House is sitting.
 
@@ -232,11 +230,9 @@ The **old Westminster Library**, Grade II listed, with the bookshelves still in 
 
 **A crumbling former courthouse left deliberately unrestored** — peeling plaster, enormous windows, and no attempt whatsoever to make it look finished. The most striking dining room in London and it is not close.
 
-The room is on the top floor of the old Clerkenwell Sessions House, reached by a lift, with twenty-foot ceilings and walls stripped back to bare plaster. The cooking is short, seasonal and European, and good enough not to be embarrassed by the setting.
+The room is on the top floor of the old Clerkenwell Sessions House, reached by a lift, with twenty-foot ceilings and walls stripped back to bare plaster. **The cooking is short, seasonal and European** — whole fish, slow-cooked meat and vegetable dishes that change constantly — and good enough not to be embarrassed by the room.
 
 **££££ and it books months ahead.** Ask for a table by the windows. The bar takes walk-ins earlier in the evening.
-
-**The cooking is short, seasonal and European** — whole fish, slow-cooked meat and vegetable dishes that change constantly — and good enough not to be embarrassed by the room. **££££, books months ahead**; the bar takes walk-ins earlier in the evening.
 
 ![The deliberately unrestored dining room at Sessions Arts Club, with peeling plaster walls and a piano by the window](../../assets/articles/historic-pubs-dining-rooms-london/sessions-arts-club-dining-room.jpg)
 
@@ -286,7 +282,7 @@ The current building dates precisely to **1676–77**, put up immediately after 
 
 **Owned by the National Trust since 1937** and operated under lease by Greene King. Dickens knew it and put it in *Little Dorrit*.
 
-**Pub food and a Sunday roast**, served in the galleried bars and the courtyard. Walk-in. **Owned by the National Trust and the last galleried coaching inn in London** — the courtyard is the thing to see, and it is at its best on a summer evening.
+**Pub food and a Sunday roast**, served in the galleried bars and the courtyard. Walk-in. The courtyard is the thing to see, and it is at its best on a summer evening.
 
 ![The galleried courtyard of the George Inn in Southwark, with barrels for tables and the Parliament Bar sign](../../assets/articles/historic-pubs-dining-rooms-london/the-george-courtyard.jpg)
 

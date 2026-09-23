@@ -55,7 +55,7 @@ This guide skips the burrito.
 | **East London** | Homies on Donkeys (Leytonstone), Comalera (Walthamstow) |
 | **Tooting** | Guacamoles |
 
-**Price guide:** **£** under £15 · **£££** £40–£70 · **££££** £90+.
+**Price guide:** **£** under £15 · **££** £15–£35 · **£££** £40–£70 · **££££** £90+.
 
 ---
 
