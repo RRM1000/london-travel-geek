@@ -602,36 +602,6 @@
    "source": "ticketmaster"
   },
   {
-   "title": "Pre Order Drinks Downstairs",
-   "venue": "Soho Theatre",
-   "zone": "1",
-   "station": "Tottenham Court Road",
-   "category": "theatre",
-   "first": "2026-09-23",
-   "last": "2027-08-11",
-   "performances": 509,
-   "priceFrom": 3.7,
-   "priceTo": 12,
-   "onSale": "yes",
-   "link": "https://sohotheatre.com/dean-street/whats-on-dean-st/",
-   "source": "spektrix"
-  },
-  {
-   "title": "Pre Order Drinks Main House",
-   "venue": "Soho Theatre",
-   "zone": "1",
-   "station": "Tottenham Court Road",
-   "category": "theatre",
-   "first": "2026-09-23",
-   "last": "2027-05-29",
-   "performances": 262,
-   "priceFrom": 3.7,
-   "priceTo": 12,
-   "onSale": "yes",
-   "link": "https://sohotheatre.com/dean-street/whats-on-dean-st/",
-   "source": "spektrix"
-  },
-  {
    "title": "Pride",
    "venue": "Bridge Theatre",
    "zone": "1",
