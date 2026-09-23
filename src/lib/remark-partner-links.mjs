@@ -37,6 +37,28 @@ function links() {
   return cache.links;
 }
 
+// Roam Compare sends clicks through the same Nomad account on Impact with the
+// same partner and ad ids, so without a tag Impact cannot say which site a
+// sale came from. Impact links get subId1=londontravelgeek and subId2 set to
+// the article's slug; both show as columns in Impact's action reports. Roam
+// Compare tags its own as subId1=roamcompare. Other links pass through.
+const IMPACT_HOSTS = ["pxf.io", "sjv.io", "ojrq.net", "7eer.net", "evyy.net"];
+function tagImpactClick(value, filePath) {
+  try {
+    const url = new URL(value);
+    const impact =
+      IMPACT_HOSTS.some((h) => url.hostname === h || url.hostname.endsWith(`.${h}`)) ||
+      /^imp\.i\d+\.net$/.test(url.hostname);
+    if (!impact) return value;
+    const slug = String(filePath).replace(/\\/g, "/").split("/").pop().replace(/\.mdx?$/, "");
+    if (!url.searchParams.has("subId1")) url.searchParams.set("subId1", "londontravelgeek");
+    if (!url.searchParams.has("subId2") && slug && slug !== "an article") url.searchParams.set("subId2", slug);
+    return url.toString();
+  } catch {
+    return value;
+  }
+}
+
 function degrade(node) {
   const text = (node.children ?? [])
     .map((c) => (typeof c.value === "string" ? c.value : ""))
@@ -62,7 +84,7 @@ export default function remarkPartnerLinks() {
         degrade(node);
         return;
       }
-      node.url = link.url;
+      node.url = tagImpactClick(link.url, where);
       node.data = node.data || {};
       node.data.hProperties = {
         ...(node.data.hProperties || {}),
