@@ -128,6 +128,7 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 - 🍂 **[Where to See Autumn Leaves in London](/articles/best-places-autumn-leaves-london/)** — the named trees and the peak weeks
 - 🏃 **[The London Marathon Guide](/articles/london-marathon-guide/)** and **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)** — entry routes for the two biggest sporting dates
 - 🎬 **[The BFI London Film Festival](/articles/london-film-festival/)** — booking dates and a practical plan
+- 🎪 **[London Music Festivals 2027](/articles/london-music-festivals-2027/)** — the summer park festivals, the 2027 dates already set and the ones a train ride away
 - 🗓️ **[Things to Do in London in September](/articles/things-to-do-in-london-in-september/)** and **[in October](/articles/things-to-do-in-london-in-october/)** — the month-by-month detail this guide points to
 
 *Weather: Met Office 1991-2020 averages for Heathrow. Sunrise and sunset for central London, in local time. School holidays: Camden's 2026-27 calendar; other boroughs and academies vary. Bank holidays: GOV.UK. Event dates from each organiser. Visitor figures: VisitBritain's forecast of 27 August 2026 and the ONS's monthly figures for January to June 2024. Hotel rates: medians across 51 budget London hotels priced on 14-15 September 2026. Checked 17 September 2026.*

@@ -153,5 +153,6 @@ These do not have a guide of their own yet, but they are worth the day:
 - 🚗 **[Hiring a car and driving in the UK](/articles/car-hire-driving-uk/)** — licence rules, the real costs, and the charges that catch visitors out.
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless and capping work before you leave town.
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — the rules, and the attractions it actually covers.
+- 🎪 **[London music festivals 2027](/articles/london-music-festivals-2027/)** — Reading, Boomtown, Cambridge Folk and the other festivals within about 90 minutes by train.
 - 🗺️ **[London itinerary planner](/articles/london-itineraries-by-days-and-interests/)** — how many days you need, and where a day trip fits.
 - 🇫🇷 **[Paris by Eurostar](/articles/paris-day-trip/)** — the one day trip here that crosses a border, and what that adds to check-in.

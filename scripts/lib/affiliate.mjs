@@ -149,6 +149,38 @@ export function skiddleUrl(destination, campaign) {
   return u.toString();
 }
 
+// ===========================================================================
+// AWIN: A REDIRECT WITH THE DESTINATION ENCODED
+//
+// Awin wraps the destination: cread.php?awinmid=<advertiser>&awinaffid=<us>
+// &ued=<encoded url>. clickref is Awin's free-text tag, shown in its reports;
+// the page slug goes there so a sale can be traced to the guide.
+//
+// 2822738 is Rob's Awin publisher id (the one on every Theatre Tickets Direct
+// link in London Theatre Geek's Sheet). Advertisers are listed by the host they
+// sell on, so a plain link to that host in an article earns without anyone
+// building a tracking link by hand.
+// ===========================================================================
+
+export const AWIN_PUBLISHER_ID = process.env.AWIN_PUBLISHER_ID ?? "2822738";
+const AWIN_ADVERTISERS = {
+  // London Box Office, joined September 2026.
+  "londonboxoffice.co.uk": { mid: "126461", label: "London Box Office" },
+};
+
+/** The Awin tracking link for a url on an Awin advertiser's site, or undefined. */
+export function awinUrl(destination, clickref) {
+  let u;
+  try { u = new URL(String(destination)); } catch { return undefined; }
+  const host = u.hostname.toLowerCase().replace(/^www\./, "");
+  const adv = AWIN_ADVERTISERS[host];
+  if (!adv || !AWIN_PUBLISHER_ID) return undefined;
+  const params = new URLSearchParams({ awinmid: adv.mid, awinaffid: AWIN_PUBLISHER_ID });
+  if (clickref) params.set("clickref", String(clickref).slice(0, 50));
+  params.set("ued", u.toString());
+  return { url: `https://www.awin1.com/cread.php?${params}`, label: adv.label };
+}
+
 // How each network is named to the reader. Here rather than in the components
 // because the link text was hardcoded to "GetYourGuide" back when that was the
 // only programme - which would have labelled the first Skiddle link with a
@@ -244,7 +276,8 @@ export function eventAffiliate(row) {
 // them if you would rather they stayed out of git.
 // ===========================================================================
 
-const AWIN_PUBLISHER_ID = process.env.AWIN_PUBLISHER_ID ?? "";
+// AWIN_PUBLISHER_ID is declared with the Awin section above (2822738); the
+// hotel programmes below still generate nothing until one is enabled.
 const IMPACT_PUBLISHER_ID = process.env.IMPACT_PUBLISHER_ID ?? "";
 
 // CJ calls this the PID, or Promotional Property ID. It is PER SITE, not per

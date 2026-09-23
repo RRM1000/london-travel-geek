@@ -15,7 +15,7 @@
 // throw inside a remark plugin blanks the whole article body.
 import fs from "node:fs";
 import { visit } from "unist-util-visit";
-import { skiddleUrl } from "../../scripts/lib/affiliate.mjs";
+import { awinUrl, skiddleUrl } from "../../scripts/lib/affiliate.mjs";
 
 const DATA = "src/data/partnerLinks.json";
 const SCHEME = /^partner:([a-z0-9-]+)$/;
@@ -81,7 +81,25 @@ export default function remarkPartnerLinks() {
       // the url rather than a redirect, so the reader lands on the same page.
       // The article slug goes in skcampaign, so Skiddle's reports say which
       // guide sold the ticket.
-      const tagged = /^https?:\/\//.test(node.url ?? "") ? skiddleUrl(node.url, slugOf(where)) : undefined;
+      const isWeb = /^https?:\/\//.test(node.url ?? "");
+      // Awin advertisers (London Box Office) wrap the destination in Awin's
+      // redirect, with the article slug as clickref.
+      const awin = isWeb ? awinUrl(node.url, slugOf(where)) : undefined;
+      if (awin) {
+        node.url = awin.url;
+        node.data = node.data || {};
+        node.data.hProperties = {
+          ...(node.data.hProperties || {}),
+          target: "_blank",
+          rel: "sponsored nofollow noopener",
+          "data-affiliate": "awin",
+          "data-venue": awin.label,
+          class: "hotel-link",
+        };
+        node.children.push({ type: "html", value: '<span class="hotel-link__ad">ad</span>' });
+        return;
+      }
+      const tagged = isWeb ? skiddleUrl(node.url, slugOf(where)) : undefined;
       if (tagged) {
         node.url = tagged;
         node.data = node.data || {};

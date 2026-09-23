@@ -390,6 +390,7 @@ Live music in London does not have to cost £40 and a booking fee.
 ## Continue planning your London trip
 
 - 🎺 **[EFG London Jazz Festival 2026](/articles/london-jazz-festival/)**
+- 🎪 **[London Music Festivals 2027](/articles/london-music-festivals-2027/)**: BST Hyde Park, All Points East, Brockwell Park and the ones a train ride away
 - 🎸 **[The Beatles in London](/articles/beatles-london/)**
 - 🎭 **[Camden Area Guide](/articles/camden-area-guide/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**

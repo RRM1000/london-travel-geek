@@ -4,6 +4,8 @@ seoTitle: "What's On at the Barbican: Tickets, Food, Getting There"
 description: "Every upcoming concert, play, film event and talk at the Barbican, updated daily, plus the £4 booking fee you avoid by buying at the desk, the £6 tickets for 16 to 29s, the bag rule, and where to eat before a show."
 publishedAt: 2026-09-22
 reviewBy: 2027-03-01
+heroImage: "../../assets/articles/barbican-centre-guide/barbican-lakeside-terrace.jpg"
+heroImageAlt: "The Barbican Centre's Lakeside Terrace on a sunny day, with people at benches and tables beside the fountains and the long balconied block of Barbican flats behind"
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -38,6 +40,10 @@ Booking online or by phone costs **£4 per transaction**, or **£1.50** for cine
 - **Can't go?** Tickets can be exchanged for Barbican credit, valid for a year, up to **24 hours** before the event, for a **£3 per ticket** admin fee. There are no refunds unless the event is cancelled.
 - **Resale.** Tickets bought from resale or auction sites aren't valid for entry. Buy from the Barbican or one of its approved agents.
 
+![The Barbican Hall from the stalls before a concert: an audience taking its seats, empty chairs and music stands set out for an orchestra, and the LSO logo projected on the wooden wall behind the stage](../../assets/articles/barbican-centre-guide/barbican-hall-lso-stage.jpg)
+
+*The Barbican Hall before a London Symphony Orchestra concert, the orchestra's logo lit on the wall behind the stage.*
+
 ## Getting there
 
 All the Barbican's recommended routes lead to the main entrance on **Silk Street**. Walk times are the Barbican's own:
@@ -54,9 +60,17 @@ The **153** bus stops on Silk Street itself; the 4 and 56 stop at Barbican stati
 
 **Driving.** The Barbican's car parks are open 24 hours. Evenings after 4pm on weekdays (leaving before 6am) and all weekend are a fixed **£13**; weekdays before 4pm are charged by the hour. A limited number of spaces can be booked ahead through SABA, and **Blue Badge holders park free** if they book. Drop-offs for any venue on Level G or above use the Silk Street entrance.
 
+![The Barbican Centre's Lakeside Terrace on a sunny day, with people at benches and tables beside the fountains and the long balconied block of Barbican flats behind](../../assets/articles/barbican-centre-guide/barbican-lakeside-terrace.jpg)
+
+*The Lakeside Terrace, with the Centre on the left and the lake and fountains on the right.*
+
 ## Finding your way inside
 
 The Centre is spread over many levels, and it helps to know three of them. **Level G** is the ticket desk and Barbican Kitchen. **Level -1** is the Stalls floor, with the main cloakroom. **Level 3** has the Art Gallery and the Conservatory entrance. **Cinemas 2 and 3** are in a separate building across **Beech Street**, where the Urban Baristas café is. The Barbican publishes [venue maps and step-free wayfinding videos](https://www.barbican.org.uk/your-visit/general-info/getting-here) from Farringdon and Moorgate.
+
+![An exhibition in the Barbican Art Gallery: a long illustrated textile hung along curved timber steps, framed textiles on a white wall opposite, and a concrete balcony running round the upper level](../../assets/articles/barbican-centre-guide/barbican-art-gallery.jpg)
+
+*The Art Gallery on Level 3, with its upper gallery looking down over the lower floor.*
 
 ## Bags and the cloakroom
 
@@ -69,6 +83,10 @@ Only **one reasonably sized handbag per person** goes into the auditoria, and al
 - **Barbican Kitchen** (Level G) serves **9am to 8pm every day**: toasted sandwiches and salads by day, hand-stretched pizza and small plates in the evening. Under-10s eat free from the kids' menu with every adult meal over £10.
 - **Barbican Bar & Grill** (level 1, run by Searcys) has a pre-theatre menu and a terrace over the lake from April to September. Last orders are **9pm Monday to Saturday and 5pm on Sunday**, so on a Sunday eat early or eat elsewhere. [Its page on the Barbican's site](https://www.barbican.org.uk/your-visit/eat-drink/barbican-bar-grill) has the menus and table booking.
 - **The Martini Bar** on the first floor looks over the foyers and the lake, for a drink before curtain up.
+
+![Barbican Kitchen: long wooden tables and stools under trailing plants and racks of glass-jar lights, with diners by the windows](../../assets/articles/barbican-centre-guide/barbican-kitchen.jpg)
+
+*Barbican Kitchen on Level G: long shared tables under trailing plants.*
 
 **A short walk away**, around Smithfield, St John Street and Old Street:
 
@@ -94,6 +112,10 @@ For other ways to split a trip between the City and the West End, see [where to 
 - **The Conservatory.** London's second-largest conservatory, a tropical garden inside the Centre, open on listed dates only. Entry is free but ticketed: tickets are released online **a month ahead**, and a few day tickets go on sale at **9.30am** each open day. Large bags, prams and buggies aren't allowed. [See dates and book](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory).
 - **Concrete and Clay: Archiving the Barbican**, a free display in the foyers about the building's history, runs until **1 January 2027**.
 - **The Barbican Library**, a public lending library inside the Centre.
+
+![Inside the Barbican Conservatory: palms, monstera and trailing plants spilling over tiers of concrete balconies under a steel and glass roof](../../assets/articles/barbican-centre-guide/barbican-conservatory.jpg)
+
+*The Conservatory, planted over the Centre's concrete balconies under a glass roof.*
 
 ## Access
 

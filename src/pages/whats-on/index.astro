@@ -50,7 +50,7 @@ const picks = {
   today: countIn(buildDay, buildDay),
   tomorrow: countIn(addDays(buildDay, 1), addDays(buildDay, 1)),
   weekend: countIn(...weekend),
-  onsale: new Set(listings.rows.filter((r) => r[7] && r[7] > buildDay).map((r) => `${r[4]}|${r[2]}`)).size,
+  onsale: new Set(listings.rows.filter((r) => r[7] && r[7] >= buildDay).map((r) => `${r[4]}|${r[2]}`)).size,
 };
 
 const headings = [
@@ -174,6 +174,7 @@ const headings = [
     <ul>
       <li><a href="/whats-on/on-sale/">Tickets going on sale soon</a>, by the day they are released</li>
       <li><a href="/articles/christmas-shows-london/">Christmas shows and pantomimes</a>, with dates, prices and age guidance</li>
+      <li><a href="/articles/london-music-festivals-2027/">London music festivals 2027</a>: the dates already set, and the ones a train ride away</li>
       <li><a href="/articles/barbican-centre-guide/">What's on at the Barbican</a>: tickets, getting there and where to eat before a show</li>
       <li><a href="/articles/london-theatre-guide/">London theatre guide</a>: the long-running shows, and how to get cheap tickets</li>
       <li><a href="/articles/best-comedy-clubs-london/">Best comedy clubs in London</a></li>

@@ -115,6 +115,8 @@ The **Hertford Union Canal** runs along its southern edge with a towpath and a r
 
 **Free and open daily.** It is a fifteen-minute walk from Hackney Central, or come along the towpath from Broadway Market.
 
+In late August the park hosts **All Points East**, which ran six headline days over two weekends in 2026. Dates, age limits and getting home are in our [London music festivals guide](/articles/london-music-festivals-2027/).
+
 ### Hackney Wick
 Further east where the canals meet, and **the highest concentration of artists' studios in Europe** at its peak — much of it now redeveloped, though the warehouses, the painted walls and the breweries remain.
 
