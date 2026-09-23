@@ -114,12 +114,16 @@ export function gygTour(slug) {
 // THE SAME PAGE, so there is no reader cost to earning on it - unlike a reseller
 // search, which trades a good page for a commission.
 //
-// It ships disabled. SKIDDLE_TAG is an account id, and inventing one credits a
-// stranger for every sale the site makes, silently and indefinitely. Set
-// SKIDDLE_TAG in .env.local once it is confirmed in the affiliate dashboard.
+// The tag is London Travel Geek's account id, 15861, taken from Skiddle's
+// affiliate dashboard ("Tickets > Affiliates > Tracking links") on 23 Sep 2026.
+// It is a public link parameter, not a secret, so it lives here like the
+// GetYourGuide partner id; SKIDDLE_TAG in the environment overrides it.
+// skcampaign is Skiddle's optional second tag: it shows in the affiliate
+// reports, so passing the page slug says which guide sold the ticket. Sales
+// count for 30 days after the click.
 // ===========================================================================
 
-const SKIDDLE_TAG = process.env.SKIDDLE_TAG ?? "";
+export const SKIDDLE_TAG = process.env.SKIDDLE_TAG ?? "15861";
 
 /**
  * The same Skiddle url, carrying our tag. undefined for anything else.
@@ -129,7 +133,7 @@ const SKIDDLE_TAG = process.env.SKIDDLE_TAG ?? "";
  * url untouched if it already carries a tag, so re-exporting cannot double-tag
  * and a hand-entered tagged url on the sheet is left exactly as it was typed.
  */
-export function skiddleUrl(destination) {
+export function skiddleUrl(destination, campaign) {
   if (!SKIDDLE_TAG || !destination) return undefined;
   let u;
   try { u = new URL(String(destination)); } catch { return undefined; }
@@ -141,6 +145,7 @@ export function skiddleUrl(destination) {
   if (host !== "skiddle.com" && !host.endsWith(".skiddle.com")) return undefined;
   if (u.searchParams.has("sktag")) return u.toString();
   u.searchParams.set("sktag", SKIDDLE_TAG);
+  if (campaign && !u.searchParams.has("skcampaign")) u.searchParams.set("skcampaign", String(campaign).slice(0, 255));
   return u.toString();
 }
 

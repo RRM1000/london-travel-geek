@@ -15,6 +15,7 @@
 // throw inside a remark plugin blanks the whole article body.
 import fs from "node:fs";
 import { visit } from "unist-util-visit";
+import { skiddleUrl } from "../../scripts/lib/affiliate.mjs";
 
 const DATA = "src/data/partnerLinks.json";
 const SCHEME = /^partner:([a-z0-9-]+)$/;
@@ -59,6 +60,8 @@ function tagImpactClick(value, filePath) {
   }
 }
 
+const slugOf = (filePath) => String(filePath).replace(/\\/g, "/").split("/").pop().replace(/\.mdx?$/, "");
+
 function degrade(node) {
   const text = (node.children ?? [])
     .map((c) => (typeof c.value === "string" ? c.value : ""))
@@ -74,6 +77,24 @@ export default function remarkPartnerLinks() {
   return (tree, file) => {
     const where = file?.history?.[0] ?? "an article";
     visit(tree, "link", (node) => {
+      // Plain skiddle.com links in prose earn too: Skiddle tracks with a tag on
+      // the url rather than a redirect, so the reader lands on the same page.
+      // The article slug goes in skcampaign, so Skiddle's reports say which
+      // guide sold the ticket.
+      const tagged = /^https?:\/\//.test(node.url ?? "") ? skiddleUrl(node.url, slugOf(where)) : undefined;
+      if (tagged) {
+        node.url = tagged;
+        node.data = node.data || {};
+        node.data.hProperties = {
+          ...(node.data.hProperties || {}),
+          target: "_blank",
+          rel: "sponsored nofollow noopener",
+          "data-affiliate": "skiddle",
+          class: "hotel-link",
+        };
+        node.children.push({ type: "html", value: '<span class="hotel-link__ad">ad</span>' });
+        return;
+      }
       const m = SCHEME.exec(node.url ?? "");
       if (!m) return;
       const link = links()[m[1]];
