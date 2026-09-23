@@ -191,6 +191,8 @@ async function readClient({ client, venue, eventsUrl }) {
     const { json } = await fetchJson(`${base}/instances/${instId}/status`);
     if (!json || typeof json.available !== "number" || !json.capacity) return;
     row.availability = json.available === 0 ? "sold out" : json.available / json.capacity < 0.1 ? "few left" : "available";
+    // Kept for scripts/listings/record-sales.mjs, which logs how fast each date sells.
+    row.seats = [json.available, json.capacity];
   });
 
   return { client, rows, skipped };
