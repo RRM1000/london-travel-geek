@@ -363,6 +363,11 @@ html body .wo__results a.wo__title:focus-visible { outline: 3px solid var(--high
 .venue-listings { margin-block: 1rem 2rem; }
 html body .venue-listings .wo__day { font-size: 1.1rem; }
 
+/* A venue entry's next few shows, under its entry in a guide. */
+.venue-next { margin-block: 1rem 1.75rem; }
+.venue-next__head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0.25rem 1rem; margin-block: 0 0.5rem; }
+.venue-next__head a { font-size: 0.92rem; white-space: nowrap; }
+
 /* ---- phones ---------------------------------------------------------------- */
 @media (max-width: 40rem) {
   .wo-picks { grid-template-columns: repeat(2, minmax(0, 1fr)); }
