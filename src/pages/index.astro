@@ -12,6 +12,7 @@ import simHero from "../assets/articles/travel-sim-esim-guide/travel-sim-esim-gu
 import plaquesHero from "../assets/articles/london-plaques-guide/london-plaques-guide.jpg";
 import ArticleCard from "../components/ArticleCard.astro";
 import SectionHeading from "../components/SectionHeading.astro";
+import HomeWhatsOn from "../components/HomeWhatsOn.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { activeSite } from "../sites";
 import { categoryHref } from "../lib/taxonomy";
@@ -268,6 +269,9 @@ const topicTiles = [
       </div>
     </div>
   </section>
+
+  <!-- ================================================== what's on -->
+  <HomeWhatsOn />
 
   <!-- ================================================ category rows -->
   {featuredCategories.map((category) => (

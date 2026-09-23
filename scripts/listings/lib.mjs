@@ -133,7 +133,8 @@ const CATEGORY_RULES = [
   ["music", /\b(music|gig|concert|live band|jazz|folk|rock|pop|indie|hip[- ]?hop|soul|blues|punk|metal|r&b|singer|tour)\b/i],
   ["exhibition", /\b(exhibition|display|gallery|installation)\b/i],
   ["talk", /\b(talk|lecture|in conversation|q ?& ?a|panel|book launch|reading|debate|podcast)\b/i],
-  ["film", /\b(films?|screenings?|cinema|documentar(y|ies))\b/i],
+  // A title ending in a year in brackets is a film listing: "Living It Up (1954)".
+  ["film", /\b(films?|screenings?|cinema|documentar(y|ies))\b|\((19|20)\d{2}\)\s*$/i],
   ["sport", /\b(football|rugby|cricket|tennis|boxing|darts|snooker|athletics|match|nfl|nba|hockey|wrestling)\b/i],
   ["festival", /\bfestival\b/i],
   ["theatre", /\b(theatre|play|drama|musical|cabaret|circus|magic|puppetry|spoken word|poetry)\b/i],
@@ -163,7 +164,7 @@ export function categoryFor(venueKind, genre, ...texts) {
 
 // --- what is left out -----------------------------------------------------
 // Things sold through a box office that are not events a visitor goes to.
-const NOT_AN_EVENT = /\b(gift ?(voucher|card)|membership|donation|merch(andise)?|catering|coworking|co-working|pre-?order drinks|premium package|bean toy|parking|drop[- ]in|enrol?ments?|premium tickets?|vip (packages?|upgrades?|experience)|hospitality (packages?|upgrades?)|upgrades?|add[- ]on|car park|workshops?|course|classes|class\b|term\b|youth theatre|summer school|masterclass|tour of the building|backstage tour|venue hire|private hire|external hire|private event|season (tickets?|pass(es)?)|friends scheme|conference|training|graduation|agm|voucher|interval drinks?|pre-?show (dinner|drinks|meal)|bottle of|champagne|prosecco|wheelchair|cloakroom|public session|(architecture|building|backstage|guided|heritage|garden|music|walking|museum|highlights) tours?|self-guided)\b/i;
+const NOT_AN_EVENT = /\b(gift ?(voucher|card)|membership|donation|merch(andise)?|catering|coworking|co-working|pre-?order drinks|premium package|secure my booking|booking deposit|bean toy|parking|drop[- ]in|enrol?ments?|premium tickets?|vip (packages?|upgrades?|experience)|hospitality (packages?|upgrades?)|upgrades?|add[- ]on|car park|workshops?|course|classes|class\b|term\b|youth theatre|summer school|masterclass|tour of the building|backstage tour|venue hire|private hire|external hire|private event|season (tickets?|pass(es)?)|friends scheme|conference|training|graduation|agm|voucher|interval drinks?|pre-?show (dinner|drinks|meal)|bottle of|champagne|prosecco|wheelchair|cloakroom|public session|(architecture|building|backstage|guided|heritage|garden|music|walking|museum|highlights) tours?|self-guided)\b/i;
 
 export function notAnEvent(...texts) {
   return NOT_AN_EVENT.test(texts.filter(Boolean).join(" "));

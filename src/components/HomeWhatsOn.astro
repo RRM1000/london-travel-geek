@@ -1,0 +1,153 @@
+---
+// "On in London this week" on the homepage: six picks from the What's On
+// listings, one per category, so the week ahead reads as gig, comedy, play,
+// concert, exhibition and something for children rather than twenty dates at
+// one venue. Built from src/data/listings.json, so the daily refresh and
+// rebuild rolls it forward.
+//
+// The picks start tomorrow, not today: the site is built early in the morning
+// and read all day, and a pick from this morning's list could be over by the
+// time someone sees it.
+import listingsJson from "../data/listings.json";
+import SectionHeading from "./SectionHeading.astro";
+import { LABEL, addDays, priceText, shortDate, upcoming, type Listings } from "../lib/whats-on";
+
+const listings = listingsJson as unknown as Listings;
+const from = addDays(listings.generated, 1);
+const to = addDays(listings.generated, 7);
+const week = upcoming(listings.rows, from, to);
+
+const ORDER = ["music", "comedy", "theatre", "classical", "exhibition", "family", "club night", "dance", "opera", "talk"];
+const picks: typeof week = [];
+const usedVenues = new Set<number>();
+const usedDays = new Set<string>();
+// A night out, so an evening start where there is one (exhibitions and family
+// shows keep their daytime slots), and spread across the week rather than six
+// picks on the same Thursday.
+const evening = (time: string) => !time || time >= "17:00";
+for (const cat of ORDER) {
+  if (picks.length >= 6) break;
+  const c = listings.cats.indexOf(cat);
+  // A pick has a price, a link and seats left, and no two share a venue.
+  const ok = week.filter(({ r }) => r[3] === c && r[5] !== null && r[10] && r[8] !== 2 && !r[7] && !usedVenues.has(r[4]));
+  const daytimeFine = cat === "exhibition" || cat === "family";
+  const hit =
+    ok.find(({ r, day }) => (daytimeFine || evening(r[1])) && !usedDays.has(day)) ??
+    ok.find(({ r }) => daytimeFine || evening(r[1])) ??
+    ok[0];
+  if (!hit) continue;
+  usedVenues.add(hit.r[4]);
+  usedDays.add(hit.day);
+  picks.push(hit);
+}
+
+const onSale = new Set(listings.rows.filter((r) => r[7] && r[7] >= listings.generated).map((r) => `${r[4]}|${r[2]}`)).size;
+const weekday = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-GB", { weekday: "short", timeZone: "UTC" });
+---
+
+{picks.length >= 3 && (
+  <section class="section home-wo" aria-label="On in London this week">
+    <div class="container">
+      <SectionHeading
+        eyebrow="What's on"
+        title="On in London this week"
+        description="One pick from each kind of night out in the week ahead. Everything else is on the What's On page, updated every morning."
+      />
+      <ul class="home-wo__grid">
+        {picks.map(({ r, day }) => {
+          const [venue, , station] = listings.venues[r[4]];
+          const cat = listings.cats[r[3]];
+          const when = r[9] ? `Until ${shortDate(r[9].split(" to ")[1])}` : `${weekday(day)} ${shortDate(day)}${r[1] ? `, ${r[1]}` : ""}`;
+          return (
+            <li>
+              <a class="home-wo__card" href={r[10]} target="_blank" rel="nofollow noopener">
+                <span class="home-wo__cat" data-cat={cat}>{LABEL[cat] ?? cat}</span>
+                <span class="home-wo__title">{r[2]}</span>
+                <span class="home-wo__when">{when}</span>
+                <span class="home-wo__where">{venue}{station ? ` · ${station}` : ""}</span>
+                <span class="home-wo__foot">
+                  <span class="home-wo__price">{priceText(r)}</span>
+                  <span class="home-wo__go">{r[11]} <span aria-hidden="true">↗</span></span>
+                </span>
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+      <p class="home-wo__more">
+        <a href="/whats-on/">Everything on in London<span aria-hidden="true"> →</span></a>
+        <a href="/whats-on/on-sale/">{onSale.toLocaleString("en-GB")} shows going on sale soon<span aria-hidden="true"> →</span></a>
+      </p>
+    </div>
+  </section>
+)}
+
+<style>
+  .home-wo__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.9rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .home-wo__grid li { margin: 0; }
+  .home-wo__card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    height: 100%;
+    padding: 1rem 1.1rem 0.9rem;
+    border: 1px solid var(--line);
+    border-radius: 0.9rem;
+    background: var(--surface);
+    color: var(--ink);
+    text-decoration: none;
+    box-shadow: var(--shadow-sm);
+    transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+  }
+  .home-wo__card:hover { border-color: var(--line-strong); box-shadow: var(--shadow-md); transform: translateY(-2px); }
+  .home-wo__card:focus-visible { outline: 3px solid var(--highlight); outline-offset: 2px; }
+  .home-wo__cat {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+  .home-wo__cat::before { content: ""; width: 0.5rem; height: 0.5rem; border-radius: 50%; background: var(--dot, #9aa3ad); }
+  .home-wo__title { font-family: var(--display); font-size: 1.15rem; font-weight: 600; line-height: 1.25; overflow-wrap: anywhere; }
+  .home-wo__when { font-weight: 650; font-size: 0.92rem; font-variant-numeric: tabular-nums; }
+  .home-wo__where { font-size: 0.87rem; color: var(--muted); }
+  .home-wo__foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: auto;
+    padding-top: 0.6rem;
+    border-top: 1px dashed var(--line-strong);
+  }
+  .home-wo__price { font-weight: 700; font-variant-numeric: tabular-nums; }
+  .home-wo__go { font-size: 0.82rem; font-weight: 700; color: var(--accent); }
+  .home-wo__more { display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; margin: 1.1rem 0 0; font-weight: 650; }
+
+  /* Category dots, as on the What's On page. */
+  [data-cat="music"] { --dot: #6d4bc4; }
+  [data-cat="comedy"] { --dot: #c77d05; }
+  [data-cat="theatre"] { --dot: #d6392f; }
+  [data-cat="classical"] { --dot: #1d4e89; }
+  [data-cat="club night"] { --dot: #b0307a; }
+  [data-cat="dance"] { --dot: #d2602b; }
+  [data-cat="opera"] { --dot: #8a2f4d; }
+  [data-cat="exhibition"] { --dot: #2f7a52; }
+  [data-cat="talk"] { --dot: #5a6a7d; }
+  [data-cat="family"] { --dot: #e08a1e; }
+
+  @media (max-width: 54rem) { .home-wo__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  @media (max-width: 34rem) { .home-wo__grid { grid-template-columns: minmax(0, 1fr); } }
+  @media (prefers-reduced-motion: reduce) { .home-wo__card, .home-wo__card:hover { transition: none; transform: none; } }
+</style>
