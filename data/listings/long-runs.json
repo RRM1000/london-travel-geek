@@ -17,21 +17,6 @@
    "source": "ticketmaster"
   },
   {
-   "title": "Abba Voyage - VIP Premium Package",
-   "venue": "ABBA Arena",
-   "zone": "2/3",
-   "station": "Pudding Mill Lane",
-   "category": "music",
-   "first": "2026-09-23",
-   "last": "2027-05-03",
-   "performances": 217,
-   "priceFrom": "",
-   "priceTo": "",
-   "onSale": "yes",
-   "link": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-H1M&date=2026-09-23&time=7.45PM",
-   "source": "ticketmaster"
-  },
-  {
    "title": "Audio Description Add-ons",
    "venue": "Kiln Theatre",
    "zone": "2",
@@ -495,21 +480,6 @@
    "onSale": "yes",
    "link": "https://theatre.ticketmaster.co.uk/book/1DVRJ-piccadilly-theatre-london-moulin-rouge-the-musical/#perf=1DVRJ-569&date=2026-09-23&time=7.30PM",
    "source": "ticketmaster"
-  },
-  {
-   "title": "Moulin Rouge! (2001) on 35mm",
-   "venue": "The Cinema Museum",
-   "zone": "1+2",
-   "station": "Elephant & Castle",
-   "category": "exhibition",
-   "first": "2027-03-19",
-   "last": "2027-03-19",
-   "performances": 1,
-   "priceFrom": 10,
-   "priceTo": 10,
-   "onSale": "",
-   "link": "https://cinemamuseum.org.uk/scheduled/moulin-rouge-2001-on-35mm/",
-   "source": "tribe"
   },
   {
    "title": "My Neighbour Totoro",

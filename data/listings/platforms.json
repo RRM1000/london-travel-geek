@@ -892,7 +892,7 @@
   "platforms": [
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-n8220264313": {
   "name": "Box Galleries",
@@ -1391,7 +1391,7 @@
   "platforms": [
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-n672741997": {
   "name": "Chelsea Space",
@@ -2507,7 +2507,7 @@
   "platforms": [
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-r3609581": {
   "name": "Fulham Palace",
@@ -4759,7 +4759,7 @@
   "platforms": [
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-w30104578": {
   "name": "O2 Academy Brixton",
@@ -6751,7 +6751,7 @@
    "eventbrite",
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-n11569066278": {
   "name": "The Crafted Corner",
