@@ -244,7 +244,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 ### Mayfair — a W1K postcode at Zedwell money
 
-**[Zedwell Park Lane](hotel:zedwell-park-lane)** is the oddest value in London: **£90 to £207** for a Mayfair address, one minute from Hyde Park Corner and eight from Marble Arch. It sells **one room type only**, a Cocoon 2 sleeping two, so there is no single rate and no family option, and it is entirely underground like the Bloomsbury site. It is also the newest and least reviewed of the Zedwells, which is the honest reason to hesitate rather than the price.
+**[Zedwell Park Lane](hotel:zedwell-park-lane)** is the oddest value in London: **£90 to £207** for a Mayfair address, seven minutes from Marble Arch and ten from Hyde Park Corner. The prices are for a Cocoon 2 sleeping two; a **Cocoon 4 sleeps four**, and there is no single rate. It is entirely underground like the Bloomsbury site. It is also the newest and least reviewed of the Zedwells, which is the honest reason to hesitate rather than the price.
 
 ![A Cocoon room at Zedwell Park Lane, with the bed on a backlit wood plinth, a shearling coat on the hook and trainers on the platform](../../assets/articles/where-to-stay-soho-west-end/zedwell-park-lane-room.jpg)
 

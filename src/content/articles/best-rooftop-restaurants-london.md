@@ -362,7 +362,7 @@ Two things to plan around: **dinner service stops at 9.30pm, and the last Sunday
 
 Linked names, one line each, all named by two or more independent sources.
 
-- **[Sea Containers](https://www.seacontainerslondon.com/)**, South Bank — the hotel's ground-floor all-day restaurant, Tom Dixon interiors and a terrace on the river walk. *Cited by 3 sources*
+- **[Sea Containers](https://www.seacontainerslondon.com/eat-drink/gordon-ramsay-restaurant/)**, South Bank — the hotel's ground-floor restaurant, now Gordon Ramsay at Sea Containers, open all day with a terrace on the river walk. *Cited by 3 sources*
 - **[Emilia's Crafted Pasta](https://www.emiliaspasta.com/book-a-table/)**, St Katharine Docks — a short, handmade pasta menu overlooking the yachts in the dock, and the only entry by Tower Bridge in the ££ band. *Cited by 3 sources*
 - **[Barge East](https://reservations.bargeeast.com/)**, Hackney Wick — a century-old Dutch barge on the Lea with a garden, a treehouse and a canoe hire station next to it. *Cited by 4 sources · Whitepost Lane E9 5EN*
 - **[Darcie & May Green](https://www.daisygreenfood.com/)**, Paddington — two barges painted by Sir Peter Blake, moored on the Grand Union outside the station, with a 50-metre upper deck. *Cited by 4 sources · #9 of 16, Time Out*

@@ -271,3 +271,5 @@ Better value than the north bank, well connected, and lively into the evening.
 - **Waterloo and Lower Marsh** — Mid-range hotels a few minutes from the river, with excellent transport.
 - **Bankside and Southwark** — Quieter, walkable to Tate Modern and Borough Market.
 - **London Bridge** — The eastern end, well connected for Gatwick via Thameslink and Southern.
+
+Our [South Bank hotel guide](/articles/where-to-stay-south-bank/) compares the hotels from County Hall to Borough.

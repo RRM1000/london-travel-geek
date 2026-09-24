@@ -220,3 +220,5 @@ Central, calm and well connected, with the Elizabeth line at Bond Street four mi
 - **Marylebone Village** — Small hotels and townhouse conversions around the high street.
 - **Baker Street and Marylebone Road** — Larger hotels, cheaper, noisier, handy for Regent's Park.
 - **Paddington** — Twenty minutes west, better value again, and direct to Heathrow.
+
+Our [Marylebone hotel guide](/articles/where-to-stay-marylebone/) compares the hotels street by street.

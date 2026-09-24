@@ -70,6 +70,14 @@
       "what": "Stale facility. The sheet names a restaurant, '100 Kensington'; the hotel's current site shows only a bar and lounge. Separately worth recording: it sells no family rooms at all and refers families to sister hotel The Gainsborough across the road, which is unusual for a postcode whose trade is children.",
       "verified": "2026-09-08",
       "sheetAction": "remove or correct the restaurant; consider a note that there are no family rooms."
+    },
+    "ibis-london-wembley": {
+      "closed": true,
+      "what": "Accor shows a hotel information alert on the property page: \"The hotel is temporarily closed\". Every 2026 sample date returned no availability (rate samples, 9 Sep).",
+      "verified": "2026-09-24",
+      "source": "https://all.accor.com/hotel/3141/index.en.shtml",
+      "sheetAction": "Mark closed so no page links it. Re-check before reopening the link.",
+      "foundBy": "The where-to-stay-near-wembley-stadium pass."
     }
   }
 }

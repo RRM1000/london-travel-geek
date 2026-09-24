@@ -344,5 +344,89 @@
  "the-zetter-townhouse-marylebone": {
   "url": "https://uk.hotels.com/ho543533/",
   "note": "Resolved 2026-09-19 from the Hotels.com London search. Listed as \"The Zetter Marylebone\", the only Zetter in Marylebone."
+ },
+ "the-dorchester": {
+  "url": "https://uk.hotels.com/ho477886/the-dorchester-london-united-kingdom/",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect (or a Wayback capture of the slugged page), name and street matched."
+ },
+ "45-park-lane": {
+  "url": "https://uk.hotels.com/ho478590/45-park-lane-dorchester-collection-london-united-kingdom/",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect (or a Wayback capture of the slugged page), name and street matched."
+ },
+ "four-seasons-park-lane": {
+  "url": "https://uk.hotels.com/ho115066/four-seasons-hotel-london-at-park-lane-london-united-kingdom/",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect (or a Wayback capture of the slugged page), name and street matched."
+ },
+ "the-beaumont-mayfair": {
+  "url": "https://uk.hotels.com/ho487094/the-beaumont-london-united-kingdom/",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect (or a Wayback capture of the slugged page), name and street matched."
+ },
+ "the-chancery-rosewood": {
+  "url": "https://uk.hotels.com/ho3599005152/the-chancery-rosewood/",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect (or a Wayback capture of the slugged page), name and street matched."
+ },
+ "the-connaught": {
+  "url": "https://uk.hotels.com/ho172846/the-connaught-london-united-kingdom/",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect (or a Wayback capture of the slugged page), name and street matched."
+ },
+ "sea-containers-london": {
+  "url": "https://uk.hotels.com/ho474803/",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect (or a Wayback capture of the slugged page), name and street matched."
+ },
+ "holiday-inn-express-greenwich-peninsula": {
+  "url": "https://uk.hotels.com/ho169398/holiday-inn-express-london-greenwich-london-united-kingdom/",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect (or a Wayback capture of the slugged page), name and street matched."
+ },
+ "1-hotel-mayfair": {
+  "url": "https://uk.hotels.com/h93416052.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "the-mayfair-townhouse": {
+  "url": "https://uk.hotels.com/h57972013.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "no5-maddox-street": {
+  "url": "https://uk.hotels.com/h6511543.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "the-cumberland-london": {
+  "url": "https://uk.hotels.com/h21659.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "montcalm-mayfair": {
+  "url": "https://uk.hotels.com/h17700.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "nobu-portman-square": {
+  "url": "https://uk.hotels.com/h19959.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "dorset-square-hotel": {
+  "url": "https://uk.hotels.com/h23589.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "the-langham-london": {
+  "url": "https://uk.hotels.com/h22099.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "the-hoxton-southwark": {
+  "url": "https://uk.hotels.com/h32872139.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "locke-canary-wharf": {
+  "url": "https://uk.hotels.com/h126332004.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "good-hotel-london": {
+  "url": "https://uk.hotels.com/h16300604.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "hilton-london-bankside": {
+  "url": "https://uk.hotels.com/h11718090.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "ibis-london-blackfriars": {
+  "url": "https://uk.hotels.com/h5399359.Hotel-Information",
+  "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
  }
 }

@@ -183,15 +183,15 @@ Early check-in is the full £60 from 9am, and there is no free ironing room. The
 
 ### Zedwell Park Lane — a Mayfair address at Knightsbridge money
 
-*£90–£207 a Cocoon 2 · 77 Park Lane, W1K 7TP · Hyde Park Corner 1 min · [check prices](hotel:zedwell-park-lane)*
+*£90–£207 a Cocoon 2 · 77 Park Lane, W1K 7TP · Marble Arch 7 min · [check prices](hotel:zedwell-park-lane)*
 
-The newest of the five and, like Tottenham Court Road, entirely underground. It sells **one room type**, a Cocoon 2 sleeping two, which ran £90 to £207 across our five dates — within a pound of Knightsbridge on a quiet night and about **£50 cheaper on an October Saturday**, for a W1K postcode and a one-minute walk to Hyde Park Corner.
+The newest of the five and, like Tottenham Court Road, entirely underground. Its Cocoon 2, sleeping two, ran £90 to £207 across our five dates — within a pound of Knightsbridge on a quiet night and about **£50 cheaper on an October Saturday**, for a W1K postcode. A **Cocoon 4 of 14 sq m sleeps four**.
 
 ![A Cocoon room at Zedwell Park Lane, with the bed built into a full wood-lined nook and a shearling coat on the hook](../../assets/articles/windowless-hotel-rooms-london/zedwell-park-lane-room.jpg)
 
 *A Cocoon room at Zedwell Park Lane.*
 
-That is the whole argument for it. Eight minutes from Marble Arch, Hyde Park across the road, and a Park Lane address on your booking confirmation for less than most Bloomsbury doubles.
+That is the whole argument for it. Seven minutes from Marble Arch, ten from Hyde Park Corner, Hyde Park across the road, and a Park Lane address on your booking confirmation for less than most Bloomsbury doubles.
 
 **It is last here for one reason: almost nobody has reviewed it.** There are only a handful of scores so far, so there is very little to go on beyond the rate and the specification, and the things guests catch — how warm the rooms run, how the air handling behaves in August — are exactly the things that need a few hundred reviews to show up. If you want a safe booking, take Tottenham Court Road. If you want the address, take this.
 

@@ -218,3 +218,5 @@ The most expensive hotel district in London, and the quietest central one at nig
 - **Mayfair proper** — [Claridge's](hotel:claridges), [the Connaught](hotel:the-connaught), [the Ritz](hotel:the-ritz-london) on the Piccadilly edge. Landmark hotels at landmark prices.
 - **Marylebone** — Twelve minutes north, considerably better value, same Elizabeth line access at Bond Street.
 - **Soho and Covent Garden** — East, cheaper, and far more open in the evening.
+
+Our [Mayfair hotel guide](/articles/where-to-stay-mayfair/) compares the grand hotels and the few cheaper beds.

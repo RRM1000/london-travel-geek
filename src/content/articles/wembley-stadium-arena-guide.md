@@ -250,11 +250,9 @@ An event adds trains — fifteen Chiltern departures after 22:00 on a midweek co
 
 **[Hilton London Wembley](hotel:hilton-london-wembley)** — the four-star on Lakeside Way, with an indoor pool, an executive lounge and the rooftop **Sky Bar 9**. Parking is **£15 per 24 hours in the Gold car park** with **no in-out**, so you cannot take the car out and come back.
 
-**[ibis London Wembley](hotel:ibis-london-wembley)** — the budget option, on South Way, a minute from Wembley Stadium station.
-
 **[Premier Inn London Wembley Stadium](hotel:premier-inn-london-wembley-stadium)** — the Premier Inn at the ground, near the arena and the London Designer Outlet (HA9 0GG). Not to be confused with Premier Inn London Wembley Park, by the tube station.
 
-To stay central and travel out, our [guide to the best areas to stay in London](/articles/best-areas-to-stay-in-london/) covers the Jubilee line neighbourhoods.
+To stay somewhere cheaper on a match night, our [Wembley hotel guide](/articles/where-to-stay-near-wembley-stadium/) compares Harrow, Finchley Road, Baker Street, Marylebone and Watford by door-to-door time and last train home.
 
 ---
 
@@ -396,7 +394,7 @@ If your checkout is 12:00 and doors are at 18:30, you cannot carry a bag around 
 
 Bags over the stadium limit **will not be allowed in**, and folding a half-empty bag smaller does not count. A handbag is your one bag. The rules differ from the **NFL Clear Bag Policy**, so check before an NFL game — the Texans v Jaguars game on 18 October and its ticket rules are in our [NFL London Games guide](/articles/nfl-london-games/). The arena points people to Stasher for storage nearby.
 
-> 💡 **Use the hotel.** The Novotel, Hilton and ibis all offer luggage storage, which on an event day is worth more than the room.
+> 💡 **Use the hotel.** The Novotel and Hilton both offer luggage storage, which on an event day is worth more than the room.
 
 Our [luggage storage guide](/articles/luggage-storage-london/) covers Stasher and the other citywide options if none of those work for you.
 

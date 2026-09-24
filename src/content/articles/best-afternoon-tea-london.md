@@ -70,7 +70,7 @@ Arranged by **what you are actually buying** — the historic claim, the room, t
 
 *££££ · Cited by 3 sources · World's Best Afternoon Tea 2026*
 
-**[The Chancery Rosewood](https://www.rosewoodhotels.com/en/the-chancery-rosewood)** took **La Liste's World's Best Afternoon Tea Award in its 2026 Pastry Special Awards**, judged against an "exemplary afternoon tea experience, whether traditional or contemporary concept, with outstanding service and location". It is the only London tea room holding that title, and it also carries an Award of Excellence from the 2026 Afternoon Tea Awards — two separate panels in the same year.
+**[The Chancery Rosewood](https://www.rosewoodhotels.com/en/the-chancery-rosewood/dining)** took **La Liste's World's Best Afternoon Tea Award in its 2026 Pastry Special Awards**, judged against an "exemplary afternoon tea experience, whether traditional or contemporary concept, with outstanding service and location". It is the only London tea room holding that title, and it also carries an Award of Excellence from the 2026 Afternoon Tea Awards — two separate panels in the same year.
 
 The room, Jacqueline, sits inside the **former US Embassy on Grosvenor Square**, which reopened as a hotel in 2025. It keeps a **tea sommelier** and a separate preparation room for a list of **more than 120 teas**, each brewed at its own temperature. The stand runs from a caviar amuse-bouche through four sandwiches and a watermelon and elderflower palate cleanser to the scones.
 

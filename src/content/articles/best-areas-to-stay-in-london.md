@@ -92,7 +92,7 @@ Three stations serve the strip, so wherever along it you end up you are close to
 
 *A citizenM room's tightly filled bed width, the format's signature small-but-clever layout.*
 
-**[Native Bankside](hotel:native-bankside)** is on a quiet cut-through behind Shakespeare's Globe and puts a kitchen in the room.
+**[Native Bankside](hotel:native-bankside)** is on a quiet cut-through behind Shakespeare's Globe and puts a kitchen in the room. Our full [South Bank hotel guide](/articles/where-to-stay-south-bank/) compares sixteen hotels from County Hall to Borough.
 
 ### Bloomsbury — the cheapest good decision in Zone 1
 
@@ -308,13 +308,13 @@ A business district, which means it fills Monday to Thursday and **thins out at 
 
 ### Wembley — only if the reason is Wembley
 
-*About £75–£120 · Zone 4 · Wembley Park*
+*About £120 · Zone 4 · Wembley Park*
 
-The cheapest rooms in this guide, and the only outer-zone entry that earns its place — because on a stadium or arena night the argument stops being about price. **You walk back to your room in five minutes instead of queueing for the Metropolitan line with sixty thousand other people.**
+The only outer-zone entry that earns its place, because on a stadium or arena night the argument stops being about price. **You walk back to your room in five minutes instead of queueing for the Metropolitan line with sixty thousand other people.**
 
 **Book the Wembley Park side, not Wembley Central.** They are two different stations on different lines — Wembley Park is Jubilee and Metropolitan, Wembley Central is Bakerloo and Overground — and only Wembley Park stands at the top of Olympic Way, which is the walk the whole argument depends on.
 
-The rest of the time, be honest about the maths. It is Zone 4: the daily fare cap rises to £12.80 against £8.90 for Zones 1–2, and Wembley Park is ten Jubilee line stops from Bond Street, each way, every day. **[ibis London Wembley](hotel:ibis-london-wembley)** is about £75 and under a five-minute walk from the stadium. **[Novotel London Wembley](hotel:novotel-london-wembley)** is about £120 on Olympic Way, has parking, and sells out months ahead for the big events.
+The rest of the time, be honest about the maths. It is Zone 4: the daily fare cap rises to £12.80 against £8.90 for Zones 1–2, and Wembley Park is ten Jubilee line stops from Bond Street, each way, every day. **[Novotel London Wembley](hotel:novotel-london-wembley)** is about £120 on Olympic Way, has parking, and sells out months ahead for the big events. Our [Wembley hotel guide](/articles/where-to-stay-near-wembley-stadium/) compares staying at the stadium with Harrow, Baker Street and Watford on the Metropolitan line.
 
 ---
 
@@ -402,13 +402,13 @@ The best airport base in London by a distance. **Heathrow Express is 15 minutes 
 
 **It is expensive and it does not really have an evening**, in the sense that Mayfair's restaurants are destinations rather than a scene and the streets are empty by eleven. That is a virtue if you are here to sleep between a late arrival and an early flight.
 
-**[Zedwell Park Lane](hotel:zedwell-park-lane)** is the anomaly: £90 to £207 for a windowless underground Cocoon 2 with a Park Lane address, one minute from Hyde Park Corner — within a pound of Knightsbridge on a quiet night and about £50 under it on an October Saturday.
+**[Zedwell Park Lane](hotel:zedwell-park-lane)** is the anomaly: £90 to £207 for a windowless underground Cocoon 2 with a Park Lane address, seven minutes from Marble Arch — within a pound of Knightsbridge on a quiet night and about £50 under it on an October Saturday.
 
 ![A windowless Zedwell Park Lane Cocoon room with a warm-lit wood alcove bed, a sherpa coat hanging beside it, and trainers on the floor](../../assets/articles/best-areas-to-stay-in-london/zedwell-park-lane.jpg)
 
 *Another windowless Cocoon room, this one at the Park Lane branch.*
 
-It is new enough to be barely reviewed. **[Native Mayfair](hotel:native-mayfair)** does apartments with kitchens on a mews off Grosvenor Square, three minutes from Bond Street.
+It is new enough to be barely reviewed. **[Native Mayfair](hotel:native-mayfair)** does apartments with kitchens on a mews off Grosvenor Square, under ten minutes from Bond Street. Our full [Mayfair hotel guide](/articles/where-to-stay-mayfair/) compares the grand hotels, and the [Marylebone hotel guide](/articles/where-to-stay-marylebone/) the quieter, cheaper streets north of Oxford Street.
 
 ![A Native Mayfair bathroom with a freestanding tub full of bubbles, a wooden tray of bath products across it, and a window looking onto a garden trellis](../../assets/articles/best-areas-to-stay-in-london/native-mayfair.jpg)
 

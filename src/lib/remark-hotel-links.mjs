@@ -46,7 +46,12 @@ const SCHEME = /^hotel:([a-z0-9-]+)$/;
 // built by the same hotelAffiliate() the sheet export uses, so the affiliate
 // id still lives in one place. Rob, 15 Sep 2026: link a hotel to Hotels.com
 // when Hotels.com sells it, otherwise to its own website, and nowhere else.
-const HOTELSCOM = /^hotelscom:(\d+)$/;
+//
+// `hotelscom:h<id>` is the same thing by the Expedia-group hotelId that
+// Hotels.com's own typeahead returns, linked as /h<id>.Hotel-Information, which
+// 302s a visitor to the property page. For when the ho-id can't be read because
+// Hotels.com is showing the lookup a bot check.
+const HOTELSCOM = /^hotelscom:(h?)(\d+)$/;
 
 // Read once at module load. Unlike hotels.json this is hand-edited and rarely
 // changes, and a stale read here fails safe - the worst case is that a link
@@ -102,9 +107,12 @@ export default function remarkHotelLinks() {
     visit(tree, "link", (node) => {
       const hc = HOTELSCOM.exec(node.url ?? "");
       if (hc) {
-        const a = hotelAffiliate({ hotelsUrl: `https://uk.hotels.com/ho${hc[1]}/` });
+        const dest = hc[1]
+          ? `https://uk.hotels.com/h${hc[2]}.Hotel-Information`
+          : `https://uk.hotels.com/ho${hc[2]}/`;
+        const a = hotelAffiliate({ hotelsUrl: dest });
         if (!a) {
-          console.warn(`[remark-hotel-links] hotelscom:${hc[1]} built no affiliate link (${where}). Rendered as plain text.`);
+          console.warn(`[remark-hotel-links] hotelscom:${hc[1]}${hc[2]} built no affiliate link (${where}). Rendered as plain text.`);
           degrade(node);
           return;
         }

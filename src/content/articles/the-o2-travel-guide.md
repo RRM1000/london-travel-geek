@@ -83,7 +83,7 @@ The other constraint is capacity, not restriction: Car Park 1 is a single car pa
 
 **Parking:** the cable car's far terminal is in **Royal Docks**, by ExCeL London and Custom House — a different river crossing entirely, with no tunnel and no toll. ExCeL runs its own large, pre-bookable multi-storey car park on site (postcode **E16 1FR** for the entrance), Park Mark-accredited, with Blue Badge bays at the same tariff and space for vehicles up to 1.9m (over-height bays to 2.8m); book ahead through ExCeL's own site to guarantee a space.
 
-**Hotels:** the same Royal Victoria Dock development has three bookable hotels — **Aloft London Excel** on Eastern Gateway, sharing the ExCeL car park's postcode and close to Royal Victoria DLR and the cable car terminal, and **Novotel London Excel** and **Crowne Plaza London Docklands** on the Western Gateway side near Custom House, an easy walk along the site. Novotel's own listing flags The O2 as nearby, which in practice means a cable car ride, not a walk.
+**Hotels:** the same Royal Victoria Dock development has three bookable hotels — **Aloft London Excel** on Eastern Gateway, at ExCeL's east end by Prince Regent DLR, and **Novotel London Excel** and **Crowne Plaza London Docklands** on the Western Gateway side near Custom House, an easy walk along the site. Novotel's own listing flags The O2 as nearby, which in practice means a cable car ride, not a walk.
 
 **The catch:** this only works for getting there, or a show that finishes early. The cable car keeps its usual hours regardless — closing at 21:00 Sunday to Thursday, 22:00 Friday and 23:00 Saturday — so a normal evening finish means a DLR-and-bus routing instead, the same as anyone arriving car-free from that side.
 
@@ -213,7 +213,7 @@ Both trade the price-spike risk above for convenience on the night itself — th
 
 **[Holiday Inn Express London Greenwich](hotel:holiday-inn-express-greenwich-peninsula)** — the budget option on Bugsby's Way, about 15 minutes' walk from The O2 and the station, with breakfast included in the rate (which the InterContinental charges extra for). On-site parking is £35 a day.
 
-For most people, though, staying at the peninsula is a trade-off, not the default — you're paying (or risking) the prices above for the walkway or the short walk. The simpler recommendation is to stay anywhere on the **Jubilee line** and ride in: our [guide to the best areas to stay in London](/articles/best-areas-to-stay-in-london/) covers the specific neighbourhoods, all a single change or less from North Greenwich, none of them exposed to the event-night price spike shown above, and with a far wider choice of places to eat than the peninsula offers on its own.
+For most people, though, staying at the peninsula is a trade-off, not the default — you're paying (or risking) the prices above for the walkway or the short walk. The simpler recommendation is to stay on the **Jubilee line** and ride in. Our [O2 hotel guide](/articles/where-to-stay-near-the-o2/) compares Canary Wharf, Canning Town, the Royal Docks, Stratford and London Bridge by door-to-door time and last train home.
 
 ---
 
