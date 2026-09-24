@@ -198,7 +198,7 @@ The Georgian streets south of Shoreditch, and the best compromise on this page i
 
 Food after midnight is better here than anywhere else in London. **Beigel Bake on Brick Lane is open twenty-four hours** and sells a salt beef beigel for £7.50, and the Polo Bar opposite Liverpool Street has traded around the clock since 1953.
 
-**[Batty Langley's](hotel:batty-langleys)** is about £230 on cobbled Folgate Street, all dark walls, silk curtains and oil paintings, and next door to Dennis Severs' House.
+**[Batty Langley's](hotel:batty-langleys)** is about £230 on cobbled Folgate Street, all dark walls, silk curtains and oil paintings, and next door to Dennis Severs' House. Our [City of London hotel guide](/articles/where-to-stay-city-of-london/) covers Spitalfields and the City's cheaper weekend rates.
 
 ![A Batty Langley's bedroom with an ornately carved dark wood four-poster headboard, an antique oil portrait on the wall, and purple damask cushions](../../assets/articles/best-areas-to-stay-in-london/batty-langleys.jpg)
 
@@ -342,7 +342,7 @@ Residential in a way almost nothing else this central is: garden squares, pastel
 
 **Portobello is a Saturday proposition.** The market is quiet midweek and enormous on Saturday, which is either the reason you booked or the morning you will want to be somewhere else. The Carnival, in late August, closes the area entirely for two days.
 
-**[The Laslett](hotel:the-laslett)** is about £240 right on Notting Hill Gate, with every room named after a local artist or writer, and it is the most convenient of the area's boutiques for the Tube. **[The Portobello Hotel](hotel:the-portobello-hotel)** is about £260 with breakfast, 21 rooms on a quiet garden square — **no lift, and some rooms have round beds and baths in the bedroom**, so ask what you are getting before you book.
+**[The Laslett](hotel:the-laslett)** is about £240 on Pembridge Gardens, a minute from Notting Hill Gate station, with work by local artists in the rooms, and it is the most convenient of the area's boutiques for the Tube. **[The Portobello Hotel](hotel:the-portobello-hotel)** is about £260 with breakfast, 21 rooms on a quiet garden square — **no lift, and some rooms have round beds and baths in the bedroom**, so ask what you are getting before you book.
 
 ### Hampstead — 800 acres of heath at half the price of Chelsea
 

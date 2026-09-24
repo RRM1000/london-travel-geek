@@ -245,3 +245,5 @@ Convenient for sightseeing, quiet at night, and short on evening life — most o
 - **Victoria** — The main hotel cluster, ten minutes south-west, with good rail and coach connections.
 - **Westminster and Whitehall** — A handful of large hotels near the river. Central and expensive.
 - **Waterloo and the South Bank** — Across the bridge, better value, and much more open in the evening.
+
+Our [Westminster and Victoria hotel guide](/articles/where-to-stay-westminster/) compares the hotels from Whitehall to the Pimlico B&Bs.

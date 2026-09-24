@@ -241,4 +241,6 @@ Notting Hill is a pleasant, quiet base with good Central line access, though it 
 - **Bayswater and Queensway** — Ten minutes east, noticeably cheaper, and well connected via Paddington for Heathrow arrivals.
 - **Holland Park** — The most expensive and the quietest, with good access south to Kensington's museums.
 
+Our [Notting Hill and Bayswater hotel guide](/articles/where-to-stay-notting-hill/) compares the hotels, including Carnival weekend.
+
 If you are arriving from Heathrow and want to avoid changing lines with luggage, staying near **Paddington** and travelling in each day is often the easier choice.

@@ -753,7 +753,10 @@
     "long-stay",
     "aparthotels"
    ],
-   "website": "https://www.lockeliving.com/en/london"
+   "website": "https://www.lockeliving.com/en/london",
+   "hotelsUrl": "https://uk.hotels.com/h70120847.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h70120847.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "citizenm-bankside",
@@ -892,7 +895,10 @@
     "best-value",
     "views"
    ],
-   "website": "https://www.marriott.com/en-gb/hotels/lontl-citizenm-tower-of-london/overview/"
+   "website": "https://www.marriott.com/en-gb/hotels/lontl-citizenm-tower-of-london/overview/",
+   "hotelsUrl": "https://uk.hotels.com/h14736047.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h14736047.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "cove-cannon-street",
@@ -928,7 +934,10 @@
     "long-stay",
     "aparthotels"
    ],
-   "website": "https://www.lockeliving.com/en/london"
+   "website": "https://www.lockeliving.com/en/london",
+   "hotelsUrl": "https://uk.hotels.com/h13471478.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h13471478.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "cove-landmark-pinnacle",
@@ -1000,7 +1009,10 @@
     "long-stay",
     "aparthotels"
    ],
-   "website": "https://www.lockeliving.com/en/london"
+   "website": "https://www.lockeliving.com/en/london",
+   "hotelsUrl": "https://uk.hotels.com/h24938189.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h24938189.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "dog-and-fox-wimbledon",
@@ -1056,7 +1068,10 @@
     "long-stay",
     "aparthotels"
    ],
-   "website": "https://www.lockeliving.com/en/london"
+   "website": "https://www.lockeliving.com/en/london",
+   "hotelsUrl": "https://uk.hotels.com/h93318569.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h93318569.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "good-hotel-london",
@@ -1331,8 +1346,8 @@
    "address": "137 Ebury Street",
    "postcode": "SW1W 9QU",
    "priceBand": "££",
-   "breakfast": "included",
-   "whyGo": "A family-run Georgian B&B on Ebury Street with a walled garden behind it - Belgravia at a price that has nothing else in Belgravia in it, and breakfast is cooked rather than a buffet.",
+   "breakfast": "extra",
+   "whyGo": "A family-run Georgian B&B on Ebury Street with a walled garden behind it - Belgravia at a price that has nothing else in Belgravia in it.",
    "opNote": "Family-run and small, so it books out early.",
    "goodFor": [
     "couples",
@@ -1343,7 +1358,10 @@
     "boutique",
     "best-value"
    ],
-   "website": "https://www.limetreehotel.co.uk/"
+   "website": "https://www.limetreehotel.co.uk/",
+   "hotelsUrl": "https://uk.hotels.com/h38978398.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h38978398.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "locke-canary-wharf",
@@ -1924,6 +1942,8 @@
    "guide": "notting-hill-area-guide",
    "zone": "1–2",
    "district": "West",
+   "address": "146-164 Notting Hill Gate",
+   "postcode": "W11 3QG",
    "priceBand": "££",
    "whyGo": "Ruby's format is deliberate: the room is small and the money goes on the bed, the shower and the ground floor. In Notting Hill that trade buys a postcode most budget rooms cannot reach.",
    "opNote": "Now sold through IHG, so IHG One Rewards applies.",
@@ -1935,7 +1955,10 @@
    "lists": [
     "best-value"
    ],
-   "website": "https://www.ihg.com/ruby-hotels/hotels/gb/en/london/lonzo/hoteldetail"
+   "website": "https://www.ihg.com/ruby-hotels/hotels/gb/en/london/lonzo/hoteldetail",
+   "hotelsUrl": "https://uk.hotels.com/h87843675.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h87843675.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "saco-holborn",
@@ -2155,7 +2178,10 @@
    "lists": [
     "best-value"
    ],
-   "website": "https://miirohotels.com/templetongarden"
+   "website": "https://miirohotels.com/templetongarden",
+   "hotelsUrl": "https://uk.hotels.com/h21688.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h21688.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "supercity-templeton-place",
@@ -2191,7 +2217,10 @@
    "lists": [
     "long-stay",
     "aparthotels"
-   ]
+   ],
+   "hotelsUrl": "https://uk.hotels.com/h11974737.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h11974737.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-cumberland-london",
@@ -2243,7 +2272,7 @@
    "breakfast": "included",
    "roomTypes": "Double, family, Wizard Chamber",
    "accessibility": "limited",
-   "hasLift": "partial",
+   "hasLift": "no",
    "airCon": "no",
    "luggageStorage": "yes",
    "whyGo": "A nineteenth-century family-run townhouse whose lower ground floor holds the Wizard Chambers - four-poster beds, candles and potion bottles, the closest thing London has to a Harry Potter hotel.",
@@ -2328,7 +2357,10 @@
    "lists": [
     "best-value"
    ],
-   "website": "https://www.thejuly.com/properties/london-victoria"
+   "website": "https://www.thejuly.com/properties/london-victoria",
+   "hotelsUrl": "https://uk.hotels.com/h111233078.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h111233078.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-pilgrm",
@@ -2416,7 +2448,7 @@
    "address": "10 Palace Place",
    "postcode": "SW1E 5BW",
    "priceBand": "££",
-   "whyGo": "Every room has a mini-kitchen with a hob, microwave and fridge, which turns a Victoria stopover into something you can eat breakfast in - on a quiet side street off Palace Street rather than the coach-station end.",
+   "whyGo": "Every room has a mini-kitchen with a microwave, sink, kettle and fridge, which turns a Victoria stopover into something you can eat breakfast in - on a quiet side street off Palace Street rather than the coach-station end.",
    "opNote": "The kitchens are the reason it keeps being recommended for longer stays and for families avoiding restaurant bills.",
    "goodFor": [
     "families",
@@ -2428,7 +2460,10 @@
     "best-value",
     "families"
    ],
-   "website": "https://www.residenthotels.com/"
+   "website": "https://www.residenthotels.com/",
+   "hotelsUrl": "https://uk.hotels.com/h12084011.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h12084011.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-sanctuary-house-hotel",
@@ -2456,7 +2491,10 @@
    "lists": [
     "best-value"
    ],
-   "website": "https://www.sanctuaryhousehotel.co.uk/"
+   "website": "https://www.sanctuaryhousehotel.co.uk/",
+   "hotelsUrl": "https://uk.hotels.com/h984511.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h984511.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-tower-hotel",
@@ -2839,14 +2877,14 @@
    "priceBand": "££",
    "typicalFrom": "£90–£207 a Cocoon 2",
    "breakfast": "extra",
-   "roomTypes": "Cocoon 2 only, sleeps two",
-   "familyPolicy": "Two guests maximum - no family rooms",
+   "roomTypes": "Cocoon 2 (sleeps two), accessible Cocoon 2, Cocoon 4 (sleeps four)",
+   "familyPolicy": "Cocoon 4 sleeps four",
    "accessibility": "accessible-rooms",
    "hasLift": "yes",
    "airCon": "yes",
    "luggageStorage": "yes",
-   "whyGo": "A Park Lane address at Zedwell money, one minute from Hyde Park Corner, and the brand's newest and most design-led property. Underground like Tottenham Court Road, so the windowless format is a fact of the building rather than a choice.",
-   "opNote": "Windowless by design and entirely below ground, and the newest thing Zedwell has built. A Mayfair address at Knightsbridge money: one room type, a Cocoon 2 sleeping two, at £90 to £207 depending on the night - within a pound of Knightsbridge on a quiet night and about £50 under it on an October Saturday. Eight minutes from Marble Arch. The catch is that it is barely reviewed yet, so there is little to go on beyond the rate.",
+   "whyGo": "A Park Lane address at Zedwell money, seven minutes from Marble Arch, and the brand's newest and most design-led property. Underground like Tottenham Court Road, so the windowless format is a fact of the building rather than a choice.",
+   "opNote": "Windowless by design and entirely below ground, and the newest thing Zedwell has built. A Mayfair address at Knightsbridge money: a Cocoon 2 sleeping two at £90 to £207 depending on the night - within a pound of Knightsbridge on a quiet night and about £50 under it on an October Saturday. A Cocoon 4 sleeps four. Seven minutes from Marble Arch. The catch is that it is barely reviewed yet, so there is little to go on beyond the rate.",
    "goodFor": [
     "solo",
     "couples",
@@ -3139,7 +3177,10 @@
    "lists": [
     "luxury"
    ],
-   "website": "https://www.hilton.com/en/hotels/lonclci-conrad-london-st-james/"
+   "website": "https://www.hilton.com/en/hotels/lonclci-conrad-london-st-james/",
+   "hotelsUrl": "https://uk.hotels.com/h4661230.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h4661230.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "courthouse-hotel-soho",
@@ -3221,7 +3262,10 @@
    "lists": [
     "views"
    ],
-   "website": "https://www.hilton.com/en/hotels/lontldi-doubletree-london-tower-of-london/"
+   "website": "https://www.hilton.com/en/hotels/lontldi-doubletree-london-tower-of-london/",
+   "hotelsUrl": "https://uk.hotels.com/h3977996.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h3977996.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "doubletree-greenwich",
@@ -3834,7 +3878,10 @@
    "lists": [
     "views"
    ],
-   "website": "https://montcalmcollection.com/montcalm-royal-london-house/"
+   "website": "https://montcalmcollection.com/montcalm-royal-london-house/",
+   "hotelsUrl": "https://uk.hotels.com/h12703815.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h12703815.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "native-bankside",
@@ -3912,7 +3959,10 @@
    "lists": [
     "long-stay",
     "aparthotels"
-   ]
+   ],
+   "hotelsUrl": "https://uk.hotels.com/h891426.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h891426.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "novotel-canary-wharf",
@@ -4250,7 +4300,10 @@
    "lists": [
     "luxury"
    ],
-   "website": "https://all.accor.com/hotel/3144/index.en.shtml"
+   "website": "https://all.accor.com/hotel/3144/index.en.shtml",
+   "hotelsUrl": "https://uk.hotels.com/h856595.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h856595.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "south-place-hotel",
@@ -4280,7 +4333,10 @@
     "boutique",
     "design"
    ],
-   "website": "https://southplacehotel.com/"
+   "website": "https://southplacehotel.com/",
+   "hotelsUrl": "https://uk.hotels.com/h7082613.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h7082613.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "st-ermins-hotel",
@@ -4347,7 +4403,10 @@
    "lists": [
     "luxury"
    ],
-   "website": "https://www.stjamescourthotel.co.uk/en/"
+   "website": "https://www.stjamescourthotel.co.uk/en/",
+   "hotelsUrl": "https://uk.hotels.com/h582514.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h582514.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "sunborn-london",
@@ -4777,7 +4836,7 @@
    "slug": "the-laslett",
    "name": "The Laslett",
    "propertyType": "boutique",
-   "style": "Named for local artists and writers",
+   "style": "Five listed townhouses with local artists' work",
    "brand": "laslett",
    "chainType": "independent",
    "starRating": "4",
@@ -4786,7 +4845,7 @@
    "guide": "notting-hill-area-guide",
    "zone": "1–2",
    "district": "West",
-   "address": "8 Notting Hill Gate",
+   "address": "8 Pembridge Gardens",
    "postcode": "W2 4DU",
    "lat": 51.509642,
    "lng": -0.196766,
@@ -4798,8 +4857,8 @@
    "hasLift": "yes",
    "airCon": "yes",
    "luggageStorage": "yes",
-   "whyGo": "Every room named after a local artist, writer or musician associated with Notting Hill, on the doorstep of Portobello Road.",
-   "opNote": "Right on Notting Hill Gate, so it is the most convenient of the area's boutiques for the Central and Circle lines.",
+   "whyGo": "Five listed townhouses on Pembridge Gardens, with work by local artists in the rooms and Portobello Road at the top of the street.",
+   "opNote": "A minute from Notting Hill Gate station, so it is the most convenient of the area's boutiques for the Central and Circle lines.",
    "goodFor": [
     "couples",
     "solo"
@@ -4807,7 +4866,7 @@
    "lists": [
     "design"
    ],
-   "website": "https://www.thelaslett.com/",
+   "website": "https://www.living-rooms.co.uk/the-laslett/",
    "hotelsUrl": "https://uk.hotels.com/ho533268/the-laslett-hotel-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho533268/the-laslett-hotel-london-united-kingdom/",
    "affiliateNetwork": "cj"
@@ -5226,7 +5285,10 @@
    "lists": [
     "views"
    ],
-   "website": "https://trafalgarstjames.com/"
+   "website": "https://trafalgarstjames.com/",
+   "hotelsUrl": "https://uk.hotels.com/h693827.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h693827.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-zetter-bloomsbury",
@@ -5852,7 +5914,10 @@
    "lists": [
     "long-stay",
     "aparthotels"
-   ]
+   ],
+   "hotelsUrl": "https://uk.hotels.com/h7281877.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h7281877.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "claridges",
@@ -5957,7 +6022,10 @@
     "luxury",
     "showstopper"
    ],
-   "website": "https://www.corinthia.com/london/"
+   "website": "https://www.corinthia.com/london/",
+   "hotelsUrl": "https://uk.hotels.com/h3849185.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h3849185.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "covent-garden-hotel",
@@ -6076,7 +6144,10 @@
    "lists": [
     "luxury"
    ],
-   "website": "https://www.fourseasons.com/towerbridge/"
+   "website": "https://www.fourseasons.com/towerbridge/",
+   "hotelsUrl": "https://uk.hotels.com/h16071581.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h16071581.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "fulham-pier-hotel",
@@ -6349,7 +6420,7 @@
    "hasLift": "yes",
    "airCon": "yes",
    "luggageStorage": "yes",
-   "whyGo": "On a mews off Grosvenor Square, three minutes from Bond Street and its Elizabeth line platforms - a kitchen in the middle of Mayfair, which is close to unheard of.",
+   "whyGo": "On a mews off Grosvenor Square, under ten minutes from Bond Street and its Elizabeth line platforms - a kitchen in the middle of Mayfair, which is close to unheard of.",
    "opNote": "The most expensive of the Native addresses and the one where the apartment format saves the most, because eating out nearby is Mayfair money.",
    "goodFor": [
     "solo",
@@ -6525,7 +6596,10 @@
     "luxury",
     "showstopper"
    ],
-   "website": "https://www.raffles.com/london/"
+   "website": "https://www.raffles.com/london/",
+   "hotelsUrl": "https://uk.hotels.com/h90834587.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h90834587.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "rosewood-london",
@@ -6644,7 +6718,10 @@
     "luxury",
     "showstopper"
    ],
-   "website": "https://www.sixsenses.com/en/hotels/london"
+   "website": "https://www.sixsenses.com/en/hotels/london",
+   "hotelsUrl": "https://uk.hotels.com/h125523651.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h125523651.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "st-pancras-renaissance",
@@ -7041,7 +7118,10 @@
    "lists": [
     "luxury"
    ],
-   "website": "https://guardsmanhotel.com/"
+   "website": "https://guardsmanhotel.com/",
+   "hotelsUrl": "https://uk.hotels.com/h41888314.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h41888314.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-hari",
@@ -7344,7 +7424,10 @@
     "design",
     "showstopper"
    ],
-   "website": "https://www.thened.com/london"
+   "website": "https://www.thened.com/london",
+   "hotelsUrl": "https://uk.hotels.com/h24991201.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h24991201.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-peninsula-london",
@@ -7521,7 +7604,10 @@
    "lists": [
     "luxury"
    ],
-   "website": "https://thestaffordlondon.com/"
+   "website": "https://thestaffordlondon.com/",
+   "hotelsUrl": "https://uk.hotels.com/h11196.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h11196.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-twenty-two",

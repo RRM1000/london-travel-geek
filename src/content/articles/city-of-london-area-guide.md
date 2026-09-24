@@ -251,3 +251,5 @@ Excellent transport and good weekend rates, with the caveat that the area is dea
 - **Liverpool Street and Aldgate** — The main hotel cluster, walkable to Shoreditch for the evening.
 - **Barbican and Smithfield** — Quieter, near the arts centre, good for Farringdon and the Elizabeth line.
 - **Tower Hill** — Convenient for the Tower and the river, and connected to the South Bank on foot.
+
+Our [City of London hotel guide](/articles/where-to-stay-city-of-london/) compares the hotels and the weekend rates.

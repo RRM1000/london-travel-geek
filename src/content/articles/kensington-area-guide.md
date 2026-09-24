@@ -217,3 +217,5 @@ Quiet, green and well connected, with prices to match the postcode.
 - **Kensington High Street** — Larger hotels on the District and Circle lines, walkable to both parks.
 - **Holland Park and Campden Hill** — Townhouse hotels in the quietest streets, at a premium.
 - **Earl's Court** — Ten minutes south, considerably cheaper, same District line access.
+
+Our [Kensington and Earl's Court hotel guide](/articles/where-to-stay-kensington/) compares the hotels, from Kensington High Street to Olympia.

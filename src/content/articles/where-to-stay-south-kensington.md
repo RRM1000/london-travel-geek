@@ -170,7 +170,7 @@ Add ten to fifteen minutes to every museum walk and you have the trade in full. 
 
 Notting Hill is not a South Kensington substitute. It is twenty-five minutes on foot through Kensington Gardens, or the Circle line round to Notting Hill Gate, and it is in this guide because the two hotels are better than anything at the same money in SW7.
 
-**[The Laslett](hotel:the-laslett)** is about £240, on Notting Hill Gate itself, with every room named for an artist, writer or musician who lived locally and the Central and Circle lines at the door — the most practically placed of the area's boutiques. **[The Portobello Hotel](hotel:the-portobello-hotel)** is about £260 for 21 rooms on a quiet garden square with breakfast included; some rooms are properly theatrical, with round beds and claw-foot baths standing in the bedroom, so **ask which one you are being given**. There is no lift, so upper floors mean stairs with cases.
+**[The Laslett](hotel:the-laslett)** is about £240, on Pembridge Gardens a minute from Notting Hill Gate station, with work by local artists in the rooms and the Central and Circle lines at the door — the most practically placed of the area's boutiques. **[The Portobello Hotel](hotel:the-portobello-hotel)** is about £260 for 21 rooms on a quiet garden square with breakfast included; some rooms are properly theatrical, with round beds and claw-foot baths standing in the bedroom, so **ask which one you are being given**. There is no lift, so upper floors mean stairs with cases.
 
 Take this if the museums are one day of a longer trip. Do not take it if they are the trip — you will walk that route twice a day and resent it by Wednesday.
 
