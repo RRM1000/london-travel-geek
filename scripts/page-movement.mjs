@@ -37,15 +37,17 @@ async function gscPages(startDate, endDate) {
     siteUrl: SITE,
     requestBody: { startDate, endDate, dimensions: ["page"], rowLimit: 500 },
   });
+  // Google reports jump links (#section) as their own URLs. Sum them into
+  // the page, or the last fragment row overwrites the page's real total.
   const out = {};
   for (const row of r.data.rows ?? []) {
     const path = new URL(row.keys[0]).pathname;
-    out[path] = {
-      clicks: row.clicks,
-      impressions: row.impressions,
-      position: row.position,
-    };
+    const o = (out[path] ??= { clicks: 0, impressions: 0, weighted: 0 });
+    o.clicks += row.clicks;
+    o.impressions += row.impressions;
+    o.weighted += row.position * row.impressions;
   }
+  for (const o of Object.values(out)) o.position = o.impressions ? o.weighted / o.impressions : 0;
   return out;
 }
 
