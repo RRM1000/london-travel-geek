@@ -296,7 +296,7 @@ Built on **Bauhaus principles down to the glassware**, with a menu of about a do
 
 ### Little Mercies, Crouch End
 
-*££ · 20 Broadway Parade · 30% off 6–7pm daily*
+*££ · 20 Broadway Parade · open Tue–Sat · 30% off 6–7pm*
 
 ![A long concrete bar counter with stools along one side, black pendant lamps overhead, high tables with candles against a brick wall, and the street through the front window](../../assets/articles/best-cocktail-bars-london/little-mercies-bar-room.jpg)
 

@@ -3,7 +3,29 @@
 // topic-specific block - its own counts, source types and known weakness - and
 // links here for the argument. Stating it once means it can be stated properly,
 // and gives us one page to point at when a ranking is challenged.
+import fs from "node:fs";
 import BaseLayout from "../layouts/BaseLayout.astro";
+
+// The figures below are counted from the research data at build time, so the
+// page never states a number the data has moved past (it said 517 records
+// across 48 topics long after there were twice that).
+const read = (p: string) => JSON.parse(fs.readFileSync(p, "utf8"));
+let records = 0, citations = 0, topics = 0;
+for (const f of fs.readdirSync("data/consensus").filter((x) => x.endsWith(".json"))) {
+  const doc = read(`data/consensus/${f}`);
+  if (!Array.isArray(doc.sources)) continue;
+  topics++;
+  records += doc.sources.length;
+  for (const src of doc.sources) citations += (src.names ?? []).length;
+}
+const registered = Object.keys(read("data/sources.json").domains ?? {}).length;
+let twoPlus = 0, awarded = 0;
+for (const v of Object.values(read("data/evidence.json")) as any[]) {
+  const t = Object.values(v.byTopic ?? {}) as any[];
+  if (t.some((x) => x.sourceCount >= 2)) twoPlus++;
+  if (t.some((x) => x.hasAward)) awarded++;
+}
+const n = (x: number) => x.toLocaleString("en-GB");
 ---
 
 <BaseLayout
@@ -34,11 +56,10 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       evidence in a way that any one of them alone is not.
     </p>
     <p>
-      The sources behind this currently number <strong>517 source records across
-      48 topics, carrying 9,206 citations</strong> drawn from
-      <strong>227 registered publications, channels and award bodies</strong>.
-      Of the venues named in it, 1,020 are named by two or more independent
-      sources and 405 carry a dated award.
+      The sources behind this currently number <strong>{n(records)} source records across {n(topics)} topics,
+      carrying {n(citations)} citations</strong> drawn from <strong>{n(registered)} registered publications, channels and award
+      bodies</strong>. Of the venues named in it, {n(twoPlus)} are named by two
+      or more independent sources and {n(awarded)} carry a dated award.
     </p>
 
     <h2>The source tiers</h2>

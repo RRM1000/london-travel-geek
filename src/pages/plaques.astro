@@ -62,7 +62,13 @@ const COLOUR_LEGEND = [
 // in the 28 days to 6 Sept at position 27. The differentiator is real and was
 // nowhere in the title: the official scheme covers its own blue plaques, and
 // this covers every scheme in London.
-const title = "London Plaque Map: All 3,630, Not Just the Blue Ones";
+const title = `London Plaque Map: All ${count.toLocaleString("en-GB")}, Not Just the Blue Ones`;
+// plaques.json carries a working note in "fetched" ("2021-05-14 dump; live
+// refresh pending"); readers get only the date.
+const fetchedDay = fetched.match(/\d{4}-\d{2}-\d{2}/)?.[0];
+const fetchedText = fetchedDay
+  ? new Date(`${fetchedDay}T12:00:00Z`).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })
+  : "";
 const description = `All ${count.toLocaleString("en-GB")} commemorative plaques in London on one searchable map — official blue plaques plus borough, Nubian Jak and rainbow schemes. Search a name or inscription, filter by colour or subject.`;
 
 // Same pattern as guides/index.astro and topics/[category].astro - drives
@@ -165,7 +171,7 @@ const breadcrumbs = [
 
     <footer class="plaques-footer">
       <p>
-        Data: <a href="https://openplaques.org" target="_blank" rel="noopener">Open Plaques</a> (public domain){fetched && fetched !== "stub" ? `, fetched ${fetched}` : ""}.
+        Data: <a href="https://openplaques.org" target="_blank" rel="noopener">Open Plaques</a> (public domain){fetchedText ? `, as of ${fetchedText}` : ""}.
         Map © <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap</a> contributors.
       </p>
       <p>

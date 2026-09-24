@@ -90,9 +90,9 @@ The signature is **bukjet mousakhan** — the sumac-and-onion chicken dish of th
 
 ### Imad's Syrian Kitchen, Soho
 
-*£££ · Kingly Court* · Cited by 4 sources
+*£££ · Top Floor, Kingly Court · Michelin Bib Gourmand* · Cited by 4 sources
 
-**Imad Alarnab cooked his way from Damascus to a Kingly Court balcony**, running kitchens in refugee camps along the route. The Syrian home cooking is the draw and the story is not decoration — it is why the room is full.
+**Imad Alarnab cooked his way from Damascus to a Kingly Court balcony**: he lost his Damascus business to the war, cooked for the people around him in camps along the route, and ran his first London pop-up on Columbia Road in 2017 before moving here in 2023. The Damascene home cooking holds a **Michelin Bib Gourmand for 2026**.
 
 Mezze first: **muhammara**, the walnut and red pepper paste, **fattoush**, and freekeh. Then the slow-cooked dishes — lamb with yoghurt, stuffed vine leaves, and the sort of food that comes out of a family kitchen rather than a restaurant one.
 
@@ -240,13 +240,7 @@ The **whole roast cauliflower** is the signature and deserves to be: charred who
 
 "Middle Eastern" covers a dozen cuisines that share a mezze format and very little else. These kitchens each cook somewhere specific.
 
-### Imad's Syrian Kitchen, Soho — Syrian
-
-*££ · Top Floor, Kingly Court · Michelin Bib Gourmand* · Cited by 4 sources
-
-**Damascene cooking**, and a **Michelin Bib Gourmand for 2026**, from a restaurateur who lost a Damascus business to the war, crossed six countries, and spent 64 nights sleeping on the steps of a church in Calais cooking for the people around him.
-
-He ran his first London pop-up on Columbia Road in 2017 and moved to this Kingly Court room in 2023. Mezze, grilled meats and spiced salads.
+**Syrian:** [Imad's Syrian Kitchen](#imads-syrian-kitchen-soho), above.
 
 ### Berenjak, Soho — Persian
 

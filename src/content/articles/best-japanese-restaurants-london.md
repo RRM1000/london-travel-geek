@@ -88,7 +88,7 @@ Edomae sushi in the strictest sense: nigiri only, aged and cured to the chef's t
 
 ### Sushi Kanesaka, Mayfair
 
-*££££ · 45 Park Lane · thirteen covers* · Cited by 4 sources
+*££££ · 45 Park Lane · thirteen covers · Two Michelin stars, 2026 guide* · Cited by 4 sources
 
 **Thirteen covers inside 45 Park Lane** — nine at the counter, four in a private room — doing **omakase only**, brought over from the Tokyo original, which opened here in July 2023.
 
@@ -124,7 +124,7 @@ The sequence holds to omakase structure but the seasoning does not: Japanese cur
 
 ### Umu, Mayfair
 
-*££££ · 7 min from Green Park* · Cited by 3 sources
+*££££ · 7 min from Green Park · One Michelin star, 2026 guide* · Cited by 3 sources
 
 **Kaiseki in the Kyoto tradition** — a fixed seasonal progression rather than a sushi counter, which makes it the odd one out among Mayfair's Japanese rooms and the only place in London doing the format at this level.
 

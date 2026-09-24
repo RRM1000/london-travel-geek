@@ -32,7 +32,7 @@ The city does it three ways, and picking one settles most of the decision: shuck
 
 > 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **15 sources carrying 187 citations** across **108 named restaurants**. **31 restaurants are named by two or more independent sources; 8 carry a dated award.**
-> **Built on:** sixteen sources including the Good Food Guide and Michelin, giving eight venues here a dated award. Four sources are oyster specialists.
+> **Built on:** 15 sources, including the Good Food Guide; eight venues here carry a dated award. Four sources are oyster specialists.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -324,7 +324,7 @@ The 18th-century warehouse off Bishopsgate, once owned by the East India Company
 
 **The newest room on this list to be picked up by more than one source, and the priciest** — named in both The Handbook's survey and a 2026 video review.
 
-A Mayfair dining room built on British seafood at the luxury end: **native lobster, turbot, caviar service**, plated formally and priced for Green Park. It is the least characterful entry in this guide and the most expensive, which is worth saying plainly.
+A Mayfair dining room built on British seafood at the luxury end: **native lobster, turbot, caviar service**, plated formally and priced for Green Park. It is the most expensive entry in this guide.
 
 **££££ and it books ahead.** Two sources and no track record yet — read the citation count as "new and noticed" rather than "proven".
 
