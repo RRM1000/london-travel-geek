@@ -102,7 +102,7 @@ The calmest streets in central London, five minutes from the British Museum, ten
 
 Evenings are the thin part. Bloomsbury is academic and residential, so it goes quiet early and the restaurant choice is nothing like Soho's. Soho is ten minutes' walk west when you want it, and out of earshot when you do not, which is why people sleep well here.
 
-**[Generator London](hotel:generator-london)** is about £26 a bed with 750 rooms, a bar built into a bus and a 24-hour reception — and it is unashamedly a party hostel, so it is the wrong call for an early start.
+**[Generator London](hotel:generator-london)** is about £26 a bed with 750 beds across its dorms and private rooms, a bar built into a bus and a 24-hour reception — and it is unashamedly a party hostel, so it is the wrong call for an early start.
 
 ![A Generator London dorm room with a bright pink, orange and teal geometric wall mural, bunk beds and a small desk](../../assets/articles/best-areas-to-stay-in-london/generator-london.jpg)
 

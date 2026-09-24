@@ -77,7 +77,7 @@ Home Park and King Edward VII are the cheapest full day and they sit beside the 
 
 **A tour only earns its place when it links stops the trains do not.** Windsor on its own is a £7.90 contactless fare and a two-minute walk, so the question is never "coach or train" — it is whether the second and third stop are worth £40 to £90 a head.
 
-GetYourGuide sells 36 day trips from London that stop at Windsor. We read the includes and excludes lists on fourteen of them on 12 September 2026, because the titles are not reliable: **nine of the fourteen name an attraction in the title and then list its entry as "if option selected"**, which means the headline price buys a coach seat. Links below are affiliate links and the price is the same either way.
+GetYourGuide sells dozens of day trips from London that stop at Windsor, and the titles are not reliable: **several name an attraction in the title and then list its entry as "if option selected"**, which means the headline price buys a coach seat rather than admission. Read the includes and excludes list before you book. Links below are affiliate links and the price is the same either way.
 
 | The day | Length | From | What entry is included |
 | --- | --- | --- | --- |

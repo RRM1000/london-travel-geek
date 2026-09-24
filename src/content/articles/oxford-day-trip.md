@@ -292,7 +292,7 @@ A working shape:
 
 **Last departures back**, on a weekday: Oxford to Paddington at **23:06**, arriving 00:12, with a **00:10** service arriving 01:16. Oxford to Marylebone, last direct at **22:44**, arriving 00:16. **The Oxford Tube has no last coach** — which is the real argument for it if you want dinner in Oxford.
 
-> ⚠️ **Check the closures before you book a college.** Christ Church, Magdalen, New College and Merton all publish dated closure lists, and all four shut entirely on some days this autumn — Christ Church on 17 and 18 September and 4 October, New College on 18, 23, 25 and 26 September and 12 December, Magdalen on 25 September and 4 October, Merton on 7 November. Term-time and exam-period restrictions bite too: Balliol caps groups at eight, and New College closes on Mondays all winter.
+> ⚠️ **Check the closures before you book a college.** Christ Church, Magdalen, New College and Merton all publish dated closure lists, and all four shut entirely on some days this autumn — Christ Church on 4 October, New College on 25 and 26 September and 12 December, Magdalen on 25 September and 4 October, Merton on 26 September and 7 November. Term-time and exam-period restrictions bite too: Balliol caps groups at eight, and New College closes on Mondays all winter.
 
 *Prices and hours checked 12 September 2026 against each operator's and venue's own site.*
 

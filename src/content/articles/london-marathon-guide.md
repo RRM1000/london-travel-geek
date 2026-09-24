@@ -21,7 +21,7 @@ faq:
   - q: "Has the 2027 London Marathon ballot closed?"
     a: "Yes. The ballot ran from 24 April to 1 May 2026, results were emailed on 9 July 2026, and successful applicants had to confirm by 31 July. Charity places are the main route still open for 2027, along with official international tour operators for overseas runners and the MyWay virtual marathon."
   - q: "What are the odds of getting a London Marathon ballot place?"
-    a: "Long, and getting longer. A record 1,338,544 people applied for the 2027 race, up 18% on the previous year and more than double the 2024 figure. London Marathon Events has never published how many ballot places there are, so no exact success rate exists. Reporting has put the ballot allocation at roughly 20,000 places a year, which would make the odds somewhere around 1 in 30 to 1 in 60 depending on the year. Treat any precise percentage you see quoted with suspicion."
+    a: "Long, and getting longer. A record 1,338,541 people applied for the 2027 race, up 18% on the previous year and more than double the 2024 figure. London Marathon Events has never published how many ballot places there are, so no exact success rate exists. Reporting has put the ballot allocation at roughly 20,000 places a year, which would make the odds somewhere around 1 in 30 to 1 in 60 depending on the year. Treat any precise percentage you see quoted with suspicion."
   - q: "How much does it cost to enter the London Marathon ballot?"
     a: "Entering is free. You then choose one of two options: pay nothing up front and pay the full £79.99 entry fee only if you are drawn, or donate £49.99 when you apply, which becomes your entry fee if you get in and is kept as a donation if you do not. Overseas runners pay a higher entry fee — the organisers currently state £275, which includes a carbon offset charge."
   - q: "How much do you have to raise for a London Marathon charity place?"
@@ -34,7 +34,7 @@ heroImage: "../../assets/articles/london-marathon-guide/london-marathon-costume-
 heroImageAlt: "A runner in a full rhino costume on the London Marathon course, with spectators packed along the barriers on both sides"
 ---
 
-The London Marathon is the hardest mass-participation race in the world to get into. **A record 1,338,544 people applied for a place in the 2027 race** — more than double the number who applied for 2024, and more than a million of them from the UK alone.
+The London Marathon is the hardest mass-participation race in the world to get into. **A record 1,338,541 people applied for a place in the 2027 race** — more than double the number who applied for 2024, and more than a million of them from the UK alone.
 
 **2027 is also unlike any London Marathon before it.** For one year only it runs over **two days — Saturday 24 and Sunday 25 April 2027** — with 45,000 people running on the Saturday and 55,000 on the Sunday. A hundred thousand runners across one weekend, on the same course from Greenwich to The Mall.
 
@@ -96,10 +96,10 @@ Applications are published every year, and they are rising fast:
 | --- | --- | --- | --- |
 | 2024 | 578,304 | — | — |
 | 2025 | 840,318 | 672,631 | 167,687 |
-| 2026 | 1,133,813 | 869,803 | 264,011 |
-| **2027** | **1,338,544** | **1,008,091** | **330,450** |
+| 2026 | 1,133,814 | 869,803 | 264,011 |
+| **2027** | **1,338,541** | **1,008,091** | **330,450** |
 
-2027 was the first year UK applications passed a million — about **1.8% of the entire UK population** applied to run. The single largest group was **women aged 20–29**, more than 179,000 of them.
+2027 was the first year UK applications passed a million — about **1.5% of the entire UK population** applied to run. The single largest group was **women aged 20–29**, more than 179,000 of them.
 
 > ⚠️ **Nobody publishes the number of ballot places, so nobody knows the real success rate.** London Marathon Events releases applicant totals but has never released the ballot allocation. Reporting puts it at roughly **20,000 places a year**, which would give odds somewhere between **1 in 30 and 1 in 60** depending on the year. You will see "1 in 13" quoted widely for 2027 — that divides applicants by the **entire 100,000 field**, including charity, Good For Age, Championship, club and tour operator places. It is not the ballot rate.
 

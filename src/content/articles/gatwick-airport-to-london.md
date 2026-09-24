@@ -1,7 +1,7 @@
 ---
 title: "Gatwick Airport to London: Every Transport Option Compared"
 seoTitle: "Gatwick to London: £10.70 Southern vs £24.10 Express"
-description: "Southern and Thameslink reach Victoria in 32–40 minutes for £10.70 off-peak. Gatwick Express costs £24.10 to save two to four minutes. Which train suits which part of London, with 2026 fares."
+description: "Southern and Thameslink reach Victoria in 32–40 minutes for £10.70 off-peak. Gatwick Express costs £24.10 to save one to nine minutes. Which train suits which part of London, with 2026 fares."
 publishedAt: 2026-07-28
 updatedAt: 2026-08-02
 sites:
@@ -27,9 +27,9 @@ heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km) south of Central London. While it has a single central railway station (located at **South Terminal**), three different train operators run from Gatwick into different parts of London.
 
 > 💡 **Quick Verdict: Gatwick to London (2026).**
-> - **Best for Victoria & West End:** **Southern Rail** (£10.70 off-peak PAYG / £19.20 peak). Takes 32–40 mins directly to London Victoria, for **less than half the Gatwick Express fare** and two to four minutes more.  
+> - **Best for Victoria & West End:** **Southern Rail** (£10.70 off-peak PAYG / £19.20 peak). Takes 32–40 mins directly to London Victoria, for **less than half the Gatwick Express fare** and one to nine minutes more.  
 > - **Best for London Bridge, St Paul's, Farringdon & St Pancras:** **Thameslink Rail** (£10.70 off-peak PAYG / £19.20 peak). Direct cross-London train to London Bridge (30 mins), Blackfriars (35 mins), Farringdon (40 mins), and St Pancras (45 mins).  
-> - **Why Avoid Gatwick Express?** Gatwick Express costs **£24.10 single** (vs £10.70 on Southern/Thameslink off-peak) to save only ~2–4 minutes to Victoria.  
+> - **Why Avoid Gatwick Express?** Gatwick Express costs **£24.10 single** (vs £10.70 on Southern/Thameslink off-peak) to save only 1–9 minutes to Victoria.  
 > - **Cheapest Budget Option:** **National Express / Megabus** (from **£6.00** advance, 75–120 mins to Victoria Coach Station).  
 > - **Contactless Accepted:** Tap your contactless card, Apple Pay, or Oyster card at the station turnstiles for Southern and Thameslink.
 
@@ -91,7 +91,7 @@ London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km
 * **Route:** Gatwick ➔ London Victoria *(Non-stop)*.
 * **Journey Time:** 31 minutes.
 * **Fare:** **£24.10** single (10% discount if bought online in advance at gatwickexpress.com).
-* **Is it worth it?** For most travellers, no. Southern trains reach the same Victoria station 2 to 4 minutes later for less than half the price (£10.70 off-peak).
+* **Is it worth it?** For most travellers, no. Southern trains reach the same Victoria station one to nine minutes later for less than half the price (£10.70 off-peak).
 
 ---
 

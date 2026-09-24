@@ -198,7 +198,7 @@ Two different things get muddled here, and the difference decides whether you ca
 2. **Forgetting to tap out:** Triggers an automatic maximum fare charge (up to £9.40 in Zone 1–6).
 3. **Standing on the left on escalators:** Always stand on the right!
 4. **Boarding the wrong train branch:** Check the electronic platform sign destination before boarding split lines (District/Northern/Piccadilly).
-5. **Buying paper single tickets:** Single paper tickets cost **£6.70** in Zone 1 vs. **£3.10** with contactless!
+5. **Buying paper single tickets:** Single paper tickets cost **£6.70** in Zone 1 vs. **£3.00** off-peak (£3.10 peak) with contactless!
 6. **Treating the Tube map as a street map:** Many central stations (e.g. Covent Garden to Leicester Square) are just a 4-minute walk apart at street level.
 7. **Not checking lift status:** If travelling with heavy bags or a wheelchair, verify lift operating status on the TfL Go app beforehand.
 

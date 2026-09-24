@@ -95,7 +95,7 @@ Green is the clearest signal in London, because one scheme dominates it. Of **29
 
 ### Brown
 
-Brown splits in two. The modern half is the **London Borough of Hackney's** own scheme (43). The historic half is the original one — **23 from the London County Council** and **15 from the Royal Society of Arts**, the body that began the scheme in 1866. **Dr Samuel Johnson's** plaque at 17 Gough Square is the best-known example, put up in **1876**, and the only official-scheme plaque inside the City of London.
+Brown is not only Hackney's. The **London Borough of Hackney's** own, modern scheme accounts for 43 of the 175. The old official scheme before 1921 adds **23 from the London County Council** and **15 from the Royal Society of Arts**, the body that began the scheme in 1866 — **Dr Samuel Johnson's** plaque at 17 Gough Square is the best-known example, put up in **1876**, and the only official-scheme plaque inside the City of London. The remaining 94 are split across a long tail of local trusts, councils and heritage groups, Harrow Heritage Trust and Transport for London the largest of them at ten each, and around thirty have no issuer recorded in the data at all.
 
 ### The official scheme's other colours
 

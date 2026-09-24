@@ -260,7 +260,7 @@ The room is set up for sitting rather than standing — plenty of seating inside
 
 ### Anspach & Hobday: The Arch House, Bermondsey — the porter that's taking on Guinness
 
-*££ · Druid Street, Bermondsey · Cited by 4 sources*
+*££ · Druid Street, Bermondsey · Cited by 6 sources*
 
 Every one of this brewery's four independent citations here is a video crawl, none of them citing an award or a masthead — which for a Bermondsey Beer Mile stop is its own kind of evidence: this is the pub people actually walk to and film, not the one they read about. The beer to order is **London Black**, a revival of the old London Porter style, poured on draft at the brewery itself; one reviewer called the draft version "easily the best stout on the [mile]."
 

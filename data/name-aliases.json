@@ -3,6 +3,7 @@
   "howToUse": "Key is the alias as a source wrote it, value is the canonical name - normally the name the Restaurants v2 row uses, so the evidence record matches the sheet. Matching is on the same loose normalisation build-evidence.mjs uses, so case, accents, 'The' and punctuation do not matter.",
   "whyNotJustLooserMatching": "The normaliser is deliberately dumb. Making it clever enough to see 'Crisp Pizza' and 'Crisp Pizza at The Marlborough' as one venue would also collapse Pizza Union and Pizza Pilgrims. An explicit list is checkable; a fuzzy rule is not.",
   "aliases": {
+    "805": "805 Restaurants",
     "Crisp Pizza": "Crisp Pizza at The Marlborough",
     "Crisp": "Crisp Pizza at The Marlborough",
     "Crisp W6": "Crisp Pizza at The Marlborough",
@@ -530,7 +531,6 @@
     "Bong Bongs": "Bongbongs Manila Kanteen",
     "Mamas Kubo": "Mama's Kubo",
     "Mama Kubo": "Mama's Kubo",
-    "805": "805 Restaurants",
     "805 Restaurant": "805 Restaurants",
     "805 Restaurant Old Kent Road": "805 Restaurants",
     "Sikatio": "Sikatiô",
@@ -553,7 +553,10 @@
     "19 FiftySeven": "19FiftySeven",
     "Flygerians": "The Flygerians",
     "Darwin Brasserie at the Sky Garden": "Darwin Brasserie",
-    "Jarana Peruvian Restaurant & Pisco Bar": "Jarana"
+    "Jarana Peruvian Restaurant & Pisco Bar": "Jarana",
+    "Anspach & Hobday - The Arch House": "Anspach & Hobday",
+    "The Arch House": "Anspach & Hobday",
+    "Anspach & Hobday: The Arch House": "Anspach & Hobday"
   },
   "whyCrispIsOneVenue": "The Infatuation's #1 is 'Crisp Pizza W6 at The Chancellors' in Hammersmith; Time Out and Country & Town House name the Mayfair site. Those are two pubs, but one brand: the Restaurants v2 row is already chainType 'mini-chain' with ownerGroup 'Devonshire / Crisp group', and its Why Go says Crisp was 'previously only in Hammersmith, brought into central London'. The sheet counts a mini-chain brand-level - the same treatment Rudy's and Fatto a Mano get - so the citations merge and the two sites are carried as Branches rows instead. Verified 2026-08-30: The Chancellors is 25 Crisp Road, Hammersmith W6 9RL.",
   "deliberatelyNotAliased": {

@@ -163,7 +163,7 @@ Several of these come attached to things you may already pay for.
 
 **O2 Priority is the best of these if you are on O2.** Four tickets for £18 is £4.50 each with no day restriction — competitive with Genesis's cheap-day price, at a chain, any day of the week.
 
-**Sky Cinema's two free Vue tickets a month** is worth checking if you already subscribe. That is 24 films a year at no additional cost, which quietly outperforms most paid memberships on this page.
+**Sky Cinema's two free Vue tickets a month** is worth checking if you already subscribe. That is one cinema trip for two, twelve times a year, at no additional cost — use the two tickets separately instead and it stretches to 24 films — which quietly outperforms most paid memberships on this page.
 
 ---
 

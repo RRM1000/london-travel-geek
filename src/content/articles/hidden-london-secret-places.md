@@ -71,7 +71,7 @@ The last surviving fragment of the Middlesex Hospital, which was demolished arou
 
 ### All Saints, Margaret Street
 
-Butterfield's 1859 church, one street back from Oxford Circus and completely invisible from it. This is the founding building of High Victorian Gothic and the pattern is structural rather than painted — every surface is banded brick, inlaid tile or coloured marble, worked into the fabric itself. The nave is dark, saturated and much smaller than photographs suggest, which is the point: it was built to prove a town church could be intense rather than large. **Open every day from 11am to 7pm for visiting and private prayer, free.** Mass is said at noon daily and at 6.30pm, and the choir is one of the best in London. Arriving during a service is fine, but you will be joining it rather than wandering. The entrance is through a small brick courtyard off Margaret Street.
+Butterfield's 1859 church, one street back from Oxford Circus and completely invisible from it. This is the founding building of High Victorian Gothic and the pattern is structural rather than painted — every surface is banded brick, inlaid tile or coloured marble, worked into the fabric itself. The nave is dark, saturated and much smaller than photographs suggest, which is the point: it was built to prove a town church could be intense rather than large. **Open every day from 11am to 7pm for visiting and private prayer, free.** Mass is said at noon and 6.30pm Monday to Saturday, 11am on Sundays, and the choir is one of the best in London. Arriving during a service is fine, but you will be joining it rather than wandering. The entrance is through a small brick courtyard off Margaret Street.
 
 ### Colville Place, Fitzrovia
 

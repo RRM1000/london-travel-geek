@@ -106,7 +106,7 @@ A hundred and thirteen compact rooms on Bedford Street, three minutes from both 
 
 **The window costs £20, and that is the whole decision.** A Z Inside Single is 8 sq m at £70 with **no window at all**; an Inside Double is 9 sq m at £80; a Z Double is the same 9 sq m at £100 and has one. A Z Queen is 11 sq m at £105, and a Z Family is 12 sq m sleeping four at £155.
 
-**The catch is that people book the Inside grades by accident**, because the booking page does not lead with the missing window. It is the same trap as the Shoreditch branch. Pay the £20 unless you genuinely do not mind, and note that Z runs seven more addresses in and around the West End — Soho, Piccadilly, Leicester Square, Strand, Tottenham Court Road, Trafalgar and Holborn — so compare a few on your own dates before you settle.
+**The catch is that people book the Inside grades by accident**, because the booking page does not lead with the missing window. It is the same trap as the Shoreditch branch. Pay the £20 unless you genuinely do not mind, and note that Z runs eleven more London hotels — City, Gloucester Place, Holborn, Leicester Square, Piccadilly, Shoreditch, Soho, Strand, Tottenham Court Road, Trafalgar and Victoria — so compare a few on your own dates before you settle.
 
 <div class="photo-row">
 

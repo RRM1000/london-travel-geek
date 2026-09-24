@@ -69,7 +69,7 @@ The family price is not a separate product. Put two adults and two children in t
 - **A guide** is otherwise only sold as the £250 Deluxe Tour. The guided package takes a group of up to eight round the sets, then gives you free time inside.
 - **A ticket on a sold-out day.** This is the best reason to pay. When the operator's own site is sold out for your date, the packages often still have tickets.
 
-**The coach packages are one product sold by several companies.** Four resellers run the same day out — a coach from central London, about four hours inside, a rep with the tickets — from Victoria, Bloomsbury, King's Cross, Paddington and Marble Arch. The Victoria coach has the most reviews, 4.7 from almost 28,000, and is usually the cheapest, so book that one. Only two others add something: the Victoria, Paddington or Marble Arch coach sells an extended stay of about six hours inside, and the branded bus, run by Golden Tours, is the only one listed as wheelchair accessible — at the same price as Golden Tours charges direct, or less.
+**The coach packages are one product sold by several companies.** Four resellers run the same day out — a coach from central London, about four hours inside, a rep with the tickets — from Victoria, Bloomsbury, King's Cross, Paddington and Marble Arch. The Victoria coach has the most reviews, 4.7 from almost 28,000, and is usually the cheapest, so book that one. Only two others add something: the Victoria, Paddington or Marble Arch coach sells an extended stay of about six hours inside, and the branded bus, run by Golden Tours, is the only one listed as wheelchair accessible — close to the same price as booking with Golden Tours direct.
 
 The <a href="https://www.getyourguide.com/activity/-t408850?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour and Thames cruise</a>, £84.50, is the ticket and a hop-on hop-off cruise with **no transport at all**.
 
@@ -208,7 +208,7 @@ Both stations are step-free to the platforms, and Watford Junction has staff on 
 
 ### The official coach
 
-Golden Tours is the Studio Tour's own coach partner, leaving from **Victoria, Baker Street and King's Cross**. Return transport with entry is **£125 adult, £120 child**; transport on its own, if you already have a ticket, is **£45 adult, £40 child**. Wheelchair users are told not to book the King's Cross departure.
+Golden Tours is the Studio Tour's own coach partner, leaving from **Victoria, Baker Street and King's Cross**. Return transport with entry starts from **£95.50 adult**, booked direct; transport on its own, if you already have a ticket, is **£45 adult, £40 child**. Wheelchair users are told not to book the King's Cross departure.
 
 ### Driving
 

@@ -229,7 +229,7 @@ National Trust prices are the without-Gift-Aid ones. Snowshill and Hidcote are f
 
 ## When to go, and when not to
 
-**Not a summer weekend in Bourton.** Its own parish council said in September 2025 that visitor numbers had *"placed significant pressure not only on the village centre but also on surrounding residential and commercial areas"* and added, flatly, that it *"has no control over visitor numbers and has no power to close the village."* An experimental traffic order restricting coaches on Meadow Way has been running towards September 2026, and the county council has refused the parish a residents' parking scheme. Go on a weekday, or go early.
+**Not a summer weekend in Bourton.** Its own parish council said in September 2025 that visitor numbers had *"placed significant pressure not only on the village centre but also on surrounding residential and commercial areas"* and added, flatly, that it *"has no control over visitor numbers and has no power to close the village."* An experimental traffic order restricting coaches on Meadow Way has been running since August 2025, and the county council has refused the parish a residents' parking scheme. Go on a weekday, or go early.
 
 **Winter closes a specific list.** Sudeley Castle shuts entirely from 2 November to 13 March. Snowshill Manor's season ends on 29 November, with last admission to the manor dropping to 13:30 in the final three weeks. The Model Village switches to 10:00–15:30 and shuts in snow. Hidcote, Birdland, the Motoring Museum and Broadway Tower stay open, at winter prices where there are any.
 

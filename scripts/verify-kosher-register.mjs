@@ -70,7 +70,9 @@ if (namedOutside !== k.outsideLondon.length) {
 
 // ------------------------------------------------------------- Kedassia ---
 // A check you want to fail eventually.
-const saysUnreachable = /website unreachable|does not resolve at all|did not resolve/i.test(art);
+// CONTENT_GUIDELINES bans describing a website's state on a page, so the
+// article now says Kedassia publishes no register online; either wording counts.
+const saysUnreachable = /website unreachable|does not resolve at all|did not resolve|publishes no register online|no online register/i.test(art);
 if (reg.authorities.Kedassia.reachable && saysUnreachable) {
   errors.push("the article says Kedassia's register is unreachable, but the snapshot now records it as reachable - re-read that register and rewrite the Stamford Hill section, which is currently built on the gap");
 }

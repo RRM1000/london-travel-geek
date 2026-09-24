@@ -33,7 +33,7 @@ Every figure below was **read off the operator's own website or the council's ow
 
 > 💡 **The Short Version:** **Public leisure is not automatically cheaper.** Better runs **£34.25** at Phoenix to **£60.00** at Vauxhall, dearer than most commercial chains. Where public wins outright is casual swimming — **£3.20** at Crystal Palace against **£26–£35** for a single boutique class. The cheapest membership in London is **Fitness4Less at £20**, flat across all three clubs including one in Zone 1. **The joining fee is where the advertised price stops being the price:** Virgin Active charges **£25 to £250** depending on the club, and doubles it if you go rolling. **JD Gyms is the only chain in London with a genuine standing no-fee policy.** And if you swim twice a week, **pay-as-you-go beats the membership** — by **£150 a year** at Britannia.
 
-> ⚠️ **The resident discount is the biggest number on this page.** A Camden resident pays **£54.10** a year for a Better Pay As You Go card. A non-resident pays **£109.40** for the same card — exactly double. In Kensington and Chelsea the card is **free** to residents and **£37** to everybody else. Southwark residents swim and use the gym free at set times. Check your own borough before you sign anything.
+> ⚠️ **The resident discount is the biggest number on this page.** A Camden resident pays **£54.10** a year for a Better Pay As You Go card. A non-resident pays **£109.40** for the same card — roughly double. In Kensington and Chelsea the card is **free** to residents and **£37** to everybody else. Southwark residents swim and use the gym free at set times. Check your own borough before you sign anything.
 
 ---
 
@@ -45,7 +45,7 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 | --- | --- | --- | --- | --- | --- |
 | **Fitness4Less** | 3 | **£20.00** flat | Charged, half price today, amount not published | No contract | No |
 | **PureGym** | 87 | £22.99–£49.99 | £0–£25; commonest is £15 | Rolling, or fixed term | No |
-| **The Gym Group** | 86 | £23.99–£39.99 | £0, £10, £15 or £20 | Rolling, or 9/12-month saver | No |
+| **The Gym Group** | 87 | £23.99–£39.99 | £0, £10, £15 or £20 | Rolling, or 9/12-month saver | No |
 | **JD Gyms** | 3 | £25.99–£34.99 | **None, as standing policy** | Rolling, or 14-months-for-12 | No |
 | **UK Fitness Club** | 3 | £25.99–£29.99 | £15 or £20 | No contract, or 6/12 months upfront | No |
 | **énergie Fitness** | 18 | Not published | £0 at all 18 today, framed as an offer | Both offered | No |
@@ -82,7 +82,7 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 
 **PureGym has 87 London clubs and a 2.2x price spread across them.** The same Core membership is **£22.99** at Croydon and Wembley and **£49.99** at Clapham. Off-peak runs £17.99 to £35.99 — but only at 61 of the 87 clubs, and the off-peak hours are not published. Classes are included at most gyms. A guest costs you either the Plus tier or the **Buddy Access bolt-on "from just £3 extra per month"** for four guest visits.
 
-**The Gym Group is the same shape with a tighter ceiling** — **£23.99** at Alperton, Colindale and Wembley Central to **£39.99** at Monument, and off-peak from £16.99 at 79 of its 86 clubs. There are **eleven distinct off-peak schedules** across the London estate, one of which chops the day into 00:00–06:00, 09:00–11:00 and 13:00–16:30. Classes are free on every tier. Personal training is not — the trainers are freelance and set their own rates — though new members get one free session inside 60 days. Lockers need your own padlock or £5 from the vending machine.
+**The Gym Group is the same shape with a tighter ceiling** — **£23.99** at Alperton, Colindale and Wembley Central to **£39.99** at Monument, and off-peak from £16.99 at 79 of its 87 clubs. There are **eleven distinct off-peak schedules** across the London estate, one of which chops the day into 00:00–06:00, 09:00–11:00 and 13:00–16:30. Classes are free on every tier. Personal training is not — the trainers are freelance and set their own rates — though new members get one free session inside 60 days. Lockers need your own padlock or £5 from the vending machine.
 
 **JD Gyms has three London clubs and charges no joining fee at any of them, as standing policy rather than an offer.** Charlton, Enfield and Uxbridge, **£25.99 to £34.99**, all three open 24/7, saunas in the changing rooms included, classes included even on a day pass. **The teaser rate is not the price.** Enfield and Uxbridge both advertise "£15 1st month" and then charge £34.99 and £25.99. Charlton has no teaser and charges £29.99 from month one, which makes the club that looks dearest on the shelf the cheapest of the three over a year.
 
@@ -174,7 +174,7 @@ Membership price is not where public leisure separates from private. Residency i
 | **Lambeth** | Better | **£75.00** a year — the dearest card in London | Not separately priced |
 | **Islington** | Better | £81.70–£81.90 adult; £37.80–£38.60 concession | Not separately priced |
 
-**Camden is the widest gap in London.** A non-resident pays exactly double for an adult Pay As You Go card and **6.6 times** as much for a senior one — £45.85 against £6.90. Camden residents over 60 also swim free off-peak at Swiss Cottage and Oasis.
+**Camden is the widest gap in London.** A non-resident pays roughly double for an adult Pay As You Go card — £109.40 against £54.10–£54.35 — and **6.6 times** as much for a senior one — £45.85 against £6.90. Camden residents over 60 also swim free off-peak at Swiss Cottage and Oasis.
 
 **Kensington and Chelsea gives residents the card free.** The swim price is the same £4.50 either way; the whole resident advantage is that the card itself costs £37 if you live over the boundary.
 
@@ -277,7 +277,7 @@ Every chain here advertises a monthly figure. For most of them that figure is th
 
 **PureGym's £0 is a promotion, not a price.** Today **5 of its 87 London clubs** charge nothing — Camden High Street, Chiswick Park, Cricklewood, Harrow and Kensington High Street. The commonest London fee is £15 at 25 clubs, then £20 at 18 and £19.99 at 14; the dearest is £25 at Bow Wharf, Fulham, Limehouse, Moorgate, Piccadilly and St Pauls.
 
-**The Gym Group advertises a fee most of its London clubs do not charge.** Its own London region page says "pay from £30.99 today including a one-off £10 joining fee". In fact **45 of its 86 London clubs charge £15**, 17 charge £10, 23 charge £0 and two charge £20. Its 9- and 12-month Saver plans carry no fee at all.
+**The Gym Group advertises a fee most of its London clubs do not charge.** Its own London region page says "pay from £30.99 today including a one-off £10 joining fee". In fact **45 of its 87 London clubs charge £15**, 17 charge £10, 23 charge £0 and two charge £20. Its 9- and 12-month Saver plans carry no fee at all.
 
 **JD Gyms is the only genuine standing exception.** Nuffield's £29 is at least published and never waived. Better charges £12.50 as a setup fee, waived on annual prepaid and on Pay As You Go cards. Be Well, Mytime Active and JD charge nothing.
 

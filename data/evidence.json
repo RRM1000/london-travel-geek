@@ -77680,20 +77680,20 @@
       }
     ]
   },
-  "archhouse": {
-    "name": "The Arch House",
+  "anspachandhobday": {
+    "name": "Anspach & Hobday",
     "topics": [
       "craft-beer-pubs"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 6,
+    "tierSpread": "B1 C1 D4",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "craft-beer-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 6,
+        "tierSpread": "B1 C1 D4",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -77702,6 +77702,33 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/bars/londons-best-craft-beer-bars"
+      },
+      {
+        "tier": "C",
+        "source": "rebelatlas.com",
+        "url": "https://rebelatlas.com/destinations/uk/england/london/london-craft-beer-guide"
+      },
+      {
+        "tier": "D",
+        "source": "The Craft Beer Channel (YouTube)",
+        "url": "https://www.youtube.com/@TheCraftBeerChannel",
+        "quote": "'The brewery taking on Guinness in London!' (25 May 2022) - visits the brewery that makes London Black, a revival of the London Porter style, and tastes it side by side with Guinness. Matches Rebel Atlas's 'Anspach & Hobday - The Arch House'."
+      },
+      {
+        "tier": "D",
+        "source": "The Spurt Hole (YouTube)",
+        "url": "https://www.youtube.com/@SpurtHole",
+        "quote": "Same video, chapter-listed at 9:51. Matches the existing Rebel Atlas and Craft Beer Channel citations, above."
+      },
+      {
+        "tier": "D",
+        "source": "Starstruck by London (YouTube)",
+        "url": "https://www.youtube.com/@StarstruckByLondon"
+      },
+      {
+        "tier": "D",
+        "source": "Vagabrothers (YouTube)",
+        "url": "https://www.youtube.com/@vagabrothers"
       }
     ]
   },
@@ -78745,31 +78772,6 @@
   },
   "kernelbrewerytaproom": {
     "name": "The Kernel Brewery Taproom",
-    "topics": [
-      "craft-beer-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "craft-beer-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "rebelatlas.com",
-        "url": "https://rebelatlas.com/destinations/uk/england/london/london-craft-beer-guide"
-      }
-    ]
-  },
-  "anspachandhobdaythearchhouse": {
-    "name": "Anspach & Hobday - The Arch House",
     "topics": [
       "craft-beer-pubs"
     ],
@@ -80472,48 +80474,6 @@
         "source": "The Craft Beer Channel (YouTube)",
         "url": "https://www.youtube.com/@TheCraftBeerChannel",
         "quote": "'Beer Log: a crawl of London's best Belgian beer bars' (6 Jun 2018): 'Jonny, the Brad and Mr Hyde's Andrew Dickens walk the five-mile route between London's two best Belgian bars, stopping off at 3 more bangers in between... Lowlander, The Dovetail, Craft Beer Co Old Street, The Dove and the Beer Merchants Tap.'"
-      }
-    ]
-  },
-  "anspachandhobday": {
-    "name": "Anspach & Hobday",
-    "topics": [
-      "craft-beer-pubs"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "D4",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "craft-beer-pubs": {
-        "sourceCount": 4,
-        "tierSpread": "D4",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "D",
-        "source": "The Craft Beer Channel (YouTube)",
-        "url": "https://www.youtube.com/@TheCraftBeerChannel",
-        "quote": "'The brewery taking on Guinness in London!' (25 May 2022) - visits the brewery that makes London Black, a revival of the London Porter style, and tastes it side by side with Guinness. Matches Rebel Atlas's 'Anspach & Hobday - The Arch House'."
-      },
-      {
-        "tier": "D",
-        "source": "The Spurt Hole (YouTube)",
-        "url": "https://www.youtube.com/@SpurtHole",
-        "quote": "Same video, chapter-listed at 9:51. Matches the existing Rebel Atlas and Craft Beer Channel citations, above."
-      },
-      {
-        "tier": "D",
-        "source": "Starstruck by London (YouTube)",
-        "url": "https://www.youtube.com/@StarstruckByLondon"
-      },
-      {
-        "tier": "D",
-        "source": "Vagabrothers (YouTube)",
-        "url": "https://www.youtube.com/@vagabrothers"
       }
     ]
   },

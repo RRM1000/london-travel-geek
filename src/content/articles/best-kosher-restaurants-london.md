@@ -81,7 +81,7 @@ Kosher London is a **north-west corridor**, and the register makes that unusuall
 | **Golders Green** | 8 |
 | **Temple Fortune** | 4 |
 | **Edgware** | 3 |
-| **Hampstead & Belsize Park** | 2 |
+| **Hampstead & Belsize Park** | 3 |
 | **Marylebone** | 1 |
 | **Stamford Hill** | 1 |
 

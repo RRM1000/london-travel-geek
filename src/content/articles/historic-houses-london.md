@@ -271,7 +271,7 @@ Things worth finding rather than just standing in: the **tile friezes**, running
 
 It is red brick built round a small courtyard with a vicarage and choir school, on a site so tight that Butterfield had to build upward.
 
-**Free, and open daily 11am to 7pm** for private prayer and visiting. Mass at noon, 11am on Sundays. Two minutes from Oxford Circus and almost entirely unvisited.
+**Free, and open daily 11am to 7pm** for private prayer and visiting. Mass at noon and 6.30pm Monday to Saturday, 11am on Sundays. Two minutes from Oxford Circus and almost entirely unvisited.
 
 ### St Paul's, the Actors' Church, Covent Garden
 

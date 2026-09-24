@@ -55,7 +55,7 @@ For the traditional theme-park scare, three are genuinely worth the train fare.
 
 Chertsey, Surrey. Runs on selected dates from **2 October through to 1 November 2026**, park open 10am–9pm on event nights. Five mazes for 2026 — Tenement is new — plus scare zones including Rebel Ball and The Crows.
 
-**Book online in advance**: park entry from **£39**, or entry plus the four-maze package from **£71**. Buying at the gate roughly doubles the price. Thorpe Park's own site warns that popular dates sell out — and **Saturday 31 October, Halloween itself, is the one to book earliest.** Mazes are recommended for **13 and over**; The Conjuring 4D Experience needs **15 and over**.
+**Book online in advance**: park entry from **£39** (£66 at the gate), or entry plus the Fearsome Four maze package from **£71**. That package covers four of the five mazes, not the new Tenement, which is sold separately. Thorpe Park's own site warns that popular dates sell out — and **Saturday 31 October, Halloween itself, is the one to book earliest.** Mazes are recommended for **13 and over**; The Conjuring 4D Experience needs **15 and over**.
 
 ### Chessington: Howl'o'ween
 
@@ -63,7 +63,7 @@ Surrey, next to Thorpe Park. Runs on selected dates **3 October to 1 November 20
 
 Advance day tickets from **£34**; under-90cm children go free.
 
-**The choice between this and Thorpe Park is really a choice about age.** Thorpe Park's Fright Nights is a 16+ event built on scare mazes and actors who chase you; Chessington deliberately has none of that, and the theme park rides run as normal alongside the Halloween dressing. If you have children under about twelve, Chessington is the one that works and Thorpe Park is the one that ends in tears.
+**The choice between this and Thorpe Park is really a choice about age.** Thorpe Park's Fright Nights is built for teenagers and adults (mazes 13 and over), with scare mazes and actors who chase you; Chessington deliberately has none of that, and the theme park rides run as normal alongside the Halloween dressing. If you have children under about twelve, Chessington is the one that works and Thorpe Park is the one that ends in tears.
 
 Both are in Surrey and both are a train plus a shuttle or a walk, so neither is a quick evening out from central London — budget most of a day.
 

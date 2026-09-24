@@ -51,7 +51,7 @@ That scarcity is the whole practical problem — the good ones sell out, most wa
   </noscript>
 </details>
 
-Eight of the sixteen ranked entries sit wholly outside Zone 1 and three more straddle Zones 1–2, so for most of this list a good Sunday roast means getting on a train. Of the four that are properly central, two — Blacklock and Hawksmoor — are restaurants rather than pubs.
+Nine of the sixteen ranked entries sit wholly outside Zone 1, so for most of this list a good Sunday roast means getting on a train. Of the seven that are properly central, four — Blacklock, Hawksmoor, The Quality Chop House and Fallow — are restaurants rather than pubs.
 
 ---
 

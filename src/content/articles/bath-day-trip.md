@@ -93,7 +93,7 @@ Charges apply only to **Euro 1–5/V diesel and Euro 1–3 petrol or earlier**, 
 
 ## The coach day trips, and what they include
 
-**Most people who visit Bath from London do it on a coach tour, usually paired with Stonehenge**, and that is a fair choice: the two are 40 minutes apart and awkward to link by train. There are 36 Bath tours on GetYourGuide; we opened fourteen of the product pages and read the includes and excludes lists. **Two of the fourteen include an attraction ticket with no conditions attached.**
+**Most people who visit Bath from London do it on a coach tour, usually paired with Stonehenge**, and that is a fair choice: the two are 40 minutes apart and awkward to link by train. GetYourGuide sells dozens of Bath tours, and the includes and excludes list is worth reading before you book — **an attraction ticket is not always part of the headline price.**
 
 | What the day covers | The one to look at | Hours | From | Entry included |
 | --- | --- | --- | --- | --- |

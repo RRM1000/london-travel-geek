@@ -111,7 +111,7 @@ Two things move that total more than anything else. **Walking instead of tapping
 
 ### Does the London Pass change the arithmetic?
 
-Rarely, and the number is easy to hold in your head. A **2-day adult pass is £149**, and the five attractions a first-timer actually names come to **£139.70** booked direct — so you need a **sixth** paid attraction inside those two days before the pass starts to pay, on prices checked on 1 September 2026. Most people do five in two days and lose. If your trip is about the palaces instead, Historic Royal Palaces membership is **£65 a year by Direct Debit** and covers the Tower, Hampton Court and Kensington, which cost £90.70 at the gate for one adult. [The full arithmetic is here](/articles/london-pass-guide/), including the family case and the Explorer.
+Rarely, and the number is easy to hold in your head. A **2-day adult pass is £149**, and the five attractions a first-timer actually names come to **£142.00** booked direct — so you need a **sixth** paid attraction inside those two days before the pass starts to pay, on prices checked on 1 September 2026. Most people do five in two days and lose. If your trip is about the palaces instead, Historic Royal Palaces membership is **£65 a year by Direct Debit** and covers the Tower, Hampton Court and Kensington, which cost £90.70 at the gate for one adult. [The full arithmetic is here](/articles/london-pass-guide/), including the family case and the Explorer.
 
 <div data-stay-strip></div>
 

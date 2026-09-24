@@ -99,7 +99,7 @@ The one back door is arithmetic rather than a secret: tickets are non-refundable
 
 **The shuttle bus is included in your entry ticket** — a genuine freebie that a surprising number of guides charge you for. It runs at least every half hour from 9.20am, with earlier services from 8.15am on 9am-opening days, and the last one back leaves when the tour closes.
 
-Oyster and contactless are valid all the way to Watford Junction, which sits outside the London zones, so budget the return separately rather than assuming your daily cap swallows it. **An off-peak return is £14.40, so a full adult day out is £72.90 before you buy so much as a coffee.** The official alternative is a Golden Tours ticket-and-transfer package by branded coach from central London, from £94 — about £20 more than doing it yourself.
+Oyster and contactless are valid all the way to Watford Junction, which sits outside the London zones, so budget the return separately rather than assuming your daily cap swallows it. **An off-peak return is £14.40, so a full adult day out is £72.90 before you buy so much as a coffee.** The official alternative is a Golden Tours ticket-and-transfer package by branded coach from central London, from £95.50 — about £23 more than doing it yourself.
 
 ### How long, and what it is like
 

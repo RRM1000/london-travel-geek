@@ -29,7 +29,7 @@ Visitors to London have to choose between buying an **Oyster card** and simply t
 > 💡 **The Quick Verdict: Contactless vs. Oyster Card.**
 > - **For 95% of Adult Visitors:** Use **Contactless** (Visa, Mastercard, Apple Pay, Google Pay). You get the exact same fares and daily price capping as an Oyster card, with **zero upfront fees** (£0 vs £10.50) and no need to manage balance top-ups.  
 > - **When to Buy an Oyster Card:** Get an Oyster card if you want to pay with **cash**, if your foreign bank card charges high fixed transaction fees, or if you need to load **discount passes** (e.g. Young Visitor 50% child discount or National Railcards for 1/3 off off-peak fares).  
-> - **Never Buy Paper Tickets:** Single paper Underground tickets cost more than double the pay-as-you-go rate — £6.70 against £3.00 in Zone 1.
+> - **Never Buy Paper Tickets:** Single paper Underground tickets cost more than double the pay-as-you-go rate — £6.70 against £3.00 off-peak (£3.10 at peak times) in Zone 1.
 
 ---
 
@@ -183,7 +183,7 @@ If using an Oyster card, keep your balance topped up at any station ticket machi
 
 ## 7 Common Oyster & contactless mistakes to avoid
 
-1. **Buying paper single tickets:** Paper Tube tickets cost up to **£6.70** against **£3.00** with contactless or Oyster.
+1. **Buying paper single tickets:** Paper Tube tickets cost up to **£6.70** against **£3.00** off-peak (£3.10 peak) with contactless or Oyster.
 2. **Switching devices mid-day:** Tapping in with a physical bank card and tapping out with Apple Pay creates two separate, incomplete journeys.
 3. **Sharing one card between two people:** Every traveller aged 11 and older must have their own card or device.
 4. **Forgetting to tap out on trains:** Triggers an automatic maximum penalty fare charge (up to £9.40).
