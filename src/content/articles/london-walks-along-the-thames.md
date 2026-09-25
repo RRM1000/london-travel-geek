@@ -1,7 +1,7 @@
 ---
 title: "The Best Walks Along the Thames in London"
 seoTitle: "Thames Path Walks in London: South Bank to Greenwich"
-description: "The South Bank walk that takes in five free viewpoints, the Wapping riverside pub crawl, and the quiet Rotherhithe stretch into Greenwich — every walkable piece of the Thames Path in London."
+description: "The South Bank walk past Tate Modern and Borough Market, the Wapping riverside pub crawl, and the quiet Rotherhithe stretch into Greenwich — every walkable piece of the Thames Path in London."
 heroImage: "../../assets/articles/london-walks-along-the-thames/tower-bridge.jpg"
 heroImageAlt: "Tower Bridge from the north bank, both towers and the raised walkways above the road deck"
 publishedAt: 2026-08-23

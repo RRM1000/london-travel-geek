@@ -44,7 +44,7 @@ This guide separates the two, because a milestone dinner and a spectacular room 
 | **The City** | Duck & Waffle, SUSHISAMBA |
 | **Soho** | Bob Bob Ricard |
 
-**Price guide:** **£££** £40–£70 · **££££** £90+. Among the three-star rooms, the range actually runs from **£125** for Restaurant Gordon Ramsay's set lunch to **£295** for dinner at The Ledbury.
+**Price guide:** **£££** £40–£70 · **££££** £90+. Among the three-star rooms, the range actually runs from about **£96** for two courses at lunch at Hélène Darroze to **£295** for dinner at The Ledbury.
 
 ---
 
@@ -136,7 +136,7 @@ Brett Graham reopened it in 2022 with a tighter focus on British sourcing, and i
 
 *££££*
 
-Pierre Gagnaire's London expression, on Conduit Street. The rest of Sketch — the pink room, the egg lavatories — is a separate and cheaper experience in the same building, which makes it the one three-star address where you can have a version of the evening without the tasting menu.
+Pierre Gagnaire's London expression, on Conduit Street. The rest of Sketch — the Gallery, the egg lavatories — is a separate and cheaper experience in the same building, which makes it the one three-star address where you can have a version of the evening without the tasting menu.
 
 > 💡 **Sketch publishes no prices anywhere on its site.** They appear only once you are inside the booking flow.
 

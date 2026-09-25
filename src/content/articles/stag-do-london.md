@@ -89,7 +89,7 @@ The karting venue that publishes a price and takes a group in central London is 
 
 **Electric Shuffle takes two people or thirty-two**, which is why it works on a Friday when Flight Club does not: **£10 a head Sunday to Tuesday, £13 Wednesday to Saturday**, plus a £38 weekend bottomless brunch. **Bounce at Battersea is £6 a head**, the cheapest game in London, with group packages including food and drink from £20 a head for a minimum of six.
 
-**Fairgame is the one to know about in advance.** Nine games in 75 minutes at Canary Wharf for **£15 off-peak or £19 prime**; twelve games in 90 minutes at the City site for **£22 and £25**. There is **no minimum group size at all** — but it is **18-plus at every hour it opens** and insists on **physical photo ID rather than a picture of one**, and groups of sixteen or more must book through the events team *and* pre-purchase food and drink. The [competitive socialising guide](/articles/competitive-socialising-london/) compares the whole category, including three venues that have closed.
+**Fairgame is the one to know about in advance.** Nine games in 75 minutes at Canary Wharf for **£15 off-peak or £19 prime**; twelve games in 90 minutes at the City site for **£22 and £25**. There is **no minimum group size at all** — but it is **18-plus at every hour it opens** and insists on **physical photo ID rather than a picture of one**, and groups of sixteen or more must book through the events team *and* pre-purchase food and drink. The [competitive socialising guide](/articles/competitive-socialising-london/) compares the whole category, including the venues that have closed.
 
 <div data-stay-strip></div>
 

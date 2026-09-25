@@ -255,4 +255,4 @@ Lively, well connected and good value against Zone 1 proper — but genuinely lo
 - **Liverpool Street and Aldgate** — Ten minutes south, quieter at night, excellent transport including the Elizabeth line.
 - **Whitechapel** — East and cheaper, on the Elizabeth line and District line.
 
-For the nine hotels compared, which streets are loud at 2am, and five areas within fifteen minutes where the same night costs half as much, see [where to stay in Shoreditch](/articles/where-to-stay-shoreditch/).
+For the hotels compared, which streets are loud at 2am, and the areas within fifteen minutes where the same night costs half as much, see [where to stay in Shoreditch](/articles/where-to-stay-shoreditch/).

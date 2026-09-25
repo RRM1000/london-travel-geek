@@ -250,7 +250,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 *A Cocoon room at Zedwell Park Lane, on its backlit wood plinth.*
 
-**[Native Mayfair](hotel:native-mayfair)** is the other approach: studios and apartments with **fully fitted kitchens** — fridge, freezer, dishwasher and a dining table — on a mews off Grosvenor Square, three minutes from Bond Street and its Elizabeth line platforms. Native files it under apartments for longer stays rather than under its aparthotels, so expect it to reward a week more than two nights. Our [aparthotels guide](/articles/aparthotels-london/) compares twenty-six of them.
+**[Native Mayfair](hotel:native-mayfair)** is the other approach: studios and apartments with **fully fitted kitchens** — fridge, freezer, dishwasher and a dining table — on a mews off Grosvenor Square, three minutes from Bond Street and its Elizabeth line platforms. Native files it under apartments for longer stays rather than under its aparthotels, so expect it to reward a week more than two nights. Our [aparthotels guide](/articles/aparthotels-london/) compares it with the rest.
 
 ![The bathroom at Native Mayfair, with a freestanding bathtub, a wood bath caddy and a walk-in glass shower alongside](../../assets/articles/where-to-stay-soho-west-end/native-mayfair-bathroom.jpg)
 

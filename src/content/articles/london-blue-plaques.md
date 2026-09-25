@@ -35,7 +35,7 @@ More than a thousand official blue plaques exist in London, and the pleasure of 
 This is a guide to the ones worth building a walk around.
 
 > 🗺️ **[See every one of them on our interactive map →](/plaques/).**
-> All 3,630 London plaques, official and unofficial — search by name or inscription, filter by colour or subject, and find what's near you.
+> Every London plaque, official and unofficial — search by name or inscription, filter by colour or subject, and find what's near you.
 
 > 💡 **The Short Version:** **Belgravia** has Mozart, Mary Shelley, Fleming and Tennyson in one short walk. **Bloomsbury** has Dickens, Darwin and Keynes. **Mayfair** has Handel and Hendrix next door to each other, and both houses are open as one museum. **St James's** has the oldest surviving plaque in London, put up in 1867 while its subject was still alive and still ruling France.
 
@@ -375,7 +375,7 @@ The guide above is organised around **proximity** — plaques worth detouring fo
 
 ## Not every plaque is an English Heritage plaque
 
-Most people assume any blue disc is official. Most are not — of the 3,630 plaques on our map of London, fewer than 1,000 come from the official scheme and the councils that ran it before. The City of London Corporation, the Nubian Jak Community Trust, the Heritage Foundation and several boroughs all use blue too, and a few genuine English Heritage plaques are brown, black or stone.
+Most people assume any blue disc is official. Most are not: the official scheme, with the councils that ran it before English Heritage, accounts for about a quarter of the plaques on [our map of London](/plaques/). The City of London Corporation, the Nubian Jak Community Trust, the Heritage Foundation and several boroughs all use blue too, and a few genuine English Heritage plaques are brown, black or stone.
 
 **The quick test:** if it commemorates a shop, a band, an event, a building or somebody still alive, it is not an English Heritage plaque.
 

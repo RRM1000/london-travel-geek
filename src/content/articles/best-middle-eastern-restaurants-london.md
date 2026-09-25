@@ -122,7 +122,7 @@ Course after course arrives without you ordering: cold mezze, then hot, then gri
 
 ## Turkish
 
-Turkish cooking is its own tradition rather than a branch of Levantine, and London has enough of it to need a separate page — [**The Best Turkish Restaurants in London**](/articles/best-turkish-restaurants-london/) compares 25 rooms, most of them on or near **Green Lanes**, where nine of the most-cited sit on a single road.
+Turkish cooking is its own tradition rather than a branch of Levantine, and London has enough of it to need a separate page — [**The Best Turkish Restaurants in London**](/articles/best-turkish-restaurants-london/) — most of them on or near **Green Lanes**, where nine of the most-cited sit on a single road.
 
 The short version: **Mangal II** in Dalston is the most-cited and the one that turned an ocakbaşı into a destination kitchen; **Antepliler** and **Gökyüzü** are the Green Lanes benchmarks; **Kismet** in Borough is the meyhane worth a night out; and **Ishtar** in Marylebone is the reliable central room for a table that does not want to travel.
 

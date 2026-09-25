@@ -336,4 +336,4 @@ The walk is **flat and paved throughout** and never more than about five minutes
 - **[London's best markets](/articles/best-london-markets/)** — where Columbia Road, Spitalfields and Brick Lane sit among the rest, and which days the others run.
 - **[London street art and Banksy](/articles/london-street-art/)** — the Rivington Street cluster north of here, and eight more areas.
 - **[The City of London walk](/articles/city-of-london-walk/)** — starts at Bank, ten minutes south-west of where this one finishes.
-- **[Where to stay in Shoreditch](/articles/where-to-stay-shoreditch/)** — nine hotels compared, and which streets are loud at 2am.
+- **[Where to stay in Shoreditch](/articles/where-to-stay-shoreditch/)** — the hotels compared, and which streets are loud at 2am.

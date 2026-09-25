@@ -149,7 +149,7 @@ Accommodation is the line that breaks most London budgets, and the one genuinely
 
 **A dorm bed undercuts all of it** — from about £11 near King's Cross — and adds the thing a capsule does not have, which is a kitchen you can cook in. Our [best hostels in London guide](/articles/best-hostels-london/) compares them on what the booking sites bury: which dorms are en-suite, which women's dorms have their own bathrooms, the age limits that will refuse you, and what gets charged at the desk for a towel and a locker.
 
-**For a hotel room of your own, look a few stops out.** When we priced 46 budget hotels on the same five nights, only three in central London had a typical night of £150 or less, and 19 more did further out, near a fast train into town. [The best budget hotels in London](/articles/best-budget-hotels-london/) has all 22, and why a Sunday is the night to book.
+**For a hotel room of your own, look a few stops out.** When we priced 46 budget hotels on the same five nights, only three in central London had a typical night of £150 or less, and 19 more did further out, near a fast train into town. [The best budget hotels in London](/articles/best-budget-hotels-london/) has every one, and why a Sunday is the night to book.
 
 **The area matters more than the hotel.** [Best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for and covers the thing that quietly decides the budget — whether there is a train home at one in the morning, or a taxi. For a stay of more than a few nights, an [aparthotel](/articles/aparthotels-london/) with a kitchen usually beats a hotel room on total cost, and if you only need somewhere between a late flight and a check-in, [day rooms](/articles/day-rooms-london/) are cheaper than a wasted night.
 
@@ -158,7 +158,7 @@ Accommodation is the line that breaks most London budgets, and the one genuinely
 ## The three lines that break a budget
 
 1. **Accommodation.** The one unavoidable expense, and Zone 2 with good transport beats Zone 1 every time.
-2. **Paid attractions.** The Tower, the Shard, Madame Tussauds and the Eye are £30 and up, each. Pick two, not six — and check [what is free](/free/) before you pick at all.
+2. **Paid attractions.** The Tower, the Shard, Madame Tussauds and the Eye cost £25 or more each. Pick two, not six — and check [what is free](/free/) before you pick at all.
 3. **Drinking.** A pint is £6–£8 in central London. Wetherspoons and the outer zones are roughly half that.
 
 Nothing else on the list moves the total much. The museums, the parks, the views, the walking and the markets are where London is genuinely generous, and no amount of careful planning saves you as much as choosing the right bed and buying two tickets instead of six.

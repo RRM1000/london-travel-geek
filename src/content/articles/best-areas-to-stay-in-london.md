@@ -32,7 +32,7 @@ Where to visit and where to sleep are different questions. The things that make 
 
 What decides a base is duller and more specific. What a room costs. How far you walk at the end of the evening. Whether anything near you is open for breakfast. Whether the whole place shuts at six. Covent Garden is one of the best days out in London and a mediocre place to sleep. Bethnal Green is close to the reverse.
 
-This page is the sleeping question. If you want the looking-at-things question, our [guide to the best areas to visit](/articles/best-areas-to-visit-london/) ranks the neighbourhoods on exactly that basis, and the two lists agree less often than you would expect.
+This page is the sleeping question. If you want the looking-at-things question, our [guide to the best areas to visit](/articles/best-areas-to-visit-london/) sorts the neighbourhoods on exactly that basis, and the two lists agree less often than you would expect.
 
 > 💡 **The Short Version:** **First trip: Covent Garden, the South Bank or Bloomsbury** — central, walkable, and you can get home on foot from most of what you book. **Going out: Soho or Shoreditch**, and neither is cheap. **Museums and children: South Kensington**, for the Victorian subway that takes most of the walk to the museums underground. **Budget: stay in Zone 1 and go smaller**, not out to Zone 3. **Quiet: Chelsea, Notting Hill or Hampstead.** **Early flight: Paddington.** Booking Zone 3 to save twenty pounds a night costs more in travelling time than it saves in money.
 
@@ -92,7 +92,7 @@ Three stations serve the strip, so wherever along it you end up you are close to
 
 *A citizenM room's tightly filled bed width, the format's signature small-but-clever layout.*
 
-**[Native Bankside](hotel:native-bankside)** is on a quiet cut-through behind Shakespeare's Globe and puts a kitchen in the room. Our full [South Bank hotel guide](/articles/where-to-stay-south-bank/) compares sixteen hotels from County Hall to Borough.
+**[Native Bankside](hotel:native-bankside)** is on a quiet cut-through behind Shakespeare's Globe and puts a kitchen in the room. Our full [South Bank hotel guide](/articles/where-to-stay-south-bank/) compares the hotels from County Hall to Borough.
 
 ### Bloomsbury — the cheapest good decision in Zone 1
 
@@ -160,7 +160,7 @@ At the top, **[Broadwick Soho](hotel:broadwick-soho)** is about £450 and was na
 
 *One of Ham Yard's rooms, headboard printed with a forest scene.*
 
-Our full [Soho and West End hotel guide](/articles/where-to-stay-soho-west-end/) compares nine of them and the four areas five minutes out.
+Our full [Soho and West End hotel guide](/articles/where-to-stay-soho-west-end/) compares them and the areas five minutes out.
 
 ### Shoreditch — the best design hotels, and not cheap
 
@@ -188,7 +188,7 @@ The best run of design hotels in London, and not the bargain it is still sold as
 
 *nhow London's playful, London-themed room design - portrait, slogan and Union Jack rug included.*
 
-Our full [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares nine of them and five cheaper areas within fifteen minutes.
+Our full [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares them and the cheaper areas within fifteen minutes.
 
 ### Spitalfields — Shoreditch's nightlife at sleeping distance
 

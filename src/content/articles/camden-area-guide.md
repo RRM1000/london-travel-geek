@@ -58,7 +58,7 @@ faq:
   - q: "How many markets are there in Camden?"
     a: "Effectively five, running into each other along the same half-mile. Camden Lock Market is the original by the canal; Stables Market is the largest, in the old horse hospital tunnels; Camden Lock Village sits opposite; Boxpark Camden is the covered container market by the station, on the old Buck Street Market site; and Inverness Street is a small street market. Most people walk all of them without realising they have crossed between four owners."
   - q: "What days is Camden Market open?"
-    a: "Every day, roughly 10:00 to 18:00. Unlike most London markets it does not depend on the weekend — though Saturday and Sunday are considerably busier, and some stalls only trade then. A weekday morning gets you the same market with room to move."
+    a: "Every day, 10am to 7pm, including bank holidays. Unlike most London markets it does not depend on the weekend — though Saturday and Sunday are considerably busier, and some stalls only trade then. A weekday morning gets you the same market with room to move."
   - q: "Can you take a boat from Camden to Little Venice?"
     a: "Yes. Narrowboat waterbuses run along the Regent's Canal from Camden Lock to Little Venice through Regent's Park and the London Zoo grounds, taking about 45 minutes. They do not stop at the zoo — the nearest stop is Camden Market, about fifteen minutes' walk from the entrance. Services are frequent in summer and much reduced in winter."
   - q: "Is Primrose Hill worth the walk?"

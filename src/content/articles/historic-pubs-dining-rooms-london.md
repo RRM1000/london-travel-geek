@@ -292,7 +292,7 @@ The current building dates precisely to **1676–77**, put up immediately after 
 
 *£££ · 30–32 Bruton Place · CAMRA three-star interior* · Cited by 2 sources
 
-A Mayfair mews pub with **an interior CAMRA rates three-star — of outstanding national historic importance**, the highest rating of any pub here. It is not statutorily listed at all, which is a good illustration of how little the two systems overlap.
+A Mayfair mews pub with **an interior CAMRA rates three-star — of outstanding national historic importance**, CAMRA's highest rating. It is not statutorily listed at all, which is a good illustration of how little the two systems overlap.
 
 Rebuilt in 1741 and licensed in 1754. The Guinea Grill behind it opened in **1952** and claims to be London's original steakhouse; the pies have won awards and the beef is the reason Mayfair keeps coming back.
 

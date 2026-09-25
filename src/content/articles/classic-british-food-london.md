@@ -35,7 +35,7 @@ Afternoon tea, the full English breakfast, the Sunday roast and fish and chips a
 
 ### Afternoon tea
 
-Tiered stands of finger sandwiches, warm scones with clotted cream and jam, then pastries, over a pot of tea — a sit-down ritual usually traced to the 1840s and the Duchess of Bedford's long gap between lunch and a late dinner. **The Langham** in Marylebone claims the version anyone could book: it opened in 1865 as the first hotel in the world to serve it. Prices run from around £30 in a museum café to £95 at a Mayfair hotel. The full **[afternoon tea guide](/articles/best-afternoon-tea-london/)** compares 25 of them — sittings, dress codes and all.
+Tiered stands of finger sandwiches, warm scones with clotted cream and jam, then pastries, over a pot of tea — a sit-down ritual usually traced to the 1840s and the Duchess of Bedford's long gap between lunch and a late dinner. **The Langham** in Marylebone claims the version anyone could book: it opened in 1865 as the first hotel in the world to serve it. Prices run from under £30 to well over £100 a head at the grand hotels. The full **[afternoon tea guide](/articles/best-afternoon-tea-london/)** compares them room by room — sittings, dress codes and all.
 
 ![The Langham hotel's brick and stone exterior, with the hotel's name lettered above the ground-floor entrance.](../../assets/articles/classic-british-food-london/the-langham-exterior.jpg)
 
@@ -51,7 +51,7 @@ A joint of meat — beef most classically, but lamb, pork or chicken too — roa
 
 ### Fish and chips
 
-Battered white fish — cod or haddock, usually — deep-fried and served with thick-cut chips, traditionally wrapped in paper and eaten with a small wooden fork, mushy peas or curry sauce on the side. A "chippy" is the shop, and whether it should fry in beef dripping or vegetable oil is an argument that has never actually been settled. The **[fish and chips guide](/articles/best-fish-and-chips-london/)** compares 58 of them, from the Bloomsbury shop that still uses dripping to the one that fries in matzo meal instead of batter.
+Battered white fish — cod or haddock, usually — deep-fried and served with thick-cut chips, traditionally wrapped in paper and eaten with a small wooden fork, mushy peas or curry sauce on the side. A "chippy" is the shop, and whether it should fry in beef dripping or vegetable oil is an argument that has never actually been settled. The **[fish and chips guide](/articles/best-fish-and-chips-london/)** ranks them by how many independent sources name each one, from the Bloomsbury shop that still uses dripping to the one that fries in matzo meal instead of batter.
 
 ---
 

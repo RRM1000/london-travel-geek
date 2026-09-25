@@ -239,7 +239,7 @@ export const londonSite: SiteConfig = {
       // still in the guides index, in search and in the articles that need it.
       children: [
         { label: "Start here: which plan fits", href: "/articles/london-itineraries-by-days-and-interests/" },
-        { label: "One day — 13 plans by interest", href: "/articles/one-day-london-itineraries-by-interest/" },
+        { label: "One day — plans by interest", href: "/articles/one-day-london-itineraries-by-interest/" },
         { label: "Three days in London", href: "/articles/three-days-in-london-itinerary/" },
         { label: "Five days in London", href: "/articles/five-days-in-london-itinerary/" },
         { label: "London on a budget", href: "/articles/london-on-a-budget/" },

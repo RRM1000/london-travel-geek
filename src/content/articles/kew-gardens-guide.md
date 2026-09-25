@@ -253,7 +253,7 @@ Glasshouses close earlier than the gardens overall — 5pm through September 202
 - 🦌 **[Richmond Area Guide](/articles/richmond-area-guide/)** — the park, the river and Richmond Hill, just south of Kew.
 - 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)** — more family days out, including which ones are free.
 - 🚇 **[Getting Around London: Transport Guide](/articles/getting-around-london-transport-guide/)** — how the Tube, Overground and contactless fares work.
-- 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — how to see the Crown Jewels without a 90-minute queue.
+- 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — prices, the quieter afternoon slots, and the ticket that reaches the Crown Jewels before other visitors.
 
 ---
 

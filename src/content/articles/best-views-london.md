@@ -160,7 +160,7 @@ A roughly 240-degree sweep from the fiftieth floor, strongest to the west and so
 
 > ⚠️ **This does need booking**, contrary to what a lot of guides say. Free tickets release **every other Monday**, up to two weeks ahead, through booking.8bishopsgate.com. The operator does not publish the 45-minute slot length quoted elsewhere.
 
-Worth the effort for one reason: **Mondays and Fridays it runs to 9pm**, against 5.30pm midweek. That makes it the only free City viewpoint that reliably catches a summer sunset — Sky Garden shuts at 6pm on weekdays, Horizon 22 at 6pm, and The Garden at 120 depends on the weather. If you only get one free evening in the City, make it a Monday or a Friday and come here.
+Worth the effort for one reason: **Mondays and Fridays it runs to 9pm**, against 5.30pm midweek. That makes it the only free City viewpoint that reliably catches a summer sunset on a weekday — Sky Garden and Horizon 22 both shut at 6pm on weekdays, and The Garden at 120 depends on the weather. If you only get one free evening in the City, make it a Monday or a Friday and come here.
 
 Because the sweep favours west and south, you are looking back over the West End, the river and the Shard rather than at the towers you are standing among — which is the opposite of what Horizon 22 four hundred metres away gives you, and the reason to do both. The entrance is at 8 Bishopsgate, EC2N 4BQ, two minutes from Liverpool Street.
 

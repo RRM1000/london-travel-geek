@@ -272,7 +272,7 @@ One night in a neighbourhood you are not staying in — Peckham, Hackney, Brixto
 
 - **A West End show** — booked before you fly. See the [theatre guide](/articles/london-theatre-guide/).
 - **One proper dinner** — [special occasion restaurants](/articles/special-occasion-restaurants-london/). Lunch at the same restaurant is dramatically cheaper for the same kitchen.
-- **A free view at dusk** — Sky Garden at a weekend runs to 9pm, and it is the only one of the free City views open late enough for a summer sunset. Horizon 22 shuts at 6pm on a weekday and 4pm on a Sunday.
+- **A free view at dusk** — Sky Garden runs to 9pm at weekends and The Lookout at 8 Bishopsgate to 9pm on Mondays and Fridays, late enough for a summer sunset. Horizon 22 shuts at 6pm on a weekday and 4pm on a Sunday.
 - **Live music** — from the [100 Club to a jazz late set](/articles/best-live-music-venues-london/).
 - **A genuinely old pub** — [historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/).
 

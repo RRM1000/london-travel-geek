@@ -161,7 +161,7 @@ The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terr
 | **The Audley** | Restored pub | ££ | Mount Street; ornate Victorian interior, recently restored |
 | **Mercato Mayfair** | Food hall | ££ | Inside a deconsecrated Victorian church on North Audley Street |
 | **The Wolseley** | Grand cafe | £££ | Piccadilly, in a former car showroom; book for breakfast |
-| **Sketch** | Modern European | ££££ | Conduit Street; the pink room and the egg-pod toilets |
+| **Sketch** | Modern European | ££££ | Conduit Street; the Gallery and the egg-pod toilets |
 
 ## Getting there
 

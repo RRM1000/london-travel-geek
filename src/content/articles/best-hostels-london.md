@@ -395,9 +395,9 @@ The operator does not publish its dorm bathroom arrangement, whether it runs a f
 
 **There are two or more of you.** A [windowless hotel room](/articles/windowless-hotel-rooms-london/) adds roughly £5 a night for the second guest, which makes it the best-value thing in the budget category the moment you are not alone.
 
-**You want a proper hotel room.** [The best budget hotels in London](/articles/best-budget-hotels-london/) lists 22 whose typical night came to £150 or less, most of them a few stops out on a fast train.
+**You want a proper hotel room.** [The best budget hotels in London](/articles/best-budget-hotels-london/) lists the ones whose typical night came to £150 or less, most of them a few stops out on a fast train.
 
-**You are staying more than a few nights.** An [aparthotel](/articles/aparthotels-london/) with a kitchen usually beats both on total cost, and we have compared twenty-six of them.
+**You are staying more than a few nights.** An [aparthotel](/articles/aparthotels-london/) with a kitchen usually beats both on total cost; our [aparthotels guide](/articles/aparthotels-london/) compares them.
 
 **You are not staying the night at all.** A [day room](/articles/day-rooms-london/) is cheaper than a wasted night for a long layover.
 

@@ -21,7 +21,7 @@ What follows is sorted by what you decide first: **what you fancy, where you are
 > 1. **A [Sunday roast](/articles/best-sunday-roast-london/) in a historic pub** — thick-sliced beef, a Yorkshire pudding the size of the plate, and gravy. Book by Thursday.
 > 2. **A [Dishoom](/articles/best-breakfast-brunch-london/) bacon naan roll** with chai poured from a height. Breakfast barely queues; the evenings do.
 > 3. **Grazing a [covered market](/articles/best-london-markets/)** — Borough, Seven Dials or Old Spitalfields, where nobody has to agree on one cuisine.
-> 4. **[Afternoon tea](/articles/best-afternoon-tea-london/)** — finger sandwiches, warm scones and loose-leaf tea, from £30 to well over £100.
+> 4. **[Afternoon tea](/articles/best-afternoon-tea-london/)** — finger sandwiches, warm scones and loose-leaf tea, from under £30 to well over £100.
 > 5. **[Fish and chips](/articles/best-fish-and-chips-london/)** fried to order, or pie and mash from a shop that has been doing it a century.
 
 ---
@@ -111,7 +111,7 @@ Every one of these is ranked by how many independent awards, critics and reviewe
 
 **Africa**
 
-* [**West African**](/articles/best-west-african-restaurants-london/) — Nigerian, Ghanaian, Ivorian and Senegambian, from two Michelin stars and a Bib Gourmand down to the Peckham stalls.
+* [**West African**](/articles/best-west-african-restaurants-london/) — Nigerian, Ghanaian, Ivorian and Senegambian, from two Michelin-starred rooms and a Bib Gourmand down to the Peckham stalls.
 
 **The Americas, and by ingredient**
 
@@ -135,7 +135,7 @@ Markets and indoor food halls solve the group problem: one roof, a dozen kitchen
 
 📍 **[The Best Street Food in London](/articles/best-street-food-london/)** compares every multi-trader market, food hall and container yard in the city on traders, variety, seating and — most usefully — **which days each one actually exists**.
 
-📍 **[London's Best Markets: 19 Compared](/articles/best-london-markets/)** is the wider guide, arranged by what each one actually sells — and, more usefully, by **which day it exists**. Columbia Road is a Sunday. Broadway Market is a Saturday. Turning up on the wrong day is the standard way to waste a morning.
+📍 **[London's Best Markets](/articles/best-london-markets/)** is the wider guide, arranged by what each one actually sells — and, more usefully, by **which day it exists**. Columbia Road is a Sunday. Broadway Market is a Saturday. Turning up on the wrong day is the standard way to waste a morning.
 
 It covers:
 
@@ -153,7 +153,7 @@ Fast food in London without the global chains:
 * [**Cheap Eats in London**](/articles/cheap-eats-london/) — 34 places to eat well under £15, including Mumbai street food at *Shree Krishna Vada Pav*, South Indian dosas at *Saravanaa Bhavan* and the market stalls worth the detour.
 * [**The Best Sandwiches in London**](/articles/best-sandwiches-london/) — Salt beef, Japanese sandos and the toastie counters.
 * [**The Best Bakeries in London**](/articles/best-bakeries-london/) — 24 worth queuing for, and which ones sell out by eleven.
-* [**Breakfast and Brunch**](/articles/best-breakfast-brunch-london/) — From £4 caffs to the rooms that need booking a fortnight out.
+* [**Breakfast and Brunch**](/articles/best-breakfast-brunch-london/) — From caff fry-ups under £10 to the rooms that need booking weeks ahead.
 * [**The Best Coffee in London**](/articles/best-coffee-london/) — Roasters and counters, and where the coffee is genuinely the point.
 * [**Late-Night Eating**](/articles/late-night-eating-london/) — What is still cooking after midnight, by area.
 
@@ -212,7 +212,7 @@ The dishes and rooms that are particular to this city:
 
 * [**Classic British Food**](/articles/classic-british-food-london/) — What British food actually is, dish by dish, from the Scotch egg to the sticky toffee pudding.
 * [**Sunday Roast**](/articles/best-sunday-roast-london/) — Cross-referenced across every guide, award and critic of the year. Most need booking by Thursday.
-* [**Fish and Chips**](/articles/best-fish-and-chips-london/) — The shops that still fry to order, and the two that use beef dripping.
+* [**Fish and Chips**](/articles/best-fish-and-chips-london/) — The shops that still fry to order, and the one that still uses beef dripping.
 * [**Afternoon Tea**](/articles/best-afternoon-tea-london/) — 28 compared, with the dress codes and the real prices.
 * [**Historic Pubs and Dining Rooms**](/articles/historic-pubs-dining-rooms-london/) — London's oldest rooms, including *Rules*, *Wiltons* and the pubs that predate the Great Fire.
 * [**Gastropubs**](/articles/best-gastropubs-london/) — Thirty sources cross-referenced across 126 pubs, which rooms take bookings, and which ones shut on Mondays.

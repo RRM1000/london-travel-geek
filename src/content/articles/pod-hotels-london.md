@@ -35,7 +35,7 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 > 💡 **The Short Version:** **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is the one to book — 965 berths one minute from the Tube, a 24-hour front desk, and the lowest price of the five. **Zedwell Leicester Place** is the same product at a quieter address. **[St Christopher's Village](hotel:st-christophers-village)** is the only one with a bar and a social side. **Otherwander Soho** is nicer and roughly double the price. **The GreenHouse** in Bethnal Green is tiny and has almost no staff.
 
-> 🛏️ **Want the kitchen and the bar instead?** That is a [hostel](/articles/best-hostels-london/), and we compare fifteen of them on the things booking sites bury — which dorms are en-suite, which have real female-only rooms, and the age limits that will refuse you at the desk. Beds start around £11.
+> 🛏️ **Want the kitchen and the bar instead?** That is a [hostel](/articles/best-hostels-london/), and our guide compares them on the things booking sites bury — which dorms are en-suite, which have real female-only rooms, and the age limits that will refuse you at the desk. Beds start around £11.
 
 ## What a night in one is actually like
 
@@ -219,13 +219,13 @@ Most published lists of London capsule hotels are wrong, and it is worth knowing
 | **Sociable?** | Deliberately not | Yes | No |
 | **Children** | No, 18+ | Some | Yes |
 
-**Book a capsule if** you are alone, you want a Zone 1 address for hostel money, and you genuinely only need somewhere to sleep. **Book a hostel if** you want a kitchen, a bar, or to meet people — our [best hostels in London guide](/articles/best-hostels-london/) compares fifteen of them, including the one where every dorm is en-suite and the one with a women's floor that has its own bathrooms. **Book a windowless room if** there are two or more of you — the second guest adds about £5 a night, which is the best-value thing in this whole category.
+**Book a capsule if** you are alone, you want a Zone 1 address for hostel money, and you genuinely only need somewhere to sleep. **Book a hostel if** you want a kitchen, a bar, or to meet people — our [best hostels in London guide](/articles/best-hostels-london/) compares them, including the one where every dorm is en-suite and the one with a women's floor that has its own bathrooms. **Book a windowless room if** there are two or more of you — the second guest adds about £5 a night, which is the best-value thing in this whole category.
 
 If you are not staying the night at all — a long layover, a late flight — a [day room](/articles/day-rooms-london/) is cheaper than any of this and you can book one for the afternoon.
 
-Staying more than a few nights changes the question entirely — at that point an [aparthotel](/articles/aparthotels-london/) with a kitchen beats both, and we have compared twenty-six of them.
+Staying more than a few nights changes the question entirely — at that point an [aparthotel](/articles/aparthotels-london/) with a kitchen beats both, and our guide compares them by area and operator.
 
-If you want a private room with a window, [the best budget hotels in London](/articles/best-budget-hotels-london/) lists 22 whose typical night came to £150 or less.
+If you want a private room with a window, [the best budget hotels in London](/articles/best-budget-hotels-london/) lists the hotels whose typical night came to £150 or less.
 
 Zedwell confusingly calls the berth in its capsule hotels a "Capsule Cocoon" and the rooms in its five hotels "Cocoons" too, so the word does not tell them apart. **"Capsule" in the property name does.** Our [windowless hotel rooms guide](/articles/windowless-hotel-rooms-london/) covers the room side in full.
 

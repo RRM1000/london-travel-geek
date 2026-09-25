@@ -1,7 +1,7 @@
 ---
 title: "The Best Craft Beer Pubs in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Craft Beer Pubs in London 2026: Ranked"
-description: "There's no single London-wide CAMRA Pub of the Year — the branches judge separately. Thirty-four sources, 325 pubs, breweries and taprooms, and the eleven branch winners nobody puts on one list."
+description: "There's no single London-wide CAMRA Pub of the Year — the branches judge separately. Thirty-four sources, 325 pubs, breweries and taprooms, and the CAMRA branch winners nobody puts on one list."
 publishedAt: 2026-09-13
 sites: [london]
 canonicalSite: london
@@ -12,7 +12,7 @@ faq:
   - q: "What is the best craft beer pub in London?"
     a: "There's no single answer, because there's no single judge. The Cockpit in Chislehurst has won its CAMRA branch's Pub of the Year four years running and took the Greater London round too in 2026. The Hope in Carshalton has won the Greater London award five separate times. On the editorial side, Exale Brewing & Taproom tops Time Out's taproom list and Cask Pub & Kitchen — London's original craft beer pub, open since 2009 — tops Secret London's."
   - q: "Is there an award for craft beer pubs in London?"
-    a: "CAMRA's Pub of the Year is the only judged, dated award that reaches this subject, and it doesn't produce one London winner. The Campaign for Real Ale runs the competition branch by branch — eleven London branches published a current result for this pass — and there's no final round where one branch's pub meets another's. Two branches, Croydon & Sutton and Kingston & Leatherhead, ran theirs as parallel dual winners rather than a single pub, so eleven branches produced thirteen winning pubs between them."
+    a: "CAMRA's Pub of the Year is the only judged, dated award that reaches this subject, and it doesn't produce one London winner. The Campaign for Real Ale runs the competition branch by branch — eleven London branches have published a current result — and there's no final round where one branch's pub meets another's. Two branches, Croydon & Sutton and Kingston & Leatherhead, ran theirs as parallel dual winners rather than a single pub, so eleven branches produced thirteen winning pubs between them."
   - q: "What's the difference between cask ale and craft keg beer?"
     a: "Cask ale — what CAMRA means by \"real ale\" — finishes conditioning in the cask itself and is pulled to the glass through a handpump, or in a few of the pubs here, gravity-fed straight from the cask on the bar. Keg beer is chilled and carbonated before it reaches the pub, which is how the sours, pastry stouts and hazy IPAs on a modern taproom's board get their fizz. Most of the pubs in this guide pour some of each."
   - q: "Where are London's best brewery taprooms?"

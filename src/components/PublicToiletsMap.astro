@@ -24,6 +24,16 @@
 // question - "which one, right now" - without requiring the full map to
 // load at all. It reuses the same public-toilets.json fetch as the map,
 // just without Leaflet.
+import fs from "node:fs";
+
+// The count in the summary comes from the same file the client fetches, read
+// at build time, so it cannot drift from the data when the file is refreshed.
+let toiletCount = 0;
+try {
+  toiletCount = JSON.parse(fs.readFileSync("public/public-toilets.json", "utf8")).count ?? 0;
+} catch {
+  /* the summary drops the number; the client shows its own error state */
+}
 ---
 
 <section class="toilets-map" aria-labelledby="toilets-near-me-title">
@@ -47,7 +57,7 @@
   <details class="toilets-map-shell" open>
     <summary>
       Show on a map
-      <small>400 Zone 1 facilities · free, paid and unclear</small>
+      <small>{toiletCount > 0 ? `${toiletCount.toLocaleString("en-GB")} Zone 1 facilities` : "Zone 1 facilities"} · free, paid and unclear</small>
     </summary>
     <div class="toilets-map-canvas" data-toilets-map>
       <p>The map loads when you open this section.</p>

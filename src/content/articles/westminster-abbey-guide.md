@@ -220,7 +220,7 @@ Evensong is free to attend, and open to people of all faiths and none.
 
 ## Continue planning your London trip
 
-- 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — avoid the 90-minute Crown Jewels queue and see the Norman White Tower.
+- 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — tickets, the quieter afternoon, the Crown Jewels and the Norman White Tower.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — how to combine Westminster Abbey with Whitehall, Covent Garden, and South Bank.
 - 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — an honest mathematical analysis of when the pass pays for itself and when it loses money.
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — free museums, off-peak transport fares, and cheap dining across Zone 1.

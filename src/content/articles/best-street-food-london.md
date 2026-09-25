@@ -390,7 +390,7 @@ Street food turns over faster than any other part of London eating, and a lot of
 - 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)** — the market counters
 - 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)** — Bongbongs at Seven Dials and Spoon & Rice at both Boxparks
 - 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)** — the Rye Lane and Market Row stalls
-- 🛒 **[London's Best Markets: 19 Compared](/articles/best-london-markets/)** — including the flower, antiques and shopping markets
+- 🛒 **[London's Best Markets](/articles/best-london-markets/)** — including the flower, antiques and shopping markets
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — 34 places to eat well under £15
 - 🍔 **[The Best Burgers in London](/articles/best-burgers-london/)**
 - 🗺️ **[Eat in London: the full food handbook](/articles/eat-in-london-guide/)**

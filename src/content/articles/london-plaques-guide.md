@@ -27,14 +27,14 @@ faq:
     a: "Anyone can nominate someone for the official scheme. English Heritage require that at least 20 years have passed since the subject died, that a building associated with them survives in Greater London outside the City, that it survives in a form they would recognise, and that it is visible from a public highway. Only one plaque goes up per person, and no more than two on any one building."
 ---
 
-There are around **3,630 commemorative plaques** across Greater London — small round markers noting that someone notable lived, worked or died in a particular building. Most people walk past them without knowing who put them there, why they come in different colours, or what a person has to do to get one.
+There are **thousands of commemorative plaques** across Greater London — small round markers noting that someone notable lived, worked or died in a particular building. Most people walk past them without knowing who put them there, why they come in different colours, or what a person has to do to get one.
 
 This guide covers how they work. For the ones worth making a trip for, see **[the plaques worth walking to](/articles/london-blue-plaques/)**.
 
-> 🗺️ **[Explore all 3,630 on our interactive map →](/plaques/).**
+> 🗺️ **[Explore every one on our interactive map →](/plaques/).**
 > Search any name, inscription or organisation. Filter by colour or subject. See exactly which plaques are near you, right now — free, and nothing else in London covers this many.
 
-> 💡 **The Short Version:** English Heritage runs the official scheme, but it is only one of many. Of London's 3,630 plaques, fewer than 1,000 are official ones. The rest come from the City of London Corporation, borough councils and dozens of independent trusts and societies — which is why the colours vary so much.
+> 💡 **The Short Version:** English Heritage runs the official scheme, but it is only one of many: about a quarter of London's plaques are official ones. The rest come from the City of London Corporation, borough councils and dozens of independent trusts and societies — which is why the colours vary so much.
 
 ## Where the scheme started
 
@@ -154,7 +154,7 @@ The organisation's name is normally on the plaque, so the reliable answer is sim
 
 Every plaque in this guide is on a public street and free to look at.
 
-> 🗺️ **[Find one near you on our interactive map →](/plaques/).** All 3,630, searchable by name, inscription or organisation, filterable by colour and subject.
+> 🗺️ **[Find one near you on our interactive map →](/plaques/).** All of them, searchable by name, inscription or organisation, filterable by colour and subject.
 
 Nearly all are on private homes, but four addresses are open to the public as museums: **Handel Hendrix House** in Mayfair, the **Charles Dickens Museum** in Bloomsbury, **Keats House** in Hampstead and the **Freud Museum**.
 

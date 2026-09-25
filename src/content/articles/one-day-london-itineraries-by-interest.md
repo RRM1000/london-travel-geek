@@ -1,7 +1,7 @@
 ---
 title: "Thirteen One-Day London Itineraries for Different Interests"
 seoTitle: "One Day in London: 13 Itineraries by Interest"
-description: "Thirteen one-day London plans — first-time sights, theatre, museums, families, food, royal London, a free day, a rainy day, views, books, markets, film locations and a night out — each grouped so you barely use the Tube."
+description: "Thirteen one-day London plans — first-time sights, theatre, museums, families, food, a step-free day, royal London, a free day, a rainy day, views, books, markets and film locations — each grouped so you barely use the Tube."
 publishedAt: 2026-07-28
 updatedAt: 2026-09-01
 sites: [london]
@@ -58,7 +58,7 @@ These thirteen plans do the second. **Each is grouped tightly enough that you ba
 
 *About 4 miles, almost entirely flat, and no Tube needed.*
 
-**[We have the Westminster half stop by stop →](/articles/westminster-walk/)** — eleven numbered stops from Westminster Bridge to Trafalgar Square, with a map, a Google Maps walking link and what is open on which day. Use that for the first half of this day; the rest of the page is the other five itineraries.
+**[We have the Westminster half stop by stop →](/articles/westminster-walk/)** — eleven numbered stops from Westminster Bridge to Trafalgar Square, with a map, a Google Maps walking link and what is open on which day. Use that for the first half of this day.
 
 **Morning.** **Westminster Abbey** on an early slot — book ahead, and note it is **closed to sightseers on Sundays**. Allow 90 minutes. Then **Parliament Square** and out onto **Westminster Bridge** for the view back at Big Ben. *Five minutes.*
 
@@ -70,7 +70,7 @@ Lunch ten minutes off the square rather than on it. See [cheap eats](/articles/c
 
 **Evening.** **Covent Garden** and dinner in [Soho](/articles/soho-area-guide/).
 
-> This is the densest walking day of the six. If you have to cut something, cut the National Gallery — it deserves better than a tired hour.
+> This is the densest walking day on this page. If you have to cut something, cut the National Gallery — it deserves better than a tired hour.
 
 ---
 
@@ -241,7 +241,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Late.** **Tate Modern's tenth floor**, then **Waterloo Bridge at dusk** — free, always open, and the best single view in London for nothing at all.
 
-> ⚠️ **The Shard is about £32 and none of the above are.** It is the highest and it has an open deck, but do not pay it thinking there is no alternative. [The full views guide](/articles/best-views-london/) compares them properly.
+> ⚠️ **The Shard costs around £26 to £32, depending on the day and time, and none of the above cost anything.** Horizon 22 is higher; what the Shard adds is an open-air deck, so do not pay it thinking there is no alternative. [The full views guide](/articles/best-views-london/) compares them properly.
 
 ---
 

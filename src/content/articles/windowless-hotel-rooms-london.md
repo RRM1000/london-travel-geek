@@ -244,7 +244,7 @@ It is also the branch where the window costs most. The first room here with dayl
 
 *A room at the Z Hotel Shoreditch — this one has a window, unlike the windowless "Inside" rate described above — and its ensuite bathroom.*
 
-Breakfast is bought in the Z Cafe rather than included. Joining Z Member before you book is free and adds evening cheese and wine plus 10% off food and drink, but not off breakfast; only the dearer Z Club room grade has breakfast in the rate. The address is the Shoreditch edge of the City rather than the nightlife core. Our [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares it against eight others in the area.
+Breakfast is bought in the Z Cafe rather than included. Joining Z Member before you book is free and adds evening cheese and wine plus 10% off food and drink, but not off breakfast; only the dearer Z Club room grade has breakfast in the rate. The address is the Shoreditch edge of the City rather than the nightlife core. Our [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares it with the other hotels in the area.
 
 ### The Z Hotel Victoria — £50, and £30 for daylight
 
@@ -308,7 +308,7 @@ A hundred and thirteen compact rooms in a courtyard behind St Paul's Church — 
 
 A **Z Inside Single is 8 sq m at £70**, an **Inside Double 9 sq m at £80**, an **Inside Queen 11 sq m at £90**. The first room here with a window is the **Z Double at £100** — the same 9 sq m as the Inside Double, for £20 more. A Z Family sleeping four is £155.
 
-Z publishes every grade with its floor area, and reading that list carefully is the entire job at this branch. Café Inigo downstairs does the buffet breakfast, which is charged separately; the free Z Member scheme adds evening cheese and wine and 10% off food and drink, though not off breakfast. Our [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) sets it against five others in the area.
+Z publishes every grade with its floor area, and reading that list carefully is the entire job at this branch. Café Inigo downstairs does the buffet breakfast, which is charged separately; the free Z Member scheme adds evening cheese and wine and 10% off food and drink, though not off breakfast. Our [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) sets it against the other hotels in the area.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -453,6 +453,6 @@ Zedwell also runs two **capsule** properties, and confusingly calls the sleeping
 
 Every room in this guide, by contrast, has its own lockable door and its own en-suite shower. That is the line, and it holds for all six operators — a Z Inside Single and a hub Interior are small rooms, not berths. Our [London capsule hotels guide](/articles/pod-hotels-london/) covers the five real capsule properties in full, including what a night in one is actually like.
 
-And if the reason you are considering a windowless room is a longer stay at a lower price, compare it with an [aparthotel](/articles/aparthotels-london/) first: a kitchen changes the arithmetic more than a missing window does. And if you would rather keep the window, [the best budget hotels in London](/articles/best-budget-hotels-london/) lists 22 rooms at £150 a night or less.
+And if the reason you are considering a windowless room is a longer stay at a lower price, compare it with an [aparthotel](/articles/aparthotels-london/) first: a kitchen changes the arithmetic more than a missing window does. And if you would rather keep the window, [the best budget hotels in London](/articles/best-budget-hotels-london/) lists hotels whose typical night came to £150 or less.
 
 *Zedwell rates sampled on Hotels.com for one adult across five dates on 7 September 2026. Z Hotels grade names, floor areas and from-rates taken from each of the twelve London hotel pages on thezhotels.com on 9 September 2026; hub wording from premierinn.com's hub brand page, hub room FAQ and individual hotel pages; Point A, easyHotel and The Corner from their own property pages, all on the same date. Published from-rates are lead-in prices and move nightly — always check your own dates.*

@@ -113,7 +113,7 @@ This is the base with the most ways back. The Met is **13 minutes** from Baker S
 
 **Waterloo and London Bridge** are on the Jubilee, but the quick way is to change to the Met at Finchley Road: about **49 minutes** door to door. It is one of the longest rides on this list, but on a Friday or Saturday the Jubilee Night Tube runs straight back, and the Novotel Waterloo's price did not rise on a match night (see below). Our [South Bank stay guide](/articles/where-to-stay-south-bank/) covers the area.
 
-For the cheapest rooms anywhere in central London, see our [budget hotels guide](/articles/best-budget-hotels-london/).
+For the cheapest hotel rooms across London, see our [budget hotels guide](/articles/best-budget-hotels-london/).
 
 ## Watford and Rickmansworth: further out, and no quicker
 

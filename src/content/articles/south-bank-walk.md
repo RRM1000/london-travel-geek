@@ -263,5 +263,5 @@ Walked east to west it works equally well and ends at Westminster, which is a be
 
 - **[The South Bank area guide](/articles/south-bank-area-guide/)** — the theatres, Lower Marsh, where to stay and what to book.
 - **[The City of London walk](/articles/city-of-london-walk/)** — starts where this one finishes, on the other side of Tower Bridge.
-- **[Walks along the Thames](/articles/london-walks-along-the-thames/)** — six more river stretches, including the quiet ones east of here.
+- **[Walks along the Thames](/articles/london-walks-along-the-thames/)** — more river stretches, including the quiet ones east of here.
 - **[Free things to do in London](/free/)** — nine of these eleven stops cost nothing.
