@@ -15,6 +15,8 @@ heroImageAlt: "Traders and shoppers under the green ironwork and festoon lights 
 
 You can eat extremely well in London for six pounds and extremely badly for sixty, and the difference is rarely the price. It is knowing which of the city's parallel food scenes you have walked into — the Sunday roast one, the Bombay café one, the covered food hall one, the £6 dosa one.
 
+> 💡 **The Short Version:** For one cuisine or dish, go to its ranked guide, such as [Indian](/articles/best-indian-restaurants-london/), [pizza](/articles/best-pizza-london/) or [Sunday roast](/articles/best-sunday-roast-london/). For a group that can't agree on one, [London's Best Markets](/articles/best-london-markets/) and [The Best Street Food in London](/articles/best-street-food-london/) say which days each market and food hall exists. For under £15 a head, use [Cheap Eats](/articles/cheap-eats-london/); for a celebration, [Special Occasion Restaurants](/articles/special-occasion-restaurants-london/). For British dishes, start with [Classic British Food](/articles/classic-british-food-london/). Almost all sit-down restaurants add a 12.5% service charge to the bill, so you don't need to tip on top.
+
 What follows is sorted by what you decide first: **what you fancy, where you are, what you want to spend, and how long you have got**.
 
 > 💡 **Five London meals to build a trip around.**

@@ -28,6 +28,8 @@ faq:
 
 This page is not our opinion. Every venue is ranked by how many independent lists, blogs and video reviews name it.
 
+> 💡 **The Short Version:** **[Italian Bear Chocolate](#italian-bear-chocolate)** on Broadwick Street is named by more sources than anywhere else: a triple-layered cup closer to warm ganache than a drink, from £4.90. **[Dark Sugars](#dark-sugars-cocoa-house)** on Brick Lane grates chocolate over the cup until the first inch is solid shavings. **[Chin Chin Dessert Club](#chin-chin-dessert-club)** in Soho blowtorches a fist-sized marshmallow on top for £4.95. **[Knoops](#knoops)** lets you order by cocoa percentage, nine of them from 28% to 100%, from £4. None take bookings, and Italian Bear, Dark Sugars and Chin Chin queue at weekends, so go on a weekday afternoon.
+
 > 📊 **The evidence behind this guide.**
 > Nothing here rests on one visit. This pass reads **12 sources carrying 67 citations** across **39 named venues** — the editorial mastheads (Time Out, The Infatuation), the independent blogs (Mostly Food and Travel, Clumsy Girl Travels, DesignMyNight) and the year's London hot chocolate videos. **Eight venues are named by two or more independent sources.**
 > *Evidence rebuilt 7 September 2026 · [How we rank →](/how-we-rank/)*
