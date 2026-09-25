@@ -3586,7 +3586,7 @@ const rows = [
     venueFormat: "Restaurant", chainType: "independent",
     hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
     priceBand: "££££",
-    whyGo: "Afternoon tea inside an art installation - the pink Gallery room and the egg-shaped lavatories are as photographed as the food.",
+    whyGo: "Afternoon tea inside an art installation - the Gallery, rebuilt in yellow and copper by Yinka Shonibare and India Mahdavi, and the egg-shaped lavatories are as photographed as the food.",
     angle: "room",
     bookingLead: "weeks",
     noise: "moderate",

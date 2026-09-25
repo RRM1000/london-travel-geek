@@ -280,9 +280,9 @@ Expensive, always busy, and entirely about whether your child wants a photograph
 
 ## The one pass that is genuinely aimed at families
 
-**Merlin's Magical London** covers **Madame Tussauds, SEA LIFE London, the London Dungeon, Shrek's Adventure and the London Eye** on one ticket, in any order, **valid 90 days from first activation** — so it does not force a route or a deadline on a trip with children in it.
+Merlin's **5-Attraction Pass** covers **Madame Tussauds, SEA LIFE London, the London Dungeon, Shrek's Adventure and the London Eye** on one ticket. You book the Eye first, then have **7 days for the other four**, with free rescheduling.
 
-**From £69, against £132 for all five booked separately.** The number worth knowing is the break-even: two of them are cheaper bought direct, and it starts paying from the third.
+**From £59, against £132 for all five booked separately.** The number worth knowing is the break-even: two of them are cheaper bought direct, and it starts paying from the third.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="193412" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

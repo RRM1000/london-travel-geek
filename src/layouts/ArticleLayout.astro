@@ -32,7 +32,7 @@ import PublicToiletsMap from "../components/PublicToiletsMap.astro";
 import CombineWith from "../components/CombineWith.astro";
 import ArticleFaq from "../components/ArticleFaq.astro";
 import { activeSite } from "../sites";
-import { categoryHref, formatTag, tagHref } from "../lib/taxonomy";
+import { categoryHref, countTags, formatTag, MIN_TAG_GUIDES, tagHref, tagToSlug } from "../lib/taxonomy";
 
 interface Heading {
   depth: number;
@@ -191,6 +191,13 @@ const siteArticles = (await getCollection("articles")).filter(
     !article.data.draft && article.data.sites.includes(activeSite.id),
 );
 const publishedIds = new Set(siteArticles.map((article) => article.id));
+// Only tags with a page of their own are shown; see MIN_TAG_GUIDES.
+const tagCounts = countTags(siteArticles);
+const shownTags = tags.filter(
+  (tag, i) =>
+    (tagCounts.get(tagToSlug(tag)) ?? 0) >= MIN_TAG_GUIDES &&
+    tags.findIndex((t) => tagToSlug(t) === tagToSlug(tag)) === i,
+);
 const relatedArticles = siteArticles
   .filter((article) => article.id !== articleId)
   .map((article) => ({
@@ -294,9 +301,9 @@ const breadcrumbs = [
             </>
           )}
         </div>
-        {tags.length > 0 && (
+        {shownTags.length > 0 && (
           <ul class="article__tags" aria-label="Article tags">
-            {tags.map((tag) => <li><a href={tagHref(tag)}>{formatTag(tag)}</a></li>)}
+            {shownTags.map((tag) => <li><a href={tagHref(tag)}>{formatTag(tag)}</a></li>)}
           </ul>
         )}
       </div>

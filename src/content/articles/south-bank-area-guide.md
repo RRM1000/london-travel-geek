@@ -116,7 +116,7 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 The Edwardian block beside the Eye holds **SEA LIFE London, the London Dungeon and Shrek's Adventure**, all Merlin-run and all indoors — which makes this the obvious wet-weather corner of the South Bank.
 
-Buying them one at a time is the expensive way. **Merlin's Magical London** covers all three plus the **[London Eye](/articles/london-eye-guide/)** and **Madame Tussauds** in Marylebone, **from £69 against £132 separately**, valid 90 days. Two attractions are cheaper booked direct; from the third it pays. See our dedicated [London Eye guide](/articles/london-eye-guide/) for 2026 pricing, Fast Track advice, and sunset booking tactics.
+Buying them one at a time is the expensive way. Merlin's **5-Attraction Pass** covers all three plus the **[London Eye](/articles/london-eye-guide/)** and **Madame Tussauds** in Marylebone, **from £59 against £132 booked separately**, valid 7 days from your Eye visit. Two attractions are cheaper booked direct; from the third it pays. See our dedicated [London Eye guide](/articles/london-eye-guide/) for 2026 pricing, Fast Track advice, and sunset booking tactics.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="193412" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

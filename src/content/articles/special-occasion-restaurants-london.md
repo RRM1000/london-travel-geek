@@ -210,11 +210,11 @@ Michelin-starred simplicity on the Thames, and the kitchen where both Jamie Oliv
 
 ### Sketch, Mayfair
 
-*££££ · the pink room*
+*££££ · the Gallery and the egg pods*
 
 Afternoon tea inside an art installation, and **four separate rooms behind one door** — which is the thing to understand before booking, because they are different restaurants at different prices.
 
-**The Gallery** is the pink one everybody photographs, hung with David Shrigley drawings, doing afternoon tea and a modern European menu. **The Lecture Room & Library** upstairs is the **three-Michelin-star** restaurant and a different proposition entirely. The **Glade** is the woodland-themed room, and the **Parlour** is the casual one.
+**The Gallery** is the one everybody photographs, rebuilt in 2022 in yellow and copper by Yinka Shonibare and India Mahdavi, doing afternoon tea and a modern European menu. **The Lecture Room & Library** upstairs is the **three-Michelin-star** restaurant and a different proposition entirely. The **Glade** is the woodland-themed room, and the **Parlour** is the casual one.
 
 **The egg-shaped lavatory pods** are free to visit — you do not need a booking to go and look.
 

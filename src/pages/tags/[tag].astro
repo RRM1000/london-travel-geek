@@ -5,31 +5,34 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import SectionHeading from "../../components/SectionHeading.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { activeSite } from "../../sites";
-import { formatTag, tagToSlug } from "../../lib/taxonomy";
+import { countTags, formatTag, MIN_TAG_GUIDES, tagToSlug } from "../../lib/taxonomy";
 
 export async function getStaticPaths() {
-  const articles = await getCollection("articles");
-  const tags = Array.from(
-    new Set(
-      articles
-        .filter((article) => !article.data.draft && article.data.sites.includes(activeSite.id))
-        .flatMap((article) => article.data.tags),
-    ),
+  const articles = (await getCollection("articles")).filter(
+    (article) => !article.data.draft && article.data.sites.includes(activeSite.id),
   );
+  const counts = countTags(articles);
+  // One page per slug, labelled with the first spelling met.
+  const bySlug = new Map<string, string>();
+  for (const tag of articles.flatMap((article) => article.data.tags)) {
+    const slug = tagToSlug(tag);
+    if (!bySlug.has(slug) && (counts.get(slug) ?? 0) >= MIN_TAG_GUIDES) bySlug.set(slug, tag);
+  }
 
-  return tags.map((tag) => ({
-    params: { tag: tagToSlug(tag) },
+  return [...bySlug].map(([slug, tag]) => ({
+    params: { tag: slug },
     props: { tag },
   }));
 }
 
 const { tag } = Astro.props;
+const slug = tagToSlug(tag);
 const articles = (await getCollection("articles"))
   .filter(
     (article) =>
       !article.data.draft &&
       article.data.sites.includes(activeSite.id) &&
-      article.data.tags.includes(tag),
+      article.data.tags.some((t) => tagToSlug(t) === slug),
   )
   .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
 const tagLabel = formatTag(tag);
