@@ -1,10 +1,10 @@
 ---
 title: "New Year's Eve in London: Fireworks Tickets, the Parade and Getting Home"
 seoTitle: "New Year's Eve London 2026: Fireworks and Tickets"
-description: "The Thames fireworks are ticketed, paid and sell out — and nothing for 31 December 2026 is on sale yet. What is confirmed, what the free viewpoints really are, and how to get home."
+description: "The Thames fireworks are ticketed, paid and sell out — and tickets for 31 December 2026 are not on sale yet. What is confirmed, what the free viewpoints really are, and how to get home."
 publishedAt: 2026-09-10
-updatedAt: 2026-09-13
-reviewBy: 2027-01-01
+updatedAt: 2026-09-25
+reviewBy: 2026-10-15
 sites:
   - london
 canonicalSite: london
@@ -20,7 +20,7 @@ heroImage: "../../assets/articles/new-years-eve-london/thames-fireworks.jpg"
 heroImageAlt: "Fireworks bursting in red and blue over the Thames at night, with the London Eye, the Golden Jubilee Bridges and the Elizabeth Tower lit below"
 faq:
   - q: "Do you need a ticket for the London New Year's Eve fireworks?"
-    a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames, and City Hall's own wording is blunt: you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. City Hall has confirmed the display returns on 31 December 2026 and says a date for the ticket release will be announced soon; nothing is on sale yet — checked 13 September 2026."
+    a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames, and City Hall's own wording is blunt: you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. City Hall has confirmed the display returns on 31 December 2026 and says a date for the ticket release will be announced soon; nothing was on sale as of 25 September 2026."
   - q: "How much are London New Year's Eve fireworks tickets?"
     a: "The 2026/27 price has not been published. Last year, for 31 December 2025, a Category A ticket (Blue, Pink and White areas) was £55, or £35 for anyone with a London billing postcode, and Category B (Red, Green and Orange) was £40, or £20 for Londoners, plus a £2.66 booking fee. Prices have risen most years since the event returned at £15 in 2022."
   - q: "Can you watch the London fireworks for free?"
@@ -33,17 +33,17 @@ faq:
     a: "1pm to 4.30pm on Friday 1 January 2027, with all grandstands opening at 12 noon. The route runs from just off Piccadilly near Green Park station, along Regent Street St James's, Pall Mall, past Trafalgar Square and down Whitehall to finish at Parliament Square."
 ---
 
-**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and as of 13 September 2026, not a single ticket for 31 December 2026 has gone on sale.** City Hall has now published [its page for the 2026 display](https://www.london.gov.uk/events/london-new-years-eve-2026), which confirms the fireworks return on Thursday 31 December, running 8pm to 12.30am, and says only that a date for the ticket release "will be announced soon".
+**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and as of 25 September 2026, not a single ticket for 31 December 2026 has gone on sale.** City Hall has now published [its page for the 2026 display](https://www.london.gov.uk/events/london-new-years-eve-2026), which confirms the fireworks return on Thursday 31 December, running 8pm to 12.30am, and says only that a date for the ticket release "will be announced soon".
 
-That matters, because the internet is already full of New Year's Eve guides quoting prices, on-sale dates and free viewpoints that belong to previous years. This guide separates what is genuinely confirmed for **Thursday 31 December 2026** and **Friday 1 January 2027** from what nobody knows yet.
+Many New Year's Eve guides still quote prices, on-sale dates and free viewpoints from previous years. This one separates what is confirmed for **Thursday 31 December 2026** and **Friday 1 January 2027** from what has not been announced.
 
-> 💡 **The Short Version:** The fireworks are **not free and not open access** — six fenced viewing areas, tickets only, through Ticketmaster. **Nothing is on sale yet**; in 2022 the first release came at noon on Friday 21 October, so late October is the window to watch. Last year's prices were **£40 to £55**, with a **£20 discount** for London postcodes. There are **no free viewpoints in any Royal Park** — Primrose Hill is locked overnight. **Travel is not free**; that ended after 2019. The **London Parade on 1 January is confirmed, free to watch standing, 1pm to 4.30pm**.
+> 💡 **The Short Version:** The fireworks are **not free and not open access** — six fenced viewing areas, tickets only, through Ticketmaster. **Tickets are not on sale yet**; in 2022 the first release came at noon on Friday 21 October, so late October is the window to watch. Last year's prices were **£40 to £55**, with a **£20 discount** for London postcodes. There are **no free viewpoints in any Royal Park** — Primrose Hill is locked overnight. **Travel is not free**; that ended after 2019. The **London Parade on 1 January is confirmed, free to watch standing, 1pm to 4.30pm**.
 
 ---
 
 ## What is actually confirmed
 
-| What | Where it stands on 13 September 2026 |
+| What | Where it stands on 25 September 2026 |
 | --- | --- |
 | Mayor's Thames fireworks, 31 Dec 2026 | Confirmed by City Hall, 8pm to 12.30am. Ticket release date "will be announced soon" |
 | Fireworks tickets | Not on sale |
@@ -51,8 +51,8 @@ That matters, because the internet is already full of New Year's Eve guides quot
 | TfL Christmas and New Year travel | Not published |
 | Royal Parks closure notice | Not issued. Last year's went out on 23 September and 10 December 2025 |
 | Thames boat parties | On sale now, from £240 per person for 31 December 2026 |
-| Club, hotel and restaurant nights | None listed yet. Line-ups land from late October |
-| Hyde Park Winter Wonderland | Confirmed. 19 November 2026 to 3 January 2027, entry from £1 |
+| Hotel dinners | Some on sale, such as The Ritz's gala dinner at £1,500 a head. Club line-ups land from late October |
+| Hyde Park Winter Wonderland | Confirmed. 19 November 2026 to 3 January 2027, open on 31 December until 10pm |
 
 ---
 
@@ -121,7 +121,7 @@ This is where nearly every guide online is now wrong, because the viewpoints peo
 | Richmond Park | Vehicle gates closed at about 16:00 |
 | Hyde Park | Closed at midnight — the exact moment the display starts |
 
-**Primrose Hill is the big one to strike off your list.** An estimated 30,000 people climbed it for the 2024/25 display, the Met's dedicated Royal Parks Operational Command Unit closed in November 2025, and the Royal Parks concluded that locking the hill overnight was the only responsible option. Any article telling you to take a flask up Primrose Hill at 11pm is at least two years out of date.
+**Primrose Hill is the big one to strike off your list.** An estimated 30,000 people climbed it for the 2024/25 display, the Met's dedicated Royal Parks Operational Command Unit closed in November 2025, and the Royal Parks concluded that locking the hill overnight was the only responsible option. Any article telling you to take a flask up Primrose Hill at 11pm is out of date.
 
 The geometry is against you anyway: the display is fired low over the river between Westminster and Waterloo bridges, and much of the effect is reflection and choreography with the Eye. From four miles away on a hilltop you get distant flashes above the rooftops, not the show.
 
@@ -135,9 +135,9 @@ For a view of London rather than of the fireworks, our guide to the [best views 
 
 ## Everything else happening that night
 
-**The boats are selling and nothing else is.** None of the big rooms have a New Year's Eve night up yet — not Ministry of Sound, fabric, Troxy or Drumsheds — and nor do the rooftops and hotels, Sky Garden, The Londoner, Aqua Shard, Duck & Waffle and The Ritz among them. Line-ups and hotel dinner menus land from late October onwards, so anything quoting a 2026 price for those venues today is recycling last year's figure.
+**The boats and the grand hotels are already selling.** The Ritz's black-tie gala dinner in the Ritz Restaurant on Thursday 31 December 2026 is [£1,500 per adult and £750 per child](https://www.theritzlondon.com/new-years-eve-ritz-restaurant/), or £975 per adult in its William Kent House. [The Londoner](https://www.thelondoner.com/festive-season/new-years-eve) on Leicester Square has dinner sittings at Whitcomb's and on its eighth-floor rooftop, where a table for the countdown carries a £450 minimum spend per guest. Club line-ups at the likes of Ministry of Sound, fabric, Troxy and Drumsheds land from late October.
 
-Boat parties are the exception, because they sell a year out. These were live and dated to 31 December 2026:
+Boat parties sell a year out. These are on sale for 31 December 2026:
 
 | Operator and vessel | Price per person | Boarding | Age |
 | --- | --- | --- | --- |
@@ -149,7 +149,7 @@ Boat parties are the exception, because they sell a year out. These were live an
 
 London Party Boats tickets include a welcome Prosecco, unlimited beer, wine, Prosecco by the glass and soft drinks, and a buffet; standard tickets are standing and the outdoor decks are unheated. Thames Rockets is the short, expensive, memorable option — 90 minutes on a 12-seat open boat, out for midnight and back by half past, or £4,499 for a private charter.
 
-**If you do not want to spend £150 on a party**, the cheap options are the ones that have always worked. Watch the display on BBC One, which gives you a better view than most ticket holders get. Book an early dinner somewhere not doing a set menu — our [late-night eating guide](/articles/late-night-eating-london/) helps. Or find a pub that has simply extended its licence rather than one selling a £90 package. [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) is open on 31 December with entry from £1.
+**If you do not want to spend £240 on a boat**, the cheap options are the ones that have always worked. Watch the display on BBC One, which gives you a better view than most ticket holders get. Book an early dinner somewhere not doing a set menu — our [late-night eating guide](/articles/late-night-eating-london/) helps. Or find a pub that has simply extended its licence rather than one selling a package. [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) is open on 31 December from 11am to 10pm; the £1 entry slots run Monday to Thursday in November only.
 
 For the run-up rather than the night itself — markets, lights, ice rinks and carols — see our guide to [Christmas in London](/articles/christmas-in-london/).
 
@@ -225,7 +225,7 @@ Two of the big free museums are open on 1 January: the **British Museum** and th
 
 A New Year's Day walk along the river is the classic, and the South Bank is unusually quiet before the parade crowds build — our [Thames walks guide](/articles/london-walks-along-the-thames/) has routes. The January sales are running by then, though the serious discounting starts on Boxing Day; see [shopping in London](/articles/shopping-in-london/). [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) runs until 3 January.
 
-Or accept that the cheapest good New Year's Eve in London is a booked table at 7pm, a proper walk home and a lie-in. Our [cocktail bars](/articles/best-cocktail-bars-london/) and [budget London](/articles/london-on-a-budget/) guides will get you further than a £150 wristband.
+Or accept that the cheapest good New Year's Eve in London is a booked table at 7pm, a proper walk home and a lie-in. Our [cocktail bars](/articles/best-cocktail-bars-london/) and [budget London](/articles/london-on-a-budget/) guides will get you further than a boat ticket.
 
 ---
 
@@ -240,4 +240,4 @@ Or accept that the cheapest good New Year's Eve in London is a booked table at 7
 
 ---
 
-*Checked against the organisers' own websites on 7 September 2026; City Hall's fireworks page re-checked on 13 September 2026. Anything labelled "2025" is last year's, given as a guide only — check the official page before you buy.*
+*Checked against the organisers' own websites on 25 September 2026. Anything labelled "2025" is last year's, given as a guide only — check the official page before you buy.*

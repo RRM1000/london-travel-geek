@@ -26,6 +26,8 @@ faq:
 
 London has plenty of restaurants with a nice view and a good designer. This is not a guide to those. Everything here is somewhere the **premises are genuinely strange** — a tent, a boat, a lavatory, a bank vault, a courthouse nobody repaired.
 
+> 💡 **The Short Version:** **The Yurt Café** is a working café inside a Mongolian yurt. **Feng Shang Princess** is a floating pagoda on the canal. **The Attendant** is a Victorian public lavatory with the urinals as the counter. **Rochelle Canteen** has no sign and a buzzer. **Redemption Roasters** trains its baristas inside prisons. And **The Crosse Keys** is a Wetherspoons in a 1913 banking hall.
+
 The test we applied: a rooftop with a good view is not unusual in London, because London has hundreds. A restaurant in a yurt is.
 
 ## Two kinds of unusual, and they are not the same evening
@@ -35,8 +37,6 @@ The test we applied: a rooftop with a good view is not unusual in London, becaus
 **Genuinely good restaurants that happen to be in a strange room.** Rochelle Canteen, Sessions Arts Club, Coal Office, Campania & Jones, Hunan, The Cheese Barge, Barge East, Planque, Kinz and Ye Olde Cheshire Cheese. Every one of these would be worth a table in an ordinary room. The room is a bonus.
 
 **In between**, and honestly so: The Yurt Café, The Attendant, Redemption Roasters, The Captain Kidd, Bob Bob Ricard, SUSHISAMBA and Duck & Waffle. Good food, but you are still paying something for the story.
-
-> 💡 **The Short Version:** **The Yurt Café** is a working café inside a Mongolian yurt. **Feng Shang Princess** is a floating pagoda on the canal. **The Attendant** is a Victorian public lavatory with the urinals as the counter. **Rochelle Canteen** has no sign and a buzzer. **Redemption Roasters** trains its baristas inside prisons. And **The Crosse Keys** is a Wetherspoons in a 1913 banking hall.
 
 *No paid placements. A place is here because the building or the proposition is strange, not because the design is good — Aqua Shard, the OXO Tower and the rooftops are left off. A view is a view.*
 

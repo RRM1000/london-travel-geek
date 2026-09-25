@@ -204,7 +204,7 @@ Food after midnight is better here than anywhere else in London. **Beigel Bake o
 
 *The carved wood and oil paintings that give Batty Langley's its Georgian character.*
 
-**It has no lift and no air conditioning** — a genuine problem in July or with a heavy case, and the price of a real Georgian building. **[Leman Locke](hotel:leman-locke)** is the studio-with-a-kitchen option, five minutes from Aldgate East, and the one that started the aparthotel format in London.
+**It has no lift and no air conditioning** — a genuine problem in July or with a heavy case, and the price of a real Georgian building. **[Leman Locke](hotel:leman-locke)** is the studio-with-a-kitchen option, a minute from Aldgate East, and the one that started the aparthotel format in London.
 
 ![A Leman Locke studio with a pink sofa in the foreground and the bed, with its grey headboard and diamond-patterned throw, visible beyond](../../assets/articles/best-areas-to-stay-in-london/leman-locke.jpg)
 

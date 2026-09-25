@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Autumn_Colours_in_Hyde
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-10
-reviewBy: 2026-11-01
+reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -21,7 +21,7 @@ faq:
   - q: "Can you still get tickets for the Bayeux Tapestry in October 2026?"
     a: "Not for an October visit. Every ticket for 10 September to 31 December 2026, including the members' priority allocation, has sold out. What you can do this month instead: the free Bayeux Tapestry Opening Festival runs 9 to 11 October at the British Museum, though neither event includes entry to the Tapestry itself. For your own visit, members' priority booking for 1 January to 31 March 2027 reopens 6 October, and general booking for the same window opens 21 October."
   - q: "What is Frieze Week, and is it worth going if you're not buying art?"
-    a: "Frieze Week is the run of days in the middle of October — Frieze London and Frieze Masters open 14 to 18 October in 2026 — when the two fairs in Regent's Park are joined by three satellite fairs: PAD on Berkeley Square, 1-54 at Somerset House and the Affordable Art Fair in Battersea Park. All are ticketed, and Frieze weekend tickets alone run from about £38. The free version is Frieze Sculpture: around a dozen large-scale works in the same park's English Gardens, no ticket needed, open from 16 September to 1 November, well before and after the fairs, at your own pace, for nothing."
+    a: "Frieze Week is the run of days in the middle of October — Frieze London and Frieze Masters open 14 to 18 October in 2026 — when the two fairs in Regent's Park are joined by three satellite fairs: PAD on Berkeley Square, 1-54 at Somerset House and the Affordable Art Fair in Battersea Park. All are ticketed, and Frieze weekend tickets alone run from about £38. The free version is Frieze Sculpture: large-scale works by 11 international artists in the same park's English Gardens, no ticket needed, open from 16 September to 1 November, well before and after the fairs, at your own pace, for nothing."
   - q: "When do the clocks go back in October 2026, and how much daylight do you lose?"
     a: "2am on Sunday 25 October, when British Summer Time ends and the country returns to GMT. The change is overnight: sunset is about 5.50pm on the Saturday before and about 4.48pm on the Sunday after, so an hour of evening disappears between one day and the next. By the 31st, sunset is nearer 4.37pm. Anything you want to do outdoors in the last week of October needs to happen before mid-afternoon."
   - q: "When is October half term in London 2026, and what does it change?"
@@ -36,6 +36,8 @@ faq:
 
 October is the month London's cultural year peaks, and then, in its last week, the month the city quietly turns the lights off. For the first three weeks that is a good trade: the summer crowds have gone, the autumn exhibitions and festivals are landing one after another, and the weather — cooler and wetter than September, but not yet given up on — still allows an evening outdoors.
 
+> 💡 **The Short Version:** **Frieze Week, 14 to 18 October**, puts five art fairs on the same days, and the free **Frieze Sculpture** in Regent's Park runs to 1 November. The **BFI London Film Festival** runs 7 to 18 October, with held-back tickets released at **10am on 1 October**. The **NFL** plays three Sundays in a row from 4 October. The **clocks go back on 25 October**, half term starts the next day, and **Halloween falls on a Saturday**. **Bayeux Tapestry** tickets are sold out to 31 December, but the free opening festival on 9 to 11 October is open to all, without entry to the Tapestry itself.
+
 **Five ticketed art fairs run in the same city on the same days, in the middle of the month, and it is the densest cultural weekend of the year.** Frieze London and Frieze Masters take opposite ends of Regent's Park; PAD occupies Berkeley Square; 1-54 fills Somerset House; the Affordable Art Fair sets up in Battersea Park — and all of it lands inside the BFI London Film Festival's closing weekend. In 2026 that means Thursday 15 to Sunday 18 October carries all five fairs plus the festival's last four days at once. Hotel rates know it. The counterweight is Frieze Sculpture — the free outdoor half of Frieze — which sits in the same park from mid-September to the start of November, no ticket required.
 
 **Then the month has a hinge, and everything after it plays by different rules.** The clocks go back at 2am on the last Sunday of October — in 2026 that's the 25th — and an hour of evening disappears overnight: sunset drops from about 5.50pm on the Saturday to about 4.48pm on the Sunday. That same Sunday, MCM Comic Con finishes its run at ExCeL and Diwali on the Square fills Trafalgar Square. School half term starts the next morning. Halloween falls on a Saturday in 2026, and closes it all out. So the last eight days of the month are dark by teatime, full of children, and hosting the biggest free cultural event and the biggest convention of the month, all at once. If you can choose your dates, the first ten days of October are the easier trip.
@@ -46,7 +48,7 @@ October is the month London's cultural year peaks, and then, in its last week, t
 
 *British Museum, Room 30 · exhibition runs to 11 July 2027*
 
-[September's guide](/articles/things-to-do-in-london-in-september/) told you the Bayeux Tapestry had arrived in London for the first time in nearly a thousand years. The update, checked on the museum's own site this week: **if you are visiting in October, you cannot buy a ticket for your own trip.** Every ticket for 10 September to 31 December 2026, including the members' priority allocation, is sold out.
+[September's guide](/articles/things-to-do-in-london-in-september/) told you the Bayeux Tapestry had arrived in London for the first time in nearly a thousand years. The update: **if you are visiting in October, you cannot buy a ticket for your own trip.** Every ticket for 10 September to 31 December 2026, including the members' priority allocation, is sold out.
 
 What you can do instead is free. The **Bayeux Tapestry Opening Festival** runs across the second weekend of the month: **Bayeux Late: medieval making** on **Friday 9 October, 5.30pm to 8.30pm**, drop in any time, non-ticketed; and the **Big Bayeux Bash** on **Saturday 10 and Sunday 11 October**, a weekend of free family activities inspired by the medieval world, first-come first-served. Contributors to the Friday session include Matilda Ngute of The Textile Club, Olivia Swarthout of Weird Medieval Guys, and master embroidery artist Bella Lane.
 
@@ -70,7 +72,7 @@ Pricing is tiered steeply by day: **Thursday's first preview runs £130 to £150
 
 *The Regent's Park, English Gardens · free, no ticket, 16 September to 1 November 2026*
 
-**Frieze Sculpture is a free outdoor exhibition of large-scale work by the same organiser, in the same park, but it is not part of the ticketed fairs** — you can walk straight in. The 2026 edition is curated for a fourth year by Fatoş Üstek, in its fourteenth edition since the series began, with around a dozen international artists showing in the English Gardens.
+**Frieze Sculpture is a free outdoor exhibition of large-scale work by the same organiser, in the same park, but it is not part of the ticketed fairs** — you can walk straight in. The 2026 edition is curated for a fourth year by Fatoş Üstek, in its fourteenth edition since the series began, with 11 international artists showing in the English Gardens.
 
 It opened **16 September** and runs to **1 November**, bracketing the fairs on both sides. If you are not buying a Frieze ticket, this is the Frieze experience anyway — for nothing, at your own pace, for six and a half weeks.
 
@@ -90,7 +92,7 @@ The deliberate counterweight to Frieze, in the same week: contemporary work from
 
 *7 to 18 October 2026, the 70th edition*
 
-The UK's largest public film festival closes on the same Sunday Frieze Week ends. General booking runs from 10am on 17 September, so by October the obvious galas are largely gone — but a genuine second chance opens at **10am on 1 October**, when the festival releases a batch of held-back tickets. Standard tickets start at £10, or **£6 if you are 25 or under** through the free BFI 25 & Under scheme. Full dates, prices and the routes into a sold-out screening are in our [BFI London Film Festival guide](/articles/london-film-festival/).
+The UK's largest public film festival closes on the same Sunday Frieze Week ends. General booking opened at 10am on 17 September, and the Opening and Closing Night Galas are sold out, but a second chance opens at **10am on 1 October**, when the festival releases a batch of held-back tickets. Standard tickets start at £10, or **£6 if you are 25 or under** through the free BFI 25 & Under scheme. Full dates, prices and the routes into a sold-out screening are in our [BFI London Film Festival guide](/articles/london-film-festival/).
 
 ![BFI Southbank's glass-panelled building on the South Bank, with BFI SOUTHBANK signage and a Cinemas and Box Office entrance, cars parked on the street outside under an overcast sky](../../assets/articles/london-film-festival/bfi-southbank-box-office.jpg)
 
@@ -160,7 +162,7 @@ British Summer Time ends at 2am on the last Sunday of October, by statute — th
 
 ### Diwali on the Square — Trafalgar Square, the same Sunday
 
-The Mayor of London's Diwali celebration, free, with a mass opening dance sequence, a main stage of Hindu, Sikh and Jain music and dance, family workshops and vegetarian and vegan food stalls. **It is not dated to Diwali itself** — the festival moves with the lunar calendar and can fall outside October entirely, as it does in 2026 — but to a fixed October Sunday regardless. This year that Sunday is also the day the clocks go back, so the event runs **1pm to 7pm**, tracking the earlier sunset rather than the clock: expect it to end a couple of hours after dark, which is when the square is worth being in.
+The Mayor of London's Diwali celebration, free, with a mass opening dance sequence, a main stage of Hindu, Sikh and Jain music and dance, family workshops and vegetarian and vegan food stalls. **It is not dated to Diwali itself** — the festival moves with the lunar calendar and can fall outside October entirely, as it does in 2026 — but to a fixed October Sunday regardless. This year that Sunday is also the day the clocks go back: it runs **1pm to 7pm**, free with no ticket, and sunset is about 4.48pm, so the last two hours are after dark.
 
 ### MCM Comic Con London — ExCeL, 23 to 25 October
 
@@ -300,7 +302,7 @@ Where a restaurant has not named its opening day, treat the month as a guide rat
 
 A few things worth knowing about now, even though none of them happen in October.
 
-**Bonfire Night** is **5 November**. Every display, which of them need tickets, the free viewpoints and which famous ones no longer run are in our [Bonfire Night guide](/articles/bonfire-night-london/).
+**Bonfire Night** is Thursday **5 November**, but most of the big displays, Alexandra Palace and Battersea Park among them, are on **Saturday 7 November**, and both are on sale now. Every display, which of them need tickets, the free viewpoints and which famous ones no longer run are in our [Bonfire Night guide](/articles/bonfire-night-london/).
 
 **Hyde Park Winter Wonderland** runs **19 November 2026 to 3 January 2027**, and booking is already open: advance entry is **£1** for off-peak slots and **£8.25** at peak, with everything inside — rides, the ice rink, the circus — charged separately. Full prices, gates and what's new for 2026 are in our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/).
 

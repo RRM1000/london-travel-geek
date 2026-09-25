@@ -162,7 +162,7 @@ Two more worth pricing on your own dates: **[The Hoxton, Southwark](hotel:the-ho
 
 Twenty minutes' walk north of London Bridge, over the river, and a different transport picture: the Elizabeth line at Whitechapel and Liverpool Street puts Bond Street about twelve minutes away and Heathrow on one train, which is the one thing Bermondsey cannot do.
 
-**[Leman Locke](hotel:leman-locke)** is the sister property to Bermonds Locke and the original of the format in London — studios with proper kitchens on Leman Street, five minutes from Aldgate East, with a lobby that works as a desk by day and a bar at night. If you like the Bermonds Locke idea but want a Tube station at the end of the road rather than a fifteen-minute walk, this is the swap.
+**[Leman Locke](hotel:leman-locke)** is the sister property to Bermonds Locke and the original of the format in London — studios with proper kitchens on Leman Street, a minute from Aldgate East, with a lobby that works as a desk by day and a bar at night. If you like the Bermonds Locke idea but want a Tube station at the end of the road rather than a fifteen-minute walk, this is the swap.
 
 ![The living area of a studio at Leman Locke, with a pink sofa, a round marble dining table and floor-to-ceiling windows](../../assets/articles/where-to-stay-bermondsey/leman-locke-lounge.jpg)
 

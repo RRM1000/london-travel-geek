@@ -104,7 +104,7 @@ Studios for up to three and one-bedroom apartments for up to four, each with a f
 
 *Paddington Exchange, North Wharf Road, W2 1LF · Paddington and Edgware Road 5 min · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-paddington-paddington-basin.html)*
 
-A Premier Inn on the basin, five minutes from both Paddington and Edgware Road stations, with **family rooms**, a lift and air conditioning in every room. As at the station branch, up to two children eat breakfast free with a paying adult.
+A Premier Inn on the basin with **family rooms**, a lift and air conditioning in every room. As at the station branch, up to two children eat breakfast free with a paying adult.
 
 ## Hotels on Norfolk Square and Sussex Gardens
 

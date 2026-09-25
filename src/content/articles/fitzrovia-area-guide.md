@@ -67,7 +67,7 @@ faq:
   - q: "Is it better than Soho for eating?"
     a: "For a sit-down dinner, often yes. Soho has more bars and more energy; Fitzrovia has a higher hit rate per street and you can get a table. Charlotte Street and Goodge Street between them hold an unusual concentration of good restaurants across a lot of different cuisines."
   - q: "Can you go up the BT Tower?"
-    a: "No. The revolving restaurant closed to the public in 1980 and the tower has been closed to visitors ever since. It was sold in 2024 with plans to convert it into a hotel, so that may change — but at the time of writing you can only look at it."
+    a: "No. The revolving restaurant closed to the public in 1980 and the tower has been closed to visitors ever since. It was sold in 2024 with plans to convert it into a hotel, so that may change, but for now you can only look at it."
   - q: "Is Fitzrovia a good place to stay?"
     a: "Yes, and it is often better value than Soho or Covent Garden for the same walking distance. It is central, quiet at night on the residential streets, and every restaurant in this guide is within ten minutes. The trade-off is that there is little to actually see."
 heroImage: ../../assets/articles/fitzrovia-area-guide/george-fitzrovia-w1-2366919487.jpg

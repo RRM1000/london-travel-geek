@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Wembley_Park_station_(
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-24
-reviewBy: 2027-01-31
+reviewBy: 2026-10-19
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -143,7 +143,7 @@ Every Met train, fast or stopping, calls at Harrow-on-the-Hill: **7 minutes to W
 
 ## Finchley Road and Swiss Cottage: as quick, with the Night Tube
 
-Finchley Road is the Met's last stop before Wembley Park: **7 minutes, 29 minutes door to door**. Swiss Cottage, under ten minutes' walk away, is on the Jubilee. Between them you get both lines, and on a Friday or Saturday the Jubilee runs all night.
+Finchley Road is the Met's last stop before Wembley Park: **7 minutes, 29 minutes door to door**. It is on the Jubilee too, as is Swiss Cottage, under ten minutes' walk away, and on a Friday or Saturday the Jubilee runs all night.
 
 **Palmers Lodge Swiss Cottage** · [Hotels.com](hotel:palmers-lodge-swiss-cottage). A hostel in an 1882 Victorian mansion at 40 College Crescent, NW3 5LB, a short walk from Swiss Cottage and Finchley Road. Dorm beds from **£18** and private rooms from **£48**, sleeping one to four, with continental breakfast included, a self-service kitchen, laundry and car parking. More in our [hostels guide](/articles/best-hostels-london/).
 
@@ -205,7 +205,7 @@ This is the base with the most ways back. The Met is **13 minutes** from Baker S
 
 ## King's Cross, Waterloo and the rest of central London
 
-**King's Cross and Euston** are one Met train from Wembley Park, **18 minutes** from King's Cross St Pancras and about 41 minutes door to door. The catch is late at night: the last train through to King's Cross leaves Wembley Park at **23:32**, and after that the Met terminates at Baker Street. Our [King's Cross stay guide](/articles/where-to-stay-kings-cross/) has the hotels.
+**King's Cross and Euston** (Euston Square on the Met) are one Met train from Wembley Park, **18 minutes** from King's Cross St Pancras and about 41 minutes door to door. The catch is late at night: the last train through to King's Cross leaves Wembley Park at **23:32**, and after that the Met terminates at Baker Street. Our [King's Cross stay guide](/articles/where-to-stay-kings-cross/) has the hotels.
 
 **Waterloo and London Bridge** are on the Jubilee, but the quick way is to change to the Met at Finchley Road: about **49 minutes** door to door. It is one of the longest rides on this list, but on a Friday or Saturday the Jubilee Night Tube runs straight back, and the Novotel Waterloo's price did not rise on a match night (see below). Our [South Bank stay guide](/articles/where-to-stay-south-bank/) covers the area.
 
@@ -248,7 +248,7 @@ After a Sunday event, the last Jubilee south leaves Wembley Park at about **23:4
 
 ## Staying next to the venue
 
-A Wembley hotel is the right call when **there is no stadium event that night**: the night after, or the night before an early start. It suits families with young children, who can walk back to the room rather than queue. On an ordinary night it is cheap by London standards.
+A Wembley hotel is the right call when **there is no stadium event that night**: the night after, or the night before an early start. It suits families with young children, who can walk back to the room rather than queue.
 
 On a stadium event night it costs far more:
 
@@ -259,7 +259,7 @@ On a stadium event night it costs far more:
 
 *Accor member rates for one room, two adults, checked on 9 September 2026.*
 
-The cheapest room at the Novotel went from £131.40 to £426.60, and on the match night the only room left was a suite. Novotel Waterloo, one change from Wembley Park, barely moved. For England v Spain on Saturday 26 September the Novotel was **sold out 17 days before**. The Sunday night after was **£91**.
+On the match night the only room left at the Novotel was a suite, while Novotel Waterloo, one change from Wembley Park, barely moved. After England v Spain on Saturday 26 September, the Sunday night was **£91**.
 
 - **For a big stadium date, book a Wembley room months ahead or stay on the Met line.**
 - **Or stay the night after**, when the price falls back.

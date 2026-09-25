@@ -32,7 +32,7 @@ faq:
 
 Mayfair is where London keeps its grand hotels. **The Ritz, Claridge's, The Connaught, The Dorchester and Brown's** all sit in the grid of streets between Oxford Street, Regent Street, Piccadilly and Park Lane, and a double at the best known of them typically runs from **about £600 to £850** a night.
 
-So the useful questions are narrower: which grand hotel suits the trip, and is there anything in Mayfair that isn't £500 or more? There is an underground hotel on Park Lane from £90, and there are apartments with kitchens that make sense for a group or a long stay.
+For less, there is an underground hotel on Park Lane from £90; for a group or a long stay, there are apartments with kitchens.
 
 > 💡 **The Short Version:** **[Zedwell Park Lane](hotel:zedwell-park-lane)** is the cheapest bed in this guide at **£90 to £207**, and it is **windowless and entirely underground**. With a group or for a week, **[Native Mayfair](hotel:native-mayfair)** and **[No.5 Maddox Street](hotel:no5-maddox-street)** give you a kitchen. Among the grand hotels, choose on what you will use: **[The Connaught](hotel:the-connaught)** for its bar and Mount Street, **[Claridge's](hotel:claridges)** for the art deco rooms and the tea, **[45 Park Lane](hotel:45-park-lane)** if every window should face Hyde Park, **[Brown's](hotel:browns-hotel)** for family suites, and **[The Ritz](hotel:the-ritz-london)** only if you are happy to wear a jacket and tie to tea.
 
@@ -51,8 +51,6 @@ Mayfair's four edges feel different and use different stations.
 Our [Mayfair area guide](/articles/mayfair-area-guide/) covers what to see once you are here: the arcades, Cork Street's galleries and the Royal Academy. The [Fitzrovia to Mayfair walk](/articles/fitzrovia-mayfair-walk/) finishes down Mount Street and through Shepherd Market to Green Park.
 
 ## Choosing a grand hotel by what you will use
-
-What separates the five-star hotels is the building, the room and one or two things downstairs.
 
 | If you want | Book | Why |
 | --- | --- | --- |
@@ -82,7 +80,7 @@ The rate moves a lot with the night: a Cocoon 2 was £90 on an October Sunday an
 
 *Over £350 · 11 apartments · 10 Lees Place, W1K 6LN · Bond Street and Marble Arch under 10 min*
 
-**[Native Mayfair](hotel:native-mayfair)** is eleven apartments in a Victorian mews house of 1890 on Lees Place, a quiet passage a block from Grosvenor Square. Each has a kitchen, which saves more here than elsewhere because eating out in Mayfair costs Mayfair prices. Our [aparthotels guide](/articles/aparthotels-london/) compares Native with the other apartment operators.
+**[Native Mayfair](hotel:native-mayfair)** is eleven apartments in a Victorian mews house of 1890 on Lees Place, a quiet passage a block from Grosvenor Square. Each has a kitchen. Our [aparthotels guide](/articles/aparthotels-london/) compares Native with the other apartment operators.
 
 <div class="photo-row">
 
@@ -274,7 +272,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 *116 Piccadilly · Green Park 2 min · [Hotels.com](hotelscom:175165)*
 
-An independent hotel on a Piccadilly corner it has occupied in one form or another since 1850; the building became an art deco apartment block in the 1930s and faces Green Park across the road. Superior rooms are 19 square metres and interconnecting rooms are available; the draw for families is **18 townhouse residences with a kitchen and separate sitting room**, and a concierge who keeps kites and bikes for the park. There is a 24-hour gym and a spa with cedar hot tubs, and an afternoon tea with no ceremony. Cancellation on the residences closes seven days before arrival.
+An independent hotel facing Green Park across Piccadilly, in a building that was Henry Hope's house in 1850 and an art deco apartment block from the 1930s. Superior rooms are 19 square metres and interconnecting rooms are available; the draw for families is **18 townhouse residences with a kitchen and separate sitting room**, and a concierge who keeps kites and bikes for the park. There is a 24-hour gym and a spa with cedar hot tubs, and an afternoon tea with no ceremony. Cancellation on the residences closes seven days before arrival.
 
 ![An Athenaeum bedroom with a walnut cabinet holding a television and tea tray, a desk by the window, and a balcony door looking over the trees of Green Park](../../assets/articles/where-to-stay-mayfair/the-athenaeum-room.jpg)
 
@@ -364,13 +362,13 @@ Three houses on Charles Street, and Red Carnation's first hotel. **[The Chesterf
 
 ## If none of these fits
 
-**Marylebone**, north across Oxford Street, shares Bond Street station, and [The Zetter Townhouse Marylebone](hotel:the-zetter-townhouse-marylebone) is about £230, and our [Marylebone stay guide](/articles/where-to-stay-marylebone/) compares the rest. **Soho and the West End**, ten minutes east, is where the evenings are, and our [Soho and West End stay guide](/articles/where-to-stay-soho-west-end/) compares its hotels. For the wider choice, [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sets Mayfair against the rest.
+**Marylebone**, north across Oxford Street, shares Bond Street station; [The Zetter Marylebone](hotel:the-zetter-townhouse-marylebone) is about £230 there, and our [Marylebone stay guide](/articles/where-to-stay-marylebone/) compares the rest. **Soho and the West End**, ten minutes east, is where the evenings are, and our [Soho and West End stay guide](/articles/where-to-stay-soho-west-end/) compares its hotels. For the wider choice, [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sets Mayfair against the rest.
 
 ## Getting in and out
 
 **Green Park** is on the Piccadilly, Victoria and Jubilee lines, **Bond Street** on the Elizabeth, Central and Jubilee lines, **Hyde Park Corner** on the Piccadilly, **Marble Arch** on the Central and **Oxford Circus** on the Central, Victoria and Bakerloo.
 
-**Heathrow** has two direct lines: the Piccadilly runs to Green Park and Hyde Park Corner, and the Elizabeth line reaches Bond Street in about 35 to 40 minutes. Our [Heathrow guide](/articles/heathrow-airport-to-london/) compares the options.
+**Heathrow** has two direct lines: the Piccadilly runs to Green Park and Hyde Park Corner, and the Elizabeth line reaches Bond Street in about 30 minutes from Terminals 2 and 3. Our [Heathrow guide](/articles/heathrow-airport-to-london/) compares the options.
 
 **The rail terminals**: Victoria is one stop from Green Park on the Victoria line, King's Cross St Pancras four, and Paddington one stop from Bond Street on the Elizabeth line.
 

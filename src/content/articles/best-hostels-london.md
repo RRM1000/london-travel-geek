@@ -340,7 +340,7 @@ Small enough that it fills early, and the opposite end of the scale from the two
 
 The model is a **free dinner** most evenings rather than a bar, plus a nightly outing, a day activity, free city tours and a WhatsApp group. Pod beds with curtains, lockers in every room, complimentary luggage storage, a kitchen open until midnight, laundry, a terrace. Check-in 3pm, check-out 11am. **No curfew.** Sheets included, towels rented.
 
-Its published room list is a **private twin and a private double, both with shared bathrooms, and 4, 6 and 8-bed mixed dorms**. As above: the same page also advertises female-only dorms, and they are not in that list. Confirm before booking.
+Its published room list is a **private twin and a private double, both with shared bathrooms, and 4, 6 and 8-bed mixed dorms**. The same page also advertises female-only dorms, which are not in that list, so ask for one when you book.
 
 It draws the most enthusiastic writing of any hostel in our community research — 55 mentions across 17 threads, for the free dinner, the pub crawls and quiet hours that are actually enforced after 10pm. That enthusiasm is not universal, and the dissent came from a solo female traveller. **If you are over 35, check before you book.** Reddit says repeatedly that Onefam turns away over-35s. Onefam's own site states no age limit for Notting Hill, but its Waterloo hostel is sold on Hotels.com as "Onefam Waterloo 18-36 years old", so the rule may be real.
 
@@ -378,7 +378,7 @@ The operator calls it "a very small hostel" and caps groups at eight. It welcome
 
 **Check-in is self-service from 2.30pm** with documents sent before noon, or reception between 3pm and 11pm. **Check-out is 10am**, which is early. Luggage storage is free before check-in and **£3 a bag afterwards**, 8am to 11pm. Groups need a minimum of two nights, and cancellation is 72 hours.
 
-The operator does not publish its dorm bathroom arrangement, whether it runs a female-only dorm, or an age policy.
+It has female-only and mixed dorms as well as private rooms. Under-18s can stay only with a parent or guardian over 25, in a privately booked dorm.
 
 ![A four-bed dorm at The Walrus, with grey metal bunks labelled by bed and an armchair by the window](../../assets/articles/best-hostels-london/the-walrus-hostel-dorm.jpg)
 

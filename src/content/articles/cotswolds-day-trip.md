@@ -77,13 +77,13 @@ All six run from Paddington. Returns were quoted for a Tuesday mid-morning depar
 
 One route does almost all the work. The rest are thin, and three of the five stop dead on Sundays.
 
-| Route | Where it goes | Frequency | Sunday |
+| Route | Frequency | Sunday | Where it goes |
 | --- | --- | --- | --- |
-| **801** | Cheltenham – Bourton – **Stow** – **Moreton station** – Chipping Norton | **Hourly** | **Yes, hourly 07:45–18:45 from Moreton** |
-| **855** | Bourton – Northleach – **Bibury** – Cirencester | Hourly-ish, Mon–Sat | **None** |
-| **606** | Chipping Campden – **Broadway** – Winchcombe – Cheltenham | 6 journeys a day, Mon–Sat | **None** |
-| **1 / 2 / 3** (Stagecoach) | Stratford – Broadway – **Chipping Campden** – Moreton station | 3–6 journeys a day, Mon–Sat | **None** |
-| **X52** | Oxford – Witney – **Burford** – Northleach – Cheltenham | Every 2 hours | Yes, 5 journeys |
+| **801** | **Hourly** | **Yes, hourly 07:45–18:45 from Moreton** | Cheltenham – Bourton – **Stow** – **Moreton station** – Chipping Norton |
+| **855** | Hourly-ish, Mon–Sat | **None** | Bourton – Northleach – **Bibury** – Cirencester |
+| **606** | 6 journeys a day, Mon–Sat | **None** | Chipping Campden – **Broadway** – Winchcombe – Cheltenham |
+| **1 / 2 / 3** (Stagecoach) | 3–6 journeys a day, Mon–Sat | **None** | Stratford – Broadway – **Chipping Campden** – Moreton station |
+| **X52** | Every 2 hours | Yes, 5 journeys | Oxford – Witney – **Burford** – Northleach – Cheltenham |
 
 **The 801 is the reason a train day works at all.** It calls at Moreton-in-Marsh Railway Station, and on a weekday leaves at 09:45, 10:45, 11:45, 12:45, 13:45, then 15:05, 15:55, 16:55 and on into the evening. Stow-on-the-Wold Library is 20 minutes; Bourton is 40. Coming back, the last bus from Bourton that reaches Moreton station is **21:15 on a weekday and 17:15 on a Sunday** — the later Sunday journeys terminate before Moreton, which is the trap.
 

@@ -53,7 +53,7 @@ area:
       note: "East along the Thames Path past Vauxhall towards Westminster Bridge."
 faq:
   - q: "Can you go inside Battersea Power Station?"
-    a: "Yes. It reopened to the public in October 2022 after a long restoration and is now free to enter as a shopping and dining destination. The two turbine halls are open — Turbine Hall A restored in 1930s art deco, Turbine Hall B in 1950s style. Only the Chimney Lift up the chimney is ticketed, and it is closed for maintenance at the time of writing."
+    a: "Yes. It reopened to the public in October 2022 after a long restoration and is now free to enter as a shopping and dining destination. The two turbine halls are open — Turbine Hall A restored in 1930s art deco, Turbine Hall B in 1950s style. Only the Chimney Lift up the chimney is ticketed."
   - q: "What is the Chimney Lift, and what happened to Lift 109?"
     a: "The same attraction, renamed. A glass lift rises 109 metres up inside the north-west chimney, opening out at the top for a 360-degree view over London. Adult tickets start at £16 booked online against £24 on the day, and the whole visit takes about 45 minutes including the exhibition below. It closes periodically for maintenance — it was shut through August 2026 — so check before travelling."
   - q: "How do I get to Battersea Power Station by Tube?"
@@ -85,7 +85,7 @@ Battersea has its own share of the commemorative plaques marking where notable p
 ## Top sights and activities
 
 1. **Battersea Power Station** — Free to enter. **Turbine Hall A** is restored 1930s art deco; **Turbine Hall B** is 1950s, plainer and more industrial. Walking between the two is the point.
-2. **The Chimney Lift** — A glass lift 109 metres up inside the north-west chimney, opening at the top for a 360-degree view. **Renamed from Lift 109**, and **closed for maintenance at the time of writing** — check before travelling. Adult tickets from £16 online against £24 on the day.
+2. **The Chimney Lift** — A glass lift 109 metres up inside the north-west chimney, opening at the top for a 360-degree view. **Renamed from Lift 109**. Adult tickets from £16 online against £24 on the day.
 3. **Battersea Park** — 200 acres with a boating lake, a Grade II listed Victorian layout, and a riverside path facing Chelsea.
 4. **The Peace Pagoda** — A Buddhist monument given to London in 1985, built by monks to mark 40 years since Hiroshima and Nagasaki. On the riverside path, with a resident monk.
 5. **Albert Bridge** — Cast-iron, painted pink and green, and still signed asking troops to break step. **Closed to motor traffic since February 2026** after a crack was found in a cast-iron component; **pedestrians and cyclists still cross**, and reopening to vehicles is promised for 2027.

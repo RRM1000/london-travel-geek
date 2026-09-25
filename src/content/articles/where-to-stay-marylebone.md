@@ -25,18 +25,18 @@ faq:
   - q: "Is Marylebone quiet at night?"
     a: "The side streets are. Marylebone High Street is a shopping street that winds down in the early evening, and there are no late-night bars of the Soho kind. The noise is on the main roads: the four lanes of Marylebone Road, Baker Street and Gloucester Place, and the Marble Arch junction at the end of Oxford Street. Dorset Square and the streets around Manchester Square are away from the through traffic."
   - q: "Which Marylebone hotels are best for families?"
-    a: "The Landmark London has family rooms with two double beds and a 15-metre pool with children's hours of 9 to 11am and 3 to 5pm. Durrant's family room has a separate bunk room for up to three children. Holmes Hotel London runs a family package in which up to two children aged 12 and under stay and eat free. Nobu Portman Square has a 42-square-metre family room with a balcony, and The Cumberland and The Welbeck both sell rooms with two double beds."
+    a: "The Landmark London has family rooms with two double beds and a spa pool with children's hours of 9 to 11am and 3 to 5pm. Durrant's family room has a separate bunk room for up to three children. Holmes Hotel London runs a family package in which up to two children under 12 stay and eat free. Nobu Portman Square has a 42-square-metre family room with a balcony, and The Cumberland and The Welbeck both sell rooms with two double beds."
   - q: "How do I get from Heathrow to Marylebone?"
-    a: "Take the Elizabeth line to Bond Street, which runs direct from Heathrow with no change and is five to eight minutes' walk from the village hotels. For the Baker Street and Marylebone Road hotels, the Heathrow Express to Paddington is the alternative: The Landmark puts Paddington fifteen minutes' walk away, or one stop on the Bakerloo line from Marylebone."
+    a: "Take the Elizabeth line to Bond Street, which runs direct from Heathrow with no change and is five to eight minutes' walk from the village hotels. For the Baker Street and Marylebone Road hotels, the Heathrow Express to Paddington is the alternative: The Landmark puts Paddington fifteen minutes' walk away, or two stops on the Bakerloo line from Marylebone."
 ---
 
 Marylebone is the grid of Georgian streets directly north of Oxford Street, running up to Regent's Park. It has a village high street, the free Wallace Collection, and stations on every side, including the Elizabeth line at Bond Street.
 
 Where you sleep in it matters more than which hotel. **The Marble Arch corner** is for Hyde Park and the Central line. **The village** is the quiet middle, a few minutes from the Elizabeth line at Bond Street. **Baker Street and Marylebone Road** are for Regent's Park, Wembley trains and the cheapest rooms. **Langham Place** is the West End edge, five minutes from Oxford Circus.
 
-Most of the hotels below are four- and five-star. The cheapest room in this guide with a window is **£75 at the Z Hotel on Gloucester Place**; the grand end is **about £550 at The Langham**.
+Most of the hotels below are four- and five-star.
 
-> 💡 **The Short Version:** On a budget, **The Z Hotel Gloucester Place** is £75 for a 14-square-metre room with a window, or £65 without one. In the village, **The Mandeville** starts at £200 booked direct, two minutes from Marylebone High Street. With children, **[The Landmark London](hotel:the-landmark-london)** has family rooms with two double beds and a 15-metre pool with children's hours, and **Durrant's** has a family room with a separate bunk room for three. For a Wembley event, **[Dorset Square Hotel](hotel:dorset-square-hotel)** is five minutes from Marylebone station, nine minutes by train from the stadium. For the grand hotel, **[The Langham](hotel:the-langham-london)** at about £550, with afternoon tea in the Palm Court.
+> 💡 **The Short Version:** On a budget, **The Z Hotel Gloucester Place** is £75 for a 14-square-metre room with a window, or £65 without one. In the village, **The Mandeville** starts at £200 booked direct, two minutes from Marylebone High Street. With children, **[The Landmark London](hotel:the-landmark-london)** has family rooms with two double beds and a pool with children's hours, and **Durrant's** has a family room with a separate bunk room for three. For a Wembley event, **[Dorset Square Hotel](hotel:dorset-square-hotel)** is five minutes from Marylebone station, nine minutes by train from the stadium. For the grand hotel, **[The Langham](hotel:the-langham-london)** at about £550, with afternoon tea in the Palm Court.
 
 ## Which part of Marylebone
 
@@ -132,7 +132,7 @@ Rooms are graded by size: **Cosy doubles of 15 to 17 square metres**, Standard 1
 
 *££ · Great Cumberland Place, W1H 7DL · Marble Arch 1 min · Check-out 11am · [check prices](hotel:the-cumberland-london)*
 
-A large hotel on the corner where Oxford Street meets Hyde Park, and the only one in this guide at the ££ level. **Gordon Ramsay chose it for the first UK branch of Hell's Kitchen.**
+A large hotel on the corner where Oxford Street meets Hyde Park. **Gordon Ramsay chose it for the first UK branch of Hell's Kitchen.**
 
 ![A twin room at The Cumberland with two single beds against a grey leather headboard, red London-print cushions, blue curtains at the far window and a long desk with a coffee machine under a wall-mounted TV](../../assets/articles/where-to-stay-marylebone/the-cumberland-room.jpg)
 
@@ -256,7 +256,7 @@ Four restored Georgian buildings on Chiltern Street, one of them the former Bedf
 
 *A suite with a separate sitting area; the headboard is printed with the 221B front door.*
 
-**The Family Experience package** covers two adults and up to two children aged 12 and under: the children stay and eat free, breakfast is included for everyone, and it takes up to 25% off the best available rate. Sofa beds and interconnecting rooms are available. Our [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide covers the museum up the road at 221b.
+**The Family Experience package** covers two adults and up to two children under 12: the children stay and eat free, breakfast is included for everyone, and it takes up to 25% off the best available rate. Sofa beds and interconnecting rooms are available. Our [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide covers the museum up the road at 221b.
 
 ### Dorset Square Hotel — Firmdale's first, on Thomas Lord's first cricket ground
 
@@ -268,7 +268,7 @@ Tim and Kit Kemp's first hotel, in a Regency building facing the garden square t
 
 *Firmdale's look: a tall embroidered headboard, patterned fabrics and a large sash window.*
 
-**It is the closest hotel in this guide to a Wembley train.** Marylebone station is five minutes' walk, and the hotel times the Chiltern Railways run to Wembley Stadium at nine minutes. Our [Wembley guide](/articles/wembley-stadium-arena-guide/) covers getting back after a concert.
+**For a Wembley event**, Marylebone station is five minutes' walk, and the hotel times the Chiltern Railways run to Wembley Stadium at nine minutes. Our [Wembley guide](/articles/wembley-stadium-arena-guide/) covers getting back after a concert.
 
 ### The Landmark London — the pool and the palms
 
@@ -276,7 +276,7 @@ Tim and Kit Kemp's first hotel, in a Regency building facing the garden square t
 
 Open since 1 July 1899, opposite Marylebone station. The Winter Garden is a glass-roofed atrium planted with palm trees, home to the restaurant and an afternoon tea served beneath the palms.
 
-**For families it has two things**: an Executive Family Room with two double beds and a lounge area, plus family suites and studios, and a **15-metre chlorine-free pool with children's hours of 9 to 11am and 3 to 5pm**. Cots are free for under-twos. Marylebone Road outside is four lanes of traffic. At weekends breakfast is for residents only. Our [family hotels guide](/articles/best-family-hotels-london/) compares it with the other family hotels in London.
+**For families it has two things**: an Executive Family Room with two double beds and a lounge area, plus family suites and studios, and a **vitality pool, heated to 34°C, in the spa, with children's hours of 9 to 11am and 3 to 5pm**. Cots are free for under-twos. Marylebone Road outside is four lanes of traffic. At weekends breakfast is for residents only. Our [family hotels guide](/articles/best-family-hotels-london/) compares it with the other family hotels in London.
 
 <div class="photo-row">
 

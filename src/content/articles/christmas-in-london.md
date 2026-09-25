@@ -128,7 +128,7 @@ Different from the free street displays above — these are paid, walk-through e
 
 ## Ice rinks and Santa's grottos
 
-**Still running:** **Somerset House** (11 November 2026 – 10 January 2027, tickets £11–£28.50, on sale from September 2026), **Hampton Court Palace** (20 November 2026 – 3 January 2027, price not yet published), and **Alexandra Palace** — a permanent, year-round indoor rink rather than a seasonal one, dressed for Christmas with a panto-on-ice show, currently £11.75–£12.75.
+**Still running:** **Somerset House** (11 November 2026 – 10 January 2027, tickets £11–£28.50 plus a £1.50 fee, on sale since 10am on 25 September 2026), **Hampton Court Palace** (20 November 2026 – 3 January 2027, price not yet published), and **Alexandra Palace** — a permanent, year-round indoor rink rather than a seasonal one, dressed for Christmas with a panto-on-ice show, currently £11.75–£12.75.
 
 ![Skaters on the ice rink in the courtyard of Somerset House, with SKATE spelled in illuminated letters along the roofline of the neoclassical building behind](../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg)
 

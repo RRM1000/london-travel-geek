@@ -160,11 +160,11 @@ A fast 10-minute river hop linking Docklands skyscrapers with Greenwich maritime
 
 ### Top Speedboat Experiences Compared
 
-| Speedboat Tour | Operator | Departure Pier | Typical Duration | Highlights | Starting Price |
-| --- | --- | --- | --- | --- | ---: |
-| **Ultimate London Adventure** | Thames Rockets | London Eye Pier | 50 mins | Central sightseeing + 35-knot high-speed twists to Canary Wharf | From **£59.95** |
-| **Thames Barrier Expedition** | Thames Rockets | London Eye Pier | 80 mins | Extended high-speed voyage past Greenwich down to the Thames Barrier | From **£79.95** |
-| **Canary Wharf RIB Sprint** | Thames RIB Experience | Embankment / Tower Pier | 50 mins | High-powered RIB blast past Docklands skyscrapers | From **£55.00** |
+| Speedboat Tour | Operator | Departure Pier | Typical Duration | Starting Price | Highlights |
+| --- | --- | --- | --- | ---: | --- |
+| **Ultimate London Adventure** | Thames Rockets | London Eye Pier | 50 mins | From **£59.95** | Central sightseeing + 35-knot high-speed twists to Canary Wharf |
+| **Thames Barrier Expedition** | Thames Rockets | London Eye Pier | 80 mins | From **£79.95** | Extended high-speed voyage past Greenwich down to the Thames Barrier |
+| **Canary Wharf RIB Sprint** | Thames RIB Experience | Embankment / Tower Pier | 50 mins | From **£55.00** | High-powered RIB blast past Docklands skyscrapers |
 
 > 🚤 **Essential Speedboat Tips:**  
 > - **Clothing & Gear:** Lifejackets and waterproof jackets are provided. Dress warmly — wind chill at 35 knots bites even in summer.  

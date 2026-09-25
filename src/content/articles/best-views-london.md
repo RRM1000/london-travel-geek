@@ -150,7 +150,7 @@ The thing almost nobody mentions: **there are paid walk-in slots** at management
 
 ![A Sky Garden sign among dense planting inside the glass shell on top of the Walkie-Talkie](../../assets/articles/best-views-london/sky-garden-sign.jpg)
 
-> ⚠️ One visitor lift is currently out of service and capacity is reduced, so some ticket holders are being turned away at their booked slot. This notice is still live on their own site. Rebooking is advised.
+> ⚠️ **One visitor lift is out of service (September 2026).** Sky Garden has cut visitor capacity while it is fixed and warns that some ticket holders may not get in at their booked time.
 
 ### The Lookout at 8 Bishopsgate, City of London
 
@@ -164,7 +164,7 @@ Worth the effort for one reason: **Mondays and Fridays it runs to 9pm**, against
 
 Because the sweep favours west and south, you are looking back over the West End, the river and the Shard rather than at the towers you are standing among — which is the opposite of what Horizon 22 four hundred metres away gives you, and the reason to do both. The entrance is at 8 Bishopsgate, EC2N 4BQ, two minutes from Liverpool Street.
 
-> ⚠️ **It closes on days that are not weekends.** The booking site lists specific 2026 closure dates on top of the standing hours — **5 and 16 September, 1 and 24 October, 15 and 26 November**. Check the calendar before you travel rather than the opening hours.
+> ⚠️ **It closes on days that are not weekends.** The booking site lists specific 2026 closure dates on top of the standing hours — **1 and 24 October, 15 and 26 November**. Check the calendar before you travel rather than the opening hours.
 
 ---
 
@@ -470,7 +470,7 @@ A bar on the top deck of a **multi-storey car park** on Rye Lane, run as part of
 
 **No bookings at all** — the venue states outright that it does not take table reservations, and entry is first come, first served. Card only, no cash anywhere on site.
 
-> ⚠️ **The season is shorter than most guides say, and it ends within days.** The 2026 run is **15 May to 12 September**, Wednesday to Sunday, 11am to 11pm — then it shuts for the year. Not "mid-September" as a vague guide: the twelfth.
+> ⚠️ **Closed until next summer.** The 2026 season ran **15 May to 12 September**, Wednesday to Sunday, 11am to 11pm, and it shuts for the rest of the year.
 
 Lift access must be arranged with security at the main entrance and you have to be accompanied. Once up, Levels 7 to 10 are step-free — but **Peckham Rye station itself is not**, which is the harder problem. The address is Floors 7–10, Peckham Multi-Storey Car Park, 95a Rye Lane SE15 4ST, about 150 metres from the station.
 

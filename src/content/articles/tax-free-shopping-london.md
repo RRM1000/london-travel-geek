@@ -70,13 +70,13 @@ GOV.UK's wording is unambiguous: **"The VAT Retail Export Scheme is no longer av
 
 What each retailer publishes on its own site, checked on 3 September 2026:
 
-| Retailer | VAT off at the till? | How it works | Shipping cost | Delivery time |
+| Retailer | VAT off at the till? | Shipping cost | Delivery time | How it works |
 | --- | --- | --- | --- | --- |
-| **Harrods** | **Yes** | Register at Customer Service, **Third Floor**, or tell your personal shopper, **before you shop**. Also available remotely via Personal Shopping | Flat rate by destination. Online rates: **USA $30, Hong Kong HK$240, Europe €25** | USA **4–7 days**, Hong Kong **3–5**, Europe **3–10** |
-| **Selfridges** | **Yes** | Tax-Free Shipping, in store or by **one-to-one video appointment**. Open to "anyone shipping items to a non-UK address" | **£15 to the EU, £25 rest of world** | Not published |
-| **Bicester Village** | **Yes, at 14 boutiques** | Ask in the boutique. VAT deducted, delivery added, duties estimated | Not published — varies by size and destination | **Within 7 working days** |
-| **Liberty** | **Online only** | No in-store service. Liberty's help centre is blunt: overseas visitors "will no longer be able to obtain VAT refunds on items purchased in-store". Online prices to overseas addresses **exclude UK VAT** | **USA $20** (free over $200), **Europe €8** (free over €175), **Europe express €25** | USA **up to 5 days**, Europe **up to 7** |
-| **Apple** | **No, and no route** | Apple's UK store "will not be delivered to any address outside the United Kingdom and the Isle of Man" | — | — |
+| **Harrods** | **Yes** | Flat rate by destination. Online rates: **USA $30, Hong Kong HK$240, Europe €25** | USA **4–7 days**, Hong Kong **3–5**, Europe **3–10** | Register at Customer Service, **Third Floor**, or tell your personal shopper, **before you shop**. Also available remotely via Personal Shopping |
+| **Selfridges** | **Yes** | **£15 to the EU, £25 rest of world** | Not published | Tax-Free Shipping, in store or by **one-to-one video appointment**. Open to "anyone shipping items to a non-UK address" |
+| **Bicester Village** | **Yes, at 14 boutiques** | Not published — varies by size and destination | **Within 7 working days** | Ask in the boutique. VAT deducted, delivery added, duties estimated |
+| **Liberty** | **Online only** | **USA $20** (free over $200), **Europe €8** (free over €175), **Europe express €25** | USA **up to 5 days**, Europe **up to 7** | No in-store service. Liberty's help centre is blunt: overseas visitors "will no longer be able to obtain VAT refunds on items purchased in-store". Online prices to overseas addresses **exclude UK VAT** |
+| **Apple** | **No, and no route** | — | — | Apple's UK store "will not be delivered to any address outside the United Kingdom and the Isle of Man" |
 
 **At Bicester Village the list is short and named:** **Annoushka, Aquazzura, Balenciaga, Balmain, Bottega Veneta, Brioni, Brunello Cucinelli, Dunhill, Lalique, Loro Piana, Manolo Blahnik, Missoni, Thom Browne and Zegna**. A wider set of brands will ship abroad *with* the VAT still in the price, which is not the same thing. Ask which you are being offered.
 

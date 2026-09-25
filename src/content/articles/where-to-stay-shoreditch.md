@@ -210,7 +210,7 @@ At about £150 it undercuts every other design hotel here by £30 to £100, and 
 
 *About £230 · 26 storeys · Two Banksys outside · [check prices](hotel:artotel-london-hoxton)*
 
-A tower wrapped in twisted black fins with the street artist D*Face's work running through every room and public space. There is a public gallery, a 60-seat screening room, and an indoor pool non-residents can book.
+A tower wrapped in twisted black fins with the street artist D\*Face's work running through every room and public space. There is a public gallery, a 60-seat screening room, and an indoor pool non-residents can book.
 
 **Two original Banksys are preserved on the outside of the building**, rescued from The Foundry which stood on this site, and they are free to look at from the street whether or not you stay.
 
@@ -218,7 +218,7 @@ Two practical notes. **Breakfast is about £56 extra**, which is a lot on top of
 
 ![A room at art'otel London Hoxton, with D*Face artwork on the wall, amber glass panelling and a curved cream sofa](../../assets/articles/where-to-stay-shoreditch/artotel-london-hoxton-room.jpg)
 
-*A room at art'otel London Hoxton — D*Face's work on the wall, the amber glass panelling running through the tower.*
+*A room at art'otel London Hoxton — D\*Face's work on the wall, the amber glass panelling running through the tower.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-shoreditch-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

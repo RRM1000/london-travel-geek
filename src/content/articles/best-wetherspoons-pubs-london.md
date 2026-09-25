@@ -67,14 +67,14 @@ Still real, still current as of the branch menus checked for this guide in Septe
 
 ## Six branches built into something else
 
-| Branch | Area | Building's earlier life | Wetherspoon since |
+| Branch | Area | Wetherspoon since | Building's earlier life |
 | --- | --- | --- | --- |
-| **The Crosse Keys** | City, EC3V 0DR | HQ of the Hongkong and Shanghai Banking Corporation, opened 1913 | 1999 |
-| **Hamilton Hall** | Liverpool Street station, EC2M 7PY | Ballroom of the Great Eastern Hotel; Grade II listed | 1991 — the chain's first pub in central London and at a station |
-| **The Liberty Bounds** | Tower Hill, EC3N 4AA | Just outside the City's old "liberty" boundary, by the Tower Hill scaffold site | 1999 |
-| **The Ledger Building** | West India Quay, Canary Wharf, E14 4AL | c.1800 dock office that held the West India Docks' ledgers; Grade I listed | 2001 |
-| **The Rochester Castle** | Stoke Newington, N16 0NY | Rebuilt 1801 on a site trading as The Green Dragon since at least 1702 | 1991 |
-| **The Mossy Well** | Muswell Hill, N10 3SH | An Express Dairy tea room from 1900, later licensed premises | 2015 |
+| **The Crosse Keys** | City, EC3V 0DR | 1999 | HQ of the Hongkong and Shanghai Banking Corporation, opened 1913 |
+| **Hamilton Hall** | Liverpool Street station, EC2M 7PY | 1991 — the chain's first pub in central London and at a station | Ballroom of the Great Eastern Hotel; Grade II listed |
+| **The Liberty Bounds** | Tower Hill, EC3N 4AA | 1999 | Just outside the City's old "liberty" boundary, by the Tower Hill scaffold site |
+| **The Ledger Building** | West India Quay, Canary Wharf, E14 4AL | 2001 | c.1800 dock office that held the West India Docks' ledgers; Grade I listed |
+| **The Rochester Castle** | Stoke Newington, N16 0NY | 1991 | Rebuilt 1801 on a site trading as The Green Dragon since at least 1702 |
+| **The Mossy Well** | Muswell Hill, N10 3SH | 2015 | An Express Dairy tea room from 1900, later licensed premises |
 
 ### The Crosse Keys, City of London
 
@@ -148,7 +148,7 @@ Named for Captain Matthew Flinders, the Royal Navy explorer who led the first ci
 
 *5 Merchant Square, Paddington Basin, W2 1AS · opened October 2025 · closes 10.30pm*
 
-The newest branch in this guide, barely a year old at time of writing, in the modern Merchant Square development by Paddington station. Alexander Fleming discovered penicillin at St Mary's Hospital, Paddington, in 1928 — almost certainly the reason for the name.
+The newest branch in this guide, opened in October 2025 in the modern Merchant Square development by Paddington station. Alexander Fleming discovered penicillin at St Mary's Hospital, Paddington, in 1928 — almost certainly the reason for the name.
 
 ![The bar inside The Sir Alexander Fleming, with phenoxymethylpenicillin spelled out in large letters above the taps](../../assets/articles/best-wetherspoons-pubs-london/the-sir-alexander-fleming.jpg)
 

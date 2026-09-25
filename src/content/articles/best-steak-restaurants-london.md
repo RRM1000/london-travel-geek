@@ -267,18 +267,18 @@ Better known as the hardest pint to get in Soho, but the dining room upstairs gr
 
 Backed by the sources but not written up above, either because only two guides name them or because they sit outside the styles covered.
 
-| Restaurant | Area | Price | What it is | Cited by |
+| Restaurant | Area | Price | Cited by | What it is |
 | --- | --- | --- | --- | --- |
-| **Zoilo** | Fitzrovia | £££ | Argentine, cooking by region rather than by cut | 2 sources · #96, World's 101 |
-| **Chelsea Grill** | Chelsea | £££ | Placed 55th in the world and named by almost nobody else | 1 source · #55, World's 101 |
-| **Sucre** | Soho | £££ | Argentine wood-fire cooking in a large Soho basement | 2 sources |
-| **Gaucho** | Various | £££ | The Argentine chain; consistent rather than exciting, and everywhere | 2 sources |
-| **M Restaurant** | Threadneedle Street | ££££ | A tasting flight of beef from different countries, side by side | 2 sources |
-| **Daffodil Mulligan** | Old Street | £££ | Irish cooking over fire from Richard Corrigan | 2 sources |
-| **Karve Steakhouse** | Lower Clapton | ££ | Everything over wood fire, and halal — a rare combination at this level | 1 source |
-| **Smiths of Smithfield** | Farringdon | £££ | Next to the meat market it buys from, which is the entire proposition | 1 source |
-| **Brutto** | Clerkenwell | ££ | The Florentine T-bone for sharing. Well supported as **Italian** rather than as steak | — |
-| **Zelman Meats** | Knightsbridge | ££ | Sliced picanha and sharing cuts from the Goodman group, priced well under its parent | — |
+| **Zoilo** | Fitzrovia | £££ | 2 sources · #96, World's 101 | Argentine, cooking by region rather than by cut |
+| **Chelsea Grill** | Chelsea | £££ | 1 source · #55, World's 101 | Placed 55th in the world and named by almost nobody else |
+| **Sucre** | Soho | £££ | 2 sources | Argentine wood-fire cooking in a large Soho basement |
+| **Gaucho** | Various | £££ | 2 sources | The Argentine chain; consistent rather than exciting, and everywhere |
+| **M Restaurant** | Threadneedle Street | ££££ | 2 sources | A tasting flight of beef from different countries, side by side |
+| **Daffodil Mulligan** | Old Street | £££ | 2 sources | Irish cooking over fire from Richard Corrigan |
+| **Karve Steakhouse** | Lower Clapton | ££ | 1 source | Everything over wood fire, and halal — a rare combination at this level |
+| **Smiths of Smithfield** | Farringdon | £££ | 1 source | Next to the meat market it buys from, which is the entire proposition |
+| **Brutto** | Clerkenwell | ££ | — | The Florentine T-bone for sharing. Well supported as **Italian** rather than as steak |
+| **Zelman Meats** | Knightsbridge | ££ | — | Sliced picanha and sharing cuts from the Goodman group, priced well under its parent |
 
 [See all steak restaurants →](/restaurants/cuisine/british)
 

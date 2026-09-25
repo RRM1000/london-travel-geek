@@ -3,8 +3,8 @@ title: "Hyde Park Winter Wonderland: Every Price, Ride and Show for 2026"
 seoTitle: "Hyde Park Winter Wonderland 2026: Prices & Tickets"
 description: "A complete guide to Hyde Park Winter Wonderland 2026-27: every attraction price, the £1 tickets, the new K-Pop circus, free live music, and the quietest times to go."
 publishedAt: 2026-09-01
-updatedAt: 2026-09-21
-reviewBy: 2026-11-01
+updatedAt: 2026-09-25
+reviewBy: 2026-10-01
 sites:
   - london
 canonicalSite: london
@@ -22,7 +22,7 @@ faq:
   - q: "When is Hyde Park Winter Wonderland quietest?"
     a: "The organisers say Monday to Wednesday daytime, and mornings before noon on any day. Late November and early December are quieter than the fortnight around Christmas. That is also when off-peak pricing applies, so the same visit is cheaper twice over — a family on the Giant Wheel pays £26.40 off-peak against £39.60 at peak."
   - q: "Is the live music at Winter Wonderland free?"
-    a: "Yes. Every band, DJ and acoustic set on every stage is included in your entry ticket. Thirty-one acts are booked for 2026-27 across the Bavarian Hall, the Fire Pit Stage, the ice rink bandstand, the Market Square bandstand and the new Après-Ski Party Resort. The full schedule had not been published when this was written."
+    a: "Yes. Every band, DJ and acoustic set on every stage is included in your entry ticket. Thirty-one acts are booked for 2026-27 across the Bavarian Hall, the Fire Pit Stage, the ice rink bandstand, the Market Square bandstand and the new Après-Ski Party Resort. Dates and times for each act have not been published yet."
   - q: "What is new at Winter Wonderland for 2026?"
     a: "Gandeys K-Pop Dragon Circus replaces Zippos Christmas Circus, which had been the resident show since 2009. The Magical Ice Kingdom has a new Peter Pan theme, Bar Ice becomes an Arctic snow cave, and there are new Almhütte and Café Bavaria venues plus an Après-Ski Party Resort. Two new ride passes and standalone Ride & Game Credit are also new."
   - q: "Can you get a refund if it rains at Winter Wonderland?"
@@ -295,11 +295,11 @@ Every band, DJ and acoustic set on every stage is included in your entry ticket.
 
 **Thirty-one acts are booked for the season**, including Soul Town, The Chaps, Das Brass, TFI Britpop, The Disco Flames, Nova Soul, The Santa Babies and a roster of resident DJs. The Bavarian Village names its own regulars: Frontal – Party Pur, Zac Bauman "The Showman", Luigi "The Machine" and Kirstie Loren.
 
-> ⚠️ **The 2026-27 music schedule has not been published.** The official site names every act but publishes no date, time or stage for any of them. The acts are confirmed; when each plays is not. The same applies to the **Winter Wonderland Parade** — it runs on selected days through Santa Land and lasts an hour, but which days has not been announced.
+> ⚠️ **The 2026-27 music schedule has not been published.** The official line-up names the acts and their stages, but not the dates or times. The same applies to the **Winter Wonderland Parade**: it runs on selected days through Santa Land and lasts an hour, but which days has not been announced.
 
 ### And also free
 
-The **Christmas Market** — 60-plus traders next to the ice rink, best reached through Blue Gate. **Luminarie Lane** and its market, with 50,260 new bulbs this year. **Market Square**, with its bandstand, fire pits and weekend artisan market under the tipis. **Family Fun Day on Sunday 3 January 2027**, the final day, which adds free arts and crafts, face painting and a children's comedy show.
+The **Christmas Market** — 60-plus traders next to the ice rink, best reached through Blue Gate. **Luminarie Lane** and its market. **Market Square**, with its bandstand, fire pits and weekend artisan market under the tipis. **Family Fun Day on Sunday 3 January 2027**, the final day, which adds free arts and crafts, face painting and a children's comedy show.
 
 Every bar is free to walk into — **Bar Narnia** with a wardrobe you can step through, **The Christmas Tree Arms** with real cut trees and a first-floor balcony, **Thor's Tipi Bar**, the Fire Pit, the Carousel Bar, the slowly rotating **Luminarie Bar**, the Princess Bar, Circus Bar, Wonderbar!, Star Bar and Explorer's Rest. You pay for drinks; you do not pay to get in.
 
@@ -415,7 +415,7 @@ If an attraction is closed, the operator **reserves the right to offer a refund 
 
 **Children.** Free wristbands you can write a phone number on are available on arrival — ask, because they are not offered. Set a meeting point.
 
-**Getting home on Boxing Day:** there is **no Elizabeth line on 26 December**, and TfL runs a Boxing Day timetable.
+**Getting home on Boxing Day:** TfL runs a reduced timetable on 26 December, and the Elizabeth line has not run on Boxing Day in recent years. TfL publishes the 2026 detail at [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel) in December.
 
 ---
 

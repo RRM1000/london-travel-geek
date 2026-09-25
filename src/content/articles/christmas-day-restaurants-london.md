@@ -3,7 +3,8 @@ title: "Christmas Dinner in London: Where to Eat on Christmas Day"
 seoTitle: "Christmas Day Restaurants London 2026: What It Costs"
 description: "Almost nothing opens on 25 December, and no transport runs to get you there. What actually opens, what the price bands buy, and why booking is non-refundable."
 publishedAt: 2026-09-04
-updatedAt: 2026-09-04
+updatedAt: 2026-09-25
+reviewBy: 2026-10-31
 sites:
   - london
 canonicalSite: london
@@ -20,7 +21,7 @@ faq:
   - q: "Are restaurants open in London on Christmas Day?"
     a: "Very few. Nearly all of London's independent restaurants close on 25 December, and what stays open is mostly hotel dining rooms, a handful of pubs, and a few chains. Almost all of it is a fixed-price set menu booked and paid for in advance — you cannot walk in anywhere."
   - q: "How much is Christmas dinner at a restaurant in London?"
-    a: "Roughly £45 to £670 a head. Chains and pubs sit around £45 to £90, hotel dining rooms and rooftops around £110 to £180, and the grand hotels run from £275 upwards. The Ritz is the top of the market at £670 per adult and £365 per child for 25 December 2026."
+    a: "Roughly £45 to £670 a head. Chains and pubs sit around £45 to £90, hotel dining rooms and rooftops around £110 to £180, and the grand hotels run from £275 upwards. The Ritz is the top of the market on 25 December 2026: lunch is £670 per adult and £365 per child, dinner £460 and £300."
   - q: "Does the Tube run on Christmas Day?"
     a: "No. TfL runs no services at all on 25 December — no Tube, buses, Overground, DLR, Elizabeth line, trams or river boats. Santander Cycles, e-scooter hire, black cabs and private hire are the only ways to move, and taxi fares are far higher than usual. Book somewhere you can walk to."
   - q: "When should I book Christmas dinner in London?"
@@ -36,8 +37,6 @@ Here is what actually opens, what each price band buys, and the two constraints 
 ---
 
 ## Book near where you are sleeping
-
-This is the rule that matters most, and it is the one every roundup leaves out.
 
 **TfL runs no services at all on 25 December** — no Tube, no buses, no Overground, DLR, Elizabeth line, trams or river boats. Not a reduced service: none. What moves is black cabs, private hire, Santander Cycles and rental e-scooters, and cab fares on Christmas Day are well above normal, assuming you can get one at all.
 
@@ -67,7 +66,7 @@ What does not open: essentially every independent restaurant in London, every fo
 | **Chains and pubs** | £45–£90 | Three courses, a drink on arrival, a fixed sitting time. Straightforward and by far the best value with children. |
 | **Hotel dining rooms and rooftops** | £110–£180 | Four to six courses, champagne on arrival, a room that has been decorated for it, and a longer table booking. |
 | **Grand hotels** | £275–£450 | Five or more courses, unlimited champagne in some cases, live music, and a two-and-a-half to three-hour sitting. |
-| **The very top** | £670 | The Ritz. |
+| **The very top** | £460–£670 | The Ritz: £460 for dinner, £670 for lunch. |
 
 **Children are usually priced separately and much lower** — often between a third and a half of the adult price — so a family meal is rarely four times the headline figure. Check whether the children's price includes the same number of courses, because it frequently does not.
 
@@ -77,14 +76,16 @@ What does not open: essentially every independent restaurant in London, every fo
 
 ## Confirmed for 25 December 2026
 
-Most of London has not published its 2026 Christmas Day menus, and the roundups currently ranking for this search are quietly running last year's prices under a 2026 headline. These two are dated to 25 December 2026 and bookable now:
+Most of London has not published its 2026 Christmas Day menus, and many roundups ranking for this search run last year's prices under a 2026 headline. These are dated to Friday 25 December 2026 and bookable now:
 
 | Where | Price | Notes |
 | --- | --- | --- |
-| **The Ritz**, Piccadilly | **£670** adult, **£365** child to age 15 | Christmas Day lunch in the Ritz Restaurant. Full non-refundable prepayment to confirm. Confirmed on the hotel's own site. |
-| **Hard Rock Cafe**, Piccadilly Circus | **£70.47** adult, **£27.22** child | Three courses, sittings from 11am to 10.30pm, drinks extra. Sold as a ticket through DesignMyNight rather than the cafe's own site. |
+| **[The Ritz](https://www.theritzlondon.com/christmas-day-lunch-restaurant/)**, Piccadilly — lunch | **£670** adult, **£365** child to age 15 | Six courses in the Ritz Restaurant, with live entertainment and Father Christmas. Full non-refundable prepayment to confirm. |
+| **[The Ritz](https://www.theritzlondon.com/christmas-day-dinner/)**, Piccadilly — dinner | **£460** adult, **£300** child to age 15 | Four courses in the Ritz Restaurant. Full non-refundable prepayment to confirm. |
+| **[Whitcomb's at The Londoner](https://www.thelondoner.com/festive-season/festive-dining)**, Leicester Square | From **£175** adult, **£80** child | Five courses, with a three-course children's menu. Lunch 12.30pm to 4pm, dinner 6pm to 10pm. |
+| **Hard Rock Cafe**, Piccadilly Circus | **£70.47** adult, **£27.22** child | Three courses, sittings from 11am to 10.30pm, drinks extra, no à la carte. Listed on DesignMyNight; the cafe also takes bookings through its own site. |
 
-We will add venues here as they publish. If you are choosing now, the price bands above are a more reliable guide than a figure you find on a listings site.
+If you are choosing a venue not listed here, the price bands above are a more reliable guide than a figure you find on a listings site.
 
 > ⚠️ **Treat any 2026 price you see elsewhere with suspicion until you have seen it on the restaurant's own site.** Several major listings pages carry a 2026 headline and a 2025 date further down the same entry.
 
@@ -121,7 +122,7 @@ For a proper meal out that is not tied to a festive menu at all, the [special oc
 
 **Christmas afternoon tea** is the obvious alternative and a much easier booking — it runs from early November to the first week of January, costs £70 to £130, and does not commit your whole day. Claridge's, the Landmark's Winter Garden, Fortnum & Mason and the Ritz all reprint their tea menus for the season. The [Christmas guide covers those](/articles/christmas-in-london/#afternoon-tea-at-christmas), and the [full afternoon tea guide](/articles/best-afternoon-tea-london/) has every price.
 
-Worth being clear about the difference: afternoon tea at Christmas is a treat you can slot into a shopping day in early December. It is not a substitute for Christmas Day lunch, because on 25 December itself the hotel tea rooms are running their Christmas Day service, not their tea service.
+A few serve it on 25 December itself, at a premium. [The Ritz](https://www.theritzlondon.com/christmas-afternoon-tea/) charges £120 per adult and £79 per child from 14 November 2026 to 5 January 2027, rising to £135 and £90 on Christmas Day.
 
 ---
 
@@ -137,4 +138,4 @@ Worth being clear about the difference: afternoon tea at Christmas is a treat yo
 - 🍽️ **[Special occasion restaurants](/articles/special-occasion-restaurants-london/)** — for the rest of the year
 - 🚇 **[Getting around London](/articles/getting-around-london-transport-guide/)** — including what runs over the festive week
 
-*Prices and terms checked on 4 September 2026, against the venue's own website except where the table says otherwise.*
+*Prices and terms checked on 25 September 2026.*

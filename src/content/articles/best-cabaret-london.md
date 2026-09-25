@@ -92,7 +92,7 @@ The building is owned collectively by the original working men's club members, a
 
 None of that saves it. Listing and ACV status slow a sale; they do not stop one.
 
-The night itself is small, sweaty and standing, built on bills of acts rather than one show, and it has been the spiritual home of British alternative burlesque and drag for twenty years. **Advance and door prices are not published**, so go in expecting to pay on the door without knowing the number first. It also **closes for the summer, from 30 August to 15 September** — check the calendar before travelling.
+The night itself is small, sweaty and standing, built on bills of acts rather than one show, and it has been the spiritual home of British alternative burlesque and drag for twenty years. **Advance and door prices are not published**, so go in expecting to pay on the door without knowing the number first. It also **closes for the summer** (in 2026, from 30 August to 15 September) — check the calendar before travelling.
 
 ---
 

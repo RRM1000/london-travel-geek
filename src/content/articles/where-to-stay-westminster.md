@@ -1,7 +1,7 @@
 ---
 title: "Where to Stay in Westminster, Victoria and Pimlico: From Whitehall's Grand Hotels to the Belgrave Road B&Bs"
 seoTitle: "Where to Stay in Westminster, Victoria and Pimlico"
-description: "Hotels in Westminster, St James's, Victoria and Pimlico compared: the grand hotels on Whitehall, the practical base for Gatwick and the coach station, and the Pimlico B&Bs with no lift."
+description: "Hotels in Westminster, St James's, Victoria and Pimlico compared: the grand hotels on Whitehall, the practical base for Gatwick and the coach station, and the Pimlico B&Bs, several with no lift."
 heroImage: "../../assets/articles/where-to-stay-westminster/the-goring-beeston-place.jpg"
 heroImageAlt: "The front of The Goring on Beeston Place: a red-brick building with a white portico reading The Goring Hotel, a black awning over the steps, Union flags and ivy along the first-floor balcony"
 heroImageCredit: "Matt Brown"

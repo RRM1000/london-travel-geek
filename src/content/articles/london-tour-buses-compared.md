@@ -157,11 +157,11 @@ A short connector rather than a sightseeing loop, and at **every 45 minutes** it
 
 The cheapest of the three online, and the routes are organised by theme rather than geography. A full loop takes **50–60 minutes** on each.
 
-| Route | Covers | Operates | Stops |
+| Route | Operates | Stops | Covers |
 | --- | --- | --- | --- |
-| **Blue — Classic Tour** | Central: Big Ben, the London Eye, the Houses of Parliament | 09:00–19:00 | 11 |
-| **Red — Essential Tour** | Central and north: Tower Bridge, Westminster Abbey, Hyde Park | 10:35–20:00 | 21 |
-| **Orange — Museum Tour** | The Natural History Museum, Science Museum and V&A | 10:10–18:15 | Museum quarter |
+| **Blue — Classic Tour** | 09:00–19:00 | 11 | Central: Big Ben, the London Eye, the Houses of Parliament |
+| **Red — Essential Tour** | 10:35–20:00 | 21 | Central and north: Tower Bridge, Westminster Abbey, Hyde Park |
+| **Orange — Museum Tour** | 10:10–18:15 | Museum quarter | The Natural History Museum, Science Museum and V&A |
 
 Tickets include a free app audio guide in **12 languages**, live bus tracking, and free cancellation.
 

@@ -70,18 +70,18 @@ All of these are genuine. The difference is in the rules each one sets, and thos
 
 Colour generally tells you **which organisation put the plaque up**, not what it commemorates. Some colours belong almost entirely to one body; others are shared.
 
-| Colour | Usually indicates | In London |
+| Colour | In London | Usually indicates |
 | --- | --- | --- |
-| **Blue** | The official scheme, but also the City of London, Nubian Jak, the Heritage Foundation and several boroughs | 2,045 |
-| **Green** | Borough schemes, above all the City of Westminster | 296 |
-| **Black** | No single scheme — the Hampstead Plaque Fund and Westminster are the biggest users | 291 |
-| **Brown** | Hackney's scheme today; the Victorian originals before 1921 | 175 |
-| **Bronze, stone, white, grey** | Mostly one-off and institutional plaques | 384 combined |
-| **Film cell** (a strip of celluloid) | The British Film Institute, for people in film | 29 |
-| **Maroon** | The London Borough of Lewisham | 27 |
-| **Marble** | Often the Police Memorial Trust, for officers killed on duty | 12 |
-| **Red and black** | The Institution of Mechanical Engineers | 8 |
-| **Pink** | Highgate Heritage — all eight of them | 8 |
+| **Blue** | 2,045 | The official scheme, but also the City of London, Nubian Jak, the Heritage Foundation and several boroughs |
+| **Green** | 296 | Borough schemes, above all the City of Westminster |
+| **Black** | 291 | No single scheme — the Hampstead Plaque Fund and Westminster are the biggest users |
+| **Brown** | 175 | Hackney's scheme today; the Victorian originals before 1921 |
+| **Bronze, stone, white, grey** | 384 combined | Mostly one-off and institutional plaques |
+| **Film cell** (a strip of celluloid) | 29 | The British Film Institute, for people in film |
+| **Maroon** | 27 | The London Borough of Lewisham |
+| **Marble** | 12 | Often the Police Memorial Trust, for officers killed on duty |
+| **Red and black** | 8 | The Institution of Mechanical Engineers |
+| **Pink** | 8 | Highgate Heritage — all eight of them |
 
 ### Blue
 

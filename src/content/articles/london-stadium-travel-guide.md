@@ -26,7 +26,7 @@ faq:
   - q: "What is the bag policy at London Stadium?"
     a: "No bag bigger than A4. The stadium runs a 100% search policy on the way in, and there are no left luggage facilities on site at all, so plan not to be carrying one rather than hoping to check it somewhere."
   - q: "Is London Stadium only used for West Ham matches?"
-    a: "No — that's the point of it. It hosts an annual one-day athletics meet each summer (the Novuna London Athletics Meet ran on 18 July 2026), and stadium tours run on non-event days. No concerts are on sale for the rest of 2026 at the time of writing, but Fontaines D.C. are booked in for 2027, so treat it as a multi-purpose venue rather than a football ground that occasionally does something else."
+    a: "No — that's the point of it. It hosts an annual one-day athletics meet each summer (the Novuna London Athletics Meet ran on 18 July 2026), and stadium tours run on non-event days. As of September 2026 no concerts are on sale for the rest of the year, but Fontaines D.C. are booked in for 2027, so treat it as a multi-purpose venue rather than a football ground that occasionally does something else."
   - q: "Is there step-free access to London Stadium?"
     a: "Yes, extensively. There are 261 wheelchair-accessible viewing spaces across the four stands, step-free routes and lifts at all the approach stations, an accessible shuttle bus between Stratford, Stratford International and the stadium for registered users, and 41 Disabled Supporter Assistants plus 27 Supporter Liaison Officers on duty on a matchday. West Ham's accessibility team is on 0333 030 0174."
   - q: "Can you drink alcohol at London Stadium?"
@@ -141,7 +141,7 @@ This venue's event mix is unusually wide, and the club's own paperwork treats th
 
 *A full house for the Novuna London Athletics Meet — the same bowl a West Ham crowd fills on a match day.*
 
-**Concerts** are the least frequent case of all. At the time of writing, London Stadium has no music events on sale for the remainder of 2026 — the next confirmed one, Fontaines D.C., is booked for 2027. If a concert is announced for your dates, treat the general transport advice in this guide as the starting point and check the venue's own site for that specific event's doors and curfew times.
+**Concerts** are the least frequent case of all. As of September 2026, London Stadium has no music events on sale for the rest of the year — the next confirmed one, Fontaines D.C., is booked for 2027. If a concert is announced for your dates, treat the general transport advice in this guide as the starting point and check the venue's own site for that specific event's doors and curfew times.
 
 **Stadium tours** run on non-event days, covering the pitch and dressing rooms, and are a way to see London Stadium without the crowds at all.
 

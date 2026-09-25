@@ -5,6 +5,7 @@ description: "The pastel streets are not on Portobello Road. A walking route thr
 heroImage: "../../assets/articles/notting-hill-colourful-houses/hillgate-place-corner.jpg"
 heroImageAlt: "A corner terrace of small houses on Hillgate Place painted pale blue, red, cream and yellow under a clear sky"
 publishedAt: 2026-09-06
+reviewBy: 2027-03-01
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -31,7 +32,7 @@ This guide is a route through the eleven streets that actually have the colour, 
 
 It is deliberately only about the houses. For the market, the antique arcades, Golborne Road and where to eat, see our [Notting Hill area guide](/articles/notting-hill-area-guide/) — the two are designed to be walked on the same day.
 
-> 💡 **The Short Version:** Start at **Hillgate Place** — four minutes from Notting Hill Gate and the prettiest of the lot, with a fraction of the crowd. **Lancaster Road** has the strongest colours and the most photographers. **Lansdowne Road** and **Elgin Crescent** are the grand pale stucco version. And **Portobello Road** itself is shopfronts, not houses — which is why so many people leave disappointed. Go there for [the market](/articles/best-london-markets/), not the colour.
+> 💡 **The Short Version:** Start at **Hillgate Place** — two minutes from Notting Hill Gate and the prettiest of the lot, with a fraction of the crowd. **Lancaster Road** has the strongest colours and the most photographers. **Lansdowne Road** and **Elgin Crescent** are the grand pale stucco version. And **Portobello Road** itself is shopfronts, not houses — which is why so many people leave disappointed. Go there for [the market](/articles/best-london-markets/), not the colour.
 
 ## The route
 
@@ -50,7 +51,7 @@ It is deliberately only about the houses. For the market, the antique arcades, G
   </noscript>
 </details>
 
-**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.5081,-0.1963&destination=51.5178,-0.2028&waypoints=51.5086,-0.1971%7C51.5079,-0.1973%7C51.5078,-0.196%7C51.5085,-0.2094%7C51.513,-0.2077%7C51.5132,-0.2095%7C51.5123,-0.2044%7C51.5132,-0.2016%7C51.5177,-0.2054&travelmode=walking)** — all eleven streets in walking order, set to walking directions. Notting Hill Gate is two minutes from the first stop and Ladbroke Grove two minutes from the last. About 3.5km, or two hours at a photographing pace.
+**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.5081,-0.1963&destination=51.5178,-0.2028&waypoints=51.5086,-0.1971%7C51.5079,-0.1973%7C51.5078,-0.196%7C51.5085,-0.2094%7C51.513,-0.2077%7C51.5132,-0.2095%7C51.5123,-0.2044%7C51.5132,-0.2016%7C51.5177,-0.2054&travelmode=walking)** — all eleven streets in walking order, set to walking directions. Notting Hill Gate is two minutes from the first stop and Ladbroke Grove about eight minutes from the last. About 3.5km, or two hours at a photographing pace.
 
 | # | Street | What to look for |
 | --- | --- | --- |
@@ -70,11 +71,11 @@ It is deliberately only about the houses. For the market, the antique arcades, G
 
 ![A terrace of small houses on Farmer Street painted blue, pink and cream, with a classic car parked outside](../../assets/articles/notting-hill-colourful-houses/farmer-street-terrace.jpg)
 
-**Hillgate Village** is the name for a pocket of four short streets — Hillgate Place, Farmer Street, Hillgate Street and Jameson Street — immediately north-west of Notting Hill Gate station. The houses are small, two and three storeys, and painted in flat blocks of colour: pink, sage, butter, powder blue, a deep coral.
+**Hillgate Village** is the name for a pocket of four short streets — Hillgate Place, Farmer Street, Hillgate Street and Jameson Street — immediately south of Notting Hill Gate station. The houses are small, two and three storeys, and painted in flat blocks of colour: pink, sage, butter, powder blue, a deep coral.
 
-They are smaller than the stucco terraces elsewhere in Notting Hill because they were not built for the same people. This was workers' housing for the potteries and brickfields that gave Pottery Lane its name, thrown up in the 1850s on what was then the unfashionable edge of the district. The scale is the reason the colour works: on a three-storey cottage a strong colour reads as cheerful, where on a five-storey stucco terrace it would read as a mistake.
+They are smaller than the stucco terraces elsewhere in Notting Hill because they were not built for the same people. The streets were laid out on a former brickfield from 1851, and more than two hundred narrow houses went up within a decade, most of them shared by several working households. In the 1870s one observer called Johnson Street, now Hillgate Street, "a dingy, ill-favoured slum". The scale is the reason the colour works: on a three-storey cottage a strong colour reads as cheerful, where on a five-storey stucco terrace it would read as a mistake.
 
-The practical point is that they are **four minutes from a Central line station and almost empty**. Portobello Road is a fifteen-minute walk north and takes essentially all of the foot traffic. On a Friday afternoon in September there were two other people photographing here; the same afternoon on Lancaster Road there were about thirty.
+The practical point is that they are **two minutes from Notting Hill Gate station and almost empty**. Portobello Road is a fifteen-minute walk north and takes essentially all of the foot traffic. On a Friday afternoon in September there were two other people photographing here; the same afternoon on Lancaster Road there were about thirty.
 
 <div data-stay-strip></div>
 
@@ -108,7 +109,7 @@ The shortest of the four and the quickest to walk. Its corner house is a strong 
 
 ### 5. Portland Road
 
-Ten minutes south-west of Hillgate Village and a different kind of colour: **Portland Road** runs down to Clarendon Cross, where a cluster of painted shopfronts and small houses sits around a junction with no through traffic and no market. It is the quietest thing in this guide.
+Ten minutes west of Hillgate Village and a different kind of colour: **Portland Road** runs down to Clarendon Cross, where a cluster of painted shopfronts and small houses sits around a junction with no through traffic and no market. It is the quietest thing in this guide.
 
 Worth the detour mainly if you want somewhere to sit down. Clarendon Cross has a couple of cafes and the pace drops the moment you turn off Holland Park Avenue.
 
@@ -204,7 +205,7 @@ If you are chasing blossom rather than houses, the [parks and gardens guide](/ar
 
 **Start at Notting Hill Gate** (Central, District and Circle lines) and finish at **Ladbroke Grove** (Circle and Hammersmith & City). Walking it the other way works equally well but ends with the quietest streets, which is an anticlimax.
 
-**Weekday mornings are the quietest.** Saturday is Portobello Road's full market day, which is worth seeing on its own terms but pushes crowds out into the surrounding streets. Friday is the antiques day and busy but manageable. Sunday is the quietest of the weekend.
+**Weekday mornings are the quietest.** Saturday is Portobello Road's full market day, which is worth seeing on its own terms but pushes crowds out into the surrounding streets. Friday has some of the antiques dealers and is busy but manageable. Sunday is the quietest of the weekend.
 
 **On light**, this route was walked on a clear early September afternoon and the frontages on the Hillgate streets and Lancaster Road were lit from about two o'clock onwards. In midwinter, when the sun stays low, the narrow streets are in shade for much of the day.
 

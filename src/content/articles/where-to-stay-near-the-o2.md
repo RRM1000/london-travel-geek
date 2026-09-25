@@ -52,7 +52,7 @@ The O2 has one station, North Greenwich, on one Tube line, the Jubilee. So the u
 
 Canary Wharf is two minutes from North Greenwich, the first stop on the westbound Jubilee; our [Canary Wharf hotel guide](/articles/where-to-stay-canary-wharf/) has the full list. It's a business district, so its hotels fill Monday to Thursday and are cheapest on a Sunday night, which suits a Sunday show; Saturdays are not reliably cheaper. Our [Canary Wharf area guide](/articles/canary-wharf-area-guide/) covers where to eat before the show.
 
-**[Novotel London Canary Wharf](hotel:novotel-canary-wharf)** is about **£160** at 40 Marsh Wall, E14 9TP, six minutes' walk from the Jubilee station and 22 minutes door to door. Bōkan, the restaurant and bar on its top floors, is open to non-residents.
+**[Novotel London Canary Wharf](hotel:novotel-canary-wharf)** ran **£156 to £229** across five sampled nights at 40 Marsh Wall, E14 9TP, seven minutes' walk from the Jubilee station and 22 minutes door to door. Bōkan, the restaurant and bar on its top floors, is open to non-residents.
 
 <div class="photo-row">
 
@@ -198,7 +198,7 @@ London Bridge is four stops and eight or nine minutes west of North Greenwich, a
 
 *This room looks north-east over the Tower of London to Canary Wharf, not the south view of the entry-level Superiors.*
 
-**[citizenM London Bankside](hotel:citizenm-bankside)** is about **£160**: 192 identical rooms at 20 Lavington Street, SE1 0NZ, each with a wall-to-wall bed, for up to two adults. Southwark station is six minutes' walk away and The O2 about half an hour door to door.
+**[citizenM London Bankside](hotel:citizenm-bankside)** ran **£155 to £251** across five sampled nights: 192 identical rooms at 20 Lavington Street, SE1 0NZ, each with a wall-to-wall bed, for up to two adults. Southwark station is six minutes' walk away and The O2 about half an hour door to door.
 
 <div class="photo-row">
 
@@ -236,7 +236,7 @@ TfL doesn't add late trains for O2 events. If your show is due to finish after 2
 
 ## Staying next to The O2
 
-There are two hotels on the peninsula, and both reprice on a show night. These figures, from our [O2 travel guide](/articles/the-o2-travel-guide/), were taken on the operators' own booking engine in September 2026 for a standard single-headliner arena show on a Sunday:
+The two hotels nearest the arena both reprice on a show night. These figures, from our [O2 travel guide](/articles/the-o2-travel-guide/), were taken on the operators' own booking engine in September 2026 for a standard single-headliner arena show on a Sunday:
 
 | | Show night (Sunday) | Same Sunday, one week later |
 | --- | --- | --- |

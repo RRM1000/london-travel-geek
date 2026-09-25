@@ -3,7 +3,7 @@ title: "Halloween in London: Events, Parties and Where to Get a Costume"
 seoTitle: "Halloween in London 2026: Events, Parties and Costumes"
 description: "What to do in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours — plus where you can still hire a proper costume."
 publishedAt: 2026-08-29
-updatedAt: 2026-09-19
+updatedAt: 2026-09-25
 reviewBy: 2026-11-02
 sites:
   - london
@@ -53,13 +53,13 @@ For the traditional theme-park scare, three are genuinely worth the train fare.
 
 ### Thorpe Park: Fright Nights
 
-Chertsey, Surrey. Runs on selected dates from **2 October through to 1 November 2026**, park open 10am–9pm on event nights. Five mazes for 2026 — Tenement is new — plus scare zones including Rebel Ball and The Crows.
+Chertsey, Surrey. Runs **2–4 and 9–11 October, then 15 October to 1 November 2026**, park open 10am–9pm on event days. Five mazes for 2026 — Tenement is new — plus scare zones including Rebel Ball and The Crows.
 
 **Book online in advance**: park entry from **£39** (£66 at the gate), or entry plus the Fearsome Four maze package from **£71**. That package covers four of the five mazes, not the new Tenement, which is sold separately. Thorpe Park's own site warns that popular dates sell out — and **Saturday 31 October, Halloween itself, is the one to book earliest.** Mazes are recommended for **13 and over**; The Conjuring 4D Experience needs **15 and over**.
 
 ### Chessington: Howl'o'ween
 
-Surrey, next to Thorpe Park. Runs on selected dates **3 October to 1 November 2026**. This is the family-friendly version — no scare mazes, just Halloween shows, a "Vampire's Lair" zone and trick-or-treat trails, pitched at all ages rather than teenagers and adults.
+Surrey, next to Thorpe Park. Runs **3–4 and 10–11 October, then 17 October to 1 November 2026**. This is the family-friendly version — no scare mazes, just Halloween shows and a "Vampire's Lair" zone, pitched at all ages rather than teenagers and adults. The Enchanted Hollow trick-or-treat trail is an extra, from £9 a head.
 
 Advance day tickets from **£34**; under-90cm children go free.
 
@@ -79,7 +79,7 @@ Prices are dynamic and rise toward peak dates — expect **£43–£70** for a s
 
 If a maze is not your thing, London's independent cinemas run entire seasons around it.
 
-**The Prince Charles Cinema** in Leicester Square is the main event. Its **HorrOctober** season runs across the whole of October 2026, with horror films programmed in the schedule most days, building to two all-night marathons on **Saturday 24 October** — a Mystery Horror Marathon and a Classic Horror Marathon, both from around £20 — and the main event on **Saturday 31 October itself**: a Halloween Marathon running the *Halloween* franchise back to back through the night, **18+, on 35mm film**. Halloween day is also programmed with individual horror screenings from mid-morning onward, including *Nosferatu* with a live score.
+**The Prince Charles Cinema** in Leicester Square is the main event. Its **HorrOctober** season runs across the whole of October 2026, with horror films programmed in the schedule most days, building to two all-night marathons on **Saturday 24 October** — a Mystery Horror Marathon and a Classic Horror Marathon, both from around £20 — and the main event on **Saturday 31 October itself**: a Halloween Marathon running the first six *Halloween* films back to back from 11.15pm, **18+**. Halloween day is also programmed with individual screenings from 10am onward. Earlier in the season, *Nosferatu* plays with a live score on Friday 2 October.
 
 A few independents run smaller Halloween-night screenings worth knowing about: **Genesis Cinema** in Bethnal Green shows the original 1978 *Halloween* on the night itself, and **Rio Cinema** in Dalston runs a midnight *Rocky Horror Picture Show* singalong with a live shadow cast on 31 October.
 
@@ -89,25 +89,19 @@ A few independents run smaller Halloween-night screenings worth knowing about: *
 
 ## Theatre and immersive experiences
 
-One West End show is a horror title outright, two long-running shows do the job without needing a Halloween theme at all, and one production is a genuine immersive experience built for the season.
+One West End show is a horror title outright, and two long-running shows do the job without needing a Halloween theme at all.
 
 ### Paranormal Activity, Ambassadors Theatre
 
 ![Paranormal Activity key art for the stage adaptation at the Ambassadors Theatre](../../assets/articles/halloween-london/paranormal-activity-key-art.jpg)
 
-A stage adaptation of the horror film franchise, running at the Ambassadors until **7 November 2026** — so it covers Halloween but closes shortly after, unlike the longer-running shows on this list. It is a small venue, and a good fit for the night alongside the other shows here.
-
-It's a popular show, so it is likely to fill up over Halloween — book early.
-
-**The closing date is the thing to watch.** Because it finishes on 7 November, the Halloween week performances are the last chance rather than the middle of a long run, and they price and sell accordingly. If you specifically want it on the 31st, that is the most contested date in the run.
-
-The Ambassadors is a small West End house, which is the right scale for this — a horror premise in a thousand-seat theatre does not work the same way.
+A stage adaptation of the horror film franchise, booking at the Ambassadors until **2 January 2027**. The Ambassadors is one of the smallest West End houses, which suits a horror premise; book early for Halloween night itself.
 
 ### Stranger Things: The First Shadow, Phoenix Theatre
 
 ![Stranger Things: The First Shadow key art for the stage production at the Phoenix Theatre](../../assets/articles/halloween-london/stranger-things-first-shadow-key-art.jpg)
 
-Booking through **Sunday 27 December 2026**, so it comfortably covers Halloween. A prequel to the Netflix series, set in Hawkins in 1959, following young Jim Hopper, Bob Newby and Joyce Maldonado.
+The London run **ends on Wednesday 23 December 2026**, so it comfortably covers Halloween. A prequel to the Netflix series, set in Hawkins in 1959, following young Jim Hopper, Bob Newby and Joyce Maldonado.
 
 Performances run Tuesday to Saturday at 7pm, with matinees Friday and Saturday at 1pm and Sunday at 3pm. **Three hours including an interval.**
 
@@ -129,29 +123,17 @@ It is also the least frightening thing in this section by a distance: a comedy m
 
 <div data-stay-strip></div>
 
-### Silence, COLAB Theatre
-
-A **Halloween-specific immersive production** rather than a running show — you investigate a Southwark murder with Rev. Stanley Park, working through clues, a ritual and a puzzle while a vengeful spirit stalks the building. The premise is built around staying quiet: making a sound draws the spirit toward you.
-
-COLAB is a genuine immersive theatre company with a back catalogue of similar shows, rather than a seasonal pop-up — worth checking their site for exact October dates and prices before booking, since these productions tend to run for a fixed, short window.
-
 ### The Halloween Cabaret, The Scarlet Lotus
 
-*31 October only · 18+ · about 3.5 hours*
+*31 October only · 18+ · 2 to 3 hours*
 
 **The grown-up option, and the only thing in this guide that combines a Halloween theme with dinner and a full cabaret bill.** Burlesque, circus, aerial and fire performance, in a room styled for the night.
 
-**Two sittings on Saturday 31 October — an early show at 4.30pm and an evening show at 7.15pm** — which is worth knowing, because the early one is the easier ticket and the same show.
+**Two sittings on Saturday 31 October — an early show at 4pm and an evening show at 7pm.** The early one is the same show and the easier ticket.
 
-**Silver seats £49, down from £69**, with premium and front-row VIP tiers above that. **Cocktails are included**; roaming welcome canapés are a £40 supplement added after you have chosen seats, so the headline price is not the final one if you want food on arrival.
+**Silver seats £59, down from £69**, with premium and front-row VIP tiers above that. Roaming welcome canapés are a £40-a-head supplement added after you have chosen seats.
 
-**Recommended 18+.** Dressing up is encouraged rather than required, and the best-dressed guest wins a bottle of wine. Allow the full three and a half hours — this is an evening rather than a show you drop into. [Book via the London Cabaret Collective](https://londoncabaretcollective.co.uk/products/the-halloween-cabaret).
-
-### The Halloween Lecture, Royal Institution
-
-A spooky-science live show for families rather than a scare — eerie fog, pumpkins turned into light sources, and other demonstrations from the Ri's own team. Doors 6.45pm, talk from 7pm. **£16/£10 for the general theatre audience, £7 for Ri Members and Patrons.** Green Park is the nearest station, with step-free access throughout. The exact October date is not yet published — check the [Royal Institution's own listing](https://www.rigb.org/whats-on/halloween-lecture) closer to the time.
-
-It is worth knowing what this is not: there are no actors, no jump scares and nothing chasing anybody. It is a demonstration lecture in the Ri's famous tiered theatre, the same room the Christmas Lectures are filmed in, pitched at families who want the season without the fright. For a child who wants to join in with Halloween but would be genuinely upset by a scare maze, it is the one to pick.
+**Recommended 18+.** Dressing up is encouraged rather than required, and the best-dressed guest wins a bottle of wine. Allow two to three hours. [Book via the London Cabaret Collective](https://londoncabaretcollective.co.uk/products/the-halloween-cabaret).
 
 ### Halloween at Kew, Royal Botanic Gardens
 
@@ -181,7 +163,7 @@ Outside Halloween, our [guide to the best walking tours in London](/articles/bes
 
 Run by London's oldest walking-tour company for more than 50 years, and the closest thing to a definitive version. The guides are the draw — London Walks uses professional guides, several of them actors and historians, rather than a script handed to whoever is available.
 
-**£20, nightly at 7.30pm plus a Saturday 3pm matinee**, and it runs on Halloween night itself. **No need to book ahead — just turn up at Tower Hill station.**
+**£20 adult, £15 students and seniors, £5 children; nightly at 7.30pm plus a Saturday 3pm matinee**, and it runs on Halloween night itself. **No need to book ahead — just turn up at Tower Hill station.**
 
 That last point is the practical difference between this and the Ripper-Vision walk below. This one you can decide on at six o'clock and still do; that one you cannot. If Halloween night is already busy and you want something you can slot in without committing in advance, this is the one.
 
@@ -189,7 +171,7 @@ That last point is the practical difference between this and the Ripper-Vision w
 
 A more theatrical version: the guide carries a projector and puts **crime-scene photographs onto the actual walls where the murders happened**, which is the gimmick and, by most accounts, an effective one.
 
-**£18 adult, £10 child** — cheaper than London Walks and the only one of the two with a child price. Thursday to Sunday at 5pm and 7.30pm, Monday to Wednesday at 7.30pm only, and it runs on the night itself. It meets at **Aldgate East** rather than Tower Hill.
+**£18 adult, £10 child** — £2 less than London Walks for an adult. Thursday to Sunday at 5pm and 7.30pm, Monday to Wednesday at 7.30pm only, and it runs on the night itself. It meets at **Aldgate East** rather than Tower Hill.
 
 **Booking is required**, which is the trade-off: you get the better-reviewed walk — over 3,000 Tripadvisor reviews at 4.6 — but you have to commit in advance, and Halloween night sells out. The 5pm slot is the one people forget about, and in late October it is dark by then anyway.
 
@@ -247,8 +229,6 @@ Halloween falling on a Saturday means the big club nights are running at full st
 
 For something cheaper and looser, **93 Feet East** in Shoreditch and **Electric Ballroom** in Camden both run big Halloween nights from a few pounds on the door — both have sold out in previous years, so don't leave it too late.
 
-**London's LGBTQ+ scene usually goes big for Halloween**, but as of publication Heaven, G-A-Y and The Glory hadn't yet announced their October programming — check back in September for line-ups.
-
 ## More Halloween nights out
 
 Other Halloween nights booking across London in the week of 31 October.
@@ -287,15 +267,15 @@ The walk-in option, and much less formal. Their own wording is the useful part: 
 
 ## The week after
 
-**Bonfire Night is five days later**, and the two are effectively one season in London — several venues run Halloween until the 2nd and switch straight to fireworks. Our [Bonfire Night guide](/articles/bonfire-night-london/) has the display dates, what each one costs and the on-sale days worth diarising.
+**Bonfire Night is five days later**, on Thursday 5 November, though most of the big displays are on Saturday 7 November. The two are effectively one season in London — several venues run Halloween until the 2nd and switch straight to fireworks. Our [Bonfire Night guide](/articles/bonfire-night-london/) has the display dates, what each one costs and the on-sale days worth diarising.
 
 ## Free Halloween things
 
 Be honest with yourself about this one: **London does not have a strong trick-or-treat culture**, and there is no single marquee free citywide event the way there is for Bonfire Night. What free Halloween activity exists is scattered and hyperlocal — library events, community centres, and a handful of neighbourhood trails.
 
-**High Street Kensington runs the best-known free one.** Halloween Happenings is an annual, non-ticketed trail through the shopping district, typically running from around 24 to 31 October, with shop workshops, a gothic vintage flea market and a Halloween takeover of Holland Park on the day itself. Check [highstreetkensington.co.uk](https://highstreetkensington.co.uk/) closer to the date for the 2026 programme, since it is not published this far ahead.
+**High Street Kensington runs the best-known free one.** A Halloween trail through the shops runs in the last week of October, following a map with clues and treats. On Saturday 31 October the Big Kensington Vintage Flea goes gothic from 10am to 4.30pm, and from 4.30pm to 7.30pm Holland Park becomes the **Playful Park of Peculiar**, a one-way walk-through of characters, performers and lit installations. It is free, but you need a timed ticket from [High Street Ken's Halloween page](https://highstreetkensington.co.uk/halloween/playful-park-of-peculiar/); enter by the Holland Park gates on Kensington High Street, W8 7RG.
 
-**The free museums are your reliable fallback.** The British Museum, Natural History Museum, Wellcome Collection, Hunterian Museum and Sir John Soane's Museum are all free year-round, and several run half-term activity programmes that land right across Halloween week — the British Museum has previously run storytelling and Day of the Dead performances during the October half term. None has published its 2026 dates yet, so check each museum's own listings in October.
+**The free museums are your reliable fallback.** The British Museum, Natural History Museum, Wellcome Collection, Hunterian Museum and Sir John Soane's Museum are all free year-round, and several run half-term activity programmes that land right across Halloween week — the British Museum has previously run storytelling and Day of the Dead performances during the October half term. Each museum lists its half-term programme on its own site.
 
 **Planning the rest of your trip around October?** [Best Time to Visit London](/articles/best-time-to-visit-london/) covers the month's weather, crowds and cost against the rest of the year.
 

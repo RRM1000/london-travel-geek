@@ -1,7 +1,7 @@
 ---
 title: "Things to Do in London in September: The Month the City Gets Itself Back"
 seoTitle: "Things to Do in London in September 2026"
-description: "The Bayeux Tapestry arrives, Open House and the Design Festival run the same nine days, the Great River Race and the Last Night of the Proms share a Saturday, and four exhibitions close before the month is out."
+description: "The Bayeux Tapestry arrives, Open House and the Design Festival run the same nine days, the Great River Race and the Last Night of the Proms share a Saturday, and the Whistler retrospective at Tate Britain closes on the 27th."
 heroImage: "../../assets/articles/things-to-do-in-london-in-september/things-to-do-in-london-in-september.jpg"
 heroImageAlt: "Dozens of traditional rowing boats spread across the River Thames during the Great River Race, with the dome of St Paul's Cathedral and the City skyline behind, Blackfriars Bridge in the middle distance and spectators lining the embankment"
 heroImageCredit: "Motmit"
@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File%3AGreatRiverRace07.JPG
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 publishedAt: 2026-09-08
-updatedAt: 2026-09-13
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -27,12 +27,14 @@ faq:
   - q: "Can you still get tickets for the Last Night of the Proms?"
     a: "The 2026 concert was on 12 September and is over, but seats sell out far in advance every year, and the hall is never closed to you. Day Promming tickets — standing, in the arena or the gallery — go on sale at 9.30am on the day of the concert, two per person. Season ticket holders can redeem from 11am the day before. It is the cheapest way into the most oversubscribed classical concert in Britain and almost no guide mentions it."
   - q: "What exhibitions are closing in London in September 2026?"
-    a: "Four worth catching. Monet and Renoir: Painting Side by Side at the National Gallery closed on 15 September. Early Netherlandish drawings at the British Museum and Waldmüller: Landscapes at the National Gallery both closed on 20 September. James McNeill Whistler at Tate Britain closes on 27 September — still open, with a few days left."
+    a: "James McNeill Whistler at Tate Britain closes on Sunday 27 September. It is ticketed and free for Tate Members; book ahead for the final weekend."
   - q: "What is the weather like in London in September?"
     a: "Usually 19 to 21°C by day and around 12 to 13°C at night, cooling noticeably through the month, and historically one of the drier months. The practical point is that afternoons stay warm while evenings stop being reliable — take a jacket even on a hot day. Sunset moves from about 7.30pm at the start of the month to about 6.45pm by the end, so the last genuinely good evenings for river walks and outdoor drinking are the first three weeks."
 ---
 
 September is the month London stops performing for visitors and goes back to being a working city — and it is, for that reason, one of the two or three best months to be here.
+
+> 💡 **The Short Version:** **Whistler at Tate Britain closes on Sunday 27 September**, and **Totally Thames** runs along the river to the 30th. **Blue Note London**, the New York jazz club's first UK room, opened on St Martin's Lane on 23 September. On **Saturday 26 September** England play Spain at Wembley and the Red Roses play New Zealand at Twickenham. **Bayeux Tapestry** tickets at the British Museum are sold out to 31 December; the next general release is **21 October**.
 
 The schools go back in the first week. From around the 5th, the museums thin out, restaurant tables reappear and the South Bank stops being an obstacle course, while the weather usually holds well into the month. Sunset is still after seven for the first three weeks. It is August's weather with October's crowds.
 
@@ -132,31 +134,13 @@ What it means for a visitor is threefold: a schedule of open events and shopping
 
 ## Exhibitions closing this month
 
-### Monet and Renoir: Painting Side by Side — National Gallery, closed 15 September
-
-It was **free**.
-
-In the summer of 1869 Monet and Renoir — young, broke and close friends — set up their easels beside each other at **La Grenouillère**, a riverside resort outside Paris, and painted the same scene of Parisians at leisure. The National Gallery has **reunited the two resulting paintings for the first time in nearly twenty years**, with Renoir's canvas on loan from the Nationalmuseum in Stockholm.
-
-Two pictures, one room. The entire point is standing in front of them together and seeing two painters make completely different things from an identical view — which is exactly what reproductions cannot do, and why it is worth a specific trip rather than a browse.
-
-**Room 41, free, no booking.** It closed on **15 September**, after which Renoir's painting moved into the Gallery's *Renoir and Love* exhibition, which opens on 3 October — so the pairing is over, even though the picture stays in the building.
-
-**Waldmüller: Landscapes**, the National Gallery's other closer, ended on **20 September**: the Austrian painter's studies of the countryside around Vienna.
-
-### Early Netherlandish drawings — British Museum, closed 20 September
-
-It showed **around 120 drawings** from the Low Countries before 1600 — **Rogier van der Weyden, Lucas van Leyden, Pieter Bruegel the Elder and Hendrick Goltzius** — tracing the moment drawings stopped being preparatory studies and became works in their own right.
-
-Early Netherlandish drawings are **extremely rare**, because they were made as functional workshop objects and were not meant to survive. Works on paper can only be exhibited for short periods because light damages them permanently, so the sheets have now gone back into storage for years rather than months, and a survey on this scale — made possible by the British Museum's own holdings — is unlikely to be repeated soon.
-
 ### James McNeill Whistler — Tate Britain, closes 27 September
 
-The month's biggest closing show, with four days left, and **the first major European Whistler exhibition in thirty years**.
+The month's biggest closing show, ending on Sunday 27 September, and **the first major European Whistler exhibition in thirty years**.
 
 A full retrospective of the American who spent his career in London: **the famous paintings alongside works rarely or never shown**, running from his teens in St Petersburg through to the enigmatic late self-portraits, and taking in portraits, drawings, prints and designs. The Nocturnes are the reason most people come — *Old Battersea Bridge* among them — and they are the paintings that got him into a libel court arguing that a picture need not be a picture *of* anything.
 
-**Ticketed, and free for Tate Members**, which pays for itself quickly if you are going to two or more shows this autumn. Book ahead for a weekend — this is the one exhibition on this list where turning up on spec in the final fortnight is likely to fail.
+**Ticketed, and free for Tate Members**, which pays for itself quickly if you are going to two or more shows this autumn. Book ahead for the final weekend: turning up on spec is likely to fail.
 
 ## Exhibitions worth the trip
 
@@ -184,15 +168,15 @@ One piece of housekeeping that will date any older guide you read: **the Duke of
 
 Not a listings page — Songkick and DICE do that better. These are the shows worth building an evening around, and this month one of them is a building.
 
-### Blue Note London opens — St Martin's Lane, from 23 September
+### Blue Note London — St Martin's Lane, open since 23 September
 
 *Covent Garden · WC2N 4EJ*
 
-**The legendary New York jazz club opens its first UK venue**, on St Martin's Lane, joining a group that already runs rooms in New York, Los Angeles, Tokyo and Milan. It is the most consequential music opening London has had in years, and it is happening this month.
+**The New York jazz club opened its first UK venue** on St Martin's Lane on 23 September, joining a group that already runs rooms in New York, Los Angeles, Tokyo and Milan.
 
 The layout is the part worth knowing. There are **two rooms**: a **300-seat main room**, and **B-Side, a 130-seat space** for late sets, emerging artists and one-offs. That means **two shows a night, every night** — so a sold-out headliner does not close the building, and the B-Side programme is where the interesting risks will be taken. There is a full kitchen and a bar, with a cocktail list built on reimagined jazz-era classics.
 
-**The grand opening on 23 September is Robert Glasper, two shows at 7pm and 9.30pm, and it has sold out.** The rest of the opening run has not: **Sinead Harnett on the 25th, corto.alto on the 26th, Yussef Dayes on the 27th, and Jamie Cullum across the 28th and 29th**, with Nik West carrying it into October.
+**Robert Glasper played the sold-out opening night.** The rest of the opening run follows: **Sinead Harnett on the 25th, corto.alto on the 26th, Yussef Dayes on the 27th, and Jamie Cullum across the 28th and 29th**, with Nik West carrying it into October.
 
 Look further ahead before you book anything, because the October diary is extraordinary for a room that will be three weeks old: **Erykah Badu on the 10th and 11th**, Baaba Maal, **Nubya Garcia across the 15th to 17th**, and **Shabaka on the 19th and 20th**. If you are choosing a night, choose on the programme rather than the novelty.
 

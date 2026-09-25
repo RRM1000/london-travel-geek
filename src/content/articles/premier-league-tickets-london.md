@@ -23,13 +23,13 @@ tags:
 draft: false
 faq:
   - q: "Can tourists buy Premier League tickets in London?"
-    a: "Yes, but rarely by just buying a seat on a club website. Five of the six London clubs sell home league tickets to paying members first, and most fixtures sell out to them. Buy a membership — Crystal Palace Adult £25, Brentford Bees Overseas £30, Arsenal Red £38, Tottenham One Hotspur from £45, Chelsea CFC Blue £45, Fulham £50 — then enter that club's ballot or sale window. Fulham is the exception: its home matches reach a general sale, as the Crystal Palace fixture on 5 September 2026 did."
+    a: "Yes, but rarely by just buying a seat on a club website. Five of the six London clubs sell home league tickets to paying members first, and most fixtures sell out to them. Buy a membership — Crystal Palace Adult £25, Brentford Bees Overseas £30.30, Arsenal Red £38, Tottenham One Hotspur from £45, Chelsea CFC Blue £45, Fulham £50 — then enter that club's ballot or sale window. Fulham is the exception: its home matches reach a general sale, as the Crystal Palace fixture on 5 September 2026 did."
   - q: "Why can't I buy Premier League tickets?"
     a: "Season-ticket holders have most of the seats, and the rest go to paying members in priority order before anything reaches the public. Arsenal put 273,000 tickets into member ballots in 2025/26, more than 9,100 a match, and every competitive men's home fixture sold out to paid members. Tottenham says home tickets are 'unlikely to get to General Sale'. Brentford says a membership is, apart from a season ticket, 'the only way to purchase tickets for Premier League matches'."
   - q: "How much is a Premier League ticket in London?"
     a: "Roughly £40 to £145 for an ordinary seat, plus the membership. Arsenal's ballot for a Category A home match ran from £78 to £145.50. Chelsea's top Category AA band is £78 for an adult member in the East Upper, £66 in the Matthew Harding Lower and £27 for a restricted view, with general-sale seats £5 more. Brentford's overseas ballot charges £40.40 to £50.50 for an adult and £10.10 to £15.15 for a junior, depending on the fixture category."
   - q: "Which London club is easiest to get Premier League tickets for?"
-    a: "Fulham and Brentford. Fulham sells to members, then season-ticket holders wanting an extra seat, then anyone who has booked in the past five years, then on general sale — its home fixture against Crystal Palace on 5 September 2026 went to general sale, up to four tickets per person. Brentford holds back 100 tickets for every home Premier League match in a ballot for Bees Overseas members only, which costs £30 a season and needs no loyalty points."
+    a: "Fulham and Brentford. Fulham sells to members, then season-ticket holders wanting an extra seat, then anyone who has booked in the past five years, then on general sale — its home fixture against Crystal Palace on 5 September 2026 went to general sale, up to four tickets per person. Brentford holds back 100 tickets for every home Premier League match in a ballot for Bees Overseas members only, which costs £30.30 a season and needs no loyalty points."
   - q: "Is it illegal to buy football tickets from a tout in England?"
     a: "It is illegal to sell one. Under section 166 of the Criminal Justice and Public Order Act 1994, selling a ticket for a designated football match without the organisers' written authorisation is an offence, and 'sell' includes offering, advertising or bundling it with other goods. The fine is unlimited. Buying is not the offence, but the ticket is void and you will be turned away at the turnstile."
   - q: "Can I use StubHub or Viagogo to buy Premier League tickets?"
@@ -54,9 +54,9 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 ---
 
-At five of the six London clubs in the Premier League, the home end sells out to season-ticket holders and paying members weeks ahead and the sale rarely reaches the public. There are still four or five legitimate routes in, and none of them involves the man outside the station.
+At five of the six London clubs in the Premier League, the home end sells out to season-ticket holders and paying members weeks ahead and the sale rarely reaches the public. There are still legitimate routes in, and none of them involves the man outside the station.
 
-> 💡 **The Short Version:** **You almost certainly cannot just buy a ticket.** Home league tickets at **Arsenal, Chelsea, Tottenham, Crystal Palace and Brentford** go to paying members first and rarely get past them. So buy the membership — **Crystal Palace Adult £25**, **Brentford Bees Overseas £30**, **Arsenal Red £38**, **Tottenham One Hotspur from £45**, **Chelsea CFC Blue £45**, **Fulham £50** — and enter that club's ballot or sale window, usually **four to eight weeks** before the match. The seat itself costs **£40–£145**. **Fulham is the one club that reaches a real general sale**, and **Brentford holds back 100 tickets per home game** for overseas members. For a sold-out match the only lawful resale is the club's **own exchange**: selling a football ticket any other way is a **criminal offence**, and the ticket will not scan. **Hospitality** always works and needs no membership, **from £285 plus VAT** at Selhurst Park. And **Championship and League One London clubs sell to anyone**: Charlton from **£20**, Bromley from **£25**.
+> 💡 **The Short Version:** **You almost certainly cannot just buy a ticket.** Home league tickets at **Arsenal, Chelsea, Tottenham, Crystal Palace and Brentford** go to paying members first and rarely get past them. So buy the membership — **Crystal Palace Adult £25**, **Brentford Bees Overseas £30.30**, **Arsenal Red £38**, **Tottenham One Hotspur from £45**, **Chelsea CFC Blue £45**, **Fulham £50** — and enter that club's ballot or sale window, usually **four to eight weeks** before the match. The seat itself costs **£40–£145**. **Fulham is the one club that reaches a real general sale**, and **Brentford holds back 100 tickets per home game** for overseas members. For a sold-out match the only lawful resale is the club's **own exchange**: selling a football ticket any other way is a **criminal offence**, and the ticket will not scan. **Hospitality** always works and needs no membership, **from £285 plus VAT** at Selhurst Park. And **Championship and League One London clubs sell to anyone**: Charlton from **£20**, Bromley from **£25**.
 
 ---
 
@@ -95,9 +95,9 @@ New Premier League rules mean **every seat sold is registered, by name, to the p
 | **Arsenal** | **Red, £38** (Silver £59, capped) | Ballot opens ~7 weeks out, closes after 3 days | None. Home tickets are balloted "exclusively for Arsenal Members" |
 | **Chelsea** | **CFC Blue, £45** (True Blue £60, True Blue+ £80) | Application window opens **~42 days** before each fixture | Effectively none for the league. Domestic cup home ties have a general-sale phase |
 | **Tottenham** | **One Hotspur, from £45** (One Hotspur+ from £60) | Members' on-sale, five home games at a time | Very low. The club says home games are "unlikely to get to General Sale" |
-| **Crystal Palace** | **Adult, £25** (Gold £60, International from £35) | Gold first, all members three days later, guest tickets a week after that | Only as a member's guest in the third sale phase, or via hospitality |
+| **Crystal Palace** | **Adult, £25** (Gold £60, International from £35) | Gold first, all members three days later, guest tickets five days after that | Only as a member's guest in the third sale phase, or via hospitality |
 | **Fulham** | **Membership, £50** (Membership+ £65) | Members, then season-ticket holders, then booking history, then **general sale** | Real. The Crystal Palace fixture on 5 September 2026 reached general sale |
-| **Brentford** | **Bees Overseas, £30** (UK adult £45) | Overseas ballot closes 72 hours after kick-off is confirmed | None, but the overseas ballot needs no loyalty points |
+| **Brentford** | **Bees Overseas, £30.30** (UK adult £45.45) | Overseas ballot closes 72 hours after kick-off is confirmed | None, but the overseas ballot needs no loyalty points |
 
 ---
 
@@ -105,7 +105,7 @@ New Premier League rules mean **every seat sold is registered, by name, to the p
 
 **Emirates Stadium, N5.** Home tickets are sold by ballot, open only to members. There is no public sale.
 
-![Supporters packing Emirates Stadium with the pitch prepared before kick-off](../../assets/articles/premier-league-tickets-london/emirates-stadium-arsenal.jpg)
+![The outside of Emirates Stadium, with the mural of Arsenal players above the entrance steps and the Match Day Box Office at street level](../../assets/articles/premier-league-tickets-london/emirates-stadium-arsenal.jpg)
 
 | Membership | Price for 2026/27 | What it gets you |
 | --- | --- | --- |
@@ -240,7 +240,7 @@ Fulham's [2026/27 membership](https://www.fulhamfc.com/tickets-and-hospitality/m
 
 ![Teams lined up on the pitch at Gtech Community Stadium ahead of a Premier League match](../../assets/articles/premier-league-tickets-london/brentford-community-stadium.jpg)
 
-**My Bees memberships for 2026/27**, prices frozen on last season: **Adult £45**, 18–24 **£30**, Bee Team (3–10) **£20**, Swarm (11–17) **£20**, Babees (2 and under) £10, and **[Bees Overseas £30](https://www.brentfordfc.com/en/memberships-2026-27)**.
+**My Bees memberships for 2026/27**, prices frozen on last season: **Adult £45.45**, 18–24 **£30.30**, Bee Team (3–10) **£20.20**, Swarm (11–17) **£20.20**, Babees (2 and under) £10.10, and **[Bees Overseas £30.30](https://www.brentfordfc.com/en/memberships-2026-27)**.
 
 **The Bees Overseas ballot** gets **100 tickets** for every home Premier League fixture.
 
@@ -361,7 +361,7 @@ League Cup and FA Cup home ties can reach general sale. Chelsea's cup phases end
 ## On the day
 
 - **Bring photo ID.** A name mismatch at the turnstile gets you stopped. Chelsea may ask for ID on any general-sale ticket, and Brentford hands over overseas ballot tickets only against it.
-- **Check the ticket is assigned to you.** One bought by a member or season-ticket holder has to be transferred to your account before the deadline: 24 hours before kick-off at Crystal Palace, three hours at Chelsea and Arsenal. An unassigned ticket does not scan.
+- **Check the ticket is assigned to you.** One bought by a member or season-ticket holder has to be transferred to your account before the deadline: 24 hours before kick-off at Crystal Palace, three hours at Chelsea. An unassigned ticket does not scan.
 - **Stay out of the away end.** Chelsea will not sell general-sale tickets to non-members "who appear to be supporters of the opposition club", and every club can eject a visiting supporter found in a home area. With no allegiance, sit in the home end and behave accordingly.
 - **Children sit next to an adult.** Chelsea requires under-16s to attend with and sit next to someone 18 or over; Arsenal requires children 13 and under to sit within reaching distance of an adult 18 or over. Both cancel bookings that break the rule.
 - **No alcohol in sight of the pitch.** [It is an offence](https://www.legislation.gov.uk/ukpga/1985/57/section/2) to have a drink anywhere the match can be seen, or to arrive drunk. Concourse bars serve up to kick-off and at half-time; drink there.

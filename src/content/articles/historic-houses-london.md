@@ -139,7 +139,7 @@ The Courtaulds' half gives you a **circular entrance hall** lit from above and p
 
 Nineteen acres of garden outside, with a rock garden, a sunken rose garden and **London's oldest working bridge** over the moat.
 
-**Book online by midnight the day before to pay £17 rather than £20 on the door.** The catch is the calendar: it runs daily through the summer, but from **early November to mid-February it opens weekends only**, and it closes early on some Saturdays for weddings. **The lift is out of order** at the time of writing — ask staff about the alternative.
+**Book online by midnight the day before to pay £17 rather than £20 on the door.** The catch is the calendar: it runs daily through the summer, but from **early November to mid-February it opens weekends only**, and it closes early on some Saturdays for weddings. **The lift is out of order** (September 2026) — ask staff about the alternative.
 
 ### Kensington Palace
 
@@ -191,7 +191,7 @@ Included with admission: talks every half hour from 11am to 4pm, a daily history
 
 **The scaffold-level ceiling tours are gone.** What replaced them is the **Secret Dome Tour** — six people at a time, up into Wren's dome, £48 — and it is **125 steps you must climb unaided**, with no step-free alternative.
 
-**Open daily 10am–5pm, but it closes for events far more often than people expect**, sometimes all day and sometimes from mid-afternoon. Check the closures page for your date. **The lift is out of order** at the time of writing, leaving 50 steps in four flights.
+**Open daily 10am–5pm, but it closes for events far more often than people expect**, sometimes all day and sometimes from mid-afternoon. Check the closures page for your date. **The lift is out of order** (September 2026), leaving 50 steps in four flights.
 
 ![The painted ceiling of the Painted Hall at Greenwich, crowded with baroque figures](../../assets/articles/historic-houses-london/painted-hall-ceiling.jpg)
 

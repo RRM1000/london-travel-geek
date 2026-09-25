@@ -30,9 +30,7 @@ faq:
     a: "Take the Piccadilly line to Earl's Court with no change; Templeton Garden, four minutes from the station, puts the journey at around 45 minutes. For the hotels by Kensington Gardens, change at Earl's Court onto the District line for High Street Kensington, one stop north."
 ---
 
-This guide covers Kensington west of the museums: **Kensington High Street and the edge of Kensington Gardens**, the terraces of **Earl's Court** to the south, the **Cromwell Road** hotels between them, and **Olympia** on the Hammersmith side. It stops short of the museum streets, which have [their own guide](/articles/where-to-stay-south-kensington/).
-
-The prices fall as you walk south. By the palace, The Milestone is about **£550** a night; in Earl's Court, doubles at Mowbray Court and The Rockwell run about **£120**, and Barmy Badger sells dorm beds with breakfast included.
+This guide covers Kensington west of the museums: **Kensington High Street and the edge of Kensington Gardens**, the terraces of **Earl's Court** to the south, the **Cromwell Road** hotels between them, and **Olympia** on the Hammersmith side. It stops short of the museum streets, which have [their own guide](/articles/where-to-stay-south-kensington/). Prices fall as you walk south, from the palace to Earl's Court.
 
 > 💡 **The Short Version:** For Kensington Gardens, **[The Milestone](hotel:the-milestone-hotel)** faces Kensington Palace, at about £550, with a family suite built around bunk beds and a pool guests use free. For a big hotel by the high street, **[Copthorne Tara](hotelscom:h26145)** has 833 rooms three minutes from High Street Kensington. On a budget, **Mowbray Court** in Earl's Court is about £119, with a lift and air conditioning; **The Edwin** and **Twenty Nevern Square** include breakfast. For a kitchen, **Ember Locke** on Cromwell Road has 121 studios and family suites sleeping four. For a show or trade fair at Olympia, **[Hyatt Regency London Olympia](hotel:hyatt-regency-london-olympia)**, one minute from the station, at about £220.
 
@@ -46,7 +44,7 @@ The prices fall as you walk south. By the palace, The Milestone is about **£550
 
 **Cromwell Road** is the A4, the main road running east from Earl's Court towards Gloucester Road and the museums. Its hotels are well placed and loud: ask for a room at the back.
 
-**Olympia and West Kensington** is the western edge, round the rebuilt exhibition centre. It now has a new hotel, a music venue and a rooftop of bars.
+**Olympia and West Kensington** is the western edge, round the rebuilt exhibition centre, which now has new hotels, a music venue and a rooftop of bars.
 
 Our [Kensington area guide](/articles/kensington-area-guide/) covers what to see and where to eat.
 
@@ -112,7 +110,7 @@ Bugis Kitchen serves Singaporean and Malaysian dishes, there is a 24-hour gym an
 
 *££ · 134–136 Lexham Gardens, W8 6JE · Earl's Court 5 min · [londonlodgehotel.com](hotel:london-lodge-hotel)*
 
-Two Victorian houses built in 1880 and joined, run by Mandy and Bernard since 1996, on a quiet street between Earl's Court and the high street. **There are steps up to the front door, then a lift to every floor**, which most townhouses this size lack.
+Two Victorian houses built in 1880 and joined, run by Mandy and Bernard since 1996, on a quiet street between Earl's Court and the high street. **There are steps up to the front door, then a lift to every floor.**
 
 ![A twin room at London Lodge Hotel with two single beds against a striped velvet headboard, teal cushions, patterned curtains, a mahogany desk and a wall-mounted air-conditioning unit](../../assets/articles/where-to-stay-kensington/london-lodge-hotel-room.jpg)
 
@@ -138,7 +136,7 @@ Private rooms and the female dorms are en-suite. **There is no guest kitchen**, 
 
 *££ · 156 rooms · 1–15 Templeton Place, SW5 9NB · Earl's Court 4 min · [Hotels.com](hotel:templeton-garden)*
 
-A Miiro hotel of 156 rooms with interiors by the London studio Thurstan. **Many rooms have balconies**, others look over the hotel's private garden, and the Templeton Garden Suites open onto a garden of their own. Junior Suites have a four-poster bed.
+A Miiro hotel of 156 rooms with interiors by the London studio Thurstan. **Many rooms have balconies**, others look over the hotel's private garden, and the Templeton Garden Suites have a private garden or open onto the main one. Both suite grades have four-poster beds.
 
 <div class="photo-row">
 
@@ -248,8 +246,6 @@ A family-run hostel on a residential street, open since 1997, with 48 beds and n
 
 ## Hotels on Cromwell Road
 
-Cromwell Road runs east from Earl's Court to Gloucester Road, with the Natural History Museum at the far end. All three hotels here face it, so ask for a room at the back.
-
 ### The Rockwell — a garden, a bar and about £120
 
 *About £120 · 181–183 Cromwell Road, SW5 0SF · Earl's Court 5 min · [Hotels.com](hotelscom:296058)*
@@ -306,7 +302,7 @@ EVE, the on-site restaurant, serves New York-style pizza. There is a gym, a co-w
 
 Olympia's £1.3 billion rebuild opened in stages through 2026. **British Airways ARC**, a 3,800-capacity music venue run by AEG Presents, opened on 16 June 2026; our [live music venues guide](/articles/best-live-music-venues-london/) covers it. The 1,575-seat British Airways Theatre follows in 2027.
 
-**Check the trains before an event.** The District line runs between Earl's Court and Kensington (Olympia) at weekends only; on weekdays, change at West Brompton for a two-minute London Overground ride. The westbound Piccadilly line platform at Barons Court is closed for maintenance from 6 July 2026, and Olympia advises West Kensington, a 12-minute walk on the District line, or Hammersmith instead.
+**Check the trains before an event.** The District line runs between Earl's Court and Kensington (Olympia) at weekends only; on weekdays, change at West Brompton for a two-minute London Overground ride. The westbound platform at Barons Court is closed for maintenance from 6 July 2026 until later in the year, and Olympia advises West Kensington, a 12-minute walk on the District line, or Hammersmith instead.
 
 ### Hyatt Regency London Olympia — inside the rebuilt Olympia
 
@@ -324,7 +320,7 @@ Opened in July 2026 inside the Olympia rebuild, a minute from the station and th
 
 *Left: a king room with a window across West London. Right: the bathroom of an accessible room, a level-entry wet room with a fold-down shower seat.*
 
-**This is the hotel for an event at Olympia.** For sightseeing elsewhere in London, the Earl's Court hotels have the better Tube.
+For sightseeing elsewhere in London, the Earl's Court hotels have the better Tube.
 
 ### Premier Inn London Kensington (Olympia) — air conditioning in every room
 
@@ -360,4 +356,4 @@ Unlike the Earl's Court branch, this one has **air conditioning in every room**.
 
 **Heathrow:** the Piccadilly line from Earl's Court, no change. Our [Heathrow to London guide](/articles/heathrow-airport-to-london/) compares it with the Elizabeth line and the Heathrow Express from Paddington.
 
-*Typical nightly rates for a double, from our Hotels sheet or the rates sampled for our budget hotels guide, checked 24 September 2026. The £ symbols mark a price band where we have no typical rate. Walking times come from the hotels where they give them. Prices move nightly, so check your own dates.*
+*Typical nightly rates for a double, checked 24 September 2026; the £ symbols mark a price band. Walking times come from the hotels where they give them. Prices move nightly, so check your own dates.*

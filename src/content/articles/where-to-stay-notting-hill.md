@@ -27,7 +27,7 @@ faq:
   - q: "Which Notting Hill and Bayswater hotels suit families?"
     a: "Royal Lancaster London sells family rooms of two interconnecting rooms with two bathrooms. Inhabit, Queen's Gardens has Family rooms of four single beds, and The Columbia has family rooms with two double beds and quads. Blakemore Hyde Park's Family Suite takes two adults and two children, and Vancouver Hotel and Studios has a three-bedroom garden apartment for six. Rule out The Portobello Hotel, where every room takes two people and children count as one, and The Lost Poet, which takes children aged 12 and over."
   - q: "How do I get from Heathrow to Notting Hill?"
-    a: "Take the Heathrow Express or the Elizabeth line to Paddington. From there the Circle or District line is one stop to Bayswater and two to Notting Hill Gate, and the Lancaster Gate hotels are a seven- to nine-minute walk from the station. The Heathrow Express takes 15 minutes to Paddington."
+    a: "Take the Heathrow Express or the Elizabeth line to Paddington. From there the Circle or District line is one stop to Bayswater and two to Notting Hill Gate, and the Lancaster Gate hotels are a six- to seven-minute walk from the station. The Heathrow Express takes 15 minutes to Paddington."
 ---
 
 Notting Hill and Bayswater are one stretch of stucco streets along the north side of Kensington Gardens, from Lancaster Gate in the east to Portobello Road in the west. Notting Hill is where the boutique hotels are. Bayswater, ten minutes' walk east, is where most of the rooms are and where the prices drop.
@@ -72,7 +72,7 @@ Rooms are named like a house's: **Spare Room Singles of 16 square metres**, Spar
 
 ### Ruby Zoe — the carnival-themed one on the main road
 
-*££ · 146–164 Notting Hill Gate, W11 3QG · Notting Hill Gate 4 min · Check-in 3pm, out 11am · [check prices](hotel:ruby-zoe)*
+*££ · 146–164 Notting Hill Gate, W11 3QG · Notting Hill Gate 4 min · Check-in 3pm, out 11am · [Hotels.com](hotel:ruby-zoe)*
 
 Ruby calls its format Lean Luxury: compact rooms, with the money spent on the bed and the bar. Here the decoration is Caribbean colour and carnival costume, with instruments and speakers placed around the building. It is sold through IHG, so **IHG One Rewards points apply**. The minimum check-in age is 18.
 
@@ -82,7 +82,7 @@ Ruby calls its format Lean Luxury: compact rooms, with the money spent on the be
 
 ### The Lost Poet — four rooms at the top of Portobello Road
 
-*£££ · 6 Portobello Road, W11 3DG · Notting Hill Gate 4 min · Breakfast included · [check prices](hotel:the-lost-poet)*
+*£££ · 6 Portobello Road, W11 3DG · Notting Hill Gate 4 min · Breakfast included · [thelostpoet.co.uk](hotel:the-lost-poet)*
 
 A Victorian townhouse at the Notting Hill Gate end of the market, with four rooms done in bold wallpapers, modern art and wood panelling reclaimed from school science labs. Breakfast comes from local cafés and patisseries, in a "naughty" or a vegan and gluten-free "nice" version.
 
@@ -120,14 +120,14 @@ Rooms are graded Good (15 square metres, at the front on the ground and second f
 
 Two rules decide it:
 
-- **Every room sleeps two people at most, and a child of any age counts as one.** Families need two rooms.
+- **Every room sleeps two people at most, and a child of any age counts as one.** A baby can stay only by prior arrangement, so families need two rooms.
 - **A Saturday night means a two-night minimum**, and the hotel may ask for three over a bank holiday, including Carnival weekend.
 
 ## Hotels on the Bayswater squares
 
 ### The Princess Royal — four bedrooms above a pub
 
-*£££ · 47 Hereford Road, W2 5AH · Bayswater 9 min · [check prices](hotel:the-princess-royal-notting-hill)*
+*£££ · 47 Hereford Road, W2 5AH · Bayswater 9 min · [cubitthouse.co.uk](hotel:the-princess-royal-notting-hill)*
 
 A Cubitt House pub off Westbourne Grove, with four bedrooms upstairs named after princesses, sold as doubles and cosy doubles. Downstairs there is a conservatory, two terraces planted by the garden designer Jinny Blom, a raw bar and a kitchen serving from 8am. It is a working pub with two private dining rooms: book it for the pub, not for early nights.
 
@@ -187,7 +187,7 @@ A hotel since 1954, in a listed Victorian house on the same square. It sells sin
 
 ### Onefam Notting Hill — the hostel with a free dinner
 
-*Hostel · 63 Prince's Square, W2 4PX · Bayswater 6 min · [check prices](hotel:onefam-notting-hill)*
+*Hostel · 63 Prince's Square, W2 4PX · Bayswater 6 min · [onefamhostels.com](hotel:onefam-notting-hill)*
 
 A hostel run around a **free family dinner every evening**, plus a daily outing and a night out. Dorms are four, six and eight-bed mixed rooms with curtained pod beds and a locker each, and there is a private twin and a private double, both with shared bathrooms. Sheets are included, towels rented, and there is no curfew. Our [hostels guide](/articles/best-hostels-london/) compares it with the rest of London's.
 
@@ -215,7 +215,7 @@ On the same square as Onefam, from a Barcelona hostel group. **The London hostel
 
 ### Six Senses London — the old Whiteleys
 
-*About £700 · 1 Redan Place, W2 4SA · Bayswater 5 min · Breakfast extra · [check prices](hotel:six-senses-london)*
+*About £700 · 1 Redan Place, W2 4SA · Bayswater 5 min · Breakfast extra · [Hotels.com](hotel:six-senses-london)*
 
 109 rooms and suites inside The Whiteley, the rebuilt Whiteleys department store at the top of Queensway. **The spa is the reason to pay this**: it is built underground, designed to recall an old Tube station, with cryotherapy and flotation alongside the treatment rooms. Whiteley's Kitchen, Bar and Café is the restaurant, and hotel guests can use Six Senses Place, the members' club in the building.
 
@@ -299,7 +299,7 @@ Rooms are small at the bottom and generous at the top: singles and small doubles
 
 ### Royal Lancaster London — 411 rooms on the park edge
 
-*£££ · Lancaster Terrace, W2 2TY · Lancaster Gate 1 min, Paddington 9 min · [Hotels.com](hotel:royal-lancaster-london)*
+*£££ · Lancaster Terrace, W2 2TY · Lancaster Gate 1 min, Paddington 6 min · [Hotels.com](hotel:royal-lancaster-london)*
 
 A tower opened in 1967 on the edge of the park, opposite the Italian Gardens, and still independently owned. The upper floors look over the park to the skyline. **Classic Family rooms are two rooms with an interconnecting door and two marble bathrooms**, and children's amenities come on request; our [family hotels guide](/articles/best-family-hotels-london/) compares it with the others. Nipa Thai, run by an all-Thai kitchen, is the restaurant, and there is afternoon tea; our [afternoon tea guide](/articles/best-afternoon-tea-london/) covers where else to book one.
 
@@ -345,7 +345,7 @@ The side streets between Queensway and Paddington are lined with small hotels in
 - **Whether there is a lift.** Vancouver has none, and neither does The Lost Poet.
 - **Whether the bathroom is in the room.** Garden Court sells a single with its bathroom outside it, and at Urbany every bathroom is shared.
 
-For a private room on a budget, Vancouver's studios start at £97 and Space Apart's at about £140, both with kitchens. Our [budget hotels guide](/articles/best-budget-hotels-london/) covers the cheapest options across London, and our [aparthotels guide](/articles/aparthotels-london/) compares studios with kitchens.
+Our [budget hotels guide](/articles/best-budget-hotels-london/) covers the cheapest options across London, and our [aparthotels guide](/articles/aparthotels-london/) compares studios with kitchens.
 
 ## Getting in and out
 

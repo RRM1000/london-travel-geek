@@ -186,8 +186,6 @@ The eleven branches above between them produced thirteen winning pubs — five g
 | West Middlesex *(2025)* | The Dodo Micropub | Hanwell, Ealing | One-room free house, up to 5 changing cask ales on gravity dispense |
 | Croydon & Sutton *(Croydon side)* | The Dark Horse | Selhurst | Reopened July 2025, independent family pub, three changing cask ales |
 
-*Two more London branches, East London & City and South West Essex, had not published a current-year result at the time of this pass.*
-
 ---
 
 ## Also strongly backed

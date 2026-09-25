@@ -405,25 +405,25 @@ Everything here is a genuinely good meal well under what the postcode suggests.
 
 Backed by the sources but not written up above, either because only two guides name them or because they sit further out.
 
-| Restaurant | Area | Price | What it is | Cited by |
+| Restaurant | Area | Price | Cited by | What it is |
 | --- | --- | --- | --- | --- |
-| **Norma** | Fitzrovia | £££ | *(see above)* — Sicilian, and the one the critics disagree about | 4 sources |
-| **The Italian Greyhound** | Marylebone | £££ | A Marylebone dining room named by three mastheads and almost no one else | 3 sources |
-| **Eataly** | City of London | ££ | Italian marketplace by Liverpool Street — several counters, one roof | 3 sources |
-| **Il Gattopardo** | Mayfair | £££ | Southern Italian fine dining in a Mayfair townhouse, with a fixed-price lunch | 2 sources |
-| **Daphne's** | Chelsea | £££ | A Draycott Avenue fixture since 1964, with a glass-roofed back room | 2 sources |
-| **Sette** | Knightsbridge | ££££ | Italian-American in the Bulgari hotel, priced for the postcode | 2 sources |
-| **Como Garden** | Kensington | £££ | Lake Como cooking under a retractable glass roof and a lot of foliage | 2 sources |
-| **Bar Italia** | Soho | £ | Frith Street since 1949, open almost around the clock, coffee rather than dinner | 2 sources |
-| **Ombra** | Bethnal Green | ££ | Venetian cooking on the Regent's Canal, cicchetti and short pastas | 2 sources |
-| **40 Dean Street** | Soho | ££ | An old-school Soho favourite, lobster ravioli and no reinvention | 2 sources |
-| **Bardo St James's** | St James's | £££ | Opulent room near the National Gallery, with live classical evenings | 2 sources |
-| **Casa Tua** | Camden | ££ | Small independent family kitchen; the carbonara is the one people go for | 2 sources |
-| **Al Boccon di'vino** | Richmond | £££ | No menu at all — course after course of whatever is cooked that night | 2 sources |
-| **Langosteria London** | Westminster | ££££ | The Milan seafood group inside the Old War Office on Whitehall | — |
-| **Sale e Pepe Mare** | Marylebone | ££££ | Ligurian seafood in The Langham; cacio e pepe finished in the wheel | — |
-| **Ornella** | London Fields | ££ | *(see above)* — Milanese, a neighbourhood restaurant rather than a destination | — |
-| **Macellaio RC** | South Kensington | £££ | *(see above)* — Piedmontese Fassona beef, cut to order | — |
+| **Norma** | Fitzrovia | £££ | 4 sources | *(see above)* — Sicilian, and the one the critics disagree about |
+| **The Italian Greyhound** | Marylebone | £££ | 3 sources | A Marylebone dining room named by three mastheads and almost no one else |
+| **Eataly** | City of London | ££ | 3 sources | Italian marketplace by Liverpool Street — several counters, one roof |
+| **Il Gattopardo** | Mayfair | £££ | 2 sources | Southern Italian fine dining in a Mayfair townhouse, with a fixed-price lunch |
+| **Daphne's** | Chelsea | £££ | 2 sources | A Draycott Avenue fixture since 1964, with a glass-roofed back room |
+| **Sette** | Knightsbridge | ££££ | 2 sources | Italian-American in the Bulgari hotel, priced for the postcode |
+| **Como Garden** | Kensington | £££ | 2 sources | Lake Como cooking under a retractable glass roof and a lot of foliage |
+| **Bar Italia** | Soho | £ | 2 sources | Frith Street since 1949, open almost around the clock, coffee rather than dinner |
+| **Ombra** | Bethnal Green | ££ | 2 sources | Venetian cooking on the Regent's Canal, cicchetti and short pastas |
+| **40 Dean Street** | Soho | ££ | 2 sources | An old-school Soho favourite, lobster ravioli and no reinvention |
+| **Bardo St James's** | St James's | £££ | 2 sources | Opulent room near the National Gallery, with live classical evenings |
+| **Casa Tua** | Camden | ££ | 2 sources | Small independent family kitchen; the carbonara is the one people go for |
+| **Al Boccon di'vino** | Richmond | £££ | 2 sources | No menu at all — course after course of whatever is cooked that night |
+| **Langosteria London** | Westminster | ££££ | — | The Milan seafood group inside the Old War Office on Whitehall |
+| **Sale e Pepe Mare** | Marylebone | ££££ | — | Ligurian seafood in The Langham; cacio e pepe finished in the wheel |
+| **Ornella** | London Fields | ££ | — | *(see above)* — Milanese, a neighbourhood restaurant rather than a destination |
+| **Macellaio RC** | South Kensington | £££ | — | *(see above)* — Piedmontese Fassona beef, cut to order |
 
 ![The neon frontage of Bar Italia on Frith Street at night](../../assets/articles/best-italian-restaurants-london/bar-italia.jpg)
 

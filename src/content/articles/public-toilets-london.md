@@ -3,6 +3,7 @@ title: "Public Toilets in London: The Free Ones, the Paid Ones, and Where Else t
 seoTitle: "Public Toilets in London 2026: Free, Paid & By Area"
 description: "Which London toilets are free, which charge and how much, plus the museums, department stores and pubs that quietly let anyone use theirs — organised by area, built from the UK's own public toilet database."
 publishedAt: 2026-09-01
+reviewBy: 2027-03-31
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -10,9 +11,9 @@ tags: [practical info, free things to do, toilets, plan your trip]
 draft: false
 faq:
   - q: "Are public toilets free in London?"
-    a: "Most are. Of the London facilities logged on the Great British Public Toilet Map, roughly 85% carry no charge. The exceptions are consistent: all eight Royal Parks charge a flat 20p, several market toilets charge up to £1, and a handful of standalone blocks charge 20p-50p."
+    a: "Most are. Of the London facilities logged on the Great British Public Toilet Map, roughly 85% carry no charge. The exceptions are consistent: all eight Royal Parks charge a flat 20p, Trafalgar Square charges 20p, the Camden markets charge up to £1, and a handful of standalone blocks charge 20p to £1."
   - q: "Do you have to pay to use the toilet at a London train station?"
-    a: "Not any more, as far as we could verify. We checked the official pages for King's Cross, Euston, Paddington, Victoria, Liverpool Street, Waterloo, London Bridge, Charing Cross and St Pancras International, and none currently states a toilet charge — a change from the coin-turnstile era some of these stations used to have."
+    a: "No. Network Rail scrapped toilet charges at the 20 stations it runs itself, which include King's Cross, Euston, Paddington, Victoria, Liverpool Street, Waterloo, London Bridge and Charing Cross. St Pancras International's toilets are free too, and so are TfL's own Tube station toilets, though some of those are inside the ticket gates."
   - q: "Can I use a shop's toilet in London without buying anything?"
     a: "At a Community Toilet Scheme venue, yes by design — councils including Camden and the City of London pay local pubs, cafes and libraries to let anyone in without a purchase. Elsewhere it's down to the venue: big free museums have toilets open to all visitors, and department stores generally don't publish a stated policy either way."
   - q: "What is the RADAR key and do I need one?"
@@ -29,7 +30,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 
 Nobody plans a London trip around this until the moment they need one, and then it's the only thing that matters. What follows comes from the Great British Public Toilet Map's own database — the crowdsourced, council-fed dataset that most toilet-finder apps run on — plus the official pages for the parks, boroughs and venues that operate them.
 
-> 💡 **The Short Version:** About **85% of London's logged public toilets are free**. The main things that charge are the **Royal Parks (a flat 20p, card only)** and a few **market toilets (up to £1)** — no major train station currently charges. **Community Toilet Scheme** pubs, cafes and libraries let anyone in without buying anything, and every major free museum has toilets open to all visitors.
+> 💡 **The Short Version:** About **85% of London's logged public toilets are free**. The main things that charge are the **Royal Parks (a flat 20p, card only)**, **Trafalgar Square (20p)** and the **Camden markets (up to £1)**. Mainline station toilets and TfL's own Tube station toilets are free. **Community Toilet Scheme** pubs, cafes and libraries let anyone in without buying anything, and every major free museum has toilets open to all visitors.
 
 
 ---
@@ -38,23 +39,19 @@ Nobody plans a London trip around this until the moment they need one, and then 
 
 | Where | Charge | Notes |
 | --- | --- | --- |
-| **All 8 Royal Parks** (Hyde Park, Regent's Park, St James's Park, Green Park, Kensington Gardens, Richmond Park, Greenwich Park, Bushy Park) | **20p** | Contactless/card only — the parks removed cash payment, so bring a card or phone wallet specifically for this |
-| **Camden Market, Stables Market &amp; Hawley Wharf** | **Up to £1** | Toilets are by the canal side at each site |
+| **All 8 Royal Parks** (Hyde Park, Regent's Park, St James's Park, Green Park, Kensington Gardens, Richmond Park, Greenwich Park, Bushy Park) | **20p** | Contactless card or phone only; cash is no longer accepted |
+| **Camden Market, Stables Market &amp; Hawley Wharf** | **Up to £1** | Hawley Wharf has a Changing Places toilet |
 | **Camden Lock Market** | 40p | Standalone, accessible |
-| **Victoria Embankment Gardens** | £1 | Full accessible and Changing Places provision |
-| **Piccadilly Circus (inside the Tube station)** | £1 | — |
+| **Victoria Embankment Gardens** (Villiers Street) | £1 | Daily 7am–8.30pm; accessible toilet on a RADAR key |
+| **Piccadilly Circus (inside the Tube station)** | £1 | 7am–11pm Monday to Saturday, 10am–8pm Sunday |
 | **Cutty Sark Gardens, Greenwich** | 50p | **Free for RADAR key holders** |
 | **Greenwich Park, Lower Avenue** | 20p | Seasonal hours |
 | **Kensington Gardens, Flower Walk** | 20p | Contactless tap only |
-| **Trafalgar Square public toilets** (WC2N 5DS) | 20p | Reported to open free during large events on the square |
-| **The Jubiloo, Jubilee Gardens** | £1 | Right by the South Bank carousel and the London Eye, open daily |
-| **Parliament Street, Westminster** (exit 6 of Westminster station) | £1 | Baby change and ambulant cubicles |
-| **Islington Green, Essex Road** | 40p | ⚠️ Under construction and frequently out of order — don't rely on this one |
-| **St Paul's Cathedral, Serpentine Gallery, Barbican Centre, Angel Centre, Islington Central Library, one Borough Market toilet** | Charges apply | Amount not published by any of these venues — bring change and a card |
+| **Trafalgar Square public toilets** (west side, at the foot of the central staircase) | 20p | Daily 10am–8pm; contactless accepted; accessible toilet and baby change |
+| **The Jubiloo, Jubilee Gardens** | £1 | North-west corner of the gardens by the London Eye; open from 10am daily |
+| **Parliament Street, Westminster** (exit 6 of Westminster station) | £1 | Daily 7.30am–8.30pm; baby change and ambulant cubicles |
 
-**No major terminus publishes a toilet charge.** We checked the official Network Rail pages for King's Cross, Euston, Paddington, Victoria, Liverpool Street, Waterloo, London Bridge, Charing Cross and St Pancras International — all list toilet locations, none mentions a fee. This is a real change from the coin-turnstile era some of these stations used to run.
-
-**Paddington's Platform 12 toilets are free — the showers next to them are £5.**
+**Station toilets are free.** Network Rail no longer charges at the 20 stations it runs, which include King's Cross, Euston, Paddington, Victoria, Liverpool Street, Waterloo, London Bridge and Charing Cross, and St Pancras International's toilets are free as well. [TfL](https://tfl.gov.uk/help-and-contact/public-toilets-in-london) says its own Tube station toilets are free too. Some are inside the ticket gates, so you tap in and out, and ones TfL doesn't run, such as Piccadilly Circus, can charge.
 
 ---
 
@@ -66,20 +63,18 @@ Pulled from the same database, filtered to active listings only.
 
 **Trafalgar Square &amp; the West End**
 - **National Gallery** and **National Portrait Gallery** — free with general admission, no ticket needed for the toilets themselves
-- **Leicester Square** — below-ground block, open 8am–midnight, steps only, no accessible option
+- **Jubilee Hall, Covent Garden** — daily 8am–7.30pm. Westminster's Covent Garden and Leicester Square toilets are closed, and this and Piccadilly Circus are its nearest alternatives
 - **Charing Cross Library** — ground floor only
 
 **South Bank &amp; Waterloo**
 - **Waterloo Station, Main Concourse** — opposite platform 18
 - **Royal Festival Hall** — on all four floors
 - **Imperial War Museum** — free entry, free toilets, closed only 24–26 December
-- **Borough Market** — one free toilet at the corner of the delivery yard on Winchester Walk (a second, inside the market seating area, charges)
-- **Gabriel's Wharf** — informal; you may need to ask in one of the shops
+- **Borough Market** — in Three Crown Square, Borough Market Kitchen and the Market Hall, open during trading hours; the accessible toilets need no RADAR key
 
 **Camden**
 - **Camden Town Hall** (Judd Street entrance) — includes a Changing Places toilet
-- **Camden Town public toilets** — two below-ground blocks on the High Street/Parkway, recently refurbished, seasonal hours (roughly 9am–7.45pm summer, 9am–5.45pm winter)
-- **Primrose Hill Park**
+- **Camden Town public toilets** — the men's under the traffic island where Camden High Street meets Parkway, the women's on Parkway; 9am–7.45pm June to October, 9am–5.45pm November to May
 
 **King's Cross**
 - **King's Cross Station** — Upper Mezzanine, and a second one between Platform 9 and the Harry Potter Shop
@@ -90,14 +85,11 @@ Pulled from the same database, filtered to active listings only.
 
 **Greenwich**
 - **National Maritime Museum**
-- **Greenwich Park Café**
-- **Rockery Toilets, Blackheath Gate** — explicitly "no charge," with a drinking fountain alongside
 
 **Shoreditch, Hackney &amp; Tower Hamlets**
 - **Old Spitalfields Market** — opposite the Flying Tiger shop
 - **Broadgate Shopping Centre** — includes a Changing Places toilet
-- **Museum of London**
-- **Barbican Centre** — charges apply here (amount not published)
+- **Barbican Centre** — on most levels, including accessible and gender-neutral toilets
 
 **Notting Hill, Kensington &amp; Bayswater**
 - **Holland Park** — baby change both sides
@@ -112,17 +104,15 @@ Pulled from the same database, filtered to active listings only.
 **Richmond &amp; Kew**
 - **Marble Hill Park**
 - **Kew Gardens** — two of the three toilets nearest the gardens are free-standing and free; the third is inside the gate, so you'd pay Kew's entrance fee to reach it
-- ⚠️ **Richmond Station toilets** are logged as closed for refurbishment since October 2023 — don't plan around them without checking first
 
 **Islington &amp; Angel**
 - **Chapel Market** — 8am–6pm daily
-- **Islington Green** — see the pay table above; frequently out of order despite being listed
 
 ---
 
 ## The Community Toilet Scheme: free at pubs, cafes and libraries
 
-This is a real, named UK council scheme, not an informal courtesy. Camden's own wording: they pay participating businesses **up to £750 a year** to let the public use their toilet **"without the need to buy goods or services."** The City of London runs an identically-named scheme with its own interactive map. Southwark runs the same idea under a different name — asking businesses "to make their toilets available to all, without the need to be paying customers." Westminster and Islington don't use the "Community Toilet Scheme" name, but point residents to the same Great British Public Toilet Map and a "Toilets4London" app for the same effect.
+This is a real, named UK council scheme, not an informal courtesy. Camden's own wording: they pay participating businesses **up to £750 a year** to let the public use their toilet **"without the need to buy goods or services."** The City of London runs an identically-named scheme with its own interactive map. Southwark runs the same idea under a different name — asking businesses "to make their toilets available to all, without the need to be paying customers." Westminster points people to the Great British Public Toilet Map instead, and Islington to the same map and the Toilets4London app.
 
 There is no sticker or window decal marking a participating premises, so if you are not sure, just ask.
 
@@ -154,7 +144,7 @@ Every major free-entry museum in London has toilets open to any visitor — you 
 
 ## The RADAR key, and where it gets you in free
 
-Locked accessible toilets across the UK often use the same lock — the **National Key Scheme**, opened with what's universally called a **RADAR key**. It costs **£5 (£6 including VAT)** plus **£1.75 postage** from Disability Rights UK, and once you have one it works nationwide, not just in London.
+Locked accessible toilets across the UK often use the same lock — the **National Key Scheme**, opened with what's universally called a **RADAR key**. It costs **£5**, or £6 if you pay VAT, plus **£1.75 postage** from Disability Rights UK, and once you have one it works nationwide, not just in London.
 
 In this guide specifically, a RADAR key gets you into the accessible-only toilet at **Canary Wharf's Jubilee line station**, and waives the usual 50p charge at **Cutty Sark Gardens** in Greenwich.
 
@@ -180,8 +170,7 @@ Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman'
 
 ## What to know before you go
 
-* **Royal Parks toilets are card and contactless only.** Cash was phased out — if you're relying on one, make sure you have a card or phone wallet on you.
-* **A few listings are stale.** Richmond Station's toilets and Islington Green's have both been reported closed or unreliable well after being logged as active — treat any single listing as a plan, not a guarantee, especially for something you're relying on.
+* **Royal Parks toilets are card and contactless only.** Cash is no longer accepted, so carry a card or phone wallet.
 * **Some toilets are seasonal.** Camden's High Street blocks and Greenwich Park's Lower Avenue toilet both run shorter hours in winter.
 * **"Free" and "no purchase necessary" aren't the same claim.** A Community Toilet Scheme venue explicitly welcomes non-customers; a department store or independent café simply hasn't published a policy either way, so use your judgement.
 * **Accessible toilets often need a RADAR key**, not just a different door — worth carrying one if you'll need it more than once.
@@ -202,4 +191,4 @@ Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman'
 
 ---
 
-*Prices and opening hours change, and a handful of the facilities above have been reported closed or unreliable despite showing as active on the source database — check the Great British Public Toilet Map for the latest status of any single toilet you're planning around.*
+*Charges and opening hours checked in September 2026. The Great British Public Toilet Map shows the current status of any single toilet you're planning around.*

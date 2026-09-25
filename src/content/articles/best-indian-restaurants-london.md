@@ -430,24 +430,24 @@ The split most guides blur. A 1970s Tooting curry house and a Mayfair tasting me
 
 Restaurants the sources back that did not earn a full entry, either because only one or two guides name them or because they sit further out.
 
-| Restaurant | Area | Price | What it is | Cited by |
+| Restaurant | Area | Price | Cited by | What it is |
 | --- | --- | --- | --- | --- |
-| **Gunpowder** | Spitalfields | ££ | Sharing plates, confidently seasoned and clearly defined | 3 sources |
-| **The Tamil Crown** | Islington | ££ | A Tamil kitchen inside a Victorian pub. Sibling to The Tamil Prince | 2 sources |
-| **Tamila** | Clapham | ££ | Tamil home cooking, picked up by both the Good Food Guide and Time Out | 2 sources |
-| **Bombay Bustle** | Mayfair | £££ | Bombay tiffin-culture cooking from the Jamavar group | 2 sources |
-| **Pahli Hill** | Fitzrovia | £££ | Bombay small plates, with a basement bar that runs later than the dining room | 2 sources |
-| **Kahani** | Chelsea | £££ | Peter Joseph's kitchen, in the BIGFG top 100 | 2 sources |
-| **Heritage** | Dulwich | £££ | Modern compositions backed by discipline and technique | 2 sources |
-| **Shiuli** | Twickenham | £££ | Contemporary Indian from a two-Michelin-star chef, well outside the centre | 2 sources |
-| **Masala Zone** | Piccadilly | ££ | Thalis and street-food plates well below Mayfair prices, from the Amaya group | 2 sources |
-| **Fatt Pundit** | Covent Garden | ££ | Indian-Chinese Hakka cooking, which barely exists elsewhere in London | 2 sources |
-| **Thecha** | — | ££ | Maharashtrian cooking named for the chilli-and-garlic relish | 2 sources |
-| **Udaya Kerala** | East Ham | ££ | Appam, coastal fish and coconut, out where the Keralan community actually eats | 2 sources |
-| **Hyderabadi Spice** | East Ham | ££ | Hyderabadi biryani treated as its own tradition rather than as a side dish | 2 sources |
-| **Madhu's** | Southall | ££ | Kenyan-Punjabi cooking, and Southall's most consistently named kitchen | 2 sources |
-| **Shankeys** | Homerton | ££ | Named by both The Infatuation and Time Out, a narrow overlap to land in | 2 sources |
-| **Asher's Africana** | Wembley | ££ | East African Indian cooking, a tradition with almost no other London representative | 2 sources |
+| **Gunpowder** | Spitalfields | ££ | 3 sources | Sharing plates, confidently seasoned and clearly defined |
+| **The Tamil Crown** | Islington | ££ | 2 sources | A Tamil kitchen inside a Victorian pub. Sibling to The Tamil Prince |
+| **Tamila** | Clapham | ££ | 2 sources | Tamil home cooking, picked up by both the Good Food Guide and Time Out |
+| **Bombay Bustle** | Mayfair | £££ | 2 sources | Bombay tiffin-culture cooking from the Jamavar group |
+| **Pahli Hill** | Fitzrovia | £££ | 2 sources | Bombay small plates, with a basement bar that runs later than the dining room |
+| **Kahani** | Chelsea | £££ | 2 sources | Peter Joseph's kitchen, in the BIGFG top 100 |
+| **Heritage** | Dulwich | £££ | 2 sources | Modern compositions backed by discipline and technique |
+| **Shiuli** | Twickenham | £££ | 2 sources | Contemporary Indian from a two-Michelin-star chef, well outside the centre |
+| **Masala Zone** | Piccadilly | ££ | 2 sources | Thalis and street-food plates well below Mayfair prices, from the Amaya group |
+| **Fatt Pundit** | Covent Garden | ££ | 2 sources | Indian-Chinese Hakka cooking, which barely exists elsewhere in London |
+| **Thecha** | — | ££ | 2 sources | Maharashtrian cooking named for the chilli-and-garlic relish |
+| **Udaya Kerala** | East Ham | ££ | 2 sources | Appam, coastal fish and coconut, out where the Keralan community actually eats |
+| **Hyderabadi Spice** | East Ham | ££ | 2 sources | Hyderabadi biryani treated as its own tradition rather than as a side dish |
+| **Madhu's** | Southall | ££ | 2 sources | Kenyan-Punjabi cooking, and Southall's most consistently named kitchen |
+| **Shankeys** | Homerton | ££ | 2 sources | Named by both The Infatuation and Time Out, a narrow overlap to land in |
+| **Asher's Africana** | Wembley | ££ | 2 sources | East African Indian cooking, a tradition with almost no other London representative |
 
 [See all 50 Indian restaurants →](/restaurants/cuisine/indian) · [See all 6 Pakistani restaurants →](/restaurants/cuisine/pakistani)
 

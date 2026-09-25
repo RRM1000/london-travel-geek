@@ -179,7 +179,7 @@ Most of the grand interiors were filmed outside London, in Somerset, Wiltshire, 
 
 Bath stands in for Regency London's Grosvenor Square. Our [Bath day trip guide](/articles/bath-day-trip/) covers the Roman Baths, the trains and the rest of the city; here is the Bridgerton layer on top of it.
 
-> ⚠️ **The Assembly Rooms are closed.** The National Trust's own site is blunt: **"Bath Assembly Rooms is now closed for renovations. We look forward to welcoming visitors back in 2027."** This is the Tea Room where Daphne Bridgerton and the Duke of Hastings meet for the first time in series one, and where Lady Danbury's first ball of the season plays out in *Queen Charlotte*. **Bennett Street, Bath, BA1 2QH.** Checked 15 September 2026.
+> ⚠️ **The Assembly Rooms are closed.** The National Trust's own site is blunt: **"Bath Assembly Rooms is now closed for renovations. We look forward to welcoming visitors back in 2027."** This is the Tea Room where Daphne Bridgerton and the Duke of Hastings meet for the first time in series one, and where Lady Danbury's first ball of the season plays out in *Queen Charlotte*. **Bennett Street, Bath, BA1 2QH.**
 
 The **Holburne Museum**, at the top of Great Pulteney Street, played **Lady Danbury's estate** and is open regardless: its permanent collection is free, daily, 10am–5pm (Sunday and bank holidays 11am–5pm, last admission 4.30pm), with special exhibitions from £16.50 (£8 reduced). **No.1 Royal Crescent**, Bath's period-furnished show house, stood in for **Grosvenor Square** — already priced in our Bath guide at £16 for adults, closed Mondays. The **Guildhall** hosted a further ball scene in series one.
 
@@ -191,7 +191,7 @@ It is also still a family home — the Earl of Pembroke's family occupies roughl
 
 ### Hatfield House, Hertfordshire
 
-Hatfield's interior played the **Featheringtons' house** in series one and reappears in *Queen Charlotte*. **Checked 15 September 2026: Hatfield House itself is closed for the season** — the house reopens in spring — but the **Gardens and Park stay open Wednesday to Sunday, 10:30am–5pm, until 27 September 2026**, after which they close too. When the house is open, a combined House, Garden and Park ticket is **£27 adult, £13.50 child**; garden and park alone are **£17 adult, £8.50 child**. **Hatfield Park, Hatfield, Hertfordshire, AL9 5NB**, about 25 minutes from London King's Cross.
+Hatfield's interior played the **Featheringtons' house** in series one and reappears in *Queen Charlotte*. **Hatfield House itself is closed for the season** — the house reopens in spring — but the **Gardens and Park stay open Wednesday to Sunday, 10:30am–5pm, until 27 September 2026**, after which they close too. When the house is open, a combined House, Garden and Park ticket is **£27 adult, £13.50 child**; garden and park alone are **£17 adult, £8.50 child**. **Hatfield Park, Hatfield, Hertfordshire, AL9 5NB**, about 25 minutes from London King's Cross.
 
 ![Hatfield House, a red-brick Jacobean mansion with a central white clock tower, seen across its clipped garden hedges](../../assets/articles/bridgerton-london/hatfield-house.jpg)
 *The house reappears in the prequel, Queen Charlotte: A Bridgerton Story, as well as in series one.*

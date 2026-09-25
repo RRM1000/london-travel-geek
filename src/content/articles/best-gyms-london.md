@@ -5,6 +5,7 @@ description: "Every London gym chain on the terms it buries — Fitness4Less at 
 heroImage: "../../assets/articles/best-gyms-london/uk-fitness-club.jpg"
 heroImageAlt: "UK Fitness Club's East Ham gym floor under blue light: neon chevrons across a black ceiling, a long row of cross-trainers down the right and resistance machines along the left"
 publishedAt: 2026-09-10
+reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -22,16 +23,16 @@ faq:
   - q: "Do London gyms charge a joining fee?"
     a: "Almost all of them. Virgin Active charges £25 to £250 depending on the club, and roughly doubles it if you take a rolling contract rather than twelve months. Nuffield charges £29. Third Space charges £100. Better charges a £12.50 setup fee. JD Gyms is the only chain of any size in London where no joining fee is a standing policy rather than a limited-time offer."
   - q: "Can I use a London gym for a day without joining?"
-    a: "Yes, at most of them. The Gym Group sells a day pass from £9.99 to £16.99 depending on the club, JD Gyms £10.99 to £11.99, Snap Fitness £15, and Better £15 for a day or £30 for a week at most centres. PureGym sells passes from one to thirty days with no sign-up fee. A single public swim is usually cheaper still — £3.20 off-peak at Crystal Palace, £6.40 at London Fields Lido, £5.00 in the Hampstead ponds."
+    a: "Yes, at most of them. The Gym Group sells a day pass from £9.99 to £16.99 depending on the club, JD Gyms £10.99 to £12.99, Snap Fitness £15, and Better £15 for a day or £30 for a week at most centres. PureGym sells passes from one to thirty days with no sign-up fee. A single public swim is usually cheaper still — £3.20 off-peak at Crystal Palace, £6.40 at London Fields Lido, £5.00 in the Hampstead ponds."
   - q: "Is pay-as-you-go cheaper than a gym membership?"
     a: "More often than the operators admit. At Britannia in Hackney, two swims a week for a year costs £522.90 on pay-as-you-go against £672.50 on a membership — pay-as-you-go wins by £150, and the membership only pulls level at about three visits a week. Everyone Active's own FAQ says membership wins from twice a week; on Better's published numbers that is optimistic."
 ---
 
 Nearly every "best gyms in London" page is earning a referral fee on the sign-up. That shapes what gets printed, and what does not: the joining fee, the clause that lets one chain move you onto a dearer club's rate, and the fact that **the cheapest way to swim in London costs £3.20 and involves no membership at all**.
 
-Every figure below was **read off the operator's own website or the council's own website on 9 September 2026** — no comparison sites, no affiliate roundups.
+Every figure below comes **from the operator's own website or the council's own website, in September 2026** — no comparison sites, no affiliate roundups.
 
-> 💡 **The Short Version:** **Public leisure is not automatically cheaper.** Better runs **£34.25** at Phoenix to **£60.00** at Vauxhall, dearer than most commercial chains. Where public wins outright is casual swimming — **£3.20** at Crystal Palace against **£26–£35** for a single boutique class. The cheapest membership in London is **Fitness4Less at £20**, flat across all three clubs including one in Zone 1. **The joining fee is where the advertised price stops being the price:** Virgin Active charges **£25 to £250** depending on the club, and doubles it if you go rolling. **JD Gyms is the only chain in London with a genuine standing no-fee policy.** And if you swim twice a week, **pay-as-you-go beats the membership** — by **£150 a year** at Britannia.
+> 💡 **The Short Version:** **Public leisure is not automatically cheaper.** Better runs **£34.25** at Phoenix to **£60.00** at Vauxhall, dearer than most commercial chains. Where public wins outright is casual swimming — **£3.20** at Crystal Palace against **£26–£35** for a single boutique class. The cheapest membership in London is **Fitness4Less at £20**, flat across all three clubs including one in Zone 1. **The joining fee is where the advertised price stops being the price:** Virgin Active charges **£25 to £250** depending on the club, and roughly doubles it if you go rolling. **JD Gyms is the only chain in London with a genuine standing no-fee policy.** And if you swim twice a week, **pay-as-you-go beats the membership** — by **£150 a year** at Britannia.
 
 > ⚠️ **The resident discount is the biggest number on this page.** A Camden resident pays **£54.10** a year for a Better Pay As You Go card. A non-resident pays **£109.40** for the same card — roughly double. In Kensington and Chelsea the card is **free** to residents and **£37** to everybody else. Southwark residents swim and use the gym free at set times. Check your own borough before you sign anything.
 
@@ -43,24 +44,24 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 
 | Brand | London sites | Monthly | Joining fee | Contract | Pool |
 | --- | --- | --- | --- | --- | --- |
-| **Fitness4Less** | 3 | **£20.00** flat | Charged, half price today, amount not published | No contract | No |
+| **Fitness4Less** | 3 | **£20.00** flat | Charged; waived on monthly plans 16–30 September 2026 | No contract | No |
 | **PureGym** | 87 | £22.99–£49.99 | £0–£25; commonest is £15 | Rolling, or fixed term | No |
 | **The Gym Group** | 87 | £23.99–£39.99 | £0, £10, £15 or £20 | Rolling, or 9/12-month saver | No |
 | **JD Gyms** | 3 | £25.99–£34.99 | **None, as standing policy** | Rolling, or 14-months-for-12 | No |
 | **UK Fitness Club** | 3 | £25.99–£29.99 | £15 or £20 | No contract, or 6/12 months upfront | No |
-| **énergie Fitness** | 18 | Not published | £0 at all 18 today, framed as an offer | Both offered | No |
+| **énergie Fitness** | 18 | Not published | £0 at all 18 in September 2026, framed as an offer | Both offered | No |
 | **Snap Fitness** | 10 | Not published | £30, waived at some clubs | Rolling or fixed term | No |
-| **Bannatyne** | 4 | £49.99–£69.99 | Charged, half price today, amount not published | Not published | Yes, all four |
+| **Bannatyne** | 4 | £49.99–£69.99 | Waived at all four in the October 2026 offer | Not published | Yes, all four |
 | **Fitness First** | 17 | £54–£120 | Charged, amount never published | Minimum term, or monthly | 7 of 17 |
 | **Nuffield Health** | 33 | £77–£137 | **£29** (£39 at three City clubs) | 12 months, or rolling | **31 of 33** |
-| **Everlast Gyms** | 1 | From £100 | £20, waived today | Not published | Yes, Chiswick |
+| **Everlast Gyms** | 1 | From £100 | £20, waived in September 2026 | Not published | Yes, Chiswick |
 | **Gymbox** | 10 | £82–£141 | £30; £0–£10 on longer terms | 12 months, 3 months or rolling | No |
 | **Virgin Active** | 32 | £160–£300 | **£25–£250** | 12 months, or rolling | Almost every club |
 | **Third Space** | 17 | £257–£345 | £100 (£200 all-clubs) | Rolling on notice, fixed term sold | 11 of 17 |
 | **David Lloyd** | 20 | Not published | Not published | 12 months, or 3 months | **Yes, every club** |
 | **Equinox** | 3 | Not published | Not published | Not published | None listed at Kensington |
 | **Be Well** (Tower Hamlets) | 7 | £15.00–£99.00 | **None** | No contract | 4 of 5 pools open |
-| **Everyone Active** | 12 | £30.00–£75.99 | £0 today | No contract, month in advance | Most centres |
+| **Everyone Active** | 12 | £30.00–£75.99 | £0 in September 2026 | No contract, month in advance | Most centres |
 | **Move Southwark** | 8 | £31.99–£61.49 | £25 | Not stated | Most centres |
 | **Better (GLL)** | 85 | £34.25–£72.00 | £12.50 setup | No minimum term monthly | 53+ centres |
 | **Places Leisure** | 11 | £35.00–£75.00 | Folded into the first payment | No minimum term | Most Wandsworth sites |
@@ -78,13 +79,13 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 
 *PureGym runs 87 London clubs and prices every one of them separately — this floor could be £22.99 or £49.99 depending which postcode it is in.*
 
-**Fitness4Less is the sharpest price in central London.** Three clubs — Canning Town, Cambridge Heath and Southwark — all at **£20.00 a month**, including a site on Great Suffolk Street two minutes from Southwark Underground. PureGym charges £41.99 in Holborn and The Gym Group £39.99 at Monument. Two caveats: there is a joining fee, permanently advertised at half price, and the amount is not published; and the monthly rate is the only one published, with no short-term, annual or off-peak price. Canning Town runs 05:00–01:00 Monday to Thursday.
+**Fitness4Less is the sharpest price in central London.** Three clubs — Canning Town, Cambridge Heath and Southwark — all at **£20.00 a month**, including a site on Great Suffolk Street two minutes from Southwark Underground. PureGym charges £41.99 in Holborn and The Gym Group £39.99 at Monument. Two caveats: there is a joining fee, waived on flexible monthly memberships from 16 to 30 September 2026; and the monthly rate is the only one published, with no short-term, annual or off-peak price. Canning Town runs 05:00–01:00 Monday to Thursday.
 
 **PureGym has 87 London clubs and a 2.2x price spread across them.** The same Core membership is **£22.99** at Croydon and Wembley and **£49.99** at Clapham. Off-peak runs £17.99 to £35.99 — but only at 61 of the 87 clubs, and the off-peak hours are not published. Classes are included at most gyms. A guest costs you either the Plus tier or the **Buddy Access bolt-on "from just £3 extra per month"** for four guest visits.
 
 **The Gym Group is the same shape with a tighter ceiling** — **£23.99** at Alperton, Colindale and Wembley Central to **£39.99** at Monument, and off-peak from £16.99 at 79 of its 87 clubs. There are **eleven distinct off-peak schedules** across the London estate, one of which chops the day into 00:00–06:00, 09:00–11:00 and 13:00–16:30. Classes are free on every tier. Personal training is not — the trainers are freelance and set their own rates — though new members get one free session inside 60 days. Lockers need your own padlock or £5 from the vending machine.
 
-**JD Gyms has three London clubs and charges no joining fee at any of them, as standing policy rather than an offer.** Charlton, Enfield and Uxbridge, **£25.99 to £34.99**, all three open 24/7, saunas in the changing rooms included, classes included even on a day pass. **The teaser rate is not the price.** Enfield and Uxbridge both advertise "£15 1st month" and then charge £34.99 and £25.99. Charlton has no teaser and charges £29.99 from month one, which makes the club that looks dearest on the shelf the cheapest of the three over a year.
+**JD Gyms has three London clubs and charges no joining fee at any of them, as standing policy rather than an offer.** Charlton, Enfield and Uxbridge, **£25.99 to £34.99**, all three open 24/7, saunas in the changing rooms included, classes included even on a day pass. **The teaser rate is not the price.** All three advertise "£10 1st month", then charge £25.99 at Uxbridge, £29.99 at Charlton and £34.99 at Enfield. Paying a year upfront buys fourteen months: £311 at Uxbridge, £359 at Charlton, £419 at Enfield.
 
 ![A long gym floor lit blue, neon chevrons across a black ceiling, cross-trainers in a row down one side and resistance machines down the other](../../assets/articles/best-gyms-london/uk-fitness-club.jpg)
 
@@ -92,7 +93,7 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 
 **UK Fitness Club is a small east London independent, and its real price is the year paid upfront.** Three London clubs: Barking, East Ham, and a women-only club next door to East Ham on Castle Street (a fourth is in Tilbury, Essex). Direct debit with no contract is **£25.99** at Barking, £28.99 at East Ham and £29.99 at the women-only club, plus a £15–£20 sign-up fee; paying monthly without a direct debit costs £4 to £6 more. A year upfront at Barking is **£219.99 — £18.33 a month, and £91.89 less than twelve direct debits**. East Ham adds the sauna and jacuzzi (£6.99 a session for non-members) and a family membership covering up to three people for £73.99 a month. Barking and East Ham open 06:00–23:00 every day; the women-only club closes at 22:30 on weekdays and keeps 09:00–21:00 at weekends. There is no personal training to buy, and the FAQ's "from just £16.66/month" matches no plan on the price list.
 
-**Snap Fitness and énergie both decline to publish a monthly price.** Snap has ten London clubs, and its £30 joining fee is confirmed only because some clubs advertise "Save £30" when waiving it. What Snap does publish is its multi-site access: every plan covers all 1,000+ Snap gyms worldwide, with no tier cap. énergie's eighteen London clubs all run a no-joining-fee offer today and every one frames it as temporary; Cricklewood's still advertises an offer whose own end date has passed.
+**Snap Fitness and énergie both decline to publish a monthly price.** Snap has ten London clubs, and its £30 joining fee is confirmed only because some clubs advertise "Save £30" when waiving it. What Snap does publish is its multi-site access: every plan covers all 1,000+ Snap gyms worldwide, with no tier cap. énergie's eighteen London clubs all ran a no-joining-fee offer in September 2026 and every one framed it as temporary; Cricklewood's still advertises an offer whose own end date has passed.
 
 > ⚠️ **easyGym has no gym left in London.** Its only London site, Camberwell, has permanently closed. **TruGym** has shrunk to five clubs and none is in London. **Village Health + Wellness** has 35 clubs and the nearest to London is Watford.
 
@@ -110,7 +111,7 @@ At Islington the ladder is **£109 off-peak, £128 Anytime, £150 rolling** — 
 
 **Fitness First runs £54 at Brixton to £120 at Baker Street, London Bridge Cottons and Marylebone**, with Streatham at £65, Oxford Circus and The Strand at £75, and a cluster at £90. It charges a joining fee and never says how much; the terms confirm it exists ("your first payment including any joining fee will be paid upfront by card payment"). Multi-club access is included but tiered: "you can use any club at your membership tier or below". The reach is stated inconsistently — Bishopsgate says 22 other gyms, Streatham says 13, Baker Street names three. Liverpool Street advertises "from just £85 a month" and prices at £90.
 
-**Bannatyne has four London clubs and a pool at all of them** — Chingford a 25-metre pool with sauna, steam and spa pool, Orpington 15 metres plus a Bannatyne Spa, and swim timetables at Grove Park and Maida Vale. Published prices exist only at the two clubs *not* running the offer: **£49.99 at Maida Vale, £69.99 at Grove Park**. Chingford and Orpington are advertising "THE REST OF SEPTEMBER IS FREE" and publish no monthly figure at all.
+**Bannatyne has four London clubs and a pool at all of them** — Chingford a 25-metre pool with sauna, steam and spa pool, Orpington 15 metres plus a Bannatyne Spa, and swim timetables at Grove Park and Maida Vale. Only two publish a monthly price: **£49.99 at Maida Vale, £69.99 at Grove Park**. Chingford and Orpington publish no monthly figure at all. All four were advertising no joining fee and 50% off October at the end of September 2026.
 
 **Everlast Gyms is the Sports Direct gym brand, and its only London club is from £100 a month.** At Chiswick Sports Ground, that is more than double a PureGym in the same postcode area and dearer than Nuffield at Ealing. It does have a pool, aqua classes, Hyrox, reformer Pilates, ice baths and free parking. It also has the shortest hours of any chain here: **Mon–Thu 06:00–22:00, Fri to 21:00, weekends 08:00–18:00.**
 
@@ -146,7 +147,7 @@ Better's cheapest London centre is **Phoenix Fitness Centre in Hammersmith at £
 
 The other public operators:
 
-- **Everyone Active** runs the Westminster cluster plus the **London Aquatics Centre** — which is Sports & Leisure Management, not GLL, whatever the older guides say. Porchester MOVE+ is £39.99, the Aquatics Centre £42.99, and a swim-only membership at Porchester is £30.00. Joining fee is £0 today. The "no contract" claim comes with a compulsory **final month paid in advance** at sign-up, which you get back as a notice period rather than as money.
+- **Everyone Active** runs the Westminster cluster plus the **London Aquatics Centre** — which is Sports & Leisure Management, not GLL, whatever the older guides say. Porchester MOVE+ is £39.99, the Aquatics Centre £42.99, and a swim-only membership at Porchester is £30.00. The joining fee was £0 in September 2026. The "no contract" claim comes with a compulsory **final month paid in advance** at sign-up, which you get back as a notice period rather than as money.
 - **Places Leisure** runs Wandsworth and Kingston. Premium Flexi at Putney is **£47.00** with no minimum term — but the first payment is **£63.99**, described as "a pro rata payment to cover the remaining days of this period and a one-off fee".
 - **Move Southwark** is council-run, uniform across eight centres: **£39.49** for Move Essential up to **£61.49** for Move Unlimited, £25 joining fee, freeze at £7.50 a month. The tiers differ on how many sites and how far ahead you can book, not on time of day.
 - **Be Well** is Tower Hamlets in-house: **£44.45** anytime, **£36.60** off-peak, **£15.00** disability membership, **no joining fee and no contract**, and every membership covers all six centres. A "Be Well For Now" membership runs from one day upwards.
@@ -198,9 +199,9 @@ The operators' own break-even claim is twice a week. Everyone Active states it i
 
 **Crystal Palace.** A non-member off-peak swim is **£3.20**, with no card at all. Two a week is £332.80 against a £50.50 membership — £618.50 with the setup fee. Pay-as-you-go wins outright and you never need the card.
 
-**Vauxhall, Lambeth.** The card is £75, the dearest in London, and an off-peak swim is £6.50 with it. Two a week comes to £751 against £732.50 on the membership. Near enough a dead heat, and the membership pulls ahead from about two and a half visits a week. Lambeth is the one borough where the twice-a-week swimmer should take the membership.
+**Vauxhall, Lambeth.** The card is £75, the dearest in London, and an off-peak swim is £6.50 with it. Two a week comes to £751 against £732.50 on the membership, so the membership is already £18.50 cheaper at two visits a week. Lambeth is the one borough where the twice-a-week swimmer should take the membership.
 
-**The cards need the same arithmetic.** A Hackney card at £49.70 saves £1.85 a swim, so it needs **27 swims a year** to break even. An Islington concession card at £38.50 needs about **16**. A Kensington and Chelsea resident card is free and breaks even on the first visit. At Vauxhall a non-member swim is £9.25 against £6.50 with the card — it pays for itself in a couple of dozen swims.
+**The cards need the same arithmetic.** A Hackney card at £49.70 saves £1.85 a swim, so it needs **27 swims a year** to break even. An Islington concession card at £38.50 needs about **16**. A Kensington and Chelsea resident card is free and breaks even on the first visit. At Vauxhall a non-member swim is £9.25 against £6.50 with the card — it pays for itself in about 27 swims.
 
 **In the boutique world the answer flips.** The studios have already run this calculation and the membership always wins on unit price: Psycle is £29 a single credit against £15.67 a class on PSYCLE15; 1Rebel £26 a session against £14.58 on All-Access 12; Heartcore £35 against £22.14; SoulCycle £28 against £19.50. Which is exactly why every one of those memberships carries a minimum term and an expiry.
 
@@ -261,7 +262,7 @@ Boutique studios do not sell a gym floor. They sell a booked class at £26 to £
 
 **And the rest worth knowing.** **Oasis in Covent Garden** has an outdoor heated pool and an indoor one in the middle of the West End (£8.10, or £5.80 with a Pay&Play card). **Ironmonger Row Baths** in Islington has the Turkish spa (£7.60 off-peak). **Pools on the Park** in Richmond has both indoor and outdoor. **Porchester** has a 30m four-lane main pool, a 20m teaching pool and the Porchester Spa. **Britannia** and **London Fields Lido** are £6.40, or £4.55 with a card. **Crystal Palace at £3.20 off-peak is the cheapest swim we found anywhere in London**, with seniors at £2.50 any time.
 
-> ⚠️ **Crystal Palace and the 50-metre pool.** Better now lists "a 25-metre pool for lane swimming and a teaching pool" at Crystal Palace. The 50m Olympic pool is not among them. Plenty of guides still send people there for a 50-metre swim — check with the centre before you travel across London for a long-course lane.
+> ⚠️ **Crystal Palace has no 50-metre pool to swim in.** Better lists a 25-metre training pool and a teaching pool there, and plenty of guides still send people for a 50-metre swim. For long-course lanes, go to the London Aquatics Centre, Hillingdon or London Fields Lido.
 
 ---
 
@@ -275,7 +276,7 @@ Every chain here advertises a monthly figure. For most of them that figure is th
 
 **Virgin Active is the extreme.** £25 to £250 depending on the club, and roughly doubled if you choose rolling over twelve months.
 
-**PureGym's £0 is a promotion, not a price.** Today **5 of its 87 London clubs** charge nothing — Camden High Street, Chiswick Park, Cricklewood, Harrow and Kensington High Street. The commonest London fee is £15 at 25 clubs, then £20 at 18 and £19.99 at 14; the dearest is £25 at Bow Wharf, Fulham, Limehouse, Moorgate, Piccadilly and St Pauls.
+**PureGym's £0 is a promotion, not a price.** On 9 September **5 of its 87 London clubs** charge nothing — Camden High Street, Chiswick Park, Cricklewood, Harrow and Kensington High Street. The commonest London fee is £15 at 25 clubs, then £20 at 18 and £19.99 at 14; the dearest is £25 at Bow Wharf, Fulham, Limehouse, Moorgate, Piccadilly and St Pauls.
 
 **The Gym Group advertises a fee most of its London clubs do not charge.** Its own London region page says "pay from £30.99 today including a one-off £10 joining fee". In fact **45 of its 87 London clubs charge £15**, 17 charge £10, 23 charge £0 and two charge £20. Its 9- and 12-month Saver plans carry no fee at all.
 
@@ -327,7 +328,7 @@ You do not have to join anything. Almost every operator here sells a way in for 
 | --- | --- | --- |
 | **UK Fitness Club** | **£6.99–£8.99** | £6.99 at Barking, £7.99 at East Ham, £8.99 at the women-only club |
 | **The Gym Group** | £9.99–£16.99 | £9.99 at Alperton, Colindale and East Croydon; £16.99 at Monument. Three- and five-day passes at Oxford Street, £26.99 and £33.99 |
-| **JD Gyms** | £10.99 or £11.99 | £10.99 at Uxbridge, £11.99 at Charlton and Enfield. Bought as a QR code in the app, valid 24 hours, full access including classes |
+| **JD Gyms** | £10.99 or £12.99 | £10.99 at Uxbridge, £12.99 at Charlton and Enfield. Bought as a QR code in the app, valid 24 hours, full access including classes |
 | **Snap Fitness** | £15 | £39.99 for fourteen days at Elephant and Castle, during staffed hours |
 | **PureGym** | Priced per gym | Passes from one to thirty days, with "no contract or sign up fees" |
 | **Nuffield Health** | Free, three days | A complimentary gym pass, arranged at club level |
@@ -363,7 +364,7 @@ You do not have to join anything. Almost every operator here sells a way in for 
 4. **Add the joining fee to the first year.** A £15 monthly saving takes about a year and a half to earn back a £250 fee.
 5. **If you need a pool, that decides it.** It rules out the entire budget market and Gymbox, and it makes Nuffield, David Lloyd, Bannatyne or your council the realistic choice.
 6. **Read the off-peak hours, not the off-peak price.** Nuffield has eight different London schedules and The Gym Group eleven. David Lloyd's entry tier is 11am–4pm on weekdays. Same discount, completely different product.
-7. **Check the contract length against how sure you are.** Rolling costs 26–36% more at Virgin Active, about 35% at Gymbox and 18–20% at Nuffield. That is the price of being able to leave, and for a lot of people it is worth paying.
+7. **Check the contract length against how sure you are.** Rolling costs 26–36% more at Virgin Active, 31–37% at Gymbox and 18–20% at Nuffield. That is the price of being able to leave, and for a lot of people it is worth paying.
 
 ---
 
@@ -380,4 +381,4 @@ You do not have to join anything. Almost every operator here sells a way in for 
 
 ---
 
-*All prices, joining fees, contract terms and pool listings were read off each operator's own website or the relevant council's own website on 9 September 2026. Gym pricing in London is set club by club and changes often, and several chains are running joining-fee promotions that will not last — confirm the figure for your specific club before you sign. Where an operator publishes no price, that is stated rather than filled in from elsewhere.*
+*All prices, joining fees, contract terms and pool listings come from each operator's own website or the relevant council's own website, checked in September 2026. Gym pricing in London is set club by club and changes often, and several chains are running joining-fee promotions that will not last — confirm the figure for your specific club before you sign. Where an operator publishes no price, that is stated rather than filled in from elsewhere.*

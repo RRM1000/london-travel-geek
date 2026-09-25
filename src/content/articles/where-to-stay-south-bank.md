@@ -23,7 +23,7 @@ faq:
   - q: "Which station should I stay near: Waterloo, Southwark or London Bridge?"
     a: "Waterloo for the most lines: Jubilee, Northern, Bakerloo and Waterloo & City, plus trains to south-west London and Windsor. London Bridge for Gatwick and St Pancras, both direct on Thameslink. Southwark, in between, is Jubilee only but puts Bankside and Tate Modern five minutes away. All three are on the Jubilee line, which runs through to Wembley Park and North Greenwich for The O2."
   - q: "Which South Bank hotels have a swimming pool?"
-    a: "Park Plaza Westminster Bridge has a 15-metre indoor pool for residents, booked in slots between 7am and 9pm. Hilton London Bankside has a heated indoor pool. Suite guests at the London Marriott County Hall get full use of the gym and indoor pool at The Club at County Hall, in the same building."
+    a: "Park Plaza Westminster Bridge has a 15-metre indoor pool for residents, booked in slots between 7am and 9pm. Hilton London Bankside has a heated indoor pool. Guests at the London Marriott County Hall get free use of the 25-metre pool and gym at The Club at County Hall, in the same building, 7am to 9pm."
   - q: "Which South Bank hotel rooms have a river view?"
     a: "At Sea Containers London, only the Riverview grades face the Thames: Standard rooms carry no view promise and Superior rooms look over the skyline. The Marriott County Hall sells Executive Family Rooms with Thames views and balcony rooms facing Big Ben, and Park Plaza Westminster Bridge has a Studio Room with a London Eye view. Book the named view grade, not the building."
 ---
@@ -32,7 +32,7 @@ Every hotel in this guide is within a few minutes' walk of the Thames path betwe
 
 What changes along the river is the station, and that is what should decide where you book. **Waterloo** at the western end is the Jubilee, Northern and Bakerloo interchange, with mainline trains out of the same building. **London Bridge** at the eastern end has Thameslink straight to Gatwick and St Pancras. **Bankside**, between them, has Southwark station on the Jubilee line and the quietest streets of the three.
 
-> 💡 **The Short Version:** **[Sea Containers London](hotelscom:474803)** is the riverside hotel, but only its Riverview grades face the Thames. **[Park Plaza Westminster Bridge](hotelscom:h3113039)** is the big family option, with a 15-metre pool and 36 m² studios that sleep two adults and two children. **[The Hoxton, Southwark](hotel:the-hoxton-southwark)** is about £190 with Seabird on the roof. **[citizenM Bankside](hotel:citizenm-bankside)** is about £160 for a small room with a very large bed, and the **[Premier Inn at County Hall](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-county-hall.html)** has been as low as £92 on a quiet Sunday. The cheapest bed is a **£53 double capsule at [St Christopher's Village](hotel:st-christophers-village)** by Borough Market.
+> 💡 **The Short Version:** **[Sea Containers London](hotelscom:474803)** is the riverside hotel, but only its Riverview grades face the Thames. **[Park Plaza Westminster Bridge](hotelscom:h3113039)** is the big family option, with a 15-metre pool and 36 m² studios that sleep two adults and two children. **[The Hoxton, Southwark](hotel:the-hoxton-southwark)** is about £190 with Seabird on the roof. **[citizenM Bankside](hotel:citizenm-bankside)** is from £155 for a small room with a very large bed, and the **[Premier Inn at County Hall](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-county-hall.html)** has been as low as £92 on a quiet Sunday. On a budget, a **double capsule at [St Christopher's Village](hotel:st-christophers-village)** by Borough Market sleeps two from £53.
 
 ## Which part of the South Bank
 
@@ -50,7 +50,7 @@ What changes along the river is the station, and that is what should decide wher
 
 *£££ · Westminster Bridge Road, SE1 7PB · Waterloo 7 min · [Hotels.com](hotel:marriott-county-hall)*
 
-The old London County Council headquarters on the river, next to the London Eye and facing Big Ben across Westminster Bridge. The views are sold by grade: **Executive Family Rooms have two double beds, sleep four and look over the Thames**, balcony rooms face Big Ben, and there are two-bedroom suites. Suite guests also get the club lounge and full use of the gym and indoor pool at The Club at County Hall, in the same building.
+The old London County Council headquarters on the river, next to the London Eye and facing Big Ben across Westminster Bridge. The views are sold by grade: **Executive Family Rooms have two double beds, sleep four and look over the Thames**, balcony rooms face Big Ben, and there are two-bedroom suites. Every guest gets free use of the 25-metre pool and gym at The Club at County Hall, in the same building, open 7am to 9pm.
 
 <div class="photo-row">
 
@@ -122,7 +122,7 @@ Every Superior is 19 m², so what you pay extra for is the view and the terrace,
 
 *£ · 172 Westminster Bridge Road, SE1 7RW · Lambeth North 3 min · [hostel's site](hotel:the-walrus-hostel)*
 
-A hostel above a bar that draws locals as well as guests, ten minutes' walk from Big Ben. **Dorms sleep from four to 26**, there is a guest kitchen, and bed linen, lockers and earplugs are included. Expect noise from the street and the railway.
+A hostel above a bar that draws locals as well as guests, ten minutes' walk from Big Ben. **Dorms sleep from four to 26**, with female-only dorms among them and private rooms too; there is a guest kitchen, and bed linen, lockers and earplugs are included. Expect noise from the street and the railway.
 
 ![A four-bed dorm at The Walrus with two metal bunk beds labelled A to D, a dark wooden floor, a brown armchair and an open window at night](../../assets/articles/where-to-stay-south-bank/the-walrus-hostel-room.jpg)
 
@@ -218,7 +218,7 @@ A refurbished economy hotel with 297 rooms, air conditioning throughout and a ba
 
 ### citizenM London Bankside — one room type, and it sleeps two
 
-*About £160, £155 to £251 on five sampled nights · 192 rooms · 20 Lavington Street, SE1 0NZ · Southwark 6 min · [Hotels.com](hotel:citizenm-bankside)*
+*£155 to £251 on five sampled nights · 192 rooms · 20 Lavington Street, SE1 0NZ · Southwark 6 min · [Hotels.com](hotel:citizenm-bankside)*
 
 Every one of the 192 rooms is the same: **an XL king bed wall to wall, a floor-to-ceiling window and a tablet that runs the blinds, lights and television**. It is small, and it takes **up to two adults only**, so families need to look elsewhere. It is on a back street south of Tate Modern; check-in is at self-service kiosks, and canteenM in the lobby sells food and drink around the clock.
 
@@ -236,7 +236,7 @@ Every one of the 192 rooms is the same: **an XL king bed wall to wall, a floor-t
 
 *£££ · 2–8 Great Suffolk Street, SE1 0UG · Southwark 5 min · [Hotels.com](hotel:hilton-london-bankside)*
 
-A design-led Hilton 0.2 miles from Tate Modern, with a **heated indoor pool**, a gym and a spa. Families book it for the pool and the connecting rooms; cribs and a children's menu are available on request. The rooms have floor-to-ceiling windows.
+A Hilton 0.2 miles from Tate Modern, with a **heated indoor pool**, a gym and a spa. Families book it for the pool and the connecting rooms; cribs and a children's menu are available on request. The rooms have floor-to-ceiling windows.
 
 <div class="photo-row">
 
@@ -300,7 +300,7 @@ An independent four-star next to the Shard and two minutes from the station. The
 
 **The three apartments are what set it apart**: 92 m² each, with two bedrooms, a bathroom plus a separate shower room and a full kitchen, for up to six people, and a private entrance next door. For a smaller family, Deluxe rooms and Studio Suites have a sofa bed for two children, and some Executive rooms interconnect. Check-in is 3pm, check-out 11am, and there is no car park.
 
-### St Christopher's Village — the cheapest private bed on the river
+### St Christopher's Village — a double capsule from £53
 
 *£53 to £166 a double capsule · 161–165 Borough High Street, SE1 1HR · Borough 4 min · [Hotels.com](hotel:st-christophers-village)*
 

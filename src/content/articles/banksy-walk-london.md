@@ -219,7 +219,7 @@ It has survived several attempts to remove it. In 2009 the council started paint
 
 *The Royal Family, still waving, in the square of original wall the council's black paint did not reach.*
 
-**Finish here because it is the other end of the story.** You started at a statue that appeared this year; this is one of the first things he put on a London wall, twenty-five years earlier, still waving.
+**Finish here because it is the other end of the story.** You started at a statue that appeared in 2026; this is one of the first things he put on a London wall, twenty-five years earlier, still waving.
 
 It is free and visible from the pavement at any hour. Stoke Newington station, on the Weaver line back to Liverpool Street, is about 15 minutes' walk.
 

@@ -1,7 +1,7 @@
 ---
 title: "Where to Stay in Chelsea and Knightsbridge"
 seoTitle: "Where to Stay in Chelsea & Knightsbridge 2026"
-description: "Chelsea and Knightsbridge hotels by street, from a £89 windowless room in Knightsbridge to The Lanesborough at Hyde Park Corner, with the nearest station, the typical price and the one thing that decides each."
+description: "Chelsea and Knightsbridge hotels by street, from an £89 windowless room in Knightsbridge to The Lanesborough at Hyde Park Corner, with the nearest station, the typical price and the one thing that decides each."
 heroImage: "../../assets/articles/where-to-stay-chelsea/mandarin-oriental-hyde-park.jpg"
 heroImageAlt: "The red-brick and stone front of Mandarin Oriental Hyde Park on Knightsbridge, with turreted roofs, iron balconies, a large gold fan above the entrance and flags over the door, and the Underground roundel of Knightsbridge station at the far left"
 heroImageCredit: "Rhododendrites"
@@ -25,18 +25,16 @@ faq:
   - q: "How do I get from Heathrow to Knightsbridge?"
     a: "Take the Piccadilly line to Knightsbridge without changing; Zedwell puts the ride at about 40 to 45 minutes. For Sloane Square, stay on to Knightsbridge and walk down Sloane Street, or change at South Kensington for the District or Circle line to Sloane Square."
   - q: "When is the Chelsea Flower Show in 2027?"
-    a: "18 to 22 May 2027 in the grounds of the Royal Hospital Chelsea: members' days on 18 and 19 May, public days from 20 to 22 May. Tickets go on sale on 21 October 2026. Book the room when you book the tickets."
+    a: "18 to 22 May 2027 in the grounds of the Royal Hospital Chelsea: members' days on 18 and 19 May, public days from 20 to 22 May. RHS members' tickets go on sale on 19 October 2026 and public tickets on 21 October. Book the room when you book the tickets."
 ---
 
-Chelsea and Knightsbridge share a postcode reputation and not much else. **Knightsbridge** is the busy half: Harrods, Hyde Park and the grand hotels on the main road, with the Piccadilly line running straight to Heathrow. **Chelsea** is the quiet half: garden squares, townhouse hotels of 14 to 56 rooms, and Sloane Square station at the top of the King's Road. Both are expensive, and the prices say so.
-
-The South Kensington museums are a walk from either. Egerton House, on the Knightsbridge side, is six minutes from the V&A.
+Chelsea and Knightsbridge share a postcode reputation and not much else. **Knightsbridge** is the busy half: Harrods, Hyde Park and the grand hotels on the main road, with the Piccadilly line running straight to Heathrow. **Chelsea** is the quiet half: garden squares, townhouse hotels of 14 to 56 rooms, and Sloane Square station at the top of the King's Road. The South Kensington museums are a walk from either.
 
 > 💡 **The Short Version:** **For the lowest price**, [Zedwell Knightsbridge](hotel:zedwell-knightsbridge) is £89 to £257 for a windowless room for two. **With a window**, the **Sloane Square Hotel** sells small doubles from about £128 on the square itself. **For a Chelsea townhouse**, [San Domenico House](hotel:san-domenico-house) is about £240 and [The Chelsea Townhouse](hotel:the-chelsea-townhouse) about £260. **For Sloane Street**, [The Cadogan](hotel:the-cadogan-belmond) is about £450 and gives guests the key to Cadogan Place's private gardens and tennis courts. **For a pool**, The Berkeley has an open-air one on its roof in spring and summer, and Bulgari a 25-metre one in its spa. **With children**, [The Lanesborough](hotel:the-lanesborough) has a butler for every room and splash hours in its spa pool. **For a kitchen**, Cheval runs apartments off Sloane Square and behind Harrods.
 
 ## Which part of Chelsea and Knightsbridge
 
-**Hyde Park Corner and Knightsbridge** is the main road along the south side of Hyde Park, with The Lanesborough, The Berkeley, Mandarin Oriental and Bulgari on it. Hyde Park Corner and Knightsbridge stations are both Piccadilly line. The Belgravia five-stars round the corner are covered at the end of the hotel list.
+**Hyde Park Corner and Knightsbridge** is the main road along the south side of Hyde Park, with The Lanesborough, The Berkeley, Mandarin Oriental and Bulgari on it. Hyde Park Corner and Knightsbridge stations are both Piccadilly line.
 
 **Behind Harrods** means Basil Street, Beaufort Gardens, Egerton Gardens and Cheval Place: residential streets of smaller hotels and apartments, five to eleven minutes from Knightsbridge station and nearer the V&A than the main road is.
 
@@ -84,7 +82,7 @@ Opened in 2012. **The spa has a 25-metre colonnaded swimming pool**, and there i
 
 *22–24 Basil Street, SW3 1AT · [Hotels.com](hotelscom:h182475)*
 
-A boutique five-star on Basil Street, which runs along the side of Harrods, now selling hotel rooms, suites, apartments for longer stays and a townhouse. It has just been refurbished throughout, and Tom Brown at The Capital is its modern British seafood restaurant.
+A boutique five-star on Basil Street, which runs along the side of Harrods, selling hotel rooms, suites, apartments for longer stays and a townhouse. Its rooms, suites and residences have all been refurbished, and Tom Brown at The Capital is its modern British seafood restaurant.
 
 ### Knightsbridge Hotel: Kit Kemp rooms on a side street
 
@@ -120,7 +118,7 @@ Four five-stars sit just east of Sloane Street, closer to Hyde Park Corner than 
 
 *About £450 · 75 Sloane Street, SW1X 9SG · Sloane Square and Knightsbridge 5 min each · [Hotels.com](hotel:the-cadogan-belmond)*
 
-A Belmond hotel of 54 rooms, 37 of them suites, halfway down Sloane Street. **Guests get the private Cadogan Place Gardens across the road and their tennis courts**, which almost no London hotel can offer. Willett's is the bar and bistro, dogs are welcome with their own room-service menu, and rooms and suites can be connected for families. There is a treatment room and a 24-hour gym but no pool. Victoria station is 15 minutes' walk.
+A Belmond hotel of 54 rooms, 37 of them suites, halfway down Sloane Street. **Guests get the private Cadogan Place Gardens across the road and their tennis courts.** Willett's is the bar and bistro, dogs are welcome with their own room-service menu, and rooms and suites can be connected for families. There is a treatment room and a 24-hour gym but no pool. Victoria station is 15 minutes' walk.
 
 ### At Sloane: a Paris hotel off Sloane Square
 
@@ -156,7 +154,7 @@ A small townhouse hotel of 19 rooms and suites, furnished with antiques and pain
 
 *From about £128 · 7–12 Sloane Square, SW1W 8EG · Sloane Square station on the square · [Hotels.com](hotelscom:h7864)*
 
-The cheapest room with a window in this guide. On its own site Small Doubles of 14 square metres start at about £128 and Doubles of 20 square metres at about £141; some Doubles have a bay window over the square. **Guests get a free cream tea** in the first-floor lounge, where breakfast is also served, and The Knox is the late bar in the basement. Club rooms take small dogs. Côte, the brasserie, is next door.
+On its own site Small Doubles of 14 square metres start at about £128 and Doubles of 20 square metres at about £141; some Doubles have a bay window over the square. **Guests get a free cream tea** in the first-floor lounge, where breakfast is also served, and The Knox is the late bar in the basement. Club rooms take small dogs. Côte, the brasserie, is next door.
 
 ### Sloane Place: small rooms, breakfast if you book direct
 
@@ -176,7 +174,7 @@ Our [aparthotels guide](/articles/aparthotels-london/) compares these with the r
 
 ## The Chelsea Flower Show
 
-The RHS Chelsea Flower Show runs from **18 to 22 May 2027** in the grounds of the Royal Hospital Chelsea: RHS members' days are 18 and 19 May, public days 20 to 22 May, and the show stays open until 10pm for Chelsea Late on Friday 21 May. Tickets go on sale on 21 October 2026. Book the room when you book the tickets.
+The RHS Chelsea Flower Show runs from **18 to 22 May 2027** in the grounds of the Royal Hospital Chelsea: RHS members' days are 18 and 19 May, public days 20 to 22 May, and the show stays open until 10pm for Chelsea Late on Friday 21 May. RHS members' tickets go on sale on 19 October 2026 and public tickets on 21 October. Book the room when you book the tickets.
 
 ## Where to stay just outside
 

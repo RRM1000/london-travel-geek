@@ -139,7 +139,7 @@ The programming is the unusual part. Classical, jazz, contemporary composition, 
 
 It fills a real gap. At 3,800 it sits **between the Apollo and Brixton at one end and the arenas at the other** — the size band London has been short of for years, and the reason a lot of mid-tier international tours previously skipped the city or overreached into an arena.
 
-It arrived as part of Olympia's whole redevelopment, so the surroundings are new too: a rooftop canopy of bars and restaurants, a food hall, a theatre and two hotels all opened within weeks of it. **Kensington (Olympia) station is at the door**, though its off-peak service is thinner than you would expect for a venue this size — check your route home before the encore.
+It arrived as part of Olympia's whole redevelopment, so the surroundings are new too: a rooftop canopy of bars and restaurants, a food hall and two hotels all opened within weeks of it, and a theatre follows in 2027. **Kensington (Olympia) station is at the door**, though its off-peak service is thinner than you would expect for a venue this size — check your route home before the encore.
 
 <div data-venue-listings="British Airways Theatre" data-compact data-label="British Airways ARC"></div>
 
@@ -247,13 +247,11 @@ There is nothing else like it. The room takes about 200, the ceiling is low, the
 
 ### Blue Note, Covent Garden
 
-*Opens 23 September 2026*
+*Open since 23 September 2026*
 
-> ⚠️ **Opens 23 September 2026** — deliberately, what would have been **John Coltrane's 100th birthday**. Tickets went on general sale in August.
+The New York club's **first UK venue**, in the basement beneath the St Martins Lane hotel. It opened on 23 September 2026, what would have been **John Coltrane's 100th birthday**. A **300-seat main room running two sets a night at 7pm and 9.30pm**, food served at the tables, and a second 130-seat room called **B-Side** for late sets and emerging artists.
 
-The New York institution's **first UK venue**, in the basement beneath the St Martins Lane hotel. A **250-capacity main room running two sets a night at 7pm and 9.30pm**, food served at the tables, and a second 100-seat room called **B-Side** given over to emerging UK musicians.
-
-**Robert Glasper** opens it on the 23rd and 24th — **both grand opening sets are already sold out** — with Erykah Badu, Jamie Cullum, Nubya Garcia, Yussef Dayes, KOKOROKO and Hak Baker announced behind him. Sinead Harnett follows on the 25th.
+**Robert Glasper** played the sold-out opening sets, with Erykah Badu, Jamie Cullum, Nubya Garcia, Yussef Dayes, KOKOROKO and Hak Baker announced behind him.
 
 The address is **42–49 St Martin's Lane, WC2N 4EJ**.
 

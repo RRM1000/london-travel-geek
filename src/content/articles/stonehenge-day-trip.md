@@ -22,7 +22,7 @@ faq:
   - q: "Can you go inside the stone circle?"
     a: "Only on a Stone Circle Experience, which runs for an hour in the early morning or evening outside normal opening hours, from £70 adult and £40 child. Sessions take a maximum of 52 people, split into two groups of 26, and there are none in October or November. During normal opening hours everyone stays on the visitor path, which comes within about 5m of the stones."
   - q: "Is Stonehenge free at the solstice?"
-    a: "Yes. English Heritage gives free managed open access at both solstices and both equinoxes. Autumn Equinox 2026 is Wednesday 23 September, with the car park opening at 05:15, sunrise at about 06:54 and open access ending at 08:30. For the summer solstice the car park must be pre-booked and sells out, and no public transport runs for the equinoxes at all."
+    a: "Yes. English Heritage gives free managed open access at both solstices and both equinoxes. The next is the winter solstice on 22 December 2026; the autumn equinox opening on 23 September ran from a 05:15 car park opening to the end of open access at 08:30. For the summer solstice the car park must be pre-booked and sells out, and no public transport runs for the equinoxes at all."
   - q: "How long do you need at Stonehenge?"
     a: "Two hours is enough for the exhibition, the shuttle out and a full circuit of the stones. English Heritage also publishes half-day and full-day itineraries. Last admission is two hours before closing and the last ticket is sold at 14:30, or 16:30 in June, July and August."
   - q: "Do you have to take the shuttle bus to the stones?"
@@ -146,7 +146,7 @@ You also get a good look at the circle from the **A303** as you drive past. You 
 
 English Heritage opens the monument field free four times a year, and you can walk among the stones.
 
-**Autumn Equinox 2026 is Wednesday 23 September.** Car park entry from **05:15**, the field opens as soon as there is light, **sunrise at about 06:54**, open access ends at **08:30**, car park cleared by 10:00.
+**The 2026 autumn equinox opening was on Wednesday 23 September**, and it showed the usual shape: car park entry from **05:15**, the field open as soon as there was light, **sunrise at about 06:54**, open access ending at **08:30** and the car park cleared by 10:00.
 
 > ⚠️ **No public transport runs for the equinoxes at all.** Car, taxi, bike or on foot only, with the roads open as normal. For the **summer solstice** — 20 and 21 June — the opposite applies: car parking must be pre-booked and had sold out well ahead, vehicles without a booking were turned away, and Salisbury Reds laid on special buses from Salisbury station and New Canal instead. The tour bus itself finished early on the Saturday and did not run at all on the Sunday.
 
@@ -180,8 +180,8 @@ Sixty GetYourGuide products leave London for the stones. They sort into seven ki
 
 | The day | Hours | From | Stonehenge entry in that price? |
 | --- | --- | --- | --- |
-| **Stonehenge alone** | 6–7 | **£36.80** | **Yes** — all four we read |
-| **Stonehenge and Bath** | 10–12 | £69 | **One** of the six we read |
+| **Stonehenge alone** | 6–7 | **£36.80** | **Yes** — all four tours |
+| **Stonehenge and Bath** | 10–12 | £69 | **One** of six tours |
 | **Windsor or Oxford, Stonehenge and Bath** | 10–12½ | £71.10 | **No** — a paid option on all nine |
 | **Stonehenge and the Cotswolds** | 10–11 | £85 | Yes on the minibus, no on the small-group day |
 | **Stonehenge with Avebury or Glastonbury** | 10–11 | £98 | **Yes** |

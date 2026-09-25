@@ -56,7 +56,7 @@ Battersea Power Station is the most literal answer on this list: an entire derel
 
 **The genuinely covered part is the power station building itself.** Circus West Village, the restaurant quarter in the railway arches beside it, and Electric Boulevard, the newer pedestrian street south of the station, are both open to the sky — so the promise here is the building, not the wider 42-acre estate, and you will get wet crossing between them.
 
-Inside, that still buys plenty. **NEON**, a purpose-built exhibition space in Circus West Village, runs large-scale ticketed shows — *Ramses and the Pharaoh's Gold* at the time of writing — and there are two separate cinemas on the estate: the Cinema in the Arches at Circus West Village, and a second screen inside the power station itself. Our [immersive experiences guide](/articles/immersive-experiences-london/) covers the rest of London's scene, including venues a short Tube ride away.
+Inside, that still buys plenty. **NEON**, a purpose-built exhibition space in Circus West Village, runs large-scale ticketed shows — *Ramses and the Pharaoh's Gold* until 1 January 2027 — and there are two separate cinemas on the estate: the Cinema in the Arches at Circus West Village, and a second screen inside the power station itself. Our [immersive experiences guide](/articles/immersive-experiences-london/) covers the rest of London's scene, including venues a short Tube ride away.
 
 Battersea Power Station station is on the Northern line's Charing Cross branch, a few minutes from Nine Elms and about fifteen from Tottenham Court Road.
 

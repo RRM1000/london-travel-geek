@@ -89,7 +89,7 @@ Cambridge is about 106km by road, off the M11 at Junction 13 for Madingley Road.
 
 **A coach from London earns nothing here.** Cambridge is 49 minutes and £32.40 return, so the useful question is not how to get there — it is what to book for the hours once you arrive. GetYourGuide lists nine day trips from London that stop at Cambridge, against dozens for Windsor, and the products that matter are mostly sold in Cambridge itself.
 
-We read the includes and excludes lists on twelve product pages on 12 September 2026. **Every walking tour that puts King's College in its title makes the £16.75 entry an upgrade**, and two of the three punting prices are per boat, not per head. Links below are affiliate links; the price is the same either way.
+Across the includes and excludes lists of twelve product pages on 12 September 2026, **every walking tour that puts King's College in its title makes the £16.75 entry an upgrade**, and two of the three punting prices are per boat, not per head. Links below are affiliate links; the price is the same either way.
 
 | The day | Length | From | What entry is included |
 | --- | --- | --- | --- |

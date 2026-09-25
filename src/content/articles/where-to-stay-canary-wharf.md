@@ -17,7 +17,7 @@ tags: [where to stay, hotels, aparthotels, Canary Wharf, Docklands, West India Q
 draft: false
 faq:
   - q: "Is Canary Wharf a good area to stay in London?"
-    a: "Yes, if fast trains matter more to you than old streets. The Elizabeth line reaches Liverpool Street in seven minutes and Heathrow in about 48 without a change, and the Jubilee reaches Westminster in 11 and The O2 in two. The hotels are modern and air-conditioned, and three of them are aparthotels with kitchens. It is a purpose-built business district: the older malls keep short Sunday hours, and the places that stay busy at weekends are at Wood Wharf and West India Quay."
+    a: "Yes, if fast trains matter more to you than old streets. The Elizabeth line reaches Liverpool Street in seven minutes and Heathrow in about 48 without a change, and the Jubilee reaches Westminster in 11 and The O2 in two. The hotels are modern and air-conditioned, and several are aparthotels with kitchens. It is a purpose-built business district: the older malls keep short Sunday hours, and the places that stay busy at weekends are at Wood Wharf and West India Quay."
   - q: "Are Canary Wharf hotels cheaper at weekends?"
     a: "On a Sunday night, yes. On a Saturday, not reliably. A double at Novotel London Canary Wharf was £165 on Sunday 11 October 2026 and £227 on Saturday 17 October. At TRIBE London Canary Wharf the same two nights were £157 and £185."
   - q: "Which station is nearest to Canary Wharf hotels?"
@@ -28,11 +28,11 @@ faq:
     a: "Direct Elizabeth line trains take about 48 minutes from Heathrow Terminals 2 and 3 to Canary Wharf. The Elizabeth line station is at Crossrail Place, a few minutes' walk from the Jubilee line station."
 ---
 
-Canary Wharf is a business district on the Isle of Dogs with three railways under it: the Elizabeth line, the Jubilee and the DLR. That makes it a practical base for Heathrow (about 48 minutes, no change), the City (seven minutes to Liverpool Street) and The O2 (one stop). The hotels are large, modern and air-conditioned, and three of them are aparthotels with kitchens.
+Canary Wharf is a business district on the Isle of Dogs with three railways under it: the Elizabeth line, the Jubilee and the DLR. That makes it a practical base for Heathrow (about 48 minutes, no change), the City (seven minutes to Liverpool Street) and The O2 (one stop). The hotels are large, modern and air-conditioned, and several are aparthotels with kitchens.
 
 What you give up is an old neighbourhood. The docks and a terrace of Georgian warehouses are the only things here older than the 1980s, and our [Canary Wharf area guide](/articles/canary-wharf-area-guide/) covers what there is to do.
 
-> 💡 **The Short Version:** For a kitchen, **[Locke London Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites, five minutes from the Jubilee; the studios have a kitchen and a washer-dryer. For the river, **[Canary Riverside Plaza](hotelscom:h519049)** has 141 rooms of 37 m² or more beside the Uber Boat pier. **[Novotel London Canary Wharf](hotel:novotel-canary-wharf)**, about **£160**, has a pool and the Bōkan bars on floors 38 and 39. On a budget, **[Premier Inn Canary Wharf (Westferry)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-canary-wharf-westferry.html)** is a minute from Westferry DLR, and **[Point A](hotelscom:h9080289)** includes breakfast when you book direct. **Sunday is the cheap night, not Saturday**: a Novotel double was £165 on Sunday 11 October and £227 the next Saturday.
+> 💡 **The Short Version:** For a kitchen, **[Locke London Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites, five minutes from the Jubilee; the studios have a kitchen and a washer-dryer. For the river, **[Canary Riverside Plaza](hotelscom:h519049)** has 141 rooms of 37 m² or more beside the Uber Boat pier. **[Novotel London Canary Wharf](hotel:novotel-canary-wharf)**, **£156 to £229** on five sampled nights, has a pool and the Bōkan bars on floors 38 and 39. On a budget, **[Premier Inn Canary Wharf (Westferry)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-canary-wharf-westferry.html)** is a minute from Westferry DLR, and **[Point A](hotelscom:h9080289)** includes breakfast when you book direct. **Sunday is the cheap night, not Saturday**: a Novotel double was £165 on Sunday 11 October and £227 the next Saturday.
 
 ## Which part of Canary Wharf
 
@@ -44,7 +44,7 @@ What you give up is an old neighbourhood. The docks and a terrace of Georgian wa
 | **Wood Wharf** | Canary Wharf (Jubilee, Wood Wharf exit) | TRIBE, Locke | The newest quarter: flats, restaurants on the dock, busy at weekends |
 | **South Quay and Marsh Wall** | Heron Quays and South Quay DLR | Novotel, Hilton, Britannia, Cove | A road of hotel and residential towers across South Dock; the quietest evenings |
 
-**West India Quay**, over the footbridge north of the towers, is the terrace of sugar warehouses built in 1802. The free London Museum Docklands is in one of them and the others hold restaurants facing the water, open at weekends. It is the one part of Canary Wharf with any age to it.
+**West India Quay**, over the footbridge north of the towers, is the terrace of sugar warehouses built in 1802. The free London Museum Docklands is in one of them and the others hold restaurants facing the water, open at weekends.
 
 **The estate** is Canada Square, Cabot Square and the malls underneath them, with the Crossrail Place roof garden on top of the Elizabeth line station. The malls keep short hours on a Sunday. Westferry Circus, at its river end, is where the Uber Boat stops.
 
@@ -52,18 +52,18 @@ What you give up is an old neighbourhood. The docks and a terrace of Georgian wa
 
 **South Quay and Marsh Wall** is the strip across South Dock, reached by footbridge. Most of the big hotels are here, seven or eight minutes' walk from the Jubilee, with the DLR on the doorstep.
 
-Further out, **Limehouse** to the north-west and **Blackwall** to the east each have one hotel in this guide. East India and Canning Town, one stop from The O2, are in our guide to [where to stay near The O2](/articles/where-to-stay-near-the-o2/).
+Further out, the Holiday Inn Express is at **Limehouse** to the north-west and the Radisson Blu at **Blackwall** to the east. East India and Canning Town, one stop from The O2, are in our guide to [where to stay near The O2](/articles/where-to-stay-near-the-o2/).
 
 ## Saturday is not the cheap night
 
-The usual advice is that Canary Wharf, a business district, gets cheaper at weekends. Prices for a double on five nights this autumn, winter and spring bear that out for Sunday, not for Saturday:
+The usual advice is that Canary Wharf, a business district, gets cheaper at weekends. Prices for a double on five nights between October and April bear that out for Sunday, not Saturday:
 
 | Double for two | Sun 11 Oct 2026 | Sat 17 Oct 2026 | Sat 12 Dec 2026 | Wed 17 Feb 2027 | Sat 17 Apr 2027 |
 | --- | --- | --- | --- | --- | --- |
 | **Novotel London Canary Wharf** | £165 | £227 | £229 | £156 | £213 |
 | **TRIBE London Canary Wharf** | £157 | £185 | £199 | £175 | £164 |
 
-So on a Friday-to-Sunday trip the saving comes on the Sunday night. Price Canary Wharf against central London for the Saturday rather than assuming it is cheaper.
+The saving comes on a Sunday night. For a Saturday, price Canary Wharf against central London rather than assuming it is cheaper.
 
 What is open at the weekend: Wood Wharf's restaurants, the West India Quay restaurants, Eden Dock, the museum and the roof garden all run as normal; Fairgame, the fairground-games bar on Fisherman's Walk, stays open until 1am on Saturdays. The malls under Canada Square are the part that shuts early on Sunday.
 
@@ -109,9 +109,9 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 ### Novotel London Canary Wharf
 
-*About £160 · 313 rooms · 40 Marsh Wall, E14 9TP · Heron Quays DLR 2 min, Jubilee 7 min*
+*£156–£229 · 313 rooms · 40 Marsh Wall, E14 9TP · Heron Quays DLR 2 min, Jubilee 7 min*
 
-**[Novotel London Canary Wharf](hotel:novotel-canary-wharf)** is a 39-storey tower on Marsh Wall with an indoor pool and gym. The top three floors are Bōkan, open to non-residents: the restaurant on 37 (closed Sunday and Monday), the bar on 38 and a roof terrace on 39, all card only. A Superior Double is 21 m². **For a family, book the Studio Suite**: 40 m² with a king bed, for up to four. Across the five nights in the table above it ran from £156 to £229.
+**[Novotel London Canary Wharf](hotel:novotel-canary-wharf)** is a 39-storey tower on Marsh Wall with an indoor pool and gym. The top three floors are Bōkan, open to non-residents: the restaurant on 37 (closed Sunday and Monday), the bar on 38 and a roof terrace on 39, all card only. A Superior Double is 21 m². **For a family, book the Studio Suite**: 40 m² with a king bed, for up to four.
 
 ### TRIBE London Canary Wharf
 
@@ -137,7 +137,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 *173 Limehouse Causeway, E14 8JD · Westferry DLR 1 min, West India Quay DLR 6 min, Elizabeth line 11 min, Jubilee 15 min*
 
-**[Premier Inn London Canary Wharf (Westferry)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-canary-wharf-westferry.html)** sells double, twin, family and accessible rooms, all air-conditioned, and a "with a view" version of the double. Premier Plus rooms add a coffee machine and mini-fridge. Thyme, the restaurant, does breakfast and dinner, and up to two children eat breakfast free with each adult Premier Inn breakfast. There is no on-site parking; the West India Quay car park on Hertsmere Road charges £24 for 24 hours. The Jubilee is a 15-minute walk, so this suits the DLR and the Elizabeth line better.
+**[Premier Inn London Canary Wharf (Westferry)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-canary-wharf-westferry.html)** sells double, twin, family and accessible rooms, all air-conditioned, and a "with a view" version of the double. Premier Plus rooms add a coffee machine and mini-fridge. Thyme, the restaurant, does breakfast and dinner, and up to two children eat breakfast free with each adult Premier Inn breakfast. There is no on-site parking; the West India Quay car park on Hertsmere Road charges £24 for 24 hours.
 
 ### Britannia International Hotel
 

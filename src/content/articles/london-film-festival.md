@@ -152,7 +152,7 @@ The full programme was published on 2 September. The headline announcements:
 
 **The Closing Night Gala** is *The Debut*, getting its UK premiere on the evening of Sunday 18 October. It is Jesse Eisenberg's follow-up to *A Real Pain*, which itself premiered at this festival in 2024, and he directs and stars alongside Julianne Moore, Paul Giamatti and Halle Bailey.
 
-**The Official Competition** — ten films in the running for Best Film, with the award announced on 18 October:
+**The Official Competition** — ten films in the running for Best Film:
 
 | Film | Director |
 | --- | --- |

@@ -107,13 +107,13 @@ Genesis is the cheapest standard adult ticket in London from Monday to Wednesday
 
 Monthly passes for people who go often. The break-even is roughly the same for all of them: **two films a month**.
 
-| Scheme | Cost | What you get | Minimum term |
+| Scheme | Cost | Minimum term | What you get |
 | --- | --- | --- | --- |
-| **Cineworld Unlimited** | £12.99–£22.99/month | Unlimited films. Four price groups by cinema — Group 4 at £22.99 is the only one covering all sites | 3 months |
-| **ODEON myLIMITLESS** | £16.99/month | Unlimited standard 2D. Luxe cinemas cost £3 extra per visit, £5 at Islington | 3 months |
-| **ODEON myLIMITLESS Plus** | £19.99/month | Adds Luxe access, iSense, 3D and premium recliner seats at no extra charge | 3 months |
-| **Curzon Cult** | £25/month or £285/year | Curzon's own wording is "7 free tickets a week", in cinemas or on Curzon Home Cinema | — |
-| **Everyman Everywhere** | £59/month or £680/year | "Unlimited film for a year", two tickets per show | — |
+| **Cineworld Unlimited** | £12.99–£22.99/month | 3 months | Unlimited films. Four price groups by cinema — Group 4 at £22.99 is the only one covering all sites |
+| **ODEON myLIMITLESS** | £16.99/month | 3 months | Unlimited standard 2D. Luxe cinemas cost £3 extra per visit, £5 at Islington |
+| **ODEON myLIMITLESS Plus** | £19.99/month | 3 months | Adds Luxe access, iSense, 3D and premium recliner seats at no extra charge |
+| **Curzon Cult** | £25/month or £285/year | — | Curzon's own wording is "7 free tickets a week", in cinemas or on Curzon Home Cinema |
+| **Everyman Everywhere** | £59/month or £680/year | — | "Unlimited film for a year", two tickets per show |
 
 **Cineworld's group system is the catch for Londoners.** The £12.99 headline covers selected cinemas only; the tiers rise through £17.99 and £19.99 to £22.99, and only the top tier is described as including all cinemas. Check which group your local sits in before assuming the cheap price applies — West End sites sit at the expensive end. IMAX, 4DX and ScreenX cost extra on top at every tier.
 

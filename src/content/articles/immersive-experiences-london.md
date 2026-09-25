@@ -80,7 +80,7 @@ That is the actual problem with picking one. Every other guide to this subject i
 
 ## Opening in the next six months
 
-Worth reading before you book anything above, because four of these are big enough to change what you would choose — and one of them opens this week.
+Worth reading before you book anything above, because four of these are big enough to change what you would choose.
 
 ### Absurd City, Westfield London — 15 October 2026
 
@@ -136,7 +136,7 @@ The distinction that matters more than genre. In these, you have a role, and sta
 
 *From £30 one game, £45 two, £50 all three · 26 Lambeth High Street, SE1 7SJ · Vauxhall or Lambeth North, not Waterloo · not open yet, tickets on sale*
 
-> ⚠️ **This one has not opened yet, and the date has already moved once.** A 5 September 2026 opening came and went, and no replacement date has been published. Little Lion are selling tickets anyway. Press and influencer previews ran on 2 September, which is where the early reviews come from. **Book a refundable slot or wait for a confirmed date.** *(Checked 7 September 2026.)*
+> ⚠️ **This one has not opened yet, and the date has already moved once.** A 5 September 2026 opening came and went, and no replacement date has been published. Little Lion are selling tickets anyway. Press and influencer previews ran on 2 September, which is where the early reviews come from. **Book a refundable slot or wait for a confirmed date.**
 
 **Three separate games in one building, from the team behind The Crystal Maze Experience** — Little Lion Entertainment, who know how to build this sort of thing and have run Chaos Karts in Manchester for years.
 
