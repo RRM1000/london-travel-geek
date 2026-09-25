@@ -60,6 +60,16 @@ Our [Kensington area guide](/articles/kensington-area-guide/) covers what to see
 
 A Victorian red-brick house in the Red Carnation group, directly across Kensington Road from the palace and its gardens. There are 43 deluxe rooms, 13 individually designed suites and six residences with two or three bedrooms each.
 
+<div class="photo-row">
+
+![A bedroom at The Milestone with gold-and-cream striped fabric walls, a racing print above an upholstered headboard, a leopard-print bedspread and matching tufted armchairs, with the bathroom visible through a door past the panelled wardrobe](../../assets/articles/where-to-stay-kensington/the-milestone-room.jpg)
+
+![A Milestone bathroom in black granite tiles and geometric wallpaper, with a bath behind a glass screen, a bidet, a pedestal basin and embroidered towels on a heated rail](../../assets/articles/where-to-stay-kensington/the-milestone-bathroom.jpg)
+
+</div>
+
+*Left: a room hung in striped fabric with leopard-print upholstery; each room is decorated differently. Right: a bathroom with a full-length bath and a bidet.*
+
 **For families it has a new Family Suite**: a main bedroom, a children's room with bunk beds, and separate bathrooms, overlooking Kensington Gardens. Guests use the resistance pool and gym free. The Stables Bar is in the building's former stables, and afternoon tea is served in the Park Lounge; our [afternoon tea guide](/articles/best-afternoon-tea-london/) reviews it.
 
 ### Royal Garden Hotel — the rooms that look over Kensington Gardens
@@ -67,6 +77,16 @@ A Victorian red-brick house in the Red Carnation group, directly across Kensingt
 *2–24 Kensington High Street, W8 4PT · High Street Kensington · [Hotels.com](hotelscom:105991)*
 
 A five-star at the park end of the high street, next to Kensington Gardens. **The room grade decides the view**: Garden Deluxe rooms and the Park Suites face the gardens, the Classic and Deluxe grades face the high street, and any grade with "Royal" in its name guarantees a high floor.
+
+<div class="photo-row">
+
+![A Royal Garden Hotel bedroom with a dark leather headboard, a green quilted throw and a raised window seat with a desk, looking over the treetops of Kensington Gardens to distant towers](../../assets/articles/where-to-stay-kensington/royal-garden-hotel-room.jpg)
+
+![A bath below a basin and a mirror shelf with a lit magnifying mirror, glasses and miniature toiletries at the Royal Garden Hotel](../../assets/articles/where-to-stay-kensington/royal-garden-hotel-bathroom.jpg)
+
+</div>
+
+*Left: a high-floor room on the park side; Garden Deluxe rooms and the Park Suites get this view, and high-street rooms face the other way. Right: a bath, with a lit magnifying mirror over the basin.*
 
 Min Jiang, the Chinese restaurant on the 10th floor, looks over Hyde Park and serves a wood-fired Beijing duck; Piano Kensington is the piano bar. There is a 24-hour gym but no pool. Our [family hotels guide](/articles/best-family-hotels-london/) covers its family rooms.
 
@@ -76,6 +96,16 @@ Min Jiang, the Chinese restaurant on the 10th floor, looks over Hyde Park and se
 
 A four-star with **833 bedrooms**, including five Family Suites and interconnecting rooms, on a side street three minutes from the station, and the largest hotel in this guide.
 
+<div class="photo-row">
+
+![A twin room at the Copthorne Tara with two single beds against pale wood headboards, framed prints, brass wall lamps and a small table under a wide net-curtained window](../../assets/articles/where-to-stay-kensington/copthorne-tara-hotel-london-kensington-room.jpg)
+
+![A cream-tiled bathroom at the Copthorne Tara with a pedestal basin, a wicker basket of toiletries and a bath with a grab rail and a shower over it](../../assets/articles/where-to-stay-kensington/copthorne-tara-hotel-london-kensington-bathroom.jpg)
+
+</div>
+
+*A twin room with its bathroom: a bath with a shower over it and a grab rail along the side.*
+
 Bugis Kitchen serves Singaporean and Malaysian dishes, there is a 24-hour gym and shop, and **it has on-site parking**.
 
 ### London Lodge Hotel — a family-run townhouse with a lift
@@ -84,6 +114,10 @@ Bugis Kitchen serves Singaporean and Malaysian dishes, there is a 24-hour gym an
 
 Two Victorian houses built in 1880 and joined, run by Mandy and Bernard since 1996, on a quiet street between Earl's Court and the high street. **There are steps up to the front door, then a lift to every floor**, which most townhouses this size lack.
 
+![A twin room at London Lodge Hotel with two single beds against a striped velvet headboard, teal cushions, patterned curtains, a mahogany desk and a wall-mounted air-conditioning unit](../../assets/articles/where-to-stay-kensington/london-lodge-hotel-room.jpg)
+
+*A twin room, with the air-conditioning unit high on the wall on the right.*
+
 It sells singles and a Standard Triple, rooms have air conditioning, and an extra bed is £45 a night; cots are free for children up to two. Stephanie's, the ground-floor bar and café, serves breakfast and afternoon tea and is open to non-residents.
 
 ### Safestay London Kensington Holland Park — a hostel inside the park
@@ -91,6 +125,10 @@ It sells singles and a Standard Triple, rooms have air conditioning, and an extr
 *£ · Holland Walk, W8 7QU · Holland Park 4 min · [Hotels.com](hotel:safestay-kensington-holland-park)*
 
 In the surviving east wing of Holland House, the Jacobean mansion begun in 1605, in the same park as the Kyoto Garden. You step out of the dorm into the park rather than onto a road.
+
+![A Safestay Holland Park dorm of purple metal two- and three-tier bunks, each numbered bed with its own privacy curtain, wire baskets under the lowest bunks and striped wallpaper behind](../../assets/articles/where-to-stay-kensington/safestay-london-kensington-holland-park-room.jpg)
+
+*A dorm of two- and three-tier bunks, each bed with its own curtain; a top bunk on the three-tier frames is a climb.*
 
 Private rooms and the female dorms are en-suite. **There is no guest kitchen**, luggage storage is £3 per item for 24 hours, and breakfast is £8 if you add it at reception. Our [hostels guide](/articles/best-hostels-london/) compares it with the other London hostels.
 
@@ -102,6 +140,16 @@ Private rooms and the female dorms are en-suite. **There is no guest kitchen**, 
 
 A Miiro hotel of 156 rooms with interiors by the London studio Thurstan. **Many rooms have balconies**, others look over the hotel's private garden, and the Templeton Garden Suites open onto a garden of their own. Junior Suites have a four-poster bed.
 
+<div class="photo-row">
+
+![A Templeton Garden bedroom with a rust-red velvet headboard, a cream boucle throw, a small radio on the bedside table and two armchairs by a tall window looking across at white stucco houses](../../assets/articles/where-to-stay-kensington/templeton-garden-room.jpg)
+
+![A Templeton Garden bathroom with a marble-panelled bath and brass taps under a window, and a black double-basin washstand with a marble top and rolled towels on the shelf below](../../assets/articles/where-to-stay-kensington/templeton-garden-bathroom.jpg)
+
+</div>
+
+*Left: a double with two armchairs at the window. Right: a suite bathroom, with a bath and two basins; the four-poster in the mirror is the bed both suite grades have.*
+
 For families, the Full House offer sells a connecting Twin at half price when you book a Classic room. Pippin's is the restaurant and Sprout the bar.
 
 ### Templeton Place by Supercity — apartments on the same square
@@ -110,11 +158,25 @@ For families, the Full House offer sells a connecting Twin at half price when yo
 
 Thirty studios and one-bedroom apartments on the same street as Templeton Garden, some with terrace access, and a residents' garden. Every suite has a kitchen and a washer-dryer, reception is 24 hours, and **cleaning is weekly, not daily**. Our [aparthotels guide](/articles/aparthotels-london/) explains when the format saves money.
 
+![A Templeton Place studio with a double bed under an abstract painting, a frosted glass screen hiding the kitchenette and its grey wall cupboards, a sofa by the window and a desk](../../assets/articles/where-to-stay-kensington/templeton-place-by-supercity-room.jpg)
+
+*A studio: the kitchen sits behind the frosted screen, with a sofa by the window.*
+
 ### Twenty Nevern Square — 20 rooms, breakfast in the conservatory
 
 *Nevern Square, SW5 · Earl's Court 3 min · Breakfast included · [Hotels.com](hotelscom:h888586)*
 
 A restored Victorian townhouse overlooking the private gardens of Nevern Square, with 20 rooms furnished in carved wood and silks. Grades run from a single and a small double to a four-poster room and the Pasha Suite.
+
+<div class="photo-row">
+
+![A Twenty Nevern Square bedroom with a wooden sleigh bed under a gilded crown and red silk drapes, red damask cushions, a carved desk and a glass-fronted mahogany cabinet by the window](../../assets/articles/where-to-stay-kensington/twenty-nevern-square-room.jpg)
+
+![A black marble shower room at Twenty Nevern Square with a glass corner shower, brass taps and flush plate, and a white basin under a round mirror](../../assets/articles/where-to-stay-kensington/twenty-nevern-square-bathroom.jpg)
+
+</div>
+
+*Left: a sleigh bed under a crown canopy; there is an electric fan on top of the wardrobe. Right: a shower room in black marble with brass fittings.*
 
 **A continental buffet breakfast is included**, served in a glass-roofed conservatory. Reception is 24 hours, and gated parking can be arranged.
 
@@ -124,6 +186,16 @@ A restored Victorian townhouse overlooking the private gardens of Nevern Square,
 
 A boutique townhouse a short walk from Earl's Court station. Singles and Compact Doubles are small; there are also Standard Doubles, Twins and **Triple rooms with a double and a single bed**.
 
+<div class="photo-row">
+
+![A double room at The Edwin with a grey channelled headboard, brass wall lights on a dark green wall, open wardrobe shelving and a desk under a window facing trees](../../assets/articles/where-to-stay-kensington/the-edwin-room.jpg)
+
+![A shower room at The Edwin with white vertical tiles, a walk-in shower with a black rain head behind a black-framed glass door, and a round mirror above a small basin](../../assets/articles/where-to-stay-kensington/the-edwin-bathroom.jpg)
+
+</div>
+
+*Left: a double with a desk at the window. Right: a walk-in shower, not a bath.*
+
 A continental breakfast is included every night, served until 10am. There is an open-plan guest lounge that doubles as a co-working space.
 
 ### Mowbray Court Hotel — a lift, air conditioning, about £119
@@ -131,6 +203,16 @@ A continental breakfast is included every night, served until 10am. There is an 
 *About £119 · 28–32 Penywern Road, SW5 9SU · Earl's Court · Breakfast £10 · [Hotels.com](hotelscom:608469)*
 
 A listed Victorian building on a residential street, with **a lift, air conditioning and a 24-hour front desk**. Rooms are small: a single is 10 square metres, a double 11 and a twin 12. The **Family Room is 20 square metres with a double and two single beds**.
+
+<div class="photo-row">
+
+![An attic twin room at Mowbray Court with two single beds under a sloping ceiling, white panelling, an open dark wardrobe and an air-conditioning grille, with the shower room through the door](../../assets/articles/where-to-stay-kensington/mowbray-court-hotel-room.jpg)
+
+![A compact shower room at Mowbray Court in dark grey tiles, with a small wall-hung basin, a lit mirror, a wall-mounted hairdryer and a towel shelf](../../assets/articles/where-to-stay-kensington/mowbray-court-hotel-bathroom.jpg)
+
+</div>
+
+*Left: a twin under the eaves, with the air-conditioning grille high on the wall by the bathroom door. Right: the shower room, a tight fit.*
 
 On the nights sampled for our [budget hotels guide](/articles/best-budget-hotels-london/) it ran from £85 on a February Wednesday to £176 on an April Saturday.
 
@@ -140,6 +222,16 @@ On the nights sampled for our [budget hotels guide](/articles/best-budget-hotels
 
 Family rooms, a restaurant, and up to two children eat breakfast free when an adult orders it. Across five sampled nights it ran from **£85 to £221**, and Saturdays were the dear ones.
 
+<div class="photo-row">
+
+![A Premier Plus double room with a button-tufted blue headboard, black reading lamps, a grey armchair, a curved desk and a window](../../assets/articles/where-to-stay-kensington/premier-inn-london-kensington-earls-court-room.jpg)
+
+![A Premier Inn bathroom with a walk-in shower behind a glass panel, a rain shower head, a purple glass wall panel and a basin set into a white vanity unit](../../assets/articles/where-to-stay-kensington/premier-inn-london-kensington-earls-court-bathroom.jpg)
+
+</div>
+
+*The Premier Plus room, the grade with air conditioning, and its bathroom: a walk-in rain shower, no bath.*
+
 Two things to check. **Air conditioning is only in the Premier Plus rooms.** And guests on the side facing the railway report hearing the trains, so ask for a room away from it. There is no on-site parking.
 
 ### Barmy Badger Backpackers — 48 beds and a hostel dog
@@ -147,6 +239,10 @@ Two things to check. **Air conditioning is only in the Premier Plus rooms.** And
 *£ · 17 Longridge Road, SW5 9SB · Earl's Court · Breakfast included · Adults only · [barmybadger.com](hotel:barmy-badger-backpackers)*
 
 A family-run hostel on a residential street, open since 1997, with 48 beds and no bar. Frankie, the hostel dog, is usually about. Dorms are mixed or female-only with four or six beds, and two female dorms are en-suite; private doubles and twins share bathrooms.
+
+![A Barmy Badger dorm with three-tier wooden bunks, green duvets, a pine chest of drawers in a bay window and a towel hanging on the door](../../assets/articles/where-to-stay-kensington/barmy-badger-backpackers-room.jpg)
+
+*A dorm of three-tier bunks, so a top bunk is a climb.*
 
 **Guests must be 18 or over, and the longest stay is seven nights.** Breakfast (7am to 9.30am) and the kitchen are free, and there is a garden. Every room is up stairs. Bring a padlock or buy one at reception for £10, cash only.
 
@@ -160,11 +256,31 @@ Cromwell Road runs east from Earl's Court to Gloucester Road, with the Natural H
 
 An independent Victorian townhouse with a bar, a restaurant and a garden. Rooms run from singles to Garden Rooms and a mezzanine suite. Sampled nights ran from £105 on a February Wednesday to £190 on an October Saturday.
 
+<div class="photo-row">
+
+![A Garden Room at The Rockwell with a mustard bedspread, teal and blue armchairs and a desk, and full-height glass doors opening onto a private patio with a table, chairs and olive trees](../../assets/articles/where-to-stay-kensington/the-rockwell-room.jpg)
+
+![A Rockwell bathroom in peach tiles with a wall-hung basin, a heated towel rail and oak-framed mirrored cabinets with glass shelves](../../assets/articles/where-to-stay-kensington/the-rockwell-bathroom.jpg)
+
+</div>
+
+*Left: a Garden Room, 28 to 30 square metres with a king-size bed, and glass doors onto a patio. Right: a bathroom with oak mirrored cabinets.*
+
 ### Hotel Xenia — balcony rooms, and Marriott points
 
 *160 Cromwell Road, SW5 0TL · Gloucester Road · [Hotels.com](hotelscom:h5453489)*
 
 A hotel in Marriott's Autograph Collection, so **Bonvoy points apply**. The Executive and Deluxe Balcony rooms each have a small terrace with a table and chairs, and the first-floor Xenia Suite has its own outdoor terrace. Some Executive Twins are accessible, with roll-in showers.
+
+<div class="photo-row">
+
+![A Hotel Xenia double with a copper studded headboard, bird-print cushions, a caramel throw, a coffee machine on the desk and a tall arched sash window](../../assets/articles/where-to-stay-kensington/hotel-xenia-room.jpg)
+
+![A Hotel Xenia bathroom in sand-coloured tiles with a basin, a glass shelf of toiletries and a bath with a glass shower screen](../../assets/articles/where-to-stay-kensington/hotel-xenia-bathroom.jpg)
+
+</div>
+
+*Left: a double with a tall arched window and a coffee machine. Right: a bath with a shower screen.*
 
 La Terrazza is the restaurant, with a conservatory and a programme of live music evenings.
 
@@ -173,6 +289,16 @@ La Terrazza is the restaurant, with a conservatory and a programme of live music
 *££ · 202–220 Cromwell Road, SW5 0SW · Earl's Court · [Hotels.com](hotel:ember-locke)*
 
 Locke's Kensington aparthotel: 121 studios in a converted Victorian building, from 21-square-metre City Studios to 27-square-metre Locke Studios. **Family Suites sleep four in 40 square metres**, and interconnecting apartments are available.
+
+<div class="photo-row">
+
+![An Ember Locke studio with terracotta walls, a dark green kitchenette with a sink, kettle and built-in microwave, a fringed banquette dining nook, a walnut chest of drawers and an arched mirror, seen from beside the bed](../../assets/articles/where-to-stay-kensington/ember-locke-room.jpg)
+
+![An Ember Locke shower room with terracotta tongue-and-groove panelling, a round wood-framed mirror over a wide basin, a sash window and a glass-doored shower](../../assets/articles/where-to-stay-kensington/ember-locke-bathroom.jpg)
+
+</div>
+
+*Left: a studio with a kitchenette and a banquette for eating in. Right: its shower room, with a window.*
 
 EVE, the on-site restaurant, serves New York-style pizza. There is a gym, a co-working space, a garden, a lift and on-site parking, and dogs are welcome. Cleaning is weekly.
 
@@ -188,6 +314,16 @@ Olympia's £1.3 billion rebuild opened in stages through 2026. **British Airways
 
 Opened in July 2026 inside the Olympia rebuild, a minute from the station and the exhibition halls. Some rooms have private terraces. The 1937 Lounge & Bar is the hotel's own, and the rooftop bars in the complex, Wolves of Tokyo and Bar Arriba, are a short walk away.
 
+<div class="photo-row">
+
+![A Hyatt Regency London Olympia room with a king bed on a raised oak platform, a grey headboard, a reeded glass sliding door and a wide window looking over West London terraces to distant towers](../../assets/articles/where-to-stay-kensington/hyatt-regency-london-olympia-room.jpg)
+
+![An accessible wet room at the Hyatt Regency London Olympia with green glazed tiles, a level-entry shower with a fold-down seat and grab rails, a toilet with a backrest and an emergency pull cord](../../assets/articles/where-to-stay-kensington/hyatt-regency-london-olympia-bathroom.jpg)
+
+</div>
+
+*Left: a king room with a window across West London. Right: the bathroom of an accessible room, a level-entry wet room with a fold-down shower seat.*
+
 **This is the hotel for an event at Olympia.** For sightseeing elsewhere in London, the Earl's Court hotels have the better Tube.
 
 ### Premier Inn London Kensington (Olympia) — air conditioning in every room
@@ -195,6 +331,16 @@ Opened in July 2026 inside the Olympia rebuild, a minute from the station and th
 *22–32 West Cromwell Road, SW5 9QJ · Earl's Court 0.3 miles · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-kensington-olympia.html)*
 
 Unlike the Earl's Court branch, this one has **air conditioning in every room**. It has family rooms and a restaurant, and children eat breakfast free with an adult. West Cromwell Road is the A4, the main road to Heathrow, so ask for a room at the back. There is no on-site parking.
+
+<div class="photo-row">
+
+![A Premier Inn Kensington (Olympia) room with a wide bed under a padded headboard lit purple from above, a purple runner, a grey armchair and purple-edged curtains at a tall window](../../assets/articles/where-to-stay-kensington/premier-inn-london-kensington-olympia-room.jpg)
+
+![An accessible Premier Inn bathroom with a level-entry shower behind a curtain, a fold-down shower seat, grab rails beside the toilet and basin, and an emergency pull cord](../../assets/articles/where-to-stay-kensington/premier-inn-london-kensington-olympia-bathroom.jpg)
+
+</div>
+
+*Left: a double room. Right: the bathroom of an accessible room, a wet room with a fold-down shower seat and grab rails.*
 
 ## Where to stay just outside
 
