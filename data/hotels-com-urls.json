@@ -540,5 +540,61 @@
  "supercity-templeton-place": {
   "url": "https://uk.hotels.com/h11974737.Hotel-Information",
   "note": "Resolved 2026-09-24 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page: the ho-id redirect was behind a bot check that day. Swap for the /ho<id>/ url when it can be read."
+ },
+ "jumeirah-carlton-tower": {
+  "url": "https://uk.hotels.com/h858368.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "the-franklin-london": {
+  "url": "https://uk.hotels.com/h15538456.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "the-peninsula-london": {
+  "url": "https://uk.hotels.com/h91642864.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "the-emory": {
+  "url": "https://uk.hotels.com/h96483486.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "como-the-halkin": {
+  "url": "https://uk.hotels.com/h518680.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "the-hari": {
+  "url": "https://uk.hotels.com/h3657.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "at-sloane": {
+  "url": "https://uk.hotels.com/h96814724.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "beaverbrook-town-house": {
+  "url": "https://uk.hotels.com/h93317941.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "wilde-paddington": {
+  "url": "https://uk.hotels.com/h70033061.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "grand-hotel-bellevue-london": {
+  "url": "https://uk.hotels.com/h66891016.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "native-hyde-park": {
+  "url": "https://uk.hotels.com/h5297150.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "cove-landmark-pinnacle": {
+  "url": "https://uk.hotels.com/h70970050.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "cheval-phoenix-house": {
+  "url": "https://uk.hotels.com/h7422259.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead, name and street matched. Stored as the /h<gaiaId>.Hotel-Information url, which 302s a visitor to the property page."
+ },
+ "cheval-gloucester-park": {
+  "url": "https://uk.hotels.com/h7822670.Hotel-Information",
+  "note": "Resolved 2026-09-25 via Hotels.com typeahead: Cheval Gloucester Park at Kensington, Ashburn Place."
  }
 }

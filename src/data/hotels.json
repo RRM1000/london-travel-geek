@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24",
+ "generated": "2026-09-25",
  "count": 219,
  "hotels": [
   {
@@ -960,8 +960,8 @@
    "hasLift": "yes",
    "airCon": "yes",
    "luggageStorage": "yes",
-   "whyGo": "Apartments partway up one of Europe's tallest residential towers, with the river on one side and the Wharf on the other - the views are the point and they are genuinely hard to match at this price.",
-   "opNote": "A residential building rather than a hotel, so the front desk is a concierge and the neighbours live there. Full kitchens rather than kitchenettes.",
+   "whyGo": "Apartments partway up a residential tower on the Isle of Dogs, with the river on one side and the Wharf on the other - the views are the point and they are genuinely hard to match at this price.",
+   "opNote": "A residential building rather than a hotel, so the front desk is a concierge and the neighbours live there. Studios have a kitchenette; the larger apartments a full kitchen.",
    "goodFor": [
     "solo",
     "couples",
@@ -973,7 +973,10 @@
     "long-stay",
     "aparthotels"
    ],
-   "website": "https://www.lockeliving.com/en/london"
+   "website": "https://www.lockeliving.com/en/london",
+   "hotelsUrl": "https://uk.hotels.com/h70970050.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h70970050.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "cove-moorgate",
@@ -1385,7 +1388,7 @@
    "airCon": "yes",
    "luggageStorage": "yes",
    "whyGo": "Aparthotel living inside Canary Wharf, on the Elizabeth line and the Jubilee, which puts Bond Street about fifteen minutes away and Heathrow under an hour without changing.",
-   "opNote": "The Wharf empties at weekends, which is either the appeal or the problem depending on why you are here. Kitchenettes throughout.",
+   "opNote": "Studios have their own kitchen and a washer-dryer.",
    "goodFor": [
     "solo",
     "couples",
@@ -1566,7 +1569,10 @@
    "lists": [
     "long-stay",
     "aparthotels"
-   ]
+   ],
+   "hotelsUrl": "https://uk.hotels.com/h5297150.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h5297150.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "nell-gwynn-house-pods",
@@ -2366,7 +2372,7 @@
    "slug": "the-pilgrm",
    "name": "The Pilgrm",
    "propertyType": "boutique",
-   "style": "Independent, under a minute from the station",
+   "style": "Independent, under three minutes from the station",
    "brand": "pilgrm",
    "chainType": "independent",
    "starRating": "4",
@@ -2388,7 +2394,7 @@
    "airCon": "yes",
    "luggageStorage": "yes",
    "whyGo": "Genuinely independent rather than a chain wearing a boutique name, in a converted Victorian building closer to the station than any of the branded alternatives.",
-   "opNote": "The single best-placed hotel for a Heathrow Express arrival or an early departure - it is not an exaggeration to say under a minute's walk.",
+   "opNote": "The single best-placed hotel for a Heathrow Express arrival or an early departure - under three minutes' walk.",
    "goodFor": [
     "solo",
     "business",
@@ -2678,7 +2684,7 @@
    "hasLift": "yes",
    "airCon": "yes",
    "luggageStorage": "yes",
-   "whyGo": "On the canal basin behind the station, two minutes from the Elizabeth line and the Heathrow Express - the shortest walk to a train of any aparthotel here.",
+   "whyGo": "On the canal basin behind the station, about seven minutes' walk from the Elizabeth line and the Heathrow Express.",
    "opNote": "The basin side is quiet and the water makes it feel further from the station than it is.",
    "goodFor": [
     "solo",
@@ -2690,7 +2696,10 @@
    "lists": [
     "long-stay",
     "aparthotels"
-   ]
+   ],
+   "hotelsUrl": "https://uk.hotels.com/h70033061.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h70033061.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "zedwell-greenwich",
@@ -3149,7 +3158,10 @@
    "lists": [
     "long-stay",
     "aparthotels"
-   ]
+   ],
+   "hotelsUrl": "https://uk.hotels.com/h7822670.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h7822670.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "conrad-london-st-james",
@@ -3332,7 +3344,10 @@
     "design",
     "boutique"
    ],
-   "website": "https://www.grandhotelbellevuelondon.com/"
+   "website": "https://www.grandhotelbellevuelondon.com/",
+   "hotelsUrl": "https://uk.hotels.com/h66891016.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h66891016.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "hart-shoreditch",
@@ -4185,14 +4200,13 @@
    "lng": -0.161837,
    "priceBand": "£££",
    "typicalFrom": "About £240",
-   "breakfast": "included",
    "roomTypes": "Double, suite",
    "accessibility": "no",
    "hasLift": "yes",
    "airCon": "yes",
    "luggageStorage": "yes",
-   "whyGo": "A small, Italian-furnished townhouse just off Sloane Square, run more like a private house than a hotel - a rooftop terrace with views over Chelsea.",
-   "opNote": "Small - seventeen rooms - so it books out well ahead. Breakfast is served in the room or on the roof terrace rather than a dining room.",
+   "whyGo": "A small, Italian-furnished townhouse just off Sloane Square, run more like a private house than a hotel, with balconies on some rooms and an honesty bar on the fourth floor.",
+   "opNote": "Small - nineteen rooms - so it books out well ahead.",
    "goodFor": [
     "couples"
    ],
@@ -4522,13 +4536,13 @@
    "brand": "chelsea-townhouse",
    "chainType": "independent",
    "starRating": "4",
-   "rooms": "35",
+   "rooms": "36",
    "area": "Chelsea",
    "borough": "Kensington and Chelsea",
    "guide": "chelsea-area-guide",
    "zone": "1–2",
    "district": "West",
-   "address": "Cadogan Gardens",
+   "address": "26 Cadogan Gardens",
    "postcode": "SW3 2RP",
    "lat": 51.492953,
    "lng": -0.159855,
@@ -4540,7 +4554,7 @@
    "hasLift": "yes",
    "airCon": "yes",
    "luggageStorage": "yes",
-   "whyGo": "A Victorian townhouse of 35 individually decorated rooms with Edwardian antiques, on a residential garden square two minutes off the King's Road.",
+   "whyGo": "A Victorian townhouse of 36 individually decorated rooms with Edwardian antiques, on a residential garden square two minutes off the King's Road.",
    "opNote": "Renamed from The Draycott in 2022 - older reviews and articles still use the old name; do not treat them as a different hotel.",
    "goodFor": [
     "couples",
@@ -5689,13 +5703,16 @@
     "luxury",
     "boutique"
    ],
-   "website": "https://www.atsloane.com/"
+   "website": "https://www.atsloane.com/",
+   "hotelsUrl": "https://uk.hotels.com/h96814724.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h96814724.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "beaverbrook-town-house",
    "name": "Beaverbrook Town House",
    "propertyType": "townhouse",
-   "style": "Fourteen suites named after London theatres",
+   "style": "Rooms and suites named after London theatres",
    "brand": "beaverbrook",
    "chainType": "mini-chain",
    "area": "Chelsea",
@@ -5707,7 +5724,7 @@
    "postcode": "SW1X 9PJ",
    "priceBand": "££££",
    "whyGo": "Two restored Georgian houses on Sloane Street run as one hotel of fourteen suites, each named for a London theatre and hung with vintage posters, looking out over Cadogan Gardens. The Fuji Grill does Japanese downstairs and Sir Frank's is the bar.",
-   "opNote": "Suites only - fourteen of them and no standard rooms, so there is no cheaper tier to drop to. The country sister is Beaverbrook in Leatherhead and the group sells a two-centre 'Town to Country' stay between them.",
+   "opNote": "Deluxe rooms of 26 to 32 square metres below the suites. The country sister is Beaverbrook in Leatherhead and the group sells a two-centre 'Town to Country' stay between them.",
    "goodFor": [
     "couples",
     "celebration"
@@ -5716,7 +5733,10 @@
     "luxury",
     "boutique"
    ],
-   "website": "https://beaverbrooktownhouse.co.uk/"
+   "website": "https://beaverbrooktownhouse.co.uk/",
+   "hotelsUrl": "https://uk.hotels.com/h93317941.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h93317941.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "broadwick-soho",
@@ -5877,7 +5897,10 @@
    "lists": [
     "long-stay",
     "aparthotels"
-   ]
+   ],
+   "hotelsUrl": "https://uk.hotels.com/h7422259.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h7422259.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "cheval-three-quays",
@@ -5984,7 +6007,10 @@
     "luxury",
     "boutique"
    ],
-   "website": "https://www.comohotels.com/"
+   "website": "https://www.comohotels.com/",
+   "hotelsUrl": "https://uk.hotels.com/h518680.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h518680.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "corinthia-london",
@@ -6323,7 +6349,10 @@
    "lists": [
     "luxury"
    ],
-   "website": "https://www.jumeirah.com/en/stay/london/jumeirah-carlton-tower"
+   "website": "https://www.jumeirah.com/en/stay/london/jumeirah-carlton-tower",
+   "hotelsUrl": "https://uk.hotels.com/h858368.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h858368.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "mandarin-oriental-hyde-park",
@@ -7022,7 +7051,10 @@
     "luxury",
     "showstopper"
    ],
-   "website": "https://www.the-emory.co.uk/"
+   "website": "https://www.the-emory.co.uk/",
+   "hotelsUrl": "https://uk.hotels.com/h96483486.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h96483486.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-franklin-london",
@@ -7049,7 +7081,10 @@
     "luxury",
     "boutique"
    ],
-   "website": "https://collezione.starhotels.com/en/our-hotels/the-franklin-london/"
+   "website": "https://collezione.starhotels.com/en/our-hotels/the-franklin-london/",
+   "hotelsUrl": "https://uk.hotels.com/h15538456.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h15538456.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-goring",
@@ -7149,7 +7184,10 @@
     "luxury",
     "boutique"
    ],
-   "website": "https://www.thehari.com/"
+   "website": "https://www.thehari.com/",
+   "hotelsUrl": "https://uk.hotels.com/h3657.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h3657.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-landmark-london",
@@ -7466,7 +7504,10 @@
     "luxury",
     "showstopper"
    ],
-   "website": "https://www.peninsula.com/en/london/"
+   "website": "https://www.peninsula.com/en/london/",
+   "hotelsUrl": "https://uk.hotels.com/h91642864.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h91642864.Hotel-Information",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-ritz-london",

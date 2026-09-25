@@ -162,7 +162,7 @@ The reason to look here even at the top of that range: **the V&A names Knightsbr
 
 Not cheaper, and not pretending to be. This is the section for anyone who has read the rest of this guide and decided that dinner matters more than a tunnel. Sloane Square is one stop east on the District and Circle, and the King's Road runs west from it with restaurants still serving when South Kensington has gone dark.
 
-**[San Domenico House](hotel:san-domenico-house)** is about £240 for seventeen Italian-furnished rooms off Sloane Square, breakfast included and served on the roof terrace; being that small, it books out well ahead. **[The Chelsea Townhouse](hotel:the-chelsea-townhouse)** is about £260 for 35 individually decorated rooms on a garden square — it was **The Draycott until 2022**, so older reviews are of the same hotel under a different name. **[The Cadogan](hotel:the-cadogan-belmond)** on Sloane Street is about £450 and one of the best-reviewed hotels in the city.
+**[San Domenico House](hotel:san-domenico-house)** is about £240 for nineteen Italian-furnished rooms off Sloane Square; being that small, it books out well ahead. **[The Chelsea Townhouse](hotel:the-chelsea-townhouse)** is about £260 for 36 individually decorated rooms on a garden square — it was **The Draycott until 2022**, so older reviews are of the same hotel under a different name. **[The Cadogan](hotel:the-cadogan-belmond)** on Sloane Street is about £450 and one of the best-reviewed hotels in the city.
 
 Add ten to fifteen minutes to every museum walk and you have the trade in full. Our [Chelsea area guide](/articles/chelsea-area-guide/) covers what the extra buys.
 

@@ -200,3 +200,5 @@ Paddington is one of central London's better-value hotel districts, and the Heat
 - **Praed Street and Sussex Gardens** — The highest concentration of mid-range hotels. Convenient, noisy, unremarkable.
 - **Little Venice and Warwick Avenue** — Quieter, more attractive, a short walk or one stop from the station.
 - **Bayswater and Queensway** — Better restaurants and lower prices, ten minutes south-west, with Kensington Gardens on the doorstep.
+
+Our [Paddington hotel guide](/articles/where-to-stay-paddington/) compares the hotels, from the station to the Sussex Gardens townhouses.

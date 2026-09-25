@@ -585,6 +585,7 @@ const ROWS = [
     goodFor: "solo, couples, families, business, long-stay",
     lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
+    hotelsUrl: "https://uk.hotels.com/h5297150.Hotel-Information",
   },
   {
     ...base, slug: "native-mayfair", name: "Native Mayfair",
@@ -676,6 +677,7 @@ const ROWS = [
     goodFor: "solo, couples, families, business, long-stay",
     lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
+    hotelsUrl: "https://uk.hotels.com/h7822670.Hotel-Information",
   },
   {
     ...base, slug: "cheval-phoenix-house", name: "Cheval Phoenix House",
@@ -693,6 +695,7 @@ const ROWS = [
     goodFor: "solo, couples, families, business, long-stay",
     lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
+    hotelsUrl: "https://uk.hotels.com/h7422259.Hotel-Information",
   },
   {
     ...base, slug: "supercity-rosebery", name: "The Rosebery by Supercity Aparthotels",
@@ -790,12 +793,13 @@ const ROWS = [
     priceBand: "££", typicalFrom: "", breakfast: "extra",
     roomTypes: "Studios and apartments with kitchens", familyPolicy: "",
     accessibility: "accessible-rooms", hasLift: "yes", airCon: "yes", luggageStorage: "yes",
-    whyGo: "On the canal basin behind the station, two minutes from the Elizabeth line and the Heathrow Express - the shortest walk to a train of any aparthotel here.",
+    whyGo: "On the canal basin behind the station, about seven minutes' walk from the Elizabeth line and the Heathrow Express.",
     angle: "room",
     opSummary: "The basin side is quiet and the water makes it feel further from the station than it is.",
     goodFor: "solo, couples, families, business, long-stay",
     lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
+    hotelsUrl: "https://uk.hotels.com/h70033061.Hotel-Information",
   },
   {
     ...base, slug: "leman-locke", name: "Leman Locke",
@@ -880,7 +884,7 @@ const ROWS = [
     accessibility: "accessible-rooms", hasLift: "yes", airCon: "yes", luggageStorage: "yes",
     whyGo: "Aparthotel living inside Canary Wharf, on the Elizabeth line and the Jubilee, which puts Bond Street about fifteen minutes away and Heathrow under an hour without changing.",
     angle: "room",
-    opSummary: "The Wharf empties at weekends, which is either the appeal or the problem depending on why you are here. Kitchenettes throughout.",
+    opSummary: "Studios have their own kitchen and a washer-dryer.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
     hotelsUrl: "https://uk.hotels.com/h126332004.Hotel-Information",
@@ -896,13 +900,14 @@ const ROWS = [
     priceBand: "££", typicalFrom: "", breakfast: "extra",
     roomTypes: "Studios and apartments with kitchens", familyPolicy: "",
     accessibility: "accessible-rooms", hasLift: "yes", airCon: "yes", luggageStorage: "yes",
-    whyGo: "Apartments partway up one of Europe's tallest residential towers, with the river on one side and the Wharf on the other - the views are the point and they are genuinely hard to match at this price.",
+    whyGo: "Apartments partway up a residential tower on the Isle of Dogs, with the river on one side and the Wharf on the other - the views are the point and they are genuinely hard to match at this price.",
     angle: "room",
-    opSummary: "A residential building rather than a hotel, so the front desk is a concierge and the neighbours live there. Full kitchens rather than kitchenettes.",
+    opSummary: "A residential building rather than a hotel, so the front desk is a concierge and the neighbours live there. Studios have a kitchenette; the larger apartments a full kitchen.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
     lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Address from the property's own page at lockeliving.com (JSON-LD). NOT PRICED: Hotels.com returned 429 to every property page that day, so no rate was sampled and none is guessed - run the rate sampler to fill it.",
+    hotelsUrl: "https://uk.hotels.com/h70970050.Hotel-Information",
   },
   {
     ...base, slug: "cove-moorgate", name: "Cove by Locke Moorgate",
@@ -1337,7 +1342,7 @@ const ROWS = [
   // ------------------------------- PADDINGTON -------------------------------
   {
     ...base, slug: "the-pilgrm", name: "The Pilgrm",
-    propertyType: "boutique", style: "Independent, under a minute from the station",
+    propertyType: "boutique", style: "Independent, under three minutes from the station",
     brand: "pilgrm", chainType: "independent", starRating: "4",
     hood: "Paddington", borough: "Westminster", areaGuide: "paddington-area-guide",
     address: "25 London Street",
@@ -1346,7 +1351,7 @@ const ROWS = [
     airCon: "yes", luggageStorage: "yes",
     whyGo: "Genuinely independent rather than a chain wearing a boutique name, in a converted Victorian building closer to the station than any of the branded alternatives.",
     angle: "access",
-    opSummary: "The single best-placed hotel for a Heathrow Express arrival or an early departure - it is not an exaggeration to say under a minute's walk.",
+    opSummary: "The single best-placed hotel for a Heathrow Express arrival or an early departure - under three minutes' walk.",
     goodFor: "solo, business, couples",
     website: "https://thepilgrm.com/",
     hotelsUrl: "https://uk.hotels.com/ho2233812704/the-pilgrm-hotel-london-united-kingdom/",
@@ -1400,12 +1405,12 @@ const ROWS = [
     brand: "san-domenico", chainType: "independent", starRating: "4",
     hood: "Chelsea", borough: "Kensington and Chelsea", areaGuide: "chelsea-area-guide",
     address: "29-31 Draycott Place",
-    priceBand: "£££", typicalFrom: "About £240", breakfast: "included",
+    priceBand: "£££", typicalFrom: "About £240", breakfast: "",
     roomTypes: "Double, suite", accessibility: "no", hasLift: "yes",
     airCon: "yes", luggageStorage: "yes",
-    whyGo: "A small, Italian-furnished townhouse just off Sloane Square, run more like a private house than a hotel - a rooftop terrace with views over Chelsea.",
+    whyGo: "A small, Italian-furnished townhouse just off Sloane Square, run more like a private house than a hotel, with balconies on some rooms and an honesty bar on the fourth floor.",
     angle: "room",
-    opSummary: "Small - seventeen rooms - so it books out well ahead. Breakfast is served in the room or on the roof terrace rather than a dining room.",
+    opSummary: "Small - nineteen rooms - so it books out well ahead.",
     goodFor: "couples",
     website: "https://www.sandomenicohouse.com/",
     hotelsUrl: "https://uk.hotels.com/ho359246/san-domenico-house-london-united-kingdom/",
@@ -1418,11 +1423,11 @@ const ROWS = [
     propertyType: "townhouse", style: "1890 townhouse, formerly the Draycott",
     brand: "chelsea-townhouse", chainType: "independent", starRating: "4",
     hood: "Chelsea", borough: "Kensington and Chelsea", areaGuide: "chelsea-area-guide",
-    address: "Cadogan Gardens",
+    address: "26 Cadogan Gardens",
     priceBand: "£££", typicalFrom: "About £260", breakfast: "extra",
-    rooms: "35", roomTypes: "Double, suite, individually decorated",
+    rooms: "36", roomTypes: "Double, suite, individually decorated",
     accessibility: "limited", hasLift: "yes", airCon: "yes", luggageStorage: "yes",
-    whyGo: "A Victorian townhouse of 35 individually decorated rooms with Edwardian antiques, on a residential garden square two minutes off the King's Road.",
+    whyGo: "A Victorian townhouse of 36 individually decorated rooms with Edwardian antiques, on a residential garden square two minutes off the King's Road.",
     angle: "origin",
     opSummary: "Renamed from The Draycott in 2022 - older reviews and articles still use the old name; do not treat them as a different hotel.",
     goodFor: "couples, business",
@@ -2133,6 +2138,7 @@ const ROWS = [
     signals: "2 sources: Business Traveller, Robb Report",
     lists: "luxury, showstopper",
     source: "Luxury pass 2026-08-20.",
+    hotelsUrl: "https://uk.hotels.com/h91642864.Hotel-Information",
   },
   {
     ...base, slug: "six-senses-london", name: "Six Senses London",
@@ -2170,6 +2176,7 @@ const ROWS = [
     signals: "2 sources: Business Traveller, Robb Report",
     lists: "luxury, showstopper",
     source: "Luxury pass 2026-08-20.",
+    hotelsUrl: "https://uk.hotels.com/h96483486.Hotel-Information",
   },
   {
     ...base, slug: "mandarin-oriental-mayfair", name: "Mandarin Oriental Mayfair",
@@ -3041,6 +3048,7 @@ const ROWS = [
     website: "https://www.thehari.com/",
     lists: "luxury, boutique",
     source: "Consensus 2026-09-09: 3 domains in hotels-boutique, 1 in hotels.",
+    hotelsUrl: "https://uk.hotels.com/h3657.Hotel-Information",
   },
 
   // ------------------------------- FAMILY ----------------------------------
@@ -3180,6 +3188,7 @@ const ROWS = [
     website: "https://www.comohotels.com/",
     lists: "luxury, boutique",
     source: "Consensus 2026-09-09, hotels-belgravia corpus, 3 domains: Time Out, LuxuryUK, Sotheby's Journal - merging the 'The Halkin' and 'COMO The Halkin' variants after confirming they are one property.",
+    hotelsUrl: "https://uk.hotels.com/h518680.Hotel-Information",
   },
   // ===== THE TWO-SOURCE SHORTLIST, RESEARCHED 2026-09-09 =====
   // Named by two independent domains across the twenty-nine corpora and not
@@ -3206,6 +3215,7 @@ const ROWS = [
     website: "https://www.atsloane.com/",
     lists: "luxury, boutique",
     source: "Consensus 2026-09-09: 2 domains in hotels-boutique (Conde Nast Traveller UK, Conde Nast Traveler US), 2 in hotels (Vogue UK, House and Garden). Address, room count and the five-star claim from the operator's own contact and home pages. Address from the operator's own site.",
+    hotelsUrl: "https://uk.hotels.com/h96814724.Hotel-Information",
   },
   {
     ...base, slug: "45-park-lane", name: "45 Park Lane",
@@ -3225,18 +3235,19 @@ const ROWS = [
   },
   {
     ...base, slug: "beaverbrook-town-house", name: "Beaverbrook Town House",
-    propertyType: "townhouse", style: "Fourteen suites named after London theatres",
+    propertyType: "townhouse", style: "Rooms and suites named after London theatres",
     brand: "beaverbrook", chainType: "mini-chain", starRating: "",
     hood: "Chelsea", borough: "Kensington and Chelsea", areaGuide: "chelsea-area-guide",
     address: "115 Sloane Street", postcode: "SW1X 9PJ",
     priceBand: "££££", breakfast: "",
     whyGo: "Two restored Georgian houses on Sloane Street run as one hotel of fourteen suites, each named for a London theatre and hung with vintage posters, looking out over Cadogan Gardens. The Fuji Grill does Japanese downstairs and Sir Frank's is the bar.",
     angle: "room",
-    opSummary: "Suites only - fourteen of them and no standard rooms, so there is no cheaper tier to drop to. The country sister is Beaverbrook in Leatherhead and the group sells a two-centre 'Town to Country' stay between them.",
+    opSummary: "Deluxe rooms of 26 to 32 square metres below the suites. The country sister is Beaverbrook in Leatherhead and the group sells a two-centre 'Town to Country' stay between them.",
     goodFor: "couples, celebration",
     website: "https://beaverbrooktownhouse.co.uk/",
     lists: "luxury, boutique",
     source: "Consensus 2026-09-09: 2 domains in hotels-boutique (Conde Nast Traveller UK, Conde Nast Traveler US), 2 in hotels (Conde Nast Traveller UK, Vogue UK), 1 in hotels-family. Address from the operator's own site. Borough from postcodes.io - SW1X 9PJ is Kensington and Chelsea, Brompton & Hans Town ward, so it is the Chelsea side of Sloane Street.",
+    hotelsUrl: "https://uk.hotels.com/h93317941.Hotel-Information",
   },
 
   // ------------------------------- BLOOMSBURY -------------------------------
@@ -3421,6 +3432,7 @@ const ROWS = [
     website: "https://www.grandhotelbellevuelondon.com/",
     lists: "design, boutique",
     source: "Consensus 2026-09-09, hotels corpus, 2 domains: houseandgarden.co.uk, thehotelguru.com (designmynight.com names it again in the hotels-views corpus). Address from the operator's own site.",
+    hotelsUrl: "https://uk.hotels.com/h66891016.Hotel-Information",
   },
   {
     ...base, slug: "hart-shoreditch", name: "Hart Shoreditch Hotel London, Curio Collection by Hilton",
@@ -3853,6 +3865,7 @@ const ROWS = [
     website: "https://www.jumeirah.com/en/stay/london/jumeirah-carlton-tower",
     lists: "luxury",
     source: "Consensus 2026-09-09, hotels-belgravia corpus, 2 domains: Sotheby's Journal, LuxuryUK; also Families Love Travel in the family pass. Address, room count and garden key from the operator's own site. Star rating not stated by the operator, so left empty.",
+    hotelsUrl: "https://uk.hotels.com/h858368.Hotel-Information",
   },
   {
     ...base, slug: "the-franklin-london", name: "The Franklin London",
@@ -3868,6 +3881,7 @@ const ROWS = [
     website: "https://collezione.starhotels.com/en/our-hotels/the-franklin-london/",
     lists: "luxury, boutique",
     source: "Consensus 2026-09-09, hotels-south-kensington corpus, 2 domains: Sotheby's Journal, South Ken Culture Quarter; also The Handbook, Time Out and The Hotel Guru in other passes. Address and five-star rating from the operator's own site.",
+    hotelsUrl: "https://uk.hotels.com/h15538456.Hotel-Information",
   },
 
   // ----------------------------- SOUTH KENSINGTON --------------------------

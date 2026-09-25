@@ -62,7 +62,7 @@ The fastest train out of Heathrow is not necessarily the fastest route to your h
 
 | Hotel Area or Destination | Recommended Route | Why |
 | --- | --- | --- |
-| **Paddington** | Elizabeth Line or Heathrow Express | Both direct; Express saves 13 mins, Elizabeth line is £10.50 cheaper |
+| **Paddington** | Elizabeth Line or Heathrow Express | Both direct; Express saves 13 mins, Elizabeth line is £11.40 cheaper than the walk-up Express |
 | **Bond St / Oxford St / Mayfair** | Elizabeth Line | Direct, step-free, and drops you right in the West End |
 | **Soho / Bloomsbury / Tottenham Court Rd** | Elizabeth Line | Direct to Tottenham Court Road in ~35 minutes |
 | **Farringdon / City / St Paul's** | Elizabeth Line | Direct cross-city connection without changing trains |

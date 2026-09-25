@@ -274,3 +274,5 @@ Modern, well connected and often cheaper than Zone 1, with the trade-off of a qu
 - **Canary Wharf** — Large business hotels, and **often much cheaper at weekends** when corporate demand drops. That inversion is the single best-value thing about staying here.
 - **Wood Wharf** — Newer, on the water, and closer to the better restaurants.
 - **North Greenwich** — One stop on the Jubilee line, handy for the O2.
+
+Our [Canary Wharf hotel guide](/articles/where-to-stay-canary-wharf/) compares the hotels and aparthotels, and which night is cheapest.

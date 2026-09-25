@@ -50,7 +50,7 @@ The O2 has one station, North Greenwich, on one Tube line, the Jubilee. So the u
 
 ### Canary Wharf: one stop west
 
-Canary Wharf is two minutes from North Greenwich, the first stop on the westbound Jubilee. It's a business district, so its hotels fill Monday to Thursday and ease off at weekends, which is the reverse of most of London and works in your favour for a Friday or Saturday show. Our [Canary Wharf area guide](/articles/canary-wharf-area-guide/) covers where to eat before the show.
+Canary Wharf is two minutes from North Greenwich, the first stop on the westbound Jubilee; our [Canary Wharf hotel guide](/articles/where-to-stay-canary-wharf/) has the full list. It's a business district, so its hotels fill Monday to Thursday and are cheapest on a Sunday night, which suits a Sunday show; Saturdays are not reliably cheaper. Our [Canary Wharf area guide](/articles/canary-wharf-area-guide/) covers where to eat before the show.
 
 **[Novotel London Canary Wharf](hotel:novotel-canary-wharf)** is about **£160** at 40 Marsh Wall, E14 9TP, six minutes' walk from the Jubilee station and 22 minutes door to door. Bōkan, the restaurant and bar on its top floors, is open to non-residents.
 

@@ -264,3 +264,5 @@ Quiet, attractive and expensive, with limited Tube access — a good base if you
 - **Sloane Square** — The only part with direct Tube access. Boutique hotels and townhouses.
 - **South Kensington** — Fifteen minutes north-west, better connected, and next to the museums.
 - **Earl's Court and Fulham** — West and considerably cheaper, with District line access.
+
+Our [Chelsea and Knightsbridge hotel guide](/articles/where-to-stay-chelsea/) compares the hotels from Sloane Square to Hyde Park Corner.

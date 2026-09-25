@@ -300,11 +300,11 @@ Time Out has called it the best hotel in London, and it costs half what the equi
 
 *About £160–£200 · Zone 2 · Canary Wharf · [area guide](/articles/canary-wharf-area-guide/)*
 
-A business district, which means it fills Monday to Thursday and **thins out at weekends, so it prices against the opposite pattern to the rest of London.** If your trip is Friday to Sunday, check a Canary Wharf rate against a central one before assuming central is competitive.
+A business district, which means it fills Monday to Thursday and **is cheapest on a Sunday night**: a Novotel double was £165 on a Sunday in October and £227 on the Saturday before. If your trip includes a Sunday night, check a Canary Wharf rate against a central one before assuming central is competitive.
 
 **Weekends are quiet rather than dead, and that has changed recently.** The old malls still wind down on a Sunday, but Wood Wharf at the eastern end runs all week — waterside restaurants, Mercato Metropolitano, a floating fifty-metre lido, and Fairgame serving until 1am on Saturdays. You get no queue outside your window and still have somewhere to go. Guides describing an empty office estate are describing it before about 2023. The Elizabeth line runs here direct from Heathrow in about 48 minutes, and the Jubilee goes straight to Bond Street and Green Park. Of the three lines here only the Jubilee runs through the night on Fridays and Saturdays; the DLR and the Elizabeth line stop, so check which entrance your hotel is nearest if you are out late.
 
-**[Novotel Canary Wharf](hotel:novotel-canary-wharf)** is about £160 and has Bokan, a rooftop restaurant with one of the better elevated views in east London, open to non-residents. **[London Marriott Canary Wharf](hotel:london-marriott-canary-wharf)** is about £200 on West India Quay with floor-to-ceiling windows over the dock, a 24-hour gym and a 24-hour business centre.
+**[Novotel Canary Wharf](hotel:novotel-canary-wharf)** is about £160 and has Bokan, a rooftop restaurant with one of the better elevated views in east London, open to non-residents. **[London Marriott Canary Wharf](hotel:london-marriott-canary-wharf)** is about £200 on West India Quay with floor-to-ceiling windows over the dock, a 24-hour gym and a 24-hour business centre. Our full [Canary Wharf hotel guide](/articles/where-to-stay-canary-wharf/) compares the rest.
 
 ### Wembley — only if the reason is Wembley
 
@@ -332,7 +332,7 @@ Low-rise, affluent, genuinely residential, and about as far from a nightlife dis
 
 **Sloane Square is District and Circle**, which is quick and frequent all day and stops overnight like most of the network. If a late Friday or Saturday is part of the plan, Knightsbridge on the Piccadilly is about twelve minutes' walk and Victoria about fifteen, and the N11 and N22 run along the King's Road through Sloane Square all night.
 
-**[San Domenico House](hotel:san-domenico-house)** is about £240 with breakfast, seventeen rooms in an Italian-furnished townhouse off Sloane Square, with a roof terrace — and it books out well ahead. **[The Chelsea Townhouse](hotel:the-chelsea-townhouse)** is about £260 for 35 individually decorated rooms on a garden square; it was the Draycott until 2022, so older reviews are about the same building. **[The Cadogan](hotel:the-cadogan-belmond)** is about £450 on Sloane Street and one of the highest-rated hotels in the city.
+**[San Domenico House](hotel:san-domenico-house)** is about £240, nineteen rooms in an Italian-furnished townhouse off Sloane Square, and it books out well ahead. **[The Chelsea Townhouse](hotel:the-chelsea-townhouse)** is about £260 for 36 individually decorated rooms on a garden square; it was the Draycott until 2022, so older reviews are about the same building. **[The Cadogan](hotel:the-cadogan-belmond)** is about £450 on Sloane Street and one of the highest-rated hotels in the city. Our full [Chelsea and Knightsbridge hotel guide](/articles/where-to-stay-chelsea/) compares the rest.
 
 ### Notting Hill — pastel streets, five stops from Oxford Circus
 
@@ -388,11 +388,11 @@ Charlotte Street is the densest run of restaurants in central London and the are
 
 *About £150–£200 · Zone 1 · Paddington · [area guide](/articles/paddington-area-guide/)*
 
-The best airport base in London by a distance. **Heathrow Express is 15 minutes non-stop to Paddington** — £26 walk-up, or from £10 booked 30 or more days ahead — and the Elizabeth line does the same trip in 28 minutes for £15.50, which counts towards your daily fare cap where the Express does not. Our [Heathrow transport guide](/articles/heathrow-airport-to-london/) has the full comparison.
+The best airport base in London by a distance. **Heathrow Express is 15 minutes non-stop to Paddington** — £26 walk-up, or from £10 booked 30 or more days ahead — and the Elizabeth line does the same trip in 28 minutes for £14.60, which counts towards your daily fare cap where the Express does not. Our [Heathrow transport guide](/articles/heathrow-airport-to-london/) has the full comparison.
 
 **The area itself is transport and canal rather than a night out**, which is the real reason to treat it as a first-night and last-night base rather than a week-long one. It is also a big interchange with no Night Tube line at all — Bakerloo, Circle, District, Hammersmith & City and the Elizabeth line all stop overnight — so a 2am return here is a night bus.
 
-**[The Pilgrm](hotel:the-pilgrm)** is about £150 and genuinely under a minute's walk from the station, so a 6am departure starts with a walk across the concourse. **[Hilton London Paddington](hotel:hilton-london-paddington)** is about £200 and is the original Great Western Royal Hotel of 1854, built into the station — you walk from platform to lobby without going outside.
+**[The Pilgrm](hotel:the-pilgrm)** is about £150 and under three minutes' walk from the station, so a 6am departure starts with a short walk. **[Hilton London Paddington](hotel:hilton-london-paddington)** is about £200 and is the original Great Western Royal Hotel of 1854, built into the station — you walk from platform to lobby without going outside. Our full [Paddington hotel guide](/articles/where-to-stay-paddington/) compares the rest, including the Sussex Gardens townhouses.
 
 ### Mayfair — expensive, central, and one train from everywhere
 
