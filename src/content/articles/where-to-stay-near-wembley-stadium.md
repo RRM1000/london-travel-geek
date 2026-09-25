@@ -63,11 +63,51 @@ On an ordinary night a Wembley room is cheap by London standards: the Novotel wa
 
 **Hilton London Wembley** · [Hotels.com](hotel:hilton-london-wembley). The four-star on Lakeside Way, beside the OVO Arena and about eight minutes from the stadium. About **£130**. It has an **indoor pool** and the rooftop **Sky Bar 9** (walk-in only). Parking is **£15 per 24 hours** in the Gold car park, with **no in-out**: once you have parked, the car stays there.
 
+<div class="photo-row">
+
+![A room at the Hilton London Wembley with a king-size bed against a purple padded headboard, a yellow feature wall by the window, a purple armchair and a walnut desk](../../assets/articles/where-to-stay-near-wembley-stadium/hilton-london-wembley-room.jpg)
+
+![A bathroom at the Hilton London Wembley with black and white metro tiles, a bath with a hand shower, a round mirror and a white marble basin unit](../../assets/articles/where-to-stay-near-wembley-stadium/hilton-london-wembley-bathroom.jpg)
+
+</div>
+
+*A king room with a desk and armchair, and a bath with a hand shower.*
+
 **Premier Inn London Wembley Stadium** · [premierinn.com](hotel:premier-inn-london-wembley-stadium). At 1 Wembley Park Boulevard, by the London Designer Outlet, which Premier Inn puts **ten minutes' walk** from the stadium and the arena. Air-conditioned, with a restaurant and a "double with a view" room type. **No car park of its own**; the nearest is the stadium's Red car park, which is priced per event.
+
+<div class="photo-row">
+
+![A double room at Premier Inn London Wembley Stadium with a gold padded headboard lit purple from above, a purple bed runner and a dark wood desk by the door](../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-wembley-stadium-room.jpg)
+
+![A bathroom at Premier Inn London Wembley Stadium with a purple-tiled wall, a bath with a glass screen and overhead shower, and a white basin under a wide mirror](../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-wembley-stadium-bathroom.jpg)
+
+</div>
+
+*A double with a desk, and a bath with an overhead shower behind a glass screen.*
 
 **Premier Inn London Wembley Park** · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-wembley-park.html). A different hotel, at 151 Wembley Park Drive, HA9 8HQ, **180 metres from Wembley Park station**, so after the show you walk to it instead of queueing for a train. It has its own car park: **£15 per 24 hours** for guests, more on event days, first come first served. Not to be confused with the Wembley Stadium branch above.
 
+<div class="photo-row">
+
+![A double room at Premier Inn London Wembley Park with a purple panelled headboard on a pale wood backboard, striped curtains at a wide window and a curved wooden desk](../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-wembley-park-room.jpg)
+
+![A white-tiled bathroom at Premier Inn London Wembley Park with a bath and shower over it behind a curtain, and a basin with a purple mosaic strip under the mirror](../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-wembley-park-bathroom.jpg)
+
+</div>
+
+*An older-style Premier Inn double with a curved desk and an armchair, and a bath with a shower curtain.*
+
 **Wembley International Hotel** · [Hotels.com](hotelscom:h890560). An independent with 165 rooms on Empire Way (HA9 0NH), about 12 minutes' walk from the stadium. **Continental breakfast and parking are free**, the parking first come first served, and the rooms are air-conditioned with triple glazing.
+
+<div class="photo-row">
+
+![A double room at the Wembley International Hotel with a blue carpet, a light blue wall behind a wooden headboard, blue patterned curtains and an air-conditioning unit under a wide window](../../assets/articles/where-to-stay-near-wembley-stadium/wembley-international-hotel-room.jpg)
+
+![A bathroom at the Wembley International Hotel with a corner bath boxed in navy tiles, a step up to it, a curved shower curtain rail and a basin set in a wood-panelled unit](../../assets/articles/where-to-stay-near-wembley-stadium/wembley-international-hotel-bathroom.jpg)
+
+</div>
+
+*A double with the air-conditioning unit under the window, and a corner bath with a step up.*
 
 The **ibis London Wembley**, on South Way by Wembley Stadium station, is temporarily closed.
 
@@ -77,7 +117,27 @@ Every Met train, fast or stopping, calls at Harrow-on-the-Hill: **7 minutes to W
 
 **Travelodge London Harrow** · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/632/London-Harrow-hotel). At 1 Greenhill Way, HA1 1LE, under ten minutes' walk from Harrow-on-the-Hill station. It has a Bar Café for breakfast, evening meals and drinks, and up to two children eat breakfast for £1 each per full-paying adult.
 
+<div class="photo-row">
+
+![A double room at Travelodge London Harrow with a navy feature wall, a long framed print above a striped wood headboard, a patterned blue armchair and a desk under the window](../../assets/articles/where-to-stay-near-wembley-stadium/travelodge-london-harrow-room.jpg)
+
+![A white bathroom at Travelodge London Harrow with a walk-in shower, its hand shower on a rail, behind a blue ombré curtain and a square basin under a wide mirror](../../assets/articles/where-to-stay-near-wembley-stadium/travelodge-london-harrow-bathroom.jpg)
+
+</div>
+
+*A double with an armchair and desk, and a shower with a curtain rather than a bath.*
+
 **Premier Inn London Harrow** · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-harrow.html). Despite the name it is on Kenton Road (HA3 8AT), opposite **Kenton** station (Bakerloo and Overground) and about a six-minute walk from **Northwick Park** on the Met, two stops from Wembley Park. Air-conditioned, with guest parking at **£9.40 a night**. Northwick Park is served by the stopping trains only, so check the train calls there before you get on.
+
+<div class="photo-row">
+
+![A double room at Premier Inn London Harrow with a padded headboard lit purple from above, a grey chaise longue under the window and a desk with a kettle tray below a wall-mounted TV](../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-london-harrow-room.jpg)
+
+![A bathroom at Premier Inn London Harrow with a glass-doored shower cubicle, a strip of brown and cream mosaic tiles and a white basin under a wide mirror](../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-london-harrow-bathroom.jpg)
+
+</div>
+
+*A double with a chaise longue by the window, and a glass-doored shower.*
 
 **Getting back:** the last Met train from Wembley Park to Harrow-on-the-Hill and Northwick Park leaves at **00:56** Monday to Saturday and **00:33** on Sunday. There is no Night Tube on the Metropolitan line, so if you miss it, you are on a night bus or in a taxi.
 
@@ -87,9 +147,21 @@ Finchley Road is the Met's last stop before Wembley Park: **7 minutes, 29 minute
 
 **Palmers Lodge Swiss Cottage** · [Hotels.com](hotel:palmers-lodge-swiss-cottage). A hostel in an 1882 Victorian mansion at 40 College Crescent, NW3 5LB, a short walk from Swiss Cottage and Finchley Road. Dorm beds from **£18** and private rooms from **£48**, sleeping one to four, with continental breakfast included, a self-service kitchen, laundry and car parking. More in our [hostels guide](/articles/best-hostels-london/).
 
+![A private double room at Palmers Lodge Swiss Cottage with exposed red brick above white plaster, a round porthole window, a tall sash window, dark floorboards and a plain wooden bed frame](../../assets/articles/where-to-stay-near-wembley-stadium/palmers-lodge-swiss-cottage-room.jpg)
+
+*A private double in the Victorian mansion: exposed brick, a porthole window and a tall sash window.*
+
 **Quality Hotel Hampstead** · [Hotels.com](hotelscom:h802085). At 5 Frognal, NW3 6AL, five minutes' walk from Finchley Road station. It has a lift, a bar and a 24-hour front desk, plus **triple rooms** of 22 square metres.
 
+![A twin room at the Quality Hotel Hampstead with two single beds under purple throws and cushions, grey padded headboards, a window with purple curtains and a long wooden desk under a wall-mounted TV](../../assets/articles/where-to-stay-near-wembley-stadium/quality-hotel-hampstead-room.jpg)
+
+*A twin room with a long desk under the TV and an armchair by the window.*
+
 **Best Western Swiss Cottage** · [Hotels.com](hotelscom:h461513). A 59-room Victorian townhouse at 4 Adamson Road, NW3 3HP, on a residential street 200 yards from Swiss Cottage station. The Jubilee from Swiss Cottage is the slower train to Wembley. For the Met, walk about ten minutes to Finchley Road.
+
+![A room at the Best Western Swiss Cottage with lilac-grey walls, a cream Shaker-style wardrobe, a small desk under a wood-framed mirror between two brass wall lights, a kettle tray and a tall window with gold curtains](../../assets/articles/where-to-stay-near-wembley-stadium/best-western-swiss-cottage-room.jpg)
+
+*A cream wardrobe, a small desk and a tall window with net curtains.*
 
 **Getting back:** the last Met to Finchley Road leaves Wembley Park at **00:32** and the last Jubilee at **00:24** Monday to Thursday. On Friday and Saturday nights the Jubilee runs all night, so you can wait out the queue.
 
@@ -99,9 +171,33 @@ This is the base with the most ways back. The Met is **13 minutes** from Baker S
 
 **The Landmark London** · [Hotels.com](hotel:the-landmark-london). At 222 Marylebone Road, opposite Marylebone station. It is a former railway hotel, with an eight-storey glass atrium full of palm trees, and large rooms by central London standards. The spa has a vitality pool, sauna, steam room and 24-hour gym. It is the shortest walk to a Chiltern train in this guide.
 
+<div class="photo-row">
+
+![A room at The Landmark London with two double beds against a grey-blue wall hung with gilt-framed prints, a chest of drawers and a gold lamp between them, and a glass table with pink dahlias](../../assets/articles/where-to-stay-near-wembley-stadium/the-landmark-london-room.jpg)
+
+![A white marble bathroom at The Landmark London with two basins on black marble counters, a bath at the far end, bathrobes on hooks and a chrome towel rack](../../assets/articles/where-to-stay-near-wembley-stadium/the-landmark-london-bathroom.jpg)
+
+</div>
+
+*A room with two double beds, and a marble bathroom with two basins and a bath.*
+
 **Dorset Square Hotel** · [Hotels.com](hotel:dorset-square-hotel). Kit and Tim Kemp's first hotel: 38 rooms in a Regency house on the square that was Thomas Lord's first cricket ground, decorated with cricket memorabilia. Five minutes from Marylebone station, ten from Baker Street, on a quiet residential square.
 
+![A room at the Dorset Square Hotel with green walls, a tall arched headboard in red and blue floral crewelwork, a white scalloped quilt, a coral bench at the foot of the bed and a green striped armchair by the window](../../assets/articles/where-to-stay-near-wembley-stadium/dorset-square-hotel-room.jpg)
+
+*A crewelwork headboard, green walls and a striped armchair by a big sash window.*
+
 **Travelodge London Central Marylebone** · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/312/London-Central-Marylebone-hotel). On Harewood Row, NW1 6SE, beside Marylebone station. The budget answer for the Chiltern route. Its SuperRooms add blackout curtains, a coffee machine and a rain shower.
+
+<div class="photo-row">
+
+![A double room at Travelodge London Central Marylebone with a navy wall, a striped wood headboard with plug sockets, an open wardrobe rail, a desk with a coffee machine and a grey armchair](../../assets/articles/where-to-stay-near-wembley-stadium/travelodge-central-marylebone-room.jpg)
+
+![A small white bathroom at Travelodge London Central Marylebone with a shower tray behind a white and teal curtain, a hand shower on a rail and a small basin](../../assets/articles/where-to-stay-near-wembley-stadium/travelodge-central-marylebone-bathroom.jpg)
+
+</div>
+
+*A double with a coffee machine on the desk, and a shower cubicle with a curtain.*
 
 **hub by Premier Inn London Marylebone** · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-marylebone.html). On Old Marylebone Road, NW1 5DZ, near Edgware Road and about five minutes from Marylebone station. The rooms are compact: **11 square metres** as standard and 14 for a Bigger room with a king-size bed. No car park.
 
@@ -122,6 +218,10 @@ Watford is often suggested for a cheap room near Wembley. On the train times it 
 **Watford Junction** is quicker to reach Wembley: Southern trains take **12 minutes** to Wembley Central, about 45 minutes door to door with the bus or walk at the end. Coming back it is **48 to 56 minutes** with a change, after the Wembley Central queue.
 
 **Premier Inn Watford Central** · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/hertfordshire/watford/watford-central.html) is on Water Lane (WD17 2NJ) in the town centre, closer to Watford High Street and Watford Junction than to the Met.
+
+![A room at Premier Inn Watford Central with a king-size bed against a gold padded headboard, a purple bed runner and cushion, a grey armchair and purple-edged curtains at the window](../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-watford-central-room.jpg)
+
+*A king room with an armchair by the window.*
 
 **Rickmansworth**, on the Met's Amersham branch, is **24 minutes** from Wembley Park and 45 door to door, with a last train back at **00:36**. Harrow-on-the-Hill is 29.
 
