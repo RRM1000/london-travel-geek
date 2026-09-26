@@ -56,11 +56,31 @@ Bayswater, Queensway and Lancaster Gate have their own guide: [where to stay in 
 
 Opened in June 1854 as the Great Western Royal Hotel, promoted by Isambard Kingdom Brunel, who chaired the company that ran it. Philip Charles Hardwick designed it, and it forms the front of the station, closing off the end of the train shed. It has been a Hilton since 2001. **You reach the Heathrow Express through the station, without crossing a road.** It also sells day rooms for a late flight; our [day rooms guide](/articles/day-rooms-london/) compares the rates.
 
+<div class="photo-row">
+
+![A double room at Hilton London Paddington with tall steel-framed windows, a cream armchair, a pale burr-wood headboard and an upholstered bench across the foot of the bed](../../assets/articles/where-to-stay-paddington/hilton-london-paddington-room.jpg)
+
+![A bathroom at Hilton London Paddington with a deep oval bath set in walnut panelling, a hand shower in a glass-screened corner, grab rails and a curved stone vanity](../../assets/articles/where-to-stay-paddington/hilton-london-paddington-bathroom.jpg)
+
+</div>
+
+*A double with tall steel-framed windows. This bathroom has a bath and a separate hand shower, with grab rails beside both.*
+
 ### The Pilgrm — Victorian staircase, compact rooms, two people per room
 
 *About £150 · 25 London Street, W2 1HH · Paddington 3 min · Check-in 3pm, out noon · [Hotels.com](hotel:the-pilgrm)*
 
 An independent hotel in a converted Victorian building, with a lounge and terrace serving Monmouth coffee and breakfast, and cocktails from Untitled Drinks, the team behind Bar Termini. Every room has a private shower room; there are no baths. **Rooms take two people at most, there are no twins and no extra beds fit**, though there is a bunk room. There is no step-free access: stairs at the entrance and in some corridors. Dogs are allowed in medium and large rooms.
+
+<div class="photo-row">
+
+![A double room at The Pilgrm with a full-height sash window onto trees, ornate Victorian cornicing, herringbone wood panelling behind a walnut bed and grey walls](../../assets/articles/where-to-stay-paddington/the-pilgrm-room.jpg)
+
+![An enamel utility-style basin with brass-and-porcelain taps and a soap on a rope, against white tiles with black grout, at The Pilgrm](../../assets/articles/where-to-stay-paddington/the-pilgrm-bathroom.jpg)
+
+</div>
+
+*A double with its original sash window and cornicing, and the tiled shower room with a vintage enamel basin; no room here has a bath.*
 
 ### Hotel Indigo London Paddington — a garden terrace a minute from the station
 
@@ -68,11 +88,31 @@ An independent hotel in a converted Victorian building, with a lounge and terrac
 
 An IHG boutique hotel, so **IHG One Rewards points apply**, with each floor decorated around a different local theme. Rooms run from singles to Superior King rooms, and some Superior rooms come with a patio. There is a lounge bar with a garden terrace, a 24-hour gym, and a Bella Italia restaurant downstairs. It sells day-use rates as well as nights.
 
+<div class="photo-row">
+
+![A double room at Hotel Indigo London Paddington with two windows, a black-and-white mural of a canal lined with narrowboats and stucco houses behind the bed, hung with round convex mirrors, burgundy seating and a striped pink rug](../../assets/articles/where-to-stay-paddington/hotel-indigo-london-paddington-room.jpg)
+
+![A bathroom at Hotel Indigo London Paddington with a glass shower cubicle under a rainfall head, a lime-green mosaic wall and a bowl basin on a lime counter](../../assets/articles/where-to-stay-paddington/hotel-indigo-london-paddington-bathroom.jpg)
+
+</div>
+
+*A canal scene with narrowboats printed across the wall behind the bed, one of the hotel's local themes. This bathroom has a shower cubicle and no bath.*
+
 ### Point A Hotel London Paddington — the windowless option
 
 *41 Praed Street, W2 1NR · Paddington 5 min · Check-in 3pm, out 11am · [Hotels.com](hotelscom:h5221423)*
 
 A budget chain with compact, air-conditioned rooms, and **the choice of a windowless room**, sold as the quieter option. **Continental breakfast is included when you book direct**, and the hotel will pack it in a takeaway bag for an early departure. Early check-in from noon costs £15, late check-out to 3pm £25, and luggage storage £3 a bag.
+
+<div class="photo-row">
+
+![A twin room at Point A Hotel London Paddington with two single beds against tall charcoal headboards studded with yellow and mint dots, a curved wall, wall-mounted air conditioning and a window reflected in the door mirror](../../assets/articles/where-to-stay-paddington/point-a-hotel-london-paddington-room.jpg)
+
+![A compact white-tiled shower room at Point A Hotel London Paddington with a glass shower cubicle, a small basin and a mirror over a narrow shelf](../../assets/articles/where-to-stay-paddington/point-a-hotel-london-paddington-bathroom.jpg)
+
+</div>
+
+*A twin with a window (seen in the door mirror), air conditioning on the wall, and a shower room with a cubicle and no bath.*
 
 ### hub by Premier Inn London Paddington — 11 square metres beside the station
 
@@ -86,6 +126,16 @@ Premier Inn's compact format: **Standard rooms are 11 square metres** with a dou
 
 A four-star in a Victorian building beside St Mary's Hospital. **The Small Single rooms are about 4.5 square metres, on the first and second floors, from £69 including VAT**, each with a granite shower room; availability is limited. Above them are Club, Executive and Deluxe rooms and suites. The ROBA bar serves a **Paddington Afternoon Tea with marmalade sandwiches and a children's menu for under-12s**, 3.30 to 7.30pm, **Tuesday to Saturday only**; the bar is closed on Sundays and Mondays. Our [afternoon tea guide](/articles/best-afternoon-tea-london/) covers where else to book one.
 
+<div class="photo-row">
+
+![A room at Norfolk Towers Paddington with two double beds under grey-lilac runners, a tall padded headboard wall, a sash window with voile curtains and a walnut desk](../../assets/articles/where-to-stay-paddington/norfolk-towers-paddington-room.jpg)
+
+![A long beige bathroom at Norfolk Towers Paddington with two basins in a stone counter, a bath with a hand shower at the far end, a wall-hung toilet and a bidet](../../assets/articles/where-to-stay-paddington/norfolk-towers-paddington-bathroom.jpg)
+
+</div>
+
+*A room with two double beds, and a bathroom with two basins, a bath and a bidet. The £69 Small Singles have a shower room instead.*
+
 ## Hotels on the canal basin
 
 ### Novotel London Paddington — 25-square-metre rooms and a pool
@@ -94,17 +144,41 @@ A four-star in a Victorian building beside St Mary's Hospital. **The Small Singl
 
 A modern chain hotel at Paddington Central, behind the station. **Rooms are 25 square metres, and some Superior rooms add a double sofa bed to the queen**, which fits a family. There is **an indoor pool** and a gym, and No.3 Restaurant & Bar serves all day. The guest rooms were refurbished in a full renovation that began in November 2025.
 
+<div class="photo-row">
+
+![A room at Novotel London Paddington with a queen bed on a light wood frame, a grey two-seat sofa under floor-length curtains, and a curved wood desk with a red chair](../../assets/articles/where-to-stay-paddington/novotel-london-paddington-room.jpg)
+
+![A white-tiled bathroom at Novotel London Paddington with a bath, a sculpted basin under a lit mirror and a towel rail beside a glass screen](../../assets/articles/where-to-stay-paddington/novotel-london-paddington-bathroom.jpg)
+
+</div>
+
+*A queen bed with a two-seat sofa by the window, and a bathroom with a bath.*
+
 ### Wilde Aparthotels London Paddington — studios with kitchens by Merchant Square
 
 *££ · 4 North Wharf Road, W2 1LF · Paddington 7 min · [check prices](hotel:wilde-paddington)*
 
 Studios for up to three and one-bedroom apartments for up to four, each with a full kitchen and air conditioning, moments from the canal at Merchant Square. Check-in is online, there is a lift to all floors, and **cots and high chairs are free** if you add them to the booking. A breakfast station runs 7 to 10am on weekdays and 7.30 to 10.30am at weekends, and a 24-hour pantry sells groceries. **Stays of a week or more are cleaned on day four**, then weekly. Our [aparthotels guide](/articles/aparthotels-london/) compares it with London's other kitchens.
 
+<div class="photo-row">
+
+![A studio at Wilde Aparthotels London Paddington with a double bed on an oak storage base, an open oak wardrobe with a mirror, a small round table with two chairs and floor-length voile curtains](../../assets/articles/where-to-stay-paddington/wilde-aparthotels-london-paddington-room.jpg)
+
+![An accessible wet-room bathroom at Wilde Aparthotels London Paddington with a level-floor shower behind a curtain, brass grab rails, a fold-down shower seat and dark floor tiles](../../assets/articles/where-to-stay-paddington/wilde-aparthotels-london-paddington-bathroom.jpg)
+
+</div>
+
+*The sleeping end of a studio; the kitchen is out of shot. The bathroom shown is an accessible one, a level-floor wet room with grab rails and a fold-down seat.*
+
 ### Premier Inn London Paddington (Paddington Basin) — family rooms on the water
 
 *Paddington Exchange, North Wharf Road, W2 1LF · Paddington and Edgware Road 5 min · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-paddington-paddington-basin.html)*
 
 A Premier Inn on the basin with **family rooms**, a lift and air conditioning in every room. As at the station branch, up to two children eat breakfast free with a paying adult.
+
+![A bathroom at Premier Inn London Paddington (Paddington Basin) with a bath and shower curtain, a strip of grey and brown mosaic tiles, a basin set in a white unit and a curved towel rail](../../assets/articles/where-to-stay-paddington/premier-inn-london-paddington-paddington-basin-bathroom.jpg)
+
+*This bathroom has a bath with a shower over it, useful for bathing small children.*
 
 ## Hotels on Norfolk Square and Sussex Gardens
 
@@ -122,6 +196,16 @@ Our [budget hotels guide](/articles/best-budget-hotels-london/) covers the cheap
 
 A Victorian house on Norfolk Square run by a French hotel group, with interiors by the architect Fabrizio Casiraghi and Floris toiletries. Rooms run from **Cabins, whose beds are raised about a metre off the floor**, and Classic rooms of 12 square metres up to Deluxe rooms of 20 with sash windows, and **Executive rooms of 22 that take three people on a sofa bed**. The Grand Norfolk Suite, 35 square metres, looks over the square and has a bath. There is no restaurant: the Pondicherry bar serves a seasonal menu from morning to late evening. A lift serves every floor, but there are four steps at the front door.
 
+<div class="photo-row">
+
+![A double room at Grand Hotel Bellevue London with a dark wood headboard, two sash windows behind olive-green curtains, a Gothic-arch cornice and a green upholstered sofa](../../assets/articles/where-to-stay-paddington/grand-hotel-bellevue-london-room.jpg)
+
+![A bathroom at Grand Hotel Bellevue London with peach tiles, a small white basin with cross-head taps, a round mirror and a cream shower curtain](../../assets/articles/where-to-stay-paddington/grand-hotel-bellevue-london-bathroom.jpg)
+
+</div>
+
+*A double with two sash windows and a sofa. The bathroom is peach-tiled with period-style taps.*
+
 ### St David's Hotels — family-run on Norfolk Square since 1980
 
 *14–20 Norfolk Square, W2 1RS · Paddington 2 min · [Hotels.com](hotelscom:h75753026)*
@@ -134,11 +218,25 @@ Four Grade II-listed townhouses facing the square's gardens, taken on one by one
 
 A hotel of 50 rooms and suites behind a Victorian front. **A hot and cold buffet breakfast is included in every rate**, served until 10am, and every room has air conditioning. **The Classic Quatro room has a double and two single bunks**, and the Stylosuites, in a second building on London Street, have kitchenettes and sofa beds. Under the suites is The Sussex Arms, an aviation-themed bar with original Concorde seats; guests get a free drink. Parking is £25 for 24 hours, if a space is free.
 
+![A double room at Stylotel under a sloping ceiling, with exposed brick walls, a small window with red damask curtains, a black padded headboard and a strip of turquoise light overhead](../../assets/articles/where-to-stay-paddington/stylotel-room.jpg)
+
+*A double in the eaves: exposed brick, a small window and coloured lights.*
+
 ### Mitre House Hotel — family-run since 1962, with a cooked breakfast
 
 *178–186 Sussex Gardens, W2 1TU · Paddington 5 min · [Hotels.com](hotelscom:h9577114)*
 
 Townhouses from the 1860s, family-run since 1962. **A cooked English breakfast is included**, and there is **a lift to every floor and on-site parking**. Rooms run from singles to **family rooms for four** (a double and two singles, or four singles) and **interconnecting pairs for five**. Travel cots are free for under-twos. Reception is 24 hours, and the lounge bar serves free tea and coffee.
+
+<div class="photo-row">
+
+![A room at Mitre House Hotel with a floral bedspread, a mahogany dressing table and sideboard, a tea tray, and a sitting area with a sofa and a wicker chair beyond a pillar](../../assets/articles/where-to-stay-paddington/mitre-house-hotel-room.jpg)
+
+![A cream-tiled bathroom at Mitre House Hotel with a bath, a hinged glass shower screen and a hand shower on a riser](../../assets/articles/where-to-stay-paddington/mitre-house-hotel-bathroom.jpg)
+
+</div>
+
+*Mahogany furniture and a sitting area beyond the pillar. The bathroom has a bath with a shower over it.*
 
 ### Native Hyde Park — apartments in a listed terrace
 
@@ -146,11 +244,31 @@ Townhouses from the 1860s, family-run since 1962. **A cooked English breakfast i
 
 A Grade II-listed stucco terrace converted into rooms and apartments over six floors, with a 24-hour team on site. Double rooms and studios start at 11 square metres. **One-bedroom apartments are 23 square metres, two-bedroom apartments 40, and the Premium Two Bedroom 63.**
 
+<div class="photo-row">
+
+![A double bed at Native Hyde Park with a dusty-pink velvet panelled headboard, striped cushions, black mushroom lamps on dark side tables and a tall sash window with linen curtains](../../assets/articles/where-to-stay-paddington/native-hyde-park-room.jpg)
+
+![A bathroom at Native Hyde Park with a black-framed glass walk-in shower, white vertical tiles, a wall-hung basin with black taps and a black heated towel rail](../../assets/articles/where-to-stay-paddington/native-hyde-park-bathroom.jpg)
+
+</div>
+
+*A pink velvet headboard under a tall sash window, and a walk-in shower with no bath.*
+
 ### Barry House — 17 rooms off Sussex Gardens, no breakfast
 
 *12 Sussex Place, W2 2TP · Paddington 3 min, Lancaster Gate 4 min · [Hotels.com](hotelscom:h520796)*
 
 A small Grade II-listed townhouse hotel on the Hyde Park estate, with singles, doubles, twins, triples and family rooms. **There is no lift, and the budget rooms and singles are all on the fourth floor.** Rates are room only, with a kettle in the room. Reception is staffed 24 hours, so a late arrival is fine if you tell them when.
+
+<div class="photo-row">
+
+![A double room at Barry House with a grey buttoned headboard, a red bed runner, a small crystal chandelier and full-height French windows behind voile curtains](../../assets/articles/where-to-stay-paddington/barry-house-room.jpg)
+
+![A small beige-tiled en-suite at Barry House with a compact basin, a glass shelf under a mirror and a glass shower door](../../assets/articles/where-to-stay-paddington/barry-house-bathroom.jpg)
+
+</div>
+
+*A double with French windows, and a compact en-suite with a shower.*
 
 ## Hotels on Westbourne Terrace and Edgware Road
 
@@ -160,11 +278,31 @@ A small Grade II-listed townhouse hotel on the Hyde Park estate, with singles, d
 
 A restored white stucco townhouse from the Montcalm Collection. Rooms are small at the bottom: **Chamber Singles and Chamber Doubles of 10 and 12 square metres**, Club rooms of 15, and **Deluxe Triples of 16 with a double and a sofa bed**. The Yātrā spa has a vitality pool and a steam room, and there is a restaurant serving breakfast and dinner.
 
+<div class="photo-row">
+
+![A double room at Montcalm Chilworth Townhouse with a wall of padded taupe leather panels behind the bed, navy ikat cushions, a navy throw and a mirror above a dark wood desk](../../assets/articles/where-to-stay-paddington/montcalm-chilworth-townhouse-room.jpg)
+
+![A small bathroom at Montcalm Chilworth Townhouse with onyx-effect tiles, a bowl basin on a black counter and a corner glass shower](../../assets/articles/where-to-stay-paddington/montcalm-chilworth-townhouse-bathroom.jpg)
+
+</div>
+
+*A double with a padded wall behind the bed. The bathroom is small, with a corner shower and no bath.*
+
 ### Hilton London Metropole — 1,100 rooms and a family suite for six
 
 *225 Edgware Road, W2 1JU · Edgware Road 2 min, Paddington 7 min · Check-in 3pm, out noon · [Hotels.com](hotelscom:170309)*
 
 A conference-sized hotel on the west side of Edgware Road with **1,100 rooms**, a gym and four bars and restaurants; the King Deluxe rooms have views of the skyline. **Families get Two Queen Beds rooms for four, interconnecting pairs, and a Two Bedroom Family Suite that sleeps six**; our [family hotels guide](/articles/best-family-hotels-london/) compares it with the rest of London's.
+
+<div class="photo-row">
+
+![A large room at Hilton London Metropole with a king bed, herringbone floors under navy rugs, and a grey sofa and round coffee table in a picture window looking out over tower blocks](../../assets/articles/where-to-stay-paddington/hilton-london-metropole-room.jpg)
+
+![A white marble bathroom at Hilton London Metropole with twin basins under a wide lit mirror, two bathrobes reflected on the wall and towels stacked beneath the counter](../../assets/articles/where-to-stay-paddington/hilton-london-metropole-bathroom.jpg)
+
+</div>
+
+*A king room with a sofa in a high-floor picture window, and a marble bathroom with twin basins.*
 
 ## Getting in and out
 

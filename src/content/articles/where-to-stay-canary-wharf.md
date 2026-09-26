@@ -75,17 +75,41 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 **[Locke London Canary Wharf](hotel:locke-canary-wharf)** is set high above the docks on the Wood Wharf side of the estate. The City Studio is 23 m² with a kitchen area, a table for two and a washer-dryer and dishwasher in the room; the Locke Studio is 25 m², sold by its river, marina or panoramic view. The One Bedroom Suite, about 31 m², has a separate kitchen and twin beds that can be made up as a double. The front desk is open 24 hours and keeps luggage free on your arrival and departure days. LUQA, on the ground floor, serves coffee through the day and drinks in the evening, and there is a gym and dogs are welcome.
 
+<div class="photo-row">
+
+![A double bed inside a dark timber frame at Locke London Canary Wharf, against a sage-green wall with two globe lights, with a blue sofa alongside and a woven throw in pink, mustard and navy](../../assets/articles/where-to-stay-canary-wharf/locke-london-canary-wharf-room.jpg)
+
+![A bathroom at Locke London Canary Wharf with a square white basin on a speckled terrazzo counter, a brass tap, a round mirror and a brass towel rail above sage-green tiles](../../assets/articles/where-to-stay-canary-wharf/locke-london-canary-wharf-bathroom.jpg)
+
+</div>
+
+*The bed sits in a timber frame with a sofa alongside it, so the studio doubles as a sitting room.*
+
 ### Cove Landmark Pinnacle
 
 *Mid-range · studios and apartments · 15 Westferry Road, E14 8FQ · Heron Quays DLR nearest, Jubilee 8 min*
 
 **[Cove Landmark Pinnacle](hotel:cove-landmark-pinnacle)** is serviced apartments inside Landmark Pinnacle, a residential tower at the western end of Marsh Wall, so the neighbours live here and the ground floor is a lounge and coworking space. The basic Studio has a kitchenette; the Large Studio and the apartments have a full kitchen with a hob, dishwasher and washer-dryer. A One Bedroom is 48 m², and the One Bedroom with Internal Balcony is 55 m² and sleeps three. The building's 27th-floor lounge has an indoor playground and a garden (ask at the desk for access), and cots are available. Cleaning is weekly, and the 56th-floor gym is only for guests staying seven nights or more.
 
+<div class="photo-row">
+
+![An open-plan apartment at Cove Landmark Pinnacle: a dark wood kitchen with a built-in oven and black worktop, a round dining table with teal chairs, a rust-coloured sofa by full-height curtained windows, and a bed behind a partition wall](../../assets/articles/where-to-stay-canary-wharf/cove-landmark-pinnacle-room.jpg)
+
+![An accessible wet room at Cove Landmark Pinnacle with a walk-in rainfall shower, a fold-down shower seat, chrome grab rails, a red emergency pull cord and a wall-mounted basin](../../assets/articles/where-to-stay-canary-wharf/cove-landmark-pinnacle-bathroom.jpg)
+
+</div>
+
+*Left: an open-plan Large Studio, with a full kitchen and oven; the basic Studio has only a kitchenette. Right: the wet room in an accessible apartment, with a fold-down seat and grab rails.*
+
 ### Marriott Executive Apartments London, Canary Wharf
 
 *Studios to two-bedroom apartments · 22 Hertsmere Road, E14 4ED · West India Quay DLR 1 min*
 
 **[Marriott Executive Apartments](hotelscom:h1088893)** share a building and front desk with the Marriott hotel on West India Quay. Every apartment, from a studio to a two-bedroom, has a full kitchen, a dining area and floor-to-ceiling windows. Housekeeping comes twice a week, there is a laundry on site, and guests use the hotel's 24-hour gym and sauna. You must be 18 to check in, and pets are not allowed.
+
+![A bathroom at Marriott Executive Apartments Canary Wharf with a bath and shower over it, a grab rail on the tiled wall, and a granite-topped vanity over a wood cabinet](../../assets/articles/where-to-stay-canary-wharf/marriott-executive-apartments-london-canary-wharf-bathroom.jpg)
+
+*An apartment bathroom: a bath with a shower over it and a grab rail.*
 
 ## Hotels on the estate and the docks
 
@@ -95,11 +119,31 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 **[Canary Riverside Plaza](hotelscom:h519049)** is the riverside hotel built as the Four Seasons Canary Wharf, now part of IHG's Vignette Collection. Rooms start at 37 m², each with a deep bath and a separate walk-in shower. **Which way the room faces is the thing to book on**: Standard rooms look over Canary Wharf, Premium rooms over the Thames. Guests use the adjoining health club and spa, which has an indoor pool, and the restaurant, Quadrato, is Italian, with a terrace and an afternoon tea. Interconnecting rooms, extra beds and cots are available for families. Canary Wharf Pier is next door: the Uber Boat takes 8 to 13 minutes to Greenwich and about 40 to the London Eye.
 
+<div class="photo-row">
+
+![A king room at Canary Riverside Plaza with a walnut headboard, a black armchair and footstool, and a wide window seat looking across the Thames to riverside flats and moored boats](../../assets/articles/where-to-stay-canary-wharf/canary-riverside-plaza-london-vignette-collection-room.jpg)
+
+![A bathroom at Canary Riverside Plaza with a walk-in shower tiled in small white tiles, a white vanity over a walnut cabinet, and a three-panel mirror](../../assets/articles/where-to-stay-canary-wharf/canary-riverside-plaza-london-vignette-collection-bathroom.jpg)
+
+</div>
+
+*A Thames-facing room with a window seat, the view a Premium room pays for, and the separate walk-in shower that comes with the bath.*
+
 ### London Marriott Hotel Canary Wharf
 
 *About £200 · 22 Hertsmere Road, West India Quay, E14 4ED · West India Quay DLR 1 min, Elizabeth line 3 min*
 
 **[London Marriott Hotel Canary Wharf](hotel:london-marriott-canary-wharf)** is the curved glass tower at the end of West India Quay, with floor-to-ceiling windows over the dock and the towers. G&Tea, its gin bar, serves afternoon tea, and the gym, with a sauna, is open 24 hours. Guests must be 18 to check in and pets are not allowed. There is no hotel car park; it points drivers to the Saba car park on West India Quay.
+
+<div class="photo-row">
+
+![A room at the London Marriott Hotel Canary Wharf with two double beds against a tall upholstered headboard, a glass desk, and a chaise under floor-to-ceiling windows with sheer curtains](../../assets/articles/where-to-stay-canary-wharf/london-marriott-hotel-canary-wharf-room.jpg)
+
+![A bathroom at the London Marriott Hotel Canary Wharf with a bath behind a striped curtain, a separate glass shower cubicle, and a granite vanity over a wood cabinet](../../assets/articles/where-to-stay-canary-wharf/london-marriott-hotel-canary-wharf-bathroom.jpg)
+
+</div>
+
+*Two double beds by the full-height windows, and a bathroom with both a bath and a separate shower.*
 
 ### Hilton London Canary Wharf
 
@@ -107,11 +151,31 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 **[Hilton London Canary Wharf](hotelscom:h1457899)** is on Marsh Wall beside South Quay DLR, with an executive lounge, connecting rooms and pet-friendly rooms. TwoRuba is its restaurant and bar, with a children's menu. For drivers, the on-site car park has 25 spaces and cannot be booked in advance.
 
+<div class="photo-row">
+
+![A room at Hilton London Canary Wharf with twin beds against a dark wood headboard wall, yellow bedside lamps, and a doorway through to a separate study with a desk and office chair](../../assets/articles/where-to-stay-canary-wharf/hilton-london-canary-wharf-room.jpg)
+
+![A bathroom at Hilton London Canary Wharf with a bath and shower behind a glass screen, grey wood-effect tiles, a grab rail, and a basin set in a dark counter](../../assets/articles/where-to-stay-canary-wharf/hilton-london-canary-wharf-bathroom.jpg)
+
+</div>
+
+*Twin beds with a separate study through the doorway, and a bath with a shower over it.*
+
 ### Novotel London Canary Wharf
 
 *£156–£229 · 313 rooms · 40 Marsh Wall, E14 9TP · Heron Quays DLR 2 min, Jubilee 7 min*
 
 **[Novotel London Canary Wharf](hotel:novotel-canary-wharf)** is a 39-storey tower on Marsh Wall with an indoor pool and gym. The top three floors are Bōkan, open to non-residents: the restaurant on 37 (closed Sunday and Monday), the bar on 38 and a roof terrace on 39, all card only. A Superior Double is 21 m². **For a family, book the Studio Suite**: 40 m² with a king bed, for up to four.
+
+<div class="photo-row">
+
+![A room at Novotel London Canary Wharf with a curved grey leather bed, black-and-white framed photos above it, a teal rug, a tall window, and the bathroom behind a smoked-glass wall with black steel glazing bars](../../assets/articles/where-to-stay-canary-wharf/novotel-london-canary-wharf-room.jpg)
+
+![A bathroom at Novotel London Canary Wharf with cream metro tiles, a brass gooseneck tap over a white basin on a marble counter, a wall-hung toilet and a grey herringbone floor](../../assets/articles/where-to-stay-canary-wharf/novotel-london-canary-wharf-bathroom.jpg)
+
+</div>
+
+*The bathroom is walled off from the bed by tinted glass, not a solid wall.*
 
 ### TRIBE London Canary Wharf
 
@@ -119,11 +183,31 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 **[TRIBE London Canary Wharf](hotelscom:h83096424)** is an Accor brand, on Water Street in Wood Wharf. There are three room types, all with a king bed and a rainfall shower: **the Essential Atrium, the cheapest, looks onto the atrium rather than the city**; the Essential has a city view; the Extra is 21 m². Feels Like June, the all-day restaurant, has tables outside, and a grab-and-go counter sells coffee and meals 24 hours a day. For a gym, guests can buy a discounted day pass to Third Space, which has a pool and sauna, a short walk away.
 
+<div class="photo-row">
+
+![A room at TRIBE London Canary Wharf with a double bed against a green upholstered headboard, brass wall lamps, two framed prints of the Canary Wharf skyline, and a floor-to-ceiling window looking out over east London](../../assets/articles/where-to-stay-canary-wharf/tribe-london-canary-wharf-room.jpg)
+
+![A bathroom at TRIBE London Canary Wharf with a walk-in shower behind a glass door, white and taupe tiles with black grout, and a grey basin under a lit mirror](../../assets/articles/where-to-stay-canary-wharf/tribe-london-canary-wharf-bathroom.jpg)
+
+</div>
+
+*A city-view room, the view the Essential Atrium lacks, and a glass-doored shower with no bath.*
+
 ### Radisson Blu Hotel, London Canary Wharf East
 
 *New Providence Wharf, 5 Fairmont Avenue, E14 9JB · East India DLR 5 min*
 
 **[Radisson Blu Hotel, London Canary Wharf East](hotelscom:h1658062)** is on the river at Blackwall, east of the estate and not in it. It has the East River Spa, with ESPA treatments, a sauna and steam room, and a 24-hour gym, and Scoff & Banter, a restaurant looking over the Thames. **The catch is the Jubilee**: it isn't walkable, so it's East India DLR, or the D3 bus, about eight minutes to Canary Wharf station.
+
+<div class="photo-row">
+
+![A corner room at the Radisson Blu Hotel, London Canary Wharf East with a king bed under an olive throw, a leather bench at its foot, and windows on two sides looking across the Thames to The O2](../../assets/articles/where-to-stay-canary-wharf/radisson-blu-hotel-london-canary-wharf-east-room.jpg)
+
+![A bathroom at the Radisson Blu Hotel, London Canary Wharf East with a freestanding bath beside full-height windows over the Thames, a glass walk-in shower in dark tiles, and The O2 and the cable car outside](../../assets/articles/where-to-stay-canary-wharf/radisson-blu-hotel-london-canary-wharf-east-bathroom.jpg)
+
+</div>
+
+*The river side looks straight across the Thames to The O2. The bathroom shown has a freestanding bath at the window and a separate walk-in shower.*
 
 ## At the budget end
 
@@ -132,6 +216,16 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 *21 Hertsmere Road, E14 4AS · Westferry DLR 480 m, Canary Wharf station 600 m*
 
 **[Point A](hotelscom:h9080289)** is two minutes' walk from the London Museum Docklands on West India Quay. Rooms are compact and sleep one or two, with air conditioning. **Book direct and a continental breakfast is included**: ham, cheese, fruit and pastries, with gluten-free options. Check-in is self-service in the lounge.
+
+<div class="photo-row">
+
+![A twin room at Point A Hotel London Canary Wharf with two single beds against grey padded headboards studded with blue and yellow buttons, a fold-down desk and chair, and a round mirror](../../assets/articles/where-to-stay-canary-wharf/point-a-hotel-london-canary-wharf-room.jpg)
+
+![A bathroom at Point A Hotel London Canary Wharf with a shower cubicle behind a glass door, white tiles with a grey mosaic strip, and a small basin under a mirror shelf](../../assets/articles/where-to-stay-canary-wharf/point-a-hotel-london-canary-wharf-bathroom.jpg)
+
+</div>
+
+*A twin room with a fold-down desk, and a shower cubicle, no bath.*
 
 ### Premier Inn London Canary Wharf (Westferry)
 
@@ -145,11 +239,25 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 **[Britannia International Hotel](hotelscom:h34182454)** is a glass-fronted block on the dock edge of Marsh Wall, with two restaurants, Jenny's and the Overstuffed Pizzeria, and two bars. The upper floors look over the Thames. It takes pets (£10 a pet for the first night, plus a £50 refundable deposit), and the on-site car park is £25 for 24 hours, first come, first served. **Check-out is 10am on weekdays**, 11am at weekends.
 
+![A twin room at the Britannia International Hotel with two single beds pushed together under a carved wooden headboard, a gilt-framed tapestry, pink striped wallpaper, cream table lamps and floral curtains](../../assets/articles/where-to-stay-canary-wharf/britannia-international-hotel-room.jpg)
+
+*Twin beds, striped wallpaper and a gilt-framed tapestry: traditional décor inside the glass block.*
+
 ### Holiday Inn Express London – Limehouse
 
 *469–475 The Highway, E1W 3HN · Limehouse DLR under 5 min*
 
 **[Holiday Inn Express London – Limehouse](hotelscom:h989491)** is outside Canary Wharf, on The Highway at Limehouse: five minutes on the DLR to Canary Wharf, and the Troxy concert venue is seven minutes' walk. **Breakfast is included.** There is no restaurant, only a lobby bar, and parking is £20 a day. You must be 18 to check in.
+
+<div class="photo-row">
+
+![A double room at Holiday Inn Express London – Limehouse with a pale wood headboard lit from above, a red cushion, navy walls and a wood desk with a black office chair](../../assets/articles/where-to-stay-canary-wharf/holiday-inn-express-london-limehouse-room.jpg)
+
+![A small bathroom at Holiday Inn Express London – Limehouse with a corner basin on a navy counter, angled mirrors, white metro tiles and a shower behind a white curtain](../../assets/articles/where-to-stay-canary-wharf/holiday-inn-express-london-limehouse-bathroom.jpg)
+
+</div>
+
+*A double with a desk, and a compact bathroom with a curtained shower.*
 
 ## Getting around
 
