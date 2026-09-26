@@ -2,12 +2,8 @@
 title: "A Walk Through Bankside and Borough: Inn Yards, Bishops and Shakespeare in Eleven Stops"
 seoTitle: "Bankside and Borough Walking Route Map: Inns to Globe"
 description: "A numbered walking route from London Bridge to the Millennium Bridge through Southwark's coaching-inn yards, the George Inn, Cross Bones, Borough Market, the cathedral, the Clink and the sites of the Rose and the first Globe. With the days each stop opens."
-heroImage: "../../assets/articles/bankside-borough-walk/george-inn-galleries.jpg"
-heroImageAlt: "The two tiers of white wooden galleries along the front of the George Inn on Borough High Street, with picnic tables in the cobbled yard below"
-heroImageCredit: "Reading Tom"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:The_George_Inn_(7327440906).jpg"
-heroImageLicense: "CC BY 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+heroImage: "../../assets/articles/bankside-borough-walk/the-george-inn.jpg"
+heroImageAlt: "The two tiers of cream wooden galleries on the George Inn, off Borough High Street, over a cobbled yard set with barrel tables, stools and picnic tables under green umbrellas"
 publishedAt: 2026-09-26
 reviewBy: 2026-11-26
 sites: [london]
@@ -89,6 +85,10 @@ Until Westminster Bridge opened in 1750, this street was the only road into Lond
 
 **The George is London's last remaining galleried inn**, as the National Trust, which owns it, puts it. The inn on this site burned in the Southwark fire of 1676 and was rebuilt straight away, and what you see is one side of that building: two tiers of open wooden galleries over a cobbled yard. Dickens knew it and mentions it in *Little Dorrit*.
 
+![The George Inn's cream-painted galleries and white-fronted wing round a cobbled yard, with the pub sign, the Parliament Bar below the galleries and barrel tables with stools in front](../../assets/articles/bankside-borough-walk/the-george-inn.jpg)
+
+*The galleries run along the right-hand wing. The National Trust plaque is on the wall beside the pub sign.*
+
 It is still a pub, run by Greene King and **open daily from 11am**, with tables in the yard under the galleries.
 
 Next door, **Talbot Yard** is the site of the **Tabard**, the inn where Chaucer's pilgrims meet before setting out for Canterbury in *The Canterbury Tales*. It was renamed the Talbot and demolished in 1873; a blue plaque in the yard marks it.
@@ -107,9 +107,17 @@ Cross Borough High Street, walk west along Union Street and turn right into Redc
 
 *The gates on Redcross Way, with the Shard behind. The ribbons and garlands are left by visitors. Photo: [Duncan Harris](https://commons.wikimedia.org/wiki/File:Crossbones_Cemetery_Gates,_Southwark.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
+![Inside the Cross Bones garden: a woman weeding the planted beds, a dry-stone wall and a cedar round a paved clearing, and the ribbon-covered gates behind, with brick buildings beyond](../../assets/articles/bankside-borough-walk/cross-bones-graveyard.jpg)
+
+*The garden from inside, which you can reach only in warden hours. The ribbon-covered gates on Redcross Way are at the back.*
+
 ## 4. Borough Market
 
 Five minutes north up Redcross Way, under the railway and across Southwark Street.
+
+![A greengrocer's stall signed Elsey & Bent in Borough Market, crates of fruit and vegetables on green cloths, a fresh orange juice press in the middle and a restaurant on the level above](../../assets/articles/bankside-borough-walk/borough-market.jpg)
+
+*A greengrocer's stall under the market roof. Produce traders like this one share the aisles with the hot-food counters.*
 
 > ⚠️ **Borough Market is closed on Mondays.** Tuesday to Friday **10am–5pm**, Saturday **9am–5pm**, Sunday **10am–4pm**. Hours change at bank holidays and over Christmas. The market's own advice is that Saturday afternoon is its busiest time, and some passages are only 1.5 metres wide.
 
@@ -118,6 +126,10 @@ This is lunch. The [London markets guide](/articles/best-london-markets/#borough
 ## 5. Southwark Cathedral
 
 **Free to enter**, open **Monday to Saturday 9am–6pm and Sunday 8.30am–5pm**. There has been a church here since at least 1086: a minster in the Domesday Book, an Augustinian priory from 1106, the parish church of St Saviour, and a cathedral only since 1905. The cathedral calls Shakespeare its best-known parishioner.
+
+![The pinnacled stone tower of Southwark Cathedral and its roof, with the glass spire of the Shard rising above the trees to the left](../../assets/articles/bankside-borough-walk/southwark-cathedral.jpg)
+
+*The cathedral tower with the Shard, which stands over London Bridge station where the walk began.*
 
 What to find inside:
 
@@ -134,6 +146,10 @@ What to find inside:
 
 Round the cathedral's river side into St Mary Overie Dock. **A full-size reconstruction of the ship Francis Drake sailed round the world in 1577–1580**, the first English ship to do it. It was built by hand in Appledore, Devon, and launched in 1973.
 
+![The Golden Hinde in St Mary Overie Dock, its black hull striped red and yellow, a golden deer on a blue shield on the stern, and three masts against an office block](../../assets/articles/bankside-borough-walk/the-golden-hinde.jpg)
+
+*Drake sailed from Plymouth in the Pelican. The Golden Hinde's own history of the voyage says the ship was probably renamed in 1578, after the fleet came through the Strait of Magellan.*
+
 **£6 for adults and children, £20 for a family of four**, with an audio guide. Open daily, **10am–6pm April to October and 10am–5pm November to March**, and occasionally shut for private hire. No booking needed.
 
 > ⚠️ **The ship is under restoration**, and parts of it are closed to visitors while the work goes on. Boarding is up five steps from the street, and inside are steep stairs and ladders, with no step-free access.
@@ -141,6 +157,10 @@ Round the cathedral's river side into St Mary Overie Dock. **A full-size reconst
 ## 7. Winchester Palace and the Clink
 
 A few steps west along Clink Street stands a single gable wall with a **rose window** high up in it. It is **the great hall of Winchester Palace**, the London house of the Bishops of Winchester, who ran Bankside as their own jurisdiction outside the City's control. Most of the palace burned down in 1814. English Heritage keeps it, **free to see at any time** from the street, with no access inside; the trust that runs Cross Bones has planted a medieval-style garden in the hall's footprint.
+
+![The ruined stone gable of Winchester Palace with its round rose window of stone tracery, rising above a glass and brick building on Clink Street](../../assets/articles/bankside-borough-walk/winchester-palace.jpg)
+
+*The rose window sits at the top of the gable, above the street buildings, so look up.*
 
 The bishops kept their prison here too. **The Clink** stood in the palace grounds from the 12th century until 1780, when the Gordon rioters broke in, freed the prisoners and burned it down. It was never rebuilt. The museum, a minute further along the street, says it gave its name to every prison since: "in the clink".
 
@@ -154,6 +174,10 @@ Turn right along Park Street. Just before Southwark Bridge Road, behind Anchor T
 
 Across Southwark Bridge Road, at **56 Park Street**, is **the Rose**. Philip Henslowe opened it in **1587**, the first purpose-built playhouse on Bankside. Marlowe's *Doctor Faustus* and *Tamburlaine* were staged here, and so was Shakespeare's earliest tragedy, *Titus Andronicus*. It closed around 1605. Its remains were found by chance in 1989. They are now kept under water, with the outline of both versions of the building and its stage picked out in rope lights.
 
+![The flooded remains of the Rose in a dark basement, red rope lights tracing the lines of the playhouse walls and stage across the water, with mounds of earth in the foreground](../../assets/articles/bankside-borough-walk/the-first-globe-and-the-rose.jpg)
+
+*What the guided tour shows you. The red lines in the water mark where the walls and the stage stood.*
+
 > ⚠️ **The Rose opens by guided tour only, and in autumn 2026 only on Thursdays**, from 17 September to 26 November. Tours last about 45 minutes and cost **£12, or £8 for concessions**, and must be [booked in advance](https://www.trybooking.com/uk/GTZW). On other days, 56 Park Street is shut.
 
 Rose Alley, beside it, leads back to the river. Turn left.
@@ -164,6 +188,10 @@ Rose Alley, beside it, leads back to the river. Turn left.
 
 The Globe you can visit is a reconstruction, opened in 1997 after a campaign Sam Wanamaker began in 1970. He died in 1993, four years before it opened. It is built of oak, lime plaster and water-reed thatch, and it is **the only thatched building in London**: it needed special permission, because thatch has been banned in the city since the Great Fire of 1666.
 
+![Shakespeare's Globe at night, its white-plastered timber frame and thatched roof lit up behind the ironwork gates and steps on the riverside, with Globe banners and show posters on the brick wall](../../assets/articles/bankside-borough-walk/shakespeares-globe.jpg)
+
+*The riverside gates and steps after dark, with Tate Modern's roofline on the right.*
+
 > ⚠️ **The theatre opens for tours and performances only.** The **guided tour costs £31 for adults and £14 for under-16s**, runs daily and takes about an hour and a half, including the exhibition. [Book on the Globe's site](https://www.shakespearesglobe.com/whats-on/globe-theatre-guided-tour/). Standing tickets in the yard for performances are **£5 or £10**. The shop on New Globe Walk (10am–5pm daily) and the **Swan** bar and restaurant are open to anyone.
 
 The Globe also runs its own **Shakespeare's Walking Tour** of Bankside, 90 minutes at **£25**, which covers some of the ground you have just walked, with a guide.
@@ -172,11 +200,19 @@ The Globe also runs its own **Shakespeare's Walking Tour** of Bankside, 90 minut
 
 Four minutes west, in the former Bankside power station. **Free**, open **Sunday to Thursday 10am–6pm and Friday and Saturday 10am–9pm**.
 
+![Tate Modern's brick power station and central chimney from the Millennium Bridge, with the stepped brick Blavatnik Building behind and a glass roofline reading See great art from around the world](../../assets/articles/bankside-borough-walk/tate-modern.jpg)
+
+*The stepped building behind the chimney is the Blavatnik Building. The Level 10 café is at the top.*
+
 Walk through the **Turbine Hall** even if you are not staying, then take the lift in the Blavatnik Building to the **Level 10 café**, which looks across the river to St Paul's and down on the Millennium Bridge. Free 45-minute tours start at 12, 1 and 2pm on most days, from Level 2 of the Natalie Bell Building.
 
 ## 11. The Millennium Bridge
 
 Out of Tate's river entrance and on to the bridge. It is a **325-metre steel footbridge**, the first new pedestrian crossing of the Thames in more than a century, and it opened on 10 June 2000. St Paul's is framed at the far end.
+
+![The Millennium Bridge's steel deck and curved balustrades running north across the Thames to the dome of St Paul's Cathedral, with a glass-sided walkway alongside on the right](../../assets/articles/bankside-borough-walk/the-millennium-bridge.jpg)
+
+*Looking north from the Bankside end. Peter's Hill runs on from the far end up to the cathedral.*
 
 Cross it and walk up Peter's Hill to St Paul's to finish, in the [City of London](/articles/city-of-london-area-guide/). The [South Bank walk](/articles/south-bank-walk/) passes the south end of the bridge at its stop 8.
 
@@ -185,6 +221,14 @@ Cross it and walk up Peter's Hill to St Paul's to finish, in the [City of London
 ## The detour: the Old Operating Theatre
 
 **Two minutes from London Bridge station on St Thomas Street, before you start.** It is in the roof space of St Thomas' Church, up a **52-step spiral staircase**, and the museum describes it as Europe's oldest surviving operating theatre. The attic was St Thomas' Hospital's herb garret, where the apothecary dried plants for medicines, until it was made into a women's operating theatre in 1822. Surgery was done here before anaesthetics, in front of students. The hospital moved to Lambeth in 1862 to make room for London Bridge station, and the room was boarded up until 1956.
+
+![The Old Operating Theatre from the top tier: curved wooden standing rails in rising rows round a plain wooden operating table, under a skylight, with a sign reading Miseratione non mercede over the double doors](../../assets/articles/bankside-borough-walk/the-old-operating-theatre.jpg)
+
+*Students stood on the curved tiers to watch. The motto over the doors, Miseratione non mercede, means "for compassion, not for gain".*
+
+![The herb garret under the church's bare timber roof beams, with apothecary drawers, glass cases of medicine bottles, dried herbs hanging from the rafters and a sign reading Old St Thomas' Hospital](../../assets/articles/bankside-borough-walk/the-old-operating-theatre-2.jpg)
+
+*The herb garret, where the apothecary dried the plants, is part of the same visit.*
 
 It links to stop 5: the hospital began as the infirmary of the priory that is now Southwark Cathedral.
 

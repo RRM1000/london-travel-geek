@@ -98,6 +98,10 @@ The trolley is only out while the Harry Potter Shop beside it is open: **8am to 
 
 **The covered Victorian market where Hagrid walks Harry to the Leaky Cauldron** in *Harry Potter and the Philosopher's Stone*, filmed here in 2000 and 2001.
 
+![Looking up at the crossing in the middle of Leadenhall Market: cream and maroon ironwork, glass roofs meeting under a dome, and silver dragons on the columns either side of the Reiss shop at number 26](../../assets/articles/harry-potter-filming-locations-walk/leadenhall-market-2.jpg)
+
+*The octagonal crossing at the centre of the market. The dragons holding shields on the columns are the City of London's.*
+
 Most guides say it played Diagon Alley. It didn't. The market's own history page says it stood in for the Muggle London streets leading to the Leaky Cauldron. Diagon Alley was a set at Leavesden, and you can walk down it on the [Studio Tour](/articles/harry-potter-studio-tour/).
 
 The building is the work of **Sir Horace Jones**, the City Architect who also designed Smithfield, Billingsgate and Tower Bridge. It went up in **1881**, replacing a stone market, and was listed Grade II in 1972. The City of London Corporation still owns and runs it.
@@ -109,6 +113,10 @@ The public lanes are **open 24 hours a day, seven days a week**. The shops, bars
 ## 2. The Leaky Cauldron door
 
 Take **Bull's Head Passage**, the lane that runs from the market west to Gracechurch Street. The door that played the entrance to the Leaky Cauldron in the first film is now the front door of **Two Eyes Coffee House, 4 Bull's Head Passage**, and the coffee shop says so on its own site.
+
+![The bright blue frontage of 4 Bull's Head Passage, a 2i's Coffee House sign hanging above and a yellow door whose glass is lettered Two Eyes Speciality Coffee House and The Leaky Cauldron](../../assets/articles/harry-potter-filming-locations-walk/the-leaky-cauldron-door.jpg)
+
+*Look for the 2i's sign hanging over the passage. The glass in the yellow door carries both names, Two Eyes and The Leaky Cauldron.*
 
 It shares the building with the Glass House Opticians and the London Migraine Clinic, which is where the name comes from, and its profits help fund the clinic's migraine research. That is why some guides call this door an opticians: both are right.
 
@@ -141,6 +149,10 @@ In the opening minutes of **Half-Blood Prince** the Death Eaters twist the bridg
 
 It is a footbridge, free and **open at all hours**. Walk it south to north and St Paul's is straight ahead of you.
 
+![The steel deck of the Millennium Bridge running north across the Thames with the dome of St Paul's Cathedral at the far end, a few people crossing](../../assets/articles/harry-potter-filming-locations-walk/the-millennium-bridge.jpg)
+
+*A few steps on from the south end, the dome lines up with the deck.*
+
 <div data-stay-strip></div>
 
 ## 5. Australia House
@@ -148,6 +160,10 @@ It is a footbridge, free and **open at all hours**. Walk it south to north and S
 From St Paul's, west down Ludgate Hill and Fleet Street and past the Royal Courts of Justice to the Strand, about twenty minutes.
 
 **The banking hall of Australia House played Gringotts** in *Philosopher's Stone*. The director, Chris Columbus, chose it for the goblins' bank.
+
+![The stone entrance of Australia House, Australia House carved on the pedestals either side of black and gilt gates, sculpture groups above them and Australian, Aboriginal and Torres Strait Islander flags along the facade](../../assets/articles/harry-potter-filming-locations-walk/australia-house.jpg)
+
+*The gates, with the name cut into the stone either side. The banking hall is inside, and this is as close as a visitor gets.*
 
 The building is the **Australian High Commission**, opened by George V on 3 August 1918 and listed Grade II. It is a working diplomatic building, not a visitor attraction: **you see it from the pavement** on the Strand, at WC2B 4LA.
 
@@ -159,7 +175,15 @@ North-west through Covent Garden to Soho, about twenty-two minutes.
 
 This one was not a filming location. **Miraphora Mina and Eduardo Lima designed the graphic props for all the Harry Potter films**, working together on them from 2001. House of MinaLima is their own gallery and shop.
 
+![The maroon shopfront of House of MinaLima at 157 Wardour Street, its window full of Hogwarts letters flying out of a fireplace, with Prints, Gifts and Books painted beneath](../../assets/articles/harry-potter-filming-locations-walk/house-of-minalima.jpg)
+
+*The window display: Hogwarts letters pouring out of a fireplace, as they do at the Dursleys'.*
+
 **157 Wardour Street, W1F 8WQ. Open daily 11am to 6.45pm, including bank holidays**, and free to walk in. The shop is on the ground floor with a portable ramp that won't take larger wheelchairs; the gallery is downstairs and reached only by stairs. There is no toilet.
+
+![Inside House of MinaLima: framed Wanted posters for Bellatrix Lestrange and Harry Potter, Daily Prophet front pages and Quibbler covers on the walls, glass display cases, and a floor printed like the Marauder's Map](../../assets/articles/harry-potter-filming-locations-walk/house-of-minalima-2.jpg)
+
+*The Wanted posters and Daily Prophet pages on the walls are prints of the ones Mina and Lima made for the films. The floor is printed as the Marauder's Map.*
 
 ## 7. Piccadilly Circus
 
@@ -177,6 +201,10 @@ Down Haymarket, across Trafalgar Square and along Whitehall, about twenty minute
 
 In **Order of the Phoenix** Arthur Weasley takes Harry through the ticket barriers here, among the commuters, on the way to his hearing at the Ministry of Magic. TfL closed the station for the whole of Sunday 22 October 2006 for the filming, with trains running straight through.
 
+![The ticket barriers in Westminster station's ticket hall under a bare concrete ceiling, signs pointing to the Houses of Parliament, Westminster Abbey and Westminster Pier](../../assets/articles/harry-potter-filming-locations-walk/westminster-station.jpg)
+
+*The gate line in the ticket hall. Signs point to Parliament and the Abbey one way, Westminster Pier the other.*
+
 The ticket hall is **free to walk into** during Tube hours. Anything beyond the barriers needs a fare.
 
 ## 9. Lambeth Bridge
@@ -185,7 +213,15 @@ South along Millbank past Victoria Tower Gardens, about fifteen minutes.
 
 In **Prisoner of Azkaban** the Knight Bus, three storeys of purple, squeezes through a gap between two red London buses on this bridge.
 
+![Lambeth Bridge from above on the Lambeth side, a red double-decker crossing among cars, with Millbank Tower and the stone offices along Millbank across the river](../../assets/articles/harry-potter-filming-locations-walk/lambeth-bridge-2.jpg)
+
+*One red double-decker fills a lane on its own. In the film the Knight Bus squeezes between two.*
+
 Nothing marks the spot. What you get is the view down the river to the Houses of Parliament, and the end of the walk.
+
+![Lambeth Bridge's red-painted arches and parapet over the Thames, with the Victoria Tower and the Elizabeth Tower of the Houses of Parliament behind](../../assets/articles/harry-potter-filming-locations-walk/lambeth-bridge.jpg)
+
+*The bridge is painted mostly red for the benches of the House of Lords, the end of Parliament nearest it.*
 
 ---
 

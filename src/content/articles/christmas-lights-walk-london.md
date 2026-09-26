@@ -60,7 +60,7 @@ It is **about 5km, 70 minutes of walking**, and two to two and a half hours with
 | # | Stop | 2026 switch-on | Runs |
 | --- | --- | --- | --- |
 | **1** | Oxford Street | Not yet announced (3 Nov in 2025) | Every year |
-| **2** | South Molton Street | — | The way through to Bond Street |
+| **2** | South Molton Street | — | Its own blue arches in previous years; the way through to Bond Street |
 | **3** | Bond Street | Not yet announced | Every year, often a new design |
 | **4** | St James's Market | With Regent Street | Every year |
 | **5** | Regent Street, the Quadrant | Not yet announced (6 Nov in 2025) | Every year since 1954 |
@@ -80,11 +80,19 @@ Start outside **Selfridges** and walk east.
 
 The lights go up every year and are usually among the first in London to go on. In 2025 the scheme was **Sky Full of Stars**, thousands of white stars strung the length of the street, lit from **Monday 3 November**; in 2023 the date was 2 November. The 2026 date had not been announced by late September. The stars have run on a timer, **3pm to 11pm** in 2023, and stay up until early January.
 
+![Rows of white stars on hanging strands of light strung across Oxford Street at dusk, with red buses at Oxford Circus below](../../assets/articles/christmas-lights-walk-london/oxford-street.jpg)
+
+*Oxford Street's stars at Oxford Circus in a previous year's lights. Selfridges, where the walk starts, is about a kilometre west along the same street.*
+
 Walk east past **Bond Street station**, about five minutes, and turn right just beyond it.
 
 ## 2. South Molton Street
 
-A short **pedestrian street** running south from Oxford Street next to Bond Street station, and the calm way into Mayfair: no traffic, and a fraction of the Oxford Street crowd.
+A short **pedestrian street** running south from Oxford Street next to Bond Street station, and the calm way into Mayfair: no traffic, and a fraction of the Oxford Street crowd. In previous years the street has hung its own arches of blue lights.
+
+![Arches of blue light studded with stars over South Molton Street at night, with Caffè Concerto's terrace on the left and shoppers walking under them](../../assets/articles/christmas-lights-walk-london/south-molton-street.jpg)
+
+*South Molton Street's blue arches, strung with stars, in a previous year's lights.*
 
 At the bottom it meets **Brook Street**. **Claridge's** is a hundred metres to the right, and every Christmas it hands the tree at the foot of its staircase to a different fashion designer to dress. Turn left, then right into **New Bond Street**.
 
@@ -95,6 +103,10 @@ At the bottom it meets **Brook Street**. **Claridge's** is a hundred metres to t
 Walk the full length, New Bond Street into Old Bond Street, down to Piccadilly. It is about 800 metres of jewellers' and fashion houses' windows, most of them dressed for Christmas.
 
 **The Bond Street lights go up every year, and the design changes.** Peacock feathers hung for eight years; in 2022 they were replaced by a scheme taken from the Crown Jewels, with a tiara-shaped gateway at each end, necklace-like strands across the street and **four crowns over the main junctions**, modelled on the Imperial State Crown and built from 93,652 LEDs. The crowns were back in 2025. The street has switched on in mid-November in recent years; the 2026 date had not been announced by late September.
+
+![One of the Bond Street crowns against a deep blue evening sky, a ring of gold lights topped with heart-shaped points and lilac globes, with strands of light hanging inside it](../../assets/articles/christmas-lights-walk-london/bond-street.jpg)
+
+*One of the crowns in a previous year's lights. Stand under a junction and look straight up to see the strands hanging inside the ring.*
 
 At the bottom, turn left along **Piccadilly**, past Burlington Arcade, the Royal Academy and Fortnum & Mason, to Piccadilly Circus. Keep going across the Circus and into **Regent Street St James's**, the lower stretch of Regent Street running south.
 
@@ -132,6 +144,10 @@ Carry on up Regent Street past the top of the Quadrant and turn right into **Bea
 
 **Carnaby's switch-on is Wednesday 4 November 2026**, the earliest confirmed date on this walk. The 2026 theme is "the feel-good nostalgia of the 90s", in the words of Shaftesbury Capital, which owns the street. In 2024 the street put up a new design-led installation; the 2026 design had not been shown by late September.
 
+![The Carnaby Soho sign arching over Carnaby Street at dusk, with lit planets and blue tinsel clouds hung down the street behind it](../../assets/articles/christmas-lights-walk-london/carnaby-street.jpg)
+
+*Carnaby's planets under the street's arch sign in a previous year's lights. The 2026 display takes the 90s as its theme.*
+
 **Kingly Court** opens off the west side of Carnaby: three floors of restaurants around a courtyard, which is covered through the winter. It is the obvious place to stop for dinner on this walk. The courtyard is busiest from 6pm to 8pm and most of its restaurants take bookings, so book a table on a Friday or Saturday.
 
 Oxford Circus is five minutes north if you want to stop here.
@@ -150,6 +166,10 @@ Go down **Mercer Street** to Long Acre, turn right, left into Garrick Street, an
 
 A narrow cobbled street of fashion shops, strung with Covent Garden's lights, and the quiet approach to the Piazza. Covent Garden says **more than 300,000 lights** go up across the district for 2026. Walk it east and turn right down **James Street** into the Piazza.
 
+![The red-brick corner front of the White Lion pub by day, with a Floral Street WC2 sign on its wall](../../assets/articles/christmas-lights-walk-london/floral-street.jpg)
+
+*Floral Street by day, without its lights: the White Lion, a Victorian pub with the street sign on its corner.*
+
 <div data-stay-strip></div>
 
 ## 9. Covent Garden: the tree and the Market Building
@@ -163,6 +183,10 @@ A narrow cobbled street of fashion shops, strung with Covent Garden's lights, an
 - **The tree**, British-grown, on the **West Piazza** in front of St Paul's Church.
 - **The Market Building**, hung with **gold bells, mirror balls and baubles**, all returning for 2026.
 - **The Box Office Bar** on the Piazza, serving mulled wine for a second year.
+
+![Inside Covent Garden's Market Building, lit Christmas trees and a red sleigh under the iron roof, with giant white baubles, mirror balls and light-up mistletoe hanging above](../../assets/articles/christmas-lights-walk-london/covent-garden.jpg)
+
+*The Market Building in a previous year's decorations, when mistletoe hung alongside the baubles and mirror balls. The upper level, by the rail over the lower courtyard, puts you among them.*
 
 **For the view from above**, go up to **Bar Cicoria on level five of the Royal Opera House**, in the north-east corner of the Piazza. It is a covered, heated terrace looking down on the market roof and the lights, it takes walk-ins, and no ticket is needed. Open daily from midday, to 11pm Monday to Saturday and 9.15pm on Sunday. The building is cashless and bags are checked at the door.
 

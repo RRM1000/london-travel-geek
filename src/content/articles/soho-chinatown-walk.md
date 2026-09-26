@@ -75,9 +75,9 @@ For where to eat in the evening, the nightlife and where to stay, see the [Soho 
 
 ## 1. Denmark Street
 
-![Guitar shops along Denmark Street, with the red Wunjo Guitars sign on the left and a hanging sign for vintage guitars](../../assets/articles/soho-chinatown-walk/denmark-street-tin-pan-alley.jpg)
+![The red shopfront of No.Tom vintage guitars at 6 Denmark Street, electric guitars hanging in both windows, with the blue Augustus Siebe plaque high on the brick building to its left](../../assets/articles/soho-chinatown-walk/denmark-street.jpg)
 
-*Denmark Street's guitar shops, with Wunjo at No. 5 on the left. Photo: [Marcus Grbac](https://commons.wikimedia.org/wiki/File:Tin_Pan_Alley,_5_~_11_Denmark_Street_(2022-05-12_13.04.16_by_Marcus_Grbac).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*No.Tom's red front at No. 6. The blue plaque up on the left is Siebe's, on No. 5, the Wunjo building.*
 
 **One short street off Charing Cross Road, and for eighty years the home of British songwriting.** A blue plaque reads: "This street was 'Tin Pan Alley' 1911–1992, home of the British publishers and songwriters and their meeting place The Giaconda." Outernet, whose development takes in the street, lists the Sex Pistols among its residents and the Rolling Stones' first album among the records made here.
 
@@ -93,6 +93,10 @@ Cross Charing Cross Road and take Sutton Row west into Soho Square.
 
 **Laid out in the 1680s on what was Soho Fields.** The half-timbered hut in the middle dates from 1895, and the statue of **Charles II** is listed.
 
+![The weathered stone statue of Charles II on its plinth in Soho Square, a paved path leading past it to the half-timbered hut](../../assets/articles/soho-chinatown-walk/soho-square.jpg)
+
+*The plate on the plinth credits the statue to Caius Gabriel Cibber in 1681, and Lady Gilbert with returning it to the square in 1938.*
+
 An English Heritage plaque at **No. 14** marks where **Mary Seacole**, the Jamaican nurse of the Crimean War, lived and started writing her autobiography.
 
 **The gardens open daily from 8am** and close at a time set by the season: 4.30pm in winter, 9.30pm in high summer, 7.30pm at the end of September. They are step-free, and dogs are not allowed. There are public toilets at the top of the square by the Santander bike docks.
@@ -102,6 +106,10 @@ Leave by the south-west corner into Dean Street.
 ## 3. Dean Street: Karl Marx
 
 **Marx lived at 28 Dean Street from 1851 to 1856**, in two rooms on the second floor: a back bedroom for the whole family and a front room that was kitchen and living room. Jenny Marx called them "the evil frightful rooms". Two of their children died here and a third, Eleanor, was born. He was working on the first volume of *Das Kapital*, researching it in the British Museum's library.
+
+![The round blue Greater London Council plaque to Karl Marx, 1818–1883, "lived here 1851–56", between two tall black-framed windows on the pale grey front of 28 Dean Street](../../assets/articles/soho-chinatown-walk/dean-street-karl-marx.jpg)
+
+*Look up from the opposite pavement: the plaque sits between the upper windows of the pale grey building, above Quo Vadis.*
 
 **The blue plaque went up in 1967**, after two earlier ones at his last house, on Maitland Park Road, were vandalised. English Heritage records that the owner of the restaurant downstairs objected to it at the time.
 
@@ -113,9 +121,9 @@ Take Bateman Street east to Frith Street.
 
 ## 4. Frith Street: Mozart, Bar Italia and Ronnie Scott's
 
-![The neon frontage of Bar Italia on Frith Street at night](../../assets/articles/best-italian-restaurants-london/bar-italia.jpg)
+![Bar Italia on Frith Street by day: green neon script on a stone fascia over a green awning, a hanging clock and Caffe Espresso neon above, and John Logie Baird's blue plaque on the wall to the right](../../assets/articles/soho-chinatown-walk/frith-street.jpg)
 
-*Bar Italia, open on Frith Street since 1949. Photo: [SomeDriftwood](https://commons.wikimedia.org/wiki/File:Bar_Italia_-_Soho_(4764432107).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
+*Bar Italia at No. 22. Baird's plaque is the round one up to the right of the neon sign.*
 
 Three plaques in a hundred metres, and the route's coffee stop.
 
@@ -137,6 +145,10 @@ Continue down Frith Street to Old Compton Street and turn right. Turn right up D
 
 **Founded in 1778, and one of London's oldest street markets.** Westminster City Council licenses it **Monday to Saturday, 8am to 6pm**, for fruit and vegetables, flowers, coffee, dairy and hot food, and it is Soho's main lunchtime food street. The stalls are fewer than they were: count on a lunchtime pass-through rather than a morning's shopping.
 
+![A fruit and vegetable barrow on wooden cartwheels on Berwick Street, under a striped awning and an Exotic Fruits sign, piled with papayas, peppers, chillies and a sack of potatoes](../../assets/articles/soho-chinatown-walk/berwick-street-market.jpg)
+
+*Fruit, vegetables and chillies piled on a barrow that still runs on wooden cartwheels.*
+
 **Breadstall** at No. 92 is the stop worth making: a counter selling slow-fermented pizza by the quarter, half or whole, walk-in only. It is covered in our [pizza guide](/articles/best-pizza-london/).
 
 > ⚠️ **There is no market on Sunday.** It is the one stop on this walk that shuts for a whole day.
@@ -151,6 +163,10 @@ Walk north to the top of the market and turn left into Broadwick Street.
 
 The pub on the corner of Lexington Street is **The John Snow**, a Samuel Smith's house. It opens Monday to Saturday noon to 11pm and Sunday 1pm to 10pm.
 
+![The John Snow pub on Broadwick Street: a dark wood Victorian frontage with etched Saloon and Snug windows, hanging baskets, a lantern, and a pub sign painted with Snow's portrait](../../assets/articles/soho-chinatown-walk/broadwick-street-john-snow.jpg)
+
+*Snow's portrait is on the hanging sign. Look down for the red granite kerbstone nearby: it marks where the original pump stood.*
+
 Carry on west to the corner of Marshall Street. A plaque on **8 Marshall Street** marks where **William Blake** was born, on 28 November 1757, in a house that stood on this site.
 
 ## 7. Carnaby Street and Kingly Court
@@ -158,6 +174,10 @@ Carry on west to the corner of Marshall Street. A plaque on **8 Marshall Street*
 Cross Marshall Street into Ganton Street, which runs into **Carnaby Street**. A green Westminster plaque credits **John Stephen**, who died in 2004, with making it the world centre of men's fashion in the 1960s. The street is now mostly brands, and it is pedestrianised.
 
 **Kingly Court is the reason to stop**: three floors of restaurants and bars round an open courtyard, covered for the winter. Go in beside Dr Martens on Carnaby Street. Two of its top-floor rooms, **Imad's Syrian Kitchen** and the Filipino **Donia**, hold 2026 Michelin Bib Gourmands, and Imad's books weeks ahead; our [Middle Eastern guide](/articles/best-middle-eastern-restaurants-london/) and [Filipino guide](/articles/best-filipino-restaurants-london/) cover both.
+
+![Kingly Court from an upper walkway: three floors of red, pink and grey restaurant fronts behind blue railings, around a courtyard with a round-clipped tree, tables and a blue-and-white striped canopy](../../assets/articles/soho-chinatown-walk/carnaby-street.jpg)
+
+*The view from the top-floor walkway takes in all three floors and the courtyard tables below.*
 
 The toilets inside are for diners. The public ones are at the north end of Carnaby Street, and there is a free water refill point outside Pizza Pilgrims in the courtyard.
 
@@ -168,6 +188,10 @@ Leave Kingly Court by the Beak Street entrance and walk down Upper John Street i
 ## 8. Golden Square
 
 **Laid out in the 1670s, possibly to plans by Christopher Wren.** The statue in the middle is **George II**; Dickens described the square as a little wilderness of shrubs watched over by a "mournful statue". Four mature hornbeams stand in the garden.
+
+![Golden Square's paved garden in spring: a bed of red, orange and pink tulips, a stone urn, large hornbeams behind, and the statue of George II on its plinth on the right](../../assets/articles/soho-chinatown-walk/golden-square.jpg)
+
+*George II stands on the right, with the hornbeams behind and the beds planted with tulips for spring.*
 
 **The garden opens daily from 8am**, on the same seasonal closing times as Soho Square. Round the edge, a plaque at No. 31 records the surgeon **John Hunter**, and Nos. 23–24 were the **Portuguese Embassy** from 1724 to 1747.
 
@@ -180,6 +204,10 @@ Leave by Lower John Street, follow Brewer Street east to Wardour Street, and tur
 **The garden is well above the pavement on Wardour Street, and the reason is underneath.** The church says up to 60,000 people are buried here. The churchyard closed to burials in the 1850s, largely because a sexton had been dumping bodies in the ground and selling their coffins for firewood, and because London's churchyards were full.
 
 **William Hazlitt** is among them. The church itself was consecrated in 1686 by Bishop Henry Compton, after whom Old Compton Street is named, and was bombed in 1940. Only the **tower of 1803** survived, and its clock is still wound by hand. The crime writer **Dorothy L. Sayers** was churchwarden while there was no church building at all, and her ashes are in the base of the tower.
+
+![The tower of St Anne's Soho: a brick base with a round window rising to a stone belfry, a copper-clad drum and a blue clock face, with a weathervane on top](../../assets/articles/soho-chinatown-walk/st-annes-churchyard.jpg)
+
+*The 1803 tower, all that survived the bombing. The clock near the top is the one still wound by hand.*
 
 **The garden is free and open daily**, with Westminster's seasonal closing times. It has steps and no step-free entrance, and dogs are allowed.
 
@@ -204,6 +232,10 @@ Walk south down Greek Street, cross Shaftesbury Avenue, and take Gerrard Place i
 The history is on the walls. A blue plaque at **No. 39** marks the basement where **Ronnie Scott opened his club in October 1959**, before the move to Frith Street. At **No. 9** a plaque marks the **Turk's Head Tavern**, where Samuel Johnson and Joshua Reynolds founded The Club in 1764, and **John Dryden** lived at No. 43.
 
 Walk west along Gerrard Street and turn left down Wardour Street to the gate. Come back a few steps and turn into **Lisle Street**, whose 18th-century shopfronts were restored in the 1980s. It ends at Newport Place, two minutes from Leicester Square.
+
+![Rows of red paper lanterns strung across Newport Place in Chinatown, with market-stall canopies below and the Newport Place WC2 street sign on the brick wall behind](../../assets/articles/soho-chinatown-walk/chinatown-gerrard-street.jpg)
+
+*Newport Place, where the walk ends, under its rows of lanterns. The street sign is on the brick wall at the back.*
 
 **Where to eat:**
 
