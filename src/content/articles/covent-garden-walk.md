@@ -333,6 +333,9 @@ Walked in reverse — Somerset House to Leicester Square — it works, but it pu
 - **[Westminster](/articles/westminster-walk/)** — Trafalgar Square is on it, at the bottom of Covent Garden.
 - **[South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)** — over Waterloo Bridge from the Strand.
 - **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — Fitzrovia starts just north of Seven Dials.
+- **[Soho and Chinatown](/articles/soho-chinatown-walk/)** — ends on Lisle Street, two minutes from the ticket booth, so walk it first and start this one after lunch in Chinatown.
+- **[The Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/)** — its second half starts at Australia House, a few minutes east of Somerset House along the Strand.
+- **[The Christmas lights walk](/articles/christmas-lights-walk-london/)** — the after-dark route from Oxford Street through Seven Dials and the Piazza to Trafalgar Square, November to early January.
 
 ## What to do with the rest of the day
 

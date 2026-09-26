@@ -12,7 +12,7 @@ tags: [filming locations, film, television, free things to do, things to do]
 draft: false
 faq:
   - q: "Where was Harry Potter filmed in London?"
-    a: "Gringotts Wizarding Bank is the banking hall of Australia House on the Strand — a working diplomatic building, so you cannot go in. Platform 9¾ is at King's Cross, Leadenhall Market played Diagon Alley, and the Millennium Bridge is destroyed in Half-Blood Prince."
+    a: "Gringotts Wizarding Bank is the banking hall of Australia House on the Strand — a working diplomatic building, so you cannot go in. Platform 9¾ is at King's Cross, Leadenhall Market played the streets outside the Leaky Cauldron, and the Millennium Bridge is destroyed in Half-Blood Prince."
   - q: "Is Sherlock's 221B Baker Street real?"
     a: "The BBC series filmed its 221B exterior on North Gower Street near Euston Square, not Baker Street — the real one was too busy. The Sherlock Holmes Museum at 221b Baker Street is a separate, unrelated attraction."
   - q: "Where is Slough House from Slow Horses?"
@@ -20,12 +20,12 @@ faq:
   - q: "Can you visit these filming locations?"
     a: "Most are streets, bridges and building exteriors, so yes and for free. Australia House and the Farmiloe Building are working buildings you can only see from outside. Rules restaurant is open and you can book Bond's table."
   - q: "What is the best filming location walk in London?"
-    a: "The City has the highest concentration — Slough House on Aldersgate, the Gotham police station in Clerkenwell, Leadenhall Market for Diagon Alley and two Banksy Basquiats in the same tunnel, all within half an hour on foot."
+    a: "The City has the highest concentration — Slough House on Aldersgate, the Gotham police station in Clerkenwell, Leadenhall Market from the first Harry Potter film and two Banksy Basquiats in the same tunnel, all within half an hour on foot."
 ---
 
 Most of London's filming locations are ordinary streets you can walk down for nothing. The pleasure is in the mismatch: Gringotts is a working embassy, Sherlock's flat is on the wrong road entirely, and the Shanghai hotel pool in *Skyfall* is in Canary Wharf.
 
-> 💡 **The Short Version:** **Australia House** is Gringotts and you cannot go in. **North Gower Street** is Sherlock's Baker Street. **Aldersgate Street** has the Slough House door. **Leadenhall Market** is Diagon Alley. And **Rules** in Covent Garden is Bond's favourite restaurant, written into *Spectre*.
+> 💡 **The Short Version:** **Australia House** is Gringotts and you cannot go in. **North Gower Street** is Sherlock's Baker Street. **Aldersgate Street** has the Slough House door. **Leadenhall Market** is the way to the Leaky Cauldron. And **Rules** in Covent Garden is Bond's favourite restaurant, written into *Spectre*.
 
 > 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Locations are the ones confirmed by production credits, location agencies or the films themselves. Several are private or working buildings — we say which, and none of this is an invitation to trespass.
@@ -49,6 +49,8 @@ Most of London's filming locations are ordinary streets you can walk down for no
 
 ## Harry Potter
 
+> 🚶 **Walk them in order:** [the Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/) links nine Potter locations from Leadenhall Market to Lambeth Bridge, with the days each one opens.
+
 ### Gringotts Wizarding Bank — Australia House, Strand
 
 *Exterior only*
@@ -63,7 +65,7 @@ The exterior on the Strand is free to look at at any hour, and it is a **two-min
 
 *Free*
 
-An 1881 covered market in cream, maroon and green wrought iron, used for **Diagon Alley** in the first film. The blue door that served as the entrance to the Leaky Cauldron belongs to what is now an opticians on Bull's Head Passage.
+An 1881 covered market in cream, maroon and green wrought iron, used in the first film for **the London streets Hagrid walks Harry down to the Leaky Cauldron**. Diagon Alley itself was a set. The blue door that served as the entrance to the Leaky Cauldron is now Two Eyes Coffee House on Bull's Head Passage, which shares the building with an opticians.
 
 The painted ironwork and glass roof needed no set dressing at all, which is why it reads as a set even when you are standing in it.
 
@@ -81,7 +83,7 @@ The trolley embedded in a wall, with a permanent queue, a staff member to swing 
 
 **Free to look at, and free to photograph yourself** — the paid photographer is optional and the staff will use your own phone. Expect a long wait at weekends and in school holidays; first thing in the morning is the only reliably quiet slot. The shop beside it needs no ticket and no queue.
 
-**King's Cross station N1C 4AP**, and it is inside the barrier-free part of the concourse, so you do not need a train ticket to reach it.
+**King's Cross station N1 9AP**, and it is inside the barrier-free part of the concourse, so you do not need a train ticket to reach it.
 
 ---
 
@@ -111,13 +113,11 @@ The centre of the square is a covered Victorian reservoir behind railings, which
 
 ### London Zoo's Reptile House — Regent's Park
 
-*Ticketed · inside the zoo*
+*Closed*
 
-Where Harry discovers he can talk to snakes and Dudley ends up behind the glass, in **the Philosopher's Stone (2001)**. The 1927 Reptile House is still in use and still recognisable.
+Where Harry discovers he can talk to snakes and Dudley ends up behind the glass, in **the Philosopher's Stone (2001)**.
 
-**It is inside the zoo, so it needs a full paid ticket** — and London Zoo is one of the more expensive attractions in the city, with no partial or grounds-only entry. Worth it if you were going anyway; **not worth it for the scene alone**, which is the honest answer and the one most guides avoid giving.
-
-If you do go, the Reptile House is a short walk from the main entrance and there is a plaque marking the enclosure used in the film. **Outer Circle NW1 4RY**, with Camden Town about fifteen minutes' walk and Regent's Park about the same.
+**London Zoo closed the 1926 Reptile House to the public in 2023**, and its reptiles moved to a new building, the Secret Life of Reptiles and Amphibians, from Easter 2024. There is no longer anything from the scene to see, so do not buy a zoo ticket for it.
 
 ## Bond
 

@@ -282,7 +282,7 @@ The current building dates precisely to **1676–77**, put up immediately after 
 
 **Owned by the National Trust since 1937** and operated under lease by Greene King. Dickens knew it and put it in *Little Dorrit*.
 
-**Pub food and a Sunday roast**, served in the galleried bars and the courtyard. Walk-in. The courtyard is the thing to see, and it is at its best on a summer evening.
+**Pub food and a Sunday roast**, served in the galleried bars and the courtyard. Walk-in. The courtyard is the thing to see, and it is at its best on a summer evening. It is stop 2 on our [Bankside and Borough walk](/articles/bankside-borough-walk/), beside the yards of the inns that have gone.
 
 ![The galleried courtyard of the George Inn in Southwark, with barrels for tables and the Parliament Bar sign](../../assets/articles/historic-pubs-dining-rooms-london/the-george-courtyard.jpg)
 

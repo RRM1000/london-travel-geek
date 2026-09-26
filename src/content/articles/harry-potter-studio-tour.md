@@ -231,6 +231,7 @@ Every car needs a booking confirmation to get in, and **you cannot go back to th
 ## Continue planning your London trip
 
 - ⚡ **[Harry Potter in London](/articles/harry-potter-london/)** — the filming locations, the shops, Cursed Child and what to skip.
+- 🚶 **[The Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/)** — the London streets the films used, from the Leaky Cauldron door to Gringotts, in walking order.
 - 🎬 **[London filming locations](/articles/london-filming-locations/)** — Harry Potter, Bond, Paddington and more.
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless capping works on days like this one.
 - 👨‍👩‍👧 **[London with kids](/articles/london-with-children/)** — free farms, zoos and family days out.

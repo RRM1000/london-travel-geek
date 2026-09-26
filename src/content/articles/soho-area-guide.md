@@ -21,7 +21,11 @@ area:
   walkability: 5
   timeNeeded: "An evening, or half a day with Chinatown"
   budget: "££"
-  bestDay: "Thursday to Saturday evenings; Sunday for dim sum without the queue"
+  bestDay: "Thursday to Saturday evenings; a weekday lunchtime for Chinatown"
+  walkingRoute:
+    slug: "soho-chinatown-walk"
+    label: "Denmark Street to Chinatown"
+    detail: "11 stops · 3km · 2½–3 hours"
   bestFor:
     - Dining and nightlife
     - Chinatown
@@ -88,20 +92,20 @@ Soho has its own share of the commemorative plaques marking where notable people
 3. **Old Compton Street** — The heart of London's LGBTQ+ nightlife for decades, and still the busiest street in Soho after dark. Cafes and bars spill onto the pavement all evening.
 4. **Berwick Street** — A street market since the 1770s, plus the surviving record shops that made this the centre of London's vinyl trade.
 5. **Denmark Street** — "Tin Pan Alley". The guitar shops and the studios where the Rolling Stones and David Bowie recorded. Much reduced by redevelopment but still recognisable.
-6. **Soho Square** — The only real green space, with the mock-Tudor gardener's hut at its centre. Full of office workers at lunchtime and the quietest spot in the area.
+6. **Soho Square** — One of Soho's three public gardens, with the mock-Tudor gardener's hut at its centre. Full of office workers at lunchtime and the quietest spot in the area.
 7. **Ronnie Scott's** — The jazz club on Frith Street. Founded in 1959, though it opened on Gerrard Street and only moved here in 1965. Book ahead for the main show, or turn up for the 11.15pm Late Late Show at £12.
 
 ## Key streets and micro-districts
 
 ### Gerrard Street and Chinatown
 
-![Red lanterns strung above a crowded Gerrard Street in Chinatown](../../assets/articles/soho-area-guide/chinatown-gerrard-street.jpg)
+![Red lanterns strung above a crowded Wardour Street in Chinatown, with Four Seasons on the left](../../assets/articles/soho-area-guide/chinatown-gerrard-street.jpg)
 
-*Gerrard Street under its lanterns. The street is pedestrianised, and busiest between about 6pm and 9pm.*
+*The Chinatown stretch of Wardour Street under its lanterns. Gerrard Street, one block east, is pedestrianised and busiest between about 6pm and 9pm.*
 
 Pedestrianised and lantern-strung, and **London's Chinatown is Cantonese first** — roast meats hanging in windows, dim sum until mid-afternoon, hotpot, and bakeries open later than almost anything else in the West End.
 
-Gerrard Street is the spine, with Lisle Street parallel to it and usually cheaper. The **gates and lanterns** date from the 1980s, though the community moved here from Limehouse after the war.
+Gerrard Street is the spine, with Lisle Street parallel to it and usually cheaper. The first **gates** went up in the late 1980s, and the largest, on Wardour Street, in 2016; the community moved here from Limehouse after the war.
 
 **Busiest on Sunday afternoons**, which is when families come to eat — good for atmosphere, bad for a table. Dim sum kitchens generally stop by about 4pm, so come earlier than you think.
 
@@ -123,12 +127,14 @@ Pedestrian shopping to the west, and **fourteen streets rather than one** — Ca
 
 **Free to walk through, open daily**, and five minutes from Oxford Circus. The courtyard is busiest between 6pm and 8pm, and most of its restaurants take bookings — worth doing at a weekend.
 
+Carnaby's Christmas lights switch-on is Wednesday 4 November 2026, and the street is stop six on our [Christmas lights walk](/articles/christmas-lights-walk-london/), between the Regent Street angels and Seven Dials.
+
 ### Berwick Street and Broadwick Street
 Market stalls, record shops and some of Soho's better restaurants — **Berwick Street market has traded since the 1770s** and is now a short run of food stalls rather than the fruit and veg it was, with the surviving record shops on the same stretch.
 
 Broadwick Street has the **John Snow pump replica**, marking where Snow traced the 1854 cholera outbreak to a single water source and effectively founded modern epidemiology. The pub beside it is named after him.
 
-**The market runs weekday lunchtimes** and is largely gone by mid-afternoon and at weekends, so time it for lunch or you will find an empty street.
+**The market trades Monday to Saturday, 8am to 6pm**, and not on Sundays. Lunchtime is when the food stalls are busiest.
 
 ### Dean Street and Frith Street
 
@@ -137,7 +143,7 @@ Broadwick Street has the **John Snow pump replica**, marking where Snow traced t
 *Frith Street where it meets Shaftesbury Avenue. Ronnie Scott's, Bar Italia and a run of long-standing restaurants are all on this stretch.*
 North–south restaurant streets running parallel through the middle of Soho, and where most of the eating actually happens.
 
-**Ronnie Scott's** has been on Frith Street since 1965 and is still the serious jazz room in London — two sets a night, booked well ahead. **Bar Italia** a few doors up has been open since 1949 and trades nearly around the clock. The private members' clubs are on Dean Street, unmarked and not for walking into.
+**Ronnie Scott's** has been on Frith Street since 1965 and is still the serious jazz room in London — two sets a night, booked well ahead. **Bar Italia**, directly across the street, has been open since 1949 and trades nearly around the clock. The private members' clubs are on Dean Street, unmarked and not for walking into.
 
 **Book anything you actually want.** These two streets fill from about 7pm and the good tables go days in advance, particularly at weekends.
 
@@ -179,7 +185,13 @@ North–south restaurant streets running parallel through the middle of Soho, an
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="soho-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Suggested evening route
+## Walking routes
+
+**[A Walk Through Soho and Chinatown: Tin Pan Alley to Gerrard Street →](/articles/soho-chinatown-walk/)**
+
+Our full daytime route: **eleven numbered stops** over about 3km, from Denmark Street to Chinatown, with a map, a Google Maps walking link and what is shut on which day. It passes the plaques to Marx, Mozart and Baird, Berwick Street market, Kingly Court and the churchyard where Hazlitt is buried, and times the walk so you reach Chinatown for lunch.
+
+### The short version, if you only have an evening
 
 1. **Start:** Tottenham Court Road station, Dean Street exit.
 2. **Chinatown:** South to **Gerrard Street** for the gates and the roast meat windows.

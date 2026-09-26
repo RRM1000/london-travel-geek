@@ -251,6 +251,8 @@ Marx lived here in poverty in the 1850s, in two rooms with his family, walking d
 
 **Engels's plaque is at 122 Regent's Park Road**, and the contrast is the point: Marx in two Soho rooms, funded by Engels in a Primrose Hill villa. Fifteen minutes apart on the Northern line.
 
+Marx's plaque is stop three on our [Soho and Chinatown walk](/articles/soho-chinatown-walk/), which also passes Mozart's on Frith Street, Baird's on the Bar Italia building and Ronnie Scott's at his first club on Gerrard Street.
+
 ### Willy Clarkson, 41–43 Wardour Street, Soho
 
 *Free · W1D 6PY*

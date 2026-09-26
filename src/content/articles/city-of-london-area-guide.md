@@ -91,7 +91,7 @@ The City of London has its own share of the commemorative plaques marking where 
 3. **Tower Bridge** — The 1894 bascule bridge beside the Tower, and the one most people mistake for London Bridge. **Walking across it is free.** The ticketed Exhibition adds the high-level walkways, the glass floor over the road and the Victorian engine rooms. Lift times are published in advance, and watching it open costs nothing.
 4. **Horizon 22** — Level 58 of 22 Bishopsgate and the highest public viewpoint in London, about ten metres above The Shard's gallery. Book a slot online.
 5. **Sky Garden** — The planted terrace at the top of 20 Fenchurch Street, the "Walkie-Talkie". Free with booking.
-6. **Leadenhall Market** — A painted Victorian arcade of 1881, used as Diagon Alley in the first Harry Potter film. Best on a weekday when the traders are open.
+6. **Leadenhall Market** — A painted Victorian arcade of 1881, where Hagrid walks Harry to the Leaky Cauldron in the first Harry Potter film. Best on a weekday when the traders are open.
 7. **The Roman remains** — The London Wall at Tower Hill and Noble Street, the Temple of Mithras rebuilt in situ beneath Bloomberg's building (free, booked), and the amphitheatre under the Guildhall Art Gallery.
 8. **The Wren churches** — Around 50 were built after the Great Fire; roughly half survive. St Stephen Walbrook, St Mary-le-Bow and St Bartholomew the Great are the best, and all are free.
 
@@ -143,7 +143,7 @@ Bank station is directly underneath and has been substantially rebuilt, so exits
 
 **Leadenhall Market** sitting directly beneath 22 Bishopsgate, with the Gherkin, the Cheesegrater and the Scalpel within two streets. The most dramatic street-level contrast in London, and the reason to walk this bit rather than ride through it.
 
-**The market is free, roofed and open to walk through**, which makes it the best wet-weather ten minutes in the City. It played **Diagon Alley** in the first Harry Potter film, and the blue door used as the Leaky Cauldron entrance belongs to what is now an opticians on Bull's Head Passage.
+**The market is free, roofed and open to walk through**, which makes it the best wet-weather ten minutes in the City. In the first Harry Potter film it played **the streets leading to the Leaky Cauldron**, and the blue door used as the pub's entrance is now Two Eyes Coffee House on Bull's Head Passage. It is the first stop on our [Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/).
 
 **It keeps City hours.** The shops and bars trade Monday to Friday and it is close to dead on a Sunday, so come on a weekday — around six in the evening is when it is fullest and best.
 
@@ -179,7 +179,7 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 
 ![The painted maroon and green ironwork and glass roof of Leadenhall Market, with the Lamb Tavern under the arcade](../../assets/articles/city-of-london-area-guide/leadenhall-market.jpg)
 
-*Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. It played Diagon Alley in the first Harry Potter film.*
+*Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. Hagrid walks Harry through it in the first Harry Potter film.*
 
 ## Go deeper
 

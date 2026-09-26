@@ -164,7 +164,7 @@ Inland from the river, and the part of this area most worth your time — Boroug
 
 **Southwark Cathedral is free** and open 9am–6pm Monday to Saturday, 8.30am–5pm Sunday — a thousand years of building beside a market, with a churchyard, a herb garden and a resident cat. There is an hourly pause for prayer on the half hour, about two minutes, when visitors are asked to stand still.
 
-Around them, three small paid museums that people miss: the **Old Operating Theatre**, a Georgian surgical theatre up a spiral staircase in a church tower (Thursday to Sunday only); the **Clink Prison Museum** on the site of the Bishop of Winchester's gaol; and the **Golden Hinde**, currently under restoration, so parts may be shut. The **ruins of Winchester Palace** on Clink Street are free, roofless and visible from the pavement at any hour, rose window and all.
+Around them, three small paid museums that people miss: the **Old Operating Theatre**, a Georgian surgical theatre up a spiral staircase in a church tower (Thursday to Sunday only); the **Clink Prison Museum** on the site of the Bishop of Winchester's gaol; and the **Golden Hinde**, currently under restoration, so parts may be shut. The **ruins of Winchester Palace** on Clink Street are free, roofless and visible from the pavement at any hour, rose window and all. All of these, plus the George Inn, Cross Bones and the Rose, are on our [Bankside and Borough walk](/articles/bankside-borough-walk/).
 
 ![Shoppers filling an aisle of Borough Market under its iron and glass roof, beside a fishmonger's counter](../../assets/articles/south-bank-area-guide/borough-market.jpg)
 
@@ -244,12 +244,16 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 
 Our full route for this area: **eleven numbered stops** over about 3km and two to three hours, with a map, a Google Maps walking link, and the day-by-day breakdown of what is open — including the fact that **Borough Market is closed on Mondays** and sits at stop nine of eleven. It also covers Leake Street, the legal graffiti tunnel five minutes off the river.
 
+**[A Walk Through Bankside and Borough: London Bridge to the Millennium Bridge →](/articles/bankside-borough-walk/)**
+
+The inland route: **eleven stops** over about 3km, through the coaching-inn yards of Borough High Street, the George Inn, Cross Bones, the cathedral, Winchester Palace and the Clink, and the sites of the Rose and the first Globe. **Thursday** is the one day every stop is open.
+
 ### The short version, if you only have two hours
 
 1. **Start:** Westminster station, cross **Westminster Bridge** to the **London Eye**.
 2. **Southbank Centre:** East along **Queen's Walk** past the performers and the book market.
 3. **Tate Modern:** Continue to Bankside. Go up to the **tenth-floor viewing level** — free.
-4. **Shakespeare's Globe:** Next door; look in even without a ticket.
+4. **Shakespeare's Globe:** Next door. The theatre opens for tours and performances only, but the outside, the shop and the Swan bar are free.
 5. **Borough Market:** Inland at Southwark Cathedral for lunch.
 6. **Finish:** East past **HMS Belfast** to **Tower Bridge**.
 
@@ -258,7 +262,7 @@ Our full route for this area: **eleven numbered stops** over about 3km and two t
 ## Common mistakes to avoid
 
 1. **Paying for a view before trying the free ones.** Tate Modern's tenth floor and the Sky Garden are both free. Book the Sky Garden weeks ahead.
-2. **Going to Borough Market on a Monday.** Only a limited market runs. Tuesday to Saturday for the full thing.
+2. **Going to Borough Market on a Monday.** It is closed all day. It opens Tuesday to Sunday.
 3. **Buying London Eye tickets on the day.** Walk-up is significantly more expensive and the queue is long. Book a timed slot.
 4. **Eating on Queen's Walk itself.** Walk five minutes inland to Lower Marsh or Borough for better food at half the price.
 5. **Taking the Tube between South Bank stops.** Waterloo to London Bridge is a pleasant 25-minute walk along the river and an awkward journey underground.

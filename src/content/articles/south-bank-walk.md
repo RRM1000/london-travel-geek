@@ -160,7 +160,7 @@ Next along the bank is **Shakespeare's Globe**, a 1997 reconstruction of the 159
 
 ## 9. Southwark Cathedral and Borough Market
 
-**Southwark Cathedral** is a thousand years of building on the site, free to enter, and almost always empty compared with the market forty metres away. Shakespeare's brother is buried here.
+**Southwark Cathedral** is a thousand years of building on the site, free to enter, and almost always empty compared with the market forty metres away. Shakespeare's brother is buried here. The streets behind it, from the George Inn's galleries to Cross Bones and the site of the Rose, have their own route: the [Bankside and Borough walk](/articles/bankside-borough-walk/).
 
 And then **Borough Market**, which is the reason a lot of people do this walk at all.
 
@@ -258,6 +258,7 @@ Walked east to west it works equally well and ends at Westminster, which is a be
 - **[Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/)** — starts at St Katharine Docks, beside Tower Bridge where this one ends.
 - **[City of London: Bank to Tower Bridge](/articles/city-of-london-walk/)** — cross Tower Bridge and walk it backwards, or start it properly at Bank.
 - **[Westminster](/articles/westminster-walk/)** — starts across Westminster Bridge from the London Eye.
+- **[Bankside and Borough](/articles/bankside-borough-walk/)** — the inland walk behind stops 7 to 9: the coaching-inn yards, the George, Cross Bones, the Clink and the Rose, from London Bridge station to the Millennium Bridge.
 
 ## What to do with the rest of the day
 

@@ -236,15 +236,15 @@ The **bacon naan roll** made it a breakfast destination as much as a dinner one:
 
 > 💡 **Getting a table:** 6pm is the cut-off, not the party size — any number can book before it, six or more after. Most tables are held for walk-ins at every hour, so an empty booking page is not a full restaurant. Breakfast and lunch barely queue.
 
-### Darjeeling Express, Covent Garden
+### Darjeeling Express, Soho
 
-*£££ · Covent Garden · 3 min from Piccadilly Circus · book weeks ahead · Cited by 5 sources · British Indian Good Food Guide 2025*
+*£££ · Soho · 3 min from Piccadilly Circus · book weeks ahead · Cited by 5 sources · British Indian Good Food Guide 2025*
 
 **Asma Khan's kitchen, staffed entirely by women** — most of whom had never cooked professionally before she hired them — **cooking the food of Calcutta and the royal Mughlai tradition she grew up in.**
 
 The **Calcutta biryani** is the dish: Mughlai rice with meat and, distinctively, **a whole potato**, which Bengali biryani has and no other regional version does. Around it, Bengali fish, puchka, and the home cooking of a household rather than a restaurant repertoire.
 
-**£££, closed Sunday, and it books weeks ahead.** Kingly Court. The story is not decoration — the kitchen model is the restaurant.
+**£££, closed Sunday, and it books weeks ahead.** 36–40 Rupert Street, Soho. The story is not decoration — the kitchen model is the restaurant.
 
 ### Kricket, Soho
 

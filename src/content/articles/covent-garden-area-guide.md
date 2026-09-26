@@ -123,6 +123,8 @@ Go before ten in the morning or after eight in the evening if you want to move.
 
 *The Apple Market dressed for Christmas. The decorations go up in November and are one of the more elaborate displays in central London.*
 
+The 2026 switch-on is Thursday 12 November. Our [Christmas lights walk](/articles/christmas-lights-walk-london/) takes in the Piazza tree, Seven Dials and Floral Street after dark, on the way from Oxford Street to Trafalgar Square.
+
 ### Seven Dials
 
 Seven short streets radiating from a sundial pillar, each with its own character — independent fashion on Monmouth Street, coffee and shoes on Earlham Street, and two West End theatres on the junction itself.
@@ -239,6 +241,8 @@ For a drink between the theatres, **Bar Cicoria's terrace** is free to walk into
 **[A Walk Around Covent Garden: Leicester Square to Somerset House →](/articles/covent-garden-walk/)**
 
 Our full route for this area: **eleven numbered stops** over about 2km and two hours, with a map, a Google Maps walking link for your phone, and a day-by-day breakdown of what each market hall is actually selling. It goes north into Seven Dials before the crowds arrive rather than starting at the Piazza, takes in **Cecil Court** — the Victorian bookselling alley ninety seconds off the route that almost nobody finds — and explains why **Monday is the day to come**: it is the one day both the Apple Market and Jubilee Market switch to antiques.
+
+Harry Potter fans can cross the area on the [Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/), which passes Australia House on the Strand, whose banking hall played Gringotts, on its way from Leadenhall Market to Soho.
 
 ### The short version, if you only have two hours
 

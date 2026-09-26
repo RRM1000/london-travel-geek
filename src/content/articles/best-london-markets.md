@@ -81,7 +81,7 @@ The one everything else is measured against — wholesale traders and produce st
 
 Horn OK Please and Gujarati Rasoi are the two vegetarian Indian stalls worth crossing London for.
 
-**SE1 9AH, two minutes from London Bridge.** Free to enter, and the Borough Market Kitchen section at the back has the seating.
+**SE1 9AH, two minutes from London Bridge.** Free to enter, and the Borough Market Kitchen section at the back has the seating. **Closed on Mondays.** It is the lunch stop on our [Bankside and Borough walk](/articles/bankside-borough-walk/), between Cross Bones and Southwark Cathedral.
 
 ![A cheese stall hung with French flags and stacked with whole cheeses under the iron roof of Borough Market](../../assets/articles/best-london-markets/borough-market-cheese-stall.jpg)
 
@@ -295,7 +295,7 @@ Street food, groceries, fashion and cut flowers on the edge of Victoria Park, an
 
 *Free · weekdays*
 
-An **1881 covered market in cream, maroon and green wrought iron**, standing on the site of the Roman forum and rebuilt by Horace Jones, who also designed Billingsgate and Tower Bridge. It played **Diagon Alley** in the first Harry Potter film, and the blue door used as the Leaky Cauldron entrance is now an opticians on Bull's Head Passage.
+An **1881 covered market in cream, maroon and green wrought iron**, standing on the site of the Roman forum and rebuilt by Horace Jones, who also designed Billingsgate and Tower Bridge. It played the London streets leading to the Leaky Cauldron in the first Harry Potter film, and the blue door used as the Leaky Cauldron entrance, on Bull's Head Passage, is now the Two Eyes Coffee House.
 
 **It is not really a market any more.** The stalls are gone; what trades now is shops, bars and restaurants under the ironwork, so come for the building rather than to buy anything.
 

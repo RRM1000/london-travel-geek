@@ -172,30 +172,26 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 
 ## Filming locations you can actually visit
 
-The all-films version of this walk, with Bond, *Slow Horses* and the rest, is in our [London filming locations guide](/articles/london-filming-locations/). Here is what a Harry Potter fan actually finds on arrival.
+**We have turned these into a walk:** [the Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/) links nine of them in order, from Leadenhall Market to Lambeth Bridge, in two halves of about two hours each, with the days each one opens. For Bond, *Slow Horses* and the rest, see our [London filming locations guide](/articles/london-filming-locations/).
 
-| Location | What was filmed | Worth the trip? |
+| Location | Film | What you find |
 | --- | --- | --- |
-| Leadenhall Market, EC3V 1LT | Diagon Alley | Yes — free, roofed, best on a weekday |
-| Two Eyes Coffee House, Bull's Head Passage | The Leaky Cauldron door | Yes — but weekdays only |
-| Millennium Bridge, SE1 9JE | Destroyed by Death Eaters | Yes — 5 minutes, free, great view |
-| St Pancras station, N1C 4QP | The "King's Cross" exterior | Yes — 2 minutes from the trolley |
-| El Pastor, 7A Stoney Street, SE1 9AA | Leaky Cauldron exterior | Only if you were eating anyway |
-| Australia House, Strand, WC2B 4LA | Gringotts banking hall | Exterior only — you cannot go in |
-| Great Scotland Yard, SW1A | Ministry of Magic entrance | No — the phone box was a prop |
-| Claremont Square, N1 9LY | Model for Grimmauld Place | No — people live there |
-| Piccadilly Circus, W1 | The apparition scene | No — it is Piccadilly Circus |
-| Lambeth Bridge, SE1 | The Knight Bus squeeze | No — it is a road bridge |
-| Reptile House, London Zoo, NW1 4RY | Harry talks to the snake | Only with a full zoo ticket |
+| Leadenhall Market, EC3V 1LT | Philosopher's Stone | The streets Hagrid walks Harry down. Free, roofed, always open |
+| Two Eyes Coffee House, Bull's Head Passage | Philosopher's Stone | The Leaky Cauldron door. The café is weekdays only |
+| Borough Market, SE1 | Prisoner of Azkaban | The second Leaky Cauldron. Market shut Mondays |
+| Millennium Bridge | Half-Blood Prince | The bridge the Death Eaters destroy. Always open |
+| Australia House, Strand, WC2B 4LA | Philosopher's Stone | Gringotts' banking hall. Outside only |
+| Piccadilly Circus | Deathly Hallows Part 1 | Where the trio escape after the wedding |
+| Westminster station | Order of the Phoenix | The ticket barriers on the way to the Ministry |
+| Lambeth Bridge | Prisoner of Azkaban | The Knight Bus squeeze. Nothing marks it |
+| St Pancras, Euston Road | Chamber of Secrets | The Gothic front the Ford Anglia flies over |
 
-**Leadenhall Market** repays the walk. The cream, maroon and green ironwork of 1881 needed no set dressing at all, which is why it reads as a set while you are standing in it. **The blue door that played the Leaky Cauldron entrance is now Two Eyes Coffee House on Bull's Head Passage** — a working speciality coffee shop that cheerfully says so on its own About page, and whose profits fund migraine research. It opens 8.30-3.30 on Monday and Friday, 8-4 Tuesday to Thursday, and **closes at weekends**, which catches out most of the people who come to photograph it.
+**Leadenhall Market was not Diagon Alley**, whatever most guides say. The market's own history calls it the London streets leading to the Leaky Cauldron; Diagon Alley was a set at Leavesden. **The blue door that played the Leaky Cauldron entrance is now Two Eyes Coffee House** on Bull's Head Passage, which says so on its own site and whose profits fund migraine research. It opens 8.30-3.30 on Monday and Friday, 8-4 Tuesday to Thursday, and **closes at weekends**.
 
 ![The covered arcade of Leadenhall Market, its maroon and cream ironwork and glass roof above cobbles, with hanging lanterns and shopfronts either side](../../assets/articles/harry-potter-london/leadenhall-market.jpg)
-*Filmed as Diagon Alley with no set dressing at all. It is free, roofed, and quietest on a weekday.*
+*The streets Hagrid walks Harry down to the Leaky Cauldron. It is free, roofed, and quietest on a weekday.*
 
-**Great Scotland Yard is the honest disappointment.** The Ministry of Magic visitor entrance was filmed at the junction with Scotland Place, and the red telephone box was a prop, brought in for the shoot and taken away afterwards. There is a short street of offices and a hotel. The same goes for **Lambeth Bridge**, **Piccadilly Circus** and **Claremont Square** — real locations, nothing to mark them, and in Claremont Square's case a private residential terrace whose residents field this every weekend.
-
-**St Pancras is the underrated one.** The Gothic frontage everyone thinks is King's Cross is St Pancras next door, and the flying Ford Anglia lifts off outside it. It costs nothing, it is ninety seconds from the trolley, and it is better in person than on screen — the opposite of almost everything else here.
+**St Pancras is the underrated one.** The Gothic frontage everyone thinks is King's Cross is St Pancras next door. It costs nothing and is a couple of minutes from the trolley.
 
 <div data-stay-strip></div>
 
@@ -223,7 +219,7 @@ The locations are scattered across four postcodes and most are worth about two m
 
 **[London: Harry Potter Film Locations Sightseeing Bus Tour](https://www.getyourguide.com/london-l57/london-harry-potter-film-locations-sightseeing-bus-tour-t912548/)** runs on a purple 1960s Routemaster standing in for the Knight Bus, starts and returns to **Embankment**, and is **listed at three hours** with a live guide. **4.6 from more than 500 reviews**, free cancellation up to 24 hours ahead.
 
-It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, Lambeth Bridge, Great Scotland Yard and Horse Guards Parade**, with photo stops and short guided walks rather than a drive-past, and a quiz on board. Lambeth Bridge is the one you would never bother with alone — it is where the Knight Bus squeezes between two buses, and there is nothing to see standing on it.
+It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, Lambeth Bridge, Great Scotland Yard and Horse Guards Parade**, with photo stops and short guided walks rather than a drive-past, and a quiz on board. Lambeth Bridge is the one few people seek out alone: it is where the Knight Bus squeezes between two buses, and nothing marks the spot.
 
 **Best for** one day, small children, or anyone who does not want to work out the walking order.
 
@@ -243,7 +239,7 @@ In between: **Platform 9¾, Leadenhall Market, London Bridge, Southwark Cathedra
 
 **Tour for Muggles** has run since 2011 and is the established name: **£19 per adult, £17 per child, free under 5**, with private tours at a £150 booking fee plus £19 a head. Expect **£15 to £25** across the general operators for a two-hour small-group walk.
 
-And the honest position, which no tour page will tell you: **every location any of these visits is in the table above and free to reach on your own.** What you are buying is sequence, a guide who knows which door is which, and someone to fill the walking in between. If you want the stories rather than just the addresses, it is money well spent. If you would rather walk it yourself, you already have the route.
+And the honest position, which no tour page will tell you: **almost every location these tours visit is in the table above and free to reach on your own.** What you are buying is sequence, a guide who knows which door is which, and someone to fill the walking in between. If you want the stories rather than just the addresses, it is money well spent. If you would rather walk it yourself, you already have the route.
 
 ---
 
@@ -282,11 +278,9 @@ Day one as above without the theatre. Day two: Euston at 9am, Watford Junction, 
 
 ## What is not worth it
 
-**The Ministry of Magic phone box.** There isn't one. It was a prop. Great Scotland Yard is a fifteen-minute detour to look at a street.
+**A special trip to Lambeth Bridge or Piccadilly Circus.** Real locations with nothing to mark them. They are worth a minute each as stops on [the filming locations walk](/articles/harry-potter-filming-locations-walk/), not a journey of their own.
 
-**Claremont Square, Lambeth Bridge and Piccadilly Circus.** Real locations, zero payoff. Nothing marks any of them, and one is somebody's front garden.
-
-**The Reptile House at London Zoo on its own.** London Zoo is one of the most expensive attractions in the city with no partial entry. If you are going to the zoo anyway, the enclosure is marked and worth two minutes. Buying a full zoo ticket for one scene is not a good trade.
+**The Reptile House at London Zoo.** The zoo closed the 1926 building where Harry talks to the python to the public in 2023, and its reptiles moved to a new house from Easter 2024. There is nothing from the scene left to see.
 
 **The Alchemist, and every bar with smoking cocktails.** Perfectly good bars that have never claimed to be Harry Potter venues and aren't. If a guide lists a chain cocktail bar under Harry Potter, it has run out of things to say.
 
@@ -304,6 +298,7 @@ Day one as above without the theatre. Day two: Euston at 9am, Watford Junction, 
 
 ## Continue planning your London trip
 
+- 🚶 **[The Harry Potter Filming Locations Walk](/articles/harry-potter-filming-locations-walk/)**
 - 🎸 **[The Beatles in London](/articles/beatles-london/)**
 - 🎬 **[London Filming Locations](/articles/london-filming-locations/)**
 - 🕵️ **[Sherlock Holmes in London](/articles/sherlock-holmes-london/)**

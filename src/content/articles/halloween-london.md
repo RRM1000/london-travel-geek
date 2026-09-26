@@ -197,7 +197,7 @@ London does not need a Halloween season to be macabre — these places are unset
 
 **Hunterian Museum**, Royal College of Surgeons, 38–43 Lincoln's Inn Fields, WC2A 3PE. Anatomical specimens and surgical history, **free**, Tuesday to Saturday 10am–5pm.
 
-**Crossbones Graveyard**, Redcross Way, SE1. An unmarked burial ground for medieval sex workers and the poor, now a community shrine with ribbons tied to the gates. Free, always accessible, with a vigil held on the 23rd of every month.
+**Crossbones Graveyard**, Redcross Way, SE1. An unmarked burial ground for medieval sex workers and the poor, now a community shrine with ribbons tied to the gates. Free. The gates and shrine are on the street and there to see at any hour; the garden behind them opens Wednesday to Friday and the first Saturday of the month, 12–2pm. A vigil is held at the gates at 7pm on the 23rd of every month. It is stop 3 on our [Bankside and Borough walk](/articles/bankside-borough-walk/).
 
 **Viktor Wynd Museum of Curiosities**, 11 Mare Street, E8 4RP. Taxidermy, shrunken heads and genuine oddities in Hackney. **Adult £12**, with a **£4 walk-in Thursday** discount. Booking ahead is recommended, especially if you are travelling any distance.
 

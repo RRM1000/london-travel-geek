@@ -272,6 +272,8 @@ Walked the other way — Tower Bridge to Bank — it works, but it front-loads t
 - **[Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/)** — starts at St Katharine Docks, exactly where this one ends.
 - **[South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)** — across Tower Bridge on the south bank.
 - **[Shoreditch and Spitalfields](/articles/shoreditch-spitalfields-walk/)** — Spitalfields is a short walk north of Bank, where this one starts.
+- **[Bankside and Borough](/articles/bankside-borough-walk/)** — finishes at St Paul's over the Millennium Bridge, ten minutes west of Bank along Cheapside, so walk it first and start this one after.
+- **[The Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/)** — starts at Leadenhall Market, stop 3 here, and runs to Westminster by way of the Leaky Cauldron door, the Millennium Bridge and Gringotts.
 
 ## What to do with the rest of the day
 

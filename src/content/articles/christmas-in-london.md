@@ -20,7 +20,7 @@ faq:
   - q: "What is actually free at Christmas in London?"
     a: "Every street light display, every Christmas market to browse, the Trafalgar Square tree and St Pancras's charity tree are all free. What is not: ice rinks, ticketed light trails such as Christmas at Kew, grottos at the department stores, and Hyde Park Winter Wonderland, which needs a ticket even to walk in."
   - q: "When do London's Christmas lights switch on?"
-    a: "Most switch-ons cluster in the first two weeks of November, with the big names — Oxford Street, Regent Street, Carnaby Street — usually going first. The one fixed point is Trafalgar Square's tree, lit on Thursday 3 December 2026. Individual street dates for 2026 aren't announced until late September at the earliest."
+    a: "Most switch-ons cluster in the first two weeks of November, with the big names — Oxford Street, Regent Street, Carnaby Street — usually going first. The one fixed point is Trafalgar Square's tree, lit on Thursday 3 December 2026. Carnaby Street's switch-on is Wednesday 4 November 2026 and Covent Garden's is Thursday 12 November; the other streets had not announced 2026 dates by late September."
   - q: "Where can you still ice skate outdoors in London this Christmas?"
     a: "Somerset House, Hampton Court Palace and Alexandra Palace are all running. The Natural History Museum's rink has closed permanently, Tower of London's has been discontinued for years, and Canary Wharf's is paused for 2026 — don't plan around any of those three."
 heroImage: "../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg"
@@ -31,7 +31,7 @@ heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
+> 🧭 **Plan the rest of it:** [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
 ## Hyde Park Winter Wonderland
 
@@ -91,7 +91,7 @@ A few more are likely to return but have not confirmed 2026 dates: **Wimbledon**
 
 ## Christmas lights: where to see them
 
-The big shopping streets confirm their switch-on dates from late September, but the pattern repeats every year: the best-known streets switch on first, in the opening two weeks of November, and the lights stay up until around Twelfth Night in early January.
+The big shopping streets confirm their switch-on dates from late September, but the pattern repeats every year: the best-known streets switch on first, in the opening two weeks of November, and the lights stay up until around Twelfth Night in early January. To see them in one evening on foot, follow our [Christmas lights walk](/articles/christmas-lights-walk-london/): ten stops from Selfridges to Trafalgar Square, with each street's 2026 switch-on date.
 
 | Street | Known for |
 | --- | --- |

@@ -135,13 +135,13 @@ Past the site of what the tour calls London's most haunted house, through parks 
 
 ## Harry Potter
 
-None of these go inside a studio. For the Warner Bros tour and everything else Potter, see our [Harry Potter in London guide](/articles/harry-potter-london/). What these do is walk you round the real places the books drew on and the films used.
+None of these go inside a studio. For the Warner Bros tour and everything else Potter, see our [Harry Potter in London guide](/articles/harry-potter-london/). What these do is walk you round the real places the books drew on and the films used. To do it without a guide, follow our [Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/).
 
 ### The Most Comprehensive Harry Potter Tour in London — Tours Teatralizados RV
 
 *£22 · 3¼–3½ hours · starts at King's Cross · groups of up to 15 · 4.9 from 1,103 reviews · <a href="https://www.getyourguide.com/activity/-t772912?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-The highest-rated Harry Potter walk with more than 1,000 reviews, and the longest. It starts at **King's Cross**, with a stop at the official shop, and covers 18 scenes from the eight films, among them **Leadenhall Market**, which was Diagon Alley in *Philosopher's Stone*; **Borough Market**, the Leaky Cauldron in *Prisoner of Azkaban*; and the **Millennium Bridge** the Death Eaters destroy. Groups are capped at 15, and it runs in English and Spanish. Our Harry Potter guide picks it too.
+The highest-rated Harry Potter walk with more than 1,000 reviews, and the longest. It starts at **King's Cross**, with a stop at the official shop, and covers 18 scenes from the eight films, among them **Leadenhall Market**, the way to the Leaky Cauldron in *Philosopher's Stone*; **Borough Market**, the Leaky Cauldron in *Prisoner of Azkaban*; and the **Millennium Bridge** the Death Eaters destroy. Groups are capped at 15, and it runs in English and Spanish. Our Harry Potter guide picks it too.
 
 ### Magical London — See Your City
 

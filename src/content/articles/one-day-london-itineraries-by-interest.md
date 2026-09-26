@@ -295,7 +295,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Afternoon.** **The Millennium Bridge**, destroyed on screen by Death Eaters, and **Borough Market**, where the Bridget Jones flat sits above The Globe pub on Bedale Street.
 
-**Evening.** **Leadenhall Market** — the Diagon Alley exterior, and genuinely beautiful in its own right once the crowds thin.
+**Evening.** **Leadenhall Market** — the way to the Leaky Cauldron in the first film, and genuinely beautiful in its own right once the crowds thin.
 
 > This is a walking day rather than a studio day. **The Warner Bros Studio Tour is in Watford**, takes most of a day on its own, and needs booking weeks ahead — it does not combine with any of the above.
 

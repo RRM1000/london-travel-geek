@@ -72,7 +72,7 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 
 Bermondsey is what happens when a Victorian goods yard is left alone long enough. The railway viaducts that carved it up are now full of breweries, the leather warehouses are flats, and a narrow alley under the arches holds one of the best food markets in London two days a week.
 
-It sits immediately east of Borough Market, and the two make an obvious pair.
+It sits immediately east of Borough Market, and the two make an obvious pair. Our [Bankside and Borough walk](/articles/bankside-borough-walk/) starts at London Bridge station, on the other side of the tracks, and covers Borough's inn yards, the market and Shakespeare's Bankside.
 
 Bermondsey has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=bermondsey).
 

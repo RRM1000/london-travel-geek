@@ -231,6 +231,7 @@ On a Sunday the route also works in reverse from Bond Street. That puts the mark
 ## Carry on walking
 
 - **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — Mayfair is just south of Bond Street, where this one ends.
+- **[The Christmas lights walk](/articles/christmas-lights-walk-london/)** — starts at Selfridges, across Oxford Street from St Christopher's Place, and runs after dark to Trafalgar Square from November.
 - **[Hampstead Heath to Primrose Hill](/articles/hampstead-heath-primrose-hill-walk/)** — Primrose Hill is across the road from the north of the park.
 - **[King's Cross to Camden along the canal](/articles/kings-cross-camden-canal-walk/)** — the canal runs along the park's northern edge to Camden.
 

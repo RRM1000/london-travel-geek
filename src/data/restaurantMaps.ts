@@ -990,13 +990,13 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
     },
     {
       name: "Darjeeling Express",
-      area: "Covent Garden",
+      area: "Soho",
       price: "£££",
       station: "Piccadilly Circus",
       latitude: 51.511318,
       longitude: -0.132655,
       type: "editorial",
-      articleAnchor: "#darjeeling-express-covent-garden",
+      articleAnchor: "#darjeeling-express-soho",
       videoUrl: "https://www.youtube.com/watch?v=AHUnqeRroYk&t=677s",
     },
     {

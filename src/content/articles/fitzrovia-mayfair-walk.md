@@ -255,7 +255,9 @@ Walked in reverse it works equally well and finishes by Charlotte Street at dinn
 
 - **[Baker Street to Marylebone through Regent's Park](/articles/regents-park-marylebone-walk/)** — Fitzroy Square is a short walk from Park Crescent and Regent's Park.
 - **[Westminster](/articles/westminster-walk/)** — cross Green Park and St James's Park to Westminster.
+- **[Soho and Chinatown](/articles/soho-chinatown-walk/)** — starts on Denmark Street, fifteen minutes south of Fitzroy Square across Oxford Street.
 - **[Chelsea and Belgravia plaques](/articles/chelsea-belgravia-plaques-walk/)** — Belgravia starts at Hyde Park Corner, at the west end of Green Park.
+- **[The Christmas lights walk](/articles/christmas-lights-walk-london/)** — from November it crosses this route on Piccadilly, heading down Bond Street and up the Regent Street Quadrant after dark.
 
 ## What to do with the rest of the day
 

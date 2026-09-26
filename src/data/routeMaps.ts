@@ -34,6 +34,10 @@ import { stops as hampsteadHeathPrimroseHillWalk } from "./routes/hampstead-heat
 import { stops as fitzroviaMayfairWalk } from "./routes/fitzrovia-mayfair-walk";
 import { stops as nottingHillColourfulHouses } from "./routes/notting-hill-colourful-houses";
 import { stops as banksyWalkLondon } from "./routes/banksy-walk-london";
+import { stops as banksideBoroughWalk } from "./routes/bankside-borough-walk";
+import { stops as christmasLightsWalkLondon } from "./routes/christmas-lights-walk-london";
+import { stops as harryPotterFilmingLocationsWalk } from "./routes/harry-potter-filming-locations-walk";
+import { stops as sohoChinatownWalk } from "./routes/soho-chinatown-walk";
 
 export const routeMaps: Record<string, RouteMapStop[]> = {
   "banksy-walk-london": banksyWalkLondon,
@@ -50,6 +54,10 @@ export const routeMaps: Record<string, RouteMapStop[]> = {
   "chelsea-belgravia-plaques-walk": chelseaBelgraviaPlaquesWalk,
   "shoreditch-spitalfields-walk": shoreditchSpitalfieldsWalk,
   "wapping-canary-wharf-walk": wappingCanaryWharfWalk,
+  "bankside-borough-walk": banksideBoroughWalk,
+  "christmas-lights-walk-london": christmasLightsWalkLondon,
+  "harry-potter-filming-locations-walk": harryPotterFilmingLocationsWalk,
+  "soho-chinatown-walk": sohoChinatownWalk,
 };
 
 export const routeConnections: Record<string, RouteConnection[]> = {
