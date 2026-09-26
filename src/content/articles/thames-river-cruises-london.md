@@ -164,7 +164,7 @@ Going one way by boat and back by train makes the day workable: [Kew Gardens](/a
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="thames-river-cruises-london-upriver" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="492850,207834,5273"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Night, Christmas and New Year's Eve
+## Evening, Christmas and New Year's Eve cruises
 
 **Illuminated River tour.** Uber Boat's [Illuminated River Official Boat Tour](https://www.thamesclippers.com/whats-on-and-offers/illuminated-river-official-boat-tours) is a 50-minute loop from **Tower Pier** under nine lit bridges, with commentary from official City of London and City of Westminster guides. **Saturdays at 21:30 only**, until 8 May 2027. **£16.50**, child and concession £9.90, bought online in advance.
 
@@ -187,13 +187,8 @@ Party boats and the rest of the night are in our [New Year's Eve in London guide
 - **Thames River Boats:** the historic boats cannot take a motorised wheelchair, and the Richmond and Hampton Court piers are reached by steps ([policy](https://www.thamesriverboats.co.uk/river-tour-information/disabled-policy)).
 - For step-free routes to the piers, see [step-free London](/articles/step-free-london/).
 
-## What is by the main piers
+## Walks and sights near the piers
 
-- **London Eye Pier:** the London Eye and the South Bank. Our [South Bank walk](/articles/south-bank-walk/) passes it between Westminster Bridge and Tower Bridge, and the [South Bank area guide](/articles/south-bank-area-guide/) covers the rest.
-- **Bankside Pier:** Tate Modern and Shakespeare's Globe.
-- **Tower Pier:** beside the [Tower of London](/articles/tower-of-london-guide/) and Tower Bridge.
-- **Greenwich Pier:** beside the Cutty Sark, with the Royal Observatory up the hill in Greenwich Park; see our [Greenwich area guide](/articles/greenwich-area-guide/).
-
-To walk the river instead of sailing it, our [Thames walks](/articles/london-walks-along-the-thames/) follow the banks between these piers.
+To see the same stretch on foot, our [Thames walks](/articles/london-walks-along-the-thames/) include the [South Bank walk](/articles/south-bank-walk/), which passes London Eye Pier and Bankside Pier on its way from Westminster Bridge to Tower Bridge. The [South Bank area guide](/articles/south-bank-area-guide/) covers what is around those two piers, and the [Tower of London](/articles/tower-of-london-guide/) is beside Tower Pier. For the skyline from above, see the [best views in London](/articles/best-views-london/).
 
 *Prices, timetables and sailings are from each operator's own booking pages in September 2026. City Cruises and Thames River Sightseeing change price by date and demand.*
