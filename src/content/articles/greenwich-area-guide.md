@@ -210,7 +210,7 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 
 ## Getting there
 
-**By river.** The best way. **Uber Boat by Thames Clippers** runs from Westminster, Embankment, Bankside, Tower and Canary Wharf to Greenwich Pier. Thirty to sixty minutes depending on the start point. Oyster and contactless work, but river fares sit outside the daily cap — see the [river boats guide](/articles/how-to-use-london-river-boats/).
+**By river.** The best way. **Uber Boat by Thames Clippers** runs from Westminster, Embankment, Bankside, Tower and Canary Wharf to Greenwich Pier. Thirty to sixty minutes depending on the start point. Oyster and contactless work, but river fares sit outside the daily cap — see the [river boats guide](/articles/how-to-use-london-river-boats/). For a boat with commentary, the Westminster to Greenwich sightseeing cruises are from £14.62 one way; see our [Thames river cruises guide](/articles/thames-river-cruises-london/).
 
 **By DLR.** **Cutty Sark** station is the one you want — it is in the middle of the town centre. Greenwich station is a little further out.
 

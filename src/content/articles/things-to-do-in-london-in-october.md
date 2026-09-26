@@ -161,7 +161,7 @@ Tickets, prices for both venues, the clear bag rule and what a 2.30pm kick-off d
 
 ### The clocks go back — 2am, Sunday 25 October
 
-British Summer Time ends at 2am on the last Sunday of October. Clocks go back an hour, and the effect is not gradual: sunset is about **5.50pm** on the Saturday before, and about **4.48pm** on the Sunday after. By the 31st it is nearer **4.37pm**. Anything you want to see outdoors in the last week of October — a park, a view, a river walk, a rooftop — has to happen before mid-afternoon.
+British Summer Time ends at 2am on the last Sunday of October. Clocks go back an hour, and the effect is not gradual: sunset is about **5.50pm** on the Saturday before, and about **4.48pm** on the Sunday after. By the 31st it is nearer **4.37pm**. Anything you want to see outdoors in the last week of October — a park, a view, a river walk, a rooftop — has to happen before mid-afternoon. That includes the river: from Monday 26 October City Cruises' last sightseeing boat from Westminster to Greenwich leaves at 14:40 rather than 16:00 ([Thames river cruises](/articles/thames-river-cruises-london/)).
 
 ### Diwali on the Square — Trafalgar Square, the same Sunday
 

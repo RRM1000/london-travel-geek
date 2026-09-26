@@ -1,7 +1,7 @@
 ---
-title: "How to Use London River Boats: Fares, Routes and Thames Cruises"
+title: "How to Use London River Boats: Fares, Routes and Piers"
 seoTitle: "How to Use London River Boats"
-description: "A practical guide to London's River Bus, including 2026 zone fares, day tickets, scenic routes, speedboats, dining cruises and the River Bus Comedy Night."
+description: "A practical guide to London's River Bus, including 2026 zone fares, day tickets, touching in and out, scenic routes, key piers and the River Bus Comedy Night."
 publishedAt: 2026-07-28
 updatedAt: 2026-08-02
 sites:
@@ -24,7 +24,7 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-Three different things run on the Thames and they are easy to confuse: **Uber Boat by Thames Clippers** is scheduled transit you pay for by tapping a card, narrated sightseeing cruises are pre-booked tours, and the Thames Rockets speedboats are a ride. They share the same piers.
+Three different things run on the Thames and they are easy to confuse: **Uber Boat by Thames Clippers** is scheduled transit you pay for by tapping a card, [narrated sightseeing cruises](/articles/thames-river-cruises-london/) are pre-booked tours, and the Thames Rockets speedboats are a ride. They share the same piers.
 
 > 💡 **River Boat Snapshot:**  
 > - **Transit vs Cruise:** **Uber Boat by Thames Clippers** (River Bus) is London's scheduled river transit system. Narrated cruises and dining boats are private tours.  
@@ -148,43 +148,11 @@ A fast 10-minute river hop linking Docklands skyscrapers with Greenwich maritime
 
 ---
 
-## Thames Speedboat Thrill Rides
+## Speedboats and dining cruises
 
-**Rigid Inflatable Boats (RIBs)** run fast tours along the Thames. Powered by twin 440hp engines, they hit **30–35 knots (about 40 mph)** on the open water east of Tower Bridge.
-
-### How Speedboat Tours Work
-* **Central Sightseeing (12 Knots):** From departure (usually London Eye Pier, Westminster, or Boardwalk Pier), the boat travels at a controlled 12 knots past Big Ben, Parliament, and St Paul's while an actor/comedian guide provides live commentary.
-* **High-Speed Blast (35 Knots):** Once the boat passes **Tower Bridge**, the skipper opens the throttle for the run past Canary Wharf and Greenwich towards the **Thames Barrier**, with sharp turns, music and spray.
+Thames Rockets speedboats and the lunch, afternoon tea and dinner boats are pre-booked tours, not River Bus services, so Oyster and contactless do not work on them. Prices, piers and which one to book are in our guide to [Thames river cruises](/articles/thames-river-cruises-london/).
 
 <div data-stay-strip></div>
-
-### Top Speedboat Experiences Compared
-
-| Speedboat Tour | Operator | Departure Pier | Typical Duration | Starting Price | Highlights |
-| --- | --- | --- | --- | ---: | --- |
-| **Ultimate London Adventure** | Thames Rockets | London Eye Pier | 50 mins | From **£59.95** | Central sightseeing + 35-knot high-speed twists to Canary Wharf |
-| **Thames Barrier Expedition** | Thames Rockets | London Eye Pier | 80 mins | From **£79.95** | Extended high-speed voyage past Greenwich down to the Thames Barrier |
-| **Canary Wharf RIB Sprint** | Thames RIB Experience | Embankment / Tower Pier | 50 mins | From **£55.00** | High-powered RIB blast past Docklands skyscrapers |
-
-> 🚤 **Essential Speedboat Tips:**  
-> - **Clothing & Gear:** Lifejackets and waterproof jackets are provided. Dress warmly — wind chill at 35 knots bites even in summer.  
-> - **Pre-Booking Required:** Speedboat tours have strict capacity limits (typically 12–16 passengers per RIB) and sell out at weekends.  
-> - **Health Restrictions:** RIB speedboats are **not suitable** for pregnant women, travellers with back or neck conditions, or very young children.
-
----
-
-## Lunch, Afternoon Tea & Dining Cruises
-
-Dining cruises sell a fixed meal and a fixed sailing time together:
-
-| Experience Type | Typical Duration | Highlights | Starting Price (Approx) |
-| --- | --- | --- | ---: |
-| **Lunch Cruise** | 1 hr 45 mins | 2-course meal with central skyline views | From **£38** |
-| **Afternoon Tea Cruise** | 90 mins | Scones, sandwiches, cakes, tea & coffee | From **£59** |
-| **Evening Dinner Cruise** | 2 – 3 hours | 3-course dinner, wine & live entertainment | From **£42 – £119** |
-| **Murder Mystery Dinner Cruise** | 3 hours | 3-course dinner with an interactive theatrical show | From **£109** |
-
-> 🍷 **Dining Cruise Rules:** Dining cruises are private experiences. Pre-booking in advance is required; contactless taps and Oyster pay-as-you-go are **not accepted**.
 
 ---
 

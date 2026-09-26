@@ -250,7 +250,7 @@ Genuinely worth it if:
 * **Contactless is all you need for ordinary buses.** Tap the reader with a bank card or phone, and you do not tap out. See our [fares guide](/articles/london-public-transport-costs-and-fares/).
 * **The bus daily cap is separate from the Tube cap.** £5.25 for buses and trams alone.
 * **Children under 11 travel free on London buses**, which changes the family arithmetic sharply against a tour bus child ticket.
-* **The river bus is the better-value scenic ride** — ordinary fares, genuine views, and it is transport rather than a tour. See [how to use London's river boats](/articles/how-to-use-london-river-boats/).
+* **The river bus is the better-value scenic ride** — ordinary fares, genuine views, and it is transport rather than a tour. See [how to use London's river boats](/articles/how-to-use-london-river-boats/), or [Thames river cruises compared](/articles/thames-river-cruises-london/) for a boat with commentary.
 * **A free alternative to commentary:** the [three-day itinerary](/articles/three-days-in-london-itinerary/) walks the same ground with the context built in.
 
 ---

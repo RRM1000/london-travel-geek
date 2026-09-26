@@ -222,7 +222,7 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 
 **On foot.** Ten minutes from Westminster across the bridge, five from St Paul's over the Millennium Bridge, fifteen from Covent Garden over Waterloo Bridge.
 
-**By river.** Piers at the London Eye, Bankside and London Bridge City. See the [river boats guide](/articles/how-to-use-london-river-boats/).
+**By river.** Piers at the London Eye, Bankside and London Bridge City. See the [river boats guide](/articles/how-to-use-london-river-boats/); sightseeing cruises and the Thames Rockets speedboats leave from London Eye Pier, compared in our [Thames river cruises guide](/articles/thames-river-cruises-london/).
 
 ## How long to spend, and when to go
 

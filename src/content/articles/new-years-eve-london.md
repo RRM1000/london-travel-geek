@@ -137,7 +137,7 @@ For a view of London rather than of the fireworks, our guide to the [best views 
 
 **The boats and the grand hotels are already selling.** The Ritz's black-tie gala dinner in the Ritz Restaurant on Thursday 31 December 2026 is [£1,500 per adult and £750 per child](https://www.theritzlondon.com/new-years-eve-ritz-restaurant/), or £975 per adult in its William Kent House. [The Londoner](https://www.thelondoner.com/festive-season/new-years-eve) on Leicester Square has dinner sittings at Whitcomb's and on its eighth-floor rooftop, where a table for the countdown carries a £450 minimum spend per guest. Club line-ups at the likes of Ministry of Sound, fabric, Troxy and Drumsheds land from late October.
 
-Boat parties sell a year out. These are on sale for 31 December 2026:
+Boat parties sell a year out. These are on sale for 31 December 2026 (the sightseeing and dinner boats' New Year sailings are in our [Thames river cruises guide](/articles/thames-river-cruises-london/)):
 
 | Operator and vessel | Price per person | Boarding | Age |
 | --- | --- | --- | --- |
