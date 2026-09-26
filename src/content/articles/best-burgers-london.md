@@ -60,9 +60,9 @@ Two restaurants sit level at the top on seven sources each, and they are not doi
 
 *££ · multiple sites · walk-in · Cited by 7 sources · National Burger Awards 2026 finalist · [website](https://www.bleecker.co.uk/)*
 
-![A double cheeseburger with bacon and melted American cheese in a sesame bun, held in one hand over an open white takeaway box](../../assets/articles/best-burgers-london/bleecker.jpg)
+![A Bleecker double cheeseburger in a sesame bun on a paper plate, two seared patties under melted American cheese, with a pint of lager and a paper tub of skin-on fries behind it](../../assets/articles/best-burgers-london/bleecker-2.jpg)
 
-*The menu is deliberately tiny, and this is the bacon double: dry-aged beef, a crust off a hard sear, nothing garnished into it. It arrives in a box, which is the whole operation in one detail.*
+*The double: two seared patties, melted cheese, a sesame bun and no salad, on a paper plate with fries in a paper tub.*
 
 **The one that most London burger arguments end at**, and the only name here that appears on every kind of list — the award shortlist, the critics, the listings sites and the tourist board.
 
@@ -76,9 +76,9 @@ Add a malted shake, which is on the menu for the specific job of cutting through
 
 *££ · Finsbury Park · 6 min from Finsbury Park · walk-in · Cited by 7 sources · [website](https://www.theplimsoll.co.uk/)*
 
-![A thick cheeseburger on a small brown-rimmed plate on a dark pub table, melted cheese and fried onion spilling out of a glossy soft bun, with no lettuce or tomato in it](../../assets/articles/best-burgers-london/the-plimsoll.webp)
+![A close-up of The Plimsoll's cheeseburger: a glossy brioche bun over a crusted beef patty, melted cheese, diced onion, a pickle slice and burger sauce](../../assets/articles/best-burgers-london/the-plimsoll-2.jpg)
 
-*A pub plate, a soft bun and nothing green in it. There are no bookings for the burger, so this is what turning up and waiting at the bar gets you.*
+*The Dexter cheeseburger up close: crusted patty, melted cheese, diced onion, pickles and sauce, and no lettuce or tomato.*
 
 **A modern Finsbury Park pub with the most-written-about burger in London**, cooked by the chef duo Four Legs — which is why some sources file it under Four Legs and some under the pub. It is one burger, in one room.
 
@@ -92,8 +92,9 @@ Beyond it the pub cooks a proper seasonal menu and pours a serious pint, so this
 
 *£ · multiple sites · Cited by 4 sources · **winner, National Burger Awards 2026** · [website](https://www.honestburgers.co.uk/)*
 
-![A burger cut in half showing a coarsely ground patty cooked pink, beside a pile of thick-cut chips](../../assets/articles/best-burgers-london/honest-burgers.jpg)
-*Dry-aged beef from the company's own butchery, cooked pink and cut to show it.*
+![An Honest Burgers cheeseburger held in two hands, a thick beef patty under melted cheese and crisp bacon, with pickles, lettuce and mustard sauce in a glazed brioche bun](../../assets/articles/best-burgers-london/honest-burgers-2.jpg)
+
+*A thick patty with bacon, melted cheese and pickles in a glazed bun. The beef comes from the company's own butchery.*
 
 **The only burger in this guide that actually won something in 2026** — and the detail everyone drops is that the winning burger is served at one address.
 
@@ -129,9 +130,9 @@ The thin patty pressed hard onto the plancha so the crust caramelises edge to ed
 
 *££ · Soho · 3 min from Piccadilly Circus · walk-in · Cited by 4 sources*
 
-![A Supernova cheeseburger in an open white takeaway box beside a second box of fries, the fries half wrapped in paper printed with the Supernova name](../../assets/articles/best-burgers-london/supernova.jpg)
+![Two Supernova cheeseburgers in paper wrappers, one held up and one in an open takeaway box, each with a thin crisp-edged patty, pickles, melted cheese and house sauce, beside fries in paper printed with the Supernova name](../../assets/articles/best-burgers-london/supernova-2.jpg)
 
-*Boxed to go, which is the sensible move here — the room is small and it queues from lunchtime. Burger and fries is close to the entire menu.*
+*Two House Cheeseburgers and fries, wrapped and boxed, the thin patties crisp and ragged at the edge.*
 
 **A 25-word menu, and one of the best cheeseburgers in central London.** It went viral on the shortness of the offer rather than on any gimmick.
 
@@ -161,6 +162,10 @@ Being in **Arcade Food Hall** is the practical advantage: everyone you are with 
 
 *£ · Netil Market, London Fields · 8 min from London Fields · walk-in · Cited by 4 sources*
 
+![A Jupiter Burger cheeseburger held in one hand over a red tray lined with blue-and-white striped paper: a charred beef patty with melted cheese, iceberg lettuce, tomato, a pickle slice and pink sauce in a soft yellow potato roll](../../assets/articles/best-burgers-london/jupiter-burger.jpg)
+
+*One patty, iceberg, tomato, pickle and sauce in a soft potato roll, served on a tray lined with striped paper.*
+
 **A stall at Netil Market styled as a retro diner**, from the team behind Dom's Subs — and the best value on this page.
 
 **Two burgers on the menu and nothing else.** The cheeseburger is a well-seasoned smashed patty on a Martin's potato roll, sized to be eaten with one hand while walking round the market, with hand-cut fries if you want to stop. Nothing about it is complicated and everything about it is balanced.
@@ -189,6 +194,10 @@ Minimal room, quick turnover, and it draws a queue that moves.
 
 *££ · Hackney · walk-in · Cited by 3 sources*
 
+![A close-up of Bake Street's smash burger in a white takeaway box: a wide, dark-crusted beef patty under a slice of melted American cheese in a glossy soft bun](../../assets/articles/best-burgers-london/bake-street.jpg)
+
+*The weekend smashburger: a dark-crusted patty wider than its bun, with one slice of cheese.*
+
 **A café that makes a burger good enough to appear on three critics' lists**, which is not a sentence you write often.
 
 The smashburger is a **weekend-only item** — this is a bakery and all-day café the rest of the week — and the **Nashville hot chicken** is the alternative when it is on. Everything is made with the care you would expect of the baking rather than of a burger counter, starting with the bun.
@@ -199,6 +208,10 @@ The smashburger is a **weekend-only item** — this is a bakery and all-day caf�
 
 *££ · Fitzrovia · walk-in · Cited by 2 sources*
 
+![A Chuck's smash burger on paper printed with cartoon burgers: two heavily charred, crumbly-edged patties under a slice of melted white cheese in a shiny potato bun](../../assets/articles/best-burgers-london/chucks.jpg)
+
+*Two patties charred almost black at the edges under a slice of white cheese, in a potato bun.*
+
 **A candlelit den with a natural wine list that also makes a serious smash burger** — an unlikely combination that works because the kitchen refuses to compromise either half.
 
 The signature smashburger comes with **heavily charred edges on a fluffy potato bun**, and the kitchen has a **no-modifications policy**: it arrives as built or not at all. Natural wine by the glass rather than a milkshake, which tells you which evening this is for.
@@ -208,6 +221,10 @@ The signature smashburger comes with **heavily charred edges on a fluffy potato 
 ### Hanbaagaasuuteeki, Victoria
 
 *££ · 36 Buckingham Palace Road, SW1W 0RE · 4 min from Victoria · walk-in · Cited by 2 sources*
+
+![A Hanbaagaasuuteeki double smash burger on a paper plate with "Kimchi" written on the rim in red: two patties under melted cheese, kimchi, sesame seeds and a pile of sliced spring onion in a soft bun, on a red speckled table](../../assets/articles/best-burgers-london/hanbaagaasuuteeki.jpg)
+
+*A kimchi double: two smashed patties under melted cheese, kimchi, sesame and a pile of spring onion.*
 
 **The name translates roughly as "wonderful hamburger steak"**, and the whole restaurant is built on the Japanese *hanbāgu* tradition of treating a burger as a steak dish rather than a sandwich.
 
@@ -273,8 +290,9 @@ Order the **dirty tots** — tater tots under bone marrow gravy — rather than 
 
 *££ · multiple sites · Cited by 5 sources · **winner, National Burger Awards 2025***
 
-![A burger with bacon and melted cheese in a sesame brioche bun, on paper printed with bear paw prints](../../assets/articles/best-burgers-london/black-bear-burger.jpg)
-*Bacon and cheese on Black Bear's own paw-print paper. The Miso Bacon Burger is the one that took the 2025 title.*
+![A Black Bear burger on a metal tray lined with bear-print paper: a thick beef patty with dark caramelised onions, melted cheese, bacon and a pale mayo in a sesame-crusted bun](../../assets/articles/best-burgers-london/black-bear-burger-2.jpg)
+
+*One thick dry-aged patty with bacon, cheese, mayo and a heap of dark caramelised onions, on bear-print paper.*
 
 **Last year's national champion**, and it has stayed on every list since — five sources still name it.
 
@@ -285,6 +303,10 @@ The **Miso Bacon Burger** is the one that won: dry-aged beef under **miso butter
 ### Heard, Soho and Borough
 
 *££ · Soho and Borough · Cited by 3 sources*
+
+![A Heard burger on a metal tray lined with paper printed with the Heard name: two beef patties under a thick layer of melted cheese and pickles in a dark glossy toasted bun, with a pot of sauce and a cup of chips beside it](../../assets/articles/best-burgers-london/heard.jpg)
+
+*A double with pickles, the cheese melted right over both patties, in a bun toasted dark and glossy.*
 
 **Founded by a two-Michelin-starred chef, Jordan Bailey**, which explains a burger menu that reads like a sourcing document.
 
@@ -305,6 +327,18 @@ Short entries. Full detail on any of these is above where it exists.
 * **Lagom, Dalston** — *££ · Cited by 4 sources.* A kitchen inside The Three Compasses doing a **smashburger with dill pickle slaw**, plus fried chicken and lamb. Pub setting, walk-in, and one of the four most-cited names here.
 * **Buk, Camden** — *£ · Cited by 1 source.* Thin patty, double American cheese, chilli house sauce and caramelised onion. **Halal.**
 * **Burnt Smokehouse, Leyton** — *£ · Cited by 1 source.* Double patty smashburger with caramelised onions and dill pickles, communal seating by the station. **Halal.**
+
+![A Mother Flipper cheeseburger held in one hand: a thick beef patty with melted American cheese, pickles, shredded lettuce, ketchup and mustard in a glossy sesame bun](../../assets/articles/best-burgers-london/mother-flipper.jpg)
+
+*Mother Flipper's cheeseburger: one thick patty, American cheese, pickles, lettuce, ketchup and mustard in a sesame bun.*
+
+![A Baba G's burger beside a pile of fries: a thick, herb-flecked patty on pink pickled slaw and sauce, topped with a crisp fried fritter, in a bun scattered with black seeds](../../assets/articles/best-burgers-london/baba-gs.jpg)
+
+*A spiced patty flecked with herbs, under a crisp fritter and over pink slaw.*
+
+![Two Lagom burgers on white plates on a worn wooden pub table, the nearer one closed, the further one showing a beef patty, a slice of melted cheese and shredded slaw](../../assets/articles/best-burgers-london/lagom.jpg)
+
+*Lagom's smashburgers at The Three Compasses, the dill pickle slaw showing under the patty.*
 
 ![A double cheeseburger with melted cheese in a sesame bun, beside thick-cut chips and a bottle of Coca-Cola, with a sign for Buk Burger's Instagram handle on the wall behind](../../assets/articles/best-burgers-london/buk-camden.jpg)
 
@@ -329,6 +363,10 @@ Named by the listings sites rather than the critics — which is not a criticism
 
 *Melted cheese, pickled onion and a bucket of thick-cut chips — the format Patty & Bun runs across all seven sites.*
 
+![A MEATliquor tray lined with the restaurant's printed paper: a fried chicken burger with melted cheese and shredded lettuce, beef and chicken burgers in sesame buns behind it, and a bowl of chilli cheese fries with diced onion and mustard](../../assets/articles/best-burgers-london/meatliquor.jpg)
+
+*Four burgers and a bowl of chilli fries with onion and mustard, on paper printed with the MEATliquor name.*
+
 ![Half a lobster, a sesame-seed cheeseburger on a skewer and a metal cup of fries, laid out on Burger & Lobster branded greaseproof paper on a wooden table](../../assets/articles/best-burgers-london/burger-and-lobster-combo.jpg)
 
 *The Burger & Lobster combination that explains the name and the price. This is the whole menu conceit: burger, lobster, or lobster roll, all at one price, with the sides included rather than added on.*
@@ -340,6 +378,10 @@ Named by the listings sites rather than the critics — which is not a criticism
 ![A tall burger held in two hands, with a dark-seared double beef patty, crispy fried chicken pieces, bacon, pickled onion and a pale sauce spilling from a toasted bun](../../assets/articles/best-burgers-london/fat-hippo.jpg)
 
 *Beef, fried chicken and bacon stacked into one burger — the kind of combination that got Fat Hippo to the 2026 awards final.*
+
+![A SoBe Burger double smash burger on black-and-white patterned paper: two crisp, ragged-edged patties under melted cheese, pickles and an orange sauce in a glossy brioche bun](../../assets/articles/best-burgers-london/sobe-burger.jpg)
+
+*SoBe's double smash: ragged-edged patties, melted cheese, pickles and an orange burger sauce.*
 
 ---
 
