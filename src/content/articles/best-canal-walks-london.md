@@ -6,7 +6,7 @@ publishedAt: 2026-08-27
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-tags: [canal walks, Regent's Canal, walking, free things to do, things to do]
+tags: [walks, canal walks, Regent's Canal, walking, free things to do, things to do]
 draft: false
 faq:
   - q: "How long is the Regent's Canal walk?"

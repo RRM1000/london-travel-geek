@@ -193,6 +193,11 @@ const siteArticles = (await getCollection("articles")).filter(
 const publishedIds = new Set(siteArticles.map((article) => article.id));
 // Only tags with a page of their own are shown; see MIN_TAG_GUIDES.
 const tagCounts = countTags(siteArticles);
+// Every walk points to the rest of the walks, near the top. Driven by the
+// "walks" tag so a new walk picks it up without anyone remembering to add it,
+// and counted at build so the number can't go stale.
+const isWalk = tags.some((tag) => tagToSlug(tag) === "walks");
+const walkCount = tagCounts.get("walks") ?? 0;
 const shownTags = tags.filter(
   (tag, i) =>
     (tagCounts.get(tagToSlug(tag)) ?? 0) >= MIN_TAG_GUIDES &&
@@ -310,6 +315,12 @@ const breadcrumbs = [
 
       <div class="article__grid">
       <div class="article__body">
+        {isWalk && walkCount > 1 && (
+          <p class="article__walks-note">
+            <strong>One of {walkCount} self-guided London walks on this site.</strong>{" "}
+            <a href="/tags/walks/">See every walk</a>, from the South Bank to Hampstead Heath.
+          </p>
+        )}
         {showContents && (
           <TableOfContents headings={contentsHeadings} variant="mobile" />
         )}
@@ -1030,6 +1041,14 @@ const breadcrumbs = [
   .article__meta-separator {
     color: var(--accent);
     font-weight: 800;
+  }
+
+  .article__walks-note {
+    margin: 0 0 var(--space-5);
+    padding: 0.7rem 1rem;
+    border-left: 3px solid var(--accent);
+    background: var(--surface);
+    font-size: 0.95rem;
   }
 
   .article__tags {

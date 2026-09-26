@@ -8,7 +8,7 @@ publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-tags: [walking, free things to do, Thames, things to do]
+tags: [walks, walking, free things to do, Thames, things to do]
 draft: false
 faq:
   - q: "What is the best walk in London?"
