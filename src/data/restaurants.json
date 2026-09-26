@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-25",
- "count": 936,
+ "generated": "2026-09-26",
+ "count": 971,
  "withCoords": 822,
  "facets": {
   "cuisine": [
@@ -70,9 +70,29 @@
     "count": 15
    },
    {
+    "value": "Filipino",
+    "slug": "filipino",
+    "count": 14
+   },
+   {
     "value": "Turkish",
     "slug": "turkish",
     "count": 13
+   },
+   {
+    "value": "Peruvian",
+    "slug": "peruvian",
+    "count": 10
+   },
+   {
+    "value": "Sri Lankan",
+    "slug": "sri-lankan",
+    "count": 10
+   },
+   {
+    "value": "West African",
+    "slug": "west-african",
+    "count": 10
    },
    {
     "value": "Vietnamese",
@@ -82,11 +102,6 @@
    {
     "value": "Pakistani",
     "slug": "pakistani",
-    "count": 6
-   },
-   {
-    "value": "West African",
-    "slug": "west-african",
     "count": 6
    },
    {
@@ -125,11 +140,6 @@
     "count": 2
    },
    {
-    "value": "Filipino",
-    "slug": "filipino",
-    "count": 2
-   },
-   {
     "value": "Balkan",
     "slug": "balkan",
     "count": 1
@@ -138,28 +148,23 @@
     "value": "Portuguese",
     "slug": "portuguese",
     "count": 1
-   },
-   {
-    "value": "Sri Lankan",
-    "slug": "sri-lankan",
-    "count": 1
    }
   ],
   "area": [
    {
     "value": "Soho",
     "slug": "soho",
-    "count": 98
+    "count": 105
    },
    {
     "value": "Mayfair",
     "slug": "mayfair",
-    "count": 61
+    "count": 62
    },
    {
     "value": "Shoreditch",
     "slug": "shoreditch",
-    "count": 48
+    "count": 50
    },
    {
     "value": "South Bank",
@@ -169,12 +174,12 @@
    {
     "value": "Covent Garden",
     "slug": "covent-garden",
-    "count": 36
+    "count": 37
    },
    {
     "value": "Fitzrovia",
     "slug": "fitzrovia",
-    "count": 36
+    "count": 37
    },
    {
     "value": "Marylebone",
@@ -184,12 +189,12 @@
    {
     "value": "Hackney",
     "slug": "hackney",
-    "count": 24
+    "count": 25
    },
    {
     "value": "Islington",
     "slug": "islington",
-    "count": 23
+    "count": 24
    },
    {
     "value": "City Of London",
@@ -209,7 +214,7 @@
    {
     "value": "Canary Wharf",
     "slug": "canary-wharf",
-    "count": 14
+    "count": 15
    },
    {
     "value": "Bloomsbury",
@@ -222,6 +227,11 @@
     "count": 13
    },
    {
+    "value": "Camden",
+    "slug": "camden",
+    "count": 12
+   },
+   {
     "value": "Chelsea",
     "slug": "chelsea",
     "count": 12
@@ -232,13 +242,18 @@
     "count": 12
    },
    {
-    "value": "Camden",
-    "slug": "camden",
-    "count": 11
-   },
-   {
     "value": "Paddington",
     "slug": "paddington",
+    "count": 12
+   },
+   {
+    "value": "Peckham",
+    "slug": "peckham",
+    "count": 12
+   },
+   {
+    "value": "Westminster",
+    "slug": "westminster",
     "count": 11
    },
    {
@@ -247,14 +262,9 @@
     "count": 10
    },
    {
-    "value": "Peckham",
-    "slug": "peckham",
-    "count": 10
-   },
-   {
-    "value": "Westminster",
-    "slug": "westminster",
-    "count": 10
+    "value": "Wapping",
+    "slug": "wapping",
+    "count": 9
    },
    {
     "value": "Richmond",
@@ -267,24 +277,19 @@
     "count": 8
    },
    {
-    "value": "Wapping",
-    "slug": "wapping",
-    "count": 8
+    "value": "Battersea",
+    "slug": "battersea",
+    "count": 7
+   },
+   {
+    "value": "Kensington",
+    "slug": "kensington",
+    "count": 7
    },
    {
     "value": "South Kensington",
     "slug": "south-kensington",
     "count": 7
-   },
-   {
-    "value": "Battersea",
-    "slug": "battersea",
-    "count": 6
-   },
-   {
-    "value": "Kensington",
-    "slug": "kensington",
-    "count": 6
    },
    {
     "value": "Belgravia",
@@ -301,7 +306,7 @@
    {
     "value": "regional",
     "slug": "regional",
-    "count": 214
+    "count": 249
    },
    {
     "value": "grill",
@@ -503,22 +508,22 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 358
+    "count": 377
    },
    {
     "value": "£££",
     "slug": "price-3",
-    "count": 229
+    "count": 235
    },
    {
     "value": "£",
     "slug": "price-1",
-    "count": 155
+    "count": 164
    },
    {
     "value": "££££",
     "slug": "price-4",
-    "count": 147
+    "count": 148
    }
   ]
  },
@@ -9079,11 +9084,11 @@
    ],
    "format": "Restaurant",
    "chainType": "independent",
-   "area": "Covent Garden",
+   "area": "Soho",
    "zone": "1",
    "district": "Central",
    "borough": "Westminster",
-   "guide": "covent-garden-area-guide",
+   "guide": "soho-area-guide",
    "address": "36-40 Rupert St, London W1D 6DW, UK",
    "postcode": "W1D 6DW",
    "lat": 51.511318,
@@ -33630,6 +33635,752 @@
    "sourceCount": "1",
    "sourceTiers": "D1",
    "sourceUrls": "https://www.tiktok.com/@zo.etang"
+  },
+  {
+   "slug": "805",
+   "name": "805",
+   "cuisine": "West African",
+   "style": "West African",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Old Kent Road",
+   "guide": "peckham-area-guide",
+   "address": "805 Old Kent Road",
+   "postcode": "SE15 1DZ",
+   "price": "££",
+   "whyGo": "The oldest name on this page and the one south London Nigerian families have been marking occasions in for a quarter of a century, with further London sites at Hyde Park and Hendon.",
+   "lists": [
+    "west-african"
+   ]
+  },
+  {
+   "slug": "the-flygerians",
+   "name": "The Flygerians",
+   "cuisine": "West African",
+   "style": "West African",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Peckham",
+   "zone": "2",
+   "district": "South",
+   "guide": "peckham-area-guide",
+   "address": "14 Bournemouth Close, Peckham Palms",
+   "postcode": "SE15 4PB",
+   "price": "£",
+   "whyGo": "The 2 Fly Chicks Plate is the order — two pieces of chicken in Mama's Forbidden Sauce, a sweet smoky red marinade, with jollof and plantain, £17.50.",
+   "lists": [
+    "west-african"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B3 C1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-nigerian-and-west-african-restaurants | https://www.theinfatuation.com/london/guides/best-nigerian-restaurants-london | https://www.olivemagazine.com/restaurants/london/west-african-restaurants/"
+  },
+  {
+   "slug": "sikatio",
+   "name": "Sikatiô",
+   "cuisine": "West African",
+   "style": "West African",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Brockley",
+   "zone": "2–3",
+   "district": "South",
+   "address": "5 Brockley Cross",
+   "postcode": "SE4 2AB",
+   "price": "££",
+   "whyGo": "The dish is the soupe du pêcheur, a fisherman's soup of gently poached fish, crab and prawn served in an Asanka earthenware grinder, and after that the croaker, deep-fried in what Vittles calls a chainmail of crispy skin.",
+   "lists": [
+    "west-african"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B3 C1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-nigerian-and-west-african-restaurants | https://www.olivemagazine.com/restaurants/london/west-african-restaurants/ | https://www.thehandbook.com/west-african-restuarants-london/"
+  },
+  {
+   "slug": "pitanga",
+   "name": "Pitanga",
+   "cuisine": "West African",
+   "style": "West African",
+   "specialities": [
+    "regional"
+   ],
+   "area": "West Kensington",
+   "guide": "kensington-area-guide",
+   "address": "220 North End Road",
+   "postcode": "W14 9NX",
+   "price": "££",
+   "whyGo": "Opened on 31 May 2018 by Nky Iweka, who bills herself Executive Mamaput after the roadside cooks of Lagos, and it is the westernmost entry in this guide — everything else is central, south or north-east.",
+   "lists": [
+    "west-african"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "C2 D2",
+   "sourceUrls": "https://secretldn.com/best-nigerian-west-african-restaurants-london/ | https://www.londonxlondon.com/african-restaurants-london/ | https://www.youtube.com/@UgoArinzeh"
+  },
+  {
+   "slug": "rambutan",
+   "name": "Rambutan",
+   "cuisine": "Sri Lankan",
+   "style": "Sri Lankan",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Borough Market",
+   "walkMin": 3,
+   "price": "££",
+   "whyGo": "Cynthia Shanmugalingam was born in Coventry to Sri Lankan Tamil parents and the menu comes from Jaffna in the north by way of her mother's kitchen, cooked over an aduppu — an open wood fire — behind the counter.",
+   "lists": [
+    "sri-lankan"
+   ],
+   "sourceCount": "13",
+   "sourceTiers": "A2 B8 C2 D1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants/sri-lankan | https://www.thegoodfoodguide.co.uk/restaurant/rambutan/id/49132 | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+  },
+  {
+   "slug": "kolamba",
+   "name": "Kolamba",
+   "cuisine": "Sri Lankan",
+   "style": "Sri Lankan",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "guide": "soho-area-guide",
+   "walkMin": 5,
+   "price": "££",
+   "whyGo": "---",
+   "lists": [
+    "sri-lankan"
+   ],
+   "sourceCount": "14",
+   "sourceTiers": "A1 B8 C4 D1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/restaurant/kolamba-soho/id/41652 | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.theinfatuation.com/london/guides/the-best-sri-lankan-restaurants-in-london"
+  },
+  {
+   "slug": "jaffna-house",
+   "name": "Jaffna House",
+   "cuisine": "Sri Lankan",
+   "style": "Sri Lankan",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Tooting",
+   "zone": "3",
+   "district": "South",
+   "walkMin": 2,
+   "price": "£",
+   "whyGo": "The Jaffna special chicken curry is the order — boneless chicken in a sharp, tomato-heavy northern sauce — with an egg hopper and katta sambol, a fierce dried-chilli and Maldive-fish relish that is not a chutney and is not sweet.",
+   "lists": [
+    "sri-lankan"
+   ],
+   "sourceCount": "12",
+   "sourceTiers": "B9 C3",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-sri-lankan-restaurants-in-london | https://london.eater.com/maps/best-sri-lankan-restaurants-london-hoppers-jaffna-appam | https://www.squaremeal.co.uk/restaurants/best-for/best-sri-lankan-restaurants-london_9506"
+  },
+  {
+   "slug": "apollo-banana-leaf",
+   "name": "Apollo Banana Leaf",
+   "cuisine": "Sri Lankan",
+   "style": "Sri Lankan",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Tooting",
+   "zone": "3",
+   "district": "South",
+   "walkMin": 5,
+   "price": "£",
+   "whyGo": "A few hundred metres down the same high street, and the kitchen calls itself Sri Lankan and South Indian on its own front page — which is honest, and the reason it sits here with a label rather than being quietly filed.",
+   "lists": [
+    "sri-lankan"
+   ],
+   "sourceCount": "7",
+   "sourceTiers": "B5 C2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-sri-lankan-restaurants-in-london | https://www.squaremeal.co.uk/restaurants/best-for/best-sri-lankan-restaurants-london_9506 | https://www.designmynight.com/london/blog/best-sri-lankan-restaurants-london"
+  },
+  {
+   "slug": "karapincha",
+   "name": "Karapincha",
+   "cuisine": "Sri Lankan",
+   "style": "Sri Lankan",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Canary Wharf",
+   "zone": "2",
+   "district": "East",
+   "guide": "canary-wharf-area-guide",
+   "price": "£",
+   "whyGo": "Twin sisters Vasanthini and Dharshini Perumal, from Kandy, started as market traders and now run three counters: Unit 14 inside Canary Wharf station, Old Spitalfields Market and Mercato Metropolitano at Elephant & Castle.",
+   "lists": [
+    "sri-lankan"
+   ],
+   "sourceCount": "7",
+   "sourceTiers": "B5 C1 D1",
+   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/best-sri-lankan-restaurants-london_9506 | https://www.designmynight.com/london/blog/best-sri-lankan-restaurants-london | https://foodism.co.uk/guides/best-sri-lankan-restaurants-london/"
+  },
+  {
+   "slug": "dammika-s",
+   "name": "Dammika's",
+   "cuisine": "Sri Lankan",
+   "style": "Sri Lankan",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Victoria",
+   "zone": "1",
+   "district": "Central",
+   "guide": "westminster-area-guide",
+   "walkMin": 6,
+   "price": "££",
+   "whyGo": "The chicken lamprais is why people come: rice boiled in stock, then a meat curry, aubergine pickle, caramelised seeni sambol, a fish cutlet and a boiled egg all folded into a banana leaf and baked, wh",
+   "lists": [
+    "sri-lankan"
+   ],
+   "sourceCount": "7",
+   "sourceTiers": "B4 C3",
+   "sourceUrls": "https://london.eater.com/maps/best-sri-lankan-restaurants-london-hoppers-jaffna-appam | https://www.designmynight.com/london/blog/best-sri-lankan-restaurants-london | https://www.stylist.co.uk/food-drink/best-sri-lankan-restaurants/814600"
+  },
+  {
+   "slug": "colombo-kitchen",
+   "name": "Colombo Kitchen",
+   "cuisine": "Sri Lankan",
+   "style": "Sri Lankan",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Putney",
+   "price": "££",
+   "whyGo": "Sylvia Perera grew up in Negombo on the west coast, cooked her way through a catering business and a street stall, and now runs two rooms with a live hopper and kottu bar — the pans and the blades are",
+   "lists": [
+    "sri-lankan"
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "B5 C1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-sri-lankan-restaurants-in-london | https://www.designmynight.com/london/blog/best-sri-lankan-restaurants-london | https://www.houseandgarden.co.uk/gallery/sri-lankan-restaurants-london"
+  },
+  {
+   "slug": "adoh",
+   "name": "ADOH!",
+   "cuisine": "Sri Lankan",
+   "style": "Sri Lankan",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Covent Garden",
+   "zone": "1",
+   "district": "Central",
+   "guide": "covent-garden-area-guide",
+   "walkMin": 4,
+   "price": "££",
+   "whyGo": "Kolamba's siblings doing Colombo street food instead of home cooking — plastic chairs, murals, painted lorry art and a canteen volume.",
+   "lists": [
+    "sri-lankan"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B4",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-sri-lankan-restaurants-in-london | https://www.squaremeal.co.uk/restaurants/best-for/best-sri-lankan-restaurants-london_9506 | https://www.designmynight.com/london/blog/best-sri-lankan-restaurants-london"
+  },
+  {
+   "slug": "kothu-tooting",
+   "name": "Kothu, Tooting",
+   "cuisine": "Sri Lankan",
+   "style": "Sri Lankan",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Harrow",
+   "walkMin": 3,
+   "price": "£",
+   "whyGo": "Started at food markets in the Midlands and now three London rooms — 114 Tooting High Street, plus Harrow and Croydon — with booths at the back and a bar.",
+   "lists": [
+    "sri-lankan"
+   ]
+  },
+  {
+   "slug": "lima",
+   "name": "Lima",
+   "cuisine": "Peruvian",
+   "style": "Peruvian",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Fitzrovia",
+   "zone": "1",
+   "district": "Central",
+   "guide": "fitzrovia-area-guide",
+   "address": "31 Rathbone Place",
+   "postcode": "W1T 1JH",
+   "price": "£££",
+   "whyGo": "Order the stone bass ceviche — the fish cured in leche de tigre, the cloudy lime-and-chilli marinade that has no milk in it despite the name — and the Ikejime trout sashimi with strawberry ponzu.",
+   "lists": [
+    "peruvian"
+   ],
+   "sourceCount": "8",
+   "sourceTiers": "B5 C3",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-restaurants-london | https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://www.designmynight.com/london/peruvian-restaurants-in-london"
+  },
+  {
+   "slug": "coya",
+   "name": "Coya",
+   "cuisine": "Peruvian",
+   "style": "Peruvian",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Mayfair",
+   "zone": "1",
+   "district": "Central",
+   "guide": "mayfair-area-guide",
+   "address": "118 Piccadilly",
+   "postcode": "W1J 7NW",
+   "price": "££££",
+   "whyGo": "The food is better than the room's reputation suggests when you order Peruvian rather than around it: the signature ceviche platter runs sea bass, corvina, yellowtail and tuna, each cured differently,",
+   "lists": [
+    "peruvian"
+   ],
+   "sourceCount": "7",
+   "sourceTiers": "A1 B3 C3",
+   "sourceUrls": "https://www.hardens.com/restaurants/london/peruvian/ | https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://www.theinfatuation.com/london/guides/best-peruvian-restaurants-london"
+  },
+  {
+   "slug": "tierra-peru",
+   "name": "Tierra Peru",
+   "cuisine": "Peruvian",
+   "style": "Peruvian",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Islington",
+   "zone": "1–2",
+   "district": "North",
+   "guide": "islington-area-guide",
+   "address": "164 Essex Road",
+   "postcode": "N1 8LY",
+   "price": "££",
+   "whyGo": "A Camden market stall that became a restaurant, run by two brothers with portraits from home on the walls and the national team on the television above the bar.",
+   "lists": [
+    "peruvian"
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "B2 C3 D1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://www.theinfatuation.com/london/guides/best-peruvian-restaurants-london | https://thenudge.com/best-peruvian-restaurants-london/"
+  },
+  {
+   "slug": "llama-inn",
+   "name": "Llama Inn",
+   "cuisine": "Peruvian",
+   "style": "Peruvian",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Shoreditch",
+   "zone": "1",
+   "district": "East",
+   "guide": "shoreditch-area-guide",
+   "address": "The Hoxton, 1 Willow Street",
+   "postcode": "EC2A 4BH",
+   "price": "£££",
+   "whyGo": "The London branch of a Brooklyn restaurant that opened in 2015, reached through a yellow door on a back street and a service lift to the roof of The Hoxton.",
+   "lists": [
+    "peruvian"
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "B5 C1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://www.theinfatuation.com/london/guides/best-peruvian-restaurants-london | https://www.designmynight.com/london/peruvian-restaurants-in-london"
+  },
+  {
+   "slug": "senor-ceviche",
+   "name": "Señor Ceviche",
+   "cuisine": "Peruvian",
+   "style": "Peruvian",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "guide": "soho-area-guide",
+   "address": "Kingly Court, Carnaby",
+   "postcode": "W1B 5PW",
+   "price": "££",
+   "whyGo": "Grew out of Don Ceviche, a pop-up run by chef Harry Edmeades, and now occupies a bright first-floor corner of Kingly Court with an open kitchen and a ceviche counter you can watch.",
+   "lists": [
+    "peruvian"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B1 C2 D1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://thenudge.com/best-peruvian-restaurants-london/ | https://secretldn.com/peruvian-restaurant-london/"
+  },
+  {
+   "slug": "chotto-matte",
+   "name": "Chotto Matte",
+   "cuisine": "Peruvian",
+   "style": "Peruvian",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "guide": "soho-area-guide",
+   "address": "11–13 Frith Street",
+   "postcode": "W1D 4RB",
+   "price": "£££",
+   "whyGo": "An international group with six sites, and the room that taught central London the word Nikkei.",
+   "lists": [
+    "peruvian"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B3 C2",
+   "sourceUrls": "https://www.designmynight.com/london/best-halal-restaurants-london | https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/ | https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants"
+  },
+  {
+   "slug": "sabor-peruano",
+   "name": "Sabor Peruano",
+   "cuisine": "Peruvian",
+   "style": "Peruvian",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Elephant",
+   "address": "103 Newington Butts",
+   "postcode": "SE1 6SF",
+   "price": "££",
+   "whyGo": "Three sources name it and none of them calls it fashionable, which is the point.",
+   "lists": [
+    "peruvian"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 C1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://www.theinfatuation.com/london/guides/best-peruvian-restaurants-london | https://secretldn.com/peruvian-restaurant-london/"
+  },
+  {
+   "slug": "chakana",
+   "name": "Chakana",
+   "cuisine": "Peruvian",
+   "style": "Peruvian",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Hackney",
+   "zone": "2",
+   "district": "East",
+   "guide": "hackney-area-guide",
+   "address": "41 Broadway Market",
+   "postcode": "E8 4PH",
+   "price": "£££",
+   "whyGo": "Named for the Andean cross and built on Peru's two flagship crops, corn and potatoes.",
+   "lists": [
+    "peruvian"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://idealmagazine.co.uk/best-peruvian-restaurants-london/"
+  },
+  {
+   "slug": "ayllu",
+   "name": "Ayllu",
+   "cuisine": "Peruvian",
+   "style": "Peruvian",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Paddington",
+   "zone": "1",
+   "district": "West",
+   "guide": "paddington-area-guide",
+   "address": "25 Sheldon Square",
+   "postcode": "W2 6EY",
+   "price": "£££",
+   "whyGo": "Jade-green walls with a water-lily motif, cushioned booths and low light, in the canalside office estate behind Paddington station — an unlikely address for a kitchen doing this much with raw fish.",
+   "lists": [
+    "peruvian"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://www.designmynight.com/london/peruvian-restaurants-in-london"
+  },
+  {
+   "slug": "monmouth-kitchen",
+   "name": "Monmouth Kitchen",
+   "cuisine": "Peruvian",
+   "style": "Peruvian",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Seven Dials",
+   "guide": "covent-garden-area-guide",
+   "address": "20 Mercer Street",
+   "postcode": "WC2H 9HD",
+   "price": "£££",
+   "whyGo": "A hotel dining room two minutes from Covent Garden station that runs Peruvian and Italian small plates side by side rather than blending them, with DJs at weekends and a terrace that is the best table in the place.",
+   "lists": [
+    "peruvian"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://www.designmynight.com/london/peruvian-restaurants-in-london | https://www.londonxlondon.com/peruvian-restaurants-london/"
+  },
+  {
+   "slug": "kasa-and-kin",
+   "name": "Kasa and Kin",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "guide": "soho-area-guide",
+   "price": "££",
+   "whyGo": "Named by eight of the sources, one behind Donia, and the one place on this page that is a restaurant, a bar and a Filipino bakery at once.",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "8",
+   "sourceTiers": "B3 C2 D3",
+   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.timeout.com/london/restaurants/belly-bistro | https://www.designmynight.com/london/blog/best-filipino-restaurants-london"
+  },
+  {
+   "slug": "panadera",
+   "name": "Panadera",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "guide": "soho-area-guide",
+   "address": "3 Hopkins Street",
+   "postcode": "W1F 0HS",
+   "price": "£",
+   "whyGo": "Five stars from Time Out in October 2025, and named by seven of the sources here — more than any Filipino restaurant except Donia and Kasa and Kin.",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "7",
+   "sourceTiers": "B3 C1 D3",
+   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.timeout.com/london/restaurants/belly-bistro | https://www.theinfatuation.com/london/guides/best-restaurants-london"
+  },
+  {
+   "slug": "lutong-pinoy",
+   "name": "Lutong Pinoy",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Earl's Court",
+   "zone": "1",
+   "district": "West",
+   "address": "10 Kenway Road",
+   "postcode": "SW5 0RR",
+   "price": "££",
+   "whyGo": "Founded in 1996 by Mario Malata — lutong pinoy means home cooking — and the place the community's own filmmakers keep going back to: three of its five citations are videos rather than published lists,",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B1 C1 D3",
+   "sourceUrls": "https://www.designmynight.com/london/blog/best-filipino-restaurants-london | https://secretldn.com/filipino-food-london/ | https://www.youtube.com/@RandomlyFood"
+  },
+  {
+   "slug": "rapsa",
+   "name": "Rapsa",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Hoxton",
+   "zone": "1",
+   "district": "East",
+   "guide": "shoreditch-area-guide",
+   "address": "100–102 Hoxton Street",
+   "postcode": "N1 6SG",
+   "price": "££",
+   "whyGo": "Chef Francis Puyat comes from a coastal town in Occidental Mindoro and builds the menu around kinilaw, the Philippine technique of firming raw fish in vinegar or citrus instead of heat — here applied",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B2 C2 D1",
+   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.designmynight.com/london/blog/best-filipino-restaurants-london | https://secretldn.com/filipino-food-london/"
+  },
+  {
+   "slug": "cirilo-filipino-kainan",
+   "name": "Cirilo Filipino Kainan",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Cable Street",
+   "guide": "wapping-area-guide",
+   "address": "4 Cable Street",
+   "postcode": "E1 8JG",
+   "price": "££",
+   "whyGo": "A low, single-storey building tucked under the railway arches at the western end of Cable Street — walking in feels like ducking into a cottage.",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B2 C2 D1",
+   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.designmynight.com/london/blog/best-filipino-restaurants-london | https://www.londonxlondon.com/filipino-restaurants-london/"
+  },
+  {
+   "slug": "kamayan-sa-earl-s-court",
+   "name": "Kamayan sa Earl's Court",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "address": "12 Kenway Road",
+   "postcode": "SW5 0RR",
+   "price": "££",
+   "whyGo": "Next door to Lutong Pinoy and a separate business, doing the same feast at a lower price: the daily boodle fight is £15.99 a head for a minimum of four, and it comes with your choice of starters, four mains, jasmine rice, salad and soup.",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B1 C1 D2",
+   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.londonxlondon.com/filipino-restaurants-london/ | https://www.youtube.com/@OneShotAdventures"
+  },
+  {
+   "slug": "bintang",
+   "name": "Bintang",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Camden",
+   "guide": "camden-area-guide",
+   "address": "93 Kentish Town Road",
+   "postcode": "NW1 8NY",
+   "price": "££",
+   "whyGo": "Trading on the same stretch of Kentish Town Road since 1987, which it says makes it the oldest Filipino restaurant in London, and run by the family behind Belly Bistro and Ramo Ramen.",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 C1",
+   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.designmynight.com/london/blog/best-filipino-restaurants-london | https://www.londonxlondon.com/filipino-restaurants-london/"
+  },
+  {
+   "slug": "turo-turo",
+   "name": "Turo Turo",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Tooting",
+   "zone": "3",
+   "district": "South",
+   "address": "102 Tooting High Street",
+   "postcode": "SW17 0RR",
+   "price": "££",
+   "whyGo": "The cooking is charcoal-led — thrice-cooked pig's head hash, ginger wings glazed with fermented shrimp, mushroom and tofu skewers — and there is a boodle fight on the menu plus a standalone kamayan supper club.",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 C1",
+   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.designmynight.com/london/blog/best-filipino-restaurants-london | https://thenudge.com/best-bbq-london/"
+  },
+  {
+   "slug": "kapihan",
+   "name": "Kapihan",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Battersea",
+   "zone": "1",
+   "district": "South",
+   "guide": "battersea-area-guide",
+   "address": "547 Battersea Park Road",
+   "postcode": "SW11 3BL",
+   "price": "£",
+   "website": "http://www.kapihan.coffee/",
+   "whyGo": "A family-run Filipino coffee house and bakery, and the only place on this page pouring single-origin coffee grown in the Philippines.",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B1 C1 D2",
+   "sourceUrls": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates | https://secretldn.com/filipino-food-london/ | https://www.youtube.com/@myriadrecipes"
+  },
+  {
+   "slug": "kuya-fernando",
+   "name": "Kuya Fernando",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Southall",
+   "zone": "4",
+   "district": "West",
+   "address": "443 Uxbridge Road, Southall",
+   "postcode": "UB1 3ET",
+   "price": "££",
+   "whyGo": "A restaurant and a Filipino grocery in the same premises, which is how a lot of this food arrived in London in the first place.",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.londonxlondon.com/filipino-restaurants-london/"
+  },
+  {
+   "slug": "filishack-peckham",
+   "name": "Filishack, Peckham",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Elephant & Castle",
+   "address": "130 Peckham Hill Street",
+   "postcode": "SE15 5JT",
+   "price": "£",
+   "whyGo": "Brothers Jonathan and Justice Cacho have built three sites in four years on one dish: chicken inasal, marinated in lemongrass, ginger, vinegar and calamansi, then charred.",
+   "lists": [
+    "filipino"
+   ]
+  },
+  {
+   "slug": "jollibee-earl-s-court",
+   "name": "Jollibee, Earl's Court",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Leicester Square",
+   "zone": "1",
+   "district": "Central",
+   "guide": "soho-area-guide",
+   "address": "180 Earl's Court Road",
+   "postcode": "SW5 9QG",
+   "price": "£",
+   "whyGo": "The Philippines' own fast-food chain, and more of a cultural fixture than a restaurant — the Earl's Court branch was the first it opened in Britain.",
+   "lists": [
+    "filipino"
+   ]
   },
   {
    "slug": "dishoom--king-s-cross",
