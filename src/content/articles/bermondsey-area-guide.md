@@ -232,3 +232,5 @@ Well connected, cheaper than the north bank, and increasingly well served for fo
 - **Bermondsey Street** — Small hotels and rentals along the street, walkable to Borough and Tower Bridge.
 - **London Bridge** — Larger hotels, excellent transport, direct Thameslink to Gatwick.
 - **Shad Thames** — Warehouse conversions on the river, quiet and central.
+
+Our [Bermondsey hotel guide](/articles/where-to-stay-bermondsey/) compares the hotels and aparthotels.

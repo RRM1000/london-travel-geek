@@ -266,4 +266,6 @@ Central, well connected and expensive. Good if you are here for theatre and want
 
 - **Covent Garden and Seven Dials** — Boutique hotels in converted townhouses. Quiet at night once the market closes.
 - **Holborn** — Five minutes east, noticeably better value, and on the Central line.
-- **The Strand and Aldwych** — Larger classic hotels facing the river, with easy access to the South Bank.
+- **The Strand and Aldwych** — Larger classic hotels facing the river, with easy access to the [South Bank](/articles/where-to-stay-south-bank/).
+
+Our [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) compares the hotels, and the [Soho and West End guide](/articles/where-to-stay-soho-west-end/) the streets just west.

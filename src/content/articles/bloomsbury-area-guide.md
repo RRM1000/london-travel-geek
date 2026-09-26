@@ -211,4 +211,6 @@ One of the best-value central bases in London: quiet, walkable and close to the 
 
 - **Russell Square and Bedford Place** — Georgian townhouse hotels around the squares. Central and calm.
 - **Gower Street** — A long run of small hotels at lower prices, walkable to the West End.
-- **King's Cross** — Fifteen minutes north, better transport, more open in the evening.
+- **[King's Cross](/articles/where-to-stay-kings-cross/)** — Fifteen minutes north, better transport, more open in the evening.
+
+Our [Bloomsbury hotel guide](/articles/where-to-stay-bloomsbury/) compares the hotels across every price band.

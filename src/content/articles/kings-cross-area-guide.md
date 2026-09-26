@@ -255,4 +255,6 @@ The best-connected base in London, especially for Eurostar or trips north, and m
 
 - **King's Cross and Pentonville Road** — Large modern hotels beside the stations. Convenient and functional.
 - **[St Pancras Renaissance](hotel:st-pancras-renaissance)** — The Gothic hotel in the station frontage itself, if the budget allows.
-- **Bloomsbury** — Fifteen minutes south, quieter and better value, still walkable to the Eurostar.
+- **[Bloomsbury](/articles/where-to-stay-bloomsbury/)** — Fifteen minutes south, quieter and better value, still walkable to the Eurostar.
+
+Our [King's Cross hotel guide](/articles/where-to-stay-kings-cross/) compares the hotels around the stations.

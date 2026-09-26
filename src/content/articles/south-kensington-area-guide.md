@@ -219,5 +219,7 @@ Harrods is free to walk into and worth it for the food halls alone, which are th
 Quiet, safe, well connected and good for families, with the trade-off that the area is sleepy after about 20:00.
 
 - **South Kensington and Gloucester Road** — Townhouse hotels and serviced flats, walkable to the museums, direct to Heathrow.
-- **Earl's Court** — Ten minutes west, noticeably cheaper, same District and Piccadilly access.
-- **Knightsbridge** — North-east and considerably more expensive, closer to Hyde Park.
+- **[Earl's Court](/articles/where-to-stay-kensington/)** — Ten minutes west, noticeably cheaper, same District and Piccadilly access.
+- **[Knightsbridge](/articles/where-to-stay-chelsea/)** — North-east and considerably more expensive, closer to Hyde Park.
+
+Our [South Kensington hotel guide](/articles/where-to-stay-south-kensington/) compares the hotels by the museums.
