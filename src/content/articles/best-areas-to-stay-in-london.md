@@ -76,7 +76,7 @@ The trade is that it is relentless. The Piazza has street performers from mid-mo
 
 *One of Strand Palace's nearly eight hundred rooms, with its pair of tan leather chairs.*
 
-Our full [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) prices the area against Holborn ten minutes east.
+Our full [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) prices the area against Holborn ten minutes east. For the Abbey and Parliament end of the walk, see our [Westminster and Victoria hotel guide](/articles/where-to-stay-westminster/).
 
 ### South Bank — the river, the galleries and three stations
 
@@ -232,7 +232,7 @@ South Kensington station is on the Piccadilly, District and Circle lines, with a
 
 *The hostel's communal room, its chalkboard mural naming the sights within walking distance.*
 
-**[Nell Gwynn House](hotel:nell-gwynn-house-pods)** does serviced apartments with their own kitchens in a 1930s mansion block, which is the only self-catering option in this postcode. Our full [South Kensington hotel guide](/articles/where-to-stay-south-kensington/) covers the subway and the step-free problem above it in detail.
+**[Nell Gwynn House](hotel:nell-gwynn-house-pods)** does serviced apartments with their own kitchens in a 1930s mansion block, which is the only self-catering option in this postcode. Our full [South Kensington hotel guide](/articles/where-to-stay-south-kensington/) covers the subway and the step-free problem above it in detail, and our [Kensington hotel guide](/articles/where-to-stay-kensington/) covers Kensington High Street and Earl's Court next door.
 
 ### Bermondsey — a kitchen, space and Tower Bridge
 
@@ -270,7 +270,7 @@ A maritime village with the Cutty Sark, the Old Royal Naval College, the Nationa
 
 **Evenings in town are the awkward part.** The DLR stops overnight and so does Greenwich's mainline station, so a late night in the West End means a night bus back or a taxi; North Greenwich keeps a Jubilee night service but that is the O2, a bus ride from the historic quarter. If your days are here that is a small cost. If your evenings are all in town, base yourself in town.
 
-**[Zedwell Greenwich](hotel:zedwell-greenwich)** is £66 to £145 for a windowless Cocoon 2, and it is the steadiest-priced Zedwell — early check-in costs £25 here against £60 in the West End. **[DoubleTree Greenwich](hotel:doubletree-greenwich)** is about £160 and, unlike the Peninsula hotels, is a fifteen-minute walk from all three of the big sights.
+**[Zedwell Greenwich](hotel:zedwell-greenwich)** is £66 to £145 for a windowless Cocoon 2, and it is the steadiest-priced Zedwell — early check-in costs £25 here against £60 in the West End. **[DoubleTree Greenwich](hotel:doubletree-greenwich)** is about £160 and, unlike the Peninsula hotels, is a fifteen-minute walk from all three of the big sights. For a show at The O2, our [O2 hotel guide](/articles/where-to-stay-near-the-o2/) compares the bases by train time.
 
 ---
 
@@ -342,7 +342,7 @@ Residential in a way almost nothing else this central is: garden squares, pastel
 
 **Portobello is a Saturday proposition.** The market is quiet midweek and enormous on Saturday, which is either the reason you booked or the morning you will want to be somewhere else. The Carnival, in late August, closes the area entirely for two days.
 
-**[The Laslett](hotel:the-laslett)** is about £240 on Pembridge Gardens, a minute from Notting Hill Gate station, with work by local artists in the rooms, and it is the most convenient of the area's boutiques for the Tube. **[The Portobello Hotel](hotel:the-portobello-hotel)** is about £260 with breakfast, 21 rooms on a quiet garden square — **no lift, and some rooms have round beds and baths in the bedroom**, so ask what you are getting before you book.
+**[The Laslett](hotel:the-laslett)** is about £240 on Pembridge Gardens, a minute from Notting Hill Gate station, with work by local artists in the rooms, and it is the most convenient of the area's boutiques for the Tube. **[The Portobello Hotel](hotel:the-portobello-hotel)** is about £260 with breakfast, 21 rooms on a quiet garden square — **no lift, and some rooms have round beds and baths in the bedroom**, so ask what you are getting before you book. Our full [Notting Hill and Bayswater hotel guide](/articles/where-to-stay-notting-hill/) covers Bayswater's cheaper streets too.
 
 ### Hampstead — 800 acres of heath at half the price of Chelsea
 
@@ -378,7 +378,7 @@ Charlotte Street is the densest run of restaurants in central London and the are
 
 *One of Sanderson's rooms, opening onto its own terrace.*
 
-**[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 with a private screening room, on the restaurant street itself.
+**[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 with a private screening room, on the restaurant street itself. To sleep at the station instead, our [King's Cross hotel guide](/articles/where-to-stay-kings-cross/) compares the hotels around St Pancras.
 
 ![A Charlotte Street Hotel room with star-patterned blue walls and ceiling, and a richly patterned arched headboard](../../assets/articles/best-areas-to-stay-in-london/charlotte-street-hotel.jpg)
 

@@ -38,7 +38,18 @@ const poundsIn = (s?: string) => {
   return Number.isFinite(n) && n > 0 ? n : undefined;
 };
 
-const guides = (await getCollection("articles"))
+const allArticles = await getCollection("articles");
+// An area's hotel guide, where one exists: where-to-stay-<area>, with Soho's
+// published under its West End name. The table links the hotel guide first,
+// because this page is about where to sleep; the area guide stays one click away.
+const published = new Set(allArticles.filter((a) => !a.data.draft).map((a) => a.id));
+const STAY_SLUG_OVERRIDES: Record<string, string> = { "soho-area-guide": "where-to-stay-soho-west-end" };
+const stayGuideFor = (areaId: string) => {
+  const slug = STAY_SLUG_OVERRIDES[areaId] ?? `where-to-stay-${areaId.replace(/-area-guide$/, "")}`;
+  return published.has(slug) ? slug : undefined;
+};
+
+const guides = allArticles
   .filter((a) => a.data.area && !a.data.draft)
   .map((a) => {
     const mine = hotels.filter((h) => h.guide === a.id);
@@ -55,6 +66,7 @@ const guides = (await getCollection("articles"))
     const prices = rooms.map((h) => poundsIn(h.typicalFrom)).filter((n): n is number => n !== undefined);
     return {
       id: a.id,
+      stay: stayGuideFor(a.id),
       name: a.data.area!.name,
       zone: a.data.area!.zone,
       vibe: a.data.area!.vibe,
@@ -212,7 +224,11 @@ const faq = [
           <tbody>
             {guides.map((g) => (
               <tr>
-                <td><a href={`/articles/${g.id}/`}>{g.name}</a>{g.budgetBeds > 0 && <span class="stay-chip">beds &amp; pods</span>}</td>
+                <td>
+                  <a href={`/articles/${g.stay ?? g.id}/`}>{g.name}</a>
+                  {g.stay && <a class="stay-area-link" href={`/articles/${g.id}/`}>area guide</a>}
+                  {g.budgetBeds > 0 && <span class="stay-chip">beds &amp; pods</span>}
+                </td>
                 <td>{g.zone}</td>
                 <td class="n">{g.from ? `£${g.from}` : "—"}</td>
                 <td class="n">{g.count}</td>
@@ -287,5 +303,13 @@ const faq = [
     text-transform: uppercase;
     letter-spacing: 0.05em;
     opacity: 0.75;
+  }
+
+  .stay-table .stay-area-link {
+    display: block;
+    width: fit-content;
+    font-size: 0.78rem;
+    color: var(--muted);
+    text-decoration-color: currentColor;
   }
 </style>
