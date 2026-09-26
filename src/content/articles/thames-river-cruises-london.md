@@ -187,8 +187,13 @@ Party boats and the rest of the night are in our [New Year's Eve in London guide
 - **Thames River Boats:** the historic boats cannot take a motorised wheelchair, and the Richmond and Hampton Court piers are reached by steps ([policy](https://www.thamesriverboats.co.uk/river-tour-information/disabled-policy)).
 - For step-free routes to the piers, see [step-free London](/articles/step-free-london/).
 
-## Before or after the boat
+## What is by the main piers
 
-The river is as good from the bank. Our [Thames walks](/articles/london-walks-along-the-thames/) include the [South Bank walk](/articles/south-bank-walk/) between the two busiest piers, and the [South Bank area guide](/articles/south-bank-area-guide/) covers what is around London Eye and Bankside piers. The [Tower of London](/articles/tower-of-london-guide/) is beside Tower Pier. For the skyline from above, see the [best views in London](/articles/best-views-london/).
+- **London Eye Pier:** the London Eye and the South Bank. Our [South Bank walk](/articles/south-bank-walk/) passes it between Westminster Bridge and Tower Bridge, and the [South Bank area guide](/articles/south-bank-area-guide/) covers the rest.
+- **Bankside Pier:** Tate Modern and Shakespeare's Globe.
+- **Tower Pier:** beside the [Tower of London](/articles/tower-of-london-guide/) and Tower Bridge.
+- **Greenwich Pier:** beside the Cutty Sark, with the Royal Observatory up the hill in Greenwich Park; see our [Greenwich area guide](/articles/greenwich-area-guide/).
+
+To walk the river instead of sailing it, our [Thames walks](/articles/london-walks-along-the-thames/) follow the banks between these piers.
 
 *Prices, timetables and sailings are from each operator's own booking pages in September 2026. City Cruises and Thames River Sightseeing change price by date and demand.*
