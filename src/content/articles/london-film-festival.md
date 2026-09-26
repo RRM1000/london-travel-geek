@@ -22,13 +22,13 @@ faq:
   - q: "When do London Film Festival tickets go on sale?"
     a: "They went on general sale at 10am on Thursday 17 September 2026, after BFI Patrons booked from 9 September and Members from 10 September. Tickets are on sale now, and the BFI's ticket availability page lists what is not yet full. The next release of held-back tickets is at 10am on Thursday 1 October, and more go online at 10am each morning during the festival."
   - q: "How much are London Film Festival tickets?"
-    a: "Tickets start at £10, and £6 for anyone 25 and under. Standard screenings are £13 for weekday matinees before 5pm and £18 for evenings and weekend matinees. Gala premieres are £21 to £30, the Opening and Closing Night Galas £40, the Surprise Film £21, and Relaxed screenings are always £6. Add a £1 booking fee, which BFI Members and Patrons do not pay."
+    a: "Tickets start at £10, and £6 for 16 to 25 year olds with a BFI 25 & Under account. Standard screenings are £13 for weekday matinees before 5pm and £18 for evenings and weekend matinees. Gala premieres are £21 to £30, the Opening and Closing Night Galas £40, the Surprise Film £21, and Relaxed screenings are always £6. Add a £1 booking fee, which BFI Members and Patrons do not pay."
   - q: "Is there a cheap London Film Festival ticket for under-25s?"
     a: "Yes. BFI 25 & Under is free to join for anyone aged 16 to 25, and gets you £6 tickets to London Film Festival screenings. It is a different rate from the £4 the same scheme gets you for regular year-round screenings at BFI Southbank, so do not be surprised when festival tickets come up at £6."
   - q: "Is BFI Membership worth it for the London Film Festival?"
     a: "Not for this year's booking, which has opened to everyone. Membership is £44 a year by direct debit, and what it saves you now is the £1-a-ticket booking fee, capped at £3 a transaction and not charged at all at the box office. It makes financial sense if you also use BFI Southbank the rest of the year, because it includes two free standard Southbank tickets and up to £2.50 off. Bought now, its festival benefit is the priority window for the 2027 edition."
   - q: "How do you get tickets for a sold-out London Film Festival screening?"
-    a: "Four routes. Extra tickets are released online at 10am on 1 October and again at 10am each morning during the festival. Returned tickets appear on Twickets, which caps resale at face value. At the venue, ask at the box office 45 minutes before the screening for returns. If there are none, join the standby queue 30 minutes before — standby tickets are released 15 minutes before the film starts."
+    a: "Four routes. Extra tickets are released online at 10am on 1 October and again at 10am each morning during the festival, and more £10 tickets go on sale every Friday at 1pm. Returned tickets appear on Twickets, which caps resale at face value. At the venue, ask at the box office 45 minutes before the screening for returns. If there are none, join the standby queue 30 minutes before — standby tickets are released 15 minutes before the film starts."
   - q: "Where does the London Film Festival take place?"
     a: "Across seven London venues in 2026: BFI Southbank, BFI IMAX, the Royal Festival Hall (which hosts the galas), Curzon Soho, the Prince Charles Cinema, the ICA and Vue West End. Selected films also screen at partner cinemas around the UK and stream on BFI Player."
   - q: "Can you resell a London Film Festival ticket you cannot use?"
@@ -68,7 +68,7 @@ Two things follow from this. The first is that membership no longer buys a head 
 
 ## What it costs
 
-**Tickets start at £10, or £6 if you are 25 or under**, plus a £1-a-ticket booking fee online and by phone, capped at £3 a transaction. Buy at the BFI Southbank box office and there is no fee at all; Members and Patrons never pay it. These are the confirmed 2026 prices, from the festival's own booking page:
+**Tickets start at £10, or £6 if you are 16 to 25**, plus a £1-a-ticket booking fee online and by phone, capped at £3 a transaction. Buy at the BFI Southbank box office and there is no fee at all; Members and Patrons never pay it. These are the confirmed 2026 prices, from the festival's own booking page:
 
 | Screening type | 2026 price |
 | --- | --- |
@@ -82,11 +82,11 @@ Two things follow from this. The first is that membership no longer buys a head 
 | Surprise Film | £21 |
 | Family strand | £10 adult, £6 child |
 | Relaxed screenings | £6 |
-| **Anyone 25 and under, anything** | **£6** |
+| **16 to 25 year olds, anything** | **£6** |
 
 Two prices for 2026 are already fixed, and both are fundraising tickets rather than ordinary admission: **£1,000** for the Opening Night Gala, which includes red-carpet arrival and receptions either side of the film, and **£250** for the Closing Night Gala, which does not. These exist to raise money for the BFI. They are not the normal way in, and standard gala tickets for both films go on sale with everything else.
 
-### If you are 25 or under, read this first
+### If you are 16 to 25, read this first
 
 **BFI 25 & Under is free to join, open to anyone aged 16 to 25, and makes London Film Festival tickets £6.**
 
