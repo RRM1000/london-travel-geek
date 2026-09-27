@@ -2,12 +2,8 @@
 title: "Where to Stay Near Wembley Stadium and OVO Arena: The Bases That Get You Home"
 seoTitle: "Where to Stay Near Wembley Stadium & OVO Arena"
 description: "The best bases for a Wembley gig or match, compared by door-to-door time and the trip home: Harrow and Finchley Road at 29 minutes, Baker Street at 35, Watford no quicker than Waterloo. Plus the hotels in each, and why a Wembley room triples on an event night."
-heroImage: "../../assets/articles/where-to-stay-near-wembley-stadium/wembley-park-station.jpg"
-heroImageAlt: "The wide granite steps up to Wembley Park station under its white canopy and WEMBLEY PARK lettering, with an Underground roundel on the right"
-heroImageCredit: "Ewan Munro"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Wembley_Park_station_(9314814176).jpg"
-heroImageLicense: "CC BY-SA 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+heroImage: "../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-wembley-stadium-exterior.jpg"
+heroImageAlt: "Premier Inn London Wembley Stadium, a tall grey block with purple Premier Inn signs, beside the London Designer Outlet under a blue sky"
 publishedAt: 2026-09-24
 reviewBy: 2026-10-19
 sites: [london]
@@ -84,6 +80,10 @@ On an ordinary night a Wembley room is cheap by London standards: the Novotel wa
 </div>
 
 *A double at Premier Inn Wembley Stadium.*
+
+![Premier Inn London Wembley Stadium, a tall grey block with purple Premier Inn signs, beside the London Designer Outlet under a blue sky](../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-wembley-stadium-exterior.jpg)
+
+*Premier Inn Wembley Stadium, by the London Designer Outlet.*
 
 **Premier Inn London Wembley Park** · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-wembley-park.html). A different hotel, at 151 Wembley Park Drive, HA9 8HQ, **180 metres from Wembley Park station**, so after the show you walk to it instead of queueing for a train. It has its own car park: **£15 per 24 hours** for guests, more on event days, first come first served. Not to be confused with the Wembley Stadium branch above.
 
