@@ -68,7 +68,7 @@ const cardProps = (article: SiteArticle) => ({
   imageAlt: article.data.heroImageAlt,
   tags: article.data.tags,
   date: article.data.updatedAt ?? article.data.publishedAt,
-  isNew: isRecentlyPublished(article.data.publishedAt),
+
 });
 ---
 
