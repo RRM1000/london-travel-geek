@@ -69,3 +69,4 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - Heroes are landscape, at least 1.3:1; the build enforces it. Portrait shots go in the body.
 - A photo promoted to hero also stays beside its entry in the list.
 - Every placed photo is checked by eye against its caption before it ships.
+- A caption is one short, plain line saying what and where: "The Christmas tree at Battersea Power Station." No dates, no "in a previous year", no inventory of everything in the frame. If an old photo would mislead, leave it out.
