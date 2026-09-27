@@ -62,8 +62,6 @@ Canary Wharf is two minutes from North Greenwich, the first stop on the westboun
 
 </div>
 
-*This room's bathroom sits behind a glass partition rather than a solid wall, and the room has a floor-to-ceiling window.*
-
 **[Locke London Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites at 1 Cartier Circle, E14 5HF, five minutes' walk from the station, each with a kitchenette, at a mid-range rate. The front desk is open 24 hours and keeps luggage free on your arrival and departure days, which matters here: The O2 admits nothing bigger than an A4 bag. LUQA, its restaurant, serves from morning coffee to evening drinks.
 
 <div class="photo-row">
@@ -73,8 +71,6 @@ Canary Wharf is two minutes from North Greenwich, the first stop on the westboun
 ![A basin at Locke London Canary Wharf: a white square sink on a pink terrazzo counter, sage tiles with a brass trim, a round mirror and a brass towel rail](../../assets/articles/where-to-stay-near-the-o2/locke-canary-wharf-bathroom.jpg)
 
 </div>
-
-*A studio with the bed framed in timber and a sofa alongside, so there's somewhere to sit that isn't the bed.*
 
 ### Canning Town and East India: one stop east, the cheapest beds
 
@@ -90,8 +86,6 @@ Canning Town is two minutes the other way, and it's the DLR interchange for the 
 
 </div>
 
-*A standard double, and the step-free wet room with grab rails and a fold-down seat from one of the accessible rooms.*
-
 **[Travelodge London Docklands Central](https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel)** is a new-build tower at 1 Oregano Drive, E14 2AE, six minutes' walk from East India, one DLR stop from Canning Town. It was the cheapest hotel in our budget guide, **£34.99** on an October Sunday and **£81.99 to £111.99** on Saturdays. Parking is **£13 for 24 hours**, if you're driving and would rather not use The O2's car park. Door to door, 24 minutes.
 
 <div class="photo-row">
@@ -101,8 +95,6 @@ Canning Town is two minutes the other way, and it's the DLR interchange for the 
 ![The ensuite at Travelodge London Docklands Central: white panelled walls, a shower tray behind a blue ombré curtain, a wall-hung basin and a wide mirror](../../assets/articles/where-to-stay-near-the-o2/travelodge-docklands-central-bathroom.jpg)
 
 </div>
-
-*A double with a desk and armchair, and a shower tray with a curtain rather than a bath.*
 
 ### Royal Docks and ExCeL: across the water, with a change
 
@@ -118,8 +110,6 @@ The Royal Victoria Dock hotels sit around ExCeL. The DLR takes two to five minut
 
 </div>
 
-*The standard room is barely wider than its bed, with the window over the dock alongside it; the bathroom shown is from an accessible room.*
-
 **[Aloft London ExCeL](hotel:aloft-london-excel)** is about **£115**, at Eastern Gateway, E16 1FR, the far end of ExCeL from the cable car. Prince Regent DLR is two minutes away and The O2 23 minutes door to door. It has an indoor pool.
 
 <div class="photo-row">
@@ -130,8 +120,6 @@ The Royal Victoria Dock hotels sit around ExCeL. The DLR takes two to five minut
 
 </div>
 
-*Two tall windows and a wood floor in the room; the basin sits in the open by the door, outside the glass-screened shower.*
-
 ### Stratford: where the Jubilee starts
 
 Stratford is the Jubilee's eastern terminus, three stops and seven to nine minutes from North Greenwich, so you board where the trains start. It's also on the Central, Elizabeth and Overground lines, with Westfield and the Olympic Park beside the station. Our [Stratford area guide](/articles/stratford-area-guide/) covers the neighbourhood, and the [London Stadium guide](/articles/london-stadium-travel-guide/) the other big venue here.
@@ -140,13 +128,9 @@ Stratford is the Jubilee's eastern terminus, three stops and seven to nine minut
 
 ![A room at Hyatt Regency London Stratford with a king bed against a tan leather headboard and brass reading lamps, a navy fabric feature wall, a blue sofa and bench, and an open wardrobe with a bathrobe by the door](../../assets/articles/where-to-stay-near-the-o2/hyatt-regency-stratford-room.jpg)
 
-*A king room with a sofa at the bedside and a bench at the foot of the bed.*
-
 **[Moxy London Stratford](hotelscom:h19544649)** is Marriott's Moxy brand at 86 Great Eastern Road, E15 1GR, three minutes from Stratford station. It was a typical **£143**: **£99** on an October Sunday, **£143 to £199** on Saturdays. Door to door, 25 minutes.
 
 ![A double room at Moxy London Stratford with a padded charcoal headboard on a wood strip, white-shaded wall lamps, a grey swivel chair, a magenta pouffe and a window looking over trees and distant towers](../../assets/articles/where-to-stay-near-the-o2/moxy-london-stratford-room.jpg)
-
-*A double with a window and a swivel armchair.*
 
 **[Premier Inn London Stratford](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-stratford.html)** is at 9 International Square inside Westfield, E20 1EE, five minutes from the station. It was a typical **£134**, from **£71** on an October Sunday to **£203** on a December Saturday. The Social, its bar and restaurant, is open 24 hours a day. There's no hotel parking; Westfield's car park charges £25 for 24 hours.
 
@@ -157,8 +141,6 @@ Stratford is the Jubilee's eastern terminus, three stops and seven to nine minut
 ![The bathroom at Premier Inn London Stratford: a walk-in shower behind a single glass screen with a rainfall head, a plum glass wall panel, and a white basin unit under a wide mirror](../../assets/articles/where-to-stay-near-the-o2/premier-inn-stratford-bathroom.jpg)
 
 </div>
-
-*A double with a desk and armchair, and a walk-in shower with a rainfall head rather than a bath.*
 
 ### Greenwich town: the historic base, and bus only
 
@@ -174,8 +156,6 @@ There is no train between Greenwich and North Greenwich. The **188** and **129**
 
 </div>
 
-*A king room with two tall windows over the rooftops; this bathroom has a glass-walled shower, not a bath.*
-
 **[Zedwell Greenwich](hotel:zedwell-greenwich)** is **£66 to £145** for a Cocoon 2, a soundproofed room with its own bathroom and no window. A Cocoon 4 starts at **£117**, with two double beds as a bunk, so it suits two couples rather than a family of four. A 188 stop is three minutes' walk from its SE8 3FB address, and the ride back from The O2 is about 22 minutes. Early check-in costs £25.
 
 <div class="photo-row">
@@ -186,8 +166,6 @@ There is no train between Greenwich and North Greenwich. The **188** and **129**
 
 </div>
 
-*No window, just soft strip lighting round the bed; the ensuite is compact but private.*
-
 ### London Bridge and Southwark: the central fallback
 
 London Bridge is four stops and eight or nine minutes west of North Greenwich, about 25 minutes door to door, and Southwark one stop further. Both have the Night Tube on Fridays and Saturdays. Our [South Bank](/articles/where-to-stay-south-bank/) and [Bermondsey](/articles/where-to-stay-bermondsey/) guides cover more hotels on this stretch of the Jubilee.
@@ -195,8 +173,6 @@ London Bridge is four stops and eight or nine minutes west of North Greenwich, a
 **[Shangri-La The Shard](hotel:shangri-la-the-shard)** is about **£550**, with 202 rooms from level 34, two minutes from London Bridge station. The entry-level Superior rooms face south, away from the river; the City View grades face the Thames and St Paul's.
 
 ![A corner room high in Shangri-La The Shard with floor-to-ceiling windows looking down on the Tower of London and east along the river to Canary Wharf, a beige armchair and marble side table by the glass](../../assets/articles/where-to-stay-near-the-o2/shangri-la-the-shard-room.jpg)
-
-*This room looks north-east over the Tower of London to Canary Wharf, not the south view of the entry-level Superiors.*
 
 **[citizenM London Bankside](hotel:citizenm-bankside)** ran **£155 to £251** across five sampled nights: 192 identical rooms at 20 Lavington Street, SE1 0NZ, each with a wall-to-wall bed, for up to two adults. Southwark station is six minutes' walk away and The O2 about half an hour door to door.
 
@@ -207,8 +183,6 @@ London Bridge is four stops and eight or nine minutes west of North Greenwich, a
 ![An accessible bathroom at citizenM London Bankside with a wall-hung basin, grab rails, a red emergency cord and a door open onto the bedroom's red swivel chair](../../assets/articles/where-to-stay-near-the-o2/citizenm-bankside-bathroom.jpg)
 
 </div>
-
-*The bed fills the window end wall to wall; the bathroom shown is from an accessible room.*
 
 **[St Christopher's Village](hotel:st-christophers-village)** is a hostel at 161–165 Borough High Street, SE1 1HR, where a private Double Capsule for two runs **£53 to £166**. Check-in is open until 2am, which suits a late show, and Belushi's bar is downstairs. Door to door, about 30 minutes.
 
@@ -257,8 +231,6 @@ For a three-day international sporting event at the arena, the same InterContine
 
 </div>
 
-*A river-facing room looking straight across the Thames to Canary Wharf; this bathroom has both a bath and a separate shower.*
-
 **[Holiday Inn Express London – Greenwich](hotel:holiday-inn-express-greenwich-peninsula)** is on Bugsby's Way at the south end of the peninsula, about 15 minutes' walk from The O2 and North Greenwich station, or a short ride on the 161 or 180 bus. Breakfast is included, it has family rooms, and parking is £35 a day.
 
 <div class="photo-row">
@@ -268,8 +240,6 @@ For a three-day international sporting event at the arena, the same InterContine
 ![The ensuite at Holiday Inn Express London – Greenwich: white marble-effect tiles with a patterned border, a corner basin with a teal splashback, a glass shelf and a glass-doored shower cubicle](../../assets/articles/where-to-stay-near-the-o2/holiday-inn-express-greenwich-bathroom.jpg)
 
 </div>
-
-*A twin with two single beds, and a shower cubicle rather than a bath.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-near-the-o2-before-the-show" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="145554,786079,1064445"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

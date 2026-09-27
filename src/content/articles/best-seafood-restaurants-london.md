@@ -82,7 +82,7 @@ Sit at the counter for half a dozen and the fish pie rather than booking the din
 
 ![A silver platter on crushed ice holding a dozen oysters, a razor clam, a dressed scallop in its shell and lemon wedges](../../assets/articles/best-seafood-restaurants-london/j-sheekey-shellfish-platter.jpg)
 
-*The crustacea counter at J Sheekey — oysters, a razor clam and a scallop dressed in its shell. This is what to order at the bar rather than a table.*
+*The crustacea counter at J Sheekey.*
 
 **Book:** [j-sheekey.co.uk](https://j-sheekey.co.uk/) · 28–34 St Martin's Court, WC2N 4AL
 
@@ -92,13 +92,13 @@ Sit at the counter for half a dozen and the fish pie rather than booking the din
 
 **Trading since 1851**, and the grandest seafood dining room in London — the Mount Street room where Mayfair goes to be seen eating crustacea. Hot Dinners describes it as a gold-plated celebrity hangout that also happens to be one of London's oldest restaurants; both halves are true.
 
-There is a second site in Richmond with a Thames view, which The Infatuation rates for a long lunch.
+There is a second site in Richmond with a Thames view, which The Infatuation rates for a long lunch. Sit at the crustacea counter rather than at a table.
 
 Two policies worth knowing before you book: **under-sixes are admitted only at weekend and holiday lunch**, and from May 2026 it takes **assistance dogs only**.
 
 ![The awnings and frontage of Scott's on Mount Street](../../assets/articles/best-seafood-restaurants-london/scott-s.jpg)
 
-*Mayfair's grand fish restaurant, and the crustacea counter is the thing to sit at. Photo: [La Citta Vita](https://www.flickr.com/photos/49539505@N04/12620350394), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Photo: [La Citta Vita](https://www.flickr.com/photos/49539505@N04/12620350394), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 **Book:** [scotts-restaurant.com](https://scotts-restaurant.com/) · 20 Mount Street, W1K 2HE
 
@@ -126,7 +126,7 @@ Sit at the oyster bar downstairs unless you want the full dinner.
 
 ![A whole plaice on the bone in a butter and parsley sauce, scattered with brown shrimp and diced cucumber, with a lemon half](../../assets/articles/best-seafood-restaurants-london/wright-brothers-plaice.jpg)
 
-*Whole plaice with brown shrimp and cucumber at Wright Brothers Borough. The specials board changes with the boat, so this is the kind of thing to look for rather than the thing to order.*
+*Whole plaice at Wright Brothers.*
 
 ### Seabird, South Bank
 
@@ -144,13 +144,13 @@ The proposition is oysters and the view: it claims **London's longest oyster lis
 
 **Founded in 1742**, which makes it older than everything else in this guide by more than a century — it started as George William Wilton's shellfish stall near the Haymarket.
 
-A marble-topped oyster bar, Dover sole meunière and a carving trolley, none of it modernised because there is no reason to. Saturday is dinner only, and Sunday it shuts.
+A marble-topped oyster bar, Dover sole meunière and a carving trolley, none of it modernised because there is no reason to. It keeps a dress code, too. Saturday is dinner only, and Sunday it shuts.
 
 > **It does not hold a Michelin star.** What it holds is a Michelin Guide listing, which several guides report as a star.
 
 ![The frontage of Wiltons Restaurant on Jermyn Street at night](../../assets/articles/best-seafood-restaurants-london/wiltons.jpg)
 
-*Trading since 1742. Oysters, game and a dress code that is not entirely a joke. Photo: [Spudgun67](https://commons.wikimedia.org/w/index.php?curid=72552746), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Wiltons, Jermyn Street. Photo: [Spudgun67](https://commons.wikimedia.org/w/index.php?curid=72552746), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 **Book:** [wiltons.co.uk](https://wiltons.co.uk/) · 55 Jermyn Street, SW1Y 6LX
 
@@ -176,7 +176,7 @@ The critics' favourite among the small fish rooms — an award, two mastheads an
 
 ![A round platter of ice holding oysters, mussels, clams, langoustines, a crab claw, smoked salmon and dressed crab, with three dipping sauces in the middle](../../assets/articles/best-seafood-restaurants-london/the-seafood-bar-fruits-de-mer.jpg)
 
-*The fruits de mer at The Seafood Bar. This is the one for two people, and it is the reason the rest of the room keeps looking over.*
+*The fruits de mer at The Seafood Bar.*
 
 ### Randall & Aubin, Soho
 

@@ -75,7 +75,7 @@ If you want to know what the judges rewarded rather than what the critics recomm
 
 ![Fried chicken tenders on branded chicken shop paper beside crinkle-cut fries and a rice bowl under a thick orange sauce, on a metal tray](../../assets/articles/best-fried-chicken-london/20ft-fried-chicken.jpg)
 
-*The national champion, served off a metal tray on a side street behind Oxford Street. No masthead in this pass names it.*
+*20Ft Fried Chicken, off Oxford Street.*
 
 ### Chick'N'Sours — joint second, and it is at the Big Chill
 
@@ -83,7 +83,7 @@ If you want to know what the judges rewarded rather than what the critics recomm
 
 ![A spread of Chick'N'Sours dishes on a wooden board - a fried chicken sandwich, hot-sauced wings, seasoned fries, watermelon salad and dipping sauces](../../assets/articles/best-fried-chicken-london/chick-n-sours-spread.jpg)
 
-*The full spread, served seven days a week at the Big Chill.*
+*Chick'N'Sours, at the Big Chill.*
 
 **Go to the Big Chill at King's Cross.** Seven independent sources name Chick'N'Sours and a national panel placed it joint second, and the Big Chill is where you eat it — the full menu, seven days, across a three-floor bar with a roof terrace.
 
@@ -95,7 +95,7 @@ There is a second kitchen at Corner Corner in Canada Water, but it runs Thursday
 
 ![Six buttermilk-fried chicken tenders on a metal tray lined with Butchies branded paper, with a cup of cheese fries and mayonnaise sachets](../../assets/articles/best-fried-chicken-london/butchies-tenders.jpg)
 
-*The tenders rather than the sandwich - which is what Time Out says to order here, at a place built on burgers.*
+*Butchies' tenders, Shoreditch.*
 
 Tied with Chick'N'Sours on points, and the only one of the top three you can walk into as an ordinary restaurant. It is known for buttermilk-fried **chicken sandwiches** — but Time Out's verdict is that **the tenders are the better order**, which is an unusual thing for a source to say about a place built on burgers.
 
@@ -123,7 +123,7 @@ Order ahead for collection on its own site, or just walk up. It sits inside the 
 
 ![A paper bag of Taiwanese popcorn chicken held in one hand on a busy street, with wooden chopsticks pushed into it](../../assets/articles/best-fried-chicken-london/good-friend-popcorn-chicken.jpg)
 
-*Popcorn chicken from the yellow shopfront on Little Newport Street. There is nowhere to sit - you eat it walking.*
+*Good Friend, Little Newport Street.*
 
 **Seven independent sources — five mastheads and two YouTube channels — name this Taiwanese counter, more than anything else in the city.** No judge has given it anything, which is the mirror image of 20Ft.
 
@@ -149,7 +149,7 @@ A rain-or-shine Tottenham takeaway that four sources treat as a destination rath
 
 ![Fried chicken pieces, some crumbed red and some plain, piled over chips in a takeaway box with a pot of red sauce](../../assets/articles/best-fried-chicken-london/chick-king.jpg)
 
-*Chicken over chips in a box, which is the whole operation — there is nowhere to sit. Fried hard enough to stay crunchy without going greasy.*
+*Chick King, Tottenham.*
 
 ### La Barra — Colombian, and enormous
 
@@ -177,7 +177,7 @@ A Thai restaurant, and the **chilli fish sauce wings** are why it appears in a f
 
 ![Glazed chicken wings on a pink oval plate, scattered with coriander, sliced red chilli and shallot in a pool of orange fish sauce dressing](../../assets/articles/best-fried-chicken-london/smoking-goat-wings.jpg)
 
-*The chilli fish sauce wings, and the reason a Thai restaurant is in a fried chicken guide. Sweet, sour and sharp rather than battered and salted.*
+*Smoking Goat's chilli fish sauce wings.*
 
 ### Bao — Taiwanese fried chicken as a bar snack
 
@@ -193,7 +193,7 @@ The order is **Taiwanese fried chicken in hot sauce, £9.25 for five pieces**, o
 
 ![A metal tray of Korean fried chicken wings glazed and topped with crisp fried shallots, on newspaper](../../assets/articles/best-fried-chicken-london/chick-and-beers-wings.jpg)
 
-*Double-fried, then glazed and topped with fried shallots. New Malden, and worth the journey out.*
+*Chick and Beers, New Malden.*
 
 Family-owned, and the local reference point. The chicken is **double-fried** for the crackle that technique exists to produce, and the batter lands between rugged and glossy. **Sticky nuggets** are the order.
 

@@ -133,7 +133,7 @@ This is the day a three-day trip has to bolt onto the Tower. Given a whole day y
 
 ![A cheese stall at Borough Market with large wheels stacked behind the counter](../../assets/articles/five-days-in-london-itinerary/borough-market-cheese-stall.jpg)
 
-*Borough is a lunch, not a dinner. It shuts at 5pm most days and 4pm on Sunday, and it is closed on Mondays.*
+*Borough Market.*
 
 ### Borough Market, early
 
@@ -205,7 +205,7 @@ Greenwich Pier lands you a minute from the Cutty Sark, and everything below is w
 
 ![The view from Greenwich Hill over the Old Royal Naval College to Canary Wharf beyond](../../assets/articles/five-days-in-london-itinerary/greenwich-hill-view.jpg)
 
-*The view from the Observatory hill, which costs nothing. It is the reason to give Greenwich a whole day rather than a morning.*
+*The view from Greenwich Park.*
 
 ### Getting back
 

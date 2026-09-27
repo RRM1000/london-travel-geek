@@ -71,7 +71,7 @@ The ground floor is a Guinness pub and a good share of the queue is there for th
 
 ![The frontage of The Devonshire pub on Denman Street in Soho](../../assets/articles/best-sunday-roast-london/the-devonshire-soho.jpg)
 
-*The ground floor is a Guinness pub and the roast is upstairs. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Devonshire,_Soho,_W1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*The Devonshire, Soho. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Devonshire,_Soho,_W1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### The Red Lion & Sun, Highgate
 
@@ -91,7 +91,7 @@ The roast itself is a straight, serious one: **beef cooked pink, dripping-roaste
 
 </div>
 
-*Beef pink, potatoes roasted in dripping, a Yorkshire taller than the plate is deep — the same either time you order it, Guinness included.*
+*The roast at The Red Lion & Sun.*
 
 **Book:** [a table on ResDiary](https://booking.resdiary.com/widget/Standard/TheRedLionandSun/15205) · **four minutes from The Bull**
 
@@ -113,7 +113,7 @@ That combination — high placement, low price, no booking required — does not
 
 </div>
 
-*Left: the South Lambeth Road boozer that never rebranded, ranked eleventh in the country. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Canton_Arms,_South_Lambeth,_SW8_(3838932573).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Right: the Sunday roast itself.*
+*Canton Arms, Stockwell. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Canton_Arms,_South_Lambeth,_SW8_(3838932573).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### The Baring, Islington
 
@@ -139,10 +139,10 @@ The Sunday roast is served in the upstairs room, and the dish everyone remembers
 
 ![A sharing roast at The Marksman: beef and pork on a bed of carrot puree with charred hispi cabbage, under two large Yorkshire puddings, one filled with cauliflower cheese](../../assets/articles/best-sunday-roast-london/the-marksman-roast.jpg)
 
-*The upstairs room's version: carrot puree under the meat, charred cabbage rather than boiled, and a Yorkshire used as a bowl for the cauliflower cheese.*
+*The Sunday roast at The Marksman.*
 
 ![The Marksman pub on Hackney Road, with its tiled frontage](../../assets/articles/best-sunday-roast-london/the-marksman-hackney-road.jpg)
-*Two pubs in one building on Hackney Road: an unprettified local downstairs, the dining room above. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:The_Marksman_pub_254_Hackney_Road_2025-05-08.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Marksman, Hackney Road. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:The_Marksman_pub_254_Hackney_Road_2025-05-08.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 
 ### The Waterman's Arms, Barnes
@@ -191,7 +191,7 @@ The roast is a serious one: **beef cooked pink**, dripping-roasted potatoes, a l
 
 ![A roast at The Bull and Last: pink beef and roast potatoes in a deep pool of gravy with kale, a large Yorkshire pudding balanced on top](../../assets/articles/best-sunday-roast-london/bull-and-last-roast.jpg)
 
-*Kale rather than the usual greens, and enough gravy to justify the potatoes. The obvious end to a walk on the Heath.*
+*The roast at The Bull & Last.*
 
 ### The Camberwell Arms, Camberwell
 
@@ -203,7 +203,7 @@ Its ranking is more modest than its press: **#60, on the extended 51–100 list 
 
 ![A Sunday roast at The Camberwell Arms: sliced beef with a herb dressing, swede wedges and greens in gravy](../../assets/articles/best-sunday-roast-london/camberwell-arms-roast.jpg)
 
-*Beef with a herb dressing, swede wedges and greens, sauced properly rather than drizzled.*
+*The roast at The Camberwell Arms.*
 
 **The venue's site:** [thecamberwellarms.co.uk](https://thecamberwellarms.co.uk/)
 
@@ -227,7 +227,7 @@ A classic plated roast: beef, pork or a vegetarian option, **roast potatoes, Yor
 
 ![The Drapers Arms pub on a Barnsbury street at night, lit up with its Freehouse and Dining Room signage above the windows](../../assets/articles/best-sunday-roast-london/drapers-arms-islington.jpg)
 
-*The Drapers Arms on a Barnsbury evening — freehouse and dining room under one roof.*
+*The Drapers Arms, Islington.*
 
 **££, and it [books](https://www.opentable.co.uk/the-drapers-arms-reservations-london?rid=53308&restref=53308) a few days ahead rather than weeks**, which makes it the sensible option when the more fashionable rooms have gone.
 
@@ -304,7 +304,7 @@ The "All In" is a run of every cut on the menu, priced per head — one 2026 rev
 
 ![A bone-in chop at Blacklock, carved at the table, with confit potato and bacon-wrapped sausages alongside](../../assets/articles/best-sunday-roast-london/blacklock-chop.jpg)
 
-*A bone-in chop carved tableside, confit potato underneath and bacon-wrapped sausages on the side.*
+*Blacklock's bone-in chop.*
 
 **The venue's site:** [theblacklock.com](https://theblacklock.com/restaurants/blacklock-soho/) · **two minutes from The Devonshire**
 
@@ -318,7 +318,7 @@ The Sunday roast is the reason it appears here: a **rib of beef with bone-marrow
 
 ![Gravy being poured over a Sunday roast at Hawksmoor: beef, a Yorkshire pudding, roast potatoes, glazed carrots and greens](../../assets/articles/best-sunday-roast-london/hawksmoor-roast.jpg)
 
-*Bone-marrow gravy poured tableside over beef, a Yorkshire the size of the plate — and a bottle of red for the table.*
+*The Sunday roast at Hawksmoor.*
 
 **££££ and it [books](https://www.opentable.com/booking/experiences-availability?rid=11335&restref=11335&experienceId=682033) weeks ahead for Sunday.** Several London sites; the roast is served at all of them, unlike the breakfast.
 

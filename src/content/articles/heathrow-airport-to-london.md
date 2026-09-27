@@ -106,8 +106,6 @@ The **Heathrow Express** runs non-stop between Heathrow Central (Terminals 2 & 3
 
 ![The purple upholstered interior of a Heathrow Express carriage, with luggage racks and an overhead information screen](../../assets/articles/heathrow-airport/heathrow-express-interior.jpg)
 
-*Legroom and luggage space built for the journey it's designed for — not a commuter train pressed into airport service.*
-
 | Ticket Class | Walk-up Single | Advance Single *(30–90 days ahead)* | Return Ticket |
 | --- | ---: | ---: | ---: |
 | **Standard Class** | **£26.00** | **From £10.00** | **£30.00 – £42.00** |

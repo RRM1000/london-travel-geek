@@ -62,7 +62,7 @@ Two catches. **From Cocoon 4 upwards the beds are doubles in bunks** — a Cocoo
 
 ![A Cocoon room at Zedwell Piccadilly Circus, with the bed on a backlit wood plinth, a hat resting on the side shelf and a handbag and heels on the platform](../../assets/articles/where-to-stay-soho-west-end/zedwell-piccadilly-circus-room.jpg)
 
-*A Cocoon room at Zedwell Piccadilly Circus, on its backlit wood plinth.*
+*A Cocoon room, Zedwell Piccadilly Circus.*
 
 ### Zedwell Capsule Piccadilly Circus — £33 a night in the middle of the West End
 
@@ -76,7 +76,7 @@ The largest capsule hotel in the UK, on five floors of the Grade II London Pavil
 
 ![Two numbered Cocoon capsule berths at Zedwell Capsule Piccadilly Circus, each lit from within, with fold-down wooden steps beside them](../../assets/articles/where-to-stay-soho-west-end/zedwell-piccadilly-capsule-berths.jpg)
 
-*Numbered Cocoon berths at Zedwell Capsule Piccadilly Circus.*
+*Cocoon berths, Zedwell Capsule Piccadilly Circus.*
 
 ### Otherwander Soho — a Dean Street address, and nobody at the desk
 
@@ -96,7 +96,7 @@ Sold as **"nests"**, upper and lower, in singles and doubles, and the double gen
 
 </div>
 
-*A nest at Otherwander Soho, and the shared bathroom down the corridor.*
+*A nest at Otherwander Soho.*
 
 ### The Z Hotel Covent Garden — the cheapest room in the West End with a window
 
@@ -116,7 +116,7 @@ A hundred and thirteen compact rooms on Bedford Street, three minutes from both 
 
 </div>
 
-*A compact room at the Z Hotel Covent Garden, and its ensuite bathroom.*
+*A room at the Z Hotel Covent Garden.*
 
 ### Strand Palace — the big reliable one, and the one with availability
 
@@ -130,7 +130,7 @@ There is a complimentary gym, sixteen meeting rooms, and Haxells restaurant and 
 
 ![A guest room at the Strand Palace, with a dark upholstered headboard, a mirrored panel above it and two tan leather armchairs by the window](../../assets/articles/where-to-stay-soho-west-end/strand-palace-room.jpg)
 
-*A guest room at the Strand Palace, with a sitting area beside the window.*
+*A room at the Strand Palace.*
 
 ### Broadwick Soho — the best of the expensive ones
 
@@ -150,7 +150,7 @@ Eight grades run from Standard to the Penthouse, by way of Deluxe, Superior, Lux
 
 </div>
 
-*A bedroom at Broadwick Soho, with its animal-print wallpaper, and the green marble double-vanity bathroom.*
+*A bedroom at Broadwick Soho.*
 
 ### Ham Yard Hotel — the one built around a courtyard
 
@@ -174,7 +174,7 @@ Kit Kemp's interiors again, with a Fernando Botero cat in the lobby. Refuel is t
 
 ![The bathroom at The Soho Hotel, with book-matched grey marble walls, twin pedestal sinks and a marble-surrounded bathtub](../../assets/articles/where-to-stay-soho-west-end/the-soho-hotel-bathroom.jpg)
 
-*The marble bathroom at The Soho Hotel, with twin sinks and a separate bath and shower.*
+*The bathroom at The Soho Hotel.*
 
 ### Hotel Café Royal — the grandest, and by far the biggest rooms
 
@@ -208,13 +208,13 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 </div>
 
-*A bedroom at Sanderson London opening onto its own terrace, and the bathroom's vessel basin on a marble console.*
+*A bedroom at Sanderson London.*
 
 **[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 for fifty-two Firmdale rooms with one Michelin Key and a private screening room, standing **on Charlotte Street itself**, which means dinner is downstairs rather than across town. The full picture is in our [Fitzrovia area guide](/articles/fitzrovia-area-guide/).
 
 ![A bedroom at Charlotte Street Hotel, with star-patterned blue walls following a sloped attic ceiling and an ornate patterned headboard](../../assets/articles/where-to-stay-soho-west-end/charlotte-street-hotel-room.jpg)
 
-*A bedroom at Charlotte Street Hotel, set under a sloped attic ceiling with star-patterned walls.*
+*A bedroom at Charlotte Street Hotel.*
 
 ### Bloomsbury — the same windowless room for less
 
@@ -228,7 +228,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 </div>
 
-*A Cocoon room at Zedwell Tottenham Court Road, and its ensuite bathroom.*
+*A Cocoon room at Zedwell Tottenham Court Road.*
 
 **[Generator London](hotel:generator-london)** is about £26 a bed at 37 Tavistock Place, with dorms of four, six, eight and larger, female-only dorms, private rooms, shared bathrooms on every floor and a 24-hour reception. **It is a party hostel and says so**, with a bar running live music, sport and karaoke nights — the right choice if meeting people is the point of the trip and the wrong one before an early flight.
 
@@ -240,7 +240,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 </div>
 
-*A dorm room at Generator London, and the shared bathroom facilities down the hall.*
+*A dorm room at Generator London.*
 
 ### Mayfair — a W1K postcode at Zedwell money
 
@@ -248,13 +248,13 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 ![A Cocoon room at Zedwell Park Lane, with the bed on a backlit wood plinth, a shearling coat on the hook and trainers on the platform](../../assets/articles/where-to-stay-soho-west-end/zedwell-park-lane-room.jpg)
 
-*A Cocoon room at Zedwell Park Lane, on its backlit wood plinth.*
+*A Cocoon room at Zedwell Park Lane.*
 
 **[Native Mayfair](hotel:native-mayfair)** is the other approach: studios and apartments with **fully fitted kitchens** — fridge, freezer, dishwasher and a dining table — on a mews off Grosvenor Square, under ten minutes from Bond Street and its Elizabeth line platforms. Native files it under apartments for longer stays rather than under its aparthotels, so expect it to reward a week more than two nights. Our [aparthotels guide](/articles/aparthotels-london/) compares it with the rest.
 
 ![The bathroom at Native Mayfair, with a freestanding bathtub, a wood bath caddy and a walk-in glass shower alongside](../../assets/articles/where-to-stay-soho-west-end/native-mayfair-bathroom.jpg)
 
-*The bathroom at Native Mayfair, with a freestanding tub and a walk-in shower.*
+*The bathroom at Native Mayfair.*
 
 ### Marylebone — the calm one, ten minutes out
 
@@ -268,7 +268,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 </div>
 
-*A bedroom at Treehouse Hotel London, with its window seat over the skyline, and the bathroom's birch-branch feature wall.*
+*A bedroom at Treehouse Hotel London.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-soho-west-end-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

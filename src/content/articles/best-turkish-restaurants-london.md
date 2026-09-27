@@ -73,7 +73,7 @@ The ocakbaşı is still the engine — **lamb chops, adana and quail** off the c
 
 ![The frontage of Mangal II on Stoke Newington Road in Dalston](../../assets/articles/best-turkish-restaurants-london/mangal-ii-dalston.jpg)
 
-*Mangal II on Stoke Newington Road, run by the sons of the family behind Mangal 1 down the road. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Mangal_II,_Dalston,_N16.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Mangal II, Stoke Newington Road. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Mangal_II,_Dalston,_N16.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### Antepliler, Green Lanes
 
@@ -85,7 +85,7 @@ There is a separate **Antepliler Künefe & Patisserie** further along Green Lane
 
 ![The Antepliler restaurant frontage on Green Lanes in Harringay](../../assets/articles/best-turkish-restaurants-london/antepliler-green-lanes.jpg)
 
-*Antepliler on Green Lanes. The kitchen is from Gaziantep, which is why the kebabs and the pistachio work are what to order. Photo: [Ian S](https://commons.wikimedia.org/wiki/File:Antepliler_Restaurant,_Green_Lanes,_Harringay_-_geograph.org.uk_-_3873218.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Antepliler, Green Lanes. Photo: [Ian S](https://commons.wikimedia.org/wiki/File:Antepliler_Restaurant,_Green_Lanes,_Harringay_-_geograph.org.uk_-_3873218.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Gökyüzü, Green Lanes
 
@@ -127,13 +127,13 @@ Nine of the twenty-seven restaurants here are on or just off this one road. If y
 
 ![The frontage of a Turkish ocakbasi restaurant on Stoke Newington High Street](../../assets/articles/best-turkish-restaurants-london/ocakbasi-stoke-newington.jpg)
 
-*An ocakbasi on Stoke Newington High Street. The word means the charcoal grill is the restaurant — sit where you can see it. Photo: [Lucy Fisher](https://commons.wikimedia.org/wiki/File:Super_Ocakbasi_Restaurant,_Efe_Express_Ticaret_(8678907184).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*An ocakbasi on Stoke Newington High Street. Photo: [Lucy Fisher](https://commons.wikimedia.org/wiki/File:Super_Ocakbasi_Restaurant,_Efe_Express_Ticaret_(8678907184).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Hala, Green Lanes
 
 ![Women making gozleme in the window of Hala Restaurant on Green Lanes, Harringay, during the Green Lanes Festival](../../assets/articles/best-turkish-restaurants-london/green-lanes-hala.jpg)
 
-*Gozleme made in the window on Green Lanes, during the Green Lanes Festival.*
+*Gözleme at Hala.*
 
 *££ · Harringay · Cited by 2 sources*
 

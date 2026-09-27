@@ -102,7 +102,7 @@ Because most shows are sold by the venue, the fee is the venue's, and two of the
 
 ![The Charles Clore Ballroom on the ground floor of the Royal Festival Hall, an open space with a low stage and people standing to watch](../../assets/articles/london-jazz-festival/southbank-clore-ballroom-freestage.jpg)
 
-*The Clore Ballroom at the Royal Festival Hall — no ticket, no door, you walk in off the Southbank foyer. Photo: [Rod Allday](https://commons.wikimedia.org/wiki/File:The_Charles_Clore_Ballroom_in_the_Royal_Festival_Hall_-_geograph.org.uk_-_1575896.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Clore Ballroom at the Royal Festival Hall. Photo: [Rod Allday](https://commons.wikimedia.org/wiki/File:The_Charles_Clore_Ballroom_in_the_Royal_Festival_Hall_-_geograph.org.uk_-_1575896.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 This is the part of the festival most guides skip, and for a lot of people it is the whole trip. **Nineteen concerts cost nothing**, and they are not scraps: the South Asian Jazz afternoon at the Southbank Centre runs 2pm to 7.30pm across three acts and ends with a 30-piece orchestra.
@@ -129,7 +129,7 @@ Two more you pay what you want for: **Daylight Music** at St John's Leytonstone 
 
 ![The Silk Street entrance to the Barbican Centre, concrete walkways and the centre's name in white lettering above the doors](../../assets/articles/london-jazz-festival/barbican-centre-silk-street.jpg)
 
-*The Barbican's Silk Street entrance. The concert hall is three floors down from here, and the FreeStage is in the foyer. Photo: [Chris McKenna](https://commons.wikimedia.org/wiki/File:Barbican_Centre_-_Silk_Street_entrance_01.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*The Barbican's Silk Street entrance. Photo: [Chris McKenna](https://commons.wikimedia.org/wiki/File:Barbican_Centre_-_Silk_Street_entrance_01.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 
 82 buildings is too many to plan around, so start with the nine that carry 137 of the 332 shows between them.
@@ -150,19 +150,19 @@ The rest run from the Roundhouse and Union Chapel down to Idiot Books on Kensing
 
 ![The Vortex Jazz Club on Gillett Square in Dalston, its name in plain lettering above a first-floor window](../../assets/articles/london-jazz-festival/vortex-jazz-club-dalston.jpg)
 
-*The Vortex on Gillett Square — 13 listings and the cheapest serious jazz in the festival, from £6.60. The entrance is on Boleyn Road, not Kingsland Road. Photo: [Danny Robinson](https://commons.wikimedia.org/wiki/File:Vortex_Jazz_Club_-_geograph.org.uk_-_343852.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Vortex, Gillett Square. Photo: [Danny Robinson](https://commons.wikimedia.org/wiki/File:Vortex_Jazz_Club_-_geograph.org.uk_-_343852.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ![The exterior of Cadogan Hall on Sloane Terrace in Chelsea, a former Christian Science church in pale stone with a square tower](../../assets/articles/london-jazz-festival/cadogan-hall-chelsea.jpg)
 
-*Cadogan Hall, two minutes from Sloane Square. Bars open 90 minutes before the show and the auditorium doors 30 minutes before, which is worth knowing if you are eating first. Photo: [Anthony O'Neil](https://commons.wikimedia.org/wiki/File:At_the_Cadogan_Hall,_Chelsea_-_geograph.org.uk_-_7604826.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Cadogan Hall, Sloane Terrace. Photo: [Anthony O'Neil](https://commons.wikimedia.org/wiki/File:At_the_Cadogan_Hall,_Chelsea_-_geograph.org.uk_-_7604826.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ![Kings Place seen across Battlebridge Basin, its glass frontage above the water with a narrowboat moored in front](../../assets/articles/london-jazz-festival/kings-place-battlebridge-basin.jpg)
 
-*Kings Place backs onto Battlebridge Basin, a few minutes from King's Cross and step-free from the street. Hall One takes the bigger names; Hall Two runs £20 to £31. Photo: [ell brown](https://commons.wikimedia.org/wiki/File:Battlebridge_Basin_-_London_Canal_Museum_-_narrowboat_-_Tarporley_No_182_-_Kings_Place_-_20905675029.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Kings Place, on Battlebridge Basin. Photo: [ell brown](https://commons.wikimedia.org/wiki/File:Battlebridge_Basin_-_London_Canal_Museum_-_narrowboat_-_Tarporley_No_182_-_Kings_Place_-_20905675029.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ![The auditorium of the Royal Festival Hall from the rear stalls, tiers of seating curving round towards the stage](../../assets/articles/london-jazz-festival/royal-festival-hall-auditorium.jpg)
 
-*The Royal Festival Hall auditorium, where the Southbank galas are. The Clore Ballroom downstairs is the free half of the same building. Photo: [Anthony O'Neil](https://commons.wikimedia.org/wiki/File:Auditorium_-_geograph.org.uk_-_7707590.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Royal Festival Hall auditorium. Photo: [Anthony O'Neil](https://commons.wikimedia.org/wiki/File:Auditorium_-_geograph.org.uk_-_7707590.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 **The Jazz Social** is the closest thing the festival has to a hub. It takes over Unit 1B at CityPoint, 1 Ropemaker Street EC2Y 9AW — two minutes from Moorgate, entrance on Moor Lane — from **Monday 9 to Sunday 22 November**, opening before the festival does. Record shop, festival bar, merchandise, live radio and five gigs, four at £14 and one free. It opens at midday every day and closes at 11pm on the Sundays, midnight or 12.30am midweek and **1am on the Fridays and Saturdays**. It is **closed on Monday 16 November**. Full times are on [the festival's Jazz Social page](https://efglondonjazzfestival.org.uk/thejazzsocial).
 
@@ -174,7 +174,7 @@ The rest run from the Roundhouse and Union Chapel down to Idiot Books on Kensing
 
 ![Three musicians playing in the low, close room of the 606 Club, a double bass, drums and a saxophone under stage lighting](../../assets/articles/london-jazz-festival/606-club-chelsea-performance.jpg)
 
-*The 606 Club in Chelsea, which holds a restaurant licence — you book a table, not a seat. Photo: [Robert Smith](https://commons.wikimedia.org/wiki/File:Simon_Woolf,_Michelle_Drees_and_Steve_Rubie_at_606_Club.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*The 606 Club, Chelsea. Photo: [Robert Smith](https://commons.wikimedia.org/wiki/File:Simon_Woolf,_Michelle_Drees_and_Steve_Rubie_at_606_Club.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 
 **Both John Coltrane and Miles Davis were born in 1926**, and the 2026 programme is organised around that coincidence more than around anything else.
@@ -245,7 +245,7 @@ Six of the eleven land on the first two days, the Robert Glasper residency inclu
 
 ![A quartet performing on the small stage of the PizzaExpress Jazz Club basement in Soho, the audience seated at tables close to the band](../../assets/articles/london-jazz-festival/pizza-express-jazz-club-performance.jpg)
 
-*The basement at PizzaExpress Jazz Club on Dean Street, one of the rooms running late shows. Photo: [AndyScott](https://commons.wikimedia.org/wiki/File:Partikel_with_Natalie_Rosario_at_PizzaExpress_Jazz_Club,_Soho.jpg), CC0.*
+*PizzaExpress Jazz Club, Dean Street. Photo: [AndyScott](https://commons.wikimedia.org/wiki/File:Partikel_with_Natalie_Rosario_at_PizzaExpress_Jazz_Club,_Soho.jpg), CC0.*
 
 
 A 7.30pm concert finishing around 10pm is inside normal Tube service from every venue in this guide, including the 606 in Chelsea and the Vortex in Dalston. The late programme is where it matters.

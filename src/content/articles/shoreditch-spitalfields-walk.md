@@ -121,7 +121,7 @@ So "the 24-hour bagel place on Brick Lane" sends you to a street with two bagel 
 
 ![Market stalls filling Brick Lane beneath the railway bridge on a Sunday, crowds moving between them](../../assets/articles/shoreditch-area-guide/brick-lane-market-bridge.jpg)
 
-*Brick Lane under the railway bridge on a Sunday, a minute from both bagel shops. This is the same road on a Tuesday, minus every stall in the photograph.*
+*Brick Lane market, under the railway bridge.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-spitalfields-walk-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -148,7 +148,7 @@ Weekend hours across all of them are broadly **Saturday 11am–6pm and Sunday 10
 
 ![The black frontage of Rough Trade East on Dray Walk, its window display advertising new releases](../../assets/articles/shoreditch-area-guide/rough-trade-east.jpg)
 
-*Rough Trade East on Dray Walk, inside the brewery complex. Its own listing calls this the flagship UK store — 5,000 square feet, a bar, a photobooth, and live events seven days a week.*
+*Rough Trade East, Dray Walk.*
 
 **Rough Trade East is on Dray Walk**, inside the complex, and it is open daily. In-store gigs run on the stage at the back and the shop is free to walk into either way.
 
@@ -168,7 +168,7 @@ It is underground. You go down a neon-lit staircase off Brick Lane into the base
 
 ![Rails of vintage clothing and racks of shirts inside the Brick Lane vintage market](../../assets/articles/shoreditch-area-guide/brick-lane-vintage-rails.jpg)
 
-*The basement under 85 Brick Lane. Everything here is open seven days a week, which almost nothing else on this walk is.*
+*The Brick Lane Vintage Market.*
 
 <div data-stay-strip></div>
 
@@ -182,7 +182,7 @@ As with Redchurch Street, treat it as a walk rather than a checklist. Pieces get
 
 ![Two large mural faces with green rope-like hair and a pink nebula painted between them, on a Shoreditch corner](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
 
-*Nothing on these walls is permanent. This particular piece may well have gone; something else will be there.*
+*Street art near Hanbury Street.*
 
 ## 8. Brick Lane's south end and the Jamme Masjid
 
@@ -241,7 +241,7 @@ Two minutes west, under a Victorian roof, and the most misunderstood market on t
 
 ![Traders' stalls under the glass and iron roof of Old Spitalfields Market, busy with shoppers](../../assets/articles/shoreditch-area-guide/old-spitalfields-traders.jpg)
 
-*Seven days a week under one roof — but the traders under it change completely between a Thursday and a Sunday.*
+*Old Spitalfields Market.*
 
 ## 11. Petticoat Lane
 
@@ -282,7 +282,7 @@ Three answers, and the day decides between them rather than the food.
 
 ![Long communal tables full of people eating in front of the food counters at Old Spitalfields Market](../../assets/articles/shoreditch-area-guide/old-spitalfields-kitchens.jpg)
 
-*The Kitchens at Old Spitalfields. Covered, seven days, and the least day-dependent food on this route.*
+*The Kitchens, Old Spitalfields Market.*
 
 **A salt beef beigel at 159 Brick Lane (£), at stop four** — the one that is open whatever time you get there, because it never closes.
 

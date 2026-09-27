@@ -76,11 +76,11 @@ For the wider area — the theatres, where to eat before a show, where to stay �
 
 ![The clocktower building of the official TKTS theatre ticket booth in Leicester Square, with people queuing at the "OFFICIAL LONDON THEATRE TICKET BOOTH" window](../../assets/articles/covent-garden-walk/tkts-booth-leicester-square.jpg)
 
-*The Clocktower building on the south side of the square. Every other booth selling "theatre tickets" around here is a private reseller.*
+*The Clocktower building, Leicester Square.*
 
 **Start here rather than at Covent Garden station**, and the reason is mechanical: Covent Garden has no escalators, just lifts and a 193-step spiral staircase, and the estate's own advice is to get off at Leicester Square at peak times instead.
 
-The first thing on this walk is a ticket window. The **Official London Theatre Ticket Booth** — the one that spent forty years being called TKTS — is in the **Clocktower building on the south side of the square**, opposite the Radisson Blu Edwardian Hampshire, and it is the **only booth here run by the Society of London Theatre**, a not-for-profit. Profits go back into the industry.
+The first thing on this walk is a ticket window. The **Official London Theatre Ticket Booth** — the one that spent forty years being called TKTS — is in the **Clocktower building on the south side of the square**, opposite the Radisson Blu Edwardian Hampshire, and it is the **only booth here run by the Society of London Theatre**, a not-for-profit. Every other booth nearby advertising "theatre tickets" is a private reseller. Profits go back into the industry.
 
 It opens **Monday to Saturday 10.30am to 6pm and Sunday 11am to 4pm**, with longer summer hours in late July and August. It is an on-the-day business: same-day seats, at the same prices you would pay on their website, with a physical ticket at the end of it. New on-the-day tickets go online at **12.01am each morning**, so if you want to know what is available before you walk over, look then.
 
@@ -106,7 +106,7 @@ Graham Greene left the best line about it: "Thank God! Cecil Court remains Cecil
 
 ![The sundial pillar at the Seven Dials junction, with the Cambridge Theatre behind it and people sitting on the steps](../../assets/articles/covent-garden-walk/seven-dials-sundial.jpg)
 
-*The pillar the district is named after. Six faces on the stone, and the column itself is the seventh.*
+*The Seven Dials sundial pillar.*
 
 Seven short streets meeting at a stone pillar, and the point at which this walk stops being about Leicester Square.
 
@@ -124,9 +124,9 @@ Ninety stores and more than fifty cafés, bars and restaurants sit in the street
 
 ![The brightly painted buildings and packed outdoor tables of Neal's Yard](../../assets/articles/covent-garden-walk/neals-yard.jpg)
 
-*The entrances are narrow alleys off Monmouth Street and Short's Gardens, which is why so many people walk past without finding it.*
+*Neal's Yard.*
 
-**A single courtyard about twenty metres across, painted yellow, blue and pink, reached down passageways narrow enough to miss.**
+**A single courtyard about twenty metres across, painted yellow, blue and pink, reached down passageways off Monmouth Street and Short's Gardens narrow enough to miss.**
 
 It is named after the same Thomas Neale, and for most of its life it was a storage yard with nothing to recommend it. Its modern identity was made in the 1970s: in **1976 the environmentalist Nicholas Saunders bought one of the empty warehouses** here and set out to build a communal hub around natural food and sustainable living. **Neal's Yard Remedies opened in 1981** and the chain is named after this courtyard, not the other way round.
 
@@ -145,7 +145,7 @@ Two things immediately outside it are better than anything in it:
 
 ![The two-level hall of Seven Dials Market, with communal benches and festoon lighting](../../assets/articles/covent-garden-walk/seven-dials-market.jpg)
 
-*Thomas Neal's Warehouse stored bananas and cucumbers for the old Covent Garden fruit market. Its two halls are still called Banana Warehouse and Cucumber Alley.*
+*Seven Dials Market.*
 
 **Twenty-one street food traders and two bars in a former warehouse on Earlham Street**, run by KERB, and the obvious lunch stop on this route — provided you are not here at 11am on a Monday.
 
@@ -167,7 +167,7 @@ It has **full step-free access, a lift and wheelchair-accessible toilets**, whic
 
 ![The cobbled courtyard of Old Brewer's Yard with a vintage Guinness delivery lorry parked in it](../../assets/articles/covent-garden-walk/old-brewers-yard-guinness.jpg)
 
-*Old Brewer's Yard, off Mercer Walk. The brewery tours are booked and ticketed; the courtyard is not the same thing.*
+*Old Brewer's Yard, Mercer Walk.*
 
 Walk south and you hit **Long Acre**, the wide shopping street running east towards Holborn. Covent Garden station sits on the corner of it and James Street, and this is the point on the walk where you will be tempted to use it. Don't.
 
@@ -199,7 +199,7 @@ The Rector has written a self-guided tour of the building, and there is a printe
 
 ![The Apple Market's cast-iron arcade decorated with giant baubles and mistletoe for Christmas](../../assets/articles/covent-garden-walk/apple-market-christmas.jpg)
 
-*The Apple Market dressed for Christmas. The stalls under this arcade sell something different on Mondays than they do the rest of the week.*
+*The Apple Market, dressed for Christmas.*
 
 Come back round to the front of the church and you are standing in the **West Piazza**, which is where the big circle acts work — the juggling, the bed of nails, the ten-foot unicycle. Then east into the market building itself.
 
@@ -229,7 +229,7 @@ The building's listed status also bans wind and brass instruments, electric guit
 
 ![Covent Garden Piazza and the market halls seen from above, with parasols over the outdoor tables](../../assets/articles/covent-garden-walk/covent-garden-piazza-aerial.jpg)
 
-*The Piazza from above. The terrace at the top of the Opera House gives you this for the price of walking in.*
+*The Piazza, from the Opera House terrace.*
 
 **The building is open to anyone, seven days a week, from 12 noon.** That is the fact that gets missed, because people assume an opera house is a ticket-only building. It closes after the evening performance, or at 11pm Monday to Saturday and 9pm on Sunday when there is no show.
 
@@ -288,7 +288,7 @@ If that does not work:
 
 ![Outdoor restaurant terraces filling the cobbled Piazza at Covent Garden at dusk](../../assets/articles/covent-garden-walk/covent-garden-piazza-terrace.jpg)
 
-*The Piazza terraces at dusk. You pay for the cobbles, and two minutes' walk in any direction gets you the same food for less.*
+*The Piazza's restaurant terraces, at dusk.*
 
 **The one thing not to do** is eat on the Piazza itself. The tables are lovely and you are paying a location premium for them. Seven Dials, Monmouth Street and Maiden Lane are all inside four minutes.
 

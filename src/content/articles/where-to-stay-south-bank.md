@@ -60,7 +60,7 @@ The old London County Council headquarters on the river, next to the London Eye 
 
 </div>
 
-*Left: a room with the building's panelled walls and a tall window. Right: a bath and twin basins under a map of London.*
+*A room at the London Marriott County Hall.*
 
 Gillray's, the ground-floor steakhouse, serves breakfast to residents and non-residents and takes bookings, so it can fill. The step-free entrance is off Belvedere Road, where Gillray's has a platform lift; ask for it in advance.
 
@@ -68,7 +68,7 @@ Gillray's, the ground-floor steakhouse, serves breakfast to residents and non-re
 
 *About £180 and up · 200 Westminster Bridge Road, SE1 7UT · Waterloo and Lambeth North 6 min · [Hotels.com](hotelscom:h3113039)*
 
-Opposite the Houses of Parliament at the south end of Westminster Bridge, with 1,023 rooms around a central atrium. **Superior rooms are 25 m²**, and the **Studio rooms are 36 m² with a sofa bed, for two adults and two children under 12**; one Studio grade faces the London Eye.
+Opposite the Houses of Parliament at the south end of Westminster Bridge, with 1,023 rooms around a central atrium. **Superior rooms are 25 m²**, and the **Studio rooms are 36 m² with a sofa bed, for two adults and two children under 12**; one Studio grade faces the London Eye. The private terrace pictured comes with an upgraded room grade; the standard Superior has none.
 
 <div class="photo-row">
 
@@ -78,7 +78,7 @@ Opposite the Houses of Parliament at the south end of Westminster Bridge, with 1
 
 </div>
 
-*The room pictured is an upgraded grade with a sofa and a private terrace; the standard Superior has no terrace. The bathroom has a full-size bath.*
+*A room at Park Plaza Westminster Bridge.*
 
 The **15-metre indoor pool** is for residents and spa guests only and works on a booking system, open 7am to 9pm. There is also a sauna, steam room, a 24-hour gym (over-16s) and the Mandara Spa. Breakfast is £25 for adults and free for children under 11. Check-out is noon, dogs are £25 a night, and parking is from £65 a day, first come first served.
 
@@ -96,7 +96,7 @@ The same Grade II listed building as the Marriott, round the corner on Belvedere
 
 </div>
 
-*A family room with a double, a single and a travel cot, and a walk-in shower rather than a bath.*
+*A family room at Premier Inn County Hall.*
 
 Prices swing widely: **£92 on a Sunday three weeks out, £208 on a Saturday a month out and £295 on the second Saturday in December**. There is no on-site parking; Waterloo Car Park on York Road is £20 for 24 hours. Hotels.com does not sell Premier Inn, so book on Premier Inn's own site.
 
@@ -114,9 +114,9 @@ A hotel from the Spanish chain H10 at the southern end of Waterloo Road. The **W
 
 </div>
 
-*A high room looking north-east to the Gherkin and the City towers. The freestanding bath is in the Junior Suite Sky View; Superior rooms have a shower only.*
+*A high room at H10 London Waterloo.*
 
-Every Superior is 19 m², so what you pay extra for is the view and the terrace, not space. The **Triple is 25 m² with a sofa bed**, which suits a family of three. Breakfast at Three O Two on the first floor runs 7am to 11am, and to 11.30am at weekends. Lambeth North, on the Bakerloo line, is closer than Waterloo.
+Every Superior is 19 m² with a shower only — the freestanding bath pictured is in the Junior Suite Sky View — so what you pay extra for is the view and the terrace, not space. The **Triple is 25 m² with a sofa bed**, which suits a family of three. Breakfast at Three O Two on the first floor runs 7am to 11am, and to 11.30am at weekends. Lambeth North, on the Bakerloo line, is closer than Waterloo.
 
 ### The Walrus Bar and Hostel — dorms above a Lower Marsh bar
 
@@ -126,7 +126,7 @@ A hostel above a bar that draws locals as well as guests, ten minutes' walk from
 
 ![A four-bed dorm at The Walrus with two metal bunk beds labelled A to D, a dark wooden floor, a brown armchair and an open window at night](../../assets/articles/where-to-stay-south-bank/the-walrus-hostel-room.jpg)
 
-*A four-bed dorm: two bunks with the bed letters on the frames, and a window that opens.*
+*A dorm at The Walrus.*
 
 **Book direct and breakfast, towel hire and 10% off at the bar are included.** Check-out is 10am, reception check-in runs 3pm to 11pm, and payment is by card only, with no American Express. Under-18s can stay only with a parent or guardian over 25, in a privately booked dorm.
 
@@ -148,7 +148,7 @@ Warren Platner designed the building as a hotel in 1974; it opened as offices in
 
 </div>
 
-*A river-facing room looking across the Thames to Unilever House: the view the Riverview grades are sold on.*
+*A Riverview room at Sea Containers.*
 
 The building carries the evening: **12th Knot** on the roof (Tuesday to Saturday, over-18s, terrace closes at 10pm), **Lyaness** cocktail bar, Gordon Ramsay at Sea Containers on the ground floor, the agua spa, a 24-hour gym and a 56-seat Curzon cinema. Check-in is 3pm, check-out noon, and dogs up to 20lb are welcome.
 
@@ -166,7 +166,7 @@ A six-storey hotel of 161 rooms, seven of them suites, at the southern end of Bl
 
 </div>
 
-*A double with a full-height window onto the street, and a bath with a shower over it.*
+*A double at Bankside Hotel.*
 
 The entry **Modest rooms are 21 to 25 m² with a queen bed**. The ones to know about are the **Family Collection: 31 m² with two queen beds, sleeping four**. Children get an activity pack on arrival and a £16 two-course menu at Art Yard. Dogs stay for a £75 supplement.
 
@@ -178,7 +178,7 @@ A Fuller's pub with 30 rooms upstairs, on Stamford Street just south of Blackfri
 
 ![A double room at The Mad Hatter with peacock-pattern wallpaper, a draped fabric canopy over the bed, a floral wingback chair and a patterned divan base](../../assets/articles/where-to-stay-south-bank/the-mad-hatter-room.jpg)
 
-*A double with peacock wallpaper and a draped canopy over the bed.*
+*A double at The Mad Hatter.*
 
 **The catch is the arrival window: check-in runs 3pm to 11pm only.** A late flight needs a call ahead. There is a lift, some rooms interconnect, children aged 2 to 12 need an extra bed at £35 a night including breakfast, and the hotel takes no cash.
 
@@ -196,7 +196,7 @@ A new-build Hoxton halfway down Blackfriars Road, with concrete ceilings and par
 
 </div>
 
-*One of the larger rooms, with a table for two by the factory-style windows, and a walk-in shower behind a black-framed screen.*
+*A room at The Hoxton, Southwark.*
 
 **Seabird**, the seafood restaurant on the 14th floor, runs an oyster happy hour from 3pm to 6pm daily and is open to non-residents, so book. The 24-hour gym is on the 12th floor. Booking on Hoxton's own site adds free early check-in and late check-out through its Flexy Time scheme.
 
@@ -204,7 +204,7 @@ A new-build Hoxton halfway down Blackfriars Road, with concrete ceilings and par
 
 *££ · 49 Blackfriars Road, SE1 8NZ · Southwark 2 min · [Hotels.com](hotel:ibis-london-blackfriars)*
 
-A refurbished economy hotel with 297 rooms, air conditioning throughout and a bar, Charlie's Corner, on the ground floor. **Southwark station is 140 metres away** and Waterloo a ten-minute walk. The hotel is cashless, including the bar; check-out is noon and pets are welcome.
+A refurbished economy hotel with 297 rooms, air conditioning throughout and a bar, Charlie's Corner, on the ground floor. **Southwark station is 140 metres away** and Waterloo a ten-minute walk. The hotel is cashless, including the bar; check-out is noon and pets are welcome. Rooms have a shower only, no bath.
 
 <div class="photo-row">
 
@@ -214,13 +214,13 @@ A refurbished economy hotel with 297 rooms, air conditioning throughout and a ba
 
 </div>
 
-*An open clothes rail instead of a wardrobe, and a compact shower room with no bath.*
+*A room at ibis London Blackfriars.*
 
 ### citizenM London Bankside — one room type, and it sleeps two
 
 *£155 to £251 on five sampled nights · 192 rooms · 20 Lavington Street, SE1 0NZ · Southwark 6 min · [Hotels.com](hotel:citizenm-bankside)*
 
-Every one of the 192 rooms is the same: **an XL king bed wall to wall, a floor-to-ceiling window and a tablet that runs the blinds, lights and television**. It is small, and it takes **up to two adults only**, so families need to look elsewhere. It is on a back street south of Tate Modern; check-in is at self-service kiosks, and canteenM in the lobby sells food and drink around the clock.
+Every one of the 192 rooms is the same: **an XL king bed wall to wall, a floor-to-ceiling window and a tablet that runs the blinds, lights and television**. It is small, and it takes **up to two adults only**, so families need to look elsewhere. It is on a back street south of Tate Modern; check-in is at self-service kiosks, and canteenM in the lobby sells food and drink around the clock. Accessible rooms have grab rails in the bathroom; standard rooms don't.
 
 <div class="photo-row">
 
@@ -230,13 +230,13 @@ Every one of the 192 rooms is the same: **an XL king bed wall to wall, a floor-t
 
 </div>
 
-*The bed runs wall to wall under the window and is most of the room. The bathroom pictured is in an accessible room, with grab rails.*
+*The room at citizenM Bankside.*
 
 ### Hilton London Bankside — the pool behind Tate Modern
 
 *£££ · 2–8 Great Suffolk Street, SE1 0UG · Southwark 5 min · [Hotels.com](hotel:hilton-london-bankside)*
 
-A Hilton 0.2 miles from Tate Modern, with a **heated indoor pool**, a gym and a spa. Families book it for the pool and the connecting rooms; cribs and a children's menu are available on request. The rooms have floor-to-ceiling windows.
+A Hilton 0.2 miles from Tate Modern, with a **heated indoor pool**, a gym and a spa. Families book it for the pool and the connecting rooms; cribs and a children's menu are available on request. The rooms have floor-to-ceiling windows. A bath comes only with an upgraded room grade; check before booking if you want one.
 
 <div class="photo-row">
 
@@ -246,7 +246,7 @@ A Hilton 0.2 miles from Tate Modern, with a **heated indoor pool**, a gym and a 
 
 </div>
 
-*A room with the cot and high chair the hotel supplies on request. The bathroom, with a freestanding bath and a walk-in shower, is from an upgraded room, so check the grade if you want a bath.*
+*A family room at Hilton London Bankside.*
 
 **Breakfast is charged separately.** OXBO Bankside does a bottomless brunch at weekends and The Distillery is the bar. Check-in is 3pm, check-out noon. There are no pets, and parking is valet only at £40, 7am to 11pm.
 
@@ -254,7 +254,7 @@ A Hilton 0.2 miles from Tate Modern, with a **heated indoor pool**, a gym and a 
 
 *£££ · 1 and 2 Bear Gardens, SE1 9ED · Southwark, London Bridge and Blackfriars each under 10 min · [Hotels.com](hotel:native-bankside)*
 
-Studios and one-bedroom apartments with kitchens in a **restored Victorian tea warehouse** on Bear Gardens, a quiet lane behind Shakespeare's Globe. Studios run 23 to 33 m² and one-bedroom apartments 34 to 45 m², and they are **cleaned daily**, unlike most aparthotels.
+Studios and one-bedroom apartments with kitchens in a **restored Victorian tea warehouse** on Bear Gardens, a quiet lane behind Shakespeare's Globe. Studios run 23 to 33 m² and one-bedroom apartments 34 to 45 m², and they are **cleaned daily**, unlike most aparthotels. Bathrooms are shower only, with no bath.
 
 <div class="photo-row">
 
@@ -264,7 +264,7 @@ Studios and one-bedroom apartments with kitchens in a **restored Victorian tea w
 
 </div>
 
-*A bedroom under exposed roof beams and a skylight, and a walk-in rain shower with no bath.*
+*A bedroom at Native Bankside.*
 
 The Millennium Bridge is five minutes away, Borough Market ten, and the Uber Boat stops at Bankside Pier at the end of the lane.
 
@@ -284,7 +284,7 @@ A small Premier Inn on Park Street, between the river and Borough Market. It has
 
 </div>
 
-*The standard double, and a bath with a shower over it.*
+*A double at Premier Inn Southwark (Bankside).*
 
 On the same five nights it undercut the County Hall Premier Inn on four, including **£186 against £208 on an October Saturday and £243 against £295 in December**. There are four parking spaces at £15 a day, first come first served.
 
@@ -296,7 +296,7 @@ An independent four-star next to the Shard and two minutes from the station. The
 
 ![A double room at London Bridge Hotel with a tall upholstered headboard, pale blue walls, a tall window with full-length curtains, an orange tub chair and a desk](../../assets/articles/where-to-stay-south-bank/london-bridge-hotel-room.jpg)
 
-*A double with a desk and a tall, fully curtained window.*
+*A double at London Bridge Hotel.*
 
 **The three apartments are what set it apart**: 92 m² each, with two bedrooms, a bathroom plus a separate shower room and a full kitchen, for up to six people, and a private entrance next door. For a smaller family, Deluxe rooms and Studio Suites have a sofa bed for two children, and some Executive rooms interconnect. Check-in is 3pm, check-out 11am, and there is no car park.
 
@@ -304,11 +304,11 @@ An independent four-star next to the Shard and two minutes from the station. The
 
 *£53 to £166 a double capsule · 161–165 Borough High Street, SE1 1HR · Borough 4 min · [Hotels.com](hotel:st-christophers-village)*
 
-A hostel with Belushi's bar downstairs and a roof terrace, on Borough High Street between Borough and London Bridge stations. Among its dorms and private rooms are 26 capsules, and the **Private Double Capsule sleeps two, from £53** on a quiet night.
+A hostel with Belushi's bar downstairs and a roof terrace, on Borough High Street between Borough and London Bridge stations. Among its dorms and private rooms are 26 capsules, and the **Private Double Capsule sleeps two, from £53** on a quiet night, with air conditioning.
 
 ![A private double room at St Christopher's Village with a wooden bed against a mural of an old map of the Thames through Southwark and Rotherhithe, a triangle-patterned floor and blue curtains](../../assets/articles/where-to-stay-south-bank/st-christophers-village-room.jpg)
 
-*A private double with air conditioning, under a wall map of the Thames from Southwark to the Isle of Dogs.*
+*A private double at St Christopher's Village.*
 
 It is **adults only, 18 and over**. Breakfast is £3, check-out is 11am, and check-in runs until 2am and no later. Our [capsule hotels guide](/articles/pod-hotels-london/) compares it with the others in London.
 

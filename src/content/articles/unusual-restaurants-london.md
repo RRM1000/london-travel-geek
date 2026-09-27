@@ -89,7 +89,7 @@ A working café **inside an actual Mongolian yurt**, in the grounds of a Limehou
 
 ![The Feng Shang Princess, a red three-tiered Chinese pagoda restaurant moored on the Regent's Canal](../../assets/articles/unusual-restaurants-london/feng-shang-princess.jpg)
 
-*A three-tiered pagoda moored on the Regent's Canal.*
+*The Feng Shang Princess.*
 
 *Price not published · Cumberland Basin, Prince Albert Road, NW1 7SS*
 
@@ -115,7 +115,7 @@ A **125-year-old Dutch barge** sailed over from the Netherlands and permanently 
 
 ![A converted Dutch barge moored on the River Lea with a canopied deck](../../assets/articles/unusual-restaurants-london/barge-east.jpg)
 
-*A hundred-year-old Dutch barge dragged from Holland and moored on the Lea. The garden alongside it does most of the covers in summer. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=174581442), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Barge East, on the River Lea. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=174581442), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ---
 

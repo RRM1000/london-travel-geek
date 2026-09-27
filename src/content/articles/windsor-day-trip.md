@@ -180,7 +180,7 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 ![A State Apartment at Windsor Castle: crimson walls, gilded ceiling, chandeliers and portraits above a marble fireplace](../../assets/articles/windsor-day-trip/state-apartments.jpg)
 
-*The State Apartments, which are what the £32 ticket buys.*
+*The State Apartments.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windsor-day-trip-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -194,7 +194,7 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 ![The Long Walk at Windsor, a straight avenue of trees running away from the castle with people strolling down it](../../assets/articles/windsor-day-trip/the-long-walk.jpg)
 
-*The Long Walk: free, and the best thing in Windsor after the castle. Photo: Eren Cebeci, Pexels.*
+*The Long Walk. Photo: Eren Cebeci, Pexels.*
 
 ### The Long Walk
 

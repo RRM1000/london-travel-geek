@@ -82,7 +82,7 @@ The principle is a short menu of very few ingredients handled precisely: **wood-
 **££££ and it books months ahead. The terrace tables are the ones everyone wants** and go first — ask specifically. Informal in atmosphere, upmarket in every other respect.
 
 ![A triangular slice of dark chocolate nemesis cake with a spoon of crème fraîche, on a white plate](../../assets/articles/best-italian-restaurants-london/river-cafe-chocolate-nemesis.jpg)
-*Served with a spoonful of crème fraîche and nothing else on the plate.*
+*The chocolate nemesis.*
 
 ### Luca, Clerkenwell
 
@@ -95,7 +95,7 @@ The **parmesan fries** are the thing everyone mentions and deserve it, but the p
 **£££, closed Sunday, books weeks ahead.** Clerkenwell. The bar menu is a cheaper way into the same kitchen.
 
 ![Crisp parmesan fries piled on paper and dusted with grated cheese, on a white plate](../../assets/articles/best-italian-restaurants-london/luca-parmesan-fries.jpg)
-*Served in a heap on paper, finished with a heavy grating of parmesan.*
+*Luca's parmesan fries.*
 
 ### Murano, Mayfair
 
@@ -108,7 +108,7 @@ Northern Italian cooking in a formal room: **hand-made pasta**, veal, and a set-
 **££££, closed Sunday, and it books weeks ahead.** The set lunch is materially cheaper than dinner from the same kitchen.
 
 ![A slice of pink-cooked loin in red jus with pea puree, on a white plate with leaves and shaved onion](../../assets/articles/best-italian-restaurants-london/murano.jpg)
-*Precise rather than showy: the set-price menu lets you build two, three or four courses.*
+*Murano's set-price menu.*
 
 
 ---
@@ -128,7 +128,7 @@ The signature is **pappardelle with eight-hour beef shin ragù**, and it has bee
 **£££ and it books weeks ahead.** Sibling to Padella, which explains the pasta. St Paul's Road, and worth the trip north.
 
 ![A grilled steak with mashed peas and gravy](../../assets/articles/best-italian-restaurants-london/trullo.jpg)
-*Islington. The hand-rolled pasta changes daily and the beef over charcoal is the constant. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/14194656052), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Trullo, Highbury. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/14194656052), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Padella, Borough
@@ -142,7 +142,7 @@ Eight or nine dishes, most under a tenner: **pici cacio e pepe**, **tagliarini w
 **£. No bookings at Borough Market — join the virtual queue on the Walk-In app** and go for a drink until it calls you. The Shoreditch and Soho sites take limited bookings, which is the trick most people miss.
 
 ![The interior counter of Padella with cooks working behind it](../../assets/articles/best-italian-restaurants-london/padella.jpg)
-*Sit at the counter and watch the pasta being rolled. The queue moves faster than it looks. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28035454561), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Padella, Borough. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28035454561), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 
 ### Manteca, Shoreditch
@@ -150,7 +150,7 @@ Eight or nine dishes, most under a tenner: **pici cacio e pepe**, **tagliarini w
 *£££ · 10 min from Old Street · Cited by 8 sources · Bib Gourmand*
 
 ![Thick strands of pasta coated in a glossy orange sauce with cracked black pepper, in a dark pan](../../assets/articles/best-italian-restaurants-london/manteca.jpg)
-*Hand-rolled pasta, from a kitchen whose salumeria is on site and visible.*
+*The pig skin ragù rigatoni.*
 
 **Chris Leach and David Carter's nose-to-tail Italian**, with **whole-animal butchery feeding a menu of house-cured salumi and hand-rolled pasta** — the salumeria is on site and visible.
 
@@ -169,7 +169,7 @@ Everything comes in **small or large plate sizes**, so a table can order eight r
 **£££ and it books ahead.** Archer Street, and Gelupo across the road is the same owners' ice cream shop — go afterwards.
 
 ![The frontage of Bocca di Lupo on Archer Street in Soho](../../assets/articles/best-italian-restaurants-london/bocca-di-lupo.jpg)
-*Six separate mastheads name it — more editorial agreement than any other Italian restaurant in London. Photo: [Andrew Davidson](https://commons.wikimedia.org/wiki/File:Bocca_Di_Lupo.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+*Bocca di Lupo, Archer Street. Photo: [Andrew Davidson](https://commons.wikimedia.org/wiki/File:Bocca_Di_Lupo.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
 
 
 ### Lina Stores, Soho
@@ -182,7 +182,7 @@ The restaurants came seventy years later and the shop is still the point: fresh 
 
 ![The mint-green frontage of the Lina Stores deli on Brewer Street](../../assets/articles/best-italian-restaurants-london/lina-stores.jpg)
 
-*The mint-green deli has been on Brewer Street since 1944. The restaurants came seventy years later. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Lina_Stores,_Soho,_W1.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
+*Lina Stores, Brewer Street. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Lina_Stores,_Soho,_W1.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
 
 ### Bancone, Covent Garden
 
@@ -194,7 +194,7 @@ The Covent Garden original takes no bookings for small tables. The Borough and G
 
 ![The Bancone restaurant frontage on Lower James Street in Soho](../../assets/articles/best-italian-restaurants-london/bancone.jpg)
 
-*The Golden Square site, which unlike the Covent Garden original does take bookings. Photo: [No Swan So Fine](https://commons.wikimedia.org/wiki/File:Bancone,_Lower_James_Street,_Soho,_August_2023_02.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+*Bancone, Golden Square. Photo: [No Swan So Fine](https://commons.wikimedia.org/wiki/File:Bancone,_Lower_James_Street,_Soho,_August_2023_02.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
 
 ### Ciao Bella, Bloomsbury
 
@@ -225,7 +225,7 @@ Sicily's Arab inheritance is the through-line and the reason it does not taste l
 **£££, closed Sunday, and it books ahead.** Charlotte Street. The ground-floor raw bar takes walk-ins when the dining rooms above have gone.
 
 ![The Norma frontage on a sunny day, with diners at outdoor tables under a striped awning](../../assets/articles/best-italian-restaurants-london/norma-fitzrovia-frontage.jpg)
-*Pavement tables under a striped awning, olive trees either side of the door.*
+*Norma, Charlotte Street.*
 
 ### Campania & Jones, Bethnal Green — Campanian
 
@@ -238,7 +238,7 @@ Pasta is made by hand every day and the menu is short enough that the kitchen cl
 **Go on a Sunday** and do the flower market first — it runs 8am to about 3pm.
 
 ![A plate of pasta with clams and mussels in a light tomato sauce](../../assets/articles/best-italian-restaurants-london/campania-and-jones-seafood-pasta.jpg)
-*Pasta with clams and mussels — Campania's coastline in a bowl.*
+*The seafood pasta at Campania & Jones.*
 
 ### Brutto, Clerkenwell — Florentine
 
@@ -251,7 +251,7 @@ Deliberately unfussy Florentine cooking from the late Russell Norman, who did mo
 Walk-ins are taken at the bar.
 
 ![The gold-lettered Trattoria Brutto sign above pale green shopfront doors, with an Aperto sign hanging](../../assets/articles/best-italian-restaurants-london/brutto-trattoria-frontage.jpg)
-*Pale green shopfront doors under the gold-lettered sign, "Aperto" hung out front.*
+*Brutto, Clerkenwell.*
 
 ### Artusi, Peckham — seasonal Italian
 
@@ -263,7 +263,7 @@ The menu is short and changes constantly with what is in season: **pasta rolled 
 
 ![A plate of casarecce pasta with capers, dressed simply and finished with grated parmesan](../../assets/articles/best-italian-restaurants-london/artusi.jpg)
 
-*Pasta rolled that day at Artusi — the menu changes with whatever is in season.*
+*Artusi's casarecce.*
 
 **££ and it books ahead** at weekends. Bellenden Road, and one of the reasons people started travelling to Peckham to eat.
 
@@ -272,7 +272,7 @@ The menu is short and changes constantly with what is in season: **pasta rolled 
 *££ · 8 min from London Bridge · Cited by 4 sources*
 
 ![Wide ribbons of fresh egg pasta with sausage ragu, crisp breadcrumbs and grated cheese in a shallow bowl](../../assets/articles/best-italian-restaurants-london/legare.jpg)
-*Hand-rolled and changing weekly — the Trullo pedigree showing in the pasta.*
+*Legare's pasta.*
 
 **Opened in 2019 by Jay Patel (ex Barrafina) and chef Matt Beardmore (ex Trullo)**, in the warehouse streets by Tower Bridge — a neighbourhood Italian in a quarter that mostly serves tourists.
 
@@ -291,7 +291,7 @@ Six or seven pastas at a time, rolled in the room and rotated constantly: **caci
 **££, and it takes bookings**, which is the advantage over Padella. Islington is the original; there are sites in Shoreditch and Battersea.
 
 ![A dark bowl of wide paccheri tubes in a brown ragù, topped with a curl of soft cheese](../../assets/articles/best-italian-restaurants-london/noci-pasta-ragu.jpg)
-*Wide pasta ribbons in a dark ragù, finished with a spoon of soft cheese.*
+*Noci's paccheri.*
 
 ### Ornella, London Fields — Milanese
 
@@ -304,7 +304,7 @@ Milanese means butter and rice rather than olive oil and tomato: **risotto alla 
 **££, closed Monday and Tuesday, and it books ahead.** A small neighbourhood room; the pavement tables go first in summer.
 
 ![Saffron-yellow risotto alla milanese topped with a braised, bone-in veal shank and gremolata](../../assets/articles/best-italian-restaurants-london/ornella-risotto-milanese.jpg)
-*Risotto alla milanese under a braised, bone-in veal shank with gremolata — the classic Milanese pairing.*
+*Ornella's risotto alla milanese.*
 
 ### Macellaio RC, South Kensington — Piedmontese
 
@@ -317,7 +317,7 @@ Fassona is a lean Piedmontese breed, and the point is that it is served rare and
 **£££, and it books ahead.** Several London sites; South Kensington is the original. Steak is priced by weight and cut in front of you.
 
 ![Sliced tagliata steak with the bone alongside, seared and pink in the middle, on a dark plate with sea salt](../../assets/articles/best-italian-restaurants-london/macellaio-rc-tagliata.jpg)
-*Tagliata sliced off the bone, finished with nothing but sea salt.*
+*Macellaio RC's tagliata.*
 
 ---
 
@@ -332,7 +332,7 @@ Sometimes the room is the booking. These are the ones people photograph before t
 Five London rooms from the same French-Italian group, all built to be looked at: maximalist, loud, all-Italian menus, big portions and fair prices. **The food is good rather than remarkable. What you are booking is the spectacle**, and on that they deliver completely.
 
 ![A tall slice of lemon meringue pie with a torched top, on a blue and white patterned plate](../../assets/articles/best-italian-restaurants-london/circolo-popolare-lemon-meringue-pie.jpg)
-*The torched meringue top, on Circolo's blue-and-white house plates.*
+*Circolo Popolare's lemon meringue pie.*
 
 - **Circolo Popolare**, Fitzrovia — the wall of thousands of backlit bottles, and a lemon meringue pie the size of a fin. The most-photographed of the five. *Cited by 3 sources* · [Book](https://www.sevenrooms.com/explore/circolopopolare/reservations/create/search?venues=avemariolondon%2Ccircolopopolare%2Ccarlottauk%2Cgloria%2Cjacuzzi%2Cbarbarellacanarywharf&tracking=bmg)
 - **Ave Mario**, Covent Garden — stripy humbug walls and bright red seats across a basement, with a carousel bar. *Cited by 3 sources* · [Book](https://www.sevenrooms.com/explore/avemariolondon/reservations/create/search?venues=avemariolondon%2Ccircolopopolare%2Ccarlottauk%2Cgloria%2Cjacuzzi%2Cbarbarellacanarywharf&tracking=bmg)
@@ -353,7 +353,7 @@ Italian small plates rather than a full menu: cauliflower fritti with aioli, bur
 **Go for the golden hour and go early.** It is first-come on the terrace and everyone else has had the same idea.
 
 ![Two hands clinking cocktail glasses on a rooftop terrace at sunset, with the London skyline behind](../../assets/articles/best-italian-restaurants-london/forza-wine-golden-hour-terrace.jpg)
-*Golden hour on the terrace, looking out toward the city skyline.*
+*Forza Wine's terrace.*
 
 ### Sale e Pepe, Knightsbridge
 
@@ -366,7 +366,7 @@ The cooking is the classic Italian repertoire done properly rather than reinvent
 **£££ and it books ahead.** Pavilion Road, minutes from Harrods, and the antithesis of everything else in the area.
 
 ![A trolley of desserts including cheesecake, lemon meringue pie and cannoli, plated and ready to serve](../../assets/articles/best-italian-restaurants-london/sale-e-pepe-dessert-trolley.jpg)
-*Cheesecake, cannoli and lemon meringue — the trolley works its way round the table.*
+*The dessert trolley at Sale e Pepe.*
 
 ### Cecconi's, Mayfair
 
@@ -379,7 +379,7 @@ Venetian-leaning all-day Italian: **cicchetti** at the bar, **crab and chilli li
 **££££ and it books weeks ahead.** Non-members welcome, despite the Soho House ownership. The bar seats take walk-ins.
 
 ![The green-and-white striped awnings of Cecconi's on Burlington Gardens](../../assets/articles/best-italian-restaurants-london/cecconis.jpg)
-*The awnings are the landmark. Mayfair's default Italian lunch since 1978. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Cecconis,_Mayfair,_London_(3872025826).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
+*Cecconi's, Burlington Gardens. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Cecconis,_Mayfair,_London_(3872025826).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
 
 
 ---
@@ -427,7 +427,7 @@ Backed by the sources but not written up above, either because only two guides n
 
 ![The neon frontage of Bar Italia on Frith Street at night](../../assets/articles/best-italian-restaurants-london/bar-italia.jpg)
 
-*Bar Italia has been on Frith Street since 1949 and still opens almost around the clock — the oldest thing on this page by some margin. Photo: [SomeDriftwood](https://commons.wikimedia.org/wiki/File:Bar_Italia_-_Soho_(4764432107).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
+*Bar Italia, Frith Street. Photo: [SomeDriftwood](https://commons.wikimedia.org/wiki/File:Bar_Italia_-_Soho_(4764432107).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
 
 [See all 112 Italian restaurants →](/restaurants/cuisine/italian)
 

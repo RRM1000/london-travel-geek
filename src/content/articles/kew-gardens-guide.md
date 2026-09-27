@@ -112,7 +112,7 @@ Kew is 320 acres, and walking it aimlessly leads to fatigue. This clockwise rout
 
 ![The curved iron and glass facade of the Palm House viewed across the pond at Kew Gardens](../../assets/articles/kew-gardens-guide/kew-palm-house-pond.jpg)
 
-*The Palm House, completed in 1848 by Decimus Burton and Richard Turner. Photo: Txllxt TxllxT (CC BY-SA 4.0).*
+*The Palm House, Kew Gardens. Photo: Txllxt TxllxT (CC BY-SA 4.0).*
 
 ### Stop 1: The Palm House and pond (0–45 minutes)
 Enter via Victoria Gate and head directly to the Palm House. Designed by Decimus Burton and engineer Richard Turner and completed in 1848, the building is constructed from curved wrought-iron ribs without internal supporting columns — borrowing construction methods from the Victorian shipbuilding industry.
@@ -126,7 +126,7 @@ Walk north along the Broad Walk towards the northern perimeter. The **Princess o
 
 ![Giant circular pads of Victoria amazonica waterlilies floating in the indoor pool of the Princess of Wales Conservatory](../../assets/articles/kew-gardens-guide/kew-princess-of-wales-conservatory.jpg)
 
-*Giant Amazonian waterlilies (Victoria amazonica) in the wet tropical zone of the Princess of Wales Conservatory. Photo: AndyScott (CC BY-SA 4.0).*
+*Waterlilies, Princess of Wales Conservatory. Photo: AndyScott (CC BY-SA 4.0).*
 
 Key zones inside:
 - **The Wet Tropical Basin:** Home to the giant Amazonian waterlilies (*Victoria amazonica* and *Victoria cruziana*), whose buoyant leaves span over two metres across and can support significant weight.
@@ -140,7 +140,7 @@ Head southwest through the arboretum towards the centre of the estate.
 
 ![The intricate lattice structure of The Hive installation set amid wildflower meadow at Kew Gardens](../../assets/articles/kew-gardens-guide/kew-the-hive.jpg)
 
-*The Hive, an aluminium architectural installation responding in real time to bee activity. Photo: Eddie Johnston (CC BY-SA 4.0).*
+*The Hive, Kew Gardens. Photo: Eddie Johnston (CC BY-SA 4.0).*
 
 At **17 metres tall**, **The Hive** rises out of a wildflower meadow near Elizabeth Gate — a lattice of 170,000 aluminium parts and 1,000 LED lights, built for the UK Pavilion at the 2015 Milan Expo before it moved to Kew. Artist Wolfgang Buttress designed it to respond in real time to a working bee colony in the Gardens: the lights pulse with the bees' vibrations, and a musical soundscape plays every note in the key of C — the pitch bees buzz in. It won a Landscape Institute Award in 2016.
 
@@ -151,7 +151,7 @@ Continue south towards the southwestern woodlands to reach the **Xstrata Treetop
 
 ![The elevated steel mesh walkway of the Treetop Walkway threading 18 metres high through the tree canopy](../../assets/articles/kew-gardens-guide/kew-treetop-walkway.jpg)
 
-*The Xstrata Treetop Walkway, rising 18 metres into the canopy. Photo: Bryn Holmes (CC BY-SA 2.0).*
+*The Treetop Walkway. Photo: Bryn Holmes (CC BY-SA 2.0).*
 
 - **Height:** 18 metres (59 feet) above ground level.
 - **Length:** 200-metre circular walkway made of weathered Corten steel.
@@ -163,7 +163,7 @@ Follow the southern path towards Lion Gate. Here stands **The Great Pagoda**, co
 
 ![The ten-storey brick and timber Great Pagoda rising above the lawns at the southern end of Kew Gardens](../../assets/articles/kew-gardens-guide/kew-great-pagoda.jpg)
 
-*The Great Pagoda, designed by Sir William Chambers in 1762. Photo: Peter Trimming (CC BY-SA 2.0).*
+*The Great Pagoda. Photo: Peter Trimming (CC BY-SA 2.0).*
 
 - **The dragons:** The 2018 restoration reinstated all **80 dragons** along the eaves, each carved from gilded wood, matching the original 18th-century design. The originals were removed in 1784 — rumoured to have been sold to settle George IV's gambling debts, though Historic Royal Palaces believes they had simply rotted, being made of wood.
 - **Climbing the Pagoda:** Open daily until **27 September 2026**, 11am to a last timeslot at 4pm. You need a Kew Gardens ticket first, then book a Pagoda slot as an Optional Extra, or separately if you already have Gardens entry. Nearest entrance: Lion Gate.
@@ -177,7 +177,7 @@ Finish your circuit at the centrepiece of the southern gardens: the **Temperate 
 
 ![The vast restored Victorian ironwork ribs and lush palm trees inside the Temperate House at Kew Gardens](../../assets/articles/kew-gardens-guide/kew-temperate-house-interior.jpg)
 
-*Inside the Temperate House, the world's largest surviving Victorian glasshouse. Photo: Mike Peel (CC BY-SA 4.0).*
+*Inside the Temperate House. Photo: Mike Peel (CC BY-SA 4.0).*
 
 The Temperate House is the largest surviving Victorian glasshouse in the world. It is twice the size of the Palm House, covering 4,880 square metres. Designed by Decimus Burton in 1860, it took 39 years to finish and reopened in May 2018 following a five-year, £41-million restoration during which 69,000 panes of glass were replaced.
 

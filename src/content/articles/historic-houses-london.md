@@ -77,7 +77,7 @@ A platform lift reaches four of the five levels but **must be operated by staff 
 
 ![The brown-brick Georgian frontage of the Charles Dickens Museum on Doughty Street](../../assets/articles/historic-houses-london/charles-dickens-museum.jpg)
 
-*48 Doughty Street, where Dickens wrote Oliver Twist and Nicholas Nickleby. He lived here under three years. Photo: [Matt From London](https://www.flickr.com/photos/57868312@N00/38375015794), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Charles Dickens Museum, Doughty Street. Photo: [Matt From London](https://www.flickr.com/photos/57868312@N00/38375015794), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Leighton House, Kensington
 
@@ -85,7 +85,7 @@ A platform lift reaches four of the five levels but **must be operated by staff 
 
 ![The red brick front of Leighton House on Holland Park Road, with a blue plaque to Lord Leighton between its first-floor windows](../../assets/articles/best-galleries-london/leighton-house.jpg)
 
-*Leighton House, and the London County Council plaque recording that Leighton lived and died here.*
+*Leighton House, from Holland Park Road.*
 
 Frederic Leighton's studio-house, built around an **Arab Hall lined with seventeenth-century Damascus tiles**, a gold mosaic frieze and a fountain set into the floor. Leighton was President of the Royal Academy and built the place as much to be seen in as to work in; the studio upstairs is the other half of the point.
 
@@ -155,7 +155,7 @@ Queen Victoria's birthplace and childhood home, and the palace where **the rooms
 
 ![The statue of Queen Victoria outside the red-brick frontage of Kensington Palace](../../assets/articles/historic-houses-london/victoria-and-kensington-palace.jpg)
 
-*Kensington Palace, with the statue of Victoria her daughter Louise sculpted. The gardens around it, and the Diana statue in the Sunken Garden, cost nothing.*
+*Kensington Palace, with Victoria's statue.*
 
 <div data-stay-strip></div>
 
@@ -195,7 +195,7 @@ Included with admission: talks every half hour from 11am to 4pm, a daily history
 
 ![The painted ceiling of the Painted Hall at Greenwich, crowded with baroque figures](../../assets/articles/historic-houses-london/painted-hall-ceiling.jpg)
 
-*James Thornhill spent nineteen years on this ceiling. It's known as the UK's Sistine Chapel, and the comparison holds up better than you'd expect. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Painted Hall's ceiling. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Old Royal Naval College
 
@@ -211,7 +211,7 @@ Also free to walk to: the remains of Greenwich Palace, where Henry VIII, Mary I 
 
 ![The colonnade of the Old Royal Naval College at Greenwich, its paired columns receding into the distance](../../assets/articles/historic-houses-london/naval-college-colonnade.jpg)
 
-*Wren's colonnades at the Old Royal Naval College. The grounds are free and open until 11pm.*
+*Wren's colonnade, at the Old Royal Naval College.*
 
 ---
 
@@ -243,7 +243,7 @@ It is Grade I listed, it costs nothing, and it is **two minutes from Monument** 
 
 ![The empty gothic window arches of St Dunstan in the East, overgrown with ivy and open to the sky](../../assets/articles/historic-houses-london/st-dunstan-in-the-east.jpg)
 
-*St Dunstan in the East. The City decided not to rebuild it after 1941 and made a garden of the shell instead.*
+*St Dunstan in the East.*
 
 ### The Fitzrovia Chapel
 
@@ -259,7 +259,7 @@ Step-free, with a wheelchair lift over the two entrance steps.
 
 ![The gilded mosaic ceiling and marble interior of the Fitzrovia Chapel](../../assets/articles/historic-houses-london/fitzrovia-chapel-ceiling.jpg)
 
-*Nothing on the plain brick exterior gives this away. Photo: [The wub](https://commons.wikimedia.org/w/index.php?curid=44693137), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*The Fitzrovia Chapel's interior. Photo: [The wub](https://commons.wikimedia.org/w/index.php?curid=44693137), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### All Saints, Margaret Street, Fitzrovia
 
@@ -305,7 +305,7 @@ Christopher Wren's hospital of 1692, **still home to the Chelsea Pensioners** in
 
 ![The long south front of the Royal Hospital Chelsea seen across its lawns](../../assets/articles/historic-houses-london/royal-hospital-chelsea-south-front.jpg)
 
-*The Royal Hospital Chelsea. Wren designed it in 1682 and the Chelsea Pensioners have lived here ever since.*
+*The Royal Hospital Chelsea.*
 
 ### Westminster Abbey
 
@@ -323,7 +323,7 @@ Every English monarch since 1066 has been crowned here, and more than three thou
 
 ![The west towers of Westminster Abbey rising above the street](../../assets/articles/historic-houses-london/westminster-abbey-towers.jpg)
 
-*Westminster Abbey. Sightseeing runs Monday to Saturday; on Sunday you can only get in by going to a service, which is free.*
+*Westminster Abbey's west towers.*
 
 ---
 

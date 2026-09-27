@@ -41,7 +41,7 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 ![Inside a sleeping capsule, a mattress and pillow in a wood-lined berth with hooks and a shelf, too low to stand in](../../assets/articles/pod-hotels-london/zedwell-capsule-interior.jpg)
 
-*Inside a capsule. Hooks, a shelf, a shutter, and no room to stand up.*
+*Inside a capsule.*
 
 **You check in at a desk and are given a floor and a berth number**, like a bunk on a sleeper train. The capsules run in stacked pairs down long corridors, upper and lower, and the floors are quiet by design — the lighting is low, the signage is discreet, and people talk in the voices they would use in a library.
 
@@ -53,7 +53,7 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 ![A corridor of capsules with signage pointing to Cocoon 5.163-5.164 in one direction and Toilets and Showers in the other](../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg)
 
-*The signage tells you which way the showers are, because they are not in your berth.*
+*The way to the showers.*
 
 **The honest part:** you sleep in it and you leave. There is no desk, no chair, nowhere to put a suitcase, and nowhere to sit up straight and read. If your plan involves any daytime in the room, this is the wrong booking.
 
@@ -130,7 +130,7 @@ Two things worth knowing about these numbers.
 
 ![A corridor of sleeping capsules at a Zedwell capsule hotel, lit strips along the floor and signage reading Cocoon 5.163-5.164 and Toilets Showers](../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg)
 
-*A capsule corridor at Zedwell. The signage is how you find yours - there are no windows and every corridor looks alike.*
+*A capsule corridor at Zedwell.*
 
 *£33–£68 · 965 capsules · London Pavilion, W1J 0DA · Piccadilly Circus 1 min · [check prices](hotel:zedwell-piccadilly-capsule)*
 
@@ -146,7 +146,7 @@ The trade is atmosphere. Nine hundred and sixty-five berths in one building feel
 
 ![A row of vanity stations with wall-mounted hairdryers and stools facing a long mirror, with a shower stall visible behind the glass partition](../../assets/articles/pod-hotels-london/zedwell-leicester-place-bathroom.jpg)
 
-*The shared bathroom floor at Zedwell Leicester Place. Vanity stations and mounted hairdryers face the mirror, shower stalls just behind — the same shared set-up as Piccadilly Circus.*
+*The shared bathroom floor at Zedwell Leicester Place.*
 
 Identical product, identical policies, a fifth of the size — and **above the Prince Charles Cinema**, which is a good address to wake up at. Dormitories run from 3 to 100 capsules, so this is the one for a group that wants a room of its own.
 
@@ -158,7 +158,7 @@ It is **not sold on Hotels.com or the other booking sites** — a search of the 
 
 ![A wall of white moulded sleeping capsules stacked two high, numbered 007 to 010, each with a hexagonal window, a steel grab handle and a painted city mural inside](../../assets/articles/pod-hotels-london/st-christophers-village-capsules.jpg)
 
-*The capsules at St Christopher's Village. Moulded pods with a hinged door and a numbered hatch, stacked two high — and a different object entirely from a curtained hostel bunk.*
+*The capsules at St Christopher's Village.*
 
 **The UK's first capsule hostel**, by their own claim, and the exception to everything else on this page. Twenty-six purpose-built capsules — mood lighting, a USB socket, a hinged door rather than a shutter — sit inside a full hostel of 178 beds across three floors, two minutes from London Bridge and Borough Market.
 
@@ -174,7 +174,7 @@ It is **not sold on Hotels.com or the other booking sites** — a search of the 
 
 ![Inside an Otherwander single nest: a cream-lined pod with a fold-down shelf, hanging rail and hooks, a UK socket, an air vent, a towel rail and a pink bag reading Sleep mode: Activated](../../assets/articles/pod-hotels-london/otherwander-single-nest.jpg)
 
-*An Otherwander single nest. A fold-down shelf, a hanging rail, a socket and a vent — better fitted out than the Zedwell berth, and about double the price.*
+*An Otherwander single nest.*
 
 Sold as **"nests"**, upper and lower, in singles and doubles — and the double nest genuinely sleeps two, which none of the others offer. Air conditioning, lighting and a socket in every pod, three minutes from the Elizabeth line.
 

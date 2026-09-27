@@ -31,7 +31,7 @@ The spine is the **Regent's Canal**: **8.6 miles and 13 locks** from Little Veni
 
 ![Narrowboats moored on the Paddington Arm, the water covered in duckweed, with the Westway flyover crossing behind](../../assets/articles/best-canal-walks-london/best-canal-walks-london.jpg)
 
-*The Paddington Arm between Little Venice and Paddington Basin, with the Westway overhead. The moorings along here are permanent, which is why the boats look lived-in.*
+*The Paddington Arm.*
 
 ## The sections, and how long each takes
 
@@ -53,13 +53,13 @@ The pretty one, and the one to walk if you only walk one. Little Venice is where
 
 ![The Waterside Cafe at Little Venice, a maroon narrowboat with red geraniums serving customers at canalside tables](../../assets/articles/best-canal-walks-london/little-venice-waterside-cafe.jpg)
 
-*The Waterside Cafe at Little Venice, which is a narrowboat rather than a building with a view of one.*
+*The Waterside Cafe, Little Venice.*
 
 Little Venice's moored boats are not all homes and cafes, either — **The BoAt Pod** is a converted narrowboat running as a podcast and DJ studio, bookable by the hour.
 
 ![The gold lettered "The BoAt Pod" signage on the roof of a black narrowboat moored at Little Venice, with "Podcast Facilities" and "Studio" painted on the side](../../assets/articles/best-canal-walks-london/the-boat-pod.jpg)
 
-*The BoAt Pod, a working podcast and radio studio on a moored narrowboat at Little Venice.*
+*The BoAt Pod, Little Venice.*
 
 From there the canal runs east through **Maida Hill Tunnel**, which you cannot walk through — see the tunnels section below — then along the north edge of **Regent's Park**, past the **aviary at London Zoo**, and into Camden.
 
@@ -81,11 +81,11 @@ Quieter immediately after Camden, and it improves the whole way. The canal runs 
 
 ![The Regent's Canal towpath near King's Cross, planted with reeds and wildflowers, running past redbrick apartment blocks](../../assets/articles/best-canal-walks-london/kings-cross-towpath-reeds.jpg)
 
-*The towpath by Camley Street, planted rather than mown — the reserve's influence spreads along the bank well beyond its own gate.*
+*The towpath by Camley Street.*
 
 ![Gasholders London, a circular apartment building built inside a restored Victorian gasholder frame, seen from the Regent's Canal towpath](../../assets/articles/best-canal-walks-london/kings-cross-gasholders-canal.jpg)
 
-*Gasholders London — the restored Victorian frames mentioned above, now wrapped around a circular apartment building right on the towpath.*
+*Gasholders London.*
 
 More in our [King's Cross guide](/articles/kings-cross-area-guide/) and [hidden London](/articles/hidden-london-secret-places/).
 
@@ -115,17 +115,17 @@ You pass **Kingsland Basin** and **Broadway Market** — worth leaving the canal
 
 ![The boating lake in Victoria Park with a fountain playing and trees along the far bank](../../assets/articles/best-canal-walks-london/victoria-park-boating-lake.jpg)
 
-*Victoria Park's boating lake, a few minutes off the towpath and worth the detour.*
+*Victoria Park's boating lake.*
 
 > **The Hertford Union Canal** branches off here — a mile and a quarter along the south edge of Victoria Park to the **River Lea** at Hackney Wick. Take it if you want the Olympic Park, the Lea Valley, or the canalside bars.
 
 ![People drinking at long canalside tables outside a warehouse bar at Hackney Wick](../../assets/articles/best-canal-walks-london/hackney-wick-canalside.jpg)
 
-*Hackney Wick, where the Hertford Union meets the Lea. The warehouses along here are now breweries and bars, and the terraces run right down to the water.*
+*Hackney Wick.*
 
 ![A trip boat crowded with passengers passing moored narrowboats on the Lea Navigation at Hackney Wick, graffiti-covered warehouses on the bank behind](../../assets/articles/best-canal-walks-london/hackney-wick-lea-narrowboats.jpg)
 
-*The Lea Navigation itself at Hackney Wick — a trip boat squeezing past permanent moorings, with the graffiti-covered warehouses that give the area its look.*
+*The Lea Navigation at Hackney Wick.*
 
 ---
 
@@ -137,17 +137,17 @@ The final run, and the most varied. The canal turns south through **Mile End Par
 
 ![A timber boardwalk winding through tall reeds and purple loosestrife in Mile End Park](../../assets/articles/best-canal-walks-london/mile-end-park-boardwalk.jpg)
 
-*The ecology park boardwalk in Mile End Park, a few metres off the towpath and almost always empty.*
+*The ecology park boardwalk, Mile End Park.*
 
 The reeds and lakes here belong to **the Ecology Pavilion**, a Tower Hamlets events venue — the building itself is only open to the public during a hired event, but the wetland boardwalk around it is free and open at all times. Further along, **the Art Pavilion** does the same trick with a different material: a gallery space built low into the bank with a glass wall onto its own small lake, easy to miss because it too is closed except when an exhibition is on.
 
 ![A reed-fringed lake covered in duckweed at the Art Pavilion in Mile End Park, with an apartment block behind](../../assets/articles/best-canal-walks-london/the-art-pavilion-lake.jpg)
 
-*The Art Pavilion's own small lake. The gallery building sits just out of frame to the left, closed except when an exhibition is on.*
+*The Art Pavilion's lake.*
 
 ![The Regent's Canal towpath in east London, with a long graffiti-covered wall on one side and moored narrowboats on the other](../../assets/articles/best-canal-walks-london/regents-canal-graffiti-narrowboats.jpg)
 
-*The towpath at Bow, narrowing between a graffiti wall and the moorings. This stretch is repainted constantly.*
+*The towpath at Bow.*
 
 **The Green Bridge** is the thing to look for — a bridge carrying the park itself, planted with trees, over the four lanes of Mile End Road. You walk through a park and only afterwards realise you crossed a main road.
 
@@ -157,7 +157,7 @@ Then the towpath tightens into its best stretch: low bridges, tunnels under the 
 
 ![Narrowboats and cruisers moored in Limehouse Basin, surrounded by brick apartment buildings](../../assets/articles/best-canal-walks-london/limehouse-basin-narrowboats.jpg)
 
-*Limehouse Basin, where the Regent's Canal meets the Thames. The lock down to the river is at the southern corner.*
+*Limehouse Basin.*
 
 **Limehouse DLR** is two minutes away, and Canary Wharf is one stop. Or walk there: the basin is stop 9 of our [Wapping to Canary Wharf walk](/articles/wapping-canary-wharf-walk/), which finishes along Narrow Street.
 
@@ -171,13 +171,13 @@ A short spur west from Little Venice into **Paddington Basin**, which is entirel
 
 ![The stepped waterside amphitheatre at Merchant Square, Paddington Basin, with modern buildings around it](../../assets/articles/best-canal-walks-london/paddington-basin-merchant-square.jpg)
 
-*Merchant Square at Paddington Basin. The steps are a good place to sit and the water is busier with boats than it looks.*
+*Merchant Square, Paddington Basin.*
 
 **Darcie & May Green**, a pair of narrowboats designed by the pop artist Sir Peter Blake, are moored right outside the station — Darcie does all-day dining, May Green does coffee and cocktails from a rooftop terrace.
 
 ![The brightly painted narrowboats of Darcie and May Green moored at Paddington Basin, with a rooftop terrace of diners above](../../assets/articles/best-canal-walks-london/darcie-and-may-green.jpg)
 
-*May Green's rooftop terrace, moored outside Paddington station. Sir Peter Blake, who designed the Sgt. Pepper's cover, painted both boats.*
+*Darcie and May Green, Paddington Basin.*
 
 Keep going west and the **Grand Union Canal** runs all the way out through Kensal Green, Wormwood Scrubs and Alperton, eventually reaching Birmingham. The London stretches are quiet, green and almost entirely unvisited.
 

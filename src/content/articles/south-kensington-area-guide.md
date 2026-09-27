@@ -79,7 +79,7 @@ South Kensington has its own share of the commemorative plaques marking where no
 
 ## Top sights and activities
 
-1. **Natural History Museum** — Alfred Waterhouse's terracotta cathedral of a building, with "Hope" the blue whale skeleton suspended in Hintze Hall. The building itself is as good as the collection.
+1. **Natural History Museum** — Alfred Waterhouse's terracotta cathedral of a building, with "Hope" the blue whale skeleton suspended in Hintze Hall. The building itself is as good as the collection, and its ticketed Wildlife Photographer of the Year show typically runs from mid-October to the following July.
 2. **Victoria and Albert Museum (V&A)** — 145 galleries covering 5,000 years of art and design. The John Madejski Garden in the centre is the best courtyard in London to sit in, and the original Victorian refreshment rooms are the world's first museum cafe.
 3. **Science Museum** — Rockets, jet engines and the Apollo 10 command module. **Wonderlab** upstairs is hands-on and the one part that charges.
 4. **Royal Albert Hall** — The circular concert hall at the top of Exhibition Road. Home of the BBC Proms each summer, when standing tickets in the arena go for a few pounds on the day.
@@ -90,15 +90,15 @@ South Kensington has its own share of the commemorative plaques marking where no
 
 ![The terracotta towers of the Natural History Museum in evening light](../../assets/articles/south-kensington-area-guide/natural-history-museum-own.jpg)
 
-*The Natural History Museum. Alfred Waterhouse's 1881 building is as much the attraction as the collection.*
+*The Natural History Museum.*
 
 ![The blue whale skeleton "Hope" suspended from the ceiling of Hintze Hall at the Natural History Museum](../../assets/articles/south-kensington-area-guide/natural-history-museum-whale.jpg)
 
-*"Hope" the blue whale skeleton, suspended over Hintze Hall since 2017. Free, and the first thing you see through the main doors.*
+*"Hope" the blue whale skeleton.*
 
 ![Visitors looking at framed prints on the walls of the Wildlife Photographer of the Year exhibition at the Natural History Museum](../../assets/articles/south-kensington-area-guide/wildlife-photographer-of-the-year.jpg)
 
-*Inside the **Wildlife Photographer of the Year** exhibition, the Museum's ticketed annual show of the year's 100 winning images. It typically runs from mid-October to the following July, so check what's on before planning around it specifically.*
+*The Wildlife Photographer of the Year exhibition.*
 
 ### Exhibition Road
 The spine, resurfaced in 2012 as a shared surface with no kerbs, so pedestrians and traffic share the road — which works better than it sounds and makes the walk up from the station genuinely pleasant.
@@ -120,11 +120,11 @@ The tiled Victorian tunnel running underground from the station towards the muse
 
 ![The Royal Albert Hall in low evening sun, with the Prince Consort memorial in front](../../assets/articles/south-kensington-area-guide/royal-albert-hall.jpg)
 
-*The Royal Albert Hall at the top of Exhibition Road. Standing tickets for the Proms go for a few pounds on the day.*
+*The Royal Albert Hall.*
 
 ![Looking down over the circular auditorium of the Royal Albert Hall mid-concert, with stage lighting and a full audience in the stalls and circle](../../assets/articles/south-kensington-area-guide/royal-albert-hall-interior.jpg)
 
-*Inside during a show. The circular auditorium seats over 5,000 and there is not a bad view in the house.*
+*Inside the Royal Albert Hall.*
 
 ### Cromwell Road and Thurloe Square
 Grand stucco terraces and private garden squares south of the museums — white-fronted, porticoed, and almost entirely residential.

@@ -57,7 +57,7 @@ The one thing to check is the day. Only Mudchute, Kentish Town and Surrey Docks 
 
 ![A brown horned ram standing in the sun beside a water trough in a grass paddock, behind a low post and wire fence](../../assets/articles/london-with-children/city-farm-sheep.jpg)
 
-*This is the whole proposition: an animal at arm's length, behind a fence a child can see over, for nothing.*
+*A city farm.*
 
 ### Mudchute Park and Farm, Isle of Dogs
 
@@ -97,7 +97,7 @@ Four and a half acres between Stepney Green and the Mile End Road, with rare-bre
 
 ![A white goat with a red collar reaching through a wooden fence, with a kid climbing on a tree stump in the paddock behind](../../assets/articles/london-with-children/city-farm-goats.jpg)
 
-*Goats are on every one of the eight, and they are the reason most children stay longer than the adults expected.*
+*Goats at a city farm.*
 
 ### Freightliners Farm, Islington
 
@@ -183,13 +183,13 @@ An indoor amusement park on Castlehaven Road, a minute from Camden Lock, on thre
 
 ![Neon-lit alien-themed rides and a flying saucer carousel inside Babylon Park in Camden](../../assets/articles/london-with-children/babylon-park-camden.jpg)
 
-*Babylon Park, under Camden High Street. It is much bigger than the entrance suggests — the rides run down three floors.*
+*Babylon Park, Camden.*
 
 ### Granary Square Fountains, King's Cross
 
 ![Children running through the ground fountains at Granary Square in King's Cross on a summer afternoon](../../assets/articles/london-with-children/granary-square-fountains.jpg)
 
-*Free, unfenced and running all summer. Bring a towel and a change of clothes.*
+*The Granary Square fountains.*
 
 *Free · daylight hours, every day · King's Cross St Pancras*
 

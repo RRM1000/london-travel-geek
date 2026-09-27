@@ -75,7 +75,7 @@ The docks are the point. Nearly every walkway here runs alongside a stretch of V
 
 ![Office towers and moored boats reflected in a Canary Wharf dock at sunset](../../assets/articles/canary-wharf-area-guide/dock-sunset.jpg)
 
-*The docks catch the light better than the towers do. They face west, so this is what the last hour does to them — worth timing a walk for.*
+*The docks at sunset.*
 
 Canary Wharf has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=canary-wharf).
 
@@ -93,29 +93,29 @@ Canary Wharf has its own share of the commemorative plaques marking where notabl
 
 1. **Crossrail Place Roof Garden** — Free, open daily, and built on top of the Elizabeth line station under a timber lattice roof. Planted by hemisphere along the meridian line. The single best thing here.
 2. **London Museum Docklands** — Free, in a Georgian sugar warehouse on West India Quay. The story of the docks, the river, and London's part in the transatlantic slave trade. Rarely busy.
-3. **Eden Dock** — Floating planted islands and wetland walkways installed in Middle Dock, turning a stretch of open water into a genuine habitat. Free, and best seen from the boardwalk on the north side.
+3. **Eden Dock** — Floating planted islands and wetland walkways installed in Middle Dock, turning a stretch of open water into a genuine habitat. Free, and best seen from the boardwalk on the north side. The timber terracing doubles as seating.
 4. **The dockside walks** — Middle Dock, West India Quay and the Wood Wharf boardwalks. Flat, quiet and lined with water on both sides.
 5. **Sea Lanes** — A **50-metre heated floating swimming pool** at the western end of Eden Dock, open since **19 June 2026**. **£10** to swim, **£18** with the sauna. Weekdays 6am–9pm, weekends 7am–7pm.
 6. **Open water swimming in Middle Dock** — Separate from the pool, and colder: a marked, lifeguarded open-water venue in the dock between the towers, running seasonally from roughly June to October since 2022. Booked in advance, and around £9.50 a session plus annual membership.
 7. **Fairgame** — Electronic fairground games and street food on Fisherman's Walk, and the clearest sign the estate's weekends have changed: **open until 1am on Saturdays and midnight on Sundays**. From £15 a head for 75 minutes off-peak.
-8. **Skuna hot tub and barbecue boats** — Self-drive boats on the dock with a hot tub or a barbecue on board, and heated igloo boats in winter.
+8. **Skuna hot tub and barbecue boats** — Self-drive boats on the dock with a hot tub or a barbecue on board, no licence needed, and heated igloo boats in winter.
 9. **The public art** — Around seventy works scattered across the estate, all free to see and mostly unmarked. There is a printed trail if you want one.
 10. **Wood Wharf** — The newest quarter, east of the towers, and where the good restaurants are. A floating Hawksmoor, a genuine waterside promenade, and Mercato Metropolitano's food hall on George Street.
 11. **One Canada Square** — The pyramid-topped tower that was Britain's tallest building from 1991 to 2012. No public viewing floor, but the lobby is worth a look.
-12. **Winter Lights** — A **free** light-art festival across the estate every January, no booking needed. The 2026 edition ran 20–31 January, 5pm to 10pm, and was the tenth. Dates for 2027 are not published yet.
+12. **Winter Lights** — A **free** light-art festival across the estate every January, no booking needed. The 2026 edition ran 20–31 January, 5pm to 10pm, and was the tenth, and it is the busiest the walkways get all year. Dates for 2027 are not published yet.
 
 ![Inside the Crossrail Place Roof Garden, with dense planting beneath a triangulated timber and glass roof](../../assets/articles/canary-wharf-area-guide/crossrail-place-roof-garden.jpg)
 
-*Inside the Crossrail Place Roof Garden. It sits directly on top of the Elizabeth line station and is free to enter.*
+*Inside the Crossrail Place Roof Garden.*
 
 
 ![Small round boats with sun umbrellas and built-in barbecues on the dock at Canary Wharf, with people cooking on board](../../assets/articles/canary-wharf-area-guide/skuna-bbq-boats.jpg)
 
-*Skuna's barbecue boats on Middle Dock. You drive them yourself and cook while you go - no licence needed.*
+*Skuna's barbecue boats on Middle Dock.*
 
 ![The brick Georgian warehouse on West India Quay that houses the London Museum Docklands](../../assets/articles/canary-wharf-area-guide/museum-of-london-docklands.jpg)
 
-*The London Museum Docklands, in a Georgian sugar warehouse on West India Quay. Free, and much quieter than the Canary Wharf towers opposite. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/6455266221), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The London Museum Docklands, West India Quay. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/6455266221), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Key streets and micro-districts
 
@@ -135,14 +135,14 @@ The **London Museum Docklands** occupies one of them, telling the story of the r
 
 ![Georgian warehouses and a preserved dockside crane at West India Quay, with the City skyline in the distance](../../assets/articles/canary-wharf-area-guide/west-india-quay.jpg)
 
-*West India Quay. The Georgian sugar warehouses on the left house the London Museum Docklands; the preserved crane on the right is one of several left along the dock.*
+*West India Quay's Georgian warehouses.*
 
 ### Crossrail Place
-The Elizabeth line station, and **the best piece of architecture in Canary Wharf** — a timber lattice roof over four levels, built into the old North Dock so the whole structure floats in water.
+The Elizabeth line station, and **the best piece of architecture in Canary Wharf** — a timber lattice roof over four levels, built into the old North Dock so the whole structure floats in water, with the garden enclosed under the roof rather than open to the sky.
 
 ![The timber lattice roof of Crossrail Place rising out of the dock water at Canary Wharf, with office towers behind](../../assets/articles/canary-wharf-area-guide/crossrail-place-dock.jpg)
 
-*The timber lattice roof rising straight out of the dock. The garden inside it is enclosed rather than open-air.*
+*Crossrail Place's timber lattice roof.*
 
 The **roof garden on top is free and open to the public**, planted with species from the trade routes the docks once served, and it is genuinely quiet even at lunchtime.
 
@@ -159,11 +159,11 @@ The **boardwalk** runs along the dock edge with the best of the waterside restau
 
 ![Glass-fronted restaurants including a floating Hawksmoor along the Wood Wharf waterside promenade](../../assets/articles/canary-wharf-area-guide/wood-wharf.jpg)
 
-*Wood Wharf's restaurant strip. Hawksmoor's site here floats on the dock itself.*
+*Wood Wharf's restaurant strip.*
 
 ![Swimmers with orange tow floats crossing the open water of Middle Dock between the towers at Canary Wharf](../../assets/articles/canary-wharf-area-guide/middle-dock-swimming.jpg)
 
-*Open water swimming in Middle Dock. Sessions are lifeguarded and booked in advance.*
+*Open water swimming in Middle Dock.*
 
 ### Heron Quays and South Dock
 South, facing across the water towards Greenwich, and **the quietest part of the estate to walk** — dock edges, footbridges and very few people once the offices empty.
@@ -175,7 +175,7 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 ![People sitting in a wood-fired hot tub built into a small boat on the dock at Canary Wharf](../../assets/articles/canary-wharf-area-guide/skuna-hot-tub-boat.jpg)
 
-*The hot tub boats run year-round. The chimney is a wood burner, and the water is properly hot in January.*
+*The hot tub boats on Middle Dock.*
 
 ## Go deeper
 
@@ -197,7 +197,7 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 ![The interior of Adams Plaza Bridge at Canary Wharf, a mirrored tunnel lined with bands of coloured glass](../../assets/articles/canary-wharf-area-guide/adams-plaza-bridge.jpg)
 
-*Adams Plaza Bridge, the covered walkway between Canary Wharf station and Crossrail Place. It is a short cut people photograph rather than a sight in itself.*
+*Adams Plaza Bridge.*
 
 ## Getting there
 
@@ -209,14 +209,14 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 ![The DLR viaduct running between glass office towers over a Canary Wharf dock, with a crowd gathered below](../../assets/articles/canary-wharf-area-guide/dlr-viaduct.jpg)
 
-*The DLR viaduct threading between the towers. The elevated track is why the front-seat view works.*
+*The DLR viaduct.*
 
 **On foot to Greenwich.** Walk the length of the Isle of Dogs, or take the DLR two stops to **Island Gardens**, then the **Greenwich Foot Tunnel** under the river. Free, open at all hours, and the lifts at both ends run 24 hours — see the [full walking route](/articles/canary-wharf-greenwich-walk/).
 
 
 ![A large illuminated WINTER LIGHTS sign at Canary Wharf at dusk, with people walking past](../../assets/articles/canary-wharf-area-guide/winter-lights-canary-wharf.jpg)
 
-*Winter Lights runs across the estate for two weeks each January. It is free, needs no ticket, and is the busiest the walkways get all year.*
+*Winter Lights, Canary Wharf.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -231,7 +231,7 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 ![Floating planted islands and wetland walkways at Eden Dock, with Canary Wharf towers rising behind](../../assets/articles/canary-wharf-area-guide/eden-dock.jpg)
 
-*Eden Dock, the planted wetland installed in Middle Dock. The timber terracing doubles as seating.*
+*Eden Dock.*
 
 **Best time:** Early evening gives the best photographs, with the towers lit and reflecting in the docks. Weekday lunchtimes are the busiest and most alive; weekends are quieter on the walkways but the water and the restaurants are now the reason to come.
 

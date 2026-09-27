@@ -102,7 +102,7 @@ The interior is the reason: a vast barrel-vaulted auditorium with the original R
 
 ![The Royal Albert Hall auditorium during a concert, tiers of red seating curving around a lit stage](../../assets/articles/best-live-music-venues-london/royal-albert-hall.jpg)
 
-*The Royal Albert Hall mid-performance. It seats over 5,000 and the Proms run here every summer.*
+*The Royal Albert Hall.*
 
 <div data-venue-listings="Royal Albert Hall" data-compact data-label="the Royal Albert Hall"></div>
 
@@ -161,7 +161,7 @@ That shape is the whole experience: there is no bad angle exactly, but there is 
 
 ![The interior of the Roundhouse, its iron columns and circular gallery rising above the floor](../../assets/articles/best-live-music-venues-london/roundhouse-interior.jpg)
 
-*The Roundhouse. It was built to turn steam locomotives, which is why the room is a true circle and the columns are where they are.*
+*The Roundhouse, Chalk Farm.*
 
 <div data-venue-listings="Roundhouse" data-compact data-label="the Roundhouse"></div>
 
@@ -310,7 +310,7 @@ The room is small and rectangular with **a balcony you can book a table on and e
 
 ![The Jazz Cafe in Camden, a white stucco building lettered London's Famous Jazz Venue above the windows](../../assets/articles/best-live-music-venues-london/jazz-cafe-camden.jpg)
 
-*The Jazz Cafe on Parkway. The building was a bank before it was a music venue, which is why the frontage looks nothing like one.*
+*The Jazz Cafe, Camden Town.*
 
 <div data-venue-listings="The Jazz Cafe" data-compact></div>
 

@@ -146,7 +146,7 @@ The distinction that matters more than genre. In these, you have a role, and sta
 
 ![A vast illuminated maze laid out across a dark floor in glowing blue and white lines and dots, with players running the corridors and a scoreboard reading CHOMP on the wall above](../../assets/articles/immersive-experiences-london/pac-man-live-maze.jpg)
 
-*The maze is the floor, and you are the yellow dot. Photo: PAC-MAN™ &amp; © Bandai Namco Entertainment Inc. / The Ents Inc Ltd.*
+*PAC-MAN LIVE EXPERIENCE. Photo: PAC-MAN™ &amp; © Bandai Namco Entertainment Inc. / The Ents Inc Ltd.*
 
 **Alien Invasion** is the new one and the reason to pay attention: you join the Cosmic Cadets against an extraterrestrial threat in what is billed as **the UK's first immersive drone experience**. It debuts here.
 
@@ -176,11 +176,11 @@ The full Round Table format from the television series — **Traitors, Faithfuls
 
 **Most sessions are strictly 18+.** There are clearly labelled Family Friendly slots, recommended 14+ and open from 12 — and the gameplay in those is identical, murders included, so a twelve-year-old may be sitting next to you plotting your removal.
 
-**£29.50 tickets are available in every time slot**, first come first served, which makes it one of the better-value things on this page.
+**£29.50 tickets are available in every time slot**, first come first served, which makes it one of the better-value things on this page. Doors open 45 minutes early, so you can start sizing up the strangers you'll be playing against.
 
 ![The bar at The Traitors Live Experience, panelled in dark wood with green velvet curtains and patterned wallpaper](../../assets/articles/immersive-experiences-london/traitors-live-bar.jpg)
 
-*The bar you are held in before the game starts. Doors open 45 minutes early, which is deliberate — you are meant to be sizing up the strangers you are about to play against.*
+*The bar at The Traitors: Live Experience.*
 
 ### COME ALIVE! The Greatest Showman Circus Spectacular, Earls Court
 
@@ -200,7 +200,7 @@ The show that follows is circus crossed with musical theatre: a new story inspir
 
 ![Inside the Big Top at COME ALIVE, the tent draped in red fabric and strung with festoon lights above a circular circus ring, with tiered seating and a sign reading The Five Tops](../../assets/articles/immersive-experiences-london/come-alive-big-top.jpg)
 
-*The 700-seat Big Top, built inside the Empress Museum. The audience is wrapped around a circus ring rather than facing a proscenium — and everything you walk through to reach this room is part of the show.*
+*The Big Top at COME ALIVE!*
 
 ### Faulty Towers The Dining Experience, Bloomsbury
 
@@ -335,7 +335,7 @@ Allow **at least two hours**, and note last entry is two hours before closing. *
 
 ![A visitor silhouetted against Van Gogh's Starry Night Over the Rhone projected across two walls and the floor at Frameless](../../assets/articles/immersive-experiences-london/frameless-van-gogh.jpg)
 
-*Frameless. The projection runs onto the floor as well as the walls, which is what separates it from a gallery with a big screen in it.*
+*Van Gogh's Starry Night at Frameless.*
 
 Good accessibility provision: chilled sessions, deaf and hard-of-hearing support, and **a free carer ticket with any paid ticket**. The website prices dynamically rather than publishing a figure, so check on the day you want.
 
@@ -355,7 +355,7 @@ Level access through the main entrance, though there are steps into the individu
 
 ![A cathedral nave washed deep blue by projected stained-glass patterns across every arch and the ceiling, with an audience seated below](../../assets/articles/immersive-experiences-london/luminiscence-westminster.jpg)
 
-*LUMINISCENCE. Stained-glass patterns thrown across arches, pillars and ceiling, with the orchestra playing at the far end.*
+*LUMINISCENCE, Westminster Cathedral.*
 
 ### Lightroom: David Bowie — You're Not Alone, King's Cross
 
@@ -381,7 +381,7 @@ You sit or stand as you like and nobody performs at you. **Slots run every half 
 
 ![The Moulin Rouge set at the Piccadilly Theatre, a vast red and gold proscenium with the neon Moulin Rouge sign lit above the stage](../../assets/articles/immersive-experiences-london/moulin-rouge-piccadilly.jpg)
 
-*The Piccadilly Theatre dressed as the Moulin Rouge. The Can Can tables sit at the foot of that stage, inside the lit frame rather than looking at it.*
+*The Piccadilly Theatre, dressed as the Moulin Rouge.*
 
 ### ABBA Voyage, Pudding Mill Lane
 
@@ -399,7 +399,7 @@ Digital ABBA and a ten-piece live band in a purpose-built arena opposite the DLR
 
 ![Dozens of narrow blue light beams angled down over a full audience inside the ABBA Arena before the show](../../assets/articles/immersive-experiences-london/abba-arena-lighting-rig.jpg)
 
-*The arena filling up before the show. The rig above the audience is doing as much work as the screen.*
+*Inside the ABBA Arena before the show.*
 
 **Wheelchair spaces, ambulant seating and transfer-friendly seats are all available**, and ear defenders are free but limited, first come first served.
 
@@ -415,7 +415,7 @@ The programme rotates — recent pieces have included a butterfly trail, an ench
 
 ![The wraparound screens of the Now Building at Outernet showing a coastline from above, with people watching from the floor below](../../assets/articles/immersive-experiences-london/outernet-now-building.jpg)
 
-*The Now Building at Outernet, beside Tottenham Court Road station. Four storeys of screen on every side, and nobody takes a ticket off you at the door.*
+*The Now Building at Outernet.*
 
 ---
 

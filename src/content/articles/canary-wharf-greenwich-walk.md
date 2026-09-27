@@ -71,7 +71,7 @@ For where to stay and eat at either end, see the [Canary Wharf](/articles/canary
 
 ![Inside the Crossrail Place Roof Garden, with dense planting beneath a triangulated timber and glass roof](../../assets/articles/canary-wharf-greenwich-walk/crossrail-place-roof-garden.jpg)
 
-*The best thing in Canary Wharf is on top of a station, and most people walk underneath it without knowing it is there.*
+*Crossrail Place Roof Garden.*
 
 **Free and open daily**, until 9pm or sunset in summer. Crossrail Place is a timber lattice hull built into the old North Dock, so the whole building sits in water, and the garden on its roof is one of the largest in London.
 
@@ -83,7 +83,7 @@ Signs from the Elizabeth line, Jubilee and DLR platforms lead straight up to it,
 
 ![The brick Georgian warehouse on West India Quay that houses the Museum of London Docklands](../../assets/articles/canary-wharf-greenwich-walk/museum-of-london-docklands.jpg)
 
-*A Georgian sugar warehouse, five minutes north across the footbridge. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/6455266221), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Museum of London Docklands. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/6455266221), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 **Free, no booking, open 10am to 5pm every day, and the best hour on the north bank.** It fills No. 1 Warehouse on West India Quay, one of the few buildings here older than the 1980s, and covers four hundred years of the river and the port across three floors, including London's part in the transatlantic slave trade.
 
@@ -91,7 +91,7 @@ It is rarely busy, which is remarkable for a free museum this good.
 
 ![Georgian warehouses and a preserved dockside crane at West India Quay, with the City skyline in the distance](../../assets/articles/canary-wharf-greenwich-walk/west-india-quay.jpg)
 
-*West India Quay: the warehouse range, and one of the cranes left standing along the dock.*
+*West India Quay.*
 
 <div data-stay-strip></div>
 
@@ -99,7 +99,7 @@ It is rarely busy, which is remarkable for a free museum this good.
 
 ![Office towers and moored boats reflected in a Canary Wharf dock at sunset](../../assets/articles/canary-wharf-greenwich-walk/dock-sunset.jpg)
 
-*The docks face west, so this is what the last hour of light does to them.*
+*Canary Wharf's docks, at sunset.*
 
 **Twenty minutes beside water, which is the whole argument for walking rather than taking the DLR.** Canary Wharf is built on the West India Docks, which handled sugar and rum from the 1800s until they closed in 1980, and the water was kept. **Cabot Square** is the formal centre, and almost every walkway off it runs along a dock edge.
 
@@ -115,7 +115,7 @@ The name tells you what the ground is. The land was **made from mud dredged out 
 
 ![Swans and pigeons on a floating dock in an Isle of Dogs marina, with the converted Victorian warehouse flats behind and Canary Wharf's towers rising in the distance](../../assets/articles/canary-wharf-greenwich-walk/isle-of-dogs-marina-swans.jpg)
 
-*The docks on the way down are marinas now, and you can have this stretch almost to yourself.*
+*A marina on the Isle of Dogs.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-greenwich-walk-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -131,7 +131,7 @@ The round brick building with the glass dome, a minute west along the river wall
 
 ![The red brick and glass domed rotunda entrance to the Greenwich Foot Tunnel beside the Thames](../../assets/articles/canary-wharf-greenwich-walk/greenwich-foot-tunnel-rotunda.jpg)
 
-*The rotunda on the Greenwich side. There is an identical one at Island Gardens.*
+*The Greenwich Foot Tunnel's rotunda.*
 
 **The hinge of the walk.** You go down through a glazed rotunda on the Isle of Dogs, walk five minutes under the Thames through white tile, and come up in a World Heritage Site beside the *Cutty Sark*. It is free and open around the clock. There are spiral stairs at each end, and lifts if you need them.
 
@@ -139,7 +139,7 @@ The London County Council built it in 1902 so that workers living south of the r
 
 ![The cast-iron ribbed interior of the Greenwich Foot Tunnel running under the Thames](../../assets/articles/canary-wharf-greenwich-walk/foot-tunnel-interior.jpg)
 
-*Straight, lit and about five minutes long. The echo is the part people remember.*
+*Inside the Greenwich Foot Tunnel.*
 
 ## 7. The Cutty Sark
 
@@ -151,7 +151,7 @@ If you are not going in, the ship is free to look at from the street, and **the 
 
 ![Food stalls under the glass and iron roof of Greenwich Market, with banners reading I Heart Greenwich Market](../../assets/articles/canary-wharf-greenwich-walk/greenwich-market-stalls.jpg)
 
-*Under a roof, so it is the wet-weather lunch stop as well as the good-weather one.*
+*Greenwich Market.*
 
 **Two minutes inland, and the lunch stop.** Covered, open daily 10am to 5.30pm, and unusual for London in mixing crafts, antiques and makers with street food rather than being one or the other. It closes only on Christmas Day and the first six Mondays of the year, whatever older guides say about Mondays.
 
@@ -161,7 +161,7 @@ If you are not going in, the ship is free to look at from the street, and **the 
 
 ![Looking straight up at the ornate painted dome ceiling of the Painted Hall in the Old Royal Naval College](../../assets/articles/canary-wharf-greenwich-walk/painted-hall-ceiling.jpg)
 
-*Nineteen years of one man's work. Thornhill was paid a pound a square yard for the walls and three for the ceiling. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Painted Hall ceiling. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 **Wren's hospital for seamen, and the grandest set of buildings on the river.** Three things here, three answers on cost:
 
@@ -171,7 +171,7 @@ If you are not going in, the ship is free to look at from the street, and **the 
 
 ![The colonnade beside the Queen's House at the Old Royal Naval College, its white columns throwing long shadows across the flagstones](../../assets/articles/canary-wharf-greenwich-walk/naval-college-colonnade.jpg)
 
-*The colonnade running down to the Queen's House.*
+*The colonnade to the Queen's House.*
 
 > 💡 **Detour: the Trafalgar Tavern.** Five minutes east along the river, a pub from 1837 that Dickens used for a wedding breakfast in *Our Mutual Friend*. Order the whitebait, which made it famous. The catch: it closed in 1915 and only reopened in 1965, when craftsmen from Pinewood Studios remodelled the interior, so the Regency grandeur is largely a film set.
 
@@ -179,7 +179,7 @@ If you are not going in, the ship is free to look at from the street, and **the 
 
 ![The National Maritime Museum's columned entrance, with two giant white anchors standing either side of the doorway](../../assets/articles/canary-wharf-greenwich-walk/national-maritime-museum.jpg)
 
-*Free, and underrated because it sits between two things that charge.*
+*The National Maritime Museum.*
 
 **Both free, daily 10am to 5pm** (last entry 4.15pm).
 
@@ -195,7 +195,7 @@ Do these before the hill, not after. By the time you have climbed it you will no
 
 ![Greenwich Park looking down over the Old Royal Naval College to the Thames, Canary Wharf and the O2](../../assets/articles/canary-wharf-greenwich-walk/greenwich-park-view.jpg)
 
-*The end of the walk, looking back at the start. The towers on the horizon are stop one.*
+*The view from Greenwich Park.*
 
 **The climb is steeper than it looks**: ten minutes from the museum, and almost all of the walk's height is in it. Greenwich Park is the oldest enclosed royal park in London, deer have lived in The Wilderness since the 1600s, and the gates are open 6am to 8pm.
 

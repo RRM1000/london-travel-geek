@@ -39,7 +39,7 @@ Contactless does not work. That trips people up at the gate, and it also costs t
 
 ![King's College Chapel in Cambridge, its pinnacles and great east window lit pink at dusk](../../assets/articles/cambridge-day-trip/kings-college-chapel.jpg)
 
-*King's College Chapel, the £16.75 ticket that most visitors buy. Photo: The IOP, Pexels.*
+*King's College Chapel. Photo: The IOP, Pexels.*
 
 ## Getting there
 

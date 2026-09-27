@@ -42,10 +42,7 @@ The Elizabeth line runs west–east through central London, linking Paddington, 
 
 ![A platform line diagram at Great Portland Street showing westbound stops on the Hammersmith & City and Circle lines](../../assets/articles/oyster-train-lines/circle-hammersmith-line-diagram.jpg)
 
-*Every platform carries a diagram of that platform's line and direction. Checking it before boarding is the simplest way to avoid taking the wrong branch.*
-
-
-All 11 Tube lines are rated below — tap any line to open it. The Elizabeth line, DLR and London Overground are covered after this section.
+All 11 Tube lines are rated below — tap any line to open it. Checking the platform diagram before boarding is the simplest way to avoid taking the wrong branch. The Elizabeth line, DLR and London Overground are covered after this section.
 
 **Rating key:**
 
@@ -345,7 +342,7 @@ All London Overground trains are walk-through and air-conditioned. Several lines
 
 ![A London Overground Class 710 train at Liverpool Street station.](../../assets/articles/oyster-train-lines/london-overground-liverpool-street.jpg)
 
-*A Class 710 London Overground train at Liverpool Street. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:London_Overground_train_710113_at_Liverpool_Street.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*London Overground at Liverpool Street. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:London_Overground_train_710113_at_Liverpool_Street.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Best choices for comfort
 

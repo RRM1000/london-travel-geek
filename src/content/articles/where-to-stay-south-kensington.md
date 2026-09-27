@@ -114,7 +114,7 @@ By Astor's own reckoning the Natural History Museum is ten minutes' walk and the
 
 ![A shared dorm at Astor Hyde Park, with red-framed bunk beds and a tall sash window](../../assets/articles/where-to-stay-south-kensington/astor-hyde-park-dorm.jpg)
 
-*One of the shared dorms at Astor Hyde Park.*
+*A dorm at Astor Hyde Park.*
 
 ## The evening problem, and the two nights it does not apply
 

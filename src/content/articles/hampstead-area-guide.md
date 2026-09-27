@@ -97,7 +97,7 @@ Hampstead has its own share of the commemorative plaques marking where notable p
 
 ![The brick and stone Hill Garden Pergola on Hampstead Heath, with planting along its raised walkway](../../assets/articles/hampstead-area-guide/hill-garden-pergola.jpg)
 
-*The Hill Garden and Pergola, built as a private Edwardian folly and now free to walk. Most visitors to the Heath never find it.*
+*The Hill Garden and Pergola.*
 
 ## Key streets and micro-districts
 
@@ -138,18 +138,18 @@ A single street of unbroken early-Georgian terrace, generally reckoned the fines
 
 ![An ivy-covered brick terrace on a quiet Hampstead street, with parked cars and a hedge-lined pavement](../../assets/articles/hampstead-area-guide/hampstead-ivy-street.jpg)
 
-*One of Hampstead's Georgian terraces — this is the general character of the village's back streets, not only Church Row itself.*
+*One of Hampstead's Georgian terraces.*
 
 ### The Vale of Health
-A genuine hamlet marooned inside the Heath itself, near North End — a handful of ivy-covered cottages down a single lane, easy to walk past without noticing the turning.
+A genuine hamlet marooned inside the Heath itself, near North End — a handful of ivy-covered cottages down a single lane, easy to walk past without noticing the turning. Nearby, the Hill Garden Pergola is at its best in late spring, when the wisteria is out.
 
 ![An ivy-covered brick cottage in the Vale of Health, a small hamlet inside Hampstead Heath](../../assets/articles/hampstead-area-guide/vale-of-health.jpg)
 
-*One of the Vale of Health's cottages. D.H. Lawrence lived here in 1915, at 1 Byron Villas — reportedly the only London address he ever called home.*
+*One of the Vale of Health's cottages.*
 
 ![The raised colonnaded walkway of the Hill Garden Pergola, overgrown with climbing plants](../../assets/articles/hampstead-area-guide/hill-garden-pergola-walkway.jpg)
 
-*The pergola walkway. It is at its best in late spring when the wisteria is out.*
+*The pergola walkway.*
 
 ## Go deeper
 
@@ -172,7 +172,7 @@ A genuine hamlet marooned inside the Heath itself, near North End — a handful 
 
 ![One of the Hampstead Heath bathing ponds, ringed by trees, with a swimmers' noticeboard in the foreground](../../assets/articles/hampstead-area-guide/hampstead-heath-bathing-pond.jpg)
 
-*One of the Heath's bathing ponds. There are separate men's, ladies' and mixed ponds; the mixed one closes from November to March.*
+*One of the Heath's bathing ponds.*
 
 ## Getting there
 
@@ -185,7 +185,7 @@ A genuine hamlet marooned inside the Heath itself, near North End — a handful 
 
 ![A wide woodland path through mature trees on Hampstead Heath](../../assets/articles/hampstead-area-guide/heath-woodland-path.jpg)
 
-*The Heath is 790 acres and genuinely easy to get lost in, which is the point.*
+*Hampstead Heath's woodland path.*
 
 ## How long to spend, and when to go
 

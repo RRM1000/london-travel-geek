@@ -93,16 +93,16 @@ Westminster has its own share of the commemorative plaques marking where notable
 
 ![Westminster Abbey's twin west towers rising above a red London bus in the foreground](../../assets/articles/westminster-area-guide/westminster-abbey-towers.jpg)
 
-*The Abbey's west towers, added in the 1740s - centuries after the rest of the building.*
+*Westminster Abbey's west towers.*
 3. **Churchill War Rooms** — The underground bunker left largely as it was in 1945, with the map room untouched. Book timed entry well ahead.
-4. **Changing the Guard** — At Buckingham Palace at 10.45 on **Monday, Wednesday and Friday** (soldiers gather from 10.00; it can be cancelled in wet weather as late as 10.45). **Horse Guards** on Whitehall is smaller and far less crowded, but only runs the full mounted ceremony on **Monday, Wednesday and Friday at 11:00** — other days get a shorter inspection instead. There is also a free inspection **every day at 16:00** that almost nobody times a visit around.
+4. **Changing the Guard** — At Buckingham Palace at 10.45 on **Monday, Wednesday and Friday** (soldiers gather from 10.00; arrive by 10:15 for a view that isn't three rows deep; it can be cancelled in wet weather as late as 10.45). **Horse Guards** on Whitehall is smaller and far less crowded, but only runs the full mounted ceremony on **Monday, Wednesday and Friday at 11:00** — other days get a shorter inspection instead. There is also a free inspection **every day at 16:00** that almost nobody times a visit around.
 5. **St James's Park** — The best park in central London, with the pelicans and the view from the blue bridge back towards Whitehall.
 6. **Trafalgar Square and the National Gallery** — At the top of Whitehall. The gallery is free and one of the great collections in Europe.
 7. **Westminster Cathedral** — Not the Abbey. A striped Byzantine-style Catholic cathedral ten minutes south, with a lift up its tower for one of the cheapest good views in London.
 
 ![Mounted Household Cavalry troopers in red tunics and plumed helmets riding past Buckingham Palace's gates](../../assets/articles/westminster-area-guide/changing-the-guard.jpg)
 
-*The Household Cavalry passing the Palace gates. Arrive by 10:15 for a view that isn't three rows deep.*
+*The Household Cavalry passing the Palace gates.*
 
 ## Key streets and micro-districts
 
@@ -126,7 +126,7 @@ Westminster station comes up directly onto the corner, and the *Suffragette* and
 
 ![Nelson's Column and the fountains of Trafalgar Square in late afternoon](../../assets/articles/westminster-area-guide/trafalgar-square.jpg)
 
-*Trafalgar Square sits at the top of Whitehall, a ten-minute walk from Parliament Square and free to wander.*
+*Trafalgar Square.*
 
 The government spine running north from Parliament Square to Trafalgar Square, about ten minutes end to end and free the whole way.
 
@@ -140,11 +140,11 @@ The government spine running north from Parliament Square to Trafalgar Square, a
 
 ![Mounted Household Cavalry on parade at Horse Guards, Whitehall](../../assets/articles/westminster-area-guide/horse-guards-parade.jpg)
 
-*The full mounted ceremony at Horse Guards — Monday, Wednesday and Friday at 11:00 only. Other days get a shorter inspection at the same time.*
+*The mounted ceremony at Horse Guards.*
 
 ![The Horse Guards building on a quiet afternoon, with tourists on the parade ground and the London Eye visible behind](../../assets/articles/westminster-area-guide/horse-guards-parade-building.jpg)
 
-*Horse Guards between ceremonies — you can walk right onto the parade ground, which is not obvious from the street. There's a free inspection here every day at 16:00, mounted or not.*
+*Horse Guards, between ceremonies.*
 
 ### St James's Park and The Mall
 

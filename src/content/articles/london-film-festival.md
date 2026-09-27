@@ -124,7 +124,7 @@ The **Patron** tiers — £2,000, £6,500 and £15,000 — got one further day o
 
 ![The glass frontage of BFI Southbank, signed for the cinemas, box office, Mediatheque, Reuben Library and bar](../../assets/articles/london-film-festival/bfi-southbank-box-office.jpg)
 
-*BFI Southbank is the festival's centre of gravity, and its box office handles the standby queue for Royal Festival Hall screenings too.*
+*BFI Southbank.*
 
 Seven London venues for 2026:
 

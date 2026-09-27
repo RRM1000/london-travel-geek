@@ -95,7 +95,7 @@ Islington has its own share of the commemorative plaques marking where notable p
 
 ![Antique shopfronts along Camden Passage in Islington](../../assets/articles/islington-area-guide/camden-passage.jpg)
 
-*Camden Passage, an alley of antique dealers behind Upper Street. Busiest for the market on Wednesdays and Saturdays. Photo: [David Hallam-Jones](https://commons.wikimedia.org/w/index.php?curid=122641586), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Camden Passage. Photo: [David Hallam-Jones](https://commons.wikimedia.org/w/index.php?curid=122641586), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Key streets and micro-districts
 
@@ -111,7 +111,7 @@ The **antiques trade** dates to the 1960s, when the market was founded by John P
 
 ![Antique dealers' shopfronts in Camden Passage, Islington, with pavement café tables and string lights strung overhead](../../assets/articles/islington-area-guide/camden-passage-cafes.jpg)
 
-*The passage doubles as a place to eat as much as to browse — the café tables come out whatever the market is doing.*
+*Café tables in Camden Passage.*
 
 The **Camden Head** pub, at the Islington Green end, hosts **Angel Comedy Club** every night of the week — genuinely free entry, and well enough regarded that Time Out has called it a "comedy institution." Arrive early; it fills up.
 
@@ -128,7 +128,7 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 
 ![The white stucco frontage of the Almeida Theatre in Islington](../../assets/articles/islington-area-guide/almeida-theatre.jpg)
 
-*The Almeida. Three hundred and twenty-five seats, and a habit of sending its productions to the West End. Photo: [Photo: Andreas Praefcke](https://commons.wikimedia.org/w/index.php?curid=15582698), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).*
+*The Almeida Theatre. Photo: [Andreas Praefcke](https://commons.wikimedia.org/w/index.php?curid=15582698), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).*
 
 ## Where to eat and drink
 
@@ -143,7 +143,7 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 
 ![The Chapel Market sign spanning the street in Islington](../../assets/articles/islington-area-guide/chapel-market.jpg)
 
-*Chapel Market, a working street market rather than a curated one. Fruit and veg, and cheaper than anywhere on Upper Street. Photo: [David Hallam-Jones](https://commons.wikimedia.org/w/index.php?curid=122596944), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Chapel Market. Photo: [David Hallam-Jones](https://commons.wikimedia.org/w/index.php?curid=122596944), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Getting there
 

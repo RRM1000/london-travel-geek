@@ -71,7 +71,7 @@ In rough date order through the year.
 
 ![Cross the Tracks in Brockwell Park: people crossing the grass towards a covered main stage, with bunting, flags and a row of colourful stalls under a blue sky](../../assets/articles/london-music-festivals-2027/brockwell-park-festival-field.jpg)
 
-*Cross the Tracks in Brockwell Park, with the main stage across the field.*
+*Cross the Tracks, Brockwell Park.*
 
 **Sunday 30 May 2027.** [Cross the Tracks](https://www.xthetracks.com/) is jazz, funk and soul, mixing heritage acts with emerging artists. **Little Simz** headlined on 24 May 2026, the year after Ezra Collective. **All ages**; children aged 3 to 17 need a bolt-on to get into the VIP area. There are more than 50 street food traders and a craft beer fair. In 2026 it ran 12pm to 10.45pm, with last entry at 8pm. [Tickets on Skiddle](https://www.skiddle.com/festivals/crossthetracks/).
 
@@ -89,7 +89,7 @@ In rough date order through the year.
 
 ![The red-brick Great Gatehouse on the west front of Hampton Court Palace, with a Union flag on its turret and flower beds in front of the moat wall](../../assets/articles/london-music-festivals-2027/hampton-court-great-gatehouse.jpg)
 
-*The west front of Hampton Court Palace. The concerts are held in Base Court, inside.*
+*Hampton Court Palace.*
 
 **June. 2027 not yet announced.** Evening concerts in Base Court at [Hampton Court Palace](https://hamptoncourtpalacefestival.com/), with **3,000 seats a night**. People picnic in the East Front Gardens first. It ran **10 to 20 June 2026**, and the headliners included **David Gray**, **OMD**, **The Stranglers**, **Nile Rodgers & CHIC**, **Elvis Costello & The Imposters** and **Sophie Ellis-Bextor**. There are two direct trains an hour from Waterloo to Hampton Court, taking about 40 minutes, and the 111 bus stops outside the palace 24 hours a day. The site has a waitlist for 2027 tickets. [Tickets on Skiddle](https://www.skiddle.com/festivals/hampton-court-palace-festival/).
 
@@ -97,7 +97,7 @@ In rough date order through the year.
 
 ![The Royal Festival Hall seen from the Thames, with a pier in front, a row of trees along the embankment and a tall office tower behind](../../assets/articles/london-music-festivals-2027/royal-festival-hall-from-thames.jpg)
 
-*The Royal Festival Hall, on the Southbank Centre's riverside site.*
+*The Royal Festival Hall.*
 
 **Mid-June. 2027 curator and dates not yet announced.** The Southbank Centre calls [Meltdown](https://www.southbankcentre.co.uk/events/meltdown/) the world's longest-running artist-curated music festival: each year one musician programmes the 11-acre site. **Harry Styles** curated 2026, from **11 to 21 June**, and played a headline show at the Royal Festival Hall on 16 June; Little Simz curated 2025. The 2026 festival added free events to the ticketed gigs. [Tickets on Skiddle](https://www.skiddle.com/festivals/meltdown/).
 
@@ -105,7 +105,7 @@ In rough date order through the year.
 
 ![A crowd standing on the grass in Hyde Park in front of the BST stage, which is dressed as giant trees and lit blue, with a singer on the big screen to the left](../../assets/articles/london-music-festivals-2027/bst-hyde-park-crowd-tree-stage.jpg)
 
-*Every show is standing only, on the grass in front of a stage dressed as a stand of trees.*
+*The Great Oak Stage, Hyde Park.*
 
 **Late June to mid-July. 2027 not yet announced.** [American Express presents BST Hyde Park](https://www.bst-hydepark.com/) is a run of one-headliner days on the Great Oak Stage: in 2026 there were nine shows over three weekends, **27 June to 12 July**. The headliners were **Garth Brooks** (65,000 people, his first UK show in almost 30 years), **ATEEZ**, **Maroon 5**, **Mumford & Sons**, **Duran Duran**, **Pitbull**, and **Lewis Capaldi** on two nights. All five shows on its 2026 line-up page are marked sold out. Between the weekends, BST's **Open House** fills the site with free events.
 
@@ -131,7 +131,7 @@ Every show is **standing only**. You can bring one bag no bigger than A4 and no 
 
 ![The Royal Albert Hall's red-brick rotunda and terracotta frieze seen across a lawn, under a grey sky](../../assets/articles/london-music-festivals-2027/royal-albert-hall-exterior.jpg)
 
-*The Royal Albert Hall, home of the Proms from mid-July to mid-September.*
+*The Royal Albert Hall.*
 
 **Mid-July to mid-September. 2027 not yet announced.** Eight weeks of mostly classical concerts. The [2026 season](https://www.bbc.co.uk/proms) ran from **17 July to 12 September**, ending with the Last Night, where Yuja Wang played. The cheapest way in is **Promming**: standing in the Arena or Gallery for **£8** including fees, with tickets released from 9.30am on the day of each concert. General booking opened in mid-May in 2026, and season and weekend Promming passes went on sale two days earlier.
 
@@ -139,7 +139,7 @@ Every show is **standing only**. You can bring one bag no bigger than A4 and no 
 
 ![Jungle on the main stage at All Points East at night, white light beams over the crowd and "Victoria Park East" across the top of the stage](../../assets/articles/london-music-festivals-2027/all-points-east-jungle-stage.jpg)
 
-*All Points East's main stage in Victoria Park at night, with Jungle playing.*
+*All Points East, Victoria Park.*
 
 **Late August. 2027 not yet announced.** [All Points East](https://www.allpointseastfestival.com/) runs headline days in Victoria Park, with a free programme, In The Neighbourhood, in the week between. In 2026 it ran six days over two weekends: **Jorja Smith + Tems** (21 August), **Lorde** (22 August), **Outbreak Fest** with Deftones and IDLES (23 August), **Tyler, The Creator** (28 and 29 August) and **Twenty One Pilots** (30 August).
 
@@ -149,7 +149,7 @@ Every show is **standing only**. You can bring one bag no bigger than A4 and no 
 
 ![LIDO's main stage at night, lit gold through haze, with the LIDO name running down the big screen on the left and the crowd in silhouette](../../assets/articles/london-music-festivals-2027/lido-victoria-park-main-stage.jpg)
 
-*LIDO's main stage in Victoria Park at night.*
+*LIDO, Victoria Park.*
 
 **Late August. 2027 not yet announced.** [LIDO](https://www.lidofestival.co.uk/) is a festival on the Lido Field in Victoria Park, where the headline artists lead the curation alongside emerging acts. In 2026 it was a single day, the bank holiday Monday, **31 August**: **Maribou State**, **Kelis**, **Folamour** and **Theo Parrish B2B Moodymann**, with DJ Koze, Kelly Lee Owens (DJ set), LTJ Bukem and Marie Davidson (live). Gates closed at 8.30pm, and there's no re-entry. You can bring one A4 bag, no chairs, and no food or drink apart from an empty reusable bottle or unopened water of up to 500ml. Mile End and Bethnal Green stations are 10 to 15 minutes' walk. [Tickets on Skiddle](https://www.skiddle.com/festivals/lido/).
 
@@ -167,7 +167,7 @@ Our cut-off is a station that's about **90 minutes or less by train from central
 
 ![Boomtown's site at night seen from a hillside staircase, with festival-goers walking down towards lit-up stages, strings of coloured bulbs and green lasers](../../assets/articles/london-music-festivals-2027/boomtown-site-at-night.jpg)
 
-*The temporary city at night, from the hillside above it.*
+*Boomtown's temporary city, at night.*
 
 **Wednesday 11 – Sunday 15 August 2027, on sale.** [Boomtown](https://www.boomtownfair.co.uk/) builds a temporary city of themed districts, with 18 stages on its 2026 line-up, on the Matterley Estate, a working dairy farm in the South Downs near Winchester. It ran 12 to 16 August in 2026. **It's 18+.** A 2027 ticket with entry from Thursday is **£370**, or **£315 if you come by public transport**. From Wednesday, those prices are £440 and £385. The public transport ticket isn't valid if you drive. You book your coach or shuttle journey by 1 July. The festival runs its own wheelchair-accessible shuttle from **Winchester** station, about three miles away. National Express coaches from more than 50 places stop at the gates.
 
@@ -191,7 +191,7 @@ Our cut-off is a station that's about **90 minutes or less by train from central
 
 ![White canvas tipis and bell tents in a sunlit field of dry grass, with people walking between them](../../assets/articles/london-music-festivals-2027/wilderness-tipi-camping.jpg)
 
-*Tipis and bell tents in the boutique camping.*
+*Wilderness's boutique camping.*
 
 **Late July or early August. 2027 not yet announced.** Music, long-table feasts and boutique camping in [Cornbury Park](https://www.wildernessfestival.com/), Oxfordshire. It ran **30 July to 2 August 2026**, with **Scissor Sisters**, **Carl Cox**, **The Last Dinner Party**, a **Sisters** show curated by Annie Lennox and **Soulwax** at the top of the bill. A shuttle bus runs from **Charlbury** station, and there's a walking entrance from Charlbury through the North Lodge gate. [Tickets on Skiddle](https://www.skiddle.com/festivals/wilderness/).
 

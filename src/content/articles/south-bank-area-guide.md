@@ -96,15 +96,15 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 ![The Navigators, a tall kinetic sculpture of ship parts, under the glass barrel vault of Hay's Galleria](../../assets/articles/south-bank-area-guide/hays-galleria.jpg)
 
-*The Navigators in Hay's Galleria. It moves and squirts water, on the site of the wharf where most of Britain's tea came ashore.*
+*The Navigators, Hay's Galleria.*
 
 ![The London Eye turning behind the curved stone frontage of County Hall on the South Bank](../../assets/articles/south-bank-area-guide/london-eye-county-hall.jpg)
 
-*The Eye behind County Hall. It went up in 1999 as a temporary structure with a five-year permit. Photo: [barry.marsh1944](https://www.flickr.com/photos/126409951@N04/49097008366), [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).*
+*The Eye behind County Hall. Photo: [barry.marsh1944](https://www.flickr.com/photos/126409951@N04/49097008366), [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).*
 
 ![The stacked concrete terraces of the National Theatre, with picnic tables and food kiosks on the terrace below](../../assets/articles/south-bank-area-guide/national-theatre.jpg)
 
-*The National Theatre - one of London's major [off-West End houses](/articles/london-theatre-guide/). Denys Lasdun's 1976 building — the foyers are open to anyone, ticket or not, and there is a bar on every level.*
+*The National Theatre.*
 
 ## Key streets and micro-districts
 
@@ -112,7 +112,7 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 ![The London Eye and County Hall across the Thames on a clear summer day, with the Golden Jubilee Bridges and a river boat at the pier](../../assets/articles/south-bank-area-guide/london-eye-county-hall-summer.jpg)
 
-*County Hall from across the river, with the London Eye beside it.*
+*County Hall, across the river.*
 
 The Edwardian block beside the Eye holds **SEA LIFE London, the London Dungeon and Shrek's Adventure**, all Merlin-run and all indoors — which makes this the obvious wet-weather corner of the South Bank.
 
@@ -126,17 +126,17 @@ The stretch everybody pictures when they say South Bank: street performers, the 
 
 **The most useful thing here is free and indoors.** The Royal Festival Hall foyers are open to anyone — seats, heating, toilets, a piano, a view over the river — and **the Southbank Centre lets you bring your own food and soft drinks in**, which in an area where every riverside bench comes with a £6 coffee attached is worth knowing. Only alcohol has to be bought on site, and the whole complex is **cash-free**. Upstairs, the **Queen Elizabeth Hall Roof Garden** is free too: over 200 wild native plants and a bar, open Tuesday from 4pm and Wednesday to Sunday from midday, closed Mondays.
 
-The **book market under Waterloo Bridge** runs daily, roughly 10am to 7pm, and has done since 1983 — eight stalls of second-hand fiction, children's books, maps and prints. Past it, the **National Theatre** foyers are open 10am to 11pm Monday to Saturday with no ticket needed, and there is a bar on every level.
+The **book market under Waterloo Bridge** runs daily, roughly 10am to 7pm, and has done since 1983 — eight stalls of second-hand fiction, children's books, maps and prints. Past it, the **National Theatre** — one of London's major [off-West End houses](/articles/london-theatre-guide/) — foyers are open 10am to 11pm Monday to Saturday with no ticket needed, and there is a bar on every level.
 
 ![The concrete banks and graffiti-covered pillars of the Undercroft skate park beneath the Southbank Centre](../../assets/articles/south-bank-area-guide/southbank-undercroft.jpg)
 
-*The Undercroft. Skated continuously since the early 1970s and formally protected in 2014 after a campaign to build shops in it.*
+*The Undercroft skate park.*
 
 From November the Southbank Centre's Winter Market fills Queen's Walk with chalets, bars and street food; its dates and hours, and Borough Market's Christmas opening, are in our [London Christmas markets guide](/articles/christmas-markets-london/).
 
 ![The steel A-frame and capsule of the London Eye seen from directly underneath at dusk](../../assets/articles/south-bank-area-guide/london-eye-from-below.jpg)
 
-*The Eye from underneath. It is a cantilevered wheel supported from one side only, which is why the whole structure leans out over the river.*
+*The Eye, from underneath.*
 
 ### Bankside
 
@@ -148,15 +148,15 @@ Ninety seconds west of Tate's door, **Bankside Gallery** is free, open daily dur
 
 ![The brick chimney and long riverside frontage of Tate Modern, with a banner reading free and open to all](../../assets/articles/south-bank-area-guide/tate-modern.jpg)
 
-*Tate Modern, in the shell of Bankside Power Station. Free, and the tenth-floor viewing level in the Blavatnik Building behind it is free too.*
+*Tate Modern, in Bankside Power Station.*
 
 ![The white timber and thatch exterior of Shakespeare's Globe on Bankside](../../assets/articles/south-bank-area-guide/shakespeares-globe.jpg)
 
-*Shakespeare's Globe. The thatch is the only one in London — every other roof of its kind was banned after the Great Fire.*
+*Shakespeare's Globe, Bankside.*
 
 ![The Anchor Bankside, a brick riverside pub hung with flower baskets, with barrel tables outside](../../assets/articles/south-bank-area-guide/the-anchor-bankside.jpg)
 
-*The Anchor Bankside. Samuel Pepys watched the Great Fire from somewhere near here; the present building is early 1800s.*
+*The Anchor Bankside.*
 
 ### Borough and Southwark
 
@@ -170,7 +170,7 @@ Around them, three small paid museums that people miss: the **Old Operating Thea
 
 ![Shoppers filling an aisle of Borough Market under its iron and glass roof, beside a fishmonger's counter](../../assets/articles/south-bank-area-guide/borough-market.jpg)
 
-*Borough Market. Busiest on Saturday by a wide margin — a Tuesday or Wednesday morning is the same market with room to move.*
+*Borough Market.*
 
 ### More London and Tower Bridge
 
@@ -186,7 +186,7 @@ A minute past the southern end of the bridge, on Horselydown Lane, **[Tower Brid
 
 ![HMS Belfast moored on the Thames with the City of London's towers rising on the far bank](../../assets/articles/south-bank-area-guide/hms-belfast.jpg)
 
-*HMS Belfast, permanently moored off Tooley Street since 1971. The view across her guns to the City is the best free thing on this stretch.*
+*HMS Belfast, moored on the Thames.*
 
 ### Lower Marsh and Leake Street
 
@@ -198,7 +198,7 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 
 ![The graffiti-covered walls and vaulted ceiling of Leake Street Arches under Waterloo station](../../assets/articles/south-bank-area-guide/leake-street-arches.jpg)
 
-*Leake Street Arches. The whole tunnel is repainted every few days.*
+*Leake Street Arches.*
 
 ## Where to eat and drink
 
@@ -214,7 +214,7 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 
 ![Black gazebos of the Southbank Centre Food Market, a jerk chicken stall in front, beside the Hayward Gallery](../../assets/articles/south-bank-area-guide/southbank-centre-food-market.jpg)
 
-*The Southbank Centre Food Market, behind the Royal Festival Hall. Friday to Sunday, and the cheapest hot food on this stretch of river.*
+*The Southbank Centre Food Market.*
 
 ## Getting there
 

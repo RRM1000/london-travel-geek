@@ -97,11 +97,11 @@ Marylebone has its own share of the commemorative plaques marking where notable 
 
 ![The Sherlock Holmes Museum shopfront on Baker Street, with a costumed Victorian policeman standing outside](../../assets/articles/marylebone-area-guide/sherlock-holmes-museum.jpg)
 
-*The Sherlock Holmes Museum, signed 221B by special arrangement - the building actually sits between numbers 237 and 241.*
+*The Sherlock Holmes Museum.*
 
 ![A row of medieval helmets and shields mounted along a wall in the Wallace Collection](../../assets/articles/marylebone-area-guide/wallace-collection.jpg)
 
-*The Wallace Collection's armoury. The whole museum was left to the nation on the condition that nothing ever leaves it. Photo: [gruntzooki](https://www.flickr.com/photos/37996580417@N01/55292433963), [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).*
+*The Wallace Collection's armoury. Photo: [gruntzooki](https://www.flickr.com/photos/37996580417@N01/55292433963), [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).*
 
 ## Key streets and micro-districts
 
@@ -116,7 +116,7 @@ The centre — low-rise, largely independent, and the opposite of Oxford Street 
 
 ![Outdoor tables outside 108 Brasserie on the curve of Marylebone Lane](../../assets/articles/marylebone-area-guide/marylebone-lane-108-brasserie.jpg)
 
-*Marylebone Lane keeps the curve of the old Tyburn riverbed, which is why it wanders while everything around it runs straight.*
+*108 Brasserie, Marylebone Lane.*
 
 A curving lane that bends oddly against the Georgian grid around it, because **it follows the course of the buried River Tyburn** — the street is medieval and the grid was laid out around it two centuries later.
 
@@ -147,13 +147,13 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 
 ![The green Edwardian shopfront of Daunt Books on Marylebone High Street](../../assets/articles/marylebone-area-guide/daunt-books.jpg)
 
-*Daunt Books, an Edwardian shop built for a bookseller and still one. The travel section is arranged by country. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2417477044), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Daunt Books. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2417477044), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Where to eat and drink
 
 ![The Barley Mow pub on Dorset Street, its frontage hung with flowers and a painted sign reading the oldest pub in Marylebone](../../assets/articles/marylebone-area-guide/barley-mow-marylebone.jpg)
 
-*The Barley Mow on Dorset Street, trading since 1791 and claiming the title of Marylebone's oldest pub.*
+*The Barley Mow, Dorset Street.*
 
 
 | Spot | Style | Price | Why go |

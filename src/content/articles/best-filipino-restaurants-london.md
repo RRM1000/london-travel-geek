@@ -72,7 +72,7 @@ The most-cited Filipino restaurant in London, and the only one holding an award:
 
 ![A round choux bun dusted heavily with icing sugar and topped with a piped white cream rosette and a dark glossy disc, on a white plate](../../assets/articles/best-filipino-restaurants-london/donia-choux.jpg)
 
-*The pastry end of the menu. Donia took a Bib Gourmand in the 2026 Michelin guide.*
+*The ube choux at Donia.*
 
 The room is on the top floor of Kingly Court — the same unit Imad's Syrian Kitchen and Darjeeling Express both started in — with putty-coloured walls, high beams, paper napkins and no ceremony. Michelin's inspector warns about the acoustics and tells you to bring friends anyway. The **lamb shoulder caldereta pie** turns a tomato-and-liver stew into a lattice-topped pie and is the single dish most often named by the sources. Beside it, crisp **adobo mushroom croquetas**; **prawn and pork dumplings** under a crab salad in a brown butter and lime sauce; **chicken inasal**, marinated in calamansi, lemongrass and annatto and charred until the skin caramelises; and **lechon** — roast suckling pig — under a silky sauce built on Mang Tomas, the bottled liver condiment every Filipino kitchen keeps. The **ube choux** is a tennis-ball-sized bun filled with purple yam ice cream.
 
@@ -86,7 +86,7 @@ The highest-ranked Filipino restaurant in London on the one list that publishes 
 
 ![Two scallop shells set on a bed of dried white beans, each holding scallop in a pale coconut sauce with red chilli rings, coriander and drops of green and orange oil](../../assets/articles/best-filipino-restaurants-london/belly-bistro-scallops.jpg)
 
-*The scallops are cured rather than cooked, and come back to the table in their own shells. Thirty-five seats, closed Monday and Tuesday, so a weekend table goes days ahead.*
+*Belly Bistro's cured scallops.*
 
 Fish leads. **Cured scallops** arrive in their shells in coconut cream with basil oil and pickled chilli, the flavours of **Bicol Express**, the coconut-and-chilli stew from southern Luzon; **smoked trout kinilaw** is the Philippine answer to ceviche, raw fish firmed in vinegar and citrus rather than cooked. The dish people come for is the **tempura cod pandesal** — a chunk of battered cod, a slice of American cheese and salmon roe tartare in a slightly sweet Filipino milk roll, and they make only a handful a day. Mains run just over £30: wagyu picanha in **bistek** sauce, which is soy, citrus, garlic and pepper reduced to something close to gravy, and a **seafood caldereta** of clams, mussels and squid. Finish with the frozen custard profiterole in fish sauce caramel.
 
@@ -104,7 +104,7 @@ Named by eight of the sources, one behind Donia, and the one place on this page 
 
 ![The Kasa and Kin shopfront under a bright orange awning reading "contemporary Filipino flavours" on one side and "Filipino bakery and patisserie" on the other, with pavement barriers, A-boards and a menu case beside the door](../../assets/articles/best-filipino-restaurants-london/kasa-and-kin-shopfront.jpg)
 
-*Two counters under one awning. The bakery keeps its own hours and runs to 8pm Monday to Saturday.*
+*Kasa and Kin, Poland Street.*
 
 Executive chef **Jeremy Villanueva** cooks the home dishes at dining-room size: **beef kare-kare**, brisket stewed until it collapses in a thick peanut sauce with roast bone marrow, aubergine and pak choi, and a spoon of **bagoong** — fermented shrimp paste — served on the side to stir in yourself. There is a **vegetable adobo** built on squash, okra and padrón peppers in the same soy, garlic and cane vinegar braise, and at lunch an *imbento* box you build from a spring roll, a broth, a base and a topping. The **ube tsunami cheesecake** is exactly as purple as it sounds.
 
@@ -114,11 +114,11 @@ Bookings are taken, and the bakery counter runs 11am to 8pm Monday to Saturday a
 
 *£ · 3 Hopkins Street, W1F 0HS, and 7 Picton Place, W1U 1BN · Cited by 7 sources · [see the menu](https://www.panaderabakery.com/menu)*
 
-Five stars from Time Out in October 2025, and named by seven of the sources here — more than any Filipino restaurant except Donia and Kasa and Kin. *Panadera* is Tagalog for a woman baker, and the whole counter is built around **pandesal** — a soft, faintly sweet bread roll rolled in breadcrumbs that Filipino households eat for breakfast. Here it comes as a sturdy square **sando**: corned beef hash, or panko aubergine for vegetarians.
+Five stars from Time Out in October 2025, and named by seven of the sources here — more than any Filipino restaurant except Donia and Kasa and Kin. *Panadera* is Tagalog for a woman baker, and the whole counter is built around **pandesal** — a soft, faintly sweet bread roll rolled in breadcrumbs that Filipino households eat for breakfast. Here it comes as a sturdy square **sando**: corned beef hash, or panko aubergine for vegetarians. A sando and a coffee comes to under a tenner.
 
 ![A pandesal sando cut in half in an open takeaway box, thick soft bread around a slab of pink meat and lettuce, beside a glazed flaky pastry roll scattered with black sesame seeds and two iced drinks in Panadera-branded cups](../../assets/articles/best-filipino-restaurants-london/panadera-sando-and-pastry.jpg)
 
-*A sando and a coffee brings lunch in under a tenner. The sandos sell out, so early is safer.*
+*Panadera's sando and pastry.*
 
 The savoury pastries are the argument. A **longanisa roll** puts the sweet, garlicky Filipino sausage inside flaky pastry, and the **chicken adobo pocket** does the same job for the braise. On the sweet side, doughnuts pumped with purple **ube** custard, brown butter cookies, and a **taho** drink — silken tofu, brown sugar syrup and sago pearls — served warm at weekends. Coffee comes from Catalyst.
 
@@ -132,7 +132,7 @@ Founded in **1996 by Mario Malata** — *lutong pinoy* means home cooking — an
 
 ![A banana leaf laid over a table, holding a clay pot of golden broth, a bowl of squash and green beans in a thick sauce, a whole fried fish and grilled pork belly on mounds of rice, grilled prawns, spring rolls, three dipping sauces, a charred aubergine and raw okra](../../assets/articles/best-filipino-restaurants-london/lutong-pinoy-kamayan.jpg)
 
-*A kamayan is cooked for the whole table at once and eaten with your hands — no cutlery comes out.*
+*The kamayan feast at Lutong Pinoy.*
 
 The reason to come is the **kamayan** feast: banana leaves down the length of the table, mounds of garlic rice, and grilled milkfish, pork belly, chicken inasal, prawns, lumpia and a beef-and-tripe stew tipped over the top, eaten with your hands. Follow it with **halo-halo** — shaved ice, evaporated milk, ube, caramel custard, sweetened beans and jackfruit in a tall glass, to be stirred hard before the first spoonful.
 
@@ -146,7 +146,7 @@ Chef **Francis Puyat** comes from a coastal town in Occidental Mindoro and build
 
 ![An oval plate of kinilaw: slices of raw pink fish in a milky dressing with red onion, cucumber, diced mango, micro herbs and a drizzle of orange chilli oil](../../assets/articles/best-filipino-restaurants-london/rapsa-kinilaw.jpg)
 
-*Kinilaw is the thing to order here: no heat touches the fish, and the sourness does the cooking.*
+*Rapsa's kinilaw.*
 
 The event is the **boodle fight** on the last Sunday of the month, 5pm to 8pm: a whole roast lechon and everything around it, on banana leaves, £20 to £30 a head. Weekend brunch goes bottomless, and the Hoxton room has the longer menu of the two.
 
@@ -168,7 +168,7 @@ Next door to Lutong Pinoy and a separate business, doing the same feast at a low
 
 ![A banana leaf running down the middle of a table, laid with mounds of rice, spring rolls, onion rings, tomato and cucumber slices, grilled prawns, split fried fish, a whole fried fish under pickled papaya and a flat golden omelette, with diners' hands at the edge of the frame](../../assets/articles/best-filipino-restaurants-london/kamayan-boodle-fight.jpg)
 
-*The feast runs daily here rather than by arrangement, and still wants a table of four.*
+*The boodle fight at Kamayan sa Earl's Court.*
 
 Off the platter, order **bulalo** — beef shank simmered until the marrow slides out of the bone, in a clear broth with corn and cabbage — or **crispy pata**, a whole pork knuckle deep-fried until the skin blisters. There is sisig, adobo and halo-halo, and a collection service if you want a tray to take home.
 
@@ -190,8 +190,6 @@ The **pandesal sliders** are short-rib patties smashed on the grill with **toyom
 
 ![A green painted shopfront reading Turo Turo, Filipino BBQ and grill, under a red awning, with gold lettering across the windows and folding bistro tables on a black and white tiled pavement](../../assets/articles/best-filipino-restaurants-london/turo-turo-shopfront.jpg)
 
-*The window advertises what the room does: cocktail bar, brunch and boodle fight.*
-
 The cooking is charcoal-led — **thrice-cooked pig's head hash**, ginger wings glazed with fermented shrimp, mushroom and tofu skewers — and there is a **boodle fight** on the menu plus a standalone kamayan supper club. **Brunch runs 11am to 4pm on Saturday and Sunday.**
 
 **Closed Mondays**, and dinner only on Tuesday and Wednesday. Bookings go through WhatsApp or email rather than a form.
@@ -200,11 +198,11 @@ The cooking is charcoal-led — **thrice-cooked pig's head hash**, ginger wings 
 
 *£ · 547 Battersea Park Road, SW11 3BL · Cited by 3 sources*
 
-A family-run Filipino coffee house and bakery, and the only place on this page pouring **single-origin coffee grown in the Philippines**. *Kapihan* means a place to drink coffee, and the baking is built around **bibingka**, a coconut rice cake baked in a banana leaf — the classic, plus seasonal versions running from chocolate churro and black forest to ube and blueberry, and a savoury one with roasted oyster mushroom and cheese.
+A family-run Filipino coffee house and bakery, and the only place on this page pouring **single-origin coffee grown in the Philippines**. *Kapihan* means a place to drink coffee, and the baking is built around **bibingka**, a coconut rice cake baked in a banana leaf and gluten free — the classic, plus seasonal versions running from chocolate churro and black forest to ube and blueberry, and a savoury one with roasted oyster mushroom and cheese.
 
 ![A glass bakery counter of Filipino bakes on woven mats, each behind a printed label: bibingka in banana leaves, glazed bicho-bicho doughnuts, an ube cheese bomba, a slice of purple-filled pie and a stack of pandesal](../../assets/articles/best-filipino-restaurants-london/kapihan-bibingka-counter.jpg)
 
-*Rice and coconut rather than wheat: the signature bibingka is gluten free, and it bakes in the leaf it is served in.*
+*Kapihan's bibingka counter.*
 
 It is small, it is a neighbourhood room rather than a destination one, and it closed once already: it went in 2021 and came back to Battersea Park Road in January 2023.
 
@@ -232,7 +230,7 @@ Brothers Jonathan and Justice Cacho have built three sites in four years on one 
 
 ![The Filishack shopfront at number 130: a dark fascia with the name in orange script above "Filipino street food", a plate-glass window with a pink neon sign inside, and a corner shop next door](../../assets/articles/best-filipino-restaurants-london/filishack-shopfront.jpg)
 
-*Built as a takeaway and still run like one: order at the counter, and the smallest rice box leaves change from a tenner.*
+*Filishack, Peckham.*
 
 Peckham has been open since 2021, Elephant & Castle since 2024 and White City since 2025. **All three close on Sundays**, and open from 11am the rest of the week.
 
@@ -244,7 +242,7 @@ The Philippines' own fast-food chain, and more of a cultural fixture than a rest
 
 ![A red Jollibee tray holding two boxes of fried chicken, a bowl of spaghetti under red sauce and melted cheese, pots of gravy and mayonnaise, two cups of purple soft serve and branded drinks cups](../../assets/articles/best-filipino-restaurants-london/jollibee-chickenjoy-tray.jpg)
 
-*The purple cups are ube soft serve — purple yam, not taro, and the thing to add to a Chickenjoy meal.*
+*A Jollibee Chickenjoy tray.*
 
 **Chickenjoy** is the fried chicken, crisp-shelled and eaten dipped in a pot of gravy. **Jolly Spaghetti** is soft pasta in a sweet banana-ketchup sauce with sliced hot dog, which is either a childhood or a shock depending on where you grew up. The **peach mango pie** is a deep-fried parcel, not a slice.
 

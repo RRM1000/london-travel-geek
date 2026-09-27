@@ -95,15 +95,15 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 
 ![The white weatherboarded Prospect of Whitby pub seen from the Thames at low tide](../../assets/articles/wapping-area-guide/prospect-of-whitby.jpg)
 
-*The Prospect of Whitby, claiming a licence back to 1520. The terrace over the water is the reason to come. Photo: [Christine Matthews](https://commons.wikimedia.org/w/index.php?curid=174127501), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Prospect of Whitby. Photo: [Christine Matthews](https://commons.wikimedia.org/w/index.php?curid=174127501), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ![A terrace of gabled brick townhouses at Spirit Quay reflected in the still water of a dock basin](../../assets/articles/wapping-area-guide/spirit-quay.jpg)
 
-*Spirit Quay, where the Ornamental Canal starts. No entrance and no ticket — just still water and a terrace worth the short walk from St Katharine Docks.*
+*Spirit Quay.*
 
 ![People eating outside a quayside cafe under hanging flower baskets at St Katharine Docks, boats moored alongside](../../assets/articles/wapping-area-guide/st-katharine-docks-quayside.jpg)
 
-*The quayside at St Katharine Docks, fifteen minutes west. The dock is free to walk round and the restaurants line one side of it.*
+*The quayside at St Katharine Docks.*
 
 ## Key streets and micro-districts
 
@@ -132,7 +132,7 @@ The restaurants and bars ring the basin, including the **Dickens Inn** below.
 
 ![The Dickens Inn, a three-storey timber-framed pub with balconies over St Katharine Docks marina](../../assets/articles/wapping-area-guide/dickens-inn.jpg)
 
-*The Dickens Inn — an early-1700s warehouse moved bodily across the dock and opened as a pub in 1976 by Charles Dickens's great-grandson.*
+*The Dickens Inn, St Katharine Docks.*
 
 ### Shadwell Basin
 North-east, and **the last large piece of open dock water left in Wapping** — everything else was filled in. It is ringed by the red-brick postmodern housing of the 1980s regeneration, with arched frames over the water that people either love or find ridiculous.

@@ -84,7 +84,7 @@ Virginia Woolf and George Bernard Shaw both lived at number 29, in different dec
 
 ![The cream Georgian terrace at Fitzroy Square with a blue plaque and door at number 29](../../assets/articles/fitzrovia-mayfair-walk/fitzroy-square-terrace.jpg)
 
-*Number 29, where Virginia Woolf and George Bernard Shaw both lived.*
+*Number 29, Fitzroy Square.*
 
 Leave by Fitzroy Street, heading south.
 
@@ -94,7 +94,7 @@ Leave by Fitzroy Street, heading south.
 
 ![The BT Tower rising above Georgian rooftops in Fitzrovia at dusk](../../assets/articles/fitzrovia-area-guide/bt-tower-fitzrovia.jpg)
 
-*The BT Tower from street level. You walk past its foot on the way south, and you cannot go up it.*
+*The BT Tower.*
 
 Fitzroy Street runs past the foot of the **BT Tower**, London's tallest building from 1964 to 1980 and closed to visitors for decades.
 
@@ -104,7 +104,7 @@ Fitzroy Street runs past the foot of the **BT Tower**, London's tallest building
 
 ![The gold mosaic vaulted ceiling of the Fitzrovia Chapel, with a starred pattern above a Latin inscription](../../assets/articles/fitzrovia-mayfair-walk/fitzrovia-chapel-mosaic-ceiling.jpg)
 
-*The Fitzrovia Chapel's ceiling of gold mosaic.*
+*The Fitzrovia Chapel's ceiling.*
 
 ## 3. All Saints, Margaret Street
 
@@ -114,7 +114,7 @@ Fitzroy Street runs past the foot of the **BT Tower**, London's tallest building
 
 ![The richly patterned Gothic interior of All Saints, Margaret Street, with a gilded reredos above the altar](../../assets/articles/fitzrovia-mayfair-walk/all-saints-margaret-street-interior.jpg)
 
-*Inside All Saints, one of the most intensely decorated church interiors in London.*
+*Inside All Saints, Margaret Street.*
 
 Then cross Oxford Street at Oxford Circus and take Princes Street to Hanover Square.
 
@@ -128,7 +128,7 @@ Then cross Oxford Street at Oxford Circus and take Princes Street to Hanover Squ
 
 ![The barrel-vaulted interior of St George's, Hanover Square, looking towards the William Kent Last Supper painting above the altar](../../assets/articles/fitzrovia-mayfair-walk/st-georges-hanover-square-interior.jpg)
 
-*Inside St George's, with the Last Supper painted for the church by William Kent in 1724.*
+*Inside St George's, Hanover Square.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-mayfair-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -148,7 +148,7 @@ Along Conduit Street and turn right down **Savile Row**, the street that gave be
 
 ![The glass-roofed Burlington Arcade lined with jewellers' windows](../../assets/articles/mayfair-area-guide/burlington-arcade.jpg)
 
-*Burlington Arcade, open since 1819. Photo: [Reading Tom](https://www.flickr.com/photos/16801915@N06/3282398164), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Burlington Arcade. Photo: [Reading Tom](https://www.flickr.com/photos/16801915@N06/3282398164), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 Turn right along Burlington Gardens and enter **Burlington Arcade** from its north end. It opened in 1819 and is still patrolled by **Beadles** in top hats, who enforce the original rules: no running, no whistling, no singing and no opening umbrellas.
 
@@ -166,7 +166,7 @@ Out on Piccadilly, turn left into the courtyard of **Burlington House**, home of
 
 ![The glass-domed interior of Piccadilly Arcade lined with shopfronts, including the Piccadilly Vaults jewellers](../../assets/articles/fitzrovia-mayfair-walk/piccadilly-arcade-interior.jpg)
 
-*Piccadilly Arcade, quieter than Burlington and directly opposite the RA.*
+*Piccadilly Arcade.*
 
 From here the route swings west. Follow Jermyn Street to St James's Street, go up to Piccadilly and west past the Ritz, then turn right up Berkeley Street. Cross **Berkeley Square**, whose plane trees were planted in 1789, and follow Davies Street north. It is the longest link on the route, about fifteen minutes.
 
@@ -178,7 +178,7 @@ From here the route swings west. Follow Jermyn Street to St James's Street, go u
 
 ![The Franklin D. Roosevelt memorial statue among trees and planting in the redesigned Grosvenor Square](../../assets/articles/fitzrovia-mayfair-walk/grosvenor-square-garden.jpg)
 
-*The Roosevelt memorial, one of several that stayed through the square's redesign.*
+*The Roosevelt memorial, Grosvenor Square.*
 
 ## 9. Mount Street and Mount Street Gardens
 
@@ -188,7 +188,7 @@ Leave by Carlos Place for **Mount Street**, a run of pink terracotta built by th
 
 ![A path lined with benches under plane trees in Mount Street Gardens, with red-brick mansion blocks behind](../../assets/articles/fitzrovia-mayfair-walk/mount-street-gardens-benches.jpg)
 
-*Mount Street Gardens, walled in by mansion blocks on every side.*
+*Mount Street Gardens.*
 
 Leave by the Farm Street side, past the Jesuit **Church of the Immaculate Conception**. It is free and open daily: 7.30am to 6.30pm on weekdays, 10am to 7pm on Saturdays and 7.30am to 7pm on Sundays.
 
@@ -198,7 +198,7 @@ South to Curzon Street and through the passages into **Shepherd Market**, built 
 
 ![A narrow pedestrian lane in Shepherd Market lined with independent shopfronts, including a barber and a restaurant](../../assets/articles/fitzrovia-mayfair-walk/shepherd-market-lane.jpg)
 
-*One of Shepherd Market's narrow lanes, with no chains among the shopfronts.*
+*One of Shepherd Market's lanes.*
 
 **Ye Grapes** at number 16 opened here in 1742 as the Market Coffee House and was rebuilt in its present form in 1882. It opens Monday to Saturday 11am to 11pm, and Sunday noon to 10.30pm.
 
@@ -212,7 +212,7 @@ Cross Piccadilly and you are in it. **Charles II made the park in 1660** so he c
 
 ![The bronze figures of RAF aircrew at the Bomber Command Memorial in Green Park, sheltered under its open roof](../../assets/articles/fitzrovia-mayfair-walk/green-park-bomber-command-memorial.jpg)
 
-*The Bomber Command Memorial, at the western end of the park.*
+*The Bomber Command Memorial.*
 
 **The pedestrian gates open 5am to midnight.** Buckingham Palace is across the park; Green Park station is at the north-east corner.
 

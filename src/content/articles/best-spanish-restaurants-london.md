@@ -123,7 +123,7 @@ The format is Andalucian: **sherry by the copita** and small plates to go with i
 **£££, walk-in only, and full from six.** Go early or late, expect to stand, and treat it as a bar that feeds you rather than a restaurant.
 
 ![Croquetas on a white plate](../../assets/articles/best-spanish-restaurants-london/jose.jpg)
-*Twenty covers, standing room only, and no bookings. Jose Pizarro's first place on Bermondsey Street. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8722630539), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*José, Bermondsey. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8722630539), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Pizarro, Bermondsey
@@ -137,7 +137,7 @@ Larger plates than the bar: **suckling pig, whole fish, slow-cooked lamb**, with
 **£££, book a few days ahead.** Choose this one if you want a chair and a conversation, and José if you want the atmosphere.
 
 ![Crab with olives and herbs on a white plate](../../assets/articles/best-spanish-restaurants-london/pizarro.jpg)
-*Jose Pizarro's larger Bermondsey Street room, where you can actually book a table. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53936325626), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Pizarro, Bermondsey. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53936325626), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 
 ### Salt Yard, Fitzrovia
@@ -151,7 +151,7 @@ Larger plates than the bar: **suckling pig, whole fish, slow-cooked lamb**, with
 **£££, book a few days ahead.** Fitzrovia, and calmer than the Soho tapas bars at almost any hour.
 
 ![Croquetas topped with sauce on a white plate](../../assets/articles/best-spanish-restaurants-london/salt-yard.jpg)
-*Spanish-Italian small plates, and the courgette flower stuffed with goat's cheese has been on since it opened. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4094273174), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Salt Yard, Fitzrovia. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4094273174), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ---
@@ -201,7 +201,7 @@ The menu is a blackboard that changes daily: **jamón, tortilla, croquetas, what
 **££, walk-in, closed Sunday.** Go at six before it fills, or after nine when the first wave has gone.
 
 ![The dark frontage and pavement tables of Copita on d'Arblay Street](../../assets/articles/best-spanish-restaurants-london/copita.jpg)
-*Small plates and sherry, standing up if it is busy. No bookings for most of the room. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/6435938511), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Copita, Soho. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/6435938511), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Dehesa, Soho
@@ -212,10 +212,10 @@ The menu is a blackboard that changes daily: **jamón, tortilla, croquetas, what
 
 From the Salt Yard group, so the **courgette flowers with goat's cheese and honey** are here too, alongside Spanish charcuterie and Italian pasta on the same menu. **Ibérico pork** is the dish the name points at — a dehesa is the oak pasture the pigs forage in.
 
-**£££, book a few days ahead.** Corner windows onto two streets, which makes it one of the better rooms in Soho for watching it go by.
+**£££, book a few days ahead.** Corner windows onto two streets, which makes it one of the better rooms in Soho for watching it go by. The counter is also one of the better solo tables in Soho.
 
 ![The awnings and pavement seating of Dehesa on Ganton Street](../../assets/articles/best-spanish-restaurants-london/dehesa.jpg)
-*Spanish-Italian small plates off Carnaby Street, and one of the better places to eat alone at the counter. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2512459014), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Dehesa, Soho. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2512459014), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Parrillan, King's Cross

@@ -90,7 +90,7 @@ Stratford has its own share of the commemorative plaques marking where notable p
 
 ![Wetland planting along the River Lea in the Queen Elizabeth Olympic Park, with the ArcelorMittal Orbit beyond](../../assets/articles/stratford-area-guide/olympic-park.jpg)
 
-*The planted river valley running through the Olympic Park. Most of the park is this rather than the venues. Photo: [Peter O'Connor aka anemoneprojectors](https://www.flickr.com/photos/58414938@N00/25121703793), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The planted river valley, Olympic Park. Photo: [Peter O'Connor aka anemoneprojectors](https://www.flickr.com/photos/58414938@N00/25121703793), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Key streets and micro-districts
 
@@ -99,7 +99,7 @@ The busy half, built around the main waterways. **The ArcelorMittal Orbit** is h
 
 ![The London Stadium and the ArcelorMittal Orbit seen across the River Lea from Hackney Wick](../../assets/articles/stratford-area-guide/olympic-park-from-the-lea.jpg)
 
-*The London Stadium and the ArcelorMittal Orbit, seen across the River Lea from Hackney Wick.*
+*The Stadium and the Orbit, from Hackney Wick.*
 
 **The Aquatics Centre is open to the public to swim in**, in the actual Olympic pool, for the price of an ordinary leisure-centre session.
 
@@ -110,11 +110,11 @@ Quieter parkland, and the half most visitors never reach. The **VeloPark** is he
 
 The landscaping is deliberately wilder up here: reedbeds, meadow planting and the River Lea running through rather than the formal lawns to the south.
 
-**Free, open at all times, and genuinely quiet on a weekday.** It is about twenty minutes' walk from Stratford station to the northern end, so allow for the distance.
+**Free, open at all times, and genuinely quiet on a weekday.** It is about twenty minutes' walk from Stratford station to the northern end, so allow for the distance. The park's fountains run through the summer and are free to run through.
 
 ![The ArcelorMittal Orbit rising above the fountains in Queen Elizabeth Olympic Park, with children playing in the water](../../assets/articles/stratford-area-guide/orbit-fountains.jpg)
 
-*The ArcelorMittal Orbit and the park fountains. The fountains run through the summer and are free.*
+*The ArcelorMittal Orbit, above the fountains.*
 
 ### Westfield Stratford City
 Between the station and the park, with around 250 shops — **and you have to walk through it to reach the park**, which is by design rather than accident.
@@ -139,7 +139,7 @@ It is a drinking and wandering destination rather than a sightseeing one, and mu
 
 ![A track cyclist banking high on the wooden boards of the Lee Valley VeloPark velodrome](../../assets/articles/stratford-area-guide/lee-valley-velopark.jpg)
 
-*The velodrome from the 2012 Games. You can book taster sessions and ride the boards yourself. Photo: [kevin.gale](https://www.flickr.com/photos/52647449@N04/23204273471), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The velodrome, from the 2012 Games. Photo: [kevin.gale](https://www.flickr.com/photos/52647449@N04/23204273471), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Go deeper
 

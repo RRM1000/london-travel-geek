@@ -97,7 +97,7 @@ The festival closes on the same Sunday Frieze Week ends. General booking opened 
 
 ![BFI Southbank's glass-panelled building on the South Bank, with BFI SOUTHBANK signage and a Cinemas and Box Office entrance, cars parked on the street outside under an overcast sky](../../assets/articles/london-film-festival/bfi-southbank-box-office.jpg)
 
-*BFI Southbank, the festival's centre of gravity: its box office is where returns and the standby queue are handled.*
+*BFI Southbank, the festival's centre of gravity.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -149,7 +149,7 @@ The Jaguars play London twice, a week apart, at two different stadiums. Match-da
 
 ![A crowd walking up Olympic Way towards Wembley Stadium at dusk, banners either side advertising the UEFA Nations League and the stadium's white steel arch overhead](../../assets/articles/wembley-stadium-arena-guide/olympic-way-matchnight.jpg)
 
-*Fans walking up Olympic Way to Wembley Stadium on a Nations League match night.*
+*Olympic Way, on a Nations League match night.*
 
 Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
 
@@ -261,7 +261,7 @@ The Globe's open-air season closes in the same week half term begins: **Much Ado
 
 ![Poster for The Cherry Orchard at the Harold Pinter Theatre: a black-and-white portrait of Kristin Scott Thomas with leaf shadows falling across her face, beside the title in red capitals and credits for Anton Chekhov, Conor McPherson and Ian Rickson](../../assets/articles/things-to-do-in-london-in-october/the-cherry-orchard.jpg)
 
-*Kristin Scott Thomas leads Conor McPherson's new version of Chekhov, directed by Ian Rickson, at the Harold Pinter Theatre from 3 October. Artwork: Sonia Friedman Productions.*
+*The Cherry Orchard, at the Harold Pinter Theatre. Artwork: Sonia Friedman Productions.*
 
 At the London Coliseum, English National Opera stages **Angel's Bone** from **16 October** and **Tosca** from **30 October**. **Cirque Berserk!** takes the Garrick for half term from **21 October**, and **Ceilidh** opens at Shoreditch Town Hall on **22 October**. The cheapest opening of the month is **The Bridge** at the Bush from **28 October**, from £13.
 

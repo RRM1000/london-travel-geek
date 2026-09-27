@@ -208,7 +208,7 @@ For everyone else, our [guide to the best areas to stay in London](/articles/bes
 
 ![Tottenham Hotspur Stadium's bowl seen from a high tier, the retractable roof open above rows of navy seating and an empty pitch](../../assets/articles/tottenham-hotspur-stadium-travel-guide/tottenham-hotspur-stadium-bowl.jpg)
 
-*The stadium bowl, roof open, before a crowd of up to 62,850 arrives.*
+*The stadium bowl, roof open.*
 
 ### The stadium tour, and the separate one for matchdays
 

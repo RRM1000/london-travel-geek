@@ -47,7 +47,7 @@ Start from what you actually want out of the evening rather than from a list of 
 
 ![The Art Deco frontage of the Apollo Victoria Theatre lit green at night for Wicked, with black cabs and an Underground sign in front](../../assets/articles/london-theatre-guide/apollo-victoria-wicked.jpg)
 
-*The Apollo Victoria, one of the largest houses in London at over 2,300 seats. The long-running musicals take the biggest theatres, and they are the easiest tickets to find and the hardest to find cheaply.*
+*The Apollo Victoria, over 2,300 seats.*
 
 **For the writing and the acting**, look outside the West End. The National Theatre, the Old Vic, the Bridge, the Almeida, the Donmar and the Young Vic consistently stage the best new work in the country, and a lot of what later appears on Shaftesbury Avenue started at one of them — at a fraction of the eventual price.
 
@@ -77,7 +77,7 @@ Almost nobody needs to pay the top price, and one route matters more than the re
 
 ![The TKTS official London theatre ticket booth in Leicester Square, with its clock tower and lit canopy](../../assets/articles/london-theatre-guide/tkts-booth-leicester-square.jpg)
 
-*The official booth in Leicester Square. Note the wording: "Official London Theatre Ticket Booth". Nothing else in that square is this.*
+*The official TKTS booth, Leicester Square.*
 
 > ⚠️ **It is the only booth in Leicester Square that is what it claims to be.** The surrounding shops with similar signage are unrelated ticket agencies, and the people selling on the street are not a bargain. Buy at the booth itself, at a theatre's own box office, or from an official agency — nowhere else.
 
@@ -113,7 +113,7 @@ A West End ticket can vary by more than £100 within the same performance, and t
 
 ![The view towards the stage from the stalls of a West End theatre, with the audience seated before curtain](../../assets/articles/london-theatre-guide/west-end-stalls-view.jpg)
 
-*The view from the stalls before curtain. What you are actually buying varies enormously by tier — and by row within a tier.*
+*The view from the stalls, before curtain.*
 
 **Most of these theatres are Victorian or Edwardian**, which has consequences: narrow seats, tight legroom, steep upper tiers and overhangs that cut off the top of the stage. A cheap seat in a well-shaped house can be better than an expensive one behind a pillar.
 
@@ -135,11 +135,11 @@ For seat-by-seat detail — which rows, which numbers, which to avoid — that i
 
 **There is no dress code.** Nobody dresses up, including at the grandest houses.
 
-**Getting home is rarely a problem.** A 7.30pm start puts you out around 10pm, well inside normal Tube hours, and the Night Tube runs on several lines on Friday and Saturday. If you are staying outside central London on a National Rail line, the last train is the constraint.
+**Getting home is rarely a problem.** A 7.30pm start puts you out around 10pm, well inside normal Tube hours, and the Night Tube runs on several lines on Friday and Saturday. The streets and the nearest station are busiest in the fifteen minutes right after curtain. If you are staying outside central London on a National Rail line, the last train is the constraint.
 
 ![The lit red frontage of the Phoenix Theatre at night, with the audience leaving through the doors after a performance](../../assets/articles/london-theatre-guide/phoenix-theatre-after-the-show.jpg)
 
-*Turning out of the Phoenix Theatre at the end of an evening performance. Theatreland empties all at once, so the streets and the nearest station are busiest in the fifteen minutes after curtain.*
+*Leaving the Phoenix Theatre, after the show.*
 
 **Eat before, and book early.** The restaurants directly opposite the theatres are mediocre because they do not have to be good. Book around 5.30pm and walk one street back into Soho or Seven Dials — see [Where to Eat in London](/articles/eat-in-london-guide/). Many restaurants run **pre-theatre menus** that are much cheaper than the same food at 8pm.
 

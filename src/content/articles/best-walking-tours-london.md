@@ -158,7 +158,7 @@ The highest-rated Harry Potter walk with more than 1,000 reviews, and the longes
 It starts where you'd hope: inside **King's Cross**, at the stairs up to the Parcel Yard beside the Platform 9¾ shop. From there it takes in the **Millennium Bridge**, the Leaky Cauldron, the **Palace Theatre** where *Harry Potter and the Cursed Child* plays, Leicester Square and the House of Spells shop. The listing says kids go free, which makes it the cheap family option.
 
 ![A luggage trolley loaded with trunks and an owl cage, standing against the brick wall beneath the Platform 9¾ sign at King's Cross](../../assets/articles/best-walking-tours-london/platform-nine-three-quarters-trolley.jpg)
-*The Platform 9¾ trolley at King's Cross, where the Harry Potter Movies walk begins.*
+*The Platform 9¾ trolley at King's Cross.*
 
 ## Film, TV and books
 
@@ -253,7 +253,7 @@ All the food is included for £59, the lowest price of these four: local cheese,
 Meet under the **White Goat statue on Brushfield Street**, outside Old Spitalfields Market (the nearest station is Liverpool Street), for work by around 40 street artists across **Spitalfields, Brick Lane and Shoreditch**. The guides are part of the scene themselves. To find the pieces on your own, see our [London street art guide](/articles/london-street-art/).
 
 ![Two large mural faces with green rope-like hair and a pink nebula painted between them, on a Shoreditch corner](../../assets/articles/best-walking-tours-london/shoreditch-street-art.jpg)
-*Murals on a Shoreditch corner, the ground both Alternative London tours cover.*
+*Street art in Shoreditch.*
 
 ### Street Art Tour and Spray-Painting Workshop — Alternative London
 

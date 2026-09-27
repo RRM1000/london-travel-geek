@@ -85,7 +85,7 @@ To experience the most congested sections without crowds, invert that order:
 
 ![The Victorian Gothic Quire stalls with illuminated brass lamps beneath soaring ribbed vaulting inside Westminster Abbey](../../assets/articles/westminster-abbey-guide/westminster-abbey-nave-quire.jpg)
 
-*The Quire stalls inside Westminster Abbey, showing the gilded Victorian stalls and high ribbed vaulting. Photo: Maksim Sokolov (CC BY-SA 4.0).*
+*The Quire stalls. Photo: Maksim Sokolov (CC BY-SA 4.0).*
 
 ### 1. 09:15 to 09:30: North Door entry and bag security
 Arrive at the North Green gates 15 minutes before the stated opening time. Present your digital ticket barcode for scanning, pass through the bag check marquee, and collect your handheld multimedia guide inside the North Transept. 
@@ -97,7 +97,7 @@ Walk straight past the crossing into the ambulatory encircling the High Altar. B
 
 ![Intricate 16th-century fan-vaulted stone ceiling with decorative pendants and heraldic banners in the Henry VII Lady Chapel](../../assets/articles/westminster-abbey-guide/henry-vii-lady-chapel.jpg)
 
-*The fan-vaulted ceiling of the Henry VII Lady Chapel, completed in 1519. Photo: Jps3 (CC BY-SA 4.0).*
+*The Henry VII Lady Chapel ceiling. Photo: Jps3 (CC BY-SA 4.0).*
 
 Key monuments in this section:
 - **The Fan-Vaulted Ceiling:** Regarded as the climax of English Perpendicular Gothic masonry, featuring stone pendants hanging unsupported from ribbed tracery.
@@ -117,7 +117,7 @@ Cross into the South Transept, known as **Poets' Corner**. Geoffrey Chaucer was 
 
 ![Carved marble monuments and wall memorials to British authors and playwrights in Poets' Corner](../../assets/articles/westminster-abbey-guide/poets-corner.jpg)
 
-*Poets' Corner in the South Transept, displaying memorials to Shakespeare, Keats, Shelley, and Burns. Photo: 14GTR (CC BY-SA 4.0).*
+*Poets' Corner. Photo: 14GTR (CC BY-SA 4.0).*
 
 In the 16th and 18th centuries, the transept evolved into the national pantheon of English literature:
 - **Burials:** Geoffrey Chaucer, Edmund Spenser, Charles Dickens, Alfred Lord Tennyson, Rudyard Kipling, and Thomas Hardy (his ashes; his heart was buried in his native Dorset).
@@ -133,7 +133,7 @@ Most casual visitors exit through the gift shop and miss the monastic precinct e
 
 ![Medieval stone vaulted cloister walkway with traceried windows opening onto the lawn](../../assets/articles/westminster-abbey-guide/westminster-abbey-cloisters.jpg)
 
-*The West Cloister of Westminster Abbey, dating to the 14th century. Photo: Uwe Aranas / CEphoto (CC BY-SA 3.0).*
+*The West Cloister. Photo: Uwe Aranas / CEphoto (CC BY-SA 3.0).*
 
 - **The Chapter House:** Completed in 1250, this octagonal meeting chamber features 14th-century wall paintings of the Apocalypse and original medieval encaustic floor tiles. The House of Commons met here during the 14th century before relocating to St Stephen's Chapel.
 - **Britain's Oldest Door:** In the vestibule of the Chapter House sits an oak door constructed from wood felled in an Anglo-Saxon forest between 1032 and 1065, predating the Norman Conquest.

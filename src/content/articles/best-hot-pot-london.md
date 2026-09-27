@@ -104,7 +104,7 @@ These are the restaurants the most independent sources, across the most differen
 *£££ · Leicester Square · Cited by 7 sources · book a few days ahead*
 
 ![A Haidilao table: a divided rectangular pot of mala and clear broth, raw plates of fish, beef and prawn paste, and a ring of dipping sauces and dry seasonings from the counter](../../assets/articles/best-hot-pot-london/haidilao-table.jpg)
-*The sauce counter is the part people underestimate — the bowls around the pot are all built from it, and they are included.*
+*Haidilao's sauce counter.*
 
 **The most-cited hot pot in London**, named by seven of the seventeen sources read for this page, and the one to start with if you have never done this. Sichuan broths — mala, tomato, mushroom, pork bone — with wagyu slices, prawn paste, tripe and duck blood if you want it, and a noodle order that arrives as a performance, one long strand stretched and whipped at the table.
 

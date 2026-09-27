@@ -73,7 +73,7 @@ The **Luton DART** is an automated cable-hauled shuttle.
 
 ![An aerial view of London Luton Airport and the Luton DART route](../../assets/articles/luton-airport/luton-dart.jpg)
 
-*The Luton DART route. Photo: [Thomas Nugent](https://commons.wikimedia.org/wiki/File:Luton_DART_aerial_view.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Luton DART. Photo: [Thomas Nugent](https://commons.wikimedia.org/wiki/File:Luton_DART_aerial_view.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 * **Frequency:** Departs every 4 to 8 minutes 24/7.
 * **Transit Time:** Takes under **4 minutes** between the terminal building and Luton Airport Parkway rail station.

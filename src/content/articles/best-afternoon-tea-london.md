@@ -92,7 +92,7 @@ Sixty-five seats on the ground floor, a pianist from 1pm to 7pm, and enough room
 
 ![The Palm Court at the Langham, with a tall dried-flower arrangement above a curved buttoned banquette and green armchairs](../../assets/articles/best-afternoon-tea-london/langham-palm-court.jpg)
 
-*The Palm Court at The Langham, where afternoon tea was invented in 1865. The room seats sixty-five and there is genuinely space between the tables.*
+*The Palm Court at The Langham.*
 
 ### The Ritz, Piccadilly
 
@@ -106,7 +106,7 @@ Finely cut sandwiches, **scones with Cornish clotted cream and strawberry preser
 
 ![A tiered stand at the Ritz with finger sandwiches below and monogrammed pastries above, between two glasses of champagne](../../assets/articles/best-afternoon-tea-london/tea-at-the-ritz.jpg)
 
-*Tea at the Ritz. The pastries carry the hotel's monogram, and the cake trolley comes round afterwards so you pick by eye.*
+*Tea at The Ritz.*
 
 > ⚠️ **The dress code is real and enforced.** Jacket and tie for men, no jeans or trainers — waived only for under-16s. Weekend sittings book months out.
 
@@ -121,7 +121,7 @@ Savouries lean British and specific: **smoked Scottish salmon**, seasonal pastri
 **£95 a head, £110 with champagne, £125 with rosé.** The festive menu from early November to 3 January runs £120 on weekdays and £130 at weekends. This is the one where people dress up without being told to.
 
 ![The art deco entrance canopy of Claridge's in Mayfair](../../assets/articles/best-afternoon-tea-london/claridge-s.jpg)
-*The most formal of the grand teas, in a foyer designed to be walked through slowly. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2611316232), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Foyer and Reading Room at Claridge's. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2611316232), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Fortnum & Mason, Piccadilly
@@ -136,7 +136,7 @@ Savouries are properly British and properly specific: **Suffolk cured ham with p
 
 ![A tiered stand in the Fortnum's tea salon holding pastries, plain and fruit scones and finger sandwiches, with white teapots in front and green chairs behind](../../assets/articles/best-afternoon-tea-london/fortnum-and-mason.webp)
 
-*Both the stand and the pot are refilled without asking, which no hotel on this page does. The salon is on the fourth floor of the shop.*
+*The Diamond Jubilee Tea Salon.*
 
 ---
 
@@ -154,7 +154,7 @@ There are no fixed sittings, which is unusual at this level: tea runs continuous
 
 ![A tiered stand of finger sandwiches and pastries on floral china, with champagne flutes and a pink and gold table setting](../../assets/articles/best-afternoon-tea-london/the-dorchester.jpg)
 
-*The stand opens with a glass poured tableside. Tea runs continuously rather than in sittings, which is what makes this one of the easier grand hotels to get into.*
+*The Promenade at The Dorchester.*
 
 ### The Savoy, Covent Garden
 
@@ -168,7 +168,7 @@ Served daily from noon to 6.45pm, with a separate **Twilight Tea from 6pm to 9.3
 
 ![A tiered stand of scones and pastries on a white cloth against a red banquette, with champagne and ornate china](../../assets/articles/best-afternoon-tea-london/the-savoy.jpg)
 
-*The sweets arrive in waves rather than all at once, and the tea list runs past thirty leaves — among the longest in London.*
+*The Gallery at The Savoy.*
 
 ### The Lanesborough, Knightsbridge
 
@@ -182,7 +182,7 @@ The stand is built by head pastry chef **Jolan Thiry** and currently runs as a *
 
 ![The Céleste dining room under its glass dome, Wedgwood blue and white plasterwork, chandeliers and palms above a blue patterned carpet](../../assets/articles/best-afternoon-tea-london/the-lanesborough.jpg)
 
-*Daylight rather than chandeliers, which is what sets this room apart from the rest of the grand hotels. Ask for the earliest sitting if you want it this quiet.*
+*The Céleste dining room.*
 
 ### Corinthia London, Westminster
 
@@ -196,7 +196,7 @@ The distinguishing feature is the **tea master**, who weighs and infuses each bl
 
 ![Warm scones with pots of jam, curd and clotted cream on a marble table, beside a silver teapot and a cup of green tea](../../assets/articles/best-afternoon-tea-london/corinthia-london.jpg)
 
-*The tea is weighed and infused to order by the tea master rather than dropped in a bag, which is the reason to choose this one.*
+*The Crystal Moon Lounge.*
 
 ### Mandarin Oriental Hyde Park, Knightsbridge
 
@@ -212,7 +212,7 @@ Finger sandwiches, then **scones with Devonshire clotted cream** and an unusuall
 
 ![A tiered stand of pastries on gold-rimmed china in the Rosebery Lounge, with a gold teapot and green velvet chairs behind](../../assets/articles/best-afternoon-tea-london/rosebery-lounge.jpg)
 
-*The pastry course in the Rosebery Lounge, which is curated rather than standardised and changes through the year. The room behind it looks over Hyde Park.*
+*The Rosebery Lounge.*
 
 ---
 
@@ -231,7 +231,7 @@ A traditional stand done straight: finger sandwiches, **warm scones with clotted
 **Around £140 for two including service.** The one to pick if the grand hotels feel like too much room, and it books noticeably less far ahead than The Ritz or Claridge's.
 
 ![The Georgian frontage of Brown's Hotel on Albemarle Street](../../assets/articles/best-afternoon-tea-london/brown-s-hotel.jpg)
-*London's oldest hotel, and its afternoon tea is the least stiff of the grand ones. Photo: [Londonmatt](https://commons.wikimedia.org/w/index.php?curid=8743312), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Brown's Hotel, Albemarle Street. Photo: [Londonmatt](https://commons.wikimedia.org/w/index.php?curid=8743312), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Rosewood London, Bloomsbury
 
@@ -245,7 +245,7 @@ The savoury course is unusually ambitious for a tea: **camembert custard tart wi
 
 ![Three brightly coloured art-inspired cakes in a glass display case on a black stand, with champagne being poured against a yellow leather banquette](../../assets/articles/best-afternoon-tea-london/rosewood-london.jpg)
 
-*The Art Afternoon Tea, with the pastry course built to a current exhibition. It is served in a case rather than on a stand, which is the joke.*
+*The Art Afternoon Tea.*
 
 ### Jumeirah Carlton Tower, Knightsbridge
 
@@ -255,7 +255,7 @@ The **Chinoiserie** is a wide, tranquil ground-floor lounge, and it **serves all
 
 ![The Chinoiserie lounge at the Jumeirah Carlton Tower: a wide, symmetrical ground-floor room with blue velvet sofas, yellow armchairs and a long pastry counter at the far end](../../assets/articles/best-afternoon-tea-london/jumeirah-chinoiserie.jpg)
 
-*The Chinoiserie. It serves all afternoon rather than in sittings, which is why you can often get in at short notice.*
+*The Chinoiserie lounge.*
 
 The current stand is nature-themed and deliberately disrupts the classic order: unexpected pairings through the savouries and pastries rather than the standard progression, alongside a full leaf list and warm scones.
 
@@ -275,7 +275,7 @@ Served as **High Palms High Tea**: finger sandwiches, freshly baked scones with 
 
 ![The eight-storey glass-roofed atrium of the Landmark London, with full-grown palm trees rising above the tables](../../assets/articles/best-afternoon-tea-london/winter-garden-landmark.jpg)
 
-*The Winter Garden at The Landmark. Eight storeys of glazed atrium and full-grown palms — this is what you are paying for.*
+*The Winter Garden at The Landmark.*
 
 > ⚠️ **Go for the room.** Reviews of the food itself are genuinely mixed for something over £70 a head. The atrium is extraordinary; the sandwiches are not. Ask for a table on the atrium floor rather than the gallery above.
 
@@ -287,7 +287,7 @@ The Berkeley's fashion-themed Prêt-à-Portea ran for two decades and has been r
 
 ![Five pastries under glass cloches on the Cedric Grolet counter at The Berkeley, including a trompe-l'oeil peach and fig, with Hyde Park through the window behind](../../assets/articles/best-afternoon-tea-london/berkeley-goutea-counter.jpg)
 
-*Grolet's trompe-l'oeil fruit under cloches at the Chef's Counter. The peach and the fig are cakes.*
+*Cédric Grolet's pastries at the Chef's Counter.*
 
 The format is British and the sweets are emphatically not: finger sandwiches and warm scones arrive first, then **desserts sculpted to look like fruit and flowers**, cut open at the table to show what is inside. Pastries and cookies alongside.
 
@@ -305,7 +305,7 @@ The **egg-shaped lavatory pods** upstairs remain, and remain the second reason p
 
 ![The Gallery at Sketch before its 2022 rebuild: pink velvet scallop-backed chairs around white-clothed tables, David Shrigley's framed drawings covering the wall, on a harlequin marble floor](../../assets/articles/best-afternoon-tea-london/sketch-pink-gallery.jpg)
 
-*The Gallery as it was — Shrigley's 245 drawings, the pink velvet and the harlequin floor. This is what came down in 2022; the room you will sit in now is Shonibare and Mahdavi's yellow one.*
+*The Gallery before its 2022 rebuild.*
 
 ### Hotel Café Royal, Regent Street
 
@@ -315,7 +315,7 @@ Tea is served in the **Grill Room**, the Louis XVI room the hotel has kept behin
 
 ![The Grill Room at Hotel Café Royal: a gilded Louis XVI dining room with mirrored walls, a painted ceiling, red leather chairs around white-clothed tables and a grand piano](../../assets/articles/best-afternoon-tea-london/cafe-royal-grill-room.jpg)
 
-*The Grill Room. Gilding, mirrors and a painted ceiling — this is the room the award is for, and the reason to choose it over a hotel lounge.*
+*The Grill Room at Hotel Café Royal.*
 
 It holds an **Award of Excellence in the Afternoon Tea Awards 2026**, and it is the only London tea that both a judged panel and two separate video reviewers picked out in the same year — Insider Food made it the first of three stops in a day spent looking for the best in the city, and Harrison Webb used it as the expensive half of a cheap-versus-expensive test against a £15 tea in Richmond.
 
@@ -384,7 +384,7 @@ Finger sandwiches, cakes, and **fruit scones with homemade jam and clotted cream
 
 ![A tiered stand under a silver cloche holding battenberg, cheesecake and finger sandwiches, in the Wolseley's vaulted room with the clock behind](../../assets/articles/best-afternoon-tea-london/the-wolseley.jpg)
 
-*Less elaborate than the hotels and deliberately so. The room is the point, and at £46.50 it is roughly half what Mayfair charges.*
+*The Wolseley's dining room.*
 
 ### The Connaught, Mayfair
 
@@ -398,7 +398,7 @@ Exotic teas or champagne alongside. Smaller and calmer than Claridge's or The Ri
 
 ![A tiered stand of pastries beside a silver basket of scones and pots of jam and cream on a dark marble table, with a horse-shaped biscuit on the top tier](../../assets/articles/best-afternoon-tea-london/the-connaught.jpg)
 
-*The pâtisserie run changes constantly and the kitchen takes more liberties than the rest of Mayfair. Scones come in a basket rather than on the stand.*
+*The Connaught's tea stand.*
 
 ### The Stafford, Piccadilly
 
@@ -408,7 +408,7 @@ Tucked down a cul-de-sac off St James's, in a hotel built around **17th-century 
 
 ![The cobbled courtyard at The Stafford, with wooden tables and cushioned chairs under striped awnings outside the American Bar, olive trees in planters and a heater between the tables](../../assets/articles/best-afternoon-tea-london/stafford-courtyard.jpg)
 
-*The courtyard, down the cul-de-sac off St James's. This is how quiet the address is — Piccadilly is two minutes away and you cannot hear it.*
+*The Stafford's courtyard.*
 
 A straight, well-executed traditional stand: finger sandwiches, warm scones, patisserie, no theme and no gimmick. This is the one to book when you want the format done properly and nothing else.
 
@@ -426,7 +426,7 @@ Delicate pastries, **freshly baked scones**, and finger sandwiches cut with the 
 
 ![A tiered stand of finger sandwiches, scones and pastries on striped china in a bright white dining room, with a silver teapot alongside](../../assets/articles/best-afternoon-tea-london/the-goring.jpg)
 
-*Sandwiches cut with the precision the format is supposed to have, in the last family-owned grand hotel in London.*
+*The Goring's dining room.*
 
 ### The Milestone, Kensington
 
@@ -436,7 +436,7 @@ A Victorian townhouse hotel **facing Kensington Palace and Kensington Gardens** 
 
 ![A three-tier afternoon tea stand on a white-clothed table at The Milestone, in front of a leaded window with striped curtains and a red velvet chair](../../assets/articles/best-afternoon-tea-london/milestone-tea-stand.jpg)
 
-*Forty-odd covers in a panelled room facing Kensington Palace, and silver service rather than a hotel lounge.*
+*The Milestone's tea lounge.*
 
 Traditional finger sandwiches, freshly baked scones and pastries, with a properly made children's version rather than a smaller adult one. It won an **Award of Excellence at the 2026 Afternoon Tea Awards**, which few of the grander names here can say.
 
@@ -456,7 +456,7 @@ Not a traditional tea at all, and the guide should say so: One Aldwych runs a li
 
 ![An overhead view of the Charlie and the Chocolate Factory afternoon tea at One Aldwych, laid out on lilac with striped plates, caterpillar cakes, coloured sponge squares and scones](../../assets/articles/best-afternoon-tea-london/one-aldwych-charlie-tea.jpg)
 
-*The licensed Charlie and the Chocolate Factory tea. The caterpillars and the coloured squares are the point; the scones are conventional.*
+*The Charlie and the Chocolate Factory tea.*
 
 **Cheesecake inside a golden egg**, cake pops, puffs of candy floss, and a Charlie Cocktail served from a teapot with dry ice pouring over the side. Savouries come first and are conventional; everything after is not.
 
@@ -470,7 +470,7 @@ A **Jurassic afternoon tea**, built to match the Natural History Museum two stre
 
 ![The Ampersand's Jurassic afternoon tea on a three-tier stand with dry ice smoking from a chocolate volcano, a stegosaurus cake, a fossil-print sphere and egg-shaped desserts, beside a small excavation kit](../../assets/articles/best-afternoon-tea-london/ampersand-jurassic-tea.jpg)
 
-*The Jurassic tea, with the dry ice and the excavation kit. The Natural History Museum is two streets away.*
+*The Ampersand's Jurassic tea.*
 
 The stand arrives **wreathed in dry ice**. **T-rex footprint macarons**, dark chocolate and caramel dinosaur egg nests, biscuit fossils, alongside a conventional savoury course. Taken in the Drawing Rooms, a bright basement space rather than a grand salon.
 

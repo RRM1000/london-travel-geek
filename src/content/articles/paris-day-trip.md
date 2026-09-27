@@ -146,7 +146,7 @@ Given the real hours available, pick one of these rather than trying to string a
 
 ![The Louvre's glass pyramid in its main courtyard, with the palace's carved stone wings behind it under a clear sky](../../assets/articles/paris-day-trip/louvre-pyramid.jpg)
 
-*The glass pyramid in the Louvre's main courtyard, the museum's best-known entrance.*
+*The Louvre's glass pyramid.*
 
 > ⚠️ **If you're travelling on a Tuesday** — the same day of the week we priced the Eurostar fares against in this guide — **the Louvre is shut.** Swap in the Musée d'Orsay or simply give Notre-Dame and the Left Bank more time.
 
@@ -154,13 +154,13 @@ Given the real hours available, pick one of these rather than trying to string a
 
 ![The Eiffel Tower seen from below on a sunny evening, with the five Olympic rings mounted between the first and second floors](../../assets/articles/paris-day-trip/eiffel-tower-olympic-rings.jpg)
 
-*The Eiffel Tower in August 2024, wearing the Olympic rings it carried for the Paris Games.*
+*The Eiffel Tower.*
 
 **Montmartre**, 15 minutes from the station by Métro, is the option if you'd rather wander a neighbourhood than queue for a ticketed sight — cobbled streets, the Place du Tertre, and the basilica itself free to enter.
 
 ![The white domes of the Sacré-Cœur at the top of Montmartre, above lawns and long flights of steps busy with visitors](../../assets/articles/paris-day-trip/sacre-coeur-steps.jpg)
 
-*The Sacré-Cœur at the top of Montmartre, free to enter once you've climbed the steps.*
+*The Sacré-Cœur, Montmartre.*
 
 Prefer someone else to handle the tickets, the coach transfers in Paris and the Eurostar booking? The escorted day trip linked at the top of this guide covers a panoramic coach tour, lunch at the Eiffel Tower's Madame Brasserie, a Seine cruise and entry to the tower itself, with round-trip Eurostar included — useful if you'd rather not plan the logistics above yourself.
 

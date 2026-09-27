@@ -38,7 +38,7 @@ For the rest of the area, see the [Hampstead area guide](/articles/hampstead-are
 
 ![A duckweed-covered pond fringed with reeds in a wooded corner of Hampstead Heath, near North End](../../assets/articles/hampstead-heath-primrose-hill-walk/hampstead-heath-pond-north-end.jpg)
 
-*One of the smaller ponds in the Heath's woodland near North End: not the famous bathing ponds, just one of the quiet ones between them.*
+*A quiet pond near North End.*
 
 ## The route
 
@@ -94,7 +94,7 @@ Leave along **Well Walk**, which runs straight to the edge of the Heath.
 
 ![A green, tree-lined dell on Hampstead Heath near the Vale of Health, with two walkers on the path below](../../assets/articles/hampstead-heath-primrose-hill-walk/vale-of-health-wooded-dell.jpg)
 
-*The wooded dip just below the Vale of Health. This stretch of the Heath is easy to have to yourself.*
+*The wooded dip below the Vale of Health.*
 
 **A hamlet with the Heath on every side**, reached by a single lane off East Heath Road. It began in 1714, when a harness maker called Samuel Hatch built a workshop here, and the spot became known as Hatch's, or Hatchett's, Bottom. The name Vale of Health was recorded in 1801, in what might be London's most successful piece of rebranding.
 
@@ -116,7 +116,7 @@ South-east from Kenwood, the Heath drops to a chain of ponds along its eastern e
 
 ![One of the Hampstead Heath bathing ponds, ringed by trees, with a swimmers' noticeboard in the foreground](../../assets/articles/hampstead-area-guide/hampstead-heath-bathing-pond.jpg)
 
-*One of the Heath's bathing ponds. There are three, and this route passes all of them.*
+*One of the Heath's bathing ponds.*
 
 Both are natural, unheated and open **all year from 7am**. A swim is **£5, or £3** for concessions and under-16s. Closing time follows the daylight: last entry ranges from 8.15pm in high summer to 2pm in November. From late May to early September some sessions have to be booked in advance.
 

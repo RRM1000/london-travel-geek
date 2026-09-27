@@ -89,7 +89,7 @@ King's Cross has its own share of the commemorative plaques marking where notabl
 
 ![The curving zinc kissing-roof of Coal Drops Yard, where two Victorian warehouse roofs rise to meet each other, above crowds on the upper walkway](../../assets/articles/kings-cross-area-guide/coal-drops-yard-roofs.jpg)
 
-*The kissing-roof, seen from below. The two original warehouse roofs were extended until they touched.*
+*Coal Drops Yard's kissing-roof.*
 2. **The British Library Treasures Gallery** — Magna Carta, the Lindisfarne Gospels, Leonardo's notebook, Handel's Messiah in his own hand, and Beatles lyrics scribbled on envelopes. Free, and one of the great rooms in London.
 3. **Granary Square** — 1,000 choreographed fountains in front of Central Saint Martins. Children play in them all summer; the steps down to the canal are the best sitting spot in the area.
 4. **Platform 9¾** — The trolley in the wall at King's Cross station, in the western concourse rather than on a platform. Free to queue, paid for the photo.
@@ -117,11 +117,11 @@ The centre of the redevelopment, and the part worth walking even if you buy noth
 
 ![The entrance to Coal Drops Yard under a brick railway viaduct, lettered Welcome to Coal Drops Yard](../../assets/articles/kings-cross-area-guide/coal-drops-yard-entrance.jpg)
 
-*The entrance to Coal Drops Yard. The arches were built in the 1850s to drop coal from rail wagons into carts below.*
+*The entrance to Coal Drops Yard.*
 
 ![Market stalls with festoon lighting strung along the upper level of Coal Drops Yard](../../assets/articles/kings-cross-area-guide/coal-drops-yard-market-stalls.jpg)
 
-*The upper level, which runs stalls and events through the summer.*
+*Coal Drops Yard's upper level.*
 
 In December Crafty Fox brings its Christmas maker market to Granary Square, on 6 December and again on 12 and 13 December 2026; details are in our [London Christmas markets guide](/articles/christmas-markets-london/).
 
@@ -137,11 +137,11 @@ In December Crafty Fox brings its Christmas maker market to Granary Square, on 6
 
 ![The white lattice roof of the Western Concourse at King's Cross station fanning out above the crowds](../../assets/articles/kings-cross-area-guide/kings-cross-western-concourse.jpg)
 
-*The Western Concourse, opened in 2012. The lattice is a single fan of steel springing from one central funnel — and Platform 9¾ is against the wall on the left.*
+*The Western Concourse.*
 
 ![A luggage trolley loaded with trunks and an owl cage, standing against the brick wall beneath the Platform 9¾ sign at King's Cross](../../assets/articles/kings-cross-area-guide/platform-nine-three-quarters-trolley.jpg)
 
-*The Platform 9¾ trolley. Queuing is free; the photograph taken by the staff photographer is not, and the shop beside it is where the queue ends.*
+*The Platform 9¾ trolley.*
 
 ### Regent's Canal and St Pancras Lock
 
@@ -155,11 +155,11 @@ Behind Granary Square, and the way out of King's Cross that most visitors never 
 
 ![Narrowboats moored on the Regent's Canal beside the grass steps at Granary Square](../../assets/articles/kings-cross-area-guide/regents-canal-granary-square.jpg)
 
-*The canal steps below Granary Square — the best place to sit in King's Cross, and free.*
+*The canal steps below Granary Square.*
 
 ![St Pancras Lock on the Regent's Canal, with the restored Victorian gasholder frames behind it](../../assets/articles/kings-cross-area-guide/st-pancras-lock-gasholders.jpg)
 
-*St Pancras Lock, with the gasholder frames behind. Three of them now hold flats; the fourth is a park.*
+*St Pancras Lock and the gasholder frames.*
 
 <div data-stay-strip></div>
 
@@ -172,7 +172,7 @@ It is small enough to walk in twenty minutes and there is a visitor centre and c
 
 ![A woodland path winding through Camley Street Natural Park, a nature reserve behind King's Cross](../../assets/articles/kings-cross-area-guide/camley-street-natural-park.jpg)
 
-*Camley Street. The mainline into St Pancras runs along the far side of this, which is the surprise of the place.*
+*Camley Street Natural Park.*
 
 ### Caledonian Road and Keystone Crescent
 

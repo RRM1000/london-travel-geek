@@ -149,7 +149,7 @@ Crosses the Thames between Greenwich Peninsula (The O2) and Royal Docks. Offers 
 
 ![Cable car gondolas crossing high above Greenwich Peninsula on the IFS Cloud Cable Car](../../assets/articles/getting-around-london/london-cable-car.jpg)
 
-*The cable car runs at 90 metres, well above anything else in the area. Contactless and Oyster both work at the gate.*
+*The IFS Cloud Cable Car, at 90 metres.*
 
 * **Ticket Perks:** Presenting a show ticket for **The O2 Arena** at the terminal office qualifies you for a **50% discount** on cable car flights.
 

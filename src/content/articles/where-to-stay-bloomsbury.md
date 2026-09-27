@@ -51,7 +51,7 @@ The name covers a genuinely large area, and where you land inside it changes the
 
 ![A red double-decker London bus converted into a bar inside the Generator London hostel lounge with seating and neon lighting](../../assets/articles/where-to-stay-bloomsbury/generator-london-bus-bar.jpg)
 
-*The bar inside Generator London, built into the back half of a red double-decker bus.*
+*The bus bar at Generator London.*
 
 A former Bloomsbury police station turned into one of London's largest hostels: dorms of four to ten, female-only dorms, private rooms, a 24-hour reception and a bar built into the back half of an actual double-decker bus. **Generator's own booking site groups this property under "London King's Cross" rather than Bloomsbury** — a reminder that the two areas run into each other here, whatever the postcode says.
 
@@ -63,7 +63,7 @@ A former Bloomsbury police station turned into one of London's largest hostels: 
 
 ![The white-porticoed Georgian townhouse frontage of Mentone Hotel on Cartwright Gardens with black cast-iron railings](../../assets/articles/where-to-stay-bloomsbury/mentone-hotel-cartwright-gardens.jpg)
 
-*Mentone Hotel's Georgian crescent frontage on Cartwright Gardens, facing the private gardens and tennis courts.*
+*Mentone Hotel, Cartwright Gardens.*
 
 Three connected Georgian townhouses on Cartwright Gardens, a private crescent with gated gardens and — genuinely — its own tennis courts, run by the same family since 1972. Every one of the forty-plus rooms is en suite, from a single with a three-foot bed up to a family room sleeping five, and the smallest doubles are on the top floor or lower ground rather than the street-facing floors.
 
@@ -75,7 +75,7 @@ Three connected Georgian townhouses on Cartwright Gardens, a private crescent wi
 
 ![The Georgian brick facade of Ridgemount Hotel at 65-67 Gower Street with sash windows and wrought-iron railings](../../assets/articles/where-to-stay-bloomsbury/ridgemount-hotel-gower-street.jpg)
 
-*The Gower Street townhouses of the Ridgemount Hotel, run by the same family for decades.*
+*Ridgemount Hotel, Gower Street.*
 
 Two Georgian townhouses on Gower Street, thirty-two rooms across four floors, run with the kind of returning-guest loyalty a family hotel earns over decades. Every room has fresh linen, a smart TV and tea and coffee making facilities, and hot and cold drinks are available in the lounge around the clock.
 
@@ -89,7 +89,7 @@ Two Georgian townhouses on Gower Street, thirty-two rooms across four floors, ru
 
 ![A windowless twin cocoon room at Zedwell Tottenham Court Road with twin beds on illuminated oak plinths and warm recessed lighting](../../assets/articles/where-to-stay-bloomsbury/zedwell-tottenham-court-road-cocoon.jpg)
 
-*A windowless Cocoon room at Zedwell Tottenham Court Road, with beds set into illuminated oak plinths.*
+*A windowless Cocoon room at Zedwell.*
 
 London's first entirely underground hotel, built inside a disused car park beneath Great Russell Street — two minutes from the British Museum and directly on the Bloomsbury/Fitzrovia line. Every one of the 206 rooms is windowless, soundproofed and filtered-air by design, not as the cut-price grade at the bottom of a longer list: **Cocoon 1 is 10 sq m for one, Cocoon 2 is 12 sq m for two, Cocoon 3 is 14 sq m for three, and Cocoon 4 is 16 sq m for up to four**, each with a rainfall shower and no television built in on purpose.
 
@@ -101,7 +101,7 @@ London's first entirely underground hotel, built inside a disused car park benea
 
 ![The arched white entrance portico of Morgan Hotel at 24 Bloomsbury Street with its red sign and iron railings](../../assets/articles/where-to-stay-bloomsbury/morgan-hotel-bloomsbury-street.jpg)
 
-*The entrance portico of the Morgan Hotel on Bloomsbury Street, two minutes from the British Museum.*
+*The Morgan Hotel's entrance.*
 
 A family-run hotel spread across two buildings on Bloomsbury Street, a couple of minutes from the British Museum, with a published room list that runs from an 11 sq m single up to a 51 sq m Deluxe Family Apartment — roughly the floor area of a small flat, with its own kitchen-equipped living space, for a fraction of what a serviced apartment costs nearer Covent Garden.
 
@@ -113,7 +113,7 @@ A family-run hotel spread across two buildings on Bloomsbury Street, a couple of
 
 ![The Coral Room salon bar at The Bloomsbury Hotel with high coral-red walls, brass chandeliers, velvet banquettes and a long bar](../../assets/articles/where-to-stay-bloomsbury/the-bloomsbury-hotel-coral-room.jpg)
 
-*The Coral Room at The Bloomsbury Hotel, designed by Martin Brudnizki in the Lutyens-designed building.*
+*The Coral Room, The Bloomsbury Hotel.*
 
 A Lutyens-designed neo-Georgian building a minute along Great Russell Street from the museum, run by the Irish family-owned Doyle Collection and named among London's finest hotels in Condé Nast Traveller's Readers' Choice Awards 2025. Three separate bars carry the address further than most hotels bother: **the Coral Room**, a Martin Brudnizki-designed "Grand Salon Bar"; **the Bloomsbury Club Bar**, built around the 1930s Bloomsbury Set; and **Dalloway Terrace**, the flower-covered terrace restaurant already known to anyone who has read our [Bloomsbury area guide](/articles/bloomsbury-area-guide/) — booking a room here is the way to get a table there without the wait.
 
@@ -125,7 +125,7 @@ A Lutyens-designed neo-Georgian building a minute along Great Russell Street fro
 
 ![The ornate Victorian terracotta facade of Kimpton Fitzroy London facing Russell Square with a red London bus passing](../../assets/articles/where-to-stay-bloomsbury/kimpton-fitzroy-london-facade.jpg)
 
-*Kimpton Fitzroy London's 1898 terracotta facade facing Russell Square, with a red double-decker bus passing in front.*
+*Kimpton Fitzroy London, Russell Square.*
 
 A full block down the eastern side of Russell Square, interiors by Tara Bernerd & Partners layered over the 19th-century building's original bones, with Fitz's Brasserie, Fitz's Bar, Fitz's Palm Court and a reimagined outdoor Terrace all trading under one roof.
 
@@ -137,7 +137,7 @@ A full block down the eastern side of Russell Square, interiors by Tara Bernerd 
 
 ![The glass-walled Arcus rooftop restaurant and terrace on the tenth floor of The Imperial overlooking the London skyline](../../assets/articles/where-to-stay-bloomsbury/the-imperial-arcus-rooftop.jpg)
 
-*Arcus on the tenth floor of The Imperial, opened as part of the hotel's 2026 rebuild with skyline views over London.*
+*Arcus, on The Imperial's tenth floor.*
 
 **Most guides to this hotel are now describing a building that no longer exists.** The Imperial spent years as a plain three-star option on Russell Square — patterned carpets, no design ambition, cheap because it looked it — and every source written before this year still says so. The operator's own site now opens with "we begin our Third Chapter": a full relaunch into 357 mid-century-modern rooms across nine new grades, from an entry Access room up to a 57 sq m Beacon suite and a two-bedroom Bloomsbury Beacon suite with panoramic views over the square.
 

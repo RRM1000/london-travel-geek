@@ -79,17 +79,17 @@ The beef is native breed, dry-aged on the bone and cooked over charcoal rather t
 
 ![A thick grilled steak at Hawksmoor, dark and crusted from the charcoal with a pink centre showing in the sliced end, served with crushed potatoes](../../assets/articles/best-steak-restaurants-london/hawksmoor-steak.jpg)
 
-*The charcoal crust is the point. A broiler cannot do that, which is the difference Hawksmoor built the room around.*
+*The charcoal-grilled steak at Hawksmoor.*
 
 ### Flat Iron, Soho
 
 *£ · £15 · no bookings · Cited by 7 sources*
 
-**One cut, one price.** No bookings, and the queue moves. The cheapest good steak in central London by a considerable distance, and the second most-cited restaurant on this page — which for a £15 plate is the whole argument.
+**One cut, one price.** No bookings, and the queue moves. The cheapest good steak in central London by a considerable distance, and the second most-cited restaurant on this page — which for a £15 plate is the whole argument. Order the creamed spinach and the beef dripping chips as sides.
 
 ![A flat iron steak sliced on a wooden board, with creamed spinach, beef dripping chips and sauces in enamel dishes](../../assets/articles/best-steak-restaurants-london/flat-iron-steak.jpg)
 
-*The whole proposition, in one photograph. The steak comes sliced on a board with a cleaver-handled knife, and the sides are ordered separately — creamed spinach and beef dripping chips are the two worth having.*
+*The flat iron steak.*
 
 Popcorn arrives while you wait and there is free salted caramel ice cream at the end, which is a large part of why the queue is tolerable.
 
@@ -105,7 +105,7 @@ The proposition is comparison: **Japanese A5 wagyu, USDA prime and British nativ
 
 ![A sliced steak at CUT, dark and heavily crusted at the edge with a red centre, fanned across a white plate with a sprig of thyme and a dark sauce](../../assets/articles/best-steak-restaurants-london/cut-45-park-lane.jpg)
 
-*Sliced before it reaches you, which is how the comparison is meant to work — the crust comes off the hardwood broiler and the colour inside is what you are paying to tell apart.*
+*A sliced steak at CUT.*
 
 ### The Guinea Grill, Mayfair
 
@@ -119,7 +119,7 @@ Beef is dry-aged in-house and grilled plainly, and the **steak and kidney pie** 
 
 ![A large bone-in T-bone steak, charred from the grill bars, filling a white plate beside a pile of watercress, with silver cutlery and a dish of chips on a white tablecloth](../../assets/articles/best-steak-restaurants-london/the-guinea-grill.jpg)
 
-*Grilled plainly and sent out on a white cloth with silver cutlery, which is roughly how the room has done it since 1952. Nothing on the plate is trying to be current.*
+*The T-bone at The Guinea Grill.*
 
 ### Blacklock, Soho
 
@@ -135,7 +135,7 @@ The Sunday roast here is one of the best in London.
 
 ![A sliced bone-in T-bone on a white oval plate in a dark room, beside a copper cup of thick-cut chips and a small metal pot of béarnaise](../../assets/articles/best-steak-restaurants-london/blacklock-steak.jpg)
 
-*A bone-in cut, which means this one is off the by-weight Butcher's Cuts rather than the £16–25 list. Chips in a copper cup and a pot of béarnaise are the standard accompaniment.*
+*A bone-in cut, from the Butcher's Cuts list.*
 
 ### The Quality Chop House, Clerkenwell
 
@@ -149,7 +149,7 @@ The beef is properly sourced and simply cooked, but the dish that made the room 
 
 ![Slices of rare beef resting in a pool of dark jus on a white plate with a gold-patterned rim](../../assets/articles/best-steak-restaurants-london/quality-chop-house.jpg)
 
-*Sourced carefully and then left alone — sliced, rested and served in its own juices on the old china. The confit potatoes are ordered separately and are the thing people actually queue for.*
+*The beef at The Quality Chop House.*
 
 ### Goodman, Mayfair
 
@@ -161,7 +161,7 @@ The useful quirk is that **USDA and British dry-aged cuts sit on the same menu**
 
 ![A grilled steak with a bowl of chips](../../assets/articles/best-steak-restaurants-london/goodman.jpg)
 
-*The dry-ageing is done in-house, and the American and British cuts sit side by side on one menu. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4567552384), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*A steak at Goodman. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4567552384), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 
@@ -191,7 +191,7 @@ The New York institution's London site, on the Adelphi building by the river. US
 
 ![Slices of rare steak with watercress and a smear of béarnaise, on a white plate printed with the Smith & Wollensky crest on the rim](../../assets/articles/best-steak-restaurants-london/smith-and-wollensky.jpg)
 
-*USDA Prime, dry-aged in the building and served on the house china. The crest on the rim is the New York original's, carried over intact.*
+*A steak at Smith & Wollensky.*
 
 ### Basque asador
 
@@ -239,7 +239,7 @@ Tomos Parry cooking over wood in a first-floor room above a Shoreditch pub. Basq
 
 ![A disc of raw chopped Fassona beef on a black slate board, with rocket and two tomato wedges beside it](../../assets/articles/best-steak-restaurants-london/macellaio-carne-cruda.jpg)
 
-*The carne cruda, which is the argument for the whole place: beef lean enough to be worth eating raw, chopped and pressed into a disc with almost nothing done to it.*
+*The carne cruda.*
 
 #### The Devonshire, Soho
 
@@ -249,7 +249,7 @@ Better known as the hardest pint to get in Soho, but the dining room upstairs gr
 
 ![A steak at The Devonshire, sliced across the grain and topped with a ribbon of bearnaise, with thick-cut chips and buttered peas](../../assets/articles/best-steak-restaurants-london/the-devonshire-steak.jpg)
 
-*Chips, peas, béarnaise, and a cut priced like a pub rather than a steakhouse. That is how it places 45th in the world and still counts as ££.*
+*The steak at The Devonshire.*
 
 ---
 

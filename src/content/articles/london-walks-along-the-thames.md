@@ -50,11 +50,11 @@ The classic London walk and still the best introduction to the city.
 
 ![The riverside walk at Gabriel's Wharf, a signed run of small shops and food units under plane trees](../../assets/articles/london-walks-along-the-thames/gabriels-wharf.jpg)
 
-*Gabriel's Wharf, midway along the walk. A row of independent shops and cafes on what was a derelict site until the 1980s.*
+*Gabriel's Wharf.*
 
 ![Tower Bridge from the north bank, both towers and the raised walkways above the road deck](../../assets/articles/london-walks-along-the-thames/tower-bridge.jpg)
 
-*Tower Bridge, the end of the walk. The pavement across is free; only the high-level walkways are ticketed.*
+*Tower Bridge, the end of the walk.*
 
 ---
 
@@ -74,11 +74,11 @@ The oldest pubs in London, in order, along the river.
 
 ![Yachts moored in St Katharine Docks beside a domed bandstand and the old warehouse buildings](../../assets/articles/london-walks-along-the-thames/st-katharine-docks.jpg)
 
-*St Katharine Docks, five minutes east of Tower Bridge. London's first docks to close, and the first to be rebuilt as a marina.*
+*St Katharine Docks.*
 
 ![A still Wapping dock lined with converted Georgian and Victorian warehouse flats, reflecting the buildings and sky, with the Shard visible on the skyline in the distance](../../assets/articles/london-walks-along-the-thames/wapping-dock.jpg)
 
-*One of Wapping's old docks, now ringed by warehouse conversions — the calm water and the Shard on the skyline make an odd pair.*
+*One of Wapping's old docks.*
 
 **Worth knowing:** Wapping Old Stairs is where condemned prisoners were chained at low tide. The Grapes is part-owned by Ian McKellen and Dickens drank there.
 
@@ -108,11 +108,9 @@ The only walk on this page that crosses the Thames without a bridge. It runs sou
 
 ![Swans and pigeons on a floating dock in an Isle of Dogs marina, with the converted Victorian warehouse flats behind and Canary Wharf's towers rising in the distance](../../assets/articles/london-walks-along-the-thames/isle-of-dogs-marina-swans.jpg)
 
-*One of the Isle of Dogs' old docks, now a marina of moorings and waterside flats — this stretch is easy to have almost entirely to yourself.*
+*One of the Isle of Dogs' old docks.*
 
 ![A canal-side dock on the Isle of Dogs lined with converted warehouse flats, with the Canary Wharf skyline reflected in the water and a floating "Tern Raft" nesting platform in the foreground](../../assets/articles/london-walks-along-the-thames/isle-of-dogs-marina-canary-wharf.jpg)
-
-*Further down the same dock — the towers you just walked away from are still following you.*
 
 ---
 

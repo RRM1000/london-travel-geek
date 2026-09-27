@@ -91,7 +91,7 @@ It went up overnight on **29 April 2026**, outside the Athenaeum club, and Banks
 
 ![Banksy's Blind Patriotism statue on its plinth on Waterloo Place, a flag blowing across the figure's face, with a crowd photographing it from behind green barriers](../../assets/articles/banksy-walk-london/blind-patriotism-waterloo-place.jpg)
 
-*Blind Patriotism on Waterloo Place, behind the council's barriers. On a sunny weekend, this is the crowd.*
+*Blind Patriotism, on Waterloo Place.*
 
 **To stop 2:** north up Regent Street St James's and through Soho to Centre Point, about fifteen minutes.
 
@@ -105,7 +105,7 @@ The Centre Point version is on **St Giles Square**, at the junction of New Oxfor
 
 ![Banksy's stencil of two children lying on their backs on a low stone wall at Centre Point, splashed with blue paint that has run down over both figures](../../assets/articles/banksy-walk-london/stargazing-children-centre-point.jpg)
 
-*The Stargazing Children after the blue paint attack. The figures are still there underneath.*
+*The Stargazing Children, after the paint attack.*
 
 > ⚠️ **The Art of Banksy exhibition is two minutes down Charing Cross Road**, at number 100, and it **closes for good on 29 September 2026**. It is ticketed, and our [street art guide covers it](/articles/london-street-art/#the-art-of-banksy-soho).
 
@@ -125,7 +125,7 @@ TfL took the door away to protect it. Since **August 2025** it has been fixed to
 
 ![The London Transport Museum's glass-arched Victorian market building on Covent Garden Piazza, under a blue sky](../../assets/articles/banksy-walk-london/london-transport-museum.jpg)
 
-*The London Transport Museum, in the old flower market on Covent Garden Piazza.*
+*The London Transport Museum, Covent Garden Piazza.*
 
 ## 3. The Cannon Street rat
 
@@ -151,11 +151,11 @@ The passage is named after the **Steelyard**, the walled trading post of the Han
 
 ![Banksy's Basquiat-style ferris wheel of white crowns on a black panel, fixed behind a clear screen on a white wall](../../assets/articles/banksy-walk-london/basquiat-ferris-wheel.jpg)
 
-*The ferris wheel, with Basquiat's crowns as the cars.*
+*The ferris wheel mural.*
 
 ![Banksy's second Basquiat mural on the wall of the Beech Street tunnel, police officers searching a Basquiat-style figure, with a Golden Lane sign on the pillar beside it](../../assets/articles/banksy-walk-london/basquiat-beech-street-tunnel.jpg)
 
-*The police search mural in the tunnel. The Golden Lane sign on the pillar is how you know you are at the right end.*
+*The police search mural, at Beech Street.*
 
 **To stop 5:** out of the tunnel's eastern end and along Chiswell Street, three minutes.
 
@@ -167,7 +167,7 @@ They go on display when the **new London Museum opens at Smithfield on 28 Novemb
 
 ![The Victorian market building at Smithfield with its green-domed corner tower, on a clear morning](../../assets/articles/banksy-walk-london/london-museum-smithfield.jpg)
 
-*The old market buildings at Smithfield, the London Museum's new home.*
+*Smithfield, the London Museum's new home.*
 
 ## 5. The I Love London rat, Chiswell Street
 
@@ -175,11 +175,11 @@ They go on display when the **new London Museum opens at Smithfield on 28 Novemb
 
 It has been given a plastic cover and has still been attacked several times. The panel under "London" refers to **Robbo**, the graffiti writer with whom Banksy had a long-running feud, and it has been blacked out and written over more than once.
 
-**It is the rat to photograph.** The Cannon Street one is a faded outline; this one still has its detail.
+**It is the rat to photograph.** The Cannon Street one is a faded outline; this one still has its detail. It sits at pavement level on the corner of the building, so look down rather than up.
 
 ![Banksy's rat stencilled low on a white wall corner on Chiswell Street, wearing a peace-sign medallion and holding up a placard reading I love London, with Robbo written in white on a black panel](../../assets/articles/banksy-walk-london/i-love-london-rat-chiswell-street.jpg)
 
-*The I Love London rat, at pavement level on the corner of the building. Look down, not up.*
+*The I Love London rat, on Chiswell Street.*
 
 **To stop 6:** north-east to the Old Street end of Great Eastern Street, about fifteen minutes.
 
@@ -205,7 +205,7 @@ It has been here for years and it looks it: **the paint is weathered**, and a fi
 
 ![The Truman Black Eagle Brewery name and eagle on a brick bridge spanning Brick Lane under a grey sky](../../assets/articles/banksy-walk-london/truman-brewery-brick-lane.jpg)
 
-*The Truman Brewery's bridge over Brick Lane. Ely's Yard, and the Pink Car, is just behind it.*
+*The Old Truman Brewery's bridge, over Brick Lane.*
 
 **To stop 8: take the Overground.** Walk to **Liverpool Street** and take the **Weaver line to Stoke Newington**, then walk up to Church Street. TfL's journey planner puts it at **about 47 minutes door to door**: 18 minutes to Liverpool Street, 13 on the train and 16 from Stoke Newington station.
 
@@ -217,7 +217,7 @@ It has survived several attempts to remove it. In 2009 the council started paint
 
 ![Banksy's Royal Family on the side of a building in Stoke Newington, cartoon royals and a teddy bear waving from a balcony, framed by a patch of beige wall inside a large area of black paint](../../assets/articles/banksy-walk-london/royal-family-stoke-newington.jpg)
 
-*The Royal Family, still waving, in the square of original wall the council's black paint did not reach.*
+*The Royal Family, in Stoke Newington.*
 
 **Finish here because it is the other end of the story.** You started at a statue that appeared in 2026; this is one of the first things he put on a London wall, twenty-five years earlier, still waving.
 
@@ -233,19 +233,19 @@ It is free and visible from the pavement at any hour. Stoke Newington station, o
 
 ![A plate of oysters with lemon and two pints on an outdoor table by the Thames, with London Bridge and the Shard across the river](../../assets/articles/banksy-walk-london/oyster-shed-river-terrace.jpg)
 
-*Oysters and a pint at the Oyster Shed, with the Shard across the river.*
+*The Oyster Shed, by the river.*
 
 **Upmarket and Ely's Yard, at stop 7.** **Upmarket, at 83 Brick Lane**, is the Truman Brewery's food hall, with more than forty street food traders. It is open **every day, 11am to 6pm Monday to Saturday and 10am to 6pm on Sunday**. The food trucks in Ely's Yard, next to the Pink Car, also trade **seven days a week**. Eat here before the train if you are going on to Stoke Newington.
 
 ![Street food stalls under strings of bunting inside Upmarket at the Old Truman Brewery, with the Upmarket sign hanging at the entrance](../../assets/articles/banksy-walk-london/upmarket-brick-lane.jpg)
 
-*Upmarket, the Truman Brewery's food hall, a couple of minutes from the Pink Car.*
+*Upmarket, the Truman Brewery's food hall.*
 
 **Beigel Bake, 159 Brick Lane**, five minutes north, is **open 24 hours a day, seven days a week**.
 
 ![The Beigel Bake shopfront on Brick Lane, its sign reading Brick Lane Bakery, open 24 hours 7 days, with a hot beigels all night sign above](../../assets/articles/banksy-walk-london/beigel-bake-brick-lane.jpg)
 
-*Beigel Bake at 159 Brick Lane. The sign is not exaggerating.*
+*Beigel Bake, 159 Brick Lane.*
 
 For the rest of Brick Lane and Spitalfields, see the [Shoreditch area guide](/articles/shoreditch-area-guide/#where-to-eat-and-drink).
 

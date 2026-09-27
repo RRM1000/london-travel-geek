@@ -84,7 +84,7 @@ The former headquarters of the Hongkong and Shanghai Banking Corporation, design
 
 ![The banking hall interior of The Crosse Keys, with marble columns, hanging lamps and a stained-glass domed skylight above the bar](../../assets/articles/best-wetherspoons-pubs-london/the-crosse-keys.jpg)
 
-*The banking hall itself — marble columns down the room and a glass dome overhead, at Wetherspoon prices since 1999.*
+*The Crosse Keys' banking hall.*
 
 ### Hamilton Hall, Liverpool Street
 
@@ -94,7 +94,7 @@ The former ballroom of the Great Eastern Hotel, named after Lord Claud Hamilton,
 
 ![The gilded former ballroom of Hamilton Hall at Liverpool Street station, with ornate plasterwork, chandeliers and tall arched windows](../../assets/articles/best-wetherspoons-pubs-london/hamilton-hall.jpg)
 
-*The Great Eastern Hotel's old ballroom — gilded plasterwork and chandeliers, and the chain's first pub in central London.*
+*Hamilton Hall's old ballroom.*
 
 ### The Liberty Bounds, Tower Hill
 
@@ -104,7 +104,7 @@ Named for its position just outside the old boundary, or "liberty," that the Cit
 
 ![The self-service coffee station inside The Liberty Bounds near Tower Hill, with a free refills sign above the machines](../../assets/articles/best-wetherspoons-pubs-london/the-liberty-bounds.jpg)
 
-*Free refills on tea and Lavazza coffee all day — the one thing this branch is known for, absent a building story of its own.*
+*Free refills at The Liberty Bounds.*
 
 ### The Ledger Building, Canary Wharf
 
@@ -116,7 +116,7 @@ The Crosse Keys, Hamilton Hall and this one get a fuller architectural write-up 
 
 ![The white colonnaded portico of The Ledger Building at West India Quay, a modern tower rising behind the early-1800s dock building](../../assets/articles/best-wetherspoons-pubs-london/the-ledger-building.jpg)
 
-*The colonnaded dock office at West India Quay, predating every tower now built up around it by close to two centuries.*
+*The Ledger Building, West India Quay.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wetherspoons-pubs-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -132,7 +132,7 @@ St Pancras's train shed sits on a raised iron deck, designed by the engineer Wil
 
 ![The entrance to The Barrel Vault inside St Pancras International, with rows of barrel-shaped light fixtures hanging above the bar](../../assets/articles/best-wetherspoons-pubs-london/the-barrel-vault.jpg)
 
-*Barrel-shaped lights over the bar, on the same iron deck where Burton beer barrels were once stored below.*
+*The Barrel Vault's lights.*
 
 ### The Captain Flinders, Euston
 
@@ -142,7 +142,7 @@ Named for Captain Matthew Flinders, the Royal Navy explorer who led the first ci
 
 ![The corner exterior of The Captain Flinders near Euston, with a hanging pub sign portrait of Captain Matthew Flinders in naval dress](../../assets/articles/best-wetherspoons-pubs-london/the-captain-flinders.jpg)
 
-*The sign portrait of Captain Matthew Flinders, whose remains turned up nearby during the HS2 dig at Euston.*
+*The Captain Flinders' sign.*
 
 ### The Sir Alexander Fleming, Paddington
 
@@ -152,7 +152,7 @@ The newest branch in this guide, opened in October 2025 in the modern Merchant S
 
 ![The bar inside The Sir Alexander Fleming, with phenoxymethylpenicillin spelled out in large letters above the taps](../../assets/articles/best-wetherspoons-pubs-london/the-sir-alexander-fleming.jpg)
 
-*Phenoxymethylpenicillin spelled out above the bar — a nod to the discovery made a short walk away at St Mary's Hospital.*
+*Phenoxymethylpenicillin above the bar.*
 
 ### The Lion, The Unicorn, Waterloo
 
@@ -162,7 +162,7 @@ Named after the Lion and Unicorn Pavilion, one of the structures built for the 1
 
 ![Signage for The Lion, The Unicorn at Waterloo station, seen from the concourse beneath the platforms with exposed ceiling ductwork above](../../assets/articles/best-wetherspoons-pubs-london/the-lion-the-unicorn.jpg)
 
-*Under the platforms at Waterloo — the last place in London still carrying the name of the 1951 Festival of Britain pavilion.*
+*The Lion, The Unicorn, Waterloo.*
 
 Victoria has two branches rather than a standout single one: **Willow Walk** on Wilton Road, named after a tree-lined thoroughfare that grew up on a causeway once crossing marshland toward Westminster Abbey, and a branch inside the station itself that has traded, plainly, as **Wetherspoons** since March 1993 — among the earliest of the London branches in this guide, behind only Hamilton Hall and The Rochester Castle.
 
@@ -176,7 +176,7 @@ The earliest recorded pub on this site was The Green Dragon, trading by at least
 
 ![The ornate red-brick and terracotta frontage of The Rochester Castle on Stoke Newington High Street, with its Dutch-style gable and bunting strung across the entrance](../../assets/articles/best-wetherspoons-pubs-london/the-rochester-castle.jpg)
 
-*The 1801 building on Stoke Newington High Street, trading as a Wetherspoons since May 1991 — one of the company's earliest London pubs.*
+*The Rochester Castle, Stoke Newington.*
 
 ### The Mossy Well, Muswell Hill
 
@@ -186,7 +186,7 @@ Muswell Hill itself takes its name from a medieval "mossy well" — a holy well 
 
 ![The white gabled frontage of The Mossy Well in Muswell Hill, with the date 1900 set into the tilework above the entrance](../../assets/articles/best-wetherspoons-pubs-london/the-mossy-well.jpg)
 
-*The 1900 datestone from the building's years as an Express Dairy tea room, before Wetherspoon took it over in 2015.*
+*The Mossy Well's datestone.*
 
 ### The Montagu Pyke, Soho
 
@@ -196,7 +196,7 @@ Built in 1911 as Pyke's Cambridge Circus Cinematograph Theatre — the 16th and 
 
 ![The double-height former cinema auditorium inside The Montagu Pyke, with a barrel-vaulted ceiling, round windows and framed rock posters on the walls](../../assets/articles/best-wetherspoons-pubs-london/the-montagu-pyke.jpg)
 
-*The old cinema auditorium, later the Marquee Club — the rock posters on the wall are the only reminder of its years as a music venue.*
+*The Montagu Pyke's old cinema auditorium.*
 
 Looking for a proper sit-down Sunday lunch rather than a fry-up? Wetherspoons serves a roast, but it isn't the destination version — our [best Sunday roast guide](/articles/best-sunday-roast-london/) covers the pubs actually worth booking ahead for. And for more of London's cheapest good meals beyond this one chain, see our [cheap eats guide](/articles/cheap-eats-london/) and [best breakfast and brunch guide](/articles/best-breakfast-brunch-london/), both of which cover further branches of their own.
 

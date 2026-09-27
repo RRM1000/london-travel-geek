@@ -60,7 +60,7 @@ This guide covers both: the ones you have heard of, and the ones worth crossing 
 
 ![Two large stone Assyrian lamassu statues, winged bulls with human heads, flanking the entrance to a museum gallery](../../assets/articles/best-museums-london/the-british-museum-assyrian-gallery.jpg)
 
-*The Assyrian galleries, recommended for a first visit alongside Egypt.*
+*The Assyrian galleries.*
 
 The Rosetta Stone, the Parthenon sculptures and the Sutton Hoo helmet, under Foster's glass-roofed Great Court — a covered square that was an open courtyard hidden from the public for 150 years until it opened in 2000.
 
@@ -84,7 +84,7 @@ Hintze Hall and the blue whale are what people come for, along with the dinosaur
 
 ![A black Victorian steam locomotive in the foreground with vintage cars and a biplane suspended overhead in the Science Museum's main hall](../../assets/articles/best-museums-london/science-museum-ground-floor-gallery.jpg)
 
-*Locomotives, cars and aircraft on display in the Science Museum's ground-floor galleries.*
+*The Science Museum's ground-floor galleries.*
 
 Next door to the Natural History Museum, and **the better of the two with older children** — less queuing, more to press, and rooms that reward curiosity rather than crowd management.
 
@@ -100,7 +100,7 @@ Anything with a start time rather than an opening time — Royal Institution Dis
 
 ![A giant spider sculpture standing in Tate Modern's cavernous Turbine Hall, dwarfing visitors below](../../assets/articles/best-museums-london/tate-modern-turbine-hall.jpg)
 
-*The Turbine Hall, 155 metres long and 35 metres high, with a temporary installation in it.*
+*The Turbine Hall.*
 
 The national collection of international modern art inside Giles Gilbert Scott's power station, with the **Turbine Hall** running its full length — a room 155 metres long and 35 metres high, and free to walk into whether or not an installation is in it.
 
@@ -122,7 +122,7 @@ The First and Second World War galleries are the core and run chronologically fr
 
 ![The domed portico of the Imperial War Museum with two large naval guns mounted on the lawn in front](../../assets/articles/best-museums-london/imperial-war-museum.jpg)
 
-*The guns are 15-inch, from HMS Ramillies and HMS Resolution. The building behind them held the Bethlem asylum until 1930.*
+*The naval guns outside the Imperial War Museum.*
 
 > ⚠️ **The Holocaust Galleries are not recommended for under-14s**, and the museum says so at the entrance. Worth knowing before arriving with children.
 
@@ -134,20 +134,20 @@ Two thousand paintings from the 1200s to 1900 at the National — Van Gogh's Sun
 
 ![Van Gogh's Sunflowers painting in an ornate gilt frame, hung on a grey gallery wall](../../assets/articles/best-museums-london/national-gallery-sunflowers.jpg)
 
-*Van Gogh's Sunflowers, hanging in the National Gallery.*
+*Van Gogh's Sunflowers.*
 
 The **Portrait Gallery round the corner** reopened in 2023 after a three-year rebuild and is markedly quieter. It is also the more interesting of the two if you like a story: the pictures are chosen for who is in them rather than who painted them.
 
 ![A gallery wall of Tudor-era portraits at the National Portrait Gallery, including a coronation portrait of Elizabeth I in an ornate gilt frame](../../assets/articles/best-museums-london/national-portrait-gallery-elizabethan-portraits.jpg)
 
-*Portraits inside the National Portrait Gallery, chosen for who they show rather than who painted them.*
+*Inside the National Portrait Gallery.*
 
 **Both are free, and both are open late one night a week**, which is far and away the best time to go — Trafalgar Square empties, and the Sunflowers room is almost civilised. Check which evening before travelling.
 
 
 ![The blue whale skeleton suspended in the vaulted Hintze Hall of the Natural History Museum](../../assets/articles/best-museums-london/natural-history-museum-hintze-hall.jpg)
 
-*Hintze Hall at the Natural History Museum. The blue whale replaced Dippy the diplodocus in 2017.*
+*Hintze Hall.*
 
 ---
 
@@ -161,7 +161,7 @@ The **Portrait Gallery round the corner** reopened in 2023 after a three-year re
 
 ![The Soane Museum's Picture Room, densely hung with paintings, with a hinged wall panel visible open on the right revealing a further painting behind](../../assets/articles/best-museums-london/sir-john-soanes-museum-picture-room.jpg)
 
-*The Picture Room, where hinged walls open to reveal more paintings behind.*
+*The Picture Room.*
 
 The architect's own house, **preserved by Act of Parliament exactly as he left it in 1837** — mirrors angled to throw daylight into windowless rooms, top-lit wells dropping through three floors, and the sarcophagus of Seti I in the basement, bought after the British Museum declined it.
 
@@ -175,7 +175,7 @@ The Picture Room is the trick everyone remembers: hinged walls that open outward
 
 ![A curved metal and glass staircase spiralling up to the Wellcome Collection's Reading Room level](../../assets/articles/best-museums-london/wellcome-collection-reading-room-stairs.jpg)
 
-*The staircase up to the Wellcome Collection's Reading Room, part library and part gallery.*
+*The staircase to the Wellcome Collection's Reading Room.*
 
 Genuinely strange, and built around Henry Wellcome's collection of medical objects — a pharmacist who spent a fortune assembling artefacts about how humans have treated the body, from surgical tools to amulets.
 
@@ -189,7 +189,7 @@ The permanent displays sit alongside a rolling programme of exhibitions on medic
 
 ![A cramped Victorian room at the Grant Museum, lined floor to ceiling with wooden cases of animal skeletons and specimens](../../assets/articles/best-museums-london/grant-museum-of-zoology-wooden-cases.jpg)
 
-*The Grant Museum's wooden cases, packed with part of its 68,000-specimen collection.*
+*The Grant Museum's wooden cases.*
 
 One cramped room of UCL's teaching collection — **68,000 specimens** in Victorian wooden cases, including the jar packed with preserved moles that has become internet-famous, and the skeleton of a quagga, an extinct half-zebra of which few remain anywhere.
 
@@ -203,7 +203,7 @@ It is a working zoology collection rather than a designed visitor experience: la
 
 ![A narrow corridor lined with glass cases of ancient Egyptian pottery, bowls and tools at the Petrie Museum](../../assets/articles/best-museums-london/petrie-museum-display-cases.jpg)
 
-*The Petrie's dense glass cases, closer to a stockroom than a gallery.*
+*The Petrie Museum's glass cases.*
 
 Where the British Museum has the monuments, the Petrie has the **ordinary things** — the pots, tools, beads and sandals of ordinary Egyptians, including the Tarkhan Dress, claimed as the world's oldest woven garment at around 5,000 years.
 
@@ -227,7 +227,7 @@ The two biggest additions to London's museums in a generation both opened in the
 
 ![A multi-storey warehouse hall at V&A East Storehouse with open metal racking on both sides holding objects, models and furniture](../../assets/articles/best-museums-london/va-east-storehouse-open-racking.jpg)
 
-*Open racking inside the Storehouse, holding part of its half a million objects.*
+*Open racking inside V&A East Storehouse.*
 
 Not a museum in the usual sense but a **working store you can walk into** — more than half a million objects on open racking, from samurai swords to Elton John's costumes, with conservators visible at work rather than hidden behind the scenes.
 
@@ -241,7 +241,7 @@ The **David Bowie Centre** opened inside it in September 2025, holding his perso
 
 ![The angular pale stone facade of V&A East Museum on East Bank, with a large V&A logo mounted near the roofline](../../assets/articles/best-museums-london/va-east-museum-building.jpg)
 
-*The V&A East Museum building on East Bank in the Olympic Park.*
+*V&A East Museum, on East Bank.*
 
 The separate, purpose-built museum on **East Bank** in the Olympic Park, opened 18 April 2026 — the V&A's first new museum in London in over a century. It opened with *The Music is Black: A British Story*, on 125 years of Black British music.
 
@@ -255,7 +255,7 @@ Two very different buildings ten minutes apart. The Storehouse is the one people
 
 ![The colourful iron and glass roof of the covered walkway through Smithfield's Victorian General Market](../../assets/articles/best-museums-london/london-museum-market-arcade.jpg)
 
-*The Victorian market buildings at Smithfield, where the London Museum opens.*
+*The Victorian market buildings at Smithfield.*
 
 The old Museum of London, rehoused in the **Victorian General Market at Smithfield** after a decade-long restoration by Stanton Williams and Asif Khan. Free permanent galleries, DJ nights on Fridays and Saturdays, and a six-metre window looking onto a **live railway line running past the galleries** — which no other museum in the world has.
 
@@ -271,7 +271,7 @@ The opening programme, *London Tastes*, runs to August 2027 and is about the cit
 
 ![A wall-mounted display of dozens of miniature dolls' houses in different architectural styles, lit from within, at Young V&A](../../assets/articles/best-museums-london/young-va-dolls-houses.jpg)
 
-*Inside Young V&A, built entirely around children.*
+*Inside Young V&A.*
 
 The V&A's museum **built entirely around children**, reopened in 2023 after a redesign that put play first. Three galleries — Play, Imagine and Design — a stage, and things to climb rather than only look at, inside a Victorian iron-framed hall that was originally part of the South Kensington museum and moved here brick by brick.
 
@@ -283,7 +283,7 @@ The V&A's museum **built entirely around children**, reopened in 2023 after a re
 
 ![A red miniature train with glass-domed carriages carrying passengers through a brick-lined tunnel at the Postal Museum's Mail Rail](../../assets/articles/best-museums-london/postal-museum-mail-rail.jpg)
 
-*The Mail Rail train, running through the Post Office's own tunnels.*
+*The Mail Rail train.*
 
 A **miniature train ride through the actual tunnels** of the Post Office's own underground railway, closed to mail in 2003.
 
@@ -295,7 +295,7 @@ A **miniature train ride through the actual tunnels** of the Post Office's own u
 
 ![The interior of a preserved vintage Tube carriage on display, with wooden-effect panelling and period seating](../../assets/articles/best-museums-london/london-transport-museum-tube-carriage.jpg)
 
-*Inside one of the museum's preserved Tube carriages, kept as it looked in service.*
+*Inside a preserved Tube carriage.*
 
 Real Tube carriages and horse buses you can climb into, a 1938 stock car, and the poster archive — a century of commissioned design, alongside the Johnston typeface that has been on every roundel since 1916.
 
@@ -309,7 +309,7 @@ It sits in the old flower market on the Covent Garden piazza, so the building is
 
 ![The Horniman's stuffed walrus, overstuffed and smooth-skinned, seen from the front in its display gallery](../../assets/articles/best-museums-london/horniman-museum-walrus.jpg)
 
-*The overstuffed walrus, taxidermied by people who had never seen one alive.*
+*The Horniman's stuffed walrus.*
 
 A Victorian tea trader's collection, most famous for **a walrus stuffed by taxidermists who had never seen one** and therefore filled it until the skin was smooth — an animal that should be wrinkled, rendered as a taut balloon, and now the museum's mascot.
 
@@ -325,14 +325,14 @@ Beyond the walrus there is a serious anthropology collection, a musical instrume
 
   ![A genuine gold bar in a display case at the Bank of England Museum, with a sign inviting visitors to try to lift it](../../assets/articles/best-museums-london/bank-of-england-museum-gold-bar.jpg)
 
-  *The gold bar visitors are invited to try and lift.*
+  *The gold bar at the Bank of England Museum.*
 
 * **London's Roman Amphitheatre**, City — free, in the basement of the Guildhall Art Gallery, with the missing seating drawn in light.
 * **London Museum Docklands**, Canary Wharf — free, in a Georgian sugar warehouse, covering the port and the slave trade that built it.
 
   ![The brick facade of the Georgian warehouse housing London Museum Docklands, with banners for the Secrets of the Thames exhibition](../../assets/articles/best-museums-london/london-museum-docklands-warehouse.jpg)
 
-  *The Georgian sugar warehouse at Canary Wharf that houses the museum.*
+  *The Georgian warehouse at London Museum Docklands.*
 
 * **National Army Museum**, Chelsea — free and genuinely quiet.
 * **RAF Museum**, Colindale — free, over a hundred aircraft in hangars on the old Hendon aerodrome.

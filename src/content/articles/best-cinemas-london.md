@@ -86,7 +86,7 @@ The 2002 refit is what people come for: **98 leather armchairs**, some with foot
 
 ![Rows of red leather armchairs with individual side-table lamps inside the Electric Portobello auditorium](../../assets/articles/best-cinemas-london/electric-portobello-armchairs.jpg)
 
-*Leather armchairs with individual lamps and side tables, rather than rows of standard cinema seats.*
+*The armchairs at Electric Portobello.*
 
 **It is not one price.** A non-member armchair is **£25** on Friday evening and all weekend, **£20** on weekday evenings, and **£15 before 5pm Monday to Friday** — the same chair for £10 less if you go in the afternoon. Front-row beds are £30–£40 and back-row sofas £40–£50, both sold for two people. **Children are £10 at any time.**
 
@@ -124,8 +124,6 @@ A freestanding glass drum on the roundabout north of Waterloo station, and **the
 
 ![The cylindrical glass exterior of the BFI IMAX cinema at Waterloo](../../assets/articles/best-cinemas-london/bfi-imax.jpg)
 
-*The BFI IMAX's glass drum, on the roundabout just north of Waterloo station.*
-
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cinemas-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -162,7 +160,7 @@ Membership is **£25 a year and includes a free screening every fortnight** — 
 
 ![One of The Garden Cinema's two art deco bars, with a curved red bar front, a comic-book mural and red banquette seating](../../assets/articles/best-cinemas-london/garden-cinema-bar.jpg)
 
-*One of the two art deco bars, worth arriving early for on its own.*
+*The Garden Cinema's art deco bar.*
 
 ---
 
@@ -202,7 +200,7 @@ Built on the site of Frank Matcham's 1885 Paragon Theatre, converted at a cost o
 
 ![The foyer of the Genesis Cinema, with the box office counter, a staircase to the bar and strings of coloured lights overhead](../../assets/articles/best-cinemas-london/genesis-cinema-foyer.jpg)
 
-*Inside the Genesis. Five screens on the site of Frank Matcham's 1885 Paragon Theatre, and the cheapest standard ticket in this guide.*
+*The foyer at Genesis Cinema.*
 
 ### Barbican Cinema, City of London
 
@@ -298,7 +296,7 @@ An independent showing **current releases for £6.99**, plus a 60p booking fee �
 
 ![The pink PECKHAMPLEX sign above the cinema's brick frontage, with potted plants either side of the entrance](../../assets/articles/best-cinemas-london/peckhamplex.jpg)
 
-*Peckhamplex's frontage on Rye Lane — London's most successful independent cinema.*
+*Peckhamplex, Rye Lane.*
 
 **Peckham Rye is five minutes away**, and Rye Lane, Frank's Cafe and Old Spike are all within ten — so it slots into a Peckham afternoon rather than needing one of its own.
 

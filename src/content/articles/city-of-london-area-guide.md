@@ -97,19 +97,19 @@ The City of London has its own share of the commemorative plaques marking where 
 
 ![Guildhall Yard at sunset, with the medieval Guildhall on one side and the Guildhall Art Gallery, entrance to the Roman amphitheatre, on the other](../../assets/articles/city-of-london-area-guide/guildhall-yard.jpg)
 
-*Guildhall Yard. The paving traces the outline of the Roman amphitheatre buried beneath it — the real remains are inside the gallery, free to visit.*
+*Guildhall Yard.*
 
 ![The dome of St Paul's Cathedral rising above Paternoster Square in evening light](../../assets/articles/city-of-london-area-guide/st-pauls-paternoster-square.jpg)
 
-*St Paul's over Paternoster Square. The square was flattened in the Blitz and rebuilt twice — what is there now dates from 2003.*
+*St Paul's, over Paternoster Square.*
 
 ![The Royal Exchange portico and the Bank of England at the Bank junction, with traffic and a red bus](../../assets/articles/city-of-london-area-guide/bank-royal-exchange.jpg)
 
-*Bank junction. Eight streets meet here, with the Royal Exchange's portico on one corner and the Bank of England on another.*
+*Bank junction.*
 
 ![The City's tower cluster seen across the Thames, the Walkie-Talkie and Cheesegrater rising behind riverside flats](../../assets/articles/city-of-london-area-guide/city-skyline-from-bankside.jpg)
 
-*The tower cluster from the south bank. Almost all of it has gone up since 2010, and Leadenhall Market sits at the foot of it.*
+*The City's tower cluster, from the south bank.*
 
 ## Key streets and micro-districts
 
@@ -127,7 +127,7 @@ The cathedral, the square behind it, and the shopping centre opposite that most 
 
 ![A red bus passing the Royal Exchange at Bank, with the City's towers rising behind it](../../assets/articles/city-of-london-area-guide/royal-exchange-bus.jpg)
 
-*The Royal Exchange at Bank, with the City's towers behind it.*
+*The Royal Exchange at Bank.*
 
 Seven roads meeting at once, with the **Bank of England**, the **Royal Exchange** and **Mansion House** on three corners of the junction. It is the most concentrated piece of imperial architecture in Britain and it is also a working traffic interchange, so give yourself a moment to look up.
 
@@ -153,7 +153,7 @@ For eating up high, **Duck & Waffle at 110 Bishopsgate is open 24 hours** — th
 
 ![A classical stone portico and carved cornice in the foreground with the glass towers of 22 Bishopsgate and the Scalpel rising directly behind](../../assets/articles/city-of-london-area-guide/old-and-new-city.jpg)
 
-*This is the best few streets in London for old against new. The City never zoned its towers into a separate district, so a Victorian banking hall and a 62-storey tower end up on the same pavement — look up anywhere between Leadenhall Street and Bishopsgate and you get both in one frame.*
+*Old and new, on Leadenhall Street.*
 
 ### Tower Hill and the riverside
 
@@ -179,7 +179,7 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 
 ![The painted maroon and green ironwork and glass roof of Leadenhall Market, with the Lamb Tavern under the arcade](../../assets/articles/city-of-london-area-guide/leadenhall-market.jpg)
 
-*Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. Hagrid walks Harry through it in the first Harry Potter film.*
+*Leadenhall Market.*
 
 ## Go deeper
 

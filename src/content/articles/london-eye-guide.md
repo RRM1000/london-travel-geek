@@ -184,7 +184,7 @@ Each of the London Eye's 32 capsules accommodates up to 25 passengers. The capsu
 
 ![Passengers standing inside an air-conditioned glass capsule on the London Eye looking towards the River Thames](../../assets/articles/london-eye-guide/london-eye-capsule-interior.jpg)
 
-*Inside one of the 32 capsules. Photo: [LittleRoamingChief](https://commons.wikimedia.org/wiki/File:2024--15_September--London_Eye_Capsule_interior.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Inside a London Eye capsule. Photo: [LittleRoamingChief](https://commons.wikimedia.org/wiki/File:2024--15_September--London_Eye_Capsule_interior.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 Capsules feature perimeter double-curved laminated safety glass, dual air-conditioning and heating systems, and a wooden bench positioned centrally to leave the perimeter free for photography.
 
@@ -192,7 +192,7 @@ Unlike traditional fairground Ferris wheels, the ride is smooth and stable. Rubb
 
 ![The Palace of Westminster and Big Ben viewed from high above on the London Eye with the River Thames below](../../assets/articles/london-eye-guide/view-from-london-eye-parliament.jpg)
 
-*The Palace of Westminster and Big Ben viewed from the apex of the rotation. Photo: [LittleRoamingChief](https://commons.wikimedia.org/wiki/File:2024--15_September--_Palace_of_Westminster_from_the_London_Eye.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Palace of Westminster, from the apex. Photo: [LittleRoamingChief](https://commons.wikimedia.org/wiki/File:2024--15_September--_Palace_of_Westminster_from_the_London_Eye.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Key landmarks from the 135-metre apex
 - **Looking west and south-west:** Directly opposite sits the Palace of Westminster and the Elizabeth Tower (Big Ben). Behind Parliament lies Westminster Abbey, Victoria Tower Gardens, and the green canopy of St James's Park, Green Park, and Buckingham Palace.

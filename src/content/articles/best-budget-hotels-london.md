@@ -56,7 +56,7 @@ We priced every hotel the same way: the cheapest double or twin for two adults, 
 
 ![A room at The Z Hotel Shoreditch with a double bed and a wooden staircase up to a second bed above it](../../assets/articles/best-budget-hotels-london/the-z-hotel-shoreditch-family-room.jpg)
 
-*A family room: the second bed is up the stairs.*
+*A family room at The Z Hotel Shoreditch.*
 
 **136-144 City Road, EC1V 2RL.** Z Hotels save money on floor space, not on location, and on all five nights we priced, the cheapest double here was one with **no window**. The Hotel Guru puts it on its budget list from £125, and The Holiday Lab gives $110 to $135 a night. Steffen, a German blogger who says he's tested every hotel he lists, says you can't go wrong with it. A YouTube review from June 2026 gave it three and a half stars, for a double at about £59, and mentioned noisy plumbing.
 
@@ -68,7 +68,7 @@ It's a minute's walk from Old Street station. Z's free membership takes 10% off 
 
 ![A compact room at hub by Premier Inn London Shoreditch with a double bed, a wall-mounted TV and a hand-drawn street map above the bed](../../assets/articles/best-budget-hotels-london/hub-shoreditch-room.jpg)
 
-*A room at hub Shoreditch, with a hand-drawn street map above the bed.*
+*A room at hub by Premier Inn London Shoreditch.*
 
 **Quaker Street, E1 6SN.** The cheapest night in central London was here: **£63 on a Sunday in October**. A Wednesday in February was £90, and the two Saturdays in October and December were £167 and £179. A traveller on r/uktravel says it "can be vastly cheaper and especially on Sunday and Monday nights", and our prices show the same thing.
 
@@ -80,7 +80,7 @@ hub is Premier Inn's small-room brand. A Standard room is 11 square metres with 
 
 ![Touchscreen check-in kiosks in the lobby of hub by Premier Inn London King's Cross, with the bar behind them](../../assets/articles/best-budget-hotels-london/hub-kings-cross-check-in.jpg)
 
-*Check-in is at touchscreen kiosks in the lobby.*
+*The lobby at hub by Premier Inn London King's Cross.*
 
 **50 Wharfdale Road, N1 9FA.** Six minutes from King's Cross St Pancras, which puts the Eurostar, six Underground lines and the Regent's Canal on the doorstep. The rooms are the same as at every hub: 11 square metres for the Standard double, 14 for the Bigger room with a king-size bed. The Sunday we priced was £92 and the February Wednesday £114.
 
@@ -119,7 +119,7 @@ We timed 151 stations in zones 2 to 4. These are the areas with a hotel at £150
 
 ![A room at ibis budget London Whitechapel with a double bed, a single bed beside it and a shelf with a kettle](../../assets/articles/best-budget-hotels-london/ibis-budget-whitechapel-room.jpg)
 
-*A double and a single: the rooms sleep three.*
+*A room at ibis budget London Whitechapel.*
 
 **100 Whitechapel Road, E1 1JG.** Mumsnet's pick for east London, with one warning: the rooms only sleep three. A YouTube review from July 2026 gave it four stars, for a double at about £62, and called ibis budget "probably the best of the budget brands although not the cheapest". Visit London lists it for "the low-cost and great location".
 
@@ -131,7 +131,7 @@ The October Sunday was £84 and the April Saturday £107; the December and Octob
 
 ![A double room at New Road Hotel with green curtains, a herringbone wooden floor and a tall window](../../assets/articles/best-budget-hotels-london/new-road-hotel-double.jpg)
 
-*A double at New Road Hotel. Every room gets daylight.*
+*A double at New Road Hotel.*
 
 **103-107 New Road, E1 1HJ.** A 79-room hotel in a former textile factory, the detail ELLE and The Frugality both pick out. Every room gets daylight and has a rainfall shower and air conditioning. There's no kettle: tea, coffee and hot chocolate are free from machines on every floor. Suitcase calls it "cheap and cheerful".
 
@@ -175,13 +175,13 @@ The October Sunday was £76, and the April Saturday and February Wednesday £97 
 
 ![Good Hotel London, moored at Royal Victoria Dock, with GOOD HOTEL in large letters on the roof and a gangway to the entrance](../../assets/articles/best-budget-hotels-london/good-hotel-london.jpg)
 
-*The hotel floats at Royal Victoria Dock, and you board it by a gangway.*
+*Good Hotel London, moored at Royal Victoria Dock.*
 
 **Western Gateway, E16 1FA.** A floating hotel, moored at Royal Victoria Dock since 2016, and **Time Out's number one** budget hotel in London. Its prices barely moved: £150 to £153 on three of the five nights, and **£75 on the October Sunday**. The rooms are Dutch-designed, with walk-in rain showers, and there's a bar on the roof. The hotel's own pledge is that every night's sleep helps a disadvantaged child go to school for a week.
 
 ![The roof terrace bar at Good Hotel London at sunset, with the O2 and the Canary Wharf towers across the water](../../assets/articles/best-budget-hotels-london/good-hotel-london-roof-terrace.jpg)
 
-*The roof bar looks across the dock to the O2 and Canary Wharf.*
+*The roof bar at Good Hotel London.*
 
 Lonely Planet's warning is that the rooms are compact, "but the Elizabeth Line gets you into central London quickly".
 
@@ -191,7 +191,7 @@ Lonely Planet's warning is that the rooms are compact, "but the Elizabeth Line g
 
 ![A double room at Kip Hotel with a black wall, white bedding and open shelving holding a TV and a Kip sweatshirt](../../assets/articles/best-budget-hotels-london/kip-hotel-double.jpg)
 
-*A double at Kip, which sells its rooms by size.*
+*A double at Kip Hotel.*
 
 **2 Aspland Grove, E8 1JW.** A design-led hotel next to Hackney Central station that sells its rooms by size, from solo cabins and a "snug double for two" up to large doubles, family rooms and a penthouse. Holiday Expert warns that the cheapest rooms are singles with no window and a shared bathroom; the prices here are for a double.
 
@@ -203,7 +203,7 @@ The October Sunday was £72 and the February Wednesday £81, but the December Sa
 
 ![Travelodge London Docklands Central, a tall new-build tower clad in orange panels beside a main road](../../assets/articles/best-budget-hotels-london/travelodge-london-docklands.jpg)
 
-*The new-build tower at East India.*
+*The Travelodge tower at East India.*
 
 **1 Oregano Drive, E14 2AE.** A new-build Travelodge at East India, which Travelodge calls London Docklands Central, and the cheapest night in this guide: **£34.99 on the October Sunday**. The February Wednesday was £42.99, and the three Saturdays £81.99 to £111.99.
 
@@ -225,7 +225,7 @@ It's the slowest journey in this guide. Deptford Bridge is four minutes' walk, t
 
 ![The Tommyfield, a red-brick corner pub on Kennington Lane with dark blue paintwork and hanging baskets](../../assets/articles/best-budget-hotels-london/the-tommyfield.jpg)
 
-*The six bedrooms are upstairs.*
+*The Tommyfield, Kennington Lane.*
 
 **185 Kennington Lane, SE11 4EZ.** A pub with six bedrooms upstairs, each with a king or super-king bed. Downstairs, The Sunday Telegraph put it among Britain's best pubs for Sunday lunch, and its function room hosts a stand-up comedy club. The Hotel Guru and Forever Out of Office both list its rooms.
 
@@ -257,7 +257,7 @@ The February Wednesday was £85 and the October Sunday £119; the April Saturday
 
 ![A lounge at The Rockwell with cream sofas, a low table, fitted bookshelves and a bay window](../../assets/articles/best-budget-hotels-london/the-rockwell-lounge.jpg)
 
-*Inside The Rockwell's Victorian townhouse on Cromwell Road.*
+*Inside The Rockwell.*
 
 **181-183 Cromwell Road, SW5 0SF.** An independent hotel in a Victorian townhouse, with a bar, a restaurant and a garden, and rooms from singles up to garden rooms and a mezzanine suite. The Evening Standard called it a bargain in 2024, with rooms "just over a hundred quid", and a Reddit poster found it "lovely and really affordable".
 
@@ -305,7 +305,7 @@ Four of our nights were £89 to £124; the April Saturday was £208. Golders Gre
 
 ![The ground-floor café and bar at Green Rooms, with a curved blue counter, wooden tables and exposed pipework](../../assets/articles/best-budget-hotels-london/green-rooms-cafe-bar.jpg)
 
-*The café and bar on the ground floor.*
+*The café and bar at Green Rooms.*
 
 **13-27 Station Road, N22 6UW.** An arts hotel opposite Wood Green station, and ELLE notes that artists and creatives get a discount. The standard and corner rooms share bathrooms on both floors; there are also en-suite rooms, studio apartments for up to four adults, and two dormitories. Wanderings with Bri calls it "an artsy, affordable hotel that supports creatives".
 

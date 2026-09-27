@@ -75,7 +75,7 @@ For the areas at either end, see the [King's Cross area guide](/articles/kings-c
 
 ![Narrowboats moored on the Regent's Canal beside the wide grass and stone steps below Granary Square at King's Cross](../../assets/articles/kings-cross-camden-canal-walk/regents-canal-granary-square.jpg)
 
-*The steps below the square. They are the best free seat in King's Cross and the start of the walk is at the bottom of them.*
+*The steps below Granary Square.*
 
 **This was a canal basin.** That is the thing to hold on to for the next hour: the square you are standing on is where barges unloaded goods for the rest of London, and the water you are about to walk beside is the reason any of it is here.
 
@@ -89,7 +89,7 @@ The square has **more than 1,000 choreographed fountains** set flush into the pa
 
 ![The entrance to Coal Drops Yard under a brick railway viaduct, lettered Welcome to Coal Drops Yard](../../assets/articles/kings-cross-camden-canal-walk/coal-drops-yard-entrance.jpg)
 
-*A Victorian viaduct that carried an elevated railway, with the coal dropped from the wagons into the stores below. You can walk in from the towpath without going back up to the square.*
+*Coal Drops Yard, under the old viaduct.*
 
 **Coal stores under a railway viaduct, now shops.** Trains ran along the top and tipped coal into the arches underneath; the two warehouse roofs have since been extended until they meet in the middle, which is the shape everyone photographs. **You can get into the yard directly from the towpath**, which most people do not realise — and there is a ramp down to the water behind The Lighterman if you want to go the other way.
 
@@ -105,7 +105,7 @@ It takes its name from **Bagleys**, the 1990s King's Cross nightclub.
 
 ![A woodchip path with a timber handrail winding up through dense woodland at Camley Street Natural Park](../../assets/articles/kings-cross-camden-canal-walk/camley-street-natural-park-path.jpg)
 
-*Woodchip underfoot, logs stacked along the edge, and a mainline terminus two minutes away. This is the surprise of the walk.*
+*Camley Street Natural Park.*
 
 **Two acres of woodland, marsh and pond on the far bank, and the best thing on this route.** It was a coal drop for the railways into King's Cross, demolished in the 1960s, colonised by nature, and saved from development by London Wildlife Trust, who opened it as a reserve in 1985. It is a Local Nature Reserve and a Site of Metropolitan Importance for Nature Conservation.
 
@@ -123,7 +123,7 @@ Underfoot: the main path down to the pond dipping platform has an accessible sur
 
 ![St Pancras Lock on the Regent's Canal, with the restored Victorian gasholder frames rising behind it](../../assets/articles/kings-cross-camden-canal-walk/st-pancras-lock-gasholders.jpg)
 
-*St Pancras Lock, with the gasholder frames behind. Three of them hold flats. The fourth holds a lawn.*
+*St Pancras Lock and the gasholders.*
 
 Back on the towpath and a working lock, with the **St Pancras Cruising Club** immediately beyond it. You can stand at the balance beam and look straight down into the chamber.
 
@@ -137,7 +137,7 @@ It is a few steps up off the towpath and takes four minutes. Do it.
 
 ![The Regent's Canal towpath near King's Cross, planted with reeds and wildflowers, running past redbrick apartment blocks](../../assets/articles/kings-cross-camden-canal-walk/kings-cross-towpath-reeds.jpg)
 
-*Past Camley Street the planting on the bank stops being municipal and starts being deliberate. This is the stretch nobody photographs.*
+*The quiet mile.*
 
 **From here to Camden there is nothing to buy and nowhere to go.** That is the point of it. The canal runs behind the backs of things — moored boats, allotment-scale gardens, an estate or two, and a run of bridges where the path goes dark and cold for a few seconds at a time.
 
@@ -151,7 +151,7 @@ You are walking the **Regent's Canal**, driven through north London under John N
 
 ![A brick canal bridge over the Regent's Canal with a red double-decker bus crossing above it, graffiti on the abutments and the towpath running under the arch](../../assets/articles/kings-cross-camden-canal-walk/regents-canal-bridge-graffiti.jpg)
 
-*The bus is the giveaway that you are back in a city. The graffiti under this bridge is repainted constantly and none of it will be there next year.*
+*Camden Street bridge.*
 
 **This is where the walk changes.** The bridges start coming every couple of hundred metres, the walls get painted, and the noise comes back.
 
@@ -169,7 +169,7 @@ The Canal & River Trust numbers them **downwards** as you walk west: this is **L
 
 ![Redbrick warehouse buildings along the Regent's Canal at Hawley Wharf, with the towpath running below](../../assets/articles/kings-cross-camden-canal-walk/camden-canal-hawley-wharf.jpg)
 
-*Hawley Wharf from the towpath. The food halls above run four hours later than the market does, which is the single most useful thing to know about the Camden end of this walk.*
+*Hawley Wharf from the towpath.*
 
 Lock 2, with **Hawley Wharf** stacked above it on Chalk Farm Road — the newest quarter of Camden Market and the answer to the single most common timing problem on this walk.
 
@@ -183,7 +183,7 @@ So if you arrive at seven in the evening and the market is shuttered, this is wh
 
 ![A narrowboat moored at Camden Lock beneath a willow tree, with street food counters along the far bank](../../assets/articles/kings-cross-camden-canal-walk/camden-lock-narrowboat.jpg)
 
-*Camden Lock. The market grew around the water, not the other way round.*
+*Camden Lock.*
 
 **Properly, this is Hampstead Road Lock**, and it is **two chambers side by side** — the Canal & River Trust calls them 1A and 1B, which is why the sign and the map never quite agree with each other.
 
@@ -195,7 +195,7 @@ It is the busiest stretch of canal on this walk by a distance, and it is worth s
 
 ![A cobbled alley in Camden Market roofed with hundreds of pink and yellow umbrellas](../../assets/articles/kings-cross-camden-canal-walk/camden-market-umbrellas.jpg)
 
-*The end of the walk. Come off the towpath at the lock and you are in it immediately, which is either the best or the worst thing about finishing here.*
+*Camden Market's umbrella alley.*
 
 **Open 10am to 7pm, Monday to Sunday, bank holidays included** — which makes it one of the few big London markets with no day-of-the-week trap at all. Individual traders set their own hours, so the edges of the day are thinner than the middle.
 

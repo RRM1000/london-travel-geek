@@ -95,7 +95,7 @@ Camden has its own share of the commemorative plaques marking where notable peop
 
 ![The Regent's Canal towpath running toward Snowdon Aviary at London Zoo, its metal frame visible over the water](../../assets/articles/camden-area-guide/regents-canal-towpath-zoo.jpg)
 
-*The towpath heading toward the zoo. This is the old Snowdon Aviary frame, built in 1965 - now home to the zoo's monkeys rather than its birds.*
+*The towpath toward the zoo.*
 
 ## Key streets and micro-districts
 
@@ -104,7 +104,7 @@ The centre of it, and the part worth arriving early for. **Camden Market opens 1
 
 ![A cobbled alley in Camden Market roofed with hundreds of pink and yellow umbrellas](../../assets/articles/camden-area-guide/camden-market-umbrellas.jpg)
 
-*Camden Market opens at 10am every day. Before eleven on a weekday you can still see the stalls.*
+*Camden Market's umbrella alley.*
 
 The **food is the main event now** rather than the clothing — around a hundred street food counters across the lock and Hawley Wharf, from Cuban to Korean to Argentinian, most plates £8 to £12. **Hawley Wharf's food halls run 11.30am to 11pm**, considerably later than the market itself, so the lock empties in the evening while the restaurants beside it fill.
 
@@ -112,15 +112,15 @@ The **food is the main event now** rather than the clothing — around a hundred
 
 ![A narrowboat moored at Camden Lock beneath a willow tree, with street food counters along the far bank](../../assets/articles/camden-area-guide/camden-lock-narrowboat.jpg)
 
-*Camden Lock. The boat on the right is a London Waterbus service — it runs from here to Little Venice, through Regent's Park and the London Zoo grounds.*
+*Camden Lock, with a London Waterbus boat.*
 
 ![Redbrick warehouse buildings along the Regent's Canal at Hawley Wharf, with the towpath running below](../../assets/articles/camden-area-guide/camden-canal-hawley-wharf.jpg)
 
-*Hawley Wharf, the redevelopment beside Camden Lock. It opened in 2021 on the site of the old Canal Market, after a fire had closed it for years.*
+*Hawley Wharf.*
 
 ![Crowds walking between glass-domed outdoor dining pods on the cobbles of Camden Lock Place](../../assets/articles/camden-area-guide/camden-lock-place-cobbles.jpg)
 
-*Camden Lock Place, between the market and Hawley Wharf. The glass pods are outdoor seating for the restaurants either side.*
+*Camden Lock Place.*
 
 ### Stables Market and Chalk Farm Road
 North past the railway bridge, and **the part of Camden actually worth slowing down for**. The Stables are the Victorian horse hospital and tunnels built for the animals that hauled canal barges, now cut through with railway arches full of dealers — vintage clothing, furniture, militaria, records. Expect **£15 to £60** for a decent vintage piece, more for branded denim or leather.
@@ -131,30 +131,30 @@ Opposite stands the **Roundhouse**, built in 1847 as an engine shed to turn loco
 
 ![Rails of vintage coats and dresses under a brick railway arch in Camden Stables Market](../../assets/articles/camden-area-guide/stables-market-vintage.jpg)
 
-*The vintage dealers under the arches in Stables Market. This is the part of Camden worth going slowly through.*
+*Stables Market's vintage dealers.*
 
 ![The circular auditorium inside the Roundhouse, a converted Victorian railway engine shed](../../assets/articles/camden-area-guide/roundhouse-interior.jpg)
 
-*Inside the Roundhouse. It was built in 1847 to turn locomotives, and the cast-iron columns are the originals.*
+*Inside the Roundhouse.*
 
 ### Camden High Street
 From the Tube station north. The loudest and least interesting part — chain shops, tattoo studios and the oversized shop-front sculptures.
 
 ![Camden High Street shopfronts with a giant painted dragon and an oversized boot mounted above the shops](../../assets/articles/camden-area-guide/camden-high-street-shopfronts.jpg)
 
-*The High Street sculptures. They date from the 1980s, when shops competed to be findable in a crowd — the dragon and the boot are the two everybody photographs.*
+*The High Street sculptures.*
 
-Two things on this stretch are worth stopping for. **[Cyberdog](https://www.cyberdog.net/)**, under the Stables, is a cybergoth and rave clothing shop built like a nightclub — neon, a DJ booth and staff dancing on podiums. It has been there since 1994 and there is nothing else like it in Britain.
+Two things on this stretch are worth stopping for. **[Cyberdog](https://www.cyberdog.net/)**, under the Stables, is a cybergoth and rave clothing shop built like a nightclub — neon, a DJ booth and staff dancing on podiums. It has been there since 1994, free to walk into, and there is nothing else like it in Britain.
 
 ![The neon-lit interior of Cyberdog in Camden, with a DJ booth and a sign reading Raving Since '94](../../assets/articles/camden-area-guide/cyberdog-dj-booth.jpg)
 
-*Cyberdog. Free to walk into, and worth it whether or not you would ever wear any of it.*
+*Cyberdog.*
 
 **BOXPARK Camden** on the High Street is the newer container development — street food counters, bars and a roof terrace.
 
 ![The BOXPARK Camden building, made of stacked shipping containers lettered Eat Drink Play](../../assets/articles/camden-area-guide/boxpark-camden.jpg)
 
-*BOXPARK Camden. Sushidog and a run of other counters downstairs, with a roof terrace above.*
+*BOXPARK Camden.*
 
 ### Inverness Street and Parkway
 West of the High Street, and where Camden stops performing at you. **Inverness Street** was a working fruit and veg market for a century and is now much reduced — a handful of stalls rather than the row it was — but the street itself is lined with pubs and small restaurants that serve locals rather than the market crowd.
@@ -172,7 +172,7 @@ North-west across the railway, and a different world within ten minutes' walk �
 
 ![A curving terrace of pastel stucco houses with columned porches on Chalcot Crescent in Primrose Hill](../../assets/articles/camden-area-guide/chalcot-crescent-primrose-hill.jpg)
 
-*Chalcot Crescent, Primrose Hill. The Browns' house in the Paddington films is on this curve — these are private homes, so photograph from the pavement.*
+*Chalcot Crescent, Primrose Hill.*
 
 ## Where to eat and drink
 
@@ -203,7 +203,7 @@ Five different operators run from Camden Lock, and they are genuinely different 
 
 ![A wooden punt on the Regent's Canal under a bridge, with a guitarist playing to the passengers aboard](../../assets/articles/camden-area-guide/regents-canal-boat-bridge.jpg)
 
-*The Music Boat. It is a punt rather than a narrowboat, so it is open to the weather and much closer to the water than the waterbus.*
+*The Music Boat.*
 
 **Which to pick.** For getting somewhere, the Waterbus or Jason's Trip — both are one-way journeys that happen to be scenic. For a round trip with no walk back, Jenny Wren, which also takes you through a working lock. For an evening out rather than a sightseeing trip, My Fair Lady. The Music Boat is the one people remember, and the one to avoid in bad weather.
 

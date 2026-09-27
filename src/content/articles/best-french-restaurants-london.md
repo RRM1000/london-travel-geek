@@ -66,7 +66,7 @@ The cooking is Ducasse orthodoxy: sauces reduced for hours, luxury produce handl
 
 ![Two slices of rare-cooked beef with crisped artichoke, mushrooms and slivers of pear on a plain cream plate](../../assets/articles/best-french-restaurants-london/alain-ducasse-dorchester.jpg)
 
-*Ducasse orthodoxy: three or four things on a plate, a sauce reduced for hours, and no decoration doing a job the cooking has not already done.*
+*A dish at Alain Ducasse at The Dorchester.*
 
 ### Hélène Darroze at The Connaught, Mayfair
 
@@ -80,7 +80,7 @@ Expect the produce of Gascony treated at three-star level: **Landes duck, foie g
 
 ![A seared, seed-crusted piece of foie gras in a dark jus, with a small ravioli, charred onion petals, purée dots and a blue cornflower on a ridged white plate](../../assets/articles/best-french-restaurants-london/helene-darroze-connaught.jpg)
 
-*The Landes on a plate — foie gras and Armagnac territory, worked at three-star level but warmer than most cooking that far up.*
+*A dish at Hélène Darroze.*
 
 ---
 
@@ -98,7 +98,7 @@ The menu is the old repertoire done without irony: **snails, veal kidneys, duck 
 
 ![Tomatoes, green beans, anchovy fillets, almonds and croutons piled on a bed of cream on a white plate, on a white tablecloth](../../assets/articles/best-french-restaurants-london/bouchon-racine.jpg)
 
-*Bourgeois cooking without irony: anchovy, tomato and beans over something rich and white, with olive oil poured on rather than dotted.*
+*A dish at Bouchon Racine.*
 
 ### La Poule au Pot, Belgravia
 
@@ -112,7 +112,7 @@ The menu is written in French with no translation, which is part of the act. **C
 
 ![Coq au vin in a terracotta dish set on a green-patterned plate, with mashed potato in a floral bowl, a glass of white wine and a wooden pepper mill on the table](../../assets/articles/best-french-restaurants-london/la-poule-au-pot.jpg)
 
-*Coq au vin in the dish it was cooked in, on china that matches nothing else on the table. The room has looked like this since the 1960s and the lighting is genuinely this dim.*
+*Coq au vin at La Poule au Pot.*
 
 ---
 
@@ -142,7 +142,7 @@ Bosi holds two stars at Bibendum and the cooking here is in the same register: F
 
 ![Four small tasting-menu courses on separate white plates and a bowl, each holding a single mouthful, on a white tablecloth](../../assets/articles/best-french-restaurants-london/brooklands.jpg)
 
-*The opening of the tasting menu, one mouthful per plate. This is the register the whole meal stays in, and it is why it takes its time.*
+*The tasting menu at Brooklands.*
 
 ---
 
@@ -169,7 +169,7 @@ The board changes daily and offers exactly three starters, three mains and three
 **£££ and it books weeks ahead.** Bermondsey Street. Three editorial sources and a Good Food Guide entry — as much agreement as this topic produces.
 
 ![A plate of galette with charcuterie and salad on a checked tablecloth](../../assets/articles/best-french-restaurants-london/casse-croute.jpg)
-*A tiny Bermondsey bistro with a blackboard menu of three starters, three mains, three puddings. It changes daily. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/34881836400), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Casse-Croûte, Bermondsey Street. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/34881836400), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 
 ### Pique-Nique, Bermondsey
@@ -194,7 +194,7 @@ The chicken comes off the spit and is the thing to order; there is a **set menu*
 
 ![A chicken breast with crisp skin and a slice of stuffed ballotine in a glossy red wine sauce, with mushrooms, glazed shallots, watercress and a quenelle, on a blue-rimmed plate](../../assets/articles/best-french-restaurants-london/64-goodge-street.jpg)
 
-*The brasserie canon done straight — a classical sauce, a blue-rimmed plate and no reinvention anywhere on it.*
+*A dish at 64 Goodge Street.*
 
 ### Maison François, St James's
 
@@ -232,7 +232,7 @@ The pre-theatre menu is the reason most people go, and it is genuinely cheap for
 
 ![A tureen of soup with croutons on a lion-footed bowl](../../assets/articles/best-french-restaurants-london/mon-plaisir.jpg)
 
-*London's oldest French restaurant, four knocked-together rooms of it, and the pre-theatre menu is the bargain. Photo: [Ewan Munro from London, UK](https://commons.wikimedia.org/w/index.php?curid=24281649), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Mon Plaisir, Covent Garden. Photo: [Ewan Munro from London, UK](https://commons.wikimedia.org/w/index.php?curid=24281649), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### L'Escargot, Soho
 
@@ -245,7 +245,7 @@ The pre-theatre menu is the reason most people go, and it is genuinely cheap for
 **£££ and it books ahead.** Central Soho, so it works before a theatre; the dining room upstairs is quieter.
 
 ![The green awnings and frontage of L'Escargot on Greek Street](../../assets/articles/best-french-restaurants-london/l-escargot.jpg)
-*Soho's oldest French restaurant, open since 1927, and still serving the snails. Photo: [michaeljohnbutton](https://www.flickr.com/photos/73156278@N08/9671711481), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*L'Escargot, Greek Street. Photo: [michaeljohnbutton](https://www.flickr.com/photos/73156278@N08/9671711481), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 
 ### The French House, Soho
@@ -260,7 +260,7 @@ The upstairs room does a short, changing menu of French and British cooking: off
 
 ![The upstairs dining room at The French House, red walls hung with framed black-and-white photographs around an ornate silver mirror, with bentwood chairs and white-clothed tables](../../assets/articles/best-french-restaurants-london/the-french-house.jpg)
 
-*The room above the bar: red walls, bentwood chairs, white cloths, and the photographs of everyone who has drunk downstairs since the war.*
+*The dining room above The French House's bar.*
 
 ### Galvin La Chapelle, Spitalfields
 
@@ -273,7 +273,7 @@ The cooking is classical French with a light touch: **Dorset crab lasagne**, tag
 **££££ and it books weeks ahead.** The set lunch is significantly cheaper than dinner and served in the same room.
 
 ![Sliced duck breast with red cabbage and a dark sauce](../../assets/articles/best-french-restaurants-london/galvin-la-chapelle.jpg)
-*A Victorian former school hall in Spitalfields, with a vaulted ceiling that does most of the work. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4286655868), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Galvin La Chapelle, Spitalfields. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4286655868), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Chez Bruce, Wandsworth
@@ -287,7 +287,7 @@ The cooking is French with British produce and no theatre: **offal treated serio
 **££££ and it books weeks ahead** — particularly for Sunday lunch, which is the service locals guard. A long way from central London and worth the journey.
 
 ![The frontage of Chez Bruce beside Wandsworth Common](../../assets/articles/best-french-restaurants-london/chez-bruce.jpg)
-*The neighbourhood restaurant other chefs name when asked where they eat on a night off. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2879798210), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Chez Bruce, Wandsworth. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2879798210), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Planque, Haggerston
@@ -329,7 +329,7 @@ The cheapest French food in London is **standing up at Borough Market**. There i
 
 ![A produce-lined aisle running through Borough Market under its green iron roof](../../assets/articles/best-french-restaurants-london/borough-market.jpg)
 
-*Borough is at its best for raw materials rather than lunch — the cheese, fish and produce stalls are what the traders come for.*
+*Borough Market.*
 
 ---
 

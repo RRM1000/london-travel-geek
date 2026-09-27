@@ -80,7 +80,7 @@ Smyth was the first British woman to run a three-star kitchen, and the cooking i
 
 ![The black front door of Core by Clare Smyth at number 92, with a red Michelin 2026 plaque mounted beside it](../../assets/articles/special-occasion-restaurants-london/core-by-clare-smyth-entrance.jpg)
 
-*The door at 92 Kensington Park Road, with its 2026 Michelin plaque.*
+*The door at 92 Kensington Park Road.*
 
 ### Alain Ducasse at The Dorchester, Mayfair
 
@@ -98,7 +98,7 @@ Classical French haute cuisine, including the **Table Lumière** — a private t
 
 ![Round tables laid for dinner at Alain Ducasse at The Dorchester, with a curtain of fine lit strands behind them](../../assets/articles/special-occasion-restaurants-london/alain-ducasse-dining-room.jpg)
 
-*The dining room at Alain Ducasse at The Dorchester, inside the hotel on Park Lane.*
+*The dining room at Alain Ducasse at The Dorchester.*
 
 ### Hélène Darroze at The Connaught, Mayfair
 
@@ -114,7 +114,7 @@ Three stars for cooking rooted in Darroze's native Landes — **regional French 
 
 ![A caviar course served over crushed ice at Hélène Darroze at The Connaught](../../assets/articles/special-occasion-restaurants-london/helene-darroze-caviar-course.jpg)
 
-*A caviar course from the tasting menu, served over crushed ice.*
+*A caviar course from the tasting menu.*
 
 ### The Ledbury, Notting Hill
 
@@ -130,7 +130,7 @@ Brett Graham reopened it in 2022 with a tighter focus on British sourcing, and i
 
 ![The dark green frontage of The Ledbury on Ledbury Road, with its name lettered on the awning](../../assets/articles/special-occasion-restaurants-london/the-ledbury-exterior.jpg)
 
-*The Ledbury at 127 Ledbury Road, Notting Hill.*
+*The Ledbury, Notting Hill.*
 
 ### Sketch — The Lecture Room & Library, Mayfair
 
@@ -144,7 +144,7 @@ Pierre Gagnaire's London expression, on Conduit Street. The rest of Sketch — t
 
 ![The Georgian stone frontage of sketch on Conduit Street, with a small red sketch sign beside the door](../../assets/articles/special-occasion-restaurants-london/sketch-exterior.jpg)
 
-*The Georgian building on Conduit Street that houses Sketch.*
+*Sketch, on Conduit Street.*
 
 ---
 
@@ -160,7 +160,7 @@ Dishes rebuilt from British historical recipes as far back as the fourteenth cen
 
 ![The Meat Fruit at Dinner by Heston Blumenthal, a chicken liver parfait moulded and glazed to look like a mandarin, served on a board with grilled sourdough](../../assets/articles/special-occasion-restaurants-london/dinner-by-heston-blumenthal-meat-fruit.jpg)
 
-*The Meat Fruit (c.1500), served with grilled sourdough.*
+*The Meat Fruit (c.1500).*
 
 **The other two to know** are the **Tipsy Cake (c.1810)**, a spit-roasted pineapple brioche that takes long enough to cook that you order it at the start of the meal, and **Rice & Flesh (c.1390)**, saffron rice with calf's tail.
 
@@ -194,7 +194,7 @@ The cooking is Provençal and northern Italian: **rack of lamb, hand-made pasta,
 
 ![The frontage of Clos Maggiore in Covent Garden, lit and decorated](../../assets/articles/special-occasion-restaurants-london/clos-maggiore.jpg)
 
-*Clos Maggiore's frontage on King Street at Christmas. Photo: [James E. Petts](https://www.flickr.com/photos/14730981@N08/52553938990), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Clos Maggiore at Christmas. Photo: [James E. Petts](https://www.flickr.com/photos/14730981@N08/52553938990), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### River Café, Hammersmith
 
@@ -242,7 +242,7 @@ Booth-only, art deco throughout in blue leather and brass, and a **button at eve
 
 ![Blinis with caviar and soured cream on a gold-rimmed plate](../../assets/articles/special-occasion-restaurants-london/bob-bob-ricard.jpg)
 
-*Caviar with blinis and soured cream. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5111925674), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Blinis and caviar. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5111925674), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 **Books weeks ahead**, and it is booths only — there is no bar and no walk-in. Five minutes from Piccadilly Circus.
 
@@ -262,7 +262,7 @@ It is the one on this page that is unembarrassed about being fun rather than ser
 
 ![The Duck & Waffle signature dish: confit duck leg and a fried egg on a waffle, with a small pot of mustard maple syrup](../../assets/articles/special-occasion-restaurants-london/duck-and-waffle-signature-dish.jpg)
 
-*The dish it's named after: confit duck leg and a fried duck egg on a waffle, with mustard maple syrup.*
+*Duck & Waffle's namesake dish.*
 
 **Book even at 2am.** Reservations run up to two months ahead and the room is small for the demand. **Card only, no cash**, smart casual.
 
@@ -278,7 +278,7 @@ It is the one on this page that is unembarrassed about being fun rather than ser
 
 ![A vintage green Rolls-Royce parked outside Rules restaurant on Maiden Lane, beneath red awnings reading Rules, Est 1798](../../assets/articles/special-occasion-restaurants-london/rules-exterior.jpg)
 
-*Rules on Maiden Lane, trading since 1798.*
+*Rules, on Maiden Lane.*
 
 **Game is the speciality and it is properly seasonal**: grouse from mid-August, then partridge, pheasant, woodcock and venison through the autumn, hung and served from the restaurant's own estate in the Pennines. **Steak and kidney pudding** and **jugged hare** are the other things to order, and neither is a museum piece.
 

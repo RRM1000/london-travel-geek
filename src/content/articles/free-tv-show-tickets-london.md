@@ -83,7 +83,7 @@ Here is how a night actually runs, using the Graham Norton recording as the work
 
 ![The Graham Norton Show studio from an audience seat: hundreds of numbered lights and monitors hanging from the rig, the orange set and red sofa below, and the band's drum kit on a side stage](../../assets/articles/free-tv-show-tickets-london/free-tv-show-tickets-london.jpg)
 
-*What the queue buys you. The audience is seated on tiers a few metres from the sofa, and this is a good hour before the recording starts.*
+*Inside the Graham Norton Show studio.*
 
 So the queue forms long before the stated check-in time, and the people at the front are the ones who are definitely getting in. SRO will tell you at check-in whether you are safely in or in what their own ticket calls the **"fingers crossed" part of the line** — which is a fair way to handle it, and a phrase worth knowing before you hear it.
 
@@ -129,7 +129,7 @@ Every one of these is a rule someone finds out about at the barrier.
 
 ![The seated audience waiting in the studio before recording begins, with crew moving equipment around the set and a camera crane in position](../../assets/articles/free-tv-show-tickets-london/audience-waiting-for-recording.jpg)
 
-*The waiting is most of it. Crew reset the floor, a camera crane swings into position, and the audience sits tight.*
+*Waiting for the recording to start.*
 
 **You may well be on television.** Cameras face the audience, and some shows deliberately show or talk to them.
 
@@ -137,7 +137,7 @@ Every one of these is a rule someone finds out about at the barrier.
 
 ![The studio lighting rig from below, hundreds of lamps, speakers and monitors numbered and suspended on wires above the set](../../assets/articles/free-tv-show-tickets-london/studio-lighting-rig.jpg)
 
-*Look up. The rig is the part television never shows you — every lamp numbered, and the show's title bouncing off two dozen monitors.*
+*The studio lighting rig.*
 
 ## The bits that are genuinely a treat
 

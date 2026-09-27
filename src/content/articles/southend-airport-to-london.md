@@ -67,7 +67,7 @@ Southend Airport features a **single passenger terminal**.
 
 ![The terminal building inside London Southend Airport](../../assets/articles/southend-airport/southend-terminal.jpg)
 
-*Southend Airport terminal. Photo: [Chris j wood](https://commons.wikimedia.org/wiki/File:Southend_Airport_terminal_building_01.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+*Southend Airport's terminal. Photo: [Chris j wood](https://commons.wikimedia.org/wiki/File:Southend_Airport_terminal_building_01.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
 * **Covered Walkway:** Southend Airport station is **100 metres** from the terminal doors, a two-minute covered walk.
 * **Step-Free Platforms:** The station and platforms are 100% step-free.

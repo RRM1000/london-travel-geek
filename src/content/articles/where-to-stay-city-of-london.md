@@ -76,8 +76,6 @@ Compact rooms at the western end of Fleet Street, near the Royal Courts of Justi
 
 </div>
 
-*Left: a double with a window beside the bed, which the Inside grades lack. Right: the accessible wet room, with grab rails and a red alarm cord.*
-
 **The Z Family sleeps four in bunked queen or double beds from £100**, with its own stairs to the top bunk. There is air conditioning, a free cheese and wine hour, and Temple 24, the café, serves breakfast from 6.30 to 11am seven days a week. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) explains the Inside grades.
 
 ### YHA London St Paul's — the hostel in the choir school
@@ -87,8 +85,6 @@ Compact rooms at the western end of Fleet Street, near the Royal Courts of Justi
 For nearly a hundred years this building was the school for St Paul's choirboys, and their graffiti survives in a wood-panelled former classroom. Most rooms are dormitories with bunk beds; private rooms are available too.
 
 ![A dormitory at YHA London St Paul's with numbered grey steel bunk beds made up in green bedding, tall wooden lockers, a skylight and a washbasin with a mirror on the wall](../../assets/articles/where-to-stay-city-of-london/yha-london-st-pauls-room.jpg)
-
-*A dormitory: numbered steel bunks under a skylight, with lockers and a washbasin in the room.*
 
 **There is no self-catering kitchen.** Breakfast is served from 7.30 to 10am, there is a licensed bar and a 24-hour reception, and luggage lockers cost £2 or £3. Guests under 16 must be with an adult. Our [hostels guide](/articles/best-hostels-london/) compares it with the rest of London.
 
@@ -106,8 +102,6 @@ Apartments in a Grade II listed building on the site of the Royal Wardrobe, wher
 
 </div>
 
-*A studio with its kitchen and a table for two beyond the bed, and a walk-in shower in the bathroom.*
-
 **The sizes decide it.** Studios start at 36 square metres, one-bedrooms at 57, two-bedrooms at 75 and the three-bedroom at 114, so a large family or group can take one apartment. Each apartment has a kitchen and its own washer-dryer. Counter, the café-bar, is in the courtyard, and paid parking is underneath.
 
 ### Locke at Broken Wharf — studios on the river by the Millennium Bridge
@@ -123,8 +117,6 @@ Studios with their own kitchens on the Thames, a short walk from the Millennium 
 ![An accessible bathroom at Locke at Broken Wharf with grey terrazzo tiles, grab rails beside the toilet, a red alarm cord, two basins, a slatted wooden stool and a glass-walled shower](../../assets/articles/where-to-stay-city-of-london/locke-at-broken-wharf-bathroom.jpg)
 
 </div>
-
-*Left: a river-facing room, with Shakespeare's Globe across the Thames. Right: an accessible bathroom with grab rails and a red alarm cord.*
 
 Cleaning is weekly, laundry is shared, and there is a café and bar, a coworking space and a gym. Dogs are welcome at a £40 cleaning fee. Our [aparthotels guide](/articles/aparthotels-london/) compares it with the other Locke buildings.
 
@@ -142,8 +134,6 @@ Studios and one-bedroom apartments between St Paul's and Bank, all with king-siz
 
 </div>
 
-*Left: a studio, with the kitchenette on the right and a table for two. Right: an accessible wet room with a fold-down shower seat.*
-
 Reception is 24 hours, there is a gym, a lounge and a courtyard, and cleaning is weekly. The laundry room is shared at £5 a wash and £5 a dry.
 
 ### Vintry & Mercer — the roof terrace between St Paul's and the Shard
@@ -159,8 +149,6 @@ A five-star named after two of the City's medieval trades, the wine merchants of
 ![A bathroom at Vintry & Mercer with a freestanding white bath under a rain shower and curtain ring, a window with white blinds, and green herringbone tiles behind the basin](../../assets/articles/where-to-stay-city-of-london/vintry-mercer-bathroom.jpg)
 
 </div>
-
-*Left: a bedroom with a teal velvet headboard and a desk by the door. Right: a bathroom with a freestanding bath under a rain shower, beside a window.*
 
 **Mercer Roof Terrace takes in St Paul's dome and the Shard in one view**, with British cooking and a bar. Balcony Suites have their own outdoor terraces and Corner Suites floor-to-ceiling windows. DND, the basement bar, is dressed as a 1920s New York speakeasy, and Vintry Kitchen serves breakfast.
 
@@ -180,8 +168,6 @@ The Midland Bank's headquarters, built in 1924 to designs by Sir Edwin Lutyens, 
 
 </div>
 
-*Left: a double with an iron bedstead; there are no twins. Right: a bathroom in 1920s-style cream and black tiles, with a pedestal basin.*
-
 **Every bedroom has a double bed; there are no twins.** Crash Pads are 17 to 19 square metres and Cosy rooms 20 to 30, and the Heritage rooms on the Grade I listed fifth floor keep their 1920s fittings. The **Two Bed Family Suite is 95 square metres**, and in-house children under six get a free main course in Millie's Lounge between 5 and 6pm.
 
 **The rooftop pool and the Vault bar belong to Ned's Club**, which is for members and their guests; the hotel lets resident children use the rooftop pool from 7 to 10am. There is no parking.
@@ -190,7 +176,7 @@ The Midland Bank's headquarters, built in 1924 to designs by Sir Edwin Lutyens, 
 
 *£££ · 3 South Place, EC2M 2AF · Liverpool Street 5 min, Moorgate 6 min · [check prices](hotel:south-place-hotel)*
 
-A five-star built for the City's working week, which took **up to 20% off Friday and Saturday nights, with breakfast**, in September and October 2026. Angler and the all-day Bluebird City are the two restaurants.
+A five-star built for the City's working week, which took **up to 20% off Friday and Saturday nights, with breakfast**, in September and October 2026. Angler and the all-day Bluebird City are the two restaurants. The glass bath pictured below comes only with the One Bedroom and Presidential Suites.
 
 <div class="photo-row">
 
@@ -199,8 +185,6 @@ A five-star built for the City's working week, which took **up to 20% off Friday
 ![A suite bathroom at South Place Hotel with a glass-sided freestanding bath under slatted blinds, a walk-in rain shower and two basins in grey marble](../../assets/articles/where-to-stay-city-of-london/south-place-hotel-bathroom.jpg)
 
 </div>
-
-*Left: a double with a floor-to-ceiling window. Right: a suite bathroom with a walk-in shower and two basins; the glass bath comes only with the One Bedroom and Presidential Suites.*
 
 The gym is open 24 hours, and the sauna, steam room and ice bath from 6am to 10pm. There are **two-bedroom family rooms**, and dogs stay free when booked direct.
 
@@ -218,8 +202,6 @@ A five-star in a mid-century block on Finsbury Square, just north of the City bo
 
 </div>
 
-*A king room at night, its floor-to-ceiling window looking onto lit City office towers, and a walk-in shower behind a glass screen.*
-
 The YĀTRĀ spa has **a swimming pool, a Jacuzzi, a sauna and a steam room**. Rooms start with 20-square-metre Superior Kings, Deluxe rooms come with a king or two single beds, and suites run to about 40 square metres.
 
 ### The Moorgate by Cove — apartments with a three-night minimum
@@ -236,8 +218,6 @@ Serviced apartments on Moorgate itself, with air conditioning, king-size beds an
 
 </div>
 
-*An apartment with a period fireplace, a sofa and a table for two, and a walk-in rain shower in the bathroom.*
-
 Check-in is self-service, around the clock. The One Bedroom Apartment with Washer/Dryer is the grade that has one in the flat.
 
 ## Hotels at Tower Hill
@@ -246,7 +226,7 @@ Check-in is self-service, around the clock. The One Bedroom Apartment with Washe
 
 *££££ · 89 rooms and 11 suites · 10 Trinity Square, EC3N 4AJ · Tower Hill · [check prices](hotel:four-seasons-tower-bridge)*
 
-The 1922 Port of London Authority building by Edwin Cooper, facing the Tower across Trinity Square Gardens, opened as a Four Seasons in January 2017. It traded as Four Seasons Hotel London at Ten Trinity Square before its renaming, and many guides still use that name. Its UN Ballroom hosted the first reception of the United Nations General Assembly in 1946.
+The 1922 Port of London Authority building by Edwin Cooper, facing the Tower across Trinity Square Gardens, opened as a Four Seasons in January 2017. It traded as Four Seasons Hotel London at Ten Trinity Square before its renaming, and many guides still use that name. Its UN Ballroom hosted the first reception of the United Nations General Assembly in 1946. Not every room has the terrace pictured below facing Tower Bridge.
 
 <div class="photo-row">
 
@@ -255,8 +235,6 @@ The 1922 Port of London Authority building by Edwin Cooper, facing the Tower acr
 ![A marble bathroom at the Four Seasons at Tower Bridge with a bath set in marble and nickel taps, beside a window onto a snow-covered terrace looking at Tower Bridge and the White Tower](../../assets/articles/where-to-stay-city-of-london/four-seasons-hotel-london-at-tower-bridge-bathroom.jpg)
 
 </div>
-
-*Left: a double, with a headboard panelled almost to the ceiling. Right: a marble bathroom opening onto a terrace facing Tower Bridge, which not every room has.*
 
 **There is a 14-metre indoor pool**, with a vitality pool, sauna, steam room and eight treatment rooms. The restaurants are Mei Ume and Cooper's Cut, and the bar is the Rotunda Bar and Lounge.
 
@@ -274,8 +252,6 @@ A large citizenM directly by Tower Hill station, now a Marriott brand, so **Bonv
 
 </div>
 
-*The bed runs wall to wall under the window, and the basin stands in the bedroom, outside the frosted shower pod.*
-
 **Rooms are for two adults**, so families need two. cloudM, the ninth-floor rooftop bar, looks over the Tower of London, and canteenM serves food and drink 24 hours a day.
 
 ### DoubleTree by Hilton London – Tower of London — Savage Garden on the twelfth floor
@@ -292,8 +268,6 @@ A large citizenM directly by Tower Hill station, now a Marriott brand, so **Bonv
 
 </div>
 
-*Left: a king room with a sofa by the window. Right: an accessible shower with a fold-down seat and grab rails.*
-
 Connecting rooms are available, and dogs are allowed in bedrooms but not in the café, the rooftop bar or the executive lounge.
 
 ### Cheval Three Quays — apartments looking at the Tower
@@ -309,8 +283,6 @@ Serviced apartments on the river 75 metres from the Tower of London, from studio
 ![A bathroom at Cheval Three Quays with a walk-in rain shower behind glass, cream wave-textured tiles, a wall-hung toilet and a basin on a white vanity](../../assets/articles/where-to-stay-city-of-london/cheval-three-quays-bathroom.jpg)
 
 </div>
-
-*An apartment bedroom, and a walk-in rain shower in the bathroom.*
 
 Stays run from one night, although the Deluxe Two Bedroom River View Suite has a three-month minimum.
 
@@ -330,8 +302,6 @@ Studios with kitchens above Frequency, the ground-floor coffee shop and bar. **M
 
 </div>
 
-*A studio with the bed in an alcove and a pink sofa, and a walk-in shower in the bathroom.*
-
 **Micro Studios have a hob, fridge and dishwasher; the 30-square-metre Locke Studios add a washer-dryer.** Interconnecting apartments are available, cleaning is weekly, and there is a gym, a yoga studio and parking. Brick Lane and the Whitechapel Gallery are a few minutes east.
 
 ### Buckle Street Studios by Locke — the smaller, cheaper Locke next door
@@ -348,8 +318,6 @@ Locke's second building in Aldgate, a minute from Leman Locke, whose gym and caf
 
 </div>
 
-*Left: a room with the bed and a daybed under one headboard. Right: an accessible bathroom with grab rails and a fold-down shower seat.*
-
 **Batty Langley's** on Folgate Street, the candlelit Georgian townhouse seven minutes from Liverpool Street, is the other hotel in Spitalfields. It is covered in our [Shoreditch guide](/articles/where-to-stay-shoreditch/), with the hotels north of Commercial Street. Our [Shoreditch and Spitalfields walk](/articles/shoreditch-spitalfields-walk/) ends at Petticoat Lane, a few minutes from both Locke buildings.
 
 ## Hotels at the Barbican and Smithfield
@@ -358,7 +326,7 @@ Locke's second building in Aldgate, a minute from Leman Locke, whose gym and caf
 
 *235 rooms · 52 Chiswell Street, EC1Y 4SA · Barbican Centre a few minutes · [Hotels.com](hotelscom:h4269455)*
 
-Whitbread's eighteenth-century brewery, now a hotel with Georgian sash windows onto Chiswell Street. **The Jugged Hare**, the restored pub in the building, serves a daily changing menu, and the Chiswell Street Dining Rooms serve modern British food and afternoon tea.
+Whitbread's eighteenth-century brewery, now a hotel with Georgian sash windows onto Chiswell Street. **The Jugged Hare**, the restored pub in the building, serves a daily changing menu, and the Chiswell Street Dining Rooms serve modern British food and afternoon tea. The room pictured below is the Montcalm Residence, a 40-square-metre grade with Club Lounge access.
 
 <div class="photo-row">
 
@@ -367,8 +335,6 @@ Whitbread's eighteenth-century brewery, now a hotel with Georgian sash windows o
 ![A bathroom at Montcalm Brewery in slate-grey and pale grey tiles, with a shower over the bath behind a glass screen, a wall-hung toilet and a bowl basin on a black counter](../../assets/articles/where-to-stay-city-of-london/montcalm-brewery-bathroom.jpg)
 
 </div>
-
-*Left: the Montcalm Residence, a 40-square-metre grade with a four-poster and Club Lounge access. Right: a bathroom with a shower over the bath.*
 
 Rooms start at 15 square metres for a single and run to 45-square-metre suites, including family suites. The Barbican Centre is a few minutes' walk; our [Barbican guide](/articles/barbican-centre-guide/) covers the programme.
 
@@ -385,8 +351,6 @@ A Young's pub on the edge of Smithfield Market with six bedrooms on the first fl
 ![A bathroom at The Fox and Anchor with a black roll-top bath bearing the pub's crest, a hammered copper basin on a wooden stand, black panelling, mint walls and two bold framed prints](../../assets/articles/where-to-stay-city-of-london/the-fox-and-anchor-bathroom.jpg)
 
 </div>
-
-*Two of the six rooms: one with a roll-top bath beside the bed under leaded windows, the other with a roll-top in the bathroom and a copper basin.*
 
 The pub opens at 7am for its City Boy Breakfast, the kitchen is known for steaks, and **check-out is 1pm**. Farringdon's Elizabeth line is four minutes away.
 

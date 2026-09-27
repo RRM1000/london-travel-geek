@@ -85,7 +85,7 @@ It is free and never closes. Walk through the basins to the east side and leave 
 
 ![Gabled yellow-brick houses along the Ornamental Canal at Spirit Quay, red ivy on the end wall and the terrace reflected in still water](../../assets/articles/wapping-canary-wharf-walk/spirit-quay.jpg)
 
-*The west end of the Ornamental Canal. On a still morning the whole terrace doubles in the water.*
+*The Ornamental Canal at Spirit Quay.*
 
 **A row of gabled brick houses built in the 1980s along the filled-in London Docks**, facing a strip of still water where the docks used to be. It is five minutes east of St Katharine Docks, and the first sight of the canal you come back to at stop 5.
 
@@ -117,7 +117,7 @@ It is a Samuel Smith's pub, so everything behind the bar is Samuel Smith's, the 
 
 ![The Ornamental Canal in Wapping, autumn leaves on still water, brick housing on both banks and the tower of St George in the East on the skyline](../../assets/articles/wapping-canary-wharf-walk/wapping-ornamental-canal.jpg)
 
-*Looking back towards Tobacco Dock, with Hawksmoor's St George in the East on the skyline.*
+*Looking towards Tobacco Dock.*
 
 **The quietest fifteen minutes in east London**, and the stretch that makes this a walk rather than a pub crawl. The canal was laid out in the 1980s along the line of the London Docks, so it goes nowhere and exists only to be walked beside.
 
@@ -180,7 +180,7 @@ Two more places on the same stretch, in walking order:
 
 ![Crossrail Place rising out of the dock at Canary Wharf, its curved timber lattice roof in front of the glass office towers](../../assets/articles/wapping-canary-wharf-walk/crossrail-place-dock.jpg)
 
-*Crossrail Place and the towers of Canary Wharf: the finish, and the first stop of the walk to Greenwich.*
+*Crossrail Place and Canary Wharf.*
 
 About 1.5km: past Westferry Circus and along the dock edge to **Crossrail Place**, whose free roof garden sits on top of the Elizabeth line station.
 

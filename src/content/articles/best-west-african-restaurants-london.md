@@ -79,7 +79,7 @@ In 2019 **Adejoké Bakare's friends entered her for the Brixton Kitchen competit
 
 ![The dining room at Chishuru: green leather chairs at pale timber tables, a faceted wooden bar front, and glasses hanging above the open pass](../../assets/articles/best-west-african-restaurants-london/chishuru-dining-room.jpg)
 
-*Set menu only, at both sittings: £55 at lunch and £105 at dinner, with a £65 pre-theatre menu bookable between 5.30pm and 6pm.*
+*The dining room at Chishuru.*
 
 The kitchen cooks across three Nigerian traditions, Yoruba, Igbo and Hausa, and the restaurant's own description is "a modern west African restaurant" rather than a Nigerian one. Set menu only: **sinasir**, a fermented rice cake, under butternut squash purée; **àsáró**, a creamy yam and sweet potato porridge, with smoked eel; **mọ́ínmọ́ín**, a steamed black-eyed bean cake, salted with cured trout; a spiral of cabbage slathered in egusi. The name is a Hausa phrase for the silence that falls over a table when the food arrives.
 
@@ -93,7 +93,7 @@ Tables are inscribed with Nsibidi, the ideographic script of southeastern Nigeri
 
 ![A coarse red granita heaped over a pale cream base in a rough hand-thrown stone bowl, scattered with fine green shreds of leaf](../../assets/articles/best-west-african-restaurants-london/akoko-granita.jpg)
 
-*Twelve courses drawing on Nigeria, Ghana, Senegal and The Gambia rather than one of them. £130 at lunch and dinner and about two and a half hours; a shorter lunch menu is £65.*
+*The granita course at Akoko.*
 
 The tasting menu draws on Nigeria, Ghana, Senegal and The Gambia rather than one of them. **Tatale** — a pancake made from over-ripe plantain and warm Ghanaian spices — arrives with goat cashew cream and caviar; **ọ̀jọ̀jọ̀**, a water yam fritter, carries baobab and yaji; there is a version of **ebunuebunu**, the green seafood soup of Ghana's Akan communities, with ribbons of squid. Dessert is ice cream scented with **uda**, grains of selim, a spice that tastes somewhere between smoke and black pepper.
 
@@ -107,7 +107,7 @@ The room is pastel and quiet with an open kitchen and a counter, and the meal op
 
 ![The black shopfront of Akara in Borough Yards, its name lit above folding glass doors, with terracotta pots of shrubs and palms lined along the pavement and a Stoney Street sign at the left edge](../../assets/articles/best-west-african-restaurants-london/akara-shopfront.jpg)
 
-*Arch 208 is on the Stoney Street side of Borough Yards. Behind the folding doors it is a railway arch with a long counter facing the open kitchen, and the counter is the seat to ask for.*
+*Akara's shopfront, Borough Yards.*
 
 It is built around **akara**: a black-eyed bean fritter, crisp outside and cotton-loose inside, that travelled with enslaved West Africans to Brazil and is eaten there as acarajé. The kitchen serves both lineages at once, which is why Michelin files its cuisine as African and Brazilian.
 
@@ -125,7 +125,7 @@ It is named after a district of Lagos, eight of the fifteen sources here name it
 
 ![A lacquered fillet glazed almost black at the edges on a pale plate, with a quenelle of orange purée striped in dark sauce, two pools of pale foam, a streak of green oil and a wedge of pickled beetroot; a small cylindrical loaf sits on a ridged black stand beside it](../../assets/articles/best-west-african-restaurants-london/ikoyi-plated-course.jpg)
 
-*The tasting menu is £395, with a shorter one at £180. Reservations open on the 1st of each month at noon, two months ahead, and go the same day.*
+*A tasting-menu course at Ikoyi.*
 
 Everyone close to it says the same thing. Ikoyi's own website describes "spice-based cuisine around British micro-seasonality" and never uses the words West African. Time Out's entry says "it isn't quite a West African restaurant". The World's 50 Best calls the cooking "category-free". Vittles is blunter: Jeremy Chan and Iré Hassan-Odukale, it writes, "managed to kid themselves — or kid their PR — that they were opening a West African restaurant" in 2017, and the Strand room "has given up the pretence of being tied to any one region of Earth".
 
@@ -145,7 +145,7 @@ Run by **siblings Ifeyinwa and Emeka Frederick** and billed as the world's first
 
 ![An overhead spread of Nigerian small plates: a central bowl divided between a green stew, a yellow-orange one and a red one, each with a smooth white ball of pounded yam on it, held between two pairs of hands, with okra spears, jollof rice, peanut-crusted wings, meatballs in tomato and prawns in bowls around it](../../assets/articles/best-west-african-restaurants-london/chukus-small-plates.jpg)
 
-*Pounded yam is boiled yam beaten smooth; you pinch a piece off and use it to scoop the stew. Closed Mondays, and Tuesday to Friday it opens at 5.30pm for dinner only.*
+*Chuku's small plates, shared.*
 
 **Jollof quinoa**, plantain waffles, suya-spiced meatballs, **ojojo** (yam croquettes) and **sticky zobo wings**, glazed with the hibiscus-and-citrus drink Nigerians drink cold. The tricoloured egusi bowl takes the stew apart and rebuilds it as a shareable vegan dish. Finish with chin chin cheesecake, built on the deep-fried snack.
 
@@ -159,7 +159,7 @@ The oldest name on this page and the one south London Nigerian families have bee
 
 ![Two plates seen from above: a green leaf stew, thick and flecked, with a spoonful of red pepper sauce over it, and a smooth white oval of pounded yam on a plate of its own](../../assets/articles/best-west-african-restaurants-london/805-leaf-stew-pounded-yam.jpg)
 
-*This is how the leaf stews arrive — the stew in one dish, the pounded yam in another, to tear and dip by hand. 805 takes walk-ins as well as bookings, which almost nothing else at this price does.*
+*805's leaf stew and pounded yam.*
 
 The signature is **monika fish**, crisp-skinned and fierce with Scotch bonnet. Beyond it, **efo riro** — a spinach stew loaded with pepper sauce, goat, crayfish and iru, fermented locust bean — with pounded yam to tear and dip, **edikaikong**, and coconut fried rice. Lamb suya as a starter.
 
@@ -173,7 +173,7 @@ Polished plates, smart service and music loud enough to carry a table of twelve.
 
 ![A white bowl of fried plantain wedges, caramelised dark at the cut edges, scattered with sliced spring onion](../../assets/articles/best-west-african-restaurants-london/flygerians-fried-plantain.jpg)
 
-*Plantain fried until the sugars catch at the cut edges. It comes on the jollof plate and in the gizdodo, with gizzard and sweet pepper, at £6.50.*
+*Fried plantain, The Flygerians.*
 
 The **2 Fly Chicks Plate** is the order — two pieces of chicken in Mama's Forbidden Sauce, a sweet smoky red marinade, with jollof and plantain, £17.50. Jollof on its own is £9.50, gizdodo (gizzard with sweet pepper and plantain) £6.50, and there is a **Naija fish and chips**: battered red bream with cassava chips and hot sauce, £13.50. Sweet agege bread comes toasted with garlic butter.
 
@@ -186,8 +186,6 @@ Halal, with vegan options. **Closed Mondays, and it does not open until 1pm** an
 **Lynda Beble and Brice Assemian opened it in November 2022** after selling frozen sauce gombo and kedjenou out of Akwaba Market, their Ivorian grocery in Deptford — which is also how they get their ingredients. Jonathan Nunn's ranked ninety-nine puts it 34th in London and says a restaurant this accomplished "should, by rights, be in Paris". Olive's writer is more direct about why you would travel for it: "There aren't many places to dig into Ivorian cuisine in London."
 
 ![An Ivorian table from above: a whole grilled fish under a heap of sliced onion and sweet pepper on a wooden board, a moulded dome of pale granular attiéké on one plate, an earthenware pot of orange-red stew, and a row of small pots of condiments including chopped green chilli, ground brown spice and red chilli sauce](../../assets/articles/best-west-african-restaurants-london/sikatio-grilled-fish-attieke.jpg)
-
-*Attiéké is cassava fermented, grated and steamed until it eats like a fluffy couscous, and it is the side to order with the fish. The plates are built for sharing rather than for one.*
 
 The dish is the **soupe du pêcheur**, a fisherman's soup of gently poached fish, crab and prawn served in an Asanka earthenware grinder, and after that the **croaker**, deep-fried in what Vittles calls a chainmail of crispy skin. **Choukouya** is on-bone lamb smoked through to the marrow. Sides are Ivorian: **attiéké**, a fluffy cassava couscous, **abolo**, faintly sweet steamed rice cakes, and alloco, ripe fried plantain. Drink bissap, the hibiscus infusion.
 
@@ -231,7 +229,7 @@ Jollof and fried plantain are on nearly every menu here, which is exactly why th
 
 ![A Ghanaian hot counter in stainless trays: two trays of small dried fish, a tray of cooked orange prawns with tongs in them, a tray of leaf-wrapped parcels, golden deep-fried fish, and whole fish in a dark red stew, with plastic tubs of prawns in sauce stacked to one side](../../assets/articles/best-west-african-restaurants-london/waakye-joint-hot-counter.jpg)
 
-*The plate is built at the counter from trays like these, which is why the queue is long but keeps moving. Under a tenner, and enough of it to skip dinner.*
+*The hot counter at Waakye Joint.*
 
 **Kate's Cafe** in Plaistow is the home-kitchen one: grilled fish with omo tuo, pounded yam, banku and kenkey, and stews to put them in — **nkatenkwan**, thick with peanut, and abenkwan, made from palm fruit. Its founder Kate has died and her family are running it on. *Cited by 2 sources.*
 
@@ -292,7 +290,7 @@ This is the part the restaurant lists undersell, and on this subject it is not a
 
 ![Three white takeaway boxes open on a wooden bench: thick slabs of dark, spice-crusted grilled beef under tomato wedges and raw red onion, thin-sliced beef in a dark sauce with more onion, and a box of orange jollof rice](../../assets/articles/best-west-african-restaurants-london/suuyar-suya-and-jollof.jpg)
 
-*Suya is thin beef grilled over fire and dusted in yaji, a spice of ground peanut and chilli, with raw onion and tomato piled on top. Jollof comes in its own box.*
+*Suya and jollof, Suuyar.*
 
 Named traders only — the halls are not the recommendation.
 

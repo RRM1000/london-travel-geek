@@ -77,7 +77,7 @@ For where to eat in the evening, the nightlife and where to stay, see the [Soho 
 
 ![The red shopfront of No.Tom vintage guitars at 6 Denmark Street, electric guitars hanging in both windows, with the blue Augustus Siebe plaque high on the brick building to its left](../../assets/articles/soho-chinatown-walk/denmark-street.jpg)
 
-*No.Tom's red front at No. 6. The blue plaque up on the left is Siebe's, on No. 5, the Wunjo building.*
+*No.Tom's shopfront at No. 6 Denmark Street.*
 
 **One short street off Charing Cross Road, and for eighty years the home of British songwriting.** A blue plaque reads: "This street was 'Tin Pan Alley' 1911–1992, home of the British publishers and songwriters and their meeting place The Giaconda." Outernet, whose development takes in the street, lists the Sex Pistols among its residents and the Rolling Stones' first album among the records made here.
 
@@ -89,13 +89,13 @@ Cross Charing Cross Road and take Sutton Row west into Soho Square.
 
 ![The black-and-white half-timbered gardener's hut in the middle of Soho Square, with Georgian houses behind](../../assets/articles/soho-chinatown-walk/soho-square-gardeners-hut.jpg)
 
-*The mock-Tudor hut, built in 1895 as the gardener's hut. Photo: [Tony Hisgett](https://commons.wikimedia.org/wiki/File:Soho_Square_(24023270222).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The gardener's hut, Soho Square. Photo: [Tony Hisgett](https://commons.wikimedia.org/wiki/File:Soho_Square_(24023270222).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 **Laid out in the 1680s on what was Soho Fields.** The half-timbered hut in the middle dates from 1895, and the statue of **Charles II** is listed.
 
 ![The weathered stone statue of Charles II on its plinth in Soho Square, a paved path leading past it to the half-timbered hut](../../assets/articles/soho-chinatown-walk/soho-square.jpg)
 
-*The plate on the plinth credits the statue to Caius Gabriel Cibber in 1681, and Lady Gilbert with returning it to the square in 1938.*
+*The Charles II statue, Soho Square.*
 
 An English Heritage plaque at **No. 14** marks where **Mary Seacole**, the Jamaican nurse of the Crimean War, lived and started writing her autobiography.
 
@@ -109,7 +109,7 @@ Leave by the south-west corner into Dean Street.
 
 ![The round blue Greater London Council plaque to Karl Marx, 1818–1883, "lived here 1851–56", between two tall black-framed windows on the pale grey front of 28 Dean Street](../../assets/articles/soho-chinatown-walk/dean-street-karl-marx.jpg)
 
-*Look up from the opposite pavement: the plaque sits between the upper windows of the pale grey building, above Quo Vadis.*
+*The Karl Marx plaque, above Quo Vadis.*
 
 **The blue plaque went up in 1967**, after two earlier ones at his last house, on Maitland Park Road, were vandalised. English Heritage records that the owner of the restaurant downstairs objected to it at the time.
 
@@ -123,7 +123,7 @@ Take Bateman Street east to Frith Street.
 
 ![Bar Italia on Frith Street by day: green neon script on a stone fascia over a green awning, a hanging clock and Caffe Espresso neon above, and John Logie Baird's blue plaque on the wall to the right](../../assets/articles/soho-chinatown-walk/frith-street.jpg)
 
-*Bar Italia at No. 22. Baird's plaque is the round one up to the right of the neon sign.*
+*Bar Italia, Frith Street.*
 
 Three plaques in a hundred metres, and the route's coffee stop.
 
@@ -137,7 +137,7 @@ Three plaques in a hundred metres, and the route's coffee stop.
 
 ![The black frontage of Ronnie Scott's on Frith Street with its neon sign and posters for the month's shows](../../assets/articles/london-jazz-festival/ronnie-scotts-jazz-club-soho.jpg)
 
-*Ronnie Scott's at 47 Frith Street, across the road from Bar Italia. Photo: [Jim Linwood](https://commons.wikimedia.org/wiki/File:Ronnie_Scott%27s_Jazz_Club,_47_Frith_Street,_Soho_-_London.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Ronnie Scott's, Frith Street. Photo: [Jim Linwood](https://commons.wikimedia.org/wiki/File:Ronnie_Scott%27s_Jazz_Club,_47_Frith_Street,_Soho_-_London.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 Continue down Frith Street to Old Compton Street and turn right. Turn right up Dean Street, then left into Meard Street, which comes out on Wardour Street opposite Peter Street. Peter Street brings you to the foot of the market.
 
@@ -147,7 +147,7 @@ Continue down Frith Street to Old Compton Street and turn right. Turn right up D
 
 ![A fruit and vegetable barrow on wooden cartwheels on Berwick Street, under a striped awning and an Exotic Fruits sign, piled with papayas, peppers, chillies and a sack of potatoes](../../assets/articles/soho-chinatown-walk/berwick-street-market.jpg)
 
-*Fruit, vegetables and chillies piled on a barrow that still runs on wooden cartwheels.*
+*A barrow at Berwick Street market.*
 
 **Breadstall** at No. 92 is the stop worth making: a counter selling slow-fermented pizza by the quarter, half or whole, walk-in only. It is covered in our [pizza guide](/articles/best-pizza-london/).
 
@@ -165,7 +165,7 @@ The pub on the corner of Lexington Street is **The John Snow**, a Samuel Smith's
 
 ![The John Snow pub on Broadwick Street: a dark wood Victorian frontage with etched Saloon and Snug windows, hanging baskets, a lantern, and a pub sign painted with Snow's portrait](../../assets/articles/soho-chinatown-walk/broadwick-street-john-snow.jpg)
 
-*Snow's portrait is on the hanging sign. Look down for the red granite kerbstone nearby: it marks where the original pump stood.*
+*The John Snow pub, Broadwick Street.*
 
 Carry on west to the corner of Marshall Street. A plaque on **8 Marshall Street** marks where **William Blake** was born, on 28 November 1757, in a house that stood on this site.
 
@@ -177,7 +177,7 @@ Cross Marshall Street into Ganton Street, which runs into **Carnaby Street**. A 
 
 ![Kingly Court from an upper walkway: three floors of red, pink and grey restaurant fronts behind blue railings, around a courtyard with a round-clipped tree, tables and a blue-and-white striped canopy](../../assets/articles/soho-chinatown-walk/carnaby-street.jpg)
 
-*The view from the top-floor walkway takes in all three floors and the courtyard tables below.*
+*Kingly Court, from the top-floor walkway.*
 
 The toilets inside are for diners. The public ones are at the north end of Carnaby Street, and there is a free water refill point outside Pizza Pilgrims in the courtyard.
 
@@ -191,7 +191,7 @@ Leave Kingly Court by the Beak Street entrance and walk down Upper John Street i
 
 ![Golden Square's paved garden in spring: a bed of red, orange and pink tulips, a stone urn, large hornbeams behind, and the statue of George II on its plinth on the right](../../assets/articles/soho-chinatown-walk/golden-square.jpg)
 
-*George II stands on the right, with the hornbeams behind and the beds planted with tulips for spring.*
+*The George II statue, Golden Square.*
 
 **The garden opens daily from 8am**, on the same seasonal closing times as Soho Square. Round the edge, a plaque at No. 31 records the surgeon **John Hunter**, and Nos. 23–24 were the **Portuguese Embassy** from 1724 to 1747.
 
@@ -207,7 +207,7 @@ Leave by Lower John Street, follow Brewer Street east to Wardour Street, and tur
 
 ![The tower of St Anne's Soho: a brick base with a round window rising to a stone belfry, a copper-clad drum and a blue clock face, with a weathervane on top](../../assets/articles/soho-chinatown-walk/st-annes-churchyard.jpg)
 
-*The 1803 tower, all that survived the bombing. The clock near the top is the one still wound by hand.*
+*St Anne's tower, Wardour Street.*
 
 **The garden is free and open daily**, with Westminster's seasonal closing times. It has steps and no step-free entrance, and dogs are allowed.
 
@@ -225,7 +225,7 @@ Walk south down Greek Street, cross Shaftesbury Avenue, and take Gerrard Place i
 
 ![Red lanterns strung across the Chinatown end of Wardour Street, with Four Seasons on the left and crowds below](../../assets/articles/soho-area-guide/chinatown-gerrard-street.jpg)
 
-*The Chinatown stretch of Wardour Street under its lanterns, with Four Seasons on the left.*
+*Chinatown's Wardour Street gate.*
 
 **Gerrard Street was completed in 1685.** London's first Chinatown was in Limehouse; after the Blitz damaged it, the community moved west, and by the 1950s restaurants were opening here. In the late 1980s Gerrard Street was pedestrianised and the first gates went up. The largest, on **Wardour Street**, was opened on **25 July 2016**, built in the Qing dynasty style by Chinese craftsmen.
 
@@ -235,7 +235,7 @@ Walk west along Gerrard Street and turn left down Wardour Street to the gate. Co
 
 ![Rows of red paper lanterns strung across Newport Place in Chinatown, with market-stall canopies below and the Newport Place WC2 street sign on the brick wall behind](../../assets/articles/soho-chinatown-walk/chinatown-gerrard-street.jpg)
 
-*Newport Place, where the walk ends, under its rows of lanterns. The street sign is on the brick wall at the back.*
+*Newport Place, where the walk ends.*
 
 **Where to eat:**
 

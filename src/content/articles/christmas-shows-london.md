@@ -32,7 +32,7 @@ faq:
 
 ![The London Palladium's gilded proscenium arch and stage boxes, lit by chandeliers, with a bare stage in blue light](../../assets/articles/christmas-shows-london/london-palladium-auditorium.jpg)
 
-*The London Palladium's proscenium and boxes, seen from the circle.*
+*The London Palladium.*
 
 **5 December 2026 – 10 January 2027, from £25 with no booking fees.** Dawn French and Jennifer Saunders play the Ugly Sisters, together on a West End stage for the first time in 17 years, with Julian Clary, wand in hand.
 
@@ -42,7 +42,7 @@ faq:
 
 ![The red and gold auditorium of Theatre Royal Stratford East, with a curved circle, stage boxes and a safety curtain painted as red drapes](../../assets/articles/christmas-shows-london/stratford-east-auditorium.jpg)
 
-*Theatre Royal Stratford East, with the Stalls below and the Dress Circle curving round to the stage.*
+*Theatre Royal Stratford East.*
 
 **21 November 2026 – 2 January 2027.** The Theatre Royal Stratford East panto, rated **suitable for all ages** and running about two hours plus an interval. Its box office had seats **from £6 to £41.50** when checked. Under-twos can sit on a lap for £1, and the theatre suggests under-fives sit in the Stalls or Dress Circle rather than up in the Upper Circle. Access performances: **BSL** 11 December, **captioned** 18 December, **audio described** 19 December, **relaxed** 2 January. [Dates and tickets](https://www.stratfordeast.com/whats-on/all-shows/robin-hood-and-the-merry-mandem).
 
@@ -54,7 +54,7 @@ faq:
 
 ![The Hackney Empire's auditorium from the stalls, with gilded and painted boxes either side of the stage and chandeliers in the ceiling](../../assets/articles/christmas-shows-london/hackney-empire-auditorium.jpg)
 
-*The Hackney Empire, with its gilded boxes either side of the stage.*
+*The Hackney Empire.*
 
 **21 November – 31 December 2026, £10 to £48.** Directed by and starring Olivier winner Clive Rowe. [Hackney Empire's site](https://hackneyempire.co.uk/) has dates and tickets.
 
@@ -72,7 +72,7 @@ faq:
 
 ![Hundreds of lit lanterns hanging above the audience at the Old Vic, with musicians in top hats and long coats playing on a wooden stage between the seats](../../assets/articles/christmas-shows-london/old-vic-christmas-carol-lanterns.jpg)
 
-*A Christmas Carol at the Old Vic: the lanterns hang over the audience, who sit on both sides of the stage.*
+*A Christmas Carol at the Old Vic.*
 
 **10 November 2026 – 9 January 2027, £19.50 to £91.50.** Matthew Warchus's production of Jack Thorne's adaptation, back for another Christmas. It runs about **two hours including a 20-minute interval**, and the Old Vic suggests it for **ages eight and up**. Previews (10–23 November) and the off-peak dates in January (1–9 January) top out at £81.50 instead of £91.50. Access performances include **audio described** and **BSL** on 12 December and **captioned** on 14 December, and there's an access rate of £23.50–£26.50 at every performance. [Dates and tickets](https://www.oldvictheatre.com/stage/a-christmas-carol-2026/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/a-christmas-carol-old-vic-tickets).
 
@@ -84,7 +84,7 @@ faq:
 
 ![The theatre at Alexandra Palace, with rows of orange seats in the stalls and circle, bare peeling walls and an ornate plaster ceiling lit in orange](../../assets/articles/christmas-shows-london/alexandra-palace-theatre-auditorium.jpg)
 
-*The theatre at Alexandra Palace, with bare, peeling walls round the circle and an ornate ceiling above.*
+*The theatre at Alexandra Palace.*
 
 **24 November 2026 – 17 January 2027.** A Christmas Sherlock Holmes mystery in the theatre at Alexandra Palace. It runs **two and a half hours with an interval** and is recommended for **10 and over**: the theatre warns of moderate language, innuendo and gunshot sound effects. **Captioned** 3 January, **audio described** 12 January. [Dates and tickets](https://www.alexandrapalace.com/whats-on/sherlock-holmes-12-days-of-xmas/).
 
@@ -92,7 +92,7 @@ faq:
 
 ![Wilton's Music Hall in blue light, with fairy lights along the balcony fronts, twisted columns beneath and a wooden stage under a high arched ceiling](../../assets/articles/christmas-shows-london/wiltons-music-hall-auditorium.jpg)
 
-*Wilton's Music Hall, with fairy lights along the balcony and barley-twist columns holding it up.*
+*Wilton's Music Hall.*
 
 **3 December 2026 – 2 January 2027.** **80 minutes including an interval**, at Wilton's in Whitechapel. Full price **£16 to £35**, under-12s **£8 to £27**. [Dates and tickets](https://wiltons.org.uk/whats-on/the-little-match-girl).
 
@@ -102,7 +102,7 @@ faq:
 
 ![The London Coliseum at night, its tower topped by a lit globe, with an audience going in under a pink-lit entrance canopy](../../assets/articles/christmas-shows-london/london-coliseum-at-night.jpg)
 
-*The London Coliseum at night, with the globe lit on top of its tower.*
+*The London Coliseum, at night.*
 
 **17 December 2026 – 10 January 2027, from £27.25 including fees.** Tchaikovsky's ballet, **two hours including one interval**. **Under-16s get 25% off.** The age guidance is **five and over**, and under-fives are only admitted at the family-friendly matinee on **Saturday 9 January**. **Audio described** 19 December, with a touch tour; **relaxed** 7 January. [Dates and tickets](https://londoncoliseum.org/events/nutcracker-2026/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/the-nutcracker-english-national-ballet-tickets).
 ### The Nutcracker, Soho Theatre
@@ -115,7 +115,7 @@ faq:
 
 ![The Peacock Theatre's entrance, with its name in gold letters above a canopy of bare bulbs and glass doors beneath](../../assets/articles/christmas-shows-london/peacock-theatre-entrance.jpg)
 
-*The Peacock Theatre's entrance canopy. The Snowman opens here on 21 November.*
+*The Peacock Theatre's entrance.*
 
 **21 November 2026 – 3 January 2027, from £18** plus a £4 transaction fee. A **new production** this year, the world premiere of Will Tuckett's staging, still built around Raymond Briggs's story and the film. **An hour and a half including a 20-minute interval.** Suitable for all ages; children **two and over** need a ticket. Family tickets are **£150 for three** and **£200 for four**. **Relaxed** 2 December, **audio described** 12 December. [Dates and tickets](https://www.sadlerswells.com/whats-on/the-snowman-2026/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/the-snowman-tickets).
 
@@ -123,7 +123,7 @@ faq:
 
 ![Children and adults on wooden pews at Little Angel Theatre, a few feet from a small stage with a painted puppet booth, under a rig of stage lights](../../assets/articles/christmas-shows-london/little-angel-theatre-auditorium.jpg)
 
-*Little Angel Theatre in Islington, where the audience sits a few feet from the stage.*
+*Little Angel Theatre, Islington.*
 
 **21 November 2026 – 23 January 2027.** About **50 minutes**, for all ages, on chairs and soft blocks round three sides of the stage, with up to 75 in the audience. Child tickets are **£16**, and **every seat is £8.50 at the 4.45pm Thursday shows** and £12 at the 4.45pm Friday ones. **Relaxed** 17 January, **BSL** 16 January. [Dates and tickets](https://www.littleangeltheatre.com/whats-on/the-snowflake/).
 

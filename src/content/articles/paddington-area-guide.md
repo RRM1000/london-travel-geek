@@ -88,7 +88,7 @@ Paddington has its own share of the commemorative plaques marking where notable 
 
 ![A narrowboat moored at Little Venice, with white stucco villas and a church behind](../../assets/articles/paddington-area-guide/little-venice.jpg)
 
-*Little Venice, where the Grand Union and Regent's Canal meet. The towpath to Camden starts here. Photo: [Kathleen Tyler Conklin](https://www.flickr.com/photos/79865753@N00/2122563341), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Little Venice. Photo: [Kathleen Tyler Conklin](https://www.flickr.com/photos/79865753@N00/2122563341), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Key streets and micro-districts
 
@@ -118,7 +118,7 @@ There is also a **Floating Pocket Park**, a moored island of trees and benches t
 
 ![A bronze sculpture of animals seated around a dining table on the plaza outside Paddington station, with a red London bus passing behind](../../assets/articles/paddington-area-guide/bronze-animals-sculpture.jpg)
 
-*The bronze animals outside Paddington station. Most people walk straight past on the way to the platforms.*
+*The bronze animals outside Paddington station.*
 
 ### Praed Street and Craven Road
 
@@ -144,7 +144,7 @@ South-west of the station, and the best-value eating anywhere near Paddington. A
 
 ![The still water of Paddington Basin lined with modern glass office buildings](../../assets/articles/paddington-area-guide/paddington-basin.jpg)
 
-*Paddington Basin, the canal's dead end, rebuilt in glass. The rolling and fan bridges here open on schedule. Photo: [trolvag](https://commons.wikimedia.org/w/index.php?curid=56959884), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+*Paddington Basin. Photo: [trolvag](https://commons.wikimedia.org/w/index.php?curid=56959884), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
 ## Where to eat and drink
 
@@ -155,11 +155,11 @@ South-west of the station, and the best-value eating anywhere near Paddington. A
 | **Pearl Liang** | Cantonese, dim sum | ££ | Long-standing favourite behind Paddington Basin |
 | **Kateh** | Persian | ££ | Small Warwick Avenue restaurant; reserve ahead |
 | **Beany Green** | Australian cafe | £ | Reliable breakfast on the station concourse |
-| **Market Halls Paddington** | Food hall | ££ | Eight kitchens a minute from the platforms; walk-in |
+| **Market Halls Paddington** | Food hall | ££ | Eight kitchens in 1 Paddington Square, a minute from the platforms; walk-in |
 
 ![The upper floor of Market Halls Paddington, with the Gopal's Corner Malaysian counter under a banana-leaf mural on the left, a souvlaki and taco counter beyond it, and long communal tables running along a full-height glass wall](../../assets/articles/paddington-area-guide/market-halls-paddington.jpg)
 
-*Market Halls Paddington sits on the upper floor of 1 Paddington Square, the glass block beside the station. Eight kitchens — Malaysian, Greek, Argentine grill, tacos — around communal tables, all walk-in, which makes it the most useful pre-train meal in the area if The Waterway is too far to walk.*
+*Market Halls Paddington.*
 
 ## Getting there
 

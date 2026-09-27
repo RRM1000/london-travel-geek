@@ -52,7 +52,7 @@ Neither of these is a capsule. A capsule is a berth in a shared dormitory with s
 
 ![A Zedwell cocoon room: a bed on a lit wooden plinth, a full-length mirror, hooks and a private door](../../assets/articles/windowless-hotel-rooms-london/zedwell-cocoon-room.jpg)
 
-*A cocoon room. Small, no window, and a door of its own.*
+*A cocoon room.*
 
 **Your own room, your own door, your own bathroom.** The smallest Zedwell is 7 sq m. The bed sits on a lit oak plinth, there is a full-length mirror, hooks rather than a wardrobe, and an **en-suite with a walk-in rainfall shower**.
 
@@ -242,7 +242,7 @@ It is also the branch where the window costs most. The first room here with dayl
 
 </div>
 
-*A room at the Z Hotel Shoreditch — this one has a window, unlike the windowless "Inside" rate described above — and its ensuite bathroom.*
+*A room at the Z Hotel Shoreditch, and its ensuite bathroom.*
 
 Breakfast is bought in the Z Cafe rather than included. Joining Z Member before you book is free and adds evening cheese and wine plus 10% off food and drink, but not off breakfast; only the dearer Z Club room grade has breakfast in the rate. The address is the Shoreditch edge of the City rather than the nightlife core. Our [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares it with the other hotels in the area.
 
@@ -262,7 +262,7 @@ The other £50 room in the estate, and a genuinely useful one: Victoria is the a
 
 </div>
 
-*A room at the Z Hotel Victoria — this one has a window; the windowless Inside Double is £30 cheaper — and its ensuite bathroom.*
+*A room at the Z Hotel Victoria, and its ensuite bathroom.*
 
 There is no family grade at this branch. Two adults is the ceiling on every room type, so it is a couples-and-solos address rather than a family one.
 
@@ -276,7 +276,7 @@ The branch where the arithmetic breaks in the reader's favour, and the one branc
 
 ![A room at the Z Hotel Tottenham Court Road with a dark upholstered headboard, a wardrobe and desk, and a window looking onto the brick building opposite](../../assets/articles/windowless-hotel-rooms-london/z-hotel-tottenham-court-road-room.jpg)
 
-*A room at the Z Hotel Tottenham Court Road — this one has a window; the windowless Inside Double is the same size for £5 less.*
+*A room at the Z Hotel Tottenham Court Road.*
 
 Two more oddities in this short grade list. The **Z Accessible at £75** is 14 sq m with a window, so it is larger and cheaper than the 11 sq m Z Queen at £85. And the branch is not on Tottenham Court Road at all: it is at 52 Poland Street, in Soho — five minutes from Oxford Circus and six from the station it is named after. Z names its hotels after the nearest famous thing rather than the street they stand on, which is worth knowing before you plan a walk.
 
@@ -294,7 +294,7 @@ Otherwise it is good value — Inside Double £55, Z Double £70, two minutes fr
 
 ![A room at the Z Hotel Holborn with a dark upholstered headboard, a kettle and glasses on the desk, and a window with the blind partly raised](../../assets/articles/windowless-hotel-rooms-london/z-hotel-holborn-room.jpg)
 
-*A room at the Z Hotel Holborn — this one has a window; the windowless Inside Double is £15 cheaper.*
+*A room at the Z Hotel Holborn.*
 
 ### The Z Hotel Covent Garden — three windowless grades before daylight
 
@@ -398,7 +398,7 @@ At **Victoria** the standard room is 7.2–9 sq m and does come both ways, and e
 
 </div>
 
-*A room at easyHotel Victoria, and its ensuite bathroom — the standard room here comes both with and without a window.*
+*A room at easyHotel Victoria, and its ensuite bathroom.*
 
 The disclosure sits in a **FAQ answer near the foot of the hotel page**, under a question about room types rather than about windows, which is the least prominent placement of any operator here. Price in the extras too: rooms are cleaned free only every sixth night and an extra clean is **£15**, luggage storage is £5 a piece, and early check-in or late check-out are £20 each.
 

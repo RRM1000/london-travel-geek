@@ -68,8 +68,6 @@ The Doyle Collection's five-star, just east of the high street. The deciding fac
 
 </div>
 
-*The bathroom has a bath and a separate glass shower; the bedroom window runs almost the width of the wall.*
-
 Rooms run from Cosy Rooms, listed from £405, to terrace suites and a two-bedroom suite; a breakfast-inclusive offer on the hotel's own site starts at £325. 108 Brasserie has tables out on Marylebone Lane, and dogs are welcome.
 
 ### Durrant's Hotel — a family-owned townhouse behind the Wallace Collection
@@ -85,8 +83,6 @@ A Georgian former coaching inn, owned by the Miller family since 1921, with the 
 ![A cream-tiled bathroom at Durrant's with a bath behind a hinged glass shower screen and two square white basins side by side](../../assets/articles/where-to-stay-marylebone/durrants-hotel-bathroom.jpg)
 
 </div>
-
-*A double with a tall sash window, and a bathroom with a shower over the bath and two basins.*
 
 **The Family Room is the one to book with children**: a double bedroom and, beyond it, a bunk room with beds for up to three children. There are no interconnecting rooms. Cots are £25 a night; extra beds are £50 and fit only the studios and suites. There is no spa or gym, and on-site parking is £40 a day with a 1.70m height limit.
 
@@ -104,8 +100,6 @@ A four-star two minutes from the high street and the Wallace Collection. Its own
 
 </div>
 
-*A room under the roof with a window seat and its own door out to a terrace; the bathroom has a bath with a hand shower.*
-
 Room sizes spread widely, from a **Tiny Single of 11 square metres** to Executive Doubles of 31 to 34. The fifth floor is the **Riviera Rooms, 22 to 26 square metres, each designed by Maison Christian Lacroix**, and the Terrace Suite takes the top two floors with its own roof terrace. There is a lift, a ramp at the entrance and accessible rooms. **Only two pairs of rooms interconnect**, so families should book early.
 
 ### The Welbeck Hotel — Edwardian, with rooms of two double beds
@@ -122,8 +116,6 @@ Built in 1907–09 to designs by Boehmer & Gibbs as the Welbeck Palace Hotel, on
 
 </div>
 
-*Two double beds, as in the Grand Family rooms; the bathroom has brass taps and a glass-screened shower.*
-
 Rooms are graded by size: **Cosy doubles of 15 to 17 square metres**, Standard 18 to 22, Premium 23 to 24 with some taking a third guest on a sofa bed, and **Grand Family rooms of 26 square metres with two double beds**. Massages and facials can be booked in your room. The Welbecker is the bar.
 
 ## Hotels around Portman Square and Marble Arch
@@ -136,7 +128,7 @@ A large hotel on the corner where Oxford Street meets Hyde Park. **Gordon Ramsay
 
 ![A twin room at The Cumberland with two single beds against a grey leather headboard, red London-print cushions, blue curtains at the far window and a long desk with a coffee machine under a wall-mounted TV](../../assets/articles/where-to-stay-marylebone/the-cumberland-room.jpg)
 
-*A twin room: two single beds side by side, with the desk and coffee machine along the opposite wall.*
+*A twin room at The Cumberland.*
 
 Grades run from Classic singles to Park View rooms and suites; the **Family Room has two double beds**, and interconnecting rooms can be requested. There is no parking; the hotel sends drivers to the Marble Arch car park, two minutes away.
 
@@ -154,8 +146,6 @@ The Montcalm group's flagship, in a Grade II listed Georgian crescent on Great C
 
 </div>
 
-*The bathroom photographed has a bath with a shower over it and a bowl basin on the counter.*
-
 It is part of Marriott's Autograph Collection, so **Bonvoy points apply**. Lilli, the building's restaurant, is Akira Back's only London restaurant, and the YĀTRĀ spa is in the building. Pets are allowed.
 
 ### The Zetter Marylebone — a cocktail parlour with rooms above
@@ -171,8 +161,6 @@ A Georgian townhouse, formerly called the Zetter Townhouse, decorated like an ec
 ![A bathroom at The Zetter Marylebone with a white washstand basin on chrome legs, cream wall tiles with a black border and old map wallpaper around the mirror](../../assets/articles/where-to-stay-marylebone/the-zetter-marylebone-bathroom.jpg)
 
 </div>
-
-*Drapes behind the bed, a gramophone and velvet sofas; the washstand basin sits under a wall papered with old maps.*
 
 Deluxe Doubles are 19 square metres and Deluxe Kings 27. **Each of the four Junior Suites sleeps four in 30 square metres**, and Lear's Loft, at 45 square metres, has an outdoor bath on its terrace. There is a lift, but parts of the house are still stairs. Breakfast is extra.
 
@@ -190,8 +178,6 @@ Not to be confused with Nobu's Shoreditch hotel. The hotel is built around the N
 
 </div>
 
-*This room opens on to a balcony through glass doors; the bathroom has a bath and two basins.*
-
 Entry-level Cosy Kings are 18 to 20 square metres. The family rooms are large: **the Family Deluxe Balcony room is 42 square metres for two adults and two children**, and the Two Bedroom Family Suite is 44 square metres for two adults and three. There is a Reformer Pilates studio.
 
 ### Hyatt Regency London – The Churchill — 440 rooms on the square
@@ -207,8 +193,6 @@ Opened in 1970 on Portman Square, with 440 rooms including 50 suites. It is a Hy
 ![A grey-tiled bathroom at The Churchill with a marble vanity, a framed koi carp drawing, and a walk-in shower with a ceiling rain head reflected in the large mirror](../../assets/articles/where-to-stay-marylebone/hyatt-regency-churchill-bathroom.jpg)
 
 </div>
-
-*A king room with a desk by the window; the bathroom mirror shows a walk-in shower with a rain head.*
 
 ## Hotels around Baker Street, Dorset Square and Marylebone Road
 
@@ -226,9 +210,7 @@ Six Georgian townhouses turned into 114 rooms, with Baker Street five minutes' w
 
 </div>
 
-*The bathroom is a glass box inside the bedroom, not behind a solid wall: part frosted to about head height, with the shower behind clear glass.*
-
-**The cheapest grade, the Z Inside Queen at £65, has no window.** The Z Queen at £75 has one and is the same 14 square metres, which is larger than the 9-square-metre Z Double at Z Covent Garden. Above that are the Z King at 20 square metres from £85, a grade only this branch sells, the Junior Suite at 26 square metres from £95, and the Z Club from £110 with breakfast included. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) explains what the Inside grade is like to sleep in.
+**The cheapest grade, the Z Inside Queen at £65, has no window.** The Z Queen at £75 has one and is the same 14 square metres, which is larger than the 9-square-metre Z Double at Z Covent Garden. Above that are the Z King at 20 square metres from £85, a grade only this branch sells, the Junior Suite at 26 square metres from £95, and the Z Club from £110 with breakfast included. Bathrooms are a glazed box inside the room, part frosted to head height, rather than behind a solid wall. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) explains what the Inside grade is like to sleep in.
 
 ### Park Avenue Baker Street — townhouses on both sides of the street
 
@@ -244,8 +226,6 @@ Eighteenth-century Georgian houses on both sides of Gloucester Place, with a 24-
 
 </div>
 
-*A double with a full-height window, and a bath with a rain shower over it.*
-
 ### Holmes Hotel London — where children under 12 stay and eat free
 
 *118 rooms · 83 Chiltern Street, W1U 6NF · Baker Street 2 min · [Hotels.com](hotelscom:h6473)*
@@ -254,7 +234,7 @@ Four restored Georgian buildings on Chiltern Street, one of them the former Bedf
 
 ![A suite at Holmes Hotel London with the bed's black headboard printed with a gold 221B door and knocker, oak floors, and a sitting area with a leather sofa and yellow cushions through a wide opening](../../assets/articles/where-to-stay-marylebone/holmes-hotel-room.jpg)
 
-*A suite with a separate sitting area; the headboard is printed with the 221B front door.*
+*A suite at Holmes Hotel London.*
 
 **The Family Experience package** covers two adults and up to two children under 12: the children stay and eat free, breakfast is included for everyone, and it takes up to 25% off the best available rate. Sofa beds and interconnecting rooms are available. Our [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide covers the museum up the road at 221b.
 
@@ -266,7 +246,7 @@ Tim and Kit Kemp's first hotel, in a Regency building facing the garden square t
 
 ![A bedroom at Dorset Square Hotel with green walls, a tall arched headboard embroidered with red and blue flowers, a scalloped white quilt, a green-striped armchair and a sash window over the rooftops](../../assets/articles/where-to-stay-marylebone/dorset-square-hotel-room.jpg)
 
-*Firmdale's look: a tall embroidered headboard, patterned fabrics and a large sash window.*
+*A room at Dorset Square Hotel.*
 
 **For a Wembley event**, Marylebone station is five minutes' walk, and the hotel times the Chiltern Railways run to Wembley Stadium at nine minutes. Our [Wembley guide](/articles/wembley-stadium-arena-guide/) covers getting back after a concert.
 
@@ -286,11 +266,9 @@ Open since 1 July 1899, opposite Marylebone station. The Winter Garden is a glas
 
 </div>
 
-*A room with two double beds, and a marble bathroom with a bath and two basins.*
-
 ![The Landmark London's red-brick Victorian frontage and clock tower on Marylebone Road, behind street trees](../../assets/articles/where-to-stay-marylebone/landmark-london-marylebone-road.jpg)
 
-*The Landmark's clock tower and red-brick frontage on Marylebone Road. Photo: [Ricardalovesmonuments](https://commons.wikimedia.org/wiki/File:Landmark_Hotel_London_%281%29.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+*The Landmark London, Marylebone Road. Photo: [Ricardalovesmonuments](https://commons.wikimedia.org/wiki/File:Landmark_Hotel_London_%281%29.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
 
 ## Hotels on Langham Place, by Oxford Circus
 
@@ -310,8 +288,6 @@ Artesian is the cocktail bar, Chuan Body + Soul is the spa, and there is a swimm
 
 </div>
 
-*A family room with two double beds and a teepee set up for children; the bathroom has a bath with a hand shower and a wooden washstand.*
-
 ### Treehouse Hotel London — the top floors, with a view from every room
 
 *About £250 · 14–15 Langham Place, W1B 2QS · Oxford Circus 4 min · Breakfast extra · [Hotels.com](hotel:treehouse-hotel-london)*
@@ -325,8 +301,6 @@ The hotel occupies the top floors of a building next to Broadcasting House, so t
 ![A Treehouse Hotel London bathroom in white metro tiles with grey grout, two bathrobes on hooks, a walk-in shower with a ceiling rain head and a square basin on an oak shelf](../../assets/articles/where-to-stay-marylebone/treehouse-hotel-london-bathroom.jpg)
 
 </div>
-
-*The window seat runs the width of the room; the bathroom photographed has a walk-in rain shower.*
 
 Rooms are 21 to 24 square metres. **The Lookout Two Twin Doubles sleeps four in 24 square metres**, and connecting pairs such as the Connecting Skyline Queens give a family 42. A Family Tree package adds breakfast and a teepee set up for the children. Dogs are welcome.
 

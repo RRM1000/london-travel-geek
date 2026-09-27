@@ -120,7 +120,7 @@ At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on mos
 The original two-part production ended its London run on 20 September 2026. From **9 October 2026 the play runs as a single show in one sitting**, currently booking through late June 2027.
 
 ![The set of Harry Potter and the Cursed Child at the Palace Theatre: gothic arches and clock faces above a stack of trunks and suitcases in a shaft of blue light](../../assets/articles/harry-potter-london/cursed-child-palace-theatre.jpg)
-*The set is doing work before anyone walks on. The Palace was rebuilt around this production.*
+*The set of Harry Potter and the Cursed Child.*
 
 ### Running time and schedule
 
@@ -146,7 +146,7 @@ Bands vary by night: a Saturday evening costs more at every level than a Tuesday
 ## Platform 9¾
 
 ![A luggage trolley loaded with trunks and an owl cage, standing against the brick wall beneath the Platform 9¾ sign at King's Cross](../../assets/articles/harry-potter-london/platform-nine-three-quarters-trolley.jpg)
-*Empty at opening time. For most of the day there is a queue, a barrier and a member of staff handing out scarves.*
+*The Platform 9¾ trolley.*
 
 The trolley half-buried in a wall at King's Cross, with a member of staff to fling the scarf and a photographer to sell you the result.
 
@@ -189,7 +189,7 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 **Leadenhall Market was not Diagon Alley**, whatever most guides say. The market's own history calls it the London streets leading to the Leaky Cauldron; Diagon Alley was a set at Leavesden. **The blue door that played the Leaky Cauldron entrance is now Two Eyes Coffee House** on Bull's Head Passage, which says so on its own site and whose profits fund migraine research. It opens 8.30-3.30 on Monday and Friday, 8-4 Tuesday to Thursday, and **closes at weekends**.
 
 ![The covered arcade of Leadenhall Market, its maroon and cream ironwork and glass roof above cobbles, with hanging lanterns and shopfronts either side](../../assets/articles/harry-potter-london/leadenhall-market.jpg)
-*The streets Hagrid walks Harry down to the Leaky Cauldron. It is free, roofed, and quietest on a weekday.*
+*Leadenhall Market.*
 
 **St Pancras is the underrated one.** The Gothic frontage everyone thinks is King's Cross is St Pancras next door. It costs nothing and is a couple of minutes from the trolley.
 

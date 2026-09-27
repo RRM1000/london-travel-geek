@@ -95,13 +95,13 @@ Covent Garden has its own share of the commemorative plaques marking where notab
 
 ![The clocktower building of the official TKTS theatre ticket booth in Leicester Square, with people queuing at the "OFFICIAL LONDON THEATRE TICKET BOOTH" window](../../assets/articles/covent-garden-area-guide/tkts-booth-leicester-square.jpg)
 
-*Run by the Society of London Theatre, a not-for-profit — every other "theatre tickets" booth around the square is a private reseller.*
+*The TKTS booth, Leicester Square.*
 
 ## Key streets and micro-districts
 
 ![The interior of Covent Garden Market, its green cast-iron arches and glass roof above a crowd watching a street performer](../../assets/articles/covent-garden-area-guide/covent-garden-market-hall.jpg)
 
-*Charles Fowler's market hall, built 1828–30. The arched glass roofs came half a century later, covering what had until then been open yards between the ranges — the produce market itself left for Nine Elms in 1974.*
+*Covent Garden Market's cast-iron hall.*
 
 ### The Piazza and market halls
 
@@ -117,11 +117,11 @@ Go before ten in the morning or after eight in the evening if you want to move.
 
 ![Outdoor restaurant terraces filling the cobbled Piazza at Covent Garden at dusk](../../assets/articles/covent-garden-area-guide/covent-garden-piazza-terrace.jpg)
 
-*The Piazza's cobbles are shared between the market stalls by day and restaurant terraces by evening.*
+*The Piazza at dusk.*
 
 ![The Apple Market's cast-iron arcade decorated with giant baubles and mistletoe for Christmas](../../assets/articles/covent-garden-area-guide/apple-market-christmas.jpg)
 
-*The Apple Market dressed for Christmas. The decorations go up in November and are one of the more elaborate displays in central London.*
+*The Apple Market dressed for Christmas.*
 
 Covent Garden has no chalet market of its own, but Leicester Square's and Trafalgar Square's are both within ten minutes' walk; dates and hours are in our [London Christmas markets guide](/articles/christmas-markets-london/).
 
@@ -139,11 +139,11 @@ Seven short streets radiating from a sundial pillar, each with its own character
 
 ![The sundial pillar at the Seven Dials junction, with the Cambridge Theatre behind it and people sitting on the steps](../../assets/articles/covent-garden-area-guide/seven-dials-sundial.jpg)
 
-*The sundial pillar the district is named after. The Cambridge Theatre is on the corner behind it.*
+*The Seven Dials sundial pillar.*
 
 ![The two-level hall of Seven Dials Market, with communal benches and festoon lighting](../../assets/articles/covent-garden-area-guide/seven-dials-market.jpg)
 
-*Seven Dials Market fills Thomas Neal's Warehouse, which stored bananas and cucumbers for the old Covent Garden fruit market. Its two halls are still called Banana Warehouse and Cucumber Alley.*
+*Seven Dials Market.*
 
 
 ### Old Brewer's Yard
@@ -158,17 +158,17 @@ A courtyard off Mercer Walk, opened in December 2025 on a plot that was brewing 
 
 ![The cobbled courtyard of Old Brewer's Yard with a vintage Guinness delivery lorry parked in it](../../assets/articles/covent-garden-area-guide/old-brewers-yard-guinness.jpg)
 
-*Old Brewer's Yard. The courtyard bar needs no ticket — only the brewery tours upstairs do.*
+*Old Brewer's Yard.*
 
 ![A wall-mounted site map of the Guinness Open Gate Brewery at Old Brewer's Yard, showing Gilroy's Loft, the Guinness Vaults, the Bottle Room and other spaces](../../assets/articles/covent-garden-area-guide/guinness-open-gate-map.jpg)
 
-*The Open Gate Brewery's own site map. It sprawls further back than the courtyard entrance suggests.*
+*The Open Gate Brewery's site map.*
 
 ### Neal's Yard
 
 ![The brightly painted buildings and packed outdoor tables of Neal's Yard](../../assets/articles/covent-garden-area-guide/neals-yard.jpg)
 
-*Neal's Yard. The entrances are narrow alleys off Monmouth Street and Short's Gardens, which is why so many people walk past without ever finding it.*
+*Neal's Yard.*
 
 A single small courtyard reached down narrow alleys off Short's Gardens and Monmouth Street, which is why so many people walk past without ever finding it. Painted buildings in yellow, blue and pink, cafe tables filling the middle, and the original **Neal's Yard Remedies** shop that the chain is named after.
 
@@ -194,7 +194,7 @@ The two main east–west shopping streets, running parallel from the Piazza towa
 
 ![The colonnaded front of the Lyceum Theatre on Wellington Street, with The Lion King billboards and a rank of hire bikes outside](../../assets/articles/covent-garden-area-guide/lyceum-theatre-wellington-street.jpg)
 
-*The Lyceum on Wellington Street, home to The Lion King since 1999. Several of the West End's biggest houses are within five minutes of the Piazza.*
+*The Lyceum, Wellington Street.*
 The theatre spine of Covent Garden, and several of the West End's biggest houses are within five minutes of the Piazza.
 
 **Theatre Royal Drury Lane is the oldest theatre site in continuous use in London**, licensed in 1663, with the current building dating from 1812. It was restored at length and reopened in 2021, and **daytime tours run when the schedule allows** — worth checking, because the front-of-house rooms are extraordinary and you see them without a ticket to the show.

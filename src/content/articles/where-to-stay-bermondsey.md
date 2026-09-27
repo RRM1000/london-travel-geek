@@ -74,7 +74,7 @@ There is a gym and yoga studio, a coworking floor, a 24-hour desk, and the Locke
 
 </div>
 
-*A room at Bermonds Locke, with the kitchenette visible beyond the bed, and its bathroom.*
+*A room at Bermonds Locke, and its bathroom.*
 
 ### Bermondsey Square Hotel — £180, a shared terrace, and a market at six in the morning
 
@@ -110,7 +110,7 @@ Eighteen floors of the Shard, starting at **level 34** and running to 202 rooms 
 
 ![The view from a corner room at Shangri-La The Shard, with floor-to-ceiling windows on two sides and the bed in the foreground](../../assets/articles/where-to-stay-bermondsey/shangri-la-the-shard-room.jpg)
 
-*The view from a corner room at Shangri-La The Shard, high above London.*
+*The view from Shangri-La The Shard.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -132,7 +132,7 @@ It is **adults only, 18 and over**, breakfast is £3, check-out is 11am and rece
 
 </div>
 
-*A pod-style dorm at St Christopher's Village, and its roof terrace under the Shard.*
+*A pod-style dorm at St Christopher's Village, and its roof terrace.*
 
 ### Bankside — ten minutes west, and where the mid-range actually lives
 
@@ -156,7 +156,7 @@ Two more worth pricing on your own dates: **[The Hoxton, Southwark](hotel:the-ho
 
 </div>
 
-*A room at The Hoxton, Southwark, with a dining table by the window, and its bathroom.*
+*A room at The Hoxton, Southwark, and its bathroom.*
 
 ### Spitalfields and Aldgate — across the river, and better connected
 
@@ -172,7 +172,7 @@ Twenty minutes' walk north of London Bridge, over the river, and a different tra
 
 ![A bedroom at Batty Langley's with a carved dark wood bedhead, mauve silk cushions and an oil painting on the wall](../../assets/articles/where-to-stay-bermondsey/batty-langleys-room.jpg)
 
-*One of the individually decorated rooms at Batty Langley's, with a carved wood bedhead and an antique oil painting.*
+*A room at Batty Langley's.*
 
 ### Bethnal Green — east, cheaper, and a better building than anything in Bermondsey
 

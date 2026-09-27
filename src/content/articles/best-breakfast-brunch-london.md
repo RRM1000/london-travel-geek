@@ -113,7 +113,7 @@ The dish it is named for is **two waffles stacked with a confit duck leg and a f
 
 ![The empty dining room at Berners Tavern in daylight, tables laid beneath the gallery of framed pictures and ornate ceiling](../../assets/articles/best-breakfast-brunch-london/berners-tavern-empty-room.jpg)
 
-*Not one table taken — the room this quiet is booked solid again by dinner.*
+*Berners Tavern's empty dining room.*
 
 Smoked salmon and scrambled egg on sourdough, **brioche French toast**, eggs Florentine and a full English, with lighter fruit and pastry options. The signature flourish is a **Bloody Mary trolley** wheeled to the table with three different twists to choose from.
 
@@ -174,7 +174,7 @@ It is now a **seven-site London group**: Bankside, Canary Wharf, the City, Exmou
 The coffee is roasted at **Lamb Works**, an 8,500 sq ft Victorian warehouse in Islington that also holds the quality-control lab, a coffee school and the bakery. The kitchen treats brunch as a proper exercise rather than a holding pattern until dinner: jalapeño cornbread with a fried egg, chorizo and potato hash, vanilla pancakes with date molasses.
 
 ![Bacon, avocado and rocket on toast](../../assets/articles/best-breakfast-brunch-london/caravan.jpg)
-*Caravan roasts its own coffee and treats brunch as a proper kitchen exercise rather than a holding pattern until dinner. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5624757340), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Caravan, Exmouth Market. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5624757340), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Milk, Balham
 
@@ -189,7 +189,7 @@ The coffee is taken as seriously as the food: **an exclusive roast with Assembly
 **No bookings**, and the queue moves: even at weekends you are unlikely to wait more than half an hour, which by London brunch standards is nothing.
 
 ![The frontage of Milk café in Balham with pavement tables](../../assets/articles/best-breakfast-brunch-london/milk.jpg)
-*The Balham café that drew people across the river before south London brunch was a thing. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28220076190), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Milk, Balham. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28220076190), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Beany Green, Little Venice
 
@@ -232,7 +232,7 @@ The steakhouse group does a full English built out of its own butchery, and it i
 > ⚠️ **Breakfast is not served at every branch, or every day.** Guildhall has run it on weekdays and Air Street on Saturdays, but the schedule moves. Check the specific site ([book a table](https://www.opentable.com/booking/experiences-availability?rid=11335&restref=11335&experienceId=682033)) before travelling for it.
 
 ![A Hawksmoor breakfast of fried eggs, black pudding, sausages, mushrooms and bone marrow in a cast iron pan](../../assets/articles/best-breakfast-brunch-london/hawksmoor-breakfast.jpg)
-*Bone marrow and a short rib on the same plate as the eggs. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5652623969), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The breakfast for two. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5652623969), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 
@@ -253,7 +253,7 @@ Coffee is **Square Mile**, with the guest espresso and filter rotated regularly,
 **Mon–Fri 7.30am–5.30pm, Saturday 9am–4pm, closed Sundays.** It fills with people from the surrounding offices and media buildings, so it is calmest before 9am and after 3pm. Counter service, and not somewhere to settle in for hours.
 
 ![A slice of tart with a green salad on a wooden counter](../../assets/articles/best-breakfast-brunch-london/kaffeine.jpg)
-*An Australian-run café on Great Titchfield Street that set the template a lot of London coffee shops followed. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3859693639), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Kaffeine, Great Titchfield Street. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3859693639), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Prufrock, Clerkenwell
 
@@ -263,7 +263,7 @@ Coffee is **Square Mile**, with the guest espresso and filter rotated regularly,
 
 ![The Leather Lane frontage of Prufrock Coffee, with red pavement tables outside and the counter visible through the window](../../assets/articles/best-breakfast-brunch-london/prufrock-coffee-leather-lane.jpg)
 
-*Pavement tables in red steel sit right on Leather Lane, a few steps from the market stalls.*
+*Prufrock's pavement tables.*
 
 The coffee is the point and the food is better than it needs to be: **veggie eggs benedict with soft poached eggs and bitter greens**, and a dense coconut and almond cake among the counter bakes.
 
@@ -277,7 +277,7 @@ The original site is a **watch house built between 1810 and 1812** to guard the 
 
 ![The curved interior of WatchHouse in Bermondsey, with a coffee counter, small round tables and a beamed ceiling](../../assets/articles/best-breakfast-brunch-london/watchhouse-bermondsey-interior.jpg)
 
-*The counter and seating both curve with the building's original round wall.*
+*Inside the original WatchHouse.*
 
 Coffee is roasted in-house, and the counter runs to **pastries, fresh bakes and very good sandwiches** rather than a full kitchen. The group splits its sites into Espresso Houses, which do bakes and sandwiches like this one, and larger Brunch Houses that serve **oat and rye porridge, breakfast classics and seasonal plates** until 11am — so check which kind you are walking into.
 
@@ -293,7 +293,7 @@ Tucked into **Perrins Court**, a narrow pedestrian alley off Hampstead High Stre
 
 ![Two soft-boiled eggs in egg cups, one wearing a knitted cosy, with buttered toast soldiers at Ginger & White](../../assets/articles/best-breakfast-brunch-london/ginger-and-white-dippy-eggs.jpg)
 
-*One egg gets a knitted cosy; the soldiers are cut thick enough to hold their shape in the yolk.*
+*Dippy eggs and soldiers.*
 
 **Mon–Fri 7.30am–5.30pm, Saturday from 7.30am to 6pm, Sunday 8am–6pm.** Ten minutes from the Heath, which is what it is for.
 
@@ -313,7 +313,7 @@ Chef **Fadi Kattan's** Palestinian dining room on Uxbridge Street, and the only 
 
 ![The dining room at Akub in Notting Hill, with a potted olive tree, whitewashed brick walls and bunches of dried herbs hanging above the tables](../../assets/articles/best-breakfast-brunch-london/akub-dining-room.jpg)
 
-*A potted olive tree stands by the window, with bunches of dried herbs hung along the brick.*
+*Akub's dining room.*
 
 The brunch is built around a **holy trinity of Arabic coffee, French toast and zahra fritters**. Order the **qalayet bandora** — eggs cooked into a slow, rich tomato sauce — with labaneh under za'atar, the nutty cauliflower fritters with coriander tahini, and the **aubergine fatteh** under garlic yoghurt. The French toast is made with Arabic coffee and finished with cocoa and pistachio.
 
@@ -330,7 +330,7 @@ Weekend brunch pulls dishes from the main bistro carte alongside the breakfast o
 **Saturday and Sunday, and reservations are essential ([the venue's site](https://www.bistrotheque.com/))** — this is not a room you chance on a weekend. The cocktail list is built for the morning after.
 
 ![The brick exterior of a converted warehouse in Bethnal Green](../../assets/articles/best-breakfast-brunch-london/bistrotheque.jpg)
-*There is no sign. You find the door, go up the stairs, and the room opens out white and full of light. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=187564628), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Bistrotheque, Bethnal Green. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=187564628), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### Carmel, Queen's Park
 
@@ -342,7 +342,7 @@ The centrepiece is the **tabun oven**, and the flatbreads that come out of it wi
 
 ![A baked egg dish in a cast iron pan with yoghurt, herbs and chilli, served with sourdough toast at Carmel](../../assets/articles/best-breakfast-brunch-london/carmel-baked-eggs.jpg)
 
-*Served straight from the pan it's cooked in, with charred sourdough to scoop it up.*
+*Carmel's baked eggs.*
 
 **Brunch runs Saturday and Sunday, 10am to 3.30pm** — a long window by London standards, which makes it one of the easier weekend tables to get if you can eat at the edges. Book for the middle of the day, through [the venue's site](https://www.carmelrestaurant.co.uk/).
 
@@ -356,7 +356,7 @@ The **hash brown bao** is the one to order: crispy rösti, shiitake mushrooms, c
 
 ![Two steamed bao buns on small plates, one filled with a crispy fried filling and shredded slaw, the other with braised meat, chilli and coriander](../../assets/articles/best-breakfast-brunch-london/mr-bao.jpg)
 
-*Steamed bao at Mr Bao — nobody else in London is putting a fry-up inside one.*
+*Mr Bao's hash brown bao.*
 
 **Brunch is weekends only, 11am to 4.30pm.** The room is tiny — book ([book a table](https://www.sevenrooms.com/explore/mrbaoryelane/reservations/create/search/)), or go early.
 
@@ -371,7 +371,7 @@ American in the grand sense rather than the diner sense. The **chocolate brioche
 **Brunch runs until 3.30pm on Sundays**, and books through [the venue's site](https://www.christophersgrill.com/). Reopened in late 2025 after a full refurbishment, so photographs older than that show a different room.
 
 ![The Victorian stone entrance of Christopher's on Wellington Street](../../assets/articles/best-breakfast-brunch-london/christopher-s.jpg)
-*The American brunch in a grand Covent Garden townhouse, up a spiral staircase. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3588167076), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Christopher's, Covent Garden. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3588167076), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Esters, Stoke Newington
 
@@ -383,7 +383,7 @@ The menu changes with the season and keeps three fixtures: **Bircher muesli with
 
 ![The shopfront of Esters at 55 Stoke Newington Church Street, a member of staff laying a table inside the window](../../assets/articles/best-breakfast-brunch-london/esters-shopfront.jpg)
 
-*Saturdays only, no bookings and card only: the whole café is the room behind this window.*
+*Esters, Stoke Newington.*
 
 **Small, and no bookings** — this is a walk-in with a queue on Saturday and almost none on a weekday morning. Coffee is taken as seriously as the food.
 
@@ -403,7 +403,7 @@ Prices are published, which is rarer than it should be: avocado toast **£12.80*
 
 ![A breakfast sandwich with egg and cheese on a brioche bun](../../assets/articles/best-breakfast-brunch-london/sunday-in-brooklyn.jpg)
 
-*A New York import in Shoreditch. The pancakes with hazelnut praline are what it is known for. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/51995111426), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Sunday in Brooklyn, Shoreditch. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/51995111426), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### TAB x TAB, Westbourne Grove
 
@@ -416,7 +416,7 @@ The **oat flat white made with Ozone coffee** is what it is known for, alongside
 Small, busy, and geared to people who care which roaster is on. Counter service; it fills mid-morning at weekends and is calm on a weekday.
 
 ![A flat white in a ceramic cup on a wooden tray](../../assets/articles/best-breakfast-brunch-london/tab-x-tab.jpg)
-*A Bayswater café that roasts its own and does the food properly rather than as an afterthought. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/36652781816), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Tab x Tab, Bayswater. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/36652781816), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### The Laundry, Brixton
 
@@ -438,7 +438,7 @@ The **Full Irish** is the headline, but the interesting things are around it: **
 
 ![Slices of Irish brown bread with butter and creamed greens on the table at Inis](../../assets/articles/best-breakfast-brunch-london/inis-brown-bread.jpg)
 
-*The brown bread comes dense and dark, cut thick, with their own butter rather than portioned pats.*
+*Inis's brown bread.*
 
 Open for breakfast, brunch, lunch and a **Sunday lunch**. Worth booking at weekends; on a weekday it is close to empty, which is part of the appeal.
 
@@ -452,7 +452,7 @@ The brunch menu is genuinely inventive rather than decorated — a **crab and 'n
 
 ![A brunch plate of spiced scrambled eggs with roasted tomato halves and sautéed greens at Burnt Arches](../../assets/articles/best-breakfast-brunch-london/burnt-arches-brunch-plate.jpg)
 
-*Roasted tomato halves and sautéed greens sit alongside the spiced eggs, on the café's white plates.*
+*Burnt Arches' spiced eggs.*
 
 **278 Poyser Street, E2. Closed Mondays**, open for coffee and brunch daily otherwise, with dinner four nights a week. Two other Burnt sites exist — Shepherd's Bush and a café inside RADA — so check which one a listing means.
 
@@ -474,7 +474,7 @@ Started as one café in Soho in 2005 and became the most recognisable independen
 
 ![A full breakfast with poached eggs, bacon and beans next to a stack of pancakes with banana and a hot chocolate at The Breakfast Club](../../assets/articles/best-breakfast-brunch-london/the-breakfast-club-pancakes.jpg)
 
-*Pancakes and a full breakfast ordered side by side, with a marshmallow-topped hot chocolate between them.*
+*Pancakes and a full breakfast.*
 
 Covent Garden, Hackney Wick, London Bridge and Croydon among others. **The queues are real at weekends** and most sites do not take bookings — go on a weekday or go early.
 

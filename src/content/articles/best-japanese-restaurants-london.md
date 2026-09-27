@@ -73,7 +73,7 @@ Edomae omakase: nigiri served one piece at a time, the rice at body temperature,
 **Booking opens in windows and goes almost immediately** — set a reminder, refresh, and expect to fail several times. ££££, and there is no walk-in list.
 
 ![The plain frontage of Sushi Tetsu in Clerkenwell](../../assets/articles/best-japanese-restaurants-london/sushi-tetsu.jpg)
-*Seven seats and one chef. Booking is genuinely difficult and the reason people persist is the omakase. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/7670311580), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Sushi Tetsu, Clerkenwell. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/7670311580), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### The Araki, Mayfair
@@ -133,7 +133,7 @@ Kaiseki is a sequence with rules: a set order of preparations — raw, simmered,
 **££££, closed Sunday, and it books weeks ahead.** Seven minutes from Green Park. The most formal Japanese meal in the guide.
 
 ![The wooden frontage and doorway of Umu in Mayfair](../../assets/articles/best-japanese-restaurants-london/umu.jpg)
-*Kyoto-style kaiseki, and one of the most expensive rooms in London to eat in. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2570835137), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Umu, Mayfair. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2570835137), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Engawa, Soho
@@ -173,7 +173,7 @@ The signature is **black cod on a hoba leaf**, grilled over charcoal and served 
 **££££ and it books weeks ahead.** Five minutes from Goodge Street. Ask for a counter seat at the grill — the tables are a lesser version of the same meal.
 
 ![The corner frontage of Roka on Charlotte Street](../../assets/articles/best-japanese-restaurants-london/roka.jpg)
-*Robata grilling around a central counter. Sit at it rather than at a table. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3694773151), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Roka, Fitzrovia. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3694773151), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Zuma, Knightsbridge
@@ -207,7 +207,7 @@ Izakaya plates and robata off the grill, built to be eaten alongside a serious c
 **£££, closed Monday, and book weeks ahead** — it is small and Hampstead has known about it for forty years. Two minutes from Hampstead station.
 
 ![Salmon roe over grated daikon in a ceramic bowl](../../assets/articles/best-japanese-restaurants-london/jin-kichi.jpg)
-*A cramped Hampstead grill house that has been doing charcoal skewers since 1978. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3955871266), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Jin Kichi, Hampstead. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3955871266), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ---

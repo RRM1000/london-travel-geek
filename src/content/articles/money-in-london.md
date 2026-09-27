@@ -54,7 +54,7 @@ British money is the **pound sterling (£)**, in notes of £5, £10, £20 and £
 
 ![A selection of Bank of England polymer banknotes including £5, £20 and £50 notes showing holographic windows and security foil patches](../../assets/articles/money-in-london/british-polymer-banknotes.jpg)
 
-*Bank of England polymer banknotes (£5, £20 and £50) with transparent holographic security windows.*
+*Bank of England polymer banknotes.*
 
 | Note | On the back | | Coin | Legal tender limit |
 | --- | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ This is the phrase visitors misuse most. The Bank of England is blunt about it: 
 
 ![A Transport for London bus shelter poster advertising contactless payment as the safest way to pay](../../assets/articles/money-in-london/tfl-contactless-poster.jpg)
 
-*A Transport for London bus shelter poster promoting contactless payment across the Tube, bus and rail networks.*
+*A TfL contactless poster.*
 
 **American Express** is accepted at most major stores, hotel chains and sit-down restaurants, but noticeably less often at small independents, market stalls and some pubs — Amex's merchant fees run higher than Visa or Mastercard's, and plenty of smaller places simply don't take it. Carry a Visa or Mastercard as backup.
 
@@ -116,7 +116,7 @@ This is the phrase visitors misuse most. The Bank of England is blunt about it: 
 
 ![An artisan bakery stall at Borough Market displaying bread loaves with prices marked in pounds sterling and an ATM kiosk behind](../../assets/articles/money-in-london/borough-market-pricing-stall.jpg)
 
-*Prices displayed in pounds at Borough Market, with an ATM cash machine visible behind the stall.*
+*Prices at a Borough Market stall.*
 
 **London's biggest stadiums and arenas are fully cashless.** [Wembley Stadium](/articles/wembley-stadium-arena-guide/), the [Tottenham Hotspur Stadium](/articles/tottenham-hotspur-stadium-travel-guide/), [The O2 arena and indigo at The O2](/articles/the-o2-travel-guide/), and OVO Arena Wembley take contactless, mobile payment or a venue gift card only, so arrive with a card that works.
 
@@ -175,7 +175,7 @@ Restaurant discount schemes and set menus are a separate way to spend less on th
 
 ![The circular yellow card reader on a London Underground ticket barrier](../../assets/articles/money-in-london/tfl-yellow-card-reader.jpg)
 
-*The familiar yellow reader on a London Underground ticket barrier, where contactless bank cards, phones and Oyster cards touch in and out.*
+*A ticket barrier's card reader.*
 
 **Card skimming is much rarer than it was.** UK Finance credits chip-and-PIN with a 95% drop in counterfeit and cloned-card fraud since 2006. The fraud that has grown instead is remote: UK Finance recorded **£215 million lost to remote purchase fraud in the first half of 2025 alone**. Treat any unexpected request for a banking code — by text, call or email — as suspicious, whoever it claims to be from.
 

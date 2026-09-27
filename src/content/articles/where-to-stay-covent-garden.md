@@ -72,7 +72,7 @@ A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, whi
 
 </div>
 
-*A compact room at the Z Hotel Covent Garden, and its ensuite bathroom with a frosted-glass shower screen.*
+*A room at the Z Hotel Covent Garden.*
 
 ### hub by Premier Inn London Covent Garden — eleven square metres on St Martin's Lane
 
@@ -98,7 +98,7 @@ Practical notes that decide bookings here: **breakfast is £18 a head**, the gym
 
 ![A guest room at the Strand Palace, with two leather armchairs and a table beside the window](../../assets/articles/where-to-stay-covent-garden/strand-palace-room.jpg)
 
-*A guest room at the Strand Palace, with a sitting area beside the window.*
+*A room at the Strand Palace.*
 
 ### Wilde Aparthotels Covent Garden — a kitchen, and a hard ceiling at three people
 
@@ -120,7 +120,7 @@ One booking trap: the building is sold twice on the booking sites, as Wilde Cove
 
 </div>
 
-*One of the Wilde Aparthotels Covent Garden studios: the bed faces a self-contained wood-clad unit holding the storage and ensuite bathroom shown on the right.*
+*A studio at Wilde Aparthotels Covent Garden.*
 
 ### The Londoner — sixteen storeys, six of them underground
 
@@ -136,7 +136,7 @@ Your room key also opens The Residence: three guest-only rooms including a whisk
 
 ![A guest room at the Londoner, with a wall-mounted television, a framed print above the bed and a desk beside the curtained window](../../assets/articles/where-to-stay-covent-garden/the-londoner-room.jpg)
 
-*A guest room at the Londoner, with a desk beside the curtained window.*
+*A room at the Londoner.*
 
 ### The Savoy — where the river view starts at suite level
 
@@ -152,7 +152,7 @@ There is a naturally lit pool, a gym, sauna, steam room and three treatment room
 
 ![A guest room at the Savoy, with heavy drapery, a carved wood headboard and the Thames and London Eye visible through the window](../../assets/articles/where-to-stay-covent-garden/the-savoy-room.jpg)
 
-*A river-facing room at the Savoy, with the London Eye visible across the Thames.*
+*A river-facing suite at the Savoy.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -168,7 +168,7 @@ The direct test of the entire premium, and it is not close. **Z Hotel Holborn is
 
 ![A room at the Z Hotel Holborn, with a built-in wardrobe unit and a tea-and-coffee tray on the desk](../../assets/articles/where-to-stay-covent-garden/z-hotel-holborn-room.jpg)
 
-*A room at the Z Hotel Holborn — the same compact format sold at Covent Garden, for less.*
+*A room at the Z Hotel Holborn.*
 
 What you give up is the piazza on the doorstep and a two-minute walk from the theatre. Kingsway is a wide, dull, well-lit road and the walk is nine minutes at any hour. What you gain is **Holborn station, which adds the Central line** to the Piccadilly — considerably faster for the City, Stratford and the east. The [Hoxton Holborn](hotel:the-hoxton-holborn) is up the road at about £190 if you want the design-hotel version rather than the cheap one, and the British Museum is ten minutes north.
 
@@ -180,7 +180,7 @@ What you give up is the piazza on the doorstep and a two-minute walk from the th
 
 </div>
 
-*A room at the Hoxton Holborn with illustrated wallpaper and a round backlit mirror, and its subway-tiled ensuite bathroom.*
+*A room at the Hoxton Holborn.*
 
 ### The South Bank and Bankside — over the bridge, and the walk back is the point
 
@@ -194,7 +194,7 @@ What you give up is the piazza on the doorstep and a two-minute walk from the th
 
 </div>
 
-*A citizenM London Bankside room and its ensuite bathroom, open to each other through a glass partition.*
+*A room at citizenM London Bankside.*
 
 <div class="photo-row">
 
@@ -204,7 +204,7 @@ What you give up is the piazza on the doorstep and a two-minute walk from the th
 
 </div>
 
-*A room at Premier Inn London County Hall, set up as a family twin with a travel cot, and its bathroom.*
+*A room at Premier Inn London County Hall.*
 
 <div class="photo-row">
 
@@ -214,7 +214,7 @@ What you give up is the piazza on the doorstep and a two-minute walk from the th
 
 </div>
 
-*A dorm room at St Christopher's Village, where curtains close off each bunk, and the shared bathroom down the hall.*
+*A dorm at St Christopher's Village.*
 
 Waterloo Bridge is ten minutes from the piazza on foot and the view from the middle of it is the best free thing in central London. That is the real argument for staying south: you are not saving a fortune, you are swapping a nightly premium for a walk home along the river rather than through Leicester Square.
 
@@ -232,7 +232,7 @@ Ten minutes north of the piazza the market changes completely, and it is covered
 
 </div>
 
-*A dorm room at Generator London, and the shared bathroom facilities down the hall.*
+*A dorm at Generator London.*
 
 <div class="photo-row">
 
@@ -242,7 +242,7 @@ Ten minutes north of the piazza the market changes completely, and it is covered
 
 </div>
 
-*A room at the Treehouse Hotel London, with a window seat over the skyline, and the bathroom's birch-branch feature wall.*
+*A room at the Treehouse Hotel London.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

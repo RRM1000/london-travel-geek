@@ -47,7 +47,7 @@ This page is not our opinion. Every venue is ranked by how many independent list
 
 ![A cup of thick Italian hot chocolate dusted with cocoa, the cup lined with melted chocolate that has run down the outside and pooled on the saucer](../../assets/articles/best-hot-chocolate-london/italian-bear-chocolate-cup.webp)
 
-*The chocolate is not only in the cup — it is painted round the inside and left to run down the outside. This is what "overflowing" means here.*
+*Italian Bear's hot chocolate.*
 
 **41 Broadwick Street, W1F 9QL.** The thick Italian style, poured in three layers so the cup arrives striped, and dense enough that it behaves more like warm ganache than a drink. From **£4.90**. One reviewer's description — "poured triple-layered and overflowing" — is the whole proposition.
 
@@ -67,7 +67,7 @@ It is a narrow shop with a handful of stools rather than a café, so most people
 
 ![Two takeaway cups from Dark Sugars Cocoa House piled high with chocolate shavings, standing on a wooden counter scattered with fallen curls of chocolate](../../assets/articles/best-hot-chocolate-london/dark-sugars-cocoa-house.jpg)
 
-*Grated to order and piled until the first inch of the cup is solid shavings rather than liquid.*
+*Dark Sugars' hot chocolate.*
 
 **141 Brick Lane, E1 6SB.** Chocolate is grated over frothed milk in front of you and the cup arrives buried under shavings — three kinds, piled high enough that the first inch is solid. The shop makes 72 of its own chocolates and works with Ghanaian cocoa, and Time Out's line is that you smell it before you see it.
 
@@ -79,7 +79,7 @@ Standing room only, with truffles heaped in mango-leaf bowls along the counter. 
 
 ![A paper cup of hot chocolate topped with a fist-sized marshmallow, blowtorched until charred and slumping over the rim, with a branded chocolate tag pushed into it](../../assets/articles/best-hot-chocolate-london/chin-chin-blowtorched-marshmallow.webp)
 
-*Ten seconds under a blowtorch is the whole show. The marshmallow is bigger than the cup and does not stay upright for long.*
+*The blowtorched marshmallow at Chin Chin.*
 
 **54 Greek Street, W1D 3DS.** A paper cup topped with a handmade marshmallow the size of a fist, blowtorched at the counter until it chars and slumps. **£4.95**, with a vegan version done in raspberry and apricot. The same kitchen makes nitrogen ice cream, which is what the shop is better known for.
 
@@ -91,9 +91,9 @@ Tiny, loud and built for a queue rather than a sit-down. **The blowtorching is t
 
 ![A Knoops iced chocolate in a branded clear cup with a striped paper straw, on a light wood table](../../assets/articles/best-hot-chocolate-london/knoops-iced-chocolate.webp)
 
-*The same percentages are sold iced, which is the version to know about in summer — order it exactly the way you would the hot one.*
+*A Knoops iced chocolate.*
 
-**2 New Row, WC2N 4LH.** You order by number, not by flavour: its own menu runs **nine cocoa percentages — 28, 34, 38, 43, 54, 65, 70, 80 and 100%** — and the same drink tastes like four different things across that range. From **£4**. Ask for 70% if you have no idea; 100% is genuinely bitter and not a beginner's cup.
+**2 New Row, WC2N 4LH.** You order by number, not by flavour: its own menu runs **nine cocoa percentages — 28, 34, 38, 43, 54, 65, 70, 80 and 100%** — and the same drink tastes like four different things across that range. From **£4**. Ask for 70% if you have no idea; 100% is genuinely bitter and not a beginner's cup. The same percentages are sold iced too, which is worth knowing in summer.
 
 Small, bright and counter-led, with a few seats. **Five London stores** — Chelsea, Covent Garden, Kensington, Knightsbridge and Notting Hill — so this is the one you can reach from most of west and central London.
 
@@ -119,7 +119,7 @@ A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday a
 
 ![A glass display case of Melt's own chocolates — sea salt squares, fruit truffles and foil-wrapped brownies stacked in branded trays](../../assets/articles/best-hot-chocolate-london/melt-chocolates.jpg)
 
-*Boxed chocolates and truffles are the main counter here — the hot chocolate is poured from the same stock a few feet behind it.*
+*Melt's chocolate counter.*
 
 **59 Ledbury Road, W11 2AA.** A working chocolate kitchen with the counter at the front, so the drink is made from the same chocolate being tempered a few feet behind it. Boxed chocolates, slabs and hampers are the main business — the shop sorts its gifting by price, from under £25 upwards — and the hot chocolate is what you drink while choosing them.
 
@@ -131,7 +131,7 @@ A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday a
 
 ![Three glass mugs of thick Badiani hot chocolate topped with whipped cream and chocolate shavings, on branded napkins at an outdoor table](../../assets/articles/best-hot-chocolate-london/badiani-covent-garden.jpg)
 
-*Thick enough to need a spoon under the cream, and served in glass rather than a paper cup if you sit outside.*
+*Badiani's hot chocolate.*
 
 **2 Mercer Walk, WC2H 9QP.** A Florentine gelateria trading since 1932, whose hot chocolate comes out thick and dessert-like — no surprise from a business built on gelato rather than on drinks. The cocoa is the cold-weather line here, not the reason the counter is busy in July.
 

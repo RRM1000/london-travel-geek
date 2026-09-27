@@ -184,7 +184,7 @@ It is the most-recommended London hostel in our community research by a distance
 
 </div>
 
-*A dorm at Wombat's and its en-suite bathroom — the fitting that sets it apart from every other hostel in this guide.*
+*Wombat's dorm and en-suite bathroom.*
 
 ### St Christopher's — four sites, and they are not the same hostel
 
@@ -200,7 +200,7 @@ St Christopher's runs **four London hostels**: The Inn and The Village on Boroug
 
 </div>
 
-*A pod-style dorm at St Christopher's Village, and its roof terrace under the Shard.*
+*St Christopher's Village: dorm and roof terrace.*
 
 **Liverpool Street** is the quiet answer of the four: female-only dorms with female-only bathrooms, privacy curtains and lockers in the female rooms, **air conditioning**, key card access to rooms, charging points at every bed and work-friendly desks.
 
@@ -212,7 +212,7 @@ St Christopher's runs **four London hostels**: The Inn and The Village on Boroug
 
 </div>
 
-*A bedside setup and one of the shared bathrooms at St Christopher's Liverpool Street.*
+*St Christopher's Liverpool Street: room and bathroom.*
 
 The four branches draw sharply different reviews, and the Village in particular collects both "exceptionally clean" and, from a different traveller, one of the worst write-ups of any hostel on this page. Read recent reviews for the specific branch, not the brand.
 
@@ -224,7 +224,7 @@ Strict 18+, no exceptions. Check-in is **4pm** and check-out **10am**: a late ch
 
 ![One of Clink 261's dorms, with red privacy screens between bunks and a skylight over the room](../../assets/articles/best-hostels-london/clink261-dorm.jpg)
 
-*One of Clink 261's dorms, with privacy screens between the pod beds and a skylight overhead.*
+*One of Clink 261's dorms.*
 
 ### [Generator London King's Cross](hotel:generator-london) — the cheapest, and it says why
 
@@ -236,7 +236,7 @@ Note the rebrand: it is now **Generator London King's Cross**, and a second site
 
 ![A dorm room at Generator London, with a white-framed bunk bed against an orange geometric mural wall](../../assets/articles/best-hostels-london/generator-london-dorm.jpg)
 
-*A dorm room at Generator London, against one of the hostel's painted mural walls.*
+*A dorm at Generator London.*
 
 ### Kabannas London St Pancras — the one that used to be YHA
 
@@ -312,7 +312,7 @@ Holland Walk, W8 7QU. A listed building standing in the East Wing of a Jacobean 
 
 </div>
 
-*A dorm at Safestay London Kensington Holland Park, and its attached bathroom.*
+*Safestay Kensington: dorm and bathroom.*
 
 ### [Barmy Badger Backpackers](hotel:barmy-badger-backpackers) — the small one
 
@@ -330,7 +330,7 @@ Small enough that it fills early, and the opposite end of the scale from the two
 
 </div>
 
-*A bunk room and one of the bathrooms at Barmy Badger Backpackers.*
+*Barmy Badger: bunk room and bathroom.*
 
 <div data-stay-strip></div>
 
@@ -346,7 +346,7 @@ It draws the most enthusiastic writing of any hostel in our community research �
 
 ![One of the curtained pod-style bunks at Onefam Notting Hill, each bed numbered and fitted with its own curtain](../../assets/articles/best-hostels-london/onefam-notting-hill-dorm.jpg)
 
-*One of the curtained pod-style bunks at Onefam Notting Hill.*
+*A pod-style bunk at Onefam Notting Hill.*
 
 ### [Urbany Hostel London](hotel:urbany-hostel-london) — read the age line first
 

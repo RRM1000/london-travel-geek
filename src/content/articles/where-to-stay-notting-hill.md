@@ -66,7 +66,7 @@ Five Grade II-listed Victorian townhouses on the street beside the station. It i
 
 </div>
 
-*A double with a tall sash window and a record player on the desk, and a bathroom with a freestanding bath under a window of its own.*
+*A double at The Laslett.*
 
 Rooms are named like a house's: **Spare Room Singles of 16 square metres**, Spare Room Doubles of 18 to 19, Doubles of 19 to 22, and Master Bedrooms and Suites of 22 to 34. Connecting rooms can be booked, and a cot or single bed fits the Master Bedroom Double or Suite. Reception is 24 hours. Dogs are £30, donated to charity. There is no parking.
 
@@ -78,7 +78,7 @@ Ruby calls its format Lean Luxury: compact rooms, with the money spent on the be
 
 ![A room at Ruby Zoe with a white platform bed crossed by a red ribbon, dark slatted wood panelling behind the bed and TV, a rattan armchair by a wide curtained window and a Marshall guitar amp on the floor](../../assets/articles/where-to-stay-notting-hill/ruby-zoe-room.jpg)
 
-*A double with a Marshall amp beside the bed and a rattan chair at the window: the music theme reaches the rooms, not just the bar.*
+*A room at Ruby Zoe.*
 
 ### The Lost Poet — four rooms at the top of Portobello Road
 
@@ -94,7 +94,7 @@ A Victorian townhouse at the Notting Hill Gate end of the market, with four room
 
 </div>
 
-*The reclaimed lab panelling lines a seating nook with a velvet banquette; the bathroom shown has a freestanding slipper bath under a sash window.*
+*A room at The Lost Poet.*
 
 It runs like a guest house: **check-in is online with keyless entry, and staff are on site from 8am to 6pm only**, with phone support outside those hours. The stairs are narrow and there is no lift; The Quarters, on the ground floor facing Portobello Road, is the room for anyone who can't manage them. The Suite is on the lower level, 20 square metres with its own patio. **Children must be 12 or over.**
 
@@ -116,7 +116,7 @@ Rooms are graded Good (15 square metres, at the front on the ground and second f
 
 </div>
 
-*The Best Room, the hotel's top grade, with the round bed and its bath in the bedroom. The bathroom photo is from another room.*
+*The Best Room, the hotel's top grade. The bathroom photo is from another room.*
 
 Two rules decide it:
 
@@ -139,7 +139,7 @@ A Cubitt House pub off Westbourne Grove, with four bedrooms upstairs named after
 
 </div>
 
-*A double with a buttoned headboard, and a bath that stands in the bedroom, a step from the bed.*
+*A double at The Princess Royal.*
 
 ### Vancouver Hotel and Studios — a 1920s family hotel with kitchenettes
 
@@ -157,7 +157,7 @@ For a group, the **three-bedroom, two-bathroom garden apartment sleeps six from 
 
 </div>
 
-*A double with a daybed, and a compact tiled en-suite.*
+*A room at Vancouver Hotel and Studios.*
 
 ### Space Apart Hotel — studios with kitchens, two nights minimum
 
@@ -167,7 +167,7 @@ Serviced studios on a garden square, each with a kitchen. Rates are published be
 
 ![A shower room at Space Apart Hotel with a square white basin, cream tiles, chrome fittings and a walk-in shower behind a glass door](../../assets/articles/where-to-stay-notting-hill/space-apart-hotel-bathroom.jpg)
 
-*A studio's shower room, with a walk-in shower behind a glass door.*
+*A studio's shower room.*
 
 ### Garden Court Hotel — a 1954 hotel with rooms for four
 
@@ -183,7 +183,7 @@ A hotel since 1954, in a listed Victorian house on the same square. It sells sin
 
 </div>
 
-*A twin with a cast-iron fireplace, and a corner shower in the en-suite.*
+*A twin at Garden Court Hotel.*
 
 ### Onefam Notting Hill — the hostel with a free dinner
 
@@ -193,7 +193,7 @@ A hostel run around a **free family dinner every evening**, plus a daily outing 
 
 ![A dorm at Onefam Notting Hill with wood-panelled bunk beds with dark curtains on each side, blue lockers by the door and a sash window onto the stucco houses of Prince's Square](../../assets/articles/where-to-stay-notting-hill/onefam-notting-hill-room.jpg)
 
-*A dorm of curtained bunks with a locker for each bed, looking onto the square.*
+*A dorm at Onefam Notting Hill.*
 
 ### Urbany Hostel London — ages 18 to 40 only
 
@@ -209,7 +209,7 @@ On the same square as Onefam, from a Barcelona hostel group. **The London hostel
 
 </div>
 
-*The private double, and the shared showers that everyone uses, private rooms included: curtained cubicles rather than lockable rooms.*
+*The private double at Urbany, and the shared showers.*
 
 ## Hotels by Queensway and Inverness Terrace
 
@@ -227,7 +227,7 @@ On the same square as Onefam, from a Barcelona hostel group. **The London hostel
 
 </div>
 
-*A room looking out to the dome of the old department store. The bath photo is from a larger room, where the bath stands in the bedroom behind a glass screen.*
+*A room at Six Senses. The bath photo is from a larger room, with the bath in the bedroom behind a glass screen.*
 
 ### Grand Royale Hyde Park — the Edwardian one on the corner
 
@@ -243,7 +243,7 @@ A four-star from the Montcalm Collection at the Bayswater Road end of Inverness 
 
 </div>
 
-*A double. The bathroom photo is from a suite, with a claw-foot bath and an arched walk-in shower under a chandelier.*
+*A double. The bathroom photo is from a suite.*
 
 ### Blakemore Hyde Park — family suites on Leinster Gardens
 
@@ -259,7 +259,7 @@ A four-star on a residential street between Queensway and Paddington. Club Rooms
 
 </div>
 
-*A room with a seating area under a chandelier, and a bath with a rain shower over it and a TV in the wall.*
+*A room at Blakemore Hyde Park.*
 
 ### Inhabit, Queen's Gardens — the wellness one
 
@@ -275,7 +275,7 @@ A four-star on a residential street between Queensway and Paddington. Club Rooms
 
 </div>
 
-*A small double, where the bed runs wall to wall. The bath photo is from one of the larger rooms.*
+*A small double. The bath photo is from a larger room.*
 
 ## Hotels at Lancaster Gate
 
@@ -295,7 +295,7 @@ Rooms are small at the bottom and generous at the top: singles and small doubles
 
 </div>
 
-*A family room with two doubles and tall sash windows, and one of the 1970s bathrooms, avocado basin and all.*
+*A family room at The Columbia, and one of its 1970s bathrooms.*
 
 ### Royal Lancaster London — 411 rooms on the park edge
 
@@ -311,7 +311,7 @@ A tower opened in 1967 on the edge of the park, opposite the Italian Gardens, an
 
 </div>
 
-*A double with a city view from the tower. The bathroom photo is from a suite, with a bath, a separate shower and a view over the park.*
+*A double with a view from the tower. The bathroom photo is from a suite.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-notting-hill-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored nofollow noopener" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

@@ -151,15 +151,15 @@ Banksy put up nine animal works across London over nine days in August 2024. **S
 
 ![Banksy's stencilled goat balanced on a ledge above a stone plinth, protected behind a screwed-down perspex sheet, on a building near Kew Bridge](../../assets/articles/london-street-art/banksy-goat-kew-bridge.jpg)
 
-*The goat in place near Kew Bridge in August 2024, already under protective perspex. It was cut out of the wall six months later and has not reappeared.*
+*The goat near Kew Bridge.*
 
 ![Banksy's piranha shoal stencilled onto the glass of a police sentry box in Guildhall Yard, City of London, tinted blue to look like an aquarium](../../assets/articles/london-street-art/banksy-piranhas-guildhall-yard.jpg)
 
-*The piranhas at Guildhall Yard, where the City of London Corporation put the sentry box on public view behind barriers after relocating it from its original spot on Ludgate Hill. It has since gone into storage ahead of permanent display at the new London Museum.*
+*The piranhas at Guildhall Yard.*
 
 ![Market stalls filling Brick Lane beneath a railway bridge, with three monkeys stencilled on the concrete above them](../../assets/articles/london-street-art/banksy-monkeys-brick-lane.jpg)
 
-*The monkeys on the Brick Lane railway bridge, photographed on 11 August 2024, days after they appeared. Transport for London removed them that December.*
+*The monkeys on Brick Lane railway bridge.*
 
 | The work | Where | What is there now |
 | --- | --- | --- |

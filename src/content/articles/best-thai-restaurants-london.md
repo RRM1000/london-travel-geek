@@ -96,7 +96,7 @@ Isaan is the north-east: sour, salty and hot rather than sweet and coconut-heavy
 
 ![Fried fishcakes on blue-and-white patterned china beside a plate of spring rolls with sweet chilli dipping sauce, a cucumber and peanut relish and a carved carrot garnish, on a patterned tablecloth](../../assets/articles/best-thai-restaurants-london/esarn-kheaw.jpg)
 
-*The starters, on the china and the tablecloth the room has used for thirty years. The som tam is what to come for, but this is what the place looks like.*
+*Starters at Esarn Kheaw.*
 
 ### Som Saa, Spitalfields
 
@@ -110,14 +110,14 @@ The **deep-fried whole seabass** with herbs has survived every menu change since
 
 ![A red curry with beef, Thai aubergines, pea aubergines, whole red chillies and holy basil in a rough stoneware bowl, with a copper spoon and a glass of beer on the table](../../assets/articles/best-thai-restaurants-london/som-saa.jpg)
 
-*Regional Thai cooking in a Spitalfields warehouse, and hotter than most London Thai food dares to be. The whole red chillies in the bowl are not a garnish.*
+*A red curry at Som Saa.*
 
 ### Khun Pakin Thai, Hammersmith
 
 *££ · inside The Salutation, 154 King Street* · Cited by 2 sources
 
 ![A plate of stir-fried rice noodles with prawns, bean sprouts, egg and crushed peanuts](../../assets/articles/best-thai-restaurants-london/khun-pakin-thai.jpg)
-*Thai food out of a pub kitchen, inside The Salutation on King Street.*
+*Khun Pakin, inside The Salutation.*
 
 **Thai food out of a pub kitchen** — which in London usually means a bad green curry, and here means fierce Isaan cooking with no adjustment for the room it is in.
 
@@ -137,7 +137,7 @@ Two regional traditions on one menu: the sour-hot **Isaan** dishes — som tam, 
 
 ![A shared table of pad thai with prawns and lime, stir-fried morning glory, fried soft-shell crab, jasmine rice and a dark curry, on a pine table with yellow-rimmed plates](../../assets/articles/best-thai-restaurants-london/101-thai-kitchen.jpg)
 
-*Ordering across both traditions in one sitting, which is the point of the place — the curry on the right and the Isaan dishes on the left, on a plain pine table.*
+*A shared table at 101 Thai Kitchen.*
 
 ---
 
@@ -152,7 +152,7 @@ Richer and hotter than the north-east, with more coconut, turmeric and seafood, 
 *££ · Centre Point, Borough Yards and Covent Garden* · Cited by 5 sources
 
 ![A shared spread of fried eggs, a minced meat stir-fry, a pot of yellow curry, jasmine rice and iced tea on a blue floral cloth](../../assets/articles/best-thai-restaurants-london/plaza-khao-gaeng.jpg)
-*A raan khao gaeng: you choose from what is already cooked, and it comes over rice.*
+*A raan khao gaeng at Plaza Khao Gaeng.*
 
 **The most doctrinaire Southern kitchen in London**, and the format is the point: a *raan khao gaeng*, a curry-over-rice shop, where you choose from what is already cooked rather than ordering à la carte.
 
@@ -205,7 +205,7 @@ The **fish sauce wings** are the dish everyone orders and the one to judge it on
 **£££ and it books weeks ahead.** A minute from Shoreditch High Street. Come for an evening rather than a meal.
 
 ![The corner frontage of Smoking Goat in Shoreditch](../../assets/articles/best-thai-restaurants-london/smoking-goat.jpg)
-*Thai barbecue and a lot of noise. The chicken wings are the thing. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=174581316), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Smoking Goat, Shoreditch. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=174581316), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Kolae, Borough
@@ -220,14 +220,14 @@ The signature is **kolae chicken**, the dish the restaurant is named after: butt
 
 ![A rich orange coconut curry in a fluted stoneware bowl, beside a bowl of red rice and a dish of greens with whole red chilli](../../assets/articles/best-thai-restaurants-london/kolae.jpg)
 
-*Not the kolae chicken — the coconut curry alongside it, with red rice. Southern Thai cooking runs richer and hotter than the Bangkok food most Londoners know.*
+*Not the kolae chicken — the curry beside it.*
 
 ### Speedboat Bar, Chinatown and Notting Hill
 
 *££ · pool tables* · Cited by 4 sources
 
 ![A metal pot of orange-red soup with prawns, crisp pork belly, a raw egg yolk, lime slices and coriander](../../assets/articles/best-thai-restaurants-london/speedboat-bar.jpg)
-*Thai-Chinese cooking from Bangkok's Yaowarat district, built to be eaten with beer rather than wine.*
+*A dish at Speedboat Bar.*
 
 Built to feel like a **late-night Bangkok Chinatown canteen** — strip lights, football on the screens, **pool tables** — and the curries are good enough that it was ranked the fourth best restaurant in London.
 
@@ -235,11 +235,11 @@ The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle 
 
 **££ and it books weeks ahead.** Three minutes from Piccadilly Circus. Go as a group and order across the whole menu.
 
-**There are now two.** A second Speedboat Bar opened in July 2025 at **191 Portobello Road** in Notting Hill, inside Soho House's Electric House, with the same Luke Farrell menu. It runs Sunday to Thursday noon to 11pm (last food 9.45pm) and Friday and Saturday noon to 1am (last food 12.15am) — later than almost anything else in Notting Hill, and the reason to keep it in mind after Portobello Road shuts.
+**There are now two.** A second Speedboat Bar opened in July 2025 at **191 Portobello Road** in Notting Hill, inside Soho House's Electric House, with the same Luke Farrell menu. It runs Sunday to Thursday noon to 11pm (last food 9.45pm) and Friday and Saturday noon to 1am (last food 12.15am) — later than almost anything else in Notting Hill, and the reason to keep it in mind after Portobello Road shuts. Pavement tables are first come, first served.
 
 ![The Speedboat Bar frontage at Electric House on Portobello Road, Thai signage and red paper lanterns over pavement tables with red stools](../../assets/articles/best-thai-restaurants-london/speedboat-bar-notting-hill.jpg)
 
-*Speedboat Bar at The Electric, 191 Portobello Road. The pavement tables are first come, first served.*
+*Speedboat Bar, at The Electric.*
 
 **You do not need to be a Soho House member.** Electric House is a members' club and the restaurant sits inside it, which puts people off, but Speedboat takes public bookings and walk-ins through its own site like any other restaurant. Worth knowing, because nothing on the door says so.
 
@@ -273,7 +273,7 @@ Rob Willcox and Josh Lyons met at Farang and opened in **August 2025** in the Pe
 
 ![Fried chicken pieces beside a green papaya salad with cherry tomatoes, on a dark plate](../../assets/articles/best-thai-restaurants-london/kruk.jpg)
 
-*The fried chicken with prickly ash and fish sauce glaze — the order at Kruk.*
+*The fried chicken at Kruk.*
 
 ### Khao So-i, Fitzrovia
 
@@ -300,7 +300,7 @@ The menu changes constantly and leans northern: **grilled meats, jungle curry, w
 *£££ · 168 Bellenden Road* · Cited by 5 sources
 
 ![A whole fried fish under coriander, shredded ginger and sliced shallots in a dark sauce, on a blue and white plate](../../assets/articles/best-thai-restaurants-london/the-begging-bowl.jpg)
-*Northern Thai in Peckham, in dishes meant to be ordered across the table and shared.*
+*A dish at The Begging Bowl.*
 
 **Jane Alty trained under David Thompson** — the Australian chef who did more than anyone to document real Thai cooking — **and cooks northern Thai in Peckham**, in small plates meant to be ordered across the table.
 

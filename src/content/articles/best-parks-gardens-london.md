@@ -72,7 +72,7 @@ The ponds charge a small fee and are open all year, including winter, when the w
 
 ![Dense woodland and shrubbery near the Hill Garden and Pergola on Hampstead Heath](../../assets/articles/best-parks-gardens-london/hampstead-heath-woodland.jpg)
 
-*The planting around the Hill Garden and Pergola spreads well beyond the walkway itself.*
+*The Hill Garden and Pergola, Hampstead Heath.*
 
 ### Regent's Park
 
@@ -88,7 +88,7 @@ Primrose Hill is technically separate and just to the north, and its view south 
 
 ![A flowerbed of white and near-black tulips in Regent's Park, with people walking behind](../../assets/articles/best-parks-gardens-london/regents-park-tulips.jpg)
 
-*The Outer Circle flowerbeds in late April — Queen Mary's Gardens further in have the bigger rose display, but this is the first colour of the year.*
+*Tulips in Regent's Park.*
 
 <div data-stay-strip></div>
 
@@ -114,7 +114,7 @@ The view from the General Wolfe statue is free and sits outside the ticketed Obs
 
 ![Greenwich Park in spring, looking down the grass slope over the Old Royal Naval College to Canary Wharf and the O2 under a clear blue sky](../../assets/articles/best-parks-gardens-london/greenwich-park-spring.jpg)
 
-*The view down the hill from near the Observatory — the Queen's House and Naval College below, Canary Wharf and the O2 beyond.*
+*The view from Greenwich Park.*
 
 ### Kensington Gardens
 
@@ -124,11 +124,11 @@ Quieter and more formal than Hyde Park next door, and easy to treat as the same 
 
 ![The still, fountain-fed pool of the Italian Gardens in Kensington Gardens, reflecting clouds](../../assets/articles/best-parks-gardens-london/kensington-gardens-italian-gardens.jpg)
 
-*The Italian Gardens at the Lancaster Gate end — a Victorian water garden rather than anything actually Italian.*
+*The Italian Gardens, Kensington Gardens.*
 
 ![Geese, ducks and a swan lined up on the gravel shore of the Serpentine](../../assets/articles/best-parks-gardens-london/serpentine-birds.jpg)
 
-*The Serpentine's shore, which straddles Hyde Park and Kensington Gardens.*
+*The Serpentine, Kensington Gardens.*
 
 The Round Pond and the Diana Memorial Playground are the two things families come back for.
 
@@ -140,7 +140,7 @@ The most central of the royal parks, running from Buckingham Palace to Horse Gua
 
 ![A flowerbed of red and pink tulips and wallflowers in St James's Park](../../assets/articles/best-parks-gardens-london/st-james-park-tulips.jpg)
 
-*The bedding along The Mall side of the park changes with the season - this is late April.*
+*Flowerbeds in St James's Park.*
 
 The bridge over the lake gives the postcard view of Buckingham Palace one way and the Horse Guards rooftops the other.
 
@@ -166,7 +166,7 @@ A 186-acre former Rothschild estate, and most of it is given over to sports pitc
 
 ![The small castellated Gothic Ruins folly on a lawn at Gunnersbury Park](../../assets/articles/best-parks-gardens-london/gunnersbury-park-gothic-ruins.jpg)
 
-*The Gothic Ruins, a Grade II listed folly built on the edge of what was once a Japanese garden. It is a five-minute walk from the mansion, not the sports fields.*
+*The Gothic Ruins, Gunnersbury Park.*
 
 ### St Dunstan in the East, City of London
 
@@ -180,7 +180,7 @@ Wren rebuilt the church after the Great Fire; it was gutted again in 1941, and t
 
 ![The Gothic window tracery of St Dunstan in the East standing roofless, with ivy growing over the walls and planting along the base](../../assets/articles/best-parks-gardens-london/st-dunstan-in-the-east.jpg)
 
-*The windows survived; the roof did not. The City chose to plant the shell rather than rebuild it.*
+*St Dunstan in the East.*
 
 ### Postman's Park, City of London
 
@@ -236,7 +236,7 @@ Three hundred acres of botanic garden with the Victorian Palm House, the Tempera
 
 ![The curved glass and iron Palm House at Kew Gardens, framed by lawns and formal flowerbeds](../../assets/articles/best-parks-gardens-london/kew-palm-house.jpg)
 
-*The Palm House, completed in 1848 to a design by Decimus Burton and Richard Turner - the largest glasshouse of its kind in the world when it was built.*
+*The Palm House, Kew Gardens.*
 
 ### Chelsea Physic Garden
 
@@ -244,7 +244,7 @@ Three hundred acres of botanic garden with the Victorian Palm House, the Tempera
 
 ![A spiral of rusted steel bands engraved with names, wound around a small tree at the Chelsea Physic Garden, with autumn borders of purple monkshood and verbena in front and a red-brick house beyond the wall](../../assets/articles/best-parks-gardens-london/chelsea-physic-garden.jpg)
 
-*The walled four acres on the Embankment. The brick and the river together make it the warmest corner of London, which is why things fruit here that fruit nowhere else in the city.*
+*Chelsea Physic Garden.*
 
 Founded by the Apothecaries in **1673 to grow medicinal plants**, and still growing 5,000 of them behind a high wall on the Embankment. It is the oldest botanic garden in London.
 
@@ -296,7 +296,7 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 
 ![The Kyoto Garden in Holland Park, with a stone lantern beside a still pond and Japanese maples](../../assets/articles/best-parks-gardens-london/kyoto-garden-holland-park.jpg)
 
-*A gift from the Chamber of Commerce of Kyoto in 1991. Free, and easy to miss inside the much larger Holland Park.*
+*The Kyoto Garden, Holland Park.*
 * **Hampstead Heath's swimming ponds** — the mixed pond is free at quiet times, the single-sex ponds charge a small fee.
 * **Sky-high views** from Primrose Hill, Parliament Hill and Alexandra Palace, all covered in our views guide, all free.
 * **Deckchairs in the royal parks** are the one thing that catches people out — they are hired, not free, and the attendant will find you.

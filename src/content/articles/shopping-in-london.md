@@ -156,13 +156,13 @@ This is where Londoners actually shop.
 
 ![The glazed Victorian roof and painted ironwork of Leadenhall Market](../../assets/articles/shopping-in-london/leadenhall-market.jpg)
 
-*Leadenhall is a shopping arcade you visit for the architecture — it empties at the weekend, which is when it looks best.*
+*Leadenhall Market.*
 
 **Portobello deserves the warning in bold.** It is famous for antiques and the antiques are **Saturday only**. Arrive before 10am — by midday the northern end is impassable. The rest of the week it is a good general market and a poor antiques one.
 
 ![Stalls and browsing shoppers under the roof at Old Spitalfields Market](../../assets/articles/shopping-in-london/old-spitalfields-market.jpg)
 
-*Spitalfields runs every day, which makes it the reliable one when you have got the day wrong somewhere else.*
+*Old Spitalfields Market.*
 
 **[The full markets guide →](/articles/best-london-markets/)**
 
@@ -172,7 +172,7 @@ This is where Londoners actually shop.
 
 London is one of the best cities in Europe for this, and prices span an enormous range.
 
-* **Camden** — the biggest concentration. **Stables Market** is the serious end; expect **£15–£60** for a decent piece, more for branded denim or leather.
+* **Camden** — the biggest concentration. **Stables Market** is the serious end; expect **£15–£60** for a decent piece, more for branded denim or leather. Go on a weekday if you want to actually look at things — weekends are packed.
 * **Brick Lane Vintage Market** — the biggest vintage market in London, in the basement of the **Old Truman Brewery** at F Block, 85 Brick Lane. Dozens of independent traders under one roof, covering the **1920s through to the 1990s**: denim, leather, men's suits, fur coats, bridal, vinyl and accessories. **Open seven days a week** — Mon–Fri 11am–6.30pm, Sat 11am–6pm, Sun 10am–6pm — which makes it the one vintage stop you can do on a weekday, when it is far calmer.
 * **Brick Lane on a Sunday** — the wider stretch adds Upmarket, Backyard Market and the Truman yards, and **kilo sales** (buy by weight) run regularly. Cheapest way in, and busiest by a distance.
 * **Beyond Retro**, **Rokit** and **Blitz** — the reliable chains, Dalston and Shoreditch.
@@ -181,7 +181,7 @@ London is one of the best cities in Europe for this, and prices span an enormous
 
 ![Rails of vintage clothing at a Camden market stall](../../assets/articles/shopping-in-london/camden-vintage-clothing.jpg)
 
-*Camden is the volume option. Go on a weekday if you want to actually look at anything.*
+*Camden Market.*
 
 ---
 
@@ -209,7 +209,7 @@ Different proposition from the malls above: **last season's stock at a discount*
 
 ![The entrance to the London Designer Outlet at Wembley Park, giant gold LDO letters on the pavement in front of the sign, with Amorino and Holland & Barrett either side of the doors](../../assets/articles/shopping-in-london/london-designer-outlet.jpg)
 
-*The Wembley Park entrance. The restaurants on the balcony above the doors are the twenty-odd places to eat, which is what makes this one workable for a whole afternoon rather than an hour.*
+*The London Designer Outlet, Wembley Park.*
 
 **Icon Outlet at The O2**, North Greenwich — smaller and more central-feeling, wrapped around the inside of the O2 alongside the bars and restaurants. Ted Baker, Hackett, Gap, Levi's and Dune among others, **open daily 10am–8pm**, and a straight run on the Jubilee line to North Greenwich.
 
@@ -249,9 +249,9 @@ Different proposition from the malls above: **last season's stock at a discount*
 
 ![A cheese stall at Borough Market with wheels of cheese stacked behind the counter](../../assets/articles/shopping-in-london/borough-market-cheese-stall.jpg)
 
-*Neal's Yard and Borough will vacuum-pack cheese for travel if you ask — say you are flying.*
+*Borough Market's cheese counter.*
 
-> ⚠️ **Check what you can take home.** Meat and dairy have restrictions entering many countries, including the EU and the US. Cheese is fine for most of Europe and **not permitted into the United States** in many forms. Ask the stall, and check your own country's rules before you buy £40 of Stilton.
+> ⚠️ **Check what you can take home.** Meat and dairy have restrictions entering many countries, including the EU and the US. Cheese is fine for most of Europe and **not permitted into the United States** in many forms. Neal's Yard and Borough will vacuum-pack cheese for travel if you ask — say you are flying. Ask the stall, and check your own country's rules before you buy £40 of Stilton.
 
 ---
 

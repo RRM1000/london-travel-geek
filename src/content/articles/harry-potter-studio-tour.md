@@ -100,7 +100,7 @@ The <a href="https://www.getyourguide.com/activity/-t408850?partner_id=WWP7I0R&a
 
 ![The Hogwarts castle model lit from above in the Model Room, its towers and courtyards in fine detail](../../assets/articles/harry-potter-studio-tour/hogwarts-castle-model.jpg)
 
-*The castle model in the Model Room, near the end of the tour.*
+*The castle model.*
 
 The tour runs in one direction through 21 sections, starting with the doors of the Great Hall opening.
 
@@ -114,7 +114,7 @@ The tour runs in one direction through 21 sections, starting with the doors of t
 
 ![The Great Hall set with its long tables laid for a feast, house banners hanging above and costumes on either side](../../assets/articles/harry-potter-studio-tour/great-hall.jpg)
 
-*The Great Hall, where the tour starts.*
+*The Great Hall.*
 
 | Extra | Pre-booked | On the day |
 | --- | --- | --- |
@@ -148,7 +148,7 @@ The photo package covers the green screen broomstick flight and the printed extr
 
 ![A three-tier afternoon tea stand at the Studio Tour: sandwiches below, savoury tarts in the middle and red iced cakes, macarons and a chocolate cauldron on top, with a golden snitch on the handle](../../assets/articles/harry-potter-studio-tour/afternoon-tea.jpg)
 
-*Afternoon tea at The Hogwarts Table, £42.50 a head. It is in the dining room by the entrance, not on the Great Hall set.*
+*Afternoon tea at The Hogwarts Table.*
 
 **Butterbeer is sold in exactly one place:** the Butterbeer Bar next to the Backlot Café, roughly halfway round. You cannot buy it before you start or after you finish.
 
@@ -167,7 +167,7 @@ Elsewhere: the **Backlot Café** does burgers, hot dogs and salads halfway round
 
 ![Diagon Alley on the Studio Tour, the shopfronts lit purple and red down the length of the crooked street](../../assets/articles/harry-potter-studio-tour/diagon-alley.jpg)
 
-*Diagon Alley, towards the end of the walk.*
+*Diagon Alley.*
 
 | Feature | Dates | Extra cost |
 | --- | --- | --- |
@@ -194,7 +194,7 @@ Entry slots run every 30 minutes. Saturdays and school holidays sell out first; 
 
 ![The Hogwarts Express locomotive, number 5972, standing at the recreated Platform 9¾ inside the Studio Tour](../../assets/articles/harry-potter-studio-tour/hogwarts-express.jpg)
 
-*The Hogwarts Express, halfway round, where the green screen carriage photo is taken.*
+*The Hogwarts Express, Platform 9¾.*
 
 ### Train and the free shuttle, which is the cheapest way
 

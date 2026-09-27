@@ -139,7 +139,7 @@ This venue's event mix is unusually wide, and the club's own paperwork treats th
 
 ![The track and infield at London Stadium during a full house for the athletics meet, the running track and field events visible under the open roof](../../assets/articles/london-stadium-travel-guide/london-stadium-track.jpg)
 
-*A full house for the Novuna London Athletics Meet — the same bowl a West Ham crowd fills on a match day.*
+*The Novuna London Athletics Meet.*
 
 **Concerts** are the least frequent case of all. As of September 2026, London Stadium has no music events on sale for the rest of the year — the next confirmed one, Fontaines D.C., is booked for 2027. If a concert is announced for your dates, treat the general transport advice in this guide as the starting point and check the venue's own site for that specific event's doors and curfew times.
 

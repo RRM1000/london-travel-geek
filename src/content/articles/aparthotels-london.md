@@ -62,7 +62,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 ![The living area of an apartment at Cheval Three Quays, with an armchair and coffee table in the foreground and the bedroom visible through an open partition beyond](../../assets/articles/aparthotels-london/cheval-three-quays-living-area.jpg)
 
-*The living area of a Cheval Three Quays apartment, with the bedroom visible beyond.*
+*The living area at Cheval Three Quays.*
 
 <div class="photo-row">
 
@@ -72,7 +72,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*A bedroom at Cheval Gloucester Park with a bow window over the rooftops, and its marble bathroom.*
+*A bedroom at Cheval Gloucester Park.*
 
 **Supercity is the one to know for a long stay**, on the washer-dryer that comes with every suite — though Cheval matches it, and so do Bermonds Locke and two of Native's addresses. Over two weeks that is the difference between doing laundry in your room and hunting for a launderette. The kitchen itself depends on the room grade: Supercity's cheapest Studio Suites get a kitchen/dining area rather than a full kitchen, which only arrives from the One Bedroom Suite up.
 
@@ -110,11 +110,11 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*A studio at Wilde Covent Garden, with the ensuite built into a wood-clad pod beside the bed.*
+*A studio at Wilde Covent Garden.*
 
 ![The bathroom at Native Mayfair, with a freestanding tub, a floor-mounted tap and a heated towel rail](../../assets/articles/aparthotels-london/native-mayfair-bathroom.jpg)
 
-*The bathroom at Native Mayfair, with its freestanding tub.*
+*The bathroom at Native Mayfair.*
 
 **The City, which is the value trick.** Cove by Locke has Moorgate and Cannon Street, Native has King's Wardrobe on Carter Lane by St Paul's, Supercity has The Chronicle off Fetter Lane, and Cheval has Three Quays on the river. The Square Mile empties at weekends, so **Saturday is often the cheapest night of the week** — the reverse of everywhere else in London, and worth checking before you book a Friday. Cove's Cannon Street studios are kitchenettes rather than full kitchens, with a shared laundry room and a 24-hour front desk; there's no on-site parking, though there's a public car park close by. King's Wardrobe is the one Native address in this guide with its own restaurant downstairs — Counter, a café-bar-and-courtyard — and its own paid parking below the building, which none of the other Native sites here offer.
 
@@ -126,7 +126,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*A studio at Cove Cannon Street, with the kitchenette in the same room as the bed, and its bathroom.*
+*A studio at Cove Cannon Street.*
 
 <div class="photo-row">
 
@@ -136,7 +136,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*The kitchenette and living space at Native King's Wardrobe, and its bathroom.*
+*The kitchenette at Native King's Wardrobe.*
 
 <div class="photo-row">
 
@@ -146,7 +146,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*A bedroom at The Chronicle, off Fetter Lane, and its bathroom.*
+*A bedroom at The Chronicle.*
 
 **East, on the Elizabeth line.** [Leman Locke](hotel:leman-locke) and Buckle Street Studios are both a couple of minutes from Whitechapel, which puts Bond Street about twelve minutes away without a change. Locke London Canary Wharf and Cove Landmark Pinnacle are on the Elizabeth line too, with Heathrow under an hour direct. Buckle Street's kitchenettes are smaller again than Leman Locke's next door, and some of its cheapest Hotel Rooms have no kitchen at all; it has no gym of its own either, sharing Leman's, sixty seconds away. Cove Landmark Pinnacle's Studio Apartments keep to a kitchenette too, but its larger one-bedroom apartments get a full kitchen, and guests staying a week or more can ask for the 56th-floor gym on top of the building.
 
@@ -158,7 +158,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*A studio at Leman Locke, with the bed set behind a partition from the sitting area, and its bathroom.*
+*A studio at Leman Locke.*
 
 <div class="photo-row">
 
@@ -168,7 +168,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*A room at Buckle Street Studios with built-in storage behind the bed, and its bathroom.*
+*A room at Buckle Street Studios.*
 
 <div class="photo-row">
 
@@ -178,7 +178,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*A studio at Cove Landmark Pinnacle, with the kitchenette, living space and bed in one room, and its bathroom.*
+*A studio at Cove Landmark Pinnacle.*
 
 **South of the river.** [Native Bankside](hotel:native-bankside) is on a lane behind the Globe, five minutes from Tate Modern — and it's the one Native address in this guide with its own gym, a sixth-floor fitness suite with Peloton bikes, plus a washer-dryer built into the apartment rather than a shared laundry room. [Bermonds Locke](hotel:bermonds-locke) is on Tower Bridge Road, with the same in-room washer-dryer as Native Bankside. Staycity has Greenwich High Road, a minute from the station and eight from the Cutty Sark, with a hob, fridge-freezer, microwave and dishwasher in every apartment, and a limited amount of secure on-site parking if you book it ahead of arrival.
 
@@ -194,7 +194,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*A studio at Bermonds Locke, with the kitchenette built into the same room as the bed and sofa, and its bathroom.*
+*A studio at Bermonds Locke.*
 
 <div class="photo-row">
 
@@ -204,7 +204,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*A bedroom at Staycity Greenwich High Road, with the ensuite visible through the open door, and the bathroom itself.*
+*A bedroom at Staycity Greenwich High Road.*
 
 **Genuinely outer, and genuinely cheaper.** Staycity Deptford Bridge is on the DLR one stop from Greenwich, and has the same dishwasher-equipped kitchen as Greenwich High Road in every apartment, plus a fitness room its sister site doesn't have. [Native Fulham Broadway](hotel:native-fulham-broadway) is Zone 2 on the District line, ten minutes from Stamford Bridge, with laundry facilities and self-service luggage lockers in the building. Templeton Place sits on an Earl's Court garden square where the District and Piccadilly both stop — Heathrow without a change, South Kensington in four minutes, and the cheapest Supercity address in London. Its studios share the same kitchen/dining layout as the Chronicle's, and guests get access to a private residents' garden.
 
@@ -216,15 +216,15 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 </div>
 
-*A bedroom at Staycity Deptford Bridge, and its bathroom.*
+*A bedroom at Staycity Deptford Bridge.*
 
 ![A studio at Native Fulham, with the bed in the foreground, a round table for two and a sofa beside the window](../../assets/articles/aparthotels-london/native-fulham-studio.jpg)
 
-*A studio at Native Fulham, with the bed, a breakfast table and a sofa in the same room.*
+*A studio at Native Fulham.*
 
 ![A studio at Templeton Place, with a frosted-glass partition separating the bed from a small kitchenette, plus a sofa and armchair by the window](../../assets/articles/aparthotels-london/templeton-place-studio.jpg)
 
-*A studio at Templeton Place, with the kitchenette behind a frosted-glass partition.*
+*A studio at Templeton Place.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="aparthotels-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

@@ -75,9 +75,9 @@ For the wider area — St Paul's, Smithfield, the Roman remains, where to stay �
 
 ![The Royal Exchange portico and the Wellington statue at the Bank junction, with the City's glass towers rising behind and the Bank of England under scaffolding to the left](../../assets/articles/city-of-london-walk/bank-junction-royal-exchange.jpg)
 
-*Wellington on the left, the Royal Exchange on the right, and 22 Bishopsgate behind. The Bank of England is under scaffolding at the moment, which is the one thing here that will look different when you arrive.*
+*Bank junction.*
 
-**Seven streets meet here and no two of them agree on a right angle.** That is the whole City in one junction: a medieval street plan that was never straightened, with neoclassical banking wrapped around it and glass towers behind.
+**Seven streets meet here and no two of them agree on a right angle.** That is the whole City in one junction: a medieval street plan that was never straightened, with neoclassical banking wrapped around it and glass towers behind. The Bank of England is currently under scaffolding, so it won't quite match the photo above.
 
 Stand with your back to Bank station's Royal Exchange exit and you have the **Royal Exchange** portico in front of you, the windowless wall of the **Bank of England** to the left, and **Mansion House**, where the Lord Mayor lives, to the right. The Bank's outer wall has no ground-floor windows anywhere along its length — it was built to be defensible, and it still reads that way.
 
@@ -101,7 +101,7 @@ If you are walking at a weekend, this stop simply is not available, and no amoun
 
 ![The painted maroon, cream and gold arcade of Leadenhall Market under its glass roof, with the Lamb Tavern on the left and drinkers at barrel tables along the lane](../../assets/articles/city-of-london-walk/leadenhall-market-arcade.jpg)
 
-*The Lamb Tavern on the left, and the barrel tables that fill from about noon on a weekday. This is a Sunday-empty room the rest of the time.*
+*Leadenhall Market.*
 
 **A covered Victorian market in maroon and green ironwork**, built by Horace Jones in 1881 on a site that has been a market since the fourteenth century. It is the prettiest interior on this walk and it takes about four minutes to see, which is why nobody minds the detour.
 
@@ -117,7 +117,7 @@ It is also the reason to time this walk around lunch: see the eating section bel
 
 ![Looking up a narrow City alley, Victorian arched windows on one side and classical stonework on the other, with a glass tower filling the gap of sky above](../../assets/articles/city-of-london-walk/city-alley-tower-above.jpg)
 
-*The whole argument for walking rather than taking the tube between stops: the alleys are medieval in plan, the walls are Victorian, and the thing filling the sky was finished in 2020.*
+*A City alley, glass tower above.*
 
 Step out of the market's east exit and the towers are directly overhead. This is not a stop so much as **two hundred metres of looking up**.
 
@@ -139,7 +139,7 @@ Three free options within five minutes of each other. **You would only do one.**
 
 ![The curved glass flank of 20 Fenchurch Street, the Walkie-Talkie, seen from the pavement directly below and flaring outwards towards the top](../../assets/articles/city-of-london-walk/walkie-talkie-from-below.jpg)
 
-*20 Fenchurch Street from the pavement. The Sky Garden is the glasshouse under that overhang, and this is the angle you get for free.*
+*20 Fenchurch Street, the Walkie-Talkie.*
 
 <div data-stay-strip></div>
 
@@ -161,7 +161,7 @@ It is small, it is on a slope off St Dunstan's Hill, and it is quiet in a way no
 
 ![The ruined shell of St Dunstan-in-the-East, Gothic window tracery standing open to the sky with ivy grown over the walls and a tree leaning across the cobbled path](../../assets/articles/city-of-london-walk/st-dunstan-in-the-east.jpg)
 
-*The windows have no glass and the nave has no roof. Everything green in this photograph arrived after 1941.*
+*St Dunstan-in-the-East.*
 
 > ⚠️ **It is far better known than it was.** Early morning is when you get it to yourself; lunchtime on a warm weekday it is full of office workers, which is a nicer problem than tourists but is still a full garden.
 
@@ -179,11 +179,11 @@ Open to visitors **Monday to Friday 8am to 5pm, Saturday 10am to 5pm and Sunday 
 
 The one paid ticket on the route, and a **half-day in its own right** rather than a stop on a walk. If you are going inside, our dedicated [Tower of London guide](/articles/tower-of-london-guide/) has the prices, the quieter afternoon slots and the Opening Ceremony ticket that reaches the Crown Jewels before other visitors.
 
-If you are doing it, **book ahead and go at opening** — the Crown Jewels queue is the whole difficulty and it is shortest in the first hour. Opening is **9am Tuesday to Saturday but 10am on Sunday and Monday**, and closing is 5.30pm in summer, 4.30pm in winter. That hour matters if the Tower is your first stop rather than your last: on a Tuesday-to-Thursday walk you can be inside before the coaches arrive. If you are not doing it today, the walk still works: the outer walls, the wharf and Tower Hill are free to walk, and the **Roman city wall** stands in the gardens by Tower Hill station.
+If you are doing it, **book ahead and go at opening** — the Crown Jewels queue is the whole difficulty and it is shortest in the first hour. Opening is **9am Tuesday to Saturday but 10am on Sunday and Monday**, and closing is 5.30pm in summer, 4.30pm in winter. That hour matters if the Tower is your first stop rather than your last: on a Tuesday-to-Thursday walk you can be inside before the coaches arrive. If you are not doing it today, the walk still works: the outer walls, the wharf and Tower Hill are free to walk, and the **Roman city wall** stands in the gardens by Tower Hill station. Hoarding for ongoing works currently lines the approach to the Middle Tower — you walk past it either way.
 
 ![The Middle Tower and outer curtain wall of the Tower of London above the dry moat, with contractors' hoarding and site cabins along the near side](../../assets/articles/city-of-london-walk/tower-of-london-entrance.jpg)
 
-*The west entrance, and the moat you cross to reach it. The hoarding along the near side is current works — you walk past it either way.*
+*The Tower's west entrance.*
 
 ## 10. Tower Bridge
 
@@ -205,7 +205,7 @@ It is also **open at weekends**, which most of this walk is not. If you are walk
 
 ![The Dickens Inn at St Katharine Docks, a timber-framed warehouse with three tiers of balconies covered in hanging baskets of flowers](../../assets/articles/city-of-london-walk/dickens-inn-st-katharine-docks.jpg)
 
-*The Dickens Inn, which is a converted warehouse rather than the eighteenth-century pub it looks like. The flowers are the giveaway.*
+*The Dickens Inn, St Katharine Docks.*
 
 ---
 
@@ -221,7 +221,7 @@ Two proper options, and the choice is decided by the day rather than the food.
 
 ![Tables and bright red and yellow chairs on a stone dock wall at St Katharine Docks, moored yachts alongside and the brick arches of Commodity Quay behind](../../assets/articles/city-of-london-walk/st-katharine-docks-terrace.jpg)
 
-*This is the argument for finishing here rather than at the bridge: the tables are on the dock wall and the things moored alongside are boats.*
+*St Katharine Docks.*
 
 **Across the bridge**, Butler's Wharf on the south bank has a run of riverside restaurants facing back at Tower Bridge, if you would rather end on the other side.
 

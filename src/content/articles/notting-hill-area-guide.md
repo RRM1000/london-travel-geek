@@ -98,21 +98,19 @@ Notting Hill has its own share of the commemorative plaques marking where notabl
 
 ![A decorated Georgian townhouse hung with Caribbean flags and balloons on the Notting Hill Carnival route, with a crowd gathered outside](../../assets/articles/notting-hill-area-guide/notting-hill-carnival.jpg)
 
-*A decorated house on the Carnival route, hung with the flags of the Caribbean nations it celebrates.*
-
 ![A dense crowd dancing in front of a sound system truck at Notting Hill Carnival](../../assets/articles/notting-hill-area-guide/notting-hill-carnival-crowd.jpg)
 
-*One of the sound systems that line the route - this is the scale of it away from the main procession.*
+*One of Carnival's sound systems.*
 
 ![The Churchill Arms on Kensington Church Street, its whole frontage covered in hanging flower baskets and Union flags, with a crowd drinking outside](../../assets/articles/notting-hill-area-guide/churchill-arms.jpg)
 
-*The Churchill Arms. The landlord spends a five-figure sum a year on the flowers, and there is a Thai kitchen in the back.*
+*The Churchill Arms.*
 
 ## Key streets and micro-districts
 
 ![A terrace on Lancaster Road painted deep pink, white, blue and green, with cars parked along the kerb](../../assets/articles/notting-hill-area-guide/notting-hill-lancaster-road.jpg)
 
-*Lancaster Road pastel houses — the postcard row, and the busiest spot in Notting Hill for photographers.*
+*Lancaster Road, the postcard row.*
 
 ### Portobello Road (south) — antiques
 From Chepstow Villas down to Elgin Crescent, and **the antiques end that made Portobello famous** — permanent shops plus a series of indoor arcades holding dozens of small dealers each, in silver, jewellery, prints and militaria.
@@ -179,7 +177,7 @@ Two short residential streets that appear constantly on social media — **St Lu
 
 ![The Distillery on Portobello Road, a corner building with a deep green ground floor and cream upper storeys](../../assets/articles/notting-hill-area-guide/the-distillery-portobello-road.jpg)
 
-*The Distillery at 186 Portobello Road stacks a gin distillery, three bars, a restaurant and a small hotel into one corner building — the sign on the side tells you which floor is which.*
+*The Distillery, Portobello Road.*
 
 ## Getting there
 

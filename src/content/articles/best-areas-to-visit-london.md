@@ -31,7 +31,7 @@ London works less like one city centre than like a string of walkable neighbourh
 > - **Been three times already:** the third is where London actually lives.
 
 ![Illustrated map of London's neighbourhoods along the River Thames](../../assets/articles/best-areas-to-visit-london/london-areas-map.jpg)
-*Central London neighbourhood map: the key visitor districts along the River Thames.*
+*Central London's neighbourhoods.*
 
 ---
 

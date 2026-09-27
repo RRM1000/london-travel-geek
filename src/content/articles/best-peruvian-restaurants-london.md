@@ -86,7 +86,7 @@ Order the **stone bass ceviche** — the fish cured in leche de tigre, the cloud
 
 ![A low-lit dining room with gilded ironwork screens, olive-green and blue velvet chairs, a round marble table laid for six, and flames in an open kitchen beyond](../../assets/articles/best-peruvian-restaurants-london/coya-dining-room.jpg)
 
-*At ££££ the bill starts around £80 a head, the top band on this page.*
+*Coya's dining room, Mayfair.*
 
 The food is better than the room's reputation suggests when you order Peruvian rather than around it: the **signature ceviche platter** runs sea bass, corvina, yellowtail and tuna, each cured differently, and the **anticuchos** — charcoal skewers, here beef fillet with ají panca — are the thing to have with a pisco sour. Skip the burrata.
 
@@ -100,7 +100,7 @@ A **Camden market stall that became a restaurant**, run by two brothers with por
 
 ![A small, full restaurant with white walls, black pendant lamps, Peruvian textile cushions on the banquette and a dense gallery wall of framed photographs, every table occupied](../../assets/articles/best-peruvian-restaurants-london/tierra-peru-dining-room.jpg)
 
-*It fills like this on a weeknight, and there is no online booking — the table comes by telephone.*
+*Tierra Peru, on a weeknight.*
 
 The menu runs straight down the middle of the cuisine rather than picking a lane: **ceviche and shots of leche de tigre**, **ají de gallina** — shredded chicken in a creamy yellow chilli sauce over rice — **lomo saltado**, **arroz chaufa**, and **alfajores** filled with dulce de leche. The chef's picks are cordero huanuqueño, lamb rubbed in the Andean herb huacatay, and picante chalaco, a spicy seafood stew. Inca Kola and chicha morada, the purple-corn drink, are both on.
 
@@ -118,7 +118,7 @@ The London branch of a **Brooklyn restaurant that opened in 2015**, reached thro
 
 ![A glass-roofed rooftop dining room with white fabric shades, terracotta floor tiles, large potted fig trees and an east London skyline through the windows](../../assets/articles/best-peruvian-restaurants-london/llama-inn-rooftop.jpg)
 
-*Glass overhead, so the roof works in February as well as August. The two-course Speedy Lunch at £28 is the cheap way in.*
+*Llama Inn's rooftop, glass-covered.*
 
 The cooking leans **Chifa** — the Cantonese-Peruvian strand — with Nikkei on the edges: **sea bass ceviche in leche de tigre**, cabbage anticuchos glazed in saikyo miso, crispy squid with yuca. The **lomo saltado** is the one to argue about: instead of rice, the beef and chips land on an okonomiyaki-style pancake with a zigzag of kewpie mayonnaise. It is £56 and it is the most interesting plate in this half of the guide.
 
@@ -132,7 +132,7 @@ Grew out of **Don Ceviche, a pop-up run by chef Harry Edmeades**, and now occupi
 
 ![A table of Peruvian small plates — sweet potato fries, charred corn, a bowl of ceviche, fried tequeños, salmon tiradito and three foam-topped pisco sours — on a painted wooden table against a pink banquette, with a menu card reading Señor Ceviche Lunes Special](../../assets/articles/best-peruvian-restaurants-london/senor-ceviche-table-pisco-sours.jpg)
 
-*The card on the table is the Monday deal. The three foamed glasses are pisco sours: grape brandy, lime, sugar, egg white and a few drops of bitters.*
+*Señor Ceviche's Monday deal.*
 
 Ceviches are £11 to £13 — **sea bream in tiger's milk**, salmon tiradito with piquillo peppers — and the Peruvian barbecue plates run £12 to £19: **pachamanca pork ribs**, beef heart anticuchos with anticuchera salsa, **tequeños**, which are wonton wrappers fried around chicken and caramelised onion. Chocolate mousse with cancha, the toasted corn kernels, for pudding.
 
@@ -156,7 +156,7 @@ Three sources name it and none of them calls it fashionable, which is the point.
 
 ![A white plate on a white tablecloth holding beef slow-cooked in a dark coriander sauce with canary beans, a moulded dome of white rice, a length of boiled cassava and a pile of sliced red onion](../../assets/articles/best-peruvian-restaurants-london/sabor-peruano-seco-con-frijoles.jpg)
 
-*Criollo cooking plates like this: slow-cooked beef in a dark coriander-and-chilli sauce, canary beans, white rice and a length of boiled cassava. Mains £12 to £22.*
+*Sabor Peruano's criollo cooking.*
 
 The menu is **Chifa-heavy**: **arroz chaufa**, Peruvian fried rice with beef, egg, spring onion, beansprouts and — properly — diced hot dog; **lomo saltado** with tomato, onion, chips and white rice; **mazamorra morada**, a thick purple-corn pudding with pineapple, apple and cinnamon, for afterwards. Starters and ceviches £3 to £8, mains £12 to £22.
 
@@ -196,7 +196,7 @@ Jade-green walls with a water-lily motif, cushioned booths and low light, in the
 
 ![A dark green dining room with lily-pad reliefs on the wall, buttoned green leather banquettes, navy tub chairs, round wooden tables and cream table lamps](../../assets/articles/best-peruvian-restaurants-london/ayllu-dining-room.jpg)
 
-*An ayllu is the Andean kin group, the extended-family unit a village organises itself around.*
+*Ayllu's dining room, Paddington.*
 
 The raw half is the reason to come: **oysters with truffle and leche de tigre**, **tuna tataki tiradito**, and the lubina clásica, a sea bass ceviche. Away from the fish there is sweet potato katsu curry with kimchi, bao buns, and a Peruvian steak with black lime butter and crisp garlic. Tasting menus £45 to £59.
 
@@ -210,7 +210,7 @@ Opened in Leyton, moved to a bigger East Village room in 2023, and is **built en
 
 ![Thin slices of pink-edged yellowtail arranged in a star in a golden marinade, dotted with yellow purée and topped with shredded daikon and chopped chives](../../assets/articles/best-peruvian-restaurants-london/bamboo-mat-hamachi-tiradito.jpg)
 
-*Tiradito is sliced like sashimi and sauced like ceviche — dressed at the pass rather than cured beforehand, which is why it stays translucent. This one is hamachi under ají amarillo and lime.*
+*Bamboo Mat's hamachi tiradito.*
 
 The order is the **hamachi tiradito** to start and the **sashimi platter for two** — sea bass, salmon, tuna, octopus and pine prawns with shiso ponzu and salsa huacatay, the Andean-herb sauce that makes it Peruvian rather than Japanese. Lunch specials £13 to £15, tasting menus £36 to £64.
 
@@ -240,7 +240,7 @@ The other tradition, and the one the West End lists skip. Criollo is Peru's creo
 
 ![A crusty white roll filled with stir-fried beef, red onion and tomato on a black plate, beside a shot glass of pale sauce and a pile of diced beetroot, carrot, potato and peas in mayonnaise](../../assets/articles/best-peruvian-restaurants-london/darkest-peru-lomito-sandwich.jpg)
 
-*The lomito is lomo saltado in a bap — beef, onion and tomato straight out of the wok, sauce and all — with a pink beetroot ensalada rusa beside it.*
+*Darkest Peru's lomito.*
 
 Breakfast is the **salchicha**: home-made pork sausage smashed and folded through scrambled egg with garlic, paprika and achiote oil. Lunch is the **lomito**, stir-fried beef in a bap — lomo saltado as a sandwich. Coffee is Peruvian, and the guanábana smoothie is worth the detour on its own. Sandwiches £8 to £10, everything else under £7.
 
@@ -254,7 +254,7 @@ Bright orange inside and out, wooden booths, patterned placemats, at the Oval en
 
 ![Three cylinders of bright yellow potato topped with a pale mayonnaise-dressed filling and micro herbs, on a white plate under yellow and green sauces, with jugs of dark purple chicha morada behind](../../assets/articles/best-peruvian-restaurants-london/maka-causa-limena.jpg)
 
-*The purple jugs are chicha morada: purple corn boiled with pineapple and cinnamon, then strained, sweetened and sharpened with lime. It is the standard drink with a criollo lunch.*
+*Maka's chicha morada.*
 
 **Closed Monday and Tuesday**, open to 10pm Wednesday to Saturday and 7pm on Sunday. Starters £3.50 to £9.50, mains £13.50 to £20.
 
@@ -282,7 +282,7 @@ Peru-born chef **Walter Pineda** cooks his own cuisine through French technique 
 
 ![Half a charcoal-roasted chicken, the skin browned and blistered, sitting on a bed of chips on a white oval plate](../../assets/articles/best-peruvian-restaurants-london/jarana-pollo-a-la-brasa.jpg)
 
-*A quarter, a half or a whole bird, chips underneath. The rotisserie rig that cooks it came over from Peru.*
+*Jarana's pollo a la brasa.*
 
 Before it, **papas a la huancaína**: potato medallions at room temperature under a sauce of queso fresco, ají amarillo and garlic. The menu changes almost weekly and mixes Chifa, Nikkei and criollo, so ask what has just come on.
 
@@ -302,7 +302,7 @@ Opened by Maria and Carlos as **one of the few stand-alone ceviche restaurants i
 
 ![An overhead spread of ceviches in cloudy and orange marinades, a whole grilled bream under shaved onion salad, oysters on ice, scallops in yellow sauce and pork belly on orange purée, on a wooden table](../../assets/articles/best-peruvian-restaurants-london/crudo-ceviche-spread.jpg)
 
-*The shaved-onion salad over the bream is salsa criolla — red onion, lime, chilli and coriander — the standard Peruvian cut-through for anything fried or grilled.*
+*Crudo's ceviche spread.*
 
 **Open seven days, from 5pm on weekdays and noon on Sundays.** Snacks and small plates £7 to £20; ceviches and mains £9 to £52.
 

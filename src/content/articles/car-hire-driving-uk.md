@@ -195,7 +195,7 @@ Eight hours in a Mayfair bay is **£59.44**, before the £18 Congestion Charge a
 
 ![A British roundabout seen from directly above, cars circling a grass island with four roads feeding into it](../../assets/articles/car-hire-driving-uk/roundabout.jpg)
 
-*The thing visitors dread, from above. Give way to the right. Photo: Altaf Shah, Pexels.*
+*A roundabout, from above. Photo: Altaf Shah, Pexels.*
 
 **You drive on the left, and the car will be right-hand drive.** Give yourself a quiet road for the first ten minutes; the two things that catch people out are drifting left into the kerb and reaching for the gearstick with the wrong hand.
 

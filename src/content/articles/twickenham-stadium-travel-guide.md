@@ -170,7 +170,7 @@ Bike racks are in the **south-east corner by the ticket office**; bring a lock.
 
 ![Twickenham's seating bowl from high in a corner: a sunlit pitch below three tiers of green seats, the crowd in, and blue sky through the open roof](../../assets/articles/twickenham-stadium-travel-guide/allianz-stadium-twickenham-bowl.jpg)
 
-*The bowl holds 82,000. Photo: [Diliff](https://commons.wikimedia.org/w/index.php?curid=22436784), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+*Inside Allianz Stadium. Photo: [Diliff](https://commons.wikimedia.org/w/index.php?curid=22436784), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
 Twickenham Stadium has been **Allianz Stadium** since September 2024; the postcode is unchanged. It's England's home ground: internationals, one Harlequins fixture a year and the occasional concert.
 

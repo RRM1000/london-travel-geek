@@ -82,7 +82,7 @@ For the wider area — the Cathedral, Millbank, where to eat, where to stay — 
 
 ![The Thames, the Houses of Parliament, Westminster Bridge and the London Eye seen from the Albert Embankment](../../assets/articles/westminster-walk/westminster-bridge-parliament.jpg)
 
-*The frame everyone comes for, and it only exists from a distance. Photo: [Txllxt TxllxT](https://commons.wikimedia.org/wiki/File:London_-_Albert_Embankment_path_-_Lambeth_Palace_Road_-_South_Bank_-_Jubilee_Walkway_-_View_NNW_towards_Houses_of_Parliament,_Westminster_Bridge_%26_London_Eye.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Westminster Bridge, looking back at Parliament. Photo: [Txllxt TxllxT](https://commons.wikimedia.org/wiki/File:London_-_Albert_Embankment_path_-_Lambeth_Palace_Road_-_South_Bank_-_Jubilee_Walkway_-_View_NNW_towards_Houses_of_Parliament,_Westminster_Bridge_%26_London_Eye.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 **Start halfway across and look back.** Westminster station comes up at the foot of the Elizabeth Tower, which is exactly the wrong place to photograph it from — stand underneath a 96-metre tower and you cannot get it in the frame.
 
@@ -129,7 +129,7 @@ Three things are worth the twenty minutes:
 
 ![Westminster Abbey's twin west towers rising above a red London bus in the foreground](../../assets/articles/westminster-walk/westminster-abbey-towers.jpg)
 
-*The west towers, added in the 1740s — centuries after the rest of the building.*
+*Westminster Abbey's west towers.*
 
 The coronation church since 1066, and the one stop on this walk that is a serious ticket.
 
@@ -171,7 +171,7 @@ There is a **café inside, open daily 10am to 5pm**, in the room the switchboard
 
 ![A flowerbed of red and pink tulips and wallflowers in St James's Park](../../assets/articles/westminster-walk/st-james-park-tulips.jpg)
 
-*The bedding along The Mall side changes with the season — this is late April.*
+*St James's Park, in late April.*
 
 Out of the Clive Steps, across Horse Guards Road, and into the oldest of the Royal Parks. **Pedestrian gates are open 5am to midnight** and there is no charge.
 
@@ -187,7 +187,7 @@ Out of the Clive Steps, across Horse Guards Road, and into the oldest of the Roy
 
 ![Mounted Household Cavalry troopers in red tunics and plumed helmets riding past Buckingham Palace's gates](../../assets/articles/westminster-walk/changing-the-guard.jpg)
 
-*The Household Cavalry passing the Palace gates on their way down from Knightsbridge.*
+*The Household Cavalry, passing the Palace gates.*
 
 Out of the park at the western end, and the Victoria Memorial is in front of you with the Palace behind it.
 
@@ -211,7 +211,7 @@ Two-thirds of the way along, look right through the trees: the lake, the bridge 
 
 ![Mounted Household Cavalry on parade at Horse Guards, Whitehall](../../assets/articles/westminster-walk/horse-guards-parade.jpg)
 
-*The full mounted ceremony — Monday, Wednesday and Friday at 11am only.*
+*The mounted ceremony, at Horse Guards.*
 
 Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which is a public space you can simply walk across. This is the good ceremony, and it is free.
 
@@ -230,7 +230,7 @@ Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which 
 
 ![The Horse Guards building on a quiet afternoon, with tourists on the parade ground and the London Eye visible behind](../../assets/articles/westminster-walk/horse-guards-parade-building.jpg)
 
-*Horse Guards between ceremonies. You can walk straight onto the parade ground — go through the archway.*
+*Horse Guards, between ceremonies.*
 
 **Inside is the [Household Cavalry Museum](https://householdcavalrymuseum.co.uk/visit/)**, where a glass screen looks into the working stables. **£11 adult, £8 students and children aged 5 to 15, £9.50 over-60s, £29 for a family** of two adults and up to three children, with a multimedia guide included in nine languages. Open **10am to 6pm April to October and 10am to 5pm November to March**, last admission an hour before closing, and closed on Marathon Day, Easter Friday, Remembrance Sunday, Christmas Eve to Boxing Day and New Year's Day.
 

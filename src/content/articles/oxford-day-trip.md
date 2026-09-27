@@ -139,7 +139,7 @@ Add Stratford and it costs money: <a href="https://www.getyourguide.com/activity
 
 ![Students in Oxford sub fusc — dark suits, gowns and white bow ties — gathered outside a college in exam season](../../assets/articles/oxford-day-trip/oxford-subfusc.jpg)
 
-*Exam season is when the colleges shut to visitors. Photo: Amine Kubranur Cakiroglu, Pexels.*
+*Students in Oxford sub fusc. Photo: Amine Kubranur Cakiroglu, Pexels.*
 
 Colleges are working institutions, not attractions. Two patterns catch people out: **halls close over lunch** because students are eating in them, and **free colleges open in the afternoon only**.
 
@@ -241,7 +241,7 @@ Everything else is ticketed, and cheaply:
 
 ![The domed Radcliffe Camera in Oxford, honey-coloured stone lit by low sun with college roofs behind](../../assets/articles/oxford-day-trip/radcliffe-camera.jpg)
 
-*The Radcliffe Camera, which can only be visited on the weekend tour. Photo: Jess Buckle, Pexels.*
+*The Radcliffe Camera. Photo: Jess Buckle, Pexels.*
 
 **The University Church tower is £7** for 127 steps up a medieval turret staircase and the view down onto Radcliffe Square — minimum age 8, last admission 17:30. The church itself is free.
 

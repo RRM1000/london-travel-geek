@@ -90,7 +90,7 @@ Hackney has its own share of the commemorative plaques marking where notable peo
 
 ![The boating lake in Victoria Park with a pagoda on the far bank and people along the path](../../assets/articles/hackney-area-guide/victoria-park.jpg)
 
-*Victoria Park's boating lake. It opened in 1845 as the first public park in Britain built for the working poor. Photo: [martin_vmorris](https://www.flickr.com/photos/24108242@N05/50050092236), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Victoria Park's boating lake. Photo: [martin_vmorris](https://www.flickr.com/photos/24108242@N05/50050092236), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Key streets and micro-districts
 
@@ -122,7 +122,7 @@ Further east where the canals meet, and **the highest concentration of artists' 
 
 ![The Lord Napier Star pub in Hackney Wick, covered from roof to pavement in street art](../../assets/articles/hackney-area-guide/lord-napier-hackney-wick.jpg)
 
-*The Lord Napier Star, covered roof to pavement in street art.*
+*The Lord Napier Star, Hackney Wick.*
 
 It is a drinking and daytime-wandering destination rather than a sightseeing one: taprooms, canal-side terraces and a lot of street art that changes constantly.
 

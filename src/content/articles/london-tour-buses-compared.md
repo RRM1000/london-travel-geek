@@ -42,7 +42,7 @@ Prices as published by the operators in August 2026. The gap between the online 
 
 ![A red open-top City Sightseeing tour bus in London, its upper deck open to the sky](../../assets/articles/london-tour-buses-compared/sightseeing-bus.jpg)
 
-*Every operator sells the same top deck. What separates them is the route density and how much you paid — the kerb price is roughly double the online one.*
+*A City Sightseeing tour bus.*
 
 | Ticket | Online from | Full price | Includes |
 | --- | --- | --- | --- |

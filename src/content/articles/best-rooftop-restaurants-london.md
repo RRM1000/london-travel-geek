@@ -72,7 +72,7 @@ Two Michelin stars within months of opening, first awarded in 2024 and held in t
 
 ![The Brooklands dining room, with a polished aluminium Concorde fuselage running across the ceiling, white-clothed tables and grey tulip chairs on a navy star-chart carpet, and a doorway marked "Welcome to Concorde" at the far end](../../assets/articles/best-rooftop-restaurants-london/brooklands-dining-room.jpg)
 
-*The room is themed on British motor racing and aviation. The terrace holds 26; if the weather turns, staff move you back in here.*
+*The dining room at Brooklands.*
 
 The cooking is Claude Bosi's: turbot with wild sea leeks, Cornish squid with artichoke, Lake District lamb with mint and pastrami. Time Out's note on the weather is the practical one — if it turns, the staff move you back inside rather than leaving you under an umbrella.
 
@@ -84,7 +84,7 @@ The rooftop restaurant that has held a star the longest, every year since 2014, 
 
 ![Angler's dining room: a row of outward-slanting windows down one side, white-clothed tables with purple armchairs, and a faceted mirrored ceiling running the length of the room](../../assets/articles/best-rooftop-restaurants-london/angler-dining-room.jpg)
 
-*Mains are around £48 and the tasting menu £155. The terrace outside is heated and its roof retracts, so an October booking holds.*
+*The dining room at Angler.*
 
 It is seafood-led and priced accordingly — mains around £48, a tasting menu at £155 — from day boats and named suppliers around the British Isles, under head chef Craig Johnston, who won the Roux Scholarship in 2025. Tables are taken for up to ten; larger groups go through the events team. Dogs are welcome throughout the hotel, Angler included.
 
@@ -96,7 +96,7 @@ Nine sources name it, more than any other restaurant on the water here, and it i
 
 ![The River Café dining room: white-clothed tables on a blue floor, with an open kitchen along the far wall, a domed red wood-fired oven and a large wall clock above the pass](../../assets/articles/best-rooftop-restaurants-london/river-cafe-open-kitchen.jpg)
 
-*The wood oven sits in the open kitchen at the end of the room. The menu is rewritten twice a day around what arrived that morning.*
+*The open kitchen at The River Café.*
 
 Order the chargrilled squid with chilli and rocket, and the Chocolate Nemesis, which has been on since the beginning. It is expensive in a way the sources are blunt about: The Good Food Guide marks it ££££, the only London waterside entry it rates that high. Summer lunch on the terrace is the version to book.
 
@@ -130,7 +130,7 @@ The most-cited rooftop in London — nine independent sources, across mastheads,
 
 ![Seabird's indoor dining room, with a marble-topped bar carrying a raised display of crab, prawns and shellfish on ice, rattan bar stools and armchairs, tall palms, and glazed doors onto the terrace](../../assets/articles/best-rooftop-restaurants-london/seabird-dining-room.jpg)
 
-*The shellfish display is the first thing in the room, and the terrace is through the doors behind it. Oyster happy hour runs daily, 3–6pm.*
+*The dining room at Seabird.*
 
 The kitchen is Mediterranean seafood: dressed crab, fried calamari, whole tiger prawns with aioli, whole market fish off the grill, and an oyster list the restaurant claims is London's longest. The creator who rated it dish by dish put the whole market fish and the Gillardeau oysters at the top and the octopus roll well below them. **Oyster happy hour runs daily 3–6pm**, which is the cheapest way to sit up there.
 
@@ -150,7 +150,7 @@ A wine bar on the roof of a Rye Lane shopping centre that everybody treats as a 
 
 ![The top floor at Forza Wine in Peckham: long wooden refectory tables and benches under a low white ceiling, sliding glass onto an open terrace with bar stools, and the London skyline with the Shard on the horizon](../../assets/articles/best-rooftop-restaurants-london/forza-wine-peckham-terrace.jpg)
 
-*Benches, shared tables and a glass wall that slides back onto the terrace. The group order — the whole menu plus four Custardos — is £130.*
+*The terrace at Forza Wine, Peckham.*
 
 The room is a low, wide box with a terrace along the front and the whole of south London beyond it. There is a second Forza on top of the National Theatre, below, and the two are different evenings — this one is louder, later and cheaper.
 
@@ -178,7 +178,7 @@ Eighty feet above the junction at Bank, with a formal French menu and a proper r
 
 ![The indoor dining room at Coq d'Argent: round tables under white cloths with sage-green leather tub chairs, a bar along the far wall, and full-height glass doors standing open onto the planting of the roof garden](../../assets/articles/best-rooftop-restaurants-london/coq-dargent-dining-room.jpg)
 
-*The indoor room is the half that works in February. Outside there are heaters and wool blankets through the winter, and groups book up to 12.*
+*The dining room at Coq d'Argent.*
 
 It is one of the few City rooftops open year-round, with heaters and wool blankets through the winter, and it takes bookings for groups up to 12. Weekday lunch and dinner, weekend brunch and Saturday dinner — the pattern of a restaurant that feeds the Square Mile first.
 
@@ -190,7 +190,7 @@ Four floors of one Young's-owned building with three separate kitchens in it, an
 
 ![The rooftop terrace at Smiths of Smithfield: white-clothed tables and black woven armchairs on decking, potted fan palms along a glass balustrade, tall gas patio heaters, and Smithfield rooftops beyond](../../assets/articles/best-rooftop-restaurants-london/smiths-rooftop-terrace.jpg)
 
-*The heaters are what make the terrace a year-round table. Food stops at 9.30pm, and the whole building is private hire only on Sundays.*
+*The rooftop terrace at Smiths of Smithfield.*
 
 The floor everyone assumes is a steakhouse is not — **the No.3 rooftop is the seafood kitchen**, and The Grill, two AA rosettes and all, is downstairs. Order oysters and whole fish up here and the dry-aged beef on the way out. The catch that ruins a plan: **the whole building is private hire only on Sundays**, and food stops at 9.30pm the rest of the week.
 
@@ -210,7 +210,7 @@ Third on Time Out's rooftop ranking and the least rooftop-like thing on it: a fi
 
 ![The Marksman on Hackney Road seen from the street: a corner pub in glazed red brick with sage-green windows, a white ornamental balcony above the ground floor, and the pub's hanging sign to the right](../../assets/articles/best-rooftop-restaurants-london/marksman-first-floor-terrace.jpg)
 
-*Street level, on Hackney Road. The terrace is upstairs and out of shot; the full menu is served on it.*
+*The Marksman, Hackney Road.*
 
 What it has is the kitchen. The Marksman is a serious gastropub, and you can eat the full menu outside rather than a bar-snack version of it. The two-course Sunday lunch is £38, three for £42. Go early on a bright day or do not go at all.
 
@@ -222,7 +222,7 @@ Forty covers on the third floor of the most over-subscribed pub in London, and t
 
 ![A line of part-poured pints of Guinness settling along the bar top at The Devonshire, the pub's name in gold lettering across the bar front](../../assets/articles/best-rooftop-restaurants-london/devonshire-guinness-bar.jpg)
 
-*Pints settle downstairs while the grill and the pie counter run upstairs. Sunday lunch is £29.50.*
+*The bar at The Devonshire.*
 
 The kitchen is the reason people queue — Guinness poured properly downstairs, a grill and a pie counter upstairs, a bacon sandwich made with pork reared by Brett Graham of The Ledbury. Sunday lunch is £29.50. Children are welcome in the restaurant at any time but not in the pub after 5pm on weekdays or at all at weekends, which changes the shape of a family afternoon.
 
@@ -274,7 +274,7 @@ Seven sources name it, and only The River Café has more. This is the one with t
 
 ![The terrace at Le Pont de la Tour on Butlers Wharf: an awning carrying the restaurant's name and a Tower Bridge motif, cast-iron café tables on the promenade, clipped box in long zinc planters, and a flower-dressed white bicycle propped against them](../../assets/articles/best-rooftop-restaurants-london/le-pont-de-la-tour-terrace.jpg)
 
-*The terrace sits on the Butlers Wharf promenade, pointed at the bridge. Tables are taken up to 12 people; larger parties go through the events team.*
+*The terrace at Le Pont de la Tour.*
 
 Inside splits in two — a brasserie-style Bar & Grill and a more formal restaurant — and the cooking is classical French: moules marinière, roast native lobster with garlic butter, a seasonal set menu of two or three courses. Bookings run to 12 people; beyond that it is the events team.
 
@@ -310,7 +310,7 @@ A restored Jesus College Oxford barge moored on the Richmond bank, run by the Da
 
 ![The top deck of the Peggy Jean barge at Richmond: scalloped pink and cream parasols over curved rattan banquettes and marble tables, two domed wood-fired ovens lettered "Peggy" and "Jean", and the Thames with moored boats and Richmond Bridge behind](../../assets/articles/best-rooftop-restaurants-london/peggy-jean-top-deck.jpg)
 
-*The evening plates come off those two ovens. The indoor rooms take bookings and this deck does not.*
+*The top deck, Peggy Jean.*
 
 Three things the operator says plainly and other lists do not. **The indoor rooms take bookings and the terrace does not**; the terrace is covered by umbrellas and heated in cooler months; and the boat sits on a working pontoon on tidal water with open edges and several levels, so children need holding onto and prams have to be folded at the entrance.
 
@@ -322,7 +322,7 @@ Four small units cut into the canal wall, almost all the seating outdoors on the
 
 ![Towpath on the Regent's Canal: green folding tables and wooden chairs set out on the towpath in front of open shuttered units cut into the canal wall, with the counter, shelves of crockery and a chalkboard menu inside](../../assets/articles/best-rooftop-restaurants-london/towpath-canal-tables.jpg)
 
-*Shutters up, and nearly all the seating on the towpath itself. Dinner runs Thursday to Saturday when the season is on.*
+*Towpath, on the Regent's Canal.*
 
 **No bookings at all — just turn up** — and it runs a season rather than a year, closing Mondays and Tuesdays within it. Dinner service runs Thursday to Saturday evenings when the season is on. Midweek is the version where you get a table.
 

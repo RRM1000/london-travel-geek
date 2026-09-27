@@ -86,7 +86,7 @@ Book as far ahead as the window allows, which in practice means months rather th
 
 ![A full table at Gymkhana: a biryani sealed under a browned pastry lid, seekh kebabs with green chutney, a curry in a copper handi and a whole spiced cauliflower, on patterned china](../../assets/articles/best-indian-restaurants-london/gymkhana.jpg)
 
-*A table ordered properly. The biryani arrives sealed under its lid and is cracked open in front of you.*
+*Gymkhana's biryani, ordered properly.*
 
 ▶ **In the videos:** [TOPJAW visits from 14:15](https://www.youtube.com/watch?v=AHUnqeRroYk&t=855s).
 
@@ -124,7 +124,7 @@ The **dum biryani** is the signature: rice and meat sealed under a pastry lid an
 
 ![Brass karahis of prawn and chicken curry on the table at Veeraswamy, with a dish of garlic and coriander naan and a glass of red wine](../../assets/articles/best-indian-restaurants-london/veeraswamy.jpg)
 
-*Brass, chandeliers and a wine list — the old formal register, still being cooked a hundred years in.*
+*Veeraswamy's dining room.*
 
 
 > ⚠️ **Check the rules before you book.** Veeraswamy runs a smart-casual dress code, age guidance for evening service, and a minimum spend at dinner outside the [pre-theatre menu](https://www.veeraswamy.com/whats-on/pre-theatre-and-post-theatre-dining/).
@@ -173,7 +173,7 @@ Vivek Singh's cooking is Indian technique applied to British produce: **game, ve
 
 ![A plate at The Cinnamon Club: slices of spiced meat cooked pink, fanned over wilted greens with a spiced sauce pooled beside them](../../assets/articles/best-indian-restaurants-london/cinnamon-club.jpg)
 
-*Spiced rather than curried, plated rather than served in a bowl. This is the distinction the whole restaurant rests on.*
+*The Cinnamon Club's plate.*
 
 ### Ambassadors Clubhouse, Mayfair
 
@@ -231,7 +231,7 @@ The **bacon naan roll** made it a breakfast destination as much as a dinner one:
 
 ![A crowded table at Dishoom holding lamb chops, chicken tikka, malai chicken, gunpowder potatoes, a prawn curry and a tin of naan on a marble top](../../assets/articles/best-indian-restaurants-london/dishoom.jpg)
 
-*The dinner order, which is a different restaurant from the breakfast one. Everything here is shared and nothing needs booking before 6pm.*
+*Dishoom's dinner order.*
 
 
 > 💡 **Getting a table:** 6pm is the cut-off, not the party size — any number can book before it, six or more after. Most tables are held for walk-ins at every hour, so an empty booking page is not a full restaurant. Breakfast and lunch barely queue.
@@ -258,7 +258,7 @@ The **Keralan fried chicken** with curry leaf mayonnaise is the signature and ha
 
 ![Two small plates at Kricket — roast pumpkin in a makhani sauce with crumbled cheese and pumpkin seeds, and a dal — beside a bowl of cumin rice, with the printed menu visible underneath](../../assets/articles/best-indian-restaurants-london/kricket.jpg)
 
-*Small plates, single-figure prices on the menu underneath, four or five to a table. That was a new idea for Indian food in London when Kricket opened.*
+*Kricket's small plates.*
 
 ### Oudh 1722, Borough
 
@@ -286,7 +286,7 @@ Awadhi cooking is slow and perfumed rather than hot: **dum biryani** sealed and 
 
 ![The Tamil Crown Sunday roast on a steel thali: tandoori chicken, roast potatoes, parathas, poppadoms, red cabbage and curry sauces](../../assets/articles/best-indian-restaurants-london/tamil-crown-roast.jpg)
 
-*Its sibling The Tamil Crown does this on a Sunday — see the [Sunday roast guide](/articles/best-sunday-roast-london/).*
+*The Tamil Crown's Sunday roast — see the [Sunday roast guide](/articles/best-sunday-roast-london/).*
 
 **A Victorian pub with a Tamil kitchen in it** — the format London does better than anywhere, and this is the room that made it fashionable. Prince Durairaj cooks the food of Tamil Nadu and Sri Lanka in a proper Islington boozer with the carpet and the bar intact.
 
@@ -312,7 +312,7 @@ The same coast as Quilon for a fifth of the price. An entirely vegetarian Kerala
 
 ![A bowl of aubergine curry in a steel dish](../../assets/articles/best-indian-restaurants-london/rasa.jpg)
 
-*Keralan vegetarian cooking in Stoke Newington, and one of the few places in London doing it properly. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4829536059), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Rasa, Stoke Newington. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4829536059), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 #### Hoppers, Soho
 
@@ -360,7 +360,7 @@ A love letter to the Bombay dining rooms of the 1970s, from the group behind Gym
 
 ![A bowl of aloo dish served on floral vintage china](../../assets/articles/best-indian-restaurants-london/empire-empire.jpg)
 
-*Styled as a 1970s Bombay drinking den, down to the crockery. The food is more serious than the theming suggests. Photo: [Brokentaco](https://www.flickr.com/photos/92024986@N00/54019764399), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Empire Empire's dining room. Photo: [Brokentaco](https://www.flickr.com/photos/92024986@N00/54019764399), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 #### Colonel Saab, Bloomsbury
 
@@ -380,7 +380,7 @@ One of the first two Indian restaurants anywhere in the world to win a Michelin 
 
 ![The dark frontage of Tamarind restaurant in Mayfair](../../assets/articles/best-indian-restaurants-london/tamarind.jpg)
 
-*One of the first two Indian restaurants in the world to get a Michelin star, in 2001. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5211344376), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Tamarind, Mayfair. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5211344376), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 #### Babur, Brockley
 

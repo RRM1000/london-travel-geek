@@ -88,7 +88,7 @@ They are aimed squarely at families and they queue like it. If you are walking w
 
 ![The painted timber entrance arch to Between the Bridges on the South Bank, a hot dog stall to one side and an ice cold drinks board to the other, with the London Eye behind](../../assets/articles/south-bank-walk/between-the-bridges.jpg)
 
-*Between the Bridges, on Queen's Walk by the Eye. It is a seasonal operation — it reopens each year rather than trading straight through — so check it is on before planning a stop.*
+*Between the Bridges.*
 
 > 💡 **The detour: Leake Street.** Five minutes inland from here, under Waterloo station, is a road tunnel where spraying the walls is **legal**. It is free, open at all hours, and repainted so constantly that nobody has ever seen it twice. It is easy to walk straight past, and it is worth the ten-minute round trip. See the section below.
 
@@ -102,7 +102,7 @@ Underneath it is the **Undercroft**, London's oldest skate spot, in continuous u
 
 ![The Undercroft skate space beneath the Southbank Centre, every concrete pillar, wall and bank covered in layered graffiti, with a skater in the distance and a banked slope in the foreground](../../assets/articles/south-bank-walk/southbank-undercroft.jpg)
 
-*Every surface is painted and repainted, and none of the concrete was built for this — it is a 1960s service undercroft the skaters simply took.*
+*The Undercroft.*
 
 ## 4. The book market under Waterloo Bridge
 
@@ -118,7 +118,7 @@ The **exhibitions in the foyers are free**, the riverside terrace garden is free
 
 ![The concrete terraces of the National Theatre with a KERB street food and drink setup in front of it, pink umbrellas over picnic tables and a bar signed Drink and Eat](../../assets/articles/south-bank-walk/national-theatre-kerb.jpg)
 
-*KERB runs the food and drink out front, which makes this the second obvious stop for lunch after Borough. Picnic tables, deckchairs and a bar, all in the open.*
+*KERB's food stalls at the National Theatre.*
 
 > ⚠️ **The building opens Monday to Saturday, 10am to 11pm — not Sundays.** It is the second thing on this walk with a day-of-the-week problem, and unlike Borough Market it catches people who were not planning to go in.
 
@@ -132,7 +132,7 @@ Next door is the **Oxo Tower**, whose lettered windows exist because 1930s regul
 
 ![The red brick riverside frontage of Oxo Tower Wharf with a banner reading Creative London, Oxo Tower Wharf, and an ornate lamp post in front](../../assets/articles/south-bank-walk/oxo-tower-wharf.jpg)
 
-*Oxo Tower Wharf from the towpath. The designers' studios behind those arches are free to walk into, and so is the eighth-floor gallery upstairs.*
+*Oxo Tower Wharf.*
 
 ## 7. Tate Modern
 
@@ -143,9 +143,6 @@ Next door is the **Oxo Tower**, whose lettered windows exist because 1930s regul
 The **Turbine Hall** is the room to see even if you skip everything else — 3,300 square metres of it, with a commissioned installation most of the year. The collection is free; only the temporary exhibitions are ticketed.
 
 **Open 10am to 6pm Sunday to Thursday, and 10am to 9pm on Friday and Saturday**, which makes it the one stop on this walk that works as an evening plan.
-
-*The sign along the roofline says it: free and open to all. Only the temporary exhibitions are ticketed.*
-
 ## 8. The Millennium Bridge and Shakespeare's Globe
 
 The **Millennium Bridge** is worth walking to the middle of and no further. It was built to frame St Paul's, and that view — the dome sitting square at the end of the span — is the whole point of it. It famously wobbled on opening in 2000 and shut for two years to be fixed.
@@ -156,7 +153,7 @@ Next along the bank is **Shakespeare's Globe**, a 1997 reconstruction of the 159
 
 ![The thatched, white and timber-framed exterior of Shakespeare's Globe seen from the street, with production banners on the wall](../../assets/articles/south-bank-walk/shakespeares-globe.jpg)
 
-*This is the view you get without a ticket, and it is free. The thatch is the only one in London — the roof is the reason the building needed a special dispensation to be built at all.*
+*Shakespeare's Globe, from the street.*
 
 ## 9. Southwark Cathedral and Borough Market
 
@@ -168,7 +165,7 @@ And then **Borough Market**, which is the reason a lot of people do this walk at
 
 ![Crowds under the green ironwork and glass roof of Borough Market, a roast chicken wrap counter on the left with a queue at it](../../assets/articles/south-bank-walk/borough-market.jpg)
 
-*Mid-afternoon on a Sunday and still this busy. The green ironwork is the 1850s market hall; the queue is for one of about a hundred traders.*
+*Borough Market.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -180,11 +177,11 @@ Beside it, **Hay's Galleria** is a covered Victorian dock with a glass roof, now
 
 ![Inside Hay's Galleria, a barrel-vaulted glass and iron roof over brick warehouse walls, with a tall dark metal ship sculpture standing in a circular pool in the middle](../../assets/articles/south-bank-walk/hays-galleria.jpg)
 
-*The dock was roofed over rather than filled in, which is why the sculpture sits in water. The court behind it is a temporary installation and comes and goes.*
+*Hay's Galleria.*
 
 ![HMS Belfast moored on the Thames with the City of London's towers behind it, the Walkie-Talkie and the Gherkin on the skyline](../../assets/articles/south-bank-walk/hms-belfast.jpg)
 
-*The warship and the banking towers in one frame, which is the Pool of London in a sentence. You do not need a ticket for this view.*
+*HMS Belfast.*
 
 ## 11. Tower Bridge
 
@@ -206,7 +203,7 @@ Worth its own section because it is nothing like the rest of this walk.
 
 ![Leake Street tunnel under Waterloo station, its curved brick ceiling and both walls covered in graffiti, people walking through and standing in groups under the strip lights](../../assets/articles/south-bank-walk/leake-street-arches.jpg)
 
-*The ceiling gets painted as often as the walls. What is in this photograph has almost certainly been painted over since.*
+*Leake Street.*
 
 Go if you want the one part of this route that is not curated. Skip it if you are walking with small children in the evening — it is dark, loud and full of spray fumes.
 

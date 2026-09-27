@@ -77,7 +77,7 @@ The restaurants run along **three streets** rather than one: New Malden High Str
 
 ![The HanJan bar and karaoke sign above a Korean-run unit on a New Malden street, a Tesco next door and a chalkboard of offers in the window](../../assets/articles/best-korean-restaurants-london/hanjan-new-malden.jpg)
 
-*Burlington Road and the High Street carry most of it — the train from Waterloo takes about half an hour. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:HanJan,_New_Malden,_KT3.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Burlington Road, New Malden. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:HanJan,_New_Malden,_KT3.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### Jin Go Gae, Burlington Road
 
@@ -91,7 +91,7 @@ Table barbecue is the format: **galbi** — marinated short rib — and pork bel
 
 ![Seafood grilling on a sunken table grill at Jin Go Gae - squid, a razor clam, mussels and a whole prawn with sliced garlic, ringed by banchan, pickled vegetables and a bowl of kimchi](../../assets/articles/best-korean-restaurants-london/jin-go-gae-seafood-grill.jpg)
 
-*The grill is not only for galbi and pork belly — squid, razor clams, mussels and prawns go on it too, and the banchan arrives regardless.*
+*The grill at Jin Go Gae.*
 
 
 ### Imone, New Malden High Street
@@ -100,7 +100,7 @@ Table barbecue is the format: **galbi** — marinated short rib — and pork bel
 
 ![A cast-iron platter of sizzling beef bulgogi with onion, spring onion and sesame at Imone, with bowls of cabbage kimchi, seasoned bean sprouts and cubed radish kimchi beside it](../../assets/articles/best-korean-restaurants-london/imone-bulgogi.jpg)
 
-*The banchan comes unasked and gets refilled — three bowls here for one plate of bulgogi.*
+*Bulgogi and banchan at Imone.*
 
 **A small family-run room on New Malden high street**, and the one locals send you to — strong on seafood, and with **halal chicken options** that most Korean kitchens do not offer.
 
@@ -127,7 +127,7 @@ Grilled meats at the table and a long list of **jjigae** — the bubbling stews 
 
 ![Marinated and plain beef cooking on a domed table grill at Cah Chi, with a wooden box of three kimchis, a bowl of purple rice, dipping sauces and a bowl of spring onion salad](../../assets/articles/best-korean-restaurants-london/cah-chi-table-grill.jpg)
 
-*It does the barbecue too, but the stews are what people come back for.*
+*Table grill at Cah Chi.*
 
 One of the **oldest Korean restaurants in New Malden**, family-run and considerably plainer than the newer grills — the room people go to for the stews rather than the barbecue.
 
@@ -151,7 +151,7 @@ One of the **oldest Korean restaurants in New Malden**, family-run and considera
 
 ![A metal tray of Korean fried chicken lined with newspaper, the pieces glazed a deep amber and scattered with crisp fried shallots](../../assets/articles/best-korean-restaurants-london/chick-and-beers-wings.jpg)
 
-*Double-fried, glazed, and finished with fried shallots — the shell stays crisp under the sauce, which is the whole reason for frying it twice.*
+*Korean fried chicken, Chick and Beers.*
 
 **Family-owned, double-fried, and widely held to be the best Korean fried chicken in London** — in the middle of New Malden's Koreatown rather than in town, which is why it stays honest.
 
@@ -181,7 +181,7 @@ Korean fried chicken done the same double-fried way as its neighbours, in plain,
 
 ![Heavily marbled raw beef laid out on a domed grill at Olle, with a boat-shaped tray of kimchi and pickled cucumber, a plate of egg fried rice and a plate of fried chicken](../../assets/articles/best-korean-restaurants-london/olle-marbled-beef.jpg)
 
-*The marbling is the argument for the price. Fried rice and fried chicken come alongside rather than instead.*
+*Marbled beef at Olle.*
 
 **Table grills in the middle of Soho**, so the New Malden format without the forty-minute train — which is the entire argument for it and a reasonable one.
 
@@ -195,7 +195,7 @@ Charcoal barbecue at the table: **marinated galbi**, pork belly and brisket cook
 
 ![A table at Pochawa Grill under pink and blue neon, an extractor hood over the grill, a steel platter of raw marinated beef and rolled pork belly, and a bowl of kimchi fried rice topped with a fried egg](../../assets/articles/best-korean-restaurants-london/pochawa-grill-table.jpg)
 
-*The neon is not a filter. Kimchi fried rice with an egg on top is the thing to order once the grilling is done.*
+*Pochawa Grill, Chinatown.*
 
 **A neon-pink Korean pub format dropped into Chinatown** — a *pojangmacha*, the street-tent drinking spot, rebuilt indoors. You grill at the table and the room is built for a night rather than a meal.
 
@@ -249,7 +249,7 @@ It moved here from St Giles High Street when Crossrail demolished the old Koreat
 
 ![A dolsot bibimbap in a hot stone bowl](../../assets/articles/best-korean-restaurants-london/bibimbap-soho.jpg)
 
-*Dolsot bibimbap, served in the stone bowl that keeps crisping the rice at the bottom while you eat. Photo: [Andy Li](https://commons.wikimedia.org/wiki/File:Dol_sot_bibimbap_with_white_rice_-_Bibimbap_Soho_2025-09-18.jpg), CC0.*
+*Dolsot bibimbap. Photo: [Andy Li](https://commons.wikimedia.org/wiki/File:Dol_sot_bibimbap_with_white_rice_-_Bibimbap_Soho_2025-09-18.jpg), CC0.*
 
 ### Mukbap, Shoreditch
 

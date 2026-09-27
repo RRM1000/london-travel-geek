@@ -70,7 +70,7 @@ Both are accepted across London's public transport network:
 
 ![A TfL poster in a bus shelter reading Contactless, the safest way to pay, and noting that Oyster works on the same services](../../assets/articles/oyster-card/tfl-contactless-poster.jpg)
 
-*TfL's contactless poster at a bus shelter, from before TfL Rail became the Elizabeth line in 2022.*
+*TfL's contactless poster, at a bus shelter.*
 
 ## National Rail services within London
 
@@ -151,7 +151,7 @@ If using an Oyster card, keep your balance topped up at any station ticket machi
 
 ![A Chase-branded Transport for London ticket machine showing the Oyster top-up screen and a contactless prompt reading In a hurry?](../../assets/articles/oyster-card-guide-london/tfl-ticket-machine-oyster.jpg)
 
-*A ticket machine at King's Cross St Pancras. The yellow disc to the right of the screen is the Oyster reader — that is where the card goes, both to start and to finish. The machine language can be changed using the flags along the bottom of the screen.*
+*A ticket machine, at King's Cross St Pancras.*
 
 > 💡 **Chase is TfL's official payment partner.** Tap in with a Chase debit or credit card and you can earn [2% cashback on your journeys, up to £20 a month](https://www.chase.co.uk/gb/en/tfl/). It is for UK residents with a Chase account, who qualify each month by making 15 card payments or Direct Debits and keeping £1,000 in Chase savings.
 
@@ -167,7 +167,7 @@ If using an Oyster card, keep your balance topped up at any station ticket machi
 
 ![Ticket barriers at a London Underground station, with a yellow contactless reader on the gate](../../assets/articles/oyster-card/ticket-gateline-contactless.jpg)
 
-*The yellow reader sits on top of the gate to your right. Touch one card flat against it — not a whole wallet.*
+*The yellow reader, on the gate.*
 
 
 > ⚠️ **Avoid Card Clash.**  

@@ -61,7 +61,7 @@ Worth a detour even though it isn't a market: **St Pancras International's** con
 
 ![Giant illuminated red baubles and gold bells hanging from the Apple Market's cast-iron arcade at Covent Garden, with a disco ball among them](../../assets/articles/christmas-in-london/covent-garden-apple-market-baubles.jpg)
 
-*The Apple Market's arcade, dressed for the season — one of the more elaborate covered displays in central London.*
+*The Apple Market, Covent Garden.*
 
 ---
 
@@ -108,7 +108,7 @@ Different from the free street displays above — these are paid, walk-through e
 
 ![Skaters on the ice rink in the courtyard of Somerset House, with SKATE spelled in illuminated letters along the roofline of the neoclassical building behind](../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg)
 
-*Somerset House is the one worth booking rather than the one you walk past. The courtyard is enclosed on all four sides, so the rink sits inside an eighteenth-century quadrangle rather than in a car park.*
+*The rink at Somerset House.*
 
 **Book Somerset House early:** prices vary through the run and the lowest go to early bookers. **Not running in 2026:** the **Natural History Museum's** rink has closed for good, **Canary Wharf's** is taking a break for the season, and there is no **Tower of London** rink.
 
@@ -147,7 +147,7 @@ Panto is not the only thing on, and two of the best tickets in London at Christm
 **10 November 2026 – 9 January 2027**, previews to 23 November. Jack Thorne's adaptation, directed by Matthew Warchus, now in its tenth season and **London's longest-running version of the story**. The auditorium is reconfigured in the round and the show comes out into it — mince pies included, genuinely.
 
 ![Rows of lit lanterns hanging on chains in the dark, the staging used for A Christmas Carol at the Old Vic](../../assets/articles/christmas-in-london/a-christmas-carol-old-vic.jpg)
-*The lanterns are hung over the audience, not the stage — the auditorium is reconfigured in the round for the run.*
+*The Old Vic's staging, in the round.*
 
 It is warmer and less reverent than the book suggests — handbells, carols sung by the cast, and a Scrooge redeemed by the room rather than in spite of it. **Two hours with an interval, and the recommended age is eight and over**, which makes it the rare Christmas show that suits a mixed-age group without anyone being talked down to.
 
@@ -156,7 +156,6 @@ It is warmer and less reverent than the book suggests — handbells, carols sung
 **18 December 2026 – 23 January 2027, from £15.** Mischief — the company behind *The Play That Goes Wrong* — doing the same story as a disaster: the Cornley crew feuding over who plays Scrooge while the set comes apart around them.
 
 ![Artwork for Christmas Carol Goes Wrong, the Mischief company's disaster version of the Dickens story](../../assets/articles/christmas-in-london/christmas-carol-goes-wrong.jpg)
-*Mischief's version, in which the set is as much of a problem as Scrooge.*
 
 **It is the answer to "we want something Christmassy but not a panto and not earnest."** It also runs well past Christmas, into late January, which makes it the easiest festive ticket to get if you leave it late.
 
@@ -165,7 +164,6 @@ It is warmer and less reverent than the book suggests — handbells, carols sung
 **22 September 2026 – 9 January 2027.** Sondheim and Lapine's fairy-tale collision — Cinderella, Rapunzel, Jack and a baker's wife all wanting something — transferred to the West End after a sell-out run at the Bridge and won the Olivier for Best Musical Revival on the way.
 
 ![Artwork for Into the Woods at the Noël Coward Theatre](../../assets/articles/christmas-in-london/into-the-woods-noel-coward.jpg)
-*Into the Woods at the Noël Coward, after the Bridge run and the Olivier for Best Musical Revival.*
 
 **It is the least Christmassy thing here and the best argument for booking it.** The second act takes the happy endings apart, so it suits adults and older children rather than a family with small ones, and it runs through to 9 January if December is already spoken for.
 
@@ -198,7 +196,6 @@ It has run for 32 years and **this year it is a new production** — a world pre
 **17 December 2026 – 10 January 2027.** Over a hundred dancers and musicians, with the ENB Philharmonic playing Tchaikovsky live — which is the argument for this one over a recording in a smaller room.
 
 ![English National Ballet artwork for Nutcracker: a dancer in white mid-turn among oversized sweets, boiled sweets and candy canes on a pale blue ground](../../assets/articles/christmas-in-london/nutcracker-english-national-ballet.jpg)
-*English National Ballet's Nutcracker, at the Coliseum from mid-December.*
 
 **The Royal Ballet's Nutcracker at Covent Garden** runs every Christmas as well, and is the grander and more expensive of the two. Either works from about five upwards; both sell out early, so book the moment the dates open rather than in November.
 

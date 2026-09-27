@@ -78,7 +78,7 @@ Historic Royal Palaces' own guidance is that the Tower is quieter after midday; 
 
 ![The long Gothic revival facade of the Waterloo Barracks inside the Tower of London, home to the Crown Jewels](../../assets/articles/tower-of-london-guide/waterloo-barracks-jewel-house.jpg)
 
-*The Waterloo Barracks. The Jewel House, home to the Crown Jewels, is on the ground floor.*
+*The Waterloo Barracks, home to the Jewel House.*
 
 ### The Crown Jewels
 
@@ -90,7 +90,7 @@ Free with standard admission, with no separate booking needed. Tours run roughly
 
 ![A Yeoman Warder in dark blue and red uniform addressing a group of visitors in the outer ward of the Tower of London](../../assets/articles/tower-of-london-guide/yeoman-warder-tour.jpg)
 
-*A Yeoman Warder addressing visitors in the outer ward.*
+*A Yeoman Warder addressing visitors.*
 
 ### The White Tower and the Line of Kings
 
@@ -98,7 +98,7 @@ Commissioned by William the Conqueror in the 1070s, the White Tower is the origi
 
 ![A display of mounted horse armour and royal suits of plate from the Line of Kings inside the White Tower](../../assets/articles/tower-of-london-guide/white-tower-line-of-kings.jpg)
 
-*The Line of Kings, the White Tower's display of royal armour.*
+*The Line of Kings.*
 
 - **First floor:** St John's Chapel, an 11th-century Norman chapel in white Caen stone.
 - **Second floor:** the Line of Kings, with armour linked to Henry VIII and Charles I.
@@ -110,13 +110,13 @@ The southern ramparts look out over the Thames. Below them, **Traitor's Gate** s
 
 ![The arched stone opening of Traitor's Gate beneath St Thomas's Tower viewed from the Tower wharf](../../assets/articles/tower-of-london-guide/traitors-gate.jpg)
 
-*Traitor's Gate beneath St Thomas's Tower. Prisoners arrived by barge through this water gate from Westminster.*
+*Traitor's Gate.*
 
 By tradition dating to the reign of Charles II, the Tower keeps at least six ravens, cared for today by the Ravenmaster.
 
 ![A black raven perching on a stone plinth on the lawn of the Tower of London with feathers glistening](../../assets/articles/tower-of-london-guide/tower-of-london-raven.jpg)
 
-*One of the Tower's resident ravens, kept on the South Lawn.*
+*A resident raven, on the South Lawn.*
 
 ---
 

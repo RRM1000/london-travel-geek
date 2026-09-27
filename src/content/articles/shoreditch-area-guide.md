@@ -100,7 +100,7 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 
 ![Two large mural faces with green rope-like hair and a pink nebula painted between them, on a Shoreditch corner](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
 
-*Shoreditch changes month to month. Nothing here is permanent, which is the reason to walk it more than once.*
+*Shoreditch street art.*
 
 ## Key streets and micro-districts
 
@@ -114,7 +114,7 @@ The **Truman Brewery** itself is the thing to understand: brewing stopped in 198
 
 ![The black frontage of Rough Trade East on Dray Walk, its window display advertising new releases](../../assets/articles/shoreditch-area-guide/rough-trade-east.jpg)
 
-*Rough Trade East, on Dray Walk inside the Truman Brewery. A record shop with a stage at the back — in-store gigs are free with an album purchase.*
+*Rough Trade East, Dray Walk.*
 
 ### The Brick Lane Vintage Market
 
@@ -128,11 +128,11 @@ It is **underground**, in F Block at 85 Brick Lane, down a neon-lit staircase of
 
 ![Rails of vintage clothing and racks of shirts inside the Brick Lane vintage market](../../assets/articles/shoreditch-area-guide/brick-lane-vintage-rails.jpg)
 
-*The vintage market under the Truman Brewery. Over a hundred traders across a basement floor, open every day of the week.*
+*The Brick Lane Vintage Market.*
 
 ![Market stalls filling Brick Lane beneath the railway bridge, with Banksy's three hanging monkeys stencilled on the concrete above](../../assets/articles/shoreditch-area-guide/brick-lane-market-bridge.jpg)
 
-*Brick Lane under the railway bridge on a Sunday. The three monkeys stencilled on the concrete are Banksy's, from August 2024 — Transport for London removed them that December.*
+*Brick Lane, under the railway bridge.*
 
 **Next door, the Backyard Market** is the other half of the same trip: independent designer-makers inside a repurposed warehouse set back from Brick Lane, with street food stalls out front on the street. **Saturday 11am–6pm and Sunday 10am–6pm only** — so on a weekday, the vintage market is the one that is open.
 
@@ -146,7 +146,7 @@ Walk them slowly and look up. Many are still lived in, several by artists who bo
 
 ![Long communal tables full of people eating in front of the food counters at Old Spitalfields Market](../../assets/articles/shoreditch-area-guide/old-spitalfields-kitchens.jpg)
 
-*The Kitchens at Old Spitalfields — a dozen counters around shared tables, and the most reliable weekday lunch in the area.*
+*The Kitchens, Old Spitalfields.*
 
 ### Redchurch Street and Chance Street
 
@@ -177,7 +177,7 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 
 ![The Truman Brewery chimney and clock tower rising over Brick Lane](../../assets/articles/shoreditch-area-guide/truman-brewery.jpg)
 
-*The Truman Brewery. Brewing stopped in 1989 and the buildings now hold markets, studios and bars across both sides of Brick Lane. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2403737549), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Truman Brewery. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2403737549), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -197,7 +197,7 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 
 ![Shipping-container units and long wooden benches at Boxpark Shoreditch](../../assets/articles/shoreditch-area-guide/boxpark-shoreditch.jpg)
 
-*Boxpark, built out of shipping containers in 2011. The upper deck is food stalls and long shared tables. Photo: [JasonParis](https://www.flickr.com/photos/94064020@N00/8063833095), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Boxpark Shoreditch. Photo: [JasonParis](https://www.flickr.com/photos/94064020@N00/8063833095), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Getting there
 

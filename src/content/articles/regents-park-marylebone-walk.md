@@ -88,7 +88,7 @@ The first thing inside the gate. Follow the path north to the water and along th
 
 ![A blue pedal boat out on the boating lake, with a swan swimming past and trees lining the far shore](../../assets/articles/regents-park-marylebone-walk/the-boating-lake-pedalo.jpg)
 
-*Boats go out from the boathouse from late March to October.*
+*The boating lake.*
 
 ## 3. Regent's Park Open Air Theatre
 
@@ -110,7 +110,7 @@ It plays **a summer season only, May to September**, and you go in for performan
 
 ![A wooden footbridge over the ornamental lake in Queen Mary's Gardens, framed by a weeping willow](../../assets/articles/regents-park-marylebone-walk/queen-marys-gardens-bridge.jpg)
 
-*The ornamental lake, which carries the gardens outside rose season.*
+*The ornamental lake, Queen Mary's Gardens.*
 
 ## 5. Chester Terrace and Cumberland Terrace
 
@@ -122,7 +122,7 @@ Both are private homes, so the pavement is the view. Where the two terraces meet
 
 ![The columned entrance and sculpted white pediment of Cumberland Terrace](../../assets/articles/regents-park-marylebone-walk/chester-and-cumberland-terraces-pediment.jpg)
 
-*Cumberland Terrace, the showpiece: a run of columns under a sculpted pediment.*
+*Cumberland Terrace.*
 
 ## 6. The Broad Walk and the Avenue Gardens
 
@@ -134,7 +134,7 @@ The avenue runs dead straight to Park Square, and Park Crescent is across the ro
 
 ![A three-tiered stone fountain with water jets, framed by trees along the Avenue Gardens](../../assets/articles/regents-park-marylebone-walk/broad-walk-avenue-gardens-fountain.jpg)
 
-*One of the Avenue Gardens' tiered fountains, also Nash's design.*
+*One of the Avenue Gardens' fountains.*
 
 ## 7. Park Crescent
 
@@ -146,13 +146,13 @@ Regent's Park station (Bakerloo) is on the corner, which makes this the halfway 
 
 ![The curved cream stucco facade of Park Crescent, with ground-floor columns and the road curving round it](../../assets/articles/regents-park-marylebone-walk/park-crescent-facade.jpg)
 
-*Nash's stucco half-circle, framing the top of Portland Place.*
+*Park Crescent.*
 
 ## 8. Marylebone High Street and Daunt Books
 
 ![The green Edwardian shopfront of Daunt Books on Marylebone High Street](../../assets/articles/marylebone-area-guide/daunt-books.jpg)
 
-*Daunt Books, an Edwardian shop built for a bookseller and still one. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2417477044), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Daunt Books, Marylebone High Street. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2417477044), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 Walk down the high street: low-rise, largely independent, and nothing like Oxford Street at its far end.
 
@@ -168,7 +168,7 @@ Now it is a quiet square of plane trees with a bandstand and a playground, **ope
 
 ![Paddington Street Gardens with a glass-sided bandstand, flower beds and mature plane trees against a blue sky](../../assets/articles/regents-park-marylebone-walk/paddington-street-gardens-bandstand.jpg)
 
-*A quiet square of plane trees with a bandstand.*
+*Paddington Street Gardens.*
 
 **Marylebone Farmers' Market** is a minute away: **Sundays only, 10am to 2pm**, rain or shine, on St Vincent Street, Aybrook Street and the top of Moxon Street. Fish, meat, game in season, and fruit and vegetables direct from the farms.
 
@@ -188,7 +188,7 @@ South to Wigmore Street and into **St Christopher's Place**, a pedestrian alley 
 
 ![Outdoor café tables under yellow awnings along the pedestrianised St Christopher's Place, with shops and string lights above](../../assets/articles/regents-park-marylebone-walk/st-christophers-place-tables.jpg)
 
-*A pedestrian alley of shops and pavement tables.*
+*St Christopher's Place.*
 
 **Bond Street station** is two minutes along Oxford Street to the left. That is the end.
 

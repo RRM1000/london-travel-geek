@@ -52,7 +52,7 @@ Step-free means no stairs and no escalators between the street and the train. It
 
 ![The eastbound Elizabeth line platform at Tottenham Court Road, with full-height platform-edge doors level with the platform floor](../../assets/articles/step-free-london/tottenham-court-road-elizabeth-line.jpg)
 
-*An Elizabeth line platform: level with the train, with platform-edge doors. This is what the blue symbol means — street to train, no ramp needed. Photo: [ShoreditchHighStreet](https://commons.wikimedia.org/wiki/File:Eastbound_Elizabeth_line_platform_Tottenham_Court_Road.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*An Elizabeth line platform. Photo: [ShoreditchHighStreet](https://commons.wikimedia.org/wiki/File:Eastbound_Elizabeth_line_platform_Tottenham_Court_Road.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 
 On the Tube map, a **blue wheelchair symbol means step-free from street to train** — a small step or gap that most people including wheelchair users can cross. A **white symbol means step-free from street to platform**: the lift gets you down, but the step and gap to the train are large and you will need a boarding ramp. TfL's own wording is blunt about it: at a street-to-platform station "there is a large step or gap and you will need a boarding ramp to get on and get off the train."
@@ -84,7 +84,7 @@ TfL's most recent Tube additions were **Northolt in September 2026**, Colindale 
 
 ![Lifts down to the platforms at Green Park station, with step-free access signage beside the lift doors](../../assets/articles/step-free-london/green-park-station-lifts.jpg)
 
-*Green Park, one of the step-free stations in the middle of the gap. Photo: [AsparagusTips](https://commons.wikimedia.org/wiki/File:Green_Park_station_-_lifts_to_platforms.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+*Green Park station. Photo: [AsparagusTips](https://commons.wikimedia.org/wiki/File:Green_Park_station_-_lifts_to_platforms.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
 
 The cluster of stations a first-time visitor reaches for is the weakest part of the network. **Charing Cross, Embankment, Covent Garden, Leicester Square, Piccadilly Circus, Holborn, Chancery Lane and Temple do not appear in TfL's step-free Tube guide at all.** **South Kensington** and **Monument** appear only as step-free interchanges between platforms — useful if you are already underground, no help from the street. **Bank** is step-free, but the lifts reach the Northern line and DLR platforms only, not the Central or Waterloo & City.
@@ -116,7 +116,7 @@ If there is a queue outside a Tube station, TfL's own instruction is that custom
 
 ![A red London double-decker with its centre-door ramp lowered to the pavement, the wheelchair symbol on the front beside the roundel](../../assets/articles/step-free-london/london-bus-wheelchair-ramp.jpg)
 
-*The ramp at the centre door. Every bus in London has one, and the driver lowers the bus to the kerb as well. Photo: [Spsmiler](https://commons.wikimedia.org/wiki/File:East-London-Transit-Demonstration-Bus1.jpg), public domain.*
+*A bus's wheelchair ramp. Photo: [Spsmiler](https://commons.wikimedia.org/wiki/File:East-London-Transit-Demonstration-Bus1.jpg), public domain.*
 
 
 **Every London bus route is run with low-floor vehicles**, each with an access ramp and one dedicated wheelchair space, and each able to kneel to cut the step up from the kerb. Every route, against 95 of the Tube's stations — for a lot of central journeys the bus is the better answer, not the fallback.
@@ -133,7 +133,7 @@ Our [guide to using London buses and trams](/articles/how-to-use-london-buses-an
 
 ![A London black cab at the kerb with its wheelchair ramp folded out from the passenger door onto the pavement](../../assets/articles/step-free-london/london-black-cab-wheelchair-ramp.jpg)
 
-*Every licensed London taxi is wheelchair accessible and carries a ramp. Photo: [Turini2](https://commons.wikimedia.org/wiki/File:London_taxi_with_deployed_wheelchair_ramp.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*A London taxi's wheelchair ramp. Photo: [Turini2](https://commons.wikimedia.org/wiki/File:London_taxi_with_deployed_wheelchair_ramp.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 
 **[Uber Boat by Thames Clippers](https://www.thamesclippers.com/plan-your-journey/accessibility) runs the river bus network**, and all of its piers are step-free and wheelchair accessible except three: **Cadogan, London Bridge City and Wandsworth Riverside Quarter**, where the boarding brow gets too steep at some states of the tide. The alternatives are Battersea Power Station for Cadogan, Bankside for London Bridge City, and Putney or Plantation Wharf for Wandsworth. Every boat is wheelchair, mobility scooter and pram accessible, boarding by ramp; the larger vessels take up to four wheelchairs plus three folded ones. Wheelchairs and scooters are not allowed on the back deck, which is a Maritime and Coastguard Agency escape-route rule rather than a house one. Every boat except Star, Storm and Sky Clipper has an accessible toilet.
@@ -148,7 +148,7 @@ Fares: **anyone with a disability pays 50%**, as does a Freedom Pass or 60+ Oyst
 
 ![The wide concrete ramp running down into the Turbine Hall at Tate Modern, with people walking in from the west entrance](../../assets/articles/step-free-london/tate-modern-turbine-hall-ramp.jpg)
 
-*The Turbine Hall ramp at Tate Modern: the main entrance is the step-free one. Photo: [Robin Webster](https://commons.wikimedia.org/wiki/File:Tate_Modern_Turbine_Hall_entrance_ramp_-_geograph.org.uk_-_6712317.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Turbine Hall ramp, Tate Modern. Photo: [Robin Webster](https://commons.wikimedia.org/wiki/File:Tate_Modern_Turbine_Hall_entrance_ramp_-_geograph.org.uk_-_6712317.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 | Place | Step-free way in | What decides the visit |

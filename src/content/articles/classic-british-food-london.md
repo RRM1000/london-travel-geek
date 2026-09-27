@@ -41,7 +41,7 @@ Tiered stands of finger sandwiches, warm scones with clotted cream and jam, then
 
 ![The Langham hotel's brick and stone exterior, with the hotel's name lettered above the ground-floor entrance.](../../assets/articles/classic-british-food-london/the-langham-exterior.jpg)
 
-*The Langham opened in 1865 as the first hotel in the world to serve afternoon tea.*
+*The Langham, Marylebone.*
 
 ### The full English breakfast
 
@@ -67,7 +67,7 @@ Minced beef in a pastry pie, mashed potato, and a ladle of "liquor" — a bright
 
 ![Two pies covered in green parsley liquor next to mashed potato and a bowl of jellied eels, on a marble table.](../../assets/articles/classic-british-food-london/m-manze-pie-mash-liquor.jpg)
 
-*Pie, mash and liquor, with a bowl of jellied eels alongside for the fuller version.*
+*Pie, mash and liquor at M Manze.*
 
 ### Pork pies
 
@@ -75,7 +75,7 @@ Cold hand-raised pork in a firm, free-standing pastry shell — no tin, no hoop 
 
 ![A pork pie sliced in half, showing the pastry shell, pink pork filling and a pale layer of jelly between the meat and the crust.](../../assets/articles/classic-british-food-london/mrs-kings-pork-pie-cut.jpg)
 
-*The layer of savoury jelly between meat and crust marks this out as a proper hand-raised pork pie.*
+*A hand-raised pork pie.*
 
 ### Sausage rolls, steak bakes and pasties
 
@@ -83,7 +83,7 @@ Sausage meat rolled in puff pastry is a sausage roll; the same idea with diced b
 
 ![Golden Cornish pasties with crimped edges in a hot-food display case, labelled Traditional Cornish Pasty.](../../assets/articles/classic-british-food-london/west-cornwall-pasty-cornish-pasties.jpg)
 
-*The crimped edge, visible here, was originally a handle for miners eating with dirty hands.*
+*A Cornish pasty's crimped edge.*
 
 ### The Scotch egg
 
@@ -91,7 +91,7 @@ A boiled egg wrapped in sausage meat, coated in breadcrumbs and fried — cold, 
 
 ![A Scotch egg cut in half, showing a soft egg yolk inside sausage meat and a breadcrumb coating, served with a small pot of sauce.](../../assets/articles/classic-british-food-london/the-harwood-arms-scotch-egg.jpg)
 
-*Served hot, with the soft yolk that sets this version apart from the picnic kind.*
+*A Scotch egg, served hot.*
 
 ### Bangers and mash
 
@@ -99,7 +99,7 @@ Sausages and mashed potato under onion gravy — the least complicated dish in t
 
 ![Two sausages under onion gravy with mashed potato and peas, on a white plate.](../../assets/articles/classic-british-food-london/mother-mash-sausages-mash-gravy.jpg)
 
-*Bangers and mash at Mother Mash, a restaurant built entirely around the combination.*
+*Bangers and mash at Mother Mash.*
 
 ### Steak and kidney pudding
 
@@ -107,7 +107,7 @@ Not a pie — a pudding: steak and kidney in gravy, sealed inside a suet crust a
 
 ![Rules restaurant's maroon awnings and gold lettering on Maiden Lane, reading Rules, Established 1798.](../../assets/articles/classic-british-food-london/rules-exterior.jpg)
 
-*Rules has traded from this address on Maiden Lane since 1798.*
+*Rules, on Maiden Lane.*
 
 ### Shepherd's pie and cottage pie
 
@@ -115,7 +115,7 @@ Minced meat under a layer of mashed potato, baked until the top browns. Shepherd
 
 ![The Ivy's corner building on West Street at dusk, with the restaurant's name lettered on the stonework and a lit stained-glass window below.](../../assets/articles/classic-british-food-london/the-ivy-exterior.jpg)
 
-*The Ivy has occupied this West Street building since 1929.*
+*The Ivy, West Street.*
 
 ### Welsh rarebit
 
@@ -123,7 +123,7 @@ Cheese on toast in name only: a thick, savoury sauce of melted cheddar, egg yolk
 
 ![J Sheekey's red-framed shopfront on a Covent Garden side street, with outdoor tables set among potted plants.](../../assets/articles/classic-british-food-london/j-sheekey-exterior.jpg)
 
-*J Sheekey sells its Welsh rarebit at the bar for about £5.*
+*J Sheekey, Covent Garden.*
 
 ---
 
@@ -141,7 +141,7 @@ Shortcrust pastry filled with golden syrup, breadcrumbs and lemon juice and bake
 
 ![Three roasted bone marrow halves on a plate with a wedge of toast and a parsley salad.](../../assets/articles/classic-british-food-london/st-john-bone-marrow.jpg)
 
-*St. JOHN is known for its treacle tart nearly as much as for this dish, the bone marrow that made the restaurant's name.*
+*Bone marrow at St. JOHN.*
 
 ### Spotted dick and sherry trifle
 
@@ -149,7 +149,7 @@ Spotted dick is a suet sponge studded with dried fruit, steamed and served with 
 
 ![Simpson's-in-the-Strand's domed dining room, with oval portraits mounted below the cornice and white-clothed tables set for service.](../../assets/articles/classic-british-food-london/simpsons-in-the-strand-dining-room.jpg)
 
-*Simpson's-in-the-Strand has been on the Strand since 1848.*
+*Simpson's-in-the-Strand.*
 
 ---
 

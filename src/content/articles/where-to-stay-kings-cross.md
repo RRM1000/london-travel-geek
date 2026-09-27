@@ -60,7 +60,7 @@ George Gilbert Scott's Midland Grand opened in May 1873, lost money for decades,
 
 ![A room at St Pancras London, with a bed, a window seat and a Gothic-arched window](../../assets/articles/where-to-stay-kings-cross/st-pancras-london-room.jpg)
 
-*A room at St Pancras London, with a window seat under a Gothic-arched window.*
+*A room at St Pancras London.*
 
 ### The Standard, London — the Brutalist one, with the lift on the outside
 
@@ -74,7 +74,7 @@ A 1974 Camden Council office annexe, kept rather than knocked down, directly opp
 
 ![A suite at The Standard, London, with a curved floor-to-ceiling window bay, a built-in window seat and doors opening onto a private terrace](../../assets/articles/where-to-stay-kings-cross/the-standard-london-suite.jpg)
 
-*A suite at The Standard, London, with a curved window bay over the skyline and doors onto a private terrace — the entry-level Standard King Interior room has no window at all.*
+*A suite at The Standard, London.*
 
 ### The Megaro — two minutes from the platform, and the cheaper rooms are bigger
 
@@ -88,7 +88,7 @@ Downstairs, **Spagnoletti** serves Italian from breakfast through to dinner and 
 
 ![A themed room at the Megaro, with a metallic flight-case style headboard, hanging globe lights and a lava lamp on the nightstand](../../assets/articles/where-to-stay-kings-cross/the-megaro-room.jpg)
 
-*One of the Megaro's individually themed rooms, with a road-case style headboard, hanging globe lights and a lava lamp on the nightstand.*
+*One of the Megaro's themed rooms.*
 
 ### Point A Hotel King's Cross — the sensible booking for a train you cannot miss
 
@@ -108,7 +108,7 @@ Early check-in from noon is £15 and late check-out to 3pm is £25. Snacks and d
 
 </div>
 
-*A twin room at Point A Hotel King's Cross, with blue cove lighting and a TV welcome screen for King's Cross, and its compact ensuite bathroom.*
+*A twin room at Point A Hotel King's Cross, and its ensuite bathroom.*
 
 ### Kabannas London St Pancras — the old YHA, under new management, from £50
 
@@ -130,7 +130,7 @@ Clink 261 runs **mixed dorms sleeping 1 to 18, female-only dorms of 4 to 10, pod
 
 ![One of Clink 261's dorms, with red privacy screens between bunks and a skylight over the room](../../assets/articles/where-to-stay-kings-cross/clink261-dorm.jpg)
 
-*One of Clink 261's dorms, with privacy screens between the pod beds and a skylight overhead.*
+*One of Clink 261's dorms.*
 
 If a dorm is the plan rather than a room, our [best hostels in London guide](/articles/best-hostels-london/) compares them across the city, including the ones with en-suite dorms, which Clink 261 is not.
 
@@ -196,7 +196,7 @@ The single best answer here. Bloomsbury starts about ten minutes' walk south of 
 
 </div>
 
-*A windowless room at Zedwell Tottenham Court Road, lit by cove lighting rather than a window, and its ensuite bathroom.*
+*A windowless room at Zedwell Tottenham Court Road, and its ensuite bathroom.*
 
 ### Farringdon — one stop, and the Elizabeth line King's Cross does not have
 
@@ -230,7 +230,7 @@ At roughly the same money as The Standard you are trading two minutes from the E
 
 </div>
 
-*A room at the Treehouse Hotel London, with a window seat over the skyline, and the bathroom's birch-trunk vanity wall.*
+*A room at the Treehouse Hotel London, and its bathroom.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-kings-cross-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

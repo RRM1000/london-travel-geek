@@ -73,7 +73,7 @@ It's a micropub in the strict sense: **one room, no music, no fruit machines**, 
 
 ![A cheese and charcuterie board at The Cockpit, with cured meats, olives, bread and a wedge of blue cheese, next to a pint on a branded coaster](../../assets/articles/best-craft-beer-pubs-london/the-cockpit-chislehurst.jpg)
 
-*The board of Neal's Yard cheese and charcuterie that stands in for a kitchen here — there's no hot food, so this is what to order.*
+*The cheese and charcuterie board at The Cockpit.*
 
 ### The Hope, Carshalton — five-time Greater London champion
 
@@ -89,8 +89,6 @@ Inside it's deliberately unmodernised: **no TV, no muzak, no fruit machines**, a
 
 ![The Hope's mock-Tudor frontage on West Street, Carshalton, with red doors and hanging flower baskets](../../assets/articles/best-craft-beer-pubs-london/the-hope-carshalton.jpg)
 
-*Five-time Greater London CAMRA champion, unmodernised inside — no TV, no muzak, no fruit machines.*
-
 ### Hand & Marigold, Bermondsey — a Victorian corner pub back from the dead
 
 *££ · Bermondsey Street · Cited by 2 sources · South East London CAMRA Pub of the Year 2026*
@@ -102,8 +100,6 @@ It's a single-room Victorian street-corner pub, refurbished in the traditional s
 **Open to 10pm on weeknights, 11pm Friday and Saturday.** 244 Bermondsey Street, London SE1 3UH.
 
 ![Hand & Marigold's corner frontage on Bermondsey Street, with orange picnic benches outside](../../assets/articles/best-craft-beer-pubs-london/hand-and-marigold.jpg)
-
-*Closed as a pub in 2021, reopened in March 2025, and South East London CAMRA's Pub of the Year within about a year of pulling its first pint again.*
 
 ### The Wenlock Arms, Hoxton — the jazz pub that came back from a demolition threat
 
@@ -119,8 +115,6 @@ The pour is **a constantly changing range of cask ales, keg beers and real cider
 
 ![The Wenlock Arms' red-fronted corner building on Wenlock Road, Hoxton, with hanging flower baskets and a Freehouse sign](../../assets/articles/best-craft-beer-pubs-london/the-wenlock-arms.jpg)
 
-*Reinvented as a real ale and jazz pub in 1994, and still standing after a demolition threat — North London CAMRA's Pub of the Year for 2026.*
-
 ### The Sultan, South Wimbledon — Hop Back's only London pub
 
 *£ · South Wimbledon · Cited by 2 sources · South West London CAMRA Pub of the Year (most recent published result: 2023)*
@@ -134,8 +128,6 @@ It's the brewery's only tied house in London — a 1950s brick rebuild that CAMR
 **Site:** [hopback.co.uk/our-pubs/the-sultan](https://www.hopback.co.uk/our-pubs/the-sultan)
 
 ![The Sultan's 1950s brick frontage on Norman Road, South Wimbledon, under a clear blue sky](../../assets/articles/best-craft-beer-pubs-london/the-sultan-south-wimbledon.jpg)
-
-*Hop Back's only tied house in London — a 1950s brick rebuild and, per the branch's own count, the pub with the most Pub of the Year wins on this list.*
 
 ### Exale Brewing & Taproom, Walthamstow — Time Out's number one
 
@@ -151,7 +143,7 @@ Unit 2C Uplands Business Park, Blackhorse Lane, London E17 5QJ.
 
 ![An elevated view of Exale's taproom, with a steel fermentation tank beside communal wooden tables where people are eating and drinking](../../assets/articles/best-craft-beer-pubs-london/exale-brewing-taproom.jpg)
 
-*Brewing happens on site on a weekly cycle, so the beer sold is rarely more than a few days old.*
+*Exale's taproom.*
 
 ### Cask Pub & Kitchen, Pimlico — London's original craft beer pub
 
@@ -167,7 +159,7 @@ The kitchen does burgers rather than bar snacks, which is unusual for a pub this
 
 ![Ten handpumps in a row along the bar at Cask Pub & Kitchen, Pimlico](../../assets/articles/best-craft-beer-pubs-london/cask-pub-and-kitchen.jpg)
 
-*Ten cask lines and twenty-two keg taps — one of the widest pours in this whole guide.*
+*The bar at Cask Pub & Kitchen.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-craft-beer-pubs-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -206,8 +198,6 @@ Expect it **loud and full on a Friday night**, with big shared wooden tables rat
 
 ![The arched brick frontage of Hackney Church Brew Co. under the railway arches at Bohemia Place, with its name painted above the open doors](../../assets/articles/best-craft-beer-pubs-london/hackney-church-brew-co.jpg)
 
-*A brewery and taproom built into a former church hall under the Overground, with the high ceilings and arched windows still showing for it.*
-
 ### The Pembury Tavern, Hackney — the Five Points brewery tap since 1856
 
 *££ · Amhurst Road, Hackney · Cited by 4 sources*
@@ -221,8 +211,6 @@ The kitchen belongs to **ACE Pizza**, resident since 2018, and the room keeps it
 **Site:** [pemburytavern.co.uk](https://pemburytavern.co.uk)
 
 ![The Pembury Tavern's Victorian corner building on Amhurst Road, Hackney, with its name carved into the stonework](../../assets/articles/best-craft-beer-pubs-london/the-pembury-tavern.jpg)
-
-*The tap house for the Five Points Brewing Company, whose brewery is a mile down the road.*
 
 ### Howling Hops — Tank Bar, Hackney Wick — the UK's first dedicated tank bar
 
@@ -238,7 +226,7 @@ It's a proper European-style beer hall — long tables, high ceilings, food cook
 
 ![A row of numbered steel tanks at Howling Hops, each with its own tap, beside long wooden bench tables](../../assets/articles/best-craft-beer-pubs-london/howling-hops-tank-bar.jpg)
 
-*The UK's first dedicated tank bar — ten tanks, ten beers, poured straight from the tank rather than through a font.*
+*The tank bar at Howling Hops.*
 
 ### Beer Merchants Tap, Hackney Wick — a bottleshop you can drink in
 
@@ -254,7 +242,7 @@ The room is set up for sitting rather than standing — plenty of seating inside
 
 ![The tap wall at Beer Merchants Tap, stencilled with the pub's name above chalkboards listing beers from Lervig, Newbarns, Fremont and Rivington](../../assets/articles/best-craft-beer-pubs-london/beer-merchants-tap.jpg)
 
-*The physical taproom for an online bottle shop that ships around a thousand different beers — hence the eclectic list.*
+*The tap wall at Beer Merchants Tap.*
 
 ### Anspach & Hobday: The Arch House, Bermondsey — the porter that's taking on Guinness
 
@@ -270,7 +258,7 @@ It's a working mixed-fermentation brewery with a taproom bolted on rather than a
 
 ![A branded Anspach & Hobday glass of dark beer on the bar at the Arch House taproom](../../assets/articles/best-craft-beer-pubs-london/anspach-and-hobday-the-arch-house.jpg)
 
-*London Black, the brewery's revival of the old London Porter style — the beer to order here.*
+*London Black.*
 
 ### The Kernel, Bermondsey — the brewery every other brewery name-checks
 
@@ -286,7 +274,7 @@ If an older write-up sends you to "the arch," that's the pre-2024 site — brewi
 
 ![The Kernel's taproom bar, with a chalkboard listing porters, lagers and saisons beneath rows of globe pendant lights](../../assets/articles/best-craft-beer-pubs-london/the-kernel-brewery.jpg)
 
-*The purpose-built ground-floor space the taproom moved into in August 2024, next door to where the brewing still happens.*
+*The Kernel's taproom bar.*
 
 ### The Southampton Arms, Gospel Oak — "Ales, Cider, Meat," and nothing else claimed
 
@@ -302,7 +290,7 @@ It **now takes card as well as cash** — worth knowing, since it was cash-only 
 
 ![A row of handpumps at the Southampton Arms, below a sign reading that it is the only dedicated ale and cider house in London selling only beers and ciders from small independent UK breweries](../../assets/articles/best-craft-beer-pubs-london/the-southampton-arms.jpg)
 
-*Small-batch beers and ciders from UK independent breweries, exactly as the sign above the bar promises.*
+*The bar at the Southampton Arms.*
 
 ### Euston Tap, Euston — a pub in a train station's gatehouse
 
@@ -318,8 +306,6 @@ It's small: one ground-floor room, a smaller room upstairs, heated outside seati
 
 ![Euston Tap's stone gatehouse lodge on Euston Road, its walls still carved with mainline destinations from the old station entrance](../../assets/articles/best-craft-beer-pubs-london/euston-tap.jpg)
 
-*One of two matching Grade II-listed lodges that marked Euston's old entrance — this is the west one.*
-
 ### The Rake, Borough Market — four handpumps, eighteen taps, one tiny room
 
 *££ · Borough Market · Cited by 3 sources*
@@ -334,7 +320,7 @@ There's standing room rather than much seating, and it gets packed the moment Bo
 
 ![Handpumps at The Rake below a sign reading "No crap on tap", with fridges of bottles behind the bar](../../assets/articles/best-craft-beer-pubs-london/the-rake-borough-market.jpg)
 
-*Four handpumps and eighteen keg taps in a space small enough that "tiny" undersells it.*
+*The bar at The Rake.*
 
 ---
 
@@ -348,13 +334,9 @@ The sources describe three genuinely different scenes rather than three words fo
 
 ![The Market Porter's green Victorian frontage at Borough Market, with a chalkboard advertising its 6am to 9am early morning opening](../../assets/articles/best-craft-beer-pubs-london/the-market-porter.jpg)
 
-*One of only two London pubs left with a licence for the old market trading hours.*
-
 **The Sutton Arms** in Clerkenwell is a small, traditional freehouse with an upstairs dining room, though it closes early, around 7pm most nights.
 
 ![The Sutton Arms' ornate Victorian corner frontage on Great Sutton Street, Clerkenwell](../../assets/articles/best-craft-beer-pubs-london/the-sutton-arms-clerkenwell.jpg)
-
-*A small, traditional freehouse with an upstairs dining room, tucked into a corner of Clerkenwell.*
 
 Holborn's **Ye Olde Mitre** — a completely different pub from the Barnet CAMRA winner above despite the near-identical name — is covered in full in [London's historic pubs](/articles/historic-pubs-dining-rooms-london/); the short version for beer purposes is bar snacks only, closed Sundays, and a genuinely hidden entrance up an alley off Ely Place.
 

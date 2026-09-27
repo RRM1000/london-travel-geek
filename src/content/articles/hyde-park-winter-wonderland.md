@@ -52,7 +52,7 @@ That gap between the two is the whole thing. Half a million £1 tickets get peop
 
 ![The Bavarian-style entrance gate to Hyde Park Winter Wonderland, with a working clock tower and illuminated stars above the sign, and the lit arches of Luminarie Lane visible through the arch](../../assets/articles/hyde-park-winter-wonderland/entrance-gate.jpg)
 
-*Through the gate: Luminarie Lane's arches are the free bit, and they are the best-looking thing on the site.*
+*Luminarie Lane, through the entrance gate.*
 
 ---
 
@@ -165,7 +165,7 @@ Fast-track is a flat upgrade on top: £5.50 adult, £3.30 child, £4.50 concessi
 
 ![The observation wheel at Winter Wonderland under a clear blue sky, with a candy stall, a games stall and a decorated Christmas tree along an almost empty walkway](../../assets/articles/hyde-park-winter-wonderland/wheel-daytime.jpg)
 
-*A weekday morning, and you can see the ground. This is what the £1 slots buy you.*
+*The Giant Wheel on a quiet morning.*
 
 ### Bar Ice
 
@@ -285,7 +285,7 @@ Alongside it, the **Elves' Workshop** is also free: puzzles, giant cogs, a stamp
 
 ![Inside the green and red Santa's Grotto hut at Winter Wonderland, with a queue sign, a decorated Christmas tree and Father Christmas visible](../../assets/articles/hyde-park-winter-wonderland/santas-grotto.jpg)
 
-*Free, unbookable, and outdoors until you reach the door. Mornings are the answer.*
+*Santa's Grotto.*
 
 ### All the live music is free
 
@@ -301,11 +301,11 @@ Every band, DJ and acoustic set on every stage is included in your entry ticket.
 
 The **Christmas Market** — 60-plus traders next to the ice rink, best reached through Blue Gate. **Luminarie Lane** and its market. **Market Square**, with its bandstand, fire pits and weekend artisan market under the tipis. **Family Fun Day on Sunday 3 January 2027**, the final day, which adds free arts and crafts, face painting and a children's comedy show.
 
-Every bar is free to walk into — **Bar Narnia** with a wardrobe you can step through, **The Christmas Tree Arms** with real cut trees and a first-floor balcony, **Thor's Tipi Bar**, the Fire Pit, the Carousel Bar, the slowly rotating **Luminarie Bar**, the Princess Bar, Circus Bar, Wonderbar!, Star Bar and Explorer's Rest. You pay for drinks; you do not pay to get in.
+Every bar is free to walk into — **Bar Narnia** with a wardrobe you can step through, **The Christmas Tree Arms** with real cut trees and a first-floor balcony, **Thor's Tipi Bar**, the Fire Pit, the Carousel Bar, the slowly rotating **Luminarie Bar**, the Princess Bar, Circus Bar, Wonderbar!, Star Bar and Explorer's Rest. You pay for drinks; you do not pay to get in. Thor's Tipi Bar's heated tipis are the first to fill when it rains.
 
 ![Inside Thor's Tipi Bar at Winter Wonderland: a large open fire burning in a circular steel pit under a metal hood, with people eating at long wooden benches around the edge](../../assets/articles/hyde-park-winter-wonderland/thors-tipi-fire-pit.jpg)
 
-*Thor's Tipi Bar. Three heated tipis, an open fire in the middle of each, and no admission charge — the warmest free seat on the site, and the one that fills first when it rains.*
+*Thor's Tipi Bar.*
 
 ---
 
@@ -319,7 +319,7 @@ The zones are the **Street Food Village** in Thrillville, **The Sleigh-By**, **C
 
 ![Food stalls lit up at dusk inside Winter Wonderland, selling chips and hot roast pork rolls, with a bar sign glowing behind](../../assets/articles/hyde-park-winter-wonderland/food-stalls-dusk.jpg)
 
-*Dusk is when the site properly turns on. It is also when the entry price is highest.*
+*Food stalls at dusk.*
 
 ### The only published food prices
 
@@ -348,7 +348,7 @@ Three rules matter:
 
 ![Wooden Bavarian-style stalls at Winter Wonderland in bright winter sunshine, with the observation wheel and a rollercoaster behind](../../assets/articles/hyde-park-winter-wonderland/bavarian-village-daytime.jpg)
 
-*The Bavarian Village on a clear afternoon, before the evening session and its 18+ rule kick in.*
+*The Bavarian Village.*
 
 ### Table packages
 
@@ -389,7 +389,7 @@ The trade-off is honest: it will be light when you arrive, and much of what make
 
 ![The observation wheel at Winter Wonderland lit up against a dusk sky, its spokes picked out in turquoise lights, with an illuminated stall roof below](../../assets/articles/hyde-park-winter-wonderland/observation-wheel.jpg)
 
-*The wheel at dusk, from below. Arrive mid-afternoon on a quiet weekday and you get the short queues and this.*
+*The Giant Wheel at dusk.*
 
 <div data-stay-strip></div>
 

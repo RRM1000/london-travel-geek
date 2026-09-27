@@ -158,7 +158,7 @@ It is a basement club under the Phoenix Theatre, now advertising "35+ years," an
 
 ![A performer in a leopard-print gown and wide brimmed hat lit by pink and purple spotlights on the small stage at the Phoenix Arts Club, with an audience seated at tables a few feet away](../../assets/articles/best-cabaret-london/phoenix-arts-club.jpg)
 
-*A basement stage with the front table close enough to touch it. Photo: The Phoenix Arts Club.*
+*Photo: The Phoenix Arts Club.*
 
 **Show tickets start at £15.** Annual membership starts at £150, but you do not need it: **non-members can buy a show ticket and receive temporary membership for that night**, which is the thing most people get wrong about the venue.
 
@@ -322,7 +322,7 @@ The setting is 1930s New York: **three sets of live jazz** wrapped in theatrical
 
 ![The 58th Street room set as a supper club, with a grand piano and drum kit on a low stage, pink shaded table lamps on every table and a lit sign reading 58th Street Country Club behind the bar](../../assets/articles/best-cabaret-london/lost-estate-58th-street.jpg)
 
-*The room is the set, which is why the experience-only ticket still works: you are sitting inside the thing you paid for. Photo: The Lost Estate.*
+*Photo: The Lost Estate.*
 
 **The address is deliberately withheld**, "as any self-respecting speakeasy should be," and issued to ticket holders. It is in Peckham; plan your route home accordingly, because that is a different journey from a Soho night.
 
@@ -438,7 +438,7 @@ More than thirty international acrobats, aerialists and stunt performers do the 
 
 ![A rider in full leathers and helmet on a motorcycle in front of the steel mesh sphere of the Globe of Death, one arm raised, backlit through stage haze](../../assets/articles/best-cabaret-london/cirque-berserk-globe.jpg)
 
-*The Globe of Death, which is the act everyone leaves talking about — and the reason theatre seating matters. Photo: Cirque Berserk.*
+*The Globe of Death. Photo: Cirque Berserk.*
 
 The 45-minute Winter Wonderland version, "IGNITE!", is **not running in 2026** — Gandeys has taken the Hyde Park circus slot. The Charing Cross run is the way to see the company this year.
 

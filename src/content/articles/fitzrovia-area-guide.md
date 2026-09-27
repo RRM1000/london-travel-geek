@@ -100,7 +100,7 @@ Fitzrovia has its own share of the commemorative plaques marking where notable p
 
 ![The gold mosaic vaulted ceiling and stained glass windows inside the Fitzrovia Chapel](../../assets/articles/fitzrovia-area-guide/fitzrovia-chapel-ceiling.jpg)
 
-*Nothing on the plain brick exterior gives this away. Photo: [The wub](https://commons.wikimedia.org/w/index.php?curid=44693137), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*The Fitzrovia Chapel's interior. Photo: [The wub](https://commons.wikimedia.org/w/index.php?curid=44693137), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 6. **All Saints, Margaret Street** — A Victorian Gothic church by William Butterfield, and one of the most intensely decorated interiors in London. Small, free, and easy to walk straight past.
 7. **Goodge Street** — The other eating street, and the more casual of the two.
 8. **The Wellcome Collection** — Technically on the Bloomsbury edge at Euston Road, free, and genuinely strange. Worth the ten-minute walk.
@@ -111,7 +111,7 @@ Fitzrovia has its own share of the commemorative plaques marking where notable p
 
 ![Diners at pavement tables on Charlotte Street in the evening](../../assets/articles/fitzrovia-area-guide/charlotte-street-dining.jpg)
 
-*Charlotte Street in the evening. The pavement widens here specifically to take the tables.*
+*Charlotte Street, in the evening.*
 
 The spine, and **the densest restaurant street in this part of London** — running most of its length, with pavement seating in summer that turns the whole road into an outdoor dining room.
 
@@ -132,7 +132,7 @@ That makes it busy and good value between noon and 2pm, and noticeably quiet in 
 
 ![The BT Tower rising above Georgian rooftops in Fitzrovia at dusk](../../assets/articles/fitzrovia-area-guide/bt-tower-fitzrovia.jpg)
 
-*The BT Tower from street level. It is the landmark you navigate Fitzrovia by, and you cannot go up it.*
+*The BT Tower, from street level.*
 
 Quiet Georgian streets between the square and Euston Road, almost entirely residential. **Fitzroy Square itself is one of the finest in London** — Robert Adam designed the east and south sides in Portland stone, and the central garden is private.
 
@@ -144,7 +144,7 @@ The blue plaques around it are unusually thick on the ground: Virginia Woolf, Ge
 
 ![Colville Place, a narrow pedestrian lane of Georgian houses lined with potted plants](../../assets/articles/fitzrovia-area-guide/colville-place.jpg)
 
-*Colville Place, a pedestrian lane of 1760s houses running between Charlotte Street and Whitfield Street.*
+*Colville Place.*
 
 The southern edge, running down to Oxford Street, and **increasingly where the newer openings land** — the rents are lower than Soho a few streets south, and the crossover crowd is the same.
 
@@ -190,7 +190,7 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 
 ![The dining room at Circolo Popolare, its walls stacked with thousands of bottles under a ceiling of hanging greenery and fairy lights](../../assets/articles/fitzrovia-area-guide/circolo-popolare-room.jpg)
 
-*Circolo Popolare on Rathbone Place. The room is the reason it books weeks out.*
+*Circolo Popolare, on Rathbone Place.*
 
 **Seventeen different cuisines sit within a ten-minute walk here** — West African, Thai, Japanese, Mexican, Greek, Spanish, Chinese, Italian, Indian, Turkish, French and more. No other central district comes close to that range in the same space.
 

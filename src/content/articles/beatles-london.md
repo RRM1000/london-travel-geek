@@ -69,7 +69,7 @@ Most of the London sites are a plaque, a crossing or a shopfront that takes two 
 
 ![A blue plaque on a dark-painted Soho shopfront reading David Bowie 1947-2016, noting that Hunky Dory, The Rise and Fall of Ziggy Stardust and the song Space Oddity were recorded at Trident Studios](../../assets/articles/beatles-london/trident-studios-bowie-plaque.jpg)
 
-*The only plaque on the building credits David Bowie, not the Beatles, whose "Hey Jude" session here in 1968 goes unmarked.*
+*Trident Studios' Bowie plaque.*
 
 ### The cheapest
 
@@ -83,7 +83,7 @@ Liverpool day tours, with the train included, are [further down](#book-it-as-a-p
 
 ![The white Georgian frontage of Abbey Road Studios, with 'Abbey Road' lettered above the wooden entrance door and cars parked outside](../../assets/articles/beatles-london/abbey-road-studios-entrance.jpg)
 
-*A green plaque beside the door credits Sir Edward Elgar, who opened the studio in 1931 — the building has outlasted several eras of British music.*
+*Abbey Road Studios' entrance.*
 
 ### The crossing, the wall and the webcam
 
@@ -109,7 +109,7 @@ A **blue plaque** was mounted on the façade on **5 April 2019**, the concert's 
 
 ![The Georgian brick and white stucco front of 3 Savile Row, with a round blue plaque mounted between two upper-floor windows](../../assets/articles/beatles-london/3-savile-row-facade.jpg)
 
-*The building is occupied by a retail tenant today; only the plaque marks its Apple Corps years.*
+*3 Savile Row today.*
 
 Savile Row tailor **Tommy Nutter** dressed Paul McCartney, John Lennon and Ringo Starr for the *Abbey Road* cover shoot; George Harrison wore denim.
 
@@ -119,7 +119,7 @@ Savile Row tailor **Tommy Nutter** dressed Paul McCartney, John Lennon and Ringo
 
 ![The London Beatles Store shopfront on Baker Street, its windows dressed with a Sgt. Pepper display and yellow lettering reading 'London Beatles Store' above](../../assets/articles/beatles-london/beatles-store-baker-street-storefront.jpg)
 
-*The shop spans two adjoining units on Baker Street, each signed separately above its own door.*
+*The Beatles Store, Baker Street.*
 
 Ten minutes' walk south, **94 Baker Street** is the honest disappointment. The Beatles' Apple Corps opened the **Apple Boutique** here on 7 December 1967, its ground floor painted in a psychedelic mural by the Dutch design collective the Fool, funded with £100,000 of the band's money. Westminster City Council never approved the mural and forced it to be painted over within six months; the shop itself lost so much money it closed on 31 July 1968, just eight months after opening, with the remaining stock given away rather than sold. The 18th-century house it stood in was demolished by 1972 and replaced with an office block, **Travelscene House, 94 Baker Street, W1U 6FZ**. A **blue plaque** on the building, unveiled 17 March 2013 and crediting both John Lennon and George Harrison (Apple Corps' first office was on the floors above the shop), is the only trace left.
 
@@ -139,7 +139,7 @@ Ten minutes' walk south, **94 Baker Street** is the honest disappointment. The B
 
 ![The cream-stucco terrace of Montagu Square, with a blue plaque to John Lennon beside the door of number 34 and a red pillar box on the pavement](../../assets/articles/beatles-london/34-montagu-square-facade.jpg)
 
-*Ringo Starr, Jimi Hendrix, and John Lennon and Yoko Ono all rented this same flat within a three-year stretch.*
+*34 Montagu Square.*
 
 ## Liverpool: the day trip
 
@@ -151,11 +151,11 @@ Trains run from **London Euston to Liverpool Lime Street** on **Avanti West Coas
 
 ### The Cavern Club
 
-**8–10 Mathew Street, Liverpool.** This isn't quite the club the Beatles played nearly 300 times between 1961 and 1963: that Cavern closed in 1973 and was filled in during building work for the Merseyrail loop, and the club reopened on Mathew Street in 1984. It's open **seven days a week**, with live music from **11.15am daily**. Hours: **Sunday–Wednesday 11am–midnight, Thursday 11am–1am, Friday and Saturday 11am–2am**. It's **cashless**, card or contactless only. **Single entry (18+) is £6**, or **£8.50 for an all-day, all-night pass** covering more than 12 hours of live music; under-12s go free, and 12–17s pay £3 but must leave by 8pm unless with an adult. Cloakroom is £2 an item.
+**8–10 Mathew Street, Liverpool.** This isn't quite the club the Beatles played nearly 300 times between 1961 and 1963: that Cavern closed in 1973 and was filled in during building work for the Merseyrail loop, and the club reopened on Mathew Street in 1984. It's open **seven days a week**, with live music from **11.15am daily**. Hours: **Sunday–Wednesday 11am–midnight, Thursday 11am–1am, Friday and Saturday 11am–2am**. It's **cashless**, card or contactless only. **Single entry (18+) is £6**, or **£8.50 for an all-day, all-night pass** covering more than 12 hours of live music; under-12s go free, and 12–17s pay £3 but must leave by 8pm unless with an adult. Cloakroom is £2 an item. The club runs its own live line-up most days, and the acts change nightly, so check what's on before you go.
 
 ![The Cavern Club's red neon sign above its Mathew Street entrance, with band posters and its own opening-times board beside the doorway](../../assets/articles/beatles-london/cavern-club-liverpool-entrance.jpg)
 
-*The club runs its own live line-up most days — check what's on before you go, since the acts change nightly.*
+*The Cavern Club, Mathew Street.*
 
 <div data-stay-strip></div>
 
@@ -165,7 +165,7 @@ At the **Royal Albert Dock**, open **9am–6.30pm, last entry 5pm**. **Adult tic
 
 ![The Beatles Story's brick warehouse frontage at Royal Albert Dock, with a large circular sign above the entrance and banners either side](../../assets/articles/beatles-london/beatles-story-liverpool-exterior.jpg)
 
-*The museum occupies a restored Victorian dock warehouse, not a purpose-built building.*
+*The Beatles Story, Royal Albert Dock.*
 
 ### Book it as a package instead
 

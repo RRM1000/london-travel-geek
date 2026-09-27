@@ -71,7 +71,7 @@ On an ordinary night a Wembley room is cheap by London standards: the Novotel wa
 
 </div>
 
-*A king room with a desk and armchair, and a bath with a hand shower.*
+*A room at the Hilton London Wembley.*
 
 **Premier Inn London Wembley Stadium** · [premierinn.com](hotel:premier-inn-london-wembley-stadium). At 1 Wembley Park Boulevard, by the London Designer Outlet, which Premier Inn puts **ten minutes' walk** from the stadium and the arena. Air-conditioned, with a restaurant and a "double with a view" room type. **No car park of its own**; the nearest is the stadium's Red car park, which is priced per event.
 
@@ -83,7 +83,7 @@ On an ordinary night a Wembley room is cheap by London standards: the Novotel wa
 
 </div>
 
-*A double with a desk, and a bath with an overhead shower behind a glass screen.*
+*A double at Premier Inn Wembley Stadium.*
 
 **Premier Inn London Wembley Park** · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-wembley-park.html). A different hotel, at 151 Wembley Park Drive, HA9 8HQ, **180 metres from Wembley Park station**, so after the show you walk to it instead of queueing for a train. It has its own car park: **£15 per 24 hours** for guests, more on event days, first come first served. Not to be confused with the Wembley Stadium branch above.
 
@@ -95,7 +95,7 @@ On an ordinary night a Wembley room is cheap by London standards: the Novotel wa
 
 </div>
 
-*An older-style Premier Inn double with a curved desk and an armchair, and a bath with a shower curtain.*
+*A double at Premier Inn Wembley Park.*
 
 **Wembley International Hotel** · [Hotels.com](hotelscom:h890560). An independent with 165 rooms on Empire Way (HA9 0NH), about 12 minutes' walk from the stadium. **Continental breakfast and parking are free**, the parking first come first served, and the rooms are air-conditioned with triple glazing.
 
@@ -107,7 +107,7 @@ On an ordinary night a Wembley room is cheap by London standards: the Novotel wa
 
 </div>
 
-*A double with the air-conditioning unit under the window, and a corner bath with a step up.*
+*A double at the Wembley International Hotel.*
 
 The **ibis London Wembley**, on South Way by Wembley Stadium station, is temporarily closed.
 
@@ -125,7 +125,7 @@ Every Met train, fast or stopping, calls at Harrow-on-the-Hill: **7 minutes to W
 
 </div>
 
-*A double with an armchair and desk, and a shower with a curtain rather than a bath.*
+*A double at Travelodge London Harrow.*
 
 **Premier Inn London Harrow** · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-harrow.html). Despite the name it is on Kenton Road (HA3 8AT), opposite **Kenton** station (Bakerloo and Overground) and about a six-minute walk from **Northwick Park** on the Met, two stops from Wembley Park. Air-conditioned, with guest parking at **£9.40 a night**. Northwick Park is served by the stopping trains only, so check the train calls there before you get on.
 
@@ -137,7 +137,7 @@ Every Met train, fast or stopping, calls at Harrow-on-the-Hill: **7 minutes to W
 
 </div>
 
-*A double with a chaise longue by the window, and a glass-doored shower.*
+*A double at Premier Inn London Harrow.*
 
 **Getting back:** the last Met train from Wembley Park to Harrow-on-the-Hill and Northwick Park leaves at **00:56** Monday to Saturday and **00:33** on Sunday. There is no Night Tube on the Metropolitan line, so if you miss it, you are on a night bus or in a taxi.
 
@@ -149,19 +149,19 @@ Finchley Road is the Met's last stop before Wembley Park: **7 minutes, 29 minute
 
 ![A private double room at Palmers Lodge Swiss Cottage with exposed red brick above white plaster, a round porthole window, a tall sash window, dark floorboards and a plain wooden bed frame](../../assets/articles/where-to-stay-near-wembley-stadium/palmers-lodge-swiss-cottage-room.jpg)
 
-*A private double in the Victorian mansion: exposed brick, a porthole window and a tall sash window.*
+*A private double at Palmers Lodge.*
 
 **Quality Hotel Hampstead** · [Hotels.com](hotelscom:h802085). At 5 Frognal, NW3 6AL, five minutes' walk from Finchley Road station. It has a lift, a bar and a 24-hour front desk, plus **triple rooms** of 22 square metres.
 
 ![A twin room at the Quality Hotel Hampstead with two single beds under purple throws and cushions, grey padded headboards, a window with purple curtains and a long wooden desk under a wall-mounted TV](../../assets/articles/where-to-stay-near-wembley-stadium/quality-hotel-hampstead-room.jpg)
 
-*A twin room with a long desk under the TV and an armchair by the window.*
+*A twin room at the Quality Hotel Hampstead.*
 
 **Best Western Swiss Cottage** · [Hotels.com](hotelscom:h461513). A 59-room Victorian townhouse at 4 Adamson Road, NW3 3HP, on a residential street 200 yards from Swiss Cottage station. The Jubilee from Swiss Cottage is the slower train to Wembley. For the Met, walk about ten minutes to Finchley Road.
 
 ![A room at the Best Western Swiss Cottage with lilac-grey walls, a cream Shaker-style wardrobe, a small desk under a wood-framed mirror between two brass wall lights, a kettle tray and a tall window with gold curtains](../../assets/articles/where-to-stay-near-wembley-stadium/best-western-swiss-cottage-room.jpg)
 
-*A cream wardrobe, a small desk and a tall window with net curtains.*
+*A room at the Best Western Swiss Cottage.*
 
 **Getting back:** the last Met to Finchley Road leaves Wembley Park at **00:32** and the last Jubilee at **00:24** Monday to Thursday. On Friday and Saturday nights the Jubilee runs all night, so you can wait out the queue.
 
@@ -179,13 +179,13 @@ This is the base with the most ways back. The Met is **13 minutes** from Baker S
 
 </div>
 
-*A room with two double beds, and a marble bathroom with two basins and a bath.*
+*A room at The Landmark London.*
 
 **Dorset Square Hotel** · [Hotels.com](hotel:dorset-square-hotel). Kit and Tim Kemp's first hotel: 38 rooms in a Regency house on the square that was Thomas Lord's first cricket ground, decorated with cricket memorabilia. Five minutes from Marylebone station, ten from Baker Street, on a quiet residential square.
 
 ![A room at the Dorset Square Hotel with green walls, a tall arched headboard in red and blue floral crewelwork, a white scalloped quilt, a coral bench at the foot of the bed and a green striped armchair by the window](../../assets/articles/where-to-stay-near-wembley-stadium/dorset-square-hotel-room.jpg)
 
-*A crewelwork headboard, green walls and a striped armchair by a big sash window.*
+*A room at the Dorset Square Hotel.*
 
 **Travelodge London Central Marylebone** · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/312/London-Central-Marylebone-hotel). On Harewood Row, NW1 6SE, beside Marylebone station. The budget answer for the Chiltern route. Its SuperRooms add blackout curtains, a coffee machine and a rain shower.
 
@@ -197,7 +197,7 @@ This is the base with the most ways back. The Met is **13 minutes** from Baker S
 
 </div>
 
-*A double with a coffee machine on the desk, and a shower cubicle with a curtain.*
+*A double at Travelodge Central Marylebone.*
 
 **hub by Premier Inn London Marylebone** · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-marylebone.html). On Old Marylebone Road, NW1 5DZ, near Edgware Road and about five minutes from Marylebone station. The rooms are compact: **11 square metres** as standard and 14 for a Bigger room with a king-size bed. No car park.
 
@@ -221,7 +221,7 @@ Watford is often suggested for a cheap room near Wembley. On the train times it 
 
 ![A room at Premier Inn Watford Central with a king-size bed against a gold padded headboard, a purple bed runner and cushion, a grey armchair and purple-edged curtains at the window](../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-watford-central-room.jpg)
 
-*A king room with an armchair by the window.*
+*A room at Premier Inn Watford Central.*
 
 **Rickmansworth**, on the Met's Amersham branch, is **24 minutes** from Wembley Park and 45 door to door, with a last train back at **00:36**. Harrow-on-the-Hill is 29.
 

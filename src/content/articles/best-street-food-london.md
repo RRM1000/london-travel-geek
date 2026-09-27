@@ -126,7 +126,7 @@ The line-up is a genuine spread rather than a burger court: **Bleecker** for dry
 
 ![The two-level hall of Seven Dials Market, with communal benches under a glass roof](../../assets/articles/best-street-food-london/seven-dials-market.jpg)
 
-*Seven Dials Market, in a former banana-ripening warehouse. Twenty-one traders over two floors.*
+*Seven Dials Market.*
 
 ### Arcade Food Hall, Tottenham Court Road, Covent Garden and Battersea
 
@@ -144,7 +144,7 @@ Tottenham Court Road has seven kitchens including **Plaza Khao Gaeng** for South
 
 ![The interior of Bang Bang Oriental, a timber-ceilinged food hall with long communal tables full of people eating, kiosks including a Yo Tokyo sushi and ramen counter along the far wall](../../assets/articles/best-street-food-london/bang-bang-oriental.jpg)
 
-*450 covers and 25-odd kitchens under one timber roof. It is strip-lit and functional, and nobody comes for the room.*
+*Bang Bang Oriental.*
 
 **The deepest pan-Asian food hall in Britain** and the successor to the much-missed Oriental City — Chinese, Korean, Japanese, Vietnamese, Malaysian, Singaporean and Taiwanese counters around 450 covers.
 
@@ -160,11 +160,11 @@ It is strip-lit and functional rather than handsome, and that is the point: this
 
 Recurring names worth ordering from: **Le Bab** for gourmet kebabs, **Gopal's Corner** for Malaysian roti canai from the founder of Roti King, and **Black Bear Burger**, a former National Burger Awards winner. Victoria has three floors and a roof terrace; Paddington is seconds from the station and the best pre-train meal in London.
 
-**Plenty of seating, walk-in, and most sites open from 8am** for breakfast.
+**Plenty of seating, walk-in, and most sites open from 8am** for breakfast. Mid-afternoon is the easiest time to find a table at Paddington.
 
 ![The upper floor of Market Halls Paddington, with the Gopal's Corner Malaysian counter under a banana-leaf mural on the left, a souvlaki and taco counter beyond it, and long communal tables running along a full-height glass wall](../../assets/articles/best-street-food-london/market-halls-paddington.jpg)
 
-*Market Halls Paddington, on the upper floor of the glass block at 1 Paddington Square. Gopal's Corner is on the left, souvlaki and tacos beyond it, and the tables run the length of the window — mid-afternoon is when you get a seat like this.*
+*Market Halls Paddington.*
 
 ### Food Hall @ 17&Central, Walthamstow
 
@@ -190,7 +190,7 @@ Korean fried chicken from **Clapping Seoul**, Palestinian **musakhan** from Bait
 
 ![Long high tables under a neon sign inside the Tower Bridge Collective food hall](../../assets/articles/best-street-food-london/tower-bridge-collective.jpg)
 
-*Tower Bridge Collective, open since October 2025. Thirteen independent kitchens over two floors.*
+*Tower Bridge Collective.*
 
 ### Mercato Metropolitano, Elephant & Castle
 
@@ -222,7 +222,7 @@ Better atmosphere, worse seating, and several only exist a few days a week.
 
 ![Crowds moving between produce stalls under the iron roof of Borough Market](../../assets/articles/best-street-food-london/borough-market.jpg)
 
-*Borough Market on a weekday morning, which is the only sensible time to go.*
+*Borough Market, on a weekday morning.*
 
 ### Maltby Street Market, Bermondsey
 
@@ -246,7 +246,7 @@ Indian dosas from **Horn OK Please**, Afghan, Vietnamese, Polish, Levantine, Fre
 
 ![Black gazebos of the Southbank Centre Food Market with a jerk chicken stall in front](../../assets/articles/best-street-food-london/southbank-food-market.jpg)
 
-*The Southbank Centre Food Market. Friday to Sunday only, and behind the Royal Festival Hall rather than on the river.*
+*The Southbank Centre Food Market.*
 
 ### Broadway Market, Hackney
 
@@ -270,7 +270,7 @@ The food runs to **salt beef bagels, Ghanaian and Nigerian plates, dumplings, pa
 
 ![Long communal tables full of people eating in front of the food counters at Old Spitalfields Market](../../assets/articles/best-street-food-london/old-spitalfields-kitchens.jpg)
 
-*The Kitchens at Old Spitalfields — a dozen counters around shared tables, and the most reliable weekday lunch in the area.*
+*The Kitchens at Old Spitalfields.*
 
 ### Upmarket, Brick Lane
 
@@ -280,11 +280,11 @@ The food runs to **salt beef bagels, Ghanaian and Nigerian plates, dumplings, pa
 
 It is now open **daily rather than weekends only**, which catches people out in both directions: the food hall trades every day, but the surrounding retail markets only expand at weekends, and **everything shuts at 6pm.**
 
-Seating is scarce and it is chaotic. Note that the **Boiler House**, which older guides still send people to, is no longer one of the Truman Brewery's markets.
+Seating is scarce and it is chaotic. A weekday lunchtime, when the queue for each stall runs one person deep, beats the weekend. Note that the **Boiler House**, which older guides still send people to, is no longer one of the Truman Brewery's markets.
 
 ![A stall at Upmarket on Brick Lane serving Beijing dumplings and Chinese food, its trays of crispy chicken and stir-fries under heat lamps, with hand-lettered signs and further stalls stretching down the hall behind](../../assets/articles/best-street-food-london/upmarket-brick-lane.jpg)
 
-*The format in one frame: a stall cooking one cuisine properly, a hand-lettered board doing the selling, and forty more a few steps down the hall. Note the queue is one person deep — this is what a weekday lunchtime looks like, and why it beats the weekend.*
+*A stall at Upmarket, Brick Lane.*
 
 ### Canopy Market, King's Cross
 
@@ -304,7 +304,7 @@ Outdoor, sociable, drink-led, and the format most likely to have changed since y
 
 ![Shipping-container units and long wooden benches at Boxpark Shoreditch](../../assets/articles/best-street-food-london/boxpark-shoreditch.jpg)
 
-*Boxpark Shoreditch, built out of shipping containers in 2011. It was served notice in 2024 and reprieved. Photo: [JasonParis](https://www.flickr.com/photos/94064020@N00/8063833095), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Boxpark Shoreditch. Photo: [JasonParis](https://www.flickr.com/photos/94064020@N00/8063833095), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 * **Boxpark Shoreditch** — the original, and it survived the closure notice it was served in 2024. Around fifteen food units plus shops and a bar, daily.
 * **Boxpark Camden** — on the old Buck Street Market site by the station, 10am–11pm daily. Birria tacos, Nepali momo, Vietnamese pho and Black Bear Burger.
@@ -312,7 +312,7 @@ Outdoor, sociable, drink-led, and the format most likely to have changed since y
 
 ![Inside Boxpark Wembley: a long black bar under a high warehouse roof with a mirror ball, and diners at long tables along the windows](../../assets/articles/best-street-food-london/boxpark-wembley.jpg)
 
-*Inside Boxpark Wembley. Its hours change for stadium events, so check before you travel.*
+*Inside Boxpark Wembley.*
 * **Hackney Bridge**, Hackney Wick — eight kitchens plus a canalside garden, **closed Mondays**. The last of the Wick's canal yards still doing this properly.
 * **Vinegar Yard**, London Bridge — scrap-metal dinosaurs, a weekend flea market and a handful of traders. **Closed Mondays and it does not open until late afternoon midweek**, which surprises lunchtime visitors.
 * **Flat Iron Square**, Southwark — five food traders, two bars and a taproom in railway arches. More beer garden than food market, and its own site publishes conflicting hours.
@@ -341,7 +341,7 @@ Standing only, no seating, and a two-to-four hour window. These are for people w
 
 ![Stalls under the glass and timber roof of Greenwich Market](../../assets/articles/best-street-food-london/greenwich-market-stalls.jpg)
 
-*Greenwich Market. The covered hall is one of the nicest rooms in London to eat in, and it trades every day.*
+*Greenwich Market.*
 * **Kingston Ancient Market** — a handsome market square with hot food, seven days a week.
 * **Deptford Market Yard** — railway arches with a fortnightly Saturday market, much less discovered than Maltby Street.
 

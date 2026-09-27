@@ -92,7 +92,7 @@ Richmond has its own share of the commemorative plaques marking where notable pe
 
 ![A red deer stag with full antlers lying in the grass beneath a tree in Richmond Park](../../assets/articles/richmond-area-guide/richmond-park-deer.jpg)
 
-*One of about 600 red and fallow deer roaming Richmond Park. Keep 50 metres back, and much further during the autumn rut. Photo: [Bruno Girin](https://www.flickr.com/photos/16405999@N00/19873390), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*A deer in Richmond Park. Photo: [Bruno Girin](https://www.flickr.com/photos/16405999@N00/19873390), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Key streets and micro-districts
 
@@ -156,7 +156,7 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks â€
 
 ![A stream running through the Isabella Plantation between banks of pink and red azaleas](../../assets/articles/richmond-area-guide/isabella-plantation.jpg)
 
-*The Isabella Plantation in late April. It is a 40-acre woodland garden inside the park, and spectacular for about two weeks a year. Photo: [Diliff](https://commons.wikimedia.org/w/index.php?curid=14946838), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+*The Isabella Plantation. Photo: [Diliff](https://commons.wikimedia.org/w/index.php?curid=14946838), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -178,7 +178,7 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks â€
 
 ![The red brick frontage of The Cricketers pub on Richmond Green](../../assets/articles/richmond-area-guide/richmond-green.jpg)
 
-*The Cricketers, on Richmond Green. Cricket is still played on the green in front of it in summer. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/2231008770), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Cricketers, Richmond Green. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/2231008770), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Getting there
 
@@ -192,7 +192,7 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks â€
 
 ![The ten-storey Great Pagoda at Kew Gardens against a blue sky](../../assets/articles/richmond-area-guide/kew-pagoda.jpg)
 
-*Kew's Great Pagoda, built in 1762. The eighty dragons on its roofs were restored and put back in 2018. Photo: [Atlaj123](https://commons.wikimedia.org/w/index.php?curid=72795184), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*The Great Pagoda, Kew Gardens. Photo: [Atlaj123](https://commons.wikimedia.org/w/index.php?curid=72795184), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ## How long to spend, and when to go
 

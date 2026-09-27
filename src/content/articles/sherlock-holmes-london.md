@@ -75,7 +75,7 @@ The sites are spread over Marylebone, Euston, the City and Westminster. Every ad
 
 ![A gilded, mosaic-tiled ceiling and walls inside the Criterion, with a painted sign pointing the way to the theatre](../../assets/articles/sherlock-holmes-london/the-criterion-piccadilly.jpg)
 
-*The tours on this page start here, outside the Criterion at 224 Piccadilly.*
+*The Criterion, Piccadilly.*
 
 **<a href="https://www.getyourguide.com/activity/-t30595?partner_id=WWP7I0R&amp;cmp=sherlock-holmes-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London: Sherlock Holmes Tour by Black Cab</a>** covers similar ground from the back of a chauffeured London taxi: **£499 for up to six people**, 4 hours, **4.9 from 17 reviews**. It takes in locations from the Basil Rathbone and Robert Downey Jr. films as well as the books, and more than one reviewer says it ends at the Sherlock Holmes pub.
 
@@ -89,7 +89,7 @@ The museum occupies a four-storey Georgian townhouse built in 1815, one minute's
 
 ![The recreated sitting room at the Sherlock Holmes Museum, with a guide in Victorian dress beside the fireplace and armchairs roped off for viewing](../../assets/articles/sherlock-holmes-london/sherlock-holmes-museum.jpg)
 
-*The room is roped off for viewing, like the rest of the museum's staged interiors.*
+*The museum's recreated sitting room.*
 
 Baker Street's numbering hadn't reached 221 when Conan Doyle wrote the stories in the 1880s, and the museum sits, in reality, between numbers 237 and 241 - it's signed 221b by arrangement rather than by the street's actual sequence. The ground floor holds what the museum calls the largest collection of Sherlock Holmes memorabilia in the world, and the shop sells deerstalkers, pipes and books both there and at shop.sherlock-holmes.co.uk.
 
@@ -103,7 +103,7 @@ Holmes wears the deerstalker hat and Inverness cape that came from Sidney Paget'
 
 ![The bronze Sherlock Holmes statue outside Baker Street station, wearing a deerstalker and Inverness cape and holding a pipe](../../assets/articles/sherlock-holmes-london/sherlock-holmes-statue.jpg)
 
-*The deerstalker, cape and pipe all come from illustrations and later films - Conan Doyle's own text never describes them exactly like this.*
+*The Sherlock Holmes statue, Baker Street.*
 
 ## The Sherlock Holmes pub, Northumberland Street
 
@@ -113,7 +113,7 @@ It began as a small hotel, briefly the Northumberland Hotel and then the Northum
 
 ![The Sherlock Holmes pub's dark green frontage on Northumberland Street, lit for evening with pavement tables outside](../../assets/articles/sherlock-holmes-london/sherlock-holmes-pub.jpg)
 
-*A Greene King pub today, between Charing Cross and Embankment stations.*
+*The Sherlock Holmes pub, Northumberland Street.*
 
 **Its real draw is upstairs.** The collection began at the 1951 Festival of Britain, when Marylebone Public Library and Abbey National built a full recreation of Holmes's sitting room for a temporary exhibition, gathering props down to a Persian slipper for his tobacco and a gasogene for Watson's soda. After a world tour that reached New York, the brewer Whitbread bought the entire exhibit and reopened this pub under its current name in December 1957 to house it permanently. The recreation now sits behind glass on the first floor, visible from the roof terrace and the restaurant. Downstairs, the bar carries Watson's prop service revolver, theatre posters and the mounted head of the Hound of the Baskervilles.
 
@@ -125,7 +125,7 @@ In Conan Doyle's *A Study in Scarlet* (1887), Holmes and Watson meet for the fir
 
 ![The stone archway entrance to St Bartholomew's Hospital in West Smithfield, with its name carved above the gate](../../assets/articles/sherlock-holmes-london/st-bartholomews-hospital.jpg)
 
-*Holmes and Watson meet for the first time here in Conan Doyle's 1887 novel, A Study in Scarlet.*
+*St Bartholomew's Hospital.*
 
 ## North Gower Street: the BBC's 221B
 
@@ -133,7 +133,7 @@ In Conan Doyle's *A Study in Scarlet* (1887), Holmes and Watson meet for the fir
 
 ![Speedy's Sandwich Bar and Café on North Gower Street, between two black Georgian doors numbered 187 and 189](../../assets/articles/sherlock-holmes-london/speedys-cafe-north-gower-street.jpg)
 
-*The numbered door on the left, 187, is the flat; Speedy's takes the shopfront next to it.*
+*187 North Gower Street.*
 
 The production filmed here rather than on Baker Street because the real street was too busy to close for filming, and already carried too many things labelled "Sherlock Holmes" to disguise for the shoot. **Speedy's café, next door, is real and still trading.** Go in and buy something rather than only photographing the door.
 
@@ -147,13 +147,13 @@ Two addresses, and neither is on Baker Street.
 
 ![The black door of 2 Upper Wimpole Street, with the green Westminster City Council plaque to Sir Arthur Conan Doyle beside it](../../assets/articles/sherlock-holmes-london/conan-doyle-upper-wimpole-street.jpg)
 
-*The plaque credits both Westminster City Council and the Arthur Conan Doyle Society.*
+*The plaque, 2 Upper Wimpole Street.*
 
 **The Langham, 1c Portland Place, W1B 1JA.** In August 1889, the American editor Joseph Marshall Stoddart hosted a dinner here that commissioned two of the era's biggest literary works in one evening: Conan Doyle went away to write *The Sign of the Four*, and Oscar Wilde went away to write *The Picture of Dorian Gray*. Conan Doyle also set scenes from that novel and from "A Scandal in Bohemia" partly at the hotel itself. A City of Westminster green plaque, unveiled in 2010, marks the dinner today.
 
 ![The Langham hotel's red-brick and stone facade on Portland Place, seen from below at dusk](../../assets/articles/sherlock-holmes-london/the-langham-london.jpg)
 
-*The 1889 dinner here produced both this book and Oscar Wilde's The Picture of Dorian Gray, commissioned the same evening.*
+*The Langham, Portland Place.*
 
 ## One day, self-guided
 

@@ -203,7 +203,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 ![The brick chimney and turbine hall frontage of Tate Modern seen from the river walk](../../assets/articles/one-day-london-itineraries-by-interest/tate-modern.jpg)
 
-*Free to enter, free to go up. The tenth floor beats several paid viewpoints.*
+*Tate Modern's tenth floor.*
 
 **Late afternoon.** **Horizon 22** at Level 58 — **the highest free viewing platform in London**. Book a free slot in advance.
 
@@ -273,7 +273,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 ![Rails of vintage clothing and browsing shoppers under the arches at the Brick Lane vintage market](../../assets/articles/one-day-london-itineraries-by-interest/brick-lane-vintage-market.jpg)
 
-*Sunday is when the whole of Brick Lane trades, not just the restaurants.*
+*Brick Lane vintage market.*
 
 **Afternoon.** **Old Spitalfields Market**, five minutes further, which trades all week but is busiest on a Sunday.
 

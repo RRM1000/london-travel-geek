@@ -112,7 +112,7 @@ If you would rather drink than watch, the [cocktail bars guide](/articles/best-c
 
 ![The London Eye rising above County Hall on the South Bank, seen across the river](../../assets/articles/three-days-in-london-itinerary/london-eye-county-hall.jpg)
 
-*Where Day 2 finishes. The South Bank walk is flat, continuous and free.*
+*The London Eye and County Hall.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -175,7 +175,7 @@ Both options below are free. Only temporary exhibitions charge.
 
 ![The Hintze Hall at the Natural History Museum, with the blue whale skeleton suspended above the staircase](../../assets/articles/three-days-in-london-itinerary/natural-history-hintze-hall.jpg)
 
-*The blue whale skeleton in the Hintze Hall. Free, and open until 17:50.*
+*The Hintze Hall, Natural History Museum.*
 
 Three national museums within a few minutes of each other, all free.
 

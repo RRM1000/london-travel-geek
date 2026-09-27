@@ -95,7 +95,7 @@ The site divides into two connected parts: the preserved **Cabinet War Rooms** a
 
 ![The Cabinet War Room with conference table, ministerial dispatch box, and Churchill's central armchair](../../assets/articles/churchill-war-rooms-guide/churchill-cabinet-room.jpg)
 
-*The Cabinet War Room. The War Cabinet met here 115 times between 27 August 1939 and 16 August 1945, mostly during the Blitz and the later V-weapon attacks.*
+*The Cabinet War Room.*
 
 <div data-stay-strip></div>
 
@@ -106,7 +106,7 @@ Churchill's chair sits at the centre of the table layout, identifiable by scratc
 
 ![The Map Room in the Churchill War Rooms with global convoy charts and colour-coded hotlines](../../assets/articles/churchill-war-rooms-guide/churchill-map-room.jpg)
 
-*The Map Room. Sealed on 16 August 1945 following the surrender of Japan, the room retains its original wall charts, map pins, and colour-coded telephone lines.*
+*The Map Room.*
 
 ### 2. The Map Room
 The Map Room was the operational nerve centre of the entire British Empire during the war, staffed around the clock by officers of the Royal Navy, British Army, and Royal Air Force.
@@ -120,7 +120,7 @@ Key details to examine:
 
 ![Winston Churchill's underground bedroom and desk with broadcast microphone](../../assets/articles/churchill-war-rooms-guide/churchill-bedroom-desk.jpg)
 
-*Churchill's underground bedroom. From this executive desk, Churchill made four wartime radio broadcasts to the British public via BBC microphone lines.*
+*Churchill's underground bedroom.*
 
 ### 3. Churchill's bedroom and desk (Room 64)
 Room 64 was Churchill's personal underground bedroom and study. It contains a simple single bed covered with a plain quilt, a chamber pot, an executive writing desk, and a large map of the United Kingdom marked with coastal defence sectors.
@@ -131,7 +131,7 @@ He used the desk itself constantly, for afternoon naps, private briefings, and w
 
 ![The Transatlantic Telephone Room disguised as a private lavatory cubicle](../../assets/articles/churchill-war-rooms-guide/churchill-transatlantic-phone-room.jpg)
 
-*The Transatlantic Telephone Room. Disguised as a private toilet for Churchill's use only, this tiny cupboard housed a secret hotline to the White House.*
+*The Transatlantic Telephone Room.*
 
 <div data-stay-strip></div>
 
@@ -143,8 +143,6 @@ Inside sat a secure telephone extension connected to President Franklin D. Roose
 The main SIGSALY terminal serving Britain sat in the sub-sub-basement of Selfridges department store on Oxford Street, operational from July 1943, with extensions to the US Embassy, Number 10 Downing Street and this cupboard in the War Rooms. Churchill and Roosevelt first spoke over the link in April 1944; senior military planners used the Selfridges terminal far more often, mostly to talk securely to Washington.
 
 ![Underground corridor inside the Churchill War Rooms beneath Whitehall](../../assets/articles/churchill-war-rooms-guide/churchill-bunker-corridor.jpg)
-
-*The narrow reinforced corridors beneath the Treasury building.*
 
 ### 5. The Churchill Museum
 Covering roughly half the site's footprint, the **Churchill Museum** is a modern, interactive biographical exhibition that opened in 2005.

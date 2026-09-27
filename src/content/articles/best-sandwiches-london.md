@@ -72,7 +72,7 @@ Open **twenty-four hours a day, every day of the year**, which makes it the sing
 
 ![Salt beef being carved behind a hot salt beef window, with beigels filled and waiting](../../assets/articles/best-sandwiches-london/beigel-bake-salt-beef.jpg)
 
-*Salt beef carved to order behind the counter on Brick Lane. The beigel is £7.50 with mustard and a gherkin.*
+*Salt beef, carved to order.*
 
 ### The Beigel Shop, Brick Lane
 
@@ -96,7 +96,7 @@ So: Leather Lane for the original and the market street around it, Wardour Stree
 
 ![A salt beef sandwich cut in half on greaseproof paper, thick hand-carved beef spilling out of caraway-seeded bread with pickle showing at the back](../../assets/articles/best-sandwiches-london/tongue-and-brisket.jpg)
 
-*Home-cured and carved to order, on caraway-seeded bread. The classic is £8 — the amount falling out of it is roughly the argument for coming here rather than anywhere else on Leather Lane.*
+*Tongue & Brisket, Leather Lane.*
 
 ### Porterford Butchers, the City
 
@@ -112,7 +112,7 @@ At **72 Watling Street, EC4M 9BJ**, two minutes from Mansion House. This is a sa
 
 ![A salt beef baguette cut open, filled with hand-carved beef, yellow mustard and a whole gherkin laid along the length of it](../../assets/articles/best-sandwiches-london/porterford-butchers.jpg)
 
-*£8.50 regular, and the mustard down the side of this one is the 20p addition rather than something that arrives by default.*
+*Porterford Butchers' salt beef baguette.*
 
 ---
 
@@ -126,7 +126,7 @@ At **72 Watling Street, EC4M 9BJ**, two minutes from Mansion House. This is a sa
 
 ![A sandwich in a soft split bun filled with ham, shoestring fries, pickles and a soft egg](../../assets/articles/best-sandwiches-london/maxs-sandwich-shop.jpg)
 
-*"Ham, Egg 'n' Chips": ham hock, piccalilli, a fried egg and shoestring fries. It should not work as a sandwich and it does.*
+*The Ham, Egg 'n' Chips.*
 
 The shop the modern London sandwich movement starts from, and the one name that comes up in almost every conversation about sandwiches in this city.
 
@@ -156,7 +156,7 @@ The crisps sandwich is still there but it has changed: it is now **Crispy Greens
 
 ![A sando cut in two in a white takeaway box, crustless white bread around a filling of patty, avocado, tomato and egg, with a branded Kewpie sachet tucked in beside it](../../assets/articles/best-sandwiches-london/secret-sandwich-shop.jpg)
 
-*Crustless milk bread, cut square so the filling reads end to end, and a Kewpie sachet in the box. This is not the egg salad — that is the one to order.*
+*Secret Sandwich Shop, Notting Hill.*
 
 ### The Dusty Knuckle, Dalston
 
@@ -172,7 +172,7 @@ Three sites: Dalston, **Harringay at 429 Green Lanes N4 1HA**, and a van at High
 
 ![A focaccia sandwich cut in half on a white plate, open-crumb bread around chicken, green olives, herbs and leaves, with a lemonade and a plum pastry in a box alongside](../../assets/articles/best-sandwiches-london/the-dusty-knuckle.jpg)
 
-*The bread is the argument, and this is what the bakery half of it produces — open-crumb focaccia holding a filling that would fall out of anything lesser. The pastry alongside is the other reason people come.*
+*The Dusty Knuckle's focaccia.*
 
 ### Crunch, Soho and Spitalfields
 
@@ -180,7 +180,7 @@ Three sites: Dalston, **Harringay at 429 Green Lanes N4 1HA**, and a van at High
 
 ![A fried chicken sandwich in thick golden brioche, in a takeaway box beside a skewer of fried potato](../../assets/articles/best-sandwiches-london/crunch-fried-chicken.jpg)
 
-*Everything is built on a golden brioche loaf rather than bread — rich, sweet, and the reason Crunch divides people.*
+*Crunch's chicken katsu, on brioche.*
 
 Everything is built on a **golden brioche loaf** rather than bread, which is the whole proposition and the reason it divides people — rich, sweet and closer to a bun than a sandwich. The **chicken katsu** is the one to order: deep-fried breast, tonkatsu sauce and Japanese apple jam, and the cheapest thing on the board at **£12**.
 
@@ -242,7 +242,7 @@ Fergus Henderson's **bacon sandwich** on soft white bread is the benchmark every
 
 ![A bacon sandwich in griddled white bread, served with soft-boiled eggs and toast](../../assets/articles/best-sandwiches-london/st-john-bread-and-wine.jpg)
 
-*The St John bacon sandwich. Griddled white bread, good bacon, and nothing else asking for attention.*
+*The St John bacon sandwich.*
 
 > ⚠️ **There is no breakfast service, which trips people up badly.** The earliest seating of the day is **noon**, every day of the week — lunch runs to 3pm, a bar menu fills 3pm to 5pm, and supper starts at 5.30pm on weekdays and 6pm at weekends. If you are making a special trip for the bacon sandwich, go at lunch and check it is on that day's menu, because the kitchen writes a new one daily and it is not a permanent fixture.
 
@@ -294,7 +294,7 @@ Jeremy Lee has been making it for years and it has outlasted every trend that ha
 
 ![The black frontage of Quo Vadis on Dean Street](../../assets/articles/best-sandwiches-london/quo-vadis.jpg)
 
-*Karl Marx lived upstairs. The smoked eel sandwich at the bar is the cheap way in. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2588280146), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Quo Vadis, Dean Street. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2588280146), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Milk, Balham
 
@@ -330,7 +330,7 @@ A **bacon and scallop roll** in a market traders' café, where the scallops come
 
 ![A falafel wrap in flatbread held in one hand, filled with salad, pickles and red cabbage](../../assets/articles/best-sandwiches-london/mr-falafel.jpg)
 
-*Palestinian falafel wraps roughly the size of your forearm, built in front of you as you point at the salads.*
+*Mr Falafel, Shepherd's Bush Market.*
 
 Palestinian falafel wraps roughly the size of your forearm, in something close to a dozen builds. The **classic** is hummus, griddled aubergine and pickled vegetables with tahini, and the fried cauliflower and fried potato versions are real menu items rather than options you have to ask for.
 

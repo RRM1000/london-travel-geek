@@ -82,7 +82,7 @@ Tables release in batches and go immediately. This is the hardest vegan booking 
 
 ![A laminated pastry spiral served on a small wooden board at Plates, with a quenelle of green butter in a wooden pot alongside](../../assets/articles/best-vegetarian-vegan-restaurants-london/plates.jpg)
 
-*This is the argument in one course: laminated by hand, served on wood with a green butter to spread. Nothing here is standing in for anything.*
+*The laminated pastry spiral, Plates.*
 
 ### Gauthier Soho, Soho
 
@@ -96,7 +96,7 @@ Tables release in batches and go immediately. This is the hardest vegan booking 
 
 ![Canapés arranged on ornate green and gold china: filled tuile rolls, crisp rice crackers topped with tomato, and celery with an orange purée](../../assets/articles/best-vegetarian-vegan-restaurants-london/gauthier-soho.jpg)
 
-*Canapés on the townhouse china, and not one animal product among them. Everything a classical French kitchen normally does with butter and eggs, done without either — which is the whole exercise here.*
+*Canapés at Gauthier Soho.*
 
 ---
 
@@ -114,7 +114,7 @@ The menu is drawn from everywhere at once: **gyoza, burritos, mezze, Sri Lankan 
 
 ![Skewers of browned, marinated pieces served over a herbed rice salad with charred tomatoes, chilli and a satay-style sauce on a pale plate](../../assets/articles/best-vegetarian-vegan-restaurants-london/mildreds.jpg)
 
-*The menu has changed constantly since 1988 and this is one plate of it. Like everything else here it is entirely plant-based, whatever it looks like on the plate.*
+*A dish at Mildreds.*
 
 ### Mallow, Borough Market
 
@@ -128,7 +128,7 @@ The signature is the **turmeric milk bread with apricot harissa butter**, which 
 
 ![Three bowls on weathered blue-grey wood: heritage carrots on a beetroot purée, pickled vegetables with olives, and fritters on a green herb sauce scattered with pomegranate](../../assets/articles/best-vegetarian-vegan-restaurants-london/mallow.jpg)
 
-*Not the turmeric milk bread that most tables order first — the vegetable plates that come after it, which change with the market next door.*
+*Vegetable plates at Mallow.*
 
 ### The Gate, Hammersmith
 
@@ -142,7 +142,7 @@ That heritage is the distinguishing thing: the food draws on the family's backgr
 
 ![Three crisp-fried golden cubes set along a long white plate on quinoa, with a green herb sauce and micro leaves](../../assets/articles/best-vegetarian-vegan-restaurants-london/the-gate.jpg)
 
-*Plated more formally than anything else on this list, which is part of what the £££ buys. The Gate has been cooking like this since 1989.*
+*A dish at The Gate.*
 
 ### Rasa, Stoke Newington
 
@@ -156,7 +156,7 @@ That heritage is the distinguishing thing: the food draws on the family's backgr
 
 ![A spread of Keralan dishes at Rasa: lemon rice, dals, a paratha and small steel bowls of curries and pickles across a white tablecloth](../../assets/articles/best-vegetarian-vegan-restaurants-london/rasa.jpg)
 
-*The set feast, which is the way to order if you do not know the region. The small steel bowls are the point — pickles and chutneys are half the meal in Kerala.*
+*The set feast at Rasa.*
 
 ---
 
@@ -179,7 +179,7 @@ That heritage is the distinguishing thing: the food draws on the family's backgr
 
 ![A loaded steel thali tray holding chana, dal with peas, a beetroot dish, salad, rice, chapati and a papad](../../assets/articles/best-vegetarian-vegan-restaurants-london/diwana-thali.jpg)
 
-*The lunchtime buffet thali, which is the value order and the reason the room fills at noon.*
+*The lunchtime thali at Diwana.*
 
 ### Govinda's, Soho
 
@@ -191,11 +191,11 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 ![The red awning of Govinda's Pure Vegetarian Restaurant on Soho Street](../../assets/articles/best-vegetarian-vegan-restaurants-london/govinda-s.jpg)
 
-*Run by the Hare Krishna temple next door. Cheap, plain and entirely vegetarian. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3085944256), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Govinda's, Soho Street. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3085944256), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ![A steel thali tray at Govinda's holding a samosa, puri, dal, rajma, broccoli sabzi, salad and rice, with poppadoms alongside](../../assets/articles/best-vegetarian-vegan-restaurants-london/govindas-thali.jpg)
 
-*The tray itself: eight or nine things for less than a pint costs in the same postcode.*
+*The thali at Govinda's.*
 
 ### Indian Veg, Islington
 
@@ -219,7 +219,7 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 ![Seitan tenders in a takeaway box with a dip, a burger with melted cheese and lettuce, and a tub of fried popcorn pieces in Temple of Seitan branded packaging](../../assets/articles/best-vegetarian-vegan-restaurants-london/temple-of-seitan.jpg)
 
-*Tenders, a burger and popcorn pieces in the shop's own boxes. It is the menu board of any high-street fried chicken counter with the chicken taken out of it.*
+*Tenders and a burger, Temple of Seitan.*
 
 ### Saravanaa Bhavan, Leicester Square
 
@@ -253,7 +253,7 @@ A **vada pav** is a spiced potato fritter in a soft bun with dry garlic chutney:
 
 ![A takeaway tray at Borough Market holding a folded dosa and a portion of chaat topped with sev, pomegranate and red onion](../../assets/articles/best-vegetarian-vegan-restaurants-london/horn-ok.jpg)
 
-*Eaten standing, which is how it is meant to be. Both stalls are lunch trade and shut long before dinner.*
+*Dosa and chaat, Borough Market.*
 
 ---
 
@@ -285,7 +285,7 @@ The signature is **crispy sweet and sour seaweed toast**, and the rest of the me
 
 ![A curry with carrot in a black bowl beside rice and peas topped with a wedge of fried plantain and steamed cabbage, on a white plate](../../assets/articles/best-vegetarian-vegan-restaurants-london/jam-delish.jpg)
 
-*Curry, rice and peas, plantain and cabbage. Nothing here is standing in for meat — the curries are built on jackfruit and pulses, and the seasoning is not moderated to suit anybody.*
+*A curry at Jam Delish.*
 
 ### Itadaki Zen, King's Cross — Japanese
 
@@ -319,7 +319,7 @@ Purezza makes its own **cashew and rice-milk mozzarella** in-house rather than b
 
 ![Three vegan pizzas seen from above on Purezza-branded paper, with a board of vegan cheeses and dips and a rosemary focaccia stick between them](../../assets/articles/best-vegetarian-vegan-restaurants-london/purezza.jpg)
 
-*The cheese is the whole problem and Purezza makes its own, which is why these melt and blister instead of sitting there. The board at the top is the same cheese sold as a cheeseboard.*
+*Vegan pizzas at Purezza.*
 
 ---
 
@@ -347,7 +347,7 @@ The **jackfruit carnitas** and the vegan **al pastor** are the orders, with sals
 
 ![Two loaded tacos on a metal tray at Club Mexicana, piled with pickled red onion, jalapeños, coriander, crema and chilli sauce](../../assets/articles/best-vegetarian-vegan-restaurants-london/club-mexicana.jpg)
 
-*Nothing on the tray announces itself as vegan, which is the whole point of the place.*
+*Tacos at Club Mexicana.*
 
 ### Naïfs, Peckham
 
@@ -381,7 +381,7 @@ One thing to know: the **Spitalfields site is vegetarian rather than vegan** and
 
 ![Charred squares of grilled focaccia on a white plate beside a bowl of whipped dip topped with green oil, crisp chickpeas and golden raisins](../../assets/articles/best-vegetarian-vegan-restaurants-london/holy-carrot.jpg)
 
-*No refined sugar, no gluten-heavy stodge, no additives — and it still arrives looking like this. The Portobello Road room is the fully vegan one.*
+*Focaccia and dip at Holy Carrot.*
 
 ### Unity Diner, Shoreditch
 

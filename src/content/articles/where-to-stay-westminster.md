@@ -54,7 +54,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *101 Buckingham Palace Road, SW1W 0SJ · Beside Victoria station · Check-in 3pm, out 11am*
 
-**[The Clermont](hotelscom:h10939)** opened in 1862 as The Grosvenor Hotel, built beside the station, so the Gatwick train is a short walk from reception. Classic Singles are 16 square metres, and a Classic Family room of 28 square metres takes two adults and a child, or one adult and two children. **The hotel says it cannot accommodate wheelchair users**, because of the building's layout.
+**[The Clermont](hotelscom:h10939)** opened in 1862 as The Grosvenor Hotel, built beside the station, so the Gatwick train is a short walk from reception. Classic Singles are 16 square metres, and a Classic Family room of 28 square metres takes two adults and a child, or one adult and two children. **The hotel says it cannot accommodate wheelchair users**, because of the building's layout. Its Signature Suites have a Victorian roll-top bath.
 
 <div class="photo-row">
 
@@ -64,7 +64,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*Left: a double with a window the height of the wall. Right: a Victorian roll-top bath, which the hotel lists for its Signature Suites.*
+*A room and bathroom at The Clermont.*
 
 ### The Z Hotel Victoria: 9 square metres, two minutes from the station
 
@@ -80,7 +80,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A Z Double, the grade with a window: the bed runs wall to wall, and the shower is a glass cubicle beside the basin.*
+*A Z Double at The Z Hotel Victoria.*
 
 ### Lime Tree Hotel: a minute from the coach station
 
@@ -96,7 +96,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A double with French windows onto a balcony, and a walk-in shower rather than a bath.*
+*A room and bathroom at the Lime Tree.*
 
 ### Premier Inn London Victoria: air conditioning and family rooms
 
@@ -106,7 +106,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 ![A white-tiled bathroom at Premier Inn London Victoria with a bath and overhead shower, a shower curtain, and a basin set in a white vanity under a wide mirror](../../assets/articles/where-to-stay-westminster/premier-inn-london-victoria-bathroom.jpg)
 
-*A bath with a shower over it, behind a curtain.*
+*A bathroom at Premier Inn London Victoria.*
 
 ### The July London Victoria: a kitchen in every apartment
 
@@ -122,7 +122,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A banquette and table for eating in the room, by a window onto trees, and a walk-in shower.*
+*A room and bathroom at The July.*
 
 ### The Resident Victoria: a mini-kitchen in 73 rooms
 
@@ -138,7 +138,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A room with a sofa and windows on two walls; the shower sits behind sliding glass doors.*
+*A room and bathroom at The Resident Victoria.*
 
 ### The Rubens at the Palace: opposite the Royal Mews
 
@@ -148,7 +148,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 ![A narrow double room at The Rubens at the Palace, with a crystal chandelier, a mirrored wall behind the bed, striped silk wallpaper and heavy swagged curtains beside a wall-mounted TV](../../assets/articles/where-to-stay-westminster/the-rubens-at-the-palace-room.jpg)
 
-*A narrow double in the hotel's traditional style, with a mirrored wall behind the bed.*
+*A room at The Rubens at the Palace.*
 
 ### Hotel 41: 28 rooms and a guests-only lounge
 
@@ -164,7 +164,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*Black and white down to the carpet, and a bath with a rain shower over it.*
+*A room and bathroom at Hotel 41.*
 
 ### The Goring: family-owned, by Buckingham Palace
 
@@ -180,7 +180,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A room with armchairs in the window, and a marble bathroom with a bath and a separate shower.*
+*A room and bathroom at The Goring.*
 
 ## Pimlico: the B&B streets
 
@@ -192,7 +192,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 ![A dorm at Astor Victoria with two rows of metal-framed bunks, each with a privacy curtain, a reading light and storage drawers underneath, on a wooden floor leading to a sash window](../../assets/articles/where-to-stay-westminster/astor-victoria-room.jpg)
 
-*A dorm: every bunk has its own curtain and reading light, with drawers under the bottom beds.*
+*A dorm at Astor Victoria.*
 
 ### Luna Simone Hotel: family-run since 1970, breakfast included
 
@@ -202,7 +202,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 ![A twin room at Luna Simone with two single beds against a light wood headboard panel, grey bed runners, a tall window with grey curtains and a built-in wardrobe](../../assets/articles/where-to-stay-westminster/luna-simone-hotel-room.jpg)
 
-*A twin: two single beds, a built-in wardrobe and a tall window.*
+*A twin room at Luna Simone.*
 
 ### The Windermere Hotel: the Pimlico B&B with a lift
 
@@ -212,7 +212,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 ![A double room at The Windermere with a plum and gold fabric canopy over the bed, purple velvet cushions, and two carved chairs at a round table in a tall window with patterned swagged curtains](../../assets/articles/where-to-stay-westminster/the-windermere-hotel-room.jpg)
 
-*A double with a fabric canopy over the bed and a table for two in the window.*
+*A room at The Windermere.*
 
 ### The Georgian House Hotel: the wizard rooms
 
@@ -222,7 +222,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 ![A high-ceilinged room at The Georgian House with mustard-yellow walls, a double bed with twin arched green velvet headboards, an antique chest of drawers, a red patterned rug and a tall shuttered sash window](../../assets/articles/where-to-stay-westminster/the-georgian-house-hotel-room.jpg)
 
-*One of the ordinary rooms, not a Wizard Chamber: period furniture, a high ceiling and a tall sash window.*
+*An ordinary room, not a Wizard Chamber.*
 
 ### Artist Residence London: ten rooms over a neighbourhood restaurant
 
@@ -238,7 +238,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*Crates for bedside tables and a sliding barn door; the bathroom, in reclaimed timber and bare brick, has a bath.*
+*A room and bathroom at Artist Residence.*
 
 ## Westminster and St James's Park
 
@@ -246,11 +246,11 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *21 Tothill Street, SW1H 9LL · St James's Park nearest*
 
-**[hub Westminster Abbey](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-westminster-abbey.html)** is Premier Inn's small-room brand: **Standard rooms are 11 square metres** with a double bed, Bigger rooms 14 with a king. The two Interior grades **have no windows**. There is no car park.
+**[hub Westminster Abbey](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-westminster-abbey.html)** is Premier Inn's small-room brand: **Standard rooms are 11 square metres** with a double bed, Bigger rooms 14 with a king. The two Interior grades **have no windows**. Accessible rooms have a level-floor shower with a folding seat and grab rails. There is no car park.
 
 ![hub by Premier Inn's photo of the wet room in its accessible rooms: a level-floor shower behind a curtain, green wall tiles, grab rails by the shower and toilet, and a basin on a stone counter](../../assets/articles/where-to-stay-westminster/hub-by-premier-inn-london-westminster-abbey-bathroom.jpg)
 
-*hub's own photo of the wet room in its accessible rooms, which have a level-floor shower with a folding seat and grab rails.*
+*A wet room in hub's accessible rooms.*
 
 ### The Sanctuary House Hotel: rooms over a pub, breakfast included
 
@@ -266,7 +266,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A bay-windowed double, and a walk-in shower rather than a bath.*
+*A room and bathroom at The Sanctuary House.*
 
 ### St Ermin's Hotel: family suites off a courtyard
 
@@ -282,7 +282,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A double with a window onto red-brick buildings, and a marble bathroom with twin basins.*
+*A room and bathroom at St Ermin's.*
 
 ### The Guardsman: apartments with kitchens, off Buckingham Gate
 
@@ -292,7 +292,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 ![A double room at The Guardsman with a tall grey leather-panelled headboard edged in brass, dark velvet cushions, grid-patterned wallpaper and a full-height window with sheer and striped curtains](../../assets/articles/where-to-stay-westminster/the-guardsman-room.jpg)
 
-*A double with a full-height window and a headboard in panels of grey leather.*
+*A room at The Guardsman.*
 
 ### St. James' Court, A Taj Hotel: eight Victorian houses round a courtyard
 
@@ -308,7 +308,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A double in grey and lime, and a white marble bathroom.*
+*A room and bathroom at St. James' Court.*
 
 ### Conrad London St. James: between the park and the Abbey
 
@@ -324,7 +324,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A room with a walk-in wardrobe, and a bathroom with twin basins in brown marble.*
+*A room and bathroom at Conrad London St. James.*
 
 ## Whitehall and Trafalgar Square
 
@@ -342,7 +342,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A room with a chaise and a gallery wall of prints, and a stone bathroom with a bath and a separate shower.*
+*A room and bathroom at The Trafalgar St. James.*
 
 ### Corinthia London: big rooms and a spa pool
 
@@ -358,7 +358,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*Both photos show a suite, not the entry-level Deluxe room: a roof terrace looking to Nelson's Column, and a freestanding bath.*
+*A suite, not the entry-level Deluxe room.*
 
 ### Raffles London at The OWO: the Old War Office
 
@@ -374,7 +374,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A room with a carved marble fireplace and a high ceiling, and twin basins in the bathroom.*
+*A room and bathroom at Raffles at The OWO.*
 
 ## St James's
 
@@ -392,7 +392,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A room with a huge semicircular headboard, and a black-and-white tiled bathroom with a bath.*
+*A room and bathroom at Sofitel St James.*
 
 ### The Stafford London: three buildings and the American Bar
 
@@ -408,7 +408,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 </div>
 
-*A room under the eaves, and a marble bathroom with two basins, a bath and a separate shower.*
+*A room and bathroom at The Stafford.*
 
 ## If none of these fits
 

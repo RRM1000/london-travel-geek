@@ -92,7 +92,7 @@ Greenwich has its own share of the commemorative plaques marking where notable p
 
 ![Looking straight up at the ornate painted dome ceiling of the Painted Hall in the Old Royal Naval College](../../assets/articles/greenwich-area-guide/painted-hall-ceiling.jpg)
 
-*James Thornhill spent nineteen years on this ceiling. It's known as the UK's Sistine Chapel, and the comparison holds up better than you'd expect. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Painted Hall ceiling. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 5. **National Maritime Museum** — Free. Nelson's coat with the bullet hole from Trafalgar, and a good children's gallery.
 6. **Greenwich Park and the deer** — 183 acres, London's oldest enclosed royal park, with a wild deer herd in The Wilderness.
 7. **Greenwich Market** — Covered, and now open **daily, 10am to 5.30pm**, bank holidays included. Arts, crafts, antiques and food under one roof.
@@ -100,7 +100,7 @@ Greenwich has its own share of the commemorative plaques marking where notable p
 
 ![The National Maritime Museum's columned entrance, with two giant white anchors standing either side of the doorway](../../assets/articles/greenwich-area-guide/national-maritime-museum.jpg)
 
-*The National Maritime Museum, with the giant anchors outside its entrance.*
+*The National Maritime Museum.*
 
 ## Greenwich and North Greenwich Are Not the Same Place
 
@@ -114,11 +114,11 @@ This is the single most common Greenwich mistake, so it is worth stating plainly
 
 They are on opposite sides of the Greenwich Peninsula and are **not walkable from one another** in any sensible way. If you have a concert ticket, you want **North Greenwich** on the Jubilee line. If you want the Observatory, you want **Cutty Sark** on the DLR. Arriving at the wrong one costs you half an hour.
 
-What is at North Greenwich: **The O2**, one of the busiest arenas in the world, with the **Up at The O2** roof climb over the dome; the **IFS Cloud Cable Car** across the river to the Royal Docks; and the **Design District**, a cluster of small studios and a good canteen.
+What is at North Greenwich: **The O2**, one of the busiest arenas in the world, with the **Up at The O2** roof climb over the dome; the **IFS Cloud Cable Car** across the river to the Royal Docks, where contactless is accepted and the crossing counts as a TfL journey; and the **Design District**, a cluster of small studios and a good canteen.
 
 ![The red brick and glass domed rotunda entrance to the Greenwich Foot Tunnel beside the Thames](../../assets/articles/greenwich-area-guide/greenwich-foot-tunnel-rotunda.jpg)
 
-*The southern rotunda of the Greenwich Foot Tunnel, beside the Cutty Sark. Since the refurbishment the lifts run 24 hours; the stairs are the fallback.*
+*The Greenwich Foot Tunnel's southern rotunda.*
 
 ## Key streets and micro-districts
 
@@ -135,7 +135,7 @@ The UNESCO core, and four separate sites within five minutes of each other — w
 
 ![The colonnade beside the Queen's House at the Old Royal Naval College, its white columns throwing long shadows across the flagstones](../../assets/articles/greenwich-area-guide/naval-college-colonnade.jpg)
 
-*The colonnade beside the Queen's House. The whole UNESCO core sits within a five-minute walk of this spot.*
+*The colonnade beside the Queen's House.*
 
 ### Greenwich town centre
 A compact grid around the covered market, and the part that still feels like a town rather than a visitor attraction.
@@ -161,7 +161,7 @@ Also free, and often missed: the **deer in The Wilderness** — a herd has been 
 
 ![Greenwich Park looking down over the Old Royal Naval College to the Thames, Canary Wharf and the O2](../../assets/articles/greenwich-area-guide/greenwich-park-view.jpg)
 
-*The view north from the hill: the Queen's House and Naval College below, Canary Wharf across the river, the O2 to the right.*
+*The view from Greenwich Park.*
 
 ### The riverside and the Foot Tunnel
 **The Greenwich Foot Tunnel is free, open at all hours, and the entrance is right at the pier beside the Cutty Sark** — a glazed rotunda you would walk past without noticing. Opened in 1902 so that south London dockworkers could reach the Isle of Dogs, it is white tile under the river, and it comes up at Island Gardens for the view back at Greenwich that Canaletto painted. The refurbishment left **four new lifts that the council says run 24 hours a day**, and it publishes a [live status page for both ends](https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels) — worth a look before you rely on them. Walk your bike through rather than riding, and note that e-bikes are barred altogether.
@@ -174,26 +174,26 @@ Also free, and often missed: the **deer in The Wilderness** — a herd has been 
 
 ![The Trafalgar Tavern's riverside terrace strung with rows of colourful nautical signal flags](../../assets/articles/greenwich-area-guide/trafalgar-tavern.jpg)
 
-*The Trafalgar Tavern, dressed in signal flags. Dickens set the wedding breakfast in* Our Mutual Friend *here, in the pub's Hawke Room.*
+*The Trafalgar Tavern.*
 
 ![The cast-iron ribbed interior of the Greenwich Foot Tunnel running under the Thames](../../assets/articles/greenwich-area-guide/foot-tunnel-interior.jpg)
 
-*Inside the Foot Tunnel. Opened in 1902, free, and open at all hours.*
+*Inside the Foot Tunnel.*
 
 <div data-stay-strip></div>
 
 ### Greenwich Peninsula and North Greenwich
-Two miles north, and a different world from the Maritime Greenwich end of the peninsula — modern, arena-scale, and built around The O2 rather than around history. Match-day and event-night transport are in our [O2 travel guide](/articles/the-o2-travel-guide/).
+Two miles north, and a different world from the Maritime Greenwich end of the peninsula — modern, arena-scale, and built around The O2 rather than around history. Match-day and event-night transport are in our [O2 travel guide](/articles/the-o2-travel-guide/). The Thames Clippers pier here is the fastest way in on an event night.
 
 ![The O2's white dome and yellow support masts seen from across the Thames at dusk, with an Uber Boat by Thames Clippers moored in front](../../assets/articles/greenwich-area-guide/o2-dusk-river.jpg)
 
-*The O2 from across the river at dusk. The Thames Clippers pier here is the fastest way in on an event night.*
+*The O2 from across the river at dusk.*
 
 **The O2 is not just the arena.** Wrapped around the dome is **Outlet Shopping at The O2** — over 60 discount and outlet stores (adidas, Nike, Calvin Klein, Tommy Hilfiger, Guess, Next and others), open the same hours as the rest of the complex. Alongside it: more than 30 bars and restaurants, a **Cineworld cinema**, **bowling**, and a **trampoline park**, on top of the **Up at The O2** roof climb and whatever is playing in the arena itself. It works as a destination on a day with no concert ticket at all.
 
 ![A red and white IFS Cloud Cable Car cabin crossing high above the Thames, with the O2 dome and the Canary Wharf skyline behind](../../assets/articles/greenwich-area-guide/ifs-cloud-cable-car.jpg)
 
-*The IFS Cloud Cable Car crossing to the Royal Docks, with the O2 and Canary Wharf behind. Contactless is accepted, and it counts as a TfL journey.*
+*The IFS Cloud Cable Car.*
 
 The **Design District** sits opposite the arena, a minute from North Greenwich station — 16 low-rise buildings by eight different architects, holding small design studios, workspaces and a straightforward canteen. Worth a look if The O2 itself feels too retail-heavy.
 
@@ -210,7 +210,7 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 
 ![Food stalls under the glass and iron roof of Greenwich Market, with banners reading I Heart Greenwich Market](../../assets/articles/greenwich-area-guide/greenwich-market-stalls.jpg)
 
-*Greenwich Market under its Victorian roof. It trades daily, 10am to 5.30pm, and the only Mondays it closes are the first six of the year.*
+*Greenwich Market, under its Victorian roof.*
 
 ## Getting there
 

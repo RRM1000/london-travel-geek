@@ -72,7 +72,7 @@ Our [Mayfair area guide](/articles/mayfair-area-guide/) covers what to see once 
 
 ![A Zedwell Park Lane Cocoon: a double mattress on a raised oak platform set into a backlit oak alcove, a coat on a wall hook and a pale tiled floor, with no window](../../assets/articles/where-to-stay-mayfair/zedwell-park-lane-room.jpg)
 
-*A Cocoon: the bed is a platform in a lit oak alcove, with a ledge beside the mattress for a bag, and there is no window anywhere in the room.*
+*A Cocoon at Zedwell Park Lane.*
 
 The rate moves a lot with the night: a Cocoon 2 was £90 on an October Sunday and a February Wednesday, and £207 on an October Saturday. Hyde Park Corner is an 11-minute walk. Our [windowless hotel rooms guide](/articles/windowless-hotel-rooms-london/) explains what the format is like to sleep in.
 
@@ -90,7 +90,7 @@ The rate moves a lot with the night: a Cocoon 2 was £90 on an October Sunday an
 
 </div>
 
-*The apartment shown has a roof terrace off the bedroom, and a bathroom with a freestanding bath and a separate walk-in shower.*
+*A room at Native Mayfair, and its bathroom.*
 
 ### No.5 Maddox Street: one to three bedrooms off Regent Street
 
@@ -106,7 +106,7 @@ The rate moves a lot with the night: a Cocoon 2 was £90 on an October Sunday an
 
 </div>
 
-*A bedroom with a built-in dressing table, and a bath with a rainfall shower over it rather than a separate cubicle.*
+*A room at No.5 Maddox Street, and its bathroom.*
 
 ## Park Lane: the big hotels on Hyde Park
 
@@ -124,7 +124,7 @@ The rate moves a lot with the night: a Cocoon 2 was £90 on an October Sunday an
 
 </div>
 
-*A walk-in wardrobe off the bedroom, and a marble bathroom with the bath set under the window.*
+*A room at The Dorchester, and its bathroom.*
 
 Downstairs are Alain Ducasse at The Dorchester, The Grill, China Tang, Vesper Bar, the Artists' Bar and **afternoon tea in The Promenade**, where shorts and sportswear are not allowed. For families it sells connecting rooms, and some suites join into a five-bedroom suite; an extra bed for anyone 13 or over is £84 a night.
 
@@ -142,7 +142,7 @@ Downstairs are Alain Ducasse at The Dorchester, The Grill, China Tang, Vesper Ba
 
 </div>
 
-*A suite, with the sitting room's bay windows onto Hyde Park beyond the bedroom, and a marble bathroom with twin basins and a bath.*
+*A suite at 45 Park Lane, and its bathroom.*
 
 ### Four Seasons Hotel London at Park Lane: eleven storeys at Hyde Park Corner
 
@@ -158,7 +158,7 @@ Downstairs are Alain Ducasse at The Dorchester, The Grill, China Tang, Vesper Ba
 
 </div>
 
-*A double room, and a bathroom with a separate bath and walk-in shower.*
+*A room at the Four Seasons Park Lane, and its bathroom.*
 
 ## Grosvenor Square and Mount Street
 
@@ -170,17 +170,17 @@ Downstairs are Alain Ducasse at The Dorchester, The Grill, China Tang, Vesper Ba
 
 ![A Connaught bedroom in sage green with a panelled green leather headboard, an abstract painting above the bed, a grey armchair by a tall arched leaded window and a swirling green carpet](../../assets/articles/where-to-stay-mayfair/the-connaught-room.jpg)
 
-*A bedroom with a tall leaded window and space for an armchair and side table beside the bed.*
+*A room at The Connaught.*
 
 ### Claridge's: the art deco one
 
 *About £750 · Brook Street, W1K 4HR · Bond Street 5 min, Oxford Circus 10 min · Breakfast extra*
 
-**[Claridge's](hotel:claridges)** is a red-brick Victorian building that became an art deco landmark in the 1920s, and its rooms span both: Victorian, art deco and contemporary. The afternoon tea has been served for more than 120 years and books well ahead. The newest arrival is **Dante Mayfair**, a permanent branch of the Greenwich Village cocktail bar. Our [family hotels guide](/articles/best-family-hotels-london/) covers what Claridge's does for children.
+**[Claridge's](hotel:claridges)** is a red-brick Victorian building that became an art deco landmark in the 1920s, and its rooms span both: Victorian, art deco and contemporary, so check which style a rate includes before booking. The afternoon tea has been served for more than 120 years and books well ahead. The newest arrival is **Dante Mayfair**, a permanent branch of the Greenwich Village cocktail bar. Our [family hotels guide](/articles/best-family-hotels-london/) covers what Claridge's does for children.
 
 ![A contemporary Claridge's room with a curved sofa and round cushions, a scalloped cream headboard, a bed on wooden ball feet, and a glass door open onto a balcony with a blue metal table and two chairs above the rooftops](../../assets/articles/where-to-stay-mayfair/claridges-room.jpg)
 
-*A Balcony Room, one of the contemporary designs. The Victorian and art deco rooms look nothing like it, so check the photos for the room type you book.*
+*A Balcony Room at Claridge's.*
 
 ### The Chancery Rosewood: 144 suites in the old US Embassy
 
@@ -196,7 +196,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 </div>
 
-*Tall windows onto trees, and twin basins in green stone with the bath beyond.*
+*A room at The Chancery Rosewood, and its bathroom.*
 
 ### The Beaumont: art deco, with a Gormley you can sleep in
 
@@ -206,13 +206,13 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 ![A Beaumont bedroom in gold and black, with a lacquered walnut headboard under a framed map of the Thames, a two-seat settee at the foot of the bed, a round armchair and a full-height window behind sheer curtains](../../assets/articles/where-to-stay-mayfair/the-beaumont-room.jpg)
 
-*Deco furniture throughout and a full-height window; this one looks onto the building next door.*
+*A room at The Beaumont.*
 
 ### The Twenty Two: a members' club with bedrooms
 
 *Over £350 · 22 Grosvenor Square, W1K 6LF · Check-in 3pm, out at noon*
 
-**[The Twenty Two](hotel:the-twenty-two)** is an Edwardian house on Grosvenor Square that is both a members' club and a hotel. Guests become temporary members for their stay, but **the club is over-21s only** and the Living Room admits children until 5pm, so it suits couples far better than families. There is no gym on site; guests get free use of BXR Marylebone, a 12-minute walk. The hotel pre-authorises **£300 a night for incidentals** on top of the room.
+**[The Twenty Two](hotel:the-twenty-two)** is an Edwardian house on Grosvenor Square that is both a members' club and a hotel. Guests become temporary members for their stay, but **the club is over-21s only** and the Living Room admits children until 5pm, so it suits couples far better than families. There is no gym on site; guests get free use of BXR Marylebone, a 12-minute walk. The hotel pre-authorises **£300 a night for incidentals** on top of the room. Top-floor rooms sit under a sloping ceiling that cuts the headroom on one side.
 
 <div class="photo-row">
 
@@ -222,7 +222,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 </div>
 
-*A room under the eaves with a tented striped ceiling, and a claw-foot bath; the sloping ceiling cuts the headroom on one side.*
+*A room at The Twenty Two, and its bathroom.*
 
 ## Piccadilly and Green Park
 
@@ -240,7 +240,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 </div>
 
-*A suite bedroom in Louis XVI style, and a bathroom with gilt fittings and a walk-in shower.*
+*A suite at The Ritz, and its bathroom.*
 
 ### Brown's Hotel: the family pick
 
@@ -250,13 +250,13 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 ![A Brown's Hotel bathroom with two stone vanities under carved gilt mirrors, a wooden floor, a walk-in shower lined in brown marble and a bath in the foreground](../../assets/articles/where-to-stay-mayfair/browns-hotel-bathroom.jpg)
 
-*A Deluxe Suite bathroom, with two separate basins, a walk-in shower and a bath.*
+*A Deluxe Suite bathroom at Brown's.*
 
 ### 1 Hotel Mayfair: plants, and whole family wings
 
 *Over £350 · 3 Berkeley Street, W1J 8DL · Green Park a moment's walk*
 
-**[1 Hotel Mayfair](hotel:1-hotel-mayfair)** is two existing buildings refitted with **1,300 plants, shrubs and trees** and filtered-water taps instead of plastic bottles. The restaurant is Dovetale, by Tom Sellers, and the spa is Bamford's. For a large family it sells **private wings of up to six connecting bedrooms** over a single floor. Bed linen is changed every third day unless you ask.
+**[1 Hotel Mayfair](hotel:1-hotel-mayfair)** is two existing buildings refitted with **1,300 plants, shrubs and trees** and filtered-water taps instead of plastic bottles. The restaurant is Dovetale, by Tom Sellers, and the spa is Bamford's. For a large family it sells **private wings of up to six connecting bedrooms** over a single floor. Bed linen is changed every third day unless you ask. The bathroom is open to the bedroom, which suits a couple better than friends sharing.
 
 <div class="photo-row">
 
@@ -266,7 +266,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 </div>
 
-*Floor-to-ceiling glass with a built-in window seat, and a bath open to the bedroom, which suits a couple better than friends sharing.*
+*A room at 1 Hotel Mayfair, and its bathroom.*
 
 ### The Athenaeum Hotel & Residences: residences with kitchens, facing Green Park
 
@@ -276,7 +276,7 @@ An independent hotel facing Green Park across Piccadilly, in a building that was
 
 ![An Athenaeum bedroom with a walnut cabinet holding a television and tea tray, a desk by the window, and a balcony door looking over the trees of Green Park](../../assets/articles/where-to-stay-mayfair/the-athenaeum-room.jpg)
 
-*A room with a desk at the window and a balcony door over Green Park.*
+*A room at The Athenaeum.*
 
 ### The May Fair: 404 rooms by Green Park
 
@@ -292,7 +292,7 @@ An independent hotel facing Green Park across Piccadilly, in a building that was
 
 </div>
 
-*A twin room with two separate beds, and a suite bathroom open to the bedroom behind a double vanity.*
+*A twin room at The May Fair, and its bathroom.*
 
 ### Flemings Mayfair: thirteen Georgian houses, and ten apartments
 
@@ -308,7 +308,7 @@ Robert Fleming opened his hotel on Half Moon Street in 1851, and it now fills **
 
 </div>
 
-*A bedroom in one of the suites, and a slate bathroom with the shower over the bath.*
+*A suite at Flemings Mayfair, and its bathroom.*
 
 ### The Mayfair Townhouse: Wilde's street, and small rooms
 
@@ -324,7 +324,7 @@ Robert Fleming opened his hotel on Half Moon Street in 1851, and it now fills **
 
 </div>
 
-*Dark panelled walls in the bedroom, and a slipper bath under a sash window in the bathroom.*
+*A room at The Mayfair Townhouse, and its bathroom.*
 
 ### The Chesterfield Mayfair: tea for children, and live music every night
 
@@ -340,7 +340,7 @@ Three houses on Charles Street, and Red Carnation's first hotel. **[The Chesterf
 
 </div>
 
-*A twin room with two single beds, and a marble bathroom with twin basins and the shower over the bath.*
+*A twin room at The Chesterfield, and its bathroom.*
 
 ## Hanover Square
 
@@ -358,7 +358,7 @@ Three houses on Charles Street, and Red Carnation's first hotel. **[The Chesterf
 
 </div>
 
-*The magnolia panel sits behind the sofa, with a bar opposite the bed; the bathroom has a bath and twin basins in red marble.*
+*A room at Mandarin Oriental Mayfair, and its bathroom.*
 
 ## If none of these fits
 

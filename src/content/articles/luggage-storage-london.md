@@ -71,7 +71,7 @@ Excess Baggage Company gives a **20% discount on 15 or more items**, and its own
 
 ![A Heathrow arrivals baggage reclaim hall, carousel 10 under a ceiling of white discs, with the Customs and Border Force channel ahead and passengers walking out towards the exit](../../assets/articles/luggage-storage-london/heathrow-terminal-baggage.jpg)
 
-*Heathrow arrivals. Every terminal has a left-luggage desk out here as well as in check-in — a separate counter from the reclaim belt, on the same tariff as the station desks.*
+*Heathrow arrivals.*
 
 | Airport | Location | Hours |
 | --- | --- | --- |
@@ -125,7 +125,7 @@ Four big venues publish bag limits that turn a suitcase away at the door.
 
 ![Visitors queueing at the Tower of London's entrance beside the Middle Tower, with a bag-check marquee and a Yeoman Warder at the gate](../../assets/articles/luggage-storage-london/tower-of-london-entrance-gate.jpg)
 
-*The bag check at the Tower's entrance is where a suitcase stops. There is no cloakroom on the other side of it.*
+*The bag check at the Tower's entrance.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="luggage-storage-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

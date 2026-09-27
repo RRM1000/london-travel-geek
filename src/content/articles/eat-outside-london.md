@@ -76,7 +76,7 @@ The best afternoons use both. Buy lunch from a counter in the precinct, carry it
 
 ![Red bistro tables filled with people eating outside at Coal Drops Yard, under the curved warehouse roofs with brick arch balconies above](../../assets/articles/eat-outside-london/coal-drops-yard-tables.jpg)
 
-*Coal Drops Yard on a summer evening. The tables in the middle are the venues'; the steps down to the canal at Granary Square are not.*
+*Coal Drops Yard.*
 
 *££ · King's Cross · 5 min from King's Cross St Pancras · shops Mon–Sat 11am–7pm, Sun 11am–5pm; restaurants later · [Coal Drops Yard](https://www.kingscross.co.uk/coal-drops-yard)*
 
@@ -100,7 +100,7 @@ Around Granary Square itself: **Caravan** has a sunny terrace, **Granary Square 
 
 ![Tables along the dockside at Canary Wharf outside the Henry Addington, with a DLR train crossing the water and towers behind](../../assets/articles/eat-outside-london/canary-wharf-dockside.jpg)
 
-*West India Quay. The tables run right along the water, and a DLR train crosses the dock every couple of minutes.*
+*West India Quay, Canary Wharf.*
 
 *£–£££ · Canary Wharf · Elizabeth line, Jubilee line and DLR · [Canary Wharf](https://canarywharf.com/)*
 
@@ -124,7 +124,7 @@ Elsewhere on the estate: **ROKA** has a heated terrace over Canada Square Park, 
 
 ![The sunken circular plaza of Broadgate Circle from above, ringed with restaurant terraces and coloured parasols](../../assets/articles/eat-outside-london/broadgate-circle.jpg)
 
-*Broadgate Circle, sunken and enclosed. Every seat here belongs to a restaurant — the free lawn is up at Exchange Square.*
+*Broadgate Circle.*
 
 *£–£££ · Liverpool Street · 2 min from Liverpool Street · [Broadgate](https://broadgate.co.uk/eatdrinkshop/)*
 
@@ -158,13 +158,13 @@ Buy from any of those, walk two minutes, and eat on the river. That is the trip.
 
 ![The brick courtyard at Eccleston Yards in Belgravia, with planting and outdoor tables between converted warehouse buildings](../../assets/articles/eat-outside-london/eccleston-yards.jpg)
 
-*Eccleston Yards. Every seat here belongs to a venue, which is the trade for the quiet.*
+*Eccleston Yards.*
 
 *££–£££ · Belgravia · 5 min from Victoria · [Eccleston Yards](https://www.belgraviavillage.com/eccleston-yards)*
 
 Eighty thousand square feet of industrial buildings behind Victoria station — including a five-storey former ice factory at 27 Eccleston Place — arranged around a single courtyard. Grosvenor rebuilt it as about nineteen units of independent food, fashion and wellbeing, and the whole thing revolves around that yard: the tables spill into it, and the programme of Sunday farmers' markets, live music, yoga and outdoor screenings happens in the same space.
 
-It is also the smallest precinct here, and that is the reason to come: one courtyard, five minutes' walk from one of the busiest stations in Britain, and you cannot hear the station from it.
+It is also the smallest precinct here, and that is the reason to come: one courtyard, five minutes' walk from one of the busiest stations in Britain, and you cannot hear the station from it. Every seat in the yard belongs to one of its venues.
 
 **What to eat.** **Wild by Tart** is the anchor — a restaurant, bar, coffee kiosk and shop in one, in the Michelin Guide since 2022, with festoon lights over the outside tables. **Cornus**, upstairs on the roof, holds a Michelin star awarded in the 2025 guide; it comes from David O'Connor and Joe Mercer Nairne of Medlar with Gary Foulkes cooking, and the set lunch is the way in. **Weezie's** opened in April 2026 in the old Biscuiteers unit, from the pair behind amie wine studio next door: thin-crust pizza, a couple of small plates, Guinness and good wine, walk-ins only, seven days a week from noon to 11pm. **Morena** does brunch on green-striped chairs and a £6 happy hour Monday to Friday. **The Jones Family Kitchen** does grass-fed British steak dry-aged at least 28 days.
 
@@ -176,7 +176,7 @@ It is also the smallest precinct here, and that is the reason to come: one court
 
 ![Boats moored at St Katharine Docks with restaurant tables along the quayside opposite](../../assets/articles/eat-outside-london/st-katharine-docks.jpg)
 
-*The restaurants line one side of the dock. The walk round it is free and open at all hours.*
+*St Katharine Docks.*
 
 *££ · Wapping · 8 min from Tower Hill · [St Katharine Docks](https://www.skdocks.co.uk/cats/bars-restaurants/)*
 
@@ -206,7 +206,7 @@ Ground-floor tables in the middle of the courtyard get whatever sun there is; th
 
 ![The wide flagstone pedestrian street at Duke of York Square with bunting overhead and restaurant tables under teal parasols along one side](../../assets/articles/eat-outside-london/duke-of-york-square.jpg)
 
-*Duke of York Square. Restaurant tables down one side, and a lawn off the other end that is yours to sit on.*
+*Duke of York Square.*
 
 *£–££ · Chelsea · 3 min from Sloane Square · market Saturdays 10am–4pm · [Duke of York Square](https://dukeofyorksquare.com/food-and-dining/categories/duke-of-york-square-market)*
 
@@ -218,7 +218,7 @@ It is genuinely open-air, genuinely free to sit in, and genuinely only one day a
 
 ![Diners under navy parasols along the pedestrianised Exhibition Road in South Kensington at golden hour, with red brick mansion blocks behind](../../assets/articles/eat-outside-london/exhibition-road.jpg)
 
-*Exhibition Road at about six on a September evening. The whole street is a shared surface, so the tables spill into it.*
+*Exhibition Road, South Kensington.*
 
 Not a yard or a precinct but a **street that behaves like one**. Exhibition Road was rebuilt as a shared surface — no kerbs, no separated pavement — between South Kensington station and the museums, and the practical effect is that the restaurants along it put their tables out into what would otherwise be road.
 
@@ -241,11 +241,11 @@ Two minutes north, **Neal's Yard** is a twenty-metre courtyard of painted walls 
 
 ![Painted picnic tables and deck chairs in the yard at Gabriel's Wharf, with papel picado bunting strung overhead and small independent units around the edge](../../assets/articles/eat-outside-london/gabriels-wharf.jpg)
 
-*Gabriel's Wharf. The painted picnic tables are not any one venue's, which makes this the rare central yard you can sit in with food from anywhere.*
+*Gabriel's Wharf.*
 
 *£–££ · South Bank · 8 min from Waterloo · [Gabriel's Wharf](https://southbank.london/see-and-do/gabriels-wharf)*
 
-A low-rise courtyard of independent shops, galleries and small kitchens set back one block from the river between Queen's Walk and Upper Ground, and one of the few places on the South Bank where you are not paying river-frontage prices. **Limin'** does Trinidadian food, **The Gourmet Pizza Company** and **Hola Guacamole** cover the obvious, **Fed By Plants** the vegan end, **Hot Mess Toasties** the cheap one. In summer the tables spread into a sand-covered area in the middle of the courtyard.
+A low-rise courtyard of independent shops, galleries and small kitchens set back one block from the river between Queen's Walk and Upper Ground, and one of the few places on the South Bank where you are not paying river-frontage prices. **Limin'** does Trinidadian food, **The Gourmet Pizza Company** and **Hola Guacamole** cover the obvious, **Fed By Plants** the vegan end, **Hot Mess Toasties** the cheap one. In summer the tables spread into a sand-covered area in the middle of the courtyard, and unlike most yards in this guide, none of them belong to a single venue — sit anywhere with food from any of the kitchens.
 
 **Bernie Spain Gardens** sits immediately next door between the Oxo Tower and the wharf — a riverside park laid out in the 1980s across two halves of Upper Ground, and the obvious place to take food you bought rather than food you sat down for.
 
@@ -255,7 +255,7 @@ A low-rise courtyard of independent shops, galleries and small kitchens set back
 
 ![Outdoor tables under brick railway arches at Hawley Wharf in Camden, with a brewery tap room and beer hall behind and overhead railway wires above](../../assets/articles/eat-outside-london/camden-hawley-wharf.jpg)
 
-*The arches at Hawley Wharf. A working railway runs directly overhead, which you notice about once a minute.*
+*Hawley Wharf, Camden.*
 
 *£–££ · Camden Town · 4 min from Camden Town · [Camden Market Hawley Wharf](https://camdenmarket.com/journal/camden-market-hawley-wharf)*
 

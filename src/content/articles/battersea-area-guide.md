@@ -96,23 +96,23 @@ Battersea has its own share of the commemorative plaques marking where notable p
 
 ![The restored interior of Battersea Power Station, with shops on multiple levels under the original steel roof](../../assets/articles/battersea-area-guide/battersea-control-room.jpg)
 
-*Inside the restored power station. Control Room B is a bar anyone can walk into; Control Room A is a private events space, open to the public only on the Monday guided tour.*
+*Inside Battersea Power Station.*
 
 ![The view from the top of a Battersea Power Station chimney, looking down over the development and out across south London](../../assets/articles/battersea-area-guide/lift-109.jpg)
 
-*The view from the Chimney Lift, which takes you up inside one of the chimneys. The glass lift is the only way to the top. Photo: [amandabhslater](https://www.flickr.com/photos/15181848@N02/53077081501), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The view from the Chimney Lift. Photo: [amandabhslater](https://www.flickr.com/photos/15181848@N02/53077081501), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Key streets and micro-districts
 
 ![The interior of Turbine Hall A at Battersea Power Station, with its restored art deco detailing](../../assets/articles/battersea-area-guide/turbine-hall-a.jpg)
 
-*Turbine Hall A, restored to its 1930s art deco scheme. Free to walk into.*
+*Turbine Hall A.*
 
 ### The Power Station and Electric Boulevard
 
 ![The brick facade and white chimneys of Battersea Power Station](../../assets/articles/battersea-area-guide/battersea-power-station.jpg)
 
-*The brick facade and the four white chimneys - the landmark you navigate the whole area by.*
+*Battersea Power Station's brick facade.*
 
 The building reopened in **October 2022** after decades derelict, and the thing worth knowing before you go is that **walking into it is free**. Over 170 shops, bars and restaurants now fill it, but the fabric is the reason to come: only the Chimney Lift, the cinemas and the ticketed exhibitions cost anything.
 
@@ -172,7 +172,7 @@ South-west past the park, and the **actual old Battersea** — low-rise, unglamo
 
 ![The Japanese Peace Pagoda in Battersea Park silhouetted against a pink and orange sunset](../../assets/articles/battersea-area-guide/peace-pagoda.jpg)
 
-*The Peace Pagoda, given to London in 1985 by a Japanese Buddhist order. A monk still tends it. Photo: [It's No Game](https://www.flickr.com/photos/29057345@N04/8558114758), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Peace Pagoda. Photo: [It's No Game](https://www.flickr.com/photos/29057345@N04/8558114758), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="battersea-area-guide-battersea-power-station-lift-109-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Battersea Power Station Lift 109 tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

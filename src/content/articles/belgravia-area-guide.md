@@ -143,7 +143,7 @@ Belgravia eats expensively and quietly. There is no cheap end to speak of, which
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
-| **Weezie's** | Pizza | ££ | Thin crust, Guinness and a serious wine list, in the Eccleston Yards courtyard |
+| **Weezie's** | Pizza | ££ | Thin crust, Guinness and a serious wine list, in the Eccleston Yards courtyard; no need to book weeks out |
 | **La Poule au Pot** | French bistro | £££ | Trading since the 1960s on coq au vin and candlelight; the most reliably romantic room in London |
 | **[The Goring](hotel:the-goring)** | British, afternoon tea | ££££ | The last family-owned grand hotel in London, and the quietest of the big afternoon teas |
 | **Brooklands** | French, rooftop | ££££ | Claude Bosi on the roof of The Peninsula, over Hyde Park Corner |
@@ -151,7 +151,7 @@ Belgravia eats expensively and quietly. There is no cheap end to speak of, which
 
 ![The Weezie's pizzeria frontage in the Eccleston Yards courtyard](../../assets/articles/belgravia-area-guide/weezies.jpg)
 
-*Weezie's, in the Eccleston Yards courtyard — the one place in Belgravia where a good dinner does not need a reservation weeks out.*
+*Weezie's, Eccleston Yards.*
 
 **For anything under £20**, walk to Eccleston Yards or back towards Victoria. The residential streets have nothing.
 

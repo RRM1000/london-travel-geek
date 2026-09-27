@@ -96,11 +96,11 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 
 ![A spiral of rusted steel bands engraved with names, wound around a small tree at the Chelsea Physic Garden, with autumn borders of purple monkshood and verbena in front and a red-brick house beyond the wall](../../assets/articles/chelsea-area-guide/chelsea-physic-garden.jpg)
 
-*The walled four acres on the Embankment. The brick and the river together make it the warmest corner of London, which is why things fruit here that fruit nowhere else in the city.*
+*Chelsea Physic Garden.*
 
 ![A white-walled gallery room at the Saatchi Gallery hung with framed prints](../../assets/articles/chelsea-area-guide/saatchi-gallery.jpg)
 
-*The Saatchi Gallery in the old Duke of York's HQ. Free to enter, and the rooms are as much of the draw as what is hung in them.*
+*The Saatchi Gallery.*
 
 ## Key streets and micro-districts
 
@@ -182,7 +182,7 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 ![The ornate red brick and stone frontage of the World's End Distillery pub on the King's Road](../../assets/articles/chelsea-area-guide/kings-road.jpg)
 
-*The World's End, at the far end of the King's Road. The stretch around it is where the punk shops were. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/5506552067), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The World's End Distillery, King's Road. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/5506552067), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Go deeper
 
@@ -194,7 +194,7 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 ![The My Old Dutch pancake house on the King's Road, a red and white striped awning over a green shopfront](../../assets/articles/chelsea-area-guide/my-old-dutch-kings-road.jpg)
 
-*My Old Dutch on the King's Road, doing enormous Dutch pancakes since 1958 — the one place on this street that has not been through three concepts in a decade.*
+*My Old Dutch, King's Road.*
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
@@ -207,7 +207,7 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 ![Albert Bridge over the Thames, its cast-iron towers and cables painted in pale pink, green and blue](../../assets/articles/chelsea-area-guide/albert-bridge.jpg)
 
-*Albert Bridge, repainted in 1992 in the pink, green and blue it wears now. Troops crossing it are still told to break step.*
+*Albert Bridge.*
 
 ## Getting there
 

@@ -104,7 +104,7 @@ A narrow public viewing deck tacked onto the side of a smart restaurant on the e
 
 ![The red-brick OXO Tower on the South Bank, its name spelled out in the tower's windows](../../assets/articles/best-views-london/oxo-tower.jpg)
 
-*The OXO Tower. The gallery is on the eighth floor and almost nothing at street level tells you it is there.*
+*The OXO Tower.*
 
 Hours are not published anywhere official, and in practice track the restaurant's.
 
@@ -334,7 +334,7 @@ Looking south to St Paul's, the London Eye, the BT Tower, The Shard, Canary Whar
 
 ![The London skyline seen from Alexandra Palace terrace, with Canary Wharf and the City visible in the distance under a grey sky](../../assets/articles/best-views-london/alexandra-palace-terrace-view.jpg)
 
-*The view south from the terrace. Canary Wharf is on the left, the City cluster and the Shard further right.*
+*The view south from Alexandra Palace.*
 
 The precise tip: **there are two official points and they do different jobs.** One is better for the wide panorama; the other, approached from the north-east car park, is where St Paul's lines up — and only that second one carries the protected vista.
 
@@ -490,11 +490,11 @@ Terrace hours are **4pm–11pm Monday to Wednesday, to midnight Thursday, to 1am
 
 ![Duck & Waffle's dining room on the fortieth floor, floor-to-ceiling windows over London with hanging bulbs and trailing plants](../../assets/articles/best-views-london/duck-and-waffle-dining-room.jpg)
 
-*Brunch is the cheapest way into this room — see the [brunch guide](/articles/best-breakfast-brunch-london/).*
+*Duck & Waffle, fortieth floor.*
 
 *40th floor · open 24 hours, every day*
 
-Forty floors up in the Heron Tower and **the only London viewpoint open at four in the morning**, which genuinely makes sunrise an option — and the reason to come, because at that hour you have the City to yourself and no ticket exists that would sell you the same thing.
+Forty floors up in the Heron Tower and **the only London viewpoint open at four in the morning**, which genuinely makes sunrise an option — and the reason to come, because at that hour you have the City to yourself and no ticket exists that would sell you the same thing. Brunch is the cheapest way into this room — see the [brunch guide](/articles/best-breakfast-brunch-london/).
 
 The 24/7 claim is stated three separate times on their own site, in the hero copy, the hours block and the contact page, so it is not a stale line someone forgot to remove. The signature dish, confit duck leg with a fried duck egg and mustard maple syrup on a waffle, is **£26**; the vegetarian version is £25.
 

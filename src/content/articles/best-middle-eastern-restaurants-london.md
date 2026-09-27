@@ -219,7 +219,7 @@ The counters are stacked with **salads built on grains, roasted vegetables and h
 **£££, counter service and communal seating** — it works for one person with a book and less well for four wanting a conversation. Book a few days ahead for a table.
 
 ![A slice of tart with poached egg, tomato and watercress on a blue plate](../../assets/articles/best-middle-eastern-restaurants-london/ottolenghi.jpg)
-*The counters are stacked with salads by the metre. Islington is the original branch. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2466885795), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*A counter tart at Ottolenghi. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2466885795), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### Berber & Q, Haggerston

@@ -87,7 +87,7 @@ Stansted has **one single main terminal building**, making navigation straightfo
 
 ![An aerial view of London Stansted Airport and its terminal satellites](../../assets/articles/stansted-airport/stansted-airport.jpg)
 
-*Stansted Airport terminal. Photo: [My another account](https://commons.wikimedia.org/wiki/File:London_Stansted_Airport.JPG), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
+*Stansted Airport. Photo: [My another account](https://commons.wikimedia.org/wiki/File:London_Stansted_Airport.JPG), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 > ⚠️ **Gate Distance Tip:** While Stansted has one main terminal for check-in and security, departure gates are located across satellite buildings connected by an automated transit train or walkways. Allow **15–20 minutes** after security to reach your gate.
 

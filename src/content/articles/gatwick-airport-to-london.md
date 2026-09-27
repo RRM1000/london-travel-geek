@@ -103,7 +103,7 @@ Gatwick has two passenger terminals: **North Terminal** and **South Terminal**.
 
 ![The seating inside a Gatwick Express train.](../../assets/articles/gatwick-airport/gatwick-express-interior.jpg)
 
-*Inside a Gatwick Express train. Photo: [Ameerali786](https://commons.wikimedia.org/wiki/File:2_Gatwick_Express_interior.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Gatwick Express. Photo: [Ameerali786](https://commons.wikimedia.org/wiki/File:2_Gatwick_Express_interior.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### Getting to the Train Station
 * **South Terminal Arrivals:** Gatwick Airport railway station is located **directly inside South Terminal**, a 2-minute signed walk from arrivals.

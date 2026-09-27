@@ -77,7 +77,7 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 
 ![A PureGym free-weights floor - Olympic benches and loaded barbells on rubber matting, a teal wall behind reading YOU'VE GOT THIS](../../assets/articles/best-gyms-london/puregym-free-weights.jpg)
 
-*PureGym runs 87 London clubs and prices every one of them separately — this floor could be £22.99 or £49.99 depending which postcode it is in.*
+*A PureGym free-weights floor.*
 
 **Fitness4Less is the sharpest price in central London.** Three clubs — Canning Town, Cambridge Heath and Southwark — all at **£20.00 a month**, including a site on Great Suffolk Street two minutes from Southwark Underground. PureGym charges £41.99 in Holborn and The Gym Group £39.99 at Monument. Two caveats: there is a joining fee, waived on flexible monthly memberships from 16 to 30 September 2026; and the monthly rate is the only one published, with no short-term, annual or off-peak price. Canning Town runs 05:00–01:00 Monday to Thursday.
 
@@ -89,7 +89,7 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 
 ![A long gym floor lit blue, neon chevrons across a black ceiling, cross-trainers in a row down one side and resistance machines down the other](../../assets/articles/best-gyms-london/uk-fitness-club.jpg)
 
-*UK Fitness Club's East Ham floor. It is the only one of its clubs with a sauna and jacuzzi, at £4.99 a session on top of the membership.*
+*UK Fitness Club's East Ham floor.*
 
 **UK Fitness Club is a small east London independent, and its real price is the year paid upfront.** Three London clubs: Barking, East Ham, and a women-only club next door to East Ham on Castle Street (a fourth is in Tilbury, Essex). Direct debit with no contract is **£25.99** at Barking, £28.99 at East Ham and £29.99 at the women-only club, plus a £15–£20 sign-up fee; paying monthly without a direct debit costs £4 to £6 more. A year upfront at Barking is **£219.99 — £18.33 a month, and £91.89 less than twelve direct debits**. East Ham adds the sauna and jacuzzi (£6.99 a session for non-members) and a family membership covering up to three people for £73.99 a month. Barking and East Ham open 06:00–23:00 every day; the women-only club closes at 22:30 on weekdays and keeps 09:00–21:00 at weekends. There is no personal training to buy, and the FAQ's "from just £16.66/month" matches no plan on the price list.
 
@@ -103,7 +103,7 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 
 ![A large gym floor seen from above, two long rows of treadmills along one wall and resistance machines filling the middle, on pale blue flooring](../../assets/articles/best-gyms-london/gym-group-floor.jpg)
 
-*The floor space is what the mid-range buys you over budget. What it does not buy you, at most chains, is a pool.*
+*The Gym Group's gym floor.*
 
 **Nuffield Health publishes its joining fee and has the pools.** £29, not framed as a promotion and not waived by any offer — £39 at the three City clubs. Membership runs **£77** at Ilford to **£137** at Barbican, City and Moorgate on a twelve-month Anytime plan, with rolling costing £17 to £25 a month more.
 

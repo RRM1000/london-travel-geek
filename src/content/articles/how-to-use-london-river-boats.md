@@ -85,7 +85,7 @@ Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Ba
 
 ![An Uber Boat by Thames Clippers River Bus travelling on the Thames.](../../assets/articles/getting-around-london/river-bus.jpg)
 
-*An Uber Boat by Thames Clippers. Photo: [Simon](https://commons.wikimedia.org/wiki/File:Thames_Clipper_Uber_Boat.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Photo: [Simon](https://commons.wikimedia.org/wiki/File:Thames_Clipper_Uber_Boat.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### 2026 Pay-As-You-Go Fares
 
@@ -110,13 +110,13 @@ Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Ba
 
 ![A London Eye River Cruise boat on the Thames with its top deck full, passing the buildings near Tower Bridge](../../assets/articles/getting-around-london/city-cruise-tower-bridge.jpg)
 
-*A narrated sightseeing cruise, not a river bus. Both use the same piers, which is the single most common mix-up.*
+*A sightseeing cruise, not a river bus.*
 Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliament, South Bank, St Paul's, and the skyscrapers of the City, before passing **directly beneath Tower Bridge** to reach Greenwich (*Cutty Sark*, Royal Observatory).
 * **Zones:** Central & East Zone (£11.40 off-peak PAYG).
 
 ![Tower Bridge seen from the deck of a river boat passing directly beneath it.](../../assets/articles/getting-around-london/tower-bridge-from-river-boat.png)
 
-*Cruising directly under Tower Bridge is the highlight of the Westminster-to-Greenwich river trip.*
+*Passing beneath Tower Bridge.*
 
 ### 2. Battersea Power Station ➔ Tower Hill
 Explore the restored Battersea Power Station, then board a river boat past Westminster, Big Ben, and the South Bank to land at Tower Pier right beside the Tower of London and Tower Bridge.
@@ -142,9 +142,11 @@ A fast 10-minute river hop linking Docklands skyscrapers with Greenwich maritime
 | **North Greenwich Pier** | North Greenwich (Jubilee) | The O2 Arena, IFS Cloud Cable Car |
 | **Battersea Power Station Pier** | Battersea Power Station (Northern) | Battersea Power Station, Lift 109, Riverside Dining |
 
+Piers are signed from the riverside walkway rather than the road above, so it's easy to walk straight past one.
+
 ![The blue-painted entrance arch of Festival Pier on the South Bank, signed for river boats and the Underground](../../assets/articles/getting-around-london/festival-pier.jpg)
 
-*Festival Pier, in front of the Royal Festival Hall. Piers are signed from the walkway rather than the road, which is why people walk past them.*
+*Festival Pier, by the Royal Festival Hall.*
 
 ---
 

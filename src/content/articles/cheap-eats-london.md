@@ -339,7 +339,7 @@ A deli that does almost nothing else, which is why it does this well. Leather La
 
 ![Stalls along Leather Lane street market in Hatton Garden](../../assets/articles/cheap-eats-london/leather-lane-market.jpg)
 
-*Leather Lane at lunchtime. The market stalls are the reason the street is worth the walk, and Tongue & Brisket sits on it. Photo: [Mastermelt Group](https://commons.wikimedia.org/wiki/File%3ALeather_Lane_street_market%2C_Hatton_Garden%2C_London_EC1.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
+*Leather Lane market. Photo: [Mastermelt Group](https://commons.wikimedia.org/wiki/File%3ALeather_Lane_street_market%2C_Hatton_Garden%2C_London_EC1.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
 
 ---
 
@@ -369,7 +369,7 @@ Formica tables, a room untouched since long before the current fashion for untou
 
 ![The frontage of The Fryer's Delight on Theobald's Road in Holborn](../../assets/articles/cheap-eats-london/the-fryers-delight-holborn.jpg)
 
-*Formica tables, a room unchanged in decades, and chips still fried in beef dripping. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Fryer%27s_Delight,_Holborn,_WC1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Fryer%27s_Delight,_Holborn,_WC1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### Ken's Fish Bar, Herne Hill
 
@@ -430,7 +430,7 @@ Order at the bar or through the app. No table service, no music, no booking.
 **£, walk-in. On the station concourse**, which makes it the most useful of these if you are killing time before a train.
 
 ![The ornate entrance of Hamilton Hall pub at Liverpool Street station](../../assets/articles/cheap-eats-london/hamilton-hall.jpg)
-*A Wetherspoons in the former ballroom of the Great Eastern Hotel, complete with chandeliers and gilt mirrors. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2804281208), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2804281208), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ### The Ledger Building, Canary Wharf

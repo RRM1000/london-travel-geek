@@ -42,7 +42,7 @@ Booking online or by phone costs **£4 per transaction**, or **£1.50** for cine
 
 ![The Barbican Hall from the stalls before a concert: an audience taking its seats, empty chairs and music stands set out for an orchestra, and the LSO logo projected on the wooden wall behind the stage](../../assets/articles/barbican-centre-guide/barbican-hall-lso-stage.jpg)
 
-*The Barbican Hall before a London Symphony Orchestra concert, the orchestra's logo lit on the wall behind the stage.*
+*The Barbican Hall before an LSO concert.*
 
 ## Getting there
 
@@ -62,7 +62,7 @@ The **153** bus stops on Silk Street itself; the 4 and 56 stop at Barbican stati
 
 ![The Barbican Centre's Lakeside Terrace on a sunny day, with people at benches and tables beside the fountains and the long balconied block of Barbican flats behind](../../assets/articles/barbican-centre-guide/barbican-lakeside-terrace.jpg)
 
-*The Lakeside Terrace, with the Centre on the left and the lake and fountains on the right.*
+*The Lakeside Terrace.*
 
 ## Finding your way inside
 
@@ -70,7 +70,7 @@ The Centre is spread over many levels, and it helps to know three of them. **Lev
 
 ![An exhibition in the Barbican Art Gallery: a long illustrated textile hung along curved timber steps, framed textiles on a white wall opposite, and a concrete balcony running round the upper level](../../assets/articles/barbican-centre-guide/barbican-art-gallery.jpg)
 
-*The Art Gallery on Level 3, with its upper gallery looking down over the lower floor.*
+*The Art Gallery.*
 
 ## Bags and the cloakroom
 
@@ -86,7 +86,7 @@ Only **one reasonably sized handbag per person** goes into the auditoria, and al
 
 ![Barbican Kitchen: long wooden tables and stools under trailing plants and racks of glass-jar lights, with diners by the windows](../../assets/articles/barbican-centre-guide/barbican-kitchen.jpg)
 
-*Barbican Kitchen on Level G: long shared tables under trailing plants.*
+*Barbican Kitchen, Level G.*
 
 **A short walk away**, around Smithfield, St John Street and Old Street:
 
@@ -115,7 +115,7 @@ For other ways to split a trip between the City and the West End, see [where to 
 
 ![Inside the Barbican Conservatory: palms, monstera and trailing plants spilling over tiers of concrete balconies under a steel and glass roof](../../assets/articles/barbican-centre-guide/barbican-conservatory.jpg)
 
-*The Conservatory, planted over the Centre's concrete balconies under a glass roof.*
+*The Conservatory.*
 
 ## Access
 

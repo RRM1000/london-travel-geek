@@ -5,6 +5,7 @@ description: "Gringotts is a working embassy, Sherlock's flat is on the wrong st
 heroImage: "../../assets/articles/best-london-markets/leadenhall-market.jpg"
 heroImageAlt: "The cream, maroon and green painted ironwork of Leadenhall Market's arcade under its glass roof, with shopfronts and lanterns down both sides"
 publishedAt: 2026-08-23
+reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -267,7 +268,7 @@ The floating Chinese pagoda appears in *The Gentlemen* and as a backdrop in *Slo
 
 ![A red floating Chinese pagoda restaurant moored on Regent's Canal](../../assets/articles/london-filming-locations/feng-shang-princess.jpg)
 
-*A floating pagoda moored at Cumberland Basin. You pass it on the canal walk between Little Venice and Camden. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/14431541920), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Feng Shang Princess at Cumberland Basin. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/14431541920), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ---
 
@@ -283,7 +284,7 @@ The pub Shaun and Ed barricade themselves in for the finale of *Shaun of the Dea
 
 ![The former Duke of Albany pub building on Monson Road, New Cross, now converted into residential flats](../../assets/articles/london-filming-locations/the-winchester.jpg)
 
-*The building used as the Winchester, now flats. The corner windows and the roofline are the giveaway.*
+*The former Winchester, now flats.*
 
 > ⚠️ **Do not turn up expecting a pint.** This is a residential building. Look from the street and move on.
 
@@ -295,11 +296,11 @@ Four addresses within fifteen minutes of each other, and the one part of this gu
 
 *Free · exterior only, and it is somebody's front door*
 
-William Thacker's flat, and the most photographed doorway in west London. Screenwriter Richard Curtis owned the real house and lived behind that door; it was auctioned for charity after the film, and when the new owners repainted it a different colour so many people turned up confused that it went back to blue.
+William Thacker's flat, and the most photographed doorway in west London. Screenwriter Richard Curtis owned the real house and lived behind that door; it was auctioned for charity after the film, and when the new owners repainted it a different colour so many people turned up confused that it went back to blue. As of September 2026, someone has sprayed the door with red paint that has not been cleaned off.
 
 ![The blue door at 280 Westbourne Park Road between two white columns, defaced with red spray paint, with two visitors sitting on the step](../../assets/articles/london-filming-locations/notting-hill-blue-door.jpg)
 
-*Photographed 5 September 2026. Someone has sprayed the door in red paint and it has not been cleaned off — worth knowing before you make the trip.*
+*The blue door.*
 
 > ⚠️ **People live here.** It is a private flat on an ordinary street. Photograph from the pavement and do not sit on the step, however many others are doing exactly that.
 
@@ -311,7 +312,7 @@ William Thacker's flat, and the most photographed doorway in west London. Screen
 
 ![The blue shopfront at 142 Portobello Road painted THE TRAVEL BOOK Co, hung with souvenir tote bags, beside a history board about the film](../../assets/articles/london-filming-locations/notting-hill-travel-bookshop.jpg)
 
-*The board on the left sets out the shop's claim: the only location where exterior scenes of the bookshop were filmed.*
+*The Travel Book Co, Portobello Road.*
 
 ### The bookshop that inspired it — 13 Blenheim Crescent
 

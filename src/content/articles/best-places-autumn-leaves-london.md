@@ -61,7 +61,7 @@ Seven sources name it, and each for a different reason: Londonist, Solosophie, T
 
 ![A tree in scarlet and orange reflected in a still pond in Richmond Park](../../assets/articles/best-places-autumn-leaves-london/richmond-park-autumn-reflection.jpg)
 
-*Seven of this guide's fifteen sources name Richmond Park, most of them for the Isabella Plantation.*
+*Richmond Park, Isabella Plantation.*
 
 This is also rutting season. See "Richmond and Bushy: the deer rut," below, before visiting. Free, open dawn to dusk, and Pembroke Lodge has the park's largest car park.
 
@@ -81,7 +81,7 @@ The Evening Standard's own favourite spot: "the Blue Bridge that crosses the lak
 
 ![A pelican on the lake in St James's Park, autumn leaves overhead and the Blue Bridge behind](../../assets/articles/best-places-autumn-leaves-london/st-jamess-park-pelican.jpg)
 
-*This is the Blue Bridge, looking towards Horse Guards — the view Londonist says "turns technicolour" every autumn.*
+*The Blue Bridge, St James's Park.*
 
 Free, open 5am to midnight, and the bridge is a two-minute walk from St James's Park station.
 
@@ -93,7 +93,7 @@ London's oldest enclosed royal park has some of the oldest trees on this list. T
 
 ![The view down Greenwich Park's hill towards Queen's House and the Old Royal Naval College, avenues of trees in autumn colour on either side](../../assets/articles/best-places-autumn-leaves-london/greenwich-park-avenue.jpg)
 
-*The Queen Elizabeth Oak here is dated at 750 years old.*
+*Greenwich Park's avenues.*
 
 Free, open 6am to dusk, and the climb to the Observatory gives the view over all of it — though the Observatory building itself is closed for a refurbishment until summer 2027.
 
@@ -127,7 +127,7 @@ Named independently by a YouTube walking channel, a travel blogger and Metro's o
 
 ![The Canada Memorial in Green Park, water running over sloped red granite, with trees turning gold and orange behind it](../../assets/articles/best-places-autumn-leaves-london/green-park-cascade.jpg)
 
-*The Canada Memorial's granite is inset with 506 bronze maple leaves, with water running over them. Metro uses Green Park as the start of a longer loop through four Royal Parks.*
+*The Canada Memorial, Green Park.*
 
 Free, open 5am to midnight.
 
@@ -139,7 +139,7 @@ Time Out describes the Heath's "meadows and magical woodland areas, all tinged i
 
 ![A meadow on Hampstead Heath bordered by trees in amber, gold and deep red](../../assets/articles/best-places-autumn-leaves-london/hampstead-heath-autumn-trees.jpg)
 
-*Its three swimming ponds offer a last cold dip before winter closes them to all but the hardy.*
+*Hampstead Heath in autumn.*
 
 Free, open all year, and the ponds keep swimming right through autumn.
 
@@ -153,7 +153,7 @@ A 1991 gift from the Chamber of Commerce of Kyoto, with a waterfall, a bridge an
 
 ![The Kyoto Garden's waterfall in Holland Park, framed by Japanese maples in red, orange and gold](../../assets/articles/best-places-autumn-leaves-london/holland-park-kyoto-garden-waterfall.jpg)
 
-*Brogan Abroad says the ivy on houses around the park turns "fiery red" long after its own trees are bare.*
+*The Kyoto Garden, Holland Park.*
 
 Free, and busiest for photos on a clear weekend afternoon — go early to see the koi pond without a queue for it.
 
@@ -171,7 +171,7 @@ Named alongside Richmond by BBC News and the Independent for its own rutting dee
 
 ![Fallen leaves under oak trees in Bushy Park on a misty autumn morning](../../assets/articles/best-places-autumn-leaves-london/bushy-park-misty-morning.jpg)
 
-*Metro names Bushy Park as the start of the Hampton Court Barge Walk, past Ravens Ait and Thames Ditton Island.*
+*Bushy Park in autumn.*
 
 Free, open dawn to dusk.
 
@@ -216,7 +216,7 @@ Epping Forest runs 13 miles from east London into Essex, and the part inside Gre
 
 ![A grey heron standing in a pond covered with fallen autumn leaves in Epping Forest](../../assets/articles/best-places-autumn-leaves-london/epping-forest-heron.jpg)
 
-*Five minutes on foot from Chingford station reaches the Visitor Centre, then the Willow Trail on to Connaught Water.*
+*Epping Forest.*
 
 Free, open all year. The Forest's northern half continues into Essex, outside this guide's scope.
 
@@ -242,11 +242,11 @@ Free, open all year. The Forest's northern half continues into Essex, outside th
 
 *Kensington · Gloucester Road, District, Circle and Piccadilly lines · Cited by 2 sources · Free*
 
-A cobbled mews off Kynance Place, where ivy and Virginia creeper turn into what Londonist calls "a waterfall of vermillion" over its two stone arches. Go early on a weekday: the arch is one of the most photographed doorways in Kensington and a queue forms for it by mid-morning.
+A cobbled mews off Kynance Place, where ivy and Virginia creeper turn into what Londonist calls "a waterfall of vermillion" over its two stone arches. Go early on a weekday: the arch is one of the most photographed doorways in Kensington and a queue forms for it by mid-morning. The creeper also turns weeks after the parks do, so this is one to save for the back end of the season.
 
 ![Red Virginia creeper hanging over a stone arch across a cobbled mews, fallen leaves on the setts below](../../assets/articles/best-places-autumn-leaves-london/kynance-mews-creeper.jpg)
 
-*The creeper turns weeks after the parks do, so this is one to save for the back end of the season.*
+*Kynance Mews.*
 
 ### The rest of the streets
 - **Chelsea Embankment** — golden plane trees arching over the riverside path, with sphinx-headed benches to sit on while the leaves come down, per Londonist. Free. *Cited by 1 source.*

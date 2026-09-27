@@ -85,7 +85,7 @@ Two acres of woodland, marsh and pond wedged between the Regent's Canal and the 
 
 ![A pond fringed with reeds and overhanging trees inside Camley Street Natural Park](../../assets/articles/hidden-london-secret-places/camley-street-natural-park-pond.jpg)
 
-*The pond. Two minutes from a mainline terminus, with kingfishers, herons and reed warblers all recorded here.*
+*The pond at Camley Street.*
 
 ### The Ornamental Canal, Wapping
 
@@ -97,7 +97,7 @@ That is exactly what makes it worth the walk. **Wapping Wood** runs alongside it
 
 ![The Ornamental Canal in Wapping, with still water reflecting autumn leaves, brick warehouse-style housing on both banks and a church tower in the distance](../../assets/articles/hidden-london-secret-places/wapping-ornamental-canal.jpg)
 
-*The Ornamental Canal looking north-west, with St George in the East on the skyline. October, when the ivy on the buildings turns.*
+*The Ornamental Canal, looking towards St George in the East.*
 
 ### The Rolling Bridge and Fan Bridge, Paddington
 
@@ -107,7 +107,7 @@ Two kinetic bridges over Paddington Basin. Thomas Heatherwick's Rolling Bridge, 
 
 ![The stepped concrete terraces of the Alexandra Road Estate, planted with shrubs along a pedestrian street](../../assets/articles/hidden-london-secret-places/alexandra-road-terraces.jpg)
 
-*Rowley Way. A Grade II&ast; listed concrete street with no cars on it at all, and a public right of way you can simply walk down.*
+*Rowley Way, the Alexandra Road Estate.*
 
 Officially the Alexandra and Ainsworth Estate, and known to almost everyone as Rowley Way. Two long terraces of white concrete step back as they rise, facing each other across a pedestrian street with no road and no parking - 1970s social housing regarded well enough to be **Grade II&ast; listed**, which is rare for a council estate and rarer still for one this young.
 
@@ -149,7 +149,7 @@ A covered market in cream, maroon and green wrought iron, built by Horace Jones 
 
 ![The painted iron and glass roof of Leadenhall Market in cream, maroon and green, with the Lamb Tavern sign, City of London dragon shields and people at barrel tables below](../../assets/articles/hidden-london-secret-places/leadenhall-market.jpg)
 
-*A weekday afternoon — the market working, and the compromise this entry describes. The dragons on the shields are the City of London's own.*
+*Leadenhall Market on a weekday afternoon.*
 
 ### Sir John Soane's Museum, Holborn
 

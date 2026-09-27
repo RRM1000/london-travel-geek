@@ -76,7 +76,7 @@ A black-and-gold banquet hall on Baker Street where **weekend dim sum runs at th
 
 ![Four har gau prawn dumplings in a bamboo steamer, their pleated translucent wrappers showing the prawn inside](../../assets/articles/best-dim-sum-london/royal-china-har-gau.jpg)
 
-*Har gau at Royal China. The test of any dim sum kitchen is whether the wrapper holds together while still being thin enough to see through.*
+*Har gau at Royal China.*
 
 ### A. Wong, Victoria
 
@@ -96,7 +96,7 @@ It takes groups, dates and families equally well, and it is **two minutes from L
 
 ![Cheung fun rice noodle rolls filled with fried dough sticks, sliced and sitting in sweet soy on a long white plate](../../assets/articles/best-dim-sum-london/tao-tao-ju-cheung-fun.jpg)
 
-*Cheung fun at Tao Tao Ju — rice noodle rolled around fried dough, cut into lengths and flooded with sweet soy.*
+*Cheung fun at Tao Tao Ju.*
 
 ### Yauatcha, Soho
 
@@ -176,7 +176,7 @@ South London's proper dim sum hall — a **full-size Cantonese banqueting room**
 
 ![Eight bamboo steamers crowded onto a table, holding har gau, siu mai, char siu bao and yellow-wrapped dumplings](../../assets/articles/best-dim-sum-london/dragon-castle-table.jpg)
 
-*A table at Dragon Castle. Ordering like this in Chinatown costs roughly double.*
+*A table at Dragon Castle.*
 
 ### Pearl Liang, Paddington
 
@@ -190,7 +190,7 @@ An unexpectedly large **basement dining room behind Paddington station**, routin
 
 ![A steamed rice noodle roll in soy sauce on a white plate](../../assets/articles/best-dim-sum-london/pearl-liang.jpg)
 
-*Hidden in a Paddington basement behind the station, and much better than its location suggests. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3676852528), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Pearl Liang, Paddington. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3676852528), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 
@@ -218,7 +218,7 @@ Dim sum in a **bar-led room** rather than a banquet hall — **the one on this p
 
 ![The white frontage of Din Tai Fung in Covent Garden with people queueing](../../assets/articles/best-dim-sum-london/din-tai-fung.jpg)
 
-*The Taiwanese soup-dumpling chain. You can watch them pleated through the window while you wait. Photo: [Heeheemalu](https://commons.wikimedia.org/w/index.php?curid=127443026), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Din Tai Fung, Covent Garden. Photo: [Heeheemalu](https://commons.wikimedia.org/w/index.php?curid=127443026), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ---
 
@@ -228,7 +228,7 @@ Dim sum in a **bar-led room** rather than a banquet hall — **the one on this p
 
 ![Five xiao long bao in a bamboo steamer lined with cloth, one topped with a spoonful of yellow crab roe](../../assets/articles/best-dim-sum-london/din-tai-fung-xiao-long-bao.jpg)
 
-*Xiao long bao at Din Tai Fung, one of them crab. The eighteen pleats are the house standard and the reason for the glass-walled kitchen.*
+*Xiao long bao at Din Tai Fung.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-dim-sum-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

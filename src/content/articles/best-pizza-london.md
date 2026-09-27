@@ -84,7 +84,7 @@ Ugo and Kate started it on Short Road in Leytonstone, which is where the name co
 
 ![A Short Road pizza on a metal tray, the rim puffed and charred in patches, topped with cupped pepperoni, torn mozzarella, grated parmesan and fresh basil, sitting on green Short Road Pizza paper](../../assets/articles/best-pizza-london/short-road-pizza.jpg)
 
-*Not the award-winning marinara — the pepperoni, on the same base. The green paper under the tray is the tell that this is a residency running its own menu inside somebody else's pub.*
+*Not the award-winning marinara — the pepperoni, on the same base.*
 
 > ⚠️ **A residency, not a restaurant.** Short Road cooks inside Exale Brewery's two pubs, William The Fourth in Leyton and Three Colts in Bethnal Green, so the kitchen keeps shorter hours than the bar.
 
@@ -100,7 +100,7 @@ The dough is a long-fermented Neapolitan base, and the pizzas move well beyond t
 
 ![A Neapolitan pizza at Napoli on the Road with a puffed, leopard-spotted crust, tomato and mozzarella swirled across the base and fresh basil leaves on top](../../assets/articles/best-pizza-london/napoli-on-the-road.jpg)
 
-*The dough is the thing to judge here, and this is what a long ferment looks like — a puffed cornicione blistered black in spots, with the base left thin.*
+*Napoli on the Road's long-fermented dough.*
 
 ### Crisp Pizza at The Marlborough, Mayfair
 
@@ -112,7 +112,7 @@ Order the grandma pie: square, thicker, feeds two or three.
 
 ![A New Haven-style pepperoni pizza at Crisp, its edge charred dark, topped with cupped pepperoni, tomato and spoonfuls of ricotta](../../assets/articles/best-pizza-london/crisp-pizza.jpg)
 
-*New Haven style: scorched at the edge on purpose, thin under the middle, and the pepperoni cupped and crisped rather than laid flat.*
+*Crisp's New Haven-style pepperoni.*
 
 > ⚠️ **No pizza on Mondays.** The pub upstairs is walk-in. The pizzeria downstairs takes [bookings](https://www.sevenrooms.com/explore/crispmayfair/reservations).
 
@@ -134,7 +134,7 @@ One catch worth knowing: despite the framing, most of the rooms sell whole pies 
 
 ![An Alley Cats pizza cut into slices on a metal tray, tomato sauce and thin melted cheese under dollops of green pesto and a scatter of dried oregano, held up on the pavement outside](../../assets/articles/best-pizza-london/alley-cats-portobello-road.jpg)
 
-*The Portobello Road branch, where you can buy it by the slice. Charred and puffed at the rim, thin and foldable under the middle — the New York proportions the group is named for.*
+*The Portobello Road branch of Alley Cats.*
 
 ### Bad Boy Pizza Society, Covent Garden
 
@@ -146,7 +146,7 @@ It began in 2018 as a parody university society in Southampton set up to get stu
 
 ![The two-level hall of Seven Dials Market, with communal benches and festoon lighting](../../assets/articles/best-pizza-london/seven-dials-market.jpg)
 
-*Seven Dials Market, where Bad Boy trades from a counter on the lower level. You eat at the shared benches rather than at the stall.*
+*Seven Dials Market, where Bad Boy trades.*
 
 ### Breadstall, Soho
 
@@ -162,7 +162,7 @@ What makes it is the dough. They use a **biga pre-ferment**, a stiff overnight s
 
 ![The Breadstall counter on Berwick Street in Soho, staff cutting large round pizzas behind a glass display with a menu board and stacked pizza boxes](../../assets/articles/best-pizza-london/breadstall.jpg)
 
-*Sold by the quarter, half or whole from the counter. The blackboard changes; the biga dough does not.*
+*Breadstall's counter, on Berwick Street.*
 
 ### Dough Hands, Hackney
 
@@ -189,7 +189,7 @@ Small, and the queue moves quickly. There is a second branch at 42 High Street i
 
 ![A wide New York-style pepperoni pizza on a metal tray at Vincenzo's, cut into slices and covering most of the table, with shakers of chilli flakes and dried oregano beside it](../../assets/articles/best-pizza-london/vincenzos.jpg)
 
-*The pie is the size of the table, which is the point — this is a New York slice counter's proportions, not a Neapolitan pizzeria's. Chilli flakes and dried oregano on the table, as they should be.*
+*Vincenzo's, sold by the slice.*
 
 ### Yard Sale Pizza, Clapton
 
@@ -201,7 +201,7 @@ Six London sites: Clapton, East Dulwich, Hackney Road, Leytonstone, Walthamstow 
 
 ![A Yard Sale pizza on a wooden table piled with shredded red and white cabbage slaw, beside a can of Camden Pale Ale](../../assets/articles/best-pizza-london/yard-sale-pizza.jpg)
 
-*Not a Neapolitan purist's pizza and not trying to be — a wide, soft-crusted base built for toppings, eaten with a can of something cold.*
+*Yard Sale's pizza, Clapton.*
 
 ---
 
@@ -311,7 +311,7 @@ Baked in blue steel pans so the cheese caramelises against the edge — crunchy 
 
 ![The dining room at Detroit Pizza London, brick walls hung with framed American memorabilia above a long shared table](../../assets/articles/best-pizza-london/detroit-pizza-london.jpg)
 
-*Detroit Pizza London on Commercial Street. The Detroit theme runs to the walls — the framed jersey is the Lions quarterback.*
+*Detroit Pizza London, on Commercial Street.*
 
 #### Japes, Soho
 
@@ -363,15 +363,15 @@ Twenty-inch pizzas sold whole or by the slice, with toppings split across halves
 
 ![The Pizza Pilgrims shopfront on the King's Road, turquoise tiled frontage with an open window counter](../../assets/articles/best-pizza-london/pizza-pilgrims-kings-road.jpg)
 
-*The King's Road branch. There are a dozen of them now and the shopfront is the same at each.*
+*Pizza Pilgrims, King's Road.*
 
 *££ · Soho · 5 min from Tottenham Court Road · bookable, rarely needed · Cited by 8 sources · Pizza Restaurant Chain of the Year, PAPA Industry Awards 2025 · [book a table](https://www.pizzapilgrims.co.uk/bookings)*
 
-Started as a Soho market cart in 2012 and now runs across London. The pizza trade's own association judged it the best pizza restaurant chain in the country in 2025, it reached the National Pizza Awards final that year, and it is back in the 2026 one with a pizza called Che Cavolo. Reliable rather than remarkable at any single branch, but consistent, and you can walk into all of them.
+Started as a Soho market cart in 2012 and now runs across London. The pizza trade's own association judged it the best pizza restaurant chain in the country in 2025, it reached the National Pizza Awards final that year, and it is back in the 2026 one with a pizza called Che Cavolo. Reliable rather than remarkable at any single branch, but consistent, and you can walk into all of them. The fried pizza starter is worth ordering beyond the pizza itself.
 
 ![A margherita pizza on a checked tablecloth](../../assets/articles/best-pizza-london/pizza-pilgrims.jpg)
 
-*Started as a three-wheeled van and kept the Neapolitan dough. The fried pizza starter is the outlier worth ordering. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/35140239561), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/35140239561), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 #### Sodo Pizza, Clapton
 
@@ -393,7 +393,7 @@ A small Ealing pizzeria that built its reputation on strict Neapolitan method ye
 
 ![The white frontage of Santa Maria pizzeria at night](../../assets/articles/best-pizza-london/santa-maria.jpg)
 
-*Ealing, of all places, has one of London's better Neapolitan pizzas. Photo: [markhillary](https://www.flickr.com/photos/56087830@N00/4429138753), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Santa Maria, Ealing. Photo: [markhillary](https://www.flickr.com/photos/56087830@N00/4429138753), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ---
 
@@ -466,7 +466,7 @@ Places the sources back but that did not earn a full entry, either because only 
 
 ![The bar at Circolo Popolare, backed by a wall of bottles beneath hanging greenery](../../assets/articles/best-pizza-london/circolo-popolare-bar.jpg)
 
-*Circolo Popolare is on this list for the room, not the pizza — which is exactly the distinction this table exists to make.*
+*Circolo Popolare, Fitzrovia.*
 
 [See all 112 Italian restaurants →](/restaurants/cuisine/italian)
 

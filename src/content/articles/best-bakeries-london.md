@@ -115,7 +115,7 @@ An East Dulwich bakery that has become the reason people cross south London on a
 *French technique, East Asian flavours · Cited by 2 sources · Good Food Guide 2026*
 
 ![Rows of egg custard tarts with glossy yellow filling in fluted pastry cases, on wire racks on a wooden bakery counter](../../assets/articles/best-bakeries-london/arome-bakery.jpg)
-*Egg tarts on the rack: Portuguese-Macanese custard set inside a laminated, croissant-style shell.*
+*Egg tarts at Arôme.*
 
 A French-Asian bakery on Endell Street from a team that trained in Paris and Hong Kong — and one of the few places in London doing both traditions properly rather than picking one.
 
@@ -206,7 +206,7 @@ Not in this year's fifty, and still among the best-loved rooms in London.
 *Go early · Cited by 4 sources*
 
 ![A thick laminated pastry roll on a brown paper bag, cut open to show its many layers wrapped around a mushroom filling](../../assets/articles/best-bakeries-london/pophams.jpg)
-*The laminated pastries are made in the room; this one is mushroom, and the cut end shows the layers.*
+*A pastry at Pophams.*
 
 **Pastries at the counter and a small kitchen behind it**, so it works as breakfast and as lunch — which most bakeries in this guide do not.
 
@@ -249,7 +249,7 @@ A Bermondsey bakery supplying half the good restaurants in south London, with a 
 *Small and excellent · Cited by 3 sources*
 
 ![Trays of pain au chocolat, sugar-dusted morning buns and cinnamon swirls on a bakery counter, with a baker in an apron working behind it](../../assets/articles/best-bakeries-london/fortitude-bakehouse.jpg)
-*A deliberately short range, all made in the room: pain au chocolat, raspberry morning buns, cinnamon sticky buns.*
+*The counter at Fortitude Bakehouse.*
 
 **A small Bloomsbury bakehouse a couple of minutes from Russell Square** — which is a short list, in a part of London badly served for anything good to eat.
 
@@ -278,7 +278,7 @@ Started as a lockdown home bakery and now a Crouch End shop with a following tha
 **£, walk-in.** Crouch End, and busiest on a Saturday morning when the whole neighbourhood is in the queue.
 
 ![The frontage of Sourdough Sophia bakery with pavement seating](../../assets/articles/best-bakeries-london/sourdough-sophia.jpg)
-*An Islington bakery doing long-fermented loaves and a very good cardamom bun. Photo: [Keith Page](https://commons.wikimedia.org/w/index.php?curid=196207114), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Sourdough Sophia, Crouch End. Photo: [Keith Page](https://commons.wikimedia.org/w/index.php?curid=196207114), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 
 ---
@@ -337,13 +337,13 @@ This is the north end of Portobello, past the antiques and past most of the tour
 
 *Open 24 hours*
 
-**Salt beef beigels at any hour of the day or night**, for a few pounds, from a counter that has genuinely never closed. It is the answer to a very specific question — where to eat at four in the morning — and also just a good beigel at two in the afternoon.
+**Salt beef beigels at any hour of the day or night**, for a few pounds, from a counter that has genuinely never closed. It is the answer to a very specific question — where to eat at four in the morning — and also just a good beigel at two in the afternoon; the queue is much the same length at both.
 
 The other Brick Lane beigel shop a few doors down has its own partisans and a long-running rivalry with this one. Try both; people have opinions about this that are out of proportion to the stakes.
 
 ![Customers outside the Beigel Bake shopfront on Brick Lane in the rain](../../assets/articles/best-bakeries-london/beigel-bake.jpg)
 
-*Open around the clock, and the queue is the same at four in the morning as at lunchtime. Photo: [chas679](https://www.flickr.com/photos/128863823@N04/20362225603), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Beigel Bake, Brick Lane. Photo: [chas679](https://www.flickr.com/photos/128863823@N04/20362225603), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Bread Ahead, Borough Market
 
@@ -356,7 +356,7 @@ The **doughnuts** are the whole business: filled to order with vanilla custard, 
 **£, walk-in, closed Monday.** Borough Market gets impassable by midday at weekends — go early.
 
 ![A sugar-dusted doughnut with a honeycomb shard on a blue plate](../../assets/articles/best-bakeries-london/bread-ahead.jpg)
-*The doughnuts are the draw, filled to order. The bakery school upstairs teaches you to make them. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/35138538481), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The doughnuts at Bread Ahead. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/35138538481), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 
 ---
@@ -384,7 +384,7 @@ A **fresh pasta counter** with the pasta made daily and sold by weight, plus a f
 **££ at the deli.** Walk-in for the shop; the restaurants take bookings and the Greek Street site has the longest queue.
 
 ![The green-tiled corner shopfront of Lina Stores on Brewer Street](../../assets/articles/best-bakeries-london/lina-stores.jpg)
-*A 1944 Italian deli that turned into a pasta bar. The green stripes are on everything they own now. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/48224733512), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Lina Stores, Brewer Street. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/48224733512), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 
 ---

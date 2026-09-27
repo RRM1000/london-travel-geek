@@ -70,7 +70,7 @@ Both are worth your time and they are not competing.
 
 ![Green leather armchairs around small round tables in the Connaught Bar, with a lit back bar of bottles at the far end under a moulded plaster ceiling](../../assets/articles/best-cocktail-bars-london/the-connaught-bar-room.jpg)
 
-*The martini is mixed at your table from a trolley. There are no reservations, so arrive at 4pm, when the bar opens.*
+*The Connaught Bar.*
 
 **No.6 in the World's 50 Best Bars 2025** · world No.1 in 2020 and 2021
 
@@ -86,7 +86,7 @@ The **martini is mixed at your table** from a trolley of tinctures — you pick 
 
 ![Artesian's back bar, a row of lit bottle cabinets topped with pagoda roofs, with two gold pagoda-shaped chandeliers above and purple leather chairs around small round tables](../../assets/articles/best-cocktail-bars-london/artesian-back-bar.jpg)
 
-*The pagoda-topped back bar off The Langham's lobby. Artesian publishes its prices, which run from £15 to £85 a drink.*
+*Artesian's pagoda-topped back bar.*
 
 **Four consecutive years as the best bar in the world** in the 2010s, and still a room built for a long drink rather than a quick one — a high-ceilinged, chinoiserie-panelled bar off the lobby of The Langham, with a back bar that runs the full width of it.
 
@@ -102,7 +102,7 @@ At The Langham, 1c Portland Place, W1B 1JA, at the top of Regent Street opposite
 
 ![Customers on wooden stools at a long wooden bar counter, with bartenders working in front of shelves of amber bottles set against green tiles, under an exposed concrete ceiling](../../assets/articles/best-cocktail-bars-london/tayer-plus-elementary-back-room.jpg)
 
-*The seated room behind the front bar, for a slow drink. It has been closed since a fire in the building on 5 May 2026.*
+*The seated room behind the bar.*
 
 **No.5 in the World's 50 Best Bars 2025** — the highest-ranked London bar on that list
 
@@ -116,7 +116,7 @@ Alex Kratena and Monica Berg split it in two: a standing bar at the front for a 
 
 ![A raised lounge with blue velvet banquette seating around low brass-legged tables, grey armchairs in the foreground, a faceted brass octagonal mirror on a panelled blue wall, and a dark herringbone wood floor](../../assets/articles/best-cocktail-bars-london/lyaness-bar-room.jpg)
 
-*The room at Sea Containers London, the same building as 12th Knot upstairs. Weekends here open at 1pm, one of very few serious cocktail bars usable in the afternoon.*
+*Lyaness, at Sea Containers London.*
 
 Ryan Chetiyawardana builds the menu around a handful of house-made ingredients and **rewrites it wholesale** each time rather than editing it. The current one is called **Collaboration 2.0**, with a separate five-drink Special Editions list beside it. Nowhere else in London is working this way.
 
@@ -136,7 +136,7 @@ At Sea Containers London, 20 Upper Ground, SE1 9PD — the same building as 12th
 
 ![Tan leather armchairs with orange cushions around small round tables on a grey-and-gold geometric carpet, with framed black-and-white photographs on the walls and a curved back bar at the far end](../../assets/articles/best-cocktail-bars-london/the-american-bar-room.jpg)
 
-*The room where Harry Craddock compiled the Savoy Cocktail Book in 1930. It opens at noon, seven days a week.*
+*Where the Savoy Cocktail Book was written.*
 
 The room where **Harry Craddock compiled the Savoy Cocktail Book in 1930**, and where the White Lady was popularised. Britain's oldest surviving cocktail bar, with a pianist at the baby grand, white jackets and more history per square foot than anywhere else in the country — the Savoy's own line is that it has been serving since 1893 and has had everyone from Churchill to Hemingway through it.
 
@@ -152,7 +152,7 @@ It was **World's Best Bar in 2017** and is not in the current top 100 — which 
 
 ![A bartender in a white jacket pouring from a frosted bottle into a martini glass on a wooden drinks trolley, beside a bottle of No.3 London Dry Gin and a bowl of citrus fruit](../../assets/articles/best-cocktail-bars-london/dukes-bar-martini-trolley.jpg)
 
-*The martini is made at your table from frozen bottles, with no ice. That is why the house has long held guests to two.*
+*The Dukes martini trolley.*
 
 The **martini is made at your table from frozen bottles**, poured with no ice and no dilution, which is why the house has long held guests to two. Ian Fleming drank here and the Vesper is the order.
 
@@ -176,7 +176,7 @@ Hours are published only as **"5pm until late"**, with no closing time or day br
 
 ![A cocktail on a bar counter](../../assets/articles/best-cocktail-bars-london/scarfes-bar.jpg)
 
-*Named for the caricaturist Gerald Scarfe, whose drawings cover the walls. Live jazz most nights. Photo: [Bex Walton](https://commons.wikimedia.org/w/index.php?curid=189969117), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+*Scarfes Bar. Photo: [Bex Walton](https://commons.wikimedia.org/w/index.php?curid=189969117), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 ### Kwãnt, Mayfair
 
@@ -192,7 +192,7 @@ Erik Lorincz, formerly head bartender at the Savoy's American Bar, running a bas
 
 ![Two cocktails on yellow coasters on a wood bar](../../assets/articles/best-cocktail-bars-london/kwant.jpg)
 
-*A Mayfair basement bar from a Connaught alumnus, and quieter than its postcode suggests. Photo: [Bex Walton](https://commons.wikimedia.org/w/index.php?curid=193540390), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+*Kwãnt, Mayfair. Photo: [Bex Walton](https://commons.wikimedia.org/w/index.php?curid=193540390), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 ---
 
@@ -208,7 +208,7 @@ Cheaper, later, and no less serious.
 
 ![A bartender making drinks behind the bar, with customers seated along the counter, green glass bottles on the rail and shelves of spirits behind him](../../assets/articles/best-cocktail-bars-london/satans-whiskers-bar-counter.jpg)
 
-*The menu here has been rewritten daily since the bar opened in late 2013. Reservations are taken by telephone only.*
+*Satan's Whiskers.*
 
 **No.21 in the World's 50 Best Bars 2025**
 
@@ -232,7 +232,7 @@ It was **No.18 in the World's 50 Best Bars in 2018 and No.23 in 2019** and is no
 
 ![The corner frontage of Coupette in Bethnal Green](../../assets/articles/best-cocktail-bars-london/coupette.jpg)
 
-*A French-leaning cocktail bar that made its name on Calvados and apples. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/48470775107), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Coupette, Bethnal Green. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/48470775107), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Swift, Soho
 
@@ -248,7 +248,7 @@ The pricing follows the split: **upstairs £9 to £16**, downstairs £12 to £16
 
 ![The blue frontage of Swift on Old Compton Street](../../assets/articles/best-cocktail-bars-london/swift.jpg)
 
-*Upstairs is a quick aperitivo bar, downstairs is a dark room for staying in. Two bars, one door. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/34156340355), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Swift, Soho. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/34156340355), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Bar Termini, Soho
 
@@ -256,7 +256,7 @@ The pricing follows the split: **upstairs £9 to £16**, downstairs £12 to £16
 
 ![A red cocktail served without ice in a small stemmed glass, on a coaster printed with a large T on a marble counter, with steel shakers and shelves of bottles behind](../../assets/articles/best-cocktail-bars-london/bar-termini-marble-counter.jpg)
 
-*A drink on the marble counter. The house negroni is £9.50, and everything else on the list starts at £15.50.*
+*The house negroni, on the marble counter.*
 
 A tiny Italian counter bar on Old Compton Street, done as a Roman station bar — an espresso machine at the front, a marble counter, waiter service, and small enough that you should expect to wait.
 
@@ -272,7 +272,7 @@ Bookings are open and walk-ins welcome, per their own banner. **They publish no 
 
 ![A pink drink over one large ice cube with a raspberry on top, on a Three Sheets napkin next to a black menu on a marble counter](../../assets/articles/best-cocktail-bars-london/three-sheets-cocktail.jpg)
 
-*Max and Noel Venning keep the menu short, and the drinks arrive without a speech.*
+*Three Sheets.*
 
 **Soho: No.80 in the World's 50 Best Bars 2025** · **Dalston: No.16 in 2019**
 
@@ -288,7 +288,7 @@ Brothers **Max and Noel Venning**, a short menu and **no theatre at all** — th
 
 ![Three amber cocktails in stemmed glasses on coasters cut as a yellow triangle, a red square and a blue circle](../../assets/articles/best-cocktail-bars-london/a-bar-with-shapes-for-a-name-coasters.jpg)
 
-*The coasters are the same three shapes as the sign outside. The bar is built on Bauhaus principles down to the glassware.*
+*A Bar with Shapes for a Name.*
 
 **No.73 in the World's 50 Best Bars 2025**
 
@@ -300,7 +300,7 @@ Built on **Bauhaus principles down to the glassware**, with a menu of about a do
 
 ![A long concrete bar counter with stools along one side, black pendant lamps overhead, high tables with candles against a brick wall, and the street through the front window](../../assets/articles/best-cocktail-bars-london/little-mercies-bar-room.jpg)
 
-*Every drink is 30% off from 6pm to 7pm on the five nights the bar opens, Tuesday to Saturday.*
+*Little Mercies, Crouch End.*
 
 A low-waste neighbourhood bar from the same family behind Three Sheets, built around house distillates, ferments and bottled spirits — and named **Sustainable Bar of the Year in 2022, 2023 and 2025**.
 
@@ -316,7 +316,7 @@ The Snickers Old Fashioned, Moro Margarita and Rhubarb Negroni are the signature
 
 ![Half Cut's shopfront, with a blue fascia and awning, the name in orange neon in the window, and wooden folding tables and chairs on the pavement](../../assets/articles/best-cocktail-bars-london/half-cut-market-shopfront.jpg)
 
-*Despite the name, it is a shopfront on York Way rather than anything inside a market.*
+*Half Cut Market's shopfront on York Way.*
 
 **Be clear what this is before you go: it is a restaurant, wine bar and bottle shop, not a cocktail bar.** Its own description is "a restaurant, wine bar + shop on the York Way Riviera™". It earns a place here on price rather than on the list — the **Half Cut Martini is £10** and a vermouth and soda **£7**, which in London is close to unheard of for drinks made this carefully, and those are last-listed figures rather than something the shop publishes online.
 
@@ -332,7 +332,7 @@ Their site is halfcut.world. Caledonian Road & Barnsbury is the nearest station.
 
 ![Tall grey tables with black wire bar stools lined up along a banquette, set with wine glasses and candles, beside green-framed windows onto the street](../../assets/articles/best-cocktail-bars-london/bar-crispin-high-tables.jpg)
 
-*Wine is the point here, and the cocktail list runs to four drinks. It closes at 9.30pm, and at 9pm on Sundays.*
+*Bar Crispin, Soho.*
 
 Soho's benchmark low-intervention wine bar, and the cocktail list is short but unusually good. Four drinks: an **olive oil negroni**, a burnt butter old fashioned, a tonka bean espresso martini and a citrus margarita.
 
@@ -348,7 +348,7 @@ Worth being clear that wine is the point here and cocktails are the sideline. Bo
 
 ![A Seed Library x Mr Lyan sign on a patterned brick wall, beside steps up to a coffee shop entrance](../../assets/articles/best-cocktail-bars-london/seed-library-sign.jpg)
 
-*The sign at One Hundred Shoreditch. The bar itself is in the basement.*
+*The sign at One Hundred Shoreditch.*
 
 Ryan Chetiyawardana again — the Lyaness man — in a stripped concrete basement doing **short, low-alcohol drinks** with none of the ceremony of his bigger rooms. No prices are published anywhere on the site.
 
@@ -366,11 +366,11 @@ Low ceilings, low light and a short menu in a basement under Hoxton Square. **On
 
 **Open from 5pm every day**, with no closing time published. No prices are published either, which is normal for this end of the scene.
 
-Book through the widget on their site — the room is small and there is no realistic prospect of walking into it on a Friday. At **8-9 Hoxton Square, N1 6NU**, and the address is the whole difficulty: there is no sign at street level beyond a pavement board, and the door is a basement entrance below a restaurant. Old Street is five minutes.
+Book through the widget on their site — the room is small, holding about thirty people, and there is no realistic prospect of walking into it on a Friday. At **8-9 Hoxton Square, N1 6NU**, and the address is the whole difficulty: there is no sign at street level beyond a pavement board, and the door is a basement entrance below a restaurant. Old Street is five minutes.
 
 ![A pavement A-board outside Happiness Forgets in Hoxton Square](../../assets/articles/best-cocktail-bars-london/happiness-forgets.jpg)
 
-*A basement bar with no sign at street level beyond the board. Book, because it holds about thirty people. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/6258205723), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Happiness Forgets, Hoxton Square. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/6258205723), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Nightjar, Shoreditch
 
@@ -384,7 +384,7 @@ Live jazz three sets a night, and the charges nobody mentions until you arrive: 
 
 ![An unmarked wooden door beside a green wall](../../assets/articles/best-cocktail-bars-london/nightjar.jpg)
 
-*There is no sign. You ring, you go down, and there is live music every night. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8473655212), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Nightjar's door, unmarked. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8473655212), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Oriole, Covent Garden
 
@@ -392,7 +392,7 @@ Live jazz three sets a night, and the charges nobody mentions until you arrive: 
 
 ![A long curved bar with a lit upholstered front and a dark wood top, under globe pendant lights and a coffered ceiling, with glass shelves of bottles and ornaments behind](../../assets/articles/best-cocktail-bars-london/oriole-bar-counter.jpg)
 
-*Down a flight of stairs off the courtyard behind St Martin's Lane. Drinks run from £14 to £16.*
+*Oriole, Covent Garden.*
 
 Live music nightly and a menu genuinely organised by continent — the current Eighth Edition runs sections headed Europe & Africa and onwards, and you order by where a drink comes from. Sibling to Nightjar, with the same approach to theatre and the same charging model: **the musicians are paid directly through a live-music charge**, as at Nightjar.
 
@@ -431,7 +431,7 @@ The **Connaught Martini is £30**, mixed at your table from the trolley. **Night
 
 ![Two bartenders behind a wooden bar with drawer fronts and hooks along it, with bentwood stools, brick walls, exposed ceiling joists and leather armchairs at the back](../../assets/articles/best-cocktail-bars-london/discount-suit-company-bar-room.jpg)
 
-*Discount Suit Company, in a former tailor's on Wentworth Street, where every cocktail on the list is £10.*
+*Discount Suit Company, Spitalfields.*
 
 #### Two-for-one, properly checked
 

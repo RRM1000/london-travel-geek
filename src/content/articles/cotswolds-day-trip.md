@@ -73,7 +73,7 @@ All six run from Paddington. Returns were quoted for a Tuesday mid-morning depar
 
 ![The Porch House at Stow-on-the-Wold, a honey-stone inn with its sign over the pavement](../../assets/articles/cotswolds-day-trip/porch-house-stow.jpg)
 
-*Stow-on-the-Wold, twenty minutes from Moreton-in-Marsh on the 801. Photo: Daria Agafonova, Pexels.*
+*Stow-on-the-Wold. Photo: Daria Agafonova, Pexels.*
 
 One route does almost all the work. The rest are thin, and three of the five stop dead on Sundays.
 
@@ -186,7 +186,7 @@ Castle Combe is the same story in Wiltshire: a pay-and-display car park up in Up
 
 ![Arlington Row at Bibury: a terrace of steep-gabled stone weavers' cottages along a narrow lane](../../assets/articles/cotswolds-day-trip/arlington-row-bibury.jpg)
 
-*Arlington Row at Bibury, built around 1380 as a monastic wool store. Photo: Mahmure Koseoglu, Pexels.*
+*Arlington Row, Bibury. Photo: Mahmure Koseoglu, Pexels.*
 
 ## The paid attractions, and what they cost
 
@@ -215,7 +215,7 @@ National Trust prices are the without-Gift-Aid ones. Snowshill and Hidcote are f
 
 ![The old mill and cottages reflected in the millpond at Lower Slaughter, ducks on the water](../../assets/articles/cotswolds-day-trip/lower-slaughter-mill.jpg)
 
-*Lower Slaughter, on the walk from Bourton. Photo: Michelle Chadwick, Pexels.*
+*Lower Slaughter. Photo: Michelle Chadwick, Pexels.*
 
 **Without a car, from Moreton-in-Marsh.** Take the 10:53 out of Paddington, or the 10:44 on a Sunday. The 801 to Bourton, the flat walk up to Lower and Upper Slaughter and back — 2.6 miles each way, no bus serves the Slaughters — then the 801 on to Stow for the square and an early dinner, and the 801 again to the station. All of it runs on a Sunday, but it ends earlier: be on the **17:15 out of Bourton or the 17:33 out of Stow**, because the later Sunday buses stop short of Moreton.
 

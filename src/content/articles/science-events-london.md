@@ -83,7 +83,7 @@ Every date and price below is the organiser's own, taken from its listings on **
 
 ![The Royal Institution's lecture theatre, tiers of red seats curving in a semicircle around a wooden demonstration bench on the floor below](../../assets/articles/science-events-london/royal-institution-lecture-theatre.jpg)
 
-*The Ri theatre on Albemarle Street. The Discourses have been given from that bench since 1825, and the Christmas Lectures are filmed here. Photo: [AnaConvTrans](https://commons.wikimedia.org/wiki/File:Royal_Institution_Lecture_Theatre.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Photo: [AnaConvTrans](https://commons.wikimedia.org/wiki/File:Royal_Institution_Lecture_Theatre.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### The Royal Institution, Albemarle Street
 
@@ -161,7 +161,7 @@ For the full night, **[Dino Snores for Grown Ups](https://www.nhm.ac.uk/events/d
 
 ![Flamsteed House at the Royal Observatory Greenwich at dusk, the red time ball raised on its mast above the turret and the Octagon Room windows lit from inside](../../assets/articles/science-events-london/royal-observatory-greenwich.jpg)
 
-*Flamsteed House and the red time ball, which has dropped at 1pm since 1833. The Observatory is open daily; the planetarium on the same site is not. Photo: [DiscoA340](https://commons.wikimedia.org/wiki/File:Royal_Observatory_Greenwich_(January_2024)_01.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Flamsteed House, Greenwich. Photo: [DiscoA340](https://commons.wikimedia.org/wiki/File:Royal_Observatory_Greenwich_(January_2024)_01.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### Royal Observatory Greenwich
 
@@ -187,7 +187,7 @@ Make an afternoon of it with the [Hampstead area guide](/articles/hampstead-area
 
 ![The Beam Engine House at Crossness Pumping Station, its cast ironwork painted in red, green and gold around an octagonal screen, with the polished cylinders of the Prince Consort engine and its nameplate on the right](../../assets/articles/science-events-london/crossness-prince-consort-beam-engine.jpg)
 
-*The Beam Engine House at Crossness, with the Prince Consort engine and its nameplate on the right. It only turns on a Steaming Day. Photo: [Nathusius2](https://commons.wikimedia.org/wiki/File:Crossness_Prince_Consort_Beam_Engine_IMG5999-03.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*The Beam Engine House, Crossness. Photo: [Nathusius2](https://commons.wikimedia.org/wiki/File:Crossness_Prince_Consort_Beam_Engine_IMG5999-03.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 Four Victorian pumping stations around London still put steam into their original engines, and all four are volunteer-run and open on published dates rather than daily. On a non-steaming day the engines stand still, so check which sort of day you are booking.
 
@@ -231,7 +231,7 @@ Two more run below ground. **[Mail Rail](https://www.postalmuseum.org/visit-us/w
 
 ![The Mansion at Bletchley Park, a Victorian house in red brick and pale stone with a green copper dome over one bay, visitors walking past the front door](../../assets/articles/science-events-london/bletchley-park-mansion.jpg)
 
-*The Mansion at Bletchley Park — about 50 minutes out of Euston, and a day rather than an afternoon. Photo: [David P Howard](https://commons.wikimedia.org/wiki/File:The_Mansion_at_Bletchley_Park_-_geograph.org.uk_-_4216465.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Mansion, Bletchley Park. Photo: [David P Howard](https://commons.wikimedia.org/wiki/File:The_Mansion_at_Bletchley_Park_-_geograph.org.uk_-_4216465.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 **Bletchley Park is in Milton Keynes, not London**, and it is a full day out rather than an afternoon's detour — the Trust asks you to allow at least four hours and says a whole day is easy. Treat it the way you would [Oxford](/articles/oxford-day-trip/) or [Cambridge](/articles/cambridge-day-trip/): one destination, a train each way, and nothing else in the diary.
 

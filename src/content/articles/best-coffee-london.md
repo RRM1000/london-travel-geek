@@ -75,7 +75,7 @@ This is a guide to **independents worth crossing a street for**, not chains. Mos
 
 ![The corner shopfront of Monmouth Coffee Company on Park Street, with "MONMOUTH" painted above the open frontage](../../assets/articles/best-coffee-london/monmouth-coffee-borough-exterior.jpg)
 
-*The Borough shop, on the corner of Park Street. No seats, so the queue forms outside.*
+*Monmouth's Borough shop.*
 
 **Closed Sundays**, and the Borough queue is at its longest during weekend market hours — 11am to 2pm on a Saturday is the worst of it.
 
@@ -93,7 +93,7 @@ The food is simple and good — toasties, banana bread, a short breakfast list �
 
 ![The white frontage of Prufrock Coffee on Leather Lane, with red-framed pavement tables and chairs outside](../../assets/articles/best-coffee-london/prufrock-coffee-exterior.jpg)
 
-*Prufrock's Leather Lane shopfront, with a few tables out front.*
+*Prufrock, Leather Lane.*
 
 **Walk-in only, three minutes from Chancery Lane**, and busiest with the Leather Lane lunch trade between noon and 2pm, when the street market outside is at full volume.
 
@@ -109,7 +109,7 @@ A small, bright room off Great Titchfield Street with a handful of seats and a l
 
 ![Kaffeine's black shopfront sign at 66 Great Titchfield Street](../../assets/articles/best-coffee-london/kaffeine-exterior.jpg)
 
-*The Great Titchfield Street shop, with the second Kaffeine a few minutes away on Eastcastle Street.*
+*Kaffeine, Great Titchfield Street.*
 
 **Counter service, no bookings.** Mon–Fri 7.30am–5.30pm, Sat 9am–4pm, **closed Sundays**.
 
@@ -129,7 +129,7 @@ A **tiny City counter** that consistently tops London coffee rankings and has al
 
 ![The corner shopfront of Rosslyn Coffee on London Wall, with two customers sitting on the outside bench holding takeaway cups](../../assets/articles/best-coffee-london/rosslyn-coffee-exterior.jpg)
 
-*The London Wall corner shop. Most people take their cup and keep walking.*
+*Rosslyn's London Wall corner shop.*
 
 **Closed Saturdays and Sundays** — it runs on office hours, because its customers are office workers. That is the single thing to know: a weekend trip to the City for this is a wasted one.
 
@@ -147,7 +147,7 @@ A small neighbourhood room rather than a destination space, so expect to stand i
 
 ![The green-tiled counter at Carbon Kopi, with pendant lights overhead and coffee bags on the shelves behind](../../assets/articles/best-coffee-london/carbon-kopi-counter.jpg)
 
-*The counter at Carbon Kopi. It's a small neighbourhood room, not a destination space.*
+*Carbon Kopi's counter.*
 
 **Walk-in only, eight minutes from Barons Court.** Worth the detour if you are already west; not worth crossing London for unless you are a completist.
 
@@ -159,7 +159,7 @@ Started in a **nineteenth-century watchman's hut** on Bermondsey Street and grew
 
 ![The small cream-painted watchman's hut on Bermondsey Street housing the original WatchHouse, with its sign over the door](../../assets/articles/best-coffee-london/watchhouse-bermondsey-exterior.jpg)
 
-*The original watchman's hut on Bermondsey Street, where WatchHouse started.*
+*The original WatchHouse.*
 
 **Room to sit, unlike most of this list**, though the Bermondsey Street original seats about ten. The larger Brunch Houses serve breakfast until 11am and are the ones to pick if you want a table and a plate.
 
@@ -181,7 +181,7 @@ Big, loud and industrial.
 
 ![The corner shopfront of Caravan on Exmouth Market, with awnings out and tables on the pavement](../../assets/articles/best-coffee-london/caravan-exmouth-market-exterior.jpg)
 
-*The Exmouth Market corner site, with outdoor tables under the awnings.*
+*Caravan, Exmouth Market.*
 
 **Bookings are taken across the seven London sites**, which is unusual on this page — almost everything else here is walk-in only — and worth using at weekends when brunch runs long and the wait is real.
 
@@ -197,7 +197,7 @@ The beans are **roasted inside prisons** by people the company then trains and e
 
 ![A cappuccino in a blue cup](../../assets/articles/best-coffee-london/redemption-roasters.jpg)
 
-*The coffee is roasted in a young offenders institution as part of a training programme. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/36031309506), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Redemption Roasters' coffee. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/36031309506), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 **Walk-in, no bookings.** At **84b Lamb's Conduit Street, WC1N 3LR**, seven minutes from Russell Square and five from Holborn — much the best cup within reach of the British Museum, and better than anything on Great Russell Street itself.
 
@@ -219,7 +219,7 @@ Pastries and a short toastie list rather than a kitchen, so this is a coffee sto
 
 ![The counter at Origin Coffee Roasters, with a large colourful mural on the wall and pastries in a glass case](../../assets/articles/best-coffee-london/origin-coffee-counter.jpg)
 
-*The bar at Origin's Shoreditch room, under the mural.*
+*Origin's Shoreditch counter.*
 
 **65 Charlotte Road, EC2A 3PE**, and the three minutes in the line above is the honest figure — some listings say eight, which is the walk to a different Shoreditch site.
 
@@ -233,7 +233,7 @@ A **working roastery in the basement with a full kitchen above it** — closer t
 
 ![The open kitchen at Ozone Coffee Roasters, with a chef working at the pass and a customer seated at the counter](../../assets/articles/best-coffee-london/ozone-coffee-kitchen.jpg)
 
-*The kitchen above the roastery. It's closer to a restaurant than a coffee shop.*
+*Ozone's kitchen.*
 
 **Walk-in, and the four minutes from Old Street in the line above is the honest figure.** At **11 Leonard Street, EC2A 4AQ**.
 
@@ -253,7 +253,7 @@ A roaster's shop where **the filter list changes constantly** and the staff will
 
 ![The open frontage of Workshop Coffee with a passer-by](../../assets/articles/best-coffee-london/workshop-coffee.jpg)
 
-*One of the early London roasteries, and still the reference point for a lot of what followed. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8401291269), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Workshop Coffee. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8401291269), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 **Walk-in, five minutes from Bond Street** — the most civilised coffee within reach of Oxford Street, which is worth knowing on a shopping day.
 
@@ -267,7 +267,7 @@ Pastries and sandwiches from the counter rather than a menu.
 
 ![The window display at Climpson & Sons, with rows of bagged coffee beans and a tray of pastries below](../../assets/articles/best-coffee-london/climpson-and-sons-pastry-counter.jpg)
 
-*The counter at Broadway Market: bagged beans on top, pastries below.*
+*Climpson & Sons, Broadway Market.*
 
 **Walk-in, and the six minutes from Cambridge Heath in the line above is the honest figure** — London Fields station is about the same.
 
@@ -287,7 +287,7 @@ A pared-back Scandinavian room a few streets from Prufrock, and **named among th
 
 ![A flat white with heart latte art in a glass cup](../../assets/articles/best-coffee-london/catalyst.jpg)
 
-*A roastery café near King's Cross that takes the coffee seriously and the room lightly. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/33625242186), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Catalyst, near King's Cross. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/33625242186), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 **Closed Saturdays and Sundays**, like most of the legal-district shops. Three minutes from Chancery Lane, and a few streets from Prufrock — the two make an easy pair on a weekday morning.
 
@@ -303,7 +303,7 @@ A Peckham roastery that **employs and trains people who have experienced homeles
 
 ![A cappuccino in a blue cup on a wooden table](../../assets/articles/best-coffee-london/old-spike.jpg)
 
-*A Peckham roastery that trains and employs people who have experienced homelessness. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/33666350895), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Old Spike Roastery, Peckham. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/33666350895), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ---
 
@@ -321,7 +321,7 @@ The oldest thing on this list by a century, and still a working merchant rather 
 
 ![The red-painted Victorian shopfront of Algerian Coffee Stores on Old Compton Street](../../assets/articles/best-coffee-london/algerian-coffee-stores.jpg)
 
-*The shopfront has barely changed since 1887. Espresso to take away costs a fraction of what the cafés around it charge. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2441960131), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Algerian Coffee Stores, since 1887. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2441960131), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### The Attendant, Fitzrovia
 
@@ -331,7 +331,7 @@ Coffee served inside a **restored Victorian public lavatory**, with the original
 
 ![A row of converted Victorian porcelain urinals, now the counter at The Attendant, against white tiled walls](../../assets/articles/best-coffee-london/the-attendant-urinal-counter.jpg)
 
-*The original urinals, now the counter you sit at.*
+*The Attendant's urinal counter.*
 
 It is a basement, so it is dim, small and warmer than you expect. **Better as a stop than a place to settle** — there are perhaps a dozen seats and the room does not suit lingering.
 
@@ -351,7 +351,7 @@ Perrins Court is a pedestrian lane, so there are outdoor tables and no traffic.
 
 ![Ginger & White's brown shopfront on Perrins Court, with red and cream outdoor tables and chairs on the pavement](../../assets/articles/best-coffee-london/ginger-and-white-exterior.jpg)
 
-*The Perrins Court frontage, with outdoor tables on the pedestrian lane.*
+*Ginger & White, Perrins Court.*
 
 **No reservations**, indoor and outdoor seating. Mon–Fri 7.30am–5.30pm, Sat to 6pm, Sun 8am–6pm — **one of the few here open all weekend**. Two minutes from Hampstead station, and the obvious start to a Heath walk.
 

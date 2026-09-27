@@ -74,7 +74,7 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 **December** is the shortest, dullest month by the numbers — 53 hours of sunshine and under 8 hours of daylight around the solstice — and also the most concentrated: **Hyde Park Winter Wonderland** runs the whole month (it opens on Thursday 19 November 2026 and runs to 3 January 2027), Christmas Day falls on **Friday 25 December**, and school holidays start **21 December**. London's Thames fireworks on **31 December** are ticketed rather than free to watch from the riverside enclosures, and have sold out in past years.
 
 ![People in winter coats walking past snow-topped wooden food chalets lit up at dusk at Hyde Park Winter Wonderland](../../assets/articles/best-time-to-visit-london/winter-wonderland-food-stalls.jpg)
-*Hyde Park Winter Wonderland at dusk: chip stalls, hot roast pork rolls and the Arctic Lodge bar.*
+*Hyde Park Winter Wonderland at dusk.*
 
 **January** is quiet by every measure that matters: schools are back by **4 January 2027**, there's no half term, and the only bank holiday is New Year's Day itself (**Friday 1 January 2027**). It averages an 8°C high, with the year's second-lowest sunshine total.
 
@@ -89,7 +89,7 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 **April** warms quickly (15°C average high, up from March's 12°C) and gets just over two more hours of daylight than March by mid-month. Two fixtures anchor the calendar: **The Boat Race, Sunday 11 April 2027**, and the **TCS London Marathon**, now run across **two days, Saturday 24 and Sunday 25 April 2027**. The Easter holidays run into the first nine days of the month before schools return.
 
 ![The elite women's field running past spectators and a brass band on a London street during the TCS London Marathon](../../assets/articles/best-time-to-visit-london/london-marathon-runners.jpg)
-*The elite women's race passing a brass band on the Marathon course in April.*
+*The Marathon's elite women's field.*
 
 **May** is one of the year's better-balanced months: 18°C average highs, 197 hours of sunshine, and two bank holidays bookending it (**3 and 31 May 2027**), the second running straight into the May half term (**31 May-4 June**). The **RHS Chelsea Flower Show** runs **18-22 May 2027**. In the ONS's most recent monthly figures (January to June 2024), May was the busiest month, with 3.91 million overseas visits to Great Britain.
 
@@ -100,7 +100,7 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 **July is the warmest and sunniest month of the year** — 24°C average high, 206 hours of sunshine — and Wimbledon's fortnight closes it out on **11 July 2027**. The BBC Proms run at the Royal Albert Hall from mid-July to the Last Night in September (**12 September** in 2026). The month's other quirk: school summer holidays don't start until the very end of it (**23 July 2027** in Camden), so most of July is still term-time.
 
 ![A doubles match on an outside grass court at Wimbledon, with the ivy-covered show court and its results boards behind](../../assets/articles/best-time-to-visit-london/wimbledon-championships-court.jpg)
-*Doubles on an outside court at Wimbledon, under the results boards for Centre and No.1 Court.*
+*Wimbledon, an outside court.*
 
 **August** is peak family-holiday season: the school summer holidays run for essentially the whole month, the summer bank holiday falls on **Monday 30 August 2027**, and **Notting Hill Carnival** runs that same bank holiday weekend — **Saturday 28 August** (the steel band competition), **Sunday 29 August** (Family Day: J'ouvert's early-morning parade through mud and paint, then the children's procession) and **Monday 30 August** (the main adults' parade). Weather holds close to July's (23°C average high) but with slightly more rain.
 
@@ -113,7 +113,7 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 **October** starts mild (16°C average high) and ends noticeably darker: the clocks go back on **Sunday 25 October 2026**, moving sunset from about 5.50pm the day before to 4.48pm overnight. Two fixtures dominate the middle of the month — the **BFI London Film Festival, 7-18 October 2026**, and **Frieze London and Frieze Masters, 14-18 October 2026** — then **half term, 26-30 October**, refills family attractions for the final week. Budget hotels priced at a median £113 for Sunday 11 October and £199.50 for Saturday 17 October. Our [October guide](/articles/things-to-do-in-london-in-october/) and [where to see autumn leaves](/articles/best-places-autumn-leaves-london/) cover the detail.
 
 ![A scarlet tree reflected in a pond in Isabella Plantation, Richmond Park, with yellow and orange trees around it](../../assets/articles/best-time-to-visit-london/richmond-park-autumn-foliage.jpg)
-*Autumn colour reflected in a pond in Isabella Plantation, Richmond Park.*
+*Isabella Plantation, Richmond Park.*
 
 **November is the wettest month (67mm) and one of the darkest**, with daylight down to under 9 hours by mid-month. **Bonfire Night falls on Thursday 5 November**, and **Hyde Park Winter Wonderland opens on 19 November 2026**, running to 3 January. In between, the [EFG London Jazz Festival](/articles/london-jazz-festival/) takes over 82 venues from **13 to 22 November**, with 19 of its concerts free — the month's answer to the weather. Beyond fireworks displays, it's one of the quieter months for crowds, with no half term and no bank holiday.
 

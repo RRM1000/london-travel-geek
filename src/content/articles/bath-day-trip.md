@@ -124,7 +124,7 @@ This is the reason to come, and its pricing moves on two axes at once: the day o
 
 ![The terrace above the Great Bath at the Roman Baths, its statues along the balustrade with Bath Abbey rising behind](../../assets/articles/bath-day-trip/roman-baths-terrace.jpg)
 
-*The terrace above the Great Bath, with Bath Abbey behind. Photo: Marvin Sacdalan, Pexels.*
+*The terrace above the Great Bath. Photo: Marvin Sacdalan, Pexels.*
 
 | Ticket, booked in advance, 1 Sep – 31 Oct 2026 | Weekday | Weekend / bank holiday |
 | --- | --- | --- |
@@ -211,7 +211,7 @@ Free for Discovery Card holders and BA1 and BA2 residents with proof of address;
 
 ![Pulteney Bridge and the curved weir on the River Avon, shops built along the length of the bridge](../../assets/articles/bath-day-trip/pulteney-bridge-weir.jpg)
 
-*Pulteney Bridge and the weir, free and two minutes from the Baths. Photo: yoldakocayanlaar uk, Pexels.*
+*Pulteney Bridge and the weir. Photo: yoldakocayanlaar uk, Pexels.*
 
 **These are free, and they are the best thing in Bath after the Baths.** The **Royal Crescent** is thirty Bath stone houses built between 1767 and 1775 to designs by John Wood the Younger; **the Circus**, by his father John Wood the Elder, came first, in 1754 to 1769, and **Queen Square** before that, in 1729 to 1734. Walk up from the Abbey through Queen Square, the Circus and Brock Street and you get all three in about fifteen minutes, finishing on the lawn in front of the Crescent.
 

@@ -55,7 +55,7 @@ Two stops from Baker Street on the Metropolitan, and on the Jubilee. You come ou
 
 ![Wembley Stadium's glass front and arch seen from the foot of the Olympic Steps, bollards across the plaza in the foreground](../../assets/articles/wembley-stadium-arena-guide/olympic-steps.jpg)
 
-*The Olympic Steps at the end of Olympic Way, the stadium's main approach.*
+*The Olympic Steps.*
 
 > ⚠️ **Lift works.** Until **autumn 2026** there is **no lift between the street and the ticket hall** on the Olympic Way side; step-free access is via the **Bridge Road entrance**. Lifts to the platforms are unaffected. The operators give different end dates for the work, so check TfL's station page on the day.
 
@@ -122,7 +122,7 @@ Prices are set per event. Quintain advertises stadium parking from £40 and aren
 
 ![The entrance to Green Parking at Wembley Park, a green sign over the mouth of a multi-storey car park and a yellow 4.8m height restriction sign](../../assets/articles/wembley-stadium-arena-guide/green-parking.jpg)
 
-*Green Parking takes coaches as well as cars, with a 4.8m height limit.*
+*Green Parking, Wembley Park.*
 
 > ⚠️ **Book early.** Blue Badge and wheelchair bays can sell out **more than two weeks ahead**, and EV bays sell out too. Refunds are only for cancellations **more than 72 hours** before, and never cover the booking fee.
 
@@ -260,7 +260,7 @@ To stay somewhere cheaper on a match night, our [Wembley hotel guide](/articles/
 
 ![The inside of Wembley Stadium during an evening England match, the pitch floodlit and the tiers full, seen from high in the upper bowl](../../assets/articles/wembley-stadium-arena-guide/wembley-stadium-interior.jpg)
 
-*Ninety thousand people arrive over two hours and try to leave in twenty minutes.*
+*Inside Wembley Stadium.*
 
 Everything here is a few minutes from both venues.
 
@@ -287,7 +287,7 @@ Everything here is a few minutes from both venues.
 
 ![Inside Boxpark Wembley: a long black bar under a high warehouse roof with a mirror ball, and diners at long tables along the windows](../../assets/articles/wembley-stadium-arena-guide/boxpark-wembley.jpg)
 
-*Inside Boxpark Wembley. On many stadium event days it becomes a ticketed Fanpark, closed to everyone else all day.*
+*Inside Boxpark Wembley.*
 
 **Boxpark Wembley often closes to the public on stadium event days**, becoming a ticketed **Fanpark** all day, not just in the evening. "We'll eat at Boxpark first" is the plan almost everyone makes, and it fails on the day you are going. Closures are listed only a few dates ahead, so **check [Boxpark's closures page](https://www.boxpark.co.uk/venues/wembley/blog/closures) against your event date.**
 
@@ -297,7 +297,7 @@ When it is open: **09:00 to 23:00 daily**, more than twenty kitchens — Zia Luc
 
 ![Greggs and Slim Chickens side by side on the ground floor of a modern block, with red umbrellas and outdoor tables in front](../../assets/articles/wembley-stadium-arena-guide/greggs-slim-chickens.jpg)
 
-*Greggs and Slim Chickens, next door to each other near the London Designer Outlet.*
+*Greggs and Slim Chickens.*
 
 Outside Boxpark, the quick options are **Greggs** and **Slim Chickens**, side by side near the outlet, plus **Five Guys** and **itsu** on the estate. Inside LDO there is **Nando's** (11:30–22:00 every day), **Subway** (from 06:00) and **Beirut Wonders** for shawarma and falafel.
 
@@ -305,7 +305,7 @@ On event days, temporary fast-food stalls go up outside the ground, and there ar
 
 ![The entrance to the London Designer Outlet at Wembley Park, with giant gold LDO letters standing on grass plinths in front of a red brick and glass frontage, Holland & Barrett and MOSS inside the doorway and an Amorino gelato shop to the right](../../assets/articles/wembley-stadium-arena-guide/london-designer-outlet.jpg)
 
-*The London Designer Outlet, ten minutes from Wembley Park station: over 70 stores, plus Las Iguanas, JRC Global Buffet, Frankie & Benny's, Afrikana and Big Moe's Diner.*
+*The London Designer Outlet.*
 
 ### The London Designer Outlet keeps normal hours
 
@@ -366,7 +366,7 @@ OVO Arena's kiosks do hot dogs, burgers, pizza and nachos, with bars for cocktai
 
 ![The White Horse pub on the ground floor of a tall apartment block on Wembley Park Boulevard, with outdoor tables and people walking past](../../assets/articles/wembley-stadium-arena-guide/white-horse.jpg)
 
-*The White Horse, five minutes from the stadium and two from the arena.*
+*The White Horse, Arena Square.*
 
 **On football days Brent allocates pubs to one set of fans or the other**, by the side of the stadium on your ticket, and pubs near the ground often admit only ticket holders for their team. The list changes each fixture and goes up on [Brent's event-days page](https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days). There are no allocations for concerts.
 

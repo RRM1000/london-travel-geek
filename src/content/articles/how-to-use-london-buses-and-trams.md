@@ -125,7 +125,7 @@ London Trams operate across South London surrounding **Croydon, Wimbledon, Becke
 
 ![A green, white and blue London tram travelling through the Croydon area.](../../assets/articles/london-buses-and-trams/croydon-tram.jpg)
 
-*A London Tram in the Croydon area. Photo: [Alex Noble](https://commons.wikimedia.org/wiki/File:20181023-Croydon-Trams-2535.jpg), released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+*A tram in Croydon. Photo: [Alex Noble](https://commons.wikimedia.org/wiki/File:20181023-Croydon-Trams-2535.jpg), released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 ### Tram Boarding & Fare Rules
 1. **Tap on the Platform:** Touch your Oyster or contactless card on the yellow reader at the tram stop **before stepping onto the tram**.

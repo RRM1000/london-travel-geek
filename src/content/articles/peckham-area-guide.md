@@ -86,11 +86,11 @@ Peckham has its own share of the commemorative plaques marking where notable peo
 
 ![The red canopy of Frank's Cafe on a Peckham car park roof, with the London skyline beyond](../../assets/articles/peckham-area-guide/franks-cafe.jpg)
 
-*Frank's, on the top floor of a multi-storey car park. Summer only, and the view is the entire point. Photo: [Loz Flowers](https://www.flickr.com/photos/99245765@N00/4800919009), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Frank's Cafe, on the car park roof. Photo: [Loz Flowers](https://www.flickr.com/photos/99245765@N00/4800919009), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ![The view from a high floor of the Peckham Levels car park, over terraced rooftops toward the City skyline](../../assets/articles/peckham-area-guide/peckham-levels.jpg)
 
-*Looking out from Peckham Levels, on the floors below Frank's. Open year round, unlike the rooftop above it.*
+*The view from Peckham Levels.*
 
 ## Key streets and micro-districts
 
@@ -102,7 +102,7 @@ The spine, and the reason to come. Loud, crowded, and the part of Peckham that h
 
 ![The tall blue frontage of Rye Lane Market at number 48, lit up at dusk](../../assets/articles/peckham-area-guide/rye-lane-market.jpg)
 
-*Rye Lane Market, at number 48 — over 60 units under one roof, open seven days.*
+*Rye Lane Market, at number 48.*
 
 **Cornerhouse** at 133A is the newer end of the street in one building: Tonkotsu for ramen, **Forza Wine on the roof**, a basement club, a coffee shop and co-working above.
 
@@ -110,7 +110,7 @@ Just off it, **Peckham Palms** on Bournemouth Close is the **UK's first hair and
 
 ![A hairdressing chair and wash basins inside Peckham Palms, against a bright blue wall](../../assets/articles/peckham-area-guide/peckham-palms.jpg)
 
-*Inside Peckham Palms, the UK's first hair and beauty hub built for Afro hair.*
+*Inside Peckham Palms.*
 
 <div data-stay-strip></div>
 
@@ -120,7 +120,7 @@ Off the east side of Rye Lane through **Bussey Alley**, 150 metres from the stat
 
 ![The brick exterior of the Bussey Building, with BUSSEY BUILDING and COPELAND PARK painted signs](../../assets/articles/peckham-area-guide/the-bussey-building.jpg)
 
-*The Bussey Building, a former cricket bat factory, off Rye Lane through Bussey Alley.*
+*The Bussey Building.*
 
 **The Bussey Rooftop Bar** is the anchor and it runs **year round**, not just in summer — from 5pm on weekdays and midday at weekends, free to walk in, dogs welcome, under-18s until 7pm. There is shelter and there are heaters, so bookings go ahead in the rain, and the drinks come in reusable polycarbonate rather than glass because there are homes below. It is **not wheelchair accessible**.
 
@@ -134,7 +134,7 @@ West of Rye Lane and a complete contrast: quiet, low-rise, Victorian, and where 
 
 ![A large mural of a fox painted on the side of a building on Bellenden Road, against a blue sky](../../assets/articles/peckham-area-guide/bellenden-road.jpg)
 
-*A mural on Bellenden Road, a few minutes' walk from the noise of Rye Lane.*
+*A mural on Bellenden Road.*
 
 **Look at the bollards.** When Southwark ran a street-improvement scheme here from 1997 it commissioned the artists who happened to live locally: **Antony Gormley designed the bollards and street furniture**, and **Tom Phillips did the lampposts and mosaics**. Almost nobody walking down the street knows they are passing a Gormley, and there is no sign telling them.
 
@@ -154,7 +154,7 @@ The **South London Gallery** is the reason to walk up. It is **free**, and it is
 
 ![The red-brick Victorian facade of the South London Gallery on Peckham Road, with a banner reading South London Gallery and free entry](../../assets/articles/peckham-area-guide/south-london-gallery.jpg)
 
-*The South London Gallery's Victorian main building on Peckham Road — one of two sites, 120 metres apart.*
+*The South London Gallery, on Peckham Road.*
 
 **It is closed Mondays and Tuesdays.** Wednesday runs late to 9pm; Thursday to Sunday it is midday to 6pm. The **café is open more days than the galleries are**, and the **Orozco Garden behind is weekends only, midday to 6pm** — a detail that catches people who come specifically for it.
 
@@ -166,7 +166,7 @@ South towards the park, more residential, and where the area calms down. **Peckh
 
 ![A wide grass common dotted with groups of people sitting and picnicking under trees on a sunny day](../../assets/articles/peckham-area-guide/peckham-rye-park-and-common.jpg)
 
-*The Common on a sunny weekend — mown, flat, and where the area actually spends its Saturdays.*
+*Peckham Rye Common, on a sunny weekend.*
 
 The park half has the things worth walking to: a **community wildlife garden** with beehives and a pond, a restored **fernery**, a skate park, an outdoor gym and an adventure playground. It has held a Green Flag every year since 2007. **Opening is 7.30am to dusk**, and dusk here means 5pm in January and 9.30pm in July — check the month rather than assuming.
 
@@ -176,7 +176,7 @@ The street called **Peckham Rye**, facing the Common, has the neighbourhood end 
 
 ![The bright pink Peckhamplex cinema frontage, advertising a flat price for every ticket](../../assets/articles/peckham-area-guide/peckhamplex.jpg)
 
-*Peckhamplex. Every ticket, every showing, is £6.99, in the same car park as Frank's and Peckham Levels. Photo: [Rhagfyr](https://commons.wikimedia.org/w/index.php?curid=144499998), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+*Peckhamplex. Photo: [Rhagfyr](https://commons.wikimedia.org/w/index.php?curid=144499998), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -198,11 +198,11 @@ Peckham eats well and cheaply. This is a selection — see the [full restaurant 
 
 ![A banh mi sandwich and a green papaya-style salad laid out on a table at Lai Rai, with steel cups](../../assets/articles/peckham-area-guide/lai-rai.jpg)
 
-*Lai Rai, on Rye Lane — the only Michelin Bib Gourmand for Vietnamese cooking in the UK and Ireland.*
+*Lai Rai, on Rye Lane.*
 
 ![The grey-awninged frontage of Peckham Cellars on Queens Road, with outdoor benches and olive trees](../../assets/articles/peckham-area-guide/peckham-cellars.jpg)
 
-*Peckham Cellars on Queens Road — a shop as well as a bar.*
+*Peckham Cellars, on Queens Road.*
 
 ## Suggested two-hour walking route
 

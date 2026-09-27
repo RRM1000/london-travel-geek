@@ -97,7 +97,7 @@ Genesis is the cheapest standard adult ticket in London from Monday to Wednesday
 
 ![The purple and pink frontage of Peckhamplex cinema in Peckham, with its listings board and film posters](../../assets/articles/cinema-deals-london/peckhamplex-exterior.jpg)
 
-*Peckhamplex has been south London's cheap cinema for years, though the headline price has crept up — it is £6.99 plus a 60p booking fee now, not the £5.99 still painted on the board.*
+*Peckhamplex, Peckham.*
 
 ---
 

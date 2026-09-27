@@ -73,7 +73,7 @@ The Mile runs north out of Shoreditch, which makes it an easy evening bolted ont
 
 ![A clay pot of caramel-braised fish topped with sliced red chilli and spring onion, photographed from above on a white plate](../../assets/articles/best-vietnamese-restaurants-london/song-que-clay-pot.jpg)
 
-*Braised in a clay pot until the sauce is almost black, then finished with raw chilli and spring onion. Southern cooking, which is what the strip mostly serves.*
+*Sông Quê's clay pot fish.*
 
 A bright green corner site that has drawn **queues since 2002**, family-run, with recipes from the owner Mrs Ánh Phạm. The cooking is **southern** — sweeter and herbier than the northern style — and the menu is long enough to be daunting on a first visit.
 
@@ -85,7 +85,7 @@ Eight sources name it, including both YouTube channels in this pass and Thuy Hoa
 
 ![A bowl of clear Vietnamese noodle soup with prawns, squid, spring onion and herbs, on a wooden table with chopsticks alongside](../../assets/articles/best-vietnamese-restaurants-london/viet-grill-noodle-soup.jpg)
 
-*A seafood noodle soup at Việt Grill. The bánh cuốn is the order the regulars come for, but the broths are not an afterthought.*
+*A seafood noodle soup at Việt Grill.*
 
 From **Hiếu Nguyễn**, who is also behind Cây Tre in Soho and the Kêu bánh mì shops — so three of the names on this page come from one operator, which is worth knowing before you treat them as independent recommendations.
 
@@ -113,7 +113,7 @@ The family are from the Mekong Delta and the menu follows the river: the **Mekon
 
 ![A banh mi sandwich and a green papaya-style salad laid out on a table at Lai Rai, with steel cups](../../assets/articles/best-vietnamese-restaurants-london/lai-rai.jpg)
 
-*Bánh mì at Lai Rai — the room a Michelin jury picked rather than the one the Mile made famous.*
+*Bánh mì at Lai Rai.*
 
 The name means "little by little", and the kitchen builds a meal that way: **prawn lollies on sugarcane with fragrant young rice, £4 each**, a grilled pork neck skewer with lemongrass and toasted coriander for the same, **crispy chicken thigh with a fresh herb sauce at £9**, mussels in a coconut and lemongrass broth at £18. By day it is a **bánh mì** counter instead — soy-braised pork belly with yolk sauce and pickled mustard greens, £12, with Vietnamese coffee at £5 — but only from noon to 3pm on Friday, Saturday and Sunday.
 
@@ -127,7 +127,7 @@ It is barely covered by the London lists, which is the interesting part: the jud
 
 ![Steamed rice rolls topped with crisp fried shallots on a black oval plate, with a bowl of dipping sauce and a pile of shredded herbs beside them](../../assets/articles/best-vietnamese-restaurants-london/pho-thuy-tay-rice-rolls.jpg)
 
-*Steamed rice rolls under a heap of crisp fried shallots, with the dipping sauce alongside rather than poured over.*
+*Rice rolls at Phở Thúy Tây.*
 
 Chef patron **Thúy Nguyễn's parents ran a phở stand in Hanoi**, and she opened here in 2014 out of dissatisfaction with how Vietnamese food was being cooked in Britain. The room is café-style and unpretentious; most of the customers are Vietnamese.
 

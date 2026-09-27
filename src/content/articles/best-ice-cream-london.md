@@ -84,7 +84,7 @@ Open to **midnight on Fridays and Saturdays**, which makes it one of the few gen
 
 ![Two Gelupo tubs on a blue counter, each topped with a wafer stamped with the shop's wolf logo, beside a Gelupo card](../../assets/articles/best-ice-cream-london/gelupo.jpg)
 
-*Across the road from its own restaurant, Bocca di Lupo, and the wafer carries the wolf. The ricotta and sour cherry is the one to get.*
+*Gelupo, Soho.*
 
 ### Romeo & Giulietta, Stoke Newington
 
@@ -98,7 +98,7 @@ A Stoke Newington gelateria run by two Italians who make everything on site in s
 
 ![A cone with a dark chocolate-dipped shell and pink gelato, beside a raspberry milkshake and a latte on a dark windowsill with white tulips](../../assets/articles/best-ice-cream-london/romeo-and-giulietta.jpg)
 
-*Two Italians making everything on site in small batches. The base is proper custard gelato rather than the whipped stuff, which is why it holds its shape on a cone like this.*
+*A cone at Romeo & Giulietta.*
 
 ### Nardulli, Clapham
 
@@ -112,7 +112,7 @@ The detail that matters more than the queue: it is busy **in December**. A summe
 
 ![Two cones held over the pavement outside the shop, one pistachio and one a chocolate and cream swirl, with blue café chairs behind](../../assets/articles/best-ice-cream-london/nardulli.jpg)
 
-*Pistachio is the consensus order and this is it, eaten on The Pavement where the queue forms. The chairs behind are Clapham Common.*
+*Pistachio at Nardulli.*
 
 ### Badiani 1932, twelve London shops
 
@@ -126,7 +126,7 @@ Widest footprint of any serious operator in the city, so there is usually one ne
 
 ![Badiani tubs of gelato with branded wafer discs, the pale cream Buontalenti in the centre of the group](../../assets/articles/best-ice-cream-london/badiani.jpg)
 
-*The pale one in the middle is the Buontalenti — cream, sugar and essentially nothing else. Everything around it is good; that is the one to order.*
+*The Buontalenti at Badiani.*
 
 ### Unico Gelato, Holland Park
 
@@ -140,7 +140,7 @@ The **pistachio** uses Bronte DOP pistachios and the **hazelnut** uses Piedmont 
 
 ![Three hands each holding an elaborately built cone — pistachio, berry with chocolate, and chocolate with chopped hazelnut — against a white background](../../assets/articles/best-ice-cream-london/unico-gelato.jpg)
 
-*The pistachio is Bronte DOP and the hazelnut Piedmont IGP, which is the difference between a nut flavour and a nut.*
+*Pistachio and hazelnut cones at Unico Gelato.*
 
 ### Oddono's, South Kensington
 
@@ -154,7 +154,7 @@ The gelateria that has been the South Kensington standard for two decades, and t
 
 ![A double cone held up in front of the blue Oddono's shopfront, its sign reading Fresh Natural Gelato](../../assets/articles/best-ice-cream-london/oddonos.jpg)
 
-*The Bute Street original, which is the one with the queue. Judge it on the pistachio and the fior di latte — the plain milk flavour is the hardest to hide behind.*
+*Oddono's, Bute Street.*
 
 ### La Gelatiera, Covent Garden
 
@@ -186,7 +186,7 @@ They supply Michelin-starred Trinity in Clapham and Fortnum & Mason, which is th
 
 ![A deep pink fruit sorbet heaped in a tub printed "We are the Ice Cream Union", held against a black background](../../assets/articles/best-ice-cream-london/ice-cream-union.jpg)
 
-*The Times called this the best in the UK in July 2025. The fruit juices and ripple sauces are made in-house rather than bought in, which is where a colour like that comes from.*
+*Ice Cream Union's fruit sorbet.*
 
 ### Caliendo's, Kentish Town counter
 
@@ -227,7 +227,7 @@ The range is broad and changes constantly — **honeycomb, salted caramel** and 
 
 ![A tub of whipped ice cream loaded with nut brittle and banana slices, held over the shop's counter pans](../../assets/articles/best-ice-cream-london/udderlicious.jpg)
 
-*Made in small batches on site, over the pans it is made for. The specials rotate constantly, so the board rarely reads the same twice.*
+*Udderlicious, Islington.*
 
 ### Crosstown
 
@@ -255,7 +255,7 @@ Two honest notes. This is the most social-media-driven place on the page — the
 
 ![A bilog cut in half on a wooden tray — a toasted milk bun filled with bright purple ube ice cream and dusted with icing sugar](../../assets/articles/best-ice-cream-london/mamasons-bilog.jpg)
 
-*The bilog: ube in a toasted pandesal bun, dusted with icing sugar. The colour is the purple yam rather than anything added, and it is the first thing to sell out.*
+*A bilog at Mamasons.*
 
 ### Festok, Marylebone
 
@@ -269,7 +269,7 @@ The **pistachio** is the headline and is made with real pistachio paste rather t
 
 ![Two scoops of pistachio-flecked gelato served in a kunafa pastry cup, showered with crushed pistachios on patterned paper](../../assets/articles/best-ice-cream-london/festok.jpg)
 
-*Served in kunafa, with the pistachios added at the counter. Nothing else in this guide looks like it, which is the argument for the trip to Weymouth Street.*
+*Pistachio gelato in kunafa at Festok.*
 
 ---
 

@@ -129,7 +129,7 @@ You also get a good look at the circle from the **A303** as you drive past. You 
 
 ![Close view of Stonehenge's sarsen trilithons, the lintels balanced on their uprights against the sky](../../assets/articles/stonehenge-day-trip/stonehenge-stones.jpg)
 
-*The trilithons. On a normal ticket the visitor path brings you within about 5m of them. Photo: Daria Agafonova, Pexels.*
+*The trilithons. Photo: Daria Agafonova, Pexels.*
 
 **During opening hours nobody goes inside the stones.** The archaeology sits just under the turf and the lichens on the stones are fragile, so the visitor path is the whole of it — a one-way circuit all the way round, hard-standing and grass, closest approach about 5m.
 

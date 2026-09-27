@@ -94,7 +94,7 @@ Bermondsey has its own share of the commemorative plaques marking where notable 
 
 ![The iron walkways spanning the narrow brick canyon of Shad Thames, in black and white](../../assets/articles/bermondsey-area-guide/shad-thames.jpg)
 
-*Shad Thames. The overhead walkways moved sacks of spice between warehouses; the buildings are flats now, the bridges left in place. Photo: [Rob Oo](https://commons.wikimedia.org/w/index.php?curid=152631540), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Shad Thames. Photo: [Rob Oo](https://commons.wikimedia.org/w/index.php?curid=152631540), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Key streets and micro-districts
 
@@ -138,9 +138,9 @@ It was the largest warehouse complex on the Thames and handled most of London's 
 
 ![Counters and communal tables inside the Tower Bridge Collective food hall on Horselydown Lane](../../assets/articles/bermondsey-area-guide/tower-bridge-collective.jpg)
 
-*Tower Bridge Collective on Horselydown Lane, open since October 2025. Thirteen independent kitchens and the cheapest eating anywhere near Tower Bridge.*
+*Tower Bridge Collective, Horselydown Lane.*
 
-*Shad Thames. The gantries were working bridges — porters wheeled tea, coffee and spices across them between the warehouses, which is why they are at every floor rather than just one.*
+*Shad Thames.*
 
 ### The Beer Mile arches
 
@@ -164,7 +164,7 @@ The southern end of Bermondsey Street, and a modern square built on the site of 
 
 ![The orange and pink exterior of the Fashion and Textile Museum on Bermondsey Street](../../assets/articles/bermondsey-area-guide/fashion-and-textile-museum.jpg)
 
-*The Fashion and Textile Museum, painted orange and pink by the Mexican architect Ricardo Legorreta. Impossible to walk past. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3612012652), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Fashion and Textile Museum. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3612012652), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bermondsey-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

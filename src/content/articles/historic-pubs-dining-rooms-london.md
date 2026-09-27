@@ -76,7 +76,7 @@ The single most atmospheric room on this page, and the easiest to walk past — 
 
 ![The black frontage and hanging sign of Ye Olde Cheshire Cheese off Fleet Street](../../assets/articles/historic-pubs-dining-rooms-london/ye-olde-cheshire-cheese.jpg)
 
-*Rebuilt in 1667 after the Great Fire. A warren of dark rooms down an alley, and Dickens drank here. Photo: [Adam Bruderer](https://www.flickr.com/photos/50191609@N00/9622652945), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The alley entrance to Ye Olde Cheshire Cheese. Photo: [Adam Bruderer](https://www.flickr.com/photos/50191609@N00/9622652945), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### The Town of Ramsgate, Wapping
 
@@ -89,8 +89,6 @@ The cellar was reputedly used to hold convicts before transportation to Australi
 **££, walk-in.** Standard pub food rather than a dining room. **The river terrace is tiny and the reason to come** — go in daylight and at low tide, when the foreshore is walkable.
 
 ![A handful of tables on the Town of Ramsgate's narrow river terrace at dusk, with the Thames beyond](../../assets/articles/historic-pubs-dining-rooms-london/the-town-of-ramsgate-river-terrace.jpg)
-
-*A handful of tables and a string of lights are all that separate the terrace from the water.*
 
 ### The Grapes, Limehouse
 
@@ -114,7 +112,7 @@ Pepys and Dickens both drank here; Turner sketched from it. There is a noose han
 
 ![The black and gold frontage of the Prospect of Whitby on Wapping Wall, with a chalkboard naming its Devil's Tavern history](../../assets/articles/historic-pubs-dining-rooms-london/the-prospect-of-whitby-frontage.jpg)
 
-*A painted panel by the door lists the monarchs who have reigned since the pub's earliest years.*
+*The Prospect of Whitby's frontage.*
 
 ---
 
@@ -132,7 +130,7 @@ When the tide is high the pub is cut off and the staff hand out boots to anyone 
 
 ![Drinkers at riverside tables outside the White Cross in Richmond, with the Thames lapping close to their feet](../../assets/articles/historic-pubs-dining-rooms-london/the-white-cross-flooded-terrace.jpg)
 
-*Boat trips still leave from the jetty beside the pub when the water allows it.*
+*The White Cross, flooded at high tide.*
 
 ### The Captain Kidd, Wapping
 
@@ -155,7 +153,7 @@ No river view, no terrace, no dining room: two small bars, a dartboard and local
 **£, walk-in and cash-friendly.** No kitchen — crisps and nuts only, so eat at one of the riverside places five minutes away. Come for the contrast: this is what they all looked like before the money arrived.
 
 ![The frontage of the Turner's Old Star pub in Wapping in autumn](../../assets/articles/historic-pubs-dining-rooms-london/turner-s-old-star.jpg)
-*Turner supposedly kept a mistress here. A proper backstreet local, off the tourist stretch of Wapping. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2468561619), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Turner's Old Star, Wapping. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2468561619), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
 ---
@@ -178,7 +176,7 @@ It is the most extravagant building in this guide by some way and the cheapest p
 
 ![The marble-columned former banking hall of the Crosse Keys, now a Wetherspoons, with a circular bar in the centre](../../assets/articles/historic-pubs-dining-rooms-london/the-crosse-keys-banking-hall.jpg)
 
-*A protective net is strung beneath the original plaster ceiling.*
+*The Crosse Keys' banking hall.*
 
 ### Hamilton Hall, Liverpool Street
 
@@ -194,7 +192,7 @@ Grade II listed and reopened after a long refurbishment, with the ballroom decor
 
 ![The gilded ballroom ceiling and chandeliers of Hamilton Hall at Liverpool Street station](../../assets/articles/historic-pubs-dining-rooms-london/hamilton-hall-ballroom.jpg)
 
-*The plasterwork above the bar shows cherubs driving chariots, part of the original ballroom scheme.*
+*Hamilton Hall's ballroom ceiling.*
 
 ### The Ledger Building, Canary Wharf
 
@@ -222,7 +220,7 @@ The **old Westminster Library**, Grade II listed, with the bookshelves still in 
 
 ![The double-height former Westminster Library dining room at the Cinnamon Club, with bookshelves lining both levels](../../assets/articles/historic-pubs-dining-rooms-london/the-cinnamon-club-library.jpg)
 
-*Two glazed skylights light the room where the library's borrowers once read.*
+*The Cinnamon Club's library dining room.*
 
 ### Sessions Arts Club, Clerkenwell
 
@@ -236,7 +234,7 @@ The room is on the top floor of the old Clerkenwell Sessions House, reached by a
 
 ![The deliberately unrestored dining room at Sessions Arts Club, with peeling plaster walls and a piano by the window](../../assets/articles/historic-pubs-dining-rooms-london/sessions-arts-club-dining-room.jpg)
 
-*A piano stands in the front room, though the peeling plaster and bare ceiling are original to the old courthouse.*
+*Sessions Arts Club's dining room.*
 
 ### Ye Olde Cheshire Cheese and the pub dining rooms
 
@@ -270,7 +268,7 @@ Built around 1875 and remodelled in 1905 and 1917 by H. Fuller Clark with sculpt
 
 ![The gold mosaic ceiling and bronze relief friars inside the Blackfriar, with carved mottoes set into the marble walls](../../assets/articles/historic-pubs-dining-rooms-london/the-blackfriar-mosaic-ceiling.jpg)
 
-*Mottoes such as "silence is golden" and "finery is foolery" are picked out in the marble alongside the frieze of jovial friars.*
+*The Blackfriar's mosaic frieze.*
 
 ### The George, Southwark
 
@@ -286,7 +284,7 @@ The current building dates precisely to **1676–77**, put up immediately after 
 
 ![The galleried courtyard of the George Inn in Southwark, with barrels for tables and the Parliament Bar sign](../../assets/articles/historic-pubs-dining-rooms-london/the-george-courtyard.jpg)
 
-*The cobbled yard is the pub's biggest room in summer: barrels for tables, under the surviving gallery.*
+*The George's galleried courtyard.*
 
 ### The Guinea, Mayfair
 
@@ -310,7 +308,7 @@ The cellars are widely sold as Newgate Prison cells. Newgate did stand across th
 
 ![The ornate red moulded ceiling and gilt mirrors inside the Viaduct Tavern's Victorian gin palace interior](../../assets/articles/historic-pubs-dining-rooms-london/the-viaduct-tavern-gin-palace.jpg)
 
-*The moulded ceiling runs the length of the bar in deep red and gilt, an original feature of the 1870s gin palace.*
+*The Viaduct Tavern's gin palace interior.*
 
 ### Ye Olde Mitre, Holborn
 
@@ -322,7 +320,7 @@ A Fuller's pub, and **food is bar snacks and toasties only**, so come for a pint
 
 ![The painted hanging sign of Ye Olde Mitre showing a bishop's mitre and the date 1546](../../assets/articles/historic-pubs-dining-rooms-london/ye-olde-mitre.jpg)
 
-*The sign in Ely Court, carrying the mitre and the 1546 date. It is the only thing marking the alley, and easy to walk past twice. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4224779897), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Ye Olde Mitre's hanging sign. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4224779897), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### The Seven Stars, Holborn
 
@@ -356,7 +354,7 @@ Be clear about what the building is: put up around 1780 as the Shippe Inn, bomb-
 
 ![Roast dinners on the jetty terrace at the Mayflower in Rotherhithe, with the City of London skyline across the Thames](../../assets/articles/historic-pubs-dining-rooms-london/the-mayflower-river-terrace.jpg)
 
-*From the terrace railing, the view reaches upriver as far as the City skyline.*
+*The Mayflower's river terrace.*
 
 ### The Spaniards Inn, Hampstead
 
@@ -368,7 +366,7 @@ The Dick Turpin stories attached to it are folklore — he was born in Essex and
 
 ![The busy garden at the Spaniards Inn in Hampstead, with stone flower urns and the white weatherboarded pub behind](../../assets/articles/historic-pubs-dining-rooms-london/the-spaniards-inn-garden.jpg)
 
-*Stone urns and mature trees fill the garden alongside the weatherboarded building.*
+*The Spaniards Inn's garden.*
 
 **Proper pub food and one of the better Sunday roasts in north London**, in a 1585 inn with a garden that is the reason to come in summer. Walk-in, but **book for Sunday** — it is the obvious end point for a Hampstead Heath walk and the whole of north London knows it.
 

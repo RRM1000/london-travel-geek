@@ -86,7 +86,7 @@ No masthead guide has got round to it.
 
 ![A large battered fillet and thick-cut chips on a white plate at Brockley's Rock, with a lemon wedge, a side salad and tartare sauce](../../assets/articles/best-fish-and-chips-london/brockleys-rock.jpg)
 
-*The plate the National Federation of Fish Friers shortlisted: MSC cod, chips cut thick, and the tartare sauce it is known locally for.*
+*The plate at Brockley's Rock.*
 
 ### Stones Fish and Chips, Acton
 
@@ -100,7 +100,7 @@ The thing that earns the awards is the sourcing: **hake alongside cod while cod 
 
 ![A close-up of a battered fillet broken open at Stones Fish and Chips, showing white flakes inside a crisp golden crust, beside thick hand-cut chips](../../assets/articles/best-fish-and-chips-london/stones-fish.jpg)
 
-*Broken open, which is the test. The batter holds its shape as a shell and the fish inside is still in flakes rather than steamed to mush.*
+*The fillet at Stones Fish and Chips.*
 
 
 > **The award publishes almost nothing.** There is no winners page on the awards site and no archive of past results — the forty-shop shortlist had to be read from a news report, and only the ten-shop final is on the federation's own site. The February 2026 ceremony has been and gone without a public record of who won. That is a gap in the category, not in this guide.
@@ -183,7 +183,7 @@ Sustainably sourced cod and haddock in a light batter, hand-cut chips fried in g
 
 ![A long battered fillet and chips on a plate at Golden Union, with a lemon wedge, chopped parsley and a pot of tartare sauce on the table](../../assets/articles/best-fish-and-chips-london/golden-union.jpg)
 
-*Sit-down portions rather than a paper wrap, and close enough to Shaftesbury Avenue to do it properly before a curtain-up.*
+*The fillet and chips at Golden Union.*
 
 ### Masters Superfish, Waterloo
 
@@ -338,7 +338,7 @@ The **Mayfair Classic** is the order: a large battered fillet with chips, mushy 
 
 ![The Mayfair Classic served in a metal frying basket lined with branded paper, with chips, lemon, and pots of tartare sauce, mushy peas and curry sauce alongside](../../assets/articles/best-fish-and-chips-london/mayfair-chippy.jpg)
 
-*The Mayfair Classic, plated in a basket with the sauces in their own pots.*
+*The Mayfair Classic.*
 
 ### The Golden Chippy, Greenwich
 

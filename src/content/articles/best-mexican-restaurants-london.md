@@ -72,7 +72,7 @@ No avocados, no Mexican chillies flown in. Instead: **Cornish lobster in a chill
 **££££, closed Sunday and Monday, and it books months ahead.** The mezcal bar downstairs takes walk-ins and is worth knowing about on its own.
 
 ![A clay bowl of shredded meat with herbs and pickled onion](../../assets/articles/best-mexican-restaurants-london/kol.jpg)
-*Mexican technique applied strictly to British ingredients — no imported produce, which is the whole conceit. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/51604595625), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*A dish at Kol. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/51604595625), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 
 ### Cavita, Marylebone
@@ -165,7 +165,7 @@ Sourcing that specific tells you the masa is made from scratch daily. The scallo
 
 ![Sliced meat with pineapple on a corn tortilla](../../assets/articles/best-mexican-restaurants-london/zapote.jpg)
 
-*Mexican cooking in Hackney with the corn treated as the main event rather than the wrapper. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53436663110), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Tacos at Zapote. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53436663110), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Sonora Taquería, Stoke Newington
 
@@ -233,7 +233,7 @@ The cheapest Mexican food in London is also some of the best, and most of it is 
 
 ![Three birria tacos on a plate with a cup of consomme, guacamole and a lime wedge](../../assets/articles/best-mexican-restaurants-london/guacamoles.jpg)
 
-*Birria tacos and the consommé to dip them in — the order at Guacamoles.*
+*Birria tacos at Guacamoles.*
 
 **£, walk-in.** Order the consommé; eating birria without it misses the point.
 
@@ -248,7 +248,7 @@ Nixtamalisation is the process of cooking dried corn in an alkaline solution bef
 **££, walk-in, closed Monday.** Market hours only — it is shut by evening, so this is lunch.
 
 ![Two tacos on corn tortillas with salsa and coriander](../../assets/articles/best-mexican-restaurants-london/tacos-padre.jpg)
-*Borough Market. They nixtamalise their own corn on site, which almost nobody else in London does. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/50251889493), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Tacos at Tacos Padre, Borough Market. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/50251889493), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 
 ### Taquiza, Peckham

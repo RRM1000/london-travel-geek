@@ -66,28 +66,28 @@ For full pricing details, peak hours, and Travelcard comparisons, read our compl
 
 ![The Underground roundel and station name sign on the platform wall at Great Portland Street](../../assets/articles/london-underground/great-portland-street-roundel.jpg)
 
-*Every platform repeats the station name inside the roundel. It is the quickest way to confirm where you are when a train pulls in.*
+*The roundel at Great Portland Street.*
 
-Look for the famous red-and-blue Underground roundel outside. Touch your card or device flat against the **yellow reader** on the right side of the ticket barrier. Wait for the green light and a single chime before walking through. Use the wider gates if carrying large luggage or a stroller.
+Look for the famous red-and-blue Underground roundel outside — every platform repeats the station name inside it, the quickest way to confirm where you are when a train pulls in. Touch your card or device flat against the **yellow reader** on the right side of the ticket barrier. Wait for the green light and a single chime before walking through. Use the wider gates if carrying large luggage or a stroller.
 
 ### Step 2: Follow the colour-coded line signs
-Inside the station, follow the overhead signs matching your line's colour. Directional signs indicate the compass heading and final destination (e.g. *"Piccadilly line Eastbound towards Cockfosters"*).
+Inside the station, follow the overhead signs matching your line's colour. Directional signs indicate the compass heading and final destination (e.g. *"Piccadilly line Eastbound towards Cockfosters"*). You do not need to know which compass direction you want — the sign lists every station on that platform's line, so find your stop in one of the two lists and take that platform.
 
 ![Two Jubilee line direction signs at Waterloo, one reading Eastbound platform 6 and one Westbound platform 5, each listing every station in that direction, with a Night Tube panel below](../../assets/articles/how-to-use-the-london-underground/waterloo-jubilee-direction-signs.jpg)
 
-*Jubilee line signs at Waterloo. **You do not need to know which compass direction you want — the sign lists every station on that platform's line.** Find your stop in one of the two lists and take that platform. Here, eastbound platform 6 runs to Stratford via London Bridge and Canary Wharf; westbound platform 5 runs to Stanmore via Westminster and Baker Street.*
+*Jubilee line signs, Waterloo.*
 
 ### Step 3: Check the platform display
 
 ![A sub-surface line train waiting at the tiled platform at Great Portland Street station](../../assets/articles/london-underground/great-portland-street-platform.jpg)
 
-*Great Portland Street, one of the original 1863 cut-and-cover stations. The wide, shallow tunnels here are shared by the Circle, Hammersmith & City and Metropolitan lines.*
+*Great Portland Street station.*
 
 Electronic digital displays on the platform show the destination and arrival time of upcoming trains. 
 
 ![A dot matrix indicator above a Jubilee line platform at Waterloo reading 1 Stanmore 2 mins and 3 Stanmore 5 mins, above a train behind platform edge doors](../../assets/articles/how-to-use-the-london-underground/waterloo-jubilee-platform-display.jpg)
 
-*The display gives the destination first and the wait second — here two trains to Stanmore, two and five minutes away. **The destination is the part that matters**, because it tells you which branch the train takes. The glass platform edge doors are particular to the Jubilee line's 1999 extension; most of the network has an open platform edge.*
+*A platform display at Waterloo.*
 > 🛑 **Check the Branch:** Lines like the Northern, District, and Piccadilly lines split into multiple branches. Always verify the train's destination on the platform display screen before boarding!
 
 ### Step 4: Boarding & train etiquette
@@ -149,9 +149,11 @@ Standard off-peak fares apply, and night journeys count towards the previous day
 ### Weekend Engineering Work
 TfL frequently performs track maintenance and signaling upgrades over weekends. Before heading out on Saturday or Sunday—especially for airport flights or theatre shows—check the [TfL Planned Closures Page](https://tfl.gov.uk/status-updates/planned-track-closures) or use the **TfL Go App**.
 
+**Changing between King's Cross St Pancras and the main line stations** is via the King's Cross Lightwall pedestrian tunnel — the quickest route between the two, though the signage is easy to miss. Follow signs for St Pancras International rather than heading back up to street level.
+
 ![A long curving pedestrian tunnel lined with a colour-changing light wall, linking King's Cross and St Pancras](../../assets/articles/how-to-use-the-london-underground/kings-cross-lightwall-tunnel.jpg)
 
-*The King's Cross Lightwall, on the pedestrian tunnel between King's Cross St Pancras Tube and the main line stations. It is the quickest way between the two and the signage is easy to miss — follow signs for St Pancras International rather than trying to go back up to street level.*
+*The King's Cross Lightwall.*
 
 ---
 

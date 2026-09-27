@@ -80,7 +80,7 @@ Three restaurants have been judged rather than written about. Two bodies inspect
 
 ![An overhead spread on a dark wooden table: a plate of red-spiced devilled meat with curry leaves and green chilli, a bowl of curry-leaf crisps, two clay pots of sambol, and a folded godhamba roti with a pot of curry sauce](../../assets/articles/best-sri-lankan-restaurants-london/hoppers-devilled-and-roti.jpg)
 
-*Devilled, sambols and a folded godhamba roti. The kottu and the hoppers are the other half of the menu.*
+*Devilled meats and roti at Hoppers.*
 
 Order the **egg hopper**, a fermented rice-and-coconut batter swirled round a curved pan until it is lacy at the rim, with an egg set into the base. Then **mutton rolls with chilli ketchup** — shredded lamb in mashed potato, crumbed and deep-fried — and the **black pork kari**, a dry curry darkened with goraka, a smoked sour fruit that gives it a tang no other spice does. The lamb shoulder buriani feeds a table.
 
@@ -96,7 +96,7 @@ Order the **egg hopper**, a fermented rice-and-coconut batter swirled round a cu
 
 ![An overhead table of shared dishes: a whole fish crusted dark brown on a banana leaf with lime, a wide bowl of pale coconut curry topped with red chillies, two bowls of white rice, a plate of charred pieces with red onion and watercress, and a metal pot of curry under a heap of crisp fried shallots](../../assets/articles/best-sri-lankan-restaurants-london/rambutan-sharing-table.jpg)
 
-*Everything lands at once and over rice, to share across the table rather than as a plate each.*
+*Rambutan's sharing table.*
 
 Cynthia Shanmugalingam was born in Coventry to Sri Lankan Tamil parents and the menu comes from Jaffna in the north by way of her mother's kitchen, cooked over an **aduppu** — an open wood fire — behind the counter. Order the **gundu dosas**, golden fritter-balls served with coriander sambol, and the **Jaffna crab curry**, a whole Dorset crab you take apart with your hands. Northern prawns come cooked in the shell in tamarind, with roti to mop up.
 
@@ -112,7 +112,7 @@ Cynthia Shanmugalingam was born in Coventry to Sri Lankan Tamil parents and the 
 
 ![A narrow dining room: a tan leather banquette down an exposed brick wall, terrazzo table tops with bentwood chairs, woven rattan pendant shades, and on the other side a long wooden counter of black stools facing an open kitchen behind green tiling](../../assets/articles/best-sri-lankan-restaurants-london/kolamba-dining-room.jpg)
 
-*The kitchen is open to the room, and the counter in front of it is the part kept for walk-ins.*
+*Kolamba's dining room.*
 
 **Vaira's jaggery beef**, marinated overnight in palm sugar and spice and cooked slowly the next day, is the dish everyone orders. Beside it, **hot butter cuttlefish**, a pineapple fry with curry leaves and shallots, and **parippu** — red lentils in coconut milk with turmeric, the daily dal of every Sri Lankan household. At weekends Soho serves a **rice and curry feast at £26 a head, noon to 4pm**, which is the best-value way in.
 
@@ -136,7 +136,7 @@ No award, but the widest agreement after the three above — and the first two a
 
 ![A table of dishes: an egg hopper, a bowl-shaped pancake with a lacy rim and a fried egg set into the base; a steel plate of rice with dal, a dark green curry, green beans, a diced vegetable curry and a ring-shaped lentil vadai; a steel bowl of kottu; and a stack of flatbreads on chilli-print plates](../../assets/articles/best-sri-lankan-restaurants-london/jaffna-house-egg-hopper-and-rice-plate.jpg)
 
-*A hopper is a bowl, and it is built for eating with your hands: tear the lacy rim off and scoop with it.*
+*An egg hopper and rice plate at Jaffna House.*
 
 The **Jaffna special chicken curry** is the order — boneless chicken in a sharp, tomato-heavy northern sauce — with an **egg hopper** and **katta sambol**, a fierce dried-chilli and Maldive-fish relish that is not a chutney and is not sweet. Also: mutton biriyani, fried string hoppers, and **pittu**, rice flour and coconut steamed in a bamboo tube until it comes out as a crumbly log.
 
@@ -164,7 +164,7 @@ Twin sisters Vasanthini and Dharshini Perumal, from Kandy, started as market tra
 
 ![A glass-fronted counter unit with the Karapincha name lit in yellow letters above it, two cooks working an open kitchen behind a reclaimed-wood counter, pale green tiling, hanging plants and rattan pendant lamps](../../assets/articles/best-sri-lankan-restaurants-london/karapincha-counter.jpg)
 
-*None of the three counters takes a booking, and the kothu is chopped to order in about five minutes.*
+*Karapincha's counter.*
 
 **Chicken kothu roti** is the signature and the thing worth queueing for; the vegetable version comes with pineapple pirattal, a sweet-hot fried relish. **String hoppers in prawn curry** and **egg hoppers in chicken curry** are the sit-down orders. Because the curries are built on coconut milk rather than dairy, most of the vegetarian menu is vegan without trying.
 
@@ -188,7 +188,7 @@ Sylvia Perera grew up in Negombo on the west coast, cooked her way through a cat
 
 ![A dining room of blue velvet chairs at light wooden tables, a bar with black stools and a terracotta fretwork front, bottles and glassware on the back shelves, and glass doors folded back onto a covered terrace](../../assets/articles/best-sri-lankan-restaurants-london/colombo-kitchen-dining-room.jpg)
 
-*Book a few days ahead for either room. The third Colombo Kitchen, the stall in St James's Courtyard off Piccadilly, is walk-in.*
+*Colombo Kitchen, Putney.*
 
 The **lamprais is served at weekends only, Saturday and Sunday, at both sites**. Otherwise: **hot butter prawns** in a beer batter, a **Ceylon chicken curry** with real heat, **aubergine moju** — fried aubergine pickled sweet-sour with mustard and vinegar — and a cashew curry that tastes of far more cream than it contains.
 
@@ -204,7 +204,7 @@ Kolamba's siblings doing **Colombo street food instead of home cooking** — pla
 
 ![A bright red table crammed with dishes: fried chicken laid over a golden waffle with fried curry leaves, blue-rimmed bowls of kottu topped with red onion rings and chilli, flaky folded roti, two lentil vadai with three chutney pots, dal studded with curry leaves, a bowl of rice scattered with prawns, and a steel pot of dark curry under fried curry leaves](../../assets/articles/best-sri-lankan-restaurants-london/adoh-sharing-table.jpg)
 
-*Short eats rather than courses: rolls, vadai and devilled plates, ordered a few at a time.*
+*ADOH!'s sharing table.*
 
 **Crab kothu** and **mutton rolls** are the orders, plus **isso vadai**, a lentil fritter with whole prawns pressed into the top that is sold off carts on Galle Face Green and, by ADOH!'s account, nowhere else in London. Devilled sausages, chilli prawn toast and a salted jaggery soft serve to finish. The fried chicken with a curry-leaf waffle is the one dish the sources argue about.
 
@@ -220,7 +220,7 @@ Started at food markets in the Midlands and now three London rooms — **114 Too
 
 ![A domed mound of kothu on a long white plate — roti shredded fine on the griddle, scattered with chopped red onion and cut spring onion and topped with a slice of boiled egg — beside a small black pot of thin curry sauce](../../assets/articles/best-sri-lankan-restaurants-london/kothu-roti-and-curry-sauce.jpg)
 
-*A kothu comes off the griddle dry, which is why the curry sauce arrives in its own pot to pour over the top.*
+*Kothu, Tooting.*
 
 The **mutton kothu roti** is the headline, and **you pick the heat**, which almost nobody else lets you do. The **string hopper set** is the quieter order, and the **cheesy mutton rolls** — deep-fried, slow-cooked lamb, molten cheese — are the thing regulars add at the end. King prawn poriyal and devilled kingfish are the two dishes to order if you want to see what the kitchen can do.
 

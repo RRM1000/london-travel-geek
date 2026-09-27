@@ -68,13 +68,13 @@ The trade is that it is relentless. The Piazza has street performers from mid-mo
 
 ![A Z Hotel Covent Garden room with a dark upholstered headboard, a wall-mounted TV showing the Z Hotels welcome screen, and a tall sash window facing a brick light well](../../assets/articles/best-areas-to-stay-in-london/z-hotel-covent-garden.jpg)
 
-*This room has a window onto the light well - the cheapest "Inside" rate above has none.*
+*A window room at the Z Hotel Covent Garden.*
 
 **[Strand Palace](hotel:strand-palace)** is about £140, has nearly eight hundred rooms and an art deco frontage from 1909, and is the one with availability when the boutiques are full.
 
 ![A Strand Palace guest room with white bedding, two tan leather armchairs around a round table, and a mirrored panel behind the headboard](../../assets/articles/best-areas-to-stay-in-london/strand-palace.jpg)
 
-*One of Strand Palace's nearly eight hundred rooms, with its pair of tan leather chairs.*
+*A room at the Strand Palace.*
 
 Our full [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) prices the area against Holborn ten minutes east. For the Abbey and Parliament end of the walk, see our [Westminster and Victoria hotel guide](/articles/where-to-stay-westminster/).
 
@@ -90,7 +90,7 @@ Three stations serve the strip, so wherever along it you end up you are close to
 
 ![A compact citizenM room with a city-view window, the bed filling almost the full width, and a floating shelf beside it](../../assets/articles/best-areas-to-stay-in-london/citizenm-bankside.jpg)
 
-*A citizenM room's tightly filled bed width, the format's signature small-but-clever layout.*
+*A room at citizenM Bankside.*
 
 **[Native Bankside](hotel:native-bankside)** is on a quiet cut-through behind Shakespeare's Globe and puts a kitchen in the room. Our full [South Bank hotel guide](/articles/where-to-stay-south-bank/) compares the hotels from County Hall to Borough.
 
@@ -106,7 +106,7 @@ Evenings are the thin part. Bloomsbury is academic and residential, so it goes q
 
 ![A Generator London dorm room with a bright pink, orange and teal geometric wall mural, bunk beds and a small desk](../../assets/articles/best-areas-to-stay-in-london/generator-london.jpg)
 
-*One of Generator's brightly muralled dorm rooms.*
+*A dorm room at Generator London.*
 
 **[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** runs £81 to £206 for a private windowless room two minutes from the British Museum, and it undercut the Piccadilly flagship on every date sampled.
 
@@ -114,7 +114,7 @@ Our full [Bloomsbury hotel guide](/articles/where-to-stay-bloomsbury/) compares 
 
 ![A windowless Zedwell Tottenham Court Road Cocoon room with a wood-panelled bed alcove lit by a soft light strip, a mirror, and a jacket hanging beside it](../../assets/articles/best-areas-to-stay-in-london/zedwell-tottenham-court-road.jpg)
 
-*One of the private windowless Cocoon rooms - no window, as the room grade promises.*
+*A windowless Cocoon room at Zedwell Tottenham Court Road.*
 
 ---
 
@@ -134,31 +134,31 @@ At the bottom, **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-ca
 
 ![A wood-panelled sleeping capsule at Zedwell's Piccadilly Circus capsule hotel, lit by a warm light strip around the pillow](../../assets/articles/best-areas-to-stay-in-london/zedwell-piccadilly-capsule.jpg)
 
-*One of the capsule berths here, each its own lit wooden nook.*
+*A capsule at Zedwell Piccadilly Circus.*
 
 **[Otherwander Soho](hotel:otherwander-soho)** is £62 to £119 on Dean Street.
 
 ![An Otherwander Soho sleeping pod with a folded duvet, an orange jacket and a purple backpack hanging beside it, and a bedside touchscreen control panel](../../assets/articles/best-areas-to-stay-in-london/otherwander-soho.jpg)
 
-*One of Otherwander's pods, touchscreen control panel included.*
+*A pod at Otherwander Soho.*
 
 In the middle, **[Zedwell Piccadilly Circus](hotel:zedwell-piccadilly-circus)** does private windowless rooms at £97 to £287, where the second guest adds about £5.
 
 ![A windowless Zedwell Piccadilly Circus room with a raised platform bed, a wall mirror, and a pair of heels and a handbag on the floor](../../assets/articles/best-areas-to-stay-in-london/zedwell-piccadilly-circus.jpg)
 
-*No window in sight - one of the private windowless rooms here.*
+*A room at Zedwell Piccadilly Circus.*
 
 At the top, **[Broadwick Soho](hotel:broadwick-soho)** is about £450 and was named the UK's best hotel at the 2026 Muddy Stilettos Awards.
 
 ![A Broadwick Soho bedroom with green wallpaper patterned with tigers, elephants and palm trees, an ornate arched mirror, pink table lamps and a floral armchair](../../assets/articles/best-areas-to-stay-in-london/broadwick-soho.jpg)
 
-*The animal-print wallpaper and floral armchair typical of Broadwick's rooms.*
+*A room at Broadwick Soho.*
 
 **[Ham Yard Hotel](hotel:ham-yard-hotel)** is about £500 with a 1950s bowling alley in the basement.
 
 ![A Ham Yard Hotel bedroom with a brightly patterned forest-scene headboard, cream walls, olive curtains and a mustard armchair](../../assets/articles/best-areas-to-stay-in-london/ham-yard-hotel.jpg)
 
-*One of Ham Yard's rooms, headboard printed with a forest scene.*
+*A room at Ham Yard Hotel.*
 
 Our full [Soho and West End hotel guide](/articles/where-to-stay-soho-west-end/) compares them and the areas five minutes out.
 
@@ -174,19 +174,19 @@ The best run of design hotels in London, and not the bargain it is still sold as
 
 ![A Hoxton Shoreditch room with a scalloped grey headboard, a mustard armchair, a desk, and a window looking onto bare trees](../../assets/articles/best-areas-to-stay-in-london/the-hoxton-shoreditch.jpg)
 
-*One of the Hoxton's rooms, desk and reading chair included.*
+*A room at The Hoxton, Shoreditch.*
 
 **[The Z Hotel Shoreditch](hotel:z-hotel-shoreditch)** is about £110 with the same windowless-cheapest-rate catch as the Covent Garden branch.
 
 ![A Z Hotel Shoreditch room with a light-wood wall unit holding the TV, and a window looking onto the building opposite](../../assets/articles/best-areas-to-stay-in-london/z-hotel-shoreditch.jpg)
 
-*This room has a window - the windowless catch above applies to the cheapest rate, not every room.*
+*A room at the Z Hotel Shoreditch.*
 
 **[nhow London](hotel:nhow-london)** is about £150 with a Big Ben rocket in the lobby.
 
 ![An nhow London room with a pink pop-art portrait of the Queen on a wood-panelled wall, the words "IT'S A LONDON THING" painted beside it, and a Union Jack-patterned rug](../../assets/articles/best-areas-to-stay-in-london/nhow-london.jpg)
 
-*nhow London's playful, London-themed room design - portrait, slogan and Union Jack rug included.*
+*A room at nhow London.*
 
 Our full [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares them and the cheaper areas within fifteen minutes.
 
@@ -202,13 +202,13 @@ Food after midnight is better here than anywhere else in London. **Beigel Bake o
 
 ![A Batty Langley's bedroom with an ornately carved dark wood four-poster headboard, an antique oil portrait on the wall, and purple damask cushions](../../assets/articles/best-areas-to-stay-in-london/batty-langleys.jpg)
 
-*The carved wood and oil paintings that give Batty Langley's its Georgian character.*
+*A room at Batty Langley's.*
 
 **It has no lift and no air conditioning** — a genuine problem in July or with a heavy case, and the price of a real Georgian building. **[Leman Locke](hotel:leman-locke)** is the studio-with-a-kitchen option, a minute from Aldgate East, and the one that started the aparthotel format in London.
 
 ![A Leman Locke studio with a pink sofa in the foreground and the bed, with its grey headboard and diamond-patterned throw, visible beyond](../../assets/articles/best-areas-to-stay-in-london/leman-locke.jpg)
 
-*The studio layout at Leman Locke, sofa and bed in one open room.*
+*A studio at Leman Locke.*
 
 ---
 
@@ -230,7 +230,7 @@ South Kensington station is on the Piccadilly, District and Circle lines, with a
 
 ![Astor Hyde Park's communal dining room, with a chalkboard mural reading "WELCOME TO ASTOR HYDE PARK" and listing nearby museums and parks](../../assets/articles/best-areas-to-stay-in-london/astor-hyde-park.jpg)
 
-*The hostel's communal room, its chalkboard mural naming the sights within walking distance.*
+*The communal room at Astor Hyde Park.*
 
 **[Nell Gwynn House](hotel:nell-gwynn-house-pods)** does serviced apartments with their own kitchens in a 1930s mansion block, which is the only self-catering option in this postcode. Our full [South Kensington hotel guide](/articles/where-to-stay-south-kensington/) covers the subway and the step-free problem above it in detail, and our [Kensington hotel guide](/articles/where-to-stay-kensington/) covers Kensington High Street and Earl's Court next door.
 
@@ -246,19 +246,19 @@ The family answer on this page. **Breakfast for four in central London runs £60
 
 ![A Bermonds Locke studio's kitchenette and living area, with teal cabinetry, a cream sofa and an orange throw blanket](../../assets/articles/best-areas-to-stay-in-london/bermonds-locke.jpg)
 
-*The kitchenette built into one of Bermonds Locke's studios - this studio runs cooler blue-green tones rather than the desert palette.*
+*A studio kitchenette at Bermonds Locke.*
 
 **[Bermondsey Square Hotel](hotel:bermondsey-square-hotel)** is about £180 on the square that holds the Friday antiques market — ask for a room away from the square on market mornings.
 
 ![A Bermondsey Square Hotel room with patterned curtains, an illuminated vanity mirror and a pink accent pillow on the bed](../../assets/articles/best-areas-to-stay-in-london/bermondsey-square-hotel.jpg)
 
-*One of the hotel's rooms, mirror lit for the dressing table.*
+*A room at Bermondsey Square Hotel.*
 
 And **[Shangri-La The Shard](hotel:shangri-la-the-shard)** occupies floors 34 to 52 with a 52nd-floor infinity pool, at about £550, where a low-floor room defeats the entire point.
 
 ![A Shangri-La The Shard room high above London, with floor-to-ceiling corner windows looking out over the city and the river below](../../assets/articles/best-areas-to-stay-in-london/shangri-la-the-shard.jpg)
 
-*The view from one of Shangri-La's rooms, high enough to see the city spread out below.*
+*The view from a room at Shangri-La The Shard.*
 
 Our full [Bermondsey hotel guide](/articles/where-to-stay-bermondsey/) compares the aparthotels properly.
 
@@ -292,7 +292,7 @@ Do the arithmetic before booking the cheap one. **[The GreenHouse Capsules](hote
 
 ![A Town Hall Hotel bedroom with wood panelling, mustard-gold cushions on the bed, and herringbone parquet flooring](../../assets/articles/best-areas-to-stay-in-london/town-hall-hotel.jpg)
 
-*One of the rooms inside the converted 1910 town hall.*
+*A room at Town Hall Hotel.*
 
 Time Out has called it the best hotel in London, and it costs half what the equivalent would in Zone 1.
 
@@ -376,13 +376,13 @@ Charlotte Street is the densest run of restaurants in central London and the are
 
 ![A Sanderson London room with a grey sleigh bed, a round yellow breakfast table set with coffee and a croissant, and a private terrace beyond the glass doors](../../assets/articles/best-areas-to-stay-in-london/sanderson-london.jpg)
 
-*One of Sanderson's rooms, opening onto its own terrace.*
+*A room at Sanderson London.*
 
 **[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 with a private screening room, on the restaurant street itself. To sleep at the station instead, our [King's Cross hotel guide](/articles/where-to-stay-kings-cross/) compares the hotels around St Pancras.
 
 ![A Charlotte Street Hotel room with star-patterned blue walls and ceiling, and a richly patterned arched headboard](../../assets/articles/best-areas-to-stay-in-london/charlotte-street-hotel.jpg)
 
-*One of Charlotte Street Hotel's eclectically decorated rooms, walls painted with stars.*
+*A room at Charlotte Street Hotel.*
 
 ### Paddington — 15 minutes from Heathrow
 
@@ -406,13 +406,13 @@ The best airport base in London by a distance. **Heathrow Express is 15 minutes 
 
 ![A windowless Zedwell Park Lane Cocoon room with a warm-lit wood alcove bed, a sherpa coat hanging beside it, and trainers on the floor](../../assets/articles/best-areas-to-stay-in-london/zedwell-park-lane.jpg)
 
-*Another windowless Cocoon room, this one at the Park Lane branch.*
+*A room at Zedwell Park Lane.*
 
 It is new enough to be barely reviewed. **[Native Mayfair](hotel:native-mayfair)** does apartments with kitchens on a mews off Grosvenor Square, under ten minutes from Bond Street. Our full [Mayfair hotel guide](/articles/where-to-stay-mayfair/) compares the grand hotels, and the [Marylebone hotel guide](/articles/where-to-stay-marylebone/) the quieter, cheaper streets north of Oxford Street.
 
 ![A Native Mayfair bathroom with a freestanding tub full of bubbles, a wooden tray of bath products across it, and a window looking onto a garden trellis](../../assets/articles/best-areas-to-stay-in-london/native-mayfair.jpg)
 
-*The bathroom in one of Native Mayfair's apartments.*
+*A bathroom at Native Mayfair.*
 
 ---
 

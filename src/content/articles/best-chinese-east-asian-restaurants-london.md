@@ -68,7 +68,7 @@ So this guide keeps them apart, and counts each against its own sources rather t
 
 ![A. Wong's dining room with purple and burgundy velvet chairs, a green marble bar and a bronze guardian lion statue](../../assets/articles/best-chinese-east-asian-restaurants-london/a-wong-dining-room.jpg)
 
-*The tasting menu is organised as a journey across China's provinces.*
+*A. Wong's dining room.*
 
 **The only Chinese restaurant in London holding a Michelin star, and it holds two** — the only two-starred Chinese kitchen in Europe. Andrew Wong works through the regional cooking of the whole country rather than the Cantonese repertoire London expects, and the tasting menu is organised as a journey across provinces.
 
@@ -82,7 +82,7 @@ So this guide keeps them apart, and counts each against its own sources rather t
 
 ![Three siu mai dumplings with pink pork and shrimp filling topped with a red dot, one lifted by chopsticks from a bamboo steamer](../../assets/articles/best-chinese-east-asian-restaurants-london/tao-tao-ju-siu-mai.jpg)
 
-*Steamed siu mai, one of the two dishes to order first to judge the kitchen.*
+*Steamed siu mai.*
 
 Towering bamboo baskets of steamed and grilled dim sum, **made fresh on site each day** rather than bought in frozen, which is what separates it from most of Lisle Street. The refined end of Chinatown, and the most-cited dim sum room in this guide.
 
@@ -96,7 +96,7 @@ Order across both cooking methods — the steamed **har gau** and **siu mai** to
 
 ![Plum Valley's black shopfront on Gerrard Street, with pink neon signage, a wreath and a dim sum menu board outside](../../assets/articles/best-chinese-east-asian-restaurants-london/plum-valley-shopfront.jpg)
 
-*The black-fronted room on Gerrard Street, family-run and one of Chinatown's most-cited addresses.*
+*Plum Valley, Gerrard Street.*
 
 The black-fronted Gerrard Street room, family-run, and one of the four most-cited Chinese restaurants in London — named by every masthead in these sources and by three separate video creators.
 
@@ -110,7 +110,7 @@ The black-fronted Gerrard Street room, family-run, and one of the four most-cite
 
 ![Four Seasons' red shopfront at 84 Queensway, with gold lettering and a menu board in the window](../../assets/articles/best-chinese-east-asian-restaurants-london/four-seasons-shopfront.jpg)
 
-*The Queensway shop, where the business started in 1990 before it reached Chinatown.*
+*Four Seasons, Queensway.*
 
 **London's benchmark Hong Kong-style roast duck**, and the Queensway room is the original — the business started here in 1990 before it ever reached Chinatown. The most-cited Chinese restaurant across every guide read for this page.
 
@@ -124,7 +124,7 @@ The **roast duck** hangs in the window and is carved to order: lacquered skin, t
 
 ![A rou jia mo flatbread bun split open to show shredded, spiced meat filling, in a wire basket](../../assets/articles/best-chinese-east-asian-restaurants-london/murger-han-rou-jia-mo.jpg)
 
-*The murger — rou jia mo, spiced meat packed into a flatbread bun.*
+*The murger — rou jia mo.*
 
 Shaanxi cooking from China's north-west, and named for the **murger** — *rou jia mo*, slow-cooked spiced meat packed into a flatbread bun, which is the dish to order and one of the cheapest serious lunches in the City.
 
@@ -138,7 +138,7 @@ Alongside it, **hand-pulled noodles** made to order, cold liangpi noodles and cu
 
 ![Six lamb skewers, grilled and charred, arranged on a rectangular plate with metal skewer handles](../../assets/articles/best-chinese-east-asian-restaurants-london/etles-lamb-skewers.jpg)
 
-*The lamb skewers, grilled over charcoal with cumin and chilli.*
+*The lamb skewers.*
 
 **Uyghur cooking from Xinjiang** — a Turkic-Muslim tradition in China's far west that is barely represented anywhere else in Britain, and the reason this entry is worth a journey to Walthamstow.
 
@@ -160,8 +160,6 @@ Most of London's Chinese food is Cantonese. These kitchens are not, and the diff
 
 ![Bar Shu's blue-grey corner shopfront with red lanterns strung along the front and street signs for Frith Street and Romilly Street above](../../assets/articles/best-chinese-east-asian-restaurants-london/barshu-shopfront.jpg)
 
-*On the edge of Chinatown rather than in it.*
-
 The restaurant that **introduced London to real Sichuan cooking in 2006**, when the city still thought Chinese food meant Cantonese. On the corner of Frith Street and Romilly Street, on the edge of Chinatown rather than in it.
 
 The signature is **water-boiled beef** — a misleading name for beef poached in a bath of chilli oil and Sichuan peppercorn — alongside dry-fried green beans and the numbing-hot dishes the region is built on. **Heat levels are marked on the menu and the marking is honest**, which not every Sichuan menu in London can claim.
@@ -174,7 +172,7 @@ The signature is **water-boiled beef** — a misleading name for beef poached in
 
 ![A bowl of cold liangpi noodles topped with julienned cucumber, in a blue and white patterned dish](../../assets/articles/best-chinese-east-asian-restaurants-london/xian-impression-liangpi-noodles.jpg)
 
-*Liangpi cold noodles, hand-cut and dressed in chilli oil and vinegar — the signature dish.*
+*Liangpi cold noodles.*
 
 **Shaanxi cooking from China's north-west**, in a small room opposite the Emirates Stadium — and the reason people cross London for it is the noodles.
 
@@ -188,7 +186,7 @@ Tiny, cash-friendly, walk-in. Impossible to get into on a match day, and easy on
 
 ![A bowl of wide, hand-pulled biang biang noodles with beef, bok choy and chilli flakes](../../assets/articles/best-chinese-east-asian-restaurants-london/master-wei-biang-biang-noodles.jpg)
 
-*Biang biang noodles, pulled to order.*
+*Biang biang noodles.*
 
 The same tradition from **Guirong Wei**, who was the only female head chef in Xi'an before she came to London and opened Xi'an Impression. This is her own place, in Bloomsbury, and the cooking is the more polished of the two.
 
@@ -202,7 +200,7 @@ Walk-in, and a short walk from Holborn or Russell Square. If you want the story 
 
 ![Two stuffed king prawns wrapped around a herb filling, on a white plate marked Hunan](../../assets/articles/best-chinese-east-asian-restaurants-london/hunan-stuffed-prawns.jpg)
 
-*One of the fifteen to twenty dishes that arrive without a menu to order from.*
+*A dish at Hunan.*
 
 **No menu at all.** You tell them what you dislike and dishes keep arriving until you say stop — a leave-it-to-us format that is among the most unusual ways to eat in London, and has run this way for decades.
 
@@ -216,8 +214,6 @@ The cooking is **Hunanese** rather than Sichuan, which means chilli heat without
 
 ![Noodle and Beer's red shopfront at 27 Wardour Street, with round paper lanterns visible through the window](../../assets/articles/best-chinese-east-asian-restaurants-london/noodle-and-beer-shopfront.jpg)
 
-*The Wardour Street shopfront, in Chinatown.*
-
 Sichuan cooking built for the small hours: **the kitchen runs to 4am from Thursday to Saturday**, which makes it one of the genuinely late options in central London rather than one that merely claims to be.
 
 Chilli-oil noodles, dry pot and skewers rather than a banqueting menu — food designed to be eaten with beer at two in the morning. Loud, bright, and full of people who have been somewhere else first.
@@ -230,7 +226,7 @@ Chilli-oil noodles, dry pot and skewers rather than a banqueting menu — food d
 
 ![An overhead shot of a table with nasi lemak, fried egg, prawn crackers and cucumber on one side, and Singapore chilli crab with mantou buns on the other](../../assets/articles/best-chinese-east-asian-restaurants-london/rasa-sayang-nasi-lemak-and-chilli-crab.jpg)
 
-*Nasi lemak, one of the two dishes to order, with the rest of the spread.*
+*Nasi lemak.*
 
 **Peranakan cooking** — Chinese technique married to Malay spicing, from the Straits communities of Malaysia and Singapore — and reportedly **the only halal restaurant in Chinatown**, which is a genuine gap it fills.
 
@@ -244,7 +240,7 @@ Walk-in, cheap, and busy at lunch. One of the few places in Chinatown where the 
 
 ![A whole lobster in its shell piled with noodles, spring onion and coriander, on a white plate](../../assets/articles/best-chinese-east-asian-restaurants-london/mandarin-kitchen-lobster-noodles.jpg)
 
-*Whole lobster over ginger and spring onion noodles, served in the shell.*
+*The lobster noodles.*
 
 The **lobster noodles** are the reason to come, and the dish most London Chinese restaurants are quietly measured against: a whole lobster over ginger and spring onion noodles, served in the shell.
 
@@ -258,7 +254,7 @@ Beyond it, a full Cantonese seafood menu — steamed fish, razor clams, salt-and
 
 ![Sliced roast duck with dark lacquered skin, arranged on an oval white plate](../../assets/articles/best-chinese-east-asian-restaurants-london/gold-mine-roast-duck.jpg)
 
-*The roast duck, carved to order and served on rice or on its own.*
+*The roast duck.*
 
 Roast duck hanging in the window and carved to order, **cheaper than Chinatown for the same thing** — which is why two independent creators as well as the mastheads name it.
 
@@ -285,7 +281,7 @@ The short version: **A. Wong** in Victoria is the two-starred lunch and the most
 
 ![A bowl of wonton soup with pork wontons, thin egg noodles and spring onion](../../assets/articles/best-chinese-east-asian-restaurants-london/wong-kei-wonton-soup.jpg)
 
-*Wonton soup, one of the single-plate dishes on the menu.*
+*Wonton soup.*
 
 One of the largest Chinese restaurants in Britain at around **five hundred covers** over several floors, and for decades famous less for the food than for the **brusqueness of the service** — a reputation the staff leaned into until it became the reason people went.
 
@@ -299,8 +295,6 @@ The menu is enormous and the point is not refinement: **roast meats over rice**,
 
 ![A queue of customers outside Chinatown Bakery's brown and orange shopfront on Newport Place](../../assets/articles/best-chinese-east-asian-restaurants-london/chinatown-bakery-queue.jpg)
 
-*The queue is usually visible from the Chinatown gate.*
-
 **Egg tarts, bolo bao and taiyaki made in the window** on Newport Place, at bakery prices — and the queue is usually visible from the Chinatown gate, which is the simplest way to find it.
 
 The **egg tart** is the thing: a wobbling custard in flaky pastry, served warm from the tray. **Bolo bao** — the sugar-crusted pineapple bun, which contains no pineapple — is the other order, and the taiyaki are made to order in fish-shaped irons.
@@ -313,7 +307,7 @@ The **egg tart** is the thing: a wobbling custard in flaky pastry, served warm f
 
 ![Staff in white uniforms and caps folding dumplings behind a glass-walled kitchen counter, with stacks of bamboo steamers](../../assets/articles/best-chinese-east-asian-restaurants-london/dumplings-legend-glass-kitchen.jpg)
 
-*The glass-walled kitchen where the xiao long bao are folded in front of the queue.*
+*The glass-walled kitchen at Dumplings' Legend.*
 
 A **glass-walled kitchen on Gerrard Street** where the xiao long bao are folded in front of the queue — the theatre is deliberate and the technique is real.
 
@@ -327,7 +321,7 @@ A **glass-walled kitchen on Gerrard Street** where the xiao long bao are folded 
 
 ![Ten xiao long bao arranged in a circle in a bamboo steamer, with a small red garnish in the centre](../../assets/articles/best-chinese-east-asian-restaurants-london/din-tai-fung-xiao-long-bao.jpg)
 
-*Xiao long bao, folded to the eighteen-pleat standard the restaurant is known for.*
+*Xiao long bao.*
 
 **Xiao long bao folded to eighteen pleats behind glass** — the Taiwanese chain Ken Hom put in the New York Times' world top ten, and this was its first London site.
 
@@ -356,13 +350,13 @@ Chinese food is where London's cheap eating is strongest, and almost none of it 
 
   ![Two large steamed bao stamped with a red character, in a bamboo steamer](../../assets/articles/best-chinese-east-asian-restaurants-london/bun-house-steamed-bao.jpg)
 
-  *Steamed bao, from a shopfront in Chinatown.*
+  *Steamed bao at Bun House.*
 
 * **Kung Fu Noodle**, Chinatown — noodles pulled to order in the window, the cheapest proper cooked meal there. *Cited by 2 sources*
 
   ![A large bowl of beef noodle soup with hand-pulled noodles, herbs and chopped spring onion](../../assets/articles/best-chinese-east-asian-restaurants-london/kung-fu-noodle-noodle-soup.jpg)
 
-  *Noodles pulled to order, the cheapest proper cooked meal in Chinatown.*
+  *Noodles pulled to order.*
 * **Kung Fu Burger**, Shaftesbury Avenue — a kiosk with no seating doing a shredded pork belly bun under a tenner. Cash only. *Cited by 2 sources*
 * **Master Wei**, Bloomsbury — biang biang noodles around **£10** from the chef who introduced them to London. *Cited by 3 sources*
 
@@ -371,8 +365,6 @@ Chinese food is where London's cheap eating is strongest, and almost none of it 
 * **Bang Bang Oriental**, Colindale — the biggest Asian food hall in Britain, with a **Four Seasons counter** serving the same roast duck as the Queensway restaurant for less.
 
   ![Inside Bang Bang Oriental food hall, with a large dragon and red lanterns hanging above rows of tables](../../assets/articles/best-chinese-east-asian-restaurants-london/bang-bang-oriental-food-hall.jpg)
-
-  *The biggest Asian food hall in Britain.*
 * **Chinatown's supermarkets** — Loon Fung and See Woo sell roast meats by weight over the counter. Half a roast duck to take away costs a fraction of a sit-down plate.
 * **Arcade Food Hall** at Centre Point carries several Chinese and East Asian counters if you want one dish rather than a table.
 

@@ -67,7 +67,7 @@ This is a guide to a subject that has demand and almost no serious coverage. The
 
 ![A tray of sliced beef brisket with a black bark and a pink smoke ring, glazed pork ribs and pulled pork, with pickles and a pot of sauce on a wooden table](../../assets/articles/best-barbecue-london/smokestak-brisket.jpg)
 
-*The brisket, with the bark and the smoke ring the twelve hours are for. Ribs and pulled pork alongside.*
+*Smokestak's brisket, with ribs and pulled pork.*
 
 **Nine of fifteen sources name it, more than anything else in this pass**, and it also holds a Michelin Bib Gourmand — the only entry here with any judged recognition at all, though that is a general award rather than a barbecue one.
 
@@ -81,7 +81,7 @@ The room is dark, semi-industrial and loud, with music thumping through it. Time
 
 ![A sliced T-bone steak resting in its juices on a white plate, with two dishes of roast new potatoes and herbs on a wooden table](../../assets/articles/best-barbecue-london/acme-fire-cult.jpg)
 
-*The chop, which is the exception rather than the rule here - the menu is built the other way round, on vegetables.*
+*Acme Fire Cult's chop.*
 
 The second most-cited barbecue restaurant in London **builds its menu primarily around vegetables**, which is not what anyone expects from this list and is exactly why it is on it. Chef Andrew Clarke cooks over live fire but has moved deliberately away from what the trade calls dude food, using fermenting and preserving to cut waste. Meat is on the menu - there is a chop to share - but it is not the organising idea.
 
@@ -127,7 +127,7 @@ Painted tiles and bare plaster, with LEGO figurines and miniature chairs made ou
 
 ![The Big Easy Bar-B-Q and Crabshack sign on the Park Level of Crossrail Place at Canary Wharf, under the timber lattice roof of the building, which rises straight out of the dock water with the towers behind](../../assets/articles/best-barbecue-london/big-easy-crossrail-place.jpg)
 
-*The Canary Wharf branch, on the Park Level of Crossrail Place. The strapline under the sign reads cocktails, steaks, lobster and live music, which is the whole proposition in four things.*
+*Big Easy, Canary Wharf.*
 
 The original Chelsea branch built its reputation on **bargain-price lobster alongside pit-cooked ribs**, which is still the reason to go. A mini-chain now, loud and deliberately unserious, with live bands, and the one on this page most suited to a large group who cannot agree.
 
@@ -141,7 +141,7 @@ The original Chelsea branch built its reputation on **bargain-price lobster alon
 
 ![The open kitchen at temper seen across a marble counter laid for service, with chefs working by a wood-fired oven and a chalkboard above the pass](../../assets/articles/best-barbecue-london/temper-counter.jpg)
 
-*The counter wraps the fire. The board above the pass is where the steaks are explained - and where it says that when they are gone, they are gone.*
+*Temper's counter, wrapping the fire.*
 
 Open-fire cooking around a counter that wraps the kitchen, so you sit watching the wood oven work. Two sites, **Soho and the City**, open since 2016, and the menu runs tacos alongside the meat — there is a Taco Tuesday, which tells you how seriously it takes itself.
 

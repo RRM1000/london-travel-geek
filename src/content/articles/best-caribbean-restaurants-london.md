@@ -64,7 +64,7 @@ Brixton and Peckham carry most of this list between them, and Rye Lane is where 
 
 ![The counter at Fish, Wings & Tings in Brixton Village, yellow and green signage above an open kitchen with two chefs working, and a chalkboard listing jerk chicken, rotis and cod fish fritters](../../assets/articles/best-caribbean-restaurants-london/fish-wings-tings.jpg)
 
-*The counter in Brixton Village. The board carries more than the Trinidadian snacks - jerk chicken, rotis, cod fish fritters and rum punch.*
+*The counter, in Brixton Village.*
 
 **Brian Danclair**, born in Trinidad, opened it in 2012, and it has become a community fixture as much as a restaurant — seven sources name it, more than anything else in this pass, and two of them are YouTube channels rather than magazines.
 
@@ -78,7 +78,7 @@ Danclair runs two more in the same market: **Danclair's Kitchen**, named by four
 
 ![A wooden table shot from above covered in Caribbean dishes - grilled corn, wings, a curry, fried plantain, macaroni pie, fritters and small bowls of sauces - with a dozen hands reaching across it](../../assets/articles/best-caribbean-restaurants-london/limin-spread.jpg)
 
-*To lime is to hang about with people, unhurried, usually over food. The restaurant is named for it and this is the argument for the name.*
+*Limin's spread, Gabriel's Wharf.*
 
 **Sham Mahabir started Limin' as a pop-up in Spitalfields market**, and it did well enough to become permanent on the edge of the Thames at Gabriel's Wharf. The menu runs off his Trinidadian heritage and his London life rather than either alone.
 
@@ -90,7 +90,7 @@ Danclair runs two more in the same market: **Danclair's Kitchen**, named by four
 
 ![Two plates of Caribbean Sunday roast - glazed jerk chicken over rice and peas with roast potatoes, greens, gravy and a Yorkshire pudding - with a glass of red wine alongside](../../assets/articles/best-caribbean-restaurants-london/buster-mantis-roast.jpg)
 
-*The Sunday roast, and it is a Caribbean one: jerk chicken over rice and peas, with the Yorkshire pudding kept. This is the 1.30pm sitting, the only one on a Sunday.*
+*Buster Mantis's Sunday roast.*
 
 In the **railway arches beside Deptford station**, and only half of it is a restaurant: one side is a bar and kitchen, the other a **creative arts space running exhibitions, screenings and events**.
 
@@ -102,7 +102,7 @@ Independent and family-run, with owners who split their time between Jamaica and
 
 ![A plate of vegan Caribbean food - a curry with carrot and dumplings in a black bowl, beside rice and peas topped with fried plantain and steamed cabbage](../../assets/articles/best-caribbean-restaurants-london/jam-delish-curry.jpg)
 
-*The curry with rice and peas, plantain and cabbage. There is no goat in the curry goat, and you would have to be told.*
+*Jam Delish's curry, with rice and peas.*
 
 A **100% vegan** Caribbean restaurant and cocktail bar, and the strength of its citation count is the point: this is not a token entry, it is one of the five best-covered Caribbean rooms in London.
 

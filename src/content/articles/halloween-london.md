@@ -111,8 +111,6 @@ Performances run Tuesday to Saturday at 7pm, with matinees Friday and Saturday a
 
 ![The cast of Beetlejuice taking their curtain call at the Prince Edward Theatre, lit in green and blue, with the Maitland house tilting above them and the sandworm reared up at the side of the stage](../../assets/articles/halloween-london/beetlejuice-curtain-call.jpg)
 
-*Curtain call at the Prince Edward. The sandworm on the left and the tipping house behind give you the tone in one frame — this is a comedy with a ghost in it, not a horror show.*
-
 The stage musical of the film, running as a **limited West End engagement** with its final performance on **2 January 2027**, so it comfortably covers Halloween.
 
 **Look out for Netherworld performances**, a cheaper way in: fixed pricing at **£30, £40 or £50** a ticket, rather than the usual dynamic pricing that climbs closer to the show and toward Halloween itself.

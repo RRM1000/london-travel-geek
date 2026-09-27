@@ -101,7 +101,7 @@ Soho has its own share of the commemorative plaques marking where notable people
 
 ![Red lanterns strung above a crowded Wardour Street in Chinatown, with Four Seasons on the left](../../assets/articles/soho-area-guide/chinatown-gerrard-street.jpg)
 
-*The Chinatown stretch of Wardour Street under its lanterns. Gerrard Street, one block east, is pedestrianised and busiest between about 6pm and 9pm.*
+*The Chinatown stretch of Wardour Street.*
 
 Pedestrianised and lantern-strung, and **London's Chinatown is Cantonese first** — roast meats hanging in windows, dim sum until mid-afternoon, hotpot, and bakeries open later than almost anything else in the West End.
 
@@ -113,7 +113,7 @@ Gerrard Street is the spine, with Lisle Street parallel to it and usually cheape
 
 ![Old Compton Street at dusk, busy with people, lined with bars and a florally decorated frontage](../../assets/articles/soho-area-guide/old-compton-street.jpg)
 
-*Old Compton Street at dusk. It is the centre of Soho's LGBTQ+ scene and the street most people picture when they picture Soho.*
+*Old Compton Street at dusk.*
 The east–west spine of Soho nightlife, and **the centre of its LGBTQ+ scene** since the 1980s — bars, cafés and a street that has been the visible heart of gay London for forty years.
 
 By day it is coffee and outside tables; from about 9pm it is shoulder to shoulder, and the drinking spills into the street itself in summer.
@@ -122,6 +122,8 @@ By day it is coffee and outside tables; from about 9pm it is shoulder to shoulde
 
 ### Carnaby Street and Kingly Court
 Pedestrian shopping to the west, and **fourteen streets rather than one** — Carnaby is the name people know, but the surrounding lanes hold most of what is worth finding.
+
+**Liberty**, the mock-Tudor department store on the corner of Great Marlborough Street, was built in the 1920s from the timbers of two Royal Navy ships and is free to walk into.
 
 **Kingly Court is the reason to come**: three galleried floors around an open courtyard, almost entirely food and drink, and covered enough to work in the rain.
 
@@ -140,7 +142,7 @@ Broadwick Street has the **John Snow pump replica**, marking where Snow traced t
 
 ![The corner of Frith Street in Soho, with the street sign above a red-awninged restaurant frontage](../../assets/articles/soho-area-guide/frith-street-corner.jpg)
 
-*Frith Street where it meets Shaftesbury Avenue. Ronnie Scott's, Bar Italia and a run of long-standing restaurants are all on this stretch.*
+*Frith Street, at Shaftesbury Avenue.*
 North–south restaurant streets running parallel through the middle of Soho, and where most of the eating actually happens.
 
 **Ronnie Scott's** has been on Frith Street since 1965 and is still the serious jazz room in London — two sets a night, booked well ahead. **Bar Italia**, directly across the street, has been open since 1949 and trades nearly around the clock. The private members' clubs are on Dean Street, unmarked and not for walking into.
@@ -150,7 +152,7 @@ North–south restaurant streets running parallel through the middle of Soho, an
 
 ![The mock-Tudor timbered frontage of Liberty department store on Great Marlborough Street](../../assets/articles/soho-area-guide/liberty-store.jpg)
 
-*Liberty, built in the 1920s from the timbers of two Royal Navy ships. Free to walk into, and worth it for the atrium.*
+*Liberty, Great Marlborough Street.*
 
 ## Where to eat and drink
 

@@ -47,7 +47,7 @@ This page isn't our opinion. Every shop here is ranked by how many independent l
 
 ![A wide wok of brown sugar tapioca pearls simmering in dark syrup behind a glass screen, with a wooden paddle resting in it](../../assets/articles/best-bubble-tea-london/xing-fu-tang-brown-sugar-wok.jpg)
 
-*The pearls are cooked in this wok, in plain view behind the counter. It's Time Out's "huge cauldron".*
+*The brown sugar pearl wok at Xing Fu Tang.*
 
 **29 Frith Street, W1D 5LG.** The Taiwanese chain every list agrees on. Its speciality is **brown sugar pearls**, which Time Out says are made in hourly batches. The house drink is fresh milk with brown sugar syrup, topped with sugar blowtorched to a crème brûlée crust. Wrap Your Lips Around This calls it the writer's overall favourite for its "soft sweetness and toasted toffee flavour." Four London TikTok creators name it too, one in a video with close to 300,000 views. One paid **£5.95 for a large brown sugar milk tea** in June 2026 and gave it 10/10 for "super soft and chewy" tapioca.
 
@@ -59,7 +59,7 @@ It's a small white shop for takeaway, and **the queue forms at opening time**. I
 
 ![A clear cup of brown sugar boba streaked with caramel syrup and cream, held up in front of a larger cup piled with pearls](../../assets/articles/best-bubble-tea-london/the-whale-tea-brown-sugar-boba.jpg)
 
-*Brown sugar boba, the drink The Strand calls the best in London.*
+*Brown sugar boba at The Whale Tea.*
 
 **18 Queensway, W2 3RX**, and **45 Wardour Street, W1D 6PZ** in Chinatown. This is the King's College student magazine's number one: "the store's brown sugar boba is the best in London." Its signature is the Flaming Whale, classic brown sugar boba under fresh cheese cream. The Infatuation likes the plain milk tea boba, which "tastes a little like cereal milk in the best way possible."
 
@@ -77,7 +77,7 @@ The Queensway shop has a couple of tables, and it's open until about 10pm. Hyde 
 
 ![A cup of milk tea with amber pearls held up in front of Kissaten's glowing wall of gachapon capsule machines](../../assets/articles/best-bubble-tea-london/kissaten-milk-tea-gachapon.jpg)
 
-*Order on the screen, then wait by the gachapon machines. Half the shop is capsule toys.*
+*Kissaten's gachapon wall.*
 
 **72 Old Compton Street, W1D 4UN.** A Japanese-style tea house, pricier than most, and Time Out says it's worth paying extra for. It makes its own **honey tapioca pearls**. There are also yoghurt popping pearls, a matcha range and hojicha with salted cheese. The Infatuation orders the Earl Grey milk tea for "a nice floral twist."
 
@@ -89,7 +89,7 @@ You order on a screen, and there are **long queues at busy times**. Older guides
 
 ![Two Cuppacha cups, one deep red and one orange, standing on a table under a canopy of red lanterns](../../assets/articles/best-bubble-tea-london/cuppacha-lanterns.jpg)
 
-*Under the lanterns. With no seats inside, most cups end up somewhere like this.*
+*Cuppacha, under the lanterns.*
 
 **23 Newport Court, WC2H 7JS.** The bright pink shop on Newport Court has been making bubble tea for about a decade. There's a **queue most days**. The Infatuation orders the mango fruit tea with popping boba, where "the sweetness isn't overpowering." Time Out picks the butterfly pea ombré drinks, which fade from blue to pink in the cup.
 
@@ -101,7 +101,7 @@ It's a takeaway counter, not somewhere to sit, and it's open until about 10:30pm
 
 ![A T4 milk tea with dark pearls at the bottom, held up in front of a green wall with the T4 logo behind](../../assets/articles/best-bubble-tea-london/t4-milk-tea.jpg)
 
-*The classic milk tea is what T4 does best, and every source that names it orders one.*
+*T4's classic milk tea.*
 
 **4B Praed Street, W2 1JX**, plus **137 Strand**, **Westfield Stratford City** and **Westfield London** in Shepherd's Bush. T4 uses whole tea leaves, never tea bags or powder, and sticks to milk teas rather than fruit. The Infatuation says "no matter which branch you're at, you'll get a great bubble tea," and likes the Oreo potted milk tea best. The Strand orders Earl Grey milk tea with French pudding.
 
@@ -113,7 +113,7 @@ This is the pick if you want a reliable milk tea near where you already are. The
 
 ![Happy Lemon's bright yellow shopfront at 24A Newport Court, with Bubble Tea, Fresh Fruit Tea and Rock Salt Cheese painted along the fascia](../../assets/articles/best-bubble-tea-london/happy-lemon-newport-court.jpg)
 
-*You can't miss it on Newport Court. Rock salt cheese, the signature, is painted along the front.*
+*Happy Lemon, on Newport Court.*
 
 **24A Newport Court, WC2H 7JS.** A global chain that opened its first European shop here. Despite the name, The Infatuation prefers the milk teas, especially the Oreo cookies and cream. The **rock salt cheese** topping is the signature, a salty cream cap that the Standard says "sounds odd" but works.
 
@@ -125,7 +125,7 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 ![Two HEYTEA cups side by side: brown sugar pearls under milk streaked with syrup, and a milky drink with small sago pearls](../../assets/articles/best-bubble-tea-london/heytea-brown-sugar-and-sago.jpg)
 
-*Brown sugar pearls under milk (left) and a sago drink (right), the two styles the reviews keep ordering.*
+*Two of HEYTEA's styles.*
 
 **Unit 2, Wingate House, 93–107 Shaftesbury Avenue, W1D 5DA.** When it opened, this was the Chinese chain's first shop outside Asia, and it drew huge queues. Five London video creators name it, more than any shop except Xing Fu Tang. HEYTEA is known for **cheese foam**, a salted cream-cheese layer on cold tea that The Strand compares to cheesecake. The Infatuation's pick is the supreme brown sugar milk tea with a thick cheese foam top.
 
@@ -137,7 +137,7 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 ![Yi Fang's white-and-grey shopfront on Gray's Inn Road, with a few tables and pendant lights visible through the window](../../assets/articles/best-bubble-tea-london/yi-fang-grays-inn-road.jpg)
 
-*The Gray's Inn Road branch, open while the Chinatown shop the lists name has closed.*
+*The Gray's Inn Road branch.*
 
 **150 Gray's Inn Road, WC1X 8AX.** The **fruit tea** specialist. The recipe comes from the founder's grandmother, who made jam from pineapples. The Strand says it "dominates the fruit tea scene," and Wrap Your Lips Around This calls it the best fruity bubble tea in London. It's open until about 10pm and has a few tables.
 
@@ -149,7 +149,7 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 ![A Woo Tea milk tea with brown sugar pearls held up on the pavement outside the shop's sign](../../assets/articles/best-bubble-tea-london/woo-tea-wardour-street.jpg)
 
-*Takeaway only. The counter is just inside that door.*
+*Woo Tea, Wardour Street.*
 
 **26 Wardour Street, W1D 6QL.** An **oolong** specialist. Wrap Your Lips Around This picks its roasted oolong tea as the best in London: "nutty with a buttery texture, and an almost smoky tone." Squeeze London suggests the purple potato oolong with tapioca. A TikTok reviewer in August 2026 found fresh lychee in her lychee fruit tea but thought **£7.20** was steep. The blogs point to the oolongs instead. It's a small walk-in counter, open until about 10:30pm.
 
@@ -159,7 +159,7 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 ![Inside Bubble Magik: a chilled display of fruit toppings at the front of the counter, menu screens above and a wall of sealed cups behind](../../assets/articles/best-bubble-tea-london/bubble-magik-counter.jpg)
 
-*The toppings sit in a chilled case at the front, and the sealed cups on the back wall show every colour on the menu.*
+*Bubble Magik's counter, Ealing.*
 
 **Unit 20, Ealing Broadway Shopping Centre, W5 5JY**, plus a counter on **the fourth floor of Selfridges**. The best-backed shop outside zone 1. The Infatuation describes a "cupboard-sized" counter where drinks are sealed and shaken by machine, and orders the mango iced tea with passion fruit boba. Wrap Your Lips Around This goes back for the original Assam milk tea. The Ealing counter keeps shopping-centre hours and is open until about 7:30pm.
 
@@ -169,7 +169,7 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 ![Inside Mooboo Camden: a lit Mooboo logo on a green wall, a white tiled counter and a toppings menu on a small table](../../assets/articles/best-bubble-tea-london/mooboo-camden.jpg)
 
-*The Camden shop on Parkway. There are a couple of perches, but it's mostly takeaway.*
+*Mooboo, Parkway, Camden.*
 
 **84 Parkway, NW1 7AN** is the central London branch the lists name. Mooboo is Britain's biggest bubble tea chain, with **over 70 UK shops** according to Squeeze London, so there's probably one near you. Order the **taro**, which The Handbook describes as "nutty and sweet" and bright purple. The Camden shop is walk-in and small, and it's open until about 8:30pm.
 
@@ -179,7 +179,7 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 ![Min Tea's shopfront at number 34 Newport Court, with drinks pictured in the window and Lucky Tea's sign on the shop next door](../../assets/articles/best-bubble-tea-london/min-tea-and-lucky-tea-newport-court.jpg)
 
-*Min Tea at number 34 and Lucky Tea next door. This is what "a few doors apart" means on Newport Court.*
+*Min Tea, next to Lucky Tea.*
 
 **34 Newport Court, WC2H 7PQ.** The **cheese foam** specialist on Newport Court, with a whole menu of cheesy milk teas. Wrap Your Lips Around This calls it "the cheesiest bubble tea in London." The Infatuation's pick is the cheesy milk tea with Oreo bits. A guest on a London food podcast rates the fruit teas, made by crushing real fruit rather than using syrup. Of the four Newport Court shops here, it stays open latest, until about 10:45pm.
 
@@ -189,7 +189,7 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 ![A Lucky Tea fruit tea packed with slices of watermelon, lime and orange, held up against a poster of the same drink](../../assets/articles/best-bubble-tea-london/lucky-tea-fruit-tea.jpg)
 
-*Fruit teas and slushies with real fruit in the cup, rather than milk teas, are the reason to choose Lucky Tea.*
+*A Lucky Tea fruit tea.*
 
 **35 Newport Court, WC2H 7PQ.** Come here for **slushies and fruit teas** rather than milk tea. The Strand's favourite is the grape slushie, made with real grape pieces and topped with cheese milk foam and crystal boba. A TikTok reviewer touring Chinatown in August 2026 called the golden passion fruit tea (listed at **£6.50**) "the best one we've had". Two London YouTube reviewers include it too. Walk-in only, open until about 10:30pm.
 
@@ -239,11 +239,11 @@ Most of the shops above are takeaway counters. These have seats:
 
 ![Velvet chairs and a long counter table inside Pürcha, with framed leaf prints on a brick wall and pendant lamps overhead](../../assets/articles/best-bubble-tea-london/purcha-seating.jpg)
 
-*Pürcha is the rare bubble tea shop built for staying.*
+*Pürcha's seating area.*
 
 ![Cuppo Bubbo's long cream shopfront at 167 Herne Hill, with the logo above the windows and tables visible inside](../../assets/articles/best-bubble-tea-london/cuppo-bubbo-herne-hill.jpg)
 
-*Cuppo Bubbo in Herne Hill: a whole shopfront of seating, a long way from the Chinatown counters.*
+*Cuppo Bubbo, Herne Hill.*
 
 ---
 
@@ -274,12 +274,12 @@ Nearly every name here is a chain, and the lists name the brand, not the branch.
 ## Quick stops near a station
 
 - 🚉 **King's Cross**: **BAO King's Cross**, 4 Pancras Square. BAO's Taiwanese café sells bubble tea from a takeaway counter. There are just two: a plain oolong and a fresh milk tea. The Standard says it's "perfect for a beginner." *Cited by 2 sources · [baolondon.com](https://baolondon.com/restaurant/bao-kings-cross/)*
-- 🚉 **Liverpool Street**: **Jen Tea**, 16 Artillery Passage, E1. A narrow lane five minutes from the station, and a favourite of three London video reviewers. One calls it "very low key and very expensive," and keeps going back. *Cited by 3 sources · [jentea.co.uk](https://jentea.co.uk/)*
+- 🚉 **Liverpool Street**: **Jen Tea**, 16 Artillery Passage, E1. A narrow lane five minutes from the station, and a favourite of three London video reviewers. One calls it "very low key and very expensive," and keeps going back. Its cream cheese pearl oolong milk tea is £6.60. *Cited by 3 sources · [jentea.co.uk](https://jentea.co.uk/)*
 - 🌙 **Late in Chinatown**: **Milksha**, 65 Shaftesbury Avenue, W1D 6LH. Open until about 11pm, the latest on this page. The Strand orders strawberry Yakult with honey pearls. *Cited by 2 sources · [milksha.co.uk](https://www.milksha.co.uk/)*
 
 ![A cream cheese pearl oolong milk tea held up in front of Jen Tea's pegboard wall, with the price, £6.60, written on the board behind](../../assets/articles/best-bubble-tea-london/jen-tea-cream-cheese-oolong.jpg)
 
-*Jen Tea's cream cheese pearl oolong milk tea, £6.60 on the board.*
+*Jen Tea's cream cheese pearl oolong milk tea.*
 
 ---
 

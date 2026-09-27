@@ -80,7 +80,7 @@ No judged award exists for a restaurant interior, so what follows is agreement r
 *££££ · Mayfair · 7 min from Green Park · Cited by 6 sources · book weeks ahead*
 
 ![The long dining room at Bacchanalia, red velvet banquettes and tables beneath a hand-painted ceiling of classical figures, with white marble sculptures set into the grotto-style walls](../../assets/articles/most-instagrammable-restaurants-london/bacchanalia-room.jpg)
-*The painted ceiling runs the length of the room, and the sculptures sit in grottoes along the wall.*
+*The ceiling murals at Bacchanalia.*
 
 **Six of the seven sources name it, more than any other room here.** It is a Greco-Roman fantasy on Mount Street: marble sculptures by Damien Hirst, hand-painted ceiling murals by Gary Myatt, and an interior by Martin Brudnizki, the designer behind a good proportion of the other rooms on this page.
 
@@ -91,7 +91,7 @@ The cooking is Greek and southern Italian — grilled fish, mezze, pasta — and
 *££££ · Mayfair · 6 min from Oxford Circus · Cited by 5 sources · book weeks ahead*
 
 ![The bar at Sketch, a woodland mural lit in shafts of light, with bottles on floating wooden shelves under a dark red panelled ceiling](../../assets/articles/most-instagrammable-restaurants-london/sketch-bar.jpg)
-*Not the Gallery: this is the Glade, painted as a woodland with the bottles on floating shelves. The rooms at Sketch look nothing like each other.*
+*The Glade, at Sketch.*
 
 **Sketch is not one room, and this is the thing to get right before booking.** It is a Georgian townhouse at **9 Conduit Street, W1S 2XG**, divided into rooms that look nothing like each other, and every source on this page calls all of them "Sketch". Book the room you have seen a photograph of, not the address.
 
@@ -102,21 +102,21 @@ The cooking is Greek and southern Italian — grilled fish, mezze, pasta — and
 - **The East Bar** at the back is a small round room under a domed ceiling, beside the pods.
 
 ![The Gallery at Sketch since its 2022 redesign, long yellow velvet banquettes and white-clothed tables under a gilded ceiling, with artworks on copper-coloured walls](../../assets/articles/most-instagrammable-restaurants-london/sketch-gallery.jpg)
-*The Gallery as it is now: yellow and copper rather than pink.*
+*The Gallery, at Sketch.*
 
 **And the lavatories.** Up the staircase from the Gallery is an atrium of **egg-shaped pods**, each a self-contained white capsule under a stained-glass dome, with birdsong playing.
 
 > 💡 **The pods are free.** You do not need a booking, a table or a drink to walk up and photograph them.
 
 ![The white egg-shaped lavatory pods at Sketch under a ceiling of coloured glass panels, with a large paper-flower installation between them](../../assets/articles/most-instagrammable-restaurants-london/sketch-pods.jpg)
-*The pods, under the coloured glass ceiling. No booking needed to see them.*
+*The lavatory pods, at Sketch.*
 
 ### Circolo Popolare, Fitzrovia
 
 *££ · Fitzrovia · 3 min from Tottenham Court Road · Cited by 5 sources · book weeks ahead*
 
 ![The dining room at Circolo Popolare, its walls stacked with bottles under a canopy of greenery, wisteria and fairy lights](../../assets/articles/most-instagrammable-restaurants-london/circolo-popolare-room.jpg)
-*The bottles run floor to ceiling on every wall, and the ceiling is a canopy of foliage and fairy lights.*
+*The dining room at Circolo Popolare.*
 
 **The cheapest of the three most-cited rooms, at ££ against ££££.** Big Mamma's Sicilian room hangs fairy lights from a canopy of foliage over walls stacked floor to ceiling with bottles — one source counts over 20,000, though that is the restaurant's own figure repeated.
 
@@ -137,7 +137,7 @@ The cooking is Greek and southern Italian — grilled fish, mezze, pasta — and
 *££ · Covent Garden · 5 min from Embankment · Cited by 4 sources · book weeks ahead*
 
 ![The main hall at Ave Mario, black-and-white striped walls and arches under globe chandeliers, with red velvet booths and walls of bottles behind](../../assets/articles/most-instagrammable-restaurants-london/ave-mario-room.jpg)
-*The main hall: the stripes, the arches and the bottles. Ask to sit here rather than in a side room.*
+*The main hall at Ave Mario.*
 
 A Studio Kiki room with psychedelic duomo-striped walls, a hall of mirrors and a bar holding 3,500 bottles. Same group as Circolo Popolare and the same trick — maximalism at a price that does not match it. The lavatories are a mirrored infinity room.
 
@@ -152,7 +152,7 @@ A Studio Kiki room with psychedelic duomo-striped walls, a hall of mirrors and a
 *££££ · Mayfair · 3 min from Bond Street · Cited by 4 sources · book a few days ahead*
 
 ![Damien Hirst's crystal-covered Pegasus sculpture suspended above the dining room at Brasserie of Light, blue booths and yellow chairs below](../../assets/articles/most-instagrammable-restaurants-london/brasserie-of-light-pegasus.jpg)
-*The Pegasus, looking down over the whole room.*
+*The Pegasus, at Brasserie of Light.*
 
 Built around **a 24-foot crystal-encrusted Damien Hirst Pegasus**, in Art Deco mirror and brass inside Selfridges. Four sources name it and every one leads on the sculpture.
 
@@ -170,7 +170,7 @@ A covered terrace at The Bloomsbury Hotel whose floral installation is **changed
 
 ![Dalloway Terrace dressed in dried autumn foliage in copper, cream and gold across the walls and ceiling, with marble tables and rattan chairs](../../assets/articles/most-instagrammable-restaurants-london/dalloway-terrace-autumn.jpg)
 ![The same terrace in summer, green climbing plants and blue flowers on the walls over the same marble tables and rattan chairs](../../assets/articles/most-instagrammable-restaurants-london/dalloway-terrace-summer.jpg)
-*The same terrace in two seasons. Check which dressing is up before you go for the photograph.*
+*Dalloway Terrace, in two seasons.*
 
 **It is an all-day room rather than a dinner one.** Breakfast, then **afternoon tea**, then a short brasserie menu — and afternoon tea is what it is really for, taken under the flowers with the terrace heated and covered.
 
@@ -183,7 +183,7 @@ A covered terrace at The Bloomsbury Hotel whose floral installation is **changed
 *££ · Shoreditch · 8 min from Old Street · Cited by 4 sources · book weeks ahead*
 
 ![The ground-floor room at Gloria, a white-blossom tree spreading over striped banquettes and cane chairs, with hand-painted plates lining the walls](../../assets/articles/most-instagrammable-restaurants-london/gloria-room.jpg)
-*Upstairs at Gloria: the blossom tree and the plates on the walls, in daylight.*
+*Upstairs at Gloria.*
 
 Big Mamma's 1970s Capri pastiche: hand-painted plates, a blossom tree in the middle of the room, and striped banquettes.
 
@@ -200,7 +200,7 @@ Big Mamma's 1970s Capri pastiche: hand-painted plates, a blossom tree in the mid
 A four-floor Sicilian palazzo on Kensington High Street under a **retractable glass roof**, crammed with Roman statues, Murano glass chandeliers and greenery.
 
 ![The dining room at Jacuzzi, red curved booths and white tables around indoor trees, under Murano glass chandeliers hung with fairy lights](../../assets/articles/most-instagrammable-restaurants-london/jacuzzi-room.jpg)
-*The main room at Jacuzzi, with the trees growing up through it.*
+*The main room at Jacuzzi.*
 
 **The roof is the thing to plan around.** It opens in warm weather and the room becomes a different place; on a wet January evening you are in a covered atrium instead. Worth asking when you book if the open roof is what you came for.
 
@@ -215,7 +215,7 @@ A four-floor Sicilian palazzo on Kensington High Street under a **retractable gl
 **A restored eighteenth-century courthouse**, on the top floor of the old Clerkenwell Sessions House, with peeling plaster left deliberately unrestored and battered armchairs scattered through it. The hardest booking on this page — months rather than weeks.
 
 ![The dining room at Sessions Arts Club, tall arched windows and walls of peeling green and pink plaster above candlelit tables with white cloths](../../assets/articles/most-instagrammable-restaurants-london/sessions-arts-club-room.jpg)
-*The plaster has been left peeling on purpose.*
+*The dining room at Sessions Arts Club.*
 
 It is also one of the few here where the kitchen is cited as often as the interior.
 
@@ -245,7 +245,7 @@ Big Mamma builds maximalist Italian rooms at prices that do not match them, and 
 **Carlotta** on Marylebone High Street is the group's Italian-American room — plush, retro, red leather booths, pasta alla vodka and whole roasted fish. One source names it.
 
 ![The dining room at Carlotta, deep red leather booths and small tables in front of ruched cream curtains, with framed boxing posters and photographs on the walls](../../assets/articles/most-instagrammable-restaurants-london/carlotta-room.jpg)
-*Carlotta: red leather, ruched curtains and boxing posters.*
+*Carlotta, Marylebone.*
 
 **Barbarella** in Canary Wharf is a 1970s Italian fantasy, and none of the seven guides name it. Interior lists lag: a room has to be open long enough to be written up, and these guides are refreshed less often than the group opens restaurants. Both rooms are on Big Mamma's own site, and both are listed here rather than ranked because no source reaches them.
 
@@ -256,37 +256,37 @@ Rooms group by what makes them photograph well rather than by price.
 **Inside a building that was something else first.** Sessions Arts Club, an eighteenth-century courthouse. **NoMad London**, a three-storey glass atrium in the former Bow Street Magistrates Court, opposite the Royal Opera House and a working court until 2006. *££££ · Covent Garden · 3 min from Covent Garden · Cited by 2 sources.*
 
 ![The glass-roofed atrium at NoMad London seen from an upper gallery, hanging lanterns and palms over the tables and a central bar](../../assets/articles/most-instagrammable-restaurants-london/nomad-london-atrium.jpg)
-*The atrium at NoMad London, in the old magistrates' court.*
+*The atrium at NoMad London.*
 
 **Under glass.** **Petersham Nurseries** in Richmond serves lunch inside a working plant nursery, surrounded by what is for sale. *££££ · Richmond · 29 min from Richmond · Cited by 2 sources.*
 
 ![Inside a glasshouse at Petersham Nurseries, a table made from a tree stump laden with pumpkins and heather, among hanging plants and potted flowers](../../assets/articles/most-instagrammable-restaurants-london/petersham-nurseries-glasshouse.jpg)
-*Inside the glasshouses at Petersham Nurseries, where everything around you is for sale.*
+*Inside the glasshouses at Petersham Nurseries.*
 
 **Winter Garden** at The Landmark sits under an eight-storey glass atrium with full-height palms — named by one source here, and better known for its afternoon tea. *££££ · Marylebone · 3 min from Marylebone.*
 
 ![The eight-storey glass-roofed atrium of the Landmark London, with full-grown palm trees rising above the tables](../../assets/articles/most-instagrammable-restaurants-london/winter-garden.jpg)
-*Eight storeys of glass roof over full-grown palms, in what was a Victorian railway hotel.*
+*Winter Garden, at The Landmark.*
 
 **Rooms with a view.** **Seabird** on the South Bank is a rooftop with a long London panorama. *£££ · South Bank · 2 min from Southwark · Cited by 2 sources.*
 
 ![The rooftop dining room at Seabird, rattan chairs, palms and woven pendant lamps in front of floor-to-ceiling windows over the city](../../assets/articles/most-instagrammable-restaurants-london/seabird-room.jpg)
-*Seabird's rooftop dining room, with the city through the windows.*
+*Seabird's rooftop dining room.*
 
 **Sky Garden** is not really a restaurant at all — it is a planted dome on top of 20 Fenchurch Street with restaurants inside it. **Entry to the garden is free with a booked timed slot**; the restaurants are separate and are not. *£££ · City of London · 3 min from Monument · Cited by 2 sources.*
 
 ![Terraced tropical planting inside the glass dome of Sky Garden, with visitors at the windows looking out over east London](../../assets/articles/most-instagrammable-restaurants-london/sky-garden.jpg)
-*The garden itself, which is the free part.*
+*The garden inside Sky Garden.*
 
 **Gardens at street level.** **The Ivy Chelsea Garden** has a walled garden behind the King's Road, dressed seasonally, with a conservatory for the months it is too cold to sit out. *£££ · Chelsea · 14 min from South Kensington · Cited by 2 sources.*
 
 ![The walled garden at The Ivy Chelsea Garden, café tables under a green scalloped umbrella surrounded by potted plants and climbers](../../assets/articles/most-instagrammable-restaurants-london/ivy-chelsea-garden.jpg)
-*The walled garden behind the King's Road.*
+*The Ivy Chelsea Garden's walled garden.*
 
 **Basements.** **Sucre** in Soho is lit by cut-glass chandeliers over an open fire kitchen; one source calls it impressive but *just subdued enough not to feel gimmicky*. *£££ · Soho · 5 min from Oxford Circus · Cited by 2 sources.*
 
 ![The long dining room at Sucre, clusters of glass chandeliers over leather chairs and banquettes, with the open kitchen lit at the far end](../../assets/articles/most-instagrammable-restaurants-london/sucre-room.jpg)
-*Sucre's chandeliers, with the fire kitchen at the far end of the room.*
+*Sucre's chandeliers.*
 
 ---
 
@@ -304,7 +304,7 @@ Most of this list is expensive. Four rooms are not.
 *££ · Borough · 5 min from Borough · Cited by 2 sources · book a few days ahead*
 
 ![The counter at Bar Douro, faced in blue-and-white azulejo tiles with leather bar stools, under a slatted ceiling with a tiled panel on the back wall](../../assets/articles/most-instagrammable-restaurants-london/bar-douro-counter.jpg)
-*The tiled counter, which is where you eat.*
+*The tiled counter at Bar Douro.*
 
 A narrow Portuguese counter, tiled floor to ceiling in hand-painted azulejos, under a slatted shack-like ceiling, at ££.
 
@@ -333,7 +333,7 @@ Where the cooking does match the room: **Spring** at Somerset House, **Sessions 
 Skye Gyngell's dining room in the New Wing of Somerset House — a nineteenth-century drawing room in blonde wood and blush, under a porcelain petal installation by Valeria Nascimento.
 
 ![The dining room at Spring in Somerset House, white-clothed tables and tan leather chairs between white columns, under clusters of white globe lights](../../assets/articles/most-instagrammable-restaurants-london/spring-room.jpg)
-*Spring, in the New Wing of Somerset House.*
+*Spring's dining room.*
 
 **The cooking is seasonal and Italian-influenced**, built around produce from a single Sussex farm, so the menu changes constantly and there is no signature dish to name.
 
@@ -357,7 +357,7 @@ Rooms carried by two sources each:
 - **Sticks'n'Sushi**, Battersea — Danish-Japanese, and the plainest room here. *£££ · 2 min from Battersea Power Station.*
 
 ![The press-for-champagne button in a brass plate on a marble wall at Bob Bob Ricard, with a hand holding a glass of rosé champagne beside it](../../assets/articles/most-instagrammable-restaurants-london/bob-bob-ricard-champagne-button.jpg)
-*Bob Bob Ricard's press-for-champagne button, fitted at every table.*
+*The press-for-champagne button, at Bob Bob Ricard.*
 
 ![The dining room at Isabel, a ceiling of gold dishes over a long wooden bar, flower arrangements and candlelit tables](../../assets/articles/most-instagrammable-restaurants-london/isabel-room.jpg)
 *Isabel, under its ceiling of gold.*
@@ -366,10 +366,10 @@ Rooms carried by two sources each:
 *The cherry blossom trees at Tattu.*
 
 ![A table for two at Joia beside a floor-to-ceiling window, with a chimney of Battersea Power Station and the London skyline outside at dusk](../../assets/articles/most-instagrammable-restaurants-london/joia-view.jpg)
-*Joia's window seats, looking out at a Battersea Power Station chimney.*
+*Joia's window seats.*
 
 ![The long marble counter at Bancone, black leather stools along it and pendant lights overhead, with bottles on shelves behind the bar](../../assets/articles/most-instagrammable-restaurants-london/bancone-counter.jpg)
-*Bancone's marble counter, where most people eat.*
+*Bancone's marble counter.*
 
 ---
 
