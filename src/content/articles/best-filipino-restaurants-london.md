@@ -82,7 +82,7 @@ The room is on the top floor of Kingly Court — the same unit Imad's Syrian Kit
 
 *£££ · 157 Kentish Town Road · Cited by 5 sources · #13 of 25, The Infatuation · in the 2026 Michelin Guide · [book a table](https://www.bellylondon.com/reservations)*
 
-The highest-ranked Filipino restaurant in London on the one list that publishes an order, and the only entry here cooking French bistro technique through a Filipino lens. It is **Omar Shah's**, on the site of his old ramen shop, and it seats 35 at white tablecloths with a wood fire at the back. Time Out gave it five stars in September 2025 and called it the best new opening in Kentish Town in years; Michelin added it to the 2026 guide and tagged it an inspectors' favourite.
+The highest-ranked Filipino restaurant in London on the one list that publishes an order, and the only entry here cooking French bistro technique through a Filipino lens. It is **Omar Shah's**, on the site of his old ramen shop, and it seats 35 at white tablecloths with a wood fire at the back. Time Out gave it five stars in September 2025 and called it the best new restaurant in Kentish Town in years; Michelin added it to the 2026 guide and tagged it an inspectors' favourite.
 
 ![Two scallop shells set on a bed of dried white beans, each holding scallop in a pale coconut sauce with red chilli rings, coriander and drops of green and orange oil](../../assets/articles/best-filipino-restaurants-london/belly-bistro-scallops.jpg)
 

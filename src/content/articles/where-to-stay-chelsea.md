@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Mandarin_Oriental_Hyde_
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 publishedAt: 2026-09-25
-reviewBy: 2027-03-25
+reviewBy: 2026-10-22
 sites: [london]
 canonicalSite: london
 category: "Stay"

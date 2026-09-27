@@ -10,6 +10,7 @@ heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 publishedAt: 2026-09-08
 updatedAt: 2026-09-25
+reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"

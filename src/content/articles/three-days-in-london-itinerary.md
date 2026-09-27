@@ -4,7 +4,7 @@ seoTitle: "Three Days in London Itinerary: Hours & Prices"
 description: "A three-day London plan with the operators' own opening hours and prices, TfL walking times between every stop, and the closures that wreck a day: the Abbey on Sundays, Borough on Mondays, the Treasures Gallery on Sundays."
 publishedAt: 2026-07-28
 updatedAt: 2026-09-21
-reviewBy: 2026-10-31
+reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -33,7 +33,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 
 A three-day plan that lists famous things without checking whether they sit near each other puts you on the Tube four times a day.
 
-This plan groups by geography. Days 1 and 2 are walkable end to end. Every walking time below is the one [TfL's journey planner](https://tfl.gov.uk/plan-a-journey/) gives, which runs a little slower than most people actually walk, so treat them as the outside figure. Prices and opening hours are the operators' own, read on 21 September 2026.
+This plan groups by geography. Days 1 and 2 are walkable end to end. Every walking time below is the one [TfL's journey planner](https://tfl.gov.uk/plan-a-journey/) gives, which runs a little slower than most people actually walk, so treat them as the outside figure. Prices and opening hours are the operators' own, checked on 21 September 2026.
 
 > 💡 **The Short Version:** **Day 1** is Westminster and the West End on foot — the Abbey (£31, and shut to sightseers on Sundays), the Churchill War Rooms (£34, timed entry), St James's Park, Buckingham Palace and the free National Gallery, ending at a show or in Soho. **Day 2** is the Tower (£37, allow two to three hours) then the South Bank as one continuous river walk to the London Eye. **Day 3** is one free museum district — South Kensington or Bloomsbury, never both. Book the Tower, the Abbey, the War Rooms and any show before you fly.
 
@@ -128,7 +128,7 @@ We have the same ground as a [numbered South Bank walk](/articles/south-bank-wal
 
 **Allow two and a half to three hours.** It is much bigger than people expect, and the Crown Jewels, the White Tower and the ramparts are three separate visits inside one wall.
 
-> 💡 **Historic Royal Palaces' own advice is that the Tower is quieter after midday.** That contradicts the standard first-slot advice, and it is worth following — but only if you are through the gate with three hours left. Last admission is an hour before closing, and on 19 September 2026 the last **Yeoman Warder tour included in the ticket left at 15:15**. That free tour is the part of the ticket that explains the buildings, so an entry slot of 12:00 to 13:00 is the sweet spot: past the morning crush, still in time for a Beefeater.
+> 💡 **Historic Royal Palaces' own advice is that the Tower is quieter after midday.** That contradicts the standard first-slot advice, and it is worth following — but only if you are through the gate with three hours left. Last admission is an hour before closing, and on 19 September 2026 the last **Yeoman Warder tour had left by 15:15**. That free tour is the part that explains the buildings, so an entry slot of 12:00 to 13:00 is the sweet spot: past the morning crush, still in time for a Beefeater.
 
 Never pay a third party for an "exclusive Beefeater tour". The Yeoman Warder tour is included with every ticket, runs roughly every half hour from near the entrance, and needs no separate booking.
 
@@ -283,4 +283,4 @@ For maximum walking, base yourself in [Covent Garden](/articles/covent-garden-ar
 
 ---
 
-*Prices and opening hours are the operators' own, read on 21 September 2026. Walking times are TfL's. Attractions close for ceremonies and services at short notice, and hours move around public holidays.*
+*Prices and opening hours are the operators' own, checked on 21 September 2026. Walking times are TfL's. Attractions close for ceremonies and services at short notice, and hours move around public holidays.*

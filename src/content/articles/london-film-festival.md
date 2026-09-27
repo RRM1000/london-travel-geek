@@ -18,7 +18,7 @@ tags:
 draft: false
 faq:
   - q: "When is the BFI London Film Festival 2026?"
-    a: "7 to 18 October 2026. It is the 70th edition. Tickets went on general sale at 10am on 17 September 2026 and are on sale now, with a further release at 10am on 1 October. Elsinore opens the festival on 7 October and The Debut closes it on 18 October; both are sold out at every screening."
+    a: "7 to 18 October 2026. It is the 70th edition. Tickets have been on general sale since 10am on 17 September 2026, with a further release at 10am on 1 October. Elsinore opens the festival on 7 October and The Debut closes it on 18 October; both are sold out at every screening."
   - q: "When do London Film Festival tickets go on sale?"
     a: "They went on general sale at 10am on Thursday 17 September 2026, after BFI Patrons booked from 9 September and Members from 10 September. Tickets are on sale now, and the BFI's ticket availability page lists what is not yet full. The next release of held-back tickets is at 10am on Thursday 1 October, and more go online at 10am each morning during the festival."
   - q: "How much are London Film Festival tickets?"

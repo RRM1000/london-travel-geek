@@ -9,6 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Kenwood-House-JBU_03.j
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-08-23
+reviewBy: 2026-10-15
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -139,7 +140,7 @@ The Courtaulds' half gives you a **circular entrance hall** lit from above and p
 
 Nineteen acres of garden outside, with a rock garden, a sunken rose garden and **London's oldest working bridge** over the moat.
 
-**Book online by midnight the day before to pay £17 rather than £20 on the door.** The catch is the calendar: it runs daily through the summer, but from **early November to mid-February it opens weekends only**, and it closes early on some Saturdays for weddings. **The lift is out of order** (September 2026) — ask staff about the alternative.
+**Book online by midnight the day before to pay £17 rather than £20 on the door.** The catch is the calendar: it runs daily through the summer, but from **early November to mid-February it opens weekends only**, and it closes early on some Saturdays for weddings. **The lift is out of order**, checked September 2026 — ask staff about the alternative.
 
 ### Kensington Palace
 

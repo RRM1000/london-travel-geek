@@ -3,7 +3,7 @@ title: "Premier League Tickets in London: Why You Cannot Just Buy One"
 seoTitle: "Premier League Tickets London: How to Actually Get One"
 description: "The six London clubs in the Premier League sell home tickets to members first and mostly never reach general sale. What each membership costs, when ballots open, the club resale platforms, and why reselling a football ticket is a criminal offence."
 publishedAt: 2026-09-21
-reviewBy: 2026-12-01
+reviewBy: 2026-10-13
 sites:
   - london
 canonicalSite: london
@@ -29,7 +29,7 @@ faq:
   - q: "How much is a Premier League ticket in London?"
     a: "Roughly £40 to £145 for an ordinary seat, plus the membership. Arsenal's ballot for a Category A home match ran from £78 to £145.50. Chelsea's top Category AA band is £78 for an adult member in the East Upper, £66 in the Matthew Harding Lower and £27 for a restricted view, with general-sale seats £5 more. Brentford's overseas ballot charges £40.40 to £50.50 for an adult and £10.10 to £15.15 for a junior, depending on the fixture category."
   - q: "Which London club is easiest to get Premier League tickets for?"
-    a: "Fulham and Brentford. Fulham sells to members, then season-ticket holders wanting an extra seat, then anyone who has booked in the past five years, then on general sale — its home fixture against Crystal Palace on 5 September 2026 went to general sale, up to four tickets per person. Brentford holds back 100 tickets for every home Premier League match in a ballot for Bees Overseas members only, which costs £30.30 a season and needs no loyalty points."
+    a: "Fulham and Brentford. Fulham sells to members, then season-ticket holders wanting an extra seat, then anyone who has booked in the past five years, then on general sale — its home fixture against Crystal Palace on 5 September 2026 was released to general sale, up to four tickets per person. Brentford holds back 100 tickets for every home Premier League match in a ballot for Bees Overseas members only, which costs £30.30 a season and needs no loyalty points."
   - q: "Is it illegal to buy football tickets from a tout in England?"
     a: "It is illegal to sell one. Under section 166 of the Criminal Justice and Public Order Act 1994, selling a ticket for a designated football match without the organisers' written authorisation is an offence, and 'sell' includes offering, advertising or bundling it with other goods. The fine is unlimited. Buying is not the offence, but the ticket is void and you will be turned away at the turnstile."
   - q: "Can I use StubHub or Viagogo to buy Premier League tickets?"
@@ -228,7 +228,7 @@ Fulham's [2026/27 membership](https://www.fulhamfc.com/tickets-and-hospitality/m
 
 - **Booking history** means a Fulham men's first-team ticket bought in the **past five years**, not counting one bought only for the same opponent.
 - **Join in time.** For that Manchester United match, the membership had to be in place by **noon on 28 August**.
-- **General sale does happen.** The derby against Crystal Palace on 5 September 2026 went on **General Sale with up to four tickets per person**, with none in the Putney End.
+- **General sale does happen.** The derby against Crystal Palace on 5 September 2026 was released to **General Sale, up to four tickets per person**, with none in the Putney End.
 
 **Prices** fall into five fixture categories. A Category B seat in block H4 of the Hammersmith End is **£61 for an adult and £36 for a junior**. Members get **£10 off in The Riverside and £5 off elsewhere** on one ticket per fixture, and restricted-view seats are £2 cheaper. The full grid is on the [2026/27 match ticket prices page](https://www.fulhamfc.com/tickets-and-hospitality/match-tickets/26-27-match-ticket-prices).
 

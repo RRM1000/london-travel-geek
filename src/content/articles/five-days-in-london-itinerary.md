@@ -4,7 +4,7 @@ seoTitle: "Five Days in London Itinerary: Day by Day"
 description: "Five days written out in full, with the operators' own hours and prices, TfL walking times, and the river fare to Greenwich. Westminster, the City, the South Bank, Greenwich by boat, and one museum district with its neighbourhood."
 publishedAt: 2026-07-28
 updatedAt: 2026-09-21
-reviewBy: 2026-10-31
+reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -31,7 +31,7 @@ Three days in London is a forced march: the Tower and the whole South Bank land 
 
 Five days fixes that by splitting, not by adding. The Tower gets an afternoon and the City an evening. The South Bank gets its own day. Greenwich gets a whole one, reached by boat. And the fifth day is one district and nothing else, which is the day most people remember.
 
-Every walking time below is [TfL's](https://tfl.gov.uk/plan-a-journey/), which runs slower than most people walk. Prices and opening hours are the operators' own, read on 21 September 2026.
+Every walking time below is [TfL's](https://tfl.gov.uk/plan-a-journey/), which runs slower than most people walk. Prices and opening hours are the operators' own, checked on 21 September 2026.
 
 > 💡 **The Short Version:** **Day 1** Westminster and the West End — the Abbey (£31, shut to sightseers on Sundays) and the Churchill War Rooms (£34, timed entry only). **Day 2** the Tower (£37) on an afternoon slot, Tower Bridge, then the City and a free view from Sky Garden or Horizon 22. **Day 3** the South Bank end to end, Borough Market to the London Eye. **Day 4** Greenwich by river — £11.40 by contactless, 56 to 60 minutes from Westminster. **Day 5** one district and nothing else — a free museum morning and the neighbourhood around it, or a market day in the east.
 
@@ -105,7 +105,7 @@ Walk into St James's or two stops to Covent Garden rather than eating on the bri
 
 **Allow two and a half to three hours.** The Crown Jewels, the White Tower and the ramparts are three separate visits inside one wall.
 
-> 💡 **Take the late-morning slot, not the first one.** Historic Royal Palaces' own guidance is that the Tower is quieter after midday, and on a five-day trip you can afford to believe it. The constraint is the free **Yeoman Warder tour**, which runs roughly every half hour and is the best hour in the place: on 19 September 2026 the last one included in the ticket left at 15:15. An 11:00 or 12:00 entry clears the morning crush and still catches a Beefeater.
+> 💡 **Take the late-morning slot, not the first one.** Historic Royal Palaces' own guidance is that the Tower is quieter after midday, and on a five-day trip you can afford to believe it. The constraint is the free **Yeoman Warder tour**, which runs roughly every half hour and is the best hour in the place: on 19 September 2026 the last one included in the ticket had left by 15:15. An 11:00 or 12:00 entry clears the morning crush and still catches a Beefeater.
 
 ### Tower Bridge
 
@@ -317,4 +317,4 @@ Our view: on five days, don't. Greenwich gives you the change of scene, an hour 
 
 ---
 
-*Prices and opening hours are the operators' own, read on 21 September 2026. Walking times are TfL's. River fares hold until 31 October 2026. Attractions close for ceremonies and services at short notice, and hours move around public holidays.*
+*Prices and opening hours are the operators' own, checked on 21 September 2026. Walking times are TfL's. River fares hold until 31 October 2026. Attractions close for ceremonies and services at short notice, and hours move around public holidays.*

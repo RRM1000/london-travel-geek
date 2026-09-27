@@ -4,6 +4,7 @@ seoTitle: "Best Immersive Experiences London 2026: Still Open"
 description: "Immersive shows close constantly and most guides are years out of date. Every experience here was status-checked against its own site, with the closed ones listed separately."
 publishedAt: 2026-09-01
 updatedAt: 2026-09-01
+reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -341,7 +342,7 @@ Good accessibility provision: chilled sessions, deaf and hard-of-hearing support
 
 ### LUMINISCENCE, Westminster Cathedral
 
-*From £27.50 · **ends 27 September 2026** · 50 minutes · Victoria*
+*From £27.50 · **extended to 30 January 2027** · 50 minutes · Victoria*
 
 **A 360-degree projection concert inside Westminster Cathedral**, which is a far stranger and better setting than a purpose-built room — the video mapping runs across the cathedral's own mosaics, domes and pillars rather than onto blank walls built to receive it.
 
@@ -349,7 +350,7 @@ It is **not** a silent light show. There is a **live 14-piece orchestra and the 
 
 **Three tiers, and the difference is the music, not the seat.** Standard from £32.50, **choir performances from £27.50**, and **Orchestra Nights, every Saturday through September, from £42.90.** Children 5–18 are cheaper and under-5s go free.
 
-**Fifty minutes, arrive twenty minutes early, and there is no late entry** — the doors shut. It runs until **27 September 2026**.
+**Fifty minutes, arrive twenty minutes early, and there is no late entry** — the doors shut. It has been extended, due to demand, to **30 January 2027**.
 
 Level access through the main entrance, though there are steps into the individual chapels. A hearing loop and transcription are available on request, service animals are welcome, and there is **no strobe lighting**, though there are flashing lights. Reduced tickets for over-65s, students and disabled visitors.
 
@@ -365,7 +366,7 @@ Level access through the main entrance, though there are steps into the individu
 
 You sit or stand as you like and nobody performs at you. **Slots run every half hour**, tickets are £25 for adults and **£15 for students and under-18s**, plus a £2 transaction fee per order. BSL showings are offered.
 
-**Wallace & Gromit: Larger Than Life opens here on 14 October 2026**, from £25, if the Bowie one has gone by the time you read this.
+**Wallace & Gromit: Larger Than Life opens here on 14 October 2026**, from £25.
 
 <div data-stay-strip></div>
 

@@ -4,6 +4,7 @@ seoTitle: "Best Cabaret London 2026: Venues Still Open"
 description: "London's biggest cabaret operator has collapsed and most guides still list rooms that shut years ago. Every venue here was status-checked against its own site, with the closed ones named."
 publishedAt: 2026-09-01
 updatedAt: 2026-09-01
+reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"

@@ -166,9 +166,7 @@ Follow the southern path towards Lion Gate. Here stands **The Great Pagoda**, co
 *The Great Pagoda. Photo: Peter Trimming (CC BY-SA 2.0).*
 
 - **The dragons:** The 2018 restoration reinstated all **80 dragons** along the eaves, each carved from gilded wood, matching the original 18th-century design. The originals were removed in 1784 — rumoured to have been sold to settle George IV's gambling debts, though Historic Royal Palaces believes they had simply rotted, being made of wood.
-- **Climbing the Pagoda:** Open daily until **27 September 2026**, 11am to a last timeslot at 4pm. You need a Kew Gardens ticket first, then book a Pagoda slot as an Optional Extra, or separately if you already have Gardens entry. Nearest entrance: Lion Gate.
-
-> ⚠️ **The Pagoda closes for the season on 28 September 2026.** Along with Kew Palace and Queen Charlotte's Cottage, it stays shut until spring 2027.
+- **Climbing the Pagoda:** Summer only. The 2026 season has finished, and the Pagoda, Kew Palace and Queen Charlotte's Cottage stay shut until spring 2027. In season it runs 11am to a last timeslot at 4pm, booked as an Optional Extra on a Kew Gardens ticket. Nearest entrance: Lion Gate.
 
 <div data-stay-strip></div>
 
@@ -227,7 +225,7 @@ Glasshouses close earlier than the gardens overall — 5pm through September 202
 ## Practical information
 
 ### Food, drink and picnics
-- **The Orangery:** Coffee, cakes and light meals in an 18th-century building near Elizabeth Gate — the informal option for a coffee break or lunch. Closes at 4pm on selected dates, including 25 and 26 September and 2 and 3 October 2026.
+- **The Orangery:** Coffee, cakes and light meals in an 18th-century building near Elizabeth Gate — the informal option for a coffee break or lunch. Closes at 4pm on selected dates, including 2, 3, 9 and 10 October 2026.
 - **The Botanical Brasserie:** A separate, all-day restaurant with modern British breakfast, lunch and afternoon tea. Mains run £23.50–£32 at lunch. You need a Kew Gardens ticket before you can book a table.
 - **Pavilion Bar & Grill:** Near the Temperate House. Burgers and Mediterranean-inspired dishes grilled on charcoal or smoked over wood, with outdoor terrace seating.
 - **Victoria Plaza Café:** At Victoria Gate. Coffee, cakes, sandwiches and snacks, for a quick stop.
