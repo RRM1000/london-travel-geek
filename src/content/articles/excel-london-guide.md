@@ -15,6 +15,7 @@ canonicalSite: london
 category: "Things to do"
 tags: [ExCeL London, Custom House, Prince Regent, Royal Docks, Docklands, parking, getting around, exhibitions, conventions]
 draft: false
+venueEvents: "ExCeL London"
 faq:
   - q: "Which station is nearest to ExCeL London?"
     a: "It depends which end of the building your event is in. Custom House, on the Elizabeth line and DLR, sits right against the West Entrance — about 200m, a couple of minutes on foot. Prince Regent, DLR only, is the same distance from the East Entrance and the ICC suites. The two stations are roughly a kilometre apart walking through the venue, so check your event's hall or entrance before picking a station, not the other way round."
@@ -140,17 +141,7 @@ Both stations serving ExCeL are step-free — TfL's own step-free map confirms C
 
 ## Big shows here through the year
 
-ExCeL runs almost entirely on trade and B2B events, but a handful of shows each year are open to the public. Dates below are confirmed on each organiser's own site — check before booking, since some tiers sell out well ahead of the date.
-
-| Show | Dates | Good to know |
-| --- | --- | --- |
-| **New Scientist Live** | 10–11 October 2026 (a schools-only day follows on the 12th) | Science talks and exhibits |
-| **The National Wedding Show** | 17–18 October 2026 | Wedding suppliers and showcases |
-| **[MCM Comic Con](/articles/mcm-comic-con-london/)** | 23–25 October 2026 | From £29 one-day entry; weekend and both VIP tiers already sold out |
-| **London International Horse Show** | 17–21 December 2026 | Show entry (all day) from £37.95 |
-| **Grand Designs Live** | 30 April–3 May 2027 | Self-build, renovation and home-improvement show |
-
-For the fuller year-round calendar of what's on at ExCeL and London's other convention venues, see our [exhibitions and conventions guide](/articles/exhibitions-conventions-london/).
+ExCeL runs almost entirely on trade and B2B events, but a handful of shows each year are open to the public: [MCM Comic Con](/articles/mcm-comic-con-london/) in October, New Scientist Live, the London International Horse Show in December and Grand Designs Live in spring among them. The [upcoming public shows](#whats-on-excel-london) are listed at the foot of this page with their dates, and our [exhibitions and conventions calendar](/articles/exhibitions-conventions-london/) covers every London venue.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="excel-london-guide-thames-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

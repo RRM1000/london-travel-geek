@@ -14,6 +14,7 @@ tags:
   - Holland Park
   - neighbourhoods
 draft: false
+venueEvents: "Olympia London"
 area:
   name: "Kensington"
   zone: "1–2"

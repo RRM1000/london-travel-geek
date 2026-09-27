@@ -13,13 +13,25 @@
 //                   the August bank holiday weekend".
 //
 // A guide with no live events renders nothing at all.
+//
+// Two ways to select what shows: pass articleId + areaName for an area
+// guide's own events (matched on events.json's `guide` field), or pass
+// `venue` for every upcoming event at a named venue (matched on events.json's
+// `venue` field) - used where the venue itself has no area guide, such as
+// ExCeL. `venue` matches its own hall variants too, so "ExCeL London" also
+// picks up "ExCeL London (South Hall)" style entries where they exist.
 import data from "../data/events.json";
 
 interface Props {
-  articleId: string;
-  areaName: string;
+  articleId?: string;
+  areaName?: string;
+  venue?: string;
 }
-const { articleId, areaName } = Astro.props as Props;
+const { articleId, areaName, venue } = Astro.props as Props;
+const heading = venue ? `Coming up at ${venue}` : `What's on in ${areaName}`;
+const sectionId = venue ? `whats-on-${venue.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")}` : "whats-on";
+const matchesVenue = (eventVenue: string | undefined, want: string) =>
+  eventVenue === want || Boolean(eventVenue?.startsWith(`${want} (`));
 
 type Event = {
   slug: string; name: string; type?: string; style?: string; venue?: string;
@@ -45,7 +57,7 @@ function hasFinished(e: any) {
 }
 
 const list = (data.events as Event[]).filter(
-  (e: any) => e.guide === articleId && !hasFinished(e),
+  (e: any) => (venue ? matchesVenue(e.venue, venue) : e.guide === articleId) && !hasFinished(e),
 );
 
 const AGE_LABEL: Record<string, string> = {
@@ -162,7 +174,7 @@ const cards = list.map((e) => ({
 
 {list.length > 0 && (
   <section class="area-events">
-    <h2 id="whats-on">What's on in {areaName}</h2>
+    <h2 id={sectionId}>{heading}</h2>
     <p class="ae-intro">
       Limited runs and the annual fixtures. Anything already finished is
       removed automatically.

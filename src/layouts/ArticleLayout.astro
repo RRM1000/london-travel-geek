@@ -71,6 +71,10 @@ interface Props {
   heroImageLicenseUrl?: string;
   headings?: Heading[];
   area?: AreaMeta;
+  // A venue with upcoming events but no area guide of its own (ExCeL, Olympia)
+  // - the exact `venue` string used in src/data/events.json. Renders the same
+  // "Coming up at X" strip as an area guide's own events section.
+  venueEvents?: string;
   faq?: { q: string; a: string }[];
   // Area guides only - see splitAreaGuideBody. closingHtml is the "Suggested
   // route" + "Common mistakes" pair, rendered after the data-driven sections
@@ -99,6 +103,7 @@ const {
   heroImageLicenseUrl,
   headings = [],
   area,
+  venueEvents,
   faq = [],
   closingHtml = "",
   closingHeadings = [],
@@ -138,6 +143,21 @@ if (hasEvents && area) {
     depth: 2,
     slug: "whats-on",
     text: `What's on in ${area.name}`,
+  });
+}
+// A venue's own strip (ExCeL, Olympia) - independent of `area`, since neither
+// venue has an area guide. Matches AreaEvents's own venue-matching rule.
+const venueSlug = venueEvents?.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+const hasVenueEvents =
+  !!venueEvents &&
+  (eventData.events as { venue?: string }[]).some(
+    (e) => e.venue === venueEvents || e.venue?.startsWith(`${venueEvents} (`),
+  );
+if (hasVenueEvents) {
+  contentsHeadings.push({
+    depth: 2,
+    slug: `whats-on-${venueSlug}`,
+    text: `Coming up at ${venueEvents}`,
   });
 }
 const areaStations = area?.nearestStations.map((s) => s.name) ?? [];
@@ -382,6 +402,7 @@ const breadcrumbs = [
         )}
         {area && <AreaMap articleId={articleId} areaName={area.name} />}
         {area && <AreaEvents articleId={articleId} areaName={area.name} />}
+        {venueEvents && <AreaEvents venue={venueEvents} />}
         {area && <AreaListings areaName={area.name} stations={areaStations} />}
         {area && <AreaActivities articleId={articleId} areaName={area.name} />}
         {area && <AreaHiddenLondon articleId={articleId} areaName={area.name} />}

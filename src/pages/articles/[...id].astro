@@ -101,6 +101,7 @@ if (entry.data.area) {
   closingHeadings={closingHeadings}
   whereToStayHtml={whereToStayHtml}
   area={entry.data.area}
+  venueEvents={entry.data.venueEvents}
   faq={entry.data.faq}
 >
   {typeof Content === "string" ? <Fragment set:html={Content} /> : <Content />}

@@ -23,6 +23,7 @@
   --cat-dance: #d2602b;
   --cat-opera: #8a2f4d;
   --cat-exhibition: #2f7a52;
+  --cat-expo: #1f6f8b;
   --cat-talk: #5a6a7d;
   --cat-family: #e08a1e;
   --cat-sport: #0f7a6b;
@@ -339,6 +340,7 @@ html body .wo__results a.wo__title:focus-visible { outline: 3px solid var(--high
 [data-cat="dance"] { --dot: var(--cat-dance); }
 [data-cat="opera"] { --dot: var(--cat-opera); }
 [data-cat="exhibition"] { --dot: var(--cat-exhibition); }
+[data-cat="expo"] { --dot: var(--cat-expo); }
 [data-cat="talk"] { --dot: var(--cat-talk); }
 [data-cat="family"] { --dot: var(--cat-family); }
 [data-cat="sport"] { --dot: var(--cat-sport); }

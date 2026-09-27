@@ -69,6 +69,9 @@ const articles = defineCollection({
             .default([]),
         })
         .optional(),
+      // A venue with its own upcoming-events strip but no area guide (ExCeL,
+      // Olympia) - the exact `venue` string used in src/data/events.json.
+      venueEvents: z.string().optional(),
       faq: z
         .array(z.object({ q: z.string(), a: z.string() }))
         .default([]),

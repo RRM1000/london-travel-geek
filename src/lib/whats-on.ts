@@ -18,6 +18,7 @@ export type Placed = { r: Row; day: string };
 export const LABEL: Record<string, string> = {
   music: "Gigs", comedy: "Comedy", theatre: "Theatre", classical: "Classical",
   "club night": "Club nights", dance: "Dance", opera: "Opera", exhibition: "Exhibitions",
+  expo: "Exhibitions & shows",
   talk: "Talks", family: "Family", sport: "Sport", film: "Film events", festival: "Festivals",
   other: "Other",
 };

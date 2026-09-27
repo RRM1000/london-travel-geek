@@ -20,9 +20,15 @@ import ArticleLayout from "../../layouts/ArticleLayout.astro";
 import heroImage from "../../assets/articles/best-live-music-venues-london/royal-albert-hall.jpg";
 import listingsJson from "../../data/listings.json";
 import { LABEL, addDays, upcoming, listHtml, firstRunDayOf, type Listings } from "../../lib/whats-on";
+import { withExhibitions } from "../../lib/exhibitions";
 import "../../styles/whats-on.css";
 
-const listings = listingsJson as unknown as Listings;
+// The exhibitions and conventions from events.json (MCM Comic Con, New
+// Scientist Live, Grand Designs Live and the rest) are folded in here rather
+// than written into listings.json, which a GitHub Action regenerates daily
+// and would overwrite them. listings.json.ts folds in the same rows, so the
+// page and the JSON it fetches never disagree.
+const listings = withExhibitions(listingsJson as unknown as Listings);
 const buildDay = listings.generated;
 const updated = new Date(`${buildDay}T12:00:00Z`).toLocaleDateString("en-GB", {
   day: "numeric", month: "long", year: "numeric", timeZone: "Europe/London",
@@ -33,7 +39,7 @@ const stamp = createHash("sha1").update(JSON.stringify(listings)).digest("hex").
 const dataUrl = `/whats-on/listings.json?v=${stamp}`;
 
 // Chip order: the categories most people come for first.
-const CATEGORY_ORDER = ["music", "comedy", "theatre", "classical", "club night", "dance", "opera", "exhibition", "talk", "family", "sport", "film", "festival", "other"];
+const CATEGORY_ORDER = ["music", "comedy", "theatre", "classical", "club night", "dance", "opera", "exhibition", "expo", "talk", "family", "sport", "film", "festival", "other"];
 const cats = CATEGORY_ORDER.filter((c) => listings.cats.includes(c));
 
 const PAGE = 150;
