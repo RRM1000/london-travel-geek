@@ -2,7 +2,14 @@
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
   "updated": "2026-09-27",
-  "inProgress": [],
+  "inProgress": [
+    {
+      "title": "Exhibitions and conventions in London",
+      "state": "in progress",
+      "detail": "Two agents are listing every public show from October 2026 to September 2027, at ExCeL and The O2 and at every other London venue, with dates and prices from the organisers. A third is writing an ExCeL venue guide: stations for each hall, parking, bags, food and hotels.",
+      "next": "Build the calendar page from the research, write pages for the biggest fan shows (likely MCM Comic Con, EGX, Hyper Japan), and add the shows to the listings so What's On and the monthly guides pick them up."
+    }
+  ],
   "nextUp": [
     "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
     "Christmas season: November and December monthly guides, pantomimes, and Boxing Day and January sales. In November, swap the \"This season\" nav to the Christmas guides.",
