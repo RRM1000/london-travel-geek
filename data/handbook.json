@@ -2,14 +2,7 @@
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
   "updated": "2026-09-27",
-  "inProgress": [
-    {
-      "title": "Exhibitions in the events listings",
-      "state": "in progress",
-      "detail": "An agent is adding the 40-odd dated shows from the calendar to the Events tab, so they appear on the events page and in the monthly and area guides.",
-      "next": "Check the Sheet row counts before the write, then export and rebuild."
-    }
-  ],
+  "inProgress": [],
   "nextUp": [
     "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
     "Christmas season: November and December monthly guides, pantomimes, and Boxing Day and January sales. In November, swap the \"This season\" nav to the Christmas guides.",
@@ -31,6 +24,10 @@
     "Exhibitions: London Games Festival, London Film and Comic Con and a regular London record or retro-gaming fair turned up nothing online. Know of any worth adding?"
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-27",
+      "what": "Exhibitions in the listings: 31 dated shows added to the Events tab (row counts checked before the write), a new Exhibitions & shows category on What's On, and self-updating Coming up lists on the ExCeL guide and, for Olympia, the Kensington guide. Frieze London was already in the Events tab with 15–18 October against 14–18 October from the Royal Parks: worth a check."
+    },
     {
       "date": "2026-09-27",
       "what": "Exhibitions and conventions: a 12-month calendar of 42 public shows (Frieze, New Scientist Live, AnimeCon, Knit + Stitch, the Horse Show, Grand Designs Live and more), an ExCeL venue guide (stations by hall, parking, bags, food, hotels via Hotels.com), and pages for MCM Comic Con, the Ideal Home Show and Hyper Japan. EGX is now part of MCM; the London Boat Show no longer runs."
@@ -90,10 +87,6 @@
     {
       "date": "2026-09-16",
       "what": "Photos for the Beatles, Sherlock, Bridgerton, autumn, comedy, breakfast, late-night, historic pubs and Italian guides, with twelve heroes from our own lists."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Hotels.com stay strips: a two-line London hotel search with dates, placed by the balancer on 130 guides, plus a light Hotels.com card under the tours card in the sidebar. The second GetYourGuide widget on each page now sells a big product, and the London Pass, Explorer Pass and Merlin pass joined every big-seller pool. The nine tour and day trip guides now offer a tour in the Short Version, with the tour sections moved up."
     }
   ],
   "postTypes": [
