@@ -106,9 +106,9 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 - **Price:** free.
 - **Getting there:** Covent Garden station is two minutes but often exit-only when busy; Leicester Square is usually quicker.
 
-![Giant white baubles, mirror balls, lanterns and lit sprigs of mistletoe hanging from the green iron roof of Covent Garden's Market Building, above the Shake Shack in the lower courtyard](../../assets/articles/christmas-markets-london/covent-garden.jpg)
+![Giant gold bells tied with red bows, red baubles and a mirror ball hanging under the lit iron roof of Covent Garden's Market Building, with the shopfronts of the market hall behind](../../assets/articles/christmas-markets-london/covent-garden.jpg)
 
-*The Market Building's roof in a previous year's scheme of mistletoe and mirror balls; the display changes each Christmas and looks best after dark.*
+*The bells and baubles under the Market Building's roof after dark in November 2024; the scheme changes a little each Christmas.*
 
 **It is one of the busiest places in London on a December Saturday.** Go on a weekday morning to see the bells without the crowd, or after dark to see them lit; the [Christmas lights walk](/articles/christmas-lights-walk-london/) finishes here, via Seven Dials and Floral Street. More on the neighbourhood in our [Covent Garden area guide](/articles/covent-garden-area-guide/).
 
@@ -145,9 +145,9 @@ Choirs sing on a published schedule through the season. On Tuesdays and Wednesda
 
 **The market is free once you are inside, but getting inside is not:** everyone needs a timed entry ticket, **£1 off-peak, £5.50 standard or £8.25 peak** in advance. Every price, gate and quiet time is in our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/).
 
-![Tunnels of coloured Italian-style light arches over a lane of wooden stalls at Winter Wonderland, with hot chocolate and mulled wine signs on the right and a drop tower lit pink on the left](../../assets/articles/christmas-markets-london/hyde-park-winter-wonderland.jpg)
+![Wooden chalets and a garlanded maypole in Winter Wonderland's Bavarian village on a sunny morning, with the giant wheel and a thrill ride behind and a bratwurst stall on the right](../../assets/articles/christmas-markets-london/hyde-park-winter-wonderland.jpg)
 
-*The light arches over Luminarie Lane in a previous year, with market stalls down both sides.*
+*The Bavarian village on a December morning in 2021, with the big wheel behind.*
 
 ---
 
@@ -187,10 +187,6 @@ The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&a
 - **Price:** free.
 - **Getting there:** Cutty Sark DLR, three minutes.
 
-![Giant bronze baubles and bursts of fairy lights hanging under the white iron trusses and glass roof of Greenwich Market, above a busy aisle of stalls](../../assets/articles/christmas-markets-london/greenwich-market.jpg)
-
-*Baubles and fairy lights under the market's glass roof in a previous December.*
-
 **The Cutty Sark Street Food Market next door trades weekends only, and its last day this year is 29 November.** After that, eat in the market hall. The Queen's House ice rink is ten minutes' walk away; see our [Greenwich area guide](/articles/greenwich-area-guide/) for the rest of the day.
 
 ### Wimbledon Christmas Market
@@ -226,10 +222,6 @@ More in the [Battersea area guide](/articles/battersea-area-guide/).
 - **British Library**, 96 Euston Road: **Saturday 14 and Sunday 15 November 2026**, 10am–4pm, different traders each day. Free, with a free ticket to book.
 - **RSA House**, 8 John Adam Street, just off the Strand: **Saturday 5 December 2026**, 11am–5pm, in the Georgian Great Room, with food, drink and workshops.
 - **King's Cross**, The Crossing, Granary Square: **Sunday 6 December 2026**, 11am–5pm, with 110 makers, and again on **Saturday 12 and Sunday 13 December**, 11am–5pm.
-
-![Shoppers in hats and coats between rows of makers' tables selling prints, jewellery and children's clothes under the tall glass roof of The Crossing at King's Cross](../../assets/articles/christmas-markets-london/crafty-fox-market.jpg)
-
-*Crafty Fox under the glass roof of The Crossing at King's Cross in a previous December, the venue for the 6, 12 and 13 December dates.*
 
 **The King's Cross dates combine with Canopy Market**, the covered weekend food and makers' market two minutes away under the West Handyside Canopy. More in our [King's Cross area guide](/articles/kings-cross-area-guide/).
 

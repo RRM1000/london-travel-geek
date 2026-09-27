@@ -34,7 +34,7 @@ London's outdoor rinks go up in the first three weeks of November and come down 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
+> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas markets](/articles/christmas-markets-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
 ## The rinks at a glance
 
@@ -195,7 +195,7 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 
 ## Leicester Square
 
-**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, ran last winter from **1 November 2025 to 4 January 2026**, from 10am to 10pm next to the Christmas market stalls. **Its 2026 dates are not yet announced.** Leicester Square station is a minute's walk. If it returns, it is the most central rink in London and the easiest to add to an evening in the West End; its [site](https://www.skateleicestersquare.co.uk/) will carry the dates.
+**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, ran last winter from **1 November 2025 to 4 January 2026**, from 10am to 10pm next to the [Christmas market](/articles/christmas-markets-london/) stalls. **Its 2026 dates are not yet announced.** Leicester Square station is a minute's walk. If it returns, it is the most central rink in London and the easiest to add to an evening in the West End; its [site](https://www.skateleicestersquare.co.uk/) will carry the dates.
 
 ---
 
@@ -224,6 +224,7 @@ The outdoor rinks all close in early January. From then until November, skate in
 ## Related guides
 
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)**: the markets, light trails, grottos and what has stopped running
+- 🛍️ **[Christmas markets in London](/articles/christmas-markets-london/)**: dates, prices and the catch at each market
 - 🎡 **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)**: every price, gate and quiet time
 - ✨ **[Christmas lights walk](/articles/christmas-lights-walk-london/)**: Oxford Street to Trafalgar Square in ten stops
 - 🍽️ **[Christmas Day restaurants](/articles/christmas-day-restaurants-london/)**: where to eat on the 25th
