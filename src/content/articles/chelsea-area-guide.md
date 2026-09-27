@@ -86,7 +86,7 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 
 ## Top sights and activities
 
-1. **Chelsea Physic Garden** — London's oldest botanic garden, walled and founded in 1673 to grow medicinal plants. Four acres, easy to miss from the road, and the best thing in Chelsea. Check opening days.
+1. **Chelsea Physic Garden** — London's oldest botanic garden, walled and founded in 1673 to grow medicinal plants. Four acres, easy to miss from the road, and the best thing in Chelsea. Check opening days. Its ticketed Christmas Fair, 26 to 29 November 2026, is in our [London Christmas markets guide](/articles/christmas-markets-london/).
 2. **Royal Hospital Chelsea** — Wren's 1682 veterans' home, still housing around 300 Chelsea Pensioners. The grounds are open and host the Flower Show each May.
 3. **Saatchi Gallery** — Free contemporary art in a former barracks at Duke of York Square. Reliably worth an hour.
 4. **King's Road** — The two-mile spine. Best at the western end past World's End, where the independents survive.

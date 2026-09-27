@@ -123,7 +123,9 @@ Go before ten in the morning or after eight in the evening if you want to move.
 
 *The Apple Market dressed for Christmas. The decorations go up in November and are one of the more elaborate displays in central London.*
 
-The 2026 switch-on is Thursday 12 November. Our [Christmas lights walk](/articles/christmas-lights-walk-london/) takes in the Piazza tree, Seven Dials and Floral Street after dark, on the way from Oxford Street to Trafalgar Square.
+Covent Garden has no chalet market of its own, but Leicester Square's and Trafalgar Square's are both within ten minutes' walk; dates and hours are in our [London Christmas markets guide](/articles/christmas-markets-london/).
+
+The 2026 switch-on is Thursday 12 November. Our [Christmas lights walk](/articles/christmas-lights-walk-london/) takes in the Piazza tree, Seven Dials and Floral Street after dark, on the way from Oxford Street to Trafalgar Square. Somerset House's ice rink, 8 minutes away on the Strand, runs from 11 November 2026 to 10 January 2027; see our [London ice skating guide](/articles/ice-skating-london/).
 
 ### Seven Dials
 

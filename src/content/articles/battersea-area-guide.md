@@ -91,6 +91,7 @@ Battersea has its own share of the commemorative plaques marking where notable p
 5. **Albert Bridge** — Cast-iron, painted pink and green, and still signed asking troops to break step. **Closed to motor traffic since February 2026** after a crack was found in a cast-iron component; **pedestrians and cyclists still cross**, and reopening to vehicles is promised for 2027.
 6. **Battersea Park Children's Zoo** — Small, well run and good for young children. Ticketed.
 7. **The Thames Path** — East towards Vauxhall and Westminster, west towards Wandsworth. Flat the whole way.
+8. **Glide ice rink** — Three linked rinks and a 200-metre riverside skate trail in front of the Power Station, **6 November 2026 to 3 January 2027**; dates and children's rules for it and the other rinks are in our [London ice skating guide](/articles/ice-skating-london/).
 
 
 ![The restored interior of Battersea Power Station, with shops on multiple levels under the original steel roof](../../assets/articles/battersea-area-guide/battersea-control-room.jpg)
@@ -185,6 +186,8 @@ South-west past the park, and the **actual old Battersea** — low-rise, unglamo
 | **Circus West Village** | Mixed | ££ | Railway-arch restaurants with outdoor tables |
 | **The Woodman** | Traditional pub | £ | Battersea High Street; the old Battersea, away from the development |
 | **Battersea Power Station market** | Street food | £ | Weekends on Electric Boulevard |
+
+At Christmas the Power Station adds a riverside skate trail and winter food huts in Malaysia Square, and last year a makers' market on three weekends; see our [London Christmas markets guide](/articles/christmas-markets-london/).
 
 ## Getting there
 

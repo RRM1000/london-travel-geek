@@ -129,6 +129,8 @@ The UNESCO core, and four separate sites within five minutes of each other — w
 
 **Paid:** the **Cutty Sark**, **£22 adult and £11 child**, open daily 10am–5pm with last entry 4.15pm, where the money buys you the space underneath the hull as much as the decks. And the **Old Royal Naval College's Painted Hall**, Thornhill's ceiling, which took him nineteen years.
 
+**At Christmas** an ice rink goes up beside the Queen's House, **18 November 2026 to 3 January 2027**; prices and the kids-skate-free Tuesdays are in our [London ice skating guide](/articles/ice-skating-london/).
+
 **The order that works** is the free museums first while you are fresh, then one paid site rather than both — most people run out of appetite before they run out of Greenwich.
 
 ![The colonnade beside the Queen's House at the Old Royal Naval College, its white columns throwing long shadows across the flagstones](../../assets/articles/greenwich-area-guide/naval-college-colonnade.jpg)
@@ -143,6 +145,8 @@ A compact grid around the covered market, and the part that still feels like a t
 Around it, **Church Street, Nelson Road and College Approach** hold the second-hand bookshops, a printmakers' gallery, a guitar shop and several good pubs — including **The Admiral Hardy** on the market itself.
 
 **Come on a weekday if you want to browse.** It trades seven days now, but weekends are shoulder-to-shoulder, and the antiques stalls are the ones that suffer for it.
+
+In November a lantern parade from the Old Royal Naval College switches on the market's Christmas lights; the date and the market's festive hours are in our [London Christmas markets guide](/articles/christmas-markets-london/).
 
 ### Greenwich Park and the hill
 The oldest enclosed royal park in London, and the climb behind the Maritime Museum is steeper than it looks from the bottom — allow ten minutes and take the path rather than the grass in wet weather.

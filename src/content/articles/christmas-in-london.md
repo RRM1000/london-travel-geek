@@ -22,7 +22,7 @@ faq:
   - q: "When do London's Christmas lights switch on?"
     a: "Most switch-ons cluster in the first two weeks of November, with the big names — Oxford Street, Regent Street, Carnaby Street — usually going first. The one fixed point is Trafalgar Square's tree, lit on Thursday 3 December 2026. Carnaby Street's switch-on is Wednesday 4 November 2026 and Covent Garden's is Thursday 12 November; the other streets had not announced 2026 dates by late September."
   - q: "Where can you still ice skate outdoors in London this Christmas?"
-    a: "Somerset House, Hampton Court Palace and Alexandra Palace are all running. The Natural History Museum's rink has closed permanently, Tower of London's has been discontinued for years, and Canary Wharf's is paused for 2026 — don't plan around any of those three."
+    a: "Somerset House, Hampton Court Palace, Glide at Battersea Power Station, the Queen's House in Greenwich and Hyde Park Winter Wonderland all have outdoor rinks in 2026-27, and Alexandra Palace has a year-round indoor one. The Natural History Museum's rink has closed for good, Canary Wharf's is taking a break for 2026, and there is no Tower of London rink."
 heroImage: "../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg"
 heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with SKATE spelled in illuminated letters along the roofline of the neoclassical building behind"
 ---
@@ -51,41 +51,17 @@ The quietest and cheapest visit is the same visit: a Monday to Thursday daytime 
 
 ## Christmas markets
 
-### Central London
+**Kingston** is the first chalet market with its 2026 dates out, **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** is the food one and is cash-free, **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**), and **Leicester Square's** ring an ice rink; none of the three had announced 2026 dates by late September. **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £6 to £10.
 
-| Market | 2026 dates | Distinctive for |
-| --- | --- | --- |
-| **Trafalgar Square** | 6 Nov 2026 – 3 Jan 2027 | The Norway spruce, Oslo's annual gift to London since 1947; tree switch-on **3 December** |
-| **Covent Garden** | From November 2026; the day is not yet published | The Piazza's 55ft tree, giant bells and baubles inside the Market Building |
-| **Southbank Winter Market** | Not yet published (2025 ran 3 Nov–4 Jan) | Riverside chalets by the London Eye, food-led rather than gift-led |
-| **Leicester Square** | Not yet published (2025 ran 1 Nov–4 Jan) | An ice rink around the Shakespeare statue |
-| **Old Spitalfields Market** | Not yet published | Neon-lit wreaths, Santa Saturdays, a photo-op phone box |
-| **Camden Market** | Not yet published | An Ice Palace Grotto and a free carol singalong to open the season |
-| **King's Cross / Coal Drops Yard** | Not yet published | Canopy Market's 50+ stalls, plus rotating themed pop-ups (past years: a Mexican Christmas market, a Japanese homeware market) |
-| **Winter by the River**, London Bridge City | Not yet published (2025 ran 13 Nov–4 Jan) | Thames-side stalls with Tower Bridge views, a heated two-storey "Glasshouse" |
+> 🎄 **[Every Christmas market in London, with dates and hours →](/articles/christmas-markets-london/)** — the central markets, Kingston, Greenwich, Wimbledon and Battersea, and the maker fairs at the British Library, King's Cross and Chelsea Physic Garden.
 
-Only Trafalgar Square has confirmed 2026 dates this early — the rest are still running last year's information as of publication. All are free to browse; ice rinks, grottos and the Glasshouse are separate paid extras.
-
-Worth a detour even though it isn't a market: **St Pancras International's** concourse hosts an oversized Christmas tree every year, built from a different donated material each season for charity — past years have used everything from champagne bottles to, as pictured, thousands of soft toys. It's free to see and right by the Coal Drops Yard/King's Cross lights above, so easy to fold into the same visit.
+Worth a detour even though it isn't a market: **St Pancras International's** concourse hosts an oversized Christmas tree every year, built from a different donated material each season for charity — past years have used everything from champagne bottles to, as pictured, thousands of soft toys. It's free to see and next door to King's Cross, so it folds into a visit to Canopy Market or a Crafty Fox maker market in Granary Square.
 
 ![A towering Christmas tree built entirely from thousands of donated soft toys, under the wrought-iron and glass roof of St Pancras International station](../../assets/articles/christmas-in-london/st-pancras-christmas-tree.jpg)
 
 ![Giant illuminated red baubles and gold bells hanging from the Apple Market's cast-iron arcade at Covent Garden, with a disco ball among them](../../assets/articles/christmas-in-london/covent-garden-apple-market-baubles.jpg)
 
 *The Apple Market's arcade, dressed for the season — one of the more elaborate covered displays in central London.*
-
-### Beyond the centre
-
-Four have solid, confirmed 2026 dates:
-
-- **Greenwich** — Lantern Parade and Christmas lights switch-on, **Wednesday 18 November 2026**, 4–6pm, starting at the Old Royal Naval College and ending at Greenwich Market. Free. The market itself trades as usual through December.
-- **Kingston** — **12 November 2026 – 3 January 2027**, 40-plus wooden cabins plus a small Alpine Village corner with a carousel. Free entry.
-- **Crystal Palace** — the Handmade Palace Art & Craft Market, **21–22 November 2026**, in the Victorian Crystal Palace Subway. £2.50 entry, no step-free access.
-- **Blackheath** — the Blackheath Christmas Fair, a charity craft fair rather than a market village, **15 November 2026** at Blackheath Halls.
-
-A few more are likely to return but have not confirmed 2026 dates: **Wimbledon** (both the Piazza market and the separate Christmas in the Village event), **Wembley Park Festive Market**, **Ealing Broadway**, and **Columbia Road's** Christmas Wednesdays, where the flower-market street's shops stay open late through December.
-
-**Worth knowing what's gone:** Clapham Common's Winterville hasn't run since 2018. Alexandra Palace's Christmas offering is an ice rink and panto rather than a market. Neither is worth planning a trip around.
 
 ---
 
@@ -102,7 +78,7 @@ The big shopping streets confirm their switch-on dates from late September, but 
 | **Covent Garden & Seven Dials** | The Piazza tree plus Seven Dials' light "canopies" radiating from the sundial monument |
 | **Marylebone High Street** | "Merry Marylebone" — a full afternoon street festival with a ferris wheel and live music, not just lights |
 | **Chelsea** | King's Road part-pedestrianised for a festival day; Sloane Street's lights run the length of the boulevard |
-| **Canary Wharf** | No switch-on ceremony — the whole estate becomes a themed winter village from October, with its own ice rink |
+| **Canary Wharf** | No switch-on ceremony — the whole estate becomes a themed winter village from October (its ice rink is taking a break for 2026) |
 
 **Trafalgar Square's tree is the one fixed date**: the lighting ceremony is **Thursday 3 December 2026**. It's a Norway spruce, a gift from the City of Oslo to London every year since 1947 in gratitude for Britain's support during the Second World War — felled at a formal ceremony in Norway, shipped over, and dressed only in traditional vertical strings of white lights rather than baubles.
 
@@ -116,7 +92,7 @@ Different from the free street displays above — these are paid, walk-through e
 
 **Christmas at Kew** is the benchmark. **13 November 2026 – 3 January 2027**, a 3km illuminated trail through Kew Gardens taking upwards of two hours. Adult tickets from **£29.50 off-peak, £37 peak**; a Kew Gardens day visit is a separate ticket bolted on for an extra £12. Book through [kew.org](https://www.kew.org/kew-gardens/whats-on/christmas).
 
-**Hampton Court Palace** runs two separate things this year: **The Winter Palace**, a new indoor immersive walkthrough included in standard palace admission (£32–£35 adult), running **28 November 2026 – 3 January 2027**; and a **separate ice rink**, **20 November 2026 – 3 January 2027**, priced separately and not yet published.
+**Hampton Court Palace** runs two separate things this year: **The Winter Palace**, a new indoor immersive walkthrough included in standard palace admission (£32–£35 adult), running **28 November 2026 – 3 January 2027**; and a **separate ice rink**, **20 November 2026 – 3 January 2027**, priced separately: £19.50 adult off-peak, £21.50 peak, family £59.50–£65.50 (see our [ice skating guide](/articles/ice-skating-london/)).
 
 **Chelsea Winter Village & Illuminations**, at the Royal Hospital Chelsea, is a genuine outdoor light trail — 1.5km, 45–75 minutes — running **25 November – 28 December 2026**. Adult tickets from £19 off-peak, rising to £30.95 at peak times.
 
@@ -128,15 +104,13 @@ Different from the free street displays above — these are paid, walk-through e
 
 ## Ice rinks and Santa's grottos
 
-**Still running:** **Somerset House** (11 November 2026 – 10 January 2027, tickets £11–£28.50 plus a £1.50 fee, on sale since 10am on 25 September 2026), **Hampton Court Palace** (20 November 2026 – 3 January 2027, price not yet published), and **Alexandra Palace** — a permanent, year-round indoor rink rather than a seasonal one, dressed for Christmas with a panto-on-ice show, currently £11.75–£12.75.
+**Five outdoor rinks are confirmed for 2026-27:** **Somerset House** (11 November 2026 – 10 January 2027; adults £13–£28.50, children £11–£15, plus a £1.50 fee per ticket; on sale since 10am on 25 September 2026), **Hampton Court Palace** (20 November – 3 January; adults £19.50 off-peak, £21.50 peak), **Glide at Battersea Power Station** (6 November – 3 January), **the Queen's House** in Greenwich (18 November – 3 January) and the rink inside Winter Wonderland. **Alexandra Palace** has a year-round indoor rink, from £11.75. Dates, prices and children's rules for every rink are in our [London ice skating guide](/articles/ice-skating-london/).
 
 ![Skaters on the ice rink in the courtyard of Somerset House, with SKATE spelled in illuminated letters along the roofline of the neoclassical building behind](../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg)
 
 *Somerset House is the one worth booking rather than the one you walk past. The courtyard is enclosed on all four sides, so the rink sits inside an eighteenth-century quadrangle rather than in a car park.*
 
-**Book Somerset House early.** It is the most popular outdoor rink in London and the good evening slots go within days of release — daytime sessions midweek are far easier and, in a courtyard this size, no less impressive.
-
-**No longer running, so don't plan around them:** the **Natural History Museum's** rink closed permanently after the 2024 season and its old site is now a wildlife garden. **Tower of London's** rink has been discontinued for several years. **Canary Wharf's** rink is paused for the 2026 season specifically, described as a break rather than a closure.
+**Book Somerset House early:** prices vary through the run and the lowest go to early bookers. **Not running in 2026:** the **Natural History Museum's** rink has closed for good, **Canary Wharf's** is taking a break for the season, and there is no **Tower of London** rink.
 
 For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Hamleys'** Regent Street grotto are both expected back but are not on sale yet — 2025 prices were roughly £36–£45 and from £65 for a group of three, respectively. **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead.
 

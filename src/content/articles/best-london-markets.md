@@ -27,7 +27,7 @@ The single most useful thing to know about London markets is **which days they e
 
 We keep a full [markets by day](/markets/) page for exactly that reason. This guide is about what each one is actually *for* — including the flower, antiques and shopping markets.
 
-**If you are only here to eat**, our [best street food in London](/articles/best-street-food-london/) guide compares every food hall, market and container yard on traders, variety, seating and trading days.
+**If you are only here to eat**, our [best street food in London](/articles/best-street-food-london/) guide compares every food hall, market and container yard on traders, variety, seating and trading days. The seasonal chalet markets and maker fairs of November and December are in our [London Christmas markets guide](/articles/christmas-markets-london/).
 
 > 💡 **The Short Version:** **Borough** is the food market everything else is measured against. **Columbia Road** is Sunday only and worth the alarm. **Maltby Street** is the one locals use instead of Borough. And **Billingsgate** trades before dawn and is finished by 8am.
 

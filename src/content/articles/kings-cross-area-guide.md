@@ -123,6 +123,8 @@ The centre of the redevelopment, and the part worth walking even if you buy noth
 
 *The upper level, which runs stalls and events through the summer.*
 
+In December Crafty Fox brings its Christmas maker market to Granary Square, on 6 December and again on 12 and 13 December 2026; details are in our [London Christmas markets guide](/articles/christmas-markets-london/).
+
 ### The two stations
 
 **King's Cross for the north of England and Scotland; St Pancras for Eurostar, Thameslink and the East Midlands.** They are two minutes apart, they look nothing alike, and confusing them is the single most expensive mistake you can make here — leave margin if you are changing between them.

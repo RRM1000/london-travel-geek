@@ -61,7 +61,7 @@ faq:
   - q: "Is Tate Modern free?"
     a: "Yes. The permanent collection is free, as at all Tate galleries, and so is the tenth-floor Blavatnik Building viewing level. Only the special exhibitions are ticketed. It is closed on a small number of days a year, so check before a special trip."
   - q: "What days is Borough Market open?"
-    a: "The full market runs Tuesday to Saturday, with Wednesday to Saturday the busiest and best-stocked. Mondays are a limited market and Sundays are reduced. Arrive before midday on a Saturday if you want to move around it comfortably."
+    a: "Tuesday to Friday 10am to 5pm, Saturday 9am to 5pm and Sunday 10am to 4pm. It is closed on Mondays, except in December, when it opens seven days a week. Arrive before midday on a Saturday if you want to move around it comfortably."
   - q: "What is the best free view of London?"
     a: "The tenth floor of Tate Modern's Blavatnik Building looks straight across to St Paul's and is completely free. The Sky Garden at 20 Fenchurch Street is also free but requires booking a slot weeks ahead. Both beat paying for the Shard on a cloudy day."
   - q: "Is the South Bank good in the rain?"
@@ -131,6 +131,8 @@ The **book market under Waterloo Bridge** runs daily, roughly 10am to 7pm, and h
 ![The concrete banks and graffiti-covered pillars of the Undercroft skate park beneath the Southbank Centre](../../assets/articles/south-bank-area-guide/southbank-undercroft.jpg)
 
 *The Undercroft. Skated continuously since the early 1970s and formally protected in 2014 after a campaign to build shops in it.*
+
+From November the Southbank Centre's Winter Market fills Queen's Walk with chalets, bars and street food; its dates and hours, and Borough Market's Christmas opening, are in our [London Christmas markets guide](/articles/christmas-markets-london/).
 
 ![The steel A-frame and capsule of the London Eye seen from directly underneath at dusk](../../assets/articles/south-bank-area-guide/london-eye-from-below.jpg)
 
