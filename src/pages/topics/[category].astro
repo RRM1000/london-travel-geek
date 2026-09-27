@@ -6,6 +6,9 @@ import SectionHeading from "../../components/SectionHeading.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { activeSite } from "../../sites";
 import { categoryToSlug } from "../../lib/taxonomy";
+import { articleScore } from "../../lib/pageAnalytics";
+import { groupArticles } from "../../lib/topicGroups";
+import { activeSeasonalSlugs } from "../../data/seasonal";
 
 export async function getStaticPaths() {
   const articles = await getCollection("articles");
@@ -14,26 +17,108 @@ export async function getStaticPaths() {
 }
 
 const { category } = Astro.props;
-const articles = (await getCollection("articles"))
-  .filter((article) => !article.data.draft && article.data.sites.includes(activeSite.id) && article.data.category === category)
-  .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+
+// A card gets the "New" label rather than being sorted to the top - see
+// point 4 of the section-page handoff. Sorting by recency would fight with
+// sorting by score, so recency is a badge instead.
+const NEW_DAYS = 14;
+const now = new Date();
+const isRecentlyPublished = (publishedAt: Date) =>
+  now.getTime() - publishedAt.getTime() <= NEW_DAYS * 24 * 60 * 60 * 1000;
+
+const allArticles = (await getCollection("articles")).filter(
+  (article) => !article.data.draft && article.data.sites.includes(activeSite.id) && article.data.category === category,
+);
+
+// Most-read first. articleScore reads the analytics snapshot (GA4 views,
+// falling back to GSC clicks, then 0) - see src/lib/pageAnalytics.ts. Ties
+// (most guides have no traffic yet) break the same way the homepage does:
+// most recently updated, then title, so the order is deliberate rather than
+// however getCollection happened to read the files off disk.
+const sorted = [...allArticles].sort((a, b) => {
+  const scoreDiff = articleScore(b.id) - articleScore(a.id);
+  if (scoreDiff !== 0) return scoreDiff;
+  const updatedDiff =
+    (b.data.updatedAt ?? b.data.publishedAt).valueOf() -
+    (a.data.updatedAt ?? a.data.publishedAt).valueOf();
+  if (updatedDiff !== 0) return updatedDiff;
+  return a.data.title.localeCompare(b.data.title);
+});
+
+// Seasonal pins come out of the ranked list into their own strip at the top,
+// so they do not also render a second time further down the page.
+const seasonalSlugs = new Set(activeSeasonalSlugs(now));
+const inSeason = sorted.filter((article) => seasonalSlugs.has(article.id));
+const rest = sorted.filter((article) => !seasonalSlugs.has(article.id));
+
+// Only Things to do, Food and drink and Stay have a group mapping, and only
+// once a section is long enough to need one - see GROUPING_THRESHOLD.
+// Everywhere else this is null and the page renders one flat, ranked list.
+const groups = groupArticles(category, rest);
+
 const breadcrumbs = [{ label: "Home", href: "/" }, { label: "All guides", href: "/guides/" }, { label: category }];
+
+type SiteArticle = (typeof allArticles)[number];
+const cardProps = (article: SiteArticle) => ({
+  label: article.data.category,
+  title: article.data.title,
+  description: article.data.description,
+  href: `/articles/${article.id}/`,
+  image: article.data.heroImage,
+  imageAlt: article.data.heroImageAlt,
+  tags: article.data.tags,
+  date: article.data.updatedAt ?? article.data.publishedAt,
+  isNew: isRecentlyPublished(article.data.publishedAt),
+});
 ---
 
 <BaseLayout title={`${category} guides`} description={`Browse London Travel Geek’s ${category.toLowerCase()} guides.`} breadcrumbs={breadcrumbs}>
   <section class="topic container">
     <Breadcrumbs items={breadcrumbs} />
     <SectionHeading eyebrow="Guide topic" title={category} description={`Practical ${category.toLowerCase()} guides for planning a smoother London visit.`} />
-    <p class="topic__count">{articles.length} {articles.length === 1 ? "guide" : "guides"} in this topic</p>
-    <div class="grid grid--3">
-      {articles.map((article) => (
-        <ArticleCard label={article.data.category} title={article.data.title} description={article.data.description} href={`/articles/${article.id}/`} image={article.data.heroImage} imageAlt={article.data.heroImageAlt} tags={article.data.tags} />
-      ))}
-    </div>
+    <p class="topic__count">{allArticles.length} {allArticles.length === 1 ? "guide" : "guides"} in this topic</p>
+
+    {inSeason.length > 0 && (
+      <div class="topic__group">
+        <p class="eyebrow topic__in-season-label">In season</p>
+        <div class="grid grid--3">
+          {inSeason.map((article) => <ArticleCard {...cardProps(article)} />)}
+        </div>
+      </div>
+    )}
+
+    {groups ? (
+      Array.from(groups).map(([name, items]) => (
+        <div class="topic__group">
+          <h3 class="topic__group-heading">{name}</h3>
+          <div class="grid grid--3">
+            {items.map((article) => <ArticleCard {...cardProps(article)} />)}
+          </div>
+        </div>
+      ))
+    ) : (
+      <div class="topic__group">
+        <div class="grid grid--3">
+          {rest.map((article) => <ArticleCard {...cardProps(article)} />)}
+        </div>
+      </div>
+    )}
   </section>
 </BaseLayout>
 
 <style>
   .topic { padding-block: var(--space-7); }
   .topic__count { margin: 0 0 var(--space-5); color: var(--muted); font-size: 0.9rem; font-weight: 750; }
+
+  .topic__group + .topic__group {
+    margin-top: var(--space-6);
+  }
+
+  .topic__in-season-label {
+    margin: 0 0 var(--space-3);
+  }
+
+  .topic__group-heading {
+    margin: 0 0 var(--space-4);
+  }
 </style>

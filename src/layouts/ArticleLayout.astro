@@ -245,6 +245,15 @@ const breadcrumbs = [
   { label: category, href: categoryHref(category) },
   { label: title },
 ];
+
+// "Updated" is the headline date - it is what a returning reader or Google
+// cares about. It only earns a quieter "First published" alongside it when
+// there has actually been an update; otherwise updatedAt ?? publishedAt is
+// just publishedAt again, and printing "Updated" over a date nothing was
+// updated on reads as false freshness.
+const hasRealUpdate = !!updatedAt && updatedAt.valueOf() > publishedAt.valueOf();
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
 ---
 
 <BaseLayout
@@ -306,24 +315,20 @@ const breadcrumbs = [
     <div class="container">
       <div class="article__sub-hero">
         <div class="article__meta">
-          <time datetime={publishedAt.toISOString()}>
-            Published {publishedAt.toLocaleDateString("en-GB", {
-              day: "numeric",
-              month: "long",
-              year: "numeric",
-            })}
-          </time>
-          {updatedAt && (
+          {hasRealUpdate ? (
             <>
+              <time datetime={updatedAt!.toISOString()}>
+                Updated {formatDate(updatedAt!)}
+              </time>
               <span class="article__meta-separator" aria-hidden="true">·</span>
-              <time datetime={updatedAt.toISOString()}>
-                Updated {updatedAt.toLocaleDateString("en-GB", {
-                  day: "numeric",
-                  month: "long",
-                  year: "numeric",
-                })}
+              <time datetime={publishedAt.toISOString()} class="article__meta-first-published">
+                First published {formatDate(publishedAt)}
               </time>
             </>
+          ) : (
+            <time datetime={publishedAt.toISOString()}>
+              Published {formatDate(publishedAt)}
+            </time>
           )}
         </div>
         {shownTags.length > 0 && (
@@ -1062,6 +1067,13 @@ const breadcrumbs = [
   .article__meta-separator {
     color: var(--accent);
     font-weight: 800;
+  }
+
+  /* Quieter than the "Updated" date beside it - it is context, not the
+     headline fact. */
+  .article__meta-first-published {
+    font-weight: 500;
+    opacity: 0.75;
   }
 
   .article__walks-note {

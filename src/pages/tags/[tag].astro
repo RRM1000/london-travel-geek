@@ -66,6 +66,7 @@ const breadcrumbs = [
           image={article.data.heroImage}
           imageAlt={article.data.heroImageAlt}
           tags={article.data.tags}
+          date={article.data.updatedAt ?? article.data.publishedAt}
         />
       ))}
     </div>

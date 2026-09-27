@@ -48,7 +48,7 @@ const breadcrumbs = [{ label: "Home", href: "/" }, { label: "All guides" }];
         </div>
         <div class="grid grid--3">
           {entries.map((article) => (
-            <ArticleCard label={article.data.category} title={article.data.title} description={article.data.description} href={`/articles/${article.id}/`} image={article.data.heroImage} imageAlt={article.data.heroImageAlt} tags={article.data.tags} />
+            <ArticleCard label={article.data.category} title={article.data.title} description={article.data.description} href={`/articles/${article.id}/`} image={article.data.heroImage} imageAlt={article.data.heroImageAlt} tags={article.data.tags} date={article.data.updatedAt ?? article.data.publishedAt} />
           ))}
         </div>
       </section>
