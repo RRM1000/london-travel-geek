@@ -300,7 +300,7 @@ EVE, the on-site restaurant, serves New York-style pizza. There is a gym, a co-w
 
 ## Hotels at Olympia
 
-Olympia's £1.3 billion rebuild opened in stages through 2026. **British Airways ARC**, a 3,800-capacity music venue run by AEG Presents, opened on 16 June 2026; our [live music venues guide](/articles/best-live-music-venues-london/) covers it. The 1,575-seat British Airways Theatre follows in 2027.
+Olympia's £1.3 billion rebuild opened in stages through 2026. **British Airways ARC**, a 3,800-capacity music venue run by AEG Presents, opened on 16 June 2026; our [live music venues guide](/articles/best-live-music-venues-london/) covers it. The 1,575-seat British Airways Theatre follows in 2027. The Grand Hall is also where the **[HYPER JAPAN Festival](/articles/hyper-japan-london/)** takes over for a weekend most summers, and where the **[Ideal Home Show](/articles/ideal-home-show-london/)** returns every spring.
 
 **Check the trains before an event.** The District line runs between Earl's Court and Kensington (Olympia) at weekends only; on weekdays, change at West Brompton for a two-minute London Overground ride. The westbound platform at Barons Court is closed for maintenance from 6 July 2026 until later in the year, and Olympia advises West Kensington, a 12-minute walk on the District line, or Hammersmith instead.
 

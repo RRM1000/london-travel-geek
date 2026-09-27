@@ -90,6 +90,7 @@ London City Airport has **one single compact terminal**.
 
 ## Related London Transport Guides
 
+* 🎟️ [ExCeL London Travel Guide](/articles/excel-london-guide/) — a 15-minute walk, or a couple of DLR stops, from this airport
 * ✈️ [Heathrow Airport to London Transport Guide](/articles/heathrow-airport-to-london/)
 * ✈️ [Gatwick Airport to London Transport Guide](/articles/gatwick-airport-to-london/)
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)

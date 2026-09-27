@@ -245,7 +245,7 @@ For a three-day international sporting event at the arena, the same InterContine
 
 ## Airports, and the rest of the trip
 
-Canary Wharf, Custom House and Stratford are all on the Elizabeth line, and London City Airport is three DLR stops from Canning Town. From Heathrow, the Elizabeth line reaches Canary Wharf in about 48 minutes; our [Heathrow guide](/articles/heathrow-airport-to-london/) has the fares.
+Canary Wharf, Custom House and Stratford are all on the Elizabeth line, and London City Airport is three DLR stops from Canning Town. From Heathrow, the Elizabeth line reaches Canary Wharf in about 48 minutes; our [Heathrow guide](/articles/heathrow-airport-to-london/) has the fares. Custom House is also the station for ExCeL London — our [ExCeL guide](/articles/excel-london-guide/) covers which entrance it serves and the campus hotels.
 
 Still deciding between areas for the rest of the trip? Our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for, and the [Wembley travel guide](/articles/wembley-stadium-arena-guide/) covers London's other big arena, also on the Jubilee line.
 

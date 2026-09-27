@@ -135,6 +135,7 @@ Four big venues publish bag limits that turn a suitcase away at the door.
 - 🛏️ **[London Day Rooms](/articles/day-rooms-london/)** — booking a hotel room for a few hours rather than the night
 - 🎒 **[Best Hostels in London](/articles/best-hostels-london/)** — including which ones store bags for free
 - 🏟️ **[Wembley Stadium Guide](/articles/wembley-stadium-arena-guide/)** and **[The O2 Travel Guide](/articles/the-o2-travel-guide/)** — full bag rules for an event day
+- 🎪 **[ExCeL London Guide](/articles/excel-london-guide/)** — free cloakrooms, but bag policy is set by each show's own organiser, not the venue
 - 🗓️ **[London Itineraries by Days and Interests](/articles/london-itineraries-by-days-and-interests/)** — planning what to see between a landing and a check-in
 
 *Prices, hours and rules are from Excess Baggage Company, Heathrow, Gatwick, Stansted, London Luton Airport, London City Airport, London Southend Airport, Historic Royal Palaces and UK Parliament's own sites, and from Stasher, Bounce, Radical Storage, LuggageHero and Nannybag's own sites, checked 17 September 2026. Wembley Stadium and The O2's bag rules are sourced to the venues in our own venue guides, checked the weeks of 9 and 13 September 2026 respectively. Storage prices, locations and opening hours change; check the operator's own site before you travel.*

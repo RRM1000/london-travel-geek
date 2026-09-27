@@ -113,7 +113,7 @@ The festival's 20th edition runs the whole month: more than 150 events of music,
 
 ### New Scientist Live — ExCeL, 10 to 12 October
 
-Talks across four stages plus a show floor, ticketed, with **Saturday 10 and Sunday 11 October open to the public from 10am to 5pm** and **Monday 12 a Schools' Day** from 9.30am to 3pm. Speakers include Helen Sharman, the first British astronaut, Chris Packham, Alice Roberts, Jim Al-Khalili and Tim Spector. Child tickets cover ages 6 to 17, and under-6s go free. The talks are streamed live and can be watched on demand afterwards with an online ticket, so you can skip the DLR out to Custom House. October is the month the whole science calendar wakes up: [science events in London](/articles/science-events-london/) has the Royal Institution's autumn Discourses, the free Royal Society prize lectures and the pumping stations that steam on published dates.
+Talks across four stages plus a show floor, ticketed, with **Saturday 10 and Sunday 11 October open to the public from 10am to 5pm** and **Monday 12 a Schools' Day** from 9.30am to 3pm. Speakers include Helen Sharman, the first British astronaut, Chris Packham, Alice Roberts, Jim Al-Khalili and Tim Spector. Child tickets cover ages 6 to 17, and under-6s go free. The talks are streamed live and can be watched on demand afterwards with an online ticket, so you can skip the DLR out to Custom House. October is the month the whole science calendar wakes up: [science events in London](/articles/science-events-london/) has the Royal Institution's autumn Discourses, the free Royal Society prize lectures and the pumping stations that steam on published dates. It's also the busiest month for consumer shows at ExCeL and Olympia: our [exhibitions and conventions guide](/articles/exhibitions-conventions-london/) has the full year-round calendar, alongside MCM Comic Con and Frieze Week below.
 
 ### Dance Umbrella — three weeks from 7 October
 
@@ -169,7 +169,9 @@ The Mayor of London's Diwali celebration: an opening dance sequence with 200 dan
 
 ### MCM Comic Con London — ExCeL, 23 to 25 October
 
-A three-day comics, gaming, anime and pop culture convention, closing on the same Sunday as Diwali and the clock change. General entry is **£29 on Friday or Sunday and £38 on Saturday**, and opens at midday (11am on Saturday); a child ticket is £7, and under-5s go free. Some VIP and bundle tickets have sold out. The crowds travel on the DLR and the Elizabeth line to Custom House, so expect both to be busy if you are doing anything else in Docklands that weekend.
+*Full guide: [MCM Comic Con London](/articles/mcm-comic-con-london/)*
+
+A three-day comics, gaming, anime and pop culture convention, closing on the same Sunday as Diwali and the clock change. General entry is **£29 on Friday or Sunday and £38 on Saturday**, and opens at midday (11am on Saturday); a child ticket is £7, and under-5s go free. The **Weekend ticket and both VIP tiers have sold out**. The crowds travel on the DLR and the Elizabeth line to Custom House, so expect both to be busy if you are doing anything else in Docklands that weekend.
 
 ### School half term — Monday 26 to Friday 30 October
 

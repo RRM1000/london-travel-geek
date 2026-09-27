@@ -255,7 +255,7 @@ Two more run below ground. **[Mail Rail](https://www.postalmuseum.org/visit-us/w
 4. **Steaming day or open day is not the same visit.** At Crossness the engine only runs on a Steaming Day; at Markfield most Sundays are open days with the engine still. Check which you are booking.
 5. **The livestream is often the cheaper half of the same event.** An Ri Discourse is £20 in the room and pay-what-you-can from £5 online. Every Royal Society lecture goes out free on YouTube with no booking, while the seat in the room has to be reserved in a batch. NHM Members watch Dig Deeper online for nothing; everyone else pays £25 in the theatre or buys a livestream ticket.
 
-If you are building a whole trip around this, [things to do in London in October](/articles/things-to-do-in-london-in-october/) has the month New Scientist Live lands in, [best time to visit London](/articles/best-time-to-visit-london/) sets the seasons against each other, and [getting around London](/articles/getting-around-london-transport-guide/) explains the fares out to Thamesmead, Brentford and Greenwich.
+If you are building a whole trip around this, [things to do in London in October](/articles/things-to-do-in-london-in-october/) has the month New Scientist Live lands in, [best time to visit London](/articles/best-time-to-visit-london/) sets the seasons against each other, and [getting around London](/articles/getting-around-london-transport-guide/) explains the fares out to Thamesmead, Brentford and Greenwich. For the consumer shows and fairs that aren't science but share New Scientist Live's calendar and venue, see our [exhibitions and conventions guide](/articles/exhibitions-conventions-london/).
 
 ---
 

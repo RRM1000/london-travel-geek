@@ -104,6 +104,8 @@ The main road, and a high street that was once a genuine rival to Oxford Street 
 
 **Access has never been reliable.** The gardens have opened and closed with successive owners and are not a public park, so check before you build an afternoon around them. The street itself is a five-minute walk end to end from High Street Kensington station.
 
+South of the high street, **Olympia London** runs a year-round programme of exhibitions and conventions, from AnimeCon to the Ideal Home Show — our [exhibitions and conventions guide](/articles/exhibitions-conventions-london/) has the full calendar and how to reach the venue.
+
 ### Kensington Gardens and the palace
 
 ![The Sunken Garden at Kensington Palace, a long formal pond edged with clipped hedges and dense flower borders](../../assets/articles/kensington-area-guide/sunken-garden-kensington-palace.jpg)
@@ -154,6 +156,7 @@ Walk it as a link between the two parks rather than as a destination.
 
 - **[London's historic houses](/articles/historic-houses-london/)** — Kensington Palace and Leighton House, the second of which almost nobody visits.
 - **[The best afternoon tea in London](/articles/best-afternoon-tea-london/)** — the Kensington hotels do several of the better ones, at less than Mayfair prices.
+- **[HYPER JAPAN Festival](/articles/hyper-japan-london/)** — the UK's biggest Japanese culture event fills Olympia's Grand Hall for a weekend most summers, a short walk beyond Holland Park.
 
 ## Where to eat and drink
 
@@ -219,3 +222,5 @@ Quiet, green and well connected, with prices to match the postcode.
 - **Earl's Court** — Ten minutes south, considerably cheaper, same District line access.
 
 Our [Kensington and Earl's Court hotel guide](/articles/where-to-stay-kensington/) compares the hotels, from Kensington High Street to Olympia.
+
+**In Olympia for a show?** Our [Ideal Home Show guide](/articles/ideal-home-show-london/) covers tickets, getting to Kensington (Olympia) station and where to stay right on the site.

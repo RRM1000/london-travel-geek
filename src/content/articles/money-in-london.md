@@ -118,7 +118,7 @@ This is the phrase visitors misuse most. The Bank of England is blunt about it: 
 
 *Prices at a Borough Market stall.*
 
-**London's biggest stadiums and arenas are fully cashless.** [Wembley Stadium](/articles/wembley-stadium-arena-guide/), the [Tottenham Hotspur Stadium](/articles/tottenham-hotspur-stadium-travel-guide/), [The O2 arena and indigo at The O2](/articles/the-o2-travel-guide/), and OVO Arena Wembley take contactless, mobile payment or a venue gift card only, so arrive with a card that works.
+**London's biggest stadiums and arenas are fully cashless.** [Wembley Stadium](/articles/wembley-stadium-arena-guide/), the [Tottenham Hotspur Stadium](/articles/tottenham-hotspur-stadium-travel-guide/), [The O2 arena and indigo at The O2](/articles/the-o2-travel-guide/), and OVO Arena Wembley take contactless, mobile payment or a venue gift card only, so arrive with a card that works. [ExCeL London](/articles/excel-london-guide/) is the same — none of its food and drink outlets take cash, whatever event is on.
 
 ## Cash machines: cashpoints, ATMs — same thing
 
