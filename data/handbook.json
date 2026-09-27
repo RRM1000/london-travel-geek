@@ -1,44 +1,77 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-09-15",
-  "inProgress": [
-    {
-      "title": "Family hotels guide",
-      "state": "waiting",
-      "detail": "Drafted from 36 sources: 20 central hotels and one further out (Town Hall Hotel, Bethnal Green), mostly five-star because that is what the sources name. Prices are placeholders, and 19 of the 21 Hotels.com ids are unconfirmed.",
-      "next": "Look up the Hotels.com ids, then price the shortlist for a family of four once you OK the Apify spend."
-    },
-    {
-      "title": "Where to stay in Bloomsbury",
-      "state": "waiting",
-      "detail": "Drafted from 9 sources: 15 hotels, 8 written up in full. Linked from the Bloomsbury, King's Cross and best areas guides. Prices are placeholders.",
-      "next": "Look up the Hotels.com ids it couldn't confirm, then price its hotels on the budget guide's five nights once you OK the Apify spend."
-    },
-    {
-      "title": "Beatles, Bridgerton, Sherlock Holmes and autumn leaves guides",
-      "state": "in progress",
-      "detail": "All four are written, checked and linked both ways. The checks fixed a wrong distance on the Sherlock page, HMV's return to Oxford Street on the Beatles page, a species list the autumn guide pinned on the Guardian, and added four bookable Bridgerton tours the agent missed.",
-      "next": "Preview, commit, and list the photos to download."
-    }
-  ],
+  "updated": "2026-09-27",
+  "inProgress": [],
   "nextUp": [
-    "Write the October monthly guide. The October data file is already stubbed and it is due by 20 September.",
-    "Fill out the 8 short entries the depth check still flags: Chick King, Chick and Beers, Coqfighter and Bao in the fried chicken guide; Mien Tay, Lai Rai and Green Papaya in the Vietnamese guide; Bar Levan in the wine bars guide.",
-    "Bring five guides into line with the writing rules: \"corpus\" on the burgers and most instagrammable guides, and an unsourced \"best-kept secret\" on the museums, parks and London with children guides.",
-    "Rework the titles for the bus fares searches that get impressions but no clicks, such as \"how much is a bus fare in london\".",
+    "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
+    "Christmas season: November and December monthly guides, pantomimes, and Boxing Day and January sales. In November, swap the \"This season\" nav to the Christmas guides.",
+    "Fill out the 8 short entries the depth check flags: Chick King, Chick and Beers, Coqfighter and Bao in the fried chicken guide; Mien Tay, Lai Rai and Green Papaya in the Vietnamese guide; Bar Levan in the wine bars guide.",
     "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
-    "Check the best areas to stay guide against the budget hotels prices: it says moving further out saves too little, but the middle typical night further out was £141.50 against £179.50 in central London."
+    "Check the best areas to stay guide against the budget hotels prices: it says moving further out saves too little, but the middle typical night further out was £141.50 against £179.50 in central London.",
+    "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
-    "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
-    "Say if any subjects are off-limits for the site. None are recorded yet.",
-    "Four guides mark some entries as named by none of the sources (Middle Eastern, Sunday roast, Turkish, most instagrammable). That is close to the weakness lines you banned: keep the markers or cut them?",
-    "Wembley: the only Wembley hotel two sources name (ibis London Wembley) takes no bookings for 2026. Premier Inn Wembley Park, Premier Inn Wembley Stadium and Travelodge Wembley High Road have one source each. Say if you want one of them priced and added anyway.",
+    "Join Trainline's affiliate programme, which runs on Partnerize, not Awin: https://join.partnerize.com/trainline/en. Send the ID or a sample link.",
+    "Request indexing for the Winter Wonderland guide in Search Console: Google hasn't re-crawled it since 12 September.",
+    "Facts I couldn't get: Glide Battersea single-ticket prices, the Trafalgar Square Christmas market organiser, Blackheath and Harrow Bonfire Night prices, and the British Museum's October dates.",
+    "Hampton Court and St Paul's 2-for-1 offers show as offline: check whether they're still running.",
+    "Somerset House photo, the ice skating hero: skaters' faces are clear. Keep, crop or swap?",
+    "Stay guides: show hotel prices as \"about £X\" or as the sampled typical night? And add citizenM Olympia?",
+    "Four guides mark some entries as named by none of the sources (Middle Eastern, Sunday roast, Turkish, most instagrammable). Keep the markers or cut them?",
     "OK about $5 of Apify to price the Bloomsbury and family hotels guides.",
+    "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-27",
+      "what": "Photo captions cut to a few words across the site (about 1,560), with the useful facts they held moved into the text, and captions now sit tight under their photo, smaller and muted. The walks tag came off the autumn leaves guide."
+    },
+    {
+      "date": "2026-09-27",
+      "what": "Dog-friendly hotels guide: 21 hotels with fees, weight limits and where dogs can go, with your photos and a dog-on-a-bed hero. Christmas markets and ice skating guides for 2026, with your photos. New hero on the family hotels guide."
+    },
+    {
+      "date": "2026-09-26",
+      "what": "Thames river cruises guide with GetYourGuide widgets. Four new walks (Christmas lights, Bankside and Borough, Harry Potter locations, Soho and Chinatown) with photos, and every walk now links to all the others near the top. Burgers guide photos. Bonfire Night and October brought up to date."
+    },
+    {
+      "date": "2026-09-26",
+      "what": "The build now fails if a stay, food or day-trip guide is missing from its hub, or a stay guide and its area guide don't link both ways. The /stay/ table links each area's hotel guide. Restored 35 restaurants another session's Sheet write had deleted."
+    },
+    {
+      "date": "2026-09-25",
+      "what": "Stay guides for Canary Wharf, Paddington, and Chelsea and Knightsbridge, and room photos across 12 stay guides. Tag pages only for tags with three or more guides. Numbers that disagreed between pages fixed across 42 files. Premier League guide 27% shorter."
+    },
+    {
+      "date": "2026-09-24",
+      "what": "Nine stay guides: Mayfair, Marylebone, South Bank, near Wembley, near The O2, City of London, Westminster and Victoria, Notting Hill and Bayswater, Kensington and Earl's Court. Twickenham guide a third shorter."
+    },
+    {
+      "date": "2026-09-23",
+      "what": "What's On redesign with a Tomorrow filter; Skiddle affiliate switched on; London Box Office links; London music festivals 2027; a site review fixing counts, contradictions and lapsed dates across 69 pages; privacy page with an analytics opt-out; NFL guide halved."
+    },
+    {
+      "date": "2026-09-22",
+      "what": "Event listings: Ticketmaster, DICE and venue readers merged, refreshed daily on GitHub Actions, with a What's On page, an on-sale page, strips in area guides, the Christmas shows page and the Barbican guide. Five new food guides."
+    },
+    {
+      "date": "2026-09-21",
+      "what": "Twickenham, NFL London Games and football tickets guides. Afternoon tea rebuilt on two awards. The fares title rewritten for its 125k unclicked impressions. Itineraries rebuilt, fixing six wrong facts."
+    },
+    {
+      "date": "2026-09-19",
+      "what": "Stay and Day Trips became nav sections. Every hotel links to Hotels.com where it's sold, and the build checks it. Curated tour widget sets for 124 slots. Photos for the family hotels and Bloomsbury guides."
+    },
+    {
+      "date": "2026-09-17",
+      "what": "New guides: money in London, luggage storage, is London safe, healthcare for visitors, and best time to visit month by month."
+    },
+    {
+      "date": "2026-09-16",
+      "what": "Photos for the Beatles, Sherlock, Bridgerton, autumn, comedy, breakfast, late-night, historic pubs and Italian guides, with twelve heroes from our own lists."
+    },
     {
       "date": "2026-09-15",
       "what": "Hotels.com stay strips: a two-line London hotel search with dates, placed by the balancer on 130 guides, plus a light Hotels.com card under the tours card in the sidebar. The second GetYourGuide widget on each page now sells a big product, and the London Pass, Explorer Pass and Merlin pass joined every big-seller pool. The nine tour and day trip guides now offer a tour in the Short Version, with the tour sections moved up."
@@ -54,38 +87,6 @@
     {
       "date": "2026-09-15",
       "what": "Added 14 of your photos to the budget hotels guide, with Good Hotel London as the hero; Moxy Stratford's were too small to use. Added the gastropubs and most beautiful pubs guides to the Eat in London hub. Reworked the depth check as you suggested: it now measures only ranked entries, at 50 words rather than 80, and no longer asks the beautiful pubs guide to name food. It flags 8 entries in 3 guides, down from 19 guides."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Finished the budget hotels guide: 22 hotels at £150 a night or less (3 central, 19 further out), a price for each sample night, the 18 hotels named everywhere but over £150, and how the chains priced. Every figure is fact-checked, and London on a budget links to it. ibis London Wembley couldn’t go in: it has no rooms on any of our 2026 nights."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Wrote the budget hotels guide's outer London section: 19 hotels in 14 areas, each with its typical night, station, walk and train time, and an area table fastest first. Also fixed the breakfast and brunch guide's title so it says it's cross-referenced, like the other ranked guides."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Priced 15 more outer London hotels through Apify on the central London dates, for about $2.08. Nine come in at £150 or less, four are over, and two have only two prices. Apify couldn't price seven: The Windmill, Brook Green Hotel, High Road House, Fox & Goose, The Captain Cook, ibis Wembley and Best Western Chiswick."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Gathered the writing rules, which were spread across two skills, a two-line file and Claude's memory, into one file (CONTENT_GUIDELINES.md) that every Claude session and agent now loads. Fixed two skill lines that contradicted your rules."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Updated the Wimbledon tickets guide now both 2027 ballots have closed (what is still open for 2027, and when the 2028 ballots open), and reworded the fried chicken guide's championships line. The date check finds no expired claims."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Pushed live: landscape hero images on 12 guides, a build check that blocks portrait heroes, and photos for 9 guides (cocktail bars, beautiful pubs, British food, coffee, galleries, museums, two walks, gastropubs, Chinese and East Asian)."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Removed every line where a guide said it had previously got something wrong (15 lines in 6 guides, including the Oriole callout)."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Added GetYourGuide links and dated booking widgets to the afternoon tea guide: the tea bus, the tea cruise, the British Museum, the National Gallery and the London Eye."
     }
   ],
   "postTypes": [
