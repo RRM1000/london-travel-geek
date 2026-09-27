@@ -10,7 +10,7 @@ reviewBy: 2026-11-16
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-tags: [autumn, parks, gardens, things to do, outdoors, walks, free things to do]
+tags: [autumn, parks, gardens, things to do, outdoors, free things to do]
 draft: false
 faq:
   - q: "When is the best time to see autumn leaves in London?"
