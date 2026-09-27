@@ -6,7 +6,6 @@
   "nextUp": [
     "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
     "Christmas season: November and December monthly guides, pantomimes, and Boxing Day and January sales. In November, swap the \"This season\" nav to the Christmas guides.",
-    "Fill out the 8 short entries the depth check flags: Chick King, Chick and Beers, Coqfighter and Bao in the fried chicken guide; Mien Tay, Lai Rai and Green Papaya in the Vietnamese guide; Bar Levan in the wine bars guide.",
     "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
     "Check the best areas to stay guide against the budget hotels prices: it says moving further out saves too little, but the middle typical night further out was £141.50 against £179.50 in central London.",
     "Wire in Trainline links once you have joined its affiliate programme."
@@ -24,6 +23,10 @@
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-27",
+      "what": "Depth check cleared: every ranked entry on the site is now 50 words or more and names what to order. Bar Levan filled out from its own site (wines, small plates, hours, walk-ins); Scott's names its oysters, lobster and Dover sole."
+    },
     {
       "date": "2026-09-27",
       "what": "Dates health check cleared: 13 lapsed claims fixed from the operators (LUMINISCENCE extended to 30 January, the Pagoda season over, Kew Orangery closures updated, the film festival and Premier League sale wording), and 20 claims due to lapse in October confirmed and given review dates. The walks tag came off the autumn leaves guide; the handbook is back up to date. New heroes from your photos on the dog-friendly hotels, family hotels and Wembley stay guides."
@@ -83,10 +86,6 @@
     {
       "date": "2026-09-15",
       "what": "Budget hotels guide: fixed The Corner London City, whose £311 rested on Hotels.com placeholder prices for 2027. Every hotel now links to Hotels.com through the affiliate when Hotels.com sells it (25 links), or to its own site when it doesn't. Added a line near the top saying it covers hotels only, linked it from the Where to stay page and five stay guides, and added a rule that every new guide is linked both ways. The windowless guide now includes Point A King's Cross."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Pushed live: the budget hotels guide with its photos, the breakfast guide title, the pub guides in the Eat in London hub, the Wimbledon and fried chicken updates, the writing guide and the reworked depth check."
     }
   ],
   "postTypes": [
