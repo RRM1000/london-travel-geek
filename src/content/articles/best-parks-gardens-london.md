@@ -305,9 +305,10 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 
 ## What to know
 
-* **All eight Royal Parks are free** and open dawn to dusk. Gates close at nightfall and the times change monthly.
+* **All eight Royal Parks are free, and their hours differ.** Hyde Park, Green Park and St James's Park are open 5am to midnight. Kensington Gardens and Greenwich Park open at 6am and The Regent's Park at 5am, and all three close at dusk. Richmond Park and Bushy Park are open to walkers 24 hours a day, except at night during their deer culls.
 * **Richmond Park's deer are wild animals.** Keep well back, especially in autumn.
 * **The Barbican Conservatory is free but ticketed**, opens on selected dates only, and releases day tickets online from 9.30am on the day. Check its listing and book — you cannot walk in.
+* **Bringing a dog?** Our [dog-friendly hotels guide](/articles/dog-friendly-hotels-london/) gives each hotel's fee, weight limit and walk to the nearest park, with the Royal Parks' lead rules.
 * **Kew is a half-day minimum** and cheaper booked online.
 * **Isabella Plantation peaks in late April and May.** Outside that it is pleasant rather than remarkable.
 * **For the trees themselves in autumn colour**, see our guide to [where to see autumn leaves in London](/articles/best-places-autumn-leaves-london/) — which parks, which named trees, and when it peaks.

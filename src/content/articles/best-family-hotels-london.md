@@ -276,5 +276,6 @@ A converted 1910 town hall in the East End, with a 15-metre pool open 6am to 10p
 
 - 👨‍👩‍👧 **[London With Children: Free Farms, Zoos and Days Out](/articles/london-with-children/)** - what to do once you've booked somewhere to sleep
 - 🍽️ **[Kids Eat Free in London](/articles/kids-eat-free-london/)** - every restaurant deal, checked
+- 🐕 **[Dog-Friendly Hotels in London](/articles/dog-friendly-hotels-london/)** - Royal Lancaster, The Rubens and Mandarin Oriental take dogs too: the fees, weight limits and nearest parks
 - 🧭 **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)** - where South Kensington, Bermondsey and Greenwich fit for a family that isn't chasing one of the hotels above
 - 💷 **[Best Budget Hotels in London](/articles/best-budget-hotels-london/)** - Premier Inn London Kensington (Earl's Court) is Mumsnet's own budget-family pick, and it's priced

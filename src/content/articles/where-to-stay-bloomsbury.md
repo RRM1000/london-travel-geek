@@ -129,7 +129,7 @@ A Lutyens-designed neo-Georgian building a minute along Great Russell Street fro
 
 A full block down the eastern side of Russell Square, interiors by Tara Bernerd & Partners layered over the 19th-century building's original bones, with Fitz's Brasserie, Fitz's Bar, Fitz's Palm Court and a reimagined outdoor Terrace all trading under one roof.
 
-**The pet policy is the reason this hotel turns up on every dog-friendly list going, and it is worth stating in full:** no charge, no deposit, no size or weight limit, and no cap on the number of pets — if the animal fits through the door, Kimpton takes it, with a loaner bed, bowls and a door hanger as standard. A dog-specific room-service menu runs through a partnership with Marleybones, and dog walking and day care can be booked through Paws Galore with 24 hours' notice. Afternoon tea in the Palm Court runs from £49 a head for anyone not staying.
+**Dogs stay free:** no charge and no deposit, though the hotel's own FAQ caps dogs at 35kg, so ring ahead with a big dog. Every dog gets a loaner bed, bowls and a door hanger. A dog-specific room-service menu runs through a partnership with Marleybones, and dog walking and day care can be booked through Paws Galore with 24 hours' notice. Afternoon tea in the Palm Court runs from £49 a head for anyone not staying.
 
 ### The Imperial — the one that rebuilt itself this year
 

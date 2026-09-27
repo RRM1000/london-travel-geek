@@ -438,4 +438,6 @@ The question changes. Beyond about the third or fourth night a kitchen starts to
 
 If you are not staying the night at all — a long layover, an evening flight, a bag and a shower — a [day room](/articles/day-rooms-london/) is a cheaper answer than any of this.
 
+If the dog is coming too, [our dog-friendly hotels guide](/articles/dog-friendly-hotels-london/) compares hotels on the fee, the weight limit and the walk to the nearest park.
+
 *Room rates are from our own sampling on Hotels.com and each operator's own site, current at 7 September 2026; rates change nightly, so always check your own dates. First and last Tube times are from Transport for London's own working timetables, and the Night Tube lines, night bus fares and the Hopper fare from tfl.gov.uk, all checked on 9 September 2026. Eurostar check-in times from eurostar.com on 8 September 2026.*
