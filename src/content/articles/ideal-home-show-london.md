@@ -65,6 +65,10 @@ The **Show Home** is the anchor exhibit every year, and for 2027 its theme is **
 
 *Ideal Gardens, seen from the mezzanine.*
 
+![An aerial view of the Ideal Home Show floor at Olympia, garden displays and a car on show beneath banners for The Ideal Home and the Eat & Drink Festival](../../assets/articles/ideal-home-show-london/gardens-home-improvement.jpg)
+
+*The show floor at Olympia.*
+
 ### The Eat & Drink Festival is included, not an add-on
 
 Every Ideal Home Show ticket also covers the **Eat & Drink Festival**, run alongside it in the same halls rather than behind a separate gate. Expect live demonstrations from chefs, street food and cocktail stalls under the banner "The Great Eat", and the **Artisan Producer's Market** for food and drink to take home. Beyond that, ordinary food and drink stalls and seating areas are dotted through the venue for a quicker stop between halls.
@@ -78,6 +82,10 @@ Put those together and a **weekday morning in the second week** — once the ope
 ## Getting to Olympia
 
 The venue is **Olympia London, Hammersmith Road, London W14 8UX**, and its own station, **Kensington (Olympia)**, sits right next to it in Zone 2 — but it isn't a stop most Tube maps show as fully served, which catches people out.
+
+![The exterior of Olympia London's Grand Hall, its arched glass roof above a Victorian brick facade and an entrance sign reading Grand Hall](../../assets/articles/ideal-home-show-london/olympia-grand-hall.jpg)
+
+*Olympia's Grand Hall entrance.*
 
 **By Overground and rail, every day:** Kensington (Olympia) is served by London Overground's Mildmay line, with direct trains from Clapham Junction, Shepherd's Bush, Willesden Junction, West Hampstead and Stratford, plus Southern Rail services to and from Watford Junction. If you're coming from Clapham Junction, a train towards Milton Keynes from Platform 16 does the trip in about 10 minutes; the Overground from Platform 2 runs more often. Three or more people travelling together can use **GroupSave** for a third off rail fares.
 

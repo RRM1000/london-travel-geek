@@ -68,6 +68,10 @@ A **Squad Bundle** buys five Priority tickets at once for a group: £158 on Sund
 
 MCM's full costume and prop policy runs to several thousand words; this is what actually changes whether something gets confiscated at the door.
 
+![A cosplayer dressed as Cloud Strife from Final Fantasy VII, carrying an oversized prop Buster Sword, on MCM's Main Stage](../../assets/articles/mcm-comic-con-london/cosplay-masquerade.jpg)
+
+*On the Main Stage cosplay masquerade.*
+
 - **Banned outright:** metal blades of any kind (swords, axes, knives), guns or gun-shaped items built from metal or hard wood, airsoft/BB/gel-blaster guns even unpowered, functional bows and crossbows, laser pointers, drones, and anything a police officer could reasonably call a weapon.
 - **Every prop gun or blaster is marked by security at the door, every day.** The marking isn't permanent, so if you're bringing the same prop back on day two, you queue for a fresh mark each morning.
 - **Size limit: 150cm**, or 180cm for a narrow staff or spear — anything bigger must dismantle by hand before you enter a crowded area. Scythes must always split into two pieces without tools, regardless of size.
@@ -80,6 +84,10 @@ If your prop is unusual, MCM's cosplay team (MCMcosplay@reedpop.com) will advise
 ## Guests, autographs and photo ops: how the money works
 
 Meeting a guest is two separate purchases: your admission ticket gets you into the building, and the autograph or photo op itself is bought on top, through MCM's partner **Epic**.
+
+![A fan watching a guest panel on MCM's Main Stage, with the panel showing on the big screens behind](../../assets/articles/mcm-comic-con-london/guests-main-stage.jpg)
+
+*A guest panel on the Main Stage.*
 
 - **Some guests sell pre-booked, timed slots online before the show**; others sell only at their table on the day, first come, first served.
 - **The guest's own page on MCM's site says which** — pre-sale, table-only, or both — and lists the price, since guests set their own autograph and photo-op rates.
@@ -99,6 +107,10 @@ MCM doesn't publish footfall by day, but the ticket sheet is the best clue there
 ## Early entry, the queue and getting through the door
 
 Activate your entry badge in the **MCM app** before you travel — it's required for over-18s and unlocks scavenger hunts and exhibitor content once you're inside, but the point that matters on the day is that it's one less thing to do at the door.
+
+![Crowds filling the concourse under an MCM London Comic Con banner, with signage pointing to the cloakroom, first aid, car parks and toilets](../../assets/articles/mcm-comic-con-london/show-floor-crowds.jpg)
+
+*The concourse on a busy day.*
 
 - **Security checks bags, cosplay weapons and props before you're through the Queue Hall** — have them out and ready rather than buried in a bag.
 - **Priority and Weekend/VIP ticket holders enter up to two hours before General** each day; VIP badges also get a separate, faster queue for entry, autographs, photo ops and the Main Stage.

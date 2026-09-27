@@ -61,6 +61,10 @@ Workshops and meet-and-greets sit on top of a day ticket rather than replacing o
 
 The market runs food, drink and craft stalls rather than one themed "street" — HYPER JAPAN dropped its dedicated Sake Experience area for 2026, but sake was still poured everywhere: **KANPAI**, the UK's first sake brewery, alongside umeshu and sake specifically imported from four producers in Wakayama Prefecture, plus Suntory Toki whisky and Ozeki and MIO sparkling sake on the drinks side. On the food side, **Dragonfly Foods** brought UK-handmade organic tofu, **Kewpie** its mayonnaise, and **Japan Centre** — the Panton Street shop that's also the best walk-in Japanese food counter in the West End, covered in our [Japanese restaurants guide](/articles/best-japanese-restaurants-london/) — ran its own stall alongside importers like Taste of Japan and Unisnacks.
 
+![An aerial view of Olympia's Grand Hall packed with HYPER JAPAN Festival market stalls under the glass roof, with the event's banner hanging above the crowd](../../assets/articles/hyper-japan-london/market-crafts-manga.jpg)
+
+*The market floor at Olympia.*
+
 **Bring cash as a backup.** HYPER JAPAN says it's working towards a cashless event, but there are no cash machines inside the venue and some traders still only take cash.
 
 ## Cosplay: what's allowed and what isn't

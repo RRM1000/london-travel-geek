@@ -2,12 +2,8 @@
 title: "Exhibitions and Conventions in London: ExCeL, Olympia and the Year's Big Shows"
 seoTitle: "Exhibitions and Conventions in London 2026-27"
 description: "MCM Comic Con sells out its weekend and VIP tiers a month early, Frieze Week puts five art fairs in Regent's Park and Battersea Park on the same days, and New Scientist Live discounts final-release tickets 44% against paying on the door."
-heroImage: "../../assets/articles/exhibitions-conventions-london/excel-london-interior.jpg"
-heroImageAlt: "A wide, empty concourse inside ExCeL London, with a yellow-clad upper walkway and escalators leading down toward the exhibition halls"
-heroImageCredit: "mattbuck"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:ExCeL_Centre_MMB_42.jpg"
-heroImageLicense: "CC BY-SA 4.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
+heroImage: "../../assets/articles/exhibitions-conventions-london/excel-london.jpg"
+heroImageAlt: "Visitors queuing beside the Royal Victoria Dock outside ExCeL London, with dockside cranes, moored boats and a large screen advertising a show at the entrance"
 publishedAt: 2026-09-27
 reviewBy: 2026-10-04
 sites: [london]
@@ -145,6 +141,10 @@ These recur every year, but the organiser hadn't set next in-window dates as of 
 
 **New Scientist Live** at ExCeL (10–11 October) is the consumer science event, four stages of talks with a show floor. **AI LIVE** (Olympia, 20–21 October) and **Agentic Expo** (Olympia, 23–24 March) are both openly ticketed AI conferences rather than trade-gated, despite Olympia listing them as trade shows.
 
+![A packed exhibition hall at New Scientist Live, exhibitor stands beneath a giant model of Mars suspended from the ceiling](../../assets/articles/exhibitions-conventions-london/new-scientist-live.jpg)
+
+*New Scientist Live's show floor.*
+
 ### Home, garden and food
 
 **The Ideal Home Show** at Olympia (2–11 April 2027) is the fixture — a long-running annual show there, billed by its organiser as the UK's biggest for home, garden and lifestyle. **Grand Designs Live** follows straight after at ExCeL (30 April–3 May), and **Home, Life & You LIVE** (ExCeL, 17–18 October) covers the same ground earlier in the year.
@@ -172,6 +172,26 @@ These recur every year, but the organiser hadn't set next in-window dates as of 
 - **Alexandra Palace** — Muswell Hill/Wood Green, north London. Nearest stations are **Alexandra Palace** (Great Northern rail from Moorgate or King's Cross) and **Wood Green** tube (Piccadilly line); the W3 bus also stops at the Palace itself.
 - **Somerset House** — the Strand. Nearest stations **Temple** (District and Circle lines, closed Sundays) and **Embankment**; the fairs use the courtyard and the wings around it.
 - **Business Design Centre** — Islington, in the former Royal Agricultural Hall. Nearest station **Angel** (Northern line). Runs a dense year-round mix of trade and public exhibitions across sectors from art and design to fashion — check its own listings, filterable by public or trade, before booking.
+
+![Visitors queuing beside the Royal Victoria Dock outside ExCeL London, with dockside cranes, moored boats and a large screen advertising a show at the entrance](../../assets/articles/exhibitions-conventions-london/excel-london.jpg)
+
+*ExCeL London, on the Royal Docks.*
+
+![The barrel-vaulted glass roof and cast-iron arches of Olympia London's Grand Hall, empty and lit by daylight](../../assets/articles/exhibitions-conventions-london/olympia-london.jpg)
+
+*Olympia London's Grand Hall.*
+
+![Alexandra Palace's Great Hall laid out for a banquet, round tables under its barrel-vaulted roof and stained-glass rose window](../../assets/articles/exhibitions-conventions-london/alexandra-palace.jpg)
+
+*The Great Hall at Alexandra Palace.*
+
+![Somerset House's courtyard, with the neoclassical building and its central dome behind a row of colourful sculpture plinths](../../assets/articles/exhibitions-conventions-london/somerset-house.jpg)
+
+*The courtyard at Somerset House.*
+
+![A stained-glass window reading "Royal Agricultural Hall" set into the barrel-vaulted roof of the Business Design Centre](../../assets/articles/exhibitions-conventions-london/business-design-centre.jpg)
+
+*The Business Design Centre's Royal Agricultural Hall window.*
 
 ---
 

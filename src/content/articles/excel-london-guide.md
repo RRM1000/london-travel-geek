@@ -35,6 +35,10 @@ faq:
 
 ExCeL London is a single building nearly a kilometre long, sitting between two DLR stations, with an Elizabeth line stop at one end and a cable car terminal a short walk from the other. Which of those you use depends entirely on which hall your event is in — get that wrong and the "five-minute walk" from the station becomes a fifteen-minute walk through the building.
 
+![ExCeL London's brick waterfront frontage and glass canopy along Royal Victoria Dock, with the Immerse LDN sign visible on the building](../../assets/articles/excel-london-guide/excel-exterior-waterfront.jpg)
+
+*ExCeL's Waterfront side, on Royal Victoria Dock.*
+
 > 💡 **The Short Version:** Custom House (Elizabeth line and DLR) serves the **West Entrance**; Prince Regent (DLR only) serves the **East Entrance and the ICC**. They're about a kilometre apart on foot. Parking is **£27.50 pre-booked / £30 on the day**, same price for Blue Badge holders, and the venue sits inside the **ULEZ** but outside the Congestion Charge zone. Cloakrooms are **free** but not guaranteed — it's down to the organiser of your event. Everything inside is **cashless**. For the show calendar, expect a different organiser and a different bag policy every time; there's no one venue-wide rule.
 
 ---
@@ -42,6 +46,14 @@ ExCeL London is a single building nearly a kilometre long, sitting between two D
 ## Which station for which end
 
 ExCeL was built long and thin along the north quay of Royal Victoria Dock, and the venue's own walking-distance guide for visitors makes the geometry explicit:
+
+![The purple Custom House roundel on the platform, with an Elizabeth line train alongside and the station canopy behind](../../assets/articles/excel-london-guide/custom-house-station.jpg)
+
+*Custom House station.*
+
+![The Prince Regent DLR platform sign, with ExCeL's building running alongside the tracks and electricity pylons on the skyline](../../assets/articles/excel-london-guide/prince-regent-icc.jpg)
+
+*Prince Regent station.*
 
 | Between | Distance |
 | --- | --- |
@@ -81,6 +93,10 @@ The Elizabeth line is the quickest option from almost anywhere in central London
 
 **The London Cable Car** (sold and signed by ExCeL as the IFS Cloud Cable Car; TfL's own pages now just call it the London Cable Car) crosses the Thames from Greenwich Peninsula, by The O2, to a terminal in the Royal Docks a short walk from ExCeL's Waterfront. ExCeL's own site offers every exhibitor and visitor **50% off a walk-up fare** — £3.50 single instead of £7 — on presentation of a ticket or confirmation email. Hours change with the season:
 
+![An IFS Cloud Cable Car cabin crossing the Royal Docks at dusk, with the Thames and the Docklands skyline behind](../../assets/articles/excel-london-guide/london-cable-car.jpg)
+
+*The cable car crossing the docks.*
+
 | Day | Summer (1 Apr–30 Sep) | Winter (1 Oct–31 Mar) |
 | --- | --- | --- |
 | Mon–Thu | 07:00–22:00 | 07:00–21:00 |
@@ -117,6 +133,10 @@ Two river crossings serve the car park's approach roads: the **Blackwall Tunnel*
 ## Inside ExCeL: bags, cash, food and wifi
 
 Because ExCeL hosts a different organiser's event in every hall, there's no single venue-wide bag or security policy the way a single-tenant arena like The O2 has — check the specific event's own page for what it allows in. What does hold across the whole venue:
+
+![An escalator and mezzanine level inside ExCeL London's boulevard, empty of visitors](../../assets/articles/excel-london-guide/central-boulevard-concourse.jpg)
+
+*Inside ExCeL's boulevard.*
 
 - **Cashless throughout.** ExCeL's own food and drink pages state plainly that none of its outlets take cash — bring a contactless card or phone. Market Express, an Amazon "tap in, walk out" convenience store by hall entrance N10, works the same way.
 - **Cloakrooms are free**, on Level 0 between hall entrances N4 and S4 and at the east end of Level 0, plus dedicated cloakrooms in the ICC's Capital and Platinum Suites — but availability depends on your event's organiser, and nothing can be stored overnight. Cameras, laptops and other electronics aren't accepted.
