@@ -4,10 +4,10 @@
   "updated": "2026-09-27",
   "inProgress": [
     {
-      "title": "Exhibitions and conventions in London",
+      "title": "Exhibitions in the events listings",
       "state": "in progress",
-      "detail": "Two agents are listing every public show from October 2026 to September 2027, at ExCeL and The O2 and at every other London venue, with dates and prices from the organisers. A third is writing an ExCeL venue guide: stations for each hall, parking, bags, food and hotels.",
-      "next": "Build the calendar page from the research, write pages for the biggest fan shows (likely MCM Comic Con, EGX, Hyper Japan), and add the shows to the listings so What's On and the monthly guides pick them up."
+      "detail": "An agent is adding the 40-odd dated shows from the calendar to the Events tab, so they appear on the events page and in the monthly and area guides.",
+      "next": "Check the Sheet row counts before the write, then export and rebuild."
     }
   ],
   "nextUp": [
@@ -27,9 +27,14 @@
     "Four guides mark some entries as named by none of the sources (Middle Eastern, Sunday roast, Turkish, most instagrammable). Keep the markers or cut them?",
     "OK about $5 of Apify to price the Bloomsbury and family hotels guides.",
     "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
-    "Say \"push\" whenever the committed work should go live."
+    "Say \"push\" whenever the committed work should go live.",
+    "Exhibitions: London Games Festival, London Film and Comic Con and a regular London record or retro-gaming fair turned up nothing online. Know of any worth adding?"
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-27",
+      "what": "Exhibitions and conventions: a 12-month calendar of 42 public shows (Frieze, New Scientist Live, AnimeCon, Knit + Stitch, the Horse Show, Grand Designs Live and more), an ExCeL venue guide (stations by hall, parking, bags, food, hotels via Hotels.com), and pages for MCM Comic Con, the Ideal Home Show and Hyper Japan. EGX is now part of MCM; the London Boat Show no longer runs."
+    },
     {
       "date": "2026-09-27",
       "what": "Depth check cleared: every ranked entry on the site is now 50 words or more and names what to order. Bar Levan filled out from its own site (wines, small plates, hours, walk-ins); Scott's names its oysters, lobster and Dover sole."
@@ -89,10 +94,6 @@
     {
       "date": "2026-09-15",
       "what": "Hotels.com stay strips: a two-line London hotel search with dates, placed by the balancer on 130 guides, plus a light Hotels.com card under the tours card in the sidebar. The second GetYourGuide widget on each page now sells a big product, and the London Pass, Explorer Pass and Merlin pass joined every big-seller pool. The nine tour and day trip guides now offer a tour in the Short Version, with the tour sections moved up."
-    },
-    {
-      "date": "2026-09-15",
-      "what": "Budget hotels guide: fixed The Corner London City, whose £311 rested on Hotels.com placeholder prices for 2027. Every hotel now links to Hotels.com through the affiliate when Hotels.com sells it (25 links), or to its own site when it doesn't. Added a line near the top saying it covers hotels only, linked it from the Where to stay page and five stay guides, and added a rule that every new guide is linked both ways. The windowless guide now includes Point A King's Cross."
     }
   ],
   "postTypes": [
