@@ -270,11 +270,11 @@ const agents = fs.existsSync(".claude/agents")
   : [];
 
 const RULE_GROUPS = [
-  ["Working with Claude", ["dont-push-unless-asked", "stop-asking-permission", "keep-responses-short", "show-the-rendered-page", "new-articles-not-draft", "paid-api-runs-need-warning", "ask-date-before-rate-scrape", "openseo-setup-pending"]],
+  ["Working with Claude", ["dont-push-unless-asked", "stop-asking-permission", "keep-responses-short", "show-the-rendered-page", "new-articles-not-draft", "paid-api-runs-need-warning", "ask-date-before-rate-scrape", "openseo-setup-pending", "build-before-every-push", "project-handbook", "main-holds-preview-copies"]],
   ["Research and sources", ["serp-first-sourcing", "cross-tier-research-standard", "consensus-collection-traps", "content-farm-passes-clean-name-array", "tier-d-video-is-not-blocked", "sheet-is-not-the-market", "dont-restrict-to-existing-area-guides", "restaurant-data-pipeline"]],
-  ["Writing a guide", ["no-weakness-lines-in-guides", "no-self-correction-notes", "ask-dont-publish-gaps", "methodology-block-only-when-rated", "seo-title-length", "interlink-walks"]],
-  ["Photos", ["downloaded-photos-are-the-users-own", "hero-images-landscape", "hero-photo-stays-in-the-list", "photos-fact-check-the-entry", "agent-photo-placement-needs-checking", "photo-backlog"]],
-  ["Site, code and tools", ["production-css-range-media-queries", "worktree-dev-server-fonts", "smart-app-control-blocks-astro-build", "heredoc-mangles-scripts", "no-parallel-websearch-agents", "esim-affiliate-ids-in-roam-compare"]],
+  ["Writing a guide", ["no-weakness-lines-in-guides", "no-self-correction-notes", "ask-dont-publish-gaps", "methodology-block-only-when-rated", "seo-title-length", "interlink-walks", "link-every-new-page-both-ways", "articles-state-the-rule-not-the-reasoning", "never-describe-a-websites-state"]],
+  ["Photos", ["downloaded-photos-are-the-users-own", "hero-images-landscape", "hero-photo-stays-in-the-list", "photos-fact-check-the-entry", "agent-photo-placement-needs-checking", "photo-backlog", "photo-captions-plain"]],
+  ["Site, code and tools", ["production-css-range-media-queries", "worktree-dev-server-fonts", "smart-app-control-blocks-astro-build", "heredoc-mangles-scripts", "no-parallel-websearch-agents", "esim-affiliate-ids-in-roam-compare", "sheet-writers-overwrite-whole-tab", "research-browserless"]],
   ["Analytics", ["monday-analytics-review", "ga4-bot-and-unprocessed-day"]],
 ];
 const rules = [];
