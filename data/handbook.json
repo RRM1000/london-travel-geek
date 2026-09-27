@@ -27,6 +27,10 @@
   "recentlyDone": [
     {
       "date": "2026-09-27",
+      "what": "Eurostar guides after the Paris page earned a ~£50 GetYourGuide commission: Brussels day trip (seven in-city tours), Bruges (no London coach tour exists; the Any Belgian Station ticket ended in 2025, so two tickets), Amsterdam (4h each way, so it recommends a night). All four Eurostar guides now link each other and are linked from the day trips hub and both King's Cross guides; Paris was only linked from the hub before."
+    },
+    {
+      "date": "2026-09-27",
       "what": "Pushed live: 25 commits, including the exhibitions guides and photos, the ExCeL guide, exhibitions on What's On, the section-page ordering, spread-out dates, the date fixes, the depth fixes, the site-wide captions, and the new heroes. Cards are back to no date and no New label; guide headers still show the Updated date."
     },
     {
@@ -84,10 +88,6 @@
     {
       "date": "2026-09-22",
       "what": "Event listings: Ticketmaster, DICE and venue readers merged, refreshed daily on GitHub Actions, with a What's On page, an on-sale page, strips in area guides, the Christmas shows page and the Barbican guide. Five new food guides."
-    },
-    {
-      "date": "2026-09-21",
-      "what": "Twickenham, NFL London Games and football tickets guides. Afternoon tea rebuilt on two awards. The fares title rewritten for its 125k unclicked impressions. Itineraries rebuilt, fixing six wrong facts."
     }
   ],
   "postTypes": [
