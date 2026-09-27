@@ -2,8 +2,8 @@
 title: "Dog-Friendly Hotels in London: Fees, Weight Limits and the House Rules"
 seoTitle: "Dog-Friendly Hotels London 2026: Fees, Limits, Rules"
 description: "London hotels that take dogs, from free at Rosewood and Kimpton Fitzroy to £100 a stay at The Langham: the fee, the weight limit, where the dog can eat and the nearest park."
-heroImage: "../../assets/articles/dog-friendly-hotels-london/mandarin-oriental-hyde-park-exterior.jpg"
-heroImageAlt: "Mandarin Oriental Hyde Park's red-brick Victorian facade lit up at dusk, with Union Flags flying over Knightsbridge and black cabs passing"
+heroImage: "../../assets/articles/dog-friendly-hotels-london/dog-on-hotel-bed.jpg"
+heroImageAlt: "A golden retriever lying on a bed with a grey star-print duvet, chin resting on its paw, in a softly lit room"
 publishedAt: 2026-09-27
 reviewBy: 2027-03-27
 sites: [london]
