@@ -2,8 +2,8 @@
 title: "The Best Hot Pot in London, and How to Order One if You Never Have"
 seoTitle: "Best Hot Pot London 2026: Where to Eat, What It Costs"
 description: "Sichuan mala, Beijing copper pots, Chaoshan beef and pay-by-weight malatang — where London's hot pot restaurants actually are, what the regional styles mean, and what a table for four really costs."
-publishedAt: 2026-09-03
-updatedAt: 2026-09-03
+publishedAt: 2026-09-06
+updatedAt: 2026-09-21
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

@@ -4,7 +4,8 @@ seoTitle: "Best Parks & Gardens in London 2026: 17 Compared"
 description: "A Wren church left as a shell and filled with vines, dinosaurs built in 1854, and a tropical conservatory inside a brutalist fly tower — London's green spaces."
 heroImage: "../../assets/articles/best-parks-gardens-london/greenwich-park-spring.jpg"
 heroImageAlt: "Greenwich Park in spring, the grass slope running down past the Old Royal Naval College to Canary Wharf beyond"
-publishedAt: 2026-08-23
+publishedAt: 2026-09-11
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Things to do"

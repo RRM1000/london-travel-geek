@@ -3,6 +3,7 @@ title: "Science in London: The Lectures, Lates and Days the Engines Run"
 seoTitle: "Science Events in London: Lectures, Lates and Expos"
 description: "A Royal Institution Discourse is £20 and starts at 7.30pm without an introduction. Gresham College has been free since 1597. And the Victorian beam engines at Crossness, Kempton and Kew Bridge only turn on published dates."
 publishedAt: 2026-09-21
+updatedAt: 2026-09-27
 reviewBy: 2026-11-01
 sites:
   - london

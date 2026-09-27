@@ -5,6 +5,7 @@ description: "The pastel streets are not on Portobello Road. A walking route thr
 heroImage: "../../assets/articles/notting-hill-colourful-houses/hillgate-place-corner.jpg"
 heroImageAlt: "A corner terrace of small houses on Hillgate Place painted pale blue, red, cream and yellow under a clear sky"
 publishedAt: 2026-09-06
+updatedAt: 2026-09-25
 reviewBy: 2027-03-01
 sites: [london]
 canonicalSite: london

@@ -3,7 +3,7 @@ title: "The Best Turkish Restaurants in London, Cross-Referenced Across Every Ma
 seoTitle: "Best Turkish Restaurants in London 2026, Ranked"
 description: "Not our opinion. Every restaurant here is ranked by how many independent guides name it — and most of them are on one road in north London."
 publishedAt: 2026-08-30
-updatedAt: 2026-08-30
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

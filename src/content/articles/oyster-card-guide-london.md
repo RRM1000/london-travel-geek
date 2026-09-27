@@ -2,7 +2,7 @@
 title: "Oyster Card Guide: Should You Use Oyster or Contactless in London?"
 seoTitle: "Oyster Card or Contactless in London?"
 description: "Where Oyster works, what it costs, how to buy and top it up, which National Rail operators accept it, and whether an adult visitor is better using a contactless bank card."
-publishedAt: 2026-07-28
+publishedAt: 2026-08-10
 updatedAt: 2026-09-25
 reviewBy: 2027-03-01
 sites:

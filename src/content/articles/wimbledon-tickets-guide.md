@@ -2,7 +2,7 @@
 title: "How to Get Wimbledon Tickets: The Ballot, The Queue and Every Other Way In"
 seoTitle: "Wimbledon Tickets 2027: Ballot Dates, The Queue, Prices"
 description: "Every legitimate route into Wimbledon: the public ballot and when it opens, exactly how The Queue works and when to arrive, the in-grounds Ticket Resale, and what to do if you are coming from abroad."
-publishedAt: 2026-08-29
+publishedAt: 2026-08-30
 updatedAt: 2026-09-25
 reviewBy: 2026-11-01
 sites:

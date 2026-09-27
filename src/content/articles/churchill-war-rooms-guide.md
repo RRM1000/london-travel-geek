@@ -2,7 +2,8 @@
 title: "Churchill War Rooms: Tickets, Prices and What to See"
 seoTitle: "Churchill War Rooms 2026: Tickets, Map Room & Guide"
 description: "Churchill War Rooms ticket prices and booking, the Cabinet Room and Map Room explained, and why the audio guide already included with your ticket makes a paid 'audio tour' pointless."
-publishedAt: 2026-09-19
+publishedAt: 2026-09-20
+updatedAt: 2026-09-21
 reviewBy: 2026-12-31
 sites:
   - london

@@ -2,8 +2,8 @@
 title: "Buying a SIM Card at London Airports: What It Costs"
 seoTitle: "SIM Cards at London Airports: £35–£45 vs £10 in Town"
 description: "An arrivals desk charges £35–£45 for a SIM that costs £10–£15 in a supermarket, and it holds at every London airport. Where the desks and vending machines actually are, terminal by terminal, and what to do instead."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-01
+publishedAt: 2026-08-01
+updatedAt: 2026-09-23
 sites:
   - london
 canonicalSite: london

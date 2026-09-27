@@ -5,7 +5,7 @@ description: "Eurostar wants you inside St Pancras 75 minutes before departure a
 heroImage: "../../assets/articles/kings-cross-area-guide/coal-drops-yard-roofs.jpg"
 heroImageAlt: "Coal Drops Yard's curved zinc kissing-roof sweeping up to meet the glass-walled upper level, with a cast-iron gasholder frame and glass apartments behind, crowds on the railed walkway above brick arches and a busy plaza with market stalls below"
 publishedAt: 2026-09-08
-updatedAt: 2026-09-09
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Stay"

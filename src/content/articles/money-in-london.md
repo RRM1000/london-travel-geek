@@ -3,6 +3,7 @@ title: "Money in London: Cash, Cards, Cash Machines and Tipping Explained"
 seoTitle: "Money in London: Cash, Cards and ATMs Guide"
 description: "Whether London takes cash, what the contactless limit actually is, which cash machines charge, how to change money without losing on the rate, and what to tip — sourced to the Bank of England, the FCA, TfL, LINK and UK Finance."
 publishedAt: 2026-09-17
+updatedAt: 2026-09-27
 reviewBy: 2026-10-31
 sites:
   - london

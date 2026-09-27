@@ -9,6 +9,7 @@ heroImageSource: "https://www.pexels.com/photo/roast-beef-sandwiches-19585043/"
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-08-26
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

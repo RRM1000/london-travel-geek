@@ -4,7 +4,8 @@ seoTitle: "Where to Stay in Bloomsbury 2026: Hotels & Prices"
 description: "Generator's dorm beds and the newly rebuilt Imperial sit about eight minutes' walk apart in Bloomsbury. Every price tier compared, hotel by hotel, with the detail each one leaves off its own listing."
 heroImage: "../../assets/articles/where-to-stay-bloomsbury/kimpton-fitzroy-london-facade.jpg"
 heroImageAlt: "The ornate Victorian terracotta facade of Kimpton Fitzroy London facing Russell Square with a red London bus passing"
-publishedAt: 2026-09-15
+publishedAt: 2026-09-16
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Stay"

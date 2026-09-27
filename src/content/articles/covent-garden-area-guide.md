@@ -2,8 +2,8 @@
 title: "Covent Garden Area Guide: The Piazza, Seven Dials and West End Theatre"
 seoTitle: "Covent Garden Guide: Piazza, Seven Dials & Theatre Tips"
 description: "A complete Covent Garden guide: the Piazza and street performers, Seven Dials, Neal's Yard, where to eat before a show, and which station to actually use."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-16
+publishedAt: 2026-08-08
+updatedAt: 2026-09-27
 sites:
   - london
 canonicalSite: london

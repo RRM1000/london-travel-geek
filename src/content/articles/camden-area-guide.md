@@ -2,8 +2,8 @@
 title: "Camden Area Guide: The Markets, the Canal and Primrose Hill"
 seoTitle: "Camden Guide: Markets, Camden Lock & Primrose Hill"
 description: "A complete Camden guide: which of the markets is which, the canal walk to Little Venice, Primrose Hill, the music history, and when to avoid the crowds."
-publishedAt: 2026-08-16
-updatedAt: 2026-08-16
+publishedAt: 2026-08-22
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

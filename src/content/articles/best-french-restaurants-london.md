@@ -4,7 +4,8 @@ seoTitle: "Best French Restaurants London 2026: Bistros to 3 Stars"
 description: "Duck pressed at your table, unapologetic bourgeois cooking above a Farringdon pub, and two of London's six three-star kitchens."
 heroImage: "../../assets/articles/best-french-restaurants-london/l-escargot.jpg"
 heroImageAlt: "The green awnings and frontage of L'Escargot on Greek Street"
-publishedAt: 2026-08-23
+publishedAt: 2026-09-10
+updatedAt: 2026-09-19
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

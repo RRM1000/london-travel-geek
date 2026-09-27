@@ -9,6 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:The_Marksman_pub_254_H
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-09-14
+updatedAt: 2026-09-19
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

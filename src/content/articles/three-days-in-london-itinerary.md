@@ -2,8 +2,8 @@
 title: "Three Days in London: A First-Time Itinerary That Works"
 seoTitle: "Three Days in London Itinerary: Hours & Prices"
 description: "A three-day London plan with the operators' own opening hours and prices, TfL walking times between every stop, and the closures that wreck a day: the Abbey on Sundays, Borough on Mondays, the Treasures Gallery on Sundays."
-publishedAt: 2026-07-28
-updatedAt: 2026-09-21
+publishedAt: 2026-08-06
+updatedAt: 2026-09-22
 reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london

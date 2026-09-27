@@ -9,6 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:1-17_Norfolk_Square,_Pa
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 publishedAt: 2026-09-25
+updatedAt: 2026-09-26
 reviewBy: 2027-03-25
 sites: [london]
 canonicalSite: london

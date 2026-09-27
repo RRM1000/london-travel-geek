@@ -3,7 +3,7 @@ title: "The Best Walking Tours in London, Theme by Theme"
 seoTitle: "Best Walking Tours in London 2026: 33 Worth Booking"
 description: "33 London walking tours worth booking in 2026, all on GetYourGuide: the award-winning pub walk, Jack the Ripper, Harry Potter, food, street art and rock and roll, with prices, meeting points and how each one runs."
 publishedAt: 2026-09-11
-updatedAt: 2026-09-11
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Things to do"

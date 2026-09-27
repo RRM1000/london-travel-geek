@@ -4,7 +4,8 @@ seoTitle: "Best Live Music Venues London 2026: 25 Rooms Compared"
 description: "A Victorian railway turning shed, a veterans' club with a gold tinsel curtain, and the sloping floor at Brixton that bands talk about — London's music rooms."
 heroImage: "../../assets/articles/best-live-music-venues-london/jazz-cafe-camden.jpg"
 heroImageAlt: "The Jazz Cafe in Camden, its white stucco frontage lettered London's Famous Jazz Venue"
-publishedAt: 2026-08-23
+publishedAt: 2026-08-26
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Things to do"

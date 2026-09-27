@@ -5,6 +5,7 @@ description: "Scotch eggs, sausage rolls, pie and mash and sticky toffee pudding
 heroImage: "../../assets/articles/classic-british-food-london/m-manze-pie-mash-liquor.jpg"
 heroImageAlt: "Two pies covered in green parsley liquor next to mashed potato and a bowl of jellied eels, on a marble table."
 publishedAt: 2026-09-13
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

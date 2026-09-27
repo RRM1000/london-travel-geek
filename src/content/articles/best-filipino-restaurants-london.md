@@ -4,8 +4,7 @@ seoTitle: "Best Filipino Restaurants in London 2026: Ranked"
 description: "Adobo, sisig and kare-kare across London, from a Bib Gourmand dining room off Carnaby Street to a banana-leaf feast in Earl's Court — with prices, hours and what to order."
 heroImage: "../../assets/articles/best-filipino-restaurants-london/kamayan-sisig.jpg"
 heroImageAlt: "Sisig served on a black cast-iron sizzling plate: chopped crisp pork with spring onions, a drizzle of mayonnaise, a raw egg yolk set in the centre and a wedge of lime"
-publishedAt: 2026-09-22
-updatedAt: 2026-09-22
+publishedAt: 2026-09-23
 reviewBy: 2027-03-31
 sites: [london]
 canonicalSite: london

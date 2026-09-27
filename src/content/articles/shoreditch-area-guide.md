@@ -2,8 +2,8 @@
 title: "Shoreditch Area Guide: Street Art, Brick Lane and Spitalfields"
 seoTitle: "Shoreditch Guide: Street Art, Brick Lane & Market Days"
 description: "A complete Shoreditch guide: where the street art actually is, which market runs on which day, Brick Lane curry houses and bagels, and when to come."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-16
+publishedAt: 2026-08-15
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

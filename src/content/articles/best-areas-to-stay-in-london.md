@@ -5,7 +5,7 @@ description: "The area you most want to visit is often the worst one to sleep in
 heroImage: "../../assets/articles/best-areas-to-stay-in-london/covent-garden-piazza-aerial.jpg"
 heroImageAlt: "Covent Garden piazza seen from above in late afternoon light: the glass-roofed market building and its colonnade, cafe umbrellas and crowds on the cobbles below, and central London rooftops stretching away behind"
 publishedAt: 2026-09-08
-updatedAt: 2026-09-09
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Stay"

@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Autumn_Colours_in_Hyde
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-10
-updatedAt: 2026-09-26
+updatedAt: 2026-09-27
 reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london

@@ -5,6 +5,7 @@ description: "London aparthotels and serviced apartments compared by area: Locke
 heroImage: "../../assets/articles/aparthotels-london/aparthotel-studio-living-space.jpg"
 heroImageAlt: "A studio room with a bed, a sitting area with a bench sofa and cushions, a full-height wardrobe and a screened bathroom beyond"
 publishedAt: 2026-09-07
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Stay"

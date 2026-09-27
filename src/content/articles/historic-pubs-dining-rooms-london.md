@@ -4,7 +4,8 @@ seoTitle: "Historic Pubs London 2026: Where to Drink in History"
 description: "A 1667 warren off Fleet Street, a Thames pub trading five centuries, a banking hall and an old Westminster library — the London rooms worth going to for the room."
 heroImage: "../../assets/articles/historic-pubs-dining-rooms-london/the-blackfriar-mosaic-ceiling.jpg"
 heroImageAlt: "The gold mosaic ceiling and bronze relief friars inside the Blackfriar, with carved mottoes set into the marble walls"
-publishedAt: 2026-08-23
+publishedAt: 2026-09-15
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

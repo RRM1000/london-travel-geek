@@ -8,7 +8,8 @@ heroImageCredit: "Jed Ji"
 heroImageSource: "https://www.pexels.com/photo/cooking-meat-on-fire-on-table-with-food-20036089/"
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
-publishedAt: 2026-08-23
+publishedAt: 2026-09-07
+updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

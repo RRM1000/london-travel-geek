@@ -5,6 +5,7 @@ description: "London's best vegetarian and vegan restaurants, from the UK's firs
 heroImage: "../../assets/articles/best-vegetarian-vegan-restaurants-london/club-mexicana.jpg"
 heroImageAlt: "Two loaded tacos on a metal tray at Club Mexicana, piled with pickled red onion, jalapenos, coriander, crema and chilli sauce"
 publishedAt: 2026-08-23
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

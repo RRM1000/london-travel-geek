@@ -8,8 +8,8 @@ heroImageCredit: "Fred Romero"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Bacon_Street.jpg"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
-publishedAt: 2026-08-23
-updatedAt: 2026-09-14
+publishedAt: 2026-09-03
+updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london
 category: "Things to do"

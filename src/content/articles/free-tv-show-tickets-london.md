@@ -2,8 +2,7 @@
 title: "Free TV and Radio Tickets in London: How to Actually Get In"
 seoTitle: "Free TV Show Tickets London 2026: How the Ballots Work"
 description: "Studio audience tickets are free, and they are deliberately over-issued — so a ticket is not a seat. How the five agencies work, when to arrive, and what gets you turned away at the door."
-publishedAt: 2026-09-01
-updatedAt: 2026-09-01
+publishedAt: 2026-09-21
 sites: [london]
 canonicalSite: london
 category: "Things to do"

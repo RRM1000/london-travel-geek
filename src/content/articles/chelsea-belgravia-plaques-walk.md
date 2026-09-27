@@ -5,6 +5,7 @@ description: "Oscar Wilde, Mark Twain, Bram Stoker and George Eliot lived within
 heroImage: "../../assets/articles/chelsea-belgravia-plaques-walk/royal-hospital-chelsea-south-front.jpg"
 heroImageAlt: "The south front of the Royal Hospital Chelsea, Wren's long brick facade behind the lawns"
 publishedAt: 2026-09-09
+updatedAt: 2026-09-19
 sites: [london]
 canonicalSite: london
 category: "London areas"

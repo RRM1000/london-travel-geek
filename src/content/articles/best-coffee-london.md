@@ -5,6 +5,7 @@ description: "London's best independent coffee — the roaster trading since 197
 heroImage: "../../assets/articles/best-coffee-london/rosslyn-coffee-exterior.jpg"
 heroImageAlt: "The corner shopfront of Rosslyn Coffee on London Wall, with two customers on the outside bench holding takeaway cups"
 publishedAt: 2026-08-23
+updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

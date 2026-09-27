@@ -8,7 +8,8 @@ heroImageCredit: "Reading Tom"
 heroImageSource: https://www.flickr.com/photos/16801915@N06/3282398164
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
-publishedAt: 2026-09-10
+publishedAt: 2026-09-11
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "London areas"

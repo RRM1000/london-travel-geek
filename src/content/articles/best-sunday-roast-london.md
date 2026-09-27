@@ -2,8 +2,8 @@
 title: "The Best Sunday Roast in London, Cross-Referenced Across Every Guide, Award and Critic of the Year"
 seoTitle: "Best Sunday Roast London 2026: Pubs Ranked by Consensus"
 description: "Not our opinion. Every pub here is ranked by how many independent guides, awards and reviewers name it — and by where it actually placed."
-publishedAt: 2026-08-17
-updatedAt: 2026-09-21
+publishedAt: 2026-08-20
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

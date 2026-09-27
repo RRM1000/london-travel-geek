@@ -9,6 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London,_China_Town_--_
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-09-26
+updatedAt: 2026-09-27
 reviewBy: 2027-03-26
 sites: [london]
 canonicalSite: london

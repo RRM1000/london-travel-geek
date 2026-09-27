@@ -5,6 +5,7 @@ description: "Fifteen independent sources, no judged award, and a search for the
 heroImage: "../../assets/articles/best-barbecue-london/smokestak-hero.jpg"
 heroImageAlt: "A tray of sliced beef brisket with a black bark and a pink smoke ring, glazed pork ribs and pulled pork, with pickles and a pot of sauce on a wooden table"
 publishedAt: 2026-09-08
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

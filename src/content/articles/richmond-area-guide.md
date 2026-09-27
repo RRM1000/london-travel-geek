@@ -2,8 +2,8 @@
 title: "Richmond Area Guide: The Park, the River and Richmond Hill"
 seoTitle: "Richmond London Guide: Richmond Park, Deer & the River"
 description: "A complete Richmond guide: the deer in Richmond Park, the protected view from Richmond Hill, the riverside walk to Ham House, and how to reach Kew."
-publishedAt: 2026-08-16
-updatedAt: 2026-08-16
+publishedAt: 2026-08-22
+updatedAt: 2026-09-19
 sites:
   - london
 canonicalSite: london

@@ -3,6 +3,7 @@ title: "Public Toilets in London: The Free Ones, the Paid Ones, and Where Else t
 seoTitle: "Public Toilets in London 2026: Free, Paid & By Area"
 description: "Which London toilets are free, which charge and how much, plus the museums, department stores and pubs that quietly let anyone use theirs — organised by area, built from the UK's own public toilet database."
 publishedAt: 2026-09-01
+updatedAt: 2026-09-25
 reviewBy: 2027-03-31
 sites: [london]
 canonicalSite: london

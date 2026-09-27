@@ -8,7 +8,8 @@ heroImageCredit: "DizzyDJC"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:1_-_panoramio_(42).jpg"
 heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
-publishedAt: 2026-09-13
+publishedAt: 2026-09-16
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Things to do"

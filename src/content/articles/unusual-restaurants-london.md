@@ -4,8 +4,8 @@ seoTitle: "Unusual Restaurants London 2026: 22 Strange Places"
 description: "A Mongolian yurt, a floating pagoda, a Victorian lavatory, a prison-roasted coffee shop and a former school bike shed — London restaurants where the room is the story."
 heroImage: "../../assets/articles/unusual-restaurants-london/feng-shang-princess.jpg"
 heroImageAlt: "The Feng Shang Princess, a red three-tiered Chinese pagoda restaurant moored on the Regent's Canal"
-publishedAt: 2026-08-23
-updatedAt: 2026-09-01
+publishedAt: 2026-08-25
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

@@ -4,8 +4,8 @@ seoTitle: "Best Seafood Restaurants in London 2026, Ranked"
 description: "Not our opinion. Every restaurant here is ranked by how many independent guides, awards and reviewers name it — from 1742 oyster houses to £2 happy hours."
 heroImage: "../../assets/articles/best-seafood-restaurants-london/the-seafood-bar-fruits-de-mer.jpg"
 heroImageAlt: "A fruits de mer platter at The Seafood Bar: oysters, mussels, clams, langoustines, a crab claw, smoked salmon and dressed crab on ice"
-publishedAt: 2026-08-23
-updatedAt: 2026-08-30
+publishedAt: 2026-08-29
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

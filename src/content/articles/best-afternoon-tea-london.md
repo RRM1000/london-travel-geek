@@ -4,7 +4,8 @@ seoTitle: "Best Afternoon Tea in London: Prices and Awards"
 description: "London's afternoon teas compared — where the ritual began, which have a dress code, which work with children, and which are worth the money."
 heroImage: "../../assets/articles/best-afternoon-tea-london/the-dorchester.jpg"
 heroImageAlt: "Afternoon tea at the Dorchester: a tiered stand of finger sandwiches and pastries on floral china, with champagne flutes on a pink and gold table setting"
-publishedAt: 2026-08-23
+publishedAt: 2026-09-14
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

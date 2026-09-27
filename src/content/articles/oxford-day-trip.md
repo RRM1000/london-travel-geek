@@ -2,7 +2,8 @@
 title: "Oxford from London: The Day Trip, Priced and Timed"
 seoTitle: "Oxford Day Trip from London: Trains, Colleges, Costs"
 description: "An Off-Peak return to Oxford is £37.70 and the coach is £28 and runs all night. Which colleges charge, when they shut their halls, and what the free museums cost you — nothing."
-publishedAt: 2026-09-12
+publishedAt: 2026-09-21
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Day trips"

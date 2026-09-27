@@ -2,7 +2,8 @@
 title: "The Harry Potter Studio Tour: Tickets, Extras and How to Get There"
 seoTitle: "Harry Potter Studio Tour London: Prices and Travel"
 description: "Warner Bros. Studio Tour London costs £58.50 and cannot be bought on the door. Every optional extra with its price, the cheapest ways to get there from London, and what is included."
-publishedAt: 2026-09-12
+publishedAt: 2026-09-20
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Things to do"

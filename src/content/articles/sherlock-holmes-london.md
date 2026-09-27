@@ -3,7 +3,7 @@ title: "Sherlock Holmes in London: Everything a Fan Can Actually Do"
 seoTitle: "Sherlock Holmes London 2026: Museum, Pub & Tours"
 description: "The Sherlock Holmes Museum costs £19 and sits between numbers 237 and 241. The BBC series filmed its 221B a mile east, near Euston Square. Verified prices, real addresses and the tours worth booking."
 publishedAt: 2026-09-15
-updatedAt: 2026-09-15
+updatedAt: 2026-09-19
 reviewBy: 2026-12-15
 sites:
   - london

@@ -5,6 +5,7 @@ description: "The ten London bakeries named among Britain's best for 2026, the q
 heroImage: "../../assets/articles/best-bakeries-london/buns-from-home.jpg"
 heroImageAlt: "The Buns from Home shopfront, cream painted with the name in yellow lowercase lettering above a window counter"
 publishedAt: 2026-08-23
+updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

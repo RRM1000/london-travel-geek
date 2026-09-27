@@ -2,8 +2,8 @@
 title: "Westminster Area Guide: Big Ben, the Abbey and Whitehall"
 seoTitle: "Westminster Guide: Big Ben, Westminster Abbey & Timings"
 description: "A complete Westminster guide: the best view of Big Ben, what to book ahead, Abbey opening days, the Churchill War Rooms and how to avoid the worst crowds."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-16
+publishedAt: 2026-08-04
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

@@ -2,7 +2,8 @@
 title: "The Best Craft Beer Pubs in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Craft Beer Pubs in London 2026: Ranked"
 description: "There's no single London-wide CAMRA Pub of the Year — the branches judge separately. Thirty-four sources, 325 pubs, breweries and taprooms, and the CAMRA branch winners nobody puts on one list."
-publishedAt: 2026-09-13
+publishedAt: 2026-09-19
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

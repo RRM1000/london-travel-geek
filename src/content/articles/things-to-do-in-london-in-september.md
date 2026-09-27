@@ -8,7 +8,7 @@ heroImageCredit: "Motmit"
 heroImageSource: "https://commons.wikimedia.org/wiki/File%3AGreatRiverRace07.JPG"
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
-publishedAt: 2026-09-08
+publishedAt: 2026-09-09
 updatedAt: 2026-09-25
 reviewBy: 2026-10-01
 sites: [london]

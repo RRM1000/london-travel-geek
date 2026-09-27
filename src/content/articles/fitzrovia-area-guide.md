@@ -2,8 +2,8 @@
 title: "Fitzrovia Area Guide: Charlotte Street, the BT Tower and London's Densest Restaurant Streets"
 seoTitle: "Fitzrovia Guide: Charlotte Street, Restaurants & Sights"
 description: "A complete Fitzrovia guide: Charlotte Street and Goodge Street, the Georgian squares, the pubs Orwell and Dylan Thomas drank in, and why it has more good restaurants per street than anywhere else in central London."
-publishedAt: 2026-08-18
-updatedAt: 2026-08-18
+publishedAt: 2026-08-19
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

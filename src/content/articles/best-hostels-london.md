@@ -4,7 +4,8 @@ seoTitle: "Best Hostels in London 2026: Female Dorms & Real Prices"
 description: "Fifteen London hostels compared on the things booking sites bury: which dorms are en-suite, which have real female-only rooms, the age limits that refuse you, and what costs extra at the desk."
 heroImage: "../../assets/articles/pod-hotels-london/st-christophers-village-capsules.jpg"
 heroImageAlt: "A wall of white moulded sleeping capsules stacked two high inside a London hostel, each numbered, with a hexagonal window and a steel grab handle"
-publishedAt: 2026-09-09
+publishedAt: 2026-09-16
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Stay"

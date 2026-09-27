@@ -8,8 +8,8 @@ heroImageCredit: "Robert Rimell"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:English_Heritage_Blue_Plaque_-_geograph.org.uk_-_2088773.jpg"
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
-publishedAt: 2026-08-23
-updatedAt: 2026-08-28
+publishedAt: 2026-08-28
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Things to do"

@@ -2,8 +2,8 @@
 title: "Stansted Airport to London: Every Transport Option Compared"
 seoTitle: "Stansted Airport to London: Transport Guide"
 description: "Compare Stansted Express, coaches, taxis and transfers, with 2026 fares, journey times and practical routes for London hotel areas."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-02
+publishedAt: 2026-07-29
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

@@ -2,7 +2,8 @@
 title: "Hiring a Car in the UK: Licence Rules, Costs and Driving Out of London"
 seoTitle: "UK Car Hire for London Visitors: Rules and Costs"
 description: "What you need to hire a car in the UK as a visitor: which licences are accepted, the age limits and surcharges, the excess and deposit, and every charge London adds. Prices checked 12 September 2026."
-publishedAt: 2026-09-12
+publishedAt: 2026-09-13
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Getting around London"

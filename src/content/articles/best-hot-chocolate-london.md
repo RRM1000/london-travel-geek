@@ -5,7 +5,7 @@ description: "Eight venues named by two or more independent sources, with what e
 heroImage: "../../assets/articles/best-hot-chocolate-london/italian-bear-chocolate-hero.webp"
 heroImageAlt: "A cup of thick Italian hot chocolate dusted with cocoa, the cup lined with melted chocolate that has run down the outside and pooled on the saucer"
 publishedAt: 2026-09-07
-updatedAt: 2026-09-07
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

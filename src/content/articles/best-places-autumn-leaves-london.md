@@ -4,8 +4,8 @@ seoTitle: "Best Places to See Autumn Leaves in London 2026"
 description: "Seven of fifteen independent sources name Richmond Park, Kew's own hours cut by two hours the day the clocks go back, and Kew's head of tree collections says he's 'really worried about this autumn'."
 heroImage: "../../assets/articles/best-places-autumn-leaves-london/richmond-park-autumn-reflection.jpg"
 heroImageAlt: "A Japanese maple in scarlet and orange reflected in a still pond in Richmond Park"
-publishedAt: 2026-09-15
-updatedAt: 2026-09-16
+publishedAt: 2026-09-16
+updatedAt: 2026-09-27
 reviewBy: 2026-11-16
 sites: [london]
 canonicalSite: london

@@ -2,8 +2,8 @@
 title: "South Bank Area Guide: The River Walk, Tate Modern and Borough Market"
 seoTitle: "South Bank Guide: Tate Modern, Borough Market & Walks"
 description: "A complete South Bank guide: the walk from the London Eye to Tower Bridge, Tate Modern, Borough Market opening days, and the free views worth queuing for."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-16
+publishedAt: 2026-08-06
+updatedAt: 2026-09-27
 sites:
   - london
 canonicalSite: london

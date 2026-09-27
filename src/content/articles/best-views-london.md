@@ -8,7 +8,8 @@ heroImageCredit: "mattbuck"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:London_MMB_%C2%BB062_River_Thames_and_the_City.jpg"
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
-publishedAt: 2026-08-23
+publishedAt: 2026-08-26
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Things to do"

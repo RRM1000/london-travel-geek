@@ -9,6 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Reg
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0/
 publishedAt: 2026-09-26
+updatedAt: 2026-09-27
 reviewBy: 2026-11-04
 sites: [london]
 canonicalSite: london

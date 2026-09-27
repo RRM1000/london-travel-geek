@@ -2,8 +2,8 @@
 title: "Gatwick Airport to London: Every Transport Option Compared"
 seoTitle: "Gatwick to London: £10.70 Southern vs £24.10 Express"
 description: "Southern and Thameslink reach Victoria in 32–40 minutes for £10.70 off-peak. Gatwick Express costs £24.10 to save one to nine minutes. Which train suits which part of London, with 2026 fares."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-02
+publishedAt: 2026-08-01
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

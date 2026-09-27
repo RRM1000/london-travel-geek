@@ -2,7 +2,8 @@
 title: "Premier League Tickets in London: Why You Cannot Just Buy One"
 seoTitle: "Premier League Tickets London: How to Actually Get One"
 description: "The six London clubs in the Premier League sell home tickets to members first and mostly never reach general sale. What each membership costs, when ballots open, the club resale platforms, and why reselling a football ticket is a criminal offence."
-publishedAt: 2026-09-21
+publishedAt: 2026-09-22
+updatedAt: 2026-09-25
 reviewBy: 2026-10-13
 sites:
   - london

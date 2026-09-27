@@ -2,8 +2,8 @@
 title: "UK SIM Cards and eSIMs for Visitors: Every Option Compared"
 seoTitle: "Best UK SIM Card & eSIM for Tourists 2026: Compared"
 description: "Every way to get mobile data in the UK as a visitor, with real prices checked on each provider's site: EE's own tourist eSIM, Saily, Nomad and Airalo, pay-as-you-go SIMs from O2, Three, EE, Vodafone, giffgaff, Lebara and Lyca, what your home plan charges, and the speed caps, content blocks and card problems nobody warns you about."
-publishedAt: 2026-07-28
-updatedAt: 2026-09-14
+publishedAt: 2026-08-09
+updatedAt: 2026-09-22
 sites:
   - london
 canonicalSite: london

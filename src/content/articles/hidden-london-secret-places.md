@@ -4,8 +4,8 @@ seoTitle: "Hidden London 2026: Secret Places & Unusual Corners"
 description: "A wall recording ordinary people who died saving strangers, a tunnel of antique silver dealers, and a disused tram subway under Kingsway — London's hidden corners."
 heroImage: "../../assets/articles/hidden-london-secret-places/st-dunstan-in-the-east.jpg"
 heroImageAlt: "The Gothic window tracery of St Dunstan in the East standing roofless, ivy growing over the walls and planting along the base"
-publishedAt: 2026-08-23
-updatedAt: 2026-09-14
+publishedAt: 2026-09-02
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Things to do"

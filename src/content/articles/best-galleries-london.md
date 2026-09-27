@@ -8,7 +8,8 @@ heroImageCredit: "Anthony O'Neil"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:Turbine_Hall_-_geograph.org.uk_-_5404706.jpg"
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
-publishedAt: 2026-08-23
+publishedAt: 2026-08-24
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Things to do"

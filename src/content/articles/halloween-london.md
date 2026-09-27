@@ -2,8 +2,8 @@
 title: "Halloween in London: Events, Parties and Where to Get a Costume"
 seoTitle: "Halloween in London 2026: Events, Parties and Costumes"
 description: "What to do in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours — plus where you can still hire a proper costume."
-publishedAt: 2026-08-29
-updatedAt: 2026-09-25
+publishedAt: 2026-08-31
+updatedAt: 2026-09-27
 reviewBy: 2026-11-02
 sites:
   - london

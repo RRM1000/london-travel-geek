@@ -8,8 +8,8 @@ heroImageCredit: "Robert Lamb"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:Lantern_heaven_on_Gerrard_Street_-_geograph.org.uk_-_1721601.jpg"
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
-publishedAt: 2026-08-23
-updatedAt: 2026-08-30
+publishedAt: 2026-08-27
+updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

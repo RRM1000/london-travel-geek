@@ -2,8 +2,8 @@
 title: "Wapping Area Guide: Riverside Pubs, Warehouses and the Thames Tunnel"
 seoTitle: "Wapping Guide: Riverside Pubs & Execution Dock"
 description: "A complete Wapping guide: the oldest riverside pubs in London, Execution Dock, the warehouse conversions, Brunel's Thames Tunnel and St Katharine Docks."
-publishedAt: 2026-08-16
-updatedAt: 2026-08-16
+publishedAt: 2026-08-17
+updatedAt: 2026-09-19
 sites:
   - london
 canonicalSite: london

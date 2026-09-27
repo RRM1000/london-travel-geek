@@ -2,8 +2,8 @@
 title: "Harry Potter in London: Everything a Fan Can Actually Do"
 seoTitle: "Harry Potter London 2026: Prices & What to Skip"
 description: "Studio Tour tickets are £58.50 and cannot be bought on the door. Cursed Child becomes one play. The Cauldron has closed. Verified prices, real addresses and what to skip."
-publishedAt: 2026-09-03
-updatedAt: 2026-09-03
+publishedAt: 2026-09-05
+updatedAt: 2026-09-27
 sites:
   - london
 canonicalSite: london

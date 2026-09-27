@@ -2,8 +2,8 @@
 title: "How to Use London River Boats: Fares, Routes and Piers"
 seoTitle: "How to Use London River Boats"
 description: "A practical guide to London's River Bus, including 2026 zone fares, day tickets, touching in and out, scenic routes, key piers and the River Bus Comedy Night."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-02
+publishedAt: 2026-08-02
+updatedAt: 2026-09-27
 sites:
   - london
 canonicalSite: london

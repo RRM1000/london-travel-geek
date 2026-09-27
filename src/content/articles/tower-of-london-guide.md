@@ -2,7 +2,8 @@
 title: "Tower of London: Tickets, Prices and Opening Hours"
 seoTitle: "Tower of London 2026: Tickets, Prices & Hours"
 description: "Historic Royal Palaces' own 2026 prices for the Tower of London: adult, child and concession tickets, the £1 concession scheme, membership, today's opening hours, and how to book the Ceremony of the Keys."
-publishedAt: 2026-09-19
+publishedAt: 2026-09-20
+updatedAt: 2026-09-21
 reviewBy: 2026-12-31
 sites:
   - london

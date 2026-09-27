@@ -3,7 +3,7 @@ title: "Casinos in London: Which Are Still Open, and the Rules Before You Go"
 seoTitle: "Casinos in London 2026: Which Are Open, and the Rules"
 description: "Three of Mayfair's grandest gambling rooms have closed since 2018. Every casino here was checked against its own website, with the rules that actually decide your night — ID, membership, dress codes and the camera ban."
 publishedAt: 2026-09-02
-updatedAt: 2026-09-02
+updatedAt: 2026-09-22
 sites:
   - london
 canonicalSite: london

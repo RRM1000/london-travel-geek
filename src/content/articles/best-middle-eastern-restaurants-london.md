@@ -8,7 +8,8 @@ heroImageCredit: "Shameel Mukkath"
 heroImageSource: "https://www.pexels.com/photo/a-table-with-four-bowls-of-hummus-and-a-bowl-of-olives-14930656/"
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
-publishedAt: 2026-08-23
+publishedAt: 2026-09-08
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

@@ -5,6 +5,7 @@ description: "Most visa-free visitors to London now need a UK ETA before they tr
 heroImage: "../../assets/articles/london-city-airport/london-city-terminal.jpg"
 heroImageAlt: "Passengers queuing behind barrier stanchions at British Airways check-in desks inside London City Airport, with self-service kiosks and flight information screens overhead"
 publishedAt: 2026-09-10
+updatedAt: 2026-09-19
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"

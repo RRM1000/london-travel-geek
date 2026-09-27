@@ -2,8 +2,8 @@
 title: "How to Use the London Underground: A First-Time Visitor’s Guide"
 seoTitle: "How to Use the London Underground"
 description: "A practical guide to planning Tube journeys, paying the correct fare, navigating stations and travelling confidently on the London Underground."
-publishedAt: 2026-07-28
-updatedAt: 2026-09-06
+publishedAt: 2026-08-08
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

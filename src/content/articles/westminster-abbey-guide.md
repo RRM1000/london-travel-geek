@@ -2,7 +2,8 @@
 title: "Westminster Abbey: Tickets, Opening Times, Evensong and the Verger Tour"
 seoTitle: "Westminster Abbey 2026: Tickets, Times & Evensong"
 description: "2026 admission prices and the £1 rate for benefits claimants; what the £10 verger tour gets you to; free Choral Evensong times; and the current bag and photography rules."
-publishedAt: 2026-09-19
+publishedAt: 2026-09-20
+updatedAt: 2026-09-25
 reviewBy: 2026-12-31
 sites:
   - london

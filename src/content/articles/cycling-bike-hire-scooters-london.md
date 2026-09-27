@@ -2,7 +2,8 @@
 title: "Cycling in London: Bike Hire, E-Bikes and the E-Scooter Rules"
 seoTitle: "London Bike Hire & E-Scooters 2026: Prices and the Law"
 description: "What Santander Cycles and Forest actually cost, why a privately owned e-scooter is illegal to ride in London, and the licence rule that catches visitors out."
-publishedAt: 2026-08-27
+publishedAt: 2026-08-28
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Getting around London"

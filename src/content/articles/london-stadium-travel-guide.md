@@ -5,6 +5,7 @@ description: "Why London Stadium has almost no parking of its own, which of Stra
 heroImage: "../../assets/articles/london-stadium-travel-guide/london-stadium-bowl.jpg"
 heroImageAlt: "Inside London Stadium during the Novuna London Athletics Meet, a packed crowd under the distinctive roof and \"LONDON STADIUM\" branding on the pitch-side screens"
 publishedAt: 2026-09-13
+updatedAt: 2026-09-25
 reviewBy: 2026-10-15
 sites: [london]
 canonicalSite: london

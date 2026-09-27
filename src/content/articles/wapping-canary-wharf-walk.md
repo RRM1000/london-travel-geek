@@ -5,7 +5,7 @@ description: "A riverside pub walk from Wapping to Canary Wharf in eleven number
 heroImage: "../../assets/articles/wapping-canary-wharf-walk/spirit-quay.jpg"
 heroImageAlt: "Gabled yellow-brick houses along the Ornamental Canal at Spirit Quay, red ivy on the end wall and the terrace reflected in still water"
 publishedAt: 2026-09-10
-updatedAt: 2026-09-13
+updatedAt: 2026-09-19
 sites: [london]
 canonicalSite: london
 category: "London areas"

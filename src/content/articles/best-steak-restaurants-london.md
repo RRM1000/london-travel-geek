@@ -3,7 +3,7 @@ title: "The Best Steak in London, Cross-Referenced Across Every Major Guide and 
 seoTitle: "Best Steak Restaurants London 2026: Ranked by Consensus"
 description: "Not our opinion. Every restaurant here is ranked by how many independent awards, critics and reviewers name it."
 publishedAt: 2026-08-24
-updatedAt: 2026-08-30
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

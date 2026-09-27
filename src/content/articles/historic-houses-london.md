@@ -8,7 +8,8 @@ heroImageCredit: "Jörg Bittner Unna"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:Kenwood-House-JBU_03.jpg"
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
-publishedAt: 2026-08-23
+publishedAt: 2026-09-12
+updatedAt: 2026-09-25
 reviewBy: 2026-10-15
 sites: [london]
 canonicalSite: london

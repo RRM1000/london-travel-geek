@@ -4,7 +4,8 @@ seoTitle: "King's Cross to Camden Canal Walk: Route + Map"
 description: "A numbered towpath route from Granary Square to Camden Market, taking in a free nature reserve, three working locks and a gasholder with a lawn inside it. With the hours that decide when to set off."
 heroImage: "../../assets/articles/kings-cross-camden-canal-walk/regents-canal-granary-square.jpg"
 heroImageAlt: "Narrowboats moored on the Regent's Canal beside the wide grass and stone steps below Granary Square at King's Cross"
-publishedAt: 2026-09-09
+publishedAt: 2026-09-14
+updatedAt: 2026-09-19
 sites: [london]
 canonicalSite: london
 category: "London areas"

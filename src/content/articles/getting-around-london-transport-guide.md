@@ -2,8 +2,8 @@
 title: "Getting Around London: A Complete Transport Overview"
 seoTitle: "Getting Around London: Transport Guide"
 description: "An introduction to every practical way to travel around London, including trains, buses, trams, boats, taxis, the cable car and all six main airports."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-02
+publishedAt: 2026-07-31
+updatedAt: 2026-09-22
 sites:
   - london
 canonicalSite: london

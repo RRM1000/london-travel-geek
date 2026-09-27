@@ -8,7 +8,8 @@ heroImageCredit: "LatteKnowledge"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:London%27s_Skyline_from_Primrose_Hill.jpg"
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
-publishedAt: 2026-09-17
+publishedAt: 2026-09-18
+updatedAt: 2026-09-25
 reviewBy: 2026-11-15
 sites: [london]
 canonicalSite: london

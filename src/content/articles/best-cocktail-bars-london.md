@@ -5,6 +5,7 @@ description: "Where the Savoy Cocktail Book was written, a martini mixed at your
 heroImage: "../../assets/articles/best-cocktail-bars-london/a-bar-with-shapes-for-a-name-coasters.jpg"
 heroImageAlt: "Three amber cocktails at A Bar with Shapes for a Name, on coasters cut as a yellow triangle, a red square and a blue circle"
 publishedAt: 2026-08-23
+updatedAt: 2026-09-24
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

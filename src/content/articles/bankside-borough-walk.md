@@ -5,6 +5,7 @@ description: "A numbered walking route from London Bridge to the Millennium Brid
 heroImage: "../../assets/articles/bankside-borough-walk/the-george-inn.jpg"
 heroImageAlt: "The two tiers of cream wooden galleries on the George Inn, off Borough High Street, over a cobbled yard set with barrel tables, stools and picnic tables under green umbrellas"
 publishedAt: 2026-09-26
+updatedAt: 2026-09-27
 reviewBy: 2026-11-26
 sites: [london]
 canonicalSite: london

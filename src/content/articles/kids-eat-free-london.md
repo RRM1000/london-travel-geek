@@ -2,8 +2,8 @@
 title: "Kids Eat Free in London: Every Restaurant Deal, Checked"
 seoTitle: "Kids Eat Free London 2026: Every Deal, Checked"
 description: "Every kids-eat-free and kids-eat-for-£1 offer with a London branch, read off the operator's own website — the exact terms, the adult spend you have to make, the age limits, and the ten central London branches that are excluded by name."
-publishedAt: 2026-09-03
-updatedAt: 2026-09-03
+publishedAt: 2026-09-05
+updatedAt: 2026-09-17
 sites:
   - london
 canonicalSite: london

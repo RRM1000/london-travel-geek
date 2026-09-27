@@ -2,8 +2,8 @@
 title: "London Theatre: How to Choose a Show and Pay Less for It"
 seoTitle: "London Theatre Tickets 2026: How to Choose and Pay Less"
 description: "How to pick a show worth your evening and pay less for it — the official TKTS booth, going midweek rather than Saturday, and why where you sit matters as much as what you see."
-publishedAt: 2026-09-01
-updatedAt: 2026-09-01
+publishedAt: 2026-09-03
+updatedAt: 2026-09-22
 sites:
   - london
 canonicalSite: london

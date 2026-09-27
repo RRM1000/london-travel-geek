@@ -5,6 +5,7 @@ description: "London's best gelaterias, the Clapham queue that stretches to the 
 heroImage: "../../assets/articles/best-ice-cream-london/covent-garden-ice-cream-van.jpg"
 heroImageAlt: "A traditional ice cream van painted cream and pink parked beside a red telephone box on the cobbles at Covent Garden, its menu board covered in cones and lollies"
 publishedAt: 2026-08-25
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

@@ -5,6 +5,7 @@ description: "Coal Drops Yard, Canary Wharf, Eccleston Yards and Exchange Square
 heroImage: "../../assets/articles/eat-outside-london/coal-drops-yard-summer.jpg"
 heroImageAlt: "Crowds eating at red bistro tables under the curved roofs of Coal Drops Yard, with a summer stage at the far end and people on the brick arch balconies above"
 publishedAt: 2026-09-07
+updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

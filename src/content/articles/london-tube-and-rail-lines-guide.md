@@ -2,8 +2,8 @@
 title: "London Tube and Rail Lines: Which to Take and What to Expect"
 seoTitle: "London Tube Lines Guide: Crowding, Comfort and Stops"
 description: "A line-by-line guide to the London Underground, Elizabeth line, DLR and London Overground, with crowding and comfort ratings, key attractions and the best station exits."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-16
+publishedAt: 2026-08-05
+updatedAt: 2026-09-22
 sites:
   - london
 canonicalSite: london

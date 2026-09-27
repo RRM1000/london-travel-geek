@@ -2,8 +2,8 @@
 title: "Bloomsbury Area Guide: The British Museum, Garden Squares and Bookshops"
 seoTitle: "Bloomsbury Guide: British Museum & Garden Squares"
 description: "A complete Bloomsbury guide: the British Museum without the crowds, the garden squares, Lamb's Conduit Street, and the small museums almost nobody visits."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-16
+publishedAt: 2026-08-12
+updatedAt: 2026-09-26
 sites:
   - london
 canonicalSite: london

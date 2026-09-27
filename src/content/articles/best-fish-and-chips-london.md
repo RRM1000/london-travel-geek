@@ -2,8 +2,8 @@
 title: "The Best Fish and Chips in London, Cross-Referenced Across Every Major Guide and Award of the Year"
 seoTitle: "Best Fish and Chips London 2026: Ranked by Consensus"
 description: "Not our opinion. Every chippy here is ranked by how many independent guides, awards and reviewers name it — from beef dripping in Bloomsbury to matzo meal in West Hampstead."
-publishedAt: 2026-08-23
-updatedAt: 2026-08-30
+publishedAt: 2026-08-26
+updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

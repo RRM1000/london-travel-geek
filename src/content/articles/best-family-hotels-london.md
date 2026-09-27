@@ -4,8 +4,8 @@ seoTitle: "Best Family Hotels in London 2026, Cross-Checked"
 description: "The family hotels London's parents, bloggers and the travel press actually agree on: which room sleeps two adults and two children, what it costs to add a cot, and whether there's a pool. Prices are for one room for two adults and two children on a November weekday."
 heroImage: "../../assets/articles/best-family-hotels-london/family-reading-in-bed.jpg"
 heroImageAlt: "A father reading a red picture book to two young children on a double bed, seen through an open bedroom door"
-publishedAt: 2026-09-15
-updatedAt: 2026-09-15
+publishedAt: 2026-09-18
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Stay"

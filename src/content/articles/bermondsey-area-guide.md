@@ -2,8 +2,8 @@
 title: "Bermondsey Area Guide: Maltby Street, the Beer Mile and Shad Thames"
 seoTitle: "Bermondsey Guide: Maltby Street Market & the Beer Mile"
 description: "A complete Bermondsey guide: Maltby Street Market hours including the summer Friday evenings, the Bermondsey Beer Mile, White Cube, Shad Thames warehouses and the Friday antiques market."
-publishedAt: 2026-08-16
-updatedAt: 2026-09-08
+publishedAt: 2026-08-19
+updatedAt: 2026-09-27
 sites:
   - london
 canonicalSite: london

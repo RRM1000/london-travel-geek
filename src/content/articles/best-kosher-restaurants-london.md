@@ -8,7 +8,8 @@ heroImageCredit: "David Howard"
 heroImageSource: "https://commons.wikimedia.org/wiki/File%3AKay's%20kosher%20supermarket%20on%20Golders%20Green%20Road%20-%20geograph.org.uk%20-%204495497.jpg"
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0"
-publishedAt: 2026-09-08
+publishedAt: 2026-09-10
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

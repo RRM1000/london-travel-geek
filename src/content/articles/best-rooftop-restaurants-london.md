@@ -4,8 +4,8 @@ seoTitle: "Best Rooftop Restaurants in London 2026: Ranked"
 description: "Not our opinion. Every rooftop and riverside restaurant here is ranked by how many independent awards, critics and reviewers name it — and by whether the kitchen is worth the lift."
 heroImage: "../../assets/articles/best-rooftop-restaurants-london/coq-dargent-terrace.jpg"
 heroImageAlt: "A rooftop restaurant terrace with white-clothed tables and rattan chairs under furled parasols, climbing greenery along the parapet and City buildings beyond"
-publishedAt: 2026-09-22
-updatedAt: 2026-09-22
+publishedAt: 2026-09-23
+updatedAt: 2026-09-25
 reviewBy: 2027-02-28
 sites: [london]
 canonicalSite: london

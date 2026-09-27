@@ -2,7 +2,7 @@
 title: "How Much Does London Public Transport Cost? 2026 Fares Guide"
 seoTitle: "London Fares 2026: Tube £3.10, Bus £1.75, Cap £8.90"
 description: "A Zone 1–2 Tube journey is £3.60 peak and £3.10 off-peak, any bus is £1.75, and the daily cap is £8.90. Under-11s travel free and 11–15s pay half. Every 2026 fare for the Tube, buses, trams, boats, the cable car and taxis, and the three rules that stop you overpaying."
-publishedAt: 2026-07-28
+publishedAt: 2026-07-30
 updatedAt: 2026-09-25
 reviewBy: 2026-11-01
 sites:

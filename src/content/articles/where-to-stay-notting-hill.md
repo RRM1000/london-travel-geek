@@ -9,6 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:View_of_the_seat_in_the
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 publishedAt: 2026-09-24
+updatedAt: 2026-09-25
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london

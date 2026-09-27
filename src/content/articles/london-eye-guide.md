@@ -3,6 +3,7 @@ title: "London Eye: 2026 Ticket Prices, Fast Track Advice & Sunset Timing"
 seoTitle: "London Eye 2026: Tickets, Fast Track & Sunset Guide"
 description: "The London Eye in 2026: real ticket prices, what Flexi Fast Track actually saves you, sunset booking timing, and where to store a suitcase before boarding."
 publishedAt: 2026-09-19
+updatedAt: 2026-09-23
 reviewBy: 2026-12-31
 sites:
   - london

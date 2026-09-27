@@ -5,6 +5,7 @@ description: "Every Christmas show in London for 2026: the pantomimes from the P
 heroImage: "../../assets/articles/christmas-shows-london/old-vic-christmas-carol-lanterns.jpg"
 heroImageAlt: "Hundreds of lit lanterns hanging above the audience at the Old Vic, with musicians in top hats and long coats playing on a wooden stage between the seats"
 publishedAt: 2026-09-22
+updatedAt: 2026-09-23
 reviewBy: 2027-01-10
 sites: [london]
 canonicalSite: london

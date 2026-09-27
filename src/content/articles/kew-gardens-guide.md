@@ -3,6 +3,7 @@ title: "Kew Gardens: Tickets, Hours and Which Gate to Use"
 seoTitle: "Kew Gardens 2026: Tickets, Route & Best Glasshouses"
 description: "Kew Gardens adult tickets are £25 online in peak season and £17 off-peak; children are £2 online from September 2026. Hours drop to 10am–4pm in late October and 10am–3.15pm from 12 November, and Lion Gate is weekends only that winter."
 publishedAt: 2026-09-19
+updatedAt: 2026-09-25
 reviewBy: 2026-09-28
 sites:
   - london

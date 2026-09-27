@@ -5,6 +5,7 @@ description: "Fifteen independent sources across 158 wine bars. Which ones the c
 heroImage: "../../assets/articles/best-wine-bars-london/diogenes-the-dog.jpg"
 heroImageAlt: "Floor-to-ceiling wine racks packed with bottles along a bare brick wall at Diogenes the Dog, with a small round table and bar stools on a wooden floor"
 publishedAt: 2026-09-07
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

@@ -4,8 +4,8 @@ seoTitle: "Hampstead Heath Walking Route: Kenwood to Primrose Hill"
 description: "A numbered walk from Hampstead village over the Heath to Kenwood House, Parliament Hill's protected view, Keats House and Primrose Hill. Ten stops, about 9km, with what is open on which day."
 heroImage: "../../assets/articles/hampstead-heath-primrose-hill-walk/hampstead-heath-pond-north-end.jpg"
 heroImageAlt: "A duckweed-covered pond fringed with reeds in a wooded corner of Hampstead Heath"
-publishedAt: 2026-08-30
-updatedAt: 2026-09-10
+publishedAt: 2026-09-02
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "London areas"

@@ -5,6 +5,7 @@ description: "Thirteen independent sources across 82 venues — and the reason a
 heroImage: "../../assets/articles/best-caribbean-restaurants-london/fish-wings-tings-hero.jpg"
 heroImageAlt: "The counter at Fish, Wings & Tings in Brixton Village, yellow and green signage above an open kitchen with two chefs working, and a chalkboard listing jerk chicken, rotis and cod fish fritters"
 publishedAt: 2026-09-08
+updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

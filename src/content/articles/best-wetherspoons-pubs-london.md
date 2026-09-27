@@ -4,7 +4,8 @@ seoTitle: "Best Wetherspoons London 2026: Pubs, Prices, Perks"
 description: "Six landmark branches verified building by building, four more by mainline stations, and the real numbers behind the beer, the breakfast and the £1.89 bottomless coffee."
 heroImage: "../../assets/articles/best-wetherspoons-pubs-london/hamilton-hall.jpg"
 heroImageAlt: "The gilded former ballroom of Hamilton Hall, a Wetherspoons inside Liverpool Street station, with chandeliers and ornate plasterwork"
-publishedAt: 2026-09-13
+publishedAt: 2026-09-18
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

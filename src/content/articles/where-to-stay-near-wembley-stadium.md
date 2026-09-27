@@ -4,7 +4,8 @@ seoTitle: "Where to Stay Near Wembley Stadium & OVO Arena"
 description: "The best bases for a Wembley gig or match, compared by door-to-door time and the trip home: Harrow and Finchley Road at 29 minutes, Baker Street at 35, Watford no quicker than Waterloo. Plus the hotels in each, and why a Wembley room triples on an event night."
 heroImage: "../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-wembley-stadium-exterior.jpg"
 heroImageAlt: "Premier Inn London Wembley Stadium, a tall grey block with purple Premier Inn signs, beside the London Designer Outlet under a blue sky"
-publishedAt: 2026-09-24
+publishedAt: 2026-09-25
+updatedAt: 2026-09-27
 reviewBy: 2026-10-19
 sites: [london]
 canonicalSite: london

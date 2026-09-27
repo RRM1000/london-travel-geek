@@ -2,8 +2,8 @@
 title: "New Year's Eve in London: Fireworks Tickets, the Parade and Getting Home"
 seoTitle: "New Year's Eve London 2026: Fireworks and Tickets"
 description: "The Thames fireworks are ticketed, paid and sell out — and tickets for 31 December 2026 are not on sale yet. What is confirmed, what the free viewpoints really are, and how to get home."
-publishedAt: 2026-09-10
-updatedAt: 2026-09-25
+publishedAt: 2026-09-04
+updatedAt: 2026-09-27
 reviewBy: 2026-10-15
 sites:
   - london

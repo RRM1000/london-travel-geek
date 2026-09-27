@@ -2,7 +2,8 @@
 title: "Bath from London: The Roman Baths, the Spa and the Train"
 seoTitle: "Bath Day Trip from London: Trains and Tickets"
 description: "Paddington to Bath Spa takes 1h15 and Advance singles cut the return from £75.90 to £47.60. The Roman Baths cost £26.50 on a weekday and £29.00 at the weekend, the rooftop pool is £44, and cars pay nothing in Bath's Clean Air Zone."
-publishedAt: 2026-09-12
+publishedAt: 2026-09-19
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Day trips"

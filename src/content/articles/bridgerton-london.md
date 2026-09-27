@@ -3,7 +3,7 @@ title: "Bridgerton in London: Everywhere a Fan Can Actually Go"
 seoTitle: "Bridgerton Filming Locations London: Prices & Tours"
 description: "Ranger's House is free to view but open on select dates only. Castle Howard's own site confirms it played the Duke of Hastings's estate. Bath's Assembly Rooms are closed until 2027. Verified locations, prices and the Bridgerton tours you can book."
 publishedAt: 2026-09-15
-updatedAt: 2026-09-15
+updatedAt: 2026-09-25
 reviewBy: 2026-11-01
 sites:
   - london

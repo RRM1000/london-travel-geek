@@ -4,8 +4,8 @@ seoTitle: "Best Italian Restaurants in London 2026, Ranked"
 description: "Not our opinion. Every restaurant here is ranked by how many independent awards, critics and reviewers name it — then split by region, by price, and by the rooms worth booking for the room alone."
 heroImage: "../../assets/articles/best-italian-restaurants-london/bocca-di-lupo.jpg"
 heroImageAlt: "The frontage of Bocca di Lupo on Archer Street in Soho"
-publishedAt: 2026-08-23
-updatedAt: 2026-08-30
+publishedAt: 2026-08-30
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

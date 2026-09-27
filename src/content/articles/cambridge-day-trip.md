@@ -3,6 +3,7 @@ title: "Cambridge from London: The Day Trip, Priced and Timed"
 seoTitle: "Cambridge Day Trip from London: Trains & Colleges"
 description: "An Off-Peak return to Cambridge is £32.40 and the fast train takes 49 minutes. Which colleges charge and when they shut, what punting really costs, and why the man selling you a punt on King's Parade is breaking the law."
 publishedAt: 2026-09-12
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Day trips"

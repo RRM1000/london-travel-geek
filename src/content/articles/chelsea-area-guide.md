@@ -2,8 +2,8 @@
 title: "Chelsea Area Guide: King's Road, Sloane Square and the Physic Garden"
 seoTitle: "Chelsea Guide: King's Road, Sloane Square & Walks"
 description: "A complete Chelsea guide: King's Road shopping, the Chelsea Physic Garden, Royal Hospital Chelsea, riverside walks and what the area is actually like now."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-16
+publishedAt: 2026-08-14
+updatedAt: 2026-09-27
 sites:
   - london
 canonicalSite: london

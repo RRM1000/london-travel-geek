@@ -3,7 +3,7 @@ title: "The Best Burgers in London, Cross-Referenced Across Every Major List and
 seoTitle: "Best Burgers in London 2026: Ranked Across Every List"
 description: "Not our opinion. Every burger here is ranked by how many independent awards, critics and reviewers name it — and by what the National Burger Awards judges actually cooked against."
 publishedAt: 2026-08-31
-updatedAt: 2026-08-31
+updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

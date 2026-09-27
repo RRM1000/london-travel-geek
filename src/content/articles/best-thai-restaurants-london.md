@@ -8,7 +8,8 @@ heroImageCredit: "Lara"
 heroImageSource: "https://www.pexels.com/photo/cooked-food-on-the-table-7521555/"
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
-publishedAt: 2026-08-23
+publishedAt: 2026-08-29
+updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

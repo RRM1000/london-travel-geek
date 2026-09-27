@@ -2,8 +2,8 @@
 title: "The Beatles in London: Everything a Fan Can Actually Do"
 seoTitle: "Beatles London 2026: Abbey Road, Tours & Prices"
 description: "The Abbey Road crossing is free. A two-hour Beatles walking tour costs from £20. The rooftop concert plaque went up at 3 Savile Row in 2019. Verified prices, real addresses and a Liverpool day trip that adds up."
-publishedAt: 2026-09-15
-updatedAt: 2026-09-15
+publishedAt: 2026-09-17
+updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london
 category: "Things to do"

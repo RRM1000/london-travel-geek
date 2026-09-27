@@ -3,7 +3,7 @@ title: "Luggage Storage in London: Left Luggage at Every Station, Airport and St
 seoTitle: "Luggage Storage in London: Stations, Apps and Prices"
 description: "Which London stations and airports have a staffed left-luggage desk, what Stasher, Bounce and the other storage apps charge per bag, and which attractions won't let a suitcase through the door — prices, hours and rules from each operator's own site, checked 17 September 2026."
 publishedAt: 2026-09-17
-updatedAt: 2026-09-21
+updatedAt: 2026-09-27
 reviewBy: 2026-10-31
 sites:
   - london

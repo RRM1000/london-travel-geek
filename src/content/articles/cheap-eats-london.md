@@ -4,7 +4,8 @@ seoTitle: "Cheap Eats London 2026: 34 Places Under £15"
 description: "Where to eat properly in London on a budget — a £3.95 pizza in Fitzrovia, £5 kati rolls in Covent Garden, and the cash-only chippy east London votes for."
 heroImage: "../../assets/articles/cheap-eats-london/camden-market-food-stalls.jpg"
 heroImageAlt: "Street food counters in Camden Market, including a focaccia stall and a burrito stall"
-publishedAt: 2026-08-23
+publishedAt: 2026-08-27
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

@@ -2,8 +2,8 @@
 title: "London City Airport to Central London: Every Option Compared"
 seoTitle: "London City Airport to London: Transport Guide"
 description: "A practical guide to the DLR, Elizabeth line connections, buses and taxis from London City Airport, including 2026 fares and hotel-area recommendations."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-02
+publishedAt: 2026-07-30
+updatedAt: 2026-09-27
 sites:
   - london
 canonicalSite: london

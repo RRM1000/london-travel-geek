@@ -2,8 +2,8 @@
 title: "Mayfair Area Guide: The Arcades, Bond Street and the Royal Academy"
 seoTitle: "Mayfair Guide: Bond Street, Arcades & Free Galleries"
 description: "A complete Mayfair guide: the Victorian shopping arcades, the Royal Academy, Handel and Hendrix next door to each other, and the free things worth doing."
-publishedAt: 2026-08-16
-updatedAt: 2026-08-16
+publishedAt: 2026-08-20
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

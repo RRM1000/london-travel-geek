@@ -2,8 +2,8 @@
 title: "Greenwich Area Guide: The Observatory, Cutty Sark and North Greenwich"
 seoTitle: "Greenwich Guide: Royal Observatory, Cutty Sark & the O2"
 description: "A complete Greenwich guide: the Prime Meridian, the Painted Hall, Greenwich Market days, getting there by river — and why Greenwich and North Greenwich are not the same place."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-16
+publishedAt: 2026-08-10
+updatedAt: 2026-09-27
 sites:
   - london
 canonicalSite: london

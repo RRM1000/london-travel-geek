@@ -2,8 +2,8 @@
 title: "Five Days in London: The Itinerary With Room to Breathe"
 seoTitle: "Five Days in London Itinerary: Day by Day"
 description: "Five days written out in full, with the operators' own hours and prices, TfL walking times, and the river fare to Greenwich. Westminster, the City, the South Bank, Greenwich by boat, and one museum district with its neighbourhood."
-publishedAt: 2026-07-28
-updatedAt: 2026-09-21
+publishedAt: 2026-08-14
+updatedAt: 2026-09-25
 reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london

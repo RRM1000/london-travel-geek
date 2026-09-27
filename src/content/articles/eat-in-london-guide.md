@@ -2,8 +2,8 @@
 title: "Eat in London: Restaurants, Food Markets & Quick Bites"
 seoTitle: "Where to Eat in London: Complete Food & Dining Handbook"
 description: "The complete London food handbook: top food experiences, eating near major sights, food markets, cuisines, pubs and area recommendations for 2026."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-31
+publishedAt: 2026-08-17
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

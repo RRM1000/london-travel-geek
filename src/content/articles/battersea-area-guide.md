@@ -2,8 +2,8 @@
 title: "Battersea Area Guide: The Power Station, the Park and the Pagoda"
 seoTitle: "Battersea Guide: Power Station, Chimney Lift & the Park"
 description: "A complete Battersea guide: inside the restored Power Station, the Chimney Lift ride up the chimney, Battersea Park and the Peace Pagoda, and the new Tube link."
-publishedAt: 2026-08-16
-updatedAt: 2026-08-16
+publishedAt: 2026-08-18
+updatedAt: 2026-09-27
 sites:
   - london
 canonicalSite: london

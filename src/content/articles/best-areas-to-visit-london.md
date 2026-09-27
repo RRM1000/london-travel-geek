@@ -2,8 +2,8 @@
 title: "Exploring London's Best Neighbourhoods: A Visitor's Guide"
 seoTitle: "Best Neighbourhoods to Visit in London: Exploring Guide"
 description: "London's neighbourhoods compared: what each is like, its top highlight and nearest station, grouped by first visit, longer trip and off the usual route."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-16
+publishedAt: 2026-08-13
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

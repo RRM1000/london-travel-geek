@@ -4,7 +4,8 @@ seoTitle: "Canary Wharf to Greenwich Walk: Foot Tunnel Route + Map"
 description: "A numbered walking route from the Crossrail roof garden to the Prime Meridian, going under the Thames through the 1902 Greenwich Foot Tunnel. With prices and what is open on which day."
 heroImage: "../../assets/articles/canary-wharf-greenwich-walk/greenwich-hill-view.jpg"
 heroImageAlt: "The view from Greenwich Park over the Old Royal Naval College and the Thames to Canary Wharf's towers, with both ends of the walk in one frame"
-publishedAt: 2026-09-09
+publishedAt: 2026-09-13
+updatedAt: 2026-09-19
 sites: [london]
 canonicalSite: london
 category: "London areas"

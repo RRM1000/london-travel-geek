@@ -2,8 +2,8 @@
 title: "The Best Cinema Deals in London: Memberships, Discounts and Cheap Tickets"
 seoTitle: "London Cinema Deals 2026: Memberships & Cheap Tickets"
 description: "Every cinema membership and discount in London compared — Cineworld, Odeon, Picturehouse, Curzon, Everyman and the independents — plus which is worth it at your viewing habits."
-publishedAt: 2026-08-29
-updatedAt: 2026-08-29
+publishedAt: 2026-08-30
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

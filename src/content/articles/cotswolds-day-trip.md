@@ -2,7 +2,8 @@
 title: "The Cotswolds from London: Which Villages You Can Actually Reach"
 seoTitle: "Cotswolds Day Trip from London: Trains and Buses"
 description: "The Cotswolds is not one place and it has almost no buses between villages. Paddington to Moreton-in-Marsh is £54 return and the 801 bus gets you to Stow and Bourton hourly, including Sundays. Bibury and Broadway have no Sunday service at all."
-publishedAt: 2026-09-12
+publishedAt: 2026-09-15
+updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london
 category: "Day trips"

@@ -9,7 +9,7 @@ heroImageSource: "https://www.pexels.com/photo/rainy-day-in-london-s-seven-dials
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-08-23
-updatedAt: 2026-09-13
+updatedAt: 2026-09-27
 reviewBy: 2026-10-16
 sites: [london]
 canonicalSite: london

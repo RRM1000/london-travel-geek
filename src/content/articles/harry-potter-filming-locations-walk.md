@@ -9,6 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Leadenhall_Market_In_L
 heroImageLicense: "CC BY 2.5"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.5/"
 publishedAt: 2026-09-26
+updatedAt: 2026-09-27
 reviewBy: 2026-12-26
 sites: [london]
 canonicalSite: london

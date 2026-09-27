@@ -3,6 +3,7 @@ title: "Thames River Cruises in London: Which to Book and What They Cost"
 seoTitle: "Thames River Cruises London 2026: Prices & Routes"
 description: "Every kind of Thames cruise compared on price, piers and commentary. Westminster to Greenwich from £14.62 online, a £9 City Cruises day pass, lunch from £43, dinner from £99, speedboats from £59.95 and the seasonal boat to Kew and Hampton Court."
 publishedAt: 2026-09-26
+updatedAt: 2026-09-27
 reviewBy: 2026-10-26
 sites: [london]
 canonicalSite: london

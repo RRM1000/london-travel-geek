@@ -2,8 +2,8 @@
 title: "Luton Airport to London: Every Transport Option Compared"
 seoTitle: "Luton Airport to London: 32 Minutes to St Pancras"
 description: "Luton Airport Express plus the DART reaches St Pancras in 32 minutes. Buy the ticket to Luton Airport (LUA), not Luton Airport Parkway, or the £4.90 DART fare is not included. Coaches and taxis compared too."
-publishedAt: 2026-07-28
-updatedAt: 2026-08-02
+publishedAt: 2026-08-02
+updatedAt: 2026-09-23
 sites:
   - london
 canonicalSite: london

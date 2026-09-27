@@ -3,7 +3,7 @@ title: "Tax-Free Shopping in London: There Is No VAT Refund — Here's What Actu
 seoTitle: "Tax-Free Shopping in London 2026: No VAT Refund"
 description: "No: visitors can't claim VAT back on shopping in London, and haven't since 2021. The one way to buy tax-free, the shops that do it, and what airport duty free really saves."
 publishedAt: 2026-09-03
-updatedAt: 2026-09-03
+updatedAt: 2026-09-25
 sites:
   - london
 canonicalSite: london

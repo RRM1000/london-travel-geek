@@ -4,7 +4,8 @@ seoTitle: "Best Gyms in London 2026: £20 to £345 a Month, Compared"
 description: "Every London gym chain on the terms it buries — Fitness4Less at £20 flat against Third Space at £345, joining fees from £0 to £250, and the council pool at £3.20 a swim that beats all of them."
 heroImage: "../../assets/articles/best-gyms-london/uk-fitness-club.jpg"
 heroImageAlt: "UK Fitness Club's East Ham gym floor under blue light: neon chevrons across a black ceiling, a long row of cross-trainers down the right and resistance machines along the left"
-publishedAt: 2026-09-10
+publishedAt: 2026-09-11
+updatedAt: 2026-09-25
 reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
