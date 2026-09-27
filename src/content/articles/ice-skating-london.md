@@ -2,12 +2,8 @@
 title: "Ice Skating in London 2026: Every Outdoor Christmas Rink, With Dates and Prices"
 seoTitle: "Ice Skating in London 2026: Outdoor Christmas Rinks"
 description: "London's outdoor Christmas ice rinks for 2026-27: Somerset House, Hampton Court Palace, Battersea Power Station, the Queen's House in Greenwich and Winter Wonderland, with dates, prices, children's rules and which rinks are not coming back."
-heroImage: "../../assets/articles/ice-skating-london/somerset-house-rink-tree.jpg"
-heroImageAlt: "Skaters on the Somerset House ice rink in the daytime, with a Christmas tree hung with red baubles in front of the neoclassical courtyard front"
-heroImageCredit: "Matt Brown"
-heroImageSource: https://commons.wikimedia.org/wiki/File:Somerset_House_ice_rink_2025-12-09.jpg
-heroImageLicense: "CC BY 4.0"
-heroImageLicenseUrl: https://creativecommons.org/licenses/by/4.0/
+heroImage: "../../assets/articles/ice-skating-london/somerset-house-rink.jpg"
+heroImageAlt: "Skaters on the Somerset House ice rink on an overcast day, in front of the domed courtyard front with large white SKATE letters along its roofline and a marquee down the right"
 publishedAt: 2026-09-27
 reviewBy: 2026-10-20
 sites: [london]
@@ -58,9 +54,9 @@ Every outdoor rink skates in the rain, and none refunds for bad weather unless t
 
 ## Somerset House
 
-![Skaters on the Somerset House ice rink in the daytime, with a Christmas tree hung with red baubles in front of the neoclassical courtyard front](../../assets/articles/ice-skating-london/somerset-house-rink-tree.jpg)
+![Skaters on the Somerset House ice rink on an overcast day, in front of the domed courtyard front with large white SKATE letters along its roofline and a marquee down the right](../../assets/articles/ice-skating-london/somerset-house-rink.jpg)
 
-*Somerset House in December 2025. Photo: Matt Brown, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Somerset_House_ice_rink_2025-12-09.jpg).*
+*The rink in November 2021, with the SKATE letters on the roofline and red skate aids in use on the right.*
 
 **The rink fills the Edmond J. Safra Fountain Court**, the quadrangle behind the Strand, with the building on all four sides and a 40ft Christmas tree. After dark, Skate Lates bring DJs to selected evenings from 12 November, and a first K-pop party on the ice is booked for **Monday 23 November**. Watching is free: anyone can walk into the courtyard, the viewing platform or the rinkside Virgin Atlantic Clubhouse without a ticket.
 
@@ -79,6 +75,10 @@ Every outdoor rink skates in the rain, and none refunds for bad weather unless t
 ---
 
 ## Hampton Court Palace
+
+![The Hampton Court Palace ice rink at night, empty ice in front of the Tudor West Front floodlit red either side of the blue-lit Great Gatehouse](../../assets/articles/ice-skating-london/hampton-court-palace.jpg)
+
+*The rink faces the palace's West Front; after dark the Tudor brickwork is floodlit and the gatehouse stands straight ahead of the ice.*
 
 **The rink sits in front of Henry VIII's palace**, and the skate exchange and café have been redesigned on the palace's Orangery, in rustic wood and greenery. The operator promises fewer skaters than before. Weekends bring live ice sculpting and a Skating Santa on dates still to be announced, and every Sunday from 6pm to 9pm is a Sunday Session aimed at families.
 
@@ -108,9 +108,9 @@ Groups of ten or more get a further discount. Bookings are open at [hamptoncourt
 
 ## Glide at Battersea Power Station
 
-![Skaters on the Battersea Power Station ice rink on a grey afternoon, children pushing penguin skate aids, with a Christmas tree decorated in white on the left](../../assets/articles/ice-skating-london/battersea-power-station-rink.jpg)
+![The Glide ice rink at night under blue lights, running alongside Battersea Power Station with a lit chimney, a striped carousel and a Christmas tree beyond](../../assets/articles/ice-skating-london/glide-battersea-power-station.jpg)
 
-*The rink at Battersea Power Station in December 2022, with penguin skate aids on the ice. Photo: Marathon, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_ice_rink_at_Battersea_Power_Station_-_geograph.org.uk_-_7373655.jpg).*
+*Glide in a previous season: the ice runs along the foot of the power station, with the carousel and the tree at the far end.*
 
 **Not one rectangle but three linked rinks and a 200-metre skate trail** along the Thames, laid out in front of the power station with a 30ft tree in the middle. Vintage fairground rides and a churros stand sit alongside.
 
@@ -129,6 +129,10 @@ Groups of ten or more get a further discount. Bookings are open at [hamptoncourt
 ---
 
 ## The Queen's House, Greenwich
+
+![Skaters on the Queen's House ice rink in Greenwich at night, the white Palladian villa lit pink and purple behind them and a marquee to the right](../../assets/articles/ice-skating-london/the-queens-house-greenwich.jpg)
+
+*The rink after dark in a previous season, with the Queen's House lit behind the barrier and the skate-hire marquee on the right.*
 
 **The rink is laid beside Inigo Jones's Queen's House**, inside the Maritime Greenwich World Heritage Site, with Canary Wharf across the river. The Queen's House itself is free, so you can go in before your session.
 
@@ -153,6 +157,10 @@ Groups of ten or more get a further discount. Bookings are open at [hamptoncourt
 
 ## Hyde Park Winter Wonderland
 
+![Skaters on the Winter Wonderland ice rink in Hyde Park by day, circling the Victorian bandstand with a Christmas tree inside it](../../assets/articles/ice-skating-london/hyde-park-winter-wonderland.jpg)
+
+*The ice circles the bandstand, with a Christmas tree inside it; the sponsor's boards around it change from year to year.*
+
 **The UK's largest open-air rink**, by the operator's count, is laid around the Victorian bandstand in Winter Wonderland, open **Thursday 19 November 2026 to Sunday 3 January 2027**, every day but Christmas Day. Sessions are **45 minutes**, on the hour from 10am to 9pm, with skate hire included.
 
 | | Off-peak | Standard | Peak |
@@ -168,6 +176,10 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 ---
 
 ## Alexandra Palace
+
+![Skaters on the indoor Alexandra Palace ice rink under pink and purple lights, the hall's arched Victorian windows along the far side](../../assets/articles/ice-skating-london/alexandra-palace.jpg)
+
+*The rink fills a Victorian hall in the palace, lined with arched windows; spectator seating runs along the near side.*
 
 **A permanent indoor rink** at Ally Pally, open all year, that turns into **Festive Skate** at Christmas: a tree, lights, Christmas music and falling snow, with mince pies, mulled wine and Baileys hot chocolate in the East Court Café. **2026 dates are not yet announced; last season's ran to 5 January 2026.** Festive Skate sessions last 90 minutes.
 
