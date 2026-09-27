@@ -93,7 +93,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 
 ![A wooden chalet counter stacked with towers of fudge labelled vanilla, mint chocolate and coffee and cream, with lollipops, candy floss tubs and "I love Leicester Square" lollies around it](../../assets/articles/christmas-markets-london/leicester-square.jpg)
 
-*A pick-and-mix fudge chalet at Leicester Square's market in a previous year.*
+*A fudge and pick-and-mix chalet at Leicester Square.*
 
 **It is enclosed and gets crowded in the evenings**, which makes it awkward with a pushchair or shopping bags. Go in the afternoon, or stop on the way to a show rather than after it. For the rink itself, prices and sessions are in our [ice skating guide](/articles/ice-skating-london/).
 
@@ -108,7 +108,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 
 ![Giant gold bells tied with red bows, red baubles and a mirror ball hanging under the lit iron roof of Covent Garden's Market Building, with the shopfronts of the market hall behind](../../assets/articles/christmas-markets-london/covent-garden.jpg)
 
-*The bells and baubles under the Market Building's roof after dark in November 2024; the scheme changes a little each Christmas.*
+*The gold bells under the Market Building's roof, lit after dark.*
 
 **It is one of the busiest places in London on a December Saturday.** Go on a weekday morning to see the bells without the crowd, or after dark to see them lit; the [Christmas lights walk](/articles/christmas-lights-walk-london/) finishes here, via Seven Dials and Floral Street. More on the neighbourhood in our [Covent Garden area guide](/articles/covent-garden-area-guide/).
 
@@ -147,7 +147,7 @@ Choirs sing on a published schedule through the season. On Tuesdays and Wednesda
 
 ![Wooden chalets and a garlanded maypole in Winter Wonderland's Bavarian village on a sunny morning, with the giant wheel and a thrill ride behind and a bratwurst stall on the right](../../assets/articles/christmas-markets-london/hyde-park-winter-wonderland.jpg)
 
-*The Bavarian village on a December morning in 2021, with the big wheel behind.*
+*The Bavarian village at Winter Wonderland, with the big wheel behind.*
 
 ---
 
@@ -174,7 +174,7 @@ The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&a
 
 ![A tall wooden Christmas pyramid with nutcracker soldiers and a star-cut sail above a bar at night in Kingston's Ancient Market Place, strings of lights running from its top to the chalets, and the gilded statue on the Market House at left](../../assets/articles/christmas-markets-london/kingston-christmas-market.jpg)
 
-*The bar under the Christmas pyramid in a previous year, with barrel tables in front and food chalets behind; the gilded Queen Anne on the Market House marks the square.*
+*The bar under the Christmas pyramid in Kingston's Market Place.*
 
 **It is all open-air**, with some covered seating, and the organisers may close it in very bad weather. Weekends are busy enough that they advise against bringing dogs. Tuesday evening from 6pm is the open-mic night on the stage.
 
@@ -207,7 +207,7 @@ The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&a
 
 ![A Christmas tree hung with gold and red baubles and topped with a gold star, with strands of lights fanning out from it against the brick wall and tall windows of Battersea Power Station at night](../../assets/articles/christmas-markets-london/battersea-power-station.jpg)
 
-*A previous year's Christmas tree against the power station's brickwork.*
+*The Christmas tree at Battersea Power Station.*
 
 More in the [Battersea area guide](/articles/battersea-area-guide/).
 
