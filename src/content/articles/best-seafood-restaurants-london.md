@@ -90,7 +90,7 @@ Sit at the counter for half a dozen and the fish pie rather than booking the din
 
 *££££ · Green Park · Cited by 7 sources*
 
-**Trading since 1851**, and the grandest seafood dining room in London — the Mount Street room where Mayfair goes to be seen eating crustacea. Hot Dinners describes it as a gold-plated celebrity hangout that also happens to be one of London's oldest restaurants; both halves are true.
+**Trading since 1851**, and the grandest seafood dining room in London — the Mount Street room where Mayfair goes to be seen eating crustacea. The order is oysters — Gillardeau, Lindisfarne Rocks and Jersey Rocks — whole grilled lobster, and Dover sole meunière on the bone. Hot Dinners describes it as a gold-plated celebrity hangout that also happens to be one of London's oldest restaurants; both halves are true.
 
 There is a second site in Richmond with a Thames view, which The Infatuation rates for a long lunch. Sit at the crustacea counter rather than at a table.
 

@@ -167,7 +167,7 @@ Mon–Wed 3–9.30pm, Thu–Fri 2–10.30pm, Sat 1–10.30pm, Sun 2–8.30pm.
 
 *££ · Peckham · Cited by 5 sources*
 
-Natural wine and small plates in a room that fills with locals, and **about thirty seconds' walk from Peckham Rye station**, which makes it the easiest of the southern group to reach from central London.
+Natural wine and small plates in a room that fills with locals, and **about thirty seconds' walk from Peckham Rye station**, which makes it the easiest of the southern group to reach from central London. The list is organic and biodynamic wine from across Europe by the glass, plus a short aperitif list and a mezcal selection. Food is Parisian-style small plates: burrata with grilled peach and dukkah, mackerel crudo with tapenade, or bavette and frites to share. Seating mixes a dining room with a counter and kitchen-counter stools. It takes bookings but holds back space for walk-ins, running Tuesday to Thursday 5pm-midnight, Friday from 5pm and Saturday from midday.
 
 ### Gordon's Wine Bar — a candlelit cellar, and no reservations
 
