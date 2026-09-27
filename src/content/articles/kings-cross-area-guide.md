@@ -207,7 +207,7 @@ West of the stations, between Euston Road and Camden, and a quiet residential po
 
 **By Tube.** **King's Cross St Pancras** is the busiest interchange in the network: Piccadilly, Victoria, Northern, Circle, Metropolitan and Hammersmith & City. Allow extra time — the walk between some platforms is several minutes.
 
-**By rail.** King's Cross for the East Coast Main Line. St Pancras for **Eurostar**, East Midlands and Thameslink. Thameslink runs direct to **Gatwick** and **Luton Airport Parkway** from St Pancras — see the [Gatwick guide](/articles/gatwick-airport-to-london/) and [Luton guide](/articles/luton-airport-to-london/).
+**By rail.** King's Cross for the East Coast Main Line. St Pancras for **Eurostar**, East Midlands and Thameslink. Thameslink runs direct to **Gatwick** and **Luton Airport Parkway** from St Pancras — see the [Gatwick guide](/articles/gatwick-airport-to-london/) and [Luton guide](/articles/luton-airport-to-london/). For a day abroad from St Pancras, see our guides to [Paris](/articles/paris-day-trip/), [Brussels](/articles/brussels-day-trip/), [Bruges](/articles/bruges-day-trip/) and [Amsterdam](/articles/amsterdam-from-london/) by Eurostar.
 
 **Best exit.** Follow signs for **"King's Cross Square"** for the stations and Platform 9¾, or **"Granary Square"** for Coal Drops Yard and the canal.
 

@@ -137,7 +137,7 @@ These do not have a guide of their own yet, but they are worth the day:
 - **Castles and houses:** Leeds Castle, Hever, Arundel, Warwick, Blenheim Palace, Hatfield House and Highclere, better known as Downton Abbey.
 - **Countryside:** the Chilterns, Box Hill and the South Downs — the places where [hiring a car](/articles/car-hire-driving-uk/) genuinely helps.
 - **Theme parks:** Legoland, ten minutes from [Windsor](/articles/windsor-day-trip/) and a day of its own rather than an afternoon after the castle, plus Thorpe Park, Chessington, and Alton Towers if you are prepared to stay over.
-- **Abroad:** [Paris by Eurostar](/articles/paris-day-trip/), which is from 2h16 direct and a real day out if you start early — see the full guide for the fares, the border checks, and how many hours that actually leaves you in the city.
+- **Abroad:** [Paris by Eurostar](/articles/paris-day-trip/), which is from 2h16 direct and a real day out if you start early — see the full guide for the fares, the border checks, and how many hours that actually leaves you in the city. [Brussels](/articles/brussels-day-trip/) is the shortest Eurostar run, at about two hours. [Bruges](/articles/bruges-day-trip/) takes longer, a Eurostar to Brussels plus a separate Belgian train, but the canals and the Belfry are worth the extra leg. [Amsterdam](/articles/amsterdam-from-london/) is about four hours each way direct, which makes it a demanding day trip and a much better one- or two-night stay.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -157,3 +157,5 @@ These do not have a guide of their own yet, but they are worth the day:
 - 🎪 **[London music festivals 2027](/articles/london-music-festivals-2027/)** — Reading, Boomtown, Cambridge Folk and the other festivals within about 90 minutes by train.
 - 🗺️ **[London itinerary planner](/articles/london-itineraries-by-days-and-interests/)** — how many days you need, and where a day trip fits.
 - 🇫🇷 **[Paris by Eurostar](/articles/paris-day-trip/)** — the one day trip here that crosses a border, and what that adds to check-in.
+- 🇧🇪 **[Brussels by Eurostar](/articles/brussels-day-trip/)** — a shorter train than Paris, the Grand-Place, and the Atomium detour question.
+- 🍫 **[Bruges from London](/articles/bruges-day-trip/)** — the Eurostar to Brussels, the separate Belgian train onward, and the Belfry and canals waiting at the other end.

@@ -186,3 +186,6 @@ All prices and times checked 14 September 2026.
 - 🛁 **[Bath day trip](/articles/bath-day-trip/)** — the other day trip here with a train over an hour each way, and how the maths compares.
 - 🏰 **[Windsor from London](/articles/windsor-day-trip/)** — the shortest big day out, if a full day abroad isn't what you're after.
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless and capping work on the London end of the trip.
+- 🇧🇪 **[Brussels day trip](/articles/brussels-day-trip/)** — a shorter Eurostar than this one, and more hours in the city for the same early start.
+- 🍫 **[Bruges from London](/articles/bruges-day-trip/)** — another Eurostar day trip, with a change at Brussels-Midi onto a separate Belgian train.
+- 🇳🇱 **[Amsterdam from London](/articles/amsterdam-from-london/)** — a longer Eurostar than this one, and the guide that makes the case for a night over a day trip.
