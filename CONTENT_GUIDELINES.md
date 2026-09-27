@@ -41,6 +41,7 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - Give every time-bound claim its date and set `reviewBy` in the frontmatter. `npm run audit:dates` finds claims that have lapsed.
 - Never hand-edit the italic facts strip under a restaurant heading. `scripts/sync-article-facts.mjs` writes it from the Sheet.
 - When checking one page turns up a mistake on another, fix both.
+- A substantive edit (facts, entries, prices, dates, new sections) sets  to that day; cards and headers show it as "Updated". Photo, caption and wording tidies don't. Never move  earlier than the day the page first existed.
 
 ## Structure
 

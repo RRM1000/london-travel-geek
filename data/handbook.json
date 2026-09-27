@@ -21,9 +21,14 @@
     "OK about $5 of Apify to price the Bloomsbury and family hotels guides.",
     "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
     "Say \"push\" whenever the committed work should go live.",
-    "Exhibitions: London Games Festival, London Film and Comic Con and a regular London record or retro-gaming fair turned up nothing online. Know of any worth adding?"
+    "Exhibitions: London Games Festival, London Film and Comic Con and a regular London record or retro-gaming fair turned up nothing online. Know of any worth adding?",
+    "Section pages: London areas (48 guides) and Getting around (18) are still one flat most-read-first list. Want subheadings there too (e.g. by part of London; airports vs Tube vs buses)?"
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-27",
+      "what": "Dates and section pages: publish dates spread out (busiest day 41 guides down to 8, the 8 written today), updatedAt set from each guide's last real edit, and cards and headers now say Updated. Section pages open with an In season strip, then subheadings (e.g. Seasonal and events, Attractions and museums, Walks), most-read first within each, with a New label on guides under 14 days old."
+    },
     {
       "date": "2026-09-27",
       "what": "Photos for the five exhibitions guides: 17 of yours placed and checked (ExCeL stations, cable car and concourse; Olympia, Ally Pally, Somerset House and the Business Design Centre; Comic Con cosplay and Main Stage). Left out: Alamy and Getty watermarked stock, an AI-looking image, and shots from other events (MCM Birmingham, a RE/MAX show, a finance conference, another group's concert)."
@@ -83,10 +88,6 @@
     {
       "date": "2026-09-19",
       "what": "Stay and Day Trips became nav sections. Every hotel links to Hotels.com where it's sold, and the build checks it. Curated tour widget sets for 124 slots. Photos for the family hotels and Bloomsbury guides."
-    },
-    {
-      "date": "2026-09-17",
-      "what": "New guides: money in London, luggage storage, is London safe, healthcare for visitors, and best time to visit month by month."
     }
   ],
   "postTypes": [
