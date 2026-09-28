@@ -7,12 +7,8 @@ reviewBy: 2026-10-28
 sites: [london]
 canonicalSite: london
 category: "Day trips"
-heroImage: "../../assets/articles/edinburgh-day-trip/edinburgh-day-trip.jpg"
-heroImageAlt: "Edinburgh Castle's fortified walls and turreted block rising above an Old Town rooftop, with a tree branch reaching into the frame"
-heroImageCredit: "Ad Meskens"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_05.jpg"
-heroImageLicense: "CC BY-SA 3.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
+heroImage: "../../assets/articles/edinburgh-day-trip/edinburgh-castle.jpg"
+heroImageAlt: "Edinburgh Castle on its volcanic rock, seen from below, with pink cherry blossom in the foreground"
 tags: [day trips, Edinburgh, Scotland, trains, castle, things to do]
 draft: false
 faq:
@@ -45,9 +41,9 @@ That's the maths this guide works through properly — what a same-day return to
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="16135" data-gyg-locale-code="en-GB" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-![Edinburgh Castle's fortified walls and turreted block rising above an Old Town rooftop, with a tree branch reaching into the frame](../../assets/articles/edinburgh-day-trip/edinburgh-day-trip.jpg)
+![Edinburgh Castle on its volcanic rock, seen from below, with pink cherry blossom in the foreground](../../assets/articles/edinburgh-day-trip/edinburgh-castle.jpg)
 
-*Edinburgh Castle above the Old Town. Photo: Ad Meskens, Wikimedia Commons.*
+*Edinburgh Castle.*
 
 ## Getting there: the trains
 
@@ -161,9 +157,17 @@ Edinburgh Waverley sits between the Old Town and the New Town — **it's a 10-mi
 
 **The Royal Mile** runs from the castle esplanade down to the Palace of Holyroodhouse, the spine of the Old Town and free to walk in either direction. **The Palace of Holyroodhouse**, the King's official residence in Scotland at the foot of the Mile, is £22.00 online for an adult (£26.00 at the door), £14.00 for a young person aged 18–24, and £11.00 for a child aged 5–17 or a disabled visitor — a family ticket is a flat £55.00, checked on the Royal Collection Trust's own site.
 
+![Cobbled Royal Mile lined with tenement buildings, red telephone boxes and a church spire, with crowds of visitors walking its length](../../assets/articles/edinburgh-day-trip/royal-mile.jpg)
+
+![The Palace of Holyroodhouse's grand façade beside the ruined arches and window of the adjoining Holyrood Abbey, under a clear sky](../../assets/articles/edinburgh-day-trip/palace-of-holyroodhouse.jpg)
+
 **The National Museum of Scotland** is free to enter, with charges only for some special exhibitions, open 10:00–17:00 daily — a straightforward stop if the weather turns or you want an hour that doesn't need booking.
 
+![The National Museum of Scotland's Grand Gallery, a long hall of white cast-iron columns and arches under a glazed roof, seen from an upper balcony](../../assets/articles/edinburgh-day-trip/national-museum-of-scotland.jpg)
+
 **Arthur's Seat**, the extinct volcano behind Holyroodhouse, is free to climb and the closest thing Edinburgh has to a viewpoint over the whole city — worth the detour only if your day allows for it, since it adds a couple of hours you won't have on a same-day return.
+
+![Arthur's Seat rising above gorse-covered slopes, with walkers on the path up and the city visible in the distance](../../assets/articles/edinburgh-day-trip/arthurs-seat.jpg)
 
 ## Where to stay: Old Town and around Waverley
 

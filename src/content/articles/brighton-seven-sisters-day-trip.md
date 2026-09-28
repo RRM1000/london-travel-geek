@@ -102,7 +102,7 @@ Independent travel is cheaper and gives you longer in Brighton if you want it. A
 
 **£21.50 for an adult on the door, with 5% off standard admission booked online** — £13.00 for a child aged 5 to 18, and a family of one adult and two children gets one child ticket free. Residents of the BN1, BN2, BN3 and BN41 postcodes pay £16.50 for up to four children. **It's a 15–20 minute walk from Brighton station.** Open **9:30am to 5:45pm from April to September and 10am to 5:15pm from October to March**, last admission 45 minutes before closing, closed 25 and 26 December and 1 January. The audio guide is £3 in a group or £4 alone, or £3 on your own phone.
 
-![The Royal Pavilion's onion domes and minarets seen from the garden, with visitors walking beneath a stone pavilion in the foreground](../../assets/articles/brighton-seven-sisters-day-trip/royal-pavilion.jpg)
+![The Royal Pavilion's domed and pinnacled front entrance, seen from the lawn with visitors passing beneath its portico](../../assets/articles/brighton-seven-sisters-day-trip/royal-pavilion.jpg)
 
 *The Royal Pavilion.*
 
@@ -110,13 +110,19 @@ Independent travel is cheaper and gives you longer in Brighton if you want it. A
 
 **A grid of narrow medieval alleyways bounded by North Street, Ship Street, Prince Albert Street and Bartholomew Square**, filled with antique dealers, jewellers and independent shops — the layout is the old fishing village Brighton grew from, unlike the wider Georgian streets around it. It costs nothing to walk through and is a natural link between the seafront and the station. North Laine, the separate grid of streets just north of here around Sydney Street and Kensington Gardens, is where the vintage clothing and record shops cluster if that's more your visit.
 
+![A narrow brick-paved lane in Brighton hung with bunting, lined with independent shopfronts including a florist](../../assets/articles/brighton-seven-sisters-day-trip/the-lanes.jpg)
+
 ### Brighton i360
 
 **The operator now trades simply as Brighton i360**, having dropped the British Airways branding from its name. **The standard View 360 ticket is from £20.50 through GetYourGuide**, and the whole visit — boarding, the ascent and the descent in the glass pod — takes about 30 minutes. The tower stands 162 metres tall on the seafront near the foot of the old West Pier, and typically opens by mid-morning, running into the evening; hours shift through the year, so check the date you're travelling.
 
+![The Brighton i360 tower and observation pod rising above the seafront, with the beach and Brighton Palace Pier below](../../assets/articles/brighton-seven-sisters-day-trip/brighton-i360.jpg)
+
 ## The Seven Sisters and Birling Gap
 
 **The chalk cliffs are the reason to make the extra journey, and Birling Gap is the easiest place to stand at the bottom of them.** National Trust runs the car park, café and shop here, with steps down to the beach when the tide allows. **Parking is £2 for up to an hour, £4 for up to two hours and £8 beyond that**; NT members, motorcycles and Blue Badge holders park free, and there's no coach parking on site any more. The café and shop run **10am to 5pm until 24 October 2026, then 10am to 4pm** through the winter; the coastal path itself is open dawn to dusk year-round.
+
+![The coastguard cottages at Birling Gap on the clifftop, with the chalk cliffs and pebble beach below dotted with visitors](../../assets/articles/brighton-seven-sisters-day-trip/birling-gap.jpg)
 
 **Seven Sisters Country Park, back at Exceat, is the other end of the same stretch of coast** and the stop the Coaster buses serve directly. Car parking there is **£3.50 for up to two hours, £5 for up to four, £7 beyond that**, with no Blue Badge concession. The visitor centre and takeaway kiosk run the same seasonal hours as Birling Gap. **Walking between the two takes about two hours** along the clifftop path, over the Seven Sisters themselves — a walk worth doing only if you have the time and the boots for it, since there's no shortcut back once you've committed.
 

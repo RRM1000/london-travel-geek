@@ -9,11 +9,7 @@ sites: [london]
 canonicalSite: london
 category: "Day trips"
 heroImage: "../../assets/articles/canterbury-dover-day-trip/white-cliffs-dover.jpg"
-heroImageAlt: "The White Cliffs of Dover seen from the sea, chalk face streaked with dark flint above a narrow shingle beach, green downland on top"
-heroImageCredit: "GeorgeM2011"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:White_Cliffs_of_Dover_from_Ferry.jpg"
-heroImageLicense: "CC BY 4.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by/4.0"
+heroImageAlt: "The white chalk cliffs east of Dover topped with grassland, South Foreland Lighthouse standing on the clifftop above the sea"
 tags: [day trips, Canterbury, Dover, Leeds Castle, trains, Kent, White Cliffs]
 draft: false
 faq:
@@ -77,11 +73,11 @@ The reason most people come, and the one unmissable sight in the city.
 
 Admission covers the Cathedral, Precincts, gardens, exhibitions and a guided trail; the media guide is optional. **Opening hours are Monday to Saturday 10:00–17:00, last admission 16:00.** Sunday is different: the grounds and shop open at 11:30, but the church itself doesn't open to visitors until 12:30, running through to 17:00 with the same 16:00 last-admission cutoff. The Cathedral can close parts of itself at short notice for services, so build in some slack rather than timing a visit to the last half hour.
 
-![Canterbury Cathedral seen from the south-west, its central Bell Harry tower rising above the nave](../../assets/articles/canterbury-dover-day-trip/canterbury-cathedral.jpg)
-
-*Canterbury Cathedral.*
+![Canterbury Cathedral's west towers and central Bell Harry tower under a clear blue sky, with visitors on the lawn in front](../../assets/articles/canterbury-dover-day-trip/canterbury-cathedral.jpg)
 
 **The World Heritage Pass is worth it if you're staying more than an hour or two**: for £29.50 it also covers St Martin's Church, the oldest parish church in continuous use in the English-speaking world, and the English Heritage ruins of St Augustine's Abbey, both a short walk from the Cathedral gates.
+
+![The ruins of St Augustine's Abbey in Canterbury, stone and brick arches standing above a lawn and low foundation walls](../../assets/articles/canterbury-dover-day-trip/st-augustines-abbey.jpg)
 
 ## Dover by train
 
@@ -109,9 +105,13 @@ England's largest castle, and the admission price includes the Secret Wartime Tu
 
 **The cheaper day of the week flips at the end of October** — weekdays are the bargain now, weekends are from 19 October. English Heritage members go free. **Hours are daily 10:00–17:00 to 18 October, then 10:00–16:00 from 19 October.**
 
+![Dover Castle's Great Tower, a square stone keep with battlements, rising above the lawn under a clear sky](../../assets/articles/canterbury-dover-day-trip/dover-castle.jpg)
+
 ## The White Cliffs walk
 
 The clifftop path is National Trust open-access land, not a ticketed attraction — there's no admission charge to walk it. The usual starting point is the Trust's Gateway visitor centre at Langdon Cliffs, a signed route up from Dover town, from where the path runs out towards South Foreland Lighthouse with the sea on one side and grazed chalk grassland on the other. The cliffs themselves reach about 110m and stretch for roughly eight miles either side of Dover; dogs are welcome on leads through the grazing land. Wear proper shoes — the path runs close to unfenced drops in places — and check the tide and weather before you go, since the cliff edge is exposed to the Channel wind.
+
+![The white chalk cliffs east of Dover topped with grassland, South Foreland Lighthouse standing on the clifftop above the sea](../../assets/articles/canterbury-dover-day-trip/white-cliffs-dover.jpg)
 
 ## Leeds Castle — why the coach is the practical way in
 
@@ -130,9 +130,7 @@ Admission covers unlimited return visits for a year. **Current hours (1 October�
 
 **By train, Southeastern runs to Bearsted and Hollingbourne**, 25–30 minutes from Ashford International or 70–75 minutes from Victoria — but from either station it's still a 5-minute taxi ride or a 30–40 minute walk to the gate, with no shuttle bus laid on. Leeds Castle's own green-travel offer gives 20% off admission if you show a same-day train, bus or cycling ticket at the Visitor Centre, which takes some of the sting out of the taxi fare. For a solo day trip from London, the maths rarely works: a 70-minute train plus a 30-minute walk each way eats most of a day before you've reached the gate, which is why the coach operators — Evan Evans, Golden Tours and Premium Tours all run scheduled sightseeing coaches here — are how most visitors from London actually arrive.
 
-![Leeds Castle and its moat, stone towers reflected in still water with trees along the bank](../../assets/articles/canterbury-dover-day-trip/leeds-castle.jpg)
-
-*Leeds Castle.*
+![Leeds Castle across its moat, under a blue sky of white cloud](../../assets/articles/canterbury-dover-day-trip/leeds-castle.jpg)
 
 ## The tours that do all three in one day
 

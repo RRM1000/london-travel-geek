@@ -104,15 +104,15 @@ Historic Royal Palaces' own suggested routes run to two hours, three hours or a 
 
 ![The red-brick Tudor West Front and Great Gatehouse of Hampton Court Palace with its twisted chimneys under a clear blue sky](../../assets/articles/hampton-court-palace-guide/hampton-court-west-front.jpg)
 
-*The West Front and Great Gatehouse, restored to its Tudor appearance in the 1840s.*
+*The West Front and Great Gatehouse.*
 
 ### Henry VIII's Apartments and the Great Hall
 
 Enter through Clock Court, beneath the **Hampton Court astronomical clock**, installed in 1540 and still showing the hour, the zodiac and the time of high water at London Bridge. **Henry VIII's Apartments** lead into the **Great Hall**, built between 1532 and 1535 — the last great medieval hall built for an English monarch, with a carved hammerbeam roof, Henry's own tapestries and stained glass.
 
-![Looking up at the carved hammerbeam roof and stained-glass window of the Great Hall at Hampton Court Palace](../../assets/articles/hampton-court-palace-guide/hampton-court-great-hall.jpg)
+![Looking up at the carved wooden hammerbeam roof and stained-glass windows of the Great Hall at Hampton Court Palace, with tapestries and antlers on the walls below](../../assets/articles/hampton-court-palace-guide/hampton-court-great-hall-roof.jpg)
 
-*The Great Hall's hammerbeam roof, completed in 1535.*
+*The Great Hall's hammerbeam roof.*
 
 Beyond the Great Hall, the **Haunted Gallery** and the **Wolsey Rooms** hold the Tudor World exhibition, tracing the palace back to Cardinal Wolsey, who built it before Henry VIII took it from him.
 
@@ -122,11 +122,15 @@ Originally built before 1508 by Sir Giles Daubeney and **quadrupled in size by H
 
 ![Rows of copper cooking pots set on the brick ranges inside the Tudor Kitchens at Hampton Court Palace](../../assets/articles/hampton-court-palace-guide/hampton-court-tudor-kitchens.jpg)
 
-*The Tudor Kitchens, quadrupled in size under Henry VIII in 1529.*
+*The Tudor Kitchens.*
 
 ### William III's Apartments and the Chapel Royal
 
-Cross into the Baroque half of the palace for **William III's Apartments**, built by Christopher Wren for William III and Mary II in the 1690s, and the **Chapel Royal**, still in regular use — you don't need any admission ticket to attend a service there. The **Georgian Story** and **Queen's Apartments** round off a three-hour visit, and a full day adds the **Chocolate Kitchens**, a rare surviving Georgian royal kitchen built solely for preparing chocolate, plus the palace's short **Palace Host Talks**.
+Cross into the Baroque half of the palace for **William III's Apartments**, built by Christopher Wren for William III and Mary II in the 1690s, and the **Chapel Royal**, still in regular use — you don't need any admission ticket to attend a service there.
+
+![Christopher Wren's red-brick and stone range at Hampton Court Palace, seen across a formal garden of clipped yew cones and a gravel path](../../assets/articles/hampton-court-palace-guide/hampton-court-wren-front.jpg)
+
+The **Georgian Story** and **Queen's Apartments** round off a three-hour visit, and a full day adds the **Chocolate Kitchens**, a rare surviving Georgian royal kitchen built solely for preparing chocolate, plus the palace's short **Palace Host Talks**.
 
 ### The maze and the gardens
 
@@ -134,7 +138,7 @@ North of the palace, the **hedge maze** is the oldest surviving example in Brita
 
 ![Visitors walking between tall clipped hedges inside the Hampton Court Palace maze](../../assets/articles/hampton-court-palace-guide/hampton-court-maze.jpg)
 
-*Inside the hedge maze, planted for William III in the 1690s.*
+*Inside the hedge maze.*
 
 The wider gardens run to 60 acres, Grade I listed on the Register of Historic Parks and Gardens. The **Privy Garden** is a 1992 recreation of the 1702 garden laid out for William III; the **Long Water** canal, excavated in 1662 for Charles II, draws on the same formal style as Versailles. The **Magic Garden**, a children's play area themed around palace legends, and the **Kitchen Garden**, which now supplies the Tudor Kitchens' demonstrations, are both included in admission too.
 
@@ -144,7 +148,7 @@ In a glasshouse near the Thames-facing side of the palace stands the **Great Vin
 
 ![The white-framed glasshouse built around the Great Vine at Hampton Court Palace, seen from the garden path](../../assets/articles/hampton-court-palace-guide/hampton-court-great-vine.jpg)
 
-*The glasshouse built around the Great Vine, planted in 1768.*
+*The Great Vine's glasshouse.*
 
 The vine is harvested every **September**, and the grapes — an average crop of around 270kg — are sold in the palace's Garden Shop and Barrack Block shop while stocks last.
 
