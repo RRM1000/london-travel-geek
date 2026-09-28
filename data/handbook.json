@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "inProgress": [],
   "nextUp": [
     "More GetYourGuide day trips with no guide yet: Warwick Castle and Stratford-upon-Avon, Blenheim Palace.",
@@ -26,6 +26,10 @@
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-28",
+      "what": "Bonfire Night guide: Chiswick Rugby Club's charity fireworks (Sat 7 Nov, fireworks 7.30pm; £12 adult, £8 child, £30 family, with £2 of each ticket, £3 of a family ticket, going to Maggie's) added as its own section, a row in the prices table and on the Saturday timeline. Also fixed scripts/preview-article.mjs, which failed on every article because it still read the deleted ColourfulStreetsMap component; walk maps now come from src/data/routes."
+    },
     {
       "date": "2026-09-28",
       "what": "Where to stay sections on the Paris, Brussels, Bruges and Amsterdam guides (16 hotels through Hotels.com, since only Paris has a London-departure GetYourGuide trip). Four new guides: Canterbury, Dover and Leeds Castle (coach tours from £79-£105), Edinburgh (rail day trip with castle entry, £219; one night recommended, hotels through Hotels.com), Brighton and the Seven Sisters (tours £84-£109), and Hampton Court Palace. All linked from the day trips hub or their related guides."
