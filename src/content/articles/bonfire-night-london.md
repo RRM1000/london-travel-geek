@@ -173,7 +173,9 @@ Prices are the organisers' own for 2026.
 
 ## Chiswick Rugby Club: a club display for charity
 
-**[Chiswick Rugby Club's Community Fireworks](https://www.chiswickrugby.co.uk/news/chiswick-rugby-community-fireworks-3000088.html)** is a club-run night at its ground on Dan Mason Drive, W4, on **Saturday 7 November**. Doors open at 5.30pm, the bonfire is lit at 6.30pm, the fireworks go up at 7.30pm, and live music follows from 8pm.
+**[Chiswick Rugby Club's Community Fireworks](https://www.chiswickrugby.co.uk/news/chiswick-rugby-community-fireworks-3000088.html)** is a club-run night at its ground on Dan Mason Drive, W4, on **Saturday 7 November**. Doors open at 5.30pm, the bonfire is lit at 6.30pm, the fireworks go up at 7.30pm, and live music follows from 8pm. There are bars, street food and face painting.
+
+![Chiswick Rugby's poster for its Community Fireworks Spectacular on Saturday 7 November 2026, with fireworks over the floodlit pitch and the night's times and ticket prices](../../assets/articles/bonfire-night-london/chiswick-rugby-fireworks-poster.jpg)
 
 **It raises money for Maggie's, the cancer support charity:** £2 of every ticket, and £3 of a family ticket, goes to it. Adults are **£12**, children **£8**, and a family ticket covering parents and all their children is **£30**.
 
