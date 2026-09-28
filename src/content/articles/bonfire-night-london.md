@@ -3,7 +3,7 @@ title: "Bonfire Night in London: Every Display, and Where to Watch for Free"
 seoTitle: "Bonfire Night London 2026: Fireworks and Free Views"
 description: "Every London fireworks display for Bonfire Night 2026 with dates, prices and booking links, which famous ones no longer run, and the free viewpoints that are actually open after dark."
 publishedAt: 2026-08-29
-updatedAt: 2026-09-26
+updatedAt: 2026-09-28
 reviewBy: 2026-09-28
 sites:
   - london
@@ -18,7 +18,7 @@ tags:
 draft: false
 faq:
   - q: "When is Bonfire Night 2026 and when are the London fireworks?"
-    a: "Bonfire Night is Thursday 5 November 2026, but the fireworks are on Saturday 7 November — thirteen displays run that night, with a second wave on Sunday 8th. Only three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow."
+    a: "Bonfire Night is Thursday 5 November 2026, but the fireworks are on Saturday 7 November — fourteen displays run that night, with a second wave on Sunday 8th. Only three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow."
   - q: "Are there any free fireworks displays in London?"
     a: "Barely one. Coram's Fields in Bloomsbury runs a free display on Thursday 5 November, no ticket needed — but adults may only attend if accompanied by a child, because it is a children's park. No London borough council still funds a free public display. The BBC established that 17 council events were cancelled over cost in five years."
   - q: "Where can you watch London fireworks for free without a ticket?"
@@ -31,7 +31,7 @@ heroImage: "../../assets/articles/bonfire-night-london/alexandra-palace-firework
 heroImageAlt: "A large red firework bursting in the night sky at the Alexandra Palace fireworks"
 ---
 
-**Bonfire Night 2026 is Thursday 5 November, but the fireworks are on Saturday 7th** — **thirteen displays land on that one night**, with a second wave on the Sunday.
+**Bonfire Night 2026 is Thursday 5 November, but the fireworks are on Saturday 7th** — **fourteen displays land on that one night**, with a second wave on the Sunday.
 
 Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow. So if you climb a hill on Bonfire Night expecting a skyline full of rockets, you will mostly see other people's back gardens.
 
@@ -53,7 +53,7 @@ This guide lists every display you can buy a ticket for, the one that is still f
 | **Sun 1 Nov** | Richmond Family Fireworks · Colets, Thames Ditton |
 | **Thu 5 Nov** | **Coram's Fields (free)** · Wimbledon Park · Stow |
 | **Fri 6 Nov** | Stow · Esher Rugby · Totteridge |
-| **Sat 7 Nov** | **The big one** — Alexandra Palace · Morden Park · Harrow · Dulwich · Southgate · Kempton Park · Beckenham · West Wickham · Bromley High · Chislehurst · Stow, **Blackheath (confirmed, 5pm–10.30pm)**, **Battersea Park** |
+| **Sat 7 Nov** | **The big one** — Alexandra Palace · Morden Park · Harrow · Dulwich · Southgate · Kempton Park · Beckenham · West Wickham · Bromley High · Chislehurst · Chiswick Rugby Club · Stow, **Blackheath (confirmed, 5pm–10.30pm)**, **Battersea Park** |
 | **Sun 8 Nov** | Alexandra Palace family day · Meath School · **Battersea Park** |
 
 ---
@@ -136,6 +136,7 @@ Prices are the organisers' own for 2026.
 | **[Dulwich Sports Club](https://www.eventbrite.co.uk/e/dulwich-firework-display-2026-kids-for-a-quid-tickets-1991896534154)** | **Sat 7 Nov**, fireworks ~19:00 | Adult **£13** · Junior 12–16 **£8** · **Under-12s £1**, plus Eventbrite fees | "Kids for a Quid". Doors 17:00. Advance adult tickets are on sale until **23 Oct**. No tickets on the night, and no parking. Herne Hill, North Dulwich and West Dulwich stations are each ten minutes' walk |
 | **[Beckenham Charity Fireworks](https://www.beckenhamfireworks.com/)**, Croydon Road Recreation Ground | **Sat 7 Nov**, gates 16:30 | Adult 14+ **£18** · Child 5–13 **£6** · Under-5 free · Concession **£12.50**, plus fees (£19.08 an adult) | Two displays, 6pm for smaller children and 7.30pm. Run by the 5th Beckenham South Scout Group; the display has raised money for local charities since 1946. **No gate sales.** Some food stalls and rides take cash only, and there is no cash machine in the park. Clock House station is 11 minutes' walk |
 | **[Kempton Park](https://www.thejockeyclub.co.uk/kempton/events-tickets/fireworks/)**, Sunbury | **Sat 7 Nov**, fireworks 19:30 | **£10** in advance | Gates 5pm, last entry 7pm. Funfair to 10pm. Kempton Park station from Waterloo |
+| **[Chiswick Rugby Club](https://www.chiswickrugby.co.uk/news/chiswick-rugby-community-fireworks-3000088.html)**, Dan Mason Drive, W4 | **Sat 7 Nov**, fireworks 19:30 | Adult **£12** · Child **£8** · Family **£30** | A charity display: £2 of each ticket, and £3 of a family ticket, goes to Maggie's. Doors 17:30, bonfire 18:30, live music from 20:00. Sold out last year |
 | **[Enfield Town Park](https://www.dugdaleartscentre.co.uk/whats-on/town-park-fireworks)** | **Sat 31 Oct**, fireworks 19:00 | Adult **£15.40** · Under-16 **£10.50** · Under-5 **£4.25** · Family (2 adults, 1 child) **£35.20**, plus £1.50 a ticket | Halloween theme with a fancy-dress competition. Gates 17:00, last entry 18:30. No gate sales and no digital tickets: **collect them from Dugdale Arts Centre, 39 London Road, by 5pm on Friday 30 October** |
 | **[Bonfire Night on the Thames](https://www.londonpartyboats.co.uk/tickets/bonfire-night-on-the-thames/229)** | **Sat 7 Nov**, boards 19:00 | Adult **£50** · Child **£45** | Boat from Festival Pier with buffet and DJ, viewing the Battersea display |
 
@@ -169,6 +170,14 @@ Prices are the organisers' own for 2026.
 > ⚠️ **Adults may only attend accompanied by a child.** Coram's Fields is a children's park run by a children's charity, and that rule applies all year round. A paid Fast-Track ticket guarantees entry and skips the queue, but gives no better view; Fast-Track and free accessible-area tickets are released in the first week of October.
 
 **No London borough council still funds a free public display.** The BBC asked all 32 under freedom of information and found **17 council events cancelled over cost in five years**, ten of them in Tower Hamlets alone. The displays that survive have migrated to cricket clubs, rugby clubs, schools, Scout groups and Rotary — and they charge.
+
+## Chiswick Rugby Club: a club display for charity
+
+**[Chiswick Rugby Club's Community Fireworks](https://www.chiswickrugby.co.uk/news/chiswick-rugby-community-fireworks-3000088.html)** is a club-run night at its ground on Dan Mason Drive, W4, on **Saturday 7 November**. Doors open at 5.30pm, the bonfire is lit at 6.30pm, the fireworks go up at 7.30pm, and live music follows from 8pm.
+
+**It raises money for Maggie's, the cancer support charity:** £2 of every ticket, and £3 of a family ticket, goes to it. Adults are **£12**, children **£8**, and a family ticket covering parents and all their children is **£30**.
+
+Tickets are sold through the [club's online shop](https://www.chiswickrugby.co.uk/payments/chiswick-rugbys-community-fireworks-spectacular-159271.html), which asks you to register before you can buy. There is no physical ticket; you give the booking name at the gate. The club says last year's display sold out.
 
 ---
 
@@ -223,7 +232,7 @@ People still search for all of these.
 | **Clissold Park** | Cancelled 2020–22 on budget grounds, never revived |
 | **Danson Park, Bexley** | Cancelled in 2025 for the first time in 56 years |
 | **Bounds Green** | Confirmed not running in 2026 — not enough volunteers. Hoping for 2027 |
-| **Chiswick Business Park** | Discontinued — the organisers said it no longer fitted their role in the community |
+| **Chiswick Business Park** | Discontinued — the organisers said it no longer fitted their role in the community. [Chiswick Rugby Club](#chiswick-rugby-club-a-club-display-for-charity) runs a display in W4 on 7 November |
 | **Carshalton and Sutton** | Cancelled permanently. No ticketed display anywhere in Sutton |
 | **Lord Mayor's Show Thames fireworks** | Abolished by the City of London Corporation |
 
