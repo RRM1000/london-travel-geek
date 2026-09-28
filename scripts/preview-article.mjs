@@ -40,12 +40,20 @@ for (const m of [...html.matchAll(/src="(\.\.\/\.\.\/assets\/[^"]+)"/g)]) {
 
 const hero = field("heroImage") ? await inline(field("heroImage")) : "";
 
-// The route map, read straight out of the component so the preview cannot drift
-// from what the page will actually render.
-const comp = fs.readFileSync("src/components/ColourfulStreetsMap.astro", "utf8");
-const stops = [...comp.matchAll(
-  /\{ n: (\d+), name: "([^"]+)", lat: ([\d.-]+), lng: ([\d.-]+),\s*note: "([^"]+)" \}/g,
-)].map((m) => ({ n: +m[1], name: m[2], lat: +m[3], lng: +m[4], note: m[5] }));
+// Walks carry a route map, read straight out of src/data/routes/<slug>.ts so the
+// preview cannot drift from what the page will actually render. Other articles
+// have no route file and get no map.
+const routeFile = `src/data/routes/${slug}.ts`;
+const str = (block, k) => {
+  const m = block.match(new RegExp(`\\b${k}: *"((?:[^"\\\\]|\\\\.)*)"`));
+  return m ? JSON.parse(`"${m[1]}"`) : "";
+};
+const num = (block, k) => +(block.match(new RegExp(`\\b${k}: *([\\d.-]+)`)) || [])[1];
+const stops = fs.existsSync(routeFile)
+  ? [...fs.readFileSync(routeFile, "utf8").matchAll(/\{[^{}]*\blatitude:[^{}]*\}/g)]
+      .map(([b]) => ({ n: str(b, "stop"), name: str(b, "name"), note: str(b, "note"), lat: num(b, "latitude"), lng: num(b, "longitude") }))
+      .filter((s) => s.name && Number.isFinite(s.lat) && Number.isFinite(s.lng))
+  : [];
 
 const out = `<!doctype html><html><head><meta charset="utf-8">
 <title>PREVIEW: ${field("title")}</title>
@@ -66,11 +74,11 @@ const out = `<!doctype html><html><head><meta charset="utf-8">
 <h1>${field("title")}</h1>
 <p class="desc">${field("description")}</p>
 ${hero ? `<img src="${hero}" alt="">` : ""}
-<h2>Map of the route</h2>
+${stops.length ? `<h2>Map of the route</h2>
 <div id="map"></div>
-<ol class="stops">${stops.map((s) => `<li><strong>${s.name}</strong> — ${s.note}</li>`).join("")}</ol>
+<ol class="stops">${stops.map((s) => `<li><strong>${s.name}</strong> — ${s.note}</li>`).join("")}</ol>` : ""}
 ${html}
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+${stops.length ? `<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
  const stops=${JSON.stringify(stops)};
  const map=L.map('map',{scrollWheelZoom:false});
@@ -79,7 +87,7 @@ ${html}
  L.polyline(pts,{color:'#6941c6',weight:3,opacity:.75,dashArray:'6 8'}).addTo(map);
  stops.forEach(s=>L.marker([s.lat,s.lng],{icon:L.divIcon({className:'',html:'<span style="display:inline-block;width:24px;height:24px;line-height:24px;text-align:center;border-radius:50%;background:#6941c6;color:#fff;font:700 12px system-ui">'+s.n+'</span>',iconSize:[24,24],iconAnchor:[12,12]})}).addTo(map).bindPopup('<strong>'+s.n+'. '+s.name+'</strong><br>'+s.note));
  map.fitBounds(L.latLngBounds(pts),{padding:[30,30]});
-</script></body></html>`;
+</script>` : ""}</body></html>`;
 
 const dest = process.argv[3] || `${slug}-preview.html`;
 fs.writeFileSync(dest, out);
