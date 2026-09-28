@@ -109,6 +109,10 @@ That's **11:26 to somewhere around 18:00** once you allow time to get to the sta
 
 **Bruges' station is simply called "Brugge"** — it's on the edge of the historic centre, not a satellite station you need transport from. It's a **20-minute walk** to the Markt, or a frequent De Lijn bus covers the same ground if you'd rather not walk in with luggage. There's no need to book a taxi in advance; the walk is flat, well signed, and takes you past the Begijnhof and Minnewater ("the Lake of Love") on the way in.
 
+![Swans on the Minnewater lake in Bruges, with the lock house and an arched bridge behind them](../../assets/articles/bruges-day-trip/minnewater-park.jpg)
+
+*Minnewater, the "Lake of Love".*
+
 ## The Markt and the Belfry
 
 ![The Rozenhoedkaai canal in Bruges, with the Belfry's tower rising above stepped gable rooftops and a white gabled house at the water's edge](../../assets/articles/bruges-day-trip/rozenhoedkaai-belfry.jpg)
@@ -145,6 +149,10 @@ Bruges' canals — 'reien' locally — are the reason the city is nicknamed the 
 
 Through a gate off Wijngaardplein, the **Begijnhof — the "Princely Beguinage Ten Wijngaerde," founded in 1245** — is a walled cluster of whitewashed houses around a quiet, tree-lined garden. It was built for the beguines: lay women who lived a religious, celibate life without joining a full convent order. Today it houses single women from Bruges alongside a small number with a religious vocation, and it's still lived in rather than preserved as a museum piece.
 
+![Whitewashed gabled houses along a cobbled lane in the Begijnhof in Bruges, with daffodils growing on the grass in front](../../assets/articles/bruges-day-trip/begijnhof.jpg)
+
+*The Begijnhof.*
+
 **Entry is free**, and it's UNESCO World Heritage-listed. The one thing to know before you go in: the Begijnhof asks visitors to keep to a genuine hush, not a polite murmur — this is somebody's home, not a courtyard attraction, and the City of Bruges is explicit that it expects every visitor to respect that.
 
 ## Chocolate and beer
@@ -152,6 +160,10 @@ Through a gate off Wijngaardplein, the **Begijnhof — the "Princely Beguinage T
 **Belgian beer culture was recognised by UNESCO as intangible cultural heritage in 2016**, and Bruges' own brewery, **De Halve Maan on Walplein**, has been making beer in the same spot since 1856, now in its sixth generation of the same family. Its **Classic tour (45 minutes, €16, including one beer)** takes you through the brewing hall and up 220 steps to a rooftop with a 360-degree view of the city, ending with an unfiltered Brugse Zot or Straffe Hendrik — this is the only place in the world you can drink either beer unfiltered. The **XL tour (90 minutes, €26, including three beers)** adds a tasting session in the original cellars, but runs weekends only. Under-6s go free on either tour; 7 to 15s pay €8.50.
 
 For chocolate, **The Chocolate Line on Simon Stevinplein**, founded by Dominique Persoone, was voted Belgium's best chocolate shop by Gault & Millau in 2023 — known for flavours well outside the usual praline range and for collaborations with Michelin-starred restaurants and fashion houses. It's open **9:30–18:30 Tuesday to Saturday, 10:30–18:30 on Sundays and Mondays**. If you'd rather see how chocolate is made than just buy it, **Choco-Story, the chocolate museum on Wijnzakstraat**, is open daily, 10:00–18:00, with last tickets at 17:00.
+
+![The courtyard at De Halve Maan brewery in Bruges, with a Brugse Zot beer in a glass on a barrel table and a Straffe Hendrik cask alongside](../../assets/articles/bruges-day-trip/de-halve-maan-brewery.jpg)
+
+*De Halve Maan's courtyard.*
 
 ## What people get wrong
 

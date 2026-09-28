@@ -145,6 +145,10 @@ The **Belgian Comic Strip Center** itself — the indoor museum, not the outdoor
 
 The **Atomium** — nine steel spheres, 102 metres tall, built as the symbol of the 1958 World's Fair and never meant to outlast it — is the most photographed thing in Brussels that isn't the Grand-Place, and it's a genuine detour rather than a stop on the way to anything. It sits at Heysel, north of the centre, and the fastest route is a **direct 15-minute Metro line 6 ride from Brussels-Midi itself**, no change needed — useful, because it means you don't have to backtrack through the centre to reach it. Six of the nine spheres are open to visitors, including a panorama restaurant in the top one; adult admission is **€17**, which also covers the neighbouring Design Museum Brussels. It's open every day, 10am to 6pm, so unlike the Comic Strip Center it isn't a Monday problem.
 
+![The Atomium's nine steel spheres and connecting tubes against a blue sky, seen from the avenue leading up to it](../../assets/articles/brussels-day-trip/atomium.jpg)
+
+*The Atomium, at Heysel.*
+
 The honest answer on whether it's worth the trip: if you're on one of the early trains and can give it 90 minutes to two hours there and back, it's a straightforward add-on. If you took the later 08:16 and want a proper look at the centre as well, it's the first thing to cut — the Grand-Place, Manneken Pis and the comic walls sit close together, and the Atomium doesn't.
 
 ### Waffles, frites and beer
@@ -154,6 +158,10 @@ The honest answer on whether it's worth the trip: if you're on one of the early 
 **Frites** come from a paper cone with a dollop of mayonnaise rather than ketchup as the default, fried twice — once to cook the potato through, once to crisp it — at a **frietkot** (a fries stand, sometimes just a hatch in a wall) rather than a restaurant. Whether the fry itself is Belgian or French in origin is a live dispute between food historians on both sides of the border; nobody disputes that Belgians eat more of them.
 
 **Beer** is the other constant. The Delirium Café, in the Impasse de la Fidélité alley just off the Bourse, held the Guinness World Record for the longest beer list — **2,004 different beers** — when it opened in December 2003, and the list has only grown since.
+
+![The Delirium Café's sign and pink-elephant logo above its doorway in Brussels](../../assets/articles/brussels-day-trip/waffles-frites-beer.jpg)
+
+*The Delirium Café, just off the Bourse.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="brussels-day-trip-food-and-drink" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="846767,509947,46955"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

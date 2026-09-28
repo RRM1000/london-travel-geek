@@ -131,6 +131,10 @@ Amsterdam's big three sights all require a timed-entry ticket, but they don't se
 
 **Anne Frank House is the strictest of the three.** Tickets go on sale **every Tuesday at 10am CEST, for a visit exactly six weeks later**, and only through the museum's own website — no reseller, including GetYourGuide, sells them. Adult admission is **€16.50** (including a €1 booking fee), €7.00 for ages 10–17, and €1.00 for under-10s. The museum is open daily, 9:00 to 22:00. If your trip is inside six weeks away when you plan it, there is no way to book a ticket to this one — an Anne Frank–themed walking tour of the surrounding Jewish Quarter is the fallback, not a substitute for the House itself.
 
+![The Anne Frank House's modern black entrance building beside the canal at dusk, with the original gabled canal house it adjoins lit up next door](../../assets/articles/amsterdam-from-london/anne-frank-house.jpg)
+
+*The Anne Frank House, on the Prinsengracht.*
+
 **The Van Gogh Museum is also online-only, with no ticket sold at the door.** Adult admission is **€25**, students €16, under-18s free, and the museum runs no waiting list if your date shows as sold out. Checked on GetYourGuide on 27 September 2026, the museum's own entry ticket was flagged **"Likely to sell out"** and showed nothing available before **6 October — nine days out**. Book this one as soon as your dates are fixed, not the week before.
 
 **The Rijksmuseum is the easiest of the three to get into at short notice.** Booking a start time is required for every visitor, including Museumkaart holders, but the museum still sells tickets at the entrance, subject to availability, and its GetYourGuide listing was still showing slots the next day when we checked. Adult admission is **€25**, free for under-18s. The Rijksmuseum and the Van Gogh Museum both sit on Museumplein, a few minutes' walk apart, so a booked Van Gogh slot and a same-day, on-the-door Rijksmuseum visit pair up easily.
