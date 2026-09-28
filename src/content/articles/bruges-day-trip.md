@@ -3,6 +3,7 @@ title: "Bruges from London: The Eurostar, the Belfry and the Canals"
 seoTitle: "Bruges Day Trip from London: Eurostar and Fares"
 description: "St Pancras to Bruges takes about four hours with a change at Brussels-Midi: Eurostar Standard from £39 one-way, then a Belgian train from €17.60. Arrive 75 minutes early for UK exit and EU entry checks, and the day gives you roughly seven hours in Bruges before the last realistic train home."
 publishedAt: 2026-09-27
+updatedAt: 2026-09-28
 reviewBy: 2026-10-27
 sites: [london]
 canonicalSite: london
@@ -37,7 +38,7 @@ faq:
 
 That makes Bruges a slightly different proposition from Paris or Brussels itself: you're not stepping off the Eurostar into the city, you're changing onto a regional service for another hour. But Bruges rewards the extra leg. The old centre is small enough to cover on foot, ringed by a canal, and it doesn't have a single sprawling must-see the way Paris has the Louvre — the Belfry, the canals, the Begijnhof and a chocolate shop or two are a full and unhurried day.
 
-> 💡 **The Short Version:** **St Pancras to Brussels-Midi on Eurostar, then change for Bruges.** Eurostar Standard from **£39** one-way; the connecting Belgian train is a separate ticket, **€17.60** each way in 2nd class on weekdays, **€12.30** at weekends, bought at Brussels-Midi with no reservation needed. **Arrive 75 minutes before departure** at St Pancras (Standard/Plus) — UK exit, EU entry and EES biometric registration all happen before you board. You need **a passport, not an ID card**, issued within **10 years** and valid **3 months** after you leave; **ETIAS isn't required yet**. The realistic **07:04 Eurostar** gets you into Bruges by **11:26**, and the last train that gets you home same-day leaves Bruges at **18:58** — call it **seven and a half hours** in the city. **There's no London coach tour to Bruges** — the round drive is too long for a day — but you can still book ahead: the <a href="https://www.getyourguide.com/activity/-t399508?partner_id=WWP7I0R&amp;cmp=bruges-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£38 boat, chocolate and walking tour</a> matters because you can't pre-book an individual canal boat ticket any other way — you queue for one on the day.
+> 💡 **The Short Version:** **St Pancras to Brussels-Midi on Eurostar, then change for Bruges.** Eurostar Standard from **£39** one-way; the connecting Belgian train is a separate ticket, **€17.60** each way in 2nd class on weekdays, **€12.30** at weekends, bought at Brussels-Midi with no reservation needed. **Arrive 75 minutes before departure** at St Pancras (Standard/Plus) — UK exit, EU entry and EES biometric registration all happen before you board. You need **a passport, not an ID card**, issued within **10 years** and valid **3 months** after you leave; **ETIAS isn't required yet**. The realistic **07:04 Eurostar** gets you into Bruges by **11:26**, and the last train that gets you home same-day leaves Bruges at **18:58** — call it **seven and a half hours** in the city. **There's no London coach tour to Bruges** — the round drive is too long for a day — but you can still book ahead: the <a href="https://www.getyourguide.com/activity/-t399508?partner_id=WWP7I0R&amp;cmp=bruges-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£38 boat, chocolate and walking tour</a> matters because you can't pre-book an individual canal boat ticket any other way — you queue for one on the day. **If you'd rather stay the night** than work back from the last train, [Where to stay](#where-to-stay) has four hotels — one a level walk from Brugge station.
 
 **Book a tour direct:**
 
@@ -164,6 +165,15 @@ For chocolate, **The Chocolate Line on Simon Stevinplein**, founded by Dominique
 ![The courtyard at De Halve Maan brewery in Bruges, with a Brugse Zot beer in a glass on a barrel table and a Straffe Hendrik cask alongside](../../assets/articles/bruges-day-trip/de-halve-maan-brewery.jpg)
 
 *De Halve Maan's courtyard.*
+
+## Where to stay
+
+Stay near Brugge station if the plan is an early train home or on to Ghent or Brussels the next morning; stay in the old centre if you'd rather still be a two-minute walk from the Markt once the day-trippers have gone.
+
+- **[Guesthouse Keizershof](hotelscom:h13168703)** — on Oostmeers, a level walk to Brugge station and on the same route into town as the Begijnhof and Minnewater; the Markt is a further ten minutes on. A small family-run guesthouse, price band £, with breakfast at the neighbouring restaurant.
+- **[Hotel Dukes' Palace Bruges](hotelscom:h1853344)** — on Prinsenhof, a few minutes from the Burg and the Markt and about twenty from the station; a 5-star hotel built through a former ducal palace, price band £££, with a spa — sauna and jacuzzi — that's the reason to pick it over a plainer central room.
+- **[Hotel Heritage](hotelscom:h66083)** — on Niklaas Desparsstraat, just off the Markt and about twenty minutes from the station; a Relais & Chateaux townhouse hotel in a 19th-century mansion, price band £££, on a quiet side street despite the location.
+- **[Hotel Botaniek](hotelscom:h4320447)** — on Waalsestraat, close to the Burg and about twenty minutes from the station; a nine-room townhouse hotel, price band ££, with breakfast included and served until 10:30am.
 
 ## What people get wrong
 

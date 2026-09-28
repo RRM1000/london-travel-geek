@@ -3,6 +3,7 @@ title: "Amsterdam from London by Eurostar: The Train, the Fares and a Day or a W
 seoTitle: "Amsterdam Day Trip from London: Eurostar Fares & Times"
 description: "St Pancras to Amsterdam Centraal is about four hours direct on Eurostar, from £39 one-way in Standard. Arrive 75-90 minutes early at both ends for UK and EU border checks, and the honest verdict is a squeeze as a day trip — one or two nights lets the canal ring and the Rijksmuseum breathe."
 publishedAt: 2026-09-27
+updatedAt: 2026-09-28
 reviewBy: 2026-10-27
 sites: [london]
 canonicalSite: london
@@ -34,7 +35,7 @@ faq:
 
 This guide covers both: the honest hours if you're determined to do it in a day, and what changes if you stay over — plus the three tickets in this city that need booking ahead of time, because two of them sell out.
 
-> 💡 **The Short Version:** **St Pancras to Amsterdam Centraal, about 4 hours direct**, no change of train (it calls at Brussels-Midi and Rotterdam Centraal on the way). Eurostar Standard **from £39** one-way, booked 10–11 months ahead for the cheapest fares. **Arrive 75–90 minutes before departure at both ends** — Amsterdam's own "UK Terminal" opened February 2025 and runs full UK and Dutch border checks before you board, same as St Pancras. You need **a passport, not an ID card**, issued within **10 years** and valid **3 months** after you leave; **ETIAS isn't required yet**. **As a day trip**, the realistic 08:16 train gives you under four hours in the city before you need to be back at the station — **one or two nights suits Amsterdam far better**. **Van Gogh Museum tickets sell out**; Anne Frank House releases tickets exactly **six weeks ahead**, every Tuesday at 10am. **Or book a canal cruise now** — <a href="https://www.getyourguide.com/activity/-t56671?partner_id=WWP7I0R&amp;cmp=amsterdam-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">from £11</a>, with daytime departures near Centraal Station.
+> 💡 **The Short Version:** **St Pancras to Amsterdam Centraal, about 4 hours direct**, no change of train (it calls at Brussels-Midi and Rotterdam Centraal on the way). Eurostar Standard **from £39** one-way, booked 10–11 months ahead for the cheapest fares. **Arrive 75–90 minutes before departure at both ends** — Amsterdam's own "UK Terminal" opened February 2025 and runs full UK and Dutch border checks before you board, same as St Pancras. You need **a passport, not an ID card**, issued within **10 years** and valid **3 months** after you leave; **ETIAS isn't required yet**. **As a day trip**, the realistic 08:16 train gives you under four hours in the city before you need to be back at the station — **one or two nights suits Amsterdam far better**. **Staying over?** See Where to stay below for four hotels, from opposite Centraal Station to the canal ring. **Van Gogh Museum tickets sell out**; Anne Frank House releases tickets exactly **six weeks ahead**, every Tuesday at 10am. **Or book a canal cruise now** — <a href="https://www.getyourguide.com/activity/-t56671?partner_id=WWP7I0R&amp;cmp=amsterdam-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">from £11</a>, with daytime departures near Centraal Station.
 
 **Book direct:**
 
@@ -144,6 +145,15 @@ Amsterdam's big three sights all require a timed-entry ticket, but they don't se
 *The Rijksmuseum, seen from Museumplein.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-GB" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="amsterdam-from-london-museums" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="56969,7135,298415"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Where to stay
+
+Stay by Centraal Station if getting to an early train home matters more than the evening; stay in the canal ring or the old centre if you'd rather have dinner and a first canal walk on your doorstep.
+
+- **[ibis Styles Amsterdam Central Station](hotelscom:h1211201)** — directly across the square from Centraal Station, 5 minutes' walk from Dam Square; a straightforward 3-star with breakfast included, the simplest base for an early train home. £
+- **[The Hoxton, Amsterdam](hotelscom:h8482)** — on the Herengracht, 5 minutes' walk from Dam Square and about 15 on foot from Centraal; its ground-floor restaurant and cocktail bar double as the evening out. ££
+- **[The Toren Amsterdam](hotelscom:h20507)** — two 17th-century canal houses on the Keizersgracht, a few minutes from the Jordaan and Anne Frank House; quieter rooms, some over the canal or a private garden. £££
+- **[Stayokay Amsterdam Stadsdoelen](hotelscom:h22415222)** — on the Kloveniersburgwal near Nieuwmarkt, a 10-minute walk from Dam Square; a hostel with private rooms as well as dorms, the cheapest base in the old centre. £
 
 ## What people get wrong
 

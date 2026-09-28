@@ -3,6 +3,7 @@ title: "Brussels from London: The Eurostar, the Grand-Place and the Atomium Ques
 seoTitle: "Brussels Day Trip from London: Eurostar Fares and Times"
 description: "St Pancras to Brussels-Midi takes as little as 1h51 on Eurostar, from around £51 in Standard booked ahead. Arrive 75 minutes early for UK exit and EU entry checks, and the last realistic return gives you eight to eleven hours for the Grand-Place, the comic-strip walls and the Atomium question."
 publishedAt: 2026-09-27
+updatedAt: 2026-09-28
 reviewBy: 2026-11-15
 sites: [london]
 canonicalSite: london
@@ -36,7 +37,7 @@ faq:
 
 Brussels gets less attention than Paris as a Eurostar day trip, which is exactly what makes the maths work in your favour: a shorter train, the same border process to learn once, and — if you take one of the earlier departures — close to a full working day in the city before you need to think about the platform home.
 
-> 💡 **The Short Version:** **St Pancras to Brussels-Midi, from 1h51 direct** (1h57–2h06 on the trains we checked). Eurostar Standard **from £51** one-way booked ahead (£39 on some promotional dates); **Eurostar Plus** from **£98**; **Eurostar Premier** a flat **£325 one-way / £490 return**. **Arrive 75 minutes before departure** for Standard or Plus (45 for Premier) — UK exit, Belgian entry and EU Entry/Exit System registration all happen at St Pancras before you board, and the same process runs in reverse at Brussels-Midi for the way home. You need **a passport, not an ID card**, issued within **10 years** and valid **3 months** after you leave the Schengen area — **ETIAS isn't live yet**, so there's nothing else to apply for. Take the early train and the last realistic one back leaves Brussels **around 19:56–20:56**, giving **eight to eleven hours** in the city. **Or skip the route-planning** — a <a href="https://www.getyourguide.com/activity/-t204439?partner_id=WWP7I0R&amp;cmp=brussels-day-trip-short-version" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">2.5-hour guided walking tour</a> (4.6★, 4,262 reviews) covers the Grand-Place, the guildhalls and Manneken Pis in one loop, which matters when you're working with a fixed number of hours.
+> 💡 **The Short Version:** **St Pancras to Brussels-Midi, from 1h51 direct** (1h57–2h06 on the trains we checked). Eurostar Standard **from £51** one-way booked ahead (£39 on some promotional dates); **Eurostar Plus** from **£98**; **Eurostar Premier** a flat **£325 one-way / £490 return**. **Arrive 75 minutes before departure** for Standard or Plus (45 for Premier) — UK exit, Belgian entry and EU Entry/Exit System registration all happen at St Pancras before you board, and the same process runs in reverse at Brussels-Midi for the way home. You need **a passport, not an ID card**, issued within **10 years** and valid **3 months** after you leave the Schengen area — **ETIAS isn't live yet**, so there's nothing else to apply for. Take the early train and the last realistic one back leaves Brussels **around 19:56–20:56**, giving **eight to eleven hours** in the city. **Or skip the route-planning** — a <a href="https://www.getyourguide.com/activity/-t204439?partner_id=WWP7I0R&amp;cmp=brussels-day-trip-short-version" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">2.5-hour guided walking tour</a> (4.6★, 4,262 reviews) covers the Grand-Place, the guildhalls and Manneken Pis in one loop, which matters when you're working with a fixed number of hours. **If you'd rather stay the night**, see [where to stay](#where-to-stay) below.
 
 ## Getting there: the Eurostar
 
@@ -174,6 +175,15 @@ The honest answer on whether it's worth the trip: if you're on one of the early 
 Both are a short Belgian train on from Brussels — Bruges about an hour from Brussels-Midi, Ghent around 35 minutes — but that's the reason to treat them as their own trip rather than bolt them onto this one: added to the London leg, the maths stops working for a single day. If you want to see both, a guided day trip run from Brussels itself covers the transport and a local guide in one booking; the independent, cheaper option is buying a Belgian Rail ticket on the day, which needs no advance booking on domestic routes. Either way, it's a better fit as its own day trip from London on the same Eurostar route — see the **[Bruges day trip guide](/articles/bruges-day-trip/)** for the fares and the hours that leaves you.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="brussels-day-trip-bruges-ghent" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="66951,204439,71219"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Where to stay
+
+Stay near Brussels-Midi only if you need the five-minute walk to a morning train — the streets immediately around the station are one of the city's biggest pickpocketing spots and get a reputation for rough edges after dark. Everyone else is better off in the old centre, one premetro stop away, with a short ride back to Midi for the return journey.
+
+- **[Jill Hotel Brussels](hotelscom:h6715906)** — Avenue Fonsny, a two-minute walk from Gare du Midi's platforms and premetro; a 4-star boutique fit-out behind a plain façade, with a hidden garden terrace. **££**, and only worth booking for the early train, not an evening in the area.
+- **[Hotel Amigo](hotelscom:h808295)** — Rue de l'Amigo, between the Grand-Place and Manneken Pis; a five-star with its own Italian restaurant and Bar Magritte's live jazz. **£££**, for the location as much as anything.
+- **[Hotel Le Plaza Brussels](hotelscom:h54732)** — Boulevard Adolphe Max, a ten-minute walk from the Grand-Place past the Rue Neuve shops; a traditional, formal hotel rather than a boutique one. **££**, and quieter than staying right on the square.
+- **[ibis Brussels off Grand Place](hotelscom:h16260)** — Rue du Marché aux Herbes, two minutes from the Grand-Place; a modern budget-chain room with a breakfast buffet that includes Belgian waffles. **£**, the cheapest of the four for the same walk to the square.
 
 ## What people get wrong
 
