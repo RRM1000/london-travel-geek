@@ -32,7 +32,7 @@ The good day trips from London are all about an hour away, and the money is in t
 
 > 💡 **The Short Version:** **Windsor** is the shortest and cheapest journey, and its castle is **closed on Tuesdays and Wednesdays**. **Oxford** is cheapest by coach, **Cambridge** by advance single. The **Harry Potter Studio Tour** must be booked weeks ahead and sells nothing on the door. **Contactless works to Windsor and Watford, but Oyster does not** — and neither works to Oxford or Cambridge. **Bath** is 1h15 from Paddington and cheapest with advance tickets. **Stonehenge** and **the Cotswolds** are the two where a coach tour genuinely beats the train. **Or book a tour** — <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">guided day trips from £66</a> cover the transport and the ticket in one booking.
 
-## The seven, compared
+## The day trips, compared
 
 | Destination | From | Journey | Return fare | The main ticket |
 | --- | --- | --- | --- | --- |
@@ -41,6 +41,8 @@ The good day trips from London are all about an hour away, and the money is in t
 | **[Cambridge](/articles/cambridge-day-trip/)** | King's Cross | **49 min** fast | Advance from £15.20 single | King's College **£16.75**, punting from £28.50 |
 | **[Harry Potter Studio Tour](/articles/harry-potter-studio-tour/)** | Euston to Watford Junction | 18–21 min, then a free bus | £7.20 off-peak each way | **£58.50**, pre-booked only |
 | **[Bath](/articles/bath-day-trip/)** | Paddington | **1h15** direct | £47.60 return booked ahead, £75.90 walk-up | Roman Baths **£26.50** weekdays, £29 weekends |
+| **[Canterbury and Dover](/articles/canterbury-dover-day-trip/)** | St Pancras high-speed | **54–58 min** to Canterbury, 1h06 to Dover | Super Off-Peak singles from £43 | Cathedral **£18–£19.50**; Dover Castle from £24.65 |
+| **[Brighton and the Seven Sisters](/articles/brighton-seven-sisters-day-trip/)** | Victoria or London Bridge | **58 min** direct to Brighton | Advance singles from £8 one way | Royal Pavilion **£21.50**; Seven Sisters bus £3 flat fare |
 | **[Stonehenge](/articles/stonehenge-day-trip/)** | Waterloo to Salisbury, then a bus | About 3 hours each way | Advance from £16.40 single, bus £20.50 | Entry **£27.20–£32.30** booked ahead; tours from £66 with entry |
 | **[The Cotswolds](/articles/cotswolds-day-trip/)** | Paddington to Moreton-in-Marsh | **1h25**, then the 801 bus | £54 off-peak return | Villages are free; tours from £74 |
 
@@ -112,6 +114,14 @@ Most coach tours pair Bath with Stonehenge, but they give you two or three hours
 
 → **[The full Bath guide](/articles/bath-day-trip/)**
 
+## Brighton and the Seven Sisters
+
+**58 minutes direct from Victoria or London Bridge**, with Advance singles from £8 one way — but the Seven Sisters chalk cliffs and Birling Gap are a separate leg again, by bus from Brighton or a second train to Seaford. **Neither Oyster nor contactless works this far out.**
+
+The Royal Pavilion is £21.50, Brighton Pier charges £1 admission from March to October, and the Seven Sisters bus is a flat £3 fare. The cliff edge is unfenced and erodes up to a metre a year, so the walking route needs care.
+
+→ **[The full Brighton and the Seven Sisters guide](/articles/brighton-seven-sisters-day-trip/)**
+
 ## Stonehenge
 
 The one day trip where a tour is genuinely the sensible choice. By public transport it is Waterloo to Salisbury, then a bus that runs **five times a day in winter**, about three hours each way and roughly £80 all in. Tours start at **£66 with entry included**.
@@ -132,12 +142,13 @@ Nothing in the villages needs a ticket, so a small-group tour from about **£89*
 
 These do not have a guide of their own yet, but they are worth the day:
 
-- **Coast:** Brighton for the pier and the Lanes, Whitstable for oysters, Margate for Dreamland and the Turner, Broadstairs, Hastings, and the Seven Sisters cliffs at Eastbourne.
-- **Cities and towns:** Canterbury and Dover together on the high-speed line, Winchester, Rye, St Albans and Rochester.
-- **Castles and houses:** Leeds Castle, Hever, Arundel, Warwick, Blenheim Palace, Hatfield House and Highclere, better known as Downton Abbey.
+- **Coast:** [Brighton and the Seven Sisters](/articles/brighton-seven-sisters-day-trip/) has its own guide now; beyond that, Whitstable for oysters, Margate for Dreamland and the Turner, Broadstairs, Hastings, and Eastbourne itself.
+- **Cities and towns:** [Canterbury and Dover](/articles/canterbury-dover-day-trip/) together on the high-speed line, Winchester, Rye, St Albans and Rochester.
+- **Castles and houses:** [Leeds Castle](/articles/canterbury-dover-day-trip/#leeds-castle--why-the-coach-is-the-practical-way-in) — no useful station of its own, so it's covered alongside the Canterbury and Dover trip — plus Hever, Arundel, Warwick, Blenheim Palace, Hatfield House and Highclere, better known as Downton Abbey.
 - **Countryside:** the Chilterns, Box Hill and the South Downs — the places where [hiring a car](/articles/car-hire-driving-uk/) genuinely helps.
 - **Theme parks:** Legoland, ten minutes from [Windsor](/articles/windsor-day-trip/) and a day of its own rather than an afternoon after the castle, plus Thorpe Park, Chessington, and Alton Towers if you are prepared to stay over.
 - **Abroad:** [Paris by Eurostar](/articles/paris-day-trip/), which is from 2h16 direct and a real day out if you start early — see the full guide for the fares, the border checks, and how many hours that actually leaves you in the city. [Brussels](/articles/brussels-day-trip/) is the shortest Eurostar run, at about two hours. [Bruges](/articles/bruges-day-trip/) takes longer, a Eurostar to Brussels plus a separate Belgian train, but the canals and the Belfry are worth the extra leg. [Amsterdam](/articles/amsterdam-from-london/) is about four hours each way direct, which makes it a demanding day trip and a much better one- or two-night stay.
+- **Scotland:** [Edinburgh](/articles/edinburgh-day-trip/) is from 4h08 direct on LNER, or a touch cheaper on Lumo — the round trip alone runs to 8 or 9 hours, so the full guide makes the case for a night in the Old Town over a same-day return, and covers the Caledonian Sleeper as the way to travel there without losing a day to it.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

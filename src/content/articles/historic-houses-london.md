@@ -115,7 +115,7 @@ Outside, 112 acres of Humphry Repton landscape running into Hampstead Heath, wit
 
 ## Palaces
 
-### Hampton Court Palace
+### [Hampton Court Palace](/articles/hampton-court-palace-guide/)
 
 *Ticketed · weekdays cheaper than weekends*
 
@@ -129,7 +129,7 @@ Inside, the Great Hall with Henry's tapestries, the Haunted Gallery, the Wolsey 
 
 **Two free ways in.** The **Gardens Open Days** in September, October and November admit anyone to the gardens with no ticket and no booking. And **you do not need any admission ticket to attend a service at the Chapel Royal.**
 
-**Open daily 10am–5.30pm, last entry 4.30pm — but it takes occasional one-off closure days**, so check the date. The **Mantegna Gallery is closed until spring 2027**.
+**Open 10am–5.30pm, last entry 4.30pm.** In school term time that's Wednesday to Sunday only, closed Monday and Tuesday; it opens daily during Easter, summer, Christmas and half-term holidays. The **Mantegna Gallery is closed until spring 2027**.
 
 ### Eltham Palace
 

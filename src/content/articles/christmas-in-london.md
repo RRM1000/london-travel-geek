@@ -92,7 +92,7 @@ Different from the free street displays above — these are paid, walk-through e
 
 **Christmas at Kew** is the benchmark. **13 November 2026 – 3 January 2027**, a 3km illuminated trail through Kew Gardens taking upwards of two hours. Adult tickets from **£29.50 off-peak, £37 peak**; a Kew Gardens day visit is a separate ticket bolted on for an extra £12. Book through [kew.org](https://www.kew.org/kew-gardens/whats-on/christmas).
 
-**Hampton Court Palace** runs two separate things this year: **The Winter Palace**, a new indoor immersive walkthrough included in standard palace admission (£32–£35 adult), running **28 November 2026 – 3 January 2027**; and a **separate ice rink**, **20 November 2026 – 3 January 2027**, priced separately: £19.50 adult off-peak, £21.50 peak, family £59.50–£65.50 (see our [ice skating guide](/articles/ice-skating-london/)).
+**[Hampton Court Palace](/articles/hampton-court-palace-guide/)** runs two separate things this year: **The Winter Palace**, a new indoor immersive walkthrough included in standard palace admission (£32–£35 adult), running **28 November 2026 – 3 January 2027**; and a **separate ice rink**, **20 November 2026 – 3 January 2027**, priced separately: £19.50 adult off-peak, £21.50 peak, family £59.50–£65.50 (see our [ice skating guide](/articles/ice-skating-london/)).
 
 **Chelsea Winter Village & Illuminations**, at the Royal Hospital Chelsea, is a genuine outdoor light trail — 1.5km, 45–75 minutes — running **25 November – 28 December 2026**. Adult tickets from £19 off-peak, rising to £30.95 at peak times.
 

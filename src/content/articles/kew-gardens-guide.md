@@ -253,6 +253,7 @@ Glasshouses close earlier than the gardens overall — 5pm through September 202
 - 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)** — more family days out, including which ones are free.
 - 🚇 **[Getting Around London: Transport Guide](/articles/getting-around-london-transport-guide/)** — how the Tube, Overground and contactless fares work.
 - 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — prices, the quieter afternoon slots, and the ticket that reaches the Crown Jewels before other visitors.
+- 👑 **[Hampton Court Palace Guide](/articles/hampton-court-palace-guide/)** — Henry VIII's palace, further upriver, reachable by boat from Kew in summer.
 
 ---
 

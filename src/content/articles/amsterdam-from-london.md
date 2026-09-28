@@ -172,5 +172,6 @@ All prices and times checked 27 September 2026.
 - 🇫🇷 **[Paris day trip](/articles/paris-day-trip/)** — the shorter Eurostar day trip, and how the border process and the hours compare.
 - 🍫 **[Bruges from London](/articles/bruges-day-trip/)** — a Eurostar to Brussels plus a separate Belgian train, and how that maths compares.
 - 🇧🇪 **[Brussels from London](/articles/brussels-day-trip/)** — the shortest of the Eurostar trips, if a full day abroad isn't what you're after.
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **[Edinburgh from London](/articles/edinburgh-day-trip/)** — a different train, the same verdict: the round trip eats 8 to 9 hours, and a night in the Old Town beats a same-day return.
 - 🚂 **[St Pancras hotels: where to stay in King's Cross](/articles/where-to-stay-kings-cross/)** — for the earliest trains, when checking in the night before beats a 5am alarm.
 - 🗺️ **[King's Cross area guide](/articles/kings-cross-area-guide/)** — what's around St Pancras if you arrive back with the evening still ahead of you.

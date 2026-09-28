@@ -249,6 +249,8 @@ All three are cheaper than doing it yourself only if you count the coach: Englis
 
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.
 - 🛁 **[Bath day trip](/articles/bath-day-trip/)** — the other half of the classic coach day, and how to do it by train instead.
+- ⛴️ **[Canterbury, Dover and Leeds Castle](/articles/canterbury-dover-day-trip/)** — the other trip where a coach beats the train for one stop, Leeds Castle, but not for the other two.
+- 🏖️ **[Brighton and the Seven Sisters](/articles/brighton-seven-sisters-day-trip/)** — a direct train most of the way, then a bus for the chalk cliffs a coach tour also covers well.
 - 🏰 **[Windsor from London](/articles/windsor-day-trip/)** — the easiest big day out, and the two days a week it is closed.
 - ⚡ **[Harry Potter Studio Tour](/articles/harry-potter-studio-tour/)** — the day trip where you genuinely cannot buy on the door.
 - 🏛️ **[Historic houses in London](/articles/historic-houses-london/)** — grand interiors without leaving the city.

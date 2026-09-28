@@ -102,6 +102,8 @@ Groups of ten or more get a further discount. Bookings are open at [hamptoncourt
 
 **Getting there:** Hampton Court station, on South Western Railway from Waterloo in about 35 minutes, is across the bridge from the palace gates.
 
+The palace itself, from the Tudor kitchens to the maze, is in our [Hampton Court Palace guide](/articles/hampton-court-palace-guide/).
+
 **The one thing that decides it:** it is the only rink here outside central London, so allow half a day. The rink ticket does not get you into the palace, whose own Christmas walkthrough, The Winter Palace, needs palace admission (see [Christmas in London](/articles/christmas-in-london/)). The site is **cashless**.
 
 ---

@@ -293,9 +293,11 @@ All prices checked 12 September 2026.
 ## Continue planning your day out
 
 - 🗿 **[Stonehenge from London](/articles/stonehenge-day-trip/)** — the trip most Bath coach tours are really selling, and which ones include the stones.
+- ⛴️ **[Canterbury, Dover and Leeds Castle](/articles/canterbury-dover-day-trip/)** — under an hour each way by train, unlike Bath, with the same coach-tour trade-offs for the one stop the train can't reach.
 - 🏰 **[Windsor from London](/articles/windsor-day-trip/)** — the shortest of the big day trips, and the one with a closed-on-Tuesdays problem.
 - 🐑 **[The Cotswolds from London](/articles/cotswolds-day-trip/)** — the northern end of the Cotswold Way, and which villages a train and a bus can actually reach.
 - 🎬 **[Bridgerton in London](/articles/bridgerton-london/)** — the Bath locations, the Assembly Rooms closure and the Bridgerton walking tours.
 - 🎓 **[Cambridge from London](/articles/cambridge-day-trip/)** — priced and timed the same way, with a cheaper walk-up fare.
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **[Edinburgh from London](/articles/edinburgh-day-trip/)** — the trip where the maths runs the other way: 4 hours-plus each way, and a night in the city beats a day trip.
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — the rules, the eVouchers, and why contactless disqualifies you.
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.

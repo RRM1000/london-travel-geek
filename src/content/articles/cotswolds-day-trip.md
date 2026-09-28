@@ -256,4 +256,5 @@ All prices and times checked 12 September 2026.
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.
 - ♨️ **[Bath from London](/articles/bath-day-trip/)** — the southern end of the Cotswold Way, and the right trip for Castle Combe.
 - 🪨 **[Stonehenge from London](/articles/stonehenge-day-trip/)** — the other one the coach tours bundle with the Cotswolds.
+- 🏖️ **[Brighton and the Seven Sisters](/articles/brighton-seven-sisters-day-trip/)** — another day where the last leg is a bus, not a train, once you're off the fast service.
 - 🚗 **[Car hire and driving in the UK](/articles/car-hire-driving-uk/)** — what hiring actually costs before you commit to the drive.

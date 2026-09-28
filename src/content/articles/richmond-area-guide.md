@@ -188,7 +188,7 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks �
 
 **Into the park.** **Richmond Gate** is the closest, up the hill from the town centre and about 20 minutes on foot. The **371 or 65 bus** saves the climb. Petersham Gate is the flatter approach.
 
-**By river.** Boats run upstream to Hampton Court in summer, and downstream towards Kew and Westminster — slow but scenic.
+**By river.** Boats run upstream to [Hampton Court](/articles/hampton-court-palace-guide/) in summer, and downstream towards Kew and Westminster — slow but scenic.
 
 ![The ten-storey Great Pagoda at Kew Gardens against a blue sky](../../assets/articles/richmond-area-guide/kew-pagoda.jpg)
 
