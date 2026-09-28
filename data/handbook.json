@@ -4,6 +4,7 @@
   "updated": "2026-09-27",
   "inProgress": [],
   "nextUp": [
+    "More GetYourGuide day trips with no guide yet: Warwick Castle and Stratford-upon-Avon, Blenheim Palace.",
     "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
     "Christmas season: November and December monthly guides, pantomimes, and Boxing Day and January sales. In November, swap the \"This season\" nav to the Christmas guides.",
     "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
@@ -25,6 +26,10 @@
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-28",
+      "what": "Where to stay sections on the Paris, Brussels, Bruges and Amsterdam guides (16 hotels through Hotels.com, since only Paris has a London-departure GetYourGuide trip). Four new guides: Canterbury, Dover and Leeds Castle (coach tours from £79-£105), Edinburgh (rail day trip with castle entry, £219; one night recommended, hotels through Hotels.com), Brighton and the Seven Sisters (tours £84-£109), and Hampton Court Palace. All linked from the day trips hub or their related guides."
+    },
     {
       "date": "2026-09-27",
       "what": "Eurostar guides after the Paris page earned a ~£50 GetYourGuide commission: Brussels day trip (seven in-city tours), Bruges (no London coach tour exists; the Any Belgian Station ticket ended in 2025, so two tickets), Amsterdam (4h each way, so it recommends a night). All four Eurostar guides now link each other and are linked from the day trips hub and both King's Cross guides; Paris was only linked from the hub before. Your photos added sparingly: Bruges (Minnewater, the Begijnhof, De Halve Maan), Brussels (the Atomium, Delirium Café), Amsterdam (the Anne Frank House); most canal and Markt shots were watermarked stock."
@@ -84,10 +89,6 @@
     {
       "date": "2026-09-23",
       "what": "What's On redesign with a Tomorrow filter; Skiddle affiliate switched on; London Box Office links; London music festivals 2027; a site review fixing counts, contradictions and lapsed dates across 69 pages; privacy page with an analytics opt-out; NFL guide halved."
-    },
-    {
-      "date": "2026-09-22",
-      "what": "Event listings: Ticketmaster, DICE and venue readers merged, refreshed daily on GitHub Actions, with a What's On page, an on-sale page, strips in area guides, the Christmas shows page and the Barbican guide. Five new food guides."
     }
   ],
   "postTypes": [
