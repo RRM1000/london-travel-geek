@@ -176,7 +176,7 @@ A handful of hotels sit on the ExCeL campus itself or across Royal Victoria Dock
 - **[DoubleTree by Hilton London – ExCeL](hotelscom:218082)** — the other hotel ExCeL's own site names as part of the campus.
 - **[Novotel London ExCeL](hotelscom:h992650)** — on Western Gateway, three minutes' walk from Custom House, with sofa-bed rooms for families.
 - **[Premier Inn London Docklands (ExCeL)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-docklands-excel.html)** — at 2 Festoon Way, Royal Victoria Dock, and pitched by Premier Inn itself as the pit-stop for ExCeL, City Airport or Canary Wharf.
-- **[Sunborn London](hotel:sunborn-london)** — a superyacht moored for good on the dock, with 133 rooms and five suites, every one facing the river or the dock.
+- **[Sunborn London](hotelscom:463416)** — a superyacht moored for good on the dock, with 133 rooms and five suites, every one facing the river or the dock.
 - **[Good Hotel London](hotel:good-hotel-london)** — a floating, social-enterprise hotel on the Western Gateway, under five minutes from Royal Victoria DLR and Custom House.
 
 Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the hotels by the entrance they're nearest, adds Canary Wharf and Woolwich one Elizabeth line stop away and the cheapest chains a few DLR stops out, and gives the last train back after an evening event.

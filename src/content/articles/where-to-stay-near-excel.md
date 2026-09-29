@@ -71,7 +71,7 @@ A former floating platform, refitted and towed across the North Sea, now moored 
 
 ### Sunborn London — a moored superyacht, every room on the water
 
-*About £160 · 133 rooms and 5 suites · Royal Victoria Dock, E16 1AA · Custom House · [sunbornhotels.com](hotel:sunborn-london)*
+*About £160 · 133 rooms and 5 suites · Royal Victoria Dock, E16 1AA · Custom House · [Hotels.com](hotelscom:463416)*
 
 A superyacht moored for good in Royal Victoria Dock, two minutes' walk from ExCeL's car park. Every room looks out on the river or the dock: a Yacht Classic room is 19 to 23 m², with a king-size bed or twin beds and a shower room, and a Yacht Executive room adds a private balcony or terrace. The Sundown Bar, looking across to Canary Wharf and The O2, is open to non-residents. The yacht has **no car park** (drivers use ExCeL's), check-out is 11:00, and at check-in it pre-authorises **£100 per person per night** on your card for extras, released after you leave.
 
@@ -149,7 +149,7 @@ A new-build tower by East India, and the cheapest hotel in our budget guide: **�
 
 ### Travelodge London ExCeL — £12 parking, one stop from Prince Regent
 
-*1016 Dockside Road, E16 2FQ · Royal Albert DLR 3 min · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/553/London-Excel-hotel)*
+*1016 Dockside Road, E16 2FQ · Royal Albert DLR 3 min · [Hotels.com](hotelscom:164163136)*
 
 On Dockside Road by Royal Albert, one DLR stop from Prince Regent. Every double has a king-size bed, there are family rooms, and the Bar Café serves an unlimited breakfast (07:00 to 10:00 on weekdays, to 11:00 at weekends) at which up to two children eat for £1 each per paying adult. Parking is **£12 for 24 hours**. **Wi-Fi is free for only 30 minutes a day**; a full 24 hours costs £3.50, which matters if you're working the show.
 
