@@ -198,7 +198,7 @@ The **20-metre indoor pool** and jacuzzi belong to The Peak Fitness Club and Spa
 
 Hotel guests get **complimentary access to Third Space**, the members' health club in the building, with an **18-metre pool**, a sauna and a steam room. **Children aged 5 to 17 can swim from 10am to noon and 3 to 5pm with an adult**; nobody under 18 may use the gym. Marylebone High Street is round the corner and Bond Street station a few minutes away. The one thing that decides a booking: you share the pool with Third Space's own members.
 
-## Good-value hotels with a pool
+## Pools away from the grand hotels
 
 ### The Dilly
 
