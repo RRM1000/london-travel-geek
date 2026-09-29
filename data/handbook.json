@@ -30,10 +30,13 @@
     "OK about $5 of Apify to price the Bloomsbury and family hotels guides.",
     "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
     "Exhibitions: London Games Festival, London Film and Comic Con and a regular London record or retro-gaming fair turned up nothing online. Know of any worth adding?",
-    "Section pages: London areas (48 guides) and Getting around (18) are still one flat most-read-first list. Want subheadings there too (e.g. by part of London; airports vs Tube vs buses)?",
-    "Say \"push\" whenever the committed work should go live."
+    "Section pages: London areas (48 guides) and Getting around (18) are still one flat most-read-first list. Want subheadings there too (e.g. by part of London; airports vs Tube vs buses)?"
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-29",
+      "what": "Pushed live: 36 commits, including the dinner and a show guide, the ExCeL, Greenwich and pool hotel guides with your photos, the GetYourGuide bestsellers and booking calendars, the Chiswick poster, Search Console scripts, and publish dates spread from 1 June."
+    },
     {
       "date": "2026-09-29",
       "what": "Publish dates spread from 1 June (your call): 101 guides moved (the 45 Google hasn't indexed, plus 56 from crowded September days), so no day has more than 3 guides: 60 in June, 47 in July, 73 in August, 80 in September. Updated dates unchanged."
