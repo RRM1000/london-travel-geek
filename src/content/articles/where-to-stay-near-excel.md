@@ -10,6 +10,8 @@ canonicalSite: london
 category: "Stay"
 tags: [where to stay, hotels, ExCeL London, Royal Docks, Custom House, Prince Regent, MCM Comic Con, exhibitions, conferences, Canary Wharf, Woolwich, Stratford]
 draft: false
+heroImage: "../../assets/articles/where-to-stay-near-excel/ibis-london-excel-docklands-dock.jpg"
+heroImageAlt: "Royal Victoria Dock from the footbridge, with the Sunborn yacht moored in front of the ibis and Novotel hotels and the dock cranes"
 faq:
   - q: "What is the closest hotel to ExCeL London?"
     a: "At the east end, Aloft London ExCeL, a minute's walk from the East Entrance and the ICC. At the west end, ibis London ExCeL Docklands, which ibis puts two minutes' walk from the venue, and the Novotel London ExCeL next to it on Western Gateway. The two ends are about 600 metres apart inside the building, so pick the hotel by the entrance your event uses."
@@ -55,11 +57,27 @@ Prices here follow ExCeL's calendar, so check [what's on at ExCeL](/articles/exh
 
 A waterside ibis on Western Gateway, two minutes' walk from ExCeL. The rooms are doubles and twins with ibis's own Sweet Bed, a power shower and a 43-inch TV; the Riverside Premium rooms face the dock. It has its own restaurant and bar. Across the five nights our [budget hotels guide](/articles/best-budget-hotels-london/) priced, it was **£76** on the October Sunday and **£185** on the October Saturday. Parking is **£30 for 24 hours**.
 
+<div class="photo-row">
+
+![A double room at ibis London ExCeL Docklands with a red headboard panel, a red carpet and a desk by the window](../../assets/articles/where-to-stay-near-excel/ibis-london-excel-docklands-room.jpg)
+
+![Royal Victoria Dock from the footbridge, with the Sunborn yacht moored in front of the ibis and Novotel hotels and the dock cranes](../../assets/articles/where-to-stay-near-excel/ibis-london-excel-docklands-dock.jpg)
+
+</div>
+
 ### Novotel London ExCeL — sofa beds for families, three minutes from Custom House
 
 *7 Western Gateway, E16 1AA · Royal Victoria DLR 2 min, Custom House 3 min · [Hotels.com](hotelscom:h992650)*
 
 Next to the ibis on Western Gateway. Upper Deck, its restaurant and bar, has a terrace over Royal Victoria Dock, and there's a gym, 12 meeting rooms and a car park. **For a family, book a room with a sofa bed**: the Standard and Superior rooms come with a queen bed plus a convertible sofa. Custom House, for the Elizabeth line, is three minutes' walk.
+
+<div class="photo-row">
+
+![A room at Novotel London ExCeL with a double bed, a grey sofa and a mural of the Greenwich and Canary Wharf skyline](../../assets/articles/where-to-stay-near-excel/novotel-london-excel-room.jpg)
+
+![The entrance of Novotel London ExCeL at night, under the lit Novotel sign](../../assets/articles/where-to-stay-near-excel/novotel-london-excel-exterior.jpg)
+
+</div>
 
 ### Good Hotel London — a floating hotel for two, with a roof bar
 
@@ -67,11 +85,27 @@ Next to the ibis on Western Gateway. Upper Deck, its restaurant and bar, has a t
 
 A former floating platform, refitted and towed across the North Sea, now moored at the west end of the dock with water on three sides. The rooms are Dutch-designed, with walk-in rain showers; the standard Good Room is 13 m², with no television or minibar. **Every room sleeps two**, so it suits couples and solo travellers, not families. The roof bar looks out over the dock, and the hotel's surplus profits go to a foundation. It was **£75** on the October Sunday and **£150 to £153** on three of the five nights.
 
+<div class="photo-row">
+
+![A double room at Good Hotel London with an oak headboard and a steel-framed window looking across Royal Victoria Dock](../../assets/articles/where-to-stay-near-excel/good-hotel-london-room.jpg)
+
+![An accessible shower room at Good Hotel London with a basin, grab rails and a fold-down shower seat](../../assets/articles/where-to-stay-near-excel/good-hotel-london-bathroom.jpg)
+
+</div>
+
 ### Sunborn London — a moored superyacht, every room on the water
 
 *About £160 · 133 rooms and 5 suites · Royal Victoria Dock, E16 1AA · Custom House · [Hotels.com](hotelscom:463416)*
 
 A superyacht moored for good in Royal Victoria Dock, two minutes' walk from ExCeL's car park. Every room looks out on the river or the dock: a Yacht Classic room is 19 to 23 m², with a king-size bed or twin beds and a shower room, and a Yacht Executive room adds a private balcony or terrace. The Sundown Bar, looking across to Canary Wharf and The O2, is open to non-residents. The yacht has **no car park** (drivers use ExCeL's), check-out is 11:00, and at check-in it pre-authorises **£100 per person per night** on your card for extras, released after you leave.
+
+<div class="photo-row">
+
+![A room on the Sunborn London with a double bed, a sofa and an oval porthole window](../../assets/articles/where-to-stay-near-excel/sunborn-london-room.jpg)
+
+![The Sunborn yacht moored in Royal Victoria Dock, with a dock crane beside it and Canary Wharf behind](../../assets/articles/where-to-stay-near-excel/sunborn-london-exterior.jpg)
+
+</div>
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-near-excel-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -85,11 +119,21 @@ Prince Regent is about 200 metres from the East Entrance, which is also the way 
 
 Marriott's design brand, at the east end of ExCeL, a minute's walk from the East Entrance and the ICC. It has an **indoor pool**, and some rooms sleep three. For a west-hall show it's a walk of about 600 metres through the building, or one DLR stop from Prince Regent to Custom House.
 
+<div class="photo-row">
+
+![A double room at Aloft London ExCeL with a wooden floor, a striped rug, a desk by the window and a wall-mounted television](../../assets/articles/where-to-stay-near-excel/aloft-london-excel-room.jpg)
+
+![The bathroom at Aloft London ExCeL, with two basins on a shared counter and a glass-walled walk-in shower](../../assets/articles/where-to-stay-near-excel/aloft-london-excel-bathroom.jpg)
+
+</div>
+
 ### Premier Inn London Docklands (ExCeL) — family rooms and a 24-hour bar
 
 *2 Festoon Way, Royal Victoria Dock, E16 1SJ · Prince Regent DLR 6 min · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-docklands-excel.html)*
 
 Premier Inn's hotel for ExCeL, with doubles, twins, family and accessible rooms, all air-conditioned. The Premier Plus doubles add a coffee machine, a mini-fridge and faster Wi-Fi. The Social, its restaurant and bar, is open 24 hours, which suits a late finish, and check-in is at a kiosk with the QR code from your booking.
+
+![A room at Premier Inn London Docklands (ExCeL) with a double bed, a single bed by the window and a desk](../../assets/articles/where-to-stay-near-excel/premier-inn-london-docklands-excel-room.jpg)
 
 ### Holiday Inn Express London – ExCeL — breakfast included, family rooms for four
 
@@ -98,6 +142,14 @@ Premier Inn's hotel for ExCeL, with doubles, twins, family and accessible rooms,
 **Breakfast is included for every guest**, a hot buffet, and the restaurant serves a 24-hour menu with tables on a terrace. The family rooms take two adults and two children under 12, on a double bed and a sofa bed. Royal Albert is one DLR stop from Prince Regent and two from Custom House. There's no pool, and parking is **£20 a day**.
 
 ## A train away: Canary Wharf, Woolwich, Stratford and Greenwich
+
+<div class="photo-row">
+
+![A double room at Holiday Inn Express London – ExCeL with a blue feature wall, a red chair and a kettle shelf](../../assets/articles/where-to-stay-near-excel/holiday-inn-express-london-excel-room.jpg)
+
+![The bathroom at Holiday Inn Express London – ExCeL, with a round basin, a wall-hung toilet and a shower behind black tiles](../../assets/articles/where-to-stay-near-excel/holiday-inn-express-london-excel-bathroom.jpg)
+
+</div>
 
 Canary Wharf and Woolwich are one Elizabeth line stop either side of Custom House, three and four minutes away. Stratford and the Greenwich Peninsula take a change.
 
@@ -113,11 +165,27 @@ The curved glass tower at the end of West India Quay, with floor-to-ceiling wind
 
 A 39-storey tower across South Dock from the estate, with an indoor pool and gym, and Bōkan, a restaurant, bar and roof terrace on the top three floors, open to non-residents. **For a family, the Studio Suite** is 40 m² with a king bed and sleeps four. The walk to the Elizabeth line is about 12 minutes, across the dock. Canary Wharf hotels are cheapest on a Sunday night; our [Canary Wharf area guide](/articles/canary-wharf-area-guide/) covers where to eat.
 
+<div class="photo-row">
+
+![A double room at Novotel London Canary Wharf with a leather bed, framed black-and-white photographs and a glass-walled bathroom](../../assets/articles/where-to-stay-near-excel/novotel-london-canary-wharf-room.jpg)
+
+![The indoor pool at Novotel London Canary Wharf, with a mural along the far wall and hanging swing chairs](../../assets/articles/where-to-stay-near-excel/novotel-london-canary-wharf-pool.jpg)
+
+</div>
+
 ### Premier Inn London Woolwich (Royal Arsenal) — four minutes from Custom House, free children's breakfasts
 
 *91 Beresford Street, SE18 6BG · Woolwich (Elizabeth line) 7 min, then 4 min to Custom House · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-woolwich-royal-arsenal.html)*
 
 Woolwich is the Elizabeth line's next stop east from Custom House, four minutes away, and the hotel is seven minutes' walk from the station. Up to two children eat breakfast free for each adult who orders one. The hotel has **no car park of its own**: the nearest is Powis Street car park (SE18 6JL), 7 to 10 minutes' walk, which charges £3.10 an hour from 08:00 to 18:30 Monday to Saturday and nothing overnight or on Sundays. The last train back from Custom House is **00:20**, or **23:05** on a Sunday.
+
+<div class="photo-row">
+
+![A double room at Premier Inn London Woolwich (Royal Arsenal) with a purple bed runner, a padded headboard and an armchair](../../assets/articles/where-to-stay-near-excel/premier-inn-london-woolwich-royal-arsenal-room.jpg)
+
+![An accessible bathroom at Premier Inn London Woolwich (Royal Arsenal), with grab rails, a fold-down shower seat and a wet-room shower](../../assets/articles/where-to-stay-near-excel/premier-inn-london-woolwich-royal-arsenal-bathroom.jpg)
+
+</div>
 
 ### Moxy London Stratford — a queen double from £99 on a Sunday
 
@@ -131,11 +199,21 @@ Marriott's Moxy brand, three minutes' walk from Stratford station. The cheapest 
 
 Inside the Westfield Stratford City development, with family rooms in which two children under 16 stay free, and The Social, its restaurant and bar, open 24 hours. It was **£71** on the October Sunday and **£186 and £203** on the October and December Saturdays. There's no hotel parking; Westfield's car park charges £25 for 24 hours.
 
+![A double room at Premier Inn London Stratford with a grey headboard, an armchair and a window onto tower blocks](../../assets/articles/where-to-stay-near-excel/premier-inn-london-stratford-room.jpg)
+
 ### Holiday Inn Express London – Greenwich — breakfast included, and the cable car by day
 
 *About £95 · Bugsby's Way, Greenwich Peninsula · North Greenwich 15 min · [Hotels.com](hotel:holiday-inn-express-greenwich-peninsula)*
 
 On the peninsula south of The O2, with **breakfast included**, family rooms and parking at £35 a day. By day, the cable car crosses from the peninsula to the Royal Docks, a short walk from ExCeL's west end, in about ten minutes. It closes at **21:00** most nights, **22:00** on Friday and **23:00** on Saturday, so after an evening event it's the DLR to Canning Town, one Jubilee stop to North Greenwich and the walk. It suits a trip that includes a show at The O2: our [O2 hotel guide](/articles/where-to-stay-near-the-o2/) compares the peninsula with the other bases, and our [Greenwich hotel guide](/articles/where-to-stay-greenwich/) covers the town and the Cutty Sark side.
+
+<div class="photo-row">
+
+![A twin room at Holiday Inn Express London – Greenwich with a blue feature wall and red and grey bed runners](../../assets/articles/where-to-stay-near-excel/holiday-inn-express-london-greenwich-room.jpg)
+
+![The bathroom at Holiday Inn Express London – Greenwich, with a corner basin, a towel rail and a glass shower](../../assets/articles/where-to-stay-near-excel/holiday-inn-express-london-greenwich-bathroom.jpg)
+
+</div>
 
 For the centre of town, the Elizabeth line runs direct from Custom House to Liverpool Street in **10 minutes**, Tottenham Court Road in **17** and Paddington in **23**. Our guides to the [City of London](/articles/where-to-stay-city-of-london/), [Bloomsbury](/articles/where-to-stay-bloomsbury/) and [Paddington](/articles/where-to-stay-paddington/) cover hotels near those stations. The catch is Sunday, when the last train west leaves Custom House at 22:35.
 
@@ -146,6 +224,14 @@ For the centre of town, the Elizabeth line runs direct from Custom House to Live
 *£34.99–£111.99 on our five sampled nights · 1 Oregano Drive, E14 2AE · East India DLR 6 min, then 6 min to Custom House · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel)*
 
 A new-build tower by East India, and the cheapest hotel in our budget guide: **£34.99** on the October Sunday, **£81.99 to £111.99** on the Saturdays. East India is three DLR stops west of Custom House on the line through ExCeL, so there's no change. Parking is **£13 for 24 hours**.
+
+<div class="photo-row">
+
+![A double room at Travelodge London Docklands Central with a blue feature wall, a large abstract painting and a desk by the window](../../assets/articles/where-to-stay-near-excel/travelodge-london-docklands-central-room.jpg)
+
+![The shower room at Travelodge London Docklands Central, with a wall-hung basin and a shower behind a blue curtain](../../assets/articles/where-to-stay-near-excel/travelodge-london-docklands-central-bathroom.jpg)
+
+</div>
 
 ### Travelodge London ExCeL — £12 parking, one stop from Prince Regent
 
@@ -158,6 +244,14 @@ On Dockside Road by Royal Albert, one DLR stop from Prince Regent. Every double 
 *£84–£168 on our five sampled nights · 8 Silvertown Way, E16 1ED · Canning Town, then DLR 4 min to Custom House · [Hotels.com](hotelscom:631170048)*
 
 196 air-conditioned rooms opposite Canning Town station, with a café-bar, Chill #08. Canning Town is two DLR stops from Custom House and a Jubilee line interchange, so it also works for The O2, one stop away. It was **£84** on the February Wednesday and **£153 and £168** on the October and December Saturdays. If you miss the last DLR, the N551 night bus runs from Custom House to Canning Town bus station.
+
+<div class="photo-row">
+
+![A double room at ibis London Canning Town with a rope-textured headboard, a desk by the window and a wall-mounted television](../../assets/articles/where-to-stay-near-excel/ibis-london-canning-town-room.jpg)
+
+![The café-bar at ibis London Canning Town, with menu boards, bar stools and long wooden tables](../../assets/articles/where-to-stay-near-excel/ibis-london-canning-town-bar.jpg)
+
+</div>
 
 ## Getting back after an evening event
 

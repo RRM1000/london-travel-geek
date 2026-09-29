@@ -10,6 +10,8 @@ canonicalSite: london
 category: "Stay"
 tags: [where to stay, hotels, swimming pool, spa, family, planning]
 draft: false
+heroImage: "../../assets/articles/hotels-with-pool-london/the-berkeley-pool.jpg"
+heroImageAlt: "The rooftop pool at The Berkeley, with striped loungers along one side and treetops beyond the glass balustrade"
 faq:
   - q: "Which London hotels have a rooftop pool?"
     a: "The Berkeley in Knightsbridge has a heated open-air rooftop pool for hotel guests, open in spring and summer only. art'otel at Battersea Power Station has a heated rooftop infinity pool on the 16th floor, open all year. Virgin Hotels London-Shoreditch has a year-round rooftop pool on level 7, heated in winter. The Ned's rooftop pool belongs to its members' club. Shangri-La's Sky Pool is on level 52 of The Shard."
@@ -68,11 +70,15 @@ A hotel that lists a pool can mean a 25-metre lane under Knightsbridge, a warm v
 
 The pool is on the roof, heated and open to the sky, looking over the red-brick rooftops of Belgravia to Hyde Park. The hotel's own pool page says it is **exclusively for hotel guests** and sells no day pass, and that it **operates seasonally during spring and summer**. The Berkeley calls it a favourite for sunny family days, and publishes no separate children's hours. A rooftop bar opens in the same months, bookable by outside guests. The hotel is a Maybourne hotel, sister to Claridge's and The Connaught, a short walk from Hyde Park Corner. The one thing that decides a booking: from autumn to early spring there is no rooftop swim, so book around the dates, not the photos.
 
+![The rooftop pool at The Berkeley, with striped loungers along one side and treetops beyond the glass balustrade](../../assets/articles/hotels-with-pool-london/the-berkeley-pool.jpg)
+
 ### art'otel London Battersea Power Station
 
 *Battersea · Station: Battersea Power Station · Heated rooftop infinity pool, all year · About £320 a night · Cited by 12 sources · [Hotels.com](hotel:artotel-battersea-power-station)*
 
 The heated infinity pool is on the 16th floor, and you can swim to the edge and sit face to face with the power station's chimneys. It is **open all year**, for hotel guests only, **from 6am to 11pm**, with loungers on a first-come basis. **Under-16s swim from 6am to noon** only. The wellness floor adds a sauna, a steam room and three treatment rooms, and aqua aerobics runs on the roof on Mondays and Tuesdays. The hotel warns the pool can close for private events. The one thing that decides a booking: with children, the afternoon is adults' time, so plan the swim before lunch.
+
+![The rooftop infinity pool at art'otel London Battersea Power Station, with the power station's chimneys beyond](../../assets/articles/hotels-with-pool-london/artotel-battersea-power-station-pool.jpg)
 
 ### Virgin Hotels London-Shoreditch
 
@@ -80,17 +86,23 @@ The heated infinity pool is on the 16th floor, and you can swim to the edge and 
 
 The rooftop pool on level 7 is **open all year and heated through the winter**, run by Blue Marlin Ibiza with the restaurant beside it, and it is shared between hotel guests and members of the 45 London club. There are **no reservations**: it is first come, first served, and the hotel suggests arriving early when it is busy. **Children and anyone 18 and under swim from 7am to 3pm**; from 3pm to 9pm the pool is **adults aged 21 and over** only. The Sauce, which lists every central hotel pool, notes it is only four feet deep. The building was The Curtain, then Mondrian Shoreditch, before Virgin took it over in 2024. The one thing that decides a booking: it is a pool for a drink in the sun, not for lengths.
 
+![The rooftop pool at Virgin Hotels London-Shoreditch at dusk, under festoon lights, with the City towers beyond](../../assets/articles/hotels-with-pool-london/virgin-hotels-shoreditch-pool.jpg)
+
 ### Shangri-La The Shard
 
 *London Bridge · Station: London Bridge · Infinity Sky Pool on level 52 · About £550 a night · Cited by 16 sources · [Hotels.com](hotel:shangri-la-the-shard)*
 
 The Sky Pool is on **level 52 of The Shard**, the highest swimming pool in London and Western Europe by the hotel's own account, with a sauna and a 24-hour gym alongside. The hotel occupies 18 floors from level 34 up. Swimming is **free for hotel guests but needs a booked slot**, which you can request when you book the room or on arrival. **Adults swim from 6am to 6pm; children from 9 to 11am and 3 to 5pm.** On Wednesday to Saturday evenings the pool area becomes part of GŎNG, the bar on the same floor. The one thing that decides a booking: swimming ends at 6pm, so request a slot with the room.
 
+![The Sky Pool at Shangri-La The Shard, with a curved ceiling feature and windows over the city](../../assets/articles/hotels-with-pool-london/shangri-la-the-shard-pool.jpg)
+
 ### The Ned
 
 *City of London · Station: Bank · Rooftop club pool and basement spa pool · About £400 a night · Cited by 13 sources · [Hotels.com](hotel:the-ned)*
 
 The Ned has two pools, and the famous one is not simply the hotel's. The heated rooftop pool, overlooking the skyline beside two converted domes, is part of **Ned's Club, for members and their guests over 18**; the hotel's FAQ lets hotel guests bring children up **between 7am and 10am daily**. The basement pool sits in the spa, which is **always adults only** (18 and over), and **hotel guests who book direct get complimentary day spa access** while they stay. Above it are the old banking hall and its restaurants, 250 bedrooms and every room with a double bed. The one thing that decides a booking: book on The Ned's own site if the spa pool matters, and don't count on the rooftop.
+
+![The basement spa pool at The Ned, with green marble columns and a mirrored sphere at the far end](../../assets/articles/hotels-with-pool-london/the-ned-pool.jpg)
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hotels-with-pool-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -102,11 +114,15 @@ The Ned has two pools, and the famous one is not simply the hotel's. The heated 
 
 The 18-metre lap pool is hidden under the hotel and cleaned by a mineral system rather than chlorine, with a steam room and sauna beside it. It opens 6.30am to 9pm on weekdays and 8am to 8pm at weekends. **Children swim on weekdays from 9 to 11.30am and 2 to 5.30pm, and all day from 9am to 5.30pm at weekends and bank holidays.** Health club members share it. Covent Garden, the Strand theatres and Somerset House are a few minutes' walk. The one thing that decides a booking: the weekday children's session breaks between 11.30am and 2pm, which suits a morning swim and an afternoon out.
 
+![The underground pool at One Aldwych, lit blue, with loungers along the far side](../../assets/articles/hotels-with-pool-london/one-aldwych-pool.jpg)
+
 ### The Langham
 
 *Marylebone · Station: Oxford Circus · 16m pool in a former bank vault · About £550 a night · Cited by 9 sources · [Hotels.com](hotel:the-langham-london)*
 
 The Langham's 16-metre indoor pool was once a bank vault, and the steam rooms, sauna and contemplation lounge of its Chuan Body + Soul spa sit beside it. It is open **7am to 9pm**. **Under-16s are welcome from 8am to noon and 4 to 6pm with an adult**, but not in the steam rooms or sauna. The hotel opened in 1865 on Portland Place, a few minutes' walk from Oxford Circus and Regent's Park. The one thing that decides a booking: there is no children's swim between noon and 4pm, so the pool fits a morning or a late afternoon.
+
+![The indoor pool at The Langham, along a slate-clad wall, with a mural at the far end](../../assets/articles/hotels-with-pool-london/the-langham-pool.jpg)
 
 ### The Savoy
 
@@ -114,11 +130,15 @@ The Langham's 16-metre indoor pool was once a bank vault, and the steam rooms, s
 
 The heated atrium pool is lit through a glass roof and has a jet-stream to swim against, with a sauna and steam room alongside. **Access is included for every in-house guest**, and for outside guests who have booked a treatment. It opens **7am to 9pm on weekdays and 8am to 8pm at weekends**, and **children swim from 9am to 5pm every day**, weekends included. The Savoy opened in 1889 on the Strand, between Covent Garden and the river, as the first purpose-built deluxe hotel in Britain. The one thing that decides a booking: children can swim through the whole working day, seven days a week.
 
+![The atrium pool at The Savoy, ringed by white columns and red-framed windows under skylights](../../assets/articles/hotels-with-pool-london/the-savoy-pool.jpg)
+
 ### London Marriott Hotel County Hall
 
 *South Bank · Station: Waterloo · 25m heated indoor pool · Cited by 6 sources · [Hotels.com](hotel:marriott-county-hall)*
 
 The pool is in **The Club at County Hall**, the hotel's own health club: a **25-metre heated indoor pool** with a gym, **free to hotel guests** and open **7am to 9pm**. The club also sells memberships, including a family one, so you share the water with local members. **There is no lifeguard**: children under 16 must be supervised by an adult, and 16 to 18-year-olds can swim alone but cannot supervise younger ones. The hotel is in the old County Hall beside the London Eye, across the river from Big Ben. The one thing that decides a booking: bring a grown-up to the poolside for every child under 16.
+
+![The indoor pool at London Marriott Hotel County Hall, under a skylit ceiling with potted palms and loungers](../../assets/articles/hotels-with-pool-london/london-marriott-hotel-county-hall-pool.jpg)
 
 ### Park Plaza Westminster Bridge
 
@@ -154,11 +174,15 @@ The **25-metre pool** is lined with colonnades, loungers and cabanas, clad in th
 
 The **25-metre heated pool** fills an underground chamber lined with mosaic landscapes, under light panels that change through the day to imitate sunlight, and it has underwater speakers, poolside loungers and all-day poolside dining. It is open to **hotel guests from 7am to 9pm**. The hotel has 190 rooms by Peter Marino, many looking over Hyde Park Corner and Wellington Arch. The one thing that decides a booking: the price, at about £1,100 a night, and the hotel publishes no children's pool times.
 
+![The underground pool at The Peninsula London, under a coffered ceiling of light panels, with mosaic landscapes on the walls](../../assets/articles/hotels-with-pool-london/the-peninsula-london-pool.jpg)
+
 ### Mandarin Oriental Mayfair
 
 *Mayfair · Station: Oxford Circus · 25m heated indoor pool · About £850 a night · Cited by 2 sources · [Hotels.com](hotel:mandarin-oriental-mayfair)*
 
 The **25-metre heated indoor pool** comes with vitality pools, a sauna, a steam room and an experience shower, and **in-house guests use the pool, sauna, steam room and fitness centre free**. The hotel is on Hanover Square, a few minutes from Oxford Circus and Bond Street. **The minimum age for the spa and fitness centre is 18 without written consent from a parent or guardian**, and the hotel asks families to contact the spa about children. The one thing that decides a booking: with children, arrange consent before the trip, not at the poolside.
+
+![The indoor pool at Mandarin Oriental Mayfair, with a row of loungers and dark walls lit by small lights](../../assets/articles/hotels-with-pool-london/mandarin-oriental-mayfair-pool.jpg)
 
 ### Mandarin Oriental Hyde Park
 
@@ -172,6 +196,8 @@ The **17-metre twin-lane pool** is stainless steel, with a lap timer, for **hote
 
 The **18.5-metre temperature-controlled infinity pool** looks out over the City from the hotel's Sensory Spa and Wellbeing floor, with saunas and steam rooms in the changing rooms. It opens **6.30am to 9pm**. **Children up to 16 swim on weekdays from 9 to 11am and 3 to 5pm, and at weekends from 7 to 9am and 4 to 6pm**, and there is a spa menu for children aged 5 to 16. In a City A.M. video in June 2026, Ailsa Anderson of Eastern City picked it as her hotel pool. The one thing that decides a booking: the weekend children's sessions start at 7am.
 
+![The pool at Pan Pacific London, with floor-to-ceiling windows over the City's rooftops](../../assets/articles/hotels-with-pool-london/pan-pacific-london-pool.jpg)
+
 ### Hotel Café Royal
 
 *Soho · Station: Piccadilly Circus · 18m lap pool · About £600 a night · Cited by 4 sources · [Hotels.com](hotel:hotel-cafe-royal)*
@@ -184,17 +210,23 @@ Akasha Spa, under Regent Street, has an **18-metre lap pool** and a jacuzzi, a m
 
 The spa's indoor swimming pool and vitality pool sit inside a restored landmark building on Trinity Square, with a hammam, sauna and steam rooms. Hotel guests use the facilities from **6.30am to 8pm**, and **children's pool hours are 6.30 to 11am and 2 to 6pm**. Two guests can hire the whole pool privately from 8 to 10pm, with champagne. The Tower of London is across the road. The one thing that decides a booking: children can swim through most of the morning and afternoon, but the spa closes at 8pm.
 
+![The spa pool at Four Seasons Hotel London at Tower Bridge, between pillars decorated with tree designs](../../assets/articles/hotels-with-pool-london/four-seasons-tower-bridge-pool.jpg)
+
 ### Haymarket Hotel
 
 *West End · Station: Piccadilly Circus · 18m underground pool · Cited by 5 sources · [Hotels.com](hotelscom:254265)*
 
 The **18-metre pool** is underground, overlooked by a pewter bar, and **in-house guests have full access** to it. It is a Firmdale hotel, decorated by Kit Kemp, next door to the Theatre Royal Haymarket and five minutes from Trafalgar Square and Leicester Square. The pool doubles as one of the hotel's event spaces, and outside guests can book a swim with lunch in the restaurant upstairs. The one thing that decides a booking: it suits a swim between a matinee and dinner, with the theatre next door.
 
+![The underground pool at Haymarket Hotel, under a ceiling of fibre-optic lights](../../assets/articles/hotels-with-pool-london/haymarket-hotel-pool.jpg)
+
 ### The Carlton Tower Jumeirah
 
 *Knightsbridge · Station: Knightsbridge · 20m indoor pool · Cited by 4 sources · [Hotels.com](hotel:jumeirah-carlton-tower)*
 
 The **20-metre indoor pool** and jacuzzi belong to The Peak Fitness Club and Spa, with a Himalayan salt sauna, a steam room and five treatment rooms. The club serves hotel guests and outside members together. The hotel is on Cadogan Place, between Sloane Street and Knightsbridge. The one thing that decides a booking: the pool is shared with a members' club, so expect company at the usual gym hours.
+
+![The indoor pool at The Carlton Tower Jumeirah, under a sloping glass roof, with loungers along one side](../../assets/articles/hotels-with-pool-london/the-carlton-tower-pool.jpg)
 
 ### The Marylebone
 
@@ -210,11 +242,15 @@ Hotel guests get **complimentary access to Third Space**, the members' health cl
 
 The Health Club under The Dilly has **an indoor pool 11.5 by 12.75 metres and 1.5 metres deep**, with arches over the water and a steam room, and it is **complimentary for hotel guests**, alongside a gym and two squash courts. Local members share it, and swimming lessons are sold on top. The hotel is on Piccadilly itself, a short walk from Piccadilly Circus and Green Park. The one thing that decides a booking: the pool is almost square, which suits play and a slow swim more than lengths.
 
+![The indoor pool at The Dilly, lit blue, with arched windows on the wall beyond](../../assets/articles/hotels-with-pool-london/the-dilly-pool.jpg)
+
 ### Leonardo Royal London St Paul's
 
 *City of London · Station: St Paul's · 16.6m heated indoor pool · Cited by 3 sources · [Hotels.com](hotelscom:275564)*
 
 The **16.6-metre heated indoor pool** is in Rena Spa, with a spa pool, a steam room and a sauna, and **guests use the facilities until check-out**. It opens 6.30am to 10pm on weekdays, 7am to 10pm on Saturdays and 7am to 9pm on Sundays. **Children swim on weekdays from 9.30 to 11.30am, 2.30 to 4.30pm and 8 to 10pm, and at any time at weekends.** A Suffolk Mum notes quadruple rooms for a family of four. The one thing that decides a booking: at weekends there are no children's limits at all.
+
+![The indoor pool at Leonardo Royal London St Paul's, with tiled columns along both sides and palms in planters](../../assets/articles/hotels-with-pool-london/leonardo-royal-st-pauls-pool.jpg)
 
 ### Novotel London Blackfriars
 
@@ -222,11 +258,15 @@ The **16.6-metre heated indoor pool** is in Rena Spa, with a spa pool, a steam r
 
 The **indoor heated pool is 1.2 metres deep and 12 metres wide**, with a whirlpool jet and a combined sauna and steam room called a saunarium. The hotel recommends **booking an hour's slot in advance**. It is on Blackfriars Road near Southwark station, a walk from Tate Modern, the South Bank and, over Blackfriars Bridge, St Paul's. The one thing that decides a booking: the pool runs in hour slots, so book yours when you book the room.
 
+![The indoor pool at Novotel London Blackfriars, with a coral-reef mural along one wall](../../assets/articles/hotels-with-pool-london/novotel-london-blackfriars-pool.jpg)
+
 ### Town Hall Hotel
 
 *Bethnal Green · Station: Bethnal Green · 14m heated pool · About £220 a night · Cited by 2 sources · [Hotels.com](hotel:town-hall-hotel)*
 
 The **14-metre heated pool** has skylights and loungers and is **open to guests every day**, beside a gym with Peloton bikes. The hotel is a 1910 town hall with its council chamber and marble staircases intact, and some rooms are apartments with kitchens. Dogs are welcome but kept away from the pool. The Central line from Bethnal Green runs direct to Liverpool Street and the West End. The one thing that decides a booking: it is in Bethnal Green, so the West End sights are a Tube ride, not a walk.
+
+![The indoor pool at Town Hall Hotel, under a long skylight, with brass handrails at the near end](../../assets/articles/hotels-with-pool-london/town-hall-hotel-pool.jpg)
 
 ## On the pool lists, but not a swimming pool
 
@@ -235,6 +275,8 @@ The **14-metre heated pool** has skylights and loungers and is **open to guests 
 *Whitehall · Station: Embankment · Two vitality pools and a hydrotherapy pool · Cited by 11 sources · [Hotels.com](hotel:corinthia-london)*
 
 Corinthia is on 11 of the pool lists, and its spa, Biome, has **two vitality pools and a hydrotherapy pool** on a thermal floor, with an amphitheatre sauna, a steam room, an ice fountain and heated marble loungers. The spa's own description is "a gentle swim". It is free to hotel guests at any hour, and **family swimming is 8 to 10am and 4 to 5pm**. The one thing that decides a booking: it is a warm pool to relax in, not a pool for lengths.
+
+![A pool in the spa at Corinthia London, lined with black marble and lit from below](../../assets/articles/hotels-with-pool-london/corinthia-london-pool.jpg)
 
 ### The Landmark London
 

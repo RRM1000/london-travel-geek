@@ -135,13 +135,7 @@ Stratford is the Jubilee's eastern terminus, three stops and seven to nine minut
 
 **[Premier Inn London Stratford](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-stratford.html)** is at 9 International Square inside Westfield, E20 1EE, five minutes from the station. It was a typical **£134**, from **£71** on an October Sunday to **£203** on a December Saturday. The Social, its bar and restaurant, is open 24 hours a day. There's no hotel parking; Westfield's car park charges £25 for 24 hours.
 
-<div class="photo-row">
-
 ![A double room at Premier Inn London Stratford with a button-tufted duck-egg headboard, black wall lamps, a grey wing chair with a plum cushion, a curved desk and a window looking out to tower blocks](../../assets/articles/where-to-stay-near-the-o2/premier-inn-stratford-room.jpg)
-
-![The bathroom at Premier Inn London Stratford: a walk-in shower behind a single glass screen with a rainfall head, a plum glass wall panel, and a white basin unit under a wide mirror](../../assets/articles/where-to-stay-near-the-o2/premier-inn-stratford-bathroom.jpg)
-
-</div>
 
 ### Greenwich town: the historic base, and bus only
 
