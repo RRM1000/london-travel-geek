@@ -257,7 +257,7 @@ Tim and Kit Kemp's first hotel, in a Regency building facing the garden square t
 
 Open since 1 July 1899, opposite Marylebone station. The Winter Garden is a glass-roofed atrium planted with palm trees, home to the restaurant and an afternoon tea served beneath the palms.
 
-**For families it has two things**: an Executive Family Room with two double beds and a lounge area, plus family suites and studios, and a **vitality pool, heated to 34°C, in the spa, with children's hours of 9 to 11am and 3 to 5pm**. Cots are free for under-twos. Marylebone Road outside is four lanes of traffic. At weekends breakfast is for residents only. Our [family hotels guide](/articles/best-family-hotels-london/) compares it with the other family hotels in London.
+**For families it has two things**: an Executive Family Room with two double beds and a lounge area, plus family suites and studios, and a **vitality pool, heated to 34°C, in the spa, with children's hours of 9 to 11am and 3 to 5pm**. Cots are free for under-twos. Marylebone Road outside is four lanes of traffic. At weekends breakfast is for residents only. Our [family hotels guide](/articles/best-family-hotels-london/) compares it with the other family hotels in London, and for a pool to swim lengths in, [London hotels with a pool](/articles/hotels-with-pool-london/) has The Langham's 16-metre pool and The Marylebone's 18-metre one nearby.
 
 <div class="photo-row">
 

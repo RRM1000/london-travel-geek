@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=155127135"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-09-25
-updatedAt: 2026-09-27
+updatedAt: 2026-09-29
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -24,7 +24,7 @@ faq:
   - q: "Which station should I stay near: Waterloo, Southwark or London Bridge?"
     a: "Waterloo for the most lines: Jubilee, Northern, Bakerloo and Waterloo & City, plus trains to south-west London and Windsor. London Bridge for Gatwick and St Pancras, both direct on Thameslink. Southwark, in between, is Jubilee only but puts Bankside and Tate Modern five minutes away. All three are on the Jubilee line, which runs through to Wembley Park and North Greenwich for The O2."
   - q: "Which South Bank hotels have a swimming pool?"
-    a: "Park Plaza Westminster Bridge has a 15-metre indoor pool for residents, booked in slots between 7am and 9pm. Hilton London Bankside has a heated indoor pool. Guests at the London Marriott County Hall get free use of the 25-metre pool and gym at The Club at County Hall, in the same building, 7am to 9pm."
+    a: "Park Plaza Westminster Bridge has a 15-metre indoor pool for residents, open 8am to 8pm, with sessions booked once you have arrived. Hilton London Bankside has a heated indoor pool. Guests at the London Marriott County Hall get free use of the 25-metre pool and gym at The Club at County Hall, in the same building, 7am to 9pm."
   - q: "Which South Bank hotel rooms have a river view?"
     a: "At Sea Containers London, only the Riverview grades face the Thames: Standard rooms carry no view promise and Superior rooms look over the skyline. The Marriott County Hall sells Executive Family Rooms with Thames views and balcony rooms facing Big Ben, and Park Plaza Westminster Bridge has a Studio Room with a London Eye view. Book the named view grade, not the building."
 ---
@@ -81,7 +81,7 @@ Opposite the Houses of Parliament at the south end of Westminster Bridge, with 1
 
 *A room at Park Plaza Westminster Bridge.*
 
-The **15-metre indoor pool** is for residents and spa guests only and works on a booking system, open 7am to 9pm. There is also a sauna, steam room, a 24-hour gym (over-16s) and the Mandara Spa. Breakfast is £25 for adults and free for children under 11. Check-out is noon, dogs are £25 a night, and parking is from £65 a day, first come first served.
+The **15-metre indoor pool** is for residents and spa guests only and works on a booking system, open 8am to 8pm for adults and children, with sessions booked only once you have arrived. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) compares it with County Hall's 25-metre pool. There is also a sauna, steam room, a 24-hour gym (over-16s) and the Mandara Spa. Breakfast is £25 for adults and free for children under 11. Check-out is noon, dogs are £25 a night, and parking is from £65 a day, first come first served.
 
 ### Premier Inn London County Hall — the County Hall address at chain prices
 

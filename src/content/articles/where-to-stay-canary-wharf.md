@@ -118,7 +118,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 *141 rooms and suites · 46 Westferry Circus, E14 8RS · Heron Quays DLR 8 min, Jubilee 11 min*
 
-**[Canary Riverside Plaza](hotelscom:h519049)** is the riverside hotel built as the Four Seasons Canary Wharf, now part of IHG's Vignette Collection. Rooms start at 37 m², each with a deep bath and a separate walk-in shower. **Which way the room faces is the thing to book on**: Standard rooms look over Canary Wharf, Premium rooms over the Thames. Guests use the adjoining health club and spa, which has an indoor pool, and the restaurant, Quadrato, is Italian, with a terrace and an afternoon tea. Interconnecting rooms, extra beds and cots are available for families. Canary Wharf Pier is next door: the Uber Boat takes 8 to 13 minutes to Greenwich and about 40 to the London Eye.
+**[Canary Riverside Plaza](hotelscom:h519049)** is the riverside hotel built as the Four Seasons Canary Wharf, now part of IHG's Vignette Collection. Rooms start at 37 m², each with a deep bath and a separate walk-in shower. **Which way the room faces is the thing to book on**: Standard rooms look over Canary Wharf, Premium rooms over the Thames. Guests use the adjoining health club and spa free, with a 20-metre infinity lap pool that under-16s can use from 8.30 to 10.30am (our [London hotels with a pool](/articles/hotels-with-pool-london/) guide has the hours), and the restaurant, Quadrato, is Italian, with a terrace and an afternoon tea. Interconnecting rooms, extra beds and cots are available for families. Canary Wharf Pier is next door: the Uber Boat takes 8 to 13 minutes to Greenwich and about 40 to the London Eye.
 
 <div class="photo-row">
 

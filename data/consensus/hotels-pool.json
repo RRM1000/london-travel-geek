@@ -1,0 +1,678 @@
+{
+  "cuisine": "hotels-pool",
+  "note": "Collected 2026-09-29 for src/content/articles/hotels-with-pool-london.md. SERP-first: Bing HTML for 'hotels with pool London' (first query only - Bing then degraded to one-word matching), then Yahoo (Bing-backed, via curl) for 22 reader queries: the lead phrases, rooftop, outdoor, family/kids, cheap/affordable, spa, Reddit, Mumsnet, YouTube. Brave returned 429 and DuckDuckGo html/lite returned a 202 bot challenge throughout, so neither contributed. Booking engines (Booking.com, Tripadvisor, Hotels.com, lastminute, Expedia, Hotwire, HotelsCombined, LateRooms) and brand pages (Marriott, IHG) filled much of every SERP and are refused by the hotel-corpus rule. Every source below is one domain; build-evidence counts domains, so Time Out's two lists and DesignMyNight's two lists count once each.",
+  "recorded": "2026-09-29",
+  "sources": [
+    {
+      "name": "Time Out - London's best hotels with pools",
+      "url": "https://www.timeout.com/london/hotels/londons-best-hotels-with-pools",
+      "scope": "hotels-pool",
+      "names": [
+        "Aloft London ExCeL",
+        "The Berkeley",
+        "Bulgari Hotel London",
+        "Corinthia London",
+        "Haymarket Hotel",
+        "London Marriott Hotel County Hall",
+        "St Pancras London, Autograph Collection",
+        "Shangri-La The Shard",
+        "Shoreditch House",
+        "Canary Riverside Plaza Hotel"
+      ],
+      "quotes": {
+        "Shoreditch House": "Listed as 'Shoreditch Rooms' - the bedrooms attached to Soho House's Shoreditch House, whose guests use the club's rooftop pool.",
+        "St Pancras London, Autograph Collection": "Listed as 'St Pancras Renaissance', the hotel's name before its June 2025 rebrand."
+      },
+      "ranked": false,
+      "note": "Numbered 1-10 but ordered close to alphabetically (Aloft, Berkeley, Bulgari, Corinthia, Haymarket...) - an unordered list, so no ranks recorded."
+    },
+    {
+      "name": "Time Out - The best hotels with rooftop pools in London",
+      "url": "https://www.timeout.com/london/hotels/best-hotels-with-rooftop-pools",
+      "scope": "hotels-pool",
+      "names": [
+        "The Berkeley",
+        "art'otel London Battersea Power Station",
+        "Virgin Hotels London-Shoreditch",
+        "The Ned",
+        "White City House"
+      ],
+      "quotes": {
+        "White City House": "Listed as 'Soho House White City'.",
+        "Virgin Hotels London-Shoreditch": "Listed under its current name; formerly Mondrian Shoreditch."
+      },
+      "ranked": false,
+      "note": "Same domain as the list above - one voice. Also lists the Sky Pool at Embassy Gardens, a residents' pool between two apartment blocks rather than a hotel, so it is not recorded as a name."
+    },
+    {
+      "name": "Conde Nast Traveller - The best London hotels with pools",
+      "url": "https://www.cntraveller.com/gallery/london-hotels-with-pools",
+      "scope": "hotels-pool",
+      "names": [
+        "The Berkeley",
+        "Mandarin Oriental Mayfair",
+        "The Peninsula London",
+        "Pan Pacific London",
+        "Six Senses London",
+        "art'otel London Battersea Power Station",
+        "Corinthia London",
+        "The Chancery Rosewood",
+        "The Ned"
+      ],
+      "quotes": {
+        "The Peninsula London": "'a faux skylight above the turquoise tiled 25-metre swimming pool that mimics the changing light of the day... underwater speakers'"
+      },
+      "ranked": false,
+      "note": "By Lauren Burvill, 2026 edition."
+    },
+    {
+      "name": "The Telegraph - The best hotels in London with a pool",
+      "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/the-best-london-hotels-with-a-pool/",
+      "scope": "hotels-pool",
+      "names": [],
+      "error": "HTTP 402 - paid bot licensing (TollBit), not a paywall. Ranks second or third on every SERP for the lead phrase. Kept in corpus per data/sources.json blocked.keepInCorpus."
+    },
+    {
+      "name": "Tatler - The best London hotel pools to cool off in",
+      "url": "https://www.tatler.com/gallery/best-london-hotel-pools",
+      "scope": "hotels-pool",
+      "names": [
+        "The Berkeley",
+        "The Langham",
+        "Corinthia London",
+        "Shoreditch House",
+        "Shangri-La The Shard"
+      ],
+      "ranked": false
+    },
+    {
+      "name": "Esquire UK - The Ultimate Guide to Luxury London Hotels With Pools",
+      "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/",
+      "scope": "hotels-pool",
+      "names": [
+        "Shangri-La The Shard",
+        "art'otel London Battersea Power Station",
+        "Pan Pacific London",
+        "The Berkeley",
+        "London Marriott Hotel County Hall",
+        "Corinthia London",
+        "Virgin Hotels London-Shoreditch",
+        "Haymarket Hotel",
+        "The Chelsea Harbour Hotel",
+        "Bulgari Hotel London",
+        "Canary Riverside Plaza Hotel",
+        "The Carlton Tower Jumeirah"
+      ],
+      "quotes": {
+        "Virgin Hotels London-Shoreditch": "Listed as 'Mondrian London Shoreditch', its name before the Virgin Hotels rebrand.",
+        "London Marriott Hotel County Hall": "'The one with palm trees'"
+      },
+      "ranked": false
+    },
+    {
+      "name": "The Independent - Where can I swim in London? (hotel pools section)",
+      "url": "https://www.independent.co.uk/travel/uk/england/london/best-swimming-pools-london-b3001076.html",
+      "scope": "hotels-pool",
+      "names": [
+        "Corinthia London",
+        "Shangri-La The Shard",
+        "Mandarin Oriental Mayfair",
+        "The Dorchester"
+      ],
+      "quotes": {
+        "Corinthia London": "'The Corinthia's vitality pool is found in its Biome spa on its thermal floor'",
+        "Mandarin Oriental Mayfair": "'a 25m swimming pool in Mayfair's luxury Mandarin Oriental spa'",
+        "The Dorchester": "'the hotel's heated pool complete with a sauna and steam room, or... the hydrotherapy pool'"
+      },
+      "ranked": false,
+      "note": "Only the 'Hotel pools' section is recorded; the lidos, leisure centres, spas and private clubs sections are not hotels."
+    },
+    {
+      "name": "Secret London - 10 Of The Best Hotel Pools In London You Can Visit",
+      "url": "https://secretldn.com/london-hotel-pools/",
+      "scope": "hotels-pool",
+      "names": [
+        "Mandarin Oriental Hyde Park",
+        "Shangri-La The Shard",
+        "The Berkeley",
+        "One Aldwych",
+        "The Langham",
+        "Corinthia London",
+        "Bulgari Hotel London",
+        "The Landmark London",
+        "The Savoy",
+        "Four Seasons Hotel London at Tower Bridge"
+      ],
+      "quotes": {
+        "Four Seasons Hotel London at Tower Bridge": "Listed as 'Four Seasons Hotel London at Ten Trinity Square', its earlier name."
+      },
+      "ranked": false
+    },
+    {
+      "name": "DesignMyNight - 12 Best London Hotels With Pools",
+      "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london",
+      "scope": "hotels-pool",
+      "names": [
+        "The Berkeley",
+        "One Aldwych",
+        "St Pancras London, Autograph Collection",
+        "Virgin Hotels London-Shoreditch",
+        "White City House",
+        "Shangri-La The Shard",
+        "The Langham",
+        "Bulgari Hotel London",
+        "The Ned",
+        "Hotel Café Royal",
+        "Haymarket Hotel",
+        "Mandarin Oriental Hyde Park"
+      ],
+      "quotes": {
+        "Virgin Hotels London-Shoreditch": "Listed as 'Mondrian Shoreditch'.",
+        "St Pancras London, Autograph Collection": "Listed as 'St. Pancras Renaissance Hotel'."
+      },
+      "ranked": false,
+      "note": "By Anisah Audu-Evans."
+    },
+    {
+      "name": "DesignMyNight - The Best Rooftop Pools In London",
+      "url": "https://www.designmynight.com/london/blog/rooftop-pools-london",
+      "scope": "hotels-pool",
+      "names": [
+        "art'otel London Battersea Power Station",
+        "The Berkeley",
+        "Virgin Hotels London-Shoreditch",
+        "The Carlton Tower Jumeirah",
+        "The Ned"
+      ],
+      "quotes": {
+        "The Carlton Tower Jumeirah": "Listed as 'Peak Health Club', 1 Cadogan Place - the Carlton Tower's own club."
+      },
+      "ranked": false,
+      "note": "Same domain as the list above - one voice. 'Soho House' (multiple venues) and the Sky Pool are not recorded: the first names no single property, the second is not a hotel."
+    },
+    {
+      "name": "Country & Town House - London's Very Best Rooftop Swimming Pools",
+      "url": "https://www.countryandtownhouse.com/culture/best-rooftop-pools-london/",
+      "scope": "hotels-pool",
+      "names": [
+        "The Berkeley",
+        "art'otel London Battersea Power Station",
+        "Shoreditch House",
+        "The Ned",
+        "White City House",
+        "Virgin Hotels London-Shoreditch"
+      ],
+      "ranked": false,
+      "note": "Also lists 180 House on the Strand (a members' club with no bedrooms) and the Sky Pool (residents only) - not hotels, not recorded."
+    },
+    {
+      "name": "Time & Leisure - Best luxury hotels with an outdoor pool in London",
+      "url": "https://timeandleisure.co.uk/things-to-do/best-luxury-hotels-with-outdoor-pool-in-london/",
+      "scope": "hotels-pool",
+      "names": [
+        "The Berkeley",
+        "art'otel London Battersea Power Station",
+        "Virgin Hotels London-Shoreditch",
+        "The Ned",
+        "Fulham Pier Hotel"
+      ],
+      "ranked": false
+    },
+    {
+      "name": "Luxury London - London's best lidos and outdoor pools",
+      "url": "https://luxurylondon.co.uk/travel/london/london-best-outdoor-pools/",
+      "scope": "hotels-pool",
+      "names": [
+        "The Berkeley",
+        "Shoreditch House",
+        "White City House",
+        "The Ned"
+      ],
+      "ranked": false,
+      "note": "Updated 8 Apr 2026. Only the hotel entries are recorded; the lidos, ponds and the Beckenham swimming lake are not hotels."
+    },
+    {
+      "name": "Evening Standard - 8 of the best London hotel pools you can visit",
+      "url": "https://www.standard.co.uk/lifestyle/travel/london-hotel-pools-day-pass-a3874806.html",
+      "scope": "hotels-pool",
+      "names": [
+        "The Langham",
+        "The Berkeley",
+        "Corinthia London",
+        "Bulgari Hotel London",
+        "The Rembrandt",
+        "The Landmark London",
+        "Hotel Café Royal",
+        "Shoreditch House"
+      ],
+      "ranked": false,
+      "note": "Laura Hampson, 30 May 2019 - older than three years, recorded but weigh accordingly. The Standard's 2015 'most spectacular hotel swimming pools' piece is older still and not recorded."
+    },
+    {
+      "name": "The Sauce - Every Hotel Swimming Pool In Central London",
+      "url": "https://thesaucemag.com/london-hotels-with-pools/",
+      "scope": "hotels-pool",
+      "names": [
+        "Pan Pacific London",
+        "One Aldwych",
+        "Claridge's",
+        "Corinthia London",
+        "The Berkeley",
+        "The Langham",
+        "St Pancras London, Autograph Collection",
+        "art'otel London Battersea Power Station",
+        "The Ned",
+        "The Landmark London",
+        "Shangri-La The Shard",
+        "Haymarket Hotel",
+        "Virgin Hotels London-Shoreditch",
+        "The Connaught",
+        "The Emory",
+        "The Dilly",
+        "White City House",
+        "InterContinental London - The O2",
+        "Raffles London at The OWO",
+        "Mandarin Oriental Hyde Park",
+        "Four Seasons Hotel London at Tower Bridge",
+        "Shoreditch House",
+        "London Marriott Hotel Park Lane",
+        "The Peninsula London",
+        "The Marylebone",
+        "The Chelsea Harbour Hotel",
+        "London Marriott Hotel County Hall",
+        "45 Park Lane",
+        "The Westin London City",
+        "Leonardo Royal London City",
+        "The Savoy",
+        "The Lanesborough",
+        "The Carlton Tower Jumeirah",
+        "Park Hyatt London River Thames"
+      ],
+      "quotes": {
+        "Claridge's": "'until 2022 there was no pool... a new underground' spa and pool",
+        "The Landmark London": "'The pool has family hours and grown-up time... uses no chlorine'",
+        "The Westin London City": "'This is a grown up pool, set in the very heart of The City.'",
+        "Park Hyatt London River Thames": "'The wellness floor... includes an elegant 60-foot pool.'"
+      },
+      "ranked": false,
+      "note": "10 July 2026. 34 entries, each with a street address - the most complete central list found."
+    },
+    {
+      "name": "The Hotel Guru - The 15 Best London Hotels with Pools",
+      "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools",
+      "scope": "hotels-pool",
+      "names": [
+        "The Connaught",
+        "Haymarket Hotel",
+        "One Aldwych",
+        "The Berkeley",
+        "Town Hall Hotel",
+        "The Marylebone",
+        "Corinthia London",
+        "Hotel Café Royal",
+        "Shangri-La The Shard",
+        "The Langham",
+        "The Savoy",
+        "The Ned",
+        "Courthouse Hotel Shoreditch",
+        "St Pancras London, Autograph Collection",
+        "Four Seasons Hotel London at Tower Bridge"
+      ],
+      "quotes": {
+        "Courthouse Hotel Shoreditch": "'a converted Magistrates Court & police station in Shoreditch... indoor pool'",
+        "The Berkeley": "'one the few London hotels with an outdoor pool. The rooftop pool (with a retractable roof...'"
+      },
+      "ranked": false,
+      "note": "2025 edition. The 15th entry (Four Seasons at 10 Trinity Square) sits in a card the heading extractor missed; read from the result links."
+    },
+    {
+      "name": "Luxury Travel Diary - Best Luxury Hotels In London With Pools",
+      "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/",
+      "scope": "hotels-pool",
+      "names": [
+        "Four Seasons Hotel London at Tower Bridge",
+        "The Peninsula London",
+        "Corinthia London",
+        "Shangri-La The Shard",
+        "The Langham",
+        "The Berkeley",
+        "Mandarin Oriental Hyde Park",
+        "The Ned",
+        "Park Hyatt London River Thames",
+        "Hotel Café Royal",
+        "The Westin London City",
+        "InterContinental London - The O2",
+        "Shoreditch House"
+      ],
+      "ranked": false,
+      "note": "Claire Endean-Cance, 12 Mar 2026. Entry 14, Four Seasons Hampshire, is outside London and not recorded (trap 12)."
+    },
+    {
+      "name": "Candace Abroad - The Best London Hotels with Swimming Pools",
+      "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/",
+      "scope": "hotels-pool",
+      "names": [
+        "Leonardo Royal London St Paul's",
+        "Shoreditch House",
+        "Hilton London Bankside",
+        "Shangri-La The Shard",
+        "InterContinental London - The O2",
+        "Richmond Harbour Hotel",
+        "Mandarin Oriental Hyde Park",
+        "St Pancras London, Autograph Collection",
+        "The Landmark London",
+        "The Dilly",
+        "London Marriott Hotel County Hall",
+        "The Berkeley"
+      ],
+      "ranked": false,
+      "note": "2026 edition, by a London-based blogger."
+    },
+    {
+      "name": "A Lady of Leisure - 5 luxury London hotels with swimming pools, personally reviewed",
+      "url": "https://www.aladyofleisure.com/hotels-in-london-with-swimming-pools/",
+      "scope": "hotels-pool",
+      "names": [
+        "Corinthia London",
+        "One Aldwych",
+        "Hilton London Bankside",
+        "Park Plaza Westminster Bridge",
+        "The Montcalm Royal London House"
+      ],
+      "ranked": false,
+      "note": "Every entry is a stay the writer reviewed separately on the same blog."
+    },
+    {
+      "name": "Globetotting - 15 family friendly hotels in London with a swimming pool",
+      "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/",
+      "scope": "hotels-pool",
+      "names": [
+        "The Langham",
+        "The Westin London City",
+        "Holiday Inn London Kensington High Street",
+        "One Aldwych",
+        "The Landmark London",
+        "art'otel London Battersea Power Station",
+        "NYX Hotel London Holborn",
+        "The Berkeley",
+        "Shangri-La The Shard",
+        "The Dilly",
+        "Park Plaza Westminster Bridge",
+        "London Marriott Hotel Park Lane",
+        "Aloft London ExCeL",
+        "Novotel London Blackfriars",
+        "The Montcalm Marble Arch"
+      ],
+      "quotes": {
+        "The Montcalm Marble Arch": "Listed as 'The Montcalm', located 'in Marble Arch near Oxford Street'."
+      },
+      "ranked": false,
+      "note": "Katja Gaskell."
+    },
+    {
+      "name": "Wanderlust Chloe - 11 Family Friendly Hotels in London with Swimming Pools",
+      "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/",
+      "scope": "hotels-pool",
+      "names": [
+        "London Marriott Hotel County Hall",
+        "Park Plaza Westminster Bridge",
+        "Canary Riverside Plaza Hotel",
+        "Novotel London Blackfriars",
+        "One Aldwych",
+        "Leonardo Royal London Tower Bridge",
+        "London Marriott Hotel Park Lane",
+        "The Dilly",
+        "The Berkeley",
+        "Hilton London Bankside",
+        "The Montcalm Marble Arch"
+      ],
+      "ranked": false
+    },
+    {
+      "name": "Flashpacking Family - The Best Family-Friendly Hotels In London With Pools",
+      "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/",
+      "scope": "hotels-pool",
+      "names": [
+        "Novotel London Blackfriars",
+        "London Marriott Hotel County Hall",
+        "Town Hall Hotel",
+        "Dolphin House Serviced Apartments",
+        "Canary Riverside Plaza Hotel",
+        "The Dilly",
+        "One Aldwych",
+        "The Berkeley",
+        "Park Plaza Westminster Bridge",
+        "Hilton London Bankside",
+        "The Langham"
+      ],
+      "ranked": false,
+      "note": "By Jacs (Jacquie). Updated Jan 2025. ukfamilytravel.com carries a near-identical list by the same author and is declined as a second voice."
+    },
+    {
+      "name": "A Suffolk Mum - 5 Great Family Friendly Hotels in London with a Swimming Pool",
+      "url": "https://asuffolkmum.co.uk/5-great-family-friendly-hotels-in-london-with-a-swimming-pool/",
+      "scope": "hotels-pool",
+      "names": [
+        "Park Plaza Westminster Bridge",
+        "The Westin London City",
+        "Novotel London Blackfriars",
+        "Leonardo Royal London St Paul's",
+        "London Marriott Hotel Maida Vale"
+      ],
+      "quotes": {
+        "Park Plaza Westminster Bridge": "Called 'the Park Plaza Hilton on the South Bank'; stayed October half term 2021 as a family of four. 'The hotel swimming pool is on one of the levels below ground and is part of a spa... it isn't all that big'.",
+        "London Marriott Hotel Maida Vale": "'There is a Bannatyne's gym next door that all hotel guests receive complementary access to the swimming pool' - the pool is not the hotel's own."
+      },
+      "ranked": false
+    },
+    {
+      "name": "MummyTravels - The top London hotels with outdoor pools (with kids)",
+      "url": "https://www.mummytravels.com/london-hotels-with-outdoor-pools/",
+      "scope": "hotels-pool",
+      "names": [
+        "The Berkeley",
+        "art'otel London Battersea Power Station",
+        "Shoreditch House",
+        "Shangri-La The Shard",
+        "Canary Riverside Plaza Hotel"
+      ],
+      "ranked": false
+    },
+    {
+      "name": "Pocket Wanderings - 5 London Hotels With Rooftop Pools",
+      "url": "https://www.pocketwanderings.com/london-hotels-with-rooftop-pools/",
+      "scope": "hotels-pool",
+      "names": [
+        "The Berkeley",
+        "art'otel London Battersea Power Station",
+        "The Ned",
+        "Virgin Hotels London-Shoreditch",
+        "Shangri-La The Shard"
+      ],
+      "ranked": false,
+      "note": "Jessie Moore. Numbered 1-5 but no ranking stated."
+    },
+    {
+      "name": "Two Get Lost - 9 Best London Hotels With Rooftop Pools",
+      "url": "https://twogetlost.com/london-hotels-rooftop-pools",
+      "scope": "hotels-pool",
+      "names": [
+        "Shangri-La The Shard",
+        "Pan Pacific London",
+        "The Ned",
+        "The Collective Canary Wharf",
+        "The Carlton Tower Jumeirah",
+        "Virgin Hotels London-Shoreditch",
+        "White City House",
+        "The Berkeley",
+        "Canary Riverside Plaza Hotel"
+      ],
+      "quotes": {
+        "Virgin Hotels London-Shoreditch": "Listed as 'Mondrian London Shoreditch'."
+      },
+      "ranked": false,
+      "note": "Emily, updated 20 Sep 2026. Numbered #1-#9 without a stated ranking method; treated as unordered."
+    },
+    {
+      "name": "The Rooftop Guide - 7 Best Hotel Rooftop Pools in London",
+      "url": "https://www.therooftopguide.com/rooftop-pools/rooftop-pools-london.html",
+      "scope": "hotels-pool",
+      "names": [
+        "The Ned",
+        "The Berkeley",
+        "art'otel London Battersea Power Station",
+        "Shoreditch House",
+        "White City House",
+        "Virgin Hotels London-Shoreditch"
+      ],
+      "ranked": false,
+      "note": "Single-subject rooftop specialist. The seventh entry, the Sky Pool at Embassy Gardens, is residents-only and not a hotel."
+    },
+    {
+      "name": "Mumsnet Talk - Nice London hotels with a view and swimming pool?",
+      "url": "https://www.mumsnet.com/talk/uk/4185024-Nice-London-hotels-with-a-view-and-swimming-pool",
+      "scope": "hotels-pool",
+      "tier": "E",
+      "names": [
+        "Park Plaza Westminster Bridge",
+        "Shangri-La The Shard",
+        "Virgin Hotels London-Shoreditch",
+        "Leonardo Royal London St Paul's",
+        "Aloft London ExCeL",
+        "Hilton London Metropole",
+        "The Ned",
+        "Shoreditch House"
+      ],
+      "quotes": {
+        "Park Plaza Westminster Bridge": "'Definitely park plaza Westminster bridge' - named by several posters; one notes Park Plaza County Hall across the road 'doesn't have a swimming pool'.",
+        "The Ned": "'You have to book a certain room type to access roof top pool and restaurant. There is an amazing indoor pool and spa in the basement.'",
+        "Shoreditch House": "'if you book a room you access to all the members areas including outdoor pool'",
+        "Hilton London Metropole": "'Hilton metropole on edgeware Road does, its a bit tired though.'",
+        "Virgin Hotels London-Shoreditch": "Named as 'The curtain in shoreditch... with a rooftop pool' - The Curtain was this building's first name (45 Curtain Road), before Mondrian Shoreditch and, since August 2024, Virgin Hotels. Merged by hand; see where-to-stay-shoreditch.md."
+      },
+      "ranked": false,
+      "note": "A forum thread, tier E by nature; build-evidence files it under mumsnet.com (tier B) as one voice."
+    },
+    {
+      "name": "City A.M. (YouTube) - Is this the best hotel pool in London?",
+      "url": "https://www.youtube.com/@CityamUK",
+      "scope": "hotels-pool",
+      "tier": "B",
+      "names": [
+        "Pan Pacific London"
+      ],
+      "quotes": {
+        "Pan Pacific London": "'Is this the best hotel pool in London?' (14 Jun 2026) - Ailsa Anderson LVO of Eastern City picks the Pan Pacific."
+      },
+      "ranked": false,
+      "note": "TIER B, NOT D. The platform is not the publisher: City A.M.'s channel is City A.M. Video https://www.youtube.com/watch?v=mSzcmqny4pI"
+    },
+    {
+      "name": "The Points Guy (YouTube) - Inside London's Most Unique Wellness Hotel",
+      "url": "https://www.youtube.com/@ThePointsGuyArrivals",
+      "scope": "hotels-pool",
+      "tier": "B",
+      "names": [
+        "Six Senses London"
+      ],
+      "quotes": {
+        "Six Senses London": "'From the stunning spa and indoor pool to cutting-edge wellness technology' - chapter 04:05 Spa. 12 Jun 2026, 8.5k views."
+      },
+      "ranked": false,
+      "note": "TIER B, NOT D - a publisher's channel. Video https://www.youtube.com/watch?v=Z8b8E7gUO1A"
+    },
+    {
+      "name": "Nicola's Travel Diaries (YouTube) - art'otel Battersea honest review",
+      "url": "https://www.youtube.com/@NicolasTravelDiaries",
+      "scope": "hotels-pool",
+      "tier": "D",
+      "names": [
+        "art'otel London Battersea Power Station"
+      ],
+      "quotes": {
+        "art'otel London Battersea Power Station": "'Art'otel Battersea Actually Worth the Money? | Honest Review 2026' (7 Aug 2026) - 'Heated rooftop infinity pool & Battersea skyline views'. No gifting disclosed."
+      },
+      "ranked": false,
+      "note": "Video https://www.youtube.com/watch?v=KsCX0J4Aw44"
+    },
+    {
+      "name": "Mark Richards (YouTube) - Lincoln Plaza London review",
+      "url": "https://www.youtube.com/@bellagio1066",
+      "scope": "hotels-pool",
+      "tier": "D",
+      "names": [
+        "Lincoln Plaza London"
+      ],
+      "quotes": {
+        "Lincoln Plaza London": "'Hilton Curio Collection Lincoln Plaza London Review | Room, Pool, Gym & Breakfast' (15 Jun 2026). No gifting disclosed."
+      },
+      "ranked": false,
+      "note": "Video https://www.youtube.com/watch?v=izKABqECdBs"
+    },
+    {
+      "name": "Family Tripster (YouTube) - Hilton Bankside",
+      "url": "https://www.youtube.com/@familytripster",
+      "scope": "hotels-pool",
+      "tier": "D",
+      "names": [
+        "Hilton London Bankside"
+      ],
+      "quotes": {
+        "Hilton London Bankside": "'Best Family Friendly Hotel in London - Hilton Bankside' (25 May 2026) - 'Indoor pool and spa for downtime after sightseeing'. No gifting disclosed."
+      },
+      "ranked": false,
+      "note": "Video https://www.youtube.com/watch?v=lRYYkl4WyNg"
+    },
+    {
+      "name": "Andy Mcloone (YouTube) - The Shard London Review",
+      "url": "https://www.youtube.com/@AndyMcloone",
+      "scope": "hotels-pool",
+      "tier": "D",
+      "names": [
+        "Shangri-La The Shard"
+      ],
+      "quotes": {
+        "Shangri-La The Shard": "'The Shard London Review | Shangri-La Hotel, Infinity Pool, Gong Bar & Observation Deck Experience' (26 Feb 2026). No gifting disclosed."
+      },
+      "ranked": false,
+      "note": "Video https://www.youtube.com/watch?v=mzfBtJ5RZPc"
+    }
+  ],
+  "declined": [
+    {
+      "source": "Rebecca Loves Travel (TikTok) - The Westin London City",
+      "url": "https://www.tiktok.com/@rebeccalovestotravel/video/7619632102543314198",
+      "why": "PAID PLACEMENT - caption discloses 'AD/invite'. 50.5k views. Its claim that the spa pool admits children 8-10.30am and 2-4.30pm was checked against the hotel's own page rather than taken from here."
+    },
+    {
+      "source": "Emily English (YouTube) - The Berkeley",
+      "url": "https://www.youtube.com/@emthenutritionist",
+      "why": "PAID PLACEMENT - description ends '(Pr gifted stay)'. 30k views."
+    },
+    {
+      "source": "Fiery Trippers (YouTube) - 11 Best Hotels With Pool In London",
+      "url": "https://www.youtube.com/@FieryTrippers",
+      "why": "Affiliate slideshow: every entry is a tinyurl booking link, no visit, 2022. The name list is clean (45 Park Lane, Pan Pacific, Shangri-La, One Aldwych) - which is how this failure hides."
+    },
+    {
+      "source": "spahotelblog.com - Best Hotels with Pool in London",
+      "url": "https://spahotelblog.com/hotels-pool-london/",
+      "why": "Template listicle ('Benefits of Choosing London Hotels With Pools', 'Different Types of Hotel Pools'), no sign of a visit, and it describes Mandarin Oriental Hyde Park's basement pool as having 'park views'."
+    },
+    {
+      "source": "UK Family Travel - The Best London Hotels With Pools For Kids",
+      "url": "https://ukfamilytravel.com/london-hotels-with-pools-for-kids/",
+      "why": "Same author as Flashpacking Family (Jacquie / Jacs) with a near-identical hotel list; one creator across two sites is one voice."
+    },
+    {
+      "source": "Aggregator and booking-template pages",
+      "url": "https://poolhotels.guide/London_central-london/",
+      "why": "poolhotels.guide, rooftoppoolguide.com, hotelswithtoys.com, london.staywithpool.com, hotelswithpools.uk, cheap-hotels.uk, lodging-world.com, travelmyth.com, spaseekers.com, staycation.co and a Reddit 'wiki' at r/londonhotelswithpool all surfaced in the SERP. City-template databases or booking engines; the <city>_<area> URL is the tell. eurovistatrips.com surfaced twice and is already excluded."
+    },
+    {
+      "source": "The Glossary, The Handbook",
+      "url": "https://theglossarymagazine.com/travel/best-rooftop-pools-in-london/",
+      "why": "Both returned a Cloudflare challenge (403) to curl; not read, not recorded. Worth a browser read on the next pass."
+    }
+  ]
+}

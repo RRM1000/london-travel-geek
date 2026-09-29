@@ -84,7 +84,13 @@ for (const c of clashes) {
 // so they do not compete the way "best Chinese" and "best Thai" do. Overlap
 // with a facet guide is expected; overlap between two cuisine guides is a
 // section in the wrong place.
-const FACETS = new Set(["cheap-eats-london", "late-night-eating-london", "special-occasion-restaurants-london", "best-street-food-london"]);
+//
+// Hotels with a pool is a FACILITY facet over hotels, the same shape: The
+// Savoy belongs in the afternoon tea guide for its tea and in the pool guide
+// for its pool, and "London hotels with a pool" is not the query either of the
+// others answers. Its entries are written about the pool, not the tea or the
+// family room.
+const FACETS = new Set(["cheap-eats-london", "late-night-eating-london", "special-occasion-restaurants-london", "best-street-food-london", "hotels-with-pool-london"]);
 const isFacetPair = (pair) => pair.split(" + ").some((s) => FACETS.has(s));
 
 const bad = [...pairs.entries()]

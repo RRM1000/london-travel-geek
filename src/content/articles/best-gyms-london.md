@@ -321,7 +321,7 @@ PureGym's own footnote is "†Most gyms open 24/7", and 19 of its 87 open London
 
 ## Just visiting, or not ready to sign
 
-You do not have to join anything. Almost every operator here sells a way in for a day or a fortnight, and for a visitor the public pool is usually both the cheapest and the most interesting option.
+You do not have to join anything. Almost every operator here sells a way in for a day or a fortnight, and for a visitor the public pool is usually both the cheapest and the most interesting option. If you want the pool in the building you sleep in, [London hotels with a pool](/articles/hotels-with-pool-london/) gives the length and the children's hours at each one.
 
 **Day passes at the chains.**
 

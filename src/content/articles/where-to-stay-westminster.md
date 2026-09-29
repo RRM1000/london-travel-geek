@@ -348,7 +348,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *About £750 · 279 rooms · Whitehall Place, SW1A 2BD · Embankment nearest · Breakfast extra*
 
-**[Corinthia](hotel:corinthia-london)** sits between Whitehall and the river, with 279 rooms of which 62 are suites and seven penthouses. The entry-level Deluxe room averages **39 square metres** and can connect to a second. Its spa, Biome, has a **swimming pool**, sauna and steam rooms and a 24-hour gym, with children's pool hours of 8–10am and 4–5pm. Tom Kerridge runs Kerridge's, and tea is served under a Baccarat chandelier.
+**[Corinthia](hotel:corinthia-london)** sits between Whitehall and the river, with 279 rooms of which 62 are suites and seven penthouses. The entry-level Deluxe room averages **39 square metres** and can connect to a second. Its spa, Biome, has **two vitality pools and a hydrotherapy pool** rather than a lap pool, with a sauna, steam rooms and a 24-hour gym, and family swimming from 8–10am and 4–5pm. For a pool to swim lengths in, see [London hotels with a pool](/articles/hotels-with-pool-london/). Tom Kerridge runs Kerridge's, and tea is served under a Baccarat chandelier.
 
 <div class="photo-row">
 

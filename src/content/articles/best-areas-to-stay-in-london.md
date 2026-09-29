@@ -216,7 +216,7 @@ Food after midnight is better here than anywhere else in London. **Beigel Bake o
 
 ## Museums, and going with children
 
-Different priorities entirely: a short walk to the front door of the thing, somewhere to make a sandwich, and a lift. For the room itself, [the best family hotels in London](/articles/best-family-hotels-london/) cross-checks 21 hotels against Mumsnet, family-travel blogs and the travel press for one that actually sleeps two adults and two children.
+Different priorities entirely: a short walk to the front door of the thing, somewhere to make a sandwich, and a lift. For the room itself, [the best family hotels in London](/articles/best-family-hotels-london/) cross-checks 21 hotels against Mumsnet, family-travel blogs and the travel press for one that actually sleeps two adults and two children. For a pool children can use, and the hours they can use it, see [London hotels with a pool](/articles/hotels-with-pool-london/).
 
 ### South Kensington — three free museums and a tunnel most of the way to them
 
@@ -439,5 +439,7 @@ The question changes. Beyond about the third or fourth night a kitchen starts to
 If you are not staying the night at all — a long layover, an evening flight, a bag and a shower — a [day room](/articles/day-rooms-london/) is a cheaper answer than any of this.
 
 If the dog is coming too, [our dog-friendly hotels guide](/articles/dog-friendly-hotels-london/) compares hotels on the fee, the weight limit and the walk to the nearest park.
+
+If a swim matters, [London hotels with a pool](/articles/hotels-with-pool-london/) gives each pool's length, whether guests swim free and when children are allowed in. The rooftop ones are in Knightsbridge, Battersea and Shoreditch, and The Berkeley's opens in spring and summer only.
 
 *Room rates are from our own sampling on Hotels.com and each operator's own site, current at 7 September 2026; rates change nightly, so always check your own dates. First and last Tube times are from Transport for London's own working timetables, and the Night Tube lines, night bus fares and the Hopper fare from tfl.gov.uk, all checked on 9 September 2026. Eurostar check-in times from eurostar.com on 8 September 2026.*

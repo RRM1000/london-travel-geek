@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=152631540"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-09-09
-updatedAt: 2026-09-25
+updatedAt: 2026-09-29
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -106,7 +106,7 @@ Eighteen floors of the Shard, starting at **level 34** and running to 202 rooms 
 
 **Read the room names before you book, because they are directions rather than adjectives.** A **Superior Shard room is 30 to 48 m² and faces south**, over Kent, Surrey and Sussex; a Premier Shard is 40 to 58 m² and is "mostly southerly". The London everybody pays to look at — the river, the City, St Paul's — is out of the **City View** grades on the other side of the building. Paying £550 for the entry grade and getting the suburbs is an avoidable disappointment.
 
-**GŎNG on level 52 is the highest hotel bar in western Europe**, and its published hours run Wednesday to Sunday — 3pm to 11.30pm on Wednesday, noon to 1am Thursday to Saturday. The **infinity Sky Pool sits inside it and opens Wednesday to Saturday evenings only**, which is the line to check against your dates: a Monday arrival buys you the altitude and not the pool. TĪNG, on level 35, does lunch Monday to Friday and dinner Wednesday to Sunday.
+**GŎNG on level 52 is the highest hotel bar in western Europe**, and its published hours run Wednesday to Sunday — 3pm to 11.30pm on Wednesday, noon to 1am Thursday to Saturday. The **infinity Sky Pool sits inside it and joins the bar on Wednesday to Saturday evenings**. For a swim, hotel guests book a free slot: adults from 6am to 6pm and children from 9 to 11am and 3 to 5pm, any day of the week. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) compares it with the other pools in London. TĪNG, on level 35, does lunch Monday to Friday and dinner Wednesday to Sunday.
 
 ![The view from a corner room at Shangri-La The Shard, with floor-to-ceiling windows on two sides and the bed in the foreground](../../assets/articles/where-to-stay-bermondsey/shangri-la-the-shard-room.jpg)
 

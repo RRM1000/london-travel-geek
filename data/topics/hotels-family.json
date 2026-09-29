@@ -30,7 +30,7 @@
       {
         "hotel": "Town Hall Hotel and Apartments",
         "station": "Bethnal Green",
-        "result": "QUALIFIES - Bethnal Green is not itself in the ranked table (it is Zone 2, inner-east, and every other source in this pass treats it as within easy central reach), but Mile End two stops east clears in 7 minutes and Bethnal Green's own Central line service is faster still. Two sources (Mumsnet, Santorini Dave), a 15m pool and Da Terra (two Michelin stars) on site - central hotels at this price don't have either. SHORTLISTED as further out.",
+        "result": "QUALIFIES - Bethnal Green is not itself in the ranked table (it is Zone 2, inner-east, and every other source in this pass treats it as within easy central reach), but Mile End two stops east clears in 7 minutes and Bethnal Green's own Central line service is faster still. Two sources (Mumsnet, Santorini Dave), a 14m pool and Da Terra (two Michelin stars) on site - central hotels at this price don't have either. SHORTLISTED as further out.",
         "sources": 2
       },
       {
@@ -355,7 +355,7 @@
       "operatorUrl": "https://www.townhallhotel.com/",
       "sellsOn": "hotels.com",
       "sheetSlug": "town-hall-hotel",
-      "note": "OUTER LONDON candidate. Bethnal Green is not in the tested station table in data/topics/hotels-budget-outer-areas.json, but the Central line's own scheduled time to Tottenham Court Road is well under 30 minutes (TfL public timetable, general knowledge, not independently re-timed this pass) - flagged for Rob rather than asserted as tested. Offers what central hotels at this price don't: a 15m pool (6am-10pm) and Michelin two-star Da Terra on site."
+      "note": "OUTER LONDON candidate. Bethnal Green is not in the tested station table in data/topics/hotels-budget-outer-areas.json, but the Central line's own scheduled time to Tottenham Court Road is well under 30 minutes (TfL public timetable, general knowledge, not independently re-timed this pass) - flagged for Rob rather than asserted as tested. Offers what central hotels at this price don't: a 14m pool (townhallhotel.com/facilities, 29 Sep 2026) and Michelin two-star Da Terra on site."
     }
   ]
 }

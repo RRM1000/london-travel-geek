@@ -1,0 +1,424 @@
+{
+  "topic": "hotels-pool",
+  "article": "src/content/articles/hotels-with-pool-london.md",
+  "headTerm": "London Hotels With a Pool",
+  "compiled": "2026-09-29",
+  "searchPhrase": "hotels with pool London / London hotels with swimming pool. Bing's SERP for 'hotels with pool London' (29 Sep 2026) is booking engines (Booking.com, Tripadvisor, lastminute, Hotels.com), brand pages (Marriott, IHG) and three editorial lists: The Hotel Guru, The Telegraph and Luxury Travel Diary.",
+  "scope": {
+    "whatCounts": "A pool a hotel guest can swim in: a lap or leisure pool the hotel publishes as its own, or a health club pool the hotel says its guests use free. Vitality, hydrotherapy and relaxation pools on their own do not count and are named as such.",
+    "central": "Central London only, each with its nearest station. Canary Wharf, Battersea Power Station and Bethnal Green are in, because each sits on a Tube line a short ride from the centre. InterContinental O2 and Aloft ExCeL are further out and were set aside - see excluded.",
+    "groups": "Rooftop and sky-high pools (seasonal ones flagged); pools that welcome children, with the hours; spa pools, mostly for adults; good-value hotels with a pool (Rob's grouping; the chain four-stars and Town Hall, prices still needed to back the label).",
+    "pricing": "Only the sheet's typicalFrom values are printed (src/data/hotels.json). No rates were scraped. Hotels without a sheet price carry none - listed for Rob in pricesNeeded."
+  },
+  "facetAxis": [
+    "rooftop",
+    "family",
+    "spa",
+    "chain"
+  ],
+  "knownGaps": [
+    "Reddit is blocked to curl in this environment (403 on www, old and .json), so tier E rests on one Mumsnet Talk thread. r/FATTravel 'London hotels with inside pools' (1i3fhmy) and r/TravelHacks 1ajjkx4 surfaced in the SERP and are worth recording by hand.",
+    "Brave returned 429 and DuckDuckGo a 202 bot challenge for the whole pass; Bing HTML answered one query and then degraded to first-word matching. Yahoo (Bing-backed) via curl carried the SERP work.",
+    "The Telegraph's pool list (2nd or 3rd on every SERP) returns 402 to bots, and The Glossary and The Handbook returned a Cloudflare challenge - none read.",
+    "Operator sites for Hilton (hilton.com), Marriott (marriott.com: Park Lane, Aloft ExCeL), Hyatt and Town Hall's own home page block curl; Town Hall's /facilities page did load. Hilton London Bankside (5 sources) and London Marriott Hotel Park Lane (3) are out of the article only because their pool rules could not be read from the operator.",
+    "Shoreditch House (11 sources) and White City House (7) are Soho House members' clubs with bookable bedrooms; Soho House's pages do not say whether a non-member staying the night can use the rooftop pool. Out until Rob confirms.",
+    "InterContinental London - The O2 (3 sources): IHG's page gives the pool's hours and children's times but not whether hotel guests pay; Head for Points reported a £30-an-hour pool fee in April 2022. Out until the fee is confirmed."
+  ],
+  "notASwimmingPool": [
+    {
+      "name": "Corinthia London",
+      "evidenceKey": "the corinthia",
+      "what": "Biome by Corinthia's thermal floor lists two vitality pools and a hydrotherapy pool, and no lap pool. Family swimming 8-10am and 4-5pm for residents.",
+      "source": "https://www.corinthia.com/en-gb/london/spa-at-corinthia-london/thermal-floor/",
+      "station": "Embankment",
+      "link": "hotel:corinthia-london",
+      "group": "not-a-pool"
+    },
+    {
+      "name": "St Pancras London, Autograph Collection",
+      "evidenceKey": "st pancras london, autograph collection",
+      "what": "The spa in the old steam kitchens has a relaxation pool with hydro loungers - described by the hotel as a hydrotherapy pool.",
+      "source": "https://stpancraslondon.com/wellness/",
+      "station": "King's Cross St Pancras",
+      "link": "hotelscom:360456",
+      "group": "not-a-pool"
+    },
+    {
+      "name": "The Landmark London",
+      "evidenceKey": "the landmark london",
+      "what": "The relaunched spa lists a vitality pool (Finnish sauna, steam room, vitality pool, 24-hour gym, five treatment rooms), children's hours 9-11am and 3-5pm, spa 7am-9.30pm. where-to-stay-marylebone.md already calls it a vitality pool heated to 34C. best-family-hotels-london.md said '15-metre chlorine-free pool' (from Mumsnet) and was corrected in the same commit as this guide.",
+      "source": "https://www.landmarklondon.co.uk/spa-at-the-landmark-london/",
+      "station": "Marylebone",
+      "group": "not-a-pool",
+      "link": "hotel:the-landmark-london"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "Shoreditch House",
+      "sources": 11,
+      "why": "Members' club; pool access for non-member bedroom guests not published. Ask Rob."
+    },
+    {
+      "name": "White City House",
+      "sources": 7,
+      "why": "Members' club; as above. Soho House's page mentions a second, indoor pool in the basement gym."
+    },
+    {
+      "name": "Hilton London Bankside",
+      "sources": 5,
+      "why": "hilton.com returns 403; pool rules unread. hiltonlondonbankside.com is a parked lander domain, not the hotel."
+    },
+    {
+      "name": "InterContinental London - The O2",
+      "sources": 3,
+      "why": "Guest pool fee unconfirmed (see knownGaps). Pool 6.30am-9pm; resident children under 18 09:00-11:00 and 15:30-17:30."
+    },
+    {
+      "name": "London Marriott Hotel Park Lane",
+      "sources": 3,
+      "why": "marriott.com returns 403."
+    },
+    {
+      "name": "Aloft London ExCeL",
+      "sources": 3,
+      "why": "Royal Docks, not central, and marriott.com returns 403. Sheet typicalFrom About £115."
+    },
+    {
+      "name": "The Connaught",
+      "sources": 2,
+      "why": "Aman Spa lists 'a serene pool' with no size, hours or children's rule."
+    },
+    {
+      "name": "Six Senses London",
+      "sources": 2,
+      "why": "Operator lists 'Indoor swimming pool' and nothing more."
+    },
+    {
+      "name": "The Chelsea Harbour Hotel",
+      "sources": 2,
+      "why": "Operator site not found; not central."
+    },
+    {
+      "name": "Park Hyatt London River Thames",
+      "sources": 2,
+      "why": "hyatt.com returns 429."
+    },
+    {
+      "name": "The Montcalm Marble Arch",
+      "sources": 2,
+      "why": "Relaunched as Montcalm Mayfair, Autograph Collection; the sources predate it."
+    },
+    {
+      "name": "London Marriott Hotel Maida Vale",
+      "sources": 1,
+      "why": "Its pool is the Bannatyne's gym next door (A Suffolk Mum)."
+    }
+  ],
+  "pricesNeeded": [
+    "The Berkeley",
+    "One Aldwych",
+    "London Marriott Hotel County Hall",
+    "Park Plaza Westminster Bridge",
+    "Canary Riverside Plaza",
+    "The Westin London City",
+    "The Dilly",
+    "Leonardo Royal London St Paul's",
+    "Novotel London Blackfriars",
+    "Bulgari Hotel London",
+    "Mandarin Oriental Hyde Park",
+    "Pan Pacific London",
+    "Four Seasons Hotel London at Tower Bridge",
+    "Haymarket Hotel",
+    "The Carlton Tower Jumeirah",
+    "The Marylebone"
+  ],
+  "candidates": [
+    {
+      "name": "The Berkeley",
+      "evidenceKey": "the berkeley",
+      "group": "rooftop",
+      "area": "Knightsbridge",
+      "postcode": "SW1X 7RL",
+      "station": "Knightsbridge",
+      "pool": "Heated outdoor rooftop pool, spring and summer only, hotel guests only",
+      "link": "hotel:the-berkeley",
+      "operatorUrl": "https://www.maybourne.com/en/hotels/the-berkeley/rooftop-pool"
+    },
+    {
+      "name": "art'otel London Battersea Power Station",
+      "evidenceKey": "art'otel london battersea power station",
+      "group": "rooftop",
+      "area": "Battersea",
+      "postcode": "SW11 8BJ",
+      "station": "Battersea Power Station",
+      "pool": "Heated rooftop infinity pool, 16th floor, year-round, hotel guests 6am-11pm, under-16s 6am-noon",
+      "link": "hotel:artotel-battersea-power-station",
+      "operatorUrl": "https://artotel.com/hotels/london/battersea-power-station/wellness-and-gym/"
+    },
+    {
+      "name": "Virgin Hotels London-Shoreditch",
+      "evidenceKey": "virgin hotels london shoreditch",
+      "group": "rooftop",
+      "area": "Shoreditch",
+      "postcode": "EC2A 3PT",
+      "station": "Old Street",
+      "pool": "Rooftop pool, level 7, year-round, heated in winter, first come first served; 18 and under 7am-3pm, adults 21+ 3pm-9pm",
+      "link": "hotel:mondrian-shoreditch",
+      "operatorUrl": "https://virginhotels.com/london-shoreditch/fitness/"
+    },
+    {
+      "name": "Shangri-La The Shard",
+      "evidenceKey": "shangri-la the shard",
+      "group": "rooftop",
+      "area": "London Bridge",
+      "postcode": "SE1 9QU",
+      "station": "London Bridge",
+      "pool": "Infinity Sky Pool on level 52, free to hotel guests by booked slot; adults 6am-6pm, children 9-11am and 3-5pm",
+      "link": "hotel:shangri-la-the-shard",
+      "operatorUrl": "https://www.shangri-la.com/london/shangrila/health-leisure/"
+    },
+    {
+      "name": "The Ned",
+      "evidenceKey": "the ned",
+      "group": "rooftop",
+      "area": "City of London",
+      "postcode": "EC2R 8AJ",
+      "station": "Bank",
+      "pool": "Heated rooftop pool in Ned's Club (members and their guests over 18; hotel guests with children 7-10am) plus a basement pool in the adults-only spa, free to guests who book direct",
+      "link": "hotel:the-ned",
+      "operatorUrl": "https://www.thened.com/london/faqs"
+    },
+    {
+      "name": "One Aldwych",
+      "evidenceKey": "one aldwych",
+      "group": "family",
+      "area": "Covent Garden",
+      "postcode": "WC2B 4BZ",
+      "station": "Temple",
+      "pool": "18m chlorine-free indoor lap pool; children weekdays 9-11.30am and 2-5.30pm, weekends 9am-5.30pm",
+      "link": "hotelscom:141466",
+      "operatorUrl": "https://www.onealdwych.com/wellness/pool"
+    },
+    {
+      "name": "The Langham",
+      "evidenceKey": "the langham",
+      "group": "family",
+      "area": "Marylebone",
+      "postcode": "W1B 1JA",
+      "station": "Oxford Circus",
+      "pool": "16m indoor pool in a former bank vault, 7am-9pm; under-16s 8am-noon and 4-6pm",
+      "link": "hotel:the-langham-london",
+      "operatorUrl": "https://www.langhamhotels.com/en/the-langham/london/wellness/swimming-pool/"
+    },
+    {
+      "name": "The Savoy",
+      "evidenceKey": "the savoy",
+      "group": "family",
+      "area": "Covent Garden",
+      "postcode": "WC2R 0EZ",
+      "station": "Charing Cross",
+      "pool": "Heated glass-roofed atrium pool with a jet-stream, included for in-house guests; children 9am-5pm daily",
+      "link": "hotelscom:172847",
+      "operatorUrl": "https://www.thesavoylondon.com/faqs"
+    },
+    {
+      "name": "London Marriott Hotel County Hall",
+      "evidenceKey": "london marriott hotel county hall",
+      "group": "family",
+      "area": "South Bank",
+      "postcode": "SE1 7PB",
+      "station": "Waterloo",
+      "pool": "25m heated indoor pool at The Club at County Hall, free to hotel guests, 7am-9pm, no lifeguard",
+      "link": "hotel:marriott-county-hall",
+      "operatorUrl": "https://www.theclubatcountyhall.com/faqs"
+    },
+    {
+      "name": "Park Plaza Westminster Bridge",
+      "evidenceKey": "park plaza westminster bridge",
+      "group": "family",
+      "area": "South Bank",
+      "postcode": "SE1 7UT",
+      "station": "Waterloo",
+      "pool": "15m indoor pool, 8am-8pm for adults and children, sessions booked only after arrival",
+      "link": "hotelscom:h3113039",
+      "operatorUrl": "https://www.parkplazawestminsterbridge.com/spa-fitness/"
+    },
+    {
+      "name": "Canary Riverside Plaza",
+      "evidenceKey": "canary riverside plaza hotel",
+      "group": "family",
+      "area": "Canary Wharf",
+      "postcode": "E14 8RS",
+      "station": "Canary Wharf",
+      "pool": "20m infinity lap pool in the adjoining health club, free to guests; under-16s 8.30-10.30am",
+      "link": "hotelscom:h519049",
+      "operatorUrl": "https://www.ihg.com/vignettecollection/hotels/gb/en/london/loncp/hoteldetail/amenities"
+    },
+    {
+      "name": "The Westin London City",
+      "evidenceKey": "the westin london city",
+      "group": "family",
+      "area": "City of London",
+      "postcode": "EC4V 3AD",
+      "station": "Mansion House",
+      "pool": "12m pool and vitality pool in Heavenly Spa, free to guests; children 8-10.30am and 2-4.30pm",
+      "link": "hotelscom:2217694656",
+      "operatorUrl": "https://www.heavenlyspalondon.com/faqs"
+    },
+    {
+      "name": "Town Hall Hotel",
+      "evidenceKey": "town hall hotel",
+      "group": "chain",
+      "area": "Bethnal Green",
+      "postcode": "E2 9NF",
+      "station": "Bethnal Green",
+      "pool": "14m heated pool with skylights, open to guests every day",
+      "link": "hotel:town-hall-hotel",
+      "operatorUrl": "https://www.townhallhotel.com/facilities"
+    },
+    {
+      "name": "Bulgari Hotel London",
+      "evidenceKey": "the bulgari hotel london",
+      "group": "spa",
+      "area": "Knightsbridge",
+      "postcode": "SW7 1DW",
+      "station": "Knightsbridge",
+      "pool": "25m stone-clad pool plus vitality pool, 7.30am-8pm; children 8 and over 8-10am and 4-6pm",
+      "link": "hotelscom:402984",
+      "operatorUrl": "https://www.bulgarihotels.com/en_US/london/spa-and-fitness/the-pool"
+    },
+    {
+      "name": "The Peninsula London",
+      "evidenceKey": "the peninsula london",
+      "group": "spa",
+      "area": "Belgravia",
+      "postcode": "SW1X 7HJ",
+      "station": "Hyde Park Corner",
+      "pool": "25m heated subterranean pool with underwater speakers, 7am-9pm",
+      "link": "hotel:the-peninsula-london",
+      "operatorUrl": "https://www.peninsula.com/en/london/wellness/pool"
+    },
+    {
+      "name": "Mandarin Oriental Mayfair",
+      "evidenceKey": "the mandarin oriental mayfair",
+      "group": "spa",
+      "area": "Mayfair",
+      "postcode": "W1S 1JP",
+      "station": "Oxford Circus",
+      "pool": "25m heated indoor pool plus vitality pools, free to in-house guests; spa and fitness 18+ without a parent's written consent",
+      "link": "hotel:mandarin-oriental-mayfair",
+      "operatorUrl": "https://www.mandarinoriental.com/en/london/mayfair/wellness"
+    },
+    {
+      "name": "Mandarin Oriental Hyde Park",
+      "evidenceKey": "the mandarin oriental hyde park",
+      "group": "spa",
+      "area": "Knightsbridge",
+      "postcode": "SW1X 7LA",
+      "station": "Knightsbridge",
+      "pool": "17m twin-lane stainless-steel indoor pool for hotel guests; spa and fitness minimum age 18",
+      "link": "hotel:mandarin-oriental-hyde-park",
+      "operatorUrl": "https://www.mandarinoriental.com/en/london/hyde-park/wellness/fitness"
+    },
+    {
+      "name": "Pan Pacific London",
+      "evidenceKey": "pan pacific london",
+      "group": "spa",
+      "area": "City of London",
+      "postcode": "EC3A 7AB",
+      "station": "Liverpool Street",
+      "pool": "18.5m temperature-controlled infinity pool with a City view, 6.30am-9pm; under-16s weekdays 9-11am and 3-5pm, weekends 7-9am and 4-6pm",
+      "link": "hotelscom:2162317984",
+      "operatorUrl": "https://www.panpacific.com/en/hotels-and-resorts/pp-london/sensory-spa-and-wellbeing.html"
+    },
+    {
+      "name": "Hotel Café Royal",
+      "evidenceKey": "hotel café royal",
+      "group": "spa",
+      "area": "Soho",
+      "postcode": "W1B 4DY",
+      "station": "Piccadilly Circus",
+      "pool": "18m lap pool and jacuzzi in Akasha Spa, 7.15am-9pm; ages 5-16 weekdays 9-10.30am and 4-5.30pm, weekends 9-11am and 4-6pm",
+      "link": "hotel:hotel-cafe-royal",
+      "operatorUrl": "https://www.hotelcaferoyal.com/wellness/"
+    },
+    {
+      "name": "Four Seasons Hotel London at Tower Bridge",
+      "evidenceKey": "four seasons hotel london at tower bridge",
+      "group": "spa",
+      "area": "City of London",
+      "postcode": "EC3N 4AJ",
+      "station": "Tower Hill",
+      "pool": "Indoor swimming pool and vitality pool, 6.30am-8pm; children 6.30-11am and 2-6pm",
+      "link": "hotel:four-seasons-tower-bridge",
+      "operatorUrl": "https://www.fourseasons.com/towerbridge/spa/"
+    },
+    {
+      "name": "Haymarket Hotel",
+      "evidenceKey": "haymarket hotel",
+      "group": "spa",
+      "area": "West End",
+      "postcode": "SW1Y 4HX",
+      "station": "Piccadilly Circus",
+      "pool": "18m underground pool with a pewter bar, full access for in-house guests",
+      "link": "hotelscom:254265",
+      "operatorUrl": "https://www.firmdalehotels.com/hotels/haymarket-hotel"
+    },
+    {
+      "name": "The Carlton Tower Jumeirah",
+      "evidenceKey": "the carlton tower jumeirah",
+      "group": "spa",
+      "area": "Knightsbridge",
+      "postcode": "SW1X 9PY",
+      "station": "Knightsbridge",
+      "pool": "20m indoor pool and jacuzzi at The Peak Fitness Club and Spa",
+      "link": "hotel:jumeirah-carlton-tower",
+      "operatorUrl": "https://www.jumeirah.com/en/stay/london/jumeirah-carlton-tower/wellbeing"
+    },
+    {
+      "name": "The Marylebone",
+      "evidenceKey": "the marylebone",
+      "group": "spa",
+      "area": "Marylebone",
+      "postcode": "W1G 8DN",
+      "station": "Bond Street",
+      "pool": "18m pool at Third Space, the on-site members' gym, free to hotel guests; ages 5-17 10am-noon and 3-5pm",
+      "link": "hotelscom:120639",
+      "operatorUrl": "https://www.doylecollection.com/hotels/the-marylebone-hotel/fitness/third-space"
+    },
+    {
+      "name": "The Dilly",
+      "evidenceKey": "the dilly",
+      "group": "chain",
+      "area": "Piccadilly",
+      "postcode": "W1J 0BH",
+      "station": "Piccadilly Circus",
+      "pool": "11.5m x 12.75m indoor pool, 1.5m deep, in the Health Club, free to hotel guests",
+      "link": "hotelscom:117617",
+      "operatorUrl": "https://www.thedillylondon.com/swim-and-fitness/health-club-at-the-dilly"
+    },
+    {
+      "name": "Leonardo Royal London St Paul's",
+      "evidenceKey": "leonardo royal london st paul's",
+      "group": "chain",
+      "area": "City of London",
+      "postcode": "EC4V 5AJ",
+      "station": "St Paul's",
+      "pool": "16.6m heated indoor pool plus spa pool at Rena Spa; children weekdays 9.30-11.30am, 2.30-4.30pm and 8-10pm, weekends unrestricted",
+      "link": "hotelscom:275564",
+      "operatorUrl": "https://www.leonardohotels.co.uk/london/leonardo-royal-hotel-london-st-pauls/facilities"
+    },
+    {
+      "name": "Novotel London Blackfriars",
+      "evidenceKey": "novotel london blackfriars",
+      "group": "chain",
+      "area": "Southwark",
+      "postcode": "SE1 8NZ",
+      "station": "Southwark",
+      "pool": "Indoor heated pool, 1.2m deep and 12m wide, booked in one-hour slots",
+      "link": "hotelscom:421375",
+      "operatorUrl": "https://all.accor.com/hotel/7942/index.en.shtml"
+    }
+  ]
+}

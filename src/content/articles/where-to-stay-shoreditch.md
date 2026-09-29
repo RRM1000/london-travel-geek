@@ -5,7 +5,7 @@ description: "Shoreditch hotels compared, which streets are loud at 2am, and the
 heroImage: "../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-lobby.webp"
 heroImageAlt: "The open lobby at The Hoxton, Shoreditch: a brass ring chandelier over armchairs, an exposed brick fireplace, a herringbone bar under a Hoxton Grill sign, and a red bus passing the window"
 publishedAt: 2026-09-06
-updatedAt: 2026-09-25
+updatedAt: 2026-09-29
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -182,7 +182,7 @@ A heated rooftop pool and terrace open year-round over Shoreditch, which is why 
 
 **This building is on its third name.** It was The Curtain, then Mondrian Shoreditch, and has been Virgin Hotels London-Shoreditch since August 2024 — Virgin's first London property. Older guides and some booking listings still use the previous names.
 
-**The rooftop draws a non-resident crowd at weekends.** Book a pool slot rather than assuming it will be quiet.
+**The rooftop draws a non-resident crowd at weekends.** The pool takes no reservations: it is first come, first served, shared with members of the 45 London club, for those aged 18 and under from 7am to 3pm and for adults aged 21 and over from 3pm to 9pm. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) has the other rooftop pools.
 
 ### nhow London — the loud one, deliberately
 

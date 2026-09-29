@@ -5,7 +5,7 @@ description: "The family hotels London's parents, bloggers and the travel press 
 heroImage: "../../assets/articles/best-family-hotels-london/family-reading-in-bed.jpg"
 heroImageAlt: "A father reading a red picture book to two young children on a double bed, seen through an open bedroom door"
 publishedAt: 2026-09-18
-updatedAt: 2026-09-27
+updatedAt: 2026-09-29
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -15,7 +15,7 @@ faq:
   - q: "What counts as a family room in this guide?"
     a: "One room or suite that sleeps two adults and two children - not two separate rooms booked together. Several hotels here go further: St. Ermin's Hotel's family suite sleeps two adults and up to four children, and The Goring's interconnecting rooms sleep two adults and up to three."
   - q: "Which family hotels in this guide have a pool?"
-    a: "The Landmark London (15m, chlorine-free, with family swim times), The Berkeley (rooftop, plus a second pool), Mandarin Oriental Hyde Park, The Lanesborough (dedicated splash hours), London Marriott Hotel County Hall (25m), Hilton London Metropole and Town Hall Hotel and Apartments (15m, 6am to 10pm) all have one on site."
+    a: "The Berkeley (a rooftop pool, spring and summer only), London Marriott Hotel County Hall (25m, free to guests, children with an adult), Mandarin Oriental Hyde Park (17m, but its spa and fitness centre are 18 and over), The Lanesborough (dedicated splash hours), Hilton London Metropole and Town Hall Hotel and Apartments (14m) all have one on site. The Landmark London has a vitality pool with children's hours. Our guide to London hotels with a pool gives each pool's length and children's hours."
   - q: "Which of these hotels have interconnecting or connecting family rooms?"
     a: "Most of them. The Athenaeum, The Goring, St. Ermin's, The Rubens at the Palace, Royal Lancaster London, Mandarin Oriental Hyde Park, Brown's Hotel, The Ampersand Hotel and Royal Garden Hotel all confirmed connecting or interconnecting rooms on their own websites or through a source who booked one. Check at the time of booking - connecting pairs sell out first."
   - q: "Is it worth staying outside central London with a family?"
@@ -54,7 +54,7 @@ The room that actually fits a family of four here is the two-bedroom, two-bathro
 
 *The Winter Garden atrium, The Landmark London.*
 
-The Landmark's own site lists an Executive Family Room - "wonderfully spacious... with two Double size beds and an open plan comfortable lounge area" - alongside a dedicated Marylebone Family Suite and Family Studio. Mumsnet's review puts a number on it: the family room runs to 560 sq ft, big enough for the play tents the hotel supplies on request, and sits above a 15-metre chlorine-free pool with dedicated family swim times. Glamour UK's account adds a tepee, a head-torch and a teddy bear at check-in, plus breakfast under the palm trees of the glass-roofed Winter Garden. It stands across the road from Marylebone station. One thing that decides a stay: the atrium hosts a bottomless Sunday brunch, so ask for a room away from it if a quiet evening matters more than the palm trees.
+The Landmark's own site lists an Executive Family Room - "wonderfully spacious... with two Double size beds and an open plan comfortable lounge area" - alongside a dedicated Marylebone Family Suite and Family Studio. Mumsnet's review puts a number on it: the family room runs to 560 sq ft, big enough for the play tents the hotel supplies on request, and the relaunched spa has a vitality pool with children's hours of 9 to 11am and 3 to 5pm. Glamour UK's account adds a tepee, a head-torch and a teddy bear at check-in, plus breakfast under the palm trees of the glass-roofed Winter Garden. It stands across the road from Marylebone station. One thing that decides a stay: the atrium hosts a bottomless Sunday brunch, so ask for a room away from it if a quiet evening matters more than the palm trees.
 
 ### The Goring
 
@@ -150,7 +150,7 @@ Royal Lancaster's own site names the room to book: "Classic Family rooms... two 
 
 *The pool at London Marriott Hotel County Hall.*
 
-Mumsnet's review describes "big, airy family rooms with two double beds" inside the same grand riverside building as the London Eye and the old County Hall chamber, plus a 25-metre pool with family swimming hours from 8am to 6pm and a 6,000 sq ft gym on the top two floors. Kids Are A Trip singles out the Executive Double Double, which sleeps four, and a two-bedroom suite for five. Marcie in Mommyland, writing from friends' reports rather than her own stay, flags one genuine catch: it is a converted historic building, and "some rooms are far from the elevators" - ask for one near the lifts when booking with children and luggage. Big Ben and the Houses of Parliament are across the river. There is no direct step-free route to every room. One thing that decides a stay: request a room near the lifts at booking, not at check-in.
+Mumsnet's review describes "big, airy family rooms with two double beds" inside the same grand riverside building as the London Eye and the old County Hall chamber, plus a 25-metre pool in the hotel's health club, The Club at County Hall, free to guests from 7am to 9pm; there is no lifeguard, so children under 16 swim with an adult. Kids Are A Trip singles out the Executive Double Double, which sleeps four, and a two-bedroom suite for five. Marcie in Mommyland, writing from friends' reports rather than her own stay, flags one genuine catch: it is a converted historic building, and "some rooms are far from the elevators" - ask for one near the lifts when booking with children and luggage. Big Ben and the Houses of Parliament are across the river. There is no direct step-free route to every room. One thing that decides a stay: request a room near the lifts at booking, not at check-in.
 
 ### Park Plaza County Hall
 
@@ -170,7 +170,7 @@ A separate hotel from the Marriott in the same County Hall complex. Time Out and
 
 *A room at Mandarin Oriental Hyde Park.*
 
-The hotel's own site confirms connecting rooms by name: "the Mandarin Family Room and the Knightsbridge Family Room... especially suitable for families... available upon request, subject to availability." Glamour UK's account adds the detail that a second, interconnecting room is half price when the family package is booked, with all children's meals included and a basement spa pool open to families with no restricted hours. Kids Are A Trip's contributor calls the rollaway-bed space in the suites "incredibly spacious." Hyde Park is across the road, and Harrods and Knightsbridge station are both two minutes away. One thing that decides a stay: the family package with the half-price second room has to be booked as a package, not assembled from two separate room bookings.
+The hotel's own site confirms connecting rooms by name: "the Mandarin Family Room and the Knightsbridge Family Room... especially suitable for families... available upon request, subject to availability." Glamour UK's account adds the detail that a second, interconnecting room is half price when the family package is booked, with all children's meals included. The hotel's 17-metre pool is another matter: it sets 18 as the minimum age for its spa and fitness centre. Kids Are A Trip's contributor calls the rollaway-bed space in the suites "incredibly spacious." Hyde Park is across the road, and Harrods and Knightsbridge station are both two minutes away. One thing that decides a stay: the family package with the half-price second room has to be booked as a package, not assembled from two separate room bookings.
 
 ### The Lanesborough
 
@@ -252,11 +252,11 @@ Every hotel further out was checked against two things: does it have two or more
 
 *Bethnal Green · 5 min from Bethnal Green · Cited by 2 sources · [Hotels.com](hotel:town-hall-hotel)*
 
-![The 15-metre indoor swimming pool at Town Hall Hotel in Bethnal Green with brass railings, mosaic tiles and overhead skylights](../../assets/articles/best-family-hotels-london/town-hall-hotel-pool.jpg)
+![The 14-metre indoor swimming pool at Town Hall Hotel in Bethnal Green with brass railings, mosaic tiles and overhead skylights](../../assets/articles/best-family-hotels-london/town-hall-hotel-pool.jpg)
 
 *The pool at Town Hall Hotel.*
 
-A converted 1910 town hall in the East End, with a 15-metre pool open 6am to 10pm and Da Terra, a two-Michelin-starred restaurant, downstairs - neither of which any hotel in the central section above can offer at a comparable price. Santorini Dave calls the two-bedroom apartment here "for a family of 4," and Mumsnet's review notes the one and two-bedroom apartments come with well-equipped kitchens and Musetti coffee machines, five minutes from Bethnal Green tube. The Central line runs direct to Tottenham Court Road and Liverpool Street, both well inside thirty minutes. One thing that decides a stay: it's a genuine East End neighbourhood rather than a tourist strip - the pizza and burger places nearby are good, but the sights are a Tube ride rather than a walk.
+A converted 1910 town hall in the East End, with a 14-metre heated pool open to guests every day and Da Terra, a two-Michelin-starred restaurant, downstairs - neither of which any hotel in the central section above can offer at a comparable price. Santorini Dave calls the two-bedroom apartment here "for a family of 4," and Mumsnet's review notes the one and two-bedroom apartments come with well-equipped kitchens and Musetti coffee machines, five minutes from Bethnal Green tube. The Central line runs direct to Tottenham Court Road and Liverpool Street, both well inside thirty minutes. One thing that decides a stay: it's a genuine East End neighbourhood rather than a tourist strip - the pizza and burger places nearby are good, but the sights are a Tube ride rather than a walk.
 
 ## Booking essentials
 
@@ -276,6 +276,7 @@ A converted 1910 town hall in the East End, with a 15-metre pool open 6am to 10p
 
 - 👨‍👩‍👧 **[London With Children: Free Farms, Zoos and Days Out](/articles/london-with-children/)** - what to do once you've booked somewhere to sleep
 - 🍽️ **[Kids Eat Free in London](/articles/kids-eat-free-london/)** - every restaurant deal, checked
+- 🏊 **[London Hotels With a Pool](/articles/hotels-with-pool-london/)** - the length, the children's hours and the adults-only limits at every pool on the lists, including County Hall, The Berkeley and Town Hall
 - 🐕 **[Dog-Friendly Hotels in London](/articles/dog-friendly-hotels-london/)** - Royal Lancaster, The Rubens and Mandarin Oriental take dogs too: the fees, weight limits and nearest parks
 - 🧭 **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)** - where South Kensington, Bermondsey and Greenwich fit for a family that isn't chasing one of the hotels above
 - 💷 **[Best Budget Hotels in London](/articles/best-budget-hotels-london/)** - Premier Inn London Kensington (Earl's Court) is Mumsnet's own budget-family pick, and it's priced

@@ -4818,14 +4818,21 @@
     "topics": [
       "activities-shoreditch",
       "hotels",
+      "hotels-pool",
       "hotels-views"
     ],
-    "sourceCount": 4,
-    "tierSpread": "C4",
+    "sourceCount": 5,
+    "tierSpread": "C5",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -4849,6 +4856,11 @@
         "tier": "C",
         "source": "Travelled Road",
         "url": "https://www.travelledroad.com/things-to-do-in-shoreditch-london/"
+      },
+      {
+        "tier": "C",
+        "source": "aladyofleisure.com",
+        "url": "https://www.aladyofleisure.com/hotels-in-london-with-swimming-pools/"
       },
       {
         "tier": "C",
@@ -10645,10 +10657,11 @@
       "hotels-family",
       "hotels-luxury",
       "hotels-mayfair",
+      "hotels-pool",
       "instagrammable"
     ],
-    "sourceCount": 23,
-    "tierSpread": "B12 C10 D1",
+    "sourceCount": 24,
+    "tierSpread": "B13 C10 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -10686,6 +10699,12 @@
         "sourceCount": 4,
         "tierSpread": "B3 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       },
       "hotels": {
@@ -10762,6 +10781,12 @@
         "tier": "B",
         "source": "The Hotel Journal",
         "url": "https://thehoteljournal.com/best-five-star-hotels-london-england/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/",
+        "quote": "'until 2022 there was no pool... a new underground' spa and pool"
       },
       {
         "tier": "C",
@@ -11121,10 +11146,11 @@
     "topics": [
       "afternoon-tea",
       "british",
-      "hotels-luxury"
+      "hotels-luxury",
+      "hotels-pool"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B1 C2",
+    "sourceCount": 5,
+    "tierSpread": "A1 B2 C2",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -11145,6 +11171,12 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -11158,6 +11190,11 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/guides/best-afternoon-tea-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
       },
       {
         "tier": "C",
@@ -11318,11 +11355,12 @@
       "hotels",
       "hotels-family",
       "hotels-luxury",
+      "hotels-pool",
       "hotels-spa",
       "hotels-westminster"
     ],
-    "sourceCount": 9,
-    "tierSpread": "B4 C5",
+    "sourceCount": 19,
+    "tierSpread": "B9 C10",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -11348,6 +11386,12 @@
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 11,
+        "tierSpread": "B6 C5",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-spa": {
@@ -11388,8 +11432,34 @@
       },
       {
         "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/londons-best-hotels-with-pools"
+      },
+      {
+        "tier": "B",
         "source": "Conde Nast Traveller",
-        "url": "https://www.cntraveller.com/gallery/best-spas-in-london"
+        "url": "https://www.cntraveller.com/gallery/london-hotels-with-pools"
+      },
+      {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "The Independent",
+        "url": "https://www.independent.co.uk/travel/uk/england/london/best-swimming-pools-london-b3001076.html",
+        "quote": "'The Corinthia's vitality pool is found in its Biome spa on its thermal floor'"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/lifestyle/travel/london-hotel-pools-day-pass-a3874806.html"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
       },
       {
         "tier": "C",
@@ -11400,6 +11470,31 @@
         "tier": "C",
         "source": "Kids Are A Trip",
         "url": "https://kidsareatrip.com/the-best-london-family-hotels/"
+      },
+      {
+        "tier": "C",
+        "source": "tatler.com",
+        "url": "https://www.tatler.com/gallery/best-london-hotel-pools"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-hotel-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "aladyofleisure.com",
+        "url": "https://www.aladyofleisure.com/hotels-in-london-with-swimming-pools/"
       },
       {
         "tier": "C",
@@ -11512,11 +11607,12 @@
       "hotels",
       "hotels-family",
       "hotels-luxury",
+      "hotels-pool",
       "hotels-spa",
       "hotels-views"
     ],
-    "sourceCount": 12,
-    "tierSpread": "B8 C4",
+    "sourceCount": 17,
+    "tierSpread": "B10 C7",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -11542,6 +11638,12 @@
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C3",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-spa": {
@@ -11603,6 +11705,16 @@
       },
       {
         "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
         "source": "House & Garden",
         "url": "https://www.houseandgarden.co.uk/gallery/best-hotels-in-london"
       },
@@ -11624,6 +11736,21 @@
       },
       {
         "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-hotel-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
+      },
+      {
+        "tier": "C",
         "source": "The Hotel Guru",
         "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotel-views"
       }
@@ -11638,10 +11765,11 @@
       "hotels-budget",
       "hotels-family",
       "hotels-luxury",
-      "hotels-marylebone"
+      "hotels-marylebone",
+      "hotels-pool"
     ],
-    "sourceCount": 13,
-    "tierSpread": "B7 C6",
+    "sourceCount": 18,
+    "tierSpread": "B9 C9",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -11678,6 +11806,12 @@
       "hotels-marylebone": {
         "sourceCount": 3,
         "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C3",
         "tierCount": 2,
         "hasAward": false
       },
@@ -11727,6 +11861,17 @@
         "url": "https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/"
       },
       {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/lifestyle/travel/london-hotel-pools-day-pass-a3874806.html"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/",
+        "quote": "'The pool has family hours and grown-up time... uses no chlorine'"
+      },
+      {
         "tier": "C",
         "source": "Families Love Travel",
         "url": "https://familieslovetravel.com/london-hotels-families/"
@@ -11750,6 +11895,21 @@
         "tier": "C",
         "source": "londoninfoguide.com",
         "url": "https://www.londoninfoguide.com/best-hotels-in-marylebone-london.html"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-hotel-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
       },
       {
         "tier": "C",
@@ -12400,10 +12560,11 @@
       "hotels-family",
       "hotels-luxury",
       "hotels-marylebone",
+      "hotels-pool",
       "hotels-views"
     ],
-    "sourceCount": 13,
-    "tierSpread": "B8 C5",
+    "sourceCount": 22,
+    "tierSpread": "B11 C11",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -12441,6 +12602,12 @@
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 9,
+        "tierSpread": "B3 C6",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-views": {
@@ -12500,6 +12667,21 @@
         "url": "https://www.glamourmagazine.co.uk/gallery/best-family-friendly-london-hotels"
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/lifestyle/travel/london-hotel-pools-day-pass-a3874806.html"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "Resident",
         "url": "https://resident.com/london/2026/04/14/the-12-best-afternoon-tea-experiences-in-london-at-the-citys-most-elegant-hotels"
@@ -12513,6 +12695,36 @@
         "tier": "C",
         "source": "Santorini Dave",
         "url": "https://santorinidave.com/marylebone-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "tatler.com",
+        "url": "https://www.tatler.com/gallery/best-london-hotel-pools"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-hotel-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
       },
       {
         "tier": "C",
@@ -12530,10 +12742,11 @@
     "name": "Four Seasons Hotel London at Tower Bridge",
     "topics": [
       "afternoon-tea",
-      "hotels-luxury"
+      "hotels-luxury",
+      "hotels-pool"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C1 D1",
+    "sourceCount": 8,
+    "tierSpread": "B3 C4 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -12547,6 +12760,12 @@
         "sourceCount": 2,
         "tierSpread": "B2",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -12562,9 +12781,30 @@
         "url": "https://thehoteljournal.com/best-five-star-hotels-london-england/"
       },
       {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "Resident",
         "url": "https://resident.com/london/2026/04/14/the-12-best-afternoon-tea-experiences-in-london-at-the-citys-most-elegant-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-hotel-pools/",
+        "quote": "Listed as 'Four Seasons Hotel London at Ten Trinity Square', its earlier name."
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
       },
       {
         "tier": "D",
@@ -12764,10 +13004,11 @@
       "hotels-covent-garden",
       "hotels-family",
       "hotels-luxury",
+      "hotels-pool",
       "hotels-views"
     ],
-    "sourceCount": 15,
-    "tierSpread": "B8 C6 E1",
+    "sourceCount": 17,
+    "tierSpread": "B9 C7 E1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -12799,6 +13040,12 @@
         "sourceCount": 2,
         "tierSpread": "B2",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-views": {
@@ -12849,6 +13096,11 @@
       },
       {
         "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
         "source": "Conde Nast Traveller",
         "url": "https://www.cntraveller.com/gallery/best-hotels-in-london"
       },
@@ -12874,8 +13126,13 @@
       },
       {
         "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-hotel-pools/"
+      },
+      {
+        "tier": "C",
         "source": "The Hotel Guru",
-        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotel-views"
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
       },
       {
         "tier": "C",
@@ -13218,11 +13475,12 @@
       "afternoon-tea",
       "hotels-covent-garden",
       "hotels-family",
+      "hotels-pool",
       "hotels-soho",
       "hotels-westminster"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C3",
+    "sourceCount": 9,
+    "tierSpread": "B5 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -13241,6 +13499,12 @@
       "hotels-family": {
         "sourceCount": 2,
         "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 5,
+        "tierSpread": "B4 C1",
         "tierCount": 2,
         "hasAward": false
       },
@@ -13271,6 +13535,21 @@
         "quote": "Screening rooms for private kids' parties, a swimming pool, babysitting. From £425."
       },
       {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "Sunny in London",
         "url": "https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
@@ -13279,6 +13558,11 @@
         "tier": "C",
         "source": "Family Hotel Expert",
         "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
       },
       {
         "tier": "C",
@@ -13297,12 +13581,13 @@
       "hotels-dog-friendly",
       "hotels-family",
       "hotels-luxury",
+      "hotels-pool",
       "hotels-soho",
       "hotels-spa",
       "hotels-views"
     ],
-    "sourceCount": 16,
-    "tierSpread": "A1 B9 C4 D2",
+    "sourceCount": 18,
+    "tierSpread": "A1 B10 C5 D2",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -13340,6 +13625,12 @@
         "sourceCount": 2,
         "tierSpread": "B2",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-soho": {
@@ -13422,19 +13713,29 @@
         "url": "https://thehoteljournal.com/best-five-star-hotels-london-england/"
       },
       {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/lifestyle/travel/london-hotel-pools-day-pass-a3874806.html"
+      },
+      {
         "tier": "C",
         "source": "Sunny in London",
         "url": "https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
       },
       {
         "tier": "C",
-        "source": "thisissoho.co.uk",
-        "url": "https://www.thisissoho.co.uk/hotels/"
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
       },
       {
         "tier": "C",
-        "source": "The Hotel Guru",
-        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotel-views"
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "thisissoho.co.uk",
+        "url": "https://www.thisissoho.co.uk/hotels/"
       },
       {
         "tier": "C",
@@ -14425,10 +14726,11 @@
       "hotels-family",
       "hotels-luxury",
       "hotels-mayfair",
+      "hotels-pool",
       "hotels-spa"
     ],
-    "sourceCount": 14,
-    "tierSpread": "B7 C7",
+    "sourceCount": 16,
+    "tierSpread": "B8 C8",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -14459,6 +14761,12 @@
       "hotels-mayfair": {
         "sourceCount": 4,
         "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
         "tierCount": 2,
         "hasAward": false
       },
@@ -14513,6 +14821,11 @@
         "url": "https://www.cntraveller.com/gallery/best-hotels-in-mayfair-london"
       },
       {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "Santorini Dave",
         "url": "https://santorinidave.com/london-family-hotels"
@@ -14526,6 +14839,11 @@
         "tier": "C",
         "source": "Candace Abroad",
         "url": "https://candaceabroad.com/mayfair-hotels-london-where-to-stay-in-mayfair/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
       },
       {
         "tier": "C",
@@ -14585,11 +14903,12 @@
       "hotels-family",
       "hotels-luxury",
       "hotels-mayfair",
+      "hotels-pool",
       "hotels-spa",
       "hotels-views"
     ],
-    "sourceCount": 18,
-    "tierSpread": "B9 C8 D1",
+    "sourceCount": 19,
+    "tierSpread": "B10 C8 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -14627,6 +14946,12 @@
         "sourceCount": 4,
         "tierSpread": "B3 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       },
       "hotels-spa": {
@@ -14692,6 +15017,12 @@
       },
       {
         "tier": "B",
+        "source": "The Independent",
+        "url": "https://www.independent.co.uk/travel/uk/england/london/best-swimming-pools-london-b3001076.html",
+        "quote": "'the hotel's heated pool complete with a sauna and steam room, or... the hydrotherapy pool'"
+      },
+      {
+        "tier": "B",
         "source": "House & Garden",
         "url": "https://www.houseandgarden.co.uk/gallery/best-hotels-in-london"
       },
@@ -14750,7 +15081,8 @@
       "hotels",
       "hotels-aparthotel",
       "hotels-luxury",
-      "hotels-mayfair"
+      "hotels-mayfair",
+      "hotels-pool"
     ],
     "sourceCount": 8,
     "tierSpread": "A2 B3 C3",
@@ -14778,6 +15110,12 @@
       "hotels-mayfair": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -15019,11 +15357,12 @@
       "hotels-accessible",
       "hotels-budget",
       "hotels-family",
+      "hotels-pool",
       "hotels-views"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A1 C3 E1",
-    "tierCount": 3,
+    "sourceCount": 8,
+    "tierSpread": "A1 B1 C5 E1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "afternoon-tea": {
@@ -15050,6 +15389,12 @@
         "tierCount": 1,
         "hasAward": false
       },
+      "hotels-pool": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
       "hotels-views": {
         "sourceCount": 1,
         "tierSpread": "C1",
@@ -15064,6 +15409,11 @@
         "url": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/"
       },
       {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "wheelchairtravel.org",
         "url": "https://wheelchairtravel.org/london-hotels/"
@@ -15072,6 +15422,16 @@
         "tier": "C",
         "source": "Visit London",
         "url": "https://www.visitlondon.com/where-to-stay/hotel/family-hotels-london"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
       },
       {
         "tier": "C",
@@ -15591,10 +15951,11 @@
       "hotels",
       "hotels-belgravia",
       "hotels-family",
-      "hotels-luxury"
+      "hotels-luxury",
+      "hotels-pool"
     ],
-    "sourceCount": 11,
-    "tierSpread": "A1 B7 C3",
+    "sourceCount": 12,
+    "tierSpread": "A1 B8 C3",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -15626,6 +15987,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       },
       "hotels": {
@@ -15675,6 +16042,11 @@
         "tier": "B",
         "source": "Glamour UK",
         "url": "https://www.glamourmagazine.co.uk/gallery/best-family-friendly-london-hotels"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
       },
       {
         "tier": "C",
@@ -26902,10 +27274,11 @@
       "dinner-and-a-show",
       "hotels",
       "hotels-family",
+      "hotels-pool",
       "hotels-spa"
     ],
-    "sourceCount": 10,
-    "tierSpread": "B5 C4 E1",
+    "sourceCount": 21,
+    "tierSpread": "B10 C10 E1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -26925,6 +27298,12 @@
         "sourceCount": 2,
         "tierSpread": "B2",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 13,
+        "tierSpread": "B7 C6",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-spa": {
@@ -26966,8 +27345,34 @@
       },
       {
         "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/best-hotels-with-rooftop-pools"
+      },
+      {
+        "tier": "B",
         "source": "Conde Nast Traveller",
-        "url": "https://www.cntraveller.com/gallery/best-spas-in-london"
+        "url": "https://www.cntraveller.com/gallery/london-hotels-with-pools"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/best-rooftop-pools-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "Mumsnet",
+        "url": "https://www.mumsnet.com/talk/uk/4185024-Nice-London-hotels-with-a-view-and-swimming-pool",
+        "quote": "'You have to book a certain room type to access roof top pool and restaurant. There is an amazing indoor pool and spa in the basement.'"
       },
       {
         "tier": "C",
@@ -26979,6 +27384,36 @@
         "source": "London the Inside",
         "url": "https://londontheinside.com/where-to-go-for-drinks-dinner-and-a-show/",
         "quote": "As 'The Ned'. Its only live-music dining room is The Parlour, so the mention is filed there."
+      },
+      {
+        "tier": "C",
+        "source": "Time & Leisure",
+        "url": "https://timeandleisure.co.uk/things-to-do/best-luxury-hotels-with-outdoor-pool-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "pocketwanderings.com",
+        "url": "https://www.pocketwanderings.com/london-hotels-with-rooftop-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "twogetlost.com",
+        "url": "https://twogetlost.com/london-hotels-rooftop-pools"
+      },
+      {
+        "tier": "C",
+        "source": "The Rooftop Guide",
+        "url": "https://www.therooftopguide.com/rooftop-pools/rooftop-pools-london.html"
       },
       {
         "tier": "C",
@@ -40575,10 +41010,11 @@
       "hotels-covent-garden",
       "hotels-dog-friendly",
       "hotels-family",
-      "hotels-luxury"
+      "hotels-luxury",
+      "hotels-pool"
     ],
-    "sourceCount": 10,
-    "tierSpread": "B5 C5",
+    "sourceCount": 18,
+    "tierSpread": "B7 C11",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -40611,6 +41047,12 @@
         "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 8,
+        "tierSpread": "B2 C6",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
@@ -40640,6 +41082,16 @@
         "url": "https://thehoteljournal.com/best-five-star-hotels-london-england/"
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "A Lady in London",
         "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
@@ -40663,6 +41115,36 @@
         "tier": "C",
         "source": "ikonlondonmagazine.com",
         "url": "https://www.ikonlondonmagazine.com/dog-friendly-hotels-london-nearby/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-hotel-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
+      },
+      {
+        "tier": "C",
+        "source": "aladyofleisure.com",
+        "url": "https://www.aladyofleisure.com/hotels-in-london-with-swimming-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
       }
     ]
   },
@@ -49618,10 +50100,11 @@
       "hotels",
       "hotels-accessible",
       "hotels-family",
-      "hotels-luxury"
+      "hotels-luxury",
+      "hotels-pool"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
+    "sourceCount": 9,
+    "tierSpread": "B5 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -49649,6 +50132,12 @@
         "tierCount": 1,
         "hasAward": false
       },
+      "hotels-pool": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
       "hotels": {
         "sourceCount": 1,
         "tierSpread": "C1",
@@ -49669,9 +50158,35 @@
         "quote": "Best in the city - opposite Liverpool Street, in-room teepees, free meals for under-6s at Straits Kitchen, 18.5m infinity pool with family swim times."
       },
       {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/london-hotels-with-pools"
+      },
+      {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "blog.wheeltheworld.com",
         "url": "https://blog.wheeltheworld.com/accessible-hotels-london/"
+      },
+      {
+        "tier": "C",
+        "source": "twogetlost.com",
+        "url": "https://twogetlost.com/london-hotels-rooftop-pools"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@CityamUK",
+        "url": "https://www.youtube.com/@CityamUK",
+        "quote": "'Is this the best hotel pool in London?' (14 Jun 2026) - Ailsa Anderson LVO of Eastern City picks the Pan Pacific."
       },
       {
         "tier": "C",
@@ -51558,11 +52073,12 @@
       "hotels-belgravia",
       "hotels-family",
       "hotels-luxury",
+      "hotels-pool",
       "hotels-spa",
       "hotels-views"
     ],
-    "sourceCount": 16,
-    "tierSpread": "B7 C9",
+    "sourceCount": 34,
+    "tierSpread": "B13 C21",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -51588,6 +52104,12 @@
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 21,
+        "tierSpread": "B8 C13",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-spa": {
@@ -51646,6 +52168,36 @@
         "url": "https://www.glamourmagazine.co.uk/gallery/best-family-friendly-london-hotels"
       },
       {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/best-rooftop-pools-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/travel/london/london-best-outdoor-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/lifestyle/travel/london-hotel-pools-day-pass-a3874806.html"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "luxuryuk.com",
         "url": "https://luxuryuk.com/london-hotels-in-belgravia/"
@@ -51667,8 +52219,69 @@
       },
       {
         "tier": "C",
+        "source": "tatler.com",
+        "url": "https://www.tatler.com/gallery/best-london-hotel-pools"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-hotel-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Time & Leisure",
+        "url": "https://timeandleisure.co.uk/things-to-do/best-luxury-hotels-with-outdoor-pool-in-london/"
+      },
+      {
+        "tier": "C",
         "source": "The Hotel Guru",
-        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotel-views"
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools",
+        "quote": "'one the few London hotels with an outdoor pool. The rooftop pool (with a retractable roof...'"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Mummy Travels",
+        "url": "https://www.mummytravels.com/london-hotels-with-outdoor-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "pocketwanderings.com",
+        "url": "https://www.pocketwanderings.com/london-hotels-with-rooftop-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "twogetlost.com",
+        "url": "https://twogetlost.com/london-hotels-rooftop-pools"
+      },
+      {
+        "tier": "C",
+        "source": "The Rooftop Guide",
+        "url": "https://www.therooftopguide.com/rooftop-pools/rooftop-pools-london.html"
       },
       {
         "tier": "C",
@@ -54570,11 +55183,12 @@
       "hotels",
       "hotels-dog-friendly",
       "hotels-luxury",
+      "hotels-pool",
       "hotels-south-bank",
       "hotels-views"
     ],
-    "sourceCount": 9,
-    "tierSpread": "B4 C5",
+    "sourceCount": 24,
+    "tierSpread": "B10 C14",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -54594,6 +55208,12 @@
         "sourceCount": 2,
         "tierSpread": "B2",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 16,
+        "tierSpread": "B6 C10",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-south-bank": {
@@ -54637,14 +55257,90 @@
         "url": "https://thehoteljournal.com/best-five-star-hotels-london-england/"
       },
       {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/londons-best-hotels-with-pools"
+      },
+      {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "The Independent",
+        "url": "https://www.independent.co.uk/travel/uk/england/london/best-swimming-pools-london-b3001076.html"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "Mumsnet",
+        "url": "https://www.mumsnet.com/talk/uk/4185024-Nice-London-hotels-with-a-view-and-swimming-pool"
+      },
+      {
         "tier": "C",
-        "source": "anywhereweroam.com",
-        "url": "https://anywhereweroam.com/where-to-stay-south-bank/"
+        "source": "tatler.com",
+        "url": "https://www.tatler.com/gallery/best-london-hotel-pools"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-hotel-pools/"
       },
       {
         "tier": "C",
         "source": "The Hotel Guru",
-        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotel-views"
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Mummy Travels",
+        "url": "https://www.mummytravels.com/london-hotels-with-outdoor-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "pocketwanderings.com",
+        "url": "https://www.pocketwanderings.com/london-hotels-with-rooftop-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "twogetlost.com",
+        "url": "https://twogetlost.com/london-hotels-rooftop-pools"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@AndyMcloone",
+        "url": "https://www.youtube.com/@AndyMcloone",
+        "quote": "'The Shard London Review | Shangri-La Hotel, Infinity Pool, Gong Bar & Observation Deck Experience' (26 Feb 2026). No gifting disclosed."
+      },
+      {
+        "tier": "C",
+        "source": "anywhereweroam.com",
+        "url": "https://anywhereweroam.com/where-to-stay-south-bank/"
       },
       {
         "tier": "C",
@@ -87685,10 +88381,11 @@
     "name": "The Dilly",
     "topics": [
       "dinner-and-a-show",
-      "hotels-family"
+      "hotels-family",
+      "hotels-pool"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 8,
+    "tierSpread": "B2 C6",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -87703,6 +88400,12 @@
         "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 5,
+        "tierSpread": "B1 C4",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
@@ -87710,6 +88413,11 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/restaurants/restaurants-with-live-music-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
       },
       {
         "tier": "C",
@@ -87721,6 +88429,26 @@
         "tier": "C",
         "source": "Visit London",
         "url": "https://www.visitlondon.com/where-to-stay/hotel/family-hotels-london"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
       }
     ]
   },
@@ -131799,10 +132527,11 @@
       "hotels-accessible",
       "hotels-dog-friendly",
       "hotels-family",
+      "hotels-pool",
       "hotels-south-bank"
     ],
-    "sourceCount": 8,
-    "tierSpread": "B1 C6 E1",
+    "sourceCount": 14,
+    "tierSpread": "B4 C9 E1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -131824,6 +132553,12 @@
         "tierCount": 3,
         "hasAward": false
       },
+      "hotels-pool": {
+        "sourceCount": 6,
+        "tierSpread": "B3 C3",
+        "tierCount": 2,
+        "hasAward": false
+      },
       "hotels-south-bank": {
         "sourceCount": 1,
         "tierSpread": "C1",
@@ -131842,6 +132577,22 @@
         "tier": "B",
         "source": "Mumsnet",
         "url": "https://www.mumsnet.com/articles/best-family-hotels-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/londons-best-hotels-with-pools"
+      },
+      {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/",
+        "quote": "'The one with palm trees'"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
       },
       {
         "tier": "C",
@@ -131870,6 +132621,21 @@
         "source": "Marcie in Mommyland",
         "url": "https://www.marcieinmommyland.com/family-friendly-hotels-in-london-england/",
         "quote": "Not stayed at directly (three friends' reports). Views of Big Ben and the Thames; 25m indoor pool. Large hotel - ask for a room near the lifts."
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
       },
       {
         "tier": "C",
@@ -131937,16 +132703,23 @@
   "novotellondonblackfriars": {
     "name": "Novotel London Blackfriars",
     "topics": [
-      "hotels-accessible"
+      "hotels-accessible",
+      "hotels-pool"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 5,
+    "tierSpread": "C5",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "hotels-accessible": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 4,
+        "tierSpread": "C4",
         "tierCount": 1,
         "hasAward": false
       }
@@ -131956,6 +132729,26 @@
         "tier": "C",
         "source": "wheelchairtravel.org",
         "url": "https://wheelchairtravel.org/london-hotels/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "asuffolkmum.co.uk",
+        "url": "https://asuffolkmum.co.uk/5-great-family-friendly-hotels-in-london-with-a-swimming-pool/"
       }
     ]
   },
@@ -133353,11 +134146,12 @@
     "name": "The Carlton Tower Jumeirah",
     "topics": [
       "hotels-belgravia",
-      "hotels-family"
+      "hotels-family",
+      "hotels-pool"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 6,
+    "tierSpread": "B3 C3",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-belgravia": {
@@ -133371,9 +134165,31 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/rooftop-pools-london",
+        "quote": "Listed as 'Peak Health Club', 1 Cadogan Place - the Carlton Tower's own club."
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
       {
         "tier": "C",
         "source": "luxuryuk.com",
@@ -133383,6 +134199,11 @@
         "tier": "C",
         "source": "Families Love Travel",
         "url": "https://familieslovetravel.com/london-hotels-families/"
+      },
+      {
+        "tier": "C",
+        "source": "twogetlost.com",
+        "url": "https://twogetlost.com/london-hotels-rooftop-pools"
       }
     ]
   },
@@ -136030,16 +136851,23 @@
   "fulhampierhotel": {
     "name": "Fulham Pier Hotel",
     "topics": [
-      "hotels-boutique"
+      "hotels-boutique",
+      "hotels-pool"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-boutique": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -136054,6 +136882,11 @@
         "tier": "B",
         "source": "Conde Nast Traveler (US)",
         "url": "https://www.cntraveler.com/gallery/best-boutique-hotels-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Time & Leisure",
+        "url": "https://timeandleisure.co.uk/things-to-do/best-luxury-hotels-with-outdoor-pool-in-london/"
       }
     ]
   },
@@ -138590,16 +139423,23 @@
     "name": "Town Hall Hotel",
     "topics": [
       "hotels",
-      "hotels-budget"
+      "hotels-budget",
+      "hotels-pool"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-budget": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       },
@@ -138631,7 +139471,12 @@
       {
         "tier": "C",
         "source": "The Hotel Guru",
-        "url": "https://www.thehotelguru.com/best-hotels-in/united-kingdom/london"
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
+      },
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
       }
     ]
   },
@@ -139509,10 +140354,11 @@
     "name": "Leonardo Royal London Tower Bridge",
     "topics": [
       "hotels-budget",
-      "hotels-family"
+      "hotels-family",
+      "hotels-pool"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -139525,6 +140371,12 @@
       "hotels-family": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -139541,6 +140393,11 @@
         "source": "Lost in Landmarks",
         "url": "https://lostinlandmarks.com/budget-family-accommodation-in-london/",
         "quote": "'Leonardo Royal London Tower Hotel'. Rooms from around £200."
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
       }
     ]
   },
@@ -139631,10 +140488,11 @@
     "topics": [
       "hotels",
       "hotels-budget",
+      "hotels-pool",
       "hotels-views"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 14,
+    "tierSpread": "B7 C7",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -139642,6 +140500,12 @@
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 12,
+        "tierSpread": "B6 C6",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-views": {
@@ -139663,6 +140527,67 @@
         "source": "AFAR",
         "url": "https://www.afar.com/hotels/affordable-london-hotels",
         "quote": "'rooftop pool with killer views'. From $256."
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/best-hotels-with-rooftop-pools"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/london-hotels-with-pools"
+      },
+      {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/rooftop-pools-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/best-rooftop-pools-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Time & Leisure",
+        "url": "https://timeandleisure.co.uk/things-to-do/best-luxury-hotels-with-outdoor-pool-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Mummy Travels",
+        "url": "https://www.mummytravels.com/london-hotels-with-outdoor-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "pocketwanderings.com",
+        "url": "https://www.pocketwanderings.com/london-hotels-with-rooftop-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "The Rooftop Guide",
+        "url": "https://www.therooftopguide.com/rooftop-pools/rooftop-pools-london.html"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@NicolasTravelDiaries",
+        "url": "https://www.youtube.com/@NicolasTravelDiaries",
+        "quote": "'Art'otel Battersea Actually Worth the Money? | Honest Review 2026' (7 Aug 2026) - 'Heated rooftop infinity pool & Battersea skyline views'. No gifting disclosed."
       },
       {
         "tier": "C",
@@ -140216,10 +141141,11 @@
     "topics": [
       "hotels-budget",
       "hotels-family",
+      "hotels-pool",
       "hotels-south-bank"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
+    "sourceCount": 9,
+    "tierSpread": "B2 C7",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -140233,6 +141159,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 5,
+        "tierSpread": "C5",
+        "tierCount": 1,
         "hasAward": false
       },
       "hotels-south-bank": {
@@ -140261,6 +141193,32 @@
       },
       {
         "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "aladyofleisure.com",
+        "url": "https://www.aladyofleisure.com/hotels-in-london-with-swimming-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@familytripster",
+        "url": "https://www.youtube.com/@familytripster",
+        "quote": "'Best Family Friendly Hotel in London - Hilton Bankside' (25 May 2026) - 'Indoor pool and spa for downtime after sightseeing'. No gifting disclosed."
+      },
+      {
+        "tier": "C",
         "source": "Santorini Dave",
         "url": "https://santorinidave.com/south-bank-hotels"
       }
@@ -140269,17 +141227,24 @@
   "nyxhotellondonholborn": {
     "name": "NYX Hotel London Holborn",
     "topics": [
-      "hotels-budget"
+      "hotels-budget",
+      "hotels-pool"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 E1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 E1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "hotels-budget": {
         "sourceCount": 2,
         "tierSpread": "B1 E1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -140289,6 +141254,11 @@
         "source": "Glamour UK",
         "url": "https://www.glamourmagazine.co.uk/gallery/affordable-london-hotels",
         "quote": "'Best for: Value & Solo travel'. From £181."
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
       },
       {
         "tier": "E",
@@ -142592,14 +143562,21 @@
   "holidayinnlondonkensingtonhighstreet": {
     "name": "Holiday Inn London Kensington High Street",
     "topics": [
-      "hotels-budget"
+      "hotels-budget",
+      "hotels-pool"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "hotels-budget": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -142612,6 +143589,11 @@
         "source": "Candace Abroad",
         "url": "https://candaceabroad.com/budget-hotels-in-london/",
         "quote": "Under-£150 page ('Holiday Inn Kensington High Street')."
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
       }
     ]
   },
@@ -145549,11 +146531,12 @@
       "hotels",
       "hotels-budget",
       "hotels-family",
+      "hotels-pool",
       "hotels-south-bank",
       "hotels-westminster"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B1 C5",
+    "sourceCount": 11,
+    "tierSpread": "B1 C10",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -145566,6 +146549,12 @@
       "hotels-family": {
         "sourceCount": 3,
         "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 6,
+        "tierSpread": "B1 C5",
         "tierCount": 2,
         "hasAward": false
       },
@@ -145614,6 +146603,32 @@
       },
       {
         "tier": "C",
+        "source": "aladyofleisure.com",
+        "url": "https://www.aladyofleisure.com/hotels-in-london-with-swimming-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "asuffolkmum.co.uk",
+        "url": "https://asuffolkmum.co.uk/5-great-family-friendly-hotels-in-london-with-a-swimming-pool/",
+        "quote": "Called 'the Park Plaza Hilton on the South Bank'; stayed October half term 2021 as a family of four. 'The hotel swimming pool is on one of the levels below ground and is part of a spa... it isn't all that big'."
+      },
+      {
+        "tier": "C",
         "source": "seeninthecity.co.uk",
         "url": "https://seeninthecity.co.uk/best-hotels-in-westminster/"
       },
@@ -145629,10 +146644,11 @@
     "topics": [
       "hotels-budget",
       "hotels-family",
+      "hotels-pool",
       "hotels-spa"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 6,
+    "tierSpread": "B2 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -145648,6 +146664,12 @@
         "tierCount": 1,
         "hasAward": false
       },
+      "hotels-pool": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
       "hotels-spa": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -145656,6 +146678,11 @@
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Mumsnet",
+        "url": "https://www.mumsnet.com/talk/uk/4185024-Nice-London-hotels-with-a-view-and-swimming-pool"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -145671,6 +146698,16 @@
         "tier": "C",
         "source": "Family Hotel Expert",
         "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "asuffolkmum.co.uk",
+        "url": "https://asuffolkmum.co.uk/5-great-family-friendly-hotels-in-london-with-a-swimming-pool/"
       }
     ]
   },
@@ -149487,11 +150524,12 @@
   "londonmarriotthotelmaidavale": {
     "name": "London Marriott Hotel Maida Vale",
     "topics": [
-      "hotels-budget"
+      "hotels-budget",
+      "hotels-pool"
     ],
-    "sourceCount": 1,
-    "tierSpread": "E1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 E1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-budget": {
@@ -149499,9 +150537,21 @@
         "tierSpread": "E1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "C",
+        "source": "asuffolkmum.co.uk",
+        "url": "https://asuffolkmum.co.uk/5-great-family-friendly-hotels-in-london-with-a-swimming-pool/",
+        "quote": "'There is a Bannatyne's gym next door that all hotel guests receive complementary access to the swimming pool' - the pool is not the hotel's own."
+      },
       {
         "tier": "E",
         "source": "Reddit",
@@ -150182,11 +151232,12 @@
   "lincolnplazalondon": {
     "name": "Lincoln Plaza London",
     "topics": [
-      "hotels-budget"
+      "hotels-budget",
+      "hotels-pool"
     ],
-    "sourceCount": 1,
-    "tierSpread": "E1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 E1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-budget": {
@@ -150194,9 +151245,21 @@
         "tierSpread": "E1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@bellagio1066",
+        "url": "https://www.youtube.com/@bellagio1066",
+        "quote": "'Hilton Curio Collection Lincoln Plaza London Review | Room, Pool, Gym & Breakfast' (15 Jun 2026). No gifting disclosed."
+      },
       {
         "tier": "E",
         "source": "Reddit",
@@ -156228,10 +157291,11 @@
     "name": "The Westin London City",
     "topics": [
       "hotels-dog-friendly",
-      "hotels-family"
+      "hotels-family",
+      "hotels-pool"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 6,
+    "tierSpread": "B2 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -156246,6 +157310,12 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
@@ -156255,9 +157325,30 @@
         "url": "https://www.thehandbook.com/londons-best-dog-friendly-hotels/"
       },
       {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/",
+        "quote": "'This is a grown up pool, set in the very heart of The City.'"
+      },
+      {
         "tier": "C",
         "source": "Kids Are A Trip",
         "url": "https://kidsareatrip.com/the-best-london-family-hotels/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "asuffolkmum.co.uk",
+        "url": "https://asuffolkmum.co.uk/5-great-family-friendly-hotels-in-london-with-a-swimming-pool/"
       }
     ]
   },
@@ -156364,10 +157455,11 @@
     "name": "Hilton London Metropole",
     "topics": [
       "hotels-dog-friendly",
-      "hotels-family"
+      "hotels-family",
+      "hotels-pool"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B1 C4",
+    "sourceCount": 6,
+    "tierSpread": "B2 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -156382,6 +157474,12 @@
         "tierSpread": "B1 C3",
         "tierCount": 2,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -156389,6 +157487,12 @@
         "tier": "B",
         "source": "Family Traveller",
         "url": "https://familytraveller.com/holiday-destinations/uk/london/10-of-the-best-family-hotels-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Mumsnet",
+        "url": "https://www.mumsnet.com/talk/uk/4185024-Nice-London-hotels-with-a-view-and-swimming-pool",
+        "quote": "'Hilton metropole on edgeware Road does, its a bit tired though.'"
       },
       {
         "tier": "C",
@@ -156415,11 +157519,12 @@
   "stpancraslondonautographcollection": {
     "name": "St Pancras London, Autograph Collection",
     "topics": [
-      "hotels-dog-friendly"
+      "hotels-dog-friendly",
+      "hotels-pool"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 6,
+    "tierSpread": "B3 C3",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-dog-friendly": {
@@ -156427,13 +157532,46 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/londons-best-hotels-with-pools",
+        "quote": "Listed as 'St Pancras Renaissance', the hotel's name before its June 2025 rebrand."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london",
+        "quote": "Listed as 'St. Pancras Renaissance Hotel'."
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "ikonlondonmagazine.com",
         "url": "https://www.ikonlondonmagazine.com/dog-friendly-hotels-london-nearby/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
       }
     ]
   },
@@ -156627,16 +157765,23 @@
     "name": "The Peninsula London",
     "topics": [
       "hotels-family",
+      "hotels-pool",
       "hotels-views"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 6,
+    "tierSpread": "B3 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-family": {
         "sourceCount": 2,
         "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
         "tierCount": 2,
         "hasAward": false
       },
@@ -156654,9 +157799,25 @@
         "url": "https://www.timeout.com/london/hotels/the-best-family-friendly-hotels-in-london"
       },
       {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/london-hotels-with-pools",
+        "quote": "'a faux skylight above the turquoise tiled 25-metre swimming pool that mimics the changing light of the day... underwater speakers'"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "Family Hotel Expert",
         "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
       },
       {
         "tier": "C",
@@ -156672,10 +157833,11 @@
       "hotels-family",
       "hotels-luxury",
       "hotels-mayfair",
+      "hotels-pool",
       "hotels-spa"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B5",
+    "sourceCount": 6,
+    "tierSpread": "B6",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
@@ -156692,6 +157854,12 @@
         "hasAward": false
       },
       "hotels-mayfair": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
         "sourceCount": 2,
         "tierSpread": "B2",
         "tierCount": 1,
@@ -156730,6 +157898,12 @@
         "tier": "B",
         "source": "Conde Nast Traveler (US)",
         "url": "https://www.cntraveler.com/gallery/best-hotels-in-mayfair-londons-chicest-corner"
+      },
+      {
+        "tier": "B",
+        "source": "The Independent",
+        "url": "https://www.independent.co.uk/travel/uk/england/london/best-swimming-pools-london-b3001076.html",
+        "quote": "'a 25m swimming pool in Mayfair's luxury Mandarin Oriental spa'"
       },
       {
         "tier": "B",
@@ -157905,11 +159079,12 @@
       "hotels-family",
       "hotels-luxury",
       "hotels-mayfair",
+      "hotels-pool",
       "hotels-spa",
       "hotels-views"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B3 C3",
+    "sourceCount": 7,
+    "tierSpread": "B4 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -157928,6 +159103,12 @@
       "hotels-mayfair": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -157960,6 +159141,11 @@
         "tier": "B",
         "source": "The Hotel Journal",
         "url": "https://thehoteljournal.com/best-five-star-hotels-london-england/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
       },
       {
         "tier": "B",
@@ -158060,11 +159246,12 @@
   "londonmarriotthotelparklane": {
     "name": "London Marriott Hotel Park Lane",
     "topics": [
-      "hotels-family"
+      "hotels-family",
+      "hotels-pool"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-family": {
@@ -158072,13 +159259,34 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "Families Love Travel",
         "url": "https://familieslovetravel.com/london-hotels-families/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
       }
     ]
   },
@@ -158939,11 +160147,12 @@
   "aloftlondonexcel": {
     "name": "Aloft London Excel",
     "topics": [
-      "hotels-family"
+      "hotels-family",
+      "hotels-pool"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-family": {
@@ -158951,13 +160160,34 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/londons-best-hotels-with-pools"
+      },
+      {
+        "tier": "B",
+        "source": "Mumsnet",
+        "url": "https://www.mumsnet.com/talk/uk/4185024-Nice-London-hotels-with-a-view-and-swimming-pool"
+      },
+      {
         "tier": "C",
         "source": "Family Hotel Expert",
         "url": "https://familyhotelexpert.co.uk/best-london-hotels-for-families/"
+      },
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/"
       }
     ]
   },
@@ -160307,17 +161537,24 @@
     "name": "Virgin Hotels London Shoreditch",
     "topics": [
       "hotels-family",
+      "hotels-pool",
       "hotels-shoreditch"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C1 E1",
-    "tierCount": 2,
+    "sourceCount": 12,
+    "tierSpread": "B6 C5 E1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "hotels-family": {
         "sourceCount": 1,
         "tierSpread": "E1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 10,
+        "tierSpread": "B6 C4",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-shoreditch": {
@@ -160328,6 +161565,61 @@
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/best-hotels-with-rooftop-pools",
+        "quote": "Listed under its current name; formerly Mondrian Shoreditch."
+      },
+      {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/",
+        "quote": "Listed as 'Mondrian London Shoreditch', its name before the Virgin Hotels rebrand."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london",
+        "quote": "Listed as 'Mondrian Shoreditch'."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/best-rooftop-pools-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "Mumsnet",
+        "url": "https://www.mumsnet.com/talk/uk/4185024-Nice-London-hotels-with-a-view-and-swimming-pool",
+        "quote": "Named as 'The curtain in shoreditch... with a rooftop pool' - The Curtain was this building's first name (45 Curtain Road), before Mondrian Shoreditch and, since August 2024, Virgin Hotels. Merged by hand; see where-to-stay-shoreditch.md."
+      },
+      {
+        "tier": "C",
+        "source": "Time & Leisure",
+        "url": "https://timeandleisure.co.uk/things-to-do/best-luxury-hotels-with-outdoor-pool-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "pocketwanderings.com",
+        "url": "https://www.pocketwanderings.com/london-hotels-with-rooftop-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "twogetlost.com",
+        "url": "https://twogetlost.com/london-hotels-rooftop-pools",
+        "quote": "Listed as 'Mondrian London Shoreditch'."
+      },
+      {
+        "tier": "C",
+        "source": "The Rooftop Guide",
+        "url": "https://www.therooftopguide.com/rooftop-pools/rooftop-pools-london.html"
+      },
       {
         "tier": "C",
         "source": "The Nudge",
@@ -162155,11 +163447,12 @@
     "name": "the Bulgari Hotel London",
     "topics": [
       "hotels-luxury",
+      "hotels-pool",
       "hotels-spa",
       "hotels-views"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 8,
+    "tierSpread": "B6 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -162167,6 +163460,12 @@
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 5,
+        "tierSpread": "B4 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "hotels-spa": {
@@ -162190,8 +163489,33 @@
       },
       {
         "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/londons-best-hotels-with-pools"
+      },
+      {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/lifestyle/travel/london-hotel-pools-day-pass-a3874806.html"
+      },
+      {
+        "tier": "B",
         "source": "Conde Nast Traveller",
         "url": "https://www.cntraveller.com/gallery/best-spas-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-hotel-pools/"
       },
       {
         "tier": "C",
@@ -162204,14 +163528,21 @@
     "name": "The Emory",
     "topics": [
       "hotels",
-      "hotels-luxury"
+      "hotels-luxury",
+      "hotels-pool"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C2",
+    "sourceCount": 7,
+    "tierSpread": "B5 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-luxury": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-pool": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -162229,6 +163560,11 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
       },
       {
         "tier": "B",
@@ -162764,11 +164100,12 @@
   "marylebone": {
     "name": "The Marylebone",
     "topics": [
-      "hotels-marylebone"
+      "hotels-marylebone",
+      "hotels-pool"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "hotels-marylebone": {
@@ -162776,13 +164113,29 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hotels-pool": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
         "tier": "C",
         "source": "Santorini Dave",
         "url": "https://santorinidave.com/marylebone-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"
       }
     ]
   },
@@ -166444,6 +167797,535 @@
       }
     ]
   },
+  "shoreditchhouse": {
+    "name": "Shoreditch House",
+    "topics": [
+      "hotels-pool",
+      "hotels-shoreditch"
+    ],
+    "sourceCount": 11,
+    "tierSpread": "B6 C5",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 11,
+        "tierSpread": "B6 C5",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-shoreditch": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/londons-best-hotels-with-pools",
+        "quote": "Listed as 'Shoreditch Rooms' - the bedrooms attached to Soho House's Shoreditch House, whose guests use the club's rooftop pool."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/best-rooftop-pools-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/travel/london/london-best-outdoor-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/lifestyle/travel/london-hotel-pools-day-pass-a3874806.html"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "Mumsnet",
+        "url": "https://www.mumsnet.com/talk/uk/4185024-Nice-London-hotels-with-a-view-and-swimming-pool",
+        "quote": "'if you book a room you access to all the members areas including outdoor pool'"
+      },
+      {
+        "tier": "C",
+        "source": "tatler.com",
+        "url": "https://www.tatler.com/gallery/best-london-hotel-pools"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
+      },
+      {
+        "tier": "C",
+        "source": "Mummy Travels",
+        "url": "https://www.mummytravels.com/london-hotels-with-outdoor-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "The Rooftop Guide",
+        "url": "https://www.therooftopguide.com/rooftop-pools/rooftop-pools-london.html"
+      }
+    ]
+  },
+  "canaryriversideplazahotel": {
+    "name": "Canary Riverside Plaza Hotel",
+    "topics": [
+      "hotels-pool"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B2 C4",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 6,
+        "tierSpread": "B2 C4",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/londons-best-hotels-with-pools"
+      },
+      {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "Mummy Travels",
+        "url": "https://www.mummytravels.com/london-hotels-with-outdoor-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "twogetlost.com",
+        "url": "https://twogetlost.com/london-hotels-rooftop-pools"
+      }
+    ]
+  },
+  "whitecityhouse": {
+    "name": "White City House",
+    "topics": [
+      "hotels-pool"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B5 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 7,
+        "tierSpread": "B5 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/best-hotels-with-rooftop-pools",
+        "quote": "Listed as 'Soho House White City'."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hotel-pools-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/best-rooftop-pools-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/travel/london/london-best-outdoor-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "twogetlost.com",
+        "url": "https://twogetlost.com/london-hotels-rooftop-pools"
+      },
+      {
+        "tier": "C",
+        "source": "The Rooftop Guide",
+        "url": "https://www.therooftopguide.com/rooftop-pools/rooftop-pools-london.html"
+      }
+    ]
+  },
+  "sixsenseslondon": {
+    "name": "Six Senses London",
+    "topics": [
+      "hotels",
+      "hotels-pool"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/london-hotels-with-pools"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveler (US)",
+        "url": "https://www.cntraveler.com/gallery/best-hotels-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/hotels/the-100-best-hotels-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@ThePointsGuyArrivals",
+        "url": "https://www.youtube.com/@ThePointsGuyArrivals",
+        "quote": "'From the stunning spa and indoor pool to cutting-edge wellness technology' - chapter 04:05 Spa. 12 Jun 2026, 8.5k views."
+      }
+    ]
+  },
+  "chelseaharbourhotel": {
+    "name": "The Chelsea Harbour Hotel",
+    "topics": [
+      "hotels-pool",
+      "hotels-views"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-views": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Esquire UK",
+        "url": "https://www.esquire.com/uk/life/travel/a27387912/london-hotels-with-pools/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      },
+      {
+        "tier": "C",
+        "source": "juliasomething.com",
+        "url": "https://juliasomething.com/best-hotels-in-london-with-a-view/"
+      }
+    ]
+  },
+  "rembrandt": {
+    "name": "The Rembrandt",
+    "topics": [
+      "hotels-pool",
+      "hotels-south-kensington"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-south-kensington": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/lifestyle/travel/london-hotel-pools-day-pass-a3874806.html"
+      },
+      {
+        "tier": "C",
+        "source": "southkenculturequarter.com",
+        "url": "https://www.southkenculturequarter.com/itinerary/places-stay-south-kensington/"
+      }
+    ]
+  },
+  "leonardoroyallondoncity": {
+    "name": "Leonardo Royal London City",
+    "topics": [
+      "hotels-pool"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/"
+      }
+    ]
+  },
+  "parkhyattlondonriverthames": {
+    "name": "Park Hyatt London River Thames",
+    "topics": [
+      "hotels-pool",
+      "seafood"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-hotels-with-pools/",
+        "quote": "'The wellness floor... includes an elegant 60-foot pool.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-oysters/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurytraveldiary.com",
+        "url": "https://www.luxurytraveldiary.com/2026/03/hidden-gems-luxury-hotels-london-pools/"
+      }
+    ]
+  },
+  "courthousehotelshoreditch": {
+    "name": "Courthouse Hotel Shoreditch",
+    "topics": [
+      "hotels-pool",
+      "hotels-views"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hotels-views": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hotel Guru",
+        "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools",
+        "quote": "'a converted Magistrates Court & police station in Shoreditch... indoor pool'"
+      },
+      {
+        "tier": "C",
+        "source": "The Rooftop Guide",
+        "url": "https://www.therooftopguide.com/rooftop-news/7-great-hotels-with-rooftop-in-london.html"
+      }
+    ]
+  },
+  "richmondharbourhotel": {
+    "name": "Richmond Harbour Hotel",
+    "topics": [
+      "hotels-pool"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/london-hotels-with-swimming-pool/"
+      }
+    ]
+  },
+  "montcalmmarblearch": {
+    "name": "The Montcalm Marble Arch",
+    "topics": [
+      "hotels-pool"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Globetotting",
+        "url": "https://globetotting.com/family-friendly-hotels-london-swimming-pool/",
+        "quote": "Listed as 'The Montcalm', located 'in Marble Arch near Oxford Street'."
+      },
+      {
+        "tier": "C",
+        "source": "Wanderlust Chloe",
+        "url": "https://www.wanderlustchloe.com/family-friendly-hotels-in-london-with-pools/"
+      }
+    ]
+  },
+  "dolphinhouseservicedapartments": {
+    "name": "Dolphin House Serviced Apartments",
+    "topics": [
+      "hotels-pool"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "flashpackingfamily.com",
+        "url": "https://flashpackingfamily.com/family-friendly-hotels-in-london-with-pools/"
+      }
+    ]
+  },
+  "collectivecanarywharf": {
+    "name": "The Collective Canary Wharf",
+    "topics": [
+      "hotels-pool"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hotels-pool": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "twogetlost.com",
+        "url": "https://twogetlost.com/london-hotels-rooftop-pools"
+      }
+    ]
+  },
   "artotelhoxton": {
     "name": "Art'otel Hoxton",
     "topics": [
@@ -166583,31 +168465,6 @@
   },
   "shoreditchinn": {
     "name": "Shoreditch Inn",
-    "topics": [
-      "hotels-shoreditch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-shoreditch": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-shoreditch"
-      }
-    ]
-  },
-  "shoreditchhouse": {
-    "name": "Shoreditch House",
     "topics": [
       "hotels-shoreditch"
     ],
@@ -168442,31 +170299,6 @@
       }
     ]
   },
-  "rembrandt": {
-    "name": "The Rembrandt",
-    "topics": [
-      "hotels-south-kensington"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-south-kensington": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "southkenculturequarter.com",
-        "url": "https://www.southkenculturequarter.com/itinerary/places-stay-south-kensington/"
-      }
-    ]
-  },
   "vanderbilthotel": {
     "name": "The Vanderbilt Hotel",
     "topics": [
@@ -169648,31 +171480,6 @@
       }
     ]
   },
-  "courthousehotelshoreditch": {
-    "name": "Courthouse Hotel Shoreditch",
-    "topics": [
-      "hotels-views"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-views": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Rooftop Guide",
-        "url": "https://www.therooftopguide.com/rooftop-news/7-great-hotels-with-rooftop-in-london.html"
-      }
-    ]
-  },
   "dorsettcitylondon": {
     "name": "Dorsett City London",
     "topics": [
@@ -169749,31 +171556,6 @@
         "tier": "C",
         "source": "Love and London",
         "url": "https://loveandlondon.com/new-years-eve-hotels-london/"
-      }
-    ]
-  },
-  "chelseaharbourhotel": {
-    "name": "The Chelsea Harbour Hotel",
-    "topics": [
-      "hotels-views"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels-views": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "juliasomething.com",
-        "url": "https://juliasomething.com/best-hotels-in-london-with-a-view/"
       }
     ]
   },
@@ -170354,41 +172136,6 @@
         "tier": "C",
         "source": "anywhereweroam.com",
         "url": "https://anywhereweroam.com/where-to-stay-westminster/"
-      }
-    ]
-  },
-  "sixsenseslondon": {
-    "name": "Six Senses London",
-    "topics": [
-      "hotels"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "hotels": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveller",
-        "url": "https://www.cntraveller.com/gallery/best-hotels-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveler (US)",
-        "url": "https://www.cntraveler.com/gallery/best-hotels-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/hotels/the-100-best-hotels-in-london"
       }
     ]
   },
@@ -215928,31 +217675,6 @@
   },
   "willettsatthecadogan": {
     "name": "Willett’s At The Cadogan",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/londons-best-oysters/"
-      }
-    ]
-  },
-  "parkhyattlondonriverthames": {
-    "name": "Park Hyatt London River Thames",
     "topics": [
       "seafood"
     ],

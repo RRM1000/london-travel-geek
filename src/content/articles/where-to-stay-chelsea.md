@@ -67,7 +67,7 @@ Lanesborough House was built in 1719, became St George's Hospital in 1733, was r
 
 *Over £350 · Wilton Place, SW1X 7RL · Hyde Park Corner, exit 4 · [Hotels.com](hotel:the-berkeley)*
 
-On the corner of Knightsbridge and Wilton Place, run by Maybourne, the group behind Claridge's. **The rooftop pool is heated, open-air, open in spring and summer, and for hotel guests only.** Every stay includes Surrenne Belgravia, Maybourne's four-floor wellness club with the gym. Cédric Grolet runs the pastry counter and the afternoon tea, and La Môme is the restaurant. Both rooms pictured below are suites, not standard rooms.
+On the corner of Knightsbridge and Wilton Place, run by Maybourne, the group behind Claridge's. **The rooftop pool is heated, open-air, open in spring and summer, and for hotel guests only.** Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) sets it against the year-round rooftop pools at Battersea and Shoreditch. Every stay includes Surrenne Belgravia, Maybourne's four-floor wellness club with the gym. Cédric Grolet runs the pastry counter and the afternoon tea, and La Môme is the restaurant. Both rooms pictured below are suites, not standard rooms.
 
 <div class="photo-row">
 

@@ -395,6 +395,7 @@ Our [guide to London's parks](/articles/best-parks-gardens-london/) covers what 
 
 - 🧭 **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)** - which part of the city to sleep in
 - 👨‍👩‍👧 **[Best Family Hotels in London](/articles/best-family-hotels-london/)** - Royal Lancaster, The Rubens and Mandarin Oriental are there too
+- 🏊 **[London Hotels With a Pool](/articles/hotels-with-pool-london/)** - The Langham and Mandarin Oriental Hyde Park have pools as well as a dog policy; the length and the children's hours at every hotel pool
 - 🏨 Area stay guides for the hotels above: [Bloomsbury](/articles/where-to-stay-bloomsbury/), [Marylebone](/articles/where-to-stay-marylebone/), [Mayfair](/articles/where-to-stay-mayfair/), [Westminster and Victoria](/articles/where-to-stay-westminster/), [Kensington](/articles/where-to-stay-kensington/), [City of London](/articles/where-to-stay-city-of-london/), [South Bank](/articles/where-to-stay-south-bank/), [Bermondsey](/articles/where-to-stay-bermondsey/), [Covent Garden](/articles/where-to-stay-covent-garden/) and [Paddington](/articles/where-to-stay-paddington/)
 
 *Pet fees, weight limits and house rules are from each hotel's own pet page, policy or FAQ, checked on 27 September 2026; hotels change them without notice, so confirm when you book. Walking times are from TfL's journey planner.*

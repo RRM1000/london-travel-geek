@@ -171,7 +171,7 @@ The Midland Bank's headquarters, built in 1924 to designs by Sir Edwin Lutyens, 
 
 **Every bedroom has a double bed; there are no twins.** Crash Pads are 17 to 19 square metres and Cosy rooms 20 to 30, and the Heritage rooms on the Grade I listed fifth floor keep their 1920s fittings. The **Two Bed Family Suite is 95 square metres**, and in-house children under six get a free main course in Millie's Lounge between 5 and 6pm.
 
-**The rooftop pool and the Vault bar belong to Ned's Club**, which is for members and their guests; the hotel lets resident children use the rooftop pool from 7 to 10am. There is no parking.
+**The rooftop pool and the Vault bar belong to Ned's Club**, which is for members and their guests; the hotel lets resident children use the rooftop pool from 7 to 10am. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) covers the City's other pools, at the Westin, Pan Pacific, Leonardo Royal St Paul's and Four Seasons. There is no parking.
 
 ### South Place Hotel — Angler, and a weekend offer
 

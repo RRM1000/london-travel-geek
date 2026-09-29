@@ -58,6 +58,8 @@ George Gilbert Scott's Midland Grand opened in May 1873, lost money for decades,
 
 **The suites carry a "Seat to Suite" service with Eurostar** — staff move you between room and platform — on a minimum of 72 hours' notice. There is a free QR-code self-guided tour of the building for guests, and **Booking Office 1869 downstairs takes non-residents on a £29 set menu**, which is how to see the interior without the room rate. Since 3 June 2025 the hotel has traded as St Pancras London, Autograph Collection, and a great many booking sites and guides still file it under St Pancras Renaissance.
 
+The spa, in the old steam kitchens, has a relaxation pool with hydro loungers rather than one to swim in; our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) lists the hotels that have one.
+
 ![A room at St Pancras London, with a bed, a window seat and a Gothic-arched window](../../assets/articles/where-to-stay-kings-cross/st-pancras-london-room.jpg)
 
 *A room at St Pancras London.*

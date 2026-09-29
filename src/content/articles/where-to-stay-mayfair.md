@@ -349,7 +349,7 @@ Three houses on Charles Street, and Red Carnation's first hotel. **[The Chesterf
 
 *About £850 · 22 Hanover Square, W1S 1JP · Oxford Circus nearest · Breakfast extra*
 
-**[Mandarin Oriental Mayfair](hotel:mandarin-oriental-mayfair)** is on Hanover Square at Mayfair's eastern edge, the grand hotel closest to Oxford Circus, Regent Street and Soho. Each room has a panel of hand-painted de Gournay wallpaper based on the magnolias in Hanover Square outside. It sells connecting and family rooms. The restaurants are **A.Wong**, Mazarine and the Atrium, and there is a rooftop bar. It is a separate hotel from Mandarin Oriental Hyde Park in Knightsbridge, so check which one you are booking.
+**[Mandarin Oriental Mayfair](hotel:mandarin-oriental-mayfair)** is on Hanover Square at Mayfair's eastern edge, the grand hotel closest to Oxford Circus, Regent Street and Soho. Each room has a panel of hand-painted de Gournay wallpaper based on the magnolias in Hanover Square outside. It sells connecting and family rooms. The restaurants are **A.Wong**, Mazarine and the Atrium, and there is a rooftop bar. It is a separate hotel from Mandarin Oriental Hyde Park in Knightsbridge, so check which one you are booking. Its **25-metre indoor pool** is free to in-house guests; the spa and fitness centre are 18 and over without a parent's written consent, and our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) compares it with the other 25-metre pools.
 
 <div class="photo-row">
 

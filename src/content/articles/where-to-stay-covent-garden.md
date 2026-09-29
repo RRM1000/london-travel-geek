@@ -146,7 +146,7 @@ Britain's first purpose-built luxury hotel, opened in 1889 by Richard D'Oyly Car
 
 **Before you spend £700, know that the river is not included.** Work through the room list and every grade below suite level faces the city, the courtyard or the Embankment gardens: Superior Queen 27 sq m, Deluxe King 31, Luxury King and Luxury King Garden View 34, Luxury Double Double 39. **The cheapest room with a river view is the Junior Suite River View.** If the Thames is the reason you are booking, you are booking a suite, and it is better to know that now.
 
-There is a naturally lit pool, a gym, sauna, steam room and three treatment rooms, which is rare in a building this old. Housekeeping is daily with evening turndown, and check-out is noon rather than eleven.
+There is a naturally lit pool, a gym, sauna, steam room and three treatment rooms, which is rare in a building this old; in-house guests swim free, and children from 9am to 5pm every day. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) also covers One Aldwych's 18-metre pool around the corner. Housekeeping is daily with evening turndown, and check-out is noon rather than eleven.
 
 **The cheap way in is the archive tour.** The hotel's own archivist runs a guided tour once a month, finishing with a glass of champagne in the American Bar — that plus a drink in the Beaufort Bar shows you most of what the room rate is for.
 
