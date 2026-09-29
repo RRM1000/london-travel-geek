@@ -56,19 +56,19 @@ An Accor economy hotel on Stockwell Street, between the market and the park, wit
 
 ### The Admiral Hardy — seven rooms over a pub on the market
 
-*7 College Approach, SE10 9HY · Cutty Sark DLR 2 min · [admiralhardygreenwich.co.uk](https://admiralhardygreenwich.co.uk/)*
+*7 College Approach, SE10 9HY · Cutty Sark DLR 2 min · [Hotels.com](hotelscom:1251944032)*
 
 A pub on the edge of Greenwich Market, with seven bedrooms on its first and second floors: three Classic Doubles, two Classic Kings, a Superior King and **one Deluxe King that takes two adults and two children**. Rooms have a desk, a television and tea and coffee. Downstairs, the pub serves Sunday roasts and local beer and hosts weddings and parties in Clarence Hall.
 
 ### The Mitre — 24 rooms in an 18th-century pub by St Alfege
 
-*291 Greenwich High Road, SE10 8NA · Cutty Sark DLR 4 min, Greenwich station 4 min · [themitregreenwich.co.uk](https://www.themitregreenwich.co.uk/stay-with-us)*
+*291 Greenwich High Road, SE10 8NA · Cutty Sark DLR 4 min, Greenwich station 4 min · [Hotels.com](hotelscom:3419932192)*
 
 A corner pub beside Hawksmoor's St Alfege Church, halfway between Greenwich station and the Cutty Sark, with 24 bedrooms upstairs and a restaurant downstairs. **The bar is open until midnight on Fridays and Saturdays**, so ask for a room away from it if you sleep early.
 
 ### Novotel London Greenwich — rooms for four beside the station
 
-*173–185 Greenwich High Road, SE10 8JA · Greenwich station 1 min, Cutty Sark DLR 9 min · [all.accor.com](https://all.accor.com/hotel/3476/index.en.shtml)*
+*173–185 Greenwich High Road, SE10 8JA · Greenwich station 1 min, Cutty Sark DLR 9 min · [Hotels.com](hotelscom:226467)*
 
 A four-star Accor hotel next to Greenwich station, with a gym and sauna, a restaurant and a bar that serves afternoon tea. **The Superior Room has a queen bed and two single sofa beds for up to four**, and the Executive Suite is 49 square metres with a king bed and a double sofa bed, also for four. It has secure on-site parking and pet-friendly rooms. **It takes cards only, not cash.**
 
@@ -80,13 +80,13 @@ Double, twin, family and accessible rooms, all air-conditioned; the Premier Plus
 
 ### Travelodge London Greenwich High Road — £1 children's breakfasts by the station
 
-*Greenwich High Road, SE10 8JA · Greenwich DLR 2 min · Check-in 3pm, out noon · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/594/London-Greenwich-High-Road-hotel)*
+*Greenwich High Road, SE10 8JA · Greenwich DLR 2 min · Check-in 3pm, out noon · [Hotels.com](hotelscom:2348976640)*
 
 A Travelodge a couple of minutes from Greenwich station, with king-size beds in the doubles, twin and family rooms, and a Bar Café for breakfast, dinner and drinks. **Up to two children under 15 eat breakfast for £1 each** with every full-paying adult. There is no hotel car park; Burney Street car park is £7.50 an hour from 8am to 6.30pm and free outside those hours.
 
 ### Staycity Aparthotels Greenwich High Road — kitchens, and 20% off a week
 
-*££ · 65 Greenwich High Road, SE10 8JL · Greenwich station 5 min, Deptford Bridge DLR 4 min · Check-in 3pm, out 11am · [staycity.com](https://www.staycity.com/london/greenwich-high-road)*
+*££ · 65 Greenwich High Road, SE10 8JL · Greenwich station 5 min, Deptford Bridge DLR 4 min · Check-in 3pm, out 11am · [Hotels.com](hotelscom:448739)*
 
 Studios for two or three and **one-bedroom apartments for four**, each with a kitchen and air conditioning, a 24-hour reception and a laundry room. Check-in online before you arrive. **Stays of one to six nights get no scheduled clean**, though reception will arrange one for a small fee; from seven nights the apartment is cleaned on day four and then weekly. **Stays of 7 to 21 nights are 20% off, and longer ones 30% off.** Cots and high chairs are free, and the secure car park has to be booked ahead. Our [aparthotels guide](/articles/aparthotels-london/) compares it with London's other kitchens.
 
@@ -100,7 +100,7 @@ A converted office block in the Creekside Village development by Deptford Creek.
 
 ### The Clarendon Hotel — a Georgian hotel on the heath, with free parking
 
-*Montpelier Row, Blackheath, SE3 0RW · Blackheath station 6 min, Greenwich Park's Blackheath Gate 14 min · [clarendonhotel.com](https://www.clarendonhotel.com/)*
+*Montpelier Row, Blackheath, SE3 0RW · Blackheath station 6 min, Greenwich Park's Blackheath Gate 14 min · [Hotels.com](hotelscom:30320640)*
 
 An independently owned Georgian hotel of more than 100 rooms, looking across the heath towards Greenwich Park. Classic and Crown rooms come as singles, twins and doubles, many of the Crown rooms facing the heath or the garden; the Executive and Honeymoon Suites have a separate lounge. **Families get triple and quad rooms, and five can sleep in two adjoining rooms.** **Parking is free**, first come, first served. The Meridian Restaurant serves afternoon tea and a Sunday roast, and dogs can stay. Trains from Blackheath reach London Bridge in 12 to 17 minutes and Charing Cross in about 22.
 
@@ -134,13 +134,13 @@ At the south end of the peninsula, with **breakfast included**, family rooms for
 
 ### Radisson RED London Greenwich The O2 — rainfall showers, and the bus to The O2
 
-*228 Tunnel Avenue, SE10 0PL · North Greenwich 25 min on foot, or the 422 bus · Check-in 3pm, out noon · [radissonhotels.com](https://www.radissonhotels.com/en-us/hotels/radisson-red-greenwich-london)*
+*228 Tunnel Avenue, SE10 0PL · North Greenwich 25 min on foot, or the 422 bus · Check-in 3pm, out noon · [Hotels.com](hotelscom:1837404672)*
 
 The first Radisson RED in London, with rainfall showers, an all-day restaurant and a street-level bar. Cots are available on request. It is at the south end of the peninsula, so for The O2 the bus is quicker than the walk.
 
 ### The Pilot — ten rooms in a Fuller's pub
 
-*68 River Way, SE10 0BE · North Greenwich 12 min · [pilotgreenwich.co.uk](https://www.pilotgreenwich.co.uk/)*
+*68 River Way, SE10 0BE · North Greenwich 12 min · [Hotels.com](hotelscom:445547)*
 
 A Fuller's pub among the peninsula's new flats, with ten air-conditioned en-suite bedrooms, from the Standard Double to the Captain's Cabin, and **breakfast included**. **Book early for a big O2 night**: the pub says its rooms go well in advance.
 
@@ -154,13 +154,13 @@ A former Metropolitan Police section house from the 1940s, converted into a hote
 
 ### Travelodge London Greenwich — at Deptford Bridge, not Greenwich
 
-*Blackheath Road, SE10 8DA · Deptford Bridge DLR 4 min, Greenwich station 10 min · Check-in 3pm, out noon · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/539/London-Greenwich-hotel)*
+*Blackheath Road, SE10 8DA · Deptford Bridge DLR 4 min, Greenwich station 10 min · Check-in 3pm, out noon · [Hotels.com](hotelscom:158578208)*
 
 **Despite the name, this Travelodge is by Deptford Bridge DLR**, on the A2 where it meets Greenwich High Road. Doubles have king-size beds, there are family and accessible rooms, and the Bar Café serves an unlimited breakfast from 7 to 10am on weekdays and 8 to 11am at weekends, with **children's breakfast at £1** for up to two under-15s per adult. Some rooms take pets. The nearest parking is the Burney Street car park.
 
 ### Staycity Aparthotels London Deptford Bridge — opening in October 2026
 
-*18–20 Deptford Bridge, SE8 4HH · Deptford Bridge DLR 1 min · [staycity.com](https://www.staycity.com/london/deptford-bridge)*
+*18–20 Deptford Bridge, SE8 4HH · Deptford Bridge DLR 1 min · [Hotels.com](hotelscom:448740)*
 
 Staycity's second aparthotel in the area opens in October 2026 beside the DLR, with studios for two, **one-bedroom apartments for four**, and hotel rooms for two. The apartments have kitchens, there is a lift to every floor, a 24-hour gym and a breakfast from 7 to 10am on weekdays and 7.30 to 10.30am at weekends. Parking is at the Greenwich High Road building, five minutes' walk, at £13 a night, booked ahead. The Cutty Sark is about 15 minutes' walk.
 
