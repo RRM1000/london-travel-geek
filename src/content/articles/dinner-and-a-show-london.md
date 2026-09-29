@@ -391,7 +391,7 @@ For a pre-theatre meal before a separate show, [our theatre guide](/articles/lon
 
 ## Continue planning your London trip
 
-- 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
+- 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Bites](/articles/eat-in-london-guide/)**
 - 🎭 **[The Best Cabaret in London](/articles/best-cabaret-london/)**
 - 🎪 **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
 - 🎷 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**

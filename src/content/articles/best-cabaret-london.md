@@ -365,7 +365,7 @@ Jazz rooms that cross into cabaret, all seated, all cheaper than the dinner show
 
 **Twelve pounds gets you into Ronnie Scott's**, which is several times less than the main-room shows in the same building, and is the single best-value line in this guide.
 
-It runs **every Friday and Saturday from 11.15pm** through to around 3am, with a DJ playing before and after the live sets. The music is deliberately not straight-ahead jazz — **jazz-funk, soul, R&B and hip hop** — and the room is the same intimate seated club, with the audience metres from the players. The format is a rotating monthly residency: the current one is the Late Late Show with Future Movers, **4 September to 5 December 2026**, musical director Phil Meadows, with the line-up changing each month.
+It runs **Wednesday to Saturday from 11.15pm** through to around 3am, with a DJ playing before and after the live sets, and each night has its own residency. The Friday and Saturday one is the least like straight-ahead jazz — **jazz-funk, soul, R&B and hip hop** — in the same intimate seated club, with the audience metres from the players: the Late Late Show with Future Movers, **to 5 December 2026**, musical director Phil Meadows, with the line-up changing each month. Wednesdays and Thursdays have their own hosts, such as drummer Jamie Murray on Wednesdays.
 
 **Most tickets are available on the door** if advance sales have gone, which makes it the reliable late option when a night has run long and you want somewhere to end up.
 
