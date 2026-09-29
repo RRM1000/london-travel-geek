@@ -2,26 +2,7 @@
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
   "updated": "2026-09-29",
-  "inProgress": [
-    {
-      "state": "in progress",
-      "title": "Where to stay near ExCeL",
-      "detail": "Hotels for people with tickets to Comic Con, the Boat Show and conferences, grouped by which entrance and station they suit, with how to get back after an evening event. The ExCeL guide keeps its short hotel section and links to it.",
-      "next": "An agent is researching and writing it; then checked, built, previewed and handed over with a photo list."
-    },
-    {
-      "state": "in progress",
-      "title": "Where to stay in Greenwich",
-      "detail": "Hotels in the town centre, by the park and Blackheath, on the peninsula and in Deptford, with the trains, DLR and river bus into central London. Linked both ways with the Greenwich area guide.",
-      "next": "An agent is researching and writing it; then checked, built, previewed and handed over with a photo list."
-    },
-    {
-      "state": "in progress",
-      "title": "London hotels with a pool",
-      "detail": "A consensus guide to hotels whose pool guests can actually use, with the pool facts lists get wrong: size, indoor or rooftop, free or paid, children's hours, seasonal opening.",
-      "next": "An agent is researching and writing it; then checked, built, previewed and handed over with a photo list."
-    }
-  ],
+  "inProgress": [],
   "nextUp": [
     "More GetYourGuide day trips with no guide yet: Warwick Castle and Stratford-upon-Avon, Blenheim Palace.",
     "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
@@ -31,6 +12,11 @@
     "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
+    "Sheet fixes: staycity-deptford-bridge postcode is SE8 4HH (not SE10 8FH); sunborn-london needs its Hotels.com URL (ho463416) and its description (133 rooms and 5 suites, not a 40-metre yacht with cabins); the mondrian-shoreditch row is now Virgin Hotels London-Shoreditch.",
+    "Check seven Hotels.com links on the pool guide that Hotels.com's bot check stopped me verifying: Pan Pacific, Haymarket, The Marylebone, The Dilly, Leonardo St Paul's, Novotel Blackfriars, St Pancras.",
+    "Pool guide: prices for 16 hotels (list in data/topics/hotels-pool.json, pricesNeeded); whether non-members staying at Shoreditch House and White City House can use the pool; the InterContinental O2 pool fee; whether The Landmark's old 15m pool is now its 'vitality pool'.",
+    "ExCeL hotels: Crowne Plaza, DoubleTree, Moxy ExCeL and Hampton by Hilton are left out because IHG, Hilton and Marriott block reads of their own sites. OK to write them up from their Hotels.com listings?",
+    "Photos for the three new hotel guides, into scratchpad/downloaded-photos/<guide>/<hotel>/: ExCeL (hero: the Western Gateway hotels on Royal Victoria Dock; Aloft and its pool, ibis ExCeL, Novotel ExCeL, Sunborn, Holiday Inn Express ExCeL), Greenwich (hero: Stockwell Street by the market or The Clarendon across Blackheath; ibis, Novotel, Staycity, Clarendon, Admiral Hardy, Pilot), pools (hero: art'otel's rooftop pool; Shangri-La Sky Pool, Peninsula, Bulgari, Langham, Savoy, One Aldwych, Mandarin Oriental Mayfair, Café Royal, Pan Pacific, The Ned rooftop).",
     "Dinner and a show guide: unpublished figures if you have them: Ronnie Scott's dinner prices and age limit, PizzaExpress Live ticket range, INCA's minimum spend, the Soul Mama gospel brunch price, the inamo comedy night price, the Tiroler Hut's show nights. A City Cruises dinner-boat photo and a Queen of Hoxton drag brunch photo would fill the two gaps.",
     "Join Trainline's affiliate programme, which runs on Partnerize, not Awin: https://join.partnerize.com/trainline/en. Send the ID or a sample link.",
     "Request indexing for the Winter Wonderland guide in Search Console: Google hasn't re-crawled it since 12 September.",
@@ -46,6 +32,10 @@
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-29",
+      "what": "Three hotel guides: Where to stay near ExCeL (16 hotels by entrance, with the last train back from each base), Where to stay in Greenwich (18 hotels across the town, Blackheath, the peninsula and Deptford) and London hotels with a pool (29 hotels, 31 sources, pool size, season, age rules and fees checked against each hotel). 57 of the 64 hotels link through Hotels.com; the rest (Premier Inns, two Travelodges, the Angerstein, the Pelton Arms) aren't sold there. Pool facts corrected on the family, Westminster, South Bank, Bermondsey and Shoreditch guides; ExCeL guide's cable car hours and Sunborn description corrected. All linked from /stay/, best areas to stay and the related guides."
+    },
     {
       "date": "2026-09-29",
       "what": "GetYourGuide booking calendars on the dinner and a show guide for Mamma Mia! The Party (from £120, 4.7 from 148 reviews), 58th Street (from £120, 4.3 from 31) and the Thames dinner cruise (from £81), plus a 'dinner show London' carousel. GetYourGuide doesn't sell Faulty Towers, Le Petit Chef, The Murdér Express, The London Cabaret Club, the drag brunches or Ronnie Scott's. Ticketmaster lists Mamma Mia! The Party, 58th Street, Faulty Towers, the Kit Kat Club's Cabaret and Boisdale Canary Wharf: worth linking once the Ticketmaster programme is approved."
