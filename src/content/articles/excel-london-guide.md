@@ -9,6 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Excel_London_Summer_20
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 publishedAt: 2026-09-27
+updatedAt: 2026-09-29
 reviewBy: 2026-10-13
 sites: [london]
 canonicalSite: london
@@ -91,18 +92,18 @@ The Elizabeth line is the quickest option from almost anywhere in central London
 
 ## The cable car and the river
 
-**The London Cable Car** (sold and signed by ExCeL as the IFS Cloud Cable Car; TfL's own pages now just call it the London Cable Car) crosses the Thames from Greenwich Peninsula, by The O2, to a terminal in the Royal Docks a short walk from ExCeL's Waterfront. ExCeL's own site offers every exhibitor and visitor **50% off a walk-up fare** — £3.50 single instead of £7 — on presentation of a ticket or confirmation email. Hours change with the season:
+**The London Cable Car** (sold and signed by ExCeL as the IFS Cloud Cable Car; TfL's own pages now just call it the London Cable Car) crosses the Thames from Greenwich Peninsula, by The O2, to a terminal in the Royal Docks a short walk from ExCeL's Waterfront. ExCeL's own site offers every exhibitor and visitor **50% off a walk-up fare** — £3.50 single instead of £7 — on presentation of a ticket or confirmation email. TfL's opening hours:
 
 ![An IFS Cloud Cable Car cabin crossing the Royal Docks at dusk, with the Thames and the Docklands skyline behind](../../assets/articles/excel-london-guide/london-cable-car.jpg)
 
 *The cable car crossing the docks.*
 
-| Day | Summer (1 Apr–30 Sep) | Winter (1 Oct–31 Mar) |
-| --- | --- | --- |
-| Mon–Thu | 07:00–22:00 | 07:00–21:00 |
-| Friday | 07:00–23:00 | 07:00–23:00 |
-| Saturday | 08:00–23:00 | 08:00–23:00 |
-| Sunday | 09:00–22:00 | 09:00–21:00 |
+| Day | Hours |
+| --- | --- |
+| Mon–Thu | 08:00–21:00 (to 22:00 on Thursdays until 16 October 2026) |
+| Friday | 09:00–22:00 |
+| Saturday | 09:00–23:00 |
+| Sunday and bank holidays | 09:00–21:00 |
 
 > ⚠️ **It's an arrival option, not a reliable way home.** It closes before most evening events finish clearing the building, and it doesn't run all night on any day of the week.
 
@@ -171,12 +172,14 @@ ExCeL runs almost entirely on trade and B2B events, but a handful of shows each 
 
 A handful of hotels sit on the ExCeL campus itself or across Royal Victoria Dock, all trading on prices that track the exhibition calendar rather than the season — a quiet week is cheap, a big trade show is not.
 
-- **[Aloft London ExCeL](hotel:aloft-london-excel)** — a minute's walk from the venue on the Eastern Gateway, with an indoor pool most of the exhibition-centre hotels around it don't offer.
-- **[DoubleTree by Hilton London – ExCeL](hotelscom:h990855)** — the other hotel ExCeL's own site names as part of the campus.
-- **[Novotel London ExCeL](hotelscom:h992650)** — on the Custom House side of the dock, aimed squarely at exhibition trade.
-- **[Premier Inn London Docklands (ExCeL)](hotelscom:h1050187)** — at 2 Festoon Way, Royal Victoria Dock, and pitched by Premier Inn itself as the pit-stop for ExCeL, City Airport or Canary Wharf.
-- **[Sunborn London](hotel:sunborn-london)** — a permanently moored yacht hotel on the dock itself, cabin-sized rooms whatever the star rating implies.
+- **[Aloft London ExCeL](hotel:aloft-london-excel)** — a minute's walk from the East Entrance and the ICC on the Eastern Gateway, with an indoor pool.
+- **[DoubleTree by Hilton London – ExCeL](hotelscom:218082)** — the other hotel ExCeL's own site names as part of the campus.
+- **[Novotel London ExCeL](hotelscom:h992650)** — on Western Gateway, three minutes' walk from Custom House, with sofa-bed rooms for families.
+- **[Premier Inn London Docklands (ExCeL)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-docklands-excel.html)** — at 2 Festoon Way, Royal Victoria Dock, and pitched by Premier Inn itself as the pit-stop for ExCeL, City Airport or Canary Wharf.
+- **[Sunborn London](hotel:sunborn-london)** — a superyacht moored for good on the dock, with 133 rooms and five suites, every one facing the river or the dock.
 - **[Good Hotel London](hotel:good-hotel-london)** — a floating, social-enterprise hotel on the Western Gateway, under five minutes from Royal Victoria DLR and Custom House.
+
+Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the hotels by the entrance they're nearest, adds Canary Wharf and Woolwich one Elizabeth line stop away and the cheapest chains a few DLR stops out, and gives the last train back after an evening event.
 
 <div data-stay-strip></div>
 
@@ -210,6 +213,7 @@ A handful of hotels sit on the ExCeL campus itself or across Royal Victoria Dock
 - ✈️ **[London City Airport to London](/articles/london-city-airport-to-london/)** — the full transport comparison for the nearest airport
 - 🏙️ **[Canary Wharf Area Guide](/articles/canary-wharf-area-guide/)** — one Elizabeth line stop from Custom House
 - 🎤 **[The O2 Travel Guide](/articles/the-o2-travel-guide/)** — the cable car's other terminal, and London's other major venue
+- 🛏️ **[Where to Stay Near ExCeL](/articles/where-to-stay-near-excel/)** — hotels by entrance, and the last train back
 - 🛏️ **[Where to Stay Near Canary Wharf](/articles/where-to-stay-canary-wharf/)**
 - 🛏️ **[Where to Stay Near The O2](/articles/where-to-stay-near-the-o2/)** — covers the Royal Docks side too
 - 🎟️ **[Exhibitions and Conventions in London](/articles/exhibitions-conventions-london/)** — the year-round calendar

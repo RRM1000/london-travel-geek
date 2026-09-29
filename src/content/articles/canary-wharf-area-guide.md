@@ -181,6 +181,7 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 - **[The best views in London](/articles/best-views-london/)** — what you can actually get up, given that One Canada Square has no public viewing floor.
 - **[ExCeL London travel guide](/articles/excel-london-guide/)** — one Elizabeth line stop away, for a trade show or exhibition.
+- **[Where to stay near ExCeL](/articles/where-to-stay-near-excel/)** — hotels by the entrance they suit, with Canary Wharf three minutes away on the Elizabeth line.
 - **[Exhibitions and conventions in London](/articles/exhibitions-conventions-london/)** — the year-round calendar of what's actually on at ExCeL, from MCM Comic Con to New Scientist Live.
 
 ## Where to eat and drink

@@ -167,7 +167,7 @@ These recur every year, but the organiser hadn't set next in-window dates as of 
 
 ## The venues
 
-- **[ExCeL London](/articles/excel-london-guide/)** — Royal Docks. **Custom House** (Elizabeth line and DLR) serves the west halls, **Prince Regent** (DLR) the east halls and the ICC — a kilometre apart, so check which end your show is in before you travel. Almost entirely trade and B2B events; the consumer shows above are the exceptions.
+- **[ExCeL London](/articles/excel-london-guide/)** — Royal Docks. **Custom House** (Elizabeth line and DLR) serves the west halls, **Prince Regent** (DLR) the east halls and the ICC — a kilometre apart, so check which end your show is in before you travel. Almost entirely trade and B2B events; the consumer shows above are the exceptions. For a room, our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts them by the entrance they're nearest and gives the last train back after an evening session.
 - **Olympia London** — Kensington. **Kensington (Olympia)** station: London Overground's Mildmay line calls regularly, and the District line runs a shuttle from High Street Kensington every 20 minutes at weekends and public holidays, plus some weekdays when a show is on.
 - **Alexandra Palace** — Muswell Hill/Wood Green, north London. Nearest stations are **Alexandra Palace** (Great Northern rail from Moorgate or King's Cross) and **Wood Green** tube (Piccadilly line); the W3 bus also stops at the Palace itself.
 - **Somerset House** — the Strand. Nearest stations **Temple** (District and Circle lines, closed Sundays) and **Embankment**; the fairs use the courtyard and the wings around it.
@@ -195,6 +195,6 @@ These recur every year, but the organiser hadn't set next in-window dates as of 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Things to do in October](/articles/things-to-do-in-london-in-october/) · [Things to do in September](/articles/things-to-do-in-london-in-september/) · [Science events in London](/articles/science-events-london/) · [Christmas shows in London](/articles/christmas-shows-london/) · [What's On in London](/whats-on/) · [ExCeL London travel guide](/articles/excel-london-guide/) · [Where to stay near Kensington](/articles/where-to-stay-kensington/) · [Where to stay near Canary Wharf](/articles/where-to-stay-canary-wharf/)
+> 🧭 **Plan the rest of it:** [Things to do in October](/articles/things-to-do-in-london-in-october/) · [Things to do in September](/articles/things-to-do-in-london-in-september/) · [Science events in London](/articles/science-events-london/) · [Christmas shows in London](/articles/christmas-shows-london/) · [What's On in London](/whats-on/) · [ExCeL London travel guide](/articles/excel-london-guide/) · [Where to stay near ExCeL](/articles/where-to-stay-near-excel/) · [Where to stay near Kensington](/articles/where-to-stay-kensington/) · [Where to stay near Canary Wharf](/articles/where-to-stay-canary-wharf/)
 
 *Dates, prices and ticket availability come from each show's own organiser site and, for shows at Olympia, Somerset House and Alexandra Palace, the venue's own listings, checked the week of 27 September 2026. Shows change their dates and sell out tiers without much notice — check the organiser's own page before you book.*

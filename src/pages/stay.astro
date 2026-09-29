@@ -49,6 +49,17 @@ const stayGuideFor = (areaId: string) => {
   return published.has(slug) ? slug : undefined;
 };
 
+// Hotel guides for a venue rather than an area (The O2, Wembley, ExCeL), picked
+// up by slug so a new where-to-stay-near-* guide joins the list without an edit
+// here. The venue name is the title between "Where to Stay Near" and the colon.
+const venueStayGuides = allArticles
+  .filter((a) => !a.data.draft && a.id.startsWith("where-to-stay-near-") && a.data.sites.includes("london"))
+  .map((a) => ({
+    id: a.id,
+    venue: a.data.title.replace(/^Where to Stay Near\s+/i, "").split(":")[0].trim(),
+  }))
+  .sort((a, b) => a.venue.localeCompare(b.venue));
+
 const guides = allArticles
   .filter((a) => a.data.area && !a.data.draft)
   .map((a) => {
@@ -159,6 +170,11 @@ const faq = [
         <li><strong>Best value that is still central:</strong> Bloomsbury or King&rsquo;s Cross. Zone 1, ten minutes from the West End, noticeably cheaper.</li>
         <li><strong>Cheapest rooms we found, area by area:</strong> {cheapest.slice(0, 3).map((g) => g.name).join(", ")}.</li>
         <li><strong>A proper hotel room for £150 or less:</strong> <a href="/articles/best-budget-hotels-london/">the budget hotels London&rsquo;s lists agree on</a> &mdash; priced on the same five nights, and most of them a few stops out on a fast train.</li>
+        {venueStayGuides.length > 0 && (
+          <li><strong>A show, match or conference at a big venue:</strong> stay where the last train home runs &mdash; {venueStayGuides.map((g, i) => (
+            <>{i > 0 && (i === venueStayGuides.length - 1 ? " or " : ", ")}<a href={`/articles/${g.id}/`}>near {g.venue}</a></>
+          ))}.</li>
+        )}
         <li><strong>Arriving late or leaving early:</strong> King&rsquo;s Cross or Paddington &mdash; both are termini, both have the Elizabeth line or the Piccadilly to Heathrow.</li>
         <li><strong>Not staying the night at all:</strong> a <a href="/articles/day-rooms-london/">day room</a> — about 245 London hotels sell the afternoon rather than the night, at 24% to 69% off. The answer to a long layover or a late flight.</li>
           <li><strong>Staying four nights or more:</strong> an <a href="/articles/aparthotels-london/">aparthotel</a> — a hotel where the room has a kitchen. It costs about what a hotel room costs per night, and pays for itself on what you stop spending at breakfast.</li>

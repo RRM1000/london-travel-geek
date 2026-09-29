@@ -99,7 +99,7 @@ Canning Town is two minutes the other way, and it's the DLR interchange for the 
 
 ### Royal Docks and ExCeL: across the water, with a change
 
-The Royal Victoria Dock hotels sit around ExCeL. The DLR takes two to five minutes to Canning Town, then it's one stop on the Jubilee. The [cable car](/articles/the-o2-travel-guide/) crosses from the Western Gateway end in about ten minutes, and O2 ticket holders pay half the walk-up fare on the day, but it closes at 21:00 Sunday to Thursday, 22:00 on Friday and 23:00 on Saturday, before most shows end. Prices here follow ExCeL's exhibition calendar, so check what's on there before you book.
+The Royal Victoria Dock hotels sit around ExCeL. The DLR takes two to five minutes to Canning Town, then it's one stop on the Jubilee. The [cable car](/articles/the-o2-travel-guide/) crosses from the Western Gateway end in about ten minutes, and O2 ticket holders pay half the walk-up fare on the day, but it closes at 21:00 Sunday to Thursday, 22:00 on Friday and 23:00 on Saturday, before most shows end. Prices here follow ExCeL's exhibition calendar, so check what's on there before you book; our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) covers the rest of the Royal Docks hotels, for a show at ExCeL itself.
 
 **[Good Hotel London](hotel:good-hotel-london)** is a floating hotel moored at Western Gateway, E16 1FA, three minutes from Royal Victoria DLR and 20 minutes from The O2's doors. Its typical night was **£150**, and **£75** on an October Sunday. The standard room is 13 m², with no television or minibar, and every room sleeps two. The roof bar looks across the dock to the dome.
 

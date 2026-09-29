@@ -9,6 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_Comic_Con_Oct_1
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-09-27
+updatedAt: 2026-09-29
 reviewBy: 2026-10-22
 sites: [london]
 canonicalSite: london
@@ -135,11 +136,11 @@ ExCeL's own restaurants and food stalls are **cashless — no cash accepted anyw
 
 A handful of hotels sit within a few minutes' walk of ExCeL, all in the Royal Docks:
 
-- **[Aloft London ExCeL](hotel:aloft-london-excel)** — about a minute's walk, with an indoor pool, which the other ExCeL-adjacent hotels don't have.
+- **[Aloft London ExCeL](hotel:aloft-london-excel)** — about a minute's walk from the East Entrance, with an indoor pool; the queue hall is at the other end, one DLR stop away.
 - **[Good Hotel London](hotel:good-hotel-london)** — a converted floating platform moored at the Western Gateway, under five minutes from Royal Victoria DLR.
-- **[Sunborn London Yacht Hotel](hotel:sunborn-london)** — a permanently moored 40-metre yacht with a dock view from every cabin; cabins are cabin-sized, so check dimensions before booking a family in.
+- **[Sunborn London Yacht Hotel](hotel:sunborn-london)** — a superyacht moored for good on the dock, with 133 rooms and five suites, every one facing the river or the dock.
 
-Rooms this close to ExCeL price against the show calendar rather than the season, so a quiet week is cheap and an MCM weekend isn't. Central London, reachable by DLR and the Elizabeth line, is worth comparing — more on both in our [ExCeL London travel guide](/articles/excel-london-guide/).
+Rooms this close to ExCeL price against the show calendar rather than the season, so a quiet week is cheap and an MCM weekend isn't. Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the rest by how close they are to the west side, where the queue hall is, adds the cheapest chains a few DLR stops out, and gives the last train back after the evening events. More on stations and parking in our [ExCeL London travel guide](/articles/excel-london-guide/).
 
 ## Not to be confused with: London Comic Con Spring
 
