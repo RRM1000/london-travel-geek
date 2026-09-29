@@ -96,6 +96,8 @@ Studios for two or three and **one-bedroom apartments for four**, each with a ki
 
 A converted office block in the Creekside Village development by Deptford Creek. **Every room is windowless and soundproofed**, with no television, an en-suite shower and filtered air. The Cocoon 2 is 10 square metres for two; **the Cocoon 4, from £117, is 14 square metres with two double beds as a bunk**, which suits two couples better than a family. No breakfast is served, and early check-in costs £25.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-greenwich-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Hotels in Blackheath and on the park's edges
 
 ### The Clarendon Hotel — a Georgian hotel on the heath, with free parking
@@ -143,6 +145,8 @@ The first Radisson RED in London, with rainfall showers, an all-day restaurant a
 *68 River Way, SE10 0BE · North Greenwich 12 min · [Hotels.com](hotelscom:445547)*
 
 A Fuller's pub among the peninsula's new flats, with ten air-conditioned en-suite bedrooms, from the Standard Double to the Captain's Cabin, and **breakfast included**. **Book early for a big O2 night**: the pub says its rooms go well in advance.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-greenwich-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Hotels at Deptford Bridge
 
@@ -197,6 +201,8 @@ Staycity's second aparthotel in the area opens in October 2026 beside the DLR, w
 > On **Friday and Saturday nights** the Jubilee line runs all night to North Greenwich, and the 188 covers the last stretch into Greenwich. The last Uber Boat east leaves Embankment at **23:25 on weekdays and 00:08 at weekends**.
 
 *Last DLR and night bus routes from TfL, September 2026; Uber Boat times from the timetable in force from 27 June 2026.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-greenwich-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Nearby, and the rest of the trip
 

@@ -92,6 +92,8 @@ The Sky Pool is on **level 52 of The Shard**, the highest swimming pool in Londo
 
 The Ned has two pools, and the famous one is not simply the hotel's. The heated rooftop pool, overlooking the skyline beside two converted domes, is part of **Ned's Club, for members and their guests over 18**; the hotel's FAQ lets hotel guests bring children up **between 7am and 10am daily**. The basement pool sits in the spa, which is **always adults only** (18 and over), and **hotel guests who book direct get complimentary day spa access** while they stay. Above it are the old banking hall and its restaurants, 250 bedrooms and every room with a double bed. The one thing that decides a booking: book on The Ned's own site if the spa pool matters, and don't count on the rooftop.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hotels-with-pool-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Pools that welcome children
 
 ### One Aldwych
@@ -135,6 +137,8 @@ The pool is in the **adjoining health club, free to hotel guests**: a **20-metre
 *City of London · Station: Mansion House · 12m pool and vitality pool · Cited by 4 sources · [Hotels.com](hotelscom:2217694656)*
 
 The Heavenly Spa has a **12-metre swimming pool and a vitality pool**, **complimentary to hotel guests** and open 8am to 8pm. **Children under 16 swim from 8 to 10.30am and 2 to 4.30pm**, always with an adult, and cannot use the fitness studio. The hotel is on Upper Thames Street, beside the Thames path and a few minutes from St Paul's Cathedral, with the Millennium Bridge across to Tate Modern. The one thing that decides a booking: at 12 metres it is a pool to play in, not a lap pool.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hotels-with-pool-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Spa pools, mostly for adults
 
@@ -243,6 +247,8 @@ The Landmark's relaunched spa lists its facilities as a Finnish sauna, an aromat
 *King's Cross · Station: King's Cross St Pancras · Relaxation pool with hydro loungers · Cited by 5 sources · [Hotels.com](hotelscom:360456)*
 
 The spa, in the Victorian steam kitchens of the old Midland Grand, has a softly lit **relaxation pool with hydro loungers**, which the hotel also calls a hydrotherapy pool, plus a sauna, a steam room and six treatment rooms. Non-residents buy spa day passes of about four hours. The hotel was renamed from St Pancras Renaissance in 2025, and several lists still use the old name. The one thing that decides a booking: stay for the building and the Eurostar, not for a swim.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hotels-with-pool-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Before you book
 

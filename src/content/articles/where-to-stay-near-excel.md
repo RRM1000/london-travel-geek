@@ -43,8 +43,6 @@ ExCeL is a single building nearly a kilometre long, with a station at each end: 
 
 *Train times and last trains from ExCeL's stations are from TfL's Journey Planner and timetables, for October 2026.*
 
-<div data-stay-strip></div>
-
 ## West Entrance: Western Gateway and Custom House
 
 The west-end hotels are on Western Gateway, along Royal Victoria Dock between Royal Victoria DLR and ExCeL. Custom House, for the Elizabeth line, is about 200 metres from the West Entrance. This is the end for MCM Comic Con and the west halls.
@@ -74,6 +72,8 @@ A former floating platform, refitted and towed across the North Sea, now moored 
 *About £160 · 133 rooms and 5 suites · Royal Victoria Dock, E16 1AA · Custom House · [Hotels.com](hotelscom:463416)*
 
 A superyacht moored for good in Royal Victoria Dock, two minutes' walk from ExCeL's car park. Every room looks out on the river or the dock: a Yacht Classic room is 19 to 23 m², with a king-size bed or twin beds and a shower room, and a Yacht Executive room adds a private balcony or terrace. The Sundown Bar, looking across to Canary Wharf and The O2, is open to non-residents. The yacht has **no car park** (drivers use ExCeL's), check-out is 11:00, and at check-in it pre-authorises **£100 per person per night** on your card for extras, released after you leave.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-near-excel-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## East Entrance, the ICC and Prince Regent
 
@@ -177,6 +177,8 @@ The Elizabeth line and the DLR both stop overnight, every night of the week, and
 - **After the last Elizabeth line train**, the DLR to Poplar runs until 00:33, and Canary Wharf's hotels are a walk from there.
 - **On Friday and Saturday nights** the Jubilee runs all night from Canning Town, to Stratford one way and Canary Wharf, London Bridge and Westminster the other. The N551 gets you to Canning Town once the DLR has stopped.
 - **Leaving from the east end**, Prince Regent's DLR takes you one stop to Custom House for the Elizabeth line.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-near-excel-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Before you book
 
