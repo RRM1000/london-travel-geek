@@ -12,11 +12,11 @@
     "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
+    "Hotel guide photos still missing (your downloads were too small, wrong hotel or not the pool): ExCeL — Marriott Canary Wharf, Moxy Stratford (480px), Travelodge ExCeL; Greenwich — Staycity Deptford Bridge (not open yet), The Pelton Arms, Travelodge Greenwich, bedrooms for The Mitre and The Admiral Hardy; pools — Bulgari and Westin (480px), Café Royal, Park Plaza Westminster Bridge, The Marylebone, St Pancras, Mandarin Oriental Hyde Park (its photo was the New York hotel), Canary Riverside, The Landmark's vitality pool.",
     "Sheet fixes: staycity-deptford-bridge postcode is SE8 4HH (not SE10 8FH); sunborn-london needs its Hotels.com URL (ho463416) and its description (133 rooms and 5 suites, not a 40-metre yacht with cabins); the mondrian-shoreditch row is now Virgin Hotels London-Shoreditch.",
     "Check seven Hotels.com links on the pool guide that Hotels.com's bot check stopped me verifying: Pan Pacific, Haymarket, The Marylebone, The Dilly, Leonardo St Paul's, Novotel Blackfriars, St Pancras.",
     "Pool guide: prices for 16 hotels (list in data/topics/hotels-pool.json, pricesNeeded); whether non-members staying at Shoreditch House and White City House can use the pool; the InterContinental O2 pool fee; whether The Landmark's old 15m pool is now its 'vitality pool'.",
     "ExCeL hotels: Crowne Plaza, DoubleTree, Moxy ExCeL and Hampton by Hilton are left out because IHG, Hilton and Marriott block reads of their own sites. OK to write them up from their Hotels.com listings?",
-    "Photos for the three new hotel guides, into scratchpad/downloaded-photos/<guide>/<hotel>/: ExCeL (hero: the Western Gateway hotels on Royal Victoria Dock; Aloft and its pool, ibis ExCeL, Novotel ExCeL, Sunborn, Holiday Inn Express ExCeL), Greenwich (hero: Stockwell Street by the market or The Clarendon across Blackheath; ibis, Novotel, Staycity, Clarendon, Admiral Hardy, Pilot), pools (hero: art'otel's rooftop pool; Shangri-La Sky Pool, Peninsula, Bulgari, Langham, Savoy, One Aldwych, Mandarin Oriental Mayfair, Café Royal, Pan Pacific, The Ned rooftop).",
     "Dinner and a show guide: unpublished figures if you have them: Ronnie Scott's dinner prices and age limit, PizzaExpress Live ticket range, INCA's minimum spend, the Soul Mama gospel brunch price, the inamo comedy night price, the Tiroler Hut's show nights. A City Cruises dinner-boat photo and a Queen of Hoxton drag brunch photo would fill the two gaps.",
     "Join Trainline's affiliate programme, which runs on Partnerize, not Awin: https://join.partnerize.com/trainline/en. Send the ID or a sample link.",
     "Request indexing for the Winter Wonderland guide in Search Console: Google hasn't re-crawled it since 12 September.",
@@ -32,6 +32,10 @@
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-29",
+      "what": "Your photos on the three new hotel guides: 73 placed and checked by eye, with heroes (Royal Victoria Dock for ExCeL, the Greenwich Market arch, The Berkeley's rooftop pool). Left out chain stock that was captioned as two different hotels, including a Premier Inn bathroom already live on the O2 guide as Stratford and in the Canary Wharf folder as Westferry."
+    },
     {
       "date": "2026-09-29",
       "what": "Three hotel guides: Where to stay near ExCeL (16 hotels by entrance, with the last train back from each base), Where to stay in Greenwich (18 hotels across the town, Blackheath, the peninsula and Deptford) and London hotels with a pool (29 hotels, 31 sources, pool size, season, age rules and fees checked against each hotel). 57 of the 64 hotels link through Hotels.com; the rest (Premier Inns, two Travelodges, the Angerstein, the Pelton Arms) aren't sold there. Pool facts corrected on the family, Westminster, South Bank, Bermondsey and Shoreditch guides; ExCeL guide's cable car hours and Sunborn description corrected. All linked from /stay/, best areas to stay and the related guides."
