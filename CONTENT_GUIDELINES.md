@@ -49,6 +49,7 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - `seoTitle` is 55 characters or fewer with the search phrase first; the build enforces it. The H1 can be longer and different.
 - One page per search intent. Two pages must not chase the same phrase.
 - Every list entry names what to order or see, says what the place is like to be in, and gives one thing that decides a visit: booking, queue, hours, price or cash only.
+- Every venue a list recommends gets the same shape as the others: its own heading and facts line. A venue written up as a bold-led paragraph tucked under another entry, or as the lone paragraph of a section, reads as a stray note. Only a short table of several minor options (comedy with dinner, Sunday jazz) may skip headings. Before handing a page over, scan it for paragraphs that open with a bold venue name.
 - A callout heading ends with a full stop, or it runs into the first sentence.
 - Warning callouts carry the one thing that ruins a trip, such as closed Mondays, not an opening-times table.
 - In a table the long prose column goes last, or it renders one character wide on mobile.
