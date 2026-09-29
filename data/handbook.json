@@ -4,6 +4,7 @@
   "updated": "2026-09-29",
   "inProgress": [],
   "nextUp": [
+    "Rerun node scripts/index-coverage.mjs around 6 October to see how many of the 45 unindexed guides the sitemap has fixed.",
     "More GetYourGuide day trips with no guide yet: Warwick Castle and Stratford-upon-Avon, Blenheim Palace.",
     "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
     "Christmas season: November and December monthly guides, pantomimes, and Boxing Day and January sales. In November, swap the \"This season\" nav to the Christmas guides.",
@@ -12,6 +13,7 @@
     "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
+    "Search Console: request indexing (about 10 a day) for the guides Google has never seen, oldest first: best-street-food-london, best-london-markets, best-turkish-restaurants-london, best-caribbean-restaurants-london, westminster-walk, westminster-abbey-guide, london-stadium-travel-guide, best-hostels-london, the-o2-travel-guide, is-london-safe. Full list in data/index-coverage.json.",
     "Hotel guide photos still missing (your downloads were too small, wrong hotel or not the pool): ExCeL — Marriott Canary Wharf, Moxy Stratford (480px), Travelodge ExCeL; Greenwich — Staycity Deptford Bridge (not open yet), The Pelton Arms, Travelodge Greenwich, bedrooms for The Mitre and The Admiral Hardy; pools — Bulgari and Westin (480px), Café Royal, Park Plaza Westminster Bridge, The Marylebone, St Pancras, Mandarin Oriental Hyde Park (its photo was the New York hotel), Canary Riverside, The Landmark's vitality pool.",
     "Sheet fixes: staycity-deptford-bridge postcode is SE8 4HH (not SE10 8FH); sunborn-london needs its Hotels.com URL (ho463416) and its description (133 rooms and 5 suites, not a 40-metre yacht with cabins); the mondrian-shoreditch row is now Virgin Hotels London-Shoreditch.",
     "Check seven Hotels.com links on the pool guide that Hotels.com's bot check stopped me verifying: Pan Pacific, Haymarket, The Marylebone, The Dilly, Leonardo St Paul's, Novotel Blackfriars, St Pancras.",
@@ -32,6 +34,10 @@
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-29",
+      "what": "Why the street food guide doesn't rank: Google had never seen it. An index check of every guide found 215 of 260 indexed and 45 not, 35 of them unknown to Google, because no sitemap had ever been submitted in Search Console. You submitted it; Google read all 468 URLs. New scripts: page-ranking.mjs (a page's searches and positions), inspect-url.mjs and index-coverage.mjs."
+    },
     {
       "date": "2026-09-29",
       "what": "Your photos on the three new hotel guides: 73 placed and checked by eye, with heroes (Royal Victoria Dock for ExCeL, the Greenwich Market arch, The Berkeley's rooftop pool). Left out chain stock that was captioned as two different hotels, including a Premier Inn bathroom already live on the O2 guide as Stratford and in the Canary Wharf folder as Westferry."
