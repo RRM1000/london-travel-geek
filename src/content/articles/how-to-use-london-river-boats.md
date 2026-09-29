@@ -98,7 +98,7 @@ Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Ba
 | **Central & West** | **£11.40** | **£13.70** | **£13.50** | **£17.70** |
 | **All Zones (West + Central + East)** | **£19.30** | **£22.90** | **£22.70** | **£24.70** |
 
-> 💳 **Smart Tip:** Tapping Oyster or contactless is almost always cheaper than buying paper tickets at the pier ticket office! Valid Travelcard holders save an extra **33%**.
+> 💳 **Smart Tip:** Tapping Oyster or contactless is almost always cheaper than buying paper tickets at the pier ticket office! Valid Travelcard holders save an extra **33%**. For one long journey, the <a href="https://www.getyourguide.com/activity/-t413091?partner_id=WWP7I0R&amp;cmp=how-to-use-london-river-boats" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Uber Boat single river ticket on GetYourGuide</a> is cheaper still: **from £9.80** in September 2026 for one trip between any two piers from Battersea Power Station to Barking Riverside, rated 4.0 from 1,116 reviews. It doesn't cover Putney or Wandsworth.
 
 ---
 
@@ -113,6 +113,7 @@ Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Ba
 *A sightseeing cruise, not a river bus.*
 Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliament, South Bank, St Paul's, and the skyscrapers of the City, before passing **directly beneath Tower Bridge** to reach Greenwich (*Cutty Sark*, Royal Observatory).
 * **Zones:** Central & East Zone (£11.40 off-peak PAYG).
+* **With commentary:** City Cruises sails Westminster, London Eye, Tower and Greenwich piers with the captain talking. Its <a href="https://www.getyourguide.com/activity/-t1382143?partner_id=WWP7I0R&amp;cmp=how-to-use-london-river-boats" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">one-day unlimited river pass</a> is **from £9** on GetYourGuide, 4.5 from 816 reviews: less than one Uber Boat fare to Greenwich.
 
 ![Tower Bridge seen from the deck of a river boat passing directly beneath it.](../../assets/articles/getting-around-london/tower-bridge-from-river-boat.png)
 
