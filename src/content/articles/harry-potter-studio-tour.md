@@ -3,7 +3,7 @@ title: "The Harry Potter Studio Tour: Tickets, Extras and How to Get There"
 seoTitle: "Harry Potter Studio Tour London: Prices and Travel"
 description: "Warner Bros. Studio Tour London costs £58.50 and cannot be bought on the door. Every optional extra with its price, the cheapest ways to get there from London, and what is included."
 publishedAt: 2026-09-20
-updatedAt: 2026-09-27
+updatedAt: 2026-09-29
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -72,7 +72,7 @@ The family price is not a separate product. Put two adults and two children in t
 
 **The coach packages are one product sold by several companies.** Four resellers run the same day out — a coach from central London, about four hours inside, a rep with the tickets — from Victoria, Bloomsbury, King's Cross, Paddington and Marble Arch. The Victoria coach has the most reviews, 4.7 from almost 28,000, and is usually the cheapest, so book that one. Only two others add something: the Victoria, Paddington or Marble Arch coach sells an extended stay of about six hours inside, and the branded bus, run by Golden Tours, is the only one listed as wheelchair accessible — close to the same price as booking with Golden Tours direct.
 
-The <a href="https://www.getyourguide.com/activity/-t408850?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour and Thames cruise</a>, £84.50, is the ticket and a hop-on hop-off cruise with **no transport at all**.
+**The Studio Tour and Thames cruise** is the ticket and a hop-on hop-off cruise from Westminster or Tower Pier, which you can take on a different day, with **no transport at all**. GetYourGuide sells it twice under the same name: <a href="https://www.getyourguide.com/activity/-t408850?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">one listing</a> is £84.50 on every date, with free cancellation up to three days before; the <a href="https://www.getyourguide.com/activity/-t469400?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">other</a>, rated 4.8 from 1,004 reviews, is from £66 but £89 to £110 on most dates when checked on 29 September 2026, and non-refundable. Bought separately, the £58.50 ticket and City Cruises' [£9 one-day river pass](/articles/thames-river-cruises-london/) come to £67.50.
 
 ### Which to book
 
