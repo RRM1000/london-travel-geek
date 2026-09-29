@@ -169,7 +169,7 @@ The nineteen State Rooms the King uses for official entertaining, open **only wh
 
 **The date trap is September.** The palace is **closed on Tuesdays and Wednesdays throughout September**, and the last admission drops from 5.30pm to 4.30pm on 1 September. Slots are timed in 15-minute intervals and dates sell out.
 
-**£33 booked ahead against £37 on the door**, and **£1 tickets** exist for anyone on Universal Credit and similar benefits. Whatever you pay, **convert the ticket to a 1-Year Pass at the desk** — it is free and gets you back in for a year.
+**£33 booked ahead against £37 on the door**, and **£1 tickets** exist for anyone on Universal Credit and similar benefits. Whatever you pay, **convert the ticket to a 1-Year Pass at the desk** — it is free and gets you back in for a year. To add the Changing of the Guard, City Wonders' <a href="https://www.getyourguide.com/activity/-t49917?partner_id=WWP7I0R&amp;cmp=historic-houses-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Buckingham Palace Entry & Changing of the Guard Tour</a> watches the ceremony with a guide and then goes in with the official audio guide, from £72 on GetYourGuide, 4.4 from 2,979 reviews; on Tuesday, Thursday and Saturday the ceremony half becomes a walk round Westminster.
 
 **The garden is partly included**: the route leaves through it along a half-kilometre gravel path, and **the only toilets are at that end**, so go before you start. A proper guided garden walk is a separate, dearer ticket.
 

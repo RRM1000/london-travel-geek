@@ -154,7 +154,7 @@ The ceremonial route to Buckingham Palace, and the park is the reason to walk it
 
 **There are pelicans**, descended from a gift to Charles II in 1664, and they are fed at the lakeside around 2.30pm each day.
 
-**Buckingham Palace State Rooms open only in summer**, roughly July to September, and are ticketed and timed. The **Changing of the Guard at the Palace is free** but the crowd is deep — the Horse Guards version ten minutes away is the better watch.
+**Buckingham Palace State Rooms open only in summer**, roughly July to September, and are ticketed and timed. City Wonders' <a href="https://www.getyourguide.com/activity/-t49917?partner_id=WWP7I0R&amp;cmp=westminster-area-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Buckingham Palace Entry & Changing of the Guard Tour</a> is the ceremony with a guide followed by State Rooms entry, from £72 on GetYourGuide, 4.4 from 2,979 reviews; it runs only during the summer opening, from 9 July in 2027. The **Changing of the Guard at the Palace is free** but the crowd is deep — the Horse Guards version ten minutes away is the better watch.
 
 **The park is free and open dawn to midnight.** St James's Park station is at the western end, Charing Cross at the eastern.
 

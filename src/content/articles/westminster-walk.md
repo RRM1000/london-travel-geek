@@ -198,7 +198,7 @@ Out of the park at the western end, and the Victoria Memorial is in front of you
 
 > ⚠️ **It can be cancelled at short notice**, especially in wet weather, and the Household Division says the decision can be made **as late as 10.45 on the day**. Check before you build a morning around it.
 
-**The State Rooms open only in summer.** The 2026 season is **9 July to 27 September**, and outside it the Palace opens on selected dates for Exclusive Guided Tours at £100 a head. Everything else about the Palace — the gates, the memorial, the ceremony — is free and needs no ticket at all.
+**The State Rooms open only in summer.** The 2026 season is **9 July to 27 September**, and outside it the Palace opens on selected dates for Exclusive Guided Tours at £100 a head. City Wonders' <a href="https://www.getyourguide.com/activity/-t49917?partner_id=WWP7I0R&amp;cmp=westminster-walk" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Buckingham Palace Entry & Changing of the Guard Tour</a> puts the two together: the ceremony with a guide, then timed entry to the State Rooms with the official audio guide, 2½ hours from the Duke of York Column, from £72 on GetYourGuide and rated 4.4 from 2,979 reviews. It runs only while the State Rooms are open, from 9 July in 2027, and on Tuesday, Thursday and Saturday, when the guard does not change, the first half is a walk round Westminster instead. Everything else about the Palace — the gates, the memorial, the ceremony — is free and needs no ticket at all.
 
 ## 9. The Mall
 
