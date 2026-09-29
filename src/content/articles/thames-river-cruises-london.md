@@ -3,7 +3,7 @@ title: "Thames River Cruises in London: Which to Book and What They Cost"
 seoTitle: "Thames River Cruises London 2026: Prices & Routes"
 description: "Every kind of Thames cruise compared on price, piers and commentary. Westminster to Greenwich from £14.62 online, a £9 City Cruises day pass, lunch from £43, dinner from £99, speedboats from £59.95 and the seasonal boat to Kew and Hampton Court."
 publishedAt: 2026-09-26
-updatedAt: 2026-09-27
+updatedAt: 2026-09-29
 reviewBy: 2026-10-26
 sites: [london]
 canonicalSite: london
@@ -50,8 +50,9 @@ faq:
 
 ## Book a cruise direct
 
-Three cruises that cover most people, bookable on GetYourGuide:
+The cruises that cover most people, bookable on GetYourGuide:
 
+- **£9** — <a href="https://www.getyourguide.com/activity/-t1382143?partner_id=WWP7I0R&amp;cmp=thames-river-cruises-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">City Cruises one-day unlimited river pass</a> — the same £9 pass as on City Cruises' own site: Westminster, London Eye, Tower and Greenwich piers, captain's commentary, 4.5 from 816 reviews
 - **£17** — <a href="https://www.getyourguide.com/activity/-t71379?partner_id=WWP7I0R&amp;cmp=thames-river-cruises-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Westminster to Greenwich cruise, one way or return</a> — the most reviewed Thames cruise on GetYourGuide, 4.5 from 25,506 reviews, with a downloadable audio commentary
 - **£16** — <a href="https://www.getyourguide.com/activity/-t193403?partner_id=WWP7I0R&amp;cmp=thames-river-cruises-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">45-minute circular cruise from the London Eye, with an optional London Eye ticket</a> — live commentary, back where you started, 4.5 from 4,463 reviews
 - **£25** — <a href="https://www.getyourguide.com/activity/-t5273?partner_id=WWP7I0R&amp;cmp=thames-river-cruises-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hop-on hop-off sightseeing cruise</a> — Westminster, London Eye, Tower and Greenwich piers, 4.4 from 3,297 reviews

@@ -3,7 +3,8 @@ title: "London Tour Buses Compared: Routes, Stops and Prices"
 seoTitle: "London Hop-On Hop-Off Buses 2026: Online Saves 13–41%"
 description: "Every Big Bus, Golden Tours and Tootbus route and stop, with what each really costs — Golden Tours from £24.78 online against £42 at the kerb — and the ordinary red bus that covers much of the same ground for £1.75."
 publishedAt: 2026-08-27
-updatedAt: 2026-09-27
+updatedAt: 2026-09-29
+reviewBy: 2026-10-31
 sites: [london]
 canonicalSite: london
 category: "Getting around London"
@@ -15,11 +16,11 @@ faq:
   - q: "How much is a hop-on hop-off bus in London?"
     a: "Big Bus starts at £32 for an adult one-day ticket booked online against £39 full price. Tootbus is £35.20 against £44. Golden Tours discounts hardest, from £24.78 against £42 walk-up. The gap between the online and kerbside price is the single most important thing to know."
   - q: "How many stops do London tour buses have?"
-    a: "Big Bus has around 55 stops across three routes — a central and eastern Red Route, a western Blue Route, and a Green Link serving Bloomsbury, Euston, King's Cross and St Pancras. Golden Tours has over 60 stops across three routes, and Tootbus runs four routes with six walking tours included."
+    a: "Big Bus has around 55 stops across three routes — a central and eastern Red Route, a western Blue Route, and a Green Link serving Bloomsbury, Euston, King's Cross and St Pancras. Golden Tours has over 60 stops across three routes, City Sightseeing 45 across three, and Tootbus runs four routes with six walking tours included."
   - q: "Which normal London bus is best for sightseeing?"
     a: "Route 11 is the classic: Liverpool Street, St Paul's, Fleet Street, the Strand, Trafalgar Square, Whitehall, Westminster and on to Victoria. Route 24 runs Hampstead Heath through Camden to Trafalgar Square and Westminster. Both cost £1.75 and take contactless."
   - q: "Do London buses still use the old Routemaster?"
-    a: "Not on a scheduled route. Transport for London's own route 15 page lists no heritage service, so the old open-platform Routemaster you could hop onto is gone. Golden Tours runs an electric vintage Routemaster as a paid tour instead."
+    a: "Not on a scheduled route. Transport for London's own route 15 page lists no heritage service, so the old open-platform Routemaster you could hop onto is gone. Golden Tours, TransporaBus and The Classic Tour run vintage Routemasters as paid tours with a live guide instead, from £19.50."
   - q: "How much does a London bus cost?"
     a: "£1.75 a journey with contactless or Oyster, capped at £5.25 a day. The Hopper fare means further bus journeys within an hour of touching in are free, so a morning of hopping between sights can cost a single £1.75."
 heroImage: "../../assets/articles/london-tour-buses-compared/london-tour-buses-compared.jpg"
@@ -38,7 +39,7 @@ That does not make tour buses a rip-off. It makes them a specific product for a 
 
 ## What they cost
 
-Prices as published by the operators in August 2026. The gap between the online and full price is the whole game.
+Prices as published by the operators in August 2026; City Sightseeing, the Big Bus London Eye ticket and the two vintage tours are GetYourGuide prices from September 2026. The gap between the online and full price is the whole game.
 
 ![A red open-top City Sightseeing tour bus in London, its upper deck open to the sky](../../assets/articles/london-tour-buses-compared/sightseeing-bus.jpg)
 
@@ -49,11 +50,15 @@ Prices as published by the operators in August 2026. The gap between the online 
 | **Golden Tours** — 1 Day | **£24.78** | £42.00 | 3 routes, 60+ stops |
 | **Big Bus** — One Day | **£32.00** | £39.00 | 3 routes, bus only |
 | **Tootbus** — Discovery 1 Day (adult) | **£35.20** | £44.00 | 4 routes + 6 walking tours |
+| **City Sightseeing** — 1 Day | **£25.00** | £30.00 direct | 3 routes, 45 stops |
 | **Golden Tours** — 24 Hours | **£33.32** | £49.00 | Adds a Thames cruise |
 | **Big Bus** — Discover | **£36.99** | £43.99 | Adds a river cruise |
 | **Golden Tours** — 48/72 Hours | **£36.72** | £54.00 | Longer validity, cruise included |
 | **Big Bus** — Essential | **£46.99** | £53.99 | Adds cruise and walking tours |
+| **Big Bus** — with the London Eye | **£60.00** | — | 24 or 48 hours, London Eye entry and a one-way cruise |
 | **Golden Tours** — Electric Routemaster | **£19.50** | £30.00 | Live guide, vintage bus, not hop-on hop-off |
+| **The Classic Tour** — Routemaster, day or night | **£25.00** | — | Live guide, 75 minutes, a top-deck seat for everyone, not hop-on hop-off |
+| **TransporaBus** — Routemaster | **£30.00** | — | Live guide, 90 minutes, not hop-on hop-off |
 
 **Tootbus family and child pricing:** child (5–15) **£19.20** against £24.00, and a family ticket (2 adults + 2 children) at **£112.00**. Tootbus tickets run for 1, 2 or 3 days.
 
@@ -149,13 +154,17 @@ A short connector rather than a sightseeing loop, and at **every 45 minutes** it
 
 > **If you are arriving by Eurostar**, stop 51 puts a tour bus at St Pancras — which is genuinely convenient, and the reason this route exists.
 
+### Big Bus with the London Eye
+
+A 24- or 48-hour Big Bus ticket with **London Eye entry** and a **one-way City Cruises boat between Westminster and Tower piers**, about 40 minutes with live commentary. The <a href="https://www.getyourguide.com/activity/-t292175?partner_id=WWP7I0R&amp;cmp=london-tour-buses-compared" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye, River Cruise and Hop-on Hop-off Bus Tour</a> is **from £60** on GetYourGuide, 4.4 from 6,698 reviews. Bought separately, Big Bus Discover at £36.99 and a £29 advance Eye ticket come to £65.99. The 48-hour version adds three guided walks: the Royal Walk, Jack the Ripper and Harry Potter. **The Eye slot is not booked for you**: reserve it through Big Bus's booking portal once you have paid, and do it early for a sunset slot.
+
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tour-buses-compared-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Golden Tours: three routes, 60+ stops
 
-The cheapest of the three online, and the routes are organised by theme rather than geography. A full loop takes **50–60 minutes** on each.
+The cheapest hop-on hop-off ticket here, and the routes are organised by theme rather than geography. A full loop takes **50–60 minutes** on each.
 
 | Route | Operates | Stops | Covers |
 | --- | --- | --- | --- |
@@ -173,9 +182,49 @@ Tickets include a free app audio guide in **12 languages**, live bus tracking, a
 
 ## Tootbus: four routes and six walking tours
 
-Tootbus tickets run for **1, 2 or 3 days** and cover **four bus routes**, with **six walking tours included** in the Discovery ticket — the most generous bundle of the three operators, and the reason its headline price is higher.
+Tootbus tickets run for **1, 2 or 3 days** and cover **four bus routes**, with **six walking tours included** in the Discovery ticket, which is the reason its headline price is higher.
 
 At **£35.20** adult and **£19.20** child, a family of four is better served by the **£112 family ticket**, which saves about £10 against buying separately.
+
+---
+
+## City Sightseeing: three routes, 45 stops
+
+City Sightseeing runs **three routes with 45 stops**, recorded commentary in **11 languages**, and a children's commentary with an activity booklet on the Blue Route. A one-day ticket is **£30 on its own site** and **from £25** as the <a href="https://www.getyourguide.com/activity/-t400017?partner_id=WWP7I0R&amp;cmp=london-tour-buses-compared" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">City Sightseeing Hop-On Hop-Off Bus ticket on GetYourGuide</a>, 4.3 from 8,662 reviews.
+
+| Route | Covers | Operates | Frequency |
+| --- | --- | --- | --- |
+| **Red Route** | The London Eye, St Paul's, Borough Market, the Tower, Westminster, Buckingham Palace, Hyde Park | 09:00–17:15 | Every **20 min**; the loop takes 150 minutes |
+| **Blue Route** | Hyde Park Corner, Harrods, the South Kensington museums, Kensington Palace, Notting Hill Gate | 09:30–17:00 | Every **45 min**; 80 minutes |
+| **Green Route** | Bloomsbury and the British Museum | **Friday to Sunday only**, seven set departures | 90 minutes |
+
+**The longer tickets add boats and a night tour.**
+
+* **24 hours:** a one-way cruise between Westminster and Tower piers.
+* **48 or 72 hours:** a same-day return cruise to Greenwich instead.
+* **72 hours:** also the **night tour** from outside Green Park station, at **19:30 and 21:20 from October to March**, and six times a night from 19:30 to 22:15 between April and September.
+
+---
+
+## Vintage Routemasters: a live guide, and no hopping off
+
+Golden Tours' electric Routemaster is in the price table above. The two below run open-top 1960s Routemasters and sell through GetYourGuide under near-identical names; they are different companies. On both:
+
+* **One loop, back where it started.** Neither is hop-on hop-off.
+* **A live guide, in English only.**
+* **No room for a wheelchair.**
+
+### The Classic Tour: 75 minutes from Trafalgar Square, day or night
+
+*From £25 · 75 minutes · 8 Northumberland Avenue, WC2N 5BY*
+
+**Every passenger is guaranteed a seat on the open top deck.** The loop starts just off Trafalgar Square and takes in Piccadilly Circus, Westminster Abbey, the London Eye, St Paul's, the Shard and the Tower of London. The <a href="https://www.getyourguide.com/activity/-t1236896?partner_id=WWP7I0R&amp;cmp=london-tour-buses-compared" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">daytime Vintage Open-Top Bus Tour</a> has 4.7 from 533 reviews. The <a href="https://www.getyourguide.com/activity/-t1236950?partner_id=WWP7I0R&amp;cmp=london-tour-buses-compared" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Vintage Open-Top Bus Night Tour</a> is the same bus after dark, with Parliament floodlit and Piccadilly Circus lit up, 4.6 from 860 reviews.
+
+### TransporaBus: 90 minutes from Embankment
+
+*From £30 · 90 minutes · Embankment, stop 40b*
+
+The <a href="https://www.getyourguide.com/activity/-t685713?partner_id=WWP7I0R&amp;cmp=london-tour-buses-compared" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Live Guided Sightseeing Tour on Vintage Open-Top Bus</a> is the longer loop, 4.6 from 4,302 reviews. It runs east past the Royal Courts of Justice, St Paul's and the Monument to the Tower and Tower Bridge, then back west by the London Eye, Big Ben, Westminster Abbey, Downing Street, Trafalgar Square and Piccadilly Circus.
 
 ---
 
@@ -199,7 +248,7 @@ The **Hopper fare** gives unlimited bus journeys within **one hour** of touching
 
 **Route 148 — over the river.** Camberwell, Elephant & Castle, **Westminster**, Hyde Park Corner, **Notting Hill** and White City, crossing Westminster Bridge with the Parliament view.
 
-> **The heritage Routemaster is gone.** Route 15 used to run a limited service with the old open-platform buses, and many guides still send people to find it. TfL's own route 15 page now lists no heritage service. If you want a vintage Routemaster, Golden Tours runs an electric one as a paid tour at £19.50.
+> **The heritage Routemaster is gone.** Route 15 used to run a limited service with the old open-platform buses, and many guides still send people to find it. TfL's own route 15 page now lists no heritage service. If you want a vintage Routemaster, the [guided tours above](#vintage-routemasters-a-live-guide-and-no-hopping-off) run them from £19.50.
 
 ### What you give up
 
@@ -266,4 +315,4 @@ Genuinely worth it if:
 
 ---
 
-*Operator prices and timetables checked in August 2026 and change frequently. Bus fares are from Transport for London. Stop lists are as published by the operators; routes are occasionally altered for roadworks and events, so check the operator's live map on the day.*
+*Operator prices and timetables checked in August 2026, and City Sightseeing's, the vintage tours' and the Big Bus London Eye ticket's in September 2026; they change frequently. Bus fares are from Transport for London. Stop lists are as published by the operators; routes are occasionally altered for roadworks and events, so check the operator's live map on the day.*

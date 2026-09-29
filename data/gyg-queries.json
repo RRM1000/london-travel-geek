@@ -197,6 +197,45 @@
     "Westminster Abbey",
     "Tower Bridge"
    ]
+  },
+  "river-boats": {
+   "for": "The river-boat transport pages: a single Uber Boat ticket, a City Cruises day pass and a short sightseeing cruise. The first two are GetYourGuide London bestsellers we did not promote until 29 September 2026. The search 'Uber Boat Thames Clippers ticket' is replaced by the pinned ticket.",
+   "tourIds": [
+    "413091",
+    "1382143",
+    "193403"
+   ],
+   "titles": [
+    "Uber Boat single river ticket",
+    "City Cruises one-day unlimited river pass",
+    "London Eye circular cruise"
+   ]
+  },
+  "tour-buses": {
+   "for": "The tour bus page. The search 'London hop-on hop-off bus' returned no bus at all on 29 September 2026 - the Studio Tour, the London Eye and a Banksy museum - so the set is pinned: a hop-on hop-off bus, the Big Bus combo with the London Eye, and the river pass the page recommends as the better-value scenic ride.",
+   "tourIds": [
+    "400017",
+    "292175",
+    "1382143"
+   ],
+   "titles": [
+    "City Sightseeing hop-on hop-off bus",
+    "Big Bus, London Eye and river cruise",
+    "City Cruises one-day unlimited river pass"
+   ]
+  },
+  "vintage-buses": {
+   "for": "Live-guided tours on 1960s open-top Routemasters, none of them hop-on hop-off. Two operators: TransporaBus runs the 90-minute day tour, The Classic Tour runs the 75-minute day and night tours from Northumberland Avenue.",
+   "tourIds": [
+    "685713",
+    "1236896",
+    "1236950"
+   ],
+   "titles": [
+    "Vintage Routemaster tour, TransporaBus, 90 minutes",
+    "Vintage Routemaster tour, The Classic Tour, 75 minutes",
+    "Vintage Routemaster night tour, The Classic Tour"
+   ]
   }
  },
  "howPicksWork": "A slot may be \"pick:<name>\" instead of a search string, which pins the widget to those exact activity ids via data-gyg-tour-ids. Use a pick where the search returns the wrong thing. A probe of all 159 queries on 4 September 2026 (data/gyg-query-probe.json) found 49 where no result was on the subject, several returning other countries entirely - Auckland for a Thames cruise, Venice for the Natural History Museum, Sonoma for Kenwood House. Re-run scripts/probe-gyg-queries.mjs before trusting any query you add. 19 September 2026: every pool entry is now a pick rather than a search, because a search returns three versions of one product - three Stonehenge coach trips, three London Eye tickets - and Rob asked for each widget to offer three different things.",
@@ -419,8 +458,8 @@
    "adjacent": "London bus tour"
   },
   "how-to-use-london-river-boats": {
-   "slot1": "pick:river-and-views",
-   "adjacent": "Uber Boat Thames Clippers ticket"
+   "slot1": "pick:river-boats",
+   "adjacent": "pick:river-and-views"
   },
   "how-to-use-the-london-underground": {
    "slot1": "pick:london-classics",
@@ -435,8 +474,8 @@
    "adjacent": "London hop-on hop-off bus"
   },
   "london-tour-buses-compared": {
-   "slot1": "London hop-on hop-off bus",
-   "adjacent": "London bus tour with river cruise"
+   "slot1": "pick:tour-buses",
+   "slot3": "pick:vintage-buses"
   },
   "london-tube-and-rail-lines-guide": {
    "slot1": "pick:london-classics",
