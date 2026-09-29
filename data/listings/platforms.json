@@ -599,7 +599,7 @@
   "platforms": [
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-w34038687": {
   "name": "Barbican Arts Centre",
