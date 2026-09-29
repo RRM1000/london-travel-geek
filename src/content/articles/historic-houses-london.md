@@ -275,6 +275,8 @@ It is red brick built round a small courtyard with a vicarage and choir school, 
 
 **Free, and open daily 11am to 7pm** for private prayer and visiting. Mass at noon and 6.30pm Monday to Saturday, 11am on Sundays. Two minutes from Oxford Circus and almost entirely unvisited.
 
+<div data-stay-strip></div>
+
 ### St Paul's, the Actors' Church, Covent Garden
 
 *Free · weekdays 9am–5.30pm · call ahead*
@@ -288,8 +290,6 @@ Inside: the **Thomas Arne memorial carved with the opening bars of "Rule Britann
 **Free, usually open weekdays 9am to 5.30pm** — but it hosts up to 400 events a year and **closes for memorials, weddings and its ticketed garden theatre season**, so **phone 020 7836 5221 before a special trip**. There is a free self-guided tour written by the Rector, a ramp to the main entrance, and moveable pews so wheelchair space can be made anywhere.
 
 ---
-
-<div data-stay-strip></div>
 
 ## Still in use
 

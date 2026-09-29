@@ -91,6 +91,8 @@ A 40 to 45-minute loop from **London Eye Pier** and back, with live commentary. 
 
 Golden Tours and Big Bus sell hop-on hop-off bus tickets with a river cruise bundled in. If you were going to take both, [our comparison of London tour buses](/articles/london-tour-buses-compared/) sets out which tickets include the boat.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="thames-river-cruises-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Uber Boat: the cheap alternative
 
 [Uber Boat by Thames Clippers](https://www.thamesclippers.com/plan-your-journey/ticket-information) is the river's commuter service, not a cruise. It runs every 10 to 20 minutes at the central piers, faster than the sightseeing boats, with indoor seats and a small open deck at the back.
@@ -166,8 +168,6 @@ The Westminster to Greenwich sightseeing boats turn at Greenwich. The choices ar
 
 Going one way by boat and back by train makes the day workable: [Kew Gardens](/articles/kew-gardens-guide/) is 1h 15m from Westminster, and [Richmond](/articles/richmond-area-guide/) has a direct train to Waterloo. GetYourGuide also sells the <a href="https://www.getyourguide.com/activity/-t492850?partner_id=WWP7I0R&amp;cmp=thames-river-cruises-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Westminster to Hampton Court cruise</a> from £27.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="thames-river-cruises-london-upriver" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="492850,207834,5273"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Evening, Christmas and New Year's Eve cruises
 
 **Illuminated River tour.** Uber Boat's [Illuminated River Official Boat Tour](https://www.thamesclippers.com/whats-on-and-offers/illuminated-river-official-boat-tours) is a 50-minute loop from **Tower Pier** under nine lit bridges, with commentary from official City of London and City of Westminster guides. **Saturdays at 21:30 only**, until 8 May 2027. **£16.50**, child and concession £9.90, bought online in advance.
@@ -182,6 +182,8 @@ Going one way by boat and back by train makes the day workable: [Kew Gardens](/a
 - **Thames Rockets:** 90 minutes on a 12-seat open speedboat, £449.
 
 Party boats and the rest of the night are in our [New Year's Eve in London guide](/articles/new-years-eve-london/).
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="thames-river-cruises-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Accessibility
 

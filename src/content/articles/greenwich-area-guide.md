@@ -180,8 +180,6 @@ Also free, and often missed: the **deer in The Wilderness** — a herd has been 
 
 *Inside the Foot Tunnel.*
 
-<div data-stay-strip></div>
-
 ### Greenwich Peninsula and North Greenwich
 Two miles north, and a different world from the Maritime Greenwich end of the peninsula — modern, arena-scale, and built around The O2 rather than around history. Match-day and event-night transport are in our [O2 travel guide](/articles/the-o2-travel-guide/). The Thames Clippers pier here is the fastest way in on an event night.
 
@@ -196,6 +194,8 @@ Two miles north, and a different world from the Maritime Greenwich end of the pe
 *The IFS Cloud Cable Car.*
 
 The **Design District** sits opposite the arena, a minute from North Greenwich station — 16 low-rise buildings by eight different architects, holding small design studios, workspaces and a straightforward canteen. Worth a look if The O2 itself feels too retail-heavy.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -234,8 +234,6 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 
 **Note:** The Observatory, Cutty Sark and Painted Hall are three separate tickets from two separate organisations. Royal Museums Greenwich sells a **day pass covering the Observatory and the Cutty Sark for £38 adult and £19 child**; the Painted Hall belongs to the Old Royal Naval College and is bought separately.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-cutty-sark-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Cutty Sark tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Walking routes
 
 **[A Walk from Canary Wharf to Greenwich: Under the River in Eleven Stops →](/articles/canary-wharf-greenwich-walk/)**
@@ -251,7 +249,7 @@ Our full route into this area from the north: **eleven numbered stops** over abo
 5. **Up the hill:** Through **Greenwich Park** to the **Royal Observatory** and the view.
 6. **Finish:** The **Trafalgar Tavern** on the river, or the **Foot Tunnel** for the view back.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

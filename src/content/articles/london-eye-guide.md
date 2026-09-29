@@ -107,6 +107,8 @@ The London Eye's own guidance on wait times: **20 to 30 minutes for Standard and
 
 If the London Eye is only one component of a wider sightseeing trip, buying an individual ticket is usually the most expensive approach. There are two distinct routes to save:
 
+<div data-stay-strip></div>
+
 ### 1. Merlin multi-attraction combination tickets
 Merlin Entertainments sells combined tickets covering the London Eye and several of its other major attractions. Three are a few minutes' walk away on the South Bank; the fourth is across town:
 - **SEA LIFE London Aquarium** (inside County Hall, right next to the wheel entrance)
@@ -120,8 +122,6 @@ Every multi-attraction ticket gives you 7 days to visit the rest and can be resc
 - **London Eye + Thames River Cruise:** Combines your flight with a 40-minute circular sightseeing cruise departing directly from London Eye Pier at the base of the wheel. Book the <a href="https://www.getyourguide.com/activity/-t193403?partner_id=WWP7I0R&amp;cmp=london-eye-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye River Cruise combo on GetYourGuide</a>.
 - **London Eye + Big Bus + river cruise:** a 24- or 48-hour Big Bus hop-on hop-off ticket, London Eye entry and a one-way City Cruises boat between Westminster and Tower piers. The <a href="https://www.getyourguide.com/activity/-t292175?partner_id=WWP7I0R&amp;cmp=london-eye-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye, River Cruise and Hop-on Hop-off Bus Tour on GetYourGuide</a> is from £60, 4.4 from 6,698 reviews. **Your Eye slot is not booked for you:** reserve it through Big Bus once you have paid. The bus routes are in our [tour buses compared](/articles/london-tour-buses-compared/) guide.
 - **London Eye + SEA LIFE London Aquarium:** Particularly convenient for families, as both attractions share the same South Bank riverside forecourt.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-eye-guide-combos" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,432130,193403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ### 2. The London Pass (Go City): 100+ London attractions
 For travellers planning to visit London's premier historical monuments and museums alongside the London Eye, **The London Pass by Go City** is the most comprehensive sightseeing pass available.
@@ -204,6 +204,8 @@ Unlike traditional fairground Ferris wheels, the ride is smooth and stable. Rubb
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-eye-guide-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Weather, fog and rescheduling
 
 London's weather can turn over a single afternoon. The wheel turns in rain, fog and light snow, closing only for severe storms or sustained gale-force winds.
@@ -246,6 +248,8 @@ The London Eye is fully step-free:
 - Wheelchair slots must be booked in advance online to secure an allocated time. Carers receive a complimentary companion ticket when booking.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-eye-guide-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

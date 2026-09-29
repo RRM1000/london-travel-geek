@@ -160,7 +160,7 @@ A 24- or 48-hour Big Bus ticket with **London Eye entry** and a **one-way City C
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tour-buses-compared-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tour-buses-compared-tour-buses" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="400017,292175,1382143"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Golden Tours: three routes, 60+ stops
 
@@ -206,6 +206,8 @@ City Sightseeing runs **three routes with 45 stops**, recorded commentary in **1
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tour-buses-compared-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Vintage Routemasters: a live guide, and no hopping off
 
 Golden Tours' electric Routemaster is in the price table above. The two below run open-top 1960s Routemasters and sell through GetYourGuide under near-identical names; they are different companies. On both:
@@ -250,13 +252,13 @@ The **Hopper fare** gives unlimited bus journeys within **one hour** of touching
 
 > **The heritage Routemaster is gone.** Route 15 used to run a limited service with the old open-platform buses, and many guides still send people to find it. TfL's own route 15 page now lists no heritage service. If you want a vintage Routemaster, the [guided tours above](#vintage-routemasters-a-live-guide-and-no-hopping-off) run them from £19.50.
 
+<div data-stay-strip></div>
+
 ### What you give up
 
 No commentary, no guaranteed seat, and no guaranteed top-deck front window — the seat everyone actually wants. Ordinary buses get crowded, they do not wait while you photograph anything, and nobody tells you what you are looking at. You also need to know where you are going.
 
 ---
-
-<div data-stay-strip></div>
 
 ## Who should buy a tour bus ticket
 
@@ -292,7 +294,7 @@ Genuinely worth it if:
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tour-buses-compared-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tour-buses-compared-vintage-buses" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="685713,1236896,1236950"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

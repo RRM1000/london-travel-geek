@@ -90,7 +90,7 @@ The other constraint is capacity, not restriction: Car Park 1 is a single car pa
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to actually park
 
@@ -185,7 +185,7 @@ The **188 runs 24 hours** to and from Waterloo, and the **N472** night route sta
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay, and why the peninsula is the trap on a big night
 
@@ -228,8 +228,6 @@ The **Design District**, a cluster of 16 low-rise studio buildings by eight diff
 
 ---
 
-<div data-stay-strip></div>
-
 ## Eating and drinking in the Entertainment District
 
 Unlike Boxpark at Wembley, The O2's Entertainment District doesn't close to the public or convert to a ticketed fan zone on an event day — it's part of the venue's own estate rather than a separate leased business, and it runs on its ordinary public hours regardless of what's on in the arena that night.
@@ -241,6 +239,8 @@ One reliably late option: **Wetherspoon's pub here, The Stargazer**, is open **1
 Inside the arena itself, bars include the **American Express Lounge, Aperol Spritz Bar, London Essence Cocktail Bar, O2 Bluebar, O2 Blueroom, Smirnoff Bar** and **The Budweiser Bar**. Both The O2 arena and indigo at The O2 are **cashless**.
 
 ---
+
+<div data-stay-strip></div>
 
 ## The bag problem
 
@@ -276,7 +276,7 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers the citywi
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="the-o2-travel-guide-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Small print that catches people out
 

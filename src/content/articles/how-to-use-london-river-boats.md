@@ -102,7 +102,7 @@ Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Ba
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-london-river-boats-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-london-river-boats-river-boats" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="413091,1382143,193403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Top 3 scenic river boat routes for visitors
 
@@ -151,11 +151,11 @@ Piers are signed from the riverside walkway rather than the road above, so it's 
 
 ---
 
+<div data-stay-strip></div>
+
 ## Speedboats and dining cruises
 
 Thames Rockets speedboats and the lunch, afternoon tea and dinner boats are pre-booked tours, not River Bus services, so Oyster and contactless do not work on them. Prices, piers and which one to book are in our guide to [Thames river cruises](/articles/thames-river-cruises-london/).
-
-<div data-stay-strip></div>
 
 ---
 
