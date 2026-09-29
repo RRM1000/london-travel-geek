@@ -2,14 +2,7 @@
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
   "updated": "2026-09-29",
-  "inProgress": [
-    {
-      "state": "in progress",
-      "title": "Dinner and a show in London",
-      "detail": "A new guide to restaurants and meals with entertainment: jazz and supper clubs, cabaret and burlesque dinners, comedy and dining theatre, drag and gospel brunches, dinner cruises. Researched from the search results with every venue checked against its own site, and linked both ways with the cabaret, immersive, live music, comedy and food hub pages.",
-      "next": "An agent is researching and writing it; then it's checked, previewed and handed over with a photo list."
-    }
-  ],
+  "inProgress": [],
   "nextUp": [
     "More GetYourGuide day trips with no guide yet: Warwick Castle and Stratford-upon-Avon, Blenheim Palace.",
     "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
@@ -19,6 +12,7 @@
     "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
+    "Dinner and a show guide: photos for a hero (Brasserie Zédel with the band, Quaglino's dining room or The Blues Kitchen stage) and the body (606 Club, London Cabaret Club, Jazz Cafe mezzanine, The Parlour at The Ned, INCA, Dalston Superstore drag brunch, Faulty Towers, Mu, Toulouse Lautrec), into scratchpad/downloaded-photos/dinner-and-a-show-london/<venue>/. Also unpublished figures if you have them: Ronnie Scott's dinner prices and age limit, PizzaExpress Live ticket range, INCA's minimum spend, the Soul Mama gospel brunch price, the inamo comedy night price, the Tiroler Hut's show nights.",
     "Join Trainline's affiliate programme, which runs on Partnerize, not Awin: https://join.partnerize.com/trainline/en. Send the ID or a sample link.",
     "Request indexing for the Winter Wonderland guide in Search Console: Google hasn't re-crawled it since 12 September.",
     "Facts I couldn't get: Glide Battersea single-ticket prices, the Trafalgar Square Christmas market organiser, Blackheath and Harrow Bonfire Night prices, and the British Museum's October dates.",
@@ -33,6 +27,10 @@
     "Say \"push\" whenever the committed work should go live."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-09-29",
+      "what": "Dinner and a show in London: a new guide to 35 places where the food and the show are one night — jazz clubs with dinner (Ronnie Scott's, the 606, Toulouse Lautrec, Mu), restaurants with a band (Brasserie Zédel, Quaglino's, The Blues Kitchen, the most cited at 9 sources), cabaret dinners (The London Cabaret Club, 58th Street, The Maine), dining theatre (Faulty Towers, Mamma Mia! The Party, The Murdér Express), drag and gospel brunches, and dinner cruises. Built from 33 sources, every venue checked against its own site, and linked from the food hub, the cabaret, immersive, live music, comedy, brunch and hen do guides and four area guides. The cabaret guide's Late Late Show nights corrected to Wednesday to Saturday."
+    },
     {
       "date": "2026-09-29",
       "what": "Traced the first Hotels.com commission (£4 on a £100 booking, 26–28 September) using a new script, scripts/affiliate-clicks.mjs, which lists every affiliate click by page and hotel. Most likely source: the MCM Comic Con guide's ExCeL hotels (Aloft or Good Hotel), clicked from Stratford-upon-Avon on 28 September; Norfolk Towers on the Paddington guide is the other candidate."
