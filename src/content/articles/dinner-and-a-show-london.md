@@ -261,7 +261,11 @@ A recreation of Belle Livingstone's 1930s New York speakeasy, three minutes from
 
 The dress code is "1930s luxe" — black, white and metallics — and it is best suited to over-18s. No photography inside, and late arrivals are held until a break. [Our cabaret guide](/articles/best-cabaret-london/) covers The Lost Estate's other productions, including its Christmas feast.
 
-**Cabaret at the Kit Kat Club**, the West End production at the Playhouse Theatre, sells [stageside dining](https://kitkat.club/tickets/) at £85 a head on top of the show ticket, in pairs, at evening performances: canapés and cocktails at a table in the stalls 45 minutes before curtain, cleared before the show starts. It is a meal before the show rather than during it, and [our cabaret guide](/articles/best-cabaret-london/) covers the production.
+### Cabaret at the Kit Kat Club, Embankment
+
+*£££ · Embankment · Playhouse Theatre, Northumberland Avenue, WC2N · [stageside dining](https://kitkat.club/tickets/)*
+
+The West End production of *Cabaret* sells **stageside dining at £85 a head on top of the show ticket**, in pairs, at evening performances: canapés and cocktails at a table in the stalls 45 minutes before curtain, cleared before the show starts. It is a meal before the show rather than during it, and [our cabaret guide](/articles/best-cabaret-london/) covers the production.
 
 ### Sarastro, Drury Lane
 
