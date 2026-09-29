@@ -242,7 +242,7 @@ A 4.30pm start at Selfridges in December puts you at Covent Garden at about 6.30
 
 ## Rather ride?
 
-An open-top bus tour covers Oxford Street, Regent Street and the West End with commentary, and saves your feet in the cold. It will not go down Carnaby, Seven Dials or St James's Market, which are pedestrian.
+An open-top bus tour covers Oxford Street, Regent Street and the West End with commentary, and saves your feet in the cold. It will not go down Carnaby, Seven Dials or St James's Market, which are pedestrian. To carry on after the walk, The Classic Tour's <a href="https://www.getyourguide.com/activity/-t1236950?partner_id=WWP7I0R&amp;cmp=christmas-lights-walk-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Vintage Open-Top Bus Night Tour</a> leaves from Northumberland Avenue, just off Trafalgar Square where the walk ends: 75 minutes on a 1960s Routemaster past floodlit Parliament, the London Eye, St Paul's and the Tower, with a live guide, from £25 on GetYourGuide and rated 4.6 from 860 reviews.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="129039" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

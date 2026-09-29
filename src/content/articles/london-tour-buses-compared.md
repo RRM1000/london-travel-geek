@@ -156,7 +156,7 @@ A short connector rather than a sightseeing loop, and at **every 45 minutes** it
 
 ### Big Bus with the London Eye
 
-A 24- or 48-hour Big Bus ticket with **London Eye entry** and a **one-way City Cruises boat between Westminster and Tower piers**, about 40 minutes with live commentary. The <a href="https://www.getyourguide.com/activity/-t292175?partner_id=WWP7I0R&amp;cmp=london-tour-buses-compared" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye, River Cruise and Hop-on Hop-off Bus Tour</a> is **from £60** on GetYourGuide, 4.4 from 6,698 reviews. Bought separately, Big Bus Discover at £36.99 and a £29 advance Eye ticket come to £65.99. The 48-hour version adds three guided walks: the Royal Walk, Jack the Ripper and Harry Potter. **The Eye slot is not booked for you**: reserve it through Big Bus's booking portal once you have paid, and do it early for a sunset slot.
+A 24- or 48-hour Big Bus ticket with **London Eye entry** and a **one-way City Cruises boat between Westminster and Tower piers**, about 40 minutes with live commentary. The <a href="https://www.getyourguide.com/activity/-t292175?partner_id=WWP7I0R&amp;cmp=london-tour-buses-compared" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye, River Cruise and Hop-on Hop-off Bus Tour</a> is **from £60** on GetYourGuide, 4.4 from 6,698 reviews. Bought separately, Big Bus Discover at £36.99 and a [£29 advance Eye ticket](/articles/london-eye-guide/) come to £65.99. The 48-hour version adds three guided walks: the Royal Walk, Jack the Ripper and Harry Potter. **The Eye slot is not booked for you**: reserve it through Big Bus's booking portal once you have paid, and do it early for a sunset slot.
 
 ---
 

@@ -3,7 +3,7 @@ title: "London Eye: 2026 Ticket Prices, Fast Track Advice & Sunset Timing"
 seoTitle: "London Eye 2026: Tickets, Fast Track & Sunset Guide"
 description: "The London Eye in 2026: real ticket prices, what Flexi Fast Track actually saves you, sunset booking timing, and where to store a suitcase before boarding."
 publishedAt: 2026-09-19
-updatedAt: 2026-09-23
+updatedAt: 2026-09-29
 reviewBy: 2026-12-31
 sites:
   - london
@@ -114,10 +114,11 @@ Merlin Entertainments sells combined tickets covering the London Eye and several
 - **Shrek's Adventure! London** (inside County Hall)
 - **Madame Tussauds London** (on Marylebone Road, near Baker Street tube)
 
-Every multi-attraction ticket gives you 7 days to visit the rest and can be rescheduled free up to three times. The two worth knowing:
+Every multi-attraction ticket gives you 7 days to visit the rest and can be rescheduled free up to three times. The ones worth knowing:
 - **The five-attraction bundle:** the Eye, Madame Tussauds, SEA LIFE London Aquarium, the London Dungeon and Shrek's Adventure, from £59 online against £184 bought separately — the best per-attraction value Merlin sells here. See the [multi-attraction tickets page](https://www.londoneye.com/tickets-and-prices/multi-attraction-tickets/) for current dates.
 - **London Eye + Madame Tussauds:** from £49 online against £78 separately. Book a <a href="https://www.getyourguide.com/activity/-t432130?partner_id=WWP7I0R&amp;cmp=london-eye-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye and Madame Tussauds combination ticket on GetYourGuide</a>.
 - **London Eye + Thames River Cruise:** Combines your flight with a 40-minute circular sightseeing cruise departing directly from London Eye Pier at the base of the wheel. Book the <a href="https://www.getyourguide.com/activity/-t193403?partner_id=WWP7I0R&amp;cmp=london-eye-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye River Cruise combo on GetYourGuide</a>.
+- **London Eye + Big Bus + river cruise:** a 24- or 48-hour Big Bus hop-on hop-off ticket, London Eye entry and a one-way City Cruises boat between Westminster and Tower piers. The <a href="https://www.getyourguide.com/activity/-t292175?partner_id=WWP7I0R&amp;cmp=london-eye-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye, River Cruise and Hop-on Hop-off Bus Tour on GetYourGuide</a> is from £60, 4.4 from 6,698 reviews. **Your Eye slot is not booked for you:** reserve it through Big Bus once you have paid. The bus routes are in our [tour buses compared](/articles/london-tour-buses-compared/) guide.
 - **London Eye + SEA LIFE London Aquarium:** Particularly convenient for families, as both attractions share the same South Bank riverside forecourt.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-eye-guide-combos" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,432130,193403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
