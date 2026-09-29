@@ -356,6 +356,16 @@
       "source": "https://www.thecaterer.com/news/romulo-cafe-london-closes",
       "sourceAlso": "https://www.restaurantonline.co.uk/ (8 Jan 2024, 'Romulo Café goes on the market')",
       "recorded": "2026-09-22"
+    },
+    "le quecumbar": {
+      "name": "Le Quecumbar",
+      "closed": "2022-04",
+      "detail": "Gypsy-jazz bar and restaurant at 42 Battersea High Street, SW11. Closed on 6 April 2022 in its own words (\"Le QuecumBar was forced to closed its doors 6 April 2022\"); a company set up to revive the name at the same address, QuecumBar Battersea Ltd, was dissolved on 13 January 2026 (Companies House). Two Reddit threads in the dinner-and-a-show corpus (2020 and 2021) still name it.",
+      "stillRecommendedBy": [
+        "reddit.com"
+      ],
+      "source": "https://www.quecumbar.co.uk",
+      "recorded": "2026-09-29"
     }
   },
   "uncertain": {

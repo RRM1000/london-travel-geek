@@ -301,6 +301,7 @@ Forty floors up in Heron Tower, above SUSHISAMBA in the same building, and **ope
 
 ## Continue planning your London trip
 
+- 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🏛️ **[Historic Pubs and Dining Rooms in London](/articles/historic-pubs-dining-rooms-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**

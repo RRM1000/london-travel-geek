@@ -405,6 +405,7 @@ London's comedy festivals are almost entirely a **July and August** phenomenon. 
 
 ## Continue planning your London trip
 
+- 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🎵 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 🎬 **[The Best Cinemas in London](/articles/best-cinemas-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**

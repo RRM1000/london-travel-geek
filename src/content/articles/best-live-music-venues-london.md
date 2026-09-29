@@ -246,6 +246,8 @@ There is nothing else like it. The room takes about 200, the ceiling is low, the
 
 ## Jazz
 
+Most of these serve food at the table during the set; [Dinner and a Show in London](/articles/dinner-and-a-show-london/) compares the menus and what the music adds to the bill.
+
 ### Blue Note, Covent Garden
 
 *Open since 23 September 2026*
@@ -420,6 +422,7 @@ Live music in London does not have to cost £40 and a booking fee.
 
 ## Continue planning your London trip
 
+- 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🎺 **[EFG London Jazz Festival 2026](/articles/london-jazz-festival/)**
 - 🎪 **[London Music Festivals 2027](/articles/london-music-festivals-2027/)**: BST Hyde Park, All Points East, Brockwell Park and the ones a train ride away
 - 🎸 **[The Beatles in London](/articles/beatles-london/)**

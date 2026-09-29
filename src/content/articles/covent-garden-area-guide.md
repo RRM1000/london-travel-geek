@@ -216,6 +216,8 @@ For a drink between the theatres, **Bar Cicoria's terrace** is free to walk into
 | **Rules** | Traditional British | £££ | London's oldest restaurant, open since 1798 |
 | **Monmouth Coffee** | Coffee | £ | The original Monmouth Street shop; queues out the door at weekends |
 
+For dinner with a show, Oriole, Louie and Sarastro all have live music at the table. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) says which nights and what it adds to the bill.
+
 ## Getting there
 
 **By Tube.** This matters more here than anywhere else in central London. **Do not use Covent Garden station.** It has no escalators — just lifts and a 193-step spiral staircase — and it queues badly. Use **Leicester Square** (Piccadilly, Northern) or **Holborn** (Central, Piccadilly) instead; both are about five minutes' walk.

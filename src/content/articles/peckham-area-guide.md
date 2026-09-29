@@ -204,6 +204,8 @@ Peckham eats well and cheaply. This is a selection — see the [full restaurant 
 
 *Peckham Cellars, on Queens Road.*
 
+58th Street on Rye Lane is a 1930s speakeasy dinner show with three sets of live jazz. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) has its prices and dress code.
+
 ## Suggested two-hour walking route
 
 1. **Start:** Peckham Rye station. North up Rye Lane.

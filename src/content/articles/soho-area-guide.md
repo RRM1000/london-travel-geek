@@ -165,6 +165,8 @@ North–south restaurant streets running parallel through the middle of Soho, an
 | **Bar Italia** | Coffee | £ | Frith Street, open since 1949 and nearly around the clock |
 | **The French House** | Historic pub | £ | Dean Street; beer served in halves by tradition |
 
+For dinner with live music, Brasserie Zédel's house band plays every day with no charge on the bill, and Ronnie Scott's serves dinner through its sets. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) compares them.
+
 ## Getting there
 
 **By Tube.** Four stations sit on Soho's edges. **Tottenham Court Road** (Elizabeth line, Central, Northern) is best for the east side and Chinatown. **Oxford Circus** is best for Carnaby Street. **Piccadilly Circus** is closest to Chinatown's southern gate.

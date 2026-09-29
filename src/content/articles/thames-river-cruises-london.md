@@ -114,6 +114,8 @@ Zones, piers, touching in and out and the Travelcard discount are in our guide t
 | [Jazz dinner](https://www.cityexperiences.com/london/city-cruises/jazz-cruise-river-thames/) | Westminster Pier, selected evenings | 3h | £119 | Three courses with a live jazz band |
 | [Murder mystery](https://www.cityexperiences.com/london/city-cruises/murder-mystery-dinner-cruise/) | Tower Millennium Pier, selected evenings | 3h | £141 | Three courses with actors running a whodunnit you solve at the table |
 
+[Dinner and a Show in London](/articles/dinner-and-a-show-london/) sets the dinner and jazz cruises beside the jazz clubs and cabaret dinners on land.
+
 **The lunch sees the same landmarks as the dinner for well under half the price.** The dinner's case is the lights: in October the sun sets before it sails.
 
 Lunch and afternoon tea add a £25 VIP upgrade for priority service and front seats. Our [afternoon tea guide](/articles/best-afternoon-tea-london/) compares the boat with the London hotels and the Routemaster tea bus.

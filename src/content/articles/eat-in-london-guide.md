@@ -71,15 +71,16 @@ Where to eat near each of the big sights without crossing town:
 | 🌅 **Rooftops & Skyline Views** | *Sky Garden (Darwin Brasserie)*, *Sushisamba*, *Coq d'Argent* | Panoramic views across the Thames, Tower Bridge & the City skyline |
 | 🚢 **On a Moving Canalboat** | *London Shell Co.* (Regent's Canal, Paddington) | A cruising 5-course seafood dinner along London's historic canals |
 | 🌸 **Photogenic & Floral Rooms** | *Clos Maggiore* (Covent Garden), *Sketch* (Mayfair), *Dalloway Terrace* | Blossom-hung courtyards, velvet dining rooms and interiors built to be photographed |
-| 🎭 **Dining & Live Entertainment** | *Brasserie Zédel (Crazy Coqs)*, *Ronnie Scott's Jazz Club* | Classic French bistro dining paired with underground live cabaret or jazz |
+| 🎭 **[Dining & Live Entertainment](/articles/dinner-and-a-show-london/)** | *Brasserie Zédel*, *Ronnie Scott's*, *The London Cabaret Club* | A house band with the prix fixe, jazz served at your table, or a full dinner show |
 | 🏰 **Historic Church Conversion** | *Mercato Mayfair* | Artisan food stalls & cocktail bars set inside a restored Victorian church |
 | 🚌 **Luxury Gourmet Bus Tour** | *Bustronome London* | A 4-course dinner served aboard a glass-topped double-decker bus |
 
-Three guides cover most of this already:
+These guides cover most of this already:
 
 * [**London's Most Unusual Restaurants**](/articles/unusual-restaurants-london/) — 22 strange rooms, from a converted public lavatory to dinner underground.
 * [**The Best Views in London**](/articles/best-views-london/) — Every rooftop and viewing floor compared, including which ones are free and which need booking weeks out.
 * [**The Best Rooftop and Riverside Restaurants in London**](/articles/best-rooftop-restaurants-london/) — The same roofs judged on the food rather than the view, plus the riverside rooms, and what happens to the booking when it rains.
+* [**Dinner and a Show in London**](/articles/dinner-and-a-show-london/) — Jazz clubs that serve dinner, restaurants with a band, cabaret dinners and drag brunches, with what the show adds to the bill.
 
 ---
 
@@ -200,6 +201,7 @@ Full guide: [**Cheap Eats in London**](/articles/cheap-eats-london/) for the fir
 ### By Occasion
 
 * [**Special occasions**](/articles/special-occasion-restaurants-london/) — What to book, how far ahead, and which rooms actually feel like an event.
+* [**Dinner and a show**](/articles/dinner-and-a-show-london/) — Live music, cabaret and dining theatre, and which nights each runs.
 * [**Cocktail bars**](/articles/best-cocktail-bars-london/) — 21 compared, for before or instead of dinner.
 * [**Wine bars**](/articles/best-wine-bars-london/) — The rooms the critics agree on, and the shop-and-bar hybrids where the same bottle costs less off the shelf.
 * [**Ice cream**](/articles/best-ice-cream-london/) — Gelato, soft serve and the cult queues, for afterwards.
@@ -247,7 +249,7 @@ The dishes and rooms that are particular to this city:
 
 **By budget, occasion and room:** [Street food](/articles/best-street-food-london/) · [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Craft beer pubs](/articles/best-craft-beer-pubs-london/) · [Wetherspoons](/articles/best-wetherspoons-pubs-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Eating outside](/articles/eat-outside-london/) · [Rooms worth photographing](/articles/most-instagrammable-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
 
-**By occasion and for paying less:** [Bottomless brunch](/articles/bottomless-brunch-london/) · [Restaurant deals](/articles/restaurant-deals-london/) · [Off-peak booking apps](/articles/off-peak-restaurant-apps-london/) · [Discount cards](/articles/restaurant-discount-cards-london/) · [Kids eat free](/articles/kids-eat-free-london/) · [Open on Christmas Day](/articles/christmas-day-restaurants-london/)
+**By occasion and for paying less:** [Bottomless brunch](/articles/bottomless-brunch-london/) · [Dinner and a show](/articles/dinner-and-a-show-london/) · [Restaurant deals](/articles/restaurant-deals-london/) · [Off-peak booking apps](/articles/off-peak-restaurant-apps-london/) · [Discount cards](/articles/restaurant-discount-cards-london/) · [Kids eat free](/articles/kids-eat-free-london/) · [Open on Christmas Day](/articles/christmas-day-restaurants-london/)
 
 ---
 

@@ -135,7 +135,7 @@ Two rules to note: **no confetti**, and **no under-18s at all on Saturdays**. Se
 
 **Mamma Mia! The Party at North Greenwich is the big-night-out option**: a four-course Greek sharing menu, a romance playing out around you, then the tables clear and it becomes an ABBA disco. **Tier C is £120 off-peak and £154 at peak**, off-peak meaning Wednesday to Friday evenings and Sunday. **Tables are pre-allocated and you may be seated with strangers**, and it is selling to April 2027.
 
-**Magic Mike Live is from £42 through the Hippodrome's own channels** — agents quote from £62 for the same seats, so book direct. For less money and more atmosphere, **the Clapham Grand's Mx Burlesque UK is £29.37 for the stalls or £40.70 for a VIP cabaret table for four**, one of the few places where the table upgrade costs barely more than the ticket. The [cabaret guide](/articles/best-cabaret-london/) covers the rest, including the free ones, and **Angel Comedy is free seven nights a week** at The Camden Head — see the [comedy club guide](/articles/best-comedy-clubs-london/) for how early to queue.
+**Magic Mike Live is from £42 through the Hippodrome's own channels** — agents quote from £62 for the same seats, so book direct. For less money and more atmosphere, **the Clapham Grand's Mx Burlesque UK is £29.37 for the stalls or £40.70 for a VIP cabaret table for four**, one of the few places where the table upgrade costs barely more than the ticket. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) has the drag brunches, from £8 at Dalston Superstore. The [cabaret guide](/articles/best-cabaret-london/) covers the rest, including the free ones, and **Angel Comedy is free seven nights a week** at The Camden Head — see the [comedy club guide](/articles/best-comedy-clubs-london/) for how early to queue.
 
 **Free entry, no membership, open 24 hours**: the Hippodrome Casino on Cranbourn Street costs nothing to walk into, which makes it a useful late fallback. Over-18s only on Challenge 25 — the [casino guide](/articles/casinos-london/) has the rules.
 
@@ -202,6 +202,7 @@ What you give up is the choice of venue and the off-peak pricing that does most 
 
 ## Continue planning your London trip
 
+- 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🎯 **[Competitive Socialising in London](/articles/competitive-socialising-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - ✨ **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**

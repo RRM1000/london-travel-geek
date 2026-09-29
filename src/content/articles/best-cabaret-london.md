@@ -3,7 +3,7 @@ title: "The Best Cabaret in London: What's Actually Still Open"
 seoTitle: "Best Cabaret London 2026: Venues Still Open"
 description: "London's biggest cabaret operator has collapsed and most guides still list rooms that shut years ago. Every venue here was status-checked against its own site, with the closed ones named."
 publishedAt: 2026-09-01
-updatedAt: 2026-09-25
+updatedAt: 2026-09-29
 reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
@@ -287,7 +287,7 @@ It sits a two-minute walk from The Divine, which makes the pair of them a straig
 
 ## Dinner and a show
 
-The most expensive way to see cabaret in London, and the format most visitors actually mean when they search for it.
+The most expensive way to see cabaret in London, and the format most visitors actually mean when they search for it. For jazz suppers, restaurants with a band and drag brunches as well, see [Dinner and a Show in London](/articles/dinner-and-a-show-london/).
 
 ### The London Cabaret Club
 
@@ -347,11 +347,11 @@ The venue describes itself as accessible and gives a phone number for detail rat
 
 **The cheapest way in London to eat under a live performance**, and the only entry here where you book a table rather than a seat.
 
-This is a restaurant, not a ticketed cabaret, and the distinction matters: **there is no separate entertainment charge mentioned at all.** You pay for dinner and the music happens. The **pre-theatre menu is £27.50 for two courses**, plus £6 for dessert, available daily until 6pm — main menu prices are not published. The room is done out in opera boxes and the food is Mediterranean with a Turkish accent.
+This is a restaurant, not a ticketed cabaret, and the distinction matters: **there is no separate entertainment charge mentioned at all.** You pay for dinner and the music happens. The **pre-theatre menu is £27.50 for two courses**, plus £6 for dessert, available daily until 6pm; à la carte runs from Akçaabat köfte at £26.95 to rack of lamb at £37.50. On music nights, tables under six must order at least two courses. The room is done out in opera boxes and the food is Mediterranean with a Turkish accent.
 
 **The schedule is published weekly and is worth choosing your night by.** Thursdays alternate piano from 8–10pm with Hot Swing Bohème 8–11.30pm. Fridays alternate a Rat Pack set 8–10pm with Latin 8–11.30pm. Saturdays alternate 70s and 80s hits with ABBA, 8.30–10.30pm. And **Sundays are opera with a string quartet, 8–9pm** — which is the one to book, and remarkable value for the price of a meal.
 
-**No age limit or access statement is published.** It also opens for lunch from noon on weekdays through November and December.
+**It is over-14s only from 7pm on Thursday to Saturday**, and the balcony is up a narrow staircase. It also opens for lunch from noon on weekdays through November and December.
 
 ---
 
@@ -391,7 +391,7 @@ There is **a different act every night of the week**: jazz, cabaret, fado, folk 
 
 It is a basement room, seated, with à la carte and fixed-price menus, and the format is **two sets rather than one show**. The programme changes nightly across jazz, Latin, soul and groove, with UK-based artists.
 
-**The persistent myth is that it is members-only. It is not** — the club states plainly that non-members are welcome, though booking is recommended. **No age limit or access statement is published.**
+**The persistent myth is that it is members-only. It is not** — the club states plainly that non-members are welcome, though booking is recommended. **There is no age limit**, though under-18s must be supervised.
 
 ---
 
@@ -541,6 +541,7 @@ This is the section other guides leave out, and it is why people turn up at lock
 
 ## Continue planning your London trip
 
+- 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🎪 **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
 - 🎭 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 🎤 **[The Best Comedy Clubs in London](/articles/best-comedy-clubs-london/)**

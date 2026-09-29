@@ -2250,6 +2250,86 @@
       "tier": "D",
       "name": "My Tasty Naija (YouTube)",
       "note": "FLAGGED: format is owner interviews and two London episodes say 'we were hosted by owner'. Those episodes are not counted. Rule on the format before relying on it."
+    },
+    "tiktok.com/@kiayas.out.again": {
+      "tier": "D",
+      "name": "kiaya amy (TikTok)"
+    },
+    "tiktok.com/@katenevs": {
+      "tier": "D",
+      "name": "KateNevs (TikTok)"
+    },
+    "tiktok.com/@where2eatlondon": {
+      "tier": "D",
+      "name": "where2eatlondon (TikTok)"
+    },
+    "tiktok.com/@chloethandie": {
+      "tier": "D",
+      "name": "chloethandie (TikTok)"
+    },
+    "tiktok.com/@mvlondonreviews": {
+      "tier": "D",
+      "name": "merissahldn (TikTok)"
+    },
+    "tiktok.com/@dinewithfari": {
+      "tier": "D",
+      "name": "Dine with Fari (TikTok)"
+    },
+    "tiktok.com/@rollinjoint": {
+      "tier": "D",
+      "name": "RollinJoint (TikTok)"
+    },
+    "tiktok.com/@sxxniyx": {
+      "tier": "D",
+      "name": "Saaniya (TikTok)"
+    },
+    "tiktok.com/@wheresraya": {
+      "tier": "D",
+      "name": "where's raya (TikTok)"
+    },
+    "tiktok.com/@atwistofdate": {
+      "tier": "D",
+      "name": "A Twist Of Date (TikTok)"
+    },
+    "tiktok.com/@aesteatify": {
+      "tier": "D",
+      "name": "aesteatify (TikTok)"
+    },
+    "tiktok.com/@jasminechidiuto": {
+      "tier": "D",
+      "name": "jasminechidiuto (TikTok)"
+    },
+    "tiktok.com/@sochimamaeats": {
+      "tier": "D",
+      "name": "Sochima (TikTok)"
+    },
+    "tiktok.com/@gioacchino.london.uk": {
+      "tier": "D",
+      "name": "gioacchinorusso_ (TikTok)"
+    },
+    "tiktok.com/@michellealexander_": {
+      "tier": "D",
+      "name": "michelle alexa (TikTok)"
+    },
+    "tiktok.com/@hungry.buns": {
+      "tier": "D",
+      "name": "hungry.buns (TikTok)"
+    },
+    "tiktok.com/@itsbrandiece": {
+      "tier": "D",
+      "name": "Brandiece (TikTok)"
+    },
+    "youtube.com/@My_Miles_My_Moments": {
+      "tier": "D",
+      "name": "My Miles My Moments (YouTube)"
+    },
+    "youtube.com/@PemDanis": {
+      "tier": "D",
+      "name": "Pem Danis (YouTube)"
+    },
+    "flyingfluskey.com": {
+      "tier": "C",
+      "name": "Flying Fluskey"
     }
   },
   "excludedWhy": {

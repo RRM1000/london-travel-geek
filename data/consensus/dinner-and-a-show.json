@@ -1,0 +1,1088 @@
+{
+  "cuisine": "dinner-and-a-show",
+  "note": "Dinner and a show: restaurants and ticketed nights where the food and the entertainment happen at one table on one night - jazz and supper clubs, cabaret and burlesque dinners, dining theatre, brunches with a show, dinner cruises. Collected 29 September 2026 by curl only, SERP-first from Brave for 'dinner and a show london', 'restaurants with entertainment london', 'dinner show london', 'restaurants with live music london', 'drag brunch london', 'gospel brunch london', 'comedy and dinner london', 'magic dinner show london', 'murder mystery dinner london' and 'jazz dinner london restaurant'. No award body exists for this category. Reddit refuses curl (403) but its threads were read through the PullPush archive API (api.pullpush.io), so tier E is present; reddit.com counts ONCE however many threads name a venue. Chains carried as ONE brand name where the entry covers the brand (The Blues Kitchen, Boisdale), with the branch the source named kept in the quote. PizzaExpress Jazz Club (Dean Street, Soho) is kept apart from the Holborn and Chelsea PizzaExpress Live rooms; a comment naming 'Pizza Express Live' with no branch is filed under the brand name PizzaExpress Live and not merged into the Soho club. The Ned is carried as one venue: operator pages (29 Sep 2026) show The Parlour is the only one of its restaurants with live music, so sources naming The Ned and sources naming The Parlour are the same room.",
+  "recorded": "2026-09-29",
+  "sources": [
+    {
+      "name": "DesignMyNight - Restaurants With Entertainment In London: Dinner And A Show",
+      "url": "https://www.designmynight.com/london/restaurants/restaurants-with-entertainment",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Bocconcino",
+        "All Star Lanes",
+        "Boisdale",
+        "Albert's Schloss",
+        "Laki Kane",
+        "Ayllu",
+        "The London Cabaret Club",
+        "Flight Club",
+        "Vocalé Mayfair",
+        "INCA",
+        "Exhibit",
+        "Yamal Alsham",
+        "Karma Sanctum Soho",
+        "Munich Cricket Club Tower Hill",
+        "Amazing Grace",
+        "Brigit's Afternoon Tea",
+        "Soul Supper",
+        "Tropical",
+        "Stereo",
+        "The Piano Works",
+        "HERA",
+        "The Blues Kitchen",
+        "Faulty Towers The Dining Experience",
+        "Sarastro",
+        "The Belle Affair Dinner Show",
+        "Bardo St James's",
+        "Basecamp Lounge & Restaurant",
+        "The Barracuda",
+        "Strings",
+        "Pizza Pilgrims Canary Wharf",
+        "GA KingsX Bar & Restaurant",
+        "Quaglino's",
+        "Hard Rock Cafe Piccadilly Circus"
+      ],
+      "quotes": {
+        "Bocconcino": "Listed twice, as 'Bocconcino Restaurants' and 'Bocconcino Mayfair'.",
+        "Boisdale": "Listed twice: 'Boisdale of Belgravia' and 'Boisdale Of Canary Wharf - Restaurant, Bars & Terrace'.",
+        "INCA": "As 'INCA London'.",
+        "Amazing Grace": "As 'Amazing Grace London Bridge'.",
+        "Soul Supper": "As 'Soul Supper Fridays @ One Ninety Four London Mayfair'.",
+        "The Piano Works": "As 'The Piano Works Farringdon'.",
+        "The Blues Kitchen": "As 'Blues Kitchen Shoreditch'.",
+        "Strings": "As 'Strings - Italian & Spanish Restaurant - Live Music'."
+      }
+    },
+    {
+      "name": "DesignMyNight - Restaurants With Live Music In London",
+      "url": "https://www.designmynight.com/london/restaurants/restaurants-with-live-music-in-london",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Bocconcino",
+        "Sarastro",
+        "Farzi Café",
+        "The Piano Works",
+        "Yamaha Presents: The Moonlight Concert at Sky Garden",
+        "Albert's Schloss",
+        "The Botanist Broadgate Circle",
+        "The Dilly",
+        "Common Pizza Clapham Common",
+        "Bardo St James's",
+        "Daffodil Mulligan",
+        "Strings",
+        "Quaglino's",
+        "Camino King's Cross",
+        "The Palm House",
+        "The Stage At The Londoner",
+        "The Blues Kitchen",
+        "The Hush Club",
+        "Haylaz Brasserie",
+        "Ricco London",
+        "Megan's",
+        "Old Street Records",
+        "Boisdale",
+        "The London Cabaret Club",
+        "The Maine Mayfair",
+        "Hard Rock Cafe Piccadilly Circus",
+        "Oriole",
+        "Brasserie Zédel",
+        "La Môme",
+        "Market Place Peckham",
+        "Hotel Café Royal"
+      ],
+      "quotes": {
+        "Farzi Café": "As 'Live Music - Bollywood Unplugged at Farzi'.",
+        "The Blues Kitchen": "As 'Blues Kitchen Shoreditch'.",
+        "Boisdale": "As 'Boisdale Of Canary Wharf - Restaurant, Bars & Terrace'.",
+        "The Maine Mayfair": "As 'The MAINE Mayfair'.",
+        "Brasserie Zédel": "As 'Brasserie Zedel'."
+      }
+    },
+    {
+      "name": "DesignMyNight - Drag Brunches In London",
+      "url": "https://www.designmynight.com/london/whats-on/drag-brunches-in-london",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Sisterhood Drag Party",
+        "Dalston Superstore",
+        "Queen of Hoxton",
+        "Bougie Drag Brunch",
+        "Tonight Josephine",
+        "The Cocktail Club",
+        "Bottomless Hoedown Brunch",
+        "Texas Hold 'Em Country Brunch",
+        "Fabulous Brunch Events",
+        "Ginger's Big Drag Brunch",
+        "Bounce"
+      ],
+      "quotes": {
+        "Queen of Hoxton": "As 'Drag Bottomless Brunch @ Queen of Hoxton'.",
+        "Bougie Drag Brunch": "As 'BOUGIE DRAG EVENTS LTD'.",
+        "Tonight Josephine": "As 'Tonight Josephine Waterloo'.",
+        "Ginger's Big Drag Brunch": "Listed twice, as 'Party with Ginger' and 'Ginger's Big Drag Bottomless Brunch'."
+      }
+    },
+    {
+      "name": "Secret London - London's 12 Most Unique Dining Experiences With Live Shows",
+      "url": "https://secretldn.com/londons-unique-dining-with-live-shows/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The Murdér Express",
+        "58th Street",
+        "Sabrage",
+        "Paradise Under The Stars",
+        "Sinners",
+        "Sensory Feast",
+        "INCA",
+        "Le Petit Chef",
+        "Kit Kat Club",
+        "Mamma Mia! The Party",
+        "The London Cabaret Club",
+        "Faulty Towers The Dining Experience"
+      ],
+      "quotes": {
+        "The Murdér Express": "Numbered 1 of 12, not ranked. 63 Pedley St, E1 5BW; a 1920s-style train, three-course dining, a mystery to solve.",
+        "58th Street": "'A six-course Park Avenue menu, live jazz music' - 133 Rye Ln, SE15.",
+        "Sabrage": "At Lafayette, 11 Goods Way, King's Cross: acrobatics, champagne sabrage and Southern bites.",
+        "Paradise Under The Stars": "1950 Havana Cuban cabaret with a three-course Cuban feast at The Lost Estate, West Kensington.",
+        "Sinners": "'Underground burlesque cabaret', 18+, 78 Great Eastern Street, from a two-course brunch to a 10-course dinner.",
+        "INCA": "Placed at 8-9 Argyll St, W1F 7TF - 'live music and interactive performers'.",
+        "Le Petit Chef": "As 'Le Petite Chef' - 'at the London Cabaret Club', Victoria House, Bloomsbury Square.",
+        "Kit Kat Club": "Cabaret at the Kit Kat Club, Playhouse Theatre - 'upgrade your eve with an exclusive dining or drinks package'.",
+        "The London Cabaret Club": "Describes its summer 2025 Copacabana show with a Brazilian dinner."
+      }
+    },
+    {
+      "name": "The Sauce - Serve It Again, Sam! The Best London Restaurants With Live Music",
+      "url": "https://thesaucemag.com/london-restaurants-with-live-music/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Charlie's at Brown's",
+        "The Piano Works",
+        "Ronnie Scott's",
+        "Straits Kitchen",
+        "The Beaumont",
+        "Toulouse Lautrec",
+        "Sarastro",
+        "Dishoom Kensington",
+        "The Blues Kitchen",
+        "Quaglino's",
+        "The Lanesborough Grill",
+        "Strings",
+        "Brasserie Zédel",
+        "606 Club",
+        "Brilliant Corners",
+        "PizzaExpress Jazz Club",
+        "Louie",
+        "The Troubadour",
+        "Boisdale"
+      ],
+      "quotes": {
+        "Charlie's at Brown's": "As 'Charlie's, Mayfair'.",
+        "Straits Kitchen": "As 'Straits Kitchen at Pan Pacific London, The City'.",
+        "The Blues Kitchen": "As 'Blues Kitchen, Camden'.",
+        "The Lanesborough Grill": "As 'The Lanesborough, Belgravia'.",
+        "PizzaExpress Jazz Club": "As 'PizzaExpress Jazz Club, Soho'.",
+        "Louie": "As 'Louie, Covent Garden'.",
+        "Boisdale": "Two entries: 'Boisdale, Belgravia' and 'Boisdale, Canary Wharf'."
+      }
+    },
+    {
+      "name": "The Handbook - London's Best Restaurants With Live Music",
+      "url": "https://www.thehandbook.com/londons-best-restaurants-with-live-music/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Flute",
+        "Rake's Café Bar",
+        "Quaglino's",
+        "Osteria Vibrato",
+        "Boisdale",
+        "The Goring",
+        "The Montague on the Gardens",
+        "Perola Bar",
+        "Bentley's Oyster Bar & Grill",
+        "The Ned",
+        "Fulham Pier",
+        "The Beaumont",
+        "The Lanesborough Grill",
+        "Gaucho Richmond",
+        "Idalia",
+        "Bocconcino",
+        "The London Cabaret Club",
+        "The Piano Works",
+        "Hithe + Seek",
+        "Dishoom Kensington",
+        "The Troubadour",
+        "The Blues Kitchen",
+        "Brasserie Zédel",
+        "Voodoo Ray's",
+        "Toulouse Lautrec"
+      ],
+      "quotes": {
+        "Flute": "Summer-only: 'Broadwick Soho x El Fenn at Flute'.",
+        "Rake's Café Bar": "Summer-only: 'Brunch Paradiso at Rake's Café Bar'.",
+        "Quaglino's": "Filed under 'Special to this summer' as 'Quaglino's Summertime Screenings'.",
+        "Boisdale": "As 'Boisdale Belgravia'.",
+        "Perola Bar": "As 'Perola Bar at art'otel Battersea'.",
+        "The Beaumont": "As 'The Gatsby Room at The Beaumont'.",
+        "Idalia": "As 'Idalia at Olympia'.",
+        "Brasserie Zédel": "As 'Brasserie Zedel'.",
+        "Toulouse Lautrec": "As 'Toulouse-Lautrec'.",
+        "The Ned": "As 'The Ned'. Its only live-music dining room is The Parlour, so the mention is filed there."
+      }
+    },
+    {
+      "name": "The Nudge - The Best London Restaurants with Live Music",
+      "url": "https://thenudge.com/the-best-london-restaurants-with-live-music/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Brasserie Zédel",
+        "Ronnie Scott's",
+        "J Sheekey",
+        "Mu",
+        "Barge East",
+        "Darby's",
+        "Ladbroke Hall",
+        "Dishoom Kensington",
+        "Sarastro",
+        "Café Bohème",
+        "The Ned",
+        "Le Café du Marché",
+        "Toulouse Lautrec",
+        "PizzaExpress Jazz Club",
+        "Louie",
+        "The Blues Kitchen",
+        "Voodoo Ray's",
+        "Jazz Cafe Camden",
+        "The Tiroler Hut"
+      ],
+      "quotes": {
+        "Café Bohème": "As 'Cafe Boheme'.",
+        "PizzaExpress Jazz Club": "As 'Pizza Express Dean Street'.",
+        "Louie": "As 'House Of Louie'.",
+        "The Blues Kitchen": "As 'The Blues Kitchen Camden'.",
+        "Voodoo Ray's": "As 'Voodoo Ray's Dalston'.",
+        "The Ned": "Names both 'The Ned' and 'The Parlour' as separate entries; The Parlour is The Ned's only live-music dining room, so they are one venue here."
+      }
+    },
+    {
+      "name": "The Nudge - Fun Restaurants In London: Singing Waiters, Absinthe & Acrobats",
+      "url": "https://thenudge.com/fun-restaurants-in-london/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Punk Royale",
+        "Jacuzzi",
+        "Del 74 Dalston",
+        "Hongdae Pocha",
+        "Barge East",
+        "The Blues Kitchen",
+        "Circolo Popolare",
+        "Bambi",
+        "Jazz Cafe Camden",
+        "Tayyabs",
+        "Rita's",
+        "Speedboat Bar",
+        "BAO Noodle Shop",
+        "The Little Blue Door",
+        "Ave Mario",
+        "El Pastor",
+        "Café Bohème",
+        "Balans Soho Society",
+        "Turo Turo",
+        "Voodoo Ray's",
+        "Brilliant Corners",
+        "Putney Pies",
+        "Mitsu",
+        "Sarastro",
+        "Cafe KOKO",
+        "Brasserie Zédel",
+        "Julie's",
+        "Brigadiers",
+        "Mu"
+      ],
+      "quotes": {
+        "The Blues Kitchen": "Two entries: 'The Blues Kitchen Shoreditch' and 'The Blues Kitchen Camden'.",
+        "Bambi": "As 'Bambi 2.0'.",
+        "Café Bohème": "As 'Cafe Boheme'.",
+        "Voodoo Ray's": "As 'Voodoo Ray's Dalston'."
+      }
+    },
+    {
+      "name": "London The Inside - Where to Go for Drinks, Dinner and a Show",
+      "url": "https://londontheinside.com/where-to-go-for-drinks-dinner-and-a-show/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "One Club Row",
+        "La Môme",
+        "Plaquemine Lock",
+        "Dishoom Kensington",
+        "Oriole",
+        "The Ned",
+        "Brasserie Zédel",
+        "Bistrotheque",
+        "Mu",
+        "The Dorchester",
+        "Quaglino's"
+      ],
+      "quotes": {
+        "The Ned": "As 'The Ned'. Its only live-music dining room is The Parlour, so the mention is filed there."
+      }
+    },
+    {
+      "name": "SquareMeal - 37 fun places to eat in London",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/fun-places-to-eat-in-london_9553",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The Maine Mayfair",
+        "Punk Royale",
+        "Park Chinois",
+        "The Magician's Table",
+        "INCA",
+        "The London Cabaret Club",
+        "The Courtesan",
+        "Haus of Cabaret",
+        "Albert's Schloss",
+        "Louie",
+        "Big Easy",
+        "Lost Society",
+        "The Piano Works",
+        "The Blues Kitchen",
+        "Ayllu",
+        "Chino Latino",
+        "Exhibit",
+        "Grosvenor Casino The Victoria",
+        "F1 Arcade",
+        "TOCA Social",
+        "Lucky Voice",
+        "BAO",
+        "Swingers",
+        "Bunga 90",
+        "Flight Club",
+        "Little Scarlet Door",
+        "Red Dog Saloon",
+        "Cahoots Postal Office",
+        "Bob Bob Ricard",
+        "The Top Hat Restaurant & Bar",
+        "Manzi's",
+        "Speedboat Bar",
+        "Dans Le Noir",
+        "Balham Bowls Club",
+        "Leaf & Cane",
+        "Inamo",
+        "Bustronome"
+      ],
+      "quotes": {
+        "The Maine Mayfair": "First under 'The best places for dinner and a show in London'. Unordered.",
+        "The Magician's Table": "As 'The Magician's Table, Southwark', under 'dinner and a show'.",
+        "INCA": "As 'Inca, Soho', under 'dinner and a show'.",
+        "The London Cabaret Club": "As 'London Cabaret Club, Holborn', under 'dinner and a show'.",
+        "The Courtesan": "As 'The Courtesan, Brixton', under 'dinner and a show'.",
+        "Haus of Cabaret": "As 'Haus of Cabaret, City', under 'dinner and a show'.",
+        "Louie": "As 'House of Louie, Covent Garden', under 'restaurants with live music'.",
+        "The Blues Kitchen": "As 'Blues Kitchen, Brixton, Shoreditch, and Camden'."
+      }
+    },
+    {
+      "name": "Luxury London - Dinner and dance: London's best party restaurants",
+      "url": "https://luxurylondon.co.uk/taste/food/best-party-restaurants-london/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The Ned",
+        "Sexy Fish",
+        "INCA",
+        "The Piano Works",
+        "Bagatelle"
+      ],
+      "quotes": {
+        "INCA": "As 'Inca, Mayfair'.",
+        "The Ned": "As 'The Parlour at The Ned, Bank'."
+      }
+    },
+    {
+      "name": "London x London - Restaurants with Live Music in London",
+      "url": "https://www.londonxlondon.com/restaurants-with-live-music-london/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "28°-50° by Night",
+        "Quaglino's",
+        "Brasserie Zédel",
+        "The Blues Kitchen",
+        "Boisdale",
+        "Toulouse Lautrec",
+        "Ronnie Scott's",
+        "PizzaExpress Jazz Club",
+        "100 Wardour Street",
+        "Old Street Records",
+        "The Spice of Life",
+        "Strings",
+        "Jazz Cafe Camden",
+        "The Lexington"
+      ],
+      "quotes": {
+        "Boisdale": "As 'Boisdale of Belgravia'.",
+        "PizzaExpress Jazz Club": "As 'Pizza Express Jazz Soho'.",
+        "Jazz Cafe Camden": "As 'Jazz Cafe'."
+      }
+    },
+    {
+      "name": "Time Out - The best jazz bars and clubs in London",
+      "url": "https://www.timeout.com/london/music/jazz-in-london",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Ronnie Scott's",
+        "606 Club",
+        "PizzaExpress Jazz Club",
+        "Brilliant Corners",
+        "Vortex",
+        "Cafe Oto",
+        "Royal Albert",
+        "Palm Tree",
+        "Jazz Cafe Camden",
+        "Boisdale"
+      ],
+      "quotes": {
+        "Ronnie Scott's": "Ranked #1 of 10.",
+        "606 Club": "Ranked #2 of 10.",
+        "PizzaExpress Jazz Club": "Ranked #3 of 10, as 'Pizza Express Jazz Club'.",
+        "Jazz Cafe Camden": "Ranked #9 of 10, as 'Jazz Cafe'.",
+        "Boisdale": "Ranked #10 of 10, as 'Boisdale of Canary Wharf'."
+      }
+    },
+    {
+      "name": "Time Out - 19 Best Quirky Restaurants in London",
+      "url": "https://www.timeout.com/london/restaurants/the-best-quirky-restaurants-in-london",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Slowburn",
+        "Bambi",
+        "Johnny Boy's",
+        "Senza Fondo",
+        "The Tiroler Hut",
+        "Texas Joe's Slow Smoked Meats",
+        "Ave Mario",
+        "Pick and Cheese",
+        "The Clink at Brixton Prison",
+        "Frog",
+        "Albert's Schloss",
+        "Barge East",
+        "Garlic & Shots",
+        "Duck & Waffle",
+        "Bob Bob Ricard",
+        "Heliot Steak House",
+        "Dans Le Noir",
+        "Indian YMCA",
+        "Sarastro"
+      ],
+      "quotes": {
+        "The Tiroler Hut": "Ranked #5 of 19, as 'Tiroler Hut'.",
+        "Sarastro": "Ranked #19 of 19."
+      }
+    },
+    {
+      "name": "Time Out - Amazing Grace Gospel Brunch",
+      "url": "https://www.timeout.com/london/things-to-do/amazing-grace-gospel-brunch",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Amazing Grace"
+      ],
+      "quotes": {
+        "Amazing Grace": "A single-event listing for its gospel brunch."
+      }
+    },
+    {
+      "name": "Country & Town House - Best Drag Brunches in London",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/drag-brunches-london/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Skylight Peckham",
+        "The Otherist",
+        "Fire",
+        "Blame Gloria",
+        "Bounce",
+        "Mrs Riot",
+        "Queen of Hoxton",
+        "Bougie Drag Brunch",
+        "The Book Club"
+      ],
+      "quotes": {
+        "The Otherist": "As 'West End Drag Brunch at The Otherist'.",
+        "Fire": "As 'Beyoncé Drag Bottomless Brunch at Fire'.",
+        "Mrs Riot": "As 'Drag Queen Cupcake Bottomless Brunch at Mrs Riot'.",
+        "Queen of Hoxton": "As 'Drag & Waffle Bottomless Brunch at Queen of Hoxton'.",
+        "Bougie Drag Brunch": "As 'Bougie Drag Bottomless Brunch at Bar Salsa Temple'."
+      }
+    },
+    {
+      "name": "Flying Fluskey - Murder Express Immersive Dining Experience",
+      "url": "https://flyingfluskey.com/loving-london-murder-express/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The Murdér Express"
+      ],
+      "quotes": {
+        "The Murdér Express": "A first-person visit write-up."
+      }
+    },
+    {
+      "name": "Reddit r/london - Burlesque/show dinner on Halloween (Oct 2024)",
+      "url": "https://www.reddit.com/r/london/comments/1gdw459/burlesqueshow_dinner_on_halloween/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Bunga Bunga Covent Garden",
+        "Babylon Burlesque",
+        "Proud Cabaret",
+        "The Courtesan"
+      ],
+      "quotes": {
+        "Bunga Bunga Covent Garden": "'Bunga Bunga in Covent Garden was great fun'.",
+        "Babylon Burlesque": "'Babylon Burlesque at CLF Art Lounge in Peckham ... great food and cocktails' - three replies agreed.",
+        "The Courtesan": "'Courtesan in Brixton. Amazing food, Dim Sum, and really good burlesque performances.'"
+      }
+    },
+    {
+      "name": "Reddit r/london - Restaurants/lounges that have performances (Feb 2024)",
+      "url": "https://www.reddit.com/r/london/comments/1b313w1/restaurantslounges_that_have_performances/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Bunga Bunga Covent Garden",
+        "Kibele",
+        "Bagatelle",
+        "Sexy Fish",
+        "Bacchanalia",
+        "Riviera",
+        "Brasserie Zédel",
+        "Circus"
+      ],
+      "quotes": {
+        "Bunga Bunga Covent Garden": "As 'Bungabunga'; a reply adds 'bands on, most often swing jazz'.",
+        "Kibele": "'Great Portland Street has some great cabaret and belly dance at the weekends.'",
+        "Brasserie Zédel": "'Cabaret at Brasserie Zedel.'",
+        "Circus": "'that circus/cabaret place in covent garden'."
+      }
+    },
+    {
+      "name": "Reddit r/london - Restaurants with live music? (Sep 2021)",
+      "url": "https://www.reddit.com/r/london/comments/puv5zb/restaurants_with_live_music/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Park Chinois",
+        "Oriole",
+        "Toulouse Lautrec",
+        "Le Quecumbar",
+        "Ronnie Scott's",
+        "Jazz Cafe Camden",
+        "Plaquemine Lock",
+        "The Blues Kitchen",
+        "Big Easy",
+        "PizzaExpress Jazz Club"
+      ],
+      "quotes": {
+        "Plaquemine Lock": "'a creole/cajun place that does live jazz multiple times a week'.",
+        "PizzaExpress Jazz Club": "'Pizza Express jazz club on Dean Street'."
+      }
+    },
+    {
+      "name": "Reddit r/london - Restaurants with live music during the day? (Oct 2023)",
+      "url": "https://www.reddit.com/r/london/comments/17j759l/restaurants_with_live_music_during_the_day/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Cafe Bombe",
+        "Toulouse Lautrec",
+        "Plaquemine Lock"
+      ],
+      "quotes": {
+        "Toulouse Lautrec": "'does a cockney sing a long brunch once a month'.",
+        "Plaquemine Lock": "'Plaquemine Lock do a Saturday jazz brunch'.",
+        "Cafe Bombe": "'Cafe Bombe in soho has live music around 2pm onwards' - left apart from Café Bohème; cannot tell whether it is the same place."
+      }
+    },
+    {
+      "name": "Reddit r/london - Favourite restaurant with live music? (Apr 2023)",
+      "url": "https://www.reddit.com/r/london/comments/12lunll/favourite_restaurant_with_live_music/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The Blues Kitchen",
+        "Mu",
+        "Toulouse Lautrec",
+        "Big Easy",
+        "Boisdale",
+        "PizzaExpress Live",
+        "Jazz Cafe Camden",
+        "Jazz Lounge Knightsbridge",
+        "28°-50° by Night",
+        "The Ned",
+        "Ronnie Scott's"
+      ],
+      "quotes": {
+        "Mu": "'Mu in Kingsland Road. Japanese food and jazz.'",
+        "PizzaExpress Live": "'Pizza express live in Holborn or Soho ... Legit jazz, funk, soul' - 11 upvotes.",
+        "Boisdale": "'does jazz and steaks. There is one in Canary wharf and one in Belgravia' - 14 upvotes.",
+        "Jazz Cafe Camden": "'the upper level has tables to order dinner before and during the performance'.",
+        "The Ned": "As 'The Ned'. Its only live-music dining room is The Parlour, so the mention is filed there."
+      }
+    },
+    {
+      "name": "Reddit r/london - Restaurants with Live music / entertainment (Feb 2020)",
+      "url": "https://www.reddit.com/r/london/comments/eyemlg/restaurants_with_live_music_entertainment/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Le Quecumbar",
+        "Quaglino's",
+        "PizzaExpress Live",
+        "Sarastro",
+        "Jazz Cafe Camden"
+      ],
+      "quotes": {
+        "PizzaExpress Live": "'three venues in central London ... usually about £20 a ticket and the food is full price'.",
+        "Sarastro": "'has bellydancing some nights'."
+      }
+    },
+    {
+      "name": "Reddit r/Jazz - Dinning with live jazz in London (Dec 2025)",
+      "url": "https://www.reddit.com/r/Jazz/comments/1pot0rg/dinning_with_live_jazz_in_london/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Oriole",
+        "Ronnie Scott's",
+        "Toulouse Lautrec",
+        "Brasserie Zédel",
+        "PizzaExpress Jazz Club",
+        "Boisdale",
+        "Ninety One Living Room",
+        "606 Club"
+      ],
+      "quotes": {
+        "Ronnie Scott's": "'more a club that serves meals than a restaurant ... still the de facto jazz club in London'; 'do not attempt to talk during the act'.",
+        "Toulouse Lautrec": "'three options - the main restaurant with no music, the piano room ... and then there's the Jazz Club'.",
+        "Boisdale": "'more of a jazz-themed show than a proper gig'.",
+        "606 Club": "'606 Club, Chelsea' - 8 upvotes."
+      }
+    },
+    {
+      "name": "Reddit r/LondonFood - Recommendations please for dinner and entertainment options (Oct 2025)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1o8uxub/recommendations_please_for_dinner_and/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Ronnie Scott's",
+        "Amazing Grace",
+        "Ladbroke Hall",
+        "Boisdale",
+        "Quaglino's",
+        "Brasserie Zédel",
+        "58th Street"
+      ],
+      "quotes": {
+        "Amazing Grace": "'a converted church with a proper stage, live bands and DJs'.",
+        "Ladbroke Hall": "'dinner and Jazz nights at Pollini Ladbrooke Hall'.",
+        "58th Street": "'a fantastic and immersive experience from start to finish'."
+      }
+    },
+    {
+      "name": "Reddit r/Jazz - Jazz Restaurant Recommendations in London (Nov 2025)",
+      "url": "https://www.reddit.com/r/Jazz/comments/1owzu1q/jazz_restaurant_recommendations_in_london/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "58th Street",
+        "Ronnie Scott's",
+        "606 Club",
+        "Joe Allen",
+        "Ninety One Living Room",
+        "Quaglino's",
+        "Ladbroke Hall",
+        "Jazz Cafe Camden",
+        "PizzaExpress Jazz Club"
+      ],
+      "quotes": {
+        "58th Street": "OP: 'I'm currently steering towards 58th Street Jazz'.",
+        "Quaglino's": "'less of a focus on the quality of the jazz and more on the atmosphere'.",
+        "Jazz Cafe Camden": "'Seats overlook the stage. Great food.'"
+      }
+    },
+    {
+      "name": "Reddit r/LondonFood - Classy places with live piano or strings? (Jan 2026)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1q7rn1w/classy_places_with_live_piano_or_strings/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Winter Garden at The Landmark",
+        "Pierre Victoire",
+        "The Ned",
+        "Ronnie Scott's",
+        "PizzaExpress Live"
+      ],
+      "quotes": {
+        "The Ned": "'The Ned has a band and a piano player.'",
+        "PizzaExpress Live": "'Pizza Express Live (Holborn, Soho, Covent Garden)'."
+      }
+    },
+    {
+      "name": "Reddit r/london - Restaurants for dining while listening to jazz (Jan 2020)",
+      "url": "https://www.reddit.com/r/london/comments/ek250l/are_there_any_restaurants_for_dining_while/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "606 Club",
+        "Jazz Cafe Camden",
+        "Toulouse Lautrec",
+        "Hideaway",
+        "Oriole",
+        "PizzaExpress Jazz Club",
+        "Quaglino's",
+        "Boisdale",
+        "The Ned",
+        "The Blues Kitchen",
+        "Ronnie Scott's",
+        "Brasserie Zédel"
+      ],
+      "quotes": {
+        "The Ned": "'Sunday buffet lunch at the Ned has a live Jazz band'.",
+        "Hideaway": "'Hideaway Streatham ... you should not speak during the performances'.",
+        "Ronnie Scott's": "'Ronnie Scotts' - 12 upvotes; another: 'the food ... is adequate, but it's an awkward place to eat'."
+      }
+    },
+    {
+      "name": "Reddit r/RPDR_UK - Drag brunches in London? (Jan 2023)",
+      "url": "https://www.reddit.com/r/RPDR_UK/comments/10k4bzy/drag_brunches_in_london/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Ginger's Big Drag Brunch",
+        "Freedom Bar",
+        "Dalston Superstore",
+        "Mrs Riot",
+        "Tonight Josephine"
+      ],
+      "quotes": {
+        "Dalston Superstore": "'drag brunches on every Saturday and Sunday ... It's free and you just have to book' - 22 upvotes.",
+        "Ginger's Big Drag Brunch": "'Gingers drag brunch in Liverpool Street is really good' - 10 upvotes."
+      }
+    },
+    {
+      "name": "Reddit r/RPDR_UK - Recommendations for best drag brunch in London (Mar 2020)",
+      "url": "https://www.reddit.com/r/RPDR_UK/comments/fct8po/recommendations_for_best_drag_brunch_in_london/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Dalston Superstore",
+        "Strictly Come Drag Queen"
+      ],
+      "quotes": {}
+    },
+    {
+      "name": "Reddit r/london - Drag brunches on Sundays? (May 2022)",
+      "url": "https://www.reddit.com/r/london/comments/ug3kor/does_anyone_know_of_any_drag_brunches_that/",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The Folly"
+      ],
+      "quotes": {
+        "The Folly": "'the only Sunday drag brunch I've seen is at The Folly in Liverpool Street'."
+      }
+    },
+    {
+      "name": "kiaya amy (TikTok) - My top 5 immersive dining experiences in London",
+      "url": "https://www.tiktok.com/@kiayas.out.again/video/7320667292168244513",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Mamma Mia! The Party",
+        "Taste Film",
+        "Le Petit Chef",
+        "58th Street",
+        "The London Cabaret Club"
+      ],
+      "quotes": {
+        "Mamma Mia! The Party": "#1 of her top 5.",
+        "58th Street": "As 'Any of the Lost Estate Shows', #4."
+      }
+    },
+    {
+      "name": "KateNevs (TikTok) - Mu, Kingsland Road",
+      "url": "https://www.tiktok.com/@katenevs/video/7362468397457640737",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Mu"
+      ],
+      "quotes": {
+        "Mu": "'this East London Japanese restaurant hits all the right notes' - 432-434 Kingsland Rd."
+      }
+    },
+    {
+      "name": "where2eatlondon (TikTok) - The Gantry",
+      "url": "https://www.tiktok.com/@where2eatlondon/video/7421922613582155041",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The Gantry"
+      ],
+      "quotes": {
+        "The Gantry": "'tickets to shows taking place at the venue every week' with African, Caribbean and South American food."
+      }
+    },
+    {
+      "name": "chloethandie (TikTok) - Quaglino's",
+      "url": "https://www.tiktok.com/@chloethandie/video/7326484038930255136",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Quaglino's"
+      ],
+      "quotes": {
+        "Quaglino's": "'a great jazzy experience'."
+      }
+    },
+    {
+      "name": "merissahldn (TikTok) - Circus, Covent Garden",
+      "url": "https://www.tiktok.com/@mvlondonreviews/video/7201043825853336837",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Circus"
+      ],
+      "quotes": {
+        "Circus": "'A performer comes out every 15-30 mins ... sit at a standard table so u don't have to move around'."
+      }
+    },
+    {
+      "name": "dinewithfari (TikTok) - Dalston Jazz Bar",
+      "url": "https://www.tiktok.com/@dinewithfari/video/7299243939461090593",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Dalston Jazz Bar"
+      ],
+      "quotes": {
+        "Dalston Jazz Bar": "'a menu with no prices - you pay for what it's worth in donations'; seafood special."
+      }
+    },
+    {
+      "name": "RollinJoint (TikTok) - Dalston Jazz Bar",
+      "url": "https://www.tiktok.com/@rollinjoint/video/7432967689460649246",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Dalston Jazz Bar"
+      ],
+      "quotes": {
+        "Dalston Jazz Bar": "'jazz players literally playing right next to you'; 4 Bradbury St, N16 8JN."
+      }
+    },
+    {
+      "name": "Saaniya (TikTok) - 58th Street",
+      "url": "https://www.tiktok.com/@sxxniyx/video/7394507882768747808",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "58th Street"
+      ],
+      "quotes": {
+        "58th Street": "'6 course tasting menu ... You NEED to dress up'."
+      }
+    },
+    {
+      "name": "where's raya (TikTok) - Jazz bars in London",
+      "url": "https://www.tiktok.com/@wheresraya/video/7229001872445623578",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The Blues Kitchen",
+        "28°-50° by Night",
+        "The Bloomsbury Club"
+      ],
+      "quotes": {
+        "The Blues Kitchen": "'the one in Camden can get a little busy'.",
+        "28°-50° by Night": "As '28-50 in Marylebone - relaxed, proper jazzy environment and delicious food'."
+      }
+    },
+    {
+      "name": "A Twist Of Date (TikTok) - Ronnie Scott's",
+      "url": "https://www.tiktok.com/@atwistofdate/video/7220469797463674118",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Ronnie Scott's"
+      ],
+      "quotes": {}
+    },
+    {
+      "name": "aesteatify (TikTok) - Louie London",
+      "url": "https://www.tiktok.com/@aesteatify/video/7336212816082439456",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Louie"
+      ],
+      "quotes": {
+        "Louie": "As 'Louie London' - 'lovely Jazz music'."
+      }
+    },
+    {
+      "name": "jasminechidiuto (TikTok) - Oriole",
+      "url": "https://www.tiktok.com/@jasminechidiuto/video/7466895053017943329",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Oriole"
+      ],
+      "quotes": {}
+    },
+    {
+      "name": "Sochima (TikTok) - Blues Kitchen Shoreditch Hip Hop Orchestra Brunch",
+      "url": "https://www.tiktok.com/@sochimamaeats/video/7505339810983202070",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The Blues Kitchen"
+      ],
+      "quotes": {
+        "The Blues Kitchen": "Shoreditch: 'a Hip Hop Orchestra Brunch on Saturday's'."
+      }
+    },
+    {
+      "name": "gioacchinorusso_ (TikTok) - Le Petit Chef at The London Cabaret Club",
+      "url": "https://www.tiktok.com/@gioacchino.london.uk/video/7464396244782288161",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Le Petit Chef",
+        "The London Cabaret Club"
+      ],
+      "quotes": {
+        "Le Petit Chef": "'@The London Cabaret Club by @Le Petit Chef'."
+      }
+    },
+    {
+      "name": "michelle alexa (TikTok) - The London Cabaret Club",
+      "url": "https://www.tiktok.com/@michellealexander_/video/7355143109791026464",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The London Cabaret Club"
+      ],
+      "quotes": {
+        "The London Cabaret Club": "No disclosure on this video. Her Quaglino's video is marked '*ad pr' and is declined, not counted."
+      }
+    },
+    {
+      "name": "Zoe hungry.buns (TikTok) - Gingerline",
+      "url": "https://www.tiktok.com/@hungry.buns/video/7365986777061985568",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Gingerline"
+      ],
+      "quotes": {}
+    },
+    {
+      "name": "Brandiece (TikTok) - The Ivy West Street murder mystery dining",
+      "url": "https://www.tiktok.com/@itsbrandiece/video/7433881529161452833",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "The Ivy West Street"
+      ],
+      "quotes": {
+        "The Ivy West Street": "A Halloween murder mystery dinner - a one-off seasonal event, not a standing show."
+      }
+    },
+    {
+      "name": "Three Man Abroad (YouTube) - The Best Jazz Bars in London",
+      "url": "https://www.youtube.com/@ThreeManAbroad",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Toulouse Lautrec",
+        "Nightjar",
+        "Jazz Cafe Camden",
+        "606 Club",
+        "Ronnie Scott's"
+      ],
+      "quotes": {
+        "Ronnie Scott's": "Video wnamf9ZI0E4 (Nov 2022); chapter order, not a ranking."
+      }
+    },
+    {
+      "name": "My Miles My Moments (YouTube) - Mamma Mia! The Party Tier A Platinum review",
+      "url": "https://www.youtube.com/@My_Miles_My_Moments",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Mamma Mia! The Party"
+      ],
+      "quotes": {
+        "Mamma Mia! The Party": "Video y1skPB4PR0Q (Jan 2026): 'an honest review' of the most expensive tier."
+      }
+    },
+    {
+      "name": "Pem Danis (YouTube) - Taste Film: Monsters Inc",
+      "url": "https://www.youtube.com/@PemDanis",
+      "scope": "dinner-and-a-show",
+      "names": [
+        "Taste Film"
+      ],
+      "quotes": {
+        "Taste Film": "Video wkDx96k5U9k (Feb 2025): 'eating what you see on screen'."
+      }
+    }
+  ],
+  "declined": [
+    {
+      "url": "https://www.tiktok.com/@michellealexander_/video/7309537412668230944",
+      "why": "Quaglino's video captioned '*ad pr' - hosted visit."
+    },
+    {
+      "url": "https://www.tiktok.com/@simplyrasha/video/7408598321398304032",
+      "why": "Le Petit Chef at The London Cabaret Club, captioned '(ad - pr invite)'."
+    },
+    {
+      "url": "https://www.tiktok.com/@exploringlondon/video/7472538366630743318",
+      "why": "58th Street, captioned 'ad'."
+    },
+    {
+      "url": "https://www.tiktok.com/@exploringlondon/video/7339079176311344417",
+      "why": "Fork and Film, captioned 'ad'."
+    },
+    {
+      "url": "https://www.tiktok.com/@jesslouiseellis/video/7265757914302909698",
+      "why": "Lost Estate, captioned '*invite'."
+    },
+    {
+      "url": "https://www.tiktok.com/@kseniia.journey/video/7430928860214021409",
+      "why": "108 Brasserie jazz brunch, captioned '(*pr)'."
+    },
+    {
+      "url": "https://www.tiktok.com/@foodie_lilly/video/7336202552549166369",
+      "why": "The Piano Works, caption carries 'Invite' - read as a hosted visit."
+    },
+    {
+      "url": "https://www.tiktok.com/@soulsupperuk",
+      "why": "Operator's own account (Soul Supper) - tier F."
+    },
+    {
+      "url": "https://lepetitchef.com/blog/en/cool-restaurants-in-london/",
+      "why": "Operator's own blog (Le Petit Chef) - tier F."
+    },
+    {
+      "url": "https://www.capitalalist.com/best-restaurants-with-entertainment-in-london/",
+      "why": "capitalalist.com is on the excluded list in data/sources.json (concierge business)."
+    },
+    {
+      "url": "https://www.opentable.co.uk/features/best-restaurants-with-live-music-london-mayfair",
+      "why": "opentable.co.uk is excluded - a booking platform ranking its own inventory."
+    },
+    {
+      "url": "https://www.londonpianoinstitute.co.uk/ten-restaurants-with-live-music-in-london-you-shouldnt-miss/",
+      "why": "A piano school's SEO page; the list is famous music venues (Nightjar is a bar with no dining) with no sign of visits."
+    },
+    {
+      "url": "https://londonevening.co.uk/restaurants-with-live-music-in-london/",
+      "why": "Content farm: 'Editor Niki', 'Let's dive into', and a list that repeats London x London's order almost name for name."
+    },
+    {
+      "url": "https://unifresher.co.uk/cities/london/the-best-drag-brunches-in-london/",
+      "why": "Student deals site whose archive runs to celebrity 'net worth' pages - content farm tell."
+    },
+    {
+      "url": "https://bottomlessbrunch.com/guide/london-drag-brunches/",
+      "why": "A booking platform's list of what it sells - commercial listings, not a recommendation."
+    },
+    {
+      "url": "https://www.theinfatuation.com/london/perfect-for/live-music",
+      "why": "A tag filter page, not a written guide - closer to a search-results page."
+    },
+    {
+      "url": "https://www.thehandbook.com/london-guidebook/where-the-magic-happens-restaurants-with-magicians/",
+      "why": "Dated December 2018 and the Handbook domain is already counted."
+    },
+    {
+      "url": "https://www.standard.co.uk/culture/theatre/stage-bite-immersive-theatre-dinner-shows-are-taking-over-london-a3687656.html",
+      "why": "December 2017; every show it names has since closed or moved."
+    },
+    {
+      "url": "https://www.reddit.com/r/LondonTravel/comments/1ndps3v/dinner_show/",
+      "why": "Replies are all West End musicals and pre-theatre menus - a different intent, no in-scope venue named."
+    },
+    {
+      "url": "https://www.reddit.com/r/london/comments/1gxsrve/",
+      "why": "OP asked for DJ restaurants and explicitly not live bands - out of scope."
+    }
+  ]
+}

@@ -339,6 +339,7 @@ The gap between lunch and dinner at a starred restaurant is the single biggest s
 
 ## Continue planning your London trip
 
+- 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🫖 **[The Best Afternoon Tea in London](/articles/best-afternoon-tea-london/)**
 - 🎪 **[Unusual Restaurants in London](/articles/unusual-restaurants-london/)**

@@ -278,6 +278,8 @@ It is faster and more physical than it sounds — you are on your feet the whole
 
 ## Immersive dining and cabaret
 
+[Dinner and a Show in London](/articles/dinner-and-a-show-london/) sets these beside the jazz clubs, cabaret dinners and drag brunches, with what each adds to the bill.
+
 ### Mamma Mia! The Party, North Greenwich
 
 *£120 off-peak to £246 · 5+ · about 4 hours · booking to April 2027*
@@ -499,6 +501,7 @@ This is the section other guides leave out, and it is the reason people turn up 
 
 ## Continue planning your London trip
 
+- 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🎭 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 🎬 **[The Best Independent Cinemas in London](/articles/best-cinemas-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**

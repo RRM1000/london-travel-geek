@@ -209,6 +209,8 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 *Albert Bridge.*
 
+The 606 Club on Lots Road serves dinner through two jazz sets every night, from £18 a head for the music. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) has it beside the other jazz suppers.
+
 ## Getting there
 
 **By Tube.** **Sloane Square** (District, Circle) is the eastern entrance and the only Tube station actually in Chelsea. The western end has no Tube at all — this is the catch.

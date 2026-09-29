@@ -432,7 +432,8 @@
     "NEST",
     "NOLA",
     "PITA",
-    "ROE"
+    "ROE",
+    "INCA"
   ],
   "outOfArea": {
     "Oyster Shack & Seafood Bar": "Waltham Abbey, Essex - inside the M25 but outside London. Named by The Infatuation's London seafood guide and by Time Out's cheap eats list.",
@@ -552,6 +553,12 @@
         "hotels-budget"
       ],
       "why": "A hotel brand, not a 'best of' heading. The '^(the )?best\\b' pattern bins every Best Western name; scoped to hotels-budget so the pattern still catches headings elsewhere."
+    },
+    "Mu": {
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "why": "The Japanese restaurant and jazz bar at 432-434 Kingsland Road, Dalston E8. Two characters, so minLength dropped all five of its dinner-and-a-show citations on the first build (29 Sep 2026)."
     }
   }
 }

@@ -131,7 +131,7 @@ The cheapest headline numbers in London are almost all drinks-only packages, and
 
 ## Best for a party, a hen do or a birthday
 
-If the brunch is one part of a bigger day, the [hen do](/articles/hen-do-london/) and [stag do](/articles/stag-do-london/) guides price the activities either side of it, and list the bars that will not take a group at all.
+If the brunch is one part of a bigger day, the [hen do](/articles/hen-do-london/) and [stag do](/articles/stag-do-london/) guides price the activities either side of it, and list the bars that will not take a group at all. For a brunch with a drag host, a gospel choir or a band, see [Dinner and a Show in London](/articles/dinner-and-a-show-london/).
 
 **Ballie Ballerson** in Shoreditch is the biggest party of the lot, and priced accordingly: ninety minutes of prosecco, passion fruit martinis, picantes, beer and seltzers on tap, plus **120 minutes of unlimited pizza** and full ball-pit access. £45 on Thursday and Sunday, £49 on Friday, £65 on Saturday. Its **Sisterhood drag brunch runs at 3pm on Saturdays** with a resident drag queen, at £65 with pizza or **£35 for drinks only**. Note the payment structure: fifty per cent deposit at booking, the balance a week before, when you also confirm numbers.
 
@@ -201,6 +201,7 @@ Two structural tips. Book the **first sitting of the day** — the bar is fully 
 
 **Paying less to eat out in London.** A few different strategies, and they rarely combine — pick the one that fits how you eat:
 
+- 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in

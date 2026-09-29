@@ -1,0 +1,145 @@
+{
+  "topic": "dinner-and-a-show",
+  "article": "src/content/articles/dinner-and-a-show-london.md",
+  "headTerm": "Dinner and a Show",
+  "note": "Restaurants and ticketed nights where the food and the entertainment happen at one table on one night. Collected 29 September 2026, SERP-first. The search 'dinner and a show london', 'restaurants with entertainment london' and 'dinner show london' return the same pages (DesignMyNight's restaurants-with-entertainment list tops all three), so they are one intent and one page. 'restaurants with live music london' pulls a separate set of lists (The Sauce, The Handbook, The Nudge, London x London) that name the same rooms, so it is served here too rather than by a second page. This topic has NO award body, so the skill's section order (winners, also strongly backed, by sub-type) does not apply: the page groups by format - jazz and live music, cabaret and burlesque, comedy and dining theatre, brunch with a show, on the river - because that is how a reader chooses, and it carries 'Cited by N sources' lines without ranking anything by them.",
+  "scopeDecision": {
+    "question": "What counts as dinner and a show, as against a bar with a DJ, a party restaurant, a theatre with a pre-theatre menu, or an activity bar?",
+    "call": "Four rules, applied to every entry.",
+    "rules": [
+      "The performance happens where you eat, while you eat or at the same table straight after: a band or pianist in the dining room, a show you watch from a dining table, a brunch with a drag host. A meal before a separate theatre show is pre-theatre dining and belongs to london-theatre-guide, not here.",
+      "Live performance only. A DJ, a playlist or a screen is not a show. Le Petit Chef (a projection on the plate) and Taste Film (a film you eat along with) are carried because the sources treat them as dinner shows, and are labelled as projection and film.",
+      "A party restaurant where dancers or a saxophonist appear as décor late at night (Sexy Fish, Bagatelle, Bacchanalia) is recorded in the sources but gets no entry: nothing is programmed, published or bookable as a show.",
+      "Activity bars (Flight Club, All Star Lanes, Swingers, TOCA Social) and themed rooms with no performer (Dans Le Noir, Inamo's table projections, Bob Bob Ricard's champagne button) are out, though SquareMeal and DesignMyNight list them."
+    ],
+    "boundaryWithOtherGuides": "best-cabaret-london carries full write-ups of The London Cabaret Club, Sarastro, 58th Street, Ronnie Scott's Late Late Show, PizzaExpress Live (Chelsea) and the 606 Club. immersive-experiences-london carries Faulty Towers, Mamma Mia! The Party and The Murdér Express. best-live-music-venues-london carries Ronnie Scott's, the 606 Club and Jazz Cafe as music rooms. This page keeps each of those to the dinner: what you eat, what it costs on top of the show, and how the table works, and links out for the rest."
+  },
+  "awardBodies": [],
+  "editorialLists": [
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "ranked": false,
+      "note": "Three lists, one domain: restaurants with entertainment (the page that tops the 'dinner and a show' SERP), restaurants with live music, and drag brunches. Listings-led - activity bars and afternoon teas sit beside the dinner shows."
+    },
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": true,
+      "note": "No dinner-and-a-show list. Its jazz bars and clubs list (ranked 1-10, Dec 2024) and quirky restaurants list (ranked 1-19, Aug 2026) both name rooms in scope; plus a single-venue page for the Amazing Grace gospel brunch. One masthead, one source."
+    },
+    {
+      "name": "The Sauce",
+      "domain": "thesaucemag.com",
+      "ranked": false,
+      "note": "20 live-music restaurants, May 2026; Boisdale twice (Belgravia and Canary Wharf)."
+    },
+    {
+      "name": "The Handbook",
+      "domain": "thehandbook.com",
+      "ranked": false,
+      "note": "25 live-music restaurants, Aug 2026, split into summer-only and year-round. The summer-only four (Flute, Rake's, Quaglino's screenings) are seasonal events."
+    },
+    {
+      "name": "SquareMeal",
+      "domain": "squaremeal.co.uk",
+      "ranked": false,
+      "note": "37 fun places, grouped: dinner and a show / live music / activity bars / themed. Only the first two groups are in scope."
+    },
+    {
+      "name": "Luxury London",
+      "domain": "luxurylondon.co.uk",
+      "ranked": false,
+      "note": "Five party restaurants; two of them (Sexy Fish, Bagatelle) are out of scope under rule 3."
+    },
+    {
+      "name": "Country & Town House",
+      "domain": "countryandtownhouse.com",
+      "ranked": false,
+      "note": "Drag brunches, last updated July 2024 - the oldest list in the drag section."
+    }
+  ],
+  "independentBlogs": [
+    {
+      "name": "Secret London",
+      "domain": "secretldn.com",
+      "tier": "C",
+      "note": "12 dining experiences with live shows, Aug 2025. Numbered, not ranked."
+    },
+    {
+      "name": "The Nudge",
+      "domain": "thenudge.com",
+      "tier": "C",
+      "note": "Two lists on one domain: restaurants with live music and fun restaurants."
+    },
+    {
+      "name": "London The Inside",
+      "domain": "londontheinside.com",
+      "tier": "C",
+      "note": "Drinks, dinner and a show - 11 live music restaurants."
+    },
+    {
+      "name": "London x London",
+      "domain": "londonxlondon.com",
+      "tier": "C",
+      "note": "14 restaurants with live music, 2023 - the oldest live-music list in the set."
+    },
+    {
+      "name": "Flying Fluskey",
+      "domain": "flyingfluskey.com",
+      "tier": "C",
+      "note": "Single first-person visit to The Murdér Express."
+    }
+  ],
+  "facetAxis": {
+    "field": "format",
+    "note": "How a reader chooses: what kind of show, and whether it is a restaurant with a band or a ticket with a dinner.",
+    "values": [
+      {
+        "key": "jazz-live-music",
+        "label": "Jazz clubs and restaurants with a band",
+        "describeAs": "a restaurant where the music plays while you eat, from a ticketed jazz club to a brasserie with a pianist"
+      },
+      {
+        "key": "cabaret-burlesque",
+        "label": "Cabaret, burlesque and circus dinners",
+        "describeAs": "a seated dinner with acts performing around the tables"
+      },
+      {
+        "key": "dining-theatre",
+        "label": "Comedy, magic and dining theatre",
+        "describeAs": "a scripted show you eat inside, often with the cast at your table"
+      },
+      {
+        "key": "brunch",
+        "label": "Brunch with a show",
+        "describeAs": "a daytime sitting with a drag host, a gospel choir or a band"
+      },
+      {
+        "key": "river",
+        "label": "On the river",
+        "describeAs": "a Thames dinner cruise with a singer or a jazz band"
+      }
+    ]
+  },
+  "knownGaps": [
+    "No award body exists for this category, so nothing carries a tier-A citation and the page ranks nothing.",
+    "Reddit refuses curl (403). Threads were read through the PullPush archive (api.pullpush.io), which returns comment bodies but not reliably the full thread; 14 threads recorded, 2 declined as out of scope. reddit.com counts once per venue however many threads name it.",
+    "Seven creator videos were declined as hosted visits (ad, pr, invite) - see 'declined' in data/consensus/dinner-and-a-show.json. The video tier leans on single-venue TikToks rather than ranked round-ups; only kiayas.out.again and Three Man Abroad name more than two places.",
+    "Drag brunch sources are thin and old: Country & Town House (2024), DesignMyNight (2026) and three Reddit threads (2020-2023). Unifresher and bottomlessbrunch.com were declined. Drag brunch nights move venue often; re-check every entry at reviewBy.",
+    "None of these venues are rows in the Restaurants v2 sheet, so the italic facts strips on this page are hand-written, not synced by scripts/sync-article-facts.mjs.",
+    "Ronnie Scott's own site sat behind a bot check for most of the 29 Sep 2026 pass: its menu, dinner prices and age policy were not read from the operator. The entry uses the club's show format and the £40-£65 main-room range already on best-live-music-venues-london. The Late Late Show nights differ across the site: best-live-music-venues-london says Wednesday to Saturday, best-cabaret-london and soho-area-guide say Friday and Saturday. Needs one read of ronniescotts.co.uk in a browser.",
+    "Prices not published by the operator: PizzaExpress Live ticket range (per show, client-rendered), INCA's minimum spend and menu prices, Soul Mama gospel brunch ticket price, inamo comedy night price, The Tiroler Hut's show nights and à la carte prices, Plaquemine Lock's main menu prices (images only), The Piano Works set-menu price.",
+    "Left out after venue checks, 29 Sep 2026: Le Quecumbar (closed 6 April 2022, added to data/closed.json); Sinners, Shoreditch (its booking page says closed); Sabrage at Lafayette (London run closed); Hideaway, Streatham (closed since the pandemic); Haus of Cabaret / Proud Cabaret City (closed, see best-cabaret-london); Dinner is Coming at The Vaults (2019 run); CHAT NOIR! (ends September 2026); The Scarlet Lotus (summer 2026 run over, returns 2027); Park Chinois (Salon de Chine closed for refurbishment until September 2026, downstairs is DJs); Bunga Bunga Covent Garden (now Bunga 90, a karaoke and pizza bar); Covent Garden Comedy Club dinner packages (suspended 'until further notice'); Drake & Morgan Gospel Motown brunch (no longer listed); The Magician's Table (cocktails and magic, no dinner).",
+    "Could not be confirmed from an operator and left out: Circus, Endell Street (no operator site; its DesignMyNight menu is dated 2024); The Courtesan, Brixton (trading, but no 2026 burlesque dates found); Kibele, Great Portland Street (site blocks fetches; entertainment nights unconfirmed); Strings, Waterloo (site blocks fetches); Babylon Burlesque at CLF Art Lounge (the only operator found is in South Shields); Mrs Riot drag brunch (site unreachable); Tonight Josephine Waterloo (drag branding retired, now themed brunches); Gingerline (secret location, no price); Comedy Carnival dinner packages (site blocks fetches); Vocalé Mayfair at Ristorante Frescobaldi (one source, no price); Charlie's at Brown's Jazz Sundays (menu PDF is named 2023, price unconfirmed)."
+  ],
+  "openVenueQuestions": [
+    "Chains carried as one brand: The Blues Kitchen (Camden, Shoreditch, Brixton) and Boisdale (Belgravia, Canary Wharf). Sources named branches; the branch is kept in each quote.",
+    "PizzaExpress Jazz Club (Dean Street, Soho) is kept apart from the Holborn and Chelsea PizzaExpress Live rooms. Three Reddit comments name 'Pizza Express Live' with no branch and are filed under the brand name PizzaExpress Live, not merged into the Soho club.",
+    "Dishoom Kensington is aliased to Dishoom in data/name-aliases.json (a pre-existing alias), so its count here is filed under the brand name. All four sources that named it in this topic named the Kensington branch.",
+    "Cafe Bombe (one Reddit comment, 'in soho ... live music around 2pm') is left apart from Café Bohème: it may be a mishearing, it may not.",
+    "'That circus/cabaret place in covent garden' (Reddit) is filed as Circus on judgement - Circus on Endell Street is the only cabaret restaurant in Covent Garden that matches.",
+    "Le Petit Chef: Secret London and a TikTok creator place it at The London Cabaret Club; the operator now gives Taj 51 Buckingham Gate. Kept as one venue.",
+    "Amazing Grace: Time Out's 2022 page calls its brunch a gospel brunch; the operator now sells a live acoustic 'Born Again Brunch'. The page says so."
+  ]
+}
