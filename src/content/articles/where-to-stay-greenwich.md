@@ -72,13 +72,13 @@ A corner pub beside Hawksmoor's St Alfege Church, halfway between Greenwich stat
 
 A four-star Accor hotel next to Greenwich station, with a gym and sauna, a restaurant and a bar that serves afternoon tea. **The Superior Room has a queen bed and two single sofa beds for up to four**, and the Executive Suite is 49 square metres with a king bed and a double sofa bed, also for four. It has secure on-site parking and pet-friendly rooms. **It takes cards only, not cash.**
 
-### Premier Inn London Greenwich
+### Premier Inn London Greenwich — free children's breakfasts, five minutes from the station
 
 *43–81 Greenwich High Road, SE10 8JL · Greenwich station 5 min · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-greenwich.html)*
 
 Double, twin, family and accessible rooms, all air-conditioned; the Premier Plus rooms add a coffee machine and a mini-fridge. Thyme, the restaurant, serves breakfast and dinner, and **up to two children eat breakfast free** with each adult Premier Inn breakfast. **There is no on-site car park**: a shared one at the same postcode, used by Staycity and residents, charges £12 a night, first come, first served.
 
-### Travelodge London Greenwich High Road
+### Travelodge London Greenwich High Road — £1 children's breakfasts by the station
 
 *Greenwich High Road, SE10 8JA · Greenwich DLR 2 min · Check-in 3pm, out noon · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/594/London-Greenwich-High-Road-hotel)*
 
@@ -120,19 +120,19 @@ A family-run pub hotel from 1888, with pool and Sky Sports in the bar, on the ma
 
 The peninsula hotels are a walk from The O2 and a bus ride from the Cutty Sark and the Observatory. **They reprice on show nights**, sometimes several times over: our guide to [where to stay near The O2](/articles/where-to-stay-near-the-o2/) has the figures, and compares the peninsula with Canary Wharf, Canning Town and Stratford.
 
-### InterContinental London – The O2
+### InterContinental London – The O2 — a 17-metre pool and a walkway into The O2
 
 *About £280 · 1 Waterview Drive, SE10 0TW · Private walkway into The O2 · [Hotels.com](hotel:intercontinental-the-o2)*
 
 A glass tower on the river facing Canary Wharf: 493 rooms, suites and apartments, a spa with a 17-metre pool, three restaurants and two bars. On-site parking is £52 a day.
 
-### Holiday Inn Express London – Greenwich
+### Holiday Inn Express London – Greenwich — breakfast included, family rooms for four
 
 *About £95 · Bugsby's Way, SE10 · North Greenwich and The O2 15 min · [Hotels.com](hotel:holiday-inn-express-greenwich-peninsula)*
 
 At the south end of the peninsula, with **breakfast included**, family rooms for four, and parking at £35 a day.
 
-### Radisson RED London Greenwich The O2
+### Radisson RED London Greenwich The O2 — rainfall showers, and the bus to The O2
 
 *228 Tunnel Avenue, SE10 0PL · North Greenwich 25 min on foot, or the 422 bus · Check-in 3pm, out noon · [radissonhotels.com](https://www.radissonhotels.com/en-us/hotels/radisson-red-greenwich-london)*
 
