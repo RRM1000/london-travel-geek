@@ -2,7 +2,26 @@
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
   "updated": "2026-09-29",
-  "inProgress": [],
+  "inProgress": [
+    {
+      "state": "in progress",
+      "title": "Where to stay near ExCeL",
+      "detail": "Hotels for people with tickets to Comic Con, the Boat Show and conferences, grouped by which entrance and station they suit, with how to get back after an evening event. The ExCeL guide keeps its short hotel section and links to it.",
+      "next": "An agent is researching and writing it; then checked, built, previewed and handed over with a photo list."
+    },
+    {
+      "state": "in progress",
+      "title": "Where to stay in Greenwich",
+      "detail": "Hotels in the town centre, by the park and Blackheath, on the peninsula and in Deptford, with the trains, DLR and river bus into central London. Linked both ways with the Greenwich area guide.",
+      "next": "An agent is researching and writing it; then checked, built, previewed and handed over with a photo list."
+    },
+    {
+      "state": "in progress",
+      "title": "London hotels with a pool",
+      "detail": "A consensus guide to hotels whose pool guests can actually use, with the pool facts lists get wrong: size, indoor or rooftop, free or paid, children's hours, seasonal opening.",
+      "next": "An agent is researching and writing it; then checked, built, previewed and handed over with a photo list."
+    }
+  ],
   "nextUp": [
     "More GetYourGuide day trips with no guide yet: Warwick Castle and Stratford-upon-Avon, Blenheim Palace.",
     "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
