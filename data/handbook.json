@@ -36,6 +36,10 @@
   "recentlyDone": [
     {
       "date": "2026-09-29",
+      "what": "Nine GetYourGuide London bestsellers we weren't promoting now linked where readers book them: the City Cruises day pass and Uber Boat ticket (river boats, Thames cruises, Greenwich, O2 guides), City Sightseeing, Big Bus + London Eye and two vintage Routemaster companies (tour buses guide, with their own entries; London Eye guide; the night tour on the Christmas lights walk), the Buckingham Palace + Changing of the Guard tour (Westminster walk, Westminster area, historic houses, flagged as summer only), and the Studio Tour + Thames cruise package. Several tour-bus timetable facts corrected against the operators. The tour buses page's widget, which showed no buses, now shows buses."
+    },
+    {
+      "date": "2026-09-29",
       "what": "Why the street food guide doesn't rank: Google had never seen it. An index check of every guide found 215 of 260 indexed and 45 not, 35 of them unknown to Google, because no sitemap had ever been submitted in Search Console. You submitted it; Google read all 468 URLs. New scripts: page-ranking.mjs (a page's searches and positions), inspect-url.mjs and index-coverage.mjs."
     },
     {
