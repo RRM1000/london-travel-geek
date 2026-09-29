@@ -4,7 +4,7 @@ seoTitle: "Windowless Hotel Rooms London: 6 Chains That Sell Them"
 description: "Six operators sell London rooms with no window at all, and all twelve Z Hotels branches have one. What you get, what daylight costs at each, and who should not book one."
 heroImage: "../../assets/articles/windowless-hotel-rooms-london/zedwell-cocoon-room.jpg"
 heroImageAlt: "A Zedwell cocoon room with a bed on a lit wooden plinth, a full-length mirror, hooks and a private door"
-publishedAt: 2026-09-07
+publishedAt: 2026-07-07
 updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london

@@ -4,7 +4,7 @@ seoTitle: "Shoreditch Walking Route Map: Brick Lane & Spitalfields"
 description: "A numbered walking route from Columbia Road Flower Market to Petticoat Lane, through the Boundary Estate, the Truman Brewery's basement vintage market, Brick Lane and Christ Church Spitalfields. With which market runs on which day, from each operator."
 heroImage: "../../assets/articles/shoreditch-area-guide/brick-lane-market-bridge.jpg"
 heroImageAlt: "Market stalls filling Brick Lane beneath the railway bridge on a Sunday, crowds moving between them"
-publishedAt: 2026-09-15
+publishedAt: 2026-07-16
 updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london

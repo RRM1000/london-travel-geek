@@ -8,7 +8,7 @@ heroImageCredit: "Staff Sgt. Eugene Oliver / U.S. Air Force"
 heroImageSource: https://commons.wikimedia.org/wiki/File:Pathfinders_participate_in_2023_London_NFL_Game_(8069294).jpg
 heroImageLicense: "Public Domain"
 heroImageLicenseUrl: https://commons.wikimedia.org/wiki/Public_domain
-publishedAt: 2026-09-23
+publishedAt: 2026-07-24
 reviewBy: 2026-10-19
 sites: [london]
 canonicalSite: london

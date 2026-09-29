@@ -2,7 +2,7 @@
 title: "The Ideal Home Show 2027: Tickets, Prices and What's On at Olympia"
 seoTitle: "Ideal Home Show 2027: Dates, Tickets & Prices"
 description: "The Ideal Home Show 2027 runs 2–11 April at Olympia London. Every ticket type and price, what's actually in the show, the quietest time to go, and how to get to Kensington (Olympia) by Tube, Overground and car."
-publishedAt: 2026-08-12
+publishedAt: 2026-06-18
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london

@@ -4,7 +4,7 @@ seoTitle: "Exhibitions and Conventions in London 2026-27"
 description: "MCM Comic Con sells out its weekend and VIP tiers a month early, Frieze Week puts five art fairs in Regent's Park and Battersea Park on the same days, and New Scientist Live discounts final-release tickets 44% against paying on the door."
 heroImage: "../../assets/articles/exhibitions-conventions-london/excel-london.jpg"
 heroImageAlt: "Visitors queuing beside the Royal Victoria Dock outside ExCeL London, with dockside cranes, moored boats and a large screen advertising a show at the entrance"
-publishedAt: 2026-08-11
+publishedAt: 2026-06-17
 reviewBy: 2026-10-04
 sites: [london]
 canonicalSite: london

@@ -2,7 +2,7 @@
 title: "HYPER JAPAN Festival at Olympia: Tickets, Dates, Cosplay Rules and Getting There"
 seoTitle: "HYPER JAPAN Festival 2027: Dates, Tickets, Olympia"
 description: "HYPER JAPAN Festival at Olympia: ticket prices and what each includes, the food and sake market, cosplay rules, the quietest session, getting to Kensington (Olympia), and where 2027 dates stand."
-publishedAt: 2026-08-11
+publishedAt: 2026-06-18
 reviewBy: 2026-12-15
 sites: [london]
 canonicalSite: london

@@ -4,7 +4,7 @@ seoTitle: "London With Kids 2026: Free Farms, Zoos & Days Out"
 description: "Eight free city farms, a zoo scaled for under-tens, an indoor rollercoaster in Camden and the museum built entirely around children — most of it costs nothing."
 heroImage: "../../assets/articles/london-with-children/granary-square-fountains.jpg"
 heroImageAlt: "Children running through the ground fountains at Granary Square in King's Cross on a summer afternoon"
-publishedAt: 2026-08-26
+publishedAt: 2026-06-27
 updatedAt: 2026-09-25
 reviewBy: 2026-11-02
 sites: [london]

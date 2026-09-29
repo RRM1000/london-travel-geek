@@ -4,7 +4,7 @@ seoTitle: "Late Night Food London 2026: Open After Midnight"
 description: "A 24-hour caff with no front door, ramen at 1am, Whitechapel lamb chops and a fry-up forty floors up — where London actually feeds you late."
 heroImage: "../../assets/articles/late-night-eating-london/duck-waffle-heron-tower-view.jpg"
 heroImageAlt: "The dining room at Duck & Waffle, forty floors up in the Heron Tower, with floor-to-ceiling windows over the City at dusk"
-publishedAt: 2026-08-25
+publishedAt: 2026-06-25
 updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london

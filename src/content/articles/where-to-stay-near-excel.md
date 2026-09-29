@@ -2,7 +2,7 @@
 title: "Where to Stay Near ExCeL London: Hotels by Entrance, and the Last Train Back"
 seoTitle: "Hotels Near ExCeL London: Where to Stay by Entrance"
 description: "Hotels for a show, convention or conference at ExCeL London, sorted by the entrance they suit: Western Gateway by Custom House, the east end by Prince Regent and the ICC, Canary Wharf and Woolwich one stop away, and the budget chains. With the last trains back after an evening event."
-publishedAt: 2026-08-15
+publishedAt: 2026-06-23
 updatedAt: 2026-09-29
 reviewBy: 2026-12-12
 sites: [london]

@@ -2,7 +2,7 @@
 title: "Brussels from London: The Eurostar, the Grand-Place and the Atomium Question"
 seoTitle: "Brussels Day Trip from London: Eurostar Fares and Times"
 description: "St Pancras to Brussels-Midi takes as little as 1h51 on Eurostar, from around £51 in Standard booked ahead. Arrive 75 minutes early for UK exit and EU entry checks, and the last realistic return gives you eight to eleven hours for the Grand-Place, the comic-strip walls and the Atomium question."
-publishedAt: 2026-08-10
+publishedAt: 2026-06-16
 updatedAt: 2026-09-28
 reviewBy: 2026-11-15
 sites: [london]

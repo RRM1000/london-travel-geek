@@ -2,7 +2,7 @@
 title: "Edinburgh from London: The Trains, the Castle and the Case for a Night"
 seoTitle: "Edinburgh Day Trip from London: Trains and Fares"
 description: "King's Cross to Edinburgh Waverley is from 4h08 on LNER's fastest trains, Advance singles from £41.40; Lumo runs the same route from £31.90. Edinburgh Castle is £23.50 booked online, and the honest verdict is that a same-day return leaves too little time — one night works far better."
-publishedAt: 2026-08-13
+publishedAt: 2026-06-20
 reviewBy: 2026-10-28
 sites: [london]
 canonicalSite: london

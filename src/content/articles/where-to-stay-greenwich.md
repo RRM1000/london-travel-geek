@@ -2,7 +2,7 @@
 title: "Where to Stay in Greenwich: The Town, the Park, the Peninsula and Deptford"
 seoTitle: "Where to Stay in Greenwich, London: Hotels by Area"
 description: "Greenwich hotels sorted by the part of Greenwich they are in: the town centre by the Cutty Sark, Blackheath and the park's edges, the O2 peninsula and Deptford Bridge. The station each is nearest, the trains, boats and buses into town, and how to get back after midnight."
-publishedAt: 2026-08-15
+publishedAt: 2026-06-22
 updatedAt: 2026-09-29
 reviewBy: 2026-11-01
 sites: [london]

@@ -8,7 +8,7 @@ heroImageCredit: "Matt Brown"
 heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=155127135"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
-publishedAt: 2026-08-08
+publishedAt: 2026-06-14
 updatedAt: 2026-09-29
 reviewBy: 2027-03-24
 sites: [london]

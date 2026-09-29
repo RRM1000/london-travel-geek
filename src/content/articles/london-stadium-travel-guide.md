@@ -4,7 +4,7 @@ seoTitle: "London Stadium 2026: Parking, Trains, Getting Home"
 description: "Why London Stadium has almost no parking of its own, which of Stratford's seven rail and tube services to actually use for West Ham, an athletics meet or a concert, the walk through Queen Elizabeth Olympic Park, and getting home again on the Central and Jubilee lines."
 heroImage: "../../assets/articles/london-stadium-travel-guide/london-stadium-bowl.jpg"
 heroImageAlt: "Inside London Stadium during the Novuna London Athletics Meet, a packed crowd under the distinctive roof and \"LONDON STADIUM\" branding on the pitch-side screens"
-publishedAt: 2026-08-01
+publishedAt: 2026-06-06
 updatedAt: 2026-09-25
 reviewBy: 2026-10-15
 sites: [london]

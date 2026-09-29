@@ -2,7 +2,7 @@
 title: "Windsor from London: The Castle, the Trains and the Rest of the Day"
 seoTitle: "Windsor Day Trip from London: Trains and Tickets"
 description: "Windsor Castle is £32 in advance and shut every Tuesday and Wednesday. Contactless works to both Windsor stations — £7.90 off-peak from Paddington — and St George's Chapel is closed to visitors on Sundays."
-publishedAt: 2026-09-12
+publishedAt: 2026-07-12
 updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london

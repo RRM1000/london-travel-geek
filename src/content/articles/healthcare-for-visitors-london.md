@@ -2,7 +2,7 @@
 title: "Healthcare in London for Visitors: NHS, A&E, GPs and What It Costs"
 seoTitle: "Healthcare in London for Visitors: NHS, A&E and Costs"
 description: "What to do if you're ill or hurt in London: 999 or 111, A&E versus an urgent treatment centre, what's free on the NHS and what visitors pay, GHIC/EHIC and reciprocal cover, and the current prescription charge — from NHS and GOV.UK's own rules."
-publishedAt: 2026-08-03
+publishedAt: 2026-06-08
 reviewBy: 2026-10-31
 sites:
   - london

@@ -2,7 +2,7 @@
 title: "London Tour Buses Compared: Routes, Stops and Prices"
 seoTitle: "London Hop-On Hop-Off Buses 2026: Online Saves 13–41%"
 description: "Every Big Bus, Golden Tours and Tootbus route and stop, with what each really costs — Golden Tours from £24.78 online against £42 at the kerb — and the ordinary red bus that covers much of the same ground for £1.75."
-publishedAt: 2026-08-27
+publishedAt: 2026-06-28
 updatedAt: 2026-09-29
 reviewBy: 2026-10-31
 sites: [london]

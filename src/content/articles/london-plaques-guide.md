@@ -8,7 +8,7 @@ heroImageCredit: "Sludge G"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:Alexander_Parkes_plaque,_Hackney_Wick_2025-12-02.jpg"
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
-publishedAt: 2026-08-28
+publishedAt: 2026-06-29
 updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london

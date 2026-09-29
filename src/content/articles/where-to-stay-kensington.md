@@ -8,7 +8,7 @@ heroImageCredit: "Mike Peel"
 heroImageSource: https://commons.wikimedia.org/wiki/File:Milestone_Hotel.jpg
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
-publishedAt: 2026-08-06
+publishedAt: 2026-06-12
 updatedAt: 2026-09-27
 reviewBy: 2027-03-24
 sites: [london]

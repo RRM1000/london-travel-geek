@@ -2,7 +2,7 @@
 title: "The Best Immersive Experiences in London: What's Actually Still Open"
 seoTitle: "Best Immersive Experiences London 2026: Still Open"
 description: "Immersive shows close constantly and most guides are years out of date. Every experience here was status-checked against its own site, with the closed ones listed separately."
-publishedAt: 2026-09-02
+publishedAt: 2026-07-02
 updatedAt: 2026-09-25
 reviewBy: 2026-10-01
 sites: [london]

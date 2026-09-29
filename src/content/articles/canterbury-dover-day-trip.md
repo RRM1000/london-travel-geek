@@ -2,7 +2,7 @@
 title: "Canterbury, Dover and Leeds Castle from London: Trains vs the Tour"
 seoTitle: "Canterbury and Dover Day Trip from London: Trains"
 description: "St Pancras to Canterbury West is under an hour on Southeastern's high-speed line, against 1h30 from Victoria to Canterbury East. Dover Castle costs from £24.65 and Canterbury Cathedral from £18. Leeds Castle has no useful station, so seeing all three in one day means the £79-£125 coach tours instead."
-publishedAt: 2026-08-13
+publishedAt: 2026-06-20
 updatedAt: 2026-09-28
 reviewBy: 2026-10-28
 sites: [london]

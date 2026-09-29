@@ -2,7 +2,7 @@
 title: "Stonehenge from London: What It Costs and How to Get There"
 seoTitle: "Stonehenge from London: Tickets, Trains and Tours"
 description: "Stonehenge admission is £27.20 to £32.30 in advance depending on the date. The train-and-bus route really works, but only five buses a day leave Salisbury in winter — and the Stone Circle Experience is the only way inside the stones."
-publishedAt: 2026-07-31
+publishedAt: 2026-06-05
 updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london

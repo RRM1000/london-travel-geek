@@ -2,7 +2,7 @@
 title: "London Marathon: How to Get a Place, and How to Watch It"
 seoTitle: "London Marathon 2027: Ballot, Charity Places and Entry"
 description: "Every route into the TCS London Marathon — the ballot, charity places, Good For Age, club and overseas entry — plus what is still open for the two-day 2027 race, and where to watch."
-publishedAt: 2026-08-29
+publishedAt: 2026-06-30
 updatedAt: 2026-09-25
 sites:
   - london

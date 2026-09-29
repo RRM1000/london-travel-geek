@@ -2,7 +2,7 @@
 title: "Brighton and the Seven Sisters: A Day Trip from London"
 seoTitle: "Brighton & Seven Sisters Day Trip from London"
 description: "Brighton is under an hour from Victoria or London Bridge, and the Seven Sisters chalk cliffs are a bus ride on from there. The Pier, the Royal Pavilion, the Lanes and the i360, then Birling Gap by the 12, 12A or 12X — compared against GetYourGuide's escorted day trips."
-publishedAt: 2026-08-13
+publishedAt: 2026-06-19
 reviewBy: 2027-03-28
 sites: [london]
 canonicalSite: london

@@ -8,7 +8,7 @@ heroImageCredit: "Senseiich"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:Excel_London_Summer_2011.jpg"
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
-publishedAt: 2026-08-11
+publishedAt: 2026-06-17
 updatedAt: 2026-09-29
 reviewBy: 2026-10-13
 sites: [london]

@@ -2,7 +2,7 @@
 title: "How to Get to Wembley Stadium and OVO Arena: Parking, Trains and Getting Home"
 seoTitle: "Wembley Stadium & OVO Arena Parking: £3 to £50"
 description: "Wembley Stadium and OVO Arena parking on event days: £50 official car parks, a £130 fine on the street, and car parks a stop out from £3. Plus which station to use and the last trains home."
-publishedAt: 2026-09-10
+publishedAt: 2026-07-10
 updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london

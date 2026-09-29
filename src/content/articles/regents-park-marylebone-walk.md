@@ -4,7 +4,7 @@ seoTitle: "Regent's Park to Marylebone Walking Route + Map"
 description: "A numbered walking route from 221b Baker Street through Regent's Park's rose garden and Nash terraces to Daunt Books, the free Wallace Collection and Bond Street. With what is open on which day."
 heroImage: "../../assets/articles/marylebone-area-guide/sherlock-holmes-museum.jpg"
 heroImageAlt: "The Sherlock Holmes Museum shopfront on Baker Street, with a costumed Victorian policeman standing outside"
-publishedAt: 2026-09-11
+publishedAt: 2026-07-11
 updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london

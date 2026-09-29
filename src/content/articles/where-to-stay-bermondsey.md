@@ -8,7 +8,7 @@ heroImageCredit: "Rob Oo"
 heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=152631540"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
-publishedAt: 2026-09-09
+publishedAt: 2026-07-08
 updatedAt: 2026-09-29
 sites: [london]
 canonicalSite: london

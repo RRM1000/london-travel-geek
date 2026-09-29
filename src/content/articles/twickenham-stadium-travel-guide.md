@@ -8,7 +8,7 @@ heroImageCredit: "August Schwerdfeger"
 heroImageSource: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Twickenham_Stadium_and_Twickenham_Stoop_2016-05-23.jpg
 heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/4.0
-publishedAt: 2026-09-21
+publishedAt: 2026-07-23
 updatedAt: 2026-09-25
 reviewBy: 2027-01-15
 sites: [london]

@@ -4,7 +4,7 @@ seoTitle: "Most Beautiful Pubs in London 2026: Ranked"
 description: "Seventeen sources and CAMRA's register of protected pub interiors. The gin palaces, flower-covered frontages and award-winning restorations the lists agree on, and which ones shut on Sundays."
 heroImage: "../../assets/articles/most-beautiful-pubs-london/churchill-arms-flowers.jpg"
 heroImageAlt: "The Churchill Arms on Kensington Church Street, its whole frontage covered in hanging flower baskets and Union flags, with a crowd drinking outside"
-publishedAt: 2026-09-15
+publishedAt: 2026-07-14
 updatedAt: 2026-09-22
 sites: [london]
 canonicalSite: london

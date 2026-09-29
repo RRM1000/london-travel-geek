@@ -4,7 +4,7 @@ seoTitle: "UK ETA 2026: Cost, Rules and How to Apply"
 description: "Most visa-free visitors to London now need a UK ETA before they travel, not on arrival. Who needs one, who's exempt, what it costs, how long it takes, and how to avoid the lookalike sites that overcharge for it."
 heroImage: "../../assets/articles/london-city-airport/london-city-terminal.jpg"
 heroImageAlt: "Passengers queuing behind barrier stanchions at British Airways check-in desks inside London City Airport, with self-service kiosks and flight information screens overhead"
-publishedAt: 2026-09-10
+publishedAt: 2026-07-09
 updatedAt: 2026-09-19
 sites: [london]
 canonicalSite: london

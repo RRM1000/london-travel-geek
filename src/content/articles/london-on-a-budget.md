@@ -8,7 +8,7 @@ heroImageCredit: "Jon Bennett"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:Arriva_London_Routemaster_bus_RML2752_(SMK_752F),_Cockspur_Street,_route_159,_9_December_2005_uncropped.jpg"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
-publishedAt: 2026-08-27
+publishedAt: 2026-06-27
 updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london

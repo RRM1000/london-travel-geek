@@ -2,7 +2,7 @@
 title: "Day Trips from London: What They Cost and How Long They Take"
 seoTitle: "Day Trips from London: Times, Fares and Costs"
 description: "Windsor, Oxford, Cambridge, Bath, Stonehenge, the Cotswolds and the Harry Potter Studio Tour compared, with real fares, journey times, entry prices and closure days."
-publishedAt: 2026-09-14
+publishedAt: 2026-07-13
 updatedAt: 2026-09-23
 sites: [london]
 canonicalSite: london

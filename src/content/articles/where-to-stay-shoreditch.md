@@ -4,7 +4,7 @@ seoTitle: "Where to Stay in Shoreditch 2026: Best Hotels Compared"
 description: "Shoreditch hotels compared, which streets are loud at 2am, and the areas within fifteen minutes where the same night costs half as much."
 heroImage: "../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-lobby.webp"
 heroImageAlt: "The open lobby at The Hoxton, Shoreditch: a brass ring chandelier over armchairs, an exposed brick fireplace, a herringbone bar under a Hoxton Grill sign, and a red bus passing the window"
-publishedAt: 2026-09-06
+publishedAt: 2026-07-06
 updatedAt: 2026-09-29
 sites: [london]
 canonicalSite: london

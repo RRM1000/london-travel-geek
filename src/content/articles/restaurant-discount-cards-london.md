@@ -2,7 +2,7 @@
 title: "Restaurant Discount Cards in London: Tastecard vs Gourmet Society vs Meerkat Meals vs NeoTaste"
 seoTitle: "Best Restaurant Discount Card London 2026, Compared"
 description: "Every paid restaurant discount card tested against the London list — real prices, the exclusions in the small print, how many restaurants actually take each one in W1, WC2, SE1, E1 and SW1, and which is worth it."
-publishedAt: 2026-09-04
+publishedAt: 2026-07-04
 updatedAt: 2026-09-22
 sites:
   - london

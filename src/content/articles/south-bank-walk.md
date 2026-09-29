@@ -4,7 +4,7 @@ seoTitle: "South Bank Walking Route Map: Big Ben to Tower Bridge"
 description: "A numbered riverside route from the London Eye to Tower Bridge, taking in a free gallery, a free view, a second-hand book market and a legal graffiti tunnel. With the one day of the week not to do it."
 heroImage: "../../assets/articles/south-bank-walk/tower-bridge-from-the-wharf.jpg"
 heroImageAlt: "Tower Bridge seen along the Thames, both towers and the high walkway in full, under a bright sky"
-publishedAt: 2026-09-17
+publishedAt: 2026-07-17
 updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london

@@ -8,7 +8,7 @@ heroImageCredit: "Robert Lamb"
 heroImageSource: https://commons.wikimedia.org/wiki/File:View_of_the_seat_in_the_Italian_Gardens_and_the_Lancaster_Hotel_from_the_Italian_Gardens_in_Hyde_Park_-_geograph.org.uk_-_4687262.jpg
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
-publishedAt: 2026-09-24
+publishedAt: 2026-07-25
 updatedAt: 2026-09-25
 reviewBy: 2027-03-24
 sites: [london]

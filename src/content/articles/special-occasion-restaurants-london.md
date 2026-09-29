@@ -4,7 +4,7 @@ seoTitle: "Special Occasion Restaurants London 2026: Showstoppers"
 description: "All six of London's three-Michelin-star restaurants, the rooms worth booking for the room alone, and which take months rather than weeks."
 heroImage: "../../assets/articles/special-occasion-restaurants-london/rules-exterior.jpg"
 heroImageAlt: "A vintage green Rolls-Royce parked outside Rules restaurant in Covent Garden, beneath red awnings reading Rules, Est 1798"
-publishedAt: 2026-08-24
+publishedAt: 2026-06-25
 updatedAt: 2026-09-25
 sites: [london]
 canonicalSite: london

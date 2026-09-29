@@ -2,7 +2,7 @@
 title: "Step-Free London: Getting Around the City Without Stairs"
 seoTitle: "Step-Free London: Accessible Tube, Buses, Sights"
 description: "Which London stations are step-free, why step-free to the platform is not the same as step-free to the train, how turn up and go works, and what every big attraction says about its own access — sourced to TfL, National Rail and each operator, checked 21 September 2026."
-publishedAt: 2026-09-21
+publishedAt: 2026-07-22
 updatedAt: 2026-09-22
 reviewBy: 2027-01-31
 sites:

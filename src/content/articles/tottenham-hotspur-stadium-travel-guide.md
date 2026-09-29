@@ -4,7 +4,7 @@ seoTitle: "Tottenham Hotspur Stadium Travel 2026: How to Get Home"
 description: "Why there is no stadium car park, which of the four stations to use for a Spurs match, an NFL Sunday or a concert, the £160 penalty for parking on the wrong street, and what a Tottenham Hale hotel really costs on the biggest night of the year."
 heroImage: "../../assets/articles/tottenham-hotspur-stadium-travel-guide/tottenham-hotspur-stadium-exterior.jpg"
 heroImageAlt: "An aerial view of Tottenham Hotspur Stadium's curved glass and steel exterior, its retractable roof open, surrounded by the residential streets of N17"
-publishedAt: 2026-09-17
+publishedAt: 2026-07-18
 updatedAt: 2026-09-21
 sites: [london]
 canonicalSite: london

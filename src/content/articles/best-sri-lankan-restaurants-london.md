@@ -4,7 +4,7 @@ seoTitle: "Best Sri Lankan Restaurants in London 2026, Ranked"
 description: "Not our opinion. Every restaurant here is ranked by how many independent awards, critics and reviewers name it — and Sri Lankan is kept separate from South Indian throughout."
 heroImage: "../../assets/articles/best-sri-lankan-restaurants-london/hoppers-frith-street.jpg"
 heroImageAlt: "The blue-painted shopfront of Hoppers at 49 Frith Street in Soho, with a cream awning and a menu case beside the door"
-publishedAt: 2026-08-05
+publishedAt: 2026-06-11
 reviewBy: 2027-03-22
 sites: [london]
 canonicalSite: london

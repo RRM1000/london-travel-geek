@@ -2,7 +2,7 @@
 title: "BFI London Film Festival 2026: Dates, Tickets and How to Get Them"
 seoTitle: "London Film Festival 2026: 7–18 Oct, Tickets £10"
 description: "The BFI London Film Festival runs 7–18 October 2026 and tickets are on sale now. What has sold out, the extra release at 10am on 1 October, prices from £10, and how to get into a full screening."
-publishedAt: 2026-09-05
+publishedAt: 2026-07-04
 updatedAt: 2026-09-26
 reviewBy: 2026-10-01
 sites:
