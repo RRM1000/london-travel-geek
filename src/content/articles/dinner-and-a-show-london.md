@@ -159,6 +159,8 @@ A small room open **Thursday, Friday and Saturday nights only**, from 6pm to 1am
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="dinner-and-a-show-london-dinner-show-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="dinner show London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Restaurants with a band while you eat
 
 The restaurant comes first here. You book a table as normal, the music is background you can talk over, and it costs little or nothing extra.
@@ -272,6 +274,21 @@ An Austrian restaurant open since 1967, where the owner, Josef Friedmann, has be
 
 These sell a show first. You buy a ticket at a set time, and dinner is either in the ticket or a tier above it.
 
+### 58th Street by The Lost Estate, Peckham
+
+<!-- evidence: 58th Street -->
+*£££ · Peckham · 133 Rye Lane, SE15 · Cited by 4 sources · [book](https://58thstreet.co.uk/reservations/)*
+
+A recreation of Belle Livingstone's 1930s New York speakeasy, three minutes from Peckham Rye station, with **three sets of live jazz** from The 58th Street Stompers, burlesque and a story told around you. It lasts about three hours 45 minutes. **Experience-only tickets are £74.85 and the six-course "Park Avenue" dining tickets from £119.85**, so you can see the whole show without the dinner. Evenings start at 6pm (first course 6.30pm, no admission after 7pm), with matinees from noon.
+
+![A singer in a feathered headdress and beaded 1920s dress performs at a vintage microphone, with diners at lamplit tables behind](../../assets/articles/dinner-and-a-show-london/58th-street.jpg)
+
+The dress code is "1930s luxe" — black, white and metallics — and it is best suited to over-18s. No photography inside, and late arrivals are held until a break. [Our cabaret guide](/articles/best-cabaret-london/) covers The Lost Estate's other productions, including its Christmas feast.
+
+GetYourGuide sells <a href="https://www.getyourguide.com/activity/-t888396?partner_id=WWP7I0R&amp;cmp=dinner-and-a-show-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the dinner show ticket</a> from £120, rated 4.3 from 31 reviews; the calendar below shows which dates have seats.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="888396" data-gyg-locale-code="en-GB" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### The London Cabaret Club, Holborn
 
 *£££ · Holborn · Victoria House, Bloomsbury Square, WC1B · Cited by 7 sources · [book](https://www.thelondoncabaretclub.com/book-tickets/)*
@@ -299,17 +316,6 @@ A Latin American restaurant built around a central stage, where singers, dancers
 A Mayfair brasserie with **live jazz on the brasserie stage Tuesday to Saturday and a burlesque show Thursday to Saturday**, then DJs in the Powder Room from 11pm at weekends. It opens every day from 5.30pm. The food is big-ticket: fried buttermilk chicken with Oscietra caviar at £75, sticky short ribs at £30, an angry lobster pasta with a whole lobster at £80, a 1.2kg dry-aged tomahawk at £165. A 15% service charge is added. **It is 18+**, and dress is "smart elegant". For less, weekday lunch in its tavern is £24 for two courses, without the show.
 
 ![A trumpeter performs on the brasserie stage at The Maine under a large crystal chandelier, with diners at nearby tables](../../assets/articles/dinner-and-a-show-london/the-maine-mayfair.jpg)
-
-### 58th Street by The Lost Estate, Peckham
-
-<!-- evidence: 58th Street -->
-*£££ · Peckham · 133 Rye Lane, SE15 · Cited by 4 sources · [book](https://58thstreet.co.uk/reservations/)*
-
-A recreation of Belle Livingstone's 1930s New York speakeasy, three minutes from Peckham Rye station, with **three sets of live jazz** from The 58th Street Stompers, burlesque and a story told around you. It lasts about three hours 45 minutes. **Experience-only tickets are £74.85 and the six-course "Park Avenue" dining tickets from £119.85**, so you can see the whole show without the dinner. Evenings start at 6pm (first course 6.30pm, no admission after 7pm), with matinees from noon.
-
-![A singer in a feathered headdress and beaded 1920s dress performs at a vintage microphone, with diners at lamplit tables behind](../../assets/articles/dinner-and-a-show-london/58th-street.jpg)
-
-The dress code is "1930s luxe" — black, white and metallics — and it is best suited to over-18s. No photography inside, and late arrivals are held until a break. [Our cabaret guide](/articles/best-cabaret-london/) covers The Lost Estate's other productions, including its Christmas feast.
 
 ### Cabaret at the Kit Kat Club, Embankment
 
@@ -341,14 +347,6 @@ Basil, Sybil and Manuel serve you a three-course set menu in a Bloomsbury hotel 
 
 ![Manuel, in a white waiter's jacket, walks between diners at numbered tables in a hotel function room, with Sybil and Basil behind](../../assets/articles/dinner-and-a-show-london/faulty-towers.jpg)
 
-### Mamma Mia! The Party, North Greenwich
-
-*£££ · North Greenwich · The O2 · Cited by 3 sources · [book](https://mammamiatheparty.com/london/tickets/)*
-
-A Greek taverna set inside The O2, where a Sandi Toksvig story plays out around, above and below the tables over a four-course Greek sharing menu — mezze, lamb stifado and slow-cooked beef, a dessert plate with baklava and orange ravani — and then the room becomes an ABBA disco. It lasts about four hours. **Tier C, with a view restricted by pillars, is £120 off-peak and £154 peak; Tier A is £213 to £246.** Drinks are extra, tables are pre-allocated and you may share with strangers. Minimum age 5. Tickets are on sale to April 2027.
-
-![Looking down on the Greek taverna set of Mamma Mia! The Party, with diners at long tables, balconies and a fountain](../../assets/articles/dinner-and-a-show-london/mamma-mia-the-party.jpg)
-
 ### The Murdér Express, Bethnal Green
 
 *££ · Bethnal Green · Arch 63, Pedley Street, E1 · Cited by 2 sources · [its site](https://themurderexpress.com/bethnalgreen/)*
@@ -372,6 +370,18 @@ A projection, not a performer: an animated chef six centimetres tall cooks each 
 A film on screen and a multi-course menu cooked to match it, course by course, as the scenes arrive: burgers, shakes and "an adrenaline shot" for *Pulp Fiction* at £87.50 for five courses, or six courses for *The Nightmare Before Christmas*, *Sinners* or *The Fellowship of the Ring* at £99.95. It runs at Parlour, Jesse Dunford Wood's gastropub in Kensal Green, and at The Refinery Citypoint opposite Moorgate station. There is no live cast. *Pulp Fiction* carries its film's 18 rating.
 
 ![A table laid with themed cocktails and a starter in front of the screen during a Taste Film dinner](../../assets/articles/dinner-and-a-show-london/taste-film.jpg)
+
+### Mamma Mia! The Party, North Greenwich
+
+*£££ · North Greenwich · The O2 · Cited by 3 sources · [book](https://mammamiatheparty.com/london/tickets/)*
+
+A Greek taverna set inside The O2, where a Sandi Toksvig story plays out around, above and below the tables over a four-course Greek sharing menu — mezze, lamb stifado and slow-cooked beef, a dessert plate with baklava and orange ravani — and then the room becomes an ABBA disco. It lasts about four hours. **Tier C, with a view restricted by pillars, is £120 off-peak and £154 peak; Tier A is £213 to £246.** Drinks are extra, tables are pre-allocated and you may share with strangers. Minimum age 5. Tickets are on sale to April 2027.
+
+![Looking down on the Greek taverna set of Mamma Mia! The Party, with diners at long tables, balconies and a fountain](../../assets/articles/dinner-and-a-show-london/mamma-mia-the-party.jpg)
+
+GetYourGuide sells <a href="https://www.getyourguide.com/activity/-t1064445?partner_id=WWP7I0R&amp;cmp=dinner-and-a-show-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the same dinner show ticket</a> from £120, rated 4.7 from 148 reviews; the calendar below shows which dates have seats.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="1064445" data-gyg-locale-code="en-GB" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ### Comedy with dinner
 
@@ -450,6 +460,8 @@ A bar and restaurant inside a Grade II-listed former church, which is why some l
 City Cruises runs the Thames dinner sailings from Westminster Pier. Its **dinner cruise** sails nightly at 7.45pm for three hours, three British courses with live singers and dancing, from £99 in late September 2026; a VIP upgrade adds Champagne, front seats, canapés and a cheeseboard. Its **jazz dinner cruise** puts a jazz band on the same route over three courses, at £119 on the one date on sale, 2 October 2026. The **murder mystery dinner cruise**, with actors running a whodunnit at your table, leaves from **Tower Millennium Pier, not Westminster**, and has one date on sale, 31 October. All three are for ages 13 and over.
 
 GetYourGuide sells a <a href="https://www.getyourguide.com/activity/-t5275?partner_id=WWP7I0R&amp;cmp=dinner-and-a-show-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">three-hour Thames dinner cruise with a live performance and dancing</a> from £81. [Our Thames cruises guide](/articles/thames-river-cruises-london/) compares every sailing, including the cheaper lunch cruise that passes the same landmarks.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="5275" data-gyg-locale-code="en-GB" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---
 

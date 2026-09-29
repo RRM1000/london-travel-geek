@@ -751,6 +751,10 @@
    "adjacent": "pick:london-classics",
    "slot3": "London Eye tickets"
   },
+  "dinner-and-a-show-london": {
+   "slot1": "dinner show London",
+   "adjacent": "pick:london-classics"
+  },
   "best-cabaret-london": {
    "slot1": "pick:london-classics",
    "adjacent": "pick:walking-tours",
