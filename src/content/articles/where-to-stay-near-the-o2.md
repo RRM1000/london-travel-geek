@@ -145,7 +145,7 @@ Stratford is the Jubilee's eastern terminus, three stops and seven to nine minut
 
 ### Greenwich town: the historic base, and bus only
 
-There is no train between Greenwich and North Greenwich. The **188** and **129** buses take 11 to 25 minutes, 22 to 42 minutes door to door, and the 188 runs 24 hours a day, so a late finish never strands you. What you get for the slower trip is the Cutty Sark, the Royal Observatory and the park on your doorstep; see our [Greenwich area guide](/articles/greenwich-area-guide/).
+There is no train between Greenwich and North Greenwich. The **188** and **129** buses take 11 to 25 minutes, 22 to 42 minutes door to door, and the 188 runs 24 hours a day, so a late finish never strands you. What you get for the slower trip is the Cutty Sark, the Royal Observatory and the park on your doorstep; see our [Greenwich area guide](/articles/greenwich-area-guide/), and our guide to [where to stay in Greenwich](/articles/where-to-stay-greenwich/) for the rest of the town's hotels.
 
 **[DoubleTree by Hilton London Greenwich](hotel:doubletree-greenwich)** is about **£160**, by Deptford Bridge DLR at SE10 8FR, fifteen minutes' walk from the Cutty Sark, the Old Royal Naval College and the National Maritime Museum. The 129 stop on Greenwich South Street is eight minutes away; allow 30 to 40 minutes to The O2.
 

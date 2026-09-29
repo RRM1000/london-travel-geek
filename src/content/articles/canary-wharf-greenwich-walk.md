@@ -244,7 +244,8 @@ Start around 10am and you reach the market for lunch and the hill in the late af
 
 ## What to do with the rest of the day
 
-- **[The Greenwich area guide](/articles/greenwich-area-guide/)** — the O2, the river boats and where to stay.
+- **[The Greenwich area guide](/articles/greenwich-area-guide/)** — the O2, the river boats and where to eat.
+- **[Where to stay in Greenwich](/articles/where-to-stay-greenwich/)** — hotels by the Cutty Sark, in Blackheath and at Deptford Bridge, for a night at the walk's end.
 - **[The Canary Wharf area guide](/articles/canary-wharf-area-guide/)** — swimming, Eden Dock and Winter Lights.
 - **[Walks along the Thames](/articles/london-walks-along-the-thames/)** — more river stretches, including Rotherhithe to Greenwich.
 - **[Free things to do in London](/free/)** — eight of these eleven stops cost nothing.

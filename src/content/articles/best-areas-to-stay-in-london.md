@@ -270,7 +270,7 @@ A maritime village with the Cutty Sark, the Old Royal Naval College, the Nationa
 
 **Evenings in town are the awkward part.** The DLR stops overnight and so does Greenwich's mainline station, so a late night in the West End means a night bus back or a taxi; North Greenwich keeps a Jubilee night service but that is the O2, a bus ride from the historic quarter. If your days are here that is a small cost. If your evenings are all in town, base yourself in town.
 
-**[Zedwell Greenwich](hotel:zedwell-greenwich)** is £66 to £145 for a windowless Cocoon 2, and it is the steadiest-priced Zedwell — early check-in costs £25 here against £60 in the West End. **[DoubleTree Greenwich](hotel:doubletree-greenwich)** is about £160 and, unlike the Peninsula hotels, is a fifteen-minute walk from all three of the big sights. For a show at The O2, our [O2 hotel guide](/articles/where-to-stay-near-the-o2/) compares the bases by train time.
+**[Zedwell Greenwich](hotel:zedwell-greenwich)** is £66 to £145 for a windowless Cocoon 2, and it is the steadiest-priced Zedwell — early check-in costs £25 here against £60 in the West End. **[DoubleTree Greenwich](hotel:doubletree-greenwich)** is about £160 and, unlike the Peninsula hotels, is a fifteen-minute walk from all three of the big sights. Our full [Greenwich hotel guide](/articles/where-to-stay-greenwich/) compares the town centre, Blackheath and Deptford Bridge, and the night buses back. For a show at The O2, our [O2 hotel guide](/articles/where-to-stay-near-the-o2/) compares the bases by train time.
 
 ---
 

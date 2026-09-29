@@ -3,7 +3,7 @@ title: "Greenwich Area Guide: The Observatory, Cutty Sark and North Greenwich"
 seoTitle: "Greenwich Guide: Royal Observatory, Cutty Sark & the O2"
 description: "A complete Greenwich guide: the Prime Meridian, the Painted Hall, Greenwich Market days, getting there by river — and why Greenwich and North Greenwich are not the same place."
 publishedAt: 2026-08-10
-updatedAt: 2026-09-27
+updatedAt: 2026-09-29
 sites:
   - london
 canonicalSite: london
@@ -218,7 +218,7 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 
 **By DLR.** **Cutty Sark** station is the one you want — it is in the middle of the town centre. Greenwich station is a little further out.
 
-**For the O2.** **North Greenwich** on the Jubilee line, not Greenwich. Roughly 15 minutes from Waterloo.
+**For the O2.** **North Greenwich** on the Jubilee line, not Greenwich. 10 to 12 minutes from Waterloo.
 
 **On foot.** Through the **Greenwich Foot Tunnel** to Island Gardens and the DLR for Canary Wharf.
 
@@ -264,8 +264,12 @@ Our full route into this area from the north: **eleven numbered stops** over abo
 
 ## Where to stay
 
-A pleasant, village-like base if you do not need to be central every day, and much cheaper than Zone 1.
+A base for a trip where the park and the river matter more than being in the West End every evening.
 
-- **Greenwich town centre** — Small hotels and inns near the market. Quiet and walkable.
-- **North Greenwich** — Modern hotels by the O2, on the Jubilee line and 15 minutes from Waterloo.
-- **Canary Wharf** — Twenty minutes north, with the Elizabeth line into central London in six minutes.
+- **Greenwich town centre** — Rooms above pubs by the market, and chain hotels and apartments along Greenwich High Road. Cutty Sark DLR is in the middle; Greenwich station, with trains to London Bridge in about ten minutes, is at the west end.
+- **Blackheath** — A village on the heath beyond the park, with its own station and trains to London Bridge and Charing Cross. The Observatory is about 20 minutes' walk across the heath.
+- **Deptford Bridge** — West of Greenwich station on the DLR, 15 to 20 minutes' walk from the Cutty Sark.
+- **North Greenwich** — The peninsula by the O2, on the Jubilee line, 10 to 12 minutes from Waterloo, and a bus ride from the sights.
+- **Canary Wharf** — Across the river, ten minutes from Cutty Sark on the DLR, with the Elizabeth line to Liverpool Street in seven.
+
+**[Where to stay in Greenwich →](/articles/where-to-stay-greenwich/)** compares the hotels in each part, which station each is nearest, and the night buses home once the DLR has stopped.
