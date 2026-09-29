@@ -4,7 +4,7 @@ seoTitle: "Wapping Riverside Pub Walk to Canary Wharf + Map"
 description: "A riverside pub walk from Wapping to Canary Wharf in eleven numbered stops, built around the Town of Ramsgate, the Captain Kidd, the Prospect of Whitby and The Grapes. With opening hours, kitchen times, who takes bookings and a map."
 heroImage: "../../assets/articles/wapping-canary-wharf-walk/spirit-quay.jpg"
 heroImageAlt: "Gabled yellow-brick houses along the Ornamental Canal at Spirit Quay, red ivy on the end wall and the terrace reflected in still water"
-publishedAt: 2026-09-10
+publishedAt: 2026-07-30
 updatedAt: 2026-09-19
 sites: [london]
 canonicalSite: london

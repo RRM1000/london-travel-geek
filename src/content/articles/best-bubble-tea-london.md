@@ -4,7 +4,7 @@ seoTitle: "Best Bubble Tea in London 2026, Ranked"
 description: "The bubble tea shops London's lists, blogs and boba reviewers agree on, checked for what's actually open. Several of the most-recommended names have closed."
 heroImage: "../../assets/articles/best-bubble-tea-london/happy-lemon-newport-court.jpg"
 heroImageAlt: "Happy Lemon's bright yellow shopfront at 24A Newport Court, with Bubble Tea, Fresh Fruit Tea and Rock Salt Cheese painted along the fascia"
-publishedAt: 2026-09-20
+publishedAt: 2026-08-04
 updatedAt: 2026-09-24
 sites: [london]
 canonicalSite: london

@@ -2,7 +2,7 @@
 title: "London Music Festivals 2027: Dates, Line-ups and Getting There"
 seoTitle: "London Music Festivals 2027: Dates, Line-ups, Tickets"
 description: "London's music festivals for 2027, from Brockwell Park to Hyde Park and Victoria Park, and the ones a train ride away: the dates already set, when the rest ran in 2026, who headlined, what tickets cost, the age rules and how to get home."
-publishedAt: 2026-09-23
+publishedAt: 2026-08-06
 reviewBy: 2027-01-31
 sites: [london]
 canonicalSite: london

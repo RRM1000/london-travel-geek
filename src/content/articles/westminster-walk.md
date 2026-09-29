@@ -8,7 +8,7 @@ heroImageCredit: "Txllxt TxllxT"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Albert_Embankment_path_-_Lambeth_Palace_Road_-_South_Bank_-_Jubilee_Walkway_-_View_NNW_towards_Houses_of_Parliament,_Westminster_Bridge_%26_London_Eye.jpg"
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
-publishedAt: 2026-09-12
+publishedAt: 2026-07-31
 updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london

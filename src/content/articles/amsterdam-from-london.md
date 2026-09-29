@@ -2,7 +2,7 @@
 title: "Amsterdam from London by Eurostar: The Train, the Fares and a Day or a Weekend"
 seoTitle: "Amsterdam Day Trip from London: Eurostar Fares & Times"
 description: "St Pancras to Amsterdam Centraal is about four hours direct on Eurostar, from £39 one-way in Standard. Arrive 75-90 minutes early at both ends for UK and EU border checks, and the honest verdict is a squeeze as a day trip — one or two nights lets the canal ring and the Rijksmuseum breathe."
-publishedAt: 2026-09-27
+publishedAt: 2026-08-09
 updatedAt: 2026-09-28
 reviewBy: 2026-10-27
 sites: [london]

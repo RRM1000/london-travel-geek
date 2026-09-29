@@ -2,7 +2,7 @@
 title: "Hampton Court Palace: Tickets, Prices and How to Get There"
 seoTitle: "Hampton Court Palace 2026: Tickets, Prices & Hours"
 description: "Historic Royal Palaces' own 2026 prices for Hampton Court: adult tickets from £29 off-peak to £36 over Christmas, the train from Waterloo in 35 minutes, and what's included — the maze, the Tudor Kitchens and the Great Vine."
-publishedAt: 2026-09-28
+publishedAt: 2026-08-14
 reviewBy: 2027-01-04
 sites:
   - london

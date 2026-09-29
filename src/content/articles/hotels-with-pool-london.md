@@ -2,7 +2,7 @@
 title: "London Hotels With a Pool You Can Actually Use: Rooftop, Family and Spa Pools"
 seoTitle: "London Hotels With a Pool: Rooftop, Family & Spa"
 description: "London hotels with a swimming pool, checked against each hotel's own rules: the length, indoor or rooftop, whether guests swim free, the children's hours and the adults-only limits. Plus the famous 'pools' that are only vitality pools."
-publishedAt: 2026-09-29
+publishedAt: 2026-08-15
 updatedAt: 2026-09-29
 reviewBy: 2027-03-29
 sites: [london]

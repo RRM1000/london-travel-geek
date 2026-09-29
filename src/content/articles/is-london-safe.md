@@ -2,7 +2,7 @@
 title: "Is London Safe? Crime Data, Common Scams and Who to Call for Help"
 seoTitle: "Is London Safe for Tourists? Crime, Scams and Help"
 description: "The Metropolitan Police's own crime trend, what the US and Canadian governments' travel advice says, where phone theft actually concentrates, the scams aimed at visitors, and exactly who to call — sourced and dated throughout."
-publishedAt: 2026-09-18
+publishedAt: 2026-08-03
 updatedAt: 2026-09-19
 reviewBy: 2026-10-31
 sites:

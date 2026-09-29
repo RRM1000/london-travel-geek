@@ -8,7 +8,7 @@ heroImageCredit: "Acabashi"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:West_India_Quay_cranes_Marriott_Hotel_Canary_Wharf.jpg"
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
-publishedAt: 2026-09-25
+publishedAt: 2026-08-07
 updatedAt: 2026-09-27
 reviewBy: 2027-03-25
 sites: [london]

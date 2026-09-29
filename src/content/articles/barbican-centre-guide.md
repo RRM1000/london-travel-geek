@@ -2,7 +2,7 @@
 title: "What's On at the Barbican: Concerts, Theatre, Film and How to Visit"
 seoTitle: "What's On at the Barbican: Tickets, Food, Getting There"
 description: "Every upcoming concert, play, film event and talk at the Barbican, updated daily, plus the £4 booking fee you avoid by buying at the desk, the £6 tickets for 16 to 29s, the bag rule, and where to eat before a show."
-publishedAt: 2026-09-22
+publishedAt: 2026-08-05
 updatedAt: 2026-09-23
 reviewBy: 2027-03-01
 heroImage: "../../assets/articles/barbican-centre-guide/barbican-lakeside-terrace.jpg"

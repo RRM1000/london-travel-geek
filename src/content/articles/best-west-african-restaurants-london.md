@@ -4,7 +4,7 @@ seoTitle: "Best West African Restaurants London 2026, Ranked"
 description: "Michelin's African selection for London is three restaurants and all three hold a distinction — plus the Peckham stalls the magazines miss. Nigerian, Ghanaian, Ivorian and Senegambian, sorted by country."
 heroImage: "../../assets/articles/best-west-african-restaurants-london/chishuru-dining-room.jpg"
 heroImageAlt: "The dining room at Chishuru: green leather chairs at pale timber tables, a faceted wooden bar front, and glasses hanging above the open pass"
-publishedAt: 2026-09-22
+publishedAt: 2026-08-05
 reviewBy: 2027-03-31
 sites: [london]
 canonicalSite: london

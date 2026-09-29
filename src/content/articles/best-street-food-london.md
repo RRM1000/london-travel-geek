@@ -2,7 +2,7 @@
 title: "The Best Street Food in London: Every Market and Food Hall Compared"
 seoTitle: "Best Street Food in London 2026: Markets & Food Halls"
 description: "Every multi-trader street food venue in London compared on traders, variety, seating, vibe — and, most usefully, which days it actually exists."
-publishedAt: 2026-08-31
+publishedAt: 2026-07-28
 updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london

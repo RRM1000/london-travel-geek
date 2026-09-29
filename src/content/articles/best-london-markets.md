@@ -4,7 +4,7 @@ seoTitle: "Best Markets in London 2026: Food, Flowers & Antiques"
 description: "A banana-ripening warehouse full of food traders, a flower market that only exists on Sundays, and a fish market trading before dawn — London's markets by what they sell."
 heroImage: "../../assets/articles/best-london-markets/canopy-market-kings-cross.jpg"
 heroImageAlt: "Traders and long picnic benches under the glass roof of Canopy Market in King's Cross"
-publishedAt: 2026-08-30
+publishedAt: 2026-07-28
 updatedAt: 2026-09-27
 sites: [london]
 canonicalSite: london

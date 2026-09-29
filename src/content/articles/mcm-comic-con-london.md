@@ -8,7 +8,7 @@ heroImageCredit: "big-ashb"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:London_Comic_Con_Oct_14_crowds_(15006883483).jpg"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
-publishedAt: 2026-09-27
+publishedAt: 2026-08-12
 updatedAt: 2026-09-29
 reviewBy: 2026-10-22
 sites: [london]
