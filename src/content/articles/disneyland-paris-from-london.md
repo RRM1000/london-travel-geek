@@ -2,6 +2,12 @@
 title: "Disneyland Paris from London: The Train, the Cost and Whether a Day Trip Works"
 seoTitle: "Disneyland Paris from London: Train, Cost and Times"
 description: "There is no direct train from London to Disneyland Paris. Eurostar to Gare du Nord plus the RER gets you to the gates by about 10:30 for roughly £103 return in Standard; the single Eurostar ticket via Lille costs about £200 and arrives after noon."
+heroImage: "../../assets/articles/disneyland-paris-from-london/eurostar-st-pancras.jpg"
+heroImageAlt: "A blue and yellow Eurostar e320 at a platform of St Pancras International, under the station's arched iron-and-glass roof"
+heroImageCredit: "Bailey Amiss"
+heroImageSource: https://commons.wikimedia.org/wiki/File:374008_at_St_Pancras_2026-06-11.jpg
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0/
 publishedAt: 2026-09-30
 updatedAt: 2026-09-30
 reviewBy: 2026-10-28
@@ -46,11 +52,19 @@ Coming back on the same date there were six departures from Chessy, from 08:58 t
 
 At Lille Europe, platforms are normally shown 20 minutes before departure and the TGV doors close 2 minutes before it leaves. If you miss the connection, Eurostar says you can take the next available train at no extra cost.
 
+![A blue and yellow Eurostar e320 at a platform of St Pancras International, under the station's arched iron-and-glass roof](../../assets/articles/disneyland-paris-from-london/eurostar-st-pancras.jpg)
+
+*A Eurostar at St Pancras. Photo: Bailey Amiss, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:374008_at_St_Pancras_2026-06-11.jpg).*
+
 **Route 2: Eurostar to Paris, then the RER.** Take a direct Eurostar to Gare du Nord (2h28 or 2h29; [the Paris guide](/articles/paris-day-trip/) has the check-in rules and how fares climb towards the day). [Disneyland Paris's directions](https://www.disneylandparis.com/en-gb/guest-services/how-to-get-to-disneyland-paris) from Gare du Nord are the RER B to Châtelet–Les Halles, then the RER A to Marne-la-Vallée–Chessy, about an hour in total. The fare is a €2.55 Ticket Métro-Train-RER, valid across Île-de-France (Île-de-France Mobilités, 30 September), on your phone or a Navigo Easy pass, and a change between RER lines within two hours needs no second ticket.
 
 The Eurostar fares are the difference. The lowest Standard fare on Tuesday 10 November was £53 to Paris and £49.50 coming back. Across November the lowest outbound fare ran from £53 to £180 and the inbound from £49.50 to £115.50; across October the outbound ran from £90 to £264, the top on 24 and 25 October. These are the lowest seats of each day, not necessarily the train you want at the hour you want.
 
 At Chessy the station is a 2-minute walk from the gates of Disneyland Park, Disney Adventure World and Disney Village, and a free shuttle links it with the Disney hotels.
+
+![The glass-fronted entrance of Marne-la-Vallée–Chessy station, flanked by two pink round towers with grey conical roofs, with a clock above the doors and a paved square in front](../../assets/articles/disneyland-paris-from-london/marne-la-vallee-chessy-station.jpg)
+
+*Marne-la-Vallée–Chessy station. Photo: Sneeuwvlakte, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gare_de_Marne-la-Vall%C3%A9e_-_Chessy_(2026-08-02)-14.jpg).*
 
 ## Tickets, or a package instead
 
@@ -101,6 +115,10 @@ Visits that include 14 July, 31 October or 31 December cost more. Children under
 ## Staying the night
 
 Disney's hotels stand within a walk of the parks, and a free shuttle runs every 15 to 20 minutes from 06:30 to 23:45, until 1:00 in summer. Guests get Extra Magic Time, entry before the official opening, and need no advance date registration. You can check in any time on the day you arrive and leave bags until the room is ready from 3pm; check-out is before 11:00. Disney's partner hotels are 10 to 20 minutes from the parks by the same free shuttle.
+
+![The pink Disneyland Hotel with its red roofs and clock tower seen from a paved approach lined with green lamp posts, with visitors walking towards it](../../assets/articles/disneyland-paris-from-london/disneyland-hotel.jpg)
+
+*The Disneyland Hotel, at the park entrance. Photo: flightlog, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Disneyland_Park_05,_Paris_22_August_2013.jpg).*
 
 - **[Disneyland Hotel](hotelscom:230008)** — a five-star hotel at the entrance to Disneyland Park.
 - **[Disney Hotel New York – The Art of Marvel](hotelscom:230033)** — a 10-minute walk from the parks, or 8 minutes on the shuttle.
