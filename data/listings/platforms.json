@@ -7600,7 +7600,7 @@
   "platforms": [
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-w24939465": {
   "name": "The Scoop",
