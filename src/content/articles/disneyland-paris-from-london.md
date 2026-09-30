@@ -116,10 +116,6 @@ Visits that include 14 July, 31 October or 31 December cost more. Children under
 
 Disney's hotels stand within a walk of the parks, and a free shuttle runs every 15 to 20 minutes from 06:30 to 23:45, until 1:00 in summer. Guests get Extra Magic Time, entry before the official opening, and need no advance date registration. You can check in any time on the day you arrive and leave bags until the room is ready from 3pm; check-out is before 11:00. Disney's partner hotels are 10 to 20 minutes from the parks by the same free shuttle.
 
-![The pink Disneyland Hotel with its red roofs and clock tower seen from a paved approach lined with green lamp posts, with visitors walking towards it](../../assets/articles/disneyland-paris-from-london/disneyland-hotel.jpg)
-
-*The Disneyland Hotel, at the park entrance. Photo: flightlog, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Disneyland_Park_05,_Paris_22_August_2013.jpg).*
-
 - **[Disneyland Hotel](hotelscom:230008)** — a five-star hotel at the entrance to Disneyland Park.
 - **[Disney Hotel New York – The Art of Marvel](hotelscom:230033)** — a 10-minute walk from the parks, or 8 minutes on the shuttle.
 - **[Disney Newport Bay Club](hotelscom:230007)** — a 1900s-style coastal mansion beside Lake Disney, a 15-minute walk from the parks.
