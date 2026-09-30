@@ -29,6 +29,32 @@
     "The View from The Shard"
    ]
   },
+  "disneyland-paris": {
+   "for": "Pages about getting to and visiting Disneyland Paris. The 1-day ticket (395320) sits in the availability widget on the page itself, so it is left out here.",
+   "tourIds": [
+    "395319",
+    "30359",
+    "1400969"
+   ],
+   "titles": [
+    "Disneyland Paris 2/3/4-day ticket",
+    "Disneyland Paris tickets and shuttle transport",
+    "Disneyland Paris 1-day 2-park ticket with Premier Access"
+   ]
+  },
+  "paris-from-london": {
+   "for": "Pages about a Eurostar trip from London to France, for readers who would rather have the day arranged.",
+   "tourIds": [
+    "11108",
+    "145272",
+    "10978"
+   ],
+   "titles": [
+    "Paris day trip with lunch on the Eiffel Tower, Eurostar included",
+    "Welcome to Paris day trip from London via train",
+    "Paris, Louvre, Notre Dame, Eiffel Tower and lunch from London"
+   ]
+  },
   "family-favourites": {
    "for": "Pages read by someone travelling with children.",
    "tourIds": [
@@ -240,6 +266,9 @@
  },
  "howPicksWork": "A slot may be \"pick:<name>\" instead of a search string, which pins the widget to those exact activity ids via data-gyg-tour-ids. Use a pick where the search returns the wrong thing. A probe of all 159 queries on 4 September 2026 (data/gyg-query-probe.json) found 49 where no result was on the subject, several returning other countries entirely - Auckland for a Thames cruise, Venice for the Natural History Museum, Sonoma for Kenwood House. Re-run scripts/probe-gyg-queries.mjs before trusting any query you add. 19 September 2026: every pool entry is now a pick rather than a search, because a search returns three versions of one product - three Stonehenge coach trips, three London Eye tickets - and Rob asked for each widget to offer three different things.",
  "anchors": {
+  "paris-eurostar": [
+   "pick:paris-from-london"
+  ],
   "central": [
    "pick:london-classics",
    "pick:museums-and-history",
@@ -848,6 +877,11 @@
   "best-gastropubs-london": {
    "slot1": "pick:food-tours",
    "adjacent": "pick:walking-tours"
+  },
+  "disneyland-paris-from-london": {
+   "slot1": "pick:disneyland-paris",
+   "anchorGroup": "paris-eurostar",
+   "adjacent": "pick:day-trips"
   },
   "most-beautiful-pubs-london": {
    "slot1": "London historic pub tour",

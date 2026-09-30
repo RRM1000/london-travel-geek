@@ -163,6 +163,8 @@ Given the real hours available, pick one of these rather than trying to string a
 
 *The Sacré-Cœur, Montmartre.*
 
+Going with children? [Disneyland Paris](/articles/disneyland-paris-from-london/) is about an hour from Gare du Nord on the RER B and A, and the guide there works out what the day costs and how many hours it leaves you.
+
 Prefer someone else to handle the tickets, the coach transfers in Paris and the Eurostar booking? The escorted day trip linked at the top of this guide covers a panoramic coach tour, lunch at the Eiffel Tower's Madame Brasserie, a Seine cruise and entry to the tower itself, with round-trip Eurostar included — useful if you'd rather not plan the logistics above yourself.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -196,5 +198,6 @@ All prices and times checked 14 September 2026.
 - 🏰 **[Windsor from London](/articles/windsor-day-trip/)** — the shortest big day out, if a full day abroad isn't what you're after.
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless and capping work on the London end of the trip.
 - 🇧🇪 **[Brussels day trip](/articles/brussels-day-trip/)** — a shorter Eurostar than this one, and more hours in the city for the same early start.
+- 🎢 **[Disneyland Paris from London](/articles/disneyland-paris-from-london/)** — the RER B and A from Gare du Nord, the through ticket via Lille, and whether a day works.
 - 🍫 **[Bruges from London](/articles/bruges-day-trip/)** — another Eurostar day trip, with a change at Brussels-Midi onto a separate Belgian train.
 - 🇳🇱 **[Amsterdam from London](/articles/amsterdam-from-london/)** — a longer Eurostar than this one, and the guide that makes the case for a night over a day trip.

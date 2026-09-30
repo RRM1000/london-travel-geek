@@ -201,6 +201,7 @@ All prices and times checked 27 September 2026.
 
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.
 - 🇫🇷 **[Paris day trip](/articles/paris-day-trip/)** — the other Eurostar day trip here, and how the fares and the hours compare.
+- 🎢 **[Disneyland Paris from London](/articles/disneyland-paris-from-london/)** — a Eurostar day trip with a theme park at the end, and the two routes there.
 - 🇧🇪 **[Bruges day trip](/articles/bruges-day-trip/)** — the onward Belgian train from Brussels-Midi, as its own day out from London.
 - 🇳🇱 **[Amsterdam from London](/articles/amsterdam-from-london/)** — the same train carries on to Rotterdam and Amsterdam, better as a night away than a day.
 - 🛏️ **[Where to stay near King's Cross](/articles/where-to-stay-kings-cross/)** — for a hotel within walking distance of St Pancras before an early train.

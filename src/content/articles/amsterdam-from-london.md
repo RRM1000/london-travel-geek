@@ -170,6 +170,7 @@ All prices and times checked 27 September 2026.
 
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — how Amsterdam compares with Paris, Bruges and the rest for time and cost.
 - 🇫🇷 **[Paris day trip](/articles/paris-day-trip/)** — the shorter Eurostar day trip, and how the border process and the hours compare.
+- 🎢 **[Disneyland Paris from London](/articles/disneyland-paris-from-london/)** — another Eurostar destination, and whether a day or a night suits it.
 - 🍫 **[Bruges from London](/articles/bruges-day-trip/)** — a Eurostar to Brussels plus a separate Belgian train, and how that maths compares.
 - 🇧🇪 **[Brussels from London](/articles/brussels-day-trip/)** — the shortest of the Eurostar trips, if a full day abroad isn't what you're after.
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **[Edinburgh from London](/articles/edinburgh-day-trip/)** — a different train, the same verdict: the round trip eats 8 to 9 hours, and a night in the Old Town beats a same-day return.

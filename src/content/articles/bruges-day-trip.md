@@ -189,6 +189,7 @@ All prices and times checked 27 September 2026.
 ## Continue planning your trip
 
 - 🇫🇷 **[Paris day trip](/articles/paris-day-trip/)** — the other Eurostar day trip from London, and how the border process and the hours compare.
+- 🎢 **[Disneyland Paris from London](/articles/disneyland-paris-from-london/)** — the Eurostar to a theme park, by way of Paris or Lille.
 - 🇧🇪 **[Brussels day trip](/articles/brussels-day-trip/)** — if the extra Belgian train is one leg too many, Brussels itself is two hours from St Pancras.
 - 🇳🇱 **[Amsterdam from London](/articles/amsterdam-from-london/)** — the direct Eurostar via Brussels and Rotterdam, better as a night away than a day.
 - 🚂 **[St Pancras hotels: where to stay in King's Cross](/articles/where-to-stay-kings-cross/)** — for the earliest trains, when checking in the night before beats a 5am alarm.
