@@ -96,6 +96,10 @@ Book as far ahead as the window allows, which in practice means months rather th
 
 *£££ · Marylebone · 8 min from Bond Street · book weeks ahead · Cited by 9 sources · 1 Michelin star*
 
+![Butter pepper garlic soft-shell crab served with coconut crab salad and chilli chutney on blue patterned china at Trishna](../../assets/articles/best-indian-restaurants-london/trishna.jpg)
+
+*Soft-shell crab at Trishna.*
+
 **Michelin-starred cooking from India's south-west coast**, and the most-cited Indian restaurant in London across every guide read for this page — the Konkan and Kerala coastline rather than the Punjabi repertoire that shaped British Indian food.
 
 Seafood is the whole proposition. The **hariyali bream** is the signature — whole fish in a green herb marinade — and the **butter pepper garlic crab** is the dish regulars order before looking at the menu. Coastal spicing: coconut, curry leaf, tamarind, and far less cream than a curry house.
@@ -105,6 +109,10 @@ Seafood is the whole proposition. The **hariyali bream** is the signature — wh
 ### Jamavar, Mayfair
 
 *££££ · Mayfair · 8 min from Bond Street · book weeks ahead · Cited by 9 sources · 1 Michelin star · London Icon 2025*
+
+![The dining room at Jamavar in Mayfair with dark leather banquettes, marble columns, cane-backed chairs and framed Indian artwork](../../assets/articles/best-indian-restaurants-london/jamavar.jpg)
+
+*The dining room at Jamavar.*
 
 **Named for the handwoven Kashmiri shawl**, and cooking across the whole subcontinent rather than one region of it — which is unusual at this level, where most kitchens pick a coastline and stay there.
 
@@ -133,6 +141,10 @@ The **dum biryani** is the signature: rice and meat sealed under a pastry lid an
 
 *££££ · Mayfair · 4 min from Green Park · book weeks ahead · Cited by 5 sources · 1 Michelin star · London Icon 2025*
 
+![The dining room at Benares on Berkeley Square with white linen tables, leather armchairs and soft lamplight](../../assets/articles/best-indian-restaurants-london/benares.jpg)
+
+*The dining room at Benares.*
+
 **Named Best Fine Dining Restaurant in London at the Asian Curry Awards**, and a Berkeley Square fixture for two decades — the room Atul Kochhar built and the one that won London's first Michelin star for Indian cooking.
 
 Modern Indian in the fine-dining sense: British produce through Indian technique, a **tasting menu** that changes seasonally, and a bar that is a destination in itself. Less regional than Trishna, more composed than a curry house.
@@ -143,6 +155,10 @@ Modern Indian in the fine-dining sense: British produce through Indian technique
 
 *££££ · Knightsbridge · 6 min from Knightsbridge · Cited by 4 sources · 1 Michelin star*
 
+![The dining room at Amaya in Belgravia with red polished tables and terracotta sculpture looking toward the open grill kitchen](../../assets/articles/best-indian-restaurants-london/amaya.jpg)
+
+*The dining room at Amaya, looking towards the grill.*
+
 **An open kitchen of tawa, sigri and tandoor in Belgravia, with a Michelin star for grilling rather than saucing** — which is the whole idea and makes it unlike every other starred Indian room in London.
 
 Three cooking methods, all visible from the tables: the **tawa** griddle, the **sigri** charcoal grill and the **tandoor** clay oven. Order the **tandoori lamb chops** and the griddled scallops; there is barely a curry on the menu and that is deliberate.
@@ -152,6 +168,10 @@ Three cooking methods, all visible from the tables: the **tawa** griddle, the **
 ### Quilon, Westminster
 
 *££££ · Westminster · 5 min from St. James's Park · book weeks ahead · Cited by 4 sources · 1 Michelin star · London Icon 2025*
+
+![The dining room at Quilon with carved sandstone relief tiles, a central chandelier and a curved banquette table](../../assets/articles/best-indian-restaurants-london/quilon.jpg)
+
+*The dining room at Quilon.*
 
 Kerala and the Malabar coast: appam, coconut, curry leaf, and seafood treated as the main event. Quilon has held its star since 2008 and remains the one starred kitchen in London working the south-west rather than the north. Order the Mangalorean chicken.
 
@@ -179,6 +199,10 @@ Vivek Singh's cooking is Indian technique applied to British produce: **game, ve
 
 *£££ · Mayfair · Cited by 3 sources · 1 Michelin star, new for 2026*
 
+![A silver platter of tandoori meats, seekh kebabs, green chutney and salad at Ambassadors Clubhouse](../../assets/articles/best-indian-restaurants-london/ambassadors-clubhouse.jpg)
+
+*Grilled meats at Ambassadors Clubhouse.*
+
 **A Mayfair room built around the food of undivided Punjab** — the region split between India and Pakistan in 1947 — from the JKS group, and styled as a 1920s Bombay gentlemen's club.
 
 The cooking is Punjabi and north Indian rather than the coastal food elsewhere in this guide: **tandoori meats, rich gravies, breads off the grill**, with a **butter chicken** that regulars order without discussion. Two floors and a bar with a serious cocktail list.
@@ -197,6 +221,10 @@ No star, but the widest agreement in the city after the section above.
 
 *£££ · City of London · 1 min from Cannon Street · Cited by 8 sources · British Indian Good Food Guide 2025*
 
+![A sizzling platter of tandoori lamb chops and mixed grill with fresh coriander over spiced red onions at Brigadiers](../../assets/articles/best-indian-restaurants-london/brigadiers.jpg)
+
+*Lamb chops at Brigadiers.*
+
 Built on the idea of an Indian army mess bar: several large rooms, barbecue over coals, a serious whisky list, and live sport on the screens. It is loud, and that is a design decision rather than an accident — nobody at Brigadiers is having a quiet conversation.
 
 Which makes it the obvious answer for a group of six or more, and the wrong answer for almost everything else. The tandoori lamb chops are what to order first. TOPJAW's best-curry list, voted by 200 chefs and industry figures they interviewed, put it top.
@@ -208,6 +236,10 @@ Which makes it the obvious answer for a group of six or more, and the wrong answ
 ### BiBi, Mayfair
 
 *££££ · Mayfair · 6 min from Bond Street · book weeks ahead · Cited by 7 sources*
+
+![The dining counter at BiBi in Mayfair overlooking the open charcoal grill under brass mirrors](../../assets/articles/best-indian-restaurants-london/bibi.jpg)
+
+*The counter at BiBi, facing the grill.*
 
 Chet Sharma's room, and the one on this page that most rewards paying attention. The menu works through regional Indian dishes with fine-dining technique and British produce, and the drinks list was built alongside the food rather than bolted on afterwards.
 
@@ -240,6 +272,10 @@ The **bacon naan roll** made it a breakfast destination as much as a dinner one:
 
 *£££ · Soho · 3 min from Piccadilly Circus · book weeks ahead · Cited by 5 sources · British Indian Good Food Guide 2025*
 
+![A royal thali at Darjeeling Express with puffed puris, curries, dal, steamed rice and chutneys beside an embroidered napkin](../../assets/articles/best-indian-restaurants-london/darjeeling-express.jpg)
+
+*A thali at Darjeeling Express.*
+
 **Asma Khan's kitchen, staffed entirely by women** — most of whom had never cooked professionally before she hired them — **cooking the food of Calcutta and the royal Mughlai tradition she grew up in.**
 
 The **Calcutta biryani** is the dish: Mughlai rice with meat and, distinctively, **a whole potato**, which Bengali biryani has and no other regional version does. Around it, Bengali fish, puchka, and the home cooking of a household rather than a restaurant repertoire.
@@ -264,6 +300,10 @@ The **Keralan fried chicken** with curry leaf mayonnaise is the signature and ha
 
 *££££ · Borough · 5 min from Borough · book weeks ahead · Cited by 4 sources*
 
+![A composed Awadhi dish at Oudh 1722 with spiced patty, yoghurt, sev, pomegranate seeds and greens in a gold-patterned bowl](../../assets/articles/best-indian-restaurants-london/oudh-1722.jpg)
+
+*A dish at Oudh 1722.*
+
 **Two-Michelin-star chef Aktar Islam cooking the Awadhi food of Lucknow** — biryanis and kebabs — **across three floors of a Victorian townhouse near London Bridge.** The year in the name is the founding of the Oudh court kitchens.
 
 Awadhi cooking is slow and perfumed rather than hot: **dum biryani** sealed and steamed, **galouti kebab** — minced lamb so soft it was made for a toothless nawab — and breads off the tandoor. Almost nowhere else in Britain cooks this specifically.
@@ -273,6 +313,10 @@ Awadhi cooking is slow and perfumed rather than hot: **dum biryani** sealed and 
 ### Kutir, Chelsea
 
 *£££ · Chelsea · 6 min from Sloane Square · Cited by 4 sources · British Indian Good Food Guide 2025*
+
+![A table spread of small dishes, samosas and copper pots of dal at Kutir](../../assets/articles/best-indian-restaurants-london/kutir.jpg)
+
+*A table of dishes at Kutir.*
 
 **A Chelsea townhouse done as an Indian hunting lodge**, with a menu built around game and the outdoors — a *kutir* is a cottage or hut, and the room commits to the idea completely.
 
@@ -318,11 +362,19 @@ The same coast as Quilon for a fifth of the price. An entirely vegetarian Kerala
 
 *£££ · Soho · Cited by 4 sources · British Indian Good Food Guide 2025*
 
+![A table at Hoppers with spiced fried meats, flaky roti, pol sambol, cassava chips and iced drink](../../assets/articles/best-indian-restaurants-london/hoppers.jpg)
+
+*A table at Hoppers.*
+
 Sri Lankan and Tamil cooking built around the hopper — a fermented rice-and-coconut pancake cooked in a bowl-shaped pan — with fast service and confident heat. Karan Gokani's kitchen, and the one most likely to change what a reader thinks "Indian food" covers.
 
 #### Kokum, East Dulwich
 
 *£££ · East Dulwich · 13 min from East Dulwich · Cited by 3 sources*
+
+![A round marble table at Kokum filled with coastal Indian dishes, whole grilled fish, tandoori meats and curries](../../assets/articles/best-indian-restaurants-london/kokum.jpg)
+
+*A table of dishes at Kokum.*
 
 Named for the sour, dark coastal fruit used along India's western shore, and the menu follows it — Goan and Konkani seafood, tamarind and coconut, very little cream. Three independent guides name a neighbourhood restaurant thirteen minutes' walk from a suburban station.
 
@@ -334,6 +386,10 @@ Named for the sour, dark coastal fruit used along India's western shore, and the
 
 *£££ · Mayfair · 4 min from Oxford Circus · Cited by 3 sources · British Indian Good Food Guide 2025*
 
+![The dining room at Kanishka in Mayfair with blue leather booths, modern pendant lighting and patterned ceiling](../../assets/articles/best-indian-restaurants-london/kanishka.jpg)
+
+*The dining room at Kanishka.*
+
 Atul Kochhar cooking the north-eastern states — Assam, Nagaland, Sikkim — which almost nothing else in London attempts at any price. The flavours run smokier, more fermented and less obviously "curry" than anything else in Mayfair, and that is the point of going.
 
 **7 minutes from Benares.**
@@ -343,6 +399,10 @@ Atul Kochhar cooking the north-eastern states — Assam, Nagaland, Sikkim — wh
 #### Vatavaran, Knightsbridge
 
 *£££ · Knightsbridge · Cited by 2 sources*
+
+![The dining room at Vatavaran in Knightsbridge with an undulating backlit gold bar and warm velvet armchairs](../../assets/articles/best-indian-restaurants-london/vatavaran.jpg)
+
+*The bar and dining room at Vatavaran.*
 
 Cooking from the Himalayan foothills, a region nothing else in London represents. Named by both the Good Food Guide and Time Out.
 
@@ -366,6 +426,10 @@ A love letter to the Bombay dining rooms of the 1970s, from the group behind Gym
 
 *£££ · Bloomsbury · Cited by 4 sources · Newcomer of the Year (London), Asian Curry Awards*
 
+![The dining room at Colonel Saab in the old Holborn Town Hall with antique crystal chandeliers and leather banquettes](../../assets/articles/best-indian-restaurants-london/colonel-saab.jpg)
+
+*The dining room at Colonel Saab, in the old Holborn Town Hall.*
+
 The old Holborn Town Hall, filled with the owner's family collection of Indian antiques — carved doors, brass, textiles, most of it carried over from India rather than sourced to a brief. Took Newcomer of the Year at the Asian Curry Awards.
 
 #### Tamarind, Mayfair
@@ -386,11 +450,19 @@ One of the first two Indian restaurants anywhere in the world to win a Michelin 
 
 *£££ · Brockley · Cited by 3 sources · British Indian Good Food Guide 2025*
 
+![A slow-roasted whole leg of lamb raan with pickled red onions and mint sauce on a wooden board at Babur](../../assets/articles/best-indian-restaurants-london/babur.jpg)
+
+*Raan, a slow-roasted leg of lamb, at Babur.*
+
 Thirty years of quietly outcooking most of central London, in south-east London, and in the Good Food Guide as well as the BIGFG top 100.
 
 #### Jikoni, Marylebone
 
 *£££ · Marylebone · 8 min from Bond Street · book weeks ahead*
+
+![The pastel peach exterior of Jikoni on Blandford Street in Marylebone with outdoor cane chairs and planters](../../assets/articles/best-indian-restaurants-london/jikoni.jpg)
+
+*Jikoni on Blandford Street.*
 
 Ravinder Bhogal cooks across her Kenyan, Indian and British background without picking one of them, which is why Jikoni is hard to file and easy to love. This is food built on borrowing rather than on authenticity.
 
@@ -409,6 +481,10 @@ Everything here comes in under £20 a head and none of it takes a booking.
 - **Horn OK Please**, Borough Market — an all-vegetarian stall whose samosa chaat is built in front of you: the samosas crushed under hot chickpea curry, then yoghurt, then tamarind. Eat it standing up; it does not survive being carried.
 - **Gujarati Rasoi**, Borough Market — mother-and-son Gujarati cooking a few steps away and a completely different tradition: thalis, bhajia and dhal, gently sweet where the other stall is sharp.
 - **Kolkati**, Seven Dials Market — kati rolls the Kolkata way: paratha cooked with egg through it, wrapped around spiced chicken or paneer with pickled onion and lime.
+
+![Large karahi pans of spiced vegetable curries and simmering dhal at Gujarati Rasoi in Borough Market](../../assets/articles/best-indian-restaurants-london/gujarati-rasoi.jpg)
+
+*The Gujarati Rasoi stall at Borough Market.*
 
 ---
 

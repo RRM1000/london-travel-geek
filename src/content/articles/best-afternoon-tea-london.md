@@ -252,6 +252,10 @@ The savoury course is unusually ambitious for a tea: **camembert custard tart wi
 
 *££££ · 7 min from Knightsbridge*
 
+![The Chinoiserie lounge at The Carlton Tower Jumeirah, with plush seating around low tables, a glass chandelier and a tall floral centrepiece](../../assets/articles/best-afternoon-tea-london/jumeirah-carlton-tower.jpg)
+
+*The Chinoiserie lounge at Jumeirah Carlton Tower.*
+
 The **Chinoiserie** is a wide, tranquil ground-floor lounge, and it **serves all afternoon rather than in fixed sittings** — which makes it one of the easier Knightsbridge teas to get into at short notice, genuinely useful if you have not booked weeks ahead.
 
 ![The Chinoiserie lounge at the Jumeirah Carlton Tower: a wide, symmetrical ground-floor room with blue velvet sofas, yellow armchairs and a long pastry counter at the far end](../../assets/articles/best-afternoon-tea-london/jumeirah-chinoiserie.jpg)
@@ -283,6 +287,10 @@ Served as **High Palms High Tea**: finger sandwiches, freshly baked scones with 
 ### The Berkeley, Knightsbridge
 
 *££££ · Goûtea by Cédric Grolet*
+
+![Cédric Grolet at The Berkeley: sculpted trompe-l'œil fruit pastries displayed beneath glass cloches along the counter](../../assets/articles/best-afternoon-tea-london/the-berkeley.jpg)
+
+*Cédric Grolet's pastries under glass at The Berkeley.*
 
 The Berkeley's fashion-themed Prêt-à-Portea ran for two decades and has been replaced by **Goûtea, built by Cédric Grolet** — the pastry chef whose trompe-l'œil fruit made him the most copied patissier in Europe.
 
@@ -405,6 +413,10 @@ Exotic teas or champagne alongside. Smaller and calmer than Claridge's or The Ri
 
 *£££ · a St James's cul-de-sac*
 
+![A tiered stand at The Stafford with savoury brioches, finger sandwiches, scones, and delicate pastries beside champagne flutes and a teacup](../../assets/articles/best-afternoon-tea-london/the-stafford.jpg)
+
+*Afternoon tea at The Stafford.*
+
 Tucked down a cul-de-sac off St James's, in a hotel built around **17th-century wine cellars** that were used as an air-raid shelter during the Blitz. The quietest central location on this list — you cannot hear Piccadilly from the lounge.
 
 ![The cobbled courtyard at The Stafford, with wooden tables and cushioned chairs under striped awnings outside the American Bar, olive trees in planters and a heater between the tables](../../assets/articles/best-afternoon-tea-london/stafford-courtyard.jpg)
@@ -433,6 +445,10 @@ Delicate pastries, **freshly baked scones**, and finger sandwiches cut with the 
 
 *£££ · opposite Kensington Palace*
 
+![A tiered afternoon tea stand beside a leaded window at The Milestone Hotel, with finger sandwiches, pastries, a silver teapot, and champagne](../../assets/articles/best-afternoon-tea-london/the-milestone.jpg)
+
+*Afternoon tea by the window at The Milestone.*
+
 A Victorian townhouse hotel **facing Kensington Palace and Kensington Gardens** across the road, with tea taken in a panelled, fire-lit lounge that feels closer to a private house than a hotel — forty-odd covers rather than a hall.
 
 ![A three-tier afternoon tea stand on a white-clothed table at The Milestone, in front of a leaded window with striped curtains and a red velvet chair](../../assets/articles/best-afternoon-tea-london/milestone-tea-stand.jpg)
@@ -453,6 +469,10 @@ Traditional finger sandwiches, freshly baked scones and pastries, with a properl
 
 *£££ · 5 min from Temple*
 
+![Charlie and the Chocolate Factory afternoon tea at One Aldwych, with themed pastries, a chocolate Wonka tart, mini ice cream cone, cocktail, and striped teapot](../../assets/articles/best-afternoon-tea-london/one-aldwych.jpg)
+
+*The Charlie and the Chocolate Factory tea at One Aldwych.*
+
 Not a traditional tea at all, and the guide should say so: One Aldwych runs a licensed **Charlie and the Chocolate Factory** tea in its lobby restaurant, and it is the best of London's themed sittings by some distance.
 
 ![An overhead view of the Charlie and the Chocolate Factory afternoon tea at One Aldwych, laid out on lilac with striped plates, caterpillar cakes, coloured sponge squares and scones](../../assets/articles/best-afternoon-tea-london/one-aldwych-charlie-tea.jpg)
@@ -466,6 +486,10 @@ Not a traditional tea at all, and the guide should say so: One Aldwych runs a li
 ### The Ampersand, South Kensington
 
 *£££ · 1 min from South Kensington*
+
+![A three-tiered Jurassic afternoon tea stand wreathed in dry ice at The Ampersand, featuring a T-rex footprint macaron, chocolate dinosaur volcano, and fossil excavation kit](../../assets/articles/best-afternoon-tea-london/the-ampersand.jpg)
+
+*The Jurassic afternoon tea at The Ampersand.*
 
 A **Jurassic afternoon tea**, built to match the Natural History Museum two streets away, and the reason to choose it over anywhere else in Kensington if you have children in tow.
 

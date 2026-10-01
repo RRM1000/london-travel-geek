@@ -1,11 +1,11 @@
 ---
-title: "London's Most Unusual Restaurants: 22 Strange Rooms"
-seoTitle: "Unusual Restaurants London 2026: 22 Strange Places"
+title: "London's Most Unusual Restaurants: 23 Strange Rooms"
+seoTitle: "Unusual Restaurants London 2026: 23 Strange Places"
 description: "A Mongolian yurt, a floating pagoda, a Victorian lavatory, a prison-roasted coffee shop and a former school bike shed — London restaurants where the room is the story."
 heroImage: "../../assets/articles/unusual-restaurants-london/feng-shang-princess.jpg"
 heroImageAlt: "The Feng Shang Princess, a red three-tiered Chinese pagoda restaurant moored on the Regent's Canal"
 publishedAt: 2026-06-26
-updatedAt: 2026-09-25
+updatedAt: 2026-10-01
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -65,7 +65,7 @@ The test we applied: a rooftop with a good view is not unusual in London, becaus
 | **The City** | Ye Olde Cheshire Cheese, Duck & Waffle, Darwin Brasserie, SUSHISAMBA, The Crosse Keys |
 | **Shoreditch & Hackney** | Rochelle Canteen, Barge East, Campania & Jones, Planque |
 | **King's Cross & Clerkenwell** | Coal Office, Sessions Arts Club |
-| **Paddington & Regent's Park** | The Cheese Barge, Feng Shang Princess |
+| **Paddington, Little Venice & Regent's Park** | The Cheese Barge, Clifton Nurseries Café, Feng Shang Princess |
 | **Wapping & Limehouse** | The Captain Kidd, The Yurt Café |
 | **Elsewhere** | Kinz (Notting Hill), Hunan (Pimlico Road), Redemption Roasters (Bloomsbury), The Ledger Building (Canary Wharf) |
 
@@ -78,6 +78,10 @@ The test we applied: a rooftop with a good view is not unusual in London, becaus
 ### The Yurt Café, Limehouse
 
 *£ · St Katharine's Precinct, 2 Butcher Row, E14 8DS*
+
+![The Yurt Café, a canvas yurt with outdoor tables under a railway arch](../../assets/articles/unusual-restaurants-london/the-yurt-cafe.jpg)
+
+*The Yurt Café in Limehouse.*
 
 A working café **inside an actual Mongolian yurt**, in the grounds of a Limehouse charity that has held the site since 1950. It opened in 2016 and runs as a social enterprise, with profits going to the Royal Foundation of St Katharine's community work. Daytime it does a full English, focaccias and Mission Coffee Works espresso under a felt roof. In the warmer months it turns into a pizza kitchen in the evenings: **marinara £9, the Yurterita £11, a capricciosa £13, the meaty one £14**, with saffron and nduja arancini at £6, tiramisù at £6.50 and gelato at £2.50 a scoop. Thursdays have live music from the outdoor stage.
 
@@ -101,6 +105,10 @@ A **three-tiered Chinese pagoda**, painted red and hung with lanterns, moored at
 
 *£££ · Paddington Basin, Sheldon Square, W2 6DL*
 
+![A table set for two beside the window of The Cheese Barge, with a cheese counter behind](../../assets/articles/unusual-restaurants-london/the-cheese-barge.jpg)
+
+*A table inside The Cheese Barge.*
+
 A **96-foot double-decker barge** moored at Paddington Basin, from the Cheese Bar group, and one of the entries here where the food is the argument rather than the setting. British and Irish cheese is cooked rather than merely arranged on a board: **Quickes curried cheese curds** fried and dressed with chilli honey, **a whole baked Baron Bigod** with Coombeshead sourdough, garlic-roasted new potatoes and Ampleforth chutney, Blue Sky Dairy halloumi with romesco and oregano, and a clotted cream panna cotta at the end. The lower deck is a proper dining room; the roof terrace is uncovered.
 
 **Open Mon–Sat noon–9pm and Sun noon–7.15pm, and the restaurant publishes no prices on its own site.** Parties of up to six book online, seven or more have to email. The roof terrace runs April to October and cannot be reserved at all.
@@ -117,6 +125,14 @@ A **125-year-old Dutch barge** sailed over from the Netherlands and permanently 
 
 *Barge East, on the River Lea. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=174581442), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
+### The Café at Clifton Nurseries, Little Venice
+
+*££ · Clifton Nursery Yard, 5A Clifton Villas, W9 2PH*
+
+A café inside a **glasshouse** in the grounds of Clifton Nurseries, a working garden centre that has stood on this Maida Vale site since 1851 and once boasted the largest palm house in London bar Kew. You eat among the plants, with a terrace outside. The menu is brunch and lunch dishes, morning bakes and cakes, coffee and tea, plus wine, beer and cocktails. Expect to pay £10–20 a head.
+
+**Daytime only: Monday to Saturday 9am–5.30pm and Sunday 10.30am–4.30pm.** It is a brunch or lunch stop, not an evening one.
+
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="unusual-restaurants-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -127,6 +143,10 @@ A **125-year-old Dutch barge** sailed over from the Netherlands and permanently 
 
 *£ · 27A Foley Street, W1W 6DY*
 
+![A café counter built along a row of restored Victorian porcelain urinals](../../assets/articles/unusual-restaurants-london/the-attendant.jpg)
+
+*The Attendant's counter, built along restored Victorian urinals.*
+
 Built inside a **Victorian public convenience** of about 1890, mothballed in the 1960s and left dormant for more than fifty years before a two-year restoration. The original **Doulton & Co porcelain urinals are the counter you sit at**, fitted out with green seating chosen to match the surviving Victorian floor tiles. This is the site that started the company, which now roasts its own beans and runs five London cafés. Espresso from a seasonal house blend, single-origin filters through V60 or AeroPress, and a home-style breakfast, brunch and lunch menu, on unhomogenised organic milk.
 
 **Nowhere in the group takes bookings — every site is first come, first served, and this one is very small.** The current website publishes no opening hours at all; the group's older site listed 8am to 3pm on weekdays and 9am to 3pm at weekends. Dogs are welcome.
@@ -134,6 +154,10 @@ Built inside a **Victorian public convenience** of about 1890, mothballed in the
 ### Rochelle Canteen, Shoreditch
 
 *£££ · 16 Playground Gardens, E2 7FA*
+
+![Diners at tables under umbrellas on the covered terrace at Rochelle Canteen](../../assets/articles/unusual-restaurants-london/rochelle-canteen.jpg)
+
+*The garden terrace at Rochelle Canteen.*
 
 Hidden behind a wall in a **former school bike shed** with no signage at all — you ring a buzzer marked 'canteen' and walk through a gate into what looks like a playground. Inside is a plain white room opening onto a walled garden, and Margot Henderson's daily-changing classic and modern European cooking, which is the real reason to bother finding it. A recent summer menu ran **smoked cod's roe and radishes at £10, cured trout with fennel, kohlrabi and dill at £14, whole mackerel with rainbow chard and sorrel mayonnaise at £27, and onglet with watercress and pickled walnut at £29**, with new potatoes or hispi at £6 alongside.
 
@@ -143,6 +167,10 @@ Hidden behind a wall in a **former school bike shed** with no signage at all —
 
 *££££ · 4th floor, 24 Clerkenwell Green, EC1R 0NA*
 
+![Tables under white umbrellas on a terrace beside an arched window](../../assets/articles/unusual-restaurants-london/sessions-arts-club.jpg)
+
+*The terrace at Sessions Arts Club.*
+
 Not just a former courthouse — the **old judges' dining room** inside Sessions House, which opened in 1782 as the largest courthouse in the country and stayed in use until 1920. The **Grade II\*** room has been left deliberately unrestored: peeling plaster, enormous windows, no attempt to tidy any of it, sixty seats and three terraces off the side. The kitchen serves sharing plates — **smoked eel with beetroot and chervil, guinea fowl rillette with mustard, celeriac with apple and brown shrimp, and a carnaroli risotto under shaved black truffle** are the register.
 
 **The house guidance is three savoury plates a head**, which is how a menu of small numbers becomes a large bill: one dated review put three courses and modest wine at about £95 a head. Lunch Tuesday to Saturday, Sunday lunch to 4.30pm, dinner Monday to Saturday. No lunch on Monday, no dinner on Sunday.
@@ -150,6 +178,10 @@ Not just a former courthouse — the **old judges' dining room** inside Sessions
 ### Coal Office, King's Cross
 
 *££££ · 2 Bagley Walk, N1C 4PQ*
+
+![A long bar with stools and an open kitchen inside a brick-walled room](../../assets/articles/unusual-restaurants-london/coal-office.jpg)
+
+*The bar at Coal Office.*
 
 Assaf Granit's kitchen in the converted **coal office** at Coal Drops Yard, spread over three floors of Tom Dixon's building with the studio's fittings throughout and the kitchen open to the room. The cooking is Middle Eastern and Mediterranean and the menu is written in transliterated Hebrew and Arabic: **kubalah, a Yemeni brioche, at £7.50; bomba, crispy parmesan croquettes with roasted shushka pepper, at £5 each; Machneyuda's OG, a polenta with mushrooms, truffle and parmesan, at £15.50; grilled octopus with rice ta'adig and harissa emulsion at £47**; and Peak District ex-dairy ribeye at £14.50 per 100g.
 
@@ -159,6 +191,10 @@ Assaf Granit's kitchen in the converted **coal office** at Coal Drops Yard, spre
 
 *£££ · 23 Ezra Street, E2 7RH*
 
+![Four plates of pasta on a table, with cobbles at the edge of the frame](../../assets/articles/unusual-restaurants-london/campania-and-jones.jpg)
+
+*Pasta at Campania & Jones.*
+
 Campanian cooking in a **converted dairy** on Ezra Street, a cobbled lane off Columbia Road, in a small room with a courtyard beside it. Pasta is made by hand every day and sold in the shop to take home along with the ragù. The menu stays properly southern: **pappardelle with cheek ragù at £19, scialatielli allo scoglio at £19, ravioli di zucca delica at £21, San Pietro all'acqua pazza at £23**, gnudi in sage butter at £10, and a tagliata di manzo for two at £58.
 
 **The lunch offer is the best value anywhere in this guide: one course with a glass of wine £14, two courses £20.** Closed Monday. Tuesday to Friday it serves noon to 3.30pm and again from 6pm; Saturday runs to 5pm and reopens; Sunday is lunch only.
@@ -166,6 +202,10 @@ Campanian cooking in a **converted dairy** on Ezra Street, a cobbled lane off Co
 ### Kinz, Notting Hill
 
 *£££ · 50 Notting Hill Gate, W11 3JD*
+
+![A high-ceilinged dining room with exposed brick above, round tables and mustard banquettes](../../assets/articles/unusual-restaurants-london/kinz.jpg)
+
+*The dining room at Kinz.*
 
 A **1930s Lloyds Bank** designed by Sir Edward Maufe, converted into a Lebanese brasserie that opened on 1 June 2026. The main dining room is triple height and seats around 130, and **the original bank vault is now the wine room**, with small dining spaces built inside it. The cooking is home-style rather than the usual mezze-house list: **manā'eesh in the morning, moujadara, mouneh pickles and rosewater desserts**, and on Sundays **molokhiye** — jute mallow leaves slow-cooked with chicken, served with rice, crisped pitta and a sharp onion-and-vinegar mignonette, which the kitchen offers as the Lebanese answer to a Sunday roast.
 
@@ -187,6 +227,10 @@ A converted warehouse **laid out like a ship's hull**, on the river at Wapping a
 
 *£ · 9 Gracechurch Street, EC3V 0DR*
 
+![A long marble-columned banking hall with a bar at the far end and diners at tables](../../assets/articles/unusual-restaurants-london/the-crosse-keys.jpg)
+
+*The banking hall at The Crosse Keys.*
+
 The former **HSBC headquarters**, opened in 1913 — marble columns, a glass-domed ceiling and a banking hall long enough to lose people in. It is a Wetherspoons, and the mismatch is the whole appeal: a chain-priced pint of Abbot or London Pride under a ceiling built to impress bond traders. The food is the standard national menu — the burgers, the curry club, fish and chips, breakfast from opening — and nobody should travel for it. Come for the room, order the cheapest thing you fancy, and look up.
 
 **Under-18s are only permitted on the premises between 8am and 9pm**, which rules it out as a late family stop. Open 8am to 11pm Monday to Thursday, to midnight on Friday, 8.30am Saturday and 9.30am Sunday. Step-free access. Wetherspoon publishes no prices online — they are in the app.
@@ -195,6 +239,10 @@ The former **HSBC headquarters**, opened in 1913 — marble columns, a glass-dom
 
 *£ · Liverpool Street station, street-level concourse, EC2M 7PY*
 
+![The gilded plasterwork ceiling, chandeliers and mirrors of Hamilton Hall, with the bar below](../../assets/articles/unusual-restaurants-london/hamilton-hall-2.jpg)
+
+*Hamilton Hall at Liverpool Street.*
+
 The former **ballroom of the Great Eastern Hotel**, Grade II listed, with the gilding, mirrors and plasterwork intact and a Wetherspoons bar installed underneath it. It is named after Lord Claud Hamilton, chairman of the Great Eastern Railway company that built the station overhead. The trade is entirely commuters, and the menu is the same one every branch serves: breakfasts, burgers, curries, pizzas. The ceiling is the reason to walk in, and the beer is the reason to stay for twenty minutes.
 
 **It opens at 7am on weekdays, earlier than anything else in this guide**, and closes at 11.30pm. Prices sit in the Wetherspoon app rather than on the website. Come for the ballroom; eat properly somewhere else afterwards.
@@ -202,6 +250,10 @@ The former **ballroom of the Great Eastern Hotel**, Grade II listed, with the gi
 ### Ye Olde Cheshire Cheese, City of London
 
 *££ · 145 Fleet Street, EC4A 2BP*
+
+![A dark timber-beamed bar with bottles on the shelves behind](../../assets/articles/unusual-restaurants-london/ye-olde-cheshire-cheese-3.jpg)
+
+*The bar at Ye Olde Cheshire Cheese.*
 
 A warren of dark panelled rooms and cellars down an alley off Fleet Street, rebuilt in 1667 immediately after the Great Fire. It is a Samuel Smith's house and it still trades as a chop house, which is the part most visitors miss: **Ye Olde Steak & Kidney Pudding is the signature dish**, and around it sit devilled kidneys on toast at £10.25, Cheshire Cheese rarebit with chilli jam at £9.50, a Barnsley lamb chop at £21.50, a pork tomahawk at £28 and an 8oz ribeye at £32.50 off the grill.
 
@@ -217,6 +269,10 @@ A warren of dark panelled rooms and cellars down an alley off Fleet Street, rebu
 
 *£ · 84b Lamb's Conduit Street, WC1N 3LR*
 
+![The glazed shopfront of Redemption Roasters with customers seated at benches inside](../../assets/articles/unusual-restaurants-london/redemption-roasters.jpg)
+
+*Redemption Roasters.*
+
 A coffee chain built around reducing reoffending. It runs barista academies inside **HMP High Down, HMP Wandsworth, HMP Downview and HMP Wormwood Scrubs**, trains prison leavers at a community academy in its King's Cross headquarters, and then employs them across eleven London shops. Bloomsbury on Lamb's Conduit Street was the first site: espresso and batch filter, cakes, pastries and sandwiches, with seating outside, inside and downstairs.
 
 **The prison-roasting line everyone repeats is now out of date.** Since December 2025 the company has roasted all its social-impact coffee at a new Wembley roastery rather than behind a wall; the training is the part that still happens inside. Open 7am to 5pm on weekdays and 8am to 5pm at weekends.
@@ -224,6 +280,10 @@ A coffee chain built around reducing reoffending. It runs barista academies insi
 ### Bob Bob Ricard, Soho
 
 *££££ · 1–3 Upper James Street, W1F 9DF*
+
+![A dark art deco bar with navy leather stools and a patterned floor](../../assets/articles/unusual-restaurants-london/bob-bob-ricard.jpg)
+
+*The art deco dining room at Bob Bob Ricard.*
 
 Booth-only, art deco throughout, designed by David Collins in imitation of the Orient Express, with a **Press for Champagne button** at every table. It works, and the restaurant claims to pour more champagne than anywhere else in Britain. The cooking is British and French and entirely unembarrassed: **beef Wellington, chicken Kyiv, fresh caviar and oysters**, plus an all-day Diner Deluxe menu built on the golden age of rail travel. There is now a second site in the Leadenhall Building.
 
@@ -233,6 +293,10 @@ Booth-only, art deco throughout, designed by David Collins in imitation of the O
 
 *££££ · 9 Conduit Street, W1S 2XG*
 
+![A three-tier afternoon tea stand on a table in a yellow dining room](../../assets/articles/unusual-restaurants-london/sketch.jpg)
+
+*Afternoon tea at Sketch.*
+
 Afternoon tea **inside an art installation**, in a building running five rooms that do five different things. **The Gallery is no longer pink.** India Mahdavi's 2014 candyfloss room, hung with David Shrigley drawings, was redesigned in 2022 into a sunshine-yellow and copper-gold space carrying thirteen site-specific Yinka Shonibare works. The egg-shaped lavatory pods survive, under their stained-glass dome. The tea itself is finger sandwiches, scones and a run of French pastries, and it is fine rather than remarkable.
 
 **Afternoon tea is from £85 a head, £55 for children up to 15**, served in the Gallery Monday to Thursday noon to 4pm and Friday to Sunday 11am to 4.30pm. The Lecture Room & Library upstairs is the serious restaurant and only opens for lunch on Friday and Saturday.
@@ -241,6 +305,10 @@ Afternoon tea **inside an art installation**, in a building running five rooms t
 
 *£££ · under the railway arches, Haggerston*
 
+![A long communal table and booths under an exposed brick railway arch](../../assets/articles/unusual-restaurants-london/planque-2.jpg)
+
+*The dining room under the railway arch at Planque.*
+
 A 60-seat restaurant built around **a members' wine cellar you can drink from**, under the Haggerston arches. The list runs to rare bottles matured downstairs alongside current releases, and the food genuinely follows the bottle rather than the other way round: French-leaning small plates meant for sharing, with the desserts drawing the most praise — one reviewer singled out a sheep's curd and plum plate as the best thing on the table. Members can drink from their own stored cases; nobody else may bring wine in.
 
 **The licence means you cannot come only for a drink — alcohol has to be ordered with food.** Dinner Tuesday to Saturday from 6pm, lunch on Saturday only, when a set menu is £45 a head. Groups of seven or more take a £75 menu. Cancel inside 24 hours and it is £50 a head.
@@ -248,6 +316,10 @@ A 60-seat restaurant built around **a members' wine cellar you can drink from**,
 ### Hunan, Pimlico
 
 *££££ · 51 Pimlico Road, SW1W 8NE*
+
+![A table laid with glasses and chopsticks beside a framed painting](../../assets/articles/unusual-restaurants-london/hunan.jpg)
+
+*A table at Hunan.*
 
 There is no à la carte. You say what you dislike and small dishes keep arriving until the kitchen stops — the **"Leave-it-to-Us" tasting menu, twelve courses at lunch and at least eighteen at dinner**, drawing on Taiwan, Hunan and Sichuan. The address is Pimlico Road but the restaurant sits in Belgravia, among showrooms and galleries, and it has been in the same small, plain room since 1982. Jay Rayner called the prawn toast the best he has ever tasted.
 
@@ -263,6 +335,10 @@ Included only where the room does something a view alone does not.
 
 *£££ · Level 36, Sky Garden, 20 Fenchurch Street*
 
+![A table by the window looking over the planted terraces of the Sky Garden and the city beyond](../../assets/articles/unusual-restaurants-london/darwin-brasserie.jpg)
+
+*A window table at Darwin Brasserie, with the Sky Garden outside.*
+
 On Level 36 inside the **Sky Garden's glass dome** at the top of the Walkie Talkie, which means you eat surrounded by planting rather than only by glass — the reason it is here when most rooftops are not. The cooking is straightforward British brasserie and makes no claim beyond that: **a British beef burger, battered fish and chips, a full Sunday roast**, breakfast from 8.30am, and a Saturday brunch with a bottomless prosecco upgrade.
 
 **A restaurant booking includes Sky Garden access, so you do not need a separate ticket** — which is the practical argument for eating here at all. There is airport-style security on the way in, so arrive no more than 30 minutes early. The restaurant is cashless, and a window table costs £10–£15 extra a head.
@@ -271,6 +347,10 @@ On Level 36 inside the **Sky Garden's glass dome** at the top of the Walkie Talk
 
 *££££ · 38th and 39th floors, 110 Bishopsgate*
 
+![A high dining room with a branched wooden ceiling hung with plants and floor-to-ceiling windows](../../assets/articles/unusual-restaurants-london/sushisamba.jpg)
+
+*The dining room at SUSHISAMBA.*
+
 Japanese, Brazilian and Peruvian cooking across the **38th and 39th floors** of Heron Tower, reached by two glass lifts that climb the outside of the building. The kitchen works from an open robata grill and sends out small sharing plates: **tempura and sushi, Brazilian churrasco and moqueca, Peruvian anticuchos and seviche**. The dining room has floor-to-ceiling glass and an open bamboo ceiling under a suspended grid of lights.
 
 **The orange tree on the west terrace is a sculpture, not a living tree** — worth knowing before you go looking for it. The terraces are open-air and the restaurant claims them as the highest outdoor dining in Europe. The food is good and priced as though the height were an ingredient.
@@ -278,6 +358,10 @@ Japanese, Brazilian and Peruvian cooking across the **38th and 39th floors** of 
 ### Duck & Waffle, City of London
 
 *££££ · 40th floor, Heron Tower, 110 Bishopsgate*
+
+![A curved booth and tables by floor-to-ceiling windows at sunset](../../assets/articles/unusual-restaurants-london/duck-and-waffle.jpg)
+
+*The dining room at Duck & Waffle at sunset.*
 
 Forty floors up in Heron Tower, above SUSHISAMBA in the same building, and **open around the clock**, so you can watch the sun come up over the City with a plate in front of you. The signature is the dish it is named after: **duck and waffle at £26, a confit Gressingham duck leg on a waffle with a fried duck egg and mustard maple syrup.** The English breakfast is £19.50, the crème brûlée French toast the same, and there is a three-course Sunday roast from 11.30am.
 
