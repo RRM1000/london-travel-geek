@@ -97,6 +97,10 @@ The Barbican is less a single venue than an area in its own right. A short fligh
 
 The **Conservatory**, around 1,500 species inside the old theatre's fly tower, is free but genuinely needs planning around: it opens on selected dates only, published up to a month ahead on [the Barbican's own booking page](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory), with a small batch of day tickets released online at 9.30am on the day itself for anyone who didn't book ahead.
 
+![Palms, monstera and trailing vines spilling from the tiered concrete balconies of the Barbican Conservatory, under a steel-framed glass roof](../../assets/articles/london-in-the-rain/barbican-conservatory-interior.jpg)
+
+*The Barbican Conservatory.*
+
 Barbican station is on the Circle, Hammersmith & City and Metropolitan lines; Moorgate, a few minutes further round the highwalks, adds the Northern line.
 
 <div data-stay-strip></div>

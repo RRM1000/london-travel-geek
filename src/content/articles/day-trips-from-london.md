@@ -82,6 +82,10 @@ Windsor Castle is **£32 booked ahead, £36 on the day**, with no family ticket,
 
 → **[The full Windsor guide](/articles/windsor-day-trip/)**
 
+![The Long Walk running straight between two rows of trees towards Windsor Castle on the skyline, with walkers dotted along the gravel path](../../assets/articles/day-trips-from-london/windsor-castle-long-walk.jpg)
+
+*The Long Walk, with Windsor Castle at the far end.*
+
 ## Oxford
 
 Two ways in: Paddington, or Marylebone on Chiltern. The **Oxford Tube coach runs through the night** and is cheaper than either.
@@ -89,6 +93,10 @@ Two ways in: Paddington, or Marylebone on Chiltern. The **Oxford Tube coach runs
 The catch is the colleges. Some charge, some are free, and several close to visitors during exams — including Christ Church, whose staircase and hall are the Harry Potter draw. The Ashmolean, the Pitt Rivers and the Natural History Museum are free, and the covered market costs nothing to wander.
 
 → **[The full Oxford guide](/articles/oxford-day-trip/)**
+
+![The round, domed Radcliffe Camera in honey-coloured stone, behind iron railings and a lawn, with college buildings either side under a deep blue sky](../../assets/articles/day-trips-from-london/oxford-radcliffe-camera.jpg)
+
+*The Radcliffe Camera, Oxford.*
 
 ## Cambridge
 

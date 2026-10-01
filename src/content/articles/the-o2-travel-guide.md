@@ -58,6 +58,10 @@ The O2 calls itself the world's busiest entertainment arena, and getting most of
 
 North Greenwich was built as part of the Jubilee Line Extension, and the station's ticket hall sits right against The O2's own forecourt: come up the escalators and the dome is in front of you. The catch: **The O2 depends on a single Underground line**. Wembley has three stations across two lines (Jubilee, Metropolitan, Chiltern, plus the Bakerloo and Overground at Wembley Central); The O2 has one station on one line. If the Jubilee is suspended or severely delayed on a show night, there is no second tube line to switch to — only the bus, the river, the cable car, or a much longer walk.
 
+![The North Greenwich Station sign above the concourse, with escalators running down behind a glass balustrade and buses visible through the glass doors beyond](../../assets/articles/the-o2-travel-guide/north-greenwich-station-entrance.jpg)
+
+*The concourse at North Greenwich station.*
+
 That single-line dependency is also why TfL takes crowd management at this station seriously enough to have a standing procedure for it. In response to a Freedom of Information request, TfL confirmed that after O2 events, station staff **"reduce flow and hold event crowds"** outside the station rather than let the ticket hall flood, working **"with the help of O2 security and the police,"** under **"a local event plan"** used to brief the team on how each event is managed. A separate 2026 FOI response confirms this is an established, ongoing practice. In practice, this means: on a big night, expect to be held on the concourse or outside the gate line for a few minutes rather than walking straight onto a train, and expect staff and sometimes police presence managing that queue.
 
 North Greenwich has good accessible features built in from that 1999 rebuild: low-level ticket machines, wheelchair-accessible gates (with a dedicated gate to the right of the barriers), an induction loop, step-free access to every platform via lifts, and step-free bus stops.
@@ -136,6 +140,10 @@ A short walk from the station car park, on **Monro Way (SE10 0EJ)**, is a separa
 ### The cable car
 
 The gondola across the river to the Royal Docks is still sold and signed in places as the **IFS Cloud Cable Car**, though TfL's own site now labels it simply the **London Cable Car** across its station page, hub page and ticket pages — a shift worth knowing if you're searching for it. Either way, it's the same service: a single crossing of the Thames from Greenwich Peninsula Terminal (a couple of minutes from North Greenwich station) to the Royal Docks Terminal, taking up to **10 minutes**, with cars every 30 seconds. Coming from north or east London by car, this crossing is also the basis of a genuine way to avoid the Blackwall Tunnel — see the driving section above for parking and hotels on the Royal Docks side.
+
+![A purple cable car cabin on its cable above the Thames, with riverside tower blocks on the left and the white roof of The O2 on the right at dusk](../../assets/articles/the-o2-travel-guide/ifs-cloud-cable-car-greenwich.jpg)
+
+*A cable car cabin crossing the Thames beside The O2.*
 
 | Day | Hours |
 | --- | --- |

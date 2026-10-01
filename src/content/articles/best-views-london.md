@@ -71,6 +71,10 @@ Everything else free and high in the City makes you plan ahead. This one you can
 
 Summer hours run to 9pm on weekdays. **Closed on bank holidays**, and it shuts in high wind, storms, ice or extreme heat, since the whole thing is outdoors.
 
+![A paved roof terrace with a glass balustrade, timber benches and clipped box hedges, with the Shard in the haze and the Walkie-Talkie rising behind a vine-covered pergola](../../assets/articles/best-views-london/garden-at-120-fenchurch-rooftop.jpg)
+
+*The terrace of the Garden at 120.*
+
 ### One New Change Roof Terrace, City of London
 
 *Free · walk-in · reported open 6am to midnight*
@@ -80,6 +84,10 @@ Not a panorama — **one spectacular framed view of St Paul's**, directly opposi
 The long hours are what make it valuable. It is the best free sunrise viewpoint in the City by a distance, and one of the few places you can photograph the cathedral lit up late at night.
 
 The irony worth knowing: looking *at* St Paul's from here is free, and climbing *up* St Paul's costs £27.
+
+![The dome of St Paul's Cathedral behind a glass balustrade, with planted beds on a paved roof terrace and a tilted glass roof to the right under a blue sky](../../assets/articles/best-views-london/one-new-change-roof-terrace-st-pauls.jpg)
+
+*St Paul's from the One New Change roof terrace.*
 
 ### Tate Modern, Level 10, Bankside
 
@@ -134,6 +142,10 @@ Reach it by the stairs or escalator near the Paul Hamlyn Hall, or the step-free 
 Two things make it better than Sky Garden in practice. There is **no time limit** once you are inside — Sky Garden turns you out after an hour. And there is a **same-day walk-in route**: a QR code outside the entrance lets you book on the spot, subject to capacity. Entrance is level from Bishopsgate and the whole venue is step-free.
 
 The honest caveat: it is **fully enclosed behind glass**. No open air, and photographs pick up reflections. If you want wind in your face, that is what The Shard's top deck sells.
+
+![Three visitors at floor-to-ceiling windows looking straight down onto City rooftops, a glass-roofed atrium and an office tower with plant on its roof](../../assets/articles/best-views-london/horizon-22-bishopsgate-view.jpg)
+
+*Looking down from the windows of Horizon 22.*
 
 > ⚠️ **Neither venue publishes its height.** The widely reported figures — 254 metres here against 244.3 metres at The View from The Shard — come from third parties rather than from either operator. The floors are not in dispute: Level 58 against floor 72.
 

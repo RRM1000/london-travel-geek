@@ -66,6 +66,10 @@ The offence that actually touches visitors is theft, overwhelmingly of phones, a
 
 A Metropolitan Police operation against the gangs behind it, announced 10 September 2026, targeted thieves who use e-bikes and mopeds to snatch phones and outrun pursuit on foot. Based in Westminster and run over the five months to July 2026, it made **187 arrests and seized 157 vehicles**. The Met named its hotspots directly: "areas such as Lambeth and Southwark and key tourist and transport hubs including Waterloo and London Bridge," where e-bike-related crime fell 22% during the operation. Separately, the force has seized more than 2,500 illegal or modified e-bikes and e-scooters so far in 2026, and expanded its fleet of high-powered pursuit e-bikes from 5 to 25 to chase down offenders who use them.
 
+![Four Metropolitan Police officers in hi-vis jackets and checked caps, seen from behind, standing in front of a crowd on a busy street](../../assets/articles/is-london-safe/metropolitan-police-officers-london.jpg)
+
+*Metropolitan Police officers on a busy London street.*
+
 Police.uk's street-level crime data — free to query by location and month, no account needed — shows how concentrated the risk is. In July 2026, the most recent month published, here's what was recorded within a mile of three London points:
 
 | Area | Thefts from the person, July 2026 (within a mile) |

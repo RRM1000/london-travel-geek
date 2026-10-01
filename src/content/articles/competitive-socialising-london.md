@@ -125,6 +125,10 @@ The venue that **invented social darts** and has since been copied worldwide. Se
 
 Play starts at **£10 a head**. Groups over 12 get two oches, over 24 get three, and 37-plus goes to the events team. Family Sessions run Sunday to Friday until 4.30pm for ages 12 and up, but the venues are **strictly 18+ after 5pm Sunday to Friday and all day Saturday**. Bloomsbury has restricted wheelchair access.
 
+![A darts bay at Flight Club, with a board set in oak panelling, deep green leather booths and rings of bare bulbs hung from an exposed-pipe ceiling](../../assets/articles/competitive-socialising-london/flight-club-darts-interior.jpg)
+
+*A darts bay at Flight Club.*
+
 ### Electric Shuffle
 
 *King's Cross, London Bridge and Canary Wharf · shuffleboard · from £10 a head*
@@ -134,6 +138,10 @@ Shuffleboard given the same treatment by the same people — four games, table s
 **Pricing is banded by day rather than by hour.** Off-peak, Sunday to Tuesday, is **from £10 a head**; standard, Wednesday to Saturday, is **from £13**. Weekend bottomless brunch is £38 a head for two hours of sourdough pizza and Prosecco or beer with an hour of shuffleboard and a DJ attached.
 
 **Groups run from 2 to 32 on the website**, and 33 to 400 goes through the events team for semi-private space or full hire. That is the widest online range of anything here, and the reason it works on a Friday when Flight Club's six-person minimum does not. The booking form is set to 18-plus; Family Sessions take ages 12 and up, Sunday to Friday until 4.30pm.
+
+![Two shuffleboard lanes facing each other in a room with patterned wallpaper, vintage radios on the walls, leather bar stools and a screen at the end of each lane](../../assets/articles/competitive-socialising-london/social-shuffleboard-bar.jpg)
+
+*Shuffleboard lanes at Electric Shuffle.*
 
 ### Swingers West End
 

@@ -67,6 +67,10 @@ genuinely cost nothing. [Free things to do in London](/free/) is the whole of
 it, written out. What breaks a budget is buying six ticketed attractions at
 £30 each when two would have been the memorable ones.
 
+![The ruined walls of St Dunstan in the East, with Gothic tracery windows draped in ivy, planted beds and a path beneath the trees](../../assets/articles/london-on-a-budget/st-dunstan-in-the-east.jpg)
+
+*St Dunstan in the East, a ruined City church that is now a free garden.*
+
 ---
 
 ## Eating cheaply
@@ -140,6 +144,10 @@ Gigs, comedy and theatre with an evening ticket at £15 or under, for the week a
 * **A bike is often faster than the Tube** for short central hops, and cheaper — see [cycling, bike hire and scooters](/articles/cycling-bike-hire-scooters-london/) for what each scheme actually costs.
 * **A council pool is the cheap end of exercise** — **£3.20 to £11.50** a swim against £26–£35 for a single boutique class. [Gyms and leisure centres](/articles/best-gyms-london/) has the casual-use prices, which is the comparison that matters for a week rather than a year.
 * **Think twice about a tour bus.** We have [compared them](/articles/london-tour-buses-compared/), and for most people a day bus cap plus a walk does the same job for a fraction of the price.
+
+![Cafe tables and white parasols under the colonnade of the Covent Garden Market building, with walkers on the cobbles beside them](../../assets/articles/london-on-a-budget/covent-garden-piazza.jpg)
+
+*The piazza at Covent Garden.*
 
 ---
 
