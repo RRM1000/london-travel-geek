@@ -2,6 +2,12 @@
 title: "National Television Awards Tickets: Prices, Red Carpet and How to Book"
 seoTitle: "National Television Awards Tickets 2027: From £25"
 description: "National Television Awards tickets for 8 September 2027 at The O2: seats from £25, red-carpet viewing from £150, the AXS and Ticketmaster links and what the booking fees add."
+heroImage: "../../assets/articles/national-television-awards-tickets/the-o2-from-the-thames.jpg"
+heroImageAlt: "The O2's white dome and yellow masts seen across the Thames under a grey sky"
+heroImageCredit: "Heuschrecke"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:O2_Arena.jpg"
+heroImageLicense: "CC BY-SA 3.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-10-03
 updatedAt: 2026-10-03
 reviewBy: 2027-01-31
@@ -94,6 +100,10 @@ The practical rules are The O2's, not the NTAs'. Our [O2 travel guide](/articles
 - **Getting home.** North Greenwich on the Jubilee line is the only station, and the last trains leave on the ordinary timetable. The cable car and the river boats stop before a late-evening ceremony ends.
 
 Check-in for the packages opens between 1.30pm (Five Star Experience) and 4.45pm (Star Treatment), so there are hours to fill before the show. **Up at The O2**, the guided climb over the roof of the dome, takes about 90 minutes, and slots are best booked well ahead of a big night.
+
+![The O2's white dome and yellow masts seen across the Thames under a grey sky](../../assets/articles/national-television-awards-tickets/the-o2-from-the-thames.jpg)
+
+*The O2 on the Greenwich Peninsula, seen across the Thames. Photo: [Heuschrecke](https://commons.wikimedia.org/wiki/File:O2_Arena.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="1" data-gyg-cmp="national-television-awards-tickets-the-o2-climb" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="145554"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
