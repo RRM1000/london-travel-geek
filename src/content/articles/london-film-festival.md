@@ -3,7 +3,7 @@ title: "BFI London Film Festival 2026: Dates, Tickets and How to Get Them"
 seoTitle: "London Film Festival 2026: 7–18 Oct, Tickets £10"
 description: "The BFI London Film Festival runs 7–18 October 2026 and tickets are on sale now. What has sold out, the extra release at 10am on 1 October, prices from £10, and how to get into a full screening."
 publishedAt: 2026-07-04
-updatedAt: 2026-09-26
+updatedAt: 2026-10-03
 reviewBy: 2026-10-01
 sites:
   - london
@@ -151,6 +151,8 @@ The full programme was published on 2 September. The headline announcements:
 **The Opening Night Gala** is *Elsinore*, at the Royal Festival Hall on Wednesday 7 October. Directed by Simon Stone and written by Stephen Beresford, it tells the true story of the actor Ian Charleson preparing to play Hamlet at the National Theatre while facing HIV/AIDS, with Andrew Scott and Olivia Colman leading a cast that includes Billie Piper, Johnny Flynn and Luke Thompson.
 
 **The Closing Night Gala** is *The Debut*, getting its UK premiere on the evening of Sunday 18 October. It is Jesse Eisenberg's follow-up to *A Real Pain*, which itself premiered at this festival in 2024, and he directs and stars alongside Julianne Moore, Paul Giamatti and Halle Bailey.
+
+The galas are the festival's premieres: the BFI said the *Elsinore* cast was expected to attend the Opening Night Gala. Gala tickets are on public sale like any other screening, at the prices above. To see the stars arrive rather than the film, or to find the other premieres London holds through the year, read [how to see stars at a London film premiere](/articles/film-premieres-london/). The Royal Festival Hall also hosted the 2026 BAFTA Film Awards, whose red carpet has [free fan-pen places](/articles/bafta-red-carpet/).
 
 **The Official Competition** — ten films in the running for Best Film:
 
