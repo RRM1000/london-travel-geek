@@ -1462,7 +1462,11 @@ const formatDate = (d: Date) =>
     border-bottom: 1px solid var(--line);
     text-align: left;
     vertical-align: top;
-    overflow-wrap: anywhere;
+    /* break-word, never anywhere: anywhere lets table-layout: auto shrink a
+       column to one character, which split "£25" into "£2 / 5" and a PRICE
+       heading into "PR / IC / E" (Rob, 3 Oct 2026). break-word only breaks a
+       single token wider than its column; the table scrolls sideways instead. */
+    overflow-wrap: break-word;
   }
 
   .article__body :global(th) {
@@ -1518,8 +1522,7 @@ const formatDate = (d: Date) =>
      Two helpers keep the numeric columns honest: cells that are only a price,
      a date or a short code do not wrap, so a column of "£1,000" claims its
      natural width and no more. */
-  .article__body :global(td),
-  .article__body :global(th) {
+  .article__body :global(td) {
     hyphens: auto;
   }
 
@@ -1908,6 +1911,7 @@ const formatDate = (d: Date) =>
      table's own margin collapsing with whatever sits above and below it. */
   .article__body :global(.table-scroll) {
     margin-block: 1.5rem 2rem;
+    overflow-x: auto;
   }
 
   .article__body :global(.table-scroll table) {
