@@ -82,7 +82,7 @@ South Kensington has its own share of the commemorative plaques marking where no
 1. **Natural History Museum** — Alfred Waterhouse's terracotta cathedral of a building, with "Hope" the blue whale skeleton suspended in Hintze Hall. The building itself is as good as the collection, and its ticketed Wildlife Photographer of the Year show typically runs from mid-October to the following July.
 2. **Victoria and Albert Museum (V&A)** — 145 galleries covering 5,000 years of art and design. The John Madejski Garden in the centre is the best courtyard in London to sit in, and the original Victorian refreshment rooms are the world's first museum cafe.
 3. **Science Museum** — Rockets, jet engines and the Apollo 10 command module. **Wonderlab** upstairs is hands-on and the one part that charges.
-4. **Royal Albert Hall** — The circular concert hall at the top of Exhibition Road. Home of the BBC Proms each summer, when standing tickets in the arena go for a few pounds on the day.
+4. **Royal Albert Hall** — The circular concert hall at the top of Exhibition Road. Home of the BBC Proms each summer, when standing tickets in the arena go for a few pounds on the day; the [Last Night of the Proms ticket routes](/articles/last-night-of-the-proms-tickets/) are set out separately.
 5. **Kensington Gardens and the Albert Memorial** — Across the road, with Kensington Palace at the far end and the Serpentine galleries in between.
 6. **Brompton Oratory** — An enormous Italianate Catholic church next to the V&A that almost nobody goes into. Free, and startling inside.
 

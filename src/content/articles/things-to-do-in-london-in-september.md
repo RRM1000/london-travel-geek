@@ -119,7 +119,7 @@ Because it runs the same nine days as Open House, the sensible approach is to tr
 
 The close of a summer of more than eighty concerts. In 2026 it is **Yuja Wang** on piano, returning after her 2023 appearance, with Scottish tenor **Nicky Spence** and the massed BBC forces under **Sakari Oramo**.
 
-Seats are long gone. **Day Promming tickets go on sale at 9.30am on the day of the concert, two per booker** — standing, in the arena or the gallery, and the cheapest way into the most oversubscribed classical concert in the country. Season ticket holders redeem theirs from 11am the day before.
+Seats are long gone. **Day Promming tickets go on sale at 9.30am on the day of the concert, two per booker** — standing, in the arena or the gallery, and the cheapest way into the most oversubscribed classical concert in the country. Season ticket holders redeem theirs from 11am the day before. The ballots, the leftover sale and the £8 day tickets, with their 2026 dates, are in our [Last Night of the Proms tickets guide](/articles/last-night-of-the-proms-tickets/).
 
 If you want the experience without the queue, the Proms in the Park tradition has changed in recent years; check the BBC's own listing for what is running before making plans around it.
 
