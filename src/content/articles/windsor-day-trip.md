@@ -3,7 +3,7 @@ title: "Windsor from London: The Castle, the Trains and the Rest of the Day"
 seoTitle: "Windsor Day Trip from London: Trains and Tickets"
 description: "Windsor Castle is £32 in advance and shut every Tuesday and Wednesday. Contactless works to both Windsor stations — £7.90 off-peak from Paddington — and St George's Chapel is closed to visitors on Sundays."
 publishedAt: 2026-07-12
-updatedAt: 2026-09-25
+updatedAt: 2026-10-03
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -115,7 +115,7 @@ Swap Bath for Oxford and you get <a href="https://www.getyourguide.com/activity/
 - <a href="https://www.getyourguide.com/activity/-t320558?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge Inner Circle and Windsor</a> — **£189**, 11 hours, **4.9 from 439 reviews**, the best-rated Windsor product there is. A private visit **inside the stone circle outside opening hours**, which is not sold any other way, then 3¼ hours at Windsor. Castle entry comes only on the "with Windsor Castle Entry" option; the other options give you a walking tour of the town instead.
 - <a href="https://www.getyourguide.com/activity/-t388125?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor Castle and Hampton Court Palace</a> — **£89**, 7 to 9 hours, 4.7 from 150 reviews. Two palaces on opposite sides of the western suburbs, which is a genuinely awkward pair by train. Both tickets read "if option selected", so book the "with Entrance Fees Included" option.
 
-And for LEGOLAND, <a href="https://www.getyourguide.com/activity/-t645578?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the entry-and-coach package from Victoria</a> does include the park ticket — but at **£85** against a £32 gate price and a £3 capped single on the Green Line 702, you are paying about £53 for a coach seat, and £150 of premium for a family of four. It is rated 4.0 from 136 reviews, the lowest of any big Windsor product.
+And for LEGOLAND, <a href="https://www.getyourguide.com/activity/-t645578?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the entry-and-coach package from Victoria</a> does include the park ticket — but at **£85** against a £32 online ticket and a £3 capped single on the Green Line 702, you are paying about £53 for a coach seat, and £150 of premium for a family of four. It is rated 4.0 from 136 reviews, the lowest of any big Windsor product.
 
 > ⚠️ **"Entry" inside the includes list is not entry.** Nine of fourteen tour pages put the Castle in the **includes** list with a tick and then qualify it — "Entry to Windsor Castle (if option selected)" — and the from-price is always the option without the ticket. The worst-worded is <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor, Stonehenge, Bath and Roman Baths</a>: "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)". Before you pay, check the **option name in the date picker** says "with Entry" — and remember the Castle is shut Tuesdays and Wednesdays whichever option you buy.
 
@@ -189,7 +189,7 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 **Windsor Castle is not in the National Rail 2FOR1 scheme.** Neither is any other Royal Collection Trust site. The Castle is full price however you arrive.
 
-**LEGOLAND Windsor Resort is in it, at one third off** rather than two-for-one — the same treatment every Merlin attraction gets. Two Golden Tours bus tours of Windsor are listed too. The offer needs two people, a valid National Rail ticket and an eVoucher, and contactless does not qualify, which is the whole trick of it: the cheapest way to reach Windsor is the thing that disqualifies you. Full rules in our guide to [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/).
+**LEGOLAND Windsor Resort is in it, at one third off** rather than two-for-one — the same treatment every Merlin attraction gets, for up to six people, during LEGOLAND's main season only. Two Golden Tours bus tours of Windsor are listed too. Every offer needs a valid National Rail ticket and a booking through the Days Out Guide, and contactless does not qualify, which is the whole trick of it: the cheapest way to reach Windsor is the thing that disqualifies you. Full rules in our guide to [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/).
 
 ## What fills the rest of the day
 
@@ -219,9 +219,9 @@ Which sets up a neat trade: **Sunday is the one day the Chapel is shut and the o
 
 ### LEGOLAND
 
-**This is a separate day out, not an afternoon after the Castle.** It is two miles from Windsor town centre at SL4 4AY, with 55 rides, and it usually runs 10:00 to 18:00.
+**This is a separate day out, not an afternoon after the Castle.** It is two miles from Windsor town centre at SL4 4AY, with over 55 rides and attractions, open from 10:00 and closing between 16:30 and 18:00 depending on the day. It shuts on most weekdays from November to February. Our [LEGOLAND Windsor guide](/articles/legoland-windsor-day-trip/) has the ticket prices by date, every height limit, Fastrack and the closed days.
 
-**Day tickets start at £32 booked online.** Parking is **£13 booked ahead, £15 on the day**, with Priority Parking at £18 per car. Green Line **702 and 703 between them give a half-hourly service** from central Windsor and Slough to the gate for that £3 single. There is also a shuttle bus from stops near both rail stations, but LEGOLAND is careful to say it is **chargeable and not operated by the park** — the 702 is the option with a published price.
+**Day tickets start at £32 booked online at least a day ahead, and cost £68 on the day.** Parking is **£13 booked ahead, £15 on the day**, with Priority Parking at £18 per car. Green Line **702 and 703 between them give a half-hourly service** from central Windsor and Slough to the gate for that £3 single. There is also a shuttle bus from stops near both rail stations, but LEGOLAND is careful to say it is **chargeable and not operated by the park** — the 702 is the option with a published price.
 
 ### Where to eat
 
@@ -262,6 +262,7 @@ Which sets up a neat trade: **Sunday is the one day the Chapel is shut and the o
 ## Continue planning your London trip
 
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — which attractions are really in the scheme, and why contactless disqualifies you.
+- 🧱 **[LEGOLAND Windsor](/articles/legoland-windsor-day-trip/)** — tickets from £32, the 702 bus from the station, and every height limit.
 - ⚡ **[Harry Potter Studio Tour](/articles/harry-potter-studio-tour/)** — the other big day trip out of London, and the one where you genuinely cannot buy on the door.
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless capping works on a day like this one.
 - 🏛️ **[Historic houses in London](/articles/historic-houses-london/)** — palaces and grand interiors without leaving the city.
