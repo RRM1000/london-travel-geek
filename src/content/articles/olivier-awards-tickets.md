@@ -2,6 +2,12 @@
 title: "Olivier Awards Tickets: Free Green Carpet Places and How to Get In"
 seoTitle: "Olivier Awards Tickets: Free Green Carpet Places"
 description: "How the public gets into the Olivier Awards at the Royal Albert Hall: free green-carpet fan-pen places through Applause Store, the prize draw, and what the ceremony itself takes."
+heroImage: "../../assets/articles/olivier-awards-tickets/royal-albert-hall-kensington-gore.jpg"
+heroImageAlt: "The red-brick Royal Albert Hall with its entrance arch on Kensington Gore, the Albert Memorial reflected in the glass"
+heroImageCredit: "Diego Delso"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Royal_Albert_Hall,_Londres,_Inglaterra,_2022-11-25,_DD_02.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-10-03
 updatedAt: 2026-10-03
 reviewBy: 2027-01-31
@@ -50,6 +56,10 @@ The Society's pages do not sell ceremony tickets. What the public can do is stan
 ## The green carpet fan pens
 
 The green carpet is the Oliviers' red carpet: guests and talent walk it into the Royal Albert Hall before the ceremony, and the BBC broadcast includes footage of the arrivals. The fan pens are the public viewing areas outside the venue.
+
+![The red-brick Royal Albert Hall with its entrance arch on Kensington Gore, the Albert Memorial reflected in the glass](../../assets/articles/olivier-awards-tickets/royal-albert-hall-kensington-gore.jpg)
+
+*The Royal Albert Hall on Kensington Gore, with the Albert Memorial reflected in the entrance arch. Photo: [Diego Delso](https://commons.wikimedia.org/wiki/File:Royal_Albert_Hall,_Londres,_Inglaterra,_2022-11-25,_DD_02.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 **How to get a place.** The Society of London Theatre's [green-carpet page](https://officiallondontheatre.com/olivier-awards/green-carpet-access/) sends everyone to [Applause Store](https://www.applausestore.com/book-olivier-awards-2026-with-cunard-green-carpet), the free audience-ticket agency that also handles BAFTA and film-premiere fan pens. Register an account, then use **Register Interest** on the Olivier Awards page and Applause Store emails you when places are released. The Society says successful applications are selected at random.
 
