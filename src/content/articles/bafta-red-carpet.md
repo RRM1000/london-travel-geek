@@ -2,6 +2,12 @@
 title: "BAFTA Red Carpet Tickets: Free Fan-Pen Places and How to Apply"
 seoTitle: "BAFTA Red Carpet Tickets: How to Get a Free Place"
 description: "The BAFTA ceremonies are invitation only, but the red carpet has free fan-pen places outside the venue, allocated through Applause Store. How to apply, who can go and what the rules are."
+heroImage: "../../assets/articles/bafta-red-carpet/royal-festival-hall-from-the-thames.jpg"
+heroImageAlt: "The Royal Festival Hall's stone-clad front on the South Bank, seen across the Thames, with its name in blue letters above the glazed foyers"
+heroImageCredit: "Acabashi"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Royal_Festival_Hall_01.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-10-03
 updatedAt: 2026-10-03
 reviewBy: 2027-01-04
@@ -45,6 +51,10 @@ BAFTA's public FAQs say it has red carpet viewing areas at two awards each year.
 | **BAFTA Television Awards with P&O Cruises** | Sunday 10 May 2026 | Free, through Applause Store. The 2026 application is closed; register on the listing to hear about the next |
 
 The Film and Television ceremonies are the two with a public red carpet.
+
+![The Royal Festival Hall's stone-clad front on the South Bank, seen across the Thames, with its name in blue letters above the glazed foyers](../../assets/articles/bafta-red-carpet/royal-festival-hall-from-the-thames.jpg)
+
+*The Royal Festival Hall on the South Bank, seen from across the Thames. Photo: [Acabashi](https://commons.wikimedia.org/wiki/File:Royal_Festival_Hall_01.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ## How to apply
 
