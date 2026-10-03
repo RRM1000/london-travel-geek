@@ -103,7 +103,7 @@ The kitchen is à la carte and cooked to order: grilled sea bream with ratatouil
 <!-- evidence: Jazz Cafe Camden -->
 *££ · Camden · 5 Parkway, NW1 · Cited by 5 sources · #9 of 10, Time Out · [restaurant tickets](https://thejazzcafe.com/restaurant-bookings/)*
 
-A two-level music venue where the first-floor restaurant is a mezzanine looking down on the stage. You do not book a table separately: each gig sells **restaurant tickets** beside standing ones, at £15 to £50 against £15 to £20 standing for the acts on sale in late September 2026, and the ticket is the table. The menu that month ran from a birria taco at £11.50 and a dry-aged cheeseburger at £17 to a rib-eye with chimichurri at £34.
+A two-level music venue where the first-floor restaurant is a mezzanine looking down on the stage. You do not book a table separately: each gig sells **restaurant tickets** beside standing ones, at £15 to £50 against £15 to £20 standing for the acts listed in late September 2026, and the ticket is the table. The menu that month ran from a birria taco at £11.50 and a dry-aged cheeseburger at £17 to a rib-eye with chimichurri at £34.
 
 ![Diners eat on the first-floor mezzanine at the Jazz Cafe, looking down on a band playing on the stage below](../../assets/articles/dinner-and-a-show-london/jazz-cafe.jpg)
 
@@ -457,7 +457,7 @@ A bar and restaurant inside a Grade II-listed former church, which is why some l
 
 *££ · Westminster · Westminster Pier, SW1A · [its site](https://www.cityexperiences.com/london/city-cruises/)*
 
-City Cruises runs the Thames dinner sailings from Westminster Pier. Its **dinner cruise** sails nightly at 7.45pm for three hours, three British courses with live singers and dancing, from £99 in late September 2026; a VIP upgrade adds Champagne, front seats, canapés and a cheeseboard. Its **jazz dinner cruise** puts a jazz band on the same route over three courses, at £119 on the one date on sale, 2 October 2026. The **murder mystery dinner cruise**, with actors running a whodunnit at your table, leaves from **Tower Millennium Pier, not Westminster**, and has one date on sale, 31 October. All three are for ages 13 and over.
+City Cruises runs the Thames dinner sailings from Westminster Pier. Its **dinner cruise** sails nightly at 7.45pm for three hours, three British courses with live singers and dancing, from £99 in late September 2026; a VIP upgrade adds Champagne, front seats, canapés and a cheeseboard. Its **jazz dinner cruise** puts a jazz band on the same route over three courses, on selected dates rather than nightly, at £119 in late September 2026. The **murder mystery dinner cruise**, with actors running a whodunnit at your table, leaves from **Tower Millennium Pier, not Westminster**, and has one date on sale, 31 October. All three are for ages 13 and over.
 
 GetYourGuide sells a <a href="https://www.getyourguide.com/activity/-t5275?partner_id=WWP7I0R&amp;cmp=dinner-and-a-show-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">three-hour Thames dinner cruise with a live performance and dancing</a> from £81. [Our Thames cruises guide](/articles/thames-river-cruises-london/) compares every sailing, including the cheaper lunch cruise that passes the same landmarks.
 

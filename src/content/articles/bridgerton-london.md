@@ -3,7 +3,7 @@ title: "Bridgerton in London: Everywhere a Fan Can Actually Go"
 seoTitle: "Bridgerton Filming Locations London: Prices & Tours"
 description: "Ranger's House is free to view but open on select dates only. Castle Howard's own site confirms it played the Duke of Hastings's estate. Bath's Assembly Rooms are closed until 2027. Verified locations, prices and the Bridgerton tours you can book."
 publishedAt: 2026-09-15
-updatedAt: 2026-09-25
+updatedAt: 2026-10-03
 reviewBy: 2026-11-01
 sites:
   - london
@@ -31,7 +31,7 @@ faq:
   - q: "Where was Queen Charlotte: A Bridgerton Story filmed?"
     a: "Hampton Court Palace supplied Base Court, Fountain Court and the Privy Garden — Historic Royal Palaces' own site says the Privy Garden 'serves as the exterior of Queen Charlotte's palace.' Belton House in Lincolnshire played young King George's residence, and Blenheim Palace, Hatfield House, Waddesdon Manor and Merton College, Oxford, were used for further scenes."
   - q: "Is Bath's Assembly Rooms open, where Daphne and the Duke first meet?"
-    a: "No. The National Trust's own site states: 'Bath Assembly Rooms is now closed for renovations. We look forward to welcoming visitors back in 2027.' It is the room used for Daphne and the Duke's first meeting in series one and for Lady Danbury's ball in Queen Charlotte. Bath's other Bridgerton buildings, the Holburne Museum and No.1 Royal Crescent, are open as normal."
+    a: "No. The National Trust's own site states that Bath Assembly Rooms is closed for renovations and that it expects to welcome visitors back in 2027. It is the room used for Daphne and the Duke's first meeting in series one and for Lady Danbury's ball in Queen Charlotte. Bath's other Bridgerton buildings, the Holburne Museum and No.1 Royal Crescent, are open as normal."
 ---
 
 **Ranger's House in Greenwich, the Bridgertons' front door, costs nothing to look at but opens its rooms on select dates only.** Most Bridgerton locations are real stately homes with their own tickets and opening days, and most are outside London. This page covers the London ones first, then the day trips, with what each costs.
@@ -56,7 +56,7 @@ faq:
 | Osterley Park, house and garden | £18.00 | National Trust |
 | Ham House, house and garden | £18.00 | National Trust |
 | Bridgerton walking tour, Greenwich | £27.00 | GetYourGuide |
-| Hampton Court Palace, off-peak | £29.00 | Historic Royal Palaces |
+| Hampton Court Palace, off-peak | £30.00 | Historic Royal Palaces |
 | Blenheim Palace, Park and Gardens | £34.00 | Blenheim Palace |
 | Hampton Court half-day trip from London, with tickets | £80.00 | GetYourGuide |
 
@@ -83,7 +83,7 @@ The locations in London:
 | Ranger's House, Greenwich, SE10 8QX | Bridgerton House exterior | Grounds free; house open select dates, booked ahead |
 | Ham House, Richmond, TW10 7RS | Bridgerton House terrace and kitchen, Penwood House, Benedict's cottage (S4) | £18 house and garden, no booking |
 | Osterley Park and House, Isleworth, TW7 4RB | The Full Moon Ball (S3) | £18 house and garden, house closed Mon–Tue |
-| Hampton Court Palace, East Molesey, KT8 9AU | Queen Charlotte's palace: Base Court, Fountain Court, Privy Garden | £29 off-peak adult, included in standard ticket |
+| Hampton Court Palace, East Molesey, KT8 9AU | Queen Charlotte's palace: Base Court, Fountain Court, Privy Garden | £30 off-peak adult, included in standard ticket |
 | Syon House and Park, Isleworth, TW7 6AZ | Hastings House (S1) | House £16.50, open Sun–Tue; gardens £7, Sun–Tue |
 | Lancaster House, Stable Yard, SW1A 1BB | St James's Palace, with Hampton Court | Exterior only — no public entry |
 | Old Royal Naval College, Greenwich | Appeared in series two | Grounds free; see our Greenwich guide |
@@ -179,7 +179,7 @@ Most of the grand interiors were filmed outside London, in Somerset, Wiltshire, 
 
 Bath stands in for Regency London's Grosvenor Square. Our [Bath day trip guide](/articles/bath-day-trip/) covers the Roman Baths, the trains and the rest of the city; here is the Bridgerton layer on top of it.
 
-> ⚠️ **The Assembly Rooms are closed.** The National Trust's own site is blunt: **"Bath Assembly Rooms is now closed for renovations. We look forward to welcoming visitors back in 2027."** This is the Tea Room where Daphne Bridgerton and the Duke of Hastings meet for the first time in series one, and where Lady Danbury's first ball of the season plays out in *Queen Charlotte*. **Bennett Street, Bath, BA1 2QH.**
+> ⚠️ **The Assembly Rooms are closed.** The National Trust's own site is blunt: the rooms are **closed for renovations, with visitors welcome again in 2027.** This is the Tea Room where Daphne Bridgerton and the Duke of Hastings meet for the first time in series one, and where Lady Danbury's first ball of the season plays out in *Queen Charlotte*. **Bennett Street, Bath, BA1 2QH.**
 
 The **Holburne Museum**, at the top of Great Pulteney Street, played **Lady Danbury's estate** and is open regardless: its permanent collection is free, daily, 10am–5pm (Sunday and bank holidays 11am–5pm, last admission 4.30pm), with special exhibitions from £16.50 (£8 reduced). **No.1 Royal Crescent**, Bath's period-furnished show house, stood in for **Grosvenor Square** — already priced in our Bath guide at £16 for adults, closed Mondays. The **Guildhall** hosted a further ball scene in series one.
 
@@ -262,7 +262,7 @@ Ham House and Osterley Park are National Trust houses in west London, with Syon 
 | Lunch | £12.00 |
 | Total per adult | £64.30 |
 
-Swap either house for Hampton Court Palace (£29 off-peak on weekdays, £32 at weekends) to add Queen Charlotte's palace.
+Swap either house for Hampton Court Palace (£30 off-peak on weekdays, £33 at weekends) to add Queen Charlotte's palace.
 
 ## What is not worth it
 

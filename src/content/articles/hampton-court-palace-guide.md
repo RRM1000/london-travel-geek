@@ -1,8 +1,9 @@
 ---
 title: "Hampton Court Palace: Tickets, Prices and How to Get There"
 seoTitle: "Hampton Court Palace 2026: Tickets, Prices & Hours"
-description: "Historic Royal Palaces' own 2026 prices for Hampton Court: adult tickets from £29 off-peak to £36 over Christmas, the train from Waterloo in 35 minutes, and what's included — the maze, the Tudor Kitchens and the Great Vine."
+description: "Historic Royal Palaces' own 2026 prices for Hampton Court: adult tickets from £30 off-peak to £36 over Christmas, the train from Waterloo in 35 minutes, and what's included — the maze, the Tudor Kitchens and the Great Vine."
 publishedAt: 2026-06-21
+updatedAt: 2026-10-03
 reviewBy: 2027-01-04
 sites:
   - london
@@ -25,7 +26,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 faq:
   - q: "How much are tickets to Hampton Court Palace?"
-    a: "Adult is £29.00 online off-peak (weekdays) or £32.00 peak (weekends and bank holidays) until 30 September 2026, rising to £30.00/£33.00 from 1 October. Children aged 5–17 are £14.50–£16.50 depending on the season, and under-5s are free. Senior, student and disabled-concession tickets are £23.50–£26.30. An optional 10% donation is added at checkout. Prices are Historic Royal Palaces' own, current as of September 2026."
+    a: "Adult is £30.00 online off-peak (weekdays) or £33.00 peak (weekends and bank holidays) from 1 October 2026. Children aged 5–17 are £15.00–£16.50, and under-5s are free. Senior, student and disabled-concession tickets are £24.30–£26.30. An optional 10% donation is added at checkout. Prices are Historic Royal Palaces' own, current as of September 2026."
   - q: "How long do you need at Hampton Court Palace?"
     a: "Historic Royal Palaces' own guidance is at least three hours to see the state rooms and gardens, and four hours or more if you want the maze, the Great Vine and a proper walk through the grounds. The palace itself suggests a two-hour, three-hour and full-day route depending on how much time you have."
   - q: "How do you get to Hampton Court Palace from London?"
@@ -45,7 +46,7 @@ Hampton Court Palace is two palaces sharing one address on the Thames in East Mo
 It's an easy palace to under-plan. The Tudor Kitchens alone cover half an acre, the gardens run to 60 acres, and the hedge maze has been catching visitors out since the 1690s — treating it as a two-hour add-on to a day in London leaves you rushing past most of it.
 
 > 💡 **The Short Version:**
-> - **Price:** Adult £29.00 online off-peak / £32.00 peak until 30 September 2026, then £30.00/£33.00 from 1 October. Children (5–17) £14.50–£16.50; under-5s free. An optional 10% donation is added at checkout. Book direct through [Historic Royal Palaces](https://www.hrp.org.uk/hampton-court-palace/visit/tickets-and-prices/) or skip arranging transport with the <a href="https://www.getyourguide.com/london-l57/hampton-court-palace-half-day-trip-from-london-with-tickets-t70032/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Half-Day Trip from London with Tickets on GetYourGuide</a>, £80pp with return coach transport and entry included — it saves finding your own way to and from Waterloo.
+> - **Price:** Adult £30.00 online off-peak / £33.00 peak from 1 October 2026. Children (5–17) £15.00–£16.50; under-5s free. An optional 10% donation is added at checkout. Book direct through [Historic Royal Palaces](https://www.hrp.org.uk/hampton-court-palace/visit/tickets-and-prices/) or skip arranging transport with the <a href="https://www.getyourguide.com/london-l57/hampton-court-palace-half-day-trip-from-london-with-tickets-t70032/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Half-Day Trip from London with Tickets on GetYourGuide</a>, £80pp with return coach transport and entry included — it saves finding your own way to and from Waterloo.
 > - **Getting there:** South Western Railway direct from **London Waterloo**, **35 minutes**, **Zone 6**, two trains an hour. In summer, a **riverboat from Westminster or Richmond** takes far longer but is part of the day out.
 > - **Time needed:** Historic Royal Palaces' own guidance is **at least three hours**, four or more if you want the gardens and maze properly.
 > - **What's included:** The maze, the Tudor Kitchens, the Great Vine, the Privy Garden and the Magic Garden all come with standard admission — nothing extra to book once you're through the gate.
@@ -59,14 +60,10 @@ Historic Royal Palaces splits the year into standard pricing (to 27 November 202
 
 | Ticket | Off-peak (weekday) | Peak (weekend/bank holiday) | Notes |
 | :--- | ---: | ---: | :--- |
-| **Adult** (to 30 Sep) | **£29.00** | £32.00 | |
-| **Adult** (from 1 Oct) | **£30.00** | £33.00 | |
-| **Child 5–17** (to 30 Sep) | £14.50 | £16.00 | Under 5s free |
-| **Child 5–17** (from 1 Oct) | £15.00 | £16.50 | Under 5s free |
-| Senior / student / disabled concession (to 30 Sep) | £23.50 | £25.50 | Carer or companion goes free |
-| Senior / student / disabled concession (from 1 Oct) | £24.30 | £26.30 | |
-| Groups (to 30 Sep) | £26.70 | £29.40 | |
-| Groups (from 1 Oct) | £27.60 | £30.40 | |
+| **Adult** | **£30.00** | £33.00 | |
+| **Child 5–17** | £15.00 | £16.50 | Under 5s free |
+| Senior / student / disabled concession | £24.30 | £26.30 | Carer or companion goes free |
+| Groups | £27.60 | £30.40 | |
 | £1 tickets | £1.00 | £1.10 | See below |
 | Members | Free | Free | |
 
@@ -166,7 +163,7 @@ The vine is harvested every **September**, and the grapes — an average crop of
 
 Hampton Court hosts two big annual events on the grounds, run by outside organisers rather than Historic Royal Palaces itself.
 
-The **Hampton Court Palace Food Festival** runs over the August bank holiday weekend most years; the 2026 edition ran **29–31 August**, with festival tickets including free entry to the palace and gardens on the day. The 2027 edition is planned for August, though exact dates were not yet published at the time of writing.
+The **Hampton Court Palace Food Festival** runs over the August bank holiday weekend most years; the 2026 edition ran **29–31 August**, with festival tickets including free entry to the palace and gardens on the day. The 2027 edition is planned for August 2027.
 
 The **RHS Hampton Court Palace Garden Festival** — for decades the world's largest flower show by area — last ran at the palace **1–6 July 2025**. It's now a biennial event: there is no Hampton Court edition in 2026, with the RHS's show that year held at Badminton Estate in Gloucestershire instead, and the festival returns to Hampton Court in **2027**.
 

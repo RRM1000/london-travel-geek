@@ -1,7 +1,7 @@
 ---
 title: "Banksy and London Street Art: What's Still There"
 seoTitle: "Banksy in London 2026: What Survives + Street Art Map"
-description: "Fifteen Banksys still standing and the ones that are gone, a walking route past the central London ones, the two ticketed Banksy exhibitions, where the city's other street art actually is, and where to buy a print."
+description: "Fifteen Banksys still standing and the ones that are gone, a walking route past the central London ones, the Banksy pieces you can see indoors, where the city's other street art actually is, and where to buy a print."
 heroImage: "../../assets/articles/london-street-art/london-street-art.jpg"
 heroImageAlt: "A large painted mural covering a brick wall on Bacon Street off Brick Lane"
 heroImageCredit: "Fred Romero"
@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Bacon_Street.
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-09-03
-updatedAt: 2026-09-23
+updatedAt: 2026-10-03
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -32,7 +32,7 @@ Most Banksy maps of London send you to walls where the work no longer exists. Pi
 
 This guide **says which are gone**, which is the single most useful thing a street art guide can do.
 
-**It covers two things.** The first half is Banksy — what survives, what has been removed, and the two ticketed exhibitions showing work that has come off walls. The second half is the rest of London's street art, which is where most of the city's best painting actually is and none of which needs a ticket.
+**It covers two things.** The first half is Banksy — what survives, what has been removed, and the indoor collections showing work that has come off walls. The second half is the rest of London's street art, which is where most of the city's best painting actually is and none of which needs a ticket.
 
 **Fifteen Banksys are still viewable as originals in situ**: the Cannon Street rat, the I Love London rat on Chiswell Street, the two Basquiat tributes, the two Foundry pieces now on the front of art'otel Hoxton, the Pink Car at the Old Truman Brewery, the Bermondsey fishing boy, the Royal Family in Stoke Newington, the Chelsea elephants, the Walthamstow pelicans, the Charlton rhino, the Finsbury Park tree, the Stargazing Children at Centre Point, and Blind Patriotism at Waterloo Place. Everything else you will read about has been removed, stolen, boarded over, scrubbed off or replaced with a replica.
 
@@ -236,7 +236,7 @@ Banksy is a fraction of it, and the rest is more interesting.
 
 A three-hundred-metre tunnel under Waterloo station where graffiti is **legal and repainted continuously**. It is the only place in London where you can reliably watch work being made rather than just look at it — on any given afternoon somebody is painting, and they are happy to be watched.
 
-**Free, open at all hours, and roofed**, which makes it one of the best wet-weather hours in central London. Nothing lasts: a wall painted this morning may be gone by Friday, so what you photograph is genuinely yours alone.
+**Free, open at all hours, and roofed**, which makes it one of the best wet-weather hours in central London. Nothing lasts: a wall painted on Monday may be gone by Friday, so what you photograph is genuinely yours alone.
 
 **Bring nothing and buy nothing** — there is no shop, no ticket and no guide. There are bars, a bowling alley and a restaurant in the arches off it if you want to stay.
 
@@ -356,9 +356,9 @@ Dozens of murals along and around the high street, coordinated locally over seve
 
 ## Seeing Banksy indoors
 
-Everything else in this guide is on a wall in the street, free, and might be gone next week. These are the opposite: originals indoors, where they are not going anywhere.
+Everything else in this guide is on a wall in the street, free, and might be gone within a week. These are the opposite: originals indoors, where they are not going anywhere.
 
-**Two are public museums holding single works that came off the street**: the piranhas at the London Museum and a rat at the London Transport Museum. **The other two are private collections.** Neither The Art of Banksy nor Moco is run by Banksy; both are assembled from resale pieces and mounted commercially. That is not a criticism, but it is the thing to understand before you pay: you are seeing a collector's holdings, not an artist's show.
+**Two are public museums holding single works that came off the street**: the piranhas at the London Museum and a rat at the London Transport Museum. **The third is a private collection**, Moco Museum. It is not run by Banksy; it is assembled from resale pieces and mounted commercially. That is not a criticism, but it is the thing to understand before you pay: you are seeing a collector's holdings, not an artist's show.
 
 ### The piranhas, London Museum, Smithfield
 
@@ -376,37 +376,23 @@ A rat dangling from a clock face, painted in October 2019 on the door of a Trans
 
 **Entry is an annual pass**, £27 for an adult with under-18s free, plus a free timed ticket for the day. Last entry is 5.15pm. Worth it if you would go anyway; the museum is about ten minutes' walk from Centre Point, the second stop on the route.
 
-### The Art of Banksy, Soho
-
-*£19.50 · 100 Charing Cross Road WC2H 0JG · **closes 29 September***
-
-**Over 150 pieces** — prints, unique works and ephemera — billed as the largest collection of original and authenticated Banksy works anywhere, and the operators put it at 1.5 million visitors across 15 cities. It has already done London twice, in Covent Garden and on Regent Street, and this Soho run is the last of it.
-
-> ⚠️ **It closes on 29 September and it is not coming back to this address.** If Banksy is the reason you are reading this page, that is the deadline. The site does still carry at least one plainly out-of-date notice, so confirm the date when you book.
-
-**Ticket prices include the booking fee but a £2.50 transaction fee is added on top.** General admission **£19.50**, students £15, **under-12s free**, 12–16s £15, groups of six or more £15 a head, school groups £10 a student with a free adult per ten.
-
-**Open Mon–Fri 11am–9pm, Sat 10am–9pm, Sun 10am–8pm**, last admission an hour before closing — the 9pm closes make it one of very few art things in London you can do after dinner.
-
-**Practical oddities worth knowing.** It is fully wheelchair accessible but deliberately **low-lit**. There is **no cloakroom** and large bags are refused, with bags searched on entry. It is **cashless**. Photographs are encouraged without flash, but **pens, pencils and markers are banned outright** — so no sketching, which catches out art students every week. There is a café, but no food or drink inside the exhibition itself.
-
 ### Moco Museum London, Marble Arch
 
 *From £16.90 · Marble Arch 1-4, W1H 7EJ · daily 10am–7pm*
 
-The permanent one. Moco is a private modern-art museum with sister sites in Amsterdam and Barcelona, and its London building sits beside Marble Arch. **Banksy is the anchor but not the whole show** — Basquiat, Warhol and a rotating contemporary programme share the floors, which is the difference between this and a single-artist exhibition.
+Moco is a private modern-art museum with sister sites in Amsterdam and Barcelona, and its London building sits beside Marble Arch. **Banksy is the anchor but not the whole show** — Basquiat, Warhol and a rotating contemporary programme share the floors, which is the difference between this and a single-artist exhibition.
 
 **Allow 90 to 120 minutes**, which is their own estimate and about right for the building.
 
 **Tickets start at £16.90** and run through roughly £23.90 and £28.90 tiers depending on the day and what is bundled; booking online saves up to £5 a ticket against the door. **Under-4s go free.**
 
-**Open every day, 10am to 7pm**, which makes it the more reliable of the two private collections — no closing date, no residency to run out. Marble Arch is the nearest station.
+**Open every day, 10am to 7pm**, with no closing date and no residency to run out. Marble Arch is the nearest station.
 
 <div data-stay-strip></div>
 
 ### The gift shops
 
-**Both private collections have one, and they are the realistic souvenir answer.** Moco's shop is a substantial part of the visit rather than a rack by the exit, and The Art of Banksy sells prints and merchandise alongside the exhibition. Neither sells original Banksy work — for that, see **Where to buy it** below — but a poster from either costs a fraction of a Di-Faced Tenner and is honestly labelled as what it is.
+**Moco has one, and it is the realistic souvenir answer.** The shop is a substantial part of the visit rather than a rack by the exit. It sells no original Banksy work — for that, see **Where to buy it** below — but a poster costs a fraction of a Di-Faced Tenner and is honestly labelled as what it is.
 
 ---
 
@@ -458,7 +444,7 @@ There are two completely separate markets here and they have almost nothing to d
 * **Walk it yourself.** Shoreditch, Hackney Wick, Camden, Brixton, Croydon and Penge all reward an aimless hour, and everything in this guide is on a public street.
 * **Guided tours** run roughly £15–£30 and are worth it once, because the good guides know which pieces are painted over what, and who fell out with whom. The free walking tours are tip-based rather than actually free. Our [walking tours guide](/articles/best-walking-tours-london/#street-art) covers Alternative London's two, with and without a spray-painting workshop.
 * **Leake Street tunnel** under Waterloo is legal, free, open all hours, and repainted constantly — the only place in London you can watch it being made.
-* **The indoor Banksys are mostly the exception to the free rule.** The Art of Banksy is £19.50 and closes 29 September; Moco Museum is from £16.90 and runs year-round; the London Transport Museum's rat needs a £27 annual pass. The piranhas at the London Museum, from 28 November 2026, are free.
+* **The indoor Banksys are mostly the exception to the free rule.** Moco Museum is from £16.90 and runs year-round; the London Transport Museum's rat needs a £27 annual pass. The piranhas at the London Museum, from 28 November 2026, are free.
 * **Buying it is a different question entirely.** A print by a working street artist from a Shoreditch gallery runs from the low tens to a few hundred pounds. A resale Banksy starts around £2,450 for a Di-Faced Tenner and climbs steeply from there. See **Where to buy it** above.
 * **Nothing here is permanent.** Everything in this guide was checked in August 2026 and a piece can go the week after publication, which is the nature of the form rather than a flaw in it.
 

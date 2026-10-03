@@ -27,8 +27,8 @@ faq:
     a: "Yes, entirely. The catch is not money but timing — the programme goes live in August, and the buildings people most want to see either ballot or release timed slots that go within hours of opening. If you are deciding in September, the marquee buildings have gone. Plan around the walk-up sites instead, of which there are hundreds, and set a reminder for the programme launch next August."
   - q: "Can you still get tickets for the Last Night of the Proms?"
     a: "The 2026 concert was on 12 September and is over, but seats sell out far in advance every year, and the hall is never closed to you. Day Promming tickets — standing, in the arena or the gallery — go on sale at 9.30am on the day of the concert, two per person. Season ticket holders can redeem from 11am the day before. It is the cheapest way into the most oversubscribed classical concert in Britain and almost no guide mentions it."
-  - q: "What exhibitions are closing in London in September 2026?"
-    a: "James McNeill Whistler at Tate Britain closes on Sunday 27 September. It is ticketed and free for Tate Members; book ahead for the final weekend."
+  - q: "Which exhibition was the biggest to close in London in September 2026?"
+    a: "James McNeill Whistler at Tate Britain, which closed on Sunday 27 September 2026. It was ticketed and free for Tate Members."
   - q: "What is the weather like in London in September?"
     a: "Usually 19 to 21°C by day and around 12 to 13°C at night, cooling noticeably through the month, and historically one of the drier months. The practical point is that afternoons stay warm while evenings stop being reliable — take a jacket even on a hot day. Sunset moves from about 7.30pm at the start of the month to about 6.45pm by the end, so the last genuinely good evenings for river walks and outdoor drinking are the first three weeks."
 ---
@@ -75,13 +75,13 @@ The Thames is the reason London is here, and September is the one month the city
 
 ### The Great River Race — 21.6 miles, 300 boats, mostly in fancy dress
 
-**This year's race was on Saturday 12 September 2026, first boats crossing the start line at 12.45pm.**
+**The race was on Saturday 12 September 2026, first boats crossing the start line at 12.45pm.**
 
 London's river marathon, and a genuinely strange and wonderful thing to stumble on. Around **300 fixed-seat crews row 21.6 miles from Millwall in the east to Ham in the west**, under every bridge in between. It started in 1988 with 61 boats and is now international, with crews from America, Australia and across Europe — and a large part of the field is raising money in fancy dress, so the serious athletes are threaded through a flotilla of nonsense.
 
 **It is free to watch and you do not need a plan.** Stand on any bridge or bank and it will come past; the organiser publishes an observation points page giving rough times along the course. The finish at Ham has food, a bar and a disco. There is also a supporters' boat from Millwall to Ham, which is bookable.
 
-One warning worth carrying: **the start time moves with the tide** and is confirmed late, so never assume last year's. The organiser's site is **greatriverrace.org.uk**.
+One warning worth carrying: **the start time moves with the tide** and is confirmed late, so never assume the previous year's. The organiser's site is **greatriverrace.org.uk**.
 
 ### Open House Festival — the free one everybody misses by a week
 
@@ -115,7 +115,7 @@ Because it runs the same nine days as Open House, the sensible approach is to tr
 
 ### Last Night of the Proms — and how to actually get in
 
-**This year's concert was on Saturday 12 September 2026, 7.15pm, doors 5.45pm**, Royal Albert Hall.
+**The concert was on Saturday 12 September 2026, 7.15pm, doors 5.45pm**, Royal Albert Hall.
 
 The close of a summer of more than eighty concerts. In 2026 it is **Yuja Wang** on piano, returning after her 2023 appearance, with Scottish tenor **Nicky Spence** and the massed BBC forces under **Sakari Oramo**.
 
@@ -133,15 +133,15 @@ What it means for a visitor is threefold: a schedule of open events and shopping
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Exhibitions closing this month
+## Exhibitions that closed in September
 
-### James McNeill Whistler — Tate Britain, closes 27 September
+### James McNeill Whistler — Tate Britain, closed 27 September 2026
 
-The month's biggest closing show, ending on Sunday 27 September, and **the first major European Whistler exhibition in thirty years**.
+The month's biggest closing show, which ended on Sunday 27 September 2026, and **the first major European Whistler exhibition in thirty years**.
 
 A full retrospective of the American who spent his career in London: **the famous paintings alongside works rarely or never shown**, running from his teens in St Petersburg through to the enigmatic late self-portraits, and taking in portraits, drawings, prints and designs. The Nocturnes are the reason most people come — *Old Battersea Bridge* among them — and they are the paintings that got him into a libel court arguing that a picture need not be a picture *of* anything.
 
-**Ticketed, and free for Tate Members**, which pays for itself quickly if you are going to two or more shows this autumn. Book ahead for the final weekend: turning up on spec is likely to fail.
+**Ticketed, and free for Tate Members**, which pays for itself quickly if you are going to two or more shows in a season.
 
 ## Exhibitions worth the trip
 
@@ -149,7 +149,7 @@ Running through September and beyond, so no rush — but these are the good ones
 
 **BBC TV 90 at Alexandra Palace**, 18 September to 30 November, is the pick. BBC television began at Ally Pally in 1936, so a ninetieth-anniversary exhibition there is on the actual site rather than merely about it — the transmitter mast is still on the roof.
 
-**John Constable: views of nature** at the British Museum runs to 4 October and is **free**. **Frida: The Making of an Icon** at Tate Modern runs to 3 January, so it will keep. The **Serpentine Pavilion** is in Kensington Gardens until 25 October, also free, and September is the last month it is reliably pleasant to sit in one. **Richard Dadd** at the Royal Academy runs to 25 October. **Open Roots** opened at the Photographers' Gallery on 18 September.
+**John Constable: views of nature** at the British Museum runs to 4 October and is **free**. **Frida: The Making of an Icon** at Tate Modern runs to 3 January, so it will keep. The **Serpentine Pavilion** is in Kensington Gardens until 25 October, also free, and September is the final month it is reliably pleasant to sit in one. **Richard Dadd** at the Royal Academy runs to 25 October. **Open Roots** opened at the Photographers' Gallery on 18 September.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -167,7 +167,7 @@ One piece of housekeeping that will date any older guide you read: **the Duke of
 
 ## Gigs worth planning around
 
-Not a listings page — Songkick and DICE do that better. These are the shows worth building an evening around, and this month one of them is a building.
+Not a listings page — Songkick and DICE do that better. These are the shows worth building an evening around, and in September one of them was a building.
 
 ### Blue Note London — St Martin's Lane, open since 23 September
 
@@ -221,7 +221,7 @@ Three more worth watching: **Romy Gill has taken over The Pem** in St James's an
 
 **Crowds.** The best argument for September. Schools return in the first week and the difference is immediate — from about the 5th, the big museums, the major attractions and the restaurants that never have tables all become manageable.
 
-**Prices.** Hotel rates fall from the August peak in the first week, then climb sharply for the middle stretch when Open House, the Design Festival and Fashion Week land on top of each other. If you are flexible, the first week and the last week of September are the value in this month.
+**Prices.** Hotel rates fall from the August peak in the first week, then climb sharply for the middle stretch when Open House, the Design Festival and Fashion Week land on top of each other. If you are flexible, the first week and the last week of September are the value in September.
 
 **Looking ahead.** October brings five art fairs in a single week alongside the closing weekend of the [BFI London Film Festival](/articles/london-film-festival/), a free Bayeux Tapestry festival at the British Museum, and the clocks going back. It is all in our [Things to Do in London in October](/articles/things-to-do-in-london-in-october/) guide.
 

@@ -3,7 +3,7 @@ title: "The Best Cabaret in London: What's Actually Still Open"
 seoTitle: "Best Cabaret London 2026: Venues Still Open"
 description: "London's biggest cabaret operator has collapsed and most guides still list rooms that shut years ago. Every venue here was status-checked against its own site, with the closed ones named."
 publishedAt: 2026-09-01
-updatedAt: 2026-09-29
+updatedAt: 2026-10-03
 reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
@@ -67,7 +67,6 @@ That is the problem with picking a cabaret night here. This is a form that runs 
 | **The London Cabaret Club** | Dinner show | Bloomsbury | £73.09 | Seated |
 | **London Cabaret Collective** | Dinner cabaret and circus | Piccadilly | £50 | Seated |
 | **The Lost Estate: 58th Street** | Jazz supper show | Peckham | £74.85 | Seated |
-| **The Lost Estate: CHAT NOIR!** | Dinner cabaret | West Kensington | £99.85 | Seated · **ends Sept** |
 | **Sarastro** | Restaurant with live opera | Covent Garden | £27.50 | Seated · no ticket |
 | **Ronnie Scott's Late Late Show** | Late jazz and cabaret | Soho | **£12** | Seated |
 | **PizzaExpress Live, The Pheasantry** | Supper club | Chelsea | £20 | Seated |
@@ -81,7 +80,7 @@ That is the problem with picking a cabaret night here. This is a form that runs 
 
 ---
 
-## Go now: the one that may not be here next year
+## Go now: the one that may not be here in 2027
 
 ### Bethnal Green Working Men's Club
 
@@ -233,7 +232,7 @@ The programme is extraordinarily dense: **cabaret on fifteen separate nights in 
 
 **Most of it costs nothing. LIPSYNC1000 heats are free to enter and free to watch**, and ticketed specials are £8 early bird or £12 standard. The booking policy is explicitly **non-curated** — new artists can get free space if they are self-sufficient, while established producers negotiate fees or door splits for premium slots. That open door is why the bill is as good as it is.
 
-**Access is partial and the venue says so plainly**, which is more than most manage. The ground-floor bar is fully wheelchair accessible with street-level entry, a wide main door and a gender-accessible toilet with key access. **The basement performance space is down 17 steps and is not wheelchair accessible.** The venue states it "is currently not fully accessible" and is working on it. **No age limit is published.**
+**Access is partial and the venue says so plainly**, which is more than most manage. The ground-floor bar is fully wheelchair accessible with street-level entry, a wide main door and a gender-accessible toilet with key access. **The basement performance space is down 17 steps and is not wheelchair accessible.** The venue states that it is not fully accessible and that it is working on it. **No age limit is published.**
 
 ### Royal Vauxhall Tavern
 
@@ -295,7 +294,7 @@ The most expensive way to see cabaret in London, and the format most visitors ac
 
 **The only one of these built around a full themed production rather than a bill of variety turns**, and the most expensive dinner-cabaret in London.
 
-The current show is **Roxie Rocks Chicago, running 24 September to 30 January 2027**, with Christmas in Chicago from 26 November to 19 December, a one-night Midnight in Chicago on 31 December, and Copacabana returning next summer. Pre-show entertainment starts at 6.30pm, the show at 7pm, and an after-party follows. You are seated at tables and the dress code is "smart elegance."
+The current show is **Roxie Rocks Chicago, running 24 September to 30 January 2027**, with Christmas in Chicago from 26 November to 19 December, a one-night Midnight in Chicago on 31 December, and Copacabana returning in summer 2027. Pre-show entertainment starts at 6.30pm, the show at 7pm, and an after-party follows. You are seated at tables and the dress code is "smart elegance."
 
 **Four tiers, all inclusive of fees:** **Silver £73.09** gets a reserved area, the show and the after-party but **no food at all** — the tier people most often book by mistake. **Gold £134.89** adds a premium table and a three-course menu, **Diamond £196.69** adds canapés, a welcome drink and a VIP table, and **Royal Diamond £237.89** adds half a bottle of Moët, cloakroom and petit fours.
 
@@ -328,18 +327,6 @@ The setting is 1930s New York: **three sets of live jazz** wrapped in theatrical
 **The address is deliberately withheld**, "as any self-respecting speakeasy should be," and issued to ticket holders. It is in Peckham; plan your route home accordingly, because that is a different journey from a Soho night.
 
 The same company's **Great Christmas Feast**, its Dickens and *A Christmas Carol* show, returns for 2026 — but presale signup is all that exists so far, with **no dates and no prices published**.
-
-### The Lost Estate: CHAT NOIR!
-
-*London W14 9PL · West Kensington, Earl's Court · seated · **ends September 2026***
-
-**It closes this month**, and the venue's own wording is "must end September — final tickets now on sale," so this is a booking decision rather than a browsing one.
-
-It is 1890s Paris done as an immersive dinner: a **three-course French menu from £99.85**, with cabaret performers doing magic, mime, dance and comedy around your table, plus vintage cocktails and absinthe rituals. Because you are **seated for dinner throughout, participation is effectively optional** — this is the rare immersive dinner where you can genuinely just eat and watch, which makes it the safe pick for anyone who hates being pulled on stage.
-
-Shows run **6.45pm Tuesday to Sunday, with 12.45pm matinees on Saturday and Sunday.**
-
-The venue describes itself as accessible and gives a phone number for detail rather than publishing a full access statement, so call if you need specifics. If you miss it, 58th Street above is the same company and continues.
 
 ### Sarastro
 
@@ -441,7 +428,7 @@ More than thirty international acrobats, aerialists and stunt performers do the 
 
 *The Globe of Death. Photo: Cirque Berserk.*
 
-The 45-minute Winter Wonderland version, "IGNITE!", is **not running in 2026** — Gandeys has taken the Hyde Park circus slot. The Charing Cross run is the way to see the company this year.
+The 45-minute Winter Wonderland version, "IGNITE!", is **not running in 2026** — Gandeys has taken the Hyde Park circus slot. The Charing Cross run is the way to see the company in 2026.
 
 ### Zippos Circus
 
@@ -477,7 +464,7 @@ The Playhouse has been reconfigured in the round, with the audience seated as pa
 
 **Age guidance is 13+** — the production recommends that younger children do not attend, citing adult content, firearms and one sudden loud noise in Act 2.
 
-**One thing to flag: there are no accessibility performances currently scheduled**, which is unusual for a long-running West End production and worth knowing in advance.
+**One thing to flag: there are no accessibility performances scheduled**, which is unusual for a long-running West End production and worth knowing in advance.
 
 ### Magic Mike Live
 
@@ -503,7 +490,7 @@ This is the section other guides leave out, and it is why people turn up at lock
 
 **The entire Proud cabaret operation in London has collapsed.** This is the big one, and it took three venues with it:
 
-* **Proud Embankment** — closed. The building at 8 Victoria Embankment is now the **Emerald Theatre**, opened 2025 with an 810 standing and 450 seated capacity — but the Emerald itself currently has **zero events on sale**, so the address is effectively dark either way.
+* **Proud Embankment** — closed. The building at 8 Victoria Embankment is now the **Emerald Theatre**, opened 2025 with an 810 standing and 450 seated capacity — but the Emerald itself has **zero events on sale**, so the address is effectively dark either way.
 * **Proud Cabaret City**, 1 Minster Court — no public shows; it takes private-event enquiries only.
 * **Haus of Cabaret London**, the successor brand — no events planned.
 
@@ -523,8 +510,8 @@ This is the section other guides leave out, and it is why people turn up at lock
 * **Bar Wotever** — last listed at the Royal Vauxhall Tavern on **Tuesday 14 May 2024**, and there is nothing to book.
 * **Cabaret Roulette** — nothing listed since January 2024.
 * **The Blitz Party** — nothing listed since June 2020, so **the £25 ticket price still circulating online is historic**, not current.
-* **Underbelly Festival**, now at Cavendish Square Gardens rather than the South Bank — **currently dark**, with no shows on sale and no dates announced. Guides still placing it on the South Bank are out of date twice over.
-* **NoFit State Circus** — **no London dates are published at all.** They bring their own big top when they come; there is currently nothing to book.
+* **Underbelly Festival**, now at Cavendish Square Gardens rather than the South Bank — **dark**, with no shows on sale and no dates announced. Guides still placing it on the South Bank are out of date twice over.
+* **NoFit State Circus** — **no London dates are published at all.** They bring their own big top when they come; there is nothing to book.
 
 ---
 

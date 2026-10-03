@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_Comic_Con_Oct_1
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-06-19
-updatedAt: 2026-09-29
+updatedAt: 2026-10-03
 reviewBy: 2026-10-22
 sites: [london]
 canonicalSite: london
@@ -20,7 +20,7 @@ faq:
   - q: "What are the dates and where is MCM Comic Con London 2026?"
     a: "Friday 23 to Sunday 25 October 2026, at ExCeL London in the Royal Docks. MCM runs the show twice a year at ExCeL, in May and October."
   - q: "How much are MCM Comic Con London tickets, and what's sold out?"
-    a: "General entry is £29 on Friday and Sunday, £38 on Saturday, plus a £7 daily child ticket (5+; under-5s free). Priority entry, which opens two hours earlier each day, is £39 on Friday and Sunday and £48 on Saturday. The Weekend ticket, both VIP tiers and the Friday Squad Bundle have sold out; Sunday's Squad Bundle and all single-day Priority and General tickets are still on sale, as of 27 September 2026."
+    a: "General entry is £29 on Friday and Sunday, £38 on Saturday, plus a £7 daily child ticket (5+; under-5s free). Priority entry, which opens two hours earlier each day, is £39 on Friday and Sunday and £48 on Saturday. The Weekend ticket, both VIP tiers and the Friday Squad Bundle have sold out; As of 3 October 2026, Sunday's Squad Bundle and all single-day Priority and General tickets remain available."
   - q: "What are the cosplay and prop rules at MCM Comic Con?"
     a: "No metal blades, no guns or gun-shaped items built from metal or hard wood, no functional bows or crossbows, and nothing over 150cm (180cm for a narrow staff or spear) unless it dismantles by hand. Every prop gun or blaster gets a fresh security marking each day at the door. Costumes max out at 2.5 metres across, and nudity or exposed prosthetic genitalia isn't allowed."
   - q: "How do MCM's celebrity autographs and photo ops work?"
@@ -43,7 +43,7 @@ MCM Comic Con returns to ExCeL London for its autumn edition on **Friday 23 to S
 
 | Ticket | Price | What it gets you | Sold out? |
 | --- | --- | --- | --- |
-| VIP Legend Pass | £300 | 3-day priority-hours entry, early access to autograph and photo-op booking, VIP lounge, fast-track queues, 15% off merch, this year's extra perks are tabletop-gaming themed | **Sold out** |
+| VIP Legend Pass | £300 | 3-day priority-hours entry, early access to autograph and photo-op booking, VIP lounge, fast-track queues, 15% off merch, the October 2026 extra perks are tabletop-gaming themed | **Sold out** |
 | VIP Pass | £230 | Same fast-track access as VIP Legend, but early panel bookings rather than early autograph/photo-op access | **Sold out** |
 | Weekend ticket | £98 | 3-day entry at Priority-entry hours, no fast-track perks | **Sold out** |
 | Priority entry, Friday | £39 | Entry from 10am, two hours before general | On sale |
@@ -54,7 +54,7 @@ MCM Comic Con returns to ExCeL London for its autumn edition on **Friday 23 to S
 | General entry, Sunday | £29 | Entry from noon to 5pm | On sale |
 | Child ticket, daily | £7 | Ages 5 and up; under-5s go free with a paying adult | On sale |
 
-*Prices from [MCM's own ticket page](https://www.mcmcomiccon.com/london/en-us/tickets.html), 27 September 2026; they include VAT and service fees, but a posted physical badge adds its own delivery charge at checkout.*
+*Prices from [MCM's own ticket page](https://www.mcmcomiccon.com/london/en-us/tickets.html), 3 October 2026; they include VAT and service fees, but a posted physical badge adds its own delivery charge at checkout.*
 
 A **Squad Bundle** buys five Priority tickets at once for a group: £158 on Sunday. Friday's bundle has sold out and there's no Saturday bundle.
 
@@ -63,7 +63,7 @@ A **Squad Bundle** buys five Priority tickets at once for a group: £158 on Sund
 - **Order before the delivery deadline and your badge is posted to your door**, so you skip the pick-up queue; order after it and you show the QR code on your phone or a printout at registration instead.
 - **Once a ticket type sells out, it isn't reopened** — that includes the Weekend ticket and both VIP tiers for this show.
 
-> ⚠️ **Weekend and both VIP tiers are sold out.** As of 27 September 2026, the only tickets left are single-day Priority and General entry for Friday, Saturday and Sunday, plus the Sunday Squad Bundle.
+> ⚠️ **Weekend and both VIP tiers are sold out.** As of 3 October 2026, the only tickets left are single-day Priority and General entry for Friday, Saturday and Sunday, plus the Sunday Squad Bundle.
 
 ## Cosplay, weapons and props: the rules that matter
 
@@ -144,4 +144,4 @@ Rooms this close to ExCeL price against the show calendar rather than the season
 
 ## Not to be confused with: London Comic Con Spring
 
-A different show, a different organiser, and a different venue: **London Comic Con Spring**, run by Showmasters (not MCM/ReedPop) at **Olympia London**, most recently 28 February to 1 March 2026. Its 2027 dates hadn't been announced as of late September 2026.
+A different show, a different organiser, and a different venue: **London Comic Con Spring**, run by Showmasters (not MCM/ReedPop) at **Olympia London**, held 28 February to 1 March 2026. Its 2027 dates hadn't been announced as of late September 2026.

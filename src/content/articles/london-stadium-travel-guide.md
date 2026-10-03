@@ -5,7 +5,7 @@ description: "Why London Stadium has almost no parking of its own, which of Stra
 heroImage: "../../assets/articles/london-stadium-travel-guide/london-stadium-bowl.jpg"
 heroImageAlt: "Inside London Stadium during the Novuna London Athletics Meet, a packed crowd under the distinctive roof and \"LONDON STADIUM\" branding on the pitch-side screens"
 publishedAt: 2026-06-06
-updatedAt: 2026-09-25
+updatedAt: 2026-10-03
 reviewBy: 2026-10-15
 sites: [london]
 canonicalSite: london
@@ -143,7 +143,7 @@ This venue's event mix is unusually wide, and the club's own paperwork treats th
 
 *The Novuna London Athletics Meet.*
 
-**Concerts** are the least frequent case of all. As of September 2026, London Stadium has no music events on sale for the rest of the year — the next confirmed one, Fontaines D.C., is booked for 2027. If a concert is announced for your dates, treat the general transport advice in this guide as the starting point and check the venue's own site for that specific event's doors and curfew times.
+**Concerts** are the least frequent case of all. London Stadium lists no concerts for the rest of 2026; the next, Fontaines D.C., is on 9 July 2027. If a concert is announced for your dates, treat the general transport advice in this guide as the starting point and check the venue's own site for that specific event's doors and curfew times.
 
 **Stadium tours** run on non-event days, covering the pitch and dressing rooms, and are a way to see London Stadium without the crowds at all.
 
@@ -151,7 +151,7 @@ This venue's event mix is unusually wide, and the club's own paperwork treats th
 
 ## Where to stay
 
-London Stadium's own site recommends the **Adagio Original London Stratford** aparthotel, two minutes from Stratford's DLR platforms and about ten minutes from the stadium, and currently offers a 10% discount with the promo code **LS10BB** booked directly through Adagio.
+London Stadium's own site recommends the **Adagio Original London Stratford** aparthotel, two minutes from Stratford's DLR platforms and about ten minutes from the stadium, and offers a 10% discount with the promo code **LS10BB** booked directly through Adagio.
 
 This site already covers the area's other main options in detail — **[Premier Inn London Stratford](hotel:premier-inn-stratford)**, inside the Westfield complex and the closest hotel of any kind to Queen Elizabeth Olympic Park, and **[Hyatt Regency London Stratford](hotel:hyatt-regency-stratford)**, also built into Westfield — in our [Stratford area guide](/articles/stratford-area-guide/) and our [where to stay in Shoreditch](/articles/where-to-stay-shoreditch/) and [aparthotels](/articles/aparthotels-london/) guides. If you'd rather stay central and travel out, our [best areas to stay in London](/articles/best-areas-to-stay-in-london/) guide covers the Central, Jubilee and Elizabeth line neighbourhoods that put you within one change of Stratford.
 
@@ -229,7 +229,7 @@ London Stadium is, on the evidence of its own published access statement, thorou
 ## Continue planning your London trip
 
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — London's biggest rugby crowd, and the last train out at 00:11
-- ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — West Ham are in the Championship this season, which makes this a far easier ticket than a top-flight one
+- ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — West Ham are in the Championship in 2026/27, which makes this a far easier ticket than a top-flight one
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)**

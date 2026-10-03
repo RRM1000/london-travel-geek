@@ -3,7 +3,7 @@ title: "The Best Immersive Experiences in London: What's Actually Still Open"
 seoTitle: "Best Immersive Experiences London 2026: Still Open"
 description: "Immersive shows close constantly and most guides are years out of date. Every experience here was status-checked against its own site, with the closed ones listed separately."
 publishedAt: 2026-07-02
-updatedAt: 2026-09-25
+updatedAt: 2026-10-03
 reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
@@ -16,7 +16,7 @@ faq:
   - q: "Is Jeff Wayne's War of the Worlds immersive experience still open?"
     a: "No. It closed on 30 April 2026 after seven years, with no notice, when the company licensed to operate it ceased trading. Elvis Evolution closed in the same collapse. The producers say they are exploring ways to bring it back but have given no timeline."
   - q: "Can you still do You Me Bum Bum Train?"
-    a: "Not at the moment. The last run ended in 2025 and there is no ballot open and no announced return. The only way in has always been the mailing list on its own site — before the previous run there was an eight-year gap, so it is worth joining and forgetting about."
+    a: "No. The last run ended in 2025 and there is no ballot open and no announced return. The only way in has always been the mailing list on its own site — before the previous run there was an eight-year gap, so it is worth joining and forgetting about."
   - q: "Which immersive experiences are good for children?"
     a: "Shrek's Adventure and the Paddington Bear Experience are built for young families. Mundo Pixar is all ages and photo-led. The Murdér Express takes children from 5 at early shows. Most of the rest are 16 or 18 plus — Bridge Command, Peaky Blinders, Alcotraz and the standard Traitors sessions all have age limits."
   - q: "Do you have to join in at immersive shows?"
@@ -125,7 +125,7 @@ Three districts rather than one yard: **Old Town**, the underground industrial m
 
 ### Punchdrunk's next London production — no date
 
-Teased with no details at all. The only public sign it exists is that VIP tickets to their September film screening carry priority booking for it. If you care, that is currently the whole route in.
+Teased with no details at all. The only public sign it exists is that VIP tickets to their September film screening carry priority booking for it. If you care, that is the whole route in.
 
 ---
 
@@ -189,7 +189,7 @@ The full Round Table format from the television series — **Traitors, Faithfuls
 
 **The thing to understand about this one is that the show is only half of it.** Most "immersive" West End productions dress a foyer and call it a world. Here the pre-show is a genuine second venue, and if you turn up at curtain-up you have paid full price for roughly half of what you bought.
 
-**The whole building was purpose-built for it.** The Empress Space at Earls Court — most recently the BBC Earth Experience — was converted into what the production calls the Empress Museum, with **a 700-seat Big Top constructed inside it** for the performance itself. This is not a theatre that took a booking. It is a venue made for one show, and it is the world premiere of that show.
+**The whole building was purpose-built for it.** The Empress Space at Earls Court — formerly the BBC Earth Experience — was converted into what the production calls the Empress Museum, with **a 700-seat Big Top constructed inside it** for the performance itself. This is not a theatre that took a booking. It is a venue made for one show, and it is the world premiere of that show.
 
 **Before the Big Top, you walk through an invented circus world**, and the production's own map names every part of it: the **Zoetrope Bar**, the **Balloon Bar**, the **Empress Diner**, a **Costume Department**, the **Barker Stage**, **The Nest**, the **Night Sky Tent**, **Happy Medium**, **The Cloud** and the **Beasts Cage**. There are close-up performances throughout, characters in role, and food and drink built into the theming rather than sold from a trestle table.
 
@@ -264,7 +264,7 @@ It is faster and more physical than it sounds — you are on your feet the whole
 
 **It is the most central thing in this guide.** 248 Oxford Street, one minute from Oxford Circus and six from Bond Street, which makes it the easiest immersive attraction in London to slot into an afternoon you are already spending on Oxford Street.
 
-**Watch the price.** The £24.50 adult and £20 child rates are before a **£2.50 booking fee per ticket**, so a family of four is paying £10 in fees before anyone walks in. A **20% off-peak discount** is currently promoted, which is worth timing a visit around. School groups are far cheaper: £10 a child, one free adult per ten children, extra teachers £16.50.
+**Watch the price.** The £24.50 adult and £20 child rates are before a **£2.50 booking fee per ticket**, so a family of four is paying £10 in fees before anyone walks in. A **20% off-peak discount** is promoted, which is worth timing a visit around. School groups are far cheaper: £10 a child, one free adult per ten children, extra teachers £16.50.
 
 **Entry is by timed slot and they mean it** — arrive fifteen minutes early. You can move a booking up to 24 hours ahead through Manage Booking, for another £2.50. Guided tours are a separate add-on running **Mondays and Tuesdays at 11.30am and Fridays at 6.30pm**, and those add-ons are non-refundable.
 
@@ -311,16 +311,6 @@ A fantasy prison beneath Shoreditch where dark magic has been outlawed. You are 
 The guards, inmates and allies around you all want different things, and working out who to trust is the game. **Three contraband potions are built into the story** rather than ordered from a bar, with clue-hunting and hidden messages between them.
 
 **Tiers run £56.50, £65.50 and £88.50**, all including the booking fee, for one hour forty-five. It is the most theatrical of the three cocktail experiences on this page and the one that asks most of you.
-
-### CHAT NOIR!, West Kensington
-
-*From £99.85 · **ends September 2026***
-
-1890s Paris in the Lost Estate's hands: a three-course French banquet, absinthe rituals, magic, mime and cabaret. **Seated, so participation is optional** — the rare immersive dinner where you can genuinely just eat and watch.
-
-Evenings at 6.45pm Tuesday to Sunday, with weekend matinees at 12.45pm. Described as an accessible venue, though it is worth ringing the box office rather than assuming.
-
-**It closes this month.** The same company brings back its Christmas Carol feast for the 2026 season, staged at the site of Dickens's first public reading of it — presale sign-up is open now.
 
 ---
 
@@ -480,9 +470,9 @@ This is the section other guides leave out, and it is the reason people turn up 
 
 **Dark rather than dead:**
 
-* **You Me Bum Bum Train** — the genre's holy grail, and currently nothing to book. The last run ended in 2025 and there is no ballot open. **The mailing list is the only route in**, and the gap before the previous run was eight years, so join it and forget about it. The company asks you not to research the show, which is sound advice: the less you know, the better it works.
+* **You Me Bum Bum Train** — the genre's holy grail, and nothing to book. The last run ended in 2025 and there is no ballot open. **The mailing list is the only route in**, and the gap before the previous run was eight years, so join it and forget about it. The company asks you not to research the show, which is sound advice: the less you know, the better it works.
 * **Phantom Peak** — returns **4 December 2026** at Westfield Stratford after moving from Canada Water.
-* **Swamp Motel** and **Les Enfants Terribles** — both still trading, neither currently running a public ticketed London show.
+* **Swamp Motel** and **Les Enfants Terribles** — both still trading, neither running a public ticketed London show.
 * **Darkfield** — on tour, with no London dates on their own schedule.
 
 ---

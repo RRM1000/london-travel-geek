@@ -243,7 +243,7 @@ Then south into [Chelsea](/articles/chelsea-area-guide/) for the King's Road and
 
 ### Option B — Bloomsbury, then King's Cross and the canal
 
-- **British Museum** — **free, daily 10.00–17.00 and Fridays to 20.30, last entry 16.45 (20.15 on Fridays).** A free ticket buys priority entry when it is busy; walk-ups are admitted daily. Pick three things — Sutton Hoo, the Egyptian mummies, the Islamic world galleries — and leave while you still like it. **The museum closes at 16.00 on 28 and 30 September 2026** for events.
+- **British Museum** — **free, daily 10.00–17.00 and Fridays to 20.30, last entry 16.45 (20.15 on Fridays).** A free ticket buys priority entry when it is busy; walk-ups are admitted daily. Pick three things — Sutton Hoo, the Egyptian mummies, the Islamic world galleries — and leave while you still like it.
 - **Lunch on Lamb's Conduit Street** — *sixteen minutes and 1.1km north-east*, a pedestrianised Georgian street of independents.
 - **British Library** — *twenty-six minutes and 1.5km from the museum.* **[The Treasures Gallery is free and needs no booking](https://events.bl.uk/exhibitions/treasures-of-the-british-library)**: Magna Carta and *Beowulf* sit in the same room as Shakespeare and Monty Python. **Monday to Thursday 09.30–17.45, Friday 09.30–16.15, Saturday 09.30–16.45 — and closed all day Sunday**, even though the building itself opens 11.00–17.00. It is kept cool and dark to protect the manuscripts, so take a layer.
 - **Coal Drops Yard and the Regent's Canal** — *fifteen minutes and 1.1km on*, then the towpath. See [King's Cross](/articles/kings-cross-area-guide/) and the [King's Cross to Camden canal walk](/articles/kings-cross-camden-canal-walk/).

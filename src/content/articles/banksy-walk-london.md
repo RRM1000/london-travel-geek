@@ -5,7 +5,7 @@ description: "A numbered route past the best original Banksys still standing in 
 heroImage: "../../assets/articles/banksy-walk-london/blind-patriotism-waterloo-place.jpg"
 heroImageAlt: "Banksy's Blind Patriotism statue on its plinth on Waterloo Place, a flag blowing across the figure's face, with a crowd photographing it from behind green barriers"
 publishedAt: 2026-09-14
-updatedAt: 2026-09-25
+updatedAt: 2026-10-03
 reviewBy: 2026-09-30
 sites: [london]
 canonicalSite: london
@@ -108,8 +108,6 @@ The Centre Point version is on **St Giles Square**, at the junction of New Oxfor
 ![Banksy's stencil of two children lying on their backs on a low stone wall at Centre Point, splashed with blue paint that has run down over both figures](../../assets/articles/banksy-walk-london/stargazing-children-centre-point.jpg)
 
 *The Stargazing Children, after the paint attack.*
-
-> ⚠️ **The Art of Banksy exhibition is two minutes down Charing Cross Road**, at number 100, and it **closes for good on 29 September 2026**. It is ticketed, and our [street art guide covers it](/articles/london-street-art/#the-art-of-banksy-soho).
 
 **To stop 3: take the Tube.** Walking from here to the next Banksy is about 45 minutes across town with nothing to see on the way. Instead, walk to **Tottenham Court Road** and take the **Central line eastbound to Bank**, four stops. TfL's journey planner puts the whole leg at **about 27 minutes door to door**: six minutes to the station, seven on the train, and fourteen from Bank down Cousin Lane to the river.
 
