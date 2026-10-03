@@ -219,7 +219,7 @@ Which sets up a neat trade: **Sunday is the one day the Chapel is shut and the o
 
 ### LEGOLAND
 
-**This is a separate day out, not an afternoon after the Castle.** It is two miles from Windsor town centre at SL4 4AY, with over 55 rides and attractions, open from 10:00 and closing between 16:30 and 18:00 depending on the day. It shuts on most weekdays from November to February. Our [LEGOLAND Windsor guide](/articles/legoland-windsor-day-trip/) has the ticket prices by date, every height limit, Fastrack and the closed days.
+**This is a separate day out, not an afternoon after the Castle.** It is two miles from Windsor town centre at SL4 4AY, with over 55 rides and attractions, open from 10:00 and closing between 16:30 and 18:00 depending on the day. It shuts on most weekdays from November to February. Our [LEGOLAND Windsor guide](/articles/legoland-windsor-day-trip/) has the ticket prices by date, every height limit, Fastrack and the closed days, and [theme parks near London](/articles/theme-parks-near-london/) sets it against Thorpe Park, Chessington and Paultons.
 
 **Day tickets start at £32 booked online at least a day ahead, and cost £68 on the day.** Parking is **£13 booked ahead, £15 on the day**, with Priority Parking at £18 per car. Green Line **702 and 703 between them give a half-hourly service** from central Windsor and Slough to the gate for that £3 single. There is also a shuttle bus from stops near both rail stations, but LEGOLAND is careful to say it is **chargeable and not operated by the park** — the 702 is the option with a published price.
 

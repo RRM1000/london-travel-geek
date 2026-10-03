@@ -20,7 +20,7 @@ faq:
   - q: "How much are Paultons Park tickets?"
     a: "£46.75 a person booked online ahead for October 2026 dates, including the Halloween event, and £61.50 if you book on the day of the visit. November weekends are £29 ahead and the Christmas days £41. Adults and children pay the same; children under 1 metre, measured in shoes, are free and need no ticket."
   - q: "How do you get to Paultons Park from London by train?"
-    a: "Direct train from Waterloo to Southampton Central, about an hour and a half, then the X7 bus towards Salisbury from stop SB on Wyndham Place, about 20 to 25 minutes, £3 single. The X7 runs roughly hourly Monday to Saturday and not at all on Sundays or bank holidays; Radio Taxis charge a set £20 from the station if you pre-book."
+    a: "Direct train from Waterloo to Southampton Central, about 1 hour 20 minutes on the fastest trains, then the X7 bus towards Salisbury from stop SB on Wyndham Place, about 20 to 25 minutes, £3 single. The X7 runs roughly hourly Monday to Saturday and not at all on Sundays or bank holidays; Radio Taxis charge a set £20 from the station if you pre-book."
   - q: "Is Peppa Pig World included in the Paultons Park ticket?"
     a: "Yes. Peppa Pig World is one of six themed areas inside Paultons Park and every park ticket includes it. There is no separate Peppa Pig World ticket."
   - q: "Is Paultons Park worth it for older children?"
@@ -35,7 +35,7 @@ faq:
 
 It is a family-run park of more than 70 rides and attractions on 140 acres at the edge of the New Forest, near Romsey, and it is home to the UK's only Peppa Pig World. It is not owned by Merlin, so a Merlin Annual Pass does not get you in.
 
-> 💡 **The Short Version:** **Built for families with children under 14**: Peppa Pig World is aimed at ages 1 to 6, and the new **Valgard** coasters give older children something bigger. **Tickets £46.75 online in advance in October 2026, £61.50 booked on the day; under 1m free.** By **train from Waterloo to Southampton Central (about 1 hour 30) and the X7 bus (£3)**, or a **£20 pre-booked taxi**. **Parking is free.** **The traps: the X7 does not run on Sundays**, and the park is shut on November weekdays, from **4 January to 5 February 2027**, and on most term-time weekdays in February and March.
+> 💡 **The Short Version:** **Built for families with children under 14**: Peppa Pig World is aimed at ages 1 to 6, and the new **Valgard** coasters give older children something bigger. **Tickets £46.75 online in advance in October 2026, £61.50 booked on the day; under 1m free.** By **train from Waterloo to Southampton Central (about 1 hour 20) and the X7 bus (£3)**, or a **£20 pre-booked taxi**. **Parking is free.** **The traps: the X7 does not run on Sundays**, and the park is shut on November weekdays, from **4 January to 5 February 2027**, and on most term-time weekdays in February and March.
 
 ## What tickets cost
 
@@ -72,7 +72,7 @@ Book direct on [paultonspark.co.uk](https://paultonspark.co.uk/tickets/).
 
 ### Train and the X7 bus
 
-**London Waterloo to Southampton Central is direct, about an hour and a half**, on South Western Railway, with direct trains from Clapham Junction too.
+**London Waterloo to Southampton Central is direct, about 1 hour 20 minutes on the fastest trains**, on South Western Railway, with direct trains from Clapham Junction too.
 
 From Southampton Central, leave by platform 1, cross the road, and take the **X7 or X7R towards Salisbury from stop SB on Wyndham Place**, about 100 metres from the station exit. The bus takes **about 20 to 25 minutes**, single fares are **£3** on Salisbury Reds, and it runs **roughly hourly, Monday to Saturday only**. Some journeys go right into the park grounds to the main entrance; the others stop at **Ower, The Mortimer Arms**, at the end of the drive, a 5 to 10 minute walk from the gate.
 
