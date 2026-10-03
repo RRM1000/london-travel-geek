@@ -1,10 +1,10 @@
 ---
 title: "BFI London Film Festival 2026: Dates, Tickets and How to Get Them"
 seoTitle: "London Film Festival 2026: 7–18 Oct, Tickets £10"
-description: "The BFI London Film Festival runs 7–18 October 2026 and tickets are on sale now. What has sold out, the extra release at 10am on 1 October, prices from £10, and how to get into a full screening."
+description: "The BFI London Film Festival runs 7–18 October 2026 and tickets are on sale now. What has sold out, the daily 10am releases during the festival, prices from £10, and how to get into a full screening."
 publishedAt: 2026-07-04
 updatedAt: 2026-10-03
-reviewBy: 2026-10-01
+reviewBy: 2026-10-18
 sites:
   - london
 canonicalSite: london
@@ -28,7 +28,7 @@ faq:
   - q: "Is BFI Membership worth it for the London Film Festival?"
     a: "Not for the 2026 booking, which has opened to everyone. Membership is £44 a year by direct debit, and what it saves you is the £1-a-ticket booking fee, capped at £3 a transaction and not charged at all at the box office. It makes financial sense if you also use BFI Southbank the rest of the year, because it includes two free standard Southbank tickets and up to £2.50 off. Bought after the 2026 windows closed, its festival benefit is the priority window for the 2027 edition."
   - q: "How do you get tickets for a sold-out London Film Festival screening?"
-    a: "Four routes. Extra tickets are released online at 10am on 1 October and again at 10am each morning during the festival, and more £10 tickets go on sale every Friday at 1pm. Returned tickets appear on Twickets, which caps resale at face value. At the venue, ask at the box office 45 minutes before the screening for returns. If there are none, join the standby queue 30 minutes before — standby tickets are released 15 minutes before the film starts."
+    a: "Four routes. Extra tickets are released online at 10am each morning during the festival, and more £10 tickets go on sale every Friday at 1pm. Returned tickets appear on Twickets, which caps resale at face value. At the venue, ask at the box office 45 minutes before the screening for returns. If there are none, join the standby queue 30 minutes before — standby tickets are released 15 minutes before the film starts."
   - q: "Where does the London Film Festival take place?"
     a: "Across seven London venues in 2026: BFI Southbank, BFI IMAX, the Royal Festival Hall (which hosts the galas), Curzon Soho, the Prince Charles Cinema, the ICA and Vue West End. Selected films also screen at partner cinemas around the UK and stream on BFI Player."
   - q: "Can you resell a London Film Festival ticket you cannot use?"
@@ -203,9 +203,7 @@ For scale: the 2026 edition presents 251 features, shorts, series and immersive 
 
 Four routes, in the order worth trying them.
 
-### 1. The 1 October release, and the daily 10am release
-
-**Extra tickets go on sale at 10am on Thursday 1 October.** This is held-back stock across the programme, and it is the single best chance at something that vanished in September.
+### 1. The daily 10am release
 
 Once the festival starts, **more tickets are released online at 10am each morning** for that day's screenings. This is particularly worth doing for Royal Festival Hall screenings, because it is a large venue and production holds are released late.
 
@@ -255,8 +253,7 @@ If you want to do the festival properly without overthinking it:
 
 1. **Now** — if you are 16 to 25, join BFI 25 & Under. It is free and makes every ticket £6.
 2. **Now** — read the programme, then open the [ticket availability page](https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=ticket-availability) and book what is left. Films with a second or third screening are the easy ones.
-3. **1 October, 10am** — the extra release, and the morning LFF for Free events open for booking.
-4. **During the festival** — 10am online each morning, then returns at 45 minutes and standby at 30 minutes for anything still out of reach.
+3. **During the festival** — 10am online each morning, then returns at 45 minutes and standby at 30 minutes for anything still out of reach.
 
 **Deciding whether October is the right time for your trip?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets the month's weather, crowds and cost against the rest of the year.
 

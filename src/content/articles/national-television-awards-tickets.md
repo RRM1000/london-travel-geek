@@ -18,7 +18,7 @@ tags:
 draft: false
 faq:
   - q: "When are the National Television Awards 2027?"
-    a: "8 September 2027, at The O2 in North Greenwich, broadcast live on ITV. That is a Wednesday. A banner on nationaltvawards.com says Tuesday, but the tickets page and the calendar both give Wednesday."
+    a: "8 September 2027, at The O2 in North Greenwich, broadcast live on ITV. It is a Wednesday."
   - q: "How much are National Television Awards tickets?"
     a: "Seats run from £25 for a restricted-view floor seat to £105 for Block 112, rows M to R. Red-carpet packages are £150 and £270, the Star Treatment packages £275 and £395, and the Five Star Experience, which includes a hotel night, £1,075. Every price is before a booking fee and a venue facility fee."
   - q: "Where do I buy National Television Awards tickets?"
@@ -80,8 +80,6 @@ If you only want the arrivals and not the ceremony, the broadcast is the alterna
 Tickets for 8 September 2027 are on sale from [AXS](https://www.axs.com/uk/events/1596387/32nd-national-television-awards-tickets?skin=theo2) and [Ticketmaster](https://www.ticketmaster.co.uk/event/35006521445D08BE?did=ntaclub), both linked from [nationaltvawards.com/tickets](https://www.nationaltvawards.com/tickets). Every seat block and package is on those pages. The Five Star Experience is sold through AXS only; the other packages link to both sellers.
 
 **Join Club NTA before you book.** It is free, and the organiser describes it as the way to get "exclusive" presales and vote alerts. 
-
-**Check the date twice.** 8 September 2027 is a Wednesday. A banner on the organiser's site says Tuesday; the tickets page and the calendar say Wednesday.
 
 **Book accessible tickets by phone.** Call **020 8463 3359**, Monday to Friday, 9am to 5pm. The O2 is fully accessible, with lifts and public areas designed for wheelchair use, and **access@theo2.co.uk** answers other questions.
 
