@@ -156,6 +156,8 @@ These are industry, trade or private events.
 
 ---
 
+<div data-submit-event></div>
+
 ## Continue planning your London trip
 
 - 📺 **[National Television Awards Tickets](/articles/national-television-awards-tickets/)** — seats from £25 at The O2, and the red carpet

@@ -229,6 +229,8 @@ Or accept that the cheapest good New Year's Eve in London is a booked table at 7
 
 ---
 
+<div data-submit-event></div>
+
 ## Continue planning your London trip
 
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)**

@@ -1222,6 +1222,28 @@ const formatDate = (d: Date) =>
     margin: 0;
   }
 
+  /* "Running an event in London?" box (remark-submit-event.mjs). Quieter than a
+     callout: it is an aside for organisers, not advice for the reader. */
+  .article__body :global(.submit-event) {
+    margin-block: 2.5rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    font-size: 0.95rem;
+  }
+
+  .article__body :global(.submit-event p) {
+    margin: 0;
+  }
+
+  .article__body :global(.submit-event p + p) {
+    margin-top: 0.35rem;
+  }
+
+  .article__body :global(.submit-event a) {
+    overflow-wrap: anywhere;
+  }
+
   .article__body :global(img) {
     width: 100%;
     height: auto;

@@ -278,3 +278,5 @@ Almost nothing opens on 25 December, no transport runs, and what does open is a 
 **Deciding whether December is worth it against the rest of the year?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets its weather, crowds and cost against every other month.
 
 ---
+
+<div data-submit-event></div>

@@ -34,6 +34,7 @@
 
 /* ---- the page intro -------------------------------------------------------- */
 .wo-intro { margin-block-end: 1.5rem; }
+.wo-intro--submit { margin-block-start: -0.75rem; font-size: 0.95rem; color: var(--muted, inherit); }
 .wo-intro__fresh { color: var(--muted); font-size: 0.92rem; }
 
 /* ---- quick picks: four ways in -------------------------------------------- */

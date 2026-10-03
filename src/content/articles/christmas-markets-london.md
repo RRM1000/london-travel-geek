@@ -248,3 +248,5 @@ It is shops rather than stalls, with no road closure and no carol singing, and i
 **Old Spitalfields**, **Camden** and **Canopy Market** at King's Cross trade all year and add Christmas to what is already there rather than building a Christmas market. In December 2025 Spitalfields ran Christmas editions of its Wednesday Urban Makers market and a children's treasure trail on top of its daily stalls. None of the three had published a 2026 Christmas programme by late September. Days, hours and what each is for are in our [best London markets](/articles/best-london-markets/) guide.
 
 **Carrying on:** the [Christmas lights walk](/articles/christmas-lights-walk-london/) passes Covent Garden and ends at Trafalgar Square; [ice skating](/articles/ice-skating-london/) covers the rinks at Leicester Square, Battersea and Greenwich; and [Christmas shows and pantomimes](/articles/christmas-shows-london/) has the evening after the market.
+
+<div data-submit-event></div>

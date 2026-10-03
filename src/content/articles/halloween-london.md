@@ -336,3 +336,5 @@ Be honest with yourself about this one: **London does not have a strong trick-or
 **Planning the rest of your trip around October?** [Best Time to Visit London](/articles/best-time-to-visit-london/) covers the month's weather, crowds and cost against the rest of the year.
 
 ---
+
+<div data-submit-event></div>

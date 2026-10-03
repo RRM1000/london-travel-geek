@@ -150,6 +150,8 @@ Every show below comes from the venues' own box offices and Ticketmaster, update
 
 <div data-listings-match="christmas|xmas|\bcarols\b|nutcracker|pantomime|\bpanto\b|snowman|snowflake|messiah|santa|festive|cinderella|robin hood|beanstalk|little match girl|gingerbread|goldilocks|stick man|smartest giant|nativity" data-exclude="catering|bean toy|grimes|elf lyons|christmas parties|party packages?" data-from="2026-11-01" data-to="2027-01-31" data-limit="120"></div>
 
+<div data-submit-event></div>
+
 ## Continue planning your London trip
 
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)**: markets, lights, ice rinks and carols

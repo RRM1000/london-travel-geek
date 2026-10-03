@@ -261,3 +261,5 @@ If you are building a whole trip around this, [things to do in London in October
 ---
 
 *Every date, price, opening time and booking rule here comes from the organiser's own listing — the learned societies, the museums, the four pumping stations, Bletchley Park and London Northwestern Railway. All checked 21 September 2026.*
+
+<div data-submit-event></div>

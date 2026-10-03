@@ -270,6 +270,8 @@ You can still visit the site: the Palace of Westminster is on Parliament Square,
 
 ---
 
+<div data-submit-event></div>
+
 ## Continue planning your London trip
 
 - 🌳 **[Best Parks and Gardens in London](/articles/best-parks-gardens-london/)**

@@ -334,3 +334,5 @@ A few things worth knowing about now, even though none of them happen in October
 **Prices.** Two spikes, for two different reasons. Frieze week is the hotel spike — five ticketed fairs and an international trade audience push rates up for five days. Half term is an attraction spike rather than a hotel one: timed-entry slots go first, and turning up on spec is how a day gets wasted. The value in October is the first ten days, and — if you don't mind the dark — the very end of the month.
 
 **Working out which month suits you best?** [Best Time to Visit London](/articles/best-time-to-visit-london/) compares October's weather, crowds and hotel rates against the rest of the year.
+
+<div data-submit-event></div>

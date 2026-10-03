@@ -64,6 +64,7 @@ const headings = [
   { depth: 2, slug: "listings", text: "The listings" },
   { depth: 2, slug: "plan-the-night", text: "Plan the night" },
 ];
+import { EVENTS_EMAIL } from "../../lib/remark-submit-event.mjs";
 ---
 
 <ArticleLayout
@@ -81,9 +82,12 @@ const headings = [
 >
   <div class="wo">
     <p class="wo-intro">
-      Everything on in zones 1 and 2, plus the stadiums and arenas further out, read every morning from
+      Everything on in zones 1 and 2, plus the stadiums and arenas further out, read twice a week from
       the venues' own box offices, Ticketmaster and DICE. <em class="wo-intro__fresh">Updated {updated}.
       Long-running West End shows are left out; the <a href="/articles/london-theatre-guide/">theatre guide</a> covers those.</em>
+    </p>
+    <p class="wo-intro wo-intro--submit">
+      Running an event? Send the name, dates, venue, prices and a booking link to <a href={`mailto:${EVENTS_EMAIL}`}>{EVENTS_EMAIL}</a>. It is free to be considered.
     </p>
 
     <h2 id="find-something">Find something</h2>
