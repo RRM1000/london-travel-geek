@@ -1,4 +1,4 @@
-# Refreshes the What's On listings every morning.
+# Refreshes the What's On listings twice a week, Monday and Thursday mornings.
 #
 # Reads every source (venue box offices, Ticketmaster, DICE), rewrites the
 # Listings tabs in the Google Sheet, and commits src/data/listings.json. That
@@ -16,7 +16,7 @@ name: Refresh listings
 
 on:
   schedule:
-    - cron: "15 5 * * *" # 05:15 UTC: 06:15 in summer, 05:15 in winter
+    - cron: "15 5 * * 1,4" # Mondays and Thursdays, 05:15 UTC: 06:15 in summer, 05:15 in winter
   workflow_dispatch:
 
 permissions:

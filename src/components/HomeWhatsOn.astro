@@ -2,7 +2,7 @@
 // "On in London this week" on the homepage: six picks from the What's On
 // listings, one per category, so the week ahead reads as gig, comedy, play,
 // concert, exhibition and something for children rather than twenty dates at
-// one venue. Built from src/data/listings.json, so the daily refresh and
+// one venue. Built from src/data/listings.json, so the twice-weekly refresh and
 // rebuild rolls it forward.
 //
 // The picks start tomorrow, not today: the site is built early in the morning
@@ -51,7 +51,7 @@ const weekday = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString
       <SectionHeading
         eyebrow="What's on"
         title="On in London this week"
-        description="One pick from each kind of night out in the week ahead. Everything else is on the What's On page, updated every morning."
+        description="One pick from each kind of night out in the week ahead. Everything else is on the What's On page, updated twice a week."
       />
       <ul class="home-wo__grid">
         {picks.map(({ r, day }) => {

@@ -25,7 +25,7 @@ faq:
     a: "An hour and a half, including a 20-minute interval. This year's is a new production, directed and choreographed by Will Tuckett, running from 21 November 2026 to 3 January 2027, from £18 plus a £4 transaction fee."
 ---
 
-> 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with cheapest seats from **£6 to £10**. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. English National Ballet's **Nutcracker** is at the Coliseum from **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, opens on **10 November**. Every Christmas show in our listings is at the bottom of the page, updated daily.
+> 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with cheapest seats from **£6 to £10**. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. English National Ballet's **Nutcracker** is at the Coliseum from **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, opens on **10 November**. Every Christmas show in our listings is at the bottom of the page, updated twice a week.
 
 ## Pantomimes
 
@@ -146,7 +146,7 @@ faq:
 
 ## Every Christmas show in the listings
 
-Every show below comes from the venues' own box offices and Ticketmaster, updated daily, so it includes carol concerts, Messiahs and Christmas comedy nights as they're announced. For carols in churches, including the free ones, see the [carols section of our Christmas guide](/articles/christmas-in-london/#carols).
+Every show below comes from the venues' own box offices and Ticketmaster, updated twice a week, so it includes carol concerts, Messiahs and Christmas comedy nights as they're announced. For carols in churches, including the free ones, see the [carols section of our Christmas guide](/articles/christmas-in-london/#carols).
 
 <div data-listings-match="christmas|xmas|\bcarols\b|nutcracker|pantomime|\bpanto\b|snowman|snowflake|messiah|santa|festive|cinderella|robin hood|beanstalk|little match girl|gingerbread|goldilocks|stick man|smartest giant|nativity" data-exclude="catering|bean toy|grimes|elf lyons|christmas parties|party packages?" data-from="2026-11-01" data-to="2027-01-31" data-limit="120"></div>
 
