@@ -121,6 +121,14 @@ It is also the least frightening thing in this section by a distance: a comedy m
 
 <div data-stay-strip></div>
 
+### GrimFest, Old Red Lion Theatre, Angel
+
+*13 to 31 October 2026 · about a dozen shows · most tickets £13 to £16.50*
+
+**London's horror theatre festival, in its fifth year, in the theatre above the Old Red Lion pub at 418 St John Street, near Angel station.** Each show plays for a few nights only and most run about an hour, from ghost stories and folk horror to black comedy. [Dating the Dead](https://weareoldred.co.uk/whats-on/grimfest/dating-the-dead/) (23 to 26 October) is a comedy about a stage medium who gets a few hours in the afterlife to choose between an old flame and a new one.
+
+The curtain-raiser, 'Twas the Fright Before GrimFest on Monday 12 October, is a 90-minute taster at **£6.66**. Prices on the venue's site include the booking fee. [See the GrimFest programme](https://weareoldred.co.uk/whats-on/grimfest/).
+
 ### The Halloween Cabaret, The Scarlet Lotus
 
 *31 October only · 18+ · 2 to 3 hours*
