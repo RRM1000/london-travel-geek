@@ -57,6 +57,8 @@ Start from what you actually want out of the evening rather than from a list of 
 
 **If you want something genuinely unpredictable**, the fringe is dozens of small rooms, many above pubs, most seating under a hundred. Tickets often cost less than a cinema seat. The work is uneven and the hit rate is far better than you would expect.
 
+**If you want to see what the industry rates**, the Olivier Awards nominations are the shortlist, and the green-carpet fan pens outside the Royal Albert Hall give out free places: see [Olivier Awards tickets](/articles/olivier-awards-tickets/).
+
 **A note on the labels**, because they mislead people. **"West End" is a classification, not an address, and not a quality rating.** Most West End theatres do sit in the theatre district around Shaftesbury Avenue, the Strand and Drury Lane — but not all of them. The Apollo Victoria pictured above is one of the largest West End houses in London and it is in Victoria, nowhere near it. **Off-West End** does not mean smaller or lesser: several of those venues seat more than West End theatres do. **Fringe** means genuinely small rooms. What separates the three is the scale and nature of the production, not the postcode.
 
 ---
@@ -164,6 +166,7 @@ We run a **[dedicated London theatre site](https://www.londontheatregeek.co.uk/)
 
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🎤 **[The Best Cabaret in London](/articles/best-cabaret-london/)**
+- 🏆 **[Olivier Awards Tickets](/articles/olivier-awards-tickets/)** — the free green-carpet places and how to get one
 - 🎬 **[The Best Cinemas in London](/articles/best-cinemas-london/)**
 - 🍽️ **[Where to Eat in London](/articles/eat-in-london-guide/)**
 - 🏛️ **[Covent Garden Area Guide](/articles/covent-garden-area-guide/)**

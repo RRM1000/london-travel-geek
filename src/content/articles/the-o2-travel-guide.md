@@ -228,6 +228,8 @@ For most people, though, staying at the peninsula is a trade-off, not the defaul
 
 ## The hours before doors
 
+Going for the **National Television Awards**? Seat prices, the red-carpet packages and the check-in times are in our [National Television Awards tickets guide](/articles/national-television-awards-tickets/).
+
 **Up at The O2** is the obvious pre-show activity: a guided, 90-minute climb over the top of the dome's fabric roof, reaching 52 metres above ground with a 360-degree view of London — up to 15 miles on a clear day. Pricing runs from **£37 for a weekday daytime climb** up to **£44 for a weekend sunset climb**, with twilight and sunset slots priced in between. Book well ahead of a big event, since a climb slot and a doors time rarely both fit comfortably into the same evening.
 
 The **Design District**, a cluster of 16 low-rise studio buildings by eight different architects, sits opposite the arena, about a minute from the station — worth a look if you want something other than the retail-heavy Entertainment District, and it has its own canteen for a quieter meal before a show.
@@ -304,6 +306,7 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers the citywi
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🛏️ **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)**
 - 🎤 **[Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
+- 📺 **[National Television Awards Tickets](/articles/national-television-awards-tickets/)** — seat prices and the red carpet for the awards night held at The O2
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)**
 - 🏟️ **[Wembley Stadium and OVO Arena Travel Guide](/articles/wembley-stadium-arena-guide/)** — the equivalent guide for London's other major arena, for comparison
 - 💰 **[Money in London: Cash, Cards and ATMs](/articles/money-in-london/)** — including which London venues take no cash at all

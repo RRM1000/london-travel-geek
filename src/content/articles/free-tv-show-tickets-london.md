@@ -61,6 +61,8 @@ The line-up turns over constantly, but the shape of it does not. In early Septem
 
 **Radio is the underrated half of this.** Panel shows, comedy pilots and Radio 4 recordings are far easier to get into than a Saturday-night entertainment format, they take an hour rather than four, and you are often in a proper theatre — the BBC Radio Theatre at Broadcasting House — rather than a shed in Elstree.
 
+**Awards nights are a separate route.** The free fan-pen places at the BAFTAs and the Olivier Awards, and the seats at the National Television Awards, are in our [award ceremonies guide](/articles/award-ceremonies-london/), with a page each for the [National Television Awards](/articles/national-television-awards-tickets/) and the [Oliviers](/articles/olivier-awards-tickets/).
+
 **Where the studios actually are** matters more than people expect. Television Centre in White City is central and on the Tube. **Elstree, Pinewood and MediaCity in Salford are not** — a Strictly ticket is a day out of London, and a Millionaire Hot Seat ticket is a trip to Manchester.
 
 This page covers studio audiences. For watching a shoot on the street, see [can you watch filming in London](/articles/london-filming-locations/#can-you-watch-filming-in-london).

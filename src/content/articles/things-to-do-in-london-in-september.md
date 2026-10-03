@@ -123,6 +123,12 @@ Seats are long gone. **Day Promming tickets go on sale at 9.30am on the day of t
 
 If you want the experience without the queue, the Proms in the Park tradition has changed in recent years; check the BBC's own listing for what is running before making plans around it.
 
+### National Television Awards — and how to get in
+
+**The 2026 ceremony was on Tuesday 8 September at The O2**, broadcast live on ITV. It is a televised awards night where the winners are chosen by public vote and the public can also buy a seat.
+
+Tickets for the **8 September 2027** ceremony are sold through AXS and Ticketmaster, from **£25**, with red-carpet viewing packages at **£150** and **£270**. The [National Television Awards tickets guide](/articles/national-television-awards-tickets/) has the full price list and the booking links.
+
 ### London Fashion Week — and what it actually means for you
 
 **Thursday 17 to Monday 21 September 2026.**
