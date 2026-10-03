@@ -90,7 +90,7 @@ const SECTION_GROUP = {
   "Rooftop and sky-high pools": "rooftop",
   "Pools that welcome children": "family",
   "Spa pools, mostly for adults": "spa",
-  "Good-value hotels with a pool": "chain",
+  "Pools away from the grand hotels": "chain",
   "On the pool lists, but not a swimming pool": "not-a-pool",
 };
 const entries = [];
