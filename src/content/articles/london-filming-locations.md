@@ -5,7 +5,7 @@ description: "Gringotts is a working embassy, Sherlock's flat is on the wrong st
 heroImage: "../../assets/articles/best-london-markets/leadenhall-market.jpg"
 heroImageAlt: "The cream, maroon and green painted ironwork of Leadenhall Market's arcade under its glass roof, with shopfronts and lanterns down both sides"
 publishedAt: 2026-06-24
-updatedAt: 2026-09-27
+updatedAt: 2026-10-03
 reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
@@ -23,6 +23,12 @@ faq:
     a: "Most are streets, bridges and building exteriors, so yes and for free. Australia House and the Farmiloe Building are working buildings you can only see from outside. Rules restaurant is open and you can book Bond's table."
   - q: "What is the best filming location walk in London?"
     a: "The City has the highest concentration — Slough House on Aldersgate, the Gotham police station in Clerkenwell, Leadenhall Market from the first Harry Potter film and two Banksy Basquiats in the same tunnel, all within half an hour on foot."
+  - q: "Can you watch filming in London?"
+    a: "Only if you come across a shoot. There is no public schedule with streets and dates: productions tell residents by letter and by signs on parking bays. Film London's monthly roundup names what is filming and sometimes a borough. The Old Royal Naval College in Greenwich runs film tours on Saturdays and Sundays, £25 for adults and £10 for children."
+  - q: "How do you find out what is filming in London?"
+    a: "Film London posts a monthly \"What's On Screen and Filming\" roundup that names productions and sometimes a borough, with no dates or streets. Residents get a letter and parking-bay signs; a visitor can look for suspended bays, \"Filming in Progress\" signs and marshals."
+  - q: "Can tourists be extras in London?"
+    a: "No. Extras agencies such as Casting Collective accept only people with the right to work in the UK, and gov.uk says a Standard Visitor cannot do paid or unpaid work for a UK company or as a self-employed person."
 ---
 
 Most of London's filming locations are ordinary streets you can walk down for nothing. The pleasure is in the mismatch: Gringotts is a working embassy, Sherlock's flat is on the wrong road entirely, and the Shanghai hotel pool in *Skyfall* is in Canary Wharf.
@@ -505,6 +511,49 @@ The statues around the edge are the reason to linger: Churchill, Mandela, Gandhi
 * **Ticketed:** the **Warner Bros. Studio Tour** at Leavesden is the expensive one and needs booking weeks ahead — and it is a studio tour rather than a location. **Platform 9¾** at King's Cross is free to look at; the photograph with the trolley and scarf is the paid part, and the queue is long.
 * **Working buildings.** Several locations here are private homes, offices or churches. Exteriors are fair game; do not go in.
 * **Guided film tours** run £20–£40 and are mostly worth skipping — the locations are easy to find yourself and the guides rarely know more than the internet does.
+
+---
+
+## Can you watch filming in London?
+
+Only if you come across one. Nobody publishes a schedule of London shoots with a street and a date. Productions tell the people affected, meaning residents and businesses on the street, and the filming pages of Film London, Westminster and the City of London are written for crews applying for permission.
+
+> ⚠️ **Do not plan a trip around catching a shoot.** The monthly roundup names productions and sometimes a borough, never a street or a date. The one thing you can book is the film tour at Greenwich.
+
+### The one official feed
+
+Film London, the capital's film agency, posts a monthly "What's On Screen and Filming" roundup on its [news pages](https://filmlondon.org.uk/latest). The [post of 8 September 2026](https://filmlondon.org.uk/latest/whats-on-screen-and-filming-september-2026) said Bridgerton series five was filming across London with Greenwich named, Down Cemetery Road series two was filming across the city including Clapham, and *Charmer* was in production at Sky Studios Elstree. It gives the production and sometimes a borough, no dates and no streets. Its web address changes, so start from the news index.
+
+Spotlight and Screen Daily list productions the same way, by title.
+
+### How to tell you have found one
+
+Residents hear through a letter from the production and signs on the parking bays being suspended, according to [FilmFixer](https://filmfixer.co.uk/information-for-residents/), the film office for Camden, Southwark, Royal Greenwich, Kensington and Chelsea and Tower Hamlets. Productions are also expected to put up "Filming in Progress" signs.
+
+Small shoots give less warning. A Westminster crew of five or fewer on a pavement, with handheld kit only, needs no application to the council.
+
+### Where shoots keep happening
+
+- **Old Royal Naval College, Greenwich.** The college says it has featured in more than 300 productions over 100 years and calls itself the UK's most filmed heritage location. Its film tours leave from the Visitor Centre: "Wigs, Weddings, Powder and Palaces" on Saturdays at 11.30am and 1.30pm, and "Spies, Sleuths and Superheroes" on Sundays at 11.30am. Each takes 1 hour 15 minutes and costs £25 for adults and £10 for children. Book on the college's [Saturday](https://ornc.org/whats-on/wigs-weddings-powder-and-palaces-film-tour/) or [Sunday](https://ornc.org/whats-on/film-tour-spies/) tour page. The grounds are free, and our [Greenwich guide](/articles/greenwich-area-guide/) covers the rest of the day.
+- **Senate House, Bloomsbury.** *Spider-Man: Brand New Day* used the 19-storey Art Deco tower as the Department of Damage Control, according to [FilmFixer](https://filmfixer.co.uk/spiderman-brand-new-day/).- **The City.** The City of London Corporation lists Leadenhall Market, Smithfield Market, Guildhall, the Millennium, London, Southwark and Blackfriars bridges, the Old Bailey, the Monument and the Barbican Estate as places where crews must apply to it.
+- **Soho, Chinatown, Trafalgar Square and the streets round Big Ben.** Westminster names these as its main filming streets.
+- **Richmond Green.** Film London describes Ted Lasso series four filming here, with fans photographing the pub and bench a few metres from the crew.
+
+The [Bridgerton guide](/articles/bridgerton-london/) and the [Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/) cover those productions' own locations.
+
+### If you walk into one
+
+Crews hold pedestrians between takes with lock-offs: marshals stop people at the edge and direct them round the set. Do what the marshals say. Westminster expects crews to leave 2 metres of pavement clear, so you should still be able to get past.
+
+FilmFixer notes that English law gives you no right not to be filmed in public.
+
+Police cars, uniformed actors and guns are usually staged. The City of London requires police at shoots with replica firearms, emergency-service vehicles or actors dressed as police, fire or military, and the Met's Film Unit warns local officers and armed response teams about replica firearms in advance, under Film London's [Code of Practice](https://filmlondon.org.uk/resource/code-of-practice).
+
+### Being an extra
+
+This is not open to visitors. [Casting Collective](https://www.castingcollective.co.uk/artiste/help), a UK agency for supporting artists, takes only people over 16 with the right to work in the UK and a National Insurance number, and checks passports, visas and right-to-work documents. It says supporting artists have been legally self-employed since 2014, and [gov.uk](https://www.gov.uk/standard-visitor) says a Standard Visitor cannot do paid or unpaid work for a UK company or as a self-employed person.
+
+To be inside a production as a visitor, take free studio audience tickets instead: see our [guide to free TV and radio tickets](/articles/free-tv-show-tickets-london/).
 
 ---
 

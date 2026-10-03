@@ -63,6 +63,8 @@ The line-up turns over constantly, but the shape of it does not. In early Septem
 
 **Where the studios actually are** matters more than people expect. Television Centre in White City is central and on the Tube. **Elstree, Pinewood and MediaCity in Salford are not** — a Strictly ticket is a day out of London, and a Millionaire Hot Seat ticket is a trip to Manchester.
 
+This page covers studio audiences. For watching a shoot on the street, see [can you watch filming in London](/articles/london-filming-locations/#can-you-watch-filming-in-london).
+
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="free-tv-show-tickets-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>

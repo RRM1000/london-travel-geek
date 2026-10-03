@@ -91,6 +91,8 @@ The locations in London:
 | Hackney Empire, 291 Mare Street, E8 1EJ | Theatre scenes (S1) | Working theatre — book a show |
 | Wilton's Music Hall, Graces Alley, E1 8JB | A feminist meeting place (S2) | Working music hall — book a show |
 
+Film London's 8 September 2026 roundup had series five filming in Greenwich. Crews give the public no schedule; see [can you watch filming in London](/articles/london-filming-locations/#can-you-watch-filming-in-london).
+
 ### Ranger's House, Greenwich
 
 **"Ranger's House is an elegant Georgian villa, now best known as the exterior of the Bridgerton home in the award-winning Netflix series"** — English Heritage says so itself, on its own page for the building, alongside the property's real history as the Wernher Collection.
