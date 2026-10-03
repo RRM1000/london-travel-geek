@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "inProgress": [],
   "nextUp": [
     "Rerun node scripts/index-coverage.mjs around 6 October to see how many of the 45 unindexed guides the sitemap has fixed.",
@@ -36,6 +36,10 @@
     "Disneyland Paris from London: the six hotel ids on the page came from search-engine copies of Hotels.com URLs, not Hotels.com itself, so confirm them (Disneyland Hotel 230008, Hotel New York 230033, Newport Bay Club 230007, Cheyenne 230011, L'Élysée Val d'Europe 212020, Adagio Val d'Europe 413241). Photos wanted: Sleeping Beauty Castle from Main Street (hero), Chessy station entrance, Eurostar at St Pancras, RER A at Chessy, Disneyland Hotel frontage."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-10-03",
+      "what": "What's On listings now refresh twice a week (Monday and Thursday, 05:15 UTC) instead of daily; the homepage and the Barbican and Christmas shows pages now say \"updated twice a week\". Pushed live."
+    },
     {
       "date": "2026-10-01",
       "what": "Pushed live: London (7 commits: Disneyland Paris from London, 14 supplied photos, 44 venue photos on unusual restaurants, Indian and afternoon tea, the Clifton Nurseries café entry) and City Break Geek (Amsterdam photos, 76 credited Commons photos across 31 pages; home hero now shows five cities)."
