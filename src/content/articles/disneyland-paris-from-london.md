@@ -154,6 +154,7 @@ There are two parks side by side, and a 1-day ticket covers one or both. Disney'
 
 - 🇫🇷 **[Paris day trip](/articles/paris-day-trip/)** — the Eurostar fares, the border checks and what to do in the city if you have a day rather than a park.
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.
+- 🎢 **[Theme parks near London](/articles/theme-parks-near-london/)** — Thorpe Park, Chessington and LEGOLAND, all under an hour by train, if Paris is too far for a day.
 - 🛏️ **[Where to stay in King's Cross and St Pancras](/articles/where-to-stay-kings-cross/)** — a room you can walk from for a 06:01 train.
 - 🇧🇪 **[Brussels day trip](/articles/brussels-day-trip/)** — a shorter Eurostar than Paris, and more hours in the city for the same early start.
 - 🍫 **[Bruges from London](/articles/bruges-day-trip/)** — another Eurostar day trip, with a change at Brussels-Midi onto a Belgian train.

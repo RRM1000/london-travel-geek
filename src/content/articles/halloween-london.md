@@ -65,7 +65,7 @@ Chertsey, Surrey, KT16 8PN. Runs **2–4 and 9–11 October, then 15 October to 
 
 **Book online in advance** on [Thorpe Park's own site](https://www.thorpepark.com/explore/events/halloween-fright-nights/): park entry from **£39** (£66 at the gate), or entry plus the Fearsome Four maze package from **£71** (£98 at the gate). That package covers four of the five mazes, not the new Tenement, which is sold separately. Thorpe Park warns that popular dates sell out, and **Saturday 31 October, Halloween itself, is the one to book earliest.** Mazes are recommended for **13 and over**; The Conjuring 4D Experience needs **15 and over**.
 
-**Getting there:** train to Staines, then the 950 bus to the park. Oyster and contactless cards are not valid on that journey, so buy a National Rail ticket for the whole trip.
+**Getting there:** train from Waterloo to Staines, then the 950 bus to the park. Contactless works to Staines but Oyster does not, and the 950 takes cash or contactless only. Our [Thorpe Park guide](/articles/thorpe-park-day-trip/) has the times, the fares and every ride's height limit.
 
 ### Chessington: Howl'o'ween
 
@@ -73,7 +73,7 @@ Leatherhead Road, Chessington, KT9 2NE. Runs **3–4 and 10–11 October, then 1
 
 Advance day tickets from **£34** (£66 at the gate); under-90cm children go free. Book on [Chessington's own site](https://www.chessington.com/explore/events/halloween/).
 
-**Getting there:** trains from Waterloo, Clapham Junction and Wimbledon run to Chessington South, in Zone 6 so Oyster works, about 35 minutes from central London and a 10-minute walk from the station.
+**Getting there:** trains from Waterloo, Clapham Junction and Wimbledon run to Chessington South, in Zone 6 so Oyster works, about 35 minutes from central London and a 10-minute walk from the station. Our [Chessington guide](/articles/chessington-world-of-adventures-day-trip/) has the rest: heights, Fastrack and the days it is shut.
 
 **The choice between this and Thorpe Park is really a choice about age.** Thorpe Park's Fright Nights is built for teenagers and adults (mazes 13 and over), with scare mazes and actors who chase you; Chessington deliberately has none of that, and the theme park rides run as normal alongside the Halloween dressing. If you have children under about twelve, Chessington is the one that works and Thorpe Park is the one that ends in tears. For younger children still, [LEGOLAND Windsor's Brick or Treat](/articles/legoland-windsor-day-trip/) (from £37) and [Paultons Park's Halloween Spooktacular](/articles/paultons-park-day-trip/) (in the normal ticket, with late openings to 7.30pm) dress up the rides with shows and characters rather than scares.
 

@@ -257,7 +257,7 @@ The All-Inclusive pass carries 113 attractions against the Explorer's 76. The di
 
 * **17 are food and drink.** A breakfast at Bill's, afternoon tea at Huffkins, a Burger & Lobster, fish and chips, a steak and ale pie, a curry on Brick Lane, a Hard Rock lunch, gin tastings, a cocktail, conveyor-belt cheese.
 * **5 are guidebooks and audio tours at museums that are free to walk into.**
-* **8 are out of town** — Stonehenge, Blenheim, Legoland, Chessington, two Brighton museums, a coach to Bicester Village outlet mall, a Windsor bus tour.
+* **8 are out of town** — Stonehenge, Blenheim, [Legoland](/articles/legoland-windsor-day-trip/), [Chessington](/articles/chessington-world-of-adventures-day-trip/), two Brighton museums, a coach to Bicester Village outlet mall, a Windsor bus tour.
 * **3 are services** — 2.5GB of mobile data (£6.51), a day pass to a hotel gym (£26), and ClassPass credits (£30).
 * **3 are entertainment** — a Science Museum IMAX film, a Soho comedy club, and a *Wicked* ticket.
 

@@ -193,7 +193,7 @@ export const londonSite: SiteConfig = {
       href: "/topics/day-trips/",
       description: "Out of London and back in a day, priced and timed.",
       imageKey: "dayTrips",
-      // Seven destinations and then the comparison page, which is this
+      // The destinations, then the comparison page, which is this
       // section's "All" link - it used to lead the list as "Start here", but
       // every other panel ends with the page that holds the rest, and this one
       // should read the same way. Car hire moved out: it is a transport guide
@@ -206,6 +206,7 @@ export const londonSite: SiteConfig = {
         { label: "Bath", href: "/articles/bath-day-trip/" },
         { label: "Stonehenge", href: "/articles/stonehenge-day-trip/" },
         { label: "The Cotswolds", href: "/articles/cotswolds-day-trip/" },
+        { label: "Theme parks", href: "/articles/theme-parks-near-london/" },
         { label: "All day trips compared", href: "/articles/day-trips-from-london/" },
       ],
       // Car hire was dropped from the column above as a transport guide with no

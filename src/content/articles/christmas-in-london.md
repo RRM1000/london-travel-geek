@@ -112,7 +112,7 @@ Different from the free street displays above — these are paid, walk-through e
 
 **Book Somerset House early:** prices vary through the run and the lowest go to early bookers. **Not running in 2026:** the **Natural History Museum's** rink has closed for good, **Canary Wharf's** is taking a break for the season, and there is no **Tower of London** rink.
 
-For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Hamleys'** Regent Street grotto are both expected back but are not on sale yet — 2025 prices were roughly £36–£45 and from £65 for a group of three, respectively. **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead.
+For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Hamleys'** Regent Street grotto are both expected back but are not on sale yet — 2025 prices were roughly £36–£45 and from £65 for a group of three, respectively. **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead. Outside the centre, **[Chessington World of Adventures](/articles/chessington-world-of-adventures-day-trip/)**, in Zone 6, puts Father Christmas's grotto in a Christmas Village on selected dates from 21 November to 24 December 2026, with park entry from £32; [theme parks near London](/articles/theme-parks-near-london/) has the other parks' Christmas dates.
 
 ---
 
