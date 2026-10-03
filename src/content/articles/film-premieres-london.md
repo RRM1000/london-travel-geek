@@ -2,6 +2,12 @@
 title: "How to See Stars at a London Film Premiere"
 seoTitle: "London Film Premieres: How to Watch the Red Carpet"
 description: "Most London premieres are invitation only. The public routes are free fan-pen places through Applause Store, studio ballots and a few ticketed premieres. Where, when to arrive and what to bring."
+heroImage: "../../assets/articles/film-premieres-london/odeon-luxe-leicester-square.jpg"
+heroImageAlt: "The black-clad tower and front of Odeon Luxe Leicester Square, seen from the garden in the middle of the square"
+heroImageCredit: "Aethonatic"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Odeon_Leicester_Square_-_17_May_2026.jpg"
+heroImageLicense: "CC0"
+heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 publishedAt: 2026-10-03
 updatedAt: 2026-10-03
 reviewBy: 2027-01-15
@@ -44,6 +50,10 @@ faq:
 - **Royal Festival Hall**, on the South Bank, hosts the BFI London Film Festival galas. See the [London Film Festival guide](/articles/london-film-festival/).
 
 Not every Applause premiere is in London: the world premiere of *Peaky Blinders: The Immortal Man* was in Birmingham. Check the venue before you accept.
+
+![The black-clad tower and front of Odeon Luxe Leicester Square, seen from the garden in the middle of the square](../../assets/articles/film-premieres-london/odeon-luxe-leicester-square.jpg)
+
+*Odeon Luxe Leicester Square. Photo: [Aethonatic](https://commons.wikimedia.org/wiki/File:Odeon_Leicester_Square_-_17_May_2026.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 ## Four ways in
 
