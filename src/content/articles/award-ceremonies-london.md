@@ -2,6 +2,12 @@
 title: "Award Ceremonies and Galas in London: How to Get In"
 seoTitle: "Award Ceremonies London: How the Public Gets In"
 description: "Which London award ceremonies and galas the public can get into, and how: tickets, free fan pens, ballots and invitation-only nights, with prices, venues, a calendar and the BRITs' move to Manchester."
+heroImage: "../../assets/articles/award-ceremonies-london/bafta-film-awards-canopy-royal-opera-house.jpg"
+heroImageAlt: "BAFTA mask banners hang between the columns of the Royal Opera House, with a glass-roofed red-carpet canopy built out over the pavement"
+heroImageCredit: "Tom Morris"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:British_Academy_Film_Awards.jpg"
+heroImageLicense: "CC BY-SA 3.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-10-03
 updatedAt: 2026-10-03
 reviewBy: 2026-11-04
@@ -96,6 +102,10 @@ Several of the free ways in run through one agency, **Applause Store**, which is
 - Places are **over-allocated**, so admission is not guaranteed, and entry is first come, first served.
 - Photo ID rules are printed on the ticket, and a photo or scan of an ID is not accepted.
 - Applause Store says anyone found selling a free place has it voided. Never pay for one.
+
+![BAFTA mask banners hang between the columns of the Royal Opera House, with a glass-roofed red-carpet canopy built out over the pavement](../../assets/articles/award-ceremonies-london/bafta-film-awards-canopy-royal-opera-house.jpg)
+
+*The red-carpet canopy for the BAFTA Film Awards at the Royal Opera House, Covent Garden, a former venue for the ceremony. Photo: [Tom Morris](https://commons.wikimedia.org/wiki/File:British_Academy_Film_Awards.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
 ---
 
