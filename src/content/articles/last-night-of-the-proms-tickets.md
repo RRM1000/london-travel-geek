@@ -2,6 +2,12 @@
 title: "Last Night of the Proms Tickets: Ballot, Day Tickets and Dates"
 seoTitle: "Last Night of the Proms Tickets: Ballot and £8 Entry"
 description: "Most Last Night of the Proms tickets are allocated by ballot, and the cheapest way in is not a ballot. The open ballot, the five-concert ballot, leftover sales and £8 day tickets, with the 2026 dates and prices."
+heroImage: "../../assets/articles/last-night-of-the-proms-tickets/royal-albert-hall-proms-banner.jpg"
+heroImageAlt: "The red-brick Royal Albert Hall with a BBC Proms banner across its entrance arch and a red London bus passing in front"
+heroImageCredit: "Ermell"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:London_Royal_Albert_Hall-20130715-RM-175050.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-10-03
 updatedAt: 2026-10-03
 reviewBy: 2027-04-01
@@ -58,6 +64,10 @@ The BBC's page for the concert is the official source: [Last Night of the Proms 
 
 **There is a second £8 route for regular Prommers.** A limited number of Last Night Promming tickets are reserved for people who have attended five or more concerts in the Promming areas. You buy one ticket each, in person at the Door 12 box office, on presentation of your used e-tickets. In 2026 the releases were at 9am on Tuesday 21 July, Monday 17 August and Monday 7 September.
 
+![The red-brick Royal Albert Hall with a BBC Proms banner across its entrance arch and a red London bus passing in front](../../assets/articles/last-night-of-the-proms-tickets/royal-albert-hall-proms-banner.jpg)
+
+*The Royal Albert Hall in Proms season, with the BBC Proms banner over the entrance. Photo: [Ermell](https://commons.wikimedia.org/wiki/File:London_Royal_Albert_Hall-20130715-RM-175050.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ## The two ballots
 
 **The Open Ballot** has 200 seats: 100 in the Centre Stalls at £165.20 and 100 in the Front Circle at £101.96. You enter online.
@@ -69,6 +79,10 @@ The BBC's page for the concert is the official source: [Last Night of the Proms 
 ## The concert
 
 The 2026 Last Night ran from **7.15pm to about 10.30pm** at the Royal Albert Hall, with a 20-minute interval. Sakari Oramo conducted the BBC Symphony Orchestra and Chorus, with Yuja Wang on piano and Nicky Spence as tenor. The second half ends with the Fantasia on British Sea-Songs, *Rule, Britannia!*, *Land of Hope and Glory*, *Jerusalem*, the National Anthem and *Auld Lang Syne*.
+
+![Inside the Royal Albert Hall during a Prom, with the orchestra on stage, the standing Arena in front of it and the circles rising above](../../assets/articles/last-night-of-the-proms-tickets/royal-albert-hall-during-a-prom.jpg)
+
+*Inside the Royal Albert Hall during a Prom, with the standing Arena in front of the stage. Photo: [Ed g2s](https://commons.wikimedia.org/wiki/File:Royal_Albert_Hall,_BBC_Proms_2017.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ## If you miss out
 
