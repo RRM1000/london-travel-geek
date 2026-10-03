@@ -5,7 +5,7 @@ description: "Shoreditch hotels compared, which streets are loud at 2am, and the
 heroImage: "../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-lobby.webp"
 heroImageAlt: "The open lobby at The Hoxton, Shoreditch: a brass ring chandelier over armchairs, an exposed brick fireplace, a herringbone bar under a Hoxton Grill sign, and a red bus passing the window"
 publishedAt: 2026-07-06
-updatedAt: 2026-09-29
+updatedAt: 2026-10-03
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -106,9 +106,9 @@ Rooms vary a lot for one hotel — whitewashed walls, tapestry hangings and pine
 
 ### Redchurch Townhouse — Soho House without the membership
 
-*About £220 · Thirty-seven rooms · Cecconi's downstairs · [Hotels.com](hotel:redchurch-townhouse)*
+*About £220 · Thirty-seven rooms · Cecconi's downstairs · [Soho House's site](hotel:redchurch-townhouse)*
 
-Soho House quality without needing to be a member — **Shoreditch House is round the corner and members only**. Thirty-seven rooms in a 1970s interior with Cowshed products and a ground-floor Cecconi's.
+Soho House quality without needing to be a member — **Shoreditch House is round the corner**, a members' club whose bedrooms also take non-members, with the rooftop pool and gym included for the stay (our [members' clubs guide](/articles/private-members-clubs-london/) has the details). Thirty-seven rooms in a 1970s interior with Cowshed products and a ground-floor Cecconi's.
 
 <div class="photo-row">
 

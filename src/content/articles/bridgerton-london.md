@@ -147,7 +147,7 @@ Pricing until 27 November 2026: **adult £29.00 off-peak (weekdays) / £32.00 pe
 ![Lancaster House on Stable Yard, St James's, a cream stone mansion with a giant columned portico](../../assets/articles/bridgerton-london/lancaster-house-stable-yard.jpg)
 *Lancaster House, St James's.*
 
-**The Reform Club**, 104 Pall Mall, SW1Y 5EW, is where Anthony Bridgerton and Simon Basset meet in series one — a genuine private members' club founded in 1836, still operating as one, with dining and event rooms rather than a public tour. Look at the facade on Pall Mall; membership is the only way in.
+**The Reform Club**, 104 Pall Mall, SW1Y 5EW, is where Anthony Bridgerton and Simon Basset meet in series one — a genuine private members' club founded in 1836, still operating as one, with dining and event rooms rather than a public tour. Look at the facade on Pall Mall; membership, or a member's invitation, is the only way in. Our [members' clubs guide](/articles/private-members-clubs-london/) covers the Reform's dress code and the other St James's clubs.
 
 ### The rest, briefly
 

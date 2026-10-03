@@ -213,7 +213,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 *Over £350 · 22 Grosvenor Square, W1K 6LF · Check-in 3pm, out at noon*
 
-**[The Twenty Two](hotel:the-twenty-two)** is an Edwardian house on Grosvenor Square that is both a members' club and a hotel. Guests become temporary members for their stay, but **the club is over-21s only** and the Living Room admits children until 5pm, so it suits couples far better than families. There is no gym on site; guests get free use of BXR Marylebone, a 12-minute walk. The hotel pre-authorises **£300 a night for incidentals** on top of the room. Top-floor rooms sit under a sloping ceiling that cuts the headroom on one side.
+**[The Twenty Two](hotel:the-twenty-two)** is an Edwardian house on Grosvenor Square that is both a members' club and a hotel, and one of the few ways into a [Mayfair members' club](/articles/private-members-clubs-london/) without joining. Guests become temporary members for their stay, but **the club is over-21s only** and the Living Room admits children until 5pm, so it suits couples far better than families. There is no gym on site; guests get free use of BXR Marylebone, a 12-minute walk. The hotel pre-authorises **£300 a night for incidentals** on top of the room. Top-floor rooms sit under a sloping ceiling that cuts the headroom on one side.
 
 <div class="photo-row">
 

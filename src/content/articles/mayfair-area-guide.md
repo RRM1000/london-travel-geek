@@ -3,7 +3,7 @@ title: "Mayfair Area Guide: The Arcades, Bond Street and the Royal Academy"
 seoTitle: "Mayfair Guide: Bond Street, Arcades & Free Galleries"
 description: "A complete Mayfair guide: the Victorian shopping arcades, the Royal Academy, Handel and Hendrix next door to each other, and the free things worth doing."
 publishedAt: 2026-08-20
-updatedAt: 2026-09-25
+updatedAt: 2026-10-03
 sites:
   - london
 canonicalSite: london
@@ -142,7 +142,7 @@ It is the one part of Mayfair that feels like a village, and it is thirty second
 
 The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terracotta and red-brick Victorian Gothic — deliberately ornate, built by the Grosvenor estate in the 1880s — and now the address for a particular kind of very expensive small shop.
 
-**Berkeley Square's plane trees were planted in 1789** and are among the oldest in central London. The square is a public garden, free, open in daylight and locked overnight.
+**Berkeley Square's plane trees were planted in 1789** and are among the oldest in central London. The square is a public garden, free, open in daylight and locked overnight. **Annabel's**, the members' club at No. 46, opens its staircase and principal rooms to public tours on set days; our [members' clubs guide](/articles/private-members-clubs-london/) has the dates, the fees and the dress codes.
 
 **Eat on Mount Street rather than around the square.** **Bacchanalia at 1–3** does Greek and southern Italian under a ceiling of classical sculpture; **The Guinea Grill at 30 Bruton Place**, in the mews behind, is a chophouse that has been there since the 1950s and is the least Mayfair thing in Mayfair.
 

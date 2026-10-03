@@ -145,7 +145,7 @@ Broadwick Street has the **John Snow pump replica**, marking where Snow traced t
 *Frith Street, at Shaftesbury Avenue.*
 North–south restaurant streets running parallel through the middle of Soho, and where most of the eating actually happens.
 
-**Ronnie Scott's** has been on Frith Street since 1965 and is still the serious jazz room in London — two sets a night, booked well ahead. **Bar Italia**, directly across the street, has been open since 1949 and trades nearly around the clock. The private members' clubs are on Dean Street, unmarked and not for walking into.
+**Ronnie Scott's** has been on Frith Street since 1965 and is still the serious jazz room in London — two sets a night, booked well ahead. **Bar Italia**, directly across the street, has been open since 1949 and trades nearly around the clock. The private members' clubs are on Dean Street and Greek Street, unmarked and not for walking into; our [members' clubs guide](/articles/private-members-clubs-london/) covers what the Groucho and Soho House cost to join and which Soho House bedrooms take non-members.
 
 **Book anything you actually want.** These two streets fill from about 7pm and the good tables go days in advance, particularly at weekends.
 
