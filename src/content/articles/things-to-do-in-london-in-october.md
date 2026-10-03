@@ -293,7 +293,7 @@ Alexandra Palace carries the second half of the month: **Beth Orton on 22 Octobe
 
 **Angine de Poitrine play two nights at the Troxy, Monday 19 and Tuesday 20 October, and both have sold out.** The anonymous Quebec duo, Khn de Poitrine on guitar and bass and Klek de Poitrine on drums, perform in oversized papier-mâché masks and polka-dot suits and play microtonal math rock: music built from the notes that fall between the frets of an ordinary guitar. The band began as a gag for a local venue in Saguenay; a live set KEXP released in February passed millions of views and turned it into an international tour. Over-14s, doors 7pm.
 
-## What's on this October
+## What's on in October 2026
 
 One evening pick a day: music, comedy, theatre, classical and dance, each at a different venue.
 
@@ -305,7 +305,7 @@ Where a restaurant has not named its opening day, treat the month as a guide rat
 
 **Cloth Cornhill** (38½ Cornhill, EC3V 9DR) opens **1 October**, the second site from the Cloth restaurants group, taking over the building that was Simpson's Tavern — the City's oldest chophouse, trading on the site since 1757, closed since 2022 — with some dishes paying homage to it. It opens **Monday to Friday only**, closed at weekends and on bank holidays. The first-floor restaurant, reached by stairs only, takes bookings up to 90 days ahead; the ground-floor pub is walk-in only.
 
-**Dishoom Borough**, inside the Hop Exchange on Southwark Street by Borough Market, has a soft launch from **Monday 12 to Tuesday 20 October with 50% off all food**. The bookings have gone, but walk-ins are welcome. **The Talli Queen** takes over the former Queen Adelaide pub at 412 Uxbridge Road in Shepherd's Bush this October, on a day not yet announced, under ex-Pahli Hill and Bandra Bhai chef Avi Shashidhara, built around what the kitchen calls "traditional drinking establishments of India." **Bamboo Mat**, the Nikkei (Japanese-Peruvian) restaurant in Stratford's East Village, has a second site at 1 North Lane, Canary Wharf, listed as opening soon.
+**Dishoom Borough**, inside the Hop Exchange on Southwark Street by Borough Market, has a soft launch from **Monday 12 to Tuesday 20 October with 50% off all food**. The bookings have gone, but walk-ins are welcome. **The Talli Queen** takes over the former Queen Adelaide pub at 412 Uxbridge Road in Shepherd's Bush in October 2026, on a day not yet announced, under ex-Pahli Hill and Bandra Bhai chef Avi Shashidhara, built around what the kitchen calls "traditional drinking establishments of India." **Bamboo Mat**, the Nikkei (Japanese-Peruvian) restaurant in Stratford's East Village, has a second site at 1 North Lane, Canary Wharf, listed as opening soon.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

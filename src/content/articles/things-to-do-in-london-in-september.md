@@ -24,7 +24,7 @@ faq:
   - q: "What events are on in London in September 2026?"
     a: "Totally Thames runs the whole month along the river. Open House and the London Design Festival both ran 12 to 20 September, Heritage Open Days 11 to 20, and London Fashion Week 17 to 21. Saturday 12 September was the busiest single day of the month: the Great River Race rowed 21.6 miles from Millwall to Ham from 12.45pm, and the Last Night of the Proms closed the season at the Royal Albert Hall at 7.15pm."
   - q: "Is Open House London free?"
-    a: "Yes, entirely. The catch is not money but timing — the programme goes live in August, and the buildings people most want to see either ballot or release timed slots that go within hours of opening. If you are deciding in September, the marquee buildings have gone. Plan around the walk-up sites instead, of which there are hundreds, and set a reminder for the programme launch next August."
+    a: "Yes, entirely. The catch is not money but timing — the programme goes live in August, and the buildings people most want to see either ballot or release timed slots that go within hours of opening. If you are deciding in September, the marquee buildings have gone. Plan around the walk-up sites instead, of which there are hundreds, and set a reminder for the programme launch each August."
   - q: "Can you still get tickets for the Last Night of the Proms?"
     a: "The 2026 concert was on 12 September and is over, but seats sell out far in advance every year, and the hall is never closed to you. Day Promming tickets — standing, in the arena or the gallery — go on sale at 9.30am on the day of the concert, two per person. Season ticket holders can redeem from 11am the day before. It is the cheapest way into the most oversubscribed classical concert in Britain and almost no guide mentions it."
   - q: "Which exhibition was the biggest to close in London in September 2026?"
@@ -91,7 +91,7 @@ Open City opens buildings across every London borough that are normally shut, pr
 
 **The catch is not money, it is timing, and this is where most people go wrong.** The programme goes live in August. The buildings everyone wants — the ones that appear in the newspaper write-ups — either run a ballot or release timed slots that are gone within hours. By September the marquee list has been taken.
 
-That is not a reason to skip it. Hundreds of buildings are walk-up, no booking, just a queue and a volunteer at the door, and they are frequently better than the famous ones because you can take your time. **The move is to ignore the towers, pick a neighbourhood, and walk it.** Then set a reminder for the programme launch next August.
+That is not a reason to skip it. Hundreds of buildings are walk-up, no booking, just a queue and a volunteer at the door, and they are frequently better than the famous ones because you can take your time. **The move is to ignore the towers, pick a neighbourhood, and walk it.** Then set a reminder for the programme launch each August.
 
 <div data-stay-strip></div>
 

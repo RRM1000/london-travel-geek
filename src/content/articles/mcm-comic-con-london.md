@@ -99,7 +99,7 @@ Meeting a guest is two separate purchases: your admission ticket gets you into t
 
 ## Gaming: EGX is no longer a separate show
 
-EGX, the console and PC gaming expo that used to share ExCeL's calendar as its own ticketed event, has folded into MCM: since the October 2025 show, its indie zone (the **Leftfield Collection**), competitive gaming arena and industry Career Fair run inside MCM itself, on the same ticket. This October's gaming floor covers the **Side Quest Arena** (hosting the Street Fighter League EMEAA 2026 Playoffs), a free-to-play tabletop zone, a card-game corner running Pokémon, Yu-Gi-Oh! and One Piece tournaments, an RPG zone for tabletop role-play, and LARP sessions and foam-sword tuition in the Forest Glade.
+EGX, the console and PC gaming expo that used to share ExCeL's calendar as its own ticketed event, has folded into MCM: since the October 2025 show, its indie zone (the **Leftfield Collection**), competitive gaming arena and industry Career Fair run inside MCM itself, on the same ticket. The October 2026 gaming floor covers the **Side Quest Arena** (hosting the Street Fighter League EMEAA 2026 Playoffs), a free-to-play tabletop zone, a card-game corner running Pokémon, Yu-Gi-Oh! and One Piece tournaments, an RPG zone for tabletop role-play, and LARP sessions and foam-sword tuition in the Forest Glade.
 
 ## Which day is quietest
 

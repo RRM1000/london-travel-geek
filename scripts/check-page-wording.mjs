@@ -47,13 +47,15 @@ const DATA_FIELDS = ["name", "style", "whyGo", "opNote", "price", "booking", "ty
 // the forms that mean "at the time of writing" are: "now open", "now on sale",
 // "is now closed", "right now", "for now".
 const DAY = "(?:monday|tuesday|wednesday|thursday|friday|saturday|sunday)";
-const PERIOD = "(?:weekend|week|month|year|summer|autumn|winter|spring|christmas|easter|evening|morning|afternoon|season)";
+const PERIOD = "(?:weekend|week|month|year|summer|autumn|winter|spring|christmas|easter|evening|morning|afternoon|season|january|february|march|april|june|july|august|september|october|november|december)";
 const NOW_STATE = "(?:open|opens|on sale|live|closed|sold out|available|booking|taking|selling|accepting|showing|playing|trading|sells|serves|costs|charges|offers|free)";
 const RELATIVE = [
   // "the last week of October" and "the last weekend of most months" are standing phrases.
   [new RegExp(`\\bthis (?:coming )?(?:${DAY}|${PERIOD})\\b`, "gi"), "this + period"],
   [new RegExp(`\\bnext (?:${DAY}|${PERIOD})\\b`, "gi"), "next + period"],
   [new RegExp(`\\blast (?:${PERIOD})\\b(?! of\\b)`, "gi"), "last + period"],
+  // May is left out of PERIOD ("this may be", "the next may not"); the month is always capitalised.
+  [/\b(?:[Tt]his|[Nn]ext|[Ll]ast) May\b(?! of\b)/g, "this/next/last May"],
   [/\b(?:tomorrow|tonight|yesterday)\b/gi, "tomorrow / tonight / yesterday"],
   [/\b(?:coming soon|recently|currently|at the moment|at present|at the time of writing|these days|nowadays|right now|for now|just now)\b/gi, "time-of-writing adverb"],
   [new RegExp(`\\bnow ${NOW_STATE}\\b|\\b(?:is|are) now (?:${NOW_STATE}|£)`, "gi"), "'now' meaning at time of writing"],

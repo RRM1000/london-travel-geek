@@ -173,7 +173,7 @@ It is warmer and less reverent than the book suggests — handbells, carols sung
 
 It is the same story as the Old Vic's and Mischief's, and a completely different night: you are seated at a table inside it rather than watching from a seat. The Lost Estate has been doing this since 2017, and its current shows run £74.85 to £119.85, so budget accordingly.
 
-> ⚠️ **Confirmed for 2026, but nothing else is.** The company says the Feast returns and is running a **presale signup**, but **no dates and no prices have been published** — its own show page is still an empty 2022 stub. Join the presale list rather than waiting for a listing to appear, because these sell through the list first.
+> ⚠️ **Confirmed for 2026, but nothing else is.** The company says the Feast returns and is running a **presale signup**, but **no dates and no prices have been published**. Join the presale list rather than waiting for a listing to appear, because these sell through the list first.
 
 **[More immersive nights out →](/articles/immersive-experiences-london/)** · **[The cabaret guide →](/articles/best-cabaret-london/)**
 

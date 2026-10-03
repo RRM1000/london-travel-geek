@@ -220,7 +220,7 @@ Sir John Soane's on Lincoln's Inn Fields, the Grant on Gower Street and the Petr
 
 ## Newly open
 
-The two biggest additions to London's museums in a generation both opened in the last eighteen months, and a third arrives this November.
+The two biggest additions to London's museums in a generation both opened in the last eighteen months, and a third arrives in November 2026.
 
 ### V&A East Storehouse, Stratford
 
