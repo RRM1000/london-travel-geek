@@ -75,7 +75,7 @@ Advance day tickets from **£34** (£66 at the gate); under-90cm children go fre
 
 **Getting there:** trains from Waterloo, Clapham Junction and Wimbledon run to Chessington South, in Zone 6 so Oyster works, about 35 minutes from central London and a 10-minute walk from the station.
 
-**The choice between this and Thorpe Park is really a choice about age.** Thorpe Park's Fright Nights is built for teenagers and adults (mazes 13 and over), with scare mazes and actors who chase you; Chessington deliberately has none of that, and the theme park rides run as normal alongside the Halloween dressing. If you have children under about twelve, Chessington is the one that works and Thorpe Park is the one that ends in tears.
+**The choice between this and Thorpe Park is really a choice about age.** Thorpe Park's Fright Nights is built for teenagers and adults (mazes 13 and over), with scare mazes and actors who chase you; Chessington deliberately has none of that, and the theme park rides run as normal alongside the Halloween dressing. If you have children under about twelve, Chessington is the one that works and Thorpe Park is the one that ends in tears. For younger children still, [LEGOLAND Windsor's Brick or Treat](/articles/legoland-windsor-day-trip/) (from £37) and [Paultons Park's Halloween Spooktacular](/articles/paultons-park-day-trip/) (in the normal ticket, with late openings to 7.30pm) dress up the rides with shows and characters rather than scares.
 
 Chessington is the easier journey from central London. Thorpe Park needs the Staines change and a bus, so budget most of a day.
 

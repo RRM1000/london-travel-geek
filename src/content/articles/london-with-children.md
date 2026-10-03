@@ -306,6 +306,8 @@ Family theatre, comedy and one-off shows in the week of October half-term.
 
 ## Continue planning your London trip
 
+- 🧱 **[LEGOLAND Windsor](/articles/legoland-windsor-day-trip/)** — tickets from £32, under-90cm free, and the train and bus from London
+- 🐷 **[Paultons Park and Peppa Pig World](/articles/paultons-park-day-trip/)** — under-1m free, the train from Waterloo and every height limit
 - 🎄 **[Christmas Shows and Pantomimes in London](/articles/christmas-shows-london/)** - pantos, Nutcrackers and shows for under-fives, with age guidance
 - ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — under-12s get in for £5 at Charlton against £39 for a junior Premier League seat
 - 🎪 **[Free Things to Do in London](/free/)**

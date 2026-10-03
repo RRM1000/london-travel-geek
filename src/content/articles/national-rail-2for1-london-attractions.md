@@ -132,7 +132,7 @@ Also included: Cutty Sark, the Royal Observatory, the Painted Hall at the Old Ro
 
 **Paid exhibitions are included too**, at Tate Modern, Tate Britain and the National Gallery. They change with each show, so check the listing.
 
-> ⚠️ **These are NOT 2FOR1.** The **London Eye is one third off**, not two-for-one — and so are **Madame Tussauds**, **SEA LIFE London Aquarium**, **the London Dungeon** and **Shrek's Adventure**. All five are Merlin attractions with their own separate terms. Plenty of guides still list the London Eye as 2FOR1.
+> ⚠️ **These are NOT 2FOR1.** The **London Eye is one third off**, not two-for-one — and so are **Madame Tussauds**, **SEA LIFE London Aquarium**, **the London Dungeon** and **Shrek's Adventure**. All five are Merlin attractions with their own separate terms. Plenty of guides still list the London Eye as 2FOR1. The same third off covers Merlin's theme parks during their main seasons, among them [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/), for up to six people per train booking.
 
 > ⚠️ **Not in the scheme at all:** the **Churchill War Rooms**, HMS Belfast, Buckingham Palace and the Royal Mews, the Royal Academy, Sky Garden and the Postal Museum. The War Rooms in particular is claimed by a lot of blog posts.
 
