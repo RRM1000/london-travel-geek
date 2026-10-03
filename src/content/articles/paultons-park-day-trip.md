@@ -133,7 +133,7 @@ The park is split into six themed areas, set among gardens, lakes and an animal 
 
 ![The Storm Chaser spinning coaster at Paultons Park, its cars climbing the lift hill beside a yellow steel loop and a wooden barn](../../assets/articles/paultons-park-day-trip/storm-chaser.jpg)
 
-*Storm Chaser. Photo: [Henry Burrows](https://commons.wikimedia.org/wiki/File:Storm_Chaser_(Paultons_Park)_2.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Storm Chaser. Photo: [Henry Burrows](https://commons.wikimedia.org/wiki/File:Storm_Chaser_%28Paultons_Park%29_2.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Height restrictions
 
