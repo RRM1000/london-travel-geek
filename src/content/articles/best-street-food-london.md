@@ -278,7 +278,7 @@ The food runs to **salt beef bagels, Ghanaian and Nigerian plates, dumplings, pa
 
 **The cheapest pan-global grazing in east London**, in the Old Truman Brewery — Ethiopian injera, Korean skewers and roughly everything else.
 
-It is now open **daily rather than weekends only**, which catches people out in both directions: the food hall trades every day, but the surrounding retail markets only expand at weekends, and **everything shuts at 6pm.**
+It is open **daily rather than weekends only**, which catches people out in both directions: the food hall trades every day, but the surrounding retail markets only expand at weekends, and **everything shuts at 6pm.**
 
 Seating is scarce and it is chaotic. A weekday lunchtime, when the queue for each stall runs one person deep, beats the weekend. Note that the **Boiler House**, which older guides still send people to, is no longer one of the Truman Brewery's markets.
 
@@ -351,7 +351,7 @@ Standing only, no seating, and a two-to-four hour window. These are for people w
 
 ## Seasonal, and once a year
 
-* **Southbank Centre Winter Market** — Alpine chalets on the Queen's Walk, daily from November into early January; last season it ran 3 November to 4 January, and the 2026 dates are in our [London Christmas markets guide](/articles/christmas-markets-london/) once announced. It displaces the regular food market for those weeks.
+* **Southbank Centre Winter Market** — Alpine chalets on the Queen's Walk, daily from November into early January; in 2025 it ran 3 November to 4 January, and the 2026 dates are in our [London Christmas markets guide](/articles/christmas-markets-london/) once announced. It displaces the regular food market for those weeks.
 * **Hyde Park Winter Wonderland** — the biggest concentration of food stalls in London for six weeks, **mid-November to early January**. Expensive, enormous, and not really a street food destination.
 * **Wembley Park Market** — **weekend dates that move month to month**, and shift around stadium events. Always check first.
 * **Alexandra Palace Farmers' Market** — every **Sunday 10am–3pm**, though the location alternates between the park and Campsbourne School.

@@ -200,7 +200,7 @@ Expect **matcha, black sesame, yuzu and miso** worked into laminated pastries an
 
 ## The other queues
 
-Not in this year's fifty, and still among the best-loved rooms in London.
+Not in the 2026 fifty, and still among the best-loved rooms in London.
 
 ### Pophams, Islington
 

@@ -23,7 +23,7 @@ faq:
   - q: "What are the odds of getting a London Marathon ballot place?"
     a: "Long, and getting longer. A record 1,338,541 people applied for the 2027 race, up 18% on the previous year and more than double the 2024 figure. London Marathon Events has never published how many ballot places there are, so no exact success rate exists. Reporting has put the ballot allocation at roughly 20,000 places a year, which would make the odds somewhere around 1 in 30 to 1 in 60 depending on the year. Treat any precise percentage you see quoted with suspicion."
   - q: "How much does it cost to enter the London Marathon ballot?"
-    a: "Entering is free. You then choose one of two options: pay nothing up front and pay the full £79.99 entry fee only if you are drawn, or donate £49.99 when you apply, which becomes your entry fee if you get in and is kept as a donation if you do not. Overseas runners pay a higher entry fee — the organisers currently state £275, which includes a carbon offset charge."
+    a: "Entering is free. You then choose one of two options: pay nothing up front and pay the full £79.99 entry fee only if you are drawn, or donate £49.99 when you apply, which becomes your entry fee if you get in and is kept as a donation if you do not. Overseas runners pay a higher entry fee — the organisers state £275, which includes a carbon offset charge."
   - q: "How much do you have to raise for a London Marathon charity place?"
     a: "Usually between £2,000 and £3,000, plus a registration fee of about £40 to £100. Smaller charities tend to set £2,000; big-name charities more often ask £2,500 to £2,750. Targets are pledges rather than debts, but charities set interim milestones, can withdraw your place before race day if you are well short, and some state they will report shortfalls to the organisers."
   - q: "What time do you need to run for a Good For Age place?"
@@ -84,7 +84,7 @@ It has settled into a fixed pattern: the ballot opens on the **Friday of race we
 
 The second option is a **£30 discount if you get in**, a second draw if you miss the first, and a £49.99 donation to the London Marathon Foundation if you miss both. Whether that is worth it depends entirely on how much you want the vest.
 
-**Overseas runners pay considerably more.** The organisers currently state a **£275 international entry fee**, which includes a carbon offset charge for international travel. Note that when the 2027 ballot opened in April 2026 this was widely reported as £225, so check the figure at the point you apply.
+**Overseas runners pay considerably more.** The organisers state a **£275 international entry fee**, which includes a carbon offset charge for international travel. Note that when the 2027 ballot opened in April 2026 this was widely reported as £225, so check the figure at the point you apply.
 
 There are separate **UK and international ballots**, entered through the same form in the same window. The organisers do not publish whether the odds differ between them, so be wary of anyone who tells you one is easier.
 
@@ -416,4 +416,4 @@ One thing spectators often assume wrongly: the **free post-race TfL travel is fo
 
 ---
 
-*Entry routes, fees and qualifying standards are as published by London Marathon Events and the named charities and operators, and checked in August 2026. Good For Age and Championship standards shown are the 2026 criteria; the 2027 standards were still to be published at the time of writing. Charity fundraising targets vary by charity and year — check with the charity directly before committing.*
+*Entry routes, fees and qualifying standards are as published by London Marathon Events and the named charities and operators, and checked in August 2026. Good For Age and Championship standards shown are the 2026 criteria; the 2027 standards had not been published by then. Charity fundraising targets vary by charity and year — check with the charity directly before committing.*

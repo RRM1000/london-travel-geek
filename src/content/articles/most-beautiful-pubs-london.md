@@ -20,7 +20,7 @@ faq:
     a: "A register kept by the Campaign for Real Ale of pubs whose interiors are of national historic importance, rated from one to three stars. London has 60 three-star and 62 two-star entries. It rates what survives inside, not the beer or the food."
   - q: "Can you visit the City of London's historic pubs on a Sunday?"
     a: "Some of them. The Viaduct Tavern and Ye Olde Mitre are both closed on Sundays. Cittie of Yorke and the Red Lion on Duke of York Street close at 6pm on Sunday. The Blackfriar, The Punch Tavern and The Princess Louise are open seven days a week."
-  - q: "Which London pubs have won design awards recently?"
+  - q: "Which London pubs have won design awards?"
     a: "At CAMRA's 2026 Pub Design Awards, The Blue Stoops in Kensington won the conversion category, the Leyton Engineer in the former Leyton Town Hall won for refurbishment, and the Lord Southampton in Kentish Town won the community local award. In 2023, The Black Lion in Kilburn won Historic England's conservation award and The Cadogan Arms in Chelsea won for refurbishment."
   - q: "When are the flowers at the Churchill Arms best?"
     a: "High summer, when the whole front is covered. In December the flowers make way for dozens of Christmas trees and lights. The crowd outside is there year-round, so for a clear photograph go early in the day."
@@ -272,7 +272,7 @@ CAMRA's Pub Design Awards, run with Historic England, judge new work — restora
 
 A Grade II*-listed pub from 1898, and **the 2023 winner of Historic England's conservation award**: CAMRA's judges describe a rich ceiling, the original bar counter and island back bar, a screen, etched and cut glass and a very decorative cornice. Secret London says the restoration made it bright rather than dark and fusty.
 
-It now serves **contemporary Indian food** during the week and a roast on Sunday. **Weekdays it opens at 4pm.** Opposite the Kiln Theatre, two minutes from Kilburn station.
+It serves **contemporary Indian food** during the week and a roast on Sunday. **Weekdays it opens at 4pm.** Opposite the Kiln Theatre, two minutes from Kilburn station.
 
 ### The Cadogan Arms and The George — the refurbishments
 

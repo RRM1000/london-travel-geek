@@ -34,7 +34,7 @@ The direction matters more than it looks. Done this way you get the built end fi
 
 For the areas at either end, see the [King's Cross area guide](/articles/kings-cross-area-guide/) and the [Camden area guide](/articles/camden-area-guide/). This is the walking route version of the journey between them.
 
-> 💡 **The Short Version:** Start at **Granary Square** and finish at **Camden Market**. The one stop with a clock on it is **Camley Street Natural Park** — free, on the far bank, and it shuts at **4pm from October to March**. **Camden Market runs 10am to 7pm every day**, bank holidays included. If you want to see a lock actually working, come **before 3.30pm**: Camden's three locks are currently closed to boats overnight because of the drought. And there is a fenced-off stretch of towpath near Camley Street with a **floating pontoon** round it — you do not need a diversion.
+> 💡 **The Short Version:** Start at **Granary Square** and finish at **Camden Market**. The one stop with a clock on it is **Camley Street Natural Park** — free, on the far bank, and it shuts at **4pm from October to March**. **Camden Market runs 10am to 7pm every day**, bank holidays included. If you want to see a lock actually working, come **before 3.30pm**: Camden's three locks are closed to boats overnight because of the drought. And there is a fenced-off stretch of towpath near Camley Street with a **floating pontoon** round it — you do not need a diversion.
 
 ## The route
 

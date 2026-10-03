@@ -306,7 +306,7 @@ Brixton is the other cluster — Enish on Coldharbour Lane, Sato's Kitchen, an A
 
 ---
 
-## Recently opened
+## New openings
 
 **Suuyar** has moved from a Peckham street corner into a shop at the tip of Peckham Rye, and the suya buffet came with it. **Sato's Kitchen** is a new Nigerian halal kitchen in Brixton run by an owner called Agatha, and the only people who have written it up are two YouTube creators. **Akara** is the most recent of the dining rooms, open since September 2023 and already holding a Bib Gourmand. And **Gold Coast** does a £35 all-you-can-eat Ghanaian buffet, which is a format nothing else on this page attempts.
 

@@ -1,7 +1,7 @@
 ---
 title: "Classic British Food in London: What It Is and Where to Try It"
 seoTitle: "Classic British Food London 2026: Where to Eat"
-description: "Scotch eggs, sausage rolls, pie and mash and sticky toffee pudding — what British food actually is, dish by dish, with a real, currently-trading place to try each one."
+description: "Scotch eggs, sausage rolls, pie and mash and sticky toffee pudding — what British food actually is, dish by dish, with a real place to try each one."
 heroImage: "../../assets/articles/classic-british-food-london/m-manze-pie-mash-liquor.jpg"
 heroImageAlt: "Two pies covered in green parsley liquor next to mashed potato and a bowl of jellied eels, on a marble table."
 publishedAt: 2026-09-13
@@ -24,7 +24,7 @@ faq:
     a: "Each has its own full guide on this site: breakfast and brunch, Sunday roast and afternoon tea, plus fish and chips separately — all linked in this guide, with what to expect at each and a real venue to book."
 ---
 
-"British food" is not one thing, and most of what a visitor actually eats in London on a given night — a curry, a bagel, a bowl of ramen — is British only in the sense that London made it its own. This is a guide to the older, narrower list: the dishes a foreign visitor has usually heard named and never actually seen — a Scotch egg, a Cornish pasty, a plate of pie and mash — explained plainly, with a real, currently-trading place in London to try each one.
+"British food" is not one thing, and most of what a visitor actually eats in London on a given night — a curry, a bagel, a bowl of ramen — is British only in the sense that London made it its own. This is a guide to the older, narrower list: the dishes a foreign visitor has usually heard named and never actually seen — a Scotch egg, a Cornish pasty, a plate of pie and mash — explained plainly, with a real place in London to try each one.
 
 > 💡 **The Short Version:** For pie, mash and green parsley liquor, go to **[M Manze](https://www.manze.co.uk/)** on Tower Bridge Road, at the same address since 1902; it shuts by mid-afternoon, so go at lunch. Buy a pork pie from **[Mrs King's Pork Pies](https://boroughmarket.org.uk/traders/mrs-kings-pork-pies/)** at Borough Market and a sausage roll or steak bake from any **[Greggs](https://www.greggs.co.uk/)**. Four more dishes sit a short walk apart around Covent Garden and the Strand: steak and kidney pudding at **[Rules](https://rules.co.uk/)**, a lamb-and-beef shepherd's pie at **[The Ivy](https://ivycollection.com/restaurants-near-me/the-ivy-london/the-ivy-west-street-covent-garden/)**, Welsh rarebit at the **[J Sheekey](https://j-sheekey.co.uk/)** bar for about £5, and spotted dick at **[Simpson's-in-the-Strand](https://www.simpsonsinthestrand.co.uk/)**.
 
@@ -88,7 +88,7 @@ Sausage meat rolled in puff pastry is a sausage roll; the same idea with diced b
 
 ### The Scotch egg
 
-A boiled egg wrapped in sausage meat, coated in breadcrumbs and fried — cold, it's picnic food; hot, with a soft yolk, it's a different dish entirely. **[Fortnum & Mason](https://www.fortnumandmason.com/food-hall/fresh-food/pies-scotch-eggs)** says it invented the Scotch egg in 1738, as something portable for the mail coaches leaving Piccadilly, and still sells a "Traditional Scotch Egg" in its food hall today — though the claim is disputed. Food historians also point to a Yorkshire version coated in fish paste and sold by a Whitby fishmonger, and to Mughal spiced eggs that may have reached Britain via colonial India; nobody has settled it. For the dressed-up version, **[the Harwood Arms in Fulham](/articles/best-sunday-roast-london/)** — already covered in our Sunday roast guide — makes its Scotch egg with venison from the owners' own stalking, and it has been the pub's signature dish for years.
+A boiled egg wrapped in sausage meat, coated in breadcrumbs and fried — cold, it's picnic food; hot, with a soft yolk, it's a different dish entirely. **[Fortnum & Mason](https://www.fortnumandmason.com/food-hall/fresh-food/pies-scotch-eggs)** says it invented the Scotch egg in 1738, as something portable for the mail coaches leaving Piccadilly, and still sells a "Traditional Scotch Egg" in its food hall — though the claim is disputed. Food historians also point to a Yorkshire version coated in fish paste and sold by a Whitby fishmonger, and to Mughal spiced eggs that may have reached Britain via colonial India; nobody has settled it. For the dressed-up version, **[the Harwood Arms in Fulham](/articles/best-sunday-roast-london/)** — already covered in our Sunday roast guide — makes its Scotch egg with venison from the owners' own stalking, and it has been the pub's signature dish for years.
 
 ![A Scotch egg cut in half, showing a soft egg yolk inside sausage meat and a breadcrumb coating, served with a small pot of sauce.](../../assets/articles/classic-british-food-london/the-harwood-arms-scotch-egg.jpg)
 

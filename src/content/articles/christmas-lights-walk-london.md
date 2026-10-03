@@ -37,7 +37,7 @@ Most people see London's Christmas lights from a crush at Oxford Circus on a Sat
 
 It is **about 5km, 70 minutes of walking**, and two to two and a half hours with stops. Start at dusk.
 
-> 💡 **The Short Version:** Start at **Selfridges at about 4.30pm** in December (5pm in early November), when it is properly dark. **Carnaby's switch-on is Wednesday 4 November 2026 and Covent Garden's is Thursday 12 November**. Oxford Street, Regent Street and Bond Street had not announced their 2026 dates by late September; all three light up every year, and Oxford Street and Regent Street were on by 6 November last year. **Go Monday to Wednesday, or on Sunday after 6pm** when the big shops have shut. The Trafalgar Square tree is only lit from **Thursday 3 December**; before that, finish at Covent Garden.
+> 💡 **The Short Version:** Start at **Selfridges at about 4.30pm** in December (5pm in early November), when it is properly dark. **Carnaby's switch-on is Wednesday 4 November 2026 and Covent Garden's is Thursday 12 November**. Oxford Street, Regent Street and Bond Street had not announced their 2026 dates by late September; all three light up every year, and Oxford Street and Regent Street were on by 6 November in 2025. **Go Monday to Wednesday, or on Sunday after 6pm** when the big shops have shut. The Trafalgar Square tree is only lit from **Thursday 3 December**; before that, finish at Covent Garden.
 
 ## The route
 

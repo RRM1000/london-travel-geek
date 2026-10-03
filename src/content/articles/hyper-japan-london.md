@@ -11,7 +11,7 @@ tags: [HYPER JAPAN, Olympia, Kensington, cosplay, anime, J-culture, conventions,
 draft: false
 faq:
   - q: "When is HYPER JAPAN Festival 2027?"
-    a: "Not announced yet. The 2026 festival ran Friday 24 to Sunday 26 July at Olympia, and HYPER JAPAN's own site and social channels hadn't posted 2027 dates as of late September 2026, beyond confirming there will be one. Exhibitor registration for the 2026 show had opened by late January, so a 2027 date is more likely to surface over the winter than close to next summer."
+    a: "Not announced yet. The 2026 festival ran Friday 24 to Sunday 26 July at Olympia, and HYPER JAPAN's own site and social channels hadn't posted 2027 dates as of late September 2026, beyond confirming there will be one. Exhibitor registration for the 2026 show had opened by late January, so a 2027 date is more likely to surface over the winter than close to summer 2027."
   - q: "What does a HYPER JAPAN ticket actually include?"
     a: "General Admission for one day, and nothing beyond entry to the halls and the free stage programme. Workshops such as the Awaodori dance class or Japanese mask-making cost extra as an \"add-on\" ticket, bookable only alongside an entry ticket for the same day, and meet-and-greets with performers work the same way. Children aged 10 and under go in free — up to three per full-price adult ticket — but their place still has to be reserved."
   - q: "Can you cosplay at HYPER JAPAN, and what's banned?"
@@ -21,7 +21,7 @@ faq:
   - q: "How do you get to Olympia for HYPER JAPAN?"
     a: "Kensington (Olympia) station, on Olympia Way, sits at the venue's own entrance. London Overground's Mildmay line calls roughly every 15 minutes, running to Clapham Junction one way and Stratford (via Willesden Junction) the other, every day HYPER JAPAN is open. The District line only runs a direct shuttle to Kensington (Olympia) from Earl's Court at weekends; on the Friday session, change at West Brompton onto the Overground instead, or check TfL in case a weekday event extension is running that day."
   - q: "Is there a HYPER JAPAN Christmas market?"
-    a: "Not this winter. HYPER JAPAN's own site lists no winter edition or Christmas market for 2026, in London or Manchester, and Olympia's own Christmas events this year — the Spirit of Christmas Fair and the Ideal Christmas Show — are separate events with no HYPER JAPAN involvement."
+    a: "Not in winter 2026. HYPER JAPAN's own site lists no winter edition or Christmas market for 2026, in London or Manchester, and Olympia's own Christmas events in 2026 — the Spirit of Christmas Fair and the Ideal Christmas Show — are separate events with no HYPER JAPAN involvement."
 heroImage: "../../assets/articles/hyper-japan-london/hyper-japan-festival-grand-hall.jpg"
 heroImageAlt: "The vaulted glass roof of Olympia's Grand Hall seen from a gallery above, market stalls and a HYPER JAPAN Festival banner filling the hall floor below"
 heroImageCredit: "Lee Vilenski"
@@ -113,4 +113,4 @@ Our [exhibitions and conventions calendar](/articles/exhibitions-conventions-lon
 
 ## 2027 dates and a winter edition
 
-HYPER JAPAN hadn't announced 2027 dates as of late September 2026. The 2026 festival ran Friday 24 to Sunday 26 July, and exhibitor registration for that show had opened by late January 2026 — so a 2027 announcement is more likely to land over the winter than close to next summer. There's no HYPER JAPAN Christmas market or winter edition planned in London this year: Olympia's own festive events this winter, the Spirit of Christmas Fair and the Ideal Christmas Show, run independently of HYPER JAPAN.
+HYPER JAPAN hadn't announced 2027 dates as of late September 2026. The 2026 festival ran Friday 24 to Sunday 26 July, and exhibitor registration for that show had opened by late January 2026 — so a 2027 announcement is more likely to land over the winter than close to summer 2027. There's no HYPER JAPAN Christmas market or winter edition planned in London in 2026: Olympia's own festive events in winter 2026, the Spirit of Christmas Fair and the Ideal Christmas Show, run independently of HYPER JAPAN.

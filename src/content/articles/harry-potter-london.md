@@ -117,7 +117,7 @@ At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on mos
 
 ## Harry Potter and the Cursed Child
 
-The original two-part production ended its London run on 20 September 2026. From **9 October 2026 the play runs as a single show in one sitting**, currently booking through late June 2027.
+The original two-part production ended its London run on 20 September 2026. From **9 October 2026 the play runs as a single show in one sitting**, booking through late June 2027.
 
 ![The set of Harry Potter and the Cursed Child at the Palace Theatre: gothic arches and clock faces above a stack of trunks and suitcases in a shaft of blue light](../../assets/articles/harry-potter-london/cursed-child-palace-theatre.jpg)
 *The set of Harry Potter and the Cursed Child.*
@@ -209,7 +209,7 @@ This is where the internet is least reliable: London's unofficial wizarding venu
 
 **Enigma Quests**, 86 Fetter Lane, EC4A 1EQ, runs a wizarding-school escape room at **£35 per person for 60 minutes**, private bookings for teams of two to five, with a £35 surcharge on a two-person Saturday booking. Under-11s need an adult in the room with them.
 
-Two that used to be here and no longer are: the wizarding afternoon tea at the **Great Northern Hotel** by King's Cross, whose restaurant now serves a railway-themed tea instead, and **The Potion Room** at Cutter & Squidge in Soho, which is off the menu. Both still appear in guides. Neither is bookable.
+Two that used to be here and no longer are: the wizarding afternoon tea at the **Great Northern Hotel** by King's Cross, whose restaurant serves a railway-themed tea instead, and **The Potion Room** at Cutter & Squidge in Soho, which is off the menu. Both still appear in guides. Neither is bookable.
 
 ## Tours
 

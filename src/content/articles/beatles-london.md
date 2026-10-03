@@ -109,7 +109,7 @@ A **blue plaque** was mounted on the façade on **5 April 2019**, the concert's 
 
 ![The Georgian brick and white stucco front of 3 Savile Row, with a round blue plaque mounted between two upper-floor windows](../../assets/articles/beatles-london/3-savile-row-facade.jpg)
 
-*3 Savile Row today.*
+*3 Savile Row.*
 
 Savile Row tailor **Tommy Nutter** dressed Paul McCartney, John Lennon and Ringo Starr for the *Abbey Road* cover shoot; George Harrison wore denim.
 

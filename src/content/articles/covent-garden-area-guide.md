@@ -154,7 +154,7 @@ A courtyard off Mercer Walk, opened in December 2025 on a plot that was brewing 
 
 **It sprawls further back than the entrance suggests.** From Mercer Walk it reads as a single small yard; the brewery and the larger rooms are behind, and it is worth going through rather than glancing in.
 
-**It is the newest thing in this guide**, so it is quieter than the Piazza and the market and has not yet appeared in most published guides — which for now makes it the easiest place near the Piazza to sit down on a Saturday afternoon.
+**It is the newest thing in this guide**, so it is quieter than the Piazza and the market and has not yet appeared in most published guides — which makes it the easiest place near the Piazza to sit down on a Saturday afternoon.
 
 ![The cobbled courtyard of Old Brewer's Yard with a vintage Guinness delivery lorry parked in it](../../assets/articles/covent-garden-area-guide/old-brewers-yard-guinness.jpg)
 

@@ -116,7 +116,7 @@ Come at the weekend if you want the makers rather than lunch.
 
 The **UK's largest inland fish market**, trading from around 4am a few minutes from the Canary Wharf towers. **The public can buy** — you do not need a trade card — and the whole thing is finished by about 8am.
 
-**Bring cash, bring a cool bag, and buy in quantity.** Traders sell in boxes rather than portions, so this works for a group or a freezer and not for tonight's dinner for one. Wear shoes you do not mind soaking.
+**Bring cash, bring a cool bag, and buy in quantity.** Traders sell in boxes rather than portions, so this works for a group or a freezer and not for a dinner for one. Wear shoes you do not mind soaking.
 
 **The market café does a bacon and scallop roll** where the scallops come off the floor downstairs, which is the most genuinely London breakfast in this guide.
 

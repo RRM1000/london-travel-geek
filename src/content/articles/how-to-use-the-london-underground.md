@@ -184,7 +184,7 @@ Two different things get muddled here, and the difference decides whether you ca
 * **Coverage arrives by tunnel section, not by line.** A line is rarely all-or-nothing — the Victoria line had signal in the Vauxhall to Pimlico tunnel while the rest of it still went dark.
 * **A gap is not a fault.** If a call drops between two stations on a line you were told is covered, you have crossed into a section that is not finished.
 
-> 📶 **As of 6 September 2026:** roughly 60% of Underground stations have 4G and 5G, and TfL expects the whole network covered by the end of 2026. The Elizabeth line is complete. The remaining work this year is on the Victoria, Jubilee, Bakerloo and Piccadilly lines and the last Circle and District sections.
+> 📶 **As of 6 September 2026:** roughly 60% of Underground stations have 4G and 5G, and TfL expects the whole network covered by the end of 2026. The Elizabeth line is complete. The remaining work in 2026 is on the Victoria, Jubilee, Bakerloo and Piccadilly lines and the last Circle and District sections.
 >
 > **The station list changes every few weeks.** [TfL's connectivity page](https://tfl.gov.uk/travel-information/improvements-and-projects/improving-digital-connectivity-on-our-network) is the live version — check it if signal matters for a specific journey.
 

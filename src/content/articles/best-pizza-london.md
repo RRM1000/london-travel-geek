@@ -251,7 +251,7 @@ Seven courses, four of them pizza, in a basement under Wardour Street — the on
 
 ### New York
 
-Thinner, wider, foldable, sold by the slice, and where most of this year's coverage went.
+Thinner, wider, foldable, sold by the slice, and where most of the 2026 coverage went.
 
 #### Spring Street Pizza, Borough
 

@@ -31,7 +31,7 @@ heroImage: "../../assets/articles/hyde-park-winter-wonderland/aerial-night.jpg"
 heroImageAlt: "An aerial night view over Hyde Park Winter Wonderland showing the illuminated fairground, the green ice rink, the big top and the Euro Coaster"
 ---
 
-**Hyde Park Winter Wonderland runs from Thursday 19 November 2026 to Sunday 3 January 2027**, and this year it opens every single day except Christmas Day. The operator counts **150-plus attractions, rides and shows** on site. Entry starts at £1. Almost everything inside costs extra.
+**Hyde Park Winter Wonderland runs from Thursday 19 November 2026 to Sunday 3 January 2027**, and in 2026 it opens every single day except Christmas Day. The operator counts **150-plus attractions, rides and shows** on site. Entry starts at £1. Almost everything inside costs extra.
 
 That gap between the two is the whole thing. Half a million £1 tickets get people through the gate; the ice rink is £19.25 at peak, the circus £19.80, and a two-person ice-sculpting station £78.65. It is possible to have a lovely evening here for the price of a bus fare, and it is possible to spend £200 without noticing. This guide is every published price, so you can decide which trip you are taking.
 
@@ -41,7 +41,7 @@ That gap between the two is the whole thing. Half a million £1 tickets get peop
 
 ## The short version
 
-- **Dates:** 19 November 2026 – 3 January 2027. **Closed Christmas Day only** — last year it also shut on three November dates, and this year it does not.
+- **Dates:** 19 November 2026 – 3 January 2027. **Closed Christmas Day only** — in 2025 it also shut on three November dates; in 2026 it does not.
 - **Winter Wishes:** free entry for groups on 1 December 2026, low-sensory and closed to the public until 2pm — apply by **30 September 2026**.
 - **Hours:** closes **10pm** every night, **last entry 21:30**. Most days open 10am, but a long list of quieter dates open at 11am or noon.
 - **Entry:** **£1 / £5.50 / £8.25** in advance, booking fees included. More on the door.
@@ -138,7 +138,7 @@ The UK's largest open-air rink, laid around the park's Victorian bandstand. Arri
 
 *Arctic Circle · anytime entry, 10:00–21:00 · 15–20 minutes*
 
-Five hundred tonnes of carved ice and snow, this year on a Peter Pan theme, in partnership with Great Ormond Street Hospital Charity. **It is around −10°C inside** — buggies are welcome and it is wheelchair accessible, but dress for it properly rather than optimistically.
+Five hundred tonnes of carved ice and snow, in 2026 on a Peter Pan theme, in partnership with Great Ormond Street Hospital Charity. **It is around −10°C inside** — buggies are welcome and it is wheelchair accessible, but dress for it properly rather than optimistically.
 
 | | Off-peak | Standard | Peak |
 | --- | --- | --- | --- |
@@ -442,7 +442,7 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 
 ## What has changed for 2026
 
-**Open every day but Christmas Day.** Last season also closed on three November dates; this year there are no midweek closures at all, and the season runs two days longer at the end.
+**Open every day but Christmas Day.** The 2025 season also closed on three November dates; in 2026 there are no midweek closures at all, and the season runs two days longer at the end.
 
 **Gandeys K-Pop Dragon Circus replaces Zippos** — the resident Christmas circus since 2009 — **and Cirque Berserk**. This is the biggest single change on the site.
 
@@ -452,7 +452,7 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 
 **On the commercial side:** the Coaster Pass, Explorer Pass, Show Town Spectacular package and standalone Ride & Game Credit are all new, booking fees are now inclusive, and all three table packages — Gracy's VIP, Bavarian Hall and Mary & Me — gained a fourth drink per person.
 
-> ⚠️ **Two shows have gone, and one price has moved.** Zippos Christmas Circus and Cirque Berserk: Ignite! are **not running in 2026** — Gandeys has both circus slots — so ignore any listing that still offers them. The Santa Land Unlimited Ride Pass is **£27.50**, up from £25 last year.
+> ⚠️ **Two shows have gone, and one price has moved.** Zippos Christmas Circus and Cirque Berserk: Ignite! are **not running in 2026** — Gandeys has both circus slots — so ignore any listing that still offers them. The Santa Land Unlimited Ride Pass is **£27.50**, up from £25 in 2025.
 
 ![A hand holding a branded Hyde Park Winter Wonderland hot drinks cup, with the observation wheel out of focus behind](../../assets/articles/hyde-park-winter-wonderland/branded-cup.jpg)
 

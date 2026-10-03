@@ -277,7 +277,7 @@ The Elizabeth line and the DLR both stop overnight, every night of the week, and
 ## Before you book
 
 - **Find your entrance first.** The event's own page or your ticket names the hall or entrance; the West Entrance is by Custom House, the East Entrance and the ICC by Prince Regent.
-- **Your bags.** ExCeL's cloakrooms store nothing overnight, and whether there is one at all is up to your event's organiser. If you check out on the last morning, leave the case at the hotel.
+- **Your bags.** ExCeL's cloakrooms store nothing overnight, and whether there is one at all is up to your event's organiser. If you check out on the final morning, leave the case at the hotel.
 - **Driving.** ExCeL's own car park is £27.50 a day booked ahead. Guest parking is £12 for 24 hours at Travelodge London ExCeL and £20 a day at the Holiday Inn Express.
 
 For the rest of the trip, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for, and the [MCM Comic Con guide](/articles/mcm-comic-con-london/) covers tickets, queues and cosplay rules. Flying from London City Airport, near ExCeL's east end? Our [City Airport guide](/articles/london-city-airport-to-london/) has the routes.

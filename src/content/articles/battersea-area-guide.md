@@ -53,7 +53,7 @@ area:
       note: "East along the Thames Path past Vauxhall towards Westminster Bridge."
 faq:
   - q: "Can you go inside Battersea Power Station?"
-    a: "Yes. It reopened to the public in October 2022 after a long restoration and is now free to enter as a shopping and dining destination. The two turbine halls are open — Turbine Hall A restored in 1930s art deco, Turbine Hall B in 1950s style. Only the Chimney Lift up the chimney is ticketed."
+    a: "Yes. It reopened to the public in October 2022 after a long restoration and is free to enter as a shopping and dining destination. The two turbine halls are open — Turbine Hall A restored in 1930s art deco, Turbine Hall B in 1950s style. Only the Chimney Lift up the chimney is ticketed."
   - q: "What is the Chimney Lift, and what happened to Lift 109?"
     a: "The same attraction, renamed. A glass lift rises 109 metres up inside the north-west chimney, opening out at the top for a 360-degree view over London. Adult tickets start at £16 booked online against £24 on the day, and the whole visit takes about 45 minutes including the exhibition below. It closes periodically for maintenance — it was shut through August 2026 — so check before travelling."
   - q: "How do I get to Battersea Power Station by Tube?"
@@ -154,7 +154,7 @@ This is the largest regeneration zone in central London, 227 hectares of it, and
 
 The **boating lake** is ten acres with rowing and pedal boats from a kiosk by the Pear Tree Cafe — **weekends, bank holidays and school holidays only**, roughly March to September, weather permitting, and **no booking: first come, first served**. Prices are posted at the kiosk rather than online.
 
-The **Peace Pagoda** on the riverside path was built in 1985 by fifty monks, nuns and volunteers of the Nipponzan Myohoji order to mark forty years since Hiroshima and Nagasaki. A monk still tends it. **The upper platform is not open to the public** — it is his to maintain, and the Buddhas in the alcoves are sacred objects rather than climbing frames. While they were building it the monks lived in what is now the Children's Zoo, and the temple the monk uses today is a converted council storeroom in the trees near the Old English Garden.
+The **Peace Pagoda** on the riverside path was built in 1985 by fifty monks, nuns and volunteers of the Nipponzan Myohoji order to mark forty years since Hiroshima and Nagasaki. A monk still tends it. **The upper platform is not open to the public** — it is his to maintain, and the Buddhas in the alcoves are sacred objects rather than climbing frames. While they were building it the monks lived in what is now the Children's Zoo, and the temple the monk uses is a converted council storeroom in the trees near the Old English Garden.
 
 Also here: the **Pump House Gallery** in an 1861 water tower, free and showing contemporary art; a Victorian **bandstand**; the **Children's Zoo** (adult £17.50, child £13.95, no booking needed); **Go Ape**, mini golf and a boules pitch; and the **Millennium Arena** for athletics.
 
@@ -187,7 +187,7 @@ South-west past the park, and the **actual old Battersea** — low-rise, unglamo
 | **The Woodman** | Traditional pub | £ | Battersea High Street; the old Battersea, away from the development |
 | **Battersea Power Station market** | Street food | £ | Weekends on Electric Boulevard |
 
-At Christmas the Power Station adds a riverside skate trail and winter food huts in Malaysia Square, and last year a makers' market on three weekends; see our [London Christmas markets guide](/articles/christmas-markets-london/).
+At Christmas the Power Station adds a riverside skate trail and winter food huts in Malaysia Square, and in 2025 a makers' market on three weekends; see our [London Christmas markets guide](/articles/christmas-markets-london/).
 
 ## Getting there
 

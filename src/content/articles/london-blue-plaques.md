@@ -302,7 +302,7 @@ Where Van Gogh lodged as a young art dealer in his twenties, **years before he h
 * **Sigmund and Anna Freud**, 20 Maresfield Gardens, Hampstead NW3 5SX — father and daughter on one house, now the Freud Museum, with his actual couch. Anna lived and worked there for 44 years.
 * **George Bernard Shaw and Virginia Woolf**, 29 Fitzroy Square — two literary giants, the same front door, different decades.
 
-> ⚠️ **One to admire from a distance.** The best inscription in London is Luke Howard's at 7 Bruce Grove, Tottenham: **"Namer of Clouds"**, for the man who gave us cumulus, stratus and cirrus. English Heritage's own page states the plaque is **not currently on view to the public**, so do not build a walk around it.
+> ⚠️ **One to admire from a distance.** The best inscription in London is Luke Howard's at 7 Bruce Grove, Tottenham: **"Namer of Clouds"**, for the man who gave us cumulus, stratus and cirrus. English Heritage's own page states the plaque is **not on view to the public**, so do not build a walk around it.
 
 ---
 

@@ -32,7 +32,7 @@ faq:
     a: "Budget at least four hours. Kew covers around 320 acres, and trying to cover the glasshouses, the Treetop Walkway and the grounds in under three hours means rushed walking between distant points."
   - q: "Which entrance gate is best for Kew Gardens?"
     a: "Victoria Gate is best for public transport: it's 500 metres from Kew Gardens station, on the District line and the Mildmay line (London Overground). Elizabeth Gate suits South Western Railway arrivals at Kew Bridge station, 800 metres away. Lion Gate, nearest Richmond, is open weekends only from 2 November 2026 to 29 January 2027."
-  - q: "What are the opening hours for Kew Gardens this autumn and winter?"
+  - q: "What are the opening hours for Kew Gardens in autumn and winter 2026?"
     a: "10am to 7pm (last entry 6pm) to 30 September 2026; 10am to 6pm (last entry 5pm) to 24 October; 10am to 4pm (last entry 3pm) to 11 November; then 10am to 3.15pm (last entry 2.30pm) from 12 November 2026 to 3 January 2027."
 ---
 

@@ -167,7 +167,7 @@ Per person, based on twelve people and the prices above. Travel assumes the £8.
 
 **The £231 Saturday with a bed.** Cocktail masterclass at The Cocktail Club (£40), an early Swingers slot (£12), dinner at about £35, BAM's Liquid Courage karaoke at £45 with the bride free, £8.90 of travel, £25 of drinks, and £65 a head for a private hostel room. **Total £230.90.** The bride going free at BAM saves the other eleven about £4 each.
 
-**The £433 premium weekend.** A private Thames Rockets charter at £57.92, afternoon tea at the Wolseley (£46.50), Mamma Mia! The Party off-peak (£120), £40 of drinks, £8.90 of travel and £160 a head for two nights in an apartment. **Total £433.32** — and the biggest line is the bed, not the activities, which is true of every version of this weekend.
+**The £433 premium weekend.** A private Thames Rockets charter at £57.92, afternoon tea at the Wolseley (£46.50), Mamma Mia! The Party off-peak (£120), £40 of drinks, £8.90 of travel and £160 a head for two nights in an apartment. **Total £433.32** — and the biggest line is the bed, not the activities, which is true of every version of the weekend.
 
 **On splitting it.** Nothing here takes a group payment as standard: the operator wants one card, so the organiser fronts the money unless they collect first. Collect at the point you book and treat deposits as spent — Clink's 20% is non-refundable, Swingers' online tickets are non-refundable outright, Rocket Room refunds nothing inside seven days, and Boom Battle Bar charges £10 a head if you cancel inside 24 hours or turn up fifteen minutes late.
 

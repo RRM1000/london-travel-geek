@@ -253,7 +253,7 @@ The kitchen is San Carlo's — a long-running Italian group — so the menu runs
 
 Seasonal is not a detail here; it is the difference between a plan and a wasted journey.
 
-- **[Frank's Cafe](#the-cheap-ones)**, Peckham — the 2026 season ran **15 May to 12 September** and has now closed, Wednesday to Sunday, 11am to 11pm. Card only, and no table reservations. *Cited by 3 sources*
+- **[Frank's Cafe](#the-cheap-ones)**, Peckham — the 2026 season ran **15 May to 12 September**, Wednesday to Sunday, 11am to 11pm. Card only, and no table reservations. *Cited by 3 sources*
 - **[The Culpeper](#the-culpeper-spitalfields)**, Spitalfields — the roof garden opens to diners from spring rather than through the winter. *Cited by 5 sources · #1 of 15, Time Out*
 - **[The Devonshire](#the-devonshire-soho)**, Soho — Time Out describes the third floor as a seasonal terrace, and it never takes bookings. *Cited by 4 sources*
 - **[Towpath](#towpath-haggerston)**, Haggerston — runs a season and closes Mondays and Tuesdays inside it. *Cited by 6 sources · #2 of 16, Time Out*

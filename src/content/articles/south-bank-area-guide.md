@@ -166,7 +166,7 @@ Inland from the river, and the part of this area most worth your time — Boroug
 
 **Southwark Cathedral is free** and open 9am–6pm Monday to Saturday, 8.30am–5pm Sunday — a thousand years of building beside a market, with a churchyard, a herb garden and a resident cat. There is an hourly pause for prayer on the half hour, about two minutes, when visitors are asked to stand still.
 
-Around them, three small paid museums that people miss: the **Old Operating Theatre**, a Georgian surgical theatre up a spiral staircase in a church tower (Thursday to Sunday only); the **Clink Prison Museum** on the site of the Bishop of Winchester's gaol; and the **Golden Hinde**, currently under restoration, so parts may be shut. The **ruins of Winchester Palace** on Clink Street are free, roofless and visible from the pavement at any hour, rose window and all. All of these, plus the George Inn, Cross Bones and the Rose, are on our [Bankside and Borough walk](/articles/bankside-borough-walk/).
+Around them, three small paid museums that people miss: the **Old Operating Theatre**, a Georgian surgical theatre up a spiral staircase in a church tower (Thursday to Sunday only); the **Clink Prison Museum** on the site of the Bishop of Winchester's gaol; and the **Golden Hinde**, under restoration, so parts may be shut. The **ruins of Winchester Palace** on Clink Street are free, roofless and visible from the pavement at any hour, rose window and all. All of these, plus the George Inn, Cross Bones and the Rose, are on our [Bankside and Borough walk](/articles/bankside-borough-walk/).
 
 ![Shoppers filling an aisle of Borough Market under its iron and glass roof, beside a fishmonger's counter](../../assets/articles/south-bank-area-guide/borough-market.jpg)
 

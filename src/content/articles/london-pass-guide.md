@@ -79,7 +79,7 @@ Go City sells two different things under the London Pass name. They work nothing
 
 > ⚠️ **If your sightseeing is spread across a week, the Explorer is the one that fits.** The All-Inclusive rewards cramming; the Explorer rewards spacing out. People routinely buy the All-Inclusive for a seven-day holiday on which they will visit four things, and lose money on every day the pass is running while they are in a pub.
 
-There is one more wrinkle. Go City's FAQ says it is "currently offering a limited flexible (non-consecutive) option to some customers", usable within two weeks of first use. You cannot rely on being offered it.
+There is one more wrinkle. Go City's FAQ says it offers a limited flexible (non-consecutive) option to some customers, usable within two weeks of first use. You cannot rely on being offered it.
 
 ---
 
@@ -340,7 +340,7 @@ The London Eye and Madame Tussauds booked direct come to **£56.00**. £139 only
 
 Not to be confused with the annual pass above. This is a single ticket to **five Merlin attractions — Madame Tussauds, SEA LIFE London, the London Dungeon, Shrek's Adventure and the London Eye**. It used to be sold as Merlin's Magical London. You book a London Eye time first, then have **7 days to visit the other four**, with free rescheduling.
 
-**From £59 online.** Booked separately, at the cheapest price each is currently sold for, the five come to **£132**:
+**From £59 online.** Booked separately, at the cheapest price each sells for, the five come to **£132**:
 
 | Attraction | Cheapest advance |
 | --- | --- |

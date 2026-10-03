@@ -115,7 +115,7 @@ On event days a one-day controlled parking zone, the **Twickenham Event (R) Zone
 | **Penalty** | **£160** in Hounslow; **£140 or £160** in Richmond. Halved if paid within **14 days** |
 | **Removal** | Possible, in some cases |
 
-Every England international this autumn is an 82,000 crowd, so the full zone applies. Blue Badge holders can park in the zone as usual.
+Every England international in autumn 2026 is an 82,000 crowd, so the full zone applies. Blue Badge holders can park in the zone as usual.
 
 **The roads close too.** Whitton Road, Rugby Road and London Road (between King Street and Whitton Road) close about **90 minutes before kick-off** and for up to **two to three hours** afterwards. The car parks stay reachable, but the stadium asks you to be parked **90 minutes before kick-off**.
 

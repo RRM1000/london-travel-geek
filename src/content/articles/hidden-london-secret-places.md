@@ -44,7 +44,7 @@ Almost all of it is free, and most of it takes ten minutes.
 | **Fitzrovia** | The Fitzrovia Chapel, Colville Place, All Saints Margaret Street |
 | **King's Cross** | Camley Street Natural Park, the Light Tunnel, Word on the Water |
 | **Greenwich** | The foot tunnel |
-| **Paddington** | The Rolling Bridge and Fan Bridge — both currently out of action |
+| **Paddington** | The Rolling Bridge and Fan Bridge — both out of action |
 | **Clapham** | The deep shelter tour |
 
 ---
@@ -101,7 +101,7 @@ That is exactly what makes it worth the walk. **Wapping Wood** runs alongside it
 
 ### The Rolling Bridge and Fan Bridge, Paddington
 
-Two kinetic bridges over Paddington Basin. Thomas Heatherwick's Rolling Bridge, installed in 2004, is twelve metres of eight hinged triangular segments that curl up into an octagon on the towpath. The Fan Bridge, by Knight Architects and finished in 2014, is twenty metres long and lifts in five separate fins like a hand fan. **Both are currently out of action.** Merchant Square's own page says the Fan Bridge is out of order and gives no return date; the Paddington Partnership says the same of the Rolling Bridge and points visitors back to Merchant Square. Almost every hidden London list still prints the timetables as though they were live — for the record, the Fan Bridge lifted Mondays, Wednesdays and Fridays at 11.30am, and never in high wind. The basin walkways are free and open at all hours, and there is nothing to book. Come for the water, the floating pocket park and the food, and treat any movement as a bonus.
+Two kinetic bridges over Paddington Basin. Thomas Heatherwick's Rolling Bridge, installed in 2004, is twelve metres of eight hinged triangular segments that curl up into an octagon on the towpath. The Fan Bridge, by Knight Architects and finished in 2014, is twenty metres long and lifts in five separate fins like a hand fan. **Both are out of action.** Merchant Square's own page says the Fan Bridge is out of order and gives no return date; the Paddington Partnership says the same of the Rolling Bridge and points visitors back to Merchant Square. Almost every hidden London list still prints the timetables as though they were live — for the record, the Fan Bridge lifted Mondays, Wednesdays and Fridays at 11.30am, and never in high wind. The basin walkways are free and open at all hours, and there is nothing to book. Come for the water, the floating pocket park and the food, and treat any movement as a bonus.
 
 ### Alexandra Road Estate, South Hampstead
 

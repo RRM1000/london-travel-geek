@@ -110,7 +110,7 @@ Thirty-three establishments, of which thirty are in London — **Balagan** and *
 
 **Do not plan a Saturday.** Friday lunch, Sunday, or a weekday evening.
 
-**In Stamford Hill, ask locally.** The authority most used there does not currently publish a reachable register, so no written list of that neighbourhood is complete right now.
+**In Stamford Hill, ask locally.** No written list of that neighbourhood is complete.
 
 **And if certification is not the thing you are solving for**, this page is the wrong one: our [guide to eating in London](/articles/eat-in-london-guide/) arranges everything else by cuisine, dish and area, and the [vegetarian and vegan guide](/articles/best-vegetarian-vegan-restaurants-london/) is the nearest thing to this one in shape — a rule about what a kitchen does rather than where its cooking comes from.
 

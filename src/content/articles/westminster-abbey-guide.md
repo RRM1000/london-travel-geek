@@ -187,7 +187,7 @@ Evensong is free to attend, and open to people of all faiths and none.
 
 ### Opening hours and the Sunday closure
 - **Monday to Friday:** 09:30–15:30.
-- **Saturday:** 09:00–16:00, last entry 15:00. As a working church, the Abbey sometimes closes earlier for weddings and other services — several Saturdays this autumn are ending as early as 13:00 — so check the Abbey's own [entry times calendar](https://www.westminster-abbey.org/visit-us/opening-times-and-prices/) for your date before you travel.
+- **Saturday:** 09:00–16:00, last entry 15:00. As a working church, the Abbey sometimes closes earlier for weddings and other services — several Saturdays in autumn 2026 end as early as 13:00 — so check the Abbey's own [entry times calendar](https://www.westminster-abbey.org/visit-us/opening-times-and-prices/) for your date before you travel.
 - **Sunday:** closed to tourist sightseeing. Open for worship only, at 08:00 (Holy Communion), 10:00 (Matins), 11:15 (Sung Eucharist) and 15:00 (Evensong).
 
 ### Nearest tube and rail stations

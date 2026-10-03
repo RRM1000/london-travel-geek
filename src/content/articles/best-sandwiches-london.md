@@ -211,7 +211,7 @@ Weekly limited-edition focaccia and a cult following across south London, run ou
 
 The default answer to the best toastie in London, and one of the few genuinely famous things at Borough Market that deserves it.
 
-**A mix of cheeses, mostly Montgomery's cheddar**, with onions and leeks between two slices of Poilâne sourdough, for **£8**. That is how the stall itself now describes it — worth saying, because the four-cheese recipe that gets repeated everywhere is not what their own menu claims today. Bill Oglethorpe started it in 2008 using surplus market cheese and bread, and he makes the raclette himself in Bermondsey.
+**A mix of cheeses, mostly Montgomery's cheddar**, with onions and leeks between two slices of Poilâne sourdough, for **£8**. That is how the stall itself describes it — worth saying, because the four-cheese recipe that gets repeated everywhere is not what their own menu claims. Bill Oglethorpe started it in 2008 using surplus market cheese and bread, and he makes the raclette himself in Bermondsey.
 
 **The raclette is a separate dish, not part of the toastie** — Ogleshield or London Raclette melted over potatoes, also £8. Plenty of people queue expecting one and get the other.
 
@@ -255,7 +255,7 @@ The 1946 black-tiled frontage, the order shouted across the room, and a **set br
 
 **Monday to Saturday 7am to 3.30pm, closed Sunday.** There is usually a queue out of the door by nine on a Saturday and it is a fast room, so it moves.
 
-> 💡 **It changed hands, and that is worth knowing before you read an old review.** Claudia Perotti and Marco Schiavetta, who had run it since 1994, retired and sold up in late 2024. It closed briefly and reopened under new owners, **Fevzi and Zafer Gungor**, who have talked about extending the hours and taking the name abroad. The hours on their own site are unchanged as we write, and the room is intact — but if you find a piece describing the old family, it is out of date rather than describing today.
+> 💡 **It changed hands, and that is worth knowing before you read an old review.** Claudia Perotti and Marco Schiavetta, who had run it since 1994, retired and sold up in late 2024. It closed briefly and reopened under new owners, **Fevzi and Zafer Gungor**, who have talked about extending the hours and taking the name abroad. The hours on their own site are unchanged as we write, and the room is intact — but if you find a piece describing the old family, it is out of date.
 
 17–19 Regency Street, SW1P 4BY, ten minutes from Westminster or Pimlico.
 

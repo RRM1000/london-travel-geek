@@ -320,7 +320,7 @@ You can walk the whole thing in ten minutes. **Lutong Pinoy** at 10 Kenway Road 
 
 > ⚠️ **Ring before you go for a feast.** A kamayan is cooked for the whole table at once, most kitchens want a minimum of four people, and turning up as a pair on a Saturday means ordering off the à la carte instead.
 
-## New and changed this year
+## New and changed since 2025
 
 * **Belly Bistro** opened in May 2025 and is in the 2026 Michelin Guide — the fastest rise of anything on this page.
 * **Panadera** opened its Soho flagship on Hopkins Street in 2025 and now runs Soho and Marylebone; the Kentish Town original closed in January 2025.

@@ -168,7 +168,7 @@ For chocolate, **The Chocolate Line on Simon Stevinplein**, founded by Dominique
 
 ## Where to stay
 
-Stay near Brugge station if the plan is an early train home or on to Ghent or Brussels the next morning; stay in the old centre if you'd rather still be a two-minute walk from the Markt once the day-trippers have gone.
+Stay near Brugge station if the plan is an early train home or on to Ghent or Brussels the following morning; stay in the old centre if you'd rather still be a two-minute walk from the Markt once the day-trippers have gone.
 
 - **[Guesthouse Keizershof](hotelscom:h13168703)** — on Oostmeers, a level walk to Brugge station and on the same route into town as the Begijnhof and Minnewater; the Markt is a further ten minutes on. A small family-run guesthouse, price band £, with breakfast at the neighbouring restaurant.
 - **[Hotel Dukes' Palace Bruges](hotelscom:h1853344)** — on Prinsenhof, a few minutes from the Burg and the Markt and about twenty from the station; a 5-star hotel built through a former ducal palace, price band £££, with a spa — sauna and jacuzzi — that's the reason to pick it over a plainer central room.

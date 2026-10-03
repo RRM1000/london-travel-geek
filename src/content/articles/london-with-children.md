@@ -155,13 +155,13 @@ Opened in 1828 as the world's first scientific zoo, and the listed Victorian and
 
 *Adult £17.50, child (2–15) £13.95, family £53.95 · under-2s free*
 
-A small zoo built deliberately around young children — meerkats, monkeys, otters, lemurs, a barnyard of sheep and goats to get close to, and two adventure playgrounds to burn off whatever is left. It takes an afternoon rather than a day, which is the whole argument for it over London Zoo with anyone under about eight: nobody has to be carried out at the end. **Adults are £17.50, children aged 2 to 15 are £13.95, under-2s go free, and the family ticket is £53.95 for two adults and two children or one adult and three children** — about £9 less than buying the same tickets separately. Currently open 10am to 5.30pm with last entry at 5pm, dropping to 4.30pm from late September. Under-16s must be with an adult.
+A small zoo built deliberately around young children — meerkats, monkeys, otters, lemurs, a barnyard of sheep and goats to get close to, and two adventure playgrounds to burn off whatever is left. It takes an afternoon rather than a day, which is the whole argument for it over London Zoo with anyone under about eight: nobody has to be carried out at the end. **Adults are £17.50, children aged 2 to 15 are £13.95, under-2s go free, and the family ticket is £53.95 for two adults and two children or one adult and three children** — about £9 less than buying the same tickets separately. Open 10am to 5.30pm with last entry at 5pm, dropping to 4.30pm from late September. Under-16s must be with an adult.
 
 ### SEA LIFE London Aquarium, South Bank
 
 *From £28 online · under-2s free · Waterloo*
 
-In the basement of County Hall beside the London Eye: fourteen zones over three floors, a walk-through tunnel with sharks and rays passing overhead, and a rockhopper penguin colony. It is dark, warm, crowded and over quickly. **Their own estimate is one to one and a half hours, which is worth weighing against a standard online ticket from £28** — walking up on the day costs meaningfully more. Under-2s go free, and under-16s must be with someone over 18. **There is no cloakroom of any kind, and that explicitly includes pushchairs**, so whatever you arrive with you push around the tanks. Currently open 10am to 6pm with last entry at 5pm. Book a timeslot; queues on the South Bank build from mid-morning.
+In the basement of County Hall beside the London Eye: fourteen zones over three floors, a walk-through tunnel with sharks and rays passing overhead, and a rockhopper penguin colony. It is dark, warm, crowded and over quickly. **Their own estimate is one to one and a half hours, which is worth weighing against a standard online ticket from £28** — walking up on the day costs meaningfully more. Under-2s go free, and under-16s must be with someone over 18. **There is no cloakroom of any kind, and that explicitly includes pushchairs**, so whatever you arrive with you push around the tanks. Open 10am to 6pm with last entry at 5pm. Book a timeslot; queues on the South Bank build from mid-morning.
 
 ### WWT London Wetland Centre, Barnes
 
@@ -193,7 +193,7 @@ An indoor amusement park on Castlehaven Road, a minute from Camden Lock, on thre
 
 *Free · daylight hours, every day · King's Cross St Pancras*
 
-Four banks of jets set flush into the paving in front of the old Granary Building — **over 1,000 of them, individually controlled and individually lit** — with no fence, no queue, no ticket and no closing time beyond the light. Children run in and out of them for as long as you are willing to stand there. It is five minutes from the King's Cross and St Pancras concourses, which makes it the best answer in London to a delayed train with small children in tow. **They run daily during daylight hours and cost nothing**, though the display setting varies and is currently kept to a low, intermittent pattern rather than the full choreographed programme. Bring a towel and a complete change of clothes. The paving is hard and children fall over on it.
+Four banks of jets set flush into the paving in front of the old Granary Building — **over 1,000 of them, individually controlled and individually lit** — with no fence, no queue, no ticket and no closing time beyond the light. Children run in and out of them for as long as you are willing to stand there. It is five minutes from the King's Cross and St Pancras concourses, which makes it the best answer in London to a delayed train with small children in tow. **They run daily during daylight hours and cost nothing**, though the display setting varies and can be kept to a low, intermittent pattern rather than the full choreographed programme. Bring a towel and a complete change of clothes. The paving is hard and children fall over on it.
 
 ### Go Ape, Battersea Park
 

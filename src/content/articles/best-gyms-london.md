@@ -182,7 +182,7 @@ Membership price is not where public leisure separates from private. Residency i
 
 **Southwark is the best deal in London.** The council's own page: "Southwark residents can use the swimming and gym facilities for free in all of our leisure centres" — all day Friday, Saturday 14:00–17:30, Sunday 14:00–21:00, Silver sessions all week for over-60s, and seven days a week for eligible disabled residents. Register with ID and proof of address. It is free, and it is time-boxed: turn up on a Tuesday evening and you pay.
 
-**Tower Hamlets widened its free swimming this spring.** Resident women and girls 16 and over can register at any time; residents 55 and over likewise; and men 35 and over have been able to register since 1 April 2026, with sessions bookable since 6 April. A parent-and-child option lets an adult member bring up to two children free at designated family sessions. Proof of age *and* Tower Hamlets residency, in person at a centre. It applies at designated session times rather than being open access.
+**Tower Hamlets widened its free swimming in spring 2026.** Resident women and girls 16 and over can register at any time; residents 55 and over likewise; and men 35 and over have been able to register since 1 April 2026, with sessions bookable since 6 April. A parent-and-child option lets an adult member bring up to two children free at designated family sessions. Proof of age *and* Tower Hamlets residency, in person at a centre. It applies at designated session times rather than being open access.
 
 **Wandsworth's Access for All** is the most substantial means-tested scheme: a free six-month membership on Universal Credit, JSA, Housing Benefit, Council Tax Support, DLA or Incapacity Benefit; a free one-year membership for children on free school meals that covers one adult and up to two children; a free year of Premium for foster carers; £20 a month for care leavers aged 16–25; and free swimming for **all** under-8s with an adult. The free tiers are off-peak and weekends only — peak access is a £23.50 a month upgrade — and the Universal Credit membership expires after six months and needs re-proving with documents dated within the last 28 days.
 
@@ -279,7 +279,7 @@ Every chain here advertises a monthly figure. For most of them that figure is th
 
 **PureGym's £0 is a promotion, not a price.** On 9 September **5 of its 87 London clubs** charge nothing — Camden High Street, Chiswick Park, Cricklewood, Harrow and Kensington High Street. The commonest London fee is £15 at 25 clubs, then £20 at 18 and £19.99 at 14; the dearest is £25 at Bow Wharf, Fulham, Limehouse, Moorgate, Piccadilly and St Pauls.
 
-**The Gym Group advertises a fee most of its London clubs do not charge.** Its own London region page says "pay from £30.99 today including a one-off £10 joining fee". In fact **45 of its 87 London clubs charge £15**, 17 charge £10, 23 charge £0 and two charge £20. Its 9- and 12-month Saver plans carry no fee at all.
+**The Gym Group advertises a fee most of its London clubs do not charge.** Its own London region page advertises a price from £30.99 that includes a one-off £10 joining fee. In fact **45 of its 87 London clubs charge £15**, 17 charge £10, 23 charge £0 and two charge £20. Its 9- and 12-month Saver plans carry no fee at all.
 
 **JD Gyms is the only genuine standing exception.** Nuffield's £29 is at least published and never waived. Better charges £12.50 as a setup fee, waived on annual prepaid and on Pay As You Go cards. Be Well, Mytime Active and JD charge nothing.
 

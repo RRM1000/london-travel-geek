@@ -26,7 +26,7 @@ faq:
   - q: "Is there a cheap London Film Festival ticket for under-25s?"
     a: "Yes. BFI 25 & Under is free to join for anyone aged 16 to 25, and gets you £6 tickets to London Film Festival screenings. It is a different rate from the £4 the same scheme gets you for regular year-round screenings at BFI Southbank, so do not be surprised when festival tickets come up at £6."
   - q: "Is BFI Membership worth it for the London Film Festival?"
-    a: "Not for this year's booking, which has opened to everyone. Membership is £44 a year by direct debit, and what it saves you now is the £1-a-ticket booking fee, capped at £3 a transaction and not charged at all at the box office. It makes financial sense if you also use BFI Southbank the rest of the year, because it includes two free standard Southbank tickets and up to £2.50 off. Bought now, its festival benefit is the priority window for the 2027 edition."
+    a: "Not for the 2026 booking, which has opened to everyone. Membership is £44 a year by direct debit, and what it saves you is the £1-a-ticket booking fee, capped at £3 a transaction and not charged at all at the box office. It makes financial sense if you also use BFI Southbank the rest of the year, because it includes two free standard Southbank tickets and up to £2.50 off. Bought after the 2026 windows closed, its festival benefit is the priority window for the 2027 edition."
   - q: "How do you get tickets for a sold-out London Film Festival screening?"
     a: "Four routes. Extra tickets are released online at 10am on 1 October and again at 10am each morning during the festival, and more £10 tickets go on sale every Friday at 1pm. Returned tickets appear on Twickets, which caps resale at face value. At the venue, ask at the box office 45 minutes before the screening for returns. If there are none, join the standby queue 30 minutes before — standby tickets are released 15 minutes before the film starts."
   - q: "Where does the London Film Festival take place?"
@@ -62,7 +62,7 @@ The part that catches people out is the calendar. **Tickets went on general sale
 | **Thu 1 October** | 10am | **Extra tickets released, and LFF for Free booking opens** |
 | **Wed 7 – Sun 18 October** | — | The festival itself |
 
-Two things follow from this. The first is that membership no longer buys a head start this year: the priority windows have closed, so £44 spent now saves booking fees and buys the 2027 window, not a seat in October. The second is that 1 October is a genuine second chance that most people miss — it is a real release of held-back stock, not a token gesture.
+Two things follow from this. The first is that membership no longer buys a head start on the 2026 festival: the priority windows have closed, so £44 spent after that saves booking fees and buys the 2027 window, not a seat in October. The second is that 1 October is a genuine second chance that most people miss — it is a real release of held-back stock, not a token gesture.
 
 ---
 
@@ -112,9 +112,9 @@ The honest arithmetic, if the festival is the only reason you are considering it
 
 - The **booking fee saving is £1 a ticket**. To recover £44 on that alone you would need to buy 44 tickets.
 - The **two free tickets** and the **£2.50 discount** are Southbank benefits, useful year-round but not at the festival.
-- What you are actually buying is **the priority window**, and the 2026 one has closed. A membership taken out today applies to the 2027 festival.
+- What you are actually buying is **the priority window**, and the 2026 one has closed. A membership taken out after the 2026 windows closed applies to the 2027 festival.
 
-So: if you go to BFI Southbank through the year anyway, membership pays for itself comfortably on the free tickets and the per-ticket discount. If you turn up once a year for the festival, it does not pay for itself in cash — it buys next year's head start on the screenings that sell out. Whether that is worth £44 depends entirely on whether there is a film you would be disappointed to miss.
+So: if you go to BFI Southbank through the year anyway, membership pays for itself comfortably on the free tickets and the per-ticket discount. If you turn up once a year for the festival, it does not pay for itself in cash — it buys the 2027 head start on the screenings that sell out. Whether that is worth £44 depends entirely on whether there is a film you would be disappointed to miss.
 
 The **Patron** tiers — £2,000, £6,500 and £15,000 — got one further day of priority, on 9 September, along with a personalised booking service. That is a philanthropic decision rather than a ticketing one.
 

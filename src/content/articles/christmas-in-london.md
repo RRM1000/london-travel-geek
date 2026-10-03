@@ -21,7 +21,7 @@ faq:
     a: "Every street light display, every Christmas market to browse, the Trafalgar Square tree and St Pancras's charity tree are all free. What is not: ice rinks, ticketed light trails such as Christmas at Kew, grottos at the department stores, and Hyde Park Winter Wonderland, which needs a ticket even to walk in."
   - q: "When do London's Christmas lights switch on?"
     a: "Most switch-ons cluster in the first two weeks of November, with the big names — Oxford Street, Regent Street, Carnaby Street — usually going first. The one fixed point is Trafalgar Square's tree, lit on Thursday 3 December 2026. Carnaby Street's switch-on is Wednesday 4 November 2026 and Covent Garden's is Thursday 12 November; the other streets had not announced 2026 dates by late September."
-  - q: "Where can you still ice skate outdoors in London this Christmas?"
+  - q: "Where can you still ice skate outdoors in London at Christmas 2026?"
     a: "Somerset House, Hampton Court Palace, Glide at Battersea Power Station, the Queen's House in Greenwich and Hyde Park Winter Wonderland all have outdoor rinks in 2026-27, and Alexandra Palace has a year-round indoor one. The Natural History Museum's rink has closed for good, Canary Wharf's is taking a break for 2026, and there is no Tower of London rink."
 heroImage: "../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg"
 heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with SKATE spelled in illuminated letters along the roofline of the neoclassical building behind"
@@ -41,7 +41,7 @@ heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with 
 
 **Entry is not free**, whatever the name suggests, and everybody in your group needs a timed ticket even if you only want to look at the market. In advance that is **£1 off-peak** (Monday to Thursday through November), **£5.50 standard** or **£8.25 peak**, and more on the door. Spend £25 online in one transaction on rides or attractions and entry becomes free.
 
-Inside, **Santa's Grotto, the Christmas Market, the light arches and every band and DJ are free**. Everything else is not: the ice rink is £12.65–£19.25, the Giant Wheel £8.80–£12.10, the new Gandeys K-Pop Dragon Circus £13.75–£19.80 — and it is Gandeys this year, not Zippos, which had been the resident circus since 2009. Every fairground ride is charged separately on top.
+Inside, **Santa's Grotto, the Christmas Market, the light arches and every band and DJ are free**. Everything else is not: the ice rink is £12.65–£19.25, the Giant Wheel £8.80–£12.10, the new Gandeys K-Pop Dragon Circus £13.75–£19.80 — and it is Gandeys in 2026, not Zippos, which had been the resident circus since 2009. Every fairground ride is charged separately on top.
 
 The quietest and cheapest visit is the same visit: a Monday to Thursday daytime in late November, when entry is £1 and the attraction prices drop with it.
 
@@ -92,7 +92,7 @@ Different from the free street displays above — these are paid, walk-through e
 
 **Christmas at Kew** is the benchmark. **13 November 2026 – 3 January 2027**, a 3km illuminated trail through Kew Gardens taking upwards of two hours. Adult tickets from **£29.50 off-peak, £37 peak**; a Kew Gardens day visit is a separate ticket bolted on for an extra £12. Book through [kew.org](https://www.kew.org/kew-gardens/whats-on/christmas).
 
-**[Hampton Court Palace](/articles/hampton-court-palace-guide/)** runs two separate things this year: **The Winter Palace**, a new indoor immersive walkthrough included in standard palace admission (£32–£35 adult), running **28 November 2026 – 3 January 2027**; and a **separate ice rink**, **20 November 2026 – 3 January 2027**, priced separately: £19.50 adult off-peak, £21.50 peak, family £59.50–£65.50 (see our [ice skating guide](/articles/ice-skating-london/)).
+**[Hampton Court Palace](/articles/hampton-court-palace-guide/)** runs two separate things in 2026: **The Winter Palace**, a new indoor immersive walkthrough included in standard palace admission (£32–£35 adult), running **28 November 2026 – 3 January 2027**; and a **separate ice rink**, **20 November 2026 – 3 January 2027**, priced separately: £19.50 adult off-peak, £21.50 peak, family £59.50–£65.50 (see our [ice skating guide](/articles/ice-skating-london/)).
 
 **Chelsea Winter Village & Illuminations**, at the Royal Hospital Chelsea, is a genuine outdoor light trail — 1.5km, 45–75 minutes — running **25 November – 28 December 2026**. Adult tickets from £19 off-peak, rising to £30.95 at peak times.
 
@@ -189,7 +189,7 @@ The shows below are the ones built for children rather than tolerated by them, a
 
 **21 November 2026 – 3 January 2027, from £18** plus a £4 transaction fee. **1 hour 30 including a 20-minute interval.**
 
-It has run for 32 years and **this year it is a new production** — a world premiere staged by Sadler's Wells with Birmingham Rep, with new puppets and Howard Blake's score still intact, 'Walking in the Air' included. If you saw the old one, this is not that. The safest first theatre trip in London at Christmas, and the shortest.
+It has run for 32 years and **in 2026 it is a new production** — a world premiere staged by Sadler's Wells with Birmingham Rep, with new puppets and Howard Blake's score still intact, 'Walking in the Air' included. If you saw the old one, this is not that. The safest first theatre trip in London at Christmas, and the shortest.
 
 ### Nutcracker, English National Ballet, London Coliseum
 

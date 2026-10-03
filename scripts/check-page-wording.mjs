@@ -36,8 +36,49 @@ const DATA_ONLY = [
 const DATA_FILES = ["restaurants.json", "hotels.json", "events.json", "activities.json", "hiddenLondon.json", "markets.json"];
 const DATA_FIELDS = ["name", "style", "whyGo", "opNote", "price", "booking", "typicalWhen", "note"];
 
+// RELATIVE DATES. Rob, 3 October 2026: no phrase that is only true on the day it
+// was written. "This Saturday", "next month", "last year", "currently" and the
+// rest go stale the moment the page is a day old. Name the date ("Saturday 11
+// October 2026", "from 28 November 2026") or state the standing fact ("on
+// Saturdays"). Article prose and frontmatter (description, faq) only; components
+// and pages that compute "this week" from data are out of scope.
+//
+// Bare "now" is NOT flagged: "what is now the Children's Zoo" is history. Only
+// the forms that mean "at the time of writing" are: "now open", "now on sale",
+// "is now closed", "right now", "for now".
+const DAY = "(?:monday|tuesday|wednesday|thursday|friday|saturday|sunday)";
+const PERIOD = "(?:weekend|week|month|year|summer|autumn|winter|spring|christmas|easter|evening|morning|afternoon|season)";
+const NOW_STATE = "(?:open|opens|on sale|live|closed|sold out|available|booking|taking|selling|accepting|showing|playing|trading|sells|serves|costs|charges|offers|free)";
+const RELATIVE = [
+  // "the last week of October" and "the last weekend of most months" are standing phrases.
+  [new RegExp(`\\bthis (?:coming )?(?:${DAY}|${PERIOD})\\b`, "gi"), "this + period"],
+  [new RegExp(`\\bnext (?:${DAY}|${PERIOD})\\b`, "gi"), "next + period"],
+  [new RegExp(`\\blast (?:${PERIOD})\\b(?! of\\b)`, "gi"), "last + period"],
+  [/\b(?:tomorrow|tonight|yesterday)\b/gi, "tomorrow / tonight / yesterday"],
+  [/\b(?:coming soon|recently|currently|at the moment|at present|at the time of writing|these days|nowadays|right now|for now|just now)\b/gi, "time-of-writing adverb"],
+  [new RegExp(`\\bnow ${NOW_STATE}\\b|\\b(?:is|are) now (?:${NOW_STATE}|£)`, "gi"), "'now' meaning at time of writing"],
+  // Lower-case "today" only; the sentence-start "Today it houses..." is a historical contrast.
+  [/\btoday\b/g, "today"],
+];
+// Contexts in which "today" is a standing statement, not the reader's day.
+const TODAY_OK = [
+  /\b(?:still|remains?|survives?|exists?|stands?|standing|used|known|serves?|marks?|marked|accurate|active|cared for|building|statue|studio|street|site|house|home|scheme|which|that|who)\b[^.!?\n]{0,50}\btoday\b/, // "still used today", "which today serves"
+  /\b(?:building|statue|studio|street|site|house|home|route|scheme) today\b/,
+  /\bto today\b/,                                  // "from Roman times to today"
+  /\btoday(?:'s)? (?:show|performance|matinee|screening|tickets?|rules)\b|\bfor today\b|\bdiscounted today\b|\bopens? today\b/, // a rule about the day itself
+];
+// Exact phrases that match a pattern but are not relative dates. Keep this short.
+const RELATIVE_ALLOW = [
+  "tonight josephine",     // a Clapham venue
+  "the today debate",      // a BBC Radio 4 programme
+  "be well for now",       // a Better membership name
+  "today's sherlock holmes museum", // the museum, set against Conan Doyle's 221
+  "last season's stock",   // outlet-centre stock, not a date
+];
+
 const hits = [];
 const articles = path.join(ROOT, "src/content/articles");
+const showRelative = process.argv.includes("--relative");
 for (const file of fs.readdirSync(articles).filter((f) => f.endsWith(".md"))) {
   const lines = fs.readFileSync(path.join(articles, file), "utf8").split(/\r?\n/);
   lines.forEach((line, i) => {
@@ -45,6 +86,18 @@ for (const file of fs.readdirSync(articles).filter((f) => f.endsWith(".md"))) {
     for (const [re, why] of EVERYWHERE) {
       const m = re.exec(line);
       if (m) { hits.push(`${file}:${i + 1}  ${why}: "${line.slice(Math.max(0, m.index - 50), m.index + 70).trim()}"`); break; }
+    }
+    const lower = line.toLowerCase();
+    for (const [re, why] of RELATIVE) {
+      re.lastIndex = 0;
+      let m;
+      while ((m = re.exec(line))) {
+        const around = line.slice(Math.max(0, m.index - 80), m.index + m[0].length + 30);
+        if (RELATIVE_ALLOW.some((a) => lower.slice(Math.max(0, m.index - 40), m.index + m[0].length + 40).includes(a))) continue;
+        if (why === "today" && TODAY_OK.some((ok) => ok.test(around))) continue;
+        // sentence-start "Today" is lower-case-only matched above, so it never reaches here.
+        hits.push(`${file}:${i + 1}  relative date (${why}): "${line.slice(Math.max(0, m.index - 50), m.index + 70).trim()}"`);
+      }
     }
   });
 }

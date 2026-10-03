@@ -45,7 +45,7 @@ These cost nothing, work across multiple chains, and are worth setting up before
 
 ### Meerkat Movies — 2-for-1, no purchase needed
 
-This is the best cinema deal in the country, and it changed recently in a way most people have not noticed. **You no longer need to buy insurance to get it.** Download the Compare the Market app, sign in, and a **2-for-1 cinema code** appears in the Rewards section.
+This is the best cinema deal in the country, and it changed in a way most people have not noticed. **You no longer need to buy insurance to get it.** Download the Compare the Market app, sign in, and a **2-for-1 cinema code** appears in the Rewards section.
 
 - A **new code every week**, valid **Tuesdays or Wednesdays**
 - Codes refresh every Thursday for the following week

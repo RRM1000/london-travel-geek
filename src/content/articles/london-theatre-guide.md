@@ -31,7 +31,7 @@ heroImage: "../../assets/articles/london-theatre-guide/west-end-stalls-view.jpg"
 heroImageAlt: "The view towards the stage from the stalls of a West End theatre, with the audience seated before curtain"
 ---
 
-Two hundred-odd shows are playing in London tonight, and that is exactly the problem. Prices run from £10 to £250 for the same evening, and most visitors end up booking whatever they have already heard of, at close to the highest price it sells for.
+Two hundred-odd shows are playing in London on any given night, and that is exactly the problem. Prices run from £10 to £250 for the same evening, and most visitors end up booking whatever they have already heard of, at close to the highest price it sells for.
 
 This guide is about the two decisions that actually matter: **what to see**, and **how to pay less for it**.
 

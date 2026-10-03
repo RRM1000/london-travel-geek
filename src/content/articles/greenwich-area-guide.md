@@ -95,7 +95,7 @@ Greenwich has its own share of the commemorative plaques marking where notable p
 *The Painted Hall ceiling. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 5. **National Maritime Museum** — Free. Nelson's coat with the bullet hole from Trafalgar, and a good children's gallery.
 6. **Greenwich Park and the deer** — 183 acres, London's oldest enclosed royal park, with a wild deer herd in The Wilderness.
-7. **Greenwich Market** — Covered, and now open **daily, 10am to 5.30pm**, bank holidays included. Arts, crafts, antiques and food under one roof.
+7. **Greenwich Market** — Covered, and open **daily, 10am to 5.30pm**, bank holidays included. Arts, crafts, antiques and food under one roof.
 8. **The Greenwich Foot Tunnel** — An 1902 tiled tunnel under the Thames to the Isle of Dogs. Free, open always, and the classic view back at Greenwich from the far side.
 
 ![The National Maritime Museum's columned entrance, with two giant white anchors standing either side of the doorway](../../assets/articles/greenwich-area-guide/national-maritime-museum.jpg)

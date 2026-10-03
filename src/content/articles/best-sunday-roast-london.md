@@ -24,7 +24,7 @@ faq:
     a: "Not for the roast itself. Two judged, dated rankings reach it: the Estrella Damm Top 50 Gastropubs, which put The Devonshire first in the UK and The Red Lion & Sun third, and the National Pub & Bar Awards, whose Industry's Choice top ten is voted by 400 industry judges and put The Devonshire first, The French House third and The Red Lion & Sun fourth in 2026. Both rank the pub across all seven days rather than its Sunday lunch, so read a placing as evidence about the pub."
 ---
 
-The Sunday roast is the meal London does that almost nowhere else attempts: a joint cooked for hours, a Yorkshire pudding the size of the plate, potatoes roasted in the fat and gravy poured over all of it. It is served for about five hours, one day a week, and then it is gone until next Sunday.
+The Sunday roast is the meal London does that almost nowhere else attempts: a joint cooked for hours, a Yorkshire pudding the size of the plate, potatoes roasted in the fat and gravy poured over all of it. It is served for about five hours, one day a week, and then it is gone until the following Sunday.
 
 That scarcity is the whole practical problem — the good ones sell out, most want booking by Thursday, and turning up hopefully at three is how people end up eating a disappointing one. So rather than add another opinion, we counted. Every pub below is placed by how many independent awards, critics and reviewers name it, and where it actually finished when a ranking exists.
 

@@ -1,7 +1,7 @@
 ---
 title: "The Best Places to See Autumn Leaves in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Places to See Autumn Leaves in London 2026"
-description: "Seven of fifteen independent sources name Richmond Park, Kew's own hours cut by two hours the day the clocks go back, and Kew's head of tree collections says he's 'really worried about this autumn'."
+description: "Seven of fifteen independent sources name Richmond Park, Kew's own hours cut by two hours the day the clocks go back, and Kew's head of tree collections is worried about autumn 2026."
 heroImage: "../../assets/articles/best-places-autumn-leaves-london/richmond-park-autumn-reflection.jpg"
 heroImageAlt: "A Japanese maple in scarlet and orange reflected in a still pond in Richmond Park"
 publishedAt: 2026-09-16
@@ -14,7 +14,7 @@ tags: [autumn, parks, gardens, things to do, outdoors, free things to do]
 draft: false
 faq:
   - q: "When is the best time to see autumn leaves in London?"
-    a: "Most years, colour builds through October and peaks in the last week of October and the first two weeks of November — Kew Gardens names October as the month its whole garden is at its most colourful. 2026 is unusual: the Guardian reported on 1 September that many trees are dropping their leaves early after May's record 35C heatwave, and Kew's head of tree collections, Kevin Martin, said he is 'really worried about this autumn'."
+    a: "Most years, colour builds through October and peaks in the last week of October and the first two weeks of November — Kew Gardens names October as the month its whole garden is at its most colourful. 2026 is unusual: the Guardian reported on 1 September that many trees are dropping their leaves early after May's record 35C heatwave, and Kew's head of tree collections, Kevin Martin, said he was 'really worried' about autumn 2026."
   - q: "Where can I see autumn leaves in London for free?"
     a: "Nearly everywhere on this page. Richmond Park, Bushy Park, Hyde Park, Regent's Park, St James's Park, Greenwich Park, Green Park, Hampstead Heath, Kensington Gardens, Victoria Park, Holland Park, Epping Forest and every cemetery here are free, open dawn to dusk or later, and need no ticket. Kew Gardens is the one paid entry."
   - q: "Is Kew Gardens worth paying for in autumn?"
@@ -71,7 +71,7 @@ This is also rutting season. See "Richmond and Bushy: the deer rut," below, befo
 
 Kew's own Arboretum holds 11,000 trees — 2,700 of them oaks — and autumn is when the entry fee earns itself back. The Independent picks out specifics few visitors find alone: the red oak (*Quercus robur*) puts on "a flashy show of crimson along the Riverside Walk," and russet-leaved pin oaks (*Quercus palustris*) grow near the Treetop Walkway. The Evening Standard adds Kew's deciduous conifers — golden larch and fiery orange swamp cypress by the lake — which few free London parks grow at all.
 
-The Guardian reported on 1 September 2026 that Kevin Martin, Kew's head of tree collections, is "really worried about this autumn": after May's 35C heatwave, "the whole growing season this year has been under stress", and he expects heat and drought to kill trees at Kew and across the south-east. **Peak pricing runs 2 September to 31 October 2026** — £25 online, £28 at the gate — **then drops to £17 online from 1 November.** Every Tuesday from 8 September to 29 December 2026, entry is £10. Hours shorten the same week the clocks go back: 10am–6pm, last entry 5pm, through 24 October, then **10am–4pm, last entry 3pm, from the 25th.**
+The Guardian reported on 1 September 2026 that Kevin Martin, Kew's head of tree collections, is "really worried" about autumn 2026: after May's 35C heatwave, the whole 2026 growing season has been under stress, and he expects heat and drought to kill trees at Kew and across the south-east. **Peak pricing runs 2 September to 31 October 2026** — £25 online, £28 at the gate — **then drops to £17 online from 1 November.** Every Tuesday from 8 September to 29 December 2026, entry is £10. Hours shorten the same week the clocks go back: 10am–6pm, last entry 5pm, through 24 October, then **10am–4pm, last entry 3pm, from the 25th.**
 
 ### St James's Park — the view from the Blue Bridge
 
@@ -262,15 +262,15 @@ The sources here agree on a shape most years: the earliest trees turn from Septe
 | --- | --- |
 | **September** | The most drought-stressed trees drop leaves early without full colour — a "false autumn," per Kew. Other trees are making the most of the still-warm weather to recover, which could mean good colour later if the weeks ahead stay cool and dry. |
 | **Late September–early November** | The deer rut runs in Richmond and Bushy Parks. |
-| **October** | Peak month across most of London in a typical year, per Kew's own month-by-month guide — but 2026's Kew was reporting no clear peak date at the start of the month, because different trees are on very different timetables this year. |
+| **October** | Peak month across most of London in a typical year, per Kew's own month-by-month guide — but 2026's Kew was reporting no clear peak date at the start of October, because different trees are on very different timetables in 2026. |
 | **Sunday 25 October** | Clocks go back at 2am. Parks don't close earlier by rule, but daylight does — and Kew's own hours cut by two hours overnight, from a 6pm close to 4pm. |
-| **November** | Kew names ginkgo, swamp cypress and American smoke-tree as its latest colourers most years, "at their strongest" this month. |
+| **November** | Kew names ginkgo, swamp cypress and American smoke-tree as its latest colourers most years, "at their strongest" in November. |
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-places-autumn-leaves-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Practical tips
 
-- **Check a park's own social media before a special trip in 2026.** With trees on very different timetables this year, a plan built around "late October" could be a week too late for some species and too early for others.
+- **Check a park's own social media before a special trip in 2026.** With trees on very different timetables in 2026, a plan built around "late October" could be a week too late for some species and too early for others.
 - **Weekday mornings are quietest everywhere on this list.** St James's Park's Blue Bridge, the Isabella Plantation and Kynance Mews all draw a weekend photography crowd; the same spot at 8am is usually empty.
 - **The clocks go back at 2am on Sunday 25 October 2026.** Plan an afternoon visit for before 3–4pm from that date; Kew's own hours cut to a 4pm close, 3pm last entry, the same day.
 - **Richmond and Bushy Parks have free-roaming deer in rut from late September to early November.** Keep 50 metres back — see "Richmond and Bushy," above.

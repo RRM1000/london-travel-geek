@@ -269,7 +269,7 @@ Some of it. The National Rail scheme lists Oxford attractions, but **no college 
 - **15% off:** the four official Oxford tours — University and City, the Ghost Tour, the C.S. Lewis and J.R.R. Tolkien tour and the On Screen tour.
 - **Listed but free anyway:** the Ashmolean and the History of Science Museum.
 
-The rules are the part people get wrong — it needs a National Rail ticket and two people, and the voucher process changed this year. [How National Rail 2FOR1 actually works](/articles/national-rail-2for1-london-attractions/) has the current version.
+The rules are the part people get wrong — it needs a National Rail ticket and two people, and the voucher process changed in March 2026. [How National Rail 2FOR1 actually works](/articles/national-rail-2for1-london-attractions/) has the current version.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-day-trip-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -293,7 +293,7 @@ A working shape:
 
 **Last departures back**, on a weekday: Oxford to Paddington at **23:06**, arriving 00:12, with a **00:10** service arriving 01:16. Oxford to Marylebone, last direct at **22:44**, arriving 00:16. **The Oxford Tube has no last coach** — which is the real argument for it if you want dinner in Oxford.
 
-> ⚠️ **Check the closures before you book a college.** Christ Church, Magdalen, New College and Merton all publish dated closure lists, and all four shut entirely on some days this autumn — Christ Church on 4 October, New College on 25 and 26 September and 12 December, Magdalen on 25 September and 4 October, Merton on 26 September and 7 November. Term-time and exam-period restrictions bite too: Balliol caps groups at eight, and New College closes on Mondays all winter.
+> ⚠️ **Check the closures before you book a college.** Christ Church, Magdalen, New College and Merton all publish dated closure lists, and all four shut entirely on some days in autumn 2026 — Christ Church on 4 October, New College on 25 and 26 September and 12 December, Magdalen on 25 September and 4 October, Merton on 26 September and 7 November. Term-time and exam-period restrictions bite too: Balliol caps groups at eight, and New College closes on Mondays all winter.
 
 *Prices and hours checked 12 September 2026 against each operator's and venue's own site.*
 

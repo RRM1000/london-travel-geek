@@ -301,7 +301,7 @@ Rebuilt in 1741 and licensed in 1754. The Guinea Grill behind it opened in **195
 
 One of the best-surviving **Victorian gin palaces** in London — etched and gilded glass, three pre-Raphaelite-style painted panels, and a rare surviving cashier's booth. Built 1874–75 and remodelled by Arthur Dixon around 1900.
 
-> ⚠️ **Currently closed, reopening 3 September 2026.** Closed Sundays thereafter.
+> ⚠️ **Closed Sundays.**
 
 The cellars are widely sold as Newgate Prison cells. Newgate did stand across the road, but the evidence points to these being storage cellars — and the pub's own site makes no such claim.
 

@@ -145,7 +145,7 @@ Broadgate is the largest pedestrianised estate in central London, and it has two
 
 The one big development that actively tells you to bring your own. Its own guide points people at **Power Station Park**, the **riverside walk** and the benches in **Malaysia Square**, which it describes as a real sun trap, and there are free deck chairs to use in the park.
 
-**The Coaling Jetty** is the piece worth walking out onto: 110 metres of Grade II\* listed jetty built between 1929 and 1932 to unload coal into the power station, decommissioned in 1983 and now open to the public with wildflower planters, seating and festoon lighting strung above the Thames.
+**The Coaling Jetty** is the piece worth walking out onto: 110 metres of Grade II\* listed jetty built between 1929 and 1932 to unload coal into the power station, decommissioned in 1983 and open to the public with wildflower planters, seating and festoon lighting strung above the Thames.
 
 For a table rather than a bench, the riverside strip has **Fiume** on its Riverside Terrace, **Brindisa Tapas**, **Wright Brothers** for seafood and a **Searcys** champagne bar. **Circus West Village**, the first phase to open, runs from the river along to **Arches Lane**, where the cheaper and better eating is: **Roti King**, **Tonkotsu**, **Cinnamon Kitchen**, **Gordon Ramsay Street Pizza** and **Battersea Brewery** under the railway. **TOZI Pizzeria** is on Electric Boulevard.
 

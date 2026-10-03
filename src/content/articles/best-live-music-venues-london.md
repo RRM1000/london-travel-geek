@@ -63,7 +63,7 @@ This guide covers the rooms rather than the listings, arranged by size, because 
 
 It is worth knowing what happened here. The venue lost its licence after a fatal crush at a show in December 2022 in which two people died. Lambeth ruled in September 2023 that it could reopen, but only once **77 new safety conditions** were met — reinforced doors, a rebuilt crowd management system, new ticketing, a centralised control room and new security management. The council's own decision described it as set to become **among the most highly regulated licensed venues in the country**.
 
-It ran test events at half capacity in April 2024 and has been trading normally since, and is currently booking well into 2027.
+It ran test events at half capacity in April 2024 and has been trading normally since, and is booking well into 2027.
 
 <div data-venue-listings="O2 Academy Brixton" data-compact></div>
 
@@ -363,7 +363,7 @@ The venue is genuinely just a room: low ceiling, no raised stage to speak of, an
 
 It is a low, dark room under Notting Hill Gate with a reputation built on booking people before anyone else did: Adele, Franz Ferdinand and the Libertines all played here early. The programme still mixes new bands with long-running club nights, and it leans harder into DJ nights later in the week.
 
-**Early doors and cheap** — a lot of shows start at 7pm and finish by 11pm, which makes it one of the few central venues you can do on a weeknight without writing off the next morning.
+**Early doors and cheap** — a lot of shows start at 7pm and finish by 11pm, which makes it one of the few central venues you can do on a weeknight without writing off the following morning.
 
 ### Below Stone Nest, Soho
 

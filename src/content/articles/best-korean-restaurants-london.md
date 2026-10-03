@@ -30,7 +30,7 @@ faq:
 
 The best Korean food in London is not really in London. **New Malden has one of the largest Korean communities in Europe** — around 10,000 people in the town itself and up to 20,000 across the surrounding area — and three of its streets have the grills, supermarkets and bakeries to match. It is about thirty minutes from Waterloo.
 
-Central London has caught up in the last few years, and one Hackney kitchen was recently named the best restaurant in the entire city.
+Central London has caught up in the last few years, and one Hackney kitchen was named Time Out's best restaurant in London.
 
 > 💡 **The Short Version:** **Jin Go Gae** in New Malden uses real charcoal, which is why purists go. **Imone** is the home cooking everyone sends you to. **You Me** has been there since 1988. **Chick and Beers** does the fried chicken. **Seoul Bakery** in Bloomsbury is the cheap central one, and **Mukbap** is London's first fully vegan Korean kitchen.
 

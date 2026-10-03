@@ -177,7 +177,7 @@ Checked 12 September 2026.
 
 **The penalties are the real risk.** A missed Congestion Charge or ULEZ payment is a **£180 Penalty Charge Notice, halved to £90 if paid within 14 days**, rising to a **£270** charge certificate after 28 days. The notice goes to the registered keeper — the hire company — which passes it to you with its admin fee on top, often weeks later, charged to the card on file.
 
-**And then there is parking.** Westminster has removed every pay-and-display machine from its streets and charges by emissions, looked up from your registration at the moment you pay:
+**And then there is parking.** Westminster has removed every pay-and-display machine from its streets and charges by emissions, looked up from your registration when you pay:
 
 | Westminster zone | Per hour, typical petrol car |
 | --- | --- |

@@ -22,7 +22,7 @@ faq:
   - q: "Can people from outside the UK enter the Wimbledon ballot?"
     a: "Yes. There is no separate overseas ballot any more. The application period is the same for all guests including those from overseas, and you enter online through a myWimbledon account from anywhere in the world. The only real constraint is that it is one application per household and per email address, and you must apply from your permanent home address."
   - q: "What is the LTA Wimbledon ballot and can I enter it as well?"
-    a: "Yes, if you join the LTA first — and anyone aged 18 or over can. It is a separate ballot run by the LTA that requires an LTA Advantage membership, but you do not need to play tennis or belong to a club: Fan+ costs £25 a year and is open to any adult who signs up online. Play+ carries the same entry free if you are a member of an LTA-registered venue, and Compete is £35. You must opt in during the window, and for 2027 that window has already closed — it shut at 23:59 on Monday 31 August 2026, so joining today is a plan for 2028. The two ballots are drawn separately, so entering both doubles your routes in. LTA winners choose their own day and court, subject to availability, where the AELTC ballot allocates one specific day on one specific court at random and does not allow an exchange. Neither organisation publishes its odds, and if both draws miss you do not get the £25 back."
+    a: "Yes, if you join the LTA first — and anyone aged 18 or over can. It is a separate ballot run by the LTA that requires an LTA Advantage membership, but you do not need to play tennis or belong to a club: Fan+ costs £25 a year and is open to any adult who signs up online. Play+ carries the same entry free if you are a member of an LTA-registered venue, and Compete is £35. You must opt in during the window, and for 2027 that window has already closed — it shut at 23:59 on Monday 31 August 2026, so joining is a plan for 2028. The two ballots are drawn separately, so entering both doubles your routes in. LTA winners choose their own day and court, subject to availability, where the AELTC ballot allocates one specific day on one specific court at random and does not allow an exchange. Neither organisation publishes its odds, and if both draws miss you do not get the £25 back."
   - q: "How long do you have to wait in the Wimbledon queue?"
     a: "Plan for most of the morning. Arriving at around 6.30am on a first-week day, it took us roughly six hours to get from joining the Queue to being inside the Grounds — so a little after midday. The gates open at 10am, but entry runs strictly in queue card number order and the Grounds fill at a controlled rate, so 'gates open' is not the same as 'you get in'. The second week is quicker."
   - q: "What time does the first Tube get to Southfields for the Wimbledon queue?"
@@ -195,7 +195,7 @@ The only condition is that you have to be an LTA member.
 
 > 💡 **What almost everyone reading this needs: LTA Advantage Fan+, £25 a year.** Any adult aged 18 or over can sign up online in a few minutes. You do not have to play tennis, belong to a club, or have any connection to the sport. Join, then opt in to the Wimbledon ballot in your Advantage account — the opt-in is a separate step, and joining alone does not enter you.
 
-> ⚠️ **The 2027 opt-in has closed.** It shut at 23:59 on Monday 31 August 2026, so LTA membership no longer gets you into next year's ballot. Joining now puts you in position for the **2028** opt-in, which on this year's timing opens in late July 2027, and Fan+ still gets you into the March sale of returned tickets below.
+> ⚠️ **The 2027 opt-in has closed.** It shut at 23:59 on Monday 31 August 2026, so LTA membership no longer gets you into the 2027 ballot. Joining puts you in position for the **2028** opt-in, which on 2026's timing opens in late July 2027, and Fan+ still gets you into the March sale of returned tickets below.
 
 **Two exceptions.** If you already belong to a tennis club, check whether it is LTA-registered: the **Play+** tier is **free** and carries the same ballot entry. And if you play in competitions, **Compete** at £35 includes it too. Otherwise, Fan+ is the one. Note that plain **Fan** and plain **Play** are free but include **no ballot entry** — it is the *plus* tiers that count.
 
@@ -589,7 +589,7 @@ Debentures are the only Wimbledon tickets that can legally be sold on. Each one 
 | **Issue price** | **£116,000** | **£73,000** |
 | **Recent trades (2026)** | **£280,500–£296,000** | **£70,500–£73,000** |
 
-Centre Court debentures trade at roughly **2.4 times** their issue price; No.1 Court debentures are currently changing hands at around what they were issued for. The debenture itself is traded through a stockbroker or privately — **Dowgate Capital** runs a weekly auction — and the AELTC publishes live trading prices on its own site.
+Centre Court debentures trade at roughly **2.4 times** their issue price; No.1 Court debentures are changing hands at around what they were issued for. The debenture itself is traded through a stockbroker or privately — **Dowgate Capital** runs a weekly auction — and the AELTC publishes live trading prices on its own site.
 
 ### Buying a debenture ticket for a single day
 
@@ -640,7 +640,7 @@ Do not assume your own national tennis federation has an allocation. The AELTC n
 - **Buying a ballot ticket from a successful applicant.** Ballot tickets are not transferable and are explicitly unsuitable as gifts. The named purchaser is expected at the gate with photo ID. LTA ballot tickets carry a harsher penalty still: resell one and the LTA's stated position is that your tickets are cancelled and you are banned from attending The Championships.
 - **Posting a photo of your ticket.** The AELTC asks people not to share ticket images on social media, because the details are used to defraud others and can leave you with problems at the gate.
 
-> ⚠️ **Be as sceptical of the guides as of the sellers.** Several sites currently publish precise-sounding Wimbledon ballot statistics — applicant numbers, success rates, "record demand" percentages — for ballots that are still being drawn. The AELTC has never published applicant numbers or odds. If you see a figure, it was invented.
+> ⚠️ **Be as sceptical of the guides as of the sellers.** Several sites publish precise-sounding Wimbledon ballot statistics — applicant numbers, success rates, "record demand" percentages — for ballots that are still being drawn. The AELTC has never published applicant numbers or odds. If you see a figure, it was invented.
 
 ---
 

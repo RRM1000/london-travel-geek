@@ -167,7 +167,7 @@ Built around **a 24-foot crystal-encrusted Damien Hirst Pegasus**, in Art Deco m
 
 *£££ · Bloomsbury · 2 min from Tottenham Court Road · Cited by 4 sources · book a few days ahead*
 
-A covered terrace at The Bloomsbury Hotel whose floral installation is **changed with the season** — wisteria in spring, something else entirely in November. That is the one thing to check before travelling for a specific photograph, because the room you saw online may not be the room that is there this month.
+A covered terrace at The Bloomsbury Hotel whose floral installation is **changed with the season** — wisteria in spring, something else entirely in November. That is the one thing to check before travelling for a specific photograph, because the room you saw online may not be the room that is there on the day.
 
 ![Dalloway Terrace dressed in dried autumn foliage in copper, cream and gold across the walls and ceiling, with marble tables and rattan chairs](../../assets/articles/most-instagrammable-restaurants-london/dalloway-terrace-autumn.jpg)
 ![The same terrace in summer, green climbing plants and blue flowers on the walls over the same marble tables and rattan chairs](../../assets/articles/most-instagrammable-restaurants-london/dalloway-terrace-summer.jpg)

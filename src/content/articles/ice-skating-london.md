@@ -183,7 +183,7 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 
 *The rink fills a Victorian hall inside the palace.*
 
-**A permanent indoor rink** at Ally Pally, open all year, that turns into **Festive Skate** at Christmas: a tree, lights, Christmas music and falling snow, with mince pies, mulled wine and Baileys hot chocolate in the East Court Café. **2026 dates are not yet announced; last season's ran to 5 January 2026.** Festive Skate sessions last 90 minutes.
+**A permanent indoor rink** at Ally Pally, open all year, that turns into **Festive Skate** at Christmas: a tree, lights, Christmas music and falling snow, with mince pies, mulled wine and Baileys hot chocolate in the East Court Café. **2026 dates are not yet announced; the 2025 season ran to 5 January 2026.** Festive Skate sessions last 90 minutes.
 
 **Price:** standard **£11.75 off-peak, £12.75 peak**; under-12s £10.50–£11.50; under-5s £7.75–£8.75; over-65s £10.50–£11.50. Skate hire is included, in sizes from a baby 6 to an adult 13. Seal, penguin and snowman skate aids are **£7.50**, sold at the rink and not online. Adults who are not skating but are supervising under-16s need a spectator ticket, from £2.50.
 
@@ -197,14 +197,14 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 
 ## Leicester Square
 
-**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, ran last winter from **1 November 2025 to 4 January 2026**, from 10am to 10pm next to the [Christmas market](/articles/christmas-markets-london/) stalls. **Its 2026 dates are not yet announced.** Leicester Square station is a minute's walk. If it returns, it is the most central rink in London and the easiest to add to an evening in the West End; its [site](https://www.skateleicestersquare.co.uk/) will carry the dates.
+**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, ran in winter 2025 from **1 November 2025 to 4 January 2026**, from 10am to 10pm next to the [Christmas market](/articles/christmas-markets-london/) stalls. **Its 2026 dates are not yet announced.** Leicester Square station is a minute's walk. If it returns, it is the most central rink in London and the easiest to add to an evening in the West End; its [site](https://www.skateleicestersquare.co.uk/) will carry the dates.
 
 ---
 
 ## The rinks that are not running
 
 - **Natural History Museum.** The museum's rink has **closed for good** after 16 years. The gardens it stood on have been turned into wildlife gardens, which are free to walk round. Somerset House is a straight run from South Kensington to Temple on the District or Circle line.
-- **Canary Wharf.** Ice Rink Canary Wharf is **taking a break for the 2026 season** and will not operate this winter. Canary Wharf's Winter Lights, in January, go ahead; see the [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
+- **Canary Wharf.** Ice Rink Canary Wharf is **taking a break for the 2026 season** and will not operate in winter 2026. Canary Wharf's Winter Lights, in January, go ahead; see the [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
 - **Tower of London.** The moat rink ran in the mid-2010s, and **no rink is announced for 2026**.
 
 ## Skating out of season

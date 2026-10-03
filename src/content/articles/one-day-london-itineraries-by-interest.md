@@ -78,7 +78,7 @@ Lunch ten minutes off the square rather than on it. See [cheap eats](/articles/c
 
 *Under 2 miles all day. The most concentrated of these plans.*
 
-**Morning.** **Covent Garden** — the Piazza, the street performers who audition for their pitch, and the theatre architecture in the surrounding streets. The **Royal Opera House** public areas and its terrace are worth going into. Our [Covent Garden walking route](/articles/covent-garden-walk/) does this morning as eleven numbered stops if you want it mapped.
+**Morning.** **Covent Garden** — the Piazza, the street performers who audition for their pitch, and the theatre architecture in the surrounding streets. The **Royal Opera House** public areas and its terrace are worth going into. Our [Covent Garden walking route](/articles/covent-garden-walk/) covers this area as eleven numbered stops if you want it mapped.
 
 **Afternoon.** Three ways to go:
 

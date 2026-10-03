@@ -128,7 +128,7 @@ Prices are from [Arsenal's own membership guidance](https://help.arsenal.com/sup
 
 **If you lose the ballot**, the [Ticket Exchange](https://www.arsenal.com/ticket-exchange-aKOq49R5lTrR) opens to you, unsuccessful Silver members first. It handled more than **156,000 purchases** in 2025/26, roughly 5,200 a game, and closes three hours before kick-off. Red and Silver members cannot transfer a ticket to anyone else.
 
-**New this season:** licensed standing in the Clock End lower tier, extending to the North Bank lower tier from 2027/28, when around 13,500 supporters will be in standing areas.
+**New for 2026/27:** licensed standing in the Clock End lower tier, extending to the North Bank lower tier from 2027/28, when around 13,500 supporters will be in standing areas.
 
 ---
 
@@ -241,7 +241,7 @@ Fulham's [2026/27 membership](https://www.fulhamfc.com/tickets-and-hospitality/m
 
 ![Teams lined up on the pitch at Gtech Community Stadium ahead of a Premier League match](../../assets/articles/premier-league-tickets-london/brentford-community-stadium.jpg)
 
-**My Bees memberships for 2026/27**, prices frozen on last season: **Adult £45.45**, 18–24 **£30.30**, Bee Team (3–10) **£20.20**, Swarm (11–17) **£20.20**, Babees (2 and under) £10.10, and **[Bees Overseas £30.30](https://www.brentfordfc.com/en/memberships-2026-27)**.
+**My Bees memberships for 2026/27**, prices frozen at 2025/26 levels: **Adult £45.45**, 18–24 **£30.30**, Bee Team (3–10) **£20.20**, Swarm (11–17) **£20.20**, Babees (2 and under) £10.10, and **[Bees Overseas £30.30](https://www.brentfordfc.com/en/memberships-2026-27)**.
 
 **The Bees Overseas ballot** gets **100 tickets** for every home Premier League fixture.
 

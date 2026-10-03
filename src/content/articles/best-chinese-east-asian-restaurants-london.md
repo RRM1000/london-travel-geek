@@ -388,7 +388,7 @@ Everything else the Chinese sources carry by two or more independent publication
 | **Dream Xi'an** | Aldgate | ££ | 2 | Shaanxi again, on the eastern edge of the City |
 | **Shan Shui Social** | Victoria | £££ | 2 | Cantonese in Nova, near A. Wong and a third of the price |
 | **Canton Blue** | Belgravia | ££££ | 2 | The Peninsula hotel's Cantonese room, priced accordingly |
-| **Kai Mayfair** | Mayfair | ££££ | 2 | Held a star until recently; still on two guides' lists |
+| **Kai Mayfair** | Mayfair | ££££ | 2 | Formerly held a star; still on two guides' lists |
 | **Yi-Ban** | Royal Docks | ££ | 2 | Dim sum by the water at the ExCeL end of the DLR |
 | **Pochawa Grill** | Chinatown | £££ | 2 | Korean barbecue on the Chinatown grid |
 

@@ -483,7 +483,7 @@ A bar on the top deck of a **multi-storey car park** on Rye Lane, run as part of
 
 **No bookings at all** — the venue states outright that it does not take table reservations, and entry is first come, first served. Card only, no cash anywhere on site.
 
-> ⚠️ **Closed until next summer.** The 2026 season ran **15 May to 12 September**, Wednesday to Sunday, 11am to 11pm, and it shuts for the rest of the year.
+> ⚠️ **Closed until summer 2027.** The 2026 season ran **15 May to 12 September**, Wednesday to Sunday, 11am to 11pm, and it shuts for the rest of the year.
 
 Lift access must be arranged with security at the main entrance and you have to be accompanied. Once up, Levels 7 to 10 are step-free — but **Peckham Rye station itself is not**, which is the harder problem. The address is Floors 7–10, Peckham Multi-Storey Car Park, 95a Rye Lane SE15 4ST, about 150 metres from the station.
 
@@ -574,7 +574,7 @@ The other two sites are **133A Rye Lane, Peckham SE15 4BQ** and **Manette Street
 * **You can usually avoid paying.** Greenwich's famous view is outside the paid Observatory. St Paul's is free to look at from One New Change. Aqua Shard is cheaper than a Shard ticket. The best Tower Bridge view is the free pavement.
 * **Seasons close things you would not expect.** Frank's Cafe runs 15 May to 12 September and then shuts for the year. Bōkan withdraws terrace service entirely for the winter. The Chimney Lift is back open after a maintenance closure that ran to 7 September 2026.
 * **The best light** is the hour before sunset — and most free City viewpoints close before it in winter. The Lookout on a Monday or Friday, or Tate Modern on a Friday or Saturday, are the exceptions.
-* **Prices move more than guides admit.** St Paul's ran a £24 summer rate to 1 September and is now £27. Alexandra Palace's Summit showed a discounted £24.50 the day after that discount expired. Book from the venue's own live checkout, not from a figure in an article.
+* **Prices move more than guides admit.** St Paul's ran a £24 summer rate to 1 September and charges £27 after that. Alexandra Palace's Summit showed a discounted £24.50 the day after that discount expired. Book from the venue's own live checkout, not from a figure in an article.
 
 ---
 

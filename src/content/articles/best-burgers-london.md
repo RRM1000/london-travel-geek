@@ -112,7 +112,7 @@ What the rest of the estate does well is the **local special** — a different b
 
 The National Burger Awards is a live cook-off: sixteen finalists cook their signature burger for judges on one day in March, then cook two more rounds against a set of ingredients. It rewards a kitchen that can execute under pressure — which is why a national chain with a butchery behind it, **Honest Burgers**, beat the independents.
 
-The critics are measuring something else: what it is like to eat there on a Tuesday. That produces a different top of the list — **The Plimsoll**, **Bleecker**, **Black Bear Burger**, **Supernova** — none of which won anything this year, and one of which does not enter.
+The critics are measuring something else: what it is like to eat there on a Tuesday. That produces a different top of the list — **The Plimsoll**, **Bleecker**, **Black Bear Burger**, **Supernova** — none of which won anything in 2026, and one of which does not enter.
 
 And the listings sites measure a third thing again: how easy it is to get to. That is why **MEATliquor**, **Burger & Lobster** and **Byron** turn up on Visit London and DesignMyNight and nowhere else in the sources.
 
@@ -294,7 +294,7 @@ Order the **dirty tots** — tater tots under bone marrow gravy — rather than 
 
 *Black Bear's dry-aged patty.*
 
-**Last year's national champion**, and it has stayed on every list since — five sources still name it.
+**The 2025 national champion**, and it has stayed on every list since — five sources still name it.
 
 The **Miso Bacon Burger** is the one that won: dry-aged beef under **miso butter mayo and smoked bacon**, the miso doing a savoury job that cheese alone does not. The **double black and blue** is the other order — dry-aged beef, cheese, smoked bacon, blue cheese sauce and onions. Add the wings; several sources insist on it.
 
@@ -323,7 +323,7 @@ Short entries. Full detail on any of these is above where it exists.
 * **Mother Flipper, Brockley** — *£ · Cited by 2 sources.* Started as a van, now a permanent Brockley site. The **Candy Bacon Flipper** is bacon fried in maple syrup with ketchup, mustard, lettuce, red onion, pickle and American cheese. **The van still trades at Brockley Market every Saturday, 10am to 2pm.**
 * **Beer + Burger Store, King's Cross and east London** — *£ · Cited by 3 sources.* Craft ale alongside a double patty cheeseburger, a monthly special, kids' meals and a genuine vegan burger on two pea protein patties. Order the dipping gravy.
 * **Baba G's, Brixton** — *£ · Cited by 2 sources.* Indian-spiced burgers out of Brixton, on both Eater's and Hot Dinners' lists.
-* **Lucky Chip, Islington** — *£ · Cited by 2 sources.* A long-running residency operation, currently at the Old Queen's Head.
+* **Lucky Chip, Islington** — *£ · Cited by 2 sources.* A long-running residency operation, at the Old Queen's Head.
 * **Lagom, Dalston** — *££ · Cited by 4 sources.* A kitchen inside The Three Compasses doing a **smashburger with dill pickle slaw**, plus fried chicken and lamb. Pub setting, walk-in, and one of the four most-cited names here.
 * **Buk, Camden** — *£ · Cited by 1 source.* Thin patty, double American cheese, chilli house sauce and caramelised onion. **Halal.**
 * **Burnt Smokehouse, Leyton** — *£ · Cited by 1 source.* Double patty smashburger with caramelised onions and dill pickles, communal seating by the station. **Halal.**

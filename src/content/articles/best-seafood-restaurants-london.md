@@ -314,7 +314,7 @@ The sourcing is the argument: **hand-dived scallops, Hebridean langoustines, oys
 
 The 18th-century warehouse off Bishopsgate, once owned by the East India Company, with a serious City wine list and a weekend seafood brunch.
 
-**It is currently closed**, with customers sent to Liverpool Street Chop House in the meantime. A reopening was advertised for early 2026 and has not happened. Worth a check before writing it off for good — but do not plan a meal around it.
+**It is closed**, with customers sent to Liverpool Street Chop House in the meantime. A reopening was advertised for early 2026 and has not happened. Worth a check before writing it off for good — but do not plan a meal around it.
 
 ---
 

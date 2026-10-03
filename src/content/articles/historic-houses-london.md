@@ -151,7 +151,7 @@ Queen Victoria's birthplace and childhood home, and the palace where **the rooms
 
 **The part almost nobody realises is free:** the Palace Gardens, and **the Sunken Garden with the statue of Diana, Princess of Wales**. No ticket, no booking — though the Sunken Garden is viewed from the Cradle Walk rather than entered.
 
-**A third of the palace is currently shut.** The **Queen's State Apartments are closed until spring 2027** for re-presentation, which is worth knowing before you pay.
+**A third of the palace is shut.** The **Queen's State Apartments are closed until spring 2027** for re-presentation, which is worth knowing before you pay.
 
 **Open daily 10am–6pm, last entry 5pm** — no closed day, unusually. **£1 tickets** are available to anyone on Universal Credit and several other benefits, up to four per household. Free 15-minute talks and a free audio guide come with admission, and there are **free BSL tours Wednesday to Sunday**, booked ahead.
 
@@ -297,7 +297,7 @@ Inside: the **Thomas Arne memorial carved with the opening bars of "Rule Britann
 
 *Free exhibition · tours £30 · closed Mon*
 
-Christopher Wren's hospital of 1692, **still home to the Chelsea Pensioners** in their scarlet coats, and it has recently become far more visitable than it was.
+Christopher Wren's hospital of 1692, **still home to the Chelsea Pensioners** in their scarlet coats.
 
 **The free part is new and most guides have not caught up.** The **Soane Stable Yard** reopened after a three-year restoration, and the **Interactive Exhibition inside it is free, no ticket, Tuesday to Sunday 9am–5pm** — the history of the hospital and the lives of the Pensioners. The yard itself is Grade II\* and was built by **Sir John Soane** between 1814 and 1817, reusing material from Wren's buildings. There is a café in the horse stalls, a shop and a post office.
 

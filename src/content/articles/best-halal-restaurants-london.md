@@ -22,7 +22,7 @@ faq:
   - q: "Where can I eat halal food in London without alcohol being served?"
     a: "The Great Chase in Islington Square is built around this — it describes itself as halal fine dining with an alcohol-free bar, and the drinks list runs to rare teas and botanical dry cocktails rather than wine. It is open Tuesday to Sunday and closed Mondays, and does a Sunday roast."
   - q: "Is halal food in London only South Asian and Middle Eastern?"
-    a: "No, and the newer openings are the interesting part. Ramo Ramen in Soho calls itself the world's first Filipino ramen restaurant and states that all meat it serves is halal certified. Cue Point in Walworth is Afghan-led barbecue. Rasa Sayang in Chinatown does Malaysian and Singaporean hawker food with halal offerings. East and Southeast Asian halal cooking is the part of this scene the mainstream food press has only recently started covering."
+    a: "No, and the newer openings are the interesting part. Ramo Ramen in Soho calls itself the world's first Filipino ramen restaurant and states that all meat it serves is halal certified. Cue Point in Walworth is Afghan-led barbecue. Rasa Sayang in Chinatown does Malaysian and Singaporean hawker food with halal offerings. East and Southeast Asian halal cooking is the part of this scene the mainstream food press has only started to cover."
 ---
 
 Eight published guides to halal food in London name 132 restaurants between them. Only thirteen of those are named by more than one, and the three most-cited are Gymkhana, Pizza Pilgrims and Dishoom — some distance ahead of a scattering of places with two mentions each.

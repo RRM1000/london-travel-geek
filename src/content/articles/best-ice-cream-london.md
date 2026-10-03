@@ -13,7 +13,7 @@ tags: [ice cream, gelato, dessert, cheap eats, dining]
 draft: false
 faq:
   - q: "What is the best ice cream in London?"
-    a: "Gelupo in Soho appears on more London lists than anywhere else and is the safe answer. Romeo & Giulietta in Stoke Newington currently tops Time Out's ranking, and Nardulli in Clapham has the queue that settles the argument for most people. They are three genuinely different things — a Soho institution, a Verona-trained newcomer and a family gelateria."
+    a: "Gelupo in Soho appears on more London lists than anywhere else and is the safe answer. Romeo & Giulietta in Stoke Newington tops Time Out's ranking, and Nardulli in Clapham has the queue that settles the argument for most people. They are three genuinely different things — a Soho institution, a Verona-trained newcomer and a family gelateria."
   - q: "Where is the best vegan ice cream in London?"
     a: "Marcelo's in Crystal Palace, made on a house oat-milk base, and it is not a compromise version — their own line is that this is not 'good for a vegan' ice cream. Udderlicious has the strongest vegan range among the general parlours, and Gelupo marks its vegan sorbets on the menu, which is rarer than it should be."
   - q: "Which London ice cream shop has the longest queue?"

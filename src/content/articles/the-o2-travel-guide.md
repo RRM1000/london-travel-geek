@@ -80,7 +80,7 @@ The parking rules themselves are the easy part: unlike Wembley's Brent-style eve
 
 What The O2's own site does warn about is traffic:
 
-> ⚠️ **Roadworks are affecting the drive in.** The O2's own parking page currently states: "Please note major roadworks in the surrounding area are significantly affecting traffic flow around The O2. Expect long delays at peak times, particularly post event." Build in extra time both ways if you're driving, and especially for the journey home.
+> ⚠️ **Roadworks are affecting the drive in.** The O2's own parking page states: "Please note major roadworks in the surrounding area are significantly affecting traffic flow around The O2. Expect long delays at peak times, particularly post event." Build in extra time both ways if you're driving, and especially for the journey home.
 
 The other constraint is capacity, not restriction: Car Park 1 is a single car park serving a very large room, so booking ahead is the only way to guarantee a space.
 

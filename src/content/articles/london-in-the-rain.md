@@ -79,7 +79,7 @@ King's Cross doesn't offer one continuous covered route so much as a genuinely d
 
 The **British Library's Treasures Gallery** is free, indoor, and holds Magna Carta, the Lindisfarne Gospels and Beatles lyrics scribbled on the backs of envelopes — a solid hour, no ticket needed. **Coal Drops Yard**, the Victorian coal warehouses Thomas Heatherwick joined with a swooping "kissing roof", genuinely shelters the double-height space where the two roof pitches meet and rise together, though the wider cobbled yard itself stays open to the sky. Our [King's Cross area guide](/articles/kings-cross-area-guide/#granary-square-and-coal-drops-yard) has the detail.
 
-For something to actually sit and watch, **Lightroom**, a purpose-built 360-degree projection room, is currently showing *David Bowie: You're Not Alone* until 10 January 2027, with an Aardman anniversary show opening in October — covered in full in our [immersive experiences guide](/articles/immersive-experiences-london/). And moored right at Granary Square, **Word on the Water**, the canal-boat bookshop, has a wood stove and a roof, which on a wet afternoon is exactly what's wanted.
+For something to actually sit and watch, **Lightroom**, a purpose-built 360-degree projection room, shows *David Bowie: You're Not Alone* until 10 January 2027, with an Aardman anniversary show opening in October 2026 — covered in full in our [immersive experiences guide](/articles/immersive-experiences-london/). And moored right at Granary Square, **Word on the Water**, the canal-boat bookshop, has a wood stove and a roof, which on a wet afternoon is exactly what's wanted.
 
 ### The West End: Covent Garden, Soho and the theatre district
 

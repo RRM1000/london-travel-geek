@@ -24,7 +24,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 faq:
   - q: "Is London safe for tourists?"
-    a: "By the numbers the US and Canadian governments use for their own citizens, yes with normal caution: both currently rate the UK at the second of four levels on their travel-advice scales, a notch above routine precautions, and both say that rating is about terrorism, not street crime. The Metropolitan Police's own count shows the offences that hit visitors hardest falling — theft of phones and personal items down 15.6% and robbery down 12.8% in 2026 — though theft from the person is still heavily concentrated in a few well-known tourist areas."
+    a: "By the numbers the US and Canadian governments use for their own citizens, yes with normal caution: both rate the UK at the second of four levels on their travel-advice scales, a notch above routine precautions, and both say that rating is about terrorism, not street crime. The Metropolitan Police's own count shows the offences that hit visitors hardest falling — theft of phones and personal items down 15.6% and robbery down 12.8% in 2026 — though theft from the person is still heavily concentrated in a few well-known tourist areas."
   - q: "What crime should visitors in London actually worry about?"
     a: "Theft, not violence, and mostly phones. Police.uk's street-level data recorded 963 thefts from the person within a mile of Oxford Circus and 871 within a mile of Leicester Square in July 2026 alone, against 139 robberies in the same radius around Leicester Square — theft from a hand or pocket outnumbers robbery by roughly six to one there. Canada's government travel advice makes the same point directly: cellphone theft is common in certain tourist areas of London."
   - q: "Is the London Underground safe at night?"
@@ -34,7 +34,7 @@ faq:
   - q: "What number do I call for the police in London if it's not an emergency?"
     a: "101. That's the Metropolitan Police's own non-emergency number. Dial 999, or the pan-European 112, only for a genuine emergency — a crime in progress, or a threat to life."
   - q: "Does the UK have a high terrorism risk for tourists?"
-    a: "Both the US State Department and the Government of Canada currently place the UK at the second of four levels on their travel-advisory scales — Exercise Increased Caution and Exercise a high degree of caution respectively — and both attribute that rating specifically to the threat of terrorism, not to street crime or scams. The US advisory was last reissued 8 May 2025; Canada's was last updated 9 September 2026."
+    a: "Both the US State Department and the Government of Canada place the UK at the second of four levels on their travel-advisory scales — Exercise Increased Caution and Exercise a high degree of caution respectively — and both attribute that rating specifically to the threat of terrorism, not to street crime or scams. The US advisory was last reissued 8 May 2025; Canada's was last updated 9 September 2026."
   - q: "How do I report something on the Tube or a train?"
     a: "Text British Transport Police on 61016, free and discreet, for anything non-emergency happening on a train, the Tube, the DLR or at a station — it runs around the clock. You can also call BTP on 0800 40 50 40. For a genuine emergency, always call 999."
 ---
@@ -56,7 +56,7 @@ Foreign governments assess the UK on a separate scale of their own, and it's a t
 | US State Department | Level 2 of 4: Exercise Increased Caution | Reissued 8 May 2025 | "Exercise increased caution in the United Kingdom due to terrorism." |
 | Government of Canada | 2nd of 4 levels: exercise a high degree of caution | Updated 9 September 2026 | "Exercise a high degree of caution in the United Kingdom due to the threat of terrorism." |
 
-Both governments use a four-level scale running from routine precautions up to avoiding all travel, and both currently put the UK on the second rung of it, one step above normal precautions. Neither rating is about theft, scams or violent crime; both name terrorism specifically as the reason.
+Both governments use a four-level scale running from routine precautions up to avoiding all travel, and both put the UK on the second rung of it, one step above normal precautions. Neither rating is about theft, scams or violent crime; both name terrorism specifically as the reason.
 
 <div data-stay-strip></div>
 

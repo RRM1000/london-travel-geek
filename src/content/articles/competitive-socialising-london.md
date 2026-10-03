@@ -245,11 +245,11 @@ A Prohibition saloon where you are cast as an outlaw and the barkeeps mix cockta
 
 **Bookings last 1 hour 45 minutes** and admission closes 15 minutes after your start time. Tickets are £38 plus a £3.04 fee for the Rookie, £48 for the Bandit, £54.50 for the Outlaw. **Strictly 18-plus with ID.** There is **no minimum or maximum table size** — a rarity here — and groups over 30 must book through the group bookings page.
 
-### Illusionaries, Canary Wharf — currently dark
+### Illusionaries, Canary Wharf — dark
 
 *Crossrail Place, E14 5AR · nothing on sale*
 
-Included because it is still on every list of things to do in Canary Wharf, and there is currently **nothing to book**.
+Included because it is still on every list of things to do in Canary Wharf, and there is **nothing to book**.
 
 Illusionaries was three galleries of 360-degree projection and sound, built as a single 40-minute story rather than a set of separate rooms, and it was one of the better immersive spaces in London. **Both of its exhibitions, Latent Spaces and Entheon, have ended**, and no new show has been announced.
 
@@ -319,7 +319,7 @@ Neither is a night out and neither pretends to be. Both are a perfectly good nin
 
 This is the section other guides leave out, and it is why people turn up at locked doors.
 
-* **Junkyard Golf Club London** — **closed.** The scrap-and-neon crazy golf course at 91 Brick Lane in the Old Truman Brewery has gone. In the company's own words, **"Junkyard Golf Club London has now closed."** Leeds, Liverpool, Manchester, Newcastle and Oxford continue.
+* **Junkyard Golf Club London** — **closed.** The scrap-and-neon crazy golf course at 91 Brick Lane in the Old Truman Brewery has gone. The company's own site says the London course **has closed.** Leeds, Liverpool, Manchester, Newcastle and Oxford continue.
 * **Swingers City** — **closed on 22 March 2025**, after nine years as the company's first permanent venue, because the landlord is demolishing the whole block. **Swingers West End is now the only UK site**.
 * **Bounce Old Street** — **closed.** The venue's own page says goodbye "after an incredible decade" and points visitors to Battersea. **Bounce Farringdon**, the room at 121 Holborn built on the site where ping pong was trademarked, **closed with a send-off on Saturday 13 June 2026**.
 * **Illusionaries** — dark, with nothing on sale. See above.

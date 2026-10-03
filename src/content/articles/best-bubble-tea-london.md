@@ -26,7 +26,7 @@ faq:
     a: "Most of Chinatown's shops are takeaway counters. Pürcha on Kingsway and Charing Cross Road has proper seating and serves Taiwanese fried chicken. The Whale Tea on Queensway has a few tables and is two minutes from Hyde Park, and The Infatuation suggests taking your cup there."
 ---
 
-**London's bubble tea scene changes faster than the lists that cover it.** Four of Time Out's top ten, ranked in March 2026, aren't serving today. The Alley, named by more sources than any shop except Xing Fu Tang, no longer has a UK store. Everywhere on this page is trading.
+**London's bubble tea scene changes faster than the lists that cover it.** Four of Time Out's top ten, ranked in March 2026, aren't serving. The Alley, named by more sources than any shop except Xing Fu Tang, no longer has a UK store. Everywhere on this page is trading.
 
 This page isn't our opinion. Every shop here is ranked by how many independent lists, blogs and video reviews name it.
 
@@ -211,7 +211,7 @@ The lists that rank highest for this search mostly predate recent closures, and 
 | **Quaker Street Coffee & Bubble Tea** | 2, incl. Time Out #8 | Closed |
 | **Boba Coma**, Leyton | 2, incl. Time Out #7 | Closed |
 
-**Time Out's list was updated six months ago, and four of its top ten aren't serving.** That's no knock on Time Out. Shops close faster than any list can keep up. It does show why checking a list against today's listings matters as much as the list itself.
+**Time Out's list was ranked in March 2026, and four of its top ten aren't serving.** That's no knock on Time Out. Shops close faster than any list can keep up. It does show why checking a list against the shops' own listings matters as much as the list itself.
 
 Three chains are open but not at the address most lists give. **Bubbleology** opened London's first bubble tea shop in 2011. Its Soho bar (the one serving boozy bubble teas) and its Bloomsbury shop have both closed, and its remaining London branch is at **Westfield Stratford City**. Its old Rupert Street site is now [Auntea Jenny](#new-openings). **Yi Fang** moved from Shaftesbury Avenue to [Gray's Inn Road](#yi-fang-fruit-tea). **Ding Tea**'s Angel shop has closed, but its [Hackney branch](#chains-and-their-branches) is open.
 

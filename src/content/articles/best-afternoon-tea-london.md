@@ -177,7 +177,7 @@ Served daily from noon to 6.45pm, with a separate **Twilight Tea from 6pm to 9.3
 
 Taken under the **glass dome of the Céleste dining room** at Hyde Park Corner — Regency plasterwork, Wedgwood blue and white, and the brightest of the grand-hotel rooms by a distance. Daylight rather than chandeliers.
 
-The stand is built by head pastry chef **Jolan Thiry** and currently runs as a **Bridgerton tea**, themed to the series that films in this part of London. Conventional savouries, then pastry work that is genuinely technical rather than novelty.
+The stand is built by head pastry chef **Jolan Thiry** and runs as a **Bridgerton tea**, themed to the series that films in this part of London. Conventional savouries, then pastry work that is genuinely technical rather than novelty.
 
 **£92 a head, £102 with a cocktail, £110 with Laurent-Perrier La Cuvée.** Hyde Park Corner is the tube; the room is quietest at the earliest sitting.
 
@@ -225,7 +225,7 @@ Finger sandwiches, then **scones with Devonshire clotted cream** and an unusuall
 
 *££££ · 4 min from Green Park · Cited by 3 sources*
 
-The **intimate, club-like** option — panelled and low-ceilinged where The Dorchester is a long bright promenade. Brown's opened in 1837 and the tea is taken in **The Drawing Room**, recently rebranded from the English Tea Room, with a fire lit in winter and armchairs rather than dining chairs.
+The **intimate, club-like** option — panelled and low-ceilinged where The Dorchester is a long bright promenade. Brown's opened in 1837 and the tea is taken in **The Drawing Room**, rebranded from the English Tea Room, with a fire lit in winter and armchairs rather than dining chairs.
 
 A traditional stand done straight: finger sandwiches, **warm scones with clotted cream and preserves**, and a patisserie course, with a full leaf list alongside. No theme, no trolley, no spectacle — the appeal is the room and the quiet.
 

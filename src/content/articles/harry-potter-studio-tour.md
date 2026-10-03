@@ -22,7 +22,7 @@ faq:
     a: "Allow three and a half hours from your entry time. There is no time limit once you are inside, and most people spend three to four hours."
   - q: "Is Butterbeer included in the Studio Tour ticket?"
     a: "No. Butterbeer is £7.95 in a souvenir tankard and is sold only at the Butterbeer Bar, about halfway round, next to the Backlot Café."
-  - q: "What is on at the Studio Tour this winter?"
+  - q: "What is on at the Studio Tour in winter 2026?"
     a: "Dark Arts runs to 8 November 2026 and Hogwarts in the Snow from 14 November 2026 to 17 January 2027. Both are included in the ticket price. The tour is closed 9 to 13 November while the sets are redressed, and on 25 and 26 December."
 ---
 
@@ -88,7 +88,7 @@ The family price is not a separate product. Put two adults and two children in t
 
 ## Booking, and the rules that catch people out
 
-- **Tickets are on sale until 31 December 2026** at the time of writing, on a rolling window the operator does not publish a schedule for.
+- **Tickets are on sale until 31 December 2026**, on a rolling window the operator does not publish a schedule for.
 - **Nothing is sold on the day**, by phone or at the desk.
 - **Tickets are non-refundable.** Moving to another date costs **£10 per change**, by phone, before your visit date.
 - **Sold-out days sometimes reopen**, precisely because other people pay that £10 to move.

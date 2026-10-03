@@ -78,7 +78,7 @@ For the wider area — St Paul's, Smithfield, the Roman remains, where to stay �
 
 *Bank junction.*
 
-**Seven streets meet here and no two of them agree on a right angle.** That is the whole City in one junction: a medieval street plan that was never straightened, with neoclassical banking wrapped around it and glass towers behind. The Bank of England is currently under scaffolding, so it won't quite match the photo above.
+**Seven streets meet here and no two of them agree on a right angle.** That is the whole City in one junction: a medieval street plan that was never straightened, with neoclassical banking wrapped around it and glass towers behind.
 
 Stand with your back to Bank station's Royal Exchange exit and you have the **Royal Exchange** portico in front of you, the windowless wall of the **Bank of England** to the left, and **Mansion House**, where the Lord Mayor lives, to the right. The Bank's outer wall has no ground-floor windows anywhere along its length — it was built to be defensible, and it still reads that way.
 
@@ -110,8 +110,6 @@ The lanes are **public and open around the clock** — you can walk through at m
 
 It is also the reason to time this walk around lunch: see the eating section below.
 
-> ⚠️ **Scaffolding is currently up** for essential maintenance. The market is fully open and you can walk it as normal, but the photograph you have seen is not quite the photograph you will get.
-
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-walk-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 4. The tower cluster
@@ -132,7 +130,7 @@ Three free options within five minutes of each other. **You would only do one.**
 
 **Horizon 22** — level 58 of 22 Bishopsgate, and **the highest free viewing platform in London**. Free, but you need a booked ticket. Its own site gives opening as 10am on every day, closing 6pm on weekdays, 5pm Saturday and 4pm Sunday. This is the one to pick if you want height.
 
-**Sky Garden** — the glasshouse on top of 20 Fenchurch Street, the Walkie-Talkie. Also free, also ticketed, and the tickets **go weeks in advance**. There is a way round it: book a table at one of its restaurants or bars and access comes with the booking, even when the free tickets have gone. Worth knowing if you decided on this walk yesterday.
+**Sky Garden** — the glasshouse on top of 20 Fenchurch Street, the Walkie-Talkie. Also free, also ticketed, and the tickets **go weeks in advance**. There is a way round it: book a table at one of its restaurants or bars and access comes with the booking, even when the free tickets have gone. Worth knowing if you decided on this walk at short notice.
 
 **The Garden at 120** — a rooftop garden on the 15th floor of 120 Fenchurch Street, and **the only one of the three with no booking whatsoever**. You walk in and take the lift. It is lower than the other two, which is the trade, and you are looking at the Walkie-Talkie rather than from it. Open daily from 10am — until 9pm in summer, 6.30pm in winter, and **5pm at weekends all year**. It is **closed on bank holidays**.
 
@@ -180,7 +178,7 @@ Open to visitors **Monday to Friday 8am to 5pm, Saturday 10am to 5pm and Sunday 
 
 The one paid ticket on the route, and a **half-day in its own right** rather than a stop on a walk. If you are going inside, our dedicated [Tower of London guide](/articles/tower-of-london-guide/) has the prices, the quieter afternoon slots and the Opening Ceremony ticket that reaches the Crown Jewels before other visitors.
 
-If you are doing it, **book ahead and go at opening** — the Crown Jewels queue is the whole difficulty and it is shortest in the first hour. Opening is **9am Tuesday to Saturday but 10am on Sunday and Monday**, and closing is 5.30pm in summer, 4.30pm in winter. That hour matters if the Tower is your first stop rather than your last: on a Tuesday-to-Thursday walk you can be inside before the coaches arrive. If you are not doing it today, the walk still works: the outer walls, the wharf and Tower Hill are free to walk, and the **Roman city wall** stands in the gardens by Tower Hill station. Hoarding for ongoing works currently lines the approach to the Middle Tower — you walk past it either way.
+If you are doing it, **book ahead and go at opening** — the Crown Jewels queue is the whole difficulty and it is shortest in the first hour. Opening is **9am Tuesday to Saturday but 10am on Sunday and Monday**, and closing is 5.30pm in summer, 4.30pm in winter. That hour matters if the Tower is your first stop rather than your last: on a Tuesday-to-Thursday walk you can be inside before the coaches arrive. If you are skipping it, the walk still works: the outer walls, the wharf and Tower Hill are free to walk, and the **Roman city wall** stands in the gardens by Tower Hill station.
 
 ![The Middle Tower and outer curtain wall of the Tower of London above the dry moat, with contractors' hoarding and site cabins along the near side](../../assets/articles/city-of-london-walk/tower-of-london-entrance.jpg)
 

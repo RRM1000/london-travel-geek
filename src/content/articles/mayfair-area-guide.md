@@ -158,7 +158,7 @@ The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terr
 | --- | --- | --- | --- |
 | **The Guinea Grill** | Historic pub and grill | ££ | Bruton Place; a pub since 1423, famous for its pies |
 | **Ye Grapes** | Pub | £ | Shepherd Market; unpretentious, in the middle of Mayfair |
-| **The Audley** | Restored pub | ££ | Mount Street; ornate Victorian interior, recently restored |
+| **The Audley** | Restored pub | ££ | Mount Street; ornate Victorian interior, restored |
 | **Mercato Mayfair** | Food hall | ££ | Inside a deconsecrated Victorian church on North Audley Street |
 | **The Wolseley** | Grand cafe | £££ | Piccadilly, in a former car showroom; book for breakfast |
 | **Sketch** | Modern European | ££££ | Conduit Street; the Gallery and the egg-pod toilets |

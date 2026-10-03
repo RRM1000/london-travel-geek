@@ -22,7 +22,7 @@ faq:
   - q: "Are City of London hotels cheaper at weekends?"
     a: "Often, because they are priced for business travellers from Monday to Thursday. South Place Hotel's own offer took up to 20% off Friday and Saturday nights in September and October 2026, with breakfast. Price a Friday and Saturday against a Tuesday before you book, and check the City against the West End for the same weekend."
   - q: "Is the City of London dead at weekends?"
-    a: "The office streets are, and some places close outright: the Bank of England Museum shuts at weekends and the Jamaica Wine House, a pub off Cornhill since 1652, opens Monday to Friday only. Tower Hill stays busy with visitors, Old Spitalfields Market trades daily, and Leadenhall Market's pubs and restaurants now open through the weekend, with free pop-up markets from 12 to 5pm on set Saturdays and Sundays."
+    a: "The office streets are, and some places close outright: the Bank of England Museum shuts at weekends and the Jamaica Wine House, a pub off Cornhill since 1652, opens Monday to Friday only. Tower Hill stays busy with visitors, Old Spitalfields Market trades daily, and Leadenhall Market's pubs and restaurants open through the weekend, with free pop-up markets from 12 to 5pm on set Saturdays and Sundays."
   - q: "What is the cheapest place to stay in the City of London?"
     a: "The Z Hotel City at 24 Fleet Street publishes rooms from £60 for a single and £75 for a Z Double with a window; its £65 Z Inside Queen has no window. YHA London St Paul's, in the former St Paul's choir school on Carter Lane, sells hostel dorm beds and private rooms a minute from the cathedral."
   - q: "How do I get from Heathrow to the City of London?"
@@ -41,7 +41,7 @@ The range runs from a **£60 Z room on Fleet Street** and a hostel in St Paul's 
 
 **What closes.** The Bank of England Museum and the Jamaica Wine House, a pub off Cornhill since 1652, open Monday to Friday only. St Paul's Cathedral is open for sightseeing Monday to Saturday; on Sundays it is open for services.
 
-**What stays open.** Leadenhall Market says its restaurants, cafés and pubs now open through the weekend, and it runs free pop-up markets from 12 to 5pm, with SoLo Craft Fair on the second Saturday of each month. Old Spitalfields Market trades daily, Tower Hill is busy all weekend, and One New Change by St Paul's is the standby for food. Shoreditch is ten minutes' walk north of Liverpool Street.
+**What stays open.** Leadenhall Market says its restaurants, cafés and pubs open through the weekend, and it runs free pop-up markets from 12 to 5pm, with SoLo Craft Fair on the second Saturday of each month. Old Spitalfields Market trades daily, Tower Hill is busy all weekend, and One New Change by St Paul's is the standby for food. Shoreditch is ten minutes' walk north of Liverpool Street.
 
 **At night it is quiet**, especially around St Paul's and the river. The exceptions are the public rooftop bars on hotels at Tower Hill and Finsbury Square.
 

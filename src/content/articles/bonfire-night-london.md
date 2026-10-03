@@ -60,7 +60,7 @@ This guide lists every display you can buy a ticket for, the one that is still f
 
 ## Alexandra Palace: the best-known one, and the format has changed
 
-The best-known display in London, on a ridge with one of the great views over the city — and **the format is different this year**.
+The best-known display in London, on a ridge with one of the great views over the city — and **the format is different in 2026**.
 
 | | Saturday 7 November | Sunday 8 November |
 | --- | --- | --- |
@@ -88,7 +88,7 @@ The event is now called the Fireworks and Drone Festival. The drones fly formati
 
 ![A band playing on a stage inside a marquee lit blue, with a crowd watching](../../assets/articles/bonfire-night-london/alexandra-palace-live-music.jpg)
 
-Two things that changed from last year: the event has **moved off Halloween** — 2025 ran on 31 October and 1 November with ghost tours and fancy dress, and 2026 is a straight Bonfire Night weekend — and Sunday is now a dedicated family day rather than a second party night.
+Two things changed from 2025: the event has **moved off Halloween** — 2025 ran on 31 October and 1 November with ghost tours and fancy dress, and 2026 is a straight Bonfire Night weekend — and Sunday is a dedicated family day rather than a second party night.
 
 **Getting there:** Alexandra Palace station, on Great Northern trains from Moorgate or King's Cross, is at the Wood Green entrance to the park. Wood Green on the Piccadilly line is a 20-minute walk. The W3 bus is diverted and does not stop at the Palace, and there is no public parking.
 
@@ -159,7 +159,7 @@ Prices are the organisers' own for 2026.
 
 **Richmond has sold out four years running**, grandstand seats go first, and **under-5s still need a ticket**. There are no gate sales. Gates open at 4.30pm, last entry is 6.30pm and the fireworks start at 7pm. Richmond station is under five minutes' walk; parking is £10 and must be booked in advance.
 
-> ⚠️ **Merton's two parks get swapped constantly in listings.** The council's own page says **Wimbledon Park on Thursday 5 November** and **Morden Park on Saturday 7 November** — which is also the reverse of 2025, so last year's pattern will mislead you too.
+> ⚠️ **Merton's two parks get swapped constantly in listings.** The council's own page says **Wimbledon Park on Thursday 5 November** and **Morden Park on Saturday 7 November** — which is also the reverse of 2025, so the 2025 pattern will mislead you too.
 
 ---
 

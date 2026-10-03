@@ -76,7 +76,7 @@ What does not open: essentially every independent restaurant in London, every fo
 
 ## Confirmed for 25 December 2026
 
-Most of London has not published its 2026 Christmas Day menus, and many roundups ranking for this search run last year's prices under a 2026 headline. These are dated to Friday 25 December 2026 and bookable now:
+Most of London has not published its 2026 Christmas Day menus, and many roundups ranking for this search run 2025 prices under a 2026 headline. These are dated to Friday 25 December 2026 and bookable:
 
 | Where | Price | Notes |
 | --- | --- | --- |

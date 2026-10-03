@@ -371,7 +371,7 @@ Holborn's **Ye Olde Mitre** — a completely different pub from the Barnet CAMRA
 
 **Hours vary more than in a restaurant guide.** Anspach & Hobday's taproom closes around 7pm; The Kernel's at 8pm; The Southampton Arms runs to midnight. If a session matters more than a specific pub, check the hours before travelling out to a single-site brewery taproom.
 
-**"Real ale" and "craft beer" are not opposites here.** Most of the strongest pubs above pour both — a handpump row and a keg wall side by side — and the sources that call a pub one or the other are usually just describing what's currently on rather than the pub's whole identity.
+**"Real ale" and "craft beer" are not opposites here.** Most of the strongest pubs above pour both — a handpump row and a keg wall side by side — and the sources that call a pub one or the other are usually just describing what's on rather than the pub's whole identity.
 
 ---
 

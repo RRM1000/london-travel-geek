@@ -35,7 +35,7 @@ There is **Nikkei** — the Japanese-Peruvian cooking that came out of Japanese 
 > 💡 **The Short Version:** **Lima** in Fitzrovia tops Time Out's ranked twenty and is the only Peruvian restaurant Greater London has ever starred. **Coya** is named by more sources than anything else here, and priced accordingly. **Tierra Peru** on Essex Road is the one Peruvian Londoners send you to. For Nikkei without the Mayfair bill, **Ayllu** in Paddington. For criollo, **Sabor Peruano** at Elephant and Castle. Under £20 a head: **Chan Chan** in Peckham's Rye Lane Market and **Lima Limón** in Brixton's Market Row.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **13 independent sources carrying 79 citations** across **29 named venues**, and **17 venues are named by two or more independent sources**. No Peruvian restaurant in London currently holds a Michelin star or a place in the National Restaurant Awards top 100: Lima's star ran from the 2014 guide to the 2018, and it is the only one Greater London has ever given Peruvian cooking.
+> Nothing here rests on one visit. This pass reads **13 independent sources carrying 79 citations** across **29 named venues**, and **17 venues are named by two or more independent sources**. No Peruvian restaurant in London holds a Michelin star or a place in the National Restaurant Awards top 100: Lima's star ran from the 2014 guide to the 2018, and it is the only one Greater London has ever given Peruvian cooking.
 > **Built on:** Harden's and the Michelin record, five editorial mastheads, three London blogs and three YouTube creators — counted per creator, so a channel's several videos are one voice.
 > *Evidence built 22 September 2026 · [How we rank →](/how-we-rank/)*
 
@@ -72,7 +72,7 @@ Three sources crown three different restaurants, and the disagreement is the cle
 
 *£££ · 31 Rathbone Place, W1T 1JH · #1 of 20, Time Out · Cited by 6 sources · [the restaurant's site](https://www.limalondon.com/fitzrovia)*
 
-**The only Peruvian restaurant Greater London has ever starred**, holding one from the 2014 Michelin guide to the 2018. It does not hold one now, and the kitchen it has today is not the one that won it: head chef **Diego Recarte** runs a menu rebuilt around the Japanese and Cantonese strands in Peruvian cooking rather than the Andean and Amazonian showpieces the restaurant made its name on.
+**The only Peruvian restaurant Greater London has ever starred**, holding one from the 2014 Michelin guide to the 2018. It no longer holds one, and its kitchen is not the one that won it: head chef **Diego Recarte** runs a menu rebuilt around the Japanese and Cantonese strands in Peruvian cooking rather than the Andean and Amazonian showpieces the restaurant made its name on.
 
 Order the **stone bass ceviche** — the fish cured in leche de tigre, the cloudy lime-and-chilli marinade that has no milk in it despite the name — and the **Ikejime trout sashimi with strawberry ponzu**. The room is high and skylit, with a fringed canopy over the glass and pendulum lamps, and it is quieter than anything else in the top half of this guide.
 

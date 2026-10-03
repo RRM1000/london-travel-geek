@@ -13,7 +13,7 @@ tags: [restaurants, Italian restaurants, pasta, pizza, dining]
 draft: false
 faq:
   - q: "What is the best Italian restaurant in London?"
-    a: "Trullo in Highbury and Padella in Borough are named by more independent sources than anything else — nine each. For a starred kitchen, River Café, Murano and Luca are the three Italian restaurants in London currently holding a Michelin star. Trullo is the one London chefs name most often, and it costs a third of the starred rooms."
+    a: "Trullo in Highbury and Padella in Borough are named by more independent sources than anything else — nine each. For a starred kitchen, River Café, Murano and Luca are the three Italian restaurants in London holding a Michelin star in the 2026 guide. Trullo is the one London chefs name most often, and it costs a third of the starred rooms."
   - q: "Where can I eat good Italian food in London cheaply?"
     a: "Padella charges under £12 for most plates, Al Dente on Goodge Street keeps every plate under £15, and Ciao Bella in Bloomsbury has been doing the same since 1983. Mucci's in Chelsea puts every starter at £10 and every main at £20."
   - q: "Which London Italian restaurants have the nicest rooms?"

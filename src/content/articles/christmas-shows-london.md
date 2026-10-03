@@ -22,7 +22,7 @@ faq:
   - q: "Can under-fives go to the Nutcracker?"
     a: "At the Coliseum, only at the family-friendly matinee on Saturday 9 January 2027: English National Ballet's age guidance is five and over, and under-fives aren't admitted to other performances. The Snowman at the Peacock is suitable for all ages, and children aged two and over need a ticket."
   - q: "How long is The Snowman at the Peacock Theatre?"
-    a: "An hour and a half, including a 20-minute interval. This year's is a new production, directed and choreographed by Will Tuckett, running from 21 November 2026 to 3 January 2027, from £18 plus a £4 transaction fee."
+    a: "An hour and a half, including a 20-minute interval. The 2026 production is new, directed and choreographed by Will Tuckett, running from 21 November 2026 to 3 January 2027, from £18 plus a £4 transaction fee."
 ---
 
 > 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with cheapest seats from **£6 to £10**. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. English National Ballet's **Nutcracker** is at the Coliseum from **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, opens on **10 November**. Every Christmas show in our listings is at the bottom of the page, updated twice a week.
@@ -118,7 +118,7 @@ faq:
 
 *The Peacock Theatre's entrance.*
 
-**21 November 2026 – 3 January 2027, from £18** plus a £4 transaction fee. A **new production** this year, the world premiere of Will Tuckett's staging, still built around Raymond Briggs's story and the film. **An hour and a half including a 20-minute interval.** Suitable for all ages; children **two and over** need a ticket. Family tickets are **£150 for three** and **£200 for four**. **Relaxed** 2 December, **audio described** 12 December. [Dates and tickets](https://www.sadlerswells.com/whats-on/the-snowman-2026/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/the-snowman-tickets).
+**21 November 2026 – 3 January 2027, from £18** plus a £4 transaction fee. A **new production** for 2026, the world premiere of Will Tuckett's staging, still built around Raymond Briggs's story and the film. **An hour and a half including a 20-minute interval.** Suitable for all ages; children **two and over** need a ticket. Family tickets are **£150 for three** and **£200 for four**. **Relaxed** 2 December, **audio described** 12 December. [Dates and tickets](https://www.sadlerswells.com/whats-on/the-snowman-2026/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/the-snowman-tickets).
 
 ### The Snowflake, Little Angel Theatre
 

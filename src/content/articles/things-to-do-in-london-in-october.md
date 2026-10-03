@@ -20,7 +20,7 @@ faq:
   - q: "What is the best time to visit London in October?"
     a: "The first ten days, if you want a simple answer. Frieze Week — five ticketed art fairs plus the film festival's closing weekend, all overlapping between 15 and 18 October — is the draw if you like art; book a room early for it. The last eight days are the opposite trade: the clocks go back, half term fills every attraction, and Halloween lands on a Saturday, so a lot is happening but daylight, calm and timed-entry slots are all in short supply. If you can choose, come before the 15th, or go in knowing the back half of the month is a darker, busier trip."
   - q: "Can you still get tickets for the Bayeux Tapestry in October 2026?"
-    a: "Not for an October visit. Every ticket for 10 September to 31 December 2026, including the members' priority allocation, has sold out. What you can do this month instead: the free Bayeux Tapestry Opening Festival runs 9 to 11 October at the British Museum, though neither event includes entry to the Tapestry itself. For your own visit, members' priority booking for 1 January to 31 March 2027 reopens 6 October, and general booking for the same window opens 21 October."
+    a: "Not for an October visit. Every ticket for 10 September to 31 December 2026, including the members' priority allocation, has sold out. What you can do in October instead: the free Bayeux Tapestry Opening Festival runs 9 to 11 October at the British Museum, though neither event includes entry to the Tapestry itself. For your own visit, members' priority booking for 1 January to 31 March 2027 reopens 6 October, and general booking for the same window opens 21 October."
   - q: "What is Frieze Week, and is it worth going if you're not buying art?"
     a: "Frieze Week is the run of days in the middle of October — Frieze London and Frieze Masters open 14 to 18 October in 2026 — when the two fairs in Regent's Park are joined by three satellite fairs: PAD on Berkeley Square, 1-54 at Somerset House and the Affordable Art Fair in Battersea Park. All are ticketed, and Frieze weekend tickets alone run from about £38. The free version is Frieze Sculpture: large-scale works by 11 international artists in the same park's English Gardens, no ticket needed, open from 16 September to 1 November, well before and after the fairs, at your own pace, for nothing."
   - q: "When do the clocks go back in October 2026, and how much daylight do you lose?"
@@ -30,18 +30,18 @@ faq:
   - q: "Is Halloween in London 2026 on a good night to be out?"
     a: "About as good as it gets — 31 October 2026 falls on a Saturday, so events run at full strength instead of being squeezed onto the nearest weekend. It also closes an already stacked week: half term is ending, and on the Sunday before it the clocks went back, MCM Comic Con closed and Diwali on the Square filled Trafalgar Square. Our [Halloween in London guide](/articles/halloween-london/) has the scare attractions, club nights and where to still hire a costume."
   - q: "What festivals are on in London in October 2026?"
-    a: "The BFI London Film Festival runs 7 to 18 October, Dance Umbrella 7 to 27 October, Bloomsbury Festival and Black History Month all month, the London Literature Festival, curated this year by Dua Lipa, from 20 October to 1 November, and Diwali on the Square in Trafalgar Square on Sunday 25 October. The five Frieze Week art fairs land on top of the film festival's closing weekend, 15 to 18 October."
+    a: "The BFI London Film Festival runs 7 to 18 October, Dance Umbrella 7 to 27 October, Bloomsbury Festival and Black History Month all month, the London Literature Festival, curated in 2026 by Dua Lipa, from 20 October to 1 November, and Diwali on the Square in Trafalgar Square on Sunday 25 October. The five Frieze Week art fairs land on top of the film festival's closing weekend, 15 to 18 October."
   - q: "Are there NFL games in London in October 2026?"
     a: "Three, on consecutive Sundays: Indianapolis Colts v Washington Commanders on 4 October and Philadelphia Eagles v Jacksonville Jaguars on 11 October, both at Tottenham Hotspur Stadium, then Houston Texans v Jacksonville Jaguars at Wembley on 18 October."
 ---
 
-For the first three weeks of October the summer crowds have gone and the autumn exhibitions and festivals open one after another. In the last week the clocks go back, half term starts and the evenings are dark by five.
+For the first three weeks of October the summer crowds have gone and the autumn exhibitions and festivals open one after another. In the final week the clocks go back, half term starts and the evenings are dark by five.
 
 > 💡 **The Short Version:** **Frieze Week, 14 to 18 October**, puts five art fairs on the same days, and the free **Frieze Sculpture** in Regent's Park runs to 1 November. The **BFI London Film Festival** runs 7 to 18 October, with held-back tickets released at **10am on 1 October**. The **NFL** plays three Sundays in a row from 4 October. The **clocks go back on 25 October**, half term starts the next day, and **Halloween falls on a Saturday**. **Bayeux Tapestry** tickets are sold out to 31 December, but the free opening festival on 9 to 11 October is open to all, without entry to the Tapestry itself.
 
 **Five ticketed art fairs run in the same city on the same days, in the middle of the month.** Frieze London and Frieze Masters take opposite ends of Regent's Park; PAD occupies Berkeley Square; 1-54 fills Somerset House; the Affordable Art Fair sets up in Battersea Park — and all of it lands inside the BFI London Film Festival's closing weekend. In 2026 that means Thursday 15 to Sunday 18 October carries all five fairs plus the festival's last four days at once. The counterweight is Frieze Sculpture — the free outdoor half of Frieze — which sits in the same park from mid-September to the start of November, no ticket required.
 
-**Then the month has a hinge, and everything after it plays by different rules.** The clocks go back at 2am on the last Sunday of October — in 2026 that's the 25th — and an hour of evening disappears overnight: sunset drops from about 5.50pm on the Saturday to about 4.48pm on the Sunday. That same Sunday, MCM Comic Con finishes its run at ExCeL and Diwali on the Square fills Trafalgar Square. School half term starts the next morning, and Halloween falls on the Saturday that ends it. If you can choose your dates, the first ten days of October are the easier trip.
+**Then the month has a hinge, and everything after it plays by different rules.** The clocks go back at 2am on the last Sunday of October — in 2026 that's the 25th — and an hour of evening disappears overnight: sunset drops from about 5.50pm on the Saturday to about 4.48pm on the Sunday. That same Sunday, MCM Comic Con finishes its run at ExCeL and Diwali on the Square fills Trafalgar Square. School half term starts on the Monday, and Halloween falls on the Saturday that ends it. If you can choose your dates, the first ten days of October are the easier trip.
 
 ## The story that carries over from September
 
@@ -121,7 +121,7 @@ London's international dance festival, running **7 to 27 October** across Sadler
 
 ### London Literature Festival — late October into November
 
-The Southbank Centre's literature festival runs **20 October to 1 November 2026**, curated this year by **Dua Lipa** with writers picked through her Service95 Book Club. Events include **Malorie Blackman marking 25 years of *Noughts & Crosses*** in the Queen Elizabeth Hall on **28 October**, and a free afternoon of activities in the Clore Ballroom on **24 October**.
+The Southbank Centre's literature festival runs **20 October to 1 November 2026**, curated in 2026 by **Dua Lipa** with writers picked through her Service95 Book Club. Events include **Malorie Blackman marking 25 years of *Noughts & Crosses*** in the Queen Elizabeth Hall on **28 October**, and a free afternoon of activities in the Clore Ballroom on **24 October**.
 
 ### London Restaurant Festival — across the month
 
@@ -133,7 +133,7 @@ The 29th edition of the dealers' and auction houses' programme of selling exhibi
 
 ## Sport: three NFL Sundays and England at Wembley
 
-**The NFL plays three games in London this month, on consecutive Sundays.**
+**The NFL plays three games in London in October, on consecutive Sundays.**
 
 | Date | Game | Stadium |
 | --- | --- | --- |
@@ -185,7 +185,7 @@ Family options land squarely in the week. **Absurd City** opens at Westfield Lon
 
 31 October 2026 falls on a **Saturday**, so scare attractions, club nights, ghost walks and one-off parties run on the night itself rather than on the nearest weekend. Our Halloween guide has the scare attractions worth a train fare, the ones that don't need one, and where you can still hire a proper costume this late.
 
-## Exhibitions closing this month
+## Exhibitions closing in October
 
 ### The first weekend: two free closers
 
@@ -197,7 +197,7 @@ Free, on Floor 2. The award's exhibition of the year's shortlisted and winning p
 
 ### Serpentine Pavilion and its neighbour both close 25 October
 
-The **Serpentine Pavilion 2026**, this year's commission by LANZA atelier — Isabel Abascal and Alessandro Arienzo, titled simply "a serpentine" — closes in Kensington Gardens on **25 October**, free. Steps away, **Jesús Rafael Soto's *Pénétrable BBL Jaune***, a public sculpture from Soto's Pénétrable series, closes the same day, so the two make one walk.
+The **Serpentine Pavilion 2026**, the 2026 commission by LANZA atelier — Isabel Abascal and Alessandro Arienzo, titled simply "a serpentine" — closes in Kensington Gardens on **25 October**, free. Steps away, **Jesús Rafael Soto's *Pénétrable BBL Jaune***, a public sculpture from Soto's Pénétrable series, closes the same day, so the two make one walk.
 
 **Richard Dadd** at the Royal Academy also closes **25 October**.
 
@@ -207,7 +207,7 @@ A free display in Room 33, on Floor 0: a collective digital portrait of the nati
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Exhibitions opening this month
+## Exhibitions opening in October
 
 ### Korea — British Museum, from 1 October
 
@@ -271,7 +271,7 @@ One naming note still worth carrying: the **Duke of York's Theatre is now the To
 
 <div data-stay-strip></div>
 
-## New this month
+## New in October
 
 ### Absurd City — Westfield London, from 15 October
 

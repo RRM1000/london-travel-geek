@@ -90,7 +90,7 @@ App-unlocked e-bikes left on the street rather than in docks. They reach much fu
 
 **Lime** has the largest fleet and the widest coverage. It prices with an unlock fee plus a per-minute rate that varies by area and demand, so there is no fixed figure worth printing — check the app.
 
-> **We are not quoting a per-minute price for Lime deliberately.** Dockless operators change pricing frequently and by location, and a number published today would be wrong within weeks. The app shows your actual fare before you unlock.
+> **We are not quoting a per-minute price for Lime deliberately.** Dockless operators change pricing frequently and by location, and a published number would be wrong within weeks. The app shows your actual fare before you unlock.
 
 ### Parking is where the money goes
 

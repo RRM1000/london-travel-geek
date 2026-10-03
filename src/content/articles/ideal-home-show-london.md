@@ -19,9 +19,9 @@ faq:
   - q: "When is the Ideal Home Show 2027?"
     a: "2–11 April 2027 at Olympia London, ten days including two full weekends. The 2026 show ran 10–19 April 2026, also at Olympia."
   - q: "How much are Ideal Home Show tickets?"
-    a: "General Admission is currently advertised from £12, booked in advance through See Tickets, and covers the whole show including the co-located Eat & Drink Festival. A VIP ticket is £50 and adds a goody bag worth up to £75, the private VIP Lounge, a glass of prosecco, unlimited tea and coffee, and free cloakroom. A Tipsy Workshop ticket, from £40, adds a hosted hands-on craft session with a glass of fizz. Groups of ten or more get a discounted rate on enquiry, and children under 15 go free with a paying adult."
+    a: "General Admission is advertised from £12, booked in advance through See Tickets, and covers the whole show including the co-located Eat & Drink Festival. A VIP ticket is £50 and adds a goody bag worth up to £75, the private VIP Lounge, a glass of prosecco, unlimited tea and coffee, and free cloakroom. A Tipsy Workshop ticket, from £40, adds a hosted hands-on craft session with a glass of fizz. Groups of ten or more get a discounted rate on enquiry, and children under 15 go free with a paying adult."
   - q: "Is the Ideal Home Show cheaper on weekdays?"
-    a: "The 2027 advance price has not been split by day yet — it is a flat £12 whichever day you book. It was split last year: the 2026 show charged £14 for a weekday and £16 for a weekend, per Olympia's own event listing, so a weekday split is worth watching for as 2027 gets closer."
+    a: "The 2027 advance price has not been split by day yet — it is a flat £12 whichever day you book. It was split for the 2026 show, which charged £14 for a weekday and £16 for a weekend, per Olympia's own event listing, so a weekday split is worth watching for as 2027 gets closer."
   - q: "Which day is quietest at the Ideal Home Show?"
     a: "The show's own marketing draws the line for you: it pitches a weekday as a calmer, more manageable day out and a weekend as the fuller one, and weekday hours run an hour shorter (10am–5pm against 10am–6pm at weekends), which points to a thinner programme rather than a longer one. A weekday morning in the second week, once the opening rush has passed, is the best bet for a seat at a Stage Talk or a Design Studio consultation."
   - q: "How do you get to the Ideal Home Show by Tube?"
@@ -30,11 +30,11 @@ faq:
     a: "Yes, but spaces are limited and pre-booking is strongly advised. A pre-booked day rate is £35 for cars and vans; on-the-day parking is charged hourly from £8 and is not guaranteed. Olympia sits inside the Ultra Low Emission Zone, so check your vehicle before you drive in."
 ---
 
-**The Ideal Home Show returns to Olympia London from Friday 2 to Sunday 11 April 2027**, ten days and two full weekends of show homes, gardens, kitchens and the food hall that comes free with every ticket. It has run at some London venue every year since 1908, and last year's edition — 10 to 19 April 2026 — drew more than 136,000 visitors to over 600 exhibitors.
+**The Ideal Home Show returns to Olympia London from Friday 2 to Sunday 11 April 2027**, ten days and two full weekends of show homes, gardens, kitchens and the food hall that comes free with every ticket. It has run at some London venue every year since 1908, and the 2026 edition — 10 to 19 April — drew more than 136,000 visitors to over 600 exhibitors.
 
-The show itself does not sell weekday and weekend tickets at different prices this year, at least not yet. What it does have, already, is a real gap between the cheapest way in and the one with a goody bag and a glass of prosecco attached.
+The show itself does not sell weekday and weekend tickets at different prices for 2027, at least not yet. What it does have, already, is a real gap between the cheapest way in and the one with a goody bag and a glass of prosecco attached.
 
-> 💡 **The Short Version:** **2–11 April 2027, Olympia London.** General Admission from **£12** in advance; **VIP is £50** with a lounge, prosecco and a goody bag worth up to £75; a **Tipsy Workshop ticket is from £40**. **Children under 15 go free** with a paying adult. No weekday/weekend price split announced for 2027 yet — last year's show charged £14 midweek and £16 at the weekend. Aim for a **weekday morning in the second week** for the calmest visit. Get there on **London Overground or Southern Rail to Kensington (Olympia)** — the District line Tube only runs there at weekends. **Pre-book parking**; spaces are limited and Olympia sits inside the ULEZ.
+> 💡 **The Short Version:** **2–11 April 2027, Olympia London.** General Admission from **£12** in advance; **VIP is £50** with a lounge, prosecco and a goody bag worth up to £75; a **Tipsy Workshop ticket is from £40**. **Children under 15 go free** with a paying adult. No weekday/weekend price split announced for 2027 yet — the 2026 show charged £14 midweek and £16 at the weekend. Aim for a **weekday morning in the second week** for the calmest visit. Get there on **London Overground or Southern Rail to Kensington (Olympia)** — the District line Tube only runs there at weekends. **Pre-book parking**; spaces are limited and Olympia sits inside the ULEZ.
 
 ## Tickets and prices
 
@@ -54,7 +54,7 @@ Every ticket is sold through See Tickets, the show's official partner, and is is
 
 The **Show Home** is the anchor exhibit every year, and for 2027 its theme is **Global Living** — a run of rooms, each styled after a different corner of the world, built around design, culture and lifestyle rather than one single look. Around it sit the show's other permanent sections:
 
-- **Ideal Gardens** — outdoor living, planting and garden buildings laid out on artificial turf, with a strong lean towards sustainability and pet-friendly design this year.
+- **Ideal Gardens** — outdoor living, planting and garden buildings laid out on artificial turf, with a strong lean towards sustainability and pet-friendly design for 2027.
 - **The Design Studio** — free one-to-one consultations with professional interior designers; bring photos or plans of your own room and book a slot in advance closer to the show.
 - **Smart Home**, presented by TV technologist Jason Bradbury — the latest connected appliances and home tech, demonstrated rather than just displayed.
 - **DIY Live** and the **BBQ Academy**, sponsored by La Española — live, stage-based demonstrations rather than static stands.

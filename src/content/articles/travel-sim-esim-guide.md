@@ -312,7 +312,7 @@ If this matters to you, buy your SIM in a network's own shop and ask them to lif
 
 **Mobile signal is arriving across the whole Underground.** Transport for London said on 11 June 2026 that around **60 per cent of underground Tube stations** now have 4G and 5G, with **the whole network due by the end of 2026**, and all four UK networks — EE, O2, Three and Vodafone — are part of it.
 
-Right now there is signal in stations and tunnels on sections of the **Central, Jubilee, Victoria, Northern, Piccadilly, Bakerloo, Circle and District** lines, and on the **whole Elizabeth line**. The Central line is covered from Shepherd's Bush to Bank, the Jubilee from Westminster to Canning Town, and the Victoria from Brixton to Green Park. TfL publishes a coverage map on its **[mobile and Wi-Fi page](https://tfl.gov.uk/modes/tube/station-wifi)**.
+There is signal in stations and tunnels on sections of the **Central, Jubilee, Victoria, Northern, Piccadilly, Bakerloo, Circle and District** lines, and on the **whole Elizabeth line**. The Central line is covered from Shepherd's Bush to Bank, the Jubilee from Westminster to Canning Town, and the Victoria from Brixton to Green Park. TfL publishes a coverage map on its **[mobile and Wi-Fi page](https://tfl.gov.uk/modes/tube/station-wifi)**.
 
 **Station Wi-Fi is a different system.** Every Tube station has Wi-Fi, but it connects through your UK network's own service — **EE WiFi-Auto, Wifi Extra for O2, Three_WIFI and VodafoneWiFi**. A data-only travel eSIM does not give you access. There is no Wi-Fi in the tunnels.
 

@@ -28,7 +28,7 @@ London's cocktail scene splits neatly in two. There are the **Mayfair and St Jam
 
 Both are worth your time and they are not competing.
 
-> 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** imposes a two-drink limit, because the martini is poured neat from a frozen bottle at your table. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** rewrites its menu by hand every day and is the most decorated bar in London right now. And **Tayēr + Elementary** is two bars in one room.
+> 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** imposes a two-drink limit, because the martini is poured neat from a frozen bottle at your table. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** rewrites its menu by hand every day and is the most decorated bar in London. And **Tayēr + Elementary** is two bars in one room.
 
 > 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Where a bar holds a world ranking we give the position and the year, because those lists move every autumn. All rankings here are from the World's 50 Best Bars 2025 — the 2026 list is announced in Milan in October 2026, and anything claiming a 2026 ranking before then is not real.
@@ -99,7 +99,7 @@ At The Langham, 1c Portland Place, W1B 1JA, at the top of Regent Street opposite
 
 ### Tayēr + Elementary, Old Street
 
-*££££ · currently closed after a fire*
+*££££ · closed after a fire*
 
 ![Customers on wooden stools at a long wooden bar counter, with bartenders working in front of shelves of amber bottles set against green tiles, under an exposed concrete ceiling](../../assets/articles/best-cocktail-bars-london/tayer-plus-elementary-back-room.jpg)
 
@@ -161,7 +161,7 @@ The **martini is made at your table from frozen bottles**, poured with no ice an
 
 **Last orders are 10pm and the bar closes at 10.30**, which is early for St James's — this is a pre-dinner room, not a late one. No Sunday hours are published.
 
-**Smart casual and strictly over-18s.** Their wording: no sportswear, shorts or T-shirts, with short-sleeved collared shirts the one exception. The hotel is mid-refurbishment and its entrance is **not currently wheelchair accessible**. It is at 35 St James's Place, SW1A 1NY, down a cul-de-sac off St James's Street that is very easy to walk past.
+**Smart casual and strictly over-18s.** Their wording: no sportswear, shorts or T-shirts, with short-sleeved collared shirts the one exception. The hotel is mid-refurbishment and its entrance is **not wheelchair accessible**. It is at 35 St James's Place, SW1A 1NY, down a cul-de-sac off St James's Street that is very easy to walk past.
 
 ### Scarfes Bar, Holborn
 
@@ -229,7 +229,7 @@ Calvados and apple run through the whole menu — a bar with an argument rather 
 
 **Sundays are the day to come.** A "Biblio-Coupette" bartenders' book-club session runs from 4pm with **every drink at £9**, which is the cheapest serious cocktail in east London.
 
-It was **No.18 in the World's 50 Best Bars in 2018 and No.23 in 2019** and is not currently ranked, which is worth stating plainly rather than implying a placing it no longer holds. Bookings by Quandoo, OpenTable, phone or email. 423 Bethnal Green Road, E2 0AN.
+It was **No.18 in the World's 50 Best Bars in 2018 and No.23 in 2019** and is no longer ranked, which is worth stating plainly rather than implying a placing it no longer holds. Bookings by Quandoo, OpenTable, phone or email. 423 Bethnal Green Road, E2 0AN.
 
 ![The corner frontage of Coupette in Bethnal Green](../../assets/articles/best-cocktail-bars-london/coupette.jpg)
 

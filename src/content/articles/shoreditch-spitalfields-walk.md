@@ -130,7 +130,7 @@ So "the 24-hour bagel place on Brick Lane" sends you to a street with two bagel 
 
 Brewing stopped here in 1989. What replaced it is hard to plan around, so here it is in full.
 
-**The brewery's own site currently lists eight separate markets** across the buildings on both sides of Brick Lane, and **they do not run on the same days**:
+**The brewery's own site lists eight separate markets** across the buildings on both sides of Brick Lane, and **they do not run on the same days**:
 
 | Market | Where | Days |
 | --- | --- | --- |

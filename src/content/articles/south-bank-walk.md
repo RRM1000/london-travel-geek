@@ -77,7 +77,7 @@ For the wider area — the theatres, where to stay, the bits inland — see the 
 
 **Start on the north bank and cross.** You could come out at Waterloo and join the river directly, but Westminster Bridge is the better opening: you walk towards the Eye with the river opening up on both sides, and it costs nothing.
 
-The **[London Eye](/articles/london-eye-guide/)** is the one stop where the view of it beats the view from it — 135 metres, a full rotation in half an hour, and slots that book ahead and queue anyway. If you are going up something today, the free options later on this walk are better value. If you plan to ride, read our dedicated [London Eye guide](/articles/london-eye-guide/) for ticket hacks, Fast Track advice, and sunset timing.
+The **[London Eye](/articles/london-eye-guide/)** is the one stop where the view of it beats the view from it — 135 metres, a full rotation in half an hour, and slots that book ahead and queue anyway. If you are choosing something to go up, the free options later on this walk are better value. If you plan to ride, read our dedicated [London Eye guide](/articles/london-eye-guide/) for ticket hacks, Fast Track advice, and sunset timing.
 
 ## 2. County Hall
 
@@ -172,7 +172,7 @@ And then **Borough Market**, which is the reason a lot of people do this walk at
 
 ## 10. HMS Belfast and Hay's Galleria
 
-**HMS Belfast** is a Second World War cruiser moored permanently in the Pool of London, and it is ticketed — but it is free to look at, and it is the thing that tells you the river was a working port until very recently.
+**HMS Belfast** is a Second World War cruiser moored permanently in the Pool of London, and it is ticketed — but it is free to look at, and it is the thing that tells you the river was a working port within living memory.
 
 Beside it, **Hay's Galleria** is a covered Victorian dock with a glass roof, now shops and cafés around a strange kinetic sculpture of a ship. **Free, covered and warm**, which makes it the shelter stop if the weather turns in the last mile.
 
@@ -198,7 +198,7 @@ This is the end of the walk and the start of another one: cross the bridge and y
 
 Worth its own section because it is nothing like the rest of this walk.
 
-**Leake Street is a road tunnel under Waterloo station where graffiti is legal.** Banksy started it with an exhibition in 2008 and it never stopped. Around 300 metres of tunnel, walls and ceiling, repainted continuously — some of it careful, most of it not, and none of it there next month.
+**Leake Street is a road tunnel under Waterloo station where graffiti is legal.** Banksy started it with an exhibition in 2008 and it never stopped. Around 300 metres of tunnel, walls and ceiling, repainted continuously — some of it careful, most of it not, and none of it stays up for long.
 
 **Free, open at all hours, and about five minutes inland** from stop 2. There are bars and food units in the arches off it now, which has made it less lawless than it was, but the tunnel itself is unchanged.
 

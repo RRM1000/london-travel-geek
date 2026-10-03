@@ -125,7 +125,7 @@ One more honest note on the headline. Tastecard advertises savings of "over £60
 
 The benefits are word-for-word identical on the two join pages: the same 25% off or 2-for-1, the same Coffee Club, the same pizza delivery, the same cinema and days out.
 
-**Verdict: no reason to buy this.** It is the same product as Tastecard at 2.7 times the price. Tastecard's own "was £79.99" crossed-out price is exactly what its sister brand charges today.
+**Verdict: no reason to buy this.** It is the same product as Tastecard at 2.7 times the price. Tastecard's own "was £79.99" crossed-out price is exactly what its sister brand charges.
 
 ---
 

@@ -78,7 +78,7 @@ Bermondsey has its own share of the commemorative plaques marking where notable 
 
 ## Why visit — and who should skip it
 
-**Come here if** it is a weekend and you like eating and drinking. Maltby Street Market and the Beer Mile are both Saturday propositions, both under railway arches, and both about fifteen minutes apart on foot — though the market now opens on Friday evenings in summer too.
+**Come here if** it is a weekend and you like eating and drinking. Maltby Street Market and the Beer Mile are both Saturday propositions, both under railway arches, and both about fifteen minutes apart on foot — though the market also opens on Friday evenings in summer.
 
 **Skip it if** you come Monday to Thursday. Maltby Street does not run, most of the breweries are shut, and Bermondsey Street is a pleasant but ordinary road. Friday evening in summer is the earliest the weekend really starts here.
 

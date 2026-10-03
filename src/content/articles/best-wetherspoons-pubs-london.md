@@ -13,7 +13,7 @@ tags: [pubs, cheap eats, budget travel, British food, London history]
 draft: false
 faq:
   - q: "How much cheaper is a pint at Wetherspoons than a normal London pub?"
-    a: "There's no single official number — Wetherspoon doesn't publish drink prices anywhere except its app and the bar's own list. A pint of lager or cask ale in an ordinary Zone 1 pub runs £6 to £8; the same drink at a Wetherspoons, and at most pubs in outer London, tends to land at roughly half that, around £3 to £4, moving with the branch the way any London pub's prices do. For scale, Wetherspoon chairman Sir Tim Martin used £5 as 'approximately the average price of a pint these days' in a September 2025 statement reprinted in the company's 2025 annual report — a UK-wide figure that already sits above what most branches charge."
+    a: "There's no single official number — Wetherspoon doesn't publish drink prices anywhere except its app and the bar's own list. A pint of lager or cask ale in an ordinary Zone 1 pub runs £6 to £8; the same drink at a Wetherspoons, and at most pubs in outer London, tends to land at roughly half that, around £3 to £4, moving with the branch the way any London pub's prices do. For scale, Wetherspoon chairman Sir Tim Martin put the average price of a pint at approximately £5 in a September 2025 statement reprinted in the company's 2025 annual report — a UK-wide figure that already sits above what most branches charge."
   - q: "What time does breakfast stop at Wetherspoons?"
     a: "11.30am everywhere, though the start time depends on the branch's own opening hour — Hamilton Hall opens at 7am on weekdays and serves breakfast from then, while The Crosse Keys opens at 8am and starts there instead. At Hamilton Hall's own prices, a cooked breakfast runs from £6.13 for the small one to £8.68 for the large."
   - q: "Is the free coffee refill still a real thing?"
@@ -30,7 +30,7 @@ Wetherspoons gets dismissed as just the cheap option, which undersells what's ac
 
 This is the practical case for the chain first — the real prices, the actual menu, which perks are still genuinely running in 2026 — and then the London branches worth going out of your way for: the six landmark buildings, plus the ones by the mainline stations that don't get written up nearly as often.
 
-> 💡 **The Short Version:** Six branches earn a special trip: **The Crosse Keys** (a marble 1913 banking hall), **Hamilton Hall** (the Great Eastern Hotel's old ballroom, and the chain's first pub in central London), **The Liberty Bounds** (Tower Hill), **The Ledger Building** (Grade I-listed, Canary Wharf), **The Rochester Castle** (Stoke Newington, trading since 1991) and **The Mossy Well** (Muswell Hill). Four more sit inside or beside King's Cross/St Pancras, Euston, Paddington and Waterloo — three of those opened in 2024 or 2025. On price: a pint here runs roughly half what a standard Zone 1 pub charges. The coffee refill is still real, still £1.89, and the twice-yearly beer festival is still running — this autumn's is 7–18 October.
+> 💡 **The Short Version:** Six branches earn a special trip: **The Crosse Keys** (a marble 1913 banking hall), **Hamilton Hall** (the Great Eastern Hotel's old ballroom, and the chain's first pub in central London), **The Liberty Bounds** (Tower Hill), **The Ledger Building** (Grade I-listed, Canary Wharf), **The Rochester Castle** (Stoke Newington, trading since 1991) and **The Mossy Well** (Muswell Hill). Four more sit inside or beside King's Cross/St Pancras, Euston, Paddington and Waterloo — three of those opened in 2024 or 2025. On price: a pint here runs roughly half what a standard Zone 1 pub charges. The coffee refill is still real, still £1.89, and the twice-yearly beer festival is still running — the autumn 2026 festival is 7–18 October.
 
 ## The practical case
 
@@ -38,7 +38,7 @@ This is the practical case for the chain first — the real prices, the actual m
 
 Wetherspoon has never published a national price list — every branch sets its own, and even the printed table menus (checked at Hamilton Hall for this guide) list food and coffee prices in full but leave beer, wine and spirits blank, pointing to the app instead. That makes one exact figure impossible to pin down centrally, but the gap itself is well established: a pint of lager or cask ale in an ordinary Zone 1 pub runs **£6 to £8**, and the same drink at a Wetherspoons — or at most pubs in outer London — tends to come in at roughly half that, **around £3 to £4**, moving with the branch the same way any London pub's prices do.
 
-For scale: Wetherspoon's own chairman, Sir Tim Martin, used **£5** as "approximately the average price of a pint these days" in a September 2025 statement reprinted in the company's 2025 annual report. That's a UK-wide figure, not a Wetherspoon one — and it already sits above what most branches in this guide charge.
+For scale: Wetherspoon's own chairman, Sir Tim Martin, put the average price of a pint at **approximately £5** in a September 2025 statement reprinted in the company's 2025 annual report. That's a UK-wide figure, not a Wetherspoon one — and it already sits above what most branches in this guide charge.
 
 ### The food
 
@@ -60,7 +60,7 @@ Still real, still current as of the branch menus checked for this guide in Septe
 
 **There's no loyalty scheme.** The app's own advertised feature list — order, pay, reorder, book a hotel — says nothing about points or rewards, unlike comparable pub-chain apps sold right alongside it in the App Store that lead with the word "Rewards."
 
-**The real ale side is genuine, not assumed.** Wetherspoon ran its first beer festival in 1990 — four days, six beers — and has run one twice a year since; past festivals have featured up to 50 beers, ten of them from overseas. This autumn's runs **Wednesday 7 to Sunday 18 October**, thirty real ales including five international beers, with the first-ever Wetherspoon festival beers from Singapore and Ukraine alongside the usual UK brewers. Separately, **280 Wetherspoon pubs** currently carry CAMRA's own acclaim for the quality of their real ale, and the group holds Cask Marque accreditation.
+**The real ale side is genuine, not assumed.** Wetherspoon ran its first beer festival in 1990 — four days, six beers — and has run one twice a year since; past festivals have featured up to 50 beers, ten of them from overseas. The autumn 2026 festival runs **Wednesday 7 to Sunday 18 October**, thirty real ales including five international beers, with the first-ever Wetherspoon festival beers from Singapore and Ukraine alongside the usual UK brewers. Separately, **280 Wetherspoon pubs** carry CAMRA's own acclaim for the quality of their real ale, and the group holds Cask Marque accreditation.
 
 **Prices are not the same everywhere.** That includes the six branches below — a City pint and a Muswell Hill pint are not the same number, and neither is published online. Check the app once you're inside, not before.
 

@@ -16,7 +16,7 @@ faq:
   - q: "What is the best Vietnamese restaurant in London?"
     a: "Sông Quê Café on Kingsland Road is named by eight independent sources, more than anything else in the city — a family-run corner site that has drawn queues since 2002. The only judged honour goes elsewhere: Lai Rai on Rye Lane in Peckham holds a Michelin Bib Gourmand awarded in February 2026, the only one for Vietnamese cooking in the UK and Ireland."
   - q: "Is Kingsland Road still the best place for Vietnamese food in London?"
-    a: "Partly. The strip's veterans still top the citation count — Sông Quê Café and Việt Grill are the two most-named Vietnamese restaurants in London and both are on it. But the Bib Gourmand went to Peckham, one of the most respected picks is out at Surrey Quays, and the bánh mì everyone argues about comes from a bakery on the same road that opened recently. The strip has not faded; its newcomers have overtaken its institutions."
+    a: "Partly. The strip's veterans still top the citation count — Sông Quê Café and Việt Grill are the two most-named Vietnamese restaurants in London and both are on it. But the Bib Gourmand went to Peckham, one of the most respected picks is out at Surrey Quays, and the bánh mì everyone argues about comes from a bakery on the same road. The strip has not faded; its newcomers have overtaken its institutions."
   - q: "Where is the best pho in London?"
     a: "Phở Thúy Tây near Surrey Quays Overground is the specialist choice. Its chef patron's parents ran a phở stand in Hanoi, the beef broth takes around twenty hours, and she makes her own chilli sauce — declining the southern habit of adding hoisin and Thai basil to the bowl. Kingsland Road's so-called Pho Mile is where most people start."
   - q: "Where is the best banh mi in London?"
@@ -31,7 +31,7 @@ faq:
 
 There is a stretch of Kingsland Road that London has called the Pho Mile for twenty years, and every guide to Vietnamese food in the city starts there.
 
-The evidence says it is still where the most-recommended restaurants are — and also that it is no longer where the interesting arguments are happening. **The one judged award went to Peckham. One of the most respected rooms is out at Surrey Quays. And the bánh mì people argue about comes from a bakery on the Mile itself that opened recently rather than from any of its institutions.**
+The evidence says it is still where the most-recommended restaurants are — and also that it is no longer where the interesting arguments are happening. **The one judged award went to Peckham. One of the most respected rooms is out at Surrey Quays. And the bánh mì people argue about comes from a bakery on the Mile itself rather than from any of its institutions.**
 
 > 💡 **The Short Version:** **Sông Quê Café** on Kingsland Road is named by eight sources, more than anything else. **Lai Rai** in Peckham has the only Michelin Bib Gourmand. **Phở Thúy Tây** near Surrey Quays is the specialist's phở. **Kêu** for bánh mì choice, **Bánh** for the one critics pick. Northern and southern cooking are genuinely different — ask which a kitchen does.
 

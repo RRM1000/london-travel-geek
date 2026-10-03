@@ -229,7 +229,7 @@ West of the stations, between Euston Road and Camden, and a quiet residential po
 
 **[The Regent's Canal from King's Cross to Camden →](/articles/kings-cross-camden-canal-walk/)**
 
-Our full route out of the area: **ten numbered stops** over about 1.5 miles and an hour, with a map, a Google Maps walking link for your phone, and the opening hours that decide when to set off. It leaves from the canal steps below Granary Square, crosses **Somers Town Bridge** to **Camley Street Natural Park** — free, and shut by 4pm from October to March — and finishes at Camden Lock and the market. It also covers the **stretch of towpath currently fenced off near Camley Street**, where a floating pontoon means you do not need a diversion.
+Our full route out of the area: **ten numbered stops** over about 1.5 miles and an hour, with a map, a Google Maps walking link for your phone, and the opening hours that decide when to set off. It leaves from the canal steps below Granary Square, crosses **Somers Town Bridge** to **Camley Street Natural Park** — free, and shut by 4pm from October to March — and finishes at Camden Lock and the market. It also covers the **stretch of towpath fenced off near Camley Street**, where a floating pontoon means you do not need a diversion.
 
 ### The short version, if you only have two hours
 

@@ -160,7 +160,7 @@ This is the part worth getting right, because the colleges are not a set of equi
 | Trinity: the Backs | **Free** | The grounds beside the Cam, normally 09:00–17:00 |
 | Trinity: Wren Library | **Free** | Noon–14:00 weekdays, 10:30–12:30 Saturdays, **in term time only** |
 
-**Trinity's tour meets at the Great Gate on Trinity Street**, under-12s go free, and the Dining Hall is not included at the moment while work goes on. No bicycles, no dogs, no picnics, and nobody walks on the grass.
+**Trinity's tour meets at the Great Gate on Trinity Street**, under-12s go free, and the Dining Hall is not included while work goes on. No bicycles, no dogs, no picnics, and nobody walks on the grass.
 
 **King's prices move with the week, not the season.** The early bird price for a given week ends on the Sunday night before it: a Saturday slot booked early was £16.75 adult and £14.25 for a student or a child aged 5 to 17, with family passes at £43.25 for one adult and up to three children, or £59.00 for two adults and up to three children. Arrival slots ran 09:30 to 16:00 in 30-minute steps, and individual afternoon slots were marked closed to visitors. Tickets are non-refundable, and **there are no public toilets in the college**.
 

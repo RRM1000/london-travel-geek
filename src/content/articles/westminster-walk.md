@@ -166,7 +166,7 @@ Open **9.30am to 6pm, last entry 5pm, every day except 24 to 26 December**. Adul
 
 There is a **café inside, open daily 10am to 5pm**, in the room the switchboard operators used.
 
-> ⚠️ **This is a half-day attraction sitting at stop six of eleven.** Doing it properly ends the walk. If you want both, do the War Rooms on a separate morning and walk past the door today — or start here at 9.30 and pick the route up afterwards.
+> ⚠️ **This is a half-day attraction sitting at stop six of eleven.** Doing it properly ends the walk. If you want both, do the War Rooms on a separate morning and walk past the door — or start here at 9.30 and pick the route up afterwards.
 
 ## 7. St James's Park
 
@@ -178,7 +178,7 @@ Out of the Clive Steps, across Horse Guards Road, and into the oldest of the Roy
 
 **Walk to the bridge over the lake.** The view works in both directions: Buckingham Palace framed at the western end, and at the eastern end a skyline of turrets and pinnacles above the trees that looks like nowhere in England. That is the back of Whitehall, and almost nobody recognises it.
 
-**There are pelicans**, and they have been here since **1664**, when a pair was presented to Charles II by the Russian Ambassador. More than forty have lived in the park since. The Royal Parks feed them fish **daily, usually around 2.30pm**, and there are **extra feeds at the moment because of pelican chicks** — so an afternoon walk has a decent chance of catching one.
+**There are pelicans**, and they have been here since **1664**, when a pair was presented to Charles II by the Russian Ambassador. More than forty have lived in the park since. The Royal Parks feed them fish **daily, usually around 2.30pm**, and there are **extra feeds when there are pelican chicks** — so an afternoon walk has a decent chance of catching one.
 
 **St James's Café** sits by the lake and opens **8am to 6.30pm, seven days a week**. It is the mid-route lunch stop and it is the only one on this walk that never has a day-of-the-week problem.
 
@@ -245,7 +245,7 @@ Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which 
 
 North up Whitehall for four hundred metres and the road opens into the square. This is the end of the walk, and it is the right end — because it finishes at a free building you can go into and sit down in.
 
-**The National Gallery is free and open daily, 10am to 6pm, and until 9pm on Fridays.** It closes on 24 to 26 December and 1 January. The **main free entrance is the Sainsbury Wing**; you can book a free general admission ticket for fast-track entry or simply walk up. Only the temporary exhibitions are ticketed. Some rooms are shut at the moment for building work, so a specific painting is not guaranteed.
+**The National Gallery is free and open daily, 10am to 6pm, and until 9pm on Fridays.** It closes on 24 to 26 December and 1 January. The **main free entrance is the Sainsbury Wing**; you can book a free general admission ticket for fast-track entry or simply walk up. Only the temporary exhibitions are ticketed. Some rooms can be shut for building work, so a specific painting is not guaranteed.
 
 Outside, **the Fourth Plinth** in the north-west corner carries a rotating contemporary commission chosen by public consultation and an independent panel. The work on it now is **Teresa Margolles's *Mil Veces un Instante* (A thousand times an Instant)**. It is free, it is at street level, and most people walk past it looking for the lions.
 
