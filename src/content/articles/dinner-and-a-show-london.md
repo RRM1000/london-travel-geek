@@ -66,7 +66,7 @@ The difference decides the evening. A restaurant with a band lets you book a tab
 
 ## Jazz clubs with dinner at the table
 
-Here the music is the reason to go and the kitchen serves the audience. Expect to be asked to stop talking during the set.
+Here the music comes first and the kitchen serves the audience. Expect to be asked to stop talking during the set.
 
 ### Ronnie Scott's, Soho
 
@@ -86,7 +86,7 @@ A basement under the Dean Street PizzaExpress with a ticketed act on its stage a
 
 ![A five-piece band on piano, trumpet, saxophone and drums plays in the basement room, a few feet from diners' tables](../../assets/articles/dinner-and-a-show-london/pizzaexpress-jazz-club.jpg)
 
-The rooms are small and the tables close together; one Reddit regular describes eating "in a cramped restaurant" with the band a few feet away, which is the point. Two sister rooms work the same way with an act every night of the week: PizzaExpress Live Holborn at 99 High Holborn, and The Pheasantry at 152 King's Road in Chelsea, which [our cabaret guide](/articles/best-cabaret-london/) covers in full. Smart casual is the norm.
+The rooms are small and the tables close together; one Reddit regular describes eating "in a cramped restaurant" with the band a few feet away, and the room is built that way. Two sister rooms work the same way with an act every night of the week: PizzaExpress Live Holborn at 99 High Holborn, and The Pheasantry at 152 King's Road in Chelsea, which [our cabaret guide](/articles/best-cabaret-london/) covers in full. Smart casual is the norm.
 
 ### 606 Club, Chelsea
 
@@ -107,7 +107,7 @@ A two-level music venue where the first-floor restaurant is a mezzanine looking 
 
 ![Diners eat on the first-floor mezzanine at the Jazz Cafe, looking down on a band playing on the stage below](../../assets/articles/dinner-and-a-show-london/jazz-cafe.jpg)
 
-The music is soul, Afrobeat, jazz and singer-songwriters rather than a jazz house style, and it usually starts 60 to 90 minutes after doors. **It is strictly 18+ with photo ID**, and the restaurant is up 16 steps with no step-free access. [Our live music guide](/articles/best-live-music-venues-london/) has the rest of the building.
+The music is soul, Afrobeat, jazz and singer-songwriters, not a jazz house style, and it usually starts 60 to 90 minutes after doors. **It is strictly 18+ with photo ID**, and the restaurant is up 16 steps with no step-free access. [Our live music guide](/articles/best-live-music-venues-london/) has the rest of the building.
 
 ### Toulouse Lautrec, Kennington
 
@@ -183,7 +183,7 @@ A big St James's dining room with live music **Monday to Saturday**: a duo, trio
 
 ![A singer and band perform on the stage at Quaglino's while diners eat at candlelit tables in front](../../assets/articles/dinner-and-a-show-london/quaglinos.jpg)
 
-There is no dress code, though the room is dressed-up. Children are not allowed in the bar after 6pm, and **Saturday brunch, with a five-piece band from 1.15pm, is adults only**. A Reddit r/Jazz reply is honest about the balance: "less of a focus on the quality of the jazz and more on the atmosphere".
+There is no dress code, though the room is dressed-up. Children are not allowed in the bar after 6pm, and **Saturday brunch, with a five-piece band from 1.15pm, is adults only**. A Reddit r/Jazz reply describes the balance: "less of a focus on the quality of the jazz and more on the atmosphere".
 
 ### The Parlour at The Ned, Bank
 
@@ -321,7 +321,7 @@ A Mayfair brasserie with **live jazz on the brasserie stage Tuesday to Saturday 
 
 *£££ · Embankment · Playhouse Theatre, Northumberland Avenue, WC2N · [stageside dining](https://kitkat.club/tickets/)*
 
-The West End production of *Cabaret* sells **stageside dining at £85 a head on top of the show ticket**, in pairs, at evening performances: canapés and cocktails at a table in the stalls 45 minutes before curtain, cleared before the show starts. It is a meal before the show rather than during it, and [our cabaret guide](/articles/best-cabaret-london/) covers the production.
+The West End production of *Cabaret* sells **stageside dining at £85 a head on top of the show ticket**, in pairs, at evening performances: canapés and cocktails at a table in the stalls 45 minutes before curtain, cleared before the show starts. It is a meal before the show, not during it, and [our cabaret guide](/articles/best-cabaret-london/) covers the production.
 
 ### Sarastro, Drury Lane
 
@@ -457,7 +457,7 @@ A bar and restaurant inside a Grade II-listed former church. Its brunch is not a
 
 *££ · Westminster · Westminster Pier, SW1A · [its site](https://www.cityexperiences.com/london/city-cruises/)*
 
-City Cruises runs the Thames dinner sailings from Westminster Pier. Its **dinner cruise** sails nightly at 7.45pm for three hours, three British courses with live singers and dancing, from £99 in late September 2026; a VIP upgrade adds Champagne, front seats, canapés and a cheeseboard. Its **jazz dinner cruise** puts a jazz band on the same route over three courses, on selected dates rather than nightly, at £119 in late September 2026. The **murder mystery dinner cruise**, with actors running a whodunnit at your table, leaves from **Tower Millennium Pier, not Westminster**, and has one date on sale, 31 October. All three are for ages 13 and over.
+City Cruises runs the Thames dinner sailings from Westminster Pier. Its **dinner cruise** sails nightly at 7.45pm for three hours, three British courses with live singers and dancing, from £99 in late September 2026; a VIP upgrade adds Champagne, front seats, canapés and a cheeseboard. Its **jazz dinner cruise** puts a jazz band on the same route over three courses, on selected dates, not nightly, at £119 in late September 2026. The **murder mystery dinner cruise**, with actors running a whodunnit at your table, leaves from **Tower Millennium Pier, not Westminster**, and has one date on sale, 31 October. All three are for ages 13 and over.
 
 GetYourGuide sells a <a href="https://www.getyourguide.com/activity/-t5275?partner_id=WWP7I0R&amp;cmp=dinner-and-a-show-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">three-hour Thames dinner cruise with a live performance and dancing</a> from £81. [Our Thames cruises guide](/articles/thames-river-cruises-london/) compares every sailing, including the cheaper lunch cruise that passes the same landmarks.
 
@@ -475,7 +475,7 @@ GetYourGuide sells a <a href="https://www.getyourguide.com/activity/-t5275?partn
 * **Dress up for the shows.** 58th Street asks for "1930s luxe", The London Cabaret Club for "smart elegance", INCA and The Maine for "smart elegant". The jazz clubs are smart casual, and the 606 turns away shorts.
 * **November is jazz month.** The EFG London Jazz Festival runs 13 to 22 November 2026; [our festival guide](/articles/london-jazz-festival/) has what is on where.
 
-For a pre-theatre meal before a separate show, [our theatre guide](/articles/london-theatre-guide/) has the timings. For a celebration where the room matters more than the entertainment, try [our special occasion restaurants](/articles/special-occasion-restaurants-london/), and for rooms where the building is the show, [London's most unusual restaurants](/articles/unusual-restaurants-london/).
+For a pre-theatre meal before a separate show, [our theatre guide](/articles/london-theatre-guide/) has the timings. For a celebration where the room counts for more than the entertainment, try [our special occasion restaurants](/articles/special-occasion-restaurants-london/), and for rooms where the building is the show, [London's most unusual restaurants](/articles/unusual-restaurants-london/).
 
 ---
 

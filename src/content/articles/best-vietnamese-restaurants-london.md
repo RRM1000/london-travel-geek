@@ -24,16 +24,16 @@ faq:
   - q: "What is the difference between northern and southern Vietnamese food?"
     a: "Enough to change what you order, and London's restaurants split along it. Northern cooking is cleaner and more restrained — Phở Thúy Tây's chef patron serves her Hanoi family's beef phở and pointedly does not put hoisin sauce or Thai basil in it. Southern cooking, which is what most of Kingsland Road serves, is sweeter and herbier. Ask which a kitchen does before assuming."
   - q: "Do you need to book a Vietnamese restaurant in London?"
-    a: "Mostly no — this is a walk-in scene, and the queue outside Sông Quê is part of the experience rather than a failure of planning. Check days rather than times: Eat Vietnam's second Evelyn Street site opens Thursdays to Sundays only, and Phở Thúy Tây runs its specials Thursday to Sunday."
+    a: "Mostly no — this is a walk-in scene, and the queue outside Sông Quê is part of the experience, not a failure of planning. Check days rather than times: Eat Vietnam's second Evelyn Street site opens Thursdays to Sundays only, and Phở Thúy Tây runs its specials Thursday to Sunday."
   - q: "Where do Vietnamese Londoners actually eat?"
-    a: "Deptford and Rotherhithe as much as Shoreditch. Eat Vietnam on Evelyn Street says 60% of its customers are Vietnamese and its chefs live locally; Phở Thúy Tây reports the same. Both are named by Thuy Hoang, a British-Vietnamese cook who is the only source in this pass to treat regional origin as the point rather than a detail."
+    a: "Deptford and Rotherhithe as much as Shoreditch. Eat Vietnam on Evelyn Street says 60% of its customers are Vietnamese and its chefs live locally; Phở Thúy Tây reports the same. Both are named by Thuy Hoang, a British-Vietnamese cook who is the only source in this pass to treat regional origin as the point, not a detail."
 ---
 
 There is a stretch of Kingsland Road that London has called the Pho Mile for twenty years, and every guide to Vietnamese food in the city starts there.
 
-The evidence says it is still where the most-recommended restaurants are — and also that it is no longer where the interesting arguments are happening. **The one judged award went to Peckham. One of the most respected rooms is out at Surrey Quays. And the bánh mì people argue about comes from a bakery on the Mile itself rather than from any of its institutions.**
+The evidence says it is still where the most-recommended restaurants are — and also that it is no longer where the interesting arguments are happening. **The one judged award went to Peckham. One of the most respected rooms is out at Surrey Quays. And the bánh mì people argue about comes from a bakery on the Mile itself, not from any of its institutions.**
 
-> 💡 **The Short Version:** **Sông Quê Café** on Kingsland Road is named by eight sources, more than anything else. **Lai Rai** in Peckham has the only Michelin Bib Gourmand. **Phở Thúy Tây** near Surrey Quays is the specialist's phở. **Kêu** for bánh mì choice, **Bánh** for the one critics pick. Northern and southern cooking are genuinely different — ask which a kitchen does.
+> 💡 **The Short Version:** **Sông Quê Café** on Kingsland Road is named by eight sources, more than anything else. **Lai Rai** in Peckham has the only Michelin Bib Gourmand. **Phở Thúy Tây** near Surrey Quays is the specialist's phở. **Kêu** for bánh mì choice, **Bánh** for the one critics pick. Northern and southern cooking are different — ask which a kitchen does.
 
 > 📊 **The evidence behind this guide.**
 > Nothing here rests on one visit. This pass reads **13 independent sources carrying 88 citations** across **48 named venues**. **19 are named by two or more sources; one carries a dated award.**
@@ -87,7 +87,7 @@ Eight sources name it, including both YouTube channels in this pass and Thuy Hoa
 
 *A seafood noodle soup at Việt Grill.*
 
-From **Hiếu Nguyễn**, who is also behind Cây Tre in Soho and the Kêu bánh mì shops — so three of the names on this page come from one operator, which is worth knowing before you treat them as independent recommendations.
+From **Hiếu Nguyễn**, who is also behind Cây Tre in Soho and the Kêu bánh mì shops — so three of the names on this page come from one operator, so they are not independent recommendations.
 
 The order is the **Hanoi-style steamed rice rolls (bánh cuốn)**: soft, with a warm dipping sauce made from meat broth and fish sauce rather than the cold nước chấm most places serve. It is the dish the restaurant's Vietnamese regulars come for, and the room is the most designed on the strip.
 
@@ -95,7 +95,7 @@ The order is the **Hanoi-style steamed rice rolls (bánh cuốn)**: soft, with a
 
 *£ · Kingsland Road and Lavender Hill, Battersea · Cited by 4 sources*
 
-Specialises in **south-western Vietnamese** food rather than the general menu the strip mostly serves, and became popular enough that it **expanded into the building next door** — the Kingsland Road room now runs across 106 and 108 — before opening the Battersea site. That is the clearest evidence of demand on this page.
+Specialises in **south-western Vietnamese** food, not the general menu the strip mostly serves, and became popular enough that it **expanded into the building next door** — the Kingsland Road room now runs across 106 and 108 — before opening the Battersea site. That is the clearest evidence of demand on this page.
 
 The family are from the Mekong Delta and the menu follows the river: the **Mekong catfish clay pot, £12**, is braised in caramelised palm sugar with shallots and black pepper, and the **chargrilled goat bún chả at £15** is a dish almost nothing else on the strip serves. Lemongrass quail is £9. Chef Su Tran cooks, Mrs My Le runs the room, and each site is managed by a different member of the family. **Bookings are by phone**: 020 7739 3841.
 
@@ -131,7 +131,7 @@ It is barely covered by the London lists, which is the interesting part: the jud
 
 Chef patron **Thúy Nguyễn's parents ran a phở stand in Hanoi**, and she opened here in 2014 out of dissatisfaction with how Vietnamese food was being cooked in Britain. The room is café-style and unpretentious; most of the customers are Vietnamese.
 
-**The beef phở takes around twenty hours**, and she makes her own chilli sauce for it — declining the southern practice of adding hoisin and Thai basil to the bowl, which is a genuine argument rather than a quirk. The menu runs past the familiar into eel, frog's legs and a crab and shrimp-paste vermicelli soup with a snail patty (*bún riêu cua chả ốc*) that almost nothing in Britain serves.
+**The beef phở takes around twenty hours**, and she makes her own chilli sauce for it — declining the southern practice of adding hoisin and Thai basil to the bowl, which is a genuine argument, not a quirk. The menu runs past the familiar into eel, frog's legs and a crab and shrimp-paste vermicelli soup with a snail patty (*bún riêu cua chả ốc*) that almost nothing in Britain serves.
 
 **Thursday to Sunday she cooks specials** from whatever she has sourced that week.
 
@@ -149,7 +149,7 @@ Order the **quails marinated in lemongrass** off the charcoal, and the *bánh kh
 
 *££ · 22 Drury Lane, WC2B 5RH · Cited by 3 sources*
 
-Chef patron **Bình Nguyễn left Hanoi at fourteen** to work in Hong Kong kitchens, became expert in both cuisines, and came to Britain in the 1990s to help other Vietnamese families start restaurants. His own kitchen fuses the two deliberately rather than by accident.
+Chef patron **Bình Nguyễn left Hanoi at fourteen** to work in Hong Kong kitchens, became expert in both cuisines, and came to Britain in the 1990s to help other Vietnamese families start restaurants. His own kitchen fuses the two deliberately.
 
 The **Lạng Sơn roast duck**, spiced with *hạt*, is the dish he travels to Vietnam looking for ideas for. There is a fresh papaya salad with beef jerky (*gỏi đu đủ bò khô*) as well. It is the most central serious Vietnamese room in London, and it would sit just as comfortably in our [Chinese and East Asian guide](/articles/best-chinese-east-asian-restaurants-london/).
 
@@ -169,7 +169,7 @@ One room on Mare Street, which the family will close off entirely for a private 
 
 The searches settle this: **phở and bánh mì each return a full page of dedicated guides from serious publishers**, and no publication anywhere writes a guide to northern Vietnamese London. So the useful division is what you are eating, with region carried per restaurant.
 
-**Phở.** Phở Thúy Tây for the northern, twenty-hour version. Kingsland Road for the general one — the Mile got its nickname honestly.
+**Phở.** Phở Thúy Tây for the northern, twenty-hour version. Kingsland Road for the general one — the Mile has earned its nickname.
 
 **Bánh mì.** **Kêu** has the range: crispy pork belly, kimchi roast chicken, roast duck, and an "original" built on mortadella, across central and east London. **Bánh** on Kingsland Road is the critics' pick and Time Out's outright choice for the sandwich.
 
@@ -185,7 +185,7 @@ The searches settle this: **phở and bánh mì each return a full page of dedic
 
 ## What to know
 
-**Ask whether the kitchen cooks northern or southern.** It is the single most useful question on this page and almost no guide prints it. Northern is cleaner and more restrained; southern is sweeter and herbier, and it is what most of Kingsland Road serves. One chef here refuses to put hoisin in her phở on those grounds.
+**Ask whether the kitchen cooks northern or southern.** It is the most useful question on this page and almost no guide prints it. Northern is cleaner and more restrained; southern is sweeter and herbier, and it is what most of Kingsland Road serves. One chef here refuses to put hoisin in her phở on those grounds.
 
 **Check days, not times.** Eat Vietnam's second Evelyn Street site opens Thursdays to Sundays only, and Phở Thúy Tây's specials run Thursday to Sunday. Both are easy to miss on a Monday.
 

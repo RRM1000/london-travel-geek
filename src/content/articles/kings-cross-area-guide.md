@@ -92,10 +92,10 @@ King's Cross has its own share of the commemorative plaques marking where notabl
 *Coal Drops Yard's kissing-roof.*
 2. **The British Library Treasures Gallery** — Magna Carta, the Lindisfarne Gospels, Leonardo's notebook, Handel's Messiah in his own hand, and Beatles lyrics scribbled on envelopes. Free, and one of the great rooms in London.
 3. **Granary Square** — 1,000 choreographed fountains in front of Central Saint Martins. Children play in them all summer; the steps down to the canal are the best sitting spot in the area.
-4. **Platform 9¾** — The trolley in the wall at King's Cross station, in the western concourse rather than on a platform. Free to queue, paid for the photo.
+4. **Platform 9¾** — The trolley in the wall at King's Cross station, in the western concourse, not on a platform. Free to queue, paid for the photo.
 5. **The Regent's Canal towpath** — West to Camden in 30 minutes, past St Pancras Lock and the Camley Street nature reserve.
 6. **St Pancras station** — George Gilbert Scott's Gothic hotel frontage and Barlow's iron trainshed, saved from demolition by John Betjeman, whose statue stands on the upper concourse.
-7. **Camley Street Natural Park** — Two acres of wetland between the canal and the railway. Free, and genuinely a surprise.
+7. **Camley Street Natural Park** — Two acres of wetland between the canal and the railway. Free, and a surprise.
 
 ## Key streets and micro-districts
 
@@ -107,7 +107,7 @@ King's Cross has its own share of the commemorative plaques marking where notabl
 
 The centre of the redevelopment, and the part worth walking even if you buy nothing. **Granary Square has more than a thousand choreographed fountains** set flush into the paving, free, lit at night and switched off in winter — children run through them all summer and nobody minds.
 
-**The granary building itself is Central Saint Martins**, an art school rather than a shop, so the ground floor is open and the crowd is students.
+**The granary building itself is Central Saint Martins**, an art school, not a shop, so the ground floor is open and the crowd is students.
 
 **Coal Drops Yard** is the shopping half, in Victorian arches built in the 1850s to drop coal from rail wagons into carts below, with Thomas Heatherwick's two roofs kissing in the middle. Free to walk through.
 
@@ -127,7 +127,7 @@ In December Crafty Fox brings its Christmas maker market to Granary Square, on 6
 
 ### The two stations
 
-**King's Cross for the north of England and Scotland; St Pancras for Eurostar, Thameslink and the East Midlands.** They are two minutes apart, they look nothing alike, and confusing them is the single most expensive mistake you can make here — leave margin if you are changing between them.
+**King's Cross for the north of England and Scotland; St Pancras for Eurostar, Thameslink and the East Midlands.** They are two minutes apart, they look nothing alike, and confusing them is the most expensive mistake you can make here — leave margin if you are changing between them.
 
 **St Pancras is the beautiful one.** Barlow's 1868 train shed was the largest single-span structure in the world when it opened, and the Gothic hotel frontage on Euston Road is a separate building bolted to the front of it. Both are free to walk into.
 
@@ -178,7 +178,7 @@ It is small enough to walk in twenty minutes and there is a visitor centre and c
 
 North of the stations, and ordinary working London the moment you cross the canal — kebab shops, hardware stores and buses, with none of the redevelopment money that stopped at Granary Square.
 
-**Keystone Crescent is the reason to walk up.** A tiny double crescent of 1840s terraces, reputedly **the tightest radius of any terrace crescent in Europe**, tucked off the main road and easy to walk straight past. It is a residential street with nothing to buy and no marker.
+**Walk up for Keystone Crescent.** A tiny double crescent of 1840s terraces, reputedly **the tightest radius of any terrace crescent in Europe**, tucked off the main road and easy to walk straight past. It is a residential street with nothing to buy and no marker.
 
 **Free, always open, and it takes five minutes.** Combine it with the walk to Camden along the canal rather than making a trip of it on its own — Caledonian Road station is about eight minutes further north if you would rather not walk back.
 
@@ -186,7 +186,7 @@ North of the stations, and ordinary working London the moment you cross the cana
 
 West of the stations, between Euston Road and Camden, and a quiet residential pocket most visitors never enter.
 
-**The British Library is free and it is the reason to come.** The **Treasures gallery** holds Magna Carta, Leonardo's notebook, Shakespeare's First Folio, Handel's *Messiah* in his own hand and the Beatles' lyrics on the back of envelopes — no ticket, no booking, and it takes an hour. The reading rooms need a reader's pass; the Treasures gallery does not.
+**Come for the British Library, which is free.** The **Treasures gallery** holds Magna Carta, Leonardo's notebook, Shakespeare's First Folio, Handel's *Messiah* in his own hand and the Beatles' lyrics on the back of envelopes — no ticket, no booking, and it takes an hour. The reading rooms need a reader's pass; the Treasures gallery does not.
 
 **Its piazza is one of the better free places to sit** in this part of London, with Paolozzi's huge bronze Newton at the centre.
 

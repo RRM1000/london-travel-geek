@@ -49,17 +49,17 @@ Every ticket is for a specific day and time slot — HYPER JAPAN doesn't sell a 
 | **Children 10 and under** | Free | Up to three per full-price adult ticket, but still needs reserving |
 | **Carer ticket** | Free | Alongside a full-price adult ticket, with proof of disability (PIP, DLA, Blue Badge or Access Card) |
 
-Workshops and meet-and-greets sit on top of a day ticket rather than replacing one: the Awaodori dance workshop ran £17.81 and Japanese mask-making £38.16 in 2026, each bookable only alongside an entry ticket for the same date, and the smaller sessions (mask-making in particular) sold out days ahead. A day ticket also does not include re-entry by default — leave the hall and you queue again at the main entrance, wristband in hand.
+Workshops and meet-and-greets sit on top of a day ticket, not replacing one: the Awaodori dance workshop ran £17.81 and Japanese mask-making £38.16 in 2026, each bookable only alongside an entry ticket for the same date, and the smaller sessions (mask-making in particular) sold out days ahead. A day ticket also does not include re-entry by default — leave the hall and you queue again at the main entrance, wristband in hand.
 
 ## Which day to pick
 
-**Friday is the one to book if you want space to look at the market properly.** It's the only weekday of the three, it runs just eight hours against Saturday's ten, and HYPER JAPAN prices it a third cheaper than Saturday — a fair signal of where the organiser expects the smaller crowd. Friday's stage still runs a full programme (rock band The Sixth Lie, taiko soloist Takuya Taniguchi and singer-songwriter UPIKO among 2026's line-up), just without the Saturday-only Cosplay Masquerade or the acts scheduled for the busiest slots.
+**Friday is the one to book if you want space to look at the market.** It's the only weekday of the three, it runs just eight hours against Saturday's ten, and HYPER JAPAN prices it a third cheaper than Saturday — a fair signal of where the organiser expects the smaller crowd. Friday's stage still runs a full programme (rock band The Sixth Lie, taiko soloist Takuya Taniguchi and singer-songwriter UPIKO among 2026's line-up), just without the Saturday-only Cosplay Masquerade or the acts scheduled for the busiest slots.
 
 **Saturday is the one to avoid if you dislike queuing.** It's the longest day, it's priced highest, and it carries the Cosplay Masquerade, the headline anisong sets and the day most families attend. HYPER JAPAN's own advice for busy periods is to arrive early for anything you don't want to miss, since popular shows can hit capacity and hold visitors at the door until space frees up.
 
 ## What's inside: the market
 
-The market runs food, drink and craft stalls rather than one themed "street" — HYPER JAPAN dropped its dedicated Sake Experience area for 2026, but sake was still poured everywhere: **KANPAI**, the UK's first sake brewery, alongside umeshu and sake specifically imported from four producers in Wakayama Prefecture, plus Suntory Toki whisky and Ozeki and MIO sparkling sake on the drinks side. On the food side, **Dragonfly Foods** brought UK-handmade organic tofu, **Kewpie** its mayonnaise, and **Japan Centre** — the Panton Street shop that's also the best walk-in Japanese food counter in the West End, covered in our [Japanese restaurants guide](/articles/best-japanese-restaurants-london/) — ran its own stall alongside importers like Taste of Japan and Unisnacks.
+The market runs food, drink and craft stalls, not one themed "street" — HYPER JAPAN dropped its dedicated Sake Experience area for 2026, but sake was still poured everywhere: **KANPAI**, the UK's first sake brewery, alongside umeshu and sake specifically imported from four producers in Wakayama Prefecture, plus Suntory Toki whisky and Ozeki and MIO sparkling sake on the drinks side. On the food side, **Dragonfly Foods** brought UK-handmade organic tofu, **Kewpie** its mayonnaise, and **Japan Centre** — the Panton Street shop that's also the best walk-in Japanese food counter in the West End, covered in our [Japanese restaurants guide](/articles/best-japanese-restaurants-london/) — ran its own stall alongside importers like Taste of Japan and Unisnacks.
 
 ![An aerial view of Olympia's Grand Hall packed with HYPER JAPAN Festival market stalls under the glass roof, with the event's banner hanging above the crowd](../../assets/articles/hyper-japan-london/market-crafts-manga.jpg)
 
@@ -83,7 +83,7 @@ Staff can search bags and props on entry, and the organiser reserves the right t
 
 ## The stage: what it actually sounds like
 
-HYPER JAPAN's stage moves between genres inside a single hour rather than sticking to one: 2026 ran J-rock bands (**The Sixth Lie**, **QUEEN BEE**, **Re:O**), anisong vocalists (**Eir Aoi**, known for theme songs across the anime charts), idol acts (**UPIKO**, **Sacred Fleramo**), a viral dance troupe (**avantgardey**), and traditional performance sitting right alongside it — **Gagaku** court music, **Awa Odori** festival dance, a **Shorinji Kempo** martial arts demonstration and taiko soloist Takuya Taniguchi. Sunday closed with the **Hyper Fashion Show**, and Sunday afternoon also carried a voice actor conversation with **Chiaki Kobayashi** (Frieren, Hell's Paradise). None of it needs an add-on ticket — the stage programme is included in day entry, only the smaller hands-on workshops cost extra.
+HYPER JAPAN's stage moves between genres inside a single hour, not sticking to one: 2026 ran J-rock bands (**The Sixth Lie**, **QUEEN BEE**, **Re:O**), anisong vocalists (**Eir Aoi**, known for theme songs across the anime charts), idol acts (**UPIKO**, **Sacred Fleramo**), a viral dance troupe (**avantgardey**), and traditional performance sitting right alongside it — **Gagaku** court music, **Awa Odori** festival dance, a **Shorinji Kempo** martial arts demonstration and taiko soloist Takuya Taniguchi. Sunday closed with the **Hyper Fashion Show**, and Sunday afternoon also carried a voice actor conversation with **Chiaki Kobayashi** (Frieren, Hell's Paradise). None of it needs an add-on ticket — the stage programme is included in day entry, only the smaller hands-on workshops cost extra.
 
 ## Getting to Olympia
 
@@ -96,20 +96,20 @@ HYPER JAPAN's stage moves between genres inside a single hour rather than sticki
 - **The District line** only runs a direct shuttle to Kensington (Olympia) from Earl's Court at weekends and on public holidays, plus occasionally when Olympia has an event on — so it's likely to run across the Saturday and Sunday sessions, but check TfL before relying on it for the Friday session, since a weekday shuttle isn't guaranteed. On a weekday, change at **West Brompton** from the District line onto the Overground instead.
 - **Parking** has to be pre-booked through the venue, ideally more than 24 hours ahead, with cost depending on length of stay.
 
-Olympia is step-free, with lifts to the accessible entrance, which shares the main entrance rather than a separate route.
+Olympia is step-free, with lifts to the accessible entrance, which shares the main entrance, not a separate route.
 
 ## Where to stay
 
-For the shortest walk, **[Hyatt Regency London Olympia](hotel:hyatt-regency-london-olympia)** sits inside the redeveloped Olympia site itself, about a minute from the station, at roughly £220 a night. For less money, **[Premier Inn London Kensington (Olympia)](hotelscom:h12195)** on West Cromwell Road has air conditioning in every room and is a short walk from Earl's Court station. Our [where to stay in Kensington guide](/articles/where-to-stay-kensington/) covers both in full, along with cheaper options in Earl's Court, and our [Kensington area guide](/articles/kensington-area-guide/) covers the neighbourhood itself — Holland Park's Kyoto Garden is a genuinely fitting stop either side of the festival.
+For the shortest walk, **[Hyatt Regency London Olympia](hotel:hyatt-regency-london-olympia)** sits inside the redeveloped Olympia site itself, about a minute from the station, at roughly £220 a night. For less money, **[Premier Inn London Kensington (Olympia)](hotelscom:h12195)** on West Cromwell Road has air conditioning in every room and is a short walk from Earl's Court station. Our [where to stay in Kensington guide](/articles/where-to-stay-kensington/) covers both in full, along with cheaper options in Earl's Court, and our [Kensington area guide](/articles/kensington-area-guide/) covers the neighbourhood itself — Holland Park's Kyoto Garden is a fitting stop either side of the festival.
 
 ## Other anime and J-culture events in London
 
-HYPER JAPAN isn't the only date worth knowing if this is your calendar:
+HYPER JAPAN isn't the only date on this calendar:
 
 - **AnimeCon London**, 3–4 October 2026, also at Olympia, from £25 — a two-day anime and manga convention with a Cosplay Catwalk, Artist Alley and voice actor guests including Justin Briner and Jason Liebrecht.
 - **[MCM Comic Con London](/articles/mcm-comic-con-london/)**, 23–25 October 2026 at ExCeL — the UK's biggest pop culture convention, wider than anime alone, spanning comics, gaming and film and TV guests.
 
-Our [exhibitions and conventions calendar](/articles/exhibitions-conventions-london/) tracks these and the rest of London's convention year in one place. Olympia's Grand Hall doesn't stand empty between them, either — **[The Ideal Home Show](/articles/ideal-home-show-london/)** takes over the same halls 2–11 April 2027, which is worth knowing since it's the same station and the same nearby hotels covered on this page.
+Our [exhibitions and conventions calendar](/articles/exhibitions-conventions-london/) tracks these and the rest of London's convention year in one place. Olympia's Grand Hall doesn't stand empty between them, either — **[The Ideal Home Show](/articles/ideal-home-show-london/)** takes over the same halls 2–11 April 2027, at the same station and the same nearby hotels covered on this page.
 
 ## 2027 dates and a winter edition
 

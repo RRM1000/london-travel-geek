@@ -56,15 +56,15 @@ area:
       note: "Across the Heath on foot for Highgate Cemetery and another village high street."
 faq:
   - q: "Can you swim in the Hampstead Heath ponds?"
-    a: "Yes. There are three: the Men's Pond, the Ladies' Pond and the Mixed Pond. The Men's and Ladies' ponds are open year-round, including winter; the Mixed Pond opens April to October only. All are lifeguarded. A swim costs £5, or £3 for concessions and under-16s, and in summer the Mixed Pond in particular can reach capacity by late morning. The water is natural, unheated and genuinely cold — around 4°C in winter."
+    a: "Yes. There are three: the Men's Pond, the Ladies' Pond and the Mixed Pond. The Men's and Ladies' ponds are open year-round, including winter; the Mixed Pond opens April to October only. All are lifeguarded. A swim costs £5, or £3 for concessions and under-16s, and in summer the Mixed Pond in particular can reach capacity by late morning. The water is natural, unheated and cold — around 4°C in winter."
   - q: "Is Kenwood House free?"
     a: "Yes. The house and its art collection are free to enter, as are the grounds. The collection includes a Rembrandt self-portrait, a Vermeer, Gainsboroughs and a Turner — an extraordinary set for a free house on the edge of a park. It is run by English Heritage and opens every day except 24–26 December: the house from 10am, closing at 5pm in summer and 4pm in winter."
   - q: "What is the view from Parliament Hill?"
     a: "A protected panorama south across the whole of London — the City cluster, the Shard, St Paul's, the Eye. It is one of a small number of legally protected sightlines in London, meaning buildings cannot be put up to block it. The hill is a short but real climb from the south side of the Heath."
   - q: "How big is Hampstead Heath?"
-    a: "About 800 acres — roughly three times Hyde Park — and much of it is deliberately left semi-wild rather than landscaped. It contains woodland, meadows, 25 ponds, a lido and Kenwood House. It is easy to get genuinely lost in, and that is much of the appeal."
+    a: "About 800 acres — roughly three times Hyde Park — and much of it is deliberately left semi-wild rather than landscaped. It contains woodland, meadows, 25 ponds, a lido and Kenwood House. It is easy to get lost in, and that is much of the appeal."
   - q: "Which station should I use for Hampstead Heath?"
-    a: "Depends where you are going. **Hampstead Heath** on the Overground puts you at the south-east corner, closest to Parliament Hill and the swimming ponds. **Hampstead** on the Northern line puts you in the village, on the west side. Hampstead is also the deepest station on the Underground at 58.5 metres, with lifts rather than escalators — allow time."
+    a: "Depends where you are going. **Hampstead Heath** on the Overground puts you at the south-east corner, closest to Parliament Hill and the swimming ponds. **Hampstead** on the Northern line puts you in the village, on the west side. Hampstead is also the deepest station on the Underground at 58.5 metres, with lifts, not escalators — allow time."
 heroImage: ../../assets/articles/hampstead-area-guide/hampstead-london-united-kingdom-unsplash.jpg
 heroImageAlt: "A quiet Hampstead lane of brick walls and gas lamps"
 heroImageCredit: "Eduard Militaru eduardmilitaru"
@@ -83,14 +83,14 @@ Hampstead has its own share of the commemorative plaques marking where notable p
 
 **Come here if** you want a day outdoors that still feels like London. The Heath is the best walking in the city, Parliament Hill has a legally protected view over the whole skyline, and Kenwood House at the top is free and holds a Rembrandt and a Vermeer.
 
-**Skip it if** you have three days in London. Hampstead is Zone 2–3 and takes most of a day to do properly. It is also genuinely hilly — the walkability rating here is lower than anywhere else in this guide for a reason.
+**Skip it if** you have three days in London. Hampstead is Zone 2–3 and takes most of a day. It is also hilly — the walkability rating here is lower than anywhere else in this guide for a reason.
 
 ## Top sights and activities
 
 1. **Hampstead Heath** — 800 acres of woodland, meadow and pond, deliberately left semi-wild. Easy to get lost in.
 2. **Parliament Hill** — The protected view south over the City, the Shard and St Paul's. A short but real climb.
 3. **Kenwood House** — Free. A Robert Adam interior and a collection including a **Rembrandt self-portrait**, a **Vermeer**, Gainsboroughs and a Turner. The grounds run down to a lake.
-4. **The bathing ponds** — Men's, Ladies' and Mixed, all lifeguarded. The Men's and Ladies' open year-round, the Mixed Pond April to October. £5 a swim. Unheated and properly cold in winter.
+4. **The bathing ponds** — Men's, Ladies' and Mixed, all lifeguarded. The Men's and Ladies' open year-round, the Mixed Pond April to October. £5 a swim. Unheated and cold in winter.
 5. **Hampstead village** — Georgian lanes off the high street: Flask Walk, Well Walk, Church Row. Narrow, quiet and largely unchanged.
 6. **The Spaniards Inn** — A 1585 coaching inn on the Heath's northern edge, associated with Dick Turpin and mentioned in *Dracula*. Big garden.
 7. **Keats House** — The Hampstead villa where Keats wrote *Ode to a Nightingale*. Small, ticketed and quiet.
@@ -102,7 +102,7 @@ Hampstead has its own share of the commemorative plaques marking where notable p
 ## Key streets and micro-districts
 
 ### Hampstead village and the high street
-Around the Northern line station, and genuinely village-like in a way almost nowhere else this close to central London manages — independent shops, cafés and bookshops rather than chains, on streets that predate the grid.
+Around the Northern line station, and village-like in a way almost nowhere else this close to central London manages — independent shops, cafés and bookshops, not chains, on streets that predate the grid.
 
 **Hampstead is the deepest station on the Underground**, 58 metres down, with the longest lift shaft on the network. Take the lift; the 320-step emergency staircase is not a shortcut.
 
@@ -113,7 +113,7 @@ Narrow Georgian passages running east off the high street, and the prettiest sho
 
 The names are literal: **Hampstead was a spa town**, and these streets are where the chalybeate well water was bottled and sold in flasks. The **Flask** pub is still at the top.
 
-**Two minutes end to end**, and the natural route from the station down towards the Heath rather than taking the main road.
+**Two minutes end to end**, and the natural route from the station down towards the Heath, not taking the main road.
 
 ### Parliament Hill and the south Heath
 The south-east corner, and the part of the Heath most people mean. **The view from the top is one of London's protected vistas** — St Paul's and the City are legally guaranteed to stay visible, so nothing can be built into it.
@@ -134,7 +134,7 @@ A single street of unbroken early-Georgian terrace, generally reckoned the fines
 
 **St John-at-Hampstead** stands at the western end, and its churchyard holds John Constable, among others.
 
-**It takes five minutes and costs nothing**, and it is a minute from the high street — the single best thing to do in Hampstead if you only have a short time and do not want the Heath.
+**It takes five minutes and costs nothing**, and it is a minute from the high street — the best thing to do in Hampstead if you only have a short time and do not want the Heath.
 
 ![An ivy-covered brick terrace on a quiet Hampstead street, with parked cars and a hedge-lined pavement](../../assets/articles/hampstead-area-guide/hampstead-ivy-street.jpg)
 
@@ -197,7 +197,7 @@ A genuine hamlet marooned inside the Heath itself, near North End — a handful 
 
 **Best time:** A clear morning, for the view. Autumn for the colour across the Heath.
 
-**Note:** The Heath is unlit and genuinely dark after sunset. Plan to be off it by dusk.
+**Note:** The Heath is unlit and dark after sunset. Plan to be off it by dusk.
 
 <div data-stay-strip></div>
 

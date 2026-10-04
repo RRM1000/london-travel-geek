@@ -100,7 +100,7 @@ Film London's 8 September 2026 roundup had series five filming in Greenwich. Cre
 ![Ranger's House in Greenwich Park, a red-brick Georgian villa seen through its wrought-iron entrance gates](../../assets/articles/bridgerton-london/rangers-house-greenwich.jpg)
 *Ranger's House, Greenwich Park.*
 
-**Chesterfield Walk, Blackheath, London, SE10 8QX**, inside Greenwich Park. The exterior and the grounds cost nothing — the **rose garden behind the house**, part of Greenwich Park itself, is free and at its best in June. The house interior is a different matter: English Heritage opens it on **select dates only**, booked online in advance, in Standard, Saver and Super Saver ticket tiers rather than a flat walk-up price. Members go free. As of 15 September 2026, the upper floors are not accessible to visitors with limited mobility — there is no interior lift and the exterior wheelchair platform is out of service.
+**Chesterfield Walk, Blackheath, London, SE10 8QX**, inside Greenwich Park. The exterior and the grounds cost nothing — the **rose garden behind the house**, part of Greenwich Park itself, is free and at its best in June. The house interior is different: English Heritage opens it on **select dates only**, booked online in advance, in Standard, Saver and Super Saver ticket tiers, not a flat walk-up price. Members go free. As of 15 September 2026, the upper floors are not accessible to visitors with limited mobility — there is no interior lift and the exterior wheelchair platform is out of service.
 
 <div data-stay-strip></div>
 
@@ -147,7 +147,7 @@ Pricing until 27 November 2026: **adult £29.00 off-peak (weekdays) / £32.00 pe
 ![Lancaster House on Stable Yard, St James's, a cream stone mansion with a giant columned portico](../../assets/articles/bridgerton-london/lancaster-house-stable-yard.jpg)
 *Lancaster House, St James's.*
 
-**The Reform Club**, 104 Pall Mall, SW1Y 5EW, is where Anthony Bridgerton and Simon Basset meet in series one — a genuine private members' club founded in 1836, still operating as one, with dining and event rooms rather than a public tour. Look at the facade on Pall Mall; membership, or a member's invitation, is the only way in. Our [members' clubs guide](/articles/private-members-clubs-london/) covers the Reform's dress code and the other St James's clubs.
+**The Reform Club**, 104 Pall Mall, SW1Y 5EW, is where Anthony Bridgerton and Simon Basset meet in series one — a genuine private members' club founded in 1836, still operating as one, with dining and event rooms, not a public tour. Look at the facade on Pall Mall; membership, or a member's invitation, is the only way in. Our [members' clubs guide](/articles/private-members-clubs-london/) covers the Reform's dress code and the other St James's clubs.
 
 ### The rest, briefly
 
@@ -208,7 +208,7 @@ An 18th-century landscape garden of follies, a Gothic Temple and a Crystal Grott
 
 Castle Howard's own website states that the house **"doubled as Clyvedon Castle, the Duke of Hastings' home that he shares with his new wife Daphne."** Its holiday cottages sit in the real village of **Coneysthorpe**, used on screen as Clyvedon village.
 
-**House and Gardens tickets run 20 March to 31 October.** Checked 15 September 2026: grounds 10am–5pm (last entry 4pm), house 10am–4pm (last entry 3pm), a self-guided visit of 40 to 60 minutes. This is the one entry on this page that is a genuine expedition rather than a day trip in the London sense — budget at least two hours each way on the train to York, plus a bus or taxi on to the house, making it a very long single day or better as an overnight. Worth it only if Castle Howard itself, not just the Bridgerton connection, is the draw.
+**House and Gardens tickets run 20 March to 31 October.** Checked 15 September 2026: grounds 10am–5pm (last entry 4pm), house 10am–4pm (last entry 3pm), a self-guided visit of 40 to 60 minutes. This is the one entry on this page that is a genuine expedition rather than a day trip in the London sense — budget at least two hours each way on the train to York, plus a bus or taxi on to the house, making it a very long single day or better as an overnight. Worth it only if you want to see Castle Howard itself, not just the Bridgerton connection.
 
 ### Blenheim Palace, Oxfordshire
 
@@ -223,7 +223,7 @@ Basildon's Georgian rooms and rose garden did double duty: the **Featherington f
 
 ### Claydon House, Buckinghamshire
 
-New for series three: the **wedding breakfast** in episode seven, using a previously unseen room dressed as the Featheringtons' dining room, its existing ornate carvings doing much of the work. **Adult £13.20 (£12.00 without Gift Aid), child £6.00, family £30.00.** Checked 15 September 2026, the house opens **Friday to Monday only**, so it is genuinely closed most weekdays — plan around that rather than around London train times.
+New for series three: the **wedding breakfast** in episode seven, using a previously unseen room dressed as the Featheringtons' dining room, its existing ornate carvings doing much of the work. **Adult £13.20 (£12.00 without Gift Aid), child £6.00, family £30.00.** Checked 15 September 2026, the house opens **Friday to Monday only**, so it is closed most weekdays — plan around that rather than around London train times.
 
 ### Waddesdon Manor, Buckinghamshire
 
@@ -231,7 +231,7 @@ A *Queen Charlotte: A Bridgerton Story* location, run jointly by the Rothschild 
 
 ### Belton House, Lincolnshire
 
-Netflix originally wanted Kew Palace for young King George's residence in *Queen Charlotte* but switched to Belton for its larger rooms. Ten rooms were emptied and protected for filming, the Marble Hall was transformed into the King's bedroom, and the crew planted a real vegetable garden of tomatoes, corn and cabbages for the kitchen scenes, according to the National Trust's own account of the shoot. It is genuinely remote from London — the best part of two and a half hours each way, near Grantham — so this is one for Bridgerton completists rather than a casual day out.
+Netflix originally wanted Kew Palace for young King George's residence in *Queen Charlotte* but switched to Belton for its larger rooms. Ten rooms were emptied and protected for filming, the Marble Hall was transformed into the King's bedroom, and the crew planted a real vegetable garden of tomatoes, corn and cabbages for the kitchen scenes, according to the National Trust's own account of the shoot. It is remote from London — the best part of two and a half hours each way, near Grantham — so this is one for Bridgerton completists, not a casual day out.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bridgerton-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

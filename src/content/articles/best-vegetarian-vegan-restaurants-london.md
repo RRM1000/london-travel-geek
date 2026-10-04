@@ -77,7 +77,7 @@ This one is arranged **by what you are actually paying**, because the range here
 
 In 2025 this became **the first fully vegan restaurant in Britain to win a Michelin star**. Kirk Haworth cooks a tasting menu with his sister Keeley running the room — one open kitchen, polished concrete, floor-to-ceiling windows.
 
-The cooking treats vegetables with fine-dining technique rather than as a substitution exercise, which is the difference between this and almost everything that came before it.
+The cooking treats vegetables with fine-dining technique, not as a substitution exercise, which is the difference between this and almost everything that came before it.
 
 Tables release in batches and go immediately. This is the hardest vegan booking in the country.
 
@@ -91,7 +91,7 @@ Tables release in batches and go immediately. This is the hardest vegan booking 
 
 **Alexis Gauthier turned a classical French restaurant entirely vegan in 2021** — the same townhouse dining room, the same technique, and no animal products at all. Very few kitchens at this level have made that switch, and almost none kept the Michelin recognition through it.
 
-**Tasting menus are the format**, built with classical French method rather than substitution: reductions, emulsions and pastry work done without dairy or eggs. The **"faux gras"** is the dish that gets written about and is a straight technical answer to a technical problem.
+**Tasting menus are the format**, built with classical French method, not substitution: reductions, emulsions and pastry work done without dairy or eggs. The **"faux gras"** is the dish that gets written about and is a straight technical answer to a technical problem.
 
 **££££, closed Sunday and Monday, and it books weeks ahead.** Across several floors of a Soho townhouse, which makes it feel like eating in a private house.
 
@@ -107,7 +107,7 @@ Tables release in batches and go immediately. This is the hardest vegan booking 
 
 *££ · 45 Lexington Street* · Cited by 5 sources
 
-**Open on Lexington Street since 1988**, which makes it the restaurant that made vegetarian food in London **normal rather than worthy** — and it went fully vegan without losing the crowd, which almost nothing else has managed.
+**Open on Lexington Street since 1988**, which makes it the restaurant that made vegetarian food in London **normal, not worthy** — and it went fully vegan without losing the crowd, which almost nothing else has managed.
 
 The menu is drawn from everywhere at once: **gyoza, burritos, mezze, Sri Lankan curry** and a burger, changing constantly. It is not trying to be a health food restaurant and never was.
 
@@ -137,7 +137,7 @@ The signature is the **turmeric milk bread with apricot harissa butter**, which 
 
 **Opened in 1989 in a former artists' studio** and still the most serious vegetarian cooking in west London — with **Indo-Iraqi-Jewish influences from the founding brothers** rather than a generic meat-free menu.
 
-That heritage is the distinguishing thing: the food draws on the family's background in Mumbai and Iraq, so expect **spiced aubergine, tamarind, pomegranate and rose** rather than risotto and halloumi. Long-standing enough that it predates almost everything else on this list.
+That heritage is the distinguishing thing: the food draws on the family's background in Mumbai and Iraq, so expect **spiced aubergine, tamarind, pomegranate and rose**, not risotto and halloumi. Long-standing enough that it predates almost everything else on this list.
 
 **£££ and it books ahead.** Hammersmith is the flagship, in a high-ceilinged studio space; there are sites in Islington and Marylebone.
 
@@ -204,7 +204,7 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 **An all-you-can-eat North Indian vegetarian buffet that has fed Islington on a shoestring for decades**, in a room **papered floor to ceiling with hand-made posters about vegetarianism** — which is unlike anywhere else in this guide.
 
-**The buffet is the whole offer**: a dozen or so curries, rice, dal and breads, refilled as long as you keep going, for a single very low price. The cooking is homely rather than refined and nobody is pretending otherwise.
+**The buffet is the whole offer**: a dozen or so curries, rice, dal and breads, refilled as long as you keep going, for a single very low price. The cooking is homely, not refined, and nobody is pretending otherwise.
 
 **£, walk-in.** Chapel Market. Go hungry; the economics only work if you do.
 
@@ -228,7 +228,7 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 **The London outpost of the Chennai vegetarian chain** — a group that runs hundreds of restaurants worldwide and is the reference point for south Indian vegetarian food in most of them.
 
-**The cheapest way in the West End to eat a properly made masala dosa**: a fermented rice-and-lentil crepe, crisp and nearly a foot across, with spiced potato inside and sambar and chutneys to dip. Idli, vada and thalis alongside.
+**The cheapest way in the West End to eat a masala dosa**: a fermented rice-and-lentil crepe, crisp and nearly a foot across, with spiced potato inside and sambar and chutneys to dip. Idli, vada and thalis alongside.
 
 **£, walk-in.** Leicester Square, and busiest at lunch. Order the dosa and eat it with your hands, which is how it is meant to go.
 
@@ -236,7 +236,7 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 *£ · 4 min from Oxford Circus · walk-in* · Cited by 1 source
 
-**Vada pav — the Mumbai potato-fritter roll — done properly and cheaply**, from a counter rather than a dining room, and one of very few places in London serving it at all.
+**Vada pav — the Mumbai potato-fritter roll — done cheaply**, from a counter, not a dining room, and one of very few places in London serving it at all.
 
 A **vada pav** is a spiced potato fritter in a soft bun with dry garlic chutney: Mumbai's street sandwich, and the whole reason to come. **Pav bhaji** and misal pav alongside, all under a fiver.
 
@@ -246,11 +246,11 @@ A **vada pav** is a spiced potato fritter in a soft bun with dry garlic chutney:
 
 *£ · Borough Market · walk-in*
 
-**Two Indian vegetarian street-food stalls that grew out of London's markets** and now trade as fixtures rather than pop-ups.
+**Two Indian vegetarian street-food stalls that grew out of London's markets** and now trade as fixtures, not pop-ups.
 
 **Horn OK Please** does Mumbai street food — **pav bhaji, dosa and chaat** — named for the slogan painted on Indian lorries. **Gujarati Rasoi** cooks the Gujarati home repertoire from a mother-and-son team: **dhokla, undhiyu and thalis**, with the sweet-sour-spicy balance Gujarat is known for.
 
-**£, walk-in, market hours** — both are lunch rather than dinner, and both close well before evening.
+**£, walk-in, market hours** — both are lunch, not dinner, and both close well before evening.
 
 ![A takeaway tray at Borough Market holding a folded dosa and a portion of chaat topped with sev, pomegranate and red onion](../../assets/articles/best-vegetarian-vegan-restaurants-london/horn-ok.jpg)
 
@@ -262,7 +262,7 @@ A **vada pav** is a spiced potato fritter in a soft bun with dry garlic chutney:
 
 ## Vegan by cuisine
 
-"Vegan" tells you what is absent. These tell you what you are actually eating — and every one of them is a kitchen built around a specific tradition rather than a substitution menu.
+"Vegan" tells you what is absent. These tell you what you are actually eating — and every one of them is a kitchen built around a specific tradition, not a substitution menu.
 
 ### Facing Heaven, Hackney — Sichuan
 
@@ -280,7 +280,7 @@ The signature is **crispy sweet and sour seaweed toast**, and the rest of the me
 
 **Plant-based Caribbean from siblings cooking their grandparents' recipes** — and it won a **2025 award judged against Caribbean kitchens generally rather than vegan ones**.
 
-**Caribbean small plates** are the format: jerk-spiced dishes, dumplings, plantain and curries built on jackfruit and pulses rather than mock meat. The seasoning is the point and it is not moderated.
+**Caribbean small plates** are the format: jerk-spiced dishes, dumplings, plantain and curries built on jackfruit and pulses, not mock meat. The seasoning is not moderated.
 
 **££ and it books ahead.** Islington. The one to bring someone who assumes plant-based Caribbean means a compromised curry.
 
@@ -314,7 +314,7 @@ Both sites are south of the river and the reason to go is that nothing in Zone 1
 
 **Britain's first vegan pizzeria**, and the one that solved the hard part — the cheese.
 
-Purezza makes its own **cashew and rice-milk mozzarella** in-house rather than buying a commercial substitute, which is why the pizza works where most vegan versions do not. The dough is a long-fermented Neapolitan base, and there is a **hemp-flour option**. The **parmigiana pizza**, layered with aubergine, is the one to order.
+Purezza makes its own **cashew and rice-milk mozzarella** in-house and buys no commercial substitute, which is why the pizza works where most vegan versions do not. The dough is a long-fermented Neapolitan base, and there is a **hemp-flour option**. The **parmigiana pizza**, layered with aubergine, is the one to order.
 
 **££, walk-in with bookings taken.** Camden is the London site; the company started in Brighton. Busiest at weekends.
 
@@ -330,7 +330,7 @@ Purezza makes its own **cashew and rice-milk mozzarella** in-house rather than b
 
 *££ · 105 Upper Street · book weeks ahead* · Cited by 7 sources
 
-**Chinese vegan cooking built on tofu rather than mock meat**, and the most-cited vegan restaurant in this guide at seven sources — which for a category this new is remarkable.
+**Chinese vegan cooking built on tofu, not mock meat**, and the most-cited vegan restaurant in this guide at seven sources — which for a category this new is remarkable.
 
 The menu is regional Chinese made without animal products: **mapo tofu**, aubergine in garlic sauce, cumin-spiced "lamb" from seitan, and shredded tofu skin dishes most London Chinese restaurants do not serve at all. The kitchen is not doing substitution so much as leaning on a tradition that already had these dishes.
 
@@ -400,7 +400,7 @@ The menu is American diner food done vegan: **burgers, hot dogs, mac and cheese,
 
 **The Ottolenghi group's fermentation-and-fire room, where vegetables go on the grill and get the treatment meat usually gets** — the clearest statement of what that kitchen has argued for twenty years.
 
-Everything passes through fire or a ferment: **charred cabbage**, koji-aged vegetables, and celeriac shawarma carved off a spit. There is meat on the menu and it is the afterthought rather than the centre. The pickling programme is visible from the room.
+Everything passes through fire or a ferment: **charred cabbage**, koji-aged vegetables, and celeriac shawarma carved off a spit. There is meat on the menu and it is the afterthought, not the centre. The pickling programme is visible from the room.
 
 **£££ and it books weeks ahead.** Not a vegetarian restaurant, and the best argument in London that it does not need to be one.
 
@@ -431,7 +431,7 @@ The cooking is Italian-leaning and vegetable-led, built on produce from the kitc
 ## What to know
 
 * **"Vegan-friendly" and "entirely vegan" are different things.** We have marked which is which above. A restaurant with one vegan main is not the same as a kitchen built around it.
-* **Indian vegetarian food is the best value in London**, and it is not a compromise — south Indian and Gujarati cooking is vegetarian by tradition rather than adaptation.
+* **Indian vegetarian food is the best value in London**, and it is not a compromise — south Indian and Gujarati cooking is vegetarian by tradition, not adaptation.
 * **Drummond Street by Euston** has several vegetarian Indian restaurants within a hundred metres, most of them unlicensed and BYO.
 * **Book Plates months ahead**, and Tofu Vegan a few weeks. Everything else here is walk-in or a few days out.
 * **Service charge** of 12.5% is discretionary and standard, though counters and market stalls generally do not add it.

@@ -65,9 +65,9 @@ That is the useful fact, and no ranking gives it to you. So this guide is arrang
 
 Joint most-cited Turkish restaurant in London, and the one that has moved furthest from the format. The Infatuation calls it a classic Turkish restaurant doing things a bit differently; Time Out describes it as refined but endlessly satisfying. Run by the sons of the family behind Mangal 1 down the road.
 
-The ocakbaşı is still the engine — **lamb chops, adana and quail** off the charcoal — but the kitchen plates it as a restaurant rather than a grill house, with a **mezze** list and seasonal vegetable dishes that would look out of place on Green Lanes. The **lahmacun** is the one dish that reads the same in both worlds.
+The ocakbaşı is still the engine — **lamb chops, adana and quail** off the charcoal — but the kitchen plates it as a restaurant, not a grill house, with a **mezze** list and seasonal vegetable dishes that would look out of place on Green Lanes. The **lahmacun** is the one dish that reads the same in both worlds.
 
-**It takes bookings, which most of this list does not**, and it has a wine licence rather than a BYOB policy. That, and the price, is the difference between an evening here and an evening at the original.
+**It takes bookings, which most of this list does not**, and it has a wine licence, not a BYOB policy. That, and the price, is the difference between an evening here and an evening at the original.
 
 **Not the same restaurant as Mangal 1**, which is a hundred yards away and a completely different night out.
 
@@ -101,11 +101,11 @@ Order the **mixed grill** — it arrives on a platter built for four and feeds s
 
 *£££ · Notting Hill · Cited by 4 sources*
 
-The modern one, and the furthest from the Green Lanes format of anything here. A chestnut-toned room with exposed brick and an **open ocakbaşı grill as the centrepiece** rather than hidden at the back — Turkish cooking rebuilt as a west London restaurant.
+The modern one, and the furthest from the Green Lanes format of anything here. A chestnut-toned room with exposed brick and an **open ocakbaşı grill as the centrepiece**, not hidden at the back — Turkish cooking rebuilt as a west London restaurant.
 
-The grill still does the classics properly: **adana kebab**, lamb chops, and **lamb liver skewers**. Around them the kitchen takes liberties nobody on Green Lanes would — a **white chocolate babaganoush**, pistachio muhammara — and a **spinach and feta pide** that is the thing to order if you want one dish to judge it by.
+The grill still does the classics: **adana kebab**, lamb chops, and **lamb liver skewers**. Around them the kitchen takes liberties nobody on Green Lanes would — a **white chocolate babaganoush**, pistachio muhammara — and a **spinach and feta pide** that is the dish to order if you want one to judge it by.
 
-The Infatuation calls it fun food in a moody dining room. Book at weekends; this is a restaurant rather than a grill house, and it fills.
+The Infatuation calls it fun food in a moody dining room. Book at weekends; this is a restaurant, not a grill house, and it fills.
 
 ### Yeni, Soho
 
@@ -113,9 +113,9 @@ The Infatuation calls it fun food in a moody dining room. Book at weekends; this
 
 The London offshoot of **Yeni Lokanta in Istanbul**, and the reason this guide is not entirely a Green Lanes list. A lapis-blue frontage on Beak Street, exposed brick, pastel green tiled tabletops and open shelves of spice jars — a room designed to be looked at.
 
-Modern Turkish sharing plates rather than grills: the kitchen works from Anatolian technique but plates it as a Soho restaurant, and the menu moves with the season. Along with Zahter, one of only two Turkish restaurants in central London the Michelin Guide has picked up.
+Modern Turkish sharing plates, not grills: the kitchen works from Anatolian technique but plates it as a Soho restaurant, and the menu moves with the season. Along with Zahter, one of only two Turkish restaurants in central London the Michelin Guide has picked up.
 
-**Book.** Small, central, and the antithesis of the walk-in ocakbaşı — this is the one for a night out rather than a plate of grilled meat.
+**Book.** Small, central, and the antithesis of the walk-in ocakbaşı — this is the one for a night out, not a plate of grilled meat.
 
 ---
 
@@ -137,9 +137,9 @@ Nine of the twenty-seven restaurants here are on or just off this one road. If y
 
 *££ · Harringay · Cited by 2 sources*
 
-**Family-run since 2002**, and the name regulars give when pushed past the obvious answers. Time Out calls it an undeniable leader among London's Turkish restaurants — smaller and warmer than Gökyüzü up the road, and the service is the reason people stay loyal.
+**Family-run since 2002**, and the name regulars give when pushed past the obvious answers. Time Out calls it an undeniable leader among London's Turkish restaurants — smaller and warmer than Gökyüzü up the road, and the service keeps people loyal.
 
-The grill is impeccable and the **chicken wings** are what it is quietly famous for, alongside soups that regulars order before anything else. The **gözleme** — a crisp turnover stuffed with cheese and spinach, rolled and griddled to order — is the dish to have if you only have one.
+The grill is impeccable and the **chicken wings** are what it is famous for, alongside soups that regulars order before anything else. The **gözleme** — a crisp turnover stuffed with cheese and spinach, rolled and griddled to order — is the dish to have if you only have one.
 
 Walk-in, all day. Harringay Green Lanes is a few minutes away, and it is calmer at lunch than any of its neighbours.
 
@@ -149,7 +149,7 @@ Walk-in, all day. Harringay Green Lanes is a few minutes away, and it is calmer 
 
 The name translates as "meatball-maker Metin", and that is the menu. **Köfte and very little else** — a specialist rather than a full ocakbaşı, which on a street of enormous grill houses makes it the most focused room on Green Lanes.
 
-The köfte are hand-rolled and grilled to order, served with bread, salad and not much ceremony. It is a counter rather than a dining room; you eat quickly, you eat well, and you leave.
+The köfte are hand-rolled and grilled to order, served with bread, salad and not much ceremony. It is a counter, not a dining room; you eat quickly, you eat well, and you leave.
 
 **One of the cheapest proper meals in this guide** — walk-in, cash-friendly, and about fifteen minutes' walk from Turnpike Lane.
 
@@ -159,7 +159,7 @@ The köfte are hand-rolled and grilled to order, served with bread, salad and no
 
 An all-day and late-night **tantuni house**, serving a dish almost nowhere else in London does: finely chopped beef cooked on a flat iron plate with cottonseed oil, seasoned hard, and rolled into thin flatbread with tomato, onion and parsley. It comes from Mersin on the southern coast.
 
-That is essentially the whole menu, and the point. A counter with a handful of seats rather than a restaurant, with the plate going constantly in the window — the tantuni is assembled in front of you in about ninety seconds.
+That is essentially the whole menu, and the point. A counter with a handful of seats, not a restaurant, with the plate going constantly in the window — the tantuni is assembled in front of you in about ninety seconds.
 
 **Walk-in, cheap, and open late**, which makes it one of the better things to eat in north London after midnight. Twelve minutes from Turnpike Lane.
 
@@ -167,7 +167,7 @@ That is essentially the whole menu, and the point. A counter with a handful of s
 
 *££ · Harringay · Cited by 3 sources*
 
-A reliable all-round ocakbaşı on Grand Parade, named for the Kurdish city in the south-east, and **entirely teetotal** — it trades with the local Turkish and Kurdish community rather than the Friday-night crowd, which is exactly why the cooking stays honest.
+A reliable all-round ocakbaşı on Grand Parade, named for the Kurdish city in the south-east, and **entirely teetotal** — it trades with the local Turkish and Kurdish community rather than the Friday-night crowd, so the cooking is not toned down for outsiders.
 
 The **lamb ribs** and the carefully spiced **adana köfte** are the two to order. Its **lahmacun** is the best argument for coming: charred and blistered outside, an oozing smoky mince mixture in the middle, and eaten by hand. Drink **ayran**, the salted yoghurt drink, as everyone around you will be.
 
@@ -179,7 +179,7 @@ Walk-in, and the one to pick when a group cannot agree — the menu is broad eno
 
 A brightly lit Green Lanes canteen with nothing to look at but the grill, which is the entire point. The Infatuation calls it a grill master on Green Lanes, and both the sources naming it lead on the same thing: the meat, and how well it is cooked.
 
-A shimmering mound of **adana, shish, liver and chops**, each cooked properly rather than uniformly. **Grilled quail** and mounds of blushing **lamb liver** are the house specialities and the things to order over the obvious mixed grill. The free bread and salad that arrive unasked are generous enough to be a course.
+A shimmering mound of **adana, shish, liver and chops**, each cooked to suit the cut, not uniformly. **Grilled quail** and mounds of blushing **lamb liver** are the house specialities and the things to order over the obvious mixed grill. The free bread and salad that arrive unasked are generous enough to be a course.
 
 Loud, walk-in, good for families and groups, and five minutes from Harringay Green Lanes.
 
@@ -211,7 +211,7 @@ Walk-in. Pick this one over Mangal 1 if you want to have a conversation with the
 
 *£ · Newington Green · Cited by 2 sources*
 
-A tiny dedicated **lahmacun and pide shop** at the Newington Green end of Green Lanes, and a *salonu* rather than a restaurant — you eat quickly and cheaply, often standing.
+A tiny dedicated **lahmacun and pide shop** at the Newington Green end of Green Lanes, and a *salonu*, not a restaurant — you eat quickly and cheaply, often standing.
 
 The dough is kneaded fresh and rolled **to a Rizla-like transparency** before it goes into the wood-burning oven, which is what separates a real lahmacun from the leathery supermarket version. Minced lamb, tomato, pepper and parsley on top; you squeeze lemon over it, roll it, and eat it with your hands.
 
@@ -225,7 +225,7 @@ Named after the **number plate code for Adana**, the southern city that gave the
 
 The **adana** is the dish to judge it on: hand-minced lamb, seasoned with red pepper, pressed onto a flat skewer and grilled over charcoal. Chops, shish and liver alongside, with the standard bread and salad.
 
-Walk-in, all day. The space is the argument for it over its neighbours rather than any single dish.
+Walk-in, all day. The space is the argument for it over its neighbours, not any single dish.
 
 ---
 
@@ -247,7 +247,7 @@ The dining room is usually packed with groups cracking open bottles they brought
 
 A no-nonsense ocakbaşı just off Kingsland Road, and one of the three names in the perpetual argument about the best grill in Dalston — Mangal 1 and 19 Numara Bos Cirrik being the other two.
 
-The case for this one is the **lamb ribs**, widely called Dalston's finest: fat rendering over the charcoal, meat pink and coming off the bone. The rest of the grill is straightforwardly good rather than showy.
+The case for this one is the **lamb ribs**, widely called Dalston's finest: fat rendering over the charcoal, meat pink and coming off the bone. The rest of the grill is straightforwardly good, not showy.
 
 Come for the grill and **sit where you can see it** — the ocakbaşı is the room's only real decoration. Walk-in.
 
@@ -261,11 +261,11 @@ Come for the grill and **sit where you can see it** — the ocakbaşı is the ro
 
 *£££ · Soho · Cited by 3 sources*
 
-Just off Carnaby Street, with an **open kitchen you can watch the chefs work in**, and along with Yeni one of only two Turkish restaurants in central London the Michelin Guide has picked up. Modern Anatolian rather than grill-house Turkish.
+Just off Carnaby Street, with an **open kitchen you can watch the chefs work in**, and along with Yeni one of only two Turkish restaurants in central London the Michelin Guide has picked up. Modern Anatolian, not grill-house Turkish.
 
 The **charcoal-grilled octopus** is the signature. Starters run to aubergine with yoghurt, stuffed peppers in tomato sauce and a **muhammara** — the walnut and red pepper paste — and the mains to chicken thighs and whole sea bass off the same coals.
 
-**Book**, particularly at weekends. Central, small, and priced as a Soho restaurant rather than as a kebab house.
+**Book**, particularly at weekends. Central, small, and priced as a Soho restaurant, not as a kebab house.
 
 ### Ishtar, Marylebone
 
@@ -273,7 +273,7 @@ The **charcoal-grilled octopus** is the signature. Starters run to aubergine wit
 
 Named after the Sumero-Babylonian goddess, and the most relaxed of the central options — a long-running Marylebone room built for a table that wants to sit for three hours rather than eat and go.
 
-Modern Anatolian and Mediterranean rather than pure grill house: **hummus**, **kısır** (cracked wheat with finely chopped peppers and spring onion), **patlıcan ezmesi** — the smoky aubergine dip — and **patlıcan soslu**, aubergine sautéed in tomato sauce. Chargrilled meats and fresh fish behind the mezze.
+Modern Anatolian and Mediterranean, not pure grill house: **hummus**, **kısır** (cracked wheat with finely chopped peppers and spring onion), **patlıcan ezmesi** — the smoky aubergine dip — and **patlıcan soslu**, aubergine sautéed in tomato sauce. Chargrilled meats and fresh fish behind the mezze.
 
 **£££, and book a few days ahead** for a weekend table. Five minutes from Baker Street, and one of the few on this page that works for a business lunch.
 
@@ -281,11 +281,11 @@ Modern Anatolian and Mediterranean rather than pure grill house: **hummus**, **k
 
 *££ · Marylebone · Cited by 2 sources*
 
-Sat between Marylebone and Mayfair and **considerably cheaper than its postcode suggests**, which is the whole reason to know about it.
+Sat between Marylebone and Mayfair and **considerably cheaper than its postcode suggests**, which is why it makes this list.
 
-**Pide and lahmacun rather than a full grill menu** — the boat-shaped flatbreads baked to order and topped with cheese, egg or minced lamb, and the thin crisp lahmacun you roll up with lemon and parsley. A short mezze list alongside, and not much else.
+**Pide and lahmacun, not a full grill menu** — the boat-shaped flatbreads baked to order and topped with cheese, egg or minced lamb, and the thin crisp lahmacun you roll up with lemon and parsley. A short mezze list alongside, and not much else.
 
-Counter-ish and quick: this is lunch or an early dinner rather than an evening. Walk-in, and the bill will surprise you for the area.
+Counter-ish and quick: this is lunch or an early dinner, not an evening. Walk-in, and the bill will surprise you for the area.
 
 ### Dükkan, Hoxton
 
@@ -293,9 +293,9 @@ Counter-ish and quick: this is lunch or an early dinner rather than an evening. 
 
 Not a traditional Turkish restaurant, and **open only on certain days — check before travelling.** The most experimental thing in this guide, and closer to a residency than a fixed dining room.
 
-The cooking works from Turkish and Anatolian technique rather than reproducing the ocakbaşı menu: mezze rebuilt with British produce, and a short changing list rather than a standing one. What is on depends on the week.
+The cooking works from Turkish and Anatolian technique rather than reproducing the ocakbaşı menu: mezze rebuilt with British produce, and a short changing list, not a standing one. What is on depends on the week.
 
-**Confirm the opening days before you go.** This is the entry on the page most likely to have changed since it was written, and it is worth a phone call rather than a journey.
+**Confirm the opening days before you go.** This is the entry on the page most likely to have changed since it was written, so phone before you travel.
 
 ### The Mantl, Knightsbridge
 
@@ -317,9 +317,9 @@ Harden's is the only inspected source that covers Turkish food in London, and it
 
 *££ · City of London · Cited by 2 sources · Harden's*
 
-**Chic and contemporary** in Time Out's description, and a small City group rather than one room — several branches including Mincing Lane, Plantation Place and Premier Place, which is why it turns up in so many City lists.
+**Chic and contemporary** in Time Out's description, and a small City group, not one room — several branches including Mincing Lane, Plantation Place and Premier Place, which is why it turns up in so many City lists.
 
-Broad modern Turkish: mezze to start, then **chargrilled kebabs, lamb chops and whole fish** off the grill, with a wine list built for a table of six on expenses. Portions and service are pitched at the lunch-hour rather than the long evening.
+Broad modern Turkish: mezze to start, then **chargrilled kebabs, lamb chops and whole fish** off the grill, with a wine list built for a table of six on expenses. Portions and service are pitched at the lunch-hour, not the long evening.
 
 **The Turkish restaurant to book for a work lunch**, and one of only three in the City that Harden's inspects. Book for weekday lunch; quieter in the evenings, when the City empties.
 
@@ -327,17 +327,17 @@ Broad modern Turkish: mezze to start, then **chargrilled kebabs, lamb chops and 
 
 *£££ · City of London · Cited by 2 sources · Harden's*
 
-Modern Turkish inside the **Hyde London City hotel**, and a genuinely stylish room — dusty pink, soft-lit, and unlike anywhere else in this guide to sit in.
+Modern Turkish inside the **Hyde London City hotel**, and a stylish room — dusty pink, soft-lit, and unlike anywhere else in this guide to sit in.
 
 All-day mezze is the format and the thing to order: the spreads, the pickles, the warm bread. The kitchen is **hit-and-miss beyond that**, which is worth saying plainly — the room and the mezze are the reason to come, not the grill.
 
-Listed by Harden's and by the Turkish-British press. Book, and go for a long lunch rather than a destination dinner.
+Listed by Harden's and by the Turkish-British press. Book, and go for a long lunch, not a destination dinner.
 
 ### Baraka, City of London
 
 *££ · City of London · Cited by 1 source · Harden's*
 
-The third of Harden's three City Turkish rooms, and **named by nothing else in this guide** — which is worth stating rather than hiding. One inspector likes it; nobody else has written it up.
+The third of Harden's three City Turkish rooms, and **named by nothing else in this guide**. One inspector likes it; nobody else has written it up.
 
 Standard modern Turkish for the postcode: **mezze, grilled meats and fish**, priced for the City lunch trade and geared to tables from surrounding offices.
 
@@ -349,7 +349,7 @@ Take the single citation for what it is. If you want a City Turkish table with m
 
 **A meyhane in the style of Istanbul and northern Cyprus**, upstairs at The Globe on Bedale Street — in the building used as Bridget Jones's flat, which is the fact everyone mentions and the least interesting thing about it.
 
-A meyhane is a drinking house that feeds you, and the format is the whole point: **long tables, rakı, and food that keeps arriving** — cold mezze first, then hot, then things off the grill, paced to the drinking rather than to a service. Order the rakı and let the kitchen run it.
+A meyhane is a drinking house that feeds you, and the format is **long tables, rakı, and food that keeps arriving** — cold mezze first, then hot, then things off the grill, paced to the drinking rather than to a service. Order the rakı and let the kitchen run it.
 
 **£££ and it books weeks ahead.** Come as a group; a table of two misses what the room is for. It is a minute from Borough Market, which makes it one of very few Turkish rooms in central London worth planning a night around.
 
@@ -377,7 +377,7 @@ Everything else carried by two or more independent guides.
 
 ## What to know
 
-* **Ocakbasi means the charcoal grill is the restaurant.** Sit where you can see it. The bread arriving straight off it is the point.
+* **Ocakbasi means the charcoal grill is the restaurant.** Sit where you can see it. The bread arrives straight off it.
 * **Most of Green Lanes is walk-in.** Mangal II and the central rooms take bookings; the Harringay grills largely do not, and the queue moves.
 * **Many are BYOB or lightly licensed**, Mangal 1 included. Ask rather than assume.
 * **Green Lanes runs late.** Gökyüzü and Durak Tantuni are both all-day and late-night, which almost nothing in the centre is.

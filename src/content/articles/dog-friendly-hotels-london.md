@@ -32,7 +32,7 @@ The rule most of them share is the one that shapes the trip: **you cannot leave 
 
 > 💡 **The Short Version:** **[Rosewood London](hotel:rosewood-london)** and **[Kimpton Fitzroy London](hotel:kimpton-fitzroy-london)** charge nothing, and Rosewood lets pets into every restaurant and bar. For a Royal Park on the doorstep, **[Mandarin Oriental Hyde Park](hotel:mandarin-oriental-hyde-park)** is two minutes from Hyde Park and **[Royal Lancaster London](hotel:royal-lancaster-london)**, at £25 a pet per day, three minutes from Kensington Gardens. On a budget, **[Travelodge](https://www.travelodge.co.uk/about/pet-friendly-hotels/)** takes pets in every room for a cleaning fee, while **Premier Inn and hub take none**. Most of these hotels forbid leaving a dog alone in the room, so plan museums and dinners around it, or book the hotel's sitter.
 
-| Hotel | Area | Fee | Limits | The catch |
+| Hotel | Area | Fee | Limits | Watch out for |
 | --- | --- | --- | --- | --- |
 | **Rosewood London** | Holborn | Free | Cats and dogs; no weight limit published | Pets stay out of the spa and gym |
 | **Kimpton Fitzroy** | Bloomsbury | Free, no deposit | 35kg | Kimpton's brand page says no limit; the hotel's FAQ says 35kg |

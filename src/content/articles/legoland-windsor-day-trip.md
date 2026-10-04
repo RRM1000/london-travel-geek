@@ -69,7 +69,7 @@ LEGOLAND's own site lists no two-for-one offer. The Days Out Guide discount abov
 
 ## Booking through GetYourGuide
 
-Two products are worth knowing about:
+Two products:
 
 - **The <a href="https://www.getyourguide.com/activity/-t111115?partner_id=WWP7I0R&amp;cmp=legoland-windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">LEGOLAND entrance ticket</a>, from £32**, sold by LEGOLAND itself and rated 4.4 from 488 reviews. The price is the same; the difference is **free cancellation up to 24 hours before**, where a ticket bought direct is non-refundable. Under-90cm tickets are collected free at the gate.
 - **The <a href="https://www.getyourguide.com/activity/-t645578?partner_id=WWP7I0R&amp;cmp=legoland-windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">LEGOLAND Windsor Resort Express</a>, £85**, run by Evan Evans: park entry and a coach from Victoria Coach Station, about an hour each way, with about six hours in the park. It is rated 4.0 from 140 reviews. Against a £32 ticket and two £3 bus fares, an adult pays roughly £47 for the coach seat.
@@ -203,7 +203,7 @@ Fastrack does not include park entry. Each ticket is for one person, has no time
 
 *Haunted House Monster Party. Photo: [Coz4836](https://commons.wikimedia.org/wiki/File:Haunted_House_Monster_Party.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-**Brick or Treat** runs on **10–11 October and from 17 October to 1 November 2026**, with tickets from £37 online. It is Halloween for young children rather than a scare event: Lord Vampyre's House Party show, a Monster Jam show, a disco on The Dragon, LEGO Monsters to meet, and the usual rides. Costumes are encouraged; full face masks and imitation weapons are not allowed. For scare mazes aimed at teenagers, our [Halloween in London guide](/articles/halloween-london/) covers Thorpe Park's Fright Nights.
+**Brick or Treat** runs on **10–11 October and from 17 October to 1 November 2026**, with tickets from £37 online. It is Halloween for young children, not a scare event: Lord Vampyre's House Party show, a Monster Jam show, a disco on The Dragon, LEGO Monsters to meet, and the usual rides. Costumes are encouraged; full face masks and imitation weapons are not allowed. For scare mazes aimed at teenagers, our [Halloween in London guide](/articles/halloween-london/) covers Thorpe Park's Fright Nights.
 
 **LEGOLAND at Christmas** runs on the selected dates in the opening table, from 21 November 2026 to 2 January 2027, with tickets from £34 online and £68 on the day. Over 20 rides run, including The Dragon, NINJAGO and Driving School, alongside festive shows and LEGO Santa. Meeting Father Christmas in his grotto is **from £27.50 per child** extra, with a LEGO gift, and does not include entry. More festive days out are in our [Christmas in London guide](/articles/christmas-in-london/).
 
@@ -215,7 +215,7 @@ LEGOLAND's three on-site hotels are sold as short breaks that include a day's pa
 - **[The LEGOLAND Castle Hotel](https://www.legoland.co.uk/short-breaks/accommodation/the-legoland-castle-hotel/)**, LEGOLAND's site — next door, knight and wizard rooms, with use of the Resort Hotel's pool and playroom.
 - **[LEGOLAND Woodland Village](https://www.legoland.co.uk/short-breaks/accommodation/legoland-woodland-village/)**, LEGOLAND's site — lodges for five or seven and glamping-style barrels for four, a few minutes' walk from the main entrance. Christmas breaks here start from £85 a person.
 
-Windsor itself is two miles away; our [Windsor day trip guide](/articles/windsor-day-trip/) covers the castle and the town, which make a second day rather than an add-on.
+Windsor itself is two miles away; our [Windsor day trip guide](/articles/windsor-day-trip/) covers the castle and the town, which make a second day, not an add-on.
 
 <div data-stay-strip></div>
 

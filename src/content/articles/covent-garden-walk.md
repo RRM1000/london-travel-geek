@@ -28,7 +28,7 @@ faq:
 
 Most people do Covent Garden in about two hundred metres. They come up out of Covent Garden station, walk down James Street into the Piazza, watch a man on a unicycle, eat something expensive with a view of the cobbles and leave.
 
-**This walk runs the other way round.** It starts at Leicester Square — the station you should be using anyway — goes north into Seven Dials and Neal's Yard while they are still walkable, comes down into the Piazza in the middle rather than at the start, and finishes at Somerset House, which is six minutes from the market hall and which almost nobody on this walk realises is there.
+**This walk runs the other way round.** It starts at Leicester Square — the station you should be using anyway — goes north into Seven Dials and Neal's Yard while they are still walkable, comes down into the Piazza in the middle, not at the start, and finishes at Somerset House, which is six minutes from the market hall and which almost nobody on this walk realises is there.
 
 It is about **2km and takes around two hours** with stops. Everything on it is free except the London Transport Museum, and you can skip that.
 
@@ -91,15 +91,15 @@ It has been in the square since **1980**, when it was a green-and-yellow-striped
 
 ## 2. Cecil Court
 
-Ninety seconds east of the square, and the single most-walked-past thing in this postcode.
+Ninety seconds east of the square, and the most-walked-past thing in this postcode.
 
-**A short pedestrian street of Victorian shopfronts, almost all of them selling old books, prints, maps, coins, medals and antiquities.** It was laid out in the **late seventeenth century** to fill the open ground between St Martin's Lane and Leicester Square, and it is **still owned by the Cecil family of Hatfield House** — descendants of Robert Cecil, first Earl of Salisbury — which is probably why it is still a street of independent dealers rather than chains.
+**A short pedestrian street of Victorian shopfronts, almost all of them selling old books, prints, maps, coins, medals and antiquities.** It was laid out in the **late seventeenth century** to fill the open ground between St Martin's Lane and Leicester Square, and it is **still owned by the Cecil family of Hatfield House** — descendants of Robert Cecil, first Earl of Salisbury — which is probably why it is still a street of independent dealers, not chains.
 
 Two pieces of history are worth carrying down it. It was the **first London address of Mozart and his family**, and arguably where he wrote his first symphony. And in the earliest years of cinema the film trade clustered here so densely that it was known as **'Flicker Alley'**. T.S. Eliot and Ellen Terry lived in the flats above the shops.
 
 Today the dealers include **Goldsboro Books**, **Marchpane**, **Watkins Books**, **Travis & Emery** for sheet music, **Tenderbooks**, **Sotheran's** and the **London Medal Company**. Browsing costs nothing and nobody minds.
 
-The street itself is a public passage and you can walk it at any hour. The shops inside keep their own hours, and they are small independent dealers rather than a chain, so check before you make a special trip for one of them.
+The street itself is a public passage and you can walk it at any hour. The shops inside keep their own hours, and they are small independent dealers, not a chain, so check before you make a special trip for one of them.
 
 Graham Greene left the best line about it: "Thank God! Cecil Court remains Cecil Court…"
 
@@ -119,7 +119,7 @@ Neale's plan was for the most fashionable address in London. What actually happe
 
 The original street names are still traceable on a few buildings: Earlham Street was Great and Little Earl Street, Mercer Street was White Lyon Street, Short's Gardens was Queen Street, Monmouth Street was St Andrew's Street.
 
-Ninety stores and more than fifty cafés, bars and restaurants sit in the streets around it now, and it is **noticeably calmer than the Piazza three minutes south** — which is the whole reason this route does it first.
+Ninety stores and more than fifty cafés, bars and restaurants sit in the streets around it now, and it is **noticeably calmer than the Piazza three minutes south** — which is why this route does it first.
 
 ## 4. Neal's Yard
 
@@ -170,7 +170,7 @@ It has **full step-free access, a lift and wheelchair-accessible toilets**, whic
 
 *Old Brewer's Yard, Mercer Walk.*
 
-Walk south and you hit **Long Acre**, the wide shopping street running east towards Holborn. Covent Garden station sits on the corner of it and James Street, and this is the point on the walk where you will be tempted to use it. Don't.
+Walk south and you hit **Long Acre**, the wide shopping street running east towards Holborn. Covent Garden station sits on the corner of it and James Street, and this is the stretch where you will be tempted to use it. Don't.
 
 The reason to turn off Long Acre is **Mercer Walk**, thirty seconds down, which holds two things worth stopping for.
 
@@ -184,7 +184,7 @@ Behind it at **1 Mercer Walk** is the **Guinness Open Gate Brewery**, a working 
 
 ## 7. St Paul's, the Actors' Church
 
-Come down Garrick Street and Bedford Street and go into the church from the west, through the garden, rather than arriving at the portico from the Piazza. It is a better introduction and it is how the building actually works.
+Come down Garrick Street and Bedford Street and go into the church from the west, through the garden, not arriving at the portico from the Piazza. It is a better introduction and it is how the building actually works.
 
 **Inigo Jones built it and it has stood here since 1633**, which makes it older than everything else on this walk. It is **free to enter**, and the walls are lined with memorials to actors — which is where the nickname comes from and why it is still the theatre profession's church.
 
@@ -192,7 +192,7 @@ The **churchyard behind it is a walled garden**, and it is the quietest place in
 
 The portico facing the Piazza is where **Eliza Doolittle sells flowers at the start of *Pygmalion***.
 
-> ⚠️ **This is the one weekday stop on the route.** The church is usually open for visiting **9am to 5.30pm on weekdays**, and it closes without much notice for weddings, memorials, its ticketed summer Theatre in the Garden season, and maintenance. If it matters to you, phone the office on **020 7836 5221** before you set out. Services run Wednesday at 1.10pm and Sunday at 11am, and you are welcome at both.
+> ⚠️ **This is the one weekday stop on the route.** The church is usually open for visiting **9am to 5.30pm on weekdays**, and it closes without much notice for weddings, memorials, its ticketed summer Theatre in the Garden season, and maintenance. If you plan to attend, phone the office on **020 7836 5221** before you set out. Services run Wednesday at 1.10pm and Sunday at 11am, and you are welcome at both.
 
 The Rector has written a self-guided tour of the building, and there is a printed version inside. The toilets on either side of the portico cost 50p, which is a third of what the ones in the market building charge.
 
@@ -216,7 +216,7 @@ Three separate markets run within a hundred metres of each other — two inside 
 
 **That is the whole argument for a Monday.** Both of the big halls switch to antiques and collectables on the same day, Jubilee opens at five in the morning to do it, and nothing else on this walk cares which day it is.
 
-**On the performers.** The pitches **inside** the Market Building — the covered **North Hall** at the north-east corner, and the **South Hall** in the lower courtyard, which is reserved for opera singers and classically trained musicians who have to project without amplification — are auditioned by the estate four times a year. The **West Piazza, James Street and the space outside the Transport Museum are managed by Westminster City Council** and are not part of that process at all. So the standard genuinely is higher under the glass than out on the cobbles, and now you know why.
+**On the performers.** The pitches **inside** the Market Building — the covered **North Hall** at the north-east corner, and the **South Hall** in the lower courtyard, which is reserved for opera singers and classically trained musicians who have to project without amplification — are auditioned by the estate four times a year. The **West Piazza, James Street and the space outside the Transport Museum are managed by Westminster City Council** and are not part of that process at all. So the standard is higher under the glass than out on the cobbles, and now you know why.
 
 The building's listed status also bans wind and brass instruments, electric guitars, drums, accordions, bagpipes and didgeridoos from both indoor pitches, and caps singers at 85 decibels.
 
@@ -242,9 +242,9 @@ Practical notes, all from the house's own guidance: it is **cashless**, so bring
 
 ## 10. London Transport Museum
 
-The one paid ticket on the route, and the only stop here that will take you an hour rather than ten minutes.
+The one paid ticket on the route, and the only stop here that will take you an hour, not ten minutes.
 
-Real Tube carriages, old buses and the original poster archive — which is genuinely one of the great twentieth-century design collections and the reason to come even if you do not care about trains.
+Real Tube carriages, old buses and the original poster archive — which is one of the great twentieth-century design collections and the reason to come even if you do not care about trains.
 
 **Open every day, 10am to 6pm, last entry 5.15pm**, 362 days a year. The shop runs to 6.15pm, the café to 5pm.
 
@@ -256,7 +256,7 @@ The museum's own advice is to come in the **afternoon** if you want it quieter, 
 
 Down Southampton Street or Wellington Street to the Strand, five minutes, and out of Covent Garden entirely.
 
-**Somerset House is open to everyone, seven days a week, from 8am to 11pm**, and the enormous courtyard behind the Strand front costs nothing to walk into. It is by a distance the largest open space on this route, and after two hours of cobbles and crowds that is the point of ending here.
+**Somerset House is open to everyone, seven days a week, from 8am to 11pm**, and the enormous courtyard behind the Strand front costs nothing to walk into. It is by a distance the largest open space on this route, and after two hours of cobbles and crowds that is why the walk ends here.
 
 The **fountains in the Edmond J. Safra Fountain Court** — jets set straight into the paving of the courtyard, with nothing around them — are switched on daily from **10am to 6pm**.
 
@@ -274,11 +274,11 @@ Two things sit just off the line and are worth the two minutes each.
 
 **The Lamb & Flag, 33 Rose Street.** A Fuller's pub down an alley off Garrick Street, between stops 6 and 7, and the most convincingly old room on this walk. Open **Monday to Saturday 11am to 11pm and Sunday noon to 10.30pm**, with food from noon to 9.30pm on weekdays and Saturdays, and to 8.30pm on Sundays. Real fire, families welcome, assistance dogs welcome.
 
-**Theatre Royal Drury Lane**, five minutes east of the Piazza on Catherine Street. Its owners describe it as **the world's oldest theatre site in continuous use, open since 1663**, and the current building is an all-day address rather than an evening one: the Regency **Grand Saloon** does afternoon tea, the **Cecil Beaton Bar** does cocktails, and the **Rotunda** has a ceiling modelled on the Pantheon. **Guided tours** run through a building with more than 350 years of history behind it, and they are the way to see the front-of-house rooms without a ticket to a show.
+**Theatre Royal Drury Lane**, five minutes east of the Piazza on Catherine Street. Its owners describe it as **the world's oldest theatre site in continuous use, open since 1663**, and the current building is an all-day address, not an evening one: the Regency **Grand Saloon** does afternoon tea, the **Cecil Beaton Bar** does cocktails, and the **Rotunda** has a ceiling modelled on the Pantheon. **Guided tours** run through a building with more than 350 years of history behind it, and they are the way to see the front-of-house rooms without a ticket to a show.
 
 ## Where to eat
 
-**Seven Dials Market at stop five** is the answer six days out of seven — twenty-one traders, no booking needed for a table of two or three, and full step-free access with a lift, which not much else on these cobbles can say. On Monday and Tuesday it does not open until noon, which is the one thing to plan around.
+**Seven Dials Market at stop five** is the answer six days out of seven — twenty-one traders, no booking needed for a table of two or three, and full step-free access with a lift, which not much else on these cobbles can say. On Monday and Tuesday it does not open until noon, so plan around that.
 
 If that does not work:
 
@@ -313,7 +313,7 @@ Almost nothing here has a weekday-only problem. The Piazza never closes, the mar
 
 **What it costs you:** Seven Dials Market does not open until noon on Mondays and Tuesdays, so plan lunch late or eat at the Lamb & Flag.
 
-**The one genuine weekday-only thing** is St Paul's Church, which states weekday visiting hours of 9am to 5.30pm and nothing for the weekend. If the Actors' Church is the reason you are doing this walk, that decides the day for you.
+**The one genuine weekday-only thing** is St Paul's Church, which states weekday visiting hours of 9am to 5.30pm and nothing for the weekend. If you are doing this walk for the Actors' Church, that rules out the weekend.
 
 **On time of day:** start at 10am and you get Seven Dials and Neal's Yard before the coach parties, reach the Piazza as the performers hit their stride and arrive at the Transport Museum in the afternoon, which is when the museum itself says it is quietest. Start at 9am on a Sunday and Neal's Yard is empty and photographable, which it is at no other time.
 
@@ -340,7 +340,7 @@ Walked in reverse — Somerset House to Leicester Square — it works, but it pu
 
 ## What to do with the rest of the day
 
-- **[Where to stay in Covent Garden](/articles/where-to-stay-covent-garden/)** — if you want to be inside this route rather than travelling to it.
+- **[Where to stay in Covent Garden](/articles/where-to-stay-covent-garden/)** — if you want to be inside this route, not travelling to it.
 
 - **[The Covent Garden area guide](/articles/covent-garden-area-guide/)** — the theatres, pre-theatre dinner, where to stay and the mistakes to avoid.
 - **[The South Bank walk](/articles/south-bank-walk/)** — cross Waterloo Bridge from Somerset House and pick it up at the halfway point.

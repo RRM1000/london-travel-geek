@@ -33,7 +33,7 @@ faq:
     a: "No. It is served at The Hogwarts Table, a dining room in the entrance hub, and the operator says so explicitly on its own booking page. It costs from £42.50 per adult, is an add-on that cannot be booked without a tour ticket, and comes with a 90-minute table slot."
 ---
 
-**A ticket to the Warner Bros. Studio Tour costs £58.50 for an adult, and you cannot buy one at the door.** Not because it is busy — because they genuinely do not sell them there. Everything else in this guide is cheaper than that, and roughly half of it is free.
+**A ticket to the Warner Bros. Studio Tour costs £58.50 for an adult, and you cannot buy one at the door.** Not because it is busy — because they do not sell them there. Everything else in this guide is cheaper than that, and roughly half of it is free.
 
 > 💡 **The Short Version:** **Studio Tour £58.50 adult, pre-booked only, allow four hours.** **Cursed Child becomes one play from 9 October 2026, seats from £25.** **Platform 9¾ is free and needs no ticket.** **House of MinaLima has moved to 157 Wardour Street.** **The Cauldron has closed.** And **the Great Hall was never filmed anywhere in London** — it is a set at Leavesden.
 
@@ -84,7 +84,7 @@ The upper tiers exist too: a Twilight Tour with a Great Hall champagne reception
 
 The booking window runs roughly four months ahead and rolls forward in blocks. Weekends, school holidays and December sell out first and sell out completely — capacity is strict and no tickets are held back for phone or door sales.
 
-The one back door is arithmetic rather than a secret: tickets are non-refundable but can be moved for a £10 admin fee, so **sold-out dates quietly reopen as other people change plans.** Keep checking rather than giving up.
+The one back door is arithmetic rather than a secret: tickets are non-refundable but can be moved for a £10 admin fee, so **sold-out dates reopen as other people change plans.** Keep checking, not giving up.
 
 ### Getting there from London
 
@@ -105,9 +105,9 @@ Oyster and contactless are valid all the way to Watford Junction, which sits out
 
 The sets are re-dressed on a yearly cycle: a winter dressing with snow on the Great Hall, an autumn one leaning into the darker films, a spring and summer one aimed at younger visitors, and a September date marking the start of the school year, plus one-off evening dinners in December. None of it changes the core tour, and none of it is worth planning a trip around unless you have already been.
 
-### The afternoon tea, honestly
+### The afternoon tea
 
-At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on most families consider — so here is the thing the photography does not make obvious. It is served at The Hogwarts Table, a dining room in the entrance hub, and the operator states on its own booking page that **"This dining experience does not take place in the Great Hall set."** It is an add-on only, you cannot book it without a tour ticket, and you get a 90-minute table slot, so plan your entry time around it. Vegan, vegetarian and gluten-free menus exist, plus a children's version served in a miniature trunk.
+At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on most families consider — so here is what the photography does not make obvious. It is served at The Hogwarts Table, a dining room in the entrance hub, and the operator states on its own booking page that **"This dining experience does not take place in the Great Hall set."** It is an add-on only, you cannot book it without a tour ticket, and you get a 90-minute table slot, so plan your entry time around it. Vegan, vegetarian and gluten-free menus exist, plus a children's version served in a miniature trunk.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="505308" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -152,7 +152,7 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 
 **The trolley is only out while the shop is open: 8am-10pm Monday to Saturday, 9am-8pm Sunday.** Outside those hours the wall sign is still there but the trolley is not, and during busy periods the photo queue closes an hour before the shop does — a practical last call of 9pm most days and 7pm on Sundays.
 
-**Go first thing.** At 8am on a weekday you walk straight up. By late morning at a weekend or in school holidays the queue is long and slow. Groups of ten or more should ask staff for a time slot rather than joining the line.
+**Go first thing.** At 8am on a weekday you walk straight up. By late morning at a weekend or in school holidays the queue is long and slow. Groups of ten or more should ask staff for a time slot, not joining the line.
 
 ## Shops
 
@@ -164,7 +164,7 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 
 **Harry Potter Shop at the Studio Tour** — Leavesden. **You cannot visit it without a valid tour ticket for that day.** Do not drive to Hertfordshire to shop.
 
-**House of MinaLima** — **157 Wardour Street, Soho, W1F 8WQ, open daily 11am-6.45pm including bank holidays.** Miraphora Mina and Eduardo Lima designed the graphics and printed props for the films — the newspapers, the sweet wrappers, the Marauder's Map — and this is their own gallery and shop. Licensed work rather than a Warner Bros. shop, though their sections appear inside the official stores in New York and Chicago. It is free, it takes twenty minutes, and it is the most genuinely interesting thing on this list. Two warnings from the house itself: the gallery is down a flight of stairs with no alternative access, and there is no toilet, no cloakroom and no eating or drinking inside.
+**House of MinaLima** — **157 Wardour Street, Soho, W1F 8WQ, open daily 11am-6.45pm including bank holidays.** Miraphora Mina and Eduardo Lima designed the graphics and printed props for the films — the newspapers, the sweet wrappers, the Marauder's Map — and this is their own gallery and shop. Licensed work, not a Warner Bros. shop, though their sections appear inside the official stores in New York and Chicago. It is free, it takes twenty minutes, and it is the most interesting thing on this list. Two warnings from the house itself: the gallery is down a flight of stairs with no alternative access, and there is no toilet, no cloakroom and no eating or drinking inside.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -199,11 +199,11 @@ This is where the internet is least reliable: London's unofficial wizarding venu
 
 > ⚠️ **The Cauldron has closed.** The potion-brewing cocktail bar in Dalston is gone — the London site closed in early 2026 and the Edinburgh branch has ceased trading.
 
-**Hexmoor**, Unit 11, 127 Hackney Road, Shoreditch, E2 8GY, is the best of the current crop and the most honest about what it is. An immersive fantasy-prison theatre piece with live actors: you are processed, issued a jumpsuit and locked into a story for **1 hour 45 minutes**, with three cocktails or mocktails built into the plot. **From £56.50 including the booking fee**, rising to £65.50 for a fourth drink and a souvenir licence and £88.50 for a one-off wand. It is not an escape room and it is not Harry Potter; it is its own invented world, which is precisely why it still exists.
+**Hexmoor**, Unit 11, 127 Hackney Road, Shoreditch, E2 8GY, is the best of the current crop and the clearest about what it is. An immersive fantasy-prison theatre piece with live actors: you are processed, issued a jumpsuit and locked into a story for **1 hour 45 minutes**, with three cocktails or mocktails built into the plot. **From £56.50 including the booking fee**, rising to £65.50 for a fourth drink and a souvenir licence and £88.50 for a one-off wand. It is not an escape room and it is not Harry Potter; it is its own invented world, which is precisely why it still exists.
 
 **[Georgian House Hotel](hotel:georgian-house-wizard-chambers)**, 35-39 St George's Drive, SW1V 4DG, runs a wizard afternoon tea in its basement dining room on **Fridays, Saturdays and Sundays, 12.30-5pm** in 90-minute slots, and rents themed bedrooms behind a bookcase door. The **potion add-on is £25 a head for two cocktails or £20 for two mocktails**; everything needs 48 hours' notice and a £10 deposit per person. Nothing here is licensed and the branding is carefully generic. Victoria is about twelve minutes' walk. Grade II listed, so no lift and no air conditioning.
 
-**Vintry & Mercer**, 20 Garlick Hill, EC4V 2AU, serves The Magic of Afternoon Tea on **Saturdays and Sundays, noon to 5pm**, at **£49.50 per person** — £64.50 with champagne — and a children's version at **£37.50**. It is good, and it is not Harry Potter: one of the pastries is called Excalibur, which is a clue. Book it for a well-made magic-themed tea; if you want Hogwarts you will feel misled, and that is the fault of the guides filing it under Harry Potter rather than the hotel's.
+**Vintry & Mercer**, 20 Garlick Hill, EC4V 2AU, serves The Magic of Afternoon Tea on **Saturdays and Sundays, noon to 5pm**, at **£49.50 per person** — £64.50 with champagne — and a children's version at **£37.50**. It is good, and it is not Harry Potter: one of the pastries is called Excalibur, which is a clue. Book it for a well-made magic-themed tea; if you want Hogwarts you will feel misled, and that is the fault of the guides filing it under Harry Potter, not the hotel's.
 
 **Enigma Quests**, 86 Fetter Lane, EC4A 1EQ, runs a wizarding-school escape room at **£35 per person for 60 minutes**, private bookings for teams of two to five, with a £35 surcharge on a two-person Saturday booking. Under-11s need an adult in the room with them.
 
@@ -217,7 +217,7 @@ The locations are scattered across four postcodes and most are worth about two m
 
 **[London: Harry Potter Film Locations Sightseeing Bus Tour](https://www.getyourguide.com/london-l57/london-harry-potter-film-locations-sightseeing-bus-tour-t912548/)** runs on a purple 1960s Routemaster standing in for the Knight Bus, starts and returns to **Embankment**, and is **listed at three hours** with a live guide. **4.6 from more than 500 reviews**, free cancellation up to 24 hours ahead.
 
-It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, Lambeth Bridge, Great Scotland Yard and Horse Guards Parade**, with photo stops and short guided walks rather than a drive-past, and a quiz on board. Lambeth Bridge is the one few people seek out alone: it is where the Knight Bus squeezes between two buses, and nothing marks the spot.
+It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, Lambeth Bridge, Great Scotland Yard and Horse Guards Parade**, with photo stops and short guided walks, not a drive-past, and a quiz on board. Lambeth Bridge is the one few people seek out alone: it is where the Knight Bus squeezes between two buses, and nothing marks the spot.
 
 **Best for** one day, small children, or anyone who does not want to work out the walking order.
 
@@ -227,17 +227,17 @@ It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, L
 
 **[The most comprehensive and exclusive Harry Potter tour in London](https://www.getyourguide.com/london-l57/the-most-comprehensive-and-exclusive-harry-potter-tour-in-london-t772912)** is the highest-rated of the lot — **4.9 from over 1,000 reviews** — and at **195 minutes** it is the longest. It starts by **King's Cross** and finishes at **Goodwin's Court**, the alley that is widely held to be the model for Diagon Alley and which almost no self-guided route finds.
 
-In between: **Platform 9¾, Leadenhall Market, London Bridge, Southwark Cathedral, Borough Market, the Millennium Bridge, St Paul's and Great Scotland Yard**, with two short Tube hops rather than a coach. Guides work in **English and Spanish**. Reviewers are consistent that there is a lot of walking, which is the trade for covering more ground than the bus.
+In between: **Platform 9¾, Leadenhall Market, London Bridge, Southwark Cathedral, Borough Market, the Millennium Bridge, St Paul's and Great Scotland Yard**, with two short Tube hops, not a coach. Guides work in **English and Spanish**. Reviewers are consistent that there is a lot of walking, which is the trade for covering more ground than the bus.
 
 **Best for** adults and older children who would rather walk than sit, and anyone who wants the south-bank stretch the bus skips. For the other Potter walks, and the rest of London's themed tours, see [the best walking tours in London](/articles/best-walking-tours-london/#harry-potter).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="772912" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-### The specialist, and the honest alternative
+### The specialist, and the alternative
 
 **Tour for Muggles** has run since 2011 and is the established name: **£19 per adult, £17 per child, free under 5**, with private tours at a £150 booking fee plus £19 a head. Expect **£15 to £25** across the general operators for a two-hour small-group walk.
 
-And the honest position, which no tour page will tell you: **almost every location these tours visit is in the table above and free to reach on your own.** What you are buying is sequence, a guide who knows which door is which, and someone to fill the walking in between. If you want the stories rather than just the addresses, it is money well spent. If you would rather walk it yourself, you already have the route.
+And the position no tour page will tell you: **almost every location these tours visit is in the table above and free to reach on your own.** What you are buying is sequence, a guide who knows which door is which, and someone to fill the walking in between. If you want the stories rather than just the addresses, it is money well spent. If you would rather walk it yourself, you already have the route.
 
 ---
 
@@ -272,7 +272,7 @@ Day one as above without the theatre. Day two: Euston at 9am, Watford Junction, 
 | Allow for food in the Food Hall | £15.00 |
 | Total per adult, two days | £121.70 |
 
-**For a family of four the Studio Tour ticket drops to £188** — £47 a head rather than £58.50 — making the two-day version roughly £370 for two adults and two children including all transport and lunches. Add the theatre and you are near £470, since children need full-price seats and under-5s are not admitted at all.
+**For a family of four the Studio Tour ticket drops to £188** — £47 a head, not £58.50 — making the two-day version roughly £370 for two adults and two children including all transport and lunches. Add the theatre and you are near £470, since children need full-price seats and under-5s are not admitted at all.
 
 ## What is not worth it
 

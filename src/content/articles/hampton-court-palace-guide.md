@@ -41,14 +41,14 @@ faq:
     a: "Yes. The R68 bus runs directly between Richmond and Hampton Court, and in summer Turks Launches' river cruise covers the same route in around 1 hour 45 minutes, with a shorter Hampton Court–Kingston leg too. Westminster Passenger Services' longer boat route also calls at Kew Pier and Richmond on its way to Hampton Court, so a single ticket can cover all three in one direction."
 ---
 
-Hampton Court Palace is two palaces sharing one address on the Thames in East Molesey: Henry VIII's redbrick Tudor courts on one side, Christopher Wren's Baroque state apartments for William III and Mary II on the other. Historic Royal Palaces, the independent charity that also runs the Tower of London, receives no government funding and prices tickets by season rather than a flat rate.
+Hampton Court Palace is two palaces sharing one address on the Thames in East Molesey: Henry VIII's redbrick Tudor courts on one side, Christopher Wren's Baroque state apartments for William III and Mary II on the other. Historic Royal Palaces, the independent charity that also runs the Tower of London, receives no government funding and prices tickets by season, not a flat rate.
 
 It's an easy palace to under-plan. The Tudor Kitchens alone cover half an acre, the gardens run to 60 acres, and the hedge maze has been catching visitors out since the 1690s — treating it as a two-hour add-on to a day in London leaves you rushing past most of it.
 
 > 💡 **The Short Version:**
 > - **Price:** Adult £30.00 online off-peak / £33.00 peak from 1 October 2026. Children (5–17) £15.00–£16.50; under-5s free. An optional 10% donation is added at checkout. Book direct through [Historic Royal Palaces](https://www.hrp.org.uk/hampton-court-palace/visit/tickets-and-prices/) or skip arranging transport with the <a href="https://www.getyourguide.com/london-l57/hampton-court-palace-half-day-trip-from-london-with-tickets-t70032/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Half-Day Trip from London with Tickets on GetYourGuide</a>, £80pp with return coach transport and entry included — it saves finding your own way to and from Waterloo.
 > - **Getting there:** South Western Railway direct from **London Waterloo**, **35 minutes**, **Zone 6**, two trains an hour. In summer, a **riverboat from Westminster or Richmond** takes far longer but is part of the day out.
-> - **Time needed:** Historic Royal Palaces' own guidance is **at least three hours**, four or more if you want the gardens and maze properly.
+> - **Time needed:** Historic Royal Palaces' own guidance is **at least three hours**, four or more if you want the gardens and maze too.
 > - **What's included:** The maze, the Tudor Kitchens, the Great Vine, the Privy Garden and the Magic Garden all come with standard admission — nothing extra to book once you're through the gate.
 > - **Christmas:** The **Winter Palace** walkthrough (28 November 2026 – 3 January 2027) is included in admission; the **ice rink** on the East Front lawn is a separate ticket over the same period.
 
@@ -97,7 +97,7 @@ Bus **R68** runs directly between Richmond and Hampton Court. From Kingston, rou
 
 ## What to see
 
-Historic Royal Palaces' own suggested routes run to two hours, three hours or a full day, and add rooms in roughly this order — a sensible walking sequence rather than a route you have to follow exactly.
+Historic Royal Palaces' own suggested routes run to two hours, three hours or a full day, and add rooms in roughly this order — a sensible walking sequence, not a route you have to follow exactly.
 
 ![The red-brick Tudor West Front and Great Gatehouse of Hampton Court Palace with its twisted chimneys under a clear blue sky](../../assets/articles/hampton-court-palace-guide/hampton-court-west-front.jpg)
 
@@ -161,7 +161,7 @@ The vine is harvested every **September**, and the grapes — an average crop of
 
 ## Food and Garden Festivals
 
-Hampton Court hosts two big annual events on the grounds, run by outside organisers rather than Historic Royal Palaces itself.
+Hampton Court hosts two big annual events on the grounds, run by outside organisers, not Historic Royal Palaces itself.
 
 The **Hampton Court Palace Food Festival** runs over the August bank holiday weekend most years; the 2026 edition ran **29–31 August**, with festival tickets including free entry to the palace and gardens on the day. The 2027 edition is planned for August 2027.
 

@@ -33,7 +33,7 @@ A hotel that lists a pool can mean a 25-metre lane under Knightsbridge, a warm v
 > Nothing here is ranked on one stay. This pass reads **31 sources carrying 251 citations** across **61 named hotels**: the travel and lifestyle press (Time Out, Condé Nast Traveller, Tatler, Esquire, The Independent, the Evening Standard, DesignMyNight, Country & Town House), London and hotel specialists (Secret London, The Sauce, The Hotel Guru, The Rooftop Guide), family-travel blogs (Globetotting, Wanderlust Chloe, Flashpacking Family, MummyTravels, A Suffolk Mum), a Mumsnet Talk thread and six YouTube channels. **40 hotels are named by two or more independent sources.** The pool rules on each entry come from the hotel's own website.
 > *Evidence rebuilt 29 September 2026 · [How we rank →](/how-we-rank/)*
 
-| Hotel | Pool | Children | Station | The catch |
+| Hotel | Pool | Children | Station | Watch out for |
 | --- | --- | --- | --- | --- |
 | **The Berkeley** | Rooftop, heated, open-air | Welcome, no set hours | Knightsbridge | Spring and summer only |
 | **art'otel Battersea** | Rooftop infinity, 16th floor | Under-16s 6am–noon | Battersea Power Station | Can close for private events |
@@ -100,7 +100,7 @@ The Sky Pool is on **level 52 of The Shard**, the highest swimming pool in Londo
 
 *City of London · Station: Bank · Rooftop club pool and basement spa pool · About £400 a night · Cited by 13 sources · [Hotels.com](hotel:the-ned)*
 
-The Ned has two pools, and the famous one is not simply the hotel's. The heated rooftop pool, overlooking the skyline beside two converted domes, is part of **Ned's Club, for members and their guests over 18**; the hotel's FAQ lets hotel guests bring children up **between 7am and 10am daily**. The basement pool sits in the spa, which is **always adults only** (18 and over), and **hotel guests who book direct get complimentary day spa access** while they stay. Above it are the old banking hall and its restaurants, 250 bedrooms and every room with a double bed. The one thing that decides a booking: book on The Ned's own site if the spa pool matters, and don't count on the rooftop. Our [members' clubs guide](/articles/private-members-clubs-london/) has what Ned's Club costs to join.
+The Ned has two pools, and the famous one is not simply the hotel's. The heated rooftop pool, overlooking the skyline beside two converted domes, is part of **Ned's Club, for members and their guests over 18**; the hotel's FAQ lets hotel guests bring children up **between 7am and 10am daily**. The basement pool sits in the spa, which is **always adults only** (18 and over), and **hotel guests who book direct get complimentary day spa access** while they stay. Above it are the old banking hall and its restaurants, 250 bedrooms and every room with a double bed. Book on The Ned's own site if you want the spa pool, and don't count on the rooftop. Our [members' clubs guide](/articles/private-members-clubs-london/) has what Ned's Club costs to join.
 
 ![The basement spa pool at The Ned, with green marble columns and a mirrored sphere at the far end](../../assets/articles/hotels-with-pool-london/the-ned-pool.jpg)
 

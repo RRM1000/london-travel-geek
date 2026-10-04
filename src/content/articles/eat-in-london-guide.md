@@ -79,7 +79,7 @@ These guides cover most of this already:
 
 * [**London's Most Unusual Restaurants**](/articles/unusual-restaurants-london/) — 22 strange rooms, from a converted public lavatory to dinner underground.
 * [**The Best Views in London**](/articles/best-views-london/) — Every rooftop and viewing floor compared, including which ones are free and which need booking weeks out.
-* [**The Best Rooftop and Riverside Restaurants in London**](/articles/best-rooftop-restaurants-london/) — The same roofs judged on the food rather than the view, plus the riverside rooms, and what happens to the booking when it rains.
+* [**The Best Rooftop and Riverside Restaurants in London**](/articles/best-rooftop-restaurants-london/) — The same roofs judged on the food, not the view, plus the riverside rooms, and what happens to the booking when it rains.
 * [**Dinner and a Show in London**](/articles/dinner-and-a-show-london/) — Jazz clubs that serve dinner, restaurants with a band, cabaret dinners and drag brunches, with what the show adds to the bill.
 
 ---
@@ -98,7 +98,7 @@ Every one of these is ranked by how many independent awards, critics and reviewe
 * [**Hot Pot**](/articles/best-hot-pot-london/) — Sichuan, Taiwanese and Mongolian, and how the ordering actually works if you have not done it before.
 * [**Japanese**](/articles/best-japanese-restaurants-london/) — Omakase counters at one end, ramen and izakaya at the other.
 * [**Korean**](/articles/best-korean-restaurants-london/) — Central barbecue rooms and the New Malden restaurants Londoners drive to.
-* [**Thai**](/articles/best-thai-restaurants-london/) — Isaan, southern and live-fire cooking rather than the pad thai default.
+* [**Thai**](/articles/best-thai-restaurants-london/) — Isaan, southern and live-fire cooking, not the pad thai default.
 * [**Vietnamese**](/articles/best-vietnamese-restaurants-london/) — Kingsland Road's Pho Mile, and the Peckham room that took the only Bib Gourmand.
 * [**Filipino**](/articles/best-filipino-restaurants-london/) — adobo, sisig and kare-kare, from a Bib Gourmand off Carnaby Street to a banana-leaf feast in Earl's Court.
 * [**Sri Lankan**](/articles/best-sri-lankan-restaurants-london/) — hoppers, kottu and lamprais, and the outer-London clusters where most of it is actually cooked.
@@ -157,7 +157,7 @@ Fast food in London without the global chains:
 * [**The Best Sandwiches in London**](/articles/best-sandwiches-london/) — Salt beef, Japanese sandos and the toastie counters.
 * [**The Best Bakeries in London**](/articles/best-bakeries-london/) — 24 worth queuing for, and which ones sell out by eleven.
 * [**Breakfast and Brunch**](/articles/best-breakfast-brunch-london/) — From caff fry-ups under £10 to the rooms that need booking weeks ahead.
-* [**The Best Coffee in London**](/articles/best-coffee-london/) — Roasters and counters, and where the coffee is genuinely the point.
+* [**The Best Coffee in London**](/articles/best-coffee-london/) — Roasters and counters where the coffee comes first.
 * [**Late-Night Eating**](/articles/late-night-eating-london/) — What is still cooking after midnight, by area.
 
 **Pre-theatre dining** means 60-minute set menus served between 5pm and 6.30pm across the West End. The [Soho](/articles/soho-area-guide/) and [Covent Garden](/articles/covent-garden-area-guide/) area guides list the rooms that run them.

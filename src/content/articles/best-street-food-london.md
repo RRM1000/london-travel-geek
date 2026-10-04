@@ -26,7 +26,7 @@ heroImageAlt: "Traders and shoppers under the green ironwork and festoon lights 
 
 London's street food is not one thing, and the difference that actually decides your afternoon is not the food. It is the roof.
 
-**Covered food halls** — Seven Dials, the Arcades, Market Halls, Boxpark — trade most days, have proper seating, and work in the rain. **Outdoor markets** — Maltby Street, Broadway Market, the Southbank Centre — have better atmosphere, worse seating, and several of them only exist two or three days a week. Turning up on the wrong day is the standard way to waste a morning here, and it is the thing this guide is built around.
+**Covered food halls** — Seven Dials, the Arcades, Market Halls, Boxpark — trade most days, have proper seating, and work in the rain. **Outdoor markets** — Maltby Street, Broadway Market, the Southbank Centre — have better atmosphere, worse seating, and several of them only exist two or three days a week. Turning up on the wrong day is the standard way to waste a morning here, and this guide is built around it.
 
 > 💡 **The Short Version:** **Borough** is the one everything else is measured against, and it is **closed Mondays**. **Seven Dials Market** is the best covered hall in the centre. **Bang Bang Oriental** in Colindale has the deepest pan-Asian line-up in Britain and is a proper trek. **Maltby Street** is Friday evening to Sunday only. And **Mercato Metropolitano at Elephant & Castle closes at the end of 2026** — go while you can.
 
@@ -55,7 +55,7 @@ London's street food is not one thing, and the difference that actually decides 
   </noscript>
 </details>
 
-**The pattern the map shows**, which is worth knowing before you plan: the covered food halls cluster in the centre and in the places people commute through, while the outdoor markets sit in a ring around them — Hackney, Bermondsey, Peckham, Brixton, Greenwich. The best of the outdoor ones are the furthest out, and several of those are weekend-only.
+**The pattern the map shows:** the covered food halls cluster in the centre and in the places people commute through, while the outdoor markets sit in a ring around them — Hackney, Bermondsey, Peckham, Brixton, Greenwich. The best of the outdoor ones are the furthest out, and several of those are weekend-only.
 
 ---
 
@@ -76,7 +76,7 @@ London's street food is not one thing, and the difference that actually decides 
 | **Market Halls Canary Wharf** | Canary Wharf | Food hall | 11 + 3 bars | Caribbean, Thai, Malaysian | Plenty | Daily, breakfast to late |
 | **Market Halls Paddington** | Paddington | Food hall | 8 | Argentine grill, Malaysian, Greek, tacos | Plenty | Daily |
 | **Tower Bridge Collective** | Shad Thames | Food hall | 13 | Korean, Thai, Ethiopian, Palestinian | Plenty, 2 floors | Daily from 8am |
-| **Mercato Metropolitano** | Elephant & Castle | Food hall | 40+ | The most genuinely diverse | Plenty | Daily · **closing end of 2026** |
+| **Mercato Metropolitano** | Elephant & Castle | Food hall | 40+ | The most diverse | Plenty | Daily · **closing end of 2026** |
 | **Mercato Mayfair** | Mayfair | Food hall | 19 | Italian-led, in a Grade I church | Plenty | Daily |
 | **Boxhall** | Liverpool Street | Food hall | 14 | Sri Lankan, Singaporean, bao | Plenty, Edwardian arcade | Daily |
 | **Boxpark Shoreditch** | Shoreditch | Container | ~15 food | Greek, Caribbean, pizza, burgers | Plenty | Daily |
@@ -148,9 +148,9 @@ Tottenham Court Road has seven kitchens including **Plaza Khao Gaeng** for South
 
 **The deepest pan-Asian food hall in Britain** and the successor to the much-missed Oriental City — Chinese, Korean, Japanese, Vietnamese, Malaysian, Singaporean and Taiwanese counters around 450 covers.
 
-It is strip-lit and functional rather than handsome, and that is the point: this is where you go for regional cooking that central London does not do, not for the room. Expect **hand-pulled noodles, Hong Kong roast duck and char siu over rice, Malaysian nasi goreng and laksa, Korean fried chicken, Taiwanese bao and bubble tea, Vietnamese pho** and a proper dim sum counter, with a large Asian supermarket attached.
+It is strip-lit and functional, not handsome: this is where you go for regional cooking that central London does not do, not for the room. Expect **hand-pulled noodles, Hong Kong roast duck and char siu over rice, Malaysian nasi goreng and laksa, Korean fried chicken, Taiwanese bao and bubble tea, Vietnamese pho** and a proper dim sum counter, with a large Asian supermarket attached.
 
-**Be honest with yourself about the journey.** Colindale is a 45-minute Tube ride from the centre on the Northern line, and this is a destination rather than a stop. **Walk-in only, no reservations.**
+**Allow for the journey.** Colindale is a 45-minute Tube ride from the centre on the Northern line, and this is a destination, not a stop. **Walk-in only, no reservations.**
 
 ### Market Halls, Victoria, Oxford Street, Canary Wharf and Paddington
 
@@ -176,7 +176,7 @@ Eight kitchens and a cocktail bar: **Carne** for Mexico City and Tijuana street 
 
 **Open earlier and later than almost anything comparable: 9am to 9pm Monday to Thursday, 9pm on Friday and Saturday, and 10am to 7pm on Sunday.** Starting at 9am means it works for breakfast, which most food halls do not.
 
-There are two event spaces and a programme of classes, supper clubs and workshops, so it functions as a community building rather than purely as somewhere to eat — which is the reason to come out here rather than a reason to avoid it. **45 Selborne Walk, E17 7JR**, and the Victoria line puts you at the door.
+There are two event spaces and a programme of classes, supper clubs and workshops, so it is a community building as well as somewhere to eat — which is a reason to come out here, not to avoid it. **45 Selborne Walk, E17 7JR**, and the Victoria line puts you at the door.
 
 ### Tower Bridge Collective, Shad Thames
 
@@ -196,9 +196,9 @@ Korean fried chicken from **Clapping Seoul**, Palestinian **musakhan** from Bait
 
 *40+ traders · daily · **closing at the end of 2026** · Cited by 2 sources*
 
-**The best-value and most genuinely diverse big food hall in London**, and it has an expiry date — Southwark approved the Borough Triangle redevelopment in March 2026 and the site trades only until the end of the year.
+**The best-value and most diverse big food hall in London**, and it has an expiry date — Southwark approved the Borough Triangle redevelopment in March 2026 and the site trades only until the end of the year.
 
-Forty-plus independents across 17,000 square feet, and the range is the reason to mourn it: Nigerian **jollof rice and suya**, **Uzbek plov** cooked in a kazan, Syrian **shawarma and fatteh**, Korean fried chicken, Sri Lankan **kottu roti**, Jamaican **jerk chicken**, Argentine **empanadas and choripán**, Nepali **momo**, and a large Italian contingent doing pizza, pasta and salumi. Indoor and outdoor seating, and a bar that stays open late.
+Forty-plus independents across 17,000 square feet, and the range will be missed: Nigerian **jollof rice and suya**, **Uzbek plov** cooked in a kazan, Syrian **shawarma and fatteh**, Korean fried chicken, Sri Lankan **kottu roti**, Jamaican **jerk chicken**, Argentine **empanadas and choripán**, Nepali **momo**, and a large Italian contingent doing pizza, pasta and salumi. Indoor and outdoor seating, and a bar that stays open late.
 
 **Go before it closes.** Its sibling at Wood Wharf is smaller and calmer, with a riverside terrace and garden igloos, and is not closing.
 
@@ -206,7 +206,7 @@ Forty-plus independents across 17,000 square feet, and the range is the reason t
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-street-food-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Markets where the food is the point
+## Markets built around the food
 
 Better atmosphere, worse seating, and several only exist a few days a week.
 
@@ -242,7 +242,7 @@ French, Ethiopian, Vietnamese, Cuban sandwiches, Chinese dumplings, Argentine em
 
 Indian dosas from **Horn OK Please**, Afghan, Vietnamese, Polish, Levantine, French crêpes and Sicilian cannoli.
 
-**Friday 12pm–9pm, Saturday and Sunday 11am–9pm, plus bank holiday Mondays 12pm–6pm.** The catch nobody mentions: **it is on the Belvedere Road side, behind the Royal Festival Hall — not on the river.** Thousands walk past it every weekend forty metres away. Seating is picnic benches and the wall. **Closed from around 21 December to 30 January**, when the Winter Market takes the space.
+**Friday 12pm–9pm, Saturday and Sunday 11am–9pm, plus bank holiday Mondays 12pm–6pm.** **It is on the Belvedere Road side, behind the Royal Festival Hall — not on the river.** Thousands walk past it every weekend forty metres away. Seating is picnic benches and the wall. **Closed from around 21 December to 30 January**, when the Winter Market takes the space.
 
 ![Black gazebos of the Southbank Centre Food Market with a jerk chicken stall in front](../../assets/articles/best-street-food-london/southbank-food-market.jpg)
 
@@ -278,7 +278,7 @@ The food runs to **salt beef bagels, Ghanaian and Nigerian plates, dumplings, pa
 
 **The cheapest pan-global grazing in east London**, in the Old Truman Brewery — Ethiopian injera, Korean skewers and roughly everything else.
 
-It is open **daily rather than weekends only**, which catches people out in both directions: the food hall trades every day, but the surrounding retail markets only expand at weekends, and **everything shuts at 6pm.**
+It is open **daily, not weekends only**, which catches people out in both directions: the food hall trades every day, but the surrounding retail markets only expand at weekends, and **everything shuts at 6pm.**
 
 Seating is scarce and it is chaotic. A weekday lunchtime, when the queue for each stall runs one person deep, beats the weekend. The **Boiler House** is no longer one of the Truman Brewery's markets.
 
@@ -292,7 +292,7 @@ Seating is scarce and it is chaotic. A weekday lunchtime, when the queue for eac
 
 **The most civilised market on this page** — under the West Handyside Canopy, a Victorian goods canopy behind Granary Square, with traders who take themselves seriously and a decent wine list.
 
-Spanish tapas and paella, Greek gyros, Thai curries, Indian chaat and fresh Italian pasta, plus **Rocks Oysters** shucking to order and **Bread Ahead** doughnuts — the last two being the reason a lot of people come at all. There is a proper bar rather than a drinks stall.
+Spanish tapas and paella, Greek gyros, Thai curries, Indian chaat and fresh Italian pasta, plus **Rocks Oysters** shucking to order and **Bread Ahead** doughnuts — the last two being the reason a lot of people come at all. There is a proper bar.
 
 **Closed Monday and Tuesday.** Covered but open-sided — sheltered from rain, not from cold.
 
@@ -313,7 +313,7 @@ Outdoor, sociable, drink-led, and the format most likely to have changed since y
 ![Inside Boxpark Wembley: a long black bar under a high warehouse roof with a mirror ball, and diners at long tables along the windows](../../assets/articles/best-street-food-london/boxpark-wembley.jpg)
 
 *Inside Boxpark Wembley.*
-* **Hackney Bridge**, Hackney Wick — eight kitchens plus a canalside garden, **closed Mondays**. The last of the Wick's canal yards still doing this properly.
+* **Hackney Bridge**, Hackney Wick — eight kitchens plus a canalside garden, **closed Mondays**. The last of the Wick's canal yards still doing this.
 * **Vinegar Yard**, London Bridge — scrap-metal dinosaurs, a weekend flea market and a handful of traders. **Closed Mondays and it does not open until late afternoon midweek**, which surprises lunchtime visitors.
 * **Flat Iron Square**, Southwark — five food traders, two bars and a taproom in railway arches. More beer garden than food market, and its own site publishes conflicting hours.
 * **Corner Corner**, Canada Water — enormous, with free live music and an indoor vertical farm, but only four or five kitchens. **Kitchens run from midday**; the café opens earlier.
@@ -376,10 +376,10 @@ Street food turns over faster than any other part of London eating.
 
 ## What to know
 
-* **Check the day, not the hours.** Maltby Street, Broadway Market, the Southbank Centre, Canopy Market and the Cutty Sark market are all part-week only. This is the single most common wasted journey.
+* **Check the day, not the hours.** Maltby Street, Broadway Market, the Southbank Centre, Canopy Market and the Cutty Sark market are all part-week only. This is the most common wasted journey.
 * **Borough is closed on Mondays**, and so are Hackney Bridge, Vinegar Yard and many Brixton Village units. Monday is the worst day for street food in London by a distance.
 * **Covered halls for rain and for groups; outdoor markets for atmosphere.** If it is wet or somebody in your party is fussy, pick a food hall.
-* **Seating is the thing people underestimate.** Borough, Maltby Street, Broadway Market and the Southbank Centre are all standing-and-walking. Every food hall on this page seats you properly.
+* **Seating is easy to underestimate.** Borough, Maltby Street, Broadway Market and the Southbank Centre are all standing-and-walking. Every food hall on this page has seating.
 * **Take a card.** The Southbank Centre is cash-free across the whole site and most hall traders are card-only.
 
 ---

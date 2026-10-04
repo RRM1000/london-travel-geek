@@ -28,7 +28,7 @@ faq:
 
 Wetherspoons gets dismissed as just the cheap option, which undersells what's actually going on. It is a 45-year-old, FTSE 250-listed pub company that has spent decades buying banking halls, ballrooms, cinemas and dock offices that nobody else wanted, keeping the marble and the plasterwork, and putting an £8.68 fried breakfast and a £1.89 bottomless coffee underneath it. Around 90 of its pubs are in Greater London, from a 1913 bank headquarters in the City to a unit in the Paddington Basin development that opened barely a year ago.
 
-This is the practical case for the chain first — the real prices, the actual menu, which perks are still genuinely running in 2026 — and then the London branches worth going out of your way for: the six landmark buildings, plus the ones by the mainline stations that don't get written up nearly as often.
+This is the practical case for the chain first — the real prices, the actual menu, which perks are still running in 2026 — and then the London branches worth going out of your way for: the six landmark buildings, plus the ones by the mainline stations that don't get written up nearly as often.
 
 > 💡 **The Short Version:** Six branches earn a special trip: **The Crosse Keys** (a marble 1913 banking hall), **Hamilton Hall** (the Great Eastern Hotel's old ballroom, and the chain's first pub in central London), **The Liberty Bounds** (Tower Hill), **The Ledger Building** (Grade I-listed, Canary Wharf), **The Rochester Castle** (Stoke Newington, trading since 1991) and **The Mossy Well** (Muswell Hill). Four more sit inside or beside King's Cross/St Pancras, Euston, Paddington and Waterloo — three of those opened in 2024 or 2025. On price: a pint here runs roughly half what a standard Zone 1 pub charges. The coffee refill is still real, still £1.89, and the twice-yearly beer festival is still running — the autumn 2026 festival is 7–18 October.
 
@@ -44,7 +44,7 @@ For scale: Wetherspoon's own chairman, Sir Tim Martin, put the average price of 
 
 The menu doesn't change branch to branch — burgers, curries, jacket potatoes, pub classics — though prices do, by the menu's own small print. At Hamilton Hall's table menu, checked for this guide in September 2026: small plates are **three for £14.99** (three for £12 on Mondays), a burger deal with chips and a drink included runs **£7.99 to £9.49**, a full curry with a drink is **£10.43 to £14.20** depending on the dish and whether the drink is alcoholic, jacket potatoes start at **£6.99**, and an all-day brunch — two eggs, bacon, two sausages, beans, chips — is **£12.17** with a soft drink.
 
-None of that is the reason to go for the cooking, but the standards behind it are checked rather than asserted: a 5-out-of-5 food hygiene rating, the highest rating in the Sustainable Restaurant Association's certification for 2024–2026, 100% UK and Irish beef traceable farm to fork, 100% free-range eggs carrying the British Lion mark and RSPCA-assured, sustainably-sourced cod and haddock, and a children's menu that has won awards through an independently run secret-diner survey.
+None of that is a reason to go for the cooking, but the standards behind it are checked rather than asserted: a 5-out-of-5 food hygiene rating, the highest rating in the Sustainable Restaurant Association's certification for 2024–2026, 100% UK and Irish beef traceable farm to fork, 100% free-range eggs carrying the British Lion mark and RSPCA-assured, sustainably-sourced cod and haddock, and a children's menu that has won awards through an independently run secret-diner survey.
 
 ### The breakfast
 
@@ -54,7 +54,7 @@ Served from opening until 11.30am everywhere, though "opening" moves branch to b
 
 Still real, still current as of the branch menus checked for this guide in September 2026. Tea, coffee and hot chocolate are **£1.89 each**, with free refills all day, every day — decaffeinated tea and coffee are the one exclusion. The coffee is 100% Arabica Lavazza from Rainforest Alliance-certified farms. One catch reported by users of the ordering app: a refill ordered to the table still has to be collected from the counter yourself, not brought over.
 
-### Everything else worth knowing
+### Everything else
 
 **The app orders to your table** — food, a round of drinks, or both — and pays by card, Apple Pay, Payit or PayPal, with a reorder function built for buying rounds in a group. It also books Wetherspoon's own hotels (more than 50 of them, 1,329 rooms, across England, Ireland, Scotland and Wales). It carries 1.4 million ratings at 4.7 out of 5 on the App Store.
 
@@ -91,7 +91,7 @@ The former headquarters of the Hongkong and Shanghai Banking Corporation, design
 
 *Street-level concourse, Liverpool Street station, EC2M 7PY · opens 7am Mon–Sat, 9am Sun, closes 11.30pm (10.30pm Sun)*
 
-The former ballroom of the Great Eastern Hotel, named after Lord Claud Hamilton, chairman of the Great Eastern Railway from 1893 to 1923 — gilded plasterwork, chandeliers and cornicing kept intact under a Grade II listing. It opened as a Wetherspoons on 6 December 1991, and it matters more than the average branch for one reason: it was **the company's first pub in central London, and its first inside a train station**, a format the chain has since repeated at four more mainline termini (below). CAMRA records around ten handpumps on the bar.
+The former ballroom of the Great Eastern Hotel, named after Lord Claud Hamilton, chairman of the Great Eastern Railway from 1893 to 1923 — gilded plasterwork, chandeliers and cornicing kept intact under a Grade II listing. It opened as a Wetherspoons on 6 December 1991, and it stands out from the average branch for one reason: it was **the company's first pub in central London, and its first inside a train station**, a format the chain has since repeated at four more mainline termini (below). CAMRA records around ten handpumps on the bar.
 
 ![The gilded former ballroom of Hamilton Hall at Liverpool Street station, with ornate plasterwork, chandeliers and tall arched windows](../../assets/articles/best-wetherspoons-pubs-london/hamilton-hall.jpg)
 
@@ -123,7 +123,7 @@ The Crosse Keys, Hamilton Hall and this one get a fuller architectural write-up 
 
 ## Near the mainline stations
 
-Besides Hamilton Hall, above, four more London termini have a Wetherspoons worth knowing about — and three of the four opened in 2024 or 2025.
+Besides Hamilton Hall, above, four more London termini have a Wetherspoons, and three of the four opened in 2024 or 2025.
 
 ### The Barrel Vault, King's Cross / St Pancras
 
@@ -165,7 +165,7 @@ Named after the Lion and Unicorn Pavilion, one of the structures built for the 1
 
 *The Lion, The Unicorn, Waterloo.*
 
-Victoria has two branches rather than a standout single one: **Willow Walk** on Wilton Road, named after a tree-lined thoroughfare that grew up on a causeway once crossing marshland toward Westminster Abbey, and a branch inside the station itself that has traded, plainly, as **Wetherspoons** since March 1993 — among the earliest of the London branches in this guide, behind only Hamilton Hall and The Rochester Castle.
+Victoria has two branches, not a standout single one: **Willow Walk** on Wilton Road, named after a tree-lined thoroughfare that grew up on a causeway once crossing marshland toward Westminster Abbey, and a branch inside the station itself that has traded, plainly, as **Wetherspoons** since March 1993 — among the earliest of the London branches in this guide, behind only Hamilton Hall and The Rochester Castle.
 
 ## Further out, and one more worth the detour
 

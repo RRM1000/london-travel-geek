@@ -119,7 +119,7 @@ The cathedral, the square behind it, and the shopping centre opposite that most 
 
 **St Paul's is £27 for an adult**, which includes the floor, the crypt and all three dome galleries. The climb to the Golden Gallery is **528 steps with no lift at any point** — 257 to the Whispering Gallery, 376 to the Stone, 528 to the top — and the cathedral itself advises against it for anyone with mobility difficulties. **Monday to Saturday only** for sightseeing; services are free to attend.
 
-**The roof terrace at One New Change is free**, has no ticket and no queue, and gives you the dome at close range from a bar-height parapet. It is the single best free thing in this part of the City, and it is directly opposite. Looking *at* St Paul's costs nothing; climbing it costs £27.
+**The roof terrace at One New Change is free**, has no ticket and no queue, and gives you the dome at close range from a bar-height parapet. It is the best free thing in this part of the City, and it is directly opposite. Looking *at* St Paul's costs nothing; climbing it costs £27.
 
 **Paternoster Square** behind the cathedral is a modern pedestrian square with the Temple Bar gateway on one corner, Wren's 1670s arch moved here from the Strand in 2004. **Sweetings at 39 Queen Victoria Street** is the Victorian fish restaurant nearby — lunch only, weekdays only, no bookings.
 
@@ -165,15 +165,15 @@ The **Tower of London**, the best surviving stretch of the **Roman city wall** �
 
 **Bridge lift times are published** at towerbridge.org.uk/bridge-lifts and updated daily, so you can watch it open for free.
 
-This is the one part of the City that is busy at weekends, and the only part where the crowd is tourists rather than workers.
+This is the one part of the City that is busy at weekends, and the only part where the crowd is tourists, not workers.
 
 ### Smithfield and Barbican
 
 The north-west edge, and the most atmospheric corner of the City. **Smithfield** has been a livestock and meat market for over eight hundred years, and the Victorian market buildings are being converted into the new **London Museum** — a major change to this district, not yet open.
 
-**St Bartholomew the Great** is the reason to come. Founded in 1123, it is the oldest surviving parish church in London, and its Norman interior has stood in for St Paul's in *Sherlock Holmes* and appeared in *Four Weddings* and *Shakespeare in Love*. There is a small admission charge for sightseers and none for worship, and it closes to visitors during services.
+**Come for St Bartholomew the Great.** Founded in 1123, it is the oldest surviving parish church in London, and its Norman interior has stood in for St Paul's in *Sherlock Holmes* and appeared in *Four Weddings* and *Shakespeare in Love*. There is a small admission charge for sightseers and none for worship, and it closes to visitors during services.
 
-**The Barbican** is next door: a brutalist estate of concrete towers, raised walkways and a lake, with an arts centre at its heart. **The Curve gallery is free**, the main Art Gallery is ticketed, and finding the entrance is genuinely difficult — **follow the yellow line painted on the pavement** from Barbican station rather than trusting a map. For the programme, the booking fee and where to eat before a show, see [what's on at the Barbican](/articles/barbican-centre-guide/).
+**The Barbican** is next door: a brutalist estate of concrete towers, raised walkways and a lake, with an arts centre at its heart. **The Curve gallery is free**, the main Art Gallery is ticketed, and finding the entrance is difficult — **follow the yellow line painted on the pavement** from Barbican station rather than trusting a map. For the programme, the booking fee and where to eat before a show, see [what's on at the Barbican](/articles/barbican-centre-guide/).
 
 **Ye Olde Cheshire Cheese** on Fleet Street, rebuilt in 1667 after the Great Fire, is ten minutes west and worth the walk for the warren of dark rooms alone.
 

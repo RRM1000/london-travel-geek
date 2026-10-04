@@ -95,7 +95,7 @@ Tables are inscribed with Nsibidi, the ideographic script of southeastern Nigeri
 
 *The granita course at Akoko.*
 
-The tasting menu draws on Nigeria, Ghana, Senegal and The Gambia rather than one of them. **Tatale** — a pancake made from over-ripe plantain and warm Ghanaian spices — arrives with goat cashew cream and caviar; **ọ̀jọ̀jọ̀**, a water yam fritter, carries baobab and yaji; there is a version of **ebunuebunu**, the green seafood soup of Ghana's Akan communities, with ribbons of squid. Dessert is ice cream scented with **uda**, grains of selim, a spice that tastes somewhere between smoke and black pepper.
+The tasting menu draws on Nigeria, Ghana, Senegal and The Gambia, not one of them. **Tatale** — a pancake made from over-ripe plantain and warm Ghanaian spices — arrives with goat cashew cream and caviar; **ọ̀jọ̀jọ̀**, a water yam fritter, carries baobab and yaji; there is a version of **ebunuebunu**, the green seafood soup of Ghana's Akan communities, with ribbons of squid. Dessert is ice cream scented with **uda**, grains of selim, a spice that tastes somewhere between smoke and black pepper.
 
 The room is pastel and quiet with an open kitchen and a counter, and the meal opens with a scented hand-washing. **The full tasting menu is £130 at lunch and dinner and takes two and a half hours; a shorter lunch menu is £65.** The kitchen publishes a list of allergies it cannot accommodate — tomato, allium, ginger, coconut milk, bell pepper, shiitake, soy and chilli among them — which is unusual enough to check before booking.
 
@@ -129,7 +129,7 @@ It is named after a district of Lagos, eight of the fifteen sources here name it
 
 Everyone close to it says the same thing. Ikoyi's own website describes "spice-based cuisine around British micro-seasonality" and never uses the words West African. Time Out's entry says "it isn't quite a West African restaurant". The World's 50 Best calls the cooking "category-free". Vittles is blunter: Jeremy Chan and Iré Hassan-Odukale, it writes, "managed to kid themselves — or kid their PR — that they were opening a West African restaurant" in 2017, and the Strand room "has given up the pretence of being tied to any one region of Earth".
 
-What survives of the original idea is the best-known dish in the building: **smoked jollof rice**, on the menu in some form since the start, arriving late in the meal rather than as a centrepiece. Around it is food from nowhere in particular — dried citrus, squid worked into marshmallow, Scotch bonnet in the puddings.
+What survives of the original idea is the best-known dish in the building: **smoked jollof rice**, on the menu in some form since the start, arriving late in the meal, not as a centrepiece. Around it is food from nowhere in particular — dried citrus, squid worked into marshmallow, Scotch bonnet in the puddings.
 
 It won the Highest Climber Award at the 2025 World's 50 Best and sits 15th on that list. **The tasting menu is £395, with a shorter one at £180. Reservations open on the 1st of each month at noon, two months ahead**, and that is the only realistic way in. Go for Chan's cooking; do not go expecting the food in the rest of this guide.
 
@@ -189,7 +189,7 @@ Halal, with vegan options. **Closed Mondays, and it does not open until 1pm** an
 
 The dish is the **soupe du pêcheur**, a fisherman's soup of gently poached fish, crab and prawn served in an Asanka earthenware grinder, and after that the **croaker**, deep-fried in what Vittles calls a chainmail of crispy skin. **Choukouya** is on-bone lamb smoked through to the marrow. Sides are Ivorian: **attiéké**, a fluffy cassava couscous, **abolo**, faintly sweet steamed rice cakes, and alloco, ripe fried plantain. Drink bissap, the hibiscus infusion.
 
-A small, casual neighbourhood room a minute from Brockley station, and the plates are built for sharing rather than for one. Come hungry and come in a pair at least.
+A small, casual neighbourhood room a minute from Brockley station, and the plates are built for sharing, not for one. Come hungry and come in a pair at least.
 
 ### Pitanga, West Kensington — Nigerian food with a twist, since 2018
 
@@ -199,7 +199,7 @@ Opened on 31 May 2018 by **Nky Iweka**, who bills herself Executive Mamaput afte
 
 Vegan, vegetarian and gluten-free versions run right through the list rather than being appended. The Lagos Jump Salad is the dish the restaurant is known for.
 
-A small, quiet dining room rather than a lounge, which sets it apart from most of the Nigerian rooms on this page. **Bookable, and worth booking** — it seats few.
+A small, quiet dining room, not a lounge, which sets it apart from most of the Nigerian rooms on this page. **Bookable, and worth booking** — it seats few.
 
 ---
 
@@ -225,7 +225,7 @@ Jollof and fried plantain are on nearly every menu here, which is exactly why th
 
 ### Ghanaian
 
-**Waakye Joint** (80A West Green Road, Tottenham, N15 5NS, and Streatham High Road) is the one to send people to. **Waakye** is rice and black-eyed beans steamed with dried sorghum leaves until both turn red-brown, and it comes as a full plate: salad, noodles, boiled egg, fried fish and **shito**, the Ghanaian chilli sauce made with dried fish and prawn. Order **tofi** — deep-fried turkey tails — with yam fries alongside. A hot counter rather than a dining room, and the waits are long. *Cited by 3 sources.*
+**Waakye Joint** (80A West Green Road, Tottenham, N15 5NS, and Streatham High Road) is the one to send people to. **Waakye** is rice and black-eyed beans steamed with dried sorghum leaves until both turn red-brown, and it comes as a full plate: salad, noodles, boiled egg, fried fish and **shito**, the Ghanaian chilli sauce made with dried fish and prawn. Order **tofi** — deep-fried turkey tails — with yam fries alongside. A hot counter, not a dining room, and the waits are long. *Cited by 3 sources.*
 
 ![A Ghanaian hot counter in stainless trays: two trays of small dried fish, a tray of cooked orange prawns with tongs in them, a tray of leaf-wrapped parcels, golden deep-fried fish, and whole fish in a dark red stew, with plastic tubs of prawns in sauce stacked to one side](../../assets/articles/best-west-african-restaurants-london/waakye-joint-hot-counter.jpg)
 
@@ -263,7 +263,7 @@ The Senegambian kitchens are scattered and none of them is central, which is why
 
 ## Cheapest
 
-The cheap end of this cuisine is genuinely cheap, and it is mostly nowhere near zone 1.
+The cheap end of this cuisine is cheap, and it is mostly nowhere near zone 1.
 
 * **Bola Cuisine**, 328 New Cross Road, SE14 6AG — there is a menu, but the actual system is that you ask for a combination and a price is agreed. Plantain, cassava, egusi, puff puff, and **change from a tenner or even a fiver**. Room for about six people, so eat elsewhere. *Cited by 1 source.*
 * **Angels Bakery**, 136 Plumstead High Street, SE18 1JQ — a bakery that also does jollof and grilled suya, and both are better than they need to be. Sweet bread spooned with shito is the snack. *Cited by 1 source.*
@@ -295,14 +295,14 @@ This is the part the restaurant lists undersell, and on this subject it is not a
 Named traders only — the halls are not the recommendation.
 
 * **Naija High Street**, Lower Marsh Market, Waterloo. Run by Sisi Olonje as a weekday lunch stall; most of the queue is office workers who are not Nigerian. *Cited by 2 sources.*
-* **Suuyar**, Peckham. The buffet is the draw and the suya is the reason it exists. *Cited by 2 sources.*
+* **Suuyar**, Peckham. The buffet and the suya are what it is known for. *Cited by 2 sources.*
 * **The Flygerians**, inside Peckham Palms on Bournemouth Close. *Cited by 4 sources.*
 * **KayBizz Dishes**, Peckham. People travel for the abula and its signature "1960s stew". *Cited by 1 source.*
 * **D&K Gambian Roast Chicken and Rice**, Forest Gate Market, E7. Roast chicken and rice cooked to order at a stall, and the east London end of the Senegambian scene. *Cited by 1 source.*
 
 **Peckham is the centre of this, and Choumert Road is the street.** Lolak Afrique at 38–40 does Nigerian bukka food and Mingles at 18 does Sierra Leonean; Alhaji Suya is round the corner on Peckham Park Road, and Wazobia has been on Rye Lane since 1994. The [Peckham area guide](/articles/peckham-area-guide/) covers the grocers, butchers and the sixty-unit indoor market the cooking comes out of. Southwark also runs street-market pitches on Choumert Road and the roads off Rye Lane, and publishes no trading days for any of them, so treat those as luck.
 
-Brixton is the other cluster — Enish on Coldharbour Lane, Sato's Kitchen, an Alhaji Suya branch, Asafo up on Brixton Hill — and it is where Chishuru started. Deptford's contribution is a shop rather than a kitchen: **Akwaba Market**, the Ivorian grocery whose owners went on to open Sikatiô, and still the supply line behind it.
+Brixton is the other cluster — Enish on Coldharbour Lane, Sato's Kitchen, an Alhaji Suya branch, Asafo up on Brixton Hill — and it is where Chishuru started. Deptford's contribution is a shop, not a kitchen: **Akwaba Market**, the Ivorian grocery whose owners went on to open Sikatiô, and still the supply line behind it.
 
 ---
 
@@ -317,7 +317,7 @@ Brixton is the other cluster — Enish on Coldharbour Lane, Sato's Kitchen, an A
 * **Weeks ahead:** Ikoyi, where reservations open on the 1st of each month at noon and are gone the same day. Chishuru and Akoko at weekends.
 * **A few days:** Akara, Chuku's, Pitanga, Sikatiô, Papa L's Kitchen. Papi's Grill wants a fortnight for the bottomless brunch specifically.
 * **Bookable but rarely needed:** 805, Enish, Aso Rock, Eko Bar, 19FiftySeven.
-* **Walk in:** Bola Cuisine, Angels Bakery, Waakye Joint, Alhaji Suya, Naija High Street, Uncle John's Bakery, Lolak Afrique. None takes reservations. Waakye Joint is the one with a real queue, and it is a counter queue rather than a door queue — long but moving.
+* **Walk in:** Bola Cuisine, Angels Bakery, Waakye Joint, Alhaji Suya, Naija High Street, Uncle John's Bakery, Lolak Afrique. None takes reservations. Waakye Joint is the one with a real queue, and it is a counter queue, not a door queue — long but moving.
 * **Check the day, not the hour.** More kitchens here close two days a week than open seven. 19FiftySeven serves Wednesday to Sunday only; Chuku's is shut Mondays and does not open until 5.30pm from Tuesday to Friday; The Flygerians is shut Mondays and never opens before 1pm.
 
 ---

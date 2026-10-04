@@ -28,11 +28,11 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
-Cycling is the fastest way to cover central London at street level, and the hire schemes make it possible without owning anything. The rules, though, are genuinely confusing — and one of them will get your vehicle impounded.
+Cycling is the fastest way to cover central London at street level, and the hire schemes make it possible without owning anything. The rules, though, are confusing — and one of them will get your vehicle impounded.
 
 Start with that one.
 
-> ⚠️ **The rule that catches visitors out: a privately owned e-scooter is illegal to ride anywhere in public in the UK.** Not just on pavements — on roads and in cycle lanes too. It does not matter that shops sell them, or that you see people riding them daily. If you ride one you can be fined, given **penalty points on your driving licence**, and have the scooter **impounded**. Only *rental* e-scooters from an official trial scheme are legal, and only in participating areas.
+> ⚠️ **The rule that catches visitors out: a privately owned e-scooter is illegal to ride anywhere in public in the UK.** Not just on pavements — on roads and in cycle lanes too. It makes no difference that shops sell them, or that you see people riding them daily. If you ride one you can be fined, given **penalty points on your driving licence**, and have the scooter **impounded**. Only *rental* e-scooters from an official trial scheme are legal, and only in participating areas.
 
 > 💡 **The Short Version:** **Santander Cycles** cost from **£3.50 a day** and are docked. **Forest** and **Lime** are dockless e-bikes you unlock with an app — Forest is **£1 to unlock with up to 30 minutes included**. **Rental e-scooters** are legal in some boroughs but need a **driving licence**. **Private e-scooters are illegal.** Helmets are not compulsory for anyone.
 
@@ -100,9 +100,9 @@ Never leave a bike blocking a doorway, a driveway, a shopfront or a dropped kerb
 
 ---
 
-## E-scooters: the law, properly explained
+## E-scooters: the law explained
 
-This is the section worth reading twice, because the situation is genuinely counterintuitive.
+This is the section worth reading twice, because the situation is counterintuitive.
 
 ### Private e-scooters are illegal
 
@@ -152,7 +152,7 @@ Central London traffic is not the whole picture. These are traffic-free or near 
 
 * **Regent's Canal** — Little Venice through Camden to King's Cross and on to Victoria Park. Flat, car-free and one of the best routes in the city. Ride slowly; it is shared with walkers and the towpath is narrow under bridges.
 * **The Thames Path** — long stretches are ridable, particularly west from Putney and east through the Docklands.
-* **Hyde Park and Kensington Gardens** — the marked routes join up into a genuinely long ride.
+* **Hyde Park and Kensington Gardens** — the marked routes join up into a long ride.
 * **The Cycleways network** — London's signed cycle routes, many now physically separated from traffic. **CS3 along the Embankment** is the best-known and runs east–west along the river.
 * **Richmond Park** — the finest cycling in London, with deer and hills. See our [Richmond guide](/articles/richmond-area-guide/).
 

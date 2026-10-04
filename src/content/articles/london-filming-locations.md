@@ -79,7 +79,7 @@ The painted ironwork and glass roof needed no set dressing at all, which is why 
 
 ![Leadenhall Market's arcade from below, its cream and maroon ironwork and hanging lanterns running the length of the cobbled walkway](../../assets/articles/harry-potter-london/leadenhall-market.jpg)
 
-**Free to walk through and roofed, so it works in rain.** The catch is the City rhythm: the shops and bars keep weekday hours, so it is at its most atmospheric on a weekday evening around six, and close to dead on a Sunday when half the shutters are down. **Gracechurch Street EC3V 1LT**, two minutes from Bank or Monument.
+**Free to walk through and roofed, so it works in rain.** The drawback is the City rhythm: the shops and bars keep weekday hours, so it is at its most atmospheric on a weekday evening around six, and close to dead on a Sunday when half the shutters are down. **Gracechurch Street EC3V 1LT**, two minutes from Bank or Monument.
 
 ### Platform 9¾, King's Cross
 
@@ -103,7 +103,7 @@ Destroyed by Death Eaters in the opening minutes of **Harry Potter and the Half-
 
 It survived in reality, and the walk across it gives the best straight-on view of St Paul's in the city — the bridge was deliberately aligned on the dome, which is why the shot works.
 
-**Free and open at all times**, two minutes from Tate Modern and five from St Paul's, and it is the single easiest location on this page to fit into a day you were having anyway. **SE1 9JE.**
+**Free and open at all times**, two minutes from Tate Modern and five from St Paul's, and it is the easiest location on this page to fit into a day you were having anyway. **SE1 9JE.**
 
 It is also busiest at exactly the times it photographs best — go early on a weekday if you want the axis to yourself, since by mid-morning at a weekend you are photographing a crowd.
 
@@ -117,7 +117,7 @@ The centre of the square is a covered Victorian reservoir behind railings, which
 
 **A private residential square, so this is a pavement visit.** Look from the street, keep the noise down and do not photograph through windows, because people live here and get a steady trickle of visitors. There is no marker, no plaque and nothing to buy.
 
-**Claremont Square N1 9LY**, five minutes from Angel and about the same from King's Cross — which makes it an easy add-on to Platform 9¾ rather than a trip of its own.
+**Claremont Square N1 9LY**, five minutes from Angel and about the same from King's Cross — which makes it an easy add-on to Platform 9¾, not a trip of its own.
 
 ### London Zoo's Reptile House — Regent's Park
 
@@ -135,7 +135,7 @@ Where Harry discovers he can talk to snakes and Dudley ends up behind the glass,
 
 **London's oldest restaurant**, trading since 1798, written into *Spectre* as Bond's own regular — M meets him here, and the film makes no attempt to disguise the room.
 
-Game is the speciality, hung and served in season from the restaurant's own estate in the Pennines — grouse from mid-August, then partridge, pheasant and venison through the autumn, which is the time of year to come if the food rather than the film is the point.
+Game is the speciality, hung and served in season from the restaurant's own estate in the Pennines — grouse from mid-August, then partridge, pheasant and venison through the autumn, which is the time of year to come if you are coming for the food, not the film.
 
 **Book, and book well ahead.** It is small, heavily panelled and consistently full, walk-ins are optimistic, and the ground-floor room is the one from the film. Expect proper prices — this is a special-occasion restaurant that happens to be a location, not the other way round.
 
@@ -151,7 +151,7 @@ Bond's Shanghai hotel pool, all glass and neon reflections, was filmed **at the 
 
 **It is a working hotel pool**, so access means being a guest or booking into the spa — there is no viewing, no day pass to the pool alone, and turning up to look is not a thing that happens.
 
-The lobby is public and the **towers outside are the more honest photograph** anyway: Canary Wharf standing in for Shanghai works precisely because the exteriors do the job, and those are free.
+The lobby is public and the **towers outside make the truer photograph** anyway: Canary Wharf standing in for Shanghai works precisely because the exteriors do the job, and those are free.
 
 **Westferry Circus E14 8RS**, five minutes from Canary Wharf station — and Bōkan's rooftop, three streets away, gives you the same skyline from above without a hotel booking.
 
@@ -165,7 +165,7 @@ Bond drives a **tank through St Petersburg** in **GoldenEye (1995)** — in a co
 
 **The courtyard is free and open daily**, and it changes character completely by season: fifty-five dancing fountains you can walk through in summer, and an ice rink from mid-November to early January. Exhibitions inside are ticketed and separate.
 
-Stand in the middle and the substitution makes sense immediately — the courtyard is enclosed on all four sides, so there is no modern London in the frame in any direction. That is the whole reason the production never left the country.
+Stand in the middle and the substitution makes sense immediately — the courtyard is enclosed on all four sides, so there is no modern London in the frame in any direction. That is why the production never left the country.
 
 **Strand WC2R 1LA**, with Temple two minutes away and Covent Garden five, and the river terrace at the back is also free.
 
@@ -177,7 +177,7 @@ Bond meets Q on a bench in front of **Turner's The Fighting Temeraire** in **Sky
 
 **The painting is on permanent display and free to see**, with no ticket and no booking, and the gallery opens late one evening a week — by far the best time to come, because the room empties and you can actually sit on the bench.
 
-Ask at the desk for the Turner rooms rather than hunting; staff get asked constantly and will point you straight there. The bench in the scene is a normal gallery bench and it is still in front of the painting.
+Ask at the desk for the Turner rooms, not hunting; staff get asked constantly and will point you straight there. The bench in the scene is a normal gallery bench and it is still in front of the painting.
 
 **Trafalgar Square WC2N 5DN**, two minutes from Charing Cross, and it costs nothing to walk in and see one painting and leave, which is a perfectly respectable way to use this building.
 
@@ -211,7 +211,7 @@ The grubby door the slow horses trudge through in nearly every episode is **a re
 
 *Free · exterior*
 
-The BBC filmed its 221B exterior here rather than on the real, much busier Baker Street. **Speedy's Sandwich Bar & Café next door is real, open and trading** — go in for a coffee rather than photograph a stranger's door. **187 North Gower Street NW1 2NJ**, three minutes from Euston Square.
+The BBC filmed its 221B exterior here rather than on the real, much busier Baker Street. **Speedy's Sandwich Bar & Café next door is real, open and trading** — go in for a coffee instead of photographing a stranger's door. **187 North Gower Street NW1 2NJ**, three minutes from Euston Square.
 
 For the museum, the statue, the pub's replica study and Arthur Conan Doyle's own London, see our full [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide.
 
@@ -245,7 +245,7 @@ For the full story, and the museum's own Conan Doyle plaque, see our [Sherlock H
 
 Several genuine East End addresses, including **Bethnal Green Town Hall** as Franky Four Fingers's tailor — the Edwardian civic building is now a hotel, and you can walk into the bar and stand in the shot.
 
-**Exteriors are free to see at any time**, and the town hall is the one worth the trip: it is now the Town Hall Hotel, and the bar and restaurant are open to non-residents, so you can sit inside the shot rather than looking at it.
+**Exteriors are free to see at any time**, and the town hall is the one worth the trip: it is now the Town Hall Hotel, and the bar and restaurant are open to non-residents, so you can sit inside the shot, not looking at it.
 
 The pawn shop was at **88 Teesdale Street E2 0AA** and the frontage was dressed for filming and has since reverted, so it takes some finding and there is nothing to mark it. This one is for people who already like the film.
 
@@ -255,7 +255,7 @@ Bethnal Green station is five minutes from both, and Columbia Road and Brick Lan
 
 *Free*
 
-Doug the Head's diamond shop sits on **Hatton Garden, London's real diamond district** — Ritchie did not have to invent a setting, because roughly three hundred jewellery businesses genuinely trade on and around this one street.
+Doug the Head's diamond shop sits on **Hatton Garden, London's real diamond district** — Ritchie did not have to invent a setting, because roughly three hundred jewellery businesses trade on and around this one street.
 
 **Free, and best on a weekday** when the shops are open and the street is actually working — at a weekend the shutters are down and it is one of the deadest streets in central London.
 
@@ -267,7 +267,7 @@ Farringdon and Chancery Lane are both about five minutes. The same stretch playe
 
 *Open · a restaurant*
 
-The floating Chinese pagoda appears in *The Gentlemen* and as a backdrop in *Slow Horses*, and it is a genuinely odd object to come across on a canal — three tiers of red and gold moored permanently at Cumberland Basin, in service since 1983.
+The floating Chinese pagoda appears in *The Gentlemen* and as a backdrop in *Slow Horses*, and it is an odd object to come across on a canal — three tiers of red and gold moored permanently at Cumberland Basin, in service since 1983.
 
 **It is a working restaurant, and you can book a table on it**, which makes it one of very few locations on this page you can eat inside. Cantonese, with dim sum at lunch. It does not open every day, so check before walking out there.
 
@@ -341,7 +341,7 @@ The private communal garden William and Anna climb into, in the scene with the b
 
 > ⚠️ **There is no public access, and there never has been.** You look through the railings. Rosmead Road itself is a good-looking street, which softens the blow.
 
-If you came for the houses rather than the film, the pastel streets are mapped in walking order in our [Notting Hill colourful houses route](/articles/notting-hill-colourful-houses/).
+If you came for the houses, not the film, the pastel streets are mapped in walking order in our [Notting Hill colourful houses route](/articles/notting-hill-colourful-houses/).
 
 ## Batman and dystopia
 
@@ -351,7 +351,7 @@ If you came for the houses rather than the film, the pastel streets are mapped i
 
 A grand Victorian former lead-manufacturing warehouse on St John Street, used for **Gotham City Police Department interiors in Batman Begins and The Dark Knight Rises**. The cast-iron galleries and top light did the work that would otherwise have cost a set.
 
-**Exterior only and privately owned.** It spent years derelict, which is precisely why film crews could get inside it — an empty Victorian warehouse with cast-iron galleries and a glazed roof is a free set. It has since been redeveloped, so what you see from the street is the shell rather than the rooms, and the interiors are gone as film locations.
+**Exterior only and privately owned.** It spent years derelict, which is precisely why film crews could get inside it — an empty Victorian warehouse with cast-iron galleries and a glazed roof is a free set. It has since been redeveloped, so what you see from the street is the shell, not the rooms, and the interiors are gone as film locations.
 
 **28-36 St John Street EC1M 4AY**, five minutes from Farringdon and about the same from Barbican. Smithfield Market is across the road and the Slough House doorway is a five-minute walk, so all three fit into one loop.
 
@@ -381,7 +381,7 @@ The fictional **32 Windsor Gardens** is a pastel-painted Primrose Hill crescent 
 
 **It is a private residential street.** Look from the pavement, do not linger outside individual houses, and do not knock — the residents field this every weekend. Chalk Farm is five minutes away and Primrose Hill itself, with its protected view over the city, is two streets on, which is a better reason to be here.
 
-There is also a **Paddington Bear trail** around Paddington station, free and self-guided, and a **statue on the concourse** by platform 1 — that one is genuinely worth going to, and it costs nothing.
+There is also a **Paddington Bear trail** around Paddington station, free and self-guided, and a **statue on the concourse** by platform 1 — that one is worth going to, and it costs nothing.
 
 ---
 
@@ -395,7 +395,7 @@ There is also a **Paddington Bear trail** around Paddington station, free and se
 
 *Free grounds · Painted Hall ticketed*
 
-Thor and Malekith fight through Wren's colonnades in the finale of **Thor: The Dark World (2013)**, and Greenwich plays itself rather than standing in for anywhere — unusual for a Marvel film.
+Thor and Malekith fight through Wren's colonnades in the finale of **Thor: The Dark World (2013)**, and Greenwich plays itself, not standing in for anywhere — unusual for a Marvel film.
 
 ![The colonnade beside the Queen's House at the Old Royal Naval College, its white columns throwing long shadows across the flagstones](../../assets/articles/greenwich-area-guide/naval-college-colonnade.jpg)
 
@@ -439,7 +439,7 @@ Tom Cruise runs along the top of the bridge in the chase that ends at Tate Moder
 
 **The best view of the run is from the Thames Path** on the south bank, looking north — you get the bridge, the station roof he crosses first, and St Paul's behind it in one frame, which is more or less the shot the film uses.
 
-**Free and open at all times**, and it is a five-minute walk from Tate Modern where the chase ends, so the whole sequence is walkable in about fifteen minutes. Blackfriars is the only station on the Thames with entrances on both banks, which is itself worth knowing.
+**Free and open at all times**, and it is a five-minute walk from Tate Modern where the chase ends, so the whole sequence is walkable in about fifteen minutes. Blackfriars is the only station on the Thames with entrances on both banks.
 
 The **Millennium Bridge is three minutes upstream**, so the Harry Potter and Mission: Impossible locations pair naturally.
 
@@ -481,7 +481,7 @@ The same shed appears in both **Paddington** films, for reasons that need no exp
 
 **Free to walk through and open around the clock** — the concourse is outside the ticket barriers, so you need no fare to stand under Brunel's 1854 roof. The **Paddington Bear statue sits on platform 1**, near the Praed Street end, and there is a small shop beside it; both are free to reach.
 
-Go at the wrong time and you are photographing a rush-hour crowd. **Mid-morning or after eight in the evening** is when the roof reads properly, and the ironwork is best seen from the raised walkway at the Bishop's Bridge Road end.
+Go at the wrong time and you are photographing a rush-hour crowd. **Mid-morning or after eight in the evening** is when the roof reads clearly, and the ironwork is best seen from the raised walkway at the Bishop's Bridge Road end.
 
 **W2 1HQ**, and the Elizabeth line entrance is a separate, much newer hall that appears in nothing.
 
@@ -508,7 +508,7 @@ The statues around the edge are the reason to linger: Churchill, Mandela, Gandhi
 **Almost all of it is free**, because a filming location is usually just a street.
 
 * **Free and public:** Leadenhall Market, Millennium Bridge, Borough Market, the South Bank, St Pancras, Notting Hill's streets and almost every exterior in this guide.
-* **Ticketed:** the **Warner Bros. Studio Tour** at Leavesden is the expensive one and needs booking weeks ahead — and it is a studio tour rather than a location. **Platform 9¾** at King's Cross is free to look at; the photograph with the trolley and scarf is the paid part, and the queue is long.
+* **Ticketed:** the **Warner Bros. Studio Tour** at Leavesden is the expensive one and needs booking weeks ahead — and it is a studio tour, not a location. **Platform 9¾** at King's Cross is free to look at; the photograph with the trolley and scarf is the paid part, and the queue is long.
 * **Working buildings.** Several locations here are private homes, offices or churches. Exteriors are fair game; do not go in.
 * **Guided film tours** run £20–£40 and are mostly worth skipping — the locations are easy to find yourself and the guides rarely know more than the internet does.
 

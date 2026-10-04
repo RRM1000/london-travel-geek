@@ -16,7 +16,7 @@ faq:
   - q: "How much is a day room in London?"
     a: "Roughly £50 to £160 for a normal hotel, depending on the address. The Dover Hotel in Pimlico is about £50 for 10am to 4pm, ibis London Heathrow about £50 for 9am to 5pm, and Marlin Waterloo about £107 for windows starting at 7am. At the top end the Athenaeum on Piccadilly is about £272 for the day, which is 54% off its £580 overnight rate."
   - q: "Is a day room cheaper than a night?"
-    a: "Always, and usually by a lot. The discounts we found ranged from 24% to 69% off the same hotel's overnight rate. The biggest savings are at expensive hotels rather than cheap ones — Seraphine Hammersmith was 69% off and the Mandeville 66%, while budget airport hotels were nearer 24%, because there is less margin to give away."
+    a: "Always, and usually by a lot. The discounts we found ranged from 24% to 69% off the same hotel's overnight rate. The biggest savings are at expensive hotels, not cheap ones — Seraphine Hammersmith was 69% off and the Mandeville 66%, while budget airport hotels were nearer 24%, because there is less margin to give away."
   - q: "Why would you book a hotel for the day?"
     a: "Four common reasons: a long layover or an early arrival before check-in anywhere; somewhere quiet to work with a desk, a shower and no time limit; a spa or pool afternoon, which several sell as a package; and the gap between checking out at 10am and a late flight. It is also a far better answer to a nine-hour wait than a left-luggage locker and a coffee shop."
   - q: "Do you pay upfront for a day room?"
@@ -24,10 +24,10 @@ faq:
   - q: "Are there day rooms at Heathrow and Gatwick?"
     a: "Both, but differently. Heathrow has no airport-owned cabin hotel, so day use runs through the ordinary hotels on Bath Road and around the terminals — ibis Heathrow from about £50, Hilton Garden Inn about £70. Gatwick has YOTELAIR in the South Terminal, which sells cabins by the hour from a four-hour minimum. It is landside, not airside, which catches people out."
   - q: "What time do London day rooms start?"
-    a: "Most windows open at 9am or 10am, which is no help if you land at six. The early ones are worth knowing: Marlin Waterloo sells from 7am, and at Heathrow both Crowne Plaza T4 and the Atrium open at 7am. Evening windows also exist — 4pm to 10pm or 11pm at several — for the reverse problem of a midnight flight."
+    a: "Most windows open at 9am or 10am, which is no help if you land at six. The early ones: Marlin Waterloo sells from 7am, and at Heathrow both Crowne Plaza T4 and the Atrium open at 7am. Evening windows also exist — 4pm to 10pm or 11pm at several — for the reverse problem of a midnight flight."
 ---
 
-About **245 London hotels** will sell you a room for the afternoon rather than the night. You book a window — 10am to 5pm, say — and pay somewhere between **24% and 69% less** than the same room costs overnight.
+About **245 London hotels** will sell you a room for the afternoon, not the night. You book a window — 10am to 5pm, say — and pay somewhere between **24% and 69% less** than the same room costs overnight.
 
 It is the least-known useful thing in London accommodation, and the answer to a problem most visitors have at least once: a nine-hour gap, a suitcase, and nowhere to be.
 
@@ -72,7 +72,7 @@ There is far less choice in that than the category suggests. Across the London l
 
 ### Always take the longest window
 
-The length of the slot barely affects what it costs. Across the London listings a nine-hour window averages slightly *less* than a seven-hour one, and an eight-hour slot runs anywhere from £50 at ibis Heathrow to £272 at the Athenaeum. You are not buying hours — you are buying that hotel's room, and the price is set by the hotel rather than the clock.
+The length of the slot barely affects what it costs. Across the London listings a nine-hour window averages slightly *less* than a seven-hour one, and an eight-hour slot runs anywhere from £50 at ibis Heathrow to £272 at the Athenaeum. You are not buying hours — you are buying that hotel's room, and the price is set by the hotel, not the clock.
 
 So if a hotel sells both 10am–3pm and 10am–5pm, **take the longer one**. It is usually the same price or a few pounds more, and a shorter slot almost never saves anything worth having.
 
@@ -111,7 +111,7 @@ Dayuse's filter bar lets you set **time of arrival**, **time of departure** and 
 
 ## What to check before you book
 
-**When the window starts, not just how long it is.** This is the single most common disappointment. Most open at 9am or 10am, and a 6am landing means three hours in the terminal either way.
+**When the window starts, not just how long it is.** This is the most common disappointment. Most open at 9am or 10am, and a 6am landing means three hours in the terminal either way.
 
 **Whether it says "payment at the hotel".** Most London day-use listings do, alongside free cancellation, which means you can hold a room for a delayed flight and let it go for nothing. A minority are prepaid — Hilton Paddington, Courtyard Heathrow, DoubleTree Kingston and Hilton Syon Park among them — and those carry real risk if your plans move.
 
@@ -129,4 +129,4 @@ Dayuse's filter bar lets you set **time of arrival**, **time of departure** and 
 
 **If you want the night as well.** Day use is not a discount on an overnight stay, and booking both is two bookings at two prices. For an actual night, our [where to stay hub](/stay/) is the better starting point — and for a longer stay, an [aparthotel](/articles/aparthotels-london/) or a [capsule](/articles/pod-hotels-london/) will beat both.
 
-*Rates and windows read off Dayuse.co.uk on 7 September 2026, with the discount shown against each hotel's own quoted overnight rate. YOTELAIR details from YOTEL's own site the same day. Day-use prices move like any other hotel rate — treat these as the shape of the market rather than a quote.*
+*Rates and windows read off Dayuse.co.uk on 7 September 2026, with the discount shown against each hotel's own quoted overnight rate. YOTELAIR details from YOTEL's own site the same day. Day-use prices move like any other hotel rate — treat these as the shape of the market, not a quote.*

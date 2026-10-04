@@ -30,7 +30,7 @@ faq:
     a: "On a weekday the last direct train to King's Cross leaves Cambridge at 23:51 and arrives 01:04; the last fast one is 22:42, in at 23:32. The last direct to Liverpool Street is 22:48, arriving 00:18."
 ---
 
-**An Off-Peak return from King's Cross to Cambridge is £32.40, and the fast train does it in 49 minutes.** That is closer than most people think, and it is the reason Cambridge works as a day trip in a way that needs no planning beyond one decision: which college you are paying to go into.
+**An Off-Peak return from King's Cross to Cambridge is £32.40, and the fast train does it in 49 minutes.** That is closer than most people think, and it is why Cambridge works as a day trip in a way that needs no planning beyond one decision: which college you are paying to go into.
 
 Contactless does not work. That trips people up at the gate, and it also costs them the 2FOR1 discount, which needs a paper or e-ticket from National Rail.
 
@@ -71,7 +71,7 @@ National Express runs from **£6.20 one way**, and the fastest service is **1 ho
 
 ### Driving, and why park and ride wins
 
-Cambridge is about 106km by road, off the M11 at Junction 13 for Madingley Road. Then the arithmetic decides it for you.
+Cambridge is about 106km by road, off the M11 at Junction 13 for Madingley Road. Parking options and costs:
 
 | Parking | Cost |
 | --- | --- |
@@ -104,7 +104,7 @@ Across the includes and excludes lists of twelve product pages on 12 September 2
 
 ### The walking tours, and the King's upgrade
 
-<a href="https://www.getyourguide.com/activity/-t91614?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Cambridge Walking Tour by Alumni</a> is **£23**, 1½ to 2½ hours, 4.7 from 1,427 reviews, and led by a current student or graduate. Its excludes list is unusually honest: **"Entry to King's College Chapel (unless upgrade selected)"**, along with any indoor access beyond public areas. <a href="https://www.getyourguide.com/activity/-t339406?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Footprints Tours version</a> is **£40**, two hours, 4.7 from 1,410 reviews, and does the same thing from the other side — "Entrance to King's College (if option selected)" sits in its **includes** list with a tick beside it.
+<a href="https://www.getyourguide.com/activity/-t91614?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Cambridge Walking Tour by Alumni</a> is **£23**, 1½ to 2½ hours, 4.7 from 1,427 reviews, and led by a current student or graduate. Its excludes list is explicit: **"Entry to King's College Chapel (unless upgrade selected)"**, along with any indoor access beyond public areas. <a href="https://www.getyourguide.com/activity/-t339406?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Footprints Tours version</a> is **£40**, two hours, 4.7 from 1,410 reviews, and does the same thing from the other side — "Entrance to King's College (if option selected)" sits in its **includes** list with a tick beside it.
 
 **£23 plus £16.75 at the King's desk is £39.75.** That is the number to beat before you pay £40 for a walk that still does not include the chapel.
 
@@ -182,7 +182,7 @@ This is the part worth getting right, because the colleges are not a set of equi
 
 *Photo: Merve Aktas Yalman, Pexels.*
 
-**Punting is the thing people get ripped off on, and the mechanism is specific.** The Conservators of the River Cam licence exactly **six punting stations**: La Mimosa on the corner of Jesus Green, Quayside, Trinity College, the Mill Pond on Silver Street, Mill Lane, and the Granta mill pond near Sheep's Green. Licensed companies trade at their own station and nowhere else.
+**Punting is where people get ripped off, and the mechanism is specific.** The Conservators of the River Cam licence exactly **six punting stations**: La Mimosa on the corner of Jesus Green, Quayside, Trinity College, the Mill Pond on Silver Street, Mill Lane, and the Granta mill pond near Sheep's Green. Licensed companies trade at their own station and nowhere else.
 
 > ⚠️ **Anyone selling you a punt trip on King's Parade or Market Square is unlicensed.** Cambridge City Council has a Public Spaces Protection Order prohibiting touting for punt custom anywhere in the city. Breaching it is a criminal offence carrying a £100 fixed penalty notice or prosecution, and uniformed enforcement officers and police patrol for it. **Buy at a punting station**, where the price is posted and the boat is the company's own.
 
@@ -218,7 +218,7 @@ Scudamore's has been going since 1910 and runs the Mill Lane station at Granta P
 | **Botanic Garden** | **£7.74** advance, £8.60 on the gate | Apr–Sep 10:00–18:00, Oct 10:00–17:00, Nov–Jan 10:00–16:00 |
 | **Round Church** | **£3.50**, £1 students and teenagers | Wed–Sat 10:00–17:00, last entry 16:45. Closed Sundays |
 
-**The Fitzwilliam is the single best free thing in Cambridge** and it is closed on Mondays, which is the most common wasted trip. Ticketed exhibitions are free for under-18s, pay what you can on the first Sunday of the month, and free for 18 to 25s and students who join the Fitz List. Groups of ten or more pay £5 a head.
+**The Fitzwilliam is the best free thing in Cambridge** and it is closed on Mondays, which is the most common wasted trip. Ticketed exhibitions are free for under-18s, pay what you can on the first Sunday of the month, and free for 18 to 25s and students who join the Fitz List. Groups of ten or more pay £5 a head.
 
 **The Botanic Garden is five minutes' walk from the station**, through the Station Road Gate on Hills Road, which makes it the obvious first or last stop of the day. Children up to 16 are free. Booking a day ahead takes 10% off — though not on event days like Apple Day or Cambridge Botanic Lights. The headline price of £9.50 includes an optional 10% donation; standard admission is £8.60.
 
@@ -239,7 +239,7 @@ Yes, on less than you would hope, and on nothing academic.
 - **Scholars Punting** — 20% off
 - **Cambridge Bike Tour** — discounted
 
-**No college is in the scheme, and neither is Scudamore's.** The offer needs a valid National Rail ticket, which is another reason the contactless question matters here: there is no way to qualify without buying a real train ticket.
+**No college is in the scheme, and neither is Scudamore's.** The offer needs a valid National Rail ticket, which is another reason to settle the contactless question: there is no way to qualify without buying a real train ticket.
 
 ⚡ **[National Rail 2FOR1: how to actually get it](/articles/national-rail-2for1-london-attractions/)** — the rules, the eVouchers, and the attractions that are only a third off.
 

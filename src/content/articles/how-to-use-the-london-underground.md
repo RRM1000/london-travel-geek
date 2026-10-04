@@ -149,7 +149,7 @@ Standard off-peak fares apply, and night journeys count towards the previous day
 ### Weekend Engineering Work
 TfL frequently performs track maintenance and signaling upgrades over weekends. Before heading out on Saturday or Sunday—especially for airport flights or theatre shows—check the [TfL Planned Closures Page](https://tfl.gov.uk/status-updates/planned-track-closures) or use the **TfL Go App**.
 
-**Changing between King's Cross St Pancras and the main line stations** is via the King's Cross Lightwall pedestrian tunnel — the quickest route between the two, though the signage is easy to miss. Follow signs for St Pancras International rather than heading back up to street level.
+**Changing between King's Cross St Pancras and the main line stations** is via the King's Cross Lightwall pedestrian tunnel — the quickest route between the two, though the signage is easy to miss. Follow signs for St Pancras International, not heading back up to street level.
 
 ![A long curving pedestrian tunnel lined with a colour-changing light wall, linking King's Cross and St Pancras](../../assets/articles/how-to-use-the-london-underground/kings-cross-lightwall-tunnel.jpg)
 
@@ -161,7 +161,7 @@ TfL frequently performs track maintenance and signaling upgrades over weekends. 
 
 ## Travelling with luggage
 
-**The line matters more than the station.** The **Elizabeth line** and **District line** run walk-through carriages with room for a case. The deep-level lines — Central, Piccadilly, Northern, Victoria — have narrow doorways, no racks, and a step up from the platform. With a large bag, going the long way round on the Elizabeth line is usually faster than the direct deep-level route.
+**The line counts for more than the station.** The **Elizabeth line** and **District line** run walk-through carriages with room for a case. The deep-level lines — Central, Piccadilly, Northern, Victoria — have narrow doorways, no racks, and a step up from the platform. With a large bag, going the long way round on the Elizabeth line is usually faster than the direct deep-level route.
 
 Use the **wide gate** at the ticket barrier rather than wrestling a case through a standard one. Every station has at least one, beside the staffed gate.
 
@@ -186,9 +186,9 @@ Two different things get muddled here, and the difference decides whether you ca
 
 > 📶 **As of 6 September 2026:** roughly 60% of Underground stations have 4G and 5G, and TfL expects the whole network covered by the end of 2026. The Elizabeth line is complete. The remaining work in 2026 is on the Victoria, Jubilee, Bakerloo and Piccadilly lines and the last Circle and District sections.
 >
-> **The station list changes every few weeks.** [TfL's connectivity page](https://tfl.gov.uk/travel-information/improvements-and-projects/improving-digital-connectivity-on-our-network) is the live version — check it if signal matters for a specific journey.
+> **The station list changes every few weeks.** [TfL's connectivity page](https://tfl.gov.uk/travel-information/improvements-and-projects/improving-digital-connectivity-on-our-network) is the live version — check it if you need signal for a specific journey.
 
-**If being reachable underground genuinely matters** — you are working, or meeting someone off a train — route the journey on the Elizabeth line where you can. It is the only line where that is a safe assumption today.
+**If you need to be reachable underground** — you are working, or meeting someone off a train — route the journey on the Elizabeth line where you can. It is the only line where that is a safe assumption today.
 
 ---
 

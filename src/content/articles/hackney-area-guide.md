@@ -57,7 +57,7 @@ faq:
   - q: "Can you swim at London Fields Lido?"
     a: "Yes. It is a 50-metre heated outdoor pool, open year-round including winter, and one of only a handful of Olympic-length lidos in London. It gets extremely busy at weekends and in hot weather — book a lane session online in advance rather than turning up."
   - q: "Is Hackney worth visiting for a tourist?"
-    a: "For a Saturday, yes — Broadway Market, London Fields and the canal make a genuinely good half day. But this is a residential borough, not a sightseeing one. There is no major museum or monument. Come for markets, parks and food rather than landmarks."
+    a: "For a Saturday, yes — Broadway Market, London Fields and the canal make a good half day. But this is a residential borough, not a sightseeing one. There is no major museum or monument. Come for markets, parks and food, not landmarks."
   - q: "How do I get to Hackney from central London?"
     a: "The London Overground, not the Tube — Hackney has no Underground station. From Highbury & Islington (Victoria line) or Liverpool Street, the Overground reaches London Fields and Hackney Central in a few minutes. Hackney Wick is on the same line for the Olympic Park."
   - q: "What is Hackney Wick?"
@@ -68,13 +68,13 @@ heroImageAlt: "The Lord Napier Star pub in Hackney Wick, covered from roof to pa
 
 Hackney has no Underground station, no major museum and no monument. What it has is three parks, two canals, a 50-metre outdoor pool and one of the best Saturday markets in London.
 
-This is residential London — the version most visitors never see, and the one that rewards a Saturday rather than a sightseeing itinerary.
+This is residential London — the version most visitors never see, and the one that rewards a Saturday, not a sightseeing itinerary.
 
 Hackney has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=hackney).
 
 ## Why visit — and who should skip it
 
-**Come here if** it is Saturday and you like food. Broadway Market, London Fields and the canal make an easy, genuinely good half day, and it is fifteen minutes from Liverpool Street on the Overground.
+**Come here if** it is Saturday and you like food. Broadway Market, London Fields and the canal make an easy, good half day, and it is fifteen minutes from Liverpool Street on the Overground.
 
 **Skip it if** you are on a short trip, or it is a Tuesday. There is nothing to tick off here, and midweek Hackney is simply a place where people live.
 
@@ -102,14 +102,14 @@ The centre of visitor Hackney, and **a Saturday proposition above all else** —
 **Come on a Saturday for the market and expect crowds**, or midweek for the park and the lido without them. London Fields station is on the Overground, two minutes away.
 
 ### Mare Street and Hackney Central
-The everyday high street rather than the visitor one — chain shops, a shopping centre, and the part of Hackney that exists for the people who live here.
+The everyday high street, not the visitor one — chain shops, a shopping centre, and the part of Hackney that exists for the people who live here.
 
 Two things bring people anyway. The **Hackney Empire** is a 1901 Frank Matcham music hall, one of the finest surviving theatre interiors in London, still programming comedy, panto and touring work. The **Picturehouse** next door is a full-size independent cinema.
 
 **Hackney Central is the Overground station for all of this**, and it connects to Hackney Downs by a signed two-minute walk — useful, because the two lines go different ways.
 
 ### Victoria Park and the canal
-East, and **the oldest public park in Britain**, opened in 1845. Two lakes, a Chinese pagoda, and a genuinely good playground.
+East, and **the oldest public park in Britain**, opened in 1845. Two lakes, a Chinese pagoda, and a good playground.
 
 The **Hertford Union Canal** runs along its southern edge with a towpath and a run of canal-side pubs, and joins the Regent's Canal at the western end, which makes this the natural link between Hackney and the Olympic Park on foot.
 
@@ -124,7 +124,7 @@ Further east where the canals meet, and **the highest concentration of artists' 
 
 *The Lord Napier Star, Hackney Wick.*
 
-It is a drinking and daytime-wandering destination rather than a sightseeing one: taprooms, canal-side terraces and a lot of street art that changes constantly.
+It is a drinking and daytime-wandering destination, not a sightseeing one: taprooms, canal-side terraces and a lot of street art that changes constantly.
 
 **Footbridges cross straight into the Olympic Park**, which makes this the best approach to it on foot. Hackney Wick station is on the Overground, and the area is at its best on a summer afternoon and fairly bleak in the rain.
 
@@ -173,7 +173,7 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 | **Half a day** | Add the canal walk east to Victoria Park |
 | **A full day** | Continue to Hackney Wick and the Olympic Park |
 
-**Best time:** Saturday morning, before 11:00. The market is the reason to come and it gets very full.
+**Best time:** Saturday morning, before 11:00. The market is why people come, and it gets very full.
 
 **Combine it:** Columbia Road Flower Market is Sunday morning and twenty minutes south-west — an easy weekend pairing with Shoreditch.
 
@@ -198,7 +198,7 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 
 ## Where to stay
 
-Cheap by London standards and genuinely local, with the trade-off of Overground-only transport.
+Cheap by London standards and local, with the trade-off of Overground-only transport.
 
 - **London Fields and Broadway Market** — Small guesthouses and rentals, walkable to everything here.
 - **Hackney Wick** — Warehouse conversions near the Olympic Park.

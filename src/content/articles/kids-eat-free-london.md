@@ -37,7 +37,7 @@ Everything below was **read off each operator's own website on 3 September 2026*
 
 > 💡 **The Short Version:** **Bella Italia** runs kids eat free Sunday to Thursday all year — but its terms exclude ten of its eleven London restaurants, leaving only Croydon. **Morrisons Café** is the best unconditional deal at seven days a week, though only one of the ten Morrisons nearest Covent Garden has a café. **Prezzo's £1.99-a-month Kids Club** feeds up to three children free on one adult main, which no free offer matches. **IKEA charges 95p** for a kids' meal with no adult purchase at all. And if you are staying the night, **Premier Inn** feeds two under-16s free at breakfast.
 
-> ⚠️ **This page only lists offers that run all year.** Several chains — ASK Italian, Zizzi, TGI Fridays and Toby Carvery among them — run kids-eat-free during school holidays and then withdraw it. Those come and go on a few weeks' notice, so check the operator's own page in the fortnight before each half term rather than trusting any list, including this one.
+> ⚠️ **This page only lists offers that run all year.** Several chains — ASK Italian, Zizzi, TGI Fridays and Toby Carvery among them — run kids-eat-free during school holidays and then withdraw it. Those come and go on a few weeks' notice, so check the operator's own page in the fortnight before each half term, not trusting any list, including this one.
 
 ---
 
@@ -49,7 +49,7 @@ Three different things get sold under the same headline, and they are not equall
 
 **A free kids' meal with a spend threshold.** Morrisons wants £5 on an adult main, Dunelm £5 in the café, YO! Sushi £10 on food per child. Lower bar, and you can hit it with breakfast.
 
-**A £1 kids' meal.** Sizzling Pubs, Hungry Horse and Travelodge breakfast. Still needs the adult purchase, but the wording is honest about it.
+**A £1 kids' meal.** Sizzling Pubs, Hungry Horse and Travelodge breakfast. Still needs the adult purchase, but the wording says so.
 
 ---
 
@@ -82,7 +82,7 @@ These are the ones worth building a habit around, because they do not vanish the
 
 Then read the terms. Bella Italia's own page excludes **Cranbourn Street, Paddington, Irving Street, Queensway 110, Queensway 55, St Martins Lane, Strand, South Kensington, Shaftesbury Avenue and Wellington Street**. Bella Italia has eleven London restaurants. **Croydon — Valley Leisure Park, CR0 4YA — is the only one the exclusion list does not name.**
 
-That is the single most useful fact on this page. Every national list still sends families to the Leicester Square and Covent Garden branches for a deal those branches do not run.
+That is the most useful fact on this page. Every national list still sends families to the Leicester Square and Covent Garden branches for a deal those branches do not run.
 
 ### Las Iguanas
 
@@ -100,7 +100,7 @@ The odd one out, and arguably the best. **£1.99 a month or £19.99 a year throu
 
 **A free kids' meal and any kids' drink — normally £4.00 — with an adult main of £5 or over, every day, seven days a week.** Children under 16 and with an adult. The adult main has to come from "The Breakfasts" or "The Classics"; extras do not count. The free meal is Birds Eye chicken dippers, fish fingers, veggie fingers or a Goodfella's mini pizza, and it also works on the Kids Pick n Mix deal.
 
-The catch is geographical. Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Holloway, Peckham, Stamford Hill, Canning Town, Wood Green, Stratford and Acton — **only Acton, on King Street W3, lists a café.**
+The drawback is geographical. Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Holloway, Peckham, Stamford Hill, Canning Town, Wood Green, Stratford and Acton — **only Acton, on King Street W3, lists a café.**
 
 ### Dunelm Pausa, Sizzling Pubs, Hungry Horse and IKEA
 
@@ -118,17 +118,17 @@ The catch is geographical. Of the ten Morrisons nearest Covent Garden — Southw
 
 Most of the big chains treat kids-eat-free as a school-holiday campaign: it appears a week or two before half term and is withdrawn the day the term restarts. **ASK Italian, Zizzi, TGI Fridays and Toby Carvery all ran one over summer 2026 and all closed it in early September.** Expect them back around **autumn half term, which most London boroughs run from Monday 26 October to Friday 30 October 2026**, then Christmas from **Saturday 19 December**, and **February half term on 15 to 19 February 2027**. Academies and individual boroughs shift by a day or two.
 
-Two things run without a published end date, and they are the ones worth knowing now.
+Two things run without a published end date.
 
 ### YO! Sushi
 
-**One free kiddos bento for every £10 an adult spends on food, Monday to Friday.** Children 12 and under. YO! Sushi ties the offer to local school holiday dates rather than one national window, so it reappears whenever your borough breaks up rather than on a fixed calendar. Its four London restaurants are all outer.
+**One free kiddos bento for every £10 an adult spends on food, Monday to Friday.** Children 12 and under. YO! Sushi ties the offer to local school holiday dates, not one national window, so it reappears whenever your borough breaks up rather than on a fixed calendar. Its four London restaurants are all outer.
 
 ### Zizzi through Kids Pass — the only year-round route in the centre
 
 Separately from its holiday campaign, Zizzi's own site says it has partnered with **Kids Pass**, whose members get "one free Bambini Meal with the purchase of an adult main meal, seven days a week at participating restaurants". **That is the only year-round kids-eat-free we found at a chain with this many central London branches** — Zizzi has 28 in London, including Bow Street, The Strand, Central St Giles, Bankside and Paddington Central.
 
-The catch is the membership. **Kids Pass advertises £1 for a 30-day trial**, but the price it renews at is not published anywhere before you sign up — the membership page redirects to a login. Treat it as a paid subscription with an undisclosed renewal price: take the trial if the maths works for one holiday, and set a reminder to cancel.
+The drawback is the membership. **Kids Pass advertises £1 for a 30-day trial**, but the price it renews at is not published anywhere before you sign up — the membership page redirects to a login. Treat it as a paid subscription with an undisclosed renewal price: take the trial if the maths works for one holiday, and set a reminder to cancel.
 
 Two Zizzi exclusions apply whichever route you use. The offer "cannot be used in Greenwich, Portsmouth, Port Solent, St Katharine Docks and Whitstable", and it is off at The O2 and Wembley on event days. **The Bambini menu costs £3.50 for two courses when you pay for it**, which is what the free version is actually worth. Zizzi also accepts **Tastecard**, UNiDAYS and Student Beans — see our [restaurant discount cards guide](/articles/restaurant-discount-cards-london/).
 
@@ -148,11 +148,11 @@ If you are staying overnight, start here: this is the best-value part of the who
 | Table Table | 2 children free per adult breakfast | Under 16 | £11.99 unlimited | To 10.30am, 11am weekends |
 | Travelodge | 2 children at £1 each per paying adult | Under 15 | Unlimited breakfast, Bar Café hotels | Varies by hotel |
 
-**Premier Inn is the one to know**, because it has more London hotels than every other brand on this page has London branches combined. Children under 16 eat free, up to two per adult buying a full Premier Inn Breakfast. The price is the thing to watch: the full breakfast starts at £10.99, but Premier Inn's own footnote says it is **£11.99 and £13.99 at some restaurants, with airport and city-centre prices varying** — and London is city centre. The offer covers a restaurant breakfast, not the breakfast box.
+**Premier Inn is the one to know**, because it has more London hotels than every other brand on this page has London branches combined. Children under 16 eat free, up to two per adult buying a full Premier Inn Breakfast. Watch the price: the full breakfast starts at £10.99, but Premier Inn's own footnote says it is **£11.99 and £13.99 at some restaurants, with airport and city-centre prices varying** — and London is city centre. The offer covers a restaurant breakfast, not the breakfast box.
 
 **Travelodge charges £1 rather than nothing**, for up to two children under 15 per full-paying adult, and only at its Bar Café hotels. Breakfast To Go is excluded.
 
-> ⚠️ **Whitbread has withdrawn its London pub-restaurants from public use.** Brewers Fayre Winsor House in Beckton closed to walk-in customers on 7 September 2026, with the Beefeaters at Woolwich and Harrow following on 10 September. Whitbread's notice says Premier Inn guests continue to get breakfast, evening meals and drinks — so in London the £11.99 kids-eat-free breakfast is now an overnight-guest benefit rather than something you can walk in for.
+> ⚠️ **Whitbread has withdrawn its London pub-restaurants from public use.** Brewers Fayre Winsor House in Beckton closed to walk-in customers on 7 September 2026, with the Beefeaters at Woolwich and Harrow following on 10 September. Whitbread's notice says Premier Inn guests continue to get breakfast, evening meals and drinks — so in London the £11.99 kids-eat-free breakfast is now an overnight-guest benefit, not something you can walk in for.
 
 ---
 
@@ -188,7 +188,7 @@ A free thing is only free if you were buying the other thing anyway. Run the ari
 
 **And if you have more than one child, buy the subscription.** Prezzo's £1.99 a month feeds three children free on one adult main, any day. Every other offer here is one child per adult main, or two at best — and Bella Italia is explicit that one adult main must be bought per child, so a family of two adults and three children gets two free meals and pays for the third.
 
-The last comparison is the one nobody runs, and it is about breakfast. **At Beefeater, Brewers Fayre and Table Table the children genuinely eat free — but the adult breakfast is £11.99**, so two adults and two children pay £23.98. **Travelodge charges £1 a child rather than nothing**, and its Bar Café breakfast is cheaper, so the same family can come out ahead at the hotel that does not use the word "free". Look at the total, not the word. More cheap family days out are in our [London with children guide](/articles/london-with-children/).
+The last comparison is the one nobody runs, and it is about breakfast. **At Beefeater, Brewers Fayre and Table Table the children eat free — but the adult breakfast is £11.99**, so two adults and two children pay £23.98. **Travelodge charges £1 a child, not nothing**, and its Bar Café breakfast is cheaper, so the same family can come out ahead at the hotel that does not use the word "free". Look at the total, not the word. More cheap family days out are in our [London with children guide](/articles/london-with-children/).
 
 ---
 

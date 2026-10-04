@@ -10,9 +10,9 @@ tags: [free London, TV, things to do, London experiences, tickets]
 draft: false
 faq:
   - q: "Are TV show tickets in London really free?"
-    a: "Yes, genuinely — no fee, no booking charge, no catch. The BBC describes itself as the largest provider of free television and radio tickets in the UK, and the independent agencies charge nothing either. The cost to you is time: a couple of hours of queueing for a half-hour programme."
+    a: "Yes — no fee, no booking charge, no catch. The BBC describes itself as the largest provider of free television and radio tickets in the UK, and the independent agencies charge nothing either. The cost to you is time: a couple of hours of queueing for a half-hour programme."
   - q: "Does a free TV ticket guarantee me a seat?"
-    a: "No, and this is the single most important thing to understand. Agencies deliberately over-issue tickets to cover no-shows — SRO Audiences states it plainly on its own tickets — so entry is first come, first served on the night. A ticket is a place in a queue, not a seat in a studio."
+    a: "No, and this is the most important point. Agencies deliberately over-issue tickets to cover no-shows — SRO Audiences states it plainly on its own tickets — so entry is first come, first served on the night. A ticket is a place in a queue, not a seat in a studio."
   - q: "What time should I arrive for a TV recording?"
     a: "Earlier than the ticket suggests. For a Graham Norton Show recording with 6pm doors, check-in began at 5.15pm and there was no admittance after 6.15pm — but numbered wristbands are issued in arrival order, so the queue forms well before check-in opens. Ninety minutes early is a reasonable target for a popular show."
   - q: "How old do you have to be to be in a TV audience?"
@@ -27,7 +27,7 @@ heroImageAlt: "The Graham Norton Show studio seen from an audience seat, the lig
 
 **Television and radio audiences in London are free.** Not cheap, not discounted — free, with no booking fee, for programmes you would otherwise watch at home. The BBC alone calls itself the largest provider of free television and radio tickets in the UK.
 
-The catch is not money. It is that **a ticket does not get you in.**
+It costs nothing, but **a ticket does not get you in.**
 
 Agencies deliberately issue more tickets than there are seats, because a proportion of people who claim a free ticket never turn up. That is a reasonable way to fill a studio and a miserable surprise if nobody has told you. Almost no guide to this says it plainly, so here it is first.
 
@@ -49,7 +49,7 @@ There is no single box office. Each production hires an audience agency, so the 
 | **[Lost in TV](https://lostintv.com/)** | ITV, Channel 4, Sky, plus casting calls | Direct booking, optional paid membership |
 | **[Standing Room Only](https://standingroomonly.tv/)** | Audience and casting work | Free membership, then invitations |
 
-**Two things worth knowing about that table.** The BBC's system is a **random draw** for anything popular — Strictly Come Dancing runs one, and being quick is no help. And **Standing Room Only is a different proposition**: it is an audience *and casting* company, some of its work is paid rather than free, and it operates well beyond London.
+**Two things about that table.** The BBC's system is a **random draw** for anything popular — Strictly Come Dancing runs one, and being quick is no help. And **Standing Room Only is a different proposition**: it is an audience *and casting* company, some of its work is paid rather than free, and it operates well beyond London.
 
 Note also that **SRO Audiences and Standing Room Only are not the same organisation**, despite SRO standing for exactly that. If you are after a London chat show, sroaudiences.com is the one.
 
@@ -63,7 +63,7 @@ The line-up turns over constantly, but the shape of it does not. In early Septem
 
 **Awards nights are a separate route.** The free fan-pen places at the BAFTAs and the Olivier Awards, and the seats at the National Television Awards, are in our [award ceremonies guide](/articles/award-ceremonies-london/), with a page each for the [National Television Awards](/articles/national-television-awards-tickets/) and the [Oliviers](/articles/olivier-awards-tickets/).
 
-**Where the studios actually are** matters more than people expect. Television Centre in White City is central and on the Tube. **Elstree, Pinewood and MediaCity in Salford are not** — a Strictly ticket is a day out of London, and a Millionaire Hot Seat ticket is a trip to Manchester.
+**Where the studios actually are** makes more difference than people expect. Television Centre in White City is central and on the Tube. **Elstree, Pinewood and MediaCity in Salford are not** — a Strictly ticket is a day out of London, and a Millionaire Hot Seat ticket is a trip to Manchester.
 
 This page covers studio audiences. For watching a shoot on the street, see [can you watch filming in London](/articles/london-filming-locations/#can-you-watch-filming-in-london).
 
@@ -88,7 +88,7 @@ Here is how a night actually runs, using the Graham Norton recording as the work
 
 *Inside the Graham Norton Show studio.*
 
-So the queue forms long before the stated check-in time, and the people at the front are the ones who are definitely getting in. SRO will tell you at check-in whether you are safely in or in what their own ticket calls the **"fingers crossed" part of the line** — which is a fair way to handle it, and a phrase worth knowing before you hear it.
+So the queue forms long before the stated check-in time, and the people at the front are the ones who are definitely getting in. SRO will tell you at check-in whether you are safely in or in what their own ticket calls the **"fingers crossed" part of the line** — which is a fair way to handle it.
 
 > ⚠️ **Do not build an occasion around it.** SRO says this outright: because tickets do not guarantee entry, they do not recommend using them as the focus of a birthday or anniversary, and the birthday person queues like everyone else. If you want a guaranteed seat for something, buy a theatre ticket.
 
@@ -110,7 +110,7 @@ Every one of these is a rule someone finds out about at the barrier.
 
 **Phones** go in, but must be **switched off before filming begins**.
 
-**Clothes.** There is a genuine dress code, and it is about how you look on camera rather than smartness: **avoid floral patterns, avoid black, avoid prominent brand names**, and block colours are preferred. Brand-heavy clothing is not permitted.
+**Clothes.** There is a genuine dress code, and it is about how you look on camera, not smartness: **avoid floral patterns, avoid black, avoid prominent brand names**, and block colours are preferred. Brand-heavy clothing is not permitted.
 
 ---
 
@@ -142,13 +142,13 @@ Every one of these is a rule someone finds out about at the barrier.
 
 *The studio lighting rig.*
 
-## The bits that are genuinely a treat
+## The bits that are a treat
 
 For all the queueing, the return is good and there is no equivalent way to buy it.
 
 **You see how it is made** — the floor manager warming up the room, the retakes, the pieces that never air. Studio audiences routinely see more than the broadcast contains.
 
-**Some shows invite you into the programme.** Graham Norton's production emails ticket holders a few days beforehand asking whether anyone wants to do the red chair, which is a genuinely open invitation to be in the show rather than just at it.
+**Some shows invite you into the programme.** Graham Norton's production emails ticket holders a few days beforehand asking whether anyone wants to do the red chair, which is an open invitation to be in the show, not just at it.
 
 **And the perks are small but real.** SRO negotiates discounts near Television Centre — The Broadcaster, right by the studio, takes **20% off your food bill** on the day you attend if you show your ticket.
 
@@ -160,7 +160,7 @@ For all the queueing, the return is good and there is no equivalent way to buy i
 
 **Yes, for a radio recording, almost unreservedly.** An hour, a central venue, a low-key queue, and often a show you already listen to.
 
-**Yes for television, if you go in clear-eyed.** You are trading an evening — three or four hours, much of it standing — for something free that you cannot otherwise buy. Treat it as the day's plan rather than a thing you drop into.
+**Yes for television, if you go in clear-eyed.** You are trading an evening — three or four hours, much of it standing — for something free that you cannot otherwise buy. Treat it as the day's plan, not a thing you drop into.
 
 **No, if you need certainty.** A ticket is not a seat, the over-issue is deliberate, and the studio is full when it is full.
 

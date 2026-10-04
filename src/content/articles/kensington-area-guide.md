@@ -72,7 +72,7 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by/3.0
 
 Kensington is the stretch between Notting Hill and the museums: a royal palace, two very different parks, and a high street that is calmer than anything comparable in central London.
 
-It is also where several of London's best-known sights actually sit — Kensington Palace, the Albert Memorial and the Serpentine galleries are all here, in Kensington Gardens rather than Hyde Park, which is the adjoining park to the east.
+It is also where several of London's best-known sights actually sit — Kensington Palace, the Albert Memorial and the Serpentine galleries are all here, in Kensington Gardens, not Hyde Park, which is the adjoining park to the east.
 
 Kensington has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=kensington).
 
@@ -125,7 +125,7 @@ Free and worth the walk: the **Sunken Garden**, the **Albert Memorial**, the two
 **The gardens open at 6am and close at dusk**, and are considerably quieter than Hyde Park next door despite being continuous with it — Hyde Park itself stays open later.
 
 ### Holland Park
-North-west, and **the best park in this part of London by a distance** — twenty-two hectares, half of it genuine woodland rather than mown grass, which is rare this far in.
+North-west, and **the best park in this part of London by a distance** — twenty-two hectares, half of it genuine woodland, not mown grass, which is rare this far in.
 
 ![Formal planted beds at Holland Park, clipped box balls and dense borders on a terraced slope](../../assets/articles/kensington-area-guide/holland-park-formal-garden.jpg)
 
@@ -142,14 +142,14 @@ Running north towards Notting Hill, and **the antiques street of west London** �
 
 At the top stands the **Churchill Arms**, buried under thousands of flowers in summer and around ninety Christmas trees in December, with a Thai kitchen in the conservatory at the back. The flowers peak in high summer and the crowd outside is year-round.
 
-**It is a steady uphill walk**, about ten minutes from High Street Kensington to Notting Hill Gate, and the shops keep their own hours rather than a high street's — expect a good number shut on a Monday.
+**It is a steady uphill walk**, about ten minutes from High Street Kensington to Notting Hill Gate, and the shops keep their own hours, not a high street's — expect a good number shut on a Monday.
 
 <div data-stay-strip></div>
 
 ### Holland Park Avenue and Campden Hill
 The stucco terraces and private garden squares between the two parks — among the most expensive residential streets in Britain, and almost entirely without shops, cafés or anything to do.
 
-**That is the appeal, and the limit.** It is a genuinely lovely twenty minutes on foot between Holland Park and Notting Hill Gate, past white-fronted houses and communal gardens you cannot enter, and there is nothing at the end of it but another main road.
+**That is the appeal, and the limit.** It is a lovely twenty minutes on foot between Holland Park and Notting Hill Gate, past white-fronted houses and communal gardens you cannot enter, and there is nothing at the end of it but another main road.
 
 Walk it as a link between the two parks rather than as a destination.
 

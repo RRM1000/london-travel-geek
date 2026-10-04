@@ -174,7 +174,7 @@ If you are not going in, the ship is free to look at from the street, and **the 
 
 *The colonnade to the Queen's House.*
 
-> 💡 **Detour: the Trafalgar Tavern.** Five minutes east along the river, a pub from 1837 that Dickens used for a wedding breakfast in *Our Mutual Friend*. Order the whitebait, which made it famous. The catch: it closed in 1915 and only reopened in 1965, when craftsmen from Pinewood Studios remodelled the interior, so the Regency grandeur is largely a film set.
+> 💡 **Detour: the Trafalgar Tavern.** Five minutes east along the river, a pub from 1837 that Dickens used for a wedding breakfast in *Our Mutual Friend*. Order the whitebait, which made it famous. It closed in 1915 and only reopened in 1965, when craftsmen from Pinewood Studios remodelled the interior, so the Regency grandeur is largely a film set.
 
 ## 10. The National Maritime Museum and the Queen's House
 
@@ -184,7 +184,7 @@ If you are not going in, the ship is free to look at from the street, and **the 
 
 **Both free, daily 10am to 5pm** (last entry 4.15pm).
 
-The **National Maritime Museum** is the largest maritime museum in the world. The object people come out talking about is **Nelson's Trafalgar coat**, with the bullet hole in the left shoulder still visible. The children's galleries are genuinely good.
+The **National Maritime Museum** is the largest maritime museum in the world. The object people come out talking about is **Nelson's Trafalgar coat**, with the bullet hole in the left shoulder still visible. The children's galleries are good.
 
 The **Queen's House** is the building you saw framed in the gap from Island Gardens: Inigo Jones's villa, with the Armada Portrait of Elizabeth I and the **Tulip Stairs**, the first self-supporting spiral stair in Britain. Walking up them costs nothing.
 

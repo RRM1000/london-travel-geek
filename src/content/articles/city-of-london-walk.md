@@ -19,16 +19,16 @@ faq:
   - q: "Is there a free view of London in the City?"
     a: "Three, and none of them costs anything. Horizon 22 at 22 Bishopsgate is the highest free viewing platform in the city, on level 58, and needs a booked ticket. The Sky Garden at 20 Fenchurch Street is also free but books up weeks ahead. The Garden at 120 on Fenchurch Street is the one that needs no booking at all — you walk in and take the lift."
   - q: "What is the ruined church in the City of London?"
-    a: "St Dunstan-in-the-East, on St Dunstan's Hill between the Monument and the Tower. It was bombed in 1941 and never rebuilt. The City planted a garden inside the shell in the 1960s, so the walls, the tower and the window openings are still standing with climbing plants growing through them. It is free and it is the single best thing on this walk."
+    a: "St Dunstan-in-the-East, on St Dunstan's Hill between the Monument and the Tower. It was bombed in 1941 and never rebuilt. The City planted a garden inside the shell in the 1960s, so the walls, the tower and the window openings are still standing with climbing plants growing through them. It is free and it is the best thing on this walk."
   - q: "Where should I eat on a City of London walk?"
-    a: "Leadenhall Market in the middle of the route, where the pubs and restaurants sit under Victorian ironwork, or St Katharine Docks at the end, where the tables face a marina rather than an office block. Pick by the day: Leadenhall is a weekday trade and much of it shuts at the weekend, while St Katharine Docks is busiest at weekends."
+    a: "Leadenhall Market in the middle of the route, where the pubs and restaurants sit under Victorian ironwork, or St Katharine Docks at the end, where the tables face a marina, not an office block. Pick by the day: Leadenhall is a weekday trade and much of it shuts at the weekend, while St Katharine Docks is busiest at weekends."
   - q: "How long does the City of London walk take?"
     a: "Two to three hours at a walking pace with short stops, covering roughly 3km from Bank to St Katharine Docks. Add an hour if you go up a viewpoint and most of a morning if you go into the Tower of London, which is a half-day on its own."
 ---
 
 Most people see the City of London backwards. They come out at Tower Hill, do the Tower, photograph Tower Bridge and leave — which means they see the two things the Square Mile shares with every guidebook and none of the things that make it strange.
 
-**This walk runs the other way.** It starts at Bank, the junction the whole City was laid out around, and works east and south through the market, the tower cluster, a free view from the 58th floor and a bombed church that was left as a ruin and planted as a garden. The Tower and Tower Bridge come at the end, as the payoff rather than the opening.
+**This walk runs the other way.** It starts at Bank, the junction the whole City was laid out around, and works east and south through the market, the tower cluster, a free view from the 58th floor and a bombed church that was left as a ruin and planted as a garden. The Tower and Tower Bridge come at the end, as the payoff, not the opening.
 
 It is about **3km and takes two to three hours** with stops. All of it is free except the Tower of London and, if you want it, the Monument.
 
@@ -94,7 +94,7 @@ It stopped being an exchange long ago. What it is now is a **covered courtyard o
 
 Round the corner on **Bartholomew Lane**, and the single strongest argument for walking this route on a weekday.
 
-It is **free**, it is genuinely good — the gold bar you can try to lift is the exhibit everyone remembers, and the collection runs from Roman-era foundations to the machinery of modern monetary policy — and it is **open Monday to Friday only, 10am to 5pm, last entry 4.30pm**. It closes at weekends and on bank holidays. On the third Thursday of the month it stays open late, until 8pm.
+It is **free**, it is good — the gold bar you can try to lift is the exhibit everyone remembers, and the collection runs from Roman-era foundations to the machinery of modern monetary policy — and it is **open Monday to Friday only, 10am to 5pm, last entry 4.30pm**. It closes at weekends and on bank holidays. On the third Thursday of the month it stays open late, until 8pm.
 
 If you are walking at a weekend, this stop simply is not available, and no amount of planning gets around it.
 
@@ -130,7 +130,7 @@ Three free options within five minutes of each other. **You would only do one.**
 
 **Horizon 22** — level 58 of 22 Bishopsgate, and **the highest free viewing platform in London**. Free, but you need a booked ticket. Its own site gives opening as 10am on every day, closing 6pm on weekdays, 5pm Saturday and 4pm Sunday. This is the one to pick if you want height.
 
-**Sky Garden** — the glasshouse on top of 20 Fenchurch Street, the Walkie-Talkie. Also free, also ticketed, and the tickets **go weeks in advance**. There is a way round it: book a table at one of its restaurants or bars and access comes with the booking, even when the free tickets have gone. Worth knowing if you decided on this walk at short notice.
+**Sky Garden** — the glasshouse on top of 20 Fenchurch Street, the Walkie-Talkie. Also free, also ticketed, and the tickets **go weeks in advance**. There is a way round it: book a table at one of its restaurants or bars and access comes with the booking, even when the free tickets have gone. That helps if you decided on this walk at short notice.
 
 **The Garden at 120** — a rooftop garden on the 15th floor of 120 Fenchurch Street, and **the only one of the three with no booking whatsoever**. You walk in and take the lift. It is lower than the other two, which is the trade, and you are looking at the Walkie-Talkie rather than from it. Open daily from 10am — until 9pm in summer, 6.30pm in winter, and **5pm at weekends all year**. It is **closed on bank holidays**.
 
@@ -146,7 +146,7 @@ Three free options within five minutes of each other. **You would only do one.**
 
 **Wren's column to the Great Fire**, 202 feet tall and set 202 feet from the Pudding Lane bakery where the fire started in 1666 — the height is the distance, which is the kind of detail the seventeenth century enjoyed.
 
-**311 steps** up a spiral staircase to a caged viewing platform. It is a ticketed climb rather than a lift, and it is the only stop on this walk where you will be out of breath.
+**311 steps** up a spiral staircase to a caged viewing platform. It is a ticketed climb, not a lift, and it is the only stop on this walk where you will be out of breath.
 
 Open **daily, 9.30am to 6pm April to September** (last admission 5.30pm) and **9.30am to 5.30pm October to March** (last admission 5pm). Closed 24–26 December. A **joint ticket with Tower Bridge** is valid for seven days and one visit to each, which is worth it if you intend to do the Tower Bridge walkways later on this route.
 
@@ -176,9 +176,9 @@ Open to visitors **Monday to Friday 8am to 5pm, Saturday 10am to 5pm and Sunday 
 
 ## 9. The Tower of London
 
-The one paid ticket on the route, and a **half-day in its own right** rather than a stop on a walk. If you are going inside, our dedicated [Tower of London guide](/articles/tower-of-london-guide/) has the prices, the quieter afternoon slots and the Opening Ceremony ticket that reaches the Crown Jewels before other visitors.
+The one paid ticket on the route, and a **half-day in its own right**, not a stop on a walk. If you are going inside, our dedicated [Tower of London guide](/articles/tower-of-london-guide/) has the prices, the quieter afternoon slots and the Opening Ceremony ticket that reaches the Crown Jewels before other visitors.
 
-If you are doing it, **book ahead and go at opening** — the Crown Jewels queue is the whole difficulty and it is shortest in the first hour. Opening is **9am Tuesday to Saturday but 10am on Sunday and Monday**, and closing is 5.30pm in summer, 4.30pm in winter. That hour matters if the Tower is your first stop rather than your last: on a Tuesday-to-Thursday walk you can be inside before the coaches arrive. If you are skipping it, the walk still works: the outer walls, the wharf and Tower Hill are free to walk, and the **Roman city wall** stands in the gardens by Tower Hill station.
+If you are doing it, **book ahead and go at opening** — the Crown Jewels queue is the whole difficulty and it is shortest in the first hour. Opening is **9am Tuesday to Saturday but 10am on Sunday and Monday**, and closing is 5.30pm in summer, 4.30pm in winter. That hour makes a difference if the Tower is your first stop rather than your last: on a Tuesday-to-Thursday walk you can be inside before the coaches arrive. If you are skipping it, the walk still works: the outer walls, the wharf and Tower Hill are free to walk, and the **Roman city wall** stands in the gardens by Tower Hill station.
 
 ![The Middle Tower and outer curtain wall of the Tower of London above the dry moat, with contractors' hoarding and site cabins along the near side](../../assets/articles/city-of-london-walk/tower-of-london-entrance.jpg)
 
@@ -192,13 +192,13 @@ If you are doing it, **book ahead and go at opening** — the Crown Jewels queue
 
 What is ticketed is the **high-level walkways** — the two upper spans, with a glass floor section — and the Victorian **engine rooms** that powered the bascules. That is the joint ticket with the Monument, if you bought it earlier.
 
-Walk out to the middle and look back: the tower cluster you were standing under an hour ago, seen from the outside and in one frame. It is the best free view on the walk and it is the reason the route ends here rather than starting here.
+Walk out to the middle and look back: the tower cluster you were standing under an hour ago, seen from the outside and in one frame. It is the best free view on the walk and it is why the route ends here.
 
 ## 11. St Katharine Docks
 
 Five minutes east of the bridge on the north bank, and the sensible place to finish.
 
-A former dock basin turned marina — **yachts, a lock, and restaurants and pubs around the water** rather than facing an office block. It is the antidote to the Square Mile: after two hours of banking halls and glass, you sit down by boats.
+A former dock basin turned marina — **yachts, a lock, and restaurants and pubs around the water**, not facing an office block. It is the antidote to the Square Mile: after two hours of banking halls and glass, you sit down by boats.
 
 It is also **open at weekends**, which most of this walk is not. If you are walking on a Sunday, this is where the day recovers.
 
@@ -212,7 +212,7 @@ It is also **open at weekends**, which most of this walk is not. If you are walk
 
 ## Where to eat
 
-Two proper options, and the choice is decided by the day rather than the food.
+Two proper options, and the choice is decided by the day, not the food.
 
 **Leadenhall Market — the middle of the walk.** Pubs and restaurants under the painted ironwork, including the **Lamb Tavern**, which has been there since 1780. It is the better setting of the two and the better lunch stop, because it lands at roughly the halfway point. But it is a weekday trade: the market's own guidance is that opening hours vary by business and to check before you travel, and at weekends a good number simply do not open.
 
@@ -228,7 +228,7 @@ Two proper options, and the choice is decided by the day rather than the food.
 
 - **SushiSamba** (££££) — Japanese, Brazilian and Peruvian on the 38th and 39th floors of the Heron Tower, with the highest outdoor dining terrace in London. Two minutes from stop 5. Book the **Heron Tower** one; there is a second in Covent Garden.
 - **Duck & Waffle** (£££) — the 40th floor of the same tower, and **open 24 hours**, which makes it the one address in the Square Mile that never has the weekend problem.
-- **Coq d'Argent** (££££) — rooftop French with terraces on top of No.1 Poultry, looking down on the Bank of England. Right at stop 1, so it works at the start rather than the end.
+- **Coq d'Argent** (££££) — rooftop French with terraces on top of No.1 Poultry, looking down on the Bank of England. Right at stop 1, so it works at the start, not the end.
 
 For the rest of the City's eating — the chains that fill the gap, and the weekend problem in general — the [area guide covers it](/articles/city-of-london-area-guide/#where-to-eat-and-drink).
 
@@ -250,7 +250,7 @@ For the rest of the City's eating — the chains that fill the gap, and the week
 
 **Sunday is the best day on this route if you want it quiet.** Half a million people work in the Square Mile and about eight thousand live there, so on a Sunday morning the medieval alleys, the bombed church and the Roman crypt are close to empty. St Dunstan-in-the-East alone is worth the trade.
 
-What you give up is smaller than it looks. The **Bank of England Museum** is the only real loss. **Leadenhall's lanes are public and never lock**, so you still walk the arcade — you just do it past shuttered units rather than a lunch crowd. And the **Royal Exchange still opens**: its shops are weekday-only, but several of the cafés and bars in the courtyard trade Saturday and Sunday, so you can go in and stand under the glass roof either way.
+What you give up is smaller than it looks. The **Bank of England Museum** is the only real loss. **Leadenhall's lanes are public and never lock**, so you still walk the arcade — you just do it past shuttered units, not a lunch crowd. And the **Royal Exchange still opens**: its shops are weekday-only, but several of the cafés and bars in the courtyard trade Saturday and Sunday, so you can go in and stand under the glass roof either way.
 
 Everything else that makes this walk — the tower cluster, St Dunstan, All Hallows, the Tower, Tower Bridge and St Katharine Docks — runs seven days. Eat at St Katharine Docks and the day works.
 

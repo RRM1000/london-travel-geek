@@ -45,7 +45,7 @@ faq:
 > 💡 **The Short Version:**
 > - **Never buy at the gate:** Walk-up adult tickets cost **£39**; online advance slots start **from £29**. Book online.
 > - **The best-value ticket isn't the Eye alone:** Merlin's five-attraction bundle (the Eye, Madame Tussauds, SEA LIFE, the Dungeon and Shrek's Adventure) runs **from £59 online against £184 bought separately**. The Eye-plus-Tussauds combo is **from £49 against £78 separately**. <a href="https://www.getyourguide.com/activity/-t26207?partner_id=WWP7I0R&amp;cmp=london-eye-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The London Pass on GetYourGuide</a> adds the Eye to 100+ other sights, including the Tower of London and Westminster Abbey.
-> - **Fast Track, priced honestly:** Standard queues run 20 to 30 minutes on a quiet day and 5 to 10 for Fast Track, rising to an hour or more at peak times. Flexi Fast Track costs **from £49 online / £54 at the gate** against Standard's **from £29 / £39** — a gap of roughly £20 online and £15 at the gate, not a flat £15 add-on.
+> - **Fast Track:** Standard queues run 20 to 30 minutes on a quiet day and 5 to 10 for Fast Track, rising to an hour or more at peak times. Flexi Fast Track costs **from £49 online / £54 at the gate** against Standard's **from £29 / £39** — a gap of roughly £20 online and £15 at the gate, not a flat £15 add-on.
 > - **The sunset rule:** Check the sunset time for your date and book a slot **30 minutes prior**. You board in daylight, reach the 135-metre apex during dusk, and see Parliament and the bridges light up on the descent.
 > - **Weather:** Tickets are non-refundable, but not inflexible — reschedule for free up to an hour before arrival (up to 24 hours, three times, on a multi-attraction ticket) through the booking portal.
 > - **Luggage:** Suitcases can't ride the wheel, but the ticket hall stores them for **£5 an item (£25 overnight)** and folds buggies in for free.
@@ -116,7 +116,7 @@ Merlin Entertainments sells combined tickets covering the London Eye and several
 - **Shrek's Adventure! London** (inside County Hall)
 - **Madame Tussauds London** (on Marylebone Road, near Baker Street tube)
 
-Every multi-attraction ticket gives you 7 days to visit the rest and can be rescheduled free up to three times. The ones worth knowing:
+Every multi-attraction ticket gives you 7 days to visit the rest and can be rescheduled free up to three times. The main ones:
 - **The five-attraction bundle:** the Eye, Madame Tussauds, SEA LIFE London Aquarium, the London Dungeon and Shrek's Adventure, from £59 online against £184 bought separately — the best per-attraction value Merlin sells here. See the [multi-attraction tickets page](https://www.londoneye.com/tickets-and-prices/multi-attraction-tickets/) for current dates.
 - **London Eye + Madame Tussauds:** from £49 online against £78 separately. Book a <a href="https://www.getyourguide.com/activity/-t432130?partner_id=WWP7I0R&amp;cmp=london-eye-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye and Madame Tussauds combination ticket on GetYourGuide</a>.
 - **London Eye + Thames River Cruise:** Combines your flight with a 40-minute circular sightseeing cruise departing directly from London Eye Pier at the base of the wheel. Book the <a href="https://www.getyourguide.com/activity/-t193403?partner_id=WWP7I0R&amp;cmp=london-eye-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye River Cruise combo on GetYourGuide</a>.
@@ -256,7 +256,7 @@ The London Eye is fully step-free:
 - 🏛️ **[South Bank Area Guide](/articles/south-bank-area-guide/)** — street performers, cultural centres, and dining along the riverside.
 - 🚶 **[South Bank Walk](/articles/south-bank-walk/)** — self-guided walking route from Westminster Bridge to Tower Bridge.
 - 🏛️ **[Westminster Area Guide](/articles/westminster-area-guide/)** — Big Ben, Parliament, and royal landmarks directly across the river.
-- 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — honest maths, included attractions, and when a sightseeing pass saves money.
+- 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — the maths, included attractions, and when a sightseeing pass saves money.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — an efficient Zone 1 plan that fits the London Eye into a central London day.
 - 🚤 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** — scenic Uber Boat by Thames Clippers services departing from London Eye Pier.
 - 🧳 **[Luggage Storage in London](/articles/luggage-storage-london/)** — station left luggage desks and affordable bag drop services near Waterloo.

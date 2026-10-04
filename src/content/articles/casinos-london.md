@@ -37,7 +37,7 @@ faq:
   - q: "What blackjack rules do London casinos play?"
     a: "The British norm is blackjack paying 3:2, the dealer standing on soft 17, four to six decks, and no hole card — the dealer does not take a second card until every player has finished. Played with basic strategy that is a house edge of around 0.5%, the best odds on the floor. Watch for tables paying 6:5 instead of 3:2, which costs you several times more for the same hand and is signposted on the table."
   - q: "Can you go into a London casino without gambling?"
-    a: "Yes, and several are worth it for that alone. The Hippodrome has nine bars, two restaurants and a theatre across seven floors. The Empire's sports bar runs around the clock. You still need to be over 18 and carrying ID, because the age limit covers the whole building rather than only the gaming floor."
+    a: "Yes, and several are worth it for that alone. The Hippodrome has nine bars, two restaurants and a theatre across seven floors. The Empire's sports bar runs around the clock. You still need to be over 18 and carrying ID, because the age limit covers the whole building, not only the gaming floor."
 ---
 
 Three of the grandest gambling rooms in Mayfair have gone since 2018: **The Clermont Club** in Berkeley Square, **The Ritz Club** in the basement of the Ritz, and **Crockfords** on Curzon Street.
@@ -109,7 +109,7 @@ Three different things now happen at three different doors:
 
 > ⚠️ **Nobody is going to make you wear a dinner jacket.** Grosvenor says it outright — there is no need to dress like James Bond, smart casual is all that is required. The Empire and The Sportsman publish an identical line: smart casual, no jacket required, and jeans and trainers are fine as long as they are not scruffy. **The Hippodrome has no set dress code at all.**
 
-What gets you turned away is specific rather than general. **Horizons refuses sportswear, football shirts and soiled clothing.** Genting refuses football shirts, vest tops, caps and hats, and at Stratford will not admit opposition shirts on West Ham match days. Grosvenor prefers long trousers to shorts.
+What gets you turned away is specific, not general. **Horizons refuses sportswear, football shirts and soiled clothing.** Genting refuses football shirts, vest tops, caps and hats, and at Stratford will not admit opposition shirts on West Ham match days. Grosvenor prefers long trousers to shorts.
 
 The Mayfair clubs publish nothing, which is its own instruction: dress as you would for a restaurant on the same street.
 
@@ -143,9 +143,9 @@ Once no more bets is called, the layout belongs to the dealer. **Do not touch or
 
 **Blackjack: check the payout.** The British norm is **blackjack pays 3:2**, the **dealer stands on soft 17**, four to six decks, and **no hole card** — the dealer does not take a second card until every player has finished, which is different from the American game and changes how you play against a possible dealer blackjack. Played that way with basic strategy, the house edge is around **0.5%**, the best odds in the building.
 
-**The number to watch for is 6:5.** A table paying 6:5 on blackjack instead of 3:2 pays you less for the same hand and pushes the house edge up several times over. It is signposted on the table, and it is the single most expensive detail a casual player misses.
+**The number to watch for is 6:5.** A table paying 6:5 on blackjack instead of 3:2 pays you less for the same hand and pushes the house edge up several times over. It is signposted on the table, and it is the most expensive detail a casual player misses.
 
-**Everything else is worse, and that is the point.** The house has an edge on every game in the building, and the edge is what pays for the building.
+**Everything else is worse.** The house has an edge on every game in the building, and the edge is what pays for the building.
 
 ### Tipping
 
@@ -157,7 +157,7 @@ The American habit of placing a bet on the dealer's behalf **is not allowed in B
 
 Several of these are simply buildings with good bars in them. The Hippodrome has nine bars, two restaurants and a theatre. **The Empire's sports bar is open around the clock.** The Colony Club says of its lounge bar that membership is not required. The Park Tower's restaurant is a gallery overlooking the gaming floor.
 
-The catch is the age limit, which covers the whole building. Bring ID even if you are only meeting friends for a drink.
+The age limit covers the whole building. Bring ID even if you are only meeting friends for a drink.
 
 ---
 
@@ -231,7 +231,7 @@ Food and drink on site, step-free access, and the station two minutes away.
 
 ## The poker rooms
 
-Two venues where poker is the reason to go rather than a sideline.
+Two venues where poker is the main event, not a sideline.
 
 ### Grosvenor Casino The Victoria
 
@@ -267,7 +267,7 @@ Smaller rooms, later hours, and a different kind of quiet.
 
 **An icon of Mayfair for over fifty years**, and one of London's largest casinos by floor area despite a Berkeley Street frontage that gives nothing away. Blackjack, roulette, baccarat, three-card poker, slots and electronic gaming fill the main floor, with private gaming rooms behind it.
 
-The food is a genuine reason to come rather than a convenience, with a lounge bar alongside the restaurant.
+The food is a genuine reason to come, not a convenience, with a lounge bar alongside the restaurant.
 
 **Doors at noon, live gaming from 1pm**, closing at 6am. Green Park is three minutes away. Allow time to be signed in at reception.
 
@@ -285,9 +285,9 @@ The casino floor opens at noon and closes at 6am.
 
 *14 Old Park Lane, W1K 1ND · Hyde Park Corner 6 mins · 12pm–6am*
 
-**London's newest luxury casino, in its own words**, and the one that does high-stakes gaming in a small room rather than a grand one. The whole proposition is intimacy: a Mayfair room built to feel private rather than public, with a terrace attached.
+**London's newest luxury casino, in its own words**, and the one that does high-stakes gaming in a small room rather than a grand one. The whole proposition is intimacy: a Mayfair room built to feel private, not public, with a terrace attached.
 
-Dining is at **Parlay**, reached through a crystal wall, with a bar meant for stepping away from the tables rather than for a night out of its own.
+Dining is at **Parlay**, reached through a crystal wall, with a bar meant for stepping away from the tables, not for a night out of its own.
 
 **Open 12pm to 6am with free membership** rather than the closed door of the Curzon Street clubs. Challenge 25 applies.
 
@@ -299,7 +299,7 @@ Dining is at **Parlay**, reached through a crystal wall, with a bar meant for st
 
 Its real distinction is the address. **The club sits inside the Hilton London Park Lane, and hotel guests reach the casino from inside the hotel** without stepping onto Park Lane at all. Above it are the hotel's sky bar and restaurants; below, an intimate gaming floor with a menu designed to be eaten at the table.
 
-**It does not open until 2pm**, which is the thing to know — an evening and overnight room, not an afternoon one. Free membership, Challenge 25, and parking in the Hilton.
+**It does not open until 2pm**, so it is an evening and overnight room, not an afternoon one. Free membership, Challenge 25, and parking in the Hilton.
 
 ### The Sportsman
 
@@ -307,7 +307,7 @@ Its real distinction is the address. **The club sits inside the Hilton London Pa
 
 **Las Vegas styling a minute from Marble Arch**, and the most relaxed of the Metropolitan rooms — classic table games, slots, chic bars and a restaurant, plus **an outdoor terrace** for open-air dining and drinks that almost no other London casino can match.
 
-Its slots club runs a monthly rewards programme, and the venue leans harder than its neighbours into being somewhere you eat and drink rather than only play.
+Its slots club runs a monthly rewards programme, and the venue leans harder than its neighbours into being somewhere you eat and drink, not only play.
 
 **Entry is free and, in its own words, you don't have to be a member.** Challenge 25 applies, dress is smart casual, and it is open noon to 6am beside Marble Arch station.
 
@@ -317,7 +317,7 @@ Its slots club runs a monthly rewards programme, and the venue leans harder than
 
 **The quietest serious gaming floor in London.** Grosvenor calls it the home of serious gaming in a discreet yet relaxed environment, which is corporate language for a room where nobody is shouting and the stakes run higher than in Leicester Square.
 
-The distinguishing feature is the **gallery-style restaurant overlooking the gaming floor** — you eat above the tables rather than beside them, and it is one of the better rooms in Knightsbridge in which to book dinner.
+The distinguishing feature is the **gallery-style restaurant overlooking the gaming floor** — you eat above the tables, not beside them, and it is one of the better rooms in Knightsbridge in which to book dinner.
 
 **Open 24 hours with live gaming 24 hours**, which very few London casinos manage. Step-free access, and reception signs you in with valid ID.
 
@@ -335,7 +335,7 @@ Away from the tourist centre, and better for it if you want to hear yourself thi
 
 The floor splits in two: a main room with the usual roulette, blackjack and slots, and **a quieter club room** for regulars. There is a **poker room**, which not every London Grosvenor has, and a restaurant arranged so you can eat while watching the main floor.
 
-On-site parking at the Portman Square end of Baker Street matters more here than in the West End.
+On-site parking at the Portman Square end of Baker Street counts for more here than in the West End.
 
 <div data-stay-strip></div>
 
@@ -343,9 +343,9 @@ On-site parking at the Portman Square end of Baker Street matters more here than
 
 *79–81 Queensway, W2 4QH · Bayswater, next door · tables 12pm–6am*
 
-**The casino people go to for dinner.** Grosvenor is unusually honest about it: the gaming is fine, but it is the restaurant that is the real draw, on an **Arabic-influenced menu** that suits the street it stands on.
+**The casino people go to for dinner.** Grosvenor says so itself: the gaming is fine, but it is the restaurant that people come for, on an **Arabic-influenced menu** that suits the street it stands on.
 
-It is a traditional room rather than a modern one, with a **poker room** alongside the slots and live tables, and it is the least intimidating casino here for a first visit.
+It is a traditional room, not a modern one, with a **poker room** alongside the slots and live tables, and it is the least intimidating casino here for a first visit.
 
 **The hours split three ways: the building is open 24 hours, live tables run noon to 6am, and the restaurant serves 6pm to 2am.** Next door to Bayswater tube, with step-free access.
 
@@ -353,9 +353,9 @@ It is a traditional room rather than a modern one, with a **poker room** alongsi
 
 *4–18 Harrington Gardens, SW7 4LJ · Gloucester Road 2 mins · 24 hours*
 
-**"Exclusively for everyone" is the venue's own phrase**, and this is the most local-feeling casino on the list — a South Kensington room with an intimate bar and restaurant rather than a floor built for crowds.
+**"Exclusively for everyone" is the venue's own phrase**, and this is the most local-feeling casino on the list — a South Kensington room with an intimate bar and restaurant, not a floor built for crowds.
 
-The menu is Arabic-influenced, like Bayswater's, and the room is small enough that eating and playing happen in the same space rather than in separate halves of a building.
+The menu is Arabic-influenced, like Bayswater's, and the room is small enough that eating and playing happen in the same space, not in separate halves of a building.
 
 **Open 24 hours with tables running 24 hours**, one of very few round-the-clock live gaming floors outside the West End, and two minutes from the station.
 
@@ -363,7 +363,7 @@ The menu is Arabic-influenced, like Bayswater's, and the room is small enough th
 
 *43–45 Cromwell Road, SW7 2EF · South Kensington 5 mins · 12pm–5am*
 
-**Formerly Forty Five Kensington**, and now the most contemporary-feeling of the Genting rooms — a floor deliberately designed to feel spacious rather than crowded, which is not something most casinos attempt.
+**Formerly Forty Five Kensington**, and now the most contemporary-feeling of the Genting rooms — a floor deliberately designed to feel spacious, not crowded, which is not something most casinos attempt.
 
 Roulette, blackjack, baccarat, three-card poker, slots and jackpot games, with a **lounge bar from 3pm**, a full restaurant, live sport and a **smoking terrace**.
 
@@ -373,7 +373,7 @@ Roulette, blackjack, baccarat, three-card poker, slots and jackpot games, with a
 
 ## Members only
 
-Two Mayfair clubs where the door is the whole point. Neither takes walk-ins, and neither publishes a price for anything.
+Two Mayfair clubs you cannot walk into: neither takes walk-ins, and neither publishes a price for anything.
 
 ### Les Ambassadeurs
 
@@ -424,7 +424,7 @@ If you want the decision taken out of your hands, **SENSE** is the industry's na
 * **Bring photo ID even if you are visibly forty.** The Empire asks everyone after 9pm, Stratford asks everyone at the door, and the age limit covers the bars and restaurants too.
 * **Put your phone away on the gaming floor.** Photography is prohibited and phone use at the tables is prohibited.
 * **Check the wheel and the blackjack payout.** One zero costs you 2.7%, two costs 5.26%. Blackjack at 3:2 is the best bet in the building; 6:5 is not.
-* **Cheap is genuinely cheap.** £1 live roulette at Stratford, £2 roulette at Horizons, 10p electronic roulette at Grosvenor, 1p slots — and every table posts its minimum.
+* **Cheap means cheap.** £1 live roulette at Stratford, £2 roulette at Horizons, 10p electronic roulette at Grosvenor, 1p slots — and every table posts its minimum.
 * **For a non-gambler, the Hippodrome is the visit.** Seven floors, nine bars, two restaurants, three roof terraces and a theatre, free to walk into, at any hour of any day but Christmas.
 
 ---

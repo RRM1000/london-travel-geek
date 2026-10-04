@@ -15,7 +15,7 @@ faq:
   - q: "Where can I eat after midnight in London?"
     a: "Duck & Waffle in the City is open 24 hours, forty floors up. The Polo Bar opposite Liverpool Street has no front door, because it has traded around the clock since 1953. Tayyabs and Original Lahore Kebab House in Whitechapel both run late, as does Ranoush Juice on Edgware Road."
   - q: "Is London good for late-night food?"
-    a: "Honestly, less than most big cities. Kitchens close early by international standards and the reliable late options cluster in a few places — the City, Whitechapel, Edgware Road, Chinatown and Dalston. Outside those, midnight is difficult."
+    a: "Less than most big cities. Kitchens close early by international standards and the reliable late options cluster in a few places — the City, Whitechapel, Edgware Road, Chinatown and Dalston. Outside those, midnight is difficult."
   - q: "Where is the best cheap late-night food in London?"
     a: "Ranoush Juice on Edgware Road for shawarma, Voodoo Ray's in Dalston for enormous pizza slices, and Original Lahore Kebab House in Whitechapel for lamb chops. All under £15."
   - q: "Does the Tube run all night?"
@@ -26,12 +26,12 @@ faq:
 
 London closes earlier than it thinks it does. Most kitchens stop at 10pm, and by midnight the options narrow to a handful of places that have built their whole identity around staying open.
 
-Those places are genuinely good — this is not a list of last resorts.
+Those places are good — this is not a list of last resorts.
 
 > 💡 **The Short Version:** **Duck & Waffle** is open 24 hours, forty floors up. **The Polo Bar** has traded 24 hours since 1953 and has no front door to shut. **Tayyabs** in Whitechapel is the best meal on this page. **Ranoush** on Edgware Road is the best £10. And **Voodoo Ray's** sells pizza by the slice until the small hours.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Late-night opening is the single most volatile thing a restaurant publishes — every time here was checked against the venue's own listing, but confirm before crossing London at 1am.
+> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Late-night opening is the most volatile thing a restaurant publishes — every time here was checked against the venue's own listing, but confirm before crossing London at 1am.
 
 ## Where they are
 
@@ -117,7 +117,7 @@ The **sizzling lamb chops** arrive still spitting on the plate and are the reaso
 
 **Bring your own alcohol** — no licence, little corkage, and that is where the saving is. A group can eat and drink here for what the drinks alone cost in the City twenty minutes away.
 
-> ⚠️ **It is a late dinner, not a small-hours meal.** Their own listing closes at **11.30pm**, so this belongs in an evening rather than after one. If it is past midnight, Beigel Bake or the Edgware Road are the answer instead.
+> ⚠️ **It is a late dinner, not a small-hours meal.** Their own listing closes at **11.30pm**, so this belongs in an evening, not after one. If it is past midnight, Beigel Bake or the Edgware Road are the answer instead.
 
 **No bookings for small groups at peak**, so expect to queue on the pavement. **83 Fieldgate Street, E1 1JU**, seven minutes from Whitechapel.
 
@@ -155,7 +155,7 @@ Rough, quick and mostly takeaway. The **chicken shawarma wrap** — garlic sauce
 
 **There are a handful of seats and they are not the point.** This is a counter you order at, wait beside and walk away from.
 
-**The whole corridor works this way.** Edgware Road is one of the two genuinely cheap late-night stretches in London — grills, bakeries and juice bars running well past midnight at daytime prices, with no markup for the hour.
+**The whole corridor works this way.** Edgware Road is one of the two cheap late-night stretches in London — grills, bakeries and juice bars running well past midnight at daytime prices, with no markup for the hour.
 
 **43 Edgware Road, W2 2JR**, four minutes from Marble Arch, and Marble Arch is on the Central line, which runs all night on Fridays and Saturdays.
 
@@ -163,7 +163,7 @@ Rough, quick and mostly takeaway. The **chicken shawarma wrap** — garlic sauce
 
 *££ · 6 min from Marble Arch*
 
-An Edgware Road institution that comes into its own long after everywhere else has shut — **late-night trading is the point of it rather than a bonus**, and the room fills as the rest of the street winds down.
+An Edgware Road institution that comes into its own long after everywhere else has shut — **late-night trading is what it is for, not a bonus**, and the room fills as the rest of the street winds down.
 
 Lebanese grills, mezze and mixed plates, plus the shisha terrace that keeps the pavement busy in warm weather.
 
@@ -171,7 +171,7 @@ Lebanese grills, mezze and mixed plates, plus the shisha terrace that keeps the 
 
 *Cafe Helen's mixed grill.*
 
-**It is a sit-down room rather than a counter**, which is the difference from Ranoush a few doors along: come here when you want to eat at a table at 1am rather than walk with a wrap.
+**It is a sit-down room rather than a counter**, which is the difference from Ranoush a few doors along: come here when you want to eat at a table at 1am, not walk with a wrap.
 
 **105a Edgware Road, W2 2HX**, six minutes from Marble Arch. No bookings; you take a table when one goes.
 
@@ -205,7 +205,7 @@ A single-site ramen bar on Old Street that takes **no reservations** and has out
 
 **Walk in and wait.** There is no list, no app and no way to skip it, and the room is small.
 
-**Being single-site is the point.** The broth is made in the same building it is served in, which is why it has outlived the chains — but it also means one closure and there is no second branch to fall back on.
+**It has a single site, by design.** The broth is made in the same building it is served in, which is why it has outlived the chains — but it also means one closure and there is no second branch to fall back on.
 
 **102 Old Street, EC1V 9AY**, seven minutes from Old Street station.
 
@@ -217,7 +217,7 @@ A single-site ramen bar on Old Street that takes **no reservations** and has out
 
 *££ · off Leicester Square*
 
-Four floors doing **trolley-era dim sum the old way** — ordered from a paper sheet with a pencil rather than an app — and one of the few Chinatown rooms still going properly late.
+Four floors doing **trolley-era dim sum the old way** — ordered from a paper sheet with a pencil, not an app — and one of the few Chinatown rooms still going late.
 
 **Har gau, siu mai and cheung fun** are the benchmarks, and this is where to judge them: it has been on Leicester Street since long before dim sum became a brunch.
 
@@ -225,7 +225,7 @@ Four floors doing **trolley-era dim sum the old way** — ordered from a paper s
 
 *Cheung fun at Joy King Lau.*
 
-**Chinatown is the late corridor most visitors overlook**, and its noodle and roast-meat rooms are priced for the people who work in them rather than for tourists.
+**Chinatown is the late corridor most visitors overlook**, and its noodle and roast-meat rooms are priced for the people who work in them, not for tourists.
 
 **3 Leicester Street, WC2H 7BL**, two minutes from Leicester Square — which puts it closer to the West End theatres than anything else on this page.
 
@@ -233,13 +233,13 @@ Four floors doing **trolley-era dim sum the old way** — ordered from a paper s
 
 *£££ · Baker Street*
 
-The dim sum benchmark in London, and open later than most of the halls it is measured against — a large, formal room on Baker Street doing the classics properly rather than cheaply.
+The dim sum benchmark in London, and open later than most of the halls it is measured against — a large, formal room on Baker Street doing the classics well rather than cheaply.
 
 ![The large, gold-walled dining room at Royal China, set with round tables and lazy susans](../../assets/articles/late-night-eating-london/royal-china-dining-room.jpg)
 
 *Royal China's dining room.*
 
-**It is the expensive end of this page** and reads as a restaurant rather than a late stop, which is exactly why it is worth knowing about after 10pm when the alternatives have thinned out.
+**It is the expensive end of this page** and reads as a restaurant, not a late stop, which is exactly why it helps after 10pm when the alternatives have thinned out.
 
 > ⚠️ **No bookings at weekend lunch**, which is its busiest service — so a Saturday afternoon means queueing. Evening is both easier to get into and the reason it is in this guide.
 
@@ -268,7 +268,7 @@ The dim sum benchmark in London, and open later than most of the halls it is mea
 Late-night prices in London usually go one of two ways: a nightclub markup, or the cheapest food in the city. These are the second kind.
 
 * **Beigel Bake**, Brick Lane — open **twenty-four hours**, salt beef beigel **£7.50**, smoked salmon **£4.50**. The definitive London 4am meal.
-* **Whitechapel and Edgware Road** are the two genuinely cheap late corridors. Grills, bakeries and sweet shops on both run well past midnight at daytime prices.
+* **Whitechapel and Edgware Road** are the two cheap late corridors. Grills, bakeries and sweet shops on both run well past midnight at daytime prices.
 * **Chinatown** — the late noodle and roast-meat places are open past 1am and priced for the people who work in them.
 * **Food halls run later than you think.** **Seven Dials Market** trades to 11pm Wednesday to Saturday and **Arcade Food Hall** at Battersea to 11pm on Thursdays and Fridays, both with a dozen counters at market prices.
 

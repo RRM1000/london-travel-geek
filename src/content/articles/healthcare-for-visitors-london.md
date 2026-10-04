@@ -84,7 +84,7 @@ These aren't interchangeable, and NHS guidance is specific about which fits whic
 
 ## What overseas visitors pay on the NHS
 
-The NHS in England is what the NHS itself calls **[a residence-based system](https://www.nhs.uk/nhs-services/visiting-or-moving-to-england/visitors-from-eu-countries-norway-iceland-liechtenstein-or-switzerland/)**, not an insurance-based one — so unlike many other countries, being a visitor rather than a resident can mean paying, depending on the service and your circumstances.
+The NHS in England is what the NHS itself calls **[a residence-based system](https://www.nhs.uk/nhs-services/visiting-or-moving-to-england/visitors-from-eu-countries-norway-iceland-liechtenstein-or-switzerland/)**, not an insurance-based one — so unlike many other countries, being a visitor, not a resident can mean paying, depending on the service and your circumstances.
 
 | NHS service | What it costs an overseas visitor |
 | --- | --- |
@@ -147,7 +147,7 @@ Most adults pay for NHS dental treatment, visitor or resident alike, on the same
 
 ## Private GPs and urgent care, if you'd rather pay
 
-For a same-day appointment without going through 111, or care outside NHS hours, London has private GP clinics with published prices. **[DocTap](https://doctap.co.uk/prices/)** runs 11 London clinics, with GP appointments from £55 online or £75 in a clinic on weekdays (£85 at weekends) for a standard 15-minute consultation. **[London Doctors Clinic](https://www.londondoctorsclinic.co.uk/prices)** runs 16 London locations, with 15-minute face-to-face GP appointments from £89 on weekdays and weekday evenings, rising to £105 on weekends and bank holidays; longer appointments and same-day blood tests cost more. Both operate as walk-in-style private GP services rather than A&E replacements — for anything urgent or serious, use NHS 111 or A&E as above.
+For a same-day appointment without going through 111, or care outside NHS hours, London has private GP clinics with published prices. **[DocTap](https://doctap.co.uk/prices/)** runs 11 London clinics, with GP appointments from £55 online or £75 in a clinic on weekdays (£85 at weekends) for a standard 15-minute consultation. **[London Doctors Clinic](https://www.londondoctorsclinic.co.uk/prices)** runs 16 London locations, with 15-minute face-to-face GP appointments from £89 on weekdays and weekday evenings, rising to £105 on weekends and bank holidays; longer appointments and same-day blood tests cost more. Both operate as walk-in-style private GP services, not A&E replacements — for anything urgent or serious, use NHS 111 or A&E as above.
 
 ## Continue planning your London trip
 

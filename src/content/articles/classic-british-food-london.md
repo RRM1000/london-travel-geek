@@ -80,7 +80,7 @@ Cold hand-raised pork in a firm, free-standing pastry shell — no tin, no hoop 
 
 ### Sausage rolls, steak bakes and pasties
 
-Sausage meat rolled in puff pastry is a sausage roll; the same idea with diced beef in gravy instead is a steak bake; a Cornish pasty is a D-shaped, crimped parcel of beef, potato, swede and onion that Cornish miners' wives once packed as a self-contained hot lunch — the crimped edge was originally a handle, held with hands dirty from the mine and thrown away rather than eaten. All three are ordinary lunch food, sold hot from the same kind of shop on every high street in London, and the place to try one is **[Greggs](https://www.greggs.co.uk/)** — more than 2,700 branches across the UK and dozens across London, selling all three by the till. For the Cornish pasty specifically, **[West Cornwall Pasty Co.](https://westcornwallpasty.co.uk/stores/)** has counters inside Victoria, Liverpool Street, King's Cross, Waterloo and St Pancras stations, so it's often the first hot food a visitor arriving by train walks past.
+Sausage meat rolled in puff pastry is a sausage roll; the same idea with diced beef in gravy instead is a steak bake; a Cornish pasty is a D-shaped, crimped parcel of beef, potato, swede and onion that Cornish miners' wives once packed as a self-contained hot lunch — the crimped edge was originally a handle, held with hands dirty from the mine and thrown away, not eaten. All three are ordinary lunch food, sold hot from the same kind of shop on every high street in London, and the place to try one is **[Greggs](https://www.greggs.co.uk/)** — more than 2,700 branches across the UK and dozens across London, selling all three by the till. For the Cornish pasty specifically, **[West Cornwall Pasty Co.](https://westcornwallpasty.co.uk/stores/)** has counters inside Victoria, Liverpool Street, King's Cross, Waterloo and St Pancras stations, so it's often the first hot food a visitor arriving by train walks past.
 
 ![Golden Cornish pasties with crimped edges in a hot-food display case, labelled Traditional Cornish Pasty.](../../assets/articles/classic-british-food-london/west-cornwall-pasty-cornish-pasties.jpg)
 
@@ -96,7 +96,7 @@ A boiled egg wrapped in sausage meat, coated in breadcrumbs and fried — cold, 
 
 ### Bangers and mash
 
-Sausages and mashed potato under onion gravy — the least complicated dish in this guide, and one most London pubs serve as a matter of course. "Banger" is usually traced to the world wars, when sausages were bulked out with water to stretch scarce meat, and the water made them spit and pop in the pan. **[Mother Mash](https://www.thisissoho.co.uk/brands/mother-mash/)** on Ganton Street in Soho is a whole restaurant built around the combination, with a choice of British sausages, several mashes and a handful of gravies to mix and match.
+Sausages and mashed potato under onion gravy — the least complicated dish in this guide, and one most London pubs serve routinely. "Banger" is usually traced to the world wars, when sausages were bulked out with water to stretch scarce meat, and the water made them spit and pop in the pan. **[Mother Mash](https://www.thisissoho.co.uk/brands/mother-mash/)** on Ganton Street in Soho is a whole restaurant built around the combination, with a choice of British sausages, several mashes and a handful of gravies to mix and match.
 
 ![Two sausages under onion gravy with mashed potato and peas, on a white plate.](../../assets/articles/classic-british-food-london/mother-mash-sausages-mash-gravy.jpg)
 
@@ -104,7 +104,7 @@ Sausages and mashed potato under onion gravy — the least complicated dish in t
 
 ### Steak and kidney pudding
 
-Not a pie — a pudding: steak and kidney in gravy, sealed inside a suet crust and steamed in a basin for hours rather than baked, so the pastry comes out soft rather than crisp. **[Rules](https://rules.co.uk/)** on Maiden Lane — open since 1798 and the oldest restaurant in London — keeps it on the menu alongside a separate steak and kidney pie for anyone who wants the baked version, made with beef from the restaurant's own Pennines estate.
+Not a pie — a pudding: steak and kidney in gravy, sealed inside a suet crust and steamed in a basin for hours rather than baked, so the pastry comes out soft, not crisp. **[Rules](https://rules.co.uk/)** on Maiden Lane — open since 1798 and the oldest restaurant in London — keeps it on the menu alongside a separate steak and kidney pie for anyone who wants the baked version, made with beef from the restaurant's own Pennines estate.
 
 ![Rules restaurant's maroon awnings and gold lettering on Maiden Lane, reading Rules, Established 1798.](../../assets/articles/classic-british-food-london/rules-exterior.jpg)
 
@@ -112,7 +112,7 @@ Not a pie — a pudding: steak and kidney in gravy, sealed inside a suet crust a
 
 ### Shepherd's pie and cottage pie
 
-Minced meat under a layer of mashed potato, baked until the top browns. Shepherd's pie is made with lamb, cottage pie with beef, and the two names are not interchangeable no matter how often a menu gets it wrong. **[The Ivy](https://ivycollection.com/restaurants-near-me/the-ivy-london/the-ivy-west-street-covent-garden/)** on West Street in Covent Garden — the original, dating to 1917 and in this building since 1929 — sidesteps the argument entirely with a version made from equal parts lamb and beef mince, served in a disc on a pool of gravy, and it's one of the restaurant's best-known dishes.
+Minced meat under a layer of mashed potato, baked until the top browns. Shepherd's pie is made with lamb, cottage pie with beef, and the two names are not interchangeable however often a menu gets it wrong. **[The Ivy](https://ivycollection.com/restaurants-near-me/the-ivy-london/the-ivy-west-street-covent-garden/)** on West Street in Covent Garden — the original, dating to 1917 and in this building since 1929 — sidesteps the argument entirely with a version made from equal parts lamb and beef mince, served in a disc on a pool of gravy, and it's one of the restaurant's best-known dishes.
 
 ![The Ivy's corner building on West Street at dusk, with the restaurant's name lettered on the stonework and a lit stained-glass window below.](../../assets/articles/classic-british-food-london/the-ivy-exterior.jpg)
 
@@ -120,7 +120,7 @@ Minced meat under a layer of mashed potato, baked until the top browns. Shepherd
 
 ### Welsh rarebit
 
-Cheese on toast in name only: a thick, savoury sauce of melted cheddar, egg yolk, mustard and usually beer, grilled onto bread until it browns, rather than a slice of cheese dropped under the grill. **[J Sheekey](https://j-sheekey.co.uk/)** in Covent Garden — the most-cited seafood restaurant in London by our own **[seafood guide](/articles/best-seafood-restaurants-london/)** — makes its version with cheddar, egg yolk, Worcestershire sauce, mustard, Guinness and double cream, a recipe well-known enough to be printed in the restaurant's own cookbook, and sells it at the bar for about £5.
+Cheese on toast in name only: a thick, savoury sauce of melted cheddar, egg yolk, mustard and usually beer, grilled onto bread until it browns, not a slice of cheese dropped under the grill. **[J Sheekey](https://j-sheekey.co.uk/)** in Covent Garden — the most-cited seafood restaurant in London by our own **[seafood guide](/articles/best-seafood-restaurants-london/)** — makes its version with cheddar, egg yolk, Worcestershire sauce, mustard, Guinness and double cream, a recipe well-known enough to be printed in the restaurant's own cookbook, and sells it at the bar for about £5.
 
 ![J Sheekey's red-framed shopfront on a Covent Garden side street, with outdoor tables set among potted plants.](../../assets/articles/classic-british-food-london/j-sheekey-exterior.jpg)
 
@@ -130,7 +130,7 @@ Cheese on toast in name only: a thick, savoury sauce of melted cheddar, egg yolk
 
 ## Puddings
 
-"Pudding" in British usage just means dessert — asking "what's for pudding" is asking what's for dessert, not requesting anything steamed specifically. These four are the ones worth knowing by name.
+"Pudding" in British usage just means dessert — asking "what's for pudding" is asking what's for dessert, not requesting anything steamed specifically. These are the four to know by name.
 
 ### Sticky toffee pudding
 
@@ -138,7 +138,7 @@ A moist date sponge soaked in hot toffee sauce, served with cream or custard —
 
 ### Treacle tart
 
-Shortcrust pastry filled with golden syrup, breadcrumbs and lemon juice and baked until set — golden syrup rather than treacle proper, despite the name, and sweeter than it looks. **[St. JOHN](https://stjohnrestaurant.com/)** in Smithfield — Fergus Henderson's nose-to-tail restaurant, open since 1994 and Michelin-starred since 2009 — is known for its version nearly as much as for the bone marrow that made the restaurant's name.
+Shortcrust pastry filled with golden syrup, breadcrumbs and lemon juice and baked until set — golden syrup, not treacle proper, despite the name, and sweeter than it looks. **[St. JOHN](https://stjohnrestaurant.com/)** in Smithfield — Fergus Henderson's nose-to-tail restaurant, open since 1994 and Michelin-starred since 2009 — is known for its version nearly as much as for the bone marrow that made the restaurant's name.
 
 ![Three roasted bone marrow halves on a plate with a wedge of toast and a parsley salad.](../../assets/articles/classic-british-food-london/st-john-bone-marrow.jpg)
 

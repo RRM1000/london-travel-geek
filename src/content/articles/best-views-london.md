@@ -19,7 +19,7 @@ faq:
   - q: "What is the best free view in London?"
     a: "Horizon 22 in the City, on level 58 at 254 metres — free, and higher than the paid gallery at The Shard. It needs a free timed ticket. If you cannot get one, The Garden at 120 is the best walk-in option in London: free, fifteen storeys up, no booking at all."
   - q: "Is The View from The Shard worth it?"
-    a: "Only for the open air. Its gallery sits at 244.3 metres, which Horizon 22 beats by about ten metres for free, so you are no longer paying for the highest view in London. What you are paying for, from about £25.95, is the highest open-air deck in the country — and that is genuinely something no free viewpoint offers."
+    a: "Only for the open air. Its gallery sits at 244.3 metres, which Horizon 22 beats by about ten metres for free, so you are no longer paying for the highest view in London. What you are paying for, from about £25.95, is the highest open-air deck in the country — and that is something no free viewpoint offers."
   - q: "Which free London viewpoints need booking?"
     a: "Sky Garden, Horizon 22 and The Lookout at 8 Bishopsgate all need free timed tickets. Sky Garden releases every Monday three weeks ahead; The Lookout releases every other Monday, two weeks ahead. Horizon 22 publishes no fixed release schedule but does take same-day walk-ins by QR code at the door if there is space. The Garden at 120, One New Change and Tate Modern's Level 10 need no booking at all."
   - q: "Where is the best view for photographs?"
@@ -39,7 +39,7 @@ That changes the whole shape of this question. The Shard still has something no 
 > 💡 **The Short Version:** **Horizon 22** is free, ticketed, and the highest public viewpoint in London. **The Garden at 120** is free with no booking at all, which makes it the answer at short notice. **One New Change** gives you St Paul's at eye level for nothing. **Parliament Hill** is the best free panorama. And **Frank's Cafe** in Peckham is the best rooftop bar view, from the top of a car park.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Free means genuinely free — no minimum spend and no drink required. Every price, opening time and booking rule on this page was checked against the venue's own website on 2 September 2026, and where a venue does not publish a figure we say so rather than repeating one. Booking rules and opening hours at the free viewpoints change often; check on the day.
+> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Free means free — no minimum spend and no drink required. Every price, opening time and booking rule on this page was checked against the venue's own website on 2 September 2026, and where a venue does not publish a figure we say so rather than repeating one. Booking rules and opening hours at the free viewpoints change often; check on the day.
 
 ## Where they are
 
@@ -83,7 +83,7 @@ Not a panorama — **one spectacular framed view of St Paul's**, directly opposi
 
 The long hours are what make it valuable. It is the best free sunrise viewpoint in the City by a distance, and one of the few places you can photograph the cathedral lit up late at night.
 
-The irony worth knowing: looking *at* St Paul's from here is free, and climbing *up* St Paul's costs £27.
+The irony: looking *at* St Paul's from here is free, and climbing *up* St Paul's costs £27.
 
 ![The dome of St Paul's Cathedral behind a glass balustrade, with planted beds on a paved roof terrace and a tilted glass roof to the right under a blue sky](../../assets/articles/best-views-london/one-new-change-roof-terrace-st-pauls.jpg)
 
@@ -93,7 +93,7 @@ The irony worth knowing: looking *at* St Paul's from here is free, and climbing 
 
 *Free · walk-in · Sun–Thu 10am–5pm, Fri–Sat 10am–9pm*
 
-The top floor of the Blavatnik Building, and a cafe bar rather than a viewing platform — coffee, tea and snacks, tables by the glass, and nobody checking whether you buy anything. The river, **St Paul's**, the Millennium Bridge and the City cluster fill the north side; **Canary Wharf** sits away to the east.
+The top floor of the Blavatnik Building, and a cafe bar, not a viewing platform — coffee, tea and snacks, tables by the glass, and nobody checking whether you buy anything. The river, **St Paul's**, the Millennium Bridge and the City cluster fill the north side; **Canary Wharf** sits away to the east.
 
 **The hours are the reason to come.** Level 10 runs to **9pm on Fridays and Saturdays** and 5pm the rest of the week, which makes it the only free viewpoint on the south bank that catches a summer sunset without a ticket. Last orders at the bar are 45 minutes before closing.
 
@@ -141,13 +141,13 @@ Reach it by the stairs or escalator near the Paul Hamlyn Hall, or the step-free 
 
 Two things make it better than Sky Garden in practice. There is **no time limit** once you are inside — Sky Garden turns you out after an hour. And there is a **same-day walk-in route**: a QR code outside the entrance lets you book on the spot, subject to capacity. Entrance is level from Bishopsgate and the whole venue is step-free.
 
-The honest caveat: it is **fully enclosed behind glass**. No open air, and photographs pick up reflections. If you want wind in your face, that is what The Shard's top deck sells.
+The caveat: it is **fully enclosed behind glass**. No open air, and photographs pick up reflections. If you want wind in your face, that is what The Shard's top deck sells.
 
 ![Three visitors at floor-to-ceiling windows looking straight down onto City rooftops, a glass-roofed atrium and an office tower with plant on its roof](../../assets/articles/best-views-london/horizon-22-bishopsgate-view.jpg)
 
 *Looking down from the windows of Horizon 22.*
 
-> ⚠️ **Neither venue publishes its height.** The widely reported figures — 254 metres here against 244.3 metres at The View from The Shard — come from third parties rather than from either operator. The floors are not in dispute: Level 58 against floor 72.
+> ⚠️ **Neither venue publishes its height.** The widely reported figures — 254 metres here against 244.3 metres at The View from The Shard — come from third parties, not from either operator. The floors are not in dispute: Level 58 against floor 72.
 
 ### Sky Garden, City of London
 
@@ -169,13 +169,13 @@ The thing almost nobody mentions: **there are paid walk-in slots** at management
 
 *Free · 50th floor · Mon & Fri 12pm–9pm, Tue–Thu 10.30am–5.30pm, Sat 11am–6pm, Sun 10am–5pm*
 
-A roughly 240-degree sweep from the fiftieth floor, strongest to the west and south — so you are looking back over the West End and the river rather than at the City cluster you are standing in.
+A roughly 240-degree sweep from the fiftieth floor, strongest to the west and south — so you are looking back over the West End and the river, not at the City cluster you are standing in.
 
 > ⚠️ **This does need booking.** Free tickets release **every other Monday**, up to two weeks ahead, through booking.8bishopsgate.com. The operator does not publish the 45-minute slot length quoted elsewhere.
 
 Worth the effort for one reason: **Mondays and Fridays it runs to 9pm**, against 5.30pm midweek. That makes it the only free City viewpoint that reliably catches a summer sunset on a weekday — Sky Garden and Horizon 22 both shut at 6pm on weekdays, and The Garden at 120 depends on the weather. If you only get one free evening in the City, make it a Monday or a Friday and come here.
 
-Because the sweep favours west and south, you are looking back over the West End, the river and the Shard rather than at the towers you are standing among — which is the opposite of what Horizon 22 four hundred metres away gives you, and the reason to do both. The entrance is at 8 Bishopsgate, EC2N 4BQ, two minutes from Liverpool Street.
+Because the sweep favours west and south, you are looking back over the West End, the river and the Shard, not at the towers you are standing among — which is the opposite of what Horizon 22 four hundred metres away gives you, and the reason to do both. The entrance is at 8 Bishopsgate, EC2N 4BQ, two minutes from Liverpool Street.
 
 > ⚠️ **It closes on days that are not weekends.** The booking site lists specific 2026 closure dates on top of the standing hours — **1 and 24 October, 15 and 26 November**. Check the calendar before you travel rather than the opening hours.
 
@@ -187,7 +187,7 @@ Because the sweep favours west and south, you are looking back over the West End
 
 *Floors 68–72 · hours vary by date · open-air deck included*
 
-The highest **open-air** viewing deck in the country, on floor 72 — and the open deck is part of the standard ticket, not an upgrade, which is worth knowing because it is the only reason to pay. A lift covers Level 1 to Level 68 in **60 seconds**, and the building is step-free from the street all the way to the open air at 72.
+The highest **open-air** viewing deck in the country, on floor 72 — and the open deck is part of the standard ticket, not an upgrade, and it is the only reason to pay. A lift covers Level 1 to Level 68 in **60 seconds**, and the building is step-free from the street all the way to the open air at 72.
 
 Be clear about what that buys you. It is no longer the highest public view in London — Horizon 22 is higher and free. What you are paying for is **open sky at that altitude**, which no free viewpoint in the city offers, plus a **View Guarantee**: if the weather ruins it, you get a free return voucher valid at least three months.
 
@@ -201,9 +201,9 @@ Be clear about what that buys you. It is no longer the highest public view in Lo
 
 *No admission fee · level 31 · bar 12pm–midnight, to 1am Fri–Sat*
 
-**No ticket needed.** Level 31 of the same building, no entry charge at all, and a three-storey atrium window looking north over the river to the City. You are buying a drink rather than admission.
+**No ticket needed.** Level 31 of the same building, no entry charge at all, and a three-storey atrium window looking north over the river to the City. You are buying a drink, not admission.
 
-Now with a number attached: signature cocktails on their own current bar menu run **£18 to £21**, with non-alcoholic ones at £12 and a 15% service charge on top. One of those is genuinely less than a viewing-gallery ticket, and you get a seat, a table and two-thirds of the height for it.
+Now with a number attached: signature cocktails on their own current bar menu run **£18 to £21**, with non-alcoholic ones at £12 and a 15% service charge on top. One of those is less than a viewing-gallery ticket, and you get a seat, a table and two-thirds of the height for it.
 
 The bar runs **noon to midnight**, and to 1am on Fridays and Saturdays — later than the viewing gallery ever opens. Book a table through their site; they publish no walk-in policy either way, and no minimum spend or dress code appears anywhere on their pages, so do not assume one exists or that it does not.
 
@@ -237,7 +237,7 @@ What you get is the Millennium Bridge axis, Tate Modern, the river and the City 
 
 *£18 adult · daily 9.30am–6pm, last entry 5pm · glass floors 43.5m up*
 
-Glass floors set into the high-level walkways, and the Victorian engine rooms below, which are the real draw — the height is modest and the machinery is not. From the walkways you get the **Tower of London** below, **St Paul's** west, Canary Wharf east and Shooter's Hill beyond it.
+Glass floors set into the high-level walkways, and the Victorian engine rooms below. The height is modest and the machinery is not. From the walkways you get the **Tower of London** below, **St Paul's** west, Canary Wharf east and Shooter's Hill beyond it.
 
 **There is lift access** to both the walkways and the engine rooms. This is not a stairs-only climb, which people assume from the Victorian frontage.
 
@@ -249,7 +249,7 @@ Glass floors set into the high-level walkways, and the Victorian engine rooms be
 
 *Online from £16, standard £24 · 109 metres*
 
-A glass lift that rises **109 metres up inside the north-west chimney** of Battersea Power Station and out through the top of it. Worth doing for the mechanism rather than the panorama: Battersea is not central, so the skyline sits a fair way off across the river.
+A glass lift that rises **109 metres up inside the north-west chimney** of Battersea Power Station and out through the top of it. Worth doing for the mechanism, not the panorama: Battersea is not central, so the skyline sits a fair way off across the river.
 
 **Book online and it is a third cheaper.** Timed Entry Tickets start at **£16 online** against a **£24** standard rate; an Anytime Ticket with no fixed slot is £29 flat with no discount, and the Early or Late Riser experience with a drink is from £19 online against £27 on the day. There is step-free access and an accessibility lift, with free carer tickets.
 
@@ -263,7 +263,7 @@ The hours are **10am–6pm Monday to Wednesday and Sunday, 10am–8pm Thursday t
 
 A guided climb over the roof of the dome on an external walkway in a full-body harness, ending on a platform 52 metres up with the site claiming landmarks 15 miles out on a clear day.
 
-**Overrated as a viewpoint, worth it as an activity.** At 52 metres you are lower than Parliament Hill, and you are in Greenwich looking at Canary Wharf rather than central London. You are paying for the climb, and the climb is good.
+**Overrated as a viewpoint, worth it as an activity.** At 52 metres you are lower than Parliament Hill, and you are in Greenwich looking at Canary Wharf, not central London. You are paying for the climb, and the climb is good.
 
 **The "from £37" is the floor of a six-tier ladder**, not a flat rate. Daytime is £37 weekday and £42 weekend, Twilight £40 and £43, Sunset £42 and £44. Booking is required and there are no walk-ins. The whole thing takes **90 minutes** including kit-up, and you must arrive 15 minutes early or you cannot go.
 
@@ -279,13 +279,13 @@ Booking is through a separate site, summitallypally.co.uk, not the main Alexandr
 
 > ⚠️ **The £24.50 figure everyone quotes has expired.** It was a reduced-VAT "Family Summer Savings" rate valid 25 June to 1 September 2026. The standard rate is not published: get a quote through the booking form before you plan around a price.
 
-Honest note: **the free terrace below gives you essentially the same panorama.** The Summit buys the climb and the statue, not a different view.
+Note: **the free terrace below gives you essentially the same panorama.** The Summit buys the climb and the statue, not a different view.
 
 ### Westminster Cathedral Bell Tower, Victoria
 
 *£10 adult · 64 metres · lift, no stairs · Wednesday to Sunday*
 
-Genuinely obscure, and the practical detail that sells it: **it is the only central London tower view with a lift instead of a staircase.** No steps at all, which makes it the one climb on this page that is not a climb.
+Obscure, and the practical detail that sells it: **it is the only central London tower view with a lift instead of a staircase.** No steps at all, which makes it the one climb on this page that is not a climb.
 
 The gallery sits **210 feet above Victoria Street** and looks straight down it towards Westminster, over a part of London that has no other viewpoint whatsoever. The cathedral's own wording puts it above Victoria Street and Buckingham Palace.
 
@@ -301,7 +301,7 @@ The gallery sits **210 feet above Victoria Street** and looks straight down it t
 
 Several of London's best free views are **protected by law**. The Greater London Authority's View Management Framework fixes an official assessment point for each one — a precise spot, a compass bearing and a target landmark — and buildings cannot be put up in the way.
 
-That is why these particular hills still have a view when so much else has been built out, and it is worth knowing which specific spot the protection applies to.
+That is why these particular hills still have a view when so much else has been built out, and the protection applies only to specific spots.
 
 ### Parliament Hill, Hampstead Heath
 
@@ -319,7 +319,7 @@ You can also pick out the BT Tower, The Shard, Canary Wharf, St Pancras and the 
 
 The viewing gazebo in front of the orientation board at Kenwood is the highest point in the protected set — higher than Parliament Hill's assessment point, with its own orientation board, a protected sightline to St Paul's, and a fraction of the crowd. **The most under-sold viewpoint in London.**
 
-The other reason to come is that **Kenwood House itself is free**, which is genuinely rare for English Heritage. Its own wording: tickets are free, and pre-booking is only recommended to guarantee entry to the house. That gets you the Iveagh Bequest — a Rembrandt self-portrait and a Vermeer — for nothing, twenty minutes from the viewpoint.
+The other reason to come is that **Kenwood House itself is free**, which is rare for English Heritage. Its own wording: tickets are free, and pre-booking is only recommended to guarantee entry to the house. That gets you the Iveagh Bequest — a Rembrandt self-portrait and a Vermeer — for nothing, twenty minutes from the viewpoint.
 
 **The house runs 10am to 5pm, last entry 4.30pm.** The grounds are part of Hampstead Heath and are not separately gated.
 
@@ -331,7 +331,7 @@ Getting there is the awkward part: **Gospel Oak or Hampstead Heath** by rail, or
 
 The photograph everyone takes, with protected vistas to both St Paul's and Westminster, and all three Westminster towers visible from a single spot. The climb takes five minutes from the Regent's Park side and there is a summit orientation stone naming what you are looking at.
 
-Two honest notes. The official framework itself now admits **the Euston towers partly obscure the City cluster**, with St Paul's framed between two of them — the view is not what it was, and the writing on the stone predates the buildings.
+Two notes. The official framework itself now admits **the Euston towers partly obscure the City cluster**, with St Paul's framed between two of them — the view is not what it was, and the writing on the stone predates the buildings.
 
 > ⚠️ **The detail nearly every guide misses, and we have now confirmed it is still live for 2026.** Primrose Hill closes **10pm to 6am on Friday, Saturday and Sunday nights, from Friday 3 April to Sunday 8 November 2026**. Those are the Royal Parks' own dates. Weekday nights are unaffected — the hill stays open 24 hours Monday to Thursday — which is exactly the trap: people go up on a Friday evening in July expecting the same and find the gates shut.
 
@@ -353,9 +353,9 @@ The precise tip: **there are two official points and they do different jobs.** O
 
 **The Phoenix Bar & Pizzeria sits on the terrace**, 11am to 9.30pm Sunday to Thursday and to 10pm on Fridays and Saturdays, with last orders about an hour before. So the ground is open all night but the drink is not.
 
-**Alexandra Palace station** is at the Wood Green entrance to the park, direct from Moorgate and King's Cross; **Wood Green** on the Piccadilly line is twenty minutes from Piccadilly Circus, and the W3 bus runs from Finsbury Park. The postcode is N22 7AY, and it is a short but genuinely uphill walk from either station.
+**Alexandra Palace station** is at the Wood Green entrance to the park, direct from Moorgate and King's Cross; **Wood Green** on the Piccadilly line is twenty minutes from Piccadilly Circus, and the W3 bus runs from Finsbury Park. The postcode is N22 7AY, and it is a short but uphill walk from either station.
 
-The 94-metre figure and the specific landmark list are not published by Alexandra Palace itself — they come from the view framework rather than the venue.
+The 94-metre figure and the specific landmark list are not published by Alexandra Palace itself — they come from the view framework, not the venue.
 
 ### Greenwich Park, by the General Wolfe statue
 
@@ -367,17 +367,17 @@ The classic Greenwich composition down through the Old Royal Naval College to th
 
 **The park is not open all night.** Pedestrian gates open at 6am, vehicle gates at 7am, and both close at dusk, which in December means the hill is shut by mid-afternoon. Check the day's closing time rather than assuming a park is a park.
 
-The terrace has just been rebuilt rather than left to decay: the £12m **Greenwich Park Revealed** project, finished in 2025, remodelled the ground around the statue and restored the Grand Ascent steps up to it.
+The terrace has just been rebuilt, not left to decay: the £12m **Greenwich Park Revealed** project, finished in 2025, remodelled the ground around the statue and restored the Grand Ascent steps up to it.
 
 ### Blackheath Point, Greenwich
 
 *Free · open heath, no gates, no closing time*
 
-**The best genuinely little-known viewpoint in London.** A full protected panorama with an orientation board and a Battle of Britain memorial, on open heath at the top of the hill — and almost nobody goes, because it is on the wrong side of Greenwich Park for the tourist route.
+**The best little-known viewpoint in London.** A full protected panorama with an orientation board and a Battle of Britain memorial, on open heath at the top of the hill — and almost nobody goes, because it is on the wrong side of Greenwich Park for the tourist route.
 
 **Tower Bridge sits between St Paul's and the City cluster, and the dome of the Old Bailey is just visible to the right of the cathedral's peristyle.**
 
-**It is unfenced heath rather than a park**, which is the practical advantage over the Wolfe statue a few hundred metres downhill — no gates, so no dusk closing. If Greenwich Park has shut for the evening, this is the version of the same view that has not. Blackheath station is the nearer of the two, though the walk up from Greenwich through the park is the better approach while the gates are open.
+**It is unfenced heath, not a park**, which is the practical advantage over the Wolfe statue a few hundred metres downhill — no gates, so no dusk closing. If Greenwich Park has shut for the evening, this is the version of the same view that has not. Blackheath station is the nearer of the two, though the walk up from Greenwich through the park is the better approach while the gates are open.
 
 ### King Henry VIII's Mound, Richmond Park
 
@@ -391,7 +391,7 @@ Be realistic: **it is a keyhole, not a vista.** The aperture changes with the se
 
 > ⚠️ **The gates are not always open.** Richmond Park's pedestrian gates run 24 hours except during the two six-week **deer culls** — November to early December, and February to early March — when they shut 8pm to 7.30am on every night except Friday and Saturday. Vehicle gates close at dusk year-round, so the car park is not a night option.
 
-One inconsistency worth knowing: **Royal Parks' own site gives the distance as both ten and twelve miles** on different pages. Ten is the figure most sources use.
+One inconsistency: **Royal Parks' own site gives the distance as both ten and twelve miles** on different pages. Ten is the figure most sources use.
 
 ### Richmond Hill
 
@@ -401,7 +401,7 @@ The bend of the Thames below Petersham Meadows with Glover's Island at its centr
 
 > ⚠️ The protected sightline falls on **the Terrace Walk pavement at the top of Richmond Hill**, not inside Terrace Gardens below. The two are commonly confused. To be clear about what the distinction is and is not: **both are open at all hours** — Richmond Council describes the Gardens as accessible at all times too — so this is about where the legal protection lands, not about getting locked out.
 
-Being an ordinary public pavement is the point. There is no gate, no dusk closing and no ticket, and the pubs along the terrace put you on the view with a drink. The Gardens below have a cafe open seven days during daylight hours. Terrace Gardens' postcode is TW10 6RH, and it is about a twenty-minute walk up from Richmond station.
+It is an ordinary public pavement. There is no gate, no dusk closing and no ticket, and the pubs along the terrace put you on the view with a drink. The Gardens below have a cafe open seven days during daylight hours. Terrace Gardens' postcode is TW10 6RH, and it is about a twenty-minute walk up from Richmond station.
 
 ---
 
@@ -409,7 +409,7 @@ Being an ordinary public pavement is the point. There is no gate, no dusk closin
 
 ## Bridges and the river
 
-The London View Management Framework designates **13 River Prospects**, and **nine of them sit on bridges or footbridges** — Tower, London, Southwark, Millennium, Blackfriars, Waterloo, Golden Jubilee, Westminster and Lambeth. The other four are riverside rather than crossings: the South Bank, Victoria Embankment, Jubilee Gardens and the Albert Embankment.
+The London View Management Framework designates **13 River Prospects**, and **nine of them sit on bridges or footbridges** — Tower, London, Southwark, Millennium, Blackfriars, Waterloo, Golden Jubilee, Westminster and Lambeth. The other four are riverside, not crossings: the South Bank, Victoria Embankment, Jubilee Gardens and the Albert Embankment.
 
 The framework specifies not just the bridge but the exact spot on it, the direction to look and what should be visible. All are free, open at all hours, and need no booking.
 
@@ -427,7 +427,7 @@ Still the one to lead with: **the only crossing that gives you Westminster in on
 
 The framework lists both halves. Upstream: the **Palace of Westminster**, the Abbey towers, the Royal Festival Hall, the **London Eye** and Cleopatra's Needle. Downstream: **St Paul's**, Somerset House, **The Shard** and Canary Wharf.
 
-**Dusk is when it pays.** The sun sets upstream behind Westminster, so the western half of the view gets the colour and the eastern half gets the lights coming on in the City — which is why photographers stand in the middle rather than at either end. It is a working road bridge with pavements on both sides, free, and open at every hour of the year. Waterloo and Temple are the nearest stations.
+**Dusk is when it pays.** The sun sets upstream behind Westminster, so the western half of the view gets the colour and the eastern half gets the lights coming on in the City — which is why photographers stand in the middle, not at either end. It is a working road bridge with pavements on both sides, free, and open at every hour of the year. Waterloo and Temple are the nearest stations.
 
 ### London Bridge
 
@@ -441,17 +441,17 @@ Free, open always, and a two-minute walk from London Bridge station, which puts 
 
 The **North Bastion** on the upstream side is the designated viewpoint — the framework gives Tower Bridge a single assessment point, 10A.1, and this is it. Its landmark list: the **Tower of London**, **St Paul's**, **The Monument**, **HMS Belfast**, City Hall and the Gherkin, with what the framework itself calls the free sky space around the White Tower.
 
-That phrase is the whole reason the view survives. It is a planning instruction — nothing may be built into the sky behind the White Tower — and it is why the Tower still reads as a castle rather than a model village at the foot of the City.
+That phrase is why the view survives. It is a planning instruction — nothing may be built into the sky behind the White Tower — and it is why the Tower still reads as a castle, not a model village at the foot of the City.
 
 **This costs nothing and the Exhibition costs £18.** They are different things: the ticket buys you the glass floors, the walkways and the engine rooms, not this. Tower Hill is the nearest station, two minutes away.
 
 ### Island Gardens, Isle of Dogs
 
-The **Canaletto view**: Wren and Hawksmoor's King William and Queen Anne wings framing the **Queen's House** dead on axis, with Greenwich Park and the **Old Royal Observatory** rising behind, composed exactly as Canaletto painted it in 1751. It is protected as Townscape View 24 rather than a River Prospect, and it is free.
+The **Canaletto view**: Wren and Hawksmoor's King William and Queen Anne wings framing the **Queen's House** dead on axis, with Greenwich Park and the **Old Royal Observatory** rising behind, composed exactly as Canaletto painted it in 1751. It is protected as Townscape View 24, not a River Prospect, and it is free.
 
 **The best thing here is the walk to it.** The **Greenwich Foot Tunnel** runs under the river from the Cutty Sark, and it is the correct way to arrive: you go down on one bank and come up facing the College from across the water.
 
-> 💡 **The lifts run 24 hours.** The refurbishment delivered four new ones, and the Royal Borough of Greenwich reports better than 99.8% availability at both ends. The spiral stairs, roughly ninety steps, are the fallback rather than the default.
+> 💡 **The lifts run 24 hours.** The refurbishment delivered four new ones, and the Royal Borough of Greenwich reports better than 99.8% availability at both ends. The spiral stairs, roughly ninety steps, are the fallback, not the default.
 
 Island Gardens and Cutty Sark DLR stations sit at either end of the tunnel. Tower Hamlets publishes no postcode for the park itself — it is on Saunders Ness Road, E14.
 
@@ -507,7 +507,7 @@ Terrace hours are **4pm–11pm Monday to Wednesday, to midnight Thursday, to 1am
 
 *40th floor · open 24 hours, every day*
 
-Forty floors up in the Heron Tower and **the only London viewpoint open at four in the morning**, which genuinely makes sunrise an option — and the reason to come, because at that hour you have the City to yourself and no ticket exists that would sell you the same thing. Brunch is the cheapest way into this room — see the [brunch guide](/articles/best-breakfast-brunch-london/).
+Forty floors up in the Heron Tower and **the only London viewpoint open at four in the morning**, which makes sunrise an option — and the reason to come, because at that hour you have the City to yourself and no ticket exists that would sell you the same thing. Brunch is the cheapest way into this room — see the [brunch guide](/articles/best-breakfast-brunch-london/).
 
 The 24/7 claim is stated three separate times on their own site, in the hero copy, the hours block and the contact page, so it is not a stale line someone forgot to remove. The signature dish, confit duck leg with a fried duck egg and mustard maple syrup on a waffle, is **£26**; the vegetarian version is £25.
 
@@ -517,7 +517,7 @@ The 24/7 claim is stated three separate times on their own site, in the hero cop
 
 *38th and 39th floors · restaurant noon–1.30am · bar to 3am Thu–Sat*
 
-An orange tree growing through an open-air terrace on the 39th floor of the Heron Tower — one of very few genuinely outdoor high terraces in London, and still there on the venue's own current page, which is worth confirming because rooftop trees have a habit of quietly disappearing.
+An orange tree growing through an open-air terrace on the 39th floor of the Heron Tower — one of very few outdoor high terraces in London, and still there on the venue's own current page, which is worth confirming because rooftop trees have a habit of disappearing.
 
 **Now with a number instead of the word expensive.** The crispy yellowtail taquitos are **£24 for two**. Edamame is £8, a la carte mains run from about £14 for vegetables to £165 for Kobe ribeye, and set menus go £80 to £135 a head. So it is expensive, but you can sit at the bar for the price of a starter.
 
@@ -533,9 +533,9 @@ The unusual thing here is the hour: **open from 6.30am on weekdays**, making it 
 
 **The early slot is a real breakfast service, open to anyone** — not a residents-only hotel buffet, which is the assumption that stops people trying. It is a public a la carte menu: full English £19.50, the buffet £25 a head, an omelette £12, smashed avocado £12, granola £10, plus 12.5% service. Book through the widget on their site.
 
-On the 10th floor of the Montcalm Royal London House, **22–25 Finsbury Square EC2A 1DX** — which is Finsbury rather than Shoreditch proper, five minutes from Moorgate or Old Street. The site calls the terrace open-air and al fresco but says nothing about a roof or heaters, so treat winter as a gamble.
+On the 10th floor of the Montcalm Royal London House, **22–25 Finsbury Square EC2A 1DX** — which is Finsbury, not Shoreditch proper, five minutes from Moorgate or Old Street. The site calls the terrace open-air and al fresco but says nothing about a roof or heaters, so treat winter as a gamble.
 
-One thing worth knowing if you go looking: aviarylondon.com now redirects to the ETM Collection site, which is where the current menus and hours live.
+aviarylondon.com now redirects to the ETM Collection site, which is where the current menus and hours live.
 
 ### 12th Knot, South Bank
 

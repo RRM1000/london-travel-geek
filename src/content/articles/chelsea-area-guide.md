@@ -112,7 +112,7 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 
 ![Two houses on Bywater Street, one sage green with an orange door and one pale blue](../../assets/articles/chelsea-area-guide/bywater-street-doors.jpg)
 
-**Godfrey Street, Burnsall Street and Smith Terrace** are the same idea with fewer people on them, and **Markham Square** is thirty seconds away. All four sit inside one block, so the whole thing is a twenty-minute walk rather than a route — the opposite of Notting Hill, where the pastel streets are scattered over a mile.
+**Godfrey Street, Burnsall Street and Smith Terrace** are the same idea with fewer people on them, and **Markham Square** is thirty seconds away. All four sit inside one block, so the whole thing is a twenty-minute walk, not a route — the opposite of Notting Hill, where the pastel streets are scattered over a mile.
 
 ![Pastel terraced houses along Smith Terrace in Chelsea](../../assets/articles/chelsea-area-guide/smith-terrace.jpg)
 
@@ -128,7 +128,7 @@ The entrance to Chelsea, and the stretch most visitors mistake for the whole of 
 
 **Peter Jones**, the John Lewis department store, occupies the west side behind a curved 1930s glass curtain wall that was radical when it went up and still looks it.
 
-**Be honest about the first few hundred metres of the King's Road**: it is chain retail, and it is the least interesting part of the street. The independents start after Duke of York Square and get better the further west you go.
+**The first few hundred metres of the King's Road are chain retail**, and the least interesting part of the street. The independents start after Duke of York Square and get better the further west you go.
 
 **Sloane Square station is on the District and Circle lines**, and the whole of this guide is walkable from it — the King's Road runs a mile and a half west, so decide how far you are going before you start.
 
@@ -138,7 +138,7 @@ Off the north side of the road, a hundred metres in, and the best place to sit d
 
 **The Saatchi Gallery occupies the building**, seventy thousand square feet over three floors, open daily 10am to 6pm. Some shows are free and some are individually ticketed, with their own separate last-entry times — check which before you turn up.
 
-**The food market runs on Saturdays**, roughly 10am to 4pm, and is the one day this square is genuinely busy. **Partridges**, the grocer on the square, is open the rest of the week.
+**The food market runs on Saturdays**, roughly 10am to 4pm, and is the one day this square is busy. **Partridges**, the grocer on the square, is open the rest of the week.
 
 ![Outdoor tables under umbrellas and bunting at Duke of York Square off the King's Road](../../assets/articles/chelsea-area-guide/duke-of-york-square.jpg)
 
@@ -156,7 +156,7 @@ The riverfront, and the quietest handsome walk in this part of London. Georgian 
 
 **Restaurant Gordon Ramsay is at 68 Royal Hospital Road**, one street back — three Michelin stars since 2001, and booked months ahead.
 
-**It is a walk rather than a destination**, about fifteen minutes end to end, and there is very little to buy along it. Come for the plaques and the bridge, and eat elsewhere.
+**It is a walk, not a destination**, about fifteen minutes end to end, and there is very little to buy along it. Come for the plaques and the bridge, and eat elsewhere.
 
 ### World's End and the western King's Road
 
@@ -213,7 +213,7 @@ The 606 Club on Lots Road serves dinner through two jazz sets every night, from 
 
 ## Getting there
 
-**By Tube.** **Sloane Square** (District, Circle) is the eastern entrance and the only Tube station actually in Chelsea. The western end has no Tube at all — this is the catch.
+**By Tube.** **Sloane Square** (District, Circle) is the eastern entrance and the only Tube station actually in Chelsea. The western end has no Tube at all.
 
 **Getting to the western end.** Take the **11, 19, 22 or 49 bus** along the King's Road, or walk from Sloane Square (25 minutes end to end). **Imperial Wharf** on the Overground serves the far south-west.
 
@@ -254,7 +254,7 @@ Our full route for this area: **eleven numbered stops** over about 4km and two t
 
 1. **Expecting the 1960s King's Road.** It is mostly chains now. The side streets and the river are the reason to come.
 2. **Walking the whole King's Road for the shops.** It is two miles. Take a bus west and walk back.
-3. **Turning up at the Physic Garden unannounced.** It is closed on some days and the entrance on Royal Hospital Road is genuinely hard to spot.
+3. **Turning up at the Physic Garden unannounced.** It is closed on some days and the entrance on Royal Hospital Road is hard to spot.
 4. **Assuming there is a Tube at the western end.** There is not. Sloane Square is the only one, at the far eastern edge.
 5. **Eating on the King's Road itself.** You pay a premium for the address. Duke of York Square on a Saturday is far better value.
 6. **Visiting during Flower Show week without a plan.** Late May is the one time to avoid.

@@ -30,17 +30,17 @@ faq:
     a: "For the Cotswolds, the South Downs, country houses and anywhere without a station, yes. For Oxford, Cambridge, Brighton and Windsor, no — all four have direct trains from central London, and a car adds parking to the problem rather than solving it. Oxford charges even a clean modern petrol car £4 a day to drive into its Zero Emission Zone."
 ---
 
-**You can drive in the UK on the licence in your pocket for 12 months from the day you arrived.** Hiring the car is the easy part. The expensive part is what happens after you turn the key — and if you are staying in central London, the single best decision is to pick the car up on the morning you leave town and drop it off the moment you get back.
+**You can drive in the UK on the licence in your pocket for 12 months from the day you arrived.** Hiring the car is the easy part. The expensive part is what happens after you turn the key — and if you are staying in central London, the best decision is to pick the car up on the morning you leave town and drop it off the moment you get back.
 
 > 💡 **The Short Version:** **Any full foreign licence works for 12 months** from your last entry; you only need an **International Driving Permit if your licence is not in English**. UK licence holders must generate a **DVLA check code** (valid 21 days). Minimum age is usually **25**, or **21 with a surcharge** of about **£61 a day**. The **excess is £1,600–£3,000** and the **deposit £200–£750** held on your card. London costs **£18 a day Congestion Charge plus £12.50 ULEZ** if the car is old, and Westminster kerbside parking runs to **£7.78 an hour**. Petrol is **164.4p a litre**. Hire for the countryside; take the train to Oxford, Cambridge, Brighton and Windsor.
 
 ## Should you hire a car at all?
 
-**Hire one for the places the railway forgot.** The Cotswolds is the clearest case: the villages people actually want — Bibury, the Slaughters, Snowshill, Stow — have no station, and the bus network between them is thin. The same goes for the South Downs, the Peak District, country houses, coastal walks and anything that works as a loop rather than a line.
+**Hire one for the places the railway forgot.** The Cotswolds is the clearest case: the villages people actually want — Bibury, the Slaughters, Snowshill, Stow — have no station, and the bus network between them is thin. The same goes for the South Downs, the Peak District, country houses, coastal walks and anything that works as a loop, not a line.
 
 **Do not hire one to visit a city.** Oxford, Cambridge, Brighton and Windsor all have direct trains from central London, and in each case the car replaces a simple journey with a parking problem at the far end. **Oxford's Zero Emission Zone charges £4 a day even for a clean modern petrol car**, 07:00 to 19:00, seven days a week — a fee you pay before you have found anywhere to leave it.
 
-**The honest middle case is a day out with a car park at the end of it.** The [Harry Potter Studio Tour](/articles/harry-potter-studio-tour/) is one: parking is free, it is about 50 minutes from central London, and the drive avoids a change of train. Even then the train from Euston plus the free shuttle is cheaper than a day's hire.
+**The middle case is a day out with a car park at the end of it.** The [Harry Potter Studio Tour](/articles/harry-potter-studio-tour/) is one: parking is free, it is about 50 minutes from central London, and the drive avoids a change of train. Even then the train from Euston plus the free shuttle is cheaper than a day's hire.
 
 > ⚠️ **Collect the car on your way out of town, not on arrival.** A car parked in central London for three days earns you nothing and costs you the Congestion Charge, ULEZ and hotel parking. Branches at St Pancras, Victoria, Waterloo, Marble Arch and Paddington exist precisely so you can start a trip without going to an airport.
 
@@ -60,7 +60,7 @@ The hire companies ask for more than the law does:
 | **Photo ID** | Passport or ID card. Sixt wants it valid at least **3 months beyond** the rental |
 | **Proof of your trip** | Enterprise asks visitors for **proof of return travel and accommodation** |
 
-Two national oddities worth knowing: a **Chinese or Japanese licence** needs a Hertz certification form issued by Hertz in that country, and a **Vietnamese licence** needs a translation from the Vietnamese Ministry of Transport.
+Two national oddities: a **Chinese or Japanese licence** needs a Hertz certification form issued by Hertz in that country, and a **Vietnamese licence** needs a translation from the Vietnamese Ministry of Transport.
 
 ### The check code, if your licence is British
 
@@ -121,7 +121,7 @@ The deposit is refundable and is not the excess. Hertz warns it can take **up to
 
 So book the **automatic group itself**, and book it as early as you book the flights. A hire company only has to supply the group you reserved; if no automatic group is available on your dates, there is nothing to upgrade into and no obligation on them to find one.
 
-This matters legally as well as practically: if your licence carries **DVLA code 78**, you are restricted to automatics and a manual hire car would be an offence as well as a problem.
+This has legal as well as practical consequences: if your licence carries **DVLA code 78**, you are restricted to automatics and a manual hire car would be an offence as well as a problem.
 
 ## What it actually costs
 
@@ -173,7 +173,7 @@ Checked 12 September 2026.
 
 **The Congestion Charge is unavoidable and it is yours to pay.** Hertz's terms are blunt: hire vehicles are not exempt, it is the renter's responsibility "including visitors from abroad, and not Hertz" to pay each day, and Hertz will not accept liability. One payment covers any number of entries that day. **Electric cars get 25% off (£13.50) only if the vehicle is on Auto Pay**, which a hire car will not be.
 
-> ⚠️ **Sixt quietly bills you for day one.** Hire from a Sixt branch inside the Congestion Charge zone and the charge is added to your rental agreement automatically to cover the first day. Every other day is still yours to pay — and if you forget, the penalty comes back through Sixt with a **£40** admin fee attached.
+> ⚠️ **Sixt bills you for day one.** Hire from a Sixt branch inside the Congestion Charge zone and the charge is added to your rental agreement automatically to cover the first day. Every other day is still yours to pay — and if you forget, the penalty comes back through Sixt with a **£40** admin fee attached.
 
 **The penalties are the real risk.** A missed Congestion Charge or ULEZ payment is a **£180 Penalty Charge Notice, halved to £90 if paid within 14 days**, rising to a **£270** charge certificate after 28 days. The notice goes to the registered keeper — the hire company — which passes it to you with its admin fee on top, often weeks later, charged to the card on file.
 

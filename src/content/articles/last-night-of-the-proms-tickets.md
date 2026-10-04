@@ -45,7 +45,7 @@ faq:
 
 Prices include the booking fee, which on Last Night bookings is 2% of the total plus £2.00 per ticket. All routes cap you at **two tickets per booker**.
 
-| Route | 2026 dates | Price | The catch |
+| Route | 2026 dates | Price | Watch out for |
 | --- | --- | --- | --- |
 | **Open Ballot** | Opened Saturday 16 May 2026, closed midnight Thursday 9 July 2026 | £165.20 Centre Stalls (100 seats), £101.96 Front Circle (100 seats) | Enter on the BBC's online form; it is a ballot, so entry is no guarantee |
 | **Five-Concert Ballot** | Closed midnight Thursday 4 June 2026; tickets issued Friday 4 September 2026 | By seating section | You must buy tickets for at least five other Royal Albert Hall concerts and tick the ballot opt-in box; the other tickets are not refunded if you lose |

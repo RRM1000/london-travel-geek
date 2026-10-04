@@ -19,7 +19,7 @@ faq:
   - q: "What is the best Thai restaurant in London?"
     a: "Depends what you want. AngloThai in Marylebone is the only Michelin-starred Thai restaurant in the UK. Kiln in Soho is the best counter cooking — everything comes off wood and charcoal. And Singburi, which moved from Leytonstone to Shoreditch in 2025, is the one Londoners argue about most."
   - q: "Is Thai food in London regional?"
-    a: "Very. Isaan cooking from the north-east is sour, fermented and chilli-hot — Esarn Kheaw has done it since 1992 and Som Saa does the technical version. Southern Thai is coconut-rich and hotter still, which is Plaza Khao Gaeng's whole proposition. They are genuinely different meals, and picking the region matters more than picking the price."
+    a: "Very. Isaan cooking from the north-east is sour, fermented and chilli-hot — Esarn Kheaw has done it since 1992 and Som Saa does the technical version. Southern Thai is coconut-rich and hotter still, which is Plaza Khao Gaeng's whole proposition. They are different meals, and the region you pick makes more difference than the price."
   - q: "What is Isaan food?"
     a: "The cooking of Thailand's north-east, near Laos: som tam papaya salad, larb, grilled meats and sticky rice, built on fermented fish sauce and dried chilli rather than coconut milk. It is sour, salty and hot. Esarn Kheaw in Shepherd's Bush opened in 1992 and bills itself as London's first Isaan restaurant."
   - q: "Where can I eat Thai food in London cheaply?"
@@ -80,7 +80,7 @@ So this guide is arranged by **what each kitchen actually cooks**. The best of i
 
 ## Isaan: the north-east
 
-Sour, salty and hot, from the region bordering Laos. Som tam papaya salad, larb, grilled meat and sticky rice, built on fermented fish sauce and dried chilli rather than coconut milk. **This is the tradition London does best.**
+Sour, salty and hot, from the region bordering Laos. Som tam papaya salad, larb, grilled meat and sticky rice, built on fermented fish sauce and dried chilli, not coconut milk. **This is the tradition London does best.**
 
 ### Esarn Kheaw, Shepherd's Bush
 
@@ -88,7 +88,7 @@ Sour, salty and hot, from the region bordering Laos. Som tam papaya salad, larb,
 
 **London's first Isaan restaurant, open since 1992 and still run by the Puntar family**, cooking Ubon dishes nobody else in the city bothers with — and doing it in a green-fronted room on Uxbridge Road that has not changed in thirty years.
 
-Isaan is the north-east: sour, salty and hot rather than sweet and coconut-heavy. **Som tam with sticky rice** is the order — green papaya pounded with lime, fish sauce and chilli — with **larb** and grilled meats alongside. Ask for it at Thai heat if you mean it.
+Isaan is the north-east: sour, salty and hot, not sweet and coconut-heavy. **Som tam with sticky rice** is the order — green papaya pounded with lime, fish sauce and chilli — with **larb** and grilled meats alongside. Ask for it at Thai heat if you mean it.
 
 **££, closed Sunday, book a few days ahead.** Shepherd's Bush, and the oldest kitchen of its kind in the country.
 
@@ -155,7 +155,7 @@ Richer and hotter than the north-east, with more coconut, turmeric and seafood, 
 ![A shared spread of fried eggs, a minced meat stir-fry, a pot of yellow curry, jasmine rice and iced tea on a blue floral cloth](../../assets/articles/best-thai-restaurants-london/plaza-khao-gaeng.jpg)
 *A raan khao gaeng at Plaza Khao Gaeng.*
 
-**The most doctrinaire Southern kitchen in London**, and the format is the point: a *raan khao gaeng*, a curry-over-rice shop, where you choose from what is already cooked rather than ordering à la carte.
+**The most doctrinaire Southern kitchen in London**, and the format is a *raan khao gaeng*, a curry-over-rice shop, where you choose from what is already cooked, not ordering à la carte.
 
 Southern Thailand's coast-to-jungle cooking, and a **Michelin Bib Gourmand for 2026**. It began as a single counter inside Arcade Food Hall at Centre Point and now has three sites — the Borough Yards railway arch opened in November 2025, and there is a Covent Garden room too.
 
@@ -199,11 +199,11 @@ The signature is the **short rib curry**, slow-cooked over embers and served wit
 
 *£££ · 1 min from Shoreditch High Street* · Cited by 4 sources
 
-**Thai drinking food and live-fire cooking in a room that behaves like a bar** — the sibling to Kiln, and just as loud. The format is Bangkok's late-night eating rather than a restaurant service.
+**Thai drinking food and live-fire cooking in a room that behaves like a bar** — the sibling to Kiln, and just as loud. The format is Bangkok's late-night eating, not a restaurant service.
 
 The **fish sauce wings** are the dish everyone orders and the one to judge it on: deep-fried, glazed in fish sauce and palm sugar, sticky and salty enough to demand another drink. Beyond them, lardo and langoustine over charcoal, and curries built for sharing across a crowded table.
 
-**£££ and it books weeks ahead.** A minute from Shoreditch High Street. Come for an evening rather than a meal.
+**£££ and it books weeks ahead.** A minute from Shoreditch High Street. Come for an evening, not a meal.
 
 ![The corner frontage of Smoking Goat in Shoreditch](../../assets/articles/best-thai-restaurants-london/smoking-goat.jpg)
 *Smoking Goat, Shoreditch. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=174581316), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -232,7 +232,7 @@ The signature is **kolae chicken**, the dish the restaurant is named after: butt
 
 Built to feel like a **late-night Bangkok Chinatown canteen** — strip lights, football on the screens, **pool tables** — and the curries are good enough that it was ranked the fourth best restaurant in London.
 
-The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle dishes**, wok-charred seafood and curries with real heat, built to be eaten with beer rather than wine. The pool tables are used, which tells you what kind of evening it is.
+The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle dishes**, wok-charred seafood and curries with real heat, built to be eaten with beer, not wine. The pool tables are used, which tells you what kind of evening it is.
 
 **££ and it books weeks ahead.** Three minutes from Piccadilly Circus. Go as a group and order across the whole menu.
 
@@ -242,7 +242,7 @@ The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle 
 
 *Speedboat Bar, at The Electric.*
 
-**You do not need to be a Soho House member.** Electric House is a members' club and the restaurant sits inside it, which puts people off, but Speedboat takes public bookings and walk-ins through its own site like any other restaurant. Worth knowing, because nothing on the door says so.
+**You do not need to be a Soho House member.** Electric House is a members' club and the restaurant sits inside it, which puts people off, but Speedboat takes public bookings and walk-ins through its own site like any other restaurant, though nothing on the door says so.
 
 ---
 
@@ -256,7 +256,7 @@ The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle 
 
 **The only Michelin-starred Thai restaurant in the UK**, and John Chantarasak won it within three months of opening — the star arrived in the 2025 Great Britain and Ireland guide and it has held it since.
 
-The idea is Thai cooking built on **British seasonal produce** rather than imported substitutes, which sounds like a compromise and is the opposite: it forces genuinely new dishes rather than approximations of Bangkok ones. Run by Chantarasak with his wife Desiree.
+The idea is Thai cooking built on **British seasonal produce**, not imported substitutes, which sounds like a compromise and is the opposite: it forces new dishes rather than approximations of Bangkok ones. Run by Chantarasak with his wife Desiree.
 
 Lunch, weekend and dinner tasting menus. Book well ahead.
 
@@ -268,7 +268,7 @@ Lunch, weekend and dinner tasting menus. Book well ahead.
 
 *££ · 213 Blenheim Grove · closed Mondays and Tuesdays* · Cited by 3 sources
 
-The interesting thing about Kruk is that it **refuses to pick a region**. Khao soi from the north, moo hong from Phuket in the south, som tam from Isaan and a red jungle curry from the centre, all on one short menu — by design rather than by dilution.
+The interesting thing about Kruk is that it **refuses to pick a region**. Khao soi from the north, moo hong from Phuket in the south, som tam from Isaan and a red jungle curry from the centre, all on one short menu — by design, not by dilution.
 
 Rob Willcox and Josh Lyons met at Farang and opened in **August 2025** in the Peckham railway arch that used to be Bar Story. They took a **Bib Gourmand within months**. The fried chicken with prickly ash and fish sauce glaze is the order, and the red jungle curry with chalk stream trout is the spiciest thing in this guide.
 
@@ -282,7 +282,7 @@ Rob Willcox and Josh Lyons met at Farang and opened in **August 2025** in the Pe
 
 **Named for the northern Thai coconut curry noodle it is built around** — the newest room on these lists and already on all of them.
 
-**Khao soi** is the dish: egg noodles in a coconut and curry broth, topped with a nest of the same noodles fried crisp, with pickled mustard greens, shallot and lime to add yourself. It is a Chiang Mai dish and almost nowhere in London does it properly. The rest of the menu is northern Thai in the same register.
+**Khao soi** is the dish: egg noodles in a coconut and curry broth, topped with a nest of the same noodles fried crisp, with pickled mustard greens, shallot and lime to add yourself. It is a Chiang Mai dish and almost nowhere in London makes it. The rest of the menu is northern Thai in the same register.
 
 **£££ and it books weeks ahead.** Fitzrovia, small, and the queue for walk-ins builds early.
 
@@ -305,7 +305,7 @@ The menu changes constantly and leans northern: **grilled meats, jungle curry, w
 
 **Jane Alty trained under David Thompson** — the Australian chef who did more than anyone to document real Thai cooking — **and cooks northern Thai in Peckham**, in small plates meant to be ordered across the table.
 
-The menu is a long list of small dishes rather than a few large ones: **curries, salads, grilled meats and relishes**, changing with the season, and designed so a table orders six or seven and shares everything. No single signature; the balance across the order is the point.
+The menu is a long list of small dishes, not a few large ones: **curries, salads, grilled meats and relishes**, changing with the season, and designed so a table orders six or seven and shares everything. No single signature; the meal works through the balance across the order.
 
 **£££, closed Monday, and it books weeks ahead.** Bellenden Road, and one of the restaurants that made Peckham a destination.
 
@@ -315,7 +315,7 @@ The menu is a long list of small dishes rather than a few large ones: **curries,
 
 **Thai flavours through an American diner** — an LA-inspired hotel room in Shepherd's Bush where **the bar snacks and the drinks are doing as much work as the kitchen**.
 
-The format is Thai-American crossover: **fried chicken with Thai seasoning**, larb-spiced burgers, and noodles alongside a serious cocktail list. It is a bar that feeds you properly rather than a restaurant with a bar attached.
+The format is Thai-American crossover: **fried chicken with Thai seasoning**, larb-spiced burgers, and noodles alongside a serious cocktail list. It is a bar that feeds you, not a restaurant with a bar attached.
 
 **£££, book a few days ahead.** Inside The Hoxton, and open later than most of this guide.
 
@@ -325,7 +325,7 @@ The format is Thai-American crossover: **fried chicken with Thai seasoning**, la
 
 **One of the first Thai restaurants in London to charge what the French and Italian rooms charged** — plush, polished, and still doing it, in a teak-panelled dining room overlooking Hyde Park.
 
-Royal Thai cooking rather than street food: **refined curries, carved fruit and delicate presentation**, cooked by a Thai kitchen brigade in a room that has kept its formality while everything around it went casual. The park view is half the price.
+Royal Thai cooking, not street food: **refined curries, carved fruit and delicate presentation**, cooked by a Thai kitchen brigade in a room that has kept its formality while everything around it went casual. The park view is half the price.
 
 **£££, book a few days ahead.** Inside the Royal Lancaster on Bayswater Road. The antithesis of the Isaan rooms elsewhere in this guide, and deliberately so.
 
@@ -339,9 +339,9 @@ Royal Thai cooking rather than street food: **refined curries, carved fruit and 
 
 *£ · 181 King's Cross Road · from £5.95 · BYO · closed Sundays* · Cited by 2 sources
 
-**Dishes from £5.95**, bring your own bottle, family-run, and no regional pretensions whatsoever — central Thai canteen classics done properly and cheaply. The counterweight to everything else on this page.
+**Dishes from £5.95**, bring your own bottle, family-run, and no regional pretensions whatsoever — central Thai canteen classics at low prices. The counterweight to everything else on this page.
 
-This is the Bangkok-standard repertoire rather than a regional one: **pad thai, green and red curry, pad krapow** with a fried egg on rice, and tom yum. It is the food the rest of this guide has spent fifteen years arguing is not the whole story, cooked well enough to remind you why it travelled in the first place.
+This is the Bangkok-standard repertoire, not a regional one: **pad thai, green and red curry, pad krapow** with a fried egg on rice, and tom yum. It is the food the rest of this guide has spent fifteen years arguing is not the whole story, cooked well enough to remind you why it travelled in the first place.
 
 **Thai pub kitchens are the other great London bargain.** An ordinary pub lets a Thai family run its kitchen and the food is routinely far better than the room suggests. Khun Pakin at The Salutation is the best of them, but most areas have one and they are rarely written about — ask locally.
 
@@ -354,7 +354,7 @@ Otherwise: **Kiln's lunch** is materially cheaper than dinner for the same count
 * **Pick the region before the price.** Isaan and Southern cooking are different meals, not different price brackets. If you only try one thing, make it som tam and sticky rice at Esarn Kheaw or the curry-over-rice at Plaza Khao Gaeng.
 * **Sit at the counter at Kiln.** Tables can be booked; the counter is walk-in and better.
 * **Check the closed days.** Kruk shuts Mondays and Tuesdays, Singburi and 101 Thai Kitchen shut Mondays, Paolina shuts Sundays, and Esarn Kheaw serves evenings only.
-* **Heat is negotiable** at every restaurant here — say what you want and they will cook to it. At Kruk and Khun Pakin, the default is genuinely hot.
+* **Heat is negotiable** at every restaurant here — say what you want and they will cook to it. At Kruk and Khun Pakin, the default is hot.
 * **Order across the table.** Thai meals are balanced across sour, hot, salty and sweet; a dish each misses the point entirely.
 * **The lineage is real.** Som Saa's founders trained under David Thompson at Nahm, Singburi's new co-chef came from Kiln, and Kruk's pair met at Farang. Modern regional Thai in London is a small world.
 

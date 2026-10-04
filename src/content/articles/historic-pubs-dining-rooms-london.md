@@ -19,7 +19,7 @@ faq:
   - q: "Are these expensive?"
     a: "Mostly no. Almost all are ordinary pub prices — The Grapes, The Holly Bush and the Wapping riverside pubs are all around £15 for a meal. The Crosse Keys and Hamilton Hall are Wetherspoons in extraordinary buildings, so under £12."
   - q: "Which historic dining rooms are worth booking?"
-    a: "The Cinnamon Club occupies the old Westminster Library with the bookshelves still in place. Sessions Arts Club is a former courthouse left deliberately unrestored. Both are proper restaurants where the room is genuinely the draw."
+    a: "The Cinnamon Club occupies the old Westminster Library with the bookshelves still in place. Sessions Arts Club is a former courthouse left deliberately unrestored. Both are proper restaurants where you go for the room."
   - q: "Which have literary connections?"
     a: "Charles Dickens drank at The Grapes and put it into Our Mutual Friend as the Six Jolly Fellowship Porters. Ye Olde Cheshire Cheese is associated with Dr Johnson, whose house is a few streets away. JMW Turner is said to have owned Turner's Old Star in Wapping."
 ---
@@ -71,7 +71,7 @@ This is a guide to the **rooms worth going to for the room** — pubs, mostly, p
 
 Rebuilt in **1667, immediately after the Great Fire**, down an alley off Fleet Street. A warren of dark panelled rooms and cellars on several levels, with sawdust still on some floors.
 
-The single most atmospheric room on this page, and the easiest to walk past — the entrance is a gap in the buildings rather than a frontage.
+The single most atmospheric room on this page, and the easiest to walk past — the entrance is a gap in the buildings, not a frontage.
 
 **The food is old-school chophouse** — steak and kidney pudding, pies and a Sunday roast — under Sam Smith's ownership, which means cheap drink and **cash preferred, no music and no phones**. Walk-in; the warren of cellars means there is usually a room free even when the front bar is full.
 
@@ -87,7 +87,7 @@ The single most atmospheric room on this page, and the easiest to walk past — 
 
 The cellar was reputedly used to hold convicts before transportation to Australia, and Judge Jeffreys was caught here trying to flee the country disguised as a sailor. The pub trades on none of it — there is no museum-ing, just a narrow bar and a good pint.
 
-**££, walk-in.** Standard pub food rather than a dining room. **The river terrace is tiny and the reason to come** — go in daylight and at low tide, when the foreshore is walkable.
+**££, walk-in.** Standard pub food, not a dining room. **The river terrace is tiny and the reason to come** — go in daylight and at low tide, when the foreshore is walkable.
 
 ![A handful of tables on the Town of Ramsgate's narrow river terrace at dusk, with the Thames beyond](../../assets/articles/historic-pubs-dining-rooms-london/the-town-of-ramsgate-river-terrace.jpg)
 
@@ -105,11 +105,11 @@ Pub food downstairs and a small dining room above it doing a fuller menu, with f
 
 *££ · a Thames terrace* · Cited by 3 sources
 
-**London's oldest riverside pub, trading since around 1520** — first as The Pelican, then as the Devil's Tavern, a name it earned honestly. **The 400-year-old stone floor is still there.**
+**London's oldest riverside pub, trading since around 1520** — first as The Pelican, then as the Devil's Tavern, a name it earned. **The 400-year-old stone floor is still there.**
 
 Pepys and Dickens both drank here; Turner sketched from it. There is a noose hanging over the river terrace in reference to Execution Dock a few hundred yards along, which is either atmospheric or heavy-handed depending on the day.
 
-**££, walk-in. Come for the building and the river, not the cooking** — the food is standard pub fare. **The Thames-facing terrace is the reason to time a visit for daylight.**
+**££, walk-in. Come for the building and the river, not the cooking** — the food is standard pub fare. **Time a visit for daylight to use the Thames-facing terrace.**
 
 ![The black and gold frontage of the Prospect of Whitby on Wapping Wall, with a chalkboard naming its Devil's Tavern history](../../assets/articles/historic-pubs-dining-rooms-london/the-prospect-of-whitby-frontage.jpg)
 
@@ -139,15 +139,15 @@ When the tide is high the pub is cut off and the staff hand out boots to anyone 
 
 **A converted warehouse laid out like a ship's hull**, named for the pirate hanged a few yards away at Execution Dock in 1701 — **and it has the biggest river terrace in Wapping.**
 
-Tall, narrow and built over several floors with exposed beams and small windows onto the Thames. It is a modern conversion rather than a genuinely ancient pub, which is worth knowing — the building is old, the pub is not.
+Tall, narrow and built over several floors with exposed beams and small windows onto the Thames. It is a modern conversion rather than an ancient pub: the building is old, the pub is not.
 
-**££, walk-in.** Pub food and a Sam Smith's price list, which is the cheapest drink on this page. The terrace is the reason to come and it fills the moment the sun does.
+**££, walk-in.** Pub food and a Sam Smith's price list, which is the cheapest drink on this page. Come for the terrace, which fills the moment the sun does.
 
 ### Turner's Old Star, Wapping
 
 *£ · a back-street local*
 
-**An 1830 back-street local that JMW Turner is said to have owned and run for a mistress** — and **the last plain, unrenovated pub left in Wapping**, which after the warehouse conversions around it is the whole point.
+**An 1830 back-street local that JMW Turner is said to have owned and run for a mistress** — and **the last plain, unrenovated pub left in Wapping**, which after the warehouse conversions around it is unusual.
 
 No river view, no terrace, no dining room: two small bars, a dartboard and locals. Turner reportedly inherited two cottages and turned them into this pub for Sophia Booth, though the documentation is thinner than the story.
 
@@ -171,7 +171,7 @@ No river view, no terrace, no dining room: two small bars, a dartboard and local
 
 It is the most extravagant building in this guide by some way and the cheapest place in it to eat. The bar runs most of the length of the hall and the ceiling is worth the crick in your neck.
 
-**£. Opens at 08:00 on weekdays for breakfast. Order at the bar or through the app — there is no table service by default and no music**, which is the house style rather than an off day.
+**£. Opens at 08:00 on weekdays for breakfast. Order at the bar or through the app — there is no table service by default and no music**, which is the house style, not an off day.
 
 **The food is the standard Wetherspoon menu** — burgers, curries, a full cooked breakfast: extraordinary room, ordinary plate.
 
@@ -187,7 +187,7 @@ It is the most extravagant building in this guide by some way and the cheapest p
 
 Grade II listed and reopened after a long refurbishment, with the ballroom decoration modelled on a salon at Versailles. Wetherspoon prices under a ceiling that belongs in a palace.
 
-**£, walk-in. On the station concourse**, which makes it the most useful of these if you are killing time before a train rather than making a trip of it.
+**£, walk-in. On the station concourse**, which makes it the most useful of these if you are killing time before a train, not making a trip of it.
 
 **Wetherspoon menu and prices** under the ballroom ceiling: cooked breakfast from 7am Monday to Saturday, 9am Sunday, burgers and pub standards after. Order at the bar or by app; there is no table service.
 
@@ -201,7 +201,7 @@ Grade II listed and reopened after a long refurbishment, with the ballroom decor
 
 **An 1800 dock building on West India Quay that once held the West India Docks ledgers** — a colonnaded front, a quayside terrace, and **by some distance the cheapest place to eat or drink at Canary Wharf.**
 
-The building predates every tower around it by nearly two centuries and the contrast from the terrace is the reason to sit outside. Wetherspoon menu and prices inside a listed dock office.
+The building predates every tower around it by nearly two centuries and sit outside for the contrast from the terrace. Wetherspoon menu and prices inside a listed dock office.
 
 **£, walk-in. On West India Quay, a footbridge from the towers and next door to the Museum of London Docklands, which is free** — the two make an easy afternoon. Order at the bar or by app.
 
@@ -209,7 +209,7 @@ The building predates every tower around it by nearly two centuries and the cont
 
 ## Historic dining rooms
 
-Restaurants rather than pubs, where the building is genuinely the reason to book.
+Restaurants rather than pubs, where you book for the building.
 
 ### The Cinnamon Club, Westminster
 
@@ -217,7 +217,7 @@ Restaurants rather than pubs, where the building is genuinely the reason to book
 
 The **old Westminster Library**, Grade II listed, with the bookshelves still in place and the gallery still running round the room. Indian cooking, and close enough to Parliament that it fills with MPs and lobbyists whenever the House is sitting.
 
-**This is a full Indian fine-dining room rather than a pub** — Vivek Singh cooking British game and produce with Indian spicing, and a wine list to match. **££££, closed Sunday, and it books weeks ahead.** The breakfast service is a genuine oddity worth knowing about.
+**This is a full Indian fine-dining room, not a pub** — Vivek Singh cooking British game and produce with Indian spicing, and a wine list to match. **££££, closed Sunday, and it books weeks ahead.** The breakfast service is an oddity.
 
 ![The double-height former Westminster Library dining room at the Cinnamon Club, with bookshelves lining both levels](../../assets/articles/historic-pubs-dining-rooms-london/the-cinnamon-club-library.jpg)
 
@@ -239,7 +239,7 @@ The room is on the top floor of the old Clerkenwell Sessions House, reached by a
 
 ### Ye Olde Cheshire Cheese and the pub dining rooms
 
-Most of the pubs above serve food that is fine rather than the point — you are paying for the building, and the kitchen knows it. Three are the exception.
+Most of the pubs above serve food that is fine but secondary — you are paying for the building, and the kitchen knows it. Three are the exception.
 
 **The Holly Bush**, Hampstead — an 1807 pub up an alley off Heath Street with panelled rooms, open fires and **one of the better Sunday roasts in north London**. Book for Sunday. · Cited by 3 sources
 
@@ -253,7 +253,7 @@ Most of the pubs above serve food that is fine rather than the point — you are
 
 ## The listed interiors
 
-Age is the wrong measure for several of London's best pubs. These are protected for what is inside them. For interiors judged on looks rather than history, including recent award-winning restorations, see our [guide to London's most beautiful pubs](/articles/most-beautiful-pubs-london/).
+Age is the wrong measure for several of London's best pubs. These are protected for what is inside them. For interiors judged on looks, not history, including recent award-winning restorations, see our [guide to London's most beautiful pubs](/articles/most-beautiful-pubs-london/).
 
 ### The Blackfriar, Blackfriars
 
@@ -281,7 +281,7 @@ The current building dates precisely to **1676–77**, put up immediately after 
 
 **Owned by the National Trust since 1937** and operated under lease by Greene King. Dickens knew it and put it in *Little Dorrit*.
 
-**Pub food and a Sunday roast**, served in the galleried bars and the courtyard. Walk-in. The courtyard is the thing to see, and it is at its best on a summer evening. It is stop 2 on our [Bankside and Borough walk](/articles/bankside-borough-walk/), beside the yards of the inns that have gone.
+**Pub food and a Sunday roast**, served in the galleried bars and the courtyard. Walk-in. See the courtyard, at its best on a summer evening. It is stop 2 on our [Bankside and Borough walk](/articles/bankside-borough-walk/), beside the yards of the inns that have gone.
 
 ![The galleried courtyard of the George Inn in Southwark, with barrels for tables and the Parliament Bar sign](../../assets/articles/historic-pubs-dining-rooms-london/the-george-courtyard.jpg)
 
@@ -293,7 +293,7 @@ The current building dates precisely to **1676–77**, put up immediately after 
 
 A Mayfair mews pub with **an interior CAMRA rates three-star — of outstanding national historic importance**, CAMRA's highest rating. It is not statutorily listed at all, which is a good illustration of how little the two systems overlap.
 
-Rebuilt in 1741 and licensed in 1754. The Guinea Grill behind it opened in **1952** and claims to be London's original steakhouse; the pies have won awards and the beef is the reason Mayfair keeps coming back.
+Rebuilt in 1741 and licensed in 1754. The Guinea Grill behind it opened in **1952** and claims to be London's original steakhouse; the pies have won awards and the beef is why Mayfair keeps coming back.
 
 ### The Viaduct Tavern, Holborn
 
@@ -315,9 +315,9 @@ The cellars are widely sold as Newgate Prison cells. Newgate did stand across th
 
 *££ · 1 Ely Court · closed Sundays* · Cited by 3 sources
 
-Hidden up an alley off Ely Place, a private road that was legally part of Cambridgeshire — which is the genuinely interesting thing about it, along with the preserved cherry tree trunk in the front bar.
+Hidden up an alley off Ely Place, a private road that was legally part of Cambridgeshire — which is the interesting thing about it, along with the preserved cherry tree trunk in the front bar.
 
-A Fuller's pub, and **food is bar snacks and toasties only**, so come for a pint rather than dinner. Closed Sundays.
+A Fuller's pub, and **food is bar snacks and toasties only**, so come for a pint, not dinner. Closed Sundays.
 
 ![The painted hanging sign of Ye Olde Mitre showing a bishop's mitre and the date 1546](../../assets/articles/historic-pubs-dining-rooms-london/ye-olde-mitre.jpg)
 
@@ -331,7 +331,7 @@ Behind the Royal Courts of Justice, tiny, and with **the best food of any pub in
 
 Grade II listed, partly timber-framed under painted brick, with a jettied bay that may once have been a separate building.
 
-**The kitchen is better than the room suggests** — a short, changing menu of proper cooking rather than pub standards, from a tiny galley behind the bar. Walk-in, and it is very small: fewer than thirty seats, and the barristers from the Royal Courts opposite have first claim on them at lunch.
+**The kitchen is better than the room suggests** — a short, changing menu of proper cooking, not pub standards, from a tiny galley behind the bar. Walk-in, and it is very small: fewer than thirty seats, and the barristers from the Royal Courts opposite have first claim on them at lunch.
 
 ### The Old Bell Tavern, Fleet Street
 
@@ -349,7 +349,7 @@ Now a Nicholson's **pie house**, and the food is better than the average heritag
 
 The Pilgrims' ship sailed from **the landing steps next door** in 1620, and the mooring point is still visible at low tide from the pub's small river terrace.
 
-Be clear about what the building is: put up around 1780 as the Shippe Inn, bomb-damaged in the war, and given its Tudor-style interior in a **1957 refurbishment** — when it took the Mayflower name. A well-executed antiquarian reconstruction rather than surviving 17th-century fabric, and none the worse for it.
+Be clear about what the building is: put up around 1780 as the Shippe Inn, bomb-damaged in the war, and given its Tudor-style interior in a **1957 refurbishment** — when it took the Mayflower name. A well-executed antiquarian reconstruction, not surviving 17th-century fabric, and none the worse for it.
 
 **Pub food with a strong pie list and a Sunday roast**, eaten on a jetty terrace built out over the Thames. Walk-in, though the terrace fills fast. **It still sells British and American postage stamps**, a licence held since the crew of the Mayflower sailed from the steps outside.
 
@@ -369,7 +369,7 @@ The Dick Turpin stories attached to it are folklore — he was born in Essex and
 
 *The Spaniards Inn's garden.*
 
-**Proper pub food and one of the better Sunday roasts in north London**, in a 1585 inn with a garden that is the reason to come in summer. Walk-in, but **book for Sunday** — it is the obvious end point for a Hampstead Heath walk and the whole of north London knows it.
+**Proper pub food and one of the better Sunday roasts in north London**, in a 1585 inn with a garden to come for in summer. Walk-in, but **book for Sunday** — it is the obvious end point for a Hampstead Heath walk and the whole of north London knows it.
 
 ---
 
@@ -377,7 +377,7 @@ The Dick Turpin stories attached to it are folklore — he was born in Essex and
 
 ## What those dates on the signs actually mean
 
-Almost every old London pub advertises a founding year, and **almost none of those years survives contact with the record**. It is worth knowing which is which before you plan a day around one.
+Almost every old London pub advertises a founding year, and **almost none of those years survives contact with the record**. Check which is which before you plan a day around one.
 
 | The pub claims | What is documented |
 | --- | --- |

@@ -71,17 +71,17 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 
 **The Cocktail Club charges £40 a head for a two-hour masterclass** — bubbly on arrival, two cocktails you make yourself from a choice of Pornstar Martini, Espresso Martini, Bramble or Mojito, then a daiquiri challenge. It runs across **nine London bars**: Old Street, Oxford Circus, Shoreditch, Shaftesbury Avenue, Monument, Mansion House, Goodge Street, Liverpool Street and Canary Wharf, which means one of them is near wherever you are staying. The minimum group size is not published, so ring if you are fewer than eight.
 
-**Laki Kane on Oxford Street** is the other one worth knowing, and it is unusual in saying out loud that it is built for hen parties — its own site claims 500-plus celebrations a year. The rum-making experience runs every Saturday at 2pm and the tropical cocktail masterclass every Friday and Saturday at 6pm, with bookings taken up to a month ahead.
+**Laki Kane on Oxford Street** is the other one, and it is unusual in saying out loud that it is built for hen parties — its own site claims 500-plus celebrations a year. The rum-making experience runs every Saturday at 2pm and the tropical cocktail masterclass every Friday and Saturday at 6pm, with bookings taken up to a month ahead.
 
 ### Life drawing
 
-**From £13 a head for groups of up to 20**, which makes it the cheapest structured activity in this guide. Butlers in the Buff runs 90 minutes: 45 minutes of drawing and 45 minutes of butler service, with a 30-minute extension at £50 for the group rather than per head.
+**From £13 a head for groups of up to 20**, which makes it the cheapest structured activity in this guide. Butlers in the Buff runs 90 minutes: 45 minutes of drawing and 45 minutes of butler service, with a 30-minute extension at £50 for the group, not per head.
 
-**The catch is that the venue is not included.** They come to you or help you find a room, so budget a private area on top — which is why this works best bolted onto an apartment you have already booked, or a bar's function room, rather than as a standalone booking.
+**The venue is not included.** They come to you or help you find a room, so budget a private area on top — which is why this works best bolted onto an apartment you have already booked, or a bar's function room, not as a standalone booking.
 
 ### Ball pits, ping pong and mini golf
 
-**Ballie Ballerson on Curtain Road** is the one that has become shorthand for a Shoreditch hen do, and the pricing is unusually honest about it. The ball pit — 100,000 clear balls over 20,000 LEDs, mirrored on every side — is **£8 a head Sunday to Thursday, £12 on Friday and £16 on Saturday**. Bottomless brunch is £45, £49 and £65 across the same three bands, and the private karaoke room, which holds ten and has a pole in it, is £19 to £39.
+**Ballie Ballerson on Curtain Road** is the one that has become shorthand for a Shoreditch hen do, and the pricing is unusually upfront about it. The ball pit — 100,000 clear balls over 20,000 LEDs, mirrored on every side — is **£8 a head Sunday to Thursday, £12 on Friday and £16 on Saturday**. Bottomless brunch is £45, £49 and £65 across the same three bands, and the private karaoke room, which holds ten and has a pole in it, is £19 to £39.
 
 **The number to plan around is the booth minimum spend: nothing for two to seven people, £100 for eight to fifteen, and £300 for sixteen or more.** A booth is free to reserve and you buy food and drink at the venue, so an organiser who does not fancy collecting £40 from twelve people six weeks early can book this without any admin at all.
 
@@ -91,11 +91,11 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 
 ### Afternoon tea, and where not to have it
 
-The grand hotels run £75 to well over £100 a head, and for twelve people that is a £1,200 morning. **The Wolseley is £46.50 and takes walk-ins more readily than any of them.** Better still, the museums do it properly and cheaply: **the British Museum is around £40 under the Foster roof, and Tate Modern around £30** with the river through the window. Under £30, the Memoir Club and the Chocolate Cocktail Club both start at £27.50. If the room is the point, **Sketch** is the one — prices for it and the rest are in the [afternoon tea guide](/articles/best-afternoon-tea-london/).
+The grand hotels run £75 to well over £100 a head, and for twelve people that is a £1,200 morning. **The Wolseley is £46.50 and takes walk-ins more readily than any of them.** Better still, the museums do it for less: **the British Museum is around £40 under the Foster roof, and Tate Modern around £30** with the river through the window. Under £30, the Memoir Club and the Chocolate Cocktail Club both start at £27.50. If you want the room, **Sketch** is the one — prices for it and the rest are in the [afternoon tea guide](/articles/best-afternoon-tea-london/).
 
 ### On the water
 
-**A private Thames Rockets charter for twelve is £695, which is £57.92 a head — less than the £59.95 you would each pay for a public sailing.** That is the rare case where the group rate genuinely beats the individual one, and it is worth knowing because on a public departure **a group of twelve will not always travel together unless it is pre-arranged**. Boats leave from London Eye Pier, Boarding Gate One, SE1 7PB, two minutes from Waterloo, and run 60 minutes. Minimum eight passengers on any sailing.
+**A private Thames Rockets charter for twelve is £695, which is £57.92 a head — less than the £59.95 you would each pay for a public sailing.** That is the rare case where the group rate beats the individual one. On a public departure **a group of twelve will not always travel together unless it is pre-arranged**. Boats leave from London Eye Pier, Boarding Gate One, SE1 7PB, two minutes from Waterloo, and run 60 minutes. Minimum eight passengers on any sailing.
 
 > ⚠️ **Check this before you book a boat.** Thames Rockets prohibits pregnant passengers at any stage. On a hen weekend that is not a hypothetical, and it is not obvious until you are at the pier.
 

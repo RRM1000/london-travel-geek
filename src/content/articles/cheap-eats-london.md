@@ -1,7 +1,7 @@
 ---
 title: "Cheap Eats in London: 34 Places to Eat Well Under £15"
 seoTitle: "Cheap Eats London 2026: 34 Places Under £15"
-description: "Where to eat properly in London on a budget — a £3.95 pizza in Fitzrovia, £5 kati rolls in Covent Garden, and the cash-only chippy east London votes for."
+description: "Where to eat well in London on a budget — a £3.95 pizza in Fitzrovia, £5 kati rolls in Covent Garden, and the cash-only chippy east London votes for."
 heroImage: "../../assets/articles/cheap-eats-london/camden-market-food-stalls.jpg"
 heroImageAlt: "Street food counters in Camden Market, including a focaccia stall and a burrito stall"
 publishedAt: 2026-08-27
@@ -19,14 +19,14 @@ faq:
   - q: "Is street food cheaper than a restaurant in London?"
     a: "Usually, and often better. Most of the cheapest good food here comes from market stalls and counters rather than dining rooms, because you are not paying for table service or a rent-heavy room."
   - q: "Which cheap London restaurants are vegetarian?"
-    a: "Horn OK Please, Gujarati Rasoi and Hullabaloo are entirely vegetarian, and Saravanaa Bhavan and Shree Krishna Vada Pav are too. South Indian and Gujarati cooking is where London's cheapest vegetarian food is genuinely best rather than merely cheapest."
+    a: "Horn OK Please, Gujarati Rasoi and Hullabaloo are entirely vegetarian, and Saravanaa Bhavan and Shree Krishna Vada Pav are too. South Indian and Gujarati cooking is where London's cheapest vegetarian food is also its best, not just its cheapest."
   - q: "Do I need cash for cheap eats in London?"
     a: "Rarely, but Michael's Fish Bar in Leytonstone is cash-only. Everywhere else on this page takes cards. Market stalls all take contactless."
 ---
 
-Eating cheaply in London is not the same as eating badly, and the places that prove it are almost never restaurants. They are market stalls, pizza slice counters and takeaway windows — where you are paying for food rather than for table service and a rent-heavy dining room.
+Eating cheaply in London is not the same as eating badly, and the places that prove it are almost never restaurants. They are market stalls, pizza slice counters and takeaway windows — where you are paying for food, not for table service and a rent-heavy dining room.
 
-Nothing on this page is here because it is *good value for the money*. That is a different question, and a £60 tasting menu can answer it. Everything here is here because **the price itself is the reason to go**: a full meal for less than the cost of two coffees in Soho.
+Nothing on this page is here because it is *good value for the money*. That is a different question, and a £60 tasting menu can answer it. Everything here is here because **the price itself is why you go**: a full meal for less than the cost of two coffees in Soho.
 
 > 💡 **The Short Version:** **ICCO** does a twelve-inch pizza for £3.95. **Kolkati** at Seven Dials is the best fiver in Covent Garden. **Michael's Fish Bar** is the cheapest good chippy in London — bring cash. **Horn OK Please** at Borough Market is the best cheap vegetarian food in the city. And **Kung Fu Noodle** is a proper cooked meal minutes from Leicester Square.
 
@@ -83,15 +83,15 @@ Nothing on this page is here because it is *good value for the money*. That is a
 
 **The £3.95 is the marinara**, which has no cheese — tomato, garlic and oregano, and a perfectly good pizza in its own right. Toppings push the price up and it stays cheap; nothing on the board reaches double figures.
 
-**Under £10, walk-in, counter-style and busy in the evenings.** A quick meal rather than a night out, and there is a second site in Camden.
+**Under £10, walk-in, counter-style and busy in the evenings.** A quick meal, not a night out, and there is a second site in Camden.
 
 ### Kolkati, Covent Garden
 
 *£ · Seven Dials Market · 3 min from Covent Garden · walk-in*
 
-**Kati rolls the Kolkata way**, on a **paratha cooked with egg through it**, so the wrap is layered and slightly custardy rather than a dry tortilla.
+**Kati rolls the Kolkata way**, on a **paratha cooked with egg through it**, so the wrap is layered and slightly custardy, not a dry tortilla.
 
-That paratha is wrapped round spiced chicken or paneer with **pickled onion and lime**, and eaten standing. It is Kolkata's answer to a kebab and almost nowhere else in London makes it properly.
+That paratha is wrapped round spiced chicken or paneer with **pickled onion and lime**, and eaten standing. It is Kolkata's answer to a kebab and almost nowhere else in London makes it.
 
 **£, walk-in, counter only.** Covent Garden. Under a fiver for the vegetarian roll and not much more for the chicken.
 
@@ -99,7 +99,7 @@ That paratha is wrapped round spiced chicken or paneer with **pickled onion and 
 
 *£ · 4 min from Oxford Circus · walk-in* · Cited by 1 source
 
-**Vada pav — the Mumbai potato-fritter roll — done properly and cheaply**, from a counter rather than a dining room.
+**Vada pav — the Mumbai potato-fritter roll — done cheaply**, from a counter, not a dining room.
 
 A **vada pav** is a spiced potato fritter in a soft bun with dry garlic chutney: Mumbai's street sandwich, sold on every corner there and almost nowhere here. **Pav bhaji** and misal pav alongside, all under a fiver.
 
@@ -125,7 +125,7 @@ An all-vegetarian Borough Market stall named for the slogan painted on the back 
 
 *£ · Borough Market · 4 min from London Bridge · walk-in*
 
-**Mother-and-son Gujarati cooking from family recipes** — thalis, bhajia and dhal — **at a market where almost everything else is European**, which is the reason the queue is what it is.
+**Mother-and-son Gujarati cooking from family recipes** — thalis, bhajia and dhal — **at a market where almost everything else is European**, which is why the queue is what it is.
 
 Gujarati food balances sweet, sour and spicy in a way no other Indian regional cuisine does, and the **thali** is the way to see it: several small dishes, rice, bread and dal on one tray. **Undhiyu** in season is the dish to ask about.
 
@@ -145,9 +145,9 @@ New York style means a wide, foldable slice with a thin base and a crisp edge �
 
 *£ · Old Spitalfields Market · 8 min from Aldgate East · walk-in* · Cited by 1 source
 
-**Wood-fired pizza from a stall in Old Spitalfields Market** — one of the few genuine market pizzas in central London, baked in a mobile oven rather than reheated.
+**Wood-fired pizza from a stall in Old Spitalfields Market** — one of the few genuine market pizzas in central London, baked in a mobile oven, not reheated.
 
-A short Neapolitan list: **margherita and marinara** off a properly fermented dough, blistered in ninety seconds and handed over folded in paper. Nothing costs much and nothing is complicated.
+A short Neapolitan list: **margherita and marinara** off a fermented dough, blistered in ninety seconds and handed over folded in paper. Nothing costs much and nothing is complicated.
 
 **£, walk-in, and it trades on market hours only.** Old Spitalfields, and the lunch queue is the market's own workers as much as visitors.
 
@@ -157,7 +157,7 @@ A short Neapolitan list: **margherita and marinara** off a properly fermented do
 
 **A Walthamstow stall pressing its own tortillas** — and **the cheapest serious tacos on any of these lists**.
 
-A *comal* is the flat griddle a tortilla is cooked on, and the name is the promise: masa pressed and griddled to order rather than bought in packs, which is the single thing that separates a good taco from a bad one. A short list of fillings, salsas made on site.
+A *comal* is the flat griddle a tortilla is cooked on, and the name is the promise: masa pressed and griddled to order, not bought in packs, which is the single thing that separates a good taco from a bad one. A short list of fillings, salsas made on site.
 
 **£, walk-in, and open Friday to Sunday only** — closed Monday through Thursday, so check the day before travelling.
 
@@ -165,7 +165,7 @@ A *comal* is the flat griddle a tortilla is cooked on, and the name is the promi
 
 *£ · Greenwich Market · 4 min from Cutty Sark · walk-in*
 
-**A permanent fixture in Greenwich Market rather than a rotating stall**, doing vegetarian and vegan Indian street food — which means it is there when you are, unlike most market traders.
+**A permanent fixture in Greenwich Market, not a rotating stall**, doing vegetarian and vegan Indian street food — which means it is there when you are, unlike most market traders.
 
 **Dosa, chaat and curries** served in boxes, cooked to order, and generous for the money. Everything is vegetarian and much of it vegan, without either being the selling point.
 
@@ -191,9 +191,9 @@ Pasta is made on site and cooked to order at a counter: **cacio e pepe, ragù, c
 
 *£ · Berwick Street · 5 min from Piccadilly Circus · walk-in* · Cited by 7 pizza sources
 
-**A Berwick Street pizza slice counter**, on the Soho market street rather than in a dining room — **slow-fermented dough with a crisp bottom and a puffed, almost naan-like crust.**
+**A Berwick Street pizza slice counter**, on the Soho market street, not in a dining room — **slow-fermented dough with a crisp bottom and a puffed, almost naan-like crust.**
 
-The long ferment is what makes the difference: the base is light and open rather than chewy, and the slices are cut from trays and reheated to order. Toppings change through the day.
+The long ferment is what makes the difference: the base is light and open, not chewy, and the slices are cut from trays and reheated to order. Toppings change through the day.
 
 **£, walk-in, standing only.** A second site trades in Battersea. One of the better fast lunches in Soho and among the cheapest.
 
@@ -215,7 +215,7 @@ Detroit-style squares and Neapolitan rounds from a family-run counter in the Fil
 
 The dough is **cold-fermented for 72 hours**, which is what gives the Detroit slice its airy, custardy middle and the lacy fried-cheese edge where it meets the pan. Slices run about £6.75–£7.95 and whole pizzas £22.50–£28, with vegan, vegetarian and halal options across the menu.
 
-The cheapest genuinely good pizza in west London, and worth the Central line trip if you are a Detroit-style sceptic.
+The cheapest good pizza in west London, and worth the Central line trip if you are a Detroit-style sceptic.
 
 ### The Attendant, Fitzrovia
 
@@ -223,7 +223,7 @@ The cheapest genuinely good pizza in west London, and worth the Central line tri
 
 **Built inside a restored Victorian public lavatory**, with **the original porcelain urinals turned into the counter you sit at** — which is either the best or the worst idea in this guide, depending on your tolerance.
 
-The lavatory closed in the 1960s and sat sealed for fifty years before it was converted. Coffee is the main trade, with **sandwiches, salads and brunch plates** alongside — proper cooking rather than a novelty menu.
+The lavatory closed in the 1960s and sat sealed for fifty years before it was converted. Coffee is the main trade, with **sandwiches, salads and brunch plates** alongside — proper cooking, not a novelty menu.
 
 **£, walk-in.** Foley Street, and you go down a staircase from the pavement. Small, so it fills at lunch.
 
@@ -247,7 +247,7 @@ Hand-pulled noodles in beef broth are the order, with dan dan noodles and dumpli
 
 **The London outpost of the Chennai vegetarian chain** — a group running hundreds of restaurants worldwide and the reference point for south Indian vegetarian food in most of them.
 
-**The cheapest way in the West End to eat a properly made masala dosa**: a fermented rice-and-lentil crepe, crisp and nearly a foot across, with spiced potato inside and sambar and chutneys to dip. Idli, vada and thalis alongside.
+**The cheapest way in the West End to eat a masala dosa**: a fermented rice-and-lentil crepe, crisp and nearly a foot across, with spiced potato inside and sambar and chutneys to dip. Idli, vada and thalis alongside.
 
 **£, walk-in.** Leicester Square, busiest at lunch. Eat the dosa with your hands, which is how it is meant to go.
 
@@ -265,11 +265,11 @@ Hand-pulled noodles in beef broth are the order, with dan dan noodles and dumpli
 
 *£ · 47 Camberwell Church Street · walk-in* · Cited by 2 sources
 
-Xinjiang cooking from China's far north-west — cumin, chilli and hand-cut noodles rather than anything you would recognise from a Cantonese menu — and **only three items on the entire menu cost more than £8**.
+Xinjiang cooking from China's far north-west — cumin, chilli and hand-cut noodles, not anything you would recognise from a Cantonese menu — and **only three items on the entire menu cost more than £8**.
 
 The **big plate chicken** is the order: bone-in chicken in a green chilli broth, poured over ribbon noodles, easily enough for two. The cumin and chilli lamb skewers are the other thing to get.
 
-Worth knowing it moved. Silk Road shut in August 2023 and reopened eighteen months later in new premises next door, so any listing sending you to number 49 is out of date.
+It moved. Silk Road shut in August 2023 and reopened eighteen months later in new premises next door, so any listing sending you to number 49 is out of date.
 
 ### Marie's Café, Waterloo
 
@@ -285,7 +285,7 @@ Pad thai, jungle curry and som tum at around £11 a plate, and roughly £15 a he
 
 London's first dedicated **Xi'an** specialist, built around two things: the *murger*, a chopped pork bun that predates the hamburger by a very long way, and **biang biang noodles** — hand-pulled ribbons wide enough to need folding.
 
-Four branches now, and Euston is the one to use if you are passing through. Nothing here is trying to be refined and that is the point.
+Four branches now, and Euston is the one to use if you are passing through. Nothing here is trying to be refined.
 
 ### Govinda's, Soho
 
@@ -301,7 +301,7 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 **An all-you-can-eat North Indian vegetarian buffet that has fed Islington on a shoestring for decades**, in a room **papered floor to ceiling with hand-made posters about vegetarianism** — unlike anywhere else in this guide.
 
-**The buffet is the whole offer**: a dozen or so curries, rice, dal and breads, refilled as long as you keep going, for a single very low price. The cooking is homely rather than refined and nobody is pretending otherwise.
+**The buffet is the whole offer**: a dozen or so curries, rice, dal and breads, refilled as long as you keep going, for a single very low price. The cooking is homely, not refined, and nobody is pretending otherwise.
 
 **£, walk-in, no bookings.** Chapel Market. Go hungry — the economics only work if you do.
 
@@ -309,9 +309,9 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 *£ · 181 King's Cross Road · BYO · closed Sundays* · Cited by 2 thai sources
 
-**Dishes from £5.95, bring your own bottle, family-run**, and no regional pretensions whatsoever — the central Thai canteen repertoire done properly and cheaply.
+**Dishes from £5.95, bring your own bottle, family-run**, and no regional pretensions whatsoever — the central Thai canteen repertoire at low prices.
 
-This is the Bangkok standard rather than a regional menu: **pad thai, green and red curry, pad krapow** with a fried egg on rice, and tom yum. Cooked to order in a plain room by people who have been doing it for years.
+This is the Bangkok standard, not a regional menu: **pad thai, green and red curry, pad krapow** with a fried egg on rice, and tom yum. Cooked to order in a plain room by people who have been doing it for years.
 
 **Under £10, BYO with no corkage, closed Sundays, walk-in.** 181 King's Cross Road, and among the cheapest sit-down meals in this guide.
 
@@ -352,7 +352,7 @@ A deli that does almost nothing else, which is why it does this well. Leather La
 
 **The chippy east London locals vote for** — 61% of Leytonstoner readers picked it — at prices central London stopped charging a decade ago.
 
-**Cod and haddock in a flaky batter with thick chips**, fried to order, and nothing else going on. A takeaway counter with no seating at all, which is the point and the reason the queue moves.
+**Cod and haddock in a flaky batter with thick chips**, fried to order, and nothing else going on. A takeaway counter with no seating at all, which is why the queue moves.
 
 **CASH ONLY, under £10, closed Sunday.** Bring notes and eat it walking. Leytonstone is the far end of the Central line, which is why the prices have not moved.
 
@@ -376,9 +376,9 @@ Formica tables, a room untouched since long before the current fashion for untou
 
 *£ · 6 min from North Dulwich · walk-in* · Cited by 4 fish and chips sources
 
-**A south London chippy that three separate guides single out over far better-known names**, which is the whole reason it is here rather than a shop with a press office.
+**A south London chippy that three separate guides single out over far better-known names**, which is why it is here, not a shop with a press office.
 
-**Cod and haddock in a crisp batter, chips fried properly**, and the standard sides. No restaurant menu, no grilled options, no reinvention — a counter doing one thing.
+**Cod and haddock in a crisp batter, with chips**, and the standard sides. No restaurant menu, no grilled options, no reinvention — a counter doing one thing.
 
 **£, walk-in, closed Sunday.** Herne Hill, a few minutes from the station and the Sunday market, and cheap enough that a full portion still leaves change from a tenner.
 
@@ -406,7 +406,7 @@ Fish bought fresh and **fried to order in a crisp, light batter with hand-cut ch
 
 ## Wetherspoons, and why they earn a mention
 
-Nobody needs telling that Wetherspoons is cheap, and with around 37 branches in central London alone — roughly 800 across the UK — you are rarely far from one. What is worth knowing is that four of the London ones are in buildings people would pay to look at, and each opens early enough for a cooked breakfast that costs less than a coffee and pastry almost anywhere else.
+Nobody needs telling that Wetherspoons is cheap, and with around 37 branches in central London alone — roughly 800 across the UK — you are rarely far from one. Four of the London ones are in buildings people would pay to look at, and each opens early enough for a cooked breakfast that costs less than a coffee and pastry almost anywhere else.
 
 Order at the bar or through the app. No table service, no music, no booking.
 
@@ -416,9 +416,9 @@ Order at the bar or through the app. No table service, no music, no booking.
 
 **The former headquarters of the Hongkong and Shanghai Banking Corporation, opened 1913** — marble columns, a glass-domed ceiling and a banking hall the length of the room, at Wetherspoon prices.
 
-**The food is the standard Wetherspoon menu** — burgers, curries, a full cooked breakfast from 8am — which is the point: extraordinary room, ordinary plate, and the cheapest bill in central London for the setting.
+**The food is the standard Wetherspoon menu** — burgers, curries, a full cooked breakfast from 8am — extraordinary room, ordinary plate, and the cheapest bill in central London for the setting.
 
-**£, walk-in. Order at the bar or through the app** — no table service by default and no music, which is the house style rather than an off day.
+**£, walk-in. Order at the bar or through the app** — no table service by default and no music, which is the house style, not an off day.
 
 ### Hamilton Hall, Liverpool Street
 
@@ -463,7 +463,7 @@ Order at the bar or through the app. No table service, no music, no booking.
 * **Markets beat restaurants.** Seven Dials, Borough, Old Spitalfields and Greenwich all sit inside the sightseeing core and all have stalls under £10.
 * **Lunch is cheaper than dinner** at the same places — many central restaurants run set lunches at half their evening price.
 * **Counters have no service charge.** The discretionary 12.5% on a London restaurant bill does not apply at a stall or takeaway window.
-* **South Indian and Gujarati cooking** is where London's cheapest food is also genuinely among its best, rather than merely cheap.
+* **South Indian and Gujarati cooking** is where London's cheapest food is also among its best, not just cheap.
 * **Tap water is free and must be provided** by any licensed premises. Ask for it rather than buying bottled.
 * **Cash only** at Michael's Fish Bar. Everywhere else here takes cards.
 

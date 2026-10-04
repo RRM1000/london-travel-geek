@@ -30,7 +30,7 @@ Most people get from King's Cross to Camden on the Northern line, which is quick
 
 **This walk goes east to west**, from Granary Square to Camden Market: ten numbered stops over about **1.5 miles**, of which **1.2 miles is towpath**. It takes about **an hour** with stops, or twenty-five minutes if you put your head down and walk it.
 
-The direction matters more than it looks. Done this way you get the built end first, the empty stretch in the middle, and the locks and the market at the finish — which is where you want to be when you are hungry.
+The direction makes more difference than it looks. Done this way you get the built end first, the empty stretch in the middle, and the locks and the market at the finish — which is where you want to be when you are hungry.
 
 For the areas at either end, see the [King's Cross area guide](/articles/kings-cross-area-guide/) and the [Camden area guide](/articles/camden-area-guide/). This is the walking route version of the journey between them.
 
@@ -78,7 +78,7 @@ For the areas at either end, see the [King's Cross area guide](/articles/kings-c
 
 *The steps below Granary Square.*
 
-**This was a canal basin.** That is the thing to hold on to for the next hour: the square you are standing on is where barges unloaded goods for the rest of London, and the water you are about to walk beside is the reason any of it is here.
+**This was a canal basin.** Hold on to that for the next hour: the square you are standing on is where barges unloaded goods for the rest of London, and the water you are about to walk beside is why any of it is here.
 
 The square has **more than 1,000 choreographed fountains** set flush into the paving, each one individually controlled and lit. They are **open daily and run during daylight hours**, and they are free — children go through them all summer and nobody stops them. Townshend Landscape Architects designed the square; The Fountain Workshop built the fountains.
 
@@ -116,7 +116,7 @@ Kingfisher, Cetti's warbler, reed warbler, reed bunting, emperor dragonfly and c
 
 Inside there is a visitor centre, accessible toilets, baby-changing and the **Kingfisher Café**, which keeps the reserve's hours.
 
-> ⚠️ **This is the one stop with a clock on it.** It opens **10am to 5pm April to September** and **10am to 4pm October to March**, every day. A late-afternoon walk in winter arrives to a locked gate, and there is no way around it. **Assistance dogs only** — worth knowing before you set out with one.
+> ⚠️ **This is the one stop with a clock on it.** It opens **10am to 5pm April to September** and **10am to 4pm October to March**, every day. A late-afternoon walk in winter arrives to a locked gate, and there is no way around it. **Assistance dogs only**, so plan ahead if you are setting out with one.
 
 Underfoot: the main path down to the pond dipping platform has an accessible surface; the rest of the reserve is woodchip, and there are **steep steps with handrails** at the southern end.
 
@@ -140,9 +140,9 @@ It is a few steps up off the towpath and takes four minutes. Do it.
 
 *The quiet mile.*
 
-**From here to Camden there is nothing to buy and nowhere to go.** That is the point of it. The canal runs behind the backs of things — moored boats, allotment-scale gardens, an estate or two, and a run of bridges where the path goes dark and cold for a few seconds at a time.
+**From here to Camden there is nothing to buy and nowhere to go.** That is what the stretch offers. The canal runs behind the backs of things — moored boats, allotment-scale gardens, an estate or two, and a run of bridges where the path goes dark and cold for a few seconds at a time.
 
-The moorings along this stretch are **Camden's eco-moorings**, wired with electric power bollards on the bank so boats can plug in rather than run a diesel generator.
+The moorings along this stretch are **Camden's eco-moorings**, wired with electric power bollards on the bank so boats can plug in, not run a diesel generator.
 
 You are walking the **Regent's Canal**, driven through north London under John Nash and carrying coal, goods and building materials from 1820 until the 1960s. There is no tunnel on this section and no road to cross: the towpath is unbroken from Granary Square to Camden Lock.
 
@@ -172,7 +172,7 @@ The Canal & River Trust numbers them **downwards** as you walk west: this is **L
 
 *Hawley Wharf from the towpath.*
 
-Lock 2, with **Hawley Wharf** stacked above it on Chalk Farm Road — the newest quarter of Camden Market and the answer to the single most common timing problem on this walk.
+Lock 2, with **Hawley Wharf** stacked above it on Chalk Farm Road — the newest quarter of Camden Market and the answer to the most common timing problem on this walk.
 
 **The food halls run 11.30am to 11pm, seven days, bank holidays included.** The retail units keep shorter and stranger hours: **noon to 6pm Monday to Wednesday, 11am to 6pm Thursday, 11am to 7pm Friday and Saturday, 11am to 6pm Sunday.**
 
@@ -186,7 +186,7 @@ So if you arrive at seven in the evening and the market is shuttered, this is wh
 
 *Camden Lock.*
 
-**Properly, this is Hampstead Road Lock**, and it is **two chambers side by side** — the Canal & River Trust calls them 1A and 1B, which is why the sign and the map never quite agree with each other.
+**Strictly, this is Hampstead Road Lock**, and it is **two chambers side by side** — the Canal & River Trust calls them 1A and 1B, which is why the sign and the map never quite agree with each other.
 
 It is the busiest stretch of canal on this walk by a distance, and it is worth standing still in for a few minutes. The market crowds cross the bridge above you, the boats queue below, and the whole reason Camden took the shape it did is the drop in the water directly under your feet.
 
@@ -200,9 +200,9 @@ It is the busiest stretch of canal on this walk by a distance, and it is worth s
 
 **Open 10am to 7pm, Monday to Sunday, bank holidays included** — which makes it one of the few big London markets with no day-of-the-week trap at all. Individual traders set their own hours, so the edges of the day are thinner than the middle.
 
-**On Thursdays it runs a Night Market**, with traders staying open until **9pm**. That is the single best evening on this walk, and almost nobody plans around it.
+**On Thursdays it runs a Night Market**, with traders staying open until **9pm**. That is the best evening on this walk, and almost nobody plans around it.
 
-Keep going north-west up Chalk Farm Road for the **Stables**, the largest of the markets. It was a network of saddlers' workshops, tack rooms, stables and a horse hospital, and the listed cobbled yards are still the shape the horses left. A towpath exists because horses towed the boats along it — so the last stop on this walk and the first mile of it were built for the same animal. That is the reason to finish here rather than at the lock.
+Keep going north-west up Chalk Farm Road for the **Stables**, the largest of the markets. It was a network of saddlers' workshops, tack rooms, stables and a horse hospital, and the listed cobbled yards are still the shape the horses left. A towpath exists because horses towed the boats along it — so the last stop on this walk and the first mile of it were built for the same animal. That is why the walk finishes here rather than at the lock.
 
 The [Camden area guide](/articles/camden-area-guide/) breaks the five markets apart and says which is which.
 
@@ -214,7 +214,7 @@ Worth its own section because it is two minutes in the wrong direction and peopl
 
 **Word on the Water is a bookshop on a barge**, moored on the towpath between Granary Square and the York Way bridge — so it is **east** of where this walk starts, and you have to walk away from Camden to reach it.
 
-It is **free to browse and open midday to 7pm, every day except Christmas Day**. The morning half of that is the catch: a lot of people walk past at ten, see it shut, and assume it has moved on.
+It is **free to browse and open midday to 7pm, every day except Christmas Day**. Many people walk past at ten, see it shut, and assume it has moved on.
 
 Do it first, before you go down the steps and turn west. Ten minutes there and back.
 
@@ -242,7 +242,7 @@ The walk has a **hard gap in the middle**. Between Camley Street and Camden ther
 | **Sunday** | Camden at its most crowded. Coal Drops Yard shuts at 5pm |
 | **Bank holidays** | Camden Market and Hawley Wharf both open as normal |
 
-**What sets the timing is not the day but the hour.** Three clocks matter, and they run in the wrong order for a lazy start:
+**What sets the timing is not the day but the hour.** Three clocks apply, and they run in the wrong order for a lazy start:
 
 - **Camley Street Natural Park** shuts at **4pm** from October to March, and it is stop three.
 - **Camden's locks close to boats at 3.30pm** while the drought restriction holds, so a working lock is a morning sight.
@@ -250,13 +250,13 @@ The walk has a **hard gap in the middle**. Between Camley Street and Camden ther
 
 **Start at 10am** and everything above lands on the right side of its clock. Start at 3pm in January and you will get a good walk, a dark towpath and a locked reserve.
 
-**On the season:** the fountains at Granary Square run in daylight hours, the reserve's summer hours give you an extra one, and the middle mile is genuinely better in autumn, when the bank planting has gone over and you can see the water.
+**On the season:** the fountains at Granary Square run in daylight hours, the reserve's summer hours give you an extra one, and the middle mile is better in autumn, when the bank planting has gone over and you can see the water.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-camden-canal-walk-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 
-**Start:** King's Cross St Pancras — Piccadilly, Victoria, Northern, Circle, Metropolitan and Hammersmith & City, plus both mainline stations. Follow signs for **Granary Square** rather than King's Cross Square, or take the light tunnel to King's Boulevard and walk north.
+**Start:** King's Cross St Pancras — Piccadilly, Victoria, Northern, Circle, Metropolitan and Hammersmith & City, plus both mainline stations. Follow signs for **Granary Square**, not King's Cross Square, or take the light tunnel to King's Boulevard and walk north.
 
 **Finish:** **Camden Town** (Northern) is five minutes from the market and the most crowded station in the area. **Chalk Farm** (Northern) is ten minutes and much easier. **Camden Road** (Overground) is eight minutes, and it is also the mid-route escape hatch at stop six.
 
@@ -264,7 +264,7 @@ The towpath itself is **flat and step-free the whole way** — no locks to climb
 
 > ⚠️ **The towpath is shared, and the Trust has a code for it.** *Share the Space, Drop your Pace* — **pedestrians have priority**, cyclists must slow down for others, and e-scooters, motorbikes and modified e-bikes are not allowed at all. Dogs must be under close control and cleaned up after; the canal is unfenced, deep and steep-sided for the entire route.
 
-Walked in reverse it still works, and Camden to King's Cross is the version most Londoners do. It just ends at a station rather than a lunch.
+Walked in reverse it still works, and Camden to King's Cross is the version most Londoners do. It just ends at a station, not a lunch.
 
 ## Carry on walking
 

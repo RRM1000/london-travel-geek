@@ -26,7 +26,7 @@ faq:
   - q: "What is new at Winter Wonderland for 2026?"
     a: "Gandeys K-Pop Dragon Circus replaces Zippos Christmas Circus, which had been the resident show since 2009. The Magical Ice Kingdom has a new Peter Pan theme, Bar Ice becomes an Arctic snow cave, and there are new Almhütte and Café Bavaria venues plus an Après-Ski Party Resort. Two new ride passes and standalone Ride & Game Credit are also new."
   - q: "Can you get a refund if it rains at Winter Wonderland?"
-    a: "No. It opens in rain, snow or shine and there are no weather refunds — the ice rink runs in all conditions. Tickets are non-refundable, but you can reschedule free of charge up to 72 hours before your visit through See Tickets, which is the single most useful thing to know about booking."
+    a: "No. It opens in rain, snow or shine and there are no weather refunds — the ice rink runs in all conditions. Tickets are non-refundable, but you can reschedule free of charge up to 72 hours before your visit through See Tickets, which is the most useful rule about booking."
 heroImage: "../../assets/articles/hyde-park-winter-wonderland/aerial-night.jpg"
 heroImageAlt: "An aerial night view over Hyde Park Winter Wonderland showing the illuminated fairground, the green ice rink, the big top and the Euro Coaster"
 ---
@@ -138,7 +138,7 @@ The UK's largest open-air rink, laid around the park's Victorian bandstand. Arri
 
 *Arctic Circle · anytime entry, 10:00–21:00 · 15–20 minutes*
 
-Five hundred tonnes of carved ice and snow, in 2026 on a Peter Pan theme, in partnership with Great Ormond Street Hospital Charity. **It is around −10°C inside** — buggies are welcome and it is wheelchair accessible, but dress for it properly rather than optimistically.
+Five hundred tonnes of carved ice and snow, in 2026 on a Peter Pan theme, in partnership with Great Ormond Street Hospital Charity. **It is around −10°C inside** — buggies are welcome and it is wheelchair accessible, but dress warmly rather than optimistically.
 
 | | Off-peak | Standard | Peak |
 | --- | --- | --- | --- |
@@ -151,7 +151,7 @@ Five hundred tonnes of carved ice and snow, in 2026 on a Peter Pan theme, in par
 
 *Thrillville · 10-minute flight, 10:00–21:30*
 
-Seventy metres, and billed as the world's largest transportable observation wheel. At busy times you share a pod with strangers, which is worth knowing before you pay for the view.
+Seventy metres, and billed as the world's largest transportable observation wheel. At busy times you share a pod with strangers.
 
 | | Off-peak | Standard | Peak |
 | --- | --- | --- | --- |
@@ -246,8 +246,8 @@ Ride tickets are valid all day on your booked date and can be redeemed whenever 
 
 1. **Pre-book online** — cheapest.
 2. **Tap and Ride** — contactless straight at the ride.
-3. **Ride tokens** from the on-site booths, **£1 each**, same-day only, non-refundable. Everyone riding needs a token, including a parent riding alongside a child. **How many tokens each ride costs is not published anywhere**, which makes budgeting on the day genuinely difficult.
-4. **Ride & Game Credit**, new for 2026 — pre-pay £20, £30 or £50 online and save up to 10%. It works on any ride and at any of the 70-plus games stalls, is shareable with family through the app, and **unused credit stays valid all season** rather than expiring on the day. £30 or £50 also unlocks free entry.
+3. **Ride tokens** from the on-site booths, **£1 each**, same-day only, non-refundable. Everyone riding needs a token, including a parent riding alongside a child. **How many tokens each ride costs is not published anywhere**, which makes budgeting on the day difficult.
+4. **Ride & Game Credit**, new for 2026 — pre-pay £20, £30 or £50 online and save up to 10%. It works on any ride and at any of the 70-plus games stalls, is shareable with family through the app, and **unused credit stays valid all season**, not expiring on the day. £30 or £50 also unlocks free entry.
 
 <div data-stay-strip></div>
 
@@ -330,7 +330,7 @@ The zones are the **Street Food Village** in Thrillville, **The Sleigh-By**, **C
 | Jolly Hog meal deal — smoky hot dog and seasoned fries | **£11.00** |
 | £40 Bavarian Village credit voucher, bought for £36 | **£36.00** |
 
-> ℹ️ **No individual dish or drink price is published anywhere, including mulled wine.** The Bavarian Village menus list dishes without prices, and the only downloadable menu PDFs on that site date from 2022. Budget from the meal deals above rather than from anything you read elsewhere. A **deposit applies to steins and mulled wine mugs** — its existence is confirmed, because credit vouchers explicitly cannot be spent on it, but the amount is not stated.
+> ℹ️ **No individual dish or drink price is published anywhere, including mulled wine.** The Bavarian Village menus list dishes without prices, and the only downloadable menu PDFs on that site date from 2022. Budget from the meal deals above, not from anything you read elsewhere. A **deposit applies to steins and mulled wine mugs** — its existence is confirmed, because credit vouchers explicitly cannot be spent on it, but the amount is not stated.
 
 The operator's own budget guidance is **£10–£20** to walk round with a snack, **£40–£70** for a few rides plus food and drinks, and **£80 and up** for several attractions, games and souvenirs. Most visitors stay four to five hours.
 
@@ -340,7 +340,7 @@ The operator's own budget guidance is **£10–£20** to walk round with a snack
 
 Your entry ticket gets you *into* the Bavarian Village — the Hall, the new **Almhütte** and **Café Bavaria** — but **it does not guarantee you a place inside them**.
 
-Three rules matter:
+Three rules apply:
 
 - **Wednesday to Sunday, the Bavarian Hall closes at 5pm** to reset for the evening. Guests without a table package can re-enter from **6:15pm**, subject to space.
 - **The evening session, 6pm to 10pm, is 18+ only.** Passport, EU ID card or driving licence, checked on ID scanners. No exceptions.
@@ -368,7 +368,7 @@ Gracy's VIP and the Bavarian Hall both seat a **minimum of ten**. Venues can be 
 
 ### The organisers' own answer
 
-**Quietest:** Monday to Wednesday during the day; and Thursday, Friday, Saturday and Sunday mornings before noon. Late November or early December rather than the final weeks of the year.
+**Quietest:** Monday to Wednesday during the day; and Thursday, Friday, Saturday and Sunday mornings before noon. Late November or early December, not the final weeks of the year.
 
 **Busiest:** Thursday and Friday evenings, and the whole weekend, plus the entire school-holiday stretch from around 18 December. Expect queues to get in as well as queues for rides.
 
@@ -385,7 +385,7 @@ The pricing band follows your entry slot, so an off-peak arrival puts every attr
 
 **A Monday or Tuesday afternoon in the last week of November is the answer to almost every question on this page.** Entry costs £1, the attractions cost a third less, and the queues are shortest.
 
-The trade-off is honest: it will be light when you arrive, and much of what makes the site look like the photographs is the lighting. Book a mid-afternoon slot and you get the quiet *and* the dusk, which is the best of both.
+The trade-off: it will be light when you arrive, and much of what makes the site look like the photographs is the lighting. Book a mid-afternoon slot and you get the quiet *and* the dusk, which is the best of both.
 
 ![The observation wheel at Winter Wonderland lit up against a dusk sky, its spokes picked out in turquoise lights, with an illuminated stall roof below](../../assets/articles/hyde-park-winter-wonderland/observation-wheel.jpg)
 
@@ -421,7 +421,7 @@ If an attraction is closed, the operator **reserves the right to offer a refund 
 
 ## Accessibility
 
-Better than the temporary-site format suggests, and the operator publishes real detail rather than a paragraph.
+Better than the temporary-site format suggests, and the operator publishes real detail, not a paragraph.
 
 - **All four gates are step-free**, with accessible queuing lanes, and the whole site is laid with temporary trackway.
 - **Every attraction except the Real Ice Slide is wheelchair accessible.** Wheelchairs are allowed on the ice with ramps in and out, electric chairs with motors off, and there is a public viewing platform at the rink.
@@ -432,9 +432,9 @@ Better than the temporary-site format suggests, and the operator publishes real 
 - **The Magical Ice Kingdom has audio description**, recorded by its own ice sculptors, with a limited number of headsets per session and a faster accessible queue lane on the left of the entrance.
 - **Step-free stations:** the operator's accessibility FAQ names Green Park, Victoria and Paddington. Its separate Getting Here page also calls **Bond Street** step-free, for the Central, Jubilee and Elizabeth lines. Hyde Park Corner and Marble Arch are explicitly advised against.
 
-Two honest limitations from the operator: **there are no accessible fast-track options on most rides**, because separate queue lines are not possible; and you must be able to take part in an evacuation — possibly stairs, at height, in low light — or be accompanied by someone who can ensure it. Accessible parking guidance is on 020 8233 5400.
+Two limitations from the operator: **there are no accessible fast-track options on most rides**, because separate queue lines are not possible; and you must be able to take part in an evacuation — possibly stairs, at height, in low light — or be accompanied by someone who can ensure it. Accessible parking guidance is on 020 8233 5400.
 
-**Accessible Sessions run on set dates**, at lower capacity with reduced music, sound and lighting: the Ice Rink on Wednesday 25 November at 2pm, Monday 30 November at 4pm and Monday 28 December at 11am; Bar Ice on Thursday 26 November at noon and Sunday 13 December at 10:30am. Wheelchair hire is not mentioned anywhere — assume you need to bring your own, and ring to check if it matters.
+**Accessible Sessions run on set dates**, at lower capacity with reduced music, sound and lighting: the Ice Rink on Wednesday 25 November at 2pm, Monday 30 November at 4pm and Monday 28 December at 11am; Bar Ice on Thursday 26 November at noon and Sunday 13 December at 10:30am. Wheelchair hire is not mentioned anywhere — assume you need to bring your own, and ring to check.
 
 ---
 
@@ -460,7 +460,7 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 
 ## Continue planning your Christmas
 
-- 🎄 **[Christmas in London](/articles/christmas-in-london/)** — markets, lights, ice rinks and light trails, and what has quietly stopped running
+- 🎄 **[Christmas in London](/articles/christmas-in-london/)** — markets, lights, ice rinks and light trails, and what has stopped running
 - 🎡 **[The Best Views in London](/articles/best-views-london/)** — if the Giant Wheel gave you a taste for it
 - 🍽️ **[The Best Street Food in London](/articles/best-street-food-london/)** — where the Winter Wonderland traders go the rest of the year
 - 🚇 **[Getting Around London](/articles/getting-around-london-transport-guide/)** — including what runs on Christmas Day, which is nothing

@@ -51,7 +51,7 @@ Brussels gets less attention than Paris as a Eurostar day trip, which is exactly
 | Recommended arrival, St Pancras | **75 min** before (Standard/Plus), 45 min (Premier) |
 | Trains per day | Around 10, roughly hourly to two-hourly |
 
-Eurostar's own site quotes fares to Brussels from £39 for a promotional-fare seat; the steadier advance fare, checked the same day on Seat61's published fare table and Trainline's live timetable, was £51 one-way in Standard. Both are real, checked prices rather than a single quote, so treat the range as what to expect rather than a guarantee for your date.
+Eurostar's own site quotes fares to Brussels from £39 for a promotional-fare seat; the steadier advance fare, checked the same day on Seat61's published fare table and Trainline's live timetable, was £51 one-way in Standard. Both are real, checked prices, not a single quote, so treat the range as what to expect rather than a guarantee for your date.
 
 ### Eurostar Standard, Plus or Premier
 
@@ -75,13 +75,13 @@ If you'd rather not plan the route yourself with a fixed number of hours on the 
 
 - **2.5 hours, 4.6★ (4,262 reviews)** — <a href="https://www.getyourguide.com/activity/-t204439?partner_id=WWP7I0R&amp;cmp=brussels-day-trip-walking-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Guided walking tour of the Lower and Upper City</a>, taking in the Grand-Place, the guildhalls and the city's major landmarks
 - **4.9★ (449 reviews)** — <a href="https://www.getyourguide.com/activity/-t509947?partner_id=WWP7I0R&amp;cmp=brussels-day-trip-food-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">City-centre food tour with tastings</a>, if the point of the day is as much what you eat as what you see
-- **4.7★ (967 reviews)** — <a href="https://www.getyourguide.com/activity/-t46955?partner_id=WWP7I0R&amp;cmp=brussels-day-trip-beer-tasting" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Belgian beer tasting in Brussels</a>, a seated introduction rather than a bar crawl
+- **4.7★ (967 reviews)** — <a href="https://www.getyourguide.com/activity/-t46955?partner_id=WWP7I0R&amp;cmp=brussels-day-trip-beer-tasting" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Belgian beer tasting in Brussels</a>, a seated introduction, not a bar crawl
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="204439" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Check-in and the border
 
-As with every London-departing Eurostar, the whole border process happens at St Pancras before you leave — UK exit, Belgian entry and EU biometric registration — rather than on arrival in Brussels.
+As with every London-departing Eurostar, the whole border process happens at St Pancras before you leave — UK exit, Belgian entry and EU biometric registration — not on arrival in Brussels.
 
 | Station | Class | Recommended arrival |
 | --- | --- | --- |
@@ -144,19 +144,19 @@ The **Belgian Comic Strip Center** itself — the indoor museum, not the outdoor
 
 ### The Atomium question
 
-The **Atomium** — nine steel spheres, 102 metres tall, built as the symbol of the 1958 World's Fair and never meant to outlast it — is the most photographed thing in Brussels that isn't the Grand-Place, and it's a genuine detour rather than a stop on the way to anything. It sits at Heysel, north of the centre, and the fastest route is a **direct 15-minute Metro line 6 ride from Brussels-Midi itself**, no change needed — useful, because it means you don't have to backtrack through the centre to reach it. Six of the nine spheres are open to visitors, including a panorama restaurant in the top one; adult admission is **€17**, which also covers the neighbouring Design Museum Brussels. It's open every day, 10am to 6pm, so unlike the Comic Strip Center it isn't a Monday problem.
+The **Atomium** — nine steel spheres, 102 metres tall, built as the symbol of the 1958 World's Fair and never meant to outlast it — is the most photographed thing in Brussels that isn't the Grand-Place, and it's a genuine detour, not a stop on the way to anything. It sits at Heysel, north of the centre, and the fastest route is a **direct 15-minute Metro line 6 ride from Brussels-Midi itself**, no change needed — useful, because it means you don't have to backtrack through the centre to reach it. Six of the nine spheres are open to visitors, including a panorama restaurant in the top one; adult admission is **€17**, which also covers the neighbouring Design Museum Brussels. It's open every day, 10am to 6pm, so unlike the Comic Strip Center it isn't a Monday problem.
 
 ![The Atomium's nine steel spheres and connecting tubes against a blue sky, seen from the avenue leading up to it](../../assets/articles/brussels-day-trip/atomium.jpg)
 
 *The Atomium, at Heysel.*
 
-The honest answer on whether it's worth the trip: if you're on one of the early trains and can give it 90 minutes to two hours there and back, it's a straightforward add-on. If you took the later 08:16 and want a proper look at the centre as well, it's the first thing to cut — the Grand-Place, Manneken Pis and the comic walls sit close together, and the Atomium doesn't.
+Whether it's worth the trip depends on your train: if you're on one of the early trains and can give it 90 minutes to two hours there and back, it's a straightforward add-on. If you took the later 08:16 and want a proper look at the centre as well, it's the first thing to cut — the Grand-Place, Manneken Pis and the comic walls sit close together, and the Atomium doesn't.
 
 ### Waffles, frites and beer
 
 **Waffles** come in two shapes here, and they're not interchangeable: a Brussels waffle is light, crisp and rectangular, made from a yeasted batter and usually dusted with icing sugar or piled with toppings; a Liège waffle is smaller, denser and irregularly oval, made from a brioche-like dough studded with pearl sugar that caramelises as it cooks. Both are sold from stands across the centre.
 
-**Frites** come from a paper cone with a dollop of mayonnaise rather than ketchup as the default, fried twice — once to cook the potato through, once to crisp it — at a **frietkot** (a fries stand, sometimes just a hatch in a wall) rather than a restaurant. Whether the fry itself is Belgian or French in origin is a live dispute between food historians on both sides of the border; nobody disputes that Belgians eat more of them.
+**Frites** come from a paper cone with a dollop of mayonnaise rather than ketchup as the default, fried twice — once to cook the potato through, once to crisp it — at a **frietkot** (a fries stand, sometimes just a hatch in a wall), not a restaurant. Whether the fry itself is Belgian or French in origin is a live dispute between food historians on both sides of the border; nobody disputes that Belgians eat more of them.
 
 **Beer** is the other constant. The Delirium Café, in the Impasse de la Fidélité alley just off the Bourse, held the Guinness World Record for the longest beer list — **2,004 different beers** — when it opened in December 2003, and the list has only grown since.
 
@@ -182,7 +182,7 @@ Stay near Brussels-Midi only if you need the five-minute walk to a morning train
 
 - **[Jill Hotel Brussels](hotelscom:h6715906)** — Avenue Fonsny, a two-minute walk from Gare du Midi's platforms and premetro; a 4-star boutique fit-out behind a plain façade, with a hidden garden terrace. **££**, and only worth booking for the early train, not an evening in the area.
 - **[Hotel Amigo](hotelscom:h808295)** — Rue de l'Amigo, between the Grand-Place and Manneken Pis; a five-star with its own Italian restaurant and Bar Magritte's live jazz. **£££**, for the location as much as anything.
-- **[Hotel Le Plaza Brussels](hotelscom:h54732)** — Boulevard Adolphe Max, a ten-minute walk from the Grand-Place past the Rue Neuve shops; a traditional, formal hotel rather than a boutique one. **££**, and quieter than staying right on the square.
+- **[Hotel Le Plaza Brussels](hotelscom:h54732)** — Boulevard Adolphe Max, a ten-minute walk from the Grand-Place past the Rue Neuve shops; a traditional, formal hotel, not a boutique one. **££**, and quieter than staying right on the square.
 - **[ibis Brussels off Grand Place](hotelscom:h16260)** — Rue du Marché aux Herbes, two minutes from the Grand-Place; a modern budget-chain room with a breakfast buffet that includes Belgian waffles. **£**, the cheapest of the four for the same walk to the square.
 
 ## What people get wrong

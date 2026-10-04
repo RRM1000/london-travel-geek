@@ -71,7 +71,7 @@ The architect's own house, **preserved by Act of Parliament exactly as he left i
 
 **The only house Dickens lived in that still stands in London.** He was here under three years, from 1837, and wrote *Oliver Twist* and *Nicholas Nickleby* in it — which makes the study the point of the visit.
 
-Five floors laid out as a working household rather than a gallery: kitchen and wash house in the basement, dining and drawing rooms, the study, the bedrooms, the nursery and the servant's room at the top. Among the objects, the copy of *David Copperfield* that went to the Antarctic on Scott's 1910 expedition.
+Five floors laid out as a working household, not a gallery: kitchen and wash house in the basement, dining and drawing rooms, the study, the bedrooms, the nursery and the servant's room at the top. Among the objects, the copy of *David Copperfield* that went to the Antarctic on Scott's 1910 expedition.
 
 **£14 adult, £8 child, £12 concession, and carers go free.** Wednesday to Sunday 10am–5pm, last entry an hour before, **closed Monday and Tuesday**. Admission runs in 15-minute slots and walk-ups wait if the house is full.
 
@@ -119,7 +119,7 @@ Outside, 112 acres of Humphry Repton landscape running into Hampstead Heath, wit
 
 *Ticketed · weekdays cheaper than weekends*
 
-Henry VIII's kitchens, the Tudor Great Hall and Wren's baroque state apartments — genuinely two palaces sharing one address, and the join between them is the thing to look for.
+Henry VIII's kitchens, the Tudor Great Hall and Wren's baroque state apartments — two palaces sharing one address, and the join between them is worth looking for.
 
 **Everything outside is included in the ticket**, which people get wrong constantly: the **maze**, the Magic Garden, the Privy Garden, the Great Fountain Garden, the Wilderness and the Kitchen Garden all come with admission. So does a multimedia guide.
 
@@ -141,17 +141,17 @@ The Courtaulds' half gives you a **circular entrance hall** lit from above and p
 
 Nineteen acres of garden outside, with a rock garden, a sunken rose garden and **London's oldest working bridge** over the moat.
 
-**Book online by midnight the day before to pay £17 rather than £20 on the door.** The catch is the calendar: it runs daily through the summer, but from **early November to mid-February it opens weekends only**, and it closes early on some Saturdays for weddings. **The lift is out of order**, checked September 2026 — ask staff about the alternative.
+**Book online by midnight the day before to pay £17 rather than £20 on the door.** The calendar limits it: it runs daily through the summer, but from **early November to mid-February it opens weekends only**, and it closes early on some Saturdays for weddings. **The lift is out of order**, checked September 2026 — ask staff about the alternative.
 
 ### Kensington Palace
 
 *Ticketed · the gardens are free · open daily*
 
-Queen Victoria's birthplace and childhood home, and the palace where **the rooms she actually grew up in** are the exhibition — which makes it more legible than most royal interiors. The King's State Apartments are the grand half, and **William Kent's painted King's Staircase** is the single best thing in the building.
+Queen Victoria's birthplace and childhood home, and the palace where **the rooms she actually grew up in** are the exhibition — which makes it more legible than most royal interiors. The King's State Apartments are the grand half, and **William Kent's painted King's Staircase** is the best thing in the building.
 
-**The part almost nobody realises is free:** the Palace Gardens, and **the Sunken Garden with the statue of Diana, Princess of Wales**. No ticket, no booking — though the Sunken Garden is viewed from the Cradle Walk rather than entered.
+**The part almost nobody realises is free:** the Palace Gardens, and **the Sunken Garden with the statue of Diana, Princess of Wales**. No ticket, no booking — though the Sunken Garden is viewed from the Cradle Walk, not entered.
 
-**A third of the palace is shut.** The **Queen's State Apartments are closed until spring 2027** for re-presentation, which is worth knowing before you pay.
+**A third of the palace is shut.** The **Queen's State Apartments are closed until spring 2027** for re-presentation, so check before you pay.
 
 **Open daily 10am–6pm, last entry 5pm** — no closed day, unusually. **£1 tickets** are available to anyone on Universal Credit and several other benefits, up to four per household. Free 15-minute talks and a free audio guide come with admission, and there are **free BSL tours Wednesday to Sunday**, booked ahead.
 
@@ -205,11 +205,11 @@ Included with admission: talks every half hour from 11am to 4pm, a daily history
 
 Christopher Wren's riverside campus, and **the most filmed heritage site in Britain** — *Les Misérables*, *The Crown*, *Thor* and a great many others.
 
-**What costs nothing is the point here.** The **grounds are open daily 8am to 11pm**, and the **Chapel of St Peter and St Paul is free to anyone, daily 10am–5pm**. The chapel is worth going in for: rebuilt after a fire by James "Athenian" Stuart, with a plaster ceiling in Wedgwood blue and cream, **Benjamin West's altarpiece**, and a **1789 Samuel Green organ** that is probably the largest of his still standing where he put it.
+**Most of what is here costs nothing.** The **grounds are open daily 8am to 11pm**, and the **Chapel of St Peter and St Paul is free to anyone, daily 10am–5pm**. The chapel is worth going in for: rebuilt after a fire by James "Athenian" Stuart, with a plaster ceiling in Wedgwood blue and cream, **Benjamin West's altarpiece**, and a **1789 Samuel Green organ** that is probably the largest of his still standing where he put it.
 
 Also free to walk to: the remains of Greenwich Palace, where Henry VIII, Mary I and Elizabeth I were all born; the Nelson Room, where Nelson's body lay in state after Trafalgar; and the skittle alley of 1873, open daily from noon to 3pm.
 
-**Only the Painted Hall is properly ticketed**, with Discover Greenwich now £3 on its own. Chapel wheelchair access is by a lift that has to be arranged in advance by email.
+**Only the Painted Hall is ticketed**, with Discover Greenwich now £3 on its own. Chapel wheelchair access is by a lift that has to be arranged in advance by email.
 
 ![The colonnade of the Old Royal Naval College at Greenwich, its paired columns receding into the distance](../../assets/articles/historic-houses-london/naval-college-colonnade.jpg)
 
@@ -229,7 +229,7 @@ Wren's 1710 dome, the Whispering Gallery, and **528 steps in total to the Golden
 
 **Sightseeing is Monday to Saturday only**, doors from about 8.30am with last entry around 4pm. **New for 2026: "Dome Sundays"** open the galleries on Sunday afternoons between mid-March and late October, 12.30pm to 2pm, on a paid ticket.
 
-> 💡 **Evensong is free, unticketed and daily** — 5pm most days, 3pm on Sunday — and you sit in the quire rather than filing past it. No booking, no dress code, about 45 minutes. It is much the better way to experience the building, and on a weekday it is when the cathedral is emptiest. **You can also pray in St Dunstan's chapel without paying for entry.**
+> 💡 **Evensong is free, unticketed and daily** — 5pm most days, 3pm on Sunday — and you sit in the quire, not filing past it. No booking, no dress code, about 45 minutes. It is much the better way to experience the building, and on a weekday it is when the cathedral is emptiest. **You can also pray in St Dunstan's chapel without paying for entry.**
 
 **The dome is stairs only** and there is no lift: not advisable with vertigo, a heart condition or claustrophobia, and **prams cannot go up**. A video fly-through on the multimedia guide is the substitute. There is a **£1 sightseeing ticket** for those who qualify.
 
@@ -255,7 +255,7 @@ The **last surviving fragment of the Middlesex Hospital**, which was demolished 
 
 It was designed by **John Loughborough Pearson**, who built Truro Cathedral, begun in 1891 and finished after his death by his son. The first service was held on Christmas Day 1891 while the walls were still bare.
 
-**Free, always, and no booking.** The catch is the opening pattern: **usually Monday to Wednesday 11am–5pm, plus at least one Sunday a month**, and **daily when an exhibition is on**. It is a small team in a historic building and they close for maintenance at short notice — **check the What's On page before travelling**. Free guided tours run regularly, sometimes led by former Middlesex Hospital staff.
+**Free, always, and no booking.** The opening pattern is restricted: **usually Monday to Wednesday 11am–5pm, plus at least one Sunday a month**, and **daily when an exhibition is on**. It is a small team in a historic building and they close for maintenance at short notice — **check the What's On page before travelling**. Free guided tours run regularly, sometimes led by former Middlesex Hospital staff.
 
 Step-free, with a wheelchair lift over the two entrance steps.
 
@@ -356,7 +356,7 @@ Historic houses are the one category where London does not give everything away 
 * **Historic Houses membership** covers many privately owned houses and pays for itself in about three visits if you are doing several.
 * **English Heritage and the National Trust** each cover a different set — check which body runs a house before buying either.
 
-**Worth knowing:** several are **seasonal**, closing entirely over winter or opening only a few days a week. Strawberry Hill and Ham House in particular are not year-round propositions, so check before travelling.
+**Several are seasonal**, closing entirely over winter or opening only a few days a week. Strawberry Hill and Ham House in particular are not year-round propositions, so check before travelling.
 
 ---
 

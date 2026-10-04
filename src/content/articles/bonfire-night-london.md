@@ -37,7 +37,7 @@ Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow. So if
 
 This guide lists every display you can buy a ticket for, the one that is still free, which famous ones no longer run at all, and the free viewpoints that are actually open after dark.
 
-> 💡 **The Short Version:** The real night is **Saturday 7 November**. **Alexandra Palace** and **Battersea Park** are both on sale and both sell out. Richmond's early-bird prices end on **30 September**, and Bromley High goes on sale on **28 September**. The only genuinely free display is **Coram's Fields** on the 5th, where adults must bring a child. For a free view, **Parliament Hill** has no gates and never closes — while **Greenwich Park shuts at 6pm**, before anything starts.
+> 💡 **The Short Version:** The real night is **Saturday 7 November**. **Alexandra Palace** and **Battersea Park** are both on sale and both sell out. Richmond's early-bird prices end on **30 September**, and Bromley High goes on sale on **28 September**. The only free display is **Coram's Fields** on the 5th, where adults must bring a child. For a free view, **Parliament Hill** has no gates and never closes — while **Greenwich Park shuts at 6pm**, before anything starts.
 
 ---
 
@@ -88,7 +88,7 @@ The event is now called the Fireworks and Drone Festival. The drones fly formati
 
 ![A band playing on a stage inside a marquee lit blue, with a crowd watching](../../assets/articles/bonfire-night-london/alexandra-palace-live-music.jpg)
 
-Two things changed from 2025: the event has **moved off Halloween** — 2025 ran on 31 October and 1 November with ghost tours and fancy dress, and 2026 is a straight Bonfire Night weekend — and Sunday is a dedicated family day rather than a second party night.
+Two things changed from 2025: the event has **moved off Halloween** — 2025 ran on 31 October and 1 November with ghost tours and fancy dress, and 2026 is a straight Bonfire Night weekend — and Sunday is a dedicated family day, not a second party night.
 
 **Getting there:** Alexandra Palace station, on Great Northern trains from Moorgate or King's Cross, is at the Wood Green entrance to the park. Wood Green on the Piccadilly line is a 20-minute walk. The W3 bus is diverted and does not stop at the Palace, and there is no public parking.
 
@@ -205,13 +205,13 @@ Some of the best-known viewpoints are **locked before the fireworks start**. Dis
 | Horniman Gardens | Sunset | ❌ |
 | Severndroog Castle | Viewing platform **Sundays, daytime only** | ❌ |
 
-**Parliament Hill is the answer.** At 98 metres it is the highest of the classic viewpoints, it has legally protected sightlines to both St Paul's and the Palace of Westminster, and — uniquely among the big viewpoints — the Heath has no perimeter gates to lock. Nearest stations are Gospel Oak and Hampstead Heath. Two honest drawbacks: the Heath is unlit, so bring a torch for the walk up, and the Westminster view is partly obscured by intervening construction.
+**Parliament Hill is the answer.** At 98 metres it is the highest of the classic viewpoints, it has legally protected sightlines to both St Paul's and the Palace of Westminster, and — uniquely among the big viewpoints — the Heath has no perimeter gates to lock. Nearest stations are Gospel Oak and Hampstead Heath. Two drawbacks: the Heath is unlit, so bring a torch for the walk up, and the Westminster view is partly obscured by intervening construction.
 
 **Alexandra Park is the clever one on 7 and 8 November**, because the park around the palace is open around the clock while the display happens inside it. Some of the park is fenced off for the ticketed arena, so you will not get the same view as paying guests — but the fireworks go up over the whole hill.
 
 **Primrose Hill is the counterintuitive good news.** It is widely believed to shut for Bonfire Night; in fact it closes at **10pm**, well after any display. It is separately gated from The Regent's Park, so approach from the Chalk Farm side — the main park shuts at 16:30. The 10pm closure applies on Friday, Saturday and Sunday nights until 8 November; on the Thursday, Bonfire Night itself, it is open all night.
 
-**Greenwich Park is the trap.** The General Wolfe viewpoint is genuinely one of the best in London, it has a protected vista to St Paul's, and it is free — and the gates shut at **6pm** in November.
+**Greenwich Park is the trap.** The General Wolfe viewpoint is one of the best in London, it has a protected vista to St Paul's, and it is free — and the gates shut at **6pm** in November.
 
 **Richmond Park deserves a note rather than a recommendation.** During the deer cull from 1 November, pedestrian gates lock at **20:00** — except on Friday and Saturday nights, when the park stays open. Car parks close at 16:30 regardless. And King Henry's Mound, the famous viewpoint, sits inside Pembroke Lodge Gardens, which are separately enclosed with no published closing time. The protected view to St Paul's is also a keyhole through a hedge, not a panorama. It is not a fireworks viewpoint.
 
@@ -242,7 +242,7 @@ People still search for all of these.
 >
 > **£16 an adult, £10 for 11 to 15s, £5 for under-10s.** A family of four is £40 with under-10s or £48 with teenagers, and there are single-parent family tickets at £26 and £34. Fairground rides cost extra on top of admission.
 >
-> **Last entry is 8pm and the display starts at 8pm**, which is the thing to plan around — arrive by seven if you want to see any of the rest of it. Three gates: Red (south, SE3 0TY), Pink (west, SE3 0UA) and Green (north, SE3 7BN).
+> **Last entry is 8pm and the display starts at 8pm**, so plan around it — arrive by seven if you want to see any of the rest of it. Three gates: Red (south, SE3 0TY), Pink (west, SE3 0UA) and Green (north, SE3 7BN).
 >
 > **You cannot bring your own food or drink in**; there are bars and caterers on site. Tickets are sold only through the organiser's own site. Free personal assistant tickets are available for disabled visitors, arranged by email with the organiser.
 >

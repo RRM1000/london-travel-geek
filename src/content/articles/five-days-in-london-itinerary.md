@@ -12,7 +12,7 @@ tags: [5 days, itineraries, first visit]
 draft: false
 faq:
   - q: "Is five days enough to see London?"
-    a: "Five days is the point where London stops feeling rushed. It lets you split the Tower and the South Bank across two days instead of forcing them into one, give Greenwich a whole day by river, and spend a fifth day on a museum district and the neighbourhood next to it. It still will not cover everything."
+    a: "At five days London stops feeling rushed. It lets you split the Tower and the South Bank across two days instead of forcing them into one, give Greenwich a whole day by river, and spend a fifth day on a museum district and the neighbourhood next to it. It still will not cover everything."
   - q: "What is different about a five-day London plan versus three days?"
     a: "Three days makes you do the Tower and the entire South Bank in one march. Five days splits them: the Tower and the City on day two, the South Bank end to end on day three. It also buys a full day in Greenwich and a fifth day that is not a sightseeing day at all."
   - q: "How do I get to Greenwich from central London, and what does it cost?"
@@ -44,7 +44,7 @@ Every walking time below is [TfL's](https://tfl.gov.uk/plan-a-journey/), which r
 | **[Churchill War Rooms](/articles/churchill-war-rooms-guide/)** | 1–2 weeks | £34 adult, £17 child. IWM does not guarantee walk-up entry |
 | **Sky Garden** | Free tickets release weekly, up to three weeks ahead | Free, 35 floors up. They go |
 | **A West End show** | 2–4 weeks for anything popular | Cheaper direct from the theatre. See the [theatre guide](/articles/london-theatre-guide/) |
-| **One proper dinner** | 2–4 weeks | Five nights is enough to eat properly once. See [special occasion restaurants](/articles/special-occasion-restaurants-london/) |
+| **One proper dinner** | 2–4 weeks | Five nights leave room for one proper dinner. See [special occasion restaurants](/articles/special-occasion-restaurants-london/) |
 
 > ⚠️ **Four closures decide the order of these five days.** Westminster Abbey and St Paul's do no sightseeing on Sundays. Borough Market is closed on Mondays. The British Library's Treasures Gallery is closed on Sundays. Check which day of the week you land on before you fix anything else.
 
@@ -79,7 +79,7 @@ The Cabinet War Rooms are left as they were in 1945 — the Map Room clocks, the
 
 ### Lunch, then the park
 
-Walk into St James's or two stops to Covent Garden rather than eating on the bridge approaches. The [cheap eats guide](/articles/cheap-eats-london/) covers both.
+Walk into St James's or two stops to Covent Garden, not eating on the bridge approaches. The [cheap eats guide](/articles/cheap-eats-london/) covers both.
 
 *Fifteen minutes and one kilometre from the Clive Steps to Buckingham Palace* across St James's Park. The bridge over the lake carries the postcard view of the palace one way and the London Eye the other.
 
@@ -97,7 +97,7 @@ Walk into St James's or two stops to Covent Garden rather than eating on the bri
 
 ## Day 2: The Tower, Tower Bridge and the City
 
-*Under two miles, and the shortest walking day of the five. The City rewards looking up rather than covering ground.*
+*Under two miles, and the shortest walking day of the five. The City rewards looking up, not covering ground.*
 
 ### Tower of London, after midday
 
@@ -129,7 +129,7 @@ Walk into St James's or two stops to Covent Garden rather than eating on the bri
 
 *About 3 miles, all of it flat and signposted. The Thames Path needs no navigation.*
 
-This is the day a three-day trip has to bolt onto the Tower. Given a whole day you can stop at every one of these properly instead of photographing them on the way past. We also have it as a [numbered South Bank walk](/articles/south-bank-walk/), which runs the other way.
+This is the day a three-day trip has to bolt onto the Tower. Given a whole day you can stop at every one of these instead of photographing them on the way past. We also have it as a [numbered South Bank walk](/articles/south-bank-walk/), which runs the other way.
 
 ![A cheese stall at Borough Market with large wheels stacked behind the counter](../../assets/articles/five-days-in-london-itinerary/borough-market-cheese-stall.jpg)
 
@@ -169,7 +169,7 @@ Walk-up tickets for the **London Eye** are £39 an adult and £35 a child aged 2
 
 *About 2 miles on foot, one of them uphill. Half a day at a sprint, a full day comfortably.*
 
-**Take the boat.** The DLR is faster; the river is the reason to go. Uber Boat by Thames Clippers runs from **Westminster, Embankment and Tower** piers, and the approach past Wapping and the Isle of Dogs, with the Old Royal Naval College opening out ahead of you, is what you are paying the £11.40 for.
+**Take the boat.** The DLR is faster; the river is the scenic route. Uber Boat by Thames Clippers runs from **Westminster, Embankment and Tower** piers, and the approach past Wapping and the Isle of Dogs, with the Old Royal Naval College opening out ahead of you, is what you are paying the £11.40 for.
 
 | From | Scheduled to Greenwich | Contactless off-peak | Contactless peak |
 | --- | --- | ---: | ---: |
@@ -195,7 +195,7 @@ Greenwich Pier lands you a minute from the Cutty Sark, and everything below is w
 | **Queen's House** | Daily 10am–5pm, last entry 4.15pm | **Free** | **Free** |
 | **[Greenwich Market](https://www.greenwichmarket.london/)** | Daily 10am–5.30pm | **Free** | **Free** |
 
-**Cutty Sark** is, in the museum's own words, the world's only surviving tea clipper. The part that surprises people is that the ship is raised clear of its dock, so you walk about underneath the copper hull rather than only on the decks. **£3 tickets** go to visitors on Universal Credit, Pension Credit, ESA, Income Support, Jobseeker's Allowance and Tax Credits, and a carer accompanying a disabled visitor goes free.
+**Cutty Sark** is, in the museum's own words, the world's only surviving tea clipper. The part that surprises people is that the ship is raised clear of its dock, so you walk about underneath the copper hull, not only on the decks. **£3 tickets** go to visitors on Universal Credit, Pension Credit, ESA, Income Support, Jobseeker's Allowance and Tax Credits, and a carer accompanying a disabled visitor goes free.
 
 **The Painted Hall** is *three minutes and 290 metres* from the Cutty Sark. Sir James Thornhill and his team painted it **between 1707 and 1726**, and the Old Royal Naval College is marking its **300th birthday through 2026**. **The £19 ticket converts to an annual pass for nothing** — ask when you buy it. Children go free. The **grounds are open daily 8am to 11pm** and cost nothing, so the Wren domes and the river frontage are free whatever you decide about the ceiling.
 
@@ -219,11 +219,11 @@ The [Greenwich guide](/articles/greenwich-area-guide/) has the pubs and the rest
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="five-days-in-london-itinerary-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Day 5: One district, properly
+## Day 5: One district
 
 By day five the mistake is going back to the middle. You have seen the middle.
 
-Pick one district and stay in it — eat there, walk it, sit in its park, use its pubs. Two of the four below pair a free museum district with the neighbourhood around it, so the afternoon is a walk rather than a journey. Two are neighbourhood days with no museum in them at all.
+Pick one district and stay in it — eat there, walk it, sit in its park, use its pubs. Two of the four below pair a free museum district with the neighbourhood around it, so the afternoon is a walk, not a journey. Two are neighbourhood days with no museum in them at all.
 
 ### Option A — South Kensington, then Chelsea or Notting Hill
 
@@ -250,7 +250,7 @@ Then south into [Chelsea](/articles/chelsea-area-guide/) for the King's Road and
 
 ### Option C — East London, on a Sunday
 
-No museum, and the only option that is genuinely day-specific.
+No museum, and the only option that is day-specific.
 
 **[Columbia Road Flower Market runs on Sundays only, from 8am until about 3pm.](https://www.columbiaroad.info/)** **[Spitalfields' traders market is 10am to 6pm on a Sunday](https://www.spitalfields.co.uk/opening-times/)** against 11am to 5pm on a Saturday, so Sunday is both longer and fuller. Brick Lane sits between the two. Together they make the one day of the week when the whole area is running at once.
 
@@ -266,7 +266,7 @@ Further out, **[Kenwood House](https://www.english-heritage.org.uk/visit/places/
 
 ## Spread the evenings out
 
-**Five nights is enough to eat properly rather than incidentally**, and it is the part of a long trip most people waste on whatever is nearest the hotel. The mistake is stacking the good nights at the end, when you are too tired to enjoy them.
+**Five nights is enough to plan your meals, not eat incidentally**, and it is the part of a long trip most people waste on whatever is nearest the hotel. The mistake is stacking the good nights at the end, when you are too tired to enjoy them.
 
 One night in a neighbourhood you are not staying in — Peckham, Hackney, Brixton — beats another West End chain. Book one thing that needs booking and leave the rest loose.
 
@@ -274,7 +274,7 @@ One night in a neighbourhood you are not staying in — Peckham, Hackney, Brixto
 - **One proper dinner** — [special occasion restaurants](/articles/special-occasion-restaurants-london/). Lunch at the same restaurant is dramatically cheaper for the same kitchen.
 - **A free view at dusk** — Sky Garden runs to 9pm at weekends and The Lookout at 8 Bishopsgate to 9pm on Mondays and Fridays, late enough for a summer sunset. Horizon 22 shuts at 6pm on a weekday and 4pm on a Sunday.
 - **Live music** — from the [100 Club to a jazz late set](/articles/best-live-music-venues-london/).
-- **A genuinely old pub** — [historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/).
+- **An old pub** — [historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/).
 
 Do not put the big dinner after Day 3. That is the longest walking day of the five.
 

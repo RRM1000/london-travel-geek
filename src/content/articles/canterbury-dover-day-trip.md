@@ -45,7 +45,7 @@ This guide covers Canterbury alone, Dover alone, and the tours that do the full 
 
 ## Canterbury by train
 
-Two railways reach Canterbury, landing at two different stations about 15 minutes' walk apart — worth knowing before you book a return.
+Two railways reach Canterbury, landing at two different stations about 15 minutes' walk apart, so check which one your return leaves from before you book.
 
 | | St Pancras → Canterbury West | Victoria → Canterbury East |
 | --- | --- | --- |
@@ -134,7 +134,7 @@ Admission covers unlimited return visits for a year. **Current hours (1 October�
 
 ## The tours that do all three in one day
 
-**Be honest with yourself about what these buy you: a full but rushed day, with an hour or two at each stop rather than a leisurely visit to any of them.** They're the only way to see Leeds Castle, Canterbury and Dover together without two full separate days, and the better-reviewed ones are genuinely good value against the £34.50 Leeds Castle ticket alone.
+**Know what these buy you: a full but rushed day, with an hour or two at each stop, not a leisurely visit to any of them.** They're the only way to see Leeds Castle, Canterbury and Dover together without two full separate days, and the better-reviewed ones are good value against the £34.50 Leeds Castle ticket alone.
 
 | Tour | Price | Rating | What it adds |
 | --- | --- | --- | --- |
@@ -144,7 +144,7 @@ Admission covers unlimited return visits for a year. **Current hours (1 October�
 
 **If Leeds Castle isn't the point and you just want Canterbury and Dover together, skip the castle stop entirely** — the two-stop tours run cheaper and leave more time at each place:
 
-| Tour | Price | Rating | Worth knowing |
+| Tour | Price | Rating | Notes |
 | --- | --- | --- | --- |
 | <a href="https://www.getyourguide.com/london-l57/from-london-white-cliffs-of-dover-and-canterbury-day-trip-t106654/?partner_id=WWP7I0R&amp;cmp=canterbury-dover-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">White Cliffs of Dover and Canterbury Day Trip</a> | **£79** | **4.6**, 3,231 reviews | Cheapest and by far the most booked; the White Cliffs stop is a walk, not a Dover Castle visit |
 | <a href="https://www.getyourguide.com/london-l57/from-london-canterbury-white-cliffs-and-dover-castle-t65397/?partner_id=WWP7I0R&amp;cmp=canterbury-dover-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Canterbury Cathedral, Dover Castle and White Cliffs</a> | £110 | 4.6, 1,173 reviews | The only one of the three that takes you inside Dover Castle |
@@ -164,7 +164,7 @@ A **16-25 Railcard, Disabled Persons Railcard or Two Together Railcard** cuts a 
 
 ## What people get wrong
 
-- **Booking Canterbury from Victoria without checking the time.** It's genuinely direct, but it's 1h30 against 54–58 minutes from St Pancras — a real difference on a day trip.
+- **Booking Canterbury from Victoria without checking the time.** It's direct, but it's 1h30 against 54–58 minutes from St Pancras — a real difference on a day trip.
 - **Assuming Dover from Victoria is quicker because it says "direct."** The no-change service can take nearly two hours; a train with one change is often faster.
 - **Turning up at Canterbury Cathedral on a Sunday morning expecting to go straight in.** The church doesn't open until 12:30, even though the grounds open at 11:30.
 - **Booking a "Canterbury and Dover" tour expecting to see Dover Castle.** Most of them stop at the White Cliffs for a walk; only one of the tours above takes you inside the castle.

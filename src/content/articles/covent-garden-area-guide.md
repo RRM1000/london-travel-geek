@@ -61,7 +61,7 @@ faq:
   - q: "Is Covent Garden Market free to visit?"
     a: "Yes. The Apple Market, the Piazza and the surrounding arcades are free to walk through, as are the street performances. Performers in the West Piazza and the lower courtyard work for tips, so carry a little cash if you plan to stop and watch."
   - q: "Where do the street performers actually perform?"
-    a: "Three licensed pitches: the West Piazza in front of St Paul's Church for the big circle acts, the North Hall for smaller acts, and the lower courtyard beneath the Apple Market for classical musicians. The two inside the Market Building are auditioned by the estate four times a year, which is why the standard under the glass is genuinely high. The West Piazza and James Street are licensed by Westminster City Council instead."
+    a: "Three licensed pitches: the West Piazza in front of St Paul's Church for the big circle acts, the North Hall for smaller acts, and the lower courtyard beneath the Apple Market for classical musicians. The two inside the Market Building are auditioned by the estate four times a year, which is why the standard under the glass is high. The West Piazza and James Street are licensed by Westminster City Council instead."
   - q: "Where should I eat before a West End show?"
     a: "Book ahead and tell them your curtain time — restaurants between Covent Garden and Soho fill completely from 17:00 to 19:30. Seven Dials Market is the reliable no-booking option. Avoid the restaurants directly on the Piazza, which charge a premium for the view."
   - q: "Can I get cheap West End theatre tickets on the day?"
@@ -78,7 +78,7 @@ Covent Garden has its own share of the commemorative plaques marking where notab
 
 ## Why visit — and who should skip it
 
-**Come here if** you want theatre, street performance and browsing in a compact area you can cover on foot. The performers inside the market halls audition for their pitch rather than turning up unannounced, so the standard is high. Seven Dials and Neal's Yard just north are among the prettiest corners in central London.
+**Come here if** you want theatre, street performance and browsing in a compact area you can cover on foot. The performers inside the market halls audition for their pitch and do not turn up unannounced, so the standard is high. Seven Dials and Neal's Yard just north are among the prettiest corners in central London.
 
 **Skip it if** you dislike crowds. Covent Garden is busy nearly all the time, and on Saturday afternoons the Piazza is close to impassable. If you want the same architecture without the crush, come on a weekday morning before 11am.
 
@@ -88,7 +88,7 @@ Covent Garden has its own share of the commemorative plaques marking where notab
 2. **The street performers** — Three licensed pitches. The West Piazza in front of St Paul's Church takes the big circle acts, the lower courtyard has classical musicians, and the North Hall runs smaller sets.
 3. **Seven Dials and Neal's Yard** — Seven cobbled streets meeting at a sundial monument. The alley off Short's Gardens opens into Neal's Yard, a small courtyard of painted facades and organic cafes that is very easy to walk straight past.
 4. **The Royal Opera House** — Worth entering even without a ticket: the Paul Hamlyn Hall and the terrace bar are open to the public during the day, with a view over the Piazza.
-5. **London Transport Museum** — Genuinely good, and better than it sounds. Real Tube carriages, old buses and the original poster archive. One of the few paid attractions here worth the money, especially with children.
+5. **London Transport Museum** — Good, and better than it sounds. Real Tube carriages, old buses and the original poster archive. One of the few paid attractions here worth the money, especially with children.
 6. **St Paul's Church (the Actors' Church)** — The portico where Eliza Doolittle is introduced in *Pygmalion*. The garden behind it is the quietest place in the area to sit.
 7. **Neal Street and Monmouth Street** — The main independent shopping streets, running north from the Piazza to Seven Dials.
 8. **The TKTS booth, Leicester Square** — A five-minute walk south. The only ticket booth in the square actually run by the theatre industry, in the clocktower building on the south side, selling mostly same-day tickets at a discount since 1980. Ignore the lookalike shops nearby trading on the same name. A gated-off section of the square usually means a film premiere that evening; [how to see the stars](/articles/film-premieres-london/) covers the free fan-pen places.
@@ -152,7 +152,7 @@ A courtyard off Mercer Walk, opened in December 2025 on a plot that was brewing 
 
 **The courtyard is free to walk into and the bar needs no ticket** — only the brewery tours upstairs do. That distinction catches people out, because the signage pushes the tour.
 
-**It sprawls further back than the entrance suggests.** From Mercer Walk it reads as a single small yard; the brewery and the larger rooms are behind, and it is worth going through rather than glancing in.
+**It sprawls further back than the entrance suggests.** From Mercer Walk it reads as a single small yard; the brewery and the larger rooms are behind, and it is worth going through, not glancing in.
 
 **It is the newest thing in this guide**, so it is quieter than the Piazza and the market and has not yet appeared in most published guides — which makes it the easiest place near the Piazza to sit down on a Saturday afternoon.
 
@@ -188,7 +188,7 @@ The two main east–west shopping streets, running parallel from the Piazza towa
 
 **Stanfords on Mercer Walk**, just off Long Acre, has been selling maps and travel books since 1853 and is the best travel bookshop in Britain.
 
-**These are working shopping streets rather than sights**, so they keep retail hours and go quiet by seven. Covent Garden station is on Long Acre and is **exit-only at busy times** — the lifts jam, and Leicester Square four minutes away is often faster.
+**These are working shopping streets, not sights**, so they keep retail hours and go quiet by seven. Covent Garden station is on Long Acre and is **exit-only at busy times** — the lifts jam, and Leicester Square four minutes away is often faster.
 
 ### Bow Street and Drury Lane
 
@@ -220,7 +220,7 @@ For dinner with a show, Oriole, Louie and Sarastro all have live music at the ta
 
 ## Getting there
 
-**By Tube.** This matters more here than anywhere else in central London. **Do not use Covent Garden station.** It has no escalators — just lifts and a 193-step spiral staircase — and it queues badly. Use **Leicester Square** (Piccadilly, Northern) or **Holborn** (Central, Piccadilly) instead; both are about five minutes' walk.
+**By Tube.** This is truer here than anywhere else in central London. **Do not use Covent Garden station.** It has no escalators — just lifts and a 193-step spiral staircase — and it queues badly. Use **Leicester Square** (Piccadilly, Northern) or **Holborn** (Central, Piccadilly) instead; both are about five minutes' walk.
 
 **Best exit.** From Leicester Square, take Exit 1 and walk east along Cranbourn Street. From Holborn, exit onto Kingsway and walk south down Great Queen Street.
 
@@ -265,7 +265,7 @@ Harry Potter fans can cross the area on the [Harry Potter filming locations walk
 2. **Not booking pre-theatre dinner.** Restaurants fill completely between 17:00 and 19:30. Book ahead and state your curtain time.
 3. **Buying theatre tickets from lookalike booths.** The official TKTS booth is in Leicester Square and is the only one run by the theatre industry. Check for day seats direct from the theatre first.
 4. **Eating on the Piazza itself.** You pay a significant premium for the location. Walk two minutes to Seven Dials or Monmouth Street.
-5. **Missing Neal's Yard.** The entrance alley is genuinely easy to walk past.
+5. **Missing Neal's Yard.** The entrance alley is easy to walk past.
 6. **Taking a taxi within the West End.** Traffic through here is slow enough that walking is usually faster.
 
 ## Where to stay

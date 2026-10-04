@@ -129,7 +129,7 @@ The tour runs in one direction through 21 sections, starting with the doors of t
 
 The photo package covers the green screen broomstick flight and the printed extras, **but not the Hogwarts Express carriage photo**, which is sold separately.
 
-**The free accessibility alternatives are worth knowing about:** audio descriptive tours, tactile tours, braille and large-print image books, induction loops, and BSL tours with a qualified interpreter, all free — the BSL tours need 14 days' notice.
+**The free accessibility alternatives:** audio descriptive tours, tactile tours, braille and large-print image books, induction loops, and BSL tours with a qualified interpreter, all free — the BSL tours need 14 days' notice.
 
 ## The upgrades
 
@@ -141,7 +141,7 @@ The photo package covers the green screen broomstick flight and the printed extr
 | **Deluxe Tour** | **£250** (same for children) | A 2½-hour guided tour in a small group, breakfast, priority parking, every green screen photo and video, Butterbeer, a photo at the Great Hall doors, the guidebook, and re-entry to walk round again afterwards |
 | **Relaxed Tours** | £58.50 | Standard price, adapted for visitors with autism: reduced numbers, changed lighting and quieter sound from 08:00 to 10:00 on three dates a year |
 
-**The Hogwarts Table is not in the Great Hall.** The breakfast, dinner and afternoon tea all happen in a dining room in the entrance hub, not on the set. It is the single most common disappointment, and the operator is upfront about it.
+**The Hogwarts Table is not in the Great Hall.** The breakfast, dinner and afternoon tea all happen in a dining room in the entrance hub, not on the set. It is the most common disappointment, and the operator is upfront about it.
 
 <div data-stay-strip></div>
 

@@ -79,7 +79,7 @@ For the wider areas — the shops, the pubs, where to stay — see the [Chelsea 
 
 Cheyne Walk faces the river, and for a hundred years it was where painters and writers went when they could afford to. **James Abbott McNeill Whistler** is at number 96. Along the same terrace: **J. M. W. Turner**, who died here under an assumed name; **Dante Gabriel Rossetti**, who kept a menagerie in the garden including a wombat; and, at number 4, **George Eliot** — stop four, because it is worth its own.
 
-Look up rather than ahead. The plaques are at first-floor level and the houses are otherwise unremarkable, which is the point of the scheme.
+Look up rather than ahead. The plaques are at first-floor level and the houses are otherwise unremarkable, as the scheme intends.
 
 > ⚠️ **These are private homes.** Every house on this walk except Carlyle's is lived in. Photograph from the pavement, do not stand on anyone's steps, and do not ring the bell to ask.
 
@@ -101,7 +101,7 @@ Thomas Carlyle lived at 24 Cheyne Row from 1834 until his death in 1881, and the
 
 Four acres of walled botanic garden, founded in 1673 by the Society of Apothecaries to grow medicinal plants — **the second-oldest botanic garden in Britain**, and completely invisible from the street.
 
-It is the one green stop on the route and it is genuinely a garden rather than a park: glasshouses, a rock garden built partly from Icelandic lava, and beds arranged by what the plants are *for* rather than where they come from.
+It is the one green stop on the route and it is a garden, not a park: glasshouses, a rock garden built partly from Icelandic lava, and beds arranged by what the plants are *for* rather than where they come from.
 
 > ⚠️ **Open Sunday to Friday, 11am to 5pm, last entry 4pm — closed all day Saturday**, which catches people who assumed a garden opens at weekends. £15 adult, £6.50 for ages 5–25, under-5s free.
 
@@ -125,19 +125,19 @@ A few doors along, **Peter Warlock** — the composer born Philip Heseltine, dea
 
 **"Samuel L. Clemens, 'Mark Twain' 1835–1910 American writer lived here in 1896–7."**
 
-A one-year plaque, and the year matters. Twain came to London after his daughter Susy died of meningitis while he was abroad, and he was bankrupt from a failed investment in a typesetting machine. He spent the year in this square writing *Following the Equator* to pay the creditors off, and did.
+A one-year plaque, and the year was a hard one. Twain came to London after his daughter Susy died of meningitis while he was abroad, and he was bankrupt from a failed investment in a typesetting machine. He spent the year in this square writing *Following the Equator* to pay the creditors off, and did.
 
 ## 7. Bram Stoker on St Leonard's Terrace
 
 **Dracula was written from this address.** Stoker was Henry Irving's business manager at the Lyceum, doing the novel around the day job, and the house looks exactly like every other house on the terrace.
 
-This is the point at which the walk's argument lands: four writers whose names everyone knows, in four ordinary houses, inside a ten-minute square.
+This is where the walk's argument lands: four writers whose names everyone knows, in four ordinary houses, inside a ten-minute square.
 
 ## 8. The Royal Hospital Chelsea
 
 ![The south front of the Royal Hospital Chelsea, Wren's long brick facade behind the lawns](../../assets/articles/chelsea-belgravia-plaques-walk/royal-hospital-chelsea-south-front.jpg)
 
-Wren's home for army veterans, founded by Charles II in 1682 and still doing the job — around three hundred **Chelsea Pensioners** live here, and the scarlet coats are everyday dress rather than costume.
+Wren's home for army veterans, founded by Charles II in 1682 and still doing the job — around three hundred **Chelsea Pensioners** live here, and the scarlet coats are everyday dress, not costume.
 
 **The exhibition in the Soane Stable Yard is free and needs no ticket**, and it is the best-value stop on the walk.
 
@@ -147,7 +147,7 @@ Wren's home for army veterans, founded by Charles II in 1682 and still doing the
 
 The halfway point and the obvious place to stop. **Sloane Square** has the Royal Court Theatre on one side; **Duke of York Square** off it has the **Saatchi Gallery**, which is **free and open seven days, 10am to 6pm**.
 
-The gallery closes for a few days at a time between exhibitions to install the next one, which is worth a check if it is the reason you came rather than a bonus on the way past.
+The gallery closes for a few days at a time between exhibitions to install the next one, so check first if you came for it rather than passing it on the way.
 
 ## 10. Ebury Street and Mozart's first symphony
 
@@ -155,7 +155,7 @@ You are in Belgravia now, and the plaque here is the oldest story on the walk.
 
 **Wolfgang Amadeus Mozart composed his first symphony at 180 Ebury Street in 1764, aged eight.** The family was in London on a three-year European tour, Leopold fell ill, and the children were forbidden from touching the harpsichord while he recovered — so Wolfgang wrote a symphony instead.
 
-It is a **brown plaque rather than a blue one**, which is a good moment to notice that the scheme has never been consistent: English Heritage runs the blue ones now, but boroughs, societies and private owners have all put up their own.
+It is a **brown plaque, not a blue one**, which is a good moment to notice that the scheme has never been consistent: English Heritage runs the blue ones now, but boroughs, societies and private owners have all put up their own.
 
 **Ian Fleming is at number 22, on the same street** — about eight minutes' walk from Mozart at 180. *"Creator of James Bond lived here."* Two plaques of that size on one residential street is the most efficient stretch of the whole walk, and neither house is anything to look at.
 
@@ -167,7 +167,7 @@ Between the two, **Mary Shelley** is at **24 Chester Square**, a two-minute deto
 
 Within a few minutes: **William Wilberforce**, who *died here* on Cadogan Place; **Alfred Lord Tennyson**, who lived on Upper Belgrave Street in 1880 and 1881; **Matthew Arnold**; and **Walter Bagehot**, the economist whose name is on the *Economist*'s main column to this day.
 
-Belgravia's plaque density is lower than Chelsea's but the names are heavier — this was where power lived rather than where art did, and the two neighbourhoods read completely differently as a result.
+Belgravia's plaque density is lower than Chelsea's but the names are heavier — this was where power lived, not where art did, and the two neighbourhoods read completely differently as a result.
 
 ---
 
@@ -175,7 +175,7 @@ Belgravia's plaque density is lower than Chelsea's but the names are heavier —
 
 ## The detour: Alexander Fleming
 
-**Alexander Fleming**, Danvers Street — *"discoverer of penicillin lived here"*. Two minutes west of the route between stops 1 and 2, and the only plaque on this walk marking something that changed the world rather than described it.
+**Alexander Fleming**, Danvers Street — *"discoverer of penicillin lived here"*. Two minutes west of the route between stops 1 and 2, and the only plaque on this walk marking something that changed the world, not described it.
 
 He is the second Fleming here. **Ian Fleming** is at 22 Ebury Street, and he is on the route rather than off it — see stop ten.
 

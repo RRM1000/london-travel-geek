@@ -23,12 +23,12 @@ faq:
   - q: "Do London wine bars take bookings?"
     a: "It varies more than in restaurants, and it decides your evening. Dan's in Dalston takes none at all. Noble Rot's Bloomsbury and Mayfair branches keep dedicated walk-in-only bar spaces alongside the bookable restaurant. 40 Maltby Street has some of the hardest tables in the city. Winemakers Club goes the other way — book and the table is yours for the whole evening."
   - q: "Which London wine bars are open late, and which close early?"
-    a: "Check before you travel, because the range is wide. Farm Shop in Mayfair closes at 8pm, which makes it a long-lunch place rather than an evening one. Diogenes the Dog runs to 11pm and opens at 11am on Saturdays. Several of the smallest — Bonne Route in Harringay, Lower in Waterloo — are closed at the start of the week entirely."
+    a: "Check before you travel, because the range is wide. Farm Shop in Mayfair closes at 8pm, which makes it a long-lunch place, not an evening one. Diogenes the Dog runs to 11pm and opens at 11am on Saturdays. Several of the smallest — Bonne Route in Harringay, Lower in Waterloo — are closed at the start of the week entirely."
 ---
 
 London has more wine bars than anybody can keep track of, and the usual shortcut is no help here: **the country's judged wine award almost never goes to one.**
 
-Star Wine List of the Year UK is a real award — a named jury, a dated ceremony, and it honours venues rather than bottles. But it awards *wine lists*, and the best wine lists live in restaurants. Of its 2026 UK Gold Stars, eight went to restaurants and hotel dining rooms, one went to a villa in Ventnor on the Isle of Wight, and exactly one went to a wine bar.
+Star Wine List of the Year UK is a real award — a named jury, a dated ceremony, and it honours venues, not bottles. But it awards *wine lists*, and the best wine lists live in restaurants. Of its 2026 UK Gold Stars, eight went to restaurants and hotel dining rooms, one went to a villa in Ventnor on the Isle of Wight, and exactly one went to a wine bar.
 
 So this guide is built the other way round: on which rooms the critics independently keep naming.
 
@@ -68,9 +68,9 @@ So this guide is built the other way round: on which rooms the critics independe
 
 *Peckham Cellars, Queens Road.*
 
-Wine is handled by **Ben McVeigh, formerly head sommelier at 28-50 Fetter Lane**, and the list he has built leans on variety and affordability rather than trophies — with enough obscurity in it to interest someone who already knows what they like.
+Wine is handled by **Ben McVeigh, formerly head sommelier at 28-50 Fetter Lane**, and the list he has built leans on variety and affordability, not trophies — with enough obscurity in it to interest someone who already knows what they like.
 
-A shop as well as a bar, so the retail-plus-corkage route applies. It went from newcomer to Queens Road fixture quickly, and is part of why Peckham is now taken seriously for food rather than only for drinking.
+A shop as well as a bar, so the retail-plus-corkage route applies. It went from newcomer to Queens Road fixture quickly, and is part of why Peckham is now taken seriously for food, not only for drinking.
 
 ### Bar Crispin — 150 bottles, and not a cocktail bar
 
@@ -80,13 +80,13 @@ A shop as well as a bar, so the retail-plus-corkage route applies. It went from 
 
 *Bar Crispin, Kingly Street.*
 
-The younger sibling of Crispin in Spitalfields, and the one where wine is the point rather than the accompaniment. The in-house sommelier's list runs to **about 150 bottles weighted towards old-world and indigenous grape varieties**, independent producers and natural wines. Food is broadly European and seasonal.
+The younger sibling of Crispin in Spitalfields, and the one where wine comes first. The in-house sommelier's list runs to **about 150 bottles weighted towards old-world and indigenous grape varieties**, independent producers and natural wines. Food is broadly European and seasonal.
 
-The food is snack-led rather than a menu you work through — **Comté gougères with pickled walnut ketchup, monkfish crudo, crab rarebit, lamb skewers**. The list itself is curated by Daniel Ilsley and leans mostly European.
+The food is snack-led, not a menu you work through — **Comté gougères with pickled walnut ketchup, monkfish crudo, crab rarebit, lamb skewers**. The list itself is curated by Daniel Ilsley and leans mostly European.
 
 **It takes bookings, for up to six**, with a separate process for groups of seven and over — and it is open **seven days, noon to 9.30pm Monday to Saturday and 1pm to 9pm on Sunday**, which makes it the most reliably available room near the top of this list. 19 Kingly Street, on the Carnaby side of Soho.
 
-This is a wine bar. Our own cocktail guide says of it that wine is the point and cocktails the sideline.
+This is a wine bar. Our own cocktail guide says of it that wine comes first and cocktails are the sideline.
 
 ### Diogenes the Dog — the one with no Champagne
 
@@ -96,7 +96,7 @@ This is a wine bar. Our own cocktail guide says of it that wine is the point and
 
 *Diogenes the Dog's wine racks.*
 
-**If you want Champagne, go somewhere else** — that is close to the house position. What it stocks instead is wine from Canada, Texas, Poland, the Czech Republic and Taiwan, which makes it the most genuinely exploratory list in this guide and the one most likely to put something in front of you that you cannot place.
+**If you want Champagne, go somewhere else** — that is close to the house position. What it stocks instead is wine from Canada, Texas, Poland, the Czech Republic and Taiwan, which makes it the most exploratory list in this guide and the one most likely to put something in front of you that you cannot place.
 
 Named after the founder of cynicism, which suits a bar built on doubting the received list. There is a bottle shop online as well.
 
@@ -116,7 +116,7 @@ The wine is run by **Gergovie Wines** and leans low-intervention. It has been th
 
 **It does not take reservations at all**, which is what makes the table hard rather than any booking system — you turn up and wait. **Dinner runs Wednesday to Saturday and lunch Thursday to Saturday only**, so four days of the week it is shut entirely. The wine shop keeps the same Wednesday-to-Saturday hours for off-sales.
 
-The other practical warning is the street rather than the room. Maltby Street is one of London's busiest food addresses and is genuinely hard to move through during market hours — go outside them unless the market is the plan.
+The other practical warning is the street, not the room. Maltby Street is one of London's busiest food addresses and is hard to move through during market hours — go outside them unless the market is the plan.
 
 ### The Winemakers Club — the table is yours all evening
 
@@ -124,7 +124,7 @@ The other practical warning is the street rather than the room. Maltby Street is
 
 Wine bar, shop and importer at once, in brick arches under the viaduct with stained glass and small tables. The list favours producers you will not have heard of alongside enough classics to anchor it.
 
-**Book and the table is yours for the whole evening**, with no second sitting — which in central London is close to unheard of and is the single reason to choose it over the others.
+**Book and the table is yours for the whole evening**, with no second sitting — which in central London is close to unheard of and is why to choose it over the others.
 
 ### Noble Rot — walk-in bars attached to restaurants
 
@@ -134,7 +134,7 @@ Wine bar, shop and importer at once, in brick arches under the viaduct with stai
 
 *Noble Rot.*
 
-Three branches, and they are best understood as **wine-led restaurants rather than wine bars**: the dining rooms run on bookings. **Bloomsbury and Mayfair both keep dedicated bar spaces that are walk-in only**, so you can drink there without a reservation.
+Three branches, and they are best understood as **wine-led restaurants, not wine bars**: the dining rooms run on bookings. **Bloomsbury and Mayfair both keep dedicated bar spaces that are walk-in only**, so you can drink there without a reservation.
 
 The house line is that there is no room for wine-wankery, and the list is deep without being forbidding.
 
@@ -160,7 +160,7 @@ It is not a cocktail bar: our cocktail guide says of it that it is a restaurant,
 
 *£–££ · 2–4 Tottenham Road, Dalston, N1 4BZ · Cited by 5 sources*
 
-**No reservations**, and it spills out onto Tottenham Road when the weather allows. The chalkboard describes wines in plain and slightly rude English rather than tasting notes — a summery white, an easy red — which removes the part of wine bars that puts people off.
+**No reservations**, and it spills out onto Tottenham Road when the weather allows. The chalkboard describes wines in plain and slightly rude English, not tasting notes — a summery white, an easy red — which removes the part of wine bars that puts people off.
 
 Mon–Wed 3–9.30pm, Thu–Fri 2–10.30pm, Sat 1–10.30pm, Sun 2–8.30pm.
 
@@ -178,7 +178,7 @@ Natural wine and small plates in a room that fills with locals, and **about thir
 
 *Gordon's Wine Bar's cellar.*
 
-**London's oldest wine bar**, trading for over 135 years, and the only entry here that is a genuine historical object as well as a place to drink. The cellar is vaulted and candlelit, the walls are covered in old photographs and newspaper clippings, and **old oak barrels of sherry and port** sit behind the bar — the fortified list is the thing to order, and almost nowhere else in London serves it this way.
+**London's oldest wine bar**, trading for over 135 years, and the only entry here that is a genuine historical object as well as a place to drink. The cellar is vaulted and candlelit, the walls are covered in old photographs and newspaper clippings, and **old oak barrels of sherry and port** sit behind the bar — order from the fortified list, and almost nowhere else in London serves it this way.
 
 > ⚠️ **It takes no reservations at all.** Its own advice is to turn up early and speak to staff on arrival; the cellar fills from about six and the queue on Villiers Street is real. **The outdoor seating runs under heated awnings all year**, which is the overflow and often the faster way in.
 
@@ -202,9 +202,9 @@ The clearest evidence for how to divide this subject is what the publications th
 
 **Natural and low-intervention** clusters east and south. Dalston alone has Dan's, Binch — a twelve-seater on Greenwood Road — and Newcomer Wines on Dalston Lane, which took the 2026 Best Austrian Wine List and is the only wine bar in the country's Gold Stars. Peckham has Bar Levan and Peckham Cellars, both within a walk of Rye Lane — the [Peckham area guide](/articles/peckham-area-guide/) has the rest of that evening. Bermondsey has 40 Maltby Street, on the street the [Bermondsey area guide](/articles/bermondsey-area-guide/) is largely about, and a short walk from the Beer Mile if the table does not come free.
 
-**Classical** is where the central rooms sit. Farm Shop on South Audley Street is beneath a Mayfair deli, heavy on Burgundy and Bordeaux, with a courtyard — and **it closes at 8pm**, which makes it a long-lunch proposition rather than an evening one. The 10 Cases and Noble Rot belong here too.
+**Classical** is where the central rooms sit. Farm Shop on South Audley Street is beneath a Mayfair deli, heavy on Burgundy and Bordeaux, with a courtyard — and **it closes at 8pm**, which makes it a long-lunch proposition, not an evening one. The 10 Cases and Noble Rot belong here too.
 
-**The hybrids** are the London format worth knowing: a bottle shop with a bar in it, or the reverse. Stable Wines on Essex Road is a cave beneath a bottle shop with **no written list at all** — the staff talk you through it and pour tastes. Winemakers Club sells and imports as well as pours.
+**The hybrids** are a London format: a bottle shop with a bar in it, or the reverse. Stable Wines on Essex Road is a cave beneath a bottle shop with **no written list at all** — the staff talk you through it and pour tastes. Winemakers Club sells and imports as well as pours.
 
 ---
 
@@ -214,7 +214,7 @@ The clearest evidence for how to divide this subject is what the publications th
 
 **Ask the shop price before you order from the list.** At every hybrid here the same bottle exists twice at two prices, and the retail-plus-corkage route is usually cheaper. The 10 Cases publishes £12; most of the others will quote you a figure if you ask, and none of them advertises it.
 
-**Booking policy varies more than it does in restaurants.** Dan's takes none. Noble Rot keeps walk-in-only bar space beside a bookable dining room. Winemakers Club gives you the table all night. 40 Maltby Street is genuinely hard. There is no safe default, so check the one you are going to.
+**Booking policy varies more than it does in restaurants.** Dan's takes none. Noble Rot keeps walk-in-only bar space beside a bookable dining room. Winemakers Club gives you the table all night. 40 Maltby Street is hard. There is no safe default, so check the one you are going to.
 
 **Closing times are early more often than you would expect.** Farm Shop stops at 8pm. Several of the smaller rooms shut at the start of the week — Bonne Route in Harringay opens Wednesday to Saturday, Lower in Waterloo Tuesday to Saturday. If the evening needs to run on past the room, [the best cocktail bars in London](/articles/best-cocktail-bars-london/) is the next drink and [late-night eating](/articles/late-night-eating-london/) is what is still cooking after midnight, by area.
 

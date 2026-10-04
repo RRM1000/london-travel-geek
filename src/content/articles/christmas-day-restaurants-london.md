@@ -93,7 +93,7 @@ If you are choosing a venue not listed here, the price bands above are a more re
 
 ## Booking: the part that catches people out
 
-**Full prepayment, non-refundable, is normal on Christmas Day.** The Ritz wants the whole £670 before it will hold the table. Others take a substantial deposit on the same terms. This is not a restaurant being difficult — a no-show on 25 December cannot be resold — but it does mean a booking is a purchase, not a reservation, and you should read the terms before you pay rather than after.
+**Full prepayment, non-refundable, is normal on Christmas Day.** The Ritz wants the whole £670 before it will hold the table. Others take a substantial deposit on the same terms. This is not a restaurant being difficult — a no-show on 25 December cannot be resold — but it does mean a booking is a purchase, not a reservation, and you should read the terms before you pay, not after.
 
 **Book by late October.** DesignMyNight's own booking data puts the average Christmas Day reservation at about 59 days in advance, which lands in the last week of October. The best-known dining rooms go well before that, and the Ritz takes bookings a year out.
 
@@ -108,11 +108,11 @@ A few practical things worth confirming when you book, because they vary and non
 
 ## Festive menus through December
 
-If the point is a Christmas meal out rather than a meal on Christmas Day itself, the rest of December is a completely different proposition — far more choice, far lower prices, and no transport problem.
+If you want a Christmas meal out but not on Christmas Day itself, the rest of December is a completely different proposition — far more choice, far lower prices, and no transport problem.
 
-**Festive set menus run from late November to Christmas Eve** at a large share of London restaurants, typically two or three courses for £40 to £85, and often with a group minimum. They are aimed at the office-party market, which has two consequences worth knowing: the good rooms book out for Thursday and Friday evenings in the first three weeks of December, and a Monday or Tuesday booking is both easier to get and frequently cheaper.
+**Festive set menus run from late November to Christmas Eve** at a large share of London restaurants, typically two or three courses for £40 to £85, and often with a group minimum. They are aimed at the office-party market, which has two consequences: the good rooms book out for Thursday and Friday evenings in the first three weeks of December, and a Monday or Tuesday booking is both easier to get and frequently cheaper.
 
-**Christmas Eve is the quiet opportunity.** Restaurants are open and normal service is running, the city is winding down rather than shut, and it is far easier to book than either the party weeks before it or the day after.
+**Christmas Eve is the quiet opportunity.** Restaurants are open and normal service is running, the city is winding down, not shut, and it is far easier to book than either the party weeks before it or the day after.
 
 For a proper meal out that is not tied to a festive menu at all, the [special occasion restaurants guide](/articles/special-occasion-restaurants-london/) covers the rooms worth booking any time of year, and the [Sunday roast guide](/articles/best-sunday-roast-london/) covers the closest thing to a Christmas dinner you can get in January.
 
@@ -132,7 +132,7 @@ A few serve it on 25 December itself, at a premium. [The Ritz](https://www.theri
 
 **Christmas in London.** The rest of the season, and how to get around it:
 
-- 🎄 **[Christmas in London](/articles/christmas-in-london/)** — markets, lights, ice rinks and what has quietly stopped running
+- 🎄 **[Christmas in London](/articles/christmas-in-london/)** — markets, lights, ice rinks and what has stopped running
 - 🎡 **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)** — what it costs once you are inside
 - 🥂 **[Afternoon tea in London](/articles/best-afternoon-tea-london/)** — every room, every price
 - 🍽️ **[Special occasion restaurants](/articles/special-occasion-restaurants-london/)** — for the rest of the year

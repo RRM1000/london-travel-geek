@@ -19,7 +19,7 @@ faq:
   - q: "Which outdoor eating places in London work in winter?"
     a: "Coal Drops Yard is built for it — Parrillan's terrace, Plaza Pastor and the Coal Office terrace are all covered and heated. Kingly Court in Soho covers its courtyard for the winter and runs outdoor heaters. Vinegar Yard puts most of its site under stretch tents from late autumn and adds heaters. Flat Iron Square keeps a heated garden going through the winter. Parrillan is the one to watch: it shuts for a winter break and reopens in spring."
   - q: "Do any London food markets have good outdoor seating?"
-    a: "Fewer than you would think. Borough Market Kitchen, Old Spitalfields, Seven Dials Market, Canopy Market and Camden's Hawley Wharf food courts are all under a roof. The genuinely open-air ones are Maltby Street on the Ropewalk, Duke of York Square on a Saturday, Vinegar Yard, Flat Iron Square, Pop Brixton and the outdoor piazza at Mercato Metropolitano in Elephant & Castle."
+    a: "Fewer than you would think. Borough Market Kitchen, Old Spitalfields, Seven Dials Market, Canopy Market and Camden's Hawley Wharf food courts are all under a roof. The open-air ones are Maltby Street on the Ropewalk, Duke of York Square on a Saturday, Vinegar Yard, Flat Iron Square, Pop Brixton and the outdoor piazza at Mercato Metropolitano in Elephant & Castle."
   - q: "What is the place near Liverpool Street where everyone takes photos?"
     a: "Two candidates, and both are worth the walk. Exchange Square is the raised park at Broadgate, built over the railway approach, with lawns, amphitheatre seating and a stream. Just outside the Broadgate entrance to the station stands Richard Serra's Fulcrum, five leaning plates of weathered steel about 17 metres high, installed in 1987 and used as a meeting point ever since."
   - q: "Is Crossrail Place Roof Garden outdoors?"
@@ -30,13 +30,13 @@ faq:
 
 Ask where to eat outside in London and most answers give you a list of restaurants with terraces, which is the wrong shape of answer. A terrace is one table. What you actually want is somewhere you can spend three hours: arrive without a plan, walk between a dozen options, sit down in the sun, and still be there when it goes dark.
 
-That means precincts — the yards, squares and waterfronts where the outdoor tables are concentrated rather than scattered. London has more of these than it did five years ago, because a decade of developers all had the same idea at once: convert an industrial ruin, put a courtyard in the middle, and line it with restaurants.
+That means precincts — the yards, squares and waterfronts where the outdoor tables are concentrated, not scattered. London has more of these than it did five years ago, because a decade of developers all had the same idea at once: convert an industrial ruin, put a courtyard in the middle, and line it with restaurants.
 
 Two things separate them, and almost nobody prints either. **The first is whether the roof is real.** Several of the places on every alfresco list are covered halls with glass over the top — pleasant, but not eating outside. **The second is whose chairs they are.** In some of these places you can buy a sandwich and sit down on the grass. In others every seat belongs to a restaurant and the answer to "can we just sit here" is no.
 
 Both are settled below, place by place.
 
-> 💡 **The Short Version:** **Coal Drops Yard** is the one that still works in October — its terraces are covered and heated by design rather than by patio umbrella. **Canary Wharf** is the largest of them: waterside terraces on Water Street, new steps down to the water at Eden Dock, and three parks you can picnic in. **Exchange Square** at Broadgate is 420 square metres of free lawn on a deck above the railway. **Eccleston Yards** is a single courtyard five minutes from Victoria, and you cannot hear the station from it. For bring-your-own, go to **Battersea Power Station**, which puts out free deck chairs. And **Crossrail Place Roof Garden is indoors**, whatever the name suggests.
+> 💡 **The Short Version:** **Coal Drops Yard** is the one that still works in October — its terraces are covered and heated by design, not by patio umbrella. **Canary Wharf** is the largest of them: waterside terraces on Water Street, new steps down to the water at Eden Dock, and three parks you can picnic in. **Exchange Square** at Broadgate is 420 square metres of free lawn on a deck above the railway. **Eccleston Yards** is a single courtyard five minutes from Victoria, and you cannot hear the station from it. For bring-your-own, go to **Battersea Power Station**, which puts out free deck chairs. And **Crossrail Place Roof Garden is indoors**, whatever the name suggests.
 
 ## Where they are
 
@@ -61,7 +61,7 @@ Both are settled below, place by place.
 
 ## The one distinction that decides your afternoon
 
-Every place on this page falls into one of two camps, and the difference matters more than the food does.
+Every place on this page falls into one of two camps, and the difference counts for more than the food does.
 
 **You can bring your own and sit down** at the Granary Square steps and Bagley Walk in King's Cross; Exchange Square's lawn and amphitheatre at Broadgate; Jubilee Park, Canada Square Park, Harbour Quay and the Eden Dock steps at Canary Wharf; Power Station Park, Malaysia Square and the riverside walk at Battersea; Bernie Spain Gardens on the South Bank; Duke of York Square's lawn in Chelsea; and Rembrandt Gardens beside the canal at Little Venice. Every one is free to walk into with the seating open to anyone, and Battersea's estate goes further, putting out free deck chairs and publishing its own guide to where the picnic spots are.
 
@@ -83,7 +83,7 @@ The best afternoons use both. Buy lunch from a counter in the precinct, carry it
 
 Two Victorian coal drops — the eastern one built in 1851, the western in 1860 — where coal from South Yorkshire was tipped from trains into canal boats and carts below. They opened as a shopping and eating yard on 26 October 2018, joined by Thomas Heatherwick's "kissing roof": two slate roofs pulled up and across a 35-metre gap until they touch.
 
-**This is the one that works in the cold**, because the terraces here were built as permanent outdoor rooms rather than pavement overspill. **Plaza Pastor** is a covered, heated terrace sitting outside Casa Pastor — tacos, tostadas, quesadillas and rotisserie chicken, with DJs Wednesday to Saturday nights. **Parrillan**, from the Barrafina team, is a covered and heated terrace on the viaduct level, planted with Mediterranean shrubs and looking down at the Regent's Canal; you order meat, seafood and vegetables raw and cook them yourself on a mini charcoal grill set into the table. **Coal Office** has a heated ground-floor terrace on Bagley Walk. Barrafina, The Drop in the brick arches, and Morty & Bob's are the rest of the yard.
+**This is the one that works in the cold**, because the terraces here were built as permanent outdoor rooms, not pavement overspill. **Plaza Pastor** is a covered, heated terrace sitting outside Casa Pastor — tacos, tostadas, quesadillas and rotisserie chicken, with DJs Wednesday to Saturday nights. **Parrillan**, from the Barrafina team, is a covered and heated terrace on the viaduct level, planted with Mediterranean shrubs and looking down at the Regent's Canal; you order meat, seafood and vegetables raw and cook them yourself on a mini charcoal grill set into the table. **Coal Office** has a heated ground-floor terrace on Bagley Walk. Barrafina, The Drop in the brick arches, and Morty & Bob's are the rest of the yard.
 
 **Down on Lower Stable Street**, a cobbled lane under the arches, the food gets cheaper and smaller: Hiden for Japanese curry, OKAN and OTON for Osaka cooking, Matchado for matcha, House of Cans for beer. A market runs there at weekends.
 
@@ -107,7 +107,7 @@ Around Granary Square itself: **Caravan** has a sunny terrace, **Granary Square 
 
 Sixteen acres of landscaped squares, docksides and parks with about eighty cafés, bars and restaurants scattered through them — which is why nobody ever finds all of it. Split it into three.
 
-**Water Street and Wood Wharf** is where the big-name restaurants went. **Hawksmoor Wood Wharf** sits in a floating pavilion at 1 Water Street that rises and falls with the tide, with a 120-seat waterside bar, The Lowback, on the dock level below the dining room — British beef and sustainable seafood upstairs, cocktails and a terrace on the water downstairs. **Dishoom** at 13 Water Street has a verandah over the water with a retractable awning, which is the single most useful piece of engineering in the whole estate. **Feels Like June** at number 15 does West Coast-inspired tacos, small plates and rice bowls, with blankets when it turns. **Roe**, from the Fallow team, runs across three floors on Park Drive with a wrap-around terrace. **Mallow** is the plant-based one.
+**Water Street and Wood Wharf** is where the big-name restaurants went. **Hawksmoor Wood Wharf** sits in a floating pavilion at 1 Water Street that rises and falls with the tide, with a 120-seat waterside bar, The Lowback, on the dock level below the dining room — British beef and sustainable seafood upstairs, cocktails and a terrace on the water downstairs. **Dishoom** at 13 Water Street has a verandah over the water with a retractable awning, which is the most useful piece of engineering in the whole estate. **Feels Like June** at number 15 does West Coast-inspired tacos, small plates and rice bowls, with blankets when it turns. **Roe**, from the Fallow team, runs across three floors on Park Drive with a wrap-around terrace. **Mallow** is the plant-based one.
 
 **Eden Dock** is the new part and the reason to come back. Opened in October 2024 with the Eden Project, it turns the Grade I-listed Middle Dock into a run of floating pontoons and planted islands, and — the important bit — steps and ramps bring the public down to water level for the first time. The new terraces face south and west, which in a district of towers is the whole game. It is more decking and seating than planting, which suits eating.
 
@@ -165,7 +165,7 @@ Buy from any of those, walk two minutes, and eat on the river. That is the trip.
 
 Eighty thousand square feet of industrial buildings behind Victoria station — including a five-storey former ice factory at 27 Eccleston Place — arranged around a single courtyard. Grosvenor rebuilt it as about nineteen units of independent food, fashion and wellbeing, and the whole thing revolves around that yard: the tables spill into it, and the programme of Sunday farmers' markets, live music, yoga and outdoor screenings happens in the same space.
 
-It is also the smallest precinct here, and that is the reason to come: one courtyard, five minutes' walk from one of the busiest stations in Britain, and you cannot hear the station from it. Every seat in the yard belongs to one of its venues.
+It is also the smallest precinct here: one courtyard, five minutes' walk from one of the busiest stations in Britain, and you cannot hear the station from it. Every seat in the yard belongs to one of its venues.
 
 **What to eat.** **Wild by Tart** is the anchor — a restaurant, bar, coffee kiosk and shop in one, in the Michelin Guide since 2022, with festoon lights over the outside tables. **Cornus**, upstairs on the roof, holds a Michelin star awarded in the 2025 guide; it comes from David O'Connor and Joe Mercer Nairne of Medlar with Gary Foulkes cooking, and the set lunch is the way in. **Weezie's** opened in April 2026 in the old Biscuiteers unit, from the pair behind amie wine studio next door: thin-crust pizza, a couple of small plates, Guinness and good wine, walk-ins only, seven days a week from noon to 11pm. **Morena** does brunch on green-striped chairs and a £6 happy hour Monday to Friday. **The Jones Family Kitchen** does grass-fed British steak dry-aged at least 28 days.
 
@@ -181,7 +181,7 @@ It is also the smallest precinct here, and that is the reason to come: one court
 
 *££ · Wapping · 8 min from Tower Hill · [St Katharine Docks](https://www.skdocks.co.uk/cats/bars-restaurants/)*
 
-Opened in 1828 as one of the busiest ports in Britain, now central London's only marina, sitting immediately east of Tower Bridge and largely ignored by the crowds photographing the bridge two hundred metres away. Yachts and barges instead of towers, cobbles instead of paving, and the water is the whole point.
+Opened in 1828 as one of the busiest ports in Britain, now central London's only marina, sitting immediately east of Tower Bridge and largely ignored by the crowds photographing the bridge two hundred metres away. Yachts and barges instead of towers, cobbles instead of paving, and the water is the main feature.
 
 **Traders Wine Bar** has a terrace right at the water's edge and does cheese and charcuterie boards, which is the low-effort way to spend two hours here. **The Dickens Inn** is a rebuilt eighteenth-century warehouse with balcony dining and a beer garden looking at Tower Bridge; the food is pizza and pub, and you are paying for the view. **Bravas Tapas** does modern Basque small plates on the waterside, **Kilikya** is the Turkish one with an outdoor area, and **Zizzi**, worth naming for once, has one of the largest outdoor seating areas in the docks. **Emilia's Crafted Pasta**, **Fatto a Mano**, **Côte** and the seafood-led **Melusine** fill in the rest.
 
@@ -197,7 +197,7 @@ The quaysides are public and you can walk the whole basin for nothing. The table
 
 *££ · Soho · 3 min from Oxford Circus · [Kingly Court](https://www.thisissoho.co.uk/eat-and-drink/kingly-court/)*
 
-Three storeys of balconies around a courtyard behind Carnaby Street, with entrances on Carnaby Street, Beak Street and Kingly Street. **Be clear about what it is:** the courtyard is open air through the summer and then covered for the winter with a seasonal roof, with outdoor heaters running underneath. That hedge is the reason to choose it — you are never quite rained off, and you are never quite outside in January either. Shaftesbury Capital consulted in March 2026 on replacing that seasonal cover with a proper retractable roof.
+Three storeys of balconies around a courtyard behind Carnaby Street, with entrances on Carnaby Street, Beak Street and Kingly Street. **Be clear about what it is:** the courtyard is open air through the summer and then covered for the winter with a seasonal roof, with outdoor heaters running underneath. That hedge is the case for choosing it — you are never quite rained off, and you are never quite outside in January either. Shaftesbury Capital consulted in March 2026 on replacing that seasonal cover with a proper retractable roof.
 
 Twenty-odd kitchens across the three levels. **ALTA** does Basque cooking on the ground floor, alongside **Bar Kroketa**, **Goldies**, **Paradiso** and **Pizza Pilgrims**. Upstairs: **Imad's Syrian Kitchen**, **Le Bab**, **Señor Ceviche**, **Donia** for Filipino, **Liu Xiaomian** for Chongqing noodles, **Shoryu** for ramen and **The Life Goddess** for Greek. **Cahoots**, **Disrepute** and **Two Floors** are underneath it.
 
@@ -213,7 +213,7 @@ Ground-floor tables in the middle of the courtyard get whatever sun there is; th
 
 An open square off the King's Road beside the Saatchi Gallery, with a lawn in the middle, and every Saturday since 2004 around 45 stalls arrange themselves around it from 10am to 4pm. Cheese, charcuterie, oysters, fresh pasta, sourdough and hot plates from most of the world, with the lawn and the steps to eat it on.
 
-It is genuinely open-air, genuinely free to sit in, and genuinely only one day a week — a Tuesday visit gets you a pleasant square with restaurant terraces on it and no market at all.
+It is open-air, free to sit in, and only one day a week — a Tuesday visit gets you a pleasant square with restaurant terraces on it and no market at all.
 
 ### Exhibition Road, South Kensington
 
@@ -225,7 +225,7 @@ Not a yard or a precinct but a **street that behaves like one**. Exhibition Road
 
 It runs past the **V&A, the Natural History Museum and the Science Museum**, which is the densest run of museums in the country, so the crowd is a mix of people who have spent the day in one and people who live in South Kensington and never go.
 
-**Casa Brindisa** does Spanish tapas from a terrace directly on the street, and **Comptoir Libanais** is a few doors up. The parasols are the restaurants’, so this is venue seating rather than anywhere to bring your own — but the width of the street means the tables are not squeezed against a wall, which is unusual in central London.
+**Casa Brindisa** does Spanish tapas from a terrace directly on the street, and **Comptoir Libanais** is a few doors up. The parasols are the restaurants’, so this is venue seating, not anywhere to bring your own — but the width of the street means the tables are not squeezed against a wall, which is unusual in central London.
 
 **It faces roughly north-south and the light arrives late**, so the terrace end of the day here runs well into the evening in summer — the photograph above was taken at about six in September.
 ### The Yards, Covent Garden
@@ -248,7 +248,7 @@ Two minutes north, **Neal's Yard** is a twenty-metre courtyard of painted walls 
 
 A low-rise courtyard of independent shops, galleries and small kitchens set back one block from the river between Queen's Walk and Upper Ground, and one of the few places on the South Bank where you are not paying river-frontage prices. **Limin'** does Trinidadian food, **The Gourmet Pizza Company** and **Hola Guacamole** cover the obvious, **Fed By Plants** the vegan end, **Hot Mess Toasties** the cheap one. In summer the tables spread into a sand-covered area in the middle of the courtyard, and unlike most yards in this guide, none of them belong to a single venue — sit anywhere with food from any of the kitchens.
 
-**Bernie Spain Gardens** sits immediately next door between the Oxo Tower and the wharf — a riverside park laid out in the 1980s across two halves of Upper Ground, and the obvious place to take food you bought rather than food you sat down for.
+**Bernie Spain Gardens** sits immediately next door between the Oxo Tower and the wharf — a riverside park laid out in the 1980s across two halves of Upper Ground, and the obvious place to take food you bought, not food you sat down for.
 
 📍 More in our **[South Bank area guide](/articles/south-bank-area-guide/)**.
 
@@ -260,7 +260,7 @@ A low-rise courtyard of independent shops, galleries and small kitchens set back
 
 *£–££ · Camden Town · 4 min from Camden Town · [Camden Market Hawley Wharf](https://camdenmarket.com/journal/camden-market-hawley-wharf)*
 
-The newest part of Camden Market, reopened in stages from 2021 into restored railway arches and waterside halls on the edge of the Regent's Canal. **The food courts themselves are covered** — worth knowing, because the whole reason to choose Hawley Wharf over the rest of Camden is the water. The canal-side spaces and rooftops around the halls are the outdoor half, and they are where to take the food. It is also the accessible corner of Camden Market: step-free throughout, with a Changing Places facility.
+The newest part of Camden Market, reopened in stages from 2021 into restored railway arches and waterside halls on the edge of the Regent's Canal. **The food courts themselves are covered**, and Hawley Wharf stands apart from the rest of Camden Market for its position on the water. The canal-side spaces and rooftops around the halls are the outdoor half, and they are where to take the food. It is also the accessible corner of Camden Market: step-free throughout, with a Changing Places facility.
 
 📍 More in our **[Camden area guide](/articles/camden-area-guide/)**.
 
@@ -268,13 +268,13 @@ The newest part of Camden Market, reopened in stages from 2021 into restored rai
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-outside-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Street food that is genuinely outdoors
+## Street food that is outdoors
 
 ### Vinegar Yard, London Bridge
 
 *£ · London Bridge · 1 min from London Bridge · Wed 5–10.30pm, Thu–Fri 4–11pm, Sat noon–11pm · [Vinegar Yard](https://www.vinegaryard.london/)*
 
-A yard of food traders, bars, art and a weekend flea market wedged beside London Bridge station on St Thomas Street. Its own booking notes are unusually honest about the weather, and worth quoting as a model for the whole category: from spring, about a third of the outdoor space is under cover; from late autumn most of the site goes under stretch tents; in winter there are heaters, and an indoor space that runs all year.
+A yard of food traders, bars, art and a weekend flea market wedged beside London Bridge station on St Thomas Street. Its own booking notes state the weather risk plainly: from spring, about a third of the outdoor space is under cover; from late autumn most of the site goes under stretch tents; in winter there are heaters, and an indoor space that runs all year.
 
 **The thing that ruins a visit: it is closed Sunday, Monday and Tuesday.** Every other yard on this page trades most days; this one does not.
 
@@ -304,13 +304,13 @@ Shipping containers stacked two high on Brixton Station Road, opened in 2015 on 
 
 *£ · Elephant & Castle · 5 min from Elephant & Castle · [Mercato Metropolitano](https://mercatometropolitano.com/locations/elephant-and-castle/)*
 
-Seventeen thousand square feet of former paper factory on Newington Causeway with more than forty independent traders. The reason it belongs here rather than in the covered list is that it is genuinely both: indoor warehouses with sheltered dining, and an outdoor piazza and garden area with its own bars and seating. On a warm evening the outside fills first.
+Seventeen thousand square feet of former paper factory on Newington Causeway with more than forty independent traders. The reason it belongs here rather than in the covered list is that it is both: indoor warehouses with sheltered dining, and an outdoor piazza and garden area with its own bars and seating. On a warm evening the outside fills first.
 
 ### Frank's Café, Peckham
 
 *£ · Peckham · 5 min from Peckham Rye · mid-May to mid-September, Wed–Sun 11am–11pm · [Bold Tendencies](https://boldtendencies.com/franks-cafe/)*
 
-The top of the multi-storey car park at 95a Rye Lane, floors seven to ten, run by the Bold Tendencies arts organisation. Frank's opened in 2009, designed by Practice Architecture, and it is nothing but a bar and some benches on a roof — which is the point, because the view runs from the London Eye across to the O2 and Crystal Palace. Entry is first come, first served, so arrive early on a clear evening.
+The top of the multi-storey car park at 95a Rye Lane, floors seven to ten, run by the Bold Tendencies arts organisation. Frank's opened in 2009, designed by Practice Architecture, and it is nothing but a bar and some benches on a roof — and it needs nothing more, because the view runs from the London Eye across to the O2 and Crystal Palace. Entry is first come, first served, so arrive early on a clear evening.
 
 **Peckham Levels, on the floors below, is indoors** — a converted car park with kitchens and studios in it, and a completely different proposition. If you came for sky, keep going up.
 
@@ -353,7 +353,7 @@ Everything on this page is pleasant in July. This is the shorter list that survi
 - **Pop Brixton** — weather-proofed to stay open all year.
 - **Broadgate Circle** — deep, enclosed and heated by the restaurants around it; the ice rink at Exchange Square gives you a reason to be there in December.
 - **Canary Wharf** — ROKA, Boisdale and Caravan all run heaters or hand out blankets, and The Sipping Room puts up igloos.
-- **Crossrail Place Roof Garden** — indoors, warm and free, which is the honest reason to keep it on the list.
+- **Crossrail Place Roof Garden** — indoors, warm and free, which is why it is on the list.
 
 **Summer only, or effectively so:** Ibérica's La Terraza on Cabot Square, Frank's Café in Peckham (mid-May to mid-September), Maltby Street's Friday evenings, the Granary Square steps, and every lawn on this page.
 

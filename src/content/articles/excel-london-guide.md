@@ -29,7 +29,7 @@ faq:
   - q: "Is there a cloakroom at ExCeL?"
     a: "Yes, free of charge, subject to the organiser of your specific event allowing it. The main one is on Level 0, down the stairs between hall entrances N4 and S4, with a second at the east end of Level 0; the ICC's Capital Suite and Platinum Suite have their own. Nothing can be stored overnight, and cameras, laptops and other electronics aren't accepted."
   - q: "Do you pay the Congestion Charge or ULEZ to drive to ExCeL?"
-    a: "Not the Congestion Charge — the zone covers only central London, and Royal Docks is well outside it. ULEZ is a different matter: since 2023 it covers every London borough with no gap, so a non-compliant car pays the standard £12.50 daily charge to park at or drive past ExCeL, the same as anywhere else in the city."
+    a: "Not the Congestion Charge — the zone covers only central London, and Royal Docks is well outside it. ULEZ is different: since 2023 it covers every London borough with no gap, so a non-compliant car pays the standard £12.50 daily charge to park at or drive past ExCeL, the same as anywhere else in the city."
   - q: "What's the quickest way to ExCeL from central London?"
     a: "The Elizabeth line to Custom House, checked live against TfL's own journey planner: about 10 minutes from Liverpool Street, 16 from Tottenham Court Road, and a single stop — about 3 minutes, by ExCeL's own account — from Canary Wharf. Paddington is the outlier at around 21–24 minutes, since it's the long way across the line."
 ---
@@ -82,7 +82,7 @@ Checked live against TfL's own journey planner, on a Sunday:
 | **London City Airport** | Elizabeth line or DLR/bus | **5–13 minutes**, depending on the connection used |
 | **Heathrow** | Elizabeth line, direct | **43 minutes** (ExCeL's own figure) |
 
-The Elizabeth line is the quickest option from almost anywhere in central London, and it's a single train with no change from Liverpool Street, Paddington, Tottenham Court Road, Bond Street or Heathrow. Coming from the south or from stations only the DLR reaches, expect a change: the fastest route from Bank runs via the Northern line to Moorgate and a walk to Liverpool Street rather than straight through on the DLR, and a same-line DLR route via Poplar takes about 25 minutes.
+The Elizabeth line is the quickest option from almost anywhere in central London, and it's a single train with no change from Liverpool Street, Paddington, Tottenham Court Road, Bond Street or Heathrow. Coming from the south or from stations only the DLR reaches, expect a change: the fastest route from Bank runs via the Northern line to Moorgate and a walk to Liverpool Street, not straight through on the DLR, and a same-line DLR route via Poplar takes about 25 minutes.
 
 **London City Airport** is close enough that ExCeL's own site calls it a 15-minute walk; by rail it's a handful of stops on the DLR or Elizabeth line, whichever a live journey planner offers first. International rail (Eurostar, Le Shuttle) and the other five London airports are all a further connection away — see our [London City Airport transport guide](/articles/london-city-airport-to-london/) for the full comparison.
 
@@ -107,7 +107,7 @@ The Elizabeth line is the quickest option from almost anywhere in central London
 
 > ⚠️ **It's an arrival option, not a reliable way home.** It closes before most evening events finish clearing the building, and it doesn't run all night on any day of the week.
 
-**Uber Boat by Thames Clippers** calls at Royal Wharf Pier, opened in 2019 specifically to serve ExCeL, City Airport and the Royal Docks. It's on the East zone of the river network. Checked against the operator's own published timetable, the last **westbound** sailing towards central London leaves at **21:41 on weekdays** and **22:17 at weekends** — earlier than North Greenwich Pier further downstream, so it suits an early finish rather than a normal evening one. The pier is step-free, with a 162m² river-view platform; the nearest DLR stations for onward travel are West Silvertown or Pontoon Dock, not Custom House.
+**Uber Boat by Thames Clippers** calls at Royal Wharf Pier, opened in 2019 specifically to serve ExCeL, City Airport and the Royal Docks. It's on the East zone of the river network. Checked against the operator's own published timetable, the last **westbound** sailing towards central London leaves at **21:41 on weekdays** and **22:17 at weekends** — earlier than North Greenwich Pier further downstream, so it suits an early finish, not a normal evening one. The pier is step-free, with a 162m² river-view platform; the nearest DLR stations for onward travel are West Silvertown or Pontoon Dock, not Custom House.
 
 ---
 
@@ -170,7 +170,7 @@ ExCeL runs almost entirely on trade and B2B events, but a handful of shows each 
 
 ## Where to stay
 
-A handful of hotels sit on the ExCeL campus itself or across Royal Victoria Dock, all trading on prices that track the exhibition calendar rather than the season — a quiet week is cheap, a big trade show is not.
+A handful of hotels sit on the ExCeL campus itself or across Royal Victoria Dock, all trading on prices that track the exhibition calendar, not the season — a quiet week is cheap, a big trade show is not.
 
 - **[Aloft London ExCeL](hotel:aloft-london-excel)** — a minute's walk from the East Entrance and the ICC on the Eastern Gateway, with an indoor pool.
 - **[DoubleTree by Hilton London – ExCeL](hotelscom:218082)** — the other hotel ExCeL's own site names as part of the campus.
@@ -191,7 +191,7 @@ Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the hot
 - **The London Cable Car** (see above) makes a short, scenic crossing to North Greenwich and The O2 — see our [O2 travel guide](/articles/the-o2-travel-guide/) for what's on the other side.
 - **WakeUp Docklands**, a cable wakeboard park in the Royal Docks, runs from the water ExCeL backs onto.
 - **Immerse LDN**, an immersive exhibitions venue on the Waterfront about 400m from the West Entrance, runs a changing programme of ticketed shows.
-- **City Hall** — the striking glass-and-steel building on the dock, formerly The Crystal, isn't the sustainability exhibition it once was. The Greater London Authority moved its headquarters there in January 2022, and it's now the Mayor and London Assembly's base rather than a visitor attraction.
+- **City Hall** — the striking glass-and-steel building on the dock, formerly The Crystal, isn't the sustainability exhibition it once was. The Greater London Authority moved its headquarters there in January 2022, and it's now the Mayor and London Assembly's base, not a visitor attraction.
 - **Canary Wharf** is one Elizabeth line stop away — about 3 minutes — for the roof garden, Eden Dock and the restaurants at Wood Wharf; see our [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
 - **London City Airport** is a 15-minute walk or a couple of DLR stops, if you're flying in or out around your visit.
 

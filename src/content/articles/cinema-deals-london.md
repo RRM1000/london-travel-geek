@@ -33,7 +33,7 @@ heroImageAlt: "The art deco Garden Bar inside The Garden Cinema, with a curved r
 
 The same film, on the same evening, costs **£4.99 in Mile End and over £25 in Notting Hill**. Almost none of that difference is about the film.
 
-This is a guide to paying the lower number. It covers every chain subscription, the memberships worth having, the partner deals that come through your phone network or your insurer, and the independents that quietly undercut all of them.
+This is a guide to paying the lower number. It covers every chain subscription, the memberships worth having, the partner deals that come through your phone network or your insurer, and the independents that undercut all of them.
 
 > 💡 **The Short Version:** Three things are free and most people miss them. **Meerkat Movies** now gives 2-for-1 cinema every Tuesday or Wednesday with **no purchase required** — just the Compare the Market app. If you are **16 to 25**, the under-25 schemes at **BFI (£4)**, **Picturehouse (£5.99)** and **Curzon** are free to join and beat every paid membership here. And the **CEA Card** costs £6.50 once and gets a disabled cinemagoer's companion in free. Beyond that: **under two films a month**, buy singles at **Genesis (£4.99 Mon–Wed)** or **Peckhamplex (£6.99)**. **Two or more**, a subscription wins. And **£15 at the Prince Charles** pays for itself in five visits.
 
@@ -93,7 +93,7 @@ For anyone paying per film with no membership, these are the lowest prices.
 | **Genesis**, Mile End | £12 | Friday to Sunday |
 | **Vue** | from £2.49 | Booked online, varies by site and screening |
 
-Genesis is the cheapest standard adult ticket in London from Monday to Wednesday, and unusually the price is flat across every category — there is no cheaper concession because there does not need to be. Its weekend price of £12 is a different proposition, so the cheap window is genuinely Monday to Wednesday.
+Genesis is the cheapest standard adult ticket in London from Monday to Wednesday, and unusually the price is flat across every category — there is no cheaper concession because there does not need to be. Its weekend price of £12 is a different proposition, so the cheap window is Monday to Wednesday.
 
 ![The purple and pink frontage of Peckhamplex cinema in Peckham, with its listings board and film posters](../../assets/articles/cinema-deals-london/peckhamplex-exterior.jpg)
 
@@ -115,9 +115,9 @@ Monthly passes for people who go often. The break-even is roughly the same for a
 | **Curzon Cult** | £25/month or £285/year | — | Curzon's own wording is "7 free tickets a week", in cinemas or on Curzon Home Cinema |
 | **Everyman Everywhere** | £59/month or £680/year | — | "Unlimited film for a year", two tickets per show |
 
-**Cineworld's group system is the catch for Londoners.** The £12.99 headline covers selected cinemas only; the tiers rise through £17.99 and £19.99 to £22.99, and only the top tier is described as including all cinemas. Check which group your local sits in before assuming the cheap price applies — West End sites sit at the expensive end. IMAX, 4DX and ScreenX cost extra on top at every tier.
+**Cineworld's group system prices Londoners higher.** The £12.99 headline covers selected cinemas only; the tiers rise through £17.99 and £19.99 to £22.99, and only the top tier is described as including all cinemas. Check which group your local sits in before assuming the cheap price applies — West End sites sit at the expensive end. IMAX, 4DX and ScreenX cost extra on top at every tier.
 
-**ODEON is the simpler proposition** at £16.99, but the standard tier charges £3 per visit at Luxe cinemas, which covers much of its London premium estate. If you are a West End regular, myLIMITLESS Plus at £19.99 is the honest comparison, not £16.99. Both tiers cap you at four tickets per booking with bookings at least 90 minutes apart, and exclude event cinema, premieres and festivals.
+**ODEON is the simpler proposition** at £16.99, but the standard tier charges £3 per visit at Luxe cinemas, which covers much of its London premium estate. If you are a West End regular, myLIMITLESS Plus at £19.99 is the fair comparison, not £16.99. Both tiers cap you at four tickets per booking with bookings at least 90 minutes apart, and exclude event cinema, premieres and festivals.
 
 **Curzon Cult at £25 a month is the outlier worth noticing.** Curzon is a premium art-house chain where single tickets run well into the teens, and this is much the cheapest route into it. It also covers Curzon Home Cinema, so it doubles as a streaming subscription.
 
@@ -143,7 +143,7 @@ These are not unlimited. You pay once a year for a bundle of free tickets plus a
 
 **Everyman's guest perk is the hidden value.** £95 buys six tickets, which is unremarkable, but bringing a guest free every Monday and Tuesday effectively halves the price of every visit on those days for as long as you hold it.
 
-**Picturehouse's London and West End split matters.** The cheaper London tier explicitly excludes Picturehouse Central in the West End. If Central is the one you would actually use, it is £100 rather than £75, or £185 rather than £120 at the Plus tier.
+**Picturehouse splits London and the West End.** The cheaper London tier explicitly excludes Picturehouse Central in the West End. If Central is the one you would actually use, it is £100 rather than £75, or £185 rather than £120 at the Plus tier.
 
 ---
 
@@ -163,7 +163,7 @@ Several of these come attached to things you may already pay for.
 
 **O2 Priority is the best of these if you are on O2.** Four tickets for £18 is £4.50 each with no day restriction — competitive with Genesis's cheap-day price, at a chain, any day of the week.
 
-**Sky Cinema's two free Vue tickets a month** is worth checking if you already subscribe. That is one cinema trip for two, twelve times a year, at no additional cost — use the two tickets separately instead and it stretches to 24 films — which quietly outperforms most paid memberships on this page.
+**Sky Cinema's two free Vue tickets a month** is worth checking if you already subscribe. That is one cinema trip for two, twelve times a year, at no additional cost — use the two tickets separately instead and it stretches to 24 films — which outperforms most paid memberships on this page.
 
 ---
 

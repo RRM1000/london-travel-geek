@@ -30,7 +30,7 @@ faq:
 
 The good day trips from London are all about an hour away, and the money is in the entry ticket rather than the train. What follows is priced and timed: what the journey costs, what you pay when you arrive, how long the day takes, and which days the doors are shut.
 
-> 💡 **The Short Version:** **Windsor** is the shortest and cheapest journey, and its castle is **closed on Tuesdays and Wednesdays**. **Oxford** is cheapest by coach, **Cambridge** by advance single. The **Harry Potter Studio Tour** must be booked weeks ahead and sells nothing on the door. **Contactless works to Windsor and Watford, but Oyster does not** — and neither works to Oxford or Cambridge. **Bath** is 1h15 from Paddington and cheapest with advance tickets. **Stonehenge** and **the Cotswolds** are the two where a coach tour genuinely beats the train. **Or book a tour** — <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">guided day trips from £66</a> cover the transport and the ticket in one booking.
+> 💡 **The Short Version:** **Windsor** is the shortest and cheapest journey, and its castle is **closed on Tuesdays and Wednesdays**. **Oxford** is cheapest by coach, **Cambridge** by advance single. The **Harry Potter Studio Tour** must be booked weeks ahead and sells nothing on the door. **Contactless works to Windsor and Watford, but Oyster does not** — and neither works to Oxford or Cambridge. **Bath** is 1h15 from Paddington and cheapest with advance tickets. **Stonehenge** and **the Cotswolds** are the two where a coach tour beats the train. **Or book a tour** — <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">guided day trips from £66</a> cover the transport and the ticket in one booking.
 
 ## The day trips, compared
 
@@ -46,7 +46,7 @@ The good day trips from London are all about an hour away, and the money is in t
 | **[Stonehenge](/articles/stonehenge-day-trip/)** | Waterloo to Salisbury, then a bus | About 3 hours each way | Advance from £16.40 single, bus £20.50 | Entry **£27.20–£32.30** booked ahead; tours from £66 with entry |
 | **[The Cotswolds](/articles/cotswolds-day-trip/)** | Paddington to Moreton-in-Marsh | **1h25**, then the 801 bus | £54 off-peak return | Villages are free; tours from £74 |
 
-**The pattern worth knowing:** the train is the small number. Windsor Castle costs four times the fare to get there, and the Studio Tour costs eight times it. The exceptions are Stonehenge and the Cotswolds, where getting there is the hard part and the tour is what you are really paying for. Book the attraction first and fit the train around it.
+**The pattern:** the train is the small number. Windsor Castle costs four times the fare to get there, and the Studio Tour costs eight times it. The exceptions are Stonehenge and the Cotswolds, where getting there is the hard part and the tour is what you are really paying for. Book the attraction first and fit the train around it.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-trips-from-london-day-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,215430,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -90,7 +90,7 @@ Windsor Castle is **£32 booked ahead, £36 on the day**, with no family ticket,
 
 Two ways in: Paddington, or Marylebone on Chiltern. The **Oxford Tube coach runs through the night** and is cheaper than either.
 
-The catch is the colleges. Some charge, some are free, and several close to visitors during exams — including Christ Church, whose staircase and hall are the Harry Potter draw. The Ashmolean, the Pitt Rivers and the Natural History Museum are free, and the covered market costs nothing to wander.
+The drawback is the colleges. Some charge, some are free, and several close to visitors during exams — including Christ Church, whose staircase and hall are the Harry Potter draw. The Ashmolean, the Pitt Rivers and the Natural History Museum are free, and the covered market costs nothing to wander.
 
 → **[The full Oxford guide](/articles/oxford-day-trip/)**
 
@@ -132,7 +132,7 @@ The Royal Pavilion is £21.50, Brighton Pier charges £1 admission from March to
 
 ## Stonehenge
 
-The one day trip where a tour is genuinely the sensible choice. By public transport it is Waterloo to Salisbury, then a bus that runs **five times a day in winter**, about three hours each way and roughly £80 all in. Tours start at **£66 with entry included**.
+The one day trip where a tour is the sensible choice. By public transport it is Waterloo to Salisbury, then a bus that runs **five times a day in winter**, about three hours each way and roughly £80 all in. Tours start at **£66 with entry included**.
 
 Entry is **£27.20 to £32.30** booked ahead, 15% less than at the gate. And you can see the stones free from the National Trust land around them, a mile and a half's walk from Amesbury.
 
@@ -153,8 +153,8 @@ These do not have a guide of their own yet, but they are worth the day:
 - **Coast:** [Brighton and the Seven Sisters](/articles/brighton-seven-sisters-day-trip/) has its own guide now; beyond that, Whitstable for oysters, Margate for Dreamland and the Turner, Broadstairs, Hastings, and Eastbourne itself.
 - **Cities and towns:** [Canterbury and Dover](/articles/canterbury-dover-day-trip/) together on the high-speed line, Winchester, Rye, St Albans and Rochester.
 - **Castles and houses:** [Leeds Castle](/articles/canterbury-dover-day-trip/#leeds-castle--why-the-coach-is-the-practical-way-in) — no useful station of its own, so it's covered alongside the Canterbury and Dover trip — plus Hever, Arundel, Warwick, Blenheim Palace, Hatfield House and Highclere, better known as Downton Abbey.
-- **Countryside:** the Chilterns, Box Hill and the South Downs — the places where [hiring a car](/articles/car-hire-driving-uk/) genuinely helps.
-- **Theme parks:** [theme parks near London](/articles/theme-parks-near-london/) compares them all. [Thorpe Park](/articles/thorpe-park-day-trip/) is the thrill park, Waterloo to Staines and a bus; [Chessington](/articles/chessington-world-of-adventures-day-trip/) is in Zone 6, with a zoo in the ticket; [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/) is ten minutes from [Windsor](/articles/windsor-day-trip/) and a day of its own rather than an afternoon after the castle; and [Paultons Park](/articles/paultons-park-day-trip/), home of Peppa Pig World, is a train to Southampton and a bus. Alton Towers needs a night away.
+- **Countryside:** the Chilterns, Box Hill and the South Downs — the places where [hiring a car](/articles/car-hire-driving-uk/) helps.
+- **Theme parks:** [theme parks near London](/articles/theme-parks-near-london/) compares them all. [Thorpe Park](/articles/thorpe-park-day-trip/) is the thrill park, Waterloo to Staines and a bus; [Chessington](/articles/chessington-world-of-adventures-day-trip/) is in Zone 6, with a zoo in the ticket; [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/) is ten minutes from [Windsor](/articles/windsor-day-trip/) and a day of its own, not an afternoon after the castle; and [Paultons Park](/articles/paultons-park-day-trip/), home of Peppa Pig World, is a train to Southampton and a bus. Alton Towers needs a night away.
 - **Abroad:** [Paris by Eurostar](/articles/paris-day-trip/), which is from 2h16 direct and a real day out if you start early — see the full guide for the fares, the border checks, and how many hours that actually leaves you in the city. [Disneyland Paris](/articles/disneyland-paris-from-london/) is a Eurostar day too, best done by way of Gare du Nord and the RER, at about seven hours in the park. [Brussels](/articles/brussels-day-trip/) is the shortest Eurostar run, at about two hours. [Bruges](/articles/bruges-day-trip/) takes longer, a Eurostar to Brussels plus a separate Belgian train, but the canals and the Belfry are worth the extra leg. [Amsterdam](/articles/amsterdam-from-london/) is about four hours each way direct, which makes it a demanding day trip and a much better one- or two-night stay.
 - **Scotland:** [Edinburgh](/articles/edinburgh-day-trip/) is from 4h08 direct on LNER, or a touch cheaper on Lumo — the round trip alone runs to 8 or 9 hours, so the full guide makes the case for a night in the Old Town over a same-day return, and covers the Caledonian Sleeper as the way to travel there without losing a day to it.
 

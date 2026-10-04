@@ -79,7 +79,7 @@ Camden has its own share of the commemorative plaques marking where notable peop
 
 ## Why visit — and who should skip it
 
-**Come here if** you want street food, vintage, or live music, or you want to walk the Regent's Canal. The food at Camden Lock is genuinely good and genuinely cheap — dozens of traders, most under £10.
+**Come here if** you want street food, vintage, or live music, or you want to walk the Regent's Canal. The food at Camden Lock is good and cheap — dozens of traders, most under £10.
 
 **Skip it if** crowds bother you. Camden on a Sunday afternoon is among the most congested places in London — crowded enough that the Tube station ran exit-only for years to cope. If you want the market without the crush, come on a weekday morning.
 
@@ -125,7 +125,7 @@ The **food is the main event now** rather than the clothing — around a hundred
 ### Stables Market and Chalk Farm Road
 North past the railway bridge, and **the part of Camden actually worth slowing down for**. The Stables are the Victorian horse hospital and tunnels built for the animals that hauled canal barges, now cut through with railway arches full of dealers — vintage clothing, furniture, militaria, records. Expect **£15 to £60** for a decent vintage piece, more for branded denim or leather.
 
-**Go on a weekday if you want to look at anything properly.** The arches are narrow, the good stalls are the ones people stop at, and on a Saturday you shuffle.
+**Go on a weekday if you want to look at anything closely.** The arches are narrow, the good stalls are the ones people stop at, and on a Saturday you shuffle.
 
 Opposite stands the **Roundhouse**, built in 1847 as an engine shed to turn locomotives and now one of London's better music venues — the cast-iron columns inside are the originals. Worth checking what is on before you come, since the building alone justifies a ticket. It is covered in full in our [live music guide](/articles/best-live-music-venues-london/).
 
@@ -157,16 +157,16 @@ Two things on this stretch are worth stopping for. **[Cyberdog](https://www.cybe
 *BOXPARK Camden.*
 
 ### Inverness Street and Parkway
-West of the High Street, and where Camden stops performing at you. **Inverness Street** was a working fruit and veg market for a century and is now much reduced — a handful of stalls rather than the row it was — but the street itself is lined with pubs and small restaurants that serve locals rather than the market crowd.
+West of the High Street, and where Camden stops performing at you. **Inverness Street** was a working fruit and veg market for a century and is now much reduced — a handful of stalls, not the row it was — but the street itself is lined with pubs and small restaurants that serve locals rather than the market crowd.
 
 **Parkway is the one to walk.** It runs from the Tube down toward Regent's Park, and the eating is materially better and cheaper than anything you will find fifty metres east: proper neighbourhood Greek, Italian and Indian rooms, plus **The Dublin Castle**, the pub where Madness got their start and still a small live venue most nights.
 
 **This is where to eat if the market has worn you out** — five minutes from the crowds, and you will get a table.
 
 ### Primrose Hill village
-North-west across the railway, and a different world within ten minutes' walk — pastel stucco terraces, independent shops along Regent's Park Road, and pubs that fill with people who live here rather than people visiting.
+North-west across the railway, and a different world within ten minutes' walk — pastel stucco terraces, independent shops along Regent's Park Road, and pubs that fill with people who live here, not people visiting.
 
-**The hill itself is the reason to come.** It rises to about **63 metres** and the summit is **one of London's protected viewpoints**, which is a legal designation: the trees are kept low and nothing may be built that blocks the sightline to St Paul's and the City. It is free and busiest at sunset. It is not open around the clock all year: the hill is gated separately from The Regent's Park and the Royal Parks close it from 10pm to 6am on Friday, Saturday and Sunday nights between 3 April and 8 November, staying open 24 hours on weekdays. Bonfire night is a 10pm close, and the arrangements for New Year's Eve are announced each autumn.
+**Come for the hill itself.** It rises to about **63 metres** and the summit is **one of London's protected viewpoints**, which is a legal designation: the trees are kept low and nothing may be built that blocks the sightline to St Paul's and the City. It is free and busiest at sunset. It is not open around the clock all year: the hill is gated separately from The Regent's Park and the Royal Parks close it from 10pm to 6am on Friday, Saturday and Sunday nights between 3 April and 8 November, staying open 24 hours on weekdays. Bonfire night is a 10pm close, and the arrangements for New Year's Eve are announced each autumn.
 
 **Chalcot Crescent** stood in for the Brown family's house in the *Paddington* films. These are private homes, so photograph from the pavement and keep the noise down.
 
@@ -191,7 +191,7 @@ North-west across the railway, and a different world within ten minutes' walk �
 
 ## Canal boat trips from Camden
 
-Five different operators run from Camden Lock, and they are genuinely different trips rather than the same ride at different prices. All of them use the same stretch of the Regent's Canal — through Regent's Park and **the grounds of London Zoo**, where the painted wolves and the colobus monkeys are visible from the water, and in most cases through the **Maida Hill tunnel**, a little over 240 metres long, which has no towpath and is worth the ticket on its own.
+Five different operators run from Camden Lock, and they are different trips rather than the same ride at different prices. All of them use the same stretch of the Regent's Canal — through Regent's Park and **the grounds of London Zoo**, where the painted wolves and the colobus monkeys are visible from the water, and in most cases through the **Maida Hill tunnel**, a little over 240 metres long, which has no towpath and is worth the ticket on its own.
 
 | Trip | Route | How long | From | What makes it different |
 | --- | --- | --- | --- | --- |
@@ -205,7 +205,7 @@ Five different operators run from Camden Lock, and they are genuinely different 
 
 *The Music Boat.*
 
-**Which to pick.** For getting somewhere, the Waterbus or Jason's Trip — both are one-way journeys that happen to be scenic. For a round trip with no walk back, Jenny Wren, which also takes you through a working lock. For an evening out rather than a sightseeing trip, My Fair Lady. The Music Boat is the one people remember, and the one to avoid in bad weather.
+**Which to pick.** For getting somewhere, the Waterbus or Jason's Trip — both are one-way journeys that happen to be scenic. For a round trip with no walk back, Jenny Wren, which also takes you through a working lock. For an evening out, not a sightseeing trip, My Fair Lady. The Music Boat is the one people remember, and the one to avoid in bad weather.
 
 > ⚠️ **None of them stop at London Zoo.** The route runs through the zoo's grounds and you can see the painted wolves and colobus monkeys from the water, but there is no zoo landing — the old combined boat-and-zoo ticket is long gone. The nearest stop is Camden Market, about fifteen minutes' walk from the entrance.
 

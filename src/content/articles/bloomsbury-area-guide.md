@@ -61,7 +61,7 @@ faq:
   - q: "What was the Bloomsbury Group?"
     a: "A circle of writers, artists and thinkers who lived around these squares in the early twentieth century — Virginia Woolf, John Maynard Keynes, E. M. Forster, Lytton Strachey and others. Blue plaques mark many of their houses, particularly around Gordon Square and Tavistock Square."
   - q: "Is Bloomsbury a good area to stay in?"
-    a: "One of the best in central London for value. It is quiet at night, genuinely central, walkable to the West End, and a short walk from King's Cross St Pancras for the Eurostar. The trade-off is that it is residential and academic, so there is little nightlife."
+    a: "One of the best in central London for value. It is quiet at night, central, walkable to the West End, and a short walk from King's Cross St Pancras for the Eurostar. The trade-off is that it is residential and academic, so there is little nightlife."
 heroImage: ../../assets/articles/bloomsbury-area-guide/bloomsbury-street-london-geograph-org-uk-6073643.jpg
 heroImageAlt: "Georgian terraces on Bloomsbury Street looking towards Bedford Square"
 heroImageCredit: "Rossographer"
@@ -87,10 +87,10 @@ Bloomsbury has its own share of the commemorative plaques marking where notable 
 1. **The British Museum** — Around eight million objects, of which roughly 50,000 are on display. The Rosetta Stone, the Parthenon sculptures, the Sutton Hoo helmet and the Egyptian galleries. Free. Use the Montague Place entrance.
 2. **The Great Court** — Norman Foster's glazed roof over the old reading room courtyard, and the largest covered square in Europe. Free to walk into even without visiting the galleries.
 3. **The garden squares** — Russell, Bedford, Gordon, Tavistock and Bloomsbury Squares. Most are open to the public and almost all are empty.
-4. **The Charles Dickens Museum** — The Doughty Street house where he wrote *Oliver Twist* and *Nicholas Nickleby*, kept as a home rather than a display.
+4. **The Charles Dickens Museum** — The Doughty Street house where he wrote *Oliver Twist* and *Nicholas Nickleby*, kept as a home, not a display.
 5. **Lamb's Conduit Street** — A pedestrianised independent shopping street of menswear shops, a good bookshop and The Lamb, a Victorian pub with original snob screens.
 6. **The Foundling Museum** — The story of Britain's first children's charity and its Hogarth collection. Small, moving and rarely busy.
-7. **The Cartoon Museum and the Wellcome Collection** — Two small free museums on the edges. The Wellcome's medical curiosities are genuinely strange.
+7. **The Cartoon Museum and the Wellcome Collection** — Two small free museums on the edges. The Wellcome's medical curiosities are strange.
 
 ![The glass and steel lattice roof of the British Museum's Great Court](../../assets/articles/bloomsbury-area-guide/british-museum-great-court.jpg)
 
@@ -100,9 +100,9 @@ Bloomsbury has its own share of the commemorative plaques marking where notable 
 
 ### Great Russell Street and the museum precinct
 
-The **British Museum** frontage, the souvenir shops opposite, and the busiest two hundred metres in Bloomsbury by a wide margin. The colonnade is the photograph; the Great Court behind it is the reason to go in.
+The **British Museum** frontage, the souvenir shops opposite, and the busiest two hundred metres in Bloomsbury by a wide margin. The colonnade is the photograph; go in for the Great Court behind it.
 
-**The museum is free and needs no ticket.** The trick worth knowing is the entrance: the queue forms on Great Russell Street, but the **Montague Place door at the back** is the same building and usually a walk-in. Friday is the late night.
+**The museum is free and needs no ticket.** Use the back entrance: the queue forms on Great Russell Street, but the **Montague Place door at the back** is the same building and usually a walk-in. Friday is the late night.
 
 For lunch on this street rather than off it, **Dalloway Terrace at 16–22 Great Russell Street** is the one with the flowers over the terrace, and it takes bookings — everything else here is priced for people who will never come back.
 
@@ -118,7 +118,7 @@ Tavistock Square also holds the **Gandhi statue** and a conscientious objectors'
 
 The best street in Bloomsbury and the one visitors never find, running north from Theobald's Road towards Coram's Fields. Half-pedestrianised, independent almost end to end.
 
-**Eat and drink:** **Noble Rot at 51** is a wine bar with a serious kitchen attached and needs booking; **Honey & Co at 54** does Middle Eastern cooking in a room with about twenty seats; **Redemption Roasters at 84b** roasts its coffee in a young offenders' institution, which is the whole point of it.
+**Eat and drink:** **Noble Rot at 51** is a wine bar with a serious kitchen attached and needs booking; **Honey & Co at 54** does Middle Eastern cooking in a room with about twenty seats; **Redemption Roasters at 84b** roasts its coffee in a young offenders' institution, and that is its purpose.
 
 **Persephone Books** reprints forgotten twentieth-century women writers with grey covers and patterned endpapers, and **The Lamb** is a Victorian pub with the original etched snob screens still in place.
 
@@ -138,7 +138,7 @@ Store Street also has **Gay's the Word**, Britain's oldest LGBTQ+ bookshop, open
 
 A short run of antiquarian bookshops, print dealers and map sellers between the museum and Holborn — the last concentrated survival of the trade Bloomsbury was known for.
 
-**Browsing is free and expected.** These are specialist dealers rather than second-hand shops, so prices run from a few pounds for a loose print to four figures for a first edition, and nobody minds you looking at either.
+**Browsing is free and expected.** These are specialist dealers, not second-hand shops, so prices run from a few pounds for a loose print to four figures for a first edition, and nobody minds you looking at either.
 
 **Cocoro at 25 Coptic Street**, on the corner, is the neighbourhood Japanese and a considerably better lunch than the museum café.
 

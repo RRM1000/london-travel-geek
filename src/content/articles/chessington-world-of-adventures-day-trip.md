@@ -61,7 +61,7 @@ It is a park for families with children of about 3 to 12. Only one ride needs 1.
 
 ## Booking through GetYourGuide
 
-GetYourGuide sells Chessington's own <a href="https://www.getyourguide.com/activity/-t112474?partner_id=WWP7I0R&amp;cmp=chessington-world-of-adventures-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">day ticket</a>, issued by the resort, with **free cancellation up to 24 hours before**. For a family that wants to wait for a dry forecast before committing, that is the reason to book there. Under-90cm children are still free and collect their ticket at the gate.
+GetYourGuide sells Chessington's own <a href="https://www.getyourguide.com/activity/-t112474?partner_id=WWP7I0R&amp;cmp=chessington-world-of-adventures-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">day ticket</a>, issued by the resort, with **free cancellation up to 24 hours before**. For a family that wants to wait for a dry forecast before committing, that is the case for booking there. Under-90cm children are still free and collect their ticket at the gate.
 
 GetYourGuide sells no coach or transfer package from London, and with a train from Waterloo every half hour there is little need for one.
 

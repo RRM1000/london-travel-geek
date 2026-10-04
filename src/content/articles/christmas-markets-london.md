@@ -40,12 +40,12 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 
 ## The markets at a glance
 
-| Market | Where | 2026 dates | Price | The catch |
+| Market | Where | 2026 dates | Price | Watch out for |
 | --- | --- | --- | --- | --- |
 | **Southbank Centre Winter Market** | Queen's Walk, SE1 | Not yet announced (2025: 3 Nov – 4 Jan) | Free | Cash-free; closed Christmas Day and in 2025 on 31 Dec and 1 Jan |
 | **Trafalgar Square** | North Terrace, WC2 | Not yet announced | Free | Small: one row of chalets. The tree is only lit from 3 December |
 | **Leicester Square** | Leicester Square, WC2 | Not yet announced (2025: 1 Nov – 4 Jan) | Free; the rink is ticketed | Enclosed, and crowded in the evenings |
-| **Covent Garden** | The Piazza and Market Building, WC2 | Lights on 12 Nov 2026 | Free | No chalet market: the draw is the decorations and the everyday market halls |
+| **Covent Garden** | The Piazza and Market Building, WC2 | Lights on 12 Nov 2026 | Free | No chalet market: you get the decorations and the everyday market halls |
 | **Borough Market** | Southwark Street, SE1 | Daily from 30 Nov 2026 | Free | Closed 25–27 Dec and 1 Jan; shuts at 5pm |
 | **Winter by the River** | London Bridge City, SE1 | Not yet announced (2025: 13 Nov – 4 Jan) | Free; curling is paid | Closed Christmas Day |
 | **Winter Wonderland market** | Hyde Park, W2 | 19 Nov 2026 – 3 Jan 2027 | Entry ticket from £1 | Everyone needs a timed ticket, even just for the market |
@@ -75,7 +75,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 
 ### Trafalgar Square Christmas Market
 
-**A single row of wooden chalets on the North Terrace, directly in front of the National Gallery**, selling decorations, gifts, mulled wine and hot snacks. It is small, and the setting is the reason to go: the gallery portico behind, St Martin-in-the-Fields to one side and the Norway spruce below.
+**A single row of wooden chalets on the North Terrace, directly in front of the National Gallery**, selling decorations, gifts, mulled wine and hot snacks. It is small, and the setting is what you go for: the gallery portico behind, St Martin-in-the-Fields to one side and the Norway spruce below.
 
 - **Dates:** the market returns every year, opening in November and trading into early January. Its 2026 dates had not been announced by late September.
 - **The tree:** a Norway spruce given by the people of Oslo every year since 1947. It is lit on **Thursday 3 December 2026** and stays until just before Twelfth Night. From the lighting until Christmas, charity choirs sing carols in one-hour sessions at its base most evenings, free to stand and listen.
@@ -114,7 +114,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 
 ### Borough Market at Christmas
 
-**The market to buy Christmas food rather than eat it standing up**, though it does both: cheesemongers, butchers, bakers and wine merchants under a Victorian iron roof, with the hot-food stalls in between. Borough has published its 2026 festive hours.
+**The market to buy Christmas food, not eat it standing up**, though it does both: cheesemongers, butchers, bakers and wine merchants under a Victorian iron roof, with the hot-food stalls in between. Borough has published its 2026 festive hours.
 
 - **Daily from Monday 30 November 2026:** Monday to Friday **10am–5pm**, Saturday **9am–5pm**, Sunday **10am–4pm**. Outside December it is closed on Mondays.
 - **Exceptions:** Wednesday 23 December **10am–6pm**; Christmas Eve **8am–3pm**; **closed 25, 26 and 27 December**; 31 December **10am–3pm**; closed New Year's Day; normal hours from Saturday 2 January 2027.
@@ -180,7 +180,7 @@ The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&a
 
 ### Greenwich Market
 
-**A covered market of designer-makers, antiques dealers and food stalls, trading since 1737**, which dresses up for Christmas rather than turning into a Christmas market. It is the one to visit for gifts made by the person selling them, many under £15.
+**A covered market of designer-makers, antiques dealers and food stalls, trading since 1737**, which dresses up for Christmas without turning into a Christmas market. It is the one to visit for gifts made by the person selling them, many under £15.
 
 - **Open:** daily **10am–5.30pm**, all year, closed Christmas Day. Arts and crafts on Monday, Wednesday, Friday and weekends; antiques and collectables on Tuesday, Thursday and Friday.
 - **The Lantern Parade:** each November local schoolchildren carry lanterns from the Old Royal Naval College to the market, where the Christmas lights are switched on and the market stays open until 6pm. In 2025 it was Wednesday 19 November; the 2026 date is not yet announced.
@@ -245,7 +245,7 @@ It is shops rather than stalls, with no road closure and no carol singing, and i
 
 ## Year-round markets in December
 
-**Old Spitalfields**, **Camden** and **Canopy Market** at King's Cross trade all year and add Christmas to what is already there rather than building a Christmas market. In December 2025 Spitalfields ran Christmas editions of its Wednesday Urban Makers market and a children's treasure trail on top of its daily stalls. None of the three had published a 2026 Christmas programme by late September. Days, hours and what each is for are in our [best London markets](/articles/best-london-markets/) guide.
+**Old Spitalfields**, **Camden** and **Canopy Market** at King's Cross trade all year and add Christmas to what is already there without building a Christmas market. In December 2025 Spitalfields ran Christmas editions of its Wednesday Urban Makers market and a children's treasure trail on top of its daily stalls. None of the three had published a 2026 Christmas programme by late September. Days, hours and what each is for are in our [best London markets](/articles/best-london-markets/) guide.
 
 **Carrying on:** the [Christmas lights walk](/articles/christmas-lights-walk-london/) passes Covent Garden and ends at Trafalgar Square; [ice skating](/articles/ice-skating-london/) covers the rinks at Leicester Square, Battersea and Greenwich; and [Christmas shows and pantomimes](/articles/christmas-shows-london/) has the evening after the market.
 

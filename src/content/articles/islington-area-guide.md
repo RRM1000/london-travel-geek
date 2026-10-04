@@ -113,7 +113,7 @@ The **antiques trade** dates to the 1960s, when the market was founded by John P
 
 *Café tables in Camden Passage.*
 
-The **Camden Head** pub, at the Islington Green end, hosts **Angel Comedy Club** every night of the week — genuinely free entry, and well enough regarded that Time Out has called it a "comedy institution." Arrive early; it fills up.
+The **Camden Head** pub, at the Islington Green end, hosts **Angel Comedy Club** every night of the week — free entry, and well enough regarded that Time Out has called it a "comedy institution." Arrive early; it fills up.
 
 ### Upper Street
 The spine, running north to Highbury Corner. Restaurants, bars, the Almeida and the Little Angel puppet theatre.
@@ -191,7 +191,7 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 
 ## Where to stay
 
-Well connected, genuinely residential, and good value for somewhere this close to the centre.
+Well connected, residential, and good value for somewhere this close to the centre.
 
 - **Angel** — Mid-range hotels near the Tube, walkable to King's Cross and the City.
 - **Highbury** — Quieter and cheaper, on the Victoria line and Overground.

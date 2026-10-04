@@ -34,7 +34,7 @@ Most people get from Fitzrovia to Mayfair along Oxford Street, which is the wors
 
 **This route follows that chain north to south**, from Fitzroy Square to Green Park: eleven numbered stops, **5.6km, about 75 minutes of walking and three to four hours with stops**. Almost all of it is free.
 
-The catch is the calendar. **The Royal Academy is shut on Mondays, St George's Hanover Square on Saturdays, and two of the three Savile Row tailors below at weekends**, so the day you pick changes what you see.
+The drawback is the calendar. **The Royal Academy is shut on Mondays, St George's Hanover Square on Saturdays, and two of the three Savile Row tailors below at weekends**, so the day you pick changes what you see.
 
 For the rest of both areas, see the [Fitzrovia area guide](/articles/fitzrovia-area-guide/) and the [Mayfair area guide](/articles/mayfair-area-guide/).
 
@@ -99,7 +99,7 @@ Leave by Fitzroy Street, heading south.
 
 Fitzroy Street runs past the foot of the **BT Tower**, London's tallest building from 1964 to 1980 and closed to visitors for decades.
 
-**Charlotte Street** is the reason Fitzrovia is on anyone's list: the densest run of good restaurants in this part of London. The **Fitzroy Tavern**, where Orwell and Dylan Thomas drank, gave the area its name. At this hour it is a street to note for dinner rather than to stop in.
+**Charlotte Street** is why Fitzrovia is on anyone's list: the densest run of good restaurants in this part of London. The **Fitzroy Tavern**, where Orwell and Dylan Thomas drank, gave the area its name. At this hour it is a street to note for dinner rather than to stop in.
 
 > 💡 **The detour: the Fitzrovia Chapel.** Two minutes off the route on Pearson Square, the last surviving piece of the Middlesex Hospital, with a ceiling of gold mosaic behind a plain brick front. **Free, no booking**, and open most Mondays, Tuesdays and Wednesdays, 11am to 5pm, plus at least one Sunday a month. During exhibitions it usually opens daily.
 

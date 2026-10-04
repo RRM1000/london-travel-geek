@@ -35,7 +35,7 @@ This is also a category that churns hard. Since this guide was last written, fou
 *Every venue status-checked against its own website or booking system on 1 September 2026.*
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Age policies are the venues' own and matter here more than usual - several are family-friendly by day and over-18 after 5, 6 or 7pm. Check before booking with children.
+> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Age policies are the venues' own and count for more here than usual - several are family-friendly by day and over-18 after 5, 6 or 7pm. Check before booking with children.
 
 ## Where they are
 
@@ -73,7 +73,7 @@ A **1937 dining car built inside a railway arch**, with three courses and a murd
 
 The whole thing runs **two hours from the moment the doors open**, and the station is cleared within fifteen minutes of the train "arriving back". Actors work the carriage and you are expected to play along.
 
-**Price is where the group maths matters.** General admission is £88 plus a £4.90 fee, minimum two tickets. The Group Carriage is £66.25 a head for four and **£60 a head for six**, wine included and seats together — so arriving as a six costs a third less each than arriving as a pair. Under-5s are refused entry; 5- to 14-year-olds only at shows finishing by 8pm.
+**Group size changes the price.** General admission is £88 plus a £4.90 fee, minimum two tickets. The Group Carriage is £66.25 a head for four and **£60 a head for six**, wine included and seats together — so arriving as a six costs a third less each than arriving as a pair. Under-5s are refused entry; 5- to 14-year-olds only at shows finishing by 8pm.
 
 ### Bunga 90, Covent Garden
 
@@ -83,7 +83,7 @@ The old Bunga Bunga cabaret is gone. What replaced it in September 2025 is a **1
 
 The bookable game is karaoke: **three private soundproofed rooms on 90-minute slots**, seven days a week. There is also karaoke on the bar and in the loos, unbooked and included, which is the cheaper way in.
 
-**Walk-ins are welcome daily except Saturdays before 4pm** — genuinely unusual on this list, where nearly everything needs booking. **Groups of 21 or more** cannot book online at all and have to ring the venue to reserve a standing drinks area. Karaoke room rates are not published.
+**Walk-ins are welcome daily except Saturdays before 4pm** — unusual on this list, where nearly everything needs booking. **Groups of 21 or more** cannot book online at all and have to ring the venue to reserve a standing drinks area. Karaoke room rates are not published.
 
 ---
 
@@ -105,9 +105,9 @@ A session runs **90 minutes to two hours**, longer when busy. Minimum age is nin
 
 A foot race across the Square Mile run over WhatsApp, licensed from the series and operated by CityDays. You get clues, a virtual budget to spend on shortcuts, and three checkpoints with physical puzzles waiting at them. **No public transport is allowed** — the whole thing is on foot.
 
-It is the best route into the City on this list. The clues take you down alleys and into churchyards most people walk straight past, and it beats a walking tour because you are looking rather than following.
+It is the best route into the City on this list. The clues take you down alleys and into churchyards most people walk straight past, and it beats a walking tour because you are looking, not following.
 
-**Teams are two to eight people and play privately**, at £35 an adult — £70 for a pair, £280 for eight — with children aged 10 to 15 at £30, under-10s free alongside a paying adult, and **no booking fee**. Allow **two to three hours and about five kilometres of walking**. Tickets are released in batches rather than sold continuously, and autumn dates were showing as selling fast. A **West End route** is advertised but was taking waitlist sign-ups rather than bookings.
+**Teams are two to eight people and play privately**, at £35 an adult — £70 for a pair, £280 for eight — with children aged 10 to 15 at £30, under-10s free alongside a paying adult, and **no booking fee**. Allow **two to three hours and about five kilometres of walking**. Tickets are released in batches rather than sold continuously, and autumn dates were showing as selling fast. A **West End route** is advertised but was taking waitlist sign-ups, not bookings.
 
 ---
 
@@ -161,7 +161,7 @@ The polished one, and now the only one — the City site has gone. Crazy golf co
 
 *2nd floor, Market Place, 20–21 Leicester Square, WC2H 7JX · axes and darts · from £8 a head*
 
-The newest room here and the cheapest per hour if you go early. Four games — **axe throwing, interactive darts, shuffleboard and beer pong** — in a bar-led space on the second floor of the Market Place food hall, which means the food is whatever the hall is cooking rather than a fixed venue menu.
+The newest room here and the cheapest per hour if you go early. Four games — **axe throwing, interactive darts, shuffleboard and beer pong** — in a bar-led space on the second floor of the Market Place food hall, which means the food is whatever the hall is cooking, not a fixed venue menu.
 
 **It publishes a proper price list, which almost nothing else in this guide manages.** Axes are £12 per person per hour, **£8 off-peak**. Darts are £10 and £8. Shuffleboard is £20 an hour for the board, £18 off-peak. Beer pong is a flat £30 an hour, peak or not.
 
@@ -175,7 +175,7 @@ The one that is really a sports bar with games bolted on, and better for it if w
 
 **Walk-ins are welcome**, which sets it apart from nearly everything else here — booking is recommended rather than required, and you can turn up and take whatever is free.
 
-**Peak is from 5pm Wednesday to Friday and all day at weekends.** Under-18s are welcome until 7pm with a parent or guardian, and **it is 18-plus after 7pm** on physical government-approved ID. A **dress code applies from 7pm**: no tracksuit bottoms, sports shorts or gym wear, no hats, no work boots. Dogs are welcome until 8pm. Private spaces carry a minimum spend rather than a hire fee. Game prices are not published anywhere on the site.
+**Peak is from 5pm Wednesday to Friday and all day at weekends.** Under-18s are welcome until 7pm with a parent or guardian, and **it is 18-plus after 7pm** on physical government-approved ID. A **dress code applies from 7pm**: no tracksuit bottoms, sports shorts or gym wear, no hats, no work boots. Dogs are welcome until 8pm. Private spaces carry a minimum spend, not a hire fee. Game prices are not published anywhere on the site.
 
 ### Bounce, Battersea Power Station
 
@@ -187,13 +187,13 @@ It is straightforward ping pong with a bar round it, plus **Ping Pong X** — an
 
 Bottomless brunch is **£30 a head** for 90 minutes of endless pizza with Prosecco or beer and a live DJ, Saturdays and Sundays. Group packages including activity, food and drink start at **£20 a head with a minimum of six**.
 
-The catch is geography. Battersea Power Station is a Northern line extension trip and Bounce no longer has a central room to fall back on. Ignore the free Open Play page on the site — it still advertises the two closed venues.
+The drawback is geography. Battersea Power Station is a Northern line extension trip and Bounce no longer has a central room to fall back on. Ignore the free Open Play page on the site — it still advertises the two closed venues.
 
 ### Fairgame, Canary Wharf and the City
 
 *25–35 Fisherman's Walk, E14 4DH, and 1 New Change, EC4M 9AF · fairground games · 18+ always*
 
-Traditional fairground games rebuilt at scale and wired for scoring — Down-the-Clown, skeeball, water guns — with an RFID card that follows you round the room and tallies everything. Genuinely good rather than merely loud, and the scoring keeps a group moving instead of clustering at the bar.
+Traditional fairground games rebuilt at scale and wired for scoring — Down-the-Clown, skeeball, water guns — with an RFID card that follows you round the room and tallies everything. Good, not merely loud, and the scoring keeps a group moving instead of clustering at the bar.
 
 **This is the one that is adults-only at every hour it opens.** Fairgame is 18-plus all day, on Challenge 25, and it insists on **physical photo ID rather than a picture of one**. That rules it out for a family afternoon in a way nothing else here does.
 
@@ -213,7 +213,7 @@ Open **11am to 10pm Monday to Thursday, to 11pm on Friday and Saturday**, and fr
 
 *Oxford Street, Liverpool Street, Ealing and Wandsworth · bundles from £27.50*
 
-The chain version, and honestly the most interchangeable thing in this guide — augmented-reality axe throwing and darts, American pool, beer and prosecco pong, crazier golf, shuffleboard and BOOM BOX karaoke booths, repeated across four London sites.
+The chain version, and the most interchangeable thing in this guide — augmented-reality axe throwing and darts, American pool, beer and prosecco pong, crazier golf, shuffleboard and BOOM BOX karaoke booths, repeated across four London sites.
 
 Where it earns its place is hours and walk-ins. The Oxford Street room, opposite the Tottenham Court Road Elizabeth line entrance, runs **to 1am on both Friday and Saturday**, with Liverpool Street open to midnight, and **walk-ins are welcome** with booking only recommended. That makes it the reliable late fallback when a night has run long.
 
@@ -229,9 +229,9 @@ Where it earns its place is hours and walk-ins. The Oxford Street room, opposite
 
 *213–219 Camden High Street, NW1 7BT · free-roaming VR · from £19*
 
-Camden's VR basement, and the format that has quietly become worth doing. You walk through the space wearing the headset rather than sitting in a chair, which is why these last half an hour or more and still hold up.
+Camden's VR basement, and the format that has become worth doing. You walk through the space wearing the headset, not sitting in a chair, which is why these last half an hour or more and still hold up.
 
-Three experiences run in rotation. **Colosseum: The Legendary Arena** is 35 minutes from £19, following a ten-year-old Roman boy through first-century Rome. **Space Explorers: The ISS Experience** is 40 minutes from £25, built from 360-degree footage actually filmed aboard the International Space Station — you walk the modules rather than watch them. **Titanic: Echoes from the Past** is 30 minutes from £19.
+Three experiences run in rotation. **Colosseum: The Legendary Arena** is 35 minutes from £19, following a ten-year-old Roman boy through first-century Rome. **Space Explorers: The ISS Experience** is 40 minutes from £25, built from 360-degree footage actually filmed aboard the International Space Station — you walk the modules, not watch them. **Titanic: Echoes from the Past** is 30 minutes from £19.
 
 **All three are ages 8 and up**, which makes this the most child-friendly entry in the guide. The building is the problem: it is a basement reached by **two flights of stairs and is not wheelchair accessible**, which the venue states plainly. It holds up to 180 people across 465 square metres, so it is usually possible to book on the day.
 
@@ -251,7 +251,7 @@ A Prohibition saloon where you are cast as an outlaw and the barkeeps mix cockta
 
 Included because it is still on every list of things to do in Canary Wharf, and there is **nothing to book**.
 
-Illusionaries was three galleries of 360-degree projection and sound, built as a single 40-minute story rather than a set of separate rooms, and it was one of the better immersive spaces in London. **Both of its exhibitions, Latent Spaces and Entheon, have ended**, and no new show has been announced.
+Illusionaries was three galleries of 360-degree projection and sound, built as a single 40-minute story, not a set of separate rooms, and it was one of the better immersive spaces in London. **Both of its exhibitions, Latent Spaces and Entheon, have ended**, and no new show has been announced.
 
 There is no show, no date and no ticket, and anyone travelling to Crossrail Place on the strength of an old listing will find a dark room.
 
@@ -271,7 +271,7 @@ A basement bowling alley with an American diner attached, karaoke rooms and a pr
 
 **Lanes are booked by the hour, not by the head.** One lane takes up to six players and costs **£45 an hour Sunday to Tuesday until 5pm**, £55 an hour after 5pm on those days, and £65 an hour Wednesday to Saturday. Six people splitting an off-peak lane pay £7.50 each — under a third of what a Flight Club oche works out at once its group minimums are met.
 
-Karaoke rooms hold 8 to 30 people and run **£60 to £120 an hour, half price on Mondays, Tuesdays and Sundays**. The darts oche is £30 an hour and takes six solo players or twelve in pairs, on a real board with real darts rather than a screen.
+Karaoke rooms hold 8 to 30 people and run **£60 to £120 an hour, half price on Mondays, Tuesdays and Sundays**. The darts oche is £30 an hour and takes six solo players or twelve in pairs, on a real board with real darts, not a screen.
 
 **Walk-ins are £10 a person a game, but lanes are not held for them.** Students pay £6.50 a game Monday to Friday until 5pm, booked in advance by email with a student ID. Arrive 15 to 20 minutes early, and note there are no bumpers on the lanes.
 
@@ -333,10 +333,10 @@ This is not a cheap night out, and the pricing is deliberately opaque — most v
 * **The real spread is £6 to £57.69 a head for the game alone.** Bounce is £6, Rocket Room off-peak is £8, Flight Club and Electric Shuffle are £10, Fairgame Canary Wharf is £15, Swingers is £12 to £16, and THE CUBE is £48.65 to £57.69. That is a factor of nine for ninety minutes of the same basic evening.
 * **Book the earliest slot.** Almost every venue here is materially cheaper before 5pm on a weekday — Electric Shuffle drops from £13 to £10, Rocket Room from £12 to £8, Fairgame City from £25 to £22, Swingers from £16 to £12 — and the rooms, built for noise, are quieter then.
 * **Group rates beat individual rates, sharply.** The Murdér Express falls from £88 a head to £60 if you book as a six. Bloomsbury Lanes charges £45 for a lane of six off-peak, which is £7.50 each. Gravity's MAX3 pass is £28.50 for three activities that would cost £37.49 as karting, bowling and darts bought individually.
-* **The bar is where the cost goes.** Drinks are priced for a captive audience everywhere on this list. One session and then move on is both cheaper and, since the format is designed as a first act rather than a whole evening, more fun.
+* **The bar is where the cost goes.** Drinks are priced for a captive audience everywhere on this list. One session and then move on is both cheaper and, since the format is designed as a first act, not a whole evening, more fun.
 * **The free options are real.** King's Cross and Merchant Square both run free table tennis with no booking, and Swingers, Bat & Ball and Boom Battle Bar all let you in for food and drinks with no entry fee if you skip the game.
 
-> **Keep it to one activity.** The value drops sharply when you stack three, and the venues know it — the whole format works best as the opening ninety minutes of an evening rather than the evening itself.
+> **Keep it to one activity.** The value drops sharply when you stack three, and the venues know it — the whole format works best as the opening ninety minutes of an evening, not the evening itself.
 
 ---
 
@@ -345,7 +345,7 @@ This is not a cheap night out, and the pricing is deliberately opaque — most v
 * **Check the group minimum before the price.** Flight Club will not take fewer than six after 4pm from Wednesday to Saturday. Bounce, Electric Shuffle and Fairgame will take two, and Fairgame will take one.
 * **Check the group maximum too.** Online booking caps at 12 at Boom Battle Bar, 24 at Swingers, 32 at Electric Shuffle and 36 at Flight Club. Above those numbers you are dealing with an events team, a quote and usually a pre-order.
 * **The age cut-off is a different hour at every venue.** Flight Club is 18+ from 5pm, Swingers from 6pm, Bat & Ball and Boom Battle Bar from 7pm. Fairgame is 18+ all day. Rowans is **over-21s only** after 7pm on Friday and Saturday. Eclipso takes children from 8 and Mission: Breakout from 9.
-* **Walk-ins work at a handful of places and nowhere else.** Bat & Ball, Boom Battle Bar and Bunga 90 genuinely welcome them; Bloomsbury Lanes has a walk-in rate but will not hold a lane. Everywhere else, assume you need a booking Thursday to Saturday.
+* **Walk-ins work at a handful of places and nowhere else.** Bat & Ball, Boom Battle Bar and Bunga 90 welcome them; Bloomsbury Lanes has a walk-in rate but will not hold a lane. Everywhere else, assume you need a booking Thursday to Saturday.
 * **Sessions are shorter than an evening.** Ninety minutes at Flight Club, 75 at Fairgame Canary Wharf, 60 at Mission: Breakout, 30 to 40 minutes for nine holes at Swingers. Plan dinner separately.
 * **Axe throwing is 18+ everywhere, even where the venue is not.** Rocket Room and Boom Battle Bar both apply it at all hours, and both require closed-toe shoes.
 

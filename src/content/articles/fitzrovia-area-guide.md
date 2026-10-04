@@ -103,7 +103,7 @@ Fitzrovia has its own share of the commemorative plaques marking where notable p
 *The Fitzrovia Chapel's interior. Photo: [The wub](https://commons.wikimedia.org/w/index.php?curid=44693137), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 6. **All Saints, Margaret Street** — A Victorian Gothic church by William Butterfield, and one of the most intensely decorated interiors in London. Small, free, and easy to walk straight past.
 7. **Goodge Street** — The other eating street, and the more casual of the two.
-8. **The Wellcome Collection** — Technically on the Bloomsbury edge at Euston Road, free, and genuinely strange. Worth the ten-minute walk.
+8. **The Wellcome Collection** — Technically on the Bloomsbury edge at Euston Road, free, and strange. Worth the ten-minute walk.
 
 ## Key streets and micro-districts
 
@@ -115,14 +115,14 @@ Fitzrovia has its own share of the commemorative plaques marking where notable p
 
 The spine, and **the densest restaurant street in this part of London** — running most of its length, with pavement seating in summer that turns the whole road into an outdoor dining room.
 
-The [Charlotte Street Hotel](hotel:charlotte-street-hotel) sits at the southern end. The street's character is mid-priced and independent rather than either cheap or grand, which is unusual this close to Oxford Street.
+The [Charlotte Street Hotel](hotel:charlotte-street-hotel) sits at the southern end. The street's character is mid-priced and independent, not either cheap or grand, which is unusual this close to Oxford Street.
 
 **Book for the evening.** It fills from about 7pm and the outside tables in summer go first and are rarely bookable — those are first come, first served.
 
 <div data-stay-strip></div>
 
 ### Goodge Street
-Running east to west across the middle of Fitzrovia, and **the lunch street rather than the dinner one** — counters, cafés, sandwich places and takeaway, serving the offices around it.
+Running east to west across the middle of Fitzrovia, and **the lunch street, not the dinner one** — counters, cafés, sandwich places and takeaway, serving the offices around it.
 
 That makes it busy and good value between noon and 2pm, and noticeably quiet in the evening when Charlotte Street one block west is full.
 
@@ -138,7 +138,7 @@ Quiet Georgian streets between the square and Euston Road, almost entirely resid
 
 The blue plaques around it are unusually thick on the ground: Virginia Woolf, George Bernard Shaw and Ford Madox Brown all lived on the square.
 
-**A five-minute detour and free.** The square is pedestrianised, so it is one of the few genuinely quiet places to stand within a few minutes of Oxford Street.
+**A five-minute detour and free.** The square is pedestrianised, so it is one of the few quiet places to stand within a few minutes of Oxford Street.
 
 ### Rathbone Place and Newman Street
 
@@ -148,7 +148,7 @@ The blue plaques around it are unusually thick on the ground: Virginia Woolf, Ge
 
 The southern edge, running down to Oxford Street, and **increasingly where the newer openings land** — the rents are lower than Soho a few streets south, and the crossover crowd is the same.
 
-It is a working stretch rather than a pretty one: offices, hotels and a run of restaurants that changes faster than the rest of Fitzrovia.
+It is a working stretch, not a pretty one: offices, hotels and a run of restaurants that changes faster than the rest of Fitzrovia.
 
 **Tottenham Court Road station is at the bottom**, which makes this the fastest approach from the Elizabeth line.
 
@@ -175,8 +175,8 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 | **Berners Tavern** | Modern British | ££££ | A vast Edwardian ballroom hung floor to ceiling with pictures |
 | **Sushi Atelier** | Sushi counter | £££ | The best-value serious omakase in central London |
 | **Khao So-i** | Northern Thai | £££ | Built around the coconut curry noodle it is named after |
-| **Cometa** | Mexican seafood | £££ | Tostadas, ceviche and aguachile rather than a meat-led menu |
-| **Motorino** | London-Italian | £££ | Luke Ahearne and Stevie Parle; the distinction in the name is the point |
+| **Cometa** | Mexican seafood | £££ | Tostadas, ceviche and aguachile, not a meat-led menu |
+| **Motorino** | London-Italian | £££ | Luke Ahearne and Stevie Parle; the name spells out the distinction |
 | **Rovi** | Vegetable-led | £££ | The Ottolenghi group's fermentation-and-fire room |
 | **Salt Yard** | Spanish-Italian tapas | £££ | Courgette flowers with goat's cheese and honey; one of the originals |
 | **Meraki** | Modern Greek | £££ | From the Roka and Zuma group, at that group's volume |

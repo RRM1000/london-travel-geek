@@ -38,7 +38,7 @@ London's outdoor rinks go up in the first three weeks of November and come down 
 
 ## The rinks at a glance
 
-| Rink | Where | 2026-27 dates | Adult price | The catch |
+| Rink | Where | 2026-27 dates | Adult price | Watch out for |
 | --- | --- | --- | --- | --- |
 | **Somerset House** | Strand, WC2 | 11 Nov – 10 Jan | £13–£28.50 + £1.50 fee | Prices vary by session; book early for the lowest |
 | **Hampton Court Palace** | East Molesey, Surrey | 20 Nov – 3 Jan | £19.50 off-peak, £21.50 peak | 35 minutes by train from Waterloo |
@@ -70,7 +70,7 @@ Every outdoor rink skates in the rain, and none refunds for bad weather unless t
 
 **Getting there:** Temple station is 2 minutes' walk; Covent Garden, Charing Cross and Embankment are about 8.
 
-**The one thing that decides it:** a small number of tickets for each session are held back for the box office in Seamen's Hall and sold from opening until noon, up to six per person, so a sold-out day is not always lost. Somerset House is **cashless**, and bags must go in the cloakroom: the first item is free and each one after is £2. Exchanges cost £4.50 a ticket and close 48 hours before the session.
+**Sold out online?** A small number of tickets for each session are held back for the box office in Seamen's Hall and sold from opening until noon, up to six per person, so a sold-out day is not always lost. Somerset House is **cashless**, and bags must go in the cloakroom: the first item is free and each one after is £2. Exchanges cost £4.50 a ticket and close 48 hours before the session.
 
 ---
 
@@ -104,7 +104,7 @@ Groups of ten or more get a further discount. Bookings are open at [hamptoncourt
 
 The palace itself, from the Tudor kitchens to the maze, is in our [Hampton Court Palace guide](/articles/hampton-court-palace-guide/).
 
-**The one thing that decides it:** it is the only rink here outside central London, so allow half a day. The rink ticket does not get you into the palace, whose own Christmas walkthrough, The Winter Palace, needs palace admission (see [Christmas in London](/articles/christmas-in-london/)). The site is **cashless**.
+**Getting there:** it is the only rink here outside central London, so allow half a day. The rink ticket does not get you into the palace, whose own Christmas walkthrough, The Winter Palace, needs palace admission (see [Christmas in London](/articles/christmas-in-london/)). The site is **cashless**.
 
 ---
 
@@ -126,7 +126,7 @@ The palace itself, from the Tudor kitchens to the maze, is in our [Hampton Court
 
 **Getting there:** Battersea Power Station station on the Northern line (Charing Cross branch) is a short walk; Uber Boat stops at Battersea Power Station Pier, five minutes away.
 
-**The one thing that decides it:** the box office sells on the day, sometimes at a higher price, but when a session has **sold out online there is nothing left at the door**. Cloakroom £2 for small items, £4 for large.
+**At the door:** the box office sells on the day, sometimes at a higher price, but when a session has **sold out online there is nothing left at the door**. Cloakroom £2 for small items, £4 for large.
 
 ---
 
@@ -153,7 +153,7 @@ The palace itself, from the Tudor kitchens to the maze, is in our [Hampton Court
 
 **Getting there:** Greenwich and Maze Hill stations are each about 10 minutes' walk, and Greenwich Pier is a few minutes for the Uber Boat. The [Greenwich area guide](/articles/greenwich-area-guide/) covers the rest of the day.
 
-**The one thing that decides it:** it runs more discounted sessions than any other rink here, and the kids-skate-free Tuesdays make it the cheapest for a family before Christmas. The site is cashless; cloakroom £2 an item.
+**For families:** it runs more discounted sessions than any other rink here, and the kids-skate-free Tuesdays make it the cheapest for a family before Christmas. The site is cashless; cloakroom £2 an item.
 
 ---
 
@@ -171,7 +171,7 @@ The palace itself, from the Tudor kitchens to the maze, is in our [Hampton Court
 | Child | £9.35 | £11.55 | £13.75 |
 | Family | £37.40 | £46.20 | £55.00 |
 
-**The catch is the entry ticket.** Everyone needs one to get through the gate, £1 off-peak to £8.25 peak in advance, unless you spend £25 online in one transaction, which makes entry free. The pricing band follows your entry slot, so an off-peak weekday puts the rink into off-peak pricing too. Age 3 and up; bags go in a compulsory £2 cloakroom. Blue Gate, by Hyde Park Corner station, is nearest the rink.
+**You need an entry ticket.** Everyone needs one to get through the gate, £1 off-peak to £8.25 peak in advance, unless you spend £25 online in one transaction, which makes entry free. The pricing band follows your entry slot, so an off-peak weekday puts the rink into off-peak pricing too. Age 3 and up; bags go in a compulsory £2 cloakroom. Blue Gate, by Hyde Park Corner station, is nearest the rink.
 
 Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide](/articles/hyde-park-winter-wonderland/)**.
 
@@ -191,7 +191,7 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 
 **Getting there:** Alexandra Palace station (Great Northern, from Moorgate and King's Cross), then a steep walk up through the park, or the W3 bus from Wood Green. Book at [alexandrapalace.com](https://www.alexandrapalace.com/the-ice-rink/book-a-skate/).
 
-**The one thing that decides it:** it is indoors, so no wet ice and no rain, and it is the cheapest skate in this guide.
+**Indoors:** no wet ice and no rain, and it is the cheapest skate in this guide.
 
 ---
 
@@ -226,7 +226,7 @@ The outdoor rinks all close in early January. From then until November, skate in
 ## Related guides
 
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)**: the markets, light trails, grottos and what has stopped running
-- 🛍️ **[Christmas markets in London](/articles/christmas-markets-london/)**: dates, prices and the catch at each market
+- 🛍️ **[Christmas markets in London](/articles/christmas-markets-london/)**: dates, prices and restrictions at each market
 - 🎡 **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)**: every price, gate and quiet time
 - ✨ **[Christmas lights walk](/articles/christmas-lights-walk-london/)**: Oxford Street to Trafalgar Square in ten stops
 - 🍽️ **[Christmas Day restaurants](/articles/christmas-day-restaurants-london/)**: where to eat on the 25th
