@@ -74,7 +74,7 @@ It carried on making history rather than just holding onto it: in 1951 it became
 
 **London's oldest purpose-built cinema**, opened on **27 February 1911** with **564 seats**. The first thing shown on the screen was a twenty-minute silent film of Henry VIII starring Sir Herbert Tree — **a film now lost, with no known copy anywhere**.
 
-It is older than the Phoenix, and it has been closed and reopened so many times that the Phoenix keeps the "continuously operating" title. The real sequence is worth knowing, because most guides compress it into "closed twice":
+It is older than the Phoenix, and it has been closed and reopened so many times that the Phoenix keeps the "continuously operating" title. The sequence:
 
 * Became the **Imperial Playhouse** in 1919, and by the 1960s was the local fleapit.
 * Reborn in the 1970s as the Electric Cinema Club, west London's answer to the National Film Theatre.
@@ -211,7 +211,7 @@ Three screens split between the Centre itself and Beech Street, seating 288, 156
 
 The Barbican runs one of the most ambitious repertory programmes in London, **tagging the 35mm prints in its listings** — rarer than it should be, and it means you can filter for film rather than digital before booking.
 
-**Mondays are £6.50**, and there are pay-what-you-can screenings alongside a members' series most guides never mention.
+**Mondays are £6.50**, and there are pay-what-you-can screenings alongside a members' series.
 
 > ⚠️ **The three screens are in two different buildings.** Cinema 1 is inside the Centre; Cinemas 2 and 3 are on Beech Street, a few minutes away through the estate. Check which is on your ticket, because finding the second pair from the first is not quick.
 

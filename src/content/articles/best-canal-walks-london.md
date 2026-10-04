@@ -190,7 +190,7 @@ See our [Paddington guide](/articles/paddington-area-guide/).
 
 ## The two tunnels, and what to do about them
 
-Both have **no towpath**. This is the single most useful thing to know before setting out, and most guides do not mention it.
+Both have **no towpath**.
 
 | Tunnel | Length | What walkers do |
 | --- | --- | --- |

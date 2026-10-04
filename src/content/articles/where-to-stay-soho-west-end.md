@@ -198,7 +198,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 **[The Grafton Arms](hotel:the-grafton-arms)** is about £150 for one of eleven boutique rooms above a Fitzrovia pub on Grafton Way, with a roof terrace and a pan-Asian kitchen downstairs. It is a pub building, so **there is no lift** and you will hear the bar at weekends — that is the trade for £150 in W1.
 
-**[Sanderson London](hotel:sanderson-london)** is about £280 on Berners Street: Philippe Starck's interior of drifting curtains and surrealist furniture, the eighty-foot Long Bar, a courtyard garden and the Mad Hatters afternoon tea. It now trades under the **Morgans Originals** name, so some booking sites and older guides still file it under the old branding.
+**[Sanderson London](hotel:sanderson-london)** is about £280 on Berners Street: Philippe Starck's interior of drifting curtains and surrealist furniture, the eighty-foot Long Bar, a courtyard garden and the Mad Hatters afternoon tea. It now trades under the **Morgans Originals** name, so some booking sites still file it under the old branding.
 
 <div class="photo-row">
 

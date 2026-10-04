@@ -329,7 +329,7 @@ William Thacker's flat, and the most photographed doorway in west London. Screen
 
 ![The Notting Hill Bookshop on Blenheim Crescent, a navy and red shopfront with visitors gathered outside](../../assets/articles/london-filming-locations/notting-hill-bookshop-blenheim.jpg)
 
-Most guides merge these two addresses into one shop. They are ten minutes apart and they are different things: **Portobello Road is where the camera was, Blenheim Crescent is where the idea came from.** Visit both — they are a short walk apart and the second one will actually sell you a book.
+These are two addresses, ten minutes apart, and they are different things: **Portobello Road is where the camera was, Blenheim Crescent is where the idea came from.** Visit both — they are a short walk apart and the second one will actually sell you a book.
 
 ### Rosmead Garden — Rosmead Road
 

@@ -171,7 +171,7 @@ The thing almost nobody mentions: **there are paid walk-in slots** at management
 
 A roughly 240-degree sweep from the fiftieth floor, strongest to the west and south — so you are looking back over the West End and the river rather than at the City cluster you are standing in.
 
-> ⚠️ **This does need booking**, contrary to what a lot of guides say. Free tickets release **every other Monday**, up to two weeks ahead, through booking.8bishopsgate.com. The operator does not publish the 45-minute slot length quoted elsewhere.
+> ⚠️ **This does need booking.** Free tickets release **every other Monday**, up to two weeks ahead, through booking.8bishopsgate.com. The operator does not publish the 45-minute slot length quoted elsewhere.
 
 Worth the effort for one reason: **Mondays and Fridays it runs to 9pm**, against 5.30pm midweek. That makes it the only free City viewpoint that reliably catches a summer sunset on a weekday — Sky Garden and Horizon 22 both shut at 6pm on weekdays, and The Garden at 120 depends on the weather. If you only get one free evening in the City, make it a Monday or a Friday and come here.
 
@@ -201,7 +201,7 @@ Be clear about what that buys you. It is no longer the highest public view in Lo
 
 *No admission fee · level 31 · bar 12pm–midnight, to 1am Fri–Sat*
 
-**The tip most guides leave out.** Level 31 of the same building, no entry charge at all, and a three-storey atrium window looking north over the river to the City. You are buying a drink rather than admission.
+**No ticket needed.** Level 31 of the same building, no entry charge at all, and a three-storey atrium window looking north over the river to the City. You are buying a drink rather than admission.
 
 Now with a number attached: signature cocktails on their own current bar menu run **£18 to £21**, with non-alcoholic ones at £12 and a 15% service charge on top. One of those is genuinely less than a viewing-gallery ticket, and you get a seat, a table and two-thirds of the height for it.
 
@@ -255,7 +255,7 @@ A glass lift that rises **109 metres up inside the north-west chimney** of Batte
 
 The hours are **10am–6pm Monday to Wednesday and Sunday, 10am–8pm Thursday to Saturday**.
 
-**Renamed from Lift 109** — older guides and the signage still use the old name.
+**Renamed from Lift 109** — the signage still uses the old name.
 
 ### Up at The O2, Greenwich
 
@@ -291,7 +291,7 @@ The gallery sits **210 feet above Victoria Street** and looks straight down it t
 
 **Tickets are bought in person at the Cathedral Shop**, open **10.30am to 4.30pm, Wednesday to Sunday** — there is no online booking for the tower, so the shop's hours are the tower's hours.
 
-> 💡 **The price is now settled: £10 adult**, £5 concession, £22 family. Older listings showing £6 or around £9 were both wrong. Note the cathedral now calls it **The Campanile**, and there is no longer a standalone tower page on its site — the details sit under Tours.
+> 💡 **The price is now settled: £10 adult**, £5 concession, £22 family. Note the cathedral now calls it **The Campanile**, and there is no longer a standalone tower page on its site — the details sit under Tours.
 
 ---
 
@@ -375,7 +375,7 @@ The terrace has just been rebuilt rather than left to decay: the £12m **Greenwi
 
 **The best genuinely little-known viewpoint in London.** A full protected panorama with an orientation board and a Battle of Britain memorial, on open heath at the top of the hill — and almost nobody goes, because it is on the wrong side of Greenwich Park for the tourist route.
 
-The detail no other guide will give you: **Tower Bridge sits between St Paul's and the City cluster, and the dome of the Old Bailey is just visible to the right of the cathedral's peristyle.**
+**Tower Bridge sits between St Paul's and the City cluster, and the dome of the Old Bailey is just visible to the right of the cathedral's peristyle.**
 
 **It is unfenced heath rather than a park**, which is the practical advantage over the Wolfe statue a few hundred metres downhill — no gates, so no dusk closing. If Greenwich Park has shut for the evening, this is the version of the same view that has not. Blackheath station is the nearer of the two, though the walk up from Greenwich through the park is the better approach while the gates are open.
 
@@ -433,7 +433,7 @@ The framework lists both halves. Upstream: the **Palace of Westminster**, the Ab
 
 The **Tower of London**, **Tower Bridge** and **HMS Belfast** lined up downstream, with Canary Wharf beyond them.
 
-The official tip is more precise than most guides bother to be. The framework sets a specific assessment point — 11B.2 — **close to the Southwark bank**, and says explicitly that this is where the best view of the Tower of London is. Walk to the middle of the bridge, which is what everyone does, and the composition is worse.
+The framework sets a specific assessment point — 11B.2 — **close to the Southwark bank**, and says explicitly that this is where the best view of the Tower of London is. Walk to the middle of the bridge, which is what everyone does, and the composition is worse.
 
 Free, open always, and a two-minute walk from London Bridge station, which puts you on the correct end of it. Worth pairing with Southwark Bridge, three minutes upstream, since the two give you opposite halves of the same stretch of river.
 

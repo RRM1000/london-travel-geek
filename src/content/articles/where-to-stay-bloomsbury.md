@@ -140,7 +140,7 @@ A full block down the eastern side of Russell Square, interiors by Tara Bernerd 
 
 *Arcus, on The Imperial's tenth floor.*
 
-**Most guides to this hotel describe a building that no longer exists.** The Imperial spent years as a plain three-star option on Russell Square — patterned carpets, no design ambition, cheap because it looked it — and every source written before 2026 still says so. The operator's own site opens with "we begin our Third Chapter": a full relaunch into 357 mid-century-modern rooms across nine new grades, from an entry Access room up to a 57 sq m Beacon suite and a two-bedroom Bloomsbury Beacon suite with panoramic views over the square.
+**The Imperial has been relaunched.** It spent years as a plain three-star option on Russell Square — patterned carpets, no design ambition, cheap because it looked it. The operator's own site opens with "we begin our Third Chapter": a full relaunch into 357 mid-century-modern rooms across nine new grades, from an entry Access room up to a 57 sq m Beacon suite and a two-bedroom Bloomsbury Beacon suite with panoramic views over the square.
 
 **The new rooftop is the reason to know about this one.** Arcus, a 324-seat bar and restaurant on the tenth floor themed around London's weather, opened as part of the relaunch, alongside Edit Bar & Lounge downstairs. The Imperial is part of the Imperial London Hotels group, which also runs the Bedford, Morton, President, City Sleeper and Tavistock hotels around the same square — the Tavistock is the group's budget end, and one of the more independently attested cheap beds on this list.
 

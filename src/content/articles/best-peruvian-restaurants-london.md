@@ -1,7 +1,7 @@
 ---
 title: "The Best Peruvian Restaurants in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Peruvian Restaurants London 2026, Ranked"
-description: "Peruvian London is three scenes, not one: Nikkei counters, criollo kitchens and ceviche-and-pisco bars. Thirteen independent sources, and the split the other lists never make."
+description: "Peruvian London is three scenes, not one: Nikkei counters, criollo kitchens and ceviche-and-pisco bars, from thirteen independent sources."
 heroImage: "../../assets/articles/best-peruvian-restaurants-london/lima-dining-room.jpg"
 heroImageAlt: "A Peruvian dining room hung with a dense ceiling installation of pink, blue and cream threads, with terracotta pendant lamps and woven rattan chairs below"
 publishedAt: 2026-09-22
@@ -344,7 +344,7 @@ Named traders only — the halls themselves are not the recommendation.
 
 ## Elephant and Castle, Brixton and Peckham
 
-London's Peruvian population grew out of the Latin American migration of the 1970s and 1980s into **Lambeth, Southwark and Elephant and Castle**, and the cooking that came with it is criollo, not Nikkei. No competitor list treats this as a section, and the demolition of the Elephant and Castle shopping centre scattered the traders that most guides were pointing at.
+London's Peruvian population grew out of the Latin American migration of the 1970s and 1980s into **Lambeth, Southwark and Elephant and Castle**, and the cooking that came with it is criollo, not Nikkei. The demolition of the Elephant and Castle shopping centre scattered its traders.
 
 **Castle Square**, the market at 40 Elephant Road that rehoused the centre's traders, is where people go looking. Its six food and drink traders are Colombian, Ecuadorian, Guyanese and Caribbean — **Coma y Beba**, **El Guambra**, **Kaieteur Kitchen**, **Original Caribbean Spice**, **Daddy O's** and **AA Grocery**. Excellent, and none of it Peruvian.
 
@@ -356,7 +356,7 @@ The Peruvian cooking is five minutes south, at **Sabor Peruano** on Newington Bu
 
 **Lima** opened a second site on Sun Street in Shoreditch, running the Fitzrovia menu with a bigger bar. **Bamboo Mat** moved from Leyton to a larger East Village room in 2023. **Darkest Peru** in Hoxton is the newest format rather than the newest room — nobody had opened a Peruvian café in London before it. And **Piscos Dalston** on Stoke Newington Road has not reached a published list at all yet.
 
-Two of the names still carried by other guides have closed. **Pachamama**, the Marylebone restaurant that five of the thirteen sources here name, is no longer trading; its group now runs four non-Peruvian restaurants instead. **Chicama**, its King's Road seafood sibling, has closed too. If a list sends you to either, it has not been checked since.
+Two of the names in the sources have closed. **Pachamama**, the Marylebone restaurant that five of the thirteen sources here name, is no longer trading; its group now runs four non-Peruvian restaurants instead. **Chicama**, its King's Road seafood sibling, has closed too. If a list sends you to either, it has not been checked since.
 
 ---
 

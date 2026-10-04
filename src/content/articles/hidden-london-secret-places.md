@@ -125,7 +125,7 @@ Two of the best things under London, and neither is something you can wander int
 
 ### Kingsway Tram Tunnel, Holborn
 
-Opened in 1906 by the London County Council, this ran trams under Kingsway from Holborn down to the Embankment, linking the north and south London tram networks, and closed in 1952. More than half of it survives, along with the remains of a subterranean tram station. The tour takes you down through the gate on the street into a wet, uneven, sixty-minute walk under the road. **Tickets are £49 adult and £45 concession plus a £1.50 booking fee — not the £18 still circulating on other lists.** Dates are released in batches rather than to a timetable, and the museum runs a notification list for each release. **Age 14 and over, photo ID required at the gate, and flat sturdy shoes** — sandals and heels are refused. No toilets, no cloakroom. Meet at Theobalds Road and Southampton Row, WC1B 4AP.
+Opened in 1906 by the London County Council, this ran trams under Kingsway from Holborn down to the Embankment, linking the north and south London tram networks, and closed in 1952. More than half of it survives, along with the remains of a subterranean tram station. The tour takes you down through the gate on the street into a wet, uneven, sixty-minute walk under the road. **Tickets are £49 adult and £45 concession plus a £1.50 booking fee.** Dates are released in batches rather than to a timetable, and the museum runs a notification list for each release. **Age 14 and over, photo ID required at the gate, and flat sturdy shoes** — sandals and heels are refused. No toilets, no cloakroom. Meet at Theobalds Road and Southampton Row, WC1B 4AP.
 
 ### Clapham South Deep Shelter
 
@@ -139,7 +139,7 @@ All of these are worth an hour. None of them is a secret. What matters here is t
 
 ### St Dunstan in the East
 
-A church stood here from about 1100. It burned in the Great Fire, Wren rebuilt it, the Blitz gutted it in 1941, and the City decided not to rebuild — in 1967 it chose to turn the shell into a garden, which opened in 1970. The tower and steeple survived and still stand. Inside the roofless nave there are climbing plants through the window tracery, a small fountain, benches and a canopy of trees where the ceiling was. It is free and needs no ticket. **There are no published opening hours.** The 8am-to-7pm figure repeated across other sites does not come from the City of London Corporation, which runs the garden; in practice the gates stand open through the day and shut around dusk. **It is not hidden. It is one of the most photographed places in the City.** Come before 9am, or on a Sunday.
+A church stood here from about 1100. It burned in the Great Fire, Wren rebuilt it, the Blitz gutted it in 1941, and the City decided not to rebuild — in 1967 it chose to turn the shell into a garden, which opened in 1970. The tower and steeple survived and still stand. Inside the roofless nave there are climbing plants through the window tracery, a small fountain, benches and a canopy of trees where the ceiling was. It is free and needs no ticket. **There are no published opening hours.** The City of London Corporation runs the garden; in practice the gates stand open through the day and shut around dusk. **It is not hidden. It is one of the most photographed places in the City.** Come before 9am, or on a Sunday.
 
 ![The empty gothic window arches of St Dunstan in the East, overgrown with ivy and open to the sky](../../assets/articles/hidden-london-secret-places/st-dunstan-in-the-east.jpg)
 
@@ -201,7 +201,7 @@ Postman's Park, St Dunstan in the East, Leadenhall Market, Colville Place, Neal'
 ## What to know
 
 * **The Rolling Bridge and the Fan Bridge are both out of action.** Do not plan a morning around either. Their published lift times are still all over the internet.
-* **Sir John Soane's Museum is free and unbookable.** Plenty of guides say otherwise. Just turn up, Wednesday to Sunday.
+* **Sir John Soane's Museum is free and unbookable.** Just turn up, Wednesday to Sunday.
 * **The tunnel tours are £39 and £49, not £18 and £22.** They also release tickets in batches, so check whether anything is on sale before you plan around them.
 * **The Silver Vaults shut at 12.50pm on Saturday and all day Sunday,** and the entrance is on Southampton Buildings.
 * **The Fitzrovia Chapel opens three days a week.** Mondays to Wednesdays, 11am to 5pm, plus a monthly Sunday.

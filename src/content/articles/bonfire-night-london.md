@@ -35,7 +35,7 @@ heroImageAlt: "A large red firework bursting in the night sky at the Alexandra P
 
 Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow. So if you climb a hill on Bonfire Night expecting a skyline full of rockets, you will mostly see other people's back gardens.
 
-This guide lists every display you can buy a ticket for, the one that is still free, which famous ones no longer run at all, and — the part most guides get wrong — the free viewpoints that are actually open after dark.
+This guide lists every display you can buy a ticket for, the one that is still free, which famous ones no longer run at all, and the free viewpoints that are actually open after dark.
 
 > 💡 **The Short Version:** The real night is **Saturday 7 November**. **Alexandra Palace** and **Battersea Park** are both on sale and both sell out. Richmond's early-bird prices end on **30 September**, and Bromley High goes on sale on **28 September**. The only genuinely free display is **Coram's Fields** on the 5th, where adults must bring a child. For a free view, **Parliament Hill** has no gates and never closes — while **Greenwich Park shuts at 6pm**, before anything starts.
 
@@ -187,7 +187,7 @@ Tickets are sold through the [club's online shop](https://www.chiswickrugby.co.u
 
 ## Watching for free, without a ticket
 
-This is where most guides fail, because they recommend viewpoints that are **locked before the fireworks start**. Displays are at 7pm or 8pm, and several of the famous hills shut their gates at 4.30pm or 5pm.
+Some of the best-known viewpoints are **locked before the fireworks start**. Displays are at 7pm or 8pm, and several of the famous hills shut their gates at 4.30pm or 5pm.
 
 | Viewpoint | November gates | Any good? |
 | --- | --- | --- |

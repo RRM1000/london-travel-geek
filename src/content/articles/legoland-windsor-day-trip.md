@@ -185,7 +185,7 @@ For under-fives, **DUPLO Valley** has the gentlest rides: the DUPLO Express trai
 | **Gold** | From £75 | Unlimited Fastrack all day |
 | One Shot | Varies | One ride, while they last |
 
-Fastrack does not include park entry. Each ticket is for one person, has no time slots, and scans once every three minutes; numbers are limited, so book ahead for a busy day. It replaced the older Reserve & Ride system, which some guides still describe.
+Fastrack does not include park entry. Each ticket is for one person, has no time slots, and scans once every three minutes; numbers are limited, so book ahead for a busy day. It replaced the older Reserve & Ride system.
 
 **Ride Access Pass** is LEGOLAND's queueing help for disabled guests, pre-booked through its app. LEGOLAND says it will move to virtual queuing from the end of 2026, with the same eligibility.
 

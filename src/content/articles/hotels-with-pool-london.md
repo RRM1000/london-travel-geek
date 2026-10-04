@@ -282,13 +282,13 @@ Corinthia is on 11 of the pool lists, and its spa, Biome, has **two vitality poo
 
 *Marylebone · Station: Marylebone · Vitality pool · Cited by 5 sources · [Hotels.com](hotel:the-landmark-london)*
 
-The Landmark's relaunched spa lists its facilities as a Finnish sauna, an aromatic steam room, **a vitality pool**, a 24-hour gym and five treatment rooms, and gives **children's hours of 9 to 11am and 3 to 5pm** within spa hours of 7am to 9.30pm. Older guides describe a 15-metre chlorine-free pool here; the hotel's own spa page now names a vitality pool. The hotel faces Marylebone station, and breakfast is served under the palms of its glass-roofed Winter Garden. The one thing that decides a booking: it is a warm pool for a family soak, not for lengths.
+The Landmark's relaunched spa lists its facilities as a Finnish sauna, an aromatic steam room, **a vitality pool**, a 24-hour gym and five treatment rooms, and gives **children's hours of 9 to 11am and 3 to 5pm** within spa hours of 7am to 9.30pm. The hotel faces Marylebone station, and breakfast is served under the palms of its glass-roofed Winter Garden. The one thing that decides a booking: it is a warm pool for a family soak, not for lengths.
 
 ### St Pancras London, Autograph Collection
 
 *King's Cross · Station: King's Cross St Pancras · Relaxation pool with hydro loungers · Cited by 5 sources · [Hotels.com](hotelscom:360456)*
 
-The spa, in the Victorian steam kitchens of the old Midland Grand, has a softly lit **relaxation pool with hydro loungers**, which the hotel also calls a hydrotherapy pool, plus a sauna, a steam room and six treatment rooms. Non-residents buy spa day passes of about four hours. The hotel was renamed from St Pancras Renaissance in 2025, and several lists still use the old name. The one thing that decides a booking: stay for the building and the Eurostar, not for a swim.
+The spa, in the Victorian steam kitchens of the old Midland Grand, has a softly lit **relaxation pool with hydro loungers**, which the hotel also calls a hydrotherapy pool, plus a sauna, a steam room and six treatment rooms. Non-residents buy spa day passes of about four hours. The hotel was renamed from St Pancras Renaissance in 2025. The one thing that decides a booking: stay for the building and the Eurostar, not for a swim.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hotels-with-pool-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

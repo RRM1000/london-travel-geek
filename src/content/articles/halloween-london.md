@@ -20,7 +20,7 @@ faq:
   - q: "When is Halloween 2026 and does it fall on a weekend?"
     a: "Halloween 2026 is Saturday 31 October — the best possible night for it. Club nights, parties and one-off events will be at full strength and the popular ones will sell out earlier than in years when it lands midweek."
   - q: "Where can you hire a Halloween costume in London?"
-    a: "Two places will genuinely hire to a member of the public: Prangsta Costumiers in New Cross, which is appointment-only and charges £130–£350 plus VAT for a full costume with a £300 deposit, and Costume Studio in Islington, which takes walk-ins and is happy to do a single costume. Angels on Shaftesbury Avenue, the shop most guides still send people to, closed in 2014."
+    a: "Two places will genuinely hire to a member of the public: Prangsta Costumiers in New Cross, which is appointment-only and charges £130–£350 plus VAT for a full costume with a £300 deposit, and Costume Studio in Islington, which takes walk-ins and is happy to do a single costume. Angels on Shaftesbury Avenue closed in 2014."
   - q: "Is the London Dungeon worth it for Halloween?"
     a: "Its Halloween show, Curse of the Mummy, runs from 17 October to 1 November 2026 and is included in a standard London Dungeon ticket, which starts from £27 for an adult and £22 for a child aged 5 to 15 when booked online. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
 heroImage: "../../assets/articles/halloween-london/beetlejuice-curtain-call.jpg"
@@ -247,7 +247,7 @@ Two more worth knowing about, though neither falls on Halloween night itself in 
 
 London does not need a Halloween season to be macabre — these places are unsettling all year round, and October just happens to be the right mood for visiting them.
 
-**Highgate Cemetery**, Swain's Lane, N6 6PJ. Both the East and West sides are open to explore in your own time — you have not needed a guided tour for the West Cemetery since 2020, whatever older guides tell you. Open daily, 10am–5pm March to October and 10am–4pm the rest of the year.
+**Highgate Cemetery**, Swain's Lane, N6 6PJ. Both the East and West sides are open to explore in your own time — you have not needed a guided tour for the West Cemetery since 2020. Open daily, 10am–5pm March to October and 10am–4pm the rest of the year.
 
 **The Old Operating Theatre Museum**, 9a St Thomas Street, SE1 9RY. A genuine Victorian surgical theatre above a church, reached by a spiral staircase. Thursday to Sunday, 10.30am–5pm. **Adult £10, concession £8, child £6.50.**
 

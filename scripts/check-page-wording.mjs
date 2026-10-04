@@ -32,6 +32,11 @@ const EVERYWHERE = [
   // than it sounds", "if that matters to you" are filler. State the fact or the
   // consequence instead ("Borough Market is closed on Mondays").
   [/\b(?:the|every|any|only) (?:[\w'’-]+ ){1,4}that (?:actually |really )?matters?\b|(?:[,;—–-]|\band) ?which (?:actually |really )?matters\b|\b(?:is|are) what (?:actually |really )?matters\b|\bmatters most\b|\b(?:if|why) that matters\b|\bthat matters because\b/i, "…that matters filler"],
+  // Rob, 4 October 2026: "the section other guides leave out", "three things nobody
+  // tells you", "despite what most guides say". State the fact without the
+  // comparison. Branch counts ("several sites") and our own "two other guides"
+  // links are not caught; named-source analysis in consensus guides is fine.
+  [/(?<!\b(?:two|three|the|how) )\b(?:other|most|many|older|rival|every other|no other|plenty of|a lot of) (?:guides?|guidebooks?|lists|listings|blogs|blog posts|articles)\b|\b(?:nobody|no one) tells you\b|\bwhat (?:nobody|no one) (?:tells|mentions|says)\b|\bguides? (?:still|get (?:this|it) wrong|leave (?:this |it )?out|never mention|forget|bury|blur|merge)\b|\bwhatever (?:the |most |older |some |other )?(?:guides?|guidebooks|listings|lists) (?:say|says|imply|tell)\b/i, "other-guides comparison"],
 ];
 // Card notes are short and have no reason to hedge at all.
 const DATA_ONLY = [

@@ -106,7 +106,7 @@ Because most shows are sold by the venue, the fee is the venue's, and two of the
 *The Clore Ballroom at the Royal Festival Hall. Photo: [Rod Allday](https://commons.wikimedia.org/wiki/File:The_Charles_Clore_Ballroom_in_the_Royal_Festival_Hall_-_geograph.org.uk_-_1575896.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
-This is the part of the festival most guides skip, and for a lot of people it is the whole trip. **Nineteen concerts cost nothing**, and they are not scraps: the South Asian Jazz afternoon at the Southbank Centre runs 2pm to 7.30pm across three acts and ends with a 30-piece orchestra.
+**Nineteen concerts cost nothing**, and they are not scraps: the South Asian Jazz afternoon at the Southbank Centre runs 2pm to 7.30pm across three acts and ends with a 30-piece orchestra.
 
 **Barbican FreeStage, Level G** — the open area inside the Silk Street entrance, no ticket, just turn up. Rotterdam Loves London on Sat 14 Nov at 4.15pm, 'Round Midnight on Sun 15 Nov at 3.30pm, BBE Music's Japanese jazz DJs on Sat 21 Nov at 1pm, and Melbourne International Jazz Festival's Xani Kolac & Don Glori on Sun 22 Nov at 4pm.
 

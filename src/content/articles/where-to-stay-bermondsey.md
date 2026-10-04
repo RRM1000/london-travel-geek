@@ -21,7 +21,7 @@ faq:
   - q: "Is there a night Tube from London Bridge and Bermondsey?"
     a: "Yes, on the Jubilee line, Friday and Saturday nights, and that is the only night service either station has. London Bridge also carries the Northern line, but the Night Tube's Northern service runs on the Charing Cross branch — Waterloo, Embankment, Leicester Square — and not through Bank or London Bridge at all. Coming home from the West End after midnight means changing at Green Park or Waterloo onto the Jubilee."
   - q: "When is Maltby Street Market open?"
-    a: "Fridays 5.30pm to 9pm, Saturdays 10am to 5pm and Sundays 11am to 4pm, on Ropewalk under the railway arches at SE1 3PA. The Friday evening session is the one most guides still miss, and it is the reason a Friday arrival in Bermondsey is worth more than a Thursday one. There is no midweek market."
+    a: "Fridays 5.30pm to 9pm, Saturdays 10am to 5pm and Sundays 11am to 4pm, on Ropewalk under the railway arches at SE1 3PA. The Friday evening session is the reason a Friday arrival in Bermondsey is worth more than a Thursday one. There is no midweek market."
   - q: "How much is a hotel in Bermondsey?"
     a: "There are three properties and they are spread deliberately far apart: Bermonds Locke is a mid-range aparthotel with a kitchen in every studio, Bermondsey Square Hotel is about £180 for a boutique double, and Shangri-La The Shard is about £550. For anything cheaper, walk ten minutes west to Borough High Street, where a private double capsule at St Christopher's Village ran £53 to £166."
   - q: "Should I stay on Bermondsey Street or near London Bridge station?"
@@ -200,7 +200,7 @@ And then you walk. From London Bridge to Bermondsey Square is fifteen minutes do
 
 If the market and the arches are why you picked Bermondsey, the booking should start on a Friday.
 
-**Maltby Street Market opens Friday 5.30pm to 9pm**, then Saturday 10am to 5pm and Sunday 11am to 4pm, on Ropewalk under the arches. Plenty of guides still describe it as a weekends-only market, and the Friday evening session is what turns a Friday arrival into an evening rather than a wasted one.
+**Maltby Street Market opens Friday 5.30pm to 9pm**, then Saturday 10am to 5pm and Sunday 11am to 4pm, on Ropewalk under the arches. The Friday evening session turns a Friday arrival into an evening rather than a wasted one.
 
 **The antiques market is Friday, 6am to 2pm**, on Bermondsey Square. **The Beer Mile taprooms are mostly a weekend proposition**, with Saturday the day nearly all of them trade. Midweek, the compensation is that Bermondsey Street's restaurants are bookable and the Fashion and Textile Museum is quiet.
 

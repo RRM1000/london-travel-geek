@@ -32,9 +32,7 @@ faq:
     a: "Overwhelmingly in the north-west. Of the London Beth Din's London listings, ten are in Hendon and eight in Golders Green, with more in Temple Fortune and Edgware. Central London has very little — Tony Page on Paddington Street in Marylebone is the main certified restaurant inside the West End, with Reubens nearby under a different authority."
 ---
 
-Most guides to this subject are written the way every other restaurant guide is written: someone picks their favourites and puts them in order.
-
-That is the wrong shape here, because **the people who certify these kitchens already publish the complete list, for free**. There is no hidden knowledge to add. What there is instead is a genuine difficulty: **there are four authorities, each publishes only its own licensees, and none of them publishes the others' — so checking one register gives you a partial answer and no warning that it is partial.**
+A ranked list of favourites is the wrong shape here, because **the people who certify these kitchens already publish the complete list, for free**. There is no hidden knowledge to add. What there is instead is a genuine difficulty: **there are four authorities, each publishes only its own licensees, and none of them publishes the others' — so checking one register gives you a partial answer and no warning that it is partial.**
 
 This guide is the registers, read together, plus what you need to know to use them.
 

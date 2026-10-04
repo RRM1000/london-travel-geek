@@ -214,7 +214,7 @@ A Kentish Town counter making Neapolitan-style gelato, run by a family from Camp
 
 Ninety-plus flavours created so far, rotating weekly: **miso peanut butter and chocolate chip**, burnt miso caramel, chocolate Guinness cake, fig leaf, sea buckthorn with spiced rooibos. Their own line is the best summary of it — *this isn't "good for a vegan" ice cream*.
 
-> ⚠️ **Weekends only**, Saturday 10–5 and Sunday 11–5, from a fixed pitch at Haynes Lane Courtyard. They no longer keep a regular market stall, so ignore older listings that send you to Herne Hill. Pint pre-orders open Mondays at 10am.
+> ⚠️ **Weekends only**, Saturday 10–5 and Sunday 11–5, from a fixed pitch at Haynes Lane Courtyard. They no longer keep a regular market stall at Herne Hill. Pint pre-orders open Mondays at 10am.
 
 ### Udderlicious, Islington
 

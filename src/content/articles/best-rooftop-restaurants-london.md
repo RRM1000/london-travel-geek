@@ -232,7 +232,7 @@ The kitchen is the reason people queue — Guinness poured properly downstairs, 
 
 ## What happens when it rains
 
-This is the fact that decides a booking in London and the one the lists leave out. Four different answers, and they are not interchangeable.
+In London this decides a booking. Four different answers, and they are not interchangeable.
 
 | Shelter | What it means in October | Where |
 | --- | --- | --- |
@@ -312,7 +312,7 @@ A restored Jesus College Oxford barge moored on the Richmond bank, run by the Da
 
 *The top deck, Peggy Jean.*
 
-Three things the operator says plainly and other lists do not. **The indoor rooms take bookings and the terrace does not**; the terrace is covered by umbrellas and heated in cooler months; and the boat sits on a working pontoon on tidal water with open edges and several levels, so children need holding onto and prams have to be folded at the entrance.
+Three points from the operator. **The indoor rooms take bookings and the terrace does not**; the terrace is covered by umbrellas and heated in cooler months; and the boat sits on a working pontoon on tidal water with open edges and several levels, so children need holding onto and prams have to be folded at the entrance.
 
 ### Towpath, Haggerston
 

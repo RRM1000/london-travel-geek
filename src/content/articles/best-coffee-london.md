@@ -80,7 +80,7 @@ This is a guide to **independents worth crossing a street for**, not chains. Mos
 
 **Closed Sundays**, and the Borough queue is at its longest during weekend market hours — 11am to 2pm on a Saturday is the worst of it.
 
-**The Covent Garden shop is considerably quieter and pours the same coffee**, which is the tip most guides bury. If the queue at Borough is round the corner, walk to Monmouth Street instead.
+**The Covent Garden shop is considerably quieter and pours the same coffee.** If the queue at Borough is round the corner, walk to Monmouth Street instead.
 
 **2 Park Street, SE1 9AB**, three minutes from London Bridge. **No seats** — this is a hatch and a standing counter, so plan to walk with it rather than sit.
 
@@ -222,7 +222,7 @@ Pastries and a short toastie list rather than a kitchen, so this is a coffee sto
 
 *Origin's Shoreditch counter.*
 
-**65 Charlotte Road, EC2A 3PE**, and the three minutes in the line above is the honest figure — some listings say eight, which is the walk to a different Shoreditch site.
+**65 Charlotte Road, EC2A 3PE.**
 
 **Calmest mid-afternoon.** Shoreditch coffee rooms fill with laptops from about ten and again at lunch; between two and four it is a different room.
 

@@ -490,7 +490,7 @@ Everything here comes in under £20 a head and none of it takes a booking.
 
 ## Curry house or dining room
 
-The split most guides blur. A 1970s Tooting curry house and a Mayfair tasting menu both get called "the best Indian in London", and they are not the same trip.
+A 1970s Tooting curry house and a Mayfair tasting menu both get called "the best Indian in London", and they are not the same trip.
 
 **Dining rooms** are everything in the two sections above: booked weeks out, £50 and up, tasting menus and sommeliers. **Curry houses** are the neighbourhood institutions — often decades old, family-run, walk-in, and where most Londoners actually eat.
 

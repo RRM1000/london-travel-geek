@@ -166,7 +166,7 @@ The cooking is **Texas-style rather than British-live-fire**: smoked brisket is 
 
 ## The smoker is in a brewery yard
 
-This is the London-specific thing about the subject, and no other guide separates it out. Smokers need space, extraction and neighbours who will not complain, and breweries have all three — so a good share of the city's barbecue is cooked in a working brewery yard rather than a restaurant kitchen.
+This is the London-specific thing about the subject. Smokers need space, extraction and neighbours who will not complain, and breweries have all three — so a good share of the city's barbecue is cooked in a working brewery yard rather than a restaurant kitchen.
 
 **Acme Fire Cult** is inside 40FT Brewery in Dalston. **From The Ashes** is at Five Points in Hackney, and is Time Out's pick for barbecue Sunday roast. **Hon's BBQ**, cooking Chinese-Texan, sits above Crate Brewery in Queen's Yard, Hackney Wick.
 

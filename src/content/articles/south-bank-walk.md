@@ -34,7 +34,7 @@ It has one trap worth planning around. **Borough Market is closed on Mondays**, 
 
 For the wider area — the theatres, where to stay, the bits inland — see the [South Bank area guide](/articles/south-bank-area-guide/). This is the walking route version of it.
 
-> 💡 **The Short Version:** Walk **west to east**, starting by crossing **Westminster Bridge** and finishing at **Tower Bridge**. **Not on a Monday** — Borough Market is shut. **Tate Modern is free** and open late on Fridays and Saturdays. The thing almost everyone misses is **Leake Street**, a legal graffiti tunnel five minutes off the route. And you cannot walk into the **Globe** without a ticket, whatever the guidebooks imply.
+> 💡 **The Short Version:** Walk **west to east**, starting by crossing **Westminster Bridge** and finishing at **Tower Bridge**. **Not on a Monday** — Borough Market is shut. **Tate Modern is free** and open late on Fridays and Saturdays. Five minutes off the route is **Leake Street**, a legal graffiti tunnel. You cannot walk into the **Globe** without a ticket.
 
 ## The route
 

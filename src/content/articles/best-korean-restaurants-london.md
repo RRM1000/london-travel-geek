@@ -246,7 +246,7 @@ The dish everyone writes about is the **yukhwe beef tartare with crisp Asian pea
 
 Tiny, graffiti-covered, plastered in K-pop memorabilia, and **the cheapest proper Korean food in central London**. Kimchi fried rice and seafood pancake, family-run for about nineteen years, with a cult student following from the university buildings around it.
 
-It moved here from St Giles High Street when Crossrail demolished the old Koreatown — several guides still print the dead address.
+It moved here from St Giles High Street when Crossrail demolished the old Koreatown.
 
 ![A dolsot bibimbap in a hot stone bowl](../../assets/articles/best-korean-restaurants-london/bibimbap-soho.jpg)
 

@@ -170,7 +170,7 @@ South towards the park, more residential, and where the area calms down. **Peckh
 
 The park half has the things worth walking to: a **community wildlife garden** with beehives and a pond, a restored **fernery**, a skate park, an outdoor gym and an adventure playground. It has held a Green Flag every year since 2007. **Opening is 7.30am to dusk**, and dusk here means 5pm in January and 9.30pm in July — check the month rather than assuming.
 
-**On the William Blake angel tree, the honest version:** Blake is said to have walked out here from the City as a boy in 1767 and seen a vision of angels filling a tree. The story is a biographical anecdote written down long afterwards rather than anything Blake recorded at the time — it happened **on the Common rather than in the Park**, and **the tree is gone**. There is no marker and nothing to photograph, whatever other guides imply.
+**On the William Blake angel tree, the honest version:** Blake is said to have walked out here from the City as a boy in 1767 and seen a vision of angels filling a tree. The story is a biographical anecdote written down long afterwards rather than anything Blake recorded at the time — it happened **on the Common rather than in the Park**, and **the tree is gone**. There is no marker and nothing to photograph.
 
 The street called **Peckham Rye**, facing the Common, has the neighbourhood end of the eating: **Bà Ba**, the Nguyen family's southern Vietnamese restaurant, renamed from Bánh Bánh in 2026, and **Old Spike** for coffee.
 

@@ -60,7 +60,7 @@ faq:
   - q: "What is the Crossrail Place Roof Garden?"
     a: "A free public garden under a timber lattice roof on top of the Elizabeth line station. It is planted along the line of the old dock and split roughly by hemisphere — species from east of the meridian on one side, west on the other. Open daily, free, and one of the more unexpected things in London."
   - q: "Is Canary Wharf open at weekends?"
-    a: "Yes, and this has changed. The original shopping malls still wind down on Sundays, and some of the older chain units keep short weekend hours. But the newer layer runs properly at weekends — Fairgame is open until 1am on Saturday, the Sea Lanes pool swims 7am to 7pm, and the Wood Wharf restaurants and Eden Dock run all week. Older guides saying the place empties completely are out of date."
+    a: "Yes, and this has changed. The original shopping malls still wind down on Sundays, and some of the older chain units keep short weekend hours. But the newer layer runs properly at weekends — Fairgame is open until 1am on Saturday, the Sea Lanes pool swims 7am to 7pm, and the Wood Wharf restaurants and Eden Dock run all week."
   - q: "Can you walk from Canary Wharf to Greenwich?"
     a: "Yes, and you can walk the whole way. It is about 6.5km down the Isle of Dogs to Island Gardens and then under the Thames through the 1902 tiled foot tunnel, which comes up beside the Cutty Sark. It is free and open at all hours, and the lifts at both ends now run 24 hours a day — the council publishes a live status page for them. If you would rather not walk the island, the DLR runs to Island Gardens in two stops and you pick up the tunnel there."
   - q: "Is the London Museum Docklands free?"

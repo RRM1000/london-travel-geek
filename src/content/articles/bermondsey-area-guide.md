@@ -55,7 +55,7 @@ faq:
   - q: "What is the Bermondsey Beer Mile?"
     a: "A run of breweries and taprooms in the railway arches between Bermondsey and South Bermondsey, most of which open their doors at weekends. It is not an official route and the line-up changes as breweries open and close, so check current opening hours before setting out. Saturdays are when nearly all of them trade."
   - q: "When is Maltby Street Market open?"
-    a: "Saturdays 10am to 5pm and Sundays 11am to 4pm, plus Friday evenings from 5.30pm to 9pm in summer — the Friday session is newer and a lot of guides have not caught up with it. It runs along Ropewalk, a narrow alley under the railway arches, and it is genuinely narrow, so go before midday at the weekend or expect to shuffle. Monday to Thursday there is nothing there."
+    a: "Saturdays 10am to 5pm and Sundays 11am to 4pm, plus Friday evenings from 5.30pm to 9pm in summer. It runs along Ropewalk, a narrow alley under the railway arches, and it is genuinely narrow, so go before midday at the weekend or expect to shuffle. Monday to Thursday there is nothing there."
   - q: "Is White Cube Bermondsey free?"
     a: "Yes. The Bermondsey gallery is the largest commercial gallery in Europe and entry is free, as at most commercial galleries. It shows major contemporary artists in very large industrial spaces on Bermondsey Street. It closes between exhibitions, so check what is on."
   - q: "What is the Bermondsey Antiques Market?"
@@ -114,7 +114,7 @@ The spine of the area, running south from London Bridge, and one of the most com
 
 A run of railway arches under the Bermondsey viaduct, and the best street food in this part of London — smaller, denser and considerably less polished than Borough Market ten minutes north.
 
-> ⚠️ **Check the day before you travel.** The market runs **Saturday 10am to 5pm, Sunday 11am to 4pm, and Friday 5.30pm to 9pm in summer** — the Friday evening session is a recent addition and most guides still say weekends only. Monday to Thursday, Ropewalk is an alley with shuttered arches. This is the single most common wasted trip in Bermondsey, and it catches people who have read about it as though it were a permanent market.
+> ⚠️ **Check the day before you travel.** The market runs **Saturday 10am to 5pm, Sunday 11am to 4pm, and Friday 5.30pm to 9pm in summer**. Monday to Thursday, Ropewalk is an alley with shuttered arches. This is the single most common wasted trip in Bermondsey, and it catches people who have read about it as though it were a permanent market.
 
 **A handful of arches trade through the week**, which is the part worth knowing: **40 Maltby Street at number 40** is a wine bar and kitchen in an arch, open Wednesday to Sunday, and it is one of the best wine lists in London hidden behind a roller shutter.
 

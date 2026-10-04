@@ -28,7 +28,7 @@ There are two good half-days here and almost nobody joins them up. Canary Wharf 
 
 For where to stay and eat at either end, see the [Canary Wharf](/articles/canary-wharf-area-guide/) and [Greenwich](/articles/greenwich-area-guide/) area guides.
 
-> 💡 **The Short Version:** Walk **north to south**, from the free **Crossrail Place Roof Garden** to **Greenwich hill**. The **foot tunnel is free and open around the clock**. **Greenwich Market is open daily**, whatever older guides say. Do the free **London Museum Docklands** and **National Maritime Museum** before paying for anything.
+> 💡 **The Short Version:** Walk **north to south**, from the free **Crossrail Place Roof Garden** to **Greenwich hill**. The **foot tunnel is free and open around the clock**. **Greenwich Market is open daily**. Do the free **London Museum Docklands** and **National Maritime Museum** before paying for anything.
 
 ## The route
 
@@ -154,7 +154,7 @@ If you are not going in, the ship is free to look at from the street, and **the 
 
 *Greenwich Market.*
 
-**Two minutes inland, and the lunch stop.** Covered, open daily 10am to 5.30pm, and unusual for London in mixing crafts, antiques and makers with street food rather than being one or the other. It closes only on Christmas Day and the first six Mondays of the year, whatever older guides say about Mondays.
+**Two minutes inland, and the lunch stop.** Covered, open daily 10am to 5.30pm, and unusual for London in mixing crafts, antiques and makers with street food rather than being one or the other. It closes only on Christmas Day and the first six Mondays of the year.
 
 **Goddards** has sold pie and mash a few doors away since 1890, to recipes it says have not changed. It is the most Greenwich lunch there is. Weekends are shoulder to shoulder; weekdays have room.
 

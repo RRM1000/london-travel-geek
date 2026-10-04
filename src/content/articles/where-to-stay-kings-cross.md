@@ -56,7 +56,7 @@ George Gilbert Scott's Midland Grand opened in May 1873, lost money for decades,
 
 **The thing to get right is which wing you book.** Rooms split between **Chambers**, the 1873 Gothic building, and **Barlow House**, the 2011 extension behind it. Barlow House is fully renovated and perfectly comfortable, and it is also not what you are paying £350 for. Some Chambers Junior and Grand Junior Suites look directly over the train shed.
 
-**The suites carry a "Seat to Suite" service with Eurostar** — staff move you between room and platform — on a minimum of 72 hours' notice. There is a free QR-code self-guided tour of the building for guests, and **Booking Office 1869 downstairs takes non-residents on a £29 set menu**, which is how to see the interior without the room rate. Since 3 June 2025 the hotel has traded as St Pancras London, Autograph Collection, and a great many booking sites and guides still file it under St Pancras Renaissance.
+**The suites carry a "Seat to Suite" service with Eurostar** — staff move you between room and platform — on a minimum of 72 hours' notice. There is a free QR-code self-guided tour of the building for guests, and **Booking Office 1869 downstairs takes non-residents on a £29 set menu**, which is how to see the interior without the room rate. Since 3 June 2025 the hotel has traded as St Pancras London, Autograph Collection, and many booking sites still file it under St Pancras Renaissance.
 
 The spa, in the old steam kitchens, has a relaxation pool with hydro loungers rather than one to swim in; our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) lists the hotels that have one.
 

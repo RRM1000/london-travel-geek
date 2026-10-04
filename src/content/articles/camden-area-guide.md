@@ -207,7 +207,7 @@ Five different operators run from Camden Lock, and they are genuinely different 
 
 **Which to pick.** For getting somewhere, the Waterbus or Jason's Trip — both are one-way journeys that happen to be scenic. For a round trip with no walk back, Jenny Wren, which also takes you through a working lock. For an evening out rather than a sightseeing trip, My Fair Lady. The Music Boat is the one people remember, and the one to avoid in bad weather.
 
-> ⚠️ **None of them stop at London Zoo.** The route runs through the zoo's grounds and you can see the painted wolves and colobus monkeys from the water, but there is no zoo landing — the old combined boat-and-zoo ticket is long gone, and plenty of guides still say otherwise. The nearest stop is Camden Market, about fifteen minutes' walk from the entrance.
+> ⚠️ **None of them stop at London Zoo.** The route runs through the zoo's grounds and you can see the painted wolves and colobus monkeys from the water, but there is no zoo landing — the old combined boat-and-zoo ticket is long gone. The nearest stop is Camden Market, about fifteen minutes' walk from the entrance.
 
 > ⚠️ Timetables are seasonal and several of these run a reduced winter service or stop entirely. Check before travelling for a specific boat, and note that one-way tickets mean walking or taking the Tube back.
 

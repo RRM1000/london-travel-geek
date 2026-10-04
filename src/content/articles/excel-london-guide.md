@@ -191,7 +191,7 @@ Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the hot
 - **The London Cable Car** (see above) makes a short, scenic crossing to North Greenwich and The O2 — see our [O2 travel guide](/articles/the-o2-travel-guide/) for what's on the other side.
 - **WakeUp Docklands**, a cable wakeboard park in the Royal Docks, runs from the water ExCeL backs onto.
 - **Immerse LDN**, an immersive exhibitions venue on the Waterfront about 400m from the West Entrance, runs a changing programme of ticketed shows.
-- **City Hall** — the striking glass-and-steel building on the dock that many guides still call by its old name, The Crystal, isn't the sustainability exhibition it once was. The Greater London Authority moved its headquarters there in January 2022, and it's now the Mayor and London Assembly's base rather than a visitor attraction.
+- **City Hall** — the striking glass-and-steel building on the dock, formerly The Crystal, isn't the sustainability exhibition it once was. The Greater London Authority moved its headquarters there in January 2022, and it's now the Mayor and London Assembly's base rather than a visitor attraction.
 - **Canary Wharf** is one Elizabeth line stop away — about 3 minutes — for the roof garden, Eden Dock and the restaurants at Wood Wharf; see our [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
 - **London City Airport** is a 15-minute walk or a couple of DLR stops, if you're flying in or out around your visit.
 

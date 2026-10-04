@@ -75,7 +75,7 @@ Brussels-Midi is not the end of the journey. Change there onto a Belgian InterCi
 
 These are fixed prices with unlimited availability, good for any train that day — no reservation and no booking ahead needed. Up to four children under 12 travel free with a fare-paying passenger over 12. Buy it at a machine or the ticket office at Brussels-Midi once you're through the Eurostar gates; there's no need to book it from the UK.
 
-> ⚠️ **Eurostar used to sell this as one ticket, and no longer does.** Until 31 March 2025, Eurostar sold an "Any Belgian Station" fare that covered onward travel to Bruges, Ghent or Antwerp on the same booking — SNCB, the Belgian operator, asked Eurostar to stop, and Eurostar withdrew it at SNCB's request. If you're reading an older guide, or Eurostar's own app copy that still references "any Belgian station," that's why: the wording has outlived the ticket. Eurostar has said it may start selling through tickets to specific Belgian stations again, but hadn't as of September 2026 — budget for two separate tickets.
+> ⚠️ **Eurostar used to sell this as one ticket, and no longer does.** Until 31 March 2025, Eurostar sold an "Any Belgian Station" fare that covered onward travel to Bruges, Ghent or Antwerp on the same booking — SNCB, the Belgian operator, asked Eurostar to stop, and Eurostar withdrew it at SNCB's request. Eurostar's own app copy still references "any Belgian station"; the wording has outlived the ticket. Eurostar has said it may start selling through tickets to specific Belgian stations again, but hadn't as of September 2026 — budget for two separate tickets.
 
 ## Check-in and the border
 

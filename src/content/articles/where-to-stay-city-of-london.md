@@ -227,7 +227,7 @@ Check-in is self-service, around the clock. The One Bedroom Apartment with Washe
 
 *££££ · 89 rooms and 11 suites · 10 Trinity Square, EC3N 4AJ · Tower Hill · [check prices](hotel:four-seasons-tower-bridge)*
 
-The 1922 Port of London Authority building by Edwin Cooper, facing the Tower across Trinity Square Gardens, opened as a Four Seasons in January 2017. It traded as Four Seasons Hotel London at Ten Trinity Square before its renaming, and many guides still use that name. Its UN Ballroom hosted the first reception of the United Nations General Assembly in 1946. Not every room has the terrace pictured below facing Tower Bridge.
+The 1922 Port of London Authority building by Edwin Cooper, facing the Tower across Trinity Square Gardens, opened as a Four Seasons in January 2017. It traded as Four Seasons Hotel London at Ten Trinity Square before its renaming. Its UN Ballroom hosted the first reception of the United Nations General Assembly in 1946. Not every room has the terrace pictured below facing Tower Bridge.
 
 <div class="photo-row">
 

@@ -86,7 +86,7 @@ The food is snack-led rather than a menu you work through — **Comté gougères
 
 **It takes bookings, for up to six**, with a separate process for groups of seven and over — and it is open **seven days, noon to 9.30pm Monday to Saturday and 1pm to 9pm on Sunday**, which makes it the most reliably available room near the top of this list. 19 Kingly Street, on the Carnaby side of Soho.
 
-Worth saying plainly, because it is filed wrongly elsewhere: this is a wine bar. Our own cocktail guide says of it that wine is the point and cocktails the sideline.
+This is a wine bar. Our own cocktail guide says of it that wine is the point and cocktails the sideline.
 
 ### Diogenes the Dog — the one with no Champagne
 
@@ -146,7 +146,7 @@ The house line is that there is no room for wine-wankery, and the list is deep w
 
 **It takes bookings, and there is a set menu on Tuesdays and Wednesdays: two courses £24, three for £28**, which is the cheapest way into anything near the top of this list. 396 York Way, N7 9LW.
 
-Filed as a cocktail bar in places, which it is not — our cocktail guide says of it that it is a restaurant, wine bar and bottle shop rather than a cocktail bar.
+It is not a cocktail bar: our cocktail guide says of it that it is a restaurant, wine bar and bottle shop.
 
 ### The 10 Cases — 300 wines, and the corkage number
 

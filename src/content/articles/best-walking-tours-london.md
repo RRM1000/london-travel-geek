@@ -26,7 +26,7 @@ heroImage: "../../assets/articles/best-walking-tours-london/changing-the-guard.j
 heroImageAlt: "Mounted Household Cavalry troopers in red tunics and plumed helmets riding past Buckingham Palace's gates"
 ---
 
-London has hundreds of guided walks, and most lists of the best ones mix tours you can book with tours you can't. **Every tour on this page is bookable on GetYourGuide**, and each is here because the evidence backs it: Tripadvisor's Travellers' Choice awards, the walking-tour lists from Time Out, Visit London and the travel writer Nomadic Matt, and review scores on GetYourGuide itself. Nothing below is rated under 4.5.
+London has hundreds of guided walks. **Every tour on this page is bookable on GetYourGuide**, and each is here because the evidence backs it: Tripadvisor's Travellers' Choice awards, the walking-tour lists from Time Out, Visit London and the travel writer Nomadic Matt, and review scores on GetYourGuide itself. Nothing below is rated under 4.5.
 
 > 💡 **The Short Version:** The strongest award record belongs to **Liquid History Tours' historic pub walk**, Tripadvisor's No. 1 experience in the UK in 2025 and No. 7 in the world in 2026 (**£35**). For a first visit, take a **Blue Badge guide round Westminster** (from about **£30**). The best score from a big pool of reviews is the **Great British Rock and Roll walk**, 5.0 from 2,251. Most themed walks cost **£15–£35** and last **two hours**; food tours run **£59–£92**.
 

@@ -169,7 +169,7 @@ The one to book is on the 5th: **Tilda Swinton in *Man to Man* at the Royal Cour
 
 The second half of the month is heavier still. **Jesse Tyler Ferguson plays Truman Capote in *Tru*** at the Menier Chocolate Factory from the 19th. **Gillian Anderson and Billy Crudup** open in ***Who's Afraid of Virginia Woolf?*** at @sohoplace on the 21st, directed by Marianne Elliott. The same evening, **James Graham's *The Standard of Living*** opens at the Theatre Royal Haymarket, with **Rory Kinnear as John Maynard Keynes**. Then on the 22nd: **Christine Baranski and Richard E. Grant in *Hay Fever*** at Wyndham's, **Into the Woods** at the Noel Coward, and **RENT** returning to Drury Lane for its thirtieth anniversary.
 
-One piece of housekeeping that will date any older guide you read: **the Duke of York's Theatre is now the Tom Stoppard Theatre.**
+**The Duke of York's Theatre is now the Tom Stoppard Theatre.**
 
 ## Gigs worth planning around
 

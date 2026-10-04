@@ -250,13 +250,13 @@ The **Hopper fare** gives unlimited bus journeys within **one hour** of touching
 
 **Route 148 — over the river.** Camberwell, Elephant & Castle, **Westminster**, Hyde Park Corner, **Notting Hill** and White City, crossing Westminster Bridge with the Parliament view.
 
-> **The heritage Routemaster is gone.** Route 15 used to run a limited service with the old open-platform buses, and many guides still send people to find it. TfL's own route 15 page now lists no heritage service. If you want a vintage Routemaster, the [guided tours above](#vintage-routemasters-a-live-guide-and-no-hopping-off) run them from £19.50.
+> **The heritage Routemaster is gone.** Route 15 used to run a limited service with the old open-platform buses. TfL's own route 15 page now lists no heritage service. If you want a vintage Routemaster, the [guided tours above](#vintage-routemasters-a-live-guide-and-no-hopping-off) run them from £19.50.
 
 <div data-stay-strip></div>
 
 ### What you give up
 
-No commentary, no guaranteed seat, and no guaranteed top-deck front window — the seat everyone actually wants. Ordinary buses get crowded, they do not wait while you photograph anything, and nobody tells you what you are looking at. You also need to know where you are going.
+No commentary, no guaranteed seat, and no guaranteed top-deck front window — the seat everyone actually wants. Ordinary buses get crowded, and they do not wait while you photograph anything. You also need to know where you are going.
 
 ---
 

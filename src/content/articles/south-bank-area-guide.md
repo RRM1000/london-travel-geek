@@ -192,7 +192,7 @@ A minute past the southern end of the bridge, on Horselydown Lane, **[Tower Brid
 
 Behind Waterloo station, five minutes off the tourist route and far better value for it.
 
-**Lower Marsh** is a genuine local street of independent cafés, record shops and a **weekday market, roughly 11am to 3pm Monday to Friday** — worth checking before a weekend trip, because the market's own site lists Saturday and Sunday as closed even though plenty of other listings still advertise a Saturday flea market.
+**Lower Marsh** is a genuine local street of independent cafés, record shops and a **weekday market, roughly 11am to 3pm Monday to Friday**, closed on Saturday and Sunday.
 
 **Leake Street** runs under the station platforms alongside it: London's longest legal graffiti wall, free, open, and repainted constantly by anyone who turns up with a can. It has been legal since Banksy's Cans Festival in 2008. Eight of the railway arches are now independent venues — a Polish restaurant, a Philadelphia dive bar, a board-game café — so the tunnel is a night out as well as a walk-through.
 

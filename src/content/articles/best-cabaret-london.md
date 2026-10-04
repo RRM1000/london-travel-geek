@@ -1,7 +1,7 @@
 ---
 title: "The Best Cabaret in London: What's Actually Still Open"
 seoTitle: "Best Cabaret London 2026: Venues Still Open"
-description: "London's biggest cabaret operator has collapsed and most guides still list rooms that shut years ago. Every venue here was status-checked against its own site, with the closed ones named."
+description: "London's biggest cabaret operator has collapsed. Every venue here was status-checked against its own site, with the closed ones named."
 publishedAt: 2026-09-01
 updatedAt: 2026-10-03
 reviewBy: 2026-10-01
@@ -474,19 +474,17 @@ The Playhouse has been reconfigured in the round, with the audience seated as pa
 
 The show has returned to its home in the Hippodrome's own theatre, and performance times are more frequent than most: **Wednesday 7pm; Thursday and Friday 7pm and 10pm; Saturday 4pm, 7pm and 10pm; Sunday 4pm and 7pm.** Tickets are **from £42** through official theatre channels — third-party agents quote from £62 for the same seats, so **book through the Hippodrome or an official theatre agent** rather than the first result you find. Book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1FHAC-magic-mike-live-bp-9/).
 
-### Three more that listings still get wrong
+### Three that are not cabaret rooms
 
 * **Bunga 90**, 167 Drury Lane — **the old Bunga Bunga cabaret no longer exists.** The Covent Garden site closed for a full overhaul and **relaunched as Bunga 90 on 18 September 2025** as a 90s-themed karaoke and pizza bar. Weekend brunch is £52 a head and the pre-theatre menu £26; karaoke room rates are not published. **Standing drinks areas are 21+ for groups.** The Battersea original closed after eleven years when its Wandsworth lease expired.
 * **She Soho**, 23a Old Compton Street — a lesbian and queer women's bar, now under the Ku Bar group, which describes itself as **"event-led, DJ-driven" and does not run a cabaret bill.** Regular nights are Ruby Tuesday, SING! Karaoke and the Sapphic Sunday Quiz.
-* **Century Club**, 61–63 Shaftesbury Avenue — **members only, and no cabaret or variety programming was found at all.** It runs arts and culture events, panels, live music and rooftop parties. Several listings imply it is a cabaret room. It is not.
+* **Century Club**, 61–63 Shaftesbury Avenue — **members only, and no cabaret or variety programming was found at all.** It runs arts and culture events, panels, live music and rooftop parties.
 
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cabaret-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Closed — and worth saying so
-
-This is the section other guides leave out, and it is why people turn up at locked doors.
 
 **The entire Proud cabaret operation in London has collapsed.** This is the big one, and it took three venues with it:
 
@@ -510,7 +508,7 @@ This is the section other guides leave out, and it is why people turn up at lock
 * **Bar Wotever** — last listed at the Royal Vauxhall Tavern on **Tuesday 14 May 2024**, and there is nothing to book.
 * **Cabaret Roulette** — nothing listed since January 2024.
 * **The Blitz Party** — nothing listed since June 2020, so **the £25 ticket price still circulating online is historic**, not current.
-* **Underbelly Festival**, now at Cavendish Square Gardens rather than the South Bank — **dark**, with no shows on sale and no dates announced. Guides still placing it on the South Bank are out of date twice over.
+* **Underbelly Festival**, now at Cavendish Square Gardens rather than the South Bank — **dark**, with no shows on sale and no dates announced.
 * **NoFit State Circus** — **no London dates are published at all.** They bring their own big top when they come; there is nothing to book.
 
 ---

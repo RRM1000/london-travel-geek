@@ -1826,7 +1826,7 @@ const ROWS = [
     agePolicy: "family-friendly", duration: "Three hours or more",
     bookingRequired: "required", priceBand: "unknown", indoorOutdoor: "indoor",
     whyGo: "A whole built town with more than twenty parallel storylines running at once - you pick which to follow and cannot see them all in one visit.",
-    opSummary: "OPENS 4 DECEMBER 2026 at Westfield Stratford City. The original Canada Water venue CLOSED on 28 February 2026 after 625 performances - older guides still send people there.",
+    opSummary: "OPENS 4 DECEMBER 2026 at Westfield Stratford City. The original Canada Water venue CLOSED on 28 February 2026 after 625 performances.",
     goodFor: "groups, families, date",
     lists: "events",
     source: "immersiverumours.com 2026-08-20, VERIFIED via phantompeak.com, Time Out, Blooloop and BroadwayWorld. The Canada Water closure is the important fact here.",

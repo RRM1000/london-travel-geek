@@ -118,7 +118,7 @@ The building reopened in **October 2022** after decades derelict, and the thing 
 
 **Walk between the two turbine halls, because they are not the same building.** **Turbine Hall A** is the 1930s one — Art Deco, restrained, the better room. **Turbine Hall B** is 1950s, plainer and frankly industrial, built when the money and the mood had changed. Standing in one and then the other is the clearest architectural lesson in the place and it costs nothing.
 
-**Control Room B** is a bar on a mezzanine over Turbine Hall B, surrounded by the original 1950s dials and switchgear, and **anyone can walk in** — children welcome until 5pm. **Control Room A is not open** in the same way: it is a private events space, and the only way in is the official **guided tour, which runs on Mondays only** and releases tickets four weeks ahead. Most guides imply you can wander into both.
+**Control Room B** is a bar on a mezzanine over Turbine Hall B, surrounded by the original 1950s dials and switchgear, and **anyone can walk in** — children welcome until 5pm. **Control Room A is not open** in the same way: it is a private events space, and the only way in is the official **guided tour, which runs on Mondays only** and releases tickets four weeks ahead.
 
 The free heritage bits people miss: the **Power of Place** exhibition on Level 1, the original plant machinery displayed as sculpture across Power Station Park, and **a cut section of one of the original chimneys** taken down during the rebuild.
 

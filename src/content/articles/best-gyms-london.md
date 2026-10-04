@@ -116,7 +116,7 @@ At Islington the ladder is **£109 off-peak, £128 Anytime, £150 rolling** — 
 
 **Everlast Gyms is the Sports Direct gym brand, and its only London club is from £100 a month.** At Chiswick Sports Ground, that is more than double a PureGym in the same postcode area and dearer than Nuffield at Ealing. It does have a pool, aqua classes, Hyrox, reformer Pilates, ice baths and free parking. It also has the shortest hours of any chain here: **Mon–Thu 06:00–22:00, Fri to 21:00, weekends 08:00–18:00.**
 
-> **Sports Direct Fitness no longer exists as a brand.** The estate trades as Everlast under Frasers Group, and guides still listing Sports Direct gyms in London are describing something that is not there.
+> **Sports Direct Fitness no longer exists as a brand.** The estate trades as Everlast under Frasers Group.
 
 ---
 
@@ -148,13 +148,13 @@ Better's cheapest London centre is **Phoenix Fitness Centre in Hammersmith at £
 
 The other public operators:
 
-- **Everyone Active** runs the Westminster cluster plus the **London Aquatics Centre** — which is Sports & Leisure Management, not GLL, whatever the older guides say. Porchester MOVE+ is £39.99, the Aquatics Centre £42.99, and a swim-only membership at Porchester is £30.00. The joining fee was £0 in September 2026. The "no contract" claim comes with a compulsory **final month paid in advance** at sign-up, which you get back as a notice period rather than as money.
+- **Everyone Active** runs the Westminster cluster plus the **London Aquatics Centre** — which is Sports & Leisure Management, not GLL. Porchester MOVE+ is £39.99, the Aquatics Centre £42.99, and a swim-only membership at Porchester is £30.00. The joining fee was £0 in September 2026. The "no contract" claim comes with a compulsory **final month paid in advance** at sign-up, which you get back as a notice period rather than as money.
 - **Places Leisure** runs Wandsworth and Kingston. Premium Flexi at Putney is **£47.00** with no minimum term — but the first payment is **£63.99**, described as "a pro rata payment to cover the remaining days of this period and a one-off fee".
 - **Move Southwark** is council-run, uniform across eight centres: **£39.49** for Move Essential up to **£61.49** for Move Unlimited, £25 joining fee, freeze at £7.50 a month. The tiers differ on how many sites and how far ahead you can book, not on time of day.
 - **Be Well** is Tower Hamlets in-house: **£44.45** anytime, **£36.60** off-peak, **£15.00** disability membership, **no joining fee and no contract**, and every membership covers all six centres. A "Be Well For Now" membership runs from one day upwards.
 - **Mytime Active** runs Bromley's six centres as a charity with no contract and no joining fee — and **publishes no prices at all**.
 
-> ⚠️ **Fusion Lifestyle is gone.** It went into administration on 1 April 2026 and **ceased to trade on 30 June 2026**. **Golden Lane Sport and Fitness closed on 30 April 2026.** **Brockwell Lido transferred to Active Lambeth**, Lambeth Council's own leisure service, on 1 July 2026. Any London gym guide still listing Fusion centres is out of date.
+> ⚠️ **Fusion Lifestyle is gone.** It went into administration on 1 April 2026 and **ceased to trade on 30 June 2026**. **Golden Lane Sport and Fitness closed on 30 April 2026.** **Brockwell Lido transferred to Active Lambeth**, Lambeth Council's own leisure service, on 1 July 2026.
 
 ---
 
@@ -228,7 +228,7 @@ Boutique studios do not sell a gym floor. They sell a booked class at £26 to £
 
 **Barry's, Equinox, F45 and Mytime Active publish no prices on their own websites.** Barry's sends you to its app. F45 is franchised, and the 14-day trial it offers is "Local Residents Only".
 
-**Two corrections to the guides.** **SoulCycle still trades in London**, from one studio at 3–4 Great Marlborough Street, W1F 7HH — pages listing it as closed are wrong, and so are pages listing several London studios. **Digme Fitness also still trades**, from Moorgate and Richmond plus online, which is much smaller than the estate older articles describe.
+**SoulCycle still trades in London**, from one studio at 3–4 Great Marlborough Street, W1F 7HH. **Digme Fitness also still trades**, from Moorgate and Richmond plus online.
 
 ---
 
@@ -263,7 +263,7 @@ Boutique studios do not sell a gym floor. They sell a booked class at £26 to £
 
 **And the rest worth knowing.** **Oasis in Covent Garden** has an outdoor heated pool and an indoor one in the middle of the West End (£8.10, or £5.80 with a Pay&Play card). **Ironmonger Row Baths** in Islington has the Turkish spa (£7.60 off-peak). **Pools on the Park** in Richmond has both indoor and outdoor. **Porchester** has a 30m four-lane main pool, a 20m teaching pool and the Porchester Spa. **Britannia** and **London Fields Lido** are £6.40, or £4.55 with a card. **Crystal Palace at £3.20 off-peak is the cheapest swim we found anywhere in London**, with seniors at £2.50 any time.
 
-> ⚠️ **Crystal Palace has no 50-metre pool to swim in.** Better lists a 25-metre training pool and a teaching pool there, and plenty of guides still send people for a 50-metre swim. For long-course lanes, go to the London Aquatics Centre, Hillingdon or London Fields Lido.
+> ⚠️ **Crystal Palace has no 50-metre pool to swim in.** Better lists a 25-metre training pool and a teaching pool there. For long-course lanes, go to the London Aquatics Centre, Hillingdon or London Fields Lido.
 
 ---
 

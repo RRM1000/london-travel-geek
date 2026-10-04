@@ -318,7 +318,7 @@ None of these takes a booking, and none of them is a dinner. Check hours before 
 
 ## Worth knowing, briefly
 
-Named by one or two sources, or sitting far enough out that most guides never reach them.
+Named by one or two sources, or further out from the centre.
 
 | Venue | Area | Price | What it is |
 | --- | --- | --- | --- |

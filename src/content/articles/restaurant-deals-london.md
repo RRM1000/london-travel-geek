@@ -149,8 +149,6 @@ Same mechanism, later in the day. A restaurant near a theatre needs its 5.30pm t
 
 ## What is not actually a deal
 
-Worth knowing, because these come up on every other list:
-
 - **J Sheekey** has a £34 set menu, but it runs all day every day — a fixed price, not a lunch discount
 - **The Wolseley** serves lunch 11.30am–3pm but has no set-price lunch menu at all
 - **Barrafina** does not run one; the tapas are à la carte only

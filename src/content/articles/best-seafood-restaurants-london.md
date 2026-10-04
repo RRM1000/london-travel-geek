@@ -19,7 +19,7 @@ faq:
   - q: "Can visitors go to Billingsgate Fish Market?"
     a: "Yes. It is the UK's largest inland fish market, trades from about 4am near Canary Wharf, and the public can buy. It is finished by around 8am — this is an early morning, not a late one."
   - q: "Which London seafood restaurants have a Michelin star?"
-    a: "Behind in Hackney, which took its star in January 2021 after roughly twenty days of trading, and Angler on the roof of the South Place Hotel in Moorgate. Wiltons displays a Michelin Guide certificate on its website, which is a listing and not a star — several guides get this wrong."
+    a: "Behind in Hackney, which took its star in January 2021 after roughly twenty days of trading, and Angler on the roof of the South Place Hotel in Moorgate. Wiltons displays a Michelin Guide certificate on its website, which is a listing and not a star."
   - q: "Is London seafood expensive?"
     a: "The grand rooms are. But Sam's Riverside does two courses for £26.60, Manzi's lunch is £16 for two courses, Sweetings does a fish pie for £13.50, and a Borough Market fish sandwich is around £8. The £2 oyster hours are the best value in London dining."
 ---
@@ -146,7 +146,7 @@ The proposition is oysters and the view: it claims **London's longest oyster lis
 
 A marble-topped oyster bar, Dover sole meunière and a carving trolley, none of it modernised because there is no reason to. It keeps a dress code, too. Saturday is dinner only, and Sunday it shuts.
 
-> **It does not hold a Michelin star.** What it holds is a Michelin Guide listing, which several guides report as a star.
+> **It does not hold a Michelin star.** What it holds is a Michelin Guide listing.
 
 ![The frontage of Wiltons Restaurant on Jermyn Street at night](../../assets/articles/best-seafood-restaurants-london/wiltons.jpg)
 

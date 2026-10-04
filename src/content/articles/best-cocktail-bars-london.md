@@ -19,7 +19,7 @@ faq:
   - q: "How much is a cocktail in London?"
     a: "Most London cocktail bars do not publish prices, so treat any figure you see with suspicion. What is reliable is the gap: the Mayfair and St James's hotel bars are the most expensive rooms in the city, and the east London independents — Satan's Whiskers, Coupette, Happiness Forgets — charge considerably less for drinks made just as carefully."
   - q: "Which London cocktail bars do not take bookings?"
-    a: "The Connaught Bar takes no reservations at any hour, for anyone — arrive at 4pm when it opens. Dukes Bar is walk-in only too, despite what most guides say. Satan's Whiskers does take reservations but only by telephone, which is why it is so often written up as taking none."
+    a: "The Connaught Bar takes no reservations at any hour, for anyone — arrive at 4pm when it opens. Dukes Bar is walk-in only too. Satan's Whiskers does take reservations, but only by telephone."
   - q: "Is there a dress code?"
     a: "The Connaught, Dukes and Artesian all prefer smart — no sportswear, and jackets are common though rarely required. The east London bars have no code whatsoever."
 ---
@@ -215,7 +215,7 @@ Cheaper, later, and no less serious.
 
 **Taxidermy on the walls, hip-hop loud enough to talk over**, and a menu rewritten daily since it opened in late 2013. Consistently named one of the best bars in London by people who go to bars for a living, and it has never once behaved like it.
 
-**The booking position is more forgiving than its reputation suggests.** Their own words: walk-in guests are accepted, and reservations are recommended but not essential — but **reservations are taken by telephone only**. There is no online form, which is why so many guides wrote it up as taking no bookings at all.
+**The booking position is more forgiving than its reputation suggests.** Their own words: walk-in guests are accepted, and reservations are recommended but not essential — but **reservations are taken by telephone only**. There is no online form.
 
 Open **from 5pm every day**, running later on Fridays and Saturdays. 343 Cambridge Heath Road, E2 9RA, five minutes from Bethnal Green.
 
@@ -307,7 +307,7 @@ A low-waste neighbourhood bar from the same family behind Three Sheets, built ar
 
 The Snickers Old Fashioned, Moro Margarita and Rhubarb Negroni are the signatures, £10.50–£12.50, with £7 "mini drinks" for something smaller.
 
-**Thirty per cent off every drink between 6 and 7pm, on every day they open** — which is Tuesday to Saturday, not seven nights a week as several other guides claim. The bar runs **6pm to midnight, Tuesday to Saturday, closed Sunday and Monday**. Within those five days it is still the most generous standing offer of any bar here.
+**Thirty per cent off every drink between 6 and 7pm, on every day they open** — which is Tuesday to Saturday. The bar runs **6pm to midnight, Tuesday to Saturday, closed Sunday and Monday**. Within those five days it is still the most generous standing offer of any bar here.
 
 > The kitchen is closed until 25 September 2026, reopening with chef Christine Walsh. The bar is trading throughout.
 

@@ -2021,7 +2021,7 @@ const ROWS = [
     subject: "Skyfall (2012) - the rooftop chase above Whitehall",
     hood: "Whitehall", borough: "City of Westminster", areaGuide: "westminster-area-guide",
     address: "55 Whitehall", postcode: "SW1A 2HP",
-    whyGo: "The government building Bond scrambles across the roof of during the attack on the inquiry. Guides still call it the Department of Energy and Climate Change, which was abolished in 2016 - the building stands, the department does not.",
+    whyGo: "The government building Bond scrambles across the roof of during the attack on the inquiry. Often filed as the Department of Energy and Climate Change, which was abolished in 2016 - the building stands, the department does not.",
     opSummary: "A government office with no public access. This is a look-up-from-the-pavement location on Whitehall, free and always visible, five minutes from Westminster or Charing Cross.",
     source: "movie-locations.com (Tony Reeves), fetched 2 September 2026",
   },

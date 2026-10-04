@@ -108,7 +108,7 @@ If you want the building rather than the business, tours are ticketed and **open
 - **Big Ben tour** — **£55**, age 11 and over, and **300-plus steps** on foot. There is no lift.
 - **Speaker's House** — **£23**, and best suited to over-16s.
 
-> 💡 **The free tour exists but is not for visitors.** UK residents only can book a free 75-minute guided tour through their own MP. Everybody else pays. That is the opposite of what most guidebooks imply about Big Ben, where the paid climb is open to anyone and it is the *free* tour that is restricted.
+> 💡 **The free tour exists but is not for visitors.** UK residents only can book a free 75-minute guided tour through their own MP. Everybody else pays. Big Ben works the same way: the paid climb is open to anyone, and it is the *free* tour that is restricted.
 
 ## 3. The Supreme Court
 

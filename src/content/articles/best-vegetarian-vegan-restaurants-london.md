@@ -24,7 +24,7 @@ faq:
     a: "Plates takes months and Tofu Vegan books weeks ahead on Upper Street. Almost everything else here is walk-in or a few days out. Mildreds does not take bookings at every site."
 ---
 
-London has more Michelin-starred vegetarian and vegan cooking than any other city, and it also has a £10 thali on Drummond Street that has not changed since 1971. Both are worth knowing about, and most guides only tell you about one.
+London has more Michelin-starred vegetarian and vegan cooking than any other city, and it also has a £10 thali on Drummond Street that has not changed since 1971.
 
 This one is arranged **by what you are actually paying**, because the range here is wider than in any other category on this site — from a fried chicken shop where nothing costs more than a burger to a tasting menu that books out months ahead.
 

@@ -151,7 +151,7 @@ Kobe is served several ways across a set menu: seared on a hot stone at the tabl
 
 *££££ · the most-cited Japanese room in London* · Cited by 5 sources
 
-**The most-cited Japanese room in London** across these sources — izakaya-scale plates done at sushi-counter precision, and with **a courtyard that most guides forget to mention**.
+**The most-cited Japanese room in London** across these sources — izakaya-scale plates done at sushi-counter precision, and with **a courtyard**.
 
 The format is small plates rather than a set sequence: **tar tar chips** — spicy tuna on crisp discs — seared scallops, black cod, and nigiri from the same kitchen. It reads as a bar menu and eats like a tasting one.
 

@@ -1,7 +1,7 @@
 ---
 title: "The Best Immersive Experiences in London: What's Actually Still Open"
 seoTitle: "Best Immersive Experiences London 2026: Still Open"
-description: "Immersive shows close constantly and most guides are years out of date. Every experience here was status-checked against its own site, with the closed ones listed separately."
+description: "Immersive shows close constantly. Every experience here was status-checked against its own site, with the closed ones listed separately."
 publishedAt: 2026-07-02
 updatedAt: 2026-10-03
 reviewBy: 2026-10-01
@@ -31,7 +31,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0"
 
 Immersive shows are the fastest-closing category of anything to do in London, and it is not close. **Three of the biggest names in the city shut in the first half of 2026 alone.**
 
-That is the actual problem with picking one. Every other guide to this subject is a list of things that were open when it was written, and most were written a while ago. So every show below carries a status.
+So every show below carries a status.
 
 > 💡 **The Short Version:** **Bridge Command** is the most genuinely interactive thing in London — you crew a starship with a real job. **Mamma Mia! The Party** is the big night out. **Faulty Towers** is the funniest and you cannot hide from it. **Frameless** is the one for people who hate being spoken to. **Outernet is free.** And **Jeff Wayne's War of the Worlds, Vikings and the Gunpowder Plot have all closed** — do not let an old listicle send you there.
 
@@ -455,8 +455,6 @@ There is an adults-only after-hours strand, and combined tickets with the London
 ---
 
 ## Closed — and worth saying so
-
-This is the section other guides leave out, and it is the reason people turn up at locked doors.
 
 * **Jeff Wayne's The War of the Worlds** — **closed 30 April 2026** with no notice, after seven years, when the company licensed to operate it ceased trading. A £400,000 upgrade had just been completed. The producers say they are "actively exploring ways to bring the immersive experience back in a different way", with no timeline.
 * **Elvis Evolution** — closed in the same collapse, in **April 2026**, after nine months.

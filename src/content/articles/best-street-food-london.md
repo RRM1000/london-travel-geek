@@ -280,7 +280,7 @@ The food runs to **salt beef bagels, Ghanaian and Nigerian plates, dumplings, pa
 
 It is open **daily rather than weekends only**, which catches people out in both directions: the food hall trades every day, but the surrounding retail markets only expand at weekends, and **everything shuts at 6pm.**
 
-Seating is scarce and it is chaotic. A weekday lunchtime, when the queue for each stall runs one person deep, beats the weekend. Note that the **Boiler House**, which older guides still send people to, is no longer one of the Truman Brewery's markets.
+Seating is scarce and it is chaotic. A weekday lunchtime, when the queue for each stall runs one person deep, beats the weekend. The **Boiler House** is no longer one of the Truman Brewery's markets.
 
 ![A stall at Upmarket on Brick Lane serving Beijing dumplings and Chinese food, its trays of crispy chicken and stir-fries under heat lamps, with hand-lettered signs and further stalls stretching down the hall behind](../../assets/articles/best-street-food-london/upmarket-brick-lane.jpg)
 
@@ -363,7 +363,7 @@ Standing only, no seating, and a two-to-four hour window. These are for people w
 
 ## Going, or already gone
 
-Street food turns over faster than any other part of London eating, and a lot of guides are years out of date.
+Street food turns over faster than any other part of London eating.
 
 * **Mercato Metropolitano, Elephant & Castle** — trading only **until the end of 2026**. A 892-home redevelopment was approved in March 2026.
 * **Pop Brixton** — in administration since 2024, lease extended to winter 2026, and a 288-home scheme for the site has been approved. Expect closure.

@@ -121,7 +121,7 @@ It is the best route into the City on this list. The clues take you down alleys 
 
 The venue that **invented social darts** and has since been copied worldwide. Seven multiplayer games, automatic scoring, food and drink brought to the oche, and a camera that emails you the highlights the next day. It is still the best-executed version of the format, and the arithmetic is done for you.
 
-**The booking rules are what nobody tells you.** Sessions are **fixed at 90 minutes and cannot be extended**. And there is a **minimum group size** to book after 4pm: four people on Monday and Tuesday, **six from Wednesday to Friday and all day Saturday**, and six every day through December. A couple cannot book a Friday night here at all.
+**The booking rules.** Sessions are **fixed at 90 minutes and cannot be extended**. And there is a **minimum group size** to book after 4pm: four people on Monday and Tuesday, **six from Wednesday to Friday and all day Saturday**, and six every day through December. A couple cannot book a Friday night here at all.
 
 Play starts at **£10 a head**. Groups over 12 get two oches, over 24 get three, and 37-plus goes to the events team. Family Sessions run Sunday to Friday until 4.30pm for ages 12 and up, but the venues are **strictly 18+ after 5pm Sunday to Friday and all day Saturday**. Bloomsbury has restricted wheelchair access.
 
@@ -316,8 +316,6 @@ Neither is a night out and neither pretends to be. Both are a perfectly good nin
 ---
 
 ## Closed, moved or dark — and worth saying so
-
-This is the section other guides leave out, and it is why people turn up at locked doors.
 
 * **Junkyard Golf Club London** — **closed.** The scrap-and-neon crazy golf course at 91 Brick Lane in the Old Truman Brewery has gone. The company's own site says the London course **has closed.** Leeds, Liverpool, Manchester, Newcastle and Oxford continue.
 * **Swingers City** — **closed on 22 March 2025**, after nine years as the company's first permanent venue, because the landlord is demolishing the whole block. **Swingers West End is now the only UK site**.

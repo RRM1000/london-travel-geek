@@ -28,7 +28,7 @@ faq:
 
 At a hot pot the kitchen hands over the raw ingredients and leaves you to it. A pot of broth arrives at the table already boiling, plates of thinly sliced meat and vegetables arrive beside it, and for the next two hours you cook your own dinner piece by piece.
 
-**It is a format rather than a cuisine**, and that is the thing most guides get wrong. A Chongqing pot and a Beijing copper pot have almost nothing in common: one is a slab of beef tallow melting into a kilo of dried chillies, the other is clear water in a charcoal chimney with lamb sliced thin enough to see through. Sending someone who wants the second to the first is not a small mistake.
+**It is a format rather than a cuisine.** A Chongqing pot and a Beijing copper pot have almost nothing in common: one is a slab of beef tallow melting into a kilo of dried chillies, the other is clear water in a charcoal chimney with lamb sliced thin enough to see through. Sending someone who wants the second to the first is not a small mistake.
 
 > 📌 **The short version.**
 > **Haidilao** is named by more independent sources than any other hot pot in London — seven of seventeen — and it is the right first one, because the chain does the hand-holding. **Chilli Cool** and **Shu Xiang Ge** are the most widely named independents at five each. For clear-broth lamb rather than chilli, go to a **Beijing copper pot**. For one person and under £15, go to a **malatang** counter and fill a basket. Budget £25 to £40 a head, and remember the broth is charged separately.
@@ -326,7 +326,7 @@ Five of the best-known names here — Haidilao, Happy Lamb, Da Long Yi, Yangguof
 
 **Where the independents win.** Specificity and price. No chain in London serves a charcoal copper pot, a lamb spine, a Chaoshan menu sorted by cut, or a Hainanese coconut chicken broth — those are all single-site restaurants, and they are the meals worth travelling for. The independents are also materially cheaper: the Poplar and Isle of Dogs rooms will feed four for what two spend in Chinatown.
 
-**One thing to know about the published lists.** DesignMyNight's London hot pot guide still recommends Sichuan Folk on Brick Lane, which shut in 2025. This is worth knowing generally: hot pot lists are updated rarely, and a recent-looking date at the top of a page is not evidence a restaurant is open.
+**Sichuan Folk on Brick Lane shut in 2025.** Hot pot lists are updated rarely, so check a restaurant is still open before you travel.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hot-pot-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

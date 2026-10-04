@@ -5,7 +5,7 @@ description: "A banana-ripening warehouse full of food traders, a flower market 
 heroImage: "../../assets/articles/best-london-markets/canopy-market-kings-cross.jpg"
 heroImageAlt: "Traders and long picnic benches under the glass roof of Canopy Market in King's Cross"
 publishedAt: 2026-06-01
-updatedAt: 2026-09-27
+updatedAt: 2026-10-04
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -92,7 +92,7 @@ Horn OK Please and Gujarati Rasoi are the two vegetarian Indian stalls worth cro
 
 A **narrow ropewalk of food traders wedged under the railway arches** since 2010 — oysters, waffles, gin, and about twenty stalls in a corridor. The market locals use instead of Borough, ten minutes away.
 
-> ⚠️ **Weekends only, and this is the most common wasted trip in Bermondsey.** Saturday and Sunday, roughly 10am to 4pm. The rest of the week Ropewalk is an alley of shuttered arches. Plenty of guides describe it as though it were a permanent market.
+> ⚠️ **Friday evening to Sunday only, and this is the most common wasted trip in Bermondsey.** Saturday 10am to 5pm, Sunday 11am to 4pm, and Friday 5.30pm to 9pm in summer. The rest of the week Ropewalk is an alley of shuttered arches.
 
 **A few arches do trade midweek**, which is the part worth knowing: **40 Maltby Street** at number 40 is a wine bar and kitchen open Wednesday to Sunday, and one of the best wine lists in London behind a roller shutter.
 

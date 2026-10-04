@@ -28,7 +28,7 @@ faq:
 
 Ask the internet where to eat Jamaican food in London and it will answer with Caribbean guides. That is not a search engine failing — it is the writers being right. **The serious sources on this subject cover the islands together and separate them inside the piece**, because Trinidadian roti, Guyanese stews and Jamaican jerk are different cooking that happens to share a sea.
 
-There is a second thing the published lists get wrong, and it is bigger. **They cover restaurants.** The most thorough source in this pass — a food blog with its own photographs — names caterers, food trucks, jerk drums, a tuck shop and a café inside the Peckham bus garage, and roughly two dozen of its entries appear in no magazine anywhere.
+**Much of it is not in restaurants.** The most thorough source in this pass — a food blog with its own photographs — names caterers, food trucks, jerk drums, a tuck shop and a café inside the Peckham bus garage, and roughly two dozen of its entries appear in no magazine anywhere.
 
 > 💡 **The Short Version:** **Fish, Wings & Tings** in Brixton Village is named by seven sources, more than anything else. **Limin** on the South Bank is six. **Jam Delish** is entirely vegan and named by five. **Ewart's** in Dalston is barely covered by magazines and heavily covered by everyone else. The best of this scene is as often a counter as a dining room.
 
@@ -163,7 +163,7 @@ The sources divide this way and so should a reader. Every one of the serious gui
 
 ---
 
-## The part the restaurant lists miss
+## West African food nearby
 
 [West African food in London](/articles/best-west-african-restaurants-london/) is the other half of this story, and the same neighbourhoods carry it — Peckham and Brixton especially.
 

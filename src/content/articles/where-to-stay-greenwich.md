@@ -324,6 +324,6 @@ Staycity's second aparthotel in the area opens in October 2026 beside the DLR, w
 
 Across the river, our [Canary Wharf hotel guide](/articles/where-to-stay-canary-wharf/) covers the aparthotels on the Elizabeth line, ten minutes from Cutty Sark on the DLR. The [Canary Wharf to Greenwich walk](/articles/canary-wharf-greenwich-walk/) crosses under the Thames through the foot tunnel and finishes on Greenwich hill, and the [O2 travel guide](/articles/the-o2-travel-guide/) covers the cable car and event-night transport. For a family trip, our [family hotels guide](/articles/best-family-hotels-london/) compares London's family rooms, the [budget hotels guide](/articles/best-budget-hotels-london/) the cheapest beds, and the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for.
 
-**Older lists still name De Vere Devonport House**, beside the National Maritime Museum. It is now University of Greenwich accommodation for postgraduate students, not a hotel.
+**De Vere Devonport House is no longer a hotel.** Beside the National Maritime Museum, it is now University of Greenwich accommodation for postgraduate students.
 
 *Typical nightly rates for a double, checked September 2026. The £ symbols mark a price band where we hold no typical rate. Prices move nightly, so check your own dates.*

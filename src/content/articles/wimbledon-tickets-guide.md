@@ -640,7 +640,7 @@ Do not assume your own national tennis federation has an allocation. The AELTC n
 - **Buying a ballot ticket from a successful applicant.** Ballot tickets are not transferable and are explicitly unsuitable as gifts. The named purchaser is expected at the gate with photo ID. LTA ballot tickets carry a harsher penalty still: resell one and the LTA's stated position is that your tickets are cancelled and you are banned from attending The Championships.
 - **Posting a photo of your ticket.** The AELTC asks people not to share ticket images on social media, because the details are used to defraud others and can leave you with problems at the gate.
 
-> ⚠️ **Be as sceptical of the guides as of the sellers.** Several sites publish precise-sounding Wimbledon ballot statistics — applicant numbers, success rates, "record demand" percentages — for ballots that are still being drawn. The AELTC has never published applicant numbers or odds. If you see a figure, it was invented.
+> ⚠️ **The AELTC has never published applicant numbers or odds.** Any precise-sounding Wimbledon ballot statistic — applicant numbers, success rates, "record demand" percentages — is invented, including for ballots still being drawn.
 
 ---
 

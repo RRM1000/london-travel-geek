@@ -153,7 +153,7 @@ Weekend hours across all of them are broadly **Saturday 11am–6pm and Sunday 10
 
 **Rough Trade East is on Dray Walk**, inside the complex, and it is open daily. In-store gigs run on the stage at the back and the shop is free to walk into either way.
 
-> ⚠️ **The Boiler House is not one of these.** Older guides still send people to a Boiler House food hall on Brick Lane; it does not appear anywhere on the Truman Brewery's own site, on the markets page or elsewhere. Do not plan a lunch around it.
+> ⚠️ **The Boiler House is not one of these.** The Boiler House food hall on Brick Lane is no longer one of the Truman Brewery's markets. Do not plan a lunch around it.
 
 ## 6. The Brick Lane Vintage Market
 

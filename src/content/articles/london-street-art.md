@@ -197,7 +197,7 @@ The newest Banksy in London and the easiest to see. A suited figure stepping dow
 
 Green paint sprayed across a wall behind a **pollarded cherry tree**, so the wall reads as the foliage the tree has lost. It was defaced with white paint within days; Islington Council fenced it, installed CCTV and sent patrols.
 
-Still there, still fenced, still damaged. It is on **Hornsey Road in Islington** — a lot of guides put it in Hackney, which will send you a mile and a half the wrong way.
+Still there, still fenced, still damaged. It is on **Hornsey Road in Islington**.
 
 **Free and visible from the pavement**, but the fencing and the CCTV mean you are looking at it through a barrier rather than standing in front of it, and the white paint over the green is not coming off.
 
@@ -479,7 +479,7 @@ There are two completely separate markets here and they have almost nothing to d
 * **Leake Street is the reliable one** because it is legal and constantly renewed — you will always find something.
 * **Shoreditch changes fastest.** A guided tour is worth it there specifically, because the commentary is about what is new.
 * **Respect residents.** Much of this is on the side of people's homes and businesses.
-* **The London Mural Festival runs every four years**, not annually — 2020, 2024, and next in 2028. There was no 2022 edition and there is no 2026 one, whatever some listings say.
+* **The London Mural Festival runs every four years**, not annually — 2020, 2024, and next in 2028. There was no 2022 edition and there is no 2026 one.
 
 ---
 

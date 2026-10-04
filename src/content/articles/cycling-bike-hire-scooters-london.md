@@ -64,7 +64,7 @@ Verified from TfL's own fares page:
 * **Monthly Pass — from £20.** **Annual Pass — from £120.**
 * **E-bikes:** add **£1 per journey** on any pass, or **£3** for up to 30 minutes as a single ride.
 
-> **The old "first 30 minutes free" is gone.** That was the scheme's defining feature for years and it is what most guides still say. The Day Pass now carries **60-minute** rides instead, which is better value for a visitor but works completely differently.
+> **The old "first 30 minutes free" is gone.** That was the scheme's defining feature for years. The Day Pass now carries **60-minute** rides instead, which is better value for a visitor but works completely differently.
 
 ### How it works
 

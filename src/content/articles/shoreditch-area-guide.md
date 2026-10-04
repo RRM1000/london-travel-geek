@@ -108,7 +108,7 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 
 The spine of the area, and it changes character three times along its length. **Bangladeshi restaurants at the south end** around the mosque, where the touts work the pavement and the good ones do not need to. **The Truman Brewery in the middle**, which is where most of what people come for actually is. **The bagel bakeries at the north end**, where **Beigel Bake at 159 is open 24 hours a day, seven days a week** by its own account — and where the **Beigel Shop at 155**, the yellow-fronted one, is a completely separate business four doors down. [Which to pick is its own question](/articles/best-sandwiches-london/).
 
-The **Truman Brewery** itself is the thing to understand: brewing stopped in 1989, and the buildings on both sides of Brick Lane now hold **eight separate markets** on its own current listing, plus studios, galleries and event space. They do not all run on the same days, which is the single most common way to get this wrong.
+The **Truman Brewery** itself is the thing to understand: brewing stopped in 1989, and the buildings on both sides of Brick Lane now hold **eight separate markets** on its own current listing, plus studios, galleries and event space. They do not all run on the same days.
 
 **Rough Trade East** is on Dray Walk inside the complex — a record shop with a stage at the back, and in-store gigs that are free with an album purchase.
 
@@ -142,7 +142,7 @@ Around the covered market hall, and the most architecturally intact corner of th
 
 Walk them slowly and look up. Many are still lived in, several by artists who bought them when the area was cheap, and **Dennis Severs' House** on Folgate Street is the one you can go inside: a candlelit Georgian house presented as though the family has just left the room, silent and staged and unlike anything else in London. Book ahead.
 
-**Old Spitalfields Market** itself trades daily under a Victorian roof, with a different theme by day — **antiques on Thursday**, when the hall opens early at 08:00; **records on the first and third Friday of the month** rather than every Friday, which is the detail most guides get wrong; makers on Wednesday; general and vintage at the weekend. The daily market runs 10:00–18:00 Monday to Saturday and closes earliest of all on Sunday, at 17:00. The Kitchens, a dozen food counters around shared tables, opens 11:00–18:00 Monday to Saturday and 11:00–17:00 on Sunday, and is the most reliable weekday lunch in the area.
+**Old Spitalfields Market** itself trades daily under a Victorian roof, with a different theme by day — **antiques on Thursday**, when the hall opens early at 08:00; **records on the first and third Friday of the month** rather than every Friday; makers on Wednesday; general and vintage at the weekend. The daily market runs 10:00–18:00 Monday to Saturday and closes earliest of all on Sunday, at 17:00. The Kitchens, a dozen food counters around shared tables, opens 11:00–18:00 Monday to Saturday and 11:00–17:00 on Sunday, and is the most reliable weekday lunch in the area.
 
 ![Long communal tables full of people eating in front of the food counters at Old Spitalfields Market](../../assets/articles/shoreditch-area-guide/old-spitalfields-kitchens.jpg)
 

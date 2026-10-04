@@ -59,7 +59,7 @@ These are the fares Eurostar was quoting in September 2026 for a Tuesday in Octo
 
 ### Eurostar Standard, Plus or Premier
 
-Eurostar renamed its travel classes: **Eurostar Standard, Eurostar Plus and Eurostar Premier now replace the old Standard, Standard Premier and Business Premier** on routes to and from London, so ignore any older guide still using those names.
+Eurostar renamed its travel classes: **Eurostar Standard, Eurostar Plus and Eurostar Premier now replace the old Standard, Standard Premier and Business Premier** on routes to and from London.
 
 | | Eurostar Standard | Eurostar Plus | Eurostar Premier |
 | --- | --- | --- | --- |

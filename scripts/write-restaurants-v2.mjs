@@ -6114,7 +6114,7 @@ const rows = [
     venueFormat: "Restaurant", chainType: "mini-chain",
     hood: "Chelsea", borough: "Kensington and Chelsea", areaGuide: "chelsea-area-guide",
     priceBand: "££££",
-    whyGo: "The most-cited Japanese room in London across these sources - izakaya-scale plates done at sushi-counter precision, with a courtyard that most guides forget to mention.",
+    whyGo: "The most-cited Japanese room in London across these sources - izakaya-scale plates done at sushi-counter precision, with a courtyard.",
     angle: "contrast",
     outdoor: "courtyard",
     bookingLead: "weeks",

@@ -1640,7 +1640,7 @@ const ROWS = [
     servesFood: "no", servesAlcohol: "yes",
     whyGo: "Aztec, Medieval, Industrial and Futuristic zones played against the clock with a live Maze Master, ending in the Crystal Dome with the gold tickets whipping round.",
     angle: "room",
-    opSummary: "Teams are combined with strangers unless you book the whole slot. VERIFIED at 22-32 Shaftesbury Avenue - it moved from its original Angel site and older guides still send people north.",
+    opSummary: "Teams are combined with strangers unless you book the whole slot. At 22-32 Shaftesbury Avenue - it moved from its original Angel site.",
     goodFor: "groups, families, celebration",
     lists: "activities, showstopper",
     source: "All-guides pass; VERIFIED 2026-08-19 via the-crystal-maze.com and Art of London.",

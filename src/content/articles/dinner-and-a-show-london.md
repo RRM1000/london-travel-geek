@@ -25,7 +25,7 @@ faq:
     a: "Dalston Superstore's drag brunch is £8 with a mimosa or soft drink, every Saturday and Sunday. The Blues Kitchen's live music is free and mains start around £13. Brasserie Zédel's house band costs nothing on top of a £16.95 two-course prix fixe. For a jazz club, the 606 Club's Sunday lunch music charge is £16."
 ---
 
-London sells dinner and a show in two very different shapes, and most lists mix them up. In one, a restaurant has a band in the corner and the music is either free or a few pounds on the bill. In the other, you buy a ticket for a production and dinner comes with it, at a price closer to a West End seat plus a restaurant meal.
+London sells dinner and a show in two very different shapes. In one, a restaurant has a band in the corner and the music is either free or a few pounds on the bill. In the other, you buy a ticket for a production and dinner comes with it, at a price closer to a West End seat plus a restaurant meal.
 
 The difference decides the evening. A restaurant with a band lets you book a table for two on a Thursday, talk through the set and pay for what you eat. A dinner show fixes the start time, the menu, often the dress code, and sometimes who you sit with. Every entry below says which it is, what the show adds to the bill, and which nights it runs.
 
@@ -359,7 +359,7 @@ A 1937 dining car in a railway arch, seven minutes from Bethnal Green station, w
 
 *£££ · Victoria · Taj 51 Buckingham Gate, SW1E · Cited by 3 sources · [book](https://booking.lepetitchef.com/londont/)*
 
-A projection, not a performer: an animated chef six centimetres tall cooks each course on your plate before the real one arrives, over about two hours. The Classic and Vegetarian menus are £139 a head, the Grand menu £149, and a Juniors menu for 6 to 12-year-olds £69, all plus 12.5% service. Arrive 30 minutes early; you may share a table with other guests, and gluten-free needs 48 hours' notice. Dress is smart casual with closed shoes. Some older lists place it at The London Cabaret Club; it now runs at Taj 51 Buckingham Gate.
+A projection, not a performer: an animated chef six centimetres tall cooks each course on your plate before the real one arrives, over about two hours. The Classic and Vegetarian menus are £139 a head, the Grand menu £149, and a Juniors menu for 6 to 12-year-olds £69, all plus 12.5% service. Arrive 30 minutes early; you may share a table with other guests, and gluten-free needs 48 hours' notice. Dress is smart casual with closed shoes. It runs at Taj 51 Buckingham Gate.
 
 ![A tiny animated chef projected onto a dinner plate, among projected kitchen tools on the table](../../assets/articles/dinner-and-a-show-london/le-petit-chef.jpg)
 
@@ -432,7 +432,7 @@ The House Gospel Choir performs at Soul Mama in Angel Central on selected Sunday
 
 *££ · London Bridge · St Thomas's Church, 9a St Thomas Street, SE1 · Cited by 3 sources · [its site](https://amazinggraceldn.com/london-bridge/)*
 
-A bar and restaurant inside a Grade II-listed former church, which is why some lists still call its brunch a gospel brunch. It is not: the weekend **Born Again Brunch, Saturday and Sunday from noon to 4pm**, is a two-course set menu with bottomless drinks and **live acoustic sets from 2pm to 4pm**, from £22 on a Saturday. The Canary Wharf branch runs its own Saturday brunch with live entertainment. It is 18+ and casual.
+A bar and restaurant inside a Grade II-listed former church. Its brunch is not a gospel brunch: the weekend **Born Again Brunch, Saturday and Sunday from noon to 4pm**, is a two-course set menu with bottomless drinks and **live acoustic sets from 2pm to 4pm**, from £22 on a Saturday. The Canary Wharf branch runs its own Saturday brunch with live entertainment. It is 18+ and casual.
 
 ![A guitarist sings on the stage of Amazing Grace, a former church, with the venue's name projected behind him](../../assets/articles/dinner-and-a-show-london/amazing-grace.jpg)
 

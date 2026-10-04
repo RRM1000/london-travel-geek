@@ -66,7 +66,7 @@ faq:
   - q: "What is the best way to get to Greenwich?"
     a: "By river. Uber Boat by Thames Clippers runs from Westminster, Embankment, Bankside and Tower piers and takes 30 to 60 minutes depending on where you start. It costs more than the DLR but is a far better journey. Oyster and contactless are accepted, though river fares are separate from the daily cap."
   - q: "What days is Greenwich Market open?"
-    a: "Every day. The market's own guidance is 10am to 5.30pm daily, including weekends and bank holidays, with the only closures being Christmas Day and the first six Mondays of the year, when traders take a break after the Christmas rush. Older guides still say it shuts on Mondays; that is out of date. It is a five-minute walk from Cutty Sark DLR station."
+    a: "Every day. The market's own guidance is 10am to 5.30pm daily, including weekends and bank holidays, with the only closures being Christmas Day and the first six Mondays of the year, when traders take a break after the Christmas rush. It is a five-minute walk from Cutty Sark DLR station."
 heroImage: "../../assets/articles/greenwich-area-guide/greenwich-hill-view.jpg"
 heroImageAlt: "The view from Greenwich Park over the Old Royal Naval College to Canary Wharf and the City"
 ---

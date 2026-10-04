@@ -180,7 +180,7 @@ Willow Street is a side street off Great Eastern Street — **close enough to th
 
 A heated rooftop pool and terrace open year-round over Shoreditch, which is why guests pick this over the area's other design hotels.
 
-**This building is on its third name.** It was The Curtain, then Mondrian Shoreditch, and has been Virgin Hotels London-Shoreditch since August 2024 — Virgin's first London property. Older guides and some booking listings still use the previous names.
+**This building is on its third name.** It was The Curtain, then Mondrian Shoreditch, and has been Virgin Hotels London-Shoreditch since August 2024 — Virgin's first London property. Some booking listings still use the previous names.
 
 **The rooftop draws a non-resident crowd at weekends.** The pool takes no reservations: it is first come, first served, shared with members of the 45 London club, for those aged 18 and under from 7am to 3pm and for adults aged 21 and over from 3pm to 9pm. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) has the other rooftop pools.
 

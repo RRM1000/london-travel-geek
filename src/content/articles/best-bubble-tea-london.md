@@ -81,7 +81,7 @@ The Queensway shop has a couple of tables, and it's open until about 10pm. Hyde 
 
 **72 Old Compton Street, W1D 4UN.** A Japanese-style tea house, pricier than most, and Time Out says it's worth paying extra for. It makes its own **honey tapioca pearls**. There are also yoghurt popping pearls, a matcha range and hojicha with salted cheese. The Infatuation orders the Earl Grey milk tea for "a nice floral twist."
 
-You order on a screen, and there are **long queues at busy times**. Older guides give 30 Brewer Street, but it's now on Old Compton Street.
+You order on a screen, and there are **long queues at busy times**. It moved from 30 Brewer Street to Old Compton Street.
 
 ### Cuppacha
 
@@ -213,7 +213,7 @@ The lists that rank highest for this search mostly predate recent closures, and 
 
 **Time Out's list was ranked in March 2026, and four of its top ten aren't serving.** That's no knock on Time Out. Shops close faster than any list can keep up. It does show why checking a list against the shops' own listings matters as much as the list itself.
 
-Three chains are open but not at the address most lists give. **Bubbleology** opened London's first bubble tea shop in 2011. Its Soho bar (the one serving boozy bubble teas) and its Bloomsbury shop have both closed, and its remaining London branch is at **Westfield Stratford City**. Its old Rupert Street site is now [Auntea Jenny](#new-openings). **Yi Fang** moved from Shaftesbury Avenue to [Gray's Inn Road](#yi-fang-fruit-tea). **Ding Tea**'s Angel shop has closed, but its [Hackney branch](#chains-and-their-branches) is open.
+Three chains are open but have moved or lost branches. **Bubbleology** opened London's first bubble tea shop in 2011. Its Soho bar (the one serving boozy bubble teas) and its Bloomsbury shop have both closed, and its remaining London branch is at **Westfield Stratford City**. Its old Rupert Street site is now [Auntea Jenny](#new-openings). **Yi Fang** moved from Shaftesbury Avenue to [Gray's Inn Road](#yi-fang-fruit-tea). **Ding Tea**'s Angel shop has closed, but its [Hackney branch](#chains-and-their-branches) is open.
 
 ---
 
@@ -256,8 +256,8 @@ Nearly every name here is a chain, and the lists name the brand, not the branch.
 - **[Xing Fu Tang](#xing-fu-tang)**: Frith Street is the original. XFT City is at 122 Middlesex Street, near Liverpool Street.
 - **[T4](#t4)**: Paddington, Strand, Westfield Stratford City and Westfield London. They're all much the same, so go to whichever is nearest.
 - **[The Whale Tea](#the-whale-tea)**: Queensway to sit down, Wardour Street if you're in Chinatown.
-- 🏷️ **Gong Cha**: 3 Garrick Street, Covent Garden. The Strand's number two, for milk foam matcha strawberry milk tea. A London food podcast's pick is the QQ passionfruit green tea. The Goodge Street branch in older lists has closed. *Cited by 3 sources · #2 of 10, The Strand*
-- 🏷️ **Ding Tea**: the Angel shop older lists name has closed. The **Hackney** branch at 206A Mare Street, E8, is open (closed Tuesdays). Hues of Delahaye's pick is the black sesame milk tea. *Cited by 5 sources*
+- 🏷️ **Gong Cha**: 3 Garrick Street, Covent Garden. The Strand's number two, for milk foam matcha strawberry milk tea. A London food podcast's pick is the QQ passionfruit green tea. The Goodge Street branch has closed. *Cited by 3 sources · #2 of 10, The Strand*
+- 🏷️ **Ding Tea**: the Angel shop has closed. The **Hackney** branch at 206A Mare Street, E8, is open (closed Tuesdays). Hues of Delahaye's pick is the black sesame milk tea. *Cited by 5 sources*
 - 🏷️ **Bobar**: 324C Hackney Road, E2. Named by two London video creators. *Cited by 2 sources · [bobarlondon.com](https://www.bobarlondon.com/)*
 - **[Bubble Magik](#bubble-magik)**: Ealing Broadway, or the fourth floor of Selfridges if you're shopping on Oxford Street.
 - **[Mooboo](#mooboo)**: Parkway in Camden, and dozens more around the country.

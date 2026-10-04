@@ -35,8 +35,6 @@ faq:
 
 **A ticket to the Warner Bros. Studio Tour costs £58.50 for an adult, and you cannot buy one at the door.** Not because it is busy — because they genuinely do not sell them there. Everything else in this guide is cheaper than that, and roughly half of it is free.
 
-Harry Potter is the most written-about subject in London tourism and the worst written-about. Guides still send people to a bar that closed in February, still describe a play that has changed format, and still print an old address for House of MinaLima.
-
 > 💡 **The Short Version:** **Studio Tour £58.50 adult, pre-booked only, allow four hours.** **Cursed Child becomes one play from 9 October 2026, seats from £25.** **Platform 9¾ is free and needs no ticket.** **House of MinaLima has moved to 157 Wardour Street.** **The Cauldron has closed.** And **the Great Hall was never filmed anywhere in London** — it is a set at Leavesden.
 
 > ⚠️ **Official, licensed and unofficial are three different things.** Warner Bros. runs the Studio Tour and exactly three UK shops. The Palace Theatre production is licensed. Everything else in this guide — the themed teas, the wizard hotel rooms, the immersive bars — is somebody's own idea, trading near the theme without using its names. Several venues that did use the names no longer exist. We say which is which throughout.
@@ -166,7 +164,7 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 
 **Harry Potter Shop at the Studio Tour** — Leavesden. **You cannot visit it without a valid tour ticket for that day.** Do not drive to Hertfordshire to shop.
 
-**House of MinaLima** — **157 Wardour Street, Soho, W1F 8WQ, open daily 11am-6.45pm including bank holidays.** Miraphora Mina and Eduardo Lima designed the graphics and printed props for the films — the newspapers, the sweet wrappers, the Marauder's Map — and this is their own gallery and shop. Licensed work rather than a Warner Bros. shop, though their sections appear inside the official stores in New York and Chicago. It is free, it takes twenty minutes, and it is the most genuinely interesting thing on this list. Two warnings from the house itself: the gallery is down a flight of stairs with no alternative access, and there is no toilet, no cloakroom and no eating or drinking inside. Older guides still print 26 Greek Street — that address is out of date.
+**House of MinaLima** — **157 Wardour Street, Soho, W1F 8WQ, open daily 11am-6.45pm including bank holidays.** Miraphora Mina and Eduardo Lima designed the graphics and printed props for the films — the newspapers, the sweet wrappers, the Marauder's Map — and this is their own gallery and shop. Licensed work rather than a Warner Bros. shop, though their sections appear inside the official stores in New York and Chicago. It is free, it takes twenty minutes, and it is the most genuinely interesting thing on this list. Two warnings from the house itself: the gallery is down a flight of stairs with no alternative access, and there is no toilet, no cloakroom and no eating or drinking inside.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -186,7 +184,7 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 | Lambeth Bridge | Prisoner of Azkaban | The Knight Bus squeeze. Nothing marks it |
 | St Pancras, Euston Road | Chamber of Secrets | The Gothic front the Ford Anglia flies over |
 
-**Leadenhall Market was not Diagon Alley**, whatever most guides say. The market's own history calls it the London streets leading to the Leaky Cauldron; Diagon Alley was a set at Leavesden. **The blue door that played the Leaky Cauldron entrance is now Two Eyes Coffee House** on Bull's Head Passage, which says so on its own site and whose profits fund migraine research. It opens 8.30-3.30 on Monday and Friday, 8-4 Tuesday to Thursday, and **closes at weekends**.
+**Leadenhall Market was not Diagon Alley.** The market's own history calls it the London streets leading to the Leaky Cauldron; Diagon Alley was a set at Leavesden. **The blue door that played the Leaky Cauldron entrance is now Two Eyes Coffee House** on Bull's Head Passage, which says so on its own site and whose profits fund migraine research. It opens 8.30-3.30 on Monday and Friday, 8-4 Tuesday to Thursday, and **closes at weekends**.
 
 ![The covered arcade of Leadenhall Market, its maroon and cream ironwork and glass roof above cobbles, with hanging lanterns and shopfronts either side](../../assets/articles/harry-potter-london/leadenhall-market.jpg)
 *Leadenhall Market.*
@@ -199,7 +197,7 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 
 This is where the internet is least reliable: London's unofficial wizarding venues have a high failure rate and the listicles never go back to check.
 
-> ⚠️ **The Cauldron has closed.** The potion-brewing cocktail bar in Dalston that sits near the top of almost every Harry Potter guide to London is gone — the London site closed in early 2026 and the Edinburgh branch has ceased trading. If a guide still recommends it, that guide has not been checked.
+> ⚠️ **The Cauldron has closed.** The potion-brewing cocktail bar in Dalston is gone — the London site closed in early 2026 and the Edinburgh branch has ceased trading.
 
 **Hexmoor**, Unit 11, 127 Hackney Road, Shoreditch, E2 8GY, is the best of the current crop and the most honest about what it is. An immersive fantasy-prison theatre piece with live actors: you are processed, issued a jumpsuit and locked into a story for **1 hour 45 minutes**, with three cocktails or mocktails built into the plot. **From £56.50 including the booking fee**, rising to £65.50 for a fourth drink and a souvenir licence and £88.50 for a one-off wand. It is not an escape room and it is not Harry Potter; it is its own invented world, which is precisely why it still exists.
 

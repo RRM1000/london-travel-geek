@@ -32,7 +32,7 @@ faq:
 
 A capsule is a sealed berth roughly the size of a single bed, lined in oak, with a shutter you slide shut. You cannot stand up in it. It costs from about £33 a night one minute from Piccadilly Circus, which is the entire appeal.
 
-London has **five of them**. Not the ten or eleven you will find on most lists — those pad the number with ordinary hostels, with small-room hotels, and in a couple of cases with places that closed or never opened here.
+London has **five of them**, not counting ordinary hostels and small-room hotels.
 
 > 💡 **The Short Version:** **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is the one to book — 965 berths one minute from the Tube, a 24-hour front desk, and the lowest price of the five. **Zedwell Leicester Place** is the same product at a quieter address. **[St Christopher's Village](hotel:st-christophers-village)** is the only one with a bar and a social side. **Otherwander Soho** is nicer and roughly double the price. **The GreenHouse** in Bethnal Green is tiny and has almost no staff.
 

@@ -31,8 +31,6 @@ faq:
     a: "No. London Zoo closed the 1926 Reptile House, where Harry talks to the python in Philosopher's Stone, to the public in 2023. Its reptiles moved to a new building, the Secret Life of Reptiles and Amphibians, from Easter 2024."
 ---
 
-Most lists of Harry Potter locations in London are a dozen addresses in no particular order, and most of them send you to Leadenhall Market for Diagon Alley, which was a set.
-
 **This route keeps to places the films actually used that you can still stand in.** Nine stops from the City to Westminster, in walking order: the market Hagrid walks Harry through, the door that played the Leaky Cauldron, the bridge the Death Eaters destroy, the building that played Gringotts, the Tube station Harry uses to reach the Ministry, and the bridge the Knight Bus squeezes across.
 
 It is about **8.6km and four hours with stops**, and it splits into two halves at Australia House. Everything on it is free. Platform 9¾ is a Tube ride north, so it goes first.
@@ -103,7 +101,7 @@ The trolley is only out while the Harry Potter Shop beside it is open: **8am to 
 
 *The crossing at Leadenhall Market.*
 
-Most guides say it played Diagon Alley. It didn't. The market's own history page says it stood in for the Muggle London streets leading to the Leaky Cauldron. Diagon Alley was a set at Leavesden, and you can walk down it on the [Studio Tour](/articles/harry-potter-studio-tour/).
+It did not play Diagon Alley. The market's own history page says it stood in for the Muggle London streets leading to the Leaky Cauldron. Diagon Alley was a set at Leavesden, and you can walk down it on the [Studio Tour](/articles/harry-potter-studio-tour/).
 
 The building is the work of **Sir Horace Jones**, the City Architect who also designed Smithfield, Billingsgate and Tower Bridge. It went up in **1881**, replacing a stone market, and was listed Grade II in 1972. The City of London Corporation still owns and runs it.
 

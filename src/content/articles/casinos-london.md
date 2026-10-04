@@ -399,8 +399,6 @@ There is a bar doing cocktails and small bites, and a dining room for members an
 
 ## Closed, and worth saying so
 
-The section other guides leave out, and the reason people still turn up at dark doors on Curzon Street.
-
 * **Crockfords, 30 Curzon Street** — **closed permanently.** It had traded since the 1820s, which made it Britain's oldest casino.
 * **The Ritz Club, 150 Piccadilly** — **closed.** The casino in the hotel's basement ballroom shut in 2020 and never reopened.
 * **The Clermont Club, 44 Berkeley Square** — **closed.** The Georgian townhouse club that gave Mayfair its gambling reputation shut in 2018, reopened briefly, and closed again.
@@ -421,7 +419,7 @@ If you want the decision taken out of your hands, **SENSE** is the industry's na
 
 ## What to know
 
-* **Check a casino is still there before you go.** Three of Mayfair's grandest rooms have closed since 2018, and several are still listed as open by other guides.
+* **Check a casino is still there before you go.** Three of Mayfair's grandest rooms have closed since 2018.
 * **The hours are not what the sign says.** St Giles and Bayswater run croupiers only from noon to 6am, Genting Cromwell Road from 2pm, and the Palm Beach and Chinatown from 1pm.
 * **Bring photo ID even if you are visibly forty.** The Empire asks everyone after 9pm, Stratford asks everyone at the door, and the age limit covers the bars and restaurants too.
 * **Put your phone away on the gaming floor.** Photography is prohibited and phone use at the tables is prohibited.

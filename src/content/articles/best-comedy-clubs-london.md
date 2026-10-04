@@ -23,7 +23,7 @@ faq:
   - q: "Do I need to book comedy in London?"
     a: "For The Comedy Store and Top Secret, yes. For the free nights you cannot book — you queue. At The Camden Head on a weekend, arrive up to ninety minutes early to be sure of getting in."
   - q: "Are there comedy festivals in London?"
-    a: "Four, and they all run in the same six weeks. Greenwich Comedy Garden is five nights in mid-July at the Old Royal Naval College, Ealing Comedy Festival is four nights in late July in a Big Top in Walpole Park, the Roundhouse Comedy Festival runs through August, and Camden Fringe puts 450+ shows into 39 venues across August. Outside July and August, London has no comedy festival. VAULT Festival, which many guides still list, ended in 2023."
+    a: "Four, and they all run in the same six weeks. Greenwich Comedy Garden is five nights in mid-July at the Old Royal Naval College, Ealing Comedy Festival is four nights in late July in a Big Top in Walpole Park, the Roundhouse Comedy Festival runs through August, and Camden Fringe puts 450+ shows into 39 venues across August. Outside July and August, London has no comedy festival. VAULT Festival ended in 2023."
   - q: "Where do famous comedians play in London?"
     a: "Not in the clubs, mostly. Touring names play theatres — Eventim Apollo in Hammersmith, Leicester Square Theatre, the Bloomsbury, Union Chapel, Hackney Empire and the Clapham Grand — and the handful who can fill an arena play The O2. Soho Theatre is the crossover, booking full solo hours at closer to club prices. Club nights are where you see people before that happens."
   - q: "What are the Comedy Store Players?"
@@ -375,7 +375,7 @@ London's comedy festivals are almost entirely a **July and August** phenomenon. 
 | **Roundhouse Comedy Festival** | Throughout August, closing 18 August | Roundhouse, Chalk Farm Road NW1 | A month of one-off shows in the main space. The 2026 edition opened with Frank Skinner and closed with Joe Lycett, with Katherine Ryan, Sara Pascoe, Ed Gamble, Fern Brady, Adam Buxton and Alexei Sayle in between |
 | **Camden Fringe** | 3–30 August | 39 venues across Camden | **450+ shows**, open access, an hour each. Not a comedy festival strictly — theatre, improv, opera and a gameshow too — but the Evening Standard called it the closest thing London has to one |
 
-> ⚠️ **VAULT Festival is gone.** It ran under Waterloo station from 2012 and its **final festival was in 2023**. A lot of London guides still list it as an annual fixture. It is not coming back in that form.
+> ⚠️ **VAULT Festival is gone.** It ran under Waterloo station from 2012 and its **final festival was in 2023**. It is not coming back in that form.
 
 **The two August festivals are opposites and they overlap.** The Roundhouse books people off the television into a seated room, at theatre prices, one night each. Camden Fringe is open-access, so anyone can apply, in pub rooms a few streets away — and its own pitch is that many tickets cost less than a pint. You can do both in the same week for wildly different money.
 
@@ -399,7 +399,7 @@ London's comedy festivals are almost entirely a **July and August** phenomenon. 
 * **Check the line-up the same week.** Comedy bills change constantly and a name announced a month out is not a guarantee.
 * **Angel Comedy is free seven nights a week at The Camden Head**, but The Bill Murray also runs paid shows — the two venues are not the same offer.
 * **Festivals are a July and August thing only.** Greenwich, Ealing, the Roundhouse and Camden Fringe all fall inside six weeks. The rest of the year, the clubs are the entire scene.
-* **VAULT Festival ended in 2023.** Ignore any guide still listing it.
+* **VAULT Festival ended in 2023.**
 
 ---
 

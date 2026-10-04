@@ -107,7 +107,7 @@ Off Upper Street behind the Angel. Antique arcades, small shops and a handful of
 
 It has nothing to do with Camden Town, beyond sharing a namesake — both were named after Charles Pratt, 1st Earl Camden, whose title was given to streets and land across north London in the 1760s. The passage itself was laid out in 1767 as a back alley behind the houses on what was then Islington High Street, and only took the Camden name during the 1800s.
 
-The **antiques trade** dates to the 1960s, when the market was founded by John Payton with the borough's backing and drew over 350 dealers at its peak. That number has shrunk as Islington rents have risen, but **Pierrepont Arcade** still runs a general antiques market most days plus a dedicated vintage clothing market on Thursdays. One well-known casualty: **The Mall Antiques Arcade**, a converted Victorian tram shed that once housed 35 dealers, closed in 2008 and is now an Amazon Fresh — a number of older guides still send people to look for it.
+The **antiques trade** dates to the 1960s, when the market was founded by John Payton with the borough's backing and drew over 350 dealers at its peak. That number has shrunk as Islington rents have risen, but **Pierrepont Arcade** still runs a general antiques market most days plus a dedicated vintage clothing market on Thursdays. One well-known casualty: **The Mall Antiques Arcade**, a converted Victorian tram shed that once housed 35 dealers, closed in 2008 and is now an Amazon Fresh.
 
 ![Antique dealers' shopfronts in Camden Passage, Islington, with pavement café tables and string lights strung overhead](../../assets/articles/islington-area-guide/camden-passage-cafes.jpg)
 

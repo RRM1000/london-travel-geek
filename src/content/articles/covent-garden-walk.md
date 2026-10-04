@@ -216,7 +216,7 @@ Three separate markets run within a hundred metres of each other — two inside 
 
 **That is the whole argument for a Monday.** Both of the big halls switch to antiques and collectables on the same day, Jubilee opens at five in the morning to do it, and nothing else on this walk cares which day it is.
 
-**On the performers**, one correction to what most guides say. The pitches **inside** the Market Building — the covered **North Hall** at the north-east corner, and the **South Hall** in the lower courtyard, which is reserved for opera singers and classically trained musicians who have to project without amplification — are auditioned by the estate four times a year. The **West Piazza, James Street and the space outside the Transport Museum are managed by Westminster City Council** and are not part of that process at all. So the standard genuinely is higher under the glass than out on the cobbles, and now you know why.
+**On the performers.** The pitches **inside** the Market Building — the covered **North Hall** at the north-east corner, and the **South Hall** in the lower courtyard, which is reserved for opera singers and classically trained musicians who have to project without amplification — are auditioned by the estate four times a year. The **West Piazza, James Street and the space outside the Transport Museum are managed by Westminster City Council** and are not part of that process at all. So the standard genuinely is higher under the glass than out on the cobbles, and now you know why.
 
 The building's listed status also bans wind and brass instruments, electric guitars, drums, accordions, bagpipes and didgeridoos from both indoor pitches, and caps singers at 85 decibels.
 

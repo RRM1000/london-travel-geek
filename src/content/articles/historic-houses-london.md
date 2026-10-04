@@ -299,7 +299,7 @@ Inside: the **Thomas Arne memorial carved with the opening bars of "Rule Britann
 
 Christopher Wren's hospital of 1692, **still home to the Chelsea Pensioners** in their scarlet coats.
 
-**The free part is new and most guides have not caught up.** The **Soane Stable Yard** reopened after a three-year restoration, and the **Interactive Exhibition inside it is free, no ticket, Tuesday to Sunday 9am–5pm** — the history of the hospital and the lives of the Pensioners. The yard itself is Grade II\* and was built by **Sir John Soane** between 1814 and 1817, reusing material from Wren's buildings. There is a café in the horse stalls, a shop and a post office.
+**Part of it is free.** The **Soane Stable Yard** reopened after a three-year restoration, and the **Interactive Exhibition inside it is free, no ticket, Tuesday to Sunday 9am–5pm** — the history of the hospital and the lives of the Pensioners. The yard itself is Grade II\* and was built by **Sir John Soane** between 1814 and 1817, reusing material from Wren's buildings. There is a café in the horse stalls, a shop and a post office.
 
 **Getting inside the historic buildings means a tour, and the tour is led by a Chelsea Pensioner** — 90 minutes, 25 people, **£30 adult and £17.50 child**, not running on Mondays. It takes in Figure Court, the Great Hall with its mural of Charles II, and the **Wren Chapel of 1681, a rare unaltered Wren interior** with Sebastiano Ricci's *Resurrection* in the apse.
 

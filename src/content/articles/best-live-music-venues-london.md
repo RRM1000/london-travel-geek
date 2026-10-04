@@ -196,7 +196,7 @@ The stage is at floor level with pillars in the way. That is part of it.
 
 A **working Congregational church**, built 1874–77, that runs around 250 gigs a year between Sunday services. The acoustics are what nothing purpose-built can match.
 
-Three things nobody tells you before you go. **The seating is unreserved**, first-come-first-served on the original wooden pews, so arrive early and expect a queue. **There is a bar**, on the first floor — but alcohol has to stay in the bar area and cannot come into the chapel itself, though soft drinks and snacks can. And the building runs the **Margins Project**, a homelessness charity with a twice-weekly drop-in, showers, laundry and a winter night shelter, funded partly by the gigs.
+**The seating is unreserved**, first-come-first-served on the original wooden pews, so arrive early and expect a queue. **There is a bar**, on the first floor — but alcohol has to stay in the bar area and cannot come into the chapel itself, though soft drinks and snacks can. And the building runs the **Margins Project**, a homelessness charity with a twice-weekly drop-in, showers, laundry and a winter night shelter, funded partly by the gigs.
 
 It is fully accessible by ramp, with a platform lift up to the bar, and it houses an 1877 Henry Willis organ that still runs on its original hydraulic blowing system.
 
@@ -266,7 +266,7 @@ The two-sets-a-night format is the thing to understand: the 7pm show is the civi
 
 *since 1959 · 47 Frith Street*
 
-The institution, and the first UK club to book American jazz musicians regularly. Ronnie Scott and Pete King opened it on **30 October 1959** — but in a basement at **39 Gerrard Street**. The Frith Street room everybody pictures is the second one, taken over in **1965**, and a lot of guides quietly merge the two.
+The institution, and the first UK club to book American jazz musicians regularly. Ronnie Scott and Pete King opened it on **30 October 1959** — but in a basement at **39 Gerrard Street**. The Frith Street room everybody pictures is the second one, taken over in **1965**.
 
 Miles Davis, Nina Simone, Ella Fitzgerald, Chet Baker, Jimi Hendrix, Prince and Amy Winehouse have all played it. **Depeche Mode played their first ever gig under that name here**, in October 1980, which is not what anyone expects.
 
@@ -414,7 +414,7 @@ Live music in London does not have to cost £40 and a booking fee.
 * **Union Chapel seating is unreserved.** Original wooden pews, first come first served, so arrive early. It is a Victorian church, so dress for the temperature.
 * **The grassroots circuit is genuinely under pressure.** Thirty UK venues closed permanently between mid-2024 and mid-2025, more than half made no profit, and around 200 are on the Music Venue Trust's red alert list. Buying direct from a small venue is not a small gesture.
 * **The late set at Ronnie Scott's costs £12** against £40–£65 for a main show, in the same room. It is the single biggest price gap in London live music.
-* **Jazz in London is rarely free**, whatever the listings say. The 606 charges a music charge, the Vortex charges £15–£25, and Ronnie's late show is £12. The genuine free jazz is in pubs and at lunchtime recitals, not in the clubs. **November is the exception**: the [EFG London Jazz Festival](/articles/london-jazz-festival/) runs 13–22 November 2026 and puts 19 free concerts into the Barbican, the Southbank Centre and Milton Court.
+* **Jazz in London is rarely free.** The 606 charges a music charge, the Vortex charges £15–£25, and Ronnie's late show is £12. The genuine free jazz is in pubs and at lunchtime recitals, not in the clubs. **November is the exception**: the [EFG London Jazz Festival](/articles/london-jazz-festival/) runs 13–22 November 2026 and puts 19 free concerts into the Barbican, the Southbank Centre and Milton Court.
 * **Cafe OTO and MOTH Club** rarely sell out weeks ahead — you can decide on the day.
 * **Night Tube runs Friday and Saturday** on the Victoria line for Brixton and the Northern for Camden.
 
