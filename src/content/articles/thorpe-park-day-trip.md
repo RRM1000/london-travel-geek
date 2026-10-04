@@ -145,6 +145,10 @@ There is no Christmas event: the park is closed from 2 November 2026.
 
 The heights come from Thorpe Park's [ride restrictions guide](https://www.thorpepark.com/plan-your-visit/before-you-visit/accessibility-information/rider-requirements/), which also lists chest, thigh and torso limits for the coasters. Stealth, The Swarm and Colossus have a **maximum height of 1.96m**.
 
+![The cream track of Colossus at Thorpe Park twisting through its loops and rolls above the trees](../../assets/articles/thorpe-park-day-trip/colossus-track.jpg)
+
+*Colossus, with its ten inversions. Photo: [Bryn Holmes](https://commons.wikimedia.org/wiki/File:Colossus_cobra_rolls,_Thorpe_Park_-_geograph.org.uk_-_7398896.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### What suits which age
 
 - **Under 1.2m (free):** Flying Fish, Depth Charge, Mr Monkey's Banana Ride, High Striker, the Amity Beach pool and The Playground. A handful of rides, so it works for a younger sibling tagging along, not as the day's main event.

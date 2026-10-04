@@ -8,12 +8,12 @@ reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
 category: "Day trips"
-heroImage: "../../assets/articles/theme-parks-near-london/thorpe-park-skyline-from-the-bridge.jpg"
-heroImageAlt: "Thorpe Park seen across its lake from the entrance bridge, the white track of Hyperia and the other coasters rising above the trees"
-heroImageCredit: "HotMess"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Thorpe_Park_Hyperia_as_viewed_from_the_bridge_2024-03-25.jpg"
-heroImageLicense: "CC0"
-heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
+heroImage: "../../assets/articles/theme-parks-near-london/colossus-loop-thorpe-park.jpg"
+heroImageAlt: "A Colossus train full of riders upside down at the top of the vertical loop at Thorpe Park, under a blue sky"
+heroImageCredit: "Bryn Holmes"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Colossus_vertical_loop,_Thorpe_Park_-_geograph.org.uk_-_7398895.jpg"
+heroImageLicense: "CC BY-SA 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 tags: [day trips, theme parks, family, kids, teenagers, things to do]
 draft: false
 faq:
