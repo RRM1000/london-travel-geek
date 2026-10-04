@@ -5,7 +5,8 @@ description: "MCM Comic Con sells out its weekend and VIP tiers a month early, F
 heroImage: "../../assets/articles/exhibitions-conventions-london/excel-london.jpg"
 heroImageAlt: "Visitors queuing beside the Royal Victoria Dock outside ExCeL London, with dockside cranes, moored boats and a large screen advertising a show at the entrance"
 publishedAt: 2026-06-17
-reviewBy: 2026-10-04
+updatedAt: 2026-10-04
+reviewBy: 2026-10-30
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -23,7 +24,7 @@ faq:
   - q: "When is Frieze Week in London?"
     a: "Mid-October. Frieze London and Frieze Masters open in Regent's Park — 14 to 18 October in 2026 — the same days as the Affordable Art Fair in Battersea Park and 1-54 Contemporary African Art Fair at Somerset House. All are ticketed. The free version is Frieze Sculpture, an outdoor exhibition in the same park that runs for weeks either side of the fairs with no ticket needed."
   - q: "What Christmas fairs and shows are on in London?"
-    a: "Olympia runs the Spirit of Christmas Fair (2 to 8 November 2026) and the Ideal Christmas Show alongside the Cake & Bake Show (26 to 29 November 2026). ExCeL has Wundrful World of Christmas, a meet-Santa experience running 11 November to 24 December, and Scrooge: Cirque Extravaganza, a festive circus show, from 23 to 28 December."
+    a: "Olympia runs the Spirit of Christmas Fair (2 to 8 November 2026) and the Ideal Christmas Show alongside the Cake & Bake Show (26 to 29 November 2026). ExCeL has Wundrful World of Christmas, a meet-Santa experience for three to eight-year-olds running 13 November to 24 December, and Scrooge: Cirque Extravaganza, a festive circus show, on 23, 24, 27 and 28 December. The Business Design Centre in Islington hosts Good Housekeeping Live with the Country Living Christmas Market from 11 to 14 November."
 ---
 
 MCM Comic Con sells its Weekend ticket and both VIP tiers more than a month before the doors open. Frieze Week puts five ticketed art fairs across two royal parks and a Georgian courtyard on the same four days. New Scientist Live tells you on its own site how much you save by not leaving it to the day. This is the calendar behind all of it — every public exhibition, convention, consumer show and fair in Greater London from October 2026 to September 2027, at ExCeL, Olympia, Alexandra Palace, Somerset House and beyond.
@@ -32,7 +33,7 @@ MCM Comic Con sells its Weekend ticket and both VIP tiers more than a month befo
 
 ## The calendar, month by month
 
-Dates and prices come from each show's own organiser site, checked the week of 27 September 2026. A show that sells tiered tickets — MCM Comic Con, Musical Con — can have its cheapest tickets gone well before the date below; check the organiser's own page before you plan around a specific tier.
+Dates and prices come from each show's own organiser site, checked between 27 September and 4 October 2026. A show that sells tiered tickets — MCM Comic Con, Musical Con — can have its cheapest tickets gone well before the date below; check the organiser's own page before you plan around a specific tier.
 
 ### October 2026
 
@@ -61,10 +62,11 @@ Dates and prices come from each show's own organiser site, checked the week of 2
 | --- | --- | --- | --- | --- |
 | **Spirit of Christmas Fair** | Olympia London | 2–8 Nov | £25.75 | Independent traders, festive shopping and food under the Grand Hall's roof. |
 | **The Luxury Travel Fair** | Olympia London | 5–8 Nov | £25.75 | High-end travel operators and destination showcases. |
-| **Wundrful World of Christmas** | ExCeL London | 11 Nov–24 Dec | £29.90–£34.90 | A meet-Santa experience rather than a market — off-peak and peak pricing tiers. |
+| **Good Housekeeping Live with Country Living Christmas Market** | Business Design Centre | 11–14 Nov | — | Christmas shopping with talks, craft sessions and cooking demonstrations, 9.30am–5pm each day. [Organiser](https://www.goodhousekeepinglive.co.uk/). |
+| **Wundrful World of Christmas** | ExCeL London | 13 Nov–24 Dec | £29.90–£34.90 adult | A timed meet-Santa walk-through for ages 3 to 8 rather than a market, with off-peak and peak prices and children from £24.90. [Tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas). |
 | **What University? & What Career? Live** | Olympia London | 13–14 Nov | Free | Careers and university-choice advice for school leavers. |
 | **Collectors Showcase** | Olympia London | 21–22 Nov | £5 | Rare cards, comics and memorabilia. |
-| **The Ideal Christmas Show** | Olympia London | 26–29 Nov | £14 | Festive shopping, run alongside the Cake & Bake Show, whose own 2026 dates aren't confirmed yet. |
+| **The Ideal Christmas Show** | Olympia London | 26–29 Nov | £16 | Festive shopping, open until 8pm on Thursday and 6pm Friday to Sunday; the Cake & Bake Show's own 2026 dates aren't confirmed yet. [Organiser](https://idealhomeshowchristmas.co.uk). |
 
 ### December 2026
 
@@ -72,7 +74,7 @@ Dates and prices come from each show's own organiser site, checked the week of 2
 | --- | --- | --- | --- | --- |
 | **London Perfume Exhibition** | ExCeL London | 10–13 Dec | — | Fragrance brands and independent perfumers; the first London edition of this show. |
 | **London International Horse Show** | ExCeL London | 17–21 Dec | £37.95 | The traditional Christmas showjumping fixture. |
-| **Scrooge: Cirque Extravaganza** | ExCeL London | 23–28 Dec | £23–£28 off-peak | A festive circus and theatre show, minimum four tickets for family pricing. |
+| **Scrooge: Cirque Extravaganza** | ExCeL London | 23, 24, 27, 28 Dec | Sold in bands | A festive circus and theatre show for families, with a £1,000 cash prize drawn at every performance; the Christmas Eve group offer needs four tickets. [Tickets](https://scroogecirque.com/london). |
 
 *Winter Funland London, Olympia's own indoor Christmas experience, last ran 19 to 24 December 2025; its 2026 dates aren't announced yet — see the table below.*
 
@@ -163,7 +165,7 @@ These recur every year, but the organiser hadn't set next in-window dates as of 
 
 ### Christmas fairs
 
-**Spirit of Christmas Fair** (Olympia, 2–8 November) and **The Ideal Christmas Show** (Olympia, 26–29 November, alongside the Cake & Bake Show) are the shopping fairs. **Wundrful World of Christmas** (ExCeL, 11 November–24 December) is a meet-Santa experience rather than a market, and **Scrooge: Cirque Extravaganza** (ExCeL, 23–28 December) is a festive circus. Our [Christmas shows in London guide](/articles/christmas-shows-london/) covers the theatre and lights side of the season.
+**Spirit of Christmas Fair** (Olympia, 2–8 November) and **The Ideal Christmas Show** (Olympia, 26–29 November, alongside the Cake & Bake Show) are the shopping fairs. **Good Housekeeping Live with the Country Living Christmas Market** (Business Design Centre, 11–14 November) adds talks and demonstrations to its stalls. **Wundrful World of Christmas** (ExCeL, 13 November–24 December) is a meet-Santa experience rather than a market, and **Scrooge: Cirque Extravaganza** (ExCeL, 23, 24, 27 and 28 December) is a festive circus. Our [Christmas shows in London guide](/articles/christmas-shows-london/) covers the theatre and lights side of the season.
 
 ## The venues
 

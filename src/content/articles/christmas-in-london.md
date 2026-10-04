@@ -3,8 +3,8 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-09-27
-reviewBy: 2026-12-25
+updatedAt: 2026-10-04
+reviewBy: 2026-11-06
 sites:
   - london
 canonicalSite: london
@@ -157,7 +157,7 @@ It is warmer and less reverent than the book suggests — handbells, carols sung
 
 ![Artwork for Christmas Carol Goes Wrong, the Mischief company's disaster version of the Dickens story](../../assets/articles/christmas-in-london/christmas-carol-goes-wrong.jpg)
 
-**It is the answer to "we want something Christmassy but not a panto and not earnest."** It also runs well past Christmas, into late January, which makes it the easiest festive ticket to get if you leave it late.
+**It is the answer to "we want something Christmassy but not a panto and not earnest."** Book on [Ticketmaster](https://www.ticketmaster.co.uk/christmas-carol-goes-wrong-london-18-12-2026/event/Zor9uZKbZL4ZefkGjZd). It also runs well past Christmas, into late January, which makes it the easiest festive ticket to get if you leave it late.
 
 ### Into the Woods, Noël Coward Theatre
 
@@ -175,6 +175,22 @@ It is the same story as the Old Vic's and Mischief's, and a completely different
 
 > ⚠️ **Confirmed for 2026, but nothing else is.** The company says the Feast returns and is running a **presale signup**, but **no dates and no prices have been published**. Join the presale list rather than waiting for a listing to appear, because these sell through the list first.
 
+### Scrooge: Cirque Extravaganza, ExCeL London
+
+**23, 24, 27 and 28 December 2026.** The fourth way to see *A Christmas Carol*: aerialists, acrobats, a trampoline wall and fire breathers in the ICC Auditorium at ExCeL, billed by the organiser as a family show. Every performance draws one seat number, and the holder wins £1,000 cash on stage. It warns of water effects, loud noises, strobe lights and pyrotechnics. Seats are sold in bands: on the organiser's site in early October, Christmas Eve's Band A was £124.99 and Band B £94.99, each £25 cheaper per ticket for four or more. [Dates and tickets](https://scroogecirque.com/london).
+
+### Cirque Alice, Royal Festival Hall
+
+**12 December 2026 – 3 January 2027.** An acrobatic *Alice in Wonderland* from the creators of *Circus 1903*, in its European premiere, with aerialists, contortionists and puppetry set to reworked classical hits. A two-hour show the producers describe as suitable for all ages, with on-stage seating sold as well. [Dates and tickets](https://www.southbankcentre.co.uk/whats-on/cirque-alice/).
+
+### Cinderella, Matthew Bourne's New Adventures, Sadler's Wells
+
+**1 December 2026 – 17 January 2027, from £15 plus a £4 fee.** The 30th-anniversary revival of Bourne's *Cinderella*, set in the Blitz, with a wartime romance between Cinderella and an RAF pilot. **2 hours 20 minutes with two intervals, recommended for ages eight and over.** [Dates and tickets](https://www.sadlerswells.com/whats-on/matthew-bournes-new-adventures-cinderella/).
+
+### Sophie's Surprise Christmas Party, Underbelly Boulevard Soho
+
+**13 November 2026 – 10 January 2027, from £30 including the fee.** The one Christmas show on this page that is not for children: circus and comedy at a party where one audience member is picked each night to be Sophie, the guest of honour. **Age 16 and over**, 1 hour 30 minutes including an interval. [Dates and tickets](https://underbellyboulevard.com/tickets/sophies-surprise-christmas-party/).
+
 **[More immersive nights out →](/articles/immersive-experiences-london/)** · **[The cabaret guide →](/articles/best-cabaret-london/)**
 
 ---
@@ -184,6 +200,16 @@ It is the same story as the Old Vic's and Mischief's, and a completely different
 ## Christmas for children
 
 The shows below are the ones built for children, not tolerated by them, and they book earlier than anything else in this guide. Grottos and ice rinks are further up the page.
+
+### Wundrful World of Christmas, ExCeL London
+
+**13 November – 24 December 2026, on selected days.** A timed walk-through for **three to eight-year-olds** and their adults, in Immerse LDN on ExCeL's waterfront, three minutes' walk from Custom House (Elizabeth line and DLR). Children ride a lift to the North Pole, cross an Enchanted Forest, sort toys in the Elves' Workshop, meet Mrs Claus in her kitchen and then Santa, with a photo taken at the end, and every child gets a small gift. It takes about 50 minutes, and the Elves' Playground afterwards (light installations, gentle fairground rides, food stalls) adds at least another 30.
+
+**Adults £29.90 off-peak and £34.90 at peak; children £24.90 and £29.90.** A family pass for four or five (no more than two adults) is £24.90 a head off-peak and £29.90 at peak. Every child needs a ticket, babies included, though under-12-month tickets are free. Rides, food and Santa photo prints cost extra, the venue takes cards only, and pushchairs are left outside the walk-through. [Dates and tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas).
+
+### Pinocchio, Shakespeare's Globe
+
+**28 November 2026 – 3 January 2027.** A musical staged in the Globe Theatre itself, for **ages five and over**, running 2 hours 10 minutes with a 20-minute interval. Seats are £28 to £88 including a £3 per-order fee, standing is £10 or £5, and under-16s pay half price for seats. [Dates and tickets](https://www.shakespearesglobe.com/whats-on/pinocchio/).
 
 ### The Snowman, Peacock Theatre
 
@@ -205,7 +231,7 @@ It has run for 32 years and **in 2026 it is a new production** — a world premi
 
 ### For the under-fives
 
-**The Gruffalo** and its stablemates — *The Gruffalo's Child*, *Room on the Broom*, *The Smeds and The Smoos* — are made by Tall Stories, a London company, and at least one of them is usually playing somewhere in the city over Christmas. **The Gruffalo runs 55 minutes with no interval and is aimed at three and over**, which is the right shape for an age group that will not sit through a ballet. Venues and dates change every year, so check the company's own listings, not booking on the strength of the name.
+**The Gruffalo** and its stablemates — *The Gruffalo's Child*, *Room on the Broom*, *The Smeds and The Smoos* — are made by Tall Stories, a London company, and at least one of them is usually playing somewhere in the city over Christmas. **The Gruffalo runs 55 minutes with no interval and is aimed at three and over**, which is the right shape for an age group that will not sit through a ballet. Venues and dates change every year, so check the company's own listings, not booking on the strength of the name. Two are on in the West End in 2026-27: [Room on the Broom](https://thelyrictheatre.co.uk/tickets/room-on-the-broom-live-on-stage/) at the Lyric Theatre (27 November 2026 – 3 January 2027, from £10, ages three and over, 60 minutes) and [Peppa Pig's Big Family Show!](https://trh.co.uk/whatson/peppa-pigs-big-family-show/) at the Theatre Royal Haymarket (4 December 2026 – 3 January 2027, from £10, about 1 hour 20 minutes).
 
 > ⚠️ **Children's shows sell out first.** The Snowman, both Nutcrackers and the Palladium panto are usually gone for the good December dates by early autumn. If you are reading this in November, look at early January — the runs continue past Christmas and the seats are easier and cheaper.
 
@@ -234,6 +260,12 @@ It is a concert, not a service, so it is loud, secular in feel and completely un
 **The other free option is a parish church.** Most London churches hold a carol service in the fortnight before Christmas with no ticket and a collection plate at the end, and the singing is often better than the size of the building suggests. Look at what is on near where you are staying, not travelling for a name.
 
 **In the shopping streets**, carol singers turn up through December at **Covent Garden**, **Leadenhall Market**, **Burlington Arcade** and the **Southbank Centre's** winter market — unscheduled and unticketed, so they are something you walk into, not plan around.
+
+### Carols in the concert halls
+
+**The Barbican Hall runs three evenings in Raymond Gubbay's Christmas season.** A **Christmas Carol Singalong** on Saturday 19 December 2026 (about two hours, from £27.50), **Christmas with King's College Choir** on Monday 21 December at 7.30pm (from £27.50) and **Candlelit Carols** with the Mozart Festival Orchestra on Tuesday 22 December at 7.30pm (from £27). Book the [Singalong](https://www.barbican.org.uk/whats-on/2026/event/christmas-carol-singalong), [King's College Choir](https://www.barbican.org.uk/whats-on/2026/event/christmas-with-kings-college-choir) or [Candlelit Carols](https://www.barbican.org.uk/whats-on/2026/event/candlelit-carols).
+
+**Handel's Messiah has two London dates in the first half of December**: the English Chamber Orchestra at [Cadogan Hall](https://cadoganhall.com/whats-on/handels-messiah/) on Sunday 6 December at 6pm (from £19.50, ages seven and over), and Bach Collegium Japan at the [Barbican](https://www.barbican.org.uk/whats-on/2026/event/bach-collegium-japan-handels-messiah) on Tuesday 15 December at 7pm (from £24). **The Sixteen sing A Ceremony of Carols** at [Cadogan Hall](https://cadoganhall.com/whats-on/choral-at-cadogan-2026-27-the-sixteen-a-ceremony-of-carols-1/) on 16 and 17 December at 7.30pm, from £26.50. All prices include the booking fee. Our [Christmas shows guide](/articles/christmas-shows-london/#christmas-concerts-and-carols) has the full list.
 
 ### More carol concerts to book
 

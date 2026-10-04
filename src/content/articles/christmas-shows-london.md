@@ -5,8 +5,8 @@ description: "Every Christmas show in London for 2026: the pantomimes from the P
 heroImage: "../../assets/articles/christmas-shows-london/old-vic-christmas-carol-lanterns.jpg"
 heroImageAlt: "Hundreds of lit lanterns hanging above the audience at the Old Vic, with musicians in top hats and long coats playing on a wooden stage between the seats"
 publishedAt: 2026-09-22
-updatedAt: 2026-09-23
-reviewBy: 2027-01-10
+updatedAt: 2026-10-04
+reviewBy: 2026-11-06
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -25,7 +25,7 @@ faq:
     a: "An hour and a half, including a 20-minute interval. The 2026 production is new, directed and choreographed by Will Tuckett, running from 21 November 2026 to 3 January 2027, from £18 plus a £4 transaction fee."
 ---
 
-> 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with cheapest seats from **£6 to £10**. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. English National Ballet's **Nutcracker** is at the Coliseum from **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, opens on **10 November**. Every Christmas show in our listings is at the bottom of the page, updated twice a week.
+> 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with cheapest seats from **£6 to £10**. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. English National Ballet's **Nutcracker** is at the Coliseum from **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, opens on **10 November**. For three to eight-year-olds, **Wundrful World of Christmas** at ExCeL is a timed walk-through to Santa's grotto from **13 November**. Every Christmas show in our listings is at the bottom of the page, updated twice a week.
 
 ## Pantomimes
 
@@ -79,7 +79,7 @@ faq:
 
 ### Christmas Carol Goes Wrong, Wyndham's Theatre
 
-**18 December 2026 – 23 January 2027, from £15.** Mischief, the company behind *The Play That Goes Wrong*, turn the Dickens story into a disaster, with the cast feuding over who plays Scrooge while the set comes apart. It runs until 23 January. Also sold by [London Box Office](https://www.londonboxoffice.co.uk/christmas-carol-goes-wrong-tickets).
+**18 December 2026 – 23 January 2027, from £15.** Mischief, the company behind *The Play That Goes Wrong*, turn the Dickens story into a disaster, with the cast feuding over who plays Scrooge while the set comes apart. It runs until 23 January. Also sold by [London Box Office](https://www.londonboxoffice.co.uk/christmas-carol-goes-wrong-tickets) and [Ticketmaster](https://www.ticketmaster.co.uk/christmas-carol-goes-wrong-london-18-12-2026/event/Zor9uZKbZL4ZefkGjZd).
 
 ### Sherlock Holmes and the 12 Days of Christmas, Alexandra Palace
 
@@ -96,6 +96,52 @@ faq:
 *Wilton's Music Hall.*
 
 **3 December 2026 – 2 January 2027.** **80 minutes including an interval**, at Wilton's in Whitechapel. Full price **£16 to £35**, under-12s **£8 to £27**. [Dates and tickets](https://wiltons.org.uk/whats-on/the-little-match-girl).
+
+## Circus, dance and adult Christmas shows
+
+### Scrooge: Cirque Extravaganza, ExCeL London
+
+**23, 24, 27 and 28 December 2026.** *A Christmas Carol* told with aerialists, acrobats, a trampoline wall and fire breathers, in the ICC Auditorium at ExCeL, with the East Entrance and Prince Regent DLR station about two minutes away. The organiser calls it a family show and warns of water effects, audience participation, loud noises, strobe lights and pyrotechnics. One seat number is drawn at every performance, and its holder wins £1,000 cash on stage (school matinees excluded).
+
+Performances: **Wednesday 23 December at 6pm; Thursday 24 December at 11am and 3pm; Sunday 27 December at 1pm and 6pm; Monday 28 December at 1pm and 5pm.** Seats are sold in price bands. On the organiser's site in early October, Christmas Eve's Band A was £124.99 and Band B £94.99, each £25 cheaper per ticket for a group of four or more. [Dates and tickets](https://scroogecirque.com/london).
+
+### Cirque Alice, Royal Festival Hall
+
+**12 December 2026 – 3 January 2027.** The European premiere of an acrobatic *Alice in Wonderland* from the creators of *Circus 1903*: aerialists, contortionists and puppetry to reworked classical hits, in a two-hour show the producers describe as suitable for all ages. On-stage seating is sold alongside the stalls. [Dates and tickets](https://www.southbankcentre.co.uk/whats-on/cirque-alice/).
+
+### Cinderella, Matthew Bourne's New Adventures, Sadler's Wells
+
+**1 December 2026 – 17 January 2027, from £15 plus a £4 transaction fee.** The 30th-anniversary revival of Bourne's *Cinderella*, set in London during the Blitz, with Prokofiev's score and a wartime romance between Cinderella and an RAF pilot. It runs **2 hours 20 minutes with two intervals** and is recommended for **ages eight and over**. **Audio described**, with a touch tour, on 9 January at 2.30pm. [Dates and tickets](https://www.sadlerswells.com/whats-on/matthew-bournes-new-adventures-cinderella/).
+
+### Sophie's Surprise Christmas Party, Underbelly Boulevard Soho
+
+**13 November 2026 – 10 January 2027, from £30 including the booking fee.** Circus and comedy at a party where one audience member is picked each night to be Sophie, the guest of honour. **Age 16 and over**, **1 hour 30 minutes including an interval**, at 6 Walker's Court. The 9.30pm "Sophie's Lates" run 70 minutes without an interval. Groups of five or more get £2 off each ticket with the code FESTFRIENDS. [Dates and tickets](https://underbellyboulevard.com/tickets/sophies-surprise-christmas-party/).
+
+## Christmas concerts and carols
+
+### Handel's Messiah, Cadogan Hall
+
+**Sunday 6 December 2026, 6pm, from £19.50 including the fee.** The English Chamber Orchestra and the VOCES8 Foundation Choir, directed by Nicholas Kraemer. About **2 hours 40 minutes including an interval**, for **ages seven and over**. [Dates and tickets](https://cadoganhall.com/whats-on/handels-messiah/).
+
+### Bach Collegium Japan: Handel's Messiah, Barbican Hall
+
+**Tuesday 15 December 2026, 7pm, from £24 including the fee.** Masato Suzuki conducts the period-instrument ensemble his father founded in 1990. [Dates and tickets](https://www.barbican.org.uk/whats-on/2026/event/bach-collegium-japan-handels-messiah).
+
+### Carols at the Barbican
+
+**Three evenings in the Barbican Hall, in Raymond Gubbay's Christmas season.** **Christmas Carol Singalong** is on Saturday 19 December (about two hours, with the London Concert Orchestra) from £27.50. **Christmas with King's College Choir**, with the Philharmonia Orchestra and the City of London Choir, is on Monday 21 December at 7.30pm from £27.50. **Candlelit Carols** with the Mozart Festival Orchestra is on Tuesday 22 December at 7.30pm from £27. All prices include the fee. Tickets: [Singalong](https://www.barbican.org.uk/whats-on/2026/event/christmas-carol-singalong), [King's College Choir](https://www.barbican.org.uk/whats-on/2026/event/christmas-with-kings-college-choir), [Candlelit Carols](https://www.barbican.org.uk/whats-on/2026/event/candlelit-carols).
+
+### A Ceremony of Carols, The Sixteen, Cadogan Hall
+
+**Wednesday 16 and Thursday 17 December 2026, 7.30pm, from £26.50 including the fee.** The choir The Sixteen sing A Ceremony of Carols at Cadogan Hall, on Sloane Terrace. [Dates and tickets](https://cadoganhall.com/whats-on/choral-at-cadogan-2026-27-the-sixteen-a-ceremony-of-carols-1/).
+
+### West End Musical Christmas, Lyric Theatre
+
+**One night only: Monday 14 December 2026, 7.30pm, from £20.** A surprise cast of West End performers, a live band and dancers, with the audience singing along. About **two hours including an interval**, suitable for all ages. [Dates and tickets](https://thelyrictheatre.co.uk/tickets/west-end-musical-christmas-3/).
+
+### The Muppet Christmas Carol in Concert, Eventim Apollo
+
+**Saturday 28 November 2026, a 2pm matinee.** The Muppets' version of the Dickens story shown on screen while an orchestra plays the score live, at Hammersmith. [Dates and tickets](https://www.eventimapollo.com/events/the-muppet-christmas-carol/).
 
 ## Nutcrackers
 
@@ -119,6 +165,32 @@ faq:
 *The Peacock Theatre's entrance.*
 
 **21 November 2026 – 3 January 2027, from £18** plus a £4 transaction fee. A **new production** for 2026, the world premiere of Will Tuckett's staging, still built around Raymond Briggs's story and the film. **An hour and a half including a 20-minute interval.** Suitable for all ages; children **two and over** need a ticket. Family tickets are **£150 for three** and **£200 for four**. **Relaxed** 2 December, **audio described** 12 December. [Dates and tickets](https://www.sadlerswells.com/whats-on/the-snowman-2026/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/the-snowman-tickets).
+
+### Wundrful World of Christmas, ExCeL London
+
+**13 November – 24 December 2026, on selected days.** A timed walk-through for **ages three to eight** and their adults, in Immerse LDN on ExCeL's waterfront, about three minutes' walk from Custom House (Elizabeth line and DLR). A lift to the North Pole, an Enchanted Forest, the Elves' Workshop, Mrs Claus's Kitchen and a meeting with Santa, with a photo taken at the end. The walk-through takes about **50 minutes**, followed by the Elves' Playground, an indoor festive village with light installations, gentle fairground rides and Christmas food stalls. The organiser suggests **at least 90 minutes in all**.
+
+**Prices by session.** Peak: adults £34.90, children £29.90. Off-peak: adults £29.90, children £24.90. A family pass for four or five tickets (no more than two adults) is £29.90 a head at peak and £24.90 off-peak. **Every child needs a ticket**, babies included, though tickets for under-12-months are free. Santa photo prints, rides and food are paid for separately, and the venue is **cashless**. Pushchairs are not allowed inside the walk-through, but there is a pram park. [Dates and tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas).
+
+### Pinocchio, Shakespeare's Globe
+
+**28 November 2026 – 3 January 2027.** A musical by Charlie Josephine and Jim Fortune, directed by Sean Holmes, staged in the Globe Theatre itself, for **ages five and over**. It runs **2 hours 10 minutes including a 20-minute interval**. Seats are **£28 to £88** including a £3 per-order fee, standing tickets are £10 or £5, and **under-16s pay half price for seats**; they must sit next to an adult. [Dates and tickets](https://www.shakespearesglobe.com/whats-on/pinocchio/).
+
+### Peppa Pig's Big Family Show!, Theatre Royal Haymarket
+
+**4 December 2026 – 3 January 2027, from £10.** About **1 hour 20 minutes including an interval**. Babies under 12 months sitting on a lap don't need a ticket; everyone else does. The theatre has little storage, so only pushchairs that fold down can be left in the cloakroom. [Dates and tickets](https://trh.co.uk/whatson/peppa-pigs-big-family-show/).
+
+### Room on the Broom, Lyric Theatre
+
+**27 November 2026 – 3 January 2027, from £10.** Tall Stories' adaptation of Julia Donaldson and Axel Scheffler's book: **60 minutes with no interval**, for **ages three and over**. Under-18-months and babes in arms are free if they stay on a lap. [Dates and tickets](https://thelyrictheatre.co.uk/tickets/room-on-the-broom-live-on-stage/).
+
+### The Snowman in Concert and Paddington Bear's First Concert, Cadogan Hall
+
+**Sunday 20 December 2026, 1.30pm and 4.30pm, from £24.50 including the fee.** The film of *The Snowman* is shown on a big screen while the Mozart Symphony Orchestra plays the score live, in a programme that also includes *Paddington Bear's First Concert*. [Dates and tickets](https://cadoganhall.com/whats-on/the-snowman-in-concert-and-paddington-bears-first-concert-2026/).
+
+### Disney On Ice presents Discover the Magic, The O2
+
+**24 December 2026 – 3 January 2027.** An ice show built around the search for Tinker Bell, with scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*, in The O2 arena. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January; The O2's page lists every performance in between. [Dates and tickets](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic).
 
 ### The Snowflake, Little Angel Theatre
 
@@ -161,4 +233,4 @@ Every show below comes from the venues' own box offices and Ticketmaster, update
 - 🎭 **[London Theatre Guide](/articles/london-theatre-guide/)**
 - 🍽️ **[Christmas Day Restaurants in London](/articles/christmas-day-restaurants-london/)**
 
-*Dates, prices, running times and age guidance from each theatre's own website or box office, checked 22 September 2026. Prices change as performances sell, so check the booking page.*
+*Dates, prices, running times and age guidance from each theatre's own website or box office, checked between 22 September and 4 October 2026. Prices change as performances sell, so check the booking page.*

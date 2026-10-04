@@ -3,8 +3,8 @@ title: "The Best Cabaret in London: What's Actually Still Open"
 seoTitle: "Best Cabaret London 2026: Venues Still Open"
 description: "London's biggest cabaret operator has collapsed. Every venue here was status-checked against its own site, with the closed ones named."
 publishedAt: 2026-09-01
-updatedAt: 2026-10-03
-reviewBy: 2026-10-01
+updatedAt: 2026-10-04
+reviewBy: 2026-10-16
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -122,7 +122,7 @@ Runs go from a single night to three months, several shows a night, and the prog
 
 **Group discounts:** £2 off per ticket for five or more with the code FESTFRIENDS, and 15% off for ten or more.
 
-Access is the best of any cabaret room in this guide: **wheelchair accessible throughout, step-free entry, accessible toilets on the first and second floors** with fixed and drop-down rails, and accessible seating on request. **Age limits vary by show rather than being set venue-wide**, so check the individual listing.
+Access is the best of any cabaret room in this guide: **wheelchair accessible throughout, step-free entry, accessible toilets on the first and second floors** with fixed and drop-down rails, and accessible seating on request. **Age limits vary by show rather than being set venue-wide**, so check the individual listing; Sophie's Surprise Christmas Party is 16 and over, from £30 including the booking fee. [Book via Underbelly](https://underbellyboulevard.com/tickets/sophies-surprise-christmas-party/).
 
 ### Soho Theatre
 
@@ -136,6 +136,8 @@ There are three spaces, and the cabaret room is **Soho Downstairs**, with late s
 
 If you only have one night and want to see someone before they are expensive, this is the room.
 
+**For Halloween, Dina Martina: Halloweena! plays Soho Downstairs from 19 to 31 October 2026**, 60 minutes, 16+, from £16, with prices moving by demand. [Book via Soho Theatre](https://sohotheatre.com/events/dina-martina-halloweena/).
+
 ### Soho Theatre Walthamstow
 
 *186 Hoe Street, E17 4QH · Walthamstow Central · seated*
@@ -147,6 +149,8 @@ It opened on **1 May 2025** in the restored 1930s Granada — later the MGM, the
 **Tickets run £20.50 to £40** across the September and October 2026 programme, with most shows landing at £24, £29, £33.50 or £36. The same access provision as Dean Street applies — **audio-described, BSL, captioned and relaxed performances**.
 
 The Victoria line trip is worth it for the building alone, and that is not a throwaway line: this is a spectacular room that most central London visitors never see.
+
+**The Tiger Lillies play Songs for the Dead on Sunday 1 November 2026**, a 110-minute, 16+ concert for the Day of the Dead, from £15. [Book via Soho Theatre](https://sohotheatre.com/events/the-tiger-lillies-songs-of-the-dead/).
 
 ### The Phoenix Arts Club
 
@@ -437,6 +441,20 @@ The 45-minute Winter Wonderland version, "IGNITE!", is **not running in 2026** �
 **A traditional big top in a local park, moving every few days** — the only circus here that comes to the suburbs rather than making you travel into the centre.
 
 The 2026 London run is: **Clissold Park in Stoke Newington to 1 September, Crystal Palace Park 4–7 September, Twickenham 10–14 September, Plumstead 17–21 September, Peckham Rye 24–27 September, Palmers Green 1–5 October, Bexley 8–12 October**, then Redhill from 15 October, which is outside London. Because each stop lasts days rather than weeks, the practical advice is to check which park is nearest now.
+
+### Scrooge: Cirque Extravaganza
+
+*ICC Auditorium, ExCeL London · Prince Regent (DLR) · seated · **23, 24, 27 and 28 December 2026***
+
+**A family show, not a late-night one**: Dickens's *A Christmas Carol* told by an international cast of aerialists, acrobats, fire breathers and a trampoline wall, with a musical-theatre storyline holding it together. The organiser warns of water effects, audience participation, loud noises, strobe lights and pyrotechnics.
+
+**One seat number is drawn at every performance, and its holder wins £1,000 cash on stage** (school matinees excluded). There are seven performances: 6pm on Wednesday 23 December, 11am and 3pm on Thursday 24 December, 1pm and 6pm on Sunday 27 December and 1pm and 5pm on Monday 28 December. Seats are sold in bands; on the organiser's site in early October, Christmas Eve's Band A was £124.99 and Band B £94.99, each £25 cheaper per ticket for four or more. [Dates and tickets](https://scroogecirque.com/london).
+
+### Cirque Alice
+
+*Royal Festival Hall · Waterloo, Embankment · seated, with on-stage seats · **12 December 2026 – 3 January 2027***
+
+**The European premiere of an acrobatic *Alice in Wonderland*** from the creators of *Circus 1903*: aerialists, contortionists and puppetry, set to reworked classical hits. It runs about two hours and the producers describe it as suitable for all ages, so it sits between the late-night rooms above and the family shows. [Dates and tickets](https://www.southbankcentre.co.uk/whats-on/cirque-alice/).
 
 ### The Vaults
 

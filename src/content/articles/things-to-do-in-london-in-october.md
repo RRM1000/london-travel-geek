@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Autumn_Colours_in_Hyde
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-10
-updatedAt: 2026-09-27
+updatedAt: 2026-10-04
 reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
@@ -253,7 +253,7 @@ The year's winning pictures, open in time for half term and running to **11 July
 
 The first weekend of the month clears out three shows at once: **My Son's A Queer (But What Can You Do?)** at the Apollo, **The Children** at the Lyric Hammersmith, and **The Last Ship** at Theatre Royal Drury Lane — a twelve-day run, so the first weekend of October is the whole window if you want it. **Holy Fool**, a play about Shostakovich under Stalin, at the Park Theatre, and **Flamenc-Oh!!** at the Peacock both end **10 October**.
 
-The Globe's open-air season closes in the same week half term begins: **Much Ado About Nothing** plays its last performance on **24 October**, and **As You Like It**, co-directed by Sean Holmes and Charlie Josephine, closes the following day, **25 October**. Standing tickets in the yard are £10. The same week also closes **Darkling** at the Bush, **Table 17** at the Kiln, and **Tartuffe (Remixed)** at the Marylebone Theatre, all on the **24th**.
+The Globe's open-air season closes in the same week half term begins: **[Much Ado About Nothing](https://theatre.ticketmaster.co.uk/book/1HM96-much-ado-about-nothing-2026/)** plays its last performance on **24 October**, and **[As You Like It](https://theatre.ticketmaster.co.uk/book/1HM8Y-as-you-like-it-26/)**, co-directed by Sean Holmes and Charlie Josephine, closes the following day, **25 October**. Standing tickets in the yard are £10. The same week also closes **Darkling** at the Bush, **Table 17** at the Kiln, and **Tartuffe (Remixed)** at the Marylebone Theatre, all on the **24th**.
 
 **From The Heart** at the Garrick opens and closes entirely inside the month, **8 to 18 October**. On **31 October**, four runs end together: **Angel's Bone** at the Coliseum, **The Hungry Ghost** at the Bush, **Stories – The Tap Dance Sensation** at the Peacock, which opened on the 14th, and **Cirque Berserk!** at the Garrick, which had only opened ten days earlier as a half-term booking.
 
@@ -285,11 +285,11 @@ A new Aardman show on Lightroom's walls, booking now to **4 January 2027**. It r
 
 ### Blue Note London's first full month
 
-The New York jazz club's first UK venue, which opened on St Martin's Lane in September, plays its first complete month in October, two sets a night (7pm and 9.30pm) in a 300-seat main room. **Baaba Maal plays three nights, 4 to 6 October**; only the early set on the 4th has sold out. **Jamie Cullum's two nights, 8 and 9 October, have sold out**, as has **Masego on 21 October**. **Erykah Badu's IMEHO, An Intimate Experience runs 10 to 11 October**, with the late set on the Saturday already gone. **Nubya Garcia plays three nights, 15 to 17 October**, and **Shabaka follows on 19 and 20 October**. The club's full entry is in our [guide to London's live music venues](/articles/best-live-music-venues-london/).
+The New York jazz club's first UK venue, which opened on St Martin's Lane in September, plays its first complete month in October, two sets a night (7pm and 9.30pm) in a 300-seat main room. **[Baaba Maal](https://www.ticketmaster.co.uk/baaba-maal-london-04-10-2026/event/2300650D9B6F5AE2) plays three nights, 4 to 6 October**; only the early set on the 4th has sold out. **Jamie Cullum's two nights, 8 and 9 October, have sold out**, as has **Masego on 21 October**. **Erykah Badu's [IMEHO, An Intimate Experience](https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-10-10-2026/event/230064FD095D1D6D) runs 10 to 11 October**, with the late set on the Saturday already gone. **[Nubya Garcia](https://www.ticketmaster.co.uk/nubya-garcia-london-15-10-2026/event/230064FD987D10CC) plays three nights, 15 to 17 October**, and **[Shabaka](https://www.ticketmaster.co.uk/shabaka-london-19-10-2026/event/23006505D5EC0E89) follows on 19 and 20 October**. The club's full entry is in our [guide to London's live music venues](/articles/best-live-music-venues-london/).
 
 ## Gigs worth planning around
 
-Alexandra Palace carries the second half of the month: **Beth Orton on 22 October** in the Alexandra Palace Theatre, **Fat Freddy's Drop on 23 October** in the Great Hall, the **Crouch End Festival Chorus performing Mozart's Requiem at 5pm on 25 October**, **Overmono on 28 October**, and **Skindred on Halloween night, 31 October**.
+Alexandra Palace carries the second half of the month: **[Beth Orton](https://www.ticketmaster.co.uk/beth-orton-london-22-10-2026/event/35006491A83E25B7) on 22 October** in the Alexandra Palace Theatre, **[Fat Freddy's Drop](https://www.ticketmaster.co.uk/fat-freddys-drop-21st-anniversary-of-london-23-10-2026/event/1F00634A9E9858E7) on 23 October** in the Great Hall, the **Crouch End Festival Chorus performing Mozart's Requiem at 5pm on 25 October**, **Overmono on 28 October**, and **[Skindred](https://www.ticketmaster.co.uk/skindred-you-got-this-tour-london-31-10-2026/event/1F006474E2A68594) on Halloween night, 31 October**.
 
 **Angine de Poitrine play two nights at the Troxy, Monday 19 and Tuesday 20 October, and both have sold out.** The anonymous Quebec duo, Khn de Poitrine on guitar and bass and Klek de Poitrine on drums, perform in oversized papier-mâché masks and polka-dot suits and play microtonal math rock: music built from the notes that fall between the frets of an ordinary guitar. The band began as a gag for a local venue in Saguenay; a live set KEXP released in February passed millions of views and turned it into an international tour. Over-14s, doors 7pm.
 

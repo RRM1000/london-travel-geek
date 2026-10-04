@@ -5,7 +5,7 @@ description: "Eight free city farms, a zoo scaled for under-tens, an indoor roll
 heroImage: "../../assets/articles/london-with-children/granary-square-fountains.jpg"
 heroImageAlt: "Children running through the ground fountains at Granary Square in King's Cross on a summer afternoon"
 publishedAt: 2026-06-27
-updatedAt: 2026-09-25
+updatedAt: 2026-10-04
 reviewBy: 2026-11-02
 sites: [london]
 canonicalSite: london
@@ -287,6 +287,32 @@ Merlin's **5-Attraction Pass** covers **Madame Tussauds, SEA LIFE London, the Lo
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="193412" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 Check ages before you buy, because two of the five are narrow: the **Dungeon is 12+** and **Shrek's Adventure is pitched at 6–12**, as covered above. If neither suits your children you are down to three attractions, which is exactly the break-even — so the pass stops being a saving and becomes a convenience.
+
+---
+
+## Christmas with children
+
+### Wundrful World of Christmas, ExCeL
+
+*13 November to 24 December 2026 · adults £29.90–£34.90, children £24.90–£29.90 · ages 3 to 8 · Custom House*
+
+A timed walk-through to Santa's grotto in Immerse LDN, on ExCeL's waterfront. Children ride a lift to the North Pole, sort toys in the Elves' Workshop, meet Mrs Claus in her kitchen and then Santa, who gives each of them a small gift. **The walk-through takes about 50 minutes, and the Elves' Playground after it (light installations, gentle fairground rides, food stalls) adds at least 30 more.** Every child needs a ticket, babies included, though under-12-month tickets are free, and pushchairs stay outside the walk-through. Rides and food are paid for on the day, by card only. [Dates and tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas).
+
+### Scrooge: Cirque Extravaganza, ExCeL
+
+*23, 24, 27 and 28 December 2026 · seated · Prince Regent*
+
+A circus version of *A Christmas Carol* with aerialists, acrobats and fire breathers, which the organiser describes as suitable for kids, teens and grandparents alike. It warns of water effects, loud noises, strobe lights and pyrotechnics, so it is not a first show for a nervous toddler. One seat number is drawn at each performance and wins £1,000 cash on stage. [Dates and tickets](https://scroogecirque.com/london).
+
+### Disney On Ice presents Discover the Magic, The O2
+
+*24 December 2026 to 3 January 2027 · North Greenwich*
+
+An ice show following the search for Tinker Bell through scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*, with Stitch causing trouble. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January. [Dates and tickets](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic).
+
+### Theatre for under-eights
+
+**Room on the Broom** (Lyric Theatre, 27 November 2026 to 3 January 2027, from £10, ages three and over, 60 minutes with no interval, [tickets](https://thelyrictheatre.co.uk/tickets/room-on-the-broom-live-on-stage/)), **Peppa Pig's Big Family Show!** (Theatre Royal Haymarket, 4 December 2026 to 3 January 2027, from £10, about 1 hour 20 minutes, [tickets](https://trh.co.uk/whatson/peppa-pigs-big-family-show/)) and **Pinocchio** (Shakespeare's Globe, 28 November 2026 to 3 January 2027, for ages five and over, half-price seats for under-16s, [tickets](https://www.shakespearesglobe.com/whats-on/pinocchio/)) are the three to book first. Pantomimes, Nutcrackers and the shows at Little Angel and the Unicorn are in our [Christmas shows guide](/articles/christmas-shows-london/).
 
 ---
 

@@ -3,8 +3,8 @@ title: "The Best Immersive Experiences in London: What's Actually Still Open"
 seoTitle: "Best Immersive Experiences London 2026: Still Open"
 description: "Immersive shows close constantly. Every experience here was status-checked against its own site, with the closed ones listed separately."
 publishedAt: 2026-07-02
-updatedAt: 2026-10-03
-reviewBy: 2026-10-01
+updatedAt: 2026-10-04
+reviewBy: 2026-11-06
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -101,7 +101,15 @@ The conceit: an interdimensional travel agency portals you into **Absurd City**,
 
 It is not just clips. It goes from the kitchen table where Peter Lord and David Sproxton started, through the train chase in *The Wrong Trousers*, to the sets, the props and the animators at work — with new animation made for the space. Written and designed by 59 Studio, directed by Nicol Scott, made with the Aardman production team.
 
-**Access performances are already scheduled**, which is rare this far out: **five BSL showings** (29 November, 4, 7, 12 and 22 December) and **five relaxed showings** (6, 8, 15 and 21 December, and 2 January). A £2 transaction fee applies per order.
+**Access performances are already scheduled**, which is rare this far out: **five BSL showings** (29 November, 4, 7, 12 and 22 December) and **five relaxed showings** (6, 8, 15 and 21 December, and 2 January). A £2 transaction fee applies per order. Book on [Lightroom](https://lightroom.uk/whats-on/larger-than-life/) or [Ticketmaster](https://attractions.ticketmaster.co.uk/book/1JAP4-TICKETMASTER/).
+
+### Wundrful World of Christmas, Immerse LDN at ExCeL — 13 November to 24 December 2026
+
+*Adults £29.90 off-peak, £34.90 peak; children £24.90 and £29.90 · about 50 minutes, plus the Elves' Playground · ages 3 to 8 · Custom House*
+
+**A timed walk-through to the North Pole for three to eight-year-olds, in the immersive venue on ExCeL's waterfront.** Children ride a lift, cross a snow-covered Enchanted Forest, sort toys in the Elves' Workshop, meet Mrs Claus in her kitchen and finish in Santa's Grotto, where each group has its photo taken. Actors and animated characters guide the way, and every child leaves with a small gift and a letter pack to post to Santa.
+
+It runs on selected days only, in timed sessions, and every child needs a ticket, babies included (under-12-months tickets are free). The Elves' Playground afterwards has light installations, gentle fairground rides and food stalls, which cost extra; the venue takes cards only, and pushchairs are left outside the walk-through. [Dates and tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas).
 
 ### Phantom Peak, Westfield Stratford City — 4 December 2026
 
@@ -356,7 +364,7 @@ Level access through the main entrance, though there are steps into the individu
 
 360-degree projection built from performance footage, rarely heard interviews and material from the David Bowie archive that has not been shown before. It is a purpose-built room in King's Cross, not a converted space, and the sound is the half people underrate.
 
-You sit or stand as you like and nobody performs at you. **Slots run every half hour**, tickets are £25 for adults and **£15 for students and under-18s**, plus a £2 transaction fee per order. BSL showings are offered.
+You sit or stand as you like and nobody performs at you. **Slots run every half hour**, tickets are £25 for adults and **£15 for students and under-18s**, plus a £2 transaction fee per order. BSL showings are offered. Book on [Lightroom](https://lightroom.uk/whats-on/david-bowie-youre-not-alone/) or [Ticketmaster](https://attractions.ticketmaster.co.uk/book/1HUYG-TICKETMASTER/).
 
 **Wallace & Gromit: Larger Than Life opens here on 14 October 2026**, from £25.
 

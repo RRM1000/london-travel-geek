@@ -3,7 +3,7 @@ title: "New Year's Eve in London: Fireworks Tickets, the Parade and Getting Home
 seoTitle: "New Year's Eve London 2026: Fireworks and Tickets"
 description: "The Thames fireworks are ticketed, paid and sell out — and tickets for 31 December 2026 are not on sale yet. What is confirmed, what the free viewpoints really are, and how to get home."
 publishedAt: 2026-09-04
-updatedAt: 2026-09-27
+updatedAt: 2026-10-04
 reviewBy: 2026-10-15
 sites:
   - london
@@ -153,6 +153,10 @@ London Party Boats tickets include a welcome Prosecco, unlimited beer, wine, Pro
 
 For the run-up rather than the night itself — markets, lights, ice rinks and carols — see our guide to [Christmas in London](/articles/christmas-in-london/).
 
+### A club night at Troxy
+
+**DnB Allstars NYE: London, Thursday 31 December 2026, doors 9pm, 18 and over.** A drum and bass night in the main room of Troxy in Limehouse, with a countdown to 2027. Tickets use fixed tier pricing: the cheapest tier goes on sale first and the next opens when it sells out, so there is no difference between tickets beyond when you bought them. The limit is eight per person, and a VIP package adds queue jump and booths over the dancefloor. [Dates and tickets](https://troxy.co.uk/event/dnb-allstars-nye-london/).
+
 ### Shows on the night
 
 Gigs, comedy and theatre booking for the evening of 31 December.
@@ -179,6 +183,10 @@ Gigs, comedy and theatre booking for the evening of 31 December.
 Three paid tiers: **grandstand** seats, covered and reserved, with a flag and a running order; a **VIP** package with covered seating in the Finale Arena, private loos, unlimited food and drink and a goodie bag; and, new for 2027, the **Fun Zone at Waterloo Place**, a festival-style viewing area beside the press zone. There is also an accessible viewing area, partially covered with an accessible toilet, where ticket holders and their companion must be seated by 12:30. The prices are on Ticketmaster.
 
 For a free spot, follow the organisers' own advice. **Green Park and the Piccadilly end** has the lightest crowds and the freshest performers, plus toilets and first aid nearby. **Trafalgar Square and Pall Mall** is the most popular stretch and has big screens. **Parliament Square** is the finish, framed by Westminster Abbey and Big Ben, and closest to a station afterwards. Arrive an hour early for any of them.
+
+### New Year's Day Proms at the Barbican
+
+**Friday 1 January 2027, 3pm, from £23 including the transaction fee.** The London Concert Orchestra under Anthony Inglis play classical favourites, from *La bohème* to "Nessun dorma" and Holst's "Jupiter", in the Barbican Hall, in about **2 hours 30 minutes**, as part of the Barbican's Raymond Gubbay Christmas season. [Book via the Barbican](https://www.barbican.org.uk/whats-on/2027/event/new-years-day-proms).
 
 ---
 

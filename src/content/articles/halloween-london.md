@@ -3,8 +3,8 @@ title: "Halloween in London: Events, Parties and Where to Get a Costume"
 seoTitle: "Halloween in London 2026: Events, Parties and Costumes"
 description: "What to do in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours — plus where you can still hire a proper costume."
 publishedAt: 2026-06-30
-updatedAt: 2026-10-03
-reviewBy: 2026-11-02
+updatedAt: 2026-10-04
+reviewBy: 2026-10-16
 sites:
   - london
 canonicalSite: london
@@ -185,6 +185,24 @@ A 1920s speakeasy party in an abandoned ballroom whose location is emailed after
 
 **Recommended 18+.** Dressing up is encouraged, not required, and the best-dressed guest wins a bottle of wine. Allow two to three hours. [Book via the London Cabaret Collective](https://londoncabaretcollective.co.uk/products/the-halloween-cabaret).
 
+### Ghost House with Fern Brady and Tom Rosenthal, Union Chapel
+
+*Saturday 31 October 2026 · doors 6.30pm, show 7.45pm, finish by 10.30pm · 16+ (under-18s with an adult) · Islington*
+
+A Halloween comedy bill in the Victorian chapel on Compton Terrace, with Fern Brady, Tom Rosenthal, Kiran Saggu, Horatio Gould and John Tothill. Early-dinner ticket holders can eat with Margins Cafe from 6pm. [Book via Union Chapel](https://unionchapel.org.uk/whats-on/ghost-house-with-fern-brady-tom-rosenthal).
+
+### Dina Martina: Halloweena!, Soho Theatre
+
+*19 to 31 October 2026 · 60 minutes · 16+ · from £16 · Soho Downstairs*
+
+A cabaret and comedy show from Dina Martina, whom Soho Theatre calls its favourite "funny ghoul", in the basement room on Dean Street. Prices move with demand. [Book via Soho Theatre](https://sohotheatre.com/events/dina-martina-halloweena/).
+
+### The Tiger Lillies: Songs for the Dead, Soho Theatre Walthamstow
+
+*Sunday 1 November 2026 · 110 minutes · 16+ · from £15*
+
+The cabaret trio play a concert of their songs about death on the Day of the Dead, the day after Halloween, in the 960-seat auditorium of the restored Granada cinema on Hoe Street. [Book via Soho Theatre](https://sohotheatre.com/events/the-tiger-lillies-songs-of-the-dead/).
+
 ### Halloween at Kew, Royal Botanic Gardens
 
 Kew, Richmond, London, TW9 3AE — enter at Victoria, Elizabeth or Brentford Gate only. **16 October to 1 November 2026**, 6pm–10pm until 24 October then 4pm–10pm for the final week. Returning for a third year.
@@ -230,6 +248,12 @@ A more theatrical version: the guide carries a projector and puts **crime-scene 
 **£18 adult, £10 child** — £2 less than London Walks for an adult. Thursday to Sunday at 5pm and 7.30pm, Monday to Wednesday at 7.30pm only, and it runs on the night itself. It meets at **Aldgate East** rather than Tower Hill.
 
 **Booking is required**, which is the trade-off: you get the better-reviewed walk — over 3,000 Tripadvisor reviews at 4.6 — but you have to commit in advance, and Halloween night sells out. The 5pm slot is the one people forget about, and in late October it is dark by then anyway.
+
+### Barbican Ghost Tours
+
+*From £25 plus a £1.50 fee · 75 to 90 minutes · 12+ · meet on Level G*
+
+An after-dark walk through the Barbican estate: Roman ruins, plague pits and the ghost stories its staff tell, finishing in the Library Stack Rooms. It takes place partly outdoors, includes steps and uneven surfaces, and is not wheelchair accessible. Tours run on selected evenings, with extra departures from 4pm to 9pm on Saturday 31 October. [Book via the Barbican](https://www.barbican.org.uk/whats-on/2026/event/ghost-tours-the-barbican-after-dark).
 
 ### Ghost Bus Tours
 

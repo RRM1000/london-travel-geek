@@ -9,6 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Trafalgar_Square_Christ
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-09-27
+updatedAt: 2026-10-04
 reviewBy: 2026-10-15
 sites: [london]
 canonicalSite: london
@@ -19,7 +20,7 @@ faq:
   - q: "When do London's Christmas markets open in 2026?"
     a: "Kingston is the first chalet market with confirmed dates: Thursday 12 November 2026 to Sunday 3 January 2027. Borough Market opens seven days a week from Monday 30 November. Southbank Centre, Leicester Square and Trafalgar Square had not announced 2026 dates by late September; in 2025 Leicester Square opened on 1 November and the Southbank on 3 November, and both ran to 4 January."
   - q: "Are London's Christmas markets free?"
-    a: "Nearly all of them. Southbank, Trafalgar Square, Leicester Square, Covent Garden, Borough, Kingston, Greenwich and Crafty Fox at the British Library cost nothing to walk into. The exceptions are Hyde Park Winter Wonderland, where everyone needs a timed entry ticket from £1 even to reach its market, and the Chelsea Physic Garden Christmas Fair, £6 early bird, £8 in advance or £10 on the door."
+    a: "Nearly all of them. Southbank, Trafalgar Square, Leicester Square, Covent Garden, Borough, Kingston, Greenwich and Crafty Fox at the British Library cost nothing to walk into. The exceptions are Hyde Park Winter Wonderland, where everyone needs a timed entry ticket from £1 even to reach its market, the Chelsea Physic Garden Christmas Fair, £6 early bird, £8 in advance or £10 on the door, and the indoor fairs at Olympia and the Business Design Centre, which start at £16."
   - q: "Which London Christmas markets are close enough to do in one evening?"
     a: "Leicester Square, Trafalgar Square and Covent Garden are all within about ten minutes' walk of each other, and the Southbank Centre's market is across the Golden Jubilee footbridge from Trafalgar Square. Start at Covent Garden, finish on the river."
   - q: "Do London Christmas markets take cards?"
@@ -36,7 +37,7 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 
 > 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Ice skating](/articles/ice-skating-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
-*Dates, hours and prices as published by each organiser on 27 September 2026.*
+*Dates, hours and prices as published by each organiser between 27 September and 4 October 2026.*
 
 ## The markets at a glance
 
@@ -54,6 +55,9 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 | **Wimbledon** | The Piazza, SW19 | Not yet announced (2025: three Thursday-to-Sunday weekends) | Free | Only 12 trading days |
 | **Crafty Fox** | British Library, RSA House, King's Cross | 14–15 Nov, 5 Dec, 6 Dec, 12–13 Dec | Free at the British Library, with a ticket to book | One or two days each; different makers each day |
 | **Chelsea Physic Garden fair** | Royal Hospital Road, SW3 | 26–29 Nov 2026 | £6–£10 | Ticketed; four days only |
+| **Spirit of Christmas Fair** | Olympia, W14 | 2–8 Nov 2026 | From £25.75 | Ticketed; open until 9pm on Thursday, 5pm on Sunday |
+| **Good Housekeeping Live with Country Living Christmas Market** | Business Design Centre, N1 | 11–14 Nov 2026 | Ticketed | Open 9.30am–5pm all four days |
+| **The Ideal Christmas Show** | Olympia, W14 | 26–29 Nov 2026 | From £16 | Ticketed; open until 8pm on Thursday, 6pm on the other days |
 | **Columbia Road** | Columbia Road, E2 | Not yet announced (2025: four Wednesday evenings) | Free | Shops only, 5–9pm, no road closure |
 
 ---
@@ -240,6 +244,24 @@ It is the only ticketed fair here and worth booking early for the lower price. O
 **The shops behind the Sunday flower market stay open late on the Wednesdays before Christmas**, 5pm to 9pm, with a tree, mince pies and mulled wine, and the pubs and cafés open around them. In 2025 the dates were **26 November and 3, 10 and 17 December**; the 2026 dates are not yet announced.
 
 It is shops rather than stalls, with no road closure and no carol singing, and it is far quieter than the Sunday market. Hoxton is about five minutes' walk.
+
+---
+
+## Indoor Christmas fairs
+
+Three ticketed shopping fairs run under glass roofs in November. None is a street market: each charges entry, and each is a day of shopping rather than an evening of food and lights.
+
+### Spirit of Christmas Fair, Olympia
+
+**2–8 November 2026, from £25.75.** The fair's 25th anniversary, in the Grand Hall at Olympia: more than 600 brands, 30 of them emerging ones in the Spirit Rising Stars area, plus free workshops, live music and a restaurant run by the chef Kate Austen. Entry includes The Luxury Travel Fair in Olympia's National Hall. **Open Monday to Wednesday 10am–6pm, Thursday 10am–9pm, Friday and Saturday 10am–6pm and Sunday 10am–5pm.** [Dates and tickets](https://spiritofchristmasfair.co.uk).
+
+### Good Housekeeping Live with the Country Living Christmas Market, Business Design Centre
+
+**11–14 November 2026, 9.30am–5pm each day.** Four days under the glass dome of the Business Design Centre in Islington, mixing a Christmas market with talks, craft sessions and cooking demonstrations. [Dates and tickets](https://www.goodhousekeepinglive.co.uk/).
+
+### The Ideal Christmas Show, Olympia
+
+**26–29 November 2026, from £16.** More than 300 brands in the Grand Hall, with festive workshops, tastings, live music and a Santa's Speakeasy bar to finish. **Thursday 10am–8pm; Friday to Sunday 10am–6pm.** A VIP ticket adds fast-track entry, lounge access and a goody bag. [Dates and tickets](https://idealhomeshowchristmas.co.uk).
 
 ---
 

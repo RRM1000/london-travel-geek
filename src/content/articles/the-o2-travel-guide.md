@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:1_-_panoramio_(42).jpg
 heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 publishedAt: 2026-06-07
-updatedAt: 2026-09-27
+updatedAt: 2026-10-04
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -233,6 +233,8 @@ Going for the **National Television Awards**? Seat prices, the red-carpet packag
 **Up at The O2** is the obvious pre-show activity: a guided, 90-minute climb over the top of the dome's fabric roof, reaching 52 metres above ground with a 360-degree view of London — up to 15 miles on a clear day. Pricing runs from **£37 for a weekday daytime climb** up to **£44 for a weekend sunset climb**, with twilight and sunset slots priced in between. Book well ahead of a big event, since a climb slot and a doors time rarely both fit comfortably into the same evening.
 
 The **Design District**, a cluster of 16 low-rise studio buildings by eight different architects, sits opposite the arena, about a minute from the station — worth a look if you want something other than the retail-heavy Entertainment District, and it has its own canteen for a quieter meal before a show.
+
+**Disney On Ice presents Discover the Magic** is the family show over Christmas: **24 December 2026 to 3 January 2027** in The O2 arena, an ice show built around the search for Tinker Bell, with scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January. The O2's [event page](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic) lists every performance and sells tickets through AXS.
 
 **Outlet Shopping at The O2** wraps around the dome with over 60 discount and outlet stores, and keeps its own hours separate from the arena's — check its site directly if shopping is part of the plan, since it doesn't simply mirror event timings.
 

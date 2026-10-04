@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Excel_London_Summer_20
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 publishedAt: 2026-06-17
-updatedAt: 2026-09-29
+updatedAt: 2026-10-04
 reviewBy: 2026-10-13
 sites: [london]
 canonicalSite: london
@@ -164,6 +164,8 @@ Both stations serving ExCeL are step-free — TfL's own step-free map confirms C
 
 ExCeL runs almost entirely on trade and B2B events, but a handful of shows each year are open to the public: [MCM Comic Con](/articles/mcm-comic-con-london/) in October, New Scientist Live, the London International Horse Show in December and Grand Designs Live in spring among them. The [upcoming public shows](#whats-on-excel-london) are listed at the foot of this page with their dates, and our [exhibitions and conventions calendar](/articles/exhibitions-conventions-london/) covers every London venue.
 
+**Two Christmas shows fill the weeks before 25 December.** **Wundrful World of Christmas**, a timed meet-Santa walk-through for three to eight-year-olds, runs on selected days from 13 November to 24 December in Immerse LDN on the Waterfront, about three minutes' walk from Custom House ([tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas)). **Scrooge: Cirque Extravaganza** plays the ICC Auditorium at the east end on 23, 24, 27 and 28 December, where Prince Regent is the nearer station, not Custom House ([tickets](https://scroogecirque.com/london)). Both are in our [Christmas shows guide](/articles/christmas-shows-london/).
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="excel-london-guide-thames-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---
@@ -190,7 +192,7 @@ Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the hot
 - **Royal Victoria Dock** itself is the view from ExCeL's Waterfront side — a working dock turned public space, with the cable car's Royal Docks terminal at one end.
 - **The London Cable Car** (see above) makes a short, scenic crossing to North Greenwich and The O2 — see our [O2 travel guide](/articles/the-o2-travel-guide/) for what's on the other side.
 - **WakeUp Docklands**, a cable wakeboard park in the Royal Docks, runs from the water ExCeL backs onto.
-- **Immerse LDN**, an immersive exhibitions venue on the Waterfront about 400m from the West Entrance, runs a changing programme of ticketed shows.
+- **Immerse LDN**, an immersive exhibitions venue on the Waterfront about 400m from the West Entrance, runs a changing programme of ticketed shows; its Christmas one, [Wundrful World of Christmas](/articles/christmas-shows-london/#wundrful-world-of-christmas-excel-london), runs from 13 November to 24 December 2026.
 - **City Hall** — the striking glass-and-steel building on the dock, formerly The Crystal, isn't the sustainability exhibition it once was. The Greater London Authority moved its headquarters there in January 2022, and it's now the Mayor and London Assembly's base, not a visitor attraction.
 - **Canary Wharf** is one Elizabeth line stop away — about 3 minutes — for the roof garden, Eden Dock and the restaurants at Wood Wharf; see our [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
 - **London City Airport** is a 15-minute walk or a couple of DLR stops, if you're flying in or out around your visit.
