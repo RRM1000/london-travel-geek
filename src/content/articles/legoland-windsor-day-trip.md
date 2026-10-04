@@ -128,7 +128,7 @@ The barriers read number plates, so add your registration when you book. Going h
 
 *The Dragon. Photo: [DingRawD](https://commons.wikimedia.org/wiki/File:The_Dragon_@_Legoland_Windsor.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-The park is laid out in 11 themed lands down a hillside, with the entrance at the top and the hotels at the bottom. The **Hill Train** links the two ends, which matters: the walk from the top station to the bottom one is about 600 metres and steep in places.
+The park is laid out in 11 themed lands down a hillside, with the entrance at the top and the hotels at the bottom. The **Hill Train** links the two ends, saving a walk of about 600 metres that is steep in places.
 
 - **The Dragon**, in Knight's Kingdom, is the park's fastest coaster at up to 30mph, starting inside the castle.
 - **LEGO City Driving School**: children drive an electric car round LEGO City on their own after a road-safety video, and every driver gets a LEGOLAND driving licence at the end. Riders must be 1.1m to 1.5m and under 13; parents watch from the side.
@@ -162,7 +162,7 @@ For under-fives, **DUPLO Valley** has the gentlest rides: the DUPLO Express trai
 
 *From [LEGOLAND's height restrictions page](https://www.legoland.co.uk/plan-your-day/useful-guides/height-restrictions/). Children are measured in their shoes.*
 
-**The number that matters is 90cm.** Below it a child gets in free but cannot go on the rides with a 90cm minimum, even with an adult. Rides with no minimum include Deep Sea Adventure, Coastguard HQ, Laser Raiders, Balloon School, NINJAGO and the LEGOLAND Express. At 1m almost everything except Driving School, Minifigure Speedway and Autumn's Riding Adventure opens up.
+**The first height cut-off is 90cm.** Below it a child gets in free but cannot go on the rides with a 90cm minimum, even with an adult. Rides with no minimum include Deep Sea Adventure, Coastguard HQ, Laser Raiders, Balloon School, NINJAGO and the LEGOLAND Express. At 1m almost everything except Driving School, Minifigure Speedway and Autumn's Riding Adventure opens up.
 
 ![The DUPLO Dino Coaster in DUPLO Valley, its bright green and orange queue line and track among palm-shaped decorations under a blue sky](../../assets/articles/legoland-windsor-day-trip/duplo-dino-coaster.jpg)
 

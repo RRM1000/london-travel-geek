@@ -130,7 +130,7 @@ Access is the best of any cabaret room in this guide: **wheelchair accessible th
 
 **The strongest talent pipeline in the country.** This is where drag and cabaret acts break before anyone gives them a West End run, and roughly 49 shows are on sale at any one time.
 
-There are three spaces, and the one that matters here is **Soho Downstairs**, the cabaret room, with late slots at 9.15pm. Seated, drinks served, no dinner. Runs are short — a single night up to a fortnight — which is exactly why the programme stays interesting and why the same bill is rarely there a month later.
+There are three spaces, and the cabaret room is **Soho Downstairs**, with late slots at 9.15pm. Seated, drinks served, no dinner. Runs are short — a single night up to a fortnight — which is exactly why the programme stays interesting and why the same bill is rarely there a month later.
 
 **Cabaret and variety tickets run from £16 to £20**, which for the quality of act is the best value in central London. Access provision is strong and clearly stated: **audio-described, BSL, captioned and relaxed performances** are all offered across the programme.
 

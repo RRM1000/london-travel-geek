@@ -249,7 +249,7 @@ The dim sum benchmark in London, and open later than most of the halls it is mea
 
 *£ · pizza by the slice*
 
-**Enormous New York slices**, folded, sold by the slice, which is the only specification that matters at that time of night.
+**Enormous New York slices**, folded, sold by the slice.
 
 ![A giant pepperoni pizza slice on a paper plate at Voodoo Ray's, Dalston](../../assets/articles/late-night-eating-london/voodoo-rays-pizza-slice.jpg)
 

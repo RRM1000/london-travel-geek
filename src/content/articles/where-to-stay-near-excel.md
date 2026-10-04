@@ -157,7 +157,7 @@ Canary Wharf and Woolwich are one Elizabeth line stop either side of Custom Hous
 
 *About £200 · 22 Hertsmere Road, West India Quay, E14 4ED · Elizabeth line 3 min, then 3 min to Custom House · [Hotels.com](hotel:london-marriott-canary-wharf)*
 
-The curved glass tower at the end of West India Quay, with floor-to-ceiling windows over the dock, a 24-hour gym with a sauna, and afternoon tea in G&Tea, its gin bar. The Elizabeth line station, the one that matters for ExCeL, is three minutes' walk. Guests must be 18 to check in, and there's no hotel car park. Our [Canary Wharf hotel guide](/articles/where-to-stay-canary-wharf/) has the rest of the estate's hotels.
+The curved glass tower at the end of West India Quay, with floor-to-ceiling windows over the dock, a 24-hour gym with a sauna, and afternoon tea in G&Tea, its gin bar. The Elizabeth line station, one stop from ExCeL, is three minutes' walk. Guests must be 18 to check in, and there's no hotel car park. Our [Canary Wharf hotel guide](/articles/where-to-stay-canary-wharf/) has the rest of the estate's hotels.
 
 ### Novotel London Canary Wharf — a pool, a rooftop bar and suites for four
 
@@ -237,7 +237,7 @@ A new-build tower by East India, and the cheapest hotel in our budget guide: **�
 
 *1016 Dockside Road, E16 2FQ · Royal Albert DLR 3 min · [Hotels.com](hotelscom:164163136)*
 
-On Dockside Road by Royal Albert, one DLR stop from Prince Regent. Every double has a king-size bed, there are family rooms, and the Bar Café serves an unlimited breakfast (07:00 to 10:00 on weekdays, to 11:00 at weekends) at which up to two children eat for £1 each per paying adult. Parking is **£12 for 24 hours**. **Wi-Fi is free for only 30 minutes a day**; a full 24 hours costs £3.50, which matters if you're working the show.
+On Dockside Road by Royal Albert, one DLR stop from Prince Regent. Every double has a king-size bed, there are family rooms, and the Bar Café serves an unlimited breakfast (07:00 to 10:00 on weekdays, to 11:00 at weekends) at which up to two children eat for £1 each per paying adult. Parking is **£12 for 24 hours**. **Wi-Fi is free for only 30 minutes a day**; if you're working the show, a full 24 hours costs £3.50.
 
 ### ibis London Canning Town — opposite the station, for ExCeL and The O2
 

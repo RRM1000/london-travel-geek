@@ -93,7 +93,7 @@ The **martini is mixed at your table** from a trolley of tinctures — you pick 
 
 **It publishes its price range, which almost nothing else here does: £15 to £85 a drink.** The top of that is a serious sum for a cocktail and the bottom is competitive with Soho. Head bartender Giulia Cuccurullo took the GQ Food & Drink award in 2022.
 
-**Dress code is smart casual and it is published**, so this is one of the few Mayfair-adjacent rooms where you know the rule before you arrive. **Strictly over-18s after 6pm** — accompanied over-15s are admitted before that, which matters if you are travelling with older teenagers.
+**Dress code is smart casual and it is published**, so this is one of the few Mayfair-adjacent rooms where you know the rule before you arrive. **Strictly over-18s after 6pm** — accompanied over-15s are admitted before that, so come before 6pm with older teenagers.
 
 At The Langham, 1c Portland Place, W1B 1JA, at the top of Regent Street opposite Broadcasting House.
 

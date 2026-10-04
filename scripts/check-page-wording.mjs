@@ -28,6 +28,10 @@ const EVERYWHERE = [
   // "X does not publish its prices" is a fact about the operator; these are notes to ourselves.
   [/\bbefore publishing\b|\bdo not print\b/i, "working note"],
   [/\bRESOLVED 20\d\d|\bAMBIGUOUS SOURCE\b|\bDO NOT REPEAT\b/, "working note"],
+  // Rob, 4 October 2026: "Days are the column that matters", "which matters more
+  // than it sounds", "if that matters to you" are filler. State the fact or the
+  // consequence instead ("Borough Market is closed on Mondays").
+  [/\b(?:the|every|any|only) (?:[\w'’-]+ ){1,4}that (?:actually |really )?matters?\b|(?:[,;—–-]|\band) ?which (?:actually |really )?matters\b|\b(?:is|are) what (?:actually |really )?matters\b|\bmatters most\b|\b(?:if|why) that matters\b|\bthat matters because\b/i, "…that matters filler"],
 ];
 // Card notes are short and have no reason to hedge at all.
 const DATA_ONLY = [

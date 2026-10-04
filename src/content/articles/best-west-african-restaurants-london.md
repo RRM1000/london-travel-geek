@@ -19,7 +19,7 @@ faq:
   - q: "Where is the best jollof rice in London?"
     a: "Depends whose. For Nigerian party jollof, smoky from the bottom of the pot, 805 on the Old Kent Road and Bola Cuisine in New Cross are the two cheap benchmarks. For the Ghanaian version, 19FiftySeven on the Old Kent Road and Waakye Joint in Tottenham. For the Senegalese original it descends from, thieboudienne, you want a Senegambian kitchen: Safna Kitchen at Elephant and Castle or Walfathou Kitchen in Islington."
   - q: "Where do I get suya in London?"
-    a: "Alhaji Suya in Peckham is the name everyone gives, and its yaji spice is imported from Kano state in northern Nigeria, where the owner is from. Vittles reports that it burned down and reopened without its live fire grill, which matters if you are travelling for it. Suuyar, also in Peckham, runs an all-you-can-eat suya buffet and started as a stall on the corner of Choumert Road and Rye Lane."
+    a: "Alhaji Suya in Peckham is the name everyone gives, and its yaji spice is imported from Kano state in northern Nigeria, where the owner is from. Vittles reports that it burned down and reopened without its live fire grill. Suuyar, also in Peckham, runs an all-you-can-eat suya buffet and started as a stall on the corner of Choumert Road and Rye Lane."
   - q: "Where is the West African food in Peckham?"
     a: "Choumert Road, mostly. Lolak Afrique at number 38–40 does abula, the Yoruba trio of ewedu, gbegiri and tomato stew poured over one plate; Mingles at number 18 cooks Sierra Leonean, which almost nowhere in London does. Alhaji Suya is around the corner on Peckham Park Road and The Flygerians trade inside Peckham Palms on Bournemouth Close."
   - q: "Is West African food in London expensive?"

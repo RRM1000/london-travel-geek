@@ -214,7 +214,7 @@ The Great Escape's **First Fifty** also runs in November: one night in East Lond
 
 ## Getting home late
 
-- **The Night Tube runs on Friday and Saturday nights only**, on the Central, Jubilee, Northern (Charing Cross branch), Piccadilly, Victoria and Windrush lines. There's nothing on Sunday night, which matters for bank holiday Sundays at All Points East and Brockwell Park. Details are in our [Tube guide](/articles/how-to-use-the-london-underground/); the [bus guide](/articles/how-to-use-london-buses-and-trams/) covers night buses.
+- **The Night Tube runs on Friday and Saturday nights only**, on the Central, Jubilee, Northern (Charing Cross branch), Piccadilly, Victoria and Windrush lines. There's nothing on Sunday night, including bank holiday Sundays at All Points East and Brockwell Park. Details are in our [Tube guide](/articles/how-to-use-the-london-underground/); the [bus guide](/articles/how-to-use-london-buses-and-trams/) covers night buses.
 - **All Points East and LIDO**, both in Victoria Park: walk 10 to 15 minutes to Mile End (Central, District, Hammersmith & City) or Bethnal Green (Central), or take the Overground from Cambridge Heath or Bethnal Green. Expect queues to get into the stations after the headliner. LIDO's 2026 date was a bank holiday Monday, when there's no Night Tube either.
 - **Brockwell Park:** there are two exits, one towards Brixton and one towards Herne Hill station. Brixton is on the Victoria line, which runs all night on Fridays and Saturdays.
 - **BST Hyde Park:** shows end by 10.30pm, early enough for the normal Tube. Park Lane can close for a short time afterwards.

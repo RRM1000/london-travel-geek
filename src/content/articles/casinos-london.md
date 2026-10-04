@@ -81,7 +81,7 @@ That is the trouble with most casino guides to London: they were written while t
 
 ---
 
-## The rules, which is the part that matters
+## The rules
 
 Almost everything people believe about a British casino comes from an American film.
 
@@ -141,7 +141,7 @@ Once no more bets is called, the layout belongs to the dealer. **Do not touch or
 
 > ⚠️ **"American roulette" in a British casino usually means the table, not the wheel.** It describes the American-style layout, with the wheel at one end and players around it — not the double-zero American wheel. Do not assume either way: **look at the wheel and count the zeros before you sit down.** It takes three seconds and it doubles or halves what the game costs you.
 
-**Blackjack: the payout is the number that matters.** The British norm is **blackjack pays 3:2**, the **dealer stands on soft 17**, four to six decks, and **no hole card** — the dealer does not take a second card until every player has finished, which is different from the American game and changes how you play against a possible dealer blackjack. Played that way with basic strategy, the house edge is around **0.5%**, the best odds in the building.
+**Blackjack: check the payout.** The British norm is **blackjack pays 3:2**, the **dealer stands on soft 17**, four to six decks, and **no hole card** — the dealer does not take a second card until every player has finished, which is different from the American game and changes how you play against a possible dealer blackjack. Played that way with basic strategy, the house edge is around **0.5%**, the best odds in the building.
 
 **The number to watch for is 6:5.** A table paying 6:5 on blackjack instead of 3:2 pays you less for the same hand and pushes the house edge up several times over. It is signposted on the table, and it is the single most expensive detail a casual player misses.
 

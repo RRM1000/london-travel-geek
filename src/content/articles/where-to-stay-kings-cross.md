@@ -68,7 +68,7 @@ The spa, in the old steam kitchens, has a relaxation pool with hydro loungers ra
 
 *About £249 · 266 rooms and suites · 10 Argyle Street, WC1H 8EG · St Pancras 2 min*
 
-A 1974 Camden Council office annexe, kept rather than knocked down, directly opposite St Pancras. The old council library on the ground floor is now **The Library Lounge**, which still has the books, and which matters more than it sounds: it serves **from 7am to midnight Sunday to Wednesday and to 2am Thursday to Saturday**, so there is somewhere civilised to sit when you arrive off a late train.
+A 1974 Camden Council office annexe, kept rather than knocked down, directly opposite St Pancras. The old council library on the ground floor is now **The Library Lounge**, which still has the books. It serves **from 7am to midnight Sunday to Wednesday and to 2am Thursday to Saturday**, so there is somewhere civilised to sit when you arrive off a late train.
 
 **Decimo, the tenth-floor Mexican restaurant, is reached by a red lift on the outside of the building**, and it is the reason a lot of people book. It closes on Sundays and Mondays — worth checking before you plan dinner around it, because those are common nights to be here for a Monday-morning train. The eleventh-floor Rooftop is a summer proposition and runs to 9pm, Sweeties opens Wednesday to Saturday, and the gym is open 24 hours to guests.
 

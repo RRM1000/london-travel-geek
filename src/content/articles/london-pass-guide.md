@@ -115,7 +115,7 @@ Adult and child prices, straight from Go City's product data. A child pass cover
 | 6 | £149 | £24.83 | £99 | £16.50 |
 | 7 | £159 | £22.71 | £109 | £15.57 |
 
-That right-hand column is the only number that matters. **Every attraction you pick must cost more than it, or you are losing money on that pick.**
+Use the right-hand column. **Every attraction you pick must cost more than it, or you are losing money on that pick.**
 
 At two choices you need each one to beat **£32**. Among the landmark sights on the Explorer list, essentially only the Tower of London (£37) clears that. The 2-choice Explorer is close to unwinnable.
 
@@ -352,7 +352,7 @@ Not to be confused with the annual pass above. This is a single ticket to **five
 | **All five separately** | **£132** |
 | **5-Attraction Pass** | **£59** |
 
-The 55% saving is not the number that matters, because hardly anyone wants all five. **The break-even is three.** The dearest possible pair — the Eye and SEA LIFE — is £57, still under the pass, so two attractions are always cheaper booked direct. The cheapest possible trio is £75, already over it. So it pays from the third, whichever three you pick.
+Ignore the 55% saving, because hardly anyone wants all five. **The break-even is three.** The dearest possible pair — the Eye and SEA LIFE — is £57, still under the pass, so two attractions are always cheaper booked direct. The cheapest possible trio is £75, already over it. So it pays from the third, whichever three you pick.
 
 The 7-day window is looser than The London Pass's consecutive days, but it starts at the Eye, so book the Eye for early in the trip. Prices are dynamic, so check the date you actually want.
 

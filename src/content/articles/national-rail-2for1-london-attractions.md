@@ -88,7 +88,7 @@ There are three redemption routes, and **which one applies is set per attraction
 
 > 💡 **The rule of thumb Days Out Guide gives itself:** the best indication of a valid ticket is the **National Rail double arrow symbol**. If your ticket has it, you are fine.
 
-**Paper versus digital is not the distinction.** A National Rail e-ticket on your phone is perfectly valid. The line that matters is **National Rail ticket versus TfL tap** — and a tap leaves you with nothing to show.
+**Paper versus digital is not the distinction.** A National Rail e-ticket on your phone is perfectly valid. The distinction is **National Rail ticket versus TfL tap** — and a tap leaves you with nothing to show.
 
 **Your destination has to make sense.** Tickets need to show you travelled to the attraction by train; a ticket reading "London Terminals" works for London offers. Staff can refuse a ticket whose destination is nowhere near the attraction.
 

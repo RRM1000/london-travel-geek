@@ -55,7 +55,7 @@ The thing worth understanding about it is the collaboration buried in its making
 
 **Opening hours are unusually long, and that is the tactical detail.** Sunday to Wednesday it runs 10am to 6pm; **Thursday to Saturday it stays open until 9pm**. Late Thursday and Friday slots are the civilised way to see it.
 
-**Tickets: this is the part to plan.** Every ticket for 10 September to 31 December 2026 has sold out. **Members' priority booking reopens on 6 October 2026**, and the **next general ticket release is 21 October 2026**, covering visits from 1 January to 31 March 2027. If you want to go and have not booked, those are the two dates that matter — the British Museum's newsletter is the only reliable way to be told when releases open.
+**Tickets: this is the part to plan.** Every ticket for 10 September to 31 December 2026 has sold out. **Members' priority booking reopens on 6 October 2026**, and the **next general ticket release is 21 October 2026**, covering visits from 1 January to 31 March 2027. If you want to go and have not booked, mark those two dates — the British Museum's newsletter is the only reliable way to be told when releases open.
 
 If you cannot get in, **Bayeux Around Britain** runs related programmes at more than sixty museums and heritage sites across the country. There is also a curator's talk, *The real world of the Bayeux Tapestry*, online on **25 September, £50**.
 

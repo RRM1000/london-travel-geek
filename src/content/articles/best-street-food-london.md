@@ -61,7 +61,7 @@ London's street food is not one thing, and the difference that actually decides 
 
 ## The comparison
 
-**Days are the column that matters.** Hours shift seasonally and by trader at almost every venue on this page, so treat them as a guide and check before a special trip.
+**Plan by the days column, not the hours.** Hours shift seasonally and by trader at almost every venue on this page, so treat them as a guide and check before a special trip.
 
 | Venue | Area | Type | Traders | Variety | Seating | Days |
 | --- | --- | --- | --- | --- | --- | --- |

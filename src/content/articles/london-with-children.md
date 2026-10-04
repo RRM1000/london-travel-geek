@@ -75,7 +75,7 @@ Britain's first city farm, founded in 1972 on a strip of land beside the Gospel 
 
 *Free · Tuesday to Sunday, 10am–4.30pm · Hoxton Overground*
 
-A farmyard on a small plot off Goldsmiths Row, a few minutes from Broadway Market and backing onto Haggerston Park. Pigs, goats, donkeys, sheep, chickens and rabbits, plus a walled garden and beehives, all on a site you can take in from the gate — which matters with small children, because nothing is far from the exit and nobody gets lost. The café attached is a proper neighbourhood restaurant rather than a farm tea hut, and busy at weekends. **The farmyard is open Tuesday to Sunday, 10am to 4.30pm, and closed on Mondays except bank holidays.** Entry is free. Allow an hour, and less than that in bad weather, because there is very little cover once you are in the yard.
+A farmyard on a small plot off Goldsmiths Row, a few minutes from Broadway Market and backing onto Haggerston Park. Pigs, goats, donkeys, sheep, chickens and rabbits, plus a walled garden and beehives, all on a site you can take in from the gate, so with small children nothing is far from the exit and nobody gets lost. The café attached is a proper neighbourhood restaurant rather than a farm tea hut, and busy at weekends. **The farmyard is open Tuesday to Sunday, 10am to 4.30pm, and closed on Mondays except bank holidays.** Entry is free. Allow an hour, and less than that in bad weather, because there is very little cover once you are in the yard.
 
 ### Spitalfields City Farm
 

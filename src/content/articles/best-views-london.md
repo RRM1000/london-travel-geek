@@ -411,7 +411,7 @@ Being an ordinary public pavement is the point. There is no gate, no dusk closin
 
 The London View Management Framework designates **13 River Prospects**, and **nine of them sit on bridges or footbridges** — Tower, London, Southwark, Millennium, Blackfriars, Waterloo, Golden Jubilee, Westminster and Lambeth. The other four are riverside rather than crossings: the South Bank, Victoria Embankment, Jubilee Gardens and the Albert Embankment.
 
-That matters because the framework specifies not just the bridge but the exact spot on it, the direction to look and what should be visible. All are free, open at all hours, and need no booking.
+The framework specifies not just the bridge but the exact spot on it, the direction to look and what should be visible. All are free, open at all hours, and need no booking.
 
 ### Southwark Bridge
 

@@ -48,7 +48,7 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 **The berth itself is properly private.** Zedwell's are natural oak with a **solid sliding shutter**, not a curtain and not frosted glass, so once it is closed nobody can see in. There is a Hypnos mattress and Egyptian cotton sheets, filtered air, a light you can dim, a socket and a shelf. Leicester Place puts the size at **1.2 sq m** — long enough to lie flat, wide enough to roll over, and nothing else.
 
-**It locks from the inside with a catch** — no padlock needed, and that is the lock that matters while you are asleep. Locking it from the *outside*, for when you go out for the day, is the part people get caught by at Zedwell: you supply the padlock, either your own **38mm** one or **£8 from a vending machine** on site. Otherwander and The GreenHouse work differently, using a smart lock and an access code respectively.
+**It locks from the inside with a catch** — no padlock needed, so you can lock yourself in while you sleep. Locking it from the *outside*, for when you go out for the day, is the part people get caught by at Zedwell: you supply the padlock, either your own **38mm** one or **£8 from a vending machine** on site. Otherwander and The GreenHouse work differently, using a smart lock and an access code respectively.
 
 **Everything else is down the corridor.** Bathrooms are shared floors of individual shower stalls, each with its own changing space, which is a meaningful step up from a hostel's shower block. Zedwell's are rainfall showers with their own toiletries.
 
@@ -137,7 +137,7 @@ Two things worth knowing about these numbers.
 
 The largest capsule hotel in the UK, on five floors of the Grade II London Pavilion — the building that used to hold Ripley's Believe It or Not. **One minute from Piccadilly Circus station**, six from Leicester Square.
 
-It wins on the things that matter here: **cheapest on every date we checked**, the only one with a 24-hour front desk, the only one with a women-only floor, and the only one where you can walk in and speak to a person at 2am. ECOsmart Silver accredited, if that matters to you.
+It wins on four counts: **cheapest on every date we checked**, the only one with a 24-hour front desk, the only one with a women-only floor, and the only one where you can walk in and speak to a person at 2am. It is also ECOsmart Silver accredited.
 
 The trade is atmosphere. Nine hundred and sixty-five berths in one building feels institutional in a way the smaller places do not, and it is the busiest address in London.
 
@@ -165,7 +165,7 @@ It is **not sold on Hotels.com or the other booking sites** — a search of the 
 
 **That mix is the whole point.** Every other capsule property here is somewhere you sleep and leave. This one has **Belushi's bar downstairs** with events most nights, a roof terrace, a kitchen, lockers and a 24-hour desk, plus **Oasis**, a female-only floor with its own bathrooms and keycard. Breakfast is £3.
 
-**The capsule is a room type here, not the building.** Most of the beds are ordinary dorms and private rooms, and on the dates we sampled the only capsule bookable was the **Private Double Capsule**, sleeping two, at £53 to £166. Check-out is **11am**, an hour later than Zedwell, and check-in runs to 2am — but there is no after-hours check-in beyond that, which matters on a late flight.
+**The capsule is a room type here, not the building.** Most of the beds are ordinary dorms and private rooms, and on the dates we sampled the only capsule bookable was the **Private Double Capsule**, sleeping two, at £53 to £166. Check-out is **11am**, an hour later than Zedwell, and check-in runs to 2am — but there is no after-hours check-in beyond that, so check a late flight lands in time.
 
 **Book it if** you want a capsule and a social life, which is a combination nowhere else in London offers.
 

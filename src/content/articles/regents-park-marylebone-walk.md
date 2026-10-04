@@ -77,7 +77,7 @@ For the rest of the area — where to eat, Chiltern Street, where to stay — se
 
 The statue of Holmes stands outside Baker Street station. The museum is two minutes north up Baker Street, signed **221b**.
 
-**Open daily 9.30am–6pm** (last entry 5.30pm, closed Christmas Day). **Adults £19, under-16s £14**, five and under free. Wheeled cases are not allowed in, which matters if you have come straight from a train.
+**Open daily 9.30am–6pm** (last entry 5.30pm, closed Christmas Day). **Adults £19, under-16s £14**, five and under free. Wheeled cases are not allowed in, so leave luggage elsewhere if you have come straight from a train.
 
 The frontage is free, and for most people it is enough. Carry on to the top of Baker Street and into the park through **Clarence Gate**.
 

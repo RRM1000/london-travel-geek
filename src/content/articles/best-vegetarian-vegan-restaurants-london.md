@@ -278,7 +278,7 @@ The signature is **crispy sweet and sour seaweed toast**, and the rest of the me
 
 *££ · Angel · entirely vegan* · Cited by 5 sources
 
-**Plant-based Caribbean from siblings cooking their grandparents' recipes** — and it won a **2025 award judged against Caribbean kitchens generally rather than vegan ones**, which is the detail that matters.
+**Plant-based Caribbean from siblings cooking their grandparents' recipes** — and it won a **2025 award judged against Caribbean kitchens generally rather than vegan ones**.
 
 **Caribbean small plates** are the format: jerk-spiced dishes, dumplings, plantain and curries built on jackfruit and pulses rather than mock meat. The seasoning is the point and it is not moderated.
 

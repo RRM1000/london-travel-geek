@@ -19,7 +19,7 @@ faq:
   - q: "Which direction is better, King's Cross to Camden or Camden to King's Cross?"
     a: "King's Cross to Camden. You start on a wide stone terrace with fountains, get the empty stretch in the middle, and finish at the locks and the market with somewhere to eat and a choice of three stations. Walked the other way it ends at a railway terminus, and the quiet section lands last, when you are ready for lunch rather than reeds."
   - q: "Is Camley Street Natural Park free, and when is it open?"
-    a: "Free, and open every day — but on shorter hours than a park. London Wildlife Trust opens it 10am to 5pm April to September and 10am to 4pm October to March. It has a visitor centre, accessible toilets and the Kingfisher Café, which keeps the same hours. Assistance dogs only, which matters on a towpath walk."
+    a: "Free, and open every day — but on shorter hours than a park. London Wildlife Trust opens it 10am to 5pm April to September and 10am to 4pm October to March. It has a visitor centre, accessible toilets and the Kingfisher Café, which keeps the same hours. Assistance dogs only, so anyone walking a dog will have to skip it."
   - q: "What time does Camden Market open?"
     a: "10am to 7pm, Monday to Sunday, bank holidays included. Hawley Wharf's food halls beside it run 11.30am to 11pm every day, so the market shuts while the food keeps going. On Thursdays the market runs a Night Market with traders open until 9pm. Individual traders set their own hours."
   - q: "Is the King's Cross to Camden canal walk suitable for children or wheelchairs?"
@@ -262,7 +262,7 @@ The walk has a **hard gap in the middle**. Between Camley Street and Camden ther
 
 The towpath itself is **flat and step-free the whole way** — no locks to climb, no tunnels to walk over, and a ramp down to the water behind The Lighterman at the King's Cross end. It never leaves the canal for more than a couple of minutes. The one exception is stop three: inside Camley Street Natural Park the paths are woodchip and there are steep steps at the southern end, though the main path to the pond dipping platform is on an accessible surface.
 
-> ⚠️ **The towpath is shared, and the Trust has a code for it.** *Share the Space, Drop your Pace* — **pedestrians have priority**, cyclists must slow down for others, and e-scooters, motorbikes and modified e-bikes are not allowed at all. Dogs must be under close control and cleaned up after, which matters more here than on a park path: the canal is unfenced, deep and steep-sided for the entire route.
+> ⚠️ **The towpath is shared, and the Trust has a code for it.** *Share the Space, Drop your Pace* — **pedestrians have priority**, cyclists must slow down for others, and e-scooters, motorbikes and modified e-bikes are not allowed at all. Dogs must be under close control and cleaned up after; the canal is unfenced, deep and steep-sided for the entire route.
 
 Walked in reverse it still works, and Camden to King's Cross is the version most Londoners do. It just ends at a station rather than a lunch.
 

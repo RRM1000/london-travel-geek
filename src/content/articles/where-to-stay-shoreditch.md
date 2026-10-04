@@ -102,7 +102,7 @@ The compact-room format on the Shoreditch edge of the City. At £110 it is the o
 
 Rooms vary a lot for one hotel — whitewashed walls, tapestry hangings and pine in some, a wall-filling graphic mural and patchwork quilts in others — with cult DS & Durga toiletries throughout. Time Out described it as staying in the spare room of an impossibly fashionable friend, which is about right.
 
-**This is the former Ace Hotel building**, which matters because the booking sites still file it under the old name. Six bars and restaurants including a rooftop, all open to non-residents — good for the area, less good for quiet.
+**This is the former Ace Hotel building**, and the booking sites still file it under the old name. Six bars and restaurants including a rooftop, all open to non-residents — good for the area, less good for quiet.
 
 ### Redchurch Townhouse — Soho House without the membership
 
@@ -250,7 +250,7 @@ The trade is that it is dull on a Sunday. Aldgate in particular has very little 
 
 The counterintuitive one, and the best value in this guide. **The City empties out at weekends**, so hotels that charge business rates from Monday to Thursday discount hard on Friday and Saturday — the opposite of the pattern everywhere else in London.
 
-**[Locke at Broken Wharf](hotel:locke-at-broken-wharf)** is about £190 midweek and worth checking against a Shoreditch room for the same Saturday. Ten minutes away by bus or twenty on foot, on the river between Blackfriars and the Millennium Bridge, and the rooms are studios with kitchens rather than hotel rooms — which matters more than the price if you are staying several nights.
+**[Locke at Broken Wharf](hotel:locke-at-broken-wharf)** is about £190 midweek and worth checking against a Shoreditch room for the same Saturday. Ten minutes away by bus or twenty on foot, on the river between Blackfriars and the Millennium Bridge, and the rooms are studios with kitchens rather than hotel rooms, so you can cook on a stay of several nights.
 
 <div class="photo-row">
 
@@ -334,7 +334,7 @@ If none of that appeals, the answer is Liverpool Street or Spitalfields — clos
 
 ## Getting in and out
 
-**Liverpool Street** is the one that matters: Elizabeth line, Central, Circle, Hammersmith & City, Metropolitan, and mainline trains to Stansted. Ten minutes on foot from most of Shoreditch.
+**Liverpool Street** is the main station: Elizabeth line, Central, Circle, Hammersmith & City, Metropolitan, and mainline trains to Stansted. Ten minutes on foot from most of Shoreditch.
 
 **Old Street** is the Northern line, and closer to the north end.
 

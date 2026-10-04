@@ -73,7 +73,7 @@ Ranked by how many independent sources name each one. Where a restaurant also ha
 
 **British beef dry-aged and grilled over charcoal**, in rooms that were mostly something else first — a brewery, a bank, a ballroom. Spitalfields was the original and set the template every London steakhouse since has worked from.
 
-The beef is native breed, dry-aged on the bone and cooked over charcoal rather than in a broiler, which is the distinguishing choice. **Porterhouse and rib for two, priced by weight**, and the **bone-marrow gravy** and dripping-cooked chips are the sides that matter. The Sunday roast is among the best in London.
+The beef is native breed, dry-aged on the bone and cooked over charcoal rather than in a broiler, which is the distinguishing choice. **Porterhouse and rib for two, priced by weight**, and the sides to order are the **bone-marrow gravy** and dripping-cooked chips. The Sunday roast is among the best in London.
 
 **££££ and it books weeks ahead.** Several London sites; Spitalfields, Guildhall and Air Street are the ones people name.
 

@@ -77,7 +77,7 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 ![People in winter coats walking past snow-topped wooden food chalets lit up at dusk at Hyde Park Winter Wonderland](../../assets/articles/best-time-to-visit-london/winter-wonderland-food-stalls.jpg)
 *Hyde Park Winter Wonderland at dusk.*
 
-**January** is quiet by every measure that matters: schools are back by **4 January 2027**, there's no half term, and the only bank holiday is New Year's Day itself (**Friday 1 January 2027**). It averages an 8°C high, with the year's second-lowest sunshine total.
+**January** is quiet on every count: schools are back by **4 January 2027**, there's no half term, and the only bank holiday is New Year's Day itself (**Friday 1 January 2027**). It averages an 8°C high, with the year's second-lowest sunshine total.
 
 **February** looks like January's twin on a thermometer (9°C average high) but gets noticeably more daylight and sunshine — 76 hours against January's 59. The one disruption is half term, **15-19 February 2027**, which briefly refills the big family attractions. **Lunar New Year's Day falls on Saturday 6 February 2027**, the start of the Year of the Goat; Chinatown usually marks it with a street celebration around that date.
 

@@ -35,7 +35,7 @@ A free children's meal in London almost always costs you an adult main course at
 
 Everything below was **read off each operator's own website on 3 September 2026**, and where an offer names branches it cannot be used at, those branches are listed.
 
-> 💡 **The Short Version:** **Bella Italia** runs kids eat free Sunday to Thursday all year — but its terms exclude ten of its eleven London restaurants, leaving only Croydon. **Morrisons Café** is the best unconditional deal at seven days a week, though only one of the ten Morrisons nearest Covent Garden has a café. **Prezzo's £1.99-a-month Kids Club** feeds up to three children free on one adult main, which no free offer matches. **IKEA charges 95p** for a kids' meal with no adult purchase at all. And **Premier Inn** feeds two under-16s free at breakfast, which is the one that matters if you are staying the night.
+> 💡 **The Short Version:** **Bella Italia** runs kids eat free Sunday to Thursday all year — but its terms exclude ten of its eleven London restaurants, leaving only Croydon. **Morrisons Café** is the best unconditional deal at seven days a week, though only one of the ten Morrisons nearest Covent Garden has a café. **Prezzo's £1.99-a-month Kids Club** feeds up to three children free on one adult main, which no free offer matches. **IKEA charges 95p** for a kids' meal with no adult purchase at all. And if you are staying the night, **Premier Inn** feeds two under-16s free at breakfast.
 
 > ⚠️ **This page only lists offers that run all year.** Several chains — ASK Italian, Zizzi, TGI Fridays and Toby Carvery among them — run kids-eat-free during school holidays and then withdraw it. Those come and go on a few weeks' notice, so check the operator's own page in the fortnight before each half term rather than trusting any list, including this one.
 
@@ -76,7 +76,7 @@ Three different things get sold under the same headline, and they are not equall
 
 These are the ones worth building a habit around, because they do not vanish the week term restarts.
 
-### Bella Italia — and the exclusion list that matters
+### Bella Italia — and its exclusion list
 
 **Three courses and a drink free, Sunday to Thursday, every week of the year, with one adult main per child.** No voucher, no app: tell the server when you order and remind them at the bill. Dine-in only, and it does not combine with any other offer, set menu, voucher or Tesco Clubcard voucher.
 
@@ -138,7 +138,7 @@ Two Zizzi exclusions apply whichever route you use. The offer "cannot be used in
 
 ## Kids eat free at breakfast
 
-This is the section that matters if you are staying overnight, and it is the best-value part of the whole page.
+If you are staying overnight, start here: this is the best-value part of the whole page.
 
 | Hotel or pub | Offer | Age | Adult price | Serving times |
 | --- | --- | --- | --- | --- |

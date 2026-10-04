@@ -89,7 +89,7 @@ Nothing on this page is here because it is *good value for the money*. That is a
 
 *£ · Seven Dials Market · 3 min from Covent Garden · walk-in*
 
-**Kati rolls the Kolkata way** — and the detail that matters is the bread: a **paratha cooked with egg through it**, so the wrap is layered and slightly custardy rather than a dry tortilla.
+**Kati rolls the Kolkata way**, on a **paratha cooked with egg through it**, so the wrap is layered and slightly custardy rather than a dry tortilla.
 
 That paratha is wrapped round spiced chicken or paneer with **pickled onion and lime**, and eaten standing. It is Kolkata's answer to a kebab and almost nowhere else in London makes it properly.
 
@@ -201,7 +201,7 @@ The long ferment is what makes the difference: the base is light and open rather
 
 *£ · walk-in · late* · Cited by 2 late-night sources
 
-**Enormous New York slices sold until the small hours**, which is the only specification that matters at that time of night.
+**Enormous New York slices sold until the small hours.**
 
 **Slices, not whole pizzas** — a quarter of a twenty-two-inch pie, foldable, cheap, and available when almost nothing else is. The toppings are straightforward and the point is the hour.
 

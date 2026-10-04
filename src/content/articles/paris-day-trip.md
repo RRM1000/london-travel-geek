@@ -71,7 +71,7 @@ Eurostar renamed its travel classes: **Eurostar Standard, Eurostar Plus and Euro
 | **Lounge** | — | — | St Pancras, Paris, Brussels |
 | **Gate** | Standard queue | Standard queue | Priority (London routes) |
 
-For a single day trip, Standard is the one that matters: it can be refunded up to a week out for a £25 fee, and it is free to change right up to an hour before your train, so there is little reason to pay for Plus or Premier unless the lounge or the meal is the point of the trip.
+For a single day trip, book Standard: it can be refunded up to a week out for a £25 fee, and it is free to change right up to an hour before your train, so there is little reason to pay for Plus or Premier unless the lounge or the meal is the point of the trip.
 
 ### Booking ahead is the whole game
 

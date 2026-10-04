@@ -101,7 +101,7 @@ What it does with that is the interesting part. **Binchotan-grilled steak, dry-a
 
 *££ · Stratford · E15 4QZ*
 
-**"Proudly fully Halal"**, on its own homepage, from a restaurant that has been running since **2016** and calls itself Stratford's original British steakhouse. The specific phrase that matters is in its own description of the kitchen: **hand-cut, dry-aged halal prime steaks.**
+**"Proudly fully Halal"**, on its own homepage, from a restaurant that has been running since **2016** and calls itself Stratford's original British steakhouse. Its own description of the kitchen says it outright: **hand-cut, dry-aged halal prime steaks.**
 
 Dry-ageing halal beef is not a trivial thing to organise, and it is the reason this room exists — a proper steakhouse proposition rather than a grill house, with British classics on the menu alongside the steaks. The gap it fills is obvious once you notice it: London has a great many steakhouses and almost none of them are halal, so a Muslim diner who wants a dry-aged sirloin in a white-tablecloth room has had very few options.
 
@@ -165,7 +165,7 @@ Whether that is acceptable is a personal judgement, and readers land in differen
 
 Named by four of the eight lists in this pass, more than almost anything else, which tells you more about how halal round-ups are assembled than about the restaurant.
 
-What the company itself says is narrower and clearer. **Halal pepperoni is available at no extra cost**, it describes the spicy turkey pepperoni it sources as its halal solution, and **all its cheese is halal** — which matters more than people expect, since animal rennet is the quiet problem in Italian cooking. Crucially, **"Halal Options Available" is flagged branch by branch** on its own locations list rather than applied to the company as a whole.
+What the company itself says is narrower and clearer. **Halal pepperoni is available at no extra cost**, it describes the spicy turkey pepperoni it sources as its halal solution, and **all its cheese is halal**, which rules out animal rennet, the quiet problem in Italian cooking. Crucially, **"Halal Options Available" is flagged branch by branch** on its own locations list rather than applied to the company as a whole.
 
 So the correct question is not whether Pizza Pilgrims is halal but whether *your* branch offers it. Check the site for the specific site you are going to. The pizza, for the record, is Neapolitan, fast, and among the better cheap options in the areas it operates.
 
@@ -187,7 +187,7 @@ The single most useful habit for halal dining in London is the one this guide wa
 
 Three patterns are worth carrying with you.
 
-**The register is free and nobody uses it.** HMC publishes 156 certified restaurants in London and not one of them appears in any published best-of list. If independent verification is what matters to you, start there and ignore the magazines entirely.
+**The register is free and nobody uses it.** HMC publishes 156 certified restaurants in London and not one of them appears in any published best-of list. If you want independent verification, start there and ignore the magazines entirely.
 
 **Multi-branch restaurants answer per branch.** Pizza Pilgrims flags it site by site; Berenjak went out of its way to confirm that all its London restaurants are covered, precisely because that is not a given. Never assume a brand answer applies to the branch you are walking into.
 

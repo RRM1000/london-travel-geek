@@ -65,7 +65,7 @@ A **Squad Bundle** buys five Priority tickets at once for a group: £158 on Sund
 
 > ⚠️ **Weekend and both VIP tiers are sold out.** As of 3 October 2026, the only tickets left are single-day Priority and General entry for Friday, Saturday and Sunday, plus the Sunday Squad Bundle.
 
-## Cosplay, weapons and props: the rules that matter
+## Cosplay, weapons and props: the rules
 
 MCM's full costume and prop policy runs to several thousand words; this is what actually changes whether something gets confiscated at the door.
 
@@ -107,7 +107,7 @@ MCM doesn't publish footfall by day, but the ticket sheet is the best clue there
 
 ## Early entry, the queue and getting through the door
 
-Activate your entry badge in the **MCM app** before you travel — it's required for over-18s and unlocks scavenger hunts and exhibitor content once you're inside, but the point that matters on the day is that it's one less thing to do at the door.
+Activate your entry badge in the **MCM app** before you travel — it's required for over-18s and unlocks scavenger hunts and exhibitor content once you're inside, and on the day it's one less thing to do at the door.
 
 ![Crowds filling the concourse under an MCM London Comic Con banner, with signage pointing to the cloakroom, first aid, car parks and toilets](../../assets/articles/mcm-comic-con-london/show-floor-crowds.jpg)
 
@@ -118,7 +118,7 @@ Activate your entry badge in the **MCM app** before you travel — it's required
 - **Re-entry is allowed up to 30 minutes before the show closes each day** — after that, once you're out, you're out.
 - **An accessibility sticker unlocks separate queuing lanes with seating**, for entry, Main Stage panels and the autograph and photo-op lines; request one on your way in.
 
-## Getting to ExCeL: the entrance and station that matter
+## Getting to ExCeL: the right entrance and station
 
 MCM funnels everyone toward the **West Entrance**, whichever side of the building you actually arrive at.
 

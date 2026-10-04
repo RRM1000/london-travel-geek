@@ -109,7 +109,7 @@ The queue that settles arguments. Four separate writers describe it independentl
 
 Traditional family gelato: **pistachio** is the consensus order, with Valrhona chocolate, liquorice, fig and a proper fior di latte behind it.
 
-The detail that matters more than the queue: it is busy **in December**. A summer queue means the weather is good. A December queue means the ice cream is good.
+It is busy **in December** too. A summer queue means the weather is good. A December queue means the ice cream is good.
 
 ![Two cones held over the pavement outside the shop, one pistachio and one a chocolate and cream swirl, with blue café chairs behind](../../assets/articles/best-ice-cream-london/nardulli.jpg)
 

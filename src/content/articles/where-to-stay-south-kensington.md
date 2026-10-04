@@ -86,7 +86,7 @@ Rooms are small for the rate, and the ground floor is a bar and lounge rather th
 
 *£££ · 98 apartments · Ashburn Place, SW7 4LL · Gloucester Road 220m · Breakfast extra*
 
-Ninety-eight serviced apartments in one-, two- and three-bedroom sizes with three five-bedroom penthouses on top, and — the part that matters — **Cheval takes bookings of any length**, where most apartment operators at this address want a week minimum. That makes it the only genuine family option here that is not a hotel room with a folding bed wedged into it.
+Ninety-eight serviced apartments in one-, two- and three-bedroom sizes with three five-bedroom penthouses on top, and **Cheval takes bookings of any length**, where most apartment operators at this address want a week minimum. That makes it the only genuine family option here that is not a hotel room with a folding bed wedged into it.
 
 Every apartment has a full kitchen, a washing machine and a dryer, and most have a balcony. There is a 24-hour reception, a free 24-hour gym, secure underground parking, and a **12-person private cinema on the ground floor that guests book by the slot** — a better wet-afternoon plan than a fourth gallery. Grades run by floor: Superior on 1 to 3, Luxury on 4 to 6, Deluxe on 7 to 10.
 

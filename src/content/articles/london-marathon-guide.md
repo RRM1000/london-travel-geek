@@ -362,7 +362,7 @@ Three more that work:
 
 The **Greenwich Foot Tunnel** runs **one way, south to north, between 10:00 and 12:30**, and it queues.
 
-> 💡 **The boat beats the trains.** Uber Boat by Thames Clippers runs pier to pier between Woolwich and Westminster via Greenwich, Canary Wharf, Rotherhithe, Tower and Embankment. It crosses none of the course, it is nothing like as crowded as the DLR, and the boats have toilets and a café bar — which matters more than you would think, for reasons below.
+> 💡 **The boat beats the trains.** Uber Boat by Thames Clippers runs pier to pier between Woolwich and Westminster via Greenwich, Canary Wharf, Rotherhithe, Tower and Embankment. It crosses none of the course, it is nothing like as crowded as the DLR, and the boats have toilets and a café bar, while the whole route has only five spectator toilets (see below).
 
 Buses on the route are diverted or curtailed, no taxi will take you across the course during the race, and Santander Cycles docking stations along the route are suspended from the Saturday evening.
 

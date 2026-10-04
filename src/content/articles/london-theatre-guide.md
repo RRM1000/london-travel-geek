@@ -33,7 +33,7 @@ heroImageAlt: "The view towards the stage from the stalls of a West End theatre,
 
 Two hundred-odd shows are playing in London on any given night, and that is exactly the problem. Prices run from £10 to £250 for the same evening, and most visitors end up booking whatever they have already heard of, at close to the highest price it sells for.
 
-This guide is about the two decisions that actually matter: **what to see**, and **how to pay less for it**.
+This guide covers two decisions: **what to see**, and **how to pay less for it**.
 
 > 💡 **The Short Version:** Decide what kind of evening you want before you look at prices. Then: **use TKTS, either online or at the Leicester Square booth**, **go midweek and never on a Saturday night**, and **think about where you are sitting** as much as what you are seeing. Day seats, rush tickets and lotteries are worth a try if you like a gamble. Never buy from someone on the street.
 

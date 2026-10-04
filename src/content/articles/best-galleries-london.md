@@ -228,7 +228,7 @@ So the Barbican splits cleanly: **the main Art Gallery is ticketed, everything i
 
 *Free · Peckham Road*
 
-A Victorian gallery on Peckham Road with a **converted fire station opposite** giving it a second building, running genuinely experimental contemporary work — and free, which matters in an area where most of the good art has moved into commercial spaces.
+A Victorian gallery on Peckham Road with a **converted fire station opposite** giving it a second building, running genuinely experimental contemporary work — and free, in an area where most of the good art has moved into commercial spaces.
 
 **Two buildings, one visit**, and they are directly across the road from each other, so check both rather than assuming the main hall is all of it.
 
@@ -372,7 +372,7 @@ The building matters as much as the collection. It is the **old Commonwealth Ins
 
 Headset reconstructions you **walk through rather than watch** — the Colosseum as it stood, and a free-roaming VR piece built from footage shot aboard the actual International Space Station by the Emmy-winning *Space Explorers* series.
 
-**Free-roaming is the distinction that matters.** You are not in a seat with a headset on; you move through a physical space that the VR maps onto, so walking forward in the room walks you forward on the station. That is a different and much rarer thing from a 360-degree film.
+**The VR is free-roaming.** You are not in a seat with a headset on; you move through a physical space that the VR maps onto, so walking forward in the room walks you forward on the station. That is a different and much rarer thing from a 360-degree film.
 
 **The ISS experience runs about 40 minutes at £20.50**, and you should arrive 10 to 15 minutes early for check-in and fitting. **Minimum age 8**, with children accompanied.
 

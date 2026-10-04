@@ -261,7 +261,7 @@ So the honest way to read the table below is: *these pubs are demonstrably good,
 
 Thirteen London pubs in the Top 50. A further ten appear on the extended 51–100 list — The Camberwell Arms (#60), The Parakeet (#61), Anchor & Hope (#64), The Pelican (#65), The Drapers Arms (#67), The Fat Badger (#75), The Eagle (#77), The Lady Mildmay (#83), The Blue Stoops (#88) and Parlour (#91).
 
-**Why that matters:** an extended-list place is often reported as if it were a Top 50 place. #60 and "#60 of the top 50" are not the same claim, and three of the best-known London roast pubs sit on the wrong side of that line.
+An extended-list place is often reported as if it were a Top 50 place. #60 and "#60 of the top 50" are not the same claim, and three of the best-known London roast pubs sit on the wrong side of that line.
 
 ---
 

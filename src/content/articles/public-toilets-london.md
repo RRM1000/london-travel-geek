@@ -29,7 +29,7 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
-Nobody plans a London trip around this until the moment they need one, and then it's the only thing that matters. What follows comes from the Great British Public Toilet Map's own database — the crowdsourced, council-fed dataset that most toilet-finder apps run on — plus the official pages for the parks, boroughs and venues that operate them.
+Nobody plans a London trip around this until the moment they need one. What follows comes from the Great British Public Toilet Map's own database — the crowdsourced, council-fed dataset that most toilet-finder apps run on — plus the official pages for the parks, boroughs and venues that operate them.
 
 > 💡 **The Short Version:** About **85% of London's logged public toilets are free**. The main things that charge are the **Royal Parks (a flat 20p, card only)**, **Trafalgar Square (20p)** and the **Camden markets (up to £1)**. Mainline station toilets and TfL's own Tube station toilets are free. **Community Toilet Scheme** pubs, cafes and libraries let anyone in without buying anything, and every major free museum has toilets open to all visitors.
 

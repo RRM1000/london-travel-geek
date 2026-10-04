@@ -97,7 +97,7 @@ They are aimed squarely at families and they queue like it. If you are walking w
 
 ## 3. Southbank Centre and the Undercroft
 
-The concrete arts complex that everyone has an opinion about. The **Royal Festival Hall is free to walk into**, has free toilets, and its upper levels have seats and a view over the river — the best free indoor sit-down on the walk, which matters more than it sounds in February.
+The concrete arts complex that everyone has an opinion about. The **Royal Festival Hall is free to walk into**, has free toilets, and its upper levels have seats and a view over the river — the best free indoor sit-down on the walk, and somewhere to warm up in February.
 
 Underneath it is the **Undercroft**, London's oldest skate spot, in continuous use since the early 1970s. It was slated for redevelopment in 2013, the skaters organised, and they won — the space is now protected. **Free to watch**, and it is one of the few genuinely unstaged things on a riverfront that is otherwise very managed.
 

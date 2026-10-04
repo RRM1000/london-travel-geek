@@ -63,7 +63,7 @@ Canary Wharf is two minutes from North Greenwich, the first stop on the westboun
 
 </div>
 
-**[Locke London Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites at 1 Cartier Circle, E14 5HF, five minutes' walk from the station, each with a kitchenette, at a mid-range rate. The front desk is open 24 hours and keeps luggage free on your arrival and departure days, which matters here: The O2 admits nothing bigger than an A4 bag. LUQA, its restaurant, serves from morning coffee to evening drinks.
+**[Locke London Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites at 1 Cartier Circle, E14 5HF, five minutes' walk from the station, each with a kitchenette, at a mid-range rate. The front desk is open 24 hours and keeps luggage free on your arrival and departure days, and The O2 admits nothing bigger than an A4 bag. LUQA, its restaurant, serves from morning coffee to evening drinks.
 
 <div class="photo-row">
 

@@ -21,7 +21,7 @@ faq:
   - q: "What is the ruined church in the City of London?"
     a: "St Dunstan-in-the-East, on St Dunstan's Hill between the Monument and the Tower. It was bombed in 1941 and never rebuilt. The City planted a garden inside the shell in the 1960s, so the walls, the tower and the window openings are still standing with climbing plants growing through them. It is free and it is the single best thing on this walk."
   - q: "Where should I eat on a City of London walk?"
-    a: "Leadenhall Market in the middle of the route, where the pubs and restaurants sit under Victorian ironwork, or St Katharine Docks at the end, where the tables face a marina rather than an office block. The distinction that matters is the day: Leadenhall is a weekday trade and much of it shuts at the weekend, while St Katharine Docks is busiest at weekends."
+    a: "Leadenhall Market in the middle of the route, where the pubs and restaurants sit under Victorian ironwork, or St Katharine Docks at the end, where the tables face a marina rather than an office block. Pick by the day: Leadenhall is a weekday trade and much of it shuts at the weekend, while St Katharine Docks is busiest at weekends."
   - q: "How long does the City of London walk take?"
     a: "Two to three hours at a walking pace with short stops, covering roughly 3km from Bank to St Katharine Docks. Add an hour if you go up a viewpoint and most of a morning if you go into the Tower of London, which is a half-day on its own."
 ---

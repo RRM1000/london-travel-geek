@@ -156,7 +156,7 @@ A short run of houses packed tightly in pink, powder blue, pale yellow and cream
 
 The postcard row, and the strongest colours in Notting Hill: a deep raspberry pink next to white, next to a mid blue, next to a green. This is the terrace behind most of the photographs that make people come to Notting Hill in the first place.
 
-It is also the busiest spot on this walk by some distance, and the one where the etiquette below matters most. Expect other people in your photograph and expect to wait for a gap. Ladbroke Grove station is four minutes away, which makes this the natural end of the route.
+It is also the busiest spot on this walk by some distance, and the place to mind the etiquette below. Expect other people in your photograph and expect to wait for a gap. Ladbroke Grove station is four minutes away, which makes this the natural end of the route.
 
 ### 11. St Luke's Mews
 

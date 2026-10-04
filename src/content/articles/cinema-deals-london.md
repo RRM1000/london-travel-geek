@@ -82,7 +82,7 @@ BFI at £4 is the strongest of these — a full repertory programme, no day-of-w
 
 ## The cheapest tickets in London
 
-For anyone paying per film with no membership, these are the numbers that matter.
+For anyone paying per film with no membership, these are the lowest prices.
 
 | Cinema | Price | Conditions |
 | --- | --- | --- |

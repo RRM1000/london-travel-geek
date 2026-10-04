@@ -70,7 +70,7 @@ Two catches. **From Cocoon 4 upwards the beds are doubles in bunks** — a Cocoo
 
 The largest capsule hotel in the UK, on five floors of the Grade II London Pavilion, and a different product from the rooms upstairs despite both being called Cocoons on the booking page. You get a berth lined in oak with a **solid sliding shutter rather than a curtain**, a Hypnos mattress, a light, a socket and a shelf, and no room to stand up.
 
-**It is the price-stable one**, which matters more than the headline. The berth moved 2.1 times between the cheapest and dearest of five sampled dates while the rooms moved three times, so the capsule saves you most in December and least on a quiet Sunday. There is a 24-hour front desk and a female-only floor at about £7 more.
+**It is the price-stable one.** The berth moved 2.1 times between the cheapest and dearest of five sampled dates while the rooms moved three times, so the capsule saves you most in December and least on a quiet Sunday. There is a 24-hour front desk and a female-only floor at about £7 more.
 
 **Zedwell does not give you a padlock.** The shutter latches from inside while you sleep; locking it while you are out means bringing a 38mm padlock or paying £8 at a vending machine. Luggage is **£15 a piece, non-refundable**, and check-out is 10am. Our [capsule hotels guide](/articles/pod-hotels-london/) covers all five in London.
 

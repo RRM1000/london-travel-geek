@@ -161,7 +161,7 @@ Bike racks are in the **south-east corner by the ticket office**; bring a lock.
 
 *Times for Saturday 21 November 2026, England v New Zealand.*
 
-> ⚠️ **There is no night train from Twickenham.** After 00:11 nothing runs until 06:51. The only all-night option is the **Piccadilly line from Hounslow East**, Friday and Saturday only, a 30 to 35 minute walk after the shuttle has stopped. It matters most on **Friday 27 November 2026**, when the second Nations Championship final kicks off at **20:10**.
+> ⚠️ **There is no night train from Twickenham.** After 00:11 nothing runs until 06:51. The only all-night option is the **Piccadilly line from Hounslow East**, Friday and Saturday only, a 30 to 35 minute walk after the shuttle has stopped. It is tightest on **Friday 27 November 2026**, when the second Nations Championship final kicks off at **20:10**.
 
 **Check Sunday trains.** Engineering work hits this line on some Sundays: on 18 October 2026, Twickenham to Waterloo is an hour with a change instead of 25 minutes. See [South Western Railway's engineering calendar](https://www.southwesternrailway.com/plan-my-journey/planned-improvements/planned-engineering-works).
 

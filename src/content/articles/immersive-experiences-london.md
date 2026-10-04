@@ -131,7 +131,7 @@ Teased with no details at all. The only public sign it exists is that VIP ticket
 
 ## The ones where you actually do something
 
-The distinction that matters more than genre. In these, you have a role, and standing at the back is not an option.
+In these, you have a role, and standing at the back is not an option.
 
 ### Arcade Arena, Lambeth
 
@@ -254,7 +254,7 @@ You are the token. Four boards, **52 escape-room-style challenge rooms**, a drin
 
 It is faster and more physical than it sounds — you are on your feet the whole way round, and the rooms are timed, so a slow team loses the board rather than the game.
 
-**9+ enforced**, under-16s need an adult, teams cap at six, and **there are no latecomers** — arrive fifteen minutes early or lose the slot. The venue states lift access to all four boards, but ring ahead if that matters.
+**9+ enforced**, under-16s need an adult, teams cap at six, and **there are no latecomers** — arrive fifteen minutes early or lose the slot. The venue states lift access to all four boards, but ring ahead if you need step-free access.
 
 ### Twist Museum, Oxford Circus
 

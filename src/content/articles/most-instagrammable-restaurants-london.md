@@ -190,7 +190,7 @@ Big Mamma's 1970s Capri pastiche: hand-painted plates, a blossom tree in the mid
 
 **The dish to order is the carbonara**, made in a hollowed pecorino wheel at the table, and the **lemon meringue** for pudding — both are the group's signatures and both are what the room is photographed with.
 
-**It is two different rooms on two floors**, which matters if the photograph is the point. The ground floor is the bright Capri room with the blossom tree; the basement is a darker 1970s room with a mirrored ceiling. Ask for upstairs if you want the room in the pictures.
+**It is two different rooms on two floors**, and only one of them is the room in the photographs. The ground floor is the bright Capri room with the blossom tree; the basement is a darker 1970s room with a mirrored ceiling. Ask for upstairs if you want the room in the pictures.
 
 **Books weeks ahead** like the rest of the group. 54–56 Great Eastern Street, EC2A 3QR, eight minutes from Old Street.
 

@@ -106,7 +106,7 @@ A purpose-built club rather than a room above a pub, founded by the comedian Lee
 
 ![The red Backyard Comedy Club sign above a lit-up brick shopfront in the evening, with posters in the windows](../../assets/articles/best-comedy-clubs-london/backyard-comedy-club-entrance.jpg)
 
-**That is the practical difference.** In a pub room you take what seat you get and hope the person in front is short. Here everyone can see, which matters more than it sounds over a two-hour bill.
+**That is the practical difference.** In a pub room you take what seat you get and hope the person in front is short. Here everyone can see the stage for the whole two-hour bill.
 
 **It is on Resolution Way at E2 0EL**, about five minutes from Bethnal Green station, and the surrounding streets are quiet at night — the club is the destination rather than part of a strip.
 
@@ -206,7 +206,7 @@ Kennington and Oval stations are each about five minutes, and there is nothing e
 
 **Around four pounds** for a bill mixing up-and-coming acts with comedians you will recognise from television — the cheapest good comedy in central London, in the back room of a King's Cross pub.
 
-**The pub is genuinely good in its own right**, which matters when you are arriving early for a seat: open every day noon to 11pm, food until 9.30pm, **pints at £5**, and 10% off food between noon and 4pm on weekdays with 20% for students.
+**The pub is genuinely good in its own right**, so arriving early for a seat is no hardship: open every day noon to 11pm, food until 9.30pm, **pints at £5**, and 10% off food between noon and 4pm on weekdays with 20% for students.
 
 ![The ground-floor bar at The Harrison, with mismatched wooden chairs and a door signed The Harrison Basement Venue](../../assets/articles/best-comedy-clubs-london/the-harrison-kings-cross-room.jpg)
 

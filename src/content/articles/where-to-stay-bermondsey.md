@@ -188,7 +188,7 @@ Twenty minutes from London Bridge by Tube and noticeably cheaper, with the trade
 
 This is the part of the area that people assume and should check.
 
-**London Bridge and Bermondsey both have a Night Tube on Friday and Saturday, and it is the Jubilee line only.** Both stations are step-free from street to train, which matters at 2am with a case.
+**London Bridge and Bermondsey both have a Night Tube on Friday and Saturday, and it is the Jubilee line only.** Both stations are step-free from street to train, so a case is no trouble at 2am.
 
 **The Northern line at London Bridge does not run at night.** The Night Tube's Northern service uses the **Charing Cross branch** — Waterloo, Embankment, Leicester Square, Tottenham Court Road — and skips Bank and London Bridge entirely. Guides that list London Bridge as "Jubilee and Northern, both with night service" are simply wrong, and it is an expensive thing to discover at half past midnight in Camden.
 

@@ -399,7 +399,7 @@ With a Grounds Pass you watch that on the **big screen on The Hill**, by which p
 - **Food outlets and shops wind down**, and if play ends early there may be little left to watch.
 - **On a rain-hit day this backfires** — play may be abandoned before you get in, and tickets bought after 5pm are not eligible for a curtailment refund.
 
-**Getting home.** Last trains from Southfields towards central London run to about **00:56 Monday to Saturday**, so an 11pm finish is comfortable. **Sunday is tighter — the last train is around 00:07**, which matters on middle Sunday and finals day.
+**Getting home.** Last trains from Southfields towards central London run to about **00:56 Monday to Saturday**, so an 11pm finish is comfortable. **Sunday is tighter — the last train is around 00:07**, so watch the time on middle Sunday and finals day.
 
 ### The morning timetable
 

@@ -11554,7 +11554,7 @@ const rows = [
     hood: "Dalston", borough: "Hackney", areaGuide: "",
     priceBand: "£",
     setting: "counter",
-    whyGo: "Enormous New York slices sold until the small hours, which is the only specification that matters at that time of night.",
+    whyGo: "Enormous New York slices sold until the small hours.",
     angle: "value",
     signature: "Pizza by the slice",
     opSummary: "Serves well past midnight at weekends. Slices, not whole pizzas.",

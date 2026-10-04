@@ -134,7 +134,7 @@ Wine bar, shop and importer at once, in brick arches under the viaduct with stai
 
 *Noble Rot.*
 
-Three branches, and they are best understood as **wine-led restaurants rather than wine bars** — which matters, because it changes how you get in. **Bloomsbury and Mayfair both keep dedicated bar spaces that are walk-in only**, so you can drink there without a reservation while the dining room runs on bookings.
+Three branches, and they are best understood as **wine-led restaurants rather than wine bars**: the dining rooms run on bookings. **Bloomsbury and Mayfair both keep dedicated bar spaces that are walk-in only**, so you can drink there without a reservation.
 
 The house line is that there is no room for wine-wankery, and the list is deep without being forbidding.
 

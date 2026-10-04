@@ -14,7 +14,7 @@ faq:
   - q: "Does a free TV ticket guarantee me a seat?"
     a: "No, and this is the single most important thing to understand. Agencies deliberately over-issue tickets to cover no-shows — SRO Audiences states it plainly on its own tickets — so entry is first come, first served on the night. A ticket is a place in a queue, not a seat in a studio."
   - q: "What time should I arrive for a TV recording?"
-    a: "Earlier than the ticket suggests. For a Graham Norton Show recording with 6pm doors, check-in began at 5.15pm and there was no admittance after 6.15pm — but numbered wristbands are issued in arrival order, so the queue that matters forms well before check-in opens. Ninety minutes early is a reasonable target for a popular show."
+    a: "Earlier than the ticket suggests. For a Graham Norton Show recording with 6pm doors, check-in began at 5.15pm and there was no admittance after 6.15pm — but numbered wristbands are issued in arrival order, so the queue forms well before check-in opens. Ninety minutes early is a reasonable target for a popular show."
   - q: "How old do you have to be to be in a TV audience?"
     a: "Usually 18 for public tickets, and it is enforced with photo ID. Some shows set 16 or lower, and family shows are aimed at children, but assume 18 unless the specific show says otherwise. Age limits are set per show, not per agency."
   - q: "Can you take your phone into a TV recording?"

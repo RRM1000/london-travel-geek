@@ -84,7 +84,7 @@ Our full [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) pri
 
 The best walk in London runs past your front door and most of what is on it is free: Tate Modern, the Southbank Centre foyers, the BFI, the covered halls of Borough Market. **Tate Modern stays open until 9pm on Fridays and Saturdays** and costs nothing, five minutes from your bed.
 
-Three stations serve the strip, so wherever along it you end up you are close to a train — Waterloo has the Jubilee and the Northern, Southwark and London Bridge the Jubilee. Borough Market is closed on Mondays, which matters more than it sounds if you were counting on it for food.
+Three stations serve the strip, so wherever along it you end up you are close to a train — Waterloo has the Jubilee and the Northern, Southwark and London Bridge the Jubilee. Borough Market is closed on Mondays, so don't count on it for food that day.
 
 **[citizenM Bankside](hotel:citizenm-bankside)** is about £160 for one room type with a wall-to-wall window and a tablet that runs the blinds — and the rooms are genuinely small, the bed filling the width, which shocks people who have not seen the format.
 

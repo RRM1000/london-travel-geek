@@ -26,7 +26,7 @@ faq:
 
 London has a competitive socialising venue in almost every central postcode, and from the outside they are close to identical: a bar, a game, a booking system and a lighting rig. Darts, shuffleboard, mini golf, axe throwing, karaoke, bowling, fairground games. The websites all say the same things.
 
-The differences that matter are the ones nobody advertises. Whether two people can book on a Friday. Whether the room throws children out at five, six or seven. Whether you get a private game or are paired with strangers. And what an evening actually costs once the bar is counted.
+The differences between them are the ones nobody advertises. Whether two people can book on a Friday. Whether the room throws children out at five, six or seven. Whether you get a private game or are paired with strangers. And what an evening actually costs once the bar is counted.
 
 This is also a category that churns hard. Since this guide was last written, four of the venues on it have shut.
 
@@ -183,7 +183,7 @@ The one that is really a sports bar with games bolted on, and better for it if w
 
 **The cheapest game in this guide at £6 a head**, and now the only Bounce left in London: the Old Street room closed after ten years, and Farringdon closed in June 2026.
 
-It is straightforward ping pong with a bar round it, plus **Ping Pong X** — an AI-enabled, projection-mapped table running five interactive games with self-scoring, from £8 a head. Beer pong runs alongside. **The minimum group size is two**, which matters a great deal given Flight Club's six-person weekend floor.
+It is straightforward ping pong with a bar round it, plus **Ping Pong X** — an AI-enabled, projection-mapped table running five interactive games with self-scoring, from £8 a head. Beer pong runs alongside. **The minimum group size is two**, against Flight Club's six-person weekend floor.
 
 Bottomless brunch is **£30 a head** for 90 minutes of endless pizza with Prosecco or beer and a live DJ, Saturdays and Sundays. Group packages including activity, food and drink start at **£20 a head with a minimum of six**.
 
@@ -333,7 +333,7 @@ This is the section other guides leave out, and it is why people turn up at lock
 This is not a cheap night out, and the pricing is deliberately opaque — most venues charge per lane, per oche or per band rather than publishing a flat per-head figure, and several publish nothing at all until you pick a date.
 
 * **The real spread is £6 to £57.69 a head for the game alone.** Bounce is £6, Rocket Room off-peak is £8, Flight Club and Electric Shuffle are £10, Fairgame Canary Wharf is £15, Swingers is £12 to £16, and THE CUBE is £48.65 to £57.69. That is a factor of nine for ninety minutes of the same basic evening.
-* **Book the earliest slot.** Almost every venue here is materially cheaper before 5pm on a weekday — Electric Shuffle drops from £13 to £10, Rocket Room from £12 to £8, Fairgame City from £25 to £22, Swingers from £16 to £12 — and it is quieter, which matters more than the money in a room built for noise.
+* **Book the earliest slot.** Almost every venue here is materially cheaper before 5pm on a weekday — Electric Shuffle drops from £13 to £10, Rocket Room from £12 to £8, Fairgame City from £25 to £22, Swingers from £16 to £12 — and the rooms, built for noise, are quieter then.
 * **Group rates beat individual rates, sharply.** The Murdér Express falls from £88 a head to £60 if you book as a six. Bloomsbury Lanes charges £45 for a lane of six off-peak, which is £7.50 each. Gravity's MAX3 pass is £28.50 for three activities that would cost £37.49 as karting, bowling and darts bought individually.
 * **The bar is where the cost goes.** Drinks are priced for a captive audience everywhere on this list. One session and then move on is both cheaper and, since the format is designed as a first act rather than a whole evening, more fun.
 * **The free options are real.** King's Cross and Merchant Square both run free table tennis with no booking, and Swingers, Bat & Ball and Boom Battle Bar all let you in for food and drinks with no entry fee if you skip the game.

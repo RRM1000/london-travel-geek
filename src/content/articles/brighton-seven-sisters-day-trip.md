@@ -62,7 +62,7 @@ The two halves don't share a station, which is the part people get wrong. Bright
 
 **Booking ahead is where the saving is**: Advance singles start at £8 one way, the same Advance-versus-walk-up pattern as most UK rail routes. Trains run frequently through the day on both operators, so there's rarely a reason to lock in one specific departure weeks out just to guarantee a seat. Which terminal you use comes down to which side of London you're starting from — the walk from Brighton station down to the seafront takes well under half an hour either way.
 
-**The last train back leaves Brighton around 01:18**, later than most day trips in this series, which matters if you're staying for Brighton's evening rather than racing the Seven Sisters bus timetable. Check the specific time for your date before you commit to a late dinner.
+**The last train back leaves Brighton around 01:18**, later than most day trips in this series, so you can stay for Brighton's evening rather than racing the Seven Sisters bus timetable. Check the specific time for your date before you commit to a late dinner.
 
 ## Getting to the Seven Sisters and Birling Gap
 
