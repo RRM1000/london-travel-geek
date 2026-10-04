@@ -4,6 +4,7 @@
 // same wherever it appears.
 //
 // Row layout matches scripts/listings/export-site.mjs.
+import { ticketmasterUrl } from "./ticketmaster.mjs";
 
 export type Row = [
   date: string, time: string, title: string, cat: number, venue: number,
@@ -61,7 +62,7 @@ export function priceText(r: Row) {
   return `${money(r[5])}–${money(r[6])}`;
 }
 
-type Ctx = { data: Listings; today: string; firstRunDay: string; showDate?: boolean; day?: string };
+type Ctx = { data: Listings; today: string; firstRunDay: string; showDate?: boolean; day?: string; page?: string };
 
 function badges(r: Row, { today, firstRunDay }: Ctx) {
   const b: string[] = [];
@@ -84,8 +85,11 @@ export function itemHtml(r: Row, ctx: Ctx) {
     r[14] && `Presales: ${esc(r[14])}`,
     r[13] && `${esc(r[13][0].toUpperCase() + r[13].slice(1))} performance`,
   ].filter(Boolean).join(" · ");
+  // Ticketmaster links go through the affiliate (src/lib/ticketmaster.mjs), tagged
+  // with the page the list is on; everything else links straight to the seller.
+  const tm = r[10] ? ticketmasterUrl(r[10], ctx.page ?? "whats-on") : undefined;
   const link = (cls: string, text: string, label = "") =>
-    `<a class="${cls}" href="${esc(r[10])}" target="_blank" rel="nofollow noopener"${label ? ` aria-label="${esc(label)}"` : ""}>${esc(text)}</a>`;
+    `<a class="${cls}" href="${esc(tm ?? r[10])}" target="_blank" rel="${tm ? "sponsored nofollow noopener" : "nofollow noopener"}"${tm ? ' data-affiliate="ticketmaster"' : ""}${label ? ` aria-label="${esc(label)}"` : ""}>${esc(text)}</a>`;
   const price = priceText(r);
   return `<li class="wo__item">
       <div class="wo__stub">${stub}</div>

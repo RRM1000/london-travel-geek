@@ -16,6 +16,7 @@
 import fs from "node:fs";
 import { visit } from "unist-util-visit";
 import { awinUrl, skiddleUrl } from "../../scripts/lib/affiliate.mjs";
+import { ticketmasterUrl } from "./ticketmaster.mjs";
 
 const DATA = "src/data/partnerLinks.json";
 const SCHEME = /^partner:([a-z0-9-]+)$/;
@@ -94,6 +95,22 @@ export default function remarkPartnerLinks() {
           rel: "sponsored nofollow noopener",
           "data-affiliate": "awin",
           "data-venue": awin.label,
+          class: "hotel-link",
+        };
+        node.children.push({ type: "html", value: '<span class="hotel-link__ad">ad</span>' });
+        return;
+      }
+      // ticketmaster.co.uk links go through Ticketmaster UK's Impact redirect,
+      // with the article slug as subId2.
+      const tm = isWeb ? ticketmasterUrl(node.url, slugOf(where)) : undefined;
+      if (tm) {
+        node.url = tm;
+        node.data = node.data || {};
+        node.data.hProperties = {
+          ...(node.data.hProperties || {}),
+          target: "_blank",
+          rel: "sponsored nofollow noopener",
+          "data-affiliate": "ticketmaster",
           class: "hotel-link",
         };
         node.children.push({ type: "html", value: '<span class="hotel-link__ad">ad</span>' });

@@ -34,7 +34,7 @@ for (const r of [...listings.rows].sort((a, b) => a[7].localeCompare(b[7]) || a[
   shows.push(entry);
 }
 
-const ctx = { data: listings, today: buildDay, firstRunDay: firstRunDayOf(listings) };
+const ctx = { data: listings, today: buildDay, firstRunDay: firstRunDayOf(listings), page: "whats-on-on-sale" };
 const groups = new Map<string, typeof shows>();
 for (const s of shows) {
   if (!groups.has(s.r[7])) groups.set(s.r[7], []);

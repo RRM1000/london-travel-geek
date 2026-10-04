@@ -15,6 +15,7 @@
 import listingsJson from "../data/listings.json";
 import SectionHeading from "./SectionHeading.astro";
 import { LABEL, addDays, priceText, shortDate, span, upcoming, type Listings, type Placed } from "../lib/whats-on";
+import { ticketmasterUrl } from "../lib/ticketmaster.mjs";
 
 const listings = listingsJson as unknown as Listings;
 const from = addDays(listings.generated, 1);
@@ -77,10 +78,11 @@ const weekday = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString
           const { r, day } = p;
           const [venue, , station] = listings.venues[r[4]];
           const [start, end] = span(r);
+          const tm = ticketmasterUrl(r[10], "home");
           const when = r[9] ? `Until ${shortDate(end)}` : `${weekday(day)} ${shortDate(day)}${r[1] ? `, ${r[1]}` : ""}`;
           return (
             <li hidden={!shown.has(p)} data-group={cat} data-start={start} data-end={end} data-venue={r[4]}>
-              <a class="home-wo__card" href={r[10]} target="_blank" rel="nofollow noopener">
+              <a class="home-wo__card" href={tm ?? r[10]} target="_blank" rel={tm ? "sponsored nofollow noopener" : "nofollow noopener"} data-affiliate={tm ? "ticketmaster" : undefined}>
                 <span class="home-wo__cat" data-cat={cat}>{LABEL[cat] ?? cat}</span>
                 <span class="home-wo__title">{r[2]}</span>
                 <span class="home-wo__when">{when}</span>
