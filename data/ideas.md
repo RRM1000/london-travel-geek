@@ -55,6 +55,8 @@ just delete it.
 
 ## Site improvements
 
+- **Restaurant booking affiliates** (found 2 Oct 2026). Table links in the food guides could earn a little: OpenTable pays roughly $0.25-$1 per seated diner (its own partner programme, applied for directly) and DesignMyNight has an affiliate scheme (terms not published). TheFork has no UK scheme and Quandoo's is closed. Apply to both before building; see the handbook's Affiliates.
+
 - **Extend `audit-entry-depth.mjs` further.** It now covers Food and drink,
   Things to do, London areas and Plan your trip. Getting around London is the
   next candidate, if its guides list places rather than describe processes.

@@ -401,12 +401,29 @@
             "text": "Set up for event tickets, but off until `SKIDDLE_TAG` is added. A Skiddle link is the same Skiddle page with a tag on it, so it costs the reader nothing."
           },
           {
+            "name": "Ticketmaster UK",
+            "text": "Live from 4 Oct 2026 through Impact (1% of online sales). src/lib/ticketmaster.mjs turns every ticketmaster.co.uk link, including theatre. and attractions., into the tracked link with the page as subId2: on What's On, the homepage picks, the area listings and in article prose. In an article, write a plain Ticketmaster link and the build tracks it. Universe (Ticketmaster's other site, used by the Comedy Store and Jazz Cafe) is not covered."
+          },
+          {
             "name": "Clicks we can see",
             "text": "A click on any link tagged `data-affiliate` goes to Google Analytics as `affiliate_click`, with the network, the page section and the venue."
           },
           {
             "name": "Clicks we can't",
             "text": "Clicks inside a GetYourGuide widget happen in GetYourGuide's own frame, so they show only in its partner dashboard."
+          }
+        ]
+      },
+      {
+        "title": "Restaurant bookings",
+        "items": [
+          {
+            "name": "Not set up yet (found 2 Oct 2026)",
+            "text": "Restaurant booking sites do run affiliate schemes, but they pay little. OpenTable pays roughly $0.25 to $1 per diner who turns up, through its own partner programme (applied for directly, accepted case by case). DesignMyNight, a London-heavy restaurant and nightlife booking site, has an affiliate and partnership scheme with unpublished terms. TheFork (Tripadvisor) has no UK scheme found, Tripadvisor's own pays on hotel clicks rather than tables, and Quandoo's UK scheme on Awin is closed. The figures come from directory pages, so check the terms when applying."
+          },
+          {
+            "name": "Where it would fit",
+            "text": "The food and restaurant guides, as a table link beside a named restaurant. At under £1 a booking it is worth more as a reader service than as income: apply to DesignMyNight and OpenTable before building anything."
           }
         ]
       }
