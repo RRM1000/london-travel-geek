@@ -117,35 +117,150 @@ const topicTiles = [
   { label: "Transport", href: "/topics/getting-around-london/", image: tubeHero },
   { label: "SIM & eSIM", href: "/topics/travel-sim-cards/", image: simHero },
 ];
+
+// The hero cross-fades through a few guides, each with its own photo, line and
+// button, so the front page shows what the site covers rather than one view of
+// Westminster. The first slide is the site itself and keeps the h1; the others
+// are hand-written here, because article titles are too long for a hero. Keep
+// the lines free of prices and dates: nobody re-checks a hero.
+// Images, alt text and credits come from each guide's own frontmatter.
+const HERO_GUIDES = [
+  {
+    slug: "best-views-london",
+    title: "London from above, mostly free.",
+    text: "A free City viewpoint higher than The Shard's paid gallery, and a keyhole in Richmond Park aimed at St Paul's ten miles away.",
+    cta: "Find the views",
+  },
+  {
+    slug: "notting-hill-colourful-houses",
+    title: "The pastel houses aren't on Portobello Road.",
+    text: "A walking route through the Notting Hill streets that actually have the colour, and where the cherry blossom is in spring.",
+    cta: "Walk the colourful streets",
+  },
+  {
+    slug: "best-street-food-london",
+    title: "Which food market, on which day.",
+    text: "Every street food market and food hall in London compared, with the days each one actually trades.",
+    cta: "Compare the markets",
+  },
+  {
+    slug: "unusual-restaurants-london",
+    title: "Dinner in a floating pagoda.",
+    text: "A Mongolian yurt, a Victorian lavatory and a former school bike shed: London restaurants where the room is the story.",
+    cta: "See the strange rooms",
+  },
+  {
+    slug: "london-walks-along-the-thames",
+    title: "Walk the Thames.",
+    text: "The South Bank past Tate Modern, Wapping's riverside pubs and the quiet Rotherhithe stretch into Greenwich.",
+    cta: "Pick a river walk",
+  },
+  {
+    slug: "theme-parks-near-london",
+    title: "Thorpe Park, Chessington or LEGOLAND?",
+    text: "The train from London, the cheapest ticket and who each park suits, for every theme park within a day trip.",
+    cta: "Compare the parks",
+  },
+  {
+    slug: "windsor-day-trip",
+    title: "Windsor in a day.",
+    text: "The trains from Paddington and Waterloo, the castle, and the days it is closed.",
+    cta: "Plan the day trip",
+  },
+];
+
+const allGuides = { href: "/guides/", label: "All guides" };
+const heroSlides = [
+  {
+    label: "London",
+    image: londonHero,
+    alt: "The Houses of Parliament, Elizabeth Tower and Westminster Bridge lit by low golden sunlight from across the Thames",
+    // Measured against the source frame: Elizabeth Tower's spire tip is at 7.8%
+    // of the height, and the tower 82-92% across, so it survives a phone crop.
+    position: "88% 8%",
+    eyebrow: activeSite.accentLabel,
+    title: heroTitle,
+    text: "We do the research so you can focus on having fun.",
+    primary: { href: "/guides/", label: "Explore all guides" },
+    secondary: { href: "/articles/london-itineraries-by-days-and-interests/", label: "Plan your trip" },
+    caption: "The Houses of Parliament and Westminster Bridge from the Thames",
+  },
+  ...HERO_GUIDES.flatMap((g) => {
+    const a = articles.find((x) => x.id === g.slug);
+    if (!a?.data.heroImage) return [];
+    const credit = a.data.heroImageCredit
+      ? `Photo: ${a.data.heroImageCredit}${a.data.heroImageLicense ? ` (${a.data.heroImageLicense})` : ""}`
+      : "";
+    return [{
+      label: g.title,
+      image: a.data.heroImage,
+      alt: a.data.heroImageAlt ?? "",
+      position: undefined as string | undefined,
+      eyebrow: a.data.category,
+      title: g.title,
+      text: g.text,
+      primary: { href: `/articles/${a.id}/`, label: g.cta },
+      secondary: allGuides,
+      caption: credit,
+    }];
+  }),
+];
 ---
 
 <BaseLayout>
   <!-- ============================================================ hero -->
-  <section class="hero">
+  <section class="hero" data-hero>
     <div class="hero__bg">
-      <Image
-        src={londonHero}
-        alt="The Houses of Parliament, Elizabeth Tower and Westminster Bridge lit by low golden sunlight from across the Thames"
-        widths={[720, 1080, 1440, 1920, 2560]}
-        sizes="100vw"
-        loading="eager"
-      />
+      {heroSlides.map((slide, i) => (
+        <div class:list={["hero__slide", { "is-active": i === 0 }]}>
+          <Image
+            src={slide.image}
+            alt={i === 0 ? slide.alt : ""}
+            widths={[800, 1200, 1600, 2000, 2560]}
+            sizes="(max-width: 40rem) 800px, (max-width: 64rem) 1200px, 100vw"
+            loading={i === 0 ? "eager" : "lazy"}
+            fetchpriority={i === 0 ? "high" : undefined}
+            style={slide.position ? `object-position: ${slide.position}` : undefined}
+          />
+        </div>
+      ))}
       <div class="hero__overlay" />
     </div>
     <div class="container hero__content">
-      <div class="hero__copy">
-        <p class="eyebrow eyebrow--on-dark">{activeSite.accentLabel}</p>
-        <h1>{heroTitle}</h1>
-        <p class="hero__subtitle">
-          We do the research so you can focus on having fun.
-        </p>
-        <div class="hero__actions">
-          <a class="button" href="/guides/">Explore all guides</a>
-          <a class="button button--ghost-dark" href="/articles/london-itineraries-by-days-and-interests/">Plan your trip</a>
-        </div>
+      <div class="hero__stack">
+        {heroSlides.map((slide, i) => (
+          <div class:list={["hero__copy", { "is-active": i === 0 }]} data-hero-copy>
+            <p class="eyebrow eyebrow--on-dark">{slide.eyebrow}</p>
+            {i === 0 ? <h1>{slide.title}</h1> : <p class="hero__title">{slide.title}</p>}
+            <p class="hero__subtitle">{slide.text}</p>
+            <div class="hero__actions">
+              <a class="button" href={slide.primary.href}>{slide.primary.label}</a>
+              <a class="button button--ghost-dark" href={slide.secondary.href}>{slide.secondary.label}</a>
+            </div>
+          </div>
+        ))}
       </div>
-      <div class="hero__caption">
-        The Houses of Parliament and Westminster Bridge from the Thames
+      <div class="hero__bar">
+        {heroSlides.length > 1 && (
+          <ol class="hero__steps" style={`--steps: ${heroSlides.length}`}>
+            {heroSlides.map((slide, i) => (
+              <li>
+                <button
+                  type="button"
+                  class:list={["hero__step", { "is-active": i === 0 }]}
+                  data-step={i}
+                  aria-label={`Show ${slide.label}`}
+                >
+                  <span class="hero__fill"></span>
+                </button>
+              </li>
+            ))}
+          </ol>
+        )}
+        <p class="hero__caption" data-hero-caption>{heroSlides[0].caption}</p>
+        <template data-hero-captions>
+          {heroSlides.map((slide) => <span>{slide.caption}</span>)}
+        </template>
       </div>
     </div>
   </section>
@@ -374,6 +489,60 @@ const topicTiles = [
   <!-- ==================================================== categories -->
 </BaseLayout>
 
+<script>
+  // The home hero: one guide at a time, photo and text together, with a bar of
+  // one segment per slide. The active segment fills while its slide shows;
+  // clicking a segment jumps to it. Readers who ask for less motion get the
+  // first slide, still, and can step through with the bar.
+  const SHOW_MS = 7000;
+  const hero = document.querySelector<HTMLElement>("[data-hero]");
+  const slides = hero ? [...hero.querySelectorAll<HTMLElement>(".hero__slide")] : [];
+  const copies = hero ? [...hero.querySelectorAll<HTMLElement>("[data-hero-copy]")] : [];
+  const steps = hero ? [...hero.querySelectorAll<HTMLButtonElement>(".hero__step")] : [];
+  const caption = hero?.querySelector<HTMLElement>("[data-hero-caption]");
+  const captions = [...(hero?.querySelector<HTMLTemplateElement>("[data-hero-captions]")?.content.children ?? [])].map(
+    (el) => el.textContent ?? "",
+  );
+  const still = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  let current = 0;
+  let timer: number | undefined;
+
+  function show(n: number) {
+    const prev = slides[current];
+    current = (n + slides.length) % slides.length;
+    const next = slides[current];
+    if (prev !== next) {
+      // The outgoing photo keeps zooming while it fades, then lets go.
+      prev.classList.remove("is-active");
+      prev.classList.add("was-active");
+      setTimeout(() => prev.classList.remove("was-active"), 1500);
+      next.classList.add("is-active");
+    }
+    copies.forEach((copy, i) => copy.classList.toggle("is-active", i === current));
+    steps.forEach((step, i) => {
+      step.classList.toggle("is-done", i < current);
+      step.classList.remove("is-active");
+      step.setAttribute("aria-current", String(i === current));
+    });
+    void steps[current]?.offsetWidth; // restart the fill animation
+    steps[current]?.classList.add("is-active");
+    if (caption) caption.textContent = captions[current] ?? "";
+    schedule();
+  }
+
+  function schedule() {
+    clearTimeout(timer);
+    if (still || slides.length < 2) return;
+    timer = window.setTimeout(() => (document.hidden ? schedule() : show(current + 1)), SHOW_MS);
+  }
+
+  if (slides.length > 1) {
+    document.documentElement.style.setProperty("--hero-show", `${SHOW_MS}ms`);
+    steps.forEach((step) => step.addEventListener("click", () => show(Number(step.dataset.step))));
+    schedule();
+  }
+</script>
+
 <style>
   .section__more {
     margin-block-start: var(--space-4);
@@ -391,11 +560,15 @@ const topicTiles = [
   }
 
   /* -------------------------------------------------------------- hero --- */
+  /* A few guides in turn: each photo fades in and slowly zooms, its line and
+     button change with it, and a bar of one segment per slide runs along the
+     bottom. The script below the markup moves .is-active along. */
   .hero {
     position: relative;
     width: 100%;
     background: var(--chrome);
     color: #ffffff;
+    overflow: hidden;
   }
 
   .hero__bg {
@@ -404,21 +577,31 @@ const topicTiles = [
     z-index: 1;
   }
 
-  .hero__bg :global(img) {
+  .hero__slide {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 1.4s ease;
+  }
+
+  .hero__slide.is-active {
+    opacity: 1;
+  }
+
+  .hero__slide :global(img) {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    /* Both values are measured against the source frame, not guessed.
-       Vertical: Elizabeth Tower's spire tip sits at 7.8% of image height.
-       A wide desktop hero is shallow, so it crops hard vertically - at 45%
-       the crop began around 18% and beheaded the tower. 8% keeps the tip
-       (plus a little sky) in shot across the whole desktop range. The lost
-       foreground water is no loss: the bottom sits under the dark gradient.
-       Horizontal: only bites on narrow screens, where the crop is severe -
-       88% pulls it right so the tower (~82-92% across) survives on a phone.
-       Portrait viewports have no vertical crop at all, so the 8% is
-       desktop-only in effect. */
-    object-position: 88% 8%;
+  }
+
+  .hero__slide.is-active :global(img),
+  .hero__slide.was-active :global(img) {
+    animation: hero-zoom calc(var(--hero-show, 7000ms) + 1500ms) linear forwards;
+  }
+
+  @keyframes hero-zoom {
+    from { transform: scale(1); }
+    to { transform: scale(1.08); }
   }
 
   .hero__overlay {
@@ -437,18 +620,40 @@ const topicTiles = [
   .hero__content {
     position: relative;
     z-index: 3;
-    padding-block: clamp(4.5rem, 11vw, 9rem) clamp(3rem, 6vw, 4.5rem);
+    padding-block: clamp(4.5rem, 11vw, 9rem) var(--space-4);
+  }
+
+  /* Every slide's text sits in the same grid cell, so the hero is as tall as
+     the longest one and nothing jumps when the text changes. */
+  .hero__stack {
+    display: grid;
   }
 
   .hero__copy {
+    grid-area: 1 / 1;
     display: grid;
     gap: var(--space-3);
+    align-content: start;
     max-width: 46rem;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.6s ease, visibility 0s linear 0.6s;
   }
 
-  .hero__copy h1 {
+  .hero__copy.is-active {
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.8s ease 0.4s, visibility 0s;
+  }
+
+  .hero__copy h1,
+  .hero__title {
+    margin: 0;
     color: #ffffff;
-    font-size: clamp(2.9rem, 8vw, 6rem);
+    font-family: var(--display);
+    font-variation-settings: "opsz" 72, "wght" 560;
+    font-size: clamp(2.4rem, 6vw, 4.6rem);
+    letter-spacing: -0.025em;
     line-height: 1.02;
     text-shadow: 0 2px 24px rgb(0 0 0 / 0.35);
   }
@@ -467,11 +672,90 @@ const topicTiles = [
     margin-top: 0.9rem;
   }
 
+  .hero__bar {
+    display: grid;
+    gap: var(--space-2);
+    margin-top: clamp(2.5rem, 6vw, 4rem);
+  }
+
+  .hero__steps {
+    display: grid;
+    grid-template-columns: repeat(var(--steps), minmax(0, 1fr));
+    gap: 6px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .hero__step {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 22px; /* a tap target; the visible line is the ::before */
+    padding: 0;
+    border: 0;
+    background: none;
+    cursor: pointer;
+  }
+
+  .hero__step::before,
+  .hero__fill {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    height: 3px;
+    margin-top: -1.5px;
+    border-radius: 2px;
+  }
+
+  .hero__step::before {
+    right: 0;
+    background: rgb(255 255 255 / 0.3);
+  }
+
+  .hero__step:hover::before {
+    background: rgb(255 255 255 / 0.55);
+  }
+
+  .hero__fill {
+    width: 0;
+    background: #ffffff;
+  }
+
+  .hero__step.is-done .hero__fill {
+    width: 100%;
+  }
+
+  .hero__step.is-active .hero__fill {
+    animation: hero-fill var(--hero-show, 7000ms) linear forwards;
+  }
+
+  .hero__step:focus-visible {
+    outline: 2px solid #ffffff;
+    outline-offset: 2px;
+  }
+
+  @keyframes hero-fill {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
   .hero__caption {
-    margin-top: clamp(2.5rem, 6vw, 4.5rem);
-    color: rgb(255 255 255 / 0.55);
+    min-height: 1.1em;
+    margin: 0;
+    color: rgb(255 255 255 / 0.6);
     font-size: 0.75rem;
     letter-spacing: 0.04em;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .hero__slide,
+    .hero__copy,
+    .hero__copy.is-active { transition: none; }
+    .hero__slide.is-active :global(img),
+    .hero__slide.was-active :global(img) { animation: none; }
+    .hero__step.is-active .hero__fill { animation: none; width: 100%; }
   }
 
   /* ------------------------------------------------------- topic tiles --- */
