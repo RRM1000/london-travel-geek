@@ -94,6 +94,14 @@ const articles = defineCollection({
           message: `${length} characters, and Google cuts titles after about ${SEO_TITLE_MAX}. Shorten it: "${shown}"`,
         });
       }
+      // Rob, 4 October 2026: the updated date is never before the published one.
+      if (data.updatedAt && data.updatedAt < data.publishedAt) {
+        ctx.addIssue({
+          code: "custom",
+          path: ["updatedAt"],
+          message: `updatedAt is before publishedAt. Set it to the day of the last real edit, on or after publishedAt.`,
+        });
+      }
     }),
 });
 
