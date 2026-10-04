@@ -4,6 +4,7 @@
   "updated": "2026-10-04",
   "inProgress": [],
   "nextUp": [
+    "Overused-phrase rewrite (Rob said do it later, 4 Oct 2026): ban genuinely (359), worth knowing (160), honestly (133), properly (140), \"is the point/draw/reason\" (212), \"is the thing\" (77), \"the catch\" (63), \"is the single biggest\" (57), \"decides it\" (22); thin \"rather than\" (1,870) and \"which makes it / which is why\" (250). Add the banned ones to the wording check.",
     "Rerun node scripts/index-coverage.mjs around 6 October to see how many of the 45 unindexed guides the sitemap has fixed.",
     "More GetYourGuide day trips with no guide yet: Warwick Castle and Stratford-upon-Avon, Blenheim Palace.",
     "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
