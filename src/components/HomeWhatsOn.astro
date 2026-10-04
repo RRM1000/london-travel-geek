@@ -2,22 +2,30 @@
 // "On in London this week" on the homepage: six picks from the What's On
 // listings, one per category, so the week ahead reads as gig, comedy, play,
 // concert, exhibition and something for children rather than twenty dates at
-// one venue. Built from src/data/listings.json, so the twice-weekly refresh and
-// rebuild rolls it forward.
+// one venue. Built from src/data/listings.json.
 //
-// The picks start tomorrow, not today: the site is built early in the morning
-// and read all day, and a pick from this morning's list could be over by the
-// time someone sees it.
+// The picks start tomorrow, not today: a pick from this morning's list could be
+// over by the time someone sees it.
+//
+// The listings refresh twice a week, so a build-time week goes stale: a page
+// built from Thursday's list still showed Saturday's picks on Sunday. So each
+// category also ships spare picks for the days after, hidden, and the script at
+// the bottom re-chooses against the reader's real date, as the What's On page
+// does. Without JavaScript the build-time picks show.
 import listingsJson from "../data/listings.json";
 import SectionHeading from "./SectionHeading.astro";
-import { LABEL, addDays, priceText, shortDate, upcoming, type Listings } from "../lib/whats-on";
+import { LABEL, addDays, priceText, shortDate, span, upcoming, type Listings, type Placed } from "../lib/whats-on";
 
 const listings = listingsJson as unknown as Listings;
 const from = addDays(listings.generated, 1);
 const to = addDays(listings.generated, 7);
 const week = upcoming(listings.rows, from, to);
+// Spares reach 12 days past the refresh: the longest gap between refreshes is
+// four days (Thursday to Monday), plus the week, plus slack for a missed run.
+const ahead = upcoming(listings.rows, from, addDays(listings.generated, 12));
 
 const ORDER = ["music", "comedy", "theatre", "classical", "exhibition", "family", "club night", "dance", "opera", "talk"];
+const SPARES = 8;
 const picks: typeof week = [];
 const usedVenues = new Set<number>();
 const usedDays = new Set<string>();
@@ -25,21 +33,32 @@ const usedDays = new Set<string>();
 // shows keep their daytime slots), and spread across the week rather than six
 // picks on the same Thursday.
 const evening = (time: string) => !time || time >= "17:00";
+// A pick has a price, a link and seats left.
+const pickable = (p: Placed, c: number) => p.r[3] === c && p.r[5] !== null && p.r[10] && p.r[8] !== 2 && !p.r[7];
+const groups: { cat: string; cards: Placed[] }[] = [];
 for (const cat of ORDER) {
-  if (picks.length >= 6) break;
   const c = listings.cats.indexOf(cat);
-  // A pick has a price, a link and seats left, and no two share a venue.
-  const ok = week.filter(({ r }) => r[3] === c && r[5] !== null && r[10] && r[8] !== 2 && !r[7] && !usedVenues.has(r[4]));
   const daytimeFine = cat === "exhibition" || cat === "family";
-  const hit =
+  // No two picks share a venue.
+  const ok = week.filter((p) => pickable(p, c) && !usedVenues.has(p.r[4]));
+  const hit = picks.length >= 6 ? undefined :
     ok.find(({ r, day }) => (daytimeFine || evening(r[1])) && !usedDays.has(day)) ??
     ok.find(({ r }) => daytimeFine || evening(r[1])) ??
     ok[0];
-  if (!hit) continue;
-  usedVenues.add(hit.r[4]);
-  usedDays.add(hit.day);
-  picks.push(hit);
+  if (hit) {
+    usedVenues.add(hit.r[4]);
+    usedDays.add(hit.day);
+    picks.push(hit);
+  }
+  // Spares: one per day, evening starts where the category has any.
+  const all = ahead.filter((p) => pickable(p, c));
+  const preferred = all.filter(({ r }) => daytimeFine || evening(r[1]));
+  const seen = new Set<string>();
+  const spares = (preferred.length ? preferred : all).filter(({ day }) => !seen.has(day) && seen.add(day)).slice(0, SPARES);
+  const cards = hit ? [hit, ...spares.filter((p) => p !== hit)] : spares;
+  if (cards.length) groups.push({ cat, cards });
 }
+const shown = new Set(picks);
 
 const onSale = new Set(listings.rows.filter((r) => r[7] && r[7] >= listings.generated).map((r) => `${r[4]}|${r[2]}`)).size;
 const weekday = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-GB", { weekday: "short", timeZone: "UTC" });
@@ -54,12 +73,13 @@ const weekday = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString
         description="One pick from each kind of night out in the week ahead. Everything else is on the What's On page, updated twice a week."
       />
       <ul class="home-wo__grid">
-        {picks.map(({ r, day }) => {
+        {groups.flatMap(({ cat, cards }) => cards.map((p) => {
+          const { r, day } = p;
           const [venue, , station] = listings.venues[r[4]];
-          const cat = listings.cats[r[3]];
-          const when = r[9] ? `Until ${shortDate(r[9].split(" to ")[1])}` : `${weekday(day)} ${shortDate(day)}${r[1] ? `, ${r[1]}` : ""}`;
+          const [start, end] = span(r);
+          const when = r[9] ? `Until ${shortDate(end)}` : `${weekday(day)} ${shortDate(day)}${r[1] ? `, ${r[1]}` : ""}`;
           return (
-            <li>
+            <li hidden={!shown.has(p)} data-group={cat} data-start={start} data-end={end} data-venue={r[4]}>
               <a class="home-wo__card" href={r[10]} target="_blank" rel="nofollow noopener">
                 <span class="home-wo__cat" data-cat={cat}>{LABEL[cat] ?? cat}</span>
                 <span class="home-wo__title">{r[2]}</span>
@@ -72,7 +92,7 @@ const weekday = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString
               </a>
             </li>
           );
-        })}
+        }))}
       </ul>
       <p class="home-wo__more">
         <a href="/whats-on/">Everything on in London<span aria-hidden="true"> →</span></a>
@@ -81,6 +101,38 @@ const weekday = (iso: string) => new Date(`${iso}T12:00:00Z`).toLocaleDateString
     </div>
   </section>
 )}
+
+<script>
+  // Re-choose the picks for the reader's real date (see the note at the top).
+  import { addDays, londonDay } from "../lib/whats-on";
+
+  const grid = document.querySelector<HTMLElement>(".home-wo__grid");
+  if (grid) {
+    const tomorrow = addDays(londonDay(new Date()), 1);
+    const last = addDays(tomorrow, 6);
+    const usedVenues = new Set<string>();
+    const usedDays = new Set<string>();
+    const byGroup = new Map<string, HTMLElement[]>();
+    for (const li of grid.querySelectorAll<HTMLElement>("li[data-group]")) {
+      const g = li.dataset.group!;
+      if (!byGroup.has(g)) byGroup.set(g, []);
+      byGroup.get(g)!.push(li);
+    }
+    const day = (li: HTMLElement) => (li.dataset.start! < tomorrow ? tomorrow : li.dataset.start!);
+    let count = 0;
+    for (const cards of byGroup.values()) {
+      const ok = count >= 6 ? [] : cards.filter((li) => li.dataset.end! >= tomorrow && li.dataset.start! <= last && !usedVenues.has(li.dataset.venue!));
+      const hit = ok.find((li) => !usedDays.has(day(li))) ?? ok[0];
+      for (const li of cards) li.hidden = li !== hit;
+      if (hit) {
+        usedVenues.add(hit.dataset.venue!);
+        usedDays.add(day(hit));
+        count++;
+      }
+    }
+    if (count < 3) grid.closest<HTMLElement>(".home-wo")!.hidden = true;
+  }
+</script>
 
 <style>
   .home-wo__grid {
