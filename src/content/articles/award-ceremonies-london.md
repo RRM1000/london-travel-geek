@@ -63,13 +63,13 @@ These are the events with a route for the public, in calendar order from October
 | Festival of Remembrance | Nov | Royal Albert Hall | Royal British Legion members' ballot | – | Members only, maximum two tickets. Tickets go to the public only if members do not use the ballot |
 | Lord Mayor's Show | Sat 14 Nov 2026 | City of London, from Mansion House | Stand on the route | Free; programme £5, cash only | Sets off at 11am. Almost the whole City is closed to traffic |
 | Royal Variety Performance | Fri 20 Nov 2026 | Royal Albert Hall | Public sale, through the charity's store only | From £75; with aftershow party from £310 | Sold out in every seat category. Photo ID matched to the buyer, black tie, seated by 7pm |
-| Fashion Awards | Mon 30 Nov 2026 | Royal Albert Hall | General admission on Ticketmaster | From £30 | Red-carpet access comes only with a hospitality package, by email |
+| Fashion Awards | Mon 30 Nov 2026 | Royal Albert Hall | General admission on [Ticketmaster](https://www.ticketmaster.co.uk/the-fashion-awards-2026-london-30-11-2026/event/1F00647AABAF5B9F) | From £30 | Red-carpet access comes only with a hospitality package, by email |
 | [EE BAFTA Film Awards](/articles/bafta-red-carpet/) | Feb 2027 | Royal Festival Hall in 2026 | Free fan-pen places by application through Applause Store | Free | Fan pens only, not the ceremony. Age 12 and over, under 18s with an adult |
 | WhatsOnStage Awards | Sun 28 Feb 2027, 6.30pm | London Palladium | Tickets on public sale through LW Theatres | Seats priced on the LW Theatres page; Headliner Lounge £80 a person | Under 4s not admitted; 15 and under need an adult |
 | [Olivier Awards](/articles/olivier-awards-tickets/) | Apr 2027 (2026: Sun 12 Apr) | Royal Albert Hall | Free green-carpet fan pens through Applause Store | Free | Pens are outside, with no shelter and no chairs. Age 5 and over |
 | [BAFTA Television Awards](/articles/bafta-red-carpet/) | May 2027 (2026: Sun 10 May) | Royal Festival Hall in 2026 | Free fan-pen places through Applause Store | Free | Fan pens only, not the ceremony |
 | [Last Night of the Proms](/articles/last-night-of-the-proms-tickets/) | Sep 2027 (2026: Sat 12 Sep) | Royal Albert Hall | Open ballot, five-concert ballot, leftover sale, Day Promming | Ballot £165.20 and £101.96; Day Prom £8 (2026 prices) | Two tickets a booker. Day Prom tickets go on sale at 9.30am on the day |
-| [National Television Awards](/articles/national-television-awards-tickets/) | Wed 8 Sep 2027 | The O2 | Tickets on public sale through AXS and Ticketmaster | £25 to £105; red-carpet packages £150 and £270 | Every price carries a booking fee and a venue facility fee |
+| [National Television Awards](/articles/national-television-awards-tickets/) | Wed 8 Sep 2027 | The O2 | Tickets on public sale through AXS and [Ticketmaster](https://www.ticketmaster.co.uk/national-television-awards-2027-london-08-09-2027/event/35006521445D08BE) | £25 to £105; red-carpet packages £150 and £270 | Every price carries a booking fee and a venue facility fee |
 | Royal Film Performance | Sep (2026: Tue 22 Sep) | Central London | Tickets through Eventbrite | From £150 plus fees (2026) | Black tie, no photography inside, all sales final. The 2027 film is not announced |
 | [TV and radio studio audiences](/articles/free-tv-show-tickets-london/) | Through the year | Studios across London | Free tickets from audience agencies | Free | Over-issued on purpose, so a ticket is not a seat |
 
@@ -125,7 +125,7 @@ Several of the free ways in run through one agency, **Applause Store**, which is
 
 ### The Fashion Awards
 
-**Monday 30 November 2026, Royal Albert Hall.** General admission starts at **£30** on Ticketmaster, linked from the [Fashion Awards tickets page](https://www.fashionawards.com/tickets), and gets you into the ceremony.
+**Monday 30 November 2026, Royal Albert Hall.** General admission starts at **£30** on [Ticketmaster](https://www.ticketmaster.co.uk/the-fashion-awards-2026-london-30-11-2026/event/1F00647AABAF5B9F), linked from the [Fashion Awards tickets page](https://www.fashionawards.com/tickets), and gets you into the ceremony.
 
 **The red carpet is the catch.** The British Fashion Council sells red-carpet access only with its hospitality packages, which are tables, club and boxes, by email to fashionawards@britishfashioncouncil.com.
 

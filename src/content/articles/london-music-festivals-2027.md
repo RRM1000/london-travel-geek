@@ -3,6 +3,7 @@ title: "London Music Festivals 2027: Dates, Line-ups and Getting There"
 seoTitle: "London Music Festivals 2027: Dates, Line-ups, Tickets"
 description: "London's music festivals for 2027, from Brockwell Park to Hyde Park and Victoria Park, and the ones a train ride away: the dates already set, when the rest ran in 2026, who headlined, what tickets cost, the age rules and how to get home."
 publishedAt: 2026-06-12
+updatedAt: 2026-10-04
 reviewBy: 2027-01-31
 sites: [london]
 canonicalSite: london
@@ -61,7 +62,7 @@ In rough date order through the year.
 
 ### Country to Country, The O2
 
-**Friday 12 – Sunday 14 March 2027.** [C2C: Country to Country](https://c2cfestival.co.uk/) is three days of country music at The O2, running the same weekend in Glasgow and, for the first time in 2027, Manchester. It ran 13 to 15 March in 2026. Tickets for 2027 go on general sale in the autumn of 2026. Our [O2 travel guide](/articles/the-o2-travel-guide/) covers getting there and back.
+**Friday 12 – Sunday 14 March 2027.** [C2C: Country to Country](https://c2cfestival.co.uk/) is three days of country music at The O2, running the same weekend in Glasgow and, for the first time in 2027, Manchester. It ran 13 to 15 March in 2026. Tickets for 2027 went on general sale on 2 October 2026. Our [O2 travel guide](/articles/the-o2-travel-guide/) covers getting there and back.
 
 ### Field Day, Brockwell Park
 

@@ -422,7 +422,7 @@ It runs **Monday, Wednesday, Friday and Saturday, 11pm to 3.30am**, on bottle se
 
 **The only proper circus that plays a West End theatre**, which is the whole reason it is here rather than in a field.
 
-More than thirty international acrobats, aerialists and stunt performers do the Globe of Death on motorcycles, aerial work, hand-balancing, knife throwing and comedy — theatre-seated, so everyone can see, which is not true of a big top. The Garrick run is **21 to 31 October 2026, tickets from £15**, running **1 hour 45 minutes including one interval.** That is a short, cheap, genuinely spectacular night out and it sells accordingly.
+More than thirty international acrobats, aerialists and stunt performers do the Globe of Death on motorcycles, aerial work, hand-balancing, knife throwing and comedy — theatre-seated, so everyone can see, which is not true of a big top. The Garrick run is **21 to 31 October 2026, tickets from £15**, running **1 hour 45 minutes including one interval.** That is a short, cheap, genuinely spectacular night out and it sells accordingly. Book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1J7JN-cirque-berserk/).
 
 ![A rider in full leathers and helmet on a motorcycle in front of the steel mesh sphere of the Globe of Death, one arm raised, backlit through stage haze](../../assets/articles/best-cabaret-london/cirque-berserk-globe.jpg)
 
@@ -472,7 +472,7 @@ The Playhouse has been reconfigured in the round, with the audience seated as pa
 
 **A dance and variety show in a 180-seat theatre inside a 24-hour casino**, which is a stranger proposition than the marketing suggests and worth understanding before you book.
 
-The show has returned to its home in the Hippodrome's own theatre, and performance times are more frequent than most: **Wednesday 7pm; Thursday and Friday 7pm and 10pm; Saturday 4pm, 7pm and 10pm; Sunday 4pm and 7pm.** Tickets are **from £42** through official theatre channels — third-party agents quote from £62 for the same seats, so **book through the Hippodrome or an official theatre agent** rather than the first result you find.
+The show has returned to its home in the Hippodrome's own theatre, and performance times are more frequent than most: **Wednesday 7pm; Thursday and Friday 7pm and 10pm; Saturday 4pm, 7pm and 10pm; Sunday 4pm and 7pm.** Tickets are **from £42** through official theatre channels — third-party agents quote from £62 for the same seats, so **book through the Hippodrome or an official theatre agent** rather than the first result you find. Book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1FHAC-magic-mike-live-bp-9/).
 
 ### Three more that listings still get wrong
 

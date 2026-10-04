@@ -256,7 +256,7 @@ The New York club's **first UK venue**, in the basement beneath the St Martins L
 
 **Robert Glasper** played the sold-out opening sets, with Erykah Badu, Jamie Cullum, Nubya Garcia, Yussef Dayes, KOKOROKO and Hak Baker announced behind him.
 
-The address is **42–49 St Martin's Lane, WC2N 4EJ**.
+The address is **42–49 St Martin's Lane, WC2N 4EJ**. Book on [Ticketmaster](https://www.ticketmaster.co.uk/blue-note-london-tickets-london/venue/289099), which issues the club's tickets.
 
 The two-sets-a-night format is the thing to understand: the 7pm show is the civilised one and the 9.30 is where it loosens up.
 

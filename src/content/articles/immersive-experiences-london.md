@@ -207,7 +207,7 @@ The show that follows is circus crossed with musical theatre: a new story inspir
 
 *From £65.50 · about 2 hours · Russell Square*
 
-Basil, Sybil and Manuel serve you a three-course dinner in a Bloomsbury hotel, and **roughly 70% of it is improvised.** In its thirteenth year at this venue, which for immersive dining is close to geological.
+Basil, Sybil and Manuel serve you a three-course dinner in a Bloomsbury hotel, and **roughly 70% of it is improvised.** In its thirteenth year at this venue, which for immersive dining is close to geological. Book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1GLTR-faulty-towers-the-dining-experience-in-londons-west-end-2024/).
 
 **You are a hotel guest rather than an audience**, so being spoken to, argued with and roped in is not a risk — it is the product. There is genuinely no back row.
 

@@ -265,7 +265,7 @@ The Globe's open-air season closes in the same week half term begins: **Much Ado
 
 *The Cherry Orchard, at the Harold Pinter Theatre. Artwork: Sonia Friedman Productions.*
 
-At the London Coliseum, English National Opera stages **Angel's Bone** from **16 October** and **Tosca** from **30 October**. **Cirque Berserk!** takes the Garrick for half term from **21 October**, and **Ceilidh** opens at Shoreditch Town Hall on **22 October**. The cheapest opening of the month is **The Bridge** at the Bush from **28 October**, from £13.
+At the London Coliseum, English National Opera stages **Angel's Bone** from **16 October** and **Tosca** from **30 October**. **Cirque Berserk!** takes the Garrick for half term from **21 October** (book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1J7JN-cirque-berserk/)), and **Ceilidh** opens at Shoreditch Town Hall on **22 October**. The cheapest opening of the month is **The Bridge** at the Bush from **28 October**, from £13.
 
 One naming note still worth carrying: the **Duke of York's Theatre is now the Tom Stoppard Theatre**, and you will see both names in circulation for a while yet.
 
@@ -281,7 +281,7 @@ Billed by its operator, Wake The Tiger, as Europe's largest immersive art experi
 
 ### Larger Than Life: Starring Wallace & Gromit, Shaun and More — Lightroom, King's Cross, from 14 October
 
-A new Aardman show on Lightroom's walls, booking now to **4 January 2027**. It runs about 50 minutes on a loop, in half-hour entry slots; adults from **£25**, students and under-18s from **£15**. Both this and Absurd City are in our [immersive experiences guide](/articles/immersive-experiences-london/).
+A new Aardman show on Lightroom's walls, booking now to **4 January 2027**. It runs about 50 minutes on a loop, in half-hour entry slots; adults from **£25**, students and under-18s from **£15**. Book on [Ticketmaster](https://attractions.ticketmaster.co.uk/book/1JAP4-TICKETMASTER/). Both this and Absurd City are in our [immersive experiences guide](/articles/immersive-experiences-london/).
 
 ### Blue Note London's first full month
 

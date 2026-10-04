@@ -61,7 +61,7 @@ faq:
 
 ### Potted Panto, Apollo Theatre
 
-**6 December 2026 – 3 January 2027.** Seven classic pantomimes in 70 minutes, from the Olivier-nominated Potted Panto team. Also sold by [London Box Office](https://www.londonboxoffice.co.uk/potted-panto-tickets).
+**6 December 2026 – 3 January 2027.** Seven classic pantomimes in 70 minutes, from the Olivier-nominated Potted Panto team. Also sold by [London Box Office](https://www.londonboxoffice.co.uk/potted-panto-tickets) and [Ticketmaster](https://www.ticketmaster.co.uk/potted-panto-tickets/artist/2290917).
 
 ### Goldilocks and the Three Bears, Tower Theatre
 

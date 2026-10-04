@@ -343,7 +343,7 @@ A cast, a script and dinner as part of the plot. Several of these want you to jo
 
 *££ · Bloomsbury · President Hotel, 56–60 Guilford Street, WC1N · Cited by 2 sources · [its site](https://www.interactivetheatre.com.au/faulty-towers-the-dining-experience/)*
 
-Basil, Sybil and Manuel serve you a three-course set menu in a Bloomsbury hotel over two hours, in a show now in its thirteenth year here. You are a hotel guest, not an audience, so you will be spoken to and roped in. Prices rise through the week: **from £65.50 on a Wednesday to £88.50 on a Saturday evening**, dinner included and drinks extra. Nut allergies must be flagged 72 hours ahead, and the show contains a peanut gag. [Our immersive guide](/articles/immersive-experiences-london/) has more on how much it asks of you.
+Basil, Sybil and Manuel serve you a three-course set menu in a Bloomsbury hotel over two hours, in a show now in its thirteenth year here. You are a hotel guest, not an audience, so you will be spoken to and roped in. Prices rise through the week: **from £65.50 on a Wednesday to £88.50 on a Saturday evening**, dinner included and drinks extra. Nut allergies must be flagged 72 hours ahead, and the show contains a peanut gag. Book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1GLTR-faulty-towers-the-dining-experience-in-londons-west-end-2024/). [Our immersive guide](/articles/immersive-experiences-london/) has more on how much it asks of you.
 
 ![Manuel, in a white waiter's jacket, walks between diners at numbered tables in a hotel function room, with Sybil and Basil behind](../../assets/articles/dinner-and-a-show-london/faulty-towers.jpg)
 

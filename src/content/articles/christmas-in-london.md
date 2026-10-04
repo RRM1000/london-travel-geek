@@ -149,7 +149,7 @@ Panto is not the only thing on, and two of the best tickets in London at Christm
 ![Rows of lit lanterns hanging on chains in the dark, the staging used for A Christmas Carol at the Old Vic](../../assets/articles/christmas-in-london/a-christmas-carol-old-vic.jpg)
 *The Old Vic's staging, in the round.*
 
-It is warmer and less reverent than the book suggests — handbells, carols sung by the cast, and a Scrooge redeemed by the room rather than in spite of it. **Two hours with an interval, and the recommended age is eight and over**, which makes it the rare Christmas show that suits a mixed-age group without anyone being talked down to.
+It is warmer and less reverent than the book suggests — handbells, carols sung by the cast, and a Scrooge redeemed by the room rather than in spite of it. **Two hours with an interval, and the recommended age is eight and over**, which makes it the rare Christmas show that suits a mixed-age group without anyone being talked down to. Book on [Ticketmaster](https://www.ticketmaster.co.uk/a-christmas-carol-tickets/artist/890378).
 
 ### Christmas Carol Goes Wrong, Wyndham's Theatre
 
@@ -189,11 +189,11 @@ The shows below are the ones built for children rather than tolerated by them, a
 
 **21 November 2026 – 3 January 2027, from £18** plus a £4 transaction fee. **1 hour 30 including a 20-minute interval.**
 
-It has run for 32 years and **in 2026 it is a new production** — a world premiere staged by Sadler's Wells with Birmingham Rep, with new puppets and Howard Blake's score still intact, 'Walking in the Air' included. If you saw the old one, this is not that. The safest first theatre trip in London at Christmas, and the shortest.
+It has run for 32 years and **in 2026 it is a new production** — a world premiere staged by Sadler's Wells with Birmingham Rep, with new puppets and Howard Blake's score still intact, 'Walking in the Air' included. If you saw the old one, this is not that. The safest first theatre trip in London at Christmas, and the shortest. Book on [Ticketmaster](https://www.ticketmaster.co.uk/the-snowman-tickets/artist/1408779).
 
 ### Nutcracker, English National Ballet, London Coliseum
 
-**17 December 2026 – 10 January 2027.** Over a hundred dancers and musicians, with the ENB Philharmonic playing Tchaikovsky live — which is the argument for this one over a recording in a smaller room.
+**17 December 2026 – 10 January 2027.** Over a hundred dancers and musicians, with the ENB Philharmonic playing Tchaikovsky live — which is the argument for this one over a recording in a smaller room. Book on [Ticketmaster](https://www.ticketmaster.co.uk/the-nutcracker-english-national-ballet-tickets/artist/1632757).
 
 ![English National Ballet artwork for Nutcracker: a dancer in white mid-turn among oversized sweets, boiled sweets and candy canes on a pale blue ground](../../assets/articles/christmas-in-london/nutcracker-english-national-ballet.jpg)
 
