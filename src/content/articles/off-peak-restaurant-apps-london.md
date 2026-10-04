@@ -1,6 +1,6 @@
 ---
 title: "Off-Peak Restaurant Apps in London: First Table, EatClub and the Rest"
-seoTitle: "First Table vs EatClub London: 50% Off, and the Catch"
+seoTitle: "First Table vs EatClub London: 50% Off and the Rules"
 description: "First Table takes 50% off food at 936 London restaurants for a £6 fee; EatClub takes 25–40% off the whole bill at 1,069 but cannot hold you a table. Both bury the same line: the service charge is worked out before your discount."
 publishedAt: 2026-09-04
 updatedAt: 2026-09-25

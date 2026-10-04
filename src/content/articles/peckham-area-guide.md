@@ -17,7 +17,7 @@ draft: false
 area:
   name: "Peckham"
   zone: "2"
-  vibe: "Loud, young and genuinely mixed, with the best rooftop drinking in London"
+  vibe: "Loud, young and mixed, with the best rooftop drinking in London"
   walkability: 4
   timeNeeded: "An afternoon into the evening"
   budget: "££"

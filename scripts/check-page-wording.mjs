@@ -38,6 +38,15 @@ const EVERYWHERE = [
   // links are not caught; named-source analysis in consensus guides is fine.
   [/(?<!\b(?:two|three|the|how) )\b(?:other|most|many|older|rival|every other|no other|plenty of|a lot of) (?:guides?|guidebooks?|lists|listings|blogs|blog posts|articles)\b|\b(?:nobody|no one) tells you\b|\bwhat (?:nobody|no one) (?:tells|mentions|says)\b|\bguides? (?:still|get (?:this|it) wrong|leave (?:this |it )?out|never mention|forget|bury|blur|merge)\b|\bwhatever (?:the |most |older |some |other )?(?:guides?|guidebooks|listings|lists) (?:say|says|imply|tell)\b/i, "other-guides comparison"],
 ];
+// Article prose only: the card notes come from the Google Sheet, which is
+// cleaned separately (re-run the Sheet writers before switching this on there).
+const ARTICLE_ONLY = [
+  // Rob, 4 October 2026: the site's verbal tics, cut from every page the same day.
+  // Say the thing plainly: "It has one of only four Palladian bridges", not "The
+  // draw is…"; "VAT is extra", not "The catch is VAT". Literal uses ("the menu
+  // changes with the catch", "the draw closes at 1pm") are not caught.
+  [/\bgenuinely\b|\bworth knowing\b|\bhonestly\b|\bthe catch(?: is| here|:)|\bdone properly\b|\bis the (?:whole )?point\b|\bis the reason to (?:come|go|visit|book)\b|\bthe real draw\b|\bdecides it\b|\bis the single (?:best|most|biggest|cheapest|easiest)\b/i, "overused phrase"],
+];
 // Card notes are short and have no reason to hedge at all.
 const DATA_ONLY = [
   [/\bunconfirmed\b|\bunverified\b|\bwhen checked\b|\bat last check\b|human confirmation|\bcurl\b/i, "working note"],
@@ -94,7 +103,7 @@ for (const file of fs.readdirSync(articles).filter((f) => f.endsWith(".md"))) {
   const lines = fs.readFileSync(path.join(articles, file), "utf8").split(/\r?\n/);
   lines.forEach((line, i) => {
     if (/^\s*<div data-gyg|^!\[/.test(line)) return;
-    for (const [re, why] of EVERYWHERE) {
+    for (const [re, why] of [...EVERYWHERE, ...ARTICLE_ONLY]) {
       const m = re.exec(line);
       if (m) { hits.push(`${file}:${i + 1}  ${why}: "${line.slice(Math.max(0, m.index - 50), m.index + 70).trim()}"`); break; }
     }
