@@ -13,11 +13,11 @@ tags: [where to stay, hotels, Soho, West End, planning]
 draft: false
 faq:
   - q: "Is it worth staying in Soho or the West End?"
-    a: "It is worth it if your trip is theatre, restaurants and late nights, because you can walk home from all three. It is poor value if you are doing the museums, the parks and Westminster, and it is the wrong choice if you want a quiet room. Worth knowing before you book that a lot of what Soho sells cheaply is windowless, and that the quieter, more conventional rooms are five minutes north in Fitzrovia or east in Covent Garden."
+    a: "It is worth it if your trip is theatre, restaurants and late nights, because you can walk home from all three. It is poor value if you are doing the museums, the parks and Westminster, and it is the wrong choice if you want a quiet room. A lot of what Soho sells cheaply is windowless, and the quieter, more conventional rooms are five minutes north in Fitzrovia or east in Covent Garden."
   - q: "Why is Soho short of ordinary mid-priced hotels?"
     a: "Because the buildings will not allow it. Soho's plots are small, its leases are expensive and almost everything at street level is worth more as a bar or a restaurant than as a hotel lobby. What fits is either a very small luxury hotel of fifty to a hundred rooms, or a windowless format that packs hundreds of rooms into a space with no external walls to spare. The ordinary double with a window tends to be five minutes out — Fitzrovia to the north, Covent Garden to the east — where the buildings are bigger and the ground floors are worth less."
   - q: "Are the windowless Zedwell rooms in Soho actually any good?"
-    a: "They are a real hotel room with your own door and an en-suite rainfall shower, at 7 sq m for one person, and reviewers split hard on them. What is easy to miss before booking: the rooms are cleaned every four days rather than daily, there is no kettle, no television and no breakfast, and a hairdryer or iron delivered to the room costs £10. Book one night before you book four."
+    a: "They are a real hotel room with your own door and an en-suite rainfall shower, at 7 sq m for one person, and reviewers split hard on them. What is easy to miss before booking: the rooms are cleaned every four days, not daily, there is no kettle, no television and no breakfast, and a hairdryer or iron delivered to the room costs £10. Book one night before you book four."
   - q: "Where is the cheapest place to stay in the West End?"
     a: "A capsule at Zedwell Capsule Piccadilly Circus, which ran £33 to £68 a night across five sampled dates, one minute from the Tube. For a private room, Zedwell Tottenham Court Road started at £81 and undercut the Piccadilly flagship on every date we checked. For a room with a window, the Z Hotel Covent Garden publishes £100 for a Z Double, against £80 for the same room without one."
   - q: "Is Soho noisy at night?"
@@ -30,7 +30,7 @@ Soho is not built for hotels, and that shapes what you can book there.
 
 The plots are small, the leases are expensive, and a ground floor is worth more as a restaurant than as a hotel lobby. So the two formats that fit are the small luxury hotel of fifty to a hundred rooms, and the windowless format that stacks hundreds of rooms into a building with no external walls to spare. If you want an ordinary double with a window, look at Fitzrovia five minutes north or Covent Garden to the east, where the buildings allow it.
 
-The windowless part is the surprise, and it is the reason the West End is cheaper than its reputation. A private room one minute from Piccadilly Circus starts at £97 and a capsule berth at £33, which is Zone 3 money for a Zone 1 address. What you give up is daylight, and people react to that far more strongly than they expect.
+The windowless part is the surprise, and it is why the West End is cheaper than its reputation. A private room one minute from Piccadilly Circus starts at £97 and a capsule berth at £33, which is Zone 3 money for a Zone 1 address. What you give up is daylight, and people react to that far more strongly than they expect.
 
 > 💡 **The Short Version:** **[Zedwell Piccadilly Circus](hotel:zedwell-piccadilly-circus)** is the value answer at **£97 to £287** for a private room, if you can sleep without a window. **[Zedwell Capsule](hotel:zedwell-piccadilly-capsule)** next door is £33 for a berth. **[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** publishes the cheapest room in the West End that has a window: **£100, against £80 for the same room without one**. **[Broadwick Soho](hotel:broadwick-soho)** at about £450 is the best of the expensive ones and was named the UK's best hotel by Muddy Stilettos. And if you want an ordinary room at an ordinary price, **Fitzrovia** is the answer: **[The Grafton Arms](hotel:the-grafton-arms)** is about £150, five minutes from Soho Square.
 
@@ -46,7 +46,7 @@ The windowless part is the surprise, and it is the reason the West End is cheape
 
 **Fitzrovia**, north of Oxford Street, is where to look for a conventional room. Charlotte Street has the densest run of restaurants in central London, it is a five-minute walk to Soho Square, and the buildings are big enough to hold ordinary hotels with ordinary windows.
 
-**There is no station called the West End**, and the one you want is **Tottenham Court Road**: Elizabeth line, Central and Northern, Heathrow without a change. Covent Garden station is the trap. It runs on lifts and a spiral staircase rather than escalators, and at a weekend Leicester Square, four minutes' walk away, will be quicker in both directions.
+**There is no station called the West End**, and the one you want is **Tottenham Court Road**: Elizabeth line, Central and Northern, Heathrow without a change. Covent Garden station is the trap. It runs on lifts and a spiral staircase, not escalators, and at a weekend Leicester Square, four minutes' walk away, will be quicker in both directions.
 
 ## The hotels
 
@@ -54,7 +54,7 @@ The windowless part is the surprise, and it is the reason the West End is cheape
 
 *£97–£287 a Cocoon 1 · Windowless · London Pavilion, W1J 0DA · Piccadilly Circus 1 min · [check prices](hotel:zedwell-piccadilly-circus)*
 
-Nearly a thousand soundproofed rooms above Piccadilly Circus, sold by how many people they sleep rather than by grade: **Cocoon 1 up to Cocoon 12**. The smallest is 7 sq m, with a bed on a lit oak plinth, hooks instead of a wardrobe and an en-suite walk-in rainfall shower. Hypnos mattress, purified air, total blackout because there is nothing to black out.
+Nearly a thousand soundproofed rooms above Piccadilly Circus, sold by how many people they sleep, not by grade: **Cocoon 1 up to Cocoon 12**. The smallest is 7 sq m, with a bed on a lit oak plinth, hooks instead of a wardrobe and an en-suite walk-in rainfall shower. Hypnos mattress, purified air, total blackout because there is nothing to black out.
 
 **The pricing works backwards.** A Cocoon 1 ran £97 to £287 across five sampled dates, which is ordinary central London money. But **the second person adds about £4 or £5**, whatever the room costs, so two people halve the per-head price and it keeps falling as the room grows.
 
@@ -82,7 +82,7 @@ The largest capsule hotel in the UK, on five floors of the Grade II London Pavil
 
 *£62–£119 a single nest, £98–£165 a double · 563 pods over six floors · 91–92 Dean Street, W1D 3SY · Tottenham Court Road 3 min · [check prices](hotel:otherwander-soho)*
 
-Sold as **"nests"**, upper and lower, in singles and doubles, and the double genuinely sleeps two, which nothing else in this format offers. Each pod has its own air conditioning, lighting and socket, and the fit-out is a clear step above the Zedwell berth. The location is the sell: you walk out onto Dean Street, a few steps from the Elizabeth line entrance.
+Sold as **"nests"**, upper and lower, in singles and doubles, and the double sleeps two, which nothing else in this format offers. Each pod has its own air conditioning, lighting and socket, and the fit-out is a clear step above the Zedwell berth. The location is the sell: you walk out onto Dean Street, a few steps from the Elizabeth line entrance.
 
 **There is no front desk at all.** You register online, a smart-lock code arrives by email in the 24 hours before you travel, and a virtual desk handles anything else. That is fine when it works and a genuine problem at midnight when it does not.
 
@@ -106,7 +106,7 @@ A hundred and thirteen compact rooms on Bedford Street, three minutes from both 
 
 **The window costs £20, and that is the whole decision.** A Z Inside Single is 8 sq m at £70 with **no window at all**; an Inside Double is 9 sq m at £80; a Z Double is the same 9 sq m at £100 and has one. A Z Queen is 11 sq m at £105, and a Z Family is 12 sq m sleeping four at £155.
 
-**The catch is that people book the Inside grades by accident**, because the booking page does not lead with the missing window. It is the same trap as the Shoreditch branch. Pay the £20 unless you genuinely do not mind, and note that Z runs eleven more London hotels — City, Gloucester Place, Holborn, Leicester Square, Piccadilly, Shoreditch, Soho, Strand, Tottenham Court Road, Trafalgar and Victoria — so compare a few on your own dates before you settle.
+**People book the Inside grades by accident**, because the booking page does not lead with the missing window. It is the same trap as the Shoreditch branch. Pay the £20 unless you do not mind, and note that Z runs eleven more London hotels — City, Gloucester Place, Holborn, Leicester Square, Piccadilly, Shoreditch, Soho, Strand, Tottenham Court Road, Trafalgar and Victoria — so compare a few on your own dates before you settle.
 
 <div class="photo-row">
 
@@ -124,9 +124,9 @@ A hundred and thirteen compact rooms on Bedford Street, three minutes from both 
 
 Open since 1909 and running to nearly eight hundred rooms between Covent Garden and the river. **Its scale is the entire point**: when the small hotels are full and the Zedwells have gone to £287, this one still has rooms, and it does not reprice as violently because it has too many to sell.
 
-The grades are published by size and worth reading before you book, because the bottom of the range is small: **Classic Single 11 sq m, Classic Double 13 sq m**, then Superior Queen at 16, Superior King and Twin at 18, and Deluxe Studio King at 21. Two people with cases should be booking a Superior rather than a Classic Double.
+The grades are published by size and worth reading before you book, because the bottom of the range is small: **Classic Single 11 sq m, Classic Double 13 sq m**, then Superior Queen at 16, Superior King and Twin at 18, and Deluxe Studio King at 21. Two people with cases should be booking a Superior, not a Classic Double.
 
-There is a complimentary gym, sixteen meeting rooms, and Haxells restaurant and bar downstairs doing pre-theatre dinner, which is the reason to be on the Strand in the first place — the theatres are a five-minute walk. The original 1930s art deco entrance now sits in the V&A's collection.
+There is a complimentary gym, sixteen meeting rooms, and Haxells restaurant and bar downstairs doing pre-theatre dinner, which is a good reason to be on the Strand in the first place — the theatres are a five-minute walk. The original 1930s art deco entrance now sits in the V&A's collection.
 
 ![A guest room at the Strand Palace, with a dark upholstered headboard, a mirrored panel above it and two tan leather armchairs by the window](../../assets/articles/where-to-stay-soho-west-end/strand-palace-room.jpg)
 
@@ -136,7 +136,7 @@ There is a complimentary gym, sixteen meeting rooms, and Haxells restaurant and 
 
 *About £450 · 57 rooms · 20 Broadwick Street, W1F 8HT · [check prices](hotel:broadwick-soho)*
 
-Leopard print, velvet and deliberately clashing colour by Martin Brudnizki, built by a group of friends rather than a hotel group, and **named the best hotel in the United Kingdom in the Muddy Stilettos national awards** — beating country-house finalists in Bath, Hampshire, Wiltshire and Kent, which is not the field a Soho townhouse is supposed to win.
+Leopard print, velvet and deliberately clashing colour by Martin Brudnizki, built by a group of friends, not a hotel group, and **named the best hotel in the United Kingdom in the Muddy Stilettos national awards** — beating country-house finalists in Bath, Hampshire, Wiltshire and Kent, which is not the field a Soho townhouse is supposed to win.
 
 Eight grades run from Standard to the Penthouse, by way of Deluxe, Superior, Luxury, Junior Suite, Broadwick Suite and Family Suite. Rooms have queen beds, Frette linen and an in-room Nespresso machine, and there is a packing and unpacking service if that is your sort of thing.
 
@@ -160,7 +160,7 @@ Firmdale's Soho flagship, and the only hotel here **built from the ground up** r
 
 Two Michelin Keys in 2025, the joint highest score in this guide. Downstairs there is Ham Yard Restaurant, Ham Yard Bar and The Orangery; upstairs a roof terrace; below, **The Croc, a genuine 1950s American bowling alley** installed in the basement. There is a gym and the Soholistic Spa.
 
-**The bowling alley and the roof terrace can be booked without a room**, which is the sensible way to see the place for a fraction of the £500 a night the rooms want. The trade for the courtyard is footfall: it is a public square rather than a private garden, and the restaurant, bar and Orangery all take non-residents, so the ground floor is busy with people who are not staying.
+**The bowling alley and the roof terrace can be booked without a room**, which is the sensible way to see the place for a fraction of the £500 a night the rooms want. The trade for the courtyard is footfall: it is a public square, not a private garden, and the restaurant, bar and Orangery all take non-residents, so the ground floor is busy with people who are not staying.
 
 ### The Soho Hotel — the quiet one, hidden down a mews
 
@@ -210,7 +210,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 *A bedroom at Sanderson London.*
 
-**[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 for fifty-two Firmdale rooms with one Michelin Key and a private screening room, standing **on Charlotte Street itself**, which means dinner is downstairs rather than across town. The full picture is in our [Fitzrovia area guide](/articles/fitzrovia-area-guide/).
+**[Charlotte Street Hotel](hotel:charlotte-street-hotel)** is about £400 for fifty-two Firmdale rooms with one Michelin Key and a private screening room, standing **on Charlotte Street itself**, which means dinner is downstairs, not across town. The full picture is in our [Fitzrovia area guide](/articles/fitzrovia-area-guide/).
 
 ![A bedroom at Charlotte Street Hotel, with star-patterned blue walls following a sloped attic ceiling and an ornate patterned headboard](../../assets/articles/where-to-stay-soho-west-end/charlotte-street-hotel-room.jpg)
 
@@ -230,7 +230,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 *A Cocoon room at Zedwell Tottenham Court Road.*
 
-**[Generator London](hotel:generator-london)** is about £26 a bed at 37 Tavistock Place, with dorms of four, six, eight and larger, female-only dorms, private rooms, shared bathrooms on every floor and a 24-hour reception. **It is a party hostel and says so**, with a bar running live music, sport and karaoke nights — the right choice if meeting people is the point of the trip and the wrong one before an early flight.
+**[Generator London](hotel:generator-london)** is about £26 a bed at 37 Tavistock Place, with dorms of four, six, eight and larger, female-only dorms, private rooms, shared bathrooms on every floor and a 24-hour reception. **It is a party hostel and says so**, with a bar running live music, sport and karaoke nights — the right choice if you want to meet people and the wrong one before an early flight.
 
 <div class="photo-row">
 
@@ -244,13 +244,13 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 ### Mayfair — a W1K postcode at Zedwell money
 
-**[Zedwell Park Lane](hotel:zedwell-park-lane)** is the oddest value in London: **£90 to £207** for a Mayfair address, seven minutes from Marble Arch and ten from Hyde Park Corner. The prices are for a Cocoon 2 sleeping two; a **Cocoon 4 sleeps four**, and there is no single rate. It is entirely underground like the Bloomsbury site. It is also the newest and least reviewed of the Zedwells, which is the honest reason to hesitate rather than the price.
+**[Zedwell Park Lane](hotel:zedwell-park-lane)** is the oddest value in London: **£90 to £207** for a Mayfair address, seven minutes from Marble Arch and ten from Hyde Park Corner. The prices are for a Cocoon 2 sleeping two; a **Cocoon 4 sleeps four**, and there is no single rate. It is entirely underground like the Bloomsbury site. It is also the newest and least reviewed of the Zedwells, which is a better reason to hesitate than the price.
 
 ![A Cocoon room at Zedwell Park Lane, with the bed on a backlit wood plinth, a shearling coat on the hook and trainers on the platform](../../assets/articles/where-to-stay-soho-west-end/zedwell-park-lane-room.jpg)
 
 *A Cocoon room at Zedwell Park Lane.*
 
-**[Native Mayfair](hotel:native-mayfair)** is the other approach: studios and apartments with **fully fitted kitchens** — fridge, freezer, dishwasher and a dining table — on a mews off Grosvenor Square, under ten minutes from Bond Street and its Elizabeth line platforms. Native files it under apartments for longer stays rather than under its aparthotels, so expect it to reward a week more than two nights. Our [aparthotels guide](/articles/aparthotels-london/) compares it with the rest.
+**[Native Mayfair](hotel:native-mayfair)** is the other approach: studios and apartments with **fully fitted kitchens** — fridge, freezer, dishwasher and a dining table — on a mews off Grosvenor Square, under ten minutes from Bond Street and its Elizabeth line platforms. Native files it under apartments for longer stays, not under its aparthotels, so expect it to reward a week more than two nights. Our [aparthotels guide](/articles/aparthotels-london/) compares it with the rest.
 
 ![The bathroom at Native Mayfair, with a freestanding bathtub, a wood bath caddy and a walk-in glass shower alongside](../../assets/articles/where-to-stay-soho-west-end/native-mayfair-bathroom.jpg)
 
@@ -258,7 +258,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 ### Marylebone — the calm one, ten minutes out
 
-**[Treehouse Hotel London](hotel:treehouse-hotel-london)** is about £250 at 14–15 Langham Place, next door to BBC Broadcasting House. It occupies the **top floors of the building**, so every room has a panorama rather than a light well, and the rooms come with magic 8 balls, cuckoo clocks and Paddington Bears without tipping into gimmick. Green Key Gold certified, and Time Out gave it five out of five. The Nest rooftop bar and Madera, its Mexican restaurant, are both open to non-residents. Oxford Circus is four minutes' walk, which puts Soho ten minutes away and Marylebone High Street five in the other direction.
+**[Treehouse Hotel London](hotel:treehouse-hotel-london)** is about £250 at 14–15 Langham Place, next door to BBC Broadcasting House. It occupies the **top floors of the building**, so every room has a panorama, not a light well, and the rooms come with magic 8 balls, cuckoo clocks and Paddington Bears without tipping into gimmick. Green Key Gold certified, and Time Out gave it five out of five. The Nest rooftop bar and Madera, its Mexican restaurant, are both open to non-residents. Oxford Circus is four minutes' walk, which puts Soho ten minutes away and Marylebone High Street five in the other direction.
 
 <div class="photo-row">
 
@@ -280,17 +280,17 @@ Both areas are loud and they are loud in different shapes, which changes what yo
 
 **Soho is loud on a schedule, seven days a week.** Theatre crowds come out around ten and want dinner. Restaurants turn out after midnight. Then the deliveries and the street cleaning start before six, because a district this dense has to be resupplied every single morning and there is no other window in which to do it. The streets are narrow and the buildings are tall, so sound bounces rather than dissipating.
 
-Three things that genuinely help:
+Three things that help:
 
 **Book off the named streets.** Wardour, Dean, Frith, Greek and Old Compton are the noisy ones. Richmond Mews, Ham Yard and Broadwick Street are all a degree quieter, and Regent Street is a wide road with heavy glazing.
 
 **Ask for a high floor at booking**, by name, not at check-in. Above the fourth floor the pavement stops being the problem.
 
-**Consider the windowless format on its merits rather than as a compromise.** A sealed room with purified air and no external wall is the quietest bed in Soho, by a distance, and that is a genuine reason to choose one rather than an apology for it.
+**Consider the windowless format on its merits rather than as a compromise.** A sealed room with purified air and no external wall is the quietest bed in Soho, by a distance, and that is a genuine reason to choose one, not an apology for it.
 
 ## What you are staying for
 
-If theatre is the reason you picked the West End, our [London theatre guide](/articles/london-theatre-guide/) covers day seats, returns and which houses are worth the balcony. For the area itself, the [Soho guide](/articles/soho-area-guide/) covers Chinatown, Carnaby Street and how the place changes after dark, and the [Covent Garden guide](/articles/covent-garden-area-guide/) covers the piazza, Seven Dials and where to eat before a curtain-up.
+If you picked the West End for the theatre, our [London theatre guide](/articles/london-theatre-guide/) covers day seats, returns and which houses are worth the balcony. For the area itself, the [Soho guide](/articles/soho-area-guide/) covers Chinatown, Carnaby Street and how the place changes after dark, and the [Covent Garden guide](/articles/covent-garden-area-guide/) covers the piazza, Seven Dials and where to eat before a curtain-up.
 
 ## Getting in and out
 

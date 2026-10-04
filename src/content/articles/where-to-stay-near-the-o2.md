@@ -35,7 +35,7 @@ The O2 has one station, North Greenwich, on one Tube line, the Jubilee. So the u
 
 ## The bases compared
 
-| Base | On the train | Door to door | The catch |
+| Base | On the train | Door to door | Watch out for |
 | --- | --- | --- | --- |
 | **Canning Town** | Jubilee, 2 min | 17–18 min | Budget chains beside a road interchange |
 | **Canary Wharf** | Jubilee, 2 min | 18–22 min | Hotels fill Monday to Thursday with business guests |
@@ -151,7 +151,7 @@ There is no train between Greenwich and North Greenwich. The **188** and **129**
 
 </div>
 
-**[Zedwell Greenwich](hotel:zedwell-greenwich)** is **£66 to £145** for a Cocoon 2, a soundproofed room with its own bathroom and no window. A Cocoon 4 starts at **£117**, with two double beds as a bunk, so it suits two couples rather than a family of four. A 188 stop is three minutes' walk from its SE8 3FB address, and the ride back from The O2 is about 22 minutes. Early check-in costs £25.
+**[Zedwell Greenwich](hotel:zedwell-greenwich)** is **£66 to £145** for a Cocoon 2, a soundproofed room with its own bathroom and no window. A Cocoon 4 starts at **£117**, with two double beds as a bunk, so it suits two couples, not a family of four. A 188 stop is three minutes' walk from its SE8 3FB address, and the ride back from The O2 is about 22 minutes. Early check-in costs £25.
 
 <div class="photo-row">
 

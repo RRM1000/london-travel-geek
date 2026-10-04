@@ -28,7 +28,7 @@ faq:
   - q: "What is the bag policy at London Stadium?"
     a: "No bag bigger than A4. The stadium runs a 100% search policy on the way in, and there are no left luggage facilities on site at all, so plan not to be carrying one rather than hoping to check it somewhere."
   - q: "Is London Stadium only used for West Ham matches?"
-    a: "No — that's the point of it. It hosts an annual one-day athletics meet each summer (the Novuna London Athletics Meet ran on 18 July 2026), and stadium tours run on non-event days. As of September 2026 no concerts are on sale for the rest of the year, but Fontaines D.C. are booked in for 2027, so treat it as a multi-purpose venue rather than a football ground that occasionally does something else."
+    a: "No — that's the point of it. It hosts an annual one-day athletics meet each summer (the Novuna London Athletics Meet ran on 18 July 2026), and stadium tours run on non-event days. As of September 2026 no concerts are on sale for the rest of the year, but Fontaines D.C. are booked in for 2027, so treat it as a multi-purpose venue, not a football ground that occasionally does something else."
   - q: "Is there step-free access to London Stadium?"
     a: "Yes, extensively. There are 261 wheelchair-accessible viewing spaces across the four stands, step-free routes and lifts at all the approach stations, an accessible shuttle bus between Stratford, Stratford International and the stadium for registered users, and 41 Disabled Supporter Assistants plus 27 Supporter Liaison Officers on duty on a matchday. West Ham's accessibility team is on 0333 030 0174."
   - q: "Can you drink alcohol at London Stadium?"
@@ -39,7 +39,7 @@ faq:
     a: "The Gold Top car park on the south Loop Road at Bridge 3 has 55 accessible spaces, but home fans get them through a season-ticket waiting list; six spaces are reserved for visiting supporters, arranged through their own club. There are also dedicated Blue Badge bays on the street. A casual visitor without a season ticket should plan on the accessible shuttle bus instead."
 ---
 
-London Stadium doesn't try to be Wembley. It sits inside a public park rather than at the end of a purpose-built approach road, it calls itself a "green stadium" and means it, and on any given weekend it might be hosting a Championship match, a stadium tour, or nothing at all. Getting there is less about queue management and more about knowing which of Stratford's seven different train services to actually use.
+London Stadium doesn't try to be Wembley. It sits inside a public park, not at the end of a purpose-built approach road, it calls itself a "green stadium" and means it, and on any given weekend it might be hosting a Championship match, a stadium tour, or nothing at all. Getting there is less about queue management and more about knowing which of Stratford's seven different train services to actually use.
 
 > 💡 **The Short Version:** Come by train to **Stratford** — seven services meet there and it's **15 to 20 minutes'** walk, most of it through **Westfield Stratford City**. Don't confuse it with **Stratford International**, a separate station nearby with no Eurostar. If you're driving, **there is almost nowhere to park**: the stadium has only **229 spaces in total**, nearly all reserved for season-ticket holders, and West Ham's own advice is to leave the car at home. Newham's event-day parking zone covers **five residential areas from 8am to 9pm**, with a standard **£160 penalty** (£80 if paid within 14 days) for parking without a permit. Going home, there's no Wembley-style colour-coded queue system — the stadium runs its own **hold-and-release** crowd management instead, usually clear **within an hour**. On **Friday and Saturday nights the Central and Jubilee lines run all night**, both calling at Stratford.
 
@@ -64,7 +64,7 @@ The walk to the stadium is where the sources disagree slightly: London Stadium's
 
 ### Pudding Mill Lane and Hackney Wick: the quieter approaches
 
-Two stations that don't get mentioned as often, both one stop from Stratford and both a genuinely shorter walk. **Pudding Mill Lane**, DLR only, sits to the south of the stadium and is about **10 minutes** on foot — it has no ticket barriers, but no wheelchair to borrow either. **Hackney Wick**, on the Overground's Mildmay line, is to the northwest and also about **10 minutes** away, with the same trade-off on wheelchairs. Neither route goes anywhere near Westfield.
+Two stations that don't get mentioned as often, both one stop from Stratford and both a shorter walk. **Pudding Mill Lane**, DLR only, sits to the south of the stadium and is about **10 minutes** on foot — it has no ticket barriers, but no wheelchair to borrow either. **Hackney Wick**, on the Overground's Mildmay line, is to the northwest and also about **10 minutes** away, with the same trade-off on wheelchairs. Neither route goes anywhere near Westfield.
 
 ### Buses
 
@@ -137,7 +137,7 @@ The Gold Top accessible car park reopens roughly 20–30 minutes after the final
 
 This venue's event mix is unusually wide, and the club's own paperwork treats them differently. **Football** is the frequent case — a roughly two-hour window with the hold-and-release egress described above, and away supporters have their own turnstile allocation and up to 19 wheelchair-accessible spaces in the visitors' section. The next home fixture as this was written is a Carabao Cup tie against Fulham on 15 September 2026.
 
-**Athletics** happens once a year rather than most weekends: the Novuna London Athletics Meet returned to London Stadium on **18 July 2026**, and has run annually since the venue's post-Olympics conversion. It's a different shape of day — a single long afternoon-into-evening session rather than a 90-minute match.
+**Athletics** happens once a year rather than most weekends: the Novuna London Athletics Meet returned to London Stadium on **18 July 2026**, and has run annually since the venue's post-Olympics conversion. It's a different shape of day — a long afternoon-into-evening session, not a 90-minute match.
 
 ![The track and infield at London Stadium during a full house for the athletics meet, the running track and field events visible under the open roof](../../assets/articles/london-stadium-travel-guide/london-stadium-track.jpg)
 
@@ -165,7 +165,7 @@ The stadium sits on what West Ham's own paperwork calls "the stadium island" —
 
 The route from both Stratford and Stratford International stations is signposted the same way: through Westfield Stratford City, then across the park. Rest areas with arm-rests are spaced roughly every 50 metres along the route, including on the bridges themselves — useful to know if the walk is a struggle, since once you're through the search tents there's no seating outside the stadium at all, only the seats inside it.
 
-The stadium uses **what3words** for its own precise locations — the security reception, each numbered bridge, the accessible lifts and the ticket office each have their own three-word address, which is a genuinely useful way to describe exactly where you are to someone trying to find you in a crowd of tens of thousands.
+The stadium uses **what3words** for its own precise locations — the security reception, each numbered bridge, the accessible lifts and the ticket office each have their own three-word address, which is a useful way to describe exactly where you are to someone trying to find you in a crowd of tens of thousands.
 
 Stadium tours, run on non-event days, are the other reason to make the walk when there's nothing on: our [Stratford area guide](/articles/stratford-area-guide/) covers the wider park, including the ArcelorMittal Orbit and its slide, and the Aquatics Centre next door.
 
@@ -241,4 +241,4 @@ London Stadium is, on the evidence of its own published access statement, thorou
 
 ---
 
-*Figures come from London Stadium's and West Ham United's own sites, West Ham's official 2026/27 Access Statement, Newham Council and Transport for London, checked the week of 13 September 2026. Where two official sources gave different numbers — the walk from Stratford station, chief among them — we've said so rather than picked one. Parking and event details are set match by match, so check the operators' own sites for your date.*
+*Figures come from London Stadium's and West Ham United's own sites, West Ham's official 2026/27 Access Statement, Newham Council and Transport for London, checked the week of 13 September 2026. Where two official sources gave different numbers — the walk from Stratford station, chief among them — we've said so instead of picking one. Parking and event details are set match by match, so check the operators' own sites for your date.*

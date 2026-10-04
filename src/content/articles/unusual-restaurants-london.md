@@ -1,7 +1,7 @@
 ---
 title: "London's Most Unusual Restaurants: 23 Strange Rooms"
 seoTitle: "Unusual Restaurants London 2026: 23 Strange Places"
-description: "A Mongolian yurt, a floating pagoda, a Victorian lavatory, a prison-roasted coffee shop and a former school bike shed — London restaurants where the room is the story."
+description: "A Mongolian yurt, a floating pagoda, a Victorian lavatory, a prison-roasted coffee shop and a former school bike shed — London restaurants where the room comes first."
 heroImage: "../../assets/articles/unusual-restaurants-london/feng-shang-princess.jpg"
 heroImageAlt: "The Feng Shang Princess, a red three-tiered Chinese pagoda restaurant moored on the Regent's Canal"
 publishedAt: 2026-06-26
@@ -24,7 +24,7 @@ faq:
     a: "Bob Bob Ricard in Soho has a button at every booth marked Press for Champagne. It works, a bottle arrives, and it launched a thousand imitations."
 ---
 
-London has plenty of restaurants with a nice view and a good designer. This is not a guide to those. Everything here is somewhere the **premises are genuinely strange** — a tent, a boat, a lavatory, a bank vault, a courthouse nobody repaired.
+London has plenty of restaurants with a nice view and a good designer. This is not a guide to those. Everything here is somewhere the **premises are strange** — a tent, a boat, a lavatory, a bank vault, a courthouse nobody repaired.
 
 > 💡 **The Short Version:** **The Yurt Café** is a working café inside a Mongolian yurt. **Feng Shang Princess** is a floating pagoda on the canal. **The Attendant** is a Victorian public lavatory with the urinals as the counter. **Rochelle Canteen** has no sign and a buzzer. **Redemption Roasters** trains its baristas inside prisons. And **The Crosse Keys** is a Wetherspoons in a 1913 banking hall.
 
@@ -32,11 +32,11 @@ The test we applied: a rooftop with a good view is not unusual in London, becaus
 
 ## Two kinds of unusual, and they are not the same evening
 
-**The room is the point and the food is incidental.** Feng Shang Princess, The Crosse Keys, Hamilton Hall, Sketch's Gallery and Darwin Brasserie. Go for the pagoda, the banking hall, the ballroom, the installation and the glass dome. Do not go hungry expecting to be impressed.
+**The room comes first and the food is incidental.** Feng Shang Princess, The Crosse Keys, Hamilton Hall, Sketch's Gallery and Darwin Brasserie. Go for the pagoda, the banking hall, the ballroom, the installation and the glass dome. Do not go hungry expecting to be impressed.
 
-**Genuinely good restaurants that happen to be in a strange room.** Rochelle Canteen, Sessions Arts Club, Coal Office, Campania & Jones, Hunan, The Cheese Barge, Barge East, Planque, Kinz and Ye Olde Cheshire Cheese. Every one of these would be worth a table in an ordinary room. The room is a bonus.
+**Good restaurants that happen to be in a strange room.** Rochelle Canteen, Sessions Arts Club, Coal Office, Campania & Jones, Hunan, The Cheese Barge, Barge East, Planque, Kinz and Ye Olde Cheshire Cheese. Every one of these would be worth a table in an ordinary room. The room is a bonus.
 
-**In between**, and honestly so: The Yurt Café, The Attendant, Redemption Roasters, The Captain Kidd, Bob Bob Ricard, SUSHISAMBA and Duck & Waffle. Good food, but you are still paying something for the story.
+**In between**: The Yurt Café, The Attendant, Redemption Roasters, The Captain Kidd, Bob Bob Ricard, SUSHISAMBA and Duck & Waffle. Good food, but you are still paying something for the story.
 
 *No paid placements. A place is here because the building or the proposition is strange, not because the design is good — Aqua Shard, the OXO Tower and the rooftops are left off. A view is a view.*
 
@@ -109,7 +109,7 @@ A **three-tiered Chinese pagoda**, painted red and hung with lanterns, moored at
 
 *A table inside The Cheese Barge.*
 
-A **96-foot double-decker barge** moored at Paddington Basin, from the Cheese Bar group, and one of the entries here where the food is the argument rather than the setting. British and Irish cheese is cooked rather than merely arranged on a board: **Quickes curried cheese curds** fried and dressed with chilli honey, **a whole baked Baron Bigod** with Coombeshead sourdough, garlic-roasted new potatoes and Ampleforth chutney, Blue Sky Dairy halloumi with romesco and oregano, and a clotted cream panna cotta at the end. The lower deck is a proper dining room; the roof terrace is uncovered.
+A **96-foot double-decker barge** moored at Paddington Basin, from the Cheese Bar group, and one of the entries here where the food comes before the setting. British and Irish cheese is cooked rather than merely arranged on a board: **Quickes curried cheese curds** fried and dressed with chilli honey, **a whole baked Baron Bigod** with Coombeshead sourdough, garlic-roasted new potatoes and Ampleforth chutney, Blue Sky Dairy halloumi with romesco and oregano, and a clotted cream panna cotta at the end. The lower deck is a proper dining room; the roof terrace is uncovered.
 
 **Open Mon–Sat noon–9pm and Sun noon–7.15pm, and the restaurant publishes no prices on its own site.** Parties of up to six book online, seven or more have to email. The roof terrace runs April to October and cannot be reserved at all.
 
@@ -119,7 +119,7 @@ A **96-foot double-decker barge** moored at Paddington Basin, from the Cheese Ba
 
 A **125-year-old Dutch barge** sailed over from the Netherlands and permanently moored on the River Lea, with a garden alongside and the Olympic Park skyline behind it. The kitchen, under Kayla Dimmick, holds two AA Rosettes and cooks a seasonal British menu of snacks and small and large plates, a good deal of it grown in the restaurant's own gardens. There is a Sunday roast served aboard, a Saturday bottomless lunch, burgers and small plates in the riverside garden, and a converted milk float on site selling gelato, coffee and buns.
 
-**The barge itself only opens four days a week: Thursday and Friday from 4pm, Saturday and Sunday from noon.** The gardens and terrace run daily from noon to 10pm — so turning up midweek gets you the site but not the boat, which is the thing you came for.
+**The barge itself only opens four days a week: Thursday and Friday from 4pm, Saturday and Sunday from noon.** The gardens and terrace run daily from noon to 10pm — so turning up midweek gets you the site but not the boat, which is what you came for.
 
 ![A converted Dutch barge moored on the River Lea with a canopied deck](../../assets/articles/unusual-restaurants-london/barge-east.jpg)
 
@@ -195,7 +195,7 @@ Assaf Granit's kitchen in the converted **coal office** at Coal Drops Yard, spre
 
 *Pasta at Campania & Jones.*
 
-Campanian cooking in a **converted dairy** on Ezra Street, a cobbled lane off Columbia Road, in a small room with a courtyard beside it. Pasta is made by hand every day and sold in the shop to take home along with the ragù. The menu stays properly southern: **pappardelle with cheek ragù at £19, scialatielli allo scoglio at £19, ravioli di zucca delica at £21, San Pietro all'acqua pazza at £23**, gnudi in sage butter at £10, and a tagliata di manzo for two at £58.
+Campanian cooking in a **converted dairy** on Ezra Street, a cobbled lane off Columbia Road, in a small room with a courtyard beside it. Pasta is made by hand every day and sold in the shop to take home along with the ragù. The menu stays southern: **pappardelle with cheek ragù at £19, scialatielli allo scoglio at £19, ravioli di zucca delica at £21, San Pietro all'acqua pazza at £23**, gnudi in sage butter at £10, and a tagliata di manzo for two at £58.
 
 **The lunch offer is the best value anywhere in this guide: one course with a glass of wine £14, two courses £20.** Closed Monday. Tuesday to Friday it serves noon to 3.30pm and again from 6pm; Saturday runs to 5pm and reopens; Sunday is lunch only.
 
@@ -209,7 +209,7 @@ Campanian cooking in a **converted dairy** on Ezra Street, a cobbled lane off Co
 
 A **1930s Lloyds Bank** designed by Sir Edward Maufe, converted into a Lebanese brasserie that opened on 1 June 2026. The main dining room is triple height and seats around 130, and **the original bank vault is now the wine room**, with small dining spaces built inside it. The cooking is home-style rather than the usual mezze-house list: **manā'eesh in the morning, moujadara, mouneh pickles and rosewater desserts**, and on Sundays **molokhiye** — jute mallow leaves slow-cooked with chicken, served with rice, crisped pitta and a sharp onion-and-vinegar mignonette, which the kitchen offers as the Lebanese answer to a Sunday roast.
 
-**Open Sunday to Thursday noon to 11pm, Friday and Saturday to midnight. No food prices are published**, so ring if the bill matters.
+**Open Sunday to Thursday noon to 11pm, Friday and Saturday to midnight. No food prices are published**, so ring if you want to know the bill.
 
 ### The Captain Kidd, Wapping
 
@@ -243,9 +243,9 @@ The former **HSBC headquarters**, opened in 1913 — marble columns, a glass-dom
 
 *Hamilton Hall at Liverpool Street.*
 
-The former **ballroom of the Great Eastern Hotel**, Grade II listed, with the gilding, mirrors and plasterwork intact and a Wetherspoons bar installed underneath it. It is named after Lord Claud Hamilton, chairman of the Great Eastern Railway company that built the station overhead. The trade is entirely commuters, and the menu is the same one every branch serves: breakfasts, burgers, curries, pizzas. The ceiling is the reason to walk in, and the beer is the reason to stay for twenty minutes.
+The former **ballroom of the Great Eastern Hotel**, Grade II listed, with the gilding, mirrors and plasterwork intact and a Wetherspoons bar installed underneath it. It is named after Lord Claud Hamilton, chairman of the Great Eastern Railway company that built the station overhead. The trade is entirely commuters, and the menu is the same one every branch serves: breakfasts, burgers, curries, pizzas. Walk in for the ceiling; stay twenty minutes for the beer.
 
-**It opens at 7am on weekdays, earlier than anything else in this guide**, and closes at 11.30pm. Prices sit in the Wetherspoon app rather than on the website. Come for the ballroom; eat properly somewhere else afterwards.
+**It opens at 7am on weekdays, earlier than anything else in this guide**, and closes at 11.30pm. Prices sit in the Wetherspoon app, not on the website. Come for the ballroom; eat somewhere else afterwards.
 
 ### Ye Olde Cheshire Cheese, City of London
 
@@ -309,7 +309,7 @@ Afternoon tea **inside an art installation**, in a building running five rooms t
 
 *The dining room under the railway arch at Planque.*
 
-A 60-seat restaurant built around **a members' wine cellar you can drink from**, under the Haggerston arches. The list runs to rare bottles matured downstairs alongside current releases, and the food genuinely follows the bottle rather than the other way round: French-leaning small plates meant for sharing, with the desserts drawing the most praise — one reviewer singled out a sheep's curd and plum plate as the best thing on the table. Members can drink from their own stored cases; nobody else may bring wine in.
+A 60-seat restaurant built around **a members' wine cellar you can drink from**, under the Haggerston arches. The list runs to rare bottles matured downstairs alongside current releases, and the food follows the bottle rather than the other way round: French-leaning small plates meant for sharing, with the desserts drawing the most praise — one reviewer singled out a sheep's curd and plum plate as the best thing on the table. Members can drink from their own stored cases; nobody else may bring wine in.
 
 **The licence means you cannot come only for a drink — alcohol has to be ordered with food.** Dinner Tuesday to Saturday from 6pm, lunch on Saturday only, when a set menu is £45 a head. Groups of seven or more take a £75 menu. Cancel inside 24 hours and it is £50 a head.
 
@@ -353,7 +353,7 @@ On Level 36 inside the **Sky Garden's glass dome** at the top of the Walkie Talk
 
 Japanese, Brazilian and Peruvian cooking across the **38th and 39th floors** of Heron Tower, reached by two glass lifts that climb the outside of the building. The kitchen works from an open robata grill and sends out small sharing plates: **tempura and sushi, Brazilian churrasco and moqueca, Peruvian anticuchos and seviche**. The dining room has floor-to-ceiling glass and an open bamboo ceiling under a suspended grid of lights.
 
-**The orange tree on the west terrace is a sculpture, not a living tree** — worth knowing before you go looking for it. The terraces are open-air and the restaurant claims them as the highest outdoor dining in Europe. The food is good and priced as though the height were an ingredient.
+**The orange tree on the west terrace is a sculpture, not a living tree** — know that before you go looking for it. The terraces are open-air and the restaurant claims them as the highest outdoor dining in Europe. The food is good and priced as though the height were an ingredient.
 
 ### Duck & Waffle, City of London
 
@@ -365,7 +365,7 @@ Japanese, Brazilian and Peruvian cooking across the **38th and 39th floors** of 
 
 Forty floors up in Heron Tower, above SUSHISAMBA in the same building, and **open around the clock**, so you can watch the sun come up over the City with a plate in front of you. The signature is the dish it is named after: **duck and waffle at £26, a confit Gressingham duck leg on a waffle with a fried duck egg and mustard maple syrup.** The English breakfast is £19.50, the crème brûlée French toast the same, and there is a three-course Sunday roast from 11.30am.
 
-**It is genuinely 24 hours, and it takes no cash whatsoever.** Bookings open two months ahead, a discretionary 15% service charge is added, and the dress code rules out tracksuits, denim shorts and flip-flops.
+**It is open 24 hours, and it takes no cash whatsoever.** Bookings open two months ahead, a discretionary 15% service charge is added, and the dress code rules out tracksuits, denim shorts and flip-flops.
 
 ---
 
@@ -374,11 +374,11 @@ Forty floors up in Heron Tower, above SUSHISAMBA in the same building, and **ope
 ## What to know
 
 * **Several of these are small and take no bookings.** Rochelle Canteen fills weeks ahead, and The Attendant runs first come, first served across every one of its sites.
-* **The Yurt Café's yurt is at the end of its life.** The charity is running an **£80,000 appeal for a replacement, closing 30 September 2026**, and had raised roughly a third of it by late August. The café is open and the appeal is about the structure rather than the business, but check before making a special trip for it.
+* **The Yurt Café's yurt is at the end of its life.** The charity is running an **£80,000 appeal for a replacement, closing 30 September 2026**, and had raised roughly a third of it by late August. The café is open and the appeal is about the structure, not the business, but check before making a special trip for it.
 * **Feng Shang Princess publishes no menu and no prices at all.** Go for the pagoda, not the cooking, and expect not to know what dinner costs until the bill arrives.
 * **Redemption Roasters no longer roasts inside prisons.** Since December 2025 the roasting has been done at a Wembley site; the barista training is what still happens in HMP High Down, Wandsworth, Downview and Wormwood Scrubs.
 * **Three entries have hard rules on who gets in.** Bob Bob Ricard admits nobody under 15, The Crosse Keys allows under-18s only between 8am and 9pm, and Ye Olde Cheshire Cheese says outright that it is totally inaccessible for wheelchairs.
-* **Duck & Waffle and Darwin Brasserie are both cashless**, and Duck & Waffle is the only genuinely 24-hour room on the list.
+* **Duck & Waffle and Darwin Brasserie are both cashless**, and Duck & Waffle is the only 24-hour room on the list.
 * **The Wetherspoons pubs publish no prices online.** They live in the Wetherspoon app, which is also how you order at the table.
 
 ---

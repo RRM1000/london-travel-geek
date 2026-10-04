@@ -311,7 +311,7 @@ The system otherwise assumes the route through the middle, because that is usual
 
 **Where they are:** on or between the platforms at interchange stations including Highbury & Islington, Stratford, Canada Water, Gospel Oak, Willesden Junction, Clapham Junction, Richmond and Wimbledon ([TfL's full list](https://tfl.gov.uk/fares/touch-pink-card-reader-when-changing-trains)). If there is no pink reader where you change, there is nothing to do.
 
-**It only helps if your journey genuinely skips Zone 1.** Going through the centre and tapping pink on the way does nothing.
+**It only helps if your journey skips Zone 1.** Going through the centre and tapping pink on the way does nothing.
 
 ---
 
@@ -339,7 +339,7 @@ The system otherwise assumes the route through the middle, because that is usual
 
 ## Penalty fares and incomplete journeys
 
-Travelling without a valid ticket or failing to touch in and out properly can lead to heavy extra charges:
+Travelling without a valid ticket or failing to touch in and out can lead to heavy extra charges:
 
 ### Official Penalty Fare: £100 (or £50 if paid early)
 If a TfL Revenue Protection Inspector inspects your contactless card or ticket and finds you do not have a valid fare, failed to touch in, or used an Oyster card beyond its valid zone boundary (e.g. at Stansted or Luton):
@@ -348,7 +348,7 @@ If a TfL Revenue Protection Inspector inspects your contactless card or ticket a
 * *(Deliberate fare evasion can result in prosecution and court fines up to £1,000).*
 
 ### Maximum Fare for Incomplete Journeys: Up to £9.40–£30.40
-If you make an honest mistake and **forget to touch out** at the end of your trip (or forget to touch in at an un-gated station):
+If you make a mistake and **forget to touch out** at the end of your trip (or forget to touch in at an un-gated station):
 * TfL cannot calculate where you travelled and automatically charges a **maximum fare**, which does not count towards your daily cap.
 * **Zones 1–6 Rail Trips:** Charged up to **£9.40** for that single trip.
 * **Longer National Rail Journeys:** Charged up to **£30.40**.

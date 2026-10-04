@@ -49,11 +49,11 @@ faq:
   - q: "Is Peckham safe for visitors?"
     a: "Yes. It is a busy, well-lit, densely populated part of inner London with a lot of people out in the evening. Ordinary city sense applies — Rye Lane is crowded and pickpocketing happens as it does anywhere — but the area's reputation is a decade out of date."
   - q: "How do I get to Peckham from central London?"
-    a: "Peckham Rye is on the Overground and Thameslink. From London Bridge it is about eight minutes, from Blackfriars around fifteen. There is no Tube station, which is the single biggest reason Peckham stayed cheap for as long as it did."
+    a: "Peckham Rye is on the Overground and Thameslink. From London Bridge it is about eight minutes, from Blackfriars around fifteen. There is no Tube station, which is a large part of why Peckham stayed cheap for as long as it did."
   - q: "What is the Bussey Building?"
     a: "A former cricket bat factory off Rye Lane, now a multi-storey arts and nightlife complex — bars, club nights, a cinema, studios and a rooftop. It is the anchor of Peckham's night economy and the reason a lot of people come south at all."
   - q: "Is Frank's Cafe open all year?"
-    a: "No. Frank's is on the top of a multi-storey car park and runs seasonally, roughly late spring to early autumn. Check before travelling — turning up to a closed car park in November is a genuinely common mistake."
+    a: "No. Frank's is on the top of a multi-storey car park and runs seasonally, roughly late spring to early autumn. Check before travelling — turning up to a closed car park in November is a common mistake."
   - q: "Is Peckham good for eating?"
     a: "Very. It has a Thai restaurant cooking northern Thai food to a standard rare anywhere in London, a Michelin Bib Gourmand, birria tacos from a market stall, and a Taiwanese bao shop — most of it at prices that would be double in zone 1."
   - q: "How long do you need in Peckham?"
@@ -81,7 +81,7 @@ Peckham has its own share of the commemorative plaques marking where notable peo
 3. **The Bussey Building** — A former cricket bat factory turned arts and nightlife complex, off Rye Lane in Copeland Park. Bars, club nights, a rooftop and a cinema.
 4. **Peckham Levels** — **The same car park**, on the floors below Frank's: studios, workspace and a bar. Open year round unlike Frank's, but **closed Mondays and Tuesdays**, and the old floor of independent food traders is gone.
 5. **The South London Gallery** — A free contemporary art gallery on Peckham Road with a good garden and a second site in a former fire station opposite.
-6. **Peckham Rye Park and Common** — Large, genuinely local, and where the area goes at the weekend. William Blake claimed to have seen angels in a tree here.
+6. **Peckham Rye Park and Common** — Large, local, and where the area goes at the weekend. William Blake claimed to have seen angels in a tree here.
 7. **Peckhamplex** — A cinema where every ticket is **£6.99** (£7.59 with the booking fee), a fraction of a West End seat. Also in the same car park building.
 
 ![The red canopy of Frank's Cafe on a Peckham car park roof, with the London skyline beyond](../../assets/articles/peckham-area-guide/franks-cafe.jpg)
@@ -96,7 +96,7 @@ Peckham has its own share of the commemorative plaques marking where notable peo
 
 ### Rye Lane
 
-The spine, and the reason to come. Loud, crowded, and the part of Peckham that has changed least — African and Caribbean grocers, fabric shops, butchers, hair and beauty, phone repair and shipping agents, with the newer places threaded between them rather than replacing them.
+The spine, and the reason to come. Loud, crowded, and the part of Peckham that has changed least — African and Caribbean grocers, fabric shops, butchers, hair and beauty, phone repair and shipping agents, with the newer places threaded between them, not replacing them.
 
 **Rye Lane Market** at number 48 is the indoor one: **over 60 units under one roof, open seven days**, roughly 9.30am to 8pm Monday to Saturday and 11am to 5pm on Sunday. The food inside is Mexican, Peruvian, Salvadoran, Honduran, Congolese, Guyanese, [Caribbean](/articles/best-caribbean-restaurants-london/) and West African, alongside tailors, herbalists, key cutters and a crystal stall. Southwark also runs a scatter of street-market pitches on the roads off Rye Lane — **Choumert Road, Atwell Road, Parkstone Road** — though the council publishes no trading days for any of them, so treat those as luck.
 
@@ -106,7 +106,7 @@ The spine, and the reason to come. Loud, crowded, and the part of Peckham that h
 
 **Cornerhouse** at 133A is the newer end of the street in one building: Tonkotsu for ramen, **Forza Wine on the roof**, a basement club, a coffee shop and co-working above.
 
-Just off it, **Peckham Palms** on Bournemouth Close is the **UK's first hair and beauty hub built for Afro hair** — over thirty stylists and a café. It exists because it was built to rehouse the Black-owned businesses displaced by the station redevelopment, which is worth knowing while you look at the new civic square going up.
+Just off it, **Peckham Palms** on Bournemouth Close is the **UK's first hair and beauty hub built for Afro hair** — over thirty stylists and a café. It exists because it was built to rehouse the Black-owned businesses displaced by the station redevelopment, which is context when you look at the new civic square going up.
 
 ![A hairdressing chair and wash basins inside Peckham Palms, against a bright blue wall](../../assets/articles/peckham-area-guide/peckham-palms.jpg)
 
@@ -122,15 +122,15 @@ Off the east side of Rye Lane through **Bussey Alley**, 150 metres from the stat
 
 *The Bussey Building.*
 
-**The Bussey Rooftop Bar** is the anchor and it runs **year round**, not just in summer — from 5pm on weekdays and midday at weekends, free to walk in, dogs welcome, under-18s until 7pm. There is shelter and there are heaters, so bookings go ahead in the rain, and the drinks come in reusable polycarbonate rather than glass because there are homes below. It is **not wheelchair accessible**.
+**The Bussey Rooftop Bar** is the anchor and it runs **year round**, not just in summer — from 5pm on weekdays and midday at weekends, free to walk in, dogs welcome, under-18s until 7pm. There is shelter and there are heaters, so bookings go ahead in the rain, and the drinks come in reusable polycarbonate, not glass because there are homes below. It is **not wheelchair accessible**.
 
 Around it: **Jumbi**, a Black-owned HiFi rum bar; **Copeland Gallery** and **Bosse & Baum**; two derelict Victorian houses used as exhibition space; **Balamii** radio; a ceramics studio, a CrossFit gym and a vegan café in **Holdrons Arcade**; record shops, vintage dealers and the fashion designer Bianca Saunders. **Fitzcarraldo Editions**, which publishes two Nobel laureates, works out of the same yard.
 
-**One thing has changed.** The **CLF Art Café**, the club and live venue the Bussey Building was best known for, has moved out — it now runs at Mountview on Peckham Hill Street. The nightlife here is bars and the rooftop rather than the old club nights.
+**One thing has changed.** The **CLF Art Café**, the club and live venue the Bussey Building was best known for, has moved out — it now runs at Mountview on Peckham Hill Street. The nightlife here is bars and the rooftop, not the old club nights.
 
 ### Bellenden Road
 
-West of Rye Lane and a complete contrast: quiet, low-rise, Victorian, and where Peckham goes to sit down and eat properly.
+West of Rye Lane and a complete contrast: quiet, low-rise, Victorian, and where Peckham goes to sit down and eat.
 
 ![A large mural of a fox painted on the side of a building on Bellenden Road, against a blue sky](../../assets/articles/peckham-area-guide/bellenden-road.jpg)
 
@@ -150,7 +150,7 @@ The eating is the other reason: **Artusi** for Italian, **The Begging Bowl** for
 
 North towards Camberwell, and quieter than anything on Rye Lane. This is the Peckham–Camberwell boundary, which is why the addresses flip between SE15 and SE5 halfway along.
 
-The **South London Gallery** is the reason to walk up. It is **free**, and it is **two buildings 120 metres apart**: the Victorian main gallery at 65–67 Peckham Road, and the **former fire station opposite at number 82**, which became a second set of galleries in 2018. Contemporary shows in both.
+Walk up for the **South London Gallery**. It is **free**, and it is **two buildings 120 metres apart**: the Victorian main gallery at 65–67 Peckham Road, and the **former fire station opposite at number 82**, which became a second set of galleries in 2018. Contemporary shows in both.
 
 ![The red-brick Victorian facade of the South London Gallery on Peckham Road, with a banner reading South London Gallery and free entry](../../assets/articles/peckham-area-guide/south-london-gallery.jpg)
 
@@ -158,7 +158,7 @@ The **South London Gallery** is the reason to walk up. It is **free**, and it is
 
 **It is closed Mondays and Tuesdays.** Wednesday runs late to 9pm; Thursday to Sunday it is midday to 6pm. The **café is open more days than the galleries are**, and the **Orozco Garden behind is weekends only, midday to 6pm** — a detail that catches people who come specifically for it.
 
-There is **no Tube anywhere near**, which is the honest problem with this stretch. Peckham Rye station is a fourteen-minute walk; the 12, 36, 171, 343, 345 and 436 all stop outside. Camberwell College of Arts is a few doors up, which explains a certain amount about the area.
+There is **no Tube anywhere near**, which is the problem with this stretch. Peckham Rye station is a fourteen-minute walk; the 12, 36, 171, 343, 345 and 436 all stop outside. Camberwell College of Arts is a few doors up, which explains a certain amount about the area.
 
 ### Peckham Rye
 
@@ -168,9 +168,9 @@ South towards the park, more residential, and where the area calms down. **Peckh
 
 *Peckham Rye Common, on a sunny weekend.*
 
-The park half has the things worth walking to: a **community wildlife garden** with beehives and a pond, a restored **fernery**, a skate park, an outdoor gym and an adventure playground. It has held a Green Flag every year since 2007. **Opening is 7.30am to dusk**, and dusk here means 5pm in January and 9.30pm in July — check the month rather than assuming.
+The park half has the things worth walking to: a **community wildlife garden** with beehives and a pond, a restored **fernery**, a skate park, an outdoor gym and an adventure playground. It has held a Green Flag every year since 2007. **Opening is 7.30am to dusk**, and dusk here means 5pm in January and 9.30pm in July — check the month instead of assuming.
 
-**On the William Blake angel tree, the honest version:** Blake is said to have walked out here from the City as a boy in 1767 and seen a vision of angels filling a tree. The story is a biographical anecdote written down long afterwards rather than anything Blake recorded at the time — it happened **on the Common rather than in the Park**, and **the tree is gone**. There is no marker and nothing to photograph.
+**On the William Blake angel tree:** Blake is said to have walked out here from the City as a boy in 1767 and seen a vision of angels filling a tree. The story is a biographical anecdote written down long afterwards, not anything Blake recorded at the time — it happened **on the Common rather than in the Park**, and **the tree is gone**. There is no marker and nothing to photograph.
 
 The street called **Peckham Rye**, facing the Common, has the neighbourhood end of the eating: **Bà Ba**, the Nguyen family's southern Vietnamese restaurant, renamed from Bánh Bánh in 2026, and **Old Spike** for coffee.
 
@@ -229,7 +229,7 @@ Peckham eats well and cheaply. This is a selection — see the [full restaurant 
 
 ## Where to stay
 
-Peckham is a place to spend an evening rather than a base — there are few hotels and the transport is Overground rather than Tube.
+Peckham is a place to spend an evening, not a base — there are few hotels and the transport is Overground, not Tube.
 
 - **London Bridge** — Eight minutes by train and far better connected.
 - **Bermondsey** — Twenty minutes, and the closest area with both hotels and its own night economy.

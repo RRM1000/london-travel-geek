@@ -88,7 +88,7 @@ Every date and price below is the organiser's own, taken from its listings on **
 
 ### The Royal Institution, Albemarle Street
 
-Two price bands, and the difference is worth knowing. A **[Discourse](https://www.rigb.org/whats-on/discourse-cern-past-present-and-future) is £20 or £15 in the theatre and free to Ri Members and Patrons**, with a pay-what-you-can livestream from £5. Doors open about 6.50pm, you must be seated by 7.20pm, and there is a pay bar from 6pm. **Ordinary evening talks are £16 or £10, and £7 for Members**, usually 7pm to 8.30pm. Eventbrite's booking fee is on top of both.
+Two price bands. A **[Discourse](https://www.rigb.org/whats-on/discourse-cern-past-present-and-future) is £20 or £15 in the theatre and free to Ri Members and Patrons**, with a pay-what-you-can livestream from £5. Doors open about 6.50pm, you must be seated by 7.20pm, and there is a pay bar from 6pm. **Ordinary evening talks are £16 or £10, and £7 for Members**, usually 7pm to 8.30pm. Eventbrite's booking fee is on top of both.
 
 The autumn Discourses are **Carlo Rovelli on 25 September**, **CERN's Director-General Mark Thomson on 16 October** and **Dame Ijeoma Uchegbu on 30 October**. The ordinary programme runs between them, several nights a week: the James Webb Space Telescope on 17 October, Neanderthal musicality on 19 October, the Einstein Telescope on 2 November, growing a quantum computer on 14 November, weather whiplash on 16 November.
 
@@ -178,7 +178,7 @@ The [Greenwich area guide](/articles/greenwich-area-guide/) has the rest of the 
 
 A **six-inch Cooke refractor from the late 19th century under a rotating dome**, on top of a Victorian covered reservoir just off Lower Terrace near Whitestone Pond, with a modern 16-inch Dobsonian beside it for fainter objects. Run by the Hampstead Scientific Society's volunteers.
 
-**Evening sessions run October to April, usually Friday and Saturday from 8pm to 10pm, and only when the sky is clear.** In summer the dome closes for maintenance apart from occasional Sunday-morning solar viewings. Entry is **free but ticketed**, and the [booking rule](https://www.hampsteadscience.ac.uk/observatory.html) is the thing to understand: because the weather decides, **tickets only go live on Eventbrite at 10am on the day itself** for an evening session, and at 5pm the previous evening for a solar one. The Society posts on Facebook a few days ahead when a clear night looks likely. Demand is high and the dome is small.
+**Evening sessions run October to April, usually Friday and Saturday from 8pm to 10pm, and only when the sky is clear.** In summer the dome closes for maintenance apart from occasional Sunday-morning solar viewings. Entry is **free but ticketed**, and the [booking rule](https://www.hampsteadscience.ac.uk/observatory.html) works like this: because the weather decides, **tickets only go live on Eventbrite at 10am on the day itself** for an evening session, and at 5pm the previous evening for a solar one. The Society posts on Facebook a few days ahead when a clear night looks likely. Demand is high and the dome is small.
 
 Make an afternoon of it with the [Hampstead area guide](/articles/hampstead-area-guide/) and walk up over the Heath.
 
@@ -190,7 +190,7 @@ Make an afternoon of it with the [Hampstead area guide](/articles/hampstead-area
 
 *The Beam Engine House, Crossness. Photo: [Nathusius2](https://commons.wikimedia.org/wiki/File:Crossness_Prince_Consort_Beam_Engine_IMG5999-03.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-Four Victorian pumping stations around London still put steam into their original engines, and all four are volunteer-run and open on published dates rather than daily. On a non-steaming day the engines stand still, so check which sort of day you are booking.
+Four Victorian pumping stations around London still put steam into their original engines, and all four are volunteer-run and open on published dates, not daily. On a non-steaming day the engines stand still, so check which sort of day you are booking.
 
 | Site | Price | Nearest station | What runs, and when |
 | --- | --- | --- | --- |
@@ -234,7 +234,7 @@ Two more run below ground. **[Mail Rail](https://www.postalmuseum.org/visit-us/w
 
 *The Mansion, Bletchley Park. Photo: [David P Howard](https://commons.wikimedia.org/wiki/File:The_Mansion_at_Bletchley_Park_-_geograph.org.uk_-_4216465.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**Bletchley Park is in Milton Keynes, not London**, and it is a full day out rather than an afternoon's detour — the Trust asks you to allow at least four hours and says a whole day is easy. Treat it the way you would [Oxford](/articles/oxford-day-trip/) or [Cambridge](/articles/cambridge-day-trip/): one destination, a train each way, and nothing else in the diary.
+**Bletchley Park is in Milton Keynes, not London**, and it is a full day out, not an afternoon's detour — the Trust asks you to allow at least four hours and says a whole day is easy. Treat it the way you would [Oxford](/articles/oxford-day-trip/) or [Cambridge](/articles/cambridge-day-trip/): one destination, a train each way, and nothing else in the diary.
 
 **Getting there.** London Northwestern Railway runs **direct from Euston to Bletchley, typically about 50 minutes, 34 minutes on the fastest service**, with up to four trains an hour and 79 a day. The [operator's own fares](https://www.londonnorthwesternrailway.co.uk/train-times/london-euston-to-bletchley) are **Advance singles from £6.80**, an **Off-Peak Day Single at £11.60**, an **Off-Peak Day Return at £23.20** and an **Anytime Day Single at £25.50**. The first train out of Euston is 05:35 and the last is 01:39. **[Bletchley station is a five-minute walk](https://www.londonnorthwesternrailway.co.uk/attractions/trains-to-bletchley-park)**: turn right along Sherwood Drive, then left after 100 to 200 metres. Groups of three to nine get a third off off-peak fares with GroupSave.
 
@@ -251,7 +251,7 @@ Two more run below ground. **[Mail Rail](https://www.postalmuseum.org/visit-us/w
 ## Five booking rules that catch people out
 
 1. **A free ticket is not a seat.** Gresham College and the Royal Society both issue more tickets than they have chairs, on purpose. Gresham asks for 30 minutes; the Royal Society opens its doors at 6pm for a 6.30pm start.
-2. **The date the tickets go on sale matters more than the date of the talk.** Gresham releases in-person tickets exactly a month out. The NHM sells to Members two weeks before anyone else. The Royal Society drips prize-lecture tickets in three batches.
+2. **The on-sale date counts for more than the date of the talk.** Gresham releases in-person tickets exactly a month out. The NHM sells to Members two weeks before anyone else. The Royal Society drips prize-lecture tickets in three batches.
 3. **Weather decides the observatory, so the ticket appears on the morning.** Hampstead's evening sessions go live at 10am on the day. There is no advance list.
 4. **Steaming day or open day is not the same visit.** At Crossness the engine only runs on a Steaming Day; at Markfield most Sundays are open days with the engine still. Check which you are booking.
 5. **The livestream is often the cheaper half of the same event.** An Ri Discourse is £20 in the room and pay-what-you-can from £5 online. Every Royal Society lecture goes out free on YouTube with no booking, while the seat in the room has to be reserved in a batch. NHM Members watch Dig Deeper online for nothing; everyone else pays £25 in the theatre or buys a livestream ticket.

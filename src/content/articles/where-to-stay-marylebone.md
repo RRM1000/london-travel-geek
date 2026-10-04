@@ -33,7 +33,7 @@ faq:
 
 Marylebone is the grid of Georgian streets directly north of Oxford Street, running up to Regent's Park. It has a village high street, the free Wallace Collection, and stations on every side, including the Elizabeth line at Bond Street.
 
-Where you sleep in it matters more than which hotel. **The Marble Arch corner** is for Hyde Park and the Central line. **The village** is the quiet middle, a few minutes from the Elizabeth line at Bond Street. **Baker Street and Marylebone Road** are for Regent's Park, Wembley trains and the cheapest rooms. **Langham Place** is the West End edge, five minutes from Oxford Circus.
+Where you sleep in it counts for more than which hotel. **The Marble Arch corner** is for Hyde Park and the Central line. **The village** is the quiet middle, a few minutes from the Elizabeth line at Bond Street. **Baker Street and Marylebone Road** are for Regent's Park, Wembley trains and the cheapest rooms. **Langham Place** is the West End edge, five minutes from Oxford Circus.
 
 Most of the hotels below are four- and five-star.
 
@@ -153,7 +153,7 @@ It is part of Marriott's Autograph Collection, so **Bonvoy points apply**. Lilli
 
 *About £230 · 28–30 Seymour Street, W1H 7JB · Marble Arch 3 min, Bond Street 8 min · [Hotels.com](hotel:the-zetter-townhouse-marylebone)*
 
-A Georgian townhouse, formerly called the Zetter Townhouse, decorated like an eccentric relative's home. The ground-floor bar, **The Parlour, fills with non-residents in the evening**, which is the point of staying here for some guests and a reason to ask for an upper floor for others.
+A Georgian townhouse, formerly called the Zetter Townhouse, decorated like an eccentric relative's home. The ground-floor bar, **The Parlour, fills with non-residents in the evening**, which is why some guests choose to stay here and a reason for others to ask for an upper floor.
 
 <div class="photo-row">
 
@@ -211,7 +211,7 @@ Six Georgian townhouses turned into 114 rooms, with Baker Street five minutes' w
 
 </div>
 
-**The cheapest grade, the Z Inside Queen at £65, has no window.** The Z Queen at £75 has one and is the same 14 square metres, which is larger than the 9-square-metre Z Double at Z Covent Garden. Above that are the Z King at 20 square metres from £85, a grade only this branch sells, the Junior Suite at 26 square metres from £95, and the Z Club from £110 with breakfast included. Bathrooms are a glazed box inside the room, part frosted to head height, rather than behind a solid wall. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) explains what the Inside grade is like to sleep in.
+**The cheapest grade, the Z Inside Queen at £65, has no window.** The Z Queen at £75 has one and is the same 14 square metres, which is larger than the 9-square-metre Z Double at Z Covent Garden. Above that are the Z King at 20 square metres from £85, a grade only this branch sells, the Junior Suite at 26 square metres from £95, and the Z Club from £110 with breakfast included. Bathrooms are a glazed box inside the room, part frosted to head height, not behind a solid wall. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) explains what the Inside grade is like to sleep in.
 
 ### Park Avenue Baker Street — townhouses on both sides of the street
 
@@ -243,7 +243,7 @@ Four restored Georgian buildings on Chiltern Street, one of them the former Bedf
 
 *££££ · 38 rooms · 39–40 Dorset Square, NW1 6QN · Marylebone station 5 min, Baker Street 10 min · [check prices](hotel:dorset-square-hotel)*
 
-Tim and Kit Kemp's first hotel, in a Regency building facing the garden square that was Thomas Lord's original cricket ground. The 38 bedrooms carry cricket artwork, the Drawing Room has an honesty bar and a fire, and The Potting Shed names its cocktails after the same history. It is on a residential square rather than a shopping street.
+Tim and Kit Kemp's first hotel, in a Regency building facing the garden square that was Thomas Lord's original cricket ground. The 38 bedrooms carry cricket artwork, the Drawing Room has an honesty bar and a fire, and The Potting Shed names its cocktails after the same history. It is on a residential square, not a shopping street.
 
 ![A bedroom at Dorset Square Hotel with green walls, a tall arched headboard embroidered with red and blue flowers, a scalloped white quilt, a green-striped armchair and a sash window over the rooftops](../../assets/articles/where-to-stay-marylebone/dorset-square-hotel-room.jpg)
 
@@ -293,7 +293,7 @@ Artesian is the cocktail bar, Chuan Body + Soul is the spa, and there is a swimm
 
 *About £250 · 14–15 Langham Place, W1B 2QS · Oxford Circus 4 min · Breakfast extra · [Hotels.com](hotel:treehouse-hotel-london)*
 
-The hotel occupies the top floors of a building next to Broadcasting House, so the rooms look out over the city rather than into a light well. The Nest, the rooftop bar, looks across to Regent's Park and the Shard, and Madera serves Californian-Mexican food.
+The hotel occupies the top floors of a building next to Broadcasting House, so the rooms look out over the city, not into a light well. The Nest, the rooftop bar, looks across to Regent's Park and the Shard, and Madera serves Californian-Mexican food.
 
 <div class="photo-row">
 

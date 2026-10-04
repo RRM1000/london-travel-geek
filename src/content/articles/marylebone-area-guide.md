@@ -89,7 +89,7 @@ Marylebone has its own share of the commemorative plaques marking where notable 
 
 1. **The Wallace Collection** — Free, in a Manchester Square townhouse. *The Laughing Cavalier*, Titian, Rembrandt, Velázquez, and one of Europe's great armour collections. Astonishingly quiet for what it holds.
 2. **Marylebone High Street** — The spine. Independent shops, delis, a cheesemonger and cafes with pavement tables.
-3. **Daunt Books** — An Edwardian shop with oak galleries and a stained-glass window, its main room arranged **by country** rather than genre. Free to browse.
+3. **Daunt Books** — An Edwardian shop with oak galleries and a stained-glass window, its main room arranged **by country**, not genre. Free to browse.
 4. **Marylebone Farmers' Market** — Sundays, 10:00 to 14:00, on St Vincent Street, Aybrook Street and the top of Moxon Street. Producers only.
 5. **Regent's Park** — Ten minutes north. Queen Mary's rose garden, the boating lake, the open-air theatre and London Zoo at the top.
 6. **Wigmore Hall** — A 1901 chamber music hall with near-perfect acoustics. Sunday morning coffee concerts are cheap and excellent.
@@ -108,9 +108,9 @@ Marylebone has its own share of the commemorative plaques marking where notable 
 ### Marylebone High Street
 The centre — low-rise, largely independent, and the opposite of Oxford Street four minutes south.
 
-**Daunt Books** is the anchor: an Edwardian bookshop with a galleried oak room, skylights and a stained-glass window at the back, shelved by country rather than genre, which is the reason it is famous. **La Fromagerie**, Cadenhead's whisky shop and a run of delis fill the rest.
+**Daunt Books** is the anchor: an Edwardian bookshop with a galleried oak room, skylights and a stained-glass window at the back, shelved by country, not genre, which is why it is famous. **La Fromagerie**, Cadenhead's whisky shop and a run of delis fill the rest.
 
-**A farmers' market runs behind it on Sundays**, which is the one day the street is genuinely busy. Ordinary shop hours otherwise, and about eight minutes from Bond Street.
+**A farmers' market runs behind it on Sundays**, which is the one day the street is busy. Ordinary shop hours otherwise, and about eight minutes from Bond Street.
 
 ### Marylebone Lane
 
@@ -169,7 +169,7 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 
 **By Tube.** **Baker Street** (five lines) is best for the north end and Regent's Park. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the south end and is only four minutes' walk from the high street.
 
-**Best exit.** From Bond Street, take the **Marylebone Lane** exit and walk north — it drops you straight into the village rather than onto Oxford Street.
+**Best exit.** From Bond Street, take the **Marylebone Lane** exit and walk north — it drops you straight into the village, not onto Oxford Street.
 
 **On foot.** Ten minutes to Regent's Park, twelve to Mayfair, twenty to Soho.
 

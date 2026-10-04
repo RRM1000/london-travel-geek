@@ -31,7 +31,7 @@ faq:
   - q: "Is the Yeoman Warder (Beefeater) tour free?"
     a: "Yes, it's included with standard admission and needs no separate booking. Tours run roughly every 30 minutes from near the entrance; on 19 September 2026 the last one included in the ticket was at 15:15. Ignore any third-party seller advertising a paid 'exclusive' Beefeater tour — the official tour costs nothing extra."
   - q: "Can you use The London Pass at the Tower of London?"
-    a: "Yes, standard admission is included. Show your digital pass at the ticket office rather than queuing to buy on the day."
+    a: "Yes, standard admission is included. Show your digital pass at the ticket office, not queuing to buy on the day."
   - q: "How do you get tickets for the Ceremony of the Keys?"
     a: "Book online through Historic Royal Palaces — the only way, and always in advance. Tickets for a given month go on sale at 13:00 on the first working day of the month before (moving to the following Monday at 13:00 if that first working day is a Friday). It's pay-what-you-choose: HRP suggests £30 a ticket, and you can pick anywhere from £10 to £50. Members book on their own separate dates."
   - q: "What's the best time of day to visit?"
@@ -169,9 +169,9 @@ The grounds are cobbled, with steep ramps and narrow spiral stairs. The Jewel Ho
 
 ### Common mistakes to avoid
 
-- **Buying on the day.** Book online in advance rather than queuing at the ticket booths.
+- **Buying on the day.** Book online in advance, not queuing at the ticket booths.
 - **Paying a third party for an "exclusive" Beefeater tour.** Every standard ticket already includes the official Yeoman Warder tour.
-- **Allowing less than two to three hours.** That's what it takes to see the Crown Jewels, the White Tower and a Yeoman Warder tour properly.
+- **Allowing less than two to three hours.** That's what it takes to see the Crown Jewels, the White Tower and a Yeoman Warder tour without rushing.
 
 ---
 

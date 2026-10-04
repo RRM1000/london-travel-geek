@@ -25,7 +25,7 @@ faq:
   - q: "How much does it cost to enter the London Marathon ballot?"
     a: "Entering is free. You then choose one of two options: pay nothing up front and pay the full £79.99 entry fee only if you are drawn, or donate £49.99 when you apply, which becomes your entry fee if you get in and is kept as a donation if you do not. Overseas runners pay a higher entry fee — the organisers state £275, which includes a carbon offset charge."
   - q: "How much do you have to raise for a London Marathon charity place?"
-    a: "Usually between £2,000 and £3,000, plus a registration fee of about £40 to £100. Smaller charities tend to set £2,000; big-name charities more often ask £2,500 to £2,750. Targets are pledges rather than debts, but charities set interim milestones, can withdraw your place before race day if you are well short, and some state they will report shortfalls to the organisers."
+    a: "Usually between £2,000 and £3,000, plus a registration fee of about £40 to £100. Smaller charities tend to set £2,000; big-name charities more often ask £2,500 to £2,750. Targets are pledges, not debts, but charities set interim milestones, can withdraw your place before race day if you are well short, and some state they will report shortfalls to the organisers."
   - q: "What time do you need to run for a Good For Age place?"
     a: "The 2027 standards had not been published as of late August 2026 — the organisers said they would come in the autumn. For 2026 the marathon standards were sub-2:52 for men aged 18–39 and sub-3:38 for women, easing with each age band. The standards were cut by three minutes for men and two for women across almost every band for 2026, so they are harder than they used to be. Meeting the time only earns you the right to apply: places are capped and allocated fastest-first."
   - q: "Can you buy or transfer a London Marathon place?"
@@ -88,7 +88,7 @@ The second option is a **£30 discount if you get in**, a second draw if you mis
 
 There are separate **UK and international ballots**, entered through the same form in the same window. The organisers do not publish whether the odds differ between them, so be wary of anyone who tells you one is easier.
 
-### The odds, honestly
+### The odds
 
 Applications are published every year, and they are rising fast:
 
@@ -125,7 +125,7 @@ Charities buy entries from the organisers — £400 plus VAT each — and give t
 
 > ⚠️ **The target is a pledge, not a suggestion.** Charities set interim milestones — Médecins Sans Frontières required £660 of its £2,500 by early January — and reserve the right to withdraw your place before race day if you are clearly not going to get there. Oxfam's terms went further, stating that missing the target means the organisers are informed and it "will impact your chances of running the TCS London Marathon in the future". Nobody is going to sue you, but do not treat the number as decorative.
 
-### The distinction worth knowing
+### Charity place or good-for-age place
 
 - **A charity place** is the charity's bought entry, given to you in exchange for a registration fee and a fundraising commitment.
 - **An "own place"** is when you already have a ballot or club place and choose to fundraise anyway. There is normally **no registration fee and no minimum target**, and you still get the running vest and the charity's support. If you have your own place, never take a charity's bond place as well — you are using up an entry that cost them £400.
@@ -188,7 +188,7 @@ Unsuccessful UK applicants may be offered a Good For Age place instead.
 
 ## Route 5: A running club place
 
-Genuinely overlooked, and the cheapest guaranteed route in if you already run with a club.
+Overlooked, and the cheapest guaranteed route in if you already run with a club.
 
 Clubs affiliated to British Athletics get an allocation based on how many first-claim members aged 18 or over they have:
 
@@ -255,7 +255,7 @@ If you have a place and cannot run, whether you can roll it over depends entirel
 | Tour operator | Ask the operator |
 | MyWay virtual | **No** |
 
-Two things people get wrong: you **pay the entry fee again** for the deferred year, so it is a guaranteed entry rather than a free one; and you **cannot defer a place that was already deferred once**. Pregnancy and postpartum deferrals are more generous — up to three years, keeping any Good For Age or Championship category without requalifying.
+Two things people get wrong: you **pay the entry fee again** for the deferred year, so it is a guaranteed entry, not a free one; and you **cannot defer a place that was already deferred once**. Pregnancy and postpartum deferrals are more generous — up to three years, keeping any Good For Age or Championship category without requalifying.
 
 ---
 
@@ -323,24 +323,24 @@ If you want to actually see the race rather than the back of someone's head, go 
 What you get for the inconvenience:
 
 - **Room at the barrier**, even fairly late in the morning. The photograph above is the elite women's lead pack going through, from a standing spot a few feet back with no crush.
-- **A genuine local crowd** rather than a tourist one — residents out on their own street, and bands playing on the pavement.
+- **A local crowd**, not a tourist one — residents out on their own street, and bands playing on the pavement.
 - **A second sighting.** The course runs out along Westferry Road and comes back through Canary Wharf, so from around here you can catch the field at Mile 15 and again at Mile 18 without getting on a train.
 - **Mudchute at Mile 17 is the pick if you have children** — quieter still, and Mudchute Farm is next door for when they lose interest.
 
 > ⚠️ **One caveat: Canary Wharf itself is not quiet.** Miles 18 and 19, in the estate, are on the organisers' "extremely busy" list. The quiet stretch is the residential southern half of the island, not the towers.
 
-**Poplar High Street at Mile 20** works on the same principle — you stand with local residents rather than tourists.
+**Poplar High Street at Mile 20** works on the same principle — you stand with local residents, not tourists.
 
 ### How to see your runner twice
 
-This is the thing worth planning, and there is one clear answer.
+Plan this one ahead. There is one clear answer.
 
 > 💡 **The Highway, Miles 14 and 22.** The course runs out along the north bank and comes back on the other carriageway, so you can stand in one place and see the field twice, roughly 45 minutes to an hour apart. Get there on the Overground to **Shadwell** or **Wapping**. It is on the organisers' own list of quieter stretches, and there is no train journey in between.
 
 Three more that work:
 
 - **Limehouse DLR** — Mile 15, then Mile 21 and Rainbow Row.
-- **Canary Wharf** — Miles 15 and 18, using the estate's loop rather than a train.
+- **Canary Wharf** — Miles 15 and 18, using the estate's loop, not a train.
 - **Tower Hill** — halfway on The Highway, then Mile 23.
 
 <div data-stay-strip></div>
@@ -392,7 +392,7 @@ One thing spectators often assume wrongly: the **free post-race TfL travel is fo
 
 ### The rest of the marathon weekend
 
-2027 turns the race into a four-day event, and two of the extras are worth knowing about if you are in London anyway:
+2027 turns the race into a four-day event, and two of the extras are open to anyone in London that weekend:
 
 | When | What |
 | --- | --- |

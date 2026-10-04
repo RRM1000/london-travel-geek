@@ -103,7 +103,7 @@ Tickets come from **Ticketmaster and nowhere else**. City Hall's line is that yo
 
 The only legitimate resale route is **Ticketmaster's Fan-to-Fan platform, at face value**, and it opens late: in 2025 on Monday 8 December, six weeks after tickets first went on sale. If you miss the main release, that December window is your real second chance.
 
-**The Londoner discount is worth £20 a ticket**, applied at checkout against your card's billing address. Enter the postcode without spaces and in capitals, make sure the address genuinely matches, and be ready to prove it on the night — mismatched bookings have been cancelled without warning.
+**The Londoner discount is worth £20 a ticket**, applied at checkout against your card's billing address. Enter the postcode without spaces and in capitals, make sure the address matches, and be ready to prove it on the night — mismatched bookings have been cancelled without warning.
 
 **When does it go on sale?** Not yet known: City Hall's 2026 page says a date for the ticket release will be announced soon, and offers an email sign-up. The only on-sale time City Hall has ever put in a press release was **noon on Friday 21 October 2022**, the year the event returned, followed by further releases before it sold out. Watch [City Hall's 2026 event page](https://www.london.gov.uk/events/london-new-years-eve-2026).
 
@@ -127,7 +127,7 @@ The geometry is against you anyway: the display is fired low over the river betw
 
 > ⚠️ **Do not turn up at the Embankment without a ticket.** TfL's own advice in 2025 was to stay away from the area in and around Victoria Embankment unless ticketed, and central stations may be closed at short notice to control crowds. You will be moved on, in the cold, having travelled for nothing.
 
-For a view of London rather than of the fireworks, our guide to the [best views in London](/articles/best-views-london/) covers what is genuinely open and when.
+For a view of London rather than of the fireworks, our guide to the [best views in London](/articles/best-views-london/) covers what is open and when.
 
 ---
 
@@ -149,7 +149,7 @@ Boat parties sell a year out. These are on sale for 31 December 2026 (the sights
 
 London Party Boats tickets include a welcome Prosecco, unlimited beer, wine, Prosecco by the glass and soft drinks, and a buffet; standard tickets are standing and the outdoor decks are unheated. Thames Rockets is the short, expensive, memorable option — 90 minutes on a 12-seat open boat, out for midnight and back by half past, or £4,499 for a private charter.
 
-**If you do not want to spend £240 on a boat**, the cheap options are the ones that have always worked. Watch the display on BBC One, which gives you a better view than most ticket holders get. Book an early dinner somewhere not doing a set menu — our [late-night eating guide](/articles/late-night-eating-london/) helps. Or find a pub that has simply extended its licence rather than one selling a package. [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) is open on 31 December from 11am to 10pm; the £1 entry slots run Monday to Thursday in November only.
+**If you do not want to spend £240 on a boat**, the cheap options are the ones that have always worked. Watch the display on BBC One, which gives you a better view than most ticket holders get. Book an early dinner somewhere not doing a set menu — our [late-night eating guide](/articles/late-night-eating-london/) helps. Or find a pub that has simply extended its licence, not one selling a package. [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) is open on 31 December from 11am to 10pm; the £1 entry slots run Monday to Thursday in November only.
 
 For the run-up rather than the night itself — markets, lights, ice rinks and carols — see our guide to [Christmas in London](/articles/christmas-in-london/).
 
@@ -186,7 +186,7 @@ For a free spot, follow the organisers' own advice. **Green Park and the Piccadi
 
 TfL has not published its 2026/27 festive arrangements yet. What follows is the standing position plus the 2025 timings.
 
-**Travel is not free, and this is the single most out-of-date claim on the internet about a London New Year's Eve.** Free travel from 23:45 to 04:30 ran for two decades under a series of sponsors; **the last time was 31 December 2019**. In November 2021 TfL said the pandemic's effect on its finances meant it could not offer it, and it has not come back.
+**Travel is not free.** Free travel from 23:45 to 04:30 ran for two decades under a series of sponsors; **the last time was 31 December 2019**. In November 2021 TfL said the pandemic's effect on its finances meant it could not offer it, and it has not come back.
 
 | Thing | The position for 2026/27 |
 | --- | --- |
@@ -197,7 +197,7 @@ TfL has not published its 2026/27 festive arrangements yet. What follows is the 
 | Vehicle access to the event area | Restricted from 14:00 on 31 Dec until about 06:00 on 1 Jan, per City Hall's 2026 notice |
 | Congestion Charge | £0 from 25 December 2026 to 1 January 2027 inclusive |
 
-That Night Tube line matters. The six lines that run it — Central, Jubilee, Northern, Piccadilly, Victoria and Windrush — do so on Friday and Saturday nights, and **New Year's Eve 2026 is a Thursday**. Anything running that night will be a special operation laid on for the event, so wait for TfL's December announcement rather than assuming a normal Night Tube.
+The six lines that run the Night Tube — Central, Jubilee, Northern, Piccadilly, Victoria and Windrush — do so on Friday and Saturday nights, and **New Year's Eve 2026 is a Thursday**. Anything running that night will be a special operation laid on for the event, so wait for TfL's December announcement instead of assuming a normal Night Tube.
 
 Two things that will not change: central stations near the river get closed at short notice when they fill up, so pick your exit station in advance; and **decide which side of the river you want to be on afterwards**, because with five bridges shut you cannot change your mind at 00:20. Our guides to [getting around London](/articles/getting-around-london-transport-guide/) and [what transport costs](/articles/london-public-transport-costs-and-fares/) cover the fares side.
 
@@ -207,7 +207,7 @@ Two things that will not change: central stations near the river get closed at s
 
 **Arrive earlier than feels sensible.** Gates in 2025 opened at 8pm and closed at 10.30pm, and the queues are their own event. Be there by 8.30pm, not 10pm.
 
-**Dress for four hours of standing still.** London's overnight low in late December averages around 4°C, and you will be motionless beside a tidal river with nowhere to sit. Thermals, hat, gloves, layers you keep on rather than carry.
+**Dress for four hours of standing still.** London's overnight low in late December averages around 4°C, and you will be motionless beside a tidal river with nowhere to sit. Thermals, hat, gloves, layers you keep on, not carry.
 
 **Travel light.** There is no re-entry, no lockers, and outside the Orange area no seating of any kind, including your own. There are toilets inside the viewing areas and effectively none outside them — see our guide to [public toilets in London](/articles/public-toilets-london/).
 

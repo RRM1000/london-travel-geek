@@ -37,7 +37,7 @@ faq:
 
 ## Which cruise to pick
 
-| If you want | Book | Adult price | What decides it |
+| If you want | Book | Adult price | Details |
 | --- | --- | --- | --- |
 | Landmarks with a guide, cheapest | City Cruises one-day pass | £9 online | Unlimited trips between Westminster, London Eye, Tower and Greenwich piers until the last boat; captain's commentary in English, app in 14 languages |
 | Westminster to Greenwich, one way | Thames River Sightseeing | from £14.62 online | An hour with the skipper talking; tickets also sold at the pier, and good on any sailing that day |
@@ -163,7 +163,7 @@ The Westminster to Greenwich sightseeing boats turn at Greenwich. The choices ar
 
 - **Fares from Westminster (2026):** Kew **£20** single, **£27** return; Richmond **£22** and **£33**; Hampton Court **£27** and **£36**. Children 5 to 15 half price; seniors 60+ £17 to £21 single; family tickets for two adults and two children.
 - **Times:** one departure a day from Westminster at **11:00** in September 2026, reaching Kew in about 1h 15m to 1h 45m and Hampton Court in about 3h 15m. The return from Hampton Court leaves at 15:00.
-- **The one thing that decides it:** sailings follow the tide and change week to week, and there are **no Westminster sailings from 28 September to 6 October 2026**. The [upcoming sailings page](https://www.thamesriverboats.co.uk/river-tour-information/upcoming-sailings) lists every boat for the next fortnight.
+- **Sailings follow the tide** and change week to week, and there are **no Westminster sailings from 28 September to 6 October 2026**. The [upcoming sailings page](https://www.thamesriverboats.co.uk/river-tour-information/upcoming-sailings) lists every boat for the next fortnight.
 - Tickets online or at the pier offices. A bar on board takes cash or card.
 
 Going one way by boat and back by train makes the day workable: [Kew Gardens](/articles/kew-gardens-guide/) is 1h 15m from Westminster, and [Richmond](/articles/richmond-area-guide/) has a direct train to Waterloo. GetYourGuide also sells the <a href="https://www.getyourguide.com/activity/-t492850?partner_id=WWP7I0R&amp;cmp=thames-river-cruises-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Westminster to Hampton Court cruise</a> from £27.

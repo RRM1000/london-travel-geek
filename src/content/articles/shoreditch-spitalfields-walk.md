@@ -21,9 +21,9 @@ faq:
   - q: "Can you go inside Christ Church Spitalfields?"
     a: "Only on Sunday afternoons. The church's own guidance is that it opens to the public on Sundays from 1pm to 4pm. The vestibule opens 10am to 3pm on Monday and Tuesday, from which you can see into the nave but not walk into it, and group tours of up to twelve people are £60 and need booking two weeks ahead. On every other day you are looking at Hawksmoor's portico and spire from the outside."
   - q: "Which is the real Brick Lane bagel shop?"
-    a: "There are two, a few doors apart at the north end, and that is the thing that catches people out. Beigel Bake at 159 Brick Lane is the one whose own site states it trades 24 hours a day, seven days a week. The Beigel Shop at 155 is a separate business with a yellow shopfront — so 'look for the yellow one' sends you to the other shop. Both sell salt beef beigels and both have queues."
+    a: "There are two, a few doors apart at the north end, and that catches people out. Beigel Bake at 159 Brick Lane is the one whose own site states it trades 24 hours a day, seven days a week. The Beigel Shop at 155 is a separate business with a yellow shopfront — so 'look for the yellow one' sends you to the other shop. Both sell salt beef beigels and both have queues."
   - q: "How long does the Shoreditch and Spitalfields walk take?"
-    a: "The walking itself is 2.6km and about 35 minutes. Realistically it is a half day, because most of the eleven stops are markets you go into rather than buildings you look at — and if you do Columbia Road properly at 8am and finish at Petticoat Lane, it fills a Sunday morning and most of the afternoon."
+    a: "The walking itself is 2.6km and about 35 minutes. Realistically it is a half day, because most of the eleven stops are markets you go into, not buildings you look at — and if you do Columbia Road at 8am and finish at Petticoat Lane, it fills a Sunday morning and most of the afternoon."
 ---
 
 In this part of London the question is not where to go. It is **which day**.
@@ -75,13 +75,13 @@ For the wider area — the bars, Hoxton, where to stay — see the [Shoreditch a
 
 ## 1. Columbia Road Flower Market
 
-**Sunday, from 8am until about 3pm.** The market's own site gives the hours as "8am 'til 3'ish"; Tower Hamlets, which licenses it, has the traders down until 2pm. Treat the last hour as the wind-down rather than a guarantee.
+**Sunday, from 8am until about 3pm.** The market's own site gives the hours as "8am 'til 3'ish"; Tower Hamlets, which licenses it, has the traders down until 2pm. Treat the last hour as the wind-down, not a guarantee.
 
 There is no midweek version. Six days a week Columbia Road is a quiet Victorian terrace in Bethnal Green; on the seventh it is a solid wall of cut flowers and potted plants with growers shouting over the top of them, and it is the best hour on this walk by a distance.
 
 **Go at 8am or after 2pm, and not in between.** Early gets you room to move, the pick of the stock and a conversation with the person who grew the thing. The last hour is when traders cut prices hard rather than cart stock home, and it is where the shouting the market is famous for actually happens. Between about ten and one you are wedged in a crowd, unable to carry a plant.
 
-**The shops are half the reason to come.** The market's own site counts around **sixty independent businesses** along the street — galleries, ceramics, vintage, delis, a perfumer, bakeries — and they open on Sunday because the market does. Some also trade during the week, which is worth knowing if you are here on a Saturday and want the street without the crush.
+**The shops are half the reason to come.** The market's own site counts around **sixty independent businesses** along the street — galleries, ceramics, vintage, delis, a perfumer, bakeries — and they open on Sunday because the market does. Some also trade during the week, which helps if you are here on a Saturday and want the street without the crush.
 
 > ⚠️ **If you are not walking on a Sunday, start at stop 2 instead.** Columbia Road is not a thin version of itself midweek; it is a residential street. Arnold Circus is six minutes' walk south and the route works perfectly well from there.
 
@@ -103,15 +103,15 @@ Two minutes further and the tone changes completely.
 
 **Redchurch Street is the design end of Shoreditch** — a short run of independent fashion, skincare, homeware and coffee, the sort of street where a shop sells eight objects and every one of them is beautifully lit. Ten minutes end to end.
 
-The reason it is on the route rather than in a shopping guide is what runs off it. **Chance Street and the alleys around it are walled with murals**, and they are repainted constantly. This is where the street art tours end up and where you are most likely to find someone actually working on a wall on a weekday morning.
+It is on the route, not in a shopping guide, because of what runs off it. **Chance Street and the alleys around it are walled with murals**, and they are repainted constantly. This is where the street art tours end up and where you are most likely to find someone actually working on a wall on a weekday morning.
 
-**Do not come with a list.** Pieces here last months rather than years. The mural you saw online has a decent chance of being gone, and the one that replaced it is the point.
+**Do not come with a list.** Pieces here last months, not years. The mural you saw online has a decent chance of being gone, and the one that replaced it is what you will see.
 
 ## 4. The north end of Brick Lane and the two bagel shops
 
-You join Brick Lane at the railway bridge, and this is where the walk properly starts.
+You join Brick Lane at the railway bridge, and this is where the walk starts.
 
-**There are two bagel shops here, not one, and this is the thing that catches people out.** They are a few doors apart, both with queues, both selling salt beef beigels, and both are separate businesses:
+**There are two bagel shops here, not one, and that catches people out.** They are a few doors apart, both with queues, both selling salt beef beigels, and both are separate businesses:
 
 - **Beigel Bake, 159 Brick Lane** — **open 24 hours, seven days a week**, which its own site states plainly and which is the fact everyone half-remembers.
 - **The Beigel Shop, 155 Brick Lane** — the yellow-fronted one, four doors down, and a completely separate business.
@@ -159,7 +159,7 @@ Weekend hours across all of them are broadly **Saturday 11am–6pm and Sunday 10
 
 **The one place on this walk that is never shut, and the reason a midweek version of this route still works.**
 
-It is underground. You go down a neon-lit staircase off Brick Lane into the basement of **F Block at 85 Brick Lane**, and the operator's description of it is "an iconic underground vintage haven and the largest vintage market in the UK" with **over 100 shops** in it. Traders come from across the UK and Europe rather than a rota of local stalls, so each unit is effectively its own boutique with its own eye, and one aisle runs from restrained tailoring to completely mad within a few metres.
+It is underground. You go down a neon-lit staircase off Brick Lane into the basement of **F Block at 85 Brick Lane**, and the operator's description of it is "an iconic underground vintage haven and the largest vintage market in the UK" with **over 100 shops** in it. Traders come from across the UK and Europe, not a rota of local stalls, so each unit is effectively its own boutique with its own eye, and one aisle runs from restrained tailoring to completely mad within a few metres.
 
 **The range is much wider than "vintage" implies.** The market's own listing runs from **the 1920s through to the 1990s** — fur and feather capes, vintage bridal wear, men's suits, hats, sunglasses, bags and jewellery — with **racks of vinyl** to flick through between the clothes.
 
@@ -179,7 +179,7 @@ Hanbury Street crosses Brick Lane at the vintage market, and the walls both side
 
 **This is a two-minute detour that most people already do by accident**, and it is worth doing deliberately. Walk east off Brick Lane, then back and west, and look up as well as ahead — a good share of the best work here is above shopfront height, on gable ends and the sides of yards.
 
-As with Redchurch Street, treat it as a walk rather than a checklist. Pieces get painted over within months, which is the deal the artists work to and the reason the street is worth coming back to.
+As with Redchurch Street, treat it as a walk, not a checklist. Pieces get painted over within months, which is the deal the artists work to and the reason the street is worth coming back to.
 
 ![Two large mural faces with green rope-like hair and a pink nebula painted between them, on a Shoreditch corner](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
 
@@ -202,7 +202,7 @@ Three waves of arrivals, one set of walls, and getting on for three centuries of
 
 **Find the sundial before you move on.** It is set in the pediment of the Fournier Street elevation, it carries the date **1743**, and the motto cut beneath it is **UMBRA SUMUS** — "we are but shadow". It has watched three congregations come and go and it is still keeping time.
 
-It is a working mosque rather than a visitor attraction — visits are arranged for schools, colleges and community groups — so this is a stop you look at from the pavement.
+It is a working mosque, not a visitor attraction — visits are arranged for schools, colleges and community groups — so this is a stop you look at from the pavement.
 
 ## 9. Fournier Street and Christ Church Spitalfields
 
@@ -214,7 +214,7 @@ At the west end, **Christ Church Spitalfields**, and this is the day-of-the-week
 
 > ⚠️ **The church opens to visitors on Sundays, 1pm to 4pm.** That is the church's own guidance and it is the only general public opening in the week. The **vestibule** opens **10am to 3pm on Monday and Tuesday**, from which you can see into the nave but not walk into it. Group tours of up to twelve are **£60** and need booking at least two weeks ahead. On a Wednesday, Thursday, Friday or Saturday you are looking at the outside.
 
-The outside is not a consolation prize. It is **Nicholas Hawksmoor's**, built **1723–29** and opened on 5 July 1729 under the Fifty New Churches Act; **Grade I listed** since 1950. Historic England's entry is blunt about the effect — "white ashlar tower and spire dominate the Spitalfields area" — and the western portico of four giant Tuscan columns is the thing to stand in front of. A restoration finished in 2004 and the redeveloped crypt opened in 2015.
+The outside is not a consolation prize. It is **Nicholas Hawksmoor's**, built **1723–29** and opened on 5 July 1729 under the Fifty New Churches Act; **Grade I listed** since 1950. Historic England's entry is blunt about the effect — "white ashlar tower and spire dominate the Spitalfields area" — and the western portico of four giant Tuscan columns is where to stand. A restoration finished in 2004 and the redeveloped crypt opened in 2015.
 
 **The Ten Bells is on the corner** at 84 Commercial Street: Grade II listed, recorded on the list as **founded in 1666 with the present building mid-nineteenth century**, and the listing singles out the **coloured Victorian tiled plaque of an eighteenth or nineteenth-century street scene** inside the Commercial Street entrance. See the eating section below for when its kitchen is actually on.
 
@@ -279,7 +279,7 @@ Three answers, and the day decides between them rather than the food.
 
 **Upmarket, 83 Brick Lane (£), at stop five** — the food hall inside the Truman Brewery, with over forty street food traders and **open every day**: 11am to 6pm Monday to Saturday, 10am to 6pm Sunday. Ely's Yard behind it is outdoor food trucks, also seven days. This is the answer at the halfway point and the answer on a Monday.
 
-**The Kitchens at Old Spitalfields (£), at stop ten** — around a dozen counters around long shared tables, **11am–6pm Monday to Saturday and 11am–5pm Sunday**, entirely covered. The wet-weather answer, and the one that lands at the end of the walk rather than the middle.
+**The Kitchens at Old Spitalfields (£), at stop ten** — around a dozen counters around long shared tables, **11am–6pm Monday to Saturday and 11am–5pm Sunday**, entirely covered. The wet-weather answer, and the one that lands at the end of the walk, not the middle.
 
 ![Long communal tables full of people eating in front of the food counters at Old Spitalfields Market](../../assets/articles/shoreditch-area-guide/old-spitalfields-kitchens.jpg)
 
@@ -287,7 +287,7 @@ Three answers, and the day decides between them rather than the food.
 
 **A salt beef beigel at 159 Brick Lane (£), at stop four** — the one that is open whatever time you get there, because it never closes.
 
-**For a pint rather than lunch, the Ten Bells** at stop nine is open seven days — noon to midnight Monday to Wednesday, 11am to 1am Thursday to Saturday, 11am to midnight on Sunday. **The kitchen is closed on Mondays** and runs noon to 9pm the rest of the week, so a Monday visit is a drink rather than a meal.
+**For a pint rather than lunch, the Ten Bells** at stop nine is open seven days — noon to midnight Monday to Wednesday, 11am to 1am Thursday to Saturday, 11am to midnight on Sunday. **The kitchen is closed on Mondays** and runs noon to 9pm the rest of the week, so on a Monday you can have a drink but not a meal.
 
 **Brick Lane's curry houses** are at stop eight and are a separate decision from this walk. Be selective, ignore the touts, and see the [area guide](/articles/shoreditch-area-guide/#where-to-eat-and-drink) for the full picture.
 
@@ -308,7 +308,7 @@ Three answers, and the day decides between them rather than the food.
 
 **What does not care what day it is:** Arnold Circus, Redchurch Street, the street art, the Jamme Masjid from the pavement, Fournier Street, Beigel Bake, the Brick Lane Vintage Market, Upmarket, Ely's Yard, Old Spitalfields and Rough Trade East. That is still seven of the eleven stops.
 
-**If you came to shop rather than to look, a Tuesday or a Thursday beats a Sunday outright.** The basement vintage market is the biggest of its kind in the country and holds over a hundred traders; on a Sunday you cannot work a rail, and on a Tuesday you can go through it properly and get a conversation with the person selling. Thursday adds the antiques market from 8am and a floor of makers upstairs at Artisan. Old Spitalfields' Kitchens run all week. Fournier Street is better empty. Nobody is shouting at you on Brick Lane.
+**If you came to shop rather than to look, a Tuesday or a Thursday beats a Sunday outright.** The basement vintage market is the biggest of its kind in the country and holds over a hundred traders; on a Sunday you cannot work a rail, and on a Tuesday you can go through it and get a conversation with the person selling. Thursday adds the antiques market from 8am and a floor of makers upstairs at Artisan. Old Spitalfields' Kitchens run all week. Fournier Street is better empty. Nobody is shouting at you on Brick Lane.
 
 The Sunday version is the better *day out*. The weekday version is the better *shop*, and it is the one almost no guide recommends.
 

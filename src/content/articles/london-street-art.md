@@ -30,7 +30,7 @@ faq:
 
 Most Banksy maps of London send you to walls where the work no longer exists. Pieces get removed, painted over, stolen, sold with the wall attached, or covered in perspex that makes them impossible to photograph.
 
-This guide **says which are gone**, which is the single most useful thing a street art guide can do.
+This guide **says which are gone**, which saves a wasted trip.
 
 **It covers two things.** The first half is Banksy — what survives, what has been removed, and the indoor collections showing work that has come off walls. The second half is the rest of London's street art, which is where most of the city's best painting actually is and none of which needs a ticket.
 
@@ -59,7 +59,7 @@ This guide **says which are gone**, which is the single most useful thing a stre
 
 **[See ten of them in one day →](/articles/banksy-walk-london/)** Eight stops from Waterloo Place to Stoke Newington, with a map, the Tube and Overground legs, and what you can actually see at each. The short version is at the bottom of this page.
 
-**For every Banksy ever recorded in London**, including the ones that have gone, [Banksy Map](https://banksymap.com/explore/london-map/) plots them all with photographs. Treat its status labels as a starting point rather than a verdict: in September 2026 it still showed the Kew goat, cut out in February 2025, as in place, and the Foundry rat on art'otel Hoxton as boarded up three years after it came back into view.
+**For every Banksy ever recorded in London**, including the ones that have gone, [Banksy Map](https://banksymap.com/explore/london-map/) plots them all with photographs. Treat its status labels as a starting point, not a verdict: in September 2026 it still showed the Kew goat, cut out in February 2025, as in place, and the Foundry rat on art'otel Hoxton as boarded up three years after it came back into view.
 
 ---
 
@@ -115,7 +115,7 @@ A 2008 piece showing a boy fishing, stencilled right on the **Thames Path at Ber
 
 **It is now so faded it is hard to make out**, so do not make the trip for this alone. It is free, outdoors and on a public riverside path that never closes.
 
-**Do it as a walk rather than a destination.** The Thames Path runs east from Tower Bridge past Shad Thames and Butler's Wharf, and the piece is about fifteen minutes along it — with the Angel pub and the remains of Edward III's manor house on the same stretch.
+**Do it as a walk, not a destination.** The Thames Path runs east from Tower Bridge past Shad Thames and Butler's Wharf, and the piece is about fifteen minutes along it — with the Angel pub and the remains of Edward III's manor house on the same stretch.
 
 Bermondsey station on the Jubilee line is about ten minutes inland; London Bridge is fifteen minutes west along the river.
 
@@ -189,7 +189,7 @@ The newest Banksy in London and the easiest to see. A suited figure stepping dow
 
 **It is the one to see if you only see one.** No ticket, no fence to peer through, no residential street to feel awkward on, and it is **two minutes from Piccadilly Circus and five from Trafalgar Square** — so it costs you nothing but the walk.
 
-**Go soon rather than eventually.** Nothing about its future is settled: the council has not committed to keeping it, and the barriers are a holding measure rather than a decision.
+**Go soon rather than eventually.** Nothing about its future is settled: the council has not committed to keeping it, and the barriers are a holding measure, not a decision.
 
 ### The Finsbury Park tree
 
@@ -201,7 +201,7 @@ Still there, still fenced, still damaged. It is on **Hornsey Road in Islington**
 
 **Free and visible from the pavement**, but the fencing and the CCTV mean you are looking at it through a barrier rather than standing in front of it, and the white paint over the green is not coming off.
 
-**The tree is the point and it changes with the seasons.** The piece only works when the cherry is bare, because the green wall behind is standing in for the foliage it has lost — **go between November and March** and it reads as intended. In summer the real leaves come back and the joke disappears.
+**The tree changes with the seasons.** The piece only works when the cherry is bare, because the green wall behind is standing in for the foliage it has lost — **go between November and March** and it reads as intended. In summer the real leaves come back and the joke disappears.
 
 Finsbury Park station is about ten minutes' walk.
 
@@ -234,9 +234,9 @@ Banksy is a fraction of it, and the rest is more interesting.
 
 *Free · legal · always changing*
 
-A three-hundred-metre tunnel under Waterloo station where graffiti is **legal and repainted continuously**. It is the only place in London where you can reliably watch work being made rather than just look at it — on any given afternoon somebody is painting, and they are happy to be watched.
+A three-hundred-metre tunnel under Waterloo station where graffiti is **legal and repainted continuously**. It is the only place in London where you can reliably watch work being made, not just look at it — on any given afternoon somebody is painting, and they are happy to be watched.
 
-**Free, open at all hours, and roofed**, which makes it one of the best wet-weather hours in central London. Nothing lasts: a wall painted on Monday may be gone by Friday, so what you photograph is genuinely yours alone.
+**Free, open at all hours, and roofed**, which makes it one of the best wet-weather hours in central London. Nothing lasts: a wall painted on Monday may be gone by Friday, so what you photograph is yours alone.
 
 **Bring nothing and buy nothing** — there is no shop, no ticket and no guide. There are bars, a bowling alley and a restaurant in the arches off it if you want to stay.
 
@@ -264,11 +264,11 @@ The densest concentration in London, and it changes month to month. **Rivington 
 
 *Free · canal towpath · open at all hours*
 
-Large-scale murals along the **Lee Navigation towpath**, on warehouse walls and canal bridges, produced by a working artists' community rather than commissioned for tourists — which is why the scale and the standard are both higher than Shoreditch and the crowd is a fraction of it.
+Large-scale murals along the **Lee Navigation towpath**, on warehouse walls and canal bridges, produced by a working artists' community, not commissioned for tourists — which is why the scale and the standard are both higher than Shoreditch and the crowd is a fraction of it.
 
 **Walk it from Hackney Wick station south to the Olympic Park**, about twenty-five minutes, and the murals are more or less continuous. The towpath is flat, free and never closes.
 
-**It is a genuinely different experience from Shoreditch.** Nobody is running tours here, there is no map, and much of the best work faces the water rather than the street — so you see it from the towpath and not from anywhere else.
+**It is a different experience from Shoreditch.** Nobody is running tours here, there is no map, and much of the best work faces the water, not the street — so you see it from the towpath and not from anywhere else.
 
 The warehouses hold breweries and canalside bars that open at weekends and are mostly shut midweek. Hackney Wick on the Overground is the station.
 
@@ -306,11 +306,11 @@ Brixton Village and Pope's Road murals are five minutes away if you want to make
 
 *Free · Wood Street Walls*
 
-One of the real hubs of large-scale London street art, built up over a decade by the **Wood Street Walls** project, which has put dozens of community-backed murals on gable ends across E17 — negotiated with residents rather than imposed, which is why they have lasted.
+One of the real hubs of large-scale London street art, built up over a decade by the **Wood Street Walls** project, which has put dozens of community-backed murals on gable ends across E17 — negotiated with residents, not imposed, which is why they have lasted.
 
 **It also has one of the three surviving pieces from Banksy's 2024 animal series**: the **Pelicans on Pretoria Avenue**, two birds painted above a fish and chip shop and seemingly eyeing up the fish inside. Free, outdoors and still in place.
 
-**The murals are spread across residential E17 rather than concentrated**, so this is a walk of an hour or more rather than a single street. Wood Street and Walthamstow Central are the two stations, about fifteen minutes apart on foot.
+**The murals are spread across residential E17**, so this is a walk of an hour or more rather than a single street. Wood Street and Walthamstow Central are the two stations, about fifteen minutes apart on foot.
 
 **Combine it with Sunday.** Walthamstow's market — the longest daily street market in Europe — runs along the High Street, and God's Own Junkyard, the neon warehouse, opens Friday to Sunday only.
 
@@ -330,9 +330,9 @@ The quiet alternative to east London, and much the strangest idea on this page. 
 
 *Free · RISE Gallery and the Croydon Collection*
 
-Genuinely underrated and rarely walked by visitors, which is the whole recommendation. RISE Gallery, founded in 2014, brokered most of it — negotiating between artists and building owners rather than painting illegally — and **The Croydon Collection** is the umbrella name for the borough's permanent murals.
+Rarely walked by visitors, and that is what recommends it. RISE Gallery, founded in 2014, brokered most of it — negotiating between artists and building owners rather than painting illegally — and **The Croydon Collection** is the umbrella name for the borough's permanent murals.
 
-**The scale is what surprises people.** These are full building-side works on office blocks and car parks rather than shutter art, and several are visible from the tram.
+**The scale is what surprises people.** These are full building-side works on office blocks and car parks, not shutter art, and several are visible from the tram.
 
 **Free, outdoors, and concentrated enough to walk in an hour** around the town centre, which is a different proposition from Dulwich's scattered trail.
 
@@ -342,7 +342,7 @@ Genuinely underrated and rarely walked by visitors, which is the whole recommend
 
 *Free · Penge High Street · open at all hours*
 
-Dozens of murals along and around the high street, coordinated locally over several years rather than commissioned in one go — which is why the styles vary so much and why they keep appearing.
+Dozens of murals along and around the high street, coordinated locally over several years, not commissioned in one go — which is why the styles vary so much and why they keep appearing.
 
 **This is the least visited entry on this page by a wide margin**, and that is the appeal: an ordinary south London high street that decided to paint itself, with no tour groups and nothing charging admission.
 
@@ -358,7 +358,7 @@ Dozens of murals along and around the high street, coordinated locally over seve
 
 Everything else in this guide is on a wall in the street, free, and might be gone within a week. These are the opposite: originals indoors, where they are not going anywhere.
 
-**Two are public museums holding single works that came off the street**: the piranhas at the London Museum and a rat at the London Transport Museum. **The third is a private collection**, Moco Museum. It is not run by Banksy; it is assembled from resale pieces and mounted commercially. That is not a criticism, but it is the thing to understand before you pay: you are seeing a collector's holdings, not an artist's show.
+**Two are public museums holding single works that came off the street**: the piranhas at the London Museum and a rat at the London Transport Museum. **The third is a private collection**, Moco Museum. It is not run by Banksy; it is assembled from resale pieces and mounted commercially. That is not a criticism, but understand it before you pay: you are seeing a collector's holdings, not an artist's show.
 
 ### The piranhas, London Museum, Smithfield
 
@@ -392,7 +392,7 @@ Moco is a private modern-art museum with sister sites in Amsterdam and Barcelona
 
 ### The gift shops
 
-**Moco has one, and it is the realistic souvenir answer.** The shop is a substantial part of the visit rather than a rack by the exit. It sells no original Banksy work — for that, see **Where to buy it** below — but a poster costs a fraction of a Di-Faced Tenner and is honestly labelled as what it is.
+**Moco has one, and it is the realistic souvenir answer.** The shop is a substantial part of the visit, not a rack by the exit. It sells no original Banksy work — for that, see **Where to buy it** below — but a poster costs a fraction of a Di-Faced Tenner and is labelled as what it is.
 
 ---
 
@@ -415,7 +415,7 @@ There are two completely separate markets here and they have almost nothing to d
 
 **Nelly Duff is the one to do on a Sunday**, because Columbia Road Flower Market is happening outside the door and the gallery opens at 9am to catch it. It is the only gallery here with useful Sunday hours.
 
-> ⚠️ **StolenSpace shows its prices before VAT.** Add 20% to anything you see there before deciding what you can afford — it is the single most expensive assumption to get wrong on this page.
+> ⚠️ **StolenSpace shows its prices before VAT.** Add 20% to anything you see there before deciding what you can afford — it is the most expensive assumption to get wrong on this page.
 
 ### If it is a Banksy you want
 
@@ -427,11 +427,11 @@ There are two completely separate markets here and they have almost nothing to d
 
 > 💡 **The Di-Faced Tenner is the sane entry point.** It is a printed banknote from the 2004 stunt rather than a signed edition, so it costs low thousands instead of tens of thousands, and it is unambiguously the real thing. Anything cheaper claiming to be Banksy is a poster.
 
-> ⚠️ **Authentication matters more here than anywhere else in art.** Banksy's own body, Pest Control, is the only issuer of certificates, and unauthenticated work is effectively unsaleable. Never buy a Banksy on the strength of a gallery's word alone — ask for the Pest Control paperwork before money moves.
+> ⚠️ **Authentication counts for more here than anywhere else in art.** Banksy's own body, Pest Control, is the only issuer of certificates, and unauthenticated work is effectively unsaleable. Never buy a Banksy on the strength of a gallery's word alone — ask for the Pest Control paperwork before money moves.
 
 ### Gift shops rather than galleries
 
-**Jealous and Nelly Duff both sell at gift-shop prices as well as gallery ones** — small unframed editions, cards and prints in the tens rather than the hundreds — which makes them the realistic answer to "I want to take some London street art home". Nelly Duff also does framing, so you can walk out with something ready to hang.
+**Jealous and Nelly Duff both sell at gift-shop prices as well as gallery ones** — small unframed editions, cards and prints in the tens, not the hundreds — which makes them the realistic answer to "I want to take some London street art home". Nelly Duff also does framing, so you can walk out with something ready to hang.
 
 **Leake Street has no shop**, which surprises people. The tunnel is legal and constantly repainted but entirely uncommercial, so the spray-paint shops around Shoreditch and Brick Lane are where the artists themselves buy.
 
@@ -439,14 +439,14 @@ There are two completely separate markets here and they have almost nothing to d
 
 ## What it costs
 
-**Nothing.** This is the most genuinely free thing to do in London, and one of the very few that changes week to week.
+**Nothing.** This is completely free, and one of the very few things to do in London that changes week to week.
 
 * **Walk it yourself.** Shoreditch, Hackney Wick, Camden, Brixton, Croydon and Penge all reward an aimless hour, and everything in this guide is on a public street.
 * **Guided tours** run roughly £15–£30 and are worth it once, because the good guides know which pieces are painted over what, and who fell out with whom. The free walking tours are tip-based rather than actually free. Our [walking tours guide](/articles/best-walking-tours-london/#street-art) covers Alternative London's two, with and without a spray-painting workshop.
 * **Leake Street tunnel** under Waterloo is legal, free, open all hours, and repainted constantly — the only place in London you can watch it being made.
 * **The indoor Banksys are mostly the exception to the free rule.** Moco Museum is from £16.90 and runs year-round; the London Transport Museum's rat needs a £27 annual pass. The piranhas at the London Museum, from 28 November 2026, are free.
 * **Buying it is a different question entirely.** A print by a working street artist from a Shoreditch gallery runs from the low tens to a few hundred pounds. A resale Banksy starts around £2,450 for a Di-Faced Tenner and climbs steeply from there. See **Where to buy it** above.
-* **Nothing here is permanent.** Everything in this guide was checked in August 2026 and a piece can go the week after publication, which is the nature of the form rather than a flaw in it.
+* **Nothing here is permanent.** Everything in this guide was checked in August 2026 and a piece can go the week after publication, which is the nature of the form, not a flaw in it.
 
 ---
 

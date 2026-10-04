@@ -99,7 +99,7 @@ These are homes, not a sight, so there is nothing to enter. Cut south from here 
 
 Inside is one narrow room running back from the bar to a small **riverside terrace**, which arrived with extensions built between the 1950s and the 1980s.
 
-**The thing worth knowing is next door.** Wapping Old Stairs drop to the foreshore, and at low tide you can still see the post that condemned pirates were chained to, to drown as the tide came up over them. The notorious Judge Jeffreys was caught outside the pub in 1688, trying to leave the country disguised as a sailor.
+**Next door,** Wapping Old Stairs drop to the foreshore, and at low tide you can still see the post that condemned pirates were chained to, to drown as the tide came up over them. The notorious Judge Jeffreys was caught outside the pub in 1688, trying to leave the country disguised as a sailor.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-canary-wharf-walk-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -165,7 +165,7 @@ Walk the south side to the lock, where the basin drops to the river, and come ou
 
 **The fourth pub, and the one people come to Limehouse for.** The Grapes at number 76 is a Victorian long bar — panelled dado, burgundy walls, oil paintings — opening into the **Dickens Snug**, named for a patron who put the pub into *Our Mutual Friend* and is said to have danced on the tables in it. **Sir Ian McKellen is the leaseholder** and a director of the company that runs it. Out the back, a small **heated terrace hangs over the Thames**; upstairs, a first-floor drinking room with Canary Wharf to the left and the City to the right.
 
-**Open noon to 11pm Monday to Saturday and noon to 10.30pm on Sunday.** The bar menu is served downstairs and on the deck. **It takes no table reservations at any time**, which is the one thing to plan around on this walk: come on a weekday, or come early. Monday is quiz night from 8pm, and no under-18s are allowed in at any hour.
+**Open noon to 11pm Monday to Saturday and noon to 10.30pm on Sunday.** The bar menu is served downstairs and on the deck. **It takes no table reservations at any time**, so plan around that on this walk: come on a weekday, or come early. Monday is quiz night from 8pm, and no under-18s are allowed in at any hour.
 
 Two more places on the same stretch, in walking order:
 
@@ -190,9 +190,9 @@ It is also stop 1 of our **[Canary Wharf to Greenwich walk](/articles/canary-wha
 
 Three places worth five minutes each, none of them on the direct line.
 
-**Wapping Woods** is the wood the canal runs beside at stop 5 — planted on the filled-in dock, with benches by the water and paths that wander in among the trees instead of sticking to the towpath. Free, open at all times and almost always empty. **Worth the five minutes if** you want to walk under the trees rather than stay on the straight path beside the water.
+**Wapping Woods** is the wood the canal runs beside at stop 5 — planted on the filled-in dock, with benches by the water and paths that wander in among the trees instead of sticking to the towpath. Free, open at all times and almost always empty. **Worth the five minutes if** you want to walk under the trees instead of staying on the straight path beside the water.
 
-**Tobacco Dock** is a Grade I listed warehouse built in 1812 for imported tobacco, brick vaults below and a timber and iron roof above, now an events venue. The canal runs along its south side at stop 5, so you pass the outside whatever you do, and it opens to the public only for public events, which it lists on its own site. **Worth the five minutes if** there is an event on, or you want to walk the full length of the frontage and look at the brickwork properly.
+**Tobacco Dock** is a Grade I listed warehouse built in 1812 for imported tobacco, brick vaults below and a timber and iron roof above, now an events venue. The canal runs along its south side at stop 5, so you pass the outside whatever you do, and it opens to the public only for public events, which it lists on its own site. **Worth the five minutes if** there is an event on, or you want to walk the full length of the frontage and look at the brickwork.
 
 ![Inside the Yurt Café: a round timber-ribbed ceiling hung with lights and flowers, wooden tables on a patterned rug and the counter at the back](../../assets/articles/wapping-canary-wharf-walk/yurt-cafe.jpg)
 

@@ -181,7 +181,7 @@ A Fuller's pub with 30 rooms upstairs, on Stamford Street just south of Blackfri
 
 *A double at The Mad Hatter.*
 
-**The catch is the arrival window: check-in runs 3pm to 11pm only.** A late flight needs a call ahead. There is a lift, some rooms interconnect, children aged 2 to 12 need an extra bed at £35 a night including breakfast, and the hotel takes no cash.
+**Check-in runs 3pm to 11pm only.** A late flight needs a call ahead. There is a lift, some rooms interconnect, children aged 2 to 12 need an extra bed at £35 a night including breakfast, and the hotel takes no cash.
 
 ### The Hoxton, Southwark — Seabird on the roof
 

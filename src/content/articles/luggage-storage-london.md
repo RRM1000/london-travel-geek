@@ -27,9 +27,9 @@ faq:
   - q: "Can you store luggage at London City or Southend airport?"
     a: "No. Neither London City nor Southend has a left-luggage service in the terminal, so book a storage app with a shop or hotel nearby instead."
   - q: "Are luggage storage apps like Stasher and Bounce insured?"
-    a: "Each runs its own guarantee rather than an industry standard. Stasher covers up to £10,000 per booking, Bounce £10,000, Radical Storage €10,000 and Nannybag £10,000, all included in the price. LuggageHero includes £500 of cover in its one-time service fee and sells optional insurance upgrades on top. All of them beat the £200 per transaction that Excess Baggage Company caps its own station and airport liability at."
+    a: "Each runs its own guarantee, not an industry standard. Stasher covers up to £10,000 per booking, Bounce £10,000, Radical Storage €10,000 and Nannybag £10,000, all included in the price. LuggageHero includes £500 of cover in its one-time service fee and sells optional insurance upgrades on top. All of them beat the £200 per transaction that Excess Baggage Company caps its own station and airport liability at."
   - q: "Will a hotel store my bags before check-in or after check-out?"
-    a: "Most will, for their own guests, and it's usually free and no more formal than a name tag at the desk — worth asking even hours before a room is ready. For a longer gap than a bag drop covers, a day-use room from around £50 buys a bed and a shower rather than just a place to put a suitcase; see our day rooms guide for which hotels sell one and when the windows start."
+    a: "Most will, for their own guests, and it's usually free and no more formal than a name tag at the desk — worth asking even hours before a room is ready. For a longer gap than a bag drop covers, a day-use room from around £50 buys a bed and a shower, not just a place to put a suitcase; see our day rooms guide for which hotels sell one and when the windows start."
   - q: "Which London attractions won't let you bring a suitcase?"
     a: "The Tower of London refuses all suitcases, large bags and rolling luggage outright and has no cloakroom, per Historic Royal Palaces' own site. The Houses of Parliament bans any bag over 60cm x 40cm and has no cloakroom either. Wembley Stadium and The O2 both cap bags at A4 size with no exceptions for folding a bigger one down; The O2 sells paid bag storage outside its main entrance from £10, and Wembley has none on site."
   - q: "Why do London stations use a staffed desk instead of coin lockers?"
@@ -61,7 +61,7 @@ Excess Baggage Company gives a **20% discount on 15 or more items**, and its own
 
 **Desks open 07:00–23:00.** Network Rail lists Liverpool Street, London Bridge and Charing Cross as **open every day**; for King's Cross, Euston, Paddington, Waterloo and Victoria it lists **weekday hours only**, so ring the desk before a weekend drop-off (each number is on the station's Network Rail page). St Pancras International's desk is in The Circle, on the ground floor.
 
-**Why a staffed counter rather than a bank of coin lockers?** Excess Baggage Company's own FAQ answers it directly: every bag is security-screened **as required under the National Rail Security Programme**, which is why the service is over the counter rather than self-service.
+**Why a staffed counter rather than a bank of coin lockers?** Excess Baggage Company's own FAQ answers it directly: every bag is security-screened **as required under the National Rail Security Programme**, which is why the service is over the counter, not self-service.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="luggage-storage-london-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -90,7 +90,7 @@ Excess Baggage Company gives a **20% discount on 15 or more items**, and its own
 
 ## The storage apps: cheaper than any counter, if you can find one nearby
 
-Five networks book a bag into a nearby shop, hotel or storage room rather than a dedicated counter: **Stasher, Bounce, Radical Storage, LuggageHero and Nannybag**. All five work the same way — pick a location and a date online, get a confirmation code, drop the bag and show the code, then collect it any time before closing with the same code. Most also take a walk-up booking on the day if a slot is free.
+Five networks book a bag into a nearby shop, hotel or storage room instead of a dedicated counter: **Stasher, Bounce, Radical Storage, LuggageHero and Nannybag**. All five work the same way — pick a location and a date online, get a confirmation code, drop the bag and show the code, then collect it any time before closing with the same code. Most also take a walk-up booking on the day if a slot is free.
 
 | App | London locations | Price | Cover included |
 | --- | --- | --- | --- |
@@ -100,15 +100,15 @@ Five networks book a bag into a nearby shop, hotel or storage room rather than a
 | [LuggageHero](https://luggagehero.com/london/) | 881 | From £1.49/hour or £4.90/day, + £1.60 one-time fee/bag | £500 included; paid upgrades available |
 | [Nannybag](https://www.nannybag.com/en/luggage-storage/london) | Not published separately | £3.40/day small bag, £4.90 regular, £6.90 odd-size | £10,000 included |
 
-**Every figure here beats a station counter on price**, though a shopfront rather than a manned rail concourse is a different kind of trust — each network's own guarantee is the thing worth reading before a valuable bag goes into one. **Nannybag is now run inside the Bounce network**: partner shops sign up and manage bookings on Bounce, while Nannybag keeps its own branding and pricing for customers.
+**Every figure here beats a station counter on price**, though a shopfront rather than a manned rail concourse is a different kind of trust — read each network's own guarantee before a valuable bag goes into one. **Nannybag is now run inside the Bounce network**: partner shops sign up and manage bookings on Bounce, while Nannybag keeps its own branding and pricing for customers.
 
 <div data-stay-strip></div>
 
 ## Hotels, and the day-room alternative
 
-**Most hotels will hold bags for their own guests before check-in or after check-out**, usually free and logged with nothing more than a name tag at the desk — it's worth asking even if a room won't be ready for hours. It's a courtesy rather than a guaranteed service, and it's for guests: a hotel you're not staying at has no obligation to take a stranger's suitcase.
+**Most hotels will hold bags for their own guests before check-in or after check-out**, usually free and logged with nothing more than a name tag at the desk — it's worth asking even if a room won't be ready for hours. It's a courtesy, not a guaranteed service, and it's for guests: a hotel you're not staying at has no obligation to take a stranger's suitcase.
 
-**If the gap is long enough to want a bed rather than just a shelf**, a day-use hotel room is the better trade. About 245 London hotels sell one, from roughly £50 for a seven- or eight-hour window — a bed, a shower and somewhere to sit rather than a locker and a coffee shop. Our [day rooms guide](/articles/day-rooms-london/) covers which hotels sell one, when the windows start, and the ones open early enough for a 6am landing.
+**If the gap is long enough to want a bed rather than just a shelf**, a day-use hotel room is the better trade. About 245 London hotels sell one, from roughly £50 for a seven- or eight-hour window — a bed, a shower and somewhere to sit instead of a locker and a coffee shop. Our [day rooms guide](/articles/day-rooms-london/) covers which hotels sell one, when the windows start, and the ones open early enough for a 6am landing.
 
 ## Where you can't take a bag in
 
@@ -121,7 +121,7 @@ Four big venues publish bag limits that turn a suitcase away at the door.
 | Wembley Stadium | One small bag per person, no bigger than A4 (297mm × 210mm × 210mm) | Folding a bigger bag down doesn't count; no storage on site |
 | The O2 | One bag per person, A4 or a standard handbag | Paid bag store outside the main entrance, £10 (free for American Express cardholders) |
 
-**The Tower of London's own FAQ is unambiguous**: "Visitors must always keep their belongings with them. No left luggage or bag storage facilities are available. Suitcases, large bags, and any rolling luggage will not be permitted inside the Tower." **The Houses of Parliament's own site** is just as direct: "There are no cloakrooms, so you need to keep your belongings with you at all times. Luggage larger than 60cm x 40cm is not allowed." If you are carrying a case, book a storage app near the attraction rather than a desk at the station you arrived at.
+**The Tower of London's own FAQ is unambiguous**: "Visitors must always keep their belongings with them. No left luggage or bag storage facilities are available. Suitcases, large bags, and any rolling luggage will not be permitted inside the Tower." **The Houses of Parliament's own site** is just as direct: "There are no cloakrooms, so you need to keep your belongings with you at all times. Luggage larger than 60cm x 40cm is not allowed." If you are carrying a case, book a storage app near the attraction, not a desk at the station you arrived at.
 
 ![Visitors queueing at the Tower of London's entrance beside the Middle Tower, with a bag-check marquee and a Yeoman Warder at the gate](../../assets/articles/luggage-storage-london/tower-of-london-entrance-gate.jpg)
 
@@ -132,7 +132,7 @@ Four big venues publish bag limits that turn a suitcase away at the door.
 ## Continue planning your London trip
 
 - ✈️ **[Heathrow Airport to London](/articles/heathrow-airport-to-london/)**, **[Gatwick](/articles/gatwick-airport-to-london/)**, **[Stansted](/articles/stansted-airport-to-london/)**, **[Luton](/articles/luton-airport-to-london/)**, **[London City](/articles/london-city-airport-to-london/)** and **[Southend](/articles/southend-airport-to-london/)** — every airport's own transport options compared
-- 🛏️ **[London Day Rooms](/articles/day-rooms-london/)** — booking a hotel room for a few hours rather than the night
+- 🛏️ **[London Day Rooms](/articles/day-rooms-london/)** — booking a hotel room for a few hours, not the night
 - 🎒 **[Best Hostels in London](/articles/best-hostels-london/)** — including which ones store bags for free
 - 🏟️ **[Wembley Stadium Guide](/articles/wembley-stadium-arena-guide/)** and **[The O2 Travel Guide](/articles/the-o2-travel-guide/)** — full bag rules for an event day
 - 🎪 **[ExCeL London Guide](/articles/excel-london-guide/)** — free cloakrooms, but bag policy is set by each show's own organiser, not the venue

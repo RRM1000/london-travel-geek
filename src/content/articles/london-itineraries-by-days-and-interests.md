@@ -1,7 +1,7 @@
 ---
 title: "How to Plan a London Itinerary That Actually Works"
 seoTitle: "London Itinerary Planner: How Many Days You Need"
-description: "How many days London needs, what genuinely sells out and how far ahead, what a day costs, and the plan to follow once you know."
+description: "How many days London needs, what sells out and how far ahead, what a day costs, and the plan to follow once you know."
 publishedAt: 2026-08-07
 updatedAt: 2026-09-25
 reviewBy: 2026-10-31
@@ -22,7 +22,7 @@ faq:
   - q: "Do I need a London Travelcard or Oyster card?"
     a: "Usually neither. A contactless bank card taps in the same way and hits the same £8.90 Zones 1–2 daily cap, so most visitors need nothing extra. See our fares guide for the exceptions, including children aged 11 to 15."
   - q: "How much walking should I plan for in London?"
-    a: "A well-grouped London day is four to six miles, almost all flat. That is more than most people expect and it is the reason ambitious itineraries collapse by mid-afternoon. Build in one empty hour a day."
+    a: "A well-grouped London day is four to six miles, almost all flat. That is more than most people expect and it is why ambitious itineraries collapse by mid-afternoon. Build in one empty hour a day."
 heroImage: "../../assets/articles/london-itineraries-by-days-and-interests/london-itineraries-by-days-and-interests.jpg"
 heroImageAlt: "A London street map view with red buses crossing Westminster Bridge"
 ---
@@ -41,17 +41,17 @@ Historic Royal Palaces recommends allowing **at least three hours** at the Tower
 
 That arithmetic sets the answer.
 
-| Trip | Days | Plan to follow | What decides it |
+| Trip | Days | Plan to follow | Why |
 | --- | ---: | --- | --- |
 | **First visit, adults** | 4 | [Three days](/articles/three-days-in-london-itinerary/), plus one day from the [interest plans](/articles/one-day-london-itineraries-by-interest/) | Three days reaches every landmark and none of the city. The fourth day is the one people describe when they get home |
-| **First visit with children under ten** | 5 | [Five days](/articles/five-days-in-london-itinerary/) | Same ground, slower. Queues, lunches and toilets cost about an hour a day, and one attraction a day is the honest limit |
+| **First visit with children under ten** | 5 | [Five days](/articles/five-days-in-london-itinerary/) | Same ground, slower. Queues, lunches and toilets cost about an hour a day, and one attraction a day is the limit |
 | **A weekend** | 2 | Two days of the [three-day plan](/articles/three-days-in-london-itinerary/) | Westminster and the West End on one, the Tower and South Bank on the other. Skip the museums rather than rush them |
-| **One day** | 1 | [One-day plans by interest](/articles/one-day-london-itineraries-by-interest/) | One theme, done properly. "The highlights" in a day costs you a third of the day underground |
+| **One day** | 1 | [One-day plans by interest](/articles/one-day-london-itineraries-by-interest/) | One theme. "The highlights" in a day costs you a third of the day underground |
 | **Return visit** | 3 | [Five days](/articles/five-days-in-london-itinerary/), days three to five | You have done the landmarks. Greenwich by river and a full neighbourhood day are what you came back for |
-| **Adding a day trip** | +1 | [Day trips from London](/articles/day-trips-from-london/) | Windsor, Oxford, Bath or Stonehenge is a whole day, not an afternoon. Add one rather than borrowing it from the city |
+| **Adding a day trip** | +1 | [Day trips from London](/articles/day-trips-from-london/) | Windsor, Oxford, Bath or Stonehenge is a whole day, not an afternoon. Add one; do not borrow it from the city |
 | **A week or more** | 7+ | Both of the above | Now you are choosing between more London and more England. Both are defensible; doing both badly is not |
 
-**If you take one number from this page, take four.** Three days is the minimum that covers a first visit honestly, and it is the length at which every day has a landmark in it. The fourth day is the one where you walk a neighbourhood, eat somewhere that is not near a sight, and stop looking at a clock.
+**If you take one number from this page, take four.** Three days is the minimum that covers a first visit, and it is the length at which every day has a landmark in it. The fourth day is the one where you walk a neighbourhood, eat somewhere that is not near a sight, and stop looking at a clock.
 
 ---
 
@@ -107,7 +107,7 @@ Accommodation aside, a London day has one fixed cost and three variable ones. Th
 | **A pint** | £6–£8 | £6–£8 | Central London. Outer zones and Wetherspoons are roughly half |
 | **Total** | **£36–£54** | **£65–£91** | Before your room, and before anything you buy |
 
-Two things move that total more than anything else. **Walking instead of tapping** takes the £8.90 off entirely on a well-grouped day — Covent Garden to Soho is five minutes on foot. And **eating ten minutes from the sight** rather than beside it is worth about a third of the food line. [London on a budget](/articles/london-on-a-budget/) has the full version, and [transport costs and fares](/articles/london-public-transport-costs-and-fares/) has every cap.
+Two things move that total more than anything else. **Walking instead of tapping** takes the £8.90 off entirely on a well-grouped day — Covent Garden to Soho is five minutes on foot. And **eating ten minutes from the sight** instead of beside it is worth about a third of the food line. [London on a budget](/articles/london-on-a-budget/) has the full version, and [transport costs and fares](/articles/london-public-transport-costs-and-fares/) has every cap.
 
 ### Does the London Pass change the arithmetic?
 
@@ -126,7 +126,7 @@ Land in the morning off a long flight and you have a day you are too tired to us
 - **Deal with the bag first.** The Tower of London bans suitcases and rolling luggage and has no storage of any kind, and most museum cloakrooms take a daypack rather than a case. Our [luggage storage guide](/articles/luggage-storage-london/) has the stations, the apps and the prices.
 - **Choose the train, not the fastest train.** From Heathrow, the Elizabeth line is £15.50 and 28–45 minutes to the West End, City or Canary Wharf; the Piccadilly line is £4.00–£5.90 and 50–60 minutes and stops at South Kensington and King's Cross. Fares checked 2 August 2026. Every other airport has a guide of its own, linked from [Getting around London](/articles/getting-around-london-transport-guide/).
 
-A good arrival day looks like this: drop the bag, eat properly, walk one riverside stretch in daylight, eat again early, sleep at a normal hour. The [South Bank walk](/articles/south-bank-walk/) is the obvious candidate — flat, mapped, free, and you can stop whenever you have had enough.
+A good arrival day looks like this: drop the bag, have a full meal, walk one riverside stretch in daylight, eat again early, sleep at a normal hour. The [South Bank walk](/articles/south-bank-walk/) is the obvious candidate — flat, mapped, free, and you can stop whenever you have had enough.
 
 ---
 
@@ -145,7 +145,7 @@ London's opening hours do not just shift in winter — several places shut while
 
 Against that, **mid-June gives nearly 17 hours of daylight**, sunrise about 4.40am and sunset about 9.21pm, which is what makes a three-sight day work in June and fail in December. The month-by-month detail — Met Office averages, school holidays, and every confirmed 2026–27 event date — is in [the best time to visit London](/articles/best-time-to-visit-london/), and [Christmas in London](/articles/christmas-in-london/) covers the festive weeks.
 
-The trap in all of this is last entry rather than closing time. Kew's last entry from 12 November is **2.30pm**, which is before some people have finished lunch, and the gap between the two is usually 30 to 60 minutes wherever you are going. Look up the last entry, not the closing time, and work backwards from it.
+The trap in all of this is last entry, not closing time. Kew's last entry from 12 November is **2.30pm**, which is before some people have finished lunch, and the gap between the two is usually 30 to 60 minutes wherever you are going. Look up the last entry, not the closing time, and work backwards from it.
 
 ---
 
@@ -159,7 +159,7 @@ These are the ones that hold a plan together when it meets reality.
 - **Treat meals as part of the itinerary**, not an interruption. Ten minutes' walk from any major sight halves the price and improves the food.
 - **Check closing days.** Borough Market is closed on Mondays and runs 10am–5pm Tuesday to Friday, 9am–5pm on Saturday and 10am–4pm on Sunday. Westminster Abbey opens for worship only on Sundays, with no sightseeing at all.
 - **Build a wet-weather alternative** for each day. See [London in the rain](/articles/london-in-the-rain/).
-- **Leave one hour a day genuinely empty.** It is what absorbs a delayed train or a longer queue.
+- **Leave one hour a day empty.** It is what absorbs a delayed train or a longer queue.
 - **Allow more time than the journey planner says** if you are travelling with children, luggage or a step-free route. [Step-free London](/articles/step-free-london/) has the stations that work.
 - **Do not book dinner five minutes after the previous thing ends** — and never book a curtain-up an hour after a restaurant reservation.
 
@@ -170,7 +170,7 @@ These are the ones that hold a plan together when it meets reality.
 Most visitors need no ticket at all beyond the bank card in their pocket. Contactless taps in and out the same as an Oyster and hits the same **£8.90** Zones 1–2 daily cap. Use one card or one device all day; a phone and a plastic card count as two accounts and break the cap between them.
 
 - **[Transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — every 2026 fare and cap, and the three rules that stop you overpaying
-- **[Oyster card guide](/articles/oyster-card-guide-london/)** — and when you genuinely need one, including the half-price Young Visitor discount for 11–15s
+- **[Oyster card guide](/articles/oyster-card-guide-london/)** — and when you need one, including the half-price Young Visitor discount for 11–15s
 - **[Getting around London](/articles/getting-around-london-transport-guide/)** — the overview, and every airport route
 - **[River boats](/articles/how-to-use-london-river-boats/)** — piers, fares and Thames Clipper routes, and the approach to Greenwich that arrives by water
 - **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — two-for-one on attractions if you arrive by train, including at Westminster Abbey on the door
@@ -181,7 +181,7 @@ Most visitors need no ticket at all beyond the bank card in their pocket. Contac
 
 Where you sleep changes the itinerary more than anything else on this page. A central base removes an hour of travel a day, which over four days is most of a fifth.
 
-Use the [best areas guide](/articles/best-areas-to-visit-london/) to choose, but broadly: [Covent Garden](/articles/covent-garden-area-guide/), [Soho](/articles/soho-area-guide/) and the [South Bank](/articles/south-bank-area-guide/) for walking; [King's Cross](/articles/kings-cross-area-guide/) and [Bloomsbury](/articles/bloomsbury-area-guide/) for rail links and better value. [Best areas to stay](/articles/best-areas-to-stay-in-london/) is the version written around sleeping rather than sightseeing.
+Use the [best areas guide](/articles/best-areas-to-visit-london/) to choose, but broadly: [Covent Garden](/articles/covent-garden-area-guide/), [Soho](/articles/soho-area-guide/) and the [South Bank](/articles/south-bank-area-guide/) for walking; [King's Cross](/articles/kings-cross-area-guide/) and [Bloomsbury](/articles/bloomsbury-area-guide/) for rail links and better value. [Best areas to stay](/articles/best-areas-to-stay-in-london/) is the version written around sleeping, not sightseeing.
 
 ---
 

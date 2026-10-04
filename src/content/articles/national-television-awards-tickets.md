@@ -93,7 +93,7 @@ Tickets for 8 September 2027 are on sale from [AXS](https://www.axs.com/uk/event
 
 ## The evening at The O2
 
-The practical rules are The O2's, not the NTAs'. Our [O2 travel guide](/articles/the-o2-travel-guide/) has the detail, and three things matter most for a ceremony night.
+The practical rules are The O2's, not the NTAs'. Our [O2 travel guide](/articles/the-o2-travel-guide/) has the detail, and three things count most for a ceremony night.
 
 - **Bags.** One bag per person, no bigger than A4. The arena has no cloakroom, but a bag store outside the main entrance charges £10 a bag.
 - **Cash.** The arena is cashless, so bring a card.

@@ -91,7 +91,7 @@ To experience the most congested sections without crowds, invert that order:
 ### 1. 09:15 to 09:30: North Door entry and bag security
 Arrive at the North Green gates 15 minutes before the stated opening time. Present your digital ticket barcode for scanning, pass through the bag check marquee, and collect your handheld multimedia guide inside the North Transept. 
 
-If you want to take a **Verger Tour**, ask as soon as you arrive rather than heading off round the building — tours are first come, first served, run Monday to Saturday, and can't be booked ahead.
+If you want to take a **Verger Tour**, ask as soon as you arrive instead of heading off round the building — tours are first come, first served, run Monday to Saturday, and can't be booked ahead.
 
 ### 2. 09:35 to 10:15: Royal tombs and the Henry VII Lady Chapel
 Walk straight past the crossing into the ambulatory encircling the High Altar. By reaching this eastern apse before 10:00, you will have uninterrupted space around the most architecturally intricate section of the building: the **Henry VII Lady Chapel**, consecrated in 1519.
@@ -223,7 +223,7 @@ Evensong is free to attend, and open to people of all faiths and none.
 
 - 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — tickets, the quieter afternoon, the Crown Jewels and the Norman White Tower.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — how to combine Westminster Abbey with Whitehall, Covent Garden, and South Bank.
-- 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — an honest mathematical analysis of when the pass pays for itself and when it loses money.
+- 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — a mathematical analysis of when the pass pays for itself and when it loses money.
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — free museums, off-peak transport fares, and cheap dining across Zone 1.
 - 🚤 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** — scenic boat travel from Westminster Millennium Pier to the Tower and Greenwich.
 - ♿ **[Step-Free London](/articles/step-free-london/)** — the Abbey's step-free doors and the parts of the route with steps, plus free companion entry.

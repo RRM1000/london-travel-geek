@@ -13,7 +13,7 @@ tags: [planning, visas, entry requirements, first time]
 draft: false
 faq:
   - q: "Do Americans, Canadians and Australians need a UK ETA?"
-    a: "Yes. The United States, Canada, Australia and New Zealand are all on GOV.UK's current list of nationalities that can apply for an ETA, and it is now compulsory for a visa-free visit rather than optional. It costs £20, you apply before you fly, and you must have the confirmation email before you travel."
+    a: "Yes. The United States, Canada, Australia and New Zealand are all on GOV.UK's current list of nationalities that can apply for an ETA, and it is now compulsory for a visa-free visit, not optional. It costs £20, you apply before you fly, and you must have the confirmation email before you travel."
   - q: "How much does a UK ETA cost?"
     a: "£20, whether you apply through the official app or online at gov.uk. GOV.UK is explicit that you cannot get a faster decision by applying through another website or app, and it warns that other websites may charge more — avoid any site that isn't gov.uk or the official UK ETA app."
   - q: "How long does a UK ETA take to arrive?"
@@ -87,13 +87,13 @@ If you're flying to London from the United States, Canada, Australia, the EU or 
 
 **An ETA is valid for 2 years, or until your passport expires — whichever comes first.** Inside that window you can travel to the UK as many times as you like, with each individual visit capped at up to 6 months for tourism, visiting family or friends, a business trip, or short-term study. A narrower 3-month allowance applies under the Creative Worker visa concession, and it also covers a permitted paid engagement.
 
-**What it doesn't let you do matters just as much.** You cannot stay longer than 6 months on any single visit, cannot do paid or unpaid work for a UK company or as a self-employed person (outside a permitted paid engagement or the Creative Worker concession), cannot claim public funds, cannot effectively live in the UK through frequent or successive visits, and cannot marry, register a civil partnership, or give notice of either — that needs a Marriage Visitor visa instead.
+**What it doesn't let you do is just as important.** You cannot stay longer than 6 months on any single visit, cannot do paid or unpaid work for a UK company or as a self-employed person (outside a permitted paid engagement or the Creative Worker concession), cannot claim public funds, cannot effectively live in the UK through frequent or successive visits, and cannot marry, register a civil partnership, or give notice of either — that needs a Marriage Visitor visa instead.
 
 **A new or changed passport ends your ETA early.** It's electronically tied to the passport number you applied with, and GOV.UK's checker page is direct about it: "An ETA lasts for 2 years and is linked to your passport. If your passport has expired or changed, you'll need to apply for a new ETA." Renewed your passport since you last visited? Budget another £20 and another application before you fly — you can check your current ETA's status and expiry at [gov.uk/check-eta](https://www.gov.uk/check-eta).
 
 ## Transiting and changing planes
 
-**Whether a layover needs an ETA comes down to one question: do you pass through UK border control?** GOV.UK splits transiting through a UK airport into two kinds. **"Airside"** transit means you never pass through UK border control before boarding your connecting flight — no ETA required. **"Landside"** transit means you do pass through border control, even if you come back through it and leave again within a short window (usually 24 hours) — and that does require an ETA, exactly as if you were visiting properly. GOV.UK's advice for anyone unsure which applies to their itinerary is simple: check with your airline before you fly, since it depends on the airport and the specific connection.
+**Whether a layover needs an ETA comes down to one question: do you pass through UK border control?** GOV.UK splits transiting through a UK airport into two kinds. **"Airside"** transit means you never pass through UK border control before boarding your connecting flight — no ETA required. **"Landside"** transit means you do pass through border control, even if you come back through it and leave again within a short window (usually 24 hours) — and that does require an ETA, exactly as if you were visiting. GOV.UK's advice for anyone unsure which applies to their itinerary is simple: check with your airline before you fly, since it depends on the airport and the specific connection.
 
 <div data-stay-strip></div>
 

@@ -148,7 +148,7 @@ The government spine running north from Parliament Square to Trafalgar Square, a
 
 ### St James's Park and The Mall
 
-The ceremonial route to Buckingham Palace, and the park is the reason to walk it rather than take the Tube — it is the oldest of the Royal Parks and much the prettiest.
+The ceremonial route to Buckingham Palace, walk it for the park rather than take the Tube — it is the oldest of the Royal Parks and much the prettiest.
 
 **The bridge over the lake is the best free view in the area**: Buckingham Palace at one end, the towers and turrets of Whitehall at the other, and the whole thing looks like a different city.
 
@@ -160,7 +160,7 @@ The ceremonial route to Buckingham Palace, and the park is the reason to walk it
 
 ### Victoria Street and Westminster Cathedral
 
-South-west of the Abbey, and mostly offices and chain shops rather than sights — but the cathedral at the end is worth the ten-minute walk and almost nobody makes it.
+South-west of the Abbey, and mostly offices and chain shops, not sights — but the cathedral at the end is worth the ten-minute walk and almost nobody makes it.
 
 **Westminster Cathedral is not the Abbey.** It is the Roman Catholic mother church, finished in 1903 in striped red brick and Byzantine style, and it looks like nothing else in London. **Entry to the cathedral is free.**
 
@@ -190,7 +190,7 @@ South along the river from Parliament towards Tate Britain, and much the quietes
 | **Regency Cafe** | Traditional cafe | £ | 1940s tiled interior, full English, cash-friendly queues |
 | **The Red Lion** | Historic pub | £ | Whitehall pub used by MPs; division bell on the wall |
 | **Tate Britain Cafe** | Museum cafe | ££ | Fifteen minutes south along the river, and much calmer |
-| **Seven Dials or Soho** | Anything | — | Genuinely: walk north for dinner |
+| **Seven Dials or Soho** | Anything | — | Walk north for dinner |
 
 ## Getting there
 

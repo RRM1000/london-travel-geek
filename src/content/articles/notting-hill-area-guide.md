@@ -58,11 +58,11 @@ faq:
   - q: "What days is Portobello Road Market open?"
     a: "The market runs Monday to Saturday, but the sections vary. Saturday is the full market with roughly 1,000 stalls including all the antique arcades. Friday is the second antiques day and is considerably quieter. Monday to Wednesday you will find mostly fruit, vegetables and a handful of general stalls. Thursday is a half day. The market does not run on Sundays, when the road is largely shuttered."
   - q: "Where exactly are the colourful houses in Notting Hill?"
-    a: "Not on Portobello Road, which is painted shopfronts rather than houses. The best-known row is Lancaster Road, just north of Ladbroke Grove station, and St Luke's Mews off All Saints Road has the pink house from Love Actually — those two are the convenient ones if you are already at the market. The best is Hillgate Village, four short streets by Notting Hill Gate station at the opposite end of the area, which almost nobody visits. All eleven streets worth walking are mapped in our colourful houses route. All are private homes on ordinary residential streets."
+    a: "Not on Portobello Road, which is painted shopfronts, not houses. The best-known row is Lancaster Road, just north of Ladbroke Grove station, and St Luke's Mews off All Saints Road has the pink house from Love Actually — those two are the convenient ones if you are already at the market. The best is Hillgate Village, four short streets by Notting Hill Gate station at the opposite end of the area, which almost nobody visits. All eleven streets worth walking are mapped in our colourful houses route. All are private homes on ordinary residential streets."
   - q: "Is Notting Hill worth visiting if the market is closed?"
     a: "Yes, but plan differently. Sunday and early-week visits are better for the streets, the architecture and Holland Park than for shopping. If markets are your main reason for coming, go on a Friday or Saturday instead."
   - q: "How long should I spend in Notting Hill?"
-    a: "Half a day covers Portobello Road, the pastel streets and a meal. A Saturday needs a full day if you want to browse the antique arcades properly, and you should arrive before 10am to beat the worst of the crowds."
+    a: "Half a day covers Portobello Road, the pastel streets and a meal. A Saturday needs a full day if you want to browse the antique arcades, and you should arrive before 10am to beat the worst of the crowds."
   - q: "When is Notting Hill Carnival and should I visit then?"
     a: "Carnival runs over the August bank holiday weekend, on the Sunday and Monday. It draws around a million people. It is a genuine spectacle, but ordinary sightseeing is impossible: shops board up, streets close, and stations near the route become exit-only or shut entirely. Treat it as a separate trip with its own plan, not as a day of area exploring."
   - q: "Can you walk from Notting Hill to Little Venice?"
@@ -79,20 +79,20 @@ Notting Hill has its own share of the commemorative plaques marking where notabl
 
 ## Why visit — and who should skip it
 
-**Come here if** you like browsing more than ticking off landmarks. Notting Hill rewards slow wandering: antique arcades, secondhand bookshops, independent boutiques on Westbourne Grove and a genuinely excellent pub scene. It is the best area in London for vintage and antiques by a wide margin, and one of the prettiest to walk through in good weather.
+**Come here if** you like browsing more than ticking off landmarks. Notting Hill rewards slow wandering: antique arcades, secondhand bookshops, independent boutiques on Westbourne Grove and an excellent pub scene. It is the best area in London for vintage and antiques by a wide margin, and one of the prettiest to walk through in good weather.
 
 **Skip it if** you are on a short trip built around major sights. There is no museum here, no cathedral, no palace. Notting Hill is atmosphere and shopping. On a three-day first visit, Westminster, the South Bank and the British Museum will serve you better — save this for a return trip or a spare Saturday.
 
-**One honest warning:** the pastel houses are private homes. Residents on Lancaster Road and St Luke's Mews deal with photographers on their doorsteps every single day, and some have put up signs asking people to stop. Photograph from the pavement, keep off the steps, and do not block front doors.
+**One warning:** the pastel houses are private homes. Residents on Lancaster Road and St Luke's Mews deal with photographers on their doorsteps every single day, and some have put up signs asking people to stop. Photograph from the pavement, keep off the steps, and do not block front doors.
 
 ## Top sights and activities
 
 1. **Portobello Road Market** — Over a mile of stalls, and the largest antiques market in the world by number of dealers. The character changes completely as you walk north: antique arcades at the southern end near Notting Hill Gate, then fruit and veg, then vintage clothing under the Westway flyover, then a flea market towards Ladbroke Grove.
 2. **The antique arcades** — The real find, and most visitors walk straight past them. Admiral Vernon, Portobello Studios and Roger's Arcade are indoor warrens of dealer stalls selling silver, jewellery, maps and militaria. Open Fridays and Saturdays only.
 3. **The colourful houses** — Not on Portobello Road, which is where most people look for them. **Lancaster Road**, just north of Ladbroke Grove station, is the rainbow row from the postcards and the easiest to combine with the market. **Hillgate Village**, by Notting Hill Gate at the opposite end, is better and almost empty. Our [colourful houses walking route](/articles/notting-hill-colourful-houses/) covers all eleven streets.
-4. **The Churchill Arms** — An 18th-century pub buried under thousands of flowers in summer and around 90 Christmas trees in December, serving Thai food in its back conservatory. Genuinely worth the detour on Kensington Church Street.
+4. **The Churchill Arms** — An 18th-century pub buried under thousands of flowers in summer and around 90 Christmas trees in December, serving Thai food in its back conservatory. Worth the detour on Kensington Church Street.
 5. **Holland Park and the Kyoto Garden** — Fifteen minutes south, and the quietest good park in west London. The Japanese garden has koi ponds, a waterfall and resident peacocks.
-6. **Notting Hill Bookshop** — The Blenheim Crescent shop that inspired the film. Small, busy, and a working bookshop rather than a museum piece.
+6. **Notting Hill Bookshop** — The Blenheim Crescent shop that inspired the film. Small, busy, and a working bookshop, not a museum piece.
 7. **Golborne Road** — The far northern end, past the flea market. Portuguese cafes, Moroccan grocers and far fewer visitors. This is where locals actually shop.
 8. **Notting Hill Carnival** — Europe's biggest street carnival, over the August bank holiday weekend. Sound systems, mas bands and steel pan through the streets of W11, led by London's Caribbean communities since 1966. Not a normal sightseeing day — shops board up and stations near the route go exit-only or close entirely.
 
@@ -117,7 +117,7 @@ From Chepstow Villas down to Elgin Crescent, and **the antiques end that made Po
 
 **Saturday is the antiques day and effectively the only one.** Friday is a partial trading day; the rest of the week the arcades are shuttered and the street is residential and quiet, which surprises a great many people who arrive on a Tuesday.
 
-**Get there before 10am** if you want to look at anything properly. Free, and Notting Hill Gate station is five minutes from the top.
+**Get there before 10am** if you want to look at anything. Free, and Notting Hill Gate station is five minutes from the top.
 
 ![A blue building on Portobello Road with an enormous Union Jack painted across its upper floors, crowds on the pavement below](../../assets/articles/notting-hill-area-guide/portobello-road-union-jack.jpg)
 
@@ -127,13 +127,13 @@ The Union Jack frontage about halfway down is the landmark for finding your way 
 
 ![Market stalls with brightly coloured canopies running under the Westway flyover on Acklam Road, busy with shoppers](../../assets/articles/notting-hill-area-guide/portobello-market-acklam-road.jpg)
 
-Past Lancaster Road and on under the **Westway flyover**, where the market changes character completely — vintage clothing, records and street food rather than antiques, and a younger crowd.
+Past Lancaster Road and on under the **Westway flyover**, where the market changes character completely — vintage clothing, records and street food, not antiques, and a younger crowd.
 
 The stalls under and beyond the flyover run on Friday, Saturday and Sunday, with Friday the best combination of trading and space.
 
 ![Rails of second-hand coats, dresses and denim jackets under a white canopy at the vintage market beneath the Westway](../../assets/articles/notting-hill-area-guide/portobello-vintage-under-the-westway.jpg)
 
-**This is the most crowded stretch in the whole area on a Saturday afternoon** — genuinely shoulder to shoulder between about noon and 4pm. Come Friday if you can.
+**This is the most crowded stretch in the whole area on a Saturday afternoon** — shoulder to shoulder between about noon and 4pm. Come Friday if you can.
 
 ### Westbourne Grove — boutiques and brunch
 The east–west shopping street, and **the reliable answer on any day the market is not running** — independent fashion, homeware, and the brunch cafés the area is known for.
@@ -199,7 +199,7 @@ Two short residential streets that appear constantly on social media — **St Lu
 
 **Best day:** Saturday for the complete market, Friday for antiques with room to browse.
 
-**Best time:** Before 10am. Portobello Road on a Saturday afternoon is shoulder-to-shoulder from the Westway southwards, and the arcades become difficult to browse properly.
+**Best time:** Before 10am. Portobello Road on a Saturday afternoon is shoulder-to-shoulder from the Westway southwards, and the arcades become difficult to browse.
 
 **Avoid:** Sunday, when the market does not run and much of the road is shut. Also the August bank holiday weekend unless you are specifically coming for Carnival.
 
@@ -224,7 +224,7 @@ Our full route for this area: **eleven numbered streets** from Notting Hill Gate
 
 ## Common mistakes to avoid
 
-1. **Coming on a Sunday.** The market does not run. This is the single most common Notting Hill mistake — plan for Friday or Saturday.
+1. **Coming on a Sunday.** The market does not run. This is the most common Notting Hill mistake — plan for Friday or Saturday.
 2. **Starting at Notting Hill Gate on a Saturday.** You arrive at the busiest end and walk against the flow. Start at Ladbroke Grove and walk south instead.
 3. **Missing the indoor arcades.** Most people walk the street and never step inside, which is where the serious antique dealers actually are.
 4. **Treating residential streets as a film set.** Lancaster Road and St Luke's Mews are people's homes. Shoot from the pavement.

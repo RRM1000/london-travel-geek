@@ -81,7 +81,7 @@ The oldest pubs in London, in order, along the river.
 
 *One of Wapping's old docks.*
 
-**Worth knowing:** Wapping Old Stairs is where condemned prisoners were chained at low tide. The Grapes is part-owned by Ian McKellen and Dickens drank there.
+Wapping Old Stairs is where condemned prisoners were chained at low tide. The Grapes is part-owned by Ian McKellen and Dickens drank there.
 
 ---
 
@@ -163,7 +163,7 @@ Walk east from there to the **Woolwich Ferry**, which is free, takes vehicles an
 * **Bridges are free**, including Tower Bridge's pavement — you only pay for the high-level walkways.
 * **The one thing you pay for is getting back.** Walk one way and take the Tube, the DLR or a Thames Clipper back. The Clipper is the most enjoyable and the most expensive; a river bus fare is well above a Tube one.
 * **The Greenwich Foot Tunnel is free**, open 24 hours to pedestrians, and the most interesting way to cross the river in east London. The lifts at both ends now run 24 hours too, and the Royal Borough of Greenwich publishes a [live status page](https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels) for them.
-* **Tide times matter** on the foreshore sections. The river comes in fast, and the stairs down to the beach at Wapping and Bankside are only usable at low water.
+* **Check tide times** for the foreshore sections. The river comes in fast, and the stairs down to the beach at Wapping and Bankside are only usable at low water.
 
 Prefer to see the river from the water instead of the towpath one day.
 
@@ -174,7 +174,7 @@ Prefer to see the river from the water instead of the towpath one day.
 ## What to know
 
 * **The Thames Path is signposted** and runs on at least one bank the whole way through London.
-* **Tide matters** on the river walks — the Thames drops a long way and the foreshore appears. Do not go down onto it without checking the tide table.
+* **Check the tide** on the river walks — the Thames drops a long way and the foreshore appears. Do not go down onto it without checking the tide table.
 * **Comfortable shoes beat any travel advice** anyone will give you about London.
 
 ---

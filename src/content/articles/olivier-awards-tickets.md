@@ -63,7 +63,7 @@ The green carpet is the Oliviers' red carpet: guests and talent walk it into the
 
 **How to get a place.** The Society of London Theatre's [green-carpet page](https://officiallondontheatre.com/olivier-awards/green-carpet-access/) sends everyone to [Applause Store](https://www.applausestore.com/book-olivier-awards-2026-with-cunard-green-carpet), the free audience-ticket agency that also handles BAFTA and film-premiere fan pens. Register an account, then use **Register Interest** on the Olivier Awards page and Applause Store emails you when places are released. The Society says successful applications are selected at random.
 
-**The catch is the weather and the wait.** The pens are standing areas, outdoors, with no shelter. The Society says it does not provide chairs: wheelchair users can be accommodated, and anyone who needs a seat should bring a small folding chair of their own. If you are selected, be there **at least an hour before the viewing area opens at 3pm**.
+**Expect weather and a wait.** The pens are standing areas, outdoors, with no shelter. The Society says it does not provide chairs: wheelchair users can be accommodated, and anyone who needs a seat should bring a small folding chair of their own. If you are selected, be there **at least an hour before the viewing area opens at 3pm**.
 
 **The rules.** Applause Store's page for the 2026 green carpet set a minimum age of 5, with under-18s accompanied by an adult. Applause Store's general rules for its free places say:
 

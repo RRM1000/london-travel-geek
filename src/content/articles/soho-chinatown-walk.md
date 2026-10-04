@@ -132,7 +132,7 @@ Three plaques in a hundred metres, and the route's coffee stop.
 - **No. 20**: a Royal Musical Association plaque says **Mozart** "lived, played and composed" in a house on this site in 1764–5, aged eight. The family's first London lodging, on Cecil Court, is on the [Covent Garden walk](/articles/covent-garden-walk/#2-cecil-court).
 - **No. 22**: **John Logie Baird** worked in two attic rooms here from November 1924, and on **26 January 1926** gave the first demonstration of a working television, to 40 members of the Royal Institution.
 
-**Bar Italia** is on the ground floor of No. 22. The Polledri family opened it in 1949, and it is **open every day from 7am to 4am**: coffee at the counter, and a place to stand rather than a meal.
+**Bar Italia** is on the ground floor of No. 22. The Polledri family opened it in 1949, and it is **open every day from 7am to 4am**: coffee at the counter, and a place to stand, not a meal.
 
 **Ronnie Scott's is directly opposite, at No. 47.** The club moved here in 1965; its first home is at the end of this walk. It opens in the evening, from 5.30pm, and for a Sunday lunchtime session, so on a daytime walk there is only the frontage and the month's bills. For a return visit, the **Late Late Show** starts at 11.15pm Wednesday to Saturday at £12, and most tickets are available on the door.
 
@@ -144,7 +144,7 @@ Continue down Frith Street to Old Compton Street and turn right. Turn right up D
 
 ## 5. Berwick Street market
 
-**Founded in 1778, and one of London's oldest street markets.** Westminster City Council licenses it **Monday to Saturday, 8am to 6pm**, for fruit and vegetables, flowers, coffee, dairy and hot food, and it is Soho's main lunchtime food street. The stalls are fewer than they were: count on a lunchtime pass-through rather than a morning's shopping.
+**Founded in 1778, and one of London's oldest street markets.** Westminster City Council licenses it **Monday to Saturday, 8am to 6pm**, for fruit and vegetables, flowers, coffee, dairy and hot food, and it is Soho's main lunchtime food street. The stalls are fewer than they were: count on a lunchtime pass-through, not a morning's shopping.
 
 ![A fruit and vegetable barrow on wooden cartwheels on Berwick Street, under a striped awning and an Exotic Fruits sign, piled with papayas, peppers, chillies and a sack of potatoes](../../assets/articles/soho-chinatown-walk/berwick-street-market.jpg)
 
@@ -174,7 +174,7 @@ Carry on west to the corner of Marshall Street. A plaque on **8 Marshall Street*
 
 Cross Marshall Street into Ganton Street, which runs into **Carnaby Street**. A green Westminster plaque credits **John Stephen**, who died in 2004, with making it the world centre of men's fashion in the 1960s. The street is now mostly brands, and it is pedestrianised.
 
-**Kingly Court is the reason to stop**: three floors of restaurants and bars round an open courtyard, covered for the winter. Go in beside Dr Martens on Carnaby Street. Two of its top-floor rooms, **Imad's Syrian Kitchen** and the Filipino **Donia**, hold 2026 Michelin Bib Gourmands, and Imad's books weeks ahead; our [Middle Eastern guide](/articles/best-middle-eastern-restaurants-london/) and [Filipino guide](/articles/best-filipino-restaurants-london/) cover both.
+**Stop at Kingly Court**: three floors of restaurants and bars round an open courtyard, covered for the winter. Go in beside Dr Martens on Carnaby Street. Two of its top-floor rooms, **Imad's Syrian Kitchen** and the Filipino **Donia**, hold 2026 Michelin Bib Gourmands, and Imad's books weeks ahead; our [Middle Eastern guide](/articles/best-middle-eastern-restaurants-london/) and [Filipino guide](/articles/best-filipino-restaurants-london/) cover both.
 
 ![Kingly Court from an upper walkway: three floors of red, pink and grey restaurant fronts behind blue railings, around a courtyard with a round-clipped tree, tables and a blue-and-white striped canopy](../../assets/articles/soho-chinatown-walk/carnaby-street.jpg)
 

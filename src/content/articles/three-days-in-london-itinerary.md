@@ -12,7 +12,7 @@ tags: [3 days, itineraries, first visit]
 draft: false
 faq:
   - q: "Is three days enough for London?"
-    a: "For a first visit, yes. Three days covers Westminster, the Tower, the South Bank and one museum district properly. It is not enough to add Greenwich, Camden, Notting Hill and Windsor as well — each of those costs an hour of travel round trip, and three days does not have three spare hours."
+    a: "For a first visit, yes. Three days covers Westminster, the Tower, the South Bank and one museum district. It is not enough to add Greenwich, Camden, Notting Hill and Windsor as well — each of those costs an hour of travel round trip, and three days does not have three spare hours."
   - q: "What should I book before arriving in London?"
     a: "Four things. The Tower of London and Westminster Abbey both sell timed entry. Churchill War Rooms is timed entry only and IWM does not guarantee walk-ups. Sky Garden releases its free tickets weekly, up to three weeks ahead. The free museums take walk-ups, and a West End show is worth booking direct from the theatre."
   - q: "How much does three days in London cost in admissions?"
@@ -65,7 +65,7 @@ The free museums are the exception. The [National Gallery](https://www.nationalg
 
 **Allow 90 minutes to two hours.** It is denser than it looks, and Poets' Corner, the royal tombs, the Lady Chapel and the Cosmati Pavement are the four things people walk past at speed.
 
-Two upgrades are worth knowing about before you arrive, because neither can be bought later:
+Two upgrades to arrange before you arrive, because neither can be bought later:
 
 - **The verger tour costs your entry price plus £10** and is the only way the public reaches the Shrine of Edward the Confessor. It runs [Monday to Saturday](https://www.westminster-abbey.org/visit-us/guided-tours/), lasts about 90 minutes and is capped at 20 people. **It cannot be booked online or by phone** — you sign up in person on arrival, so book your entry slot 30 minutes before you want the tour to start.
 - **The Queen's Diamond Jubilee Galleries are £5 extra for adults and free for under-18s**, on a timed ticket bought together with your entry ticket. They sit in the 13th-century triforium, high above the Abbey floor, and they close at 3pm — earlier than the Abbey itself.
@@ -144,7 +144,7 @@ Never pay a third party for an "exclusive Beefeater tour". The Yeoman Warder tou
 
 > ⚠️ **Borough Market is closed on Mondays.** The rest of the week it runs [Tuesday to Friday 10am–5pm, Saturday 9am–5pm and Sunday 10am–4pm](https://boroughmarket.org.uk/visit-us/), and Saturday is both the fullest day and the only one that opens at nine. Entry is free. If your Day 2 is a Monday, swap Days 2 and 3 — Tate Modern and the Globe are open and Borough is not.
 
-Go early in the window rather than at one o'clock, when the office lunch trade arrives. Our [markets guide](/articles/best-london-markets/) has what to actually eat there, and [best street food](/articles/best-street-food-london/) covers the stalls worth the queue.
+Go early in the window, not at one o'clock, when the office lunch trade arrives. Our [markets guide](/articles/best-london-markets/) has what to actually eat there, and [best street food](/articles/best-street-food-london/) covers the stalls worth the queue.
 
 ### The river walk west
 
@@ -157,7 +157,7 @@ There is no navigation involved from here. The Thames Path is continuous and sig
 
 ### The free view instead
 
-The Eye is the paid way to get above London on this day, and two free ones sit within a quarter of an hour of the Tower. **[Sky Garden](https://skygarden.london/visit/getting-here-hours/) is free**, on the 35th floor of 20 Fenchurch Street, **open Monday to Friday 10am–6pm and Saturday, Sunday and bank holidays 11am–9pm**. Free tickets are released weekly and bookable up to three weeks ahead, and they go. *Thirteen minutes, 870 metres, from the Tower.* On a weekday it shuts at six, so take it before the river walk rather than after; at a weekend it runs to nine and you can come back for the dark.
+The Eye is the paid way to get above London on this day, and two free ones sit within a quarter of an hour of the Tower. **[Sky Garden](https://skygarden.london/visit/getting-here-hours/) is free**, on the 35th floor of 20 Fenchurch Street, **open Monday to Friday 10am–6pm and Saturday, Sunday and bank holidays 11am–9pm**. Free tickets are released weekly and bookable up to three weeks ahead, and they go. *Thirteen minutes, 870 metres, from the Tower.* On a weekday it shuts at six, so take it before the river walk, not after; at a weekend it runs to nine and you can come back for the dark.
 
 **[Horizon 22](https://horizon22.co.uk/) is also free**, higher, and on Level 58 of 22 Bishopsgate: its own description is London's highest free viewing gallery, reached in 41 seconds by lift. **Open weekdays 10.00–18.00, Saturday 10.00–17.00 and Sunday 10.00–16.00.** Our [views guide](/articles/best-views-london/) compares all of them.
 
@@ -167,7 +167,7 @@ The Eye is the paid way to get above London on this day, and two free ones sit w
 
 ## Day 3: One museum district
 
-**Three days is enough for one museum district and not two.** The temptation is the British Museum in the morning and South Kensington after lunch. The result is two rushed hours in each and half an hour underground between them. Pick one, and stop when you are tired rather than when you have seen everything — nobody sees everything.
+**Three days is enough for one museum district and not two.** The temptation is the British Museum in the morning and South Kensington after lunch. The result is two rushed hours in each and half an hour underground between them. Pick one, and stop when you are tired, not when you have seen everything — nobody sees everything.
 
 Both options below are free. Only temporary exhibitions charge.
 
@@ -204,7 +204,7 @@ Then walk into Hyde Park, or south to [Chelsea](/articles/chelsea-area-guide/). 
 
 ### Evening
 
-Go back to whichever neighbourhood you liked most rather than somewhere new. Three days is enough to have a favourite.
+Go back to whichever neighbourhood you liked most, not somewhere new. Three days is enough to have a favourite.
 
 ---
 
@@ -234,7 +234,7 @@ More free options: [free things to do in London](/free/) and [London on a budget
 
 **Greenwich, Camden, Notting Hill and Windsor are all worth doing, and none of them fits.** Each costs about an hour of travel round trip, and three days does not have three spare hours to give away.
 
-If one of them matters more to you than the plan above, swap it for Day 3 rather than squeezing it in. [Greenwich](/articles/greenwich-area-guide/) in particular only works as a full day, reached by river — the boat from Westminster takes 56 to 60 minutes on the weekend timetable, which is the point of it and also why it does not fit in an afternoon.
+If one of them is more important to you than the plan above, swap it for Day 3 instead of squeezing it in. [Greenwich](/articles/greenwich-area-guide/) in particular only works as a full day, reached by river — the boat from Westminster takes 56 to 60 minutes on the weekend timetable, which is why it does not fit in an afternoon.
 
 Add them on a longer trip: see [five days in London](/articles/five-days-in-london-itinerary/), which gives Greenwich a day of its own and splits this plan's Day 2 across two.
 
@@ -259,7 +259,7 @@ Add them on a longer trip: see [five days in London](/articles/five-days-in-lond
 
 ## Where to stay for this plan
 
-**Zone 1 is not automatically the answer.** You pay a premium for a postcode you walk out of every morning. What matters is a direct line to the middle and a station you are happy walking back to at midnight.
+**Zone 1 is not automatically the answer.** You pay a premium for a postcode you walk out of every morning. What counts is a direct line to the middle and a station you are happy walking back to at midnight.
 
 For maximum walking, base yourself in [Covent Garden](/articles/covent-garden-area-guide/), [Soho](/articles/soho-area-guide/) or on the [South Bank](/articles/south-bank-area-guide/) — all three put Days 1 and 2 on your doorstep. For better value with a fast line in, the Jubilee line between London Bridge and Canary Wharf, or the Victoria line north through Highbury and Finsbury Park, both put you fifteen minutes from the centre.
 

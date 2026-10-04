@@ -29,7 +29,7 @@ faq:
   - q: "How much are London Jazz Festival tickets?"
     a: "Across the 332 shows listed on 21 September 2026, 294 carried a price and the median cheapest ticket among them was £21. Adult tickets start at £5 — the Vortex in Dalston goes from £6.60 and Jamboree at King's Cross from £8 — and 126 of the 294 had a ticket under £20. At the top, the Opening Gala runs £48 to £100.50 and Branford Marsalis with Dianne Reeves £80.50 to £88.50. Another 19 concerts are free. Prices on the festival's own listings include booking fees."
   - q: "Is the London Jazz Festival free?"
-    a: "Nineteen of the 332 listings are, and 14 of those fall on the two weekends. The reliable free rooms are the Barbican FreeStage on Level G (14, 15, 21 and 22 November), the Clore Ballroom at the Southbank Centre (14, 20 and 22 November, each a whole afternoon rather than a single set) and Milton Court at the Guildhall School (18, 20, 21 and 22 November). Separately, the five Out to Lunch concerts in Cadogan Hall's Culford Room are £5 seated and free standing, though a free standing ticket still attracts Cadogan Hall's £4.50 transaction fee if you book online rather than at the box office."
+    a: "Nineteen of the 332 listings are, and 14 of those fall on the two weekends. The reliable free rooms are the Barbican FreeStage on Level G (14, 15, 21 and 22 November), the Clore Ballroom at the Southbank Centre (14, 20 and 22 November, each a whole afternoon, not a single set) and Milton Court at the Guildhall School (18, 20, 21 and 22 November). Separately, the five Out to Lunch concerts in Cadogan Hall's Culford Room are £5 seated and free standing, though a free standing ticket still attracts Cadogan Hall's £4.50 transaction fee if you book online rather than at the box office."
   - q: "Where does the London Jazz Festival take place?"
     a: "82 buildings across London in 2026, from the Royal Festival Hall to a bookshop in Kensington. The busiest are Ronnie Scott's in Soho (23 listings), the Barbican (18 across six of its rooms), PizzaExpress Live on Dean Street (17), Crazy Coqs at Brasserie Zédel (15), Kings Place at King's Cross (14), the Vortex in Dalston (13), the 606 Club in Chelsea (13), the Southbank Centre (12) and Cadogan Hall in Chelsea (12). There is no single festival site; everything happens in rooms that were already there."
   - q: "How do I get tickets for a sold-out London Jazz Festival show?"
@@ -42,9 +42,9 @@ faq:
     a: "Most concert-hall shows start at 7.30pm and finish around 10pm, which is inside normal Tube service everywhere. The late programme is the exception. Ronnie Scott's runs eleven Late Late Shows between 13 and 21 November, the main room on stage at midnight with doors at 11.15pm at £15.50, and Upstairs at 11.30pm at £18.50. The Jazz Social near Moorgate stays open until 1am on the Fridays and Saturdays. Night Tube runs on Friday and Saturday nights only, on the Central, Jubilee, Northern, Piccadilly, Victoria and Windrush lines, and the festival's two Fridays and two Saturdays are 13, 14, 20 and 21 November."
 ---
 
-The EFG London Jazz Festival runs **13 to 22 November 2026** — ten days, both weekends included. Serious, the producer that started it in 1992, had **332 shows listed at 82 venues** on 21 September, and they are spread across the city rather than gathered on one site: the Royal Festival Hall and the Barbican, Ronnie Scott's and the Vortex, a church in Leytonstone, a bookshop off Kensington Church Street and a pop-up in an office block by Moorgate.
+The EFG London Jazz Festival runs **13 to 22 November 2026** — ten days, both weekends included. Serious, the producer that started it in 1992, had **332 shows listed at 82 venues** on 21 September, and they are spread across the city, not gathered on one site: the Royal Festival Hall and the Barbican, Ronnie Scott's and the Vortex, a church in Leytonstone, a bookshop off Kensington Church Street and a pop-up in an office block by Moorgate.
 
-That sprawl is the thing that catches people out. There is no festival wristband and no single box office. **243 of the 332 shows are sold by the venue, not by the festival**, so there is no single on-sale morning to be ready for. It is also why eleven shows had already gone by 21 September while three hundred had not.
+That sprawl catches people out. There is no festival wristband and no single box office. **243 of the 332 shows are sold by the venue, not by the festival**, so there is no single on-sale morning to be ready for. It is also why eleven shows had already gone by 21 September while three hundred had not.
 
 > 💡 **The Short Version:** **13-22 November 2026.** The full programme is on the festival's [what's on listing](https://efglondonjazzfestival.org.uk/whats-on), which is the only place all 332 shows sit together — each one then sends you to whoever is actually selling it. **Nineteen concerts are free**, and 14 of those fall on the two weekends, at the [Barbican FreeStage](https://efglondonjazzfestival.org.uk/by-type/free), the Clore Ballroom at the Southbank Centre and Milton Court. Paid tickets start at **£5** and the median cheapest ticket across the programme is **£21**. If you are 16-25, join the free [Serious Youth Network](https://serious.org.uk/serious-youth-network) before you book: it makes shows Serious produces **£5**. Eleven shows are already sold out, including **Coltrane 100**, **Melody Gardot** and **Ben Folds** — the way back in is the venue's own returns, not a resale site.
 
@@ -95,7 +95,7 @@ Because most shows are sold by the venue, the fee is the venue's, and two of the
 
 **[The Serious Youth Network](https://serious.org.uk/serious-youth-network) is free to join, open to 16- to 25-year-olds, and makes shows Serious produces £5 plus a booking fee**, up to two tickets a booking. It also gets you a discount at The Jazz Social through November. Serious produces 27 of the shows in the programme, including the Opening Gala.
 
-**[Young Barbican](https://www.barbican.org.uk/join-support/young-barbican) is free to join and covers the Barbican's 18 listings.** It prices each concert separately rather than applying a flat discount: [Jaga Jazzist](https://www.barbican.org.uk/whats-on/2026/event/jaga-jazzist) is £12 against £29, [Asha Puthli](https://www.barbican.org.uk/whats-on/2026/event/asha-puthli) £18 against £34. The eligible age is printed on each event page and varies — 16-29 on some concerts, 16-25 on others.
+**[Young Barbican](https://www.barbican.org.uk/join-support/young-barbican) is free to join and covers the Barbican's 18 listings.** It prices each concert separately instead of applying a flat discount: [Jaga Jazzist](https://www.barbican.org.uk/whats-on/2026/event/jaga-jazzist) is £12 against £29, [Asha Puthli](https://www.barbican.org.uk/whats-on/2026/event/asha-puthli) £18 against £34. The eligible age is printed on each event page and varies — 16-29 on some concerts, 16-25 on others.
 
 ---
 
@@ -120,7 +120,7 @@ Because most shows are sold by the venue, the fee is the venue's, and two of the
 
 **Elsewhere:** Dhol Academy at the Rivergate Centre in Barking (Sat 14 Nov, 1pm), a community day at Fulham Pier (Sun 15 Nov, from midday), Francesco Cavestri at Steinway Hall on Marylebone Lane (Thu 19 Nov, 7pm), Chiminyo's NRG Trio at Number 90 in Hackney Wick (Thu 19 Nov, 8.30pm), Jazz Saturdays at The Albany in Deptford (Sat 21 Nov, 1pm) and Williams Cumberbache at Grow in Hackney Wick (Sun 22 Nov, 1pm).
 
-> 💷 **Nearly free, and the best-value hour of the festival.** **Out to Lunch** puts five midday concerts in the Culford Room at Cadogan Hall, Mon 16 to Fri 20 November. **Seated is £5, standing is free but ticketed.** Doors at 11am, an hour of music either side of a 30-minute break. The catch is the fee: Cadogan Hall charges £4.50 per online booking whatever the ticket costs, so a free standing ticket booked online costs £4.50 and the same ticket costs nothing at the box office in person. Joanna Eden plays Joni Mitchell on the Monday, Nicolas Meier's world group on the Tuesday, Djangada's Brazilian trio on the Wednesday, ISQ on the Thursday and Vasilis Xenopoulos with Paul Edis on the Friday.
+> 💷 **Nearly free, and the best-value hour of the festival.** **Out to Lunch** puts five midday concerts in the Culford Room at Cadogan Hall, Mon 16 to Fri 20 November. **Seated is £5, standing is free but ticketed.** Doors at 11am, an hour of music either side of a 30-minute break. Cadogan Hall charges £4.50 per online booking whatever the ticket costs, so a free standing ticket booked online costs £4.50 and the same ticket costs nothing at the box office in person. Joanna Eden plays Joni Mitchell on the Monday, Nicolas Meier's world group on the Tuesday, Djangada's Brazilian trio on the Wednesday, ISQ on the Thursday and Vasilis Xenopoulos with Paul Edis on the Friday.
 
 Two more you pay what you want for: **Daylight Music** at St John's Leytonstone on Sat 14 and Sat 21 November, both at midday, pay what you can and children free.
 
@@ -204,7 +204,7 @@ Three things follow.
 
 **There is no single on-sale date.** A Ronnie Scott's night and a Barbican concert went on sale on whatever schedule those two buildings use. The festival's own [newsletter](https://efglondonjazzfestival.org.uk/newsletter) is where presales and on-sale alerts are announced, and it is the only way to be told in advance.
 
-**Buy direct and buy in person if you can.** The Barbican and Cadogan Hall both drop their fee entirely at the box office counter, and both charge per booking rather than per ticket online.
+**Buy direct and buy in person if you can.** The Barbican and Cadogan Hall both drop their fee entirely at the box office counter, and both charge per booking, not per ticket, online.
 
 **Discounts belong to the seller, not the festival.** The Serious Youth Network works on the 27 shows Serious produces. Young Barbican works on the Barbican's 18. Kings Place lists under-30s tickets, child tickets and a concessions scheme for anyone who would otherwise struggle to afford one. None of them crosses over.
 
@@ -249,7 +249,7 @@ Six of the eleven land on the first two days, the Robert Glasper residency inclu
 *PizzaExpress Jazz Club, Dean Street. Photo: [AndyScott](https://commons.wikimedia.org/wiki/File:Partikel_with_Natalie_Rosario_at_PizzaExpress_Jazz_Club,_Soho.jpg), CC0.*
 
 
-A 7.30pm concert finishing around 10pm is inside normal Tube service from every venue in this guide, including the 606 in Chelsea and the Vortex in Dalston. The late programme is where it matters.
+A 7.30pm concert finishing around 10pm is inside normal Tube service from every venue in this guide, including the 606 in Chelsea and the Vortex in Dalston. Check last trains for the late programme.
 
 **Ronnie Scott's Late Late Shows** are eleven shows across six nights between **13 and 21 November** — the 13th, 14th, 16th, 19th, 20th and 21st, two rooms on all but the Monday. The main room goes on stage at **midnight**, doors 11.15pm, **£15.50**; Upstairs starts at **11.30pm**, doors 10.45pm, **£18.50**. A DJ plays either side of the live sets. The full list of nights is on [the festival's Late Late Shows listing](https://efglondonjazzfestival.org.uk/events/late-late-shows-at-ronnie-scotts).
 
@@ -267,7 +267,7 @@ Somewhere to eat afterwards is the other half of the problem, and [our late-nigh
 
 Because the venues sell their own tickets, they set their own access provision, and the strongest is at the biggest rooms.
 
-**The Barbican** adds a **free essential companion ticket** to any booking that needs one, and wheelchair spaces and companion seats can now be booked online rather than by phone. Its step-free routes from Farringdon and Moorgate are mapped on video.
+**The Barbican** adds a **free essential companion ticket** to any booking that needs one, and wheelchair spaces and companion seats can now be booked online, not by phone. Its step-free routes from Farringdon and Moorgate are mapped on video.
 
 **Cadogan Hall** has wheelchair spaces in the Stalls and an induction loop throughout, and is two minutes from Sloane Square.
 

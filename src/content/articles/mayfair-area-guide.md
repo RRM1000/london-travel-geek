@@ -59,7 +59,7 @@ faq:
   - q: "Is there anything free to do in Mayfair?"
     a: "More than you would expect. The **Burlington Arcade** and the other Victorian arcades are free to walk through. The Royal Academy's courtyard and its Fine Rooms are free, with only the main exhibitions ticketed. Almost all of Mayfair's commercial art galleries — and there are dozens on Cork Street and around — are free to walk into. Green Park and the Georgian squares cost nothing."
   - q: "What are the Beadles in Burlington Arcade?"
-    a: "The arcade's own uniformed guards, in place since 1819 and still enforcing its original rules: no running, no whistling, no singing, and no opening of umbrellas. They are believed to be the oldest small police force in the world. The rules are enforced politely but genuinely."
+    a: "The arcade's own uniformed guards, in place since 1819 and still enforcing its original rules: no running, no whistling, no singing, and no opening of umbrellas. They are believed to be the oldest small police force in the world. The rules are enforced politely but firmly."
   - q: "Did Handel and Jimi Hendrix really live next door to each other?"
     a: "Yes, at 25 and 23 Brook Street, though 200 years apart. Handel lived at number 25 from 1723 until his death in 1759 and wrote *Messiah* there. Hendrix rented the top floor of number 23 in 1968. Both flats are now a single museum, Handel Hendrix House, which is ticketed."
   - q: "Is Mayfair worth visiting if I am not shopping?"
@@ -88,7 +88,7 @@ Mayfair has its own share of the commemorative plaques marking where notable peo
 2. **The Royal Academy** — In Burlington House. The courtyard and Fine Rooms are free; the exhibitions are ticketed. The **Summer Exhibition** has run every year since 1769.
 3. **The Cork Street galleries** — A concentration of commercial art dealers, nearly all free to enter and none of them expecting you to buy.
 4. **Handel Hendrix House** — 23 and 25 Brook Street. Handel lived at 25 and wrote *Messiah* there; Hendrix rented the top floor of 23 in 1968. Now one ticketed museum.
-5. **Shepherd Market** — A small, scruffy village of narrow lanes and pubs in the middle of the most expensive district in the country. Genuinely unexpected.
+5. **Shepherd Market** — A small, scruffy village of narrow lanes and pubs in the middle of the most expensive district in the country. Unexpected.
 6. **The other arcades** — Piccadilly Arcade, Princes Arcade and the Royal Arcade, all free to walk through and all quieter than Burlington.
 7. **Green Park and Berkeley Square** — Green Park to the south, and the plane trees of Berkeley Square, planted in 1789 and among the oldest in London.
 
@@ -206,7 +206,7 @@ Our full route comes down from Fitzroy Square through Savile Row, both arcades, 
 
 1. **Assuming everything costs money.** The arcades, the RA courtyard and nearly every commercial gallery are free.
 2. **Coming on a Sunday.** Galleries shut and the area empties.
-3. **Whistling in Burlington Arcade.** Genuinely against the rules, and the Beadles will say so.
+3. **Whistling in Burlington Arcade.** Against the rules, and the Beadles will say so.
 4. **Missing Shepherd Market.** Two minutes off Piccadilly and completely unlike the rest of Mayfair.
 5. **Eating on Bond Street.** Walk to Shepherd Market or Mercato Mayfair instead.
 6. **Expecting evening life.** Mayfair is offices and embassies after dark. Soho is ten minutes east.

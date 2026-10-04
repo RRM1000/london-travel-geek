@@ -115,7 +115,7 @@ The rate moves a lot with the night: a Cocoon 2 was £90 on an October Sunday an
 
 *About £800 · 173 rooms and 68 suites · 53 Park Lane, W1K 1QA · Breakfast extra*
 
-**[The Dorchester](hotel:the-dorchester)** faces Hyde Park halfway between Hyde Park Corner and Marble Arch, and finished **a four-year renovation of its rooms and public spaces in 2026**. Ask for a Deluxe or Executive Park View room if the view is the point; the others look over Mayfair or a courtyard.
+**[The Dorchester](hotel:the-dorchester)** faces Hyde Park halfway between Hyde Park Corner and Marble Arch, and finished **a four-year renovation of its rooms and public spaces in 2026**. Ask for a Deluxe or Executive Park View room if you want the view; the others look over Mayfair or a courtyard.
 
 <div class="photo-row">
 
@@ -227,7 +227,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 ## Piccadilly and Green Park
 
-### The Ritz: the dress code decides it
+### The Ritz: the dress code
 
 *Over £350 · 150 Piccadilly, W1J 9BR · Green Park next door*
 
@@ -273,7 +273,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 *116 Piccadilly · Green Park 2 min · [Hotels.com](hotelscom:175165)*
 
-An independent hotel facing Green Park across Piccadilly, in a building that was Henry Hope's house in 1850 and an art deco apartment block from the 1930s. Superior rooms are 19 square metres and interconnecting rooms are available; the draw for families is **18 townhouse residences with a kitchen and separate sitting room**, and a concierge who keeps kites and bikes for the park. There is a 24-hour gym and a spa with cedar hot tubs, and an afternoon tea with no ceremony. Cancellation on the residences closes seven days before arrival.
+An independent hotel facing Green Park across Piccadilly, in a building that was Henry Hope's house in 1850 and an art deco apartment block from the 1930s. Superior rooms are 19 square metres and interconnecting rooms are available; for families there are **18 townhouse residences with a kitchen and separate sitting room**, and a concierge who keeps kites and bikes for the park. There is a 24-hour gym and a spa with cedar hot tubs, and an afternoon tea with no ceremony. Cancellation on the residences closes seven days before arrival.
 
 ![An Athenaeum bedroom with a walnut cabinet holding a television and tea tray, a desk by the window, and a balcony door looking over the trees of Green Park](../../assets/articles/where-to-stay-mayfair/the-athenaeum-room.jpg)
 

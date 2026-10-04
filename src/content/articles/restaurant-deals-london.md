@@ -95,9 +95,9 @@ This is where set lunch stops being a discount and becomes a different propositi
 | **Chutney Mary**, St James's | £39 / 2, £45 / 3 | Mon–Fri 12–2.15pm |
 | **NOPI**, Soho | £45pp / 3 courses | Mon–Fri |
 
-**Brasserie Zédel is the value outlier** — £16.95 for two courses in a grand Art Deco basement off Piccadilly Circus. One honest caveat: it runs at dinner too, so it is a fixed-price menu rather than a lunchtime saving.
+**Brasserie Zédel is the value outlier** — £16.95 for two courses in a grand Art Deco basement off Piccadilly Circus. One caveat: it runs at dinner too, so it is a fixed-price menu, not a lunchtime saving.
 
-**Mucci's on the King's Road works differently from everything else here.** It is not a time-limited offer at all: every starter is £10 and every main £20, all day, every day. One of the first London restaurants to price the whole menu by course rather than run a lunch window — so there is no clock to beat, and no weekday restriction.
+**Mucci's on the King's Road works differently from everything else here.** It is not a time-limited offer at all: every starter is £10 and every main £20, all day, every day. One of the first London restaurants to price the whole menu by course instead of running a lunch window — so there is no clock to beat, and no weekday restriction.
 
 **Bocca di Lupo on Archer Street is the pick of these** — £18 for a starter and a main from the same regional Italian menu the restaurant is known for, running until 6.30pm so it works as lunch or pre-theatre, two minutes from Piccadilly Circus. The dishes change monthly.
 
@@ -105,9 +105,9 @@ This is where set lunch stops being a discount and becomes a different propositi
 
 ---
 
-## Chains and mini-chains that do it properly
+## Chain and mini-chain set menus
 
-Chain set menus are the most reliable of the lot, because the offer is set nationally and does not quietly vanish.
+Chain set menus are the most reliable of the lot, because the offer is set nationally and does not vanish.
 
 | Chain | Deal | When |
 | --- | --- | --- |
@@ -121,7 +121,7 @@ Chain set menus are the most reliable of the lot, because the offer is set natio
 
 **Franco Manca at £12.50** including a drink is the cheapest thing on this page that anyone would recommend on its own merits.
 
-Two caveats on the chains. **Côte's price varies by branch**, so check the specific one. And **Dishoom does not say which branches carry Swift Lunches** — confirm with your local one rather than assuming.
+Two caveats on the chains. **Côte's price varies by branch**, so check the specific one. And **Dishoom does not say which branches carry Swift Lunches** — confirm with your local one instead of assuming.
 
 ---
 
@@ -141,7 +141,7 @@ Same mechanism, later in the day. A restaurant near a theatre needs its 5.30pm t
 
 **Bocca di Lupo is the best-placed of these** — two minutes from Shaftesbury Avenue, and its window runs to 6.30pm, which is late enough for a 7.30pm curtain without rushing.
 
-**The Delaunay's Full Haus runs again from 9pm**, which is the one on this page worth knowing for after a show rather than before it.
+**The Delaunay's Full Haus runs again from 9pm**, which makes it the one on this page for after a show rather than before it.
 
 **Watch the clock, not just the price.** A 6.30pm cut-off means ordering by 6.30pm, not arriving. For a 7.30pm curtain, book at 5.30pm — see our [London theatre guide](/articles/london-theatre-guide/) for how curtain times and running times actually work.
 
@@ -153,7 +153,7 @@ Same mechanism, later in the day. A restaurant near a theatre needs its 5.30pm t
 - **The Wolseley** serves lunch 11.30am–3pm but has no set-price lunch menu at all
 - **Barrafina** does not run one; the tapas are à la carte only
 - **Alain Ducasse at The Dorchester** charges the same at lunch as at dinner
-- **Quo Vadis and Brasserie Zédel** are the same price in the evening — genuinely good value, just not a lunchtime saving
+- **Quo Vadis and Brasserie Zédel** are the same price in the evening — good value, just not a lunchtime saving
 
 **Also gone:** Le Gavroche closed in January 2024, Marcus Wareing in December 2023. Any list still recommending their set lunches has not been checked in two years.
 

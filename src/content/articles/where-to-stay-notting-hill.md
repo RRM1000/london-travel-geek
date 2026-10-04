@@ -218,7 +218,7 @@ On the same square as Onefam, from a Barcelona hostel group. **The London hostel
 
 *About £700 · 1 Redan Place, W2 4SA · Bayswater 5 min · Breakfast extra · [Hotels.com](hotel:six-senses-london)*
 
-109 rooms and suites inside The Whiteley, the rebuilt Whiteleys department store at the top of Queensway. **The spa is the reason to pay this**: it is built underground, designed to recall an old Tube station, with cryotherapy and flotation alongside the treatment rooms. Whiteley's Kitchen, Bar and Café is the restaurant, and hotel guests can use Six Senses Place, the members' club in the building.
+109 rooms and suites inside The Whiteley, the rebuilt Whiteleys department store at the top of Queensway. **Pay for the spa**: it is built underground, designed to recall an old Tube station, with cryotherapy and flotation alongside the treatment rooms. Whiteley's Kitchen, Bar and Café is the restaurant, and hotel guests can use Six Senses Place, the members' club in the building.
 
 <div class="photo-row">
 

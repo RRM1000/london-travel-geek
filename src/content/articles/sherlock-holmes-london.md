@@ -71,7 +71,7 @@ The sites are spread over Marylebone, Euston, the City and Westminster. Every ad
 
 ### The private options, if you'd rather not share
 
-**<a href="https://www.getyourguide.com/activity/-t406534?partner_id=WWP7I0R&amp;cmp=sherlock-holmes-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London: Sherlock Holmes Guided City Walking Tour</a>** is priced as a private group rather than per person: **£180 for up to 15 people**, 3 hours, **5.0 from 7 reviews**. It runs from Piccadilly to Baker Street by way of Victoria Embankment, Downing Street, Piccadilly Circus and Trafalgar Square - for a full group, that's £12 a head or less.
+**<a href="https://www.getyourguide.com/activity/-t406534?partner_id=WWP7I0R&amp;cmp=sherlock-holmes-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London: Sherlock Holmes Guided City Walking Tour</a>** is priced as a private group, not per person: **£180 for up to 15 people**, 3 hours, **5.0 from 7 reviews**. It runs from Piccadilly to Baker Street by way of Victoria Embankment, Downing Street, Piccadilly Circus and Trafalgar Square - for a full group, that's £12 a head or less.
 
 ![A gilded, mosaic-tiled ceiling and walls inside the Criterion, with a painted sign pointing the way to the theatre](../../assets/articles/sherlock-holmes-london/the-criterion-piccadilly.jpg)
 
@@ -85,7 +85,7 @@ The sites are spread over Marylebone, Euston, the City and Westminster. Every ad
 
 **221b Baker St, Marylebone, London, NW1 6XE.** Open every day, **9:30am-6pm, last entry 5:30pm**. **£19 for an adult, £17 concession, £14 for a child under 16, free under 6.** Book online at sherlock-holmes.co.uk; the rooms are small and a queue is normal outside regardless.
 
-The museum occupies a four-storey Georgian townhouse built in 1815, one minute's walk from Baker Street station in [Marylebone](/articles/marylebone-area-guide/). It has traded as the Sherlock Holmes Museum since 1990, and its own plaque on the front marks Holmes's fictional residency "from 1881 to 1904" - the dates the stories imply, not a fact about the building's real history. A costumed constable greets visitors at the door, and guides in period dress lead the way up a narrow staircase into a recreation of the sitting room, furnished with Victorian curiosities rather than anything that belonged to a real person. Photography is allowed inside; filming needs permission first.
+The museum occupies a four-storey Georgian townhouse built in 1815, one minute's walk from Baker Street station in [Marylebone](/articles/marylebone-area-guide/). It has traded as the Sherlock Holmes Museum since 1990, and its own plaque on the front marks Holmes's fictional residency "from 1881 to 1904" - the dates the stories imply, not a fact about the building's real history. A costumed constable greets visitors at the door, and guides in period dress lead the way up a narrow staircase into a recreation of the sitting room, furnished with Victorian curiosities, not anything that belonged to a real person. Photography is allowed inside; filming needs permission first.
 
 ![The recreated sitting room at the Sherlock Holmes Museum, with a guide in Victorian dress beside the fireplace and armchairs roped off for viewing](../../assets/articles/sherlock-holmes-london/sherlock-holmes-museum.jpg)
 
@@ -135,7 +135,7 @@ In Conan Doyle's *A Study in Scarlet* (1887), Holmes and Watson meet for the fir
 
 *187 North Gower Street.*
 
-The production filmed here rather than on Baker Street because the real street was too busy to close for filming, and already carried too many things labelled "Sherlock Holmes" to disguise for the shoot. **Speedy's café, next door, is real and still trading.** Go in and buy something rather than only photographing the door.
+The production filmed here rather than on Baker Street because the real street was too busy to close for filming, and already carried too many things labelled "Sherlock Holmes" to disguise for the shoot. **Speedy's café, next door, is real and still trading.** Go in and buy something instead of only photographing the door.
 
 <div data-stay-strip></div>
 
@@ -176,7 +176,7 @@ Start at **Baker Street** for the free statue, then the museum. Walk the ten min
 
 **Undershaw.** Conan Doyle's own house, where he wrote *The Hound of the Baskervilles*, is real and still standing in Hindhead, Surrey, about 40 miles from London - but since 2014 it has been Stepping Stones School, a working school for children with additional needs. It isn't a museum, it isn't in London, and it isn't a visit, whatever a tour description might imply.
 
-**The black cab tour, solo.** £499 for up to six people is a genuinely good rate split between a group. Travelling alone, it's the most expensive way on this page to see addresses that cost nothing to reach on foot or by Tube.
+**The black cab tour, solo.** £499 for up to six people is a good rate split between a group. Travelling alone, it's the most expensive way on this page to see addresses that cost nothing to reach on foot or by Tube.
 
 ## Continue planning your London trip
 

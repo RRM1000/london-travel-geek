@@ -20,17 +20,17 @@ faq:
   - q: "What is the best time to visit London in September?"
     a: "The first week if you want the city quiet and cheap, the middle if you want the most to do. Schools go back in the first few days, so from around the 5th the museums and restaurants ease off sharply while the weather still holds. The middle of the month is the opposite trade: Open House, the London Design Festival and Heritage Open Days all overlap, and London Fashion Week follows immediately, so there is more on than at any other point in the year and hotel rates rise to match."
   - q: "When can I get tickets for the Bayeux Tapestry at the British Museum?"
-    a: "The next general ticket release is 21 October 2026, covering visits between 1 January and 31 March 2027. Members' priority booking reopens earlier, on 6 October 2026. The exhibition itself opened on 10 September 2026 and runs until 11 July 2027 in Room 30, and earlier releases have gone quickly — the museum's newsletter is the only dependable way to hear when the next one opens. Worth knowing that it stays open until 9pm from Thursday to Saturday, so late slots are the calmest."
+    a: "The next general ticket release is 21 October 2026, covering visits between 1 January and 31 March 2027. Members' priority booking reopens earlier, on 6 October 2026. The exhibition itself opened on 10 September 2026 and runs until 11 July 2027 in Room 30, and earlier releases have gone quickly — the museum's newsletter is the only dependable way to hear when the next one opens. It stays open until 9pm from Thursday to Saturday, so late slots are the calmest."
   - q: "What events are on in London in September 2026?"
     a: "Totally Thames runs the whole month along the river. Open House and the London Design Festival both ran 12 to 20 September, Heritage Open Days 11 to 20, and London Fashion Week 17 to 21. Saturday 12 September was the busiest single day of the month: the Great River Race rowed 21.6 miles from Millwall to Ham from 12.45pm, and the Last Night of the Proms closed the season at the Royal Albert Hall at 7.15pm."
   - q: "Is Open House London free?"
-    a: "Yes, entirely. The catch is not money but timing — the programme goes live in August, and the buildings people most want to see either ballot or release timed slots that go within hours of opening. If you are deciding in September, the marquee buildings have gone. Plan around the walk-up sites instead, of which there are hundreds, and set a reminder for the programme launch each August."
+    a: "Yes, entirely. The constraint is timing, not money — the programme goes live in August, and the buildings people most want to see either ballot or release timed slots that go within hours of opening. If you are deciding in September, the marquee buildings have gone. Plan around the walk-up sites instead, of which there are hundreds, and set a reminder for the programme launch each August."
   - q: "Can you still get tickets for the Last Night of the Proms?"
     a: "The 2026 concert was on 12 September and is over, but seats sell out far in advance every year, and the hall is never closed to you. Day Promming tickets — standing, in the arena or the gallery — go on sale at 9.30am on the day of the concert, two per person. Season ticket holders can redeem from 11am the day before. It is the cheapest way into the most oversubscribed classical concert in Britain and almost no guide mentions it."
   - q: "Which exhibition was the biggest to close in London in September 2026?"
     a: "James McNeill Whistler at Tate Britain, which closed on Sunday 27 September 2026. It was ticketed and free for Tate Members."
   - q: "What is the weather like in London in September?"
-    a: "Usually 19 to 21°C by day and around 12 to 13°C at night, cooling noticeably through the month, and historically one of the drier months. The practical point is that afternoons stay warm while evenings stop being reliable — take a jacket even on a hot day. Sunset moves from about 7.30pm at the start of the month to about 6.45pm by the end, so the last genuinely good evenings for river walks and outdoor drinking are the first three weeks."
+    a: "Usually 19 to 21°C by day and around 12 to 13°C at night, cooling noticeably through the month, and historically one of the drier months. The practical point is that afternoons stay warm while evenings stop being reliable — take a jacket even on a hot day. Sunset moves from about 7.30pm at the start of the month to about 6.45pm by the end, so the last good evenings for river walks and outdoor drinking are the first three weeks."
 ---
 
 September is the month London stops performing for visitors and goes back to being a working city — and it is, for that reason, one of the two or three best months to be here.
@@ -69,15 +69,15 @@ These come round every year. If you are reading this in a later September, the d
 
 A month-long river festival run by the Thames Festival Trust, and easy to miss because it does not present as a single event you can turn up to. It is dispersed by design: **art installations, boat trips, river races, environmental projects and — the ones worth planning around — foreshore archaeology walks**, where you go down onto the exposed riverbed at low tide with someone who can tell you what you are looking at.
 
-A large share of it is free. The foreshore walks are the exception in demand rather than price, and they book out early, because the number of people who can safely stand on a tidal foreshore is small and the tide decides the timings rather than the organisers.
+A large share of it is free. The foreshore walks are the exception in demand rather than price, and they book out early, because the number of people who can safely stand on a tidal foreshore is small and the tide, not the organisers, decides the timings.
 
-The Thames is the reason London is here, and September is the one month the city organises itself around saying so.
+London is here because of the Thames, and September is the one month the city organises itself around saying so.
 
 ### The Great River Race — 21.6 miles, 300 boats, mostly in fancy dress
 
 **The race was on Saturday 12 September 2026, first boats crossing the start line at 12.45pm.**
 
-London's river marathon, and a genuinely strange and wonderful thing to stumble on. Around **300 fixed-seat crews row 21.6 miles from Millwall in the east to Ham in the west**, under every bridge in between. It started in 1988 with 61 boats and is now international, with crews from America, Australia and across Europe — and a large part of the field is raising money in fancy dress, so the serious athletes are threaded through a flotilla of nonsense.
+London's river marathon, and a strange and wonderful thing to stumble on. Around **300 fixed-seat crews row 21.6 miles from Millwall in the east to Ham in the west**, under every bridge in between. It started in 1988 with 61 boats and is now international, with crews from America, Australia and across Europe — and a large part of the field is raising money in fancy dress, so the serious athletes are threaded through a flotilla of nonsense.
 
 **It is free to watch and you do not need a plan.** Stand on any bridge or bank and it will come past; the organiser publishes an observation points page giving rough times along the course. The finish at Ham has food, a bar and a disco. There is also a supporters' boat from Millwall to Ham, which is bookable.
 
@@ -89,7 +89,7 @@ One warning worth carrying: **the start time moves with the tide** and is confir
 
 Open City opens buildings across every London borough that are normally shut, private or expensive: **livery halls, private houses, government buildings, infrastructure, and architects' own homes**, which are consistently the most interesting category and the least contested.
 
-**The catch is not money, it is timing, and this is where most people go wrong.** The programme goes live in August. The buildings everyone wants — the ones that appear in the newspaper write-ups — either run a ballot or release timed slots that are gone within hours. By September the marquee list has been taken.
+**The constraint is timing, not money, and this is where most people go wrong.** The programme goes live in August. The buildings everyone wants — the ones that appear in the newspaper write-ups — either run a ballot or release timed slots that are gone within hours. By September the marquee list has been taken.
 
 That is not a reason to skip it. Hundreds of buildings are walk-up, no booking, just a queue and a volunteer at the door, and they are frequently better than the famous ones because you can take your time. **The move is to ignore the towers, pick a neighbourhood, and walk it.** Then set a reminder for the programme launch each August.
 
@@ -111,7 +111,7 @@ Built on **design districts** — Brompton, Shoreditch, Mayfair, Bankside and ot
 
 **Most of it is free and unticketed**, which is the part people do not realise: the installations are simply in the city, and you can walk into them. The Global Design Forum and the talks programme are ticketed and do sell out.
 
-Because it runs the same nine days as Open House, the sensible approach is to treat them as a single week rather than choose. One gets you inside buildings; the other tells you what people are doing with the insides of buildings.
+Because it runs the same nine days as Open House, the sensible approach is to treat them as a single week instead of choosing. One gets you inside buildings; the other tells you what people are doing with the insides of buildings.
 
 ### Last Night of the Proms — and how to actually get in
 
@@ -181,11 +181,11 @@ Not a listings page — Songkick and DICE do that better. These are the shows wo
 
 **The New York jazz club opened its first UK venue** on St Martin's Lane on 23 September, joining a group that already runs rooms in New York, Los Angeles, Tokyo and Milan.
 
-The layout is the part worth knowing. There are **two rooms**: a **300-seat main room**, and **B-Side, a 130-seat space** for late sets, emerging artists and one-offs. That means **two shows a night, every night** — so a sold-out headliner does not close the building, and the B-Side programme is where the interesting risks will be taken. There is a full kitchen and a bar, with a cocktail list built on reimagined jazz-era classics.
+There are **two rooms**: a **300-seat main room**, and **B-Side, a 130-seat space** for late sets, emerging artists and one-offs. That means **two shows a night, every night** — so a sold-out headliner does not close the building, and the B-Side programme is where the interesting risks will be taken. There is a full kitchen and a bar, with a cocktail list built on reimagined jazz-era classics.
 
 **Robert Glasper played the sold-out opening night.** The rest of the opening run follows: **Sinead Harnett on the 25th, corto.alto on the 26th, Yussef Dayes on the 27th, and Jamie Cullum across the 28th and 29th**, with Nik West carrying it into October.
 
-Look further ahead before you book anything, because the October diary is extraordinary for a room that will be three weeks old: **Erykah Badu on the 10th and 11th**, Baaba Maal, **Nubya Garcia across the 15th to 17th**, and **Shabaka on the 19th and 20th**. If you are choosing a night, choose on the programme rather than the novelty.
+Look further ahead before you book anything, because the October diary is extraordinary for a room that will be three weeks old: **Erykah Badu on the 10th and 11th**, Baaba Maal, **Nubya Garcia across the 15th to 17th**, and **Shabaka on the 19th and 20th**. If you are choosing a night, choose on the programme, not the novelty.
 
 **Good Kid with Last Dinosaurs play the Roundhouse on the 26th** — still to come, and the one to take seriously if you have any history with that room. Earlier in the month it hosted **Saint Etienne** on the 18th and **Bellaire, Dublon and Jeremy Underground** on the 12th.
 
@@ -223,7 +223,7 @@ Three more worth watching: **Romy Gill has taken over The Pem** in St James's an
 
 **Weather.** Typically 19–21°C by day, 12–13°C at night, cooling through the month, and historically one of the drier ones. The thing to plan for is the gap between afternoon and evening: take a jacket even when the day is warm.
 
-**Daylight.** Sunset moves from roughly 7.30pm on the 1st to about 6.45pm on the 30th, with the equinox around the 22nd. The last genuinely good evenings for river walks, roof terraces and outdoor tables are in the first three weeks.
+**Daylight.** Sunset moves from roughly 7.30pm on the 1st to about 6.45pm on the 30th, with the equinox around the 22nd. The last good evenings for river walks, roof terraces and outdoor tables are in the first three weeks.
 
 **Crowds.** The best argument for September. Schools return in the first week and the difference is immediate — from about the 5th, the big museums, the major attractions and the restaurants that never have tables all become manageable.
 

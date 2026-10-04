@@ -24,13 +24,13 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 faq:
   - q: "Is Tastecard worth it in London?"
-    a: "At £29.99 a year it pays for itself in under two meals, so for most people who eat out monthly, yes. The catch is availability rather than price: of its 635 London restaurants, only 193 accept the card on both a Friday and a Saturday, and 55% require you to book by phone in advance."
+    a: "At £29.99 a year it pays for itself in under two meals, so for most people who eat out monthly, yes. The limit is availability, not price: of its 635 London restaurants, only 193 accept the card on both a Friday and a Saturday, and 55% require you to book by phone in advance."
   - q: "What is the difference between Tastecard and Gourmet Society?"
     a: "Almost nothing, because they are the same company. Ello Group owns both, and the terms on Tastecard's own site name Taste Marketing Ltd and Simard Ltd as sister companies sharing one VAT number. Of their London restaurants, 527 appear on both lists. Tastecard costs £29.99 a year and Gourmet Society £79.99."
   - q: "Which restaurant discount card has the most London restaurants?"
     a: "NeoTaste, with 1,033 London venues listed in its own sitemap, against 635 for Tastecard, 591 for Gourmet Society and 289 for Dine Club within 25 miles of Covent Garden. NeoTaste's deals work differently though — each one has to be booked in the app for a time slot, and you cannot repeat the same deal at the same restaurant straight away."
   - q: "Can you use a discount card at weekends in London?"
-    a: "Often not. Across Tastecard's 635 London restaurants, 388 exclude Saturday and 269 exclude Friday. Only 30% take the card on both a Friday and a Saturday, falling to 27% in central London. Check the individual restaurant's listing rather than assuming."
+    a: "Often not. Across Tastecard's 635 London restaurants, 388 exclude Saturday and 269 exclude Friday. Only 30% take the card on both a Friday and a Saturday, falling to 27% in central London. Check the individual restaurant's listing instead of assuming."
   - q: "Do restaurant discount cards work with set lunch menus?"
     a: "Assume not. Ello Group's terms say offers 'may not be available for use in conjunction with any other offers', Dine Club allows only one membership per visit, NeoTaste forbids combining deals, and Meerkat Meals warns that restrictions may apply to special menus. A restaurant's own fixed-price lunch is already the discount."
   - q: "How do you cancel a restaurant discount card?"
@@ -61,7 +61,7 @@ Everything below was **read off each scheme's own website on 3 September 2026**,
 
 **Worth it if:** you eat out in London at least once a month, you are flexible about which restaurant, and you are happy eating Sunday to Thursday. On a £70 bill for two, 25% off saves £17.50 — so a £29.99 annual card is ahead after the second meal.
 
-**Not worth it if:** you eat out mainly on Friday and Saturday nights, you book specific restaurants rather than browsing for one that takes the card, or you eat out a handful of times a year. Nothing here beats simply going at lunchtime — see [set lunch and pre-theatre menus](/articles/restaurant-deals-london/).
+**Not worth it if:** you eat out mainly on Friday and Saturday nights, you book specific restaurants, not browsing for one that takes the card, or you eat out a handful of times a year. Nothing here beats simply going at lunchtime — see [set lunch and pre-theatre menus](/articles/restaurant-deals-london/).
 
 ---
 
@@ -91,11 +91,11 @@ The biggest list of the traditional cards and, at the annual price, the cheapest
 
 By postcode: **E1 36** (33 independents, mostly Brick Lane curry houses), **WC2 32**, **W1 30**, **SE1 24**, **SW1 16**.
 
-The photograph at the top of this page is **Babel Grill House at 40 Brick Lane**, and it is a fair summary of the whole proposition: a genuinely good-looking room, a **2-for-1** offer, and the terms attached — **Monday to Thursday only**, no Friday, no Saturday, no bank holidays, and you must telephone to book.
+The photograph at the top of this page is **Babel Grill House at 40 Brick Lane**, and it is a fair summary of the whole proposition: a good-looking room, a **2-for-1** offer, and the terms attached — **Monday to Thursday only**, no Friday, no Saturday, no bank holidays, and you must telephone to book.
 
 Places on the list a Londoner would actually choose: **Arros QD** in Fitzrovia, **Maresco** in Soho, **Kapara Soho**, **Bala Baya** in Southwark, **Farzi London**, **Café Spice Namasté**, **Macellaio RC**, **Escocesa**, **Bar Esteban**, **Dirty Bones Soho**, **The Mayfair Chippy** and **Yuu Kitchen**. That is a real list. It is also about a dozen restaurants out of 635.
 
-**The catches, measured rather than guessed.** Reading the small print on every one of the 635 London pages:
+**The restrictions, measured rather than guessed.** Reading the small print on every one of the 635 London pages:
 
 | Exclusion | Restaurants | Share |
 | --- | --- | --- |
@@ -107,7 +107,7 @@ Places on the list a Londoner would actually choose: **Arros QD** in Fitzrovia, 
 
 **Only 193 of the 635 — 30% — take the card on both a Friday and a Saturday.** In central London it is 52 out of 191, or 27%. And **347 of them, 55%, say you must telephone to book in advance.** "Celebration Days" is never defined.
 
-One more honest note on the headline. Tastecard advertises savings of "over £600 a year", and its own page breaks that down as **£246 from coffee** and only **£222 from dining**. The biggest component of the claim is 25% off flat whites.
+One more note on the headline. Tastecard advertises savings of "over £600 a year", and its own page breaks that down as **£246 from coffee** and only **£222 from dining**. The biggest component of the claim is 25% off flat whites.
 
 **Verdict: buy it, at the annual price, and treat it as a midweek card.** Four coffees a month covers the monthly fee on their own.
 
@@ -133,13 +133,13 @@ The benefits are word-for-word identical on the two join pages: the same 25% off
 
 **£49.99 a year or £4.99 a month. Around 289 venues within 25 miles of Covent Garden.**
 
-A genuinely separate company — Rocket UK Ltd of Brighton, nothing to do with Ello Group. Same three offer types: 25% off the total bill *including drinks*, 50% off the food bill, or 2-for-1 on mains. Extras run to 40% off cinema and up to 50% off theatre tickets, which is the most interesting thing about it. The annual plan includes a physical card as well as the app, and restaurants must hold a 3.5-star rating to join.
+A separate company — Rocket UK Ltd of Brighton, nothing to do with Ello Group. Same three offer types: 25% off the total bill *including drinks*, 50% off the food bill, or 2-for-1 on mains. Extras run to 40% off cinema and up to 50% off theatre tickets, which is the most interesting thing about it. The annual plan includes a physical card as well as the app, and restaurants must hold a 3.5-star rating to join.
 
 **The London reality.** Much smaller than the others, and concentrated in the centre. Within a mile: **27 around Covent Garden, 24 around Soho, 16 around Brick Lane, 8 around Borough, and 5 around Victoria.** Within three miles of Covent Garden, 82.
 
 Small, but better chosen. **RedFarm**, **El Ta'koy**, **Paladar**, **Shepherd's of Westminster**, **London Steakhouse Co.**, **Isolabella**, **Mango** at Borough Market and the **Lucky Voice** karaoke bars are a more appealing central list than Tastecard's, even though there are a fifth as many.
 
-**The catch is cancellation.** From Dine Club's own FAQ: you must contact them "on 01273 668831 or email enquiries@dineclub.co.uk (Mon–Fri 9am–5.30pm) at any point during your 12 month Membership but **no later than 3 days prior to your renewal date**". There is no in-app cancel button. Its restaurants can also exclude Friday and Saturday nights, December, bank holidays and celebration days, exactly as Tastecard's can.
+**Cancellation is the drawback.** From Dine Club's own FAQ: you must contact them "on 01273 668831 or email enquiries@dineclub.co.uk (Mon–Fri 9am–5.30pm) at any point during your 12 month Membership but **no later than 3 days prior to your renewal date**". There is no in-app cancel button. Its restaurants can also exclude Friday and Saturday nights, December, bank holidays and celebration days, exactly as Tastecard's can.
 
 **Verdict: only if the central list happens to suit you** — and diarise the cancellation date the day you join.
 
@@ -167,9 +167,9 @@ Worth separating out: **Meerkat Movies, the 2-for-1 cinema offer, now needs no p
 
 The newcomer, and structurally a different animal. NeoTaste is a Berlin company now running in seven UK cities, and it lists **more London venues than any other scheme here** — 1,033 in its own sitemap, against 811 in Berlin, its home city.
 
-**The London reality.** The list is almost entirely independent and much fresher: **Wingmans Soho**, **Kanada-Ya Piccadilly**, **Preto Angel**, **Café de Nata Soho**, **Steak & Bun Marylebone**, **Sandwich Sandwich**, **Eggbreak**, **The Noodle Inn**, **3 Locks Brewing** and **Bagelbuzz** are all on it. Deals are specific rather than blanket — "2-for-1 signature wings", "2-for-1 main item plus 30% discount", "£10 discount and a free dessert".
+**The London reality.** The list is almost entirely independent and much fresher: **Wingmans Soho**, **Kanada-Ya Piccadilly**, **Preto Angel**, **Café de Nata Soho**, **Steak & Bun Marylebone**, **Sandwich Sandwich**, **Eggbreak**, **The Noodle Inn**, **3 Locks Brewing** and **Bagelbuzz** are all on it. Deals are specific, not blanket — "2-for-1 signature wings", "2-for-1 main item plus 30% discount", "£10 discount and a free dessert".
 
-**The catch is the model, not the small print.** Per its terms, every deal must be **booked in the app in advance for a time slot**; only one deal per member per restaurant at a time; and — the important one — **"the same Deal can only be booked again at the same restaurant after a certain period of time"**, which varies by restaurant. It is designed to make you try somewhere new, not to discount your local every week. Dine-in only, and you must show the booking before you order and redeem it before you pay.
+**The limit is in the model, not the small print.** Per its terms, every deal must be **booked in the app in advance for a time slot**; only one deal per member per restaurant at a time; and — the important one — **"the same Deal can only be booked again at the same restaurant after a certain period of time"**, which varies by restaurant. It is designed to make you try somewhere new, not to discount your local every week. Dine-in only, and you must show the booking before you order and redeem it before you pay.
 
 The website advertises a free trial but does not say how long it lasts, which is a small black mark. Cancellation is by email at the end of the billing cycle.
 

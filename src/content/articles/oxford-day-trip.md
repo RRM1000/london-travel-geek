@@ -23,7 +23,7 @@ faq:
   - q: "Is the Harry Potter Great Hall at Christ Church?"
     a: "No. The Hogwarts Great Hall is a set at Leavesden. What is real at Christ Church is the Hall staircase in Bodley Tower, which the college itself lists among its film credits, and the Bodleian's Divinity School, which the library describes as the infirmary in the films."
   - q: "Can you see Oxford in one day from London?"
-    a: "Yes, comfortably, if you pick one paying college and one free museum rather than three of each. Leave London by 09:30, be on a train back by 18:00 and you get seven hours in a city centre you can cross on foot in twenty minutes."
+    a: "Yes, comfortably, if you pick one paying college and one free museum, not three of each. Leave London by 09:30, be on a train back by 18:00 and you get seven hours in a city centre you can cross on foot in twenty minutes."
   - q: "Does National Rail 2FOR1 work in Oxford?"
     a: "It works on Oxford Castle and Prison, The Story Museum and the Soldiers of Oxfordshire Museum, and gets 15% off the four official Oxford walking tours. No college, and not the Bodleian."
   - q: "What is the last train back to London from Oxford?"
@@ -116,15 +116,15 @@ Parking alone at Thornhill is free for the first hour and £2.50 up to 16 hours 
 
 **From London with the seat included**, <a href="https://www.getyourguide.com/activity/-t1071749?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford Tour with Christ Church &amp; Bodleian Library</a> is **£150**, ten hours, a group of 16 and an Oxford student guide, with Christ Church, the Divinity School and a third college all included outright. Bought yourself that is £37.70 of train, £22.95 of Christ Church and £3 of Divinity School — about £64. The other £86 is the guide and the not-queuing.
 
-### If you want the Cotswolds, the coach is the point
+### If you want the Cotswolds, take the coach
 
 <a href="https://www.getyourguide.com/activity/-t173892?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford and Cotswolds Villages Small Group Tour</a> is **£74** for ten hours, 4.6 from 1,949 reviews, and includes transport and a guide — which is everything the villages need, because they charge nothing. The most-booked Oxford product on the platform, <a href="https://www.getyourguide.com/activity/-t60796?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Cotswolds and Oxford Guided Day Trip</a> at **£79** and 4,445 reviews, is the same bargain — a guide and a coach seat, and no college entry of any kind.
 
-Add Stratford and it costs money: <a href="https://www.getyourguide.com/activity/-t44382?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Small Group Oxford, Stratford and Cotswolds Day Tour</a> is the best-rated of the lot at 4.9, on a 16-seat minibus, but it is **£154** and it puts Shakespeare's Birthplace in its excludes list rather than hiding it in an option.
+Add Stratford and it costs money: <a href="https://www.getyourguide.com/activity/-t44382?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Small Group Oxford, Stratford and Cotswolds Day Tour</a> is the best-rated of the lot at 4.9, on a 16-seat minibus, but it is **£154** and it puts Shakespeare's Birthplace in its excludes list instead of hiding it in an option.
 
 ### The Harry Potter angle: Christ Church is the ticket
 
-<a href="https://www.getyourguide.com/activity/-t331461?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Harry Potter Walking Tour Including New College</a> is **£35**, student-led, 4.7 from 1,764, and includes entry to New College and the Divinity School — the two locations on this page that are genuinely in the films, and £15 at the door between them. It does not include Christ Church; the £80 tour above does, and so does the £150 day from London.
+<a href="https://www.getyourguide.com/activity/-t331461?partner_id=WWP7I0R&amp;cmp=oxford-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Harry Potter Walking Tour Including New College</a> is **£35**, student-led, 4.7 from 1,764, and includes entry to New College and the Divinity School — the two locations on this page that are in the films, and £15 at the door between them. It does not include Christ Church; the £80 tour above does, and so does the £150 day from London.
 
 ### One more big stop
 
@@ -173,7 +173,7 @@ Colleges are working institutions, not attractions. Two patterns catch people ou
 
 > ⚠️ **The Great Hall closes 12:00–14:00 Monday to Friday** while students eat, and **10:30–14:00 on Saturdays in term**. On Sundays the Hall opens at 14:00. On Saturdays the Cathedral shuts at 16:45 for choir practice. Christ Church publishes a known-closures page and the booking system labels slots where the Hall or Cathedral is shut — which also cost less.
 
-### The Harry Potter bit, honestly
+### The Harry Potter bit
 
 **The staircase is real. The Great Hall is not.** Christ Church's own notes on the Hall staircase in Bodley Tower, under its 1638 fan vaulting, say it "has been used in a number of film and television projects including *Lewis* and *Harry Potter*". The Hogwarts Great Hall you remember is a set, and you can walk onto it at the [Warner Bros. Studio Tour](/articles/harry-potter-studio-tour/) instead.
 
@@ -259,7 +259,7 @@ Everything else is ticketed, and cheaply:
 
 **Cherwell Boathouse** is in north Oxford, cheaper, and has about 80 handmade boats, so midweek availability is good and weekends are not. Its season is shorter — mid-March to mid-October. Punt upstream for half an hour and there is a pub, the Victoria Arms; downstream runs through the University Parks.
 
-**Chauffeured is the honest choice for a first go.** £50 buys half an hour of someone competent doing it while you sit still, against £35 for an hour of turning in circles with an audience on Magdalen Bridge.
+**Chauffeured suits a first go.** £50 buys half an hour of someone competent doing it while you sit still, against £35 for an hour of turning in circles with an audience on Magdalen Bridge.
 
 ## Does 2FOR1 cover anything here?
 
@@ -284,7 +284,7 @@ The rules are the part people get wrong — it needs a National Rail ticket and 
 A working shape:
 
 - **10:30** — arrive, walk up to Radcliffe Square, Divinity School for £3
-- **11:15** — one paying college. Christ Church if the Hall matters to you, Magdalen if £10 and a river do
+- **11:15** — one paying college. Christ Church if you want the Hall, Magdalen if £10 and a river appeal
 - **13:00** — Covered Market
 - **14:00** — the free afternoon colleges open; Lincoln, Keble or St John's
 - **15:00** — Pitt Rivers and Natural History, both free, both in one building
@@ -301,6 +301,6 @@ A working shape:
 
 - ⚡ **[The Harry Potter Studio Tour](/articles/harry-potter-studio-tour/)** — where the Great Hall actually is, and what it costs to stand in it.
 - 🚶 **[The best walking tours in London](/articles/best-walking-tours-london/)** — if the guided approach suits you, this is the London equivalent.
-- 🎟️ **[National Rail 2FOR1, properly explained](/articles/national-rail-2for1-london-attractions/)** — the voucher rules, and why Oyster does not qualify.
+- 🎟️ **[National Rail 2FOR1 explained](/articles/national-rail-2for1-london-attractions/)** — the voucher rules, and why Oyster does not qualify.
 - 🏛️ **[The best museums in London](/articles/best-museums-london/)** — the free-museum habit, continued at home.
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.

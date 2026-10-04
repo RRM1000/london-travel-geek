@@ -37,7 +37,7 @@ everything in London that charges nothing at all — is
 **[free things to do in London](/free/)**, which is a longer list than most
 people expect.
 
-> 💡 **The Short Version:** A careful day in London is about **£32** and a comfortable one about **£150**. **Transport caps at £8.90**, so you cannot overspend on it. **Set lunch** at a good restaurant is routinely half the evening price for the same kitchen. **ICCO** does a twelve-inch pizza for **£3.95**. A **dorm bed** near King's Cross starts about **£11** and a **capsule at Piccadilly Circus** about **£33**. And the sightseeing can genuinely cost nothing — [the free list](/free/) runs to hundreds of entries.
+> 💡 **The Short Version:** A careful day in London is about **£32** and a comfortable one about **£150**. **Transport caps at £8.90**, so you cannot overspend on it. **Set lunch** at a good restaurant is routinely half the evening price for the same kitchen. **ICCO** does a twelve-inch pizza for **£3.95**. A **dorm bed** near King's Cross starts about **£11** and a **capsule at Piccadilly Circus** about **£33**. And the sightseeing can cost nothing — [the free list](/free/) runs to hundreds of entries.
 
 *Prices checked September 2026. Fares and caps are TfL's published 2026 rates; meal prices are from the operators' own menus. No paid placements.*
 
@@ -63,7 +63,7 @@ transport in London unless you take taxis or buy paper tickets.
 **Seeing things is the line most people get wrong in both directions.** London
 gives away more than almost any city — every national museum, the highest
 viewing floor, a seat in a courtroom — so a full day of good sightseeing can
-genuinely cost nothing. [Free things to do in London](/free/) is the whole of
+cost nothing. [Free things to do in London](/free/) is the whole of
 it, written out. What breaks a budget is buying six ticketed attractions at
 £30 each when two would have been the memorable ones.
 
@@ -120,9 +120,9 @@ the day.
 ### Tickets and attractions
 
 * **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — two people in for the price of one at a long list of attractions. You need two people, two valid National Rail tickets, an eVoucher and an attraction actually in the scheme. **Oyster and contactless do not qualify**, which is the trap almost everyone falls into.
-* **[Is the London Pass worth it?](/articles/london-pass-guide/)** — the arithmetic rather than the marketing. Briefly: a 2-day pass is £149 against £142 for the classic big five, so you need a sixth paid attraction before it starts winning.
+* **[Is the London Pass worth it?](/articles/london-pass-guide/)** — the arithmetic, not the marketing. Briefly: a 2-day pass is £149 against £142 for the classic big five, so you need a sixth paid attraction before it starts winning.
 * **[Cinema deals](/articles/cinema-deals-london/)** — **Meerkat Movies gives 2-for-1 every Tuesday or Wednesday with no purchase required**, just the app. If you are 16 to 25, the BFI is **£4** and Picturehouse **£5.99**.
-* **[Theatre](/articles/london-theatre-guide/)** — TKTS at the Leicester Square booth or online, midweek rather than Saturday, plus day seats, rush tickets and lotteries. Where you sit matters as much as what you see.
+* **[Theatre](/articles/london-theatre-guide/)** — TKTS at the Leicester Square booth or online, midweek rather than Saturday, plus day seats, rush tickets and lotteries. Where you sit makes as much difference as what you see.
 
 ## Cheap nights out
 
@@ -142,7 +142,7 @@ Gigs, comedy and theatre with an evening ticket at £15 or under, for the week a
 * **Under-11s travel free** with a fare-paying adult.
 * **Avoid Zone 1 in the morning peak** if your ticket allows — off-peak fares are materially cheaper.
 * **A bike is often faster than the Tube** for short central hops, and cheaper — see [cycling, bike hire and scooters](/articles/cycling-bike-hire-scooters-london/) for what each scheme actually costs.
-* **A council pool is the cheap end of exercise** — **£3.20 to £11.50** a swim against £26–£35 for a single boutique class. [Gyms and leisure centres](/articles/best-gyms-london/) has the casual-use prices, which are what you pay for a week rather than a year's membership.
+* **A council pool is the cheap end of exercise** — **£3.20 to £11.50** a swim against £26–£35 for a single boutique class. [Gyms and leisure centres](/articles/best-gyms-london/) has the casual-use prices, which are what you pay for a week, not a year's membership.
 * **Think twice about a tour bus.** We have [compared them](/articles/london-tour-buses-compared/), and for most people a day bus cap plus a walk does the same job for a fraction of the price.
 
 ![Cafe tables and white parasols under the colonnade of the Covent Garden Market building, with walkers on the cobbles beside them](../../assets/articles/london-on-a-budget/covent-garden-piazza.jpg)
@@ -153,13 +153,13 @@ Gigs, comedy and theatre with an evening ticket at £15 or under, for the week a
 
 ## The cheapest bed in Zone 1
 
-Accommodation is the line that breaks most London budgets, and the one genuinely cheap option in the middle of town is a capsule — about £33 a night at Piccadilly Circus on a quiet date, which is hostel-dorm money for a berth of your own. Our [pod hotels guide](/articles/pod-hotels-london/) explains the trap: the same brand sells windowless private *rooms* under a nearly identical name at three to four times the price. If you are considering one of those, the [windowless rooms guide](/articles/windowless-hotel-rooms-london/) is the honest account of what they are like to sleep in.
+Accommodation is the line that breaks most London budgets, and the one cheap option in the middle of town is a capsule — about £33 a night at Piccadilly Circus on a quiet date, which is hostel-dorm money for a berth of your own. Our [pod hotels guide](/articles/pod-hotels-london/) explains the trap: the same brand sells windowless private *rooms* under a nearly identical name at three to four times the price. If you are considering one of those, the [windowless rooms guide](/articles/windowless-hotel-rooms-london/) describes what they are like to sleep in.
 
 **A dorm bed undercuts all of it** — from about £11 near King's Cross — and adds the thing a capsule does not have, which is a kitchen you can cook in. Our [best hostels in London guide](/articles/best-hostels-london/) compares them on what the booking sites bury: which dorms are en-suite, which women's dorms have their own bathrooms, the age limits that will refuse you, and what gets charged at the desk for a towel and a locker.
 
 **For a hotel room of your own, look a few stops out.** When we priced 46 budget hotels on the same five nights, only three in central London had a typical night of £150 or less, and 19 more did further out, near a fast train into town. [The best budget hotels in London](/articles/best-budget-hotels-london/) has every one, and why a Sunday is the night to book.
 
-**The area matters more than the hotel.** [Best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for and covers the thing that quietly decides the budget — whether there is a train home at one in the morning, or a taxi. For a stay of more than a few nights, an [aparthotel](/articles/aparthotels-london/) with a kitchen usually beats a hotel room on total cost, and if you only need somewhere between a late flight and a check-in, [day rooms](/articles/day-rooms-london/) are cheaper than a wasted night.
+**The area counts for more than the hotel.** [Best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for and covers what sets the budget — whether there is a train home at one in the morning, or a taxi. For a stay of more than a few nights, an [aparthotel](/articles/aparthotels-london/) with a kitchen usually beats a hotel room on total cost, and if you only need somewhere between a late flight and a check-in, [day rooms](/articles/day-rooms-london/) are cheaper than a wasted night.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -169,7 +169,7 @@ Accommodation is the line that breaks most London budgets, and the one genuinely
 2. **Paid attractions.** The Tower, the Shard, Madame Tussauds and the Eye cost £25 or more each. Pick two, not six — and check [what is free](/free/) before you pick at all.
 3. **Drinking.** A pint is £6–£8 in central London. Wetherspoons and the outer zones are roughly half that.
 
-Nothing else on the list moves the total much. The museums, the parks, the views, the walking and the markets are where London is genuinely generous, and no amount of careful planning saves you as much as choosing the right bed and buying two tickets instead of six.
+Nothing else on the list moves the total much. The museums, the parks, the views, the walking and the markets are where London is generous, and no amount of careful planning saves you as much as choosing the right bed and buying two tickets instead of six.
 
 ---
 
@@ -184,7 +184,7 @@ Nothing else on the list moves the total much. The museums, the parks, the views
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 📺 **[Free TV and Radio Tickets](/articles/free-tv-show-tickets-london/)** — studio audiences cost nothing
 - 🔵 **[London's Blue Plaques](/articles/london-blue-plaques/)** and the [plaques map](/plaques/)
-- 🎟️ **[Is the London Pass Worth It?](/articles/london-pass-guide/)** — the arithmetic, done properly
+- 🎟️ **[Is the London Pass Worth It?](/articles/london-pass-guide/)** — the arithmetic worked through
 - 🚇 **[Oyster Card Guide](/articles/oyster-card-guide-london/)**
 - 💳 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 💰 **[Money in London: Cash, Cards and ATMs](/articles/money-in-london/)** — the contactless limit, cash machine charges and how much cash to actually carry

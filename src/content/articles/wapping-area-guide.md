@@ -78,9 +78,9 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 
 ## Why visit — and who should skip it
 
-**Come here if** you like old pubs and river walks. Wapping has the best concentration of genuinely historic riverside pubs in London, all with terraces over the water, and you can walk the whole area in an hour.
+**Come here if** you like old pubs and river walks. Wapping has the best concentration of historic riverside pubs in London, all with terraces over the water, and you can walk the whole area in an hour.
 
-**Skip it if** you want things to do. There is no museum and no gallery, and the one market, on Shadwell Basin, runs on Saturdays only. Wapping is a walk and a pub, and it is best combined with the Tower or Bermondsey rather than visited alone.
+**Skip it if** you want things to do. There is no museum and no gallery, and the one market, on Shadwell Basin, runs on Saturdays only. Wapping is a walk and a pub, and it is best combined with the Tower or Bermondsey, not visited alone.
 
 ## Top sights and activities
 
@@ -121,7 +121,7 @@ East, and the short stretch with the most on it. The **Prospect of Whitby** clai
 
 Next to it stands the **old hydraulic power station**, which pumped pressurised water to drive lifts, cranes and theatre curtains across London until 1977 and is one of the last of its kind anywhere.
 
-**It is a five-minute street.** Pair it with Shadwell Basin at the end rather than making it the destination.
+**It is a five-minute street.** Pair it with Shadwell Basin at the end instead of making it the destination.
 
 ### St Katharine Docks
 West, tucked behind the Tower, and the part of Wapping most visitors actually reach. Thomas Telford built it in the 1820s; it is now a **working marina**, so the water is full of yachts rather than empty, and the lock onto the Thames still operates.
@@ -181,7 +181,7 @@ North. A **Grade I listed warehouse of 1812**, built to hold imported tobacco an
 
 **Best time:** A sunny afternoon, for the pub terraces over the water. Low tide exposes the foreshore at Wapping Old Stairs, which is when the Execution Dock site makes most sense.
 
-**Note:** Wapping is genuinely quiet. Some pubs shut earlier here than elsewhere in London — check before a late evening.
+**Note:** Wapping is quiet. Some pubs shut earlier here than elsewhere in London — check before a late evening.
 
 <div data-stay-strip></div>
 

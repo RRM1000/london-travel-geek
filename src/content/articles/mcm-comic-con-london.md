@@ -103,7 +103,7 @@ EGX, the console and PC gaming expo that used to share ExCeL's calendar as its o
 
 ## Which day is quietest
 
-MCM doesn't publish footfall by day, but the ticket sheet is the best clue there is. **Saturday costs more (£38 general against £29 on the other two days) and runs longer (11am to 7pm, against 6pm on Friday and 5pm on Sunday)** — both signs the organiser is pricing and staffing for the biggest crowd of the weekend. Friday also falls in normal school term: England's autumn half-term doesn't start until Monday 26 October, the day after the show closes, so most school-age fans can only be there after 3.30pm. If a calmer walk round the floor matters more than a specific guest's schedule, Friday or Sunday are the better pick.
+MCM doesn't publish footfall by day, but the ticket sheet is the best clue there is. **Saturday costs more (£38 general against £29 on the other two days) and runs longer (11am to 7pm, against 6pm on Friday and 5pm on Sunday)** — both signs the organiser is pricing and staffing for the biggest crowd of the weekend. Friday also falls in normal school term: England's autumn half-term doesn't start until Monday 26 October, the day after the show closes, so most school-age fans can only be there after 3.30pm. If you want a calmer walk round the floor more than a specific guest's schedule, Friday or Sunday are the better pick.
 
 ## Early entry, the queue and getting through the door
 
@@ -113,7 +113,7 @@ Activate your entry badge in the **MCM app** before you travel — it's required
 
 *The concourse on a busy day.*
 
-- **Security checks bags, cosplay weapons and props before you're through the Queue Hall** — have them out and ready rather than buried in a bag.
+- **Security checks bags, cosplay weapons and props before you're through the Queue Hall** — have them out and ready, not buried in a bag.
 - **Priority and Weekend/VIP ticket holders enter up to two hours before General** each day; VIP badges also get a separate, faster queue for entry, autographs, photo ops and the Main Stage.
 - **Re-entry is allowed up to 30 minutes before the show closes each day** — after that, once you're out, you're out.
 - **An accessibility sticker unlocks separate queuing lanes with seating**, for entry, Main Stage panels and the autograph and photo-op lines; request one on your way in.
@@ -130,7 +130,7 @@ Parking prices, cloakroom locations and which of ExCeL's two stations to use for
 
 ## Food
 
-ExCeL's own restaurants and food stalls are **cashless — no cash accepted anywhere in the venue** — so bring a contactless card or phone wallet. The **Waterfront Street Kitchen & Bar** is ExCeL's sit-down option if you want a proper break rather than a stall queue; beyond that, MCM's ticket FAQ points to a "diverse range" of retail food units through the show. That cashless rule is the opposite of the advice for guest autograph tables above — worth remembering, since one queue wants a card and the next one down the aisle may only want cash.
+ExCeL's own restaurants and food stalls are **cashless — no cash accepted anywhere in the venue** — so bring a contactless card or phone wallet. The **Waterfront Street Kitchen & Bar** is ExCeL's sit-down option if you want a proper break, not a stall queue; beyond that, MCM's ticket FAQ points to a "diverse range" of retail food units through the show. That cashless rule is the opposite of the advice for guest autograph tables above — worth remembering, since one queue wants a card and the next one down the aisle may only want cash.
 
 ## Where to stay
 
@@ -140,7 +140,7 @@ A handful of hotels sit within a few minutes' walk of ExCeL, all in the Royal Do
 - **[Good Hotel London](hotel:good-hotel-london)** — a converted floating platform moored at the Western Gateway, under five minutes from Royal Victoria DLR.
 - **[Sunborn London Yacht Hotel](hotelscom:463416)** — a superyacht moored for good on the dock, with 133 rooms and five suites, every one facing the river or the dock.
 
-Rooms this close to ExCeL price against the show calendar rather than the season, so a quiet week is cheap and an MCM weekend isn't. Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the rest by how close they are to the west side, where the queue hall is, adds the cheapest chains a few DLR stops out, and gives the last train back after the evening events. More on stations and parking in our [ExCeL London travel guide](/articles/excel-london-guide/).
+Rooms this close to ExCeL price against the show calendar, not the season, so a quiet week is cheap and an MCM weekend isn't. Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the rest by how close they are to the west side, where the queue hall is, adds the cheapest chains a few DLR stops out, and gives the last train back after the evening events. More on stations and parking in our [ExCeL London travel guide](/articles/excel-london-guide/).
 
 ## Not to be confused with: London Comic Con Spring
 

@@ -239,7 +239,7 @@ An event adds trains — fifteen Chiltern departures after 22:00 on a midweek co
 
 - **For a big stadium fixture, book months ahead or stay central.**
 - **Or stay the night after** and travel home the next day.
-- **Luggage storage matters more than the room** — see [the bag problem](#the-bag-problem).
+- **Luggage storage counts for more than the room** — see [the bag problem](#the-bag-problem).
 
 ### The hotels at the ground
 

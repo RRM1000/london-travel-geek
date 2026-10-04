@@ -29,7 +29,7 @@ faq:
   - q: "Is there a cheaper place to park than The O2's own car parks?"
     a: "The North Greenwich station car park, run by Saba on TfL land, is separate from The O2's four car parks: 519 spaces, £18 for the day if you arrive before 6pm, £27.50 after — cheaper than paying on the day at Car Park 1, though it can't be pre-booked and isn't guaranteed. There's also a free, 19-space Blue Badge car park on Monro Way, a couple of minutes' walk away, with no time limit for badge holders."
   - q: "Is there a way to avoid the Blackwall Tunnel when driving to The O2?"
-    a: "Yes, if you're coming from north or east London: park near the cable car's Royal Docks terminal, by ExCeL London, and cross the river by cable car instead of driving onto the peninsula at all. ExCeL runs its own large, pre-bookable car park on site, and hotels including Aloft London Excel, Novotel London Excel and Crowne Plaza London Docklands are all within walking distance of the terminal. The catch is timing: this only works for arriving, or for a show that finishes early, since the cable car keeps its usual hours and won't be running for a late finish."
+    a: "Yes, if you're coming from north or east London: park near the cable car's Royal Docks terminal, by ExCeL London, and cross the river by cable car instead of driving onto the peninsula at all. ExCeL runs its own large, pre-bookable car park on site, and hotels including Aloft London Excel, Novotel London Excel and Crowne Plaza London Docklands are all within walking distance of the terminal. The limit is timing: this only works for arriving, or for a show that finishes early, since the cable car keeps its usual hours and won't be running for a late finish."
   - q: "Can you use the cable car to get to or from The O2?"
     a: "To get there from the Royal Docks or ExCeL side, yes — it's a scenic crossing of about ten minutes, and O2 ticket holders get 50% off a walk-up fare on the day. To get home after an evening show, rarely: the cable car closes at 21:00 Sunday to Thursday, 22:00 on Friday and 23:00 on Saturday, before most evening events let out."
   - q: "Can you get the boat home after a show at The O2?"
@@ -50,19 +50,19 @@ The O2 calls itself the world's busiest entertainment arena, and getting most of
 
 ---
 
-## Getting there by tube — and why one line matters
+## Getting there by tube — one line serves it
 
-| Station | Line | Zone | Walk to The O2 | The catch |
+| Station | Line | Zone | Walk to The O2 | Watch out for |
 | --- | --- | --- | --- | --- |
 | **North Greenwich** | **Jubilee only** | 2/3 | **About 5 minutes** | It's the only station — there is no second or third option |
 
-North Greenwich was built as part of the Jubilee Line Extension, and the station's ticket hall sits right against The O2's own forecourt: come up the escalators and the dome is in front of you. The catch: **The O2 depends on a single Underground line**. Wembley has three stations across two lines (Jubilee, Metropolitan, Chiltern, plus the Bakerloo and Overground at Wembley Central); The O2 has one station on one line. If the Jubilee is suspended or severely delayed on a show night, there is no second tube line to switch to — only the bus, the river, the cable car, or a much longer walk.
+North Greenwich was built as part of the Jubilee Line Extension, and the station's ticket hall sits right against The O2's own forecourt: come up the escalators and the dome is in front of you. But **The O2 depends on a single Underground line**. Wembley has three stations across two lines (Jubilee, Metropolitan, Chiltern, plus the Bakerloo and Overground at Wembley Central); The O2 has one station on one line. If the Jubilee is suspended or severely delayed on a show night, there is no second tube line to switch to — only the bus, the river, the cable car, or a much longer walk.
 
 ![The North Greenwich Station sign above the concourse, with escalators running down behind a glass balustrade and buses visible through the glass doors beyond](../../assets/articles/the-o2-travel-guide/north-greenwich-station-entrance.jpg)
 
 *The concourse at North Greenwich station.*
 
-That single-line dependency is also why TfL takes crowd management at this station seriously enough to have a standing procedure for it. In response to a Freedom of Information request, TfL confirmed that after O2 events, station staff **"reduce flow and hold event crowds"** outside the station rather than let the ticket hall flood, working **"with the help of O2 security and the police,"** under **"a local event plan"** used to brief the team on how each event is managed. A separate 2026 FOI response confirms this is an established, ongoing practice. In practice, this means: on a big night, expect to be held on the concourse or outside the gate line for a few minutes rather than walking straight onto a train, and expect staff and sometimes police presence managing that queue.
+That single-line dependency is also why TfL takes crowd management at this station seriously enough to have a standing procedure for it. In response to a Freedom of Information request, TfL confirmed that after O2 events, station staff **"reduce flow and hold event crowds"** outside the station rather than let the ticket hall flood, working **"with the help of O2 security and the police,"** under **"a local event plan"** used to brief the team on how each event is managed. A separate 2026 FOI response confirms this is an established, ongoing practice. In practice, this means: on a big night, expect to be held on the concourse or outside the gate line for a few minutes instead of walking straight onto a train, and expect staff and sometimes police presence managing that queue.
 
 North Greenwich has good accessible features built in from that 1999 rebuild: low-level ticket machines, wheelchair-accessible gates (with a dedicated gate to the right of the barriers), an induction loop, step-free access to every platform via lifts, and step-free bus stops.
 
@@ -90,7 +90,7 @@ The other constraint is capacity, not restriction: Car Park 1 is a single car pa
 
 **Hotels:** the same Royal Victoria Dock development has three bookable hotels — **Aloft London Excel** on Eastern Gateway, at ExCeL's east end by Prince Regent DLR, and **Novotel London Excel** and **Crowne Plaza London Docklands** on the Western Gateway side near Custom House, an easy walk along the site. Novotel's own listing flags The O2 as nearby, which in practice means a cable car ride, not a walk. Our [ExCeL London guide](/articles/excel-london-guide/) covers that side of the crossing in full — stations, parking and the campus hotels — and our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) compares the hotels at that end.
 
-**The catch:** this only works for getting there, or a show that finishes early. The cable car keeps its usual hours regardless — closing at 21:00 Sunday to Thursday, 22:00 Friday and 23:00 Saturday — so a normal evening finish means a DLR-and-bus routing instead, the same as anyone arriving car-free from that side.
+**Timing:** this only works for getting there, or a show that finishes early. The cable car keeps its usual hours regardless — closing at 21:00 Sunday to Thursday, 22:00 Friday and 23:00 Saturday — so a normal evening finish means a DLR-and-bus routing instead, the same as anyone arriving car-free from that side.
 
 ---
 
@@ -117,7 +117,7 @@ Blue Badge spaces are available in all four of The O2's car parks (the badge hol
 
 ### The other car park: North Greenwich station itself
 
-Because there's only one station, there's no Wembley-style "park a stop out" option — but there is a genuinely separate, cheaper alternative right next to The O2's own car parks: the **North Greenwich Station Car Park**, on TfL land but run by Saba.
+Because there's only one station, there's no Wembley-style "park a stop out" option — but there is a separate, cheaper alternative right next to The O2's own car parks: the **North Greenwich Station Car Park**, on TfL land but run by Saba.
 
 | | |
 | --- | --- |
@@ -139,7 +139,7 @@ A short walk from the station car park, on **Monro Way (SE10 0EJ)**, is a separa
 
 ### The cable car
 
-The gondola across the river to the Royal Docks is still sold and signed in places as the **IFS Cloud Cable Car**, though TfL's own site now labels it simply the **London Cable Car** across its station page, hub page and ticket pages — a shift worth knowing if you're searching for it. Either way, it's the same service: a single crossing of the Thames from Greenwich Peninsula Terminal (a couple of minutes from North Greenwich station) to the Royal Docks Terminal, taking up to **10 minutes**, with cars every 30 seconds. Coming from north or east London by car, this crossing is also the basis of a genuine way to avoid the Blackwall Tunnel — see the driving section above for parking and hotels on the Royal Docks side.
+The gondola across the river to the Royal Docks is still sold and signed in places as the **IFS Cloud Cable Car**, though TfL's own site now labels it simply the **London Cable Car** across its station page, hub page and ticket pages — a change to watch for if you're searching for it. Either way, it's the same service: a single crossing of the Thames from Greenwich Peninsula Terminal (a couple of minutes from North Greenwich station) to the Royal Docks Terminal, taking up to **10 minutes**, with cars every 30 seconds. Coming from north or east London by car, this crossing is also the basis of a genuine way to avoid the Blackwall Tunnel — see the driving section above for parking and hotels on the Royal Docks side.
 
 ![A purple cable car cabin on its cable above the Thames, with riverside tower blocks on the left and the white roof of The O2 on the right at dusk](../../assets/articles/the-o2-travel-guide/ifs-cloud-cable-car-greenwich.jpg)
 
@@ -170,7 +170,7 @@ The frequency is good in the evening — sailings roughly every 20 minutes — b
 
 ### Crowd management at the station
 
-TfL **holds and meters the crowd outside the station** rather than letting everyone flood the ticket hall at once. There's no published one-way system with named entrances the way Wembley Park has for Olympic Way and Bridge Road — North Greenwich has one main approach, not several — but do expect staff-managed queuing on the concourse for a big finish, and factor that into how long "getting to the platform" actually takes.
+TfL **holds and meters the crowd outside the station** instead of letting everyone flood the ticket hall at once. There's no published one-way system with named entrances the way Wembley Park has for Olympic Way and Bridge Road — North Greenwich has one main approach, not several — but do expect staff-managed queuing on the concourse for a big finish, and factor that into how long "getting to the platform" actually takes.
 
 ### Last trains, most nights of the week
 
@@ -208,7 +208,7 @@ Checked live on the hotels' own booking engines, the two hotels closest to The O
 
 *Same room type, one night, two adults, prices including taxes and fees, sampled on IHG's own booking engine.*
 
-The swing gets bigger, not smaller, for a genuinely major event: over the same booking engine, the InterContinental's Classic Room price for a three-day international sporting event held at the arena came out at **£610–£615** a night.
+The swing gets bigger, not smaller, for a major event: over the same booking engine, the InterContinental's Classic Room price for a three-day international sporting event held at the arena came out at **£610–£615** a night.
 
 - **For a big night, book early or expect to pay a multiple of the ordinary rate.**
 - **Or shift your stay to the night after** and travel home the next day.
@@ -240,7 +240,7 @@ The **Design District**, a cluster of 16 low-rise studio buildings by eight diff
 
 ## Eating and drinking in the Entertainment District
 
-Unlike Boxpark at Wembley, The O2's Entertainment District doesn't close to the public or convert to a ticketed fan zone on an event day — it's part of the venue's own estate rather than a separate leased business, and it runs on its ordinary public hours regardless of what's on in the arena that night.
+Unlike Boxpark at Wembley, The O2's Entertainment District doesn't close to the public or convert to a ticketed fan zone on an event day — it's part of the venue's own estate, not a separate leased business, and it runs on its ordinary public hours regardless of what's on in the arena that night.
 
 The complex's general hours are **10:00–22:00 daily**, though individual restaurants, bars and leisure venues set their own, often later, times. The current line-up, direct from The O2's own listing, runs to more than 40 places, including **Gordon Ramsay Street Burger, Nando's, Wagamama**-style chains, **Five Guys, KFC, German Doner Kebab, Gaucho, Haidilao Hot Pot, TGI Fridays, PizzaExpress, Zizzi, Las Iguanas** and **Frankie & Benny's**, plus dedicated bars including **All Bar One** and **Slug & Lettuce**.
 
@@ -294,7 +294,7 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers the citywi
 - **Pre-booked parking closes 24 hours before the event** — after that, you're paying the on-the-day rate if space allows.
 - **The cable car and the river boat are arrival options on a normal evening, not departure options after a show** — both stop running well before most doors-to-curfew times.
 - **Both The O2 arena and indigo at The O2 are cashless.**
-- **Event doors, show times and curfews are published per event, not as a house rule** — check the specific listing for your date rather than assuming a standard time.
+- **Event doors, show times and curfews are published per event, not as a house rule** — check the specific listing for your date instead of assuming a standard time.
 - **Outlet Shopping at The O2 keeps its own hours**, separate from the arena and from indigo.
 
 ---

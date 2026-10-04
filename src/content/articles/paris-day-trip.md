@@ -21,7 +21,7 @@ faq:
   - q: "How much does the Eurostar to Paris cost?"
     a: "Eurostar Standard is dynamically priced, like a UK Advance fare. Booked the same day, the cheapest seat we found was £220 one-way; a week out it was £75; two weeks out £55; a month out, some evening trains carried a £35 promotional fare. Eurostar Plus ran roughly £95–£300 across one day's timetable, and Eurostar Premier sat in a flat £245–£361 band whatever the departure time."
   - q: "Can you do Paris as a genuine day trip from London?"
-    a: "Yes, with an early start. The first realistic train (07:01, or 06:01 if you don't mind checking in before 5am) gets you into Gare du Nord by 09:29–10:29, and the last train we could reliably book a seat on back left Paris at 19:11. That is roughly 7 to 8 hours in the city — enough for two or three things done properly, not five rushed."
+    a: "Yes, with an early start. The first realistic train (07:01, or 06:01 if you don't mind checking in before 5am) gets you into Gare du Nord by 09:29–10:29, and the last train we could reliably book a seat on back left Paris at 19:11. That is roughly 7 to 8 hours in the city — enough for two or three things, not five rushed."
   - q: "What time do you need to arrive at the station for the Eurostar to Paris?"
     a: "75 minutes before departure for Eurostar Standard or Plus at St Pancras; the ticket gate closes 30 minutes before. At Gare du Nord for the return, Eurostar's own guidance is 75–90 minutes. Premier passengers need 45 minutes at St Pancras and 45–60 at Gare du Nord. UK exit checks, French entry checks and EU biometric registration all happen before you board, so you walk straight off the train at the other end with nothing left to do."
   - q: "Do UK travellers need a passport for the Eurostar to Paris?"
@@ -34,9 +34,9 @@ faq:
 
 **St Pancras to Gare du Nord is as little as 2 hours 16 minutes on a direct Eurostar, and the fare for that seat moves more than almost anything else on this site: around £55 in Eurostar Standard booked two weeks out, and £220 or more booking for the same day.** Both came from Eurostar's own booking engine, checked on the same day.
 
-The bigger difference from every other day trip here is what happens before you board. This is an international border, and Eurostar does the whole thing at St Pancras before you leave London — UK exit, French entry, and now EU biometric registration too — rather than on arrival in Paris. Budget properly for that and the maths on the day itself is more generous than the three-hour-each-way trips to Stonehenge or the Cotswolds.
+The bigger difference from every other day trip here is what happens before you board. This is an international border, and Eurostar does the whole thing at St Pancras before you leave London — UK exit, French entry, and now EU biometric registration too — rather than on arrival in Paris. Budget for that and the maths on the day itself is more generous than the three-hour-each-way trips to Stonehenge or the Cotswolds.
 
-> 💡 **The Short Version:** **St Pancras to Gare du Nord, from 2h16 direct.** Eurostar Standard around **£55** booked two weeks ahead (as low as **£35** in a sale), up to **£220+** booking on the day; **Eurostar Plus** roughly **£95–£300**; **Eurostar Premier** a flatter **£245–£361** whatever the date. **Arrive 75 minutes before departure** for Standard or Plus (45 for Premier) — UK exit, French entry and EU Entry/Exit System registration all happen at the station before you board. You need **a passport, not an ID card**, issued within **10 years** and valid **3 months** after you leave France — no ETA or visa required for a UK citizen heading out. **Luggage: 2 bags + 1 daypack** (3 for Premier), 85cm max. The earliest sensible train (07:01) and the last one reliably still selling seats (about 19:11) give you **roughly 7 hours in Paris** — nearer 8 if you take the 06:01. That's **two or three things done properly**, not five rushed. **Or let someone else plan the day** — the <a href="https://www.getyourguide.com/activity/-t11108?partner_id=WWP7I0R&amp;cmp=paris-day-trip-eurostar-package" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£289 escorted day trip</a> bundles the Eurostar, a Seine cruise and Eiffel Tower entry into one booking. **If you'd rather stay the night** — four hotels below, from a design hotel opposite Gare du Nord to a budget three-star in the Marais.
+> 💡 **The Short Version:** **St Pancras to Gare du Nord, from 2h16 direct.** Eurostar Standard around **£55** booked two weeks ahead (as low as **£35** in a sale), up to **£220+** booking on the day; **Eurostar Plus** roughly **£95–£300**; **Eurostar Premier** a flatter **£245–£361** whatever the date. **Arrive 75 minutes before departure** for Standard or Plus (45 for Premier) — UK exit, French entry and EU Entry/Exit System registration all happen at the station before you board. You need **a passport, not an ID card**, issued within **10 years** and valid **3 months** after you leave France — no ETA or visa required for a UK citizen heading out. **Luggage: 2 bags + 1 daypack** (3 for Premier), 85cm max. The earliest sensible train (07:01) and the last one reliably still selling seats (about 19:11) give you **roughly 7 hours in Paris** — nearer 8 if you take the 06:01. That's **two or three things**, not five rushed. **Or let someone else plan the day** — the <a href="https://www.getyourguide.com/activity/-t11108?partner_id=WWP7I0R&amp;cmp=paris-day-trip-eurostar-package" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£289 escorted day trip</a> bundles the Eurostar, a Seine cruise and Eiffel Tower entry into one booking. **If you'd rather stay the night** — four hotels below, from a design hotel opposite Gare du Nord to a budget three-star in the Marais.
 
 **Book a tour direct:**
 
@@ -71,7 +71,7 @@ Eurostar renamed its travel classes: **Eurostar Standard, Eurostar Plus and Euro
 | **Lounge** | — | — | St Pancras, Paris, Brussels |
 | **Gate** | Standard queue | Standard queue | Priority (London routes) |
 
-For a single day trip, book Standard: it can be refunded up to a week out for a £25 fee, and it is free to change right up to an hour before your train, so there is little reason to pay for Plus or Premier unless the lounge or the meal is the point of the trip.
+For a single day trip, book Standard: it can be refunded up to a week out for a £25 fee, and it is free to change right up to an hour before your train, so there is little reason to pay for Plus or Premier unless you want the lounge or the meal.
 
 ### Booking ahead is the whole game
 
@@ -85,7 +85,7 @@ Eurostar fares work like UK Advance tickets, not like a flat off-peak return —
 | **2 weeks** | **£55** |
 | **~1 month** | **£35** (promotional fare) |
 
-That's checked on 14 September 2026, cheapest Standard seat on each date for the same route. The £35 fare was part of a sale running for travel between 23 September and 16 December 2026 that was due to close for bookings that same day, so treat it as an example of how low the fare can go rather than a permanent price — but the underlying pattern, a same-day seat costing three to six times a seat booked a few weeks out, is the durable lesson. **Eurostar releases tickets 10 to 11 months ahead**, so for a specific date you have that whole window to watch for a drop.
+That's checked on 14 September 2026, cheapest Standard seat on each date for the same route. The £35 fare was part of a sale running for travel between 23 September and 16 December 2026 that was due to close for bookings that same day, so treat it as an example of how low the fare can go, not a permanent price — but the underlying pattern, a same-day seat costing three to six times a seat booked a few weeks out, is the durable lesson. **Eurostar releases tickets 10 to 11 months ahead**, so for a specific date you have that whole window to watch for a drop.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paris-day-trip-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -118,7 +118,7 @@ That gives you from **10:29 to about 17:45** in Paris before you need to be thro
 
 > 💡 **A real day-tour operator books almost exactly this pattern.** Premium Tours' escorted Paris day trip from London (below) sets check-in at St Pancras for 6am on weekdays, with outbound trains "usually 7am" and return trains "usually 7pm/8pm" — an independent match for the window we worked out from Eurostar's own timetable.
 
-Seven hours sounds generous next to a three-hour bus ride each way to Stonehenge, and it is — but by the time you've added the walk to and from the Métro, queuing at whatever you're visiting, and a buffer for getting back to Gare du Nord rather than sprinting for the gate, the honest number for actually doing things is closer to **five or six hours**. That's two sights done properly and a meal, not four rushed past.
+Seven hours sounds generous next to a three-hour bus ride each way to Stonehenge, and it is — but by the time you've added the walk to and from the Métro, queuing at whatever you're visiting, and a buffer for getting back to Gare du Nord rather than sprinting for the gate, the number for actually doing things is closer to **five or six hours**. That's two sights and a meal, not four rushed past.
 
 ![Pale stone apartment buildings along a tree-lined side street in central Paris, with café tables and a row of hire bikes](../../assets/articles/paris-day-trip/paris-side-street.jpg)
 
@@ -141,9 +141,9 @@ Louvre and Notre-Dame are also a **9-minute walk from each other** along the riv
 
 ## What to do with the day
 
-Given the real hours available, pick one of these rather than trying to string all of them together — the point of a day trip is not spending it entirely on the Métro.
+Given the real hours available, pick one of these instead of trying to string all of them together; a day trip should not be spent entirely on the Métro.
 
-**Central loop: Louvre, then Notre-Dame.** Closest to the station and closest to each other. The Louvre's collection is vast; if you have two to three hours, go in with a short list (the Mona Lisa and the Denon wing are the obvious one) rather than trying to see everything. It's **€22 for EEA residents, €32 for everyone else** — which now includes UK visitors — and **closed every Tuesday**, open 9:00–18:00 Monday, Thursday, Saturday and Sunday, 9:00–21:00 Wednesday and Friday, last entry an hour before close. Notre-Dame, reopened in December 2024 after the 2019 fire, is **free to enter every day during opening hours**.
+**Central loop: Louvre, then Notre-Dame.** Closest to the station and closest to each other. The Louvre's collection is vast; if you have two to three hours, go in with a short list (the Mona Lisa and the Denon wing are the obvious one) instead of trying to see everything. It's **€22 for EEA residents, €32 for everyone else** — which now includes UK visitors — and **closed every Tuesday**, open 9:00–18:00 Monday, Thursday, Saturday and Sunday, 9:00–21:00 Wednesday and Friday, last entry an hour before close. Notre-Dame, reopened in December 2024 after the 2019 fire, is **free to enter every day during opening hours**.
 
 ![The Louvre's glass pyramid in its main courtyard, with the palace's carved stone wings behind it under a clear sky](../../assets/articles/paris-day-trip/louvre-pyramid.jpg)
 
@@ -171,7 +171,7 @@ Prefer someone else to handle the tickets, the coach transfers in Paris and the 
 
 ## Where to stay
 
-Stay near Gare du Nord and you can leave your bag until the last minute before an early train home; stay in the old centre instead and you trade that for an evening in Paris rather than a trek back across town.
+Stay near Gare du Nord and you can leave your bag until the last minute before an early train home; stay in the old centre instead and you trade that for an evening in Paris instead of a trek back across town.
 
 - **[25hours Hotel Terminus Nord](hotelscom:h15940)** — on Boulevard de Denain, directly opposite Gare du Nord's main entrance. A design hotel with a dark-wood cocktail bar downstairs. ££, and the one to book if the priority is walking to your train.
 - **[Hôtel Thérèse](hotelscom:h53566)** — a quiet street by the Palais Royal gardens, a short walk from the Louvre. A wood-panelled library and book-lined rooms. £££.

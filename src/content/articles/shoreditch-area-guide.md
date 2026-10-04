@@ -58,9 +58,9 @@ area:
       note: "East by Elizabeth line from Liverpool Street in six minutes."
 faq:
   - q: "Which day is best for Shoreditch markets?"
-    a: "Sunday, when everything runs at once: Brick Lane, the Truman Brewery markets, Columbia Road Flower Market and Spitalfields. Saturday is a close second, with Old Spitalfields at its best and Brick Lane's vintage markets open. Weekdays are much quieter, but not empty: Old Spitalfields and the Brick Lane Vintage Market both run daily, and a weekday is the best time to shop either of them properly."
+    a: "Sunday, when everything runs at once: Brick Lane, the Truman Brewery markets, Columbia Road Flower Market and Spitalfields. Saturday is a close second, with Old Spitalfields at its best and Brick Lane's vintage markets open. Weekdays are much quieter, but not empty: Old Spitalfields and the Brick Lane Vintage Market both run daily, and a weekday is the best time to shop either of them."
   - q: "Where is the street art in Shoreditch?"
-    a: "Concentrated on Hanbury Street, Chance Street, Redchurch Street, Fashion Street and Grimsby Street, plus the walls around the Truman Brewery on Brick Lane. It changes constantly — most pieces last months rather than years, so a specific mural you have seen online may be gone."
+    a: "Concentrated on Hanbury Street, Chance Street, Redchurch Street, Fashion Street and Grimsby Street, plus the walls around the Truman Brewery on Brick Lane. It changes constantly — most pieces last months, not years, so a specific mural you have seen online may be gone."
   - q: "When is Columbia Road Flower Market?"
     a: "Sundays only, roughly 08:00 to 15:00. It is a fifteen-minute walk north-east of Brick Lane. Go early for room to move, or in the last hour when traders cut prices sharply to clear stock."
   - q: "Are Spitalfields, Brick Lane and Hoxton part of Shoreditch?"
@@ -89,7 +89,7 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 
 ## Top sights and activities
 
-1. **The street art** — Hanbury Street, Chance Street, Redchurch Street, Grimsby Street and the Truman Brewery walls. It is repainted constantly, so treat it as a walk rather than a checklist.
+1. **The street art** — Hanbury Street, Chance Street, Redchurch Street, Grimsby Street and the Truman Brewery walls. It is repainted constantly, so treat it as a walk, not a checklist.
 2. **Old Spitalfields Market** — A covered Victorian market hall trading daily, with different themes by day: antiques on Thursday (the hall opens early, at 08:00), records on the **first and third Friday of the month**, makers on Wednesday, and general and vintage at the weekend.
 3. **Brick Lane** — Bangladeshi restaurants at the south end, vintage and street food around the Truman Brewery, and two rival bagel bakeries at the north, one of which never closes.
 4. **Columbia Road Flower Market** — Sundays only, 08:00 to 15:00. Fifteen minutes north-east, and one of the best hours in London.
@@ -108,7 +108,7 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 
 The spine of the area, and it changes character three times along its length. **Bangladeshi restaurants at the south end** around the mosque, where the touts work the pavement and the good ones do not need to. **The Truman Brewery in the middle**, which is where most of what people come for actually is. **The bagel bakeries at the north end**, where **Beigel Bake at 159 is open 24 hours a day, seven days a week** by its own account — and where the **Beigel Shop at 155**, the yellow-fronted one, is a completely separate business four doors down. [Which to pick is its own question](/articles/best-sandwiches-london/).
 
-The **Truman Brewery** itself is the thing to understand: brewing stopped in 1989, and the buildings on both sides of Brick Lane now hold **eight separate markets** on its own current listing, plus studios, galleries and event space. They do not all run on the same days.
+At the **Truman Brewery** itself, brewing stopped in 1989, and the buildings on both sides of Brick Lane now hold **eight separate markets** on its own current listing, plus studios, galleries and event space. They do not all run on the same days.
 
 **Rough Trade East** is on Dray Walk inside the complex — a record shop with a stage at the back, and in-store gigs that are free with an album purchase.
 
@@ -118,11 +118,11 @@ The **Truman Brewery** itself is the thing to understand: brewing stopped in 198
 
 ### The Brick Lane Vintage Market
 
-**The biggest dedicated vintage clothing market in the UK**, and the one thing in this area that is genuinely open seven days a week.
+**The biggest dedicated vintage clothing market in the UK**, and the one thing in this area that is open seven days a week.
 
-It is **underground**, in F Block at 85 Brick Lane, down a neon-lit staircase off the street: more than 13,000 square feet of basement holding, on the operator's own count, **over a hundred specialist shops**, drawn from across the UK and Europe rather than a rota of local stalls. Each one is effectively its own boutique with its own eye, so the same aisle runs from restrained to completely mad within a few metres.
+It is **underground**, in F Block at 85 Brick Lane, down a neon-lit staircase off the street: more than 13,000 square feet of basement holding, on the operator's own count, **over a hundred specialist shops**, drawn from across the UK and Europe, not a rota of local stalls. Each one is effectively its own boutique with its own eye, so the same aisle runs from restrained to completely mad within a few metres.
 
-**The range is the point, and it is much wider than "vintage" suggests.** Clothes from the **1920s right through to the 1990s** — flapper dresses at one end and shell suits at the other — plus **fur and feather capes, vintage bridal wear, men's tailoring, hats, sunglasses, bags and jewellery**, and racks of **vinyl** to flick through between the clothes. It is one of the few markets in London where you can dress an entire period costume, find a wearable 1970s overcoat, and buy a record, without going back up the stairs.
+**The range is much wider than "vintage" suggests.** Clothes from the **1920s right through to the 1990s** — flapper dresses at one end and shell suits at the other — plus **fur and feather capes, vintage bridal wear, men's tailoring, hats, sunglasses, bags and jewellery**, and racks of **vinyl** to flick through between the clothes. It is one of the few markets in London where you can dress an entire period costume, find a wearable 1970s overcoat, and buy a record, without going back up the stairs.
 
 **Open every day: Monday to Friday 11am–6.30pm, Saturday 11am–6pm, Sunday 10am–6pm.** Go on a weekday if you want to actually look at things — the Sunday crowd makes browsing rails difficult, and the traders have more time for you when it is quiet. Prices are per item and vary hugely by stall; haggling is normal on anything above about twenty pounds.
 
@@ -154,13 +154,13 @@ The design end, and the part of Shoreditch that gentrified hardest. **Redchurch 
 
 **Chance Street and the alleys off it are walled with murals**, and they change constantly. This is where street art tours end up, and where you are most likely to see someone actually painting on a weekday morning.
 
-It is a ten-minute walk end to end and worth doing between the markets rather than as a destination in itself.
+It is a ten-minute walk end to end and worth doing between the markets, not as a destination in itself.
 
 ### Old Street
 
 North-west, around the roundabout that spent a decade being called Silicon Roundabout. It is the **loudest corner of the area after dark** — bars, clubs and late licences — and the least interesting during the day, when it is mostly tech offices and building sites.
 
-The roundabout itself was rebuilt into a proper public space with a new station entrance, which improved it considerably. **Come here for a night out rather than an afternoon**, and know that the good bars are on the streets leading off it rather than on the junction.
+The roundabout itself was rebuilt into a proper public space with a new station entrance, which improved it considerably. **Come here for a night out, not an afternoon**, and know that the good bars are on the streets leading off it, not on the junction.
 
 ### Hoxton
 North of Old Street and noticeably calmer. **Hoxton Square** is a proper garden square with bars around it, and the **Museum of the Home** — a row of eighteenth-century almshouses laid out as domestic rooms from 1600 to now, free to enter, **10:00–17:00 Tuesday to Sunday and bank holiday Mondays, so shut on an ordinary Monday** — is a five-minute walk further north. Most people never get this far and it is the part of the area that still feels residential.
@@ -240,16 +240,16 @@ Our full route for this area: **eleven numbered stops** over 2.6km, with a map, 
 
 ## Common mistakes to avoid
 
-1. **Coming on a Monday or Tuesday expecting the full picture.** Most of the markets do not run. The exceptions are worth knowing: **Old Spitalfields trades daily**, and so does the **Brick Lane Vintage Market**, which is the best reason to come midweek.
+1. **Coming on a Monday or Tuesday expecting the full picture.** Most of the markets do not run. The exceptions are: **Old Spitalfields trades daily**, and so does the **Brick Lane Vintage Market**, which is the best reason to come midweek.
 2. **Missing Columbia Road.** Sunday morning only, fifteen minutes away, and the best of the lot.
-3. **Following an old street art map.** Pieces are painted over within months. Walk the streets rather than hunting specific murals.
+3. **Following an old street art map.** Pieces are painted over within months. Walk the streets; do not hunt specific murals.
 4. **Being pulled into a Brick Lane restaurant by a tout.** The touts are a reliable signal to keep walking.
 5. **Arriving at Columbia Road at midday.** By then it is shoulder to shoulder. Go at 08:30 or in the final hour for discounts.
 6. **Assuming Shoreditch High Street is on the Tube.** It is Overground only. Liverpool Street is the Tube option.
 
 ## Where to stay
 
-Lively, well connected and good value against Zone 1 proper — but genuinely loud at weekends.
+Lively, well connected and good value against Zone 1 proper — but loud at weekends.
 
 - **Shoreditch and Old Street** — Design-led hotels in converted warehouses. Book away from the street.
 - **Liverpool Street and Aldgate** — Ten minutes south, quieter at night, excellent transport including the Elizabeth line.

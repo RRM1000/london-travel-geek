@@ -17,7 +17,7 @@ tags: [where to stay, hotels, Westminster, Victoria, Pimlico, St James's, Whiteh
 draft: false
 faq:
   - q: "Is Westminster a good area to stay in London?"
-    a: "For sightseeing, yes. From St James's Park or Whitehall you can walk to Westminster Abbey, the Houses of Parliament, Buckingham Palace, the Churchill War Rooms and Trafalgar Square without a Tube. The catch is the evenings: Whitehall and the streets around the Abbey are government offices and go quiet after work and at weekends, so for restaurants and bars you walk north of Trafalgar Square into Soho or Covent Garden."
+    a: "For sightseeing, yes. From St James's Park or Whitehall you can walk to Westminster Abbey, the Houses of Parliament, Buckingham Palace, the Churchill War Rooms and Trafalgar Square without a Tube. The drawback is the evenings: Whitehall and the streets around the Abbey are government offices and go quiet after work and at weekends, so for restaurants and bars you walk north of Trafalgar Square into Soho or Covent Garden."
   - q: "What is the cheapest place to stay near Victoria station?"
     a: "Astor Victoria on Belgrave Road, with dorm beds from £18 and twin rooms from £99, though its dorms take only 18- to 39-year-olds. For a private room, The Z Hotel Victoria was £135 to £205 across five nights we priced, with a windowless Inside Double of 9 square metres as its cheapest room. The Georgian House Hotel in Pimlico is about £140."
   - q: "Where should I stay for Gatwick or a coach from Victoria?"
@@ -170,7 +170,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *About £600 · 15 Beeston Place, SW1W 0JW · Victoria 5 min · Breakfast extra*
 
-**[The Goring](hotel:the-goring)** has been run by the same family for four generations since it opened in 1910, and Buckingham Palace is ten minutes' walk. The draw is **the garden behind it**, which the Deluxe Garden View rooms overlook, and afternoon tea on The Veranda (in our [afternoon tea guide](/articles/best-afternoon-tea-london/)). It sells interconnecting family rooms and small Classic rooms for one person.
+**[The Goring](hotel:the-goring)** has been run by the same family for four generations since it opened in 1910, and Buckingham Palace is ten minutes' walk. The hotel has **the garden behind it**, which the Deluxe Garden View rooms overlook, and afternoon tea on The Veranda (in our [afternoon tea guide](/articles/best-afternoon-tea-london/)). It sells interconnecting family rooms and small Classic rooms for one person.
 
 <div class="photo-row">
 
@@ -348,7 +348,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *About £750 · 279 rooms · Whitehall Place, SW1A 2BD · Embankment nearest · Breakfast extra*
 
-**[Corinthia](hotel:corinthia-london)** sits between Whitehall and the river, with 279 rooms of which 62 are suites and seven penthouses. The entry-level Deluxe room averages **39 square metres** and can connect to a second. Its spa, Biome, has **two vitality pools and a hydrotherapy pool** rather than a lap pool, with a sauna, steam rooms and a 24-hour gym, and family swimming from 8–10am and 4–5pm. For a pool to swim lengths in, see [London hotels with a pool](/articles/hotels-with-pool-london/). Tom Kerridge runs Kerridge's, and tea is served under a Baccarat chandelier.
+**[Corinthia](hotel:corinthia-london)** sits between Whitehall and the river, with 279 rooms of which 62 are suites and seven penthouses. The entry-level Deluxe room averages **39 square metres** and can connect to a second. Its spa, Biome, has **two vitality pools and a hydrotherapy pool**, not a lap pool, with a sauna, steam rooms and a 24-hour gym, and family swimming from 8–10am and 4–5pm. For a pool to swim lengths in, see [London hotels with a pool](/articles/hotels-with-pool-london/). Tom Kerridge runs Kerridge's, and tea is served under a Baccarat chandelier.
 
 <div class="photo-row">
 

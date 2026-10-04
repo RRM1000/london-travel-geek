@@ -18,7 +18,7 @@ tags: [where to stay, hotels, aparthotels, Canary Wharf, Docklands, West India Q
 draft: false
 faq:
   - q: "Is Canary Wharf a good area to stay in London?"
-    a: "Yes, if fast trains matter more to you than old streets. The Elizabeth line reaches Liverpool Street in seven minutes and Heathrow in about 48 without a change, and the Jubilee reaches Westminster in 11 and The O2 in two. The hotels are modern and air-conditioned, and several are aparthotels with kitchens. It is a purpose-built business district: the older malls keep short Sunday hours, and the places that stay busy at weekends are at Wood Wharf and West India Quay."
+    a: "Yes, if you value fast trains over old streets. The Elizabeth line reaches Liverpool Street in seven minutes and Heathrow in about 48 without a change, and the Jubilee reaches Westminster in 11 and The O2 in two. The hotels are modern and air-conditioned, and several are aparthotels with kitchens. It is a purpose-built business district: the older malls keep short Sunday hours, and the places that stay busy at weekends are at Wood Wharf and West India Quay."
   - q: "Are Canary Wharf hotels cheaper at weekends?"
     a: "On a Sunday night, yes. On a Saturday, not reliably. A double at Novotel London Canary Wharf was £165 on Sunday 11 October 2026 and £227 on Saturday 17 October. At TRIBE London Canary Wharf the same two nights were £157 and £185."
   - q: "Which station is nearest to Canary Wharf hotels?"
@@ -64,7 +64,7 @@ The usual advice is that Canary Wharf, a business district, gets cheaper at week
 | **Novotel London Canary Wharf** | £165 | £227 | £229 | £156 | £213 |
 | **TRIBE London Canary Wharf** | £157 | £185 | £199 | £175 | £164 |
 
-The saving comes on a Sunday night. For a Saturday, price Canary Wharf against central London rather than assuming it is cheaper.
+The saving comes on a Sunday night. For a Saturday, price Canary Wharf against central London instead of assuming it is cheaper.
 
 What is open at the weekend: Wood Wharf's restaurants, the West India Quay restaurants, Eden Dock, the museum and the roof garden all run as normal; Fairgame, the fairground-games bar on Fisherman's Walk, stays open until 1am on Saturdays. The malls under Canada Square are the part that shuts early on Sunday.
 
@@ -118,7 +118,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 *141 rooms and suites · 46 Westferry Circus, E14 8RS · Heron Quays DLR 8 min, Jubilee 11 min*
 
-**[Canary Riverside Plaza](hotelscom:h519049)** is the riverside hotel built as the Four Seasons Canary Wharf, now part of IHG's Vignette Collection. Rooms start at 37 m², each with a deep bath and a separate walk-in shower. **Which way the room faces is the thing to book on**: Standard rooms look over Canary Wharf, Premium rooms over the Thames. Guests use the adjoining health club and spa free, with a 20-metre infinity lap pool that under-16s can use from 8.30 to 10.30am (our [London hotels with a pool](/articles/hotels-with-pool-london/) guide has the hours), and the restaurant, Quadrato, is Italian, with a terrace and an afternoon tea. Interconnecting rooms, extra beds and cots are available for families. Canary Wharf Pier is next door: the Uber Boat takes 8 to 13 minutes to Greenwich and about 40 to the London Eye.
+**[Canary Riverside Plaza](hotelscom:h519049)** is the riverside hotel built as the Four Seasons Canary Wharf, now part of IHG's Vignette Collection. Rooms start at 37 m², each with a deep bath and a separate walk-in shower. **Book by which way the room faces**: Standard rooms look over Canary Wharf, Premium rooms over the Thames. Guests use the adjoining health club and spa free, with a 20-metre infinity lap pool that under-16s can use from 8.30 to 10.30am (our [London hotels with a pool](/articles/hotels-with-pool-london/) guide has the hours), and the restaurant, Quadrato, is Italian, with a terrace and an afternoon tea. Interconnecting rooms, extra beds and cots are available for families. Canary Wharf Pier is next door: the Uber Boat takes 8 to 13 minutes to Greenwich and about 40 to the London Eye.
 
 <div class="photo-row">
 
@@ -182,7 +182,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 *£157–£199 · 15 Water Street, E14 5GX · Jubilee 4 min (Wood Wharf exit), Elizabeth line 8 min*
 
-**[TRIBE London Canary Wharf](hotelscom:h83096424)** is an Accor brand, on Water Street in Wood Wharf. There are three room types, all with a king bed and a rainfall shower: **the Essential Atrium, the cheapest, looks onto the atrium rather than the city**; the Essential has a city view; the Extra is 21 m². Feels Like June, the all-day restaurant, has tables outside, and a grab-and-go counter sells coffee and meals 24 hours a day. For a gym, guests can buy a discounted day pass to Third Space, which has a pool and sauna, a short walk away.
+**[TRIBE London Canary Wharf](hotelscom:h83096424)** is an Accor brand, on Water Street in Wood Wharf. There are three room types, all with a king bed and a rainfall shower: **the Essential Atrium, the cheapest, looks onto the atrium, not the city**; the Essential has a city view; the Extra is 21 m². Feels Like June, the all-day restaurant, has tables outside, and a grab-and-go counter sells coffee and meals 24 hours a day. For a gym, guests can buy a discounted day pass to Third Space, which has a pool and sauna, a short walk away.
 
 <div class="photo-row">
 
@@ -198,7 +198,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 *New Providence Wharf, 5 Fairmont Avenue, E14 9JB · East India DLR 5 min*
 
-**[Radisson Blu Hotel, London Canary Wharf East](hotelscom:h1658062)** is on the river at Blackwall, east of the estate and not in it. It has the East River Spa, with ESPA treatments, a sauna and steam room, and a 24-hour gym, and Scoff & Banter, a restaurant looking over the Thames. **The catch is the Jubilee**: it isn't walkable, so it's East India DLR, or the D3 bus, about eight minutes to Canary Wharf station. River-facing rooms look across to The O2, and their bathrooms have a freestanding bath with a separate walk-in shower.
+**[Radisson Blu Hotel, London Canary Wharf East](hotelscom:h1658062)** is on the river at Blackwall, east of the estate and not in it. It has the East River Spa, with ESPA treatments, a sauna and steam room, and a 24-hour gym, and Scoff & Banter, a restaurant looking over the Thames. **The drawback is the Jubilee**: it isn't walkable, so it's East India DLR, or the D3 bus, about eight minutes to Canary Wharf station. River-facing rooms look across to The O2, and their bathrooms have a freestanding bath with a separate walk-in shower.
 
 <div class="photo-row">
 

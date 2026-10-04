@@ -89,7 +89,7 @@ The karting venue that publishes a price and takes a group in central London is 
 
 **Electric Shuffle takes two people or thirty-two**, which is why it works on a Friday when Flight Club does not: **£10 a head Sunday to Tuesday, £13 Wednesday to Saturday**, plus a £38 weekend bottomless brunch. **Bounce at Battersea is £6 a head**, the cheapest game in London, with group packages including food and drink from £20 a head for a minimum of six.
 
-**Fairgame is the one to know about in advance.** Nine games in 75 minutes at Canary Wharf for **£15 off-peak or £19 prime**; twelve games in 90 minutes at the City site for **£22 and £25**. There is **no minimum group size at all** — but it is **18-plus at every hour it opens** and insists on **physical photo ID rather than a picture of one**, and groups of sixteen or more must book through the events team *and* pre-purchase food and drink. The [competitive socialising guide](/articles/competitive-socialising-london/) compares the whole category, including the venues that have closed.
+**Fairgame is the one to know about in advance.** Nine games in 75 minutes at Canary Wharf for **£15 off-peak or £19 prime**; twelve games in 90 minutes at the City site for **£22 and £25**. There is **no minimum group size at all** — but it is **18-plus at every hour it opens** and insists on **physical photo ID, not a picture of one**, and groups of sixteen or more must book through the events team *and* pre-purchase food and drink. The [competitive socialising guide](/articles/competitive-socialising-london/) compares the whole category, including the venues that have closed.
 
 <div data-stay-strip></div>
 
@@ -109,7 +109,7 @@ The karting venue that publishes a price and takes a group in central London is 
 
 ### On the water
 
-**A private Thames Rockets charter for twelve is £695 — £57.92 a head, less than the £59.95 each you would pay on a public sailing.** Sixty minutes out of London Eye Pier, Boarding Gate One, SE1 7PB, two minutes from Waterloo. **On a public departure a group of twelve will not always travel together unless it is pre-arranged**, so the charter is not an upgrade, it is the thing you wanted. Minimum eight passengers, lifejackets compulsory, and the named lead passenger carries responsibility for the party.
+**A private Thames Rockets charter for twelve is £695 — £57.92 a head, less than the £59.95 each you would pay on a public sailing.** Sixty minutes out of London Eye Pier, Boarding Gate One, SE1 7PB, two minutes from Waterloo. **On a public departure a group of twelve will not always travel together unless it is pre-arranged**, so the charter is not an upgrade, it is what you wanted. Minimum eight passengers, lifejackets compulsory, and the named lead passenger carries responsibility for the party.
 
 > ⚠️ **The joint speedboat-and-axe-throwing package is gone.** Thames Rockets lists its Axetravaganza as no longer available. Book the two separately, or use Rocket Room.
 
@@ -131,9 +131,9 @@ The karting venue that publishes a price and takes a group in central London is 
 
 That is the pattern: **almost nowhere in central London bans fancy dress by name, because the sportswear rules do the job instead.** Twelve men in matching football shirts will be refused at more doors than twelve men in shirts.
 
-### Where a group of twelve is genuinely welcome
+### Where a group of twelve is welcome
 
-**BAM Karaoke Box at 74 Victoria Street publishes a stag package**, which is rare enough to matter. **Liquid Courage is £45 a head** for two hours in a private room with prosecco or beer on arrival and two house drinks; **Final Mic Drop is £62.50** with three drinks and food. Sold for groups of four or more, **and the groom goes free in a group of ten**. Twenty-two rooms take four to forty; no confetti; 12.5% service on food and drink.
+**BAM Karaoke Box at 74 Victoria Street publishes a stag package**, which is rare. **Liquid Courage is £45 a head** for two hours in a private room with prosecco or beer on arrival and two house drinks; **Final Mic Drop is £62.50** with three drinks and food. Sold for groups of four or more, **and the groom goes free in a group of ten**. Twenty-two rooms take four to forty; no confetti; 12.5% service on food and drink.
 
 **Moonshine Saloon at Aldgate is £38 plus a £3.04 fee** for a Prohibition saloon where the barkeeps mix in front of you and actors work the room. It has **no minimum or maximum table size**, and the trick is that **you bring your own spirit** — a sealed 35cl bottle between two or 70cl between four — while the venue supplies every mixer and garnish for three to four rounds. Strictly 18-plus, and there is more of this in the [immersive experiences guide](/articles/immersive-experiences-london/).
 
@@ -159,7 +159,7 @@ For a bar that will take the booking rather than refuse it, the [cocktail bar gu
 
 **Budget, about £45–£70 a head.** Hostels that will sell you a whole room. **Safestay Elephant & Castle**, 144–152 Walworth Road, SE17 1JL, is seven minutes from the Northern and Bakerloo lines and does **private-use rooms from eight to fifteen beds**, with a group team covering ten to a hundred-plus guests. **Wombat's** on Dock Street, E1 8LL, sits between Shadwell DLR and Aldgate East, is **18-plus** and takes **group bookings from fifteen**. **Clink takes groups from ten**, with a **20% non-refundable deposit on anything over £1,000**, 100% lost inside 30 days, and **no outside alcohol**.
 
-**Read Astor's terms before you book anywhere cheap**: bookings cap at fifteen people including several bookings for the same group, **eleven or more must go through the groups department**, and the hostel *"may ask for a damage deposit from groups of guests when it deems this reasonable including football games, races, stag and hen parties"*, alongside an unqualified right to refuse or evict with no refund. That is the standard shape of hostel terms, written down more honestly than most.
+**Read Astor's terms before you book anywhere cheap**: bookings cap at fifteen people including several bookings for the same group, **eleven or more must go through the groups department**, and the hostel *"may ask for a damage deposit from groups of guests when it deems this reasonable including football games, races, stag and hen parties"*, alongside an unqualified right to refuse or evict with no refund. That is the standard shape of hostel terms, written down more bluntly than most.
 
 **Mid, about £90–£140 a head.** Aparthotels suit twelve men better than a corridor of twins: kitchen, living room, no reception desk watching you come in. **Locke runs eleven London properties**, including [Leman Locke](hotel:leman-locke) and Buckle Street Studios in Aldgate and [Bermonds Locke](hotel:bermonds-locke) by Tower Bridge. **Point A** has seven central sites, from King's Cross and Liverpool Street to Waterloo and Shoreditch.
 
@@ -177,7 +177,7 @@ For a bar that will take the booking rather than refuse it, the [cocktail bar gu
 
 Twelve people, the prices above, and an £8.90 Zones 1–2 travel cap on each day.
 
-**The £94 day and night, no bed.** Off-peak axes at Rocket Room (£8), two off-peak lanes at Bloomsbury Lanes (£7.50), Race Across The World (£35), free comedy, £8.90 of travel and about £35 on food and drinks. **Total £94.40**, with three genuinely good activities inside it.
+**The £94 day and night, no bed.** Off-peak axes at Rocket Room (£8), two off-peak lanes at Bloomsbury Lanes (£7.50), Race Across The World (£35), free comedy, £8.90 of travel and about £35 on food and drinks. **Total £94.40**, with three good activities inside it.
 
 **The £214 Saturday with a bed.** F1 Arcade Sprint Social (£25), Fairgame Canary Wharf off-peak (£15), food-hall dinner (£25), BAM's Liquid Courage karaoke (£45, groom free), £8.90 of travel, £30 of drinks, £65 for a private hostel room. **Total £213.90.**
 
@@ -193,7 +193,7 @@ Twelve people, the prices above, and an £8.90 Zones 1–2 travel cap on each da
 
 **Price the components and the picture is clear.** *The Legend* includes a casino night — **the Hippodrome charges nothing at the door**. Off-peak axes at Rocket Room are £8. A cocktail experience is £40. That is well under £50 of activity, so **most of the £189 is two nights' accommodation**, and roughly what two nights in a private hostel room costs.
 
-The package is not a mark-up on the games, then; it is a bundle of a bed, a booking service and an individual payment system. **What you give up is the off-peak pricing that does most of the saving here** — Rocket Room at £8 rather than £12, Fairgame at £15 rather than £19 — and the choice of venue. **Book A Party, which is what Fizzbox has become, states plainly that it charges "no booking fees, the same price as going direct".** Use an agency if the organiser's time is worth more than the flexibility; book direct if you can shift anything to a Thursday, a Sunday or an afternoon.
+The package is not a mark-up on the games, then; it is a bundle of a bed, a booking service and an individual payment system. **What you give up is the off-peak pricing that does most of the saving here** — Rocket Room at £8 against £12, Fairgame at £15 against £19 — and the choice of venue. **Book A Party, which is what Fizzbox has become, states plainly that it charges "no booking fees, the same price as going direct".** Use an agency if the organiser's time is worth more than the flexibility; book direct if you can shift anything to a Thursday, a Sunday or an afternoon.
 
 ---
 
@@ -202,7 +202,7 @@ The package is not a mark-up on the games, then; it is a bundle of a bed, a book
 ## The rules that actually decide the weekend
 
 * **Everyone taps their own card.** Twelve people cannot share one, and using a phone on one journey and a card on the next splits the capping. **Zones 1–2 cap at £8.90 a day**, buses and trams are **£1.75** with a **£5.25** cap, and the **Hopper fare** buys unlimited buses within 60 minutes for a single fare. Never buy a paper day Travelcard: the surcharge is £16.60 to £23.60. See the [transport costs guide](/articles/london-public-transport-costs-and-fares/) and the [Oyster card guide](/articles/oyster-card-guide-london/).
-* **Plan the last leg before the first drink.** Six lines run all night on Friday and Saturday at off-peak fares — Central, Jubilee, Northern, Piccadilly, Victoria and Windrush — and everything else stops around 00:30, so where you sleep decides which of them you need.
+* **Plan the last leg before the first drink.** Six lines run all night on Friday and Saturday at off-peak fares — Central, Jubilee, Northern, Piccadilly, Victoria and Windrush — and everything else stops around 00:30, so choose where you sleep by which of them you need.
 * **The cab home costs more than the cab out.** Black cab Tariff 3 runs 10pm to 5am at £5.29 a mile beyond six miles, against £4.13 on a weekday daytime — about 28% more for the same road. Minimum fare £4.40.
 * **Check the ceiling as well as the floor.** Online booking stops at 12 at Puttshack and Boom Battle Bar, 20 at Nightjar, 24 at Swingers, 32 at Electric Shuffle, 36 at Flight Club and 40 at BAM.
 * **Age limits change by the hour, venue by venue.** Fairgame is 18-plus all day, Flight Club from 5pm, Swingers from 6pm, Bat & Ball and Boom Battle Bar from 7pm. Rowans is over-21s only after 7pm at weekends and Swift is 21-plus always.
@@ -218,7 +218,7 @@ The package is not a mark-up on the games, then; it is a bundle of a bed, a book
 - ✨ **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
 - 🎤 **[The Best Comedy Clubs in London](/articles/best-comedy-clubs-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
-- 🥂 **[Bottomless Brunch in London](/articles/bottomless-brunch-london/)** — where the drinks are genuinely unlimited and where they are not
+- 🥂 **[Bottomless Brunch in London](/articles/bottomless-brunch-london/)** — where the drinks are unlimited and where they are not
 - 🚇 **[Getting Around London: The Transport Guide](/articles/getting-around-london-transport-guide/)**
 
 ---

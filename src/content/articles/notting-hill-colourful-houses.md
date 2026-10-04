@@ -16,9 +16,9 @@ faq:
   - q: "Where are the colourful houses in Notting Hill?"
     a: "Spread across eleven streets, none of which is Portobello Road itself. The four best are Hillgate Place, Farmer Street, Hillgate Street and Jameson Street, all within three minutes of Notting Hill Gate station. Lancaster Road has the strongest colours and the most photographers; Lansdowne Road and Elgin Crescent have larger, paler stucco houses."
   - q: "Are the colourful houses on Portobello Road?"
-    a: "Mostly no, and this is the single most common mistake. Portobello Road has painted shopfronts, which photograph well but are not the pastel terraces people arrive looking for. The houses are on the residential streets either side of it, and on Lancaster Road at the northern end."
+    a: "Mostly no, and this is the most common mistake. Portobello Road has painted shopfronts, which photograph well but are not the pastel terraces people arrive looking for. The houses are on the residential streets either side of it, and on Lancaster Road at the northern end."
   - q: "Do people live in the colourful houses in Notting Hill?"
-    a: "Yes. Every street in this guide is ordinary residential housing, not a set or an attraction. Residents have had a genuinely difficult time with photographers sitting on their steps and blocking their doorways. Photograph from the pavement, do not use their front steps, and keep out of the way of people coming and going."
+    a: "Yes. Every street in this guide is ordinary residential housing, not a set or an attraction. Residents have had a difficult time with photographers sitting on their steps and blocking their doorways. Photograph from the pavement, do not use their front steps, and keep out of the way of people coming and going."
   - q: "What is the best time to photograph Notting Hill's houses?"
     a: "Early morning on a weekday is quietest by a long way. Portobello Road's market days — Saturday especially — bring crowds that reach the surrounding streets, and the Hillgate streets are narrow enough that a few people fill them. For light, early afternoon put the sun on the frontages on the September walk this guide is based on."
   - q: "Where is the cherry blossom in Notting Hill?"
@@ -74,7 +74,7 @@ It is deliberately only about the houses. For the market, the antique arcades, G
 
 **Hillgate Village** is the name for a pocket of four short streets — Hillgate Place, Farmer Street, Hillgate Street and Jameson Street — immediately south of Notting Hill Gate station. The houses are small, two and three storeys, and painted in flat blocks of colour: pink, sage, butter, powder blue, a deep coral.
 
-They are smaller than the stucco terraces elsewhere in Notting Hill because they were not built for the same people. The streets were laid out on a former brickfield from 1851, and more than two hundred narrow houses went up within a decade, most of them shared by several working households. In the 1870s one observer called Johnson Street, now Hillgate Street, "a dingy, ill-favoured slum". The scale is the reason the colour works: on a three-storey cottage a strong colour reads as cheerful, where on a five-storey stucco terrace it would read as a mistake.
+They are smaller than the stucco terraces elsewhere in Notting Hill because they were not built for the same people. The streets were laid out on a former brickfield from 1851, and more than two hundred narrow houses went up within a decade, most of them shared by several working households. In the 1870s one observer called Johnson Street, now Hillgate Street, "a dingy, ill-favoured slum". The colour works because of the scale: on a three-storey cottage a strong colour reads as cheerful, where on a five-storey stucco terrace it would read as a mistake.
 
 The practical point is that they are **two minutes from Notting Hill Gate station and almost empty**. Portobello Road is a fifteen-minute walk north and takes essentially all of the foot traffic. On a Friday afternoon in September there were two other people photographing here; the same afternoon on Lancaster Road there were about thirty.
 
@@ -100,7 +100,7 @@ The blue-pink-cream run near the top is the most photographed thing in Hillgate 
 
 ![Looking down Hillgate Street past a row of pastel-painted terraced houses towards a crane on the skyline](../../assets/articles/notting-hill-colourful-houses/hillgate-street.jpg)
 
-The long view. Hillgate Street gives you the most houses in one frame of anywhere in this guide, running downhill with the colours in sequence. There is a construction crane on the skyline at the far end, which you will either crop out or decide is honest.
+The long view. Hillgate Street gives you the most houses in one frame of anywhere in this guide, running downhill with the colours in sequence. There is a construction crane on the skyline at the far end, which you will either crop out or decide to keep in.
 
 ### 4. Jameson Street
 
@@ -130,7 +130,7 @@ Wide, tree-lined, and expensive-looking in a way the Hillgate streets are not. T
 
 ![A curved terrace of stucco houses on Elgin Crescent painted butter yellow, powder blue and white](../../assets/articles/notting-hill-colourful-houses/elgin-crescent.jpg)
 
-The best of the grand streets. Elgin Crescent curves, so the pale yellow and powder blue frontages come at you in a sweep rather than a line, and the houses are tall enough that you get the colour and the sky in the same frame. If you only walk one of the northern streets, walk this one.
+The best of the grand streets. Elgin Crescent curves, so the pale yellow and powder blue frontages come at you in a sweep, not a line, and the houses are tall enough that you get the colour and the sky in the same frame. If you only walk one of the northern streets, walk this one.
 
 ### 8. Stanley Crescent
 
@@ -184,11 +184,11 @@ Some residents have painted their houses deliberately drab in response to the at
 
 ## If you come in spring: the cherry blossom
 
-Notting Hill's blossom is genuinely good and almost all of the attention lands on one street.
+Notting Hill's blossom is good and almost all of the attention lands on one street.
 
 **Stanley Crescent** is the one. A run of cherry trees in front of white stucco, and in the last few springs it has drawn crowds heavy enough that residents have gone to the press about it — people setting up tripods for hours, blocking the pavement, and in at least one reported case getting changed in the street between outfits. It is a residential crescent, not a park.
 
-**Go early on a weekday and stay on the pavement.** If there is a queue for a tree, that is the point at which to walk to one of the others rather than join it.
+**Go early on a weekday and stay on the pavement.** If there is a queue for a tree, that is when to walk to one of the others rather than join it.
 
 Because there are others, and they are the reason this section is not just one street:
 
@@ -198,7 +198,7 @@ Because there are others, and they are the reason this section is not just one s
 
 **On timing:** London's cherry blossom is usually at its best from late March to mid April, and the peak lasts one to two weeks. It moves by a fortnight either way depending on the winter, so treat any fixed date as a guess — the trees on the ground are the only reliable forecast. Magnolias come slightly earlier on these same streets, and wisteria follows in late April and May.
 
-If you are chasing blossom rather than houses, the [parks and gardens guide](/articles/best-parks-gardens-london/) covers where else in London to find it, with room to stand.
+If you are chasing blossom, not houses, the [parks and gardens guide](/articles/best-parks-gardens-london/) covers where else in London to find it, with room to stand.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

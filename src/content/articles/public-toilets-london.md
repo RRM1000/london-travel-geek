@@ -1,7 +1,7 @@
 ---
 title: "Public Toilets in London: The Free Ones, the Paid Ones, and Where Else to Go"
 seoTitle: "Public Toilets in London 2026: Free, Paid & By Area"
-description: "Which London toilets are free, which charge and how much, plus the museums, department stores and pubs that quietly let anyone use theirs — organised by area, built from the UK's own public toilet database."
+description: "Which London toilets are free, which charge and how much, plus the museums, department stores and pubs that let anyone use theirs — organised by area, built from the UK's own public toilet database."
 publishedAt: 2026-07-01
 updatedAt: 2026-09-25
 reviewBy: 2027-03-31
@@ -139,7 +139,7 @@ Every major free-entry museum in London has toilets open to any visitor — you 
 
 **Westfield London** and **Westfield Stratford City** both list accessible toilets (RADAR key, available from Guest Services) and a baby-change lounge as standard centre services.
 
-**Department stores are honest but vague.** Selfridges and John Lewis Oxford Street both publish exactly where their toilets are, floor by floor — but neither states a "non-customers welcome" policy in writing, so it's a judgement call in practice rather than a published rule.
+**Department stores are vague about who may use them.** Selfridges and John Lewis Oxford Street both publish exactly where their toilets are, floor by floor — but neither states a "non-customers welcome" policy in writing, so it's a judgement call in practice, not a published rule.
 
 ---
 
@@ -149,7 +149,7 @@ Locked accessible toilets across the UK often use the same lock — the **Nation
 
 In this guide specifically, a RADAR key gets you into the accessible-only toilet at **Canary Wharf's Jubilee line station**, and waives the usual 50p charge at **Cutty Sark Gardens** in Greenwich.
 
-**Changing Places toilets** — the larger rooms with an adult changing bench and a hoist — are a separate provision again, and several of the central ones are behind a RADAR key you ask staff for rather than carry. Our [step-free London guide](/articles/step-free-london/) lists where they are, from Tate Modern and the National Gallery to five main-line stations.
+**Changing Places toilets** — the larger rooms with an adult changing bench and a hoist — are a separate provision again, and several of the central ones are behind a RADAR key you ask staff for, not one you carry. Our [step-free London guide](/articles/step-free-london/) lists where they are, from Tate Modern and the National Gallery to five main-line stations.
 
 ---
 

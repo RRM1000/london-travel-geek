@@ -311,7 +311,7 @@ A conference-sized hotel on the west side of Edgware Road with **1,100 rooms**, 
 
 **Heathrow** has two direct trains from Paddington:
 
-| Train | To Terminals 2 and 3 | Adult single | Worth knowing |
+| Train | To Terminals 2 and 3 | Adult single | Notes |
 | --- | --- | --- | --- |
 | Heathrow Express | 15 min | £26, or £10 booked 30+ days ahead | Every 15 minutes; first train 04:34 Monday to Saturday, 05:10 Sunday; 21 minutes to Terminal 5; children 15 and under free |
 | Elizabeth line | About 27 min | £14.60 pay as you go | Stops six times on the way; the cheaper choice for adults who have not booked ahead |

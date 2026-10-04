@@ -52,7 +52,7 @@ area:
       note: "Or take the narrowboat waterbus from Little Venice — far better than walking it."
 faq:
   - q: "Is Paddington a good area to stay in London?"
-    a: "It is a practical base rather than a scenic one. You get direct Elizabeth line and Heathrow Express connections to the airport, five Tube lines, and hotel prices below comparable Zone 1 areas. The trade-off is that the streets immediately around the station are busy and unremarkable. Stay north towards Little Venice or west towards Bayswater for a quieter night."
+    a: "It is a practical base, not a scenic one. You get direct Elizabeth line and Heathrow Express connections to the airport, five Tube lines, and hotel prices below comparable Zone 1 areas. The trade-off is that the streets immediately around the station are busy and unremarkable. Stay north towards Little Venice or west towards Bayswater for a quieter night."
   - q: "How do I get from Paddington to Heathrow?"
     a: "The Elizabeth line runs roughly every ten minutes and takes about 30 minutes. Heathrow Express takes 15 minutes non-stop but costs considerably more at walk-up prices. Both accept Oyster and contactless."
   - q: "Can you take a boat from Little Venice to Camden?"
@@ -60,7 +60,7 @@ faq:
   - q: "Where is the Paddington Bear statue?"
     a: "On the station concourse near Platform 1, under the departure boards. There is a second, larger bronze at the station's Praed Street entrance. The Browns' house from the films is not here — that exterior was shot on Chalcot Crescent in Primrose Hill, about half an hour north-east."
   - q: "How long do I need in Paddington?"
-    a: "Two to three hours covers Little Venice, a canal walk and lunch. It works best combined with somewhere else — Notting Hill to the west or Regent's Park to the east — rather than as a destination on its own."
+    a: "Two to three hours covers Little Venice, a canal walk and lunch. It works best combined with somewhere else — Notting Hill to the west or Regent's Park to the east — not as a destination on its own."
 heroImage: "../../assets/articles/paddington-area-guide/paddington-basin.jpg"
 heroImageAlt: "Narrowboats moored along Paddington Basin between modern office buildings"
 ---
@@ -102,11 +102,11 @@ The junction where the Grand Union meets the Regent's Canal, lined with white st
 
 **Waterbuses run from here to Camden Lock**, through Regent's Park and the zoo, taking about fifty minutes. Or walk the towpath free in about an hour — it is flat, continuous, and the better version of the same journey.
 
-**Warwick Avenue is the nearest station**, two minutes, and it is a Bakerloo stop rather than a Paddington one.
+**Warwick Avenue is the nearest station**, two minutes, and it is a Bakerloo stop, not a Paddington one.
 
 ### Paddington Basin
 
-East of the station, and a completely different place from Little Venice despite being on the same water — glass offices, hard landscaping and a canal dead-ending into the city rather than running through it.
+East of the station, and a completely different place from Little Venice despite being on the same water — glass offices, hard landscaping and a canal dead-ending into the city instead of running through it.
 
 **Two moving footbridges are the reason to walk down.** Thomas Heatherwick's **Rolling Bridge** curls up into an octagon, and the **Fan Bridge** opens in five separate segments. Both are free to watch and both operate on a published schedule, usually around lunchtime midweek — check before making the trip, because a still bridge is just a bridge.
 
@@ -122,7 +122,7 @@ There is also a **Floating Pocket Park**, a moored island of trees and benches t
 
 ### Praed Street and Craven Road
 
-The hotel strip, running east and south from the station front. Functional rather than attractive — a long parade of budget and mid-range hotels, convenience shops and pharmacies — but genuinely useful, and comparatively cheap for zone 1.
+The hotel strip, running east and south from the station front. Functional, not attractive — a long parade of budget and mid-range hotels, convenience shops and pharmacies — but useful, and comparatively cheap for zone 1.
 
 **This is where you stay if you are catching an early Heathrow train.** The Elizabeth line and the Heathrow Express both leave from Paddington, so a room here is fifteen minutes from the airport and half the price of the equivalent in Mayfair.
 
@@ -134,13 +134,13 @@ The hotel strip, running east and south from the station front. Functional rathe
 
 ### Bayswater and Queensway
 
-South-west of the station, and the best-value eating anywhere near Paddington. A dense, genuinely diverse restaurant quarter — Cantonese, Lebanese, Persian, Greek and Malaysian within a few streets of each other — serving the neighbourhood rather than the station.
+South-west of the station, and the best-value eating anywhere near Paddington. A dense, diverse restaurant quarter — Cantonese, Lebanese, Persian, Greek and Malaysian within a few streets of each other — serving the neighbourhood, not the station.
 
 **Westbourne Grove is the good street**, running west from Queensway: **Al Waha at 75** is one of the longest-established Lebanese restaurants in London and takes bookings. Queensway itself is the cheaper, busier, later-opening axis.
 
 **Queensway has been rebuilt.** The old Whiteleys department store has reopened as a hotel and apartments, and the street has been repaved and widened — so anything written before 2023 describes a different place.
 
-**Two stations serve it**, Bayswater and Queensway, on different lines about three minutes apart, which is worth knowing if one is closed. **Kensington Gardens is at the southern end**, so this is also the walking route from Paddington to Hyde Park — about fifteen minutes to the Italian Gardens.
+**Two stations serve it**, Bayswater and Queensway, on different lines about three minutes apart, which helps if one is closed. **Kensington Gardens is at the southern end**, so this is also the walking route from Paddington to Hyde Park — about fifteen minutes to the Italian Gardens.
 
 ![The still water of Paddington Basin lined with modern glass office buildings](../../assets/articles/paddington-area-guide/paddington-basin.jpg)
 

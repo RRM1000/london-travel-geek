@@ -30,11 +30,11 @@ faq:
   - q: "Does the VAT refund still exist in Scotland, Wales or Northern Ireland?"
     a: "Not in Scotland or Wales — the scheme was withdrawn from the whole of Great Britain on 1 January 2021. It survives in Northern Ireland for visitors who live outside both Northern Ireland and the EU, using form VAT407 signed in front of the shop assistant. It does not help a London trip: you get no refund if you travel from Northern Ireland straight to Great Britain, or to Great Britain through an EU country."
   - q: "Can EU visitors claim VAT back in the UK?"
-    a: "No. EU visitors were never in the old scheme and are not in anything now. They can use the same shop-and-ship route as everyone else, and it matters more for them than for anyone: the EU allowance for air travellers is €430 and the value of a single item cannot be split across it, so an expensive thing carried home in a suitcase can attract UK VAT and home import VAT on the same purchase."
+    a: "No. EU visitors were never in the old scheme and are not in anything now. They can use the same shop-and-ship route as everyone else, and it is worth more to them than to anyone: the EU allowance for air travellers is €430 and the value of a single item cannot be split across it, so an expensive thing carried home in a suitcase can attract UK VAT and home import VAT on the same purchase."
   - q: "Is Bicester Village tax-free?"
     a: "At fourteen named boutiques, and only if they ship it. Bicester Village publishes a tax-free international shipping list — Annoushka, Aquazzura, Balenciaga, Balmain, Bottega Veneta, Brioni, Brunello Cucinelli, Dunhill, Lalique, Loro Piana, Manolo Blahnik, Missoni, Thom Browne and Zegna. Everything else at the Village is ordinary UK retail with VAT in the price."
   - q: "Is duty free at Heathrow actually worth it?"
-    a: "For alcohol and tobacco, yes — those are genuinely free of UK excise duty airside, and since January 2021 that applies on flights to the EU as well. For anything else, no. The airside VAT exemption on general goods was abolished on the same date, so fragrance, sunglasses, fashion, luggage and electronics still carry 20% VAT. Any discount there is a shop discount, not a tax saving."
+    a: "For alcohol and tobacco, yes — those are free of UK excise duty airside, and since January 2021 that applies on flights to the EU as well. For anything else, no. The airside VAT exemption on general goods was abolished on the same date, so fragrance, sunglasses, fashion, luggage and electronics still carry 20% VAT. Any discount there is a shop discount, not a tax saving."
 ---
 
 **No. Visitors cannot claim the 20% VAT back on shopping in London, and have not been able to since 1 January 2021.** There is no refund desk at Heathrow, no form to get stamped, and no app that can do it for you.
@@ -90,7 +90,7 @@ What each retailer publishes on its own site, checked on 3 September 2026:
 
 **"Duty free" and "tax free" are two different things, and only one of them survived.**
 
-* **Excise duty on alcohol and tobacco is genuinely removed airside** — and since January 2021 that applies to **EU-bound flights too**, which it did not before. The only passengers who cannot buy duty free are those flying between two UK destinations with no onward international travel, which is why your boarding pass is checked.
+* **Excise duty on alcohol and tobacco is removed airside** — and since January 2021 that applies to **EU-bound flights too**, which it did not before. The only passengers who cannot buy duty free are those flying between two UK destinations with no onward international travel, which is why your boarding pass is checked.
 * **VAT is not removed on anything else.** Fragrance, cosmetics, sunglasses, fashion, luggage, watches and electronics all still carry **20% VAT** at the airport. Any saving is a shop discount.
 
 The published discounts show the shape of it. Gatwick's World Duty Free advertises **up to 50% off selected spirits** and **up to 40% off selected fragrance**, but only **up to 20% off sunglasses**. On Heathrow's own boutique site the luxury end barely moves: an Aspinal Mayfair Bag at **£541 against £650**, but a **Chanel J12 watch at £5,000 and a Burberry tote at £1,250 with no discount at all**.
@@ -110,7 +110,7 @@ The published discounts show the shape of it. Gatwick's World Duty Free advertis
 
 Some things carry **no VAT for anyone**, resident or visitor: **printed books, newspapers and magazines; children's clothes, footwear and babywear; and most food** — though restaurant meals, hot takeaway, confectionery, crisps and alcohol are all standard-rated, and children's car seats are 5% rather than zero.
 
-**This is the only genuinely tax-free thing a visitor can carry out of a London shop**, and it is why a Fortnum's hamper or an armful of books from Daunt beats a comparable piece of fashion on value.
+**This is the only tax-free thing a visitor can carry out of a London shop**, and it is why a Fortnum's hamper or an armful of books from Daunt beats a comparable piece of fashion on value.
 
 ---
 

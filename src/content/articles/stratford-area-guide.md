@@ -66,7 +66,7 @@ heroImage: "../../assets/articles/stratford-area-guide/olympic-park-from-the-lea
 heroImageAlt: "The London Stadium and the ArcelorMittal Orbit seen across the River Lea from Hackney Wick"
 ---
 
-Stratford was a rail junction and a shopping centre until 2012, when the Olympics rebuilt 560 acres of contaminated industrial land into the Queen Elizabeth Olympic Park. Unlike most Olympic sites, it is genuinely used: the pool is a public pool, the stadium is a football ground, the velodrome takes bookings.
+Stratford was a rail junction and a shopping centre until 2012, when the Olympics rebuilt 560 acres of contaminated industrial land into the Queen Elizabeth Olympic Park. Unlike most Olympic sites, it is used: the pool is a public pool, the stadium is a football ground, the velodrome takes bookings.
 
 It is also one of the best-connected places in London — six lines meet at Stratford, and the Elizabeth line reaches Liverpool Street in nine minutes.
 
@@ -108,16 +108,16 @@ The busy half, built around the main waterways. **The ArcelorMittal Orbit** is h
 ### The Olympic Park (north)
 Quieter parkland, and the half most visitors never reach. The **VeloPark** is here — the Olympic velodrome, open for public track sessions and taster rides — along with the **Copper Box Arena**.
 
-The landscaping is deliberately wilder up here: reedbeds, meadow planting and the River Lea running through rather than the formal lawns to the south.
+The landscaping is deliberately wilder up here: reedbeds, meadow planting and the River Lea running through, not the formal lawns to the south.
 
-**Free, open at all times, and genuinely quiet on a weekday.** It is about twenty minutes' walk from Stratford station to the northern end, so allow for the distance. The park's fountains run through the summer and are free to run through.
+**Free, open at all times, and quiet on a weekday.** It is about twenty minutes' walk from Stratford station to the northern end, so allow for the distance. The park's fountains run through the summer and are free to run through.
 
 ![The ArcelorMittal Orbit rising above the fountains in Queen Elizabeth Olympic Park, with children playing in the water](../../assets/articles/stratford-area-guide/orbit-fountains.jpg)
 
 *The ArcelorMittal Orbit, above the fountains.*
 
 ### Westfield Stratford City
-Between the station and the park, with around 250 shops — **and you have to walk through it to reach the park**, which is by design rather than accident.
+Between the station and the park, with around 250 shops — **and you have to walk through it to reach the park**, which is by design, not accident.
 
 It is one of the largest shopping centres in Europe, with a cinema, a casino and a bowling alley alongside the retail.
 
@@ -133,7 +133,7 @@ East of the station, and **the Stratford that existed before 2012** — a covere
 ### Hackney Wick
 West across the canal, and reached from the park by footbridge in a couple of minutes. **Warehouse studios, breweries and taprooms**, with painted walls that change constantly.
 
-It is a drinking and wandering destination rather than a sightseeing one, and much of the original studio space has been redeveloped — though enough remains to give it the character.
+It is a drinking and wandering destination, not a sightseeing one, and much of the original studio space has been redeveloped — though enough remains to give it the character.
 
 **Best on a summer afternoon**, and fairly bleak in the rain. Hackney Wick has its own Overground station if you would rather not walk back through the park.
 
@@ -154,7 +154,7 @@ It is a drinking and wandering destination rather than a sightseeing one, and mu
 | --- | --- | --- | --- |
 | **Westfield food court** | Mixed | ££ | Around 70 options; the practical choice with children |
 | **Crate Brewery** | Brewery and pizza | ££ | Canal-side at Hackney Wick, twenty minutes west |
-| **The Cow** | Pub | ££ | In Westfield but genuinely pub-like, with outdoor seating |
+| **The Cow** | Pub | ££ | In Westfield but pub-like, with outdoor seating |
 | **Stratford covered market** | Market stalls | £ | East of the station; cheap and entirely local |
 | **Barge East** | Restaurant on a barge | ££ | A restored Dutch barge moored on the River Lea |
 | **Hackney Wick canal bars** | Various | ££ | Best on a summer afternoon |

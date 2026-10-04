@@ -49,7 +49,7 @@ That is the shape of this whole question, and it does not appear on any page sel
 
 ## Start here: the best museums are free
 
-Before any arithmetic, the fact that decides it for a lot of people.
+Before any arithmetic, the fact that settles the question for a lot of people.
 
 **Every national museum and gallery in London is free to enter.** Not discounted. Free.
 
@@ -75,7 +75,7 @@ Go City sells two different things under the London Pass name. They work nothing
 
 **The London Pass (All-Inclusive)** buys **consecutive days** of unlimited visits. Activate it on Tuesday with a 3-day pass and it dies at midnight on Thursday, whatever you did in between.
 
-**The London Pass Explorer** buys a **fixed number of attractions** — you pick 2 to 7 — used over **30 days from first use**. Days do not matter. Only the count does.
+**The London Pass Explorer** buys a **fixed number of attractions** — you pick 2 to 7 — used over **30 days from first use**. Days make no difference. Only the count does.
 
 > ⚠️ **If your sightseeing is spread across a week, the Explorer is the one that fits.** The All-Inclusive rewards cramming; the Explorer rewards spacing out. People routinely buy the All-Inclusive for a seven-day holiday on which they will visit four things, and lose money on every day the pass is running while they are in a pub.
 
@@ -188,7 +188,7 @@ The classic list, booked direct in advance.
 
 Add a sixth — Madame Tussauds at £27.00 — and the gate total becomes £169.00. **Now the pass wins, by £20.00.**
 
-So the honest rule for two days: **six paid attractions to make £20.** That is one every three hours of an eight-hour sightseeing day, with no long lunch and no getting lost. Five is a good, full, realistic two days, and at five the pass loses.
+So the rule for two days: **six paid attractions to make £20.** That is one every three hours of an eight-hour sightseeing day, with no long lunch and no getting lost. Five is a good, full, realistic two days, and at five the pass loses.
 
 ### 2. Family of four, three days
 
@@ -230,7 +230,7 @@ You have done the Tower. Now you want Greenwich and Kew. A 3-choice Explorer is 
 
 This is the standard trap for a second-visit itinerary. **The interesting attractions are the cheap ones.** The Monument is £7. Greenwich sells the Observatory and Cutty Sark together for £38. Under-18s get into the London Transport Museum free. None of them can carry a £29.67 break-even.
 
-The Explorer only pays if you deliberately pick the priciest items on it — and those skew towards tours, stadium tours and mystery games rather than the places you came to see.
+The Explorer only pays if you deliberately pick the priciest items on it — and those skew towards tours, stadium tours and mystery games, not the places you came to see.
 
 ### 4. Someone who mostly wants museums
 
@@ -292,7 +292,7 @@ And the free viewpoints — Sky Garden, Horizon 22, The Garden at 120, Tate Mode
 
 ---
 
-## The alternatives, honestly compared
+## The alternatives compared
 
 ### Historic Royal Palaces membership — the one that beats it
 
@@ -310,7 +310,7 @@ For a family of four it is starker still:
 | HRP Family membership (2 adults, up to 6 children) | **£125.00** |
 | 3-day London Pass, same family | £596.00 |
 
-The family membership is **£471 cheaper than the pass** and lasts a year. HRP also lets you put the price of an adult ticket towards membership on the day of your visit or within two weeks — so you can decide at the Tower's ticket office rather than in advance.
+The family membership is **£471 cheaper than the pass** and lasts a year. HRP also lets you put the price of an adult ticket towards membership on the day of your visit or within two weeks — so you can decide at the Tower's ticket office, not in advance.
 
 Individual £65, Joint £105, Family (one adult) £80, Family (two adults) £125, all by Direct Debit; add £10 for card payment. Prices held until 28 February 2027.
 
@@ -368,13 +368,13 @@ The baseline, and for most readers the answer. Book in advance, on the attractio
 
 ## So who should buy it?
 
-**Buy the All-Inclusive if** you are doing five or more paid attractions a day, on consecutive days, starting each morning at opening, and you genuinely enjoy that pace. It rewards intensity and nothing else.
+**Buy the All-Inclusive if** you are doing five or more paid attractions a day, on consecutive days, starting each morning at opening, and you enjoy that pace. It rewards intensity and nothing else.
 
 **Buy the Explorer if** you have picked out three or more expensive attractions and want them spread across a week or two. Check every pick against the per-attraction break-even in the table above first.
 
-**Do not buy either if** your London is museums and galleries; if you have children and the palaces are the draw (buy HRP membership); if you are here for four days and plan two paid attractions; or if you like long lunches.
+**Do not buy either if** your London is museums and galleries; if you have children and mainly want the palaces (buy HRP membership); if you are here for four days and plan two paid attractions; or if you like long lunches.
 
-**And check the maths for your own list before you buy.** Write down the attractions you actually want. Look up each one on its own website, in advance, not on the pass seller's page. Add it up. Then compare. It takes ten minutes and it is the only way to answer this question for your trip rather than for an imaginary visitor who does six things a day.
+**And check the maths for your own list before you buy.** Write down the attractions you actually want. Look up each one on its own website, in advance, not on the pass seller's page. Add it up. Then compare. It takes ten minutes and it is the only way to answer this question for your trip, not for an imaginary visitor who does six things a day.
 
 ---
 

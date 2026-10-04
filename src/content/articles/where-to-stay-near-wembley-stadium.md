@@ -35,7 +35,7 @@ If you have a ticket for Wembley Stadium or OVO Arena Wembley and need a bed, wh
 
 The Metropolitan line is the fastest way to Wembley Park. **Every Met train calls at Wembley Park, fast and semi-fast ones included**, and it runs non-stop from Finchley Road, skipping the five Jubilee stops in between. So a Met station seven minutes out is a better base than a Jubilee station in the West End.
 
-| Base | Train | Door to door | The catch |
+| Base | Train | Door to door | Watch out for |
 | --- | --- | --- | --- |
 | **Wembley Park** | None: walk | **5–15 min** | A room costs about **three times** as much on an event night |
 | **Harrow-on-the-Hill** | Metropolitan, **7 min** | **29 min** | No Night Tube. Last train back **00:56**, Sunday **00:33** |
@@ -206,7 +206,7 @@ This is the base with the most ways back. The Met is **13 minutes** from Baker S
 
 ## King's Cross, Waterloo and the rest of central London
 
-**King's Cross and Euston** (Euston Square on the Met) are one Met train from Wembley Park, **18 minutes** from King's Cross St Pancras and about 41 minutes door to door. The catch is late at night: the last train through to King's Cross leaves Wembley Park at **23:32**, and after that the Met terminates at Baker Street. Our [King's Cross stay guide](/articles/where-to-stay-kings-cross/) has the hotels.
+**King's Cross and Euston** (Euston Square on the Met) are one Met train from Wembley Park, **18 minutes** from King's Cross St Pancras and about 41 minutes door to door. The drawback is late at night: the last train through to King's Cross leaves Wembley Park at **23:32**, and after that the Met terminates at Baker Street. Our [King's Cross stay guide](/articles/where-to-stay-kings-cross/) has the hotels.
 
 **Waterloo and London Bridge** are on the Jubilee, but the quick way is to change to the Met at Finchley Road: about **49 minutes** door to door. It is one of the longest rides on this list, but on a Friday or Saturday the Jubilee Night Tube runs straight back, and the Novotel Waterloo's price did not rise on a match night (see below). Our [South Bank stay guide](/articles/where-to-stay-south-bank/) covers the area.
 
@@ -249,7 +249,7 @@ After a Sunday event, the last Jubilee south leaves Wembley Park at about **23:4
 
 ## Staying next to the venue
 
-A Wembley hotel is the right call when **there is no stadium event that night**: the night after, or the night before an early start. It suits families with young children, who can walk back to the room rather than queue.
+A Wembley hotel is the right call when **there is no stadium event that night**: the night after, or the night before an early start. It suits families with young children, who can walk back to the room instead of queueing.
 
 On a stadium event night it costs far more:
 

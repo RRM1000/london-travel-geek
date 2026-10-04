@@ -38,12 +38,12 @@ faq:
   - q: "How much does it cost to use a cash machine in London?"
     a: "Usually nothing. Around 80% of the UK's cash machines are free to use, and because people gravitate towards them, LINK — the network that connects almost every UK cash machine — says roughly 95% of withdrawals are free of charge. Where a machine does charge, UK rules require the fee to be shown on screen and accepted before you commit, so a machine can't charge you without warning, though your own bank may add a fee for using a foreign card."
   - q: "Do I have to tip in London?"
-    a: "No tip is compulsory, but a discretionary service charge of around 12.5% is common on restaurant bills, and since 1 October 2024 the law has required employers to pass it to staff in full. Round up for a coffee or a round of drinks, tip 10–15% at a restaurant with no service charge already added, and tip London cabbies by rounding up rather than by a fixed percentage."
+    a: "No tip is compulsory, but a discretionary service charge of around 12.5% is common on restaurant bills, and since 1 October 2024 the law has required employers to pass it to staff in full. Round up for a coffee or a round of drinks, tip 10–15% at a restaurant with no service charge already added, and tip London cabbies by rounding up, not by a fixed percentage."
   - q: "Can I get a VAT refund on shopping in London?"
     a: "No. Tax-free shopping for overseas visitors ended across Great Britain on 1 January 2021 and hasn't returned. The 20% VAT is already inside every shelf price you see. Our full guide to tax-free shopping in London covers the one thing that still works — having a purchase shipped directly abroad by the retailer."
 ---
 
-A card works almost everywhere in London — the Tube, the bus, the corner shop, the market stall's little white reader. But "London takes cards" and "London doesn't need cash" are different claims, and the second one is wrong often enough to catch visitors out: a bus that won't take your banknote, a museum café that's contactless-only, a tip that never reaches the waiter because it went through the machine. This is what actually happens to money in London, sourced to the Bank of England, the FCA, TfL, LINK and UK Finance rather than to habit.
+A card works almost everywhere in London — the Tube, the bus, the corner shop, the market stall's little white reader. But "London takes cards" and "London doesn't need cash" are different claims, and the second one is wrong often enough to catch visitors out: a bus that won't take your banknote, a museum café that's contactless-only, a tip that never reaches the waiter because it went through the machine. This is what actually happens to money in London, sourced to the Bank of England, the FCA, TfL, LINK and UK Finance, not to habit.
 
 > 💡 **The Short Version:** London runs on contactless — 67% of credit card and 76% of debit card transactions in the UK are now contactless, per UK Finance. The **contactless limit is £100** at every major bank, even though the FCA lifted the official cap in March 2026. **TfL buses take no cash at all**, and Wembley, Tottenham Hotspur Stadium, The O2 and OVO Arena are fully cashless. Cash machines are **free about 95% of the time** — LINK requires any charge to be shown on screen before you accept it. Carry **£20–£40** for markets, buskers and small independents. **Always choose to pay in pounds**, never the "convert to your currency" option, at a card machine or a cash machine. A **12.5% service charge** is common at restaurants and now goes to staff by law. And there's **no VAT refund** on London shopping — that ended in January 2021.
 
@@ -106,13 +106,13 @@ This is the phrase visitors misuse most. The Bank of England is blunt about it: 
 
 **TfL's entire bus network has taken no cash since 2014** — pay by contactless, Oyster, or a valid Travelcard, or you can't board. The Tube, Overground, DLR and Elizabeth line still sell paper tickets from machines, but pay-as-you-go by card or [Oyster](/articles/oyster-card-guide-london/) is cheaper on almost every fare — see our [transport costs and fares guide](/articles/london-public-transport-costs-and-fares/) for the numbers.
 
-**Plenty of cafés, restaurants and pubs have gone card-only too**, particularly newer openings and counter-service places — it's legal, per the Bank of England's own guidance above, and increasingly common, though it's still a minority of London's food and drink scene rather than the norm. Even [public toilets](/articles/public-toilets-london/) have joined the shift: all eight Royal Parks charge a flat 20p for theirs, and it's card or contactless only — the parks removed cash payment, so the coin you'd expect to need is the one thing that no longer works.
+**Plenty of cafés, restaurants and pubs have gone card-only too**, particularly newer openings and counter-service places — it's legal, per the Bank of England's own guidance above, and increasingly common, though it's still a minority of London's food and drink scene, not the norm. Even [public toilets](/articles/public-toilets-london/) have joined the shift: all eight Royal Parks charge a flat 20p for theirs, and it's card or contactless only — the parks removed cash payment, so the coin you'd expect to need no longer works.
 
 **Cash still earns its place in a few specific spots:**
 
 * **Market stalls**, especially the smaller, more informal ones — plenty now take cards, but a float of coins speeds things up and covers the ones that don't.
 * **Buskers and street performers**, including the licensed pitches on the [Underground and in Covent Garden](/articles/london-on-a-budget/) — the hat still goes round.
-* **Tips**, where cash reaches the person who served you directly rather than going through a payroll system (more on this below).
+* **Tips**, where cash reaches the person who served you directly, not through a payroll system (more on this below).
 * **Small independents**, particularly older cafés and stalls that have never installed a card reader — rarer every year, but still around.
 
 ![An artisan bakery stall at Borough Market displaying bread loaves with prices marked in pounds sterling and an ATM kiosk behind](../../assets/articles/money-in-london/borough-market-pricing-stall.jpg)
@@ -127,7 +127,7 @@ Britain uses all three terms interchangeably — **cash machine**, **cashpoint**
 
 **Most cash machines are free, and the ones that aren't have to tell you first.** LINK's own network data, published 21 August 2026, counted **33,699 free-to-use machines against 8,693 pay-to-use ones in 2025** — about 80% free by number. Because people naturally use the free ones, the *proportion of withdrawals* that are free is even higher: LINK says **around 95% of cash withdrawals are free of charge**, with roughly £1.4 billion taken out of the network every week.
 
-Where a machine does charge — commonly an independent, convenience-store operator such as Euronet, which runs pay-to-use machines under its YourCash brand in shops including Nisa Local and Bargain Booze, rather than the free machines banks provide — LINK's own rules require it to be upfront about the cost:
+Where a machine does charge — commonly an independent, convenience-store operator such as Euronet, which runs pay-to-use machines under its YourCash brand in shops including Nisa Local and Bargain Booze, not the free machines banks provide — LINK's own rules require it to be upfront about the cost:
 
 > LINK's rules on charging require: **an on-screen message stating when an operator charge will be applied**; the exact amount displayed on screen; **your positive acceptance of that specific charge before the withdrawal completes**; the option to cancel without being charged; and external signage on the machine itself warning that it charges.
 
@@ -135,7 +135,7 @@ In practice: read the screen before you confirm, and if a fee appears, you can a
 
 **Your own bank can also charge, separately from the machine.** This is a fee from your card issuer, not the cash machine, and LINK's Cash Locator won't show it — check with your bank before you travel. As an illustration, TSB charged its own customers a **2.99% non-sterling transaction fee** on cash withdrawals abroad in August 2026.
 
-**Withdrawal limits are set by your own bank or card issuer, not by the machine**, and vary by account — check yours before relying on cash machines for a large sum. **On how much to carry:** transport, shops and restaurants mostly work by card, so most visitors don't need much — £20–£40 in notes and coins covers markets, a bus-fare mishap, tips and the odd cash-only counter, topped up as needed rather than carried in bulk.
+**Withdrawal limits are set by your own bank or card issuer, not by the machine**, and vary by account — check yours before relying on cash machines for a large sum. **On how much to carry:** transport, shops and restaurants mostly work by card, so most visitors don't need much — £20–£40 in notes and coins covers markets, a bus-fare mishap, tips and the odd cash-only counter, topped up as needed, not carried in bulk.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="money-in-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -149,9 +149,9 @@ Whichever cash you end up holding, the same rule from the cards section applies 
 
 ## Tipping and service charges
 
-**Nothing is compulsory**, but a **discretionary service charge of around 12.5%** is common on London restaurant bills, usually printed on the menu and added automatically to the total — you can ask for it to be removed if service was genuinely poor, though most people don't.
+**Nothing is compulsory**, but a **discretionary service charge of around 12.5%** is common on London restaurant bills, usually printed on the menu and added automatically to the total — you can ask for it to be removed if service was poor, though most people don't.
 
-**Since 1 October 2024, that money is protected by law.** The **Employment (Allocation of Tips) Act 2023** — which received Royal Assent on 2 May 2023, followed by a statutory Code of Practice published on 22 April 2024 — makes it unlawful for an employer to hold back tips, gratuities or service charges from staff. GOV.UK estimates the change puts **an extra £200 million a year** into the pockets of more than 2 million hospitality, leisure and service workers, and gives staff the right to see their employer's tipping record. Many restaurants pool and distribute tips through a system called a **"tronc"** — a shared scheme for splitting tips fairly across a team rather than paying each server only what their own tables left.
+**Since 1 October 2024, that money is protected by law.** The **Employment (Allocation of Tips) Act 2023** — which received Royal Assent on 2 May 2023, followed by a statutory Code of Practice published on 22 April 2024 — makes it unlawful for an employer to hold back tips, gratuities or service charges from staff. GOV.UK estimates the change puts **an extra £200 million a year** into the pockets of more than 2 million hospitality, leisure and service workers, and gives staff the right to see their employer's tipping record. Many restaurants pool and distribute tips through a system called a **"tronc"** — a shared scheme for splitting tips fairly across a team instead of paying each server only what their own tables left.
 
 * **Restaurants:** 10–15% if no service charge is already added; check the bill before adding twice.
 * **Pubs and bars:** not expected for a drink at the bar; round up or leave a coin or two for table service.

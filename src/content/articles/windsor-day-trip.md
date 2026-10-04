@@ -36,7 +36,7 @@ It is, otherwise, the easiest big day trip out of London: half an hour from Padd
 
 > 💡 **The Short Version:** **£32.00 adult in advance, £16.00 child, £96.00 for two and two.** **Closed Tuesdays and Wednesdays.** **Paddington via Slough, 28–38 minutes, £7.90 off-peak**, or **Waterloo direct, 53 minutes, £8.90**. **Contactless works, Oyster does not.** **St George's Chapel is shut to visitors on Sundays.** **Changing of the Guard is Thursday and Saturday at 11:00.** Allow **1½ to 2 hours** inside. **2FOR1 does not cover the Castle.** Sign your ticket on the way out and it becomes a **free pass for a year**. **Or book a coach tour** — the <a href="https://www.getyourguide.com/activity/-t18994?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£69 afternoon sightseeing tour</a> includes Castle entry and the coach both ways.
 
-**The coach tour most people end up booking does not get you inside the Castle.** Windsor, Stonehenge and Bath in a single day, from £71, is among the most-booked day trips out of London, and its inclusions list reads "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" — so the tickets are yours to buy on top, and on a Tuesday or Wednesday there is nothing to go into at the Windsor end. [Which tours include what](#day-tours-that-include-windsor-compared), read off fourteen product pages, follows the getting there details below. [Stonehenge from London](/articles/stonehenge-day-trip/) and [Bath from London](/articles/bath-day-trip/) price the other two stops properly.
+**The coach tour most people end up booking does not get you inside the Castle.** Windsor, Stonehenge and Bath in a single day, from £71, is among the most-booked day trips out of London, and its inclusions list reads "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" — so the tickets are yours to buy on top, and on a Tuesday or Wednesday there is nothing to go into at the Windsor end. [Which tours include what](#day-tours-that-include-windsor-compared), read off fourteen product pages, follows the getting there details below. [Stonehenge from London](/articles/stonehenge-day-trip/) and [Bath from London](/articles/bath-day-trip/) price the other two stops.
 
 ## Getting there
 
@@ -78,7 +78,7 @@ Home Park and King Edward VII are the cheapest full day and they sit beside the 
 
 **A tour only earns its place when it links stops the trains do not.** Windsor on its own is a £7.90 contactless fare and a two-minute walk, so the question is never "coach or train" — it is whether the second and third stop are worth £40 to £90 a head.
 
-GetYourGuide sells dozens of day trips from London that stop at Windsor, and the titles are not reliable: **several name an attraction in the title and then list its entry as "if option selected"**, which means the headline price buys a coach seat rather than admission. Read the includes and excludes list before you book. Links below are affiliate links and the price is the same either way.
+GetYourGuide sells dozens of day trips from London that stop at Windsor, and the titles are not reliable: **several name an attraction in the title and then list its entry as "if option selected"**, which means the headline price buys a coach seat, not admission. Read the includes and excludes list before you book. Links below are affiliate links and the price is the same either way.
 
 | The day | Length | From | What entry is included |
 | --- | --- | --- | --- |
@@ -92,7 +92,7 @@ GetYourGuide sells dozens of day trips from London that stop at Windsor, and the
 
 ### If you only want the Castle, take the train
 
-£7.90 each way and £32 for the castle booked ahead is **£47.80 for the day**, against £69 for the cheapest tour that genuinely includes entry. That one is <a href="https://www.getyourguide.com/activity/-t18994?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the Windsor Castle Royal Afternoon Sightseeing Tour</a> — State Apartments, Dolls' House and St George's Chapel, coach both ways, 4.3 from 290 reviews, and no live guide, just the castle's own audio guide. <a href="https://www.getyourguide.com/activity/-t71088?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The half-day trip with castle tickets</a> is **£80**, 4.4 from 980 reviews, leaves **Bus Stop C opposite Earls Court station at 09:00** and gives you 2½ hours inside with a guide on the coach. Either is a door-to-door convenience purchase, not a saving.
+£7.90 each way and £32 for the castle booked ahead is **£47.80 for the day**, against £69 for the cheapest tour that includes entry. That one is <a href="https://www.getyourguide.com/activity/-t18994?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the Windsor Castle Royal Afternoon Sightseeing Tour</a> — State Apartments, Dolls' House and St George's Chapel, coach both ways, 4.3 from 290 reviews, and no live guide, just the castle's own audio guide. <a href="https://www.getyourguide.com/activity/-t71088?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The half-day trip with castle tickets</a> is **£80**, 4.4 from 980 reviews, leaves **Bus Stop C opposite Earls Court station at 09:00** and gives you 2½ hours inside with a guide on the coach. Either is a door-to-door convenience purchase, not a saving.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="18994" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -113,7 +113,7 @@ Swap Bath for Oxford and you get <a href="https://www.getyourguide.com/activity/
 ### The two tours a train cannot replace
 
 - <a href="https://www.getyourguide.com/activity/-t320558?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge Inner Circle and Windsor</a> — **£189**, 11 hours, **4.9 from 439 reviews**, the best-rated Windsor product there is. A private visit **inside the stone circle outside opening hours**, which is not sold any other way, then 3¼ hours at Windsor. Castle entry comes only on the "with Windsor Castle Entry" option; the other options give you a walking tour of the town instead.
-- <a href="https://www.getyourguide.com/activity/-t388125?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor Castle and Hampton Court Palace</a> — **£89**, 7 to 9 hours, 4.7 from 150 reviews. Two palaces on opposite sides of the western suburbs, which is a genuinely awkward pair by train. Both tickets read "if option selected", so book the "with Entrance Fees Included" option.
+- <a href="https://www.getyourguide.com/activity/-t388125?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Windsor Castle and Hampton Court Palace</a> — **£89**, 7 to 9 hours, 4.7 from 150 reviews. Two palaces on opposite sides of the western suburbs, which is an awkward pair by train. Both tickets read "if option selected", so book the "with Entrance Fees Included" option.
 
 And for LEGOLAND, <a href="https://www.getyourguide.com/activity/-t645578?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the entry-and-coach package from Victoria</a> does include the park ticket — but at **£85** against a £32 online ticket and a £3 capped single on the Green Line 702, you are paying about £53 for a coach seat, and £150 of premium for a family of four. It is rated 4.0 from 136 reviews, the lowest of any big Windsor product.
 
@@ -157,7 +157,7 @@ The State Apartments stop admitting 30 minutes after the last admission time. Ti
 
 **The State Apartments** are the ceremonial rooms still used for state visits and investitures, hung with Holbein, Van Dyck and Rubens, plus the historic rooms built for Charles II and George IV's Waterloo Chamber. **Queen Mary's Dolls' House** is on permanent display. **St George's Chapel** holds the tombs of eleven monarchs — Queen Elizabeth II, George VI, Henry VIII and Charles I among them — and is where the recent royal weddings happened.
 
-> ⚠️ **The Chapel is closed to visitors on Sundays**, open only for worship. If the Chapel is the reason you are going, do not go on a Sunday. On other days it takes its last entry at 16:00 and closes at 16:15 for the 17:15 evening service, which you are welcome to attend.
+> ⚠️ **The Chapel is closed to visitors on Sundays**, open only for worship. If you are going for the Chapel, do not go on a Sunday. On other days it takes its last entry at 16:00 and closes at 16:15 for the 17:15 evening service, which you are welcome to attend.
 
 **A multimedia guide is included**, introduced by The King, in nine languages plus British Sign Language with subtitles, and there is a children's version for ages 7 to 11 narrated by Scorch the dragon.
 
@@ -189,7 +189,7 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 **Windsor Castle is not in the National Rail 2FOR1 scheme.** Neither is any other Royal Collection Trust site. The Castle is full price however you arrive.
 
-**LEGOLAND Windsor Resort is in it, at one third off** rather than two-for-one — the same treatment every Merlin attraction gets, for up to six people, during LEGOLAND's main season only. Two Golden Tours bus tours of Windsor are listed too. Every offer needs a valid National Rail ticket and a booking through the Days Out Guide, and contactless does not qualify, which is the whole trick of it: the cheapest way to reach Windsor is the thing that disqualifies you. Full rules in our guide to [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/).
+**LEGOLAND Windsor Resort is in it, at one third off** rather than two-for-one — the same treatment every Merlin attraction gets, for up to six people, during LEGOLAND's main season only. Two Golden Tours bus tours of Windsor are listed too. Every offer needs a valid National Rail ticket and a booking through the Days Out Guide, and contactless does not qualify, so the cheapest way to reach Windsor is the one that disqualifies you. Full rules in our guide to [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/).
 
 ## What fills the rest of the day
 
@@ -263,7 +263,7 @@ Which sets up a neat trade: **Sunday is the one day the Chapel is shut and the o
 
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — which attractions are really in the scheme, and why contactless disqualifies you.
 - 🧱 **[LEGOLAND Windsor](/articles/legoland-windsor-day-trip/)** — tickets from £32, the 702 bus from the station, and every height limit.
-- ⚡ **[Harry Potter Studio Tour](/articles/harry-potter-studio-tour/)** — the other big day trip out of London, and the one where you genuinely cannot buy on the door.
+- ⚡ **[Harry Potter Studio Tour](/articles/harry-potter-studio-tour/)** — the other big day trip out of London, and the one where you cannot buy on the door.
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless capping works on a day like this one.
 - 🏛️ **[Historic houses in London](/articles/historic-houses-london/)** — palaces and grand interiors without leaving the city.
 - 👨‍👩‍👧 **[London with kids](/articles/london-with-children/)** — more family days out, most of them free.

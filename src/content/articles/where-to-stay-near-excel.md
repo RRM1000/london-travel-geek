@@ -31,7 +31,7 @@ ExCeL is a single building nearly a kilometre long, with a station at each end: 
 
 ## The bases compared
 
-| Base | Station | Train to ExCeL | Last train back, Mon–Sat | The catch |
+| Base | Station | Train to ExCeL | Last train back, Mon–Sat | Watch out for |
 | --- | --- | --- | --- | --- |
 | **Western Gateway** | Custom House, Royal Victoria | None: walk | — | About 600 m inside the building to the East Entrance and the ICC |
 | **The east end** | Prince Regent | None: walk | — | The same walk the other way for a west-hall show |
@@ -215,7 +215,7 @@ On the peninsula south of The O2, with **breakfast included**, family rooms and 
 
 </div>
 
-For the centre of town, the Elizabeth line runs direct from Custom House to Liverpool Street in **10 minutes**, Tottenham Court Road in **17** and Paddington in **23**. Our guides to the [City of London](/articles/where-to-stay-city-of-london/), [Bloomsbury](/articles/where-to-stay-bloomsbury/) and [Paddington](/articles/where-to-stay-paddington/) cover hotels near those stations. The catch is Sunday, when the last train west leaves Custom House at 22:35.
+For the centre of town, the Elizabeth line runs direct from Custom House to Liverpool Street in **10 minutes**, Tottenham Court Road in **17** and Paddington in **23**. Our guides to the [City of London](/articles/where-to-stay-city-of-london/), [Bloomsbury](/articles/where-to-stay-bloomsbury/) and [Paddington](/articles/where-to-stay-paddington/) cover hotels near those stations. The exception is Sunday, when the last train west leaves Custom House at 22:35.
 
 ## Budget chains
 

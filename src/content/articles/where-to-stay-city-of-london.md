@@ -18,7 +18,7 @@ tags: [where to stay, hotels, City of London, Spitalfields, Tower Hill, planning
 draft: false
 faq:
   - q: "Is the City of London a good area to stay in?"
-    a: "Yes, for transport and for weekend prices. Liverpool Street and Farringdon are on the Elizabeth line with direct trains to Heathrow, Bank has five lines plus the DLR, and St Paul's and the Tower of London are both inside the Square Mile. The catch is the evening: the City is an office district, so many of its pubs and restaurants keep weekday hours. For nightlife, Shoreditch is ten minutes' walk north of Liverpool Street."
+    a: "Yes, for transport and for weekend prices. Liverpool Street and Farringdon are on the Elizabeth line with direct trains to Heathrow, Bank has five lines plus the DLR, and St Paul's and the Tower of London are both inside the Square Mile. The drawback is the evening: the City is an office district, so many of its pubs and restaurants keep weekday hours. For nightlife, Shoreditch is ten minutes' walk north of Liverpool Street."
   - q: "Are City of London hotels cheaper at weekends?"
     a: "Often, because they are priced for business travellers from Monday to Thursday. South Place Hotel's own offer took up to 20% off Friday and Saturday nights in September and October 2026, with breakfast. Price a Friday and Saturday against a Tuesday before you book, and check the City against the West End for the same weekend."
   - q: "Is the City of London dead at weekends?"
@@ -209,7 +209,7 @@ The YĀTRĀ spa has **a swimming pool, a Jacuzzi, a sauna and a steam room**. Ro
 
 *££ · 71 Moorgate, EC2R 6BH · By Moorgate station · [check prices](hotel:cove-moorgate)*
 
-Serviced apartments on Moorgate itself, with air conditioning, king-size beds and a kitchen in every unit. **The minimum stay is three nights**, rising to four or seven on some dates, so it suits a week rather than a weekend.
+Serviced apartments on Moorgate itself, with air conditioning, king-size beds and a kitchen in every unit. **The minimum stay is three nights**, rising to four or seven on some dates, so it suits a week, not a weekend.
 
 <div class="photo-row">
 

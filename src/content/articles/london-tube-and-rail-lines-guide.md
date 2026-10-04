@@ -51,7 +51,7 @@ All 11 Tube lines are rated below — tap any line to open it. Checking the plat
 - **Ease of use:** how easy the line is to navigate — branches, interchanges and how often you have to check which train you are boarding.
 - **Night Tube:** whether the line runs through the night on Friday and Saturday.
 
-> 📶 **Phone signal is not a per-line thing, with one exception.** Station WiFi is free and near-universal across the network, but mobile coverage in the tunnels is being fitted section by section rather than line by line — so a line is rarely all-or-nothing, and that is why there is no signal rating below. **The Elizabeth line is the exception**: it is complete end to end and the only line with genuine onboard WiFi, so route through it if you need to be reachable. The [full picture is in the Underground guide](/articles/how-to-use-the-london-underground/#wifi-and-phone-signal-underground).
+> 📶 **Phone signal is not a per-line thing, with one exception.** Station WiFi is free and near-universal across the network, but mobile coverage in the tunnels is being fitted section by section, not line by line — so a line is rarely all-or-nothing, and that is why there is no signal rating below. **The Elizabeth line is the exception**: it is complete end to end and the only line with genuine onboard WiFi, so route through it if you need to be reachable. The [full picture is in the Underground guide](/articles/how-to-use-the-london-underground/#wifi-and-phone-signal-underground).
 
 <details class="line-details">
 <summary><span class="line-name line-name--piccadilly"><span aria-hidden="true" class="line-name__swatch"></span>Piccadilly</span> <span class="line-details__meta">crowding 5/5 &middot; comfort 2/5 &middot; ease 3/5</span></summary>
@@ -283,7 +283,7 @@ All 11 Tube lines are rated below — tap any line to open it. Checking the plat
   </tbody>
 </table>
 
-The Circle, District, Hammersmith & City and Metropolitan lines use modern S-stock trains with walk-through carriages and air-conditioning. The deep-level lines generally use forced ventilation rather than passenger air-conditioning. Piccadilly line fleet replacement is beginning in 2026, so the train you receive will depend on the rollout.
+The Circle, District, Hammersmith & City and Metropolitan lines use modern S-stock trains with walk-through carriages and air-conditioning. The deep-level lines generally use forced ventilation, not passenger air-conditioning. Piccadilly line fleet replacement is beginning in 2026, so the train you receive will depend on the rollout.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tube-and-rail-lines-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -359,7 +359,7 @@ Where a visitor can choose between routes:
 - **DLR** is scenic and accessible; seek the front seats outside peak time.
 - **Deep-level Tube lines** are often fastest for central journeys, but can be hot and crowded in summer.
 
-Speed, step-free access and interchange walking time can matter more than the train itself. Consider the whole journey rather than choosing purely by the ratings above.
+Speed, step-free access and interchange walking time can count for more than the train itself. Consider the whole journey, not just the ratings above.
 
 ## When walking between stations is simpler
 
@@ -370,7 +370,7 @@ Useful walking alternatives for visitors include:
 - **Covent Garden and Leicester Square** — Roughly 400 metres apart on foot, or around five minutes. Leicester Square is on the Piccadilly line, so getting off there for Covent Garden can be the simpler choice, particularly when a change of line would be involved.
 - **Waterloo and Southwark** — about four minutes on foot. This can be handy between the South Bank, Waterloo and the Tate Modern side of the river.
 - **Monument and London Bridge** — about five minutes on foot. It is a practical option when moving between the City and London Bridge or Borough Market.
-- **Embankment and Waterloo** — about eight minutes on foot along the river. Consider it for the South Bank, the London Eye or a connection at Waterloo rather than an extra change.
+- **Embankment and Waterloo** — about eight minutes on foot along the river. Consider it for the South Bank, the London Eye or a connection at Waterloo instead of an extra change.
 - **Tower Hill and Tower Gateway** — roughly three minutes on foot. This is useful for changing between the District or Circle lines and the DLR near the Tower of London.
 
 ---

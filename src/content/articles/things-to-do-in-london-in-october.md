@@ -18,7 +18,7 @@ tags: [things to do, London events, October, seasonal, London experiences]
 draft: false
 faq:
   - q: "What is the best time to visit London in October?"
-    a: "The first ten days, if you want a simple answer. Frieze Week — five ticketed art fairs plus the film festival's closing weekend, all overlapping between 15 and 18 October — is the draw if you like art; book a room early for it. The last eight days are the opposite trade: the clocks go back, half term fills every attraction, and Halloween lands on a Saturday, so a lot is happening but daylight, calm and timed-entry slots are all in short supply. If you can choose, come before the 15th, or go in knowing the back half of the month is a darker, busier trip."
+    a: "The first ten days, if you want a simple answer. Frieze Week — five ticketed art fairs plus the film festival's closing weekend, all overlapping between 15 and 18 October — suits anyone who likes art; book a room early for it. The last eight days are the opposite trade: the clocks go back, half term fills every attraction, and Halloween lands on a Saturday, so a lot is happening but daylight, calm and timed-entry slots are all in short supply. If you can choose, come before the 15th, or go in knowing the back half of the month is a darker, busier trip."
   - q: "Can you still get tickets for the Bayeux Tapestry in October 2026?"
     a: "Not for an October visit. Every ticket for 10 September to 31 December 2026, including the members' priority allocation, has sold out. What you can do in October instead: the free Bayeux Tapestry Opening Festival runs 9 to 11 October at the British Museum, though neither event includes entry to the Tapestry itself. For your own visit, members' priority booking for 1 January to 31 March 2027 reopens 6 October, and general booking for the same window opens 21 October."
   - q: "What is Frieze Week, and is it worth going if you're not buying art?"
@@ -175,7 +175,7 @@ A three-day comics, gaming, anime and pop culture convention, closing on the sam
 
 ### School half term — Monday 26 to Friday 30 October
 
-Most London boroughs break up for the week beginning the last Monday of October — academies and free schools can set their own dates, so treat this as "most schools" rather than all of them. It is an attraction spike rather than a hotel spike: timed-entry slots at the paid attractions go first, so **book before the week starts** — the free museums are the fallback for anyone who didn't, not the plan.
+Most London boroughs break up for the week beginning the last Monday of October — academies and free schools can set their own dates, so treat this as "most schools", not all of them. It is an attraction spike rather than a hotel spike: timed-entry slots at the paid attractions go first, so **book before the week starts** — the free museums are the fallback for anyone who didn't, not the plan.
 
 Family options land squarely in the week. **Absurd City** opens at Westfield London, Shepherd's Bush, on **15 October** — an immersive art experience across 80,000 sq ft, billed by its operator, Wake The Tiger, as Europe's largest, with general admission family-friendly and separate 18+ "After Hours" evenings. **Larger Than Life: Starring Wallace & Gromit, Shaun and More** opens at Lightroom in King's Cross the day before, on **14 October**; both are described below. **Wildlife Photographer of the Year** opens at the Natural History Museum on **16 October**. At Shakespeare's Globe, **MakeBeth** — an interactive retelling of Macbeth in recycled cardboard, for ages 7 and up — runs **24 October to 1 November**, and a **Ghosts & Ghouls** family tour of the theatre runs from 3 October, through half term and Halloween. More ideas for the week are in [London with children](/articles/london-with-children/).
 
@@ -183,13 +183,13 @@ Family options land squarely in the week. **Absurd City** opens at Westfield Lon
 
 *Full guide: [Halloween in London](/articles/halloween-london/)*
 
-31 October 2026 falls on a **Saturday**, so scare attractions, club nights, ghost walks and one-off parties run on the night itself rather than on the nearest weekend. Our Halloween guide has the scare attractions worth a train fare, the ones that don't need one, and where you can still hire a proper costume this late.
+31 October 2026 falls on a **Saturday**, so scare attractions, club nights, ghost walks and one-off parties run on the night itself, not on the nearest weekend. Our Halloween guide has the scare attractions worth a train fare, the ones that don't need one, and where you can still hire a proper costume this late.
 
 ## Exhibitions closing in October
 
 ### The first weekend: two free closers
 
-**John Constable: views of nature** at the British Museum closes **4 October**, free, with nothing to book. The Royal Academy's **Charlie Billingham**, a free selling display rather than an exhibition, ends the same day.
+**John Constable: views of nature** at the British Museum closes **4 October**, free, with nothing to book. The Royal Academy's **Charlie Billingham**, a free selling display, not an exhibition, ends the same day.
 
 ### Herbert Smith Freehills Kramer Portrait Award 2026 — National Portrait Gallery, closes 7 October
 
@@ -245,7 +245,7 @@ Shonibare's *Mr and Mrs Andrews without their Heads* (1998) hangs beside the Gai
 
 The year's winning pictures, open in time for half term and running to **11 July 2027**. Adults from **£17** off-peak, children aged 4 to 17 **£10.50**, under-4s free.
 
-Also worth knowing: **Declaring Independence: USA 250** at the British Museum has been running free since the summer and continues right through October.
+**Declaring Independence: USA 250** at the British Museum has been running free since the summer and continues right through October.
 
 ## Theatre: what's closing, and what's opening
 
@@ -301,7 +301,7 @@ One evening pick a day: music, comedy, theatre, classical and dance, each at a d
 
 ## New restaurants and bars
 
-Where a restaurant has not named its opening day, treat the month as a guide rather than a booking.
+Where a restaurant has not named its opening day, treat the month as a guide, not a booking.
 
 **Cloth Cornhill** (38½ Cornhill, EC3V 9DR) opens **1 October**, the second site from the Cloth restaurants group, taking over the building that was Simpson's Tavern — the City's oldest chophouse, trading on the site since 1757, closed since 2022 — with some dishes paying homage to it. It opens **Monday to Friday only**, closed at weekends and on bank holidays. The first-floor restaurant, reached by stairs only, takes bookings up to 90 days ahead; the ground-floor pub is walk-in only.
 
@@ -311,7 +311,7 @@ Where a restaurant has not named its opening day, treat the month as a guide rat
 
 ## Looking ahead to November and December
 
-A few things worth knowing about now, even though none of them happen in October.
+A few things to plan for, even though none of them happen in October.
 
 **Bonfire Night** is Thursday **5 November**, but most of the big displays, Alexandra Palace and Battersea Park among them, are on **Saturday 7 November**, and both are on sale now. Every display, which of them need tickets, the free viewpoints and which famous ones no longer run are in our [Bonfire Night guide](/articles/bonfire-night-london/).
 
@@ -319,19 +319,19 @@ A few things worth knowing about now, even though none of them happen in October
 
 **The EFG London Jazz Festival** runs **13 to 22 November 2026** across 82 venues, from the Royal Festival Hall to basement clubs in Dalston and Chelsea. Nineteen of its concerts are free and tickets otherwise start at £5, but eleven shows had already sold out by late September, so it is worth booking before you arrive. Dates, prices, the free programme and how to get into a full show are in our [London Jazz Festival guide](/articles/london-jazz-festival/).
 
-**Christmas in London** starts earlier than most people expect: Kingston's Christmas market opens on **12 November** and the Trafalgar Square tree is lit on **3 December**. Every market's dates and hours, including those still to be announced, are in our [London Christmas markets guide](/articles/christmas-markets-london/), and the light switch-ons and what has quietly stopped running are in our [Christmas in London guide](/articles/christmas-in-london/).
+**Christmas in London** starts earlier than most people expect: Kingston's Christmas market opens on **12 November** and the Trafalgar Square tree is lit on **3 December**. Every market's dates and hours, including those still to be announced, are in our [London Christmas markets guide](/articles/christmas-markets-london/), and the light switch-ons and what has stopped running are in our [Christmas in London guide](/articles/christmas-in-london/).
 
 **November is the big month for international sport.** England's men play three Nations Championship matches at Allianz Stadium, Twickenham: **Australia on Sunday 8 November** and **Japan on Saturday 14 November**, with tickets from £79 and £51, then **New Zealand on Saturday 21 November**, which has sold out. England's footballers play **Croatia at Wembley on Thursday 12 November**.
 
 ## Practical: October in London
 
-**Weather.** Around 16°C by day at the start of the month, falling to 12–13°C by the end, with nights down to 8–10°C — wetter than September, and the first month where a jacket alone is not enough. Assume rain and assume dark rather than packing for an average day. It's also the month the parks turn — our guide to [where to see autumn leaves in London](/articles/best-places-autumn-leaves-london/) has the named trees and the peak weeks.
+**Weather.** Around 16°C by day at the start of the month, falling to 12–13°C by the end, with nights down to 8–10°C — wetter than September, and the first month where a jacket alone is not enough. Assume rain and dark; do not pack for an average day. It's also the month the parks turn — our guide to [where to see autumn leaves in London](/articles/best-places-autumn-leaves-london/) has the named trees and the peak weeks.
 
 **Daylight.** The defining fact of the month. Sunset moves from about 6.40pm on the 1st to about 5.50pm on the Saturday before the clocks change — then, overnight, to about 4.48pm the next day, because BST ends at 2am on the last Sunday of October. By the 31st it is about 4.37pm. Plan outdoor time for the first half of the day once you're in the back half of the month.
 
 **Crowds.** Two different months, split by half term. The first three weeks are among the easiest of the year in the big museums — summer has gone and the schools are in. Frieze weekend, 15 to 18 October, is the exception. Then half term refills every museum, aquarium and family attraction at once from the 26th.
 
-**Prices.** Two spikes, for two different reasons. Frieze week is the hotel spike — five ticketed fairs and an international trade audience push rates up for five days. Half term is an attraction spike rather than a hotel one: timed-entry slots go first, and turning up on spec is how a day gets wasted. The value in October is the first ten days, and — if you don't mind the dark — the very end of the month.
+**Prices.** Two spikes, for two different reasons. Frieze week is the hotel spike — five ticketed fairs and an international trade audience push rates up for five days. Half term hits attractions, not hotels: timed-entry slots go first, and turning up on spec is how a day gets wasted. The value in October is the first ten days, and — if you don't mind the dark — the very end of the month.
 
 **Working out which month suits you best?** [Best Time to Visit London](/articles/best-time-to-visit-london/) compares October's weather, crowds and hotel rates against the rest of the year.
 

@@ -23,7 +23,7 @@ faq:
   - q: "Is there a Night Tube to Tottenham Hotspur Stadium?"
     a: "Only as far as the Victoria line goes. It runs all night between Walthamstow Central and Brixton on Friday and Saturday, calling at both Seven Sisters and Tottenham Hale — useful if you're prepared to do the 25–30 minute walk. The Overground line through White Hart Lane, the closest station, has no night service at all, so the last train home from there keeps to its normal weekday timetable regardless of how late the final whistle falls."
   - q: "How is travelling to an NFL London Game different from a Spurs match, and which station should NFL visitors use?"
-    a: "Same station — White Hart Lane, 5 minutes away and the most signposted — but a much longer closure window. Haringey's traffic order for NFL fixtures runs from 10 hours before kick-off to 90 minutes after the final whistle, against roughly two hours either side for a football match. Because many NFL visitors are unfamiliar with London's transport ticketing, get an Oyster card or a contactless bank card before you travel — there are no paper singles at the barrier — and treat the long closure window as your cue to arrive well ahead of the advertised gate time rather than on a US-style tailgate schedule."
+    a: "Same station — White Hart Lane, 5 minutes away and the most signposted — but a much longer closure window. Haringey's traffic order for NFL fixtures runs from 10 hours before kick-off to 90 minutes after the final whistle, against roughly two hours either side for a football match. Because many NFL visitors are unfamiliar with London's transport ticketing, get an Oyster card or a contactless bank card before you travel — there are no paper singles at the barrier — and treat the long closure window as your cue to arrive well ahead of the advertised gate time, not on a US-style tailgate schedule."
   - q: "Can you do the Tottenham Hotspur Stadium tour on a matchday?"
     a: "Not the standard tour — it doesn't run on any day the stadium has a fixture, football or NFL. In its place on those days is a separate, pricier Matchday Tour (from £50) that runs in the hours before kick-off and goes behind the scenes into the home changing room, the tunnel and the dugout, plus — on an NFL day — the NFL away dressing room. The regular tour is from £25, with kids going free with a paying adult."
   - q: "What's the bag policy at Tottenham Hotspur Stadium?"
@@ -67,7 +67,7 @@ A 10-minute walk in via Northumberland Park Road and Park Avenue Road to Park La
 
 ### Seven Sisters and Tottenham Hale: the Victoria line options
 
-Both give you the Victoria line, both are roughly 25–30 minutes' walk, and the honest answer to "which is better" is **Tottenham Hale**, for two reasons verified directly from the club's own supporter guidance rather than assumption. First, it's step-free to the Victoria line and to the northbound Greater Anglia platform; Seven Sisters has no lifts on any part of its site. Second, and less obvious: **some Victoria line trains skip Seven Sisters entirely on a midweek matchday** to manage congestion further down the line, which can turn a 30-minute walk into a much longer diversion if your train sails past. Tottenham Hotspur's own advice to visiting supporters is to travel early and expect the Victoria line to be busy, "particularly midweek."
+Both give you the Victoria line, both are roughly 25–30 minutes' walk, and the answer to "which is better" is **Tottenham Hale**, for two reasons verified directly from the club's own supporter guidance, not assumption. First, it's step-free to the Victoria line and to the northbound Greater Anglia platform; Seven Sisters has no lifts on any part of its site. Second, and less obvious: **some Victoria line trains skip Seven Sisters entirely on a midweek matchday** to manage congestion further down the line, which can turn a 30-minute walk into a much longer diversion if your train sails past. Tottenham Hotspur's own advice to visiting supporters is to travel early and expect the Victoria line to be busy, "particularly midweek."
 
 Seven Sisters does have one thing Tottenham Hale doesn't: it's also served by the Overground Weaver line, the same one that runs through White Hart Lane — of no real benefit here, since White Hart Lane is so much closer on the same line.
 
@@ -75,7 +75,7 @@ Seven Sisters does have one thing Tottenham Hale doesn't: it's also served by th
 
 ## Buses, coaches and bikes
 
-Local bus routes **149, 259, 279 and 349** run along the High Road but are diverted around the ground on event days; the club advises building in extra time rather than relying on them to get close.
+Local bus routes **149, 259, 279 and 349** run along the High Road but are diverted around the ground on event days; the club advises building in extra time instead of relying on them to get close.
 
 For coach travel, **Big Green Coach** runs direct return services from more than 20 towns for **£17 return**, with a season option covering every home Premier League match for **£289**. A second operator, First Travel Solutions, also runs services to the ground. Coaches are directed to designated zones on **West Road** and **Brantwood Road**, in the industrial estate northeast of the stadium — the same streets that pick up bus-parking permissions under Haringey's event-day traffic orders — and drivers need a permit arranged in advance through the club.
 
@@ -109,7 +109,7 @@ A visitor **cannot buy their own permit** to park in these zones on an event day
 
 ### The road closures, phase by phase
 
-Haringey publishes the closure sequence in detail, and it's worth knowing if you're driving anywhere nearby, even without stopping:
+Haringey publishes the closure sequence in detail, and it is useful if you're driving anywhere nearby, even without stopping:
 
 - **From 8am**, Worcester Avenue closes for security checks on the stadium's basement car park; Park Lane closes **three hours before kick-off**.
 - **Two hours to one hour before**, the northern High Road (from White Hart Lane to Bromley Road) closes to general traffic, with buses diverted around it. Residents can still reach their homes via a vehicle permit checkpoint.
@@ -151,9 +151,9 @@ Post-match queuing systems run at all four stations, with stewards directing the
 
 ### The Night Tube reaches two of the four stations — not the closest one
 
-The **Victoria line runs all night on Friday and Saturday**, end to end between Walthamstow Central and Brixton, calling at both **Seven Sisters** and **Tottenham Hale**. If your event finishes late on a weekend and you don't mind the walk, that's genuinely useful.
+The **Victoria line runs all night on Friday and Saturday**, end to end between Walthamstow Central and Brixton, calling at both **Seven Sisters** and **Tottenham Hale**. If your event finishes late on a weekend and you don't mind the walk, that's useful.
 
-> ⚠️ **White Hart Lane has no equivalent.** The Weaver line of the London Overground — the one serving the closest, most-recommended station — runs a normal timetable only, with no Friday/Saturday night extension. However late a match, NFL game or concert finishes, the last train from White Hart Lane keeps to its ordinary weekday last-train time. Check the timetable for your specific date before you rely on it, rather than assuming a big event buys you a later train.
+> ⚠️ **White Hart Lane has no equivalent.** The Weaver line of the London Overground — the one serving the closest, most-recommended station — runs a normal timetable only, with no Friday/Saturday night extension. However late a match, NFL game or concert finishes, the last train from White Hart Lane keeps to its ordinary weekday last-train time. Check the timetable for your specific date before you rely on it, instead of assuming a big event buys you a later train.
 
 ### Coaches
 
@@ -170,7 +170,7 @@ Tottenham Hotspur Stadium is the **only stadium in Europe purpose-built for Amer
 - **Indianapolis Colts v Washington Commanders** — Sunday 4 October 2026, 14:30 BST
 - **Philadelphia Eagles v Jacksonville Jaguars** — Sunday 11 October 2026, 14:30 BST
 
-Everything above still applies on an NFL Sunday — the same four stations, the same lack of a public car park, the same Victoria line for central London arrivals. Two things are genuinely different.
+Everything above still applies on an NFL Sunday — the same four stations, the same lack of a public car park, the same Victoria line for central London arrivals. Two things are different.
 
 **The road closures start much earlier.** Haringey has a separate traffic order specifically for NFL event days, running from **10 hours before kick-off to 90 minutes after the final whistle** — against roughly two hours either side for a football match. For a 2.30pm kick-off, that means restrictions from the early hours of the morning, reflecting the longer pre-game build-up an NFL game brings to the site.
 
@@ -184,7 +184,7 @@ Tickets, prices for both venues, the clear bag rule and what a game day looks li
 
 ## Where to stay, and why this isn't Wembley
 
-**There's no cluster of stadium hotels here** the way there is at Wembley or Stratford — this part of Tottenham is residential streets and a high road, not a hotel district. The honest advice for most visitors is to **stay central and travel out** on the Victoria line.
+**There's no cluster of stadium hotels here** the way there is at Wembley or Stratford — this part of Tottenham is residential streets and a high road, not a hotel district. The advice for most visitors is to **stay central and travel out** on the Victoria line.
 
 The nearest chain hotel is **Premier Inn London Tottenham Hale**, on Station Road, **1.5 miles — about 25 minutes' walk — from the stadium**, and the hotel markets itself explicitly on that proximity ("at the heart of the football action, with both Emirates and White Hart Lane nearby"). It has no parking of its own; the nearest option is Hale Village Car Park, an 8-minute walk away, at £10 a day.
 
@@ -199,7 +199,7 @@ The nearest chain hotel is **Premier Inn London Tottenham Hale**, on Station Roa
 
 *Premier Inn direct-booking rates for one room, one adult, checked on 13 September 2026.*
 
-That's a real jump — roughly **29% on the cheapest rate** — and genuinely tighter availability, but nowhere near the multiples a big Wembley date produces. If you'd rather not think about it at all, Premier Inn also has hotels further out at **Edmonton** (N18 3AF) and **Enfield** (EN3 7XY), both on retail parks built around driving rather than walking to a station, so they only make sense if you have a car.
+That's a real jump — roughly **29% on the cheapest rate** — and tighter availability, but nowhere near the multiples a big Wembley date produces. If you'd rather not think about it at all, Premier Inn also has hotels further out at **Edmonton** (N18 3AF) and **Enfield** (EN3 7XY), both on retail parks built around driving, not walking to a station, so they only make sense if you have a car.
 
 For everyone else, our [guide to the best areas to stay in London](/articles/best-areas-to-stay-in-london/) covers the Victoria line neighbourhoods that put you one change from Seven Sisters or Tottenham Hale.
 
@@ -227,7 +227,7 @@ Beyond the two tours, the site also runs **The Dare Skywalk** (a harnessed walk 
 
 Across more than **58 outlets** on the general admission concourses, named vendors include **The Linesman** (fish and chips), **N17 Grill** (burgers, with gluten-free and plant-based options), **Seoul Birdie** (Korean food), **Smashed Olive** (stone-baked pizza), **Chicken House** (halal fried chicken) and **Tap Inn**, which has 29 separate locations selling pies and sausage rolls made on-site. The stadium is **fully cashless** — contactless, mobile payment or a gift card only, no cash accepted anywhere on the campus.
 
-Outside the ground, the options are the ordinary shops and takeaways along the High Road rather than a single food destination everyone heads to first — there's no equivalent here of a Wembley-style Boxpark to plan an evening around.
+Outside the ground, the options are the ordinary shops and takeaways along the High Road, not a single food destination everyone heads to first — there's no equivalent here of a Wembley-style Boxpark to plan an evening around.
 
 ---
 
@@ -262,7 +262,7 @@ The stadium was designed around accessibility from the start: **five lifts** run
 
 A dedicated **Sensory Suite** in the North Stand (block 416) offers a lower-stimulation space for up to three supporters plus one personal assistant each, with a tactile wall and bubble tube — booking requires completing a profile form in advance. The club issues a **Personal Assistant (PA) ticket** rather than what other venues call a companion ticket, arranged through an Access Requirement Form with supporting evidence (such as DLA, PIP or a specialist letter) sent to access@tottenhamhotspur.com.
 
-**By station:** White Hart Lane and Northumberland Park both have step-free access, and the club says all routes from any of the four stations to the ground are wheelchair-friendly. Tottenham Hale is step-free to the Victoria line and the northbound Greater Anglia platform only. **Seven Sisters has no lifts at all**, on any part of the site — not the best choice if step-free matters to your journey.
+**By station:** White Hart Lane and Northumberland Park both have step-free access, and the club says all routes from any of the four stations to the ground are wheelchair-friendly. Tottenham Hale is step-free to the Victoria line and the northbound Greater Anglia platform only. **Seven Sisters has no lifts at all**, on any part of the site — not the best choice if you need step-free.
 
 Visiting (away) supporters use entrances 11 and 12, in blocks 114–118 in the stadium's north-east corner, approached via Worcester Avenue.
 

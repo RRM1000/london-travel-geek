@@ -51,7 +51,7 @@ area:
       note: "Direct on the District line for the museum quarter."
 faq:
   - q: "Are there really deer in Richmond Park?"
-    a: "Yes — around 600 red and fallow deer, roaming free since 1637. They are genuinely wild animals, not a managed herd in enclosures. Keep at least 50 metres away, and considerably further during the autumn rut (September and October) and the spring birthing season (May and June), when stags and hinds can both be dangerous. Dogs must be kept under close control."
+    a: "Yes — around 600 red and fallow deer, roaming free since 1637. They are wild animals, not a managed herd in enclosures. Keep at least 50 metres away, and considerably further during the autumn rut (September and October) and the spring birthing season (May and June), when stags and hinds can both be dangerous. Dogs must be kept under close control."
   - q: "What is the view from Richmond Hill?"
     a: "A view west over the Thames meadows towards Petersham and Twickenham. It is the only view in England protected by its own Act of Parliament — the Richmond, Ham and Petersham Open Spaces Act of 1902 — and has been painted by Turner and Reynolds. It is a two-minute walk up from the town centre."
   - q: "Can you see St Paul's from Richmond Park?"
@@ -78,7 +78,7 @@ Richmond has its own share of the commemorative plaques marking where notable pe
 
 **Come here if** you want space, wildlife and a river. Richmond Park has around 600 free-roaming deer, a legally protected view of St Paul's ten miles away, and an azalea garden that is one of the best things in London for two weeks in May.
 
-**Skip it if** you are on a short trip. Richmond is Zone 4 and takes the better part of a day to do properly. On three days in London, the parks in Zone 1 will serve you better.
+**Skip it if** you are on a short trip. Richmond is Zone 4 and takes the better part of a day to see. On three days in London, the parks in Zone 1 will serve you better.
 
 ## Top sights and activities
 
@@ -98,7 +98,7 @@ Richmond has its own share of the commemorative plaques marking where notable pe
 
 ### Richmond town centre
 
-Around the station and George Street, and a working high street rather than a tourist one — chains, a market, banks and the ordinary business of a prosperous suburb. That is worth knowing before you arrive expecting a village.
+Around the station and George Street, and a working high street, not a tourist one — chains, a market, banks and the ordinary business of a prosperous suburb. Do not arrive expecting a village.
 
 **Richmond station is the hub and it is unusually well connected**: District line, Overground and South Western Railway from Waterloo, all on one platform group. Waterloo is about twenty minutes, the District line about forty.
 
@@ -134,7 +134,7 @@ Keep climbing and **Richmond Gate** puts you into the park at the top.
 
 Below the hill, and the best walk in this guide. The towpath runs south from Richmond Bridge past Petersham Meadows — still grazed by cattle in summer, which is why the view from the hill above still looks like a landscape painting — and on to Ham House, about forty minutes each way.
 
-**The White Cross on Water Lane** is the riverside pub, and it has a quirk worth knowing: **the towpath floods at high tide and the pub's lower entrance goes underwater**, tide tables pinned up by the door. It is not a problem, it is the attraction.
+**The White Cross on Water Lane** is the riverside pub, and it has a quirk: **the towpath floods at high tide and the pub's lower entrance goes underwater**, tide tables pinned up by the door. It is not a problem; it is part of the appeal.
 
 **Boat hire runs from below Richmond Bridge** in the warmer months — rowing boats by the hour — and there are river trips downstream to Kew and Westminster.
 
@@ -222,7 +222,7 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks �
 ## Common mistakes to avoid
 
 1. **Approaching the deer.** They are wild. Fifty metres minimum, and much further during the autumn rut and spring births.
-2. **Underestimating the park.** It is 2,500 acres. Pick two destinations rather than trying to cross it.
+2. **Underestimating the park.** It is 2,500 acres. Pick two destinations; do not try to cross it.
 3. **Walking up Richmond Hill with tired legs.** The 371 or 65 bus goes to Richmond Gate.
 4. **Visiting the Isabella Plantation outside May.** It is pleasant year-round but only spectacular in late spring.
 5. **Expecting to see St Paul's in haze.** King Henry's Mound needs a clear day.

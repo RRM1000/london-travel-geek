@@ -36,7 +36,7 @@ faq:
   - q: "Do the St James's gentlemen's clubs admit women?"
     a: "Some do. The Reform Club has admitted women on equal terms since 1981, the Athenaeum is for men and women, and the Garrick voted to admit women in May 2024. White's and Boodle's admit men only."
   - q: "What is the cheapest members' club in London?"
-    a: "Of the clubs on this page, the Groucho Club's under-36 rate of £880 a year (2026) is the lowest. Soho House's Soho Friends costs £135 a year, but it is a bedrooms-and-discounts scheme rather than club membership: Friends can only use a House while staying in one of its bedrooms."
+    a: "Of the clubs on this page, the Groucho Club's under-36 rate of £880 a year (2026) is the lowest. Soho House's Soho Friends costs £135 a year, but it is a bedrooms-and-discounts scheme, not club membership: Friends can only use a House while staying in one of its bedrooms."
 ---
 
 A private members' club sells a room to sit in, a dining room, a bar and the other members, for an annual fee and a vote by a committee. London has the oldest one in the world, White's, founded in 1693, and a newer generation, led by Soho House, that adds bedrooms, gyms and rooftop pools.
@@ -133,7 +133,7 @@ Founded in 1863, with Charles Dickens, Anthony Trollope and Lord Leighton among 
 
 **The dress code is "always elegant":** men are encouraged to wear a blazer after 6pm. Not allowed: T-shirts with large logos or slogans, ripped jeans, gym shoes, shorts or cargo trousers on men, sportswear and hooded tops, flip-flops and sliders, baseball caps and beanies, and **backpacks**. The front desk can turn away someone who meets the rules but is not, in its words, sufficiently well-presented.
 
-**The thing that decides it:** reciprocal access. Members can use affiliated private clubs around the world, and the club stays open until 3am.
+**Reciprocal access.** Members can use affiliated private clubs around the world, and the club stays open until 3am.
 
 ### Home House
 
@@ -159,7 +159,7 @@ Robin Birley, Mark Birley's son, opened 5 Hertford Street in 2012 in a run of ho
 
 **The dress code:** a **jacket at all times**, which can come off on the Loulou's dance floor after 11pm. Collared or mandarin-collared shirts; chinos, cords, or jeans if they are smart, unfrayed and one colour; smart, clean trainers. No shorts, no sportswear of any kind (polo shirts included), no collarless shirts or T-shirts, no flip-flops or sandals and no dirty or "distressed" shoes.
 
-**The thing that decides it:** knowing a member. Many of its members also belong to Oswald's, Birley's second club.
+**Knowing a member.** Many of its members also belong to Oswald's, Birley's second club.
 
 ### Oswald's
 
@@ -179,7 +179,7 @@ Opened on 5 May 1985 and named after Groucho Marx's line about not wanting to be
 
 **What it costs in 2026:** £1,500 a year for London members aged 36 and over, **£880 for 35 and under**, and £1,100 for members living outside London (£880 if 35 or under). Applications go through the club's online form, and an applicant needs two existing members to propose them.
 
-**The thing that decides it:** age. The £880 rate for members 35 and under is the lowest subscription on this page.
+**Age.** The £880 rate for members 35 and under is the lowest subscription on this page.
 
 ### The Conduit
 
@@ -274,7 +274,7 @@ Many clubs give members access to partner clubs in other cities. The Reform Club
 
 ## What a visitor can book without a membership
 
-| Where | What you can book | The catch |
+| Where | What you can book | Watch out for |
 | --- | --- | --- |
 | Annabel's, 46 Berkeley Square | A free tour of the staircase and principal rooms | Set public access days only; the last 2026 date is Monday 26 October. Email to book; dress code applies |
 | Shoreditch House and White City House | A bedroom, with the pool, gym and tables in the House during the stay | Some Houses add Soho Friends (£135 a year) to the booking |

@@ -19,7 +19,7 @@ faq:
   - q: "How much does a window cost?"
     a: "At Z Hotels, between £5 and £35 for the same room in the same brand. Tottenham Court Road charges £70 for a 9 sq m Inside Double and £75 for the identical Z Double with daylight. Shoreditch charges £50 and £85 for its 10 sq m pair — a £35 gap on the same product. At Z Holborn the family grade is £95 either way, so the windowless version saves nothing at all."
   - q: "Are windowless hotel rooms legal in the UK?"
-    a: "Yes. Building regulations require adequate ventilation and means of escape, not daylight, so a bedroom with mechanical ventilation and no window is lawful. Zedwell's rooms have filtered, temperature-controlled air rather than an opening window, and two of their hotels are entirely below ground where a window is not physically possible. hub's own FAQ makes the same point from the other direction: its window-free rooms are the ones underground or on lower ground floors."
+    a: "Yes. Building regulations require adequate ventilation and means of escape, not daylight, so a bedroom with mechanical ventilation and no window is lawful. Zedwell's rooms have filtered, temperature-controlled air instead of an opening window, and two of their hotels are entirely below ground where a window is not physically possible. hub's own FAQ makes the same point from the other direction: its window-free rooms are the ones underground or on lower ground floors."
   - q: "What is a hub by Premier Inn 'ambient room'?"
     a: "hub's brand name for a room with no window. Its brand page says the ambient rooms are window-free and lit by a self-dimming back-lit box, circadian light wells that mimic daylight, or frosted glass. The individual hotel pages do not use the word: at Westminster Abbey and Paddington the same rooms are sold as 'Standard room – Interior' and 'Bigger room – Interior', described plainly as having no windows."
   - q: "Is a windowless room cheaper?"
@@ -32,9 +32,9 @@ faq:
 
 **Six operators in London will sell you a room with no window at all** — not a bad view, not a light well, nothing.
 
-One of them does it as the whole product. Zedwell runs five hotels where every room is windowless by design, and they are the reason the phrase "windowless hotel" now means something specific in London rather than sounding like a complaint.
+One of them does it as the whole product. Zedwell runs five hotels where every room is windowless by design, and they are why the phrase "windowless hotel" now means something specific in London, not sounding like a complaint.
 
-The other five do it quietly, as a grade in the price list: **every one of Z Hotels' twelve London branches sells a room with no window**, and at nine of them it is the cheapest rate in the building. hub by Premier Inn, Point A, easyHotel and The Corner all sell them too.
+The other five do it as a grade in the price list: **every one of Z Hotels' twelve London branches sells a room with no window**, and at nine of them it is the cheapest rate in the building. hub by Premier Inn, Point A, easyHotel and The Corner all sell them too.
 
 This is what the rooms are like, which brands tell you plainly and which do not, and what daylight actually costs — because the answer runs from £5 to £35 for the identical room.
 
@@ -42,7 +42,7 @@ This is what the rooms are like, which brands tell you plainly and which do not,
 
 ## Two different things get called a windowless room
 
-**Windowless by design** is Zedwell. There is no upgrade, because there is no room with a window to upgrade to — two of the five hotels are entirely below ground. The design, the price structure and the whole proposition are built around it, which means the trade-off is at least honestly presented.
+**Windowless by design** is Zedwell. There is no upgrade, because there is no room with a window to upgrade to — two of the five hotels are entirely below ground. The design, the price structure and the whole proposition are built around it, which means the trade-off is at least openly presented.
 
 **Windowless as a grade** is everyone else. A compact-format hotel fills its floorplate as far as it will go, and the rooms that end up in the middle of the building or under the pavement get sold anyway, usually cheaper. Z Hotels, hub by Premier Inn, Point A, easyHotel and The Corner all do this. The room is fine. The problem is that **the disclosure ranges from a word in the room's name to a footnote behind an asterisk**.
 
@@ -54,7 +54,7 @@ Neither of these is a capsule. A capsule is a berth in a shared dormitory with s
 
 *A cocoon room.*
 
-**Your own room, your own door, your own bathroom.** The smallest Zedwell is 7 sq m. The bed sits on a lit oak plinth, there is a full-length mirror, hooks rather than a wardrobe, and an **en-suite with a walk-in rainfall shower**.
+**Your own room, your own door, your own bathroom.** The smallest Zedwell is 7 sq m. The bed sits on a lit oak plinth, there is a full-length mirror, hooks, not a wardrobe, and an **en-suite with a walk-in rainfall shower**.
 
 **The design is built around sleep rather than stay.** Soundproofing on walls, floors and doors; purified, temperature-controlled air instead of an opening window; blackout by default because there is nothing to black out. The bathroom mirror runs circadian-rhythm lighting that mimics a daylight cycle, which is the closest thing to a window in the room.
 
@@ -72,7 +72,7 @@ These are the things that decide whether the format suits you, and none of them 
 
 **There is no breakfast at Zedwell.** Its own answer to the question is a list of nearby restaurants. Z Hotels and Point A both include breakfast if you book direct, which is a real difference at this price.
 
-**Check-out is 10am and check-in is 3pm** at Zedwell, which is a short day. Both ends move for money, and the West End sites charge properly for it:
+**Check-out is 10am and check-in is 3pm** at Zedwell, which is a short day. Both ends move for money, and the West End sites charge a lot for it:
 
 | | Early check-in from 9am | From noon | Late check-out to noon | To 2pm |
 | --- | --- | --- | --- | --- |
@@ -101,7 +101,7 @@ Four or five pounds for a second bed, on a room that swings by nearly two hundre
 
 It keeps going. **A Cocoon 8 sleeps eight for about two and a half times the price of a single**, and those ratios held to within about three per cent on every date we checked, whatever London was charging that week.
 
-**The catch is the beds.** From Cocoon 4 upwards these rooms are built from *double* beds in bunks — a Cocoon 4 is two doubles, not four berths; a Cocoon 8 is four doubles. The per-person price assumes people are sharing a bed. Two couples in a Cocoon 4 is a genuinely good deal. Four friends who each want their own bed are not the customer that price is for.
+**The limit is the beds.** From Cocoon 4 upwards these rooms are built from *double* beds in bunks — a Cocoon 4 is two doubles, not four berths; a Cocoon 8 is four doubles. The per-person price assumes people are sharing a bed. Two couples in a Cocoon 4 is a good deal. Four friends who each want their own bed are not the customer that price is for.
 
 Floor space works the same way: a Cocoon 8 is 20 sq m for eight people, against 7 sq m for one.
 
@@ -123,7 +123,7 @@ London's first hotel entirely below ground, carved out of a disused car park und
 
 *A Cocoon room at Zedwell Tottenham Court Road, and its ensuite bathroom.*
 
-Two minutes from the British Museum, and on the Elizabeth, Northern and Central lines, so it is the easiest arrival from Heathrow of the five. Because it is underground the windowless format is a fact of the building rather than a design choice, and the soundproofing has nothing to fight: no street noise reaches it.
+Two minutes from the British Museum, and on the Elizabeth, Northern and Central lines, so it is the easiest arrival from Heathrow of the five. Because it is underground the windowless format is a fact of the building, not a design choice, and the soundproofing has nothing to fight: no street noise reaches it.
 
 **The one real limit is size.** Rooms stop at Cocoon 4, so a group of six or more has to go back to Piccadilly Circus. Early check-in is West End money here — £60 from 9am, £40 from noon.
 
@@ -143,7 +143,7 @@ The steadiest price in the group, and the only Zedwell where a February midweek 
 
 *A Cocoon room at Zedwell Greenwich, and its ensuite bathroom.*
 
-**Everything ancillary is cheaper here too.** Early check-in is **£25 rather than £60**, from noon it is £15 rather than £40, and a late check-out to 2pm is £50 rather than £80. On a two-night stay with an evening flight, that difference alone is most of a third night.
+**Everything ancillary is cheaper here too.** Early check-in is **£25 rather than £60**, from noon it is £15 against £40, and a late check-out to 2pm is £50 against £80. On a two-night stay with an evening flight, that difference alone is most of a third night.
 
 You are by the river for the Cutty Sark, the Royal Observatory and the O2, and the trade is Zone 1 for about a third off. There is no free beauty or ironing room here, unlike the two West End sites — a hairdryer or iron is £10 delivered.
 
@@ -177,7 +177,7 @@ It has a free beauty and ironing room, which Greenwich, Knightsbridge and Park L
 
 *A Cocoon room at Zedwell Knightsbridge, and its ensuite bathroom.*
 
-On a quiet night it starts at £89, which is unusual money for SW1, and it is about fifteen minutes' walk from the V&A and the Natural History Museum — which makes it a serious option for the museums if you can sleep without daylight. It reprices as hard as the flagship, though, so the bargain is a **midweek-and-February proposition rather than a standing one**: at £257 on a bad date it stops being interesting.
+On a quiet night it starts at £89, which is unusual money for SW1, and it is about fifteen minutes' walk from the V&A and the Natural History Museum — which makes it a serious option for the museums if you can sleep without daylight. It reprices as hard as the flagship, though, so the bargain is a **midweek-and-February proposition, not a standing one**: at £257 on a bad date it stops being interesting.
 
 Early check-in is the full £60 from 9am, and there is no free ironing room. The rooms are windowless, soundproofed and en-suite with a rainfall shower.
 
@@ -244,13 +244,13 @@ It is also the branch where the window costs most. The first room here with dayl
 
 *A room at the Z Hotel Shoreditch, and its ensuite bathroom.*
 
-Breakfast is bought in the Z Cafe rather than included. Joining Z Member before you book is free and adds evening cheese and wine plus 10% off food and drink, but not off breakfast; only the dearer Z Club room grade has breakfast in the rate. The address is the Shoreditch edge of the City rather than the nightlife core. Our [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares it with the other hotels in the area.
+Breakfast is bought in the Z Cafe rather than included. Joining Z Member before you book is free and adds evening cheese and wine plus 10% off food and drink, but not off breakfast; only the dearer Z Club room grade has breakfast in the rate. The address is the Shoreditch edge of the City, not the nightlife core. Our [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares it with the other hotels in the area.
 
 ### The Z Hotel Victoria — £50, and £30 for daylight
 
 *£50 windowless, £80 with a window · 5 Lower Belgrave Street, SW1W 0NR · Victoria 2 min*
 
-The other £50 room in the estate, and a genuinely useful one: Victoria is the arrival point for Gatwick trains and the coach station, and a private en-suite room two minutes' walk away for fifty pounds is not a thing that otherwise exists in SW1.
+The other £50 room in the estate, and a useful one: Victoria is the arrival point for Gatwick trains and the coach station, and a private en-suite room two minutes' walk away for fifty pounds is not a thing that otherwise exists in SW1.
 
 **The ladder here is short and steep.** An Inside Double is 9 sq m at £50, an Inside Queen 10 sq m at £60, and then the Z Double — the identical 9 sq m with a window — is **£80**. That is a £30 step for daylight on the same floor area, the second widest of the twelve, and it makes the Inside Queen at £60 the obvious pick: a bigger bed and a bigger room for twenty pounds less than the smallest room with a window.
 
@@ -264,7 +264,7 @@ The other £50 room in the estate, and a genuinely useful one: Victoria is the a
 
 *A room at the Z Hotel Victoria, and its ensuite bathroom.*
 
-There is no family grade at this branch. Two adults is the ceiling on every room type, so it is a couples-and-solos address rather than a family one.
+There is no family grade at this branch. Two adults is the ceiling on every room type, so it is a couples-and-solos address, not a family one.
 
 ### The Z Hotel Tottenham Court Road — where the window costs £5
 
@@ -272,13 +272,13 @@ There is no family grade at this branch. Two adults is the ceiling on every room
 
 The branch where the arithmetic breaks in the reader's favour, and the one branch where we would tell you flatly not to book the Inside room. An **Inside Double is 9 sq m at £70**. The **Z Double is the identical 9 sq m at £75**, and it has a window. Five pounds.
 
-**There is no argument for saving the fiver** unless you specifically want the dark, which some people genuinely do — and if you do, this is the cheapest place in London to find out whether you are one of them for a five-pound stake.
+**There is no argument for saving the fiver** unless you specifically want the dark, which some people do — and if you do, this is the cheapest place in London to find out whether you are one of them for a five-pound stake.
 
 ![A room at the Z Hotel Tottenham Court Road with a dark upholstered headboard, a wardrobe and desk, and a window looking onto the brick building opposite](../../assets/articles/windowless-hotel-rooms-london/z-hotel-tottenham-court-road-room.jpg)
 
 *A room at the Z Hotel Tottenham Court Road.*
 
-Two more oddities in this short grade list. The **Z Accessible at £75** is 14 sq m with a window, so it is larger and cheaper than the 11 sq m Z Queen at £85. And the branch is not on Tottenham Court Road at all: it is at 52 Poland Street, in Soho — five minutes from Oxford Circus and six from the station it is named after. Z names its hotels after the nearest famous thing rather than the street they stand on, which is worth knowing before you plan a walk.
+Two more oddities in this short grade list. The **Z Accessible at £75** is 14 sq m with a window, so it is larger and cheaper than the 11 sq m Z Queen at £85. And the branch is not on Tottenham Court Road at all: it is at 52 Poland Street, in Soho — five minutes from Oxford Circus and six from the station it is named after. Z names its hotels after the nearest famous thing rather than the street they stand on, so check the address before you plan a walk.
 
 ### The Z Hotel Holborn — the branch with the traps
 
@@ -286,7 +286,7 @@ Two more oddities in this short grade list. The **Z Accessible at £75** is 14 s
 
 Nine grades, the longest list of the twelve, and two of them are traps worth spelling out.
 
-**The family rooms are £95 either way.** A Z Inside Family and a Z Family are both 14 sq m, both sleep four in two queen bunk beds, and both cost **£95** — the only difference is the window. Booking the Inside version here saves nothing whatsoever, and it is the clearest illustration of why you read the grade name rather than the number.
+**The family rooms are £95 either way.** A Z Inside Family and a Z Family are both 14 sq m, both sleep four in two queen bunk beds, and both cost **£95** — the only difference is the window. Booking the Inside version here saves nothing whatsoever, and it is the clearest illustration of why you read the grade name, not the number.
 
 **The £90 Z King has no window and does not say so in its name.** It carries the small no-window tag and nothing else; the description talks only about the size of the bed. It is the dearest windowless room here, and the one most likely to be booked in error by someone who has learned to watch for the word "Inside".
 
@@ -342,9 +342,9 @@ hub London Paddington, 40 Eastbourne Terrace W2, sells a **Bigger room – Inter
 
 *Windowless rooms at Kensington, Liverpool Street and Paddington · Free breakfast booking direct*
 
-Point A is the outlier here. Its property pages say the word **"windowless" in plain English, in the main description, before the booking engine** — and they sell it as a benefit rather than a discount.
+Point A is the outlier here. Its property pages say the word **"windowless" in plain English, in the main description, before the booking engine** — and they sell it as a benefit, not a discount.
 
-At **Point A Kensington**, just off Cromwell Road near Earl's Court, the choice is spelled out three ways: a bright room with a window, a room with a skylight for extra natural light, or a windowless option for total quiet. The skylight grade is unusual and worth knowing about — it is the only middle option any operator in this guide offers.
+At **Point A Kensington**, just off Cromwell Road near Earl's Court, the choice is spelled out three ways: a bright room with a window, a room with a skylight for extra natural light, or a windowless option for total quiet. The skylight grade is unusual — it is the only middle option any operator in this guide offers.
 
 <div class="photo-row">
 
@@ -400,9 +400,9 @@ At **Victoria** the standard room is 7.2–9 sq m and does come both ways, and e
 
 *A room at easyHotel Victoria, and its ensuite bathroom.*
 
-The disclosure sits in a **FAQ answer near the foot of the hotel page**, under a question about room types rather than about windows, which is the least prominent placement of any operator here. Price in the extras too: rooms are cleaned free only every sixth night and an extra clean is **£15**, luggage storage is £5 a piece, and early check-in or late check-out are £20 each.
+The disclosure sits in a **FAQ answer near the foot of the hotel page**, under a question about room types, not about windows, which is the least prominent placement of any operator here. Price in the extras too: rooms are cleaned free only every sixth night and an extra clean is **£15**, luggage storage is £5 a piece, and early check-in or late check-out are £20 each.
 
-### The Corner London City — the honest one
+### The Corner London City — clear about the room
 
 *Snug Room (windowless) · 42 Adler Street, E1 1EE · Aldgate East 5 min · Cashless*
 
@@ -420,7 +420,7 @@ Every bedroom here is built around a moulded cube holding both the bed and the b
 
 *A room at The Corner London City, and its ensuite bathroom.*
 
-The hotel's pitch for it is switching off from the outside world, which is at least the argument Zedwell makes rather than an apology. The Comfy Room is the window version and takes two adults plus an infant; the Plush adds a sofa bed for a third. It is **cashless**, check-in is 3pm and check-out 11am, and hanging the do-not-disturb tag to skip a clean earns a drink voucher.
+The hotel's pitch for it is switching off from the outside world, which is at least the argument Zedwell makes, not an apology. The Comfy Room is the window version and takes two adults plus an infant; the Plush adds a sofa bed for a third. It is **cashless**, check-in is 3pm and check-out 11am, and hanging the do-not-disturb tag to skip a clean earns a drink voucher.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -441,9 +441,9 @@ Three practical rules follow from that. **Read the grade name, not the price** �
 
 ## Who should not book one
 
-**Do not book a windowless room if** you want to spend daytime in your room, you are claustrophobic, or you are unsure how you react to sleeping without daylight. Two practical notes from guest reviews rather than the marketing: **the rooms run warm**, and the climate control is less individual than it sounds; and there is **no daylight cue at all**, so you wake to an alarm or you do not wake.
+**Do not book a windowless room if** you want to spend daytime in your room, you are claustrophobic, or you are unsure how you react to sleeping without daylight. Two practical notes from guest reviews, not the marketing: **the rooms run warm**, and the climate control is less individual than it sounds; and there is **no daylight cue at all**, so you wake to an alarm or you do not wake.
 
-Reviewers split hard on it. One group calls it the best sleep they have had in the city. Another finds it genuinely oppressive. Both reactions are common enough that neither is the outlier — which is the argument for booking one night before you book four.
+Reviewers split hard on it. One group calls it the best sleep they have had in the city. Another finds it oppressive. Both reactions are common enough that neither is the outlier — which is the argument for booking one night before you book four.
 
 If you want to test it cheaply, **the £70 Inside Double at Z Tottenham Court Road is the five-pound experiment**: the room with a window is next door at £75, so the stake is trivial and you find out for certain.
 

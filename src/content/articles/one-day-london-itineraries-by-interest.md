@@ -28,7 +28,7 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-One day in London goes one of two ways. Either you chase five famous things across four Tube lines and remember the escalators, or you pick one thread and follow it properly.
+One day in London goes one of two ways. Either you chase five famous things across four Tube lines and remember the escalators, or you pick one thread and follow it.
 
 These thirteen plans do the second. **Each is grouped tightly enough that you barely use the Underground**, and the walking times are real.
 
@@ -66,7 +66,7 @@ These thirteen plans do the second. **Each is grouped tightly enough that you ba
 
 Lunch ten minutes off the square rather than on it. See [cheap eats](/articles/cheap-eats-london/).
 
-**Afternoon.** **The National Gallery** is free and right there — pick three rooms rather than attempting it. Then walk down to the river and east along the **South Bank** past the Southbank Centre and the National Theatre.
+**Afternoon.** **The National Gallery** is free and right there — pick three rooms instead of attempting it. Then walk down to the river and east along the **South Bank** past the Southbank Centre and the National Theatre.
 
 **Evening.** **Covent Garden** and dinner in [Soho](/articles/soho-area-guide/).
 
@@ -96,7 +96,7 @@ Lunch ten minutes off the square rather than on it. See [cheap eats](/articles/c
 
 *About 2 miles, and close to free.*
 
-**Choose one district. Not both.** This is the single most common way a museum day goes wrong.
+**Choose one district. Not both.** This is the most common way a museum day goes wrong.
 
 <div data-stay-strip></div>
 
@@ -108,7 +108,7 @@ Three major museums within *five minutes of each other*, all **free**.
 * **V&A** — 145 galleries, and the one for design and objects.
 * **Science Museum** — the most hands-on.
 
-**Do two.** Lunch in between rather than pushing through. Use the **Exhibition Road entrances**, which queue less than the main ones.
+**Do two.** Lunch in between; do not push through. Use the **Exhibition Road entrances**, which queue less than the main ones.
 
 ### Bloomsbury
 
@@ -133,7 +133,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Lunch.** A picnic in **Hyde Park** in good weather, or a booked table. Museum cafés at 1pm with tired children is a bad combination.
 
-**Afternoon.** **Hyde Park** — the Diana Memorial Playground, the Serpentine, and boating when it runs. Or a second short activity rather than a second museum.
+**Afternoon.** **Hyde Park** — the Diana Memorial Playground, the Serpentine, and boating when it runs. Or a second short activity instead of a second museum.
 
 **Evening.** Eat early and near where you are sleeping.
 
@@ -147,7 +147,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 *About 3 miles, and it lives or dies on market days.*
 
-**Morning.** **Borough Market** — **closed Mondays**, and much better before 11am. It opens 10am Tuesday to Friday, 9am on Saturday and 10am to 4pm on Sunday. Plan three or four stalls rather than grazing at random. See our [markets guide](/articles/best-london-markets/).
+**Morning.** **Borough Market** — **closed Mondays**, and much better before 11am. It opens 10am Tuesday to Friday, 9am on Saturday and 10am to 4pm on Sunday. Plan three or four stalls; do not graze at random. See our [markets guide](/articles/best-london-markets/).
 
 **Midday.** Walk north across the river into the **City**, then east to **Spitalfields** — *about 30 minutes*, or a short Tube hop. Coffee or a bakery stop on the way; the [coffee](/articles/best-coffee-london/) and [bakeries](/articles/best-bakeries-london/) guides both cover this ground.
 
@@ -165,13 +165,13 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **The river does the work.** Boat piers are level-boarding, the South Bank is flat and continuous, and the distances between things are short.
 
-**Morning.** Step-free route to **Westminster**, then a **scheduled river boat** rather than a tour boat — same views, ordinary fares, and contactless works. See the [river boats guide](/articles/how-to-use-london-river-boats/).
+**Morning.** Step-free route to **Westminster**, then a **scheduled river boat**, not a tour boat — same views, ordinary fares, and contactless works. See the [river boats guide](/articles/how-to-use-london-river-boats/).
 
 **Afternoon.** One attraction near a pier. **Tate Modern** is free, level throughout and has lifts to every floor. **Royal Museums Greenwich** works if you want the longer boat journey.
 
-**Evening.** Eat near where you are staying rather than travelling again.
+**Evening.** Eat near where you are staying; do not travel again.
 
-> ⚠️ **Check lifts on your actual date, and request assistance in advance.** A station listed as step-free is not always level-boarding — the gap and the step at the platform edge vary by line and by station. TfL's assistance service is free and should be booked ahead rather than relied on at the barrier.
+> ⚠️ **Check lifts on your actual date, and request assistance in advance.** A station listed as step-free is not always level-boarding — the gap and the step at the platform edge vary by line and by station. TfL's assistance service is free and should be booked ahead, not relied on at the barrier.
 
 ---
 
@@ -181,7 +181,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Morning.** **Changing the Guard** — but check the schedule, because **it does not run daily**, and get there for 10.30am for an 11am start. The crush at the Palace gates is considerable; the **Horse Guards Parade** ceremony is the same regiments with a fraction of the crowd, and the **4pm dismount inspection** there is the quietest of the lot.
 
-**Midday.** The **Household Cavalry Museum** on Whitehall is small, cheap and genuinely good — you see the working stables through a glass screen.
+**Midday.** The **Household Cavalry Museum** on Whitehall is small, cheap and good — you see the working stables through a glass screen.
 
 **Afternoon.** **Kensington Palace** and the Sunken Garden, reached by walking the length of **Hyde Park and Kensington Gardens** past the Albert Memorial — about 40 minutes, and the nicest stretch of park walking in central London.
 
@@ -193,7 +193,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 ## A day for free
 
-*About 3 miles, and it can genuinely cost nothing but lunch.*
+*About 3 miles, and it can cost nothing but lunch.*
 
 **Morning.** **The British Museum** — free, and go at opening. Pick two galleries.
 
@@ -207,7 +207,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Late afternoon.** **Horizon 22** at Level 58 — **the highest free viewing platform in London**. Book a free slot in advance.
 
-**Evening.** **Evensong at St Paul's** — free, daily, and you sit in the quire rather than filing past on the £27 tourist route.
+**Evening.** **Evensong at St Paul's** — free, daily, and you sit in the quire instead of filing past on the £27 tourist route.
 
 **[The full free London guide →](/articles/london-on-a-budget/)**
 
@@ -219,7 +219,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **The trick is picking a district where everything connects**, so you are never outside for more than five minutes.
 
-**South Kensington is the best of them.** The **Natural History Museum**, **Science Museum** and **V&A** sit within three minutes of each other, and the **pedestrian subway from the Tube station reaches all three without going outside at all.** That is the single most useful fact for a wet day in London.
+**South Kensington is the best of them.** The **Natural History Museum**, **Science Museum** and **V&A** sit within three minutes of each other, and the **pedestrian subway from the Tube station reaches all three without going outside at all.** That is the most useful fact for a wet day in London.
 
 **Bloomsbury is the alternative** — the British Museum, and the **British Library** ten minutes away, with the Brunswick Centre for lunch under cover.
 
@@ -241,7 +241,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Late.** **Tate Modern's tenth floor**, then **Waterloo Bridge at dusk** — free, always open, and the best single view in London for nothing at all.
 
-> ⚠️ **The Shard costs around £26 to £32, depending on the day and time, and none of the above cost anything.** Horizon 22 is higher; what the Shard adds is an open-air deck, so do not pay it thinking there is no alternative. [The full views guide](/articles/best-views-london/) compares them properly.
+> ⚠️ **The Shard costs around £26 to £32, depending on the day and time, and none of the above cost anything.** Horizon 22 is higher; what the Shard adds is an open-air deck, so do not pay it thinking there is no alternative. [The full views guide](/articles/best-views-london/) compares them.
 
 ---
 
@@ -263,7 +263,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 ## Markets, and why Sunday
 
-*About 3 miles, and the day of the week matters more here than anywhere else on this page.*
+*About 3 miles, and the day of the week counts for more here than anywhere else on this page.*
 
 **Sunday is the best market day in London.** Columbia Road only exists on a Sunday. Brick Lane is at full stretch on a Sunday. Both are quiet or shut the rest of the week.
 
@@ -295,9 +295,9 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Afternoon.** **The Millennium Bridge**, destroyed on screen by Death Eaters, and **Borough Market**, where the Bridget Jones flat sits above The Globe pub on Bedale Street.
 
-**Evening.** **Leadenhall Market** — the way to the Leaky Cauldron in the first film, and genuinely beautiful in its own right once the crowds thin.
+**Evening.** **Leadenhall Market** — the way to the Leaky Cauldron in the first film, and beautiful in its own right once the crowds thin.
 
-> This is a walking day rather than a studio day. **The Warner Bros Studio Tour is in Watford**, takes most of a day on its own, and needs booking weeks ahead — it does not combine with any of the above.
+> This is a walking day, not a studio day. **The Warner Bros Studio Tour is in Watford**, takes most of a day on its own, and needs booking weeks ahead — it does not combine with any of the above.
 
 **[The full filming locations guide →](/articles/london-filming-locations/)**
 

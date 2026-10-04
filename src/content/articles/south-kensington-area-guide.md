@@ -58,7 +58,7 @@ faq:
   - q: "Is there a tunnel from South Kensington station to the museums?"
     a: "Yes, and most visitors miss it. A tiled Victorian pedestrian subway runs from inside the station north under Exhibition Road, free and signposted from the ticket hall. The Natural History Museum has its own gate straight off it, so you can walk in without going outside at all. For the Science Museum and the V&A you come up at street level on the museums side of the road and walk the last few metres in the open — still far better than the walk round, and it keeps you out of the traffic."
   - q: "Can you visit all three museums in one day?"
-    a: "You can enter all three, but you will not see much. The V&A alone has 145 galleries. One museum per half day is the realistic pace; two in a day is a long day. Pick by interest rather than trying to complete the set."
+    a: "You can enter all three, but you will not see much. The V&A alone has 145 galleries. One museum per half day is the realistic pace; two in a day is a long day. Pick by interest; do not try to complete the set."
   - q: "Which museum is best for young children?"
     a: "The Natural History Museum for dinosaurs and the blue whale skeleton, or the Science Museum's Wonderlab, which is hands-on and the only ticketed part of that museum. The V&A is the least child-focused of the three, though its garden courtyard is a good place to let children run."
 heroImage: "../../assets/articles/south-kensington-area-guide/natural-history-museum-own.jpg"
@@ -101,7 +101,7 @@ South Kensington has its own share of the commemorative plaques marking where no
 *The Wildlife Photographer of the Year exhibition.*
 
 ### Exhibition Road
-The spine, resurfaced in 2012 as a shared surface with no kerbs, so pedestrians and traffic share the road — which works better than it sounds and makes the walk up from the station genuinely pleasant.
+The spine, resurfaced in 2012 as a shared surface with no kerbs, so pedestrians and traffic share the road — which works better than it sounds and makes the walk up from the station pleasant.
 
 **All three museums sit on it**: the Natural History Museum and the Science Museum on the western side, the V&A on the eastern, along with Imperial College and the Royal Geographical Society.
 
@@ -114,9 +114,9 @@ The spine, resurfaced in 2012 as a shared surface with no kerbs, so pedestrians 
 ### The Museum Subway
 The tiled Victorian tunnel running underground from the station towards the museums, opened in 1885 so that visitors could reach them without crossing Exhibition Road. Cream and yellow-brown glazed brick, Grade II listed, and free since 1908 — there was a penny toll to begin with. The Natural History Museum has a gate directly off it; for the other two you surface on the museums side and walk a short way outside.
 
-**It is free, dry and open during station hours**, and it comes up inside or beside each of the three museums rather than on the street.
+**It is free, dry and open during station hours**, and it comes up inside or beside each of the three museums, not on the street.
 
-**This is the single most useful thing to know about South Kensington.** In the rain, or in the July queues, it is the difference between a good morning and a bad one — and a great many people walk past the entrance without noticing it.
+**This is the most useful fact about South Kensington.** In the rain, or in the July queues, it is the difference between a good morning and a bad one — and a great many people walk past the entrance without noticing it.
 
 ![The Royal Albert Hall in low evening sun, with the Prince Consort memorial in front](../../assets/articles/south-kensington-area-guide/royal-albert-hall.jpg)
 
@@ -131,7 +131,7 @@ Grand stucco terraces and private garden squares south of the museums — white-
 
 **Thurloe Square** holds London's thinnest house: a wedge about six feet wide at its narrowest, built in 1887 in a strip of land left over when the District line was cut through.
 
-**There is nothing to buy and nothing to book here**, which is the point. It is a quiet five minutes between the museums and the Fulham Road, and the best route away from the crowds.
+**There is nothing to buy and nothing to book here.** It is a quiet five minutes between the museums and the Fulham Road, and the best route away from the crowds.
 
 ![White stucco houses with porticos and iron railings along Launceston Place at dusk](../../assets/articles/south-kensington-area-guide/launceston-place.jpg)
 
@@ -142,7 +142,7 @@ Grand stucco terraces and private garden squares south of the museums — white-
 ### Bute Street and Old Brompton Road
 The everyday streets, and **the centre of French London** — the Lycée Français Charles de Gaulle is here, and the community around it has been established for generations.
 
-That means proper French bakeries, cafés and a bookshop rather than the tourist-facing places up by the museums. Bute Street in particular is a short pedestrian run of them.
+That means proper French bakeries, cafés and a bookshop, not the tourist-facing places up by the museums. Bute Street in particular is a short pedestrian run of them.
 
 **Best in the morning**, when the bakeries are full and the museums have not yet emptied onto the street. Two minutes from the station, and the obvious place to eat before going in.
 
@@ -152,7 +152,7 @@ That means proper French bakeries, cafés and a bookshop rather than the tourist
 
 ![The Brompton Oratory, a tall Italianate stone church front on Brompton Road](../../assets/articles/south-kensington-area-guide/brompton-oratory.jpg)
 
-North-east along the Brompton Road towards **Harrods and Harvey Nichols** — about ten minutes on foot from the museums, and an easy add-on rather than a separate trip. The **Brompton Oratory** stands on the way, next to the V&A: a vast Italianate Catholic church, free to enter and almost always empty compared with the museums either side of it.
+North-east along the Brompton Road towards **Harrods and Harvey Nichols** — about ten minutes on foot from the museums, and an easy add-on, not a separate trip. The **Brompton Oratory** stands on the way, next to the V&A: a vast Italianate Catholic church, free to enter and almost always empty compared with the museums either side of it.
 
 Harrods is free to walk into and worth it for the food halls alone, which are the reason most Londoners ever go in.
 
@@ -186,7 +186,7 @@ Harrods is free to walk into and worth it for the food halls alone, which are th
 | If you have | Do this |
 | --- | --- |
 | **Two hours** | One museum's highlights — Hintze Hall, or the V&A cast courts |
-| **Half a day** | One museum properly, plus lunch and Exhibition Road |
+| **Half a day** | One museum, plus lunch and Exhibition Road |
 | **A full day** | Two museums, with Kensington Gardens between them |
 
 **Best time:** Right at opening, usually 10:00. The first hour is dramatically quieter, and it is the only time you will get Hintze Hall without crowds.

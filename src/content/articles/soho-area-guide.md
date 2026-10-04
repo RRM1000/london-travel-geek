@@ -83,7 +83,7 @@ Soho has its own share of the commemorative plaques marking where notable people
 
 **Come here if** you want to eat and drink well, or you want London with the volume turned up. Soho has the best concentration of restaurants in the city at every price point, from £8 roast duck on Gerrard Street to tasting menus on Lexington Street.
 
-**Skip it if** you are travelling with young children in the evening, or you want landmarks. Soho has no major sights — no museum, no monument, nothing to queue for. Its appeal is entirely atmosphere and food. Come for dinner rather than for sightseeing.
+**Skip it if** you are travelling with young children in the evening, or you want landmarks. Soho has no major sights — no museum, no monument, nothing to queue for. Its appeal is entirely atmosphere and food. Come for dinner, not sightseeing.
 
 ## Top sights and activities
 
@@ -125,14 +125,14 @@ Pedestrian shopping to the west, and **fourteen streets rather than one** — Ca
 
 **Liberty**, the mock-Tudor department store on the corner of Great Marlborough Street, was built in the 1920s from the timbers of two Royal Navy ships and is free to walk into.
 
-**Kingly Court is the reason to come**: three galleried floors around an open courtyard, almost entirely food and drink, and covered enough to work in the rain.
+**Come for Kingly Court**: three galleried floors around an open courtyard, almost entirely food and drink, and covered enough to work in the rain.
 
 **Free to walk through, open daily**, and five minutes from Oxford Circus. The courtyard is busiest between 6pm and 8pm, and most of its restaurants take bookings — worth doing at a weekend.
 
 Carnaby's Christmas lights switch-on is Wednesday 4 November 2026, and the street is stop six on our [Christmas lights walk](/articles/christmas-lights-walk-london/), between the Regent Street angels and Seven Dials.
 
 ### Berwick Street and Broadwick Street
-Market stalls, record shops and some of Soho's better restaurants — **Berwick Street market has traded since the 1770s** and is now a short run of food stalls rather than the fruit and veg it was, with the surviving record shops on the same stretch.
+Market stalls, record shops and some of Soho's better restaurants — **Berwick Street market has traded since the 1770s** and is now a short run of food stalls, not the fruit and veg it was, with the surviving record shops on the same stretch.
 
 Broadwick Street has the **John Snow pump replica**, marking where Snow traced the 1854 cholera outbreak to a single water source and effectively founded modern epidemiology. The pub beside it is named after him.
 
@@ -171,7 +171,7 @@ For dinner with live music, Brasserie Zédel's house band plays every day with n
 
 **By Tube.** Four stations sit on Soho's edges. **Tottenham Court Road** (Elizabeth line, Central, Northern) is best for the east side and Chinatown. **Oxford Circus** is best for Carnaby Street. **Piccadilly Circus** is closest to Chinatown's southern gate.
 
-**Best exit.** From Tottenham Court Road, use the **Dean Street** exit to come out directly in Soho rather than on Oxford Street.
+**Best exit.** From Tottenham Court Road, use the **Dean Street** exit to come out directly in Soho, not on Oxford Street.
 
 **Late night.** The Central, Victoria, Northern, Jubilee, Piccadilly and Windrush lines run a **Night Tube** on Friday and Saturday nights. The Elizabeth line does not — it runs later than the rest of the Tube but still stops. Night buses run from Trafalgar Square and Oxford Circus every night. Details in the [Getting Around London guide](/articles/getting-around-london-transport-guide/).
 
@@ -217,7 +217,7 @@ Our full daytime route: **eleven numbered stops** over about 3km, from Denmark S
 
 ## Where to stay
 
-Central and convenient, but genuinely noisy. Ask for a room away from the street.
+Central and convenient, but noisy. Ask for a room away from the street.
 
 - **Soho proper** — Boutique hotels on Dean, Frith and Greek Streets. You will hear the street until late.
 - **Fitzrovia** — Ten minutes north across Oxford Street. Same access, considerably quieter.

@@ -17,7 +17,7 @@ faq:
   - q: "Is Covent Garden expensive to stay in?"
     a: "Yes, and the size of the premium is measurable because one operator publishes it. Z Hotels sells the same room at twelve London hotels, and a Z Double — 9 sq m, one window — is £100 at its Covent Garden hotel against £70 at Z Holborn, which its own site describes as five minutes away. That is the dearest Z Double in London against the cheapest. For a family it is worse: the four-person Z Family is £155 in Covent Garden and £95 in Holborn."
   - q: "Where should I stay near Covent Garden instead?"
-    a: "Holborn, a nine-minute walk east, which sells the same rooms for about £30 a night less and adds the Central line. Waterloo and Bankside are over the river, ten minutes on foot across Waterloo Bridge, and cheaper again. North of Oxford Street — Bloomsbury and Fitzrovia — is where the ordinary mid-priced double with a window actually exists, and our Soho and West End guide covers that properly."
+    a: "Holborn, a nine-minute walk east, which sells the same rooms for about £30 a night less and adds the Central line. Waterloo and Bankside are over the river, ten minutes on foot across Waterloo Bridge, and cheaper again. North of Oxford Street — Bloomsbury and Fitzrovia — is where the ordinary mid-priced double with a window actually exists, and our Soho and West End guide covers that."
   - q: "Are the cheapest Covent Garden hotel rooms windowless?"
     a: "Several are, and neither hotel leads with it. The Z Hotel Covent Garden sells three windowless Inside grades at £70, £80 and £90 before you reach a room with daylight at £100. Premier Inn's hub brand page carries a footnote saying its estate includes rooms that are window-free, and sells them as ambient rooms with circadian light wells instead of a window. Ask which grade you are being given before you pay."
   - q: "Is Covent Garden noisy at night?"
@@ -26,7 +26,7 @@ faq:
     a: "Not Covent Garden. Platform access there is by four lifts or an emergency spiral staircase of 193 steps — no escalators — and a final flight down from the lifts means it is not wheelchair-accessible either. Leicester Square is 260 metres away, the shortest gap between adjacent stations on the whole network, and faster in both directions. Charing Cross, Embankment and Holborn are all within about ten minutes on foot and all better connected."
 ---
 
-Covent Garden is the most convenient base in central London, and it is worth knowing what that convenience costs before you book it.
+Covent Garden is the most convenient base in central London, and you should know what that convenience costs before you book it.
 
 Z Hotels runs twelve London hotels and publishes a from-rate for every one of them on the same website. **A Z Double — 9 square metres, one window, the same bed and the same brand — is £100 at its Covent Garden hotel and £70 at Z Holborn**, which Z's own site describes as five minutes from Covent Garden. That is the dearest Z Double in London against the cheapest, and it is a nine-minute walk between the two front doors. For a family it is starker still: the four-person Z Family is **£155 in Covent Garden and £95 in Holborn**.
 
@@ -46,7 +46,7 @@ The name covers about half a mile, and its edges shade into other areas — so i
 
 **The Strand and the river edge**, south, is where the large hotels are — Strand Palace, the Savoy, Wilde on Adam Street. It is a wide traffic road with buses through the night, and it is also two minutes from Waterloo Bridge.
 
-**St Martin's Lane and the Charing Cross Road edge**, west, is the loud side, and the noise comes from Soho rather than Covent Garden. hub and the Londoner are both here. Leicester Square is thirty seconds away, which is useful for the Tube and less so at midnight.
+**St Martin's Lane and the Charing Cross Road edge**, west, is the loud side, and the noise comes from Soho, not Covent Garden. hub and the Londoner are both here. Leicester Square is thirty seconds away, which is useful for the Tube and less so at midnight.
 
 **Bow Street, Drury Lane and the Holborn edge**, east, has the Royal Opera House and Theatre Royal Drury Lane on it, and room rates drop faster here than anywhere else in the area. That is the basis of the Holborn comparison below.
 
@@ -58,7 +58,7 @@ The name covers about half a mile, and its edges shade into other areas — so i
 
 *£70 windowless, £100 with a window · 113 rooms · 31–33 Bedford Street, WC2E 9ED · Covent Garden 3 min · [check prices](hotel:z-hotel-covent-garden)*
 
-A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, which is a genuinely quiet address thirty seconds from the piazza. Z publishes the floor area of every grade, which few hotels at this price do, so read that list before you pick one.
+A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, which is a quiet address thirty seconds from the piazza. Z publishes the floor area of every grade, which few hotels at this price do, so read that list before you pick one.
 
 **Three of the seven grades have no window.** A Z Inside Single is 8 sq m at £70, an Inside Double 9 sq m at £80, an Inside Queen 11 sq m at £90. The first room with daylight is the **Z Double at £100** — the same 9 sq m as the Inside Double for £20 more. People book the Inside grades by accident constantly, because the booking page does not lead with the missing window.
 
@@ -80,7 +80,7 @@ A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, whi
 
 Premier Inn's compact format at an address that would cost triple under almost any other brand. **The standard room is 11 sq m**: a double bed, underbed storage, a slide-out desk, a 40-inch television and a touchscreen panel that runs the lighting and the heating without you getting out of bed. Same bed and the same housekeeping standard as a full-size Premier Inn, in roughly half the floor area, and reviewers are regularly caught out by that.
 
-**Read the brand's own small print.** The hub page carries a footnote stating that the estate "includes rooms that are window-free", and sells them as **"ambient rooms"** — self-dimming backlit boxes and circadian light wells that mimic daylight rather than a window onto anything. It is the same catch as the Z Inside grades, phrased more warmly. Ask which you are being given.
+**Read the brand's own small print.** The hub page carries a footnote stating that the estate "includes rooms that are window-free", and sells them as **"ambient rooms"** — self-dimming backlit boxes and circadian light wells that mimic daylight rather than a window onto anything. It is the same limitation as the Z Inside grades, phrased more warmly. Ask which you are being given.
 
 Breakfast is continental and charged separately, and there is no car park, which on St Martin's Lane is no loss whatsoever.
 
@@ -88,9 +88,9 @@ Breakfast is continental and charged separately, and there is no car park, which
 
 *About £140 · 785 rooms · 372 Strand, WC2R 0JJ · Breakfast £18 · [check prices](hotel:strand-palace)*
 
-Open since 1909, with nearly eight hundred rooms between the piazza and the river. The scale is the reason to book it: **when the small hotels are full, this one usually is not**, and it does not reprice as sharply, because it has too many rooms to sell out in a weekend.
+Open since 1909, with nearly eight hundred rooms between the piazza and the river. Book it for the scale: **when the small hotels are full, this one usually is not**, and it does not reprice as sharply, because it has too many rooms to sell out in a weekend.
 
-Grades are published by size and the bottom of the range is genuinely small. **Classic Single 11 sq m, Classic Double 13 sq m**, then Superior Queen 16, Superior Twin and King 18, and the Deluxe Studio Queen and King at 20 and 21. Two adults with cases should skip the Classic Double and pay for a Superior.
+Grades are published by size and the bottom of the range is small. **Classic Single 11 sq m, Classic Double 13 sq m**, then Superior Queen 16, Superior Twin and King 18, and the Deluxe Studio Queen and King at 20 and 21. Two adults with cases should skip the Classic Double and pay for a Superior.
 
 **The Deluxe Studios are the family rooms** and the only grades taking three adults, or two adults and two children under eight. Children under 12 stay free sharing existing bedding, and a cot is free.
 
@@ -104,7 +104,7 @@ Practical notes that decide bookings here: **breakfast is £18 a head**, the gym
 
 *About £185 · Studios with full kitchens · 11 Adam Street, WC2N 6AA · Charing Cross 5 min · [Hotels.com](hotel:wilde-aparthotels-covent-garden)*
 
-Studio apartments with fully fitted kitchens on Adam Street, an Adelphi side turning off the Strand with theatres literally across the road. **The kitchen is the point.** It removes the largest hidden cost of a London week — eating out three times a day — and this is the only property in this guide that offers one.
+Studio apartments with fully fitted kitchens on Adam Street, an Adelphi side turning off the Strand with theatres literally across the road. **The kitchen sets it apart.** It removes the largest hidden cost of a London week — eating out three times a day — and this is the only property in this guide that offers one.
 
 **The ceiling is three people, and it catches families out.** The unit list runs Wilde Bedroom, Studio, Twin Studio and Superior Studio, plus a Hideaway version of the first two, and the largest of them sleeps three. There is no two-bedroom apartment at this address. A family of four needs two units or a different hotel.
 
@@ -144,9 +144,9 @@ Your room key also opens The Residence: three guest-only rooms including a whisk
 
 Britain's first purpose-built luxury hotel, opened in 1889 by Richard D'Oyly Carte on the profits of Gilbert and Sullivan at the Savoy Theatre next door, and still the only true riverside hotel in central London — Monet painted the Thames from a window here. Savoy Court outside is the one stretch of road in the country where traffic drives on the right.
 
-**Before you spend £700, know that the river is not included.** Work through the room list and every grade below suite level faces the city, the courtyard or the Embankment gardens: Superior Queen 27 sq m, Deluxe King 31, Luxury King and Luxury King Garden View 34, Luxury Double Double 39. **The cheapest room with a river view is the Junior Suite River View.** If the Thames is the reason you are booking, you are booking a suite, and it is better to know that now.
+**Before you spend £700, know that the river is not included.** Work through the room list and every grade below suite level faces the city, the courtyard or the Embankment gardens: Superior Queen 27 sq m, Deluxe King 31, Luxury King and Luxury King Garden View 34, Luxury Double Double 39. **The cheapest room with a river view is the Junior Suite River View.** If you are booking for the Thames, you are booking a suite, and it is better to know that now.
 
-There is a naturally lit pool, a gym, sauna, steam room and three treatment rooms, which is rare in a building this old; in-house guests swim free, and children from 9am to 5pm every day. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) also covers One Aldwych's 18-metre pool around the corner. Housekeeping is daily with evening turndown, and check-out is noon rather than eleven.
+There is a naturally lit pool, a gym, sauna, steam room and three treatment rooms, which is rare in a building this old; in-house guests swim free, and children from 9am to 5pm every day. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) also covers One Aldwych's 18-metre pool around the corner. Housekeeping is daily with evening turndown, and check-out is noon, not eleven.
 
 **The cheap way in is the archive tour.** The hotel's own archivist runs a guided tour once a month, finishing with a glass of champagne in the American Bar — that plus a drink in the Beaufort Bar shows you most of what the room rate is for.
 
@@ -170,7 +170,7 @@ The direct test of the entire premium, and it is not close. **Z Hotel Holborn is
 
 *A room at the Z Hotel Holborn.*
 
-What you give up is the piazza on the doorstep and a two-minute walk from the theatre. Kingsway is a wide, dull, well-lit road and the walk is nine minutes at any hour. What you gain is **Holborn station, which adds the Central line** to the Piccadilly — considerably faster for the City, Stratford and the east. The [Hoxton Holborn](hotel:the-hoxton-holborn) is up the road at about £190 if you want the design-hotel version rather than the cheap one, and the British Museum is ten minutes north.
+What you give up is the piazza on the doorstep and a two-minute walk from the theatre. Kingsway is a wide, dull, well-lit road and the walk is nine minutes at any hour. What you gain is **Holborn station, which adds the Central line** to the Piccadilly — considerably faster for the City, Stratford and the east. The [Hoxton Holborn](hotel:the-hoxton-holborn) is up the road at about £190 if you want the design-hotel version, not the cheap one, and the British Museum is ten minutes north.
 
 <div class="photo-row">
 
@@ -182,9 +182,9 @@ What you give up is the piazza on the doorstep and a two-minute walk from the th
 
 *A room at the Hoxton Holborn.*
 
-### The South Bank and Bankside — over the bridge, and the walk back is the point
+### The South Bank and Bankside — over the bridge, with a walk back
 
-**[citizenM London Bankside](hotel:citizenm-bankside)** is about £160 and sells one room type only: a wall-to-wall window, a tablet that runs the blinds and the lights, and a bed that fills the width of the room. It is small and entirely honest about being small. **Premier Inn London County Hall** is about £110, which is as central as £110 gets in this city. And **[St Christopher's Village](hotel:st-christophers-village)** at London Bridge starts around £53 for a double capsule if the budget is the binding constraint — the only capsule address in London with a bar and a roof terrace attached, which our [capsule hotels guide](/articles/pod-hotels-london/) covers in full.
+**[citizenM London Bankside](hotel:citizenm-bankside)** is about £160 and sells one room type only: a wall-to-wall window, a tablet that runs the blinds and the lights, and a bed that fills the width of the room. It is small and plain about being small. **Premier Inn London County Hall** is about £110, which is as central as £110 gets in this city. And **[St Christopher's Village](hotel:st-christophers-village)** at London Bridge starts around £53 for a double capsule if the budget is the binding constraint — the only capsule address in London with a bar and a roof terrace attached, which our [capsule hotels guide](/articles/pod-hotels-london/) covers in full.
 
 <div class="photo-row">
 
@@ -216,11 +216,11 @@ What you give up is the piazza on the doorstep and a two-minute walk from the th
 
 *A dorm at St Christopher's Village.*
 
-Waterloo Bridge is ten minutes from the piazza on foot and the view from the middle of it is the best free thing in central London. That is the real argument for staying south: you are not saving a fortune, you are swapping a nightly premium for a walk home along the river rather than through Leicester Square.
+Waterloo Bridge is ten minutes from the piazza on foot and the view from the middle of it is the best free thing in central London. That is the case for staying south: you are not saving a fortune, you are swapping a nightly premium for a walk home along the river, not through Leicester Square.
 
 ### The rest of the West End
 
-Ten minutes north of the piazza the market changes completely, and it is covered properly in our [Soho and West End guide](/articles/where-to-stay-soho-west-end/) rather than repeated here. Three things from it are worth knowing while you are pricing Covent Garden.
+Ten minutes north of the piazza the market changes completely, and it is covered in our [Soho and West End guide](/articles/where-to-stay-soho-west-end/) rather than repeated here. Three things from it apply while you are pricing Covent Garden.
 
 **[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** is a windowless room from £81, two minutes from the British Museum, and it undercut the brand's Piccadilly flagship on every date we sampled — so if you were going to book a Z Inside grade anyway, price this one first. **[Generator London](hotel:generator-london)** on Tavistock Place is about £26 a bed and openly a party hostel, which is the right answer for some trips and a terrible one before an early flight. And if it was the theatre rather than the cobbles that drew you here, **[Treehouse Hotel London](hotel:treehouse-hotel-london)** is about £250 for a room on the top floors beside Broadcasting House, four minutes from Oxford Circus, with a panorama out of every window instead of a light well.
 
@@ -250,15 +250,15 @@ Ten minutes north of the piazza the market changes completely, and it is covered
 
 Both are West End districts and both are loud, in completely different shapes, which changes what you should book.
 
-**Covent Garden's crowd has a finishing time.** The piazza fills with shoppers and buskers by mid-morning and empties after the theatres turn out. By half past eleven the cobbles are quiet in a way Wardour Street never is. This is the single most underrated thing about staying here and it is why the area suits families and older travellers far better than Soho does.
+**Covent Garden's crowd has a finishing time.** The piazza fills with shoppers and buskers by mid-morning and empties after the theatres turn out. By half past eleven the cobbles are quiet in a way Wardour Street never is. This is an underrated thing about staying here and it is why the area suits families and older travellers far better than Soho does.
 
-**The loud edge is the west, and it is Soho's noise.** St Martin's Lane, Charing Cross Road and the Leicester Square end run late seven nights a week. If quiet matters, book east of the piazza — Bow Street, Drury Lane, the Holborn side — rather than west of it.
+**The loud edge is the west, and it is Soho's noise.** St Martin's Lane, Charing Cross Road and the Leicester Square end run late seven nights a week. If you want quiet, book east of the piazza — Bow Street, Drury Lane, the Holborn side — not west of it.
 
-**The Strand is a third case entirely.** It is a wide traffic road with night buses, sirens and street cleaning, and the noise is mechanical rather than human. Ask for a room facing away from it, by name, at the point of booking rather than at check-in.
+**The Strand is a third case entirely.** It is a wide traffic road with night buses, sirens and street cleaning, and the noise is mechanical rather than human. Ask for a room facing away from it, by name, at the point of booking, not at check-in.
 
 ## What you are staying for
 
-If theatre is the reason you picked the area, our [London theatre guide](/articles/london-theatre-guide/) covers day seats, returns and which houses are worth the balcony — and it is the single best argument for paying the Covent Garden premium, because a five-minute walk home beats a night bus after a three-hour show.
+If you picked the area for the theatre, our [London theatre guide](/articles/london-theatre-guide/) covers day seats, returns and which houses are worth the balcony — and it is the best argument for paying the Covent Garden premium, because a five-minute walk home beats a night bus after a three-hour show.
 
 For the area itself, the [Covent Garden area guide](/articles/covent-garden-area-guide/) covers the piazza, Seven Dials, Neal's Yard and where to eat before curtain-up.
 
@@ -276,4 +276,4 @@ For the area itself, the [Covent Garden area guide](/articles/covent-garden-area
 
 **For Heathrow**, walk the ten minutes to Tottenham Court Road and take the Elizabeth line. It beats the direct Piccadilly line from Covent Garden or Leicester Square by a clear margin even after the walk.
 
-*Room grades, floor areas and the Z Hotels and hub published rates were taken from each operator's own website on 8 September 2026; the approximate figures elsewhere are typical nightly prices rather than quotes. A from-rate is the cheapest night of the year rather than the night you want, and prices move nightly — always check your own dates.*
+*Room grades, floor areas and the Z Hotels and hub published rates were taken from each operator's own website on 8 September 2026; the approximate figures elsewhere are typical nightly prices, not quotes. A from-rate is the cheapest night of the year rather than the night you want, and prices move nightly — always check your own dates.*

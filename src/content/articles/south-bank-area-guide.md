@@ -70,7 +70,7 @@ heroImage: "../../assets/articles/south-bank-area-guide/london-eye-county-hall-s
 heroImageAlt: "The London Eye and County Hall across the Thames on a clear summer day, with the Golden Jubilee Bridges and a river boat at the pier"
 ---
 
-The South Bank is a continuous riverside walk from Westminster Bridge east to Tower Bridge, and it is the single best introduction to London on foot. It is flat, entirely pedestrianised, step-free, and lined with free things to do.
+The South Bank is a continuous riverside walk from Westminster Bridge east to Tower Bridge, and it is the best introduction to London on foot. It is flat, entirely pedestrianised, step-free, and lined with free things to do.
 
 It is also the answer to bad weather: Tate Modern, the Southbank Centre, the BFI and Borough Market's covered halls are all on the route and all free to walk into.
 
@@ -124,7 +124,7 @@ Buying them one at a time is the expensive way. Merlin's **5-Attraction Pass** c
 
 The stretch everybody pictures when they say South Bank: street performers, the Undercroft skate space, the second-hand book market under Waterloo Bridge, and a run of concrete arts buildings that people either love or walk straight past.
 
-**The most useful thing here is free and indoors.** The Royal Festival Hall foyers are open to anyone — seats, heating, toilets, a piano, a view over the river — and **the Southbank Centre lets you bring your own food and soft drinks in**, which in an area where every riverside bench comes with a £6 coffee attached is worth knowing. Only alcohol has to be bought on site, and the whole complex is **cash-free**. Upstairs, the **Queen Elizabeth Hall Roof Garden** is free too: over 200 wild native plants and a bar, open Tuesday from 4pm and Wednesday to Sunday from midday, closed Mondays.
+**The most useful thing here is free and indoors.** The Royal Festival Hall foyers are open to anyone — seats, heating, toilets, a piano, a view over the river — and **the Southbank Centre lets you bring your own food and soft drinks in**, which saves money in an area where every riverside bench comes with a £6 coffee attached. Only alcohol has to be bought on site, and the whole complex is **cash-free**. Upstairs, the **Queen Elizabeth Hall Roof Garden** is free too: over 200 wild native plants and a bar, open Tuesday from 4pm and Wednesday to Sunday from midday, closed Mondays.
 
 The **book market under Waterloo Bridge** runs daily, roughly 10am to 7pm, and has done since 1983 — eight stalls of second-hand fiction, children's books, maps and prints. Past it, the **National Theatre** — one of London's major [off-West End houses](/articles/london-theatre-guide/) — foyers are open 10am to 11pm Monday to Saturday with no ticket needed, and there is a bar on every level.
 
@@ -142,7 +142,7 @@ From November the Southbank Centre's Winter Market fills Queen's Walk with chale
 
 Quieter than the western end and the most attractive part of the walk — Tate Modern, the Globe, the Millennium Bridge and a riverside path with the City on the far bank.
 
-**Tate Modern is the anchor and it costs nothing.** Sunday to Thursday 10am–6pm, and **until 9pm on Friday and Saturday**, which is the best time to go: the crowds thin, the Turbine Hall empties out, and it is the rare free thing in London that is open at night. The **tenth-floor viewing level** in the Blavatnik Building behind it is also free, reached by lift — worth knowing that it only opens on three sides now, after the flats opposite won a privacy case against the gallery.
+**Tate Modern is the anchor and it costs nothing.** Sunday to Thursday 10am–6pm, and **until 9pm on Friday and Saturday**, which is the best time to go: the crowds thin, the Turbine Hall empties out, and it is the rare free thing in London that is open at night. The **tenth-floor viewing level** in the Blavatnik Building behind it is also free, reached by lift — it only opens on three sides now, after the flats opposite won a privacy case against the gallery.
 
 Ninety seconds west of Tate's door, **Bankside Gallery** is free, open daily during exhibitions, and gets about 55,000 visitors a year against Tate's millions. It is the home of the Royal Watercolour Society and almost nobody walking between the two notices it.
 
@@ -162,7 +162,7 @@ Ninety seconds west of Tate's door, **Bankside Gallery** is free, open daily dur
 
 Inland from the river, and the part of this area most worth your time — Borough Market, Southwark Cathedral and the Victorian streets around Stoney Street.
 
-**Borough Market is closed on Mondays**, which is the single most common wasted journey here. Tuesday to Friday 10am–5pm, Saturday 9am–5pm, Sunday 10am–4pm, and seven days a week through December. Saturday is heaving; a Tuesday or Wednesday morning is the same market with room to move. Borough Market Kitchen is the hot street food section.
+**Borough Market is closed on Mondays**, which is the most common wasted journey here. Tuesday to Friday 10am–5pm, Saturday 9am–5pm, Sunday 10am–4pm, and seven days a week through December. Saturday is heaving; a Tuesday or Wednesday morning is the same market with room to move. Borough Market Kitchen is the hot street food section.
 
 **Southwark Cathedral is free** and open 9am–6pm Monday to Saturday, 8.30am–5pm Sunday — a thousand years of building beside a market, with a churchyard, a herb garden and a resident cat. There is an hourly pause for prayer on the half hour, about two minutes, when visitors are asked to stand still.
 
@@ -178,7 +178,7 @@ The eastern end, and the stretch that has changed most.
 
 **The building everyone still calls City Hall is not City Hall any more.** The Mayor and the Assembly moved out to the Royal Docks in December 2021, and Foster's leaning glass egg — now **110 The Queen's Walk** — is a building site: main construction runs from **February 2026 to summer 2028**, after which it becomes offices, shops, restaurants and a food hall. There is nothing to see there for the moment, and **The Scoop**, the free sunken amphitheatre beside it that used to run open-air summer screenings, is inside the same scheme, so do not plan around it.
 
-**HMS Belfast** is the reason to come to this stretch. Nine decks, open 10am–6pm daily, and IWM suggests at least three hours. Adult tickets start at £23.45 — but **anyone on Universal Credit, Pension Credit or several other benefits pays £3, covering up to five people in the household**, booked online in advance.
+**HMS Belfast** anchors this stretch. Nine decks, open 10am–6pm daily, and IWM suggests at least three hours. Adult tickets start at £23.45 — but **anyone on Universal Credit, Pension Credit or several other benefits pays £3, covering up to five people in the household**, booked online in advance.
 
 Then **Tower Bridge**, which is free to walk across; the ticket buys the high-level walkways with the glass floor over the traffic and the Victorian engine rooms. **The bridge lifts around 800 times a year and the schedule is published weeks ahead** on its own site — watching it open from the riverside costs nothing and is better than the walkway.
 

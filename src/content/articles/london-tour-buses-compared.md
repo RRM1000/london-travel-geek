@@ -12,9 +12,9 @@ tags: [tour buses, sightseeing, getting around, budget, transport]
 draft: false
 faq:
   - q: "Are London hop-on hop-off bus tours worth it?"
-    a: "For some people, genuinely. They earn their money if you have limited mobility, a very short trip, tired children, or you want commentary and orientation on a first day. If you are reasonably mobile and have a few days, an ordinary London bus covers much of the same ground for £1.75, capped at £5.25 a day."
+    a: "For some people, yes. They earn their money if you have limited mobility, a very short trip, tired children, or you want commentary and orientation on a first day. If you are reasonably mobile and have a few days, an ordinary London bus covers much of the same ground for £1.75, capped at £5.25 a day."
   - q: "How much is a hop-on hop-off bus in London?"
-    a: "Big Bus starts at £32 for an adult one-day ticket booked online against £39 full price. Tootbus is £35.20 against £44. Golden Tours discounts hardest, from £24.78 against £42 walk-up. The gap between the online and kerbside price is the single most important thing to know."
+    a: "Big Bus starts at £32 for an adult one-day ticket booked online against £39 full price. Tootbus is £35.20 against £44. Golden Tours discounts hardest, from £24.78 against £42 walk-up. Book online: the gap to the kerbside price is the biggest saving available."
   - q: "How many stops do London tour buses have?"
     a: "Big Bus has around 55 stops across three routes — a central and eastern Red Route, a western Blue Route, and a Green Link serving Bloomsbury, Euston, King's Cross and St Pancras. Golden Tours has over 60 stops across three routes, City Sightseeing 45 across three, and Tootbus runs four routes with six walking tours included."
   - q: "Which normal London bus is best for sightseeing?"
@@ -31,7 +31,7 @@ heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 ---
 
-Almost everything written about London tour buses is written by someone earning a commission on the ticket. So here is the thing those pages leave out: **London's ordinary red buses cover much of the same route for £1.75, capped at £5.25 a day**, and the top deck of a normal double-decker has the same view as the top deck of a tour bus.
+Almost everything written about London tour buses is written by someone earning a commission on the ticket. So here is what those pages leave out: **London's ordinary red buses cover much of the same route for £1.75, capped at £5.25 a day**, and the top deck of a normal double-decker has the same view as the top deck of a tour bus.
 
 That does not make tour buses a rip-off. It makes them a specific product for a specific person. This page lists **every route and every stop** so you can see exactly what you would be buying, then makes the case both ways.
 
@@ -137,11 +137,11 @@ Museums, parks and the smart end of west London. This is the route people underr
 46. **Baker Street** — Marylebone Road, for Madame Tussauds and Sherlock Holmes
 47. **Oxford Circus** — Regent Street
 
-**Best stops:** 35 puts you at all three South Kensington museums at once, which is the single most useful tour bus stop in London. 34 for Harrods, 37 for Kensington Palace, 38 for Portobello Road.
+**Best stops:** 35 puts you at all three South Kensington museums at once, which makes it the most useful tour bus stop in London. 34 for Harrods, 37 for Kensington Palace, 38 for Portobello Road.
 
 ### Green Link — the Bloomsbury spur
 
-A short connector rather than a sightseeing loop, and at **every 45 minutes** it is the one to plan around rather than rely on. Worth it almost entirely for the British Museum and the Eurostar terminal.
+A short connector rather than a sightseeing loop, and at **every 45 minutes** it is the one to plan around, not rely on. Worth it almost entirely for the British Museum and the Eurostar terminal.
 
 48. **Woburn (northbound)** — opposite Russell Court
 49. **Euston Station** — Upper Woburn Place at Euston Road
@@ -152,7 +152,7 @@ A short connector rather than a sightseeing loop, and at **every 45 minutes** it
 54. **British Museum (southbound)** — Southampton Row
 55. **British Museum (northbound)** — Southampton Row
 
-> **If you are arriving by Eurostar**, stop 51 puts a tour bus at St Pancras — which is genuinely convenient, and the reason this route exists.
+> **If you are arriving by Eurostar**, stop 51 puts a tour bus at St Pancras — which is convenient, and the reason this route exists.
 
 ### Big Bus with the London Eye
 
@@ -164,7 +164,7 @@ A 24- or 48-hour Big Bus ticket with **London Eye entry** and a **one-way City C
 
 ## Golden Tours: three routes, 60+ stops
 
-The cheapest hop-on hop-off ticket here, and the routes are organised by theme rather than geography. A full loop takes **50–60 minutes** on each.
+The cheapest hop-on hop-off ticket here, and the routes are organised by theme, not geography. A full loop takes **50–60 minutes** on each.
 
 | Route | Operates | Stops | Covers |
 | --- | --- | --- | --- |
@@ -182,7 +182,7 @@ Tickets include a free app audio guide in **12 languages**, live bus tracking, a
 
 ## Tootbus: four routes and six walking tours
 
-Tootbus tickets run for **1, 2 or 3 days** and cover **four bus routes**, with **six walking tours included** in the Discovery ticket, which is the reason its headline price is higher.
+Tootbus tickets run for **1, 2 or 3 days** and cover **four bus routes**, with **six walking tours included** in the Discovery ticket, which is why its headline price is higher.
 
 At **£35.20** adult and **£19.20** child, a family of four is better served by the **£112 family ticket**, which saves about £10 against buying separately.
 
@@ -230,7 +230,7 @@ The <a href="https://www.getyourguide.com/activity/-t685713?partner_id=WWP7I0R&a
 
 ---
 
-## The honest alternative
+## The alternative
 
 A normal London bus costs **£1.75** a journey with contactless or Oyster, and the **daily cap is £5.25** — after that, buses are free for the rest of the day.
 
@@ -262,7 +262,7 @@ No commentary, no guaranteed seat, and no guaranteed top-deck front window — t
 
 ## Who should buy a tour bus ticket
 
-Genuinely worth it if:
+Worth it if:
 
 * **You have limited mobility.** The strongest case by far. Step-free boarding, stops directly outside the sights, and none of the walking between them.
 * **You have one day and no plan.** The commentary and the loop buy you orientation you would otherwise spend a morning acquiring.
@@ -276,7 +276,7 @@ Genuinely worth it if:
 * **Anyone with three or more days.** You will walk past these places anyway and the ticket duplicates them.
 * **Anyone comfortable tapping onto a normal bus.** Route 11 costs £1.75.
 * **Anyone in a hurry.** Tour buses sit in the same traffic and stop more often. Westminster to Trafalgar Square is a fifteen-minute walk; the bus is not faster.
-* **Anyone planning to genuinely get off at lots of stops.** The hop-off, wait, hop-on cycle eats a day quickly, especially on a 45-minute frequency.
+* **Anyone planning to get off at lots of stops.** The hop-off, wait, hop-on cycle eats a day quickly, especially on a 45-minute frequency.
 
 ---
 
@@ -301,7 +301,7 @@ Genuinely worth it if:
 * **Contactless is all you need for ordinary buses.** Tap the reader with a bank card or phone, and you do not tap out. See our [fares guide](/articles/london-public-transport-costs-and-fares/).
 * **The bus daily cap is separate from the Tube cap.** £5.25 for buses and trams alone.
 * **Children under 11 travel free on London buses**, which changes the family arithmetic sharply against a tour bus child ticket.
-* **The river bus is the better-value scenic ride** — ordinary fares, genuine views, and it is transport rather than a tour. See [how to use London's river boats](/articles/how-to-use-london-river-boats/), or [Thames river cruises compared](/articles/thames-river-cruises-london/) for a boat with commentary.
+* **The river bus is the better-value scenic ride** — ordinary fares, genuine views, and it is transport, not a tour. See [how to use London's river boats](/articles/how-to-use-london-river-boats/), or [Thames river cruises compared](/articles/thames-river-cruises-london/) for a boat with commentary.
 * **A free alternative to commentary:** the [three-day itinerary](/articles/three-days-in-london-itinerary/) walks the same ground with the context built in.
 
 ---

@@ -13,7 +13,7 @@ faq:
   - q: "Can tourists claim VAT back in the UK?"
     a: "No — not on anything you carry home yourself. The UK abolished the VAT Retail Export Scheme in January 2021 and has not reinstated it, so unlike Paris, Milan or Madrid you cannot reclaim the 20% at the airport. The one exception is if the shop ships your purchase directly to an overseas address, in which case VAT comes off at the till."
   - q: "What time do shops open on Sunday in London?"
-    a: "Late, and it is the law rather than the shop's choice. The Sunday Trading Act limits any shop over 280 square metres to six hours between 10am and 6pm, so most of Oxford Street trades noon to 6pm, with some department stores opening from 11.30am for browsing only. Small independent shops and markets are not restricted."
+    a: "Late, and it is the law, not the shop's choice. The Sunday Trading Act limits any shop over 280 square metres to six hours between 10am and 6pm, so most of Oxford Street trades noon to 6pm, with some department stores opening from 11.30am for browsing only. Small independent shops and markets are not restricted."
   - q: "Where is the best shopping in London?"
     a: "It depends what you want. Oxford Street for high street chains, Regent Street for mid-to-premium brands in one architectural sweep, Bond Street for luxury, Marylebone High Street and Columbia Road for independents, Camden and Brick Lane for vintage, and Westfield London if you want everything indoors in one building."
   - q: "Which London market is best for antiques?"
@@ -21,7 +21,7 @@ faq:
   - q: "How much should I budget for shopping in London?"
     a: "A high-street outfit runs £60–£150, a decent pair of British-made shoes £150–£400, and cashmere from £120. Vintage at Camden or Brick Lane runs £15–£60 a piece. Edible gifts are the best value souvenir — Fortnum's tea from about £6, Borough Market cheese from around £8 a wedge."
   - q: "Is Oxford Street worth visiting?"
-    a: "For the scale and the department stores at the Selfridges end, yes. For actual shopping, the same chains are everywhere and quieter, and one street back — Marylebone, Bond Street, Carnaby, Seven Dials — is more interesting in every direction. Treat it as a sight rather than a shopping trip."
+    a: "For the scale and the department stores at the Selfridges end, yes. For actual shopping, the same chains are everywhere and quieter, and one street back — Marylebone, Bond Street, Carnaby, Seven Dials — is more interesting in every direction. Treat it as a sight, not a shopping trip."
 heroImage: "../../assets/articles/shopping-in-london/covent-garden-market-hall.jpg"
 heroImageAlt: "The glass-roofed Apple Market hall at Covent Garden, with stalls beneath the iron and glass arcade"
 ---
@@ -60,9 +60,9 @@ Two things first, because both catch people out and neither is obvious.
 
 **A mile and a half, about 300 shops, and half a million people a day.** Every British high street chain has a flagship here, and if you want to see them all in one walk this is the only place to do it.
 
-**Be honest about what it is, though.** The chains are identical to the ones in every other British city and quieter everywhere else. What Oxford Street has is **scale** — the flagship department stores at the western end, each the largest branch in the country:
+**Know what it is, though.** The chains are identical to the ones in every other British city and quieter everywhere else. What Oxford Street has is **scale** — the flagship department stores at the western end, each the largest branch in the country:
 
-* **Selfridges** — the best of them for actual shopping. Vast, genuinely well-curated, and the food hall and Duke Street entrance are worth it alone.
+* **Selfridges** — the best of them for actual shopping. Vast, well-curated, and the food hall and Duke Street entrance are worth it alone.
 * **John Lewis** — where Londoners buy things they intend to keep. Famously price-matches.
 * **Marks & Spencer** — the Marble Arch flagship.
 
@@ -70,9 +70,9 @@ Two things first, because both catch people out and neither is obvious.
 
 ### Regent Street and Piccadilly
 
-**The most beautiful shopping street in London**, curving from Piccadilly Circus to Oxford Circus in one continuous Nash-designed sweep — and unusually, the whole street is owned by the Crown Estate, which is why the shopfronts are coherent rather than a jumble.
+**The most beautiful shopping street in London**, curving from Piccadilly Circus to Oxford Circus in one continuous Nash-designed sweep — and unusually, the whole street is owned by the Crown Estate, which is why the shopfronts are coherent, not a jumble.
 
-Mid-to-premium rather than luxury: **Liberty** just off it on Great Marlborough Street is the essential stop — a mock-Tudor building made from two ships' timbers, and the best haberdashery, fabric and scarf departments in the country. **Hamleys** for toys, seven floors of it. **Apple, Burberry, & Other Stories, Lululemon** along the street itself.
+Mid-to-premium, not luxury: **Liberty** just off it on Great Marlborough Street is the essential stop — a mock-Tudor building made from two ships' timbers, and the best haberdashery, fabric and scarf departments in the country. **Hamleys** for toys, seven floors of it. **Apple, Burberry, & Other Stories, Lululemon** along the street itself.
 
 ![The mock-Tudor facade of Liberty on Great Marlborough Street, with shoppers outside the entrance](../../assets/articles/shopping-in-london/liberty-great-marlborough-street.jpg)
 
@@ -110,7 +110,7 @@ This is where Londoners actually shop.
 
 ### Carnaby and Soho
 
-**Carnaby Street** is fourteen pedestrian streets rather than one, aimed squarely at independent and mid-market brands, and genuinely good for gifts. **Kingly Court** behind it is three galleried floors of food.
+**Carnaby Street** is fourteen pedestrian streets rather than one, aimed squarely at independent and mid-market brands, and good for gifts. **Kingly Court** behind it is three galleried floors of food.
 
 **Soho proper** is for records, instruments (Denmark Street) and books.
 
@@ -132,7 +132,7 @@ This is where Londoners actually shop.
 | **John Lewis**, Oxford Street | Where Londoners buy things to keep | ££ |
 | **Peter Jones**, Sloane Square | John Lewis with a nicer view | ££ |
 
-**On Harrods specifically:** it is the one most visitors go to and the one most likely to disappoint as a *shop* — it is enormous, crowded, and the fashion floors are priced for a different customer. **The food halls are the reason to go**, and they are genuinely magnificent. There is a dress code of sorts, enforced loosely: no visible sportswear or ripped clothing.
+**On Harrods specifically:** it is the one most visitors go to and the one most likely to disappoint as a *shop* — it is enormous, crowded, and the fashion floors are priced for a different customer. **Go for the food halls**, which are magnificent. There is a dress code of sorts, enforced loosely: no visible sportswear or ripped clothing.
 
 **Fortnum & Mason is the one to save for last**, because it solves presents for everybody in one building.
 
@@ -140,7 +140,7 @@ This is where Londoners actually shop.
 
 ## Markets, and what day they actually run
 
-**The day matters more than anything else in this section.** Turning up on the wrong one is the single commonest London shopping mistake.
+**The day counts for more than anything else in this section.** Turning up on the wrong one is the commonest London shopping mistake.
 
 | Market | What for | Days |
 | --- | --- | --- |
@@ -203,9 +203,9 @@ For when it is raining, or you want everything in one building.
 
 ### The two outlets
 
-Different proposition from the malls above: **last season's stock at a discount**, in a purpose-built centre rather than a high street. Both of London's are attached to a major venue, which is the thing to plan around.
+Different proposition from the malls above: **last season's stock at a discount**, in a purpose-built centre rather than a high street. Both of London's are attached to a major venue, so plan around that venue.
 
-**London Designer Outlet**, Wembley Park — **around 50 stores at 30–70% off** list price, and the larger of the two. Nike, adidas, Levi's, Tommy Hilfiger, Boss, Calvin Klein, Kurt Geiger, Clarks, The North Face and M&S, plus about twenty places to eat, a nine-screen Cineworld and a free covered play park that makes it genuinely workable with children.
+**London Designer Outlet**, Wembley Park — **around 50 stores at 30–70% off** list price, and the larger of the two. Nike, adidas, Levi's, Tommy Hilfiger, Boss, Calvin Klein, Kurt Geiger, Clarks, The North Face and M&S, plus about twenty places to eat, a nine-screen Cineworld and a free covered play park that makes it workable with children.
 
 ![The entrance to the London Designer Outlet at Wembley Park, giant gold LDO letters on the pavement in front of the sign, with Amorino and Holland & Barrett either side of the doors](../../assets/articles/shopping-in-london/london-designer-outlet.jpg)
 
@@ -259,7 +259,7 @@ Different proposition from the malls above: **last season's stock at a discount*
 
 ## What things actually cost
 
-Rough, honest bands for planning:
+Rough bands for planning:
 
 * **High street outfit:** £60–£150
 * **Designer handbag:** £900 upwards, and Bond Street is the same price as everywhere else
@@ -281,7 +281,7 @@ Rough, honest bands for planning:
 
 **Left luggage** exists at the big stations if you are shopping on a travel day, and Selfridges and Harrods will hold bags for customers — see our [luggage storage guide](/articles/luggage-storage-london/) for prices at every station and the storage apps that undercut them.
 
-**The best time to shop** is a weekday morning. Saturday afternoon on Oxford Street is genuinely unpleasant, and it is not better shopping — it is the same shops with more people in them.
+**The best time to shop** is a weekday morning. Saturday afternoon on Oxford Street is unpleasant, and it is not better shopping — it is the same shops with more people in them.
 
 ---
 

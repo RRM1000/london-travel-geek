@@ -13,13 +13,13 @@ tags: [where to stay, hotels, budget, planning]
 draft: false
 faq:
   - q: "How many capsule hotels are there in London?"
-    a: "Five: Zedwell Capsule Piccadilly Circus, Zedwell Leicester Place, Otherwander Soho, The GreenHouse Capsules in Bethnal Green, and St Christopher's Village at London Bridge — the last being a hostel with 26 purpose-built capsules rather than a dedicated capsule hotel. Lists that run to ten or eleven pad the number with ordinary hostels that have curtained bunks, with compact-room hotels like YOTEL and Point A, and in a few cases with places that have closed or never opened in London at all."
+    a: "Five: Zedwell Capsule Piccadilly Circus, Zedwell Leicester Place, Otherwander Soho, The GreenHouse Capsules in Bethnal Green, and St Christopher's Village at London Bridge — the last being a hostel with 26 purpose-built capsules, not a dedicated capsule hotel. Lists that run to ten or eleven pad the number with ordinary hostels that have curtained bunks, with compact-room hotels like YOTEL and Point A, and in a few cases with places that have closed or never opened in London at all."
   - q: "What is a capsule hotel actually like?"
-    a: "You get a sealed berth about the size of a single bed, lined in wood, with a solid sliding shutter rather than a curtain. There is a mattress, a light, a socket, a shelf and hooks, and no room to stand up. The capsule is yours alone and locks from inside and out. Everything else — bathrooms, lounge, luggage — is shared with the rest of the floor."
+    a: "You get a sealed berth about the size of a single bed, lined in wood, with a solid sliding shutter, not a curtain. There is a mattress, a light, a socket, a shelf and hooks, and no room to stand up. The capsule is yours alone and locks from inside and out. Everything else — bathrooms, lounge, luggage — is shared with the rest of the floor."
   - q: "How much is a capsule hotel in London?"
     a: "A berth at Zedwell Capsule Piccadilly Circus ran £33 to £68 across five dates we sampled, depending on the night. The GreenHouse in Bethnal Green was £42 to £53, and Otherwander Soho £62 to £119. Capsules reprice far less than hotel rooms do, so their advantage is biggest in December and smallest on a quiet Sunday."
   - q: "Are capsule hotels safe?"
-    a: "Zedwell capsules close with a catch on the inside, so you are locked in while you sleep without needing anything. Locking one from the outside while you are out is a separate matter and Zedwell does not supply it: bring a 38mm padlock or buy one for £8 from a vending machine on site. Entry to the sleeping floors is by keycard and lockers for valuables cost extra. Otherwander uses a smart lock and The GreenHouse an access code. Zedwell Piccadilly Circus has a 24-hour front desk; the other two have none at all."
+    a: "Zedwell capsules close with a catch on the inside, so you are locked in while you sleep without needing anything. Locking one from the outside while you are out is separate, and Zedwell does not supply it: bring a 38mm padlock or buy one for £8 from a vending machine on site. Entry to the sleeping floors is by keycard and lockers for valuables cost extra. Otherwander uses a smart lock and The GreenHouse an access code. Zedwell Piccadilly Circus has a 24-hour front desk; the other two have none at all."
   - q: "Can you get a women-only capsule in London?"
     a: "Zedwell Capsule Piccadilly Circus has a female-only floor. It costs about £7 a night more than the mixed floors — £40 against £33 on a quiet Sunday, £75 against £68 in December — which makes it the one place in this guide where the women's option carries a premium."
   - q: "Where do you put your luggage in a capsule hotel?"
@@ -46,7 +46,7 @@ London has **five of them**, not counting ordinary hostels and small-room hotels
 
 **You check in at a desk and are given a floor and a berth number**, like a bunk on a sleeper train. The capsules run in stacked pairs down long corridors, upper and lower, and the floors are quiet by design — the lighting is low, the signage is discreet, and people talk in the voices they would use in a library.
 
-**The berth itself is properly private.** Zedwell's are natural oak with a **solid sliding shutter**, not a curtain and not frosted glass, so once it is closed nobody can see in. There is a Hypnos mattress and Egyptian cotton sheets, filtered air, a light you can dim, a socket and a shelf. Leicester Place puts the size at **1.2 sq m** — long enough to lie flat, wide enough to roll over, and nothing else.
+**The berth itself is private.** Zedwell's are natural oak with a **solid sliding shutter**, not a curtain and not frosted glass, so once it is closed nobody can see in. There is a Hypnos mattress and Egyptian cotton sheets, filtered air, a light you can dim, a socket and a shelf. Leicester Place puts the size at **1.2 sq m** — long enough to lie flat, wide enough to roll over, and nothing else.
 
 **It locks from the inside with a catch** — no padlock needed, so you can lock yourself in while you sleep. Locking it from the *outside*, for when you go out for the day, is the part people get caught by at Zedwell: you supply the padlock, either your own **38mm** one or **£8 from a vending machine** on site. Otherwander and The GreenHouse work differently, using a smart lock and an access code respectively.
 
@@ -56,9 +56,9 @@ London has **five of them**, not counting ordinary hostels and small-room hotels
 
 *The way to the showers.*
 
-**The honest part:** you sleep in it and you leave. There is no desk, no chair, nowhere to put a suitcase, and nowhere to sit up straight and read. If your plan involves any daytime in the room, this is the wrong booking.
+**The trade-off:** you sleep in it and you leave. There is no desk, no chair, nowhere to put a suitcase, and nowhere to sit up straight and read. If your plan involves any daytime in the room, this is the wrong booking.
 
-## The facilities, and what is genuinely shared
+## The facilities, and what is shared
 
 | | Zedwell Capsule (both) | St Christopher's Village | Otherwander Soho | The GreenHouse |
 | --- | --- | --- | --- | --- |
@@ -73,7 +73,7 @@ London has **five of them**, not counting ordinary hostels and small-room hotels
 | **Check-in / out** | 3pm / 10am | 3pm / **11am** | 3pm / 10am | 2pm / **11am** |
 | **Age** | 18+ | 18+ | 18+ | 18+ |
 
-**None of the four dedicated capsule hotels has a self-catering kitchen**, which is the clearest practical difference from a hostel — and the reason St Christopher's Village is worth knowing about, because it is a hostel that happens to sell capsules and therefore has one. Zedwell allows food deliveries but they must be eaten in the common areas, never in the dormitories.
+**None of the four dedicated capsule hotels has a self-catering kitchen**, which is the clearest practical difference from a hostel — and why St Christopher's Village stands out, because it is a hostel that happens to sell capsules and therefore has one. Zedwell allows food deliveries but they must be eaten in the common areas, never in the dormitories.
 
 **The front desk line is the one to read twice.** Zedwell staffs reception around the clock. Otherwander and The GreenHouse have no front desk at all — you complete registration online, and a smart-lock code or access code arrives by email in the 24 hours before you arrive. That is fine when it works and a problem at midnight when it does not.
 
@@ -96,7 +96,7 @@ London has **five of them**, not counting ordinary hostels and small-room hotels
 
 **Stay past 2pm at Zedwell and you are charged a full night**, so a long afternoon costs more than the bed did. Otherwander's own listing says early check-in and late check-out "can be arranged for an extra charge" without saying what it is, so ask before you count on it.
 
-**Arriving late is free everywhere, but only within the window.** Zedwell takes arrivals to midnight with no fee, Otherwander and The GreenHouse to midnight, and St Christopher's Village to 2am — the latest of the five, and useful after a show. **None of them does after-hours check-in beyond that**, which is the thing to check against a late flight.
+**Arriving late is free everywhere, but only within the window.** Zedwell takes arrivals to midnight with no fee, Otherwander and The GreenHouse to midnight, and St Christopher's Village to 2am — the latest of the five, and useful after a show. **None of them does after-hours check-in beyond that**, so check it against a late flight.
 
 **You can ask for a bottom bunk**, and for a high or low floor, when you book. Both are free and neither is guaranteed, and a bottom berth is worth having if you are carrying anything or dislike climbing.
 
@@ -117,7 +117,7 @@ Rates below are the cheapest and dearest we saw across five sampled dates: a qui
 | **[Otherwander Soho](hotel:otherwander-soho)** | £62 – £119 | Roughly double Zedwell throughout |
 | **[Zedwell Leicester Place](hotel:zedwell-leicester-place-capsule)** | Book direct | Not sold through the booking sites |
 
-Two things worth knowing about these numbers.
+Two notes on these numbers.
 
 **Capsules hold their price when hotels do not.** A Zedwell berth roughly doubled between the cheapest and dearest night we sampled; a windowless private room at the same address tripled. So a capsule saves you most in December and least on a quiet Sunday — which is the opposite of how people tend to think about budget accommodation.
 
@@ -161,9 +161,9 @@ It is **not sold on Hotels.com or the other booking sites** — a search of the 
 
 *The capsules at St Christopher's Village.*
 
-**The UK's first capsule hostel**, by their own claim, and the exception to everything else on this page. Twenty-six purpose-built capsules — mood lighting, a USB socket, a hinged door rather than a shutter — sit inside a full hostel of 178 beds across three floors, two minutes from London Bridge and Borough Market.
+**The UK's first capsule hostel**, by their own claim, and the exception to everything else on this page. Twenty-six purpose-built capsules — mood lighting, a USB socket, a hinged door, not a shutter — sit inside a full hostel of 178 beds across three floors, two minutes from London Bridge and Borough Market.
 
-**That mix is the whole point.** Every other capsule property here is somewhere you sleep and leave. This one has **Belushi's bar downstairs** with events most nights, a roof terrace, a kitchen, lockers and a 24-hour desk, plus **Oasis**, a female-only floor with its own bathrooms and keycard. Breakfast is £3.
+**That mix sets it apart.** Every other capsule property here is somewhere you sleep and leave. This one has **Belushi's bar downstairs** with events most nights, a roof terrace, a kitchen, lockers and a 24-hour desk, plus **Oasis**, a female-only floor with its own bathrooms and keycard. Breakfast is £3.
 
 **The capsule is a room type here, not the building.** Most of the beds are ordinary dorms and private rooms, and on the dates we sampled the only capsule bookable was the **Private Double Capsule**, sleeping two, at £53 to £166. Check-out is **11am**, an hour later than Zedwell, and check-in runs to 2am — but there is no after-hours check-in beyond that, so check a late flight lands in time.
 
@@ -177,7 +177,7 @@ It is **not sold on Hotels.com or the other booking sites** — a search of the 
 
 *An Otherwander single nest.*
 
-Sold as **"nests"**, upper and lower, in singles and doubles — and the double nest genuinely sleeps two, which none of the others offer. Air conditioning, lighting and a socket in every pod, three minutes from the Elizabeth line.
+Sold as **"nests"**, upper and lower, in singles and doubles — and the double nest sleeps two, which none of the others offer. Air conditioning, lighting and a socket in every pod, three minutes from the Elizabeth line.
 
 **There is no front desk.** You register online, a smart-lock code arrives before you travel, and a virtual desk handles anything else. Reviewers report hearing corridor conversation and neighbouring pods despite the soundproofing, and taller guests find the upper nests awkward.
 
@@ -197,11 +197,11 @@ The problem is arithmetic: **£42 in Zone 2 against £33 in Zone 1** on a quiet 
 
 ## What gets miscalled a capsule hotel
 
-Most published lists of London capsule hotels are wrong, and it is worth knowing what they are counting.
+Most published lists of London capsule hotels are wrong, and here is what they are counting.
 
 **Hostels with curtained bunks** — Clink261, Wombat's, Safestay, The Dictionary, and most of the St Christopher's sites — are hostels. A curtained or panelled bunk in a six-bed dorm is a better bunk, not a capsule. They do have kitchens, bars and events, which the dedicated capsule hotels do not, so the trade is genuine either way.
 
-**Clink261 is the closest near-miss**, and worth naming because anyone searching for a capsule will land on it. Its **POD beds** — their word, in a 14-bed mixed dorm — have ventilation, a reading light, USB and a socket, which is better fitted than a Zedwell berth. But they close with a **curtain** rather than a door or a shutter, and that is the line: if it draws rather than latches, it is a bunk.
+**Clink261 is the closest near-miss**, and worth naming because anyone searching for a capsule will land on it. Its **POD beds** — their word, in a 14-bed mixed dorm — have ventilation, a reading light, USB and a socket, which is better fitted than a Zedwell berth. But they close with a **curtain**, not a door or a shutter, and that is the line: if it draws rather than latches, it is a bunk.
 
 **One exception, and it is a real one.** St Christopher's *Village* at London Bridge is not the same as the other St Christopher's sites: it has 26 purpose-built capsules and bills itself as the UK's first capsule hostel. It is in this guide on merit.
 
@@ -220,7 +220,7 @@ Most published lists of London capsule hotels are wrong, and it is worth knowing
 | **Sociable?** | Deliberately not | Yes | No |
 | **Children** | No, 18+ | Some | Yes |
 
-**Book a capsule if** you are alone, you want a Zone 1 address for hostel money, and you genuinely only need somewhere to sleep. **Book a hostel if** you want a kitchen, a bar, or to meet people — our [best hostels in London guide](/articles/best-hostels-london/) compares them, including the one where every dorm is en-suite and the one with a women's floor that has its own bathrooms. **Book a windowless room if** there are two or more of you — the second guest adds about £5 a night, which is the best-value thing in this whole category.
+**Book a capsule if** you are alone, you want a Zone 1 address for hostel money, and you only need somewhere to sleep. **Book a hostel if** you want a kitchen, a bar, or to meet people — our [best hostels in London guide](/articles/best-hostels-london/) compares them, including the one where every dorm is en-suite and the one with a women's floor that has its own bathrooms. **Book a windowless room if** there are two or more of you — the second guest adds about £5 a night, which is the best-value thing in this whole category.
 
 If you are not staying the night at all — a long layover, a late flight — a [day room](/articles/day-rooms-london/) is cheaper than any of this and you can book one for the afternoon.
 

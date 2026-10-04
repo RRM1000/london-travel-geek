@@ -1,7 +1,7 @@
 ---
 title: "National Rail 2FOR1: How to Actually Get Two-for-One on London Attractions"
 seoTitle: "National Rail 2FOR1 London 2026: Rules & Attractions"
-description: "The 2FOR1 scheme explained properly — why Oyster and contactless do not qualify, which attractions are included, which ones are only a third off, and when it is not worth the trouble."
+description: "The 2FOR1 scheme explained — why Oyster and contactless do not qualify, which attractions are included, which ones are only a third off, and when it is not worth the trouble."
 publishedAt: 2026-07-02
 updatedAt: 2026-09-25
 reviewBy: 2026-12-31
@@ -156,7 +156,7 @@ Also included: Cutty Sark, the Royal Observatory, the Painted Hall at the Old Ro
 
 **Capacity is not guaranteed.** At the Historic Royal Palaces sites, if your slot is full when you arrive you wait for the next one. Westminster Abbey cannot be pre-booked at all.
 
-> 💡 **The honest verdict.** 2FOR1 is excellent for **two adults arriving by train from outside London** who were buying rail tickets anyway. It is usually pointless for someone already in London on contactless — buying a throwaway rail ticket to unlock it normally costs more than it saves.
+> 💡 **The verdict.** 2FOR1 is excellent for **two adults arriving by train from outside London** who were buying rail tickets anyway. It is usually pointless for someone already in London on contactless — buying a throwaway rail ticket to unlock it normally costs more than it saves.
 
 ---
 
@@ -164,7 +164,7 @@ Also included: Cutty Sark, the Royal Observatory, the Painted Hall at the Old Ro
 
 Our [transport costs guide](/articles/london-public-transport-costs-and-fares/) tells you to use contactless or Oyster and avoid paper tickets. For getting around London, that advice is right.
 
-**2FOR1 is the one case where it works against you.** If you are coming in from outside London and plan to visit paid attractions, the National Rail ticket you were buying anyway unlocks a discount that contactless cannot. That is not a reason to change how you pay for the Tube — it is a reason to keep the rail ticket you already have rather than binning it at the barrier.
+**2FOR1 is the one case where it works against you.** If you are coming in from outside London and plan to visit paid attractions, the National Rail ticket you were buying anyway unlocks a discount that contactless cannot. That is not a reason to change how you pay for the Tube — it is a reason to keep the rail ticket you already have instead of binning it at the barrier.
 
 ---
 

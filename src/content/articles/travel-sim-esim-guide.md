@@ -25,7 +25,7 @@ faq:
   - q: "What is the best eSIM for visiting the UK?"
     a: "For a trip of a week or two, EE's own Travel eSIM is the strongest deal: unlimited data at uncapped speed on the UK's fastest network, £15 for 7 days or £20 for 14 days, with no UK address needed. If you use less data, a fixed plan is cheaper — Nomad has 10GB for 30 days at about £13 and Saily has 10GB for £14.49. None of these gives you a UK phone number."
   - q: "Can a tourist buy a UK SIM card?"
-    a: "Yes. Pay-as-you-go SIMs in the UK are not registered, and Lyca Mobile states plainly that you do not need ID to buy one. Starter SIMs are sold in supermarkets, newsagents and network shops, and most cost nothing or 99p before you add a plan. The catches are practical rather than legal: some networks only deliver SIMs to UK addresses, and some online payments and age checks do not accept cards issued abroad."
+    a: "Yes. Pay-as-you-go SIMs in the UK are not registered, and Lyca Mobile states plainly that you do not need ID to buy one. Starter SIMs are sold in supermarkets, newsagents and network shops, and most cost nothing or 99p before you add a plan. The restrictions are practical, not legal: some networks only deliver SIMs to UK addresses, and some online payments and age checks do not accept cards issued abroad."
   - q: "Which UK SIM is best if I am also travelling to Europe?"
     a: "O2. Its pay-as-you-go Big Bundles let you use up to 25GB of your allowance in its Europe zone at no extra cost. Lebara, on the Vodafone network, includes EU and India roaming, and Three's data packs include between 6GB and 30GB of roaming depending on the pack. EE charges £2.50 a day to use your allowance in Europe, Vodafone pay-as-you-go needs a paid roaming Extra outside Ireland, the Isle of Man, Iceland and Norway, and giffgaff includes only 5GB."
   - q: "Is it cheaper to use my US phone plan in the UK?"
@@ -194,7 +194,7 @@ Lebara runs on the **Vodafone** network, with no credit checks and no annual pri
 
 giffgaff runs on **O2** and has some of the cheapest plans in the country: **£10 for 15GB, £12 for 25GB, £15 for 30GB, £20 for 80GB** on its one-month pay-as-you-go plans, with 5G included. Its monthly rolling plans give more data for the same money — **£10 for 20GB** — but renew automatically on a card.
 
-**The catch is getting one.** giffgaff **only delivers SIMs to UK addresses**, so you either pick one up in a UK shop or use its eSIM. Only **5GB** of your data works in the EU. And its adult content block can only be removed with a passport or a British driving licence.
+**The difficulty is getting one.** giffgaff **only delivers SIMs to UK addresses**, so you either pick one up in a UK shop or use its eSIM. Only **5GB** of your data works in the EU. And its adult content block can only be removed with a passport or a British driving licence.
 
 ### EE — the best network, capped on pay-as-you-go
 
@@ -220,7 +220,7 @@ Lyca Mobile, on **EE**, sells its pay-as-you-go plans as a **Travel eSIM with a 
 
 ## Going on to Europe with a UK SIM
 
-Since Brexit, UK networks are free to charge for roaming in the EU, and several do. If your trip includes France, Spain or anywhere else in Europe, this decides which SIM to buy.
+Since Brexit, UK networks are free to charge for roaming in the EU, and several do. If your trip includes France, Spain or anywhere else in Europe, check the roaming charge before you pick a SIM.
 
 | Network | Using your UK allowance in the EU |
 | --- | --- |
@@ -302,7 +302,7 @@ EE, O2 and Vodafone can fall back to their 2G networks for calls if your phone d
 - **O2** — blocks 18+ content by default and asks for proof of age to lift it.
 - **EE Travel eSIM** — set to "Moderate", which blocks 18-rated content, and **cannot be changed**.
 
-If this matters to you, buy your SIM in a network's own shop and ask them to lift the block there with your passport.
+If you want the block lifted, buy your SIM in a network's own shop and ask them to lift the block there with your passport.
 
 ---
 
@@ -331,7 +331,7 @@ Keeping your home SIM active lets you receive calls and bank security texts on y
 
 1. Go to **Settings → Mobile Data** (Cellular on an iPhone).
 2. Set **Mobile Data** to the **Travel data** line.
-3. Turn off **Allow Mobile Data Switching**, so your phone never quietly falls back to your home line when the signal dips.
+3. Turn off **Allow Mobile Data Switching**, so your phone never falls back to your home line when the signal dips.
 4. Keep **Home** as the default voice line if you need texts on your usual number.
 
 ### Stop roaming charges

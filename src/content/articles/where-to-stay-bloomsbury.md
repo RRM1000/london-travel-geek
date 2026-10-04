@@ -28,21 +28,21 @@ Bloomsbury's hotels are usually reduced to three names — a hostel, a windowles
 
 **Bloomsbury runs from a shared dorm bed to a fully relaunched grand hotel inside about ten minutes on foot.** Generator London's cheapest dorm bed and Kimpton Fitzroy London's Russell Square suites sit roughly eight minutes apart. That is the fact worth booking around: which end of the walk you want, and what each end actually gets you.
 
-**The area itself does the rest of the work.** Zedwell Tottenham Court Road and The Bloomsbury Hotel are both under two minutes from the British Museum. Russell Square station is on the Piccadilly line, which runs to Heathrow without a change. And the garden squares that give the area its name are genuinely quiet — quieter, at night, than anywhere else this close to the centre.
+**The area itself does the rest of the work.** Zedwell Tottenham Court Road and The Bloomsbury Hotel are both under two minutes from the British Museum. Russell Square station is on the Piccadilly line, which runs to Heathrow without a change. And the garden squares that give the area its name are quiet — quieter, at night, than anywhere else this close to the centre.
 
 > 💡 **The Short Version:** **[Generator London](hotel:generator-london)** is a bed in a former police building, and it says outright that it is a party hostel — wrong choice before an early train. For a private room without the party, **[Mentone Hotel](https://www.mentonehotel.com/)** and **[Ridgemount Hotel](https://www.ridgemounthotel.co.uk/)** anchor the Cartwright Gardens and Gower Street B&B strip — check which rooms are en suite before you book either. **[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** sells a windowless private Cocoon two minutes from the Museum, and **[Morgan Hotel](hotel:morgan-hotel-bloomsbury)** does similar money in family apartments up to 51 sq m. At the top, **[The Bloomsbury Hotel](hotel:the-bloomsbury-hotel)**, **[Kimpton Fitzroy London](hotel:kimpton-fitzroy-london)** and the newly rebuilt **[The Imperial](https://www.imperialhotels.co.uk/hotels/the-imperial/)** all sit on or beside Russell Square.
 
 ## Which part of Bloomsbury
 
-The name covers a genuinely large area, and where you land inside it changes the walk to everything else.
+The name covers a large area, and where you land inside it changes the walk to everything else.
 
 **Great Russell Street and the museum precinct**, in the south-west corner, is where the British Museum crowd is — Zedwell and The Bloomsbury Hotel are both here, a minute or two from the colonnade. Our [Bloomsbury area guide](/articles/bloomsbury-area-guide/) covers the street itself, including the quieter Montague Place entrance to the museum.
 
 **Russell Square and Montague Street**, the middle of the area, is the grandest run: Kimpton Fitzroy London and The Imperial face each other across the square, and Montague on the Gardens and The Zetter Bloomsbury sit a street over. It is also the best-connected corner — Russell Square station is on the square itself.
 
-**Cartwright Gardens and Gower Street**, running north-west toward Euston Road, is the budget strip: a run of family-run Georgian B&Bs behind a private garden square with its own tennis courts, plus a second cluster along Gower Street. **This is also the stretch where quality swings hardest between one address and the next** — stick to the well-attested names below rather than picking one off a map.
+**Cartwright Gardens and Gower Street**, running north-west toward Euston Road, is the budget strip: a run of family-run Georgian B&Bs behind a private garden square with its own tennis courts, plus a second cluster along Gower Street. **This is also the stretch where quality swings hardest between one address and the next** — stick to the well-attested names below instead of picking one off a map.
 
-**The edges are genuinely fuzzy, in both directions.** Generator London's own website files the property under "London King's Cross" rather than Bloomsbury, despite an address on Tavistock Place that every independent guide calls Bloomsbury. Arosfa Hotel's own site does the opposite, giving its Gower Street address as Fitzrovia. Treat the boundary as a walk, not a line on a map.
+**The edges are fuzzy, in both directions.** Generator London's own website files the property under "London King's Cross" rather than Bloomsbury, despite an address on Tavistock Place that every independent guide calls Bloomsbury. Arosfa Hotel's own site does the opposite, giving its Gower Street address as Fitzrovia. Treat the boundary as a walk, not a line on a map.
 
 ## Where to sleep
 
@@ -56,7 +56,7 @@ The name covers a genuinely large area, and where you land inside it changes the
 
 A former Bloomsbury police station turned into one of London's largest hostels: dorms of four to ten, female-only dorms, private rooms, a 24-hour reception and a bar built into the back half of an actual double-decker bus. **Generator's own booking site groups this property under "London King's Cross" rather than Bloomsbury** — a reminder that the two areas run into each other here, whatever the postcode says.
 
-**It is an openly social party hostel, and does not soften that anywhere on its own site.** The right booking if meeting people on the trip is the point; the wrong one the night before an early train or for a light sleeper. Female-only dorms are bookable if that is the deciding factor.
+**It is an openly social party hostel, and does not soften that anywhere on its own site.** The right booking if you want to meet people on the trip; the wrong one the night before an early train or for a light sleeper. Female-only dorms are bookable if that is the deciding factor.
 
 ### Mentone Hotel — Cartwright Gardens, and the garden has tennis courts
 
@@ -66,9 +66,9 @@ A former Bloomsbury police station turned into one of London's largest hostels: 
 
 *Mentone Hotel, Cartwright Gardens.*
 
-Three connected Georgian townhouses on Cartwright Gardens, a private crescent with gated gardens and — genuinely — its own tennis courts, run by the same family since 1972. Every one of the forty-plus rooms is en suite, from a single with a three-foot bed up to a family room sleeping five, and the smallest doubles are on the top floor or lower ground rather than the street-facing floors.
+Three connected Georgian townhouses on Cartwright Gardens, a private crescent with gated gardens and its own tennis courts, run by the same family since 1972. Every one of the forty-plus rooms is en suite, from a single with a three-foot bed up to a family room sleeping five, and the smallest doubles are on the top floor or lower ground, not the street-facing floors.
 
-**Two things decide whether this works.** Breakfast — a cooked English plus a Continental buffet — **is free only when you book directly**; book through a third party and it is not included. And **the building has no lift and no air conditioning**, a condition of the Grade II listing rather than an oversight, which the hotel states plainly on its own FAQ page. Free cancellation applies more than 48 hours out.
+**Two things decide whether this works.** Breakfast — a cooked English plus a Continental buffet — **is free only when you book directly**; book through a third party and it is not included. And **the building has no lift and no air conditioning**, a condition of the Grade II listing, not an oversight, which the hotel states plainly on its own FAQ page. Free cancellation applies more than 48 hours out.
 
 ### Ridgemount Hotel — Gower Street, and not every room is en suite
 
@@ -80,7 +80,7 @@ Three connected Georgian townhouses on Cartwright Gardens, a private crescent wi
 
 Two Georgian townhouses on Gower Street, thirty-two rooms across four floors, run with the kind of returning-guest loyalty a family hotel earns over decades. Every room has fresh linen, a smart TV and tea and coffee making facilities, and hot and cold drinks are available in the lounge around the clock.
 
-**Read the room grade before you book: only fifteen of the thirty-two rooms are en suite.** The hotel's own room list states the split directly, so it is worth asking which you are being offered rather than assuming from the photos. A full English breakfast is served in the dining room each morning.
+**Read the room grade before you book: only fifteen of the thirty-two rooms are en suite.** The hotel's own room list states the split directly, so ask which you are being offered instead of assuming from the photos. A full English breakfast is served in the dining room each morning.
 
 **The wider Cartwright Gardens and Gower Street strip** carries several more of the same shape and era. **[Celtic Hotel](https://www.celtichotel.com/)**, on Guilford Street, is under a minute from Russell Square station and has been run by the same family for years. **[Arosfa Hotel](https://arosfalondon.com/)**, further along Gower Street, is part of the small Compass Hospitality group and keeps a guest-only bar. **[St Athans Hotel](https://www.stathanshotel.com/)**, on Tavistock Place, markets itself as one of London's earlier eco-conscious budget hotels and takes pets. All three serve a complimentary breakfast and sit within five minutes of Russell Square or King's Cross on foot.
 
@@ -118,7 +118,7 @@ A family-run hotel spread across two buildings on Bloomsbury Street, a couple of
 
 A Lutyens-designed neo-Georgian building a minute along Great Russell Street from the museum, run by the Irish family-owned Doyle Collection and named among London's finest hotels in Condé Nast Traveller's Readers' Choice Awards 2025. Three separate bars carry the address further than most hotels bother: **the Coral Room**, a Martin Brudnizki-designed "Grand Salon Bar"; **the Bloomsbury Club Bar**, built around the 1930s Bloomsbury Set; and **Dalloway Terrace**, the flower-covered terrace restaurant already known to anyone who has read our [Bloomsbury area guide](/articles/bloomsbury-area-guide/) — booking a room here is the way to get a table there without the wait.
 
-**It is genuinely set up for families as well as couples**: babysitting can be arranged, cookies and milk appear before bed, and play tents are part of the family-room offer, on top of a pet-friendly policy and complimentary gym access on every room type.
+**It is set up for families as well as couples**: babysitting can be arranged, cookies and milk appear before bed, and play tents are part of the family-room offer, on top of a pet-friendly policy and complimentary gym access on every room type.
 
 ### Kimpton Fitzroy London — the one that takes any pet, any size, free
 
@@ -142,7 +142,7 @@ A full block down the eastern side of Russell Square, interiors by Tara Bernerd 
 
 **The Imperial has been relaunched.** It spent years as a plain three-star option on Russell Square — patterned carpets, no design ambition, cheap because it looked it. The operator's own site opens with "we begin our Third Chapter": a full relaunch into 357 mid-century-modern rooms across nine new grades, from an entry Access room up to a 57 sq m Beacon suite and a two-bedroom Bloomsbury Beacon suite with panoramic views over the square.
 
-**The new rooftop is the reason to know about this one.** Arcus, a 324-seat bar and restaurant on the tenth floor themed around London's weather, opened as part of the relaunch, alongside Edit Bar & Lounge downstairs. The Imperial is part of the Imperial London Hotels group, which also runs the Bedford, Morton, President, City Sleeper and Tavistock hotels around the same square — the Tavistock is the group's budget end, and one of the more independently attested cheap beds on this list.
+**The new rooftop sets this one apart.** Arcus, a 324-seat bar and restaurant on the tenth floor themed around London's weather, opened as part of the relaunch, alongside Edit Bar & Lounge downstairs. The Imperial is part of the Imperial London Hotels group, which also runs the Bedford, Morton, President, City Sleeper and Tavistock hotels around the same square — the Tavistock is the group's budget end, and one of the more independently attested cheap beds on this list.
 
 **Further options right around Russell Square and Montague Street**, each with real evidence behind it but not covered in full here: **[The Montague on the Gardens](hotel:montague-on-the-gardens)**, a Red Carnation house with a raised garden terrace and live jazz in the Leopard Bar; **[The Zetter Bloomsbury](hotel:the-zetter-bloomsbury)**, a 68-room townhouse hotel across six Georgian buildings that only opened in April 2026; **[The Hoxton, Holborn](hotel:the-hoxton-holborn)**, two minutes over the Holborn line with rooms from a genuine Shoebox grade; and **[Bertrand's Townhouse](hotel:bertrands-townhouse)** on Bedford Place, themed on Bertrand Russell with a cigar garden and jazz nights.
 
@@ -150,7 +150,7 @@ A full block down the eastern side of Russell Square, interiors by Tara Bernerd 
 
 ## Where to stay just outside
 
-Bloomsbury already covers most price tiers on its own, so this is three directions worth knowing about rather than a full second guide. If you have not settled on an area at all, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
+Bloomsbury already covers most price tiers on its own, so this covers three directions, not a full second guide. If you have not settled on an area at all, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
 
 ### Fitzrovia — west across Tottenham Court Road, and quieter again
 
@@ -162,7 +162,7 @@ Immediately west of Zedwell and Gower Street, Fitzrovia trades Bloomsbury's muse
 
 ### King's Cross — north, for an early train
 
-Ten minutes north, King's Cross adds the Eurostar and the East Coast Main Line, at a real premium for the hotels closest to the concourse. If a train is the reason for the trip, our [King's Cross and St Pancras guide](/articles/where-to-stay-kings-cross/) works out exactly how early you need to be and which hotels are worth the extra for it — including the case, set out there in full, for walking the other way and sleeping in Bloomsbury instead.
+Ten minutes north, King's Cross adds the Eurostar and the East Coast Main Line, at a real premium for the hotels closest to the concourse. If a train is why you are travelling, our [King's Cross and St Pancras guide](/articles/where-to-stay-kings-cross/) works out exactly how early you need to be and which hotels are worth the extra for it — including the case, set out there in full, for walking the other way and sleeping in Bloomsbury instead.
 
 ## What you are staying for
 

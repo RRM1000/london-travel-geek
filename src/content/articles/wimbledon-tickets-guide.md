@@ -38,7 +38,7 @@ faq:
   - q: "Are there showers in the Wimbledon queue?"
     a: "Not in the Queue itself — the official facilities list covers toilets, baby change, bottle refill, phone charging, left luggage and food, and no showers of any kind. The workaround is The Gym Group Southfields at 231 Wimbledon Park Road, SW18 5RJ, which is open 24 hours, has showers and lockers, sells a £12.99 day pass, and is about eight minutes' walk from the Queue on the same road."
   - q: "Can you go to Wimbledon in the evening, and is it easier to get in?"
-    a: "Yes, and it is much easier. Once the Grounds reach capacity the Queue switches to one out, one in, so arriving from about 4pm usually means a short wait rather than a six-hour one. Ticket sales run until 8pm, Ticket Resale until 9pm, and play can continue until the 11pm curfew because Centre Court and No.1 Court both have roofs and floodlights. There is no evening discount — a Grounds Pass costs the same whenever you buy it — so what you save is the wait, not money."
+    a: "Yes, and it is much easier. Once the Grounds reach capacity the Queue switches to one out, one in, so arriving from about 4pm usually means a short wait, not a six-hour one. Ticket sales run until 8pm, Ticket Resale until 9pm, and play can continue until the 11pm curfew because Centre Court and No.1 Court both have roofs and floodlights. There is no evening discount — a Grounds Pass costs the same whenever you buy it — so what you save is the wait, not money."
   - q: "How does the Wimbledon Ticket Resale work?"
     a: "Show Court ticket holders scan out when they leave for the day and their seats are resold from 3pm. You join a virtual queue in the Wimbledon app and, if you are selected, get a text with instructions. Tickets were £15 for Centre Court and £10 for No.1 and No.2 Court in 2026; the AELTC sets the resale price for each Championships and has not published a 2027 figure. All proceeds net of VAT go to the Wimbledon Foundation. Join the virtual queue as early in the day as you can."
   - q: "Is it legal to buy Wimbledon tickets on resale sites?"
@@ -130,7 +130,7 @@ Two smaller slices are documented. In 2026 the AELTC's **Family Ballot** gave ti
 
 ## Route 1: The Wimbledon Public Ballot
 
-This is the ballot that needs no membership of anything, and it is the main way to buy a Show Court ticket at face value months ahead. It has run since 1924, it is free to enter, and it is genuinely random — the AELTC states that it gives no preferential treatment to people who have applied for years without success.
+This is the ballot that needs no membership of anything, and it is the main way to buy a Show Court ticket at face value months ahead. It has run since 1924, it is free to enter, and it is random — the AELTC states that it gives no preferential treatment to people who have applied for years without success.
 
 ### When it runs
 
@@ -418,7 +418,7 @@ When the 500 Centre Court wristbands run out, everyone behind that point is buyi
 
 > ⚠️ **Pack your tent away or lose your card.** Under the 2026 Queue rules, guests who do not pack their tents away in the morning have their queue cards removed. After being woken you take everything oversized to left luggage and rejoin the line.
 
-> ⚠️ **The one moment you must not be away from your tent.** Queue cards are handed out during the afternoon, at a time the AELTC deliberately does not announce. If the distributors reach your row while you are off buying a coffee, you have missed it — which is why the two-person tent rule matters, as one of you can go while the other holds the position.
+> ⚠️ **The one moment you must not be away from your tent.** Queue cards are handed out during the afternoon, at a time the AELTC deliberately does not announce. If the distributors reach your row while you are off buying a coffee, you have missed it — which is why the two-person tent rule helps, as one of you can go while the other holds the position.
 
 ### Camping overnight
 
@@ -440,7 +440,7 @@ Three things people forget:
 
 - **Earplugs.** You are in a thin tent inches from strangers.
 - **An eye mask.** It is light by 4.30am in early July.
-- **Thermals or a warm layer.** Even in a heatwave, the second night gets genuinely cold on open grass.
+- **Thermals or a warm layer.** Even in a heatwave, the second night gets cold on open grass.
 
 Beyond that: a pop-up two-person tent, sleeping bag, **inflatable mattress or foam mat** (the ground is hard), a picnic blanket or tarpaulin, a **power bank and cable** — the single most-cited essential — plus waterproofs, an umbrella for sun as much as rain, sun cream, a refillable bottle, snacks, a head torch, a microfibre towel and cards to pass the time.
 
@@ -608,7 +608,7 @@ Indicative 2027 Centre Court prices from an established broker, **sold as pairs*
 
 > 💡 **Hold those numbers against the ballot.** The cheapest Centre Court debenture pair on that list works out at about **£2,955 a head** for a second-round day. The 2027 ballot price for the best Centre Court seats on that same day is **£155**. The debenture market is roughly **nineteen times face value**.
 
-Because debenture tickets carry the word "debenture" printed where the price would normally be, they are the one thing on the resale market that is genuinely transferable. That is exactly why unofficial sites like to imply everything they sell is a debenture ticket. Check the ticket, not the claim.
+Because debenture tickets carry the word "debenture" printed where the price would normally be, they are the one thing on the resale market that is transferable. That is exactly why unofficial sites like to imply everything they sell is a debenture ticket. Check the ticket, not the claim.
 
 ---
 
@@ -616,11 +616,11 @@ Because debenture tickets carry the word "debenture" printed where the price wou
 
 ## Coming from abroad
 
-Wimbledon no longer runs a separate overseas process. The catch is timing: the decisive moment is **ten months before the tournament**.
+Wimbledon no longer runs a separate overseas process. The limit is timing: the decisive moment is **ten months before the tournament**.
 
 1. **Enter the Public Ballot.** The application period is explicitly the same "for all guests, including those from overseas". It is online, it is free, and it needs nothing more than a myWimbledon account and a permanent home address. The 2027 window closed on 14 September 2026, and the 2028 one should open in the first days of September 2027.
 2. **The Queue works for visitors exactly as well as it does for locals.** Anyone can join it — no residency, membership or prior registration required. A **£35 Grounds Pass plus a Ticket Resale seat (£15 in 2026)** is a realistic plan for Centre Court at £50 all-in.
-3. **The LTA ballot is a grey area.** Its terms set no residency requirement, and the sign-up form asks for no address or country at all — but the LTA reserves the right to verify a participant's place of residence. If you live abroad and are considering paying £25 for it, ask the LTA before you join rather than after.
+3. **The LTA ballot is a grey area.** Its terms set no residency requirement, and the sign-up form asks for no address or country at all — but the LTA reserves the right to verify a participant's place of residence. If you live abroad and are considering paying £25 for it, ask the LTA before you join, not after.
 4. **If you want certainty, Newmarket Holidays is the cheap end of it** — a reserved No.1 Court seat plus a hotel from **£348pp**, against £1,395 plus VAT for the cheapest hospitality package.
 5. **Bring photo ID.** You are asked to bring photo identification on the day — a passport, driving licence or travelcard showing your address.
 6. **Know how refunds come back.** The AELTC refunds in **pounds sterling, to the original card only**. On a currency that has moved since you paid, a refund is not the same amount you spent.
@@ -675,7 +675,7 @@ Pre-purchased tickets are digital through the Wimbledon app; a small number of p
 
 **Wi-Fi and charging.** Free Wi-Fi at the gates, on The Hill and along the east side including Parkside and the Tea Lawn. Charging stations sit next to the pharmacy in Parkside, under the big screen on The Hill, at the southeast corner of Centre Court, and in the Southern Village.
 
-**If it rains.** You are entitled to a **full refund if less than one hour** of play happens on your court, and **50% if between one and two hours**, calculated on the Referee's official figures rather than what you personally watched. For a Grounds Pass, play is averaged across all the courts it covers. **Resale tickets and anything bought after 5pm are excluded.** Separately, ordinary tickets can be returned for a refund up to 24 hours before the day of play — though on a ballot ticket, requesting that refund also removes you from the ballot for that year.
+**If it rains.** You are entitled to a **full refund if less than one hour** of play happens on your court, and **50% if between one and two hours**, calculated on the Referee's official figures, not what you personally watched. For a Grounds Pass, play is averaged across all the courts it covers. **Resale tickets and anything bought after 5pm are excluded.** Separately, ordinary tickets can be returned for a refund up to 24 hours before the day of play — though on a ballot ticket, requesting that refund also removes you from the ballot for that year.
 
 ---
 
